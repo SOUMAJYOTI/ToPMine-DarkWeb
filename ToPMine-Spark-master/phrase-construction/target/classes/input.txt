@@ -1,0 +1,2 @@
+Without any arguments, the SPARK_HOME environmental variable will be used, and if that isn't set, other possible install locations will be checked. If you've installed spark with.
+
