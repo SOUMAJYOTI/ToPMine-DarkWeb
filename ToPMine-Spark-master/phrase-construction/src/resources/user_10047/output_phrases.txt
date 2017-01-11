@@ -1,0 +1,16 @@
+Topic 0:
+  reached message:0.00
+  numerous:0.00
+  release:0.00
+
+Topic 1:
+  reached message:0.00
+  numerous:0.00
+  release:0.00
+
+Topic 2:
+  reached message:0.00
+  numerous:0.00
+  release:0.00
+
+K: 3, Log-Likelihood: 0.000, Alpha: 2.000, Beta: 1.100

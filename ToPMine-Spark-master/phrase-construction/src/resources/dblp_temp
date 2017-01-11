@@ -1,0 +1,109 @@
+Latent Friend Mining from Blog Data.
+Frequent Closed Itemset Mining Using Prefix Graphs with an Efficient Flow-Based Pruning Strategy.
+Mining Latent Associations of Objects Using a Typed Mixture Model--A Case Study on Expert/Expertise Mining.
+Boosting the Feature Space: Text Classification for Unstructured Data on the Web.
+An Information Theoretic Approach to Detection of Minority Subsets in Database.
+Fast On-line Kernel Learning for Trees.
+Learning to Use a Learned Model: A Two-Stage Approach to Classification.
+Bayesian State Space Modeling Approach for Measuring the Effectiveness of Marketing Activities and Baseline Sales from POS Data.
+Detecting Link Spam Using Temporal Information.
+Confident Identification of Relevant Objects Based on Nonlinear Rescaling Method and Transductive Inference.
+Lazy Bagging for Classifying Imbalanced Data.
+Efficient Algorithms for Mining Significant Substructures in Graphs with Quality Guarantees.
+Finding Predictive Runs with LAPS.
+Mining Frequent Itemsets in a Stream.
+Extracting Product Comparisons from Discussion Boards.
+DUSC: Dimensionality Unbiased Subspace Clustering.
+Block-Iterative Algorithms for Non-negative Matrix Approximation.
+Cross-Mining Binary and Numerical Attributes.
+Efficient Kernel Discriminant Analysis via Spectral Regression.
+Improving Knowledge Discovery in Document Collections through Combining Text Retrieval and Link Analysis Techniques.
+The Chosen Few: On Identifying Valuable Patterns.
+Change-Point Detection in Time-Series Data Based on Subspace Identification.
+Using Burstiness to Improve Clustering of Topics in News Streams.
+Mining Statistical Information of Frequent Fault-Tolerant Patterns in Transactional Databases.
+On Appropriate Assumptions to Mine Data Streams: Analysis and Practice.
+Can the Content of Public News Be Used to Forecast Abnormal Stock Market Behaviour?
+A Pairwise Covariance-Preserving Projection Method for Dimension Reduction.
+Preserving Privacy through Data Generation.
+Efficient Discovery of Frequent Approximate Sequential Patterns.
+Mining Interpretable Human Strategies: A Case Study.
+Disk Aware Discord Discovery: Finding Unusual Time Series in Terabyte Sized Datasets.
+Incorporating User Provided Constraints into Document Clustering.
+A Support Vector Approach to Censored Targets.
+Supervised Learning by Training on Aggregate Outputs.
+Cocktail Ensemble for Regression.
+How Much Noise Is Too Much: A Study in Automatic Text Classification.
+Topical N-Grams: Phrase and Topic Discovery, with an Application to Information Retrieval.
+Consensus Clusterings.
+Spectral Regression: A Unified Approach for Sparse Subspace Learning.
+Data Discretization Unification.
+Temporal Analysis of Semantic Graphs Using ASALSAN.
+Discovering Temporal Communities from Social Network Documents.
+Optimizing Frequency Queries for Data Mining Applications.
+Training Conditional Random Fields by Periodic Step Size Adaptation for Large-Scale Text Mining.
+Latent Dirichlet Conditional Naive-Bayes Models.
+Dynamic Micro Targeting: Fitness-Based Approach to Predicting Individual Preferences.
+A Text Classification Framework with a Local Feature Ranking for Learning Social Networks.
+Predicting Blogging Behavior Using Temporal and Social Networks.
+Web Site Recommendation Using HTTP Traffic.
+Trend Motif: A Graph Mining Approach for Analysis of Dynamic Complex Networks.
+Solving Consensus and Semi-supervised Clustering Problems Using Nonnegative Matrix Factorization.
+Bandit-Based Algorithms for Budgeted Learning.
+Multilevel Belief Propagation for Fast Inference on Markov Random Fields.
+Active Learning from Data Streams.
+Depth-Based Novelty Detection and Its Application to Taxonomic Research.
+Parallel Mining of Frequent Closed Patterns: Harnessing Modern Computer Architectures.
+Statistical Learning Algorithm for Tree Similarity.
+Efficient Data Sampling in Heterogeneous Peer-to-Peer Networks.
+Lightweight Distributed Trust Propagation.
+Social Network Extraction of Academic Researchers.
+Mechanism Design for Clustering Aggregation by Selfish Systems.
+Scalable Collaborative Filtering with Jointly Derived Neighborhood Interpolation Weights.
+Exploration of Link Structure and Community-Based Node Roles in Network Analysis.
+Document Transformation for Multi-label Feature Selection in Text Categorization.
+A Generalization of Proximity Functions for K-Means.
+Recommendation via Query Centered Random Walk on K-Partite Graph.
+Binary Matrix Factorization with Applications.
+Weighted Additive Criterion for Linear Dimension Reduction.
+A Cascaded Approach to Biomedical Named Entity Recognition Using a Unified Model.
+Using Significant, Positively Associated and Relatively Class Correlated Rules for Associative Classification of Imbalanced Datasets.
+Language-Independent Set Expansion of Named Entities Using the Web.
+On Meta-Learning Rule Learning Heuristics.
+Understanding Discrete Classifiers with a Case Study in Gene Prediction.
+ORIGAMI: Mining Representative Orthogonal Graph Patterns.
+Structure-Based Statistical Features and Multivariate Time Series Clustering.
+Rule Cubes for Causal Investigations.
+Non-redundant Multi-view Clustering via Orthogonalization.
+Analyzing and Detecting Review Spam.
+Detecting Subdimensional Motifs: An Efficient Algorithm for Generalized Multivariate Pattern Discovery.
+Optimal Subsequence Bijection.
+A Novel Criterion for Onset Detection: Differential Information Redundancy with Application to Human Movement Initiation.
+An Efficient Spectral Algorithm for Network Community Discovery and Its Applications to Biological and Social Networks.
+Connections between Mining Frequent Itemsets and Learning Generative Models.
+Local Probabilistic Models for Link Prediction.
+Sampling for Sequential Pattern Mining: From Static Databases to Data Streams.
+gApprox: Mining Frequent Approximate Patterns from a Massive Network.
+A Computational Approach to Style in American Poetry.
+Locally Constrained Support Vector Clustering.
+estMax: Tracing Maximal Frequent Itemsets over Online Data Streams.
+Finding Cohesive Clusters for Analyzing Knowledge Communities.
+Zonal Co-location Pattern Discovery with Dynamic Parameters.
+Prism: A Primal-Encoding Approach for Frequent Sequence Mining.
+Succinct Matrix Approximation and Efficient k-NN Classification.
+Incremental Subspace Clustering over Multiple Data Streams.
+Bayesian Folding-In with Dirichlet Kernels for PLSI.
+A Semantic Kernel for Semi-structured DocumentS.
+Community Learning by Graph Approximation.
+Detecting Fractures in Classifier Performance.
+Co-ranking Authors and Documents in a Heterogeneous Network.
+Transitional Patterns and Their Significant Milestones.
+Failure Prediction in IBM BlueGene/L Event Logs.
+Sample Selection for Maximal Diversity.
+Semi-supervised Document Clustering via Active Learning with Pairwise Constraints.
+Improving Text Classification by Using Encyclopedia Knowledge.
+High-Speed Function Approximation.
+Maximum Entropy Based Significance of Itemsets.
+Computing Correlation Anomaly Scores Using Stochastic Nearest Neighbors.
+Noise Modeling with Associative Corruption Rules.
+Local Word Bag Model f

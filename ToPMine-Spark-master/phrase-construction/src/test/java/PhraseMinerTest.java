@@ -1,6 +1,10 @@
 import org.apache.commons.lang.mutable.MutableLong;
 import org.junit.Assert;
 import org.junit.Test;
+
+import TMine.PhraseConstructionException;
+import TMine.PhraseMiner;
+
 import org.junit.BeforeClass;
 
 import java.util.Arrays;

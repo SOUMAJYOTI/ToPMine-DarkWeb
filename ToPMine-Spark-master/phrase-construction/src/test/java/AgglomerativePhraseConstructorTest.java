@@ -3,6 +3,10 @@ import org.junit.BeforeClass;
 import org.junit.Assert;
 import org.mockito.Mockito;
 
+import TMine.AgglomerativePhraseConstructor;
+import TMine.PhraseConstructionException;
+import TMine.PhraseDictionary;
+
 import java.net.MalformedURLException;
 import java.util.List;
 
