@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:1.75
+  item:1.55
+  account:1.46
+  bitcoins:1.31
+  transfer:1.23
+  tmg:1.21
+  send:1.12
+  order:1.09
+  thing:1.05
+  time:0.99
+
+Topic 1:
+  vendor:2.00
+  account:1.89
+  bitcoins:1.30
+  transfer:1.21
+  tmg:1.20
+  item:1.18
+  time:1.08
+  find:1.01
+  dont:0.90
+  solve:0.87
+
+Topic 2:
+  vendor:1.70
+  tmg:1.52
+  account:1.49
+  transfer:1.35
+  item:1.27
+  bitcoins:1.24
+  time:1.07
+  find:0.95
+  sr:0.85
+  thing:0.84
+
+Topic 3:
+  time:1.45
+  account:1.36
+  vendor:1.23
+  find:1.18
+  protectedone:1.12
+  transfer:1.08
+  bitcoins:1.03
+  item:0.99
+  tmg:0.93
+  solve:0.77
+
+Topic 4:
+  account:1.80
+  time:1.41
+  vendor:1.32
+  tmg:1.13
+  transfer:1.13
+  bitcoins:1.11
+  find:1.04
+  item:1.01
+  couldn:0.84
+  question:0.83
+
+K: 5, Log-Likelihood: -788.694, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  hacker:0.52
+  btc:0.48
+  people:0.37
+  anonymous:0.37
+  reason:0.37
+  paying:0.37
+  loyalty:0.37
+  things:0.36
+  great:0.29
+  feel:0.29
+
+Topic 1:
+  dnm forums:0.39
+  time:0.39
+  enjoying:0.39
+  sour:0.39
+  reddit:0.39
+  banter:0.39
+  hypothetically:0.39
+  question:0.39
+  days:0.39
+  hope:0.39
+
+Topic 2:
+  admin:0.56
+  shit:0.56
+  tuned:0.56
+  flood:0.56
+  majestic:0.56
+  safe:0.56
+  garden:0.56
+  rent:0.56
+  talk:0.56
+  decided:0.56
+
+Topic 3:
+  btc:1.78
+  hacker:1.76
+  loyalty:1.07
+  things:1.07
+  anonymous:1.06
+  reason:1.06
+  paying:1.06
+  people:1.06
+  stealing:0.44
+  assumed:0.44
+
+Topic 4:
+  btc:0.73
+  hacker:0.71
+  paying:0.50
+  people:0.50
+  reason:0.50
+  things:0.50
+  anonymous:0.50
+  loyalty:0.49
+  supporting:0.26
+  hired:0.26
+
+K: 5, Log-Likelihood: -555.760, Alpha: 11.000, Beta: 1.100

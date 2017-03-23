@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:5.50
+  info:5.47
+  buy:5.28
+  online:5.16
+  wallets:5.12
+  tails:5.05
+  easy:4.76
+  computer:3.89
+  security:3.04
+  bit:2.35
+
+Topic 1:
+  coinbase:2.81
+  bitcoin:2.54
+  account:2.28
+  hive:1.65
+  tails:1.62
+  secure:1.60
+  wallets:1.39
+  blockchain:1.36
+  online:1.35
+  library:1.17
+
+Topic 2:
+  account:6.46
+  docs:3.45
+  trade:3.44
+  love:3.44
+  fake:3.41
+  local:3.39
+  good:2.87
+  cash:2.85
+  people:1.89
+  ve:1.62
+
+Topic 3:
+  account:12.52
+  bank:7.28
+  linking:7.28
+  coinbase:5.95
+  linked:5.73
+  dont:4.52
+  input:4.03
+  idea:4.01
+  hardware:3.99
+  paranoia:3.99
+
+Topic 4:
+  wallet:8.34
+  btc:4.45
+  cash:4.07
+  purchase:3.68
+  coins:3.66
+  perfect:2.08
+  money:2.08
+  price:2.02
+  markup:2.01
+  agora:1.79
+
+K: 5, Log-Likelihood: -3001.830, Alpha: 11.000, Beta: 1.100

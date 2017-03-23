@@ -1,0 +1,61 @@
+Topic 0:
+  btc:4.63
+  sig:4.04
+  escrow:3.70
+  wallet:3.65
+  multi:3.55
+  xss:3.10
+  operator:2.67
+  trust:2.67
+  account:2.66
+  key:2.53
+
+Topic 1:
+  good:1.74
+  site:1.28
+  nice:1.19
+  drama:0.53
+  losttemple:0.53
+  promising:0.53
+  quote:0.53
+  safe:0.53
+  madnesssounds:0.53
+  amultravioletcity:0.53
+
+Topic 2:
+  script:2.86
+  exploit:2.86
+  xss:2.56
+  sig:2.37
+  buyers:2.27
+  vendors:2.24
+  blockchain:1.92
+  browser:1.92
+  bitcoin:1.92
+  addresses:1.87
+
+Topic 3:
+  site:2.12
+  sig:0.87
+  system:0.71
+  xss:0.71
+  wallets:0.69
+  escrow:0.63
+  market:0.55
+  determined:0.53
+  place:0.52
+  multi:0.50
+
+Topic 4:
+  site:2.35
+  good:0.69
+  system:0.67
+  sig:0.56
+  wallets:0.55
+  place:0.50
+  determined:0.49
+  xss:0.48
+  escrow:0.47
+  nice:0.41
+
+K: 5, Log-Likelihood: -1561.370, Alpha: 11.000, Beta: 1.100

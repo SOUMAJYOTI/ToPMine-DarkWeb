@@ -1,0 +1,61 @@
+Topic 0:
+  black:0.44
+  flag:0.44
+  order:0.44
+  february:0.36
+  site:0.21
+  transit:0.21
+  received:0.21
+  transaction:0.21
+  escrow:0.21
+  project:0.21
+
+Topic 1:
+  february:0.46
+  flag:0.35
+  black:0.35
+  order:0.33
+  ziggy:0.22
+  ami:0.22
+  worth:0.22
+  pseudo:0.22
+  opinion:0.22
+  estimated:0.22
+
+Topic 2:
+  order:0.43
+  flag:0.42
+  black:0.42
+  february:0.37
+  vendor:0.21
+  release:0.21
+  didnt:0.21
+  transaction:0.21
+  received:0.21
+  transit:0.21
+
+Topic 3:
+  february:0.43
+  flag:0.36
+  black:0.36
+  order:0.36
+  infrastructure:0.21
+  expertise:0.21
+  belongs:0.21
+  mettadpr:0.21
+  amount:0.21
+  scam:0.21
+
+Topic 4:
+  order:0.44
+  black:0.43
+  flag:0.43
+  february:0.37
+  money:0.21
+  shut:0.21
+  project:0.21
+  transaction:0.21
+  paid:0.21
+  didnt:0.21
+
+K: 5, Log-Likelihood: -281.430, Alpha: 11.000, Beta: 1.100

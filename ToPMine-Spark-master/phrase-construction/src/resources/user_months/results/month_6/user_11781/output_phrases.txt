@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.28
+  check:0.28
+  money:0.23
+  site:0.14
+  week:0.14
+  word:0.14
+  real:0.14
+  dont:0.14
+  logged:0.14
+  block:0.14
+
+Topic 1:
+  sr:0.28
+  check:0.28
+  money:0.23
+  balance:0.14
+  button:0.14
+  figured:0.14
+  works:0.14
+  refresh:0.14
+  account:0.14
+  click:0.14
+
+Topic 2:
+  check:0.28
+  sr:0.28
+  money:0.23
+  button:0.14
+  works:0.14
+  refresh:0.14
+  click:0.14
+  balance:0.14
+  figured:0.14
+  account:0.14
+
+Topic 3:
+  sr:0.28
+  check:0.28
+  money:0.23
+  quote:0.14
+  phishing:0.14
+  real:0.14
+  ami:0.14
+  march:0.14
+  site:0.14
+  long:0.14
+
+Topic 4:
+  check:0.28
+  sr:0.28
+  money:0.23
+  click:0.14
+  works:0.14
+  account:0.14
+  balance:0.14
+  figured:0.14
+  refresh:0.14
+  button:0.14
+
+K: 5, Log-Likelihood: -91.015, Alpha: 11.000, Beta: 1.100

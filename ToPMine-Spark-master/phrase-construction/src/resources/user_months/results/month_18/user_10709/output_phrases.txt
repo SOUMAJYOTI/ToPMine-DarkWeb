@@ -1,0 +1,61 @@
+Topic 0:
+  recognised:0.84
+  data:0.60
+  backup:0.42
+  card:0.38
+  persistent:0.35
+  worked:0.35
+  times:0.35
+  pgp:0.35
+  didnt:0.35
+  pcs:0.35
+
+Topic 1:
+  recognised:0.48
+  data:0.47
+  card:0.44
+  drive:0.31
+  dont:0.31
+  backup:0.30
+  micro sd:0.27
+  stupid:0.27
+  device:0.27
+  recover:0.27
+
+Topic 2:
+  data:0.59
+  recognised:0.44
+  card:0.41
+  drive:0.34
+  dont:0.34
+  backup:0.30
+  fixed:0.28
+  plastic:0.28
+  freezer:0.28
+  center:0.28
+
+Topic 3:
+  read:1.49
+  flash drive:1.48
+  switch:1.48
+  adapter:1.47
+  defects:1.46
+  microsd:0.61
+  vulnerable:0.61
+  sound:0.61
+  result:0.61
+  port:0.61
+
+Topic 4:
+  card:0.46
+  data:0.41
+  recognised:0.32
+  defects:0.30
+  cards:0.29
+  sd:0.29
+  adapter:0.29
+  switch:0.29
+  flash drive:0.29
+  read:0.28
+
+K: 5, Log-Likelihood: -651.506, Alpha: 11.000, Beta: 1.100

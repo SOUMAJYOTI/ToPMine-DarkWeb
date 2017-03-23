@@ -1,0 +1,61 @@
+Topic 0:
+  site:4.04
+  thankful:3.92
+  love:3.92
+  toss:1.91
+  becos:1.91
+  admins:1.91
+  place:1.91
+  main:1.91
+  developersif:1.91
+  gpg:1.91
+
+Topic 1:
+  order:1.72
+  jc:1.42
+  coins:1.24
+  worth:1.23
+  spare:1.22
+  org:1.21
+  great:1.20
+  mentioning:1.18
+  start donation:1.17
+  donate:1.15
+
+Topic 2:
+  send:3.92
+  donation:2.46
+  erowid:2.16
+  supporting:1.91
+  poetry:1.91
+  theyve:1.91
+  bad:1.91
+  combinations:1.91
+  hospitalizations:1.91
+  good:1.91
+
+Topic 3:
+  market:2.03
+  business:1.71
+  fees:1.71
+  coin:1.71
+  longer:1.71
+  coming:1.71
+  starts:1.71
+  vendor:1.70
+  agora:1.70
+  paying:1.70
+
+Topic 4:
+  site great:1.44
+  future:1.43
+  start donation:1.37
+  wanted:1.10
+  community:1.09
+  bump:1.09
+  offered:1.08
+  love site:1.08
+  thread:1.07
+  order:1.00
+
+K: 5, Log-Likelihood: -1038.965, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  btc:3.42
+  connect:1.64
+  port:1.42
+  small:1.06
+  tor:0.93
+  sell:0.83
+  local:0.82
+  accept:0.82
+  reward:0.82
+  anonymous:0.82
+
+Topic 1:
+  connect:3.98
+  finally:1.51
+  servers:1.43
+  server:1.22
+  set:1.10
+  socks:1.06
+  electrum:0.97
+  port:0.87
+  tcp:0.80
+  password:0.79
+
+Topic 2:
+  port:4.38
+  version:2.23
+  april:1.64
+  connect:1.54
+  electrum:1.52
+  tor:1.42
+  linux:1.11
+  runs:1.10
+  standard:1.10
+  distribution:1.09
+
+Topic 3:
+  port:1.99
+  btc:1.65
+  connect:1.40
+  password:1.09
+  tor:1.04
+  version:0.92
+  electrum:0.84
+  april:0.81
+  small:0.69
+  reading:0.65
+
+Topic 4:
+  connect:3.44
+  port:1.33
+  server:1.19
+  finally:0.98
+  tor:0.98
+  electrum:0.90
+  servers:0.85
+  tcp:0.82
+  btc:0.82
+  safe:0.79
+
+K: 5, Log-Likelihood: -1276.478, Alpha: 11.000, Beta: 1.100

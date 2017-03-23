@@ -1,0 +1,61 @@
+Topic 0:
+  account:5.82
+  cash:4.97
+  good:4.39
+  docs:3.91
+  local:3.91
+  love:3.91
+  trade:3.91
+  fake:3.91
+  people:2.68
+  money:2.49
+
+Topic 1:
+  account:10.04
+  linking:5.58
+  coinbase:5.26
+  linked:5.25
+  bank:5.03
+  dont:3.85
+  level:2.64
+  waiting:2.52
+  purchases:2.52
+  issue:2.51
+
+Topic 2:
+  wallet:8.28
+  btc:4.08
+  coins:3.75
+  purchase:3.75
+  cash:2.86
+  allowing:1.83
+  instant:1.83
+  link:1.83
+  deposits:1.83
+  agora:1.83
+
+Topic 3:
+  info:5.64
+  bitcoin:5.62
+  online:4.82
+  tails:4.82
+  wallets:4.81
+  buy:4.67
+  easy:4.60
+  computer:3.90
+  security:3.38
+  places:2.43
+
+Topic 4:
+  account:5.58
+  coinbase:4.81
+  hive:3.86
+  blockchain:2.91
+  bank:2.82
+  secure:2.68
+  idea:2.65
+  hardware:2.55
+  current:2.51
+  experience:2.51
+
+K: 5, Log-Likelihood: -2976.934, Alpha: 11.000, Beta: 1.100

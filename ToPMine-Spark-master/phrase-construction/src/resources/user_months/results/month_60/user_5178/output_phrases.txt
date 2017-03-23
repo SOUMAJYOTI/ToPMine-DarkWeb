@@ -1,0 +1,61 @@
+Topic 0:
+  blond:0.99
+  site staff:0.65
+  bitcoins:0.61
+  love avengers:0.53
+  wigs:0.52
+  wig:0.51
+  love:0.38
+  rr:0.37
+  avengersmkt:0.37
+  onion:0.36
+
+Topic 1:
+  blond:1.21
+  site staff:0.70
+  wig:0.59
+  bitcoins:0.57
+  wigs:0.57
+  love avengers:0.53
+  rr:0.37
+  love:0.36
+  onion:0.36
+  avengersmkt:0.36
+
+Topic 2:
+  blond:1.61
+  wigs:0.70
+  site staff:0.69
+  wig:0.69
+  love avengers:0.55
+  bitcoins:0.53
+  rr:0.38
+  bitmessage notifications rational auto:0.38
+  server:0.37
+  confirmation vendor accept decline:0.37
+
+Topic 3:
+  site staff:1.00
+  blond:0.90
+  bitcoins:0.63
+  wigs:0.49
+  wig:0.49
+  dont:0.44
+  theft party impossible:0.44
+  uptimehansa:0.44
+  hansafunds:0.44
+  coinbases:0.44
+
+Topic 4:
+  love avengers:1.43
+  onion:1.22
+  avengersmkt:1.20
+  love:1.18
+  rr:1.17
+  bitcoins:1.05
+  site staff theft party:0.49
+  impossible vendors site staff:0.49
+  coinbase:0.49
+  don:0.49
+
+K: 5, Log-Likelihood: -663.682, Alpha: 11.000, Beta: 1.100

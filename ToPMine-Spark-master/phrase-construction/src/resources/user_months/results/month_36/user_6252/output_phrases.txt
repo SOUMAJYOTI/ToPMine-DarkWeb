@@ -1,0 +1,61 @@
+Topic 0:
+  coins:0.79
+  good:0.77
+  links:0.43
+  blond:0.43
+  proceed:0.40
+  bitcoin:0.40
+  screw:0.40
+  helix:0.39
+  mentioned:0.39
+  alts:0.39
+
+Topic 1:
+  coins:0.82
+  good:0.80
+  blond:0.46
+  buy:0.40
+  trade:0.40
+  suprised:0.40
+  links:0.40
+  rates:0.40
+  screw:0.40
+  caution:0.40
+
+Topic 2:
+  good:1.16
+  coins:1.11
+  hacked:0.50
+  mix:0.50
+  alts:0.50
+  bitcoin:0.50
+  mentioned:0.50
+  ago:0.50
+  exchange:0.50
+  caution:0.49
+
+Topic 3:
+  blond:1.01
+  impossible:0.54
+  bunny:0.54
+  tor:0.54
+  io:0.54
+  fully:0.54
+  people:0.54
+  topic:0.54
+  transactions:0.54
+  cleancoin:0.54
+
+Topic 4:
+  money:1.84
+  send:1.83
+  site:1.82
+  links:1.25
+  member:0.74
+  mixing:0.74
+  bits:0.74
+  designed:0.74
+  original:0.74
+  forum:0.74
+
+K: 5, Log-Likelihood: -472.359, Alpha: 11.000, Beta: 1.100

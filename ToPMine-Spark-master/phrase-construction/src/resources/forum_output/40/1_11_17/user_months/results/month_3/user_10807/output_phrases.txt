@@ -1,0 +1,61 @@
+Topic 0:
+  money:2.08
+  chance:1.62
+  sites:1.15
+  amir:1.01
+  people:0.98
+  bitcoin:0.89
+  finish:0.88
+  dont:0.88
+  raise:0.88
+  refunds:0.88
+
+Topic 1:
+  month:6.04
+  shirt:2.59
+  days agonever received:2.44
+  receive:2.42
+  updates:2.25
+  check pig:2.20
+  plate:1.52
+  wallet:1.50
+  happening team:1.49
+  jesse:1.48
+
+Topic 2:
+  month:2.24
+  check pig:1.19
+  updates:1.13
+  receive:1.01
+  shirt:0.91
+  days agonever received:0.90
+  project:0.80
+  email:0.80
+  guys:0.78
+  days:0.77
+
+Topic 3:
+  month:1.34
+  project:0.87
+  days agonever received:0.73
+  updates:0.69
+  check pig:0.68
+  receive:0.64
+  shirt:0.58
+  update:0.57
+  posted:0.57
+  rodgers:0.53
+
+Topic 4:
+  shirts magazine:1.12
+  paid:1.11
+  things:1.10
+  subscriptions:1.10
+  delivered:1.09
+  months scam:1.09
+  chance:1.01
+  people:0.87
+  bitcoin:0.87
+  march:0.83
+
+K: 5, Log-Likelihood: -1329.508, Alpha: 11.000, Beta: 1.100

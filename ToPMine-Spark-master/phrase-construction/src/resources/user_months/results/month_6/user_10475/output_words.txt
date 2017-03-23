@@ -1,0 +1,61 @@
+Topic 0:
+  replacement:3.67
+  support:3.24
+  genuine:2.21
+  dont:1.88
+  site:1.79
+  sr:1.44
+  march:1.38
+  market:1.34
+  slow:1.31
+  main:1.30
+
+Topic 1:
+  site:3.63
+  forum:2.46
+  security:2.37
+  bsm:2.32
+  runs:1.43
+  lawless:1.42
+  focus:1.42
+  stability:1.41
+  time:1.35
+  march:1.35
+
+Topic 2:
+  site:4.06
+  security:2.29
+  forum:2.14
+  bsm:2.04
+  quote:1.31
+  march:1.27
+  time:1.10
+  stability:1.04
+  focus:1.04
+  lawless:1.03
+
+Topic 3:
+  support:2.57
+  site:2.30
+  replacement:2.29
+  dont:1.72
+  march:1.44
+  genuine:1.42
+  forum:1.27
+  slow:1.06
+  main:1.04
+  market:0.99
+
+Topic 4:
+  site:3.21
+  support:1.93
+  replacement:1.77
+  march:1.57
+  genuine:1.44
+  dont:1.41
+  forum:1.18
+  security:1.01
+  bsm:1.00
+  market:0.93
+
+K: 5, Log-Likelihood: -1333.918, Alpha: 11.000, Beta: 1.100

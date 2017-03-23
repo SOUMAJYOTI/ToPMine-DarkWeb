@@ -1,0 +1,61 @@
+Topic 0:
+  bad:2.92
+  comments:2.92
+  change:2.92
+  market:2.23
+  effort:1.83
+  mdparity:1.83
+  cheers:1.83
+  pace:1.83
+  finding:1.83
+  helping:1.83
+
+Topic 1:
+  markets:3.11
+  experience:2.88
+  positive:2.07
+  women:1.83
+  tone:1.83
+  basically:1.83
+  machismo:1.83
+  associate:1.83
+  talking:1.83
+  profanity:1.83
+
+Topic 2:
+  bootstrap:5.96
+  february:4.76
+  quote:3.45
+  sheep lookalike:3.31
+  amanother:2.89
+  heard:2.89
+  web:2.89
+  framework:2.89
+  thekushlife:2.89
+  sites:2.89
+
+Topic 3:
+  fe:5.74
+  sig:3.81
+  users:2.72
+  partial:2.71
+  small:2.23
+  good:2.23
+  sell:2.04
+  free:2.04
+  mufti:1.87
+  front:1.87
+
+Topic 4:
+  store:7.72
+  search:3.82
+  vendors:3.56
+  choose:2.72
+  thinking:1.88
+  darknetmarketshi:1.88
+  extent:1.88
+  finished:1.88
+  specials:1.88
+  post:1.88
+
+K: 5, Log-Likelihood: -1665.012, Alpha: 11.000, Beta: 1.100

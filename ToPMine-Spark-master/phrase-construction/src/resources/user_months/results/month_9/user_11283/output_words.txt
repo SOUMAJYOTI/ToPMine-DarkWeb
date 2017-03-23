@@ -1,0 +1,61 @@
+Topic 0:
+  news:0.66
+  green:0.43
+  machine:0.43
+  bad:0.40
+  good:0.38
+  time:0.32
+  bud:0.26
+  paid:0.22
+  convicted:0.22
+  papa:0.22
+
+Topic 1:
+  news:2.48
+  good:0.99
+  bad:0.95
+  torchat:0.37
+  saving:0.37
+  guy:0.37
+  bottom:0.37
+  broke:0.37
+  dont:0.37
+  house:0.37
+
+Topic 2:
+  time:1.32
+  bud:0.78
+  machine:0.39
+  green:0.39
+  claimed:0.33
+  scam:0.33
+  established:0.33
+  damn:0.32
+  loss:0.32
+  escrow:0.32
+
+Topic 3:
+  time:0.47
+  green:0.44
+  machine:0.44
+  news:0.43
+  bud:0.34
+  bad:0.31
+  good:0.30
+  threads:0.19
+  site:0.19
+  long:0.19
+
+Topic 4:
+  time:0.79
+  bud:0.53
+  green:0.42
+  machine:0.42
+  news:0.27
+  trust:0.26
+  listed:0.26
+  making:0.26
+  site:0.26
+  late:0.26
+
+K: 5, Log-Likelihood: -282.745, Alpha: 11.000, Beta: 1.100

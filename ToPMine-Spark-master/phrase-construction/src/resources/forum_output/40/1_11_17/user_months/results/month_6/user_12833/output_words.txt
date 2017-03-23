@@ -1,0 +1,61 @@
+Topic 0:
+  admins:0.40
+  high:0.40
+  person:0.40
+  market:0.40
+  case:0.40
+  action:0.20
+  pming:0.20
+  directly:0.20
+  target:0.20
+  admin:0.20
+
+Topic 1:
+  market:0.42
+  case:0.40
+  person:0.40
+  high:0.39
+  admins:0.38
+  description:0.21
+  fits:0.21
+  community:0.21
+  dox:0.21
+  happening:0.21
+
+Topic 2:
+  case:0.40
+  market:0.40
+  person:0.40
+  admins:0.40
+  high:0.40
+  power:0.20
+  disrupt:0.20
+  conserned:0.20
+  clarification:0.20
+  dox:0.20
+
+Topic 3:
+  admins:0.41
+  high:0.41
+  case:0.40
+  person:0.40
+  market:0.39
+  find:0.20
+  selling:0.20
+  unprofessional:0.20
+  fool:0.20
+  happened:0.20
+
+Topic 4:
+  high:0.41
+  admins:0.41
+  case:0.40
+  person:0.40
+  market:0.38
+  asked:0.20
+  tarkets:0.20
+  info:0.20
+  condone:0.20
+  happened:0.20
+
+K: 5, Log-Likelihood: -179.011, Alpha: 11.000, Beta: 1.100

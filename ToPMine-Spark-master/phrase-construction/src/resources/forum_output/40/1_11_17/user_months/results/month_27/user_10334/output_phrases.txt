@@ -1,0 +1,61 @@
+Topic 0:
+  btc:4.87
+  onionshop:3.84
+  code:3.63
+  access db:3.63
+  time:3.63
+  orders:3.63
+  vulnerability:3.29
+  contact:2.39
+  vendors customers:2.39
+  provide:2.38
+
+Topic 1:
+  monitoring:2.46
+  prevented:2.46
+  hardcoded:2.46
+  hole:2.46
+  market hacked admins:2.41
+  shrug shoulders deem ship:2.41
+  people:1.75
+  hacker:1.72
+  hackers:1.51
+  market onionshop:1.51
+
+Topic 2:
+  addresses:2.46
+  bitcoin:2.46
+  simple:2.46
+  hasnt:2.46
+  onionshop:1.69
+  ship:1.34
+  replace:1.21
+  stolen:1.21
+  entire:1.21
+  year:1.21
+
+Topic 3:
+  ojxyslkksjwli:1.22
+  yj:1.22
+  zn:1.22
+  ckn:1.22
+  bank:1.22
+  yjhyrlf:1.22
+  elr:1.22
+  tua:1.22
+  bjxjpcvgzz:1.22
+  rvi:1.22
+
+Topic 4:
+  real:1.02
+  brain:0.98
+  making:0.98
+  sees:0.98
+  quoting:0.98
+  lies:0.98
+  isnt:0.98
+  onionshop:0.36
+  steal:0.32
+  security:0.27
+
+K: 5, Log-Likelihood: -5073.036, Alpha: 11.000, Beta: 1.100

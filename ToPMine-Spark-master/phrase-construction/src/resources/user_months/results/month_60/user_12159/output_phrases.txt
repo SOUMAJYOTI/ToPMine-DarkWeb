@@ -1,0 +1,61 @@
+Topic 0:
+  btc:0.60
+  libertyx:0.42
+  dirty:0.42
+  lbc:0.42
+  buy:0.42
+  year:0.41
+  cats:0.41
+  send:0.25
+  mixer:0.23
+  wallet:0.23
+
+Topic 1:
+  send:2.49
+  wallet:1.58
+  coins wallet:1.16
+  local bitcoin:1.15
+  connection:0.45
+  goodway:0.45
+  email tor:0.45
+  good:0.45
+  caught:0.45
+  tumble:0.45
+
+Topic 2:
+  btc:0.65
+  cats:0.47
+  buy:0.46
+  dirty:0.46
+  lbc:0.46
+  libertyx:0.45
+  year:0.45
+  mixer:0.24
+  send:0.23
+  events:0.23
+
+Topic 3:
+  btc:0.82
+  year:0.67
+  libertyx:0.66
+  lbc:0.65
+  buy:0.65
+  cats:0.65
+  dirty:0.65
+  genius:0.29
+  bad:0.29
+  festivals:0.29
+
+Topic 4:
+  send:0.45
+  wallet:0.39
+  btc:0.37
+  local bitcoin:0.35
+  coins wallet:0.34
+  taint:0.24
+  sniff:0.24
+  lost:0.24
+  free:0.24
+  lbtc:0.24
+
+K: 5, Log-Likelihood: -619.708, Alpha: 11.000, Beta: 1.100

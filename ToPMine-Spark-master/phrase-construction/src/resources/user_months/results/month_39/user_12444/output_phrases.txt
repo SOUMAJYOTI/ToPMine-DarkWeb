@@ -1,0 +1,61 @@
+Topic 0:
+  viimeaikoina:1.62
+  olis:1.62
+  skt:1.62
+  tuli:1.62
+  yli:1.62
+  palvellut:1.62
+  illalla:1.62
+  eilen:1.62
+  tapahtuu:1.62
+  huoh:1.62
+
+Topic 1:
+  ja:2.60
+  jouduin:1.61
+  poltot:1.61
+  kin:1.61
+  rahat:1.61
+  kurssin:1.61
+  sain:1.61
+  kyi:1.61
+  ilmestyi:1.61
+  susi:1.61
+
+Topic 2:
+  ll:2.71
+  messaged:1.51
+  transaction:1.51
+  ship:1.51
+  details:1.51
+  small:1.51
+  reply:1.51
+  panic:1.51
+  bug:1.51
+  floating:1.51
+
+Topic 3:
+  toivottavasti:1.48
+  fiilis:1.48
+  lopullisesti:1.48
+  ll ja:1.48
+  kaatuu:1.48
+  ois:1.48
+  ss:1.48
+  niille:1.48
+  oon:1.48
+  pari:1.48
+
+Topic 4:
+  viel:2.54
+  kauan:2.38
+  saapunu:2.38
+  coineja:2.38
+  voi:2.38
+  tilille:2.38
+  ostaja:2.38
+  tililt:2.38
+  lomilla:2.38
+  myyj:2.38
+
+K: 5, Log-Likelihood: -1311.467, Alpha: 11.000, Beta: 1.100

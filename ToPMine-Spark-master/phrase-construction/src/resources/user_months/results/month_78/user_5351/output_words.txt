@@ -1,0 +1,61 @@
+Topic 0:
+  btc:2.10
+  long:1.32
+  price:1.06
+  utility:1.01
+  fine:0.95
+  currency:0.93
+  anonymously:0.88
+  buy:0.87
+  developer:0.78
+  choice:0.78
+
+Topic 1:
+  price:1.37
+  long:1.34
+  btc:1.17
+  currency:1.00
+  buy:0.97
+  anonymously:0.87
+  fine:0.65
+  utility:0.65
+  volatile:0.63
+  choice:0.57
+
+Topic 2:
+  price:1.65
+  long:1.23
+  buy:1.20
+  currency:1.05
+  anonymously:0.93
+  btc:0.85
+  volatile:0.65
+  utility:0.51
+  fine:0.50
+  ethereum:0.49
+
+Topic 3:
+  btc:3.83
+  fine:1.86
+  utility:1.78
+  march:1.47
+  sitting:1.17
+  ethereum:1.16
+  hedging:1.15
+  drama:1.15
+  internet:1.14
+  drugs:1.14
+
+Topic 4:
+  bitcoin:4.78
+  people:4.01
+  start:3.78
+  price:2.16
+  term:1.80
+  investors:1.80
+  form:1.80
+  currency:1.35
+  buy:1.32
+  long:1.01
+
+K: 5, Log-Likelihood: -1026.005, Alpha: 11.000, Beta: 1.100

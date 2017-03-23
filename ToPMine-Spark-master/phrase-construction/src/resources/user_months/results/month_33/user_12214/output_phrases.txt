@@ -1,0 +1,61 @@
+Topic 0:
+  kuin:0.26
+  okoskaa:0.26
+  ytt:0.26
+  paljon:0.26
+  hintaa:0.26
+  en:0.26
+  sit:0.26
+  korkeampaa:0.26
+  eiv:0.26
+  ammiks:0.26
+
+Topic 1:
+  ja:0.29
+  ett:0.29
+  suomesta:0.22
+  postita:0.22
+  vaikkei:0.22
+  tavaroitansa:0.22
+  todellakaan:0.22
+  suomalaisiin:0.22
+  meihin:0.22
+  bentsomarketuk:0.22
+
+Topic 2:
+  ja:0.42
+  ett:0.42
+  kun:0.22
+  silkkitie:0.22
+  suomalaiset:0.20
+  jos:0.20
+  ongelmista:0.20
+  ist:0.20
+  edes:0.20
+  linkill:0.20
+
+Topic 3:
+  ja:0.38
+  ett:0.38
+  kun:0.21
+  silkkitie:0.21
+  suomalaiset:0.20
+  jos:0.20
+  vaikkei:0.20
+  soluttautua:0.20
+  suomesta:0.20
+  meihin:0.20
+
+Topic 4:
+  ett:0.54
+  ja:0.53
+  ll:0.24
+  evolutioniin:0.24
+  toistaiseksi:0.24
+  kiitokset:0.24
+  siit:0.24
+  verran:0.24
+  bitcoineja:0.24
+  kuluneesta:0.24
+
+K: 5, Log-Likelihood: -393.541, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  gnupg:47.80
+  gnupg tar bz:32.19
+  version gnupg:25.75
+  ftp gnupg org gcrypt:22.53
+  version:22.53
+  gpg:22.53
+  ftp:19.31
+  keys:18.78
+  key:16.92
+  release signing keys:16.09
+
+Topic 1:
+  encryption keys:77.25
+  gchq:54.72
+  intelligence agencies:45.06
+  gemalto:41.84
+  sim cards:38.63
+  wireless network providers:28.97
+  key theft:25.75
+  network:25.75
+  data:25.21
+  intelligence agency:22.53
+
+Topic 2:
+  vendors:29.92
+  silk road:20.26
+  usernames passwords:19.62
+  security hole:14.27
+  evidence:14.06
+  zaphod february pmquote:13.80
+  trial:12.87
+  site longer exists:12.77
+  blackmail suppose rationale mind:11.76
+  ron swanson february pmquote:11.50
+
+Topic 3:
+  gc:19.73
+  fn:18.80
+  xm:15.82
+  uz:15.78
+  gm:15.52
+  er:15.45
+  bx:15.44
+  eb:14.96
+  vw:12.58
+  gr:12.57
+
+Topic 4:
+  germany:14.02
+  security flaw:12.87
+  zaphod:8.98
+  leaks:8.31
+  account:8.12
+  block request script addon:7.49
+  pm:7.04
+  users:6.83
+  der:6.43
+  van:6.43
+
+K: 5, Log-Likelihood: -267982.399, Alpha: 11.000, Beta: 1.100

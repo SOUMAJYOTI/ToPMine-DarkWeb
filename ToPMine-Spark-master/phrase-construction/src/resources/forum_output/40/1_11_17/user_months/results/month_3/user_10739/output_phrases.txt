@@ -1,0 +1,61 @@
+Topic 0:
+  safe mail:5.56
+  server:3.69
+  onion:3.69
+  net:3.69
+  peer:3.69
+  access:3.62
+  email:2.52
+  dont:2.38
+  status:1.82
+  attack:1.82
+
+Topic 1:
+  lelantos:5.53
+  lelantos mail tor:4.12
+  org:3.66
+  recommendation:2.77
+  options:2.77
+  accept:2.77
+  year:2.77
+  good free:2.77
+  cost:2.76
+  cost year:2.76
+
+Topic 2:
+  bote:6.87
+  external:2.81
+  accounts:2.81
+  list recommended:2.81
+  email providers:2.81
+  client:2.81
+  secure:2.81
+  recipient:2.81
+  useless:2.81
+  installed:2.81
+
+Topic 3:
+  agree:2.57
+  individual:1.77
+  data:1.77
+  complete:1.77
+  job:1.77
+  vary:1.77
+  providers:1.77
+  rules:1.77
+  axas:1.77
+  trust:1.77
+
+Topic 4:
+  thunderbird:3.87
+  secure email:2.80
+  pretty:2.58
+  lelantos mail:1.80
+  didnt:1.80
+  enigma:1.80
+  times:1.80
+  safer:1.80
+  amvmail:1.80
+  legit:1.80
+
+K: 5, Log-Likelihood: -2076.801, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  btc:1.84
+  price:1.29
+  march:1.24
+  btc currency choice buy:1.20
+  drugs anonymously internet fine:1.17
+  developer drama pass utility:1.02
+  hedging ethereum sitting core:1.02
+  speculating:1.01
+  saywhat:0.95
+  trades:0.95
+
+Topic 1:
+  btc:3.15
+  march:2.44
+  speculating:2.25
+  dnm:1.53
+  plays:1.52
+  small:1.49
+  dont:1.49
+  pmidiots:1.48
+  orders:1.48
+  compared:1.47
+
+Topic 2:
+  coin:2.87
+  coming:1.54
+  write:1.54
+  block:1.54
+  golden:1.54
+  starting:1.54
+  transaction:1.54
+  fee:1.54
+  issues:1.54
+  reports:1.54
+
+Topic 3:
+  start:3.28
+  bitcoin:3.28
+  form:3.28
+  term:3.27
+  investors:3.27
+  people start:3.27
+  long:1.66
+  trade:1.58
+  personal:1.58
+  fighting:1.58
+
+Topic 4:
+  price:1.24
+  volatile:1.15
+  long:1.13
+  analysis:1.03
+  read:1.03
+  deepdotweb:1.03
+  interesting:1.02
+  idiots:0.96
+  wig:0.92
+  nervous:0.92
+
+K: 5, Log-Likelihood: -1384.853, Alpha: 11.000, Beta: 1.100

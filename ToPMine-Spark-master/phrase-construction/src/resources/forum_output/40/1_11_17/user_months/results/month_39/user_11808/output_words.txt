@@ -1,0 +1,61 @@
+Topic 0:
+  uri:26.15
+  market:16.92
+  marketplace:16.39
+  escrow:11.79
+  net:9.01
+  dark:8.68
+  vendor:8.53
+  markets:8.45
+  reviews:7.64
+  marketplacesmarketplace:7.31
+
+Topic 1:
+  market:1.64
+  evolution:1.58
+  marketplaces:1.48
+  full:1.32
+  established:1.26
+  agora:0.96
+  markets:0.91
+  register:0.87
+  find:0.80
+  list:0.78
+
+Topic 2:
+  agora:1.68
+  marketplaces:1.52
+  markets:1.34
+  evolution:1.09
+  list:0.97
+  marketplace:0.93
+  market:0.83
+  escrow:0.76
+  register:0.75
+  find:0.69
+
+Topic 3:
+  escrow:5.42
+  forum:5.11
+  agora:4.09
+  uri:4.03
+  marketplace:3.49
+  reviews:3.02
+  market:2.95
+  dark:2.95
+  markets:2.93
+  net:2.71
+
+Topic 4:
+  market:8.66
+  markets:4.37
+  uri:3.89
+  forum:3.70
+  agora:3.26
+  marketplacesmarketplace:3.10
+  escrow:2.74
+  net:2.39
+  reviews:2.38
+  multisig:2.19
+
+K: 5, Log-Likelihood: -4065.774, Alpha: 11.000, Beta: 1.100

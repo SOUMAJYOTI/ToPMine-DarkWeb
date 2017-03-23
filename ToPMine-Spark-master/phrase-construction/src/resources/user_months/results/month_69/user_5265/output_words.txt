@@ -1,0 +1,61 @@
+Topic 0:
+  erowid:3.63
+  tor:1.67
+  address:1.54
+  lottery:1.48
+  access:1.38
+  member:1.15
+  risk:1.10
+  donation:1.06
+  hidden:1.06
+  slowmike:1.05
+
+Topic 1:
+  free:2.12
+  stuff:2.10
+  vendors:2.03
+  donate:1.99
+  erowid:1.96
+  tickets:1.42
+  tmg:1.24
+  lottery:1.23
+  buy:1.22
+  quote:1.06
+
+Topic 2:
+  erowid:2.44
+  donate:2.29
+  free:1.58
+  tmg:1.40
+  lottery:1.29
+  happen:1.19
+  tickets:1.17
+  vendors:1.03
+  proceeds:1.02
+  stuff:1.01
+
+Topic 3:
+  source:7.76
+  number:7.76
+  random:5.92
+  tickets:5.27
+  numbers:4.65
+  bits:3.92
+  fair:3.64
+  drawing:2.44
+  service:2.24
+  consistency:1.92
+
+Topic 4:
+  erowid:1.91
+  maps:1.45
+  tmg:1.40
+  quote:1.17
+  lottery:0.94
+  risk:0.93
+  donate:0.88
+  organizations:0.82
+  otu:0.81
+  bank:0.81
+
+K: 5, Log-Likelihood: -1885.243, Alpha: 11.000, Beta: 1.100

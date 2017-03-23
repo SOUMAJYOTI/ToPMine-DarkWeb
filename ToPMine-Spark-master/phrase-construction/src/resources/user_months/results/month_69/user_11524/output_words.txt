@@ -1,0 +1,61 @@
+Topic 0:
+  xanax:1.16
+  gbp:1.11
+  speed:1.04
+  frontin:0.97
+  dry:0.93
+  alprazolam:0.93
+  price:0.92
+  tablets:0.91
+  alphabay:0.70
+  lhoursopenvalhalla:0.60
+
+Topic 1:
+  alphabay:0.85
+  xanax:0.84
+  alprazolam:0.75
+  tablets:0.74
+  frontin:0.73
+  speed:0.69
+  dry:0.65
+  lhoursopenvalhalla:0.65
+  valhalla:0.60
+  gbp:0.56
+
+Topic 2:
+  gbp:2.26
+  speed:1.98
+  dry:1.88
+  xanax:1.54
+  price:1.32
+  tablets:1.06
+  frontin:1.04
+  alprazolam:0.96
+  free:0.70
+  shipping:0.68
+
+Topic 3:
+  valhalla:2.52
+  alphabay:1.36
+  good:1.02
+  forum:0.66
+  dont:0.66
+  lhoursopenvalhalla:0.62
+  allhoursopen:0.48
+  invite:0.48
+  vendor:0.48
+  growing:0.48
+
+Topic 4:
+  dry:1.32
+  xanax:1.20
+  alprazolam:1.10
+  speed:1.09
+  tablets:1.03
+  price:1.01
+  frontin:1.00
+  gbp:0.90
+  alphabay:0.62
+  lhoursopenvalhalla:0.61
+
+K: 5, Log-Likelihood: -400.368, Alpha: 11.000, Beta: 1.100

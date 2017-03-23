@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.88
+  bitcoineissa:0.74
+  onko:0.61
+  yd:0.60
+  pit:0.60
+  valuutta:0.50
+  btc:0.49
+  en:0.39
+  ihan:0.38
+  mutta:0.38
+
+Topic 1:
+  ja:0.84
+  bitcoineissa:0.74
+  pit:0.67
+  yd:0.67
+  onko:0.66
+  valuutta:0.48
+  btc:0.48
+  kun:0.38
+  saada:0.38
+  mutta:0.38
+
+Topic 2:
+  vaan:1.06
+  siihen:0.86
+  lt:0.86
+  ytt:0.86
+  silkkitielt:0.86
+  asetukset:0.86
+  se:0.85
+  vaikkapa:0.85
+  oma:0.85
+  tilin:0.85
+
+Topic 3:
+  ja:0.87
+  bitcoineissa:0.72
+  btc:0.54
+  valuutta:0.53
+  onko:0.52
+  pit:0.52
+  yd:0.51
+  ihan:0.39
+  saada:0.39
+  mutta:0.39
+
+Topic 4:
+  ja:0.78
+  btc:0.75
+  valuutta:0.73
+  tili:0.62
+  tilin:0.62
+  oma:0.62
+  silkkitielt:0.62
+  vaikkapa:0.62
+  se:0.62
+  asetukset:0.62
+
+K: 5, Log-Likelihood: -615.011, Alpha: 11.000, Beta: 1.100

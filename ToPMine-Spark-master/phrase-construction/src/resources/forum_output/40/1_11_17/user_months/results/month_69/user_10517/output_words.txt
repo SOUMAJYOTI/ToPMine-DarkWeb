@@ -1,0 +1,61 @@
+Topic 0:
+  break:1.08
+  cops:0.76
+  case:0.73
+  pretty:0.73
+  taught:0.73
+  briggs:0.73
+  fucking:0.73
+  bounds:0.73
+  investigation:0.73
+  fuck:0.73
+
+Topic 1:
+  cops:5.04
+  drugs:2.82
+  evidence:2.82
+  things:2.81
+  matter:1.82
+  lot:1.82
+  court:1.82
+  warrant:1.82
+  illegal:1.82
+  cop:1.82
+
+Topic 2:
+  people:3.65
+  emmet:3.61
+  august:1.90
+  reddit:1.17
+  logged:1.16
+  visit:1.15
+  forum:1.15
+  posting:1.15
+  hub:1.14
+  pmquote:1.14
+
+Topic 3:
+  law:0.64
+  le:0.63
+  emmet:0.42
+  people:0.39
+  august:0.35
+  darkweb:0.33
+  fact:0.33
+  doesnt:0.32
+  dont:0.29
+  posting:0.29
+
+Topic 4:
+  emmet:0.88
+  people:0.87
+  august:0.66
+  discussion:0.50
+  hosted:0.49
+  jabber:0.49
+  pmquote:0.49
+  post:0.49
+  dont:0.49
+  hub:0.48
+
+K: 5, Log-Likelihood: -1072.685, Alpha: 11.000, Beta: 1.100

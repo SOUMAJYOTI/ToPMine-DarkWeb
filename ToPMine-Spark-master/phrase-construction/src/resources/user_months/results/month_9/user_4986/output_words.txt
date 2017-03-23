@@ -1,0 +1,61 @@
+Topic 0:
+  send:3.73
+  sending:3.63
+  envelope:2.74
+  method:2.65
+  pretty:2.63
+  handwriting:2.61
+  blotter:2.44
+  fine:2.33
+  magazine:2.22
+  article:2.21
+
+Topic 1:
+  card:15.01
+  place:9.90
+  envelope:8.11
+  cards:7.90
+  middle:5.90
+  tape:5.90
+  touch:5.90
+  store:4.42
+  extra:3.95
+  good:3.95
+
+Topic 2:
+  paper:3.95
+  letter:3.87
+  friends:3.87
+  fine:2.50
+  sending:2.47
+  safe:2.46
+  real:2.43
+  love:2.35
+  nice:2.34
+  happy:2.09
+
+Topic 3:
+  address:10.80
+  tabs:7.97
+  clear:5.70
+  gloves:5.61
+  return:4.57
+  stamp:3.17
+  wear:3.17
+  dont:3.05
+  envelope:2.95
+  secure:2.90
+
+Topic 4:
+  address:14.75
+  opposed:7.91
+  random:5.41
+  friend:5.20
+  business:4.34
+  imagine:4.34
+  personal:4.34
+  return:4.21
+  tabs:3.97
+  mailing:3.91
+
+K: 5, Log-Likelihood: -3737.956, Alpha: 11.000, Beta: 1.100

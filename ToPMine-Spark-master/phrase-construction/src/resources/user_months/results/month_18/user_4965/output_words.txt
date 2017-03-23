@@ -1,0 +1,61 @@
+Topic 0:
+  message:0.99
+  text:0.88
+  encrypt:0.59
+  long:0.57
+  write:0.40
+  odt:0.40
+  data:0.20
+  documents:0.20
+  send:0.20
+  bunch:0.20
+
+Topic 1:
+  message:0.95
+  text:0.83
+  long:0.65
+  encrypt:0.60
+  odt:0.40
+  write:0.40
+  pip:0.20
+  quote:0.20
+  doct:0.20
+  kleopatra:0.20
+
+Topic 2:
+  message:1.06
+  text:0.77
+  encrypt:0.59
+  long:0.59
+  write:0.40
+  odt:0.40
+  encrypted:0.20
+  open:0.20
+  documents:0.20
+  including:0.20
+
+Topic 3:
+  message:0.88
+  text:0.76
+  encrypt:0.62
+  long:0.61
+  write:0.41
+  odt:0.40
+  pmplease:0.20
+  grateful:0.20
+  read:0.20
+  doct:0.20
+
+Topic 4:
+  message:1.13
+  text:0.77
+  encrypt:0.60
+  long:0.58
+  odt:0.40
+  write:0.39
+  key:0.20
+  format:0.20
+  assist:0.20
+  plain:0.20
+
+K: 5, Log-Likelihood: -209.001, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  wit:5.84
+  fiercely protection:5.00
+  openbsd:4.68
+  guard:4.65
+  pitbull:4.22
+  spit things:3.91
+  pretty:3.91
+  neat:3.91
+  good:3.91
+  told:3.91
+
+Topic 1:
+  small llama:7.92
+  thing:5.85
+  mittens:5.02
+  pitbull:4.20
+  call:3.93
+  alpacayou:3.93
+  alpacas:3.93
+  poor:3.93
+  things:3.93
+  alpaca small:3.93
+
+Topic 2:
+  mafia:6.73
+  police:3.94
+  animal:3.74
+  animals:3.61
+  mob:2.33
+  camorra:1.92
+  italy:1.91
+  year:1.88
+  protection money:1.87
+  intimidate enemies:1.83
+
+Topic 3:
+  mafia:21.14
+  animals:12.31
+  police:7.99
+  business owners:6.55
+  cast trapuzzano:6.48
+  italian:6.43
+  boa constrictors:6.27
+  drug:6.19
+  intimidate enemies:6.11
+  protection money:6.08
+
+Topic 4:
+  stock cooler:9.93
+  ram:7.93
+  fatherted september pmquote tang:5.94
+  tho aint broke ant:5.02
+  crashes king time reverted:5.02
+  win installed latest nvidia:5.02
+  guess lol:5.02
+  win didnt driver:5.02
+  support gpu crap caused:5.02
+  driver:5.02
+
+K: 5, Log-Likelihood: -10837.936, Alpha: 11.000, Beta: 1.100

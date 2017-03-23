@@ -1,0 +1,61 @@
+Topic 0:
+  gnupg:2.40
+  version:1.38
+  key:0.94
+  regression:0.93
+  release:0.81
+  support:0.67
+  released:0.61
+  zaphod:0.57
+  openpgp:0.55
+  gnu:0.55
+
+Topic 1:
+  gnupg:11.52
+  release:3.20
+  key:3.00
+  regression:2.03
+  support:1.73
+  data:1.21
+  secure:1.20
+  public:1.20
+  versions:1.20
+  snug:1.19
+
+Topic 2:
+  gnupg:2.30
+  version:1.21
+  key:0.99
+  regression:0.98
+  release:0.88
+  support:0.71
+  released:0.62
+  openpgp:0.59
+  time:0.57
+  snug:0.56
+
+Topic 3:
+  released:1.57
+  version:1.34
+  tor:1.24
+  zaphod:0.80
+  curl:0.76
+  advised:0.51
+  packages:0.51
+  software:0.51
+  update:0.51
+  tbb:0.51
+
+Topic 4:
+  gnupg:1.28
+  version:1.20
+  released:0.90
+  regression:0.66
+  release:0.65
+  zaphod:0.64
+  key:0.62
+  support:0.56
+  curl:0.53
+  openpgp:0.44
+
+K: 5, Log-Likelihood: -1409.630, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  password:67.95
+  bits entropy:57.24
+  passwords:49.13
+  password bits entropy:31.48
+  character set:28.62
+  entropy:22.26
+  word:19.80
+  phrase file word count:17.17
+  password entropy:17.17
+  sha:17.17
+
+Topic 1:
+  dice:17.76
+  vm:10.43
+  tape:9.77
+  potential adversary collect large:6.45
+  bad idea authorities hands:6.45
+  good luck em figure:6.45
+  youve strategy things interesting:6.45
+  number dice select random:6.45
+  youve toss em consequence:6.45
+  dice raided case:6.45
+
+Topic 2:
+  remote server:14.79
+  data center:14.31
+  leaks:14.31
+  size:12.36
+  link:12.33
+  constant rate:11.44
+  linked:10.42
+  remote viewer:10.06
+  hardware aerial numbers:8.74
+  tor remote desktop:8.57
+
+Topic 3:
+  law enforcement:12.08
+  investigation:11.44
+  cell phone:8.90
+  cellphones area:8.58
+  event interest detection:8.58
+  detection apprehension:8.58
+  le:8.58
+  event interest:8.58
+  crowds:8.58
+  case:7.43
+
+Topic 4:
+  remote server:17.73
+  traffic:15.63
+  tor:12.53
+  entry guard:10.83
+  tor router:10.28
+  vnc:8.66
+  layers isolation:8.58
+  periods time middle transport:7.71
+  problem case streaming tor:7.71
+  traffic patterns tor access:7.71
+
+K: 5, Log-Likelihood: -67934.542, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  markets:1.95
+  market:0.57
+  scam:0.50
+  dont:0.50
+  evolution:0.49
+  eatable:0.46
+  forum:0.46
+  chose:0.46
+  listed:0.46
+  people:0.46
+
+Topic 1:
+  good market:0.68
+  market:0.65
+  dont:0.45
+  good:0.43
+  cloud:0.40
+  create:0.40
+  fake:0.40
+  email:0.40
+  french:0.40
+  spiral:0.35
+
+Topic 2:
+  market:0.67
+  good market:0.52
+  dont:0.51
+  markets:0.49
+  good:0.45
+  email:0.35
+  cloud:0.35
+  fake:0.35
+  create:0.35
+  french:0.35
+
+Topic 3:
+  market:0.73
+  markets:0.66
+  dont:0.55
+  good:0.49
+  good market:0.47
+  evolution:0.36
+  flakes:0.36
+  shiny:0.36
+  scam:0.35
+  cloud:0.34
+
+Topic 4:
+  market:0.74
+  good market:0.61
+  dont:0.50
+  good:0.42
+  french:0.39
+  email:0.38
+  fake:0.38
+  create:0.38
+  cloud:0.38
+  markets:0.35
+
+K: 5, Log-Likelihood: -516.237, Alpha: 11.000, Beta: 1.100

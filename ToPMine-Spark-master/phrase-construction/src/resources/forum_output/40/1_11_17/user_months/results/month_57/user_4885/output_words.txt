@@ -1,0 +1,61 @@
+Topic 0:
+  remove:0.61
+  programs:0.61
+  questions:0.41
+  services:0.40
+  read:0.40
+  system:0.40
+  tracking:0.40
+  materials:0.40
+  welcomei:0.20
+  hidden:0.20
+
+Topic 1:
+  programs:0.61
+  remove:0.59
+  services:0.40
+  materials:0.40
+  read:0.40
+  tracking:0.40
+  questions:0.40
+  system:0.40
+  welcomei:0.20
+  surveillance:0.20
+
+Topic 2:
+  programs:0.61
+  remove:0.58
+  system:0.40
+  tracking:0.40
+  materials:0.40
+  services:0.40
+  read:0.40
+  questions:0.40
+  ensure:0.20
+  schneier:0.20
+
+Topic 3:
+  remove:0.62
+  programs:0.58
+  questions:0.40
+  tracking:0.40
+  system:0.40
+  materials:0.40
+  read:0.40
+  services:0.40
+  article:0.20
+  built:0.20
+
+Topic 4:
+  programs:0.59
+  remove:0.59
+  read:0.41
+  materials:0.40
+  tracking:0.40
+  system:0.40
+  services:0.40
+  questions:0.40
+  work:0.20
+  surveillance:0.20
+
+K: 5, Log-Likelihood: -166.643, Alpha: 11.000, Beta: 1.100

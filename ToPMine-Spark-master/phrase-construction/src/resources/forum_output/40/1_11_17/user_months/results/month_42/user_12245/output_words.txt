@@ -1,0 +1,61 @@
+Topic 0:
+  jos:1.65
+  niin:1.47
+  kertokaa:0.61
+  filmi:0.61
+  viikkoa:0.61
+  selviink:0.61
+  tullu:0.61
+  eik:0.61
+  kiinni:0.61
+  suboxone:0.61
+
+Topic 1:
+  ja:2.80
+  virka:0.49
+  homma:0.49
+  mit:0.49
+  mene:0.48
+  sis:0.48
+  kirjeess:0.36
+  ett:0.36
+  oli:0.36
+  tullin:0.22
+
+Topic 2:
+  tullin:2.29
+  puheluun:1.37
+  ja:0.99
+  vitun:0.57
+  kuukauden:0.57
+  kokemusta:0.57
+  sinful:0.57
+  kuultavaksi:0.57
+  ottavat:0.57
+  tullilla:0.57
+
+Topic 3:
+  ja:1.11
+  jos:0.51
+  mit:0.40
+  mene:0.40
+  virka:0.40
+  sis:0.39
+  homma:0.39
+  tullin:0.27
+  niin:0.25
+  puheluun:0.23
+
+Topic 4:
+  ja:2.72
+  oli:1.26
+  ett:1.25
+  kirjeess:1.25
+  kerto:0.51
+  jakelukeskuksesta:0.51
+  tuli:0.51
+  osoittella:0.51
+  nimell:0.51
+  virkailija:0.51
+
+K: 5, Log-Likelihood: -676.210, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  mozilla foundation security adviser:1.50
+  tails:1.44
+  design security advisory:1.26
+  release:0.89
+  bug:0.82
+  tor browser:0.79
+  update:0.73
+  keyboard:0.66
+  tor:0.60
+  security:0.57
+
+Topic 1:
+  mozilla foundation security adviser:16.33
+  design security advisory:11.03
+  tor browser:4.56
+  bug:4.54
+  security:3.42
+  tor:3.39
+  keyboard:3.33
+  release:3.09
+  tails:2.44
+  fixed:2.16
+
+Topic 2:
+  yeah:1.74
+  checked:1.74
+  ship:1.74
+  luck:1.74
+  boot:1.28
+  moment:1.28
+  lucy:1.28
+  ndm:1.28
+  needed:1.28
+  quote:1.28
+
+Topic 3:
+  yup:0.58
+  update tails:0.58
+  sue:0.57
+  updating:0.56
+  tails:0.48
+  bothers:0.45
+  fags:0.45
+  luck mac:0.45
+  justice:0.45
+  update:0.44
+
+Topic 4:
+  malware:5.48
+  computer:4.09
+  ransomware attack:4.09
+  mac users:4.09
+  security researchers:4.09
+  locked:2.71
+  infected:2.71
+  sharing:2.71
+  insider:2.71
+  business:2.71
+
+K: 5, Log-Likelihood: -2826.756, Alpha: 11.000, Beta: 1.100

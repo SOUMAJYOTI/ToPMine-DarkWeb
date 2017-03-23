@@ -1,0 +1,61 @@
+Topic 0:
+  carding:3.08
+  cvv:0.94
+  papa:0.91
+  option:0.44
+  share:0.44
+  btccarding:0.44
+  tutorial:0.44
+  tutorialverify:0.44
+  tmg:0.44
+  tutorialpaypal:0.44
+
+Topic 1:
+  carding:1.66
+  pocket:0.62
+  immoral:0.62
+  brought:0.62
+  illegal:0.62
+  darknet:0.61
+  wrong:0.61
+  activities:0.61
+  papa:0.61
+  knowledge:0.61
+
+Topic 2:
+  carding:2.23
+  papa:0.90
+  cvv:0.81
+  guides:0.41
+  required:0.41
+  codehow:0.41
+  amazon:0.41
+  accounts:0.41
+  ebook:0.41
+  ebay:0.41
+
+Topic 3:
+  carding:1.64
+  cvv:0.73
+  papa:0.73
+  knowledge:0.51
+  activities:0.51
+  wrong:0.51
+  brought:0.51
+  illegal:0.51
+  darknet:0.50
+  immoral:0.50
+
+Topic 4:
+  carding:3.39
+  cvv:0.92
+  papa:0.85
+  moneygramtransaction:0.44
+  explainedcc:0.44
+  authoriazation:0.44
+  ksend:0.44
+  mmorpg:0.44
+  accounts:0.44
+  tutorialcarding:0.44
+
+K: 5, Log-Likelihood: -404.175, Alpha: 11.000, Beta: 1.100

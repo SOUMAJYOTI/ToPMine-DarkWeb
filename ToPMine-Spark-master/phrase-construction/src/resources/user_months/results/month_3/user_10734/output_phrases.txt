@@ -1,0 +1,61 @@
+Topic 0:
+  seperated:5.17
+  pennys:5.17
+  broken:5.17
+  idea:5.17
+  btc:5.17
+  wallet btc:5.17
+  break:5.17
+  true:5.12
+  truecrypt:5.04
+  busted:4.98
+
+Topic 1:
+  note:5.16
+  thumb:5.11
+  encrypted:5.11
+  bitcoins:4.90
+  sell:4.32
+  pump:4.32
+  bitcoin:3.90
+  boy:2.56
+  hands:2.56
+  workin:2.56
+
+Topic 2:
+  longer chain:7.79
+  processing power:7.76
+  fake bitin transaction:6.56
+  attack:5.18
+  secret:5.18
+  transaction:4.87
+  read:4.67
+  btc address:4.35
+  lila:4.35
+  hash:4.35
+
+Topic 3:
+  coins:10.39
+  alice:9.13
+  send coins:7.79
+  bitcoin network:7.79
+  accepted:7.79
+  wins:5.19
+  carol:5.19
+  block blockchain:5.19
+  coins bob:5.19
+  longest:5.19
+
+Topic 4:
+  tor:13.38
+  airvpn:10.39
+  configuration:7.78
+  option:7.78
+  tor exit node:7.78
+  virtual cd dvd:7.75
+  install truecrypt:5.28
+  packets:5.18
+  socks:5.18
+  pray:5.18
+
+K: 5, Log-Likelihood: -7255.891, Alpha: 11.000, Beta: 1.100

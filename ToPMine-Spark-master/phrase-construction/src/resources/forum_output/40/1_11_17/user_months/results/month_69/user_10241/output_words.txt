@@ -1,0 +1,61 @@
+Topic 0:
+  wright:7.88
+  wired:5.89
+  bitcoin:5.32
+  nakamoto:4.89
+  published:4.89
+  blog:2.89
+  article:2.89
+  launch:2.89
+  january:2.89
+  identity:1.89
+
+Topic 1:
+  tax:4.10
+  incorporate:2.78
+  ato:2.28
+  avoidance:2.06
+  office:1.38
+  feeling:1.38
+  door:0.73
+  operation:0.69
+  simple:0.68
+  knock:0.65
+
+Topic 2:
+  knock:1.41
+  simple:1.37
+  operation:1.36
+  door:1.31
+  incorporate:1.14
+  avoidance:0.85
+  tax:0.82
+  satoshi:0.64
+  ato:0.63
+  feeling:0.54
+
+Topic 3:
+  satoshi:1.13
+  criminal:0.87
+  collar:0.86
+  tale:0.86
+  white:0.86
+  swat:0.86
+  nice:0.86
+  officially:0.74
+  bitin:0.73
+  bitcoin:0.69
+
+Topic 4:
+  btc:2.49
+  thing:1.78
+  farm:1.78
+  created:1.62
+  satoshi:1.06
+  tek:0.80
+  place:0.80
+  google:0.80
+  admit:0.80
+  tetris:0.80
+
+K: 5, Log-Likelihood: -1775.588, Alpha: 11.000, Beta: 1.100

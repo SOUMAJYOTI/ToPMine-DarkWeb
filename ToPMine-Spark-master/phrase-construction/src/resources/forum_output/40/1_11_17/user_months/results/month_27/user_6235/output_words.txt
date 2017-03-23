@@ -1,0 +1,61 @@
+Topic 0:
+  money:21.25
+  people:17.26
+  shit:12.12
+  truck:11.94
+  stuff:11.30
+  job:10.06
+  good:9.47
+  school:9.23
+  smart:6.92
+  anarchy:6.41
+
+Topic 1:
+  college:27.03
+  people:9.45
+  time:9.22
+  teachers:8.05
+  berkeley:6.87
+  lsd:6.11
+  learn:5.97
+  dont:5.36
+  movement:5.32
+  remember:4.89
+
+Topic 2:
+  theories:17.97
+  dont:11.92
+  general:11.64
+  anarchist:11.02
+  movement:10.86
+  education:10.69
+  people:9.52
+  don:9.38
+  psychedelic:9.13
+  changing:8.02
+
+Topic 3:
+  education:10.24
+  people:9.23
+  live:7.71
+  system:6.46
+  find:6.37
+  schools:5.50
+  society:4.93
+  work:4.91
+  authority:4.67
+  high:4.43
+
+Topic 4:
+  people:19.53
+  school:8.74
+  debt:6.81
+  good:6.25
+  type:5.89
+  times:5.69
+  live:5.41
+  remember:4.74
+  anarchism:4.67
+  radical:4.45
+
+K: 5, Log-Likelihood: -16475.120, Alpha: 11.000, Beta: 1.100

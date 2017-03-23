@@ -1,0 +1,61 @@
+Topic 0:
+  officersmight:0.68
+  chosen:0.67
+  fact matter broadcasting:0.67
+  deny:0.67
+  western:0.66
+  intentional:0.66
+  humor:0.66
+  guys:0.66
+  leo lion:0.65
+  sense:0.65
+
+Topic 1:
+  guess:1.04
+  set:1.04
+  admin:1.04
+  secure:1.04
+  point:1.04
+  good:1.04
+  admit:1.04
+  solid:1.04
+  months:1.04
+  safe:1.04
+
+Topic 2:
+  agora:3.07
+  interface:1.46
+  layout:1.46
+  invitation:1.46
+  deposit:1.46
+  clean:1.46
+  flows:1.46
+  agra:1.46
+  exposed:1.46
+  load:1.46
+
+Topic 3:
+  leo market preferable:0.92
+  fact matter broadcasting:0.91
+  western countries scare percent:0.91
+  sense:0.86
+  guys:0.86
+  deny:0.85
+  western:0.85
+  humor:0.85
+  intentional:0.84
+  chosen:0.84
+
+Topic 4:
+  languages english french word:0.86
+  doesnt sound strange funny:0.86
+  leo lion:0.85
+  aakaari pmquote:0.85
+  dredd mumbling le le:0.84
+  pretty sylvester stallone judge:0.83
+  visitorsearch amquote:0.83
+  bunch coppers sounds weird:0.82
+  uhm guys leo:0.82
+  lots lion pics logo:0.77
+
+K: 5, Log-Likelihood: -957.274, Alpha: 11.000, Beta: 1.100

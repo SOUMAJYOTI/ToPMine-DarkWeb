@@ -1,0 +1,61 @@
+Topic 0:
+  set:1.45
+  great:0.92
+  secure:0.75
+  people:0.70
+  security:0.70
+  options:0.52
+  maintaining:0.41
+  systems:0.40
+  isolation:0.39
+  wrote:0.39
+
+Topic 1:
+  great:0.87
+  set:0.84
+  options:0.60
+  people:0.56
+  secure:0.56
+  security:0.56
+  os:0.40
+  maintaining:0.38
+  systems:0.38
+  box:0.34
+
+Topic 2:
+  os:0.76
+  spawn:0.53
+  contacts:0.52
+  buy:0.52
+  box:0.51
+  vm:0.51
+  systems:0.40
+  maintaining:0.40
+  great:0.39
+  options:0.28
+
+Topic 3:
+  great:0.64
+  os:0.56
+  set:0.48
+  options:0.44
+  systems:0.43
+  security:0.42
+  people:0.42
+  maintaining:0.42
+  secure:0.40
+  box:0.39
+
+Topic 4:
+  vm:1.08
+  buy:1.07
+  contacts:1.07
+  spawn:1.06
+  os:0.91
+  box:0.51
+  setup:0.44
+  corp:0.44
+  form:0.44
+  agency:0.44
+
+K: 5, Log-Likelihood: -653.436, Alpha: 11.000, Beta: 1.100

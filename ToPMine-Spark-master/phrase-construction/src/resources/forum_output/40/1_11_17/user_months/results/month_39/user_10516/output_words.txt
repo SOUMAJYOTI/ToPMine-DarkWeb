@@ -1,0 +1,61 @@
+Topic 0:
+  boot:26.66
+  os:19.90
+  machine:19.09
+  random:8.73
+  march:8.11
+  main:8.10
+  remember:7.84
+  sdb:7.79
+  secure:7.16
+  writeblocker:6.82
+
+Topic 1:
+  good:18.78
+  thing:13.71
+  hardware:11.87
+  nasty:11.50
+  nice:10.38
+  idea:10.13
+  ethernet:9.89
+  software:9.66
+  mac:8.92
+  distro:8.73
+
+Topic 2:
+  fde:13.23
+  key:13.05
+  default:12.77
+  aes:8.66
+  read:8.23
+  case:8.10
+  hash:7.90
+  problem:7.71
+  security:7.33
+  time:7.11
+
+Topic 3:
+  dont:10.47
+  vpn:9.55
+  parameters:8.88
+  installation:8.25
+  good:8.12
+  installer:7.90
+  encryption:6.98
+  pass:6.89
+  option:6.74
+  safe:6.69
+
+Topic 4:
+  fitlet:23.98
+  amd:12.55
+  firmware:10.12
+  bit:10.06
+  intel:7.42
+  pc:6.94
+  cpu:5.54
+  link:5.43
+  pi:5.38
+  mini:4.98
+
+K: 5, Log-Likelihood: -24918.066, Alpha: 11.000, Beta: 1.100

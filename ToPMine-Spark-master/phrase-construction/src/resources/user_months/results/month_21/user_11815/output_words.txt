@@ -1,0 +1,61 @@
+Topic 0:
+  earth:17.55
+  middle:15.92
+  agora:5.95
+  site:5.81
+  migrate:4.95
+  speeds:3.95
+  vendors:3.95
+  community:3.95
+  slow:3.55
+  security:3.46
+
+Topic 1:
+  compromised:6.85
+  server:5.87
+  js:4.28
+  dpr:3.89
+  script:3.83
+  site:3.73
+  earth:3.68
+  things:3.25
+  people:3.16
+  programming:3.08
+
+Topic 2:
+  js:4.59
+  quote:2.46
+  safe:1.93
+  remember:1.93
+  full:1.93
+  dnm:1.93
+  tor:1.67
+  time:1.62
+  marketplaces:1.56
+  thread:1.54
+
+Topic 3:
+  site:2.09
+  defend:2.05
+  xss:2.05
+  hacks:2.05
+  people:1.85
+  marketplaces:1.30
+  js:1.26
+  market:1.25
+  listening:1.18
+  feedback:1.18
+
+Topic 4:
+  post:5.69
+  marketplace:3.31
+  javascript:2.92
+  version:2.84
+  middle:2.75
+  entire:1.91
+  discussion:1.91
+  figured:1.91
+  agree:1.91
+  choose:1.85
+
+K: 5, Log-Likelihood: -3461.182, Alpha: 11.000, Beta: 1.100

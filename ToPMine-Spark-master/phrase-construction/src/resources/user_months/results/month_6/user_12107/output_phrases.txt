@@ -1,0 +1,61 @@
+Topic 0:
+  average:0.00
+  europa:0.00
+  bitin:0.00
+  iso:0.00
+  hyv:0.00
+  silkkitien:0.00
+  mut:0.00
+  mist:0.00
+  mutta:0.00
+  toi:0.00
+
+Topic 1:
+  average:0.00
+  europa:0.00
+  bitin:0.00
+  iso:0.00
+  hyv:0.00
+  silkkitien:0.00
+  mut:0.00
+  mist:0.00
+  mutta:0.00
+  toi:0.00
+
+Topic 2:
+  average:0.00
+  europa:0.00
+  bitin:0.00
+  iso:0.00
+  hyv:0.00
+  silkkitien:0.00
+  mut:0.00
+  mist:0.00
+  mutta:0.00
+  toi:0.00
+
+Topic 3:
+  average:0.00
+  europa:0.00
+  bitin:0.00
+  iso:0.00
+  hyv:0.00
+  silkkitien:0.00
+  mut:0.00
+  mist:0.00
+  mutta:0.00
+  toi:0.00
+
+Topic 4:
+  average:0.00
+  europa:0.00
+  bitin:0.00
+  iso:0.00
+  hyv:0.00
+  silkkitien:0.00
+  mut:0.00
+  mist:0.00
+  mutta:0.00
+  toi:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

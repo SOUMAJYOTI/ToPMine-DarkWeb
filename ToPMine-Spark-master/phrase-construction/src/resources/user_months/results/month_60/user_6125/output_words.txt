@@ -1,0 +1,61 @@
+Topic 0:
+  nelson:1.23
+  muntz:1.14
+  absent:0.61
+  magic:0.61
+  bastards:0.61
+  long:0.61
+  read:0.61
+  mdma:0.61
+  lsd:0.61
+  thieving:0.60
+
+Topic 1:
+  muntz:1.24
+  nelson:1.18
+  lsd:0.62
+  nelsonmuntzdirect:0.61
+  thieving:0.61
+  fog:0.61
+  chucking:0.61
+  feet:0.60
+  famous:0.60
+  mdma:0.60
+
+Topic 2:
+  nelson:1.18
+  muntz:1.09
+  net:0.62
+  direct:0.61
+  magic:0.61
+  chucking:0.61
+  riseup:0.61
+  bastards:0.61
+  famous:0.61
+  absent:0.61
+
+Topic 3:
+  muntz:1.30
+  nelson:1.28
+  riseup:0.61
+  net:0.60
+  feet:0.60
+  fog:0.60
+  direct:0.60
+  thieving:0.60
+  lsd:0.59
+  mdma:0.59
+
+Topic 4:
+  muntz:1.22
+  nelson:1.13
+  read:0.62
+  absent:0.61
+  thieving:0.61
+  direct:0.61
+  famous:0.61
+  net:0.60
+  magic:0.60
+  bastards:0.60
+
+K: 5, Log-Likelihood: -259.765, Alpha: 11.000, Beta: 1.100

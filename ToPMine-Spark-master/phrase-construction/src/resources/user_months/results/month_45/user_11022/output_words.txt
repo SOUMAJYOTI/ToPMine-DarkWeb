@@ -1,0 +1,61 @@
+Topic 0:
+  encryption:18.55
+  dna:16.11
+  secret:15.54
+  service:10.74
+  computers:10.15
+  suspects:9.91
+  crack:9.66
+  key:9.34
+  computer:8.82
+  word:6.88
+
+Topic 1:
+  encryption:2.80
+  keys:1.97
+  computer:1.54
+  service:1.51
+  program:1.40
+  computers:1.37
+  lists:1.35
+  suspects:1.35
+  bit:1.25
+  secret:1.18
+
+Topic 2:
+  credit:1.67
+  making:1.11
+  article:1.00
+  hard:0.96
+  years:0.91
+  advice:0.83
+  service:0.82
+  cards:0.79
+  secret:0.77
+  card:0.72
+
+Topic 3:
+  dislike:3.89
+  couple:3.87
+  june:3.80
+  times:2.81
+  posted:2.80
+  quote:2.80
+  considered:2.75
+  job:2.75
+  shortcuts:2.67
+  drugs:2.67
+
+Topic 4:
+  making:0.92
+  service:0.88
+  credit:0.87
+  attack:0.80
+  suspect:0.78
+  carding:0.77
+  krebs:0.75
+  dont:0.71
+  hard:0.64
+  years:0.60
+
+K: 5, Log-Likelihood: -7022.078, Alpha: 11.000, Beta: 1.100

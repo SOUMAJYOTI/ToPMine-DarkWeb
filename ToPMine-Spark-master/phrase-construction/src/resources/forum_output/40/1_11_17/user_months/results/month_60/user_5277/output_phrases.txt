@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:0.59
+  profile:0.58
+  vendor:0.58
+  markets:0.26
+  confused:0.26
+  allowed:0.26
+  searc:0.26
+  based:0.26
+  overseer:0.26
+  pgp:0.26
+
+Topic 1:
+  display:0.33
+  click:0.33
+  garden:0.32
+  info:0.32
+  post:0.32
+  vendor:0.32
+  vendors:0.31
+  profile:0.31
+  pgp key:0.23
+  worked:0.22
+
+Topic 2:
+  display:0.33
+  garden:0.33
+  click:0.33
+  info:0.33
+  post:0.33
+  vendor:0.32
+  vendors:0.31
+  profile:0.31
+  pgp key:0.23
+  worked:0.21
+
+Topic 3:
+  post:0.73
+  info:0.73
+  garden:0.72
+  click:0.72
+  display:0.71
+  set:0.29
+  public key:0.29
+  editor:0.29
+  opsec:0.29
+  mods:0.29
+
+Topic 4:
+  profile:0.50
+  vendor:0.49
+  vendors:0.49
+  upload:0.25
+  display:0.24
+  click:0.24
+  garden:0.24
+  pgp key:0.24
+  info:0.24
+  post:0.24
+
+K: 5, Log-Likelihood: -430.793, Alpha: 11.000, Beta: 1.100

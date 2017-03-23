@@ -1,0 +1,61 @@
+Topic 0:
+  plugin:10.41
+  accounts manage:4.10
+  private messaging:3.74
+  tools:3.36
+  don:2.44
+  source:1.76
+  settings checked:1.74
+  ensures:1.74
+  set correctly:1.74
+  proxyfor:1.74
+
+Topic 1:
+  plugin:3.27
+  tools:2.01
+  private messaging:1.63
+  accounts manage:1.27
+  protocol:1.04
+  compile:1.03
+  enable:1.00
+  add settings:0.99
+  links:0.99
+  box:0.98
+
+Topic 2:
+  site:3.46
+  msg:3.12
+  tails:2.60
+  onion:2.60
+  software:1.67
+  friend:1.67
+  find:1.67
+  install:1.67
+  online:1.67
+  additional:1.67
+
+Topic 3:
+  checking:2.29
+  worth:2.28
+  idea:2.24
+  jabber:1.81
+  snacktime:1.51
+  december:1.51
+  amis:1.51
+  quote:1.51
+  conjuction:1.44
+  otr record messaging:1.44
+
+Topic 4:
+  chat:4.66
+  os:2.62
+  pm:2.62
+  en:2.62
+  wikipedia:2.62
+  dealings:2.62
+  time:2.62
+  wiki:2.62
+  good:2.62
+  email:2.62
+
+K: 5, Log-Likelihood: -2004.985, Alpha: 11.000, Beta: 1.100

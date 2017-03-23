@@ -1,0 +1,61 @@
+Topic 0:
+  tails:38.95
+  tor:25.22
+  bridges:19.93
+  network:12.95
+  click:10.92
+  obis:6.88
+  connecting:6.85
+  bridge:6.53
+  save:6.52
+  screen:5.94
+
+Topic 1:
+  traffic:11.15
+  jondonym:9.96
+  mix:7.99
+  mixes:7.95
+  bridge:7.25
+  tor:7.18
+  operators:6.99
+  quote:6.44
+  brdgrd:6.18
+  users:6.08
+
+Topic 2:
+  wallet:22.26
+  dont:14.95
+  quote:8.79
+  qt:8.23
+  recommend:8.22
+  machine:8.15
+  btc:7.94
+  pmquote:7.58
+  great:6.10
+  tattoo:5.73
+
+Topic 3:
+  time:22.99
+  currency:20.14
+  march:19.45
+  digital:11.66
+  btc:11.43
+  superseded:10.80
+  amquote:9.91
+  years:9.39
+  sldk:8.89
+  gold:8.78
+
+Topic 4:
+  bitcoin:21.80
+  transactions:16.92
+  address:13.44
+  june:10.89
+  thin:8.97
+  zaphod:8.88
+  server:8.65
+  addresses:7.97
+  clients:7.97
+  transaction:7.13
+
+K: 5, Log-Likelihood: -16153.385, Alpha: 11.000, Beta: 1.100

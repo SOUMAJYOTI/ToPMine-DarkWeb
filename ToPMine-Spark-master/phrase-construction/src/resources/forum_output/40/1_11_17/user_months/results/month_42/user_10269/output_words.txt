@@ -1,0 +1,61 @@
+Topic 0:
+  march:28.50
+  pmquote:15.77
+  time:15.45
+  godofwar:13.71
+  scam:13.43
+  scammer:10.72
+  pull:10.57
+  house:9.81
+  gregory:8.88
+  dick:8.86
+
+Topic 1:
+  dont:8.03
+  place:6.65
+  post:6.23
+  good:5.25
+  forums:4.71
+  bitcoin:4.54
+  quick:4.49
+  le:3.79
+  scum:3.79
+  interface:3.78
+
+Topic 2:
+  people:9.56
+  place:5.58
+  nucleus:5.05
+  fortitude:4.92
+  lot:3.97
+  market:3.46
+  called:2.93
+  watching:2.75
+  great:2.70
+  time:2.66
+
+Topic 3:
+  nucleus:20.03
+  blackbank:9.46
+  mod:8.70
+  evo:7.71
+  random:7.06
+  vendor:5.10
+  address:4.93
+  kind:4.28
+  people:4.21
+  forum:4.19
+
+Topic 4:
+  market:11.96
+  odd:5.79
+  feedback:4.35
+  vrc:3.93
+  bad:3.67
+  hub:3.60
+  quote:3.25
+  ban:2.81
+  reply:2.52
+  tsk:2.38
+
+K: 5, Log-Likelihood: -7579.381, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  orders:4.67
+  day:3.78
+  nice:3.78
+  botnetting:3.78
+  selftheyre:3.78
+  bored:3.78
+  movies:3.78
+  learn:3.78
+  post:3.78
+  mouth:3.78
+
+Topic 1:
+  site:6.86
+  attack pay:4.65
+  find:4.65
+  counter:4.65
+  volnerabillities:3.76
+  analyzied:3.76
+  paid:3.76
+  thurally:3.76
+  tor compatible:3.20
+  backbone tor:3.20
+
+Topic 2:
+  talk:4.68
+  pays:4.68
+  protection:4.68
+  tor:4.64
+  cloudflare:4.52
+  good:3.42
+  time:3.34
+  prove:3.16
+  site:3.03
+  doesnt:2.95
+
+Topic 3:
+  prove abilities:3.82
+  laying:3.82
+  types:3.82
+  dozen:3.82
+  dime:3.82
+  forums:3.82
+  claims:3.82
+  member:3.82
+  environment:3.82
+  true:3.82
+
+Topic 4:
+  quote adlyd mon september:4.92
+  onionshop:4.68
+  org:3.70
+  deserve:3.70
+  respect:3.70
+  cost:3.70
+  hope:2.29
+  servers days:2.29
+  virginity:2.29
+  db:2.29
+
+K: 5, Log-Likelihood: -4694.235, Alpha: 11.000, Beta: 1.100

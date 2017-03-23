@@ -1,0 +1,61 @@
+Topic 0:
+  forums:1.38
+  pgp:1.30
+  sr:0.99
+  message:0.76
+  sense:0.62
+  filters:0.57
+  le:0.56
+  dont:0.56
+  technical:0.53
+  stuff:0.52
+
+Topic 1:
+  post:4.46
+  message:3.85
+  word:2.52
+  dont:1.95
+  pgp:1.00
+  forums:0.93
+  stuff:0.91
+  technical:0.91
+  writing:0.69
+  bunch:0.69
+
+Topic 2:
+  waiting:2.81
+  sr:1.64
+  supposed:1.27
+  ing:1.25
+  blah:1.24
+  pgp:0.91
+  forums:0.91
+  le:0.82
+  system:0.75
+  explanation:0.67
+
+Topic 3:
+  sr:1.35
+  forums:1.30
+  pgp:1.11
+  le:0.88
+  waiting:0.69
+  theft:0.68
+  explanation:0.55
+  sense:0.53
+  filters:0.51
+  system:0.51
+
+Topic 4:
+  forums:1.48
+  sr:1.37
+  theft:1.13
+  paranoid:1.11
+  deleted:0.98
+  safer:0.98
+  days:0.97
+  point:0.97
+  discrediting:0.97
+  warning:0.97
+
+K: 5, Log-Likelihood: -847.696, Alpha: 11.000, Beta: 1.100

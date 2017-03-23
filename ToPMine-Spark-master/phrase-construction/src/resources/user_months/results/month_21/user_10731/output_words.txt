@@ -1,0 +1,61 @@
+Topic 0:
+  tails:1.23
+  ubuntu:1.10
+  upgrade:0.79
+  installed:0.78
+  windows:0.74
+  boot:0.74
+  people:0.51
+  witch:0.51
+  side:0.51
+  files:0.50
+
+Topic 1:
+  tails:1.34
+  ubuntu:1.22
+  windows:0.88
+  upgrade:0.84
+  installed:0.80
+  boot:0.67
+  files:0.55
+  witch:0.55
+  side:0.55
+  people:0.54
+
+Topic 2:
+  tails:2.06
+  boot:0.63
+  ubuntu:0.54
+  script:0.50
+  save:0.50
+  installed:0.42
+  windows:0.42
+  upgrade:0.41
+  storage:0.40
+  latest:0.40
+
+Topic 3:
+  tails:3.82
+  stick:1.98
+  cd:1.15
+  site:0.46
+  burning:0.46
+  solution:0.46
+  applications:0.46
+  image:0.46
+  choose:0.46
+  parade:0.46
+
+Topic 4:
+  tails:1.54
+  ubuntu:0.98
+  installed:0.85
+  upgrade:0.82
+  windows:0.82
+  boot:0.61
+  files:0.52
+  witch:0.52
+  people:0.52
+  side:0.51
+
+K: 5, Log-Likelihood: -450.939, Alpha: 11.000, Beta: 1.100

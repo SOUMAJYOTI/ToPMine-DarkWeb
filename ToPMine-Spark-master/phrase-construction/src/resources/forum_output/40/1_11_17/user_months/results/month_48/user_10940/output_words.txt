@@ -1,0 +1,61 @@
+Topic 0:
+  mother:0.59
+  banning:0.40
+  evo:0.40
+  pissed:0.40
+  agora:0.40
+  tsc:0.40
+  dear:0.40
+  bed:0.40
+  sound:0.39
+  lie:0.39
+
+Topic 1:
+  mother:0.61
+  sound:0.41
+  evo:0.40
+  lie:0.40
+  pissed:0.40
+  dear:0.40
+  tsc:0.40
+  agora:0.40
+  banning:0.40
+  bed:0.40
+
+Topic 2:
+  mother:0.60
+  tsc:0.40
+  agora:0.40
+  bed:0.40
+  dear:0.40
+  lie:0.40
+  banning:0.40
+  pissed:0.40
+  evo:0.40
+  sound:0.40
+
+Topic 3:
+  mother:0.59
+  bed:0.40
+  lie:0.40
+  sound:0.40
+  pissed:0.40
+  agora:0.40
+  evo:0.40
+  dear:0.40
+  banning:0.40
+  tsc:0.40
+
+Topic 4:
+  mother:0.61
+  banning:0.40
+  sound:0.40
+  bed:0.40
+  dear:0.40
+  tsc:0.40
+  evo:0.40
+  lie:0.40
+  agora:0.40
+  pissed:0.40
+
+K: 5, Log-Likelihood: -108.827, Alpha: 11.000, Beta: 1.100

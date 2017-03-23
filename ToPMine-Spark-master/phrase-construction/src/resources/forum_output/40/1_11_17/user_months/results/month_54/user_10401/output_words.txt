@@ -1,0 +1,61 @@
+Topic 0:
+  files:11.62
+  partition:7.53
+  file:6.37
+  method:5.30
+  wipe:4.93
+  randomly:3.96
+  encrypt:3.96
+  deletion:3.79
+  september:3.01
+  string:2.96
+
+Topic 1:
+  luks:2.92
+  bit:2.87
+  veracrypt:2.86
+  lurks:2.86
+  alternatives:2.76
+  people:2.37
+  projects:1.90
+  development:1.90
+  setup:1.85
+  cut:1.85
+
+Topic 2:
+  file:7.76
+  truecrypt:5.36
+  issue:4.82
+  security:4.69
+  version:2.37
+  luks:2.33
+  deleted:1.92
+  versions:1.92
+  dozens:1.92
+  text:1.90
+
+Topic 3:
+  project:8.81
+  years:5.40
+  werner:4.95
+  tc:4.75
+  people:4.44
+  time:4.29
+  pay:3.95
+  easily:3.52
+  good:3.00
+  food:2.95
+
+Topic 4:
+  audit:7.92
+  truecrypt:5.65
+  code:3.44
+  august:3.03
+  auditors:2.88
+  quote:2.82
+  phase:2.53
+  impossible:2.21
+  difficult:2.18
+  perfect:2.17
+
+K: 5, Log-Likelihood: -4288.981, Alpha: 11.000, Beta: 1.100

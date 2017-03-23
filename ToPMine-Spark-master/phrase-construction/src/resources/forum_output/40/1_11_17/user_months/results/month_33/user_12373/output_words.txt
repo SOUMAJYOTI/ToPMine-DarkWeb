@@ -1,0 +1,61 @@
+Topic 0:
+  happoa:0.42
+  jotain:0.39
+  veikkaan:0.39
+  st:0.39
+  ettei:0.37
+  heti:0.20
+  vain:0.20
+  tarttisin:0.20
+  ole:0.20
+  en:0.20
+
+Topic 1:
+  ettei:0.42
+  veikkaan:0.41
+  jotain:0.41
+  st:0.40
+  happoa:0.39
+  pist:0.21
+  porukka:0.21
+  kannalta:0.21
+  seiffi:0.21
+  sen:0.21
+
+Topic 2:
+  happoa:0.41
+  st:0.39
+  jotain:0.39
+  veikkaan:0.39
+  ettei:0.37
+  niinku:0.20
+  ilman:0.20
+  vain:0.20
+  man:0.20
+  fraktaali:0.20
+
+Topic 3:
+  st:0.40
+  happoa:0.40
+  veikkaan:0.39
+  jotain:0.39
+  ettei:0.38
+  kest:0.20
+  llisyytt:0.20
+  rsiv:0.20
+  voi:0.20
+  pyyd:0.20
+
+Topic 4:
+  ettei:0.46
+  veikkaan:0.42
+  jotain:0.42
+  st:0.41
+  happoa:0.38
+  kyl:0.21
+  hde:0.21
+  infoa:0.21
+  iha:0.21
+  tornarit:0.21
+
+K: 5, Log-Likelihood: -327.666, Alpha: 11.000, Beta: 1.100

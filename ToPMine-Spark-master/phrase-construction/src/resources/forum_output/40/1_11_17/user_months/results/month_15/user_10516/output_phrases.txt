@@ -1,0 +1,61 @@
+Topic 0:
+  browser:6.98
+  proxy:6.57
+  http:5.09
+  user agent:5.09
+  fingerprint:4.37
+  squid:4.37
+  javascript:4.37
+  response:4.37
+  alter:4.37
+  tor:3.57
+
+Topic 1:
+  resources:4.36
+  check:4.20
+  hotspots:3.83
+  big:3.50
+  dont:3.42
+  loader:3.09
+  boot:3.06
+  level:2.16
+  el:2.16
+  cover:2.16
+
+Topic 2:
+  scripts:4.27
+  disabled:4.26
+  software:3.91
+  files:3.50
+  verify:3.50
+  ways:3.47
+  cookies:3.44
+  canvas:3.43
+  integrity:2.65
+  installed:2.12
+
+Topic 3:
+  server:5.32
+  project:4.33
+  encrusted:4.21
+  system:4.21
+  july:3.81
+  step:3.53
+  allowing:3.53
+  hidden:3.53
+  fellow:3.53
+  frills:3.53
+
+Topic 4:
+  attempts:7.11
+  man middle:7.11
+  encounter:7.11
+  conclusion:7.11
+  google:6.70
+  good fellows:5.32
+  antenna:4.35
+  direction:4.35
+  kind:3.60
+  juicy:3.53
+
+K: 5, Log-Likelihood: -5310.250, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  dont:2.50
+  hope:1.54
+  kapteeni:1.44
+  en:1.33
+  wrong:1.07
+  kirjautumaan:0.79
+  se:0.79
+  ket:0.64
+  talk:0.64
+  happened:0.64
+
+Topic 1:
+  kapteeni:1.07
+  ja:1.03
+  lill:0.74
+  market:0.68
+  en:0.67
+  returned:0.63
+  saanut:0.63
+  coins:0.62
+  days:0.62
+  ket:0.58
+
+Topic 2:
+  kapteeni:4.44
+  ei:3.85
+  ja:2.23
+  tor:1.85
+  silkkitie:1.85
+  haavoittuvuus:1.85
+  verkosta:1.85
+  ytt:1.66
+  tilannetta:1.39
+  aikaa:1.33
+
+Topic 3:
+  kapteeni:1.86
+  ei:1.36
+  saa:1.20
+  edes:0.91
+  siell:0.86
+  ja:0.72
+  en:0.67
+  days:0.55
+  lill:0.54
+  saanut:0.52
+
+Topic 4:
+  ja:9.50
+  rahat:7.08
+  takaisin:4.48
+  kaikki:3.84
+  voi:3.84
+  ss:3.84
+  kaikkien:3.84
+  ett:3.39
+  nain:2.20
+  st:2.15
+
+K: 5, Log-Likelihood: -2208.100, Alpha: 11.000, Beta: 1.100

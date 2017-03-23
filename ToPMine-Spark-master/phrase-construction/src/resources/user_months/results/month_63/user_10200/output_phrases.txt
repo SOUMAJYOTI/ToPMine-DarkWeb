@@ -1,0 +1,61 @@
+Topic 0:
+  fees:0.00
+  purchasing:0.00
+  network:0.00
+  public:0.00
+  escrow:0.00
+  wallet created:0.00
+  funds:0.00
+  generate:0.00
+  key:0.00
+  multisignature:0.00
+
+Topic 1:
+  fees:0.00
+  purchasing:0.00
+  network:0.00
+  public:0.00
+  escrow:0.00
+  wallet created:0.00
+  funds:0.00
+  generate:0.00
+  key:0.00
+  multisignature:0.00
+
+Topic 2:
+  fees:0.00
+  purchasing:0.00
+  network:0.00
+  public:0.00
+  escrow:0.00
+  wallet created:0.00
+  funds:0.00
+  generate:0.00
+  key:0.00
+  multisignature:0.00
+
+Topic 3:
+  fees:0.00
+  purchasing:0.00
+  network:0.00
+  public:0.00
+  escrow:0.00
+  wallet created:0.00
+  funds:0.00
+  generate:0.00
+  key:0.00
+  multisignature:0.00
+
+Topic 4:
+  fees:0.00
+  purchasing:0.00
+  network:0.00
+  public:0.00
+  escrow:0.00
+  wallet created:0.00
+  funds:0.00
+  generate:0.00
+  key:0.00
+  multisignature:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

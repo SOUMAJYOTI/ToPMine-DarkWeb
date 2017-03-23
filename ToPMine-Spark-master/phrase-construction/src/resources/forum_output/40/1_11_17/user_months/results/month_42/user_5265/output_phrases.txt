@@ -1,0 +1,61 @@
+Topic 0:
+  love avengers:0.24
+  affiliate:0.08
+  pip:0.08
+  middleearth:0.08
+  market:0.08
+  alphabet:0.08
+  love:0.00
+  prefer:0.00
+  profile:0.00
+  netherlands:0.00
+
+Topic 1:
+  love avengers:0.24
+  alphabet:0.08
+  market:0.08
+  middleearth:0.08
+  affiliate:0.08
+  pip:0.08
+  love:0.00
+  prefer:0.00
+  profile:0.00
+  netherlands:0.00
+
+Topic 2:
+  love avengers:0.24
+  pip:0.08
+  affiliate:0.08
+  middleearth:0.08
+  market:0.08
+  alphabet:0.08
+  love:0.00
+  prefer:0.00
+  profile:0.00
+  netherlands:0.00
+
+Topic 3:
+  love avengers:0.24
+  pip:0.08
+  affiliate:0.08
+  middleearth:0.08
+  alphabet:0.08
+  market:0.08
+  love:0.00
+  prefer:0.00
+  profile:0.00
+  netherlands:0.00
+
+Topic 4:
+  love avengers:0.24
+  alphabet:0.08
+  market:0.08
+  middleearth:0.08
+  pip:0.08
+  affiliate:0.08
+  love:0.00
+  prefer:0.00
+  profile:0.00
+  netherlands:0.00
+
+K: 5, Log-Likelihood: -7.800, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  server:9.18
+  hidden services located:6.09
+  traffic analysis:6.09
+  western europe:6.09
+  bittorrent:6.09
+  difficult:6.09
+  vpn server country:3.02
+  russian servers:3.02
+  process:3.02
+  making:3.02
+
+Topic 1:
+  proceed risk:6.10
+  trust trade:6.10
+  coins:3.09
+  luc:3.02
+  general:3.02
+  established:3.02
+  drug:3.02
+  details:3.02
+  trades:3.02
+  pm:3.02
+
+Topic 2:
+  eyes countries:9.34
+  owned:3.02
+  potential:3.02
+  employees:3.02
+  citizenship:3.02
+  combined:3.02
+  inside:3.02
+  max:3.02
+  agencies:3.02
+  headquartered:3.02
+
+Topic 3:
+  entry guard:9.17
+  exit nodes:6.08
+  matter:6.08
+  entry guards:6.08
+  doesn:3.82
+  doesnt:3.82
+  tor:3.54
+  markup:3.41
+  nsa:3.01
+  network attacker:3.01
+
+Topic 4:
+  localbitcoins:3.81
+  share:2.98
+  interesting:2.97
+  pia:2.97
+  couple:2.97
+  clarification:2.97
+  months:2.97
+  topic:2.97
+  reccomendations:2.97
+  thougt:2.97
+
+K: 5, Log-Likelihood: -3428.901, Alpha: 11.000, Beta: 1.100

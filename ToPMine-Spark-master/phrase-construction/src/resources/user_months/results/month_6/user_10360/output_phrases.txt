@@ -1,0 +1,61 @@
+Topic 0:
+  issue:3.46
+  return addresses:2.58
+  forum:2.49
+  post:2.49
+  sr:2.22
+  sticking:2.14
+  downtime:2.14
+  nonsense:2.14
+  post multiply:2.14
+  threads caps:2.14
+
+Topic 1:
+  package:6.17
+  things:4.87
+  supposed:4.37
+  bringing:4.37
+  check:4.37
+  false return:4.37
+  dogs:4.37
+  written:4.37
+  signed:4.37
+  knock:4.37
+
+Topic 2:
+  site:4.40
+  pack:4.33
+  full:4.33
+  attack:4.33
+  love:4.30
+  runs:4.30
+  strike:3.52
+  quote:3.50
+  solution:3.47
+  working:3.47
+
+Topic 3:
+  return address:7.79
+  return:6.54
+  portal service:6.54
+  feds:6.54
+  times:6.54
+  years:6.54
+  tracking:6.53
+  vendors:5.00
+  based:4.35
+  internet:4.35
+
+Topic 4:
+  gloves:7.99
+  mailer:4.34
+  anah:4.34
+  lol:4.34
+  wipe:4.34
+  yeah:4.34
+  order:4.30
+  sit:4.30
+  didnt:4.30
+  unopened:4.30
+
+K: 5, Log-Likelihood: -9455.476, Alpha: 11.000, Beta: 1.100

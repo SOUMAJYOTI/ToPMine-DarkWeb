@@ -1,0 +1,61 @@
+Topic 0:
+  sample:3.21
+  send:2.56
+  ms:2.53
+  energycontrol:1.68
+  contact:1.18
+  international:1.10
+  english:1.10
+  required:1.02
+  transfer:0.86
+  bank:0.84
+
+Topic 1:
+  process:3.67
+  reply:2.41
+  send:1.96
+  energy:1.87
+  tested:1.72
+  familiar:1.72
+  control:1.72
+  speak:1.72
+  benefit:1.72
+  advance:1.72
+
+Topic 2:
+  ms:5.03
+  sample:4.01
+  required:1.96
+  send:1.82
+  contact:1.82
+  full:1.38
+  message:1.34
+  blotters:1.31
+  gc:1.30
+  substance:1.29
+
+Topic 3:
+  send:2.90
+  sample:1.77
+  ms:1.73
+  energycontrol:1.61
+  english:1.12
+  international:1.11
+  contact:0.86
+  energy:0.84
+  required:0.78
+  envelope:0.62
+
+Topic 4:
+  ms:4.48
+  sample:3.70
+  required:2.07
+  contact:1.98
+  send:1.76
+  envelope:1.36
+  btc:1.32
+  ec:1.32
+  paypal:1.29
+  payment:1.29
+
+K: 5, Log-Likelihood: -1578.749, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  truecrypt:1.07
+  devs:0.42
+  based:0.42
+  auditing:0.41
+  truecrypt veracrypt:0.25
+  programs:0.24
+  mi:0.18
+  consensus:0.18
+  successor:0.18
+  brick:0.18
+
+Topic 1:
+  truecrypt:0.63
+  programs:0.32
+  auditing:0.31
+  based:0.31
+  devs:0.31
+  truecrypt veracrypt:0.28
+  mi:0.23
+  albeit:0.15
+  ubiquitous:0.15
+  explanation:0.15
+
+Topic 2:
+  programs:0.56
+  mi:0.35
+  truecrypt:0.32
+  truecrypt veracrypt:0.27
+  auditing:0.21
+  based:0.21
+  devs:0.21
+  field:0.16
+  assumed:0.16
+  apologize:0.16
+
+Topic 3:
+  programs:0.43
+  truecrypt:0.41
+  mi:0.29
+  truecrypt veracrypt:0.29
+  auditing:0.24
+  based:0.24
+  devs:0.24
+  mossad:0.14
+  eyes:0.14
+  question:0.14
+
+Topic 4:
+  programs:0.52
+  truecrypt:0.34
+  mi:0.33
+  truecrypt veracrypt:0.29
+  auditing:0.21
+  based:0.21
+  devs:0.21
+  time:0.16
+  expression:0.16
+  opinions:0.16
+
+K: 5, Log-Likelihood: -314.334, Alpha: 11.000, Beta: 1.100

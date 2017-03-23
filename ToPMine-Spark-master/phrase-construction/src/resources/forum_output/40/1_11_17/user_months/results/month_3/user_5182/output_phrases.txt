@@ -1,0 +1,61 @@
+Topic 0:
+  key:2.12
+  fez:1.31
+  pm:1.23
+  hcxitt:1.19
+  pip:1.15
+  public:1.15
+  esm:1.14
+  block:1.14
+  hash:1.12
+  ag:1.12
+
+Topic 1:
+  santa:3.67
+  vendor:3.48
+  congrats:2.19
+  place:1.91
+  great:1.90
+  don:1.88
+  avengers:1.88
+  buy:1.88
+  confidence:1.88
+  eyes:1.88
+
+Topic 2:
+  key:3.17
+  fez:2.74
+  morroccan:1.61
+  usk:1.57
+  ak:1.57
+  note pgp:1.57
+  blotter:1.56
+  yd:1.52
+  esm:1.49
+  hash:1.48
+
+Topic 3:
+  washed:6.02
+  acetone:4.01
+  directly:4.01
+  wash:4.01
+  tested:4.01
+  saint nic:3.43
+  mdma:3.23
+  products:3.04
+  nice:3.04
+  hands:1.99
+
+Topic 4:
+  key:2.51
+  fez:1.76
+  markets:1.45
+  cream:1.44
+  hcxitt:1.36
+  ag:1.36
+  ak:1.35
+  focus:1.34
+  public:1.33
+  pip:1.33
+
+K: 5, Log-Likelihood: -7154.440, Alpha: 11.000, Beta: 1.100

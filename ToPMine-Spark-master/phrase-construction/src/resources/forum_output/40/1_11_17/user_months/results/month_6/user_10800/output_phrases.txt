@@ -1,0 +1,61 @@
+Topic 0:
+  atm:0.14
+  extension:0.14
+  rushed:0.14
+  basically:0.14
+  placate:0.14
+  worthless:0.14
+  investors:0.14
+  multisignature:0.14
+  escrow:0.14
+  mixing:0.14
+
+Topic 1:
+  whonix:0.14
+  addresses:0.14
+  built:0.14
+  routes:0.14
+  forward:0.14
+  properly:0.14
+  steps:0.14
+  huge:0.14
+  fine:0.14
+  isolating:0.14
+
+Topic 2:
+  btc:0.14
+  wallets:0.14
+  bitcoin:0.14
+  amount:0.14
+  version:0.14
+  anonymity:0.14
+  mixing:0.14
+  escrow:0.14
+  reaches:0.14
+  integrationthis:0.14
+
+Topic 3:
+  real:0.14
+  beta:0.14
+  payments:0.14
+  software:0.14
+  version:0.14
+  integrationthis:0.14
+  features:0.14
+  mixing:0.14
+  web:0.14
+  anonymity:0.14
+
+Topic 4:
+  bitcoin:0.14
+  reaches:0.14
+  extension:0.14
+  basically:0.14
+  wallets:0.14
+  beta:0.14
+  amount:0.14
+  worthless:0.14
+  escrow:0.14
+  comparative:0.14
+
+K: 5, Log-Likelihood: -97.566, Alpha: 11.000, Beta: 1.100

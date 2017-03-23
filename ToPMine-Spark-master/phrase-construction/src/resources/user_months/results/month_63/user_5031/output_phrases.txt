@@ -1,0 +1,61 @@
+Topic 0:
+  public key:6.59
+  tails:5.96
+  message people:3.29
+  refering:3.29
+  decrepit:3.29
+  decrypt message:3.29
+  generate:3.28
+  correct:3.28
+  start:3.28
+  application:3.28
+
+Topic 1:
+  great:3.34
+  version working:3.34
+  messages:3.34
+  advance:3.34
+  bugs:3.34
+  blank:3.34
+  messages people:3.34
+  downloading:3.34
+  encrypting:3.34
+  win:3.34
+
+Topic 2:
+  link search forums:3.67
+  easiest:3.06
+  pmwhat:3.06
+  running:3.05
+  current:3.05
+  version electrum:3.04
+  person:1.99
+  helpful:1.96
+  electrum tails:1.88
+  link:1.88
+
+Topic 3:
+  meant kv lspiobjhfb bf:3.33
+  hqema loqtxmclnwaqf avzv ujlnbuwdutjq:3.33
+  xun rttqsmsai rtqg nzqfrp:3.33
+  qymsehhlddqiapg:3.33
+  ebazogiyytdbxmw gbxi um:3.33
+  jq kqaush ptsuet rklrdro:3.33
+  iulkzqxuj kcmjvhepkqedtha muki bisnkrs:3.33
+  message version gnupg mingw:3.33
+  unwozzupq zla pgp message:3.33
+  nis hzydxiec iwkps:3.33
+
+Topic 4:
+  yvsaupq nis hzydxiec:3.32
+  gnupg mingw hqema loqtxmclnwaqf:3.32
+  fine:3.32
+  cnewf:3.32
+  jq kqaush ptsuet:3.32
+  ebazogiyytdbxmw gbxi um csuleavhtng:3.32
+  avzv ujlnbuwdutjq meant:3.32
+  read:3.32
+  pmsorry:3.32
+  nwhaft qq erdaufc qymsehhlddqiapg:3.32
+
+K: 5, Log-Likelihood: -1581.463, Alpha: 11.000, Beta: 1.100

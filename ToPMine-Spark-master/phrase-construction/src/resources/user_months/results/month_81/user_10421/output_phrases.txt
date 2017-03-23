@@ -1,0 +1,61 @@
+Topic 0:
+  multisignature address:15.28
+  redeem script:12.37
+  multisignature escrow:8.05
+  merchant:5.93
+  bitcoin address:5.69
+  public key:5.01
+  customer:4.37
+  market:4.33
+  release funds:4.16
+  escrow:3.72
+
+Topic 1:
+  public key:4.23
+  multisignature address:2.46
+  sign transaction:1.98
+  markets:1.59
+  order:1.58
+  word:1.33
+  explain:1.31
+  standard protocol:1.26
+  electrum care:1.23
+  redeem script:1.19
+
+Topic 2:
+  market:5.00
+  public key:4.04
+  sign transaction:2.59
+  timelock transaction:2.29
+  multisignature escrow:2.21
+  order:2.09
+  redeem script:1.94
+  transaction:1.88
+  funds:1.86
+  bitcoin address:1.81
+
+Topic 3:
+  madness:3.91
+  marketplace:3.15
+  etizolam:3.11
+  hansa:3.08
+  electrum hansa:2.94
+  check:2.51
+  zig:1.97
+  pipes:1.97
+  wow:1.97
+  offering:1.97
+
+Topic 4:
+  public key:8.87
+  multisignature address:6.84
+  redeem script:4.64
+  sign transaction:3.94
+  market:3.92
+  timelock transaction:3.83
+  customer:3.73
+  address:3.36
+  bitcoin addresses:3.35
+  receive:3.29
+
+K: 5, Log-Likelihood: -8600.333, Alpha: 11.000, Beta: 1.100

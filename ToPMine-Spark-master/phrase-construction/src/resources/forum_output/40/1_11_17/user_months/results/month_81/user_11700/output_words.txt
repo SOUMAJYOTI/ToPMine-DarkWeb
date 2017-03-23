@@ -1,0 +1,61 @@
+Topic 0:
+  din:15.84
+  du:13.81
+  vi:13.21
+  server:12.58
+  ikke:11.82
+  er:11.68
+  dine:8.83
+  dette:6.50
+  brugere:5.83
+  ende:5.83
+
+Topic 1:
+  windows:1.68
+  secure:1.67
+  af:1.62
+  marketplace:1.60
+  lyy:1.43
+  cwykht:1.42
+  ddvimbhufj:1.41
+  bm:1.41
+  hosting:1.41
+  sw:1.41
+
+Topic 2:
+  secure:4.68
+  hosting:4.55
+  march:4.52
+  abyss:3.90
+  service:3.86
+  quote:3.72
+  dont:1.96
+  pay:1.96
+  ip:1.96
+  pm:1.95
+
+Topic 3:
+  er:8.44
+  en:4.53
+  din:2.68
+  du:2.61
+  secure:2.16
+  contact:2.03
+  march:1.95
+  hosting:1.90
+  vi:1.66
+  tte:1.63
+
+Topic 4:
+  coding:3.58
+  user:3.21
+  key:2.96
+  block:2.96
+  anoncoin:2.80
+  public:1.96
+  pip:1.96
+  check:1.96
+  risk:1.96
+  bitcointalk:1.96
+
+K: 5, Log-Likelihood: -4690.694, Alpha: 11.000, Beta: 1.100

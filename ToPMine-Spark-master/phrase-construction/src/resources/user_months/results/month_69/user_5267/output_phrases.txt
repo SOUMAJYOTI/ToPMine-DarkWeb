@@ -1,0 +1,61 @@
+Topic 0:
+  cash deposits:4.16
+  localbitcoins:3.41
+  vendor:2.17
+  hofmannite:2.17
+  account number:2.17
+  accounts:2.17
+  bank:2.17
+  unfamiliar method mind:2.17
+  deeper detail unsure sort:2.17
+  january:2.17
+
+Topic 1:
+  buy:7.29
+  phone number:7.29
+  day:3.60
+  dotcom:3.60
+  liberty:3.60
+  service:3.60
+  phone:3.60
+  priority:3.60
+  address:3.60
+  sign:3.60
+
+Topic 2:
+  western union:3.77
+  tendency:3.56
+  cancelled:3.56
+  whatsoever:3.56
+  payments:3.56
+  people:3.56
+  silly:3.56
+  flagged:3.56
+  money moneygram:3.56
+  reason:3.56
+
+Topic 3:
+  cash:5.25
+  pick:4.43
+  meet person:4.25
+  dont:3.26
+  info:2.60
+  local:2.18
+  failed:2.18
+  thing:2.18
+  receiver:2.18
+  choice:2.18
+
+Topic 4:
+  repaid card:6.56
+  rate:3.28
+  card bitcoin:3.27
+  area:3.26
+  cheapest:3.25
+  marked:3.25
+  libertyx:3.25
+  exchange:3.23
+  higher:3.23
+  sites:3.23
+
+K: 5, Log-Likelihood: -2059.728, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  escrow:1.73
+  ripped:1.73
+  system:1.73
+  vendors:0.97
+  prevent:0.82
+  buyer:0.82
+  running:0.82
+  auto:0.82
+  spitting:0.82
+  hahahahahaha:0.82
+
+Topic 1:
+  site:0.98
+  time:0.77
+  shit:0.72
+  defcon:0.72
+  coins:0.72
+  people:0.56
+  marketplace:0.49
+  mods:0.48
+  squealer:0.48
+  funds:0.48
+
+Topic 2:
+  site:1.03
+  defcon:0.86
+  coins:0.83
+  shit:0.81
+  time:0.75
+  people:0.62
+  constantly:0.52
+  reddit:0.52
+  vendor:0.52
+  chemcat:0.52
+
+Topic 3:
+  site:0.53
+  people:0.51
+  defcon:0.44
+  coins:0.43
+  time:0.43
+  shit:0.43
+  whyusheep:0.33
+  marketplace:0.33
+  possibility:0.33
+  storage:0.32
+
+Topic 4:
+  site:1.09
+  time:0.78
+  shit:0.76
+  coins:0.74
+  defcon:0.70
+  people:0.59
+  whyusheep:0.49
+  admins:0.49
+  cold:0.49
+  hack:0.49
+
+K: 5, Log-Likelihood: -1358.210, Alpha: 11.000, Beta: 1.100

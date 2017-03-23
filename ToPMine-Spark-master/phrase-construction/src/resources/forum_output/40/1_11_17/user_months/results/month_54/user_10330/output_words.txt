@@ -1,0 +1,61 @@
+Topic 0:
+  countries:11.39
+  vodafone:8.22
+  lawful:7.24
+  interception:6.99
+  report:5.99
+  government:5.84
+  data:5.67
+  technical:5.53
+  publishes:4.99
+  access:4.30
+
+Topic 1:
+  tor:15.68
+  notice:14.99
+  xxx:11.99
+  network:9.89
+  directory:8.93
+  connection:8.31
+  bridges:6.99
+  browser:6.60
+  download:5.97
+  bootstrapped:4.99
+
+Topic 2:
+  tails:18.77
+  update:7.00
+  tablets:6.21
+  time:5.20
+  persistent:4.90
+  simply:3.95
+  packages:3.95
+  stick:3.59
+  boot:2.93
+  good:2.23
+
+Topic 3:
+  foreign:25.99
+  rcs:15.99
+  dea:14.99
+  host:12.57
+  country:12.20
+  access:12.09
+  based:11.40
+  devices:10.20
+  data:9.50
+  software:6.51
+
+Topic 4:
+  bug:42.63
+  tor:29.03
+  browser:27.24
+  release:13.97
+  firefox:13.87
+  disable:12.09
+  plate:11.95
+  updates:10.95
+  update:9.92
+  security:8.14
+
+K: 5, Log-Likelihood: -14392.033, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  agora:0.28
+  brothers:0.28
+  today:0.28
+  log:0.22
+  minutes:0.22
+  nyxhc:0.22
+  younot:0.22
+  time:0.22
+  problems:0.22
+  earlier:0.22
+
+Topic 1:
+  brothers:0.28
+  agora:0.28
+  today:0.28
+  log:0.22
+  younot:0.22
+  nyxhc:0.22
+  time:0.22
+  problems:0.22
+  logging:0.22
+  earlier:0.22
+
+Topic 2:
+  today:0.28
+  brothers:0.28
+  agora:0.28
+  logging:0.22
+  problems:0.22
+  earlier:0.22
+  minutes:0.22
+  time:0.22
+  nyxhc:0.22
+  younot:0.22
+
+Topic 3:
+  today:0.28
+  agora:0.28
+  brothers:0.28
+  problems:0.22
+  logging:0.22
+  time:0.22
+  minutes:0.22
+  younot:0.22
+  earlier:0.22
+  nyxhc:0.22
+
+Topic 4:
+  brothers:0.28
+  agora:0.28
+  today:0.28
+  nyxhc:0.22
+  earlier:0.22
+  younot:0.22
+  time:0.22
+  minutes:0.22
+  log:0.22
+  logging:0.22
+
+K: 5, Log-Likelihood: -31.326, Alpha: 11.000, Beta: 1.100

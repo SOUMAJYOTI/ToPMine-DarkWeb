@@ -1,0 +1,61 @@
+Topic 0:
+  question:0.14
+  trc:0.14
+  call:0.14
+  thmarketplace:0.14
+  dont:0.14
+  amwhat:0.14
+  willit:0.14
+  development development:0.14
+  asked:0.14
+  question question:0.14
+
+Topic 1:
+  thmarketplace:0.14
+  question question:0.14
+  thoghts:0.14
+  development:0.14
+  dont:0.14
+  development development:0.14
+  answer:0.14
+  asked:0.14
+  willit:0.14
+  market:0.14
+
+Topic 2:
+  answer:0.14
+  question:0.14
+  question question:0.14
+  call:0.14
+  asked:0.14
+  dont:0.14
+  trc:0.14
+  market:0.14
+  partner:0.14
+  february:0.14
+
+Topic 3:
+  development development:0.14
+  february:0.14
+  quote:0.14
+  thoughts:0.14
+  trc:0.14
+  amwhat:0.14
+  partner:0.14
+  thoghts:0.14
+  asked:0.14
+  dont:0.14
+
+Topic 4:
+  market:0.14
+  development:0.14
+  willit:0.14
+  partner:0.14
+  thoghts:0.14
+  thmarketplace:0.14
+  call:0.14
+  asked:0.14
+  dont:0.14
+  answer:0.14
+
+K: 5, Log-Likelihood: -43.218, Alpha: 11.000, Beta: 1.100

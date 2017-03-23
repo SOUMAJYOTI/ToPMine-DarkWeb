@@ -1,0 +1,61 @@
+Topic 0:
+  service:0.68
+  mixer:0.60
+  hidden:0.45
+  bitcoin:0.45
+  wanted:0.44
+  work:0.37
+  transaction:0.29
+  single:0.29
+  complete:0.21
+  pieces:0.21
+
+Topic 1:
+  mixer:0.62
+  single:0.57
+  transaction:0.56
+  service:0.46
+  work:0.44
+  bitcoin:0.33
+  wanted:0.33
+  hidden:0.33
+  decide:0.25
+  funds:0.25
+
+Topic 2:
+  service:0.71
+  mixer:0.59
+  wanted:0.45
+  bitcoin:0.45
+  hidden:0.45
+  work:0.37
+  transaction:0.29
+  single:0.29
+  bits:0.22
+  started:0.22
+
+Topic 3:
+  mixer:0.60
+  single:0.55
+  transaction:0.55
+  service:0.48
+  work:0.44
+  hidden:0.34
+  bitcoin:0.34
+  wanted:0.34
+  user:0.24
+  marketplaces:0.24
+
+Topic 4:
+  service:0.67
+  mixer:0.59
+  hidden:0.44
+  wanted:0.44
+  bitcoin:0.43
+  work:0.38
+  transaction:0.31
+  single:0.31
+  great:0.21
+  implements:0.21
+
+K: 5, Log-Likelihood: -246.161, Alpha: 11.000, Beta: 1.100

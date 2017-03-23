@@ -1,0 +1,61 @@
+Topic 0:
+  coins:1.80
+  quote:0.87
+  january:0.85
+  dont:0.79
+  point:0.69
+  wallet:0.51
+  alpha:0.50
+  money:0.49
+  stable:0.48
+  parts:0.48
+
+Topic 1:
+  coins:2.64
+  dont:1.66
+  january:0.92
+  quote:0.90
+  wallet:0.85
+  money:0.80
+  lioneagle:0.73
+  told:0.72
+  complaining:0.72
+  confirmations:0.71
+
+Topic 2:
+  point:2.02
+  bitcoin:1.83
+  car:1.79
+  bridge:1.13
+  service:1.12
+  coins:0.81
+  quote:0.62
+  january:0.61
+  darkwallet:0.51
+  safe:0.51
+
+Topic 3:
+  coins:2.33
+  money:2.03
+  authors:1.41
+  remove:1.24
+  fund:1.24
+  confirm:1.23
+  everytime:1.23
+  throw:1.22
+  funds:1.21
+  advice:1.21
+
+Topic 4:
+  coins:1.41
+  quote:0.88
+  january:0.88
+  dont:0.75
+  point:0.74
+  stable:0.54
+  alpha:0.52
+  car:0.52
+  bitcoin:0.50
+  money:0.49
+
+K: 5, Log-Likelihood: -802.923, Alpha: 11.000, Beta: 1.100

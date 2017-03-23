@@ -1,0 +1,61 @@
+Topic 0:
+  market:2.37
+  start:1.34
+  vendors:0.96
+  contact:0.74
+  running:0.62
+  staying:0.62
+  longest:0.62
+  partnership:0.62
+  devoted:0.61
+  work:0.61
+
+Topic 1:
+  vendors:2.13
+  market:0.99
+  start:0.74
+  buyer:0.63
+  substances:0.63
+  allowed:0.63
+  imputable:0.63
+  homework:0.62
+  time:0.62
+  typically:0.62
+
+Topic 2:
+  contact:0.96
+  vendors:0.93
+  market:0.75
+  partner:0.62
+  start:0.51
+  online:0.40
+  substances:0.40
+  imputable:0.40
+  buyer:0.40
+  homework:0.40
+
+Topic 3:
+  partner:2.90
+  drugs:1.25
+  markets:1.24
+  money:1.24
+  good:1.24
+  lot:1.24
+  contact:1.15
+  active:0.51
+  trustfull:0.51
+  bring:0.51
+
+Topic 4:
+  market:1.66
+  vendors:1.64
+  start:1.23
+  link:0.57
+  build:0.56
+  trust:0.56
+  long:0.56
+  small:0.56
+  ways:0.56
+  darknet:0.56
+
+K: 5, Log-Likelihood: -478.731, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  family:5.09
+  friends:2.43
+  join:2.43
+  good:2.43
+  freedoms:2.43
+  underground:2.42
+  movement:2.42
+  dnms:2.42
+  enjoy:2.42
+  sorts:2.42
+
+Topic 1:
+  stuff:2.45
+  day:2.45
+  cool yeah:2.45
+  good bought:2.45
+  alpha:2.10
+  pgp:1.72
+  vend:1.71
+  avoid markets:1.71
+  phis:1.71
+  key:1.71
+
+Topic 2:
+  mistakes:3.82
+  love place dudes:2.54
+  exploring:2.52
+  benefit:2.52
+  risk:2.52
+  early:2.52
+  order:2.52
+  fully:2.52
+  days:2.52
+  time:2.52
+
+Topic 3:
+  dudes:1.07
+  lot crypts market wanted:1.07
+  hey:1.07
+  guys thinking:1.07
+  finally ordering weed online:1.07
+  opinions kind thing problems:1.07
+  february:0.98
+  sick:0.90
+  quote:0.89
+  crypto market:0.79
+
+Topic 4:
+  captchas:2.42
+  hansa market:2.41
+  easily:2.41
+  box:2.40
+  opinion:2.40
+  alpha nucleus:2.40
+  pmhey:2.39
+  problems dudes:2.39
+  hansa security:2.39
+  wanted opinions kind thing:2.39
+
+K: 5, Log-Likelihood: -1520.624, Alpha: 11.000, Beta: 1.100

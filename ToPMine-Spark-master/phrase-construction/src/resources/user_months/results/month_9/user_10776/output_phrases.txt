@@ -1,0 +1,61 @@
+Topic 0:
+  accept terms:1.25
+  tor connect:1.25
+  access:1.18
+  unsafe browser:1.05
+  browser:0.72
+  opened:0.67
+  connection allowed:0.66
+  portal:0.66
+  works:0.65
+  bridges:0.65
+
+Topic 1:
+  tor connect:1.78
+  unsafe browser:1.28
+  activate:1.14
+  similiar:1.14
+  toreven:1.14
+  worked:1.14
+  captive:1.14
+  quote:1.14
+  established:1.13
+  connection:1.12
+
+Topic 2:
+  connect network:2.86
+  isnt:2.86
+  public:2.86
+  connect:2.54
+  tor:2.06
+  tails:1.51
+  weeks:1.36
+  sequence:1.36
+  vpn:1.36
+  topic:1.36
+
+Topic 3:
+  mac:1.23
+  logon:1.17
+  library:1.11
+  number:0.86
+  member:0.83
+  accept terms:0.78
+  access:0.78
+  tails:0.72
+  details:0.58
+  familiar:0.57
+
+Topic 4:
+  logon:1.59
+  mac:1.15
+  library:0.97
+  member:0.88
+  number:0.86
+  network mac:0.73
+  monitoring:0.73
+  big:0.73
+  card:0.73
+  boot:0.73
+
+K: 5, Log-Likelihood: -1072.882, Alpha: 11.000, Beta: 1.100

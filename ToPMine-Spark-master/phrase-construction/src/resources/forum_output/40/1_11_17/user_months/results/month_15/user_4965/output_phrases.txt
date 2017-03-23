@@ -1,0 +1,61 @@
+Topic 0:
+  text:0.41
+  hope:0.36
+  message:0.22
+  send:0.21
+  private:0.21
+  asc:0.21
+  post:0.21
+  problem:0.21
+  write:0.21
+  key:0.21
+
+Topic 1:
+  text:0.40
+  hope:0.37
+  message:0.22
+  paste:0.21
+  copy:0.21
+  press:0.21
+  clipboard:0.21
+  included:0.21
+  pip:0.20
+  forum:0.20
+
+Topic 2:
+  text:0.43
+  hope:0.34
+  message:0.23
+  problem:0.21
+  assist:0.21
+  including:0.21
+  grateful:0.21
+  asc:0.21
+  encrypted:0.21
+  send:0.21
+
+Topic 3:
+  text:0.40
+  hope:0.38
+  message:0.22
+  included:0.21
+  paste:0.21
+  clipboard:0.21
+  press:0.21
+  copy:0.21
+  message long:0.20
+  grateful:0.20
+
+Topic 4:
+  text:0.41
+  hope:0.38
+  message:0.22
+  included:0.20
+  press:0.20
+  copy:0.20
+  paste:0.20
+  clipboard:0.20
+  long:0.20
+  read:0.20
+
+K: 5, Log-Likelihood: -342.183, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  lou reed dangerous volumes:3.08
+  high powered lights strobe:3.08
+  foot:2.70
+  atop:2.70
+  pants:2.70
+  raids:2.70
+  turn:2.70
+  topic:2.70
+  youll:2.70
+  exact:2.70
+
+Topic 1:
+  offer:3.55
+  client:3.55
+  configure:3.55
+  worked:3.55
+  claws:3.55
+  error:3.55
+  mails:3.55
+  tor openvpn:3.55
+  route:2.78
+  transparent:1.76
+
+Topic 2:
+  secure:4.08
+  plenty:2.59
+  easily:2.59
+  wall:2.59
+  isnt:2.59
+  bedroom:2.59
+  computer:2.59
+  time smash:2.59
+  smashy:2.59
+  door:1.81
+
+Topic 3:
+  power:7.13
+  shutting:3.55
+  loss:3.55
+  wire:3.55
+  trigger:3.55
+  windows:3.55
+  key:3.55
+  time:2.88
+  set:2.87
+  door:2.42
+
+Topic 4:
+  stuffs:3.55
+  pray:3.55
+  state:3.55
+  service:3.55
+  tor:3.55
+  facebookwhich:3.55
+  ip:3.55
+  dynamic:3.55
+  browser:2.89
+  socks:2.38
+
+K: 5, Log-Likelihood: -3411.503, Alpha: 11.000, Beta: 1.100

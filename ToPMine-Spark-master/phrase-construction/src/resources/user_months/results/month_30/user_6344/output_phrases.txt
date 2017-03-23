@@ -1,0 +1,61 @@
+Topic 0:
+  check:0.64
+  products:0.64
+  albert:0.64
+  service:0.63
+  highly:0.63
+  hey:0.63
+  evo:0.63
+  garden:0.63
+  favorite:0.63
+  majestic:0.63
+
+Topic 1:
+  sunshine:0.70
+  adlai:0.69
+  wise:0.69
+  orange:0.69
+  expecting:0.69
+  sheet:0.69
+  order:0.69
+  lama:0.69
+  territory:0.69
+  view:0.68
+
+Topic 2:
+  lsd:2.34
+  guaranteed:0.97
+  onion:0.97
+  lab:0.96
+  crystals:0.96
+  source:0.96
+  agorahooawayyfoe:0.96
+  albertheijnkind:0.96
+  sales:0.96
+  passionate:0.96
+
+Topic 3:
+  business:0.60
+  ale grey blotters:0.59
+  vendor glad:0.59
+  love:0.59
+  garden:0.59
+  recommended:0.59
+  guys:0.59
+  products:0.58
+  majestic:0.58
+  evo:0.58
+
+Topic 4:
+  territory:0.52
+  dose:0.52
+  ale grey:0.52
+  pretty:0.52
+  love:0.52
+  blotters:0.52
+  favorite:0.52
+  guys:0.52
+  recommended:0.52
+  majestic:0.51
+
+K: 5, Log-Likelihood: -467.286, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  buy:3.09
+  dont:2.22
+  fucking:1.77
+  deals:1.66
+  markets:1.43
+  person:1.25
+  personal:1.19
+  limits:1.14
+  account:1.09
+  coinbase:1.05
+
+Topic 1:
+  buy:7.98
+  coinbase:5.80
+  limits:4.71
+  personal:4.65
+  markets:4.41
+  ive:3.85
+  linked:2.23
+  risk:2.21
+  bitin:2.19
+  couple:2.19
+
+Topic 2:
+  time:2.41
+  deposit:2.02
+  offer:1.88
+  mail:1.87
+  service:1.87
+  localbitcoin:1.76
+  recommend:1.74
+  bitcoin:1.74
+  btc:1.14
+  cash:0.95
+
+Topic 3:
+  lbc:4.77
+  vendors:4.77
+  november:3.29
+  contact:2.85
+  cash:2.74
+  reload:2.73
+  prefer:2.73
+  packs:2.73
+  sign:2.73
+  learned:2.73
+
+Topic 4:
+  money:4.77
+  site:4.41
+  coins:3.29
+  btc:3.15
+  sr:2.92
+  days:2.92
+  time:2.43
+  local:2.12
+  good:2.11
+  great:1.92
+
+K: 5, Log-Likelihood: -2198.809, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  drugs:40.55
+  people:29.76
+  drug:14.96
+  society:12.20
+  public:10.43
+  guy:8.12
+  folks:7.97
+  issue:7.97
+  hiding:6.27
+  lsd:6.25
+
+Topic 1:
+  sites:18.40
+  seized:14.08
+  hidden:9.54
+  escobar:5.97
+  markets:5.04
+  market:4.63
+  road:4.31
+  note:4.19
+  number:4.07
+  alpacablack:3.97
+
+Topic 2:
+  time:10.05
+  website:7.14
+  road:6.62
+  complaint:5.48
+  trust:5.16
+  agora:4.34
+  hosting:3.97
+  team:3.96
+  defcon:3.96
+  mistakes:3.96
+
+Topic 3:
+  site:11.47
+  silk:9.69
+  hsi:9.58
+  benthall:8.59
+  criminal:8.16
+  smite:7.79
+  staff:7.63
+  road:7.59
+  undercover:6.74
+  blake:6.47
+
+Topic 4:
+  safe:14.27
+  drugs:12.08
+  people:9.33
+  war:8.93
+  november:8.11
+  quote:7.57
+  poor:6.77
+  public:6.30
+  guys:5.83
+  orders:5.83
+
+K: 5, Log-Likelihood: -14583.352, Alpha: 11.000, Beta: 1.100

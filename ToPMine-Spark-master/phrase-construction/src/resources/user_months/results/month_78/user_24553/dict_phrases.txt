@@ -1,0 +1,36 @@
+admin,0,1
+del,1,1
+talking,2,2
+login,3,4
+thinking,4,1
+pgp rational,5,2
+required,6,2
+weak,7,2
+dream pgp,8,2
+password,9,1
+rational pgp,10,1
+quote,11,2
+asked,12,2
+captcha,13,1
+surname,14,1
+pgp,15,6
+enter,16,1
+reply,17,2
+rational,18,3
+set,19,1
+pgp login,20,1
+kind,21,1
+nucleus,22,2
+realz,23,1
+pmare,24,1
+adminoops,25,1
+march,26,2
+pmthey,27,1
+requested,28,1
+dream,29,5
+organix,30,2
+fa,31,1
+decrypt,32,1
+nuc,33,2
+confusion,34,1
+dont,35,1

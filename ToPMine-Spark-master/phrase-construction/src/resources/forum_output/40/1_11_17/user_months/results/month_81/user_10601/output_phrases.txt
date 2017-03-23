@@ -1,0 +1,61 @@
+Topic 0:
+  place:0.77
+  send wallet:0.62
+  money:0.60
+  bank:0.47
+  time:0.44
+  order:0.44
+  sellers:0.43
+  simpler:0.34
+  long:0.34
+  sr:0.34
+
+Topic 1:
+  hooker:3.37
+  buy:0.96
+  turn:0.93
+  hookers:0.93
+  tx:0.93
+  gladly:0.93
+  broker:0.93
+  crypto:0.93
+  skills:0.93
+  mustered:0.92
+
+Topic 2:
+  order:1.53
+  bank:1.48
+  place:1.01
+  guys:0.60
+  bitcoins:0.60
+  luck:0.60
+  transfer:0.60
+  aint:0.60
+  localbitcoins:0.60
+  everytime:0.60
+
+Topic 3:
+  money:1.52
+  send wallet:1.49
+  time:1.19
+  place:0.78
+  deal:0.64
+  moneygram:0.64
+  investing:0.63
+  dnt:0.63
+  alot:0.63
+  coins:0.63
+
+Topic 4:
+  sellers:1.03
+  money:0.63
+  send wallet:0.63
+  place:0.57
+  trade:0.44
+  sooper:0.43
+  small:0.43
+  onemeet:0.43
+  coffee:0.43
+  amounts:0.43
+
+K: 5, Log-Likelihood: -762.371, Alpha: 11.000, Beta: 1.100

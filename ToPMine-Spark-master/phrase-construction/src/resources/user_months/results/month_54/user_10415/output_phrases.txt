@@ -1,0 +1,61 @@
+Topic 0:
+  sweet:0.36
+  online:0.20
+  wait:0.18
+  noticed:0.18
+  vending:0.18
+  xxx:0.18
+  wanted:0.18
+  market:0.18
+  start:0.18
+  temporarily:0.18
+
+Topic 1:
+  sweet:0.37
+  online:0.20
+  red:0.18
+  spammer:0.18
+  monies:0.18
+  links:0.18
+  green:0.18
+  vendor:0.18
+  link:0.18
+  grinding:0.18
+
+Topic 2:
+  sweet:0.36
+  online:0.20
+  wanted:0.18
+  noticed:0.18
+  xxx:0.18
+  vending:0.18
+  temporarily:0.18
+  start:0.18
+  market:0.18
+  wait:0.18
+
+Topic 3:
+  sweet:0.37
+  online:0.20
+  grinding:0.18
+  monies:0.18
+  links:0.18
+  link:0.18
+  vendor:0.18
+  green:0.18
+  spammer:0.18
+  red:0.18
+
+Topic 4:
+  sweet:0.36
+  online:0.20
+  agora:0.18
+  wait:0.18
+  market:0.18
+  start:0.18
+  temporarily:0.18
+  noticed:0.18
+  wanted:0.18
+  xxx:0.18
+
+K: 5, Log-Likelihood: -72.829, Alpha: 11.000, Beta: 1.100

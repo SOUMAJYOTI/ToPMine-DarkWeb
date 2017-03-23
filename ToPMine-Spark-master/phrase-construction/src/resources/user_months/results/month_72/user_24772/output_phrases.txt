@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.37
+  wan:0.37
+  peoples:0.37
+  aethon:0.36
+  february:0.30
+  thread mind:0.20
+  weedim time read:0.20
+  walter:0.20
+  walt:0.20
+  quote:0.20
+
+Topic 1:
+  market:0.37
+  wan:0.37
+  peoples:0.37
+  aethon:0.36
+  february:0.30
+  weedim time read:0.20
+  thread mind:0.20
+  walter:0.20
+  walt:0.20
+  pmhi:0.20
+
+Topic 2:
+  wan:0.38
+  peoples:0.37
+  market:0.37
+  aethon:0.36
+  february:0.30
+  thread mind:0.20
+  weedim time read:0.20
+  walt:0.20
+  quote:0.20
+  walter:0.20
+
+Topic 3:
+  aethon:0.39
+  peoples:0.36
+  market:0.35
+  wan:0.35
+  february:0.31
+  quote:0.21
+  walt:0.21
+  pmhi:0.21
+  walter:0.21
+  weedim time read:0.21
+
+Topic 4:
+  aethon:0.37
+  peoples:0.37
+  market:0.37
+  wan:0.36
+  february:0.31
+  pmhi:0.20
+  quote:0.20
+  walter:0.20
+  walt:0.20
+  weedim time read:0.20
+
+K: 5, Log-Likelihood: -87.738, Alpha: 11.000, Beta: 1.100

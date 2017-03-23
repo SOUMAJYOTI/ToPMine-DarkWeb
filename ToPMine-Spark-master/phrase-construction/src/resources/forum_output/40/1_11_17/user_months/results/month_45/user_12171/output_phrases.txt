@@ -1,0 +1,61 @@
+Topic 0:
+  small:0.00
+  happy:0.00
+  focus:0.00
+  discussion:0.00
+  behalf:0.00
+  advance:0.00
+  post:0.00
+  startup:0.00
+  find:0.00
+  members:0.00
+
+Topic 1:
+  small:0.00
+  happy:0.00
+  focus:0.00
+  discussion:0.00
+  behalf:0.00
+  advance:0.00
+  post:0.00
+  startup:0.00
+  find:0.00
+  members:0.00
+
+Topic 2:
+  small:0.00
+  happy:0.00
+  focus:0.00
+  discussion:0.00
+  behalf:0.00
+  advance:0.00
+  post:0.00
+  startup:0.00
+  find:0.00
+  members:0.00
+
+Topic 3:
+  small:0.00
+  happy:0.00
+  focus:0.00
+  discussion:0.00
+  behalf:0.00
+  advance:0.00
+  post:0.00
+  startup:0.00
+  find:0.00
+  members:0.00
+
+Topic 4:
+  small:0.00
+  happy:0.00
+  focus:0.00
+  discussion:0.00
+  behalf:0.00
+  advance:0.00
+  post:0.00
+  startup:0.00
+  find:0.00
+  members:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

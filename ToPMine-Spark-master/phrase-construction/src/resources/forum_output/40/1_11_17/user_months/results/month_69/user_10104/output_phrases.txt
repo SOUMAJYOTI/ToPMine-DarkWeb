@@ -1,0 +1,61 @@
+Topic 0:
+  forward:1.38
+  premium:1.37
+  touch:1.36
+  time:1.31
+  cm:0.83
+  order:0.54
+  track:0.54
+  ordered:0.54
+  mid:0.54
+  coins:0.54
+
+Topic 1:
+  cm:0.57
+  cult:0.47
+  dont:0.43
+  contact:0.36
+  time:0.35
+  good:0.34
+  love:0.34
+  reviews:0.34
+  wrong:0.34
+  market:0.34
+
+Topic 2:
+  thread:1.95
+  contact:0.89
+  area:0.76
+  vendors:0.76
+  link:0.76
+  active:0.76
+  info:0.76
+  direct:0.76
+  cult:0.62
+  emails:0.41
+
+Topic 3:
+  cm:0.61
+  dont:0.44
+  time:0.42
+  cult:0.41
+  touch:0.41
+  forward:0.40
+  premium:0.40
+  contact:0.33
+  questions:0.31
+  announcement:0.31
+
+Topic 4:
+  cm:0.69
+  time:0.58
+  premium:0.56
+  touch:0.55
+  forward:0.53
+  dont:0.44
+  cult:0.32
+  years:0.31
+  hey:0.31
+  break:0.31
+
+K: 5, Log-Likelihood: -474.760, Alpha: 11.000, Beta: 1.100

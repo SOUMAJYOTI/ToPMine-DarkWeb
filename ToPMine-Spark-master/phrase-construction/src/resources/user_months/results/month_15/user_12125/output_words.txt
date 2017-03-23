@@ -1,0 +1,61 @@
+Topic 0:
+  coins:8.74
+  service:6.01
+  reload:3.96
+  bitcoin:2.55
+  mixing:2.44
+  exchange:2.33
+  clean:1.72
+  receive:1.47
+  fee:1.45
+  dirty:1.28
+
+Topic 1:
+  coins:3.93
+  reload:1.84
+  mixing:1.61
+  service:1.39
+  bitcoin:1.18
+  receive:1.00
+  fee:0.93
+  packs:0.91
+  exchange:0.90
+  clean:0.81
+
+Topic 2:
+  service:2.01
+  coins:1.45
+  reload:1.33
+  mixing:1.08
+  packs:0.99
+  fee:0.84
+  low:0.82
+  clean:0.81
+  bitcoin:0.80
+  exchange:0.73
+
+Topic 3:
+  reload:1.85
+  service:1.10
+  packs:1.07
+  mixing:1.06
+  coins:0.96
+  low:0.89
+  bitcoin:0.88
+  site:0.77
+  receive:0.66
+  exchange:0.64
+
+Topic 4:
+  coins:3.92
+  reload:3.02
+  mixing:1.81
+  bitcoin:1.58
+  service:1.49
+  exchange:1.41
+  receive:1.21
+  fee:1.17
+  packs:1.05
+  clean:1.04
+
+K: 5, Log-Likelihood: -1887.160, Alpha: 11.000, Beta: 1.100

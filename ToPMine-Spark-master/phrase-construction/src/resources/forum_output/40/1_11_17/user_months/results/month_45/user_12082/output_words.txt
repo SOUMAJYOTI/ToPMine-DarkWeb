@@ -1,0 +1,61 @@
+Topic 0:
+  users:0.61
+  marketplace:0.40
+  backlog:0.39
+  delayed:0.39
+  ag:0.37
+  deposits:0.37
+  update:0.37
+  agra:0.37
+  deposit:0.33
+  delays:0.20
+
+Topic 1:
+  ag:0.55
+  users:0.53
+  delayed:0.39
+  backlog:0.39
+  marketplace:0.27
+  deposits:0.26
+  agra:0.26
+  putting:0.26
+  active:0.26
+  perfect:0.26
+
+Topic 2:
+  ag:0.60
+  users:0.50
+  delayed:0.41
+  backlog:0.41
+  intoxicated:0.27
+  cluster:0.27
+  artificial:0.27
+  ago:0.27
+  warning:0.27
+  constantly:0.27
+
+Topic 3:
+  users:0.64
+  deposit:0.54
+  deposits:0.45
+  agra:0.44
+  backlog:0.44
+  delayed:0.44
+  update:0.44
+  marketplace:0.37
+  ag:0.29
+  safe:0.25
+
+Topic 4:
+  users:0.73
+  marketplace:0.72
+  update:0.71
+  agra:0.70
+  deposits:0.69
+  deposit:0.66
+  backlog:0.37
+  delayed:0.37
+  confirming:0.30
+  accounts:0.30
+
+K: 5, Log-Likelihood: -449.759, Alpha: 11.000, Beta: 1.100

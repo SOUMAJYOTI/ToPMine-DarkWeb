@@ -1,0 +1,61 @@
+Topic 0:
+  afaik:0.28
+  dm:0.14
+  amount:0.14
+  yep:0.14
+  iv:0.14
+  turner:0.14
+  unknown:0.14
+  died:0.14
+  knuckles:0.14
+  quote:0.14
+
+Topic 1:
+  afaik:0.28
+  pmeven:0.14
+  november:0.14
+  knuckles:0.14
+  quote:0.14
+  amount:0.14
+  yep:0.14
+  turner:0.14
+  iv:0.14
+  unknown:0.14
+
+Topic 2:
+  afaik:0.28
+  unknown:0.14
+  died:0.14
+  turner:0.14
+  iv:0.14
+  amount:0.14
+  dm:0.14
+  yep:0.14
+  quote:0.14
+  november:0.14
+
+Topic 3:
+  afaik:0.28
+  pmeven:0.14
+  knuckles:0.14
+  november:0.14
+  quote:0.14
+  unknown:0.14
+  turner:0.14
+  dm:0.14
+  died:0.14
+  iv:0.14
+
+Topic 4:
+  afaik:0.28
+  quote:0.14
+  knuckles:0.14
+  november:0.14
+  pmeven:0.14
+  yep:0.14
+  died:0.14
+  unknown:0.14
+  iv:0.14
+  turner:0.14
+
+K: 5, Log-Likelihood: -38.385, Alpha: 11.000, Beta: 1.100

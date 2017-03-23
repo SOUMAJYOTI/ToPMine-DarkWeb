@@ -1,0 +1,61 @@
+Topic 0:
+  lost:1.52
+  escrow coins:1.47
+  times:1.47
+  answers:1.47
+  fuck:1.47
+  questions:1.47
+  staff:1.47
+  allot:1.47
+  systeems:1.47
+  asked:1.46
+
+Topic 1:
+  test:3.31
+  transaction:3.31
+  account:3.31
+  customers:2.56
+  funds:2.34
+  pandora:1.69
+  buyer:1.61
+  automatic:1.61
+  password:1.61
+  btc:1.61
+
+Topic 2:
+  claims:1.51
+  order support:1.51
+  lolanyway:1.51
+  disaperead:1.51
+  dont site:1.51
+  prob:1.51
+  lolsame:1.51
+  order coins:1.51
+  fishhed:1.51
+  hub:1.46
+
+Topic 3:
+  order:6.50
+  site:5.54
+  coins:4.69
+  escrow:3.24
+  money:3.15
+  support:3.15
+  truth:3.13
+  users:3.13
+  avoid:3.13
+  work:3.13
+
+Topic 4:
+  hub:2.21
+  site:1.64
+  markets:1.58
+  happened:1.49
+  coins:1.43
+  months:1.39
+  escrow:1.36
+  dont care:1.11
+  orders:1.11
+  market:1.06
+
+K: 5, Log-Likelihood: -2003.686, Alpha: 11.000, Beta: 1.100

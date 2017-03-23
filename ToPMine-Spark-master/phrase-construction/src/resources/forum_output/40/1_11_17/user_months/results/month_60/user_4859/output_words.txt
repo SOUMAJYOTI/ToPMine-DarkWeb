@@ -1,0 +1,61 @@
+Topic 0:
+  alphabay:5.87
+  site:5.41
+  dealing:4.15
+  cheers:3.94
+  st:3.91
+  alphabet:3.14
+  quote:2.78
+  love:2.74
+  avengers:2.65
+  dream:2.54
+
+Topic 1:
+  scam:12.81
+  exit:10.65
+  duck:7.74
+  money:7.50
+  lost:5.47
+  build:3.69
+  vendors:3.67
+  including:3.49
+  huge:3.49
+  serioulsy:3.48
+
+Topic 2:
+  btc:6.44
+  issues:4.56
+  folks:3.74
+  avoid:3.74
+  phishing:3.74
+  outbreak:3.74
+  lots:3.74
+  stolen:3.73
+  till:3.73
+  losing:3.73
+
+Topic 3:
+  love:26.45
+  avengers:16.31
+  ddos:4.73
+  registration:4.12
+  find:3.82
+  market:3.74
+  challenge:3.61
+  authorization:3.60
+  abraxas:2.90
+  fit:2.81
+
+Topic 4:
+  javascript:4.79
+  stamps:4.21
+  require:3.82
+  pay:3.82
+  drop:3.71
+  label:2.84
+  postage:2.69
+  site:2.26
+  dont:2.19
+  quote:1.93
+
+K: 5, Log-Likelihood: -3292.302, Alpha: 11.000, Beta: 1.100

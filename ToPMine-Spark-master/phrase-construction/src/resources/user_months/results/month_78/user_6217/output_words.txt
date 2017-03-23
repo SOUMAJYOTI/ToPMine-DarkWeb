@@ -1,0 +1,61 @@
+Topic 0:
+  key:1.05
+  change:0.60
+  pgp:0.58
+  keys:0.40
+  messages:0.40
+  public:0.40
+  normal:0.39
+  expired:0.39
+  changing:0.39
+  modifiedyou:0.20
+
+Topic 1:
+  key:1.00
+  pgp:0.60
+  change:0.60
+  changing:0.41
+  expired:0.40
+  normal:0.40
+  public:0.40
+  messages:0.40
+  keys:0.40
+  ftc:0.20
+
+Topic 2:
+  key:0.96
+  pgp:0.63
+  change:0.58
+  expired:0.41
+  normal:0.41
+  changing:0.41
+  messages:0.40
+  public:0.40
+  keys:0.40
+  expiration:0.20
+
+Topic 3:
+  key:0.99
+  change:0.61
+  pgp:0.59
+  messages:0.40
+  public:0.40
+  keys:0.40
+  changing:0.40
+  normal:0.40
+  expired:0.39
+  decrypt:0.20
+
+Topic 4:
+  key:1.00
+  change:0.60
+  pgp:0.60
+  public:0.40
+  expired:0.40
+  keys:0.40
+  messages:0.40
+  changing:0.40
+  normal:0.40
+  places:0.20
+
+K: 5, Log-Likelihood: -120.575, Alpha: 11.000, Beta: 1.100

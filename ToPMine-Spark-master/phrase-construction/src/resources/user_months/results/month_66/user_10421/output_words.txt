@@ -1,0 +1,61 @@
+Topic 0:
+  hansa:0.62
+  jules:0.60
+  quote:0.41
+  february:0.41
+  electrum:0.40
+  winnfield:0.40
+  transaction:0.40
+  sign:0.40
+  sig:0.40
+  helpful:0.40
+
+Topic 1:
+  hansa:0.63
+  jules:0.60
+  sign:0.41
+  winnfield:0.41
+  electrum:0.41
+  transaction:0.41
+  february:0.41
+  quote:0.40
+  sig:0.40
+  multi:0.40
+
+Topic 2:
+  hansa:0.61
+  jules:0.61
+  hans:0.40
+  winnfield:0.40
+  quote:0.40
+  transaction:0.40
+  sign:0.40
+  helpful:0.40
+  electrum:0.40
+  february:0.40
+
+Topic 3:
+  jules:0.61
+  hansa:0.60
+  february:0.41
+  electrum:0.41
+  transaction:0.41
+  sign:0.41
+  quote:0.41
+  helpful:0.40
+  winnfield:0.40
+  sig:0.39
+
+Topic 4:
+  jules:0.58
+  hansa:0.55
+  multi:0.42
+  hans:0.42
+  sig:0.41
+  helpful:0.40
+  winnfield:0.39
+  quote:0.39
+  february:0.39
+  sign:0.39
+
+K: 5, Log-Likelihood: -251.190, Alpha: 11.000, Beta: 1.100

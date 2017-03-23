@@ -1,0 +1,61 @@
+Topic 0:
+  sew:0.40
+  face:0.40
+  advice:0.40
+  thing:0.40
+  piece:0.20
+  previous:0.20
+  plants:0.20
+  work:0.20
+  eh:0.20
+  technology:0.20
+
+Topic 1:
+  thing:0.41
+  sew:0.40
+  advice:0.40
+  face:0.40
+  hang:0.20
+  affiliated:0.20
+  transmission:0.20
+  appropriately:0.20
+  secure:0.20
+  time:0.20
+
+Topic 2:
+  face:0.40
+  thing:0.40
+  sew:0.40
+  advice:0.40
+  grave:0.20
+  arrange:0.20
+  simply:0.20
+  concise:0.20
+  dig:0.20
+  ship:0.20
+
+Topic 3:
+  sew:0.41
+  advice:0.40
+  thing:0.40
+  face:0.40
+  simply:0.20
+  discuss:0.20
+  conversation:0.20
+  posters:0.20
+  time:0.20
+  eh:0.20
+
+Topic 4:
+  advice:0.40
+  face:0.40
+  thing:0.40
+  sew:0.40
+  hang:0.20
+  trust:0.20
+  transmission:0.20
+  move:0.20
+  piece:0.20
+  technology:0.20
+
+K: 5, Log-Likelihood: -142.113, Alpha: 11.000, Beta: 1.100

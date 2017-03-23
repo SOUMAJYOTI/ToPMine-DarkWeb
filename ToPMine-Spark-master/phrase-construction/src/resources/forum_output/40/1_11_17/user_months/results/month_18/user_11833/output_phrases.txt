@@ -1,0 +1,61 @@
+Topic 0:
+  pmwith:0.14
+  quote:0.14
+  read:0.14
+  glad:0.14
+  july:0.14
+  trees:0.14
+  message:0.14
+  buyer:0.14
+  services:0.14
+  site:0.14
+
+Topic 1:
+  read:0.14
+  trees:0.14
+  message:0.14
+  glad:0.14
+  pmwith:0.14
+  july:0.14
+  quote:0.14
+  sellers:0.14
+  site:0.14
+  encryption:0.14
+
+Topic 2:
+  marketplace:0.14
+  free:0.14
+  customers:0.14
+  link:0.14
+  onion:0.14
+  vtbyhtqd:0.14
+  protection:0.14
+  encryption:0.14
+  sellers:0.14
+  ovum:0.14
+
+Topic 3:
+  services:0.14
+  buyer:0.14
+  high:0.14
+  worldmarket:0.14
+  encryption:0.14
+  vtbyhtqd:0.14
+  marketplace:0.14
+  customers:0.14
+  ovum:0.14
+  protection:0.14
+
+Topic 4:
+  pmwith:0.14
+  glad:0.14
+  read:0.14
+  message:0.14
+  trees:0.14
+  quote:0.14
+  july:0.14
+  high:0.14
+  ovum:0.14
+  worldmarket:0.14
+
+K: 5, Log-Likelihood: -88.876, Alpha: 11.000, Beta: 1.100

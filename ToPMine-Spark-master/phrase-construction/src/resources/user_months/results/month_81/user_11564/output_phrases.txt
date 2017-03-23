@@ -1,0 +1,61 @@
+Topic 0:
+  lucky:0.00
+  seller:0.00
+  shop:0.00
+  buyers:0.00
+  tx:0.00
+  casino:0.00
+  main:0.00
+  choose:0.00
+  fair:0.00
+  good:0.00
+
+Topic 1:
+  lucky:0.00
+  seller:0.00
+  shop:0.00
+  buyers:0.00
+  tx:0.00
+  casino:0.00
+  main:0.00
+  choose:0.00
+  fair:0.00
+  good:0.00
+
+Topic 2:
+  lucky:0.00
+  seller:0.00
+  shop:0.00
+  buyers:0.00
+  tx:0.00
+  casino:0.00
+  main:0.00
+  choose:0.00
+  fair:0.00
+  good:0.00
+
+Topic 3:
+  lucky:0.00
+  seller:0.00
+  shop:0.00
+  buyers:0.00
+  tx:0.00
+  casino:0.00
+  main:0.00
+  choose:0.00
+  fair:0.00
+  good:0.00
+
+Topic 4:
+  lucky:0.00
+  seller:0.00
+  shop:0.00
+  buyers:0.00
+  tx:0.00
+  casino:0.00
+  main:0.00
+  choose:0.00
+  fair:0.00
+  good:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

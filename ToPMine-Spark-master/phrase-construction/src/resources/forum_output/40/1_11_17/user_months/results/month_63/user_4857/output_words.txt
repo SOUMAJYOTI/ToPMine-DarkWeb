@@ -1,0 +1,61 @@
+Topic 0:
+  people:77.84
+  tao:57.58
+  chapter:50.26
+  called:46.00
+  great:37.05
+  heaven:35.96
+  sages:27.22
+  virtue:22.79
+  things:22.64
+  good:17.92
+
+Topic 1:
+  people:28.22
+  tao:26.01
+  called:20.55
+  sages:18.94
+  country:18.82
+  small:18.68
+  virtue:16.47
+  large:15.99
+  lower:13.10
+  good:12.05
+
+Topic 2:
+  wallet:12.03
+  system:11.98
+  website:8.23
+  check:8.16
+  bitchain:7.98
+  text:7.92
+  feel:7.35
+  hard:6.88
+  site:6.49
+  longer:6.04
+
+Topic 3:
+  december:15.92
+  love:15.49
+  quote:14.61
+  btc:13.28
+  ordered:11.93
+  market:11.83
+  middle:9.90
+  ill:8.79
+  tmg:8.78
+  bitcoins:7.96
+
+Topic 4:
+  tao:46.15
+  great:40.51
+  things:34.64
+  chapter:30.70
+  virtue:20.63
+  good:19.18
+  earth:16.01
+  appears:15.99
+  oneness:14.41
+  attained:14.41
+
+K: 5, Log-Likelihood: -41936.564, Alpha: 11.000, Beta: 1.100

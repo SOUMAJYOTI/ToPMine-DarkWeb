@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:2.75
+  money:1.98
+  address:1.97
+  multisig:1.75
+  market:1.58
+  transaction:1.46
+  account:1.10
+  site:0.96
+  key:0.93
+  buyer:0.81
+
+Topic 1:
+  money:4.40
+  multisig:4.24
+  address:2.63
+  transaction:2.31
+  market:2.24
+  vendor:2.11
+  site:1.93
+  account:1.81
+  buyer:1.25
+  key:1.22
+
+Topic 2:
+  multisig:1.97
+  vendor:1.70
+  market:1.65
+  money:1.58
+  address:1.36
+  transaction:1.19
+  site:1.07
+  account:1.06
+  buyer:0.90
+  key:0.81
+
+Topic 3:
+  things:9.32
+  rat:8.95
+  guard:3.32
+  running:2.30
+  fins:1.46
+  cooling:1.46
+  dogs:1.46
+  autonomous:1.46
+  metaverse:1.45
+  system:1.43
+
+Topic 4:
+  things:1.62
+  rat:0.99
+  lees:0.83
+  greater:0.82
+  hong:0.81
+  running:0.64
+  guard:0.62
+  cybernetic:0.54
+  cooled:0.53
+  system:0.51
+
+K: 5, Log-Likelihood: -1693.252, Alpha: 11.000, Beta: 1.100

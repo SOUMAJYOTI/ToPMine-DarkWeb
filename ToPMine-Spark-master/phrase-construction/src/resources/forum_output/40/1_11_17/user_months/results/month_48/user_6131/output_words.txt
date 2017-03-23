@@ -1,0 +1,61 @@
+Topic 0:
+  multiply:0.41
+  sr:0.40
+  good:0.40
+  nice:0.40
+  professional:0.40
+  service:0.40
+  vendor:0.40
+  humbleservant:0.40
+  experience:0.40
+  agora:0.40
+
+Topic 1:
+  humbleservant:0.40
+  times:0.40
+  agora:0.40
+  kind:0.40
+  experience:0.40
+  service:0.40
+  good:0.40
+  professional:0.40
+  vendor:0.40
+  sr:0.40
+
+Topic 2:
+  professional:0.40
+  nice:0.40
+  agora:0.40
+  times:0.40
+  experience:0.40
+  vendor:0.40
+  service:0.40
+  sr:0.40
+  multiply:0.40
+  good:0.40
+
+Topic 3:
+  experience:0.40
+  kind:0.40
+  good:0.40
+  vendor:0.40
+  service:0.40
+  humbleservant:0.40
+  times:0.40
+  sr:0.40
+  multiply:0.40
+  nice:0.40
+
+Topic 4:
+  agora:0.40
+  humbleservant:0.40
+  nice:0.40
+  service:0.40
+  sr:0.40
+  kind:0.40
+  vendor:0.40
+  times:0.40
+  professional:0.40
+  good:0.40
+
+K: 5, Log-Likelihood: -63.853, Alpha: 11.000, Beta: 1.100

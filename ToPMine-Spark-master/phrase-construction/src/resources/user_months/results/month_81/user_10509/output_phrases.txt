@@ -1,0 +1,61 @@
+Topic 0:
+  entities:5.53
+  evidence:3.66
+  blockchain:3.66
+  actionable:3.66
+  web:3.66
+  implicit:3.66
+  enforcement:3.66
+  law:3.66
+  hundreds:1.79
+  international:1.79
+
+Topic 1:
+  xx:3.67
+  carding:3.67
+  yeah:3.67
+  realistically:1.80
+  cards:1.80
+  roman:1.80
+  personally:1.80
+  achaia:1.80
+  gourmet:1.80
+  meals:1.80
+
+Topic 2:
+  game:2.37
+  find:2.16
+  address:1.79
+  gram:1.79
+  cash:1.79
+  hunt:1.79
+  order:1.79
+  fair:1.79
+  cost:1.79
+  big:1.79
+
+Topic 3:
+  sr fallout continue:3.83
+  hay:2.94
+  quote boneskoopa june:2.50
+  arrests:1.74
+  amthe:1.74
+  gov:1.74
+  hugs:1.74
+  love:1.74
+  sense:1.74
+  trust:1.74
+
+Topic 4:
+  needle haystack xoxostay safe:2.29
+  stay awesome:2.27
+  happen:1.60
+  bound:1.60
+  website:1.60
+  sooner:1.60
+  robust:1.60
+  botnet:1.60
+  amlike:1.59
+  block:1.45
+
+K: 5, Log-Likelihood: -1403.145, Alpha: 11.000, Beta: 1.100

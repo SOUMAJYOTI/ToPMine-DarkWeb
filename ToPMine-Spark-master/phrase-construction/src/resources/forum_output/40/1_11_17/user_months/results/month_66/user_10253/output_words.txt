@@ -1,0 +1,61 @@
+Topic 0:
+  scam:4.37
+  market:3.86
+  exit:3.24
+  vendors:2.88
+  admins:2.63
+  multisig:2.30
+  markets:2.21
+  good:2.14
+  coming:2.11
+  abraxas:2.08
+
+Topic 1:
+  exit:3.41
+  market:3.35
+  scam:3.29
+  vendors:3.21
+  agora:2.35
+  good:2.21
+  big:2.18
+  abraxas:2.02
+  markets:1.99
+  coming:1.96
+
+Topic 2:
+  scam:5.13
+  vendors:3.41
+  market:2.87
+  exit:2.54
+  abraxas:2.27
+  coming:2.21
+  good:2.18
+  big:2.06
+  multisig:2.06
+  agora:2.04
+
+Topic 3:
+  abraxas:3.02
+  scam:2.92
+  exit:2.56
+  market:2.55
+  vendors:2.26
+  dimitri:1.80
+  coolbreeze:1.79
+  markets:1.68
+  november:1.67
+  big:1.67
+
+Topic 4:
+  link:8.84
+  scraped:3.75
+  phishy:3.75
+  confirm:3.75
+  reddit:3.75
+  stable:3.75
+  abraxasmarket:3.75
+  abraxas:3.61
+  quote:2.26
+  dimitri:1.91
+
+K: 5, Log-Likelihood: -3280.706, Alpha: 11.000, Beta: 1.100

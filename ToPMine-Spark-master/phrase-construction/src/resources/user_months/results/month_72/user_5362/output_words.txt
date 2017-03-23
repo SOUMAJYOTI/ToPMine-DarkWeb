@@ -1,0 +1,61 @@
+Topic 0:
+  jor:0.76
+  vials:0.76
+  market:0.53
+  fill:0.53
+  time:0.45
+  perfectly:0.35
+  price:0.35
+  calibrated:0.29
+  names:0.25
+  garden:0.25
+
+Topic 1:
+  jor:0.79
+  vials:0.68
+  market:0.64
+  fill:0.63
+  time:0.46
+  perfectly:0.29
+  phenethylamine:0.28
+  comer:0.28
+  temporarily:0.28
+  loafers:0.28
+
+Topic 2:
+  vials:1.40
+  perfectly:0.93
+  calibrated:0.69
+  price:0.53
+  jor:0.50
+  good:0.48
+  hits:0.47
+  bruv:0.47
+  time:0.37
+  fill:0.26
+
+Topic 3:
+  vials:1.00
+  jor:0.65
+  perfectly:0.49
+  time:0.44
+  fill:0.43
+  market:0.42
+  price:0.39
+  calibrated:0.38
+  bruv:0.30
+  hits:0.30
+
+Topic 4:
+  vials:2.16
+  perfectly:1.94
+  calibrated:1.39
+  bruv:0.77
+  hits:0.77
+  good:0.77
+  price:0.46
+  quote:0.35
+  druids:0.35
+  drops:0.35
+
+K: 5, Log-Likelihood: -415.714, Alpha: 11.000, Beta: 1.100

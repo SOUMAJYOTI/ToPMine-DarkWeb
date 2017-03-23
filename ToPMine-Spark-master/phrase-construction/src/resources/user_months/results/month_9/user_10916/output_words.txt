@@ -1,0 +1,61 @@
+Topic 0:
+  time:1.56
+  worth:0.92
+  gas:0.92
+  market:0.92
+  pump:0.92
+  provide:0.92
+  dumps:0.91
+  check:0.37
+  day:0.37
+  ideas:0.37
+
+Topic 1:
+  free:0.74
+  friend:0.73
+  check:0.36
+  practice:0.31
+  info:0.31
+  questions:0.31
+  checkout:0.31
+  patience:0.31
+  start:0.31
+  link:0.31
+
+Topic 2:
+  time:0.64
+  dumps:0.45
+  gas:0.45
+  pump:0.45
+  provide:0.45
+  market:0.45
+  worth:0.44
+  check:0.43
+  friend:0.26
+  free:0.26
+
+Topic 3:
+  free:0.43
+  friend:0.43
+  check:0.42
+  time:0.33
+  provide:0.26
+  worth:0.26
+  pump:0.25
+  dumps:0.25
+  market:0.25
+  gas:0.25
+
+Topic 4:
+  friend:0.46
+  free:0.45
+  check:0.42
+  time:0.31
+  pump:0.24
+  dumps:0.24
+  provide:0.24
+  market:0.24
+  worth:0.24
+  gas:0.24
+
+K: 5, Log-Likelihood: -257.193, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  market:3.89
+  love:1.98
+  system:1.85
+  avengers:1.58
+  dream:1.58
+  escrow:1.35
+  forum:1.18
+  peace:1.09
+  security:0.93
+  faster:0.92
+
+Topic 1:
+  abraxas:8.78
+  site:2.34
+  btc:1.77
+  hereas:1.76
+  dont:1.76
+  dead:1.76
+  sign:1.76
+  noon:1.76
+  wallet:1.76
+  complete:1.76
+
+Topic 2:
+  system:6.44
+  market:4.68
+  respond:2.19
+  running:2.16
+  increase:2.15
+  love:2.14
+  avengers:2.13
+  mail:2.12
+  forum:2.12
+  links:2.11
+
+Topic 3:
+  market:4.49
+  love:2.21
+  dream:1.78
+  avengers:1.75
+  system:1.59
+  forum:1.31
+  peace:1.20
+  faster:0.96
+  escrow:0.94
+  registration:0.92
+
+Topic 4:
+  open:2.13
+  market:2.04
+  hope:1.52
+  great:1.47
+  abraxas:1.47
+  start:1.34
+  states:1.34
+  vending:1.34
+  profile:1.34
+  listed:1.34
+
+K: 5, Log-Likelihood: -2159.674, Alpha: 11.000, Beta: 1.100

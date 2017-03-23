@@ -1,0 +1,61 @@
+Topic 0:
+  great:1.24
+  grams:1.09
+  vendor:1.03
+  keys:0.97
+  service:0.83
+  bit:0.64
+  pip:0.63
+  services:0.63
+  check:0.51
+  verify:0.51
+
+Topic 1:
+  keys:1.11
+  grams:1.08
+  great:1.06
+  verify:0.83
+  vendor:0.82
+  check:0.81
+  services:0.55
+  pip:0.54
+  service:0.54
+  buyer:0.53
+
+Topic 2:
+  great:1.17
+  keys:1.15
+  grams:0.91
+  check:0.81
+  vendor:0.75
+  verify:0.73
+  service:0.59
+  services:0.55
+  ressources:0.54
+  pip:0.54
+
+Topic 3:
+  great:1.37
+  service:1.29
+  vendor:1.28
+  grams:0.86
+  keys:0.78
+  bit:0.68
+  services:0.66
+  pip:0.64
+  work:0.54
+  nice:0.54
+
+Topic 4:
+  great:1.16
+  vendor:1.13
+  grams:1.07
+  keys:0.99
+  service:0.74
+  pip:0.65
+  services:0.62
+  bit:0.62
+  verify:0.58
+  check:0.52
+
+K: 5, Log-Likelihood: -515.428, Alpha: 11.000, Beta: 1.100

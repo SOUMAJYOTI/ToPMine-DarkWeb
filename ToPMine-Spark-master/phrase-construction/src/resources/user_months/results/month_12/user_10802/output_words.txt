@@ -1,0 +1,61 @@
+Topic 0:
+  public:0.20
+  stuff:0.20
+  archives:0.20
+  general:0.20
+  articles:0.20
+  doesnt:0.20
+  elegant:0.20
+  access:0.20
+  ill:0.20
+  interested:0.20
+
+Topic 1:
+  amanybody:0.20
+  february:0.20
+  quote:0.20
+  interested:0.20
+  general:0.20
+  articles:0.20
+  ill:0.20
+  doesnt:0.20
+  public:0.20
+  elegant:0.20
+
+Topic 2:
+  february:0.20
+  amanybody:0.20
+  interested:0.20
+  quote:0.20
+  doesnt:0.20
+  public:0.20
+  access:0.20
+  ill:0.20
+  general:0.20
+  stuff:0.20
+
+Topic 3:
+  interested:0.20
+  amanybody:0.20
+  archives:0.20
+  quote:0.20
+  february:0.20
+  ill:0.20
+  access:0.20
+  stuff:0.20
+  articles:0.20
+  elegant:0.20
+
+Topic 4:
+  elegant:0.20
+  stuff:0.20
+  ill:0.20
+  access:0.20
+  articles:0.20
+  archives:0.20
+  general:0.20
+  doesnt:0.20
+  public:0.20
+  quote:0.20
+
+K: 5, Log-Likelihood: -33.344, Alpha: 11.000, Beta: 1.100

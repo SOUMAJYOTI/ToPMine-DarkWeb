@@ -1,0 +1,61 @@
+Topic 0:
+  port:1.52
+  version:0.83
+  settings:0.81
+  electrum:0.79
+  april:0.77
+  tails:0.76
+  ve:0.56
+  tub:0.41
+  localhost:0.41
+  standard:0.41
+
+Topic 1:
+  port:1.65
+  tails:0.84
+  version:0.83
+  settings:0.79
+  april:0.77
+  electrum:0.76
+  ve:0.59
+  inanna:0.40
+  linux:0.40
+  waiting:0.40
+
+Topic 2:
+  port:1.65
+  tails:0.83
+  april:0.81
+  settings:0.81
+  electrum:0.80
+  version:0.76
+  ve:0.64
+  comment:0.40
+  quote:0.40
+  difference:0.40
+
+Topic 3:
+  port:1.53
+  electrum:0.84
+  april:0.82
+  version:0.81
+  tails:0.78
+  settings:0.77
+  ve:0.61
+  onion:0.41
+  distribution:0.40
+  trial:0.40
+
+Topic 4:
+  port:1.66
+  april:0.82
+  settings:0.82
+  electrum:0.81
+  tails:0.80
+  version:0.77
+  ve:0.59
+  amyou:0.40
+  understand:0.40
+  knowledgeable:0.40
+
+K: 5, Log-Likelihood: -404.092, Alpha: 11.000, Beta: 1.100

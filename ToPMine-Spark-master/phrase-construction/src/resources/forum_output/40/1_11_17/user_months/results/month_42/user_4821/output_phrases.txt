@@ -1,0 +1,61 @@
+Topic 0:
+  ve:0.08
+  port ve:0.08
+  ve settings:0.08
+  don:0.08
+  ive:0.08
+  tub:0.00
+  standard:0.00
+  reason:0.00
+  tv:0.00
+  onion:0.00
+
+Topic 1:
+  port ve:0.08
+  ve:0.08
+  don:0.08
+  ve settings:0.08
+  ive:0.08
+  tub:0.00
+  standard:0.00
+  reason:0.00
+  tv:0.00
+  onion:0.00
+
+Topic 2:
+  ive:0.08
+  ve settings:0.08
+  ve:0.08
+  port ve:0.08
+  don:0.08
+  tub:0.00
+  standard:0.00
+  reason:0.00
+  tv:0.00
+  onion:0.00
+
+Topic 3:
+  ve settings:0.08
+  ive:0.08
+  don:0.08
+  port ve:0.08
+  ve:0.08
+  tub:0.00
+  standard:0.00
+  reason:0.00
+  tv:0.00
+  onion:0.00
+
+Topic 4:
+  ive:0.08
+  don:0.08
+  ve:0.08
+  ve settings:0.08
+  port ve:0.08
+  tub:0.00
+  standard:0.00
+  reason:0.00
+  tv:0.00
+  onion:0.00
+
+K: 5, Log-Likelihood: -6.995, Alpha: 11.000, Beta: 1.100

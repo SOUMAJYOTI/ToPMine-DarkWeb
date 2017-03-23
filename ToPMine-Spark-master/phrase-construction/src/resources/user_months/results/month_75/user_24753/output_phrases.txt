@@ -1,0 +1,61 @@
+Topic 0:
+  hub:0.57
+  method:0.56
+  people:0.56
+  safely:0.56
+  find:0.56
+  wondering:0.56
+  thread:0.55
+  pictures:0.55
+  ll:0.55
+  mayb:0.55
+
+Topic 1:
+  tails:1.41
+  difficulty:0.56
+  feature:0.56
+  question:0.56
+  dialouge:0.56
+  security:0.56
+  window:0.55
+  suggestions:0.55
+  dont:0.55
+  open:0.55
+
+Topic 2:
+  hub:0.55
+  matrix:0.53
+  week:0.53
+  nasty:0.53
+  surprises:0.53
+  hide:0.53
+  inline:0.53
+  clears:0.53
+  time:0.53
+  directly:0.53
+
+Topic 3:
+  tails:0.59
+  image:0.51
+  matrix:0.50
+  link:0.45
+  images:0.44
+  hub:0.39
+  ws:0.32
+  tor:0.32
+  uploaders:0.32
+  anony:0.32
+
+Topic 4:
+  image:0.55
+  matrix:0.54
+  link:0.49
+  images:0.49
+  tails:0.47
+  hub:0.42
+  retention:0.33
+  doesnt:0.33
+  surprises:0.33
+  inline:0.33
+
+K: 5, Log-Likelihood: -373.054, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  harm:0.00
+  business:0.00
+  entail:0.00
+  vending:0.00
+  verified:0.00
+  threads:0.00
+  advertising:0.00
+  follow:0.00
+  forum:0.00
+  promote:0.00
+
+Topic 1:
+  harm:0.00
+  business:0.00
+  entail:0.00
+  vending:0.00
+  verified:0.00
+  threads:0.00
+  advertising:0.00
+  follow:0.00
+  forum:0.00
+  promote:0.00
+
+Topic 2:
+  harm:0.00
+  business:0.00
+  entail:0.00
+  vending:0.00
+  verified:0.00
+  threads:0.00
+  advertising:0.00
+  follow:0.00
+  forum:0.00
+  promote:0.00
+
+Topic 3:
+  harm:0.00
+  business:0.00
+  entail:0.00
+  vending:0.00
+  verified:0.00
+  threads:0.00
+  advertising:0.00
+  follow:0.00
+  forum:0.00
+  promote:0.00
+
+Topic 4:
+  harm:0.00
+  business:0.00
+  entail:0.00
+  vending:0.00
+  verified:0.00
+  threads:0.00
+  advertising:0.00
+  follow:0.00
+  forum:0.00
+  promote:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

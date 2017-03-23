@@ -1,0 +1,61 @@
+Topic 0:
+  business:1.50
+  thieves:1.20
+  honor:1.19
+  campbx:1.12
+  time:0.98
+  address:0.95
+  weeks:0.95
+  transaction:0.94
+  times:0.62
+  easy:0.62
+
+Topic 1:
+  loss:1.22
+  verified:1.01
+  campbx:0.88
+  fuckers:0.66
+  guess:0.66
+  man:0.66
+  crazy:0.66
+  rouge:0.66
+  long:0.66
+  mustve:0.66
+
+Topic 2:
+  warning:2.91
+  loss:1.64
+  wallet:1.56
+  damn:1.24
+  good:1.24
+  camp:1.24
+  bud:1.24
+  thing:1.23
+  hope:1.23
+  community:1.23
+
+Topic 3:
+  campbx:1.32
+  time:1.01
+  honor:0.72
+  thieves:0.72
+  business:0.66
+  quote:0.60
+  verified:0.57
+  problem:0.51
+  couple:0.50
+  heads:0.50
+
+Topic 4:
+  campbx:1.46
+  time:1.20
+  verified:0.77
+  honor:0.68
+  thieves:0.65
+  business:0.60
+  quote:0.57
+  theives:0.53
+  bbb:0.52
+  thought:0.48
+
+K: 5, Log-Likelihood: -766.895, Alpha: 11.000, Beta: 1.100

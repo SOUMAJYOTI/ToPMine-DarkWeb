@@ -1,0 +1,61 @@
+Topic 0:
+  retire:2.97
+  lea:2.14
+  em:1.97
+  gon:1.97
+  lucky:1.97
+  idea:1.97
+  long:1.45
+  walk:1.45
+  agora:1.42
+  money:1.41
+
+Topic 1:
+  return:6.85
+  market:6.64
+  agora:4.48
+  users:4.46
+  thing:3.95
+  admin:3.95
+  accounts:3.37
+  blame:2.96
+  trait:2.96
+  agra:2.96
+
+Topic 2:
+  market:2.08
+  agora:1.90
+  time:1.36
+  users:1.32
+  pgp:1.03
+  key:1.00
+  solution:0.96
+  money:0.89
+  orders:0.83
+  signature:0.79
+
+Topic 3:
+  time:6.94
+  pgp:5.05
+  key:4.78
+  orders:4.23
+  solution:3.46
+  resources:3.16
+  signature:3.03
+  require:3.02
+  case:2.81
+  money:2.34
+
+Topic 4:
+  time:5.54
+  key:4.13
+  pgp:3.84
+  solution:3.50
+  market:2.95
+  orders:2.86
+  case:2.35
+  money:2.33
+  require:2.17
+  signature:2.10
+
+K: 5, Log-Likelihood: -8849.136, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tor:5.91
+  xkeyscore:3.40
+  privacy:2.82
+  nsa:2.81
+  address:2.14
+  server:2.10
+  rules:1.93
+  service:1.88
+  internet:1.79
+  asa:1.65
+
+Topic 1:
+  tor:11.00
+  users:6.21
+  nsa:3.99
+  network:2.86
+  xkeyscore:2.64
+  code:2.55
+  rules:2.13
+  german:2.10
+  server:1.98
+  privacy:1.91
+
+Topic 2:
+  tor:13.96
+  users:7.85
+  nsa:6.83
+  xkeyscore:5.94
+  rules:4.80
+  address:4.51
+  internet:3.96
+  german:3.74
+  network:3.67
+  privacy:3.36
+
+Topic 3:
+  tor:21.21
+  users:9.54
+  code:6.18
+  privacy:5.29
+  internet:5.02
+  address:4.49
+  server:4.47
+  rules:4.34
+  email:3.80
+  source:3.78
+
+Topic 4:
+  users:3.10
+  tor:2.93
+  privacy:1.63
+  xkeyscore:1.59
+  server:1.55
+  network:1.37
+  email:1.22
+  address:1.22
+  states:1.17
+  servers:1.08
+
+K: 5, Log-Likelihood: -8675.911, Alpha: 11.000, Beta: 1.100

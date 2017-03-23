@@ -1,0 +1,61 @@
+Topic 0:
+  orders:2.09
+  au:1.85
+  code city country:1.85
+  shipping single:1.85
+  onion:1.85
+  western northern:1.85
+  street number zip portal:1.85
+  highservicewelcome:1.85
+  pul:1.85
+  successful shipment follow:1.85
+
+Topic 1:
+  abrax verified agra deals:5.26
+  zip portal code city:3.49
+  shipping weekend orders:3.49
+  provide address successful:3.49
+  single:3.49
+  ratings alpha shoponline:3.49
+  reshipthe reship police easy:3.49
+  multisig listing guide multisign:3.49
+  single weekday:3.49
+  shipment follow street number:3.49
+
+Topic 2:
+  order:2.78
+  good:1.75
+  review:1.75
+  prices:1.75
+  stealth great:1.75
+  good weed:1.75
+  fast delivery:1.75
+  guys orders:1.75
+  father:1.47
+  understandable:1.47
+
+Topic 3:
+  lemon skunk thc:7.31
+  super silver haze:7.31
+  pink grapefruit earthy musky:3.55
+  listing online:3.55
+  high social creative side:3.55
+  haze:3.55
+  geneticsthis strain created crossing:3.55
+  pepper balanced starts:3.55
+  aftertaste traces incense black:3.55
+  lemon lime:3.55
+
+Topic 4:
+  orders:1.97
+  portal code city country:1.81
+  worldwide israel ship single:1.81
+  multisig listing:1.81
+  orgshipping shipping single country:1.81
+  follow street number zip:1.81
+  weekday shipping weekend orders:1.81
+  guide multisign email lelantos:1.81
+  provide address successful shipment:1.81
+  days western northern:1.81
+
+K: 5, Log-Likelihood: -1584.900, Alpha: 11.000, Beta: 1.100

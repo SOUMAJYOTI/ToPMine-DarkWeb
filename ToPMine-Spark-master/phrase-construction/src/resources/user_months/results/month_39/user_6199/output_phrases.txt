@@ -1,0 +1,61 @@
+Topic 0:
+  agora:1.50
+  question:0.63
+  thankspeace:0.63
+  place:0.62
+  logins:0.62
+  good:0.62
+  lucy:0.62
+  access:0.62
+  dnm:0.62
+  happened:0.62
+
+Topic 1:
+  agora:0.60
+  garden:0.60
+  work:0.46
+  glad:0.46
+  deals:0.46
+  vendors:0.46
+  account:0.46
+  active:0.46
+  sr:0.45
+  talk:0.45
+
+Topic 2:
+  garden:0.75
+  agora:0.58
+  hook vendors:0.48
+  hey:0.47
+  darknetmarkets:0.47
+  wiki:0.47
+  heaps:0.47
+  clearnet:0.47
+  list:0.47
+  warning:0.47
+
+Topic 3:
+  garden:0.71
+  agora:0.60
+  hook vendors:0.48
+  skyballs:0.47
+  reddit:0.47
+  wiki:0.47
+  list:0.47
+  dated:0.47
+  warning:0.47
+  superlistedit:0.47
+
+Topic 4:
+  agora:0.64
+  garden:0.56
+  popular:0.46
+  jor:0.46
+  feeling:0.45
+  escrow:0.45
+  account:0.45
+  active:0.45
+  deals:0.45
+  dardush:0.45
+
+K: 5, Log-Likelihood: -480.124, Alpha: 11.000, Beta: 1.100

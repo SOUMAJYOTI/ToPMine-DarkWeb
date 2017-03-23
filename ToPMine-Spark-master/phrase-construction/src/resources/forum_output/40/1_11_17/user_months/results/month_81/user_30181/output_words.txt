@@ -1,0 +1,61 @@
+Topic 0:
+  account:7.54
+  onion:3.85
+  enter:2.81
+  buyers:2.49
+  enabled:1.86
+  decrypt:1.86
+  fa:1.72
+  password:1.62
+  fred:1.48
+  amhi:1.21
+
+Topic 1:
+  fa:4.52
+  vendor:3.66
+  password:3.51
+  login:3.32
+  account:2.84
+  quote:2.61
+  message:2.29
+  dream:2.11
+  changed:1.73
+  decrypting:1.65
+
+Topic 2:
+  fa:6.17
+  password:5.27
+  login:3.39
+  pgp:2.36
+  quote:2.19
+  key:2.08
+  isnt:1.61
+  dream:1.51
+  message:1.42
+  fred:1.40
+
+Topic 3:
+  password:5.40
+  fa:4.84
+  login:2.68
+  fred:1.66
+  quote:1.41
+  isnt:1.21
+  key:1.20
+  dream:1.16
+  day:1.09
+  pgp:1.09
+
+Topic 4:
+  fa:6.75
+  password:5.20
+  login:2.83
+  dream:2.35
+  pgp:2.12
+  quote:2.00
+  key:1.97
+  isnt:1.65
+  message:1.55
+  true:1.48
+
+K: 5, Log-Likelihood: -1302.395, Alpha: 11.000, Beta: 1.100

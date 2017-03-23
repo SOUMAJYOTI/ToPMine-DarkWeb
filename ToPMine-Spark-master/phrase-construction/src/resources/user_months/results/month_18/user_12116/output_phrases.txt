@@ -1,0 +1,61 @@
+Topic 0:
+  call:0.52
+  whitepaper:0.41
+  cloak:0.41
+  notice:0.36
+  claim:0.36
+  homework:0.36
+  wrong:0.36
+  explain:0.36
+  currency:0.36
+  true:0.36
+
+Topic 1:
+  call:0.47
+  cloak:0.39
+  whitepaper:0.39
+  currency:0.33
+  explain:0.33
+  claim:0.33
+  true:0.33
+  notice:0.33
+  homework:0.33
+  monero:0.33
+
+Topic 2:
+  call:0.72
+  cloak ahead:0.44
+  monero:0.43
+  whitepaper:0.43
+  cloak:0.43
+  wrong:0.43
+  explain:0.43
+  homework:0.43
+  true:0.43
+  currency:0.43
+
+Topic 3:
+  call:0.48
+  whitepaper:0.40
+  cloak:0.40
+  wrong:0.34
+  homework:0.34
+  cloak ahead:0.34
+  claim:0.34
+  notice:0.34
+  true:0.34
+  currency:0.34
+
+Topic 4:
+  call:0.55
+  cloak:0.41
+  whitepaper:0.41
+  claim:0.37
+  notice:0.37
+  monero:0.37
+  currency:0.37
+  true:0.37
+  explain:0.37
+  homework:0.37
+
+K: 5, Log-Likelihood: -446.775, Alpha: 11.000, Beta: 1.100

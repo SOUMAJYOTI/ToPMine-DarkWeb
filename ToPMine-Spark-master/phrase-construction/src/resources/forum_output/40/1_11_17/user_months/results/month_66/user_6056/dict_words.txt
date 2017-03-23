@@ -1,0 +1,100 @@
+jabber pidgin,0,1
+plugins,1,1
+tug,2,1
+ago,3,1
+years,4,5
+doesnt,5,2
+otr office,6,4
+forums,7,1
+quote,8,2
+logged,9,3
+fingerprint,10,1
+chat otr office,11,4
+chats emails,12,4
+encrypted chat otr,13,2
+otr office years,14,4
+encrusted,15,2
+method,16,1
+ip,17,5
+otr,18,10
+chat otr office years,19,4
+shared,20,1
+swirlybird,21,2
+authenticate,22,1
+encrypted chat,23,3
+facto,24,1
+secret,25,1
+lot,26,2
+leak,27,1
+private tor,28,2
+tor,29,3
+pgp,30,1
+term,31,1
+place,32,2
+email,33,2
+abner,34,1
+question,35,1
+emails otr,36,2
+people,37,3
+years police,38,4
+police,39,4
+pidgin,40,8
+plugin,41,1
+answer,42,1
+chat,43,8
+days,44,2
+combined,45,1
+decrypt,46,2
+gamesome,47,1
+ip jabber,48,2
+stuff,49,2
+small,50,1
+november,51,2
+de,52,1
+jabber tor,53,1
+source,54,3
+office,55,4
+xmpp,56,2
+good,57,1
+pray,58,2
+couldn,59,2
+tie,60,2
+otr office years police,61,4
+protocol,62,1
+office years police,63,4
+members,64,1
+rare,65,2
+create,66,1
+communication,67,3
+logs,68,1
+encrypts,69,2
+conversation,70,1
+configured,71,2
+doesn,72,2
+settings,73,2
+jabber people,74,2
+pidgin chats emails,75,4
+office years,76,4
+convenient,77,1
+person,78,1
+chats,79,4
+send,80,1
+trust,81,2
+private,82,3
+jabber,83,7
+keys,84,1
+emails,85,4
+security,86,1
+pmeven,87,2
+client,88,2
+pidgin chats,89,4
+chat otr,90,4
+forum,91,1
+communication source,92,1
+encrypted,93,3
+private source,94,1
+vpn,95,1
+decrepit,96,2
+service,97,2
+easier,98,2
+chatting,99,1

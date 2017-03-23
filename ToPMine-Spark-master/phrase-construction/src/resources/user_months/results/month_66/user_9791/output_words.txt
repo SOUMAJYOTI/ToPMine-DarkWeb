@@ -1,0 +1,61 @@
+Topic 0:
+  buy:0.62
+  address:0.44
+  order:0.44
+  pgp:0.41
+  mailman:0.21
+  mycelium:0.21
+  tor:0.21
+  bundle:0.21
+  things:0.21
+  complete:0.21
+
+Topic 1:
+  buy:0.58
+  address:0.41
+  order:0.41
+  pgp:0.40
+  mixing:0.20
+  vendors:0.20
+  vendor:0.20
+  complete:0.20
+  cookies:0.20
+  send:0.20
+
+Topic 2:
+  buy:0.66
+  order:0.44
+  address:0.44
+  pgp:0.41
+  privacy:0.21
+  completely:0.21
+  bitcoins:0.21
+  sort:0.21
+  videos:0.21
+  java:0.21
+
+Topic 3:
+  buy:0.55
+  pgp:0.40
+  order:0.35
+  address:0.35
+  digging:0.22
+  cheap:0.21
+  chances:0.21
+  tails:0.21
+  shit:0.21
+  phone:0.21
+
+Topic 4:
+  buy:0.58
+  pgp:0.38
+  address:0.36
+  order:0.36
+  adroit:0.22
+  luck:0.22
+  tablet:0.22
+  uno:0.22
+  shit:0.22
+  good:0.22
+
+K: 5, Log-Likelihood: -258.822, Alpha: 11.000, Beta: 1.100

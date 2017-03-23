@@ -1,0 +1,61 @@
+Topic 0:
+  community:2.36
+  wanted:2.33
+  sr:1.64
+  send:1.64
+  pmvjhfrjvqlv:1.64
+  server:1.64
+  leftover:1.64
+  today:1.64
+  bitcoins:1.64
+  twhgabut:1.64
+
+Topic 1:
+  members vendors:1.64
+  share:1.15
+  knowledge:1.14
+  experience:1.12
+  gammagoblin:1.08
+  people:0.90
+  open:0.69
+  account:0.69
+  personal:0.69
+  life:0.69
+
+Topic 2:
+  btc address:1.65
+  wealth:1.64
+  mods:1.62
+  dim:1.62
+  place running:1.62
+  transactions:1.62
+  return:1.62
+  visible:1.61
+  deserve:1.61
+  site:1.61
+
+Topic 3:
+  members vendors:1.76
+  gammagoblin:1.14
+  experience:1.14
+  knowledge:1.11
+  share:1.10
+  donation:1.01
+  vendors:1.00
+  online:1.00
+  price:0.99
+  encourage:0.99
+
+Topic 4:
+  psychedelic:1.36
+  address post:1.20
+  keeping:1.07
+  donate:0.97
+  purchase:0.96
+  tmg:0.92
+  change:0.91
+  approach:0.86
+  dear:0.83
+  market:0.83
+
+K: 5, Log-Likelihood: -920.214, Alpha: 11.000, Beta: 1.100

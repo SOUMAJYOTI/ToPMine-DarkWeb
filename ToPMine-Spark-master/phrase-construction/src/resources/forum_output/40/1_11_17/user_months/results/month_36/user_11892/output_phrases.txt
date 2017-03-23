@@ -1,0 +1,61 @@
+Topic 0:
+  crypto market:7.18
+  open:2.96
+  comrades:2.85
+  vendors:2.61
+  russian:2.06
+  superb:1.74
+  bond:1.74
+  general rosakovo:1.74
+  allowed:1.74
+  attentive:1.74
+
+Topic 1:
+  market:2.84
+  crypto:2.01
+  developer:1.13
+  connection:1.11
+  escrow:1.10
+  teething problems inevitably bound:0.98
+  invalid username:0.97
+  crop zaphod:0.97
+  jack:0.97
+  hands cryptic error messages:0.97
+
+Topic 2:
+  trust:7.84
+  evolution:2.52
+  oversight:2.46
+  lot:2.46
+  advantage:2.46
+  cooked:2.46
+  markets:2.46
+  american:2.46
+  rushed market:2.46
+  conditions:2.46
+
+Topic 3:
+  pasting pgp key turning:6.66
+  grant market:3.93
+  true appears true:3.18
+  fa render unable login:3.18
+  testing setting pgp key:3.18
+  fa login:3.18
+  reported thread february quotethey:3.09
+  invalid internal algorithm unknown:2.84
+  month:2.61
+  zaphod march:2.61
+
+Topic 4:
+  vendors:5.58
+  crypto:4.61
+  market:3.68
+  fe:3.52
+  ships:3.52
+  bitcoins:3.52
+  business:3.52
+  products:3.52
+  sort:3.52
+  strong:3.52
+
+K: 5, Log-Likelihood: -2655.440, Alpha: 11.000, Beta: 1.100

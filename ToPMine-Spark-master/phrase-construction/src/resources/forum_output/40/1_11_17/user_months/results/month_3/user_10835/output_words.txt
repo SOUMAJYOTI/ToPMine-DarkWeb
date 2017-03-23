@@ -1,0 +1,61 @@
+Topic 0:
+  post:8.27
+  time:8.26
+  shipping:6.36
+  drop:5.38
+  walk:4.97
+  packages:3.97
+  change:3.97
+  people:3.95
+  offices:3.44
+  materials:2.97
+
+Topic 1:
+  services:8.97
+  coins:7.71
+  coin:7.71
+  blocks:3.97
+  users:2.97
+  features:2.97
+  worth:2.97
+  anc:2.97
+  web:2.97
+  invisible:2.97
+
+Topic 2:
+  general:6.07
+  person:5.76
+  idea:4.86
+  package:4.73
+  location:4.30
+  place:4.03
+  gps:3.52
+  post:3.40
+  cam:3.32
+  kind:3.30
+
+Topic 3:
+  portal:10.87
+  lot:9.40
+  send:7.81
+  leave:7.56
+  office:5.85
+  dont:5.57
+  offices:5.43
+  postage:5.25
+  site:4.93
+  city:4.72
+
+Topic 4:
+  good:4.35
+  ideas:3.37
+  remember:2.17
+  things:2.11
+  transactions:1.90
+  answers:1.88
+  mistakes:1.85
+  man:1.84
+  list:1.77
+  thinking:1.54
+
+K: 5, Log-Likelihood: -5334.579, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  money:1.67
+  good:1.35
+  idea:0.84
+  case:0.73
+  things:0.73
+  busted:0.72
+  dpr:0.70
+  server:0.63
+  organized:0.51
+  garbage:0.49
+
+Topic 1:
+  money:5.29
+  good:1.77
+  things:1.38
+  dpr:1.14
+  case:1.09
+  busted:1.09
+  idea:1.00
+  le:1.00
+  operation:1.00
+  safe:1.00
+
+Topic 2:
+  server:1.10
+  host:0.99
+  cats:0.99
+  bout:0.98
+  cat:0.97
+  organized:0.76
+  raspberry:0.73
+  pi:0.73
+  guys:0.72
+  people:0.72
+
+Topic 3:
+  server:1.03
+  good:0.96
+  cats:0.79
+  organized:0.75
+  idea:0.69
+  people:0.67
+  free:0.56
+  password:0.56
+  irc:0.56
+  pictures:0.56
+
+Topic 4:
+  good:1.24
+  people:1.17
+  crew:0.97
+  idea:0.93
+  server:0.90
+  plan:0.72
+  organized:0.69
+  cats:0.62
+  talking:0.59
+  criminal:0.50
+
+K: 5, Log-Likelihood: -1282.904, Alpha: 11.000, Beta: 1.100

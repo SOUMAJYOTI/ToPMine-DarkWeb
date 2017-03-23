@@ -1,0 +1,61 @@
+Topic 0:
+  private:0.20
+  heard:0.20
+  crumble:0.20
+  jacks:0.20
+  favorite:0.18
+  extremely:0.18
+  ecc:0.18
+  ag:0.18
+  direction:0.18
+  point:0.18
+
+Topic 1:
+  heard:0.20
+  private:0.20
+  crumble:0.20
+  jacks:0.20
+  site:0.18
+  extremely:0.18
+  ecc:0.18
+  vendors:0.18
+  flower:0.18
+  point:0.18
+
+Topic 2:
+  jacks:0.20
+  crumble:0.20
+  private:0.20
+  heard:0.20
+  mint:0.18
+  shit:0.18
+  grams:0.18
+  pine:0.18
+  wax:0.18
+  led:0.18
+
+Topic 3:
+  jacks:0.20
+  private:0.20
+  crumble:0.20
+  heard:0.20
+  onion:0.18
+  awhile:0.18
+  jackblue:0.18
+  light:0.18
+  eccs:0.18
+  helps:0.18
+
+Topic 4:
+  jacks:0.20
+  crumble:0.20
+  heard:0.20
+  private:0.20
+  couple:0.18
+  man:0.18
+  pine:0.18
+  shit:0.18
+  thin:0.18
+  grams:0.18
+
+K: 5, Log-Likelihood: -128.172, Alpha: 11.000, Beta: 1.100

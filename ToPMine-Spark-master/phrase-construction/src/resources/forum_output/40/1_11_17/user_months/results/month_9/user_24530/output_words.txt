@@ -1,0 +1,61 @@
+Topic 0:
+  site:1.37
+  donation:0.87
+  order:0.79
+  great:0.63
+  start:0.61
+  donate:0.57
+  love:0.54
+  future:0.42
+  jc:0.41
+  market:0.41
+
+Topic 1:
+  site:1.14
+  donation:0.92
+  order:0.78
+  great:0.66
+  start:0.65
+  send:0.52
+  donate:0.50
+  erowid:0.47
+  future:0.42
+  love:0.42
+
+Topic 2:
+  site:1.47
+  order:0.82
+  donation:0.74
+  donate:0.64
+  love:0.62
+  great:0.60
+  start:0.58
+  jc:0.41
+  future:0.40
+  market:0.39
+
+Topic 3:
+  site:1.92
+  love:1.01
+  order:0.88
+  thankful:0.77
+  donate:0.77
+  donation:0.55
+  great:0.49
+  start:0.46
+  jc:0.36
+  future:0.34
+
+Topic 4:
+  site:1.10
+  donation:0.92
+  order:0.73
+  start:0.70
+  great:0.61
+  donate:0.51
+  send:0.49
+  erowid:0.46
+  market:0.45
+  future:0.41
+
+K: 5, Log-Likelihood: -629.457, Alpha: 11.000, Beta: 1.100

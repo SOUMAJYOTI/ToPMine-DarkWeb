@@ -1,0 +1,61 @@
+Topic 0:
+  ja:5.20
+  clear webin:5.04
+  lk:3.34
+  helposti:3.34
+  ille:3.34
+  joten:3.34
+  linkkej:3.34
+  mit:3.34
+  salasanoja:3.34
+  yll:3.34
+
+Topic 1:
+  teill:1.59
+  ole:1.59
+  muuttaa:1.59
+  elle:1.59
+  linkin:1.59
+  olemassa:1.59
+  rehellinen:1.59
+  aina:1.59
+  ylh:1.59
+  se:1.59
+
+Topic 2:
+  admins:1.45
+  answer:1.45
+  wind:1.45
+  beware:1.45
+  silkkitie exit:1.44
+  good:1.24
+  resolved:1.24
+  service:1.24
+  issue:1.24
+  kapteeni:1.23
+
+Topic 3:
+  oli:6.75
+  osoitetta:5.05
+  silkkitiehdg onion:3.99
+  ohjasi:3.34
+  sivuston:3.34
+  kaappaaminen:3.34
+  eik:3.34
+  lukuunottamatta:3.34
+  tilalla:3.34
+  identtinen:3.34
+
+Topic 4:
+  empty:4.98
+  btc:3.42
+  adress:3.28
+  checked:3.28
+  password:3.19
+  number:2.43
+  hour:2.43
+  wallet:2.43
+  logged:1.59
+  check:1.59
+
+K: 5, Log-Likelihood: -2849.362, Alpha: 11.000, Beta: 1.100

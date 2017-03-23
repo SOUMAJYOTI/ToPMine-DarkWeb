@@ -1,0 +1,61 @@
+Topic 0:
+  dont:0.40
+  dos:0.39
+  markets:0.21
+  attack:0.20
+  forums:0.20
+  threats:0.19
+  choice:0.19
+  glory:0.19
+  proven:0.19
+  chance:0.19
+
+Topic 1:
+  dos:0.34
+  dont:0.34
+  forums:0.20
+  attack:0.20
+  markets:0.20
+  eddy:0.19
+  problem:0.19
+  steady:0.19
+  forum:0.19
+  fixed:0.19
+
+Topic 2:
+  dos:0.36
+  dont:0.36
+  forums:0.20
+  attack:0.20
+  markets:0.20
+  longest:0.18
+  mods:0.18
+  problem:0.18
+  fixed:0.18
+  damn:0.18
+
+Topic 3:
+  dos:0.39
+  dont:0.38
+  attack:0.20
+  markets:0.20
+  forums:0.20
+  wankr:0.19
+  support:0.19
+  regardswad:0.19
+  win:0.19
+  sr:0.19
+
+Topic 4:
+  dos:0.36
+  dont:0.36
+  markets:0.20
+  attack:0.20
+  forums:0.20
+  pmin:0.19
+  gamesome:0.19
+  quote:0.19
+  spread:0.19
+  time:0.19
+
+K: 5, Log-Likelihood: -228.895, Alpha: 11.000, Beta: 1.100

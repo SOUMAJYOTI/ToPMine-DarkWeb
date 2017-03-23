@@ -1,0 +1,61 @@
+Topic 0:
+  fa:1.77
+  market:1.04
+  april:0.66
+  surface:0.66
+  engineers:0.66
+  quote:0.66
+  big:0.66
+  sworn:0.66
+  fatherted:0.66
+  standard:0.66
+
+Topic 1:
+  market:0.88
+  bitwasp:0.77
+  registration:0.72
+  free:0.71
+  multisig:0.71
+  amount:0.70
+  good:0.65
+  offer:0.50
+  pgp:0.50
+  open:0.49
+
+Topic 2:
+  js:2.81
+  version:1.81
+  confirms:1.81
+  free:1.63
+  create:0.83
+  registrations:0.83
+  visit:0.83
+  working:0.83
+  receive:0.83
+  moment:0.83
+
+Topic 3:
+  bitwasp:0.85
+  market:0.84
+  good:0.79
+  registration:0.73
+  multisig:0.68
+  amount:0.67
+  free:0.62
+  offer:0.54
+  pgp:0.53
+  open:0.53
+
+Topic 4:
+  good:1.35
+  registration:1.34
+  bitwasp:0.92
+  transactions:0.82
+  messages:0.81
+  open:0.80
+  amount:0.79
+  pgp:0.79
+  multisig:0.78
+  offer:0.78
+
+K: 5, Log-Likelihood: -794.092, Alpha: 11.000, Beta: 1.100

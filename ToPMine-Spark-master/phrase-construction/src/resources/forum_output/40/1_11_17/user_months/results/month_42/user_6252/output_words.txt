@@ -1,0 +1,61 @@
+Topic 0:
+  coins:3.00
+  bitcoin:1.59
+  good:1.56
+  set:1.42
+  people:1.35
+  order:1.16
+  wan:1.14
+  bitblender:1.13
+  instantly:1.11
+  random:1.07
+
+Topic 1:
+  good:3.96
+  links:2.49
+  bitblender:1.87
+  coins:1.82
+  site:1.75
+  send:1.10
+  money:1.09
+  bitcoin:0.90
+  delay:0.82
+  offers:0.81
+
+Topic 2:
+  coins:4.01
+  good:3.82
+  bitblender:2.46
+  bitcoin:1.53
+  helix:0.92
+  suprised:0.92
+  links:0.91
+  alts:0.91
+  proceed:0.91
+  mentioned:0.91
+
+Topic 3:
+  people:6.42
+  scam:4.87
+  withdraw:4.81
+  coins:4.11
+  services:3.91
+  dont:3.08
+  bitcoin:2.39
+  set:2.21
+  random:2.20
+  instantly:2.19
+
+Topic 4:
+  darknet:3.41
+  people:2.64
+  blond:2.53
+  services:2.42
+  stay:2.38
+  mixing:1.57
+  io:1.54
+  impossible:1.54
+  tor:1.54
+  cleancoin:1.54
+
+K: 5, Log-Likelihood: -1537.294, Alpha: 11.000, Beta: 1.100

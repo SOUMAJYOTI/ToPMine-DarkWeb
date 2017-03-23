@@ -1,0 +1,61 @@
+Topic 0:
+  vain:3.06
+  jos:1.78
+  tilauksia:1.15
+  tarpeeksi:1.13
+  ajalla:0.79
+  hk:0.78
+  nuuskaa:0.78
+  viikon:0.77
+  nyt:0.72
+  en:0.49
+
+Topic 1:
+  jos:1.26
+  vain:1.21
+  nyt:0.69
+  tarpeeksi:0.57
+  tilauksia:0.56
+  voit:0.50
+  yst:0.50
+  eli:0.50
+  nuuskan:0.50
+  viikon:0.46
+
+Topic 2:
+  kutsulinkki:2.23
+  kirjautunut:2.17
+  minun:2.15
+  ytt:2.14
+  henkil:2.13
+  ja:1.84
+  palkkion:1.32
+  jotka:1.32
+  nain:1.32
+  sit:1.31
+
+Topic 3:
+  mit:1.52
+  rizloja:1.28
+  viikon:0.65
+  nuuskaa:0.64
+  hk:0.64
+  ajalla:0.63
+  vain:0.62
+  aktiivihiili:0.55
+  ihmeess:0.55
+  nuuska:0.55
+
+Topic 4:
+  ja:1.16
+  voit:0.85
+  henkil:0.67
+  ytt:0.66
+  minun:0.66
+  kirjautunut:0.64
+  kutsulinkki:0.58
+  kaverisi:0.53
+  ne:0.52
+  kohtaista:0.51
+
+K: 5, Log-Likelihood: -869.788, Alpha: 11.000, Beta: 1.100

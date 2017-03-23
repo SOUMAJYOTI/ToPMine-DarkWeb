@@ -1,0 +1,61 @@
+Topic 0:
+  netflix:1.67
+  tunnuksia:0.60
+  ytt:0.59
+  account:0.57
+  kpl:0.57
+  accounts:0.40
+  ett:0.39
+  yt:0.20
+  hei:0.20
+  ja:0.20
+
+Topic 1:
+  netflix:1.23
+  ytt:0.62
+  kpl:0.61
+  tunnuksia:0.61
+  account:0.58
+  ett:0.40
+  accounts:0.40
+  paremmin:0.20
+  kautta:0.20
+  isi:0.20
+
+Topic 2:
+  netflix:1.26
+  account:0.62
+  kpl:0.61
+  ytt:0.60
+  tunnuksia:0.60
+  accounts:0.40
+  ett:0.40
+  tiedot:0.20
+  tunnukset:0.20
+  varmasti:0.20
+
+Topic 3:
+  netflix:1.39
+  kpl:0.61
+  account:0.60
+  ytt:0.59
+  tunnuksia:0.59
+  accounts:0.40
+  ett:0.40
+  find:0.20
+  usk:0.20
+  hub:0.20
+
+Topic 4:
+  netflix:1.45
+  account:0.63
+  tunnuksia:0.61
+  kpl:0.60
+  ytt:0.59
+  ett:0.40
+  accounts:0.40
+  kyvyytt:0.20
+  lis:0.20
+  tunnukset:0.20
+
+K: 5, Log-Likelihood: -255.863, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bands:5.36
+  good:4.12
+  time:4.07
+  bugs:3.11
+  government:2.82
+  bug:1.85
+  dollars:1.85
+  quadrants:1.85
+  walls:1.84
+  throwing:1.84
+
+Topic 1:
+  mixing service:3.13
+  check:1.45
+  mix tails:1.45
+  taint:1.45
+  owe:1.42
+  resolve:1.42
+  work:1.42
+  pm:1.42
+  buy:1.42
+  money:1.42
+
+Topic 2:
+  electrum wallet:5.01
+  coins:3.73
+  trace:3.34
+  charges:3.34
+  mix coins:3.34
+  grams:2.70
+  transfer:2.70
+  clear:2.22
+  tails:2.22
+  untraceable transfer:2.22
+
+Topic 3:
+  bug detectors:1.32
+  bands:0.96
+  time:0.95
+  good:0.90
+  december:0.72
+  pmdont:0.72
+  gilgamesh:0.71
+  stfu:0.71
+  close:0.66
+  cell:0.65
+
+Topic 4:
+  electrum address:3.34
+  tumble:3.34
+  markets:3.34
+  coins:2.15
+  shit:1.64
+  combo:1.64
+  agency:1.64
+  possibility:1.64
+  fresh:1.64
+  directly:1.64
+
+K: 5, Log-Likelihood: -2440.538, Alpha: 11.000, Beta: 1.100

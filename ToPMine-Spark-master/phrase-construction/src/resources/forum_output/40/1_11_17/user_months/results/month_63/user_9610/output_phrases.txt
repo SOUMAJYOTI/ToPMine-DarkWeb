@@ -1,0 +1,61 @@
+Topic 0:
+  site:1.17
+  vendor thread:0.95
+  process site:0.71
+  multiply hosters suggestions appreciated:0.69
+  shop:0.64
+  crystallotus:0.59
+  october:0.58
+  quote:0.57
+  links:0.57
+  scidmt:0.56
+
+Topic 1:
+  site:1.22
+  vendor thread:1.17
+  multiply hosters suggestions appreciated:0.71
+  process site:0.70
+  shop:0.67
+  nelson muntz:0.59
+  links:0.58
+  find:0.58
+  scidmt:0.57
+  nelson muntzs:0.56
+
+Topic 2:
+  site:1.27
+  vendor thread:1.15
+  process site:0.70
+  multiply hosters suggestions appreciated:0.69
+  shop:0.64
+  find:0.59
+  links:0.59
+  nelson muntzs:0.57
+  nelson muntz:0.57
+  scidmt:0.56
+
+Topic 3:
+  vendor thread:1.35
+  site:0.91
+  shop:0.72
+  process site:0.67
+  multiply hosters suggestions appreciated:0.66
+  nelson muntz:0.57
+  scidmt:0.55
+  nelson muntzs:0.54
+  links:0.51
+  quote:0.51
+
+Topic 4:
+  site:0.98
+  vendor thread:0.92
+  multiply hosters suggestions appreciated:0.75
+  process site:0.73
+  october:0.63
+  shop:0.63
+  crystallotus:0.62
+  quote:0.62
+  find:0.55
+  nelson muntzs:0.54
+
+K: 5, Log-Likelihood: -216.065, Alpha: 11.000, Beta: 1.100

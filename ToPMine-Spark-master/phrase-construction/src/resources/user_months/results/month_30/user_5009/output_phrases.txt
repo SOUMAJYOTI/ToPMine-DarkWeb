@@ -1,0 +1,61 @@
+Topic 0:
+  dont:0.08
+  don:0.08
+  smaller:0.00
+  perfect:0.00
+  immortal:0.00
+  ye:0.00
+  good:0.00
+  quotes:0.00
+  reflects:0.00
+  energy:0.00
+
+Topic 1:
+  don:0.08
+  dont:0.08
+  smaller:0.00
+  perfect:0.00
+  immortal:0.00
+  ye:0.00
+  good:0.00
+  quotes:0.00
+  reflects:0.00
+  energy:0.00
+
+Topic 2:
+  don:0.08
+  dont:0.08
+  smaller:0.00
+  perfect:0.00
+  immortal:0.00
+  ye:0.00
+  good:0.00
+  quotes:0.00
+  reflects:0.00
+  energy:0.00
+
+Topic 3:
+  dont:0.08
+  don:0.08
+  smaller:0.00
+  perfect:0.00
+  immortal:0.00
+  ye:0.00
+  good:0.00
+  quotes:0.00
+  reflects:0.00
+  energy:0.00
+
+Topic 4:
+  dont:0.08
+  don:0.08
+  smaller:0.00
+  perfect:0.00
+  immortal:0.00
+  ye:0.00
+  good:0.00
+  quotes:0.00
+  reflects:0.00
+  energy:0.00
+
+K: 5, Log-Likelihood: -2.701, Alpha: 11.000, Beta: 1.100

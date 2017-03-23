@@ -1,0 +1,61 @@
+Topic 0:
+  thread:0.59
+  markets:0.54
+  selling:0.54
+  aware:0.53
+  work:0.51
+  pleasure:0.50
+  key:0.48
+  pub:0.48
+  address:0.48
+  throw:0.48
+
+Topic 1:
+  kitties:0.67
+  cm:0.67
+  happy:0.50
+  iti:0.50
+  masters:0.50
+  wait:0.50
+  workpeace:0.50
+  tomorrow:0.50
+  hey:0.50
+  mine:0.50
+
+Topic 2:
+  thread:0.58
+  stand:0.55
+  day:0.55
+  days:0.55
+  pgp:0.55
+  order:0.55
+  pub:0.55
+  throw:0.55
+  hoping:0.54
+  address:0.54
+
+Topic 3:
+  kitties:0.58
+  cm:0.56
+  thread:0.52
+  pleasure:0.51
+  work:0.51
+  selling:0.50
+  markets:0.50
+  aware:0.50
+  address:0.41
+  hoping:0.41
+
+Topic 4:
+  mail:0.67
+  vendor:0.66
+  stand:0.65
+  throw:0.65
+  order:0.64
+  key:0.64
+  hoping:0.64
+  day:0.64
+  days:0.64
+  pgp:0.64
+
+K: 5, Log-Likelihood: -264.565, Alpha: 11.000, Beta: 1.100

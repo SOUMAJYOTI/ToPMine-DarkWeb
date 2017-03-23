@@ -1,0 +1,61 @@
+Topic 0:
+  ur:2.63
+  people created distribute tor:0.98
+  browser bundle huh lol:0.97
+  feature:0.86
+  system web compilation buildmanager:0.75
+  quote april:0.66
+  system web:0.52
+  virtualpath virtualpath:0.38
+  web:0.36
+  context:0.27
+
+Topic 1:
+  virtualpath virtualpath:11.63
+  system web compilation buildmanager:8.26
+  system web:5.47
+  woolen allowcrossapp boolean:4.29
+  string:4.27
+  exception:4.25
+  boolean ensureisuptodate:4.25
+  context:4.22
+  version:2.79
+  server:2.79
+
+Topic 2:
+  js:7.48
+  users:4.47
+  windows:4.47
+  javascript:3.35
+  hosting:2.97
+  year:2.97
+  whyusheep:2.97
+  enable:2.97
+  safe:2.97
+  worry:2.97
+
+Topic 3:
+  system:4.47
+  private key:4.47
+  front:2.97
+  smart:2.97
+  calls:2.97
+  doesnt:2.97
+  database:2.97
+  work:2.71
+  shit:2.25
+  escrow:1.84
+
+Topic 4:
+  multisig escrow:3.10
+  simple:2.92
+  months:2.25
+  vendor:2.25
+  based:2.06
+  design:2.06
+  process:2.06
+  easy:2.06
+  notice:2.06
+  additional:2.06
+
+K: 5, Log-Likelihood: -3847.395, Alpha: 11.000, Beta: 1.100

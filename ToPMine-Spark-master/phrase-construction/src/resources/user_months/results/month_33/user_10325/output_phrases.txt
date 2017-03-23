@@ -1,0 +1,61 @@
+Topic 0:
+  gifs:2.83
+  dnm forums:1.84
+  view:1.78
+  poster:1.77
+  images gifs:1.76
+  images:1.76
+  post:0.98
+  security risk:0.88
+  photos:0.78
+  jpeg:0.78
+
+Topic 1:
+  gifs:1.11
+  view:0.81
+  images:0.80
+  images gifs:0.80
+  poster:0.80
+  dnm forums:0.73
+  forum:0.64
+  post:0.64
+  site:0.55
+  risk:0.55
+
+Topic 2:
+  gif images:3.39
+  java:3.38
+  impact complete:3.38
+  attacker:2.16
+  runtime:2.16
+  sun:2.16
+  score:2.16
+  arbitrary:2.16
+  execute:2.16
+  environment:2.15
+
+Topic 3:
+  png file:1.19
+  javascript:1.16
+  metadata:1.16
+  malware:1.10
+  forum:0.68
+  js:0.59
+  method:0.59
+  findings:0.59
+  dron:0.59
+  canohontras:0.59
+
+Topic 4:
+  malware:1.29
+  metadata:1.28
+  javascript:1.28
+  png file:1.25
+  link:0.61
+  avoid:0.61
+  png:0.61
+  securi:0.61
+  obfuscated:0.61
+  virus:0.61
+
+K: 5, Log-Likelihood: -1717.928, Alpha: 11.000, Beta: 1.100

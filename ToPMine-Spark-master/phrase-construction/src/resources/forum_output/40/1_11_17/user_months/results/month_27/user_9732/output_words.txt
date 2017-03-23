@@ -1,0 +1,61 @@
+Topic 0:
+  btc:0.96
+  kinds:0.93
+  stick:0.93
+  called:0.93
+  locating:0.92
+  mate:0.92
+  link:0.92
+  luck:0.92
+  coin:0.92
+  post:0.92
+
+Topic 1:
+  btc:3.58
+  days:1.89
+  deal:0.80
+  coming:0.80
+  credit:0.79
+  trustworthy:0.79
+  card:0.79
+  stuck:0.79
+  country:0.79
+  deeply:0.79
+
+Topic 2:
+  btc:1.92
+  travels:0.67
+  garden:0.67
+  attention:0.66
+  trust:0.66
+  thread:0.66
+  general:0.66
+  requests:0.66
+  safe:0.65
+  top:0.65
+
+Topic 3:
+  btc:3.31
+  days:0.96
+  cost:0.49
+  fuck:0.49
+  return:0.49
+  ship:0.49
+  poor:0.49
+  deeply:0.49
+  cashed:0.49
+  tops:0.49
+
+Topic 4:
+  btc:1.23
+  decide:0.75
+  bit:0.74
+  trust:0.74
+  attention:0.73
+  garden:0.73
+  locating:0.73
+  requests:0.73
+  hard:0.73
+  purchase:0.72
+
+K: 5, Log-Likelihood: -548.507, Alpha: 11.000, Beta: 1.100

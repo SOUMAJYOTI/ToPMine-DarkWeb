@@ -1,0 +1,61 @@
+Topic 0:
+  btc:1.00
+  life:0.68
+  november:0.67
+  uri:0.34
+  pat:0.34
+  url:0.34
+  bits:0.34
+  ve:0.34
+  true:0.34
+  learned:0.34
+
+Topic 1:
+  btc:1.10
+  life:0.70
+  november:0.66
+  trading:0.34
+  applies:0.34
+  saint:0.34
+  sammy:0.34
+  areas:0.34
+  true:0.34
+  category:0.34
+
+Topic 2:
+  btc:0.91
+  life:0.69
+  november:0.68
+  bits:0.34
+  url:0.34
+  pat:0.34
+  uri:0.34
+  amspeaking:0.34
+  pmquote:0.34
+  circumstance:0.34
+
+Topic 3:
+  btc:1.09
+  november:0.74
+  life:0.68
+  dollars:0.35
+  robbed:0.35
+  bisbury:0.35
+  cmon:0.35
+  scam:0.35
+  sammy:0.35
+  learned:0.35
+
+Topic 4:
+  btc:0.98
+  november:0.64
+  life:0.64
+  url:0.36
+  uri:0.36
+  bits:0.36
+  pat:0.36
+  papa nama december pmhow:0.36
+  ve:0.34
+  phishing:0.33
+
+K: 5, Log-Likelihood: -310.555, Alpha: 11.000, Beta: 1.100

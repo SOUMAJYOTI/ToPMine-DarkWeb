@@ -1,0 +1,61 @@
+Topic 0:
+  issues:0.16
+  pgp:0.16
+  msg:0.16
+  decode:0.16
+  ticket:0.08
+  times:0.08
+  sort:0.08
+  account:0.08
+  telling:0.08
+  yeah:0.08
+
+Topic 1:
+  msg:0.16
+  pgp:0.16
+  issues:0.16
+  decode:0.16
+  credentials:0.08
+  happened:0.08
+  message:0.08
+  hour:0.08
+  form:0.08
+  witherror:0.08
+
+Topic 2:
+  msg:0.16
+  issues:0.16
+  pgp:0.16
+  decode:0.16
+  account:0.08
+  send:0.08
+  sort:0.08
+  good:0.08
+  yeah:0.08
+  bitch:0.08
+
+Topic 3:
+  decode:0.16
+  msg:0.16
+  pgp:0.16
+  issues:0.16
+  hour:0.08
+  happened:0.08
+  enter:0.08
+  password:0.08
+  login:0.08
+  wtf:0.08
+
+Topic 4:
+  decode:0.16
+  msg:0.16
+  pgp:0.16
+  issues:0.16
+  username:0.08
+  form:0.08
+  happened:0.08
+  andsend:0.08
+  password:0.08
+  wtf:0.08
+
+K: 5, Log-Likelihood: -52.048, Alpha: 11.000, Beta: 1.100

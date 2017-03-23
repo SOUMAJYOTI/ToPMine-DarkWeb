@@ -1,0 +1,61 @@
+Topic 0:
+  faster:3.30
+  find:3.30
+  cheers:3.30
+  faster cents:3.30
+  stable:3.30
+  tang:3.30
+  spamming:3.30
+  throwing:3.30
+  market:3.11
+  markets disappearing:2.58
+
+Topic 1:
+  weve:3.17
+  hansa:3.15
+  agree:2.55
+  tentatively:1.95
+  check:1.95
+  coolbreeze:1.95
+  sick:1.95
+  utterly:1.95
+  dimitri:1.95
+  matter:1.82
+
+Topic 2:
+  ive:4.23
+  view:4.23
+  post:4.23
+  listings:3.35
+  site:2.62
+  easy:2.24
+  original:2.09
+  markets:2.09
+  picture:2.09
+  ordered:2.09
+
+Topic 3:
+  escrow:4.41
+  growing:3.37
+  opinion:3.37
+  pretty:3.37
+  ton:3.37
+  minutes:3.37
+  weekly:3.37
+  transactions smooth:3.37
+  based:3.37
+  experience:3.37
+
+Topic 4:
+  market:8.01
+  support:4.38
+  exit:4.25
+  time:4.23
+  multi:4.23
+  sig:4.23
+  reputation:4.23
+  vendor:2.47
+  team:2.11
+  lastly:2.09
+
+K: 5, Log-Likelihood: -2358.718, Alpha: 11.000, Beta: 1.100

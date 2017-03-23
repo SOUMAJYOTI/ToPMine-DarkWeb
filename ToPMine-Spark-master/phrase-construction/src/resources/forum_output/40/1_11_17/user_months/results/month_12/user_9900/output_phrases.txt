@@ -1,0 +1,61 @@
+Topic 0:
+  message agra:0.37
+  stay:0.37
+  btc vendor:0.37
+  lot:0.36
+  active:0.34
+  referred link:0.34
+  place:0.33
+  boy:0.31
+  shoot:0.31
+  moneypak:0.31
+
+Topic 1:
+  long:2.68
+  feedback:1.63
+  good:1.63
+  disputes:1.63
+  theyve:1.63
+  site:1.63
+  packs:0.68
+  operates:0.68
+  legit:0.68
+  scared:0.68
+
+Topic 2:
+  message agra:0.39
+  btc vendor:0.39
+  stay:0.39
+  lot:0.36
+  referred link:0.35
+  active:0.34
+  place:0.33
+  places:0.32
+  boy:0.32
+  read:0.32
+
+Topic 3:
+  key:1.93
+  fixed:1.93
+  pgp:1.93
+  account:0.86
+  forward:0.86
+  log:0.86
+  acidcat:0.86
+  vendors:0.86
+  message:0.86
+  agra vendors:0.86
+
+Topic 4:
+  place:0.59
+  people:0.56
+  reccomend:0.56
+  caught:0.56
+  vendor:0.56
+  mods:0.56
+  beauty:0.56
+  booted:0.56
+  product:0.56
+  work:0.56
+
+K: 5, Log-Likelihood: -665.079, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  zaphod:4.84
+  june:3.83
+  series:1.51
+  photo:1.49
+  digitaldong:1.46
+  quote:1.45
+  hell:1.41
+  man:1.37
+  space:1.32
+  beeblebrox:0.84
+
+Topic 1:
+  keys:9.37
+  gpg:4.82
+  key:4.13
+  manage:3.85
+  secret:3.66
+  private:3.55
+  usb:3.50
+  gog:2.77
+  command:2.67
+  export:2.49
+
+Topic 2:
+  private:9.46
+  key:6.64
+  account:6.37
+  manage:4.57
+  keys:4.01
+  export:4.00
+  gog:3.73
+  pvt:3.69
+  gpg:3.67
+  usb:3.23
+
+Topic 3:
+  public:2.24
+  gpg:2.18
+  key:1.89
+  win:1.09
+  quote:1.08
+  usb:1.00
+  useless:1.00
+  zaphod:1.00
+  june:0.93
+  digitaldong:0.88
+
+Topic 4:
+  zaphod:7.86
+  june:6.96
+  pmquote:3.21
+  hell:3.12
+  photo:3.02
+  series:2.96
+  zaphon:2.93
+  hitchhikers:2.92
+  galaxy:2.91
+  tv:2.88
+
+K: 5, Log-Likelihood: -1687.208, Alpha: 11.000, Beta: 1.100

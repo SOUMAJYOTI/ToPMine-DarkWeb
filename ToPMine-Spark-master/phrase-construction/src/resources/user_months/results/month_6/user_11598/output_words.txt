@@ -1,0 +1,61 @@
+Topic 0:
+  february:5.08
+  hard:3.07
+  fuck:2.58
+  codebase:2.23
+  database:2.22
+  sheep:2.08
+  whyusheep:1.88
+  quote:1.83
+  utopia:1.78
+  markets:1.74
+
+Topic 1:
+  february:3.00
+  quote:2.53
+  man:1.63
+  whyusheep:1.47
+  details:1.44
+  gwern:1.11
+  shit:1.09
+  money:1.09
+  ddos:1.08
+  admins:1.08
+
+Topic 2:
+  february:4.76
+  quote:2.57
+  whyusheep:2.29
+  details:1.86
+  hard:1.72
+  man:1.70
+  shit:1.54
+  gwern:1.53
+  future:1.24
+  selling:1.19
+
+Topic 3:
+  money:4.24
+  dont:3.65
+  war:2.49
+  funds:2.36
+  february:2.13
+  le:2.04
+  takes:1.90
+  pull:1.89
+  shutting:1.85
+  fucking:1.84
+
+Topic 4:
+  thing:4.13
+  whyusheep:3.79
+  time:3.22
+  february:3.03
+  quote:2.34
+  sr:1.98
+  details:1.54
+  today:1.49
+  heard:1.49
+  lol:1.49
+
+K: 5, Log-Likelihood: -2809.002, Alpha: 11.000, Beta: 1.100

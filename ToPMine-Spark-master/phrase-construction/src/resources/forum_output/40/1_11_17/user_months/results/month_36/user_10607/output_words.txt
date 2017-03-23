@@ -1,0 +1,61 @@
+Topic 0:
+  security:1.31
+  tor:1.30
+  tails:1.18
+  system:0.80
+  isolation:0.79
+  check:0.55
+  good:0.50
+  linux:0.46
+  whonix:0.43
+  os:0.42
+
+Topic 1:
+  local:9.13
+  includes:5.94
+  tor:4.47
+  socksport:3.94
+  tails:3.41
+  isolatedestaddr:2.94
+  enableddedicated:2.94
+  configured:2.19
+  isolation:2.17
+  browser:2.10
+
+Topic 2:
+  port:3.26
+  idea:2.44
+  ssh:1.95
+  isolating:1.95
+  http:1.95
+  requests:1.95
+  protocol:1.17
+  good:1.13
+  people:1.05
+  wrong:1.04
+
+Topic 3:
+  os:10.25
+  tor:7.30
+  whonix:5.80
+  design:4.97
+  traffic:4.84
+  security:4.38
+  gateway:3.93
+  vm:3.84
+  arch:3.78
+  linux:3.71
+
+Topic 4:
+  dns:3.93
+  wrote:3.93
+  ip:3.93
+  whonix:3.69
+  hours:2.93
+  time:2.86
+  arch:2.79
+  linux:2.76
+  security:2.53
+  leaking:1.96
+
+K: 5, Log-Likelihood: -3603.324, Alpha: 11.000, Beta: 1.100

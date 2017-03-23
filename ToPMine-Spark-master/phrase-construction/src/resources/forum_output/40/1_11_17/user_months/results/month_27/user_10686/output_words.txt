@@ -1,0 +1,61 @@
+Topic 0:
+  tracking:1.76
+  tor:1.44
+  package:1.27
+  track:1.20
+  packages:0.81
+  activity:0.77
+  delivery:0.61
+  profile:0.41
+  dont:0.41
+  monitor:0.40
+
+Topic 1:
+  tracking:2.17
+  package:1.37
+  tor:1.36
+  track:1.14
+  activity:0.95
+  packages:0.80
+  delivery:0.56
+  profile:0.43
+  dont:0.43
+  monitor:0.43
+
+Topic 2:
+  tor:1.49
+  track:1.41
+  tracking:1.01
+  package:0.99
+  packages:0.81
+  activity:0.66
+  delivery:0.64
+  estimated:0.44
+  concrete:0.44
+  datewould:0.44
+
+Topic 3:
+  tracking:1.31
+  tor:1.28
+  track:1.11
+  package:0.98
+  packages:0.79
+  activity:0.76
+  delivery:0.60
+  public:0.45
+  avoid:0.45
+  concrete:0.42
+
+Topic 4:
+  tracking:1.75
+  tor:1.42
+  package:1.38
+  track:1.14
+  activity:0.86
+  packages:0.79
+  delivery:0.59
+  dont:0.41
+  monitor:0.41
+  profile:0.41
+
+K: 5, Log-Likelihood: -435.502, Alpha: 11.000, Beta: 1.100

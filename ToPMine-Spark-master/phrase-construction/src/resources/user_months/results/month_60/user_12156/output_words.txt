@@ -1,0 +1,61 @@
+Topic 0:
+  security:4.89
+  tor:3.14
+  extra:2.30
+  reason:2.17
+  lb:1.81
+  log:1.54
+  future:1.50
+  quote:1.31
+  standard:1.27
+  guys:1.27
+
+Topic 1:
+  tor:3.88
+  quote:2.18
+  herbanlegends:1.99
+  lb:1.47
+  find:1.46
+  verification:1.44
+  human:1.39
+  circuits:1.36
+  security:1.16
+  login:1.07
+
+Topic 2:
+  people:7.15
+  club:4.67
+  time:4.51
+  opsec:3.83
+  october:3.58
+  clearnet:3.38
+  lb:3.24
+  generally:2.85
+  human:2.72
+  verification:2.70
+
+Topic 3:
+  tor:29.33
+  address:17.50
+  deposit:13.48
+  login:11.63
+  copy:7.60
+  september:6.05
+  safely:5.67
+  separate:3.65
+  normal:3.65
+  grab:3.65
+
+Topic 4:
+  js:5.52
+  tor:5.25
+  javascript:3.44
+  buying:2.91
+  enabled:2.61
+  enable:2.16
+  secure:1.92
+  safer:1.92
+  learned:1.92
+  ip:1.78
+
+K: 5, Log-Likelihood: -2843.209, Alpha: 11.000, Beta: 1.100

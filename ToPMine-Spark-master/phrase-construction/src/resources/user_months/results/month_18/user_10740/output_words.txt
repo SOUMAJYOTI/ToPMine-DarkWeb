@@ -1,0 +1,61 @@
+Topic 0:
+  coins:3.17
+  sounds:2.79
+  btc:1.96
+  works:1.90
+  havent:1.33
+  clean:0.99
+  blockchain:0.99
+  market:0.98
+  hope:0.91
+  dark:0.91
+
+Topic 1:
+  grams:3.70
+  helix:1.24
+  users:1.23
+  dont:1.20
+  darknet:1.11
+  bitcoin:0.76
+  coins:0.62
+  server:0.55
+  deleted:0.52
+  read:0.52
+
+Topic 2:
+  grams:16.67
+  helix:13.54
+  account:4.25
+  bitcoin:3.99
+  fee:3.91
+  darknet:3.20
+  security:3.12
+  address:3.07
+  server:3.06
+  entry:2.91
+
+Topic 3:
+  grams:11.85
+  track:6.80
+  transactions:5.77
+  dont:4.99
+  key:4.90
+  days:3.82
+  siezed:3.80
+  doesn:3.80
+  user:3.78
+  market:3.68
+
+Topic 4:
+  markets:2.47
+  data:2.29
+  compromised:2.09
+  received:1.93
+  worth:1.93
+  organization:1.93
+  assume:1.34
+  users:1.34
+  feedback:1.10
+  rely:1.10
+
+K: 5, Log-Likelihood: -2812.253, Alpha: 11.000, Beta: 1.100

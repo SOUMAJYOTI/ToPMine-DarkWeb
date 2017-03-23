@@ -1,0 +1,61 @@
+Topic 0:
+  tryptam:0.28
+  problem:0.28
+  account:0.17
+  contact:0.14
+  lotterie:0.14
+  bycicleday:0.14
+  big:0.14
+  hy:0.14
+  original:0.14
+  verifie:0.14
+
+Topic 1:
+  tryptam:0.28
+  problem:0.28
+  account:0.17
+  changed:0.14
+  namaste:0.14
+  contact:0.14
+  hmmmplease:0.14
+  lotterie:0.14
+  password:0.14
+  hy:0.14
+
+Topic 2:
+  problem:0.28
+  tryptam:0.28
+  account:0.17
+  glad:0.14
+  profile:0.14
+  sorted:0.14
+  disappear:0.14
+  actions:0.14
+  settings:0.14
+  lol:0.14
+
+Topic 3:
+  tryptam:0.28
+  problem:0.28
+  account:0.17
+  bycicleday:0.14
+  verifie:0.14
+  big:0.14
+  changed:0.14
+  original:0.14
+  hmmmplease:0.14
+  contact:0.14
+
+Topic 4:
+  tryptam:0.28
+  problem:0.28
+  account:0.17
+  lol:0.14
+  profile:0.14
+  settings:0.14
+  actions:0.14
+  sorted:0.14
+  disappear:0.14
+  glad:0.14
+
+K: 5, Log-Likelihood: -73.924, Alpha: 11.000, Beta: 1.100

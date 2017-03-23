@@ -1,0 +1,61 @@
+Topic 0:
+  tor:1.35
+  bitcoin:1.13
+  core:1.06
+  hidden:0.63
+  onion:0.59
+  control:0.40
+  nodes:0.40
+  socket:0.40
+  automatically:0.40
+  feature:0.40
+
+Topic 1:
+  tor:1.49
+  bitcoin:1.36
+  core:1.34
+  onion:0.64
+  hidden:0.58
+  version:0.40
+  socket:0.40
+  automatically:0.40
+  control:0.39
+  feature:0.39
+
+Topic 2:
+  core:1.37
+  tor:1.19
+  bitcoin:1.03
+  onion:0.60
+  hidden:0.58
+  feature:0.41
+  nodes:0.41
+  commands:0.40
+  automatically:0.40
+  version:0.40
+
+Topic 3:
+  bitcoin:1.32
+  core:1.23
+  tor:1.22
+  hidden:0.61
+  onion:0.59
+  version:0.40
+  control:0.40
+  nodes:0.40
+  commands:0.40
+  feature:0.40
+
+Topic 4:
+  tor:1.75
+  bitcoin:1.15
+  core:1.00
+  hidden:0.60
+  onion:0.57
+  socket:0.40
+  automatically:0.40
+  commands:0.40
+  nodes:0.40
+  control:0.40
+
+K: 5, Log-Likelihood: -361.017, Alpha: 11.000, Beta: 1.100

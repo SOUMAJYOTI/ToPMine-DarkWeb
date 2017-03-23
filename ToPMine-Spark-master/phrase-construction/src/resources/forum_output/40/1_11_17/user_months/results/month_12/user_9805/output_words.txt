@@ -1,0 +1,61 @@
+Topic 0:
+  traumas:1.01
+  time:1.00
+  lsd:1.00
+  effects:0.99
+  side:0.98
+  unravel:0.40
+  muscle:0.40
+  talking:0.40
+  cells:0.40
+  agonist:0.40
+
+Topic 1:
+  benzo:0.49
+  work:0.43
+  body:0.42
+  jaw:0.42
+  people:0.42
+  clenching:0.42
+  trip:0.42
+  amount:0.42
+  xanax:0.35
+  stomach:0.34
+
+Topic 2:
+  benzo:0.62
+  stomach:0.43
+  xanax:0.42
+  amount:0.42
+  people:0.42
+  jaw:0.42
+  trip:0.42
+  clenching:0.42
+  work:0.42
+  body:0.42
+
+Topic 3:
+  effects:0.46
+  side:0.46
+  lsd:0.45
+  time:0.45
+  traumas:0.44
+  amount:0.42
+  body:0.42
+  trip:0.42
+  people:0.42
+  clenching:0.42
+
+Topic 4:
+  benzo:1.55
+  valium:0.97
+  stomach:0.96
+  xanax:0.95
+  mild:0.39
+  referred:0.39
+  gang:0.39
+  load:0.39
+  experience:0.39
+  peoples:0.39
+
+K: 5, Log-Likelihood: -455.769, Alpha: 11.000, Beta: 1.100

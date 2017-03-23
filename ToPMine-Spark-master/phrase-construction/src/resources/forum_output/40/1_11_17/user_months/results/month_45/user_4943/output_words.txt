@@ -1,0 +1,61 @@
+Topic 0:
+  link:5.02
+  godself:4.23
+  thread:3.51
+  browser:2.99
+  summa:2.30
+  report:2.03
+  ug:2.01
+  strong:1.86
+  tabs:1.80
+  agora:1.53
+
+Topic 1:
+  godself:9.61
+  thread:4.72
+  strong:3.63
+  half:3.57
+  agora:3.53
+  tabs:3.15
+  print:2.75
+  vendors:2.74
+  hear:2.74
+  guess:2.74
+
+Topic 2:
+  agora:4.84
+  active:3.86
+  godself:2.96
+  thread:1.74
+  summa:1.67
+  link:1.49
+  vendor:1.42
+  ug:1.23
+  report:1.19
+  orange:1.16
+
+Topic 3:
+  link:9.02
+  click:6.02
+  browser:5.12
+  germany:4.25
+  weekend:4.17
+  open:3.81
+  april:3.73
+  quote:3.66
+  tab:3.61
+  select:3.60
+
+Topic 4:
+  strong:6.98
+  half:3.50
+  tabs:3.42
+  bought:2.83
+  ale:2.79
+  great:2.55
+  peace:1.81
+  sounds:1.81
+  time:1.81
+  positive:1.81
+
+K: 5, Log-Likelihood: -2541.735, Alpha: 11.000, Beta: 1.100

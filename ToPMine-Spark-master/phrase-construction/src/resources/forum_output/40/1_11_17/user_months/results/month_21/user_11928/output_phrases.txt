@@ -1,0 +1,61 @@
+Topic 0:
+  hours:0.58
+  shit:0.58
+  equal:0.57
+  problem:0.51
+  agora:0.50
+  saturday:0.48
+  amount:0.48
+  log:0.48
+  pmafter:0.48
+  trades:0.48
+
+Topic 1:
+  agora:0.57
+  usual:0.52
+  problem:0.44
+  time:0.42
+  lot:0.42
+  wait:0.42
+  bit:0.42
+  ta:0.42
+  continue:0.39
+  times:0.39
+
+Topic 2:
+  file:5.19
+  check:2.44
+  insert:2.44
+  login:2.44
+  enter:2.44
+  deleted:1.08
+  capitalization:1.08
+  error:1.08
+  agra:1.08
+  moved:1.08
+
+Topic 3:
+  agora:0.60
+  problem:0.53
+  shit:0.51
+  equal:0.51
+  hours:0.50
+  usual:0.45
+  people:0.37
+  loading:0.36
+  posacenere:0.36
+  quote:0.36
+
+Topic 4:
+  agora:0.61
+  usual:0.55
+  problem:0.54
+  hours:0.44
+  equal:0.43
+  shit:0.43
+  tomorrow:0.41
+  feel:0.41
+  stable:0.41
+  vendor:0.41
+
+K: 5, Log-Likelihood: -428.344, Alpha: 11.000, Beta: 1.100

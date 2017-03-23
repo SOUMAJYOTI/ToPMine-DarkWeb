@@ -1,0 +1,61 @@
+Topic 0:
+  cards anonymous:4.50
+  verify:3.38
+  info:3.32
+  registering:2.14
+  ready:2.14
+  anywho:2.14
+  considered:2.14
+  havent:2.14
+  interested:2.14
+  anonymity:2.14
+
+Topic 1:
+  bitcoin:4.10
+  hedging:3.14
+  periods:3.14
+  short:3.14
+  buy:3.14
+  hold:3.14
+  bank account:1.90
+  bitcoins clean:1.54
+  aswell:1.54
+  straight:1.54
+
+Topic 2:
+  anon:1.32
+  btc:0.98
+  gon:0.93
+  reading:0.92
+  bitstamp:0.92
+  net:0.92
+  money card:0.88
+  friendly:0.88
+  ami:0.87
+  licketysplit:0.87
+
+Topic 3:
+  half:4.41
+  understand:3.28
+  making:2.08
+  reload:2.08
+  reviews:2.08
+  real:2.08
+  link:2.08
+  buying:2.08
+  user:2.08
+  image:2.08
+
+Topic 4:
+  quote:1.30
+  btc:1.29
+  anon:0.95
+  withdraw chance scam announced:0.71
+  plan launder btc:0.70
+  method plan launches:0.70
+  polish:0.67
+  info order:0.66
+  btc btc:0.65
+  yesprepaid:0.65
+
+K: 5, Log-Likelihood: -2000.178, Alpha: 11.000, Beta: 1.100

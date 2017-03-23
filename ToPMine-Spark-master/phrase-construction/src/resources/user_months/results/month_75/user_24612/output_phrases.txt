@@ -1,0 +1,61 @@
+Topic 0:
+  valhalla:0.37
+  offer:0.31
+  book listings:0.31
+  items:0.31
+  hansa:0.20
+  members:0.20
+  profile:0.20
+  march:0.20
+  pckabmlnote:0.20
+  carding:0.20
+
+Topic 1:
+  valhalla:0.37
+  items:0.31
+  offer:0.31
+  book listings:0.31
+  buy:0.20
+  hansa:0.20
+  free:0.20
+  great:0.20
+  reading:0.20
+  ends:0.20
+
+Topic 2:
+  valhalla:0.37
+  offer:0.31
+  items:0.31
+  book listings:0.30
+  buy:0.20
+  free:0.20
+  reading:0.20
+  day:0.20
+  carding:0.20
+  pckabmlnote:0.20
+
+Topic 3:
+  valhalla:0.37
+  items:0.31
+  offer:0.31
+  book listings:0.30
+  buy:0.20
+  profile:0.20
+  march:0.20
+  day:0.20
+  premium:0.20
+  fraud:0.20
+
+Topic 4:
+  valhalla:0.36
+  book listings:0.31
+  offer:0.31
+  items:0.31
+  hansa:0.21
+  sold:0.20
+  ends:0.20
+  march:0.20
+  reading:0.20
+  premium:0.20
+
+K: 5, Log-Likelihood: -226.589, Alpha: 11.000, Beta: 1.100

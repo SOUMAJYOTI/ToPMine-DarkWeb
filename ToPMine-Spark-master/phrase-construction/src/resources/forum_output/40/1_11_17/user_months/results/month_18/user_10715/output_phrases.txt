@@ -1,0 +1,61 @@
+Topic 0:
+  guide:0.69
+  link:0.57
+  dont:0.53
+  computer:0.49
+  bunch:0.48
+  download:0.46
+  mate:0.45
+  paypal:0.38
+  onion:0.38
+  market:0.38
+
+Topic 1:
+  mate:0.94
+  download:0.65
+  guide:0.63
+  bunch:0.61
+  dont:0.58
+  link:0.53
+  chance:0.43
+  ya:0.43
+  owe:0.43
+  eye:0.42
+
+Topic 2:
+  link:0.75
+  guide:0.72
+  dont:0.67
+  man:0.52
+  check:0.51
+  anonfiles:0.51
+  forum:0.51
+  open random:0.51
+  community:0.51
+  noon:0.51
+
+Topic 3:
+  mate:1.39
+  download:0.74
+  bunch:0.74
+  eye:0.58
+  ya:0.58
+  tomorrow:0.58
+  files:0.57
+  owe:0.57
+  ill:0.57
+  chance:0.57
+
+Topic 4:
+  computer:0.89
+  cleaning:0.61
+  herpes:0.61
+  digital:0.61
+  number:0.61
+  downloads:0.61
+  treat:0.61
+  unknown:0.61
+  guide:0.57
+  save:0.44
+
+K: 5, Log-Likelihood: -421.202, Alpha: 11.000, Beta: 1.100

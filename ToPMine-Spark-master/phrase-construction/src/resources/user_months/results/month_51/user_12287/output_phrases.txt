@@ -1,0 +1,61 @@
+Topic 0:
+  pit:0.86
+  suurkuluttaja:0.81
+  tarvi:0.81
+  asia:0.80
+  sen:0.80
+  olen:0.80
+  kattelin:0.80
+  hinnalla:0.80
+  itten:0.80
+  kattoa:0.80
+
+Topic 1:
+  ker:1.12
+  vaihtoehtona:1.12
+  suomessa:1.12
+  yli:1.12
+  hippiespace:1.12
+  pitk:1.12
+  kukaan:1.12
+  eik:1.12
+  tuntuu:1.12
+  oo:1.12
+
+Topic 2:
+  tulossa:0.86
+  kautta:0.85
+  viel:0.85
+  pulverinoita:0.69
+  nyt:0.62
+  ei:0.62
+  ll viikolla:0.50
+  netting:0.50
+  nopeemmin:0.50
+  niin:0.50
+
+Topic 3:
+  pit:0.71
+  nyt:0.50
+  vapautus:0.45
+  hankittu:0.45
+  tutkarit:0.45
+  todellakin:0.45
+  netin:0.45
+  tyyk:0.45
+  kiitos:0.45
+  netting:0.45
+
+Topic 4:
+  ja:2.83
+  silkkitien:2.61
+  iv:2.61
+  ku:2.61
+  euroa:2.61
+  ei:1.93
+  tuotteita:1.24
+  vaikka:1.24
+  nauttimaan:1.24
+  iltap:1.24
+
+K: 5, Log-Likelihood: -1451.151, Alpha: 11.000, Beta: 1.100

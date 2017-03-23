@@ -1,0 +1,61 @@
+Topic 0:
+  pin:1.90
+  message:1.68
+  error:1.51
+  top:1.07
+  kind:0.51
+  small:0.50
+  withdrawal:0.50
+  fails:0.50
+  change:0.42
+  process:0.40
+
+Topic 1:
+  pin:1.56
+  process:0.70
+  error:0.64
+  message:0.63
+  top:0.60
+  hope:0.48
+  bitcoin:0.46
+  account:0.46
+  withdraw:0.46
+  change:0.39
+
+Topic 2:
+  pin:1.56
+  message:0.72
+  error:0.71
+  top:0.68
+  process:0.67
+  bitcoin:0.46
+  account:0.46
+  withdraw:0.45
+  hope:0.42
+  change:0.39
+
+Topic 3:
+  error:1.56
+  message:1.40
+  pin:1.34
+  top:1.14
+  withdrawal:0.52
+  fails:0.51
+  small:0.51
+  kind:0.51
+  process:0.41
+  change:0.40
+
+Topic 4:
+  pin:1.64
+  process:0.82
+  error:0.58
+  message:0.56
+  top:0.52
+  withdraw:0.49
+  account:0.49
+  hope:0.47
+  bitcoin:0.46
+  change:0.40
+
+K: 5, Log-Likelihood: -363.917, Alpha: 11.000, Beta: 1.100

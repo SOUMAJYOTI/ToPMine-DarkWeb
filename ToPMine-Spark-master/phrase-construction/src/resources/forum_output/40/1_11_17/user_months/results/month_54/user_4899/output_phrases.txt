@@ -1,0 +1,61 @@
+Topic 0:
+  mailchuck:3.74
+  lelantos:3.18
+  option:2.53
+  bitmessage:1.80
+  free sigaint:1.80
+  september:1.80
+  amlelantos:1.80
+  paid:1.80
+  lol:1.80
+  time:1.80
+
+Topic 1:
+  btc:3.61
+  ny:2.12
+  altcoins:1.93
+  shapeshift:1.70
+  coin:1.70
+  simply:1.70
+  legislation:1.70
+  people:1.70
+  apply:1.70
+  rules:1.70
+
+Topic 2:
+  minds:2.73
+  concept:2.73
+  high:2.73
+  edit:2.72
+  pondering:2.72
+  broaden:2.72
+  east:2.72
+  point:2.72
+  coast:2.72
+  options:2.72
+
+Topic 3:
+  godspeed:2.75
+  method:2.75
+  individuals:2.75
+  cryptocurrencies:2.75
+  applies:2.75
+  pretty:2.74
+  businesses:2.74
+  sell:2.74
+  luck:2.74
+  good:2.02
+
+Topic 4:
+  messages:2.75
+  coming:2.62
+  sigaint:2.16
+  days:1.83
+  spam:1.83
+  chuck:1.83
+  normal:1.83
+  late:1.83
+  spotty:1.83
+  full:1.83
+
+K: 5, Log-Likelihood: -1215.108, Alpha: 11.000, Beta: 1.100

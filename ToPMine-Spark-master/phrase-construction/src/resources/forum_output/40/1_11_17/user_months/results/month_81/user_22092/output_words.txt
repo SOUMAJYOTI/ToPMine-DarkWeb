@@ -1,0 +1,61 @@
+Topic 0:
+  account:0.61
+  lbc:0.54
+  anonymity:0.50
+  person:0.45
+  set:0.37
+  small:0.37
+  cash:0.35
+  buying:0.32
+  long:0.32
+  rate:0.32
+
+Topic 1:
+  account:2.62
+  linked:1.55
+  safest:1.55
+  bitcoin:1.55
+  step:1.54
+  anonymous:1.53
+  realize:0.66
+  family:0.66
+  local:0.66
+  noob:0.66
+
+Topic 2:
+  mail:2.65
+  anon:2.65
+  buying:0.74
+  lbc:0.73
+  selling:0.72
+  amounts:0.72
+  talking:0.72
+  start:0.72
+  undercover:0.72
+  stick:0.72
+
+Topic 3:
+  lbc:0.80
+  person:0.66
+  cash:0.47
+  buying:0.45
+  rate:0.42
+  clean:0.42
+  sellers:0.42
+  long:0.42
+  libertyx:0.42
+  time:0.42
+
+Topic 4:
+  person:2.67
+  cash:1.99
+  face:1.31
+  record:1.09
+  computer:1.09
+  move:1.09
+  public:1.09
+  coin:1.09
+  library:1.09
+  transactions:1.09
+
+K: 5, Log-Likelihood: -628.646, Alpha: 11.000, Beta: 1.100

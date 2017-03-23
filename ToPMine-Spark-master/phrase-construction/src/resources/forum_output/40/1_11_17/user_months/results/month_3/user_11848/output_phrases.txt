@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.78
+  favorites:0.60
+  add:0.59
+  button:0.59
+  wanted:0.59
+  nice:0.59
+  read:0.59
+  interesting:0.59
+  interface:0.59
+  fast:0.50
+
+Topic 1:
+  scheme:1.34
+  months:0.67
+  running:0.64
+  place:0.64
+  owned:0.62
+  question:0.61
+  days:0.60
+  forums:0.60
+  people:0.59
+  moderator:0.44
+
+Topic 2:
+  market:2.11
+  tuts:0.87
+  growing:0.87
+  extremely:0.87
+  fraud:0.87
+  large:0.87
+  emerging:0.86
+  products:0.86
+  find:0.86
+  excellent:0.86
+
+Topic 3:
+  scheme:0.59
+  site:0.45
+  forum:0.45
+  moderator:0.44
+  march:0.39
+  quote:0.39
+  shingleshark:0.38
+  read:0.37
+  button:0.37
+  interesting:0.37
+
+Topic 4:
+  scheme:4.15
+  people:1.44
+  days:1.42
+  forums:1.41
+  question:1.41
+  owned:1.39
+  place:1.37
+  running:1.36
+  months:1.34
+  join:0.58
+
+K: 5, Log-Likelihood: -598.369, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  site:22.98
+  vendor:16.86
+  good:16.81
+  november:16.41
+  ll:13.98
+  market:13.05
+  nature:13.02
+  full:12.17
+  ill:11.97
+  weeks:11.90
+
+Topic 1:
+  vendor:54.40
+  system:24.85
+  user:13.69
+  private:13.46
+  vendors:13.00
+  users:12.70
+  item:11.75
+  list:11.16
+  stock:10.98
+  security:10.40
+
+Topic 2:
+  site:14.43
+  scam:5.50
+  water:4.91
+  market:4.79
+  mem:3.84
+  post:3.76
+  balance:3.66
+  exit:2.84
+  people:2.81
+  boiling:2.68
+
+Topic 3:
+  vendors:31.30
+  vendor:20.12
+  people:14.05
+  market:12.71
+  trusted:12.63
+  community:11.56
+  working:10.87
+  idea:10.51
+  work:10.15
+  mediate:9.92
+
+Topic 4:
+  system:42.62
+  vendors:36.49
+  wallet:35.46
+  bitchain:29.93
+  site:22.15
+  backup:20.93
+  time:20.74
+  text:17.93
+  website:17.93
+  darknet:16.74
+
+K: 5, Log-Likelihood: -26000.875, Alpha: 11.000, Beta: 1.100

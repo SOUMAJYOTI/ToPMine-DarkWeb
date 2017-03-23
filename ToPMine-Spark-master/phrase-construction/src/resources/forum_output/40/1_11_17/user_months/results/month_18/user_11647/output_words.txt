@@ -1,0 +1,61 @@
+Topic 0:
+  tor:0.20
+  papers:0.20
+  published:0.20
+  road:0.20
+  undertook:0.20
+  service:0.20
+  downloaded:0.20
+  problems:0.20
+  link:0.20
+  hosting:0.20
+
+Topic 1:
+  problems:0.20
+  delighted:0.20
+  accessing:0.20
+  hosting:0.20
+  silk:0.20
+  downloaded:0.20
+  link:0.20
+  road:0.20
+  papers:0.20
+  undertook:0.20
+
+Topic 2:
+  itthankstim:0.20
+  service:0.20
+  undertook:0.20
+  delighted:0.20
+  published:0.20
+  accessing:0.20
+  file:0.20
+  hosting:0.20
+  problems:0.20
+  link:0.20
+
+Topic 3:
+  silk:0.20
+  delighted:0.20
+  road:0.20
+  file:0.20
+  accessing:0.20
+  undertook:0.20
+  papers:0.20
+  hosting:0.20
+  link:0.20
+  published:0.20
+
+Topic 4:
+  itthankstim:0.20
+  tor:0.20
+  file:0.20
+  downloaded:0.20
+  link:0.20
+  service:0.20
+  papers:0.20
+  road:0.20
+  problems:0.20
+  accessing:0.20
+
+K: 5, Log-Likelihood: -40.621, Alpha: 11.000, Beta: 1.100

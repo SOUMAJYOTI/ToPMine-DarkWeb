@@ -1,0 +1,61 @@
+Topic 0:
+  vpn:14.81
+  tails:13.21
+  tor:9.92
+  middlebox:5.51
+  layer:5.37
+  router:4.86
+  january:2.92
+  set:2.68
+  benefit:2.65
+  vpon:2.13
+
+Topic 1:
+  message:3.95
+  hang:2.81
+  february:2.81
+  tang:2.80
+  released:2.72
+  dairy:2.72
+  asshole:2.72
+  trump:2.72
+  cream:2.72
+  jerrys:2.71
+
+Topic 2:
+  router:14.97
+  middlebox:10.37
+  january:8.99
+  dedicated:7.26
+  vpon:7.12
+  connect:6.73
+  access:4.87
+  mb:4.84
+  doesnt:4.75
+  usual:4.70
+
+Topic 3:
+  tor:12.49
+  vpn:8.07
+  tails:6.47
+  netsec:3.95
+  strong:3.95
+  browser:3.77
+  approach:3.77
+  serves:3.77
+  security:3.28
+  exit:2.95
+
+Topic 4:
+  router:8.12
+  vpn:7.81
+  vpon:5.64
+  tails:4.78
+  amquote:4.41
+  middlebox:4.36
+  set:4.02
+  january:3.70
+  option:3.57
+  point:3.02
+
+K: 5, Log-Likelihood: -4043.446, Alpha: 11.000, Beta: 1.100

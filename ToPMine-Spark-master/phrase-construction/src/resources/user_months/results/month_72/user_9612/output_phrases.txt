@@ -1,0 +1,61 @@
+Topic 0:
+  username:0.28
+  key:0.28
+  dumb question pgp:0.17
+  pgp:0.14
+  smoak:0.14
+  amthis:0.14
+  xncsux:0.14
+  setup:0.14
+  quote:0.14
+  set:0.14
+
+Topic 1:
+  key:0.28
+  username:0.28
+  dumb question pgp:0.17
+  legitimacy:0.14
+  mail:0.14
+  account:0.14
+  persons:0.14
+  amthis:0.14
+  set:0.14
+  smoak:0.14
+
+Topic 2:
+  key:0.28
+  username:0.28
+  dumb question pgp:0.17
+  legitimacy:0.14
+  account:0.14
+  persons:0.14
+  mail:0.14
+  xncsux:0.14
+  quote:0.14
+  hedging:0.14
+
+Topic 3:
+  username:0.28
+  key:0.28
+  dumb question pgp:0.17
+  pgp:0.14
+  set:0.14
+  setup:0.14
+  vary:0.14
+  quote:0.14
+  wrong:0.14
+  smoak:0.14
+
+Topic 4:
+  key:0.28
+  username:0.28
+  dumb question pgp:0.17
+  mail:0.14
+  account:0.14
+  persons:0.14
+  legitimacy:0.14
+  lighnlove:0.14
+  january:0.14
+  vary:0.14
+
+K: 5, Log-Likelihood: -44.399, Alpha: 11.000, Beta: 1.100

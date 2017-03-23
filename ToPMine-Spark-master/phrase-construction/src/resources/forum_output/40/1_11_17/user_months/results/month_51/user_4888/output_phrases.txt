@@ -1,0 +1,61 @@
+Topic 0:
+  mail:0.24
+  letter:0.16
+  postman:0.16
+  customs:0.16
+  registered mail:0.16
+  safe:0.16
+  express:0.16
+  release:0.08
+  huge:0.08
+  address:0.08
+
+Topic 1:
+  mail:0.24
+  postman:0.16
+  express:0.16
+  customs:0.16
+  letter:0.16
+  registered mail:0.16
+  safe:0.16
+  real:0.08
+  paper:0.08
+  signature:0.08
+
+Topic 2:
+  mail:0.24
+  registered mail:0.16
+  safe:0.16
+  express:0.16
+  customs:0.16
+  letter:0.16
+  postman:0.16
+  watching:0.08
+  worse:0.08
+  months:0.08
+
+Topic 3:
+  mail:0.24
+  safe:0.16
+  letter:0.16
+  express:0.16
+  registered mail:0.16
+  customs:0.16
+  postman:0.16
+  sweat:0.08
+  letters:0.08
+  people:0.08
+
+Topic 4:
+  mail:0.24
+  postman:0.16
+  letter:0.16
+  safe:0.16
+  registered mail:0.16
+  express:0.16
+  customs:0.16
+  risk:0.08
+  delivers:0.08
+  le:0.08
+
+K: 5, Log-Likelihood: -131.899, Alpha: 11.000, Beta: 1.100

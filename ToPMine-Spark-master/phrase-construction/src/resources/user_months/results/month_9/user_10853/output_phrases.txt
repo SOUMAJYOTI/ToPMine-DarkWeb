@@ -1,0 +1,61 @@
+Topic 0:
+  full disk encryption:3.38
+  linus:2.65
+  encrypted:2.14
+  wandering:2.14
+  fbi:2.13
+  le:2.13
+  cases:2.13
+  troubles:2.13
+  tools:2.13
+  everyonei:2.13
+
+Topic 1:
+  ram:3.38
+  cold boot:2.96
+  brands:2.95
+  computer shut:2.92
+  keys:2.22
+  prevent:1.89
+  wipe:1.89
+  removed:1.88
+  backups:1.88
+  attack:1.88
+
+Topic 2:
+  em:3.09
+  picking:2.26
+  guessed:2.26
+  passphrase:2.26
+  level des based broken:2.26
+  assume:2.26
+  worried:2.26
+  data:2.26
+  encrusted:2.26
+  good:2.26
+
+Topic 3:
+  physical:3.11
+  random:3.11
+  attacker:1.89
+  feasible:1.88
+  quote owockeznan march:1.54
+  force:1.52
+  thing:1.52
+  protection:1.52
+  vulnerable:1.52
+  spots:1.52
+
+Topic 4:
+  freeze:1.79
+  mode:1.54
+  storage:1.54
+  hafta:1.54
+  caching:1.54
+  reference:1.54
+  damage:1.54
+  problem:1.54
+  cold:1.54
+  files:1.54
+
+K: 5, Log-Likelihood: -1789.809, Alpha: 11.000, Beta: 1.100

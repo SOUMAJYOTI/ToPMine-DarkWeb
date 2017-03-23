@@ -1,0 +1,61 @@
+Topic 0:
+  seller:6.67
+  marketplace:6.63
+  key:5.89
+  verify:5.79
+  label:5.71
+  markets:3.72
+  marketplaces:3.30
+  public:3.25
+  pgp:2.89
+  vendors:2.37
+
+Topic 1:
+  market:6.32
+  pandora:4.99
+  selling:4.99
+  guys:3.56
+  verified:2.85
+  sugar:2.76
+  redacted:2.75
+  load:2.74
+  hai:2.73
+  reaceived:2.72
+
+Topic 2:
+  marketplace:3.85
+  vendor:3.55
+  verified:2.71
+  frconnection:2.33
+  link:1.77
+  post:1.63
+  hub:1.38
+  thread:1.29
+  market:1.08
+  follow:1.02
+
+Topic 3:
+  vendor:5.16
+  link:4.05
+  verified:2.46
+  time:1.94
+  post:1.89
+  hub:1.84
+  market:1.60
+  frconnection:1.60
+  profile:1.47
+  official:1.35
+
+Topic 4:
+  vendor:7.20
+  rule:4.76
+  products:4.73
+  profile:3.97
+  pm:3.81
+  link:3.23
+  sharing:2.99
+  hub:2.94
+  staff:2.20
+  deleted:2.20
+
+K: 5, Log-Likelihood: -2250.783, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  onionshop:3.05
+  prevent:2.60
+  adlyd:2.18
+  attacking:2.13
+  quote:2.09
+  mon:2.01
+  september:1.90
+  node:1.73
+  botnets:1.48
+  orders:1.27
+
+Topic 1:
+  site:6.12
+  tor:4.54
+  botnets:3.82
+  perform:3.50
+  attack:3.17
+  btc:2.29
+  long:2.25
+  burn:2.00
+  pay:1.68
+  backbone:1.66
+
+Topic 2:
+  post:4.28
+  september:2.62
+  quote:2.39
+  offline:2.37
+  onionshop:1.91
+  days:1.60
+  dont:1.46
+  leave:1.34
+  dime:1.23
+  member:1.23
+
+Topic 3:
+  site:3.18
+  btc:2.52
+  attack:2.43
+  botnets:1.90
+  pay:1.69
+  tor:1.28
+  staff:1.24
+  long:1.19
+  leave:1.13
+  perform:1.08
+
+Topic 4:
+  site:6.01
+  time:5.43
+  easy:3.78
+  cloudflare:3.45
+  tor:2.94
+  servers:2.62
+  money:2.31
+  botnets:2.04
+  attack:2.03
+  protection:1.91
+
+K: 5, Log-Likelihood: -2742.453, Alpha: 11.000, Beta: 1.100

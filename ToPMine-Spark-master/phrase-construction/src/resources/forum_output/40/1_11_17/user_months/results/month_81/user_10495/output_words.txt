@@ -1,0 +1,61 @@
+Topic 0:
+  nucleus:35.78
+  btc:9.80
+  deposits:8.55
+  withdraws:7.92
+  problems:7.89
+  wallet:7.80
+  quote:6.91
+  pretty:6.31
+  december:5.93
+  atm:5.74
+
+Topic 1:
+  accounts:20.77
+  onion:20.69
+  time:18.07
+  security:17.90
+  multisig:16.62
+  bond:15.85
+  allowed:14.99
+  flaws:13.99
+  key:13.98
+  prior:12.99
+
+Topic 2:
+  market:18.72
+  address:17.75
+  phishing:13.66
+  pin:11.62
+  link:10.96
+  coins:9.96
+  links:9.90
+  send:8.78
+  deposit:7.83
+  password:7.39
+
+Topic 3:
+  market:15.76
+  link:15.03
+  alphabet:6.08
+  pin:4.34
+  alfred:3.56
+  vendors:3.36
+  click:3.06
+  account:3.05
+  december:3.01
+  asked:2.97
+
+Topic 4:
+  market:9.99
+  dont:8.84
+  january:8.19
+  quote:6.81
+  month:5.93
+  bet:5.93
+  retirement:5.93
+  wrong:5.82
+  exit:5.81
+  people:5.73
+
+K: 5, Log-Likelihood: -13214.481, Alpha: 11.000, Beta: 1.100

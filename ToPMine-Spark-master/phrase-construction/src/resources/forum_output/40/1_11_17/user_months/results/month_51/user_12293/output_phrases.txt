@@ -1,0 +1,61 @@
+Topic 0:
+  herkkua:0.55
+  lleenmyynti:0.47
+  isommissa:0.47
+  kehiin:0.47
+  mahdollisuus:0.47
+  ily:0.47
+  maastok:0.47
+  eriss:0.47
+  customia:0.47
+  hintaa:0.47
+
+Topic 1:
+  ruuvataan:0.49
+  olisi:0.49
+  viell:0.49
+  ajatellen:0.49
+  sopivaksi:0.49
+  hintaa:0.49
+  rohkeesti:0.49
+  tk:0.49
+  eriss:0.49
+  customia:0.49
+
+Topic 2:
+  tullut:2.35
+  hetykset:2.35
+  etel:2.35
+  ss:1.60
+  mahdollista:1.11
+  monessa:1.11
+  huononlainen:1.11
+  tuo:1.11
+  persaukisuus:1.11
+  laatikkoon:1.11
+
+Topic 3:
+  ytt:2.36
+  ketamiinia:2.36
+  sekak:2.36
+  vaihtaa:1.11
+  sill:1.11
+  tilaa:1.11
+  mars:1.11
+  palautetta:1.11
+  douppiluukku:1.11
+  iri:1.11
+
+Topic 4:
+  ollu:0.82
+  ja ei:0.82
+  rehellisesti:0.82
+  vaaka:0.82
+  linen:0.82
+  tavaraan:0.82
+  testerit:0.82
+  sitten:0.82
+  pettynyt:0.82
+  timantti:0.82
+
+K: 5, Log-Likelihood: -1376.109, Alpha: 11.000, Beta: 1.100

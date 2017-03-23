@@ -1,0 +1,61 @@
+Topic 0:
+  account:0.78
+  step:0.50
+  safest:0.50
+  anonymous:0.50
+  bitcoin:0.50
+  linked:0.50
+  person:0.24
+  occasional:0.24
+  kids:0.24
+  coins:0.24
+
+Topic 1:
+  person:0.64
+  account:0.36
+  deal:0.28
+  move:0.28
+  record:0.28
+  library:0.28
+  clean:0.28
+  time:0.28
+  computer:0.28
+  rate:0.28
+
+Topic 2:
+  account:0.60
+  step:0.39
+  bitcoin:0.39
+  safest:0.39
+  linked:0.39
+  anonymous:0.39
+  person:0.35
+  safely:0.20
+  family:0.20
+  dealer:0.20
+
+Topic 3:
+  account:0.86
+  linked:0.56
+  anonymous:0.56
+  safest:0.56
+  bitcoin:0.56
+  step:0.55
+  set:0.25
+  noob:0.25
+  realname:0.25
+  work:0.25
+
+Topic 4:
+  person:0.57
+  account:0.40
+  bitcoin:0.29
+  linked:0.28
+  anonymous:0.28
+  safest:0.28
+  step:0.28
+  sellers:0.26
+  libertyx:0.26
+  dnm:0.26
+
+K: 5, Log-Likelihood: -263.992, Alpha: 11.000, Beta: 1.100

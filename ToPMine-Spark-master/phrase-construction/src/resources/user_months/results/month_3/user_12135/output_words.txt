@@ -1,0 +1,61 @@
+Topic 0:
+  site:0.60
+  bitblender:0.41
+  moving:0.40
+  servers:0.40
+  hours:0.40
+  backup:0.39
+  delays:0.20
+  started:0.20
+  excellent:0.20
+  bitcoinfog:0.20
+
+Topic 1:
+  site:0.60
+  bitblender:0.41
+  moving:0.40
+  servers:0.40
+  hours:0.39
+  backup:0.38
+  dreamt:0.21
+  moved:0.21
+  read:0.21
+  feature:0.21
+
+Topic 2:
+  site:0.62
+  bitblender:0.42
+  servers:0.40
+  moving:0.40
+  hours:0.39
+  backup:0.38
+  dreamt:0.21
+  host:0.21
+  excellent:0.21
+  fucking:0.21
+
+Topic 3:
+  site:0.58
+  backup:0.42
+  servers:0.40
+  moving:0.40
+  hours:0.40
+  bitblender:0.39
+  quotewe:0.20
+  provider:0.20
+  server:0.20
+  activating:0.20
+
+Topic 4:
+  site:0.60
+  backup:0.44
+  hours:0.42
+  moving:0.40
+  servers:0.39
+  bitblender:0.37
+  estimate:0.21
+  inaccessible:0.21
+  received:0.21
+  activity:0.21
+
+K: 5, Log-Likelihood: -256.130, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tails:14.38
+  fingerprint anonymizer tor:14.38
+  port:11.98
+  anonymizer tor:11.98
+  state const std string:9.58
+  tor foreign directory:9.58
+  tails websites:7.18
+  tor onion survey onion:7.18
+  live system:7.18
+  iter:7.18
+
+Topic 1:
+  rules:7.87
+  nodes:7.82
+  onion system:6.76
+  doubt:4.99
+  active:4.61
+  hidden service:4.07
+  matching:4.01
+  tor bridges:3.97
+  harder:3.94
+  match:3.92
+
+Topic 2:
+  fbi:5.85
+  sites:5.53
+  child porn:4.41
+  traffic:4.39
+  operation torpedo:3.51
+  easy:3.45
+  system:3.45
+  code:3.45
+  cases:3.45
+  hidden services:3.23
+
+Topic 3:
+  fbi:8.53
+  mcgrath:7.12
+  hidden services:6.35
+  internet:5.74
+  nit:5.56
+  web:5.47
+  called:5.41
+  child porn:5.17
+  obi:4.98
+  law enforcement:4.16
+
+Topic 4:
+  country:5.95
+  sort:3.95
+  friendly:3.95
+  insurance:3.95
+  torrc:3.95
+  current:3.95
+  agree:3.95
+  operation:3.95
+  isnt:3.95
+  countries reckon:3.95
+
+K: 5, Log-Likelihood: -14028.926, Alpha: 11.000, Beta: 1.100

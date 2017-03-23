@@ -1,0 +1,56 @@
+Topic 0:
+  beta:0.40
+  tor:0.40
+  bazaar:0.40
+  multisig:0.40
+  note:0.20
+  separate:0.20
+  testing:0.20
+  site:0.20
+  alpha:0.20
+
+Topic 1:
+  multisig:0.40
+  bazaar:0.40
+  beta:0.40
+  tor:0.40
+  note:0.20
+  alpha:0.20
+  separate:0.20
+  testing:0.20
+  site:0.20
+
+Topic 2:
+  beta:0.40
+  bazaar:0.40
+  multisig:0.40
+  tor:0.40
+  site:0.20
+  note:0.20
+  testing:0.20
+  separate:0.20
+  alpha:0.20
+
+Topic 3:
+  tor:0.40
+  multisig:0.40
+  beta:0.40
+  bazaar:0.40
+  site:0.20
+  testing:0.20
+  alpha:0.20
+  separate:0.20
+  note:0.20
+
+Topic 4:
+  bazaar:0.40
+  tor:0.40
+  multisig:0.40
+  beta:0.40
+  alpha:0.20
+  separate:0.20
+  testing:0.20
+  site:0.20
+  note:0.20
+
+K: 5, Log-Likelihood: -27.851, Alpha: 11.000, Beta: 1.100

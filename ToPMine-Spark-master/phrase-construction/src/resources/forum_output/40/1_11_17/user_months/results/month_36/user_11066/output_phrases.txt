@@ -1,0 +1,61 @@
+Topic 0:
+  questions:0.00
+  link:0.00
+  goods:0.00
+  captain:0.00
+  shutting:0.00
+  dmplease:0.00
+  listings:0.00
+  vend:0.00
+  prior:0.00
+  vendor:0.00
+
+Topic 1:
+  questions:0.00
+  link:0.00
+  goods:0.00
+  captain:0.00
+  shutting:0.00
+  dmplease:0.00
+  listings:0.00
+  vend:0.00
+  prior:0.00
+  vendor:0.00
+
+Topic 2:
+  questions:0.00
+  link:0.00
+  goods:0.00
+  captain:0.00
+  shutting:0.00
+  dmplease:0.00
+  listings:0.00
+  vend:0.00
+  prior:0.00
+  vendor:0.00
+
+Topic 3:
+  questions:0.00
+  link:0.00
+  goods:0.00
+  captain:0.00
+  shutting:0.00
+  dmplease:0.00
+  listings:0.00
+  vend:0.00
+  prior:0.00
+  vendor:0.00
+
+Topic 4:
+  questions:0.00
+  link:0.00
+  goods:0.00
+  captain:0.00
+  shutting:0.00
+  dmplease:0.00
+  listings:0.00
+  vend:0.00
+  prior:0.00
+  vendor:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

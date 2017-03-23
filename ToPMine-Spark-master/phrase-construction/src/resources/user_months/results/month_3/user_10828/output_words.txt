@@ -1,0 +1,61 @@
+Topic 0:
+  scam:5.23
+  sky:4.71
+  market:3.94
+  march:2.82
+  listed:2.76
+  blue:2.69
+  sr:2.01
+  alfred:1.75
+  ago:1.70
+  sites:1.67
+
+Topic 1:
+  market:2.36
+  blue:1.94
+  scam:1.72
+  sky:1.48
+  time:1.40
+  dont:1.19
+  sr:1.17
+  bluesky:1.11
+  quote:1.07
+  markets:0.96
+
+Topic 2:
+  blue:2.54
+  link:1.94
+  time:1.92
+  trading:1.74
+  change:1.36
+  skymarket:1.36
+  reopened:1.36
+  wondereing:1.36
+  florida:1.35
+  days:1.35
+
+Topic 3:
+  sky:3.43
+  scam:3.33
+  market:2.85
+  blue:2.35
+  march:2.30
+  sr:2.12
+  listed:2.05
+  time:1.71
+  quote:1.70
+  long:1.26
+
+Topic 4:
+  market:4.90
+  bsm:3.59
+  scam:1.92
+  traders:1.84
+  auto:1.73
+  fuck:1.48
+  guys:1.42
+  markets:1.38
+  agora:1.35
+  functioning:1.27
+
+K: 5, Log-Likelihood: -1714.945, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:9.87
+  bitcoin:6.21
+  mixer:2.93
+  easycoin:2.93
+  service:2.93
+  darkweb:2.68
+  dont:2.51
+  anonymity:1.93
+  laundry:1.93
+  store:1.93
+
+Topic 1:
+  markets:4.76
+  vendor:3.81
+  le:2.82
+  quote:2.73
+  big:2.21
+  door:2.00
+  barter:1.84
+  scamming:1.83
+  dnms:1.82
+  surprised:1.82
+
+Topic 2:
+  hard:2.72
+  good:2.30
+  news:2.30
+  lot:2.29
+  american:2.29
+  modem:2.27
+  router:2.26
+  door:2.24
+  conflicting:2.24
+  question:2.23
+
+Topic 3:
+  btc:10.16
+  wallet:8.84
+  coins:4.95
+  coin:4.72
+  easy:4.59
+  electrum:4.26
+  fee:3.95
+  fog:3.46
+  miner:1.95
+  transfer:1.95
+
+Topic 4:
+  keys:3.47
+  cloud:2.91
+  wallets:2.91
+  quote:2.68
+  access:1.91
+  private:1.91
+  place:1.69
+  yeah:1.68
+  trust:1.59
+  door:1.41
+
+K: 5, Log-Likelihood: -2658.124, Alpha: 11.000, Beta: 1.100

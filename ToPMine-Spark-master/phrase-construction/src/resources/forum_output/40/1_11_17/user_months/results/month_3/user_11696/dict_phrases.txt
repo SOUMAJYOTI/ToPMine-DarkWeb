@@ -1,0 +1,10 @@
+market,0,1
+drugsnbets,1,2
+called,2,1
+correct,3,1
+yea,4,1
+data,5,1
+outlaw,6,1
+registered,7,1
+login,8,1
+register,9,1

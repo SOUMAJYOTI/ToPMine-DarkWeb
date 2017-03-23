@@ -1,0 +1,61 @@
+Topic 0:
+  markets:2.09
+  precisely:2.05
+  generation:1.99
+  download:1.98
+  darkent:1.92
+  february:1.83
+  designed:1.70
+  shut:1.69
+  running:1.67
+  quote:1.54
+
+Topic 1:
+  download:2.90
+  february:2.16
+  markets:1.97
+  designed:1.63
+  darkent:1.53
+  pmthis:1.52
+  quote:1.50
+  generation:1.50
+  precisely:1.35
+  program:1.24
+
+Topic 2:
+  market:3.35
+  trust:3.30
+  march:3.16
+  people:2.88
+  pmquote:2.87
+  shared:2.72
+  folder:2.66
+  limewire:2.47
+  program:2.34
+  work:2.30
+
+Topic 3:
+  download:2.62
+  february:2.09
+  markets:1.80
+  market:1.77
+  pmquote:1.76
+  evilgrin:1.68
+  pmthis:1.59
+  quote:1.58
+  program:1.55
+  precisely:1.53
+
+Topic 4:
+  download:3.30
+  february:3.06
+  evilgrin:2.20
+  trust:2.10
+  market:2.07
+  program:1.83
+  pmquote:1.75
+  markets:1.73
+  pmthis:1.54
+  computer:1.54
+
+K: 5, Log-Likelihood: -1542.768, Alpha: 11.000, Beta: 1.100

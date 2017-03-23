@@ -1,0 +1,61 @@
+Topic 0:
+  excellent:1.29
+  fellow:1.29
+  discreet:1.29
+  homemade:1.29
+  long:1.29
+  solution:1.29
+  device:1.29
+  nice:1.29
+  problem:1.29
+  domie:1.29
+
+Topic 1:
+  researchers:6.60
+  racial recognition systems:6.53
+  racial recognition:3.70
+  glasses:3.07
+  snapped:2.36
+  visor:2.35
+  pretty:2.35
+  japan:2.35
+  surveillance:2.33
+  social:2.33
+
+Topic 2:
+  leds:1.61
+  dont:0.96
+  guess:0.93
+  wait:0.93
+  christmas:0.93
+  tree:0.93
+  unnoticed:0.92
+  hoping:0.88
+  thing:0.88
+  answer:0.88
+
+Topic 3:
+  glasses:1.81
+  racial recognition systems:0.88
+  researchers:0.81
+  racial recognition:0.71
+  protect:0.70
+  people:0.67
+  privacy:0.67
+  regular:0.66
+  tech:0.66
+  material:0.64
+
+Topic 4:
+  ir lights:3.09
+  halo head:3.09
+  places security:1.95
+  hide:1.95
+  draw:1.95
+  camels:1.95
+  question:1.95
+  police:1.95
+  attention:1.84
+  hat:1.55
+
+K: 5, Log-Likelihood: -1749.241, Alpha: 11.000, Beta: 1.100

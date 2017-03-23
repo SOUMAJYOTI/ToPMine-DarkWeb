@@ -1,0 +1,61 @@
+Topic 0:
+  post:2.56
+  applications menu:2.36
+  network option:1.16
+  answered:1.16
+  member:1.15
+  manually:1.15
+  doesnt:1.15
+  tools:1.15
+  correct:1.15
+  rwpmjwjfocguylj:1.15
+
+Topic 1:
+  onion:0.87
+  issue:0.83
+  quietforest:0.77
+  bitcointalk:0.74
+  protocol:0.73
+  applications menu:0.73
+  settings:0.72
+  connected:0.71
+  thread:0.69
+  odd:0.68
+
+Topic 2:
+  onion:1.34
+  electrum:0.94
+  jolly:0.94
+  longer:0.94
+  obj:0.94
+  rogers:0.94
+  gypcu:0.93
+  ckl:0.93
+  thread:0.91
+  quietforest:0.74
+
+Topic 3:
+  dont:1.06
+  tails protocol:0.91
+  pray:0.91
+  apply:0.91
+  org tails:0.91
+  port:0.91
+  person:0.91
+  proxy:0.91
+  tcp:0.91
+  ignore:0.91
+
+Topic 4:
+  tails:4.03
+  option option:1.46
+  purcashing:1.46
+  selected:1.46
+  booted:1.46
+  data:1.46
+  goods:1.46
+  safe:1.46
+  annoymise:1.46
+  mixing:1.46
+
+K: 5, Log-Likelihood: -908.524, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.96
+  tpe:0.87
+  agora:0.74
+  onion:0.70
+  listings:0.66
+  vendor:0.64
+  marketplaces:0.51
+  marketplace:0.45
+  vacation:0.45
+  trevorphilipsenterprises:0.42
+
+Topic 1:
+  sr:1.16
+  agora:0.95
+  marketplace:0.82
+  marketplaces:0.71
+  tpe:0.68
+  vendor:0.56
+  post:0.51
+  onion:0.51
+  listings:0.43
+  link:0.43
+
+Topic 2:
+  sr:1.15
+  agora:1.06
+  marketplace:0.93
+  marketplaces:0.76
+  tpe:0.63
+  post:0.57
+  vendor:0.54
+  onion:0.52
+  link:0.44
+  pricing:0.41
+
+Topic 3:
+  tpe:0.93
+  listings:0.79
+  sr:0.79
+  onion:0.63
+  vendor:0.63
+  agora:0.59
+  coke:0.52
+  vacation:0.52
+  charge:0.51
+  marketplaces:0.50
+
+Topic 4:
+  sr:0.94
+  tpe:0.89
+  listings:0.73
+  agora:0.65
+  onion:0.64
+  vendor:0.63
+  marketplaces:0.52
+  vacation:0.46
+  charge:0.46
+  coke:0.45
+
+K: 5, Log-Likelihood: -479.090, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  great:1.00
+  options:0.61
+  avoiding:0.48
+  throw:0.48
+  middle:0.48
+  pi:0.48
+  thread:0.48
+  eventually:0.48
+  tor:0.48
+  list:0.48
+
+Topic 1:
+  contacts:0.81
+  spawn:0.80
+  buy:0.78
+  vm:0.78
+  os:0.53
+  beagleboard:0.36
+  forensics:0.36
+  centralize:0.36
+  djb:0.36
+  soc:0.36
+
+Topic 2:
+  vm:0.80
+  buy:0.79
+  contacts:0.77
+  spawn:0.77
+  os:0.52
+  pretty:0.36
+  pay:0.36
+  corp:0.36
+  built:0.36
+  casual:0.36
+
+Topic 3:
+  great:0.43
+  spawn:0.42
+  os:0.42
+  contacts:0.42
+  buy:0.42
+  vm:0.41
+  box:0.34
+  options:0.30
+  users:0.25
+  filled:0.25
+
+Topic 4:
+  set:3.03
+  compartmentalization:0.87
+  variety:0.87
+  configurations:0.87
+  operating:0.87
+  interpret:0.87
+  rely:0.87
+  day:0.87
+  protecting:0.87
+  vitally:0.87
+
+K: 5, Log-Likelihood: -670.893, Alpha: 11.000, Beta: 1.100

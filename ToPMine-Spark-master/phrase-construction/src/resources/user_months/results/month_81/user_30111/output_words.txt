@@ -1,0 +1,61 @@
+Topic 0:
+  kush:0.97
+  critical:0.89
+  gbp:0.41
+  strain:0.40
+  og:0.40
+  mass:0.40
+  load:0.21
+  left:0.21
+  insomnia:0.20
+  spasms:0.20
+
+Topic 1:
+  kush:1.05
+  critical:1.02
+  mass:0.40
+  gbp:0.40
+  strain:0.40
+  og:0.40
+  farm:0.20
+  stuff:0.20
+  mind:0.20
+  spice:0.20
+
+Topic 2:
+  critical:1.02
+  kush:0.98
+  mass:0.40
+  gbp:0.40
+  strain:0.40
+  og:0.40
+  real:0.20
+  notes:0.20
+  farm:0.20
+  developed:0.20
+
+Topic 3:
+  kush:1.02
+  critical:0.99
+  og:0.40
+  mass:0.40
+  gbp:0.40
+  strain:0.40
+  baked:0.20
+  blending:0.20
+  left:0.20
+  sensation:0.20
+
+Topic 4:
+  critical:1.07
+  kush:0.99
+  strain:0.40
+  mass:0.40
+  og:0.40
+  gbp:0.40
+  aromatic:0.20
+  cannabis:0.20
+  thc:0.20
+  muscle:0.20
+
+K: 5, Log-Likelihood: -281.806, Alpha: 11.000, Beta: 1.100

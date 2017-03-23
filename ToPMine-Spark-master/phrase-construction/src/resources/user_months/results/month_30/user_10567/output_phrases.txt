@@ -1,0 +1,61 @@
+Topic 0:
+  relays:0.37
+  lizard squad:0.31
+  kobeissi:0.30
+  earlier:0.29
+  set:0.29
+  data:0.29
+  service:0.28
+  kids:0.24
+  gaming network:0.23
+  christmas:0.23
+
+Topic 1:
+  point:0.79
+  setup:0.79
+  call:0.35
+  entry:0.35
+  kiddies:0.35
+  builders:0.35
+  stub:0.35
+  science:0.35
+  dare:0.35
+  config:0.35
+
+Topic 2:
+  setup:0.41
+  point:0.40
+  data:0.28
+  set:0.28
+  kids:0.25
+  exploit:0.25
+  day:0.25
+  spoilt:0.22
+  spotty:0.22
+  spoil:0.22
+
+Topic 3:
+  point:0.40
+  setup:0.40
+  set:0.28
+  data:0.28
+  kids:0.24
+  exploit:0.24
+  day:0.24
+  relays:0.22
+  publicity:0.22
+  stunt:0.22
+
+Topic 4:
+  kobeissi:2.87
+  lizard squad:2.84
+  relays:2.73
+  service:2.01
+  earlier:1.97
+  lizardnsa:1.22
+  security:1.22
+  bandwidth:1.22
+  attacks:1.21
+  group:1.21
+
+K: 5, Log-Likelihood: -1274.712, Alpha: 11.000, Beta: 1.100

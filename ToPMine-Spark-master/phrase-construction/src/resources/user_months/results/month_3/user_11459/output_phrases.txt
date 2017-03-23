@@ -1,0 +1,61 @@
+Topic 0:
+  good:0.66
+  site:0.46
+  negatives:0.46
+  things:0.46
+  scams:0.45
+  hiddin:0.45
+  theyve:0.45
+  postives:0.45
+  wiki:0.45
+  wan:0.32
+
+Topic 1:
+  good:1.60
+  wiki:0.98
+  theyve:0.97
+  hiddin:0.97
+  postives:0.97
+  things:0.96
+  scams:0.96
+  negatives:0.95
+  site:0.69
+  black:0.40
+
+Topic 2:
+  good:0.50
+  wan:0.41
+  site:0.39
+  negatives:0.36
+  scams:0.36
+  postives:0.36
+  hiddin:0.35
+  things:0.35
+  theyve:0.35
+  wiki:0.35
+
+Topic 3:
+  wan:0.58
+  good:0.30
+  site:0.29
+  update:0.28
+  spend:0.28
+  full:0.28
+  habe:0.28
+  notes:0.28
+  serve:0.28
+  euros:0.28
+
+Topic 4:
+  wan:0.75
+  ay:0.32
+  find:0.32
+  bills:0.32
+  edb:0.32
+  decent:0.32
+  weak:0.32
+  counterfiters:0.32
+  threaad:0.32
+  doenst:0.32
+
+K: 5, Log-Likelihood: -313.461, Alpha: 11.000, Beta: 1.100

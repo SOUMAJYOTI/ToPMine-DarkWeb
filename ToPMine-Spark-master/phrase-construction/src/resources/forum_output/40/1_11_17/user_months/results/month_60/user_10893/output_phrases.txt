@@ -1,0 +1,61 @@
+Topic 0:
+  prob:0.34
+  markets:0.34
+  migrated:0.34
+  kinda:0.34
+  week:0.34
+  find:0.34
+  hub:0.34
+  point:0.34
+  forum:0.34
+  vendors:0.34
+
+Topic 1:
+  migrated:0.34
+  november:0.34
+  quote:0.34
+  point:0.34
+  vendors:0.34
+  week:0.34
+  find:0.34
+  markets:0.34
+  bye bye:0.34
+  forum:0.34
+
+Topic 2:
+  bye bye:0.34
+  point:0.34
+  shiz:0.34
+  week:0.34
+  prob:0.34
+  kinda:0.34
+  markets:0.34
+  find:0.34
+  vendors:0.34
+  hub:0.34
+
+Topic 3:
+  migrated:0.34
+  quote:0.34
+  november:0.34
+  kinda:0.34
+  shiz:0.34
+  find:0.34
+  markets:0.34
+  week:0.34
+  hub:0.34
+  prob:0.34
+
+Topic 4:
+  hub:0.35
+  vendors:0.35
+  shiz:0.34
+  bye bye:0.34
+  point:0.34
+  find:0.34
+  week:0.34
+  kinda:0.34
+  quote:0.34
+  prob:0.34
+
+K: 5, Log-Likelihood: -160.198, Alpha: 11.000, Beta: 1.100

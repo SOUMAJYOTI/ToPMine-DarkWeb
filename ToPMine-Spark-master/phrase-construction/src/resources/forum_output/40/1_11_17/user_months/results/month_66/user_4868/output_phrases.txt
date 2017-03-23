@@ -1,0 +1,61 @@
+Topic 0:
+  matter:9.32
+  encrypted communications:6.57
+  hey:5.30
+  war terror:4.91
+  government:4.89
+  cities:4.65
+  harden:4.65
+  expressed:4.65
+  europe:4.65
+  pact:4.65
+
+Topic 1:
+  quote:7.78
+  lasting thing rights:7.19
+  slowly eaten security safety:7.19
+  worried:7.18
+  business:7.18
+  november:7.11
+  people:6.05
+  small:5.43
+  pass:4.56
+  succeed:4.56
+
+Topic 2:
+  pgp:10.95
+  money:10.95
+  software:10.95
+  post:10.95
+  darknet:8.72
+  links:8.21
+  installing:5.47
+  windows:5.47
+  isolation:5.47
+  coins:5.47
+
+Topic 3:
+  electric anonymous payments:12.23
+  rest assured:9.25
+  anonymous payments:6.08
+  draft conclusions meeting:6.08
+  virtual currencies:6.08
+  meeting called paris:6.08
+  anonymously web party verification:6.08
+  transfers gold precious metals:6.08
+  pre paid cards:6.08
+  gather brussels friday crisis:6.08
+
+Topic 4:
+  order:7.16
+  sort:6.49
+  paris government:4.60
+  rms:4.60
+  isis:4.60
+  latest incidents:4.60
+  chaos:4.60
+  surprised:4.60
+  lusitania:4.60
+  incidents:4.60
+
+K: 5, Log-Likelihood: -12681.348, Alpha: 11.000, Beta: 1.100

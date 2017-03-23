@@ -1,0 +1,61 @@
+Topic 0:
+  email:4.27
+  bote:2.36
+  secure:2.35
+  security:1.62
+  thunderbird:1.58
+  time:1.47
+  details:1.41
+  desire:1.40
+  leaks:1.40
+  specifics:1.40
+
+Topic 1:
+  pgp:3.89
+  os:2.24
+  january:1.79
+  quote:1.71
+  key:1.27
+  ronin:1.26
+  btw:1.26
+  keyop:1.21
+  export:1.19
+  private:1.18
+
+Topic 2:
+  accounts:6.69
+  thunderbird:5.23
+  mailtor:4.40
+  log:3.72
+  created:3.72
+  mail:3.12
+  configure:1.74
+  error:1.74
+  login:1.74
+  creating:1.74
+
+Topic 3:
+  january:6.28
+  ronin:3.87
+  os:3.37
+  avatar:3.18
+  bring:2.97
+  export:2.89
+  keyop:2.89
+  private:2.87
+  key:2.82
+  btw:2.81
+
+Topic 4:
+  pgp:1.85
+  thunderbird:1.77
+  quote:1.74
+  email:1.11
+  os:0.91
+  time:0.85
+  security:0.79
+  pmi:0.68
+  january:0.61
+  private:0.61
+
+K: 5, Log-Likelihood: -1180.872, Alpha: 11.000, Beta: 1.100

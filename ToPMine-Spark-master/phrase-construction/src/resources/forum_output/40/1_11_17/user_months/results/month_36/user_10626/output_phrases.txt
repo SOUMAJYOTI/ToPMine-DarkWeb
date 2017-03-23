@@ -1,0 +1,61 @@
+Topic 0:
+  trust nucleus:2.87
+  post:2.87
+  left:2.87
+  ol ol:2.87
+  wade:2.87
+  huff:2.87
+  real:2.87
+  march:2.75
+  free:2.36
+  vendor:1.86
+
+Topic 1:
+  key:5.76
+  vendor:5.00
+  pgp:3.82
+  set:2.65
+  vend:2.32
+  quote:2.31
+  el:1.87
+  library:1.87
+  listed:1.87
+  established:1.87
+
+Topic 2:
+  angeleyes:3.80
+  reported:1.85
+  reserving:1.85
+  searched:1.85
+  register:1.85
+  funny:1.85
+  dummy:1.85
+  guess:1.85
+  names:1.85
+  thing:1.85
+
+Topic 3:
+  devils:3.66
+  trolly:3.66
+  nucleus:2.19
+  grams:1.85
+  min:1.85
+  boost:1.85
+  system:1.85
+  crypts:1.85
+  mda:1.85
+  glad:1.85
+
+Topic 4:
+  vendors:4.92
+  market:3.82
+  transactions:3.82
+  escrow:3.82
+  dont:3.82
+  marketplace:3.82
+  marketplaces:3.38
+  testing:2.49
+  coin:2.49
+  good:2.01
+
+K: 5, Log-Likelihood: -1637.724, Alpha: 11.000, Beta: 1.100

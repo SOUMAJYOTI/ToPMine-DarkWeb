@@ -1,0 +1,61 @@
+Topic 0:
+  banks:5.30
+  coins:4.72
+  september:3.73
+  crowd:3.73
+  accept buttcoins:3.73
+  hey:3.73
+  guise:3.73
+  tang:3.72
+  stick:3.72
+  hip:3.72
+
+Topic 1:
+  richard spanish september pmquote:6.85
+  key:5.95
+  bit hit karma piss:5.79
+  pmthanks advice guys youve:5.79
+  enigma september:5.08
+  asked alfred minus:5.08
+  generate:4.81
+  quote enigma:4.72
+  big public key:4.24
+  resistance:3.98
+
+Topic 2:
+  electrum:12.96
+  watching addresses:7.30
+  servers:7.30
+  tor:4.86
+  random:4.86
+  electrum server:4.86
+  keys:4.86
+  wallet:2.60
+  payments electrum:2.42
+  locally:2.42
+
+Topic 3:
+  improvement:4.71
+  accepted:3.95
+  read:3.85
+  lol:3.84
+  exposed:2.35
+  ledger:2.35
+  lack:2.35
+  blockchain banks:2.35
+  speed:2.35
+  aspect:2.35
+
+Topic 4:
+  barclays:24.06
+  bitcoin:12.17
+  accept bitcoin:9.74
+  year:7.30
+  accepting bitcoin:7.30
+  working:4.86
+  fund:4.86
+  europe:4.86
+  safello:4.86
+  bitcoins:4.86
+
+K: 5, Log-Likelihood: -5318.369, Alpha: 11.000, Beta: 1.100

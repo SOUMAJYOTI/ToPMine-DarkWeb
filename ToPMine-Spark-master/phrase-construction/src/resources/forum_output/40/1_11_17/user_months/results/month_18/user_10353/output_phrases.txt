@@ -1,0 +1,61 @@
+Topic 0:
+  btc:1.81
+  market:1.06
+  wanting:0.99
+  uri:0.98
+  send:0.97
+  confirmations:0.96
+  warning:0.96
+  incorrect:0.96
+  btc silkroad:0.96
+  knew:0.96
+
+Topic 1:
+  legitimate:3.11
+  pirate market:3.05
+  links:3.01
+  attention:1.46
+  paying:1.45
+  careful:1.45
+  hub:1.45
+  markets:1.44
+  fun:1.44
+  good:1.44
+
+Topic 2:
+  correct:1.34
+  agora:1.13
+  mistake:0.99
+  impatience:0.98
+  stupid:0.98
+  guess:0.98
+  yep:0.98
+  live:0.98
+  costly:0.98
+  thought:0.97
+
+Topic 3:
+  btc:1.90
+  link:0.92
+  market:0.83
+  assuming:0.82
+  wiki:0.80
+  hadnt:0.80
+  edit:0.80
+  blockchain:0.80
+  love:0.80
+  fucked btc:0.79
+
+Topic 4:
+  btc:1.23
+  market:1.08
+  link:0.96
+  money:0.81
+  onion:0.70
+  transaction:0.69
+  bothered:0.69
+  guys fucked:0.69
+  impression:0.69
+  havent:0.68
+
+K: 5, Log-Likelihood: -1218.737, Alpha: 11.000, Beta: 1.100

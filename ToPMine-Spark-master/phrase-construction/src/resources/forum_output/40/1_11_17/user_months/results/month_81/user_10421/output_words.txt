@@ -1,0 +1,61 @@
+Topic 0:
+  address:15.53
+  transaction:14.54
+  key:11.88
+  public:11.35
+  order:9.55
+  bitcoin:8.95
+  wallet:8.05
+  multisignature:7.99
+  receive:7.75
+  script:7.08
+
+Topic 1:
+  electrum:1.65
+  sig:1.58
+  sign:0.99
+  quote:0.91
+  markets:0.77
+  multi:0.75
+  care:0.74
+  protocol:0.74
+  standard:0.73
+  check:0.68
+
+Topic 2:
+  market:23.91
+  transaction:18.76
+  multisignature:14.81
+  address:14.20
+  bitcoin:11.83
+  public:10.45
+  key:9.92
+  customer:9.32
+  escrow:8.94
+  wallet:6.76
+
+Topic 3:
+  hansa:3.78
+  marketplace:1.72
+  etizolam:1.37
+  check:1.28
+  madness:1.21
+  jules:1.08
+  mexican:0.85
+  pretty:0.85
+  pipes:0.85
+  weed:0.85
+
+Topic 4:
+  jules:1.73
+  multi:1.24
+  protocol:1.24
+  standard:1.22
+  electrum:1.22
+  winnfield:1.07
+  february:1.03
+  quote:1.02
+  hansa:0.99
+  helpful:0.92
+
+K: 5, Log-Likelihood: -5577.441, Alpha: 11.000, Beta: 1.100

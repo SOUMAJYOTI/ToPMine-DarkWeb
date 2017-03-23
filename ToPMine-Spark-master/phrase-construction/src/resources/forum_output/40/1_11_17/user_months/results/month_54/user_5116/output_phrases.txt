@@ -1,0 +1,61 @@
+Topic 0:
+  grams:0.35
+  vendor:0.34
+  services:0.34
+  buyer:0.34
+  updated:0.34
+  trust:0.34
+  lurker:0.34
+  ressources:0.34
+  great:0.34
+  check verify:0.34
+
+Topic 1:
+  trust:0.36
+  gog:0.36
+  sites:0.36
+  great:0.36
+  check verify:0.36
+  lurker:0.36
+  ressources:0.36
+  updated:0.36
+  buyer:0.36
+  amvd:0.36
+
+Topic 2:
+  pip vendor:0.35
+  product:0.35
+  edit:0.35
+  good:0.35
+  mixer:0.35
+  perspective:0.35
+  verification:0.35
+  customer:0.35
+  risky:0.35
+  helix:0.35
+
+Topic 3:
+  bit:0.35
+  customer:0.35
+  nice:0.35
+  pip vendor:0.35
+  product:0.35
+  find:0.35
+  net:0.35
+  stick:0.35
+  dark:0.35
+  consolidation:0.34
+
+Topic 4:
+  requires:0.36
+  service great:0.36
+  helix:0.36
+  find:0.36
+  risky:0.36
+  stick:0.36
+  good:0.36
+  perspective:0.36
+  net:0.36
+  charge:0.36
+
+K: 5, Log-Likelihood: -422.962, Alpha: 11.000, Beta: 1.100

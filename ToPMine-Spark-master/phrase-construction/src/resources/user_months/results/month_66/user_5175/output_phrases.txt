@@ -1,0 +1,61 @@
+Topic 0:
+  market:13.24
+  multisig:8.86
+  exit scams:8.86
+  coins:8.25
+  exit scammed:6.63
+  admins:6.63
+  popularity:5.82
+  minor:5.82
+  reddit:5.82
+  opsec:4.97
+
+Topic 1:
+  great:6.52
+  listed:4.95
+  pay:4.95
+  start:4.95
+  states:4.95
+  link abraxas:4.95
+  verify:4.95
+  user:4.95
+  profile:4.95
+  vending:4.95
+
+Topic 2:
+  list:11.85
+  imo:11.01
+  reteat:10.01
+  time effort:10.01
+  spam:9.98
+  escrow:6.99
+  call:6.25
+  sound:4.99
+  presto:4.99
+  break:4.99
+
+Topic 3:
+  site:7.92
+  quote thetab december ami:7.25
+  list keen links:7.22
+  net flow grams links:7.20
+  odd site prefer instants:7.19
+  guess alpha ay nice:6.39
+  easy:6.38
+  quote:6.23
+  escrow:5.29
+  evaluated:4.95
+
+Topic 4:
+  market:12.68
+  mail:10.03
+  running:10.03
+  system:10.03
+  security:10.03
+  love avengers:8.10
+  forum links:7.51
+  dream:5.94
+  involvement:5.00
+  exchange:5.00
+
+K: 5, Log-Likelihood: -10307.023, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  order:16.09
+  hos:7.91
+  worth:4.33
+  markets:4.25
+  homies:3.96
+  mdma:3.95
+  lsd:3.92
+  houe:3.91
+  ootp:3.91
+  buying:3.90
+
+Topic 1:
+  reason:7.77
+  place:5.31
+  blueviking:4.83
+  knew:4.61
+  happen:4.20
+  marketplace:4.15
+  agora:3.99
+  touch:3.78
+  hoping:3.78
+  profile:3.78
+
+Topic 2:
+  evo:5.46
+  lost:4.74
+  vendors:4.64
+  mill:3.82
+  thousands:3.82
+  glad:3.40
+  markets:3.06
+  vendor:2.94
+  btc:2.40
+  worth:2.27
+
+Topic 3:
+  escrow:13.67
+  multi:10.60
+  march:9.84
+  orderofthephoenix:9.08
+  lesson:8.52
+  bv:7.77
+  btc:7.15
+  teach:6.44
+  lose:6.44
+  bound:6.43
+
+Topic 4:
+  quote:5.96
+  evo:5.77
+  market:5.05
+  markets:3.80
+  march:3.64
+  vendors:3.20
+  feds:2.78
+  learned:2.72
+  escrow:2.29
+  time:2.24
+
+K: 5, Log-Likelihood: -5016.596, Alpha: 11.000, Beta: 1.100

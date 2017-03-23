@@ -1,0 +1,61 @@
+Topic 0:
+  wu:1.09
+  localbitcoins:0.88
+  moneygram:0.79
+  moneypak:0.57
+  account:0.55
+  ways:0.52
+  bitin:0.51
+  vendor:0.51
+  coinbase:0.45
+  drugs:0.33
+
+Topic 1:
+  paranoid:1.91
+  months:1.84
+  clerk:1.48
+  service:1.48
+  safely:0.93
+  generally:0.93
+  suspicious:0.92
+  talking:0.92
+  depositing:0.92
+  cash:0.92
+
+Topic 2:
+  wu:3.87
+  localbitcoins:1.80
+  call:1.67
+  situation:1.66
+  money:1.66
+  sending:1.66
+  phone:1.66
+  fraud:1.65
+  hotline:0.73
+  send:0.73
+
+Topic 3:
+  moneypak:1.29
+  account:1.17
+  coinbase:0.83
+  moneygram:0.75
+  bitcoins:0.65
+  purchase:0.64
+  bitcoin:0.64
+  western:0.52
+  red:0.52
+  avoid:0.51
+
+Topic 4:
+  account:1.62
+  moneypak:1.48
+  bitcoin:0.93
+  purchase:0.93
+  coinbase:0.92
+  bitcoins:0.91
+  moneygram:0.82
+  avoid:0.63
+  red:0.62
+  western:0.62
+
+K: 5, Log-Likelihood: -768.747, Alpha: 11.000, Beta: 1.100

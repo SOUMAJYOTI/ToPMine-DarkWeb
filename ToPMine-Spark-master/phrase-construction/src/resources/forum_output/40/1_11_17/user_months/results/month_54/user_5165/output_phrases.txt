@@ -1,0 +1,61 @@
+Topic 0:
+  word post:7.41
+  word allowed forms tit:7.40
+  jeb:6.65
+  website:5.76
+  republican:4.41
+  sake:4.41
+  viewership:4.41
+  gop:4.41
+  democrats:4.41
+  flames:4.41
+
+Topic 1:
+  time:8.25
+  qouted darwin posessed ghosts:5.70
+  happening stray politics election:5.70
+  stuff real:5.70
+  entertaining thougherly enjoying reading:5.70
+  president american feeling:5.70
+  entertainer president material runner:5.70
+  neurosurgeon belives creationism:5.70
+  donald coarse choose surprising:5.70
+  donald trump:5.03
+
+Topic 2:
+  typed curse racial slur:6.73
+  find word naughty:5.71
+  affiliation triggering filter struggling:5.71
+  political:5.04
+  america:4.90
+  floating:4.41
+  cnn time:4.41
+  rest:4.41
+  debate:4.41
+  dissapoints:4.41
+
+Topic 3:
+  word:5.83
+  ambernie sanders man:5.38
+  avowed:4.43
+  case:4.43
+  aim:4.43
+  sensitive:4.43
+  mine:4.43
+  capitalism:4.43
+  painful:4.43
+  energy:4.43
+
+Topic 4:
+  win:10.15
+  election:8.48
+  people:6.04
+  america:5.02
+  florida:4.38
+  daughter:4.38
+  dr:4.38
+  longer:4.38
+  thumpers:4.38
+  rx:4.38
+
+K: 5, Log-Likelihood: -7915.337, Alpha: 11.000, Beta: 1.100

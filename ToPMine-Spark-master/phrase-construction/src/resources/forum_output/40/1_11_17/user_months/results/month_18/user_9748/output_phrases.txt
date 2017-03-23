@@ -1,0 +1,61 @@
+Topic 0:
+  transactions:2.26
+  visible:2.06
+  helps:1.01
+  interest:1.00
+  party:0.99
+  arrival:0.98
+  mixing:0.98
+  activities:0.98
+  delete:0.98
+  tracking:0.97
+
+Topic 1:
+  transactions:0.92
+  visible:0.87
+  scam:0.54
+  shopping:0.52
+  track:0.51
+  logs:0.51
+  security:0.51
+  mixer:0.51
+  black:0.51
+  fully:0.51
+
+Topic 2:
+  visible:1.59
+  transactions:1.34
+  bitin mixing:0.72
+  safe:0.72
+  fully:0.72
+  balance:0.72
+  registration:0.71
+  anonymous:0.71
+  shopping:0.71
+  stay:0.71
+
+Topic 3:
+  scam:1.23
+  freddie:1.22
+  catch:1.21
+  call:1.21
+  obvious:1.20
+  forum:1.20
+  funny:1.18
+  damn:1.18
+  good:1.17
+  good loss:1.08
+
+Topic 4:
+  loss:1.58
+  find:1.58
+  hidden:1.58
+  man:1.57
+  friend:1.57
+  team:1.57
+  error:1.57
+  fatfreddie:1.57
+  trial:1.56
+  life:1.56
+
+K: 5, Log-Likelihood: -701.213, Alpha: 11.000, Beta: 1.100

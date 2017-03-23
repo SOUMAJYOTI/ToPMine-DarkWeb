@@ -1,0 +1,61 @@
+Topic 0:
+  forum:1.05
+  feedback:0.62
+  claims:0.61
+  evo:0.60
+  markets:0.41
+  evolution:0.41
+  sold:0.41
+  vendor:0.40
+  till:0.40
+  june:0.40
+
+Topic 1:
+  forum:1.00
+  evo:0.94
+  feedback:0.73
+  free:0.59
+  claims:0.58
+  vendor:0.57
+  till:0.46
+  evolution:0.45
+  sold:0.45
+  markets:0.43
+
+Topic 2:
+  forum:1.00
+  claims:0.64
+  feedback:0.59
+  evo:0.49
+  seller:0.45
+  true:0.42
+  wanted:0.41
+  impertinent:0.41
+  markets:0.41
+  pose:0.41
+
+Topic 3:
+  forum:0.97
+  claims:0.57
+  register:0.56
+  wanted:0.56
+  impertinent:0.56
+  questions:0.56
+  pose:0.56
+  true:0.46
+  seller:0.46
+  feedback:0.45
+
+Topic 4:
+  forum:0.98
+  evo:0.63
+  feedback:0.61
+  claims:0.60
+  evolution:0.41
+  till:0.41
+  sold:0.41
+  markets:0.41
+  vendor:0.41
+  free:0.40
+
+K: 5, Log-Likelihood: -427.729, Alpha: 11.000, Beta: 1.100

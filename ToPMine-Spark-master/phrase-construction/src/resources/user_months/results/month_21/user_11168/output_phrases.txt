@@ -1,0 +1,61 @@
+Topic 0:
+  good market:0.76
+  market:0.61
+  good:0.46
+  cloud:0.44
+  email:0.44
+  fake:0.44
+  create:0.44
+  french:0.39
+  dont:0.37
+  gog:0.36
+
+Topic 1:
+  markets:1.17
+  market:0.63
+  good:0.48
+  dont:0.46
+  scam:0.42
+  evolution:0.42
+  good market:0.37
+  onion:0.37
+  flakes:0.34
+  shiny:0.34
+
+Topic 2:
+  market:0.80
+  dont:0.76
+  markets:0.44
+  good market:0.44
+  good:0.42
+  flakes:0.41
+  shiny:0.40
+  french:0.37
+  fake:0.32
+  create:0.32
+
+Topic 3:
+  markets:1.57
+  market:0.60
+  dont:0.51
+  scam:0.48
+  evolution:0.47
+  good:0.46
+  bottom:0.41
+  onionshop:0.41
+  eatable:0.41
+  great:0.41
+
+Topic 4:
+  market:0.70
+  good market:0.69
+  good:0.43
+  dont:0.41
+  french:0.41
+  create:0.41
+  email:0.40
+  cloud:0.40
+  fake:0.40
+  techni:0.36
+
+K: 5, Log-Likelihood: -515.754, Alpha: 11.000, Beta: 1.100

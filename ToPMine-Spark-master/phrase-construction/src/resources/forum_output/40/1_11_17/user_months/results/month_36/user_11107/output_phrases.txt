@@ -1,0 +1,61 @@
+Topic 0:
+  site:0.36
+  vendors:0.34
+  guy:0.33
+  post:0.30
+  money:0.25
+  btc:0.25
+  btw:0.25
+  called:0.25
+  check:0.25
+  months:0.24
+
+Topic 1:
+  vendors:1.60
+  lowest:0.38
+  losers:0.38
+  scrape:0.36
+  spot:0.36
+  scammers:0.36
+  agora:0.36
+  buyer:0.36
+  forum:0.36
+  scamming:0.36
+
+Topic 2:
+  vendors:0.33
+  site:0.32
+  guy:0.31
+  post:0.26
+  guess:0.23
+  deep:0.23
+  web:0.23
+  smh:0.22
+  lesson:0.22
+  learned:0.22
+
+Topic 3:
+  vendors:0.41
+  embark:0.27
+  dont:0.27
+  dn:0.27
+  profits:0.27
+  groups:0.27
+  poetic:0.27
+  traumatized:0.27
+  distress:0.27
+  robin:0.27
+
+Topic 4:
+  site:2.77
+  post:1.98
+  months:1.18
+  check:1.18
+  btw:1.17
+  called:1.17
+  btc:1.17
+  money:1.17
+  guy:0.57
+  pin:0.47
+
+K: 5, Log-Likelihood: -642.921, Alpha: 11.000, Beta: 1.100

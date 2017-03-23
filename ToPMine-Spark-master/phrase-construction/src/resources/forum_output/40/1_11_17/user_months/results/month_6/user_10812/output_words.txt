@@ -1,0 +1,61 @@
+Topic 0:
+  bitmessage:31.35
+  secure:6.78
+  messages:5.43
+  gateway:3.88
+  encrypt:3.86
+  pgp:3.86
+  zaphod:3.26
+  sending:3.01
+  mail:2.74
+  good:2.65
+
+Topic 1:
+  ssl:5.38
+  mail:3.26
+  tails:2.17
+  quote:2.13
+  systems:1.80
+  bug:1.80
+  sites:1.80
+  unaffected:1.80
+  timothy:1.71
+  peaceyes:1.52
+
+Topic 2:
+  tails:7.47
+  step:3.71
+  persistent:3.37
+  volume:2.99
+  design:2.91
+  gedit:1.91
+  editor:1.91
+  wheezy:1.91
+  safe:1.75
+  linux:1.75
+
+Topic 3:
+  mail:5.16
+  encryption:2.30
+  network:2.14
+  claws:1.99
+  usb:1.72
+  service:1.49
+  imap:1.47
+  copy:1.29
+  quote:1.25
+  peace:1.16
+
+Topic 4:
+  tor:8.50
+  hidden:7.09
+  service:5.63
+  client:5.09
+  password:3.24
+  surname:3.23
+  key:2.89
+  attack:2.82
+  middle:2.82
+  server:2.67
+
+K: 5, Log-Likelihood: -2379.435, Alpha: 11.000, Beta: 1.100

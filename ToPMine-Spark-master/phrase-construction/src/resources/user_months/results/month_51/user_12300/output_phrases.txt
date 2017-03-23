@@ -1,0 +1,61 @@
+Topic 0:
+  nostaa:0.60
+  enemm:0.60
+  elk:0.60
+  painaa:0.60
+  buttoneita:0.60
+  listauksien:0.60
+  ku:0.60
+  oikealla:0.60
+  minullakin:0.60
+  pit:0.60
+
+Topic 1:
+  ei:0.81
+  ja:0.77
+  mit:0.73
+  santa:0.62
+  kuukauden:0.62
+  sivusta:0.62
+  huijaus:0.62
+  eip:0.62
+  ytt:0.62
+  ilmeisesti:0.62
+
+Topic 2:
+  saldoon:2.21
+  blockchainissa:0.98
+  osoitteen:0.97
+  tulleet:0.97
+  mukaan:0.97
+  ss:0.97
+  mutta ei:0.97
+  siirry:0.97
+  perille:0.97
+  vahvistamattomaan:0.97
+
+Topic 3:
+  saldoon:0.96
+  coinit:0.70
+  ett:0.52
+  rahansiirto:0.51
+  siirtoja:0.50
+  ongelmia:0.50
+  oudointa:0.50
+  lompakko:0.50
+  itsell:0.50
+  muilla:0.50
+
+Topic 4:
+  litilill:2.41
+  kun:2.37
+  se:1.39
+  laitoin:1.39
+  silkkitien:1.39
+  juttu:1.07
+  yh:1.07
+  niin:1.07
+  tohkeissani:1.07
+  kyi:1.07
+
+K: 5, Log-Likelihood: -1076.514, Alpha: 11.000, Beta: 1.100

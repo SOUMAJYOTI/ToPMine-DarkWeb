@@ -1,0 +1,61 @@
+Topic 0:
+  good:3.99
+  handful:3.66
+  easy leave:3.66
+  long botnets:3.66
+  attacks running:3.65
+  summer:3.65
+  winter:3.65
+  domain:3.64
+  barely:3.64
+  dump:3.64
+
+Topic 1:
+  site:6.13
+  find:4.66
+  counter:4.66
+  attack pay:4.66
+  tor:3.56
+  paid:3.33
+  volnerabillities:3.32
+  analyzied:3.32
+  thurally:3.32
+  botnets:3.00
+
+Topic 2:
+  protection:4.11
+  pays:4.03
+  talk:4.02
+  cloudflare:3.73
+  time:3.63
+  prove:3.60
+  site:3.23
+  notice:3.09
+  burn site:2.89
+  tor:2.38
+
+Topic 3:
+  onionshop:4.45
+  fast:3.83
+  evos:3.80
+  dozen:3.80
+  booke:3.80
+  prove abilities:3.80
+  true:3.80
+  doubt:3.80
+  post post:3.80
+  laying:3.80
+
+Topic 4:
+  orders:4.66
+  botnetting:3.74
+  selftheyre:3.74
+  movies:3.74
+  bored:3.74
+  nice:3.74
+  day:3.74
+  big:3.62
+  post:3.62
+  dont:3.62
+
+K: 5, Log-Likelihood: -4735.782, Alpha: 11.000, Beta: 1.100

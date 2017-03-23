@@ -1,0 +1,61 @@
+Topic 0:
+  mix:26.75
+  straw:21.98
+  casing:21.98
+  turkey tins:16.42
+  dung:14.65
+  quart:14.65
+  mixing box:14.39
+  ratio:12.21
+  tor:11.81
+  distilled water:10.28
+
+Topic 1:
+  gallon bucket:7.31
+  tails:6.09
+  water:5.44
+  grey goose:5.28
+  bridges torproject worked:5.19
+  quote:5.10
+  bulk:4.87
+  manure:4.87
+  great:4.87
+  simple:4.87
+
+Topic 2:
+  group:29.30
+  members:19.54
+  child abuse content:14.65
+  security rules:12.21
+  rules:12.21
+  enterprise:9.77
+  child abuse:9.77
+  content:9.77
+  operation activities:9.77
+  member:8.69
+
+Topic 3:
+  bob:17.09
+  press seal:12.27
+  alice:12.20
+  vm:9.76
+  bin:9.76
+  turkey tins:8.02
+  spooks:7.32
+  counterintelligence:7.32
+  adversary:7.32
+  crack:7.32
+
+Topic 4:
+  inert gas:13.93
+  bottle vial:9.76
+  long term storage:9.76
+  septum:9.76
+  security camera:9.74
+  alcohol:8.60
+  transfer:8.20
+  syringe:7.32
+  xtal:7.32
+  mod status module:7.31
+
+K: 5, Log-Likelihood: -47618.590, Alpha: 11.000, Beta: 1.100

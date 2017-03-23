@@ -1,0 +1,61 @@
+Topic 0:
+  market:15.67
+  december:11.36
+  scam:10.61
+  quote:8.40
+  site:7.17
+  pops:5.89
+  tutorial:4.94
+  working:4.68
+  admin:4.41
+  key:3.97
+
+Topic 1:
+  forum:22.89
+  site:8.99
+  market:6.68
+  november:5.82
+  lack:5.75
+  nucleus:5.27
+  hard:5.06
+  issues:4.37
+  quote:4.23
+  time:3.99
+
+Topic 2:
+  drugs:20.93
+  uk:12.99
+  crime:8.99
+  market:8.09
+  organised:7.99
+  criminals:7.99
+  heroin:6.99
+  cannabis:6.99
+  drug:6.40
+  gchq:5.99
+
+Topic 3:
+  status:23.56
+  system:22.52
+  color:21.76
+  exit:16.01
+  activity:13.14
+  hours:12.52
+  determine:12.39
+  clone:11.49
+  attack:11.42
+  green:11.38
+
+Topic 4:
+  topic:3.89
+  title:3.77
+  purple:3.65
+  support:3.36
+  quote:3.21
+  pics:3.21
+  article:3.16
+  market:3.00
+  admin:2.95
+  mode:2.90
+
+K: 5, Log-Likelihood: -12146.037, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ratio:2.52
+  abv:2.03
+  everclear:1.87
+  mix:1.63
+  alc:1.58
+  highest:1.58
+  proof:1.58
+  works:1.58
+  volatile:1.51
+  coin:1.49
+
+Topic 1:
+  bitcoin:4.94
+  people:4.56
+  price:4.02
+  start:3.94
+  buy:2.51
+  currency:2.50
+  long:2.27
+  form:1.94
+  investors:1.94
+  term:1.94
+
+Topic 2:
+  everclear:4.86
+  vodka:3.29
+  magnetic:2.87
+  stirrer:2.87
+  dissolve:2.80
+  xtal:2.80
+  read:2.74
+  goose:2.09
+  grey:2.08
+  find:1.93
+
+Topic 3:
+  solution:6.50
+  lay:4.73
+  test:3.94
+  water:3.26
+  work:2.94
+  cheap:2.94
+  fine:2.84
+  vodka:2.35
+  stirring:1.94
+  addition:1.94
+
+Topic 4:
+  btc:7.85
+  fine:4.60
+  utility:3.82
+  long:3.49
+  march:2.88
+  core:2.79
+  hedging:2.79
+  developer:2.79
+  drama:2.79
+  pass:2.79
+
+K: 5, Log-Likelihood: -2417.068, Alpha: 11.000, Beta: 1.100

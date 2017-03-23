@@ -1,0 +1,61 @@
+Topic 0:
+  middle:7.34
+  earth:6.82
+  good:6.00
+  pretty:5.78
+  markets:5.15
+  agora:4.80
+  vendors:3.27
+  market:3.15
+  nucleus:2.46
+  bank:1.88
+
+Topic 1:
+  market:7.01
+  good:3.29
+  link:3.16
+  nucleus:2.86
+  evolution:2.54
+  earth:2.24
+  middle:2.06
+  love:1.77
+  opinion:1.64
+  abraxas:1.56
+
+Topic 2:
+  love:4.14
+  market:2.98
+  psychedelics:2.67
+  opinion:2.16
+  link:2.14
+  garden:2.10
+  vendors:2.06
+  thread:1.86
+  drugs:1.81
+  worth:1.76
+
+Topic 3:
+  market:7.82
+  good:7.32
+  moment:4.45
+  evolution:3.78
+  vendor:3.50
+  sell:3.41
+  nucleus:3.21
+  grams:2.57
+  link:2.45
+  avengers:2.23
+
+Topic 4:
+  psychedelics:5.54
+  understand:5.44
+  deep:3.85
+  luck:3.37
+  love:3.23
+  shit:3.19
+  majestical:3.18
+  dont:2.31
+  don:2.22
+  market:2.03
+
+K: 5, Log-Likelihood: -2751.388, Alpha: 11.000, Beta: 1.100

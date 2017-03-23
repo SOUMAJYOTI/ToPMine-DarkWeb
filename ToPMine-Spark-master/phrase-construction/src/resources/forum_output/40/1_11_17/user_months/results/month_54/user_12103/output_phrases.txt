@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:2.38
+  bitcoins:1.99
+  mixing service:1.54
+  transactions:1.54
+  mixing:1.19
+  service:1.15
+  intuitive:1.10
+  bitin:1.10
+  successful:1.07
+  links:1.06
+
+Topic 1:
+  onion:1.08
+  service:0.96
+  safe:0.94
+  net:0.94
+  mail:0.93
+  contact spacechain:0.93
+  site:0.78
+  absolutely:0.78
+  soonmail:0.78
+  workingour:0.78
+
+Topic 2:
+  bitcoins:2.24
+  bitcoin:1.88
+  transactions:1.70
+  mixing service:1.67
+  mixing:1.23
+  service:1.16
+  start:1.10
+  io:1.08
+  amount:1.07
+  process:1.07
+
+Topic 3:
+  fatherteddingtons:1.36
+  contact:1.36
+  goodbye:1.36
+  trombone:1.36
+  pmi:1.36
+  gather:1.36
+  buttcoins:1.36
+  plays:1.36
+  admin:1.36
+  quote:1.36
+
+Topic 4:
+  bitcoins:1.48
+  bitcoin:1.43
+  mixing:1.19
+  mixing service:1.01
+  service:1.00
+  transactions:0.98
+  coins:0.85
+  mixer:0.76
+  decided:0.76
+  successful:0.75
+
+K: 5, Log-Likelihood: -1329.941, Alpha: 11.000, Beta: 1.100

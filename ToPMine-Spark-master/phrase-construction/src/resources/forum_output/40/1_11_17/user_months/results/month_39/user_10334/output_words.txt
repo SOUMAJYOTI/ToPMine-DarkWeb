@@ -1,0 +1,61 @@
+Topic 0:
+  set:6.65
+  time:3.24
+  dont:2.90
+  hidden:2.52
+  onionshop:2.33
+  code:1.97
+  markets:1.90
+  pdf:1.90
+  setting:1.90
+  source:1.90
+
+Topic 1:
+  window:2.33
+  asks:2.26
+  attempting:2.25
+  server:1.88
+  input:1.74
+  frozen:1.74
+  onion:1.56
+  dead:1.46
+  quote:1.22
+  march:1.13
+
+Topic 2:
+  tor:4.93
+  hidden:2.15
+  server:2.02
+  onion:1.52
+  edit:1.47
+  apache:1.18
+  connections:1.17
+  set:0.95
+  guide:0.93
+  service:0.75
+
+Topic 3:
+  tor:5.18
+  hidden:2.83
+  edit:2.77
+  connections:2.69
+  apache:2.67
+  server:2.51
+  set:1.87
+  service:1.23
+  giant:1.22
+  making:1.21
+
+Topic 4:
+  server:2.27
+  attempting:1.48
+  asks:1.46
+  window:1.39
+  guide:1.19
+  dead:1.18
+  setup:1.08
+  frozen:1.04
+  advice:1.04
+  input:1.04
+
+K: 5, Log-Likelihood: -1868.363, Alpha: 11.000, Beta: 1.100

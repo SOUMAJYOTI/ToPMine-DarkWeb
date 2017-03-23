@@ -1,0 +1,61 @@
+Topic 0:
+  ja:1.91
+  jos:1.51
+  nain:1.32
+  kautta:1.07
+  esim:0.83
+  en:0.65
+  se:0.64
+  aika:0.64
+  pankin:0.63
+  ei:0.62
+
+Topic 1:
+  niin:1.96
+  mit:1.94
+  pit:1.84
+  random:1.84
+  tai:1.84
+  kraken:1.16
+  kun:1.01
+  suomen:0.94
+  se:0.90
+  ett:0.88
+
+Topic 2:
+  ja:1.26
+  se:1.02
+  nain:0.91
+  jos:0.86
+  ei:0.73
+  eli:0.62
+  ett:0.62
+  kautta:0.61
+  niin:0.53
+  tuo:0.49
+
+Topic 3:
+  en:2.79
+  ja:2.24
+  ei:1.62
+  esim:1.48
+  menee:0.86
+  kiinni:0.86
+  kuumotella:0.86
+  kiiinni:0.86
+  liikett:0.85
+  jokaista:0.85
+
+Topic 4:
+  ja:1.11
+  jos:0.92
+  nain:0.88
+  helposti:0.80
+  tuo:0.80
+  se:0.68
+  niin:0.59
+  kautta:0.51
+  suomen:0.50
+  kun:0.47
+
+K: 5, Log-Likelihood: -1260.928, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tea:1.84
+  simmer:1.06
+  orb:0.83
+  partial:0.83
+  threaded:0.83
+  wax:0.83
+  experience:0.83
+  source:0.83
+  dna:0.83
+  atties:0.83
+
+Topic 1:
+  concentrates:1.55
+  love:1.32
+  extract:1.12
+  juice:1.10
+  mix:0.85
+  thickness:0.82
+  ratio:0.82
+  ejuice:0.81
+  needed:0.81
+  depending:0.80
+
+Topic 2:
+  juice:0.99
+  concentrates:0.90
+  love:0.71
+  extract:0.71
+  depending:0.53
+  type:0.52
+  thickness:0.52
+  ejuice:0.52
+  cartomizer:0.52
+  ratio:0.51
+
+Topic 3:
+  concentrates:1.99
+  extract:1.42
+  juice:1.23
+  love:1.21
+  thick juice:0.82
+  vapeur:0.81
+  needed:0.79
+  cartomizer:0.78
+  ratio:0.78
+  type:0.78
+
+Topic 4:
+  juice:0.72
+  concentrates:0.50
+  love:0.44
+  extract:0.43
+  product:0.42
+  good:0.42
+  making:0.38
+  concentrate:0.38
+  atomizer:0.38
+  type:0.34
+
+K: 5, Log-Likelihood: -805.596, Alpha: 11.000, Beta: 1.100

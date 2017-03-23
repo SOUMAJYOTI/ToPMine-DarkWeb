@@ -1,0 +1,61 @@
+Topic 0:
+  fun:0.40
+  ils:0.20
+  nice:0.20
+  stay:0.20
+  safe:0.20
+  good:0.20
+  surfing:0.20
+  real:0.20
+  sucking:0.20
+  evolution:0.20
+
+Topic 1:
+  fun:0.41
+  nice:0.20
+  safe:0.20
+  stay:0.20
+  good:0.20
+  ils:0.20
+  sucking:0.20
+  real:0.20
+  market:0.20
+  evolution:0.20
+
+Topic 2:
+  fun:0.40
+  evolution:0.20
+  surfing:0.20
+  sucking:0.20
+  market:0.20
+  real:0.20
+  stay:0.20
+  safe:0.20
+  good:0.20
+  ils:0.20
+
+Topic 3:
+  fun:0.40
+  real:0.20
+  good:0.20
+  market:0.20
+  ils:0.20
+  sucking:0.20
+  evolution:0.20
+  surfing:0.20
+  safe:0.20
+  stay:0.20
+
+Topic 4:
+  fun:0.40
+  evolution:0.20
+  surfing:0.20
+  market:0.20
+  sucking:0.20
+  real:0.20
+  nice:0.20
+  safe:0.20
+  stay:0.20
+  ils:0.20
+
+K: 5, Log-Likelihood: -28.459, Alpha: 11.000, Beta: 1.100

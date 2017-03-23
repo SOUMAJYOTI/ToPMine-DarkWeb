@@ -1,0 +1,61 @@
+Topic 0:
+  havent:0.28
+  forum:0.28
+  issue:0.28
+  time:0.17
+  agora:0.17
+  fact:0.14
+  evolution:0.14
+  hearing:0.14
+  shit:0.14
+  long:0.14
+
+Topic 1:
+  forum:0.28
+  issue:0.28
+  havent:0.28
+  agora:0.17
+  time:0.17
+  days:0.14
+  sad:0.14
+  totally:0.14
+  disappointing:0.14
+  market:0.14
+
+Topic 2:
+  havent:0.28
+  forum:0.28
+  issue:0.28
+  time:0.17
+  agora:0.17
+  long:0.14
+  fact:0.14
+  things:0.14
+  communicate:0.14
+  doesnt:0.14
+
+Topic 3:
+  issue:0.28
+  forum:0.28
+  havent:0.28
+  time:0.17
+  agora:0.17
+  repeatedly:0.14
+  running:0.14
+  suppose:0.14
+  theft:0.14
+  tempting:0.14
+
+Topic 4:
+  issue:0.28
+  havent:0.27
+  forum:0.27
+  time:0.17
+  agora:0.17
+  planning:0.14
+  phished:0.14
+  easier:0.14
+  surface:0.14
+  bugs:0.14
+
+K: 5, Log-Likelihood: -189.269, Alpha: 11.000, Beta: 1.100

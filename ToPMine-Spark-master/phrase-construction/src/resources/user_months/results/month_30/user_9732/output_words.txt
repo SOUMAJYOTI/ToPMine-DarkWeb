@@ -1,0 +1,61 @@
+Topic 0:
+  btc:6.31
+  days:2.91
+  cc:1.27
+  credit:1.27
+  cost:1.27
+  deeply:1.27
+  country:1.27
+  card:1.27
+  poor:1.27
+  fuck:1.27
+
+Topic 1:
+  btc:1.49
+  club:0.67
+  top:0.66
+  luck:0.66
+  post:0.66
+  friend:0.65
+  stick:0.65
+  general:0.65
+  travels:0.65
+  bit:0.65
+
+Topic 2:
+  thread:0.88
+  link:0.86
+  general:0.85
+  decide:0.85
+  locating:0.85
+  top:0.85
+  bit:0.84
+  garden:0.84
+  called:0.84
+  kinds:0.84
+
+Topic 3:
+  mate:0.88
+  requests:0.88
+  trust:0.88
+  direct:0.87
+  hard:0.87
+  discussion:0.87
+  attention:0.87
+  called:0.87
+  purchase:0.87
+  kinds:0.86
+
+Topic 4:
+  btc:1.76
+  luck:0.59
+  club:0.59
+  coin:0.59
+  attention:0.58
+  safe:0.58
+  post:0.58
+  link:0.58
+  stick:0.58
+  decide:0.58
+
+K: 5, Log-Likelihood: -539.118, Alpha: 11.000, Beta: 1.100

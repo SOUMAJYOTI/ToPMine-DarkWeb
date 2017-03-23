@@ -1,0 +1,61 @@
+Topic 0:
+  girls:0.20
+  sunday:0.20
+  shipped:0.20
+  hack:0.20
+  road:0.20
+  messageone:0.20
+  love:0.20
+  bummer:0.20
+  info:0.20
+  orders:0.20
+
+Topic 1:
+  guys:0.20
+  drop:0.20
+  messageone:0.20
+  girls:0.20
+  orders:0.20
+  shipped:0.20
+  including:0.20
+  sunday:0.20
+  road:0.20
+  hack:0.20
+
+Topic 2:
+  guys:0.20
+  including:0.20
+  sunday:0.20
+  girls:0.20
+  bummer:0.20
+  road:0.20
+  shipped:0.20
+  drop:0.20
+  orders:0.20
+  canaris:0.20
+
+Topic 3:
+  canaris:0.20
+  info:0.20
+  bummer:0.20
+  messageone:0.20
+  including:0.20
+  love:0.20
+  hack:0.20
+  orders:0.20
+  drop:0.20
+  shipped:0.20
+
+Topic 4:
+  info:0.20
+  drop:0.20
+  hack:0.20
+  love:0.20
+  canaris:0.20
+  orders:0.20
+  road:0.20
+  guys:0.20
+  including:0.20
+  sunday:0.20
+
+K: 5, Log-Likelihood: -36.947, Alpha: 11.000, Beta: 1.100

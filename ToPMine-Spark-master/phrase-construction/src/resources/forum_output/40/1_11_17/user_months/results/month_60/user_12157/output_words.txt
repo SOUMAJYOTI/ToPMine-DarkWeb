@@ -1,0 +1,61 @@
+Topic 0:
+  coinbase:6.15
+  people:4.99
+  mixer:3.46
+  account:3.16
+  coins:2.98
+  directly:2.92
+  sending:2.92
+  dnm:2.87
+  buy:2.58
+  helix:2.48
+
+Topic 1:
+  thought:3.07
+  acct:2.92
+  coinbase:2.48
+  worth:2.24
+  closing:1.92
+  partner:1.92
+  weapon:1.92
+  post:1.74
+  info:1.73
+  shit:1.73
+
+Topic 2:
+  hops:9.04
+  coinbase:8.00
+  tied:4.75
+  dont:4.44
+  cold:4.32
+  multiply:4.15
+  identity:4.08
+  mixing:3.60
+  service:3.44
+  hop:3.41
+
+Topic 3:
+  coinbase:6.73
+  wallet:5.75
+  cold:3.92
+  hop:3.31
+  chain:3.10
+  encrypted:2.94
+  identity:2.65
+  service:2.62
+  mix:2.53
+  dont:2.46
+
+Topic 4:
+  wallet:18.46
+  cold:7.59
+  coinbase:5.64
+  wallets:4.88
+  dnm:4.18
+  link:3.89
+  blockchain:3.84
+  mixer:3.56
+  analysis:2.94
+  coin:2.84
+
+K: 5, Log-Likelihood: -3412.560, Alpha: 11.000, Beta: 1.100

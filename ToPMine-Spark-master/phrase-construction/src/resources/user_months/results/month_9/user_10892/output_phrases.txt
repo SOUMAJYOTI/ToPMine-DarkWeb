@@ -1,0 +1,61 @@
+Topic 0:
+  buyers pay:7.31
+  quote:5.50
+  sir:5.21
+  referred:5.20
+  markets commision figures dn:5.15
+  march:5.07
+  fee:4.87
+  endor:4.87
+  mass:4.85
+  pretty:4.65
+
+Topic 1:
+  bazaar:16.50
+  private key:12.20
+  order:10.71
+  hex output:9.76
+  hex string:9.76
+  raw transaction:8.22
+  public key:8.20
+  vendors:7.97
+  orders:7.32
+  redeem script:7.32
+
+Topic 2:
+  users:15.89
+  vendor:12.93
+  order:10.68
+  multisignature transactions:9.76
+  leave feedback:9.76
+  step:8.73
+  signed transaction:8.18
+  buyer:8.02
+  escrow:7.32
+  feedback:6.14
+
+Topic 3:
+  tor:12.20
+  hidden service:12.20
+  keys:8.25
+  attacker:7.32
+  relays bridges:7.32
+  relay identity key:7.32
+  leak:7.32
+  opens package:7.32
+  long term:7.32
+  clients:7.11
+
+Topic 4:
+  albert:5.28
+  vesp:4.86
+  coins:4.85
+  work:4.51
+  folks:4.02
+  bitwasp:3.99
+  implemented:3.99
+  assume:3.99
+  latest version:3.99
+  multi sir:3.92
+
+K: 5, Log-Likelihood: -20623.149, Alpha: 11.000, Beta: 1.100

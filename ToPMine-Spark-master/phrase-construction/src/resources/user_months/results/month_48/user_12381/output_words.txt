@@ -1,0 +1,61 @@
+Topic 0:
+  vai:0.40
+  myyj:0.40
+  aikoinaan:0.20
+  aina:0.20
+  tilasin:0.20
+  lt:0.20
+  kaupat:0.20
+  hyvin:0.20
+  toimi:0.20
+  ja:0.20
+
+Topic 1:
+  myyj:0.41
+  vai:0.39
+  varmaan:0.20
+  ihan:0.20
+  paras:0.20
+  maksanut:0.20
+  paketointi:0.20
+  oli:0.20
+  luottomyyj:0.20
+  turhaan:0.20
+
+Topic 2:
+  vai:0.40
+  myyj:0.40
+  tilannetta:0.20
+  jotain:0.20
+  kyseess:0.20
+  onkohan:0.20
+  sullen:0.20
+  setus:0.20
+  uskaltaako:0.20
+  mietin:0.20
+
+Topic 3:
+  myyj:0.40
+  vai:0.40
+  ja:0.20
+  kaupat:0.20
+  pillerit:0.20
+  tilasin:0.20
+  toimi:0.20
+  hyvin:0.20
+  lt:0.20
+  aina:0.20
+
+Topic 4:
+  vai:0.41
+  myyj:0.40
+  negatiivisia:0.20
+  seuraamaan:0.20
+  inhimillist:0.20
+  lle:0.20
+  kyseiselle:0.20
+  tilannetta:0.20
+  tilata:0.20
+  mietin:0.20
+
+K: 5, Log-Likelihood: -154.266, Alpha: 11.000, Beta: 1.100

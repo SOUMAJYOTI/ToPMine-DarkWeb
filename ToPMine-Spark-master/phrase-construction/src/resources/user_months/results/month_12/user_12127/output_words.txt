@@ -1,0 +1,61 @@
+Topic 0:
+  network:0.66
+  decentralized:0.57
+  curious:0.55
+  safecoins:0.41
+  exchanges:0.39
+  interested:0.39
+  btc:0.39
+  mind:0.39
+  investing:0.39
+  coin:0.39
+
+Topic 1:
+  decentralized:0.61
+  network:0.60
+  curious:0.59
+  popular:0.41
+  cryptocurrency:0.40
+  interested:0.40
+  exchanges:0.40
+  safecoins:0.40
+  investing:0.40
+  btc:0.40
+
+Topic 2:
+  curious:0.65
+  decentralized:0.61
+  network:0.54
+  popular:0.42
+  compared:0.42
+  investing:0.42
+  safecoin:0.42
+  exchanges:0.42
+  btc:0.42
+  cryptocurrency:0.42
+
+Topic 3:
+  curious:0.63
+  decentralized:0.61
+  network:0.60
+  cryptocurrency:0.43
+  popular:0.42
+  safecoin:0.40
+  coin:0.40
+  interested:0.40
+  mind:0.40
+  compared:0.40
+
+Topic 4:
+  network:0.60
+  decentralized:0.59
+  curious:0.58
+  safecoins:0.40
+  mind:0.40
+  coin:0.40
+  compared:0.40
+  safecoin:0.40
+  interested:0.40
+  btc:0.40
+
+K: 5, Log-Likelihood: -273.330, Alpha: 11.000, Beta: 1.100

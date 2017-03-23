@@ -1,0 +1,61 @@
+Topic 0:
+  call:11.13
+  encrypt voice video:11.13
+  zrtp:7.47
+  join inand voice video:7.40
+  text turn camera voice:7.40
+  situation:7.40
+  teamviewer doesnt support:7.34
+  pgp:7.28
+  zaphod:6.52
+  voice chat:6.49
+
+Topic 1:
+  skype:15.98
+  ms:13.63
+  application:10.73
+  silent circle:9.58
+  safe:8.34
+  phones:8.33
+  pretty:6.96
+  bay:6.39
+  calls:6.39
+  prior:6.39
+
+Topic 2:
+  party servers:7.44
+  humble server:7.39
+  hidden service:7.39
+  owockeznan:6.37
+  signup:6.25
+  log:6.23
+  zrtp supports:5.54
+  transport:5.54
+  connected:5.54
+  thatd:5.54
+
+Topic 3:
+  customer service:11.14
+  sales:8.35
+  problem traffic:7.43
+  month:6.94
+  bsm:6.37
+  agora:5.97
+  great:5.93
+  closed:5.56
+  sold:5.56
+  options:5.56
+
+Topic 4:
+  referred link:9.86
+  account:9.56
+  vendor:6.36
+  market click:6.36
+  top:6.36
+  info:6.36
+  buyer:6.36
+  pm agora:6.36
+  real:6.36
+  clear:5.54
+
+K: 5, Log-Likelihood: -12298.684, Alpha: 11.000, Beta: 1.100

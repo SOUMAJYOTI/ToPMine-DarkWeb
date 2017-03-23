@@ -1,0 +1,61 @@
+Topic 0:
+  worked:4.48
+  error:4.48
+  client:4.48
+  offer:4.48
+  claws:4.48
+  configure:4.48
+  tor openvpn:4.48
+  pray:4.47
+  browser:4.47
+  socks:4.47
+
+Topic 1:
+  packets:6.74
+  script:4.58
+  phone moved:4.49
+  port:4.49
+  machine:4.49
+  disk encryption:4.49
+  accelerometer:4.49
+  bust:4.49
+  device:4.49
+  gyroscope:4.49
+
+Topic 2:
+  door opened lock:4.61
+  lou reed dangerous volumes:4.61
+  good idea:3.78
+  mistake:3.65
+  lights strobe crazy:3.65
+  points:3.65
+  thoughts:3.65
+  window:3.65
+  pants pull:3.65
+  atop socks:3.65
+
+Topic 3:
+  foot switch:7.35
+  dont:6.31
+  computer power:6.19
+  lock screen:6.19
+  switch:4.72
+  remove battery:4.02
+  lol:3.98
+  published:3.66
+  systems:3.66
+  debugging:3.66
+
+Topic 4:
+  earthquake:7.59
+  seconds:5.47
+  july:4.62
+  override:4.47
+  shutdown:4.47
+  door:4.46
+  sofa:4.46
+  switch:4.41
+  mouse:4.33
+  battery:4.16
+
+K: 5, Log-Likelihood: -9201.800, Alpha: 11.000, Beta: 1.100

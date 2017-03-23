@@ -1,0 +1,61 @@
+Topic 0:
+  days:0.99
+  good:0.73
+  invite:0.69
+  hard:0.62
+  classy:0.59
+  vendors:0.58
+  brewing:0.58
+  closed:0.58
+  service:0.58
+  hype:0.58
+
+Topic 1:
+  invite:0.78
+  good:0.76
+  days:0.72
+  hard:0.64
+  market:0.55
+  products:0.51
+  joined:0.47
+  creating:0.46
+  instantly:0.46
+  work:0.46
+
+Topic 2:
+  good:0.87
+  invite:0.80
+  products:0.76
+  market:0.61
+  hard:0.60
+  joined:0.59
+  days:0.53
+  dhl:0.41
+  march:0.41
+  quote:0.40
+
+Topic 3:
+  products:1.21
+  invite:0.91
+  joined:0.88
+  good:0.83
+  market:0.71
+  staff:0.59
+  opened:0.59
+  reply:0.59
+  improved:0.59
+  looked:0.59
+
+Topic 4:
+  products:1.20
+  invite:0.83
+  good:0.81
+  joined:0.74
+  market:0.68
+  hard:0.59
+  left:0.51
+  opened:0.51
+  looked:0.51
+  improved:0.51
+
+K: 5, Log-Likelihood: -486.269, Alpha: 11.000, Beta: 1.100

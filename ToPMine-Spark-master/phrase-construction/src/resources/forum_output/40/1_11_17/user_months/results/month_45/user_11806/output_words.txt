@@ -1,0 +1,21 @@
+Topic 0:
+  meth:0.20
+  wan:0.20
+
+Topic 1:
+  meth:0.20
+  wan:0.20
+
+Topic 2:
+  wan:0.20
+  meth:0.20
+
+Topic 3:
+  meth:0.20
+  wan:0.20
+
+Topic 4:
+  wan:0.20
+  meth:0.20
+
+K: 5, Log-Likelihood: -1.386, Alpha: 11.000, Beta: 1.100

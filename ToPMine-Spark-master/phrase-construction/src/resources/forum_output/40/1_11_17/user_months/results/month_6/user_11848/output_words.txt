@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.71
+  fast:0.78
+  march:0.68
+  quote:0.67
+  security:0.65
+  takes:0.65
+  drug:0.65
+  forum:0.59
+  wanted:0.59
+  site:0.59
+
+Topic 1:
+  market:3.80
+  fast:1.34
+  lot:1.10
+  fraud:1.09
+  emerging:1.09
+  excellent:1.09
+  growing:1.09
+  tuts:1.09
+  eve:1.09
+  great:1.08
+
+Topic 2:
+  scheme:1.43
+  market:0.94
+  forum:0.68
+  site:0.68
+  quote:0.63
+  march:0.60
+  owned:0.58
+  question:0.58
+  forums:0.58
+  people:0.58
+
+Topic 3:
+  scheme:1.01
+  forum:0.84
+  site:0.82
+  market:0.79
+  march:0.64
+  quote:0.64
+  moderator:0.50
+  add:0.49
+  interface:0.49
+  button:0.48
+
+Topic 4:
+  scheme:2.23
+  market:0.76
+  running:0.73
+  days:0.73
+  forums:0.72
+  months:0.72
+  place:0.72
+  people:0.72
+  owned:0.72
+  question:0.71
+
+K: 5, Log-Likelihood: -623.436, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  gpg:5.02
+  key:2.77
+  select:2.75
+  command:2.75
+  user:2.64
+  file:2.42
+  public:2.38
+  message:2.24
+  code:1.83
+  expunged:1.75
+
+Topic 1:
+  key:16.39
+  gpg:9.57
+  code:8.93
+  select:8.17
+  enter:7.38
+  command:6.56
+  message:5.58
+  expires:5.46
+  trust:4.48
+  user:4.45
+
+Topic 2:
+  key:8.00
+  select:6.44
+  public:6.02
+  file:5.48
+  message:5.15
+  command:4.91
+  code:4.89
+  trust:3.86
+  enter:3.73
+  expunged:3.45
+
+Topic 3:
+  key:7.16
+  file:2.59
+  message:2.50
+  public:2.26
+  code:2.11
+  gpg:1.94
+  trust:1.86
+  created:1.81
+  user:1.79
+  gnupg:1.72
+
+Topic 4:
+  key:15.67
+  code:7.23
+  select:7.00
+  public:5.24
+  user:4.76
+  file:4.61
+  message:3.52
+  expunged:3.48
+  command:3.34
+  enter:2.86
+
+K: 5, Log-Likelihood: -9314.335, Alpha: 11.000, Beta: 1.100

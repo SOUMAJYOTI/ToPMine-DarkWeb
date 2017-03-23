@@ -1,0 +1,61 @@
+Topic 0:
+  couple:3.67
+  time:3.67
+  availability:3.67
+  security:3.67
+  wait:1.80
+  withdrawal:1.80
+  dear:1.80
+  seizures:1.80
+  problem:1.80
+  message:1.80
+
+Topic 1:
+  populated:1.77
+  confirm:1.77
+  cool:1.77
+  hour:1.77
+  suppose:1.77
+  manner:1.77
+  reliability:1.77
+  web:1.77
+  unreliable:1.77
+  proven:1.77
+
+Topic 2:
+  hope:2.04
+  withdrawals:1.62
+  confident:1.54
+  hopelessly:1.54
+  turn:1.54
+  inaccessible:1.53
+  hoping pretty:1.53
+  niaive:1.53
+  efforts:1.53
+  payments:1.53
+
+Topic 3:
+  agra wallet:7.20
+  doesnt:2.73
+  teach:2.73
+  making:2.73
+  worried confirmations:2.73
+  worried deposits:2.73
+  blockchain:2.73
+  logged:2.73
+  solution:2.73
+  deposited btc:2.73
+
+Topic 4:
+  agora forums:2.71
+  notice:2.71
+  feech:2.71
+  add:2.71
+  quote:1.93
+  november:1.93
+  agoras:1.76
+  creepy:1.76
+  pmthankyou:1.76
+  harkness:1.76
+
+K: 5, Log-Likelihood: -1766.124, Alpha: 11.000, Beta: 1.100

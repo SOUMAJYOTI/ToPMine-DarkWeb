@@ -1,0 +1,61 @@
+Topic 0:
+  administration:5.64
+  job:3.69
+  pandora:3.57
+  understand:3.37
+  main time:3.07
+  alice:2.89
+  reached:2.89
+  cheers:2.89
+  explaination:2.89
+  working:2.89
+
+Topic 1:
+  vacation mode:7.61
+  good:5.98
+  click:3.84
+  link:3.84
+  feedback:3.66
+  find:2.92
+  change:2.92
+  computering:2.92
+  admin:2.92
+  deblocked account:2.92
+
+Topic 2:
+  agora:2.84
+  forums:2.84
+  account:2.83
+  solve:2.69
+  fucked:2.64
+  yeah:1.76
+  hotline:1.76
+  support:1.76
+  post:1.76
+  vendor support:1.76
+
+Topic 3:
+  custumer:5.79
+  reason:3.84
+  booming:3.84
+  blocqued:3.84
+  trust:3.84
+  question:3.84
+  money:3.48
+  agora:2.63
+  custumers:2.57
+  hope:2.24
+
+Topic 4:
+  custumers:4.71
+  real:3.85
+  case:3.85
+  don:2.49
+  isn:1.90
+  thinkink:1.90
+  shit:1.90
+  crow:1.90
+  comcurence:1.90
+  pay:1.90
+
+K: 5, Log-Likelihood: -2626.432, Alpha: 11.000, Beta: 1.100

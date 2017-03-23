@@ -1,0 +1,61 @@
+Topic 0:
+  firmware:7.52
+  router:6.32
+  answer:4.46
+  doesnt:3.27
+  custom:3.21
+  question:3.20
+  quote:2.46
+  november:2.32
+  firmwares:2.26
+  features:2.06
+
+Topic 1:
+  router:5.81
+  dns:2.61
+  wrt:2.25
+  scrappy:1.94
+  default:1.88
+  custom:1.63
+  firmware:1.47
+  control:1.05
+  additional:1.04
+  cheap:1.04
+
+Topic 2:
+  dns:6.84
+  addresses:5.10
+  appears:3.23
+  router:3.00
+  default:2.60
+  scrappy:2.10
+  changed:1.52
+  personal:1.47
+  frontend:1.46
+  browse:1.46
+
+Topic 3:
+  router:4.08
+  firmware:3.44
+  answer:2.61
+  november:2.04
+  doesnt:1.92
+  custom:1.90
+  quote:1.89
+  firmwares:1.72
+  routers:1.68
+  question:1.56
+
+Topic 4:
+  isp:3.26
+  dens:2.31
+  router:1.80
+  november:1.70
+  quote:1.69
+  answer:1.46
+  parade:1.45
+  log:1.45
+  big:1.44
+  set:1.27
+
+K: 5, Log-Likelihood: -1779.583, Alpha: 11.000, Beta: 1.100

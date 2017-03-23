@@ -1,0 +1,61 @@
+Topic 0:
+  software:8.68
+  brian:8.11
+  march:5.34
+  truecrypt open source crypto:5.15
+  place closed source proprietary:5.15
+  software filevault:5.15
+  sound mirage judging heard:4.94
+  program secure feds:4.94
+  encrypting macbook buit:4.94
+  apples relationship asa assume:4.94
+
+Topic 1:
+  diceware:4.78
+  mac:4.44
+  recomendation:4.03
+  windows:4.03
+  pick:4.03
+  easiest:4.03
+  darknet tails:4.03
+  guy:4.03
+  advice:4.03
+  dont linux:4.03
+
+Topic 2:
+  hidden service:9.74
+  clearnet sites:9.74
+  truecrypt:7.54
+  clearnet site:7.29
+  brazilian:7.29
+  filevault apple:7.29
+  filevault clearnet:7.29
+  filevault:6.03
+  hard drive:5.09
+  strong password:5.09
+
+Topic 3:
+  sleep:8.65
+  macs:4.82
+  prolly:4.82
+  tor:4.82
+  full disk encryption:4.49
+  security:4.22
+  character strong password:4.06
+  safe:4.01
+  wondering:4.00
+  experts:4.00
+
+Topic 4:
+  search space:17.08
+  special characters:14.64
+  works bits entropy:12.20
+  order:9.76
+  character password:9.76
+  password:9.13
+  keys:7.31
+  billion combinations bits entry:7.31
+  upper lowercase numerals:7.31
+  chars mixed case:7.31
+
+K: 5, Log-Likelihood: -13722.951, Alpha: 11.000, Beta: 1.100

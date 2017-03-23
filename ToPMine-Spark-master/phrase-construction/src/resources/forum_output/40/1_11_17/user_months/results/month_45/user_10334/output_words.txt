@@ -1,0 +1,61 @@
+Topic 0:
+  text:1.69
+  post:1.68
+  onion:1.52
+  server:1.00
+  tor:0.94
+  tutorial:0.75
+  plain:0.75
+  scarf:0.75
+  sites:0.75
+  paranoid:0.75
+
+Topic 1:
+  window:2.60
+  attempting:2.50
+  asks:2.38
+  frozen:2.10
+  input:1.99
+  dead:1.64
+  march:1.45
+  server:1.43
+  quote:1.37
+  accepting:1.13
+
+Topic 2:
+  server:1.99
+  asks:1.32
+  onion:1.23
+  attempting:1.21
+  window:1.10
+  setup:0.97
+  guide:0.94
+  dead:0.89
+  input:0.76
+  quote:0.71
+
+Topic 3:
+  tor:4.27
+  server:2.39
+  onion:1.10
+  hidden:1.02
+  edit:1.00
+  guide:0.98
+  connections:0.96
+  apache:0.84
+  set:0.84
+  code:0.55
+
+Topic 4:
+  tor:4.93
+  hidden:3.74
+  apache:2.91
+  set:2.91
+  connections:2.80
+  edit:2.75
+  iptables:1.27
+  box:1.26
+  fixing:1.26
+  preventing:1.26
+
+K: 5, Log-Likelihood: -1248.091, Alpha: 11.000, Beta: 1.100

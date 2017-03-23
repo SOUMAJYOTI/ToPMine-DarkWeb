@@ -1,0 +1,61 @@
+Topic 0:
+  tails:3.61
+  key:3.03
+  kernel:2.25
+  verify:2.21
+  signature:1.93
+  developers:1.87
+  signing:1.73
+  linus:1.46
+  iso:1.45
+  keys:1.31
+
+Topic 1:
+  tails:6.28
+  key:2.44
+  verify:2.27
+  gpg:2.16
+  iso:2.07
+  sig:1.86
+  file:1.60
+  multiply:0.97
+  expired:0.97
+  youl:0.97
+
+Topic 2:
+  redhat:2.95
+  government:2.93
+  works:2.91
+  kernel:2.39
+  security:1.74
+  software:1.74
+  code:1.74
+  issues:1.70
+  linux:1.69
+  closely:1.69
+
+Topic 3:
+  tails:5.90
+  key:4.00
+  verify:3.19
+  iso:2.60
+  gpg:2.42
+  signature:1.65
+  sig:1.63
+  developers:1.61
+  file:1.45
+  february:0.87
+
+Topic 4:
+  persistence:1.39
+  doesnt:1.17
+  storage:1.16
+  key:1.12
+  verify:0.97
+  tails:0.88
+  mounting:0.81
+  memory:0.79
+  good:0.72
+  iso:0.70
+
+K: 5, Log-Likelihood: -1363.609, Alpha: 11.000, Beta: 1.100

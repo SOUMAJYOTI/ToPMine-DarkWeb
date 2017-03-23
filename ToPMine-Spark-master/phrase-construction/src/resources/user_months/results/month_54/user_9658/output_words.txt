@@ -1,0 +1,61 @@
+Topic 0:
+  wire:3.77
+  money:3.30
+  amount:2.78
+  lbc:1.78
+  amounts:1.78
+  bank:1.78
+  company:0.80
+  break:0.80
+  questions:0.80
+  transfers:0.80
+
+Topic 1:
+  anonymous:2.23
+  btc:1.59
+  club:1.37
+  transactions:1.27
+  surely:0.67
+  easy:0.67
+  fast:0.66
+  bars:0.66
+  behrly:0.66
+  create:0.66
+
+Topic 2:
+  anonymous:2.66
+  transactions:1.82
+  club:1.66
+  btc:1.39
+  rolling:0.71
+  service:0.70
+  spend:0.70
+  fans:0.70
+  june:0.70
+  mail:0.70
+
+Topic 3:
+  bitcoins:1.02
+  btc:0.84
+  friend:0.81
+  trust:0.81
+  things:0.80
+  send:0.73
+  cash:0.55
+  large:0.54
+  find:0.54
+  anonymously:0.54
+
+Topic 4:
+  bitcoins:1.69
+  send:1.00
+  trust:0.87
+  friend:0.86
+  things:0.85
+  btc:0.66
+  anonymous:0.51
+  member:0.44
+  message:0.44
+  times:0.44
+
+K: 5, Log-Likelihood: -637.849, Alpha: 11.000, Beta: 1.100

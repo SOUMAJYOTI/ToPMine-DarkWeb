@@ -1,0 +1,61 @@
+Topic 0:
+  btc:1.67
+  simple:1.42
+  quote:1.08
+  created:0.95
+  tale:0.89
+  criminal:0.89
+  collar:0.88
+  nice:0.88
+  swat:0.88
+  white:0.88
+
+Topic 1:
+  wallet:8.42
+  referred:3.64
+  funds:3.62
+  address:2.97
+  receive:2.55
+  time:2.21
+  people:1.71
+  online:1.71
+  disputes:1.62
+  connects:1.62
+
+Topic 2:
+  tax:4.92
+  incorporate:3.93
+  avoidance:2.93
+  ato:2.93
+  office:1.93
+  feeling:1.93
+  door:1.15
+  operation:1.15
+  knock:1.15
+  simple:1.05
+
+Topic 3:
+  simple:1.24
+  farm:1.13
+  thing:1.12
+  btc:1.10
+  swat:0.91
+  white:0.91
+  nice:0.90
+  collar:0.90
+  criminal:0.89
+  tale:0.89
+
+Topic 4:
+  wright:7.92
+  wired:5.92
+  bitcoin:5.17
+  published:4.93
+  nakamoto:4.93
+  article:2.93
+  launch:2.93
+  blog:2.93
+  january:2.93
+  australian:1.97
+
+K: 5, Log-Likelihood: -2128.076, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  asked:0.56
+  auto:0.28
+  address:0.25
+  aint:0.25
+  set:0.25
+  passwords:0.25
+  early:0.25
+  wallet:0.25
+  register:0.25
+  succesfully:0.25
+
+Topic 1:
+  asked:0.50
+  auto:0.29
+  link:0.23
+  thing:0.23
+  checked:0.23
+  registering:0.23
+  early:0.23
+  aint:0.23
+  bit:0.23
+  random:0.23
+
+Topic 2:
+  asked:0.38
+  auto:0.34
+  offerings:0.22
+  great:0.22
+  offer:0.22
+  gadgets:0.22
+  time:0.22
+  check:0.22
+  weve:0.22
+  seriousness:0.22
+
+Topic 3:
+  auto:0.58
+  asked:0.27
+  fordigital:0.25
+  layout:0.25
+  order:0.25
+  justi:0.25
+  silkroad:0.25
+  warehouse:0.25
+  internal:0.25
+  clickpay:0.25
+
+Topic 4:
+  auto:0.52
+  asked:0.29
+  feature:0.24
+  views:0.24
+  checkout:0.24
+  mesages:0.24
+  darkmarketupcoming:0.24
+  based:0.24
+  buyer:0.24
+  team:0.24
+
+K: 5, Log-Likelihood: -288.923, Alpha: 11.000, Beta: 1.100

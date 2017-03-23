@@ -1,0 +1,61 @@
+Topic 0:
+  party:1.98
+  outlaw:1.44
+  dutch:1.07
+  bisto:0.96
+  stunning:0.93
+  vendor:0.93
+  day:0.91
+  people:0.91
+  beans:0.88
+  market:0.86
+
+Topic 1:
+  today:1.51
+  problem:1.36
+  february:1.19
+  register:1.13
+  trouble:0.91
+  details:0.90
+  quote:0.89
+  load:0.89
+  loading:0.88
+  questions:0.82
+
+Topic 2:
+  problem:2.74
+  today:2.61
+  register:2.14
+  forums:2.02
+  february:1.92
+  load:1.32
+  loading:1.32
+  details:1.31
+  trouble:1.28
+  personal:1.26
+
+Topic 3:
+  party:1.31
+  escrow:1.09
+  dutch:1.01
+  outlaw:0.90
+  day:0.77
+  bisto:0.74
+  market:0.69
+  stunning:0.67
+  layout:0.66
+  beans:0.63
+
+Topic 4:
+  outlaw:2.12
+  party:1.92
+  vendor:1.34
+  dutch:1.23
+  people:1.07
+  day:1.00
+  beans:0.99
+  place:0.87
+  join:0.87
+  pay:0.87
+
+K: 5, Log-Likelihood: -1006.022, Alpha: 11.000, Beta: 1.100

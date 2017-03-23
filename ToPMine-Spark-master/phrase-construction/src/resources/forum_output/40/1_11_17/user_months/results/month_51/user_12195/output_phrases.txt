@@ -1,0 +1,61 @@
+Topic 0:
+  oli:8.02
+  osoitetta:6.01
+  empty:5.74
+  silkkitiehdg onion:4.90
+  tilalla:4.00
+  sivuston:4.00
+  kanssa:4.00
+  eik:4.00
+  ohjasi:4.00
+  lukuunottamatta:4.00
+
+Topic 1:
+  bitcoin:4.00
+  coins:4.00
+  ja:3.04
+  jo:2.96
+  confirmed:2.68
+  problem:2.43
+  lompakkosofta:1.99
+  nain:1.99
+  viikolla:1.99
+  find:1.99
+
+Topic 2:
+  send:6.01
+  dont:4.97
+  read:4.00
+  chat:4.00
+  package:4.00
+  log:4.00
+  witch:4.00
+  benjomarket:4.00
+  private:4.00
+  btc:3.58
+
+Topic 3:
+  clear webin:6.02
+  ja:4.97
+  varoitus:4.00
+  lk:4.00
+  kannattaa:4.00
+  salasanoja:4.00
+  ko:4.00
+  sivustot:4.00
+  liikkeell:4.00
+  helposti:4.00
+
+Topic 4:
+  password:3.24
+  olemassa:3.09
+  message:3.03
+  tuota:2.70
+  node:1.94
+  huijaussivuksi:1.94
+  rehellinen:1.94
+  teill:1.94
+  ylh:1.94
+  linkin:1.94
+
+K: 5, Log-Likelihood: -4990.735, Alpha: 11.000, Beta: 1.100

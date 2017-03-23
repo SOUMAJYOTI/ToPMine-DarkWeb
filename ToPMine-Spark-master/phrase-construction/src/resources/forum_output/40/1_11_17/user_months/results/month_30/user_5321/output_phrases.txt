@@ -1,0 +1,61 @@
+Topic 0:
+  problem:0.86
+  orders:0.69
+  agora:0.36
+  person:0.35
+  forum:0.35
+  buyer:0.35
+  access:0.35
+  topics:0.35
+  official:0.35
+  accounts:0.35
+
+Topic 1:
+  orders:0.53
+  btw:0.42
+  convenience:0.42
+  earth:0.42
+  planet:0.42
+  agra:0.42
+  compromised:0.42
+  earliest:0.42
+  le:0.42
+  leave:0.42
+
+Topic 2:
+  orders:0.70
+  problem:0.58
+  agora:0.42
+  mouse december amget:0.34
+  quote:0.34
+  rational:0.34
+  caps:0.34
+  compromised:0.33
+  leave:0.33
+  earliest:0.33
+
+Topic 3:
+  orders:0.68
+  agora:0.51
+  problem:0.36
+  quote:0.32
+  mouse december amget:0.32
+  leave:0.32
+  earliest:0.32
+  le:0.32
+  convenience:0.32
+  earth:0.32
+
+Topic 4:
+  orders:0.78
+  agora:0.53
+  problem:0.34
+  cancel:0.33
+  ordered:0.33
+  shop:0.33
+  doesn:0.33
+  hope:0.33
+  invite:0.33
+  open:0.33
+
+K: 5, Log-Likelihood: -310.014, Alpha: 11.000, Beta: 1.100

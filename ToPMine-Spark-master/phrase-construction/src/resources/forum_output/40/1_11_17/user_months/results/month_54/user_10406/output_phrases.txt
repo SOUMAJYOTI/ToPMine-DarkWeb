@@ -1,0 +1,61 @@
+Topic 0:
+  grateful:10.46
+  small llama:9.65
+  august:6.97
+  settings:6.91
+  quote:6.56
+  jack harkness august:6.32
+  cross giraffe sheep reality:6.32
+  thought alpaca:6.32
+  spit nominate alpaca:6.32
+  basically smaller version llama:6.32
+
+Topic 1:
+  telemetry microsoft:22.65
+  ram:14.44
+  stock cooler:12.04
+  footprintpredict:11.32
+  windows:10.49
+  os:10.01
+  data:8.49
+  telemetry:8.49
+  comi services social microsoft:8.49
+  comreports wes:8.49
+
+Topic 2:
+  openbsd:5.43
+  future privacy:2.77
+  ime:2.77
+  backdoors:2.77
+  intel:2.77
+  grim:2.77
+  install:2.73
+  experiences:2.73
+  guess time:2.72
+  trisquel:2.72
+
+Topic 3:
+  pitbull:10.60
+  fur hair:7.44
+  wit:7.01
+  llamas:6.27
+  pops:6.22
+  dont:6.16
+  fiercely protection:5.65
+  guard:5.49
+  lazy:4.78
+  friendly:4.77
+
+Topic 4:
+  mafia:33.81
+  animals:19.36
+  police:14.51
+  intimidate enemies:9.66
+  boa constrictors:9.66
+  italian:9.66
+  exotic:9.66
+  year:9.66
+  protection money:9.66
+  drug:9.66
+
+K: 5, Log-Likelihood: -19515.000, Alpha: 11.000, Beta: 1.100

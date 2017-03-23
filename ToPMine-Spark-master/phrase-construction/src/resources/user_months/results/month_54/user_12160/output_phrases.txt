@@ -1,0 +1,61 @@
+Topic 0:
+  tor:1.58
+  tumblers:1.57
+  hosted:1.57
+  uri:1.57
+  hidden:1.57
+  services:1.57
+  learned mixing:1.57
+  stick:1.56
+  clearnet:1.56
+  opposed:1.56
+
+Topic 1:
+  good:2.66
+  guy:2.66
+  aint:2.66
+  sounds:2.66
+  gon:2.66
+  pin protection:2.08
+  security animal risk:2.08
+  security:1.28
+  maximum:1.28
+  pops:1.28
+
+Topic 2:
+  coinpig:4.04
+  wallet:2.91
+  holdings:2.65
+  deposit:2.65
+  site:2.65
+  secure bitcoin:2.65
+  bitcoins:2.65
+  month:2.65
+  extra:2.65
+  receive:2.65
+
+Topic 3:
+  blockchainbdgpzk:1.20
+  advertising:1.20
+  darknet:1.20
+  assed:1.20
+  interest:1.20
+  screams:1.20
+  blockchain:1.20
+  openly:1.20
+  anon:1.20
+  supposed:1.20
+
+Topic 4:
+  scam:2.33
+  amounts:1.27
+  coin:1.27
+  stupidest:1.27
+  small:1.27
+  afford:1.27
+  term:1.27
+  records:1.27
+  track:1.27
+  months:1.27
+
+K: 5, Log-Likelihood: -1306.165, Alpha: 11.000, Beta: 1.100

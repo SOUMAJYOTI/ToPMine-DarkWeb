@@ -1,0 +1,61 @@
+Topic 0:
+  stego:5.60
+  item:2.92
+  steps:2.09
+  hide:2.06
+  desktop:1.92
+  create:1.92
+  work:1.92
+  passwords:1.47
+  problem:0.97
+  document:0.93
+
+Topic 1:
+  stego:5.10
+  detect:3.19
+  files:3.05
+  quote:2.77
+  trust:2.59
+  info:1.78
+  images:1.64
+  suspect:1.64
+  gibson:1.56
+  le:1.45
+
+Topic 2:
+  truecrypt:17.58
+  program:8.17
+  code:6.95
+  security:6.51
+  windows:6.22
+  flaws:5.95
+  system:4.34
+  veracrypt:4.14
+  project:3.95
+  bugs:3.95
+
+Topic 3:
+  encryption:4.39
+  system:3.65
+  users:3.04
+  linux:2.23
+  flaw:2.07
+  avoid:1.94
+  operating:1.94
+  pc:1.94
+  running:1.94
+  darknet:1.94
+
+Topic 4:
+  september:5.81
+  windows:4.95
+  infected:4.90
+  zaphod:4.47
+  security:4.15
+  box:3.90
+  oppailover:2.70
+  quote:2.36
+  passwords:2.23
+  including:1.98
+
+K: 5, Log-Likelihood: -3323.692, Alpha: 11.000, Beta: 1.100

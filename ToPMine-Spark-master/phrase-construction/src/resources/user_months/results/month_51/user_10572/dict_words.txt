@@ -1,0 +1,477 @@
+bad,0,1
+safer,1,1
+guards,2,9
+advance,3,1
+tor exit,4,2
+offer,5,1
+quote,6,2
+protected,7,1
+understanding,8,1
+traffic analysis,9,2
+select hsdirs,10,1
+pseudo,11,1
+presidente,12,2
+addition,13,1
+detect attack,14,1
+real internet,15,1
+amazons,16,1
+pass,17,1
+pool,18,1
+require,19,1
+analysis,20,3
+volunteers,21,1
+needed easy,22,1
+easy,23,3
+hidden services,24,15
+selection,25,1
+correlation,26,3
+nodes relays,27,1
+domain,28,1
+attackers control,29,1
+shouod,30,1
+accessible,31,1
+statistical,32,1
+deal,33,1
+prove,34,1
+relays,35,8
+services easy,36,1
+howand,37,1
+sigaint,38,3
+search,39,1
+users real,40,2
+security researchers,41,1
+targeted,42,2
+agreed,43,1
+needed nodes,44,1
+website,45,3
+set,46,1
+address,47,2
+onions,48,1
+thursday,49,1
+relays perform,50,1
+internet websites,51,2
+hsdirs specific,52,1
+june,53,2
+constantin,54,1
+series,55,1
+days,56,3
+cloneno,57,1
+correlation attacks,58,3
+standard,59,2
+de,60,3
+reports,61,1
+dig,62,1
+attack users,63,1
+network exit,64,1
+official,65,1
+attack nodes,66,1
+attacks attacker,67,2
+good,68,1
+correctly,69,1
+tor users,70,4
+trust needed,71,1
+attacks,72,4
+talk,73,1
+unverifiable,74,1
+isps,75,2
+ec,76,1
+chime,77,2
+tor relays,78,1
+dedicated,79,1
+pull users,80,1
+visibility,81,1
+el,82,2
+enforcement,83,2
+pay,84,1
+control rendezvous,85,1
+donncha,86,1
+users,87,19
+article,88,1
+service control,89,1
+service website,90,1
+exit nodes,91,1
+success,92,1
+parts,93,1
+guards guards trust,94,3
+publicised,95,1
+guards hidden,96,1
+trust,97,3
+identifying,98,1
+visiting,99,2
+roles,100,1
+people sigaint,101,1
+explained,102,1
+directory,103,1
+prevent,104,1
+random,105,1
+researchers brute,106,1
+site tor,107,1
+client,108,1
+users specific,109,1
+hard,110,1
+surveillance,111,1
+diffident,112,1
+isrun,113,2
+owner,114,1
+sold,115,1
+identify,116,2
+jebusite,117,1
+relay,118,1
+perform,119,3
+attacker,120,3
+monitor,121,2
+servers users,122,1
+special,123,1
+nodes,124,16
+detect attacks,125,1
+service,126,13
+visited,127,2
+clone,128,1
+achieved,129,2
+setup,130,1
+service nodes,131,1
+developer,132,1
+facebooks,133,1
+practice,134,1
+select,135,3
+called,136,1
+exit traffic,137,1
+days attackers,138,1
+hs,139,1
+hope,140,1
+gains,141,1
+doesnt,142,1
+number,143,1
+perform traffic,144,2
+easily,145,1
+select guards,146,1
+order,147,2
+period,148,2
+issue,149,1
+large,150,1
+researchers,151,7
+mitm,152,2
+ip,153,1
+confirmation,154,1
+removing,155,1
+specific hidden,156,1
+exit,157,7
+pmrun,158,1
+spots,159,1
+tor anonymity,160,1
+service users,161,1
+server,162,1
+shield,163,1
+entry nodes,164,1
+anonymizing,165,1
+eventually,166,1
+operated,167,1
+kinds,168,1
+protection,169,2
+login,170,1
+remind,171,1
+mention,172,1
+government,173,1
+top,174,1
+tor,175,35
+share,176,1
+costly,177,1
+payshldt,178,1
+tankersley,179,2
+tor access,180,1
+drugs,181,1
+change,182,1
+attackers,183,3
+kw,184,1
+uri,185,1
+relays access,186,1
+hide,187,1
+days researchers,188,1
+internet website,189,1
+removed,190,1
+nodes hsdirs,191,4
+website hidden,192,1
+specific tor,193,1
+hops,194,1
+websites,195,5
+silkroadvb,196,1
+addresses users,197,1
+infamous,198,1
+political,199,1
+serve,200,2
+bumped,201,1
+points,202,2
+websites security,203,1
+anonymization,204,1
+time tor,205,1
+biggest,206,1
+macbook,207,1
+implemented,208,1
+nasty,209,1
+traffic,210,10
+piz,211,1
+anonymity network,212,1
+law,213,2
+clones,214,2
+level,215,1
+positions,216,2
+ideas,217,1
+includes,218,1
+real,219,3
+tool,220,2
+chosen,221,2
+creditable,222,1
+entry,223,4
+condition,224,1
+attack perform,225,1
+background,226,1
+arms,227,1
+control tor,228,1
+pmwe,229,1
+specialized,230,1
+arrested,231,1
+code,232,1
+keys,233,2
+guards trust,234,3
+careful,235,2
+technique,236,2
+valsorda,237,2
+hsdirs hidden,238,2
+tors,239,1
+box,240,1
+hsdir hidden,241,1
+running,242,1
+design,243,1
+working,244,1
+friday,245,2
+tor hidden services,246,7
+suprised,247,1
+harder,248,2
+haven,249,1
+chance,250,1
+determine,251,2
+looked,252,1
+control,253,6
+thread,254,1
+specific,255,4
+stable,256,1
+activities,257,1
+online,258,2
+easier,259,3
+essentially,260,1
+threat,261,1
+tor hidden,262,12
+users easier,263,1
+thought,264,1
+enters,265,1
+services addresses,266,1
+users access,267,1
+users tor,268,2
+engines,269,1
+rendezvous,270,4
+facebookcorewwwi,271,1
+cheers,272,2
+released,273,1
+goals,274,1
+proposal,275,1
+based,276,1
+github,277,1
+cares,278,1
+closely,279,1
+sandvik,280,2
+vulnerability,281,1
+countries,282,1
+monitoring,283,2
+guards guards,284,3
+pointed,285,1
+node,286,1
+torlist,287,1
+discovered,288,2
+fact,289,1
+conference,290,2
+access,291,4
+automatically,292,1
+mid,293,1
+scam,294,1
+hsdir,295,5
+pon,296,1
+routing,297,1
+managed,298,1
+attack,299,9
+hsdir flag,300,1
+george,301,1
+free,302,1
+popular,303,2
+key,304,2
+silk,305,1
+receive,306,2
+saidlucian,307,1
+services,308,16
+people,309,3
+detect relays,310,1
+entry guards,311,1
+pull,312,3
+face,313,1
+theyll,314,1
+speech,315,1
+othersits,316,1
+anonymity internet,317,1
+thing,318,1
+users hidden,319,2
+separate,320,1
+project,321,1
+goods,322,1
+select hsdir,323,1
+access internet,324,1
+inside,325,2
+network anonymity,326,1
+vulnerable,327,1
+network day,328,1
+exit relays,329,4
+control hsdirs,330,1
+generate,331,1
+bazaar,332,1
+internet servers,333,1
+attractive,334,1
+pro,335,1
+nodes rendezvous,336,1
+longer,337,1
+extends,338,1
+time hsdirs,339,1
+internet,340,9
+hidden,341,26
+needed,342,3
+impossible,343,1
+detect,344,3
+service select,345,2
+brute,346,3
+traffic tor,347,1
+common,348,1
+defend,349,1
+interest,350,2
+day researchers,351,2
+activists,352,1
+anonymity,353,4
+easier pull,354,1
+pull attack,355,2
+news,356,2
+normal,357,1
+race,358,1
+estimated,359,1
+anonymizeits,360,1
+reading,361,1
+hsdirs,362,8
+calculating,363,1
+internet users,364,2
+formula,365,2
+risk,366,1
+ocearbhaill,367,1
+time,368,4
+passing,369,1
+services websites,370,1
+advertise,371,1
+addresses onion,372,1
+relays attack,373,1
+runa,374,1
+reliably,375,1
+held,376,1
+developers,377,2
+users traffic,378,1
+issues,379,1
+hack,380,1
+problem,381,1
+attack researchers,382,1
+service days,383,1
+services researchers,384,1
+road,385,1
+connection,386,2
+real sigaint,387,1
+greater,388,1
+dependent,389,1
+hey,390,1
+case,391,1
+generation,392,1
+researcher,393,1
+goal,394,1
+fbi,395,1
+exist,396,2
+internet nodes,397,1
+hsdirs attack,398,1
+provide,399,1
+rely,400,1
+control entry,401,1
+force,402,2
+primary,403,1
+flag,404,3
+reliability,405,1
+guard,406,1
+access tor,407,1
+tools,408,1
+gain,409,1
+entry exit,410,1
+operators,411,1
+web,412,1
+criminals,413,1
+place,414,2
+regular,415,1
+hidden service,416,11
+agency,417,1
+duped,418,1
+nice,419,1
+forcing,420,2
+site,421,3
+filipo,422,1
+websites tor,423,2
+exists,424,1
+anonymous,425,1
+randomly,426,1
+runs,427,2
+traffic correlation,428,2
+shut,429,1
+addresses,430,3
+onion,431,3
+marketplaces,432,1
+mitmed,433,1
+easier de,434,1
+hosted,435,1
+protocol,436,2
+create,437,1
+tor network,438,6
+potential,439,1
+day,440,4
+connections,441,2
+resolves,442,1
+created,443,1
+minutes,444,1
+kind,445,1
+amsterdam,446,1
+tor hidden service,447,5
+published,448,1
+illegal,449,2
+techniques,450,1
+daily,451,1
+network easier,452,1
+easy de,453,1
+specific day,454,1
+send,455,1
+option,456,1
+hsdir analysis,457,1
+point,458,1
+network,459,9
+aware,460,1
+security,461,3
+hsdir nodes,462,1
+specific internet,463,1
+servers,464,4
+public,465,1
+easy select,466,1
+nodes tor,467,2
+cost,468,1
+hsdirs day,469,1
+exit entry,470,1
+technically,471,2
+increase,472,1
+easy detect,473,1
+expensive,474,1
+response,475,3
+suggestions,476,2

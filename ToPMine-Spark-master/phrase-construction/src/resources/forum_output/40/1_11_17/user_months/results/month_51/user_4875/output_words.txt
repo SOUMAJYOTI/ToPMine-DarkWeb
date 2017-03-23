@@ -1,0 +1,61 @@
+Topic 0:
+  pay:37.53
+  shield:31.22
+  btc:25.18
+  address:12.15
+  vendor:8.90
+  coins:7.24
+  send:6.33
+  mixed:6.10
+  refresh:5.90
+  told:5.89
+
+Topic 1:
+  send:10.22
+  pay:7.08
+  amount:6.69
+  coins:6.16
+  fee:5.72
+  version:4.96
+  helix:4.96
+  btc:4.64
+  light:4.43
+  bitblender:4.18
+
+Topic 2:
+  pay:4.19
+  luc:4.14
+  jean:2.51
+  shield:2.45
+  address:2.12
+  feedback:1.63
+  enabled:1.63
+  javascript:1.63
+  interested:1.63
+  hearing:1.63
+
+Topic 3:
+  bitblender:6.66
+  people:4.71
+  list:4.54
+  blond:4.29
+  small:4.19
+  amounts:4.15
+  wigfog:3.81
+  wilderness:2.81
+  pleroma:2.74
+  scam:2.49
+
+Topic 4:
+  sigaint:9.21
+  service:6.20
+  email:5.94
+  signed:5.89
+  pgp:5.89
+  signature:5.88
+  darknet:5.76
+  pay:5.68
+  shield:4.58
+  ll:3.90
+
+K: 5, Log-Likelihood: -6552.129, Alpha: 11.000, Beta: 1.100

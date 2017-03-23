@@ -1,0 +1,61 @@
+Topic 0:
+  sites:26.01
+  deep web:20.52
+  accept escrow:15.39
+  hidden wiki:15.39
+  offer:15.39
+  site:14.02
+  escrow:13.14
+  spot:12.99
+  swam:10.26
+  fe bloody morons:10.26
+
+Topic 1:
+  onion:38.47
+  required nocategories:23.08
+  accounts:21.09
+  onioncreated time multisig:17.95
+  onionreddit accounts:15.39
+  invite onlyinvitation link:15.39
+  key:13.36
+  digital goods:12.82
+  yesfe allowed yesvendor bond:12.82
+  guides tutorials:12.82
+
+Topic 2:
+  update nucleus:10.25
+  account:9.77
+  nucleus:6.56
+  marketplace ended mixer cold:6.54
+  wallet nucleus working wondering:6.54
+  wallet withdraws exited nucleus:6.54
+  kind problems encountered nucleus:6.54
+  days deposits withdraws nucleus:6.54
+  ranging btc btc deposits:6.54
+  december pmquote:6.46
+
+Topic 3:
+  hard drive:23.08
+  windows:20.52
+  data:17.95
+  drives:12.82
+  good:10.26
+  drive:10.26
+  virtual machine:10.26
+  flash drive:10.26
+  software:8.66
+  tor:8.64
+
+Topic 4:
+  private key:15.37
+  buyer:11.57
+  master public key:10.25
+  wallet:9.43
+  release funds:8.63
+  escrow:8.44
+  market:8.14
+  mufti signature wallet:7.69
+  multi:7.68
+  multisig transactions:7.68
+
+K: 5, Log-Likelihood: -48293.252, Alpha: 11.000, Beta: 1.100

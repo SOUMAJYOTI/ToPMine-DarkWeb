@@ -1,0 +1,61 @@
+Topic 0:
+  rules:4.10
+  advertising:4.10
+  lot:2.02
+  chillof:2.02
+  doubt:2.02
+  substances:2.02
+  sales:2.02
+  intelligent:2.02
+  interestingand:2.02
+  advice:2.02
+
+Topic 1:
+  post:2.20
+  free:1.99
+  guy:1.70
+  dont:1.66
+  forbidden:1.44
+  time:1.29
+  experiences:1.24
+  spammer:1.15
+  aw:1.14
+  hoping:1.13
+
+Topic 2:
+  george orwell:4.70
+  quote:3.98
+  read:3.96
+  walk:3.96
+  book:3.96
+  community:3.95
+  responsibility:3.94
+  forbidden:3.89
+  yesterday:3.01
+  stevemba senior psychiatrist psychoanalyst:3.01
+
+Topic 3:
+  regardsstevemba:3.93
+  opinions:3.13
+  people:3.11
+  problem:2.54
+  bad:2.16
+  mind:1.98
+  people expecially:1.98
+  governments:1.98
+  equal:1.98
+  inside:1.98
+
+Topic 4:
+  spammers:3.19
+  btc:2.65
+  forum:2.22
+  frequently:1.96
+  word:1.96
+  insert:1.96
+  block:1.96
+  scammers:1.96
+  relentlessly:1.96
+  attempted:1.96
+
+K: 5, Log-Likelihood: -2634.637, Alpha: 11.000, Beta: 1.100

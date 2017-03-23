@@ -1,0 +1,61 @@
+Topic 0:
+  ddos:2.90
+  coins:2.80
+  agora:2.24
+  disconnected:1.91
+  user:1.50
+  login:1.43
+  steal:1.42
+  database:1.40
+  trust:1.16
+  quote:1.15
+
+Topic 1:
+  bf:7.71
+  pin:6.01
+  user:5.96
+  reset:5.53
+  june:4.20
+  case:3.46
+  logic:3.41
+  attack:3.26
+  actual:3.21
+  usernamed:2.97
+
+Topic 2:
+  agora:13.18
+  sr:12.67
+  coinmixer:11.67
+  customers:8.69
+  btcfogs:7.67
+  btcfog:7.66
+  service:6.69
+  people:4.54
+  everyones:3.70
+  alliance:3.70
+
+Topic 3:
+  site:9.19
+  funds:6.89
+  trust:6.01
+  people:4.63
+  july:2.90
+  sinking:2.81
+  real:2.81
+  character:2.81
+  ship:2.81
+  slowly:2.80
+
+Topic 4:
+  user:4.53
+  june:3.97
+  bf:3.13
+  pin:2.73
+  coins:2.65
+  attack:2.33
+  quote:2.09
+  usernamed:1.65
+  sense:1.60
+  pass:1.58
+
+K: 5, Log-Likelihood: -3032.311, Alpha: 11.000, Beta: 1.100

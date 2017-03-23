@@ -1,0 +1,61 @@
+Topic 0:
+  site:5.99
+  private:3.63
+  bitcoins anti:3.63
+  claim:3.63
+  linked:3.63
+  owners:3.63
+  weak:3.63
+  intended:3.63
+  scraped:3.63
+  wallet wallet:3.63
+
+Topic 1:
+  coins:6.08
+  security:3.79
+  btc:3.37
+  withdrew btc:3.26
+  users:3.23
+  attackers:3.09
+  ll:2.82
+  market:2.69
+  measures:2.43
+  cut:1.94
+
+Topic 2:
+  person claiming:7.28
+  donations:3.60
+  users claiming:3.60
+  script:3.60
+  attack lol:3.60
+  fight:3.60
+  sign:3.60
+  dangerous:3.60
+  rip:3.60
+  spam messages:3.60
+
+Topic 3:
+  coins:4.95
+  measures:4.91
+  attackers:4.25
+  users:4.12
+  withdrew btc:4.08
+  btc:3.97
+  security:3.55
+  full:2.24
+  trusted:2.17
+  quicker:2.17
+
+Topic 4:
+  vj:6.13
+  ve:6.06
+  pentest plays sides law:5.20
+  markets nose time parson:5.20
+  hacks extorts:5.20
+  tap honorably person handle:5.20
+  markets names pop big:5.20
+  hacks ip alphabet soup:5.20
+  hacks:5.06
+  cracks:3.62
+
+K: 5, Log-Likelihood: -4280.842, Alpha: 11.000, Beta: 1.100

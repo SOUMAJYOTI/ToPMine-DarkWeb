@@ -1,0 +1,61 @@
+Topic 0:
+  en:0.43
+  myyj:0.40
+  fe:0.40
+  tehny:0.40
+  nain:0.40
+  ei:0.40
+  ja:0.39
+  yht:0.38
+  luotto:0.21
+  asa:0.21
+
+Topic 1:
+  yht:0.41
+  myyj:0.40
+  tehny:0.40
+  nain:0.40
+  ja:0.40
+  fe:0.40
+  ei:0.40
+  en:0.38
+  paljon:0.20
+  siis:0.20
+
+Topic 2:
+  en:0.41
+  ja:0.41
+  tehny:0.41
+  ei:0.40
+  nain:0.40
+  fe:0.40
+  myyj:0.40
+  yht:0.39
+  nyt:0.20
+  kolmas:0.20
+
+Topic 3:
+  en:0.41
+  ei:0.40
+  nain:0.40
+  fe:0.40
+  ja:0.40
+  yht:0.40
+  tehny:0.40
+  myyj:0.40
+  juttu:0.20
+  yll:0.20
+
+Topic 4:
+  yht:0.42
+  fe:0.40
+  myyj:0.40
+  ei:0.40
+  nain:0.40
+  tehny:0.40
+  ja:0.40
+  en:0.37
+  mutta:0.21
+  positiivista:0.21
+
+K: 5, Log-Likelihood: -224.596, Alpha: 11.000, Beta: 1.100

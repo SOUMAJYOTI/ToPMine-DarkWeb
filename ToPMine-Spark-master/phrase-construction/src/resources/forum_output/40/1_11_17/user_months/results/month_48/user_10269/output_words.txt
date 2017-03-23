@@ -1,0 +1,61 @@
+Topic 0:
+  market:2.34
+  nucleus:1.52
+  work:1.26
+  fa:1.17
+  good:1.07
+  services:1.03
+  card:0.95
+  quote:0.95
+  decentralized:0.93
+  time:0.80
+
+Topic 1:
+  ag:1.70
+  abraxas:1.69
+  market:1.34
+  forum:1.25
+  read:1.22
+  lot:1.14
+  time:1.11
+  fa:0.82
+  vendors:0.75
+  nucleus:0.75
+
+Topic 2:
+  time:1.98
+  dont:1.89
+  place:1.77
+  forums:1.37
+  nucleus:1.30
+  quote:1.29
+  good:1.26
+  interface:1.24
+  le:1.01
+  scum:1.00
+
+Topic 3:
+  time:1.50
+  nucleus:1.50
+  quote:1.30
+  forums:1.28
+  good:1.26
+  place:1.00
+  dont:0.98
+  interface:0.88
+  le:0.76
+  scum:0.74
+
+Topic 4:
+  dont:2.69
+  place:2.48
+  age:1.71
+  drinking:1.63
+  time:1.61
+  needless:1.45
+  alright:1.43
+  smooth:1.43
+  post:1.42
+  lawless:1.42
+
+K: 5, Log-Likelihood: -1504.509, Alpha: 11.000, Beta: 1.100

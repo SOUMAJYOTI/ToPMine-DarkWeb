@@ -1,0 +1,61 @@
+Topic 0:
+  captcha:1.97
+  cloudflare:1.12
+  sites:1.10
+  impossible:1.09
+  cloudfare:0.58
+  js:0.57
+  transactions:0.57
+  illegal:0.50
+  tor:0.50
+  captchas:0.44
+
+Topic 1:
+  js:0.82
+  cloudfare:0.81
+  captchas:0.64
+  captcha:0.63
+  dont:0.51
+  cloudflare:0.48
+  impossible:0.45
+  quote:0.43
+  october:0.42
+  sites:0.42
+
+Topic 2:
+  cloudfare:1.29
+  js:1.03
+  captcha:0.75
+  captchas:0.64
+  enabling:0.57
+  loads:0.57
+  goodbye:0.57
+  things:0.57
+  screen:0.57
+  nasty:0.57
+
+Topic 3:
+  captcha:1.11
+  cloudfare:0.92
+  js:0.81
+  cloudflare:0.73
+  sites:0.71
+  impossible:0.54
+  captchas:0.53
+  transactions:0.49
+  nasty:0.47
+  screen:0.47
+
+Topic 4:
+  dont:1.37
+  pass:1.23
+  version:1.23
+  hate:1.22
+  fuck:1.22
+  js:0.76
+  captchas:0.75
+  solve:0.61
+  captcha:0.54
+  tor:0.54
+
+K: 5, Log-Likelihood: -623.879, Alpha: 11.000, Beta: 1.100

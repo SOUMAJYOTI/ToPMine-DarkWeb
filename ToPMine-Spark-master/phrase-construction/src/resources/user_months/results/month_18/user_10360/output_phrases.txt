@@ -1,0 +1,61 @@
+Topic 0:
+  slow:3.32
+  agora:3.17
+  market:1.83
+  thing:1.58
+  work:1.57
+  things:1.57
+  minutes:1.57
+  real:1.57
+  worried:1.57
+  good:1.57
+
+Topic 1:
+  place:2.22
+  paypal:2.21
+  money:1.10
+  imagine:1.05
+  account:1.05
+  people:1.04
+  scammed:1.03
+  system:1.03
+  bitcoin dont:1.03
+  person:1.03
+
+Topic 2:
+  called:3.46
+  businesses:3.46
+  bitcoin:3.08
+  company:1.67
+  competition:1.67
+  inexpensive:1.67
+  detractors:1.67
+  wave:1.67
+  goods:1.67
+  stash:1.67
+
+Topic 3:
+  buy:3.46
+  dont:1.69
+  realizes:1.67
+  smiling:1.67
+  rise:1.67
+  prices:1.67
+  lot:1.67
+  method:1.67
+  stuff:1.67
+  valid:1.67
+
+Topic 4:
+  vendor:2.34
+  forum:2.17
+  works:1.77
+  forums:1.41
+  youll:1.41
+  wonderful:1.41
+  uri:1.41
+  find:1.41
+  agoras:1.41
+  place:1.10
+
+K: 5, Log-Likelihood: -947.664, Alpha: 11.000, Beta: 1.100

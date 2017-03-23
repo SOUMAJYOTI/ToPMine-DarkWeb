@@ -1,0 +1,61 @@
+Topic 0:
+  tor:5.51
+  folders:2.76
+  june:2.64
+  trolltergeist:2.15
+  delete:2.08
+  plate:1.95
+  quote:1.72
+  leave:1.70
+  pops:1.64
+  update:1.64
+
+Topic 1:
+  folders:5.31
+  delete:4.72
+  tor:4.58
+  update:3.50
+  trolltergeist:3.18
+  june:2.52
+  plate:1.92
+  leave:1.79
+  compromised:1.69
+  icon:1.63
+
+Topic 2:
+  folders:4.84
+  tor:4.68
+  update:3.60
+  trolltergeist:3.52
+  delete:3.50
+  june:3.11
+  compromised:2.05
+  warning:1.90
+  leave:1.83
+  plate:1.71
+
+Topic 3:
+  tor:4.00
+  pops:2.07
+  trolltergeist:1.62
+  plate:1.50
+  quote:1.47
+  june:1.33
+  ll:1.19
+  folders:1.14
+  topic:1.12
+  compromised:0.96
+
+Topic 4:
+  locked:3.04
+  thread:2.92
+  lol:2.50
+  topic:2.33
+  tor:2.22
+  ll:1.92
+  quote:1.69
+  legend:1.63
+  trolltergeist:1.53
+  june:1.40
+
+K: 5, Log-Likelihood: -1319.498, Alpha: 11.000, Beta: 1.100

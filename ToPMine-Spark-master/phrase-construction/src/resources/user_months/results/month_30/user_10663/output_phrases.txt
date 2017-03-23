@@ -1,0 +1,61 @@
+Topic 0:
+  quote fork november:31.10
+  read:12.27
+  dont:10.73
+  open:9.19
+  forums:8.98
+  sr:7.65
+  drug:7.50
+  silent:6.11
+  family:6.11
+  real email:6.11
+
+Topic 1:
+  cop:4.01
+  calling:3.87
+  list:3.87
+  master:3.87
+  connected:3.87
+  resources:3.87
+  full:3.06
+  curious:2.96
+  real cop:2.96
+  call hr department:2.96
+
+Topic 2:
+  forums:8.43
+  drug interdiction:6.13
+  forum account:6.13
+  officernon sworn:6.13
+  law:6.13
+  hr department:6.13
+  tor:6.13
+  law enforcement:5.04
+  badge number:4.29
+  day tor:3.05
+
+Topic 3:
+  create:5.78
+  voiceover:1.89
+  professional:1.89
+  actor:1.89
+  realistic:1.89
+  virtual:1.89
+  phone acumen:1.89
+  tollfreeforwarding:1.89
+  script:1.89
+  phone number:1.89
+
+Topic 4:
+  bought cash:6.13
+  online:6.13
+  cop block:6.13
+  protocol:6.13
+  officer:4.29
+  phone records catch:3.21
+  idea caught utilize:3.21
+  state:3.05
+  debit:3.05
+  cops:3.05
+
+K: 5, Log-Likelihood: -13803.960, Alpha: 11.000, Beta: 1.100

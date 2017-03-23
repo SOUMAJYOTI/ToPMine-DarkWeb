@@ -1,0 +1,61 @@
+Topic 0:
+  btc:1.17
+  days:0.55
+  poor:0.28
+  coming:0.28
+  card:0.28
+  ship:0.28
+  credit:0.28
+  return:0.28
+  deal:0.28
+  fuck:0.28
+
+Topic 1:
+  btc:0.98
+  days:0.51
+  called btc club:0.29
+  luck locating:0.29
+  trust coin mate direct:0.29
+  post bit hard:0.29
+  bitcoin:0.29
+  top general discussion link:0.29
+  trustworthy:0.27
+  country:0.27
+
+Topic 2:
+  btc:0.93
+  days:0.55
+  bitcoin:0.29
+  top general discussion link:0.29
+  called btc club:0.29
+  trust coin mate direct:0.29
+  post bit hard:0.29
+  luck locating:0.29
+  card:0.27
+  country:0.27
+
+Topic 3:
+  btc:1.33
+  days:0.60
+  reply:0.29
+  tops:0.29
+  cashed:0.29
+  coming:0.29
+  deeply:0.29
+  closed:0.29
+  finish:0.29
+  credit:0.29
+
+Topic 4:
+  btc:1.14
+  days:0.55
+  cashed:0.28
+  deal:0.28
+  credit:0.28
+  cost:0.28
+  tops:0.28
+  ship:0.28
+  deeply:0.28
+  cc:0.28
+
+K: 5, Log-Likelihood: -227.245, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  dont:0.08
+  don:0.08
+  ethan:0.00
+  scedule:0.00
+  lsd organic:0.00
+  extracting:0.00
+  poisonous:0.00
+  experience:0.00
+  good:0.00
+  lot:0.00
+
+Topic 1:
+  don:0.08
+  dont:0.08
+  ethan:0.00
+  scedule:0.00
+  lsd organic:0.00
+  extracting:0.00
+  poisonous:0.00
+  experience:0.00
+  good:0.00
+  lot:0.00
+
+Topic 2:
+  don:0.08
+  dont:0.08
+  ethan:0.00
+  scedule:0.00
+  lsd organic:0.00
+  extracting:0.00
+  poisonous:0.00
+  experience:0.00
+  good:0.00
+  lot:0.00
+
+Topic 3:
+  don:0.08
+  dont:0.08
+  ethan:0.00
+  scedule:0.00
+  lsd organic:0.00
+  extracting:0.00
+  poisonous:0.00
+  experience:0.00
+  good:0.00
+  lot:0.00
+
+Topic 4:
+  don:0.08
+  dont:0.08
+  ethan:0.00
+  scedule:0.00
+  lsd organic:0.00
+  extracting:0.00
+  poisonous:0.00
+  experience:0.00
+  good:0.00
+  lot:0.00
+
+K: 5, Log-Likelihood: -2.580, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  mitm:2.93
+  clones:1.43
+  pay:1.43
+  clone:1.43
+  pon:1.43
+  payshldt:1.43
+  mention:1.43
+  reports:1.43
+  shield:1.43
+  kw:1.43
+
+Topic 1:
+  time:1.59
+  technique:1.40
+  key:1.40
+  hsdir:1.40
+  news:1.39
+  mid:1.19
+  relay:1.18
+  piz:1.18
+  remind:1.18
+  good:1.18
+
+Topic 2:
+  nodes:2.40
+  tor:2.17
+  hidden services:2.02
+  hidden service:1.92
+  users:1.81
+  tor hidden service:1.78
+  tor hidden services:1.19
+  attack:1.15
+  rendezvous:1.15
+  tor network:1.13
+
+Topic 3:
+  tor:12.70
+  tor hidden services:9.18
+  tor network:7.75
+  traffic:6.51
+  attack:6.21
+  nodes:5.61
+  tor hidden service:5.57
+  nodes hsdirs:5.19
+  exit relays:4.83
+  hidden service:3.81
+
+Topic 4:
+  suggestions:2.84
+  popular:2.73
+  june:1.92
+  presidente:1.92
+  el:1.92
+  quote:1.92
+  guards guards trust:1.87
+  cheers:1.72
+  response:1.48
+  isrun:1.45
+
+K: 5, Log-Likelihood: -4612.500, Alpha: 11.000, Beta: 1.100

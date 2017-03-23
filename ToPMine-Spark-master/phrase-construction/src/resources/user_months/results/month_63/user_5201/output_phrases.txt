@@ -1,0 +1,61 @@
+Topic 0:
+  stories:0.41
+  guy:0.41
+  multiply:0.31
+  thing:0.31
+  le:0.20
+  doseheavy:0.20
+  true:0.20
+  september:0.20
+  introvert:0.20
+  working:0.20
+
+Topic 1:
+  guy:0.41
+  stories:0.40
+  multiply:0.31
+  thing:0.30
+  rasberry:0.21
+  chained:0.21
+  desk:0.21
+  cheetos:0.21
+  mental:0.21
+  salu:0.21
+
+Topic 2:
+  guy:0.41
+  stories:0.41
+  multiply:0.31
+  thing:0.31
+  sunscreen:0.21
+  guy stories:0.21
+  quote:0.21
+  pmhacks:0.21
+  proper:0.21
+  understand:0.21
+
+Topic 3:
+  guy:0.40
+  stories:0.40
+  thing:0.30
+  multiply:0.30
+  faygo:0.21
+  idea:0.21
+  ear:0.21
+  washing:0.21
+  cheetos:0.21
+  mental:0.21
+
+Topic 4:
+  guy:0.41
+  stories:0.41
+  thing:0.31
+  multiply:0.31
+  players:0.20
+  coincide:0.20
+  ross:0.20
+  access:0.20
+  thai:0.20
+  lie:0.20
+
+K: 5, Log-Likelihood: -474.548, Alpha: 11.000, Beta: 1.100

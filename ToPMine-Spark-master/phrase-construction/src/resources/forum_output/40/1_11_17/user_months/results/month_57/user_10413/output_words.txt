@@ -1,0 +1,61 @@
+Topic 0:
+  day:4.87
+  time:4.76
+  nuke:3.80
+  site:3.55
+  order:3.52
+  forums:3.40
+  market:3.38
+  link:3.37
+  post:3.29
+  quote:2.95
+
+Topic 1:
+  quote:12.01
+  market:7.71
+  october:7.62
+  money:5.50
+  hub:5.07
+  bb:5.01
+  boneskoopa:4.06
+  lost:3.70
+  outlaw:3.70
+  hansa:3.70
+
+Topic 2:
+  forum:24.19
+  boneskoopa:9.93
+  shit:9.64
+  mac:7.77
+  key:7.35
+  accounts:6.94
+  nucleus:6.81
+  order:6.53
+  making:5.75
+  good:5.64
+
+Topic 3:
+  system:46.93
+  delivery:44.98
+  tek:42.98
+  abraxas:41.48
+  quantum:35.98
+  agora:22.88
+  bots:17.09
+  server:11.70
+  forums:11.53
+  quartus:8.98
+
+Topic 4:
+  september:16.01
+  time:11.52
+  dont:10.72
+  quote:8.69
+  referred:7.34
+  lol:7.21
+  captcha:5.95
+  guys:5.39
+  bot:4.91
+  bots:4.58
+
+K: 5, Log-Likelihood: -12042.870, Alpha: 11.000, Beta: 1.100

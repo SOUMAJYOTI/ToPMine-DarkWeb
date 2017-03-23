@@ -1,0 +1,61 @@
+Topic 0:
+  alueelle:0.62
+  ja:0.61
+  omalla:0.60
+  pgp:0.47
+  ss:0.43
+  oli:0.38
+  viestin:0.36
+  allekirjoittettuna:0.31
+  mukaan:0.31
+  avaimella:0.31
+
+Topic 1:
+  ss:0.79
+  viestin:0.65
+  omalla:0.58
+  ja:0.58
+  sis:0.42
+  lt:0.42
+  tunnettu:0.41
+  kannalta:0.41
+  viel:0.41
+  allekirjoittamien:0.41
+
+Topic 2:
+  ss:1.17
+  viestin:0.83
+  omalla:0.61
+  ja:0.60
+  ett:0.55
+  sis:0.53
+  suositeltavaa:0.53
+  tapauksessa:0.53
+  tietoturvan:0.53
+  tunnettu:0.53
+
+Topic 3:
+  ja:0.61
+  omalla:0.60
+  alueelle:0.53
+  ss:0.53
+  pgp:0.43
+  viestin:0.42
+  oli:0.39
+  ett:0.32
+  lt:0.31
+  salakirjoitusavaimelle:0.31
+
+Topic 4:
+  ss:1.09
+  viestin:0.75
+  omalla:0.61
+  ja:0.60
+  viestien:0.49
+  allekirjoittamien:0.48
+  salakirjoitusavaimelle:0.48
+  suositeltavaa:0.48
+  tietoturvan:0.48
+  kannalta:0.48
+
+K: 5, Log-Likelihood: -584.040, Alpha: 11.000, Beta: 1.100

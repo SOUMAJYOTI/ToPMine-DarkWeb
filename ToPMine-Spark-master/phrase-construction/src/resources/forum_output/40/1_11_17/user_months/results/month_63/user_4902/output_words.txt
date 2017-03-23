@@ -1,0 +1,61 @@
+Topic 0:
+  postage:2.97
+  unpaid:1.60
+  sender:1.47
+  stamp:1.42
+  package:1.08
+  pay:0.74
+  clean:0.67
+  warrant:0.67
+  send:0.67
+  house:0.66
+
+Topic 1:
+  post:1.83
+  november:1.81
+  frowned:1.79
+  normal:1.78
+  office:1.77
+  bit:1.27
+  worried:1.26
+  moment:1.24
+  finally:1.00
+  vendor:1.00
+
+Topic 2:
+  postage:2.34
+  package:1.49
+  pay:0.86
+  unpaid:0.67
+  stamp:0.62
+  sender:0.61
+  moment:0.51
+  worried:0.51
+  bit:0.49
+  yeah:0.38
+
+Topic 3:
+  postage:1.93
+  package:1.34
+  pay:0.84
+  moment:0.72
+  bit:0.72
+  worried:0.71
+  office:0.54
+  frowned:0.53
+  normal:0.53
+  november:0.51
+
+Topic 4:
+  postage:2.84
+  stamp:1.40
+  sender:1.34
+  unpaid:1.16
+  package:1.13
+  pay:0.75
+  search:0.62
+  realized:0.61
+  dropped:0.61
+  fine:0.61
+
+K: 5, Log-Likelihood: -629.399, Alpha: 11.000, Beta: 1.100

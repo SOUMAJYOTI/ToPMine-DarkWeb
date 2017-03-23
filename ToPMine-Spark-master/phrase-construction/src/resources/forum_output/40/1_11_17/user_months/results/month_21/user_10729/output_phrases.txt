@@ -1,0 +1,61 @@
+Topic 0:
+  active:3.96
+  hidden service:3.59
+  time:2.54
+  le:1.93
+  blocked:1.93
+  trick:1.93
+  nodeshow:1.93
+  pulling:1.93
+  ghost:1.93
+  july:1.93
+
+Topic 1:
+  fbi:6.56
+  sites:4.32
+  web:3.66
+  child porn:3.62
+  hidden services:3.38
+  department:3.32
+  mcgrath:3.28
+  called:2.87
+  agents:2.52
+  system:2.51
+
+Topic 2:
+  nodes:6.60
+  hazards:3.26
+  connecting:3.26
+  areas:3.26
+  block:3.26
+  au:3.26
+  excludenodes gb:3.26
+  torrce:3.26
+  nz:3.26
+  clusters:3.26
+
+Topic 3:
+  onion system:4.94
+  country:4.94
+  dont:3.86
+  sort:3.25
+  agree:3.25
+  insurance:3.25
+  torrc:3.25
+  gb:3.25
+  errors:3.25
+  friendly:3.25
+
+Topic 4:
+  hidden services:6.94
+  sites:6.00
+  fbi:5.83
+  mcgrath:4.95
+  child porn:4.62
+  web:4.58
+  nit:4.49
+  obi:4.32
+  law enforcement:4.21
+  internet:4.01
+
+K: 5, Log-Likelihood: -6654.806, Alpha: 11.000, Beta: 1.100

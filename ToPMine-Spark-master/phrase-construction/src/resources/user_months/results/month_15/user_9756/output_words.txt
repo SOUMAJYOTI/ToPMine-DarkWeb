@@ -1,0 +1,61 @@
+Topic 0:
+  alice:2.49
+  warning:2.32
+  hub:2.29
+  issues:2.09
+  pandora:1.48
+  noobs:1.32
+  warn:1.32
+  months:1.32
+  link:1.32
+  nice:1.32
+
+Topic 1:
+  pandora:8.99
+  site:2.30
+  vendors:1.85
+  days:1.84
+  gamesome:1.78
+  community:1.62
+  people:1.27
+  continue:1.18
+  openmarket:1.17
+  darknet:1.16
+
+Topic 2:
+  pandora:5.10
+  site:1.97
+  days:1.78
+  community:1.52
+  issues:1.22
+  gamesome:0.85
+  people:0.83
+  problems:0.78
+  vendors:0.78
+  july:0.72
+
+Topic 3:
+  pandora:3.75
+  issues:1.57
+  site:1.45
+  days:1.03
+  community:0.97
+  people:0.90
+  forum:0.81
+  quote:0.80
+  july:0.77
+  alice:0.74
+
+Topic 4:
+  fees:3.41
+  withdrawals:2.85
+  jacked:2.68
+  withdraw:2.68
+  disabled:1.86
+  month:1.86
+  money:1.86
+  explaining:1.58
+  add:1.58
+  withdrawal:1.46
+
+K: 5, Log-Likelihood: -1293.424, Alpha: 11.000, Beta: 1.100

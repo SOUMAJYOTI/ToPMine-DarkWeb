@@ -1,0 +1,61 @@
+Topic 0:
+  microphones:39.38
+  april:36.93
+  zaphod:30.62
+  quote:29.17
+  didnt:23.46
+  american:17.70
+  lived:16.96
+  people:16.36
+  shit:16.26
+  stone:16.06
+
+Topic 1:
+  law:20.95
+  bill:16.69
+  feinstein:13.56
+  zaphod:13.24
+  police:13.24
+  silk:12.90
+  buyers:12.83
+  vendors:12.71
+  road:12.71
+  burr:10.04
+
+Topic 2:
+  systems:67.93
+  surveillance:51.96
+  tracking:50.82
+  location:49.99
+  phone:43.46
+  security:42.75
+  carriers:40.99
+  technology:38.39
+  cellar:37.99
+  ss:34.99
+
+Topic 3:
+  data:26.74
+  encryption:25.77
+  bill:22.06
+  security:18.47
+  companies:14.58
+  government:14.46
+  people:14.01
+  requests:13.57
+  good:12.87
+  company:12.73
+
+Topic 4:
+  key:92.55
+  blackberry:87.63
+  rcmp:61.00
+  encryption:49.27
+  police:42.53
+  globe:32.71
+  court:30.02
+  messages:24.21
+  case:21.39
+  decryption:17.66
+
+K: 5, Log-Likelihood: -92550.761, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bp:0.57
+  named:0.39
+  hosting:0.38
+  registration:0.38
+  price:0.31
+  reports:0.31
+  onion:0.31
+  site:0.31
+  pdf:0.31
+  download:0.31
+
+Topic 1:
+  bp:0.78
+  named:0.45
+  registration:0.45
+  hosting:0.44
+  price:0.33
+  download:0.31
+  reports:0.29
+  site:0.25
+  onion:0.25
+  pdf:0.25
+
+Topic 2:
+  bp:0.50
+  hosting:0.36
+  registration:0.36
+  named:0.36
+  pdf:0.35
+  onion:0.35
+  site:0.35
+  reports:0.31
+  price:0.31
+  download:0.31
+
+Topic 3:
+  pdf:0.58
+  site:0.57
+  onion:0.57
+  bp:0.39
+  download:0.31
+  reports:0.31
+  hosting:0.29
+  registration:0.29
+  named:0.29
+  price:0.28
+
+Topic 4:
+  bp:0.50
+  registration:0.36
+  site:0.35
+  hosting:0.35
+  onion:0.35
+  pdf:0.35
+  named:0.35
+  reports:0.31
+  price:0.31
+  download:0.30
+
+K: 5, Log-Likelihood: -422.691, Alpha: 11.000, Beta: 1.100

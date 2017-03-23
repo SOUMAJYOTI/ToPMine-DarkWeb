@@ -1,0 +1,61 @@
+Topic 0:
+  mode:12.29
+  hidden:9.34
+  ip:7.80
+  january:6.30
+  address:6.13
+  number:5.35
+  thing:4.68
+  el:4.36
+  presidente:4.26
+  start:3.35
+
+Topic 1:
+  tor:8.71
+  ross:5.84
+  point:4.10
+  bit:3.86
+  complicated:3.86
+  alternative:3.86
+  dnm:3.84
+  safer:3.84
+  lead:3.84
+  security:2.98
+
+Topic 2:
+  hidden:4.70
+  address:2.30
+  quote:1.89
+  time:1.69
+  tor:1.40
+  thing:1.02
+  larger:0.89
+  good:0.78
+  number:0.66
+  people:0.63
+
+Topic 3:
+  tor:11.54
+  government:8.64
+  guard:5.44
+  anonymity:4.91
+  nodes:4.37
+  internet:3.91
+  browser:3.90
+  people:3.16
+  relay:3.03
+  relays:2.91
+
+Topic 4:
+  tails:11.48
+  start:8.00
+  quote:3.85
+  install:3.05
+  government:2.96
+  january:2.56
+  mode:2.42
+  presidente:2.27
+  el:2.23
+  default:2.17
+
+K: 5, Log-Likelihood: -4484.483, Alpha: 11.000, Beta: 1.100

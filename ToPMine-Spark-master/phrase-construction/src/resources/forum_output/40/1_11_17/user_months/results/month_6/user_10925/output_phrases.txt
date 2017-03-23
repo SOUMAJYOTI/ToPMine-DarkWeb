@@ -1,0 +1,61 @@
+Topic 0:
+  tightened:0.08
+  tradehill:0.08
+  rocktrading:0.08
+  sales:0.08
+  euros:0.08
+  reach:0.08
+  therocktrading:0.08
+  security:0.08
+  require:0.08
+  guess:0.08
+
+Topic 1:
+  security:0.08
+  guess:0.08
+  tradehill:0.08
+  linen:0.08
+  good:0.08
+  rocktrading:0.08
+  tightened:0.08
+  shifting:0.08
+  require:0.08
+  reach:0.08
+
+Topic 2:
+  therocktrading:0.08
+  reach:0.08
+  require:0.08
+  linen:0.08
+  security:0.08
+  sales:0.08
+  good:0.08
+  euros:0.08
+  rocktrading:0.08
+  guess:0.08
+
+Topic 3:
+  euros:0.08
+  sales:0.08
+  shifting:0.08
+  therocktrading:0.08
+  require:0.08
+  reach:0.08
+  guess:0.08
+  linen:0.08
+  tightened:0.08
+  good:0.08
+
+Topic 4:
+  tradehill:0.08
+  good:0.08
+  shifting:0.08
+  euros:0.08
+  require:0.08
+  rocktrading:0.08
+  reach:0.08
+  security:0.08
+  sales:0.08
+  linen:0.08
+
+K: 5, Log-Likelihood: -13.520, Alpha: 11.000, Beta: 1.100

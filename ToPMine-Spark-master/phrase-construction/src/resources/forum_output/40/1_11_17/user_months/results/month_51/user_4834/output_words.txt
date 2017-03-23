@@ -1,0 +1,61 @@
+Topic 0:
+  journey:8.70
+  spiritual:6.36
+  psychedelics:5.93
+  group:5.92
+  behaviour:5.92
+  human:5.92
+  hard:5.74
+  systems:5.74
+  belief:5.68
+  things:5.20
+
+Topic 1:
+  path:7.89
+  ve:7.07
+  began:3.89
+  believing:3.89
+  thought:3.82
+  find:3.73
+  ways:3.51
+  years:3.43
+  question:2.83
+  true:2.81
+
+Topic 2:
+  journey:7.58
+  mdma:5.96
+  journeys:5.96
+  open:5.67
+  heart:5.27
+  hoping:3.96
+  microdosing:3.96
+  live:3.96
+  time:3.85
+  fear:3.47
+
+Topic 3:
+  finally:8.98
+  hand:6.37
+  person:5.52
+  feel:5.44
+  psychedelic:5.00
+  point:5.00
+  starting:4.66
+  shock:4.65
+  drugs:4.59
+  kind:4.59
+
+Topic 4:
+  life:14.92
+  talk:9.92
+  things:9.14
+  psychedelics:8.13
+  people:6.96
+  post:6.10
+  feel:4.77
+  find:4.44
+  view:3.95
+  hear:3.86
+
+K: 5, Log-Likelihood: -7938.677, Alpha: 11.000, Beta: 1.100

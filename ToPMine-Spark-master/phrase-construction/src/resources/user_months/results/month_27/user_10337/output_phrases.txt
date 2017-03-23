@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.73
+  october:0.49
+  quote:0.48
+  consequences:0.48
+  live:0.44
+  silkroad people:0.44
+  find:0.44
+  bet:0.44
+  stuff:0.44
+  shit:0.43
+
+Topic 1:
+  banned:1.75
+  market:1.68
+  sounds:1.15
+  spreading:1.15
+  scammed:1.15
+  nooks:1.15
+  happened:1.15
+  bunch:1.15
+  blast:1.15
+  beware:1.15
+
+Topic 2:
+  exodus:1.44
+  coming:1.44
+  good:1.41
+  time:1.39
+  quote:1.38
+  october:1.37
+  sr:0.91
+  market:0.72
+  onionshop:0.60
+  practice:0.60
+
+Topic 3:
+  clu:0.67
+  reckless:0.67
+  probs:0.67
+  account point hub arctic:0.67
+  dr:0.67
+  list slows:0.67
+  posts delete finally:0.67
+  straight:0.67
+  coins:0.67
+  sryah:0.67
+
+Topic 4:
+  october:0.95
+  quote:0.95
+  sr:0.85
+  time:0.67
+  good:0.66
+  coming:0.64
+  exodus:0.64
+  market:0.47
+  tabs:0.46
+  performance:0.46
+
+K: 5, Log-Likelihood: -1166.851, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  russia:5.17
+  china:5.02
+  quote:3.28
+  march:3.14
+  months:2.35
+  crypto:2.23
+  real:1.98
+  dont:1.68
+  coin:1.57
+  boy:1.56
+
+Topic 1:
+  people:6.93
+  time:3.68
+  btc:3.60
+  dropping:3.55
+  russia:3.09
+  shit:2.85
+  dont:2.72
+  stable:2.62
+  hope:2.33
+  great:2.06
+
+Topic 2:
+  paper:4.73
+  nz:2.86
+  dont:2.81
+  reading:2.69
+  years:2.61
+  ago:2.42
+  stuff:2.13
+  cool:2.11
+  morning:1.86
+  supermarket:1.86
+
+Topic 3:
+  china:2.63
+  god:1.80
+  quote:1.65
+  price:1.54
+  russia:1.42
+  lost:1.25
+  months:1.15
+  find:1.08
+  march:1.07
+  coin:1.01
+
+Topic 4:
+  bitcoin:5.86
+  bitcoins:3.94
+  hidden:2.94
+  dumping:1.95
+  sales:1.95
+  matter:1.95
+  mining:1.95
+  pools:1.95
+  demand:1.95
+  increase:1.95
+
+K: 5, Log-Likelihood: -2705.164, Alpha: 11.000, Beta: 1.100

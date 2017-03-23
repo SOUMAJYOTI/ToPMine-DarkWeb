@@ -1,0 +1,61 @@
+Topic 0:
+  man good:0.63
+  market:0.61
+  excellent:0.60
+  marketplace:0.60
+  promotion:0.59
+  sales:0.59
+  special:0.59
+  offers:0.58
+  arriving:0.58
+  regret:0.58
+
+Topic 1:
+  market:0.64
+  man good:0.62
+  promotion:0.57
+  special:0.57
+  sales:0.56
+  excellent:0.56
+  marketplace:0.56
+  offers:0.56
+  account:0.55
+  sooner:0.55
+
+Topic 2:
+  weed:2.72
+  basically:1.23
+  smoke:1.23
+  thread:1.23
+  intend:1.23
+  bring pandora:1.23
+  writing:1.23
+  write:1.23
+  prices:1.23
+  cheaper:1.23
+
+Topic 3:
+  market:2.73
+  sell:1.09
+  crazy:1.09
+  beautiful:1.09
+  forums:1.09
+  great:1.09
+  things:1.09
+  budcentral:1.08
+  solely:1.08
+  safe:1.08
+
+Topic 4:
+  address:0.80
+  april:0.80
+  man good:0.80
+  quote:0.80
+  buyer:0.80
+  glad:0.80
+  account:0.80
+  checked:0.80
+  sooner:0.79
+  deposit:0.79
+
+K: 5, Log-Likelihood: -497.313, Alpha: 11.000, Beta: 1.100

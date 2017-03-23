@@ -1,0 +1,61 @@
+Topic 0:
+  referred:1.06
+  referrals:1.02
+  dream:0.97
+  link:0.96
+  quote:0.77
+  december:0.73
+  exact:0.67
+  started:0.66
+  loli:0.66
+  code:0.66
+
+Topic 1:
+  referrals:1.21
+  link:1.06
+  dream:0.94
+  referred:0.88
+  december:0.86
+  quote:0.79
+  convenient:0.50
+  sign:0.48
+  postto:0.48
+  person:0.48
+
+Topic 2:
+  links:1.62
+  december:1.39
+  referrals:1.21
+  scabby:1.05
+  support:1.03
+  cunt:1.03
+  hub:1.02
+  quote:0.84
+  convenient:0.80
+  year:0.75
+
+Topic 3:
+  referrals:1.30
+  december:1.28
+  links:1.15
+  hub:0.90
+  quote:0.89
+  cunt:0.88
+  scabby:0.88
+  support:0.87
+  convenient:0.75
+  referred:0.65
+
+Topic 4:
+  link:2.06
+  referrals:1.26
+  dream:0.99
+  referred:0.75
+  december:0.74
+  quote:0.71
+  vendor:0.67
+  convenient:0.51
+  links:0.44
+  sign:0.41
+
+K: 5, Log-Likelihood: -657.391, Alpha: 11.000, Beta: 1.100

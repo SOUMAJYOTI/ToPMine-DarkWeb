@@ -1,0 +1,61 @@
+Topic 0:
+  weeks:0.20
+  shop:0.20
+  traffic:0.20
+  vendors:0.20
+  good:0.20
+  check:0.20
+  messages:0.20
+  shit:0.20
+  vendors abraxas:0.20
+  setting:0.20
+
+Topic 1:
+  shit:0.20
+  week:0.20
+  vendors:0.20
+  fucking:0.20
+  messages:0.20
+  verify:0.20
+  shop:0.20
+  weeks:0.20
+  vendors abraxas:0.20
+  traffic:0.20
+
+Topic 2:
+  influx:0.20
+  verify:0.20
+  good:0.20
+  week:0.20
+  vendors abraxas:0.20
+  smooth:0.20
+  setting:0.20
+  couple:0.20
+  messages:0.20
+  shit:0.20
+
+Topic 3:
+  amount:0.21
+  setting:0.21
+  couple:0.21
+  traffic:0.21
+  weeks:0.21
+  check:0.21
+  fucking:0.21
+  shop:0.21
+  smooth:0.21
+  messages:0.21
+
+Topic 4:
+  fucking:0.20
+  check:0.20
+  amount:0.20
+  smooth:0.20
+  vendors abraxas:0.20
+  couple:0.20
+  verify:0.20
+  shit:0.20
+  messages:0.20
+  vendors:0.20
+
+K: 5, Log-Likelihood: -146.439, Alpha: 11.000, Beta: 1.100

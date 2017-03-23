@@ -1,0 +1,61 @@
+Topic 0:
+  pgp key:2.84
+  gog:1.35
+  simply:1.35
+  certs:1.35
+  running:1.35
+  poster:1.35
+  ideally:1.35
+  saving:1.35
+  drive:1.35
+  agora:1.35
+
+Topic 1:
+  key:1.65
+  key change:1.21
+  linked:1.13
+  removed:1.12
+  signature:1.12
+  uid:1.12
+  gotcha:1.11
+  update:1.11
+  sign:0.80
+  imported:0.63
+
+Topic 2:
+  saidquote:1.59
+  safety:1.59
+  easiest:1.59
+  assistant:1.59
+  curve:1.59
+  learning:1.59
+  gun:1.58
+  support:1.58
+  pms:1.58
+  client:1.58
+
+Topic 3:
+  extremely:2.83
+  public:1.42
+  depending:1.33
+  version:1.33
+  shipping:1.33
+  tons:1.33
+  increasingly:1.33
+  customers:1.33
+  pip:1.33
+  send:1.33
+
+Topic 4:
+  gpa:2.81
+  inanna:2.81
+  enter:2.81
+  hit:1.32
+  address:1.32
+  key option:1.32
+  email:1.32
+  command:1.32
+  edit:1.32
+  signing:1.32
+
+K: 5, Log-Likelihood: -809.141, Alpha: 11.000, Beta: 1.100

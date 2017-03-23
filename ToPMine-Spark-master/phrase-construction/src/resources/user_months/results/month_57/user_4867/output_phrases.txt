@@ -1,0 +1,61 @@
+Topic 0:
+  tor:5.89
+  map client supports:5.52
+  irc xmpp suited:5.45
+  encryption find suitable server:5.42
+  host open:5.38
+  includes pidgin:5.14
+  tails:4.46
+  group chat:4.39
+  vote:4.01
+  creating:2.56
+
+Topic 1:
+  enjoy hanging:9.05
+  chat:7.84
+  idea:6.99
+  tmg server:4.45
+  hub:4.45
+  wondering:4.45
+  regularly:4.45
+  guys bit:4.45
+  awesome:4.45
+  personally:4.45
+
+Topic 2:
+  love:6.90
+  people:5.81
+  hear:4.39
+  gamma:4.39
+  site time:4.39
+  issues:4.39
+  user:4.39
+  trouble:4.39
+  piano:4.39
+  mentioned:4.39
+
+Topic 3:
+  xmpp:8.24
+  group chat:6.53
+  xmpp option:5.88
+  xmpp accomidate group chat:5.88
+  riseup require admit activation:5.88
+  accounts alternatively invitations people:5.88
+  gamesome:5.19
+  support:4.52
+  impo:4.52
+  pleroma:4.52
+
+Topic 4:
+  server:10.45
+  onion routing:9.14
+  called xmppomfg work import:6.96
+  looked public tor xmpp:6.96
+  account registration works directly:6.96
+  ssl warning case hidden:6.96
+  servers:6.96
+  servers riseup great public:6.96
+  pidgin:6.96
+  certificate connect:6.96
+
+K: 5, Log-Likelihood: -4035.295, Alpha: 11.000, Beta: 1.100

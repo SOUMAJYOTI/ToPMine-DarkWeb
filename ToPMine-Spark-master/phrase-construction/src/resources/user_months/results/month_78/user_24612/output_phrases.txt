@@ -1,0 +1,56 @@
+Topic 0:
+  items:0.08
+  hansa:0.08
+  close:0.08
+  buy:0.08
+  free:0.08
+  increased:0.08
+  store:0.08
+  check:0.08
+  listings:0.00
+
+Topic 1:
+  free:0.08
+  store:0.08
+  hansa:0.08
+  check:0.08
+  close:0.08
+  buy:0.08
+  items:0.08
+  increased:0.08
+  listings:0.00
+
+Topic 2:
+  increased:0.08
+  check:0.08
+  store:0.08
+  hansa:0.08
+  free:0.08
+  buy:0.08
+  close:0.08
+  items:0.08
+  listings:0.00
+
+Topic 3:
+  close:0.08
+  buy:0.08
+  items:0.08
+  check:0.08
+  hansa:0.08
+  free:0.08
+  store:0.08
+  increased:0.08
+  listings:0.00
+
+Topic 4:
+  store:0.08
+  check:0.08
+  increased:0.08
+  free:0.08
+  buy:0.08
+  items:0.08
+  close:0.08
+  hansa:0.08
+  listings:0.00
+
+K: 5, Log-Likelihood: -6.962, Alpha: 11.000, Beta: 1.100

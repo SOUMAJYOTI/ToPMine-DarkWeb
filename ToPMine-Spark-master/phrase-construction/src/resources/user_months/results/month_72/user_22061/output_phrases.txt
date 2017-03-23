@@ -1,0 +1,61 @@
+Topic 0:
+  yubikey nano:4.65
+  pocket:2.70
+  documentation:2.70
+  work:2.70
+  driver:2.70
+  tails:2.70
+  supports openpgp:2.70
+  link:2.69
+  egnimail:2.69
+  support:1.80
+
+Topic 1:
+  openpgp smartcard:2.86
+  online:2.70
+  finding:2.70
+  supported:2.70
+  enigmail tails:2.70
+  smartcard:2.70
+  store:2.70
+  rsa:2.70
+  smartcards:2.70
+  time:2.70
+
+Topic 2:
+  hidden service:5.69
+  hosted provider:5.69
+  reached:5.68
+  sigaintevyh rzvw onion address:3.83
+  sender:2.76
+  ammy:2.76
+  onion:2.76
+  understanding:2.76
+  sending email:2.76
+  zaphodmy:2.76
+
+Topic 3:
+  sigaint org:4.30
+  ill:3.12
+  talking:2.77
+  stupidity:2.77
+  addresses:2.77
+  yesterday:2.77
+  amfair:2.77
+  understand:2.77
+  technology:2.77
+  hub:2.77
+
+Topic 4:
+  door seize computers compel:2.75
+  anonymous:2.75
+  icedove:2.75
+  provider sigaint:2.75
+  tails clearnet:2.75
+  encrypted types accounts anonymous:2.75
+  decrypt depending jurisdiction:2.75
+  enigma torbirdy:2.75
+  pro:2.75
+  pm:2.75
+
+K: 5, Log-Likelihood: -1706.991, Alpha: 11.000, Beta: 1.100

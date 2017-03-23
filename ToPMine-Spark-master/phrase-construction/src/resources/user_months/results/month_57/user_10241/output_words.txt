@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:2.95
+  address:2.39
+  money:2.19
+  links:2.09
+  account:1.61
+  deposit:1.58
+  blockchain:1.51
+  september:1.31
+  abraxas:1.22
+  phishing:1.11
+
+Topic 1:
+  wallet:2.33
+  links:2.33
+  address:2.11
+  blockchain:1.92
+  money:1.80
+  account:1.56
+  abraxas:1.47
+  deposit:1.39
+  phishing:1.30
+  september:1.30
+
+Topic 2:
+  wallet:3.04
+  links:2.69
+  address:2.64
+  money:1.89
+  account:1.89
+  blockchain:1.55
+  september:1.55
+  deposit:1.42
+  abraxas:1.09
+  phishing:1.07
+
+Topic 3:
+  links:2.71
+  account:1.85
+  abraxas:1.78
+  money:1.69
+  deposit:1.39
+  address:1.31
+  phishing:1.29
+  wallet:1.18
+  blockchain:1.13
+  ive:1.10
+
+Topic 4:
+  links:4.19
+  account:2.09
+  blockchain:1.89
+  address:1.56
+  wallet:1.51
+  money:1.43
+  abraxas:1.43
+  phishing:1.23
+  deposit:1.22
+  verified:1.14
+
+K: 5, Log-Likelihood: -1148.164, Alpha: 11.000, Beta: 1.100

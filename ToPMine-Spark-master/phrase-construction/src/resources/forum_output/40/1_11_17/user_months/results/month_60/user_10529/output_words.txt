@@ -1,0 +1,61 @@
+Topic 0:
+  risk:1.34
+  persistent:1.27
+  tor:0.81
+  browserto:0.81
+  amnesia:0.78
+  persistence:0.77
+  select:0.75
+  file:0.40
+  config:0.40
+  break:0.40
+
+Topic 1:
+  risk:1.11
+  persistent:1.10
+  persistence:0.87
+  tor:0.87
+  browserto:0.81
+  amnesia:0.79
+  select:0.77
+  embeddings:0.41
+  suds:0.40
+  warn:0.40
+
+Topic 2:
+  risk:1.26
+  persistent:1.20
+  persistence:0.80
+  amnesia:0.80
+  select:0.79
+  browserto:0.78
+  tor:0.77
+  scripts:0.41
+  setting:0.40
+  ticking:0.40
+
+Topic 3:
+  risk:1.13
+  persistent:1.11
+  select:0.84
+  amnesia:0.83
+  browserto:0.82
+  tor:0.79
+  persistence:0.79
+  rebootnow:0.40
+  dont:0.40
+  effectively:0.40
+
+Topic 4:
+  persistent:1.32
+  risk:1.17
+  select:0.85
+  amnesia:0.81
+  browserto:0.79
+  persistence:0.77
+  tor:0.76
+  expert:0.40
+  open:0.40
+  security:0.40
+
+K: 5, Log-Likelihood: -543.272, Alpha: 11.000, Beta: 1.100

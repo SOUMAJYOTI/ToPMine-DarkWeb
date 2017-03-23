@@ -1,0 +1,61 @@
+Topic 0:
+  message:0.49
+  items:0.44
+  prohibited:0.37
+  harm:0.35
+  fraud:0.29
+  topics:0.29
+  general:0.29
+  design:0.29
+  discussion:0.29
+  limited:0.28
+
+Topic 1:
+  items:1.74
+  prohibited:1.23
+  harm:1.12
+  discussion:0.76
+  fraud:0.76
+  topics:0.75
+  general:0.73
+  design:0.73
+  limited:0.73
+  message:0.42
+
+Topic 2:
+  price:1.01
+  vendor:0.86
+  exploit:0.82
+  products:0.63
+  market:0.62
+  se:0.62
+  forward:0.62
+  tag:0.61
+  xbox:0.61
+  message:0.38
+
+Topic 3:
+  items:1.74
+  harm:1.44
+  prohibited:1.32
+  limited:0.91
+  design:0.90
+  general:0.90
+  topics:0.88
+  discussion:0.87
+  fraud:0.87
+  message:0.41
+
+Topic 4:
+  price:2.69
+  exploit:1.90
+  vendor:1.86
+  xbox:1.13
+  tag:1.12
+  forward:1.12
+  market:1.11
+  se:1.11
+  products:1.10
+  dell:0.45
+
+K: 5, Log-Likelihood: -580.272, Alpha: 11.000, Beta: 1.100

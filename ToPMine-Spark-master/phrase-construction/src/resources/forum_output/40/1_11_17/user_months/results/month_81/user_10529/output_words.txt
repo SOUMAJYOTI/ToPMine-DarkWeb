@@ -1,0 +1,61 @@
+Topic 0:
+  message:1.25
+  signature:0.61
+  pgp:0.60
+  cream:0.29
+  asshole:0.29
+  jerrys:0.29
+  released:0.29
+  dairy:0.29
+  drumpf:0.29
+  ice:0.29
+
+Topic 1:
+  message:1.09
+  signature:0.51
+  pgp:0.51
+  released:0.35
+  asshole:0.35
+  drumpf:0.35
+  cream:0.35
+  jerrys:0.35
+  dairy:0.34
+  ice:0.33
+
+Topic 2:
+  message:0.90
+  signature:0.45
+  pgp:0.45
+  asshole:0.41
+  jerrys:0.40
+  released:0.40
+  dairy:0.40
+  drumpf:0.40
+  cream:0.40
+  ice:0.39
+
+Topic 3:
+  message:0.72
+  cream:0.46
+  jerrys:0.46
+  dairy:0.46
+  ice:0.45
+  asshole:0.45
+  drumpf:0.45
+  released:0.45
+  pgp:0.39
+  signature:0.39
+
+Topic 4:
+  february:2.14
+  hang:2.12
+  tang:2.06
+  ice:1.54
+  drumpf:1.52
+  released:1.52
+  dairy:1.51
+  cream:1.50
+  jerrys:1.50
+  asshole:1.50
+
+K: 5, Log-Likelihood: -551.122, Alpha: 11.000, Beta: 1.100

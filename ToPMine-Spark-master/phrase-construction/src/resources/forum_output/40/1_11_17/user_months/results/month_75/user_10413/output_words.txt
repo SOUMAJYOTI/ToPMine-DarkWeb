@@ -1,0 +1,61 @@
+Topic 0:
+  shut:12.91
+  ovdb:12.07
+  sr:11.65
+  labs:7.96
+  forum:7.56
+  remember:7.12
+  time:6.11
+  didnt:5.89
+  drug:4.19
+  lineage:3.96
+
+Topic 1:
+  ab:6.56
+  vendors:5.32
+  deposit:4.73
+  min:4.04
+  fuck:3.88
+  marketplace:3.29
+  finds:3.24
+  sale:3.00
+  quote:2.97
+  till:2.40
+
+Topic 2:
+  forum:18.36
+  market:15.07
+  private:14.61
+  sr:11.19
+  moved:9.15
+  onion:7.97
+  drug:7.75
+  drugs:7.05
+  long:6.52
+  started:6.30
+
+Topic 3:
+  multisig:35.97
+  trust:21.82
+  april:14.28
+  evolution:11.97
+  market:11.31
+  money:10.33
+  alpha:9.97
+  dont:9.32
+  alphabay:9.29
+  people:8.96
+
+Topic 4:
+  coins:9.57
+  speaker:7.81
+  march:7.64
+  bluetooth:6.52
+  speakers:6.25
+  boneskoopa:6.22
+  btc:5.52
+  people:4.68
+  dont:4.53
+  fa:4.46
+
+K: 5, Log-Likelihood: -10410.791, Alpha: 11.000, Beta: 1.100

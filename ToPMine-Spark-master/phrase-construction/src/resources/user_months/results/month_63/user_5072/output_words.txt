@@ -1,0 +1,61 @@
+Topic 0:
+  coin:0.40
+  blockchain:0.40
+  xtal:0.20
+  low:0.20
+  code:0.20
+  lottery:0.20
+  spends:0.20
+  summer:0.20
+  time:0.20
+  top:0.20
+
+Topic 1:
+  blockchain:0.40
+  coin:0.40
+  fuck:0.20
+  wanted:0.20
+  lad:0.20
+  swearing:0.20
+  purer:0.20
+  summer:0.20
+  spends:0.20
+  flagged:0.20
+
+Topic 2:
+  coin:0.40
+  blockchain:0.40
+  purer:0.20
+  caught:0.20
+  cheesed:0.20
+  lad:0.20
+  internal:0.20
+  double:0.20
+  money:0.20
+  issues:0.20
+
+Topic 3:
+  blockchain:0.40
+  coin:0.40
+  nice:0.20
+  server:0.20
+  didnt:0.20
+  time:0.20
+  code:0.20
+  amount:0.20
+  probability:0.20
+  returning:0.20
+
+Topic 4:
+  coin:0.40
+  blockchain:0.40
+  feel:0.20
+  arrange:0.20
+  lottery:0.20
+  returning:0.20
+  mins:0.20
+  deals:0.20
+  da:0.20
+  tubs:0.20
+
+K: 5, Log-Likelihood: -207.711, Alpha: 11.000, Beta: 1.100

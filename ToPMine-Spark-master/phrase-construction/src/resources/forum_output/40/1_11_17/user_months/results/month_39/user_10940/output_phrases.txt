@@ -1,0 +1,61 @@
+Topic 0:
+  time:9.56
+  phones download:6.34
+  throwing file:6.34
+  exit node:5.27
+  malware:5.24
+  computer:4.73
+  browser:4.73
+  error:4.36
+  service:3.96
+  stage:3.96
+
+Topic 1:
+  disk:10.05
+  machine:8.04
+  strange:6.02
+  machines:6.02
+  pcap:4.01
+  smaller:4.01
+  hang:4.01
+  rootkit:4.01
+  process:4.01
+  plugged:4.01
+
+Topic 2:
+  point:3.43
+  teach:3.31
+  thing:3.24
+  writeup:3.06
+  days:2.59
+  attacks:2.50
+  judge:2.39
+  special:2.38
+  good:2.31
+  backdoors:2.15
+
+Topic 3:
+  heard:3.71
+  dont:3.10
+  based exit:2.71
+  good idea:2.70
+  block:2.70
+  usa:2.69
+  nodes:2.15
+  quote:2.03
+  april:2.03
+  community:1.98
+
+Topic 4:
+  linux:3.95
+  cryptostorm:3.05
+  tsc:2.65
+  fud:2.61
+  banned:2.60
+  doesnt:2.32
+  nasty:2.08
+  agora:2.04
+  original:1.95
+  linus:1.94
+
+K: 5, Log-Likelihood: -7079.850, Alpha: 11.000, Beta: 1.100

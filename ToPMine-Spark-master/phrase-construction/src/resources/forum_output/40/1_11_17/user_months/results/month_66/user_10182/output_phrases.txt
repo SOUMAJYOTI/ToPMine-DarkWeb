@@ -1,0 +1,61 @@
+Topic 0:
+  dhl:0.79
+  stealthbomber:0.76
+  cp:0.63
+  ordering:0.58
+  ordered:0.57
+  issue:0.57
+  job:0.57
+  write:0.57
+  lookin:0.50
+  point:0.50
+
+Topic 1:
+  cp:0.76
+  dhl:0.71
+  stealthbomber:0.65
+  quote:0.57
+  january:0.57
+  long:0.46
+  safe:0.46
+  orders:0.45
+  point bust:0.45
+  pressing:0.45
+
+Topic 2:
+  people:1.14
+  units:1.13
+  ive:1.12
+  atleast:1.12
+  order:1.12
+  pill:1.11
+  days:1.11
+  long:1.11
+  pressing:1.11
+  orders:1.11
+
+Topic 3:
+  post:2.37
+  place:0.94
+  leaks:0.94
+  suspicious:0.94
+  organization:0.93
+  lab:0.93
+  busted:0.93
+  cops:0.93
+  investigating:0.93
+  bit:0.92
+
+Topic 4:
+  cp:0.75
+  point bust:0.75
+  ago stealth:0.73
+  days:0.73
+  pressing:0.73
+  safe:0.73
+  atleast:0.72
+  orders:0.72
+  ive:0.72
+  pill:0.72
+
+K: 5, Log-Likelihood: -589.493, Alpha: 11.000, Beta: 1.100

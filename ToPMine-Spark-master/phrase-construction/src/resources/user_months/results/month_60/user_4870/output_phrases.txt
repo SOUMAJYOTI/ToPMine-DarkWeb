@@ -1,0 +1,61 @@
+Topic 0:
+  messenger:3.86
+  noob:2.31
+  tor:2.18
+  fellow:1.85
+  proxy:1.85
+  ins:1.85
+  socks:1.85
+  buddies:1.85
+  key:1.85
+  enabled:1.85
+
+Topic 1:
+  pidgin:1.62
+  heard:1.58
+  rumors:1.58
+  secure:1.53
+  elaborate:1.52
+  quote:1.05
+  knowledge extends aim lol:0.98
+  tails running cool:0.96
+  tails users chat:0.95
+  ve:0.89
+
+Topic 2:
+  tutorial:5.17
+  xmppjabber:2.32
+  avengers:2.29
+  follow:2.29
+  love:2.28
+  otr:1.97
+  doseheavy:1.65
+  sir:1.55
+  quote:0.68
+  jabber:0.62
+
+Topic 3:
+  knowledge extends aim lol:1.48
+  october:1.47
+  detailed username pidgin:1.47
+  tails running cool:1.45
+  tails users chat:1.43
+  finally:1.39
+  quote:1.38
+  confused:1.33
+  enlighten:1.31
+  yesterday:1.31
+
+Topic 4:
+  detailed username pidgin:1.59
+  tails users chat:1.57
+  tails running cool:1.53
+  knowledge extends aim lol:1.49
+  account:1.38
+  bit:1.37
+  working:1.37
+  post:1.33
+  yesterday:1.29
+  guide:1.27
+
+K: 5, Log-Likelihood: -647.754, Alpha: 11.000, Beta: 1.100

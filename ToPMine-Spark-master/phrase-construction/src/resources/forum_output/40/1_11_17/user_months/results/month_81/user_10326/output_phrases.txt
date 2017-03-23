@@ -1,0 +1,61 @@
+Topic 0:
+  tails pidgin otr:5.77
+  authenticated:4.65
+  lots:4.64
+  xmpp:3.81
+  icq:3.81
+  jabber:3.81
+  inactive:3.81
+  deleted:3.81
+  good server:3.81
+  refused:3.81
+
+Topic 1:
+  virtual isolation applications:16.44
+  tested:14.09
+  windows:14.09
+  full disk encryption:14.09
+  os advantages:11.74
+  features:11.74
+  intrusted code:11.74
+  encryption:10.04
+  physical isolation tor applications:9.39
+  list:9.39
+
+Topic 2:
+  kinds:4.64
+  depends:3.85
+  set:3.64
+  combinations:3.33
+  people:3.24
+  maintaining:2.33
+  systems:2.33
+  variety:2.32
+  secure set:2.32
+  rely:2.32
+
+Topic 3:
+  files:8.21
+  dont:5.84
+  encryption dont:5.80
+  security:5.41
+  passphrase:4.68
+  switch:4.68
+  pmi:4.68
+  july:4.68
+  block cipher:4.68
+  diceware:4.68
+
+Topic 4:
+  physical isolation:11.59
+  virtual machine:11.59
+  virtual isolation:8.22
+  hardware aerial numbers:7.70
+  transparent proxying:7.03
+  virtual machines:7.03
+  raspberry pi:4.92
+  system:4.88
+  tor:4.80
+  remove:4.68
+
+K: 5, Log-Likelihood: -16009.250, Alpha: 11.000, Beta: 1.100

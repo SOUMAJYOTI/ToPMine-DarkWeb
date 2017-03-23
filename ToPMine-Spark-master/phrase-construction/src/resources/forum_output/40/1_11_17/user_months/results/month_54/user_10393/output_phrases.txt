@@ -1,0 +1,61 @@
+Topic 0:
+  keyboard layout:1.10
+  english:0.68
+  applied:0.32
+  click:0.32
+  icon:0.32
+  selected tails greeter:0.32
+  layout selected tails greeter:0.32
+  switch:0.32
+  notification:0.32
+  area:0.32
+
+Topic 1:
+  keyboard layout:1.07
+  english:0.71
+  area:0.33
+  appliedthe:0.33
+  click:0.33
+  notification:0.33
+  selected tails greeter:0.33
+  layout selected tails greeter:0.33
+  icon:0.33
+  switch:0.33
+
+Topic 2:
+  july:0.62
+  keyboard layout:0.41
+  takes:0.36
+  boots vista works fine:0.36
+  pallidpallas:0.36
+  expensive atop lol:0.36
+  amthis:0.36
+  nominally didnt test extensively:0.36
+  issue keyboard:0.36
+  button:0.36
+
+Topic 3:
+  keyboard layout:0.57
+  july:0.48
+  english:0.41
+  fail:0.31
+  ideas caused:0.31
+  unnoticed:0.31
+  pallidpallas:0.31
+  issue keyboard:0.31
+  boots vista works fine:0.31
+  amthis:0.31
+
+Topic 4:
+  keyboard layout:1.01
+  english:0.65
+  july:0.34
+  switch:0.31
+  applied:0.31
+  notification:0.31
+  icon:0.31
+  appliedthe:0.31
+  layout selected tails greeter:0.31
+  selected tails greeter:0.31
+
+K: 5, Log-Likelihood: -520.994, Alpha: 11.000, Beta: 1.100

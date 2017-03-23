@@ -1,0 +1,41 @@
+Topic 0:
+  amount:0.20
+  hope:0.20
+  implied:0.20
+  large:0.20
+  ridiclously:0.20
+  joke:0.20
+
+Topic 1:
+  joke:0.20
+  hope:0.20
+  implied:0.20
+  large:0.20
+  ridiclously:0.20
+  amount:0.20
+
+Topic 2:
+  ridiclously:0.20
+  hope:0.20
+  large:0.20
+  joke:0.20
+  amount:0.20
+  implied:0.20
+
+Topic 3:
+  ridiclously:0.20
+  amount:0.20
+  large:0.20
+  hope:0.20
+  joke:0.20
+  implied:0.20
+
+Topic 4:
+  implied:0.20
+  amount:0.20
+  large:0.20
+  joke:0.20
+  ridiclously:0.20
+  hope:0.20
+
+K: 5, Log-Likelihood: -10.751, Alpha: 11.000, Beta: 1.100

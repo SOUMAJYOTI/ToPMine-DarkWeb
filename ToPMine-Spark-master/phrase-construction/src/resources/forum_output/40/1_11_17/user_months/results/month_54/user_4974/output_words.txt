@@ -1,0 +1,61 @@
+Topic 0:
+  time:2.14
+  market:2.00
+  pgp:1.73
+  resources:1.60
+  key:1.60
+  solution:1.56
+  orders:1.45
+  require:1.19
+  money:1.17
+  case:1.12
+
+Topic 1:
+  risk:8.81
+  tor:6.10
+  leaked:6.07
+  market:5.36
+  vuln:3.39
+  thing:2.97
+  ips:2.93
+  connected:2.88
+  servers:2.88
+  ip:2.88
+
+Topic 2:
+  good:3.90
+  markets:3.37
+  order:3.36
+  vendors:2.73
+  risk:2.04
+  shipped:1.90
+  posting:1.90
+  experiments:1.90
+  luck:1.90
+  day:1.90
+
+Topic 3:
+  time:6.82
+  pgp:3.81
+  orders:3.30
+  solution:2.45
+  key:2.33
+  case:2.08
+  money:1.97
+  market:1.93
+  require:1.86
+  resources:1.51
+
+Topic 4:
+  time:4.19
+  pgp:3.84
+  key:3.59
+  solution:3.49
+  orders:2.80
+  require:2.51
+  money:2.41
+  case:2.37
+  signature:1.61
+  users:1.59
+
+K: 5, Log-Likelihood: -8494.082, Alpha: 11.000, Beta: 1.100

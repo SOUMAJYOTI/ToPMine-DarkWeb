@@ -1,0 +1,61 @@
+Topic 0:
+  february:1.52
+  escrow:1.35
+  forums:1.27
+  agora:1.24
+  money:1.11
+  quote:1.00
+  feel:0.76
+  vendors:0.75
+  bukka:0.74
+  long:0.64
+
+Topic 1:
+  february:1.40
+  escrow:1.36
+  forums:1.25
+  agora:1.20
+  money:1.14
+  quote:0.92
+  vendors:0.82
+  feel:0.81
+  bukka:0.72
+  long:0.62
+
+Topic 2:
+  february:1.95
+  escrow:1.44
+  money:1.34
+  agora:1.29
+  forums:1.04
+  quote:1.04
+  bukka:1.02
+  vendors:0.91
+  feel:0.87
+  pmquote:0.76
+
+Topic 3:
+  february:1.43
+  escrow:1.36
+  forums:1.36
+  money:1.27
+  agora:1.17
+  quote:0.91
+  feel:0.81
+  vendors:0.76
+  bukka:0.76
+  permanent:0.58
+
+Topic 4:
+  february:1.70
+  escrow:1.48
+  money:1.14
+  quote:1.12
+  agora:1.10
+  forums:1.07
+  week:0.79
+  bukka:0.76
+  vendors:0.75
+  feel:0.75
+
+K: 5, Log-Likelihood: -699.888, Alpha: 11.000, Beta: 1.100

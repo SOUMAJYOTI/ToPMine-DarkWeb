@@ -1,0 +1,61 @@
+Topic 0:
+  dont:9.56
+  meds:6.54
+  started:6.51
+  cut:6.03
+  personality:6.03
+  bitcoins:6.03
+  talked:6.03
+  starting:6.03
+  sound:6.03
+  running:6.03
+
+Topic 1:
+  agora:16.26
+  psychedelics:11.60
+  influx vendors customers evolution:11.56
+  root march pmagora:11.18
+  coins marketplace wallet:11.05
+  great advice transfer coins:10.73
+  busy market:10.43
+  site:10.43
+  blockchain agra:10.22
+  wallet empty money stole:10.22
+
+Topic 2:
+  potential:8.41
+  substances:7.58
+  influx users:6.54
+  severe:6.03
+  negative effects:6.03
+  substance:6.03
+  addiction:6.03
+  antidepressants:6.03
+  weeks:6.02
+  clean:6.00
+
+Topic 3:
+  quote:9.85
+  friend:9.03
+  live:6.03
+  told:6.03
+  handle:6.03
+  kids:6.03
+  broken:6.03
+  structures:6.03
+  shit:6.03
+  happy:6.03
+
+Topic 4:
+  drugs:13.06
+  months:7.83
+  doctor:7.82
+  man:7.74
+  started:6.36
+  anti:6.02
+  depression effects:6.02
+  treat:6.02
+  melatonin:6.02
+  created:6.02
+
+K: 5, Log-Likelihood: -28085.459, Alpha: 11.000, Beta: 1.100

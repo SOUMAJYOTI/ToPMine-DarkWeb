@@ -1,0 +1,61 @@
+Topic 0:
+  safe:5.72
+  things:4.49
+  clients:3.90
+  ira:3.34
+  guys:2.88
+  dont:2.80
+  wondering:1.76
+  trillion:1.76
+  unsafe:1.76
+  miranda:1.76
+
+Topic 1:
+  attack:3.79
+  agora:3.78
+  status:2.90
+  check:2.74
+  url:1.90
+  dos:1.90
+  uri:1.90
+  repeatedly:1.90
+  contributing:1.90
+  users:1.64
+
+Topic 2:
+  windows:3.53
+  client:3.07
+  irc:2.72
+  based:2.39
+  tor:1.98
+  ip:1.90
+  dont:1.79
+  settings:1.58
+  bad:1.52
+  ira:1.24
+
+Topic 3:
+  windows:6.49
+  box:4.92
+  stick:3.92
+  load:2.06
+  virtualbox:1.92
+  stuff:1.92
+  decent:1.92
+  virtual:1.92
+  tails:1.92
+  pretty:1.92
+
+Topic 4:
+  store:3.88
+  titcoin:2.74
+  security:1.98
+  app:1.88
+  owner:1.88
+  video:1.88
+  owners:0.89
+  lot:0.89
+  explanation:0.89
+  short:0.89
+
+K: 5, Log-Likelihood: -1765.674, Alpha: 11.000, Beta: 1.100

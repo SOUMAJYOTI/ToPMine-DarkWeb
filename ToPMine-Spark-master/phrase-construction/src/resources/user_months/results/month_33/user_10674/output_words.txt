@@ -1,0 +1,61 @@
+Topic 0:
+  thought:1.12
+  texts:0.95
+  texting:0.73
+  people:0.72
+  text:0.70
+  shit:0.69
+  phones:0.69
+  handled:0.68
+  joint:0.68
+  btw:0.68
+
+Topic 1:
+  people:8.32
+  texts:7.37
+  pizza:4.48
+  shit:4.47
+  texting:3.91
+  dumb:3.05
+  figure:3.04
+  phones:3.03
+  court:2.85
+  illegal:2.83
+
+Topic 2:
+  people:2.73
+  talk:1.79
+  party:1.76
+  code:1.76
+  services:1.76
+  computer:1.75
+  torchat:1.75
+  thing:1.53
+  dont:1.47
+  texts:1.46
+
+Topic 3:
+  jitjat:4.54
+  easy:2.96
+  safely:2.96
+  communicate:2.96
+  convenient:2.96
+  messaging:2.18
+  friends:2.10
+  install:2.10
+  communication:2.10
+  contacts:2.10
+
+Topic 4:
+  people:4.20
+  years:3.19
+  text:3.06
+  texting:2.91
+  pizza:2.84
+  shit:2.60
+  phones:2.57
+  texts:2.19
+  box:2.16
+  illegal:1.80
+
+K: 5, Log-Likelihood: -3307.786, Alpha: 11.000, Beta: 1.100

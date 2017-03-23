@@ -1,0 +1,61 @@
+Topic 0:
+  named:0.00
+  mods:0.00
+  legacy:0.00
+  shamed:0.00
+  putting:0.00
+  buyers:0.00
+  donations:0.00
+  buy:0.00
+  revoke:0.00
+  dumb:0.00
+
+Topic 1:
+  named:0.00
+  mods:0.00
+  legacy:0.00
+  shamed:0.00
+  putting:0.00
+  buyers:0.00
+  donations:0.00
+  buy:0.00
+  revoke:0.00
+  dumb:0.00
+
+Topic 2:
+  named:0.00
+  mods:0.00
+  legacy:0.00
+  shamed:0.00
+  putting:0.00
+  buyers:0.00
+  donations:0.00
+  buy:0.00
+  revoke:0.00
+  dumb:0.00
+
+Topic 3:
+  named:0.00
+  mods:0.00
+  legacy:0.00
+  shamed:0.00
+  putting:0.00
+  buyers:0.00
+  donations:0.00
+  buy:0.00
+  revoke:0.00
+  dumb:0.00
+
+Topic 4:
+  named:0.00
+  mods:0.00
+  legacy:0.00
+  shamed:0.00
+  putting:0.00
+  buyers:0.00
+  donations:0.00
+  buy:0.00
+  revoke:0.00
+  dumb:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

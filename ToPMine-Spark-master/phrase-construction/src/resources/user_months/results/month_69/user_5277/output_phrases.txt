@@ -1,0 +1,61 @@
+Topic 0:
+  easier:0.16
+  wow:0.08
+  wayi:0.08
+  december:0.08
+  hard:0.08
+  gpg:0.08
+  pip:0.08
+  depending:0.08
+  persistent:0.08
+  explain:0.08
+
+Topic 1:
+  easier:0.16
+  wow:0.08
+  youtube:0.08
+  learning:0.08
+  experience:0.08
+  generating:0.08
+  depending:0.08
+  quote:0.08
+  persistent:0.08
+  hard:0.08
+
+Topic 2:
+  easier:0.16
+  pmwow:0.08
+  familiar:0.08
+  system:0.08
+  encypt:0.08
+  persistence:0.08
+  videos:0.08
+  messages:0.08
+  quote:0.08
+  vividsky:0.08
+
+Topic 3:
+  easier:0.16
+  messages:0.08
+  videos:0.08
+  forge:0.08
+  encypt:0.08
+  difficult:0.08
+  key:0.08
+  experience:0.08
+  persistence:0.08
+  operating:0.08
+
+Topic 4:
+  easier:0.16
+  familiar:0.08
+  pmwow:0.08
+  pip:0.08
+  operating:0.08
+  hard:0.08
+  difficult:0.08
+  key:0.08
+  december:0.08
+  learning:0.08
+
+K: 5, Log-Likelihood: -42.143, Alpha: 11.000, Beta: 1.100

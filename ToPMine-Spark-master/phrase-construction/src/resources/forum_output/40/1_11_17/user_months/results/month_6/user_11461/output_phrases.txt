@@ -1,0 +1,61 @@
+Topic 0:
+  buy:0.37
+  stupid:0.37
+  deal:0.37
+  scammed:0.36
+  coins:0.31
+  beware:0.30
+  forums:0.20
+  silkroad:0.20
+  people:0.20
+  hate:0.19
+
+Topic 1:
+  deal:0.38
+  stupid:0.37
+  buy:0.36
+  scammed:0.36
+  coins:0.31
+  beware:0.30
+  silkroad:0.20
+  people:0.20
+  forums:0.20
+  feedback:0.19
+
+Topic 2:
+  buy:0.39
+  stupid:0.38
+  deal:0.36
+  scammed:0.35
+  coins:0.31
+  beware:0.30
+  people:0.20
+  silkroad:0.20
+  forums:0.20
+  trust:0.19
+
+Topic 3:
+  scammed:0.38
+  deal:0.36
+  stupid:0.36
+  buy:0.35
+  beware:0.31
+  coins:0.30
+  people:0.21
+  silkroad:0.21
+  forums:0.21
+  post:0.19
+
+Topic 4:
+  scammed:0.39
+  deal:0.36
+  stupid:0.35
+  buy:0.35
+  beware:0.31
+  coins:0.30
+  forums:0.21
+  people:0.21
+  silkroad:0.21
+  reviews:0.19
+
+K: 5, Log-Likelihood: -202.870, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  cash:3.09
+  money:2.29
+  site:2.16
+  pay:2.11
+  year:1.84
+  donation:1.79
+  clean:1.58
+  dont:1.58
+  taxes:1.54
+  people:1.41
+
+Topic 1:
+  pay:5.64
+  taxes:3.76
+  work:2.81
+  clean:2.37
+  donation:2.37
+  business:2.36
+  site:2.19
+  year:2.11
+  cash:2.06
+  money:2.03
+
+Topic 2:
+  money:4.38
+  cash:3.80
+  site:2.78
+  pay:2.49
+  donation:2.38
+  taxes:2.21
+  year:2.16
+  business:2.11
+  clean:1.73
+  dont:1.63
+
+Topic 3:
+  tax:4.00
+  investigate:3.86
+  paying:2.55
+  people:2.54
+  cash:1.77
+  irs:1.68
+  fail:1.20
+  paid:1.17
+  deposits:1.17
+  simply:1.16
+
+Topic 4:
+  money:5.57
+  pay:3.46
+  cash:3.29
+  donation:2.36
+  clean:2.28
+  taxes:2.24
+  business:2.20
+  work:2.11
+  year:2.06
+  donations:1.82
+
+K: 5, Log-Likelihood: -2319.083, Alpha: 11.000, Beta: 1.100

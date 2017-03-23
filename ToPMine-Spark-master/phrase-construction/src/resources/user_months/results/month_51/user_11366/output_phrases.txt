@@ -1,0 +1,26 @@
+Topic 0:
+  ekse:0.00
+  interested:0.00
+  verification:0.00
+
+Topic 1:
+  ekse:0.00
+  interested:0.00
+  verification:0.00
+
+Topic 2:
+  ekse:0.00
+  interested:0.00
+  verification:0.00
+
+Topic 3:
+  ekse:0.00
+  interested:0.00
+  verification:0.00
+
+Topic 4:
+  ekse:0.00
+  interested:0.00
+  verification:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  money:5.64
+  havent:4.65
+  sr:3.97
+  purchase:3.59
+  satoshi:2.30
+  scum:2.30
+  molestering:2.30
+  da:2.30
+  wallet:2.30
+  mine:2.30
+
+Topic 1:
+  marked shipped:6.99
+  escrow:4.64
+  hasnt:3.67
+  receiving:3.67
+  finalized:3.59
+  balance pending balance:3.35
+  pending balance:2.98
+  isnt:2.29
+  arrive:2.29
+  worked:2.29
+
+Topic 2:
+  small amount:3.84
+  buyer:3.62
+  repaid:3.48
+  paid:3.20
+  dont:3.12
+  returned:2.99
+  voted:2.72
+  details:2.66
+  add:2.50
+  week:2.23
+
+Topic 3:
+  community:11.57
+  expected announcement:7.68
+  half weekend:5.50
+  person:3.79
+  announcement place:3.79
+  step:3.79
+  expect:3.79
+  deep:3.79
+  promised:3.79
+  people announcement:3.79
+
+Topic 4:
+  half weekend:4.28
+  change vote:4.25
+  quote blueskiesredeyes march:3.52
+  situation couple days:3.00
+  admin preparing status update:2.99
+  full:2.87
+  responsible:2.85
+  steps:2.85
+  seconds:2.84
+  begun:2.83
+
+K: 5, Log-Likelihood: -3471.967, Alpha: 11.000, Beta: 1.100

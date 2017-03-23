@@ -1,0 +1,61 @@
+Topic 0:
+  cloud:8.13
+  order:5.77
+  disconnected:4.64
+  bruteforce:4.64
+  database:4.64
+  check file:4.64
+  evo totally:3.82
+  agree time:3.82
+  order agora:3.82
+  issue:3.82
+
+Topic 1:
+  agora:4.59
+  stops repeatedly clicking refresh:3.88
+  agora sooner:3.77
+  markets:3.70
+  quote evilgrin june pmprotip:3.17
+  wait:2.64
+  gon happen:2.57
+  share poor hungry homeless:2.54
+  ddos attacks:2.33
+  market forum:2.32
+
+Topic 2:
+  access:6.96
+  read:4.64
+  option:4.64
+  start:3.83
+  inaccessible:3.82
+  market:2.95
+  quote:2.79
+  people:2.67
+  markets:2.49
+  hours:2.46
+
+Topic 3:
+  overloading bandwidth:7.61
+  market:6.63
+  attack:6.55
+  behaviour:4.64
+  rational logical:4.64
+  offline equivalent gop support:4.05
+  government healthcare quote trees:4.03
+  dealing:3.79
+  smaller:3.79
+  pissing:3.79
+
+Topic 4:
+  good:5.00
+  customers lost funds dosing:4.85
+  forum sr close repaying:4.85
+  speed leg repayment process:4.85
+  liable interesting theory post:4.85
+  commissions pretty reasonable idea:4.85
+  agora order divert customers:4.85
+  admin:4.62
+  vibes:4.57
+  dont attack:3.79
+
+K: 5, Log-Likelihood: -5752.603, Alpha: 11.000, Beta: 1.100

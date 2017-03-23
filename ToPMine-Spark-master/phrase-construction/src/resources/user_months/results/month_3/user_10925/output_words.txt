@@ -1,0 +1,61 @@
+Topic 0:
+  country:1.05
+  localbitcoins:1.02
+  btc:0.84
+  require:0.83
+  offers:0.77
+  good:0.76
+  buy:0.66
+  work:0.65
+  exchange:0.58
+  sepa:0.57
+
+Topic 1:
+  country:1.09
+  localbitcoins:0.99
+  work:0.90
+  btc:0.85
+  buy:0.78
+  require:0.78
+  offers:0.76
+  good:0.65
+  sell:0.57
+  amount:0.57
+
+Topic 2:
+  country:1.07
+  work:1.01
+  btc:0.92
+  localbitcoins:0.86
+  require:0.76
+  buy:0.73
+  offers:0.73
+  good:0.68
+  sell:0.65
+  pretty:0.65
+
+Topic 3:
+  bla:1.68
+  alot:1.68
+  localbitcoins:1.12
+  good:0.96
+  offers:0.87
+  country:0.85
+  require:0.75
+  transfer:0.74
+  sepa:0.73
+  cards:0.73
+
+Topic 4:
+  alot:1.15
+  bla:1.14
+  localbitcoins:1.01
+  country:0.95
+  good:0.94
+  require:0.88
+  offers:0.87
+  btc:0.68
+  sepa:0.67
+  transfer:0.66
+
+K: 5, Log-Likelihood: -625.485, Alpha: 11.000, Beta: 1.100

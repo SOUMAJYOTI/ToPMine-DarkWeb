@@ -1,0 +1,61 @@
+Topic 0:
+  gui:0.40
+  gnome:0.40
+  disks:0.40
+  audit:0.20
+  jh:0.20
+  package:0.20
+  half:0.20
+  quote:0.20
+  called:0.20
+  jjj:0.20
+
+Topic 1:
+  gui:0.40
+  disks:0.40
+  gnome:0.40
+  encryption:0.20
+  disk:0.20
+  jjj:0.20
+  secure:0.20
+  quote:0.20
+  wtih:0.20
+  june:0.20
+
+Topic 2:
+  gui:0.40
+  gnome:0.40
+  disks:0.40
+  dmcryptgnome:0.20
+  pmstill:0.20
+  crypt:0.20
+  half:0.20
+  quote:0.20
+  secure:0.20
+  truecrypt:0.20
+
+Topic 3:
+  disks:0.41
+  gnome:0.40
+  gui:0.40
+  menu:0.20
+  package:0.20
+  utility:0.20
+  pmstill:0.20
+  wtih:0.20
+  june:0.20
+  waiting:0.20
+
+Topic 4:
+  gnome:0.40
+  disks:0.40
+  gui:0.40
+  encryption:0.20
+  waiting:0.20
+  truecrypt:0.20
+  disk:0.20
+  audit:0.20
+  jjj:0.20
+  half:0.20
+
+K: 5, Log-Likelihood: -76.386, Alpha: 11.000, Beta: 1.100

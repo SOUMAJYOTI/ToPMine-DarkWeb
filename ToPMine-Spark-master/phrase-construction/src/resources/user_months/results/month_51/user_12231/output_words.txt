@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.20
+  ll:0.20
+  meid:0.20
+  music:0.20
+  kaikista:0.20
+  norm:0.20
+  amfetamiiniamme:0.20
+  ajankohtaisista:0.20
+  ilmoitamme:0.20
+  silkkitiell:0.20
+
+Topic 1:
+  asiakkaidemme:0.20
+  toivomme:0.20
+  avajaistarjouksena:0.20
+  ist:0.20
+  femme:0.20
+  nopeinta:0.20
+  tarjouksista:0.20
+  ajankohtaisista:0.20
+  sek:0.20
+  norm:0.20
+
+Topic 2:
+  gramma:0.20
+  palautetta:0.20
+  tarjouksista:0.20
+  femme:0.20
+  nopeinta:0.20
+  meid:0.20
+  jonkinlaista:0.20
+  music:0.20
+  sek:0.20
+  ajankohtaisista:0.20
+
+Topic 3:
+  antavan:0.20
+  jonkinlaista:0.20
+  saa:0.20
+  sivulla:0.20
+  kaikista:0.20
+  palautetta:0.20
+  ist:0.20
+  profiilissa:0.20
+  toivomme:0.20
+  myyji:0.20
+
+Topic 4:
+  asiakkaidemme:0.20
+  amfetamiiniamme:0.20
+  profiilissa:0.20
+  sivulla:0.20
+  saa:0.20
+  myyji:0.20
+  antavan:0.20
+  ilmoitamme:0.20
+  ll:0.20
+  gramma:0.20
+
+K: 5, Log-Likelihood: -88.988, Alpha: 11.000, Beta: 1.100

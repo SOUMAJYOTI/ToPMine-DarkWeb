@@ -1,0 +1,61 @@
+Topic 0:
+  key:0.70
+  public:0.47
+  pgp:0.47
+  block:0.46
+  active:0.36
+  sites:0.36
+  vendor:0.36
+  changa:0.23
+  dmt:0.23
+  sell:0.23
+
+Topic 1:
+  sell:0.61
+  changa:0.60
+  dmt:0.59
+  sites:0.46
+  active:0.46
+  vendor:0.45
+  key:0.40
+  block:0.29
+  pgp:0.29
+  public:0.29
+
+Topic 2:
+  key:0.73
+  public:0.47
+  block:0.47
+  pgp:0.47
+  vendor:0.36
+  active:0.36
+  sites:0.36
+  te:0.23
+  gibdwylcqghawigfqgccqolbbycawechgecf:0.23
+  wgns:0.23
+
+Topic 3:
+  dmt:0.76
+  changa:0.76
+  sell:0.75
+  vendor:0.48
+  sites:0.48
+  active:0.48
+  key:0.34
+  focused:0.33
+  middle:0.33
+  bmr:0.33
+
+Topic 4:
+  key:0.83
+  pgp:0.52
+  block:0.52
+  public:0.52
+  vendor:0.34
+  active:0.34
+  sites:0.34
+  garden:0.24
+  contact:0.24
+  rhnc:0.24
+
+K: 5, Log-Likelihood: -714.344, Alpha: 11.000, Beta: 1.100

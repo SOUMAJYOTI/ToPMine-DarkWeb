@@ -1,0 +1,61 @@
+Topic 0:
+  email:1.04
+  encryption:0.83
+  isnt:0.42
+  feature:0.42
+  good:0.42
+  server:0.42
+  thing:0.42
+  media:0.34
+  read:0.34
+  machine:0.29
+
+Topic 1:
+  email:1.22
+  encryption:0.93
+  thing:0.51
+  isnt:0.50
+  server:0.49
+  feature:0.49
+  good:0.43
+  media:0.29
+  read:0.29
+  machine:0.25
+
+Topic 2:
+  email:0.67
+  encryption:0.62
+  media:0.49
+  read:0.49
+  machine:0.48
+  good:0.39
+  thing:0.29
+  feature:0.29
+  server:0.29
+  isnt:0.29
+
+Topic 3:
+  machine:0.77
+  encryption:0.65
+  read:0.62
+  media:0.61
+  email:0.53
+  good:0.34
+  facing:0.32
+  stay:0.32
+  transfer:0.32
+  internet:0.32
+
+Topic 4:
+  email:1.54
+  encryption:0.97
+  server:0.56
+  feature:0.55
+  isnt:0.55
+  thing:0.54
+  good:0.42
+  media:0.26
+  read:0.26
+  worms:0.25
+
+K: 5, Log-Likelihood: -401.434, Alpha: 11.000, Beta: 1.100

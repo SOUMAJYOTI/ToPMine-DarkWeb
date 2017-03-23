@@ -1,0 +1,61 @@
+Topic 0:
+  tor:0.61
+  tails:0.60
+  obfs:0.59
+  download:0.58
+  mode:0.40
+  bridge:0.40
+  install:0.40
+  browser:0.40
+  wiped:0.20
+  center:0.20
+
+Topic 1:
+  obfs:0.61
+  download:0.60
+  tails:0.60
+  tor:0.59
+  mode:0.40
+  bridge:0.40
+  install:0.40
+  browser:0.40
+  bridged:0.20
+  internet:0.20
+
+Topic 2:
+  download:0.63
+  tails:0.61
+  tor:0.60
+  obfs:0.59
+  bridge:0.40
+  install:0.40
+  mode:0.40
+  browser:0.39
+  listed:0.20
+  linux:0.20
+
+Topic 3:
+  obfs:0.61
+  tor:0.60
+  download:0.59
+  tails:0.58
+  browser:0.41
+  bridge:0.40
+  install:0.40
+  mode:0.40
+  boot:0.20
+  starting:0.20
+
+Topic 4:
+  tails:0.61
+  download:0.60
+  tor:0.60
+  obfs:0.59
+  install:0.40
+  mode:0.40
+  browser:0.40
+  bridge:0.40
+  start:0.20
+  center:0.20
+
+K: 5, Log-Likelihood: -129.821, Alpha: 11.000, Beta: 1.100

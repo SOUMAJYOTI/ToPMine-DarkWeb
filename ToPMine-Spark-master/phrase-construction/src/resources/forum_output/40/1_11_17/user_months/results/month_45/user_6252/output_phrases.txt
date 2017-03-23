@@ -1,0 +1,61 @@
+Topic 0:
+  bitblender:2.11
+  good:1.09
+  process:0.95
+  wandered:0.95
+  lower:0.95
+  fees:0.94
+  minutes:0.93
+  find:0.93
+  experience:0.92
+  mixers:0.91
+
+Topic 1:
+  bitblender:1.27
+  bitcoin:1.04
+  don:0.88
+  wan order:0.87
+  ve:0.79
+  ffs:0.78
+  set:0.76
+  yeah:0.76
+  quote:0.76
+  april:0.75
+
+Topic 2:
+  mixer:1.58
+  delay:1.58
+  instantly good:1.58
+  attacks:1.58
+  random:1.58
+  time:1.58
+  add:1.57
+  timing:1.57
+  offers:1.57
+  mixed:1.57
+
+Topic 3:
+  wig:2.99
+  blond:2.99
+  bitcoin:2.80
+  scam people:2.03
+  read negative reviews people:2.01
+  fog avoid:2.00
+  blender worked fast troubles:1.99
+  stay innocent blame issues:1.99
+  detective scam:1.99
+  services ect people services:1.97
+
+Topic 4:
+  bitblender:1.40
+  wan order:1.01
+  account:0.96
+  scroat:0.95
+  pm:0.94
+  vendors:0.94
+  april:0.94
+  yeah:0.94
+  quote:0.93
+  set:0.92
+
+K: 5, Log-Likelihood: -672.813, Alpha: 11.000, Beta: 1.100

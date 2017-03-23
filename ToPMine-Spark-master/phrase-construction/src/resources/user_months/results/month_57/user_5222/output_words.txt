@@ -1,0 +1,61 @@
+Topic 0:
+  btc:6.53
+  listings:0.89
+  abraxas:0.78
+  listing:0.42
+  amazon:0.42
+  nucleus:0.42
+  oxygen:0.42
+  agora:0.42
+  registration:0.42
+  india:0.42
+
+Topic 1:
+  btc:2.60
+  listings:0.73
+  abraxas:0.73
+  abraxasreferal:0.59
+  good:0.59
+  account:0.58
+  wow:0.58
+  avengers:0.49
+  love:0.49
+  agora:0.38
+
+Topic 2:
+  btc:2.61
+  listings:0.76
+  abraxas:0.72
+  wow:0.59
+  account:0.58
+  good:0.58
+  abraxasreferal:0.57
+  love:0.49
+  avengers:0.49
+  open:0.38
+
+Topic 3:
+  btc:4.07
+  abraxas:0.89
+  listings:0.83
+  silkkitien:0.42
+  company:0.42
+  total:0.42
+  vendor:0.42
+  invite:0.42
+  bit:0.42
+  nucleus:0.42
+
+Topic 4:
+  btc:6.19
+  abraxas:0.88
+  listings:0.80
+  middle:0.42
+  dream:0.42
+  registration:0.42
+  ag:0.42
+  free:0.42
+  moving:0.42
+  fee:0.42
+
+K: 5, Log-Likelihood: -413.443, Alpha: 11.000, Beta: 1.100

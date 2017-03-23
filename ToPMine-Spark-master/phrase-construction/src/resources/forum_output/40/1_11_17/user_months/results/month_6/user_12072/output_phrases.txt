@@ -1,0 +1,61 @@
+Topic 0:
+  sites:7.98
+  trade:3.15
+  scammers:3.15
+  main sites:3.15
+  tba:2.89
+  ten:1.55
+  left:1.55
+  existence:1.55
+  running:1.55
+  choose:1.55
+
+Topic 1:
+  days:3.08
+  english language:3.02
+  january:2.95
+  people:1.74
+  quote:1.61
+  sr:1.54
+  buyers tba:1.48
+  tba people:1.48
+  starting:1.48
+  thing:1.48
+
+Topic 2:
+  lots stuff:3.51
+  tor:1.68
+  ill:1.67
+  security:1.67
+  agra:1.67
+  smart:1.67
+  teach:1.67
+  works:1.67
+  selling:1.66
+  listings:1.66
+
+Topic 3:
+  good:4.76
+  things:3.15
+  time:3.15
+  guess:3.15
+  free:3.15
+  folks:3.15
+  couple:3.15
+  site:2.14
+  market:1.91
+  brought:1.54
+
+Topic 4:
+  market:1.90
+  lots stuff:1.21
+  question:1.17
+  critical:1.17
+  trolling:1.17
+  simple:1.17
+  stupid:1.16
+  pmlook:1.16
+  owners:1.16
+  quote:1.16
+
+K: 5, Log-Likelihood: -1810.804, Alpha: 11.000, Beta: 1.100

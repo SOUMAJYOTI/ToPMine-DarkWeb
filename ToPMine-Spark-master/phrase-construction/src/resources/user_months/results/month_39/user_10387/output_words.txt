@@ -1,0 +1,61 @@
+Topic 0:
+  biochem:3.86
+  agora:3.49
+  pretty:3.19
+  ago:2.55
+  quote:2.47
+  bad:2.38
+  expect:1.98
+  hours:1.85
+  analysis:1.85
+  april:1.44
+
+Topic 1:
+  easy:3.89
+  market:1.48
+  assumed:1.43
+  experience:1.43
+  honest:1.42
+  kinda:1.41
+  yrs:1.41
+  explantions:1.40
+  march:1.30
+  quote:1.13
+
+Topic 2:
+  bmr:4.68
+  backopy:2.95
+  dont:2.59
+  agora:1.86
+  market:1.64
+  lost:1.54
+  replaced:1.54
+  remember:1.54
+  safe:1.54
+  agra:1.21
+
+Topic 3:
+  link:1.07
+  attacker:0.95
+  good:0.85
+  hope:0.85
+  hack:0.83
+  market:0.82
+  easy:0.78
+  agora:0.74
+  backopy:0.73
+  single:0.73
+
+Topic 4:
+  access:2.48
+  link:2.29
+  market:1.78
+  urls:1.14
+  custom:1.13
+  login:1.06
+  trolling:0.96
+  agora:0.82
+  dont:0.60
+  wallet:0.59
+
+K: 5, Log-Likelihood: -1795.319, Alpha: 11.000, Beta: 1.100

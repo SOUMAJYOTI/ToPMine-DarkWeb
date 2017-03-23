@@ -1,0 +1,61 @@
+Topic 0:
+  internet:0.80
+  paranoia:0.77
+  security:0.72
+  grugq:0.57
+  operation:0.55
+  list:0.52
+  time:0.47
+  ve:0.45
+  risk assessment:0.45
+  operate clandestinely:0.45
+
+Topic 1:
+  led arrest:2.73
+  december:2.17
+  quote:2.17
+  records:2.06
+  sold sr:2.04
+  sr:2.04
+  address:1.41
+  selling:1.35
+  dealer:1.35
+  calvary:1.35
+
+Topic 2:
+  drug:4.38
+  cover:3.51
+  covert organisation:3.48
+  agent:3.28
+  agents:3.28
+  social network:3.28
+  delivery service:3.28
+  protip:2.89
+  uniform:2.18
+  hand:2.18
+
+Topic 3:
+  hackers:8.40
+  hacker community:7.68
+  hacker culture:4.38
+  dulles:4.38
+  security:3.60
+  law enforcement:3.49
+  le ic:3.28
+  learning:3.28
+  skill:3.28
+  knowledge:2.78
+
+Topic 4:
+  ve:5.03
+  security:4.72
+  paranoia:4.71
+  grugq:3.66
+  internet:3.43
+  security researcher:2.89
+  operate clandestinely:2.84
+  risk assessment:2.84
+  time:2.34
+  shared:1.86
+
+K: 5, Log-Likelihood: -13093.410, Alpha: 11.000, Beta: 1.100

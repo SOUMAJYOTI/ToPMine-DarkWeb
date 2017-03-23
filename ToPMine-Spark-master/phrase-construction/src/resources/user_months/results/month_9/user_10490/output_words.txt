@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:1.01
+  market:0.93
+  btc:0.87
+  transaction:0.60
+  cheers:0.60
+  admins:0.40
+  contact:0.40
+  explains:0.40
+  question:0.20
+  pmyou:0.20
+
+Topic 1:
+  market:1.06
+  wallet:0.98
+  btc:0.76
+  transaction:0.61
+  cheers:0.59
+  admins:0.40
+  contact:0.40
+  explains:0.40
+  click:0.20
+  deposit:0.20
+
+Topic 2:
+  wallet:1.00
+  market:0.97
+  btc:0.77
+  transaction:0.61
+  cheers:0.61
+  admins:0.40
+  explains:0.40
+  contact:0.40
+  button:0.20
+  refresh:0.20
+
+Topic 3:
+  wallet:0.99
+  market:0.97
+  btc:0.83
+  cheers:0.62
+  transaction:0.59
+  explains:0.40
+  contact:0.40
+  admins:0.40
+  weed:0.20
+  march:0.20
+
+Topic 4:
+  market:1.07
+  wallet:1.01
+  btc:0.76
+  cheers:0.59
+  transaction:0.59
+  explains:0.40
+  contact:0.40
+  admins:0.39
+  click:0.20
+  bluest:0.20
+
+K: 5, Log-Likelihood: -109.203, Alpha: 11.000, Beta: 1.100

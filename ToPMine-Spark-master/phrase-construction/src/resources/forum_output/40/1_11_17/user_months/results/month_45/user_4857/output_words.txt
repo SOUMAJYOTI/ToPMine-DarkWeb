@@ -1,0 +1,61 @@
+Topic 0:
+  javascript:46.90
+  disabled:32.96
+  js:32.93
+  forbid:19.98
+  enable:19.95
+  browser:17.96
+  security:15.96
+  site:14.74
+  login:13.90
+  log:12.91
+
+Topic 1:
+  ross:28.20
+  people:26.32
+  life:10.93
+  time:10.60
+  society:8.55
+  thing:7.40
+  long:7.30
+  dont:6.87
+  state:6.86
+  read:6.14
+
+Topic 2:
+  ulbricht:45.95
+  road:32.90
+  silk:32.90
+  drugs:30.86
+  prosecutors:19.93
+  site:19.69
+  drug:18.01
+  life:16.12
+  judge:13.95
+  people:12.92
+
+Topic 3:
+  people:21.04
+  good:15.88
+  meds:14.91
+  life:14.05
+  psychedelics:13.30
+  doctors:12.92
+  anti:11.60
+  work:10.89
+  feel:10.61
+  dont:10.00
+
+Topic 4:
+  march:19.92
+  wallet:19.88
+  coins:19.53
+  quote:16.43
+  agora:13.87
+  vendors:13.66
+  money:11.89
+  scidmt:11.83
+  ago:11.71
+  empty:10.75
+
+K: 5, Log-Likelihood: -32293.779, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  buy:0.60
+  send:0.55
+  vendors:0.38
+  btc:0.38
+  lsd:0.21
+  place:0.21
+  work:0.21
+  worldwhiff:0.21
+  vendorshow:0.21
+  good:0.21
+
+Topic 1:
+  send:0.61
+  buy:0.59
+  vendors:0.41
+  btc:0.41
+  active:0.20
+  funds:0.20
+  address:0.20
+  check:0.20
+  key:0.20
+  link:0.20
+
+Topic 2:
+  buy:0.61
+  send:0.60
+  btc:0.40
+  vendors:0.40
+  avengers:0.20
+  market:0.20
+  worldwhiff:0.20
+  good:0.20
+  vendorshow:0.20
+  whaff:0.20
+
+Topic 3:
+  send:0.63
+  buy:0.60
+  btc:0.41
+  vendors:0.40
+  message:0.20
+  link:0.20
+  check:0.20
+  funds:0.20
+  pgp:0.20
+  amount:0.20
+
+Topic 4:
+  send:0.61
+  buy:0.60
+  vendors:0.41
+  btc:0.41
+  message:0.20
+  check:0.20
+  active:0.20
+  link:0.20
+  key:0.20
+  address:0.20
+
+K: 5, Log-Likelihood: -111.058, Alpha: 11.000, Beta: 1.100

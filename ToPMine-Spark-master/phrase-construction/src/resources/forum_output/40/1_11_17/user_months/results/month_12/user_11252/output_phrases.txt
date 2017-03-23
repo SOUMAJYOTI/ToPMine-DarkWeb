@@ -1,0 +1,61 @@
+Topic 0:
+  alk:0.00
+  lakkaa:0.00
+  piri:0.00
+  mail:0.00
+  dlemail:0.00
+  speed:0.00
+  saat:0.00
+  meilt:0.00
+  netcloud:0.00
+  safe:0.00
+
+Topic 1:
+  alk:0.00
+  lakkaa:0.00
+  piri:0.00
+  mail:0.00
+  dlemail:0.00
+  speed:0.00
+  saat:0.00
+  meilt:0.00
+  netcloud:0.00
+  safe:0.00
+
+Topic 2:
+  alk:0.00
+  lakkaa:0.00
+  piri:0.00
+  mail:0.00
+  dlemail:0.00
+  speed:0.00
+  saat:0.00
+  meilt:0.00
+  netcloud:0.00
+  safe:0.00
+
+Topic 3:
+  alk:0.00
+  lakkaa:0.00
+  piri:0.00
+  mail:0.00
+  dlemail:0.00
+  speed:0.00
+  saat:0.00
+  meilt:0.00
+  netcloud:0.00
+  safe:0.00
+
+Topic 4:
+  alk:0.00
+  lakkaa:0.00
+  piri:0.00
+  mail:0.00
+  dlemail:0.00
+  speed:0.00
+  saat:0.00
+  meilt:0.00
+  netcloud:0.00
+  safe:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

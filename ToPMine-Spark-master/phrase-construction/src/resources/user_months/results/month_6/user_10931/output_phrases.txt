@@ -1,0 +1,61 @@
+Topic 0:
+  unusual server load:0.58
+  investigating:0.44
+  pandora:0.43
+  staff:0.39
+  investigate:0.39
+  agora:0.34
+  spooks:0.34
+  load:0.34
+  site:0.31
+  ready:0.30
+
+Topic 1:
+  staff:0.69
+  pandora:0.61
+  message:0.49
+  check:0.49
+  homepage:0.49
+  minutes:0.49
+  logo:0.49
+  reloading:0.49
+  sr:0.49
+  thirty:0.49
+
+Topic 2:
+  investigate:1.72
+  plate:1.13
+  update:1.08
+  today:1.07
+  issue:1.06
+  site:1.02
+  offline:0.99
+  unusual server load:0.87
+  marketplace:0.49
+  pm:0.49
+
+Topic 3:
+  investigate:1.79
+  offline:1.25
+  site:1.21
+  issue:1.20
+  today:1.18
+  update:1.16
+  plate:1.12
+  unusual server load:0.85
+  load staff:0.52
+  investigation:0.52
+
+Topic 4:
+  staff:0.61
+  pandora:0.61
+  lookin:0.48
+  good:0.48
+  happy:0.48
+  isnt:0.48
+  customers:0.48
+  lot:0.48
+  hell:0.48
+  alice:0.44
+
+K: 5, Log-Likelihood: -437.369, Alpha: 11.000, Beta: 1.100

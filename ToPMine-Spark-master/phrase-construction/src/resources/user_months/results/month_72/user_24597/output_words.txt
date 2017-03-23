@@ -1,0 +1,61 @@
+Topic 0:
+  veracrypt:1.85
+  code:0.84
+  truecrypt:0.71
+  secure:0.48
+  works:0.43
+  encryption:0.40
+  happy:0.39
+  contributed:0.28
+  backdoor:0.28
+  version:0.28
+
+Topic 1:
+  veracrypt:1.66
+  code:0.85
+  truecrypt:0.66
+  secure:0.50
+  works:0.41
+  happy:0.40
+  encryption:0.40
+  people:0.27
+  perfectly:0.27
+  version:0.27
+
+Topic 2:
+  truecrypt:3.27
+  veracrypt:2.26
+  auditing:1.25
+  devs:1.24
+  based:1.23
+  code:1.02
+  works:0.55
+  gut:0.48
+  hot:0.48
+  dropped:0.48
+
+Topic 3:
+  programs:2.36
+  mi:1.45
+  famous:0.58
+  question:0.58
+  english:0.58
+  popular:0.58
+  forum:0.58
+  absolute:0.58
+  assumed:0.58
+  peoples:0.58
+
+Topic 4:
+  veracrypt:2.02
+  truecrypt:1.27
+  code:0.99
+  works:0.53
+  encryption:0.38
+  happy:0.38
+  secure:0.37
+  based:0.31
+  devs:0.30
+  auditing:0.30
+
+K: 5, Log-Likelihood: -494.942, Alpha: 11.000, Beta: 1.100

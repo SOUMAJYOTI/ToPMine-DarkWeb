@@ -1,0 +1,61 @@
+Topic 0:
+  lbc:1.39
+  february:1.25
+  stopped:1.13
+  withdrawels:1.00
+  quote:0.89
+  mary:0.76
+  pmuk:0.74
+  time:0.63
+  bitcoin:0.62
+  guy:0.56
+
+Topic 1:
+  stopped:2.20
+  lbc:1.78
+  withdrawels:1.59
+  february:1.42
+  pmuk:1.16
+  mary:1.12
+  quote:1.02
+  fuck:0.71
+  guy:0.51
+  lesser:0.51
+
+Topic 2:
+  february:1.17
+  lbc:0.82
+  quote:0.75
+  bitcoin:0.73
+  stopped:0.72
+  time:0.65
+  shared:0.64
+  withdrawels:0.62
+  send:0.53
+  mary:0.49
+
+Topic 3:
+  shared:3.21
+  send:2.30
+  blockchain:1.69
+  mixing:1.00
+  service:1.00
+  source:0.99
+  info:0.99
+  sharedcoin:0.99
+  february:0.94
+  time:0.58
+
+Topic 4:
+  february:1.22
+  quote:0.81
+  send:0.78
+  shared:0.74
+  lbc:0.74
+  stopped:0.70
+  bitcoin:0.66
+  time:0.66
+  withdrawels:0.55
+  blockchain:0.54
+
+K: 5, Log-Likelihood: -599.308, Alpha: 11.000, Beta: 1.100

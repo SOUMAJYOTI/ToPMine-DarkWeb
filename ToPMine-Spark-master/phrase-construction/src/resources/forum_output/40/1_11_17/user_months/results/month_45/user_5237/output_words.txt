@@ -1,0 +1,61 @@
+Topic 0:
+  site:0.80
+  recomend:0.63
+  thought:0.61
+  deep:0.60
+  web:0.58
+  kinda:0.58
+  buy:0.41
+  marketplace:0.40
+  agora:0.40
+  safe:0.40
+
+Topic 1:
+  site:0.83
+  kinda:0.62
+  web:0.62
+  thought:0.61
+  deep:0.60
+  recomend:0.56
+  laugh:0.42
+  funny:0.42
+  lot:0.42
+  teach:0.42
+
+Topic 2:
+  site:0.77
+  web:0.61
+  deep:0.60
+  thought:0.60
+  kinda:0.59
+  recomend:0.59
+  applies:0.41
+  pretty:0.41
+  teach:0.41
+  lot:0.41
+
+Topic 3:
+  site:0.77
+  recomend:0.62
+  kinda:0.61
+  thought:0.59
+  deep:0.59
+  web:0.58
+  safe:0.41
+  agora:0.41
+  buy:0.41
+  marketplace:0.41
+
+Topic 4:
+  site:0.83
+  deep:0.61
+  web:0.60
+  recomend:0.59
+  kinda:0.59
+  thought:0.59
+  buy:0.41
+  agora:0.40
+  safe:0.40
+  marketplace:0.40
+
+K: 5, Log-Likelihood: -249.799, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  localbitcoins:0.37
+  people:0.36
+  btc:0.36
+  prepaid:0.36
+  access:0.36
+  tor:0.36
+  circle:0.31
+  cards:0.31
+  work:0.21
+  coinbase:0.20
+
+Topic 1:
+  tor:0.45
+  access:0.44
+  prepaid:0.44
+  btc:0.38
+  cards:0.33
+  circle:0.32
+  localbitcoins:0.31
+  people:0.31
+  buy:0.22
+  gift:0.21
+
+Topic 2:
+  btc:0.37
+  people:0.36
+  access:0.36
+  localbitcoins:0.36
+  prepaid:0.36
+  tor:0.36
+  circle:0.31
+  cards:0.31
+  real:0.21
+  coinbase:0.21
+
+Topic 3:
+  people:0.39
+  localbitcoins:0.39
+  btc:0.36
+  tor:0.34
+  access:0.34
+  prepaid:0.34
+  circle:0.30
+  cards:0.30
+  work:0.21
+  real:0.21
+
+Topic 4:
+  people:0.41
+  localbitcoins:0.41
+  btc:0.35
+  prepaid:0.33
+  access:0.32
+  tor:0.32
+  circle:0.29
+  cards:0.29
+  work:0.21
+  coinbase:0.21
+
+K: 5, Log-Likelihood: -273.478, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  access:1.48
+  agora:1.27
+  hope:0.91
+  order:0.85
+  problem:0.82
+  times:0.71
+  yesterday:0.45
+  today:0.44
+  managed:0.42
+  sr:0.41
+
+Topic 1:
+  access:1.64
+  agora:1.30
+  times:0.90
+  order:0.88
+  hope:0.88
+  problem:0.85
+  send:0.47
+  bitcoins:0.47
+  place:0.44
+  time:0.41
+
+Topic 2:
+  access:1.64
+  agora:1.16
+  hope:0.99
+  times:0.89
+  order:0.82
+  problem:0.71
+  hours:0.47
+  time:0.46
+  servers:0.46
+  market:0.43
+
+Topic 3:
+  access:2.17
+  agora:1.27
+  times:0.97
+  problem:0.92
+  hope:0.88
+  order:0.70
+  time:0.46
+  servers:0.46
+  hours:0.46
+  place:0.45
+
+Topic 4:
+  hope:1.34
+  access:1.07
+  agora:1.01
+  order:0.75
+  problem:0.70
+  sr:0.54
+  desperate:0.54
+  times:0.53
+  sorted:0.51
+  today:0.46
+
+K: 5, Log-Likelihood: -473.140, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  east india company:1.33
+  quote knuckles april:0.65
+  uk join:0.58
+  platform:0.58
+  merchants:0.52
+  united states:0.50
+  amwhat uk join:0.47
+  pgp:0.46
+  system:0.46
+  bestterp:0.45
+
+Topic 1:
+  east india company:5.54
+  united states:4.67
+  pgp:4.40
+  system:3.49
+  company:3.43
+  merchants:2.26
+  products:2.21
+  signature:2.19
+  featured:2.17
+  authentication factor:2.15
+
+Topic 2:
+  issue:5.13
+  wallet server:5.13
+  log empty:2.87
+  servers:2.54
+  received:2.54
+  connection:2.54
+  result:2.54
+  lolnymous:2.54
+  handling:2.54
+  improved:2.54
+
+Topic 3:
+  east india company:4.06
+  pgp:1.95
+  united states:1.64
+  merchants:1.29
+  company:1.28
+  system:1.15
+  full:1.12
+  onion:1.07
+  police:1.06
+  stolen:1.05
+
+Topic 4:
+  merchant:3.94
+  chat:3.78
+  market:3.78
+  enforce buyers countries site:3.78
+  april:3.62
+  east india company british:3.39
+  services:3.37
+  pricing:3.37
+  time:3.37
+  shipping:3.37
+
+K: 5, Log-Likelihood: -4941.749, Alpha: 11.000, Beta: 1.100

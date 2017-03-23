@@ -1,0 +1,61 @@
+Topic 0:
+  rahanne:4.11
+  takaisin:4.11
+  sama:3.12
+  mit:2.58
+  myyj:2.15
+  huijari:2.03
+  sain:2.03
+  tilasin:2.03
+  kautta:2.03
+  oliko:2.03
+
+Topic 1:
+  men:4.12
+  poistaa:4.12
+  mutta:3.55
+  nain:2.59
+  tilaa:2.04
+  tili:2.04
+  marketin:2.04
+  dytetty:2.04
+  neet:2.04
+  marketilta:2.04
+
+Topic 2:
+  yll:4.30
+  anus:4.13
+  ytt:4.13
+  speed press:3.57
+  jos:3.30
+  mit:3.14
+  market:3.09
+  toivottavasti:2.09
+  mustamaalaan:2.06
+  kohdalla:2.06
+
+Topic 3:
+  kauppias:6.64
+  ei:5.99
+  eik:4.82
+  ja:3.37
+  sina:3.30
+  sattui:3.30
+  kusettaja:3.30
+  oli:3.30
+  viisaammat:3.30
+  hnyt:3.30
+
+Topic 4:
+  speed:4.12
+  joutuu:4.12
+  siihen:4.07
+  ss:3.29
+  ett:3.29
+  kerro:3.29
+  kaiken:3.29
+  ja:2.62
+  jo:2.61
+  kyll:2.27
+
+K: 5, Log-Likelihood: -5298.089, Alpha: 11.000, Beta: 1.100

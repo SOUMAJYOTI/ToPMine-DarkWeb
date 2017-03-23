@@ -1,0 +1,61 @@
+Topic 0:
+  life:5.97
+  left:4.59
+  exploration:3.86
+  lifesaver:3.86
+  huge:3.86
+  difference:3.86
+  variation:3.86
+  gods:3.86
+  sane:3.86
+  deep:3.86
+
+Topic 1:
+  behaviour:7.76
+  group:7.76
+  create:7.76
+  psychedelics:5.75
+  love:4.41
+  highly:3.86
+  addicts:3.86
+  entheogenic:3.86
+  matter:3.86
+  systems belief:3.86
+
+Topic 2:
+  post:7.70
+  future:5.68
+  life:5.45
+  good:4.02
+  enhancing:3.84
+  track:3.84
+  recovering:3.84
+  thought years:3.84
+  fully:3.84
+  programs:3.84
+
+Topic 3:
+  ways:7.72
+  path:6.37
+  beautifullyi:3.85
+  seeking believing:3.85
+  limitation:3.85
+  compliment:3.85
+  open:3.85
+  nature:3.85
+  personal:3.85
+  knowledge:3.85
+
+Topic 4:
+  open heart:7.75
+  journey:5.05
+  authentically:3.86
+  trauma:3.86
+  dysfunction:3.86
+  augment:3.86
+  odonata:3.86
+  memories:3.86
+  integrate:3.86
+  site:3.86
+
+K: 5, Log-Likelihood: -9779.624, Alpha: 11.000, Beta: 1.100

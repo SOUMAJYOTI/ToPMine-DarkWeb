@@ -1,0 +1,61 @@
+Topic 0:
+  swam:0.41
+  week:0.41
+  ive:0.40
+  thread:0.40
+  fog:0.39
+  issues:0.39
+  shills:0.20
+  bitblender:0.20
+  real:0.20
+  posts:0.20
+
+Topic 1:
+  issues:0.40
+  week:0.40
+  fog:0.40
+  ive:0.40
+  thread:0.40
+  swam:0.40
+  comment:0.20
+  bitcoin:0.20
+  times:0.20
+  posts:0.20
+
+Topic 2:
+  thread:0.40
+  fog:0.40
+  ive:0.40
+  issues:0.40
+  week:0.40
+  swam:0.40
+  comment:0.20
+  bitcoin:0.20
+  newly:0.20
+  report:0.20
+
+Topic 3:
+  issues:0.40
+  fog:0.40
+  thread:0.40
+  swam:0.40
+  ive:0.40
+  week:0.40
+  comment:0.20
+  bitcoin:0.20
+  withdrawals:0.20
+  newly:0.20
+
+Topic 4:
+  fog:0.40
+  thread:0.40
+  swam:0.40
+  issues:0.40
+  ive:0.40
+  week:0.40
+  bitcoin:0.20
+  comment:0.20
+  deposits:0.20
+  hasnt:0.20
+
+K: 5, Log-Likelihood: -148.803, Alpha: 11.000, Beta: 1.100

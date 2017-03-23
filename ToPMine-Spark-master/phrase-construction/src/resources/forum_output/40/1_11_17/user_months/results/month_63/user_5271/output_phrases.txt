@@ -1,0 +1,61 @@
+Topic 0:
+  save:1.53
+  warning:1.52
+  heed:1.50
+  glad:1.48
+  hope:1.48
+  read:1.46
+  veracrypt:1.13
+  constantly:1.03
+  smarter:1.01
+  people:1.00
+
+Topic 1:
+  tails:3.30
+  coins:2.66
+  bandbox:2.66
+  expert:2.66
+  running:2.66
+  folks:2.66
+  vpon:2.65
+  box:2.65
+  renting:2.65
+  virtual:2.65
+
+Topic 2:
+  veracrypt:1.10
+  checking:0.84
+  security:0.83
+  competent:0.83
+  suite:0.83
+  bugs:0.82
+  smarter:0.81
+  team:0.81
+  people:0.80
+  constantly:0.80
+
+Topic 3:
+  don:3.42
+  times:2.50
+  persistent:2.50
+  relationships:2.48
+  download:2.48
+  plate:2.48
+  failed:2.48
+  update:2.48
+  losing:2.47
+  feel:2.46
+
+Topic 4:
+  larger:1.90
+  gb:1.88
+  setup:1.85
+  stick:1.85
+  tails secure:1.82
+  secure:1.71
+  lookout:1.41
+  ways:1.41
+  quote:1.41
+  december:1.41
+
+K: 5, Log-Likelihood: -899.580, Alpha: 11.000, Beta: 1.100

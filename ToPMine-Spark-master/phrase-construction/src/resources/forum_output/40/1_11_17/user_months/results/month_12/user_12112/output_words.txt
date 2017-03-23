@@ -1,0 +1,61 @@
+Topic 0:
+  russian:0.20
+  wallet:0.20
+  generator:0.20
+  transactions:0.20
+  english:0.20
+  online:0.20
+  sqxamnigeby:0.20
+  careful:0.20
+  phishing:0.20
+  javascript:0.20
+
+Topic 1:
+  interested:0.21
+  hidden:0.21
+  trust:0.21
+  nada:0.21
+  thw:0.21
+  dont:0.21
+  personal:0.21
+  advertised:0.21
+  reviews:0.21
+  wiki:0.21
+
+Topic 2:
+  internal:0.20
+  list:0.20
+  sig:0.20
+  mixer:0.20
+  net:0.20
+  multi:0.20
+  dark:0.20
+  wallet:0.20
+  escrow:0.20
+  onionbravebulzwzs:0.20
+
+Topic 3:
+  wiki:0.20
+  dont:0.20
+  hearing:0.20
+  personal:0.20
+  thw:0.20
+  hidden:0.20
+  nada:0.20
+  interested:0.20
+  reviews:0.20
+  advertised:0.20
+
+Topic 4:
+  interface:0.20
+  spanish:0.20
+  onionbrav:0.20
+  english:0.20
+  programbe:0.20
+  key:0.20
+  instant:0.20
+  bravebunny:0.20
+  onion:0.20
+  sig:0.20
+
+K: 5, Log-Likelihood: -176.116, Alpha: 11.000, Beta: 1.100

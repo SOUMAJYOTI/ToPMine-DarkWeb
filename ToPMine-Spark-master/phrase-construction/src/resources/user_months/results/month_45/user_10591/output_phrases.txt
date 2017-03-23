@@ -1,0 +1,61 @@
+Topic 0:
+  free:4.78
+  live:3.17
+  country:3.17
+  fuck:3.17
+  deny:3.13
+  spy:3.13
+  link:3.11
+  spying:2.23
+  eye:2.23
+  citizens nsa:2.23
+
+Topic 1:
+  holla boys holla boys:4.78
+  king:4.78
+  guy fawkes:4.78
+  remember november gunpowder treason:4.08
+  forgot:4.08
+  june:2.51
+  powder:2.37
+  gods:2.37
+  older:2.37
+  gunpowder:2.37
+
+Topic 2:
+  government:1.72
+  order:1.19
+  communications:1.07
+  records:0.95
+  national security:0.93
+  program:0.90
+  bulk collection:0.71
+  provision:0.65
+  nsa:0.62
+  bill:0.61
+
+Topic 3:
+  national security:8.67
+  government:7.26
+  program:5.68
+  records:4.15
+  bill:3.73
+  major:3.44
+  provision:3.41
+  senators:3.31
+  americans:3.19
+  bulk collection:3.08
+
+Topic 4:
+  government:12.22
+  records:6.15
+  bulk collection:4.25
+  provision:3.97
+  bill:3.70
+  patriot:3.41
+  national security:3.26
+  mcconnell:3.23
+  program:3.05
+  grand jury:2.94
+
+K: 5, Log-Likelihood: -10358.561, Alpha: 11.000, Beta: 1.100

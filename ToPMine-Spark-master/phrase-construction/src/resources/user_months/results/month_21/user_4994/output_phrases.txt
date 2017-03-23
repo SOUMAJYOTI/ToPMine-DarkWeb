@@ -1,0 +1,61 @@
+Topic 0:
+  sample:0.16
+  weekly:0.08
+  eve:0.08
+  love:0.08
+  lot:0.08
+  hand:0.08
+  wanted:0.08
+  oz:0.08
+  pm:0.08
+  hey:0.08
+
+Topic 1:
+  sample:0.16
+  markets:0.08
+  hand:0.08
+  guys:0.08
+  store:0.08
+  basis:0.08
+  hey:0.08
+  deal:0.08
+  wanted:0.08
+  pm:0.08
+
+Topic 2:
+  sample:0.16
+  qp:0.08
+  basis:0.08
+  deal:0.08
+  find:0.08
+  hey:0.08
+  pm:0.08
+  store:0.08
+  lot:0.08
+  love:0.08
+
+Topic 3:
+  sample:0.16
+  oz:0.08
+  deal:0.08
+  hand:0.08
+  people:0.08
+  great:0.08
+  hey:0.08
+  qp:0.08
+  store:0.08
+  eve:0.08
+
+Topic 4:
+  sample:0.16
+  great:0.08
+  people:0.08
+  weekly:0.08
+  find:0.08
+  guys:0.08
+  wanted:0.08
+  oz:0.08
+  love:0.08
+  eve:0.08
+
+K: 5, Log-Likelihood: -23.766, Alpha: 11.000, Beta: 1.100

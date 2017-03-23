@@ -1,0 +1,61 @@
+Topic 0:
+  markets:2.44
+  explain:2.17
+  word:2.16
+  electrum care:2.15
+  sig:2.14
+  protocol:2.14
+  standard:2.14
+  multi:2.12
+  time:1.86
+  customers:1.59
+
+Topic 1:
+  domestic:3.00
+  tracking:3.00
+  priority:3.00
+  exclusively:2.92
+  juleswinnfield:2.92
+  tuned:2.92
+  stay:2.92
+  shatter:2.92
+  hans:2.81
+  sample:1.91
+
+Topic 2:
+  central escrow markets:5.81
+  hansa:5.56
+  weve:4.53
+  surprise:3.86
+  simple:3.86
+  remain:3.86
+  easy:3.86
+  experience:3.86
+  busiest:3.86
+  escrow system:3.16
+
+Topic 3:
+  multisignature address:19.49
+  public key:14.13
+  redeem script:9.50
+  sign transaction:6.06
+  merchant:6.03
+  timelock transaction:5.98
+  market:5.90
+  multisignature escrow:5.71
+  customer:5.65
+  master public key:5.65
+
+Topic 4:
+  redeem script:9.55
+  multisignature escrow:7.32
+  sign transaction:7.14
+  public key:6.97
+  market:6.14
+  multisignature address:4.94
+  bitcoin address:3.75
+  customer:3.70
+  release funds:3.56
+  timelock transaction:3.31
+
+K: 5, Log-Likelihood: -9342.851, Alpha: 11.000, Beta: 1.100

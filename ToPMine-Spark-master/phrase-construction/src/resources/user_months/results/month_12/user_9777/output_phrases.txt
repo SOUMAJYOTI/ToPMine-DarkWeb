@@ -1,0 +1,61 @@
+Topic 0:
+  funk:0.98
+  sink relax water:0.63
+  fine acid stupid question:0.61
+  quote:0.61
+  ahh:0.61
+  garden:0.59
+  scoot room ya yeah:0.59
+  acid:0.57
+  ill:0.56
+  zzzzzzzzzzaaaaaaaaaaappppppppppp:0.55
+
+Topic 1:
+  funk:2.10
+  alright:0.86
+  eat:0.84
+  people:0.84
+  awe:0.83
+  commit:0.83
+  zzzzzzzzzzaaaaaaaaaaappppppppppp:0.82
+  bathing:0.82
+  fuck:0.82
+  acid:0.80
+
+Topic 2:
+  quote:0.96
+  water fine:0.93
+  acid stupid question:0.93
+  scoot room ya:0.92
+  water:0.91
+  dafunkfuzz:0.91
+  umm:0.91
+  yeah sink relax:0.90
+  pmahh:0.90
+  ill:0.68
+
+Topic 3:
+  quote:0.78
+  ahh:0.68
+  ll:0.67
+  ill:0.66
+  scoot room ya yeah:0.66
+  fine acid stupid question:0.66
+  sink relax water:0.64
+  dafunkfuzz:0.64
+  pmahh:0.64
+  water:0.64
+
+Topic 4:
+  funk:1.34
+  fuck:0.70
+  commit:0.70
+  bathing:0.70
+  eat:0.69
+  awe:0.69
+  zzzzzzzzzzaaaaaaaaaaappppppppppp:0.69
+  people:0.69
+  alright:0.69
+  acid:0.69
+
+K: 5, Log-Likelihood: -341.556, Alpha: 11.000, Beta: 1.100

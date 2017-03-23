@@ -1,0 +1,61 @@
+Topic 0:
+  time:6.21
+  earth:5.58
+  middle:5.39
+  week:3.53
+  checked:3.52
+  rotation:3.18
+  nucleus:2.85
+  mind:2.85
+  link:2.82
+  market:2.61
+
+Topic 1:
+  agora:11.95
+  listings:5.77
+  cart:3.88
+  shopping:3.88
+  traffic:3.75
+  middle:3.63
+  earth:3.06
+  blackbank:2.85
+  market:2.78
+  link:2.48
+
+Topic 2:
+  vacation:10.34
+  orders:10.34
+  middle:7.00
+  earth:6.65
+  favorite:6.51
+  vendors:6.15
+  mode:6.11
+  login:5.66
+  everytime:5.64
+  june:5.53
+
+Topic 3:
+  nucleus:13.72
+  people:10.99
+  middle:8.20
+  earth:7.62
+  find:7.12
+  withdraw:6.87
+  coin:5.71
+  interface:5.61
+  blackbank:5.29
+  evolution:4.96
+
+Topic 4:
+  trust:11.31
+  april:8.58
+  forum:7.86
+  quote:7.29
+  tmg:7.10
+  based:6.87
+  open:6.14
+  risk:5.84
+  markets:5.25
+  commission:4.86
+
+K: 5, Log-Likelihood: -5921.459, Alpha: 11.000, Beta: 1.100

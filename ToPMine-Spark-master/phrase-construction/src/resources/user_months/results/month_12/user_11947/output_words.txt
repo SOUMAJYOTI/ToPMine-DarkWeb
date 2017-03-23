@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:0.40
+  reliable:0.40
+  money:0.40
+  find:0.40
+  black:0.40
+  market:0.40
+  counterfeit:0.40
+  experience:0.20
+  list:0.20
+  scam:0.20
+
+Topic 1:
+  black:0.40
+  counterfeit:0.40
+  find:0.40
+  market:0.40
+  vendors:0.40
+  reliable:0.40
+  money:0.40
+  positive:0.20
+  browser:0.20
+  online:0.20
+
+Topic 2:
+  black:0.40
+  vendors:0.40
+  money:0.40
+  market:0.40
+  reliable:0.40
+  find:0.40
+  counterfeit:0.40
+  wondering:0.20
+  buying:0.20
+  large:0.20
+
+Topic 3:
+  counterfeit:0.40
+  market:0.40
+  reliable:0.40
+  vendors:0.40
+  money:0.40
+  find:0.40
+  black:0.40
+  pretty:0.20
+  online:0.20
+  list:0.20
+
+Topic 4:
+  money:0.40
+  reliable:0.40
+  find:0.40
+  counterfeit:0.40
+  market:0.40
+  vendors:0.40
+  black:0.40
+  buying:0.20
+  wondering:0.20
+  vendor:0.20
+
+K: 5, Log-Likelihood: -92.455, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  march amquote:3.56
+  topic situation family potential:2.29
+  anah:2.23
+  intruder:2.22
+  aethon march:2.22
+  quote:2.22
+  addresses:2.21
+  add:2.21
+  zaphod:2.20
+  dodongo:2.20
+
+Topic 1:
+  low hanging fruit:4.35
+  people:3.46
+  hand:3.46
+  video:2.09
+  stay:2.09
+  laziness:2.09
+  day:2.09
+  play:2.09
+  swim:2.09
+  runs:2.08
+
+Topic 2:
+  scam:2.48
+  support:1.98
+  common:1.67
+  earned:1.67
+  assuring:1.67
+  remains:1.67
+  sense:1.67
+  respond:1.67
+  attempt:1.67
+  contacted:1.67
+
+Topic 3:
+  balance:5.31
+  wallet:3.52
+  message:3.52
+  temporary deposit:3.52
+  address:3.52
+  deposits:3.52
+  unique:3.52
+  generated:3.52
+  issue:3.52
+  deposit:2.67
+
+Topic 4:
+  quote aethon march:1.42
+  safe:1.40
+  hey:1.14
+  money:0.98
+  fall people fall:0.88
+  isnt:0.88
+  low hanging fruit:0.82
+  running rampant fuckin murd:0.70
+  gamesome catch posted love:0.69
+  scammers:0.69
+
+K: 5, Log-Likelihood: -1860.537, Alpha: 11.000, Beta: 1.100

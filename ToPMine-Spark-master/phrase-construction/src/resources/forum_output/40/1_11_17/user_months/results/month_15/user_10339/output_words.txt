@@ -1,0 +1,61 @@
+Topic 0:
+  message:0.58
+  sr:0.42
+  month:0.42
+  error:0.41
+  quote:0.40
+  karma:0.40
+  negative:0.40
+  trolltergeist:0.40
+  reporting:0.40
+  june:0.39
+
+Topic 1:
+  message:0.58
+  month:0.41
+  error:0.40
+  negative:0.40
+  sr:0.40
+  trolltergeist:0.40
+  karma:0.40
+  reporting:0.40
+  quote:0.40
+  place:0.38
+
+Topic 2:
+  dinged:0.55
+  june:0.54
+  karma:0.49
+  reporting:0.48
+  quote:0.48
+  trolltergeist:0.48
+  negative:0.48
+  message:0.46
+  sr:0.35
+  month:0.35
+
+Topic 3:
+  message:0.54
+  june:0.45
+  dinged:0.44
+  reporting:0.44
+  negative:0.44
+  quote:0.43
+  trolltergeist:0.43
+  karma:0.43
+  error:0.38
+  sr:0.38
+
+Topic 4:
+  message:0.84
+  place:0.66
+  error:0.46
+  sr:0.45
+  month:0.45
+  quote:0.29
+  trolltergeist:0.29
+  negative:0.28
+  karma:0.28
+  reporting:0.28
+
+K: 5, Log-Likelihood: -386.124, Alpha: 11.000, Beta: 1.100

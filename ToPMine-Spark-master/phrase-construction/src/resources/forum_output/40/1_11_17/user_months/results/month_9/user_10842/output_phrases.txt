@@ -1,0 +1,31 @@
+Topic 0:
+  occasional:0.00
+  ltc:0.00
+  takes:0.00
+  fanatic:0.00
+
+Topic 1:
+  occasional:0.00
+  ltc:0.00
+  takes:0.00
+  fanatic:0.00
+
+Topic 2:
+  occasional:0.00
+  ltc:0.00
+  takes:0.00
+  fanatic:0.00
+
+Topic 3:
+  occasional:0.00
+  ltc:0.00
+  takes:0.00
+  fanatic:0.00
+
+Topic 4:
+  occasional:0.00
+  ltc:0.00
+  takes:0.00
+  fanatic:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

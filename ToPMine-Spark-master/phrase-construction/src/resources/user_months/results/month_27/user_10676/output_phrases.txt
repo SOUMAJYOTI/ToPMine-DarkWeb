@@ -1,0 +1,61 @@
+Topic 0:
+  truecrypt:3.31
+  warning:2.47
+  soft:1.78
+  matter:1.78
+  data:1.78
+  container:1.78
+  datastick:1.78
+  speed:1.78
+  fat:1.78
+  fits:1.78
+
+Topic 1:
+  thereheads:2.86
+  fair:2.86
+  serpent:2.86
+  amazon:2.86
+  application:2.86
+  biometric:2.86
+  option:2.86
+  password:2.86
+  finger:2.86
+  thumb:2.86
+
+Topic 2:
+  source:5.52
+  key bits:5.52
+  symantec:5.52
+  version:5.52
+  pgp:5.52
+  version bcpg:5.52
+  versions pgp:4.69
+  based:3.65
+  mitnick:3.65
+  code:3.65
+
+Topic 3:
+  comment:5.58
+  pip win:3.71
+  tails:3.71
+  post:3.71
+  dont:3.71
+  people:3.71
+  thread:3.71
+  read:3.31
+  worn:1.84
+  idiots:1.84
+
+Topic 4:
+  open source:11.55
+  lesson:4.45
+  october:2.59
+  pretty stopped supporting truecrypt:2.39
+  reason forgot software supported:2.38
+  software:2.14
+  file:2.14
+  topic:2.14
+  noob:2.14
+  edit:2.14
+
+K: 5, Log-Likelihood: -3749.405, Alpha: 11.000, Beta: 1.100

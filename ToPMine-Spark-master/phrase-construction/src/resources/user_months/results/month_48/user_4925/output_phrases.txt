@@ -1,0 +1,61 @@
+Topic 0:
+  mailbox:3.70
+  address:3.70
+  weird:1.76
+  family:1.76
+  people small:1.76
+  complicated:1.76
+  letters:1.76
+  switching:1.76
+  fine:1.76
+  holidays:1.76
+
+Topic 1:
+  box:2.09
+  mail:1.29
+  boxes:1.20
+  bob:1.17
+  people:0.94
+  good:0.87
+  don:0.78
+  fake:0.58
+  shit:0.58
+  service:0.58
+
+Topic 2:
+  box:0.79
+  people:0.76
+  good:0.75
+  boxes:0.62
+  mail:0.60
+  bob:0.58
+  po box:0.55
+  dont ship:0.52
+  paranoid:0.47
+  lots:0.47
+
+Topic 3:
+  box:2.18
+  bob:1.55
+  boxes:1.44
+  mail:1.37
+  don:1.06
+  good:0.99
+  people:0.95
+  mail box:0.67
+  level:0.67
+  love:0.66
+
+Topic 4:
+  box:0.78
+  good:0.77
+  people:0.73
+  boxes:0.62
+  mail:0.62
+  bob:0.58
+  po box:0.52
+  dont ship:0.51
+  don:0.47
+  order:0.45
+
+K: 5, Log-Likelihood: -1735.946, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  users:1.72
+  safe:0.92
+  deposits:0.84
+  site:0.79
+  user:0.72
+  allowing:0.71
+  figuring:0.71
+  capabilities:0.71
+  reasons:0.71
+  purposely:0.71
+
+Topic 1:
+  recommend:1.47
+  agora:1.41
+  full:0.80
+  speed:0.78
+  site:0.73
+  deposits:0.68
+  days:0.62
+  agra:0.62
+  support:0.62
+  quote:0.62
+
+Topic 2:
+  deposits:0.85
+  site:0.84
+  users:0.78
+  safe:0.65
+  recommend:0.62
+  agora:0.62
+  full:0.60
+  speed:0.59
+  register:0.46
+  thinks:0.41
+
+Topic 3:
+  deposits:0.88
+  site:0.86
+  users:0.82
+  safe:0.73
+  recommend:0.55
+  speed:0.54
+  full:0.53
+  agora:0.53
+  register:0.46
+  server:0.46
+
+Topic 4:
+  agora:1.14
+  recommend:1.05
+  site:0.79
+  deposits:0.75
+  speed:0.75
+  full:0.72
+  showing:0.52
+  shit:0.52
+  captain:0.52
+  till:0.52
+
+K: 5, Log-Likelihood: -442.919, Alpha: 11.000, Beta: 1.100

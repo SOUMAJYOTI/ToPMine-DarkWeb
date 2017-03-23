@@ -1,0 +1,41 @@
+Topic 0:
+  listings:0.08
+  unable:0.08
+  oxygen:0.08
+  long:0.08
+  blackbank:0.08
+  agora:0.08
+
+Topic 1:
+  unable:0.08
+  long:0.08
+  oxygen:0.08
+  blackbank:0.08
+  listings:0.08
+  agora:0.08
+
+Topic 2:
+  blackbank:0.08
+  agora:0.08
+  listings:0.08
+  oxygen:0.08
+  long:0.08
+  unable:0.08
+
+Topic 3:
+  agora:0.08
+  blackbank:0.08
+  long:0.08
+  oxygen:0.08
+  listings:0.08
+  unable:0.08
+
+Topic 4:
+  agora:0.08
+  listings:0.08
+  blackbank:0.08
+  oxygen:0.08
+  unable:0.08
+  long:0.08
+
+K: 5, Log-Likelihood: -4.359, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  key:10.06
+  blackbank:7.53
+  time:5.53
+  innocent:5.01
+  stole:5.01
+  customers risk:5.01
+  private:5.01
+  public:5.01
+  dispute:5.01
+  le:5.01
+
+Topic 1:
+  expert grower:6.22
+  vendor le:6.21
+  face:6.19
+  doxx publically forum address:4.75
+  pretty scarey buying:4.67
+  morphietta february pmi:4.58
+  forums:4.56
+  vendor individually communication cheers:4.51
+  vendors time contact featured:4.42
+  thread wanted update:4.19
+
+Topic 2:
+  buyers:5.00
+  dawn:4.03
+  mdparity february:3.80
+  sales pitch:3.70
+  tt:2.86
+  defense turtletime:2.48
+  mufti:2.48
+  safety:2.48
+  endangers:2.48
+  compromised:2.48
+
+Topic 3:
+  concerned:5.40
+  procedures:5.02
+  flesh:4.10
+  accusation:4.10
+  substance:4.10
+  addresses:2.49
+  reputation:2.49
+  peoples:2.49
+  simple:2.49
+  scheme:2.49
+
+Topic 4:
+  free:6.10
+  good reason doxx:5.25
+  guy:5.02
+  cyrus:4.20
+  pmhe:4.20
+  satisfied:4.20
+  records:4.20
+  reviews sr:4.20
+  positive:4.20
+  review:4.20
+
+K: 5, Log-Likelihood: -6745.284, Alpha: 11.000, Beta: 1.100

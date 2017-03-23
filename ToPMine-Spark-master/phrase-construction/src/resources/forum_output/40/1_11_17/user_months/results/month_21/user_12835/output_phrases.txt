@@ -1,0 +1,61 @@
+Topic 0:
+  defendants:0.27
+  bmr:0.27
+  knowledge:0.26
+  care:0.26
+  takecare:0.23
+  dumbasses:0.23
+  welcomed:0.23
+  stupidvending:0.23
+  jerkoffs:0.23
+  market:0.23
+
+Topic 1:
+  defendants:0.29
+  knowledge:0.29
+  bmr:0.29
+  care:0.29
+  sitting:0.21
+  thereyou:0.21
+  vend:0.21
+  mouth:0.21
+  lots:0.21
+  lubes:0.21
+
+Topic 2:
+  care:0.62
+  bmr:0.62
+  defendants:0.62
+  knowledge:0.62
+  lack:0.26
+  crime:0.26
+  breakdown:0.26
+  details:0.26
+  long:0.26
+  arrests:0.26
+
+Topic 3:
+  knowledge:0.41
+  care:0.40
+  defendants:0.40
+  bmr:0.40
+  verified:0.20
+  gentleman:0.20
+  current:0.20
+  type:0.20
+  situation:0.20
+  directly:0.20
+
+Topic 4:
+  knowledge:0.25
+  defendants:0.25
+  bmr:0.25
+  care:0.25
+  send:0.23
+  coinsif:0.23
+  send address:0.23
+  busted:0.23
+  whorehouse:0.23
+  pussy:0.23
+
+K: 5, Log-Likelihood: -488.657, Alpha: 11.000, Beta: 1.100

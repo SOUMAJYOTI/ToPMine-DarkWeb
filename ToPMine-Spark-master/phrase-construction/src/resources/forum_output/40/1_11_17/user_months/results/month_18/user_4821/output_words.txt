@@ -1,0 +1,61 @@
+Topic 0:
+  normal:1.37
+  electrum:1.20
+  clearnet:0.88
+  connecting:0.88
+  tor:0.85
+  tails:0.85
+  pretty:0.84
+  connect:0.84
+  accidentally:0.83
+  servers:0.82
+
+Topic 1:
+  normal:1.22
+  electrum:1.21
+  tor:0.83
+  connect:0.83
+  servers:0.82
+  tails:0.82
+  accidentally:0.81
+  clearnet:0.80
+  pretty:0.79
+  connecting:0.78
+
+Topic 2:
+  normal:1.21
+  electrum:1.21
+  accidentally:0.84
+  connecting:0.81
+  pretty:0.81
+  servers:0.80
+  clearnet:0.80
+  connect:0.80
+  tails:0.79
+  tor:0.77
+
+Topic 3:
+  normal:1.25
+  electrum:1.16
+  tor:0.86
+  connect:0.85
+  accidentally:0.85
+  connecting:0.84
+  pretty:0.83
+  servers:0.83
+  tails:0.82
+  clearnet:0.81
+
+Topic 4:
+  electrum:1.22
+  normal:0.94
+  tails:0.73
+  pretty:0.72
+  servers:0.72
+  clearnet:0.71
+  connecting:0.70
+  connect:0.69
+  tor:0.68
+  accidentally:0.68
+
+K: 5, Log-Likelihood: -252.509, Alpha: 11.000, Beta: 1.100

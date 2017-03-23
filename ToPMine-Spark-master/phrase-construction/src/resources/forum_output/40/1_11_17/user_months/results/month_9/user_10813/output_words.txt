@@ -1,0 +1,61 @@
+Topic 0:
+  btc:3.03
+  withdraw:2.20
+  plan:2.05
+  site:1.90
+  card:1.85
+  real:1.84
+  order:1.50
+  buying:1.44
+  half:1.43
+  anonymous:1.41
+
+Topic 1:
+  info:3.99
+  free:3.52
+  vcc:3.49
+  verify:3.40
+  cards:3.36
+  money:3.29
+  anonymous:3.00
+  account:2.37
+  readydebit:1.61
+  borrowing:1.61
+
+Topic 2:
+  bitcoin:9.61
+  bitcoins:3.93
+  sell:3.93
+  account:3.87
+  cash:2.93
+  hedging:2.93
+  clean:2.50
+  bank:2.37
+  site:2.29
+  real:2.20
+
+Topic 3:
+  btc:3.35
+  money:3.04
+  info:1.81
+  account:1.59
+  card:1.50
+  anonymous:1.40
+  withdraw:1.38
+  cards:1.17
+  quote:1.06
+  anon:1.03
+
+Topic 4:
+  btc:3.01
+  mail:2.50
+  half:2.38
+  buying:2.37
+  plan:2.34
+  real:2.21
+  site:2.20
+  withdraw:2.15
+  understand:1.67
+  card:1.64
+
+K: 5, Log-Likelihood: -2008.899, Alpha: 11.000, Beta: 1.100

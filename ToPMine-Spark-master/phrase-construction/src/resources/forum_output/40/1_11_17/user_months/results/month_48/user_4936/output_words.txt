@@ -1,0 +1,61 @@
+Topic 0:
+  post:5.53
+  people:3.91
+  markets:3.43
+  agora:3.38
+  dnm:3.26
+  subreddit:3.14
+  trolls:3.05
+  don:2.82
+  good:2.79
+  biggest:2.73
+
+Topic 1:
+  reddit:10.62
+  people:7.61
+  read:5.41
+  media:3.81
+  decent:3.81
+  couple:3.79
+  incorporate:3.79
+  sites:3.78
+  stuff:3.74
+  find:3.60
+
+Topic 2:
+  time:60.69
+  onion:54.96
+  market:9.68
+  uptime:6.96
+  link:6.86
+  invite:5.96
+  join:5.96
+  register:4.76
+  um:3.96
+  tochka:3.96
+
+Topic 3:
+  reddit:13.81
+  glad:11.82
+  le:11.82
+  directly:9.84
+  place:9.06
+  ass:7.75
+  community:7.46
+  fucking:6.68
+  paranoia:5.83
+  vendor:5.83
+
+Topic 4:
+  drugs:6.35
+  reading:5.71
+  enjoy:5.53
+  communities:5.17
+  posts:5.03
+  point:4.65
+  biggest:3.85
+  bad:3.77
+  big:3.47
+  acting:1.92
+
+K: 5, Log-Likelihood: -6589.478, Alpha: 11.000, Beta: 1.100

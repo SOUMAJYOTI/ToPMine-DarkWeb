@@ -1,0 +1,61 @@
+Topic 0:
+  post:4.47
+  march:3.56
+  thread:3.03
+  site:2.95
+  quote:2.69
+  read:2.42
+  alphabay:2.31
+  start:2.04
+  jack:1.61
+  linked:1.57
+
+Topic 1:
+  march:10.64
+  quote:5.40
+  start:4.89
+  amquote:4.55
+  read:3.93
+  post:2.82
+  linked:2.75
+  slow:2.48
+  jack:2.33
+  dark:2.29
+
+Topic 2:
+  dumbass:7.88
+  link:6.95
+  lol:5.37
+  hope:4.84
+  march:4.63
+  honkycracker:4.23
+  advice:3.79
+  ass:3.67
+  enter:3.67
+  calling:3.67
+
+Topic 3:
+  order:7.30
+  hotstuff:5.33
+  account:4.20
+  alphabay:3.95
+  log:3.59
+  confirm:3.59
+  received:3.58
+  deposit:3.58
+  message:3.52
+  hit:3.50
+
+Topic 4:
+  dont:5.99
+  place:4.33
+  dodongo:4.05
+  smartass:3.89
+  dumbass:3.45
+  father:2.69
+  full:2.41
+  learn:2.09
+  lesson:1.88
+  ted:1.88
+
+K: 5, Log-Likelihood: -2974.994, Alpha: 11.000, Beta: 1.100

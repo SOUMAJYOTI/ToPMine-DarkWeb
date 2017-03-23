@@ -1,0 +1,36 @@
+Topic 0:
+  approved:0.00
+  application:0.00
+  long:0.00
+  generally:0.00
+  customer:0.00
+
+Topic 1:
+  approved:0.00
+  application:0.00
+  long:0.00
+  generally:0.00
+  customer:0.00
+
+Topic 2:
+  approved:0.00
+  application:0.00
+  long:0.00
+  generally:0.00
+  customer:0.00
+
+Topic 3:
+  approved:0.00
+  application:0.00
+  long:0.00
+  generally:0.00
+  customer:0.00
+
+Topic 4:
+  approved:0.00
+  application:0.00
+  long:0.00
+  generally:0.00
+  customer:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

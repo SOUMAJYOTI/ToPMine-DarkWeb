@@ -1,0 +1,61 @@
+Topic 0:
+  link:1.14
+  pm:1.03
+  referred:0.99
+  darknet:0.80
+  appreciated:0.79
+  send:0.79
+  league:0.78
+  heroes:0.76
+  dhl:0.41
+  vendors:0.41
+
+Topic 1:
+  link:1.24
+  pm:0.97
+  referred:0.96
+  darknet:0.83
+  league:0.81
+  send:0.80
+  appreciated:0.79
+  heroes:0.78
+  good:0.41
+  dhl:0.41
+
+Topic 2:
+  link:1.28
+  referred:1.03
+  pm:1.00
+  heroes:0.83
+  league:0.82
+  send:0.82
+  darknet:0.81
+  appreciated:0.79
+  october:0.40
+  ditto:0.40
+
+Topic 3:
+  link:1.16
+  referred:1.03
+  pm:0.99
+  send:0.82
+  heroes:0.82
+  appreciated:0.80
+  darknet:0.78
+  league:0.77
+  poppasmurf:0.40
+  good:0.40
+
+Topic 4:
+  link:1.18
+  pm:1.01
+  referred:0.99
+  appreciated:0.82
+  heroes:0.81
+  league:0.81
+  darknet:0.79
+  send:0.78
+  reviews:0.40
+  quote:0.40
+
+K: 5, Log-Likelihood: -225.929, Alpha: 11.000, Beta: 1.100

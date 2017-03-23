@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:0.08
+  cool:0.08
+  concerns:0.08
+  pm:0.08
+  great:0.08
+  ootp:0.08
+  order:0.08
+  ootd:0.08
+  safe:0.08
+  blackbank:0.08
+
+Topic 1:
+  order:0.08
+  ootd:0.08
+  vendor:0.08
+  ootp:0.08
+  safe:0.08
+  concerns:0.08
+  blackbank:0.08
+  cool:0.08
+  pm:0.08
+  great:0.08
+
+Topic 2:
+  great:0.08
+  cool:0.08
+  blackbank:0.08
+  pm:0.08
+  safe:0.08
+  concerns:0.08
+  ootp:0.08
+  ootd:0.08
+  vendor:0.08
+  order:0.08
+
+Topic 3:
+  blackbank:0.08
+  order:0.08
+  ootd:0.08
+  pm:0.08
+  safe:0.08
+  vendor:0.08
+  cool:0.08
+  ootp:0.08
+  concerns:0.08
+  great:0.08
+
+Topic 4:
+  safe:0.08
+  blackbank:0.08
+  ootd:0.08
+  concerns:0.08
+  order:0.08
+  great:0.08
+  ootp:0.08
+  pm:0.08
+  cool:0.08
+  vendor:0.08
+
+K: 5, Log-Likelihood: -9.336, Alpha: 11.000, Beta: 1.100

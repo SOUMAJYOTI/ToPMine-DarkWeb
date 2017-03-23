@@ -1,0 +1,61 @@
+Topic 0:
+  hospitalizations:2.46
+  studied:2.46
+  bad:2.45
+  reactions:2.45
+  trip:2.45
+  numerous:2.45
+  physical:2.45
+  deaths:2.45
+  drug:2.45
+  horrible:2.45
+
+Topic 1:
+  legitimacy:2.20
+  sold worried:2.19
+  wondering:2.19
+  telling:2.19
+  tests:2.19
+  worried:2.18
+  speak:2.18
+  truth:2.18
+  tested:2.17
+  acidman:1.45
+
+Topic 2:
+  dont:5.24
+  people:3.03
+  neurotic:2.49
+  shit:2.49
+  reagent:2.49
+  business:2.49
+  worth:2.49
+  conclude:2.49
+  test nbomes:2.49
+  tripping:2.49
+
+Topic 3:
+  safety:1.66
+  cases:1.66
+  making:1.66
+  fuck:1.66
+  bothered:1.66
+  turned:1.66
+  vendors:1.66
+  mistakes:1.66
+  prone:1.66
+  chemicals:1.66
+
+Topic 4:
+  big:2.12
+  guess:1.64
+  mcg:1.64
+  paper:1.64
+  hcl:1.64
+  gon:1.64
+  thousands:1.64
+  blotter:1.64
+  bigger:1.64
+  time:1.64
+
+K: 5, Log-Likelihood: -1018.505, Alpha: 11.000, Beta: 1.100

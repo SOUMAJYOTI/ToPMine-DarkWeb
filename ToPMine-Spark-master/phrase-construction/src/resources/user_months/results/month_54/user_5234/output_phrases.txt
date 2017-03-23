@@ -1,0 +1,61 @@
+Topic 0:
+  ass:0.00
+  trust:0.00
+  dolmio:0.00
+  os:0.00
+  learn:0.00
+  metal:0.00
+  save:0.00
+  pmtrust:0.00
+  windows:0.00
+  easy:0.00
+
+Topic 1:
+  ass:0.00
+  trust:0.00
+  dolmio:0.00
+  os:0.00
+  learn:0.00
+  metal:0.00
+  save:0.00
+  pmtrust:0.00
+  windows:0.00
+  easy:0.00
+
+Topic 2:
+  ass:0.00
+  trust:0.00
+  dolmio:0.00
+  os:0.00
+  learn:0.00
+  metal:0.00
+  save:0.00
+  pmtrust:0.00
+  windows:0.00
+  easy:0.00
+
+Topic 3:
+  ass:0.00
+  trust:0.00
+  dolmio:0.00
+  os:0.00
+  learn:0.00
+  metal:0.00
+  save:0.00
+  pmtrust:0.00
+  windows:0.00
+  easy:0.00
+
+Topic 4:
+  ass:0.00
+  trust:0.00
+  dolmio:0.00
+  os:0.00
+  learn:0.00
+  metal:0.00
+  save:0.00
+  pmtrust:0.00
+  windows:0.00
+  easy:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

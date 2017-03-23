@@ -1,0 +1,61 @@
+Topic 0:
+  decent people:6.24
+  care:4.68
+  emails:3.94
+  quote:3.61
+  unpaid:3.03
+  journey:3.03
+  ladyhawke:3.03
+  unexpected:3.03
+  environment:3.03
+  decided time:3.03
+
+Topic 1:
+  btc:3.61
+  usual:3.57
+  site:3.02
+  alice alice:2.42
+  administratordate registered october local:2.39
+  month stolen happened alice:1.90
+  time july active june:1.90
+  mods:1.82
+  kwikeemart:1.80
+  claims:1.80
+
+Topic 2:
+  time:2.05
+  support forums:1.87
+  forum:1.87
+  usual pandora:1.87
+  bl:1.87
+  taluhwidx:1.87
+  onionladyhawke:1.87
+  site pandora:1.87
+  main:1.87
+  openmarket:1.87
+
+Topic 3:
+  scam:3.02
+  vacation:1.93
+  office:1.93
+  marketplace:1.93
+  mods forum:1.93
+  worst:1.93
+  couple:1.93
+  noticed:1.93
+  attack:1.93
+  weeks:1.93
+
+Topic 4:
+  alice:5.10
+  july amquote:3.50
+  usual:2.76
+  btc:2.73
+  site:2.68
+  stick:2.16
+  time july:1.90
+  feel:1.90
+  cave:1.90
+  ditching:1.90
+
+K: 5, Log-Likelihood: -2030.134, Alpha: 11.000, Beta: 1.100

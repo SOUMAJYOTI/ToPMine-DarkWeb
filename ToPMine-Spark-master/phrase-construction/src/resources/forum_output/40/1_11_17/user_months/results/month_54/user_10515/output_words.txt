@@ -1,0 +1,61 @@
+Topic 0:
+  posting:0.40
+  quote:0.40
+  resource:0.20
+  users:0.20
+  directing:0.20
+  recommended:0.20
+  special:0.20
+  looked:0.20
+  march:0.20
+  yourhumbleservant:0.20
+
+Topic 1:
+  posting:0.40
+  quote:0.40
+  fucking:0.20
+  resource:0.20
+  haroldmami:0.20
+  special:0.20
+  website:0.20
+  july:0.20
+  spammer:0.20
+  good:0.20
+
+Topic 2:
+  posting:0.41
+  quote:0.40
+  reading:0.20
+  recommended:0.20
+  users:0.20
+  alfred:0.20
+  pmi:0.20
+  looked:0.20
+  directing:0.20
+  yourhumbleservant:0.20
+
+Topic 3:
+  quote:0.40
+  posting:0.39
+  fucking:0.20
+  uri:0.20
+  spammer:0.20
+  good:0.20
+  heyday:0.20
+  vegas:0.20
+  loans:0.20
+  website:0.20
+
+Topic 4:
+  quote:0.40
+  posting:0.39
+  loans:0.20
+  hour:0.20
+  vegas:0.20
+  july:0.20
+  las:0.20
+  website:0.20
+  haroldmami:0.20
+  heyday:0.20
+
+K: 5, Log-Likelihood: -99.318, Alpha: 11.000, Beta: 1.100

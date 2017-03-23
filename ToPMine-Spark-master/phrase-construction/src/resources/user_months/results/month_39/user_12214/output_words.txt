@@ -1,0 +1,61 @@
+Topic 0:
+  loppui:0.20
+  viimeisen:0.20
+  muuten:0.20
+  kohtasi:0.20
+  kun:0.20
+  kyll:0.20
+  kummasti:0.20
+  ongelman:0.20
+  silkkitie:0.20
+  mmi:0.20
+
+Topic 1:
+  kun:0.20
+  silkkitie:0.20
+  muuten:0.20
+  kauppaa:0.20
+  ongelman:0.20
+  viimeisen:0.20
+  loppui:0.20
+  kohtasi:0.20
+  kummasti:0.20
+  kyll:0.20
+
+Topic 2:
+  vaihdoitte:0.20
+  kohtasi:0.20
+  muuten:0.20
+  viimeisen:0.20
+  teid:0.20
+  kummasti:0.20
+  ongelman:0.20
+  kauppaa:0.20
+  silkkitie:0.20
+  loppui:0.20
+
+Topic 3:
+  kyll:0.20
+  mmi:0.20
+  teid:0.20
+  kummasti:0.20
+  sp:0.20
+  vaihdoitte:0.20
+  kauppaa:0.20
+  kun:0.20
+  loppui:0.20
+  kohtasi:0.20
+
+Topic 4:
+  sp:0.20
+  mmi:0.20
+  teid:0.20
+  ongelman:0.20
+  silkkitie:0.20
+  kauppaa:0.20
+  vaihdoitte:0.20
+  kohtasi:0.20
+  kyll:0.20
+  kummasti:0.20
+
+K: 5, Log-Likelihood: -36.947, Alpha: 11.000, Beta: 1.100

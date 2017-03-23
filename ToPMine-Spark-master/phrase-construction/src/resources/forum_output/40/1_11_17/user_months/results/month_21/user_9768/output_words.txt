@@ -1,0 +1,61 @@
+Topic 0:
+  settings:1.38
+  tor:1.16
+  pidgin:1.08
+  good:0.99
+  response:0.85
+  os:0.80
+  socks:0.79
+  pray:0.75
+  connect:0.75
+  browser:0.75
+
+Topic 1:
+  settings:1.43
+  good:1.18
+  tor:1.06
+  pidgin:0.98
+  response:0.95
+  socks:0.77
+  pray:0.72
+  connect:0.71
+  port:0.71
+  browser:0.71
+
+Topic 2:
+  settings:1.54
+  tor:1.40
+  pidgin:1.34
+  browser:0.93
+  connect:0.85
+  os:0.84
+  port:0.83
+  socks:0.83
+  pray:0.82
+  version:0.79
+
+Topic 3:
+  settings:1.96
+  pidgin:1.33
+  tor:1.17
+  os:0.91
+  version:0.91
+  port:0.91
+  pray:0.86
+  socks:0.85
+  connect:0.85
+  browser:0.84
+
+Topic 4:
+  settings:1.69
+  pidgin:1.27
+  tor:1.21
+  version:0.88
+  pray:0.84
+  connect:0.83
+  port:0.81
+  response:0.80
+  browser:0.78
+  socks:0.75
+
+K: 5, Log-Likelihood: -394.179, Alpha: 11.000, Beta: 1.100

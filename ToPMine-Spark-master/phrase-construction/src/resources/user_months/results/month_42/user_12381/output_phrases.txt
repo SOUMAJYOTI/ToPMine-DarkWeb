@@ -1,0 +1,61 @@
+Topic 0:
+  vai:0.16
+  onkohan:0.08
+  ytt:0.08
+  mietin:0.08
+  vain:0.08
+  tilata:0.08
+  lle:0.08
+  viimeaikoina:0.08
+  inhimillist:0.08
+  palautteita:0.08
+
+Topic 1:
+  vai:0.16
+  uskaltaako:0.08
+  ongelmaa:0.08
+  inhimillist:0.08
+  lle:0.08
+  kyseiselle:0.08
+  palautteita:0.08
+  tilannetta:0.08
+  viimeaikoina:0.08
+  kyseess:0.08
+
+Topic 2:
+  vai:0.16
+  maksanut:0.08
+  paras:0.08
+  ihan:0.08
+  oli:0.08
+  paketointi:0.08
+  varmaan:0.08
+  setus:0.08
+  jotain:0.08
+  seuraamaan:0.08
+
+Topic 3:
+  vai:0.16
+  maksanut:0.08
+  paras:0.08
+  oli:0.08
+  varmaan:0.08
+  ihan:0.08
+  paketointi:0.08
+  tilata:0.08
+  kyseess:0.08
+  sullen:0.08
+
+Topic 4:
+  vai:0.16
+  vain:0.08
+  ytt:0.08
+  loppuk:0.08
+  jotain:0.08
+  negatiivisia:0.08
+  uskaltaako:0.08
+  sullen:0.08
+  viimeaikoina:0.08
+  kyseiselle:0.08
+
+K: 5, Log-Likelihood: -37.531, Alpha: 11.000, Beta: 1.100

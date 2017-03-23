@@ -1,0 +1,61 @@
+Topic 0:
+  setup:1.11
+  people moving exit:1.04
+  wondering market:1.03
+  account:0.95
+  decentralized hansa staying true:0.82
+  markets dream:0.81
+  market:0.70
+  shilling:0.70
+  red:0.70
+  god:0.70
+
+Topic 1:
+  private key:9.55
+  buyer:5.98
+  multisig transactions:4.72
+  item:3.12
+  private keys:3.12
+  public:3.12
+  alphabet:3.12
+  multisig:3.12
+  market:2.66
+  marketplace:2.34
+
+Topic 2:
+  setup:1.94
+  account:1.56
+  largest:1.28
+  small:1.28
+  subforums:1.28
+  markets hansa:1.28
+  discuss:1.28
+  major:1.27
+  dont:1.27
+  mixed:1.27
+
+Topic 3:
+  escrow:6.36
+  paid:4.75
+  multi:4.75
+  vendor:3.58
+  buyer:3.32
+  keys needed release:3.14
+  conjunction:3.14
+  held escrow:3.14
+  systems:3.14
+  release funds:3.14
+
+Topic 4:
+  forum:3.19
+  pfs:3.14
+  cannabis:3.14
+  discussion:3.14
+  site:1.73
+  markets:1.73
+  dream market:1.69
+  panacea:1.54
+  weapons:1.54
+  permanently:1.54
+
+K: 5, Log-Likelihood: -2387.111, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  mining:1.62
+  money:0.67
+  power:0.64
+  btc:0.56
+  trading:0.52
+  lot:0.45
+  set:0.43
+  market:0.42
+  appreciated:0.40
+  asics:0.40
+
+Topic 1:
+  mining:2.22
+  trading:0.85
+  btc:0.64
+  power:0.53
+  cpu:0.48
+  profitable:0.46
+  free:0.46
+  exchange:0.44
+  genesis:0.44
+  appreciated:0.42
+
+Topic 2:
+  mining:1.80
+  btc:0.66
+  power:0.65
+  cpu:0.64
+  trading:0.54
+  free:0.53
+  profitable:0.53
+  asics:0.44
+  exchange:0.42
+  appreciated:0.41
+
+Topic 3:
+  mining:2.08
+  trading:0.72
+  btc:0.69
+  power:0.54
+  exchange:0.46
+  genesis:0.45
+  appreciated:0.44
+  asics:0.43
+  money:0.42
+  profitable:0.41
+
+Topic 4:
+  mining:1.28
+  money:1.25
+  market:0.96
+  set:0.95
+  power:0.64
+  lot:0.59
+  btc:0.46
+  curve:0.39
+  pays:0.39
+  fortune:0.39
+
+K: 5, Log-Likelihood: -661.846, Alpha: 11.000, Beta: 1.100

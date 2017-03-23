@@ -1,0 +1,61 @@
+Topic 0:
+  showing:0.51
+  keys:0.45
+  pgp:0.41
+  private key:0.41
+  block:0.41
+  key:0.41
+  save:0.40
+  ascii:0.39
+  saved:0.33
+  renamed:0.28
+
+Topic 1:
+  pgp:0.48
+  block:0.48
+  key:0.48
+  ascii:0.42
+  save:0.42
+  private key:0.41
+  keys:0.39
+  showing:0.39
+  saved:0.31
+  formatting:0.29
+
+Topic 2:
+  key:0.54
+  pgp:0.54
+  block:0.54
+  ascii:0.42
+  private key:0.42
+  showing:0.40
+  save:0.39
+  keys:0.38
+  saved:0.30
+  formatting:0.29
+
+Topic 3:
+  showing:0.48
+  keys:0.44
+  save:0.42
+  private key:0.41
+  block:0.41
+  pgp:0.40
+  key:0.40
+  ascii:0.40
+  saved:0.33
+  renamed:0.28
+
+Topic 4:
+  save:0.56
+  ascii:0.45
+  showing:0.42
+  keys:0.42
+  private key:0.38
+  key:0.37
+  pgp:0.36
+  block:0.36
+  saved:0.34
+  renamed:0.30
+
+K: 5, Log-Likelihood: -301.135, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  dna:12.16
+  secret service:8.79
+  computers:7.41
+  investigators:6.57
+  encryption:5.35
+  suspects:5.01
+  word lists:4.02
+  secret services:3.93
+  computing power:3.71
+  hard drive:3.66
+
+Topic 1:
+  secret service:1.40
+  advice:1.31
+  risk:0.93
+  area:0.92
+  easy:0.92
+  article:0.92
+  fast:0.87
+  dna:0.59
+  encryption:0.58
+  suspects:0.51
+
+Topic 2:
+  againhave:1.14
+  considered job:1.14
+  applications:1.14
+  extra:1.14
+  thesilent:1.14
+  pmare:1.13
+  pmquote:0.90
+  handy:0.90
+  trust:0.90
+  ziggy:0.90
+
+Topic 3:
+  couple times:2.86
+  dislike:2.71
+  stuff:2.71
+  cards:2.71
+  june:2.07
+  dont:2.00
+  deletes:1.87
+  liar:1.87
+  hype:1.87
+  posted:1.87
+
+Topic 4:
+  secret service:3.11
+  dna:2.25
+  encryption:2.16
+  computers:1.69
+  crack:1.39
+  computing power:1.27
+  hard drive:1.25
+  suspects:1.20
+  encryption keys:1.12
+  distributed networking:1.09
+
+K: 5, Log-Likelihood: -8343.759, Alpha: 11.000, Beta: 1.100

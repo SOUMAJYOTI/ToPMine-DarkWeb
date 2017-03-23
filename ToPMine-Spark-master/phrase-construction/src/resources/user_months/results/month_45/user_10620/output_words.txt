@@ -1,0 +1,61 @@
+Topic 0:
+  gpg:0.92
+  linux:0.88
+  great:0.86
+  generate:0.73
+  fairly:0.71
+  easy:0.68
+  kgpg:0.68
+  usb:0.67
+  bits:0.59
+  pgp:0.55
+
+Topic 1:
+  generate:1.73
+  public:0.90
+  pgp:0.77
+  gpg:0.54
+  linux:0.53
+  key:0.50
+  program:0.50
+  usb:0.47
+  fairly:0.47
+  kgpg:0.47
+
+Topic 2:
+  generate:1.32
+  pgp:0.72
+  linux:0.67
+  gpg:0.63
+  usb:0.58
+  easy:0.58
+  fairly:0.57
+  kgpg:0.56
+  public:0.54
+  great:0.48
+
+Topic 3:
+  great:1.29
+  bits:1.03
+  gpg:0.93
+  linux:0.92
+  size:0.63
+  kgpg:0.63
+  max:0.62
+  usb:0.61
+  software:0.61
+  easy:0.61
+
+Topic 4:
+  linux:1.00
+  great:0.98
+  gpg:0.97
+  bits:0.77
+  kgpg:0.67
+  easy:0.67
+  usb:0.67
+  fairly:0.66
+  generate:0.65
+  software:0.50
+
+K: 5, Log-Likelihood: -479.427, Alpha: 11.000, Beta: 1.100

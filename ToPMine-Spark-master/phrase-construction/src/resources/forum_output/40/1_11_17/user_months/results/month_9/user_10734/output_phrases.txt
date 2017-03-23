@@ -1,0 +1,61 @@
+Topic 0:
+  network:15.32
+  bitcoins:10.11
+  blocks:9.34
+  longest chain:7.93
+  confirmations:6.49
+  attack:6.27
+  txs:5.62
+  hashing power:5.54
+  chain:4.51
+  miners:3.76
+
+Topic 1:
+  bitcoins counterfeited:3.02
+  fake bitcoins:2.78
+  takers:2.75
+  thought:1.93
+  replication:1.86
+  vulnerabilities:1.86
+  scope:1.86
+  duplication:1.86
+  attended:1.86
+  school:1.86
+
+Topic 2:
+  longer chain:4.99
+  fake bitin transaction:4.75
+  processing power:4.55
+  note:3.90
+  chain:3.13
+  times:3.12
+  read:3.12
+  edit:3.12
+  good:3.12
+  lila:3.12
+
+Topic 3:
+  idea:4.00
+  break:4.00
+  broken:4.00
+  pennys:4.00
+  wallet btc:4.00
+  seperated:4.00
+  btc:3.24
+  currency:3.06
+  basically:1.99
+  immitate:1.99
+
+Topic 4:
+  alice:9.06
+  coins:9.04
+  bitcoin:8.32
+  longest chain:8.09
+  bitcoins:5.93
+  proof:5.90
+  block accepted:5.90
+  accepted bitcoin network:5.90
+  send coins carol:5.90
+  alice bob:5.89
+
+K: 5, Log-Likelihood: -6289.143, Alpha: 11.000, Beta: 1.100

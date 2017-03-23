@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.45
+  pirate:0.59
+  hours:0.40
+  problem:0.40
+  quote:0.20
+  update:0.20
+  june:0.20
+  pmsorry:0.20
+  deepdotweb:0.20
+  handy:0.20
+
+Topic 1:
+  market:1.39
+  pirate:0.62
+  hours:0.40
+  problem:0.40
+  work:0.20
+  enter:0.20
+  forum:0.20
+  return:0.20
+  moredq:0.20
+  link:0.20
+
+Topic 2:
+  market:1.38
+  pirate:0.61
+  problem:0.40
+  hours:0.39
+  doesnt:0.20
+  busy:0.20
+  hope:0.20
+  problems:0.20
+  vendor:0.20
+  supply:0.20
+
+Topic 3:
+  market:1.28
+  pirate:0.61
+  problem:0.41
+  hours:0.41
+  dont:0.21
+  announcement:0.21
+  wait:0.21
+  recall:0.21
+  downtime:0.21
+  days:0.20
+
+Topic 4:
+  market:1.50
+  pirate:0.58
+  hours:0.40
+  problem:0.39
+  pmsorry:0.20
+  update:0.20
+  june:0.20
+  quote:0.20
+  status:0.20
+  handy:0.20
+
+K: 5, Log-Likelihood: -138.018, Alpha: 11.000, Beta: 1.100

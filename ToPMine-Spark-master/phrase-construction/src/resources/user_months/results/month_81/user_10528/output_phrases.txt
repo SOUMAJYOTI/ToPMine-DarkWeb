@@ -1,0 +1,61 @@
+Topic 0:
+  april:0.42
+  devices:0.42
+  quote:0.28
+  pmmaybe:0.28
+  time:0.28
+  smartphone:0.28
+  infernal:0.28
+  gps:0.28
+  kittenfm:0.28
+  sharing:0.28
+
+Topic 1:
+  devices:0.40
+  april:0.40
+  include gps knew:0.27
+  people agree eartagged lojakked:0.27
+  pmmaybe:0.27
+  kittenfm:0.27
+  smartphone:0.27
+  gps:0.27
+  fill:0.27
+  sharing:0.27
+
+Topic 2:
+  april:0.43
+  devices:0.43
+  quote:0.28
+  fill:0.28
+  long:0.28
+  infernal:0.28
+  making:0.28
+  sharing:0.28
+  time:0.28
+  gps:0.28
+
+Topic 3:
+  april:0.40
+  devices:0.40
+  people agree eartagged lojakked:0.27
+  include gps knew:0.27
+  phone:0.27
+  independent:0.27
+  infernal:0.27
+  kittenfm:0.27
+  fill:0.27
+  making:0.27
+
+Topic 4:
+  devices:0.43
+  april:0.43
+  smartphone:0.28
+  long:0.28
+  independent:0.28
+  time:0.28
+  sharing:0.28
+  phone:0.28
+  making:0.28
+  gps:0.28
+
+K: 5, Log-Likelihood: -287.070, Alpha: 11.000, Beta: 1.100

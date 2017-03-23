@@ -1,0 +1,61 @@
+Topic 0:
+  vpn server:0.74
+  solution:0.42
+  technical:0.28
+  tor:0.28
+  country:0.28
+  western:0.28
+  bittorrent:0.28
+  eyes:0.28
+  vpn:0.17
+  client:0.14
+
+Topic 1:
+  vpn server:0.65
+  solution:0.42
+  eyes:0.28
+  bittorrent:0.28
+  tor:0.28
+  western:0.28
+  country:0.28
+  technical:0.28
+  vpn:0.17
+  pre:0.14
+
+Topic 2:
+  vpn server:0.69
+  solution:0.41
+  western:0.28
+  tor:0.28
+  eyes:0.28
+  country:0.28
+  bittorrent:0.28
+  technical:0.28
+  vpn:0.17
+  top:0.14
+
+Topic 3:
+  vpn server:0.72
+  solution:0.41
+  technical:0.28
+  bittorrent:0.28
+  western:0.28
+  country:0.28
+  eyes:0.28
+  tor:0.28
+  vpn:0.17
+  snowdon:0.14
+
+Topic 4:
+  vpn server:0.67
+  solution:0.42
+  eyes:0.28
+  country:0.28
+  technical:0.28
+  tor:0.28
+  western:0.28
+  bittorrent:0.28
+  vpn:0.17
+  operating:0.14
+
+K: 5, Log-Likelihood: -238.501, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ny:1.24
+  altcoins:1.24
+  methods:1.15
+  happen:1.15
+  liquid:1.15
+  accept:1.15
+  alternative:1.15
+  high:1.15
+  list:1.14
+  pondering:1.14
+
+Topic 1:
+  good:1.19
+  pretty:1.04
+  lelantos:1.01
+  sigaint:0.89
+  reliable:0.86
+  ny:0.69
+  free:0.68
+  messages:0.65
+  method:0.57
+  applies:0.57
+
+Topic 2:
+  reliable:1.11
+  sigaint:1.11
+  lelantos:1.08
+  pretty:1.08
+  good:0.89
+  messages:0.74
+  free:0.73
+  ny:0.61
+  coming:0.51
+  mailchuck:0.49
+
+Topic 3:
+  reliable:0.94
+  sigaint:0.91
+  lelantos:0.88
+  pretty:0.87
+  good:0.86
+  free:0.73
+  messages:0.70
+  ny:0.70
+  impossible:0.48
+  onion:0.48
+
+Topic 4:
+  reliable:0.87
+  sigaint:0.87
+  lelantos:0.81
+  good:0.80
+  pretty:0.80
+  ny:0.76
+  messages:0.69
+  free:0.66
+  altcoins:0.51
+  btc:0.45
+
+K: 5, Log-Likelihood: -823.153, Alpha: 11.000, Beta: 1.100

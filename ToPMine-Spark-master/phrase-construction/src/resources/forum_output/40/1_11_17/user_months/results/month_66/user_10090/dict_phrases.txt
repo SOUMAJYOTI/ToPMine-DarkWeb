@@ -1,0 +1,52 @@
+send key delete,0,3
+send key,1,3
+pmhi,2,2
+program,3,1
+key delete programme,4,3
+delete programme,5,3
+password,6,4
+quote,7,2
+pgp key password decrypt,8,3
+forgotten,9,3
+generate,10,1
+decrypt msgs send,11,3
+forgotten pgp key,12,3
+msgs,13,3
+profile,14,1
+lose,15,1
+pgp key,16,5
+key delete programme start,17,3
+password decrypt,18,3
+send,19,3
+dont,20,1
+key delete,21,3
+msgs send key delete,22,3
+update,23,1
+decrypt msgs,24,3
+delete programme start,25,3
+forgotten pgp,26,3
+delete,27,4
+zaphod,28,2
+forgotten pgp key password,29,3
+pgp,30,5
+programme,31,3
+key,32,10
+decrypt msgs send key,33,3
+send key delete programme,34,3
+password decrypt msgs,35,3
+february,36,2
+start,37,3
+mary,38,2
+pgp key password,39,3
+key password decrypt,40,3
+programme start,41,3
+store,42,1
+key password decrypt msgs,43,3
+password decrypt msgs send,44,3
+manage,45,1
+key password,46,4
+msgs send,47,3
+encrypted,48,1
+msgs send key,49,3
+decrypt,50,3
+delete key,51,1

@@ -1,0 +1,61 @@
+Topic 0:
+  sites:6.15
+  main sites:2.40
+  trade:2.40
+  scammers:2.40
+  tba:1.36
+  future:1.15
+  absence:1.15
+  left:1.15
+  running:1.15
+  buyer:1.15
+
+Topic 1:
+  lots stuff:1.45
+  fuck:0.69
+  security:0.69
+  cares:0.68
+  people security:0.68
+  heads:0.68
+  navvy:0.68
+  hard:0.68
+  selling:0.68
+  tor:0.67
+
+Topic 2:
+  good:3.64
+  couple:2.39
+  things:2.39
+  folks:2.39
+  time:2.39
+  free:2.39
+  guess:2.39
+  market:1.64
+  site:1.15
+  making:1.14
+
+Topic 3:
+  days:2.38
+  sr:1.19
+  sit:1.13
+  links:1.13
+  today:1.13
+  wondering:1.13
+  hasnt:1.13
+  scam:1.13
+  buyers tba:1.13
+  reason:1.13
+
+Topic 4:
+  lots stuff:1.80
+  mentality:0.91
+  waiting:0.91
+  implemented:0.91
+  mst:0.90
+  teach:0.90
+  listings:0.90
+  works:0.90
+  smart:0.90
+  buying:0.90
+
+K: 5, Log-Likelihood: -1119.164, Alpha: 11.000, Beta: 1.100

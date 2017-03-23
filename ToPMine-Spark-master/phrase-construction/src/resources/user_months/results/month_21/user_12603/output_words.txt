@@ -1,0 +1,61 @@
+Topic 0:
+  nain:1.22
+  ei:1.04
+  en:0.81
+  se:0.65
+  jos:0.65
+  hk:0.58
+  mut:0.52
+  paljon:0.51
+  perusjuttuja:0.40
+  helppoa:0.40
+
+Topic 1:
+  ei:1.03
+  mut:1.00
+  paljon:0.69
+  en:0.66
+  nain:0.52
+  oon:0.49
+  vaan:0.46
+  tarvii:0.45
+  joku:0.43
+  pgp:0.41
+
+Topic 2:
+  mut:1.61
+  ei:1.03
+  oon:0.69
+  paljon:0.66
+  joku:0.62
+  en:0.55
+  pgp:0.51
+  tarvii:0.45
+  nain:0.45
+  riit:0.44
+
+Topic 3:
+  mut:2.72
+  oon:1.99
+  joku:1.24
+  ei:0.86
+  yritt:0.64
+  riit:0.64
+  paljon:0.48
+  pgp:0.38
+  lukee:0.38
+  suht:0.38
+
+Topic 4:
+  mut:1.14
+  ei:1.04
+  paljon:0.66
+  en:0.62
+  oon:0.57
+  nain:0.54
+  joku:0.46
+  vaan:0.44
+  tarvii:0.43
+  pgp:0.42
+
+K: 5, Log-Likelihood: -667.725, Alpha: 11.000, Beta: 1.100

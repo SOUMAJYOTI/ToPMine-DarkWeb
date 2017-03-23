@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:2.81
+  fk:2.81
+  fuck:2.81
+  ffs:2.81
+  tech:1.32
+  ppl:1.32
+  allsorts:1.32
+  lol:1.32
+  stats:1.32
+  registration:1.32
+
+Topic 1:
+  scam:1.30
+  pandorasr:0.87
+  marketplace:0.87
+  period:0.87
+  coming:0.87
+  pointps:0.87
+  fear:0.87
+  freedombeware:0.86
+  long:0.86
+  stars:0.86
+
+Topic 2:
+  sr:1.14
+  lost:1.07
+  wall:0.88
+  stolen:0.78
+  warned:0.78
+  coins:0.78
+  sympathise:0.78
+  money:0.78
+  comming:0.78
+  dl:0.78
+
+Topic 3:
+  sr:0.90
+  scam:0.71
+  kitten:0.63
+  time:0.63
+  wall:0.58
+  lost:0.55
+  features:0.45
+  swam:0.45
+  fall:0.44
+  inception:0.44
+
+Topic 4:
+  sr:1.57
+  market:1.06
+  bunch:1.06
+  removed:1.06
+  post:1.06
+  backup:1.06
+  stexos:1.06
+  lack:1.06
+  round:1.06
+  fucks:1.06
+
+K: 5, Log-Likelihood: -662.877, Alpha: 11.000, Beta: 1.100

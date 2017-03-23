@@ -1,0 +1,61 @@
+Topic 0:
+  discussion:0.36
+  easier:0.36
+  lsd seeds:0.36
+  follow:0.36
+  issue:0.36
+  thread:0.36
+  seeds:0.16
+  small:0.11
+  lighter fluid naptha:0.10
+  solution:0.10
+
+Topic 1:
+  thread:0.41
+  issue:0.41
+  follow:0.41
+  lsd seeds:0.41
+  discussion:0.41
+  easier:0.41
+  seeds:0.25
+  lighter fluid naptha:0.23
+  smell seeds:0.20
+  save time:0.20
+
+Topic 2:
+  solution:0.82
+  solids:0.81
+  reaction mixture:0.65
+  removed filtration:0.63
+  lysergic acid:0.62
+  constant weight:0.61
+  mixture:0.61
+  product:0.60
+  methanol:0.57
+  reflux:0.50
+
+Topic 3:
+  lighter fluid naptha:2.69
+  seeds filter:1.70
+  dont worry:1.70
+  shot:1.70
+  save time:1.70
+  smell seeds:1.70
+  seeds:0.98
+  dumb:0.73
+  ensure:0.73
+  dont recipe:0.73
+
+Topic 4:
+  solution:3.61
+  solids:2.70
+  methanol:2.03
+  product:1.99
+  mixture:1.99
+  constant weight:1.98
+  lysergic acid:1.98
+  removed filtration:1.97
+  reaction mixture:1.95
+  mass:1.23
+
+K: 5, Log-Likelihood: -2014.378, Alpha: 11.000, Beta: 1.100

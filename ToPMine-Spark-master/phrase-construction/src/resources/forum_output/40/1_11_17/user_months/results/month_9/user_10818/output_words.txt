@@ -1,0 +1,61 @@
+Topic 0:
+  server:2.19
+  site:1.41
+  users:1.25
+  web:1.12
+  simple:0.90
+  sell:0.88
+  big:0.87
+  servers:0.85
+  full:0.83
+  referred:0.59
+
+Topic 1:
+  site:1.97
+  server:1.39
+  users:0.93
+  web:0.91
+  big:0.73
+  servers:0.73
+  sell:0.73
+  simple:0.71
+  full:0.68
+  referred:0.57
+
+Topic 2:
+  site:1.92
+  server:0.99
+  web:0.77
+  users:0.71
+  full:0.58
+  big:0.58
+  referred:0.57
+  sell:0.56
+  simple:0.55
+  servers:0.55
+
+Topic 3:
+  site:1.48
+  server:1.37
+  web:1.15
+  users:1.05
+  full:0.87
+  servers:0.82
+  simple:0.79
+  sell:0.78
+  big:0.77
+  referred:0.56
+
+Topic 4:
+  pigeon:3.39
+  good:2.84
+  luck:1.85
+  customers:0.89
+  specific:0.88
+  cases:0.88
+  program:0.88
+  fairly:0.88
+  quote:0.86
+  bar:0.86
+
+K: 5, Log-Likelihood: -916.829, Alpha: 11.000, Beta: 1.100

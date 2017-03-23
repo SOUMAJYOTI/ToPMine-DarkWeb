@@ -1,0 +1,61 @@
+Topic 0:
+  verification:7.16
+  credit:6.04
+  card:5.98
+  number:5.43
+  scan:3.35
+  require:3.34
+  bitcoins:3.33
+  website:3.33
+  send:3.33
+  websites:3.33
+
+Topic 1:
+  phone:3.23
+  tang:1.77
+  buy:1.76
+  february:1.69
+  quote:1.58
+  access:1.42
+  ken:1.20
+  wife:1.14
+  details:1.13
+  fucker:1.03
+
+Topic 2:
+  phone:5.85
+  tor:2.93
+  access:2.51
+  buy:2.10
+  february:2.10
+  libertyx:1.61
+  smart:1.40
+  quote:1.33
+  gon:1.22
+  beard:1.17
+
+Topic 3:
+  phone:2.78
+  tor:2.39
+  stolen:2.24
+  details:1.90
+  tang:1.89
+  gon:1.75
+  cash:1.56
+  libertyx:1.32
+  february:1.32
+  smart:1.20
+
+Topic 4:
+  phone:2.68
+  details:2.03
+  tor:1.84
+  tang:1.69
+  february:1.42
+  quote:1.35
+  libertyx:1.34
+  access:1.32
+  gon:1.22
+  fucker:1.20
+
+K: 5, Log-Likelihood: -1714.811, Alpha: 11.000, Beta: 1.100

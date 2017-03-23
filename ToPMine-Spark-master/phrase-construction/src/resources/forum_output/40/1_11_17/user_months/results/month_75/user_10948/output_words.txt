@@ -1,0 +1,61 @@
+Topic 0:
+  unshakable:0.61
+  kernel:0.61
+  bit:0.41
+  isolation:0.40
+  applications:0.40
+  things:0.40
+  row:0.40
+  layer:0.40
+  hypervisor:0.40
+  autonomous:0.20
+
+Topic 1:
+  unshakable:0.60
+  kernel:0.58
+  hypervisor:0.41
+  row:0.41
+  bit:0.40
+  applications:0.40
+  layer:0.40
+  things:0.40
+  isolation:0.40
+  intenet:0.20
+
+Topic 2:
+  unshakable:0.59
+  kernel:0.58
+  layer:0.41
+  things:0.41
+  isolation:0.40
+  row:0.40
+  hypervisor:0.40
+  applications:0.40
+  bit:0.40
+  nutsack:0.20
+
+Topic 3:
+  kernel:0.62
+  unshakable:0.59
+  applications:0.40
+  isolation:0.40
+  layer:0.40
+  things:0.40
+  bit:0.40
+  hypervisor:0.40
+  row:0.40
+  xen:0.20
+
+Topic 4:
+  unshakable:0.61
+  kernel:0.61
+  applications:0.40
+  hypervisor:0.40
+  bit:0.40
+  things:0.40
+  layer:0.40
+  row:0.40
+  isolation:0.40
+  verified:0.20
+
+K: 5, Log-Likelihood: -308.167, Alpha: 11.000, Beta: 1.100

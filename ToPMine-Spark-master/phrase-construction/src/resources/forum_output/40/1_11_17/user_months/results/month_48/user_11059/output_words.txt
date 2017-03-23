@@ -1,0 +1,61 @@
+Topic 0:
+  customers:0.60
+  delivery:0.40
+  market:0.40
+  clhoridrat:0.40
+  syrup:0.40
+  italian:0.40
+  surname:0.40
+  aka:0.20
+  seller:0.20
+  er:0.20
+
+Topic 1:
+  customers:0.60
+  italian:0.40
+  clhoridrat:0.40
+  surname:0.40
+  syrup:0.40
+  market:0.40
+  delivery:0.40
+  tracking:0.20
+  methadone:0.20
+  honesty:0.20
+
+Topic 2:
+  customers:0.58
+  syrup:0.40
+  market:0.40
+  delivery:0.40
+  clhoridrat:0.40
+  italian:0.40
+  surname:0.40
+  scandinavian:0.20
+  bella:0.20
+  honesty:0.20
+
+Topic 3:
+  customers:0.60
+  syrup:0.40
+  surname:0.40
+  italian:0.40
+  clhoridrat:0.40
+  market:0.40
+  delivery:0.40
+  bella:0.20
+  hope:0.20
+  good:0.20
+
+Topic 4:
+  customers:0.62
+  delivery:0.40
+  market:0.40
+  surname:0.40
+  syrup:0.40
+  italian:0.40
+  clhoridrat:0.40
+  mail:0.20
+  remember:0.20
+  invitation:0.20
+
+K: 5, Log-Likelihood: -203.999, Alpha: 11.000, Beta: 1.100

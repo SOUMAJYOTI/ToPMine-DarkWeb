@@ -1,0 +1,61 @@
+Topic 0:
+  invest:2.27
+  investors:2.08
+  hourly:1.90
+  offer:1.73
+  affiliate:1.64
+  options:1.34
+  interest:1.17
+  btc:1.11
+  investing:1.08
+  return:1.05
+
+Topic 1:
+  affiliate:4.23
+  offer:4.14
+  hourly:3.96
+  btc:2.76
+  interest:2.70
+  options:2.53
+  invest:1.94
+  investors:1.50
+  ability:1.18
+  bringing:1.17
+
+Topic 2:
+  investors:1.95
+  sounds:1.77
+  money:1.77
+  eventually:1.30
+  coin:0.95
+  investing:0.93
+  return:0.91
+  invest:0.80
+  investment:0.62
+  short:0.61
+
+Topic 3:
+  coin:5.31
+  term:2.32
+  ponzi:2.31
+  short:2.31
+  early:2.29
+  investment:2.28
+  time:2.27
+  reading:2.27
+  buy:2.24
+  spend:2.15
+
+Topic 4:
+  sounds:1.75
+  coin:1.67
+  money:1.67
+  investors:1.63
+  spend:1.19
+  buy:1.10
+  reading:1.08
+  time:1.07
+  early:1.06
+  ponzi:1.06
+
+K: 5, Log-Likelihood: -1610.286, Alpha: 11.000, Beta: 1.100

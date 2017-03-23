@@ -1,0 +1,61 @@
+Topic 0:
+  giftcards:5.83
+  drop:5.83
+  labels:5.82
+  package:4.84
+  stamps:4.58
+  big:3.84
+  dont:3.51
+  site:2.90
+  purpose:2.85
+  kind:2.85
+
+Topic 1:
+  btc:5.12
+  issues:3.65
+  major:3.27
+  till:3.24
+  resolved:3.22
+  avoid:3.21
+  security:3.19
+  lots:3.19
+  stolen:3.18
+  folks:3.18
+
+Topic 2:
+  scam:12.70
+  exit:10.57
+  duck:7.73
+  money:7.29
+  lost:5.37
+  ddos:4.98
+  including:3.54
+  serioulsy:3.53
+  huge:3.53
+  officially:3.53
+
+Topic 3:
+  love:6.26
+  avengers:5.13
+  dealing:3.36
+  cheers:2.87
+  st:2.83
+  quote:2.59
+  alphabay:2.47
+  november:2.29
+  direct:1.78
+  site:1.66
+
+Topic 4:
+  love:23.49
+  avengers:13.26
+  find:6.15
+  registration:6.03
+  market:4.95
+  site:4.48
+  abraxas:4.30
+  confident:4.22
+  fit:4.22
+  alphabet:3.38
+
+K: 5, Log-Likelihood: -3415.179, Alpha: 11.000, Beta: 1.100

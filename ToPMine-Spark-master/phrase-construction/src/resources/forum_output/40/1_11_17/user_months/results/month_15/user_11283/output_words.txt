@@ -1,0 +1,61 @@
+Topic 0:
+  news:1.37
+  good:0.60
+  bad:0.60
+  machine:0.39
+  green:0.39
+  torchat:0.27
+  guy:0.27
+  paid:0.27
+  fine:0.27
+  bottom:0.27
+
+Topic 1:
+  time:1.60
+  bud:0.91
+  machine:0.37
+  green:0.37
+  swam:0.36
+  suspicious:0.36
+  darkweb:0.36
+  thw:0.36
+  damn:0.36
+  established:0.36
+
+Topic 2:
+  news:0.85
+  good:0.44
+  bad:0.43
+  green:0.41
+  machine:0.41
+  time:0.36
+  bud:0.28
+  onionland:0.22
+  silence:0.22
+  guy:0.22
+
+Topic 3:
+  news:0.63
+  time:0.48
+  machine:0.42
+  green:0.42
+  bud:0.36
+  bad:0.35
+  good:0.35
+  scam:0.20
+  late:0.20
+  threads:0.20
+
+Topic 4:
+  news:0.97
+  bad:0.48
+  good:0.47
+  green:0.41
+  machine:0.41
+  time:0.32
+  bud:0.25
+  thieves:0.23
+  hit:0.23
+  dont:0.23
+
+K: 5, Log-Likelihood: -284.411, Alpha: 11.000, Beta: 1.100

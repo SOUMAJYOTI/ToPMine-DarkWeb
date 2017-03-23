@@ -1,0 +1,61 @@
+Topic 0:
+  sellers:1.74
+  buy:1.22
+  hooker:0.78
+  trade:0.77
+  small:0.77
+  good:0.77
+  phone:0.77
+  onemeet:0.77
+  number:0.77
+  buttcoins:0.77
+
+Topic 1:
+  place:1.67
+  buy:1.10
+  thing:0.65
+  times:0.63
+  lol:0.62
+  wallet:0.58
+  hooker:0.58
+  money:0.46
+  send:0.45
+  coins:0.44
+
+Topic 2:
+  wallet:5.02
+  coins:3.20
+  send:3.18
+  money:3.18
+  time:2.32
+  place:2.14
+  big:1.38
+  worry:1.38
+  bro:1.38
+  paper:1.38
+
+Topic 3:
+  place:1.74
+  hooker:1.52
+  bank:1.04
+  order:1.01
+  buy:0.90
+  guys:0.70
+  lol:0.70
+  times:0.64
+  thing:0.50
+  anonymous:0.47
+
+Topic 4:
+  feds:4.87
+  pgp:4.87
+  sigaint:4.69
+  service:3.66
+  email:3.05
+  tormail:1.88
+  read:1.88
+  emails:1.88
+  fact:1.88
+  anonymous:1.57
+
+K: 5, Log-Likelihood: -1190.165, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  hard drive:29.66
+  windows:18.15
+  data:16.50
+  software:15.10
+  good:13.67
+  virtual machine:13.67
+  flash drive:13.67
+  drive:13.57
+  mac address:12.90
+  tor:12.87
+
+Topic 1:
+  quote:14.90
+  balance:13.67
+  deposit address:13.67
+  phishing:13.67
+  real market:13.67
+  pin:12.64
+  logs:12.03
+  vendors:10.73
+  send coins:10.54
+  note phishing:10.25
+
+Topic 2:
+  sites:41.01
+  deep web:26.74
+  accept escrow:20.50
+  hidden wiki:20.50
+  private key:20.47
+  remember:19.10
+  escrow:18.65
+  offer:18.46
+  scammers:15.05
+  money:15.05
+
+Topic 3:
+  onion:51.26
+  accounts:30.96
+  required nocategories:30.76
+  onioncreated time multisig:23.92
+  onionreddit accounts:20.50
+  invite onlyinvitation link:20.50
+  key:17.56
+  digital goods:17.09
+  yesfe allowed yesvendor bond:17.09
+  guides tutorials:17.09
+
+Topic 4:
+  master public key:13.67
+  court documents:13.67
+  market:10.41
+  file:10.25
+  mufti signature wallet:10.25
+  rcmp:10.25
+  wallet:10.14
+  forensics:9.06
+  case:9.04
+  law enforcement:9.04
+
+K: 5, Log-Likelihood: -90088.075, Alpha: 11.000, Beta: 1.100

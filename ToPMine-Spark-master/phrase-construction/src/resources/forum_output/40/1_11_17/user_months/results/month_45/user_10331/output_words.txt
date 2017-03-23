@@ -1,0 +1,61 @@
+Topic 0:
+  grugq:0.40
+  pronounce:0.40
+  question:0.40
+  read:0.40
+  good:0.40
+  sldk:0.20
+  quote:0.20
+  grugg:0.20
+  pmthat:0.20
+  april:0.20
+
+Topic 1:
+  grugq:0.40
+  question:0.40
+  pronounce:0.40
+  good:0.40
+  read:0.40
+  grugg:0.20
+  pmthat:0.20
+  april:0.20
+  sldk:0.20
+  quote:0.20
+
+Topic 2:
+  read:0.40
+  question:0.40
+  good:0.40
+  grugq:0.40
+  pronounce:0.40
+  april:0.20
+  quote:0.20
+  sldk:0.20
+  pmthat:0.20
+  grugg:0.20
+
+Topic 3:
+  good:0.40
+  read:0.40
+  pronounce:0.40
+  question:0.40
+  grugq:0.40
+  quote:0.20
+  pmthat:0.20
+  grugg:0.20
+  sldk:0.20
+  april:0.20
+
+Topic 4:
+  question:0.40
+  good:0.40
+  pronounce:0.40
+  grugq:0.40
+  read:0.40
+  april:0.20
+  pmthat:0.20
+  quote:0.20
+  grugg:0.20
+  sldk:0.20
+
+K: 5, Log-Likelihood: -33.746, Alpha: 11.000, Beta: 1.100

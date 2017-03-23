@@ -1,0 +1,61 @@
+Topic 0:
+  capable:1.37
+  release:1.37
+  python:1.37
+  gtk:1.37
+  plugin:1.37
+  site:1.37
+  sign:1.36
+  supplied:1.36
+  electrum:1.36
+  installation:1.36
+
+Topic 1:
+  keys:2.61
+  file:2.61
+  secure:1.70
+  create:1.70
+  sh:1.70
+  bip:1.70
+  working:1.70
+  address:1.70
+  find:1.70
+  input:1.70
+
+Topic 2:
+  transaction:0.50
+  windows:0.49
+  dont:0.37
+  signing:0.36
+  pybitcointools:0.36
+  signed:0.36
+  submit:0.35
+  installation:0.35
+  electrum:0.35
+  supplied:0.35
+
+Topic 3:
+  tarball:1.41
+  issues:1.41
+  settings:1.41
+  tails:1.41
+  windows binary:0.73
+  tracker:0.62
+  binary:0.62
+  keys keys:0.62
+  fresh:0.62
+  transaction signing:0.62
+
+Topic 4:
+  stage:0.49
+  pyjamas:0.49
+  gui:0.49
+  continue:0.49
+  interface:0.49
+  la:0.49
+  good:0.49
+  local:0.49
+  code:0.49
+  published:0.49
+
+K: 5, Log-Likelihood: -1168.115, Alpha: 11.000, Beta: 1.100

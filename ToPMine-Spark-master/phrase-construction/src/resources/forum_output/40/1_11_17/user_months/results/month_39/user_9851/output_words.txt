@@ -1,0 +1,61 @@
+Topic 0:
+  dutch:0.83
+  hollandonline:0.81
+  vendor:0.78
+  avengers:0.78
+  ho:0.68
+  good:0.51
+  removed:0.50
+  attempt:0.50
+  arrested:0.50
+  list:0.50
+
+Topic 1:
+  vendor:1.09
+  ho:0.82
+  good:0.64
+  albertheijn:0.63
+  dutch:0.51
+  hollandonline:0.51
+  avengers:0.49
+  mdma:0.44
+  nl:0.44
+  place:0.44
+
+Topic 2:
+  vendor:0.90
+  avengers:0.86
+  hollandonline:0.79
+  dutch:0.78
+  ho:0.65
+  albertheijn:0.50
+  buy:0.50
+  list:0.50
+  arrested:0.50
+  customers:0.50
+
+Topic 3:
+  vendor:1.24
+  ho:0.94
+  albertheijn:0.72
+  good:0.69
+  disappeared:0.49
+  happened:0.49
+  drugs:0.49
+  prices:0.49
+  multi:0.48
+  place:0.48
+
+Topic 4:
+  vendor:1.00
+  ho:0.90
+  good:0.67
+  albertheijn:0.66
+  dutch:0.47
+  hollandonline:0.47
+  avengers:0.47
+  pills:0.43
+  reliable:0.43
+  multi:0.43
+
+K: 5, Log-Likelihood: -344.717, Alpha: 11.000, Beta: 1.100

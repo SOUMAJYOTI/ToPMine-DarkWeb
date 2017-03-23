@@ -1,0 +1,61 @@
+Topic 0:
+  love:1.00
+  isopropyl:0.40
+  garden:0.20
+  aboard:0.20
+  member:0.20
+  forward:0.20
+  contributing:0.20
+  discovered:0.20
+  share:0.20
+  community:0.20
+
+Topic 1:
+  love:1.03
+  isopropyl:0.39
+  friend:0.20
+  share:0.20
+  member:0.20
+  contributing:0.20
+  community:0.20
+  forward:0.20
+  discovered:0.20
+  aboard:0.20
+
+Topic 2:
+  love:0.93
+  isopropyl:0.42
+  aboard:0.20
+  garden:0.20
+  contributing:0.20
+  forward:0.20
+  member:0.20
+  share:0.20
+  community:0.20
+  discovered:0.20
+
+Topic 3:
+  love:1.02
+  isopropyl:0.39
+  friend:0.20
+  community:0.20
+  discovered:0.20
+  share:0.20
+  contributing:0.20
+  member:0.20
+  forward:0.20
+  garden:0.20
+
+Topic 4:
+  love:1.03
+  isopropyl:0.39
+  friend:0.20
+  garden:0.20
+  forward:0.20
+  discovered:0.20
+  share:0.20
+  community:0.20
+  member:0.20
+  contributing:0.20
+
+K: 5, Log-Likelihood: -35.810, Alpha: 11.000, Beta: 1.100

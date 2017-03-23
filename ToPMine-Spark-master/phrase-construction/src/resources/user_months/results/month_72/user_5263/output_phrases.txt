@@ -1,0 +1,61 @@
+Topic 0:
+  court documents:0.46
+  law enforcement:0.35
+  rcmp:0.35
+  forensics:0.35
+  encryption:0.35
+  canadian:0.35
+  media relations officer:0.23
+  device:0.23
+  drug trafficking case:0.23
+  december:0.23
+
+Topic 1:
+  court documents:0.45
+  rcmp:0.34
+  forensics:0.34
+  canadian:0.34
+  encryption:0.34
+  law enforcement:0.34
+  messages:0.23
+  crime news:0.23
+  media relations officer:0.23
+  december:0.23
+
+Topic 2:
+  court documents:0.46
+  canadian:0.35
+  forensics:0.35
+  rcmp:0.35
+  encryption:0.35
+  law enforcement:0.34
+  secure:0.23
+  device protected:0.23
+  motherboard:0.23
+  decrypt:0.23
+
+Topic 3:
+  court documents:0.46
+  law enforcement:0.35
+  encryption:0.35
+  forensics:0.35
+  rcmp:0.34
+  canadian:0.34
+  messages:0.23
+  called:0.23
+  device protected:0.23
+  techniques:0.23
+
+Topic 4:
+  court documents:0.46
+  canadian:0.35
+  rcmp:0.35
+  encryption:0.34
+  forensics:0.34
+  law enforcement:0.34
+  drug trafficking case:0.23
+  decrypt:0.23
+  december:0.23
+  techniques:0.23
+
+K: 5, Log-Likelihood: -741.302, Alpha: 11.000, Beta: 1.100

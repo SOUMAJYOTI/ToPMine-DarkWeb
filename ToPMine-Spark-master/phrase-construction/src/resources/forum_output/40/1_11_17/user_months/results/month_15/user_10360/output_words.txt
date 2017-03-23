@@ -1,0 +1,61 @@
+Topic 0:
+  businesses:0.40
+  bitcoin:0.40
+  called:0.40
+  bowl:0.20
+  game:0.20
+  sponsoring:0.20
+  predicting:0.20
+  big:0.20
+  start:0.20
+  wave:0.20
+
+Topic 1:
+  called:0.41
+  businesses:0.40
+  bitcoin:0.40
+  company:0.20
+  inexpensive:0.20
+  start:0.20
+  detractors:0.20
+  bitcoins:0.20
+  big:0.20
+  expedia:0.20
+
+Topic 2:
+  bitcoin:0.40
+  businesses:0.40
+  called:0.40
+  providing:0.20
+  hold:0.20
+  easy:0.20
+  buy:0.20
+  services:0.20
+  finally:0.20
+  major:0.20
+
+Topic 3:
+  bitcoin:0.40
+  businesses:0.40
+  called:0.40
+  game:0.20
+  sponsoring:0.20
+  bowl:0.20
+  systems:0.20
+  overstock:0.20
+  papa:0.20
+  payment:0.20
+
+Topic 4:
+  called:0.40
+  bitcoin:0.40
+  businesses:0.40
+  sponsoring:0.20
+  game:0.20
+  bowl:0.20
+  competition:0.20
+  mainstream:0.20
+  funds:0.20
+  easy:0.20
+
+K: 5, Log-Likelihood: -167.224, Alpha: 11.000, Beta: 1.100

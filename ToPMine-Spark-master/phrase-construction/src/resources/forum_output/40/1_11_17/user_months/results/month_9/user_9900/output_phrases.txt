@@ -1,0 +1,61 @@
+Topic 0:
+  long:2.97
+  feedback:1.88
+  good:1.88
+  disputes:1.88
+  theyve:1.88
+  site:1.88
+  positive:0.82
+  wondering:0.82
+  legit:0.82
+  upstanding:0.82
+
+Topic 1:
+  scroat:0.36
+  place:0.35
+  agora:0.33
+  places:0.32
+  sell:0.32
+  read:0.32
+  aversion:0.32
+  moneypak:0.32
+  shoot:0.32
+  boy:0.32
+
+Topic 2:
+  key:1.71
+  pgp:1.69
+  fixed:1.69
+  helps:0.71
+  helping:0.71
+  forward:0.71
+  tonight:0.71
+  signature:0.71
+  wanted:0.71
+  acidcat:0.71
+
+Topic 3:
+  place:0.36
+  message agra:0.34
+  btc vendor:0.34
+  stay:0.34
+  referred link:0.34
+  shoot:0.33
+  hookup:0.33
+  moneypak:0.33
+  aversion:0.33
+  poison:0.33
+
+Topic 4:
+  place:0.53
+  beauty:0.50
+  vendor:0.50
+  reccomend:0.50
+  mods:0.50
+  people:0.50
+  product:0.50
+  scamming:0.50
+  caught:0.50
+  dont:0.50
+
+K: 5, Log-Likelihood: -665.662, Alpha: 11.000, Beta: 1.100

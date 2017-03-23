@@ -1,0 +1,61 @@
+Topic 0:
+  tor:4.69
+  reddit:4.16
+  work:3.40
+  quote:3.26
+  december:3.12
+  humankind:2.97
+  hard:2.96
+  providing:2.96
+  financial:2.93
+  teammates:2.91
+
+Topic 1:
+  dash:11.89
+  social:10.54
+  media:7.23
+  wiki:4.63
+  wallet:4.63
+  blockchain:4.06
+  tier:3.96
+  masternodes:3.96
+  news:3.96
+  system:3.92
+
+Topic 2:
+  dash:11.55
+  tor:1.98
+  hidden:1.61
+  thread:1.48
+  onion:1.42
+  dev:1.34
+  work:1.21
+  booth:1.05
+  updates:1.01
+  book:0.97
+
+Topic 3:
+  quote:5.66
+  platform:2.69
+  type:2.59
+  onion:2.39
+  tor:2.11
+  pic:1.93
+  dont:1.87
+  black:1.82
+  work:1.78
+  hear:1.69
+
+Topic 4:
+  dash:25.64
+  electrum:9.64
+  trezor:4.96
+  wallet:4.94
+  electric:4.53
+  installer:3.96
+  release:2.96
+  popular:2.96
+  install:2.96
+  users:2.96
+
+K: 5, Log-Likelihood: -4246.779, Alpha: 11.000, Beta: 1.100

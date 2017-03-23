@@ -1,0 +1,61 @@
+Topic 0:
+  play:4.64
+  idea:4.52
+  cool:2.27
+  challenge:2.27
+  good:2.16
+  case:1.82
+  standard:1.79
+  darknet:1.74
+  wait:1.74
+  hard:1.74
+
+Topic 1:
+  april:22.43
+  ya:11.64
+  quote:8.89
+  nordicshrooms:8.74
+  pmquote:8.74
+  pd:6.78
+  pe:6.02
+  amquote:3.76
+  shoot:2.82
+  chill:2.82
+
+Topic 2:
+  pawn:13.19
+  move:10.77
+  letter:8.30
+  square:8.07
+  piece:6.83
+  capture:4.66
+  moves:4.57
+  file:4.17
+  rank:3.71
+  pawns:3.69
+
+Topic 3:
+  move:13.82
+  piece:12.96
+  square:10.67
+  pawn:8.73
+  file:8.56
+  letter:7.46
+  moves:6.33
+  rank:5.41
+  pawns:4.57
+  capture:4.48
+
+Topic 4:
+  letter:4.84
+  piece:4.84
+  notation:4.69
+  move:2.29
+  knight:2.20
+  pawn:1.97
+  standard:1.59
+  case:1.59
+  thread:1.29
+  file:1.20
+
+K: 5, Log-Likelihood: -3379.229, Alpha: 11.000, Beta: 1.100

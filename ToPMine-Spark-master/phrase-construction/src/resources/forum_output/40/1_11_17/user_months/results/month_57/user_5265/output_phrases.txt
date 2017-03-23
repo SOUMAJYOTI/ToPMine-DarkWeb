@@ -1,0 +1,61 @@
+Topic 0:
+  pics:0.85
+  bruce:0.74
+  september:0.52
+  message attachments unload:0.49
+  avatar disappeared:0.49
+  worked:0.48
+  confirm:0.46
+  solution:0.46
+  problem:0.46
+  read:0.45
+
+Topic 1:
+  pics:0.64
+  bruce:0.61
+  september:0.52
+  avatar disappeared:0.52
+  message attachments unload:0.52
+  forums:0.49
+  profile:0.49
+  acknowledgement:0.49
+  problem:0.49
+  confirm:0.49
+
+Topic 2:
+  pics:0.98
+  bruce:0.55
+  worked:0.53
+  users:0.52
+  attachment:0.51
+  working:0.51
+  option:0.51
+  avatars:0.51
+  problem:0.48
+  path:0.47
+
+Topic 3:
+  pics:1.14
+  bruce:0.56
+  attachments unload:0.53
+  report:0.52
+  error:0.52
+  path:0.52
+  upload:0.52
+  post:0.52
+  access:0.52
+  avatar disappeared:0.46
+
+Topic 4:
+  pics:0.79
+  bruce:0.55
+  message attachments unload:0.50
+  avatar disappeared:0.50
+  problem:0.49
+  september:0.49
+  worked:0.48
+  good:0.46
+  deteriorate:0.46
+  forum:0.46
+
+K: 5, Log-Likelihood: -379.016, Alpha: 11.000, Beta: 1.100

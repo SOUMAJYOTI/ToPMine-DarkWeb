@@ -1,0 +1,61 @@
+Topic 0:
+  bit:3.12
+  chromium:3.12
+  runs:3.12
+  configured:1.52
+  messaging:1.52
+  chrome:1.52
+  assed:1.52
+  channels:1.52
+  moment:1.52
+  network:1.52
+
+Topic 1:
+  problems:1.72
+  dont:1.72
+  developed:1.71
+  nice:1.71
+  market:1.71
+  service:1.71
+  good darkweb:1.71
+  market hold:1.71
+  yeah:1.71
+  fog:1.71
+
+Topic 2:
+  properly:1.23
+  forward:1.22
+  built:1.22
+  whonix:1.22
+  fine:1.22
+  coinjoin stealth:1.22
+  isolating:1.22
+  steps:1.22
+  routes:1.22
+  huge:1.22
+
+Topic 3:
+  bitcoin:1.70
+  beta:1.27
+  features:1.27
+  coinjoin mixing:1.27
+  real:1.27
+  payments:1.27
+  multisignature:1.27
+  reaches:1.27
+  web:1.27
+  anonymity:1.27
+
+Topic 4:
+  password:3.04
+  posting:1.95
+  office:1.95
+  functionality:1.95
+  downloaded:1.95
+  mentioned:1.95
+  wallet tails:1.95
+  owockeznan:1.94
+  heard:1.94
+  pmyou:1.94
+
+K: 5, Log-Likelihood: -1295.333, Alpha: 11.000, Beta: 1.100

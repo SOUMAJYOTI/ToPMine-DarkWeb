@@ -1,0 +1,61 @@
+Topic 0:
+  darknet:1.08
+  links:0.81
+  mixing:0.71
+  impossible:0.53
+  bitlaundry:0.53
+  fully:0.53
+  bunny:0.53
+  people:0.53
+  listshare:0.53
+  tor:0.53
+
+Topic 1:
+  coins:2.89
+  good:2.83
+  convert:1.18
+  hacked:1.17
+  buy:1.17
+  rates:1.16
+  mentioned:1.16
+  screw:1.16
+  bitblender:1.16
+  alts:1.16
+
+Topic 2:
+  darknet:1.90
+  blond:0.82
+  transactions:0.80
+  services:0.79
+  track:0.79
+  btcmix:0.79
+  topic:0.79
+  io:0.79
+  cleancoin:0.79
+  anonymous:0.79
+
+Topic 3:
+  links:2.03
+  site:1.35
+  send:0.83
+  money:0.81
+  mixing:0.80
+  bitcoin:0.57
+  darknet:0.52
+  forum:0.36
+  spoof:0.36
+  fake:0.36
+
+Topic 4:
+  links:1.40
+  site:1.06
+  bitcoin:0.76
+  money:0.70
+  send:0.68
+  mixing:0.62
+  good:0.43
+  coins:0.40
+  darknet:0.39
+  designed:0.32
+
+K: 5, Log-Likelihood: -501.712, Alpha: 11.000, Beta: 1.100

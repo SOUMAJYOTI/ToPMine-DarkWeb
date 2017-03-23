@@ -1,0 +1,61 @@
+Topic 0:
+  tom:2.76
+  listings:1.87
+  paper:1.18
+  message:0.89
+  market:0.75
+  call:0.73
+  pouch:0.70
+  stick:0.66
+  agora:0.54
+  advantages:0.53
+
+Topic 1:
+  paper:2.42
+  tom:2.04
+  listings:1.69
+  market:1.07
+  stick:0.96
+  pouch:0.94
+  call:0.94
+  shipped:0.68
+  powder:0.68
+  pouches:0.68
+
+Topic 2:
+  tom:3.26
+  listings:1.97
+  market:1.25
+  paper:0.94
+  call:0.67
+  message:0.64
+  pouch:0.60
+  stick:0.59
+  bad:0.56
+  yeah:0.55
+
+Topic 3:
+  tom:2.80
+  paper:1.35
+  listings:1.23
+  find:1.06
+  marketplace:1.05
+  links:1.03
+  advantages:1.03
+  agora:1.02
+  message:0.87
+  ago:0.76
+
+Topic 4:
+  market:6.24
+  drugs:3.86
+  freedom:3.86
+  javascript:3.58
+  tom:2.14
+  place:1.86
+  asked:1.30
+  feel:1.24
+  main:1.24
+  reasons:1.24
+
+K: 5, Log-Likelihood: -1238.961, Alpha: 11.000, Beta: 1.100

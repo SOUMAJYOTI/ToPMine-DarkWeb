@@ -1,0 +1,51 @@
+Topic 0:
+  referred:0.40
+  invite:0.20
+  acas:0.20
+  link:0.20
+  links:0.20
+  place:0.20
+  post:0.20
+  market:0.20
+
+Topic 1:
+  referred:0.40
+  acas:0.20
+  place:0.20
+  links:0.20
+  market:0.20
+  post:0.20
+  link:0.20
+  invite:0.20
+
+Topic 2:
+  referred:0.40
+  invite:0.20
+  links:0.20
+  place:0.20
+  acas:0.20
+  link:0.20
+  market:0.20
+  post:0.20
+
+Topic 3:
+  referred:0.40
+  market:0.20
+  links:0.20
+  place:0.20
+  link:0.20
+  post:0.20
+  invite:0.20
+  acas:0.20
+
+Topic 4:
+  referred:0.40
+  post:0.20
+  acas:0.20
+  link:0.20
+  invite:0.20
+  place:0.20
+  market:0.20
+  links:0.20
+
+K: 5, Log-Likelihood: -18.414, Alpha: 11.000, Beta: 1.100

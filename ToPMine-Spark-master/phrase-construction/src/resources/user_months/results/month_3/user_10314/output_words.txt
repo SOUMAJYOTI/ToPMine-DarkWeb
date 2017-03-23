@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:5.56
+  message:2.63
+  free:2.15
+  account:1.78
+  quote:1.78
+  open:1.34
+  site:1.33
+  vendors:1.30
+  scam:1.29
+  register:1.16
+
+Topic 1:
+  bmr:8.83
+  markets:4.88
+  sr:4.51
+  dead:3.35
+  topic:2.48
+  people:2.36
+  mods:2.03
+  safe:2.03
+  dedicated:2.03
+  community:2.02
+
+Topic 2:
+  market:2.11
+  quote:1.85
+  january:1.52
+  year:1.36
+  vendor:1.35
+  scam:1.33
+  free:1.18
+  site:1.14
+  sheep:1.13
+  cantina:1.06
+
+Topic 3:
+  vendor:2.55
+  market:2.24
+  vendors:1.62
+  quote:1.41
+  free:1.38
+  january:1.20
+  message:1.19
+  scam:1.13
+  site:1.04
+  account:0.95
+
+Topic 4:
+  market:2.39
+  quote:2.06
+  year:1.51
+  vendor:1.42
+  site:1.42
+  january:1.30
+  message:1.16
+  free:1.15
+  scam:1.12
+  open:0.94
+
+K: 5, Log-Likelihood: -1883.170, Alpha: 11.000, Beta: 1.100

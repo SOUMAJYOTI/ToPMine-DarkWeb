@@ -1,0 +1,61 @@
+Topic 0:
+  persistence volume:4.66
+  volume:3.75
+  persistence:2.86
+  tails:2.66
+  live:2.16
+  folder:2.16
+  configured:2.16
+  log:2.16
+  tailsdataunlocked:2.16
+  login:2.16
+
+Topic 1:
+  blockchain onion:3.29
+  quota:2.40
+  server:2.39
+  day:2.39
+  bandwidth:2.39
+  access onion:2.39
+  exceeded:2.39
+  reached:2.39
+  white:2.39
+  limit:2.38
+
+Topic 2:
+  relays:5.30
+  onion:5.30
+  access blockchain:5.30
+  number:3.51
+  exit:3.51
+  tor:1.85
+  red:1.72
+  el:1.72
+  rext:1.72
+  info:1.72
+
+Topic 3:
+  persistence:2.34
+  reximusmaximus:1.88
+  thing:1.78
+  tails:1.70
+  merr:1.29
+  wanted:1.22
+  whonix:1.20
+  working:0.94
+  comfortable:0.94
+  restored:0.94
+
+Topic 4:
+  mind:3.43
+  os:2.38
+  job:1.64
+  idea:1.64
+  bitin:1.64
+  transactions:1.64
+  thought:1.64
+  bitkey:1.64
+  havent:1.64
+  post:1.64
+
+K: 5, Log-Likelihood: -1621.575, Alpha: 11.000, Beta: 1.100

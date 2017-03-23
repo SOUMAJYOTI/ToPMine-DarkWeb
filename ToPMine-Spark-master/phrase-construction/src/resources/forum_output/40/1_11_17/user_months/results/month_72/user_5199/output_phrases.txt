@@ -1,0 +1,61 @@
+Topic 0:
+  order:6.52
+  complicated:3.18
+  sized:3.18
+  excrow:3.18
+  xd:3.18
+  large:3.18
+  market:3.18
+  sending:3.18
+  haha:3.18
+  multisig:3.18
+
+Topic 1:
+  electron:6.49
+  sign transactions:3.78
+  coinb:3.16
+  requires:3.15
+  managed:3.15
+  set:3.15
+  work:3.15
+  support:3.15
+  javascript:3.15
+  ls:3.15
+
+Topic 2:
+  market evo:6.48
+  february:4.62
+  open:3.16
+  deal:3.16
+  bother:3.16
+  didnt:3.16
+  colors:3.16
+  modify:3.16
+  real:3.16
+  evo code:3.16
+
+Topic 3:
+  js:2.49
+  scam:1.79
+  happen:1.79
+  markets:1.79
+  eve:1.79
+  hate:1.79
+  waiting:1.79
+  design:1.78
+  dont:1.67
+  man:1.67
+
+Topic 4:
+  locally:4.67
+  js:2.79
+  host:2.78
+  amhosting:1.83
+  times:1.82
+  ive:1.82
+  github:1.82
+  boneskoopa:1.82
+  verified:1.82
+  agreed:1.82
+
+K: 5, Log-Likelihood: -1195.449, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  exit:6.18
+  link:4.64
+  stuff:4.62
+  nodes:2.99
+  time:2.63
+  simplified:2.63
+  traffic:2.62
+  catch:2.62
+  purpose:2.62
+  answer:2.62
+
+Topic 1:
+  mac:2.18
+  encrypted:2.06
+  tor:1.94
+  network:1.64
+  public:1.64
+  ssl:1.50
+  proxy:1.19
+  quote:1.08
+  september:1.04
+  exit:1.00
+
+Topic 2:
+  package:13.70
+  address:8.77
+  check:6.20
+  drugs:5.74
+  wifi:4.30
+  expecting:3.76
+  location:3.74
+  attached:3.74
+  mac:3.11
+  scenario:2.09
+
+Topic 3:
+  tor:2.41
+  mac:2.36
+  public:1.88
+  network:1.88
+  encrypted:1.52
+  exit:1.50
+  proxy:1.45
+  node:1.39
+  ssl:1.30
+  good:1.29
+
+Topic 4:
+  encrypted:5.96
+  ssl:3.01
+  sites:2.54
+  assumption:2.54
+  slap:2.53
+  forehead:2.53
+  guess:2.53
+  september:1.98
+  quote:1.93
+  tails:1.90
+
+K: 5, Log-Likelihood: -1815.454, Alpha: 11.000, Beta: 1.100

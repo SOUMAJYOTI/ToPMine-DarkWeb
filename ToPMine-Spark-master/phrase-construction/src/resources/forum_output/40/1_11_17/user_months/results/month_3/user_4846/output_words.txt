@@ -1,0 +1,61 @@
+Topic 0:
+  multisig:7.72
+  transaction:6.47
+  command:5.27
+  seller:4.12
+  buyer:2.99
+  side:2.68
+  client:2.28
+  interested:2.23
+  sign:2.17
+  bitrated:2.17
+
+Topic 1:
+  people:7.78
+  address:6.65
+  bitin:4.94
+  head:4.27
+  escrow:4.27
+  confirm:4.22
+  agent:4.20
+  pubkeys:3.97
+  server:3.92
+  crypto:3.92
+
+Topic 2:
+  address:16.52
+  pubkey:8.63
+  validateaddress:8.30
+  create:7.30
+  sexywax:6.21
+  ill:5.70
+  correct:5.60
+  pubkeys:5.41
+  createmultisig:5.36
+  signrawtransaction:5.33
+
+Topic 3:
+  multisig:7.90
+  client:4.04
+  coins:3.09
+  seller:3.06
+  buyer:2.72
+  create:2.71
+  test:2.71
+  people:2.56
+  side:2.38
+  escrow:2.29
+
+Topic 4:
+  transaction:26.12
+  buyer:23.80
+  seller:18.05
+  arbitrator:15.74
+  key:12.24
+  multisig:11.58
+  transactions:10.03
+  coins:6.66
+  site:5.78
+  work:5.78
+
+K: 5, Log-Likelihood: -6966.952, Alpha: 11.000, Beta: 1.100

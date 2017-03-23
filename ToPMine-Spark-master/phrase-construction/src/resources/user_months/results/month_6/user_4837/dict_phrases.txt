@@ -1,0 +1,93 @@
+standard,0,1
+tray,1,1
+select,2,1
+generates,3,1
+putting,4,2
+usb,5,2
+deprecated,6,1
+anonymized,7,2
+conf,8,3
+simple,9,1
+bit,10,2
+good,11,2
+silkroad,12,1
+cleopatra,13,1
+quote,14,2
+problem,15,1
+java,16,1
+earlier,17,1
+solution,18,2
+osx,19,1
+find,20,1
+conf pgp,21,2
+gpa,22,1
+create,23,1
+generate,24,1
+seahorse,25,1
+gpg,26,5
+test,27,2
+edit,28,1
+bits,29,1
+keyid,30,2
+basin,31,1
+portable,32,1
+gnupt,33,1
+easy,34,1
+pgp key,35,1
+crypto,36,1
+standards,37,1
+fail,38,2
+recipients,39,2
+exclusively,40,1
+messages,41,3
+ahve,42,1
+job,43,1
+option,44,1
+rsa,45,3
+private,46,2
+complianti,47,1
+clients,48,2
+buyers,49,1
+keys rsa,50,1
+keys,51,6
+privacy,52,1
+scrappy,53,2
+simpler,54,1
+platform,55,1
+remove,56,2
+pgp messages,57,2
+dual,58,1
+file,59,1
+encryption,60,2
+fall,61,1
+rsa key,62,1
+linux,63,1
+nightcrawler,64,1
+pgp,65,6
+client,66,1
+win,67,1
+ppgp,68,1
+key,69,8
+email,70,2
+anonymize,71,2
+keys key,72,2
+gpg conf,73,3
+kgpg,74,1
+figure,75,1
+chain,76,2
+february,77,1
+length,78,1
+cross,79,1
+great,80,1
+gnu,81,1
+recommended,82,1
+editing,83,1
+forum,84,1
+throw,85,2
+rsa keys,86,2
+easier,87,1
+amyou,88,1
+decrypt,89,2
+signing,90,1
+runs,91,1
+gog,92,1

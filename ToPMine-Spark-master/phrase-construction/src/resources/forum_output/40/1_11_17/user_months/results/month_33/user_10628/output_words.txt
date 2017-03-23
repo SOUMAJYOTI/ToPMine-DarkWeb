@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:7.21
+  tails:5.37
+  launch:4.84
+  wallet:4.59
+  electric:3.13
+  folder:2.84
+  click:2.52
+  network:1.97
+  good:1.94
+  error:1.48
+
+Topic 1:
+  electrum:22.56
+  click:13.53
+  persistent:10.37
+  select:6.95
+  amnesia:6.95
+  file:5.95
+  close:4.95
+  pop:4.95
+  persistence:4.80
+  tails:4.76
+
+Topic 2:
+  tor:3.18
+  traffic:2.94
+  anonymous:2.94
+  electric:2.34
+  quote:2.33
+  november:1.94
+  block:1.94
+  chain:1.94
+  weeks:1.94
+  havent:1.94
+
+Topic 3:
+  tails:4.23
+  wallet:3.34
+  december:2.46
+  post:2.37
+  installed:2.27
+  automatically:2.24
+  electrum:2.16
+  quote:2.07
+  connect:1.91
+  seed:1.78
+
+Topic 4:
+  install:15.18
+  dependencies:7.77
+  software:6.65
+  method:6.16
+  startup:5.46
+  connect:5.29
+  instructions:4.50
+  editing:4.37
+  additional:4.33
+  live:4.21
+
+K: 5, Log-Likelihood: -3911.377, Alpha: 11.000, Beta: 1.100

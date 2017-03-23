@@ -1,0 +1,61 @@
+Topic 0:
+  helix:0.87
+  online:0.82
+  blockchain:0.82
+  dont:0.75
+  regular:0.70
+  safe:0.66
+  onion:0.64
+  wallet:0.61
+  wallets:0.52
+  store:0.46
+
+Topic 1:
+  helix:3.95
+  regular:3.44
+  btc:2.17
+  dont:1.13
+  difference:0.82
+  withdraw:0.48
+  grams:0.48
+  won:0.48
+  personally:0.48
+  percentage:0.48
+
+Topic 2:
+  helix:1.09
+  dont:0.96
+  regular:0.96
+  blockchain:0.73
+  online:0.69
+  safe:0.66
+  light:0.54
+  wallet:0.54
+  onion:0.51
+  wallets:0.46
+
+Topic 3:
+  blockchain:3.56
+  onion:2.17
+  wallet:2.13
+  clearnet:0.85
+  trusted:0.85
+  site:0.85
+  scam:0.85
+  safe:0.84
+  thing:0.83
+  coins:0.57
+
+Topic 4:
+  dont:0.88
+  helix:0.87
+  online:0.86
+  blockchain:0.74
+  regular:0.70
+  safe:0.61
+  wallet:0.58
+  wallets:0.56
+  onion:0.54
+  store:0.44
+
+K: 5, Log-Likelihood: -426.456, Alpha: 11.000, Beta: 1.100

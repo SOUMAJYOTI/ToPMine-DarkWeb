@@ -1,0 +1,61 @@
+Topic 0:
+  bitblender:5.31
+  lower:2.55
+  find:2.55
+  experience:2.55
+  mixers:2.55
+  fees:2.55
+  cheapest:2.55
+  minutes:2.55
+  wandered:2.55
+  process:2.54
+
+Topic 1:
+  links:4.45
+  send:3.49
+  money:3.49
+  posts:1.70
+  marketplace:1.70
+  spoof:1.70
+  warning:1.70
+  forum:1.70
+  original:1.70
+  designed:1.70
+
+Topic 2:
+  wig:3.27
+  fog avoid:2.93
+  blender worked fast troubles:2.93
+  detective scam:2.93
+  read negative reviews people:2.93
+  stay innocent blame issues:2.93
+  services ect people services:2.92
+  scam people:2.92
+  dont:2.43
+  coins dont:2.43
+
+Topic 3:
+  coins:4.05
+  alts:2.58
+  proceed:2.58
+  mix:2.58
+  screw:2.58
+  mentioned:2.58
+  hacked:2.58
+  rates:2.58
+  trade:2.58
+  convert:2.58
+
+Topic 4:
+  bitmixer:2.57
+  transactions:2.57
+  impossible:2.57
+  cleancoin:2.57
+  people:2.57
+  tor:2.57
+  bitlaundry:2.57
+  io:2.57
+  darknet mixing:2.57
+  bunny:2.57
+
+K: 5, Log-Likelihood: -1097.693, Alpha: 11.000, Beta: 1.100

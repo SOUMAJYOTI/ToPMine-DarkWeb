@@ -1,0 +1,61 @@
+Topic 0:
+  time:4.45
+  days:4.45
+  account:4.37
+  agra:2.94
+  btc:2.94
+  entire:2.94
+  people:2.94
+  situation:2.94
+  feedback:2.94
+  simply:2.94
+
+Topic 1:
+  lies:2.94
+  cunt:2.94
+  sense:2.94
+  bit:2.94
+  problem:2.94
+  customer:2.94
+  agora:2.42
+  stay market:1.83
+  telling dont accused:1.83
+  thins:1.44
+
+Topic 2:
+  agora admin:2.26
+  contact support:2.20
+  account stole:1.39
+  told:1.39
+  slow:1.39
+  bunch:1.39
+  scumbags:1.39
+  bitin:1.39
+  accounts:1.39
+  red:1.39
+
+Topic 3:
+  pro sr hub:1.82
+  quote:1.40
+  informed:1.37
+  heard:1.37
+  agora problem:1.37
+  fewi:1.37
+  told sr:1.37
+  thingsi:1.37
+  hope:1.37
+  market:1.37
+
+Topic 4:
+  account:3.31
+  goosehash:2.94
+  discussion:2.94
+  newbie agora:2.94
+  pm:2.94
+  forums:2.94
+  real:2.94
+  threads:2.94
+  general:2.94
+  account blocked:2.35
+
+K: 5, Log-Likelihood: -2020.088, Alpha: 11.000, Beta: 1.100

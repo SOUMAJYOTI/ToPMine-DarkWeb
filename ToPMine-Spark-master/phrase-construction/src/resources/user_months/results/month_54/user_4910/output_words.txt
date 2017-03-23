@@ -1,0 +1,61 @@
+Topic 0:
+  russians:1.78
+  fine:1.77
+  order:1.77
+  fucked:1.74
+  love:1.66
+  bay:1.53
+  alpha:1.46
+  good:1.25
+  nucleus:1.10
+  work:0.88
+
+Topic 1:
+  house:1.32
+  walk:1.07
+  cd:0.82
+  office:0.80
+  happenes:0.80
+  mailman:0.77
+  pack:0.76
+  leave:0.75
+  package:0.75
+  neighbors:0.75
+
+Topic 2:
+  nucleus:1.76
+  middleearth:1.59
+  expand:1.59
+  reasearch:1.59
+  abraxes:1.58
+  marketplaces:1.58
+  st:1.58
+  cheers:1.58
+  avengers:0.84
+  alphabet:0.70
+
+Topic 3:
+  alpha:2.32
+  bay:2.26
+  fucked:2.05
+  order:2.02
+  fine:2.01
+  russians:2.00
+  love:1.60
+  good:1.11
+  process:0.99
+  refresh:0.99
+
+Topic 4:
+  house:8.38
+  walk:4.65
+  post:3.03
+  hits:3.01
+  neighbors:2.99
+  package:2.99
+  leave:2.99
+  pack:2.98
+  mailman:2.97
+  happenes:2.94
+
+K: 5, Log-Likelihood: -1367.188, Alpha: 11.000, Beta: 1.100

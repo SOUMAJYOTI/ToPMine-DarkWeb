@@ -1,0 +1,61 @@
+Topic 0:
+  market:4.24
+  apple:3.66
+  vendor:2.50
+  escrow:2.40
+  pgp:1.61
+  sell:1.48
+  store:1.37
+  ladies:1.34
+  negotiate:1.28
+  commission:1.25
+
+Topic 1:
+  apple:2.29
+  market:2.24
+  vendors:1.67
+  vendor:1.46
+  store:1.27
+  pgp:1.26
+  negotiate:1.20
+  life:1.13
+  sell:1.08
+  ladies:1.08
+
+Topic 2:
+  vendors:2.80
+  market:2.08
+  vendor:1.51
+  apple:1.42
+  pgp:1.22
+  price:1.00
+  life:0.95
+  sell:0.94
+  negotiate:0.93
+  store:0.93
+
+Topic 3:
+  apple:3.46
+  market:2.74
+  pgp:2.35
+  vendor:2.19
+  negotiate:1.44
+  commission:1.42
+  sell:1.39
+  life:1.35
+  store:1.30
+  ladies:1.22
+
+Topic 4:
+  apple:3.18
+  market:2.70
+  vendor:2.35
+  escrow:1.60
+  pgp:1.55
+  commission:1.49
+  ladies:1.47
+  life:1.33
+  vendors:1.21
+  negotiate:1.15
+
+K: 5, Log-Likelihood: -3477.172, Alpha: 11.000, Beta: 1.100

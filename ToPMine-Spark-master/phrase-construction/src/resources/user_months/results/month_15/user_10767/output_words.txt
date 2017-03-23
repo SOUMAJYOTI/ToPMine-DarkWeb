@@ -1,0 +1,61 @@
+Topic 0:
+  flash:10.79
+  user:8.10
+  tor:8.04
+  average:7.81
+  tools:6.51
+  disabled:6.27
+  article:5.93
+  enable:5.67
+  online:4.83
+  simply:3.96
+
+Topic 1:
+  tor:14.35
+  security:5.91
+  browser:5.19
+  flash:5.02
+  microsoft:4.96
+  article:4.19
+  party:3.52
+  completely:3.44
+  version:3.35
+  add:3.23
+
+Topic 2:
+  hidden:7.72
+  services:6.92
+  companies:4.90
+  leo:3.97
+  access:3.46
+  private:3.12
+  search:2.97
+  disruption:2.97
+  terms:2.97
+  dnm:2.97
+
+Topic 3:
+  setup:8.40
+  machine:6.94
+  computer:5.29
+  gateway:4.96
+  secure:4.59
+  network:4.21
+  protected:3.96
+  main:3.92
+  guys:3.86
+  access:3.78
+
+Topic 4:
+  routing:6.77
+  box:4.88
+  case:2.78
+  user:2.67
+  average:2.55
+  tor:2.20
+  article:2.18
+  nic:1.88
+  packets:1.88
+  flash:1.84
+
+K: 5, Log-Likelihood: -5073.240, Alpha: 11.000, Beta: 1.100

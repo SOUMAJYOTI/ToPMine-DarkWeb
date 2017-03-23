@@ -1,0 +1,61 @@
+Topic 0:
+  public key:0.64
+  private key:0.63
+  properly:0.62
+  appreciated:0.56
+  wrong:0.55
+  dont:0.55
+  figure:0.55
+  version:0.55
+  success:0.55
+  dave:0.55
+
+Topic 1:
+  public key:0.93
+  properly:0.91
+  private key:0.89
+  passphrase:0.66
+  don:0.60
+  program:0.45
+  elapsed:0.45
+  word:0.45
+  limitations:0.45
+  sensitive:0.45
+
+Topic 2:
+  properly:0.79
+  private key:0.78
+  public key:0.78
+  passphrase:0.62
+  don:0.55
+  text:0.40
+  copy send:0.40
+  limitations:0.40
+  work:0.40
+  respond:0.40
+
+Topic 3:
+  private key:0.62
+  public key:0.60
+  properly:0.59
+  dave:0.58
+  aquire:0.58
+  access:0.57
+  computer:0.57
+  download:0.57
+  greatly:0.57
+  success:0.57
+
+Topic 4:
+  properly:1.02
+  private key:1.01
+  public key:0.97
+  don:0.74
+  passphrase:0.72
+  compose:0.46
+  comfortable:0.46
+  command:0.46
+  temporary:0.46
+  share:0.46
+
+K: 5, Log-Likelihood: -924.790, Alpha: 11.000, Beta: 1.100

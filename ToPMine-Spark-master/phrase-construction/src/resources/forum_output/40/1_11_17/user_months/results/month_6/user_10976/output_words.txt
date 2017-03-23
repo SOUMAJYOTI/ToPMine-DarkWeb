@@ -1,0 +1,61 @@
+Topic 0:
+  invite:0.76
+  invites:0.67
+  posting:0.67
+  fuck:0.67
+  market:0.63
+  sign:0.58
+  benefit:0.56
+  markets:0.45
+  mad:0.44
+  stopped:0.44
+
+Topic 1:
+  invite:0.83
+  market:0.67
+  sign:0.57
+  posting:0.57
+  benefit:0.57
+  fuck:0.56
+  invites:0.56
+  markets:0.42
+  agora:0.42
+  find:0.42
+
+Topic 2:
+  safe:0.78
+  sr:0.78
+  invite:0.77
+  sign:0.61
+  benefit:0.61
+  agora:0.52
+  market:0.50
+  invites:0.42
+  fuck:0.42
+  posting:0.42
+
+Topic 3:
+  invite:0.81
+  invites:0.67
+  posting:0.67
+  fuck:0.65
+  benefit:0.63
+  market:0.62
+  sign:0.62
+  banned:0.46
+  fucking:0.45
+  personal:0.45
+
+Topic 4:
+  invite:0.84
+  fuck:0.70
+  posting:0.68
+  invites:0.68
+  benefit:0.63
+  sign:0.61
+  market:0.58
+  profit:0.47
+  staff:0.47
+  push:0.46
+
+K: 5, Log-Likelihood: -487.877, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  decred:1.48
+  january:1.15
+  bitcoin:0.93
+  development:0.93
+  pump dump:0.88
+  barrabravaz:0.60
+  pmhow:0.60
+  quote:0.60
+  young:0.59
+  timeline decred:0.58
+
+Topic 1:
+  bitcoin:4.05
+  coins:1.94
+  developers:1.75
+  btcsuite:1.67
+  decred:1.52
+  users:1.43
+  development:1.36
+  btcd:1.30
+  features:1.27
+  package btcd:1.22
+
+Topic 2:
+  price:5.97
+  hardware seller:3.25
+  btc:3.25
+  smaller:2.97
+  slowly:2.97
+  energy:2.96
+  concept:2.96
+  safe:2.96
+  confirm:2.96
+  ur:2.93
+
+Topic 3:
+  bitcoin:8.77
+  coins:5.95
+  btcsuite:4.64
+  wallet:4.55
+  users:4.08
+  project:3.98
+  work:3.68
+  package btcd:3.52
+  developers:3.10
+  system:3.09
+
+Topic 4:
+  bitcoin:8.80
+  wallet:6.01
+  coins:5.20
+  developers:5.17
+  work:3.99
+  btcd:3.57
+  users:3.13
+  system:2.86
+  package btcd:2.37
+  btcsuite:2.36
+
+K: 5, Log-Likelihood: -9759.785, Alpha: 11.000, Beta: 1.100

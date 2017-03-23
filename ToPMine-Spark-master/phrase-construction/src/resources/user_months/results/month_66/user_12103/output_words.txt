@@ -1,0 +1,26 @@
+Topic 0:
+  bitcointalk:0.20
+  edited:0.20
+  thread:0.20
+
+Topic 1:
+  edited:0.20
+  bitcointalk:0.20
+  thread:0.20
+
+Topic 2:
+  bitcointalk:0.20
+  thread:0.20
+  edited:0.20
+
+Topic 3:
+  edited:0.20
+  thread:0.20
+  bitcointalk:0.20
+
+Topic 4:
+  thread:0.20
+  edited:0.20
+  bitcointalk:0.20
+
+K: 5, Log-Likelihood: -3.296, Alpha: 11.000, Beta: 1.100

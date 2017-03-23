@@ -1,0 +1,61 @@
+Topic 0:
+  market:4.17
+  donate:3.92
+  hell:3.89
+  orders:3.89
+  starts:3.89
+  godawful:3.89
+  making:3.89
+  business:3.89
+  bonds:3.89
+  start:3.89
+
+Topic 1:
+  spare:3.90
+  worth:3.90
+  great:3.90
+  order erowid:3.90
+  mentioning:3.90
+  org:3.90
+  coins:3.90
+  jc:2.19
+  promotion:1.82
+  gamesome:1.75
+
+Topic 2:
+  site:8.07
+  manifested:3.96
+  humble:3.96
+  grand:3.96
+  dedicated:3.96
+  order:3.96
+  projectile:3.96
+  layers:3.96
+  main:3.96
+  toss:3.96
+
+Topic 3:
+  send:8.02
+  donation:4.40
+  trips:3.95
+  deaths:3.95
+  glass:3.95
+  imagine:3.95
+  sized:3.95
+  psychedelic:3.95
+  erowid:3.95
+  prevented:3.95
+
+Topic 4:
+  site great future:4.80
+  start donation order:4.77
+  quote:3.81
+  pmgoing:3.81
+  spirit:3.80
+  rhettbutler:3.80
+  april:3.80
+  jc:2.78
+  gamesome:2.06
+  promotion:2.00
+
+K: 5, Log-Likelihood: -1878.081, Alpha: 11.000, Beta: 1.100

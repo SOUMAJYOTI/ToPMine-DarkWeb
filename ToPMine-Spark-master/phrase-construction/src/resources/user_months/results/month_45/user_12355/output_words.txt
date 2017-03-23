@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.40
+  fe:0.40
+  ostako:0.20
+  yli:0.20
+  mit:0.20
+  kauppoja:0.20
+  alla:0.20
+  markkinarako:0.20
+  tuotteista:0.20
+  tk:0.20
+
+Topic 1:
+  fe:0.40
+  ja:0.40
+  kalliimpaa:0.20
+  ll:0.20
+  varokaa:0.20
+  putkeen:0.20
+  tuotteista:0.20
+  evolla:0.20
+  negatiivista:0.20
+  kauppoja:0.20
+
+Topic 2:
+  fe:0.40
+  ja:0.40
+  tai:0.20
+  pahimmista:0.20
+  lk:0.20
+  evolla:0.20
+  edest:0.20
+  tuotteista:0.20
+  kalliistakin:0.20
+  kuten:0.20
+
+Topic 3:
+  ja:0.40
+  fe:0.40
+  mit:0.20
+  negatiivista:0.20
+  putkeen:0.20
+  varokaa:0.20
+  kymppi:0.20
+  kuten:0.20
+  ostako:0.20
+  koskaan:0.20
+
+Topic 4:
+  fe:0.40
+  ja:0.40
+  silkkitiell:0.20
+  edest:0.20
+  kalliimpaa:0.20
+  tk:0.20
+  alla:0.20
+  evolla:0.20
+  ll:0.20
+  kauppoja:0.20
+
+K: 5, Log-Likelihood: -90.584, Alpha: 11.000, Beta: 1.100

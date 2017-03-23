@@ -1,0 +1,61 @@
+Topic 0:
+  agora:7.72
+  wallet:7.30
+  quote:3.98
+  march:3.96
+  alberthoffman:3.42
+  coins:3.29
+  blockchain:3.24
+  agra:3.19
+  scidmt:2.67
+  transfered:2.61
+
+Topic 1:
+  wallet:7.58
+  agora:5.51
+  money:2.99
+  quote:2.81
+  dude:2.53
+  agra:2.08
+  sek:1.93
+  alberthoffman:1.91
+  swedish:1.83
+  scidmt:1.72
+
+Topic 2:
+  wallet:7.43
+  computer:6.63
+  working:6.49
+  support:4.05
+  read:3.37
+  swedish:3.33
+  money:3.14
+  guy:3.14
+  stolen:3.13
+  scammers:3.12
+
+Topic 3:
+  agora:7.89
+  reasons:3.24
+  claims:3.20
+  quote:2.15
+  wallets:2.05
+  friends:2.02
+  things:1.99
+  wallet:1.68
+  empy:1.58
+  se:1.54
+
+Topic 4:
+  coins:23.71
+  send:17.47
+  march:9.86
+  agra:8.09
+  mixer:7.67
+  internal:7.59
+  country:5.64
+  acid:5.55
+  intressted:5.52
+  pmquote:5.40
+
+K: 5, Log-Likelihood: -2703.024, Alpha: 11.000, Beta: 1.100

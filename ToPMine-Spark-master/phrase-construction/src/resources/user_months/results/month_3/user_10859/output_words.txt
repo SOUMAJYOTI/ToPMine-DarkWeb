@@ -1,0 +1,61 @@
+Topic 0:
+  tor:3.88
+  browser:3.52
+  running:1.08
+  box:1.06
+  firefox:0.82
+  en:0.78
+  profile:0.76
+  advice:0.61
+  hardware:0.59
+  middlebox:0.40
+
+Topic 1:
+  tor:5.22
+  browser:4.25
+  box:1.35
+  en:0.97
+  profile:0.96
+  running:0.94
+  hardware:0.69
+  firefox:0.54
+  random:0.46
+  patches:0.46
+
+Topic 2:
+  tor:4.40
+  browser:3.38
+  running:1.00
+  box:0.93
+  en:0.83
+  profile:0.83
+  firefox:0.83
+  hardware:0.61
+  advice:0.56
+  script:0.40
+
+Topic 3:
+  tor:4.33
+  browser:2.71
+  running:1.00
+  firefox:0.95
+  advice:0.85
+  box:0.82
+  en:0.66
+  profile:0.65
+  setup:0.58
+  secure:0.57
+
+Topic 4:
+  tor:5.17
+  browser:2.13
+  running:0.99
+  firefox:0.86
+  box:0.85
+  profile:0.80
+  en:0.77
+  advice:0.67
+  hardware:0.59
+  secure:0.45
+
+K: 5, Log-Likelihood: -739.485, Alpha: 11.000, Beta: 1.100

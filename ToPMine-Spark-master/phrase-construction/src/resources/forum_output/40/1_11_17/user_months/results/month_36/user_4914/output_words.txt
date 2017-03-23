@@ -1,0 +1,61 @@
+Topic 0:
+  heard:1.90
+  yeah:1.79
+  money:1.79
+  feedback:1.45
+  localbtc:1.36
+  phone:1.27
+  great:1.22
+  scam:1.06
+  hitting:1.05
+  blew:1.05
+
+Topic 1:
+  localbtc:3.56
+  phone:3.23
+  feedback:3.17
+  great:3.02
+  trader:1.75
+  heard:1.34
+  scam:1.27
+  big:1.11
+  thought:1.09
+  offering:1.08
+
+Topic 2:
+  great:5.08
+  feedback:4.60
+  phone:4.35
+  localbtc:4.17
+  trader:3.19
+  pro:1.36
+  scammed:1.35
+  person:1.31
+  text:1.31
+  initiated:1.30
+
+Topic 3:
+  cash:3.79
+  local:3.79
+  transaction:2.15
+  time:2.13
+  fees:2.11
+  info:1.80
+  pretty:1.80
+  liberty:1.80
+  pin:1.80
+  internet:1.80
+
+Topic 4:
+  phone:2.94
+  localbtc:2.71
+  feedback:2.56
+  great:2.48
+  trader:1.97
+  scam:1.41
+  heard:1.34
+  dont:1.25
+  fees:1.07
+  noticed:1.01
+
+K: 5, Log-Likelihood: -1474.020, Alpha: 11.000, Beta: 1.100

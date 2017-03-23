@@ -1,0 +1,61 @@
+Topic 0:
+  dark wallet:0.62
+  aha:0.55
+  leap:0.55
+  web:0.55
+  based:0.55
+  knew:0.55
+  faith:0.54
+  tab:0.54
+  wallet:0.53
+  coin mixing attributes anonimity:0.51
+
+Topic 1:
+  curious:0.92
+  working:0.92
+  opinion:0.91
+  shit:0.91
+  thought:0.91
+  insight:0.91
+  coming:0.90
+  community:0.90
+  alpha:0.90
+  hey:0.90
+
+Topic 2:
+  dark wallet:0.63
+  coin mixing attributes anonimity:0.61
+  lot big programmers follow:0.61
+  wallet built features:0.60
+  dark wallet basically bitcoin:0.59
+  learn glad caught reference:0.59
+  faith:0.52
+  web:0.52
+  tab:0.52
+  ideology working:0.52
+
+Topic 3:
+  dark wallet:0.55
+  wallet:0.53
+  wallet built features:0.51
+  dark wallet basically bitcoin:0.51
+  lot big programmers follow:0.51
+  learn glad caught reference:0.50
+  coin mixing attributes anonimity:0.50
+  glad:0.49
+  darkwallet:0.49
+  leap:0.48
+
+Topic 4:
+  tech concept knight faith:0.87
+  big interest:0.86
+  reality mindset schizophrenia psychosis:0.86
+  bitcoin:0.86
+  divine absurd:0.86
+  requires total willingness accept:0.85
+  wallet marketplace called dark:0.85
+  lot:0.85
+  market cool progress:0.84
+  ideology working:0.83
+
+K: 5, Log-Likelihood: -584.822, Alpha: 11.000, Beta: 1.100

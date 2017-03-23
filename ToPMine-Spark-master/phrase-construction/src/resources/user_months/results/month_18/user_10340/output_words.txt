@@ -1,0 +1,51 @@
+Topic 0:
+  alot:0.20
+  market:0.20
+  cloud:0.20
+  shop:0.20
+  markets:0.20
+  check:0.20
+  setting:0.20
+  andromeda:0.20
+
+Topic 1:
+  andromeda:0.20
+  markets:0.20
+  cloud:0.20
+  check:0.20
+  setting:0.20
+  alot:0.20
+  shop:0.20
+  market:0.20
+
+Topic 2:
+  setting:0.20
+  andromeda:0.20
+  market:0.20
+  check:0.20
+  shop:0.20
+  markets:0.20
+  cloud:0.20
+  alot:0.20
+
+Topic 3:
+  market:0.20
+  check:0.20
+  alot:0.20
+  setting:0.20
+  shop:0.20
+  markets:0.20
+  cloud:0.20
+  andromeda:0.20
+
+Topic 4:
+  shop:0.20
+  markets:0.20
+  cloud:0.20
+  alot:0.20
+  market:0.20
+  andromeda:0.20
+  check:0.20
+  setting:0.20
+
+K: 5, Log-Likelihood: -16.636, Alpha: 11.000, Beta: 1.100

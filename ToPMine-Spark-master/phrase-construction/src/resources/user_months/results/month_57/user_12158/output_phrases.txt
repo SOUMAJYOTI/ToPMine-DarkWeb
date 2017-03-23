@@ -1,0 +1,61 @@
+Topic 0:
+  issue:1.22
+  created wallet:1.21
+  lose:1.11
+  tails:0.97
+  save:0.96
+  key:0.74
+  pgp:0.72
+  luck:0.72
+  private:0.71
+  bitcoin:0.69
+
+Topic 1:
+  created wallet:0.78
+  issue:0.74
+  wallet:0.68
+  time:0.63
+  seed:0.63
+  lesson:0.59
+  lose:0.59
+  didnt:0.54
+  lot:0.54
+  save:0.47
+
+Topic 2:
+  bitcoin:1.81
+  luck:1.79
+  pgp:1.79
+  private:1.79
+  key:1.76
+  lose:1.48
+  tails:1.16
+  save:1.15
+  created wallet:1.08
+  issue:1.07
+
+Topic 3:
+  read:1.04
+  pretty:0.96
+  wallet:0.86
+  lesson:0.75
+  search:0.71
+  things:0.70
+  electrum:0.70
+  startpage:0.70
+  lost seed:0.70
+  electric:0.70
+
+Topic 4:
+  issue:0.87
+  wallet:0.83
+  created wallet:0.82
+  seed:0.63
+  lesson:0.56
+  time:0.55
+  lose:0.54
+  pretty:0.50
+  read:0.48
+  save:0.47
+
+K: 5, Log-Likelihood: -828.840, Alpha: 11.000, Beta: 1.100

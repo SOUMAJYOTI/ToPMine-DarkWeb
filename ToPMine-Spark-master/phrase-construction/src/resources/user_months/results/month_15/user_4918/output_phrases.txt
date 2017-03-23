@@ -1,0 +1,61 @@
+Topic 0:
+  people:12.22
+  paranoia:9.05
+  tmg:8.27
+  learned:4.51
+  making:4.51
+  testing chemicals:4.51
+  life happy:4.51
+  trees:4.51
+  reminded:4.51
+  markets:4.51
+
+Topic 1:
+  love:6.54
+  live avengers:6.31
+  care:5.97
+  tmg:5.58
+  lsd:5.35
+  members:5.30
+  wasn:5.26
+  payment:5.15
+  market:4.44
+  guys incredible:4.44
+
+Topic 2:
+  place:4.65
+  knowledge:4.50
+  garden lot:4.50
+  community thing:4.50
+  day:4.50
+  spent:4.50
+  virtual:4.50
+  sight:4.50
+  ecosystem:4.50
+  egomania:4.50
+
+Topic 3:
+  times melancholy years:10.41
+  led:9.01
+  majestic garden bigger:9.01
+  written thread:8.95
+  ve written thread:8.94
+  opinion birth globe movement:8.43
+  community marketplace tmg:8.43
+  easy pot darkweb difference:8.43
+  place alongside cannabis blue:8.43
+  led returning ubiquitous:8.43
+
+Topic 4:
+  quote cryptosporidium july:7.61
+  big:4.50
+  album:4.50
+  growing:4.50
+  cult:4.50
+  time dead:4.50
+  london:4.50
+  influence:4.50
+  switzerland:4.50
+  scene:4.50
+
+K: 5, Log-Likelihood: -9057.843, Alpha: 11.000, Beta: 1.100

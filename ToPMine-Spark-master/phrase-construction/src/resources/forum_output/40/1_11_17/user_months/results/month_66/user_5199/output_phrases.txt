@@ -1,0 +1,61 @@
+Topic 0:
+  november:6.02
+  contact:6.02
+  email:4.82
+  list tmg prices ago:4.44
+  email address trick dont:4.43
+  addresses:3.97
+  purpose:3.97
+  trade:3.97
+  hub:3.97
+  pmtmg:3.97
+
+Topic 1:
+  market evo:8.37
+  february:6.16
+  code:4.10
+  today:3.92
+  colors:3.92
+  didnt:3.92
+  amis:3.92
+  bother:3.92
+  evo code:3.92
+  open:3.92
+
+Topic 2:
+  locally:6.54
+  tmg:4.26
+  host:3.78
+  js:3.22
+  electrum:3.13
+  blotters:3.08
+  sign:2.29
+  verified:2.24
+  amhosting:2.24
+  boneskoopa:2.24
+
+Topic 3:
+  electron:8.03
+  sign transactions:5.00
+  coinb:4.54
+  requires:3.96
+  managed:3.96
+  javascript:3.96
+  set:3.96
+  support:3.96
+  work:3.96
+  ls:3.96
+
+Topic 4:
+  order:8.06
+  complicated:3.98
+  multisig:3.98
+  excrow:3.98
+  bit:3.98
+  haha:3.98
+  mind:3.98
+  medium:3.98
+  sized:3.98
+  coins:3.98
+
+K: 5, Log-Likelihood: -2476.692, Alpha: 11.000, Beta: 1.100

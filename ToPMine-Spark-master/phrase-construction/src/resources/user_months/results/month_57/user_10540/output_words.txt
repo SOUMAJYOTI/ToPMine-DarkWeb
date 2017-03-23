@@ -1,0 +1,61 @@
+Topic 0:
+  privacy:12.07
+  surveillance:7.61
+  data:4.46
+  control:3.68
+  rules:3.48
+  goals:3.02
+  subject:2.29
+  individual:2.26
+  personal:2.26
+  organization:2.20
+
+Topic 1:
+  surveillance:21.49
+  privacy:14.26
+  goals:7.04
+  individuals:4.85
+  organization:4.33
+  rules:4.14
+  social:3.93
+  control:3.88
+  personal:3.38
+  goal:3.23
+
+Topic 2:
+  surveillance:69.66
+  privacy:32.72
+  goals:17.42
+  data:15.77
+  social:10.69
+  control:10.35
+  individuals:9.02
+  forms:7.29
+  individual:7.01
+  rules:6.07
+
+Topic 3:
+  surveillance:7.39
+  privacy:4.06
+  data:3.04
+  social:2.31
+  goals:1.80
+  individuals:1.63
+  control:1.44
+  groups:1.23
+  agent:1.21
+  group:1.12
+
+Topic 4:
+  surveillance:8.84
+  privacy:4.89
+  data:4.85
+  control:3.65
+  individuals:3.05
+  groups:1.85
+  organization:1.84
+  goals:1.72
+  goal:1.70
+  publicity:1.66
+
+K: 5, Log-Likelihood: -17763.167, Alpha: 11.000, Beta: 1.100

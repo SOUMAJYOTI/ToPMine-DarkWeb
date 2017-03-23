@@ -1,0 +1,61 @@
+Topic 0:
+  nucleus:3.00
+  aright:1.88
+  karmasyndicates:1.88
+  boost:1.88
+  shop:1.88
+  mdma:1.88
+  grams:1.88
+  packages:1.88
+  glad:1.88
+  currency:1.88
+
+Topic 1:
+  free:3.54
+  march:2.87
+  post:2.86
+  real:2.86
+  ol ol:2.86
+  trust nucleus:2.86
+  left:2.86
+  huff:2.86
+  wade:2.86
+  place:2.23
+
+Topic 2:
+  devils:3.71
+  trolly:3.70
+  angeleyes:3.32
+  poor:1.78
+  style:1.78
+  pops:1.78
+  lot:1.78
+  fucker:1.78
+  kiss:1.77
+  lmfao:1.77
+
+Topic 3:
+  vendors:4.89
+  escrow:3.82
+  dont:3.82
+  transactions:3.82
+  market:3.82
+  marketplace:3.82
+  marketplaces:3.08
+  testing:2.37
+  coin:2.35
+  good:1.97
+
+Topic 4:
+  key:5.76
+  vendor:5.10
+  pgp:3.82
+  set:2.62
+  quote:2.28
+  vend:2.28
+  account:2.17
+  site:2.17
+  cautious:1.88
+  decrypt:1.88
+
+K: 5, Log-Likelihood: -1635.340, Alpha: 11.000, Beta: 1.100

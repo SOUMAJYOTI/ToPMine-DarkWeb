@@ -1,0 +1,61 @@
+Topic 0:
+  withdrawals:4.38
+  money:2.87
+  month:2.87
+  disabled:2.87
+  worthwhile:1.38
+  pandora problems:1.38
+  pm:1.38
+  kwikeemart:1.38
+  posted:1.38
+  change:1.38
+
+Topic 1:
+  discussion:1.20
+  hacked:1.19
+  heard:1.19
+  crazy:1.19
+  guys:1.19
+  posts:1.19
+  plenty:1.19
+  sr:1.19
+  rundown:1.19
+  sucks:1.19
+
+Topic 2:
+  alice:0.97
+  issues:0.86
+  nice:0.86
+  months:0.86
+  hub warning:0.86
+  warn:0.85
+  link:0.85
+  noobs:0.85
+  pothead:0.74
+  mods:0.72
+
+Topic 3:
+  pandora issues:1.03
+  site days:0.89
+  dont:0.89
+  missing:0.89
+  forum:0.88
+  isthe:0.88
+  mods:0.87
+  community:0.84
+  alice:0.82
+  pothead:0.81
+
+Topic 4:
+  continue:2.87
+  darknet:2.87
+  days:2.87
+  journey:2.87
+  supporteu:2.87
+  open:2.87
+  openmarket:2.87
+  support:2.87
+  experience:2.87
+  backs:1.37
+
+K: 5, Log-Likelihood: -1561.651, Alpha: 11.000, Beta: 1.100

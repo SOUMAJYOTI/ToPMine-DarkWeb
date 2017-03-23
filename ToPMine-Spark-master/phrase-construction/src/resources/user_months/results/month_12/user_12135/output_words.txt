@@ -1,0 +1,61 @@
+Topic 0:
+  service:0.42
+  delays:0.21
+  moved:0.21
+  fucking:0.21
+  host:0.21
+  morelike:0.21
+  april:0.21
+  link:0.21
+  servers:0.21
+  long:0.21
+
+Topic 1:
+  service:0.38
+  extra:0.21
+  armory:0.21
+  protection:0.21
+  wallets:0.21
+  addys:0.21
+  thought:0.21
+  love:0.21
+  cold:0.21
+  send:0.21
+
+Topic 2:
+  service:0.41
+  terpbitblender:0.21
+  started:0.21
+  april:0.21
+  delays:0.21
+  bitblender:0.21
+  autowithdrawal:0.21
+  link:0.21
+  terpene:0.21
+  bitcoinfog:0.21
+
+Topic 3:
+  service:0.40
+  speed:0.20
+  fog:0.20
+  ive:0.20
+  times:0.20
+  blender:0.20
+  bit:0.20
+  couple:0.20
+  impressed:0.20
+  ease:0.20
+
+Topic 4:
+  service:0.39
+  electrum:0.20
+  personally:0.20
+  unlimited:0.20
+  btc:0.20
+  store:0.20
+  storage:0.20
+  addys:0.20
+  encrypt:0.20
+  worth:0.20
+
+K: 5, Log-Likelihood: -244.295, Alpha: 11.000, Beta: 1.100

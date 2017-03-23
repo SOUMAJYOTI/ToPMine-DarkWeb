@@ -1,0 +1,61 @@
+Topic 0:
+  whyusheep:4.99
+  quote:4.10
+  notorious:3.05
+  registers:3.05
+  hack:3.04
+  list vendors:3.04
+  reddit troll:3.04
+  ted:3.04
+  buyer:3.04
+  phlegm:3.04
+
+Topic 1:
+  missing:4.21
+  time:4.21
+  server:4.21
+  issue:3.38
+  site:2.25
+  people:2.24
+  service:2.08
+  existed:2.08
+  case:2.08
+  money:2.08
+
+Topic 2:
+  fog:4.21
+  issues:4.21
+  attacks:3.37
+  ddos:2.87
+  day:2.44
+  days:2.20
+  gubmint:2.07
+  loading:2.07
+  aware:2.07
+  pure:2.07
+
+Topic 3:
+  traffic:4.66
+  dark:4.05
+  sites:4.05
+  log:2.97
+  problems:2.95
+  agora attack:2.95
+  dont attack:2.94
+  users:2.93
+  intermittently:2.93
+  guess:2.92
+
+Topic 4:
+  list:3.54
+  addresses:3.45
+  hours:3.36
+  user:3.34
+  pay:3.34
+  plain:3.34
+  ofall:3.34
+  close:3.34
+  ahcked:3.34
+  buyersthat:3.34
+
+K: 5, Log-Likelihood: -2684.400, Alpha: 11.000, Beta: 1.100

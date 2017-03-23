@@ -1,0 +1,61 @@
+Topic 0:
+  good:0.93
+  fish:0.57
+  fed:0.56
+  read:0.56
+  man:0.56
+  security:0.43
+  forums:0.39
+  computer:0.39
+  lot:0.39
+  english:0.26
+
+Topic 1:
+  security:0.90
+  agora:0.88
+  pretty:0.87
+  good:0.60
+  computer:0.42
+  lot:0.42
+  forums:0.42
+  technical:0.37
+  smarts:0.37
+  threads:0.37
+
+Topic 2:
+  good:0.86
+  security:0.49
+  read:0.46
+  fish:0.45
+  man:0.45
+  fed:0.45
+  computer:0.40
+  lot:0.40
+  forums:0.40
+  mistakes:0.23
+
+Topic 3:
+  good:0.92
+  man:0.69
+  fed:0.69
+  fish:0.68
+  read:0.68
+  security:0.38
+  forums:0.37
+  lot:0.37
+  computer:0.37
+  find:0.30
+
+Topic 4:
+  security:0.80
+  good:0.69
+  pretty:0.63
+  agora:0.63
+  forums:0.42
+  lot:0.42
+  computer:0.42
+  heavy:0.29
+  required:0.29
+  experience:0.29
+
+K: 5, Log-Likelihood: -422.760, Alpha: 11.000, Beta: 1.100

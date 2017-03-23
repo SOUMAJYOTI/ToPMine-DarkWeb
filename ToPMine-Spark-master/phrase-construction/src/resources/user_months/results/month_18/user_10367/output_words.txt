@@ -1,0 +1,61 @@
+Topic 0:
+  agora:1.75
+  drugs:1.74
+  buy:1.63
+  downtime:1.40
+  day:1.39
+  evolution:1.35
+  cloud:1.24
+  days:1.20
+  rc:1.02
+  people:0.95
+
+Topic 1:
+  onion:5.14
+  article:5.02
+  tor:4.97
+  august:4.65
+  red:3.35
+  ago:3.33
+  talking:3.31
+  remember:3.28
+  pmquote:2.46
+  months:2.34
+
+Topic 2:
+  august:3.28
+  quote:2.39
+  market:1.99
+  evilgrin:1.98
+  drugs:1.78
+  buy:1.77
+  day:1.47
+  pretty:1.39
+  ill:1.36
+  users:1.34
+
+Topic 3:
+  agora:8.92
+  sr:8.61
+  markets:3.38
+  business:3.33
+  leaving:2.74
+  vendors:2.70
+  performance:2.70
+  mind:2.37
+  realize:2.37
+  ddosing:2.37
+
+Topic 4:
+  buy:2.09
+  drugs:1.99
+  agora:1.64
+  quote:1.54
+  day:1.30
+  evilgrin:1.27
+  evolution:1.26
+  days:1.11
+  cloud:1.11
+  concerned:1.06
+
+K: 5, Log-Likelihood: -2418.076, Alpha: 11.000, Beta: 1.100

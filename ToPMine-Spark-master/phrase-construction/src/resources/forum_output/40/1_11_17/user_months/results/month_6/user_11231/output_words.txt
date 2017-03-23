@@ -1,0 +1,61 @@
+Topic 0:
+  february:6.30
+  quote:6.03
+  deepdotweb:3.75
+  site:2.56
+  story:1.72
+  dont:1.61
+  police:1.37
+  hours:1.27
+  fast:1.25
+  info:1.20
+
+Topic 1:
+  people:3.92
+  february:2.97
+  good:2.91
+  day:2.30
+  war:1.94
+  ross:1.94
+  result:1.94
+  pm:1.63
+  website:1.58
+  sr:1.53
+
+Topic 2:
+  sr:8.29
+  marketplace:3.94
+  ship:3.25
+  quote:3.16
+  le:2.77
+  people:2.22
+  support:2.10
+  btc:2.03
+  advice:1.94
+  obvious:1.94
+
+Topic 3:
+  quote:5.38
+  site:4.62
+  february:4.32
+  didnt:3.10
+  fast:2.86
+  chance:2.29
+  deepdotweb:1.71
+  day:1.65
+  dont:1.35
+  place:1.29
+
+Topic 4:
+  dutch:8.53
+  market:4.78
+  police:4.06
+  prosecution:3.57
+  year:2.93
+  arrested:2.93
+  involved:2.75
+  document:2.31
+  public:2.31
+  article:2.26
+
+K: 5, Log-Likelihood: -3594.444, Alpha: 11.000, Beta: 1.100

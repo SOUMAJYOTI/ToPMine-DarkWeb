@@ -1,0 +1,61 @@
+Topic 0:
+  link:1.71
+  side:0.83
+  stay:0.83
+  info:0.81
+  forum:0.81
+  active:0.80
+  happen:0.79
+  missed:0.79
+  things:0.78
+  safe:0.78
+
+Topic 1:
+  link:1.52
+  free:0.86
+  forum:0.83
+  kingdom:0.82
+  side:0.81
+  safe:0.80
+  happen:0.80
+  active:0.80
+  stay:0.79
+  happening:0.78
+
+Topic 2:
+  link:1.54
+  happen:0.83
+  things:0.83
+  active:0.83
+  happening:0.82
+  kingdom:0.81
+  free:0.81
+  stay:0.81
+  forum:0.80
+  safe:0.80
+
+Topic 3:
+  link:1.65
+  missed:0.85
+  safe:0.83
+  happening:0.83
+  kingdom:0.81
+  side:0.80
+  info:0.80
+  stay:0.80
+  things:0.78
+  happen:0.78
+
+Topic 4:
+  link:1.59
+  things:0.83
+  happening:0.82
+  info:0.82
+  missed:0.81
+  happen:0.80
+  active:0.80
+  forum:0.79
+  safe:0.79
+  stay:0.78
+
+K: 5, Log-Likelihood: -253.141, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  op:3.78
+  scammers:2.43
+  place feel:2.30
+  link anarcho:2.30
+  posted:2.30
+  thinking:2.30
+  thread sr:2.30
+  easier:2.30
+  direct:2.30
+  free:2.30
+
+Topic 1:
+  scam thread:4.68
+  signature:4.68
+  pgp:4.68
+  market:4.68
+  pirate:4.68
+  sr:4.61
+  thread:4.10
+  banned:2.75
+  avoid:2.44
+  check:2.42
+
+Topic 2:
+  road:7.71
+  blue sky:7.35
+  scam:7.07
+  scammer:5.77
+  good:4.93
+  add:3.82
+  wait:3.82
+  elaborate:3.82
+  popular:3.82
+  works:3.82
+
+Topic 3:
+  keeping:7.66
+  asked:4.66
+  post:4.66
+  escrow:4.63
+  order:4.33
+  eyes:3.72
+  pans:3.72
+  popped:3.72
+  whitedreams:3.72
+  ears:3.72
+
+Topic 4:
+  key:9.64
+  supplyshack:5.96
+  list:4.76
+  toocoolforschool:4.68
+  handle:4.68
+  bluesky:2.33
+  starting:2.33
+  xmas:2.33
+  deserve:2.33
+  sss:2.33
+
+K: 5, Log-Likelihood: -5097.080, Alpha: 11.000, Beta: 1.100

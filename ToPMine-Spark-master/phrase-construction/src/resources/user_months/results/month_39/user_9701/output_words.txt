@@ -1,0 +1,61 @@
+Topic 0:
+  websites:0.83
+  visit:0.82
+  darknet:0.76
+  turned:0.76
+  led:0.70
+  vendors:0.59
+  great:0.46
+  stay:0.46
+  hahaha:0.46
+  days:0.46
+
+Topic 1:
+  turned:1.25
+  visit:1.00
+  websites:0.99
+  led:0.87
+  vendors:0.59
+  kinds:0.57
+  solely:0.57
+  ago:0.57
+  nature:0.57
+  decided:0.57
+
+Topic 2:
+  vendors:1.23
+  led:0.90
+  darknet:0.88
+  visit:0.74
+  websites:0.71
+  turned:0.65
+  reviews:0.53
+  active:0.53
+  place:0.53
+  brightest:0.53
+
+Topic 3:
+  darknet:1.18
+  vendors:0.90
+  led:0.68
+  stumbled:0.60
+  visit:0.60
+  question:0.60
+  humanity:0.60
+  internet:0.60
+  cry:0.60
+  step:0.59
+
+Topic 4:
+  turned:0.90
+  websites:0.88
+  led:0.85
+  visit:0.84
+  darknet:0.70
+  vendors:0.69
+  jazz:0.45
+  search:0.45
+  wanted:0.45
+  friendly:0.45
+
+K: 5, Log-Likelihood: -496.768, Alpha: 11.000, Beta: 1.100

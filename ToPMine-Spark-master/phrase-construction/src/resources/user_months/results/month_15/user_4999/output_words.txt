@@ -1,0 +1,61 @@
+Topic 0:
+  addresses:19.16
+  wallet:13.31
+  blockchain:12.04
+  adversary:9.93
+  address:9.34
+  coins:9.16
+  analysis:8.94
+  local:7.65
+  face:6.71
+  bitcoins:5.69
+
+Topic 1:
+  blockchain:17.61
+  tor:13.58
+  account:13.33
+  address:10.72
+  email:10.03
+  coinbase:9.00
+  bitcoins:8.02
+  tumble:7.65
+  bitcoinfog:7.05
+  bitcoin:6.36
+
+Topic 2:
+  tor:14.69
+  blockchain:14.28
+  vendor:8.89
+  coins:6.34
+  tumble:5.77
+  wallet:5.07
+  address:4.75
+  darknet:4.64
+  browser:4.36
+  access:4.14
+
+Topic 3:
+  coins:32.43
+  send:21.49
+  regular:20.68
+  browser:17.76
+  electrum:15.35
+  wallet:14.94
+  local:9.95
+  coinbase:9.77
+  tumbling:9.20
+  bitcoinfog:8.51
+
+Topic 4:
+  vendor:23.33
+  activities:16.85
+  address:14.78
+  darknet:14.00
+  tor:13.43
+  guess:13.05
+  bitcoin:12.50
+  provide:12.08
+  diligence:11.77
+  wouldn:8.44
+
+K: 5, Log-Likelihood: -8292.364, Alpha: 11.000, Beta: 1.100

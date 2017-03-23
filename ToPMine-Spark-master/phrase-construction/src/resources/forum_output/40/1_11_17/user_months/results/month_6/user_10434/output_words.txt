@@ -1,0 +1,61 @@
+Topic 0:
+  weed:0.40
+  bud:0.20
+  africas:0.20
+  leave:0.20
+  comments:0.20
+  bringing:0.20
+  find:0.20
+  love:0.20
+  agra:0.20
+  stickiest:0.20
+
+Topic 1:
+  weed:0.40
+  free:0.20
+  africas:0.20
+  finest:0.20
+  leave:0.20
+  find:0.20
+  manna:0.20
+  evolution:0.20
+  stickiest:0.20
+  bringing:0.20
+
+Topic 2:
+  weed:0.40
+  bud:0.20
+  evolution:0.20
+  bringing:0.20
+  stickiest:0.20
+  free:0.20
+  pretty:0.20
+  love:0.20
+  find:0.20
+  finest:0.20
+
+Topic 3:
+  weed:0.40
+  manna:0.20
+  cool:0.20
+  leave:0.20
+  finest:0.20
+  agra:0.20
+  find:0.20
+  comments:0.20
+  pretty:0.20
+  stickiest:0.20
+
+Topic 4:
+  weed:0.40
+  cool:0.20
+  pretty:0.20
+  agra:0.20
+  evolution:0.20
+  love:0.20
+  bud:0.20
+  finest:0.20
+  comments:0.20
+  africas:0.20
+
+K: 5, Log-Likelihood: -46.806, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  opened:0.60
+  ordering:0.42
+  luck:0.42
+  good:0.41
+  arriving:0.40
+  drugs:0.39
+  stay:0.39
+  things:0.39
+  continue:0.39
+  safe:0.39
+
+Topic 1:
+  opened:0.53
+  continue:0.46
+  drugs:0.46
+  things:0.46
+  stay:0.45
+  safe:0.45
+  good:0.42
+  arriving:0.42
+  luck:0.41
+  ordering:0.41
+
+Topic 2:
+  opened:0.56
+  safe:0.42
+  drugs:0.41
+  stay:0.41
+  continue:0.41
+  things:0.41
+  good:0.41
+  arriving:0.41
+  luck:0.40
+  ordering:0.40
+
+Topic 3:
+  opened:0.50
+  things:0.48
+  stay:0.47
+  safe:0.47
+  drugs:0.47
+  continue:0.47
+  arriving:0.42
+  ordering:0.42
+  good:0.42
+  luck:0.42
+
+Topic 4:
+  opened:0.81
+  week:0.63
+  half:0.54
+  arriving:0.35
+  luck:0.35
+  good:0.35
+  ordering:0.35
+  safe:0.27
+  continue:0.27
+  drugs:0.27
+
+K: 5, Log-Likelihood: -364.496, Alpha: 11.000, Beta: 1.100

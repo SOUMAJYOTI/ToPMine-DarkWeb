@@ -1,0 +1,61 @@
+Topic 0:
+  abraxas:1.63
+  vendors:0.94
+  setting:0.45
+  smooth:0.44
+  amount:0.44
+  check:0.44
+  shop:0.44
+  influx:0.44
+  weeks:0.44
+  traffic:0.44
+
+Topic 1:
+  abraxas:1.70
+  vendors:0.73
+  market:0.41
+  markets:0.41
+  business:0.41
+  solid:0.41
+  disappointed:0.41
+  picks:0.41
+  agora:0.40
+  big:0.40
+
+Topic 2:
+  abraxas:1.46
+  vendors:0.84
+  good:0.41
+  traffic:0.41
+  amount:0.41
+  couple:0.41
+  messages:0.40
+  shop:0.40
+  verify:0.40
+  shit:0.40
+
+Topic 3:
+  abraxas:1.61
+  vendors:0.62
+  market:0.47
+  picks:0.47
+  markets:0.47
+  solid:0.47
+  business:0.47
+  agora:0.47
+  disappointed:0.47
+  big:0.47
+
+Topic 4:
+  abraxas:1.60
+  vendors:0.88
+  weeks:0.43
+  fucking:0.43
+  influx:0.43
+  week:0.43
+  shit:0.43
+  check:0.43
+  couple:0.43
+  smooth:0.43
+
+K: 5, Log-Likelihood: -327.024, Alpha: 11.000, Beta: 1.100

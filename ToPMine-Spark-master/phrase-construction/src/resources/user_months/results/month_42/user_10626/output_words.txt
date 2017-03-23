@@ -1,0 +1,61 @@
+Topic 0:
+  nucleus:1.85
+  vendor:1.50
+  set:0.88
+  key:0.77
+  ag:0.74
+  nice:0.61
+  quote:0.61
+  vendors:0.61
+  pgp:0.50
+  site:0.48
+
+Topic 1:
+  ol:2.03
+  trust:1.93
+  vendor:1.44
+  nucleus:1.34
+  pops:1.30
+  post:0.83
+  left:0.82
+  real:0.82
+  wade:0.82
+  huff:0.81
+
+Topic 2:
+  nucleus:1.57
+  vendor:1.39
+  trust:0.89
+  ol:0.85
+  set:0.82
+  nice:0.71
+  vendors:0.69
+  pops:0.64
+  quote:0.59
+  angeleyes:0.49
+
+Topic 3:
+  vendors:4.95
+  marketplaces:2.25
+  nucleus:2.05
+  dont:1.76
+  market:1.76
+  transactions:1.76
+  marketplace:1.76
+  escrow:1.76
+  ag:1.28
+  popular:1.11
+
+Topic 4:
+  vendor:2.48
+  key:1.42
+  set:1.32
+  nucleus:1.19
+  pgp:0.88
+  quote:0.85
+  nice:0.80
+  vend:0.71
+  account:0.70
+  site:0.69
+
+K: 5, Log-Likelihood: -1058.533, Alpha: 11.000, Beta: 1.100

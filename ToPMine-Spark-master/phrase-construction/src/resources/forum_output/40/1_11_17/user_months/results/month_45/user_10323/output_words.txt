@@ -1,0 +1,61 @@
+Topic 0:
+  worth:20.90
+  bitcoin:20.13
+  btc:15.89
+  ltc:12.91
+  bitcoins:9.84
+  money:9.82
+  litecoin:9.81
+  dont:8.61
+  pmquote:8.53
+  currency:7.82
+
+Topic 1:
+  quote:16.01
+  april:11.91
+  version:9.86
+  relays:6.97
+  hidden:6.77
+  release:6.76
+  clearnet:6.47
+  beta:5.87
+  image:5.81
+  download:5.73
+
+Topic 2:
+  bug:108.99
+  tor:42.54
+  browser:21.82
+  disable:15.79
+  security:15.58
+  circuit:15.46
+  update:15.05
+  default:12.36
+  windows:11.99
+  users:10.39
+
+Topic 3:
+  tor:17.89
+  security:5.83
+  good:5.63
+  things:5.47
+  lot:5.01
+  traffic:4.99
+  js:4.95
+  dont:4.83
+  people:4.83
+  pretty:4.38
+
+Topic 4:
+  truecrypt:11.89
+  april:11.57
+  google:10.15
+  audit:8.95
+  software:8.01
+  vixty:6.23
+  phase:5.96
+  quote:5.20
+  forks:4.94
+  full:4.86
+
+K: 5, Log-Likelihood: -17107.059, Alpha: 11.000, Beta: 1.100

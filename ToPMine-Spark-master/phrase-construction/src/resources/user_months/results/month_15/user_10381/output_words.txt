@@ -1,0 +1,61 @@
+Topic 0:
+  forum:1.53
+  market:0.63
+  markets:0.54
+  luck:0.42
+  hub:0.41
+  day:0.40
+  agora:0.39
+  ddosed:0.20
+  inaccessible:0.20
+  unusual:0.20
+
+Topic 1:
+  forum:1.47
+  market:0.61
+  markets:0.53
+  day:0.43
+  hub:0.43
+  luck:0.40
+  agora:0.37
+  check:0.21
+  late:0.21
+  friends:0.21
+
+Topic 2:
+  forum:1.34
+  markets:0.65
+  market:0.59
+  agora:0.42
+  luck:0.39
+  day:0.38
+  hub:0.38
+  pandora:0.21
+  values:0.21
+  differences:0.21
+
+Topic 3:
+  forum:1.28
+  markets:0.62
+  market:0.59
+  agora:0.40
+  hub:0.40
+  day:0.40
+  luck:0.40
+  price:0.21
+  save:0.20
+  pandora:0.20
+
+Topic 4:
+  forum:1.38
+  markets:0.65
+  market:0.58
+  agora:0.42
+  luck:0.39
+  hub:0.38
+  day:0.38
+  logged:0.21
+  gap:0.21
+  mentioning:0.21
+
+K: 5, Log-Likelihood: -314.907, Alpha: 11.000, Beta: 1.100

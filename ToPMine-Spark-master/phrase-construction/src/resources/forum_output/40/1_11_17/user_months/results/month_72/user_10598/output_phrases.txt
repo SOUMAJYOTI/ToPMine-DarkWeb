@@ -1,0 +1,61 @@
+Topic 0:
+  learn:5.02
+  loss:4.86
+  hacked:4.86
+  security:4.86
+  multi sig:4.64
+  mufti sig:3.93
+  hansa:3.84
+  hans:3.74
+  fa:2.76
+  half:2.70
+
+Topic 1:
+  multisig:10.08
+  set:8.47
+  redeemscript:6.25
+  dont:4.86
+  ill:4.86
+  buyer vendor:4.86
+  party:4.86
+  btc:4.86
+  wallets:4.73
+  vendor:3.90
+
+Topic 2:
+  video:4.85
+  showing:4.85
+  find:3.84
+  start:3.84
+  tho:3.84
+  side:3.78
+  finalize:3.78
+  link:3.62
+  buyer:3.45
+  multisig wallet:3.26
+
+Topic 3:
+  safe:4.81
+  buyers:2.68
+  hansa:2.63
+  listings:2.47
+  place:2.38
+  dam:2.38
+  experience:2.38
+  types:2.38
+  parent:2.38
+  slept:2.38
+
+Topic 4:
+  escrow:5.41
+  walkthrough:4.80
+  step:4.80
+  listen:4.02
+  vendor:3.68
+  news:3.67
+  leave:3.55
+  stay:3.50
+  guys:3.33
+  hansa access funds:2.93
+
+K: 5, Log-Likelihood: -6488.230, Alpha: 11.000, Beta: 1.100

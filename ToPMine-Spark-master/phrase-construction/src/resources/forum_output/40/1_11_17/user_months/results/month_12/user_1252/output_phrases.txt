@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:3.46
+  escrow:2.22
+  takes:2.10
+  forums:2.05
+  waiting:2.00
+  scammers:1.67
+  called:1.67
+  feing:1.67
+  lattitude:1.67
+  sr:1.67
+
+Topic 1:
+  messages:2.18
+  meerkovo:1.78
+  dividends:1.68
+  moderators:1.68
+  march:1.68
+  unanswered:1.68
+  pay:1.68
+  amsent:1.68
+  issues:1.68
+  forums market:1.68
+
+Topic 2:
+  market:3.56
+  admins reply:2.53
+  ddos:2.53
+  deal:2.53
+  suspect:2.53
+  honestly:2.53
+  attacks:2.53
+  mode:2.53
+  slow:2.53
+  profile:2.53
+
+Topic 3:
+  hours:3.79
+  answered:3.47
+  posts:2.25
+  time:2.09
+  question:1.68
+  individual:1.68
+  operates:1.68
+  pms:1.68
+  ticket:1.68
+  forum:1.68
+
+Topic 4:
+  markets response:1.69
+  messaged:1.68
+  fairness:1.67
+  agra support:1.66
+  blocked:1.17
+  days:1.17
+  site:1.17
+  send:1.17
+  reason:1.17
+  refuses:1.17
+
+K: 5, Log-Likelihood: -1118.010, Alpha: 11.000, Beta: 1.100

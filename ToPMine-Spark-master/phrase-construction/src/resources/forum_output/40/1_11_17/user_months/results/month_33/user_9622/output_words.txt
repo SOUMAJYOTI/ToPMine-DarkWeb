@@ -1,0 +1,61 @@
+Topic 0:
+  life:31.07
+  souls:21.44
+  lives:13.88
+  soul:13.87
+  time:12.23
+  names:12.19
+  god:12.12
+  person:9.34
+  love:9.28
+  men:7.93
+
+Topic 1:
+  people:9.42
+  special:7.76
+  question:6.99
+  created:5.98
+  souls:5.10
+  beliefs:3.94
+  reality:3.94
+  soul:3.56
+  internet:3.30
+  minds:3.18
+
+Topic 2:
+  soul:11.80
+  seena:11.16
+  answer:9.64
+  quote:6.78
+  january:6.76
+  college:5.93
+  people:4.36
+  ideas:4.27
+  kids:3.89
+  age:3.89
+
+Topic 3:
+  people:12.22
+  talk:8.23
+  real:7.77
+  souls:7.53
+  death:7.13
+  time:5.87
+  god:5.74
+  ideas:5.58
+  person:5.50
+  love:4.45
+
+Topic 4:
+  people:10.24
+  souls:10.17
+  royalty:8.81
+  simply:7.96
+  serving:7.96
+  vanity:7.96
+  years:7.73
+  remembered:7.55
+  common:6.02
+  service:5.97
+
+K: 5, Log-Likelihood: -8695.453, Alpha: 11.000, Beta: 1.100

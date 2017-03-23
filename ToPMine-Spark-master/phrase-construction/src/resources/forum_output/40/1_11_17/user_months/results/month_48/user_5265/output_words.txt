@@ -1,0 +1,61 @@
+Topic 0:
+  avengers:0.81
+  love:0.80
+  prefer:0.45
+  netherlands:0.45
+  profile:0.45
+  oz:0.45
+  grams:0.45
+  powder:0.45
+  agora:0.44
+  worldwideagora:0.44
+
+Topic 1:
+  message:0.49
+  destructive:0.49
+  access:0.49
+  attach:0.49
+  permissions:0.49
+  server:0.49
+  posts:0.49
+  images:0.49
+  attachments:0.49
+  error:0.49
+
+Topic 2:
+  avengers:0.72
+  love:0.70
+  cubensis:0.44
+  powder:0.44
+  agora:0.44
+  worldwideagora:0.44
+  grams:0.43
+  netherlands:0.43
+  prefer:0.43
+  selling:0.43
+
+Topic 3:
+  love:0.57
+  avengers:0.53
+  post:0.43
+  profile:0.40
+  server:0.40
+  unload:0.40
+  access:0.40
+  agora:0.40
+  posts:0.40
+  attachments:0.40
+
+Topic 4:
+  avengers:0.51
+  love:0.51
+  path:0.42
+  attachments:0.42
+  unload:0.42
+  images:0.41
+  destructive:0.41
+  file:0.41
+  permissions:0.41
+  posts:0.41
+
+K: 5, Log-Likelihood: -237.453, Alpha: 11.000, Beta: 1.100

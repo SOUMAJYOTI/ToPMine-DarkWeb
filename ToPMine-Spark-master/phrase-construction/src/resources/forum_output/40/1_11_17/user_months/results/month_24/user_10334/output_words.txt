@@ -1,0 +1,61 @@
+Topic 0:
+  bit:18.93
+  random:12.55
+  entropy:7.98
+  passphrase:7.98
+  attacker:5.70
+  sha:5.15
+  password:5.01
+  cost:4.98
+  bits:4.98
+  characters:3.98
+
+Topic 1:
+  message:2.03
+  os:1.03
+  ta:1.00
+  dsehyfomestc:0.98
+  shb:0.98
+  mjv:0.98
+  elr:0.98
+  tua:0.98
+  caxxznzupgligbedwgwfqbleiozjrj:0.98
+  xg:0.98
+
+Topic 2:
+  market:6.04
+  hacked:4.88
+  place:4.77
+  password:4.25
+  pw:4.14
+  shoulders:3.93
+  shrug:3.93
+  hacker:3.91
+  ship:3.74
+  manager:3.64
+
+Topic 3:
+  onionshop:7.47
+  vendors:5.33
+  btc:4.98
+  access:4.82
+  vulnerability:4.65
+  orders:4.27
+  contact:3.98
+  security:3.25
+  code:3.20
+  place:3.15
+
+Topic 4:
+  man:5.87
+  passwords:4.62
+  young:2.90
+  august:2.90
+  simple:2.86
+  furries:2.85
+  imaginations:2.85
+  stored:2.85
+  gray:2.85
+  ears:2.85
+
+K: 5, Log-Likelihood: -7238.510, Alpha: 11.000, Beta: 1.100

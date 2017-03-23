@@ -1,0 +1,61 @@
+Topic 0:
+  documents:0.00
+  hotline:0.00
+  safer:0.00
+  pattern:0.00
+  questions:0.00
+  fit:0.00
+  number:0.00
+  ways:0.00
+  blocked:0.00
+  flagged:0.00
+
+Topic 1:
+  documents:0.00
+  hotline:0.00
+  safer:0.00
+  pattern:0.00
+  questions:0.00
+  fit:0.00
+  number:0.00
+  ways:0.00
+  blocked:0.00
+  flagged:0.00
+
+Topic 2:
+  documents:0.00
+  hotline:0.00
+  safer:0.00
+  pattern:0.00
+  questions:0.00
+  fit:0.00
+  number:0.00
+  ways:0.00
+  blocked:0.00
+  flagged:0.00
+
+Topic 3:
+  documents:0.00
+  hotline:0.00
+  safer:0.00
+  pattern:0.00
+  questions:0.00
+  fit:0.00
+  number:0.00
+  ways:0.00
+  blocked:0.00
+  flagged:0.00
+
+Topic 4:
+  documents:0.00
+  hotline:0.00
+  safer:0.00
+  pattern:0.00
+  questions:0.00
+  fit:0.00
+  number:0.00
+  ways:0.00
+  blocked:0.00
+  flagged:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

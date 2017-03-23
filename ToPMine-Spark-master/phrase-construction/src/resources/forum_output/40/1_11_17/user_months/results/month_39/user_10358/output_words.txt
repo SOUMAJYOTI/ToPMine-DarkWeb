@@ -1,0 +1,61 @@
+Topic 0:
+  forum:8.03
+  security:5.43
+  small:3.90
+  tor:3.57
+  accounts:2.92
+  hacking:2.92
+  settings:2.92
+  browser:2.92
+  people:2.85
+  sr:2.63
+
+Topic 1:
+  forum:8.62
+  smf:6.17
+  patch:3.06
+  version:2.64
+  security:2.45
+  agora:2.36
+  support:2.22
+  simple:1.97
+  running:1.88
+  forums:1.71
+
+Topic 2:
+  forums:10.50
+  sr:4.86
+  forum:4.71
+  agora:4.31
+  ag:2.73
+  site:2.18
+  business:2.18
+  market:2.15
+  long:2.10
+  find:1.96
+
+Topic 3:
+  forum:8.84
+  patch:8.39
+  smf:5.22
+  version:5.21
+  security:4.92
+  package:4.82
+  released:4.15
+  running:3.86
+  patches:3.30
+  oldiesmann:3.19
+
+Topic 4:
+  market:19.04
+  forum:7.80
+  sr:4.34
+  problems:3.56
+  ag:3.10
+  forums:2.91
+  good:2.77
+  reddit:2.19
+  target:1.89
+  find:1.73
+
+K: 5, Log-Likelihood: -3696.225, Alpha: 11.000, Beta: 1.100

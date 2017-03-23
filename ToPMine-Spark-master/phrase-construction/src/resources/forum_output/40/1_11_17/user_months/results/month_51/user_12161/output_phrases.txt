@@ -1,0 +1,61 @@
+Topic 0:
+  server:0.00
+  set:0.00
+  fuck:0.00
+  pay:0.00
+  tax:0.00
+  check:0.00
+  clearnet:0.00
+  node:0.00
+  bank:0.00
+  post:0.00
+
+Topic 1:
+  server:0.00
+  set:0.00
+  fuck:0.00
+  pay:0.00
+  tax:0.00
+  check:0.00
+  clearnet:0.00
+  node:0.00
+  bank:0.00
+  post:0.00
+
+Topic 2:
+  server:0.00
+  set:0.00
+  fuck:0.00
+  pay:0.00
+  tax:0.00
+  check:0.00
+  clearnet:0.00
+  node:0.00
+  bank:0.00
+  post:0.00
+
+Topic 3:
+  server:0.00
+  set:0.00
+  fuck:0.00
+  pay:0.00
+  tax:0.00
+  check:0.00
+  clearnet:0.00
+  node:0.00
+  bank:0.00
+  post:0.00
+
+Topic 4:
+  server:0.00
+  set:0.00
+  fuck:0.00
+  pay:0.00
+  tax:0.00
+  check:0.00
+  clearnet:0.00
+  node:0.00
+  bank:0.00
+  post:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

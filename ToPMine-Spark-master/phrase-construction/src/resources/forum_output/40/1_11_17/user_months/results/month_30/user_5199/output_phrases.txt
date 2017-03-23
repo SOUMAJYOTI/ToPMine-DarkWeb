@@ -1,0 +1,56 @@
+Topic 0:
+  vend:0.00
+  address:0.00
+  signature:0.00
+  profile:0.00
+  mdma:0.00
+  led:0.00
+  evolution:0.00
+  stock:0.00
+  solely:0.00
+
+Topic 1:
+  vend:0.00
+  address:0.00
+  signature:0.00
+  profile:0.00
+  mdma:0.00
+  led:0.00
+  evolution:0.00
+  stock:0.00
+  solely:0.00
+
+Topic 2:
+  vend:0.00
+  address:0.00
+  signature:0.00
+  profile:0.00
+  mdma:0.00
+  led:0.00
+  evolution:0.00
+  stock:0.00
+  solely:0.00
+
+Topic 3:
+  vend:0.00
+  address:0.00
+  signature:0.00
+  profile:0.00
+  mdma:0.00
+  led:0.00
+  evolution:0.00
+  stock:0.00
+  solely:0.00
+
+Topic 4:
+  vend:0.00
+  address:0.00
+  signature:0.00
+  profile:0.00
+  mdma:0.00
+  led:0.00
+  evolution:0.00
+  stock:0.00
+  solely:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

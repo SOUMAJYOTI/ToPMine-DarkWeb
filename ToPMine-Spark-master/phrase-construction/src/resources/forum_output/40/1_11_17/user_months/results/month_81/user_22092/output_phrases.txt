@@ -1,0 +1,61 @@
+Topic 0:
+  account:0.48
+  anonymous:0.44
+  linked:0.44
+  safest:0.43
+  step:0.43
+  bitcoin:0.43
+  face:0.31
+  mail:0.29
+  set:0.22
+  small:0.22
+
+Topic 1:
+  bitcoin:0.67
+  step:0.67
+  linked:0.67
+  safest:0.67
+  anonymous:0.66
+  account:0.59
+  protect:0.28
+  send:0.28
+  realname:0.28
+  dealer:0.28
+
+Topic 2:
+  mail:0.58
+  face:0.37
+  account:0.30
+  amounts:0.25
+  providers:0.25
+  verify:0.25
+  tor:0.25
+  arrest:0.25
+  start:0.25
+  stick:0.25
+
+Topic 3:
+  face:0.53
+  mail:0.45
+  account:0.26
+  buying:0.25
+  guest:0.24
+  computer:0.24
+  time:0.24
+  public:0.24
+  wallet:0.24
+  coin:0.24
+
+Topic 4:
+  account:0.41
+  face:0.36
+  anonymous:0.36
+  step:0.35
+  safest:0.35
+  linked:0.35
+  bitcoin:0.35
+  mail:0.31
+  anonymity:0.21
+  transactions:0.21
+
+K: 5, Log-Likelihood: -497.221, Alpha: 11.000, Beta: 1.100

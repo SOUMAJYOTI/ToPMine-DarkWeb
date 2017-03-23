@@ -1,0 +1,61 @@
+Topic 0:
+  moneygram:2.45
+  dont:1.00
+  cash:0.95
+  info:0.77
+  bitcoin:0.75
+  don:0.69
+  union:0.68
+  western:0.67
+  reason:0.64
+  egypt:0.63
+
+Topic 1:
+  card:2.85
+  repaid:1.99
+  western:1.66
+  union:1.62
+  area:1.09
+  moneygram:1.03
+  bitcoin:0.92
+  higher:0.83
+  gift:0.83
+  sites:0.83
+
+Topic 2:
+  bitcoin:1.55
+  moneygram:1.40
+  seller:0.98
+  transferring:0.98
+  job:0.98
+  trusted:0.98
+  located:0.98
+  love:0.98
+  meet:0.98
+  legal:0.98
+
+Topic 3:
+  card:2.23
+  moneygram:1.62
+  bitcoin:1.46
+  repaid:1.21
+  union:0.97
+  western:0.95
+  cash:0.95
+  area:0.94
+  dont:0.88
+  rates:0.62
+
+Topic 4:
+  buy:5.51
+  phone:5.45
+  number:3.53
+  moneygram:3.50
+  cash:1.94
+  fictitious:1.82
+  asks:1.59
+  cheap:1.59
+  understand:1.58
+  liberty:1.58
+
+K: 5, Log-Likelihood: -1115.577, Alpha: 11.000, Beta: 1.100

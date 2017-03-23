@@ -1,0 +1,61 @@
+Topic 0:
+  april:5.07
+  pretty bad:4.93
+  analysis:4.93
+  hours:4.93
+  quote:3.86
+  bitches:3.72
+  quote biochem:2.82
+  agora:2.75
+  ago:2.57
+  riot:2.44
+
+Topic 1:
+  market:6.75
+  easy:5.53
+  dnms:3.65
+  evolution:3.57
+  yeah:3.57
+  security:3.57
+  address:2.44
+  infinite:2.44
+  mulsti:2.44
+  hahafuck:2.44
+
+Topic 2:
+  service:4.06
+  things:4.00
+  tor:3.98
+  expect explantions:3.51
+  march:2.64
+  honest yrs experience:2.52
+  kinda assumed easy:2.51
+  pmi:2.51
+  pretty:2.51
+  boneskoopa:2.48
+
+Topic 3:
+  custom:4.91
+  urls:4.91
+  access:4.08
+  login:4.08
+  link:3.85
+  accounts:2.42
+  proxy:2.42
+  invalid:2.42
+  load:2.42
+  curls:2.42
+
+Topic 4:
+  bmr:10.32
+  backopy:8.26
+  hack:4.92
+  hope:4.92
+  good:4.92
+  lost:4.09
+  remember:4.09
+  replaced:4.09
+  safe:4.09
+  money:3.19
+
+K: 5, Log-Likelihood: -3745.879, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.65
+  risk:0.53
+  peoples:0.52
+  monkey:0.45
+  lol:0.44
+  voted:0.42
+  promoting:0.37
+  people:0.36
+  asshole:0.36
+  luck:0.21
+
+Topic 1:
+  peoples:0.75
+  risk:0.70
+  sr:0.50
+  people:0.46
+  promoting:0.46
+  asshole:0.45
+  voted:0.36
+  lol:0.34
+  monkey:0.33
+  occasionally:0.22
+
+Topic 2:
+  risk:0.68
+  peoples:0.65
+  sr:0.52
+  asshole:0.44
+  promoting:0.43
+  people:0.43
+  voted:0.37
+  monkey:0.37
+  lol:0.37
+  game:0.21
+
+Topic 3:
+  sr:0.62
+  risk:0.62
+  peoples:0.59
+  promoting:0.41
+  people:0.41
+  asshole:0.40
+  voted:0.40
+  lol:0.39
+  monkey:0.37
+  freedom:0.20
+
+Topic 4:
+  sr:0.70
+  monkey:0.48
+  peoples:0.48
+  risk:0.47
+  lol:0.47
+  voted:0.45
+  asshole:0.34
+  people:0.34
+  promoting:0.34
+  hahahaha:0.22
+
+K: 5, Log-Likelihood: -228.023, Alpha: 11.000, Beta: 1.100

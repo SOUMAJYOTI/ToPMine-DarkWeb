@@ -1,0 +1,61 @@
+Topic 0:
+  mufti:0.40
+  torwallet:0.32
+  funds:0.21
+  address:0.21
+  wallets:0.21
+  changed:0.19
+  deposit:0.19
+  obe:0.19
+  quick:0.19
+  quicker:0.19
+
+Topic 1:
+  mufti:0.37
+  torwallet:0.31
+  funds:0.21
+  address:0.21
+  wallets:0.21
+  clients:0.19
+  ave:0.19
+  head:0.19
+  assigned:0.19
+  notice:0.19
+
+Topic 2:
+  mufti:0.36
+  torwallet:0.30
+  address:0.20
+  funds:0.20
+  wallets:0.20
+  gs:0.18
+  keys:0.18
+  history:0.18
+  guy:0.18
+  coming:0.18
+
+Topic 3:
+  mufti:0.31
+  torwallet:0.28
+  visit:0.21
+  cs:0.21
+  doh:0.21
+  ordered:0.21
+  sniff:0.21
+  time:0.21
+  mate:0.21
+  mind:0.21
+
+Topic 4:
+  mufti:0.39
+  torwallet:0.32
+  address:0.21
+  funds:0.21
+  wallets:0.21
+  messaged:0.19
+  doesnt:0.19
+  tumbling:0.19
+  ave:0.19
+  sig:0.19
+
+K: 5, Log-Likelihood: -260.608, Alpha: 11.000, Beta: 1.100

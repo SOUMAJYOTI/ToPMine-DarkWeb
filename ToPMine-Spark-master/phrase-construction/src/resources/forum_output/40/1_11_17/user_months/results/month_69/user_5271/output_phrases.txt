@@ -1,0 +1,61 @@
+Topic 0:
+  constantly:2.13
+  team:2.12
+  competent:2.12
+  checking:2.12
+  people:2.11
+  suite:2.10
+  bugs:2.09
+  security:2.08
+  smarter:2.08
+  tails:1.97
+
+Topic 1:
+  secure:1.92
+  tails:1.23
+  veracrypt:1.21
+  tails secure:0.86
+  setup:0.85
+  stick:0.84
+  forward:0.84
+  file:0.84
+  disk:0.83
+  encryption:0.83
+
+Topic 2:
+  don:2.04
+  lost:1.70
+  feel:1.66
+  cloning:1.66
+  plate:1.63
+  relationships:1.63
+  persistent:1.63
+  times:1.62
+  failed:1.62
+  client:1.62
+
+Topic 3:
+  don:1.48
+  download update:1.17
+  pain:1.14
+  download:1.14
+  complete:1.13
+  losing:1.13
+  volume:1.12
+  rebuild:1.10
+  task:1.10
+  vendors:1.08
+
+Topic 4:
+  secure:1.88
+  larger:1.52
+  gb:1.52
+  stick:1.50
+  setup:1.49
+  tails secure:1.47
+  tails:1.22
+  lookout:1.08
+  december:1.07
+  ways:1.06
+
+K: 5, Log-Likelihood: -929.108, Alpha: 11.000, Beta: 1.100

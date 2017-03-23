@@ -1,0 +1,61 @@
+Topic 0:
+  problems:1.22
+  week:1.21
+  ive:1.19
+  bitcointalk:1.09
+  swam:0.94
+  trolls shills:0.75
+  happy:0.51
+  months:0.51
+  days:0.51
+  accounts trolls:0.51
+
+Topic 1:
+  process:0.89
+  fog:0.83
+  blender:0.72
+  problem:0.54
+  hearing:0.43
+  outyes:0.41
+  coins:0.41
+  move:0.41
+  observed:0.41
+  transaction:0.41
+
+Topic 2:
+  bitcointalk:1.10
+  trolls shills:1.01
+  swam:0.78
+  ive:0.75
+  week:0.74
+  problems:0.73
+  darknet:0.66
+  clearnet:0.65
+  mixers:0.64
+  quote:0.50
+
+Topic 3:
+  trolls shills:1.09
+  mixers:1.01
+  clearnet:1.00
+  darknet:0.99
+  process:0.80
+  bitcointalk:0.72
+  problem:0.45
+  swam:0.44
+  started:0.43
+  year:0.43
+
+Topic 4:
+  blender:2.25
+  btc:2.02
+  fast:2.02
+  slow:2.00
+  fog:1.39
+  senority:0.88
+  larger:0.88
+  rich:0.88
+  true:0.88
+  stay:0.88
+
+K: 5, Log-Likelihood: -704.527, Alpha: 11.000, Beta: 1.100

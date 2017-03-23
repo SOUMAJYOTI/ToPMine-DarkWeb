@@ -1,0 +1,61 @@
+Topic 0:
+  transactions:1.73
+  bitin:1.28
+  mixing:1.24
+  visible:1.20
+  tracking:0.61
+  fully:0.61
+  future:0.60
+  privacy:0.60
+  black:0.60
+  instant:0.60
+
+Topic 1:
+  good:0.81
+  transactions:0.74
+  coins:0.71
+  scam:0.67
+  loss:0.66
+  bitin:0.59
+  visible:0.56
+  mixing:0.53
+  obvious:0.45
+  call:0.44
+
+Topic 2:
+  loss:1.48
+  good:1.41
+  coins:1.36
+  scam:0.89
+  bit:0.68
+  stole:0.68
+  vain:0.68
+  guys:0.67
+  completely:0.67
+  hand:0.67
+
+Topic 3:
+  transactions:3.08
+  visible:1.82
+  mixing:1.81
+  bitin:1.72
+  addition:0.77
+  markets:0.77
+  study:0.77
+  logs:0.77
+  helps:0.76
+  activity:0.76
+
+Topic 4:
+  coins:1.46
+  loss:1.40
+  good:1.19
+  scam:0.86
+  life:0.80
+  send:0.80
+  find:0.79
+  error:0.79
+  wallet:0.79
+  hidden:0.78
+
+K: 5, Log-Likelihood: -606.798, Alpha: 11.000, Beta: 1.100

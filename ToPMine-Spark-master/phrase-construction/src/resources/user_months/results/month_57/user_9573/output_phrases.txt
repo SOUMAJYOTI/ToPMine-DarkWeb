@@ -1,0 +1,61 @@
+Topic 0:
+  goal:0.14
+  asia:0.12
+  advise:0.12
+  south:0.12
+  east:0.12
+  rates:0.12
+  countries:0.12
+  btc:0.12
+  researching:0.12
+  fdt:0.12
+
+Topic 1:
+  goal:0.14
+  middle:0.12
+  east:0.12
+  type:0.12
+  btc:0.12
+  advise:0.12
+  conversion:0.12
+  countries:0.12
+  fdt:0.12
+  researching:0.12
+
+Topic 2:
+  goal:0.14
+  fdt:0.12
+  middle:0.12
+  conversion:0.12
+  rates:0.12
+  south:0.12
+  type:0.12
+  countries:0.12
+  southeast:0.12
+  asia:0.12
+
+Topic 3:
+  goal:0.14
+  asia:0.12
+  researching:0.12
+  type:0.12
+  southeast:0.12
+  america:0.12
+  countries:0.12
+  advise:0.12
+  fdt:0.12
+  rates:0.12
+
+Topic 4:
+  goal:0.14
+  america:0.12
+  btc:0.12
+  advise:0.12
+  rates:0.12
+  east:0.12
+  conversion:0.12
+  southeast:0.12
+  south:0.12
+  type:0.12
+
+K: 5, Log-Likelihood: -23.682, Alpha: 11.000, Beta: 1.100

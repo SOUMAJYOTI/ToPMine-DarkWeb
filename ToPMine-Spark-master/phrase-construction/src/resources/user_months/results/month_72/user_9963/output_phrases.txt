@@ -1,0 +1,61 @@
+Topic 0:
+  recommend:6.59
+  hoping:4.10
+  bitcoin:4.10
+  pip:4.10
+  arrive:4.10
+  ready:4.10
+  enforcement:4.10
+  feel:4.10
+  law:4.10
+  watched:4.10
+
+Topic 1:
+  file control command:4.43
+  guide mac gpgtools tutorial:3.99
+  pgp key:3.88
+  file:3.60
+  pgp guide:2.99
+  selection shift command:2.96
+  imo reddit absolutely great:2.87
+  gpg keychain access:2.76
+  command:2.62
+  spitfire:2.61
+
+Topic 2:
+  shift command:18.17
+  encrusted message:14.26
+  selection shift command:13.64
+  file:13.00
+  file control command:12.17
+  key:10.88
+  message:10.17
+  pgp keyring:9.85
+  pgp key:8.48
+  pip public key:6.93
+
+Topic 3:
+  cleartext gpgkeychain pgp key:6.53
+  yep mac:6.04
+  pmnever send shipping info:6.04
+  ears quote knuckles january:6.04
+  posting wares clearnet learned:5.27
+  info reddit respect security:4.77
+  flyingthroughclouds january amquote:4.13
+  quote spitfire:4.09
+  mention:4.09
+  idea:4.09
+
+Topic 4:
+  find vendor:6.18
+  quote:5.20
+  btc:4.93
+  hemisphere:4.93
+  forums pip:4.93
+  set:4.93
+  close:4.93
+  time read:4.93
+  understand:4.04
+  panel:4.04
+
+K: 5, Log-Likelihood: -8233.650, Alpha: 11.000, Beta: 1.100

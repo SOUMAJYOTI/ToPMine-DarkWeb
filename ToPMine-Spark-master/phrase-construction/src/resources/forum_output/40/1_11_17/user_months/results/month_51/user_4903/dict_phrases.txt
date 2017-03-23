@@ -1,0 +1,9 @@
+op,0,1
+mail,1,2
+replace,2,1
+safe,3,3
+recommendation,4,1
+net,5,2
+sigaint,6,1
+email,7,1
+javascript,8,1

@@ -1,0 +1,61 @@
+Topic 0:
+  siihen:0.28
+  rm:0.28
+  mutta:0.17
+  jeesus:0.14
+  march:0.14
+  linkkaan:0.14
+  jos:0.14
+  eijaksa:0.14
+  quote:0.14
+  sin:0.14
+
+Topic 1:
+  rm:0.28
+  siihen:0.28
+  mutta:0.17
+  ja:0.14
+  rahasta:0.14
+  palvelukuluihin:0.14
+  itekki:0.14
+  kuluihin:0.14
+  joo:0.14
+  vi:0.14
+
+Topic 2:
+  siihen:0.28
+  rm:0.28
+  mutta:0.17
+  kiinnostas:0.14
+  amlaitas:0.14
+  en:0.14
+  niin:0.14
+  eijaksa:0.14
+  jos:0.14
+  march:0.14
+
+Topic 3:
+  rm:0.28
+  siihen:0.28
+  mutta:0.17
+  thorlaudalta:0.14
+  yritt:0.14
+  asiakaspalvelusta:0.14
+  ohjeen:0.14
+  jonkunlaisen:0.14
+  vihdoin:0.14
+  kyselly:0.14
+
+Topic 4:
+  rm:0.28
+  siihen:0.28
+  mutta:0.17
+  vihdoin:0.14
+  ysin:0.14
+  palvelukuluihin:0.14
+  googlailla:0.14
+  kyselly:0.14
+  muihin:0.14
+  oon:0.14
+
+K: 5, Log-Likelihood: -107.125, Alpha: 11.000, Beta: 1.100

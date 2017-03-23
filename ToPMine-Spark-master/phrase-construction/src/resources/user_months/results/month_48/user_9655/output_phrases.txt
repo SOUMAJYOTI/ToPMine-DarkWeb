@@ -1,0 +1,41 @@
+Topic 0:
+  lsd:0.24
+  confirmed:0.22
+  dudes:0.22
+  thread:0.22
+  review:0.22
+  wondering:0.00
+
+Topic 1:
+  lsd:0.24
+  thread:0.22
+  review:0.22
+  confirmed:0.22
+  dudes:0.22
+  wondering:0.00
+
+Topic 2:
+  lsd:0.24
+  review:0.22
+  confirmed:0.22
+  thread:0.22
+  dudes:0.22
+  wondering:0.00
+
+Topic 3:
+  lsd:0.24
+  dudes:0.22
+  review:0.22
+  confirmed:0.22
+  thread:0.22
+  wondering:0.00
+
+Topic 4:
+  lsd:0.24
+  thread:0.22
+  confirmed:0.22
+  dudes:0.22
+  review:0.22
+  wondering:0.00
+
+K: 5, Log-Likelihood: -9.362, Alpha: 11.000, Beta: 1.100

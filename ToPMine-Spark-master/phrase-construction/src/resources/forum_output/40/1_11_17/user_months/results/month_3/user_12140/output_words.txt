@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins:1.77
+  anonymous:1.35
+  anonymously:1.34
+  bitcoin:1.31
+  enumbered:1.24
+  sell:0.99
+  cash:0.94
+  buy:0.89
+  bank:0.79
+  card:0.74
+
+Topic 1:
+  april:2.62
+  idea:2.38
+  great:2.38
+  true:2.37
+  good:2.36
+  payment:1.61
+  chiefkeef:1.61
+  peoples:1.61
+  option:1.61
+  quote:1.61
+
+Topic 2:
+  anonymously:2.24
+  enumbered:1.66
+  union:1.15
+  western:1.13
+  moneypak:1.12
+  cash:1.12
+  buy:1.10
+  code:1.06
+  bank:1.06
+  sell:1.04
+
+Topic 3:
+  anonymous:3.09
+  bitcoin:1.94
+  visa:1.80
+  transfers:1.79
+  card:1.76
+  cash:1.61
+  bitcoins:1.61
+  sell:1.43
+  enumbered:1.35
+  anonymously:1.21
+
+Topic 4:
+  anonymously:1.96
+  bitcoins:1.91
+  bitcoin:1.75
+  enumbered:1.62
+  anonymous:1.47
+  sell:1.42
+  cash:1.21
+  bank:1.17
+  buy:1.07
+  card:0.86
+
+K: 5, Log-Likelihood: -892.489, Alpha: 11.000, Beta: 1.100

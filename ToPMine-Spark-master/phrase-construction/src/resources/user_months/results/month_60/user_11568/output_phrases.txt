@@ -1,0 +1,61 @@
+Topic 0:
+  products:0.16
+  vendor:0.08
+  india:0.08
+  jack:0.08
+  place:0.08
+  stock:0.08
+  shipmen:0.08
+  verified:0.08
+  budly:0.08
+  convenient:0.08
+
+Topic 1:
+  products:0.16
+  ll:0.08
+  isnt:0.08
+  market:0.08
+  email:0.08
+  ready:0.08
+  based:0.08
+  catch:0.08
+  republic:0.08
+  captain:0.08
+
+Topic 2:
+  products:0.16
+  shipmen:0.08
+  options:0.08
+  verified:0.08
+  source:0.08
+  based:0.08
+  convenient:0.08
+  future:0.08
+  usa:0.08
+  captain:0.08
+
+Topic 3:
+  products:0.16
+  advertise:0.08
+  goods:0.08
+  catch:0.08
+  stock:0.08
+  source:0.08
+  budly:0.08
+  future:0.08
+  india:0.08
+  usa:0.08
+
+Topic 4:
+  products:0.16
+  email:0.08
+  market:0.08
+  ll:0.08
+  isnt:0.08
+  republic:0.08
+  place:0.08
+  advertise:0.08
+  jack:0.08
+  captain:0.08
+
+K: 5, Log-Likelihood: -33.821, Alpha: 11.000, Beta: 1.100

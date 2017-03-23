@@ -1,0 +1,61 @@
+Topic 0:
+  windows:5.09
+  box:4.86
+  stick:3.86
+  virtual:1.87
+  compartmentalize:1.87
+  stuff:1.87
+  virtualbox:1.87
+  machine:1.87
+  decent:1.87
+  load:1.87
+
+Topic 1:
+  client:2.08
+  irc:1.78
+  windows:1.76
+  based:1.54
+  ip:1.29
+  dont:1.09
+  ira:1.01
+  tor:1.01
+  settings:0.89
+  socks:0.77
+
+Topic 2:
+  windows:1.67
+  dont:1.44
+  irc:1.25
+  client:1.19
+  security:1.15
+  tor:0.98
+  based:0.91
+  ira:0.80
+  settings:0.69
+  error:0.58
+
+Topic 3:
+  safe:5.62
+  things:4.25
+  clients:3.63
+  ira:2.70
+  guys:2.17
+  honestly:1.66
+  cheers:1.66
+  piggin:1.66
+  wondering:1.66
+  ttl:1.66
+
+Topic 4:
+  windows:2.08
+  security:2.06
+  dont:1.57
+  tor:1.24
+  good:0.96
+  xchat:0.91
+  guys:0.85
+  irc:0.65
+  options:0.60
+  whonix:0.55
+
+K: 5, Log-Likelihood: -1226.603, Alpha: 11.000, Beta: 1.100

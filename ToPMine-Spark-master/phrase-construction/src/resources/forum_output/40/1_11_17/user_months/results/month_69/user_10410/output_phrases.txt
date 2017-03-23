@@ -1,0 +1,61 @@
+Topic 0:
+  october:3.71
+  limited:3.71
+  free:3.71
+  links:2.99
+  market:2.59
+  officially:2.35
+  quote thenextbigthing december:2.34
+  forums doesnt:1.84
+  started:1.84
+  priority:1.84
+
+Topic 1:
+  bip:5.80
+  create key:5.80
+  option:4.33
+  org:2.87
+  option working:2.87
+  write:2.87
+  unable:2.87
+  wallet:2.87
+  pushed:2.87
+  secure:2.87
+
+Topic 2:
+  quote thenextbigthing december:6.84
+  legitimate:5.23
+  questions:3.71
+  amas:3.71
+  unfounded speculation dont legitimate:3.48
+  complaining unfinished multisig implementation:3.48
+  facts:3.48
+  market credibility idiotic suppositions:3.48
+  market scam:3.42
+  achieve:1.84
+
+Topic 3:
+  hero contributor:4.31
+  status:4.31
+  tambourine:3.67
+  things:3.62
+  long:2.84
+  thought:2.84
+  stay:2.84
+  moving:2.84
+  python:2.84
+  evolution:2.84
+
+Topic 4:
+  doesnt:3.69
+  scammer:2.86
+  listings:2.86
+  haze:2.86
+  support:2.86
+  lemon:2.86
+  drug:2.86
+  sells:2.86
+  swamped:2.86
+  vendor:2.86
+
+K: 5, Log-Likelihood: -3661.956, Alpha: 11.000, Beta: 1.100

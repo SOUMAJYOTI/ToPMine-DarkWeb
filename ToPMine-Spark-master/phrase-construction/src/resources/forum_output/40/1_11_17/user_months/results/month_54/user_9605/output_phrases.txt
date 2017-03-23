@@ -1,0 +1,61 @@
+Topic 0:
+  answers:0.28
+  email:0.17
+  helpfull:0.14
+  created:0.14
+  wondering:0.14
+  direct:0.14
+  contact:0.14
+  account:0.14
+  place:0.14
+  create:0.14
+
+Topic 1:
+  answers:0.28
+  email:0.17
+  sign:0.14
+  interesting:0.14
+  link:0.14
+  version:0.14
+  features:0.14
+  integration:0.14
+  cool:0.14
+  paid:0.14
+
+Topic 2:
+  answers:0.28
+  email:0.17
+  places:0.14
+  stuff:0.14
+  market:0.14
+  direct:0.14
+  hope:0.14
+  encrusted:0.14
+  tor:0.14
+  messages:0.14
+
+Topic 3:
+  answers:0.28
+  email:0.17
+  integration:0.14
+  bitmessage:0.14
+  interesting:0.14
+  paid:0.14
+  features:0.14
+  sign:0.14
+  cool:0.14
+  link:0.14
+
+Topic 4:
+  answers:0.28
+  email:0.17
+  created:0.14
+  trick:0.14
+  account:0.14
+  sigaint:0.14
+  tor:0.14
+  wondering:0.14
+  create:0.14
+  encrusted:0.14
+
+K: 5, Log-Likelihood: -73.015, Alpha: 11.000, Beta: 1.100

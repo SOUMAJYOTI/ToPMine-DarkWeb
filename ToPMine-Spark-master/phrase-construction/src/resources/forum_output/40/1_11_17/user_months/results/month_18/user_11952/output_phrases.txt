@@ -1,0 +1,61 @@
+Topic 0:
+  answer:0.43
+  attack attack:0.28
+  agora:0.28
+  login:0.22
+  havent:0.22
+  trouble:0.22
+  minutes:0.22
+  road:0.22
+  yup:0.22
+  silk:0.22
+
+Topic 1:
+  answer:0.44
+  agora:0.28
+  attack attack:0.28
+  klootviool:0.22
+  benefits:0.22
+  sites:0.22
+  assume:0.22
+  quote:0.22
+  feds:0.22
+  sense:0.22
+
+Topic 2:
+  answer:0.44
+  agora:0.28
+  attack attack:0.28
+  july:0.22
+  sites:0.22
+  pmsilkroad:0.22
+  involved:0.22
+  assume:0.22
+  site:0.22
+  feds:0.22
+
+Topic 3:
+  answer:0.45
+  attack attack:0.28
+  agora:0.28
+  party:0.22
+  grow:0.22
+  people:0.22
+  quote:0.22
+  sites:0.22
+  feds:0.22
+  klootviool:0.22
+
+Topic 4:
+  answer:0.44
+  attack attack:0.28
+  agora:0.28
+  grow:0.22
+  people:0.22
+  pmsilkroad:0.22
+  sense:0.22
+  hoping:0.22
+  quote:0.22
+  site:0.22
+
+K: 5, Log-Likelihood: -94.075, Alpha: 11.000, Beta: 1.100

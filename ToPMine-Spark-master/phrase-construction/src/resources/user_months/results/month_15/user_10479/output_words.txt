@@ -1,0 +1,51 @@
+Topic 0:
+  order:0.20
+  verge:0.20
+  hub:0.20
+  autocancellation:0.20
+  eve:0.20
+  spamming:0.20
+  busy:0.20
+  point:0.20
+
+Topic 1:
+  spamming:0.20
+  verge:0.20
+  busy:0.20
+  autocancellation:0.20
+  point:0.20
+  hub:0.20
+  eve:0.20
+  order:0.20
+
+Topic 2:
+  verge:0.20
+  eve:0.20
+  point:0.20
+  autocancellation:0.20
+  busy:0.20
+  hub:0.20
+  spamming:0.20
+  order:0.20
+
+Topic 3:
+  order:0.20
+  spamming:0.20
+  autocancellation:0.20
+  point:0.20
+  eve:0.20
+  busy:0.20
+  hub:0.20
+  verge:0.20
+
+Topic 4:
+  eve:0.20
+  hub:0.20
+  busy:0.20
+  point:0.20
+  order:0.20
+  verge:0.20
+  spamming:0.20
+  autocancellation:0.20
+
+K: 5, Log-Likelihood: -16.636, Alpha: 11.000, Beta: 1.100

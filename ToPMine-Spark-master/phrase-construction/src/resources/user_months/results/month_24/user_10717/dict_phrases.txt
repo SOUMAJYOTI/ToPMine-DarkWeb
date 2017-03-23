@@ -1,0 +1,48 @@
+tor proxy,0,2
+access,1,2
+allzeit,2,1
+onion,3,2
+tor browser,4,2
+save,5,1
+marketplaces,6,1
+territorygr,7,1
+torbrowser,8,2
+recommend,9,1
+sites,10,2
+watching,11,1
+good,12,1
+unknown,13,1
+lot,14,1
+interest,15,1
+tor,16,6
+meaning,17,1
+browser,18,3
+working,19,1
+communication,20,1
+totally,21,1
+bundle,22,1
+bereit,23,1
+browsing,24,1
+goal,25,1
+remain,26,1
+inter,27,1
+asia,28,1
+piqued,29,1
+browser tor,30,1
+browsers,31,1
+ve,32,1
+proxy,33,4
+site,34,1
+proxy proxy,35,1
+service,36,1
+safe,37,1
+dealt,38,1
+sides,39,1
+anonymous,40,1
+topic,41,1
+le,42,1
+risk,43,1
+avoid,44,1
+secured,45,1
+party,46,1
+problems,47,1

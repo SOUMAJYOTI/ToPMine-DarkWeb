@@ -1,0 +1,61 @@
+Topic 0:
+  lemon:4.68
+  super:4.54
+  haze:3.10
+  skunk:1.51
+  high:1.25
+  thc:1.24
+  silver:1.21
+  great:0.68
+  hazesome:0.68
+  geneticsthis:0.67
+
+Topic 1:
+  lemon:3.38
+  haze:2.33
+  super:1.84
+  high:1.18
+  silver:1.17
+  skunk:1.16
+  thc:1.13
+  great:0.87
+  lime:0.61
+  creative:0.60
+
+Topic 2:
+  super:3.80
+  lemon:2.77
+  haze:1.72
+  high:1.31
+  skunk:1.25
+  silver:1.24
+  thc:1.22
+  great:0.75
+  smokingso:0.63
+  black:0.63
+
+Topic 3:
+  lemon:2.73
+  haze:2.46
+  super:2.00
+  silver:1.25
+  high:1.24
+  thc:1.17
+  skunk:0.98
+  great:0.84
+  qualities:0.59
+  strong:0.59
+
+Topic 4:
+  super:2.83
+  haze:2.40
+  lemon:1.44
+  thc:1.25
+  silver:1.13
+  skunk:1.10
+  high:1.02
+  great:0.86
+  side:0.59
+  traces:0.58
+
+K: 5, Log-Likelihood: -1017.122, Alpha: 11.000, Beta: 1.100

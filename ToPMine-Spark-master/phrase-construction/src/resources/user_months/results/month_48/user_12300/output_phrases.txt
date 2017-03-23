@@ -1,0 +1,61 @@
+Topic 0:
+  ett:0.70
+  kuvien:0.62
+  painaa:0.62
+  itt:0.62
+  buttoneita:0.62
+  enemm:0.62
+  minullakin:0.62
+  ku:0.62
+  pit:0.62
+  btc:0.62
+
+Topic 1:
+  huijaus:1.00
+  litileilt:1.00
+  kukaan:1.00
+  santa:1.00
+  jonkin:1.00
+  katoaa:1.00
+  ilmeisesti:1.00
+  positiivista:1.00
+  ytt:1.00
+  asiakaspalvelussa:1.00
+
+Topic 2:
+  pankkia:1.04
+  nain ei:1.04
+  hunaa:1.04
+  viime:1.04
+  viel:1.04
+  itse:1.04
+  tule:1.04
+  huomiseen:1.04
+  joka:1.04
+  juuri:1.04
+
+Topic 3:
+  litilill:2.62
+  kun:1.93
+  sin:1.25
+  jumittaa:1.25
+  tuuria:1.25
+  sain:1.25
+  ensign:1.25
+  bitcoin:1.25
+  mutta:1.25
+  perus:1.25
+
+Topic 4:
+  saldoon:3.32
+  lompakko:1.49
+  oudointa:1.49
+  siirtoja:1.49
+  siirry:1.49
+  vahvistamattomaan:1.49
+  blockchainissa:1.49
+  ytett:1.49
+  tapahtunu mit:1.49
+  tulleet:1.49
+
+K: 5, Log-Likelihood: -1025.265, Alpha: 11.000, Beta: 1.100

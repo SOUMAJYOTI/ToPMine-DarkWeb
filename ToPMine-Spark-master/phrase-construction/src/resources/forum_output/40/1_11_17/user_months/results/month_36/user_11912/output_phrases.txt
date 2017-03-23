@@ -1,0 +1,61 @@
+Topic 0:
+  eber valid point:5.40
+  quote evilgrin:3.57
+  brushed:3.54
+  wait:3.42
+  key:3.40
+  minute:3.40
+  riddle:3.40
+  sounds:3.39
+  true:3.39
+  guys:3.37
+
+Topic 1:
+  politics:7.58
+  political:5.46
+  auto:4.47
+  espouse:4.47
+  post:4.47
+  dont:3.98
+  survive:3.72
+  preaching:3.59
+  stinks:3.59
+  opinion:3.59
+
+Topic 2:
+  agora:5.70
+  law enforcement:5.50
+  seized:4.48
+  public:3.86
+  silk road:3.69
+  leo:3.64
+  dollar markets:3.64
+  obvious:3.64
+  agra:3.64
+  headline:3.64
+
+Topic 3:
+  silk road:12.87
+  users:9.68
+  political:9.20
+  freedom:8.98
+  dark net:8.98
+  rise:5.68
+  law enforcements:5.54
+  community:4.65
+  helm:4.48
+  life:4.48
+
+Topic 4:
+  site:6.72
+  community:5.62
+  dead brand:5.29
+  order:4.47
+  userbase:4.47
+  time:4.47
+  youll:4.47
+  fail:4.47
+  posted:4.47
+  biggest:4.47
+
+K: 5, Log-Likelihood: -9921.707, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  answer:1.47
+  add:1.20
+  le:1.20
+  working:1.07
+  forums:1.05
+  bmr:0.94
+  days:0.93
+  quote:0.93
+  screen:0.89
+  topic:0.81
+
+Topic 1:
+  kitten:4.71
+  shit:4.30
+  story:3.90
+  ass:3.90
+  hack:3.90
+  bull:3.90
+  donkeys:3.90
+  coins:3.90
+  august:3.63
+  markets:2.98
+
+Topic 2:
+  sr:10.34
+  opinions:4.63
+  sig:4.40
+  dont:4.31
+  beat:3.85
+  testers:3.85
+  forums:3.77
+  market:3.77
+  change:3.64
+  site:3.06
+
+Topic 3:
+  store:3.80
+  attack:3.33
+  agora:3.17
+  status:2.65
+  titcoin:2.53
+  app:1.81
+  video:1.81
+  owner:1.81
+  check:1.72
+  contributing:1.72
+
+Topic 4:
+  marketplace:6.46
+  forums:5.78
+  topic:4.04
+  bmr:4.00
+  fun:3.51
+  evilgrin:2.44
+  wanted:1.81
+  days:1.73
+  vendors:1.71
+  board:1.71
+
+K: 5, Log-Likelihood: -3555.498, Alpha: 11.000, Beta: 1.100

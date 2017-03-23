@@ -1,0 +1,61 @@
+Topic 0:
+  feilds:4.00
+  quote:3.70
+  june:3.68
+  spread:3.12
+  beautiful:3.12
+  selectively:3.12
+  word:3.12
+  subject:3.12
+  users:3.11
+  place:2.31
+
+Topic 1:
+  resolve:6.57
+  mod:3.22
+  issues:3.22
+  difficulties:3.22
+  work:3.22
+  planned:3.22
+  response:3.22
+  support:3.22
+  problems:3.22
+  future:3.22
+
+Topic 2:
+  sr:3.74
+  set:3.18
+  place interested:3.18
+  sour:3.18
+  day:3.18
+  decided:3.18
+  positive:3.18
+  dim:3.18
+  reddit:3.18
+  directed:3.18
+
+Topic 3:
+  bitcoins:4.09
+  accounts:4.09
+  forums:4.09
+  multiply:4.09
+  lots:2.93
+  deposit:2.01
+  cut:2.01
+  forum:2.01
+  cautious:2.01
+  paste:2.01
+
+Topic 4:
+  find:3.85
+  care:3.20
+  point place:3.20
+  case:3.20
+  fraction:3.20
+  marketplaces:3.20
+  good:3.20
+  huge:3.20
+  imo:3.20
+  reason:3.20
+
+K: 5, Log-Likelihood: -1561.185, Alpha: 11.000, Beta: 1.100

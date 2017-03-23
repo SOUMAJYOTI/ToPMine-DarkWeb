@@ -1,0 +1,61 @@
+Topic 0:
+  alphabay:3.21
+  time:3.08
+  preference:2.73
+  dream market:2.72
+  btc true:2.72
+  carders:2.72
+  originally:2.72
+  admins:2.72
+  stories:2.72
+  stealing:2.72
+
+Topic 1:
+  ab:5.51
+  users:3.31
+  features:2.61
+  signature:2.61
+  vending:2.61
+  updates ab:2.61
+  solid:2.61
+  needed:2.60
+  referral:2.60
+  changed:2.60
+
+Topic 2:
+  long:2.58
+  wallet:2.58
+  faster:2.58
+  remember:2.58
+  agree:2.58
+  coins:2.58
+  disappear:2.58
+  comfortable:2.58
+  remind:2.58
+  withdraw:2.57
+
+Topic 3:
+  lost:3.65
+  site:2.18
+  matter:1.98
+  atm:1.93
+  thievery:1.79
+  things:1.79
+  fed:1.79
+  kinda:1.79
+  smoothly:1.79
+  running:1.79
+
+Topic 4:
+  dealing:2.66
+  good:2.65
+  enable:2.65
+  simple:2.65
+  place:2.65
+  activities:2.65
+  account:2.65
+  lesson:2.65
+  dollars:2.65
+  ll:2.65
+
+K: 5, Log-Likelihood: -1665.675, Alpha: 11.000, Beta: 1.100

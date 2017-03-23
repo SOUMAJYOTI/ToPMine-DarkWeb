@@ -1,0 +1,61 @@
+Topic 0:
+  mdma:6.20
+  labtested:3.62
+  purity:3.33
+  profile:2.25
+  dream:1.92
+  blue:1.69
+  shipment:1.61
+  aaa:1.58
+  free:1.40
+  eur:1.34
+
+Topic 1:
+  shipment:1.50
+  blue:1.46
+  dream:1.44
+  profile:1.28
+  free:1.26
+  mdma:1.22
+  eur:1.20
+  offer:0.98
+  purity:0.93
+  labtested:0.85
+
+Topic 2:
+  profile:1.95
+  mdma:1.82
+  shipment:1.74
+  eur:1.72
+  free:1.52
+  labtested:1.41
+  dream:1.34
+  blue:1.24
+  purity:1.04
+  place:1.01
+
+Topic 3:
+  profile:3.05
+  shipment:2.63
+  blue:2.56
+  mdma:2.54
+  free:2.43
+  eur:2.43
+  dream:2.19
+  purity:1.93
+  labtested:1.62
+  place:1.33
+
+Topic 4:
+  mdma:2.22
+  purity:1.77
+  shipment:1.53
+  labtested:1.50
+  profile:1.47
+  free:1.39
+  offer:1.33
+  eur:1.31
+  dream:1.11
+  blue:1.06
+
+K: 5, Log-Likelihood: -874.486, Alpha: 11.000, Beta: 1.100

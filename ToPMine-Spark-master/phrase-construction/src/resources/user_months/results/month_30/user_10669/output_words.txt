@@ -1,0 +1,61 @@
+Topic 0:
+  le:5.33
+  quote:3.53
+  agora:2.16
+  november:2.08
+  arrived:1.65
+  place:1.59
+  site:1.50
+  ordered:1.09
+  transferred:1.08
+  works:1.08
+
+Topic 1:
+  agora:11.90
+  market:4.65
+  btc:3.89
+  time:3.77
+  seized:3.72
+  le:3.16
+  trouble:2.72
+  login:2.57
+  code:1.78
+  logging:1.72
+
+Topic 2:
+  message:4.96
+  site:4.29
+  hope:3.12
+  fixing:2.84
+  signed:2.74
+  november:2.73
+  control:2.00
+  hours:1.61
+  place:1.58
+  yesterday:1.55
+
+Topic 3:
+  good:4.28
+  lot:3.85
+  people:3.85
+  agora:3.49
+  le:3.30
+  undercover:2.50
+  guyver:2.50
+  playing:2.42
+  sr:2.25
+  scam:2.19
+
+Topic 4:
+  le:18.50
+  suspect:9.67
+  hack:7.18
+  december:6.29
+  quote:5.78
+  dont:5.65
+  godofwar:4.48
+  pmi:2.40
+  confirmed:2.26
+  agra:1.87
+
+K: 5, Log-Likelihood: -2339.146, Alpha: 11.000, Beta: 1.100

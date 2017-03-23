@@ -1,0 +1,61 @@
+Topic 0:
+  mac:6.57
+  cheat sheet:5.07
+  gog usb:4.96
+  ill:4.37
+  ive:3.54
+  separate:3.54
+  installed tails:3.54
+  installed correct:3.54
+  gpg usb:3.54
+  mac mac:3.54
+
+Topic 1:
+  encrypted:10.73
+  darknet:8.94
+  phone chat:7.15
+  today:7.15
+  reference find:7.15
+  device:7.15
+  mail tor:7.15
+  communicate access web anonymous:7.15
+  pgp key:7.15
+  security:6.05
+
+Topic 2:
+  public key:11.28
+  enter:6.94
+  code select:5.83
+  key:4.34
+  command:3.15
+  trust:2.93
+  free software:2.67
+  gnupg:2.59
+  file:2.50
+  user:2.33
+
+Topic 3:
+  key:24.21
+  public key:20.00
+  code select:16.13
+  command code select gpg:16.05
+  user:15.24
+  trust:14.63
+  expunged created expires usage:11.69
+  gnupg:10.57
+  entered:9.27
+  key expires:8.90
+
+Topic 4:
+  encrusted text:4.36
+  clipboard:4.36
+  gpa ubuntu decrypt receiving:4.34
+  cli:4.19
+  file:4.18
+  running:3.53
+  amim:3.49
+  mulder:3.49
+  fox:3.49
+  easier:3.49
+
+K: 5, Log-Likelihood: -23115.170, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  rcmp:74.02
+  blackberry:48.39
+  globe key:46.04
+  globe encryption key:40.71
+  key:33.46
+  crime:23.40
+  judge:23.16
+  project clemenza:22.21
+  case:21.56
+  law enforcement:20.76
+
+Topic 1:
+  expiry:22.20
+  os:18.51
+  encryption:16.26
+  expires key fingerprint:14.80
+  crypto keys:14.80
+  created:13.18
+  government:13.02
+  human rights:12.01
+  af:11.10
+  le:11.10
+
+Topic 2:
+  tracking systems:46.14
+  carriers:42.27
+  location data:32.96
+  surveillance systems:30.21
+  systems:28.97
+  companies:28.41
+  marketing documents:26.36
+  web site:26.36
+  globe:22.35
+  verint:19.77
+
+Topic 3:
+  calls texts:25.91
+  police:22.89
+  cell phone:20.08
+  calls:18.50
+  cbc news:18.50
+  ss:18.06
+  blackberry:16.79
+  company:15.68
+  law enforcement:14.37
+  requests:13.21
+
+Topic 4:
+  silk road:29.22
+  didnt:20.70
+  price gold:19.77
+  bay area:19.48
+  shit:19.05
+  dark web:18.50
+  scary damage immense mention:17.95
+  pmi bill agree fucking:16.78
+  fact totally constitutional lived:16.12
+  incredible shit passed legislatures:16.12
+
+K: 5, Log-Likelihood: -211334.855, Alpha: 11.000, Beta: 1.100

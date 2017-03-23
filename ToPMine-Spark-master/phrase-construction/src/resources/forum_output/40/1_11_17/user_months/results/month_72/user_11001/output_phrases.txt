@@ -1,0 +1,61 @@
+Topic 0:
+  messages:0.37
+  numbers:0.37
+  person:0.37
+  mobile:0.37
+  sold:0.37
+  provide:0.20
+  issue:0.20
+  dealing:0.20
+  grateful:0.20
+  uk mobile:0.20
+
+Topic 1:
+  person:0.37
+  messages:0.37
+  numbers:0.36
+  sold:0.36
+  mobile:0.36
+  call:0.21
+  quote:0.20
+  february:0.20
+  hoping:0.20
+  grateful:0.20
+
+Topic 2:
+  sold:0.37
+  mobile:0.37
+  messages:0.37
+  numbers:0.37
+  person:0.37
+  family:0.20
+  anonymous:0.20
+  provide:0.20
+  service:0.20
+  longer:0.20
+
+Topic 3:
+  numbers:0.37
+  sold:0.37
+  mobile:0.37
+  person:0.37
+  messages:0.36
+  calling:0.20
+  supposedly:0.20
+  call:0.20
+  friends:0.20
+  dealing:0.20
+
+Topic 4:
+  person:0.36
+  mobile:0.36
+  numbers:0.36
+  messages:0.36
+  sold:0.36
+  call:0.21
+  february:0.20
+  quote:0.20
+  longer:0.20
+  provide number:0.20
+
+K: 5, Log-Likelihood: -236.761, Alpha: 11.000, Beta: 1.100

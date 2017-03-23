@@ -1,0 +1,26 @@
+Topic 0:
+  ouid:0.00
+  link:0.00
+  store:0.00
+
+Topic 1:
+  ouid:0.00
+  link:0.00
+  store:0.00
+
+Topic 2:
+  ouid:0.00
+  link:0.00
+  store:0.00
+
+Topic 3:
+  ouid:0.00
+  link:0.00
+  store:0.00
+
+Topic 4:
+  ouid:0.00
+  link:0.00
+  store:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

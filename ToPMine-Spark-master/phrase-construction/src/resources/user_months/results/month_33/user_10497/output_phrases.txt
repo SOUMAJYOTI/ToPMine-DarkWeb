@@ -1,0 +1,61 @@
+Topic 0:
+  data:6.49
+  nsa:3.56
+  encryption:3.34
+  classification guide:2.89
+  systems:2.68
+  program:2.47
+  called:2.21
+  asa:2.17
+  service:1.89
+  programs:1.85
+
+Topic 1:
+  nsa:20.25
+  program:5.43
+  encryption:5.23
+  asa document:4.96
+  internet:4.79
+  year:3.99
+  traffic:3.99
+  break:3.97
+  tls:3.96
+  ash:3.80
+
+Topic 2:
+  ross:4.97
+  quote claptrap february:4.56
+  natural:3.87
+  careless:3.87
+  rest:3.87
+  spend:3.87
+  security:3.87
+  zaphod:3.71
+  software exists people:3.71
+  disk encryption fde pgp:3.71
+
+Topic 3:
+  data:15.07
+  nsa:13.15
+  asa document:8.89
+  systems:8.81
+  internet:7.69
+  called:7.38
+  encryption:6.35
+  service:6.22
+  program:5.71
+  programs:5.70
+
+Topic 4:
+  username password:9.10
+  email:7.63
+  bug:5.82
+  password:4.28
+  mail client:4.07
+  account:3.88
+  fuck:3.88
+  coworker:3.88
+  story:3.88
+  generator:3.87
+
+K: 5, Log-Likelihood: -26551.417, Alpha: 11.000, Beta: 1.100

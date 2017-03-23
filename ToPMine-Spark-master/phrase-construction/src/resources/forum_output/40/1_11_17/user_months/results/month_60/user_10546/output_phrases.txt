@@ -1,0 +1,61 @@
+Topic 0:
+  btc:0.39
+  transaction:0.38
+  time:0.35
+  read:0.35
+  wallet:0.20
+  top:0.19
+  number:0.19
+  send:0.19
+  zzszzcwwaxfb:0.19
+  kind:0.19
+
+Topic 1:
+  transaction:0.37
+  btc:0.37
+  time:0.36
+  read:0.36
+  wallet:0.20
+  cc:0.18
+  dddif:0.18
+  number:0.18
+  english:0.18
+  gaphkt:0.18
+
+Topic 2:
+  btc:0.38
+  transaction:0.38
+  read:0.35
+  time:0.35
+  wallet:0.20
+  blockchain:0.19
+  figure:0.19
+  zzszzcwwaxfb:0.19
+  dddif:0.19
+  wtf:0.19
+
+Topic 3:
+  read:0.39
+  time:0.39
+  transaction:0.35
+  btc:0.34
+  wallet:0.20
+  guides:0.19
+  advice:0.19
+  dude:0.19
+  bit:0.19
+  absorb:0.19
+
+Topic 4:
+  read:0.38
+  time:0.38
+  btc:0.36
+  transaction:0.35
+  wallet:0.20
+  guides:0.19
+  darknet:0.19
+  questions:0.19
+  insane:0.19
+  dude:0.19
+
+K: 5, Log-Likelihood: -147.981, Alpha: 11.000, Beta: 1.100

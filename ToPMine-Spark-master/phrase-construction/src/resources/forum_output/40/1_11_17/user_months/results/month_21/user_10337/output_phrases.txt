@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.52
+  market:0.48
+  october:0.39
+  quote:0.39
+  account btc:0.31
+  mentioned:0.31
+  finally banned:0.31
+  learn:0.31
+  delete:0.31
+  unanswered:0.31
+
+Topic 1:
+  october:1.00
+  quote:0.97
+  exodus:0.67
+  time:0.66
+  coming:0.65
+  good:0.65
+  sr:0.58
+  devil:0.38
+  chose:0.38
+  tabs:0.38
+
+Topic 2:
+  market:0.88
+  banned:0.87
+  sounds:0.60
+  botnet:0.60
+  campain:0.60
+  mind:0.60
+  money:0.60
+  hiss:0.60
+  putting:0.60
+  expose:0.60
+
+Topic 3:
+  market:0.64
+  banned:0.55
+  sr:0.43
+  shills:0.32
+  year:0.32
+  markets:0.30
+  dont:0.30
+  con:0.30
+  leave:0.30
+  beware:0.30
+
+Topic 4:
+  quote:1.66
+  october:1.63
+  good:1.01
+  coming:1.00
+  time:1.00
+  exodus:0.98
+  sr:0.54
+  pay:0.42
+  practice:0.42
+  pmhaha:0.42
+
+K: 5, Log-Likelihood: -1018.272, Alpha: 11.000, Beta: 1.100

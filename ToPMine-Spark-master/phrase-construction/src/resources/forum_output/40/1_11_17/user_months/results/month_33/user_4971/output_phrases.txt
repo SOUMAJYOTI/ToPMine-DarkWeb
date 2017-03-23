@@ -1,0 +1,61 @@
+Topic 0:
+  don:1.34
+  ve:1.06
+  recieved handful reviews handful:0.86
+  hope find success don:0.86
+  hope hear sooncheers:0.85
+  hear:0.85
+  quote:0.85
+  funds visit shop glad:0.85
+  sillywabbit november pmst:0.85
+  yeah orders lsd high:0.84
+
+Topic 1:
+  good:1.16
+  don:1.08
+  quality product:0.86
+  ve:0.82
+  funds visit shop glad:0.67
+  quote:0.66
+  yeah orders lsd high:0.66
+  sillywabbit november pmst:0.66
+  hope hear sooncheers:0.65
+  hear:0.65
+
+Topic 2:
+  oil:4.71
+  mdma:3.10
+  st:2.24
+  pmb:1.50
+  wax:1.50
+  hath:1.50
+  shatter:1.50
+  completely:1.50
+  safrol:1.50
+  hash:1.50
+
+Topic 3:
+  quality product:3.30
+  good:2.96
+  abit:1.40
+  consistently:1.39
+  sheets:1.39
+  long:1.38
+  stick:1.38
+  find:1.38
+  nature:1.38
+  low:1.38
+
+Topic 4:
+  heard:2.17
+  shocked:2.17
+  closed:2.17
+  markets:2.17
+  seizes:2.17
+  shut:2.17
+  pretty:2.17
+  specific:2.17
+  vendows:2.17
+  bungee:2.16
+
+K: 5, Log-Likelihood: -2031.709, Alpha: 11.000, Beta: 1.100

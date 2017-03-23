@@ -1,0 +1,61 @@
+Topic 0:
+  threat:4.92
+  quote:4.33
+  people:4.25
+  axa:4.20
+  guys:4.17
+  safe:4.14
+  tc:3.89
+  truecrypt:3.62
+  encrypt:3.40
+  aware:3.22
+
+Topic 1:
+  tc:18.31
+  audit:6.36
+  software:5.38
+  security:4.95
+  unfixed:4.57
+  encryption:4.48
+  hardware:4.14
+  couple:3.94
+  single:3.94
+  pissy:3.94
+
+Topic 2:
+  truecrypt:7.75
+  encryption:7.12
+  alternatives:3.92
+  suggestion:3.68
+  windows:3.61
+  tails:3.58
+  scared:3.58
+  links:2.92
+  lot:2.91
+  warning:2.87
+
+Topic 3:
+  bitcoin:41.95
+  atm:16.84
+  users:9.76
+  skyhook:8.95
+  drake:8.95
+  price:8.95
+  buy:7.74
+  existing:6.67
+  security:6.52
+  exchange:6.10
+
+Topic 4:
+  cash:13.05
+  dont:11.80
+  pmquote:10.79
+  trc:9.75
+  shop:8.88
+  exchange:7.75
+  time:7.72
+  good:7.69
+  thing:7.63
+  coin:6.72
+
+K: 5, Log-Likelihood: -8345.079, Alpha: 11.000, Beta: 1.100

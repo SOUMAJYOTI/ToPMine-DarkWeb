@@ -1,0 +1,61 @@
+Topic 0:
+  tails:0.53
+  sharedcoin comalso noticed:0.53
+  address mupltiple inputs sharedcoin:0.52
+  sharedcoin site feature bc:0.50
+  kinda sucks sketch enabling:0.50
+  shared send:0.49
+  problems:0.46
+  future:0.46
+  avoid:0.45
+  send:0.45
+
+Topic 1:
+  issues:0.98
+  button:0.98
+  op:0.98
+  loading:0.98
+  blue:0.98
+  simply:0.98
+  box:0.98
+  stays:0.97
+  greyish:0.97
+  clickable:0.97
+
+Topic 2:
+  february pmquote:1.68
+  moment:0.86
+  fog:0.86
+  bitcoin:0.85
+  blackstar:0.85
+  alternative:0.85
+  credible:0.85
+  feature:0.81
+  feds:0.81
+  um:0.81
+
+Topic 3:
+  blockchain info:3.96
+  transaction:3.96
+  shared send:2.83
+  time:2.58
+  vendor:2.58
+  complete:2.58
+  directly:1.21
+  expereince:1.21
+  longer:1.21
+  popup:1.21
+
+Topic 4:
+  kinda sucks sketch enabling:0.66
+  sharedcoin site feature bc:0.65
+  february pmquote:0.62
+  address mupltiple inputs sharedcoin:0.62
+  sharedcoin comalso noticed:0.62
+  quote:0.61
+  shit explain perfectly didn:0.61
+  owockeznan february pmyou:0.61
+  noscript allowing blockchain info:0.56
+  address send:0.55
+
+K: 5, Log-Likelihood: -721.212, Alpha: 11.000, Beta: 1.100

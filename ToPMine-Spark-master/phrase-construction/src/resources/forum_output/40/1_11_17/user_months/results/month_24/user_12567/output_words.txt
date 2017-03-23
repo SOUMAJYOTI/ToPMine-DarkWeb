@@ -1,0 +1,61 @@
+Topic 0:
+  nyt:3.65
+  jos:3.19
+  smitten:2.73
+  tosin:1.68
+  menetettyj:1.68
+  siirron:1.68
+  pmb:1.68
+  siirsin:1.68
+  pienemm:1.68
+  ensimm:1.68
+
+Topic 1:
+  tulip:2.35
+  october:2.03
+  siirretty:1.65
+  ytt:1.53
+  sanaton:1.44
+  bitcoineja:1.32
+  blockchainissa:1.23
+  sivussa:1.22
+  mutta:1.21
+  tietoturvaongelmia:1.19
+
+Topic 2:
+  ytt:1.96
+  ei:1.66
+  tulip:1.62
+  october:1.49
+  ja:1.15
+  quote:1.01
+  bitcoineja:1.00
+  rahat:0.98
+  kadota:0.95
+  sanaton:0.84
+
+Topic 3:
+  october:2.16
+  siirretty:1.76
+  tulip:1.75
+  ytt:1.39
+  ei:1.26
+  bitcoineja:1.18
+  kyy:1.16
+  sanaton:1.14
+  silkkitielle:1.12
+  kuumotus:1.11
+
+Topic 4:
+  october:1.84
+  siirretty:1.76
+  tulip:1.75
+  bitcoineja:1.42
+  ytt:1.38
+  mit:1.21
+  rahojen:1.20
+  oikein:1.15
+  siirto:1.15
+  silkkitielle:1.14
+
+K: 5, Log-Likelihood: -1385.309, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ports:7.55
+  files:7.55
+  machine:7.55
+  business:7.55
+  bridge:7.55
+  cover:7.55
+  encryption:7.55
+  location:7.55
+  client device:7.55
+  techniques:7.55
+
+Topic 1:
+  snooping:4.54
+  config:4.48
+  vpn:4.33
+  thing:3.95
+  talking:3.68
+  telco:3.55
+  packages:3.54
+  info:3.28
+  dongle:2.38
+  nefarious:2.24
+
+Topic 2:
+  laptop:4.56
+  ram:4.56
+  private:4.50
+  direct:3.74
+  thread:3.71
+  cell:3.56
+  lots:3.22
+  method:2.83
+  things:2.45
+  fetched:2.26
+
+Topic 3:
+  tails:4.72
+  root:4.57
+  blacklisting:4.57
+  light:4.55
+  helix:4.55
+  hot spot:4.35
+  ill:3.47
+  security:3.27
+  require:3.08
+  bad:3.04
+
+Topic 4:
+  card:4.77
+  airtime:4.56
+  tails:4.43
+  slot:3.73
+  jack:3.73
+  understand:3.73
+  connection curious:3.73
+  caroline:3.73
+  good info:3.73
+  firewire port:3.53
+
+K: 5, Log-Likelihood: -7538.468, Alpha: 11.000, Beta: 1.100

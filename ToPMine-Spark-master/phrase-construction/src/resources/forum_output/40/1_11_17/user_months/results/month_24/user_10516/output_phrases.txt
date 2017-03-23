@@ -1,0 +1,61 @@
+Topic 0:
+  inside:8.76
+  years:7.26
+  brute:5.69
+  wpa:5.69
+  essential:4.37
+  weird:4.37
+  flaws:4.37
+  sort:4.37
+  implementation:4.37
+  passwords:4.37
+
+Topic 1:
+  system:9.51
+  whonix qubes:8.76
+  tpm:8.75
+  couple:7.15
+  evil maid:6.56
+  lenox:6.56
+  beaglebone black:5.70
+  vendor:5.19
+  usability:5.19
+  high:5.19
+
+Topic 2:
+  hardware separation:5.18
+  older:5.14
+  animal:5.14
+  nice:4.34
+  good fellow:4.34
+  cut:4.32
+  gigs:4.32
+  guess:4.32
+  whonix:4.24
+  hope:3.92
+
+Topic 3:
+  bitcoin:8.32
+  notebook:6.54
+  virtual:5.18
+  connect:5.18
+  plugins:5.11
+  range:4.34
+  jack:4.34
+  ethernet:3.96
+  beaglebone black:3.80
+  dont:3.58
+
+Topic 4:
+  dens:7.78
+  devices:7.55
+  good days:7.54
+  bad days:5.29
+  tunnel:5.18
+  hotspots:5.18
+  server:5.18
+  endpoint:5.18
+  install:5.18
+  horrible:5.13
+
+K: 5, Log-Likelihood: -11375.647, Alpha: 11.000, Beta: 1.100

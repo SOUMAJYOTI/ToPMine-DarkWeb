@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.20
+  forum:0.20
+  listing:0.18
+  hmu:0.18
+  buying:0.18
+  link:0.18
+  accounts:0.18
+  established:0.18
+  people:0.18
+  direct:0.18
+
+Topic 1:
+  forum:0.20
+  sr:0.20
+  established:0.18
+  hmu:0.18
+  link:0.18
+  buying:0.18
+  direct:0.18
+  accounts:0.18
+  people:0.18
+  listing:0.18
+
+Topic 2:
+  sr:0.20
+  forum:0.20
+  accounts:0.18
+  established:0.18
+  listing:0.18
+  reason:0.18
+  buying:0.18
+  hmu:0.18
+  link:0.18
+  evilgrin:0.18
+
+Topic 3:
+  sr:0.20
+  forum:0.20
+  link:0.18
+  accounts:0.18
+  established:0.18
+  listing:0.18
+  buying:0.18
+  hmu:0.18
+  reason:0.18
+  evilgrin:0.18
+
+Topic 4:
+  forum:0.20
+  sr:0.20
+  post:0.18
+  edited:0.18
+  trade:0.18
+  pm:0.18
+  direct:0.18
+  people:0.18
+  evilgrin:0.18
+  reason:0.18
+
+K: 5, Log-Likelihood: -41.860, Alpha: 11.000, Beta: 1.100

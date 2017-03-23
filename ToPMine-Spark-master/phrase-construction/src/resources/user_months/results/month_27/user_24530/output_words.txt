@@ -1,0 +1,61 @@
+Topic 0:
+  encryption:20.86
+  people:15.74
+  encrypt:13.03
+  bitmessage:11.43
+  double:6.93
+  trust:6.27
+  case:6.25
+  secure:6.24
+  acid:6.23
+  lsd:6.17
+
+Topic 1:
+  dont:12.47
+  vendor:8.10
+  password:7.97
+  good:7.94
+  quote:7.22
+  security:7.10
+  ill:6.23
+  drugs:6.12
+  november:5.95
+  big:5.73
+
+Topic 2:
+  vendors:34.67
+  le:17.18
+  tmg:11.84
+  safe:10.24
+  stay:10.19
+  ag:8.89
+  shops:6.94
+  access:6.76
+  public:6.57
+  dont:6.51
+
+Topic 3:
+  drugs:18.08
+  people:17.63
+  drug:13.12
+  lsd:12.61
+  dont:11.32
+  good:7.75
+  proper:5.79
+  society:5.41
+  hope:5.15
+  change:5.06
+
+Topic 4:
+  tor:49.33
+  traffic:13.94
+  markets:9.71
+  agora:9.65
+  server:9.37
+  safe:9.24
+  find:8.90
+  sr:8.69
+  analysis:8.23
+  evo:7.83
+
+K: 5, Log-Likelihood: -24984.724, Alpha: 11.000, Beta: 1.100

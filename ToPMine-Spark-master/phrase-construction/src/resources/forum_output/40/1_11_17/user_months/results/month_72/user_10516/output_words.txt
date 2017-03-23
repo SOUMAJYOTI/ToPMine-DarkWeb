@@ -1,0 +1,61 @@
+Topic 0:
+  dont:2.02
+  life:1.25
+  quote:1.22
+  installed:1.17
+  protection:1.16
+  integrity:1.16
+  knowing:1.16
+  directly:1.16
+  download:1.16
+  actors:1.16
+
+Topic 1:
+  hidden:2.65
+  tor:2.64
+  updates:2.08
+  real:1.88
+  attack:1.88
+  year:1.54
+  design:1.54
+  repos:1.54
+  heard:1.54
+  service:1.53
+
+Topic 2:
+  offer:5.69
+  nasty:5.36
+  thing:4.57
+  packages:4.21
+  distros:3.83
+  package:2.97
+  key:2.90
+  secure:2.23
+  access:1.89
+  malware:1.88
+
+Topic 3:
+  ram:9.62
+  luck:4.71
+  trigger:3.80
+  january:2.96
+  tails:2.85
+  bracelet:2.82
+  soliciting:2.62
+  additional:2.62
+  prefer:2.61
+  encrusted:2.61
+
+Topic 4:
+  good:4.72
+  swap:2.11
+  encrypted:2.02
+  place:1.75
+  idea:1.74
+  dont:1.60
+  security:1.46
+  advice:1.40
+  heh:1.23
+  reason:1.23
+
+K: 5, Log-Likelihood: -2340.927, Alpha: 11.000, Beta: 1.100

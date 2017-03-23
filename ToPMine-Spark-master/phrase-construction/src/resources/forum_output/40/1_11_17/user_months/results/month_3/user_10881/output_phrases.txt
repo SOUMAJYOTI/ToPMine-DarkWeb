@@ -1,0 +1,61 @@
+Topic 0:
+  pgp software backdoored nsa:4.78
+  keyservers:4.61
+  simple:4.58
+  random:4.58
+  difficulty:3.77
+  scource:3.77
+  claimed:3.77
+  imputable:3.77
+  cracking:3.77
+  great:3.77
+
+Topic 1:
+  messages:7.74
+  order:6.81
+  message:3.93
+  shit impossible:3.85
+  senseprivnote:3.85
+  derailed:3.85
+  records:3.85
+  tied:3.85
+  place:3.85
+  private key:3.85
+
+Topic 2:
+  officer:4.67
+  enforcement:4.67
+  law:4.67
+  cop:4.67
+  crime:4.67
+  prove:4.64
+  jules winnfield:4.49
+  confirmed:4.48
+  privnote compromised:4.36
+  obi:3.85
+
+Topic 3:
+  dont:4.99
+  tails:4.98
+  xyz:4.67
+  public nsa:4.67
+  kgb:4.67
+  power:4.67
+  encrypt:3.81
+  tbb tails:3.48
+  javascript:3.47
+  default:3.47
+
+Topic 4:
+  telegram secret:7.71
+  secure:7.71
+  quote:6.68
+  criminals terrorists mmorpg games:3.91
+  news:3.89
+  transactions game money obi:3.88
+  agents sole job play:3.87
+  snowden:3.87
+  friends:3.82
+  price:3.82
+
+K: 5, Log-Likelihood: -5702.687, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  os:7.23
+  blobs:5.29
+  security:4.65
+  kernel:4.46
+  linus:4.44
+  list:4.41
+  dont:4.20
+  short:3.98
+  oss:3.98
+  opened:3.69
+
+Topic 1:
+  hardware:7.91
+  coreboot:7.20
+  openbsd:5.42
+  quote:4.70
+  march:4.53
+  support:4.48
+  os:4.22
+  vpro:4.03
+  download:4.01
+  beagle:3.95
+
+Topic 2:
+  good:6.83
+  intel:6.63
+  firmware:5.37
+  chipset:4.97
+  freebsd:3.98
+  laptops:3.97
+  doesnt:3.70
+  things:3.60
+  openbsd:3.48
+  hardware:2.99
+
+Topic 3:
+  security:6.05
+  qubes:4.95
+  firmware:4.74
+  ignoring:3.97
+  machine:3.65
+  bad:3.32
+  binary:3.03
+  tubes:2.97
+  problem:2.85
+  code:2.74
+
+Topic 4:
+  bios:14.85
+  tails:9.98
+  code:9.22
+  kovah:8.98
+  implant:6.98
+  system:6.83
+  kallenberg:5.98
+  access:5.89
+  vendors:4.98
+  reference:4.42
+
+K: 5, Log-Likelihood: -9143.139, Alpha: 11.000, Beta: 1.100

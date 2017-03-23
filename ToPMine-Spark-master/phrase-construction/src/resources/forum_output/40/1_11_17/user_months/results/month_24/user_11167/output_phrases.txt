@@ -1,0 +1,36 @@
+Topic 0:
+  guys:0.08
+  isolated:0.08
+  bought:0.08
+  shops:0.08
+  scam:0.00
+
+Topic 1:
+  isolated:0.08
+  shops:0.08
+  bought:0.08
+  guys:0.08
+  scam:0.00
+
+Topic 2:
+  guys:0.08
+  shops:0.08
+  bought:0.08
+  isolated:0.08
+  scam:0.00
+
+Topic 3:
+  isolated:0.08
+  bought:0.08
+  guys:0.08
+  shops:0.08
+  scam:0.00
+
+Topic 4:
+  guys:0.08
+  bought:0.08
+  shops:0.08
+  isolated:0.08
+  scam:0.00
+
+K: 5, Log-Likelihood: -2.458, Alpha: 11.000, Beta: 1.100

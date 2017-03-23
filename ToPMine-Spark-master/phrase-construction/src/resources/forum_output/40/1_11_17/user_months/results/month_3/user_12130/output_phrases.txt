@@ -1,0 +1,61 @@
+Topic 0:
+  game:0.56
+  bet bitcoins:0.56
+  spare:0.55
+  win:0.54
+  deposit:0.38
+  amount:0.29
+  cash:0.28
+  short:0.26
+  staff:0.26
+  amount bet:0.26
+
+Topic 1:
+  deposit:0.46
+  spare:0.42
+  game:0.42
+  bet bitcoins:0.41
+  win:0.41
+  staff:0.28
+  short:0.28
+  bonus:0.28
+  extra:0.28
+  extra coins:0.28
+
+Topic 2:
+  deposit:0.49
+  win:0.33
+  spare:0.33
+  bet bitcoins:0.33
+  game:0.33
+  extra coins:0.32
+  bonus:0.32
+  extra:0.32
+  staff:0.29
+  short:0.29
+
+Topic 3:
+  win:0.55
+  bet bitcoins:0.54
+  spare:0.54
+  game:0.53
+  deposit:0.39
+  amount:0.29
+  cash:0.28
+  staff:0.26
+  short:0.26
+  problems:0.25
+
+Topic 4:
+  deposit:0.49
+  spare:0.36
+  win:0.36
+  bet bitcoins:0.36
+  game:0.36
+  extra:0.30
+  extra coins:0.30
+  bonus:0.30
+  short:0.29
+  staff:0.29
+
+K: 5, Log-Likelihood: -283.888, Alpha: 11.000, Beta: 1.100

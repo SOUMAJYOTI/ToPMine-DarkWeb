@@ -1,0 +1,61 @@
+Topic 0:
+  currency:19.89
+  march:18.88
+  time:16.25
+  btc:13.31
+  digital:11.58
+  superseded:10.81
+  amquote:9.91
+  sldk:8.89
+  gold:8.87
+  bitcoin:8.76
+
+Topic 1:
+  wallet:13.80
+  bridge:8.39
+  traffic:7.37
+  time:5.58
+  find:5.55
+  prison:5.21
+  money:4.71
+  seed:4.50
+  coin:4.28
+  drive:4.05
+
+Topic 2:
+  jondonym:9.91
+  mix:7.98
+  mixes:7.89
+  operators:6.98
+  users:5.98
+  cascades:5.98
+  cascade:4.98
+  tor:4.93
+  fredgarvin:4.56
+  maleprostitute:4.56
+
+Topic 3:
+  quote:6.24
+  tattoo:4.56
+  dont:4.26
+  wanted:3.59
+  bridge:3.27
+  chosen:2.84
+  years:2.49
+  program:2.49
+  sense:2.41
+  change:2.41
+
+Topic 4:
+  tails:32.07
+  tor:20.08
+  bridges:19.80
+  network:12.37
+  click:10.88
+  connecting:6.71
+  obis:6.63
+  save:6.54
+  screen:5.82
+  choose:5.11
+
+K: 5, Log-Likelihood: -10468.647, Alpha: 11.000, Beta: 1.100

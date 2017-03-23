@@ -1,0 +1,61 @@
+Topic 0:
+  vpn:8.60
+  logs:5.34
+  comms:5.13
+  isp:4.54
+  vpns:4.25
+  tor:4.01
+  dont:3.34
+  service:3.03
+  info:2.79
+  destination:2.66
+
+Topic 1:
+  tor:24.67
+  vpn:13.62
+  logs:12.28
+  vpns:11.66
+  ip:8.69
+  le:7.96
+  good:6.94
+  dont:6.86
+  people:6.77
+  nodes:6.66
+
+Topic 2:
+  vpn:25.11
+  traffic:15.36
+  vpns:11.65
+  data:10.88
+  december:9.30
+  connecting:9.13
+  quote:8.25
+  cert:7.84
+  encrypted:7.65
+  ip:6.70
+
+Topic 3:
+  vpn:45.30
+  tor:45.13
+  isp:24.92
+  server:16.49
+  data:15.21
+  hidden:12.88
+  december:10.67
+  service:10.15
+  canahontra:10.09
+  crack:9.89
+
+Topic 4:
+  vpn:15.37
+  free:5.65
+  services:4.02
+  tor:3.75
+  internet:3.62
+  isp:3.00
+  swedish:2.94
+  service:2.66
+  warning:2.50
+  frootvpn:2.46
+
+K: 5, Log-Likelihood: -9636.315, Alpha: 11.000, Beta: 1.100

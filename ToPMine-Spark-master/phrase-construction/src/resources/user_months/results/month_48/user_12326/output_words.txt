@@ -1,0 +1,61 @@
+Topic 0:
+  key:0.40
+  hacking:0.40
+  product:0.40
+  work:0.20
+  vendor:0.20
+  buy:0.20
+  advertise:0.20
+  computer:0.20
+  trial:0.20
+  type:0.20
+
+Topic 1:
+  key:0.40
+  product:0.40
+  hacking:0.40
+  written:0.20
+  jack:0.20
+  hey:0.20
+  happy:0.20
+  guys:0.20
+  version:0.20
+  software:0.20
+
+Topic 2:
+  key:0.40
+  hacking:0.40
+  product:0.40
+  verified:0.20
+  jack:0.20
+  trial:0.20
+  software:0.20
+  jebusite:0.20
+  version:0.20
+  happy:0.20
+
+Topic 3:
+  product:0.40
+  hacking:0.40
+  key:0.40
+  software:0.20
+  hey:0.20
+  advertise:0.20
+  works:0.20
+  jebusite:0.20
+  computer:0.20
+  captain:0.20
+
+Topic 4:
+  product:0.40
+  hacking:0.40
+  key:0.40
+  goods:0.20
+  buy:0.20
+  hours:0.20
+  happy:0.20
+  marketplace:0.20
+  verified:0.20
+  works:0.20
+
+K: 5, Log-Likelihood: -106.823, Alpha: 11.000, Beta: 1.100

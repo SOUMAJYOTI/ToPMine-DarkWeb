@@ -1,0 +1,61 @@
+Topic 0:
+  moment:0.14
+  tor:0.14
+  gateway:0.14
+  dont:0.14
+  things:0.14
+  legit:0.14
+  confirm:0.14
+  doesnt:0.14
+  minutes:0.14
+  longer:0.14
+
+Topic 1:
+  nature:0.14
+  stable:0.14
+  connected:0.14
+  minutes:0.14
+  ps:0.14
+  time:0.14
+  longer:0.14
+  ignore:0.14
+  things:0.14
+  work:0.14
+
+Topic 2:
+  tor:0.14
+  legit:0.14
+  gateway:0.14
+  dont:0.14
+  confirm:0.14
+  moment:0.14
+  ignore:0.14
+  ps:0.14
+  nature:0.14
+  time:0.14
+
+Topic 3:
+  minutes:0.14
+  things:0.14
+  ps:0.14
+  connected:0.14
+  time:0.14
+  work:0.14
+  longer:0.14
+  doesnt:0.14
+  stable:0.14
+  nature:0.14
+
+Topic 4:
+  confirm:0.14
+  dont:0.14
+  legit:0.14
+  tor:0.14
+  moment:0.14
+  gateway:0.14
+  ignore:0.14
+  stable:0.14
+  longer:0.14
+  work:0.14
+
+K: 5, Log-Likelihood: -35.714, Alpha: 11.000, Beta: 1.100

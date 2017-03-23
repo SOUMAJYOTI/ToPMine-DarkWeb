@@ -1,0 +1,61 @@
+Topic 0:
+  marketplace:3.39
+  forums:2.85
+  vendors:2.73
+  love:2.04
+  account:1.77
+  vendor:1.67
+  link:1.57
+  staff:1.44
+  buyers:1.26
+  members:1.24
+
+Topic 1:
+  marketplace:3.23
+  forums:2.60
+  vendors:2.43
+  staff:1.78
+  link:1.52
+  account:1.44
+  vendor:1.35
+  topic:1.22
+  listing:1.19
+  links:1.13
+
+Topic 2:
+  marketplace:4.61
+  vendors:2.68
+  forums:2.19
+  account:1.96
+  staff:1.66
+  front:1.62
+  links:1.53
+  link:1.44
+  vendor:1.42
+  buyers:1.16
+
+Topic 3:
+  alphabay:3.73
+  forums:3.62
+  marketplace:2.53
+  vendors:2.49
+  vendor:2.17
+  link:1.85
+  account:1.58
+  staff:1.41
+  alphabet:1.39
+  members:1.35
+
+Topic 4:
+  love:10.21
+  avengers:9.69
+  marketplace:3.24
+  forums:2.74
+  vendors:2.67
+  staff:1.71
+  link:1.63
+  vendor:1.40
+  market:1.30
+  topic:1.27
+
+K: 5, Log-Likelihood: -2353.840, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,402 @@
+exception,0,2
+departure destination,1,2
+letter letter,2,2
+uppercase letter,3,6
+queen rook,4,2
+promoted,5,4
+quote,6,10
+nordicshrooms april pmquote,7,9
+rank,8,10
+promotes,9,2
+piece pieces,10,1
+moving,11,2
+addition,12,2
+naming squares,13,2
+promoting,14,2
+notation letter,15,3
+checkmatea,16,2
+preference,17,2
+squares,18,8
+capture file,19,2
+april amquote,20,4
+bishop knight,21,2
+left,22,2
+kingside castling,23,2
+piece uppercase,24,1
+quote nordicshrooms,25,5
+piece letter,26,3
+move square,27,4
+bg,28,2
+chess notation,29,2
+quote ya april,30,3
+wikipedia,31,2
+irc,32,2
+pawns identified uppercase letter,33,4
+completion,34,2
+good pd,35,1
+ootp,36,2
+column,37,2
+identify pawn,38,2
+called ranks,39,2
+challenge cool standard,40,3
+messages day pressure,41,3
+pawn pe,42,1
+passant captures,43,2
+rdd,44,2
+move bishop,45,2
+standard notation,46,5
+april pmquote ya april,47,9
+standard,48,5
+pawns promoted,49,2
+capture en,50,2
+correct,51,4
+april pmquote,52,9
+chill,53,3
+language,54,2
+good,55,3
+ber,56,2
+couldn,57,1
+red,58,2
+square knights,59,2
+challenge cool,60,3
+file departure,61,4
+leave,62,2
+pawn exd,63,2
+rare,64,2
+number white,65,1
+ranks differ,66,2
+rook bishop,67,2
+needy,68,2
+ya april pme,69,3
+differ file,70,2
+en,71,4
+quote nordicshrooms april pmquote,72,5
+clearer,73,2
+rdxd,74,2
+check,75,4
+player identical,76,2
+standard notation letter,77,3
+files ranks,78,2
+quote ya,79,3
+piece,80,25
+pawn,81,24
+rooks,82,2
+notations,83,2
+pmquote ya april,84,9
+explained,85,2
+ya april amquote,86,4
+letter coordinate,87,2
+rank departure,88,2
+appended,89,2
+captured,90,2
+orderofthephoenix,91,1
+hard,92,2
+moves pawn,93,2
+pawn file,94,3
+captures,95,8
+identify,96,4
+departed,97,2
+rank number,98,2
+rook,99,4
+moves piece,100,2
+en passant,101,4
+special,102,2
+promotionwhen,103,2
+pmquote ya,104,9
+moves,105,12
+captures piece,106,4
+passant,107,4
+called,108,4
+knights move,109,2
+optionally,110,2
+amquote nordicshrooms april,111,4
+passant exd,112,2
+moves rank,113,2
+occurs,114,2
+bit,115,2
+blacks,116,1
+number,117,4
+quote ya april pmcool,118,1
+piece pawn,119,2
+pmwell,120,2
+order,121,2
+standard notation letter piece,122,3
+letter number,123,2
+inserted destination,124,2
+knights moves,125,2
+bishop captures,126,2
+shoot messages day,127,3
+pieceseach,128,2
+messages,129,3
+wait,130,2
+queen,131,4
+destination square,132,6
+april pme,133,3
+pawn file departure,134,1
+products,135,2
+indicating,136,2
+frankly,137,2
+file,138,14
+inserted,139,4
+king check,140,2
+wouldn,141,1
+side,142,2
+exd pawn,143,2
+parabol,144,1
+ndf,145,2
+likewise,146,2
+places,147,2
+pressure quote nordicshrooms april,148,3
+nordicshrooms,149,9
+play chess,150,2
+day pressure,151,3
+pressure quote,152,3
+ya april pmcool idea,153,3
+identify piece,154,2
+pieces move,155,2
+departure files,156,2
+squares called,157,4
+suffix,158,2
+identical,159,4
+whites,160,3
+pawn captures,161,2
+castling,162,4
+april pmcool,163,3
+sufficient,164,2
+opponent,165,1
+pawns recording,166,2
+pe pd,167,3
+ya april pme pe,168,3
+pressure,169,3
+sort,170,2
+quote ya april amquote,171,1
+day pressure quote,172,3
+pawns identified,173,4
+naming,174,4
+amb,175,1
+nf,176,2
+chill shoot,177,3
+piece case pe,178,3
+ami,179,1
+letter piece case,180,3
+algebraic,181,2
+april amquote nordicshrooms april,182,4
+squares naming,183,2
+knight move,184,5
+identical pieces,185,4
+exd identical,186,2
+promoted move,187,2
+ngf,188,2
+april pme pe,189,3
+pressure quote nordicshrooms,190,3
+pmquote ya april pme,191,3
+messages day pressure quote,192,3
+idea challenge,193,4
+differ rank,194,2
+declared,195,2
+square square,196,2
+idea challenge cool standard,197,3
+piece promoted,198,2
+cool standard notation letter,199,3
+thread,200,5
+rows,201,2
+castlingcastling,202,2
+ya april pmcool,203,3
+super,204,2
+case pe,205,3
+pd,206,7
+pe,207,7
+piece en,208,2
+pieces uppercase,209,1
+pd pd,210,3
+spoken,211,2
+pme,212,3
+queenside,213,4
+exd,214,4
+april amquote nordicshrooms,215,4
+identification,216,2
+speaking,217,2
+differently,218,2
+notation letter piece,219,3
+cool standard,220,3
+notation,221,12
+notation letter piece case,222,3
+pms,223,2
+english,224,2
+represented,225,2
+pme pe pd pd,226,3
+idea challenge cool,227,3
+numbered,228,2
+opponents,229,1
+good play,230,1
+piece piece,231,1
+shoot messages day pressure,232,3
+chill shoot messages,233,3
+letter rank,234,2
+offering,235,2
+unique,236,4
+letter,237,21
+square pawn,238,2
+starting,239,2
+identified uppercase letter,240,4
+pme pe,241,3
+file rank,242,2
+cool idea,243,1
+simultaneous,244,1
+move capture,245,2
+kingside,246,4
+prize,247,2
+king queen,248,2
+pieces,249,6
+pawn moves,250,4
+ya april amquote nordicshrooms,251,4
+pmcool idea challenge,252,3
+knight,253,8
+free,254,2
+takes,255,2
+queenside castling,256,2
+recording moves,257,2
+knights,258,4
+chill shoot messages day,259,3
+black,260,2
+called files,261,2
+day pressure quote nordicshrooms,262,3
+knight pawns,263,2
+amquote,264,4
+promoted player,265,2
+thing,266,2
+open,267,2
+piece case,268,3
+symbol,269,4
+letter king,270,2
+messages day,271,3
+moves inserted,272,2
+bishop,273,6
+pmcool idea,274,3
+horizontal,275,2
+amazing,276,2
+white,277,3
+pawns identified uppercase,278,4
+bishop move,279,2
+things,280,2
+capturing,281,2
+pawn move,282,2
+shoot,283,3
+starts,284,2
+identified piece,285,1
+april pmcool idea,286,3
+chess,287,4
+coordinate,288,4
+labeled,289,2
+chessboard,290,2
+letter piece case pe,291,3
+disambiguate,292,2
+correct pawn,293,2
+pawn capture,294,2
+play good,295,2
+pieces letter,296,1
+pawns,297,9
+rook moves,298,2
+unique coordinate,299,2
+check symbol,300,2
+playing,301,1
+identified pieces,302,1
+letter piece,303,5
+file pawn,304,2
+white king,305,1
+absence,306,2
+idea,307,6
+destination,308,6
+pawn piece,309,2
+recording,310,4
+vertical,311,2
+inserted capture,312,2
+bxe,313,2
+coordinate destination,314,2
+figure,315,2
+cases,316,2
+pair,317,2
+xf,318,2
+amquote nordicshrooms,319,4
+move move,320,2
+play,321,5
+moveseach,322,2
+queenside kingside,323,2
+reach,324,2
+amquote nordicshrooms april pmquote,325,4
+ya,326,12
+nordicshrooms april pmquote ya,327,9
+file captures,328,2
+type,329,2
+april,330,23
+identified,331,8
+identified uppercase,332,4
+squares square,333,2
+case,334,5
+number whites,335,1
+april pmcool idea challenge,336,3
+letter case,337,2
+departure differ,338,2
+method,339,1
+players,340,2
+april pmquote ya,341,9
+notation naming,342,2
+cool standard notation,343,3
+quote nordicshrooms april,344,5
+love,345,2
+move pawn,346,2
+files whites,347,1
+pawns file,348,1
+nordicshrooms april,349,9
+castling check,350,2
+identified unique,351,2
+move piece,352,2
+pxe,353,1
+pmcool idea challenge cool,354,3
+square move,355,2
+cool,356,4
+april pme pe pd,357,3
+uniquely,358,2
+chat,359,2
+shoot messages,360,3
+pme pe pd,361,3
+board,362,2
+capture inserted,363,2
+uppercase,364,6
+pmquote ya april pmcool,365,2
+file letter,366,2
+distinguishing,367,2
+darknet,368,2
+move knight,369,2
+pmcool,370,3
+descending,371,2
+precedence,372,2
+beat,373,2
+day,374,3
+king,375,6
+move notation,376,2
+square unique,377,2
+capture,378,10
+square,379,20
+challenge cool standard notation,380,3
+ranks,381,4
+pmquote,382,9
+files,383,4
+departure,384,6
+ya april,385,12
+checkmate,386,2
+game,387,2
+pmquote ya april amquote,388,3
+challenges,389,1
+whites king,390,1
+player recording,391,2
+player,392,4
+move,393,27
+differ,394,4
+piece capture,395,2
+castling queenside,396,2
+pe pd pd,397,3
+files white,398,1
+challenge,399,4
+case pawn,400,2
+move rook,401,2

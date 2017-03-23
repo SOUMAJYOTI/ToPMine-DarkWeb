@@ -1,0 +1,61 @@
+Topic 0:
+  time:3.10
+  buy:2.33
+  key:1.76
+  lbc:1.61
+  didnt:1.61
+  hit:1.34
+  method:1.23
+  btc:0.84
+  account:0.78
+  minutes:0.77
+
+Topic 1:
+  key:6.40
+  change:3.25
+  nym:1.71
+  option:1.28
+  gpa:1.16
+  inanna:1.16
+  enter:1.16
+  talking:1.04
+  death:1.04
+  pgp:1.03
+
+Topic 2:
+  pgp:3.83
+  customers:3.34
+  wallet:3.25
+  mpk:2.93
+  deterministic:2.65
+  key:2.35
+  addresses:1.67
+  verify:1.67
+  onionshop:1.67
+  commerce:1.67
+
+Topic 3:
+  key:8.28
+  change:2.30
+  sign:1.75
+  electrum:1.73
+  freedom:1.65
+  life:1.63
+  shit:1.62
+  plaintext:1.62
+  jail:1.60
+  death:1.58
+
+Topic 4:
+  btc:8.99
+  vendor:3.70
+  trusted:3.70
+  buy:3.48
+  method:3.32
+  sell:3.31
+  remember:2.14
+  account:1.93
+  idea:1.92
+  money:1.75
+
+K: 5, Log-Likelihood: -2017.248, Alpha: 11.000, Beta: 1.100

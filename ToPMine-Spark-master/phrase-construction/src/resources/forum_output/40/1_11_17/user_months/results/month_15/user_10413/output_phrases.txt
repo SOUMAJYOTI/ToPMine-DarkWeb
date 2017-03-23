@@ -1,0 +1,61 @@
+Topic 0:
+  tor:1.94
+  onion address:1.89
+  onion:1.56
+  pretty:1.24
+  markets:1.24
+  vulnerable:1.24
+  forum:1.24
+  hub:1.24
+  speak:1.24
+  safest:1.24
+
+Topic 1:
+  browser:4.63
+  silk road:4.62
+  ip address:4.62
+  tor:3.27
+  relays:3.04
+  called:3.03
+  type:3.02
+  find:3.02
+  online:3.02
+  firefox:3.02
+
+Topic 2:
+  connected:3.42
+  books:3.16
+  book:3.16
+  mentioned:3.16
+  real:3.16
+  life:3.16
+  instance:2.20
+  laptop:2.20
+  jacks:2.20
+  rooms:2.20
+
+Topic 3:
+  clearnet sites:5.76
+  hidden service:5.15
+  connected nodes:4.42
+  nodes:3.64
+  hidden services:3.42
+  involve:3.16
+  deanonymize:3.16
+  scripts:3.16
+  guards:3.16
+  visitors:3.16
+
+Topic 4:
+  exit node:6.40
+  data:4.79
+  tor relay:4.79
+  tor relay node:3.18
+  state:3.18
+  comprised:3.18
+  connection:3.18
+  unencrypted:3.18
+  hidden services:1.85
+  accessing:1.70
+
+K: 5, Log-Likelihood: -3983.222, Alpha: 11.000, Beta: 1.100

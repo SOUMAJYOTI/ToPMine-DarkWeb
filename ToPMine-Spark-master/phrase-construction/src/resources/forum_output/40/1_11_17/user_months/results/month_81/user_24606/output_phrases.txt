@@ -1,0 +1,61 @@
+Topic 0:
+  apple market:1.86
+  sell:0.87
+  ladies gentlemen:0.87
+  steve jobs:0.83
+  pgp signature:0.80
+  store:0.80
+  escrow multisignature:0.78
+  rest life change:0.76
+  iphones ipads:0.75
+  commission negotiate:0.73
+
+Topic 1:
+  apple market:7.10
+  escrow multisignature:2.75
+  vendor accounts:2.75
+  commission negotiate:2.73
+  rest life change:2.72
+  iphones ipads:2.69
+  steve jobs:2.61
+  ladies gentlemen:2.61
+  store:2.60
+  sell:2.60
+
+Topic 2:
+  vendors:3.72
+  price:2.94
+  quote:2.44
+  hansa free signup trusted:2.33
+  active removed listings pgp:2.33
+  doesnt solid odds ull:2.33
+  board record account apple:2.33
+  central escrow market:2.33
+  bait switchers running:2.33
+  customer support functionality blows:2.33
+
+Topic 3:
+  apple market:1.18
+  central escrow:0.72
+  pgp signed:0.60
+  market:0.60
+  pgp signature:0.53
+  store:0.52
+  buyer:0.51
+  multisig:0.51
+  iphones ipads:0.51
+  commission negotiate:0.50
+
+Topic 4:
+  apple market:0.83
+  pgp signed:0.65
+  operator:0.62
+  yeah:0.62
+  fucking:0.62
+  zaphod:0.62
+  announcement:0.62
+  trust:0.62
+  post:0.62
+  market:0.59
+
+K: 5, Log-Likelihood: -4423.867, Alpha: 11.000, Beta: 1.100

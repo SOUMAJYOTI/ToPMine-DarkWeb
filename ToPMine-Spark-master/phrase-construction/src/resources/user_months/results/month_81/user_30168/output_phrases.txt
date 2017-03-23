@@ -1,0 +1,61 @@
+Topic 0:
+  tab:5.06
+  dream:4.20
+  open:3.13
+  close:2.90
+  eh:2.06
+  auto:2.06
+  log:2.06
+  duff:2.06
+  science:2.06
+  youll:2.06
+
+Topic 1:
+  sense:5.06
+  circuit:4.31
+  closed:4.23
+  straight:3.98
+  reason:3.37
+  officially:3.37
+  doesnt:3.37
+  didnt:3.37
+  shouldnt:3.37
+  user:3.37
+
+Topic 2:
+  apt autoremove:4.02
+  visitorsearch:3.33
+  june:3.33
+  quote:3.33
+  hard:3.22
+  removing:3.13
+  pmwell:3.13
+  design:3.12
+  updates:3.12
+  boot stuff time upgrade:3.12
+
+Topic 3:
+  notice bootstrapped:10.66
+  tor:7.16
+  notice tor git:6.38
+  log file:6.38
+  file share tor:6.38
+  geoip:4.24
+  notice:4.24
+  connecting:4.24
+  network:4.24
+  ip:4.24
+
+Topic 4:
+  bit:5.05
+  reference:3.32
+  real:3.32
+  tech:3.32
+  cross:3.32
+  starts:3.32
+  long:3.32
+  ten:3.32
+  disks:3.32
+  floppy:3.32
+
+K: 5, Log-Likelihood: -3801.501, Alpha: 11.000, Beta: 1.100

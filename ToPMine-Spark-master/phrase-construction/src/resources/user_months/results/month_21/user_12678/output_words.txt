@@ -1,0 +1,61 @@
+Topic 0:
+  kun:0.78
+  ett:0.74
+  ja:0.64
+  ei:0.56
+  mit:0.51
+  tapahtui:0.49
+  mutta:0.49
+  takaisin:0.49
+  silti:0.48
+  sit:0.48
+
+Topic 1:
+  mitaan:1.12
+  ja:1.03
+  sanoi:0.83
+  mut:0.78
+  ei:0.57
+  en:0.54
+  ois:0.54
+  ett:0.38
+  kun:0.37
+  myyj:0.36
+
+Topic 2:
+  ett:1.08
+  nyt:1.06
+  kun:1.05
+  silti:1.04
+  takaisin:1.03
+  mutta:1.03
+  tapahtui:1.03
+  mit:1.02
+  sit:0.54
+  jo:0.54
+
+Topic 3:
+  mitaan:1.34
+  ja:1.06
+  mut:1.05
+  sanoi:0.91
+  ei:0.70
+  ois:0.60
+  en:0.59
+  summa:0.34
+  iso:0.34
+  ett:0.32
+
+Topic 4:
+  mitaan:0.85
+  ja:0.79
+  ei:0.71
+  sanoi:0.65
+  mut:0.64
+  kun:0.48
+  ett:0.48
+  en:0.44
+  ois:0.44
+  summa:0.42
+
+K: 5, Log-Likelihood: -757.069, Alpha: 11.000, Beta: 1.100

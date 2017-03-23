@@ -1,0 +1,61 @@
+Topic 0:
+  tor:12.30
+  hidden:8.82
+  keys:8.50
+  relay:7.79
+  identity:6.95
+  key:6.43
+  opens:6.21
+  service:6.15
+  relays:4.96
+  term:4.96
+
+Topic 1:
+  vulnerable:4.79
+  sites:3.99
+  tails:3.86
+  site:3.32
+  websites:3.22
+  openssl:3.10
+  ssl:2.19
+  change:2.14
+  quote:2.07
+  open:2.04
+
+Topic 2:
+  clearnet:3.85
+  bug:3.09
+  private:2.58
+  openssl:2.43
+  keys:2.20
+  opens:1.85
+  vulnerability:1.74
+  attackers:1.55
+  web:1.50
+  ssl:1.19
+
+Topic 3:
+  bug:10.01
+  clearnet:9.42
+  keys:8.10
+  vulnerability:7.88
+  openssl:5.76
+  private:5.02
+  attackers:4.63
+  library:4.26
+  opens:4.26
+  security:4.19
+
+Topic 4:
+  sites:2.08
+  service:1.75
+  hidden:1.08
+  years:0.98
+  stolen:0.98
+  standard:0.91
+  phishing:0.91
+  circuit:0.91
+  didnt:0.91
+  major:0.91
+
+K: 5, Log-Likelihood: -4885.439, Alpha: 11.000, Beta: 1.100

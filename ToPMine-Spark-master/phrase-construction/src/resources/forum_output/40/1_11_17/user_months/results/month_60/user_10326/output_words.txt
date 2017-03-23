@@ -1,0 +1,61 @@
+Topic 0:
+  server:1.16
+  pidgin:0.96
+  otr:0.96
+  tails:0.93
+  jabber:0.76
+  good:0.72
+  authenticated:0.61
+  inactive:0.55
+  refused:0.55
+  sign:0.55
+
+Topic 1:
+  server:0.91
+  otr:0.70
+  jabber:0.70
+  good:0.70
+  tails:0.69
+  pidgin:0.67
+  account:0.46
+  inactive:0.46
+  refused:0.46
+  deleted:0.46
+
+Topic 2:
+  good:0.66
+  kinds:0.65
+  jabber:0.62
+  server:0.59
+  pidgin:0.47
+  tails:0.46
+  otr:0.45
+  vpon:0.42
+  tor:0.40
+  account:0.35
+
+Topic 3:
+  server:1.18
+  tails:0.79
+  pidgin:0.77
+  otr:0.76
+  jabber:0.74
+  good:0.74
+  authenticated:0.53
+  icq:0.52
+  xmpp:0.52
+  deleted:0.52
+
+Topic 4:
+  tor:2.88
+  vpn:1.46
+  vpon:0.80
+  encrypted:0.57
+  wrong:0.57
+  dont:0.57
+  work:0.57
+  options:0.57
+  totally:0.57
+  open:0.57
+
+K: 5, Log-Likelihood: -410.755, Alpha: 11.000, Beta: 1.100

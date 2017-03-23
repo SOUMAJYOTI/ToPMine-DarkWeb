@@ -1,0 +1,61 @@
+Topic 0:
+  pill:12.16
+  joke:7.28
+  middle earth:5.37
+  randymarsh:4.84
+  wins:4.84
+  ecstasy:4.84
+  roll:4.81
+  jokes:4.81
+  fun:4.11
+  vendor:3.76
+
+Topic 1:
+  scripts:15.64
+  tor:7.41
+  js enabled:6.03
+  middle earth properly:6.03
+  javascript:6.03
+  auto:4.85
+  security:4.53
+  middle earth:4.50
+  buttons middle earth marketplace:3.97
+  difficulty:3.97
+
+Topic 2:
+  middle earth marketplace:7.48
+  captcha:5.32
+  password:4.82
+  update:4.81
+  time:4.81
+  accounts vendor:4.81
+  easier:4.01
+  stick:3.80
+  listings:3.54
+  great:3.48
+
+Topic 3:
+  quote:5.42
+  june:5.06
+  account:4.94
+  vpn:4.77
+  site:4.59
+  good marketplace:3.80
+  attempts captcha:3.80
+  literally:3.80
+  extremely:3.80
+  layout:3.80
+
+Topic 4:
+  uri:5.94
+  threads:4.82
+  market:3.92
+  grand:3.76
+  rivtwxy:3.76
+  team:3.76
+  onionmany:3.76
+  making:3.74
+  brings:3.74
+  pleasure:3.73
+
+K: 5, Log-Likelihood: -4017.376, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  dna:0.96
+  law enforcement:0.92
+  obi:0.64
+  united states:0.46
+  article:0.46
+  companies:0.46
+  national security:0.46
+  usry:0.46
+  ancestry:0.45
+  national:0.30
+
+Topic 1:
+  dna:0.77
+  law enforcement:0.76
+  obi:0.52
+  ancestry:0.41
+  national security:0.41
+  united states:0.41
+  usry:0.41
+  companies:0.40
+  article:0.40
+  genealogy:0.27
+
+Topic 2:
+  law enforcement:0.84
+  dna:0.84
+  obi:0.55
+  companies:0.42
+  national security:0.41
+  article:0.41
+  united states:0.41
+  usry:0.41
+  ancestry:0.41
+  conspiracy:0.28
+
+Topic 3:
+  dna:0.66
+  law enforcement:0.62
+  obi:0.45
+  usry:0.36
+  article:0.36
+  united states:0.36
+  national security:0.35
+  ancestry:0.35
+  companies:0.35
+  dna searches:0.25
+
+Topic 4:
+  law enforcement:1.02
+  dna:0.93
+  obi:0.61
+  ancestry:0.45
+  article:0.45
+  companies:0.45
+  usry:0.45
+  united states:0.44
+  national security:0.44
+  debate:0.29
+
+K: 5, Log-Likelihood: -1218.806, Alpha: 11.000, Beta: 1.100

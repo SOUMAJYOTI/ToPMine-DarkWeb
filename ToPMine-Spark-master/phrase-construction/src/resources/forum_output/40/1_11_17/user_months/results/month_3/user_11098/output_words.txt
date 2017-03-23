@@ -1,0 +1,21 @@
+Topic 0:
+  pandora:0.20
+  bcbudking:0.20
+
+Topic 1:
+  pandora:0.20
+  bcbudking:0.20
+
+Topic 2:
+  bcbudking:0.20
+  pandora:0.20
+
+Topic 3:
+  bcbudking:0.20
+  pandora:0.20
+
+Topic 4:
+  pandora:0.20
+  bcbudking:0.20
+
+K: 5, Log-Likelihood: -1.386, Alpha: 11.000, Beta: 1.100

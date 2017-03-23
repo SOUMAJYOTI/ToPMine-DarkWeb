@@ -1,0 +1,61 @@
+Topic 0:
+  send:0.45
+  btc:0.44
+  wallet:0.36
+  coins wallet:0.31
+  local bitcoin:0.31
+  dirty:0.28
+  buy:0.28
+  cats:0.28
+  libertyx:0.27
+  lbc:0.27
+
+Topic 1:
+  send:2.16
+  wallet:1.42
+  coins wallet:1.05
+  local bitcoin:1.05
+  whatsoever:0.41
+  directly:0.41
+  meaning:0.41
+  tumbler:0.41
+  email tor:0.41
+  caught:0.41
+
+Topic 2:
+  send:0.59
+  wallet:0.45
+  local bitcoin:0.38
+  coins wallet:0.38
+  btc:0.36
+  localbitcoins:0.23
+  free:0.23
+  nodes:0.23
+  sniff:0.23
+  logins:0.23
+
+Topic 3:
+  btc:0.82
+  libertyx:0.65
+  lbc:0.64
+  year:0.64
+  cats:0.64
+  buy:0.63
+  dirty:0.63
+  cool:0.28
+  thought:0.28
+  genius:0.28
+
+Topic 4:
+  btc:0.81
+  dirty:0.62
+  buy:0.62
+  year:0.62
+  cats:0.61
+  lbc:0.61
+  libertyx:0.60
+  bad:0.28
+  avoid:0.28
+  left:0.28
+
+K: 5, Log-Likelihood: -620.170, Alpha: 11.000, Beta: 1.100

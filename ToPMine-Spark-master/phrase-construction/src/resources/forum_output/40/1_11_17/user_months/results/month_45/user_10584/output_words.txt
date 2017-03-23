@@ -1,0 +1,61 @@
+Topic 0:
+  tor:22.77
+  mullvad:19.17
+  tails:8.67
+  socks:8.00
+  net:6.13
+  bitcoin:5.82
+  require:5.82
+  transparent:5.40
+  proxies:5.40
+  settings:5.38
+
+Topic 1:
+  vpn:12.85
+  tails:9.71
+  tor:9.69
+  time:2.41
+  people:1.80
+  fact:1.66
+  clear:1.56
+  hard:1.55
+  hide:1.53
+  net:1.51
+
+Topic 2:
+  squidward:7.20
+  quote:6.43
+  step:4.63
+  software:3.25
+  openvpn:3.13
+  vpn:2.75
+  guide:2.41
+  tails:2.11
+  safe:2.01
+  download:2.01
+
+Topic 3:
+  tor:27.20
+  tails:18.46
+  clearnet:15.92
+  bridges:15.40
+  users:11.58
+  sites:10.78
+  bridge:8.92
+  access:8.77
+  real:7.16
+  time:6.53
+
+Topic 4:
+  vpn:12.28
+  os:5.71
+  router:5.65
+  connect:4.91
+  tor:4.78
+  tails:4.05
+  set:3.46
+  node:3.12
+  exit:3.01
+  wrong:2.95
+
+K: 5, Log-Likelihood: -5018.710, Alpha: 11.000, Beta: 1.100

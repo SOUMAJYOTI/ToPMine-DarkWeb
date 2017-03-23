@@ -1,0 +1,61 @@
+Topic 0:
+  police:2.99
+  drugs:2.60
+  tor:2.02
+  arrested:1.83
+  online:1.81
+  someones:1.47
+  car:1.42
+  mistake:1.39
+  real:1.39
+  things:1.37
+
+Topic 1:
+  police:2.83
+  drugs:2.75
+  tor:2.48
+  arrested:2.26
+  online:1.98
+  someones:1.51
+  packages:1.43
+  car:1.11
+  people:1.11
+  kind:1.09
+
+Topic 2:
+  ho:2.17
+  arrested:1.77
+  vendor:1.64
+  drugs:1.35
+  disappeared:1.31
+  good:1.16
+  police:1.05
+  albertheijn:0.97
+  happened:0.94
+  avengers:0.93
+
+Topic 3:
+  vendor:2.49
+  ho:2.43
+  disappeared:1.68
+  arrested:1.40
+  happened:1.35
+  albertheijn:1.23
+  good:1.17
+  police:1.14
+  drugs:1.06
+  hard:0.97
+
+Topic 4:
+  drugs:3.24
+  police:3.00
+  online:2.48
+  tor:2.40
+  someones:2.19
+  crime:2.00
+  arrests:2.00
+  busted:1.99
+  caused:1.98
+  dealer:1.95
+
+K: 5, Log-Likelihood: -1648.303, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  amount:10.24
+  send:9.08
+  pay shield:7.03
+  light version:5.83
+  send btc:5.83
+  referred:4.58
+  sigaint:3.88
+  address:3.88
+  tumblers:3.88
+  links:3.88
+
+Topic 1:
+  order:19.45
+  public key:9.72
+  select:9.72
+  market:8.65
+  listing:7.77
+  option:7.77
+  acropolis market:5.83
+  redeem script:5.83
+  dispute:5.83
+  vendor:4.77
+
+Topic 2:
+  onioncreated time multisig:8.40
+  onion:8.26
+  accounts:7.18
+  onioncreated time multisig nofe:6.19
+  onionreddit accounts:5.49
+  prior security flaws nosubreddit:4.92
+  guides tutorials:4.82
+  invite required nocategories:3.91
+  yesfe allowed yesvendor bond:3.76
+  digital goods:3.42
+
+Topic 3:
+  verify:7.76
+  vendor status:5.82
+  vendor bond:5.82
+  red:3.87
+  agra:3.87
+  abraham:3.87
+  request:3.87
+  reloaded:3.87
+  level:3.87
+  verify black:3.87
+
+Topic 4:
+  onion:18.97
+  key:14.24
+  accounts:12.28
+  onionreddit accounts:6.18
+  yesfe allowed yesvendor bond:5.96
+  invite required nocategories:5.81
+  prior security flaws:5.35
+  allowed yesvendor bond:5.25
+  onioncreated time multisig:5.21
+  guides tutorials:4.91
+
+K: 5, Log-Likelihood: -12321.978, Alpha: 11.000, Beta: 1.100

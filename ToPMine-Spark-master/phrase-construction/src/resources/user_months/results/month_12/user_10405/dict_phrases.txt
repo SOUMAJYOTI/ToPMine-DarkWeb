@@ -1,0 +1,613 @@
+bad,0,1
+year,1,2
+videos,2,1
+laptop,3,1
+bar,4,2
+quote,5,3
+protected,6,1
+proxy private,7,1
+warns,8,1
+persistent,9,1
+presidente,10,2
+technique protect,11,1
+knowledge,12,4
+firewalls requires,13,1
+caspian,14,1
+tor wrong,15,1
+proxy,16,5
+route,17,3
+connections people,18,1
+guess,19,1
+broadband,20,1
+router pi,21,1
+guest,22,2
+drive,23,1
+drop traffic,24,1
+interfaces middle,25,1
+sceptical,26,1
+relays,27,2
+software hardware,28,1
+security level,29,1
+traffic outbound,30,1
+dual,31,1
+systems,32,3
+blocking,33,1
+address local,34,1
+targeted,35,1
+computers,36,1
+connect,37,1
+host ideally,38,1
+linkability,39,1
+mind,40,1
+website,41,2
+address protect,42,1
+address,43,8
+plaintext,44,2
+cp,45,1
+gaps,46,2
+practices,47,1
+subtle,48,2
+busted,49,1
+amnesia,50,4
+terms system,51,1
+blue,52,1
+throw,53,1
+complicated,54,1
+days,55,2
+traffic socks,56,1
+standard,57,1
+acceptable,58,1
+controls,59,2
+router internet,60,1
+sites,61,2
+good,62,1
+attacks,63,2
+hardened,64,2
+microphone,65,1
+info,66,9
+tis,67,1
+add,68,2
+dedicated,69,1
+eh,70,1
+el,71,3
+deanonymizing,72,1
+gps,73,1
+socks proxy,74,5
+connects internet,75,1
+block tor,76,3
+browsers,77,1
+local firewall,78,1
+configured system,79,1
+ethernet,80,1
+tails,81,2
+nefarious,82,1
+inbound connections,83,1
+port,84,3
+http,85,1
+crooked,86,1
+carrying,87,1
+virtual,88,5
+private,89,7
+visiting,90,1
+interface inbound,91,1
+router firewall,92,2
+inbound,93,3
+applied,94,1
+session,95,1
+additional,96,1
+wirelessly,97,1
+medium,98,1
+paste,99,1
+interface,100,5
+secure box,101,3
+tor ip,102,1
+requires knowledge,103,1
+load,104,1
+passes,105,1
+intentionally,106,1
+torsocks,107,1
+exposed,108,1
+client,109,2
+ignore,110,1
+hard,111,3
+tutorial,112,1
+level hard,113,1
+private interface,114,2
+notice,115,1
+attacker,116,3
+traffic block,117,1
+madkeeps,118,1
+chipset,119,2
+concerns,120,1
+message,121,1
+expose,122,1
+tor router,123,1
+forum,124,2
+knowledge configured,125,1
+nodes,126,2
+hub,127,2
+sort attack,128,4
+blockchain cloudflare,129,1
+service,130,1
+obi,131,1
+ideally physical,132,1
+setup,133,1
+suitable,134,1
+tls,135,1
+fresh,136,1
+observant,137,1
+showing,138,1
+ideally hard,139,1
+called,140,3
+ago,141,2
+entire,142,1
+approach,143,1
+eavesdropping,144,1
+doesnt,145,1
+pedoforum,146,1
+number,147,1
+connects,148,3
+usability,149,1
+gained,150,1
+casual,151,1
+easily,152,2
+lock,153,1
+model,154,2
+block,155,4
+text,156,1
+attack firewalls,157,1
+write,158,1
+order,159,1
+protecting,160,2
+period,161,2
+box ideally,162,2
+transparently,163,1
+ip,164,4
+understand,165,1
+dns,166,2
+isolation,167,9
+sensitive,168,2
+configured socks,169,2
+loading,170,1
+intel,171,2
+script,172,1
+exit,173,1
+system,174,15
+compromised,175,1
+server,176,1
+works,177,1
+blockchain info block,178,3
+interface private,179,1
+guy,180,2
+protection,181,2
+air,182,2
+matter,183,1
+mandatory,184,2
+box browser,185,1
+mac,186,1
+local,187,4
+doers,188,1
+network interfaces,189,2
+file,190,2
+top,191,1
+stream,192,1
+tor,193,15
+local socks,194,1
+camera,195,1
+whonix,196,1
+break,197,1
+discussed,198,1
+change,199,1
+bent,200,1
+attackers,201,1
+uri,202,2
+url,203,1
+snapshots,204,1
+hide,205,1
+powerful,206,1
+box secure,207,1
+trusted,208,1
+machine,209,1
+disable,210,2
+attack time,211,1
+atop,212,1
+websites,213,2
+requires network,214,1
+browser dont,215,1
+instance,216,1
+thing virtual,217,1
+thing private,218,1
+hardware default,219,1
+serve,220,1
+aerial,221,1
+internet tor,222,1
+mode,223,1
+updating,224,1
+strip,225,2
+network terms,226,1
+biggest,227,2
+fine,228,1
+find,229,1
+outbound,230,3
+host,231,4
+modified,232,1
+browser system,233,1
+javascript tor,234,1
+directly,235,3
+net,236,1
+cable,237,2
+traffic,238,9
+configured called,239,1
+read,240,3
+foothold,241,2
+virtualization,242,1
+level,243,3
+coins,244,1
+level firewalls,245,1
+domains,246,1
+pi middle box,247,3
+sort,248,4
+real,249,2
+networkthis,250,1
+establish,251,1
+isolation protect,252,1
+coded,253,1
+box tor,254,1
+evil,255,1
+sslstrips,256,1
+network route,257,1
+spy,258,1
+errors,259,1
+iptables,260,1
+configured firewall,261,1
+private network,262,4
+certificate,263,3
+careful,264,1
+time ideally,265,1
+technique,266,4
+box,267,13
+harden,268,1
+quotewe,269,1
+dont certificate,270,1
+today,271,1
+internet router,272,1
+info cloudflare,273,2
+directly blockchain,274,3
+ideally simple,275,1
+jacking,276,1
+physical,277,5
+harder,278,1
+info block,279,3
+box pi,280,1
+attempting,281,1
+pretty,282,1
+thing el,283,1
+trolltergeist,284,1
+os,285,2
+cross,286,2
+knowledge wrong,287,1
+directly blockchain info,288,3
+requirement,289,1
+pmnot,290,2
+rapidly,291,1
+cloudflare blockchain,292,2
+encrypted,293,2
+application,294,1
+outbound socks,295,1
+wlan,296,1
+stable,297,1
+pi,298,7
+threat,299,1
+hardware firewalls,300,1
+forms,301,1
+socks port,302,2
+case dont,303,1
+local network,304,1
+maintain,305,1
+registered,306,1
+teenagers,307,1
+ssl,308,2
+observed,309,1
+hostname,310,1
+password,311,1
+extremely,312,1
+system configured,313,3
+router secure,314,1
+state,315,1
+physical isolation,316,4
+defined,317,1
+cheers,318,1
+boxes,319,2
+route middle,320,1
+browsing,321,1
+based,322,1
+network default,323,2
+rasberry,324,1
+pleasure,325,1
+expected,326,1
+rootkits,327,1
+javascript,328,3
+technique virtual,329,1
+proxy middle,330,2
+node,331,1
+bsd,332,1
+ip address,333,2
+difference,334,1
+randomized,335,1
+host systems,336,1
+shared,337,1
+access,338,4
+activity,339,1
+interface connects,340,1
+tor browser,341,1
+fundamental,342,1
+knowledge physical,343,1
+executed,344,1
+hitting,345,1
+arabian,346,1
+long,347,1
+badhe,348,1
+default,349,3
+gray,350,1
+encryption,351,1
+defense,352,1
+attack,353,5
+disabled,354,1
+operating,355,1
+preferred,356,1
+key,357,2
+middle,358,13
+software configured,359,1
+favors,360,1
+port tor,361,1
+people,362,4
+ideally,363,7
+asa,364,1
+block outbound,365,1
+stay,366,2
+isolation technique,367,1
+deanonymize,368,1
+connected,369,1
+single,370,2
+extensive,371,2
+network interface,372,1
+tg,373,1
+amquote,374,1
+wording,375,1
+thing,376,4
+story,377,1
+connects systems,378,1
+drop outbound,379,1
+traffic secure,380,1
+numbers,381,1
+homed,382,1
+secure,383,6
+traffic internet,384,1
+route traffic,385,1
+trivial,386,1
+unrestricted,387,1
+things,388,4
+box drop,389,1
+details,390,1
+generate,391,1
+vanilla,392,1
+imagine,393,1
+ensure,394,2
+overlay,395,1
+usual,396,1
+flashy,397,2
+info el,398,1
+sharing,399,1
+finding,400,1
+network traffic,401,1
+extract,402,1
+measure,403,1
+blockchain,404,10
+vm,405,2
+fixed,406,1
+blockchain info,407,7
+assume,408,1
+secured,409,1
+internet,410,4
+drop,411,4
+memory,412,1
+hidden,413,2
+needed,414,1
+linus,415,1
+updates,416,1
+firewalls system,417,1
+yesterday,418,1
+protect address,419,1
+gam,420,1
+box requires,421,1
+linux,422,1
+openwrt,423,1
+boot,424,2
+vote,425,1
+presidentedo,426,1
+news,427,1
+interfaces,428,3
+hours,429,1
+election,430,1
+previous,431,1
+center,432,1
+start,433,1
+blockchain info block tor,434,3
+configure,435,1
+virtual isolation,436,3
+windows,437,1
+address system,438,1
+host network,439,1
+target,440,1
+manage,441,2
+short,442,2
+risk,443,2
+location,444,1
+time,445,4
+amgreat,446,1
+gateway,447,2
+tor route,448,1
+firewall configured,449,1
+software,450,3
+limerick,451,1
+collected,452,1
+axa,453,1
+type,454,1
+tips,455,1
+info wallet,456,1
+logout,457,1
+things protect,458,1
+level attacker,459,1
+gent,460,1
+terms,461,3
+lost,462,1
+enable,463,2
+connection,464,1
+catch,465,1
+openbsd,466,1
+hey,467,1
+case,468,3
+tenet,469,1
+info block tor,470,3
+hardware,471,3
+attempts,472,1
+time people,473,1
+images,474,1
+wifi,475,1
+method,476,1
+work,477,1
+destroy,478,1
+webcams,479,1
+cloudflare,480,7
+connections internet,481,1
+port middle,482,1
+provide,483,2
+versions,484,1
+didnt,485,1
+failing,486,1
+access wallet,487,1
+address ip,488,1
+requires,489,5
+system drop,490,1
+outbound traffic,491,2
+purely,492,1
+blocker,493,1
+clipboards,494,1
+explicitly,495,2
+log,496,2
+middle secure,497,1
+traffic local,498,1
+pwn,499,1
+guard,500,2
+firewalls,501,5
+boxthe,502,1
+distribution,503,1
+gain,504,1
+lot,505,2
+computer,506,1
+fall,507,2
+identity,508,2
+assure,509,1
+protect,510,4
+copy,511,1
+info block tor cloudflare,512,3
+internet ideally,513,1
+wallet,514,4
+physical host,515,1
+proxy port,516,1
+firewall private,517,1
+kill,518,1
+nice,519,1
+wrong,520,4
+site,521,3
+firewall,522,6
+traffic middle,523,1
+permanent,524,1
+anonymous,525,1
+exists,526,1
+isolates,527,1
+interface system,528,1
+protect sort,529,1
+accounts,530,1
+simple tor,531,1
+hardening,532,1
+preferably,533,1
+data,534,1
+pi connects,535,1
+inbound traffic,536,2
+firefox,537,1
+simple,538,4
+reference,539,1
+router,540,5
+hit,541,1
+blockckain,542,1
+pi middle,543,4
+plain,544,1
+network ideally,545,1
+create,546,2
+connections,547,4
+configured,548,9
+expecting,549,2
+tao,550,1
+visible,551,1
+downgraded,552,1
+blockchain wallet,553,2
+socks,554,8
+format,555,1
+ill,556,1
+internet private,557,1
+illegal,558,1
+attack firewall,559,1
+drop inbound,560,2
+tor cloudflare,561,3
+safe,562,3
+ip tor,563,1
+enforce,564,1
+correction,565,1
+send,566,1
+dont,567,4
+amnesia attacker,568,1
+purpose,569,1
+professionals,570,1
+interact,571,1
+error,572,2
+cam,573,2
+network,574,10
+isolation requires,575,2
+aware,576,1
+security,577,5
+sounds,578,1
+netting,579,1
+public,580,2
+block tor cloudflare,581,3
+directly blockchain info block,582,3
+browser,583,4
+boxa,584,1
+traffic private,585,1
+sal,586,1
+tcp,587,1
+enforced,588,1
+system dont,589,1
+process,590,2
+amount,591,1
+cost,592,2
+built,593,1
+middle box,594,10
+access system,595,1
+clear,596,1
+arbitrary,597,1
+increase,598,2
+follow,599,1
+rethink,600,2
+posting,601,1
+diamond,602,1
+bluetooth,603,1
+virtualized,604,2
+build,605,2
+conversational,606,1
+firewall system,607,1
+glad,608,1
+configured drop,609,2
+wireless,610,2
+user,611,2
+simply,612,2

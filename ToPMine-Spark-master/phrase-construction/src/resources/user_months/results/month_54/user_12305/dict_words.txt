@@ -1,0 +1,6 @@
+find,0,1
+buy,1,1
+aged,2,1
+suggestions,3,1
+localbitcoin,4,1
+dont,5,1

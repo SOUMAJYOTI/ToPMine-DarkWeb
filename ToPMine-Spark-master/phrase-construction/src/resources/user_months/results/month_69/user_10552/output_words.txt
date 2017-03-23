@@ -1,0 +1,61 @@
+Topic 0:
+  bugs:3.12
+  time:1.70
+  bands:1.57
+  bug:1.39
+  scan:0.91
+  find:0.90
+  viewfinder:0.88
+  area:0.87
+  audit:0.87
+  frequencies:0.85
+
+Topic 1:
+  bugs:1.90
+  time:1.47
+  bug:1.37
+  find:1.06
+  bands:0.97
+  work:0.92
+  camera:0.81
+  area:0.80
+  scan:0.79
+  good:0.77
+
+Topic 2:
+  bugs:2.86
+  time:1.84
+  bug:1.40
+  bands:1.17
+  find:0.94
+  frequencies:0.94
+  audit:0.86
+  phones:0.84
+  camera:0.83
+  viewfinder:0.81
+
+Topic 3:
+  bugs:1.54
+  bug:1.25
+  bands:1.14
+  time:1.14
+  find:1.02
+  work:0.91
+  piece:0.82
+  takes:0.81
+  good:0.79
+  camera:0.78
+
+Topic 4:
+  time:1.84
+  bug:1.59
+  bugs:1.58
+  bands:1.14
+  find:1.08
+  phones:0.87
+  takes:0.82
+  viewfinder:0.81
+  good:0.81
+  piece:0.80
+
+K: 5, Log-Likelihood: -1323.587, Alpha: 11.000, Beta: 1.100

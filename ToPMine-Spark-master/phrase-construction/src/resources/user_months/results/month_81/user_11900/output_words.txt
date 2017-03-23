@@ -1,0 +1,61 @@
+Topic 0:
+  western:3.26
+  leo:3.06
+  market:1.73
+  le:1.42
+  preferable:1.30
+  guys:1.29
+  countries:1.28
+  law:1.28
+  broadcasting:1.27
+  meanings:1.25
+
+Topic 1:
+  leo:4.55
+  lion:3.12
+  western:2.08
+  vendors:1.46
+  le:1.46
+  market:1.17
+  lack:1.13
+  word:1.10
+  jaxinshit:1.06
+  quote:1.04
+
+Topic 2:
+  lion:8.31
+  leo:7.28
+  le:4.08
+  word:2.92
+  western:2.12
+  jaxinshit:1.53
+  pmthe:1.26
+  vendors:1.23
+  aakaari:1.23
+  asked:1.22
+
+Topic 3:
+  leo:5.00
+  lion:2.34
+  western:2.25
+  le:1.88
+  market:1.52
+  vendors:1.46
+  quote:1.01
+  lack:0.98
+  guys:0.97
+  jaxinshit:0.96
+
+Topic 4:
+  leo:3.11
+  lion:2.07
+  market:2.06
+  vendors:1.86
+  western:1.30
+  le:1.17
+  lack:0.98
+  quote:0.97
+  jaxinshit:0.84
+  agora:0.78
+
+K: 5, Log-Likelihood: -1521.253, Alpha: 11.000, Beta: 1.100

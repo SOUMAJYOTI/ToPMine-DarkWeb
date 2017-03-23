@@ -1,0 +1,61 @@
+Topic 0:
+  onion:3.89
+  list:1.90
+  profile:1.90
+  shop:1.90
+  signature:1.63
+  pgp:1.49
+  ebb:0.90
+  uartmjetppuqaf:0.90
+  cooperation:0.90
+  pipwprehzvfixrfp:0.90
+
+Topic 1:
+  markets:1.30
+  vending:0.76
+  day:0.71
+  lovely:0.71
+  role:0.71
+  admit:0.71
+  focusing:0.71
+  wishing:0.71
+  hitting:0.71
+  roger:0.71
+
+Topic 2:
+  pgp:3.08
+  signature:1.85
+  xx:0.93
+  dw:0.93
+  vending:0.92
+  fe:0.91
+  kbfxl:0.91
+  dhypkhrcpxfqg:0.91
+  fun:0.91
+  bzzi:0.91
+
+Topic 3:
+  nucleus:0.70
+  markets:0.60
+  stats:0.47
+  online:0.47
+  oxy:0.47
+  sites:0.47
+  verification:0.47
+  verified:0.47
+  active:0.47
+  verify:0.47
+
+Topic 4:
+  signature:1.94
+  pgp:1.80
+  pip:0.94
+  eb:0.94
+  sha:0.93
+  message:0.93
+  version:0.93
+  gnupg:0.93
+  hash:0.93
+  signed:0.93
+
+K: 5, Log-Likelihood: -2018.837, Alpha: 11.000, Beta: 1.100

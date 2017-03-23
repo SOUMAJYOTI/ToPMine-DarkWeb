@@ -1,0 +1,61 @@
+Topic 0:
+  file desktop:4.61
+  text:4.41
+  file:4.22
+  person:4.16
+  imported:4.16
+  send:4.15
+  honestly:3.73
+  key:3.68
+  encrusted message:3.66
+  january:3.41
+
+Topic 1:
+  passwords keys window:8.71
+  create persistent volume:7.85
+  pgp key:7.10
+  key:6.71
+  drive:5.53
+  configure persistent volume:5.28
+  manage keys gnupg keys:4.62
+  selected left pane window:4.62
+  helpful:4.32
+  reasons:4.32
+
+Topic 2:
+  pick formatting errors:6.66
+  statements pgp:6.66
+  including dashes:6.66
+  copied clipboard:6.66
+  window pop:5.98
+  public key clipboard:5.62
+  public key:5.62
+  menu bar window:5.62
+  left click clipboard icon:5.23
+  snug:4.33
+
+Topic 3:
+  message:15.34
+  type ctrl:9.38
+  check mark:8.74
+  paste encrusted message:8.74
+  applications accessories gedit:5.34
+  gedit window:5.33
+  step:5.12
+  encrypt:5.08
+  market:4.36
+  top menu bar select:4.36
+
+Topic 4:
+  issue command:10.39
+  file:8.92
+  secret keys:7.78
+  left:7.78
+  public keys:7.69
+  text:6.53
+  click:6.13
+  device:5.18
+  armour:5.18
+  list:5.18
+
+K: 5, Log-Likelihood: -7871.669, Alpha: 11.000, Beta: 1.100

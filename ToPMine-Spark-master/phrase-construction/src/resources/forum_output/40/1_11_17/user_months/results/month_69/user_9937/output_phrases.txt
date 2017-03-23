@@ -1,0 +1,61 @@
+Topic 0:
+  simmer:1.13
+  lemontek:0.92
+  great:0.85
+  strain:0.79
+  orange juice concentrate:0.77
+  minutes:0.76
+  tea:0.76
+  time:0.73
+  making tea:0.73
+  bags:0.73
+
+Topic 1:
+  juice:6.59
+  love:4.88
+  extract:4.87
+  vapeur:3.19
+  depending:3.19
+  needed:3.19
+  thickness:3.18
+  ejuice:3.18
+  thick juice:3.18
+  cartomizer:3.18
+
+Topic 2:
+  partial:1.34
+  experience:1.34
+  source:1.33
+  orb:1.33
+  wax:1.33
+  atties:1.33
+  dna:1.33
+  threaded:1.33
+  ceramic:1.33
+  cup:1.33
+
+Topic 3:
+  people:3.07
+  add:2.82
+  dont:1.43
+  bunch:1.43
+  wondering:1.43
+  minute:1.43
+  effects:1.43
+  orange juice:1.43
+  stringer:1.43
+  pill:1.43
+
+Topic 4:
+  good:1.10
+  product:1.09
+  lemontek:0.78
+  great:0.65
+  atomizer:0.55
+  vaporizor:0.54
+  threads:0.54
+  lookup:0.53
+  mrgoodcat:0.49
+  deals:0.49
+
+K: 5, Log-Likelihood: -1336.916, Alpha: 11.000, Beta: 1.100

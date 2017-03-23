@@ -1,0 +1,61 @@
+Topic 0:
+  message:3.80
+  error:3.80
+  site:2.60
+  thing love avengers marketplace:2.08
+  jf:2.07
+  kind:2.04
+  place:2.03
+  reference:2.03
+  info:1.99
+  admins:1.98
+
+Topic 1:
+  dont:3.83
+  long:3.67
+  post:3.54
+  official:2.52
+  mention word:2.49
+  missing:2.46
+  policy:2.46
+  fundamental:2.45
+  tmg:2.44
+  december:1.85
+
+Topic 2:
+  thing love avengers:1.82
+  lame:1.82
+  reputation:1.82
+  lsd:1.82
+  avengers:1.82
+  hish:1.82
+  walking:1.82
+  garnish:1.82
+  attempt scam:1.82
+  marketplaceis:1.82
+
+Topic 3:
+  dont:2.09
+  spamming:1.09
+  link:1.02
+  love avengers marketplace:1.01
+  tuscan:0.80
+  exists:0.78
+  confused:0.78
+  phishing scam:0.78
+  send:0.77
+  stupid:0.76
+
+Topic 4:
+  love avengers marketplace:2.65
+  link:2.61
+  don:2.56
+  uri:2.12
+  working:2.11
+  feel:2.11
+  links:2.09
+  normal:2.08
+  guys:2.08
+  lots:2.08
+
+K: 5, Log-Likelihood: -1247.058, Alpha: 11.000, Beta: 1.100

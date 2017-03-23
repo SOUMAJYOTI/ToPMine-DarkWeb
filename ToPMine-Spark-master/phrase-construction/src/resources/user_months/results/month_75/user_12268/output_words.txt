@@ -1,0 +1,61 @@
+Topic 0:
+  verottajalle:0.40
+  bitcoin:0.40
+  mit:0.34
+  ihmettelm:0.22
+  hyv:0.22
+  ytin:0.22
+  oli:0.22
+  alkaako:0.22
+  eurooppalaisten:0.22
+  mielest:0.22
+
+Topic 1:
+  mit:0.43
+  bitcoin:0.40
+  verottajalle:0.40
+  ilmoittavat:0.21
+  nain:0.21
+  avaamassa:0.21
+  paras:0.21
+  jotka:0.21
+  ett:0.21
+  maassa:0.21
+
+Topic 2:
+  mit:0.47
+  bitcoin:0.40
+  verottajalle:0.40
+  sanottu:0.22
+  euroiksi:0.22
+  ll:0.22
+  ettei:0.22
+  ja:0.22
+  ilman:0.22
+  jotka:0.22
+
+Topic 3:
+  verottajalle:0.40
+  bitcoin:0.40
+  mit:0.37
+  ulkomailta:0.21
+  ei:0.21
+  enimm:0.21
+  tulee:0.21
+  eurooppalaisten:0.21
+  en:0.21
+  ilmoita:0.21
+
+Topic 4:
+  verottajalle:0.40
+  bitcoin:0.40
+  mit:0.39
+  tied:0.20
+  joku:0.20
+  kun:0.20
+  enimm:0.20
+  oli:0.20
+  tulee:0.20
+  en:0.20
+
+K: 5, Log-Likelihood: -221.301, Alpha: 11.000, Beta: 1.100

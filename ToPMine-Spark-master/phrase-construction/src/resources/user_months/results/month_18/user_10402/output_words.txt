@@ -1,0 +1,61 @@
+Topic 0:
+  facebook:3.76
+  hope:2.89
+  article:2.52
+  dw:2.19
+  corporation:2.03
+  angel:2.02
+  secured:2.02
+  wonderful:2.02
+  hands:2.02
+  workers:2.01
+
+Topic 1:
+  tor:6.17
+  nsa:2.57
+  warning:1.64
+  users:1.63
+  lean:1.63
+  flaws:1.63
+  things:0.81
+  weve:0.74
+  tap:0.74
+  developers:0.74
+
+Topic 2:
+  tor:5.46
+  facebook:2.01
+  google:1.43
+  project:1.42
+  massive:1.39
+  hope:0.90
+  article:0.65
+  cool:0.52
+  helping:0.47
+  eyes:0.47
+
+Topic 3:
+  images:4.33
+  hub:4.12
+  inline:2.80
+  august:2.45
+  alfred:2.10
+  enable:1.97
+  messages:1.93
+  hour:1.93
+  isnt:1.92
+  dare:1.92
+
+Topic 4:
+  images:1.83
+  cool:1.66
+  hub:1.64
+  inline:1.30
+  august:1.13
+  alfred:1.01
+  quote:0.89
+  trolltergeist:0.88
+  hope:0.82
+  lol:0.78
+
+K: 5, Log-Likelihood: -1287.930, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  blond:1.39
+  bitcoin:0.88
+  impossible:0.83
+  making:0.78
+  btcshffl:0.77
+  addresses:0.77
+  wallet:0.76
+  lots:0.73
+  wig:0.69
+  wigshuffle:0.44
+
+Topic 1:
+  blond:1.15
+  making:0.88
+  btcshffl:0.82
+  lots:0.82
+  addresses:0.81
+  wallet:0.81
+  bitcoin:0.76
+  impossible:0.72
+  wig:0.68
+  wigs:0.44
+
+Topic 2:
+  bitcoin:1.13
+  addresses:0.84
+  impossible:0.82
+  btcshffl:0.82
+  wallet:0.81
+  making:0.79
+  blond:0.79
+  lots:0.76
+  wig:0.55
+  bitcoins:0.43
+
+Topic 3:
+  blond:1.01
+  bitcoin:0.87
+  lots:0.85
+  wallet:0.82
+  btcshffl:0.80
+  impossible:0.78
+  making:0.77
+  addresses:0.75
+  wig:0.62
+  wigs:0.42
+
+Topic 4:
+  bitcoin:1.36
+  impossible:0.85
+  lots:0.84
+  addresses:0.83
+  wallet:0.80
+  making:0.78
+  btcshffl:0.78
+  blond:0.66
+  bitcoins:0.48
+  wig:0.46
+
+K: 5, Log-Likelihood: -333.802, Alpha: 11.000, Beta: 1.100

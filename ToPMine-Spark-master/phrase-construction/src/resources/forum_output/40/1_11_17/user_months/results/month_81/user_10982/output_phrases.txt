@@ -1,0 +1,61 @@
+Topic 0:
+  fe:0.20
+  link:0.20
+  good:0.20
+  multisig:0.18
+  fa:0.18
+  allowed:0.18
+  slowly:0.18
+  optionally:0.18
+  mine:0.18
+  invite:0.18
+
+Topic 1:
+  good:0.20
+  fe:0.20
+  link:0.20
+  profile:0.18
+  weekdays:0.18
+  sunday:0.18
+  dont:0.18
+  market:0.18
+  shipping:0.18
+  friendly:0.18
+
+Topic 2:
+  good:0.20
+  fe:0.20
+  link:0.20
+  price:0.18
+  ship:0.18
+  fast:0.18
+  market:0.18
+  super:0.18
+  customer:0.18
+  friendly:0.18
+
+Topic 3:
+  link:0.20
+  good:0.20
+  fe:0.20
+  slowly:0.18
+  mine:0.18
+  supports:0.18
+  optionally:0.18
+  hub:0.18
+  fa:0.18
+  growing:0.18
+
+Topic 4:
+  link:0.20
+  good:0.20
+  fe:0.20
+  growing:0.18
+  optionally:0.18
+  fa:0.18
+  invite:0.18
+  multisig:0.18
+  allowed:0.18
+  hub:0.18
+
+K: 5, Log-Likelihood: -107.140, Alpha: 11.000, Beta: 1.100

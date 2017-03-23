@@ -1,0 +1,61 @@
+Topic 0:
+  ny:1.00
+  altcoins:0.81
+  broaden:0.59
+  options:0.58
+  tap:0.58
+  point:0.58
+  customer:0.58
+  hinges:0.58
+  single:0.58
+  alternative:0.58
+
+Topic 1:
+  good:0.89
+  ny:0.84
+  pretty:0.79
+  reliable:0.78
+  lelantos:0.76
+  sigaint:0.75
+  free:0.61
+  messages:0.60
+  altcoins:0.56
+  btc:0.45
+
+Topic 2:
+  sigaint:1.42
+  reliable:1.40
+  lelantos:1.31
+  pretty:1.19
+  good:1.03
+  free:0.94
+  messages:0.72
+  mailchuck:0.63
+  find:0.57
+  address:0.57
+
+Topic 3:
+  ny:0.86
+  altcoins:0.71
+  good:0.67
+  lelantos:0.66
+  pretty:0.65
+  reliable:0.63
+  sigaint:0.59
+  payment:0.51
+  liquid:0.51
+  intelligent:0.51
+
+Topic 4:
+  good:0.84
+  pretty:0.82
+  ny:0.81
+  lelantos:0.78
+  messages:0.70
+  sigaint:0.68
+  reliable:0.67
+  altcoins:0.58
+  free:0.53
+  individuals:0.43
+
+K: 5, Log-Likelihood: -833.493, Alpha: 11.000, Beta: 1.100

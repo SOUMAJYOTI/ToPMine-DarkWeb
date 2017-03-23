@@ -1,0 +1,61 @@
+Topic 0:
+  agora:0.60
+  meerkovo:0.58
+  ag:0.57
+  good:0.42
+  thehub:0.42
+  yesterday:0.42
+  post:0.42
+  sign:0.41
+  hope:0.41
+  forum:0.39
+
+Topic 1:
+  ag:0.65
+  agora:0.58
+  meerkovo:0.58
+  uri:0.43
+  vendor:0.43
+  forum:0.40
+  thehub:0.39
+  hope:0.39
+  post:0.39
+  sign:0.39
+
+Topic 2:
+  ag:0.62
+  meerkovo:0.62
+  agora:0.59
+  forum:0.41
+  uri:0.40
+  vendor:0.40
+  hope:0.40
+  sign:0.39
+  post:0.39
+  yesterday:0.39
+
+Topic 3:
+  meerkovo:0.62
+  agora:0.62
+  ag:0.57
+  good:0.41
+  thehub:0.40
+  yesterday:0.40
+  post:0.40
+  sign:0.40
+  hope:0.40
+  forum:0.40
+
+Topic 4:
+  agora:0.61
+  meerkovo:0.61
+  ag:0.59
+  forum:0.41
+  hope:0.40
+  yesterday:0.40
+  sign:0.40
+  thehub:0.40
+  post:0.40
+  good:0.40
+
+K: 5, Log-Likelihood: -193.701, Alpha: 11.000, Beta: 1.100

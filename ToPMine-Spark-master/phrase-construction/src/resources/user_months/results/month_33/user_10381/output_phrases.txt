@@ -1,0 +1,61 @@
+Topic 0:
+  agra:0.20
+  zaphod february:0.20
+  quote:0.20
+  zaphodsurly:0.20
+  aware:0.20
+  admin:0.20
+  amsee:0.20
+  software zaphod:0.18
+  letting:0.18
+  billyking:0.18
+
+Topic 1:
+  admin:0.20
+  aware:0.20
+  quote:0.20
+  amsee:0.20
+  zaphodsurly:0.20
+  agra:0.20
+  zaphod february:0.20
+  outdated:0.18
+  amquote:0.18
+  forum:0.18
+
+Topic 2:
+  zaphod february:0.20
+  aware:0.20
+  amsee:0.20
+  agra:0.20
+  zaphodsurly:0.20
+  admin:0.20
+  quote:0.20
+  letting:0.18
+  zaphod:0.18
+  forum:0.18
+
+Topic 3:
+  amsee:0.20
+  zaphodsurly:0.20
+  admin:0.20
+  zaphod february:0.20
+  agra:0.20
+  aware:0.20
+  quote:0.20
+  hope:0.18
+  people:0.18
+  software zaphod:0.18
+
+Topic 4:
+  quote:0.20
+  zaphodsurly:0.20
+  admin:0.20
+  zaphod february:0.20
+  aware:0.20
+  amsee:0.20
+  agra:0.20
+  zaphod:0.18
+  letting:0.18
+  putting:0.18
+
+K: 5, Log-Likelihood: -83.896, Alpha: 11.000, Beta: 1.100

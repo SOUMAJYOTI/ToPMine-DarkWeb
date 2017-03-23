@@ -1,0 +1,61 @@
+Topic 0:
+  mail:19.25
+  mail carrier:8.55
+  le:7.02
+  day:6.41
+  remain calm:6.41
+  holiday season:6.41
+  nice:4.50
+  prepare:4.27
+  mailman:4.27
+  opening:4.27
+
+Topic 1:
+  chuck:17.11
+  matt:13.84
+  judge:8.78
+  church judge:6.41
+  email account:6.41
+  jeffs:6.41
+  officers:5.25
+  email address:4.60
+  adversaries:4.27
+  table:4.27
+
+Topic 2:
+  vendors tmg dhl:6.89
+  considered:4.25
+  silver:3.95
+  suspicious:3.48
+  purchases:3.43
+  phone:3.42
+  speaking:3.42
+  helpful:3.42
+  required:3.42
+  resale:3.42
+
+Topic 3:
+  amazing drugs:5.16
+  blame:4.26
+  knowing:4.23
+  super lazy:3.54
+  security:3.42
+  sat minutes:3.42
+  rest tmg:3.42
+  enjoying:3.42
+  lolps:3.42
+  contributing:3.42
+
+Topic 4:
+  coins:10.69
+  money:8.62
+  bitcoin business:8.55
+  bitcoin:5.50
+  opsec:4.27
+  exchange:4.27
+  dummy:4.27
+  write:4.27
+  deposit:4.27
+  dollars:4.27
+
+K: 5, Log-Likelihood: -13777.709, Alpha: 11.000, Beta: 1.100

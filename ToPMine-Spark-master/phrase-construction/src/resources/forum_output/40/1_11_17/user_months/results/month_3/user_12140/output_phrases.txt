@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:1.51
+  branded:0.93
+  visa:0.92
+  platform:0.91
+  cryptocurrencies:0.90
+  send:0.90
+  zone:0.89
+  peer:0.87
+  transfers:0.87
+  sea:0.87
+
+Topic 1:
+  bitcoin:1.77
+  trading:1.28
+  transfers:1.23
+  sea:1.23
+  peer:1.22
+  zone:1.22
+  cryptocurrencies:1.20
+  send:1.20
+  platform:1.18
+  visa:1.17
+
+Topic 2:
+  bank:0.55
+  buy sell bitcoins anonymously:0.49
+  enumbered:0.48
+  card:0.48
+  bitcoins:0.43
+  btcs:0.37
+  eye:0.37
+  site:0.37
+  anonymously:0.37
+  buyers:0.37
+
+Topic 3:
+  april:2.00
+  option:1.15
+  chiefkeef:1.15
+  pmdefinitely:1.15
+  quote:1.15
+  payment:1.15
+  peoples:1.15
+  great idea good true:0.97
+  amquote:0.91
+  website:0.91
+
+Topic 4:
+  bitcoin anonymously:2.25
+  code:2.23
+  moneypak:2.23
+  western union:1.52
+  bank:1.35
+  cash:1.02
+  accepts:1.02
+  transfer:1.02
+  major:1.02
+  buy:1.02
+
+K: 5, Log-Likelihood: -833.754, Alpha: 11.000, Beta: 1.100

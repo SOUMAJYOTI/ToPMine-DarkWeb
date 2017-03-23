@@ -1,0 +1,61 @@
+Topic 0:
+  market:23.51
+  large:8.88
+  exit:4.25
+  scams:4.02
+  support:2.65
+  repeat:2.52
+  fall:2.51
+  share:2.46
+  happy:2.46
+  respond:2.46
+
+Topic 1:
+  market:6.90
+  markets:4.19
+  support:3.18
+  love:3.02
+  scams:2.93
+  exit:2.71
+  large:1.91
+  good:1.81
+  thing:1.43
+  link:1.19
+
+Topic 2:
+  markets:4.74
+  vendors:4.07
+  market:3.75
+  trust:3.59
+  point:3.57
+  supporting:2.31
+  exist:1.63
+  simply:1.63
+  model:1.63
+  admins:1.63
+
+Topic 3:
+  link:5.51
+  market:4.18
+  markets:2.86
+  onion:1.94
+  love:1.60
+  support:1.56
+  session:1.49
+  drddrddig:1.49
+  register:1.49
+  scams:1.33
+
+Topic 4:
+  multisig:7.33
+  love:4.99
+  learn:4.35
+  avengers:3.88
+  markets:3.77
+  support:3.77
+  good:2.13
+  scams:1.87
+  thing:1.77
+  recommend:1.65
+
+K: 5, Log-Likelihood: -2044.706, Alpha: 11.000, Beta: 1.100

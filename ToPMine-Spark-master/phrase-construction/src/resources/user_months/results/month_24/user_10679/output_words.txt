@@ -1,0 +1,61 @@
+Topic 0:
+  design:3.53
+  quote:3.47
+  ill:3.45
+  surprised:3.27
+  friend:3.16
+  evolution:2.88
+  didnt:2.55
+  lol:2.49
+  decided:2.42
+  paying:2.41
+
+Topic 1:
+  evolution:6.25
+  contest:5.99
+  prediction:3.49
+  hope:3.21
+  good:2.88
+  star:2.76
+  marketplace:2.50
+  luck:2.34
+  place:2.24
+  users:2.09
+
+Topic 2:
+  troll:5.67
+  september:4.13
+  threads:3.87
+  post:3.85
+  people:3.70
+  promise:3.52
+  vendor:3.24
+  topic:2.89
+  quote:2.83
+  participate:2.81
+
+Topic 3:
+  market:10.53
+  great:4.12
+  sr:3.42
+  markets:2.96
+  ya:2.50
+  bring:2.43
+  august:2.33
+  trolltergeist:2.12
+  friend:2.10
+  break:2.04
+
+Topic 4:
+  bitcoin:7.67
+  prediction:7.21
+  sept:5.75
+  place:5.50
+  predictions:4.68
+  contest:4.55
+  theme:3.90
+  final:3.75
+  discussion:3.69
+  questions:3.58
+
+K: 5, Log-Likelihood: -5046.249, Alpha: 11.000, Beta: 1.100

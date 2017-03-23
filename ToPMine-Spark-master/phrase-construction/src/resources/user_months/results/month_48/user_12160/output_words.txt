@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:4.63
+  coinpig:3.97
+  bitcoin:2.51
+  secure:2.47
+  net:1.74
+  holdings:1.61
+  deposit:1.59
+  month:1.55
+  bitcoins:1.54
+  percent:1.53
+
+Topic 1:
+  security:3.76
+  animal:2.44
+  protection:2.44
+  risk:2.42
+  pin:2.26
+  good:1.88
+  sounds:1.88
+  gon:1.88
+  guy:1.88
+  aint:1.88
+
+Topic 2:
+  service:2.35
+  services:2.21
+  learned:2.19
+  mixing:2.17
+  onion:2.11
+  scam:2.03
+  bitin:1.40
+  mixers:1.40
+  tumblers:1.40
+  hosted:1.40
+
+Topic 3:
+  wallet:2.32
+  net:1.02
+  send:0.76
+  scam:0.70
+  onion:0.63
+  mixing:0.58
+  service:0.58
+  web:0.57
+  learned:0.55
+  services:0.55
+
+Topic 4:
+  wallet:7.56
+  coinpig:5.90
+  secure:4.10
+  bitcoin:3.01
+  percent:2.11
+  receive:2.11
+  extra:2.10
+  bitcoins:2.07
+  net:2.04
+  month:2.03
+
+K: 5, Log-Likelihood: -1517.809, Alpha: 11.000, Beta: 1.100

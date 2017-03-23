@@ -1,0 +1,61 @@
+Topic 0:
+  tradition:3.98
+  trika:3.98
+  antic:3.98
+  studied:3.98
+  school:3.98
+  scripture:3.95
+  ourself:3.95
+  translation:3.93
+  point:3.92
+  nature:3.89
+
+Topic 1:
+  people:39.08
+  sages:18.84
+  tao:18.75
+  called:18.39
+  death:16.39
+  great:14.85
+  heaven:14.10
+  fault:12.25
+  state:12.18
+  virtue:12.05
+
+Topic 2:
+  chapter:47.96
+  tao:40.53
+  people:38.79
+  called:28.63
+  great:23.12
+  heaven:22.29
+  things:18.24
+  earth:16.05
+  create:11.99
+  virtue:11.66
+
+Topic 3:
+  tao:44.62
+  great:38.61
+  things:31.05
+  chapter:30.46
+  virtue:20.20
+  good:16.24
+  appears:15.99
+  oneness:14.22
+  attained:14.22
+  achieves:13.99
+
+Topic 4:
+  people:25.77
+  tao:24.85
+  called:20.02
+  country:18.61
+  sages:18.26
+  small:17.01
+  virtue:16.05
+  large:15.99
+  lower:12.32
+  easy:10.24
+
+K: 5, Log-Likelihood: -34992.877, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  armory:5.60
+  quote zaphod june pmquote:3.35
+  site read:3.30
+  visiting:3.30
+  recommend recommend:3.29
+  transactions matter wallet transaction:2.71
+  machine sole purpose signing:2.63
+  great appreciated curious recommend:2.61
+  bitin qt air gaped:2.56
+  bernard marx june pmas:2.49
+
+Topic 1:
+  folder:7.34
+  elaborate dm buys:5.28
+  personally dont btc:4.95
+  zaphod june pmquote:4.68
+  hackerjon june pmquote:4.68
+  persistent folder:4.49
+  tor browser:4.35
+  quote:4.17
+  darknet:3.68
+  meaning:3.68
+
+Topic 2:
+  bitcoin:8.49
+  university luxembourg faculty science:6.82
+  technology communication fstc computer:6.82
+  science communications unit csc:6.82
+  association:6.81
+  bitcoin address:6.53
+  transactions:6.06
+  event:4.52
+  pseudonyms:4.52
+  determine:4.52
+
+Topic 3:
+  wallet wallet:6.88
+  tails:6.74
+  tor:4.97
+  agora:4.57
+  money:4.57
+  torification:4.55
+  bug:4.55
+  isnt:4.55
+  routed:3.75
+  dont:3.75
+
+Topic 4:
+  thin clients:9.45
+  bloom filters:9.40
+  addresses:6.24
+  blockchain locally:6.18
+  address:6.11
+  spv server:6.10
+  multibit:6.02
+  transactions:5.53
+  expert:4.14
+  doesnt:3.31
+
+K: 5, Log-Likelihood: -6988.501, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  trade:7.91
+  trust:5.91
+  publicly:3.92
+  risk:3.92
+  proceed:3.92
+  escrow:3.92
+  moneypak:3.92
+  btc:2.43
+  cash:2.42
+  bitcointalk:2.08
+
+Topic 1:
+  eyes:9.77
+  countries:9.42
+  bittorrent:4.47
+  set:4.46
+  vpn:4.13
+  bandwidth:3.90
+  server:3.06
+  vpon:2.56
+  external:2.27
+  entrynodes:2.20
+
+Topic 2:
+  server:12.79
+  country:8.68
+  traffic:6.33
+  europe:5.89
+  vpn:5.72
+  contact:4.06
+  located:3.90
+  russian:3.90
+  services:3.90
+  servers:3.90
+
+Topic 3:
+  entry:11.91
+  guard:5.91
+  tor:4.95
+  nodes:3.92
+  exit:3.92
+  guards:3.92
+  attacker:3.92
+  matter:3.92
+  bitcointalk:2.12
+  network:2.03
+
+Topic 4:
+  markup:1.89
+  coins:1.86
+  couple:1.85
+  thougt:1.85
+  topic:1.85
+  ago:1.85
+  months:1.85
+  pia:1.85
+  honestly:1.85
+  clarification:1.85
+
+K: 5, Log-Likelihood: -2765.804, Alpha: 11.000, Beta: 1.100

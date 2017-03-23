@@ -1,0 +1,61 @@
+Topic 0:
+  interest:5.03
+  dark market:3.69
+  setup:2.36
+  discussions:2.34
+  idiots:2.34
+  developments:2.33
+  youporn:1.04
+  vendors:1.04
+  cool:1.04
+  accounts:1.04
+
+Topic 1:
+  doesnt:0.91
+  whonix:0.79
+  opinion:0.79
+  basin:0.79
+  entity:0.79
+  anonymous:0.79
+  state:0.79
+  blocks:0.79
+  dealing:0.79
+  protect:0.79
+
+Topic 2:
+  vote:3.78
+  interested:1.17
+  youll:1.07
+  people:1.07
+  talk:1.07
+  paper:1.07
+  idea:1.07
+  start:1.07
+  trawling:1.07
+  case:1.07
+
+Topic 3:
+  virtualbox:2.52
+  system:2.52
+  gateway workstation:1.77
+  physical:1.15
+  secure:1.15
+  escape:1.15
+  impossible:1.15
+  lot:1.15
+  exploits:1.15
+  machines:1.15
+
+Topic 4:
+  hidden services:0.67
+  stuff:0.63
+  tor:0.40
+  amanybody:0.36
+  doesnt:0.35
+  elegant:0.33
+  articles:0.33
+  ill:0.33
+  general:0.33
+  archives:0.33
+
+K: 5, Log-Likelihood: -869.343, Alpha: 11.000, Beta: 1.100

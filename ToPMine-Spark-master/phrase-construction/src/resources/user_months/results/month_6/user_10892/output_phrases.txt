@@ -1,0 +1,61 @@
+Topic 0:
+  quote:11.97
+  provide require users blockchain:7.99
+  backed careful web wallets:7.99
+  wallets armory electrum:7.99
+  data lost rely nodes:7.99
+  march:7.88
+  albert:7.83
+  good:7.66
+  existing users:6.75
+  grow:6.75
+
+Topic 1:
+  tor:16.92
+  hidden service:16.92
+  attacker:13.53
+  keys:11.05
+  relay identity key:10.15
+  relays bridges:10.15
+  leak:10.15
+  opens package:10.15
+  long term:10.15
+  clients:8.84
+
+Topic 2:
+  multi sig address:11.90
+  pretty:11.06
+  link:10.98
+  electrum:10.62
+  computer:10.33
+  buyers pay:10.13
+  llama socks:9.54
+  bitcoind blockchain:8.92
+  user cooked:8.85
+  blockchain:8.77
+
+Topic 3:
+  bazaar:23.98
+  private key:16.72
+  hex string:13.53
+  hex output:13.53
+  buyers:12.01
+  public key:10.92
+  raw transaction:10.92
+  orders:10.15
+  order details:10.15
+  placing order:10.15
+
+Topic 4:
+  order:28.16
+  vendor:24.56
+  users:22.42
+  multisignature transactions:13.53
+  leave feedback:13.53
+  multisig address:13.44
+  buyer:10.57
+  step:9.95
+  address:9.73
+  public keys advance:8.93
+
+K: 5, Log-Likelihood: -44914.771, Alpha: 11.000, Beta: 1.100

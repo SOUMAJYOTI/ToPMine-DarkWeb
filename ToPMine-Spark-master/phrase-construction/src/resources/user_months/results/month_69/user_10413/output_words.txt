@@ -1,0 +1,61 @@
+Topic 0:
+  link:12.64
+  server:10.34
+  address:9.45
+  pin:9.41
+  asked:8.88
+  market:7.54
+  alphabet:6.51
+  click:6.34
+  managed:5.89
+  message:3.91
+
+Topic 1:
+  ovdb:14.91
+  shut:14.78
+  sr:13.52
+  forum:10.34
+  remember:9.13
+  labs:7.95
+  time:6.84
+  forums:5.16
+  drug:4.94
+  didnt:4.88
+
+Topic 2:
+  speaker:7.82
+  bluetooth:6.74
+  speakers:4.66
+  onion:4.34
+  link:4.22
+  dont:3.81
+  stream:3.80
+  finds:3.16
+  devices:2.84
+  pul:2.82
+
+Topic 3:
+  running:6.85
+  february:5.17
+  valhalla:4.24
+  oldest:3.97
+  vendors:3.89
+  computer:3.53
+  tether:3.48
+  quote:3.39
+  speakers:3.03
+  thing:2.52
+
+Topic 4:
+  forum:17.46
+  market:16.47
+  private:13.97
+  onion:10.07
+  sr:9.95
+  bmr:9.46
+  drug:6.98
+  moved:6.96
+  budmail:6.85
+  long:6.30
+
+K: 5, Log-Likelihood: -6839.773, Alpha: 11.000, Beta: 1.100

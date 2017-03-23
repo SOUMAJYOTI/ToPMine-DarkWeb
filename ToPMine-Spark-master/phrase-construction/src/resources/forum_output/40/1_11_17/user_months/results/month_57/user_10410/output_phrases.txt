@@ -1,0 +1,61 @@
+Topic 0:
+  link:0.58
+  links:0.56
+  popped:0.38
+  free:0.38
+  limited:0.38
+  deepdotweb:0.38
+  exit:0.38
+  site:0.34
+  message:0.31
+  scam:0.30
+
+Topic 1:
+  links:0.60
+  link:0.59
+  deepdotweb:0.39
+  popped:0.39
+  exit:0.39
+  free:0.39
+  limited:0.39
+  site:0.34
+  message:0.31
+  scam:0.30
+
+Topic 2:
+  links:0.53
+  link:0.53
+  site:0.38
+  free:0.36
+  limited:0.36
+  exit:0.35
+  deepdotweb:0.35
+  popped:0.35
+  scam:0.31
+  message:0.30
+
+Topic 3:
+  link:0.51
+  links:0.50
+  site:0.40
+  exit:0.35
+  free:0.35
+  popped:0.35
+  limited:0.35
+  deepdotweb:0.35
+  scam:0.32
+  message:0.30
+
+Topic 4:
+  links:0.56
+  link:0.55
+  site:0.37
+  limited:0.37
+  exit:0.36
+  popped:0.36
+  deepdotweb:0.36
+  free:0.36
+  scam:0.31
+  message:0.30
+
+K: 5, Log-Likelihood: -300.795, Alpha: 11.000, Beta: 1.100

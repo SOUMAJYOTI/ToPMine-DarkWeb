@@ -1,0 +1,61 @@
+Topic 0:
+  blond:1.73
+  btcshffl:1.31
+  making:1.25
+  bitcoin:1.24
+  wallet:1.22
+  impossible:1.20
+  lots:1.19
+  addresses:1.16
+  wig:0.91
+  coins:0.69
+
+Topic 1:
+  mixing:1.32
+  bitcoin:1.29
+  service:1.25
+  coins:1.00
+  wallet:0.71
+  making:0.68
+  lots:0.67
+  impossible:0.67
+  btcshffl:0.65
+  addresses:0.65
+
+Topic 2:
+  service:2.39
+  mixing:1.89
+  coins:1.17
+  hope:0.49
+  btc:0.48
+  plunge:0.48
+  options:0.48
+  services:0.47
+  glad:0.47
+  forums:0.47
+
+Topic 3:
+  blond:2.63
+  bitcoin:1.95
+  addresses:1.83
+  lots:1.76
+  impossible:1.76
+  wallet:1.69
+  making:1.68
+  btcshffl:1.68
+  wig:1.53
+  wigshuffle:0.86
+
+Topic 4:
+  service:3.66
+  mixing:1.92
+  solution:1.16
+  lacking:1.16
+  time:1.16
+  gamesome:1.16
+  coin:1.16
+  things:1.16
+  buying:1.16
+  threads:1.16
+
+K: 5, Log-Likelihood: -599.538, Alpha: 11.000, Beta: 1.100

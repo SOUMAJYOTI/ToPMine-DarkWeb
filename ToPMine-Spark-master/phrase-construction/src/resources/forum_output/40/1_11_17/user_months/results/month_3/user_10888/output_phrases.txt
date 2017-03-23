@@ -1,0 +1,61 @@
+Topic 0:
+  seller:23.34
+  buyer:21.43
+  cost trade:11.66
+  address seller:11.66
+  people:9.64
+  true:7.77
+  confidence:7.77
+  puts bitcoin:7.77
+  small:7.77
+  buyer seller:7.77
+
+Topic 1:
+  fe bf:23.51
+  bd aac fbc cb:23.51
+  fa fad edbfb fa:23.51
+  cab cef aa dac:23.51
+  ef cb ccffef ec:23.51
+  fc cd ab fbab:23.51
+  fb bfa eb db:18.80
+  bbbce bf dc:18.80
+  db db aed bbed:14.10
+  db dbf fab af:11.75
+
+Topic 2:
+  cold storage:15.44
+  hidden partition:9.39
+  multi sig:9.38
+  multiply:7.76
+  vendor:7.42
+  drive:7.04
+  random files:7.04
+  wallet keys:7.04
+  funds:6.82
+  blackbank:6.64
+
+Topic 3:
+  truecrypt container:8.16
+  signed transaction:7.43
+  bitcoin:7.39
+  armory electrum:7.04
+  key:6.72
+  wallets:6.31
+  private keys:5.97
+  online:5.24
+  digital backup:4.69
+  office wallet:4.69
+
+Topic 4:
+  address:8.94
+  private key:7.50
+  miners:7.04
+  private key address:7.04
+  public key:7.03
+  wallet:5.79
+  public key address:4.69
+  bitin works:4.69
+  private key public key:4.69
+  funds blockchain:4.69
+
+K: 5, Log-Likelihood: -20793.572, Alpha: 11.000, Beta: 1.100

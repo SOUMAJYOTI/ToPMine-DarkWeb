@@ -1,0 +1,61 @@
+Topic 0:
+  ago:2.56
+  minutes:2.04
+  remember byanonymousguy chat sr:1.52
+  helped stuff interested:1.52
+  ship:1.16
+  day:1.16
+  speak:1.16
+  man ya:1.16
+  yea:1.16
+  weeks:1.16
+
+Topic 1:
+  folder:5.31
+  automatic upgrade:3.97
+  upgrade:3.97
+  slower:2.59
+  hour:2.59
+  upgrades:2.59
+  browser:2.55
+  copy:2.55
+  tor:2.55
+  tails:1.76
+
+Topic 2:
+  wallet:1.53
+  electrum:1.48
+  armory:1.39
+  highly:1.04
+  client:1.04
+  desktop client:1.03
+  bitcoin:1.03
+  stored:1.03
+  open:1.01
+  address:1.01
+
+Topic 3:
+  thoughts electrum jigsaw:0.68
+  aboutconfig:0.55
+  save:0.55
+  seconds:0.55
+  bookmarking:0.55
+  minutes:0.54
+  thnx btw ft hey:0.53
+  ya man:0.53
+  things shoot pm bro:0.53
+  spoke dnm started mnths:0.53
+
+Topic 4:
+  armory:2.54
+  electrum:2.45
+  wallet:2.40
+  clients:1.65
+  blockchain:1.62
+  server:1.61
+  coins:1.60
+  download:1.58
+  entire:1.56
+  address:1.56
+
+K: 5, Log-Likelihood: -1370.959, Alpha: 11.000, Beta: 1.100

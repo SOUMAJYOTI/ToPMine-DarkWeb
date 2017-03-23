@@ -1,0 +1,61 @@
+Topic 0:
+  memorizing:1.12
+  account:0.66
+  hacks:0.65
+  onion:0.65
+  addresses:0.65
+  strong:0.65
+  times:0.65
+  ammemorizing:0.48
+  firelight:0.48
+  pretty:0.48
+
+Topic 1:
+  safe:0.81
+  password manager:0.65
+  main:0.57
+  randomly:0.56
+  good:0.56
+  generated:0.55
+  password:0.51
+  memorizing:0.41
+  passwords:0.40
+  times:0.30
+
+Topic 2:
+  safe:1.10
+  good:0.75
+  main:0.75
+  generated:0.74
+  password manager:0.68
+  randomly:0.67
+  password:0.54
+  passwords:0.39
+  written:0.35
+  destroy:0.35
+
+Topic 3:
+  safe:1.58
+  generated:0.98
+  good:0.96
+  main:0.95
+  password manager:0.81
+  randomly:0.70
+  password:0.55
+  physical:0.43
+  drive:0.43
+  stay:0.43
+
+Topic 4:
+  advice:0.63
+  create:0.63
+  register:0.63
+  meet:0.63
+  read:0.63
+  start:0.63
+  characters:0.63
+  requirements:0.63
+  scrappy:0.63
+  billion:0.63
+
+K: 5, Log-Likelihood: -450.127, Alpha: 11.000, Beta: 1.100

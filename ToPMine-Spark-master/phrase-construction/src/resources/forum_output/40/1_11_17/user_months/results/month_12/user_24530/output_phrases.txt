@@ -1,0 +1,61 @@
+Topic 0:
+  agora:2.04
+  starts:2.04
+  paying:2.04
+  coming:2.04
+  hell:2.04
+  kicking:2.04
+  longer:2.04
+  making:2.04
+  commissions:2.04
+  fees:2.04
+
+Topic 1:
+  site:3.87
+  jc:2.51
+  order:2.00
+  wanted:1.94
+  donate:1.94
+  offered:1.94
+  thread:1.94
+  community:1.94
+  bump:1.94
+  love:1.94
+
+Topic 2:
+  forum clock:6.77
+  july:4.45
+  time:3.94
+  account:3.30
+  naggin:3.30
+  amwtf:3.30
+  header:3.30
+  chimes:3.30
+  north:3.30
+  modified:3.30
+
+Topic 3:
+  est:5.01
+  profile:4.18
+  set:3.21
+  pct:3.21
+  read:3.21
+  hey:3.20
+  time:3.06
+  quote:2.23
+  east:2.05
+  west:2.05
+
+Topic 4:
+  send:4.20
+  erowid:2.97
+  trips:2.06
+  sized:2.06
+  psychedelic:2.06
+  prevented:2.06
+  supporting:2.06
+  theyll:2.06
+  glass:2.06
+  deaths:2.06
+
+K: 5, Log-Likelihood: -1323.439, Alpha: 11.000, Beta: 1.100

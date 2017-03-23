@@ -1,0 +1,61 @@
+Topic 0:
+  tor:6.58
+  electrum:6.04
+  tails:6.02
+  servers:3.68
+  dash:3.08
+  clients:2.59
+  connect:2.14
+  running:1.99
+  wallet:1.83
+  tcp:1.73
+
+Topic 1:
+  dice:15.94
+  list:12.27
+  diceware:10.67
+  passphrase:10.59
+  word:8.81
+  roll:7.94
+  security:5.05
+  encryption:4.79
+  groups:4.18
+  computer:4.18
+
+Topic 2:
+  bits:10.91
+  diceware:6.15
+  aes:5.76
+  zaphod:4.72
+  ten:3.95
+  bit:3.12
+  dont:2.78
+  poor:2.67
+  quote:2.63
+  january:2.63
+
+Topic 3:
+  bridges:6.00
+  security:5.19
+  tails:5.15
+  guys:4.21
+  electrum:3.88
+  servers:3.73
+  stock:3.20
+  safe:3.19
+  darksend:3.16
+  blog:3.14
+
+Topic 4:
+  electrum:9.88
+  tails:9.55
+  dash:6.87
+  servers:3.49
+  wallet:2.38
+  good:1.94
+  security:1.89
+  running:1.70
+  tambourine:1.51
+  clients:1.36
+
+K: 5, Log-Likelihood: -4973.736, Alpha: 11.000, Beta: 1.100

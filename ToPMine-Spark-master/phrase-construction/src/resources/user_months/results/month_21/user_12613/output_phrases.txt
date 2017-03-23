@@ -1,0 +1,61 @@
+Topic 0:
+  august:0.39
+  siirto:0.32
+  ohjeista:0.25
+  katsoa:0.25
+  kiitokset:0.25
+  pahoittelut:0.25
+  mm:0.25
+  huomannut:0.25
+  oletin:0.25
+  hukkaan:0.25
+
+Topic 1:
+  august:0.42
+  siirto:0.28
+  siel:0.27
+  ettei:0.27
+  homma:0.27
+  menik:0.27
+  ik:0.27
+  tiedosta:0.27
+  kerkesin:0.27
+  ht:0.27
+
+Topic 2:
+  august:0.37
+  siirto:0.34
+  asti:0.25
+  ensimm:0.25
+  siirto oli:0.25
+  torstai:0.25
+  lompakkoon:0.25
+  ollenkaan:0.25
+  inen:0.25
+  siirsin:0.25
+
+Topic 3:
+  siirto:0.75
+  siirto oli:0.50
+  oli:0.50
+  torstai:0.50
+  lompakkokoodi:0.50
+  inen:0.50
+  asti:0.50
+  siirsin:0.50
+  bitcoin:0.50
+  ollenkaan:0.50
+
+Topic 4:
+  siirto:1.06
+  lompakkoon:0.63
+  rahaa:0.63
+  ensimm:0.63
+  bitcoin:0.62
+  ollenkaan:0.62
+  siirsin:0.62
+  inen:0.62
+  lompakkokoodi:0.62
+  asti:0.62
+
+K: 5, Log-Likelihood: -479.997, Alpha: 11.000, Beta: 1.100

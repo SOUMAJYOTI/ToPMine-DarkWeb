@@ -1,0 +1,61 @@
+Topic 0:
+  encryption:1.24
+  good:0.53
+  seds:0.53
+  drives:0.45
+  group:0.43
+  software:0.42
+  trusted:0.42
+  aes:0.40
+  mode:0.37
+  total:0.32
+
+Topic 1:
+  data:3.43
+  key:3.40
+  encryption:3.28
+  set:1.53
+  change:1.52
+  sed:1.52
+  factory:1.52
+  certified:1.52
+  seds:1.34
+  keys:0.63
+
+Topic 2:
+  security:1.10
+  total:1.09
+  drives:0.78
+  encryption:0.58
+  posture:0.44
+  susceptible:0.44
+  soft:0.44
+  drive:0.44
+  computing:0.44
+  lot:0.44
+
+Topic 3:
+  drives:1.19
+  fips:1.04
+  aes:0.73
+  encryption:0.72
+  mode:0.46
+  good:0.45
+  manufacturer:0.42
+  assured:0.42
+  sw:0.42
+  rng:0.42
+
+Topic 4:
+  encryption:1.18
+  seds:0.51
+  good:0.51
+  drives:0.50
+  aes:0.43
+  mode:0.41
+  software:0.40
+  group:0.40
+  trusted:0.40
+  fips:0.33
+
+K: 5, Log-Likelihood: -598.641, Alpha: 11.000, Beta: 1.100

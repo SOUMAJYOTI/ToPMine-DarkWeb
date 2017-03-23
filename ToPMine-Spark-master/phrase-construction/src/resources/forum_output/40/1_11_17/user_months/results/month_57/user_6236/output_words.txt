@@ -1,0 +1,61 @@
+Topic 0:
+  encrypted:2.91
+  slap:1.61
+  guess:1.57
+  assumption:1.57
+  sites:1.56
+  ssl:1.54
+  forehead:1.51
+  tails:1.42
+  quote:1.31
+  tracking:1.28
+
+Topic 1:
+  encrypted:2.18
+  tails:1.34
+  forehead:1.07
+  ssl:1.05
+  assumption:1.03
+  guess:1.02
+  sites:1.01
+  september:0.99
+  slap:0.99
+  tor:0.97
+
+Topic 2:
+  package:9.00
+  address:4.41
+  check:3.75
+  drugs:3.03
+  mac:2.45
+  attached:2.20
+  location:2.17
+  wifi:2.02
+  expecting:1.94
+  recorded:1.19
+
+Topic 3:
+  package:4.70
+  address:4.59
+  wifi:2.90
+  check:2.70
+  drugs:2.69
+  mac:2.04
+  expecting:1.78
+  location:1.56
+  attached:1.53
+  scenario:1.28
+
+Topic 4:
+  exit:1.67
+  track:1.36
+  tor:1.32
+  fucked:0.90
+  packages:0.82
+  encrypted:0.79
+  tails:0.77
+  purpose:0.74
+  arrival:0.74
+  simplified:0.74
+
+K: 5, Log-Likelihood: -1230.598, Alpha: 11.000, Beta: 1.100

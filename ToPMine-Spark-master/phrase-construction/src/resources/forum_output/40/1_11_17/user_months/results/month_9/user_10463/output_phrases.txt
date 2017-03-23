@@ -1,0 +1,36 @@
+Topic 0:
+  listings:0.00
+  piling:0.00
+  messages:0.00
+  respond:0.00
+  support:0.00
+
+Topic 1:
+  listings:0.00
+  piling:0.00
+  messages:0.00
+  respond:0.00
+  support:0.00
+
+Topic 2:
+  listings:0.00
+  piling:0.00
+  messages:0.00
+  respond:0.00
+  support:0.00
+
+Topic 3:
+  listings:0.00
+  piling:0.00
+  messages:0.00
+  respond:0.00
+  support:0.00
+
+Topic 4:
+  listings:0.00
+  piling:0.00
+  messages:0.00
+  respond:0.00
+  support:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

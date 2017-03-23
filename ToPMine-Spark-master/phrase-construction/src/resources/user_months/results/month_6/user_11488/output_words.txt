@@ -1,0 +1,61 @@
+Topic 0:
+  sites:5.19
+  time:3.83
+  fe:3.69
+  escrow:3.09
+  common:2.92
+  mp:2.92
+  vendor:2.70
+  future:2.65
+  marketplace:1.99
+  system:1.99
+
+Topic 1:
+  agora:2.55
+  elves:2.45
+  offer:2.42
+  referred:2.01
+  order:1.94
+  listings:1.79
+  namastemachine:1.76
+  custom:1.74
+  signed:1.67
+  offers:1.35
+
+Topic 2:
+  agora:5.03
+  pgp:3.11
+  key:2.95
+  public:2.95
+  link:1.99
+  post:1.95
+  profile:1.95
+  block:1.95
+  thread:1.95
+  marketplaces:1.95
+
+Topic 3:
+  elves:3.39
+  order:2.77
+  changa:2.32
+  agora:2.27
+  namastemachine:2.18
+  signed:2.08
+  offer:1.75
+  hey:1.60
+  listings:1.50
+  custom:1.48
+
+Topic 4:
+  dmt:11.27
+  fumarate:7.64
+  dat:6.83
+  freebase:6.73
+  people:5.93
+  salt:4.71
+  prefer:4.08
+  stable:3.93
+  furmate:3.93
+  extraction:2.64
+
+K: 5, Log-Likelihood: -5252.931, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  week:0.00
+  issue:0.00
+  evolution:0.00
+  check:0.00
+  loading:0.00
+  people:0.00
+  lot:0.00
+  problem:0.00
+  connection:0.00
+  happening:0.00
+
+Topic 1:
+  week:0.00
+  issue:0.00
+  evolution:0.00
+  check:0.00
+  loading:0.00
+  people:0.00
+  lot:0.00
+  problem:0.00
+  connection:0.00
+  happening:0.00
+
+Topic 2:
+  week:0.00
+  issue:0.00
+  evolution:0.00
+  check:0.00
+  loading:0.00
+  people:0.00
+  lot:0.00
+  problem:0.00
+  connection:0.00
+  happening:0.00
+
+Topic 3:
+  week:0.00
+  issue:0.00
+  evolution:0.00
+  check:0.00
+  loading:0.00
+  people:0.00
+  lot:0.00
+  problem:0.00
+  connection:0.00
+  happening:0.00
+
+Topic 4:
+  week:0.00
+  issue:0.00
+  evolution:0.00
+  check:0.00
+  loading:0.00
+  people:0.00
+  lot:0.00
+  problem:0.00
+  connection:0.00
+  happening:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

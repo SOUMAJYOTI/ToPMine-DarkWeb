@@ -1,0 +1,61 @@
+Topic 0:
+  creative:4.67
+  community:4.67
+  blog:3.38
+  security:3.28
+  nice:2.34
+  club:2.32
+  general:2.32
+  tor won:2.32
+  actions:2.32
+  screen:2.32
+
+Topic 1:
+  blog:5.06
+  theocean:3.68
+  youyou:3.68
+  totally:3.68
+  pmis:3.68
+  heyhey:3.68
+  bro:3.58
+  legal:3.57
+  blogs:3.57
+  don:3.48
+
+Topic 2:
+  products:4.67
+  drugs:4.67
+  sell:4.67
+  start:4.67
+  ppl:4.67
+  surface:4.67
+  post:2.35
+  goggle:2.32
+  announcing:2.32
+  quality:2.32
+
+Topic 3:
+  access:7.71
+  qr code:7.71
+  download tor:7.71
+  wasting time wasting prison:4.95
+  dis sounds terrifying dis:4.95
+  dont:4.46
+  quote alphae april:4.26
+  dismiss:3.82
+  easier people brazil:3.82
+  lsd:3.82
+
+Topic 4:
+  wordpress:5.49
+  clearweb sites:5.46
+  tor configured turn javascript:5.46
+  easy wrong carefully acting:5.46
+  careful access site tor:5.46
+  quote:5.08
+  function whonix max security:4.79
+  clearweb sites doxed:4.58
+  javascript revealed actual ip:4.58
+  april:4.08
+
+K: 5, Log-Likelihood: -3184.778, Alpha: 11.000, Beta: 1.100

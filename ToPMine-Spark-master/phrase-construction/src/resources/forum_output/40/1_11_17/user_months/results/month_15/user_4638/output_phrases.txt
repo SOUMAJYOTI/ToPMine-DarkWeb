@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.41
+  outlaw:0.08
+  foundation:0.08
+  inheriting:0.08
+  ami:0.08
+  people:0.08
+  wanting:0.08
+  markets:0.08
+  concept:0.08
+  poor:0.08
+
+Topic 1:
+  market:0.40
+  defunct:0.08
+  stay:0.08
+  activity:0.08
+  open:0.08
+  missy:0.08
+  built:0.08
+  frameworks:0.08
+  lack:0.08
+  ground:0.08
+
+Topic 2:
+  market:0.41
+  built:0.08
+  ground:0.08
+  outlaw:0.08
+  great:0.08
+  totally:0.08
+  source:0.08
+  darkweb:0.08
+  awkward:0.08
+  people:0.08
+
+Topic 3:
+  market:0.40
+  defunct:0.08
+  paste:0.08
+  execution:0.08
+  missy:0.08
+  ami:0.08
+  agree:0.08
+  modules:0.08
+  assuming:0.08
+  awkward:0.08
+
+Topic 4:
+  market:0.40
+  defunct:0.08
+  party:0.08
+  phenomenon:0.08
+  assuming:0.08
+  quote:0.08
+  open:0.08
+  darkweb:0.08
+  ami:0.08
+  paste:0.08
+
+K: 5, Log-Likelihood: -68.411, Alpha: 11.000, Beta: 1.100

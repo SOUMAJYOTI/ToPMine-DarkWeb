@@ -1,0 +1,61 @@
+Topic 0:
+  tor:2.09
+  stick:0.98
+  usb:0.92
+  size:0.86
+  break:0.86
+  harddrive:0.86
+  room:0.86
+  computer:0.86
+  pull:0.86
+  cclean:0.86
+
+Topic 1:
+  files:1.38
+  hide:0.94
+  crypt:0.79
+  secret:0.79
+  big:0.79
+  buried:0.79
+  info:0.79
+  media:0.79
+  lots:0.79
+  text:0.79
+
+Topic 2:
+  setup:2.38
+  open:1.03
+  administration:1.03
+  decide:1.03
+  great:1.03
+  analysed:1.03
+  truecrypt volume:1.03
+  youll:1.03
+  ability:1.03
+  option:1.03
+
+Topic 3:
+  system:2.80
+  clean:2.80
+  screwed:1.31
+  box:1.31
+  live:1.31
+  nice:1.31
+  long:1.31
+  partition:1.31
+  easy:1.31
+  modify:1.31
+
+Topic 4:
+  hidden volume:2.03
+  truecrypt:1.13
+  hidden password:1.13
+  linux:1.13
+  hope:1.12
+  protect:1.12
+  volumes:1.12
+  drive:1.12
+  windows:1.12
+  helps:1.12
+
+K: 5, Log-Likelihood: -710.529, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  proxies:3.06
+  tor:2.43
+  contract:2.42
+  message:2.10
+  bob:1.85
+  network:1.84
+  smart:1.76
+  blockchain:1.69
+  proxy:1.56
+  alice:1.46
+
+Topic 1:
+  proxies:3.00
+  alice:2.74
+  bob:2.46
+  blockchain:2.33
+  smart:2.21
+  contract:1.92
+  tor:1.69
+  messages:1.65
+  privacy:1.40
+  internet:1.26
+
+Topic 2:
+  tor:5.33
+  bob:3.08
+  alice:2.90
+  message:2.80
+  smart:2.45
+  messages:2.45
+  contract:2.40
+  internet:1.95
+  privacy:1.90
+  proxy:1.74
+
+Topic 3:
+  alice:5.12
+  tor:5.03
+  contract:4.11
+  smart:3.20
+  message:3.14
+  network:3.10
+  proxies:2.35
+  proxy:2.32
+  blockchain:2.17
+  bob:2.15
+
+Topic 4:
+  proxies:1.95
+  alice:1.77
+  message:1.73
+  tor:1.52
+  network:1.47
+  bob:1.46
+  messages:1.44
+  smart:1.38
+  contract:1.15
+  blockchain:1.15
+
+K: 5, Log-Likelihood: -3809.145, Alpha: 11.000, Beta: 1.100

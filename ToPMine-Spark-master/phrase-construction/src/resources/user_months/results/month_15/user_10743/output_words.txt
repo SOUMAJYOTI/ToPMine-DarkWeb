@@ -1,0 +1,61 @@
+Topic 0:
+  bible:0.87
+  anonymity:0.87
+  computing:0.87
+  rob:0.71
+  boxes:0.71
+  schneier:0.71
+  george:0.71
+  pmwhat:0.71
+  danezis:0.71
+  paul:0.71
+
+Topic 1:
+  read:2.77
+  feel:1.64
+  learn:1.63
+  tor:1.58
+  security:1.37
+  good:1.22
+  man:1.21
+  search:1.20
+  books:1.17
+  fish:1.13
+
+Topic 2:
+  security:2.45
+  books:1.56
+  good:0.84
+  google:0.77
+  install:0.76
+  hacking:0.75
+  check:0.75
+  read:0.71
+  understand:0.70
+  basics:0.57
+
+Topic 3:
+  security:1.79
+  good:1.57
+  computer:1.01
+  books:0.79
+  pretty:0.79
+  man:0.76
+  lot:0.72
+  forums:0.72
+  agora:0.71
+  read:0.64
+
+Topic 4:
+  security:2.74
+  understand:1.40
+  pretty:1.19
+  books:0.91
+  good:0.75
+  markets:0.71
+  agora:0.69
+  computer:0.62
+  helpful:0.60
+  read:0.58
+
+K: 5, Log-Likelihood: -1122.740, Alpha: 11.000, Beta: 1.100

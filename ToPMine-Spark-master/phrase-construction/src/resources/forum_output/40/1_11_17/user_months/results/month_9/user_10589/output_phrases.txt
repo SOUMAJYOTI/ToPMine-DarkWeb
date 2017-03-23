@@ -1,0 +1,61 @@
+Topic 0:
+  safe mail net:37.28
+  israel government:25.08
+  anonymous:14.22
+  barak net il:12.53
+  dont:12.15
+  version:10.23
+  system:9.71
+  disclosure:9.40
+  grams:8.72
+  safe mail:7.91
+
+Topic 1:
+  shared coin:13.62
+  users:10.89
+  privacy:8.48
+  shared coin coinjoin:7.15
+  mixing service:7.15
+  pgp:6.25
+  mixing services:5.43
+  analyzing:5.43
+  adequate:5.43
+  adviser:5.43
+
+Topic 2:
+  quote:12.51
+  bitcoin blender:12.16
+  op:10.87
+  matthew green:10.83
+  email metadata:10.28
+  flowers april amquote:9.69
+  shared send tumbling:8.78
+  organix march:8.78
+  pmwith bitfog slow jiffy:8.78
+  trolltergeist april pmone drawback:8.77
+
+Topic 3:
+  truecrypt:14.56
+  safe mail:11.79
+  eye:10.90
+  quote fugazzi april:10.90
+  tor:10.86
+  security audit complete cases:8.72
+  hard drive fbi year:8.72
+  github light events wait:8.72
+  lot:8.68
+  code:8.26
+
+Topic 4:
+  mail:17.70
+  subpoena hush:12.53
+  privacy policy:10.88
+  email:9.47
+  sites:8.12
+  version:7.46
+  service:6.96
+  attachments:6.26
+  agencies:6.26
+  message:6.26
+
+K: 5, Log-Likelihood: -23142.292, Alpha: 11.000, Beta: 1.100

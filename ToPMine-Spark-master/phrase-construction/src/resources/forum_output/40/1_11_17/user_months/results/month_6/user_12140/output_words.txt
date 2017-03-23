@@ -1,0 +1,61 @@
+Topic 0:
+  anonymous:5.49
+  bitcoin:3.87
+  bitcoins:3.11
+  card:2.99
+  cash:2.99
+  visa:2.76
+  transfers:2.76
+  sell:2.60
+  enumbered:2.53
+  anonymously:2.26
+
+Topic 1:
+  bitcoins:2.77
+  idea:1.51
+  papa:1.49
+  accept:1.23
+  great:1.06
+  true:1.03
+  good:1.01
+  paysafecard:0.96
+  april:0.96
+  wash:0.94
+
+Topic 2:
+  anonymously:3.51
+  enumbered:2.96
+  buy:2.84
+  union:2.39
+  western:2.36
+  sell:2.13
+  bitcoin:1.97
+  cash:1.89
+  moneypak:1.85
+  bitcoins:1.76
+
+Topic 3:
+  bitcoins:2.93
+  anonymous:1.77
+  anonymously:1.22
+  buy:0.95
+  buying:0.86
+  accept:0.85
+  money:0.84
+  enumbered:0.83
+  sell:0.75
+  papa:0.74
+
+Topic 4:
+  service:2.75
+  people:2.58
+  scam:2.47
+  option:2.13
+  april:1.40
+  idea:1.36
+  hope:1.33
+  true:1.14
+  good:1.13
+  great:1.11
+
+K: 5, Log-Likelihood: -1482.729, Alpha: 11.000, Beta: 1.100

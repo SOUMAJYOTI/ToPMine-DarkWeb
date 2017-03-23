@@ -1,0 +1,61 @@
+Topic 0:
+  urssmail:0.40
+  issue:0.20
+  org:0.20
+  recall:0.20
+  working:0.20
+  weeks:0.20
+  ago:0.20
+  isnt:0.20
+  history:0.20
+  xtalnoix:0.20
+
+Topic 1:
+  urssmail:0.40
+  history:0.20
+  xtalnoix:0.20
+  google:0.20
+  peace:0.20
+  majesticvibrations:0.20
+  confirm:0.20
+  working:0.20
+  ago:0.20
+  recall:0.20
+
+Topic 2:
+  urssmail:0.40
+  isnt:0.20
+  working:0.20
+  ago:0.20
+  weeks:0.20
+  issue:0.20
+  recall:0.20
+  org:0.20
+  peace:0.20
+  confirm:0.20
+
+Topic 3:
+  urssmail:0.40
+  isnt:0.20
+  org:0.20
+  weeks:0.20
+  recall:0.20
+  issue:0.20
+  ago:0.20
+  working:0.20
+  confirm:0.20
+  majesticvibrations:0.20
+
+Topic 4:
+  urssmail:0.40
+  google:0.20
+  peace:0.20
+  majesticvibrations:0.20
+  confirm:0.20
+  xtalnoix:0.20
+  history:0.20
+  weeks:0.20
+  recall:0.20
+  isnt:0.20
+
+K: 5, Log-Likelihood: -39.262, Alpha: 11.000, Beta: 1.100

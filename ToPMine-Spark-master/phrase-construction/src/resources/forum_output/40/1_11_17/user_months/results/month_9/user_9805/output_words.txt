@@ -1,0 +1,61 @@
+Topic 0:
+  benzo:0.93
+  pain:0.68
+  body:0.60
+  xanax:0.59
+  valium:0.59
+  stomach:0.58
+  trips:0.52
+  years:0.51
+  acid:0.51
+  lingo:0.40
+
+Topic 1:
+  lsd:1.04
+  side:1.01
+  pain:0.96
+  traumas:0.81
+  effects:0.80
+  time:0.80
+  body:0.58
+  work:0.41
+  amount:0.41
+  people:0.41
+
+Topic 2:
+  pain:1.14
+  side:0.81
+  lsd:0.78
+  site:0.65
+  body:0.62
+  lingo:0.55
+  effects:0.42
+  time:0.42
+  traumas:0.41
+  years:0.37
+
+Topic 3:
+  benzo:1.13
+  stomach:0.74
+  xanax:0.73
+  valium:0.73
+  body:0.61
+  pain:0.56
+  acid:0.55
+  trips:0.55
+  years:0.54
+  clenching:0.41
+
+Topic 4:
+  pain:0.66
+  body:0.59
+  lsd:0.56
+  side:0.56
+  benzo:0.52
+  trip:0.46
+  jaw:0.46
+  clenching:0.46
+  people:0.46
+  amount:0.46
+
+K: 5, Log-Likelihood: -662.634, Alpha: 11.000, Beta: 1.100

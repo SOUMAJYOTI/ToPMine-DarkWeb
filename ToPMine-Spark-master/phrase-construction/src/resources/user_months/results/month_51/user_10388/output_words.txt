@@ -1,0 +1,61 @@
+Topic 0:
+  market:22.57
+  javascript:15.19
+  road:12.97
+  people:8.38
+  site:8.32
+  safe:7.81
+  silk:5.97
+  dark:5.93
+  nucleus:5.60
+  disable:5.14
+
+Topic 1:
+  pgp:6.88
+  signature:6.66
+  market:5.20
+  oxymonster:4.41
+  sr:4.11
+  link:3.94
+  messages:3.76
+  message:3.75
+  find:3.68
+  india:3.30
+
+Topic 2:
+  tor:13.34
+  quote:12.12
+  code:10.66
+  web:9.48
+  google:7.83
+  login:7.00
+  posts:6.88
+  cookie:6.42
+  search:5.71
+  vpn:5.25
+
+Topic 3:
+  pgp:5.01
+  good:4.56
+  signature:4.13
+  support:3.77
+  dont:3.77
+  message:3.08
+  paid:2.83
+  surprised:2.73
+  hope:2.62
+  thread:2.41
+
+Topic 4:
+  return:6.73
+  ad:6.68
+  onion:6.18
+  laboliviana:5.97
+  bd:5.97
+  ee:5.97
+  cd:5.97
+  service:5.85
+  fe:5.82
+  bc:3.97
+
+K: 5, Log-Likelihood: -12545.819, Alpha: 11.000, Beta: 1.100

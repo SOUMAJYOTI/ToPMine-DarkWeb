@@ -1,0 +1,61 @@
+Topic 0:
+  subforum:0.42
+  suggestion:0.42
+  love:0.42
+  newbie accounts:0.28
+  actions:0.21
+  eliminated:0.21
+  incidents:0.21
+  questions:0.21
+  newbie:0.21
+  quick:0.20
+
+Topic 1:
+  newbie accounts:0.33
+  love:0.32
+  suggestion:0.32
+  subforum:0.32
+  june:0.21
+  regularly:0.21
+  newbie subforum:0.21
+  visited:0.21
+  quote:0.21
+  posts:0.21
+
+Topic 2:
+  subforum:0.38
+  love:0.38
+  suggestion:0.38
+  newbie accounts:0.30
+  eliminated:0.21
+  actions:0.21
+  incidents:0.21
+  questions:0.20
+  newbie:0.20
+  regularly:0.20
+
+Topic 3:
+  love:0.40
+  suggestion:0.40
+  subforum:0.40
+  newbie accounts:0.29
+  actions:0.21
+  eliminated:0.21
+  incidents:0.21
+  newbie:0.21
+  questions:0.21
+  posted:0.20
+
+Topic 4:
+  newbie accounts:0.33
+  love:0.31
+  suggestion:0.31
+  subforum:0.31
+  posted:0.21
+  newbie subforum:0.21
+  visited:0.21
+  quote:0.21
+  posts:0.21
+  june:0.21
+
+K: 5, Log-Likelihood: -250.868, Alpha: 11.000, Beta: 1.100

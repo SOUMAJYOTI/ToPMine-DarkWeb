@@ -1,0 +1,61 @@
+Topic 0:
+  bad:3.13
+  money:3.12
+  fact:3.05
+  numerous:2.01
+  guarentee:2.01
+  heard:2.01
+  owners:2.01
+  today:2.01
+  chageback:2.01
+  red:2.01
+
+Topic 1:
+  service:6.18
+  people:4.55
+  scam:4.10
+  hope:2.93
+  continue:2.02
+  forum:2.02
+  honest:2.02
+  advertisements:2.02
+  option trading:2.02
+  concerns:2.02
+
+Topic 2:
+  april:4.68
+  wash:4.03
+  paysafecard:4.02
+  papa:4.02
+  great idea good true:3.40
+  quote:3.01
+  chiefkeef:3.01
+  pmdefinitely:3.01
+  payment:3.01
+  option:3.00
+
+Topic 3:
+  bitcoin:5.54
+  send:4.10
+  branded:4.10
+  transfers:4.10
+  peer:4.10
+  platform:4.10
+  zone:4.10
+  sea:4.10
+  trading:4.10
+  cryptocurrencies:4.10
+
+Topic 4:
+  code:4.06
+  moneypak:4.06
+  bitcoin anonymously:4.06
+  bank:3.34
+  western union:3.25
+  cash:2.76
+  wire:1.99
+  sepa:1.99
+  major:1.99
+  required:1.99
+
+K: 5, Log-Likelihood: -2269.401, Alpha: 11.000, Beta: 1.100

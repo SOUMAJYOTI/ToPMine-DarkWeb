@@ -1,0 +1,61 @@
+Topic 0:
+  photos:0.68
+  customers:0.63
+  merchandise:0.41
+  samples:0.41
+  url:0.37
+  stock:0.37
+  market:0.21
+  rayban:0.21
+  fe:0.21
+  alphabet:0.21
+
+Topic 1:
+  photos:0.83
+  customers:0.59
+  url:0.40
+  stock:0.40
+  samples:0.40
+  merchandise:0.40
+  china:0.20
+  luxury:0.20
+  growth:0.20
+  delivery:0.20
+
+Topic 2:
+  photos:1.03
+  customers:0.53
+  stock:0.47
+  url:0.46
+  samples:0.39
+  merchandise:0.39
+  alphabay:0.22
+  china:0.22
+  free:0.22
+  delivery:0.22
+
+Topic 3:
+  customers:0.67
+  photos:0.61
+  samples:0.41
+  merchandise:0.40
+  stock:0.35
+  url:0.35
+  applied:0.22
+  applicable:0.22
+  sell:0.22
+  market:0.22
+
+Topic 4:
+  photos:0.84
+  customers:0.59
+  url:0.41
+  stock:0.41
+  merchandise:0.40
+  samples:0.40
+  business:0.20
+  releasing:0.20
+  confidence:0.20
+  specialized:0.20
+
+K: 5, Log-Likelihood: -191.979, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  items:0.83
+  click:0.79
+  finally:0.62
+  stupid:0.60
+  site:0.41
+  categories:0.40
+  left:0.39
+  hand:0.39
+  voil:0.39
+  side:0.39
+
+Topic 1:
+  click:0.83
+  items:0.79
+  stupid:0.61
+  finally:0.59
+  simple:0.41
+  categories:0.41
+  side:0.40
+  voil:0.40
+  left:0.40
+  site:0.40
+
+Topic 2:
+  click:0.76
+  items:0.76
+  finally:0.60
+  stupid:0.57
+  hand:0.41
+  left:0.40
+  voil:0.40
+  categories:0.40
+  side:0.40
+  simple:0.40
+
+Topic 3:
+  items:0.97
+  click:0.81
+  stupid:0.67
+  finally:0.59
+  site:0.41
+  left:0.38
+  hand:0.38
+  simple:0.38
+  categories:0.38
+  side:0.38
+
+Topic 4:
+  click:0.80
+  items:0.66
+  finally:0.60
+  stupid:0.55
+  simple:0.43
+  side:0.43
+  voil:0.42
+  categories:0.42
+  hand:0.42
+  left:0.42
+
+K: 5, Log-Likelihood: -209.241, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  factorize:0.77
+  number:0.47
+  reasonable time:0.47
+  find secret key:0.47
+  works:0.37
+  doesn:0.34
+  doesnt:0.33
+  safe:0.22
+  computer:0.22
+  human:0.22
+
+Topic 1:
+  factorize:0.55
+  works:0.43
+  number:0.39
+  reasonable time:0.39
+  find secret key:0.39
+  doesnt:0.38
+  doesn:0.38
+  mod primes:0.21
+  god:0.21
+  fascinated:0.21
+
+Topic 2:
+  factorize:0.64
+  reasonable time:0.42
+  find secret key:0.42
+  number:0.42
+  works:0.40
+  doesnt:0.36
+  doesn:0.36
+  secret number:0.21
+  hard:0.21
+  find secret number:0.21
+
+Topic 3:
+  factorize:0.57
+  works:0.42
+  number:0.40
+  reasonable time:0.39
+  find secret key:0.39
+  doesn:0.37
+  doesnt:0.37
+  curious:0.21
+  multiply mathematics:0.21
+  fun:0.21
+
+Topic 4:
+  factorize:0.53
+  works:0.43
+  doesnt:0.39
+  doesn:0.38
+  find secret key:0.37
+  number:0.37
+  reasonable time:0.37
+  share:0.21
+  call:0.21
+  mathematics:0.21
+
+K: 5, Log-Likelihood: -314.895, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  people:0.59
+  topics:0.40
+  reason:0.40
+  start:0.40
+  nice:0.20
+  amnice:0.20
+  referred:0.20
+  dreamforums:0.20
+  spammers:0.20
+  trolls:0.20
+
+Topic 1:
+  people:0.61
+  topics:0.40
+  reason:0.40
+  start:0.40
+  nice:0.20
+  contribute:0.20
+  amnice:0.20
+  referred:0.20
+  quote:0.20
+  spammers:0.20
+
+Topic 2:
+  people:0.60
+  reason:0.40
+  start:0.40
+  topics:0.40
+  nice:0.20
+  fuck:0.20
+  spammers:0.20
+  contribute:0.20
+  trolls:0.20
+  february:0.20
+
+Topic 3:
+  people:0.60
+  reason:0.40
+  start:0.40
+  topics:0.40
+  quote:0.20
+  february:0.20
+  fuck:0.20
+  dreamforums:0.20
+  spammers:0.20
+  trolls:0.20
+
+Topic 4:
+  people:0.60
+  start:0.40
+  topics:0.40
+  reason:0.40
+  nice:0.20
+  trolls:0.20
+  contribute:0.20
+  spammers:0.20
+  quote:0.20
+  dreamforums:0.20
+
+K: 5, Log-Likelihood: -48.593, Alpha: 11.000, Beta: 1.100

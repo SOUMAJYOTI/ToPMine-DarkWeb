@@ -1,0 +1,61 @@
+Topic 0:
+  attack:10.95
+  system:10.38
+  server:10.15
+  rate limiting:8.30
+  started:6.77
+  users:6.22
+  invite mode:6.22
+  sign:6.22
+  site:5.24
+  market:4.65
+
+Topic 1:
+  guy:4.13
+  warn:4.13
+  threats:4.09
+  scam:4.09
+  brags:4.09
+  quote:3.46
+  hacks:3.04
+  accounts:2.06
+  accurately:2.06
+  bank:2.06
+
+Topic 2:
+  ship operation:4.13
+  hidden service:4.13
+  scripts:4.13
+  easier:4.13
+  check:4.01
+  fact:3.94
+  week:3.40
+  server:3.21
+  posting:3.16
+  love hear:2.84
+
+Topic 3:
+  didnt:6.21
+  private keys:4.45
+  blackmailer:4.13
+  thief:4.13
+  lie:4.13
+  obvious:4.13
+  integrity:4.11
+  respite:4.11
+  mountain:4.05
+  pmquote:3.37
+
+Topic 4:
+  personally:4.10
+  interested:4.10
+  reddit:3.89
+  business:3.75
+  based:3.30
+  petty:3.30
+  abilities:3.30
+  community:2.83
+  beef:2.41
+  desired questions started making:2.32
+
+K: 5, Log-Likelihood: -9048.752, Alpha: 11.000, Beta: 1.100

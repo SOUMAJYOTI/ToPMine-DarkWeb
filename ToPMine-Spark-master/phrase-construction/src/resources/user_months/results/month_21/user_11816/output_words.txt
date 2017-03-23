@@ -1,0 +1,61 @@
+Topic 0:
+  escrow:3.94
+  model:1.49
+  commissions:1.26
+  diabolus:1.20
+  jack:1.08
+  funds:1.07
+  future:1.07
+  offering:1.07
+  terms:1.07
+  fees:1.06
+
+Topic 1:
+  escrow:7.61
+  traditional:4.74
+  commissions:4.43
+  model:3.12
+  market:2.93
+  fees:2.60
+  high:1.82
+  reason:1.59
+  attractive:1.57
+  business:1.56
+
+Topic 2:
+  diabolus:1.99
+  darkcoin:1.21
+  escrow:1.20
+  users:1.18
+  fee:1.04
+  highly:1.03
+  service:1.01
+  order:0.76
+  hidden:0.68
+  peaceful:0.68
+
+Topic 3:
+  order:5.14
+  bitcoin:3.53
+  darkcoin:3.44
+  add:1.61
+  pending:1.60
+  full:1.60
+  servers:1.60
+  checkout:1.60
+  independently:1.59
+  deletion:1.58
+
+Topic 4:
+  listings:5.03
+  dont:4.71
+  check:3.75
+  sort:2.15
+  moment:2.14
+  cannabis:1.87
+  address:1.76
+  simplicity:1.76
+  filter:1.76
+  type:1.76
+
+K: 5, Log-Likelihood: -1826.980, Alpha: 11.000, Beta: 1.100

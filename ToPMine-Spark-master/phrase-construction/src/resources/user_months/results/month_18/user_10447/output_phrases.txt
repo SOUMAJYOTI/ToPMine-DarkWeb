@@ -1,0 +1,61 @@
+Topic 0:
+  entry:2.71
+  bitcoins:2.71
+  bitcoins wallet:2.71
+  pay:2.71
+  pott:1.32
+  fee:1.32
+  kxkz:1.32
+  dont:1.32
+  couldn:1.32
+  free:1.32
+
+Topic 1:
+  card:2.62
+  money:1.82
+  wallet:1.65
+  girl:1.26
+  male:1.26
+  posing:1.26
+  surprised:1.26
+  accuse:1.26
+  donations:1.26
+  dipsy:1.26
+
+Topic 2:
+  challenge string:2.46
+  username password:2.37
+  account:2.20
+  private half:2.15
+  pgp key:2.11
+  key:1.90
+  silk road:1.86
+  blue sky:1.81
+  decrypt challenge string:1.48
+  system:1.32
+
+Topic 3:
+  private half:4.34
+  pgp key:4.30
+  username password:4.01
+  challenge string:3.92
+  account:3.27
+  silk road:3.23
+  key:3.19
+  passphrase:2.59
+  factor authentication:2.47
+  problem:2.45
+
+Topic 4:
+  blue sky:1.31
+  time password:1.20
+  public key:1.16
+  decrypt:1.13
+  string letters numbers:1.12
+  idea:0.90
+  havve:0.90
+  title:0.90
+  marketplacewhat:0.90
+  document:0.89
+
+K: 5, Log-Likelihood: -2465.466, Alpha: 11.000, Beta: 1.100

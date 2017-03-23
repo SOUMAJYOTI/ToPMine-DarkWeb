@@ -1,0 +1,61 @@
+Topic 0:
+  times:5.33
+  data destruction full drive:4.89
+  overwritten:4.68
+  forensic trace evidence:4.15
+  prevent:3.86
+  recovery:3.86
+  type man:3.86
+  practices:3.86
+  jerk:3.86
+  recover forensic trace evidence:3.86
+
+Topic 1:
+  wipe:16.95
+  data:7.93
+  secure deletion:7.04
+  data magnetic:4.69
+  guess:4.69
+  trust:4.69
+  medium:4.69
+  filesystem:4.69
+  cpu:4.69
+  call:4.69
+
+Topic 2:
+  file systems:18.80
+  file:14.08
+  shred:10.26
+  file system:9.53
+  version:7.04
+  data:6.76
+  options:5.92
+  bytes:4.69
+  bugs:4.69
+  mandatory:4.69
+
+Topic 3:
+  wipe:9.55
+  weed jpg:9.38
+  drive:9.36
+  ccrypt:7.03
+  cpt:7.03
+  drive encryption:5.57
+  randomly:4.68
+  return:4.68
+  wipe shred:4.68
+  invoke:4.68
+
+Topic 4:
+  programs:9.38
+  secure erase:8.93
+  free space:5.80
+  havent:5.80
+  single file wipe:4.68
+  files:4.02
+  read:3.95
+  personal:3.85
+  learn:3.85
+  reading:3.85
+
+K: 5, Log-Likelihood: -11951.393, Alpha: 11.000, Beta: 1.100

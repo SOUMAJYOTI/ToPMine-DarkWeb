@@ -1,0 +1,61 @@
+Topic 0:
+  chances:0.29
+  sock:0.29
+  public:0.29
+  notice:0.29
+  fake:0.29
+  surveillance:0.29
+  requests:0.29
+  network:0.29
+  worrying:0.29
+  tor exit node:0.29
+
+Topic 1:
+  mind:0.28
+  exit node:0.28
+  guys:0.28
+  purpose:0.28
+  catches:0.28
+  simplified:0.28
+  hosts:0.28
+  hosting:0.28
+  stuff:0.28
+  time:0.28
+
+Topic 2:
+  worrying:0.29
+  good proxy:0.29
+  nowadays:0.29
+  surveillance:0.29
+  public:0.29
+  network:0.29
+  fake:0.29
+  vpn:0.29
+  server:0.29
+  receiving:0.29
+
+Topic 3:
+  pmshort:0.28
+  exit nodes:0.28
+  link stuff:0.28
+  time:0.28
+  simplified:0.28
+  advise:0.28
+  purpose:0.28
+  mind:0.28
+  address:0.28
+  september:0.28
+
+Topic 4:
+  pm:0.29
+  traffic:0.29
+  september:0.29
+  encrypted:0.29
+  advise:0.29
+  fucked:0.29
+  quote:0.29
+  link good:0.29
+  le:0.29
+  answer:0.29
+
+K: 5, Log-Likelihood: -349.374, Alpha: 11.000, Beta: 1.100

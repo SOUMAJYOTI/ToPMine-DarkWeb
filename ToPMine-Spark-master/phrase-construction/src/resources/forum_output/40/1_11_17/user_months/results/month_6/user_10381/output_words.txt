@@ -1,0 +1,61 @@
+Topic 0:
+  april:7.55
+  element:6.77
+  surprise:6.77
+  quote:6.31
+  vulnerability:4.15
+  riposte:3.83
+  quick:3.74
+  gtfo:3.74
+  compromised:3.73
+  le:3.73
+
+Topic 1:
+  service:9.70
+  bug:8.96
+  tor:8.90
+  hidden:7.60
+  agora:6.96
+  market:3.94
+  address:3.63
+  time:3.58
+  big:2.96
+  attacker:2.96
+
+Topic 2:
+  agora:4.75
+  uri:3.20
+  shit:2.86
+  forum:2.07
+  warning:1.87
+  hell:1.87
+  fuck:1.87
+  thing:1.87
+  posting:1.67
+  careful:1.58
+
+Topic 3:
+  thing:5.60
+  days:4.95
+  agora:3.69
+  dont:3.45
+  assume:2.82
+  agra:2.67
+  vendors:2.66
+  word:2.66
+  normal:2.48
+  offline:2.07
+
+Topic 4:
+  agora:7.39
+  communication:5.89
+  site:5.54
+  theyve:4.97
+  agra:4.52
+  security:3.09
+  thing:2.78
+  surprised:2.63
+  bit:2.63
+  day:2.63
+
+K: 5, Log-Likelihood: -4356.806, Alpha: 11.000, Beta: 1.100

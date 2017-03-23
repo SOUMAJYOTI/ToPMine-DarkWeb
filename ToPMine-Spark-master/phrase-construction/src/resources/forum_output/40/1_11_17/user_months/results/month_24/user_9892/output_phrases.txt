@@ -1,0 +1,61 @@
+Topic 0:
+  blond:0.28
+  long:0.23
+  wigblender:0.14
+  wigfog:0.14
+  post:0.14
+  count:0.14
+  bitcoinfog:0.14
+  bitcoinblender:0.14
+  brave:0.12
+  time:0.12
+
+Topic 1:
+  blond:0.28
+  long:0.23
+  wigfog:0.14
+  wigblender:0.14
+  count:0.14
+  post:0.14
+  bitcoinfog:0.14
+  bitcoinblender:0.14
+  bunny:0.12
+  services:0.12
+
+Topic 2:
+  blond:0.28
+  long:0.23
+  wigblender:0.14
+  wigfog:0.14
+  post:0.14
+  count:0.14
+  bitcoinfog:0.14
+  bitcoinblender:0.14
+  mixers:0.12
+  laundering:0.12
+
+Topic 3:
+  blond:0.28
+  long:0.23
+  bitcoinfog:0.14
+  bitcoinblender:0.14
+  count:0.14
+  post:0.14
+  wigfog:0.14
+  wigblender:0.14
+  services:0.12
+  advise:0.12
+
+Topic 4:
+  blond:0.28
+  long:0.23
+  bitcoinblender:0.14
+  bitcoinfog:0.14
+  post:0.14
+  count:0.14
+  wigblender:0.14
+  wigfog:0.14
+  laundering:0.12
+  good:0.12
+
+K: 5, Log-Likelihood: -45.142, Alpha: 11.000, Beta: 1.100

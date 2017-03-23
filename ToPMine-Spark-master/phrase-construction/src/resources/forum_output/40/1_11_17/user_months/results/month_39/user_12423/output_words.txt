@@ -1,0 +1,61 @@
+Topic 0:
+  marketplace:0.20
+  link:0.20
+  national:0.20
+  rondoplease:0.20
+  dutch:0.20
+  goods:0.20
+  advertise:0.20
+  hey:0.20
+  vendor:0.20
+  group:0.20
+
+Topic 1:
+  hey:0.20
+  captain:0.20
+  vendor:0.20
+  jack:0.20
+  link:0.20
+  rondo:0.20
+  verified:0.20
+  group:0.20
+  rondoplease:0.20
+  working:0.20
+
+Topic 2:
+  jack:0.20
+  group:0.20
+  working:0.20
+  verified:0.20
+  rondo:0.20
+  advertise:0.20
+  goods:0.20
+  link:0.20
+  captain:0.20
+  national:0.20
+
+Topic 3:
+  captain:0.20
+  dutch:0.20
+  vendor:0.20
+  advertise:0.20
+  goods:0.20
+  rondoplease:0.20
+  jack:0.20
+  marketplace:0.20
+  group:0.20
+  working:0.20
+
+Topic 4:
+  hey:0.20
+  national:0.20
+  rondo:0.20
+  verified:0.20
+  dutch:0.20
+  marketplace:0.20
+  goods:0.20
+  link:0.20
+  advertise:0.20
+  vendor:0.20
+
+K: 5, Log-Likelihood: -40.621, Alpha: 11.000, Beta: 1.100

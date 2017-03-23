@@ -1,0 +1,61 @@
+Topic 0:
+  truecrypt:0.69
+  security:0.62
+  windows:0.56
+  veracrypt:0.46
+  bugs:0.46
+  released:0.34
+  program:0.34
+  open:0.34
+  critical:0.34
+  partition:0.34
+
+Topic 1:
+  security:2.13
+  truecrypt:1.37
+  veracrypt:1.08
+  bugs:1.05
+  windows:0.92
+  professional:0.66
+  fixed:0.65
+  original:0.65
+  options:0.65
+  phase:0.65
+
+Topic 2:
+  linux:1.72
+  pc:1.72
+  darknet:1.72
+  running:1.72
+  avoid:1.72
+  operating:1.72
+  flaw:1.72
+  users:1.53
+  system:0.92
+  veracrypt encryption:0.82
+
+Topic 3:
+  security:1.22
+  truecrypt:1.11
+  bugs:0.76
+  windows:0.76
+  veracrypt:0.72
+  microsoft:0.50
+  program:0.50
+  project:0.50
+  code:0.50
+  open:0.50
+
+Topic 4:
+  truecrypt:0.74
+  windows:0.59
+  security:0.58
+  bugs:0.45
+  veracrypt:0.45
+  patches:0.33
+  program:0.33
+  users truecrypt:0.33
+  bitlocker:0.33
+  open:0.33
+
+K: 5, Log-Likelihood: -1375.441, Alpha: 11.000, Beta: 1.100

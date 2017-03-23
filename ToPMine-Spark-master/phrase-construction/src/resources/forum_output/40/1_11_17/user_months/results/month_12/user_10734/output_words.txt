@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins:1.84
+  transactions:1.69
+  valid:1.15
+  faked:1.08
+  blockchain:1.02
+  coins:0.97
+  real:0.97
+  longest:0.95
+  blocks:0.90
+  fake:0.89
+
+Topic 1:
+  chain:9.73
+  bitcoin:5.81
+  network:5.78
+  longest:5.60
+  bitcoins:5.60
+  block:5.33
+  blocks:5.26
+  confirmations:3.71
+  transactions:3.56
+  coins:3.48
+
+Topic 2:
+  chain:6.72
+  coins:4.20
+  bitcoins:4.09
+  network:3.52
+  transactions:3.38
+  longest:3.00
+  blocks:2.95
+  block:2.76
+  confirmations:2.70
+  bitcoin:2.47
+
+Topic 3:
+  bitcoins:1.98
+  transactions:1.78
+  real:1.16
+  valid:0.91
+  fake:0.85
+  faked:0.81
+  counterfeited:0.79
+  blockchain:0.78
+  bitcoin:0.70
+  longest:0.63
+
+Topic 4:
+  bitcoins:4.49
+  blocks:2.36
+  bitcoin:2.31
+  chain:2.22
+  longest:1.83
+  coins:1.81
+  blockchain:1.77
+  block:1.73
+  valid:1.72
+  transactions:1.59
+
+K: 5, Log-Likelihood: -2464.683, Alpha: 11.000, Beta: 1.100

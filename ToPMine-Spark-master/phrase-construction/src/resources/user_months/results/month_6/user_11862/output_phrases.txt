@@ -1,0 +1,61 @@
+Topic 0:
+  uri:0.45
+  posting:0.45
+  register:0.28
+  fast:0.27
+  capcha expired:0.27
+  type:0.27
+  matter:0.27
+  telling:0.27
+  avoid:0.22
+  people:0.22
+
+Topic 1:
+  posting:0.41
+  uri:0.41
+  matter:0.29
+  fast:0.29
+  capcha expired:0.29
+  type:0.29
+  telling:0.29
+  register:0.27
+  april:0.23
+  amkeeps:0.23
+
+Topic 2:
+  posting:0.47
+  uri:0.47
+  register:0.28
+  telling:0.27
+  capcha expired:0.27
+  type:0.27
+  fast:0.27
+  matter:0.27
+  guys:0.23
+  didn:0.23
+
+Topic 3:
+  posting:0.45
+  uri:0.45
+  register:0.28
+  capcha expired:0.27
+  telling:0.27
+  fast:0.27
+  matter:0.27
+  type:0.27
+  feedback:0.22
+  surname:0.22
+
+Topic 4:
+  uri:0.43
+  posting:0.42
+  type:0.28
+  matter:0.28
+  telling:0.28
+  capcha expired:0.28
+  fast:0.28
+  register:0.28
+  error:0.22
+  captcha:0.22
+
+K: 5, Log-Likelihood: -165.660, Alpha: 11.000, Beta: 1.100

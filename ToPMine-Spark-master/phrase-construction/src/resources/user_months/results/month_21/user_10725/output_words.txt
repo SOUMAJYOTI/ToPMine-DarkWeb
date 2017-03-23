@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:28.23
+  dirty:10.96
+  btc:9.37
+  clean:8.18
+  fog:7.90
+  send:7.45
+  wallets:7.33
+  good:5.82
+  service:5.19
+  mixing:4.79
+
+Topic 1:
+  coins:7.37
+  blockchain:4.93
+  le:4.31
+  large:3.85
+  judge:3.84
+  analysis:2.85
+  time:2.57
+  easy:2.04
+  fuck:2.03
+  dont:2.03
+
+Topic 2:
+  btc:2.38
+  guides:1.93
+  watching:1.93
+  transactions:1.93
+  idea:1.93
+  cash:1.93
+  methods:1.93
+  people:1.93
+  purchase:1.87
+  difficult:1.28
+
+Topic 3:
+  coins:5.36
+  mixing:3.61
+  attack:1.91
+  mixer:1.85
+  time:1.79
+  wallet:1.68
+  july:1.54
+  identified:1.33
+  real:1.27
+  server:1.24
+
+Topic 4:
+  coins:4.92
+  mixing:3.59
+  wallet:3.07
+  time:2.70
+  accounts:2.13
+  bitcoin:1.87
+  july:1.76
+  mixer:1.73
+  market:1.60
+  fog:1.43
+
+K: 5, Log-Likelihood: -2492.354, Alpha: 11.000, Beta: 1.100

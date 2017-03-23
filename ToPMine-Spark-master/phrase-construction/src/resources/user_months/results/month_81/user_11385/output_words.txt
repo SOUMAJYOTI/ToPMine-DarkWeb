@@ -1,0 +1,61 @@
+Topic 0:
+  darknet:0.70
+  pretty:0.68
+  ive:0.67
+  scams:0.67
+  elaborate:0.66
+  brilliant:0.66
+  quote:0.64
+  place:0.64
+  march:0.64
+  agora:0.53
+
+Topic 1:
+  quote:0.68
+  place:0.65
+  elaborate:0.65
+  march:0.65
+  scams:0.64
+  pretty:0.64
+  ive:0.64
+  brilliant:0.64
+  darknet:0.63
+  agora:0.51
+
+Topic 2:
+  agora:0.82
+  elaborate:0.52
+  scams:0.52
+  darknet:0.52
+  brilliant:0.52
+  pretty:0.52
+  place:0.52
+  march:0.51
+  ive:0.51
+  quote:0.50
+
+Topic 3:
+  agora:0.68
+  ive:0.61
+  brilliant:0.60
+  march:0.60
+  place:0.60
+  elaborate:0.60
+  darknet:0.59
+  scams:0.59
+  pretty:0.58
+  quote:0.57
+
+Topic 4:
+  march:0.60
+  quote:0.60
+  place:0.59
+  scams:0.58
+  brilliant:0.58
+  pretty:0.57
+  elaborate:0.57
+  ive:0.57
+  fake:0.56
+  darknet:0.56
+
+K: 5, Log-Likelihood: -386.062, Alpha: 11.000, Beta: 1.100

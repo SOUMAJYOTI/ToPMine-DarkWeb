@@ -1,0 +1,61 @@
+Topic 0:
+  darknet:4.60
+  torchat:4.60
+  appreciated:2.20
+  agora:2.20
+  newbie:2.20
+  work:2.20
+  exception:2.20
+  input:2.20
+  avoiding:2.20
+  clearnet services:2.20
+
+Topic 1:
+  site:1.84
+  things:1.65
+  hold:1.13
+  host:1.11
+  heard:1.10
+  seeking:1.09
+  earlier:1.07
+  chance:1.07
+  quote:0.85
+  swing:0.84
+
+Topic 2:
+  sites:3.11
+  set:3.11
+  price:1.50
+  ensure:1.50
+  karma:1.50
+  sad:1.50
+  depends:1.50
+  fees:1.50
+  servers:1.50
+  build:1.50
+
+Topic 3:
+  things:1.47
+  site:1.28
+  chance:1.08
+  earlier:1.08
+  seeking:1.06
+  heard:1.05
+  host:1.04
+  hold:1.02
+  cost:0.69
+  services:0.69
+
+Topic 4:
+  server:3.10
+  module:3.10
+  problem:3.10
+  crashing:3.10
+  bitcoin:2.32
+  wordpress:1.53
+  huge:1.50
+  resources:1.50
+  system:1.50
+  updates:1.50
+
+K: 5, Log-Likelihood: -1042.451, Alpha: 11.000, Beta: 1.100

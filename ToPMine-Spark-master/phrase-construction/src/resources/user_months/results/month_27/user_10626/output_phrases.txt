@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.22
+  forums:0.51
+  marketplace:0.51
+  forum:0.49
+  vendors list:0.49
+  eve:0.48
+  menu:0.48
+  dropdown:0.48
+  item:0.48
+  feature:0.48
+
+Topic 1:
+  list:0.64
+  wait:0.62
+  market:0.58
+  free:0.55
+  nucleus:0.50
+  site:0.48
+  time:0.41
+  vendors:0.40
+  ability:0.40
+  good:0.39
+
+Topic 2:
+  deposit:3.89
+  spare:2.51
+  withdrawal:2.51
+  change:2.50
+  sat:1.14
+  unconformed:1.14
+  ordering:1.14
+  send:1.14
+  guess:1.14
+  didnt:1.14
+
+Topic 3:
+  market:0.73
+  andromeda:0.70
+  hoping:0.70
+  markets:0.70
+  bit:0.69
+  patient:0.69
+  cool:0.69
+  sales:0.69
+  instantly:0.69
+  putting:0.69
+
+Topic 4:
+  good:2.17
+  ability:2.16
+  vendors:2.16
+  stated:0.95
+  posing:0.95
+  net:0.95
+  dark:0.95
+  cautious:0.95
+  people:0.95
+  honestcocaine:0.95
+
+K: 5, Log-Likelihood: -608.733, Alpha: 11.000, Beta: 1.100

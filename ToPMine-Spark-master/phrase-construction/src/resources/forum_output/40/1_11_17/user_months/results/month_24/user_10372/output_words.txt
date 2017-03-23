@@ -1,0 +1,61 @@
+Topic 0:
+  extra:0.69
+  wired:0.61
+  mile:0.54
+  adapter:0.50
+  webcam:0.50
+  suspicion:0.42
+  raises:0.35
+  swarm:0.35
+  mac:0.34
+  good:0.31
+
+Topic 1:
+  extra:0.68
+  wired:0.63
+  mile:0.53
+  webcam:0.49
+  adapter:0.49
+  suspicion:0.42
+  swarm:0.34
+  raises:0.34
+  mac:0.32
+  good:0.31
+
+Topic 2:
+  extra:0.77
+  mile:0.62
+  suspicion:0.49
+  wired:0.46
+  webcam:0.45
+  adapter:0.45
+  swarm:0.40
+  raises:0.40
+  good:0.39
+  mac:0.37
+
+Topic 3:
+  internal:1.46
+  wifi:1.40
+  good:1.21
+  suspicion:0.79
+  alfa:0.74
+  external:0.74
+  extra:0.60
+  onionshop:0.59
+  mac:0.55
+  mile:0.49
+
+Topic 4:
+  extra:1.26
+  suspicion:0.88
+  mile:0.82
+  good:0.77
+  wifi:0.63
+  internal:0.59
+  raises:0.57
+  swarm:0.56
+  onionshop:0.56
+  external:0.44
+
+K: 5, Log-Likelihood: -543.025, Alpha: 11.000, Beta: 1.100

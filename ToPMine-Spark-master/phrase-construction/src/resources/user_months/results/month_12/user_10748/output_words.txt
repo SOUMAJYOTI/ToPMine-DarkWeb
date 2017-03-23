@@ -1,0 +1,61 @@
+Topic 0:
+  binary:3.64
+  keys:3.03
+  windows:2.84
+  tails:2.18
+  issues:1.86
+  settings:1.86
+  tarball:1.86
+  transaction:1.69
+  based:1.07
+  password:0.97
+
+Topic 1:
+  windows:2.45
+  transaction:1.61
+  signing:1.32
+  installer:0.95
+  sign:0.93
+  version:0.88
+  install:0.76
+  download:0.65
+  dont:0.55
+  key:0.53
+
+Topic 2:
+  keys:3.68
+  web:3.18
+  file:3.04
+  number:2.86
+  automatically:1.90
+  bit:1.90
+  sh:1.90
+  correct:1.89
+  bip:1.86
+  address:1.86
+
+Topic 3:
+  dont:2.70
+  transactions:2.67
+  release:2.66
+  install:2.53
+  windows:2.34
+  signing:2.31
+  transaction:1.89
+  electrum:1.70
+  signed:1.70
+  plugin:1.69
+
+Topic 4:
+  version:1.40
+  based:1.00
+  browser:0.94
+  considered:0.88
+  la:0.81
+  functions:0.81
+  pyjamas:0.81
+  planning:0.81
+  cheersep:0.81
+  published:0.81
+
+K: 5, Log-Likelihood: -1472.514, Alpha: 11.000, Beta: 1.100

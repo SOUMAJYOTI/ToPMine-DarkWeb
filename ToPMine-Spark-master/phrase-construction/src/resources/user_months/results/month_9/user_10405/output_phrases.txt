@@ -1,0 +1,61 @@
+Topic 0:
+  document describing:8.10
+  directly blockchain info block:5.79
+  tor cloudflare:5.76
+  weeks:5.39
+  specific users:5.39
+  admins:5.39
+  fall:5.37
+  hub:5.37
+  chipset:5.35
+  intel:5.35
+
+Topic 1:
+  april:8.08
+  quote:8.02
+  el presidente:6.17
+  js:5.87
+  bar:5.39
+  uri:5.39
+  simply:5.39
+  site:4.93
+  blockchain info:4.87
+  connections:4.65
+
+Topic 2:
+  warrant:16.24
+  activating computer:16.24
+  computer:16.24
+  mac address:11.61
+  judge:10.82
+  district:10.82
+  nit:10.82
+  internet:9.58
+  website:9.28
+  user:9.26
+
+Topic 3:
+  sort attack:10.82
+  physical isolation:8.74
+  virtual isolation:8.11
+  requires:7.76
+  firewalls:7.00
+  technique:6.97
+  thing:5.84
+  extensive:5.41
+  virtual:5.41
+  protection:5.41
+
+Topic 4:
+  socks proxy:13.53
+  middle box:13.33
+  system:11.08
+  private network:10.82
+  browser:8.13
+  system configured:8.11
+  secure box:8.11
+  physical isolation:7.31
+  fh exploit:6.61
+  guest:5.41
+
+K: 5, Log-Likelihood: -21944.142, Alpha: 11.000, Beta: 1.100

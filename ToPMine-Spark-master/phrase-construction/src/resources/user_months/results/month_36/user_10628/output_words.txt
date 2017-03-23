@@ -1,0 +1,61 @@
+Topic 0:
+  tails:0.40
+  restore:0.40
+  everytime:0.20
+  simply:0.20
+  yoda:0.20
+  saving:0.20
+  keepassx:0.20
+  persistent:0.20
+  iirc:0.20
+  inside:0.20
+
+Topic 1:
+  restore:0.40
+  tails:0.40
+  saving:0.20
+  seeds:0.20
+  yoda:0.20
+  works:0.20
+  volume:0.20
+  installed:0.20
+  seed:0.20
+  iirc:0.20
+
+Topic 2:
+  restore:0.40
+  tails:0.40
+  seed:0.20
+  persistent:0.20
+  installed:0.20
+  seeds:0.20
+  saving:0.20
+  yoda:0.20
+  needed:0.20
+  iirc:0.20
+
+Topic 3:
+  restore:0.40
+  tails:0.40
+  devs:0.20
+  volume:0.20
+  works:0.20
+  simply:0.20
+  keepassx:0.20
+  inside:0.20
+  needed:0.20
+  seeds:0.20
+
+Topic 4:
+  tails:0.40
+  restore:0.40
+  persistent:0.20
+  needed:0.20
+  wallet:0.20
+  inside:0.20
+  devs:0.20
+  volume:0.20
+  iirc:0.20
+  keepassx:0.20
+
+K: 5, Log-Likelihood: -57.193, Alpha: 11.000, Beta: 1.100

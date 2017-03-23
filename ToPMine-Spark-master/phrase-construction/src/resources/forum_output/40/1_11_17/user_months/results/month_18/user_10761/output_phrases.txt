@@ -1,0 +1,61 @@
+Topic 0:
+  gold:0.36
+  money:0.36
+  control:0.36
+  banks:0.20
+  canada:0.19
+  wether:0.19
+  shit:0.19
+  scan:0.19
+  anonymous:0.19
+  printed:0.19
+
+Topic 1:
+  control:0.36
+  money:0.36
+  gold:0.36
+  banks:0.20
+  shit:0.18
+  code:0.18
+  mobile:0.18
+  computer:0.18
+  printed:0.18
+  anonymous:0.18
+
+Topic 2:
+  control:0.39
+  gold:0.39
+  money:0.38
+  banks:0.20
+  cars:0.19
+  revolting:0.19
+  corporations:0.19
+  electronically:0.19
+  safe:0.19
+  tax:0.19
+
+Topic 3:
+  money:0.36
+  gold:0.36
+  control:0.36
+  banks:0.20
+  btms:0.19
+  code:0.19
+  wether:0.19
+  anonymous:0.19
+  computer:0.19
+  device:0.19
+
+Topic 4:
+  money:0.37
+  gold:0.37
+  control:0.37
+  banks:0.20
+  electricity:0.18
+  mass:0.18
+  lead:0.18
+  water:0.18
+  transactions:0.18
+  food:0.18
+
+K: 5, Log-Likelihood: -217.135, Alpha: 11.000, Beta: 1.100

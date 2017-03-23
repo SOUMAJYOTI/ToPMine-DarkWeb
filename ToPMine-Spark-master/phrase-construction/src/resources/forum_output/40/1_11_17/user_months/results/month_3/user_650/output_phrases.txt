@@ -1,0 +1,61 @@
+Topic 0:
+  glad:1.72
+  irl:1.44
+  lubricant:1.44
+  uri:1.44
+  secret:1.44
+  sentences:1.44
+  reduced:1.44
+  sell:1.44
+  picked:1.44
+  decades:1.44
+
+Topic 1:
+  sr forums:2.91
+  disappeared:2.91
+  remember:2.91
+  limetless:2.22
+  long:1.41
+  late:1.41
+  funds:1.41
+  cast:1.41
+  overdone:1.41
+  payments:1.41
+
+Topic 2:
+  glad:4.40
+  vlad:3.62
+  laundering:2.94
+  money:2.94
+  limitless:2.35
+  cold:1.44
+  rise:1.44
+  arguing:1.44
+  smiles:1.44
+  cell:1.44
+
+Topic 3:
+  copy:2.94
+  request:2.94
+  forums:2.94
+  foia:2.94
+  free:2.94
+  quote mirage march:2.33
+  sr:1.79
+  time:1.44
+  btw:1.44
+  dig:1.44
+
+Topic 4:
+  backup:2.41
+  download clearnet vouch safety:1.50
+  rar file:1.50
+  day:1.40
+  removed:1.40
+  incident:1.40
+  times:1.40
+  catch:1.40
+  lucky:1.40
+  spoke:1.40
+
+K: 5, Log-Likelihood: -1823.325, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tor:13.87
+  sites:7.25
+  nodes:6.09
+  pass:5.94
+  ip:5.94
+  clearnet:5.20
+  exit:5.12
+  understanding:4.94
+  traffic:4.06
+  leave:3.96
+
+Topic 1:
+  math:14.95
+  kind:12.63
+  women:10.56
+  hard:10.08
+  men:9.52
+  shit:8.51
+  arrogance:8.45
+  tend:8.43
+  ross:8.34
+  heads:8.03
+
+Topic 2:
+  tor:19.89
+  fbi:11.38
+  silk:10.98
+  road:10.98
+  dont:7.19
+  freedom:6.57
+  threat:5.98
+  jeremy:5.98
+  hosting:5.49
+  learned:5.38
+
+Topic 3:
+  exploit:5.97
+  bridges:4.71
+  life:4.26
+  opsec:4.11
+  details:3.94
+  firefox:3.90
+  tor:3.43
+  users:3.22
+  darknet:3.03
+  attack:2.98
+
+Topic 4:
+  anonymous:58.52
+  members:16.94
+  dig:9.91
+  chat:7.95
+  group:7.95
+  pallidpallas:6.72
+  amquote:6.47
+  fees:5.95
+  deanonymize:5.54
+  didnt:5.23
+
+K: 5, Log-Likelihood: -11553.688, Alpha: 11.000, Beta: 1.100

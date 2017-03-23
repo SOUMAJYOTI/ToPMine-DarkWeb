@@ -1,0 +1,61 @@
+Topic 0:
+  listings:2.61
+  telling:2.01
+  problems:2.01
+  thread:2.01
+  blasted:2.01
+  solved:2.01
+  site:2.01
+  people:2.01
+  posted:2.01
+  yesterday:2.01
+
+Topic 1:
+  paper:6.77
+  pouch:3.64
+  stick paper:3.31
+  suppost:3.31
+  explain:3.31
+  ideas:3.31
+  shipped:3.31
+  envolope:3.31
+  inside:3.31
+  wtf:3.31
+
+Topic 2:
+  tom:3.85
+  bad:3.04
+  yeah:3.04
+  message:2.94
+  le:2.06
+  pans:2.06
+  attack:2.06
+  necessity:2.06
+  honestly:2.06
+  listings market:2.06
+
+Topic 3:
+  market:6.37
+  freedom drugs:6.34
+  place:4.20
+  asked:2.52
+  inframe:2.07
+  forgery:2.07
+  advanced:2.07
+  freedom:2.07
+  provide:2.07
+  adults:2.07
+
+Topic 4:
+  tom listings:2.93
+  listings:2.79
+  forum:1.78
+  cheers:1.77
+  wow:1.77
+  spam:1.77
+  discussing:1.58
+  topics:1.58
+  aviod:1.58
+  merged:1.58
+
+K: 5, Log-Likelihood: -1484.202, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  coins:28.66
+  send:16.44
+  tor:10.48
+  blockchain:10.26
+  tumble:10.23
+  wallet:9.10
+  shared:8.98
+  bitcoinfog:8.50
+  bitcoins:7.16
+  vendor:7.07
+
+Topic 1:
+  vendor:22.66
+  address:19.12
+  tor:17.03
+  bitcoin:15.72
+  activities:15.57
+  darknet:14.43
+  blockchain:14.37
+  provide:14.01
+  guess:13.07
+  diligence:11.80
+
+Topic 2:
+  tor:12.76
+  vendor:6.71
+  blockchain:6.67
+  darknet:6.41
+  specific:5.15
+  emails:5.14
+  wallet:4.87
+  onion:4.62
+  access:4.33
+  activities:4.04
+
+Topic 3:
+  regular:22.86
+  browser:17.25
+  electrum:16.47
+  coins:15.68
+  wallet:13.18
+  coinbase:12.59
+  blockchain:12.08
+  wallets:11.28
+  local:11.26
+  tumbling:9.70
+
+Topic 4:
+  addresses:19.31
+  blockchain:14.62
+  wallet:12.27
+  address:10.90
+  adversary:9.93
+  analysis:8.94
+  local:7.84
+  bitcoins:7.49
+  coins:7.40
+  coinbase:6.46
+
+K: 5, Log-Likelihood: -8185.812, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  money:1.73
+  december:1.50
+  answer gold dust lines:1.16
+  posted drop hacked internet:1.15
+  explain:1.15
+  prepaid cards:1.15
+  online bank naming accounts:1.13
+  gold dust:1.13
+  high opsec max cashout:1.13
+  cards daily:1.13
+
+Topic 1:
+  bank account:2.58
+  repaid:1.74
+  tor:1.74
+  routed:1.70
+  papa account:1.26
+  prepaid card:1.26
+  card:1.26
+  thoughts:1.26
+  route:1.26
+  socks:1.26
+
+Topic 2:
+  vendor:1.09
+  cards:0.98
+  bank account:0.94
+  beware:0.75
+  rate:0.75
+  experience:0.75
+  markets:0.75
+  types:0.75
+  scammers:0.74
+  admin:0.74
+
+Topic 3:
+  money:2.90
+  free:2.37
+  sell:2.32
+  ebay:2.31
+  method:2.31
+  december:2.00
+  paid:1.08
+  products:1.08
+  risk:1.07
+  signing:1.07
+
+Topic 4:
+  cash:1.94
+  transfer:1.49
+  correct:1.49
+  balance:1.49
+  funds:1.49
+  acct:1.49
+  basically:1.49
+  hear:1.49
+  anonymously:1.49
+  imagine:1.49
+
+K: 5, Log-Likelihood: -1048.758, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  sell:8.74
+  ebay:6.58
+  june:5.76
+  playground:4.76
+  story:3.66
+  model:3.58
+  teenager:3.50
+  obi:3.50
+  sold:3.49
+  musim:3.49
+
+Topic 1:
+  hookup:2.97
+  resolution:2.37
+  presidente:1.88
+  magnets:1.56
+  photos:1.49
+  dimensions:1.42
+  higher:1.42
+  rock:1.37
+  man:1.37
+  attached:1.37
+
+Topic 2:
+  magnets:1.96
+  car:1.35
+  sealed:1.20
+  attached:1.17
+  presidente:1.17
+  quote:0.92
+  shit:0.90
+  manufacturers:0.86
+  appreciated:0.85
+  link:0.76
+
+Topic 3:
+  shit:2.67
+  car:2.40
+  magnets:0.87
+  cheating:0.85
+  tracking:0.80
+  vendor:0.80
+  card:0.71
+  quote:0.70
+  dont:0.69
+  drivers:0.68
+
+Topic 4:
+  find:4.02
+  device:3.59
+  unit:3.17
+  extract:2.61
+  location:1.92
+  configuration:1.92
+  ordinates:1.92
+  sms:1.92
+  lucky:1.58
+  gps:1.56
+
+K: 5, Log-Likelihood: -2355.929, Alpha: 11.000, Beta: 1.100

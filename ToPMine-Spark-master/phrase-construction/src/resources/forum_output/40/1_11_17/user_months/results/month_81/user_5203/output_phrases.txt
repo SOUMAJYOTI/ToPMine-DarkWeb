@@ -1,0 +1,61 @@
+Topic 0:
+  verify:11.48
+  vendor bond:9.18
+  vendor status:6.87
+  vendor:6.68
+  verify black:4.57
+  revoke:4.57
+  reloaded:4.57
+  nucleus:4.57
+  level:4.57
+  abraham:4.57
+
+Topic 1:
+  hub:5.02
+  drugs:4.52
+  good:3.37
+  time:2.79
+  subforum:2.65
+  listings:2.65
+  forum:2.59
+  evo:2.59
+  raise:2.22
+  sporades:2.22
+
+Topic 2:
+  url:6.87
+  btc mixers:5.16
+  mixer:4.57
+  check:2.70
+  user:2.63
+  advise:2.63
+  users:2.63
+  wanted:2.63
+  teach:2.63
+  post forums:2.62
+
+Topic 3:
+  agreed:3.25
+  reliable:3.19
+  threads:3.16
+  march:2.46
+  post:2.36
+  boneskoopa:2.21
+  copied:2.21
+  sort:2.21
+  trash:2.21
+  october:2.21
+
+Topic 4:
+  november:7.49
+  markets:5.09
+  grams:4.51
+  alpha:4.47
+  figure:3.69
+  amquote:3.69
+  fatherted:3.69
+  people:3.69
+  join:3.58
+  longest:3.04
+
+K: 5, Log-Likelihood: -3579.883, Alpha: 11.000, Beta: 1.100

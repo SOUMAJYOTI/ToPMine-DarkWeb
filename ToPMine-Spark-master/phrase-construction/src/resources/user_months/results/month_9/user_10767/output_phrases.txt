@@ -1,0 +1,61 @@
+Topic 0:
+  sites:4.29
+  theyll:4.29
+  average user:4.29
+  article:2.73
+  hide:2.10
+  sorrymario:2.10
+  bit:2.10
+  addons:2.10
+  install:2.10
+  plenty people:2.10
+
+Topic 1:
+  warning:0.89
+  article clearnet:0.89
+  tor:0.64
+  party:0.62
+  se:0.51
+  rti:0.45
+  capitalize:0.45
+  readand:0.45
+  retardedtor:0.45
+  asa:0.45
+
+Topic 2:
+  deepdotweb:4.46
+  tor:3.25
+  revealed:2.96
+  version:2.96
+  named:2.96
+  browser:2.96
+  microsoft security:2.96
+  microsoft:2.96
+  light:2.96
+  attack:2.96
+
+Topic 3:
+  hidden services:5.94
+  private companies leo:4.44
+  search terms:4.44
+  exit:2.94
+  behalf:2.94
+  months:2.94
+  intelligence:2.94
+  purposes:2.94
+  interesting:2.93
+  greater:2.93
+
+Topic 4:
+  se:1.58
+  plugins:1.39
+  darknet:1.39
+  enable flash:1.39
+  check disabled:1.39
+  high:1.39
+  accidentally:1.39
+  change:1.39
+  vaguely:1.39
+  conscious:1.39
+
+K: 5, Log-Likelihood: -3618.867, Alpha: 11.000, Beta: 1.100

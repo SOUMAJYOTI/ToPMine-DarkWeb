@@ -1,0 +1,61 @@
+Topic 0:
+  support:0.60
+  buyer:0.60
+  learn:0.40
+  resolved:0.40
+  bitcoins:0.40
+  shame:0.20
+  hear:0.20
+  secure:0.20
+  short:0.20
+  hell:0.20
+
+Topic 1:
+  buyer:0.60
+  support:0.59
+  resolved:0.41
+  bitcoins:0.41
+  learn:0.39
+  practices:0.20
+  received:0.20
+  percent:0.20
+  released:0.20
+  reply:0.20
+
+Topic 2:
+  buyer:0.60
+  support:0.55
+  learn:0.42
+  bitcoins:0.40
+  resolved:0.38
+  held:0.21
+  escrow:0.21
+  sheep:0.21
+  inexpensive:0.21
+  btcs:0.21
+
+Topic 3:
+  support:0.60
+  buyer:0.59
+  learn:0.41
+  bitcoins:0.40
+  resolved:0.39
+  site:0.20
+  damn:0.20
+  operators:0.20
+  secure:0.20
+  honest:0.20
+
+Topic 4:
+  support:0.66
+  buyer:0.61
+  resolved:0.43
+  bitcoins:0.40
+  learn:0.38
+  dls:0.21
+  day:0.21
+  transaction:0.21
+  deceitful:0.21
+  funds:0.21
+
+K: 5, Log-Likelihood: -302.673, Alpha: 11.000, Beta: 1.100

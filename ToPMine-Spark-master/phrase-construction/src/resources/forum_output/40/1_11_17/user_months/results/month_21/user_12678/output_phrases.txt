@@ -1,0 +1,61 @@
+Topic 0:
+  ei:0.45
+  ett:0.41
+  jo:0.35
+  sit:0.35
+  summa:0.32
+  iso:0.32
+  mitaan:0.29
+  myyj:0.28
+  ja:0.25
+  mut:0.24
+
+Topic 1:
+  tai:0.55
+  st:0.55
+  sti:0.55
+  ja kun:0.55
+  sell:0.55
+  olet:0.55
+  siis:0.55
+  haluat:0.55
+  viestin:0.55
+  korvaamaan:0.55
+
+Topic 2:
+  takaisin:1.75
+  mit:1.74
+  silti:1.74
+  tapahtui:1.73
+  kun:1.73
+  nyt:1.73
+  mutta:1.72
+  ett:0.89
+  keskiviikkona:0.73
+  viime:0.73
+
+Topic 3:
+  mut:1.33
+  mitaan:1.03
+  ei:0.73
+  en:0.55
+  ois:0.55
+  postittaneensa:0.54
+  koska:0.54
+  torstaina:0.54
+  usk:0.54
+  viikko:0.54
+
+Topic 4:
+  mitaan:0.38
+  ei:0.36
+  ett:0.31
+  mut:0.31
+  tuntia:0.31
+  viestia:0.31
+  silkkitiella:0.31
+  kusettajien:0.31
+  bitcoinit:0.31
+  mut mitaan:0.31
+
+K: 5, Log-Likelihood: -748.536, Alpha: 11.000, Beta: 1.100

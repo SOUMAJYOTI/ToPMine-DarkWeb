@@ -1,0 +1,61 @@
+Topic 0:
+  secure:2.20
+  mail:1.74
+  appreciated:1.72
+  based:1.68
+  provider:1.67
+  find:1.67
+  tor:1.60
+  problem:1.59
+  security:1.51
+  quote:1.27
+
+Topic 1:
+  secure:2.27
+  problem:1.60
+  based:1.60
+  provider:1.57
+  tor:1.57
+  appreciated:1.55
+  security:1.52
+  find:1.51
+  mail:1.43
+  quote:1.43
+
+Topic 2:
+  encrypted:3.63
+  send:3.47
+  board:3.30
+  messages:3.26
+  usual:1.89
+  start:1.85
+  good:1.64
+  luck:1.64
+  standard:1.43
+  hesitate:1.43
+
+Topic 3:
+  secure:1.36
+  send:1.22
+  encrypted:1.17
+  learn:1.05
+  encrypt:1.03
+  good:1.01
+  luck:1.00
+  start:0.87
+  tor:0.83
+  find:0.82
+
+Topic 4:
+  security:1.85
+  secure:1.76
+  mail:1.71
+  problem:1.69
+  find:1.68
+  tor:1.68
+  provider:1.62
+  based:1.61
+  appreciated:1.61
+  quote:1.30
+
+K: 5, Log-Likelihood: -973.389, Alpha: 11.000, Beta: 1.100

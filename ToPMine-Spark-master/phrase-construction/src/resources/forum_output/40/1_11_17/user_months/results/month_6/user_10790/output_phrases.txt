@@ -1,0 +1,61 @@
+Topic 0:
+  people:0.78
+  sign:0.64
+  good:0.60
+  coinjoin:0.53
+  thinking:0.40
+  hear:0.40
+  word:0.40
+  post:0.40
+  implemented:0.40
+  bad:0.40
+
+Topic 1:
+  people:0.59
+  sign:0.52
+  darkcoin:0.51
+  good:0.49
+  alt:0.48
+  coin:0.47
+  talking:0.47
+  heard:0.47
+  darkwallet:0.47
+  called:0.47
+
+Topic 2:
+  coinjoin:1.43
+  people:0.84
+  lot:0.67
+  mix:0.67
+  point:0.67
+  default:0.67
+  fact:0.67
+  buy:0.67
+  bitcoins:0.67
+  darkcoins:0.67
+
+Topic 3:
+  sign:0.98
+  people:0.54
+  darkcoin:0.48
+  dont:0.45
+  coinjoin:0.45
+  march:0.44
+  quote:0.44
+  good:0.44
+  darkwallet:0.44
+  alt:0.44
+
+Topic 4:
+  darkcoin:0.69
+  quote:0.61
+  march:0.61
+  heard:0.61
+  called:0.60
+  talking:0.60
+  coin:0.59
+  alt:0.59
+  darkwallet:0.59
+  people:0.54
+
+K: 5, Log-Likelihood: -433.931, Alpha: 11.000, Beta: 1.100

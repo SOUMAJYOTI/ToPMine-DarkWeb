@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:3.32
+  iqi:3.06
+  bbmbagahahsdah:3.00
+  money:2.45
+  public:2.06
+  pb:2.02
+  block:2.02
+  ta:2.02
+  hly:2.02
+  lg:2.02
+
+Topic 1:
+  community:39.93
+  vendors:28.36
+  escrow:22.64
+  staff:20.94
+  withdrawals:17.99
+  storage:17.99
+  account:15.82
+  system:15.70
+  time:15.48
+  attack:13.99
+
+Topic 2:
+  updatedforum:9.91
+  thread:6.76
+  pgp:6.55
+  updated:5.86
+  msg:5.24
+  security:5.24
+  profile:4.43
+  onion:3.98
+  ll:3.71
+  aa:3.67
+
+Topic 3:
+  key:161.87
+  expires:41.93
+  gpg:35.00
+  encryption:32.99
+  created:28.53
+  ultimate:27.00
+  usage:24.45
+  keys:18.99
+  time:15.19
+  months:15.00
+
+Topic 4:
+  sr:15.57
+  vendor:11.71
+  vendors:8.53
+  scammers:6.91
+  ve:6.73
+  trades:6.72
+  forums:6.42
+  buy:6.37
+  forum:6.19
+  swam:5.92
+
+K: 5, Log-Likelihood: -52773.848, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  knowledge:0.33
+  care:0.33
+  defendants:0.33
+  bmr:0.33
+  cocks:0.21
+  welcomed:0.21
+  market:0.21
+  send address:0.21
+  whorehouse:0.21
+  plenty:0.21
+
+Topic 1:
+  knowledge:0.31
+  bmr:0.30
+  care:0.30
+  defendants:0.30
+  deserved:0.21
+  idiots:0.21
+  anah:0.21
+  milkps:0.21
+  ass:0.21
+  thereyou:0.21
+
+Topic 2:
+  day:0.25
+  real:0.25
+  busted:0.25
+  jerkoffs:0.25
+  send:0.25
+  pussy:0.25
+  coinsif:0.25
+  opened:0.25
+  people:0.25
+  sitting:0.25
+
+Topic 3:
+  defendants:0.56
+  bmr:0.56
+  care:0.56
+  knowledge:0.55
+  time:0.25
+  reasonable:0.25
+  rest:0.25
+  breakdown:0.25
+  piece:0.25
+  lack:0.25
+
+Topic 4:
+  bmr:0.45
+  defendants:0.45
+  care:0.45
+  knowledge:0.45
+  total:0.21
+  gentleman:0.21
+  housing:0.21
+  type:0.21
+  situation:0.21
+  post:0.21
+
+K: 5, Log-Likelihood: -488.663, Alpha: 11.000, Beta: 1.100

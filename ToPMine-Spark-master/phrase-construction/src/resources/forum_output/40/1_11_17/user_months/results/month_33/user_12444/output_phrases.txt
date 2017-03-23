@@ -1,0 +1,61 @@
+Topic 0:
+  taas:0.87
+  bug:0.71
+  transaction:0.71
+  reply:0.71
+  small:0.71
+  panic:0.71
+  details:0.71
+  fixed:0.71
+  messaged:0.71
+  captain:0.71
+
+Topic 1:
+  ja:1.84
+  takia:1.32
+  kin:1.32
+  ei:1.32
+  koskaan:1.32
+  ostettua:1.32
+  rahat:1.32
+  susi:1.32
+  kurssin:1.32
+  jouduin:1.32
+
+Topic 2:
+  osaavat:1.05
+  pit:1.05
+  palvellut:1.05
+  viimeaikoina:1.05
+  eip:1.05
+  vaikka:1.05
+  lompakossa:1.05
+  hyvin:1.05
+  toistaiseksi:1.05
+  evolutionin:1.05
+
+Topic 3:
+  ll:1.16
+  viel:0.86
+  kun:0.65
+  kauan:0.62
+  tilille:0.62
+  voi:0.61
+  tehd:0.61
+  tapahtu:0.61
+  eik:0.61
+  myyj:0.61
+
+Topic 4:
+  kapteeni:1.26
+  mit:1.25
+  oo:1.25
+  asiakaspalvelu:1.25
+  ostaja:1.25
+  lomilla:1.25
+  eik coinit:1.25
+  vituttaa:1.25
+  kest:1.25
+  saapunu:1.25
+
+K: 5, Log-Likelihood: -997.576, Alpha: 11.000, Beta: 1.100

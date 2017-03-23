@@ -1,0 +1,61 @@
+Topic 0:
+  mia knew plate events:0.43
+  curious heard admin:0.43
+  quote evilgrin october:0.43
+  speak:0.41
+  dick:0.41
+  dont:0.41
+  noticed:0.41
+  pmim:0.41
+  lol:0.41
+  finish:0.41
+
+Topic 1:
+  quote evilgrin october:0.46
+  capun:0.46
+  kunnosta:0.46
+  kyll:0.46
+  kelpaavat:0.46
+  tied:0.46
+  puhuu:0.46
+  yll:0.46
+  kun:0.46
+  hemmetin:0.46
+
+Topic 2:
+  curious heard admin:0.43
+  mia knew plate events:0.43
+  pmim:0.40
+  quote evilgrin october:0.40
+  lol:0.37
+  dont:0.37
+  dick:0.37
+  speak:0.37
+  finish:0.37
+  noticed:0.36
+
+Topic 3:
+  ja:0.52
+  risut:0.52
+  tuotteita:0.52
+  kysymykset:0.52
+  myyjist:0.52
+  olla:0.52
+  kiellettyj:0.52
+  posts:0.52
+  read:0.52
+  keskustelualueen:0.52
+
+Topic 4:
+  tietty:0.50
+  puhuu:0.50
+  ilmassa:0.50
+  kin:0.50
+  sama:0.50
+  provikat:0.50
+  poika:0.50
+  min:0.50
+  niinkuin:0.50
+  kunnosta:0.50
+
+K: 5, Log-Likelihood: -512.216, Alpha: 11.000, Beta: 1.100

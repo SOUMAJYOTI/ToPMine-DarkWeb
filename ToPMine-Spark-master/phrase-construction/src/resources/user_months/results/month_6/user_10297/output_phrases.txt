@@ -1,0 +1,61 @@
+Topic 0:
+  march:6.07
+  quote:5.39
+  transaction:5.29
+  lose:5.29
+  shared coin:5.01
+  bitblender:4.94
+  user:4.64
+  site:4.53
+  fog alternative:4.48
+  large amounts:4.43
+
+Topic 1:
+  send:10.67
+  send coins:10.67
+  deposited coins:8.00
+  coins mixer:8.00
+  darkcoin:6.73
+  trust based:5.49
+  mixers dead year:5.49
+  deposit:5.32
+  automatic withdraw:5.32
+  amount:5.32
+
+Topic 2:
+  enjoyed thread:5.79
+  shouldnt counterfeit pay hookers:5.79
+  february:5.66
+  evolution:5.34
+  forums:4.94
+  forum:4.48
+  nice dont:4.48
+  ya:4.48
+  drama abounding:4.48
+  fairly:4.48
+
+Topic 3:
+  pills:10.66
+  promise:5.32
+  showing:5.32
+  fog:5.32
+  sorted:5.32
+  liable:5.32
+  expect:5.31
+  store:4.72
+  deposits:4.51
+  options:4.40
+
+Topic 4:
+  money:7.23
+  set:5.56
+  listings:5.31
+  blockchain dont:4.49
+  deposit withdraw:4.49
+  internal:4.49
+  worried:4.49
+  complicated:4.49
+  staggered:4.49
+  stealing:4.49
+
+K: 5, Log-Likelihood: -8841.246, Alpha: 11.000, Beta: 1.100

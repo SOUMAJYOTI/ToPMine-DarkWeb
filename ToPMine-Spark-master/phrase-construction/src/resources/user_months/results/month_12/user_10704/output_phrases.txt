@@ -1,0 +1,61 @@
+Topic 0:
+  pops:3.21
+  folders plate tor:2.88
+  quote trolltergeist june pmyes:2.80
+  plate tor:2.63
+  understand:2.44
+  read:2.05
+  mate:2.00
+  good:2.00
+  things:1.89
+  simpleton:1.89
+
+Topic 1:
+  tor:3.00
+  hate:1.93
+  torrc:1.93
+  hidden:1.93
+  assume:1.93
+  ensure:1.92
+  helps:1.92
+  talking:1.92
+  guards:1.92
+  pedantic:1.92
+
+Topic 2:
+  lol:4.89
+  locked:4.88
+  deleted:3.08
+  stay:3.07
+  lmao:3.07
+  topic thread:3.06
+  mind:3.06
+  happened:3.05
+  ll legend:3.03
+  topic:2.95
+
+Topic 3:
+  dont:4.18
+  tor:2.47
+  overwritten:2.04
+  install:2.04
+  problems:2.04
+  reason:2.04
+  older:2.04
+  main:2.04
+  leaves:2.04
+  speaking:2.04
+
+Topic 4:
+  time:4.13
+  notice warning icon updating:2.46
+  quote boogie june:2.27
+  folders plate tor trolltergeist:2.25
+  posts:2.23
+  delete folders installing update:2.22
+  learned hard writing update:2.21
+  amquote trolltergeist june pmyes:2.20
+  folders:2.02
+  issue:2.00
+
+K: 5, Log-Likelihood: -1503.439, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  experience depositing funds:0.86
+  dollars system wallets easily:0.78
+  respond buyer:0.77
+  sales:0.77
+  occur:0.77
+  agora:0.76
+  galindoiis:0.76
+  light transactions:0.75
+  hassle grain salt:0.75
+  pmi:0.73
+
+Topic 1:
+  customers order people moving:0.89
+  direct deals ebb flow:0.86
+  direct deals agora:0.86
+  forward:0.80
+  pmagora:0.79
+  response:0.79
+  bulk:0.78
+  galindoithanks:0.78
+  business:0.77
+  btc:0.74
+
+Topic 2:
+  btc:1.13
+  reviews:0.72
+  depositing:0.72
+  great:0.72
+  trust:0.72
+  arriving:0.71
+  threads:0.71
+  buy:0.71
+  forums:0.71
+  amounts:0.71
+
+Topic 3:
+  btc:0.71
+  respond buyer:0.67
+  light transactions:0.65
+  experience depositing funds:0.64
+  direct deals agora:0.63
+  quote galindoi july:0.63
+  direct deals ebb flow:0.62
+  customers order people moving:0.62
+  galindoi:0.60
+  ve:0.58
+
+Topic 4:
+  btc:0.78
+  light transactions:0.68
+  respond buyer:0.65
+  galindoi:0.65
+  quote galindoi july:0.59
+  direct deals agora:0.59
+  direct deals ebb flow:0.58
+  customers order people moving:0.58
+  experience depositing funds:0.57
+  dont:0.57
+
+K: 5, Log-Likelihood: -654.494, Alpha: 11.000, Beta: 1.100

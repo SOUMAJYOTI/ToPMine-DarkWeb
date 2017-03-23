@@ -1,0 +1,61 @@
+Topic 0:
+  isnt:1.66
+  server:1.54
+  pick:1.27
+  onion:1.02
+  site:0.96
+  cat:0.78
+  reading:0.73
+  anonymous:0.61
+  completely:0.50
+  step:0.50
+
+Topic 1:
+  find:2.73
+  secure:2.18
+  site:1.99
+  host:1.74
+  interesting:1.74
+  system:1.74
+  tor:1.74
+  server:1.57
+  lemp:1.04
+  configure:1.04
+
+Topic 2:
+  onion:2.79
+  anonymous:2.25
+  completely:1.91
+  sites:0.99
+  layer:0.62
+  things:0.58
+  site:0.55
+  server:0.48
+  cat:0.43
+  reading:0.41
+
+Topic 3:
+  onion:2.00
+  site:1.17
+  server:1.11
+  anonymous:0.85
+  completely:0.84
+  cat:0.80
+  secure:0.80
+  things:0.65
+  layer:0.57
+  sites:0.52
+
+Topic 4:
+  onion:1.73
+  anonymous:1.18
+  question:1.16
+  tutorials:1.16
+  expert:1.15
+  sites:0.97
+  things:0.72
+  completely:0.63
+  biggest:0.48
+  high:0.48
+
+K: 5, Log-Likelihood: -913.626, Alpha: 11.000, Beta: 1.100

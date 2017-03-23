@@ -1,0 +1,61 @@
+Topic 0:
+  palace:0.00
+  keeping:0.00
+  buy:0.00
+  link:0.00
+  phones:0.00
+  cheap:0.00
+  apple:0.00
+  iphones:0.00
+  trusted:0.00
+  blet:0.00
+
+Topic 1:
+  palace:0.00
+  keeping:0.00
+  buy:0.00
+  link:0.00
+  phones:0.00
+  cheap:0.00
+  apple:0.00
+  iphones:0.00
+  trusted:0.00
+  blet:0.00
+
+Topic 2:
+  palace:0.00
+  keeping:0.00
+  buy:0.00
+  link:0.00
+  phones:0.00
+  cheap:0.00
+  apple:0.00
+  iphones:0.00
+  trusted:0.00
+  blet:0.00
+
+Topic 3:
+  palace:0.00
+  keeping:0.00
+  buy:0.00
+  link:0.00
+  phones:0.00
+  cheap:0.00
+  apple:0.00
+  iphones:0.00
+  trusted:0.00
+  blet:0.00
+
+Topic 4:
+  palace:0.00
+  keeping:0.00
+  buy:0.00
+  link:0.00
+  phones:0.00
+  cheap:0.00
+  apple:0.00
+  iphones:0.00
+  trusted:0.00
+  blet:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

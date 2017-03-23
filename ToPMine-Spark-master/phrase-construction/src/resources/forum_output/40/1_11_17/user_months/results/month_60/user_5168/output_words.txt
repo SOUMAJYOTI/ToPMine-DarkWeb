@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:18.24
+  november:16.78
+  nature:13.56
+  love:12.57
+  ll:12.52
+  market:12.43
+  full:11.24
+  write:10.93
+  ill:10.73
+  based:9.30
+
+Topic 1:
+  system:42.41
+  wallet:37.42
+  vendors:36.24
+  bitchain:29.93
+  backup:20.93
+  time:18.60
+  site:18.60
+  text:17.93
+  website:17.93
+  darknet:16.65
+
+Topic 2:
+  site:36.82
+  exit:12.80
+  weeks:11.96
+  good:11.81
+  accounts:10.58
+  btc:10.50
+  crypto:9.57
+  couple:7.96
+  online:7.92
+  scam:7.15
+
+Topic 3:
+  vendor:31.69
+  vendors:8.03
+  site:7.06
+  ability:6.80
+  anonyminity:5.95
+  enabled:5.84
+  logging:4.96
+  listings:4.96
+  product:4.88
+  type:4.34
+
+Topic 4:
+  vendor:34.99
+  vendors:30.58
+  system:24.27
+  trusted:15.04
+  market:13.17
+  private:12.58
+  users:11.41
+  user:11.19
+  list:10.45
+  item:10.16
+
+K: 5, Log-Likelihood: -23138.884, Alpha: 11.000, Beta: 1.100

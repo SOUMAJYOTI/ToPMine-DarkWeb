@@ -1,0 +1,61 @@
+Topic 0:
+  experiences:3.68
+  forward:3.03
+  plants:2.77
+  great:2.61
+  community:2.50
+  connect:1.94
+  slowly:1.92
+  walk:1.90
+  compounds:1.81
+  earth:1.58
+
+Topic 1:
+  plants:2.42
+  experiences:2.41
+  walk:2.17
+  great:2.14
+  community:1.89
+  earth:1.65
+  forward:1.51
+  compounds:1.49
+  connect:1.46
+  slowly:1.42
+
+Topic 2:
+  postmodern:2.15
+  culture:2.11
+  hand:1.88
+  connections:1.71
+  things:1.61
+  coming:1.58
+  environment:1.55
+  people:1.52
+  earth:1.48
+  technology:1.47
+
+Topic 3:
+  great:4.02
+  walk:2.71
+  ocean:1.88
+  experiences:1.78
+  community:1.47
+  reading:1.41
+  psychedelics:1.41
+  mushrooms:1.40
+  group:1.40
+  northern:1.40
+
+Topic 4:
+  hand:3.97
+  culture:3.74
+  postmodern:3.70
+  forces:1.80
+  brink:1.80
+  connected:1.80
+  emerging:1.80
+  milieu:1.79
+  juxtapositions:1.79
+  rich:1.79
+
+K: 5, Log-Likelihood: -1821.177, Alpha: 11.000, Beta: 1.100

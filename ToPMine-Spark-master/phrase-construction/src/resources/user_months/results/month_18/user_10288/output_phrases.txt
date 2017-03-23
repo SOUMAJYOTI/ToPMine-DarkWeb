@@ -1,0 +1,61 @@
+Topic 0:
+  carding:5.71
+  money:3.68
+  convert:3.68
+  steps:3.68
+  clearnet:3.68
+  virwox:2.66
+  btc:2.66
+  card:2.66
+  bitcoin:2.27
+  ssl:1.81
+
+Topic 1:
+  identify:9.30
+  point:7.43
+  cell:5.56
+  unknowingly:5.56
+  real:5.56
+  adversary:3.69
+  law:3.69
+  unique:3.69
+  antenna:3.69
+  mac address:3.69
+
+Topic 2:
+  wife networks:2.44
+  miles:2.17
+  connected:1.59
+  person:1.59
+  ideal:1.59
+  switched:1.59
+  albeit:1.59
+  conditions:1.59
+  week:1.59
+  genuinely:1.57
+
+Topic 3:
+  hypothetically:3.63
+  connection:3.54
+  street:2.34
+  location:1.80
+  local:1.76
+  owners:1.76
+  bug:1.76
+  plausible:1.76
+  start:1.76
+  business:1.76
+
+Topic 4:
+  ideas:3.70
+  untraceable:2.27
+  level:2.04
+  target:2.04
+  osama:1.83
+  thing:1.83
+  cp:1.83
+  bought:1.83
+  walking:1.83
+  garage:1.83
+
+K: 5, Log-Likelihood: -3826.826, Alpha: 11.000, Beta: 1.100

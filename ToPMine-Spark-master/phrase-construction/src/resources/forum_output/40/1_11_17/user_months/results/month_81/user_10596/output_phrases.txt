@@ -1,0 +1,61 @@
+Topic 0:
+  order:24.84
+  public key:12.41
+  select:12.41
+  listing:9.93
+  vendor:8.19
+  acropolis market:7.44
+  option:7.44
+  redeem script:7.44
+  multisig:7.44
+  dispute:7.44
+
+Topic 1:
+  dn:4.93
+  good:4.10
+  business:4.04
+  sort:4.04
+  opinions:4.04
+  radar:4.04
+  dream:4.01
+  friendly:3.99
+  website:2.44
+  kitty:2.44
+
+Topic 2:
+  apple market:7.44
+  life:7.44
+  commission:6.38
+  vendors:6.01
+  iphones:4.96
+  escrow:4.96
+  ladies:4.96
+  negotiate:4.96
+  ipads:4.96
+  rest:4.96
+
+Topic 3:
+  btc:16.58
+  verify:9.92
+  exchange:8.81
+  vendor bond:7.43
+  vendor status:7.43
+  clearnet:5.02
+  request:4.95
+  agra:4.95
+  reloaded:4.95
+  level:4.95
+
+Topic 4:
+  onion:34.78
+  accounts:24.84
+  key:20.92
+  onioncreated time multisig:17.38
+  onionreddit accounts:14.90
+  guides tutorials:12.41
+  invite required nocategories:12.41
+  onioncreated time multisig nofe:12.41
+  yesfe allowed yesvendor bond:12.41
+  prior security flaws nosubreddit:12.41
+
+K: 5, Log-Likelihood: -15033.233, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  police:2.28
+  drugs:2.20
+  tor:1.87
+  online:1.60
+  someones:1.55
+  busted:1.30
+  caused:1.30
+  finding:1.29
+  kind:1.29
+  dealer:1.28
+
+Topic 1:
+  drugs:1.97
+  police:1.92
+  tor:1.88
+  online:1.44
+  snitching:1.38
+  someones:1.35
+  mistake:1.25
+  neighbor:1.23
+  happen:1.22
+  real:1.22
+
+Topic 2:
+  arrested:2.27
+  mercedes:1.60
+  man:1.60
+  suspicious:1.60
+  driver:1.60
+  police:1.46
+  hard:1.40
+  drugs:1.21
+  year:0.69
+  contained:0.69
+
+Topic 3:
+  drugs:1.92
+  tor:1.82
+  police:1.81
+  online:1.15
+  arrested:1.13
+  packages:1.12
+  someones:1.11
+  neighbor:0.99
+  car:0.98
+  kind:0.97
+
+Topic 4:
+  police:2.53
+  tor:1.86
+  drugs:1.70
+  someones:1.55
+  online:1.44
+  arrested:1.27
+  finding:1.19
+  car:1.19
+  mistake:1.17
+  happen:1.16
+
+K: 5, Log-Likelihood: -1175.152, Alpha: 11.000, Beta: 1.100

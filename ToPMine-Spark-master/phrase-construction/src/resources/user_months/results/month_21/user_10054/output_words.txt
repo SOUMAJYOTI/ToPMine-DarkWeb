@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.61
+  brotherhood:0.61
+  spotty:0.41
+  prescence:0.41
+  ootp:0.41
+  left:0.40
+  hanging:0.40
+  deals:0.40
+  month:0.39
+  pm:0.39
+
+Topic 1:
+  market:0.59
+  brotherhood:0.58
+  thebrotherhood:0.41
+  pm:0.41
+  month:0.41
+  marketplace:0.41
+  active:0.40
+  deals:0.40
+  site:0.40
+  hanging:0.40
+
+Topic 2:
+  market:0.61
+  brotherhood:0.59
+  deals:0.40
+  active:0.40
+  site:0.40
+  month:0.40
+  pm:0.40
+  marketplace:0.40
+  prescence:0.40
+  hanging:0.40
+
+Topic 3:
+  brotherhood:0.62
+  market:0.59
+  ootp:0.40
+  left:0.40
+  marketplace:0.40
+  thebrotherhood:0.40
+  hanging:0.40
+  site:0.40
+  prescence:0.40
+  spotty:0.40
+
+Topic 4:
+  brotherhood:0.60
+  market:0.60
+  active:0.40
+  site:0.40
+  marketplace:0.40
+  prescence:0.40
+  left:0.40
+  month:0.40
+  spotty:0.40
+  pm:0.40
+
+K: 5, Log-Likelihood: -92.619, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  instructions:0.00
+  hidden:0.00
+  darknet:0.00
+  simple:0.00
+  listen:0.00
+  network:0.00
+  apache:0.00
+  file:0.00
+  tor:0.00
+  missing:0.00
+
+Topic 1:
+  instructions:0.00
+  hidden:0.00
+  darknet:0.00
+  simple:0.00
+  listen:0.00
+  network:0.00
+  apache:0.00
+  file:0.00
+  tor:0.00
+  missing:0.00
+
+Topic 2:
+  instructions:0.00
+  hidden:0.00
+  darknet:0.00
+  simple:0.00
+  listen:0.00
+  network:0.00
+  apache:0.00
+  file:0.00
+  tor:0.00
+  missing:0.00
+
+Topic 3:
+  instructions:0.00
+  hidden:0.00
+  darknet:0.00
+  simple:0.00
+  listen:0.00
+  network:0.00
+  apache:0.00
+  file:0.00
+  tor:0.00
+  missing:0.00
+
+Topic 4:
+  instructions:0.00
+  hidden:0.00
+  darknet:0.00
+  simple:0.00
+  listen:0.00
+  network:0.00
+  apache:0.00
+  file:0.00
+  tor:0.00
+  missing:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

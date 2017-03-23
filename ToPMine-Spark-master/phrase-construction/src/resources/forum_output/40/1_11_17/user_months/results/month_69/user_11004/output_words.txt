@@ -1,0 +1,61 @@
+Topic 0:
+  aktionspreis:0.99
+  quality:0.82
+  tabs:0.77
+  germany:0.73
+  refund:0.71
+  high:0.47
+  paste:0.47
+  sehr:0.47
+  tubs:0.47
+  article:0.47
+
+Topic 1:
+  aktionspreis:0.89
+  quality:0.84
+  refund:0.66
+  germany:0.66
+  tabs:0.63
+  vendor:0.45
+  der:0.44
+  hier:0.44
+  high:0.43
+  tracking:0.43
+
+Topic 2:
+  quality:0.81
+  aktionspreis:0.79
+  refund:0.64
+  germany:0.64
+  tabs:0.62
+  vendor:0.50
+  listings:0.42
+  speed:0.42
+  time:0.42
+  tracking:0.42
+
+Topic 3:
+  vendor:0.89
+  quality:0.73
+  aktionspreis:0.62
+  free:0.59
+  market:0.54
+  tabs:0.48
+  germany:0.48
+  refund:0.48
+  onion:0.46
+  uncut:0.45
+
+Topic 4:
+  quality:0.81
+  vendor:0.78
+  aktionspreis:0.71
+  free:0.52
+  refund:0.51
+  germany:0.49
+  tabs:0.49
+  market:0.48
+  onion:0.44
+  cocaine:0.44
+
+K: 5, Log-Likelihood: -660.031, Alpha: 11.000, Beta: 1.100

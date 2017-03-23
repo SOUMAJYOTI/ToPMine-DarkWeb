@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:1.73
+  coins:1.36
+  wallet:0.97
+  address:0.91
+  markets:0.82
+  tumble:0.82
+  transfer:0.75
+  service:0.72
+  mixing:0.71
+  tails:0.69
+
+Topic 1:
+  coins:2.05
+  electrum:1.64
+  wallet:1.27
+  transfer:1.03
+  address:0.74
+  tails:0.72
+  mix:0.63
+  mixing:0.59
+  grams:0.57
+  service:0.57
+
+Topic 2:
+  wallet:2.59
+  coins:2.18
+  mix:1.58
+  transfer:1.48
+  electrum:1.15
+  tails:0.91
+  untraceable:0.87
+  grams:0.65
+  harder:0.60
+  trace:0.60
+
+Topic 3:
+  wallet:2.56
+  coins:2.27
+  transfer:1.58
+  mix:1.56
+  electrum:1.17
+  untraceable:0.80
+  tails:0.80
+  grams:0.68
+  charges:0.60
+  trace:0.60
+
+Topic 4:
+  coins:2.13
+  wallet:1.61
+  electrum:1.31
+  transfer:1.17
+  tails:0.87
+  mix:0.80
+  service:0.69
+  mixing:0.68
+  grams:0.59
+  address:0.59
+
+K: 5, Log-Likelihood: -543.507, Alpha: 11.000, Beta: 1.100

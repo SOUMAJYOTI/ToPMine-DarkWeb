@@ -1,0 +1,61 @@
+Topic 0:
+  march:3.97
+  zaphod:3.57
+  key:3.01
+  quote:2.46
+  pm:2.35
+  mac:2.25
+  good:2.05
+  pmquote:2.03
+  catch:1.89
+  continue:1.88
+
+Topic 1:
+  ip:4.40
+  blackhole:4.18
+  mac:2.96
+  zaphod:2.94
+  apple:2.55
+  march:2.47
+  snitch:2.11
+  chilltweaker:2.04
+  quote:1.97
+  add:1.97
+
+Topic 2:
+  keys:6.93
+  keyring:5.93
+  secret:4.93
+  public:3.93
+  armour:3.93
+  caps:3.46
+  key:3.42
+  pgp:3.03
+  good:3.03
+  alternate:2.77
+
+Topic 3:
+  ip:6.24
+  apple:3.57
+  blackhole:2.94
+  march:2.64
+  quote:2.51
+  mac:2.50
+  url:2.46
+  chilltweaker:2.31
+  address:1.92
+  told:1.74
+
+Topic 4:
+  ip:3.94
+  address:3.74
+  url:3.32
+  coming:2.73
+  toxen:1.89
+  attackers:1.89
+  claims:1.89
+  services:1.89
+  book:1.89
+  company:1.89
+
+K: 5, Log-Likelihood: -2245.191, Alpha: 11.000, Beta: 1.100

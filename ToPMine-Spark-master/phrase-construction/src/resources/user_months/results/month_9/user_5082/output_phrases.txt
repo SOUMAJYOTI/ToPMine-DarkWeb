@@ -1,0 +1,61 @@
+Topic 0:
+  move:11.97
+  piece:10.02
+  pawn:9.37
+  square:7.63
+  destination square:7.17
+  rank:6.65
+  pawn moves:4.98
+  move square:4.92
+  captures piece:4.73
+  identical pieces:4.41
+
+Topic 1:
+  move:9.23
+  piece:7.75
+  pawn:4.78
+  rank:3.86
+  destination square:3.33
+  thread:2.99
+  identified:2.89
+  squares called:2.82
+  knight move:2.70
+  square:2.69
+
+Topic 2:
+  thing:3.40
+  sort:3.40
+  chat:3.39
+  irc:3.39
+  bit:3.38
+  play good:3.33
+  love:3.31
+  frankly:3.30
+  idea:3.29
+  april:3.10
+
+Topic 3:
+  standard notation:2.30
+  knight move:2.07
+  thread:2.04
+  black:1.16
+  notation:1.12
+  move:0.90
+  square:0.71
+  piece:0.64
+  squares called:0.59
+  pawn:0.57
+
+Topic 4:
+  pmquote ya april:7.51
+  quote nordicshrooms april:4.70
+  pme pe pd pd:4.28
+  amquote nordicshrooms april:4.21
+  quote ya april:3.60
+  bg:3.43
+  pmwell:3.42
+  wait:3.33
+  amazing:3.33
+  hard:3.33
+
+K: 5, Log-Likelihood: -4629.057, Alpha: 11.000, Beta: 1.100

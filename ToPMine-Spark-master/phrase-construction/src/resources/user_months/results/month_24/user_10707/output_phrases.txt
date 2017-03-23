@@ -1,0 +1,61 @@
+Topic 0:
+  order:9.78
+  agra invites:7.88
+  thread:6.81
+  blotter:6.73
+  industries:6.73
+  lab:6.73
+  read:6.73
+  estimates:6.73
+  hcl:6.73
+  psychedelic:6.73
+
+Topic 1:
+  vendor:14.37
+  empty:13.46
+  bad:9.76
+  day:9.61
+  glabind:8.63
+  feel free:7.98
+  cashout:7.98
+  amsterdamngood:6.80
+  top:6.73
+  pic:6.73
+
+Topic 2:
+  yjhzeedl osagmmr onion:11.79
+  forum:8.85
+  stay:7.32
+  escrow:6.69
+  post:6.65
+  day cashout:6.60
+  vendors:6.58
+  tom:6.12
+  suspicious:5.90
+  site:5.90
+
+Topic 3:
+  btc:8.09
+  kicking:7.89
+  pandora:6.99
+  order refunded:6.69
+  cashed:6.69
+  shots:6.68
+  agora:5.88
+  coins:5.88
+  recieved:5.85
+  wallett:5.85
+
+Topic 4:
+  dont:7.55
+  vendor:6.74
+  homepage:6.69
+  passport:6.38
+  free:5.88
+  bought:5.88
+  choice:5.75
+  email:5.75
+  boogs:5.74
+  couple:5.74
+
+K: 5, Log-Likelihood: -20217.600, Alpha: 11.000, Beta: 1.100

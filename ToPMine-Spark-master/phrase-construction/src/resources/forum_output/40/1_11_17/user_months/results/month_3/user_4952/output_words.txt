@@ -1,0 +1,61 @@
+Topic 0:
+  levels:0.78
+  advice:0.71
+  send:0.58
+  people:0.54
+  ways:0.52
+  involved:0.50
+  thoughts:0.50
+  practice:0.49
+  process:0.49
+  btc:0.49
+
+Topic 1:
+  advice:1.51
+  levels:1.41
+  ways:0.70
+  people:0.69
+  ease:0.61
+  sort:0.61
+  vendor:0.61
+  grasp:0.61
+  question:0.60
+  tech:0.60
+
+Topic 2:
+  send:1.22
+  advice:0.66
+  levels:0.66
+  ways:0.61
+  people:0.60
+  coin:0.47
+  blockchain:0.46
+  tumbler:0.42
+  anonymity:0.39
+  wallets:0.39
+
+Topic 3:
+  send:1.07
+  levels:0.66
+  advice:0.63
+  people:0.61
+  ways:0.59
+  coin:0.44
+  open:0.43
+  putting:0.43
+  guide:0.43
+  wallets:0.43
+
+Topic 4:
+  send:1.66
+  ways:0.57
+  coin:0.56
+  people:0.56
+  blockchain:0.51
+  advice:0.50
+  levels:0.50
+  tumbler:0.47
+  process:0.42
+  anonymity:0.42
+
+K: 5, Log-Likelihood: -378.303, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ass:8.53
+  vpn tor:8.53
+  vpon usage:7.67
+  shipping:7.22
+  bridges:6.85
+  coins:6.50
+  reside:6.50
+  localbitcoins:6.50
+  cash mail:6.50
+  buyers vendors:6.50
+
+Topic 1:
+  connect tor network:17.72
+  entry points:16.11
+  connecting tor network:13.44
+  network:10.73
+  tor:9.97
+  tor bridges:9.83
+  people:8.54
+  obis bridges:8.21
+  security:7.74
+  problem:7.65
+
+Topic 2:
+  phone:15.31
+  return address:14.68
+  phones:12.72
+  portal service:9.77
+  feds:9.77
+  job:9.76
+  towers:9.76
+  return:8.79
+  encryption:8.69
+  work:7.88
+
+Topic 3:
+  issues:16.99
+  obis bridges:15.18
+  bootiusmaximus april:14.59
+  obfs:11.80
+  pgp key:10.97
+  servers irretrievable:10.97
+  tutorial subtle error pgp:10.97
+  add encryption key existing:10.97
+  irretrievable provided copies private:10.97
+  behave time:10.97
+
+Topic 4:
+  key:39.87
+  gpg:29.32
+  unknown zaphod king universe:29.32
+  key expires:26.06
+  pub created expires usage:22.80
+  af created expires usage:16.29
+  encryption key:13.03
+  select:13.03
+  zaphod king:9.77
+  af created evoked usage:9.77
+
+K: 5, Log-Likelihood: -40084.679, Alpha: 11.000, Beta: 1.100

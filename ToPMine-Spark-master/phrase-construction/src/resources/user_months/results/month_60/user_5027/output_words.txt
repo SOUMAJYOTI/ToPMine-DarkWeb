@@ -1,0 +1,61 @@
+Topic 0:
+  opiates:2.08
+  ketamine:2.01
+  author:1.66
+  died:1.43
+  psychedelic:1.16
+  combination:0.92
+  bathtub:0.83
+  life:0.82
+  advise:0.82
+  adding:0.82
+
+Topic 1:
+  opiates:3.09
+  ketamine:2.36
+  mixing:2.28
+  author:1.56
+  died:1.54
+  moore:1.43
+  psychedelic:1.07
+  curious:0.89
+  winter:0.82
+  disaster:0.73
+
+Topic 2:
+  mipt:3.97
+  visuals:1.88
+  benzo:1.88
+  minute:1.88
+  dissassociatives:1.88
+  intense:1.88
+  hours:1.88
+  combo:1.37
+  night:1.30
+  benzos:1.27
+
+Topic 3:
+  bathtub:1.03
+  ketamine:0.96
+  death:0.94
+  caused:0.94
+  mixing:0.86
+  opiates:0.75
+  pcp:0.72
+  oxycodone:0.72
+  kava:0.67
+  case:0.66
+
+Topic 4:
+  meo:2.07
+  oxycodone:1.82
+  pcp:1.77
+  death:1.22
+  caused:1.21
+  doses:1.07
+  good:1.07
+  combination:0.83
+  loss:0.75
+  ghb:0.75
+
+K: 5, Log-Likelihood: -1278.109, Alpha: 11.000, Beta: 1.100

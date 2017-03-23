@@ -1,0 +1,61 @@
+Topic 0:
+  yritt:0.60
+  silkkitie:0.52
+  kun:0.51
+  ja:0.48
+  ett:0.46
+  suomalaiset:0.41
+  jos:0.41
+  toi:0.25
+  tavaroitansa:0.25
+  suomalaisiin:0.25
+
+Topic 1:
+  yritt:0.64
+  silkkitie:0.40
+  toi:0.40
+  soluttautua:0.40
+  kun:0.40
+  jos:0.40
+  meihin:0.40
+  postita:0.40
+  tavaroitansa:0.40
+  suomalaisiin:0.40
+
+Topic 2:
+  bentsomarketuk:0.70
+  suomesta:0.70
+  vaikkei:0.70
+  suomalaisiin:0.70
+  todellakaan:0.70
+  tavaroitansa:0.70
+  meihin:0.69
+  postita:0.69
+  soluttautua:0.69
+  toi:0.69
+
+Topic 3:
+  yritt:0.64
+  toi:0.51
+  soluttautua:0.51
+  postita:0.51
+  meihin:0.51
+  vaikkei:0.51
+  todellakaan:0.51
+  tavaroitansa:0.51
+  suomesta:0.50
+  suomalaisiin:0.50
+
+Topic 4:
+  ett:1.02
+  ja:0.99
+  kun:0.57
+  silkkitie:0.56
+  yritt:0.48
+  jos:0.42
+  suomalaiset:0.42
+  ll:0.40
+  kiitokset:0.40
+  ihmisten:0.40
+
+K: 5, Log-Likelihood: -485.453, Alpha: 11.000, Beta: 1.100

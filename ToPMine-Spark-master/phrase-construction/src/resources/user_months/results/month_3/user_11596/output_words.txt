@@ -1,0 +1,61 @@
+Topic 0:
+  time:4.34
+  safe:3.53
+  wallet:3.15
+  silk:2.55
+  road:2.48
+  quote:1.67
+  people:1.60
+  case:1.46
+  community:1.31
+  site:1.27
+
+Topic 1:
+  scam:5.30
+  read:3.71
+  called:3.48
+  expert:3.42
+  hacked:2.89
+  secure:2.89
+  option:2.89
+  oracle:2.81
+  doxd:2.79
+  deepdotweb:2.79
+
+Topic 2:
+  sr:13.41
+  people:12.45
+  incompetent:9.28
+  dont:9.27
+  correct:8.93
+  thought:8.74
+  funds:7.77
+  user:6.94
+  call:6.93
+  protect:6.89
+
+Topic 3:
+  market:25.92
+  money:15.46
+  marketplace:11.46
+  bmr:9.87
+  february:8.58
+  longest:7.90
+  backopy:6.73
+  thought:6.17
+  didnt:5.93
+  lasting:5.89
+
+Topic 4:
+  community:18.49
+  storage:17.90
+  withdrawals:17.88
+  staff:13.90
+  attack:12.88
+  account:11.95
+  hot:11.91
+  system:11.90
+  attacker:11.88
+  time:10.81
+
+K: 5, Log-Likelihood: -12748.126, Alpha: 11.000, Beta: 1.100

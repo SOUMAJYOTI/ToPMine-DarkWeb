@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:0.90
+  air:0.67
+  post:0.65
+  tabs:0.64
+  depends:0.57
+  letter:0.57
+  portal:0.57
+  mail:0.56
+  customs:0.37
+  clear:0.36
+
+Topic 1:
+  tabs:0.96
+  air:0.62
+  post:0.61
+  customs:0.61
+  office:0.46
+  local:0.42
+  clear:0.42
+  vendor:0.37
+  buy:0.34
+  capital:0.34
+
+Topic 2:
+  vendor:1.10
+  depends:0.79
+  portal:0.79
+  post:0.66
+  air:0.65
+  tabs:0.50
+  customs:0.42
+  clear:0.42
+  local:0.41
+  mail:0.41
+
+Topic 3:
+  dont:1.22
+  pass:1.22
+  send:1.21
+  questions:1.21
+  capital:1.21
+  buy:1.20
+  customs:1.19
+  tabs:0.85
+  south:0.48
+  sea:0.48
+
+Topic 4:
+  tabs:1.04
+  post:0.67
+  air:0.64
+  mail:0.61
+  letter:0.60
+  vendor:0.51
+  office:0.48
+  customs:0.41
+  local:0.33
+  clear:0.33
+
+K: 5, Log-Likelihood: -534.115, Alpha: 11.000, Beta: 1.100

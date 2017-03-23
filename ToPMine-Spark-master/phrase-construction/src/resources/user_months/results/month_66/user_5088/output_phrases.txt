@@ -1,0 +1,61 @@
+Topic 0:
+  hidden service easily pop:5.32
+  places people post links:5.30
+  google:5.29
+  clearnet link leads:5.27
+  matter linking facebook profiles:5.22
+  tor gateway accessible clearnet:5.22
+  onion accessible publicly public:5.16
+  site:4.30
+  clearnet darknet doesn:3.88
+  gammagoblin november:3.67
+
+Topic 1:
+  forum:7.88
+  fourth:3.90
+  wtf:3.90
+  hey:3.90
+  brings:3.90
+  forum google:3.90
+  type:3.90
+  conspicuous:3.90
+  directly:3.90
+  remember:3.90
+
+Topic 2:
+  tor:5.77
+  sites:3.74
+  pmquote:3.74
+  benefit:3.74
+  anonymizing:3.74
+  ip:3.74
+  gammagoblin november pmthere:3.74
+  things:3.74
+  weird semi popular hidden:3.74
+  access:3.73
+
+Topic 3:
+  phishing:4.35
+  phisher:3.89
+  pmgamma:3.89
+  real read:3.89
+  html user:3.89
+  websites:3.89
+  explain forum accessed:3.89
+  countermeasure:3.89
+  copy:3.89
+  scraping:3.89
+
+Topic 4:
+  accessible tor:7.82
+  imposter:3.84
+  difference:3.84
+  notice:3.84
+  links:3.84
+  slight:3.84
+  clearnet link:3.84
+  mod:2.75
+  scarf:2.17
+  weird:1.59
+
+K: 5, Log-Likelihood: -2504.063, Alpha: 11.000, Beta: 1.100

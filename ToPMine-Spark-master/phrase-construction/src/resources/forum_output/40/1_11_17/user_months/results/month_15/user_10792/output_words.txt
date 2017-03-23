@@ -1,0 +1,61 @@
+Topic 0:
+  mac:1.58
+  python:1.26
+  hand:0.67
+  electrum:0.67
+  lend:0.67
+  wallet:0.66
+  excusable:0.64
+  installed:0.61
+  setting:0.44
+  experience:0.44
+
+Topic 1:
+  python:2.13
+  mac:1.22
+  installed:0.91
+  precompiled:0.57
+  binary:0.57
+  thing:0.52
+  entire:0.52
+  electrum:0.51
+  running:0.48
+  hand:0.46
+
+Topic 2:
+  python:1.35
+  mac:1.31
+  installed:1.10
+  risks:0.53
+  security:0.53
+  aware:0.53
+  electrum:0.53
+  good:0.53
+  insulting:0.53
+  gate:0.53
+
+Topic 3:
+  mac:1.60
+  excusable:1.19
+  lend:0.90
+  wallet:0.90
+  hand:0.89
+  electrum:0.73
+  python:0.69
+  luck:0.66
+  set:0.65
+  file:0.65
+
+Topic 4:
+  python:1.56
+  mac:1.29
+  installed:0.96
+  electrum:0.56
+  hand:0.51
+  lend:0.51
+  wallet:0.50
+  real:0.47
+  inteligents:0.47
+  insulting:0.47
+
+K: 5, Log-Likelihood: -515.212, Alpha: 11.000, Beta: 1.100

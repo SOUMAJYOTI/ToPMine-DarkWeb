@@ -1,0 +1,26 @@
+Topic 0:
+  greys:0.00
+  ale:0.00
+  albertheijn:0.00
+
+Topic 1:
+  greys:0.00
+  ale:0.00
+  albertheijn:0.00
+
+Topic 2:
+  greys:0.00
+  ale:0.00
+  albertheijn:0.00
+
+Topic 3:
+  greys:0.00
+  ale:0.00
+  albertheijn:0.00
+
+Topic 4:
+  greys:0.00
+  ale:0.00
+  albertheijn:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

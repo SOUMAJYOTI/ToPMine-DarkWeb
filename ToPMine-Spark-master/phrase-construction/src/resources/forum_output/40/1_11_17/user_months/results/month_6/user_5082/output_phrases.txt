@@ -1,0 +1,61 @@
+Topic 0:
+  pmquote ya april:7.54
+  quote nordicshrooms april:4.79
+  amquote nordicshrooms april:4.30
+  pme pe pd pd:4.27
+  quote ya april:3.81
+  pmwell:3.40
+  bg:3.40
+  april pmquote ya april:3.19
+  play chess:3.12
+  wait:3.12
+
+Topic 1:
+  move:8.73
+  piece:7.95
+  destination square:4.70
+  square:4.02
+  rank:3.83
+  identical pieces:3.32
+  thread:3.25
+  pawns identified uppercase letter:2.93
+  knight move:2.81
+  pawn moves:2.80
+
+Topic 2:
+  standard notation:3.20
+  irc:3.01
+  chat:2.96
+  bit:2.94
+  thing:2.92
+  sort:2.78
+  wouldn:1.74
+  pmcool idea challenge cool:1.18
+  thread:1.17
+  knight move:1.10
+
+Topic 3:
+  frankly:3.53
+  play good:3.53
+  love:3.53
+  idea:3.53
+  april:3.23
+  quote:3.21
+  ami:2.16
+  orderofthephoenix:2.16
+  play:2.16
+  playing:2.16
+
+Topic 4:
+  move:13.09
+  pawn:12.20
+  piece:10.26
+  rank:7.02
+  square:6.82
+  destination square:6.14
+  en passant:5.37
+  squares called:4.99
+  captures piece:4.46
+  move square:4.37
+
+K: 5, Log-Likelihood: -4619.498, Alpha: 11.000, Beta: 1.100

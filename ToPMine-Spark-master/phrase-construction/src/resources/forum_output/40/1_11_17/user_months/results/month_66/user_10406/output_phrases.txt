@@ -1,0 +1,61 @@
+Topic 0:
+  source:4.80
+  runs:4.77
+  dash:4.68
+  concern glad tails:4.62
+  servers connects security:4.62
+  support:4.60
+  safe:4.59
+  quote tambourine december:4.23
+  straight:3.88
+  guys posted:3.73
+
+Topic 1:
+  dice:19.40
+  roll dice:14.54
+  diceware list:14.54
+  security:7.43
+  diceware:7.36
+  download:5.76
+  passphrases:5.65
+  creating:5.65
+  find:5.12
+  save computer:4.83
+
+Topic 2:
+  bridges:10.51
+  bits bits:5.65
+  explain:5.65
+  searching:5.65
+  quantum:5.65
+  keyspace:5.65
+  half:5.65
+  ten diceware:5.65
+  solution:5.65
+  bug:5.62
+
+Topic 3:
+  tails:6.07
+  electrum:6.06
+  affect:5.65
+  trust:5.65
+  nodes:5.65
+  sense:5.65
+  clients:5.65
+  future:5.65
+  encompass:5.65
+  btc:5.65
+
+Topic 4:
+  bits:9.62
+  electrum:7.34
+  tor:7.10
+  tails:6.90
+  tcp:5.60
+  log:5.59
+  upgrade:5.50
+  onion:4.67
+  trezor:4.67
+  works:4.67
+
+K: 5, Log-Likelihood: -10099.578, Alpha: 11.000, Beta: 1.100

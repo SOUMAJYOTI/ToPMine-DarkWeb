@@ -1,0 +1,61 @@
+Topic 0:
+  rates:0.16
+  buy:0.08
+  verified:0.08
+  fast:0.08
+  anonymous:0.08
+  coinbase:0.08
+  completely:0.08
+  imputable:0.08
+  instantly:0.08
+  est:0.08
+
+Topic 1:
+  rates:0.16
+  find:0.08
+  site:0.08
+  deposits:0.08
+  count:0.08
+  cashtocrypto:0.08
+  advertised:0.08
+  em:0.08
+  lower:0.08
+  easy:0.08
+
+Topic 2:
+  rates:0.16
+  cash:0.08
+  est:0.08
+  advertised:0.08
+  easy:0.08
+  pm:0.08
+  site:0.08
+  count:0.08
+  purchase:0.08
+  deposits:0.08
+
+Topic 3:
+  rates:0.16
+  low:0.08
+  find:0.08
+  em:0.08
+  purchase:0.08
+  easy:0.08
+  pm:0.08
+  cash:0.08
+  lower:0.08
+  deposits:0.08
+
+Topic 4:
+  rates:0.16
+  instantly:0.08
+  anonymous:0.08
+  coinbase:0.08
+  cashtocrypto:0.08
+  imputable:0.08
+  completely:0.08
+  purchase:0.08
+  pretty:0.08
+  fast:0.08
+
+K: 5, Log-Likelihood: -32.979, Alpha: 11.000, Beta: 1.100

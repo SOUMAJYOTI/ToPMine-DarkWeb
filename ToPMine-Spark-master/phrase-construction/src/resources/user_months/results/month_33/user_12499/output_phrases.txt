@@ -1,0 +1,61 @@
+Topic 0:
+  tilille:0.70
+  hoiti:0.57
+  kuitenkin:0.57
+  coinit:0.57
+  vaikka:0.57
+  alkuun:0.57
+  tuli:0.57
+  asia:0.57
+  laitampa:0.57
+  ennenkuin:0.57
+
+Topic 1:
+  kun:2.32
+  oikein:2.31
+  facelessin:1.08
+  onion:1.08
+  aiheutti:1.08
+  olla:1.08
+  voisiko:1.08
+  topic:1.08
+  php:1.08
+  nostaa:1.08
+
+Topic 2:
+  rahojen:1.78
+  kapteeni:0.79
+  ja:0.78
+  kuitata:0.74
+  jolla:0.74
+  tarkoittaa:0.74
+  piti:0.74
+  tililleni:0.74
+  toimi:0.74
+  ytt:0.74
+
+Topic 3:
+  osa:2.50
+  siirt:1.04
+  augusta:1.04
+  asiakaspalvelulta:1.03
+  summan:1.03
+  kerralla:1.03
+  koko:1.03
+  tein:1.03
+  pikkusummalla:1.03
+  testisiirron ulosp:1.03
+
+Topic 4:
+  eli:0.48
+  osa:0.46
+  tilille:0.37
+  clos vai:0.35
+  btc:0.35
+  mutta:0.35
+  ei:0.32
+  viestit:0.32
+  kolikkonsa:0.32
+  enp:0.32
+
+K: 5, Log-Likelihood: -1036.398, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  agora toimii:2.29
+  ja:1.77
+  ruin:1.65
+  kasap:1.65
+  voi:1.65
+  kaikki:1.65
+  pelottaa:1.65
+  ps:1.65
+  rekister:1.65
+  sinne:1.65
+
+Topic 1:
+  kuin:3.51
+  toimi:2.37
+  aukeisi:1.72
+  vaikea:1.72
+  ruuhkainen:1.72
+  joko:1.72
+  ik:1.72
+  smitten:1.72
+  joskos:1.72
+  pitk:1.72
+
+Topic 2:
+  online:3.34
+  agorassa:3.34
+  aikaan:3.33
+  toimii:3.31
+  otteeseen:1.60
+  niit:1.60
+  withdrawals:1.60
+  suomen:1.60
+  pel:1.60
+  ainakin:1.60
+
+Topic 3:
+  jos:2.08
+  ainakaan:1.84
+  bitcoinit:1.82
+  hetkell:1.82
+  liiku:1.81
+  agora:1.69
+  tonnia:1.60
+  offline:1.60
+  sekava:1.60
+  miksi:1.60
+
+Topic 4:
+  ja:2.65
+  siell:1.25
+  kin:1.02
+  hieman:0.99
+  ll:0.87
+  siin:0.81
+  riin:0.81
+  kuukauteen:0.81
+  kussut:0.81
+  se:0.65
+
+K: 5, Log-Likelihood: -1882.459, Alpha: 11.000, Beta: 1.100

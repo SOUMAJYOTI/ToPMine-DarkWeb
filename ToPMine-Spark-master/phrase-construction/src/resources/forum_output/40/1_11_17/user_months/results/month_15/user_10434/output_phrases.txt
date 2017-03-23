@@ -1,0 +1,61 @@
+Topic 0:
+  good:0.29
+  forums:0.27
+  vendor:0.27
+  leave:0.27
+  afrikansun:0.27
+  customers:0.27
+  weed:0.23
+  markets:0.17
+  distinctly:0.14
+  short:0.14
+
+Topic 1:
+  afrikansun:0.29
+  customers:0.29
+  forums:0.29
+  leave:0.29
+  vendor:0.29
+  good:0.26
+  weed:0.23
+  markets:0.17
+  feedback:0.14
+  onion:0.14
+
+Topic 2:
+  good:0.28
+  leave:0.27
+  afrikansun:0.27
+  vendor:0.27
+  forums:0.27
+  customers:0.27
+  weed:0.23
+  markets:0.17
+  hardship:0.14
+  high:0.14
+
+Topic 3:
+  vendor:0.28
+  customers:0.28
+  afrikansun:0.28
+  forums:0.28
+  leave:0.28
+  good:0.26
+  weed:0.23
+  markets:0.17
+  live:0.14
+  sr:0.14
+
+Topic 4:
+  good:0.29
+  customers:0.27
+  leave:0.27
+  forums:0.27
+  vendor:0.27
+  afrikansun:0.27
+  weed:0.23
+  markets:0.17
+  skin:0.14
+  stealth:0.14
+
+K: 5, Log-Likelihood: -280.032, Alpha: 11.000, Beta: 1.100

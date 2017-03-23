@@ -1,0 +1,61 @@
+Topic 0:
+  time:1.06
+  savers:1.06
+  socks:0.90
+  return:0.67
+  resolve:0.67
+  tor site:0.67
+  site tor:0.67
+  dont:0.67
+  function:0.67
+  click:0.67
+
+Topic 1:
+  clientapplication:1.70
+  linux:0.79
+  linuxkernel:0.79
+  youhave:0.79
+  commonandroid:0.78
+  undercertain:0.78
+  thisseems:0.78
+  transproxy:0.78
+  rules tcp close:0.78
+  discovered linux kernel:0.78
+
+Topic 2:
+  savers:1.35
+  clientapplication:1.09
+  tor:1.06
+  traffic superior automatically routed:0.82
+  transparent proxying avoided multiple:0.81
+  application tor drop:0.81
+  client basically bug transprots:0.70
+  connection shuts:0.69
+  circuit socksports reason configure:0.66
+  client application:0.66
+
+Topic 3:
+  torsocks:4.44
+  set:2.93
+  internet:2.93
+  transparent proxy:2.93
+  random:2.93
+  wget site:1.53
+  torsocks wget:1.50
+  lieu:1.43
+  visit:1.43
+  dens:1.43
+
+Topic 4:
+  stream isolation:6.16
+  kernel:5.96
+  client application:4.20
+  tor:3.14
+  multiply tor:3.01
+  isolation:3.00
+  guards:2.82
+  multiply entry:2.82
+  transparent proxying:1.88
+  applications containers:1.86
+
+K: 5, Log-Likelihood: -2061.997, Alpha: 11.000, Beta: 1.100

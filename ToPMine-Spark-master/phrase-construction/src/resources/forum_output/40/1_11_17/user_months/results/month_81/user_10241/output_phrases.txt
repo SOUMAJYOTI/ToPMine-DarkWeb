@@ -1,0 +1,61 @@
+Topic 0:
+  ceo:5.82
+  death:5.82
+  teach:3.87
+  dead:3.87
+  radtkes:3.87
+  bitcoin exchange:3.87
+  autumn radtke:3.87
+  saddened:3.87
+  mt:3.87
+  news:3.87
+
+Topic 1:
+  thing:3.85
+  farm:3.85
+  created:2.77
+  guy:2.27
+  shit:1.91
+  mind:1.91
+  tek:1.91
+  market:1.91
+  tetris:1.91
+  drug:1.91
+
+Topic 2:
+  incorporate:7.76
+  feeling:3.87
+  office:3.87
+  tax:3.87
+  ato:3.87
+  tax avoidance:3.87
+  knock:2.88
+  operation:2.88
+  simple:2.88
+  door:2.88
+
+Topic 3:
+  bitcoin:8.93
+  nakamoto:7.65
+  code:5.81
+  man:5.81
+  story:5.81
+  newsweek:5.81
+  called:5.81
+  satoshi nakamoto:4.65
+  year:4.56
+  role:3.87
+
+Topic 4:
+  published:9.67
+  wright:7.72
+  wired:5.78
+  launch:4.56
+  nakamoto:4.13
+  public:3.84
+  posts:3.84
+  cryptocurrency:3.84
+  key:3.84
+  pip:3.83
+
+K: 5, Log-Likelihood: -7551.124, Alpha: 11.000, Beta: 1.100

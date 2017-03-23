@@ -1,0 +1,61 @@
+Topic 0:
+  dardush:3.54
+  uneasy:1.82
+  transaction:1.81
+  north:1.80
+  making:1.80
+  wondering:1.78
+  reports:1.77
+  imputable:1.68
+  january:1.68
+  nice:1.68
+
+Topic 1:
+  waiting:2.27
+  sinking:2.26
+  deposits:2.26
+  scammed:2.26
+  kinda:2.25
+  gettin:2.25
+  direct:2.25
+  link:2.24
+  carders:1.74
+  correct:1.73
+
+Topic 2:
+  order:3.70
+  thatdhl:2.71
+  reccomendations:2.71
+  good:2.71
+  password:2.71
+  yesterday:2.71
+  vendors good:2.71
+  haven:2.71
+  problems:2.71
+  isnt:2.71
+
+Topic 3:
+  scam:1.89
+  ab:1.87
+  markets:1.55
+  lost:1.12
+  market:1.10
+  mods ab:0.92
+  dirty:0.91
+  steal:0.85
+  invitation:0.82
+  coins:0.78
+
+Topic 4:
+  vendor:5.49
+  money:5.49
+  people:5.48
+  markets:5.08
+  stolen:2.59
+  evident:2.59
+  limbo:2.59
+  scamming:2.59
+  send:2.59
+  day:2.59
+
+K: 5, Log-Likelihood: -1418.173, Alpha: 11.000, Beta: 1.100

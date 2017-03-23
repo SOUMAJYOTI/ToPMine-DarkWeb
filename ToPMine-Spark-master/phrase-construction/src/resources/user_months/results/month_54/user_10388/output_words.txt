@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:2.74
+  signature:2.16
+  good:1.78
+  change:1.74
+  surprised:1.70
+  thread:1.54
+  message:1.47
+  listings:1.39
+  monster:1.35
+  people:1.35
+
+Topic 1:
+  market:18.98
+  road:12.98
+  posts:8.87
+  nucleus:8.77
+  google:7.35
+  august:6.35
+  silk:5.98
+  steps:5.70
+  site:5.70
+  black:4.98
+
+Topic 2:
+  quote:7.39
+  search:4.95
+  onion:4.63
+  link:4.58
+  good:3.92
+  txt:3.68
+  google:3.42
+  crawler:2.69
+  engines:2.69
+  september:2.65
+
+Topic 3:
+  pgp:5.21
+  signature:4.92
+  message:2.39
+  oxymonster:2.09
+  sha:2.08
+  gnupg:2.08
+  mp:2.08
+  version:2.08
+  hash:2.08
+  signed:2.08
+
+Topic 4:
+  ad:6.31
+  return:5.96
+  bd:5.96
+  cd:5.96
+  laboliviana:5.96
+  ee:5.96
+  service:5.84
+  fe:5.62
+  fa:3.96
+  ac:3.96
+
+K: 5, Log-Likelihood: -7685.028, Alpha: 11.000, Beta: 1.100

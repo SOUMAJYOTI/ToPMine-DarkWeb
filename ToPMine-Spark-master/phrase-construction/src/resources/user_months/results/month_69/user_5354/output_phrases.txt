@@ -1,0 +1,61 @@
+Topic 0:
+  super:0.60
+  test:0.59
+  control:0.54
+  great:0.42
+  fully:0.38
+  bought:0.38
+  energy:0.38
+  reimbursed:0.38
+  putting:0.37
+  moving:0.37
+
+Topic 1:
+  wallet:2.32
+  bond:2.32
+  ticket market:2.32
+  lock:2.32
+  deposit buy:1.08
+  activity:1.08
+  message:1.08
+  vendors:1.08
+  couple vendors:1.08
+  bow:1.08
+
+Topic 2:
+  super:2.88
+  great:0.88
+  idk:0.78
+  word:0.78
+  gg:0.78
+  coin:0.78
+  lotto:0.78
+  spending:0.78
+  didnt:0.78
+  bunch:0.78
+
+Topic 3:
+  tests:2.32
+  tickets:2.32
+  awareness:2.32
+  raffle:2.32
+  drugs:1.08
+  onion:1.08
+  major:1.08
+  pelican:1.08
+  streets:1.08
+  main:1.08
+
+Topic 4:
+  control:0.68
+  reimbursed:0.56
+  energy:0.56
+  bought:0.56
+  fully:0.56
+  test:0.50
+  ticket:0.41
+  basis:0.39
+  moving:0.39
+  quality:0.39
+
+K: 5, Log-Likelihood: -853.500, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:27.90
+  blockchain:11.13
+  online:9.40
+  paul:8.05
+  safety:7.36
+  november:6.79
+  question:6.38
+  pinto:6.03
+  good:5.18
+  dont:4.76
+
+Topic 1:
+  transfer:13.13
+  buy:8.48
+  wallet:8.41
+  bank:8.20
+  good:6.13
+  browser:5.15
+  bitin:5.11
+  tor:4.99
+  account:4.60
+  localbitcoins:4.23
+
+Topic 2:
+  cash:13.70
+  dont:11.55
+  account:10.13
+  bofa:9.23
+  downloaded:8.18
+  deposit:8.05
+  btc:7.60
+  november:6.77
+  paul:6.74
+  tails:5.12
+
+Topic 3:
+  tor:10.54
+  account:8.97
+  wallet:6.86
+  buy:4.66
+  pack:4.16
+  ordering:3.34
+  transfer:3.08
+  deposit:2.87
+  paranoid:2.60
+  plan:2.55
+
+Topic 4:
+  tor:10.98
+  coinbase:10.96
+  bitcoins:8.14
+  buy:7.70
+  coins:7.28
+  feel:6.51
+  confused:5.92
+  chrome:5.92
+  bit:4.69
+  helix:3.88
+
+K: 5, Log-Likelihood: -5262.717, Alpha: 11.000, Beta: 1.100

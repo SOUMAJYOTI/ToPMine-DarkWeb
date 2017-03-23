@@ -1,0 +1,61 @@
+Topic 0:
+  dream:5.59
+  hub:5.37
+  operating:2.34
+  threads:2.30
+  longest:2.26
+  market:2.16
+  list:2.06
+  links:1.89
+  signup:1.76
+  eliminate:1.76
+
+Topic 1:
+  btc:6.65
+  coins:2.95
+  order:2.62
+  users:2.03
+  true:1.95
+  spam:1.95
+  withdrew:1.95
+  measures:1.95
+  system:1.95
+  attackers:1.95
+
+Topic 2:
+  invite:15.39
+  link:14.71
+  referred:8.15
+  darknet:5.13
+  love:4.90
+  avengers:3.90
+  abraxas:2.63
+  longest:2.48
+  running:2.37
+  dream:2.31
+
+Topic 3:
+  forum:3.41
+  btc:3.23
+  forums:3.03
+  post:2.99
+  url:2.93
+  mixers:2.89
+  users:2.85
+  mixer:1.93
+  reading:1.89
+  phishing:1.88
+
+Topic 4:
+  time:21.64
+  market:16.78
+  link:10.43
+  join:5.52
+  uptime:3.93
+  required:3.93
+  referred:3.70
+  markets:2.71
+  abraham:1.93
+  list:1.64
+
+K: 5, Log-Likelihood: -2509.013, Alpha: 11.000, Beta: 1.100

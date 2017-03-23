@@ -1,0 +1,61 @@
+Topic 0:
+  alpha bay:0.57
+  order:0.57
+  fine:0.56
+  fucked nucleus:0.28
+  site:0.28
+  refresh:0.28
+  process:0.28
+  button:0.28
+  search:0.28
+  del:0.28
+
+Topic 1:
+  order:0.56
+  alpha bay:0.55
+  fine:0.54
+  dreadheasdzilla:0.28
+  screen:0.28
+  snowden:0.28
+  sites:0.28
+  backup:0.28
+  fucked:0.28
+  speaking:0.28
+
+Topic 2:
+  alpha bay:0.56
+  fine:0.56
+  order:0.55
+  fucked nucleus:0.28
+  ordering:0.28
+  site:0.28
+  impressed:0.28
+  interface:0.28
+  ships:0.28
+  speaking:0.28
+
+Topic 3:
+  fine:0.57
+  alpha bay:0.56
+  order:0.55
+  hack:0.28
+  vendor:0.28
+  bug:0.28
+  bad:0.28
+  foreign:0.28
+  backup:0.28
+  processes:0.28
+
+Topic 4:
+  fine:0.55
+  order:0.54
+  alpha bay:0.54
+  marketplaces:0.29
+  st:0.29
+  expand:0.29
+  middleearth:0.29
+  nucleus:0.29
+  cheers:0.29
+  reasearch:0.29
+
+K: 5, Log-Likelihood: -432.523, Alpha: 11.000, Beta: 1.100

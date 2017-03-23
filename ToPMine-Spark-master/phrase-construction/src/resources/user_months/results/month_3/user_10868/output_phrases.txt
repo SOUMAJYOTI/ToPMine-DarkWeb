@@ -1,0 +1,61 @@
+Topic 0:
+  agora:8.10
+  market:7.22
+  accounts:7.22
+  bad:6.22
+  working:5.63
+  site:5.63
+  vendors:4.78
+  kinda:4.78
+  comprised:4.78
+  load:4.78
+
+Topic 1:
+  messages:7.12
+  logged:5.81
+  times:4.76
+  long:4.65
+  fine:4.24
+  sign:2.76
+  overloaded:2.76
+  stands:2.76
+  union:2.76
+  worst:2.76
+
+Topic 2:
+  ip torbrowser:9.58
+  real:9.07
+  ip:7.90
+  ip address:5.88
+  computer:5.62
+  list:4.80
+  hub:4.80
+  edit:4.80
+  hub posts:4.74
+  private address post:4.74
+
+Topic 3:
+  private address:7.19
+  service:5.60
+  hidden:5.60
+  space:5.55
+  addressing:4.77
+  experiencing:4.72
+  attack:4.25
+  log:3.57
+  internal:3.34
+  telling:3.27
+
+Topic 4:
+  link:8.22
+  time:7.27
+  early:5.62
+  log:4.86
+  hrs:4.74
+  good:4.74
+  thoughts:4.74
+  thought:4.74
+  moment:4.74
+  quietest:4.74
+
+K: 5, Log-Likelihood: -6070.418, Alpha: 11.000, Beta: 1.100

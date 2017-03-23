@@ -1,0 +1,61 @@
+Topic 0:
+  offering:0.16
+  site:0.16
+  link:0.08
+  started:0.08
+  learned:0.08
+  feathercoin:0.08
+  fedoracoin:0.08
+  require:0.08
+  tiered:0.08
+  cryptocoins:0.08
+
+Topic 1:
+  offering:0.16
+  site:0.16
+  grow:0.08
+  reward:0.08
+  awareness:0.08
+  ami:0.08
+  strategies:0.08
+  intro:0.08
+  bitin:0.08
+  altcoin:0.08
+
+Topic 2:
+  offering:0.16
+  site:0.16
+  mlm:0.08
+  march:0.08
+  intro:0.08
+  grow:0.08
+  altcoin:0.08
+  reward:0.08
+  strategies:0.08
+  bitin:0.08
+
+Topic 3:
+  site:0.16
+  offering:0.16
+  bitcoin:0.08
+  including:0.08
+  learned:0.08
+  started:0.08
+  feathercoin:0.08
+  warn:0.08
+  earthcoin:0.08
+  infinitecoin:0.08
+
+Topic 4:
+  site:0.16
+  offering:0.16
+  functions:0.08
+  tiered:0.08
+  free:0.08
+  litecoin:0.08
+  cryptocoins:0.08
+  link:0.08
+  including:0.08
+  referrals:0.08
+
+K: 5, Log-Likelihood: -59.886, Alpha: 11.000, Beta: 1.100

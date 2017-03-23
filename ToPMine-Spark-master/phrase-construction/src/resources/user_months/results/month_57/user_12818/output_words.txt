@@ -1,0 +1,61 @@
+Topic 0:
+  marketplaces:0.61
+  kids:0.41
+  masses:0.41
+  vendors:0.41
+  future:0.41
+  sheep:0.41
+  teaching:0.41
+  nucleus:0.36
+  exchange:0.20
+  website:0.20
+
+Topic 1:
+  marketplaces:0.57
+  nucleus:0.50
+  kids:0.38
+  teaching:0.38
+  future:0.38
+  sheep:0.38
+  masses:0.38
+  vendors:0.38
+  community:0.22
+  ve:0.22
+
+Topic 2:
+  marketplaces:0.61
+  vendors:0.40
+  sheep:0.40
+  kids:0.40
+  teaching:0.40
+  masses:0.40
+  nucleus:0.40
+  future:0.40
+  link:0.20
+  forum:0.20
+
+Topic 3:
+  marketplaces:0.59
+  masses:0.41
+  future:0.41
+  sheep:0.41
+  teaching:0.41
+  vendors:0.41
+  kids:0.40
+  nucleus:0.37
+  security:0.20
+  dnm:0.20
+
+Topic 4:
+  marketplaces:0.62
+  future:0.40
+  vendors:0.40
+  masses:0.40
+  teaching:0.40
+  sheep:0.40
+  kids:0.40
+  nucleus:0.38
+  ui:0.20
+  corralling:0.20
+
+K: 5, Log-Likelihood: -481.577, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.24
+  vending:0.16
+  sounds:0.08
+  quote:0.08
+  february:0.08
+  themarketplace:0.08
+  ambecome:0.08
+  sheep:0.08
+  high:0.08
+  survived:0.08
+
+Topic 1:
+  sr:0.24
+  vending:0.16
+  kp:0.08
+  quality:0.08
+  markets:0.08
+  high:0.08
+  days:0.08
+  bond:0.08
+  charging:0.08
+  ideally:0.08
+
+Topic 2:
+  sr:0.24
+  vending:0.16
+  customers:0.08
+  profile:0.08
+  viewable:0.08
+  outdoor:0.08
+  edibles:0.08
+  damage:0.08
+  specialize:0.08
+  hub:0.08
+
+Topic 3:
+  sr:0.24
+  vending:0.16
+  themarketplace:0.08
+  february:0.08
+  sounds:0.08
+  ambecome:0.08
+  quote:0.08
+  school:0.08
+  burned:0.08
+  bond:0.08
+
+Topic 4:
+  sr:0.24
+  vending:0.16
+  ambecome:0.08
+  february:0.08
+  sounds:0.08
+  themarketplace:0.08
+  quote:0.08
+  viewable:0.08
+  collective:0.08
+  suggestions:0.08
+
+K: 5, Log-Likelihood: -81.738, Alpha: 11.000, Beta: 1.100

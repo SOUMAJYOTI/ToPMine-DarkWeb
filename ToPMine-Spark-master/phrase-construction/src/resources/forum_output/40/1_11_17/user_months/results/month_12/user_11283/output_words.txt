@@ -1,0 +1,61 @@
+Topic 0:
+  time:0.70
+  news:0.50
+  bud:0.46
+  green:0.41
+  machine:0.41
+  good:0.30
+  bad:0.30
+  long:0.23
+  scam:0.23
+  markets:0.23
+
+Topic 1:
+  news:0.69
+  time:0.52
+  green:0.41
+  machine:0.41
+  bad:0.38
+  good:0.38
+  bud:0.35
+  guy:0.20
+  dont:0.20
+  payment:0.20
+
+Topic 2:
+  news:1.88
+  bad:0.76
+  good:0.76
+  machine:0.36
+  green:0.36
+  fine:0.32
+  pathetic:0.32
+  market:0.32
+  attempted:0.32
+  accused:0.32
+
+Topic 3:
+  news:0.61
+  time:0.61
+  green:0.41
+  machine:0.41
+  bud:0.40
+  bad:0.34
+  good:0.34
+  claimed:0.21
+  established:0.21
+  purchase:0.21
+
+Topic 4:
+  time:0.98
+  bud:0.63
+  machine:0.41
+  green:0.41
+  news:0.31
+  listed:0.28
+  trust:0.28
+  pretty:0.28
+  making:0.28
+  damn:0.28
+
+K: 5, Log-Likelihood: -285.144, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  alice:0.41
+  system:0.41
+  escrow:0.41
+  money:0.40
+  xdthink:0.20
+  admin:0.20
+  transfer:0.20
+  job:0.20
+  chance:0.20
+  thisyou:0.20
+
+Topic 1:
+  escrow:0.41
+  system:0.40
+  money:0.40
+  alice:0.40
+  confirm:0.20
+  fuck:0.20
+  vendor:0.20
+  clientsso:0.20
+  chance:0.20
+  thisyou:0.20
+
+Topic 2:
+  money:0.40
+  alice:0.39
+  system:0.39
+  escrow:0.38
+  guysas:0.20
+  pandoras:0.20
+  tickets:0.20
+  disappear:0.20
+  reading:0.20
+  guys:0.20
+
+Topic 3:
+  escrow:0.41
+  alice:0.41
+  system:0.40
+  money:0.40
+  transfer:0.20
+  btc:0.20
+  xdthink:0.20
+  clientsso:0.20
+  admin:0.20
+  job:0.20
+
+Topic 4:
+  money:0.40
+  system:0.40
+  alice:0.40
+  escrow:0.40
+  tickets:0.20
+  people:0.20
+  time:0.20
+  forumseems:0.20
+  reading:0.20
+  guys:0.20
+
+K: 5, Log-Likelihood: -132.783, Alpha: 11.000, Beta: 1.100

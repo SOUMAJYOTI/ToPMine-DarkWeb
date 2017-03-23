@@ -1,0 +1,13 @@
+signature,0,1
+bottom,1,2
+profile,2,3
+link,3,3
+profiles,4,2
+posts,5,2
+ve,6,1
+advance,7,2
+forum,8,1
+modify,9,1
+post,10,1
+pgp,11,2
+key,12,2

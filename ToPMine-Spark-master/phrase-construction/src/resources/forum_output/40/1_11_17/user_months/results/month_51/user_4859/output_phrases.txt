@@ -1,0 +1,61 @@
+Topic 0:
+  postage:0.91
+  printing:0.89
+  anonymous:0.80
+  business:0.79
+  professional:0.79
+  possiblecheers:0.79
+  efficient:0.79
+  st:0.66
+  nao:0.58
+  stamps:0.56
+
+Topic 1:
+  trouble:3.87
+  email:3.86
+  buisness:1.72
+  discuss:1.72
+  lelantos:1.72
+  fantasticcheers:1.72
+  starting:1.72
+  patch:1.72
+  security:1.72
+  decided:1.72
+
+Topic 2:
+  stamps:2.29
+  peoples databases:1.36
+  post offices:0.90
+  worth:0.73
+  spread:0.72
+  prepaid:0.72
+  thatd:0.72
+  data:0.72
+  opinion:0.71
+  counterfeit:0.71
+
+Topic 3:
+  today:2.70
+  cheers:1.52
+  hope:1.22
+  load:1.22
+  troubles:1.22
+  captcha:1.22
+  site:1.22
+  earlier:1.22
+  agora:1.09
+  st:0.80
+
+Topic 4:
+  stamps:5.74
+  peoples databases:2.40
+  post offices:1.90
+  multiply:1.05
+  buying:1.05
+  setting:1.05
+  printer print:1.04
+  gamesome:1.04
+  marketing:1.03
+  bought:1.03
+
+K: 5, Log-Likelihood: -863.076, Alpha: 11.000, Beta: 1.100

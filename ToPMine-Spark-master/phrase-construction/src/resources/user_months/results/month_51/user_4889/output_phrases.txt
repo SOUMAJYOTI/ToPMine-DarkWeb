@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:6.73
+  deterministic wallet:5.44
+  chem:4.48
+  proved:3.57
+  availability:3.57
+  easier:3.56
+  routes:3.56
+  heard:3.56
+  alternative:3.55
+  projects:3.55
+
+Topic 1:
+  pressure cooker:25.82
+  mycelium:18.44
+  seed culture:14.74
+  small:14.74
+  jars:11.05
+  quart jars:11.05
+  fine:11.05
+  hole:11.05
+  carboy:11.05
+  production medium:11.05
+
+Topic 2:
+  online computer:11.93
+  blockchain info:11.59
+  brainwallet org:10.45
+  text box:9.50
+  wallet:9.37
+  public key:9.05
+  blockchain:7.08
+  official bitcoin protocol:7.03
+  wallet public key:6.69
+  avoid risks:6.55
+
+Topic 3:
+  wallet private key:8.44
+  seed deterministic move coins:7.74
+  seed work strong passphrase:7.74
+  guess passpharses phrase song:7.74
+  seed people constantly:7.74
+  random wallet generator:7.36
+  quote orderofthephoenix pmis brainwallet:7.36
+  wallet file:7.36
+  password:7.36
+  strong passphrase:7.36
+
+Topic 4:
+  bitcoins:7.86
+  bitcoin wallet:7.33
+  private key:5.10
+  long term:5.07
+  coins lost:3.67
+  step:3.64
+  chance:3.64
+  electrum seed:3.64
+  careful:3.64
+  leftover:3.64
+
+K: 5, Log-Likelihood: -28480.335, Alpha: 11.000, Beta: 1.100

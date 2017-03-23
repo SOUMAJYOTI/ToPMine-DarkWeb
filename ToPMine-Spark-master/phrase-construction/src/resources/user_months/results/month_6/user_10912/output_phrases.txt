@@ -1,0 +1,61 @@
+Topic 0:
+  paid:3.63
+  nope:3.42
+  repaid:2.73
+  buyer:2.62
+  dont:2.52
+  small amount:2.47
+  camel:2.21
+  mar:2.21
+  yep:2.21
+  hangn:2.21
+
+Topic 1:
+  community:11.39
+  expected announcement:7.55
+  half weekend:4.48
+  assume:3.72
+  person:3.72
+  spoken:3.72
+  published:3.72
+  admin:3.72
+  announcement place:3.72
+  speak:3.72
+
+Topic 2:
+  marked shipped:7.00
+  escrow:4.65
+  pending balance:4.38
+  hasnt:3.73
+  receiving:3.73
+  balance pending balance:3.65
+  finalized:3.64
+  isnt:2.30
+  automatically:2.30
+  funds:2.30
+
+Topic 3:
+  half weekend:5.34
+  situation couple days:3.75
+  admin preparing status update:3.67
+  add:2.94
+  quote blueskiesredeyes march:2.81
+  details:2.53
+  quote:2.09
+  full:2.04
+  add clarity situation:2.03
+  passed guess itll days:1.97
+
+Topic 4:
+  money:5.52
+  havent:4.64
+  sr:4.34
+  purchase:3.24
+  fuck:2.29
+  scum:2.29
+  fuckwit:2.29
+  satoshi:2.29
+  jacked:2.29
+  perving:2.29
+
+K: 5, Log-Likelihood: -3480.872, Alpha: 11.000, Beta: 1.100

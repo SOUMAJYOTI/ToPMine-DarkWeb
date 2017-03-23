@@ -1,0 +1,61 @@
+Topic 0:
+  coins:0.40
+  stolen:0.40
+  banned:0.40
+  account:0.40
+  btc:0.20
+  deposit:0.20
+  lesson:0.20
+  slows:0.20
+  reckless:0.20
+  unanswered:0.20
+
+Topic 1:
+  coins:0.40
+  banned:0.40
+  stolen:0.40
+  account:0.40
+  mentioned:0.20
+  tickets:0.20
+  point:0.20
+  learn:0.20
+  delete:0.20
+  dr:0.20
+
+Topic 2:
+  banned:0.40
+  account:0.40
+  stolen:0.40
+  coins:0.40
+  pmhaha:0.20
+  sryah:0.20
+  point:0.20
+  delete:0.20
+  quote:0.20
+  missing:0.20
+
+Topic 3:
+  coins:0.40
+  account:0.40
+  banned:0.40
+  stolen:0.40
+  posts:0.20
+  arctic:0.20
+  finally:0.20
+  learn:0.20
+  list:0.20
+  quote:0.20
+
+Topic 4:
+  account:0.40
+  stolen:0.40
+  banned:0.40
+  coins:0.40
+  slows:0.20
+  hub:0.20
+  unanswered:0.20
+  reckless:0.20
+  list:0.20
+  support:0.20
+
+K: 5, Log-Likelihood: -123.561, Alpha: 11.000, Beta: 1.100

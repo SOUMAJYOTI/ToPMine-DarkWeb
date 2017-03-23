@@ -1,0 +1,61 @@
+Topic 0:
+  towers:0.69
+  cloud:0.59
+  signal:0.59
+  work:0.55
+  phone:0.51
+  phones:0.49
+  cellphones:0.45
+  youve:0.45
+  location:0.45
+  data:0.44
+
+Topic 1:
+  signal:2.19
+  cloud:2.18
+  towers:2.07
+  strength:1.36
+  period:1.35
+  pass:1.35
+  cellar:1.35
+  neatly:1.35
+  range:1.35
+  cell:1.34
+
+Topic 2:
+  encrusted phone:1.96
+  smart:1.74
+  phone:0.84
+  complicated:0.77
+  kind:0.77
+  good idea:0.77
+  acquire:0.77
+  people:0.77
+  thought:0.77
+  dump:0.77
+
+Topic 3:
+  vpn:1.45
+  sim:1.43
+  rooted:1.42
+  tor:1.40
+  smartphone:0.94
+  burner phone:0.69
+  naked:0.65
+  irl:0.65
+  traffic:0.65
+  opinionyou:0.65
+
+Topic 4:
+  work:0.53
+  phone:0.53
+  phones:0.46
+  towers:0.45
+  cloud:0.44
+  signal:0.43
+  idea:0.39
+  data:0.35
+  youve:0.34
+  day:0.34
+
+K: 5, Log-Likelihood: -993.727, Alpha: 11.000, Beta: 1.100

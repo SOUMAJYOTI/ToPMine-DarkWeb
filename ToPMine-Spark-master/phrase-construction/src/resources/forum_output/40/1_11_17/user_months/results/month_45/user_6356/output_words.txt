@@ -1,0 +1,61 @@
+Topic 0:
+  ross:1.33
+  stole:1.18
+  agents:1.14
+  biggest:0.78
+  free:0.68
+  highly:0.51
+  ticket:0.50
+  problem:0.50
+  trouble:0.50
+  doubt:0.50
+
+Topic 1:
+  ross:1.20
+  agents:1.03
+  stole:1.02
+  biggest:0.79
+  free:0.67
+  bitcoins:0.47
+  doubt:0.46
+  trouble:0.46
+  innocent:0.46
+  love:0.46
+
+Topic 2:
+  biggest:0.85
+  ross:0.82
+  stole:0.56
+  agents:0.54
+  free:0.54
+  drug:0.50
+  thoughts:0.50
+  long:0.50
+  history:0.50
+  greed:0.50
+
+Topic 3:
+  biggest:0.83
+  ross:0.66
+  arm:0.54
+  history:0.53
+  law:0.53
+  busts:0.53
+  greed:0.53
+  long:0.53
+  thoughts:0.53
+  fucks:0.53
+
+Topic 4:
+  ross:0.98
+  agents:0.79
+  biggest:0.75
+  stole:0.74
+  free:0.62
+  dirty:0.46
+  jail:0.41
+  golden:0.40
+  innocent:0.40
+  bitcoins:0.40
+
+K: 5, Log-Likelihood: -357.304, Alpha: 11.000, Beta: 1.100

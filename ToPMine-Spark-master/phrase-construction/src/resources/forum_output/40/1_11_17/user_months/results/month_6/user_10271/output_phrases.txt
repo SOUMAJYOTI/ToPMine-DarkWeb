@@ -1,0 +1,61 @@
+Topic 0:
+  scamming:3.12
+  govts:2.98
+  pmagora:2.98
+  paranoia:2.98
+  hackers:2.98
+  le:2.98
+  shutdown:2.98
+  dos:2.98
+  days:2.98
+  outages:2.98
+
+Topic 1:
+  thread:4.58
+  troll:4.35
+  stench bs coming incredible:3.03
+  quote sorrymario march:2.41
+  agra:2.33
+  missing money:2.33
+  reassured:1.88
+  threads:1.88
+  laundering:1.88
+  reddit:1.88
+
+Topic 2:
+  report:1.83
+  rocks:1.83
+  money agora:1.83
+  newbies:1.83
+  panic:1.83
+  reports:1.83
+  deposits:1.83
+  impatient:1.83
+  break:1.75
+  bad:1.75
+
+Topic 3:
+  fucking idiots:6.05
+  scam:3.01
+  responding:2.97
+  sales:2.97
+  isnt scamming:2.97
+  lying:2.97
+  bitcoin:2.97
+  claiming:2.97
+  read:2.97
+  harm:2.97
+
+Topic 4:
+  agora:3.89
+  scammed:3.24
+  ordered:2.95
+  money faster:2.95
+  account:2.95
+  suspect:2.95
+  withdraws:2.95
+  fact:2.95
+  problems:2.95
+  compared:2.95
+
+K: 5, Log-Likelihood: -2908.468, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  require:1.05
+  localbitcoins:0.65
+  buy:0.64
+  sales:0.64
+  reach:0.63
+  euros:0.63
+  therocktrading:0.63
+  place:0.59
+  paranoid:0.58
+  bitcoinfog:0.58
+
+Topic 1:
+  localbitcoins:1.12
+  buy:1.05
+  misunderstand:0.99
+  helps:0.99
+  info:0.99
+  hope:0.98
+  bet:0.98
+  europe:0.98
+  register:0.98
+  dont:0.97
+
+Topic 2:
+  require:0.80
+  shifting:0.78
+  tradehill:0.77
+  security:0.77
+  buy:0.76
+  guess:0.76
+  tightened:0.76
+  linen:0.76
+  rocktrading:0.75
+  busy:0.68
+
+Topic 3:
+  work:4.63
+  btc:3.02
+  pretty:3.01
+  amount:3.01
+  sell:3.00
+  moneypacktrader:1.35
+  pay:1.35
+  ensure:1.35
+  drpsychedelic:1.35
+  fairly:1.35
+
+Topic 4:
+  bla bla:2.01
+  pre:2.01
+  bitcoins:2.01
+  papers:2.01
+  offers localbitcoins:2.01
+  alot:2.00
+  cards:2.00
+  questions:2.00
+  bitstamp:2.00
+  charge:2.00
+
+K: 5, Log-Likelihood: -779.071, Alpha: 11.000, Beta: 1.100

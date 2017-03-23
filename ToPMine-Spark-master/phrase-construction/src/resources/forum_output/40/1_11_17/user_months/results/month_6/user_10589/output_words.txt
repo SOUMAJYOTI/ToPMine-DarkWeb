@@ -1,0 +1,61 @@
+Topic 0:
+  mail:27.57
+  safe:23.51
+  israel:21.26
+  net:17.84
+  government:11.54
+  february:11.23
+  thread:9.85
+  quote:8.57
+  address:7.83
+  openmailbox:7.66
+
+Topic 1:
+  bitcoin:26.31
+  service:10.07
+  account:8.19
+  tails:7.83
+  grams:6.88
+  good:6.14
+  buy:6.09
+  local:4.21
+  usb:4.18
+  coinbase:3.96
+
+Topic 2:
+  mail:67.86
+  email:55.60
+  service:25.89
+  free:19.78
+  access:17.01
+  tor:16.31
+  lelantos:13.83
+  server:13.00
+  privacy:10.31
+  metadata:9.35
+
+Topic 3:
+  coins:25.34
+  purchase:24.73
+  person:14.58
+  cash:14.39
+  money:13.80
+  wallet:12.95
+  images:11.96
+  location:10.91
+  btc:10.74
+  card:10.71
+
+Topic 4:
+  safe:23.06
+  april:19.00
+  pgp:17.39
+  mail:16.07
+  quote:15.97
+  tor:15.24
+  email:12.06
+  point:9.42
+  metadata:9.02
+  encrypt:7.51
+
+K: 5, Log-Likelihood: -19534.602, Alpha: 11.000, Beta: 1.100

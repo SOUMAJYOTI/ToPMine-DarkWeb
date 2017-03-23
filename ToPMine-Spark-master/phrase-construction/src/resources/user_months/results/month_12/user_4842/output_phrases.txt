@@ -1,0 +1,61 @@
+Topic 0:
+  openssl:0.63
+  change:0.55
+  private key:0.47
+  unaffected:0.31
+  tmg:0.31
+  hassle:0.31
+  people:0.31
+  start:0.31
+  darknet:0.31
+  sign:0.31
+
+Topic 1:
+  openssl:1.39
+  private key:0.76
+  opens:0.34
+  hack:0.34
+  locations:0.34
+  pre:0.34
+  safe:0.34
+  bug:0.34
+  service:0.34
+  connect:0.34
+
+Topic 2:
+  openssl:0.76
+  private key:0.54
+  change:0.41
+  signed:0.28
+  domain:0.28
+  ssl imagine:0.28
+  sign:0.28
+  hard:0.28
+  darknet:0.28
+  yelling:0.28
+
+Topic 3:
+  openssl:0.56
+  change:0.54
+  private key:0.45
+  browsers:0.34
+  sites:0.34
+  yelling:0.34
+  hard:0.34
+  onion:0.34
+  imagine:0.34
+  hassle:0.34
+
+Topic 4:
+  openssl:0.82
+  private key:0.57
+  change:0.40
+  tor problem:0.28
+  work:0.28
+  relay:0.28
+  connection:0.28
+  compromised:0.28
+  key:0.28
+  tor:0.28
+
+K: 5, Log-Likelihood: -458.409, Alpha: 11.000, Beta: 1.100

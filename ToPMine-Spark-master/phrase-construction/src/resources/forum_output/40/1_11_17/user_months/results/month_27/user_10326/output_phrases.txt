@@ -1,0 +1,61 @@
+Topic 0:
+  tested:18.00
+  virtual isolation applications:15.75
+  full disk encryption:13.50
+  disadvantages physical isolation:13.50
+  virtual isolation:13.50
+  membership concealment:13.50
+  windows:13.50
+  encryption:13.50
+  os advantages:11.25
+  intrusted code:11.25
+
+Topic 1:
+  writeprints:9.54
+  feature sets:7.48
+  discusses:6.75
+  modify writing style:6.75
+  support vector machine:6.74
+  coins:6.73
+  bitcoin blender:6.73
+  feature set:6.28
+  service:5.55
+  adversaries stylometry:5.03
+
+Topic 2:
+  participants:9.46
+  road:6.75
+  adversaries passages:6.22
+  author:5.50
+  study:5.50
+  writing style:5.30
+  juola:5.26
+  work:4.77
+  obfuscation passages:4.59
+  cormac mccarthy:4.50
+
+Topic 3:
+  random chance:8.17
+  unique authors:6.47
+  methods:6.43
+  article:5.81
+  precision:5.36
+  writeprints state:4.69
+  classifieron:4.50
+  measurement:4.50
+  degradation:4.50
+  confirms:4.50
+
+Topic 4:
+  shorter sentences:11.24
+  participants:9.22
+  submissions:8.99
+  features:8.19
+  amazon mechanical turk:6.74
+  personal pronouns:6.74
+  average:6.22
+  brennan greenstadt:5.98
+  machine translation:5.68
+  machine learning:5.63
+
+K: 5, Log-Likelihood: -52097.125, Alpha: 11.000, Beta: 1.100

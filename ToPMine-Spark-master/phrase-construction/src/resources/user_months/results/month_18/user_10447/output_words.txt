@@ -1,0 +1,61 @@
+Topic 0:
+  time:1.47
+  account:1.22
+  password:1.05
+  public:0.89
+  letters:0.81
+  numbers:0.80
+  document:0.79
+  title:0.78
+  havve:0.78
+  marketplacewhat:0.77
+
+Topic 1:
+  key:9.65
+  challenge:8.24
+  account:6.17
+  string:5.60
+  system:3.99
+  silk:3.97
+  half:3.89
+  decrypt:3.23
+  pgp:3.08
+  password:2.74
+
+Topic 2:
+  key:3.53
+  password:3.50
+  road:2.84
+  decrypt:2.70
+  string:2.67
+  account:2.26
+  challenge:2.13
+  provide:1.80
+  sky:1.75
+  system:1.63
+
+Topic 3:
+  wallet:4.85
+  bitcoins:3.91
+  pay:1.91
+  entry:1.91
+  bitcoin:1.84
+  buy:1.84
+  site:1.74
+  card:1.72
+  money:1.58
+  yjegbdekzt:0.92
+
+Topic 4:
+  key:7.03
+  account:2.67
+  string:1.95
+  time:1.70
+  password:1.67
+  sky:1.57
+  road:1.43
+  silk:1.39
+  decrypt:1.39
+  provide:1.29
+
+K: 5, Log-Likelihood: -2228.798, Alpha: 11.000, Beta: 1.100

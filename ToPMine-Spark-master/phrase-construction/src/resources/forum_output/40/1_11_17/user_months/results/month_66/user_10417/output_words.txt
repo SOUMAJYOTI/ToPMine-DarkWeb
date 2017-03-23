@@ -1,0 +1,61 @@
+Topic 0:
+  market:24.19
+  december:13.54
+  quote:12.95
+  tutorial:7.94
+  evolution:7.74
+  working:6.71
+  admin:5.97
+  evo:5.91
+  pops:5.87
+  vendor:5.73
+
+Topic 1:
+  drugs:20.95
+  uk:12.99
+  crime:8.99
+  market:8.74
+  organised:7.99
+  criminals:7.99
+  heroin:7.50
+  cannabis:6.99
+  drug:6.86
+  child:5.99
+
+Topic 2:
+  admin:23.27
+  forum:22.14
+  site:18.08
+  dont:15.11
+  account:10.90
+  lack:10.58
+  cut:9.95
+  january:9.93
+  threads:9.90
+  joined:9.90
+
+Topic 3:
+  color:13.51
+  system:12.97
+  status:12.56
+  exit:11.72
+  attack:8.86
+  scam:6.88
+  functionalyellow:6.81
+  bare:6.80
+  hours:6.67
+  agora:6.52
+
+Topic 4:
+  status:12.05
+  scam:11.76
+  activity:9.94
+  system:8.69
+  hours:8.36
+  color:8.34
+  determine:7.42
+  admin:6.89
+  green:6.77
+  support:6.14
+
+K: 5, Log-Likelihood: -14985.569, Alpha: 11.000, Beta: 1.100

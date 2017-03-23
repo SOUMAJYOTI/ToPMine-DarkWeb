@@ -1,0 +1,61 @@
+Topic 0:
+  safe:5.46
+  dark:4.82
+  start:3.87
+  net:3.87
+  find:3.16
+  kind:2.80
+  communicate:2.79
+  live:2.38
+  mail:2.17
+  lot:2.07
+
+Topic 1:
+  december:4.77
+  illegal:2.96
+  quote:2.45
+  year:2.04
+  story:2.02
+  months:1.89
+  day:1.81
+  ami:1.79
+  today:1.54
+  search:1.53
+
+Topic 2:
+  legal:10.18
+  december:7.81
+  illegal:7.39
+  perfectly:7.33
+  law:7.20
+  people:7.16
+  months:6.47
+  didnt:5.75
+  laws:5.05
+  precautions:4.93
+
+Topic 3:
+  quote:15.85
+  dont:10.53
+  mind:7.69
+  december:7.18
+  leave:5.70
+  amquote:5.57
+  web:5.41
+  havent:4.68
+  ill:4.68
+  prohibited:4.68
+
+Topic 4:
+  years:8.90
+  december:5.96
+  legal:4.63
+  months:4.42
+  didnt:4.37
+  retroactive:4.31
+  people:4.25
+  search:4.13
+  law:3.87
+  perfectly:3.70
+
+K: 5, Log-Likelihood: -4348.459, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  feb:5.01
+  stealth:4.78
+  tabs:2.67
+  sale:2.30
+  good:1.97
+  delivery:1.54
+  product:1.46
+  feedback:1.27
+  great:1.09
+  mar:1.00
+
+Topic 1:
+  sale:12.65
+  tabs:8.28
+  stealth:8.10
+  feb:7.93
+  dragonfly:6.22
+  bromo:5.94
+  great:4.86
+  delivery:4.41
+  nice:4.13
+  fast:4.08
+
+Topic 2:
+  vendors:2.51
+  price:2.12
+  search:1.57
+  vendor:1.54
+  link:1.38
+  godsgarden:0.97
+  difference:0.88
+  powder:0.88
+  listing:0.77
+  ma:0.77
+
+Topic 3:
+  nucleus:6.45
+  reviews:5.67
+  sales:4.51
+  valhalla:4.46
+  decided:3.74
+  link:3.01
+  sense:2.72
+  place:2.41
+  market:2.39
+  invite:2.39
+
+Topic 4:
+  dmt:5.52
+  price:2.94
+  prices:2.80
+  dat:2.74
+  site:2.42
+  maths:2.31
+  cheaper:2.14
+  hash:2.03
+  guide:1.83
+  producers:1.70
+
+K: 5, Log-Likelihood: -2160.073, Alpha: 11.000, Beta: 1.100

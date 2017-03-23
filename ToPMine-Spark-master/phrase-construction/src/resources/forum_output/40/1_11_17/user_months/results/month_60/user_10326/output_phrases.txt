@@ -1,0 +1,61 @@
+Topic 0:
+  tor:0.73
+  vpn:0.61
+  kinds:0.40
+  tails pidgin otr:0.34
+  authenticated:0.33
+  vpon:0.30
+  encrypted:0.27
+  layer:0.27
+  great:0.27
+  open:0.27
+
+Topic 1:
+  authenticated:0.56
+  tails pidgin otr:0.50
+  kinds:0.43
+  tor:0.43
+  vpn:0.33
+  inactive:0.31
+  account:0.31
+  icq:0.31
+  refused:0.31
+  deleted:0.31
+
+Topic 2:
+  tor:0.60
+  vpn:0.48
+  kinds:0.43
+  tails pidgin otr:0.38
+  authenticated:0.37
+  vpon:0.29
+  sign:0.26
+  guess:0.26
+  account:0.26
+  xmpp:0.26
+
+Topic 3:
+  authenticated:0.57
+  tails pidgin otr:0.51
+  tor:0.43
+  kinds:0.42
+  vpn:0.33
+  inactive:0.32
+  icq:0.32
+  refused:0.32
+  xmpp:0.32
+  good server:0.32
+
+Topic 4:
+  tor:0.59
+  kinds:0.52
+  vpn:0.44
+  authenticated:0.36
+  tails pidgin otr:0.36
+  vpon:0.30
+  deleted:0.26
+  sign:0.26
+  guess:0.26
+  icq:0.26
+
+K: 5, Log-Likelihood: -371.065, Alpha: 11.000, Beta: 1.100

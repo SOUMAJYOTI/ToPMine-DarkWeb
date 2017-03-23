@@ -1,0 +1,61 @@
+Topic 0:
+  legitimate:1.65
+  lol:1.65
+  traffic:1.65
+  time:1.65
+  buyers:1.65
+  biased:1.65
+  markets:1.65
+  money:1.65
+  tor:1.65
+  market:0.85
+
+Topic 1:
+  system:0.70
+  market:0.65
+  account:0.60
+  andromeda:0.60
+  dream market:0.48
+  mail:0.34
+  features:0.34
+  increase:0.34
+  login:0.34
+  faster:0.34
+
+Topic 2:
+  system:1.60
+  market:0.70
+  login:0.57
+  mail:0.56
+  vendors:0.56
+  increase:0.56
+  features:0.56
+  faster:0.56
+  dream market:0.52
+  account:0.29
+
+Topic 3:
+  system:0.69
+  market:0.66
+  andromeda:0.60
+  account:0.59
+  dream market:0.49
+  mail:0.34
+  vendors:0.34
+  login:0.34
+  increase:0.34
+  features:0.34
+
+Topic 4:
+  system:1.57
+  market:0.72
+  faster:0.58
+  features:0.58
+  increase:0.57
+  vendors:0.57
+  mail:0.57
+  login:0.57
+  dream market:0.54
+  account:0.27
+
+K: 5, Log-Likelihood: -867.284, Alpha: 11.000, Beta: 1.100

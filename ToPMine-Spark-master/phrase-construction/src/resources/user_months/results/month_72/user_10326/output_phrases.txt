@@ -1,0 +1,61 @@
+Topic 0:
+  physical isolation:0.81
+  tor:0.64
+  virtual isolation:0.61
+  virtual machine:0.59
+  transparent proxying:0.54
+  vulnerability:0.54
+  virtual machines:0.53
+  hardware aerial numbers:0.40
+  pi:0.40
+  middle:0.40
+
+Topic 1:
+  physical isolation:0.82
+  virtual machine:0.64
+  virtual isolation:0.63
+  tor:0.63
+  vulnerability:0.61
+  transparent proxying:0.60
+  virtual machines:0.59
+  middle:0.42
+  pi:0.42
+  hardware aerial numbers:0.41
+
+Topic 2:
+  physical isolation:0.79
+  tor:0.63
+  virtual machine:0.62
+  virtual isolation:0.62
+  virtual machines:0.55
+  transparent proxying:0.54
+  vulnerability:0.54
+  middle:0.41
+  pi:0.41
+  hardware aerial numbers:0.41
+
+Topic 3:
+  physical isolation:0.87
+  virtual isolation:0.62
+  tor:0.59
+  virtual machine:0.59
+  virtual machines:0.55
+  transparent proxying:0.54
+  vulnerability:0.53
+  hardware aerial numbers:0.41
+  middle:0.40
+  pi:0.40
+
+Topic 4:
+  physical isolation:0.78
+  virtual machine:0.62
+  virtual isolation:0.58
+  tor:0.58
+  virtual machines:0.53
+  vulnerability:0.53
+  transparent proxying:0.52
+  pi:0.41
+  middle:0.41
+  hardware aerial numbers:0.41
+
+K: 5, Log-Likelihood: -801.824, Alpha: 11.000, Beta: 1.100

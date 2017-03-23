@@ -1,0 +1,61 @@
+Topic 0:
+  node:0.24
+  set:0.16
+  dont:0.08
+  fuck:0.08
+  theory:0.08
+  situation:0.08
+  server:0.08
+  client:0.08
+  clearnet:0.08
+  tutorials:0.08
+
+Topic 1:
+  node:0.24
+  set:0.16
+  post:0.08
+  ownership:0.08
+  tax:0.08
+  clearnet:0.08
+  host:0.08
+  bitcoin:0.08
+  check:0.08
+  pay:0.08
+
+Topic 2:
+  node:0.24
+  set:0.16
+  summarized:0.08
+  researching:0.08
+  explanation:0.08
+  caught:0.08
+  reply:0.08
+  hadnt:0.08
+  tutorials:0.08
+  host:0.08
+
+Topic 3:
+  node:0.24
+  set:0.16
+  reply:0.08
+  caught:0.08
+  hadnt:0.08
+  explanation:0.08
+  researching:0.08
+  summarized:0.08
+  client:0.08
+  dont:0.08
+
+Topic 4:
+  node:0.24
+  set:0.16
+  bitcoin:0.08
+  bank:0.08
+  theory:0.08
+  pay:0.08
+  fuck:0.08
+  situation:0.08
+  check:0.08
+  tax:0.08
+
+K: 5, Log-Likelihood: -34.310, Alpha: 11.000, Beta: 1.100

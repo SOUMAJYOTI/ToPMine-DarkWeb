@@ -1,0 +1,61 @@
+Topic 0:
+  bitstamp:3.42
+  btc:3.07
+  mtgox:2.60
+  place:2.16
+  insolvent:2.16
+  hope stuck:2.16
+  russia:2.16
+  china:2.16
+  crypts:2.16
+  pressure:2.16
+
+Topic 1:
+  media sensationlizes exagerates news:2.97
+  suck people stuck:2.94
+  bad happen bitcoin:2.89
+  february:2.49
+  bad news:2.30
+  worried:1.98
+  worries:1.98
+  stay:1.98
+  dissolved:1.98
+  starting:1.98
+
+Topic 2:
+  february:4.99
+  bad news:4.96
+  quote:3.83
+  money:3.13
+  unprecedented:3.10
+  tax:3.10
+  true potential:3.10
+  paying:3.10
+  pmquote:2.97
+  collection:2.55
+
+Topic 3:
+  currency:9.59
+  threat:4.45
+  decentralized:4.45
+  international:4.45
+  power:4.45
+  republic:4.45
+  users:4.45
+  bitcoin:3.03
+  therapy february pmi:2.78
+  success acceptance prolific crypto:2.77
+
+Topic 4:
+  fine:3.56
+  hope:3.50
+  time:3.38
+  great:3.38
+  hours ago:3.27
+  story:2.32
+  scared:2.15
+  resolve:2.15
+  issues:2.15
+  good:2.15
+
+K: 5, Log-Likelihood: -2529.839, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:1.42
+  evolution:1.14
+  market:0.43
+  created:0.43
+  agora:0.43
+  sr:0.43
+  account:0.42
+  pgp:0.42
+  signature:0.42
+  admin:0.39
+
+Topic 1:
+  vendor:1.43
+  evolution:1.19
+  created:0.42
+  sr:0.42
+  pgp:0.41
+  account:0.41
+  market:0.41
+  signature:0.41
+  agora:0.41
+  bg:0.40
+
+Topic 2:
+  evolution:1.31
+  vendor:0.83
+  sorted:0.52
+  successful:0.44
+  message:0.44
+  admin:0.42
+  bg:0.42
+  pgp:0.36
+  sr:0.36
+  account:0.36
+
+Topic 3:
+  vendor:1.22
+  evolution:1.22
+  agora:0.43
+  account:0.42
+  market:0.42
+  pgp:0.42
+  signature:0.42
+  sr:0.42
+  created:0.42
+  admin:0.39
+
+Topic 4:
+  evolution:1.14
+  vendor:1.10
+  sorted:0.43
+  successful:0.42
+  message:0.42
+  bg:0.41
+  admin:0.40
+  signature:0.39
+  account:0.38
+  pgp:0.38
+
+K: 5, Log-Likelihood: -847.899, Alpha: 11.000, Beta: 1.100

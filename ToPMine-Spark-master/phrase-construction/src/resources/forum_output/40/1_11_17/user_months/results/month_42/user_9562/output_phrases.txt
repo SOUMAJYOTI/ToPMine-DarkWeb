@@ -1,0 +1,61 @@
+Topic 0:
+  buy:0.28
+  safely:0.28
+  sellers:0.23
+  forum:0.17
+  agra:0.14
+  willy:0.14
+  invite:0.14
+  hidepending:0.14
+  person:0.14
+  nickname:0.14
+
+Topic 1:
+  buy:0.28
+  safely:0.28
+  sellers:0.23
+  forum:0.17
+  clearnet:0.14
+  encrypt:0.14
+  good:0.14
+  browsing:0.14
+  hidepending:0.14
+  safe:0.14
+
+Topic 2:
+  safely:0.28
+  buy:0.28
+  sellers:0.23
+  forum:0.17
+  mail:0.14
+  sites:0.14
+  connect:0.14
+  anyperson:0.14
+  write:0.14
+  trade:0.14
+
+Topic 3:
+  buy:0.28
+  safely:0.28
+  sellers:0.23
+  forum:0.17
+  live:0.14
+  good:0.14
+  stay:0.14
+  imputable:0.14
+  option:0.14
+  great:0.14
+
+Topic 4:
+  buy:0.28
+  safely:0.28
+  sellers:0.23
+  forum:0.17
+  comagora:0.14
+  nickname:0.14
+  person:0.14
+  agra:0.14
+  willy:0.14
+  invite:0.14
+
+K: 5, Log-Likelihood: -123.849, Alpha: 11.000, Beta: 1.100

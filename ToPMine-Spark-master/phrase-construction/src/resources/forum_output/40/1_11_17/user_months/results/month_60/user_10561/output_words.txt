@@ -1,0 +1,61 @@
+Topic 0:
+  step:2.70
+  trash:1.59
+  xubuntu:1.08
+  user:0.75
+  file:0.61
+  create:0.61
+  message:0.61
+  window:0.61
+  delete:0.60
+  literally:0.60
+
+Topic 1:
+  step:2.68
+  trash:1.19
+  xubuntu:1.18
+  user:0.80
+  find:0.62
+  entire:0.61
+  thread:0.61
+  kind:0.61
+  problems:0.61
+  total:0.61
+
+Topic 2:
+  step:2.39
+  trash:1.48
+  xubuntu:1.18
+  user:0.80
+  september:0.63
+  windows:0.61
+  unable:0.61
+  problems:0.60
+  directors:0.60
+  file:0.60
+
+Topic 3:
+  step:2.51
+  xubuntu:1.27
+  trash:1.17
+  user:0.71
+  message:0.64
+  noob:0.64
+  appears:0.63
+  unable:0.63
+  existence:0.63
+  total:0.62
+
+Topic 4:
+  step:1.72
+  trash:1.56
+  xubuntu:1.27
+  user:0.94
+  september:0.65
+  kind:0.60
+  total:0.60
+  create:0.60
+  noob:0.60
+  directors:0.59
+
+K: 5, Log-Likelihood: -508.554, Alpha: 11.000, Beta: 1.100

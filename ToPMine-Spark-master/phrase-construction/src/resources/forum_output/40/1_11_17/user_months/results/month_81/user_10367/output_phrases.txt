@@ -1,0 +1,61 @@
+Topic 0:
+  file:17.36
+  archive:14.88
+  files:12.39
+  data:10.92
+  pgp key:9.91
+  create:9.91
+  password:8.30
+  secured:7.42
+  remember:7.42
+  card:7.42
+
+Topic 1:
+  great:4.45
+  expected:2.44
+  selection:2.44
+  merge:2.44
+  regardswad:2.44
+  missed:2.44
+  pgp sensitive:2.44
+  working:2.44
+  slow:2.44
+  karma:2.44
+
+Topic 2:
+  passwords:5.60
+  file volume:4.93
+  open:4.93
+  log:4.71
+  uncropt:4.06
+  laws:4.06
+  disclosure:4.06
+  places:4.06
+  useless:4.06
+  reveal:4.06
+
+Topic 3:
+  link:5.14
+  signup:4.82
+  havent:3.77
+  referred link:3.60
+  agree:2.36
+  ive:2.36
+  responsiveness:2.36
+  issues:2.36
+  board:2.36
+  hop:2.36
+
+Topic 4:
+  account:8.85
+  info:4.93
+  top bar:4.93
+  market click:4.93
+  buyer:4.93
+  vendor:4.93
+  pm agora:4.93
+  vendors:3.96
+  read:3.96
+  agora:3.82
+
+K: 5, Log-Likelihood: -6900.151, Alpha: 11.000, Beta: 1.100

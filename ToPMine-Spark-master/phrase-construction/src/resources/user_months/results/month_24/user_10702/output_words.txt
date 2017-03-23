@@ -1,0 +1,61 @@
+Topic 0:
+  transactions:3.20
+  provide:1.51
+  activities:1.11
+  security:1.07
+  bitcoins:1.03
+  bitcoin:0.95
+  money:0.75
+  services:0.71
+  io:0.71
+  tor:0.70
+
+Topic 1:
+  trustworthy:2.13
+  nym:1.27
+  source:1.26
+  phishing:1.26
+  sites:1.26
+  shill:1.25
+  quote:1.09
+  august:1.07
+  clown:1.03
+  random:1.00
+
+Topic 2:
+  transactions:3.03
+  provide:1.71
+  bitcoins:1.08
+  activities:1.06
+  bitcoin:1.05
+  security:1.03
+  money:0.73
+  service:0.72
+  io:0.70
+  services:0.70
+
+Topic 3:
+  money:1.10
+  transactions:0.82
+  service:0.60
+  services:0.59
+  clown:0.57
+  bitmixer:0.57
+  tor:0.56
+  io:0.55
+  heh:0.55
+  provide:0.54
+
+Topic 4:
+  transactions:4.83
+  provide:2.13
+  bitcoin:1.50
+  bitcoins:1.38
+  security:1.37
+  activities:1.31
+  services:0.71
+  service:0.70
+  tor:0.69
+  bitmixer:0.68
+
+K: 5, Log-Likelihood: -1263.726, Alpha: 11.000, Beta: 1.100

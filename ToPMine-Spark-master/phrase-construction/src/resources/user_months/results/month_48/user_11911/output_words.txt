@@ -1,0 +1,61 @@
+Topic 0:
+  absolem:0.73
+  admins:0.54
+  uri:0.48
+  hear:0.37
+  avoid:0.37
+  dead:0.37
+  login:0.37
+  images:0.37
+  market:0.37
+  screens:0.37
+
+Topic 1:
+  admins:0.60
+  absolem:0.51
+  havanas:0.42
+  displaying:0.42
+  changed:0.41
+  accusations:0.41
+  week:0.41
+  heard:0.41
+  login:0.41
+  images:0.41
+
+Topic 2:
+  admins:0.70
+  accusations:0.45
+  screens:0.44
+  avoid:0.44
+  week:0.44
+  hear:0.44
+  heard:0.44
+  changed:0.44
+  market:0.44
+  login:0.44
+
+Topic 3:
+  admins:0.70
+  accusations:0.46
+  displaying:0.45
+  dead:0.45
+  havanas:0.45
+  heard:0.44
+  market:0.44
+  avoid:0.44
+  login:0.44
+  changed:0.44
+
+Topic 4:
+  absolem:1.02
+  uri:0.60
+  admins:0.47
+  images:0.33
+  dead:0.33
+  market:0.33
+  avoid:0.33
+  screens:0.33
+  login:0.33
+  week:0.33
+
+K: 5, Log-Likelihood: -245.308, Alpha: 11.000, Beta: 1.100

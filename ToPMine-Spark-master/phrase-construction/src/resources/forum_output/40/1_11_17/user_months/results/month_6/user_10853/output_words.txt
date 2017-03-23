@@ -1,0 +1,61 @@
+Topic 0:
+  cryptanalysis:2.52
+  force:2.52
+  based:2.52
+  cypher:2.52
+  hose:2.52
+  keylogging:2.52
+  secure:2.52
+  recovery:2.52
+  brute:2.52
+  mathematical:2.52
+
+Topic 1:
+  cold:2.14
+  computer:1.98
+  drive:1.64
+  quote:1.34
+  march:1.28
+  shut:1.20
+  boot:1.20
+  attacks:1.14
+  ram:1.09
+  freeze:0.88
+
+Topic 2:
+  computer:1.41
+  march:1.24
+  quote:1.23
+  modern:0.91
+  attacker:0.87
+  feasible:0.87
+  owockeznan:0.86
+  ram:0.76
+  random:0.64
+  physical:0.62
+
+Topic 3:
+  ram:1.99
+  computer:1.78
+  keys:1.30
+  cold:1.21
+  shut:1.15
+  boot:1.13
+  brands:1.06
+  march:0.97
+  quote:0.92
+  drive:0.81
+
+Topic 4:
+  encryption:7.23
+  linus:5.36
+  disk:2.79
+  full:2.79
+  truecrypt:1.97
+  distributions:1.77
+  troubles:1.77
+  written:1.77
+  le:1.77
+  everyonei:1.77
+
+K: 5, Log-Likelihood: -1730.646, Alpha: 11.000, Beta: 1.100

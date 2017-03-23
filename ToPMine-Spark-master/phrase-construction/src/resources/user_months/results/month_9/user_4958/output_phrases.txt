@@ -1,0 +1,61 @@
+Topic 0:
+  address:4.13
+  thread:4.10
+  experience:3.30
+  ya:3.27
+  depends:3.27
+  size matters:3.27
+  chipping:3.27
+  rescue:3.27
+  cheeky:3.27
+  space:3.27
+
+Topic 1:
+  block:4.14
+  questions:4.14
+  gpg:4.03
+  public key:3.36
+  encrypted messages:3.28
+  feel:3.28
+  pgp:2.80
+  dont:2.73
+  dbelj:2.06
+  aqvrbhwtqarbdeymlu:2.06
+
+Topic 2:
+  vendors:4.13
+  garden:4.13
+  bits:3.99
+  ahoy:3.28
+  post:3.28
+  isnt:2.98
+  real:2.97
+  lot:2.97
+  james:2.96
+  public:2.96
+
+Topic 3:
+  encrypt message:2.11
+  xjnxivd:2.06
+  vthc:2.06
+  uolrbz:2.06
+  fsut:2.06
+  whost:2.06
+  ipn:2.06
+  eswo:2.06
+  ak:2.06
+  qmgtubcgdjbglg:2.06
+
+Topic 4:
+  public key decrypt private:6.63
+  program:6.20
+  key:5.29
+  asa:4.96
+  strength:4.12
+  jce:4.12
+  coming:4.12
+  text:4.12
+  mac:4.12
+  drive:4.12
+
+K: 5, Log-Likelihood: -8740.324, Alpha: 11.000, Beta: 1.100

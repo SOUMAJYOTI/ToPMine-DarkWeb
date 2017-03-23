@@ -1,0 +1,61 @@
+Topic 0:
+  mail:1.88
+  text:1.63
+  sigaint:0.71
+  problems:0.63
+  bet:0.46
+  attached:0.46
+  service:0.46
+  ridiculously:0.46
+  strange:0.46
+  explanation:0.46
+
+Topic 1:
+  mail:1.82
+  text:1.32
+  sigaint:0.77
+  problems:0.61
+  issues:0.46
+  body:0.43
+  composed:0.43
+  weird:0.43
+  extreme:0.43
+  communication:0.43
+
+Topic 2:
+  mail:1.12
+  sigaint:0.91
+  text:0.82
+  issues:0.82
+  problems:0.58
+  tor:0.52
+  cutting:0.35
+  explanation:0.35
+  files:0.35
+  body:0.35
+
+Topic 3:
+  mail:2.11
+  text:1.32
+  sigaint:0.72
+  problems:0.61
+  issues:0.46
+  heh:0.43
+  bit:0.43
+  files:0.43
+  attached:0.43
+  body:0.43
+
+Topic 4:
+  mail:1.07
+  text:0.91
+  sigaint:0.88
+  issues:0.88
+  problems:0.57
+  tor:0.52
+  files:0.35
+  extreme:0.35
+  composed:0.35
+  bit:0.35
+
+K: 5, Log-Likelihood: -384.885, Alpha: 11.000, Beta: 1.100

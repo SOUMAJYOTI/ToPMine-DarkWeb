@@ -1,0 +1,61 @@
+Topic 0:
+  admin:4.99
+  number:2.10
+  theyve:2.10
+  hours:2.10
+  vendors:2.10
+  ago:2.09
+  interviewed:2.09
+  year:2.09
+  work:2.09
+  gui:2.09
+
+Topic 1:
+  drsnerd october amquote herbanlegends:8.24
+  october amquote:5.93
+  drunk excuse:4.82
+  september amyeah drunk:4.73
+  bought days sales kind:4.65
+  judge shuuuuuut hiccup lawyer:4.49
+  waste judge told:4.44
+  worse:4.26
+  university gam top class:4.15
+  class:3.40
+
+Topic 2:
+  word:3.45
+  sold:3.45
+  profit:3.45
+  euros:3.45
+  leaves:3.45
+  october amen won:3.44
+  item:3.44
+  profit bond:3.44
+  good:3.42
+  euro outlaws lottery game:3.40
+
+Topic 3:
+  interviews:5.58
+  phil:4.54
+  owners:3.66
+  busted:3.66
+  shortly:3.66
+  market:2.47
+  october:2.38
+  pmintriguing:2.24
+  aint:2.24
+  fat:2.24
+
+Topic 4:
+  market:15.33
+  order:7.50
+  working:7.50
+  infrastructure:7.50
+  outlaw:6.78
+  won:5.03
+  millions:3.71
+  funds:3.71
+  explain:3.71
+  marketplace:3.71
+
+K: 5, Log-Likelihood: -3400.675, Alpha: 11.000, Beta: 1.100

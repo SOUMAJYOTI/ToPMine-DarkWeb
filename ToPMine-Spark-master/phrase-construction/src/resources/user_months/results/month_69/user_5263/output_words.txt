@@ -1,0 +1,61 @@
+Topic 0:
+  documents:7.68
+  rcmp:6.24
+  blackberrys:5.60
+  court:5.38
+  device:4.92
+  messages:4.73
+  pgp:4.69
+  seized:4.36
+  forensics:3.92
+  case:3.91
+
+Topic 1:
+  fa:3.70
+  account:3.49
+  nucleus:2.78
+  key:2.54
+  message:2.17
+  pip:2.07
+  darknet:2.00
+  confused:1.77
+  pgp:1.64
+  turn:1.54
+
+Topic 2:
+  pgp:5.13
+  documents:3.69
+  encryption:3.30
+  blackberrys:2.82
+  protected:2.75
+  messages:2.73
+  device:2.54
+  forensics:2.26
+  case:2.18
+  rcmp:2.03
+
+Topic 3:
+  pgp:2.84
+  pip:2.62
+  key:2.31
+  message:1.62
+  apps:1.30
+  password:1.07
+  private:0.99
+  decrypt:0.99
+  encrypted:0.96
+  darknet:0.78
+
+Topic 4:
+  pgp:4.70
+  court:2.43
+  documents:2.41
+  device:2.30
+  messages:2.29
+  decrypt:1.79
+  encryption:1.70
+  case:1.69
+  forensics:1.61
+  rcmp:1.52
+
+K: 5, Log-Likelihood: -3484.878, Alpha: 11.000, Beta: 1.100

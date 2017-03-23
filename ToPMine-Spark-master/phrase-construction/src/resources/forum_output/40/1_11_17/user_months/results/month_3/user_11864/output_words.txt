@@ -1,0 +1,61 @@
+Topic 0:
+  message:1.00
+  secure:0.68
+  constructed:0.65
+  site:0.65
+  earth:0.58
+  middle:0.57
+  pm:0.51
+  post:0.51
+  drop:0.48
+  live:0.48
+
+Topic 1:
+  market:2.89
+  pgp:2.89
+  wow:1.90
+  signature:1.90
+  note:1.90
+  impressed:1.90
+  message:1.59
+  darkness:0.95
+  omnudjwz:0.91
+  hcracnxnmstbk:0.91
+
+Topic 2:
+  earth:6.43
+  middle:5.98
+  analysis:3.73
+  post:3.59
+  message:3.16
+  underscore:2.77
+  subtle:2.77
+  fine:2.77
+  security:1.83
+  account:1.75
+
+Topic 3:
+  april:9.92
+  marketplace:6.59
+  site:4.14
+  earth:4.13
+  fuck:3.63
+  encrypted:3.62
+  middle:3.61
+  pigs:2.60
+  url:2.60
+  forum:2.60
+
+Topic 4:
+  site:5.80
+  middle:4.78
+  earth:3.81
+  constructed:3.15
+  secure:3.03
+  open:1.60
+  super:1.54
+  place:1.52
+  pm:0.75
+  lol:0.74
+
+K: 5, Log-Likelihood: -2241.365, Alpha: 11.000, Beta: 1.100

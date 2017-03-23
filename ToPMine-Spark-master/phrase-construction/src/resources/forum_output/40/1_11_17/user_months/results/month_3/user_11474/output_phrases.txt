@@ -1,0 +1,61 @@
+Topic 0:
+  seller:0.00
+  scmm:0.00
+  cipolla:0.00
+  italian:0.00
+  people:0.00
+  vicenza:0.00
+  napoli:0.00
+  forum:0.00
+  market:0.00
+  soo:0.00
+
+Topic 1:
+  seller:0.00
+  scmm:0.00
+  cipolla:0.00
+  italian:0.00
+  people:0.00
+  vicenza:0.00
+  napoli:0.00
+  forum:0.00
+  market:0.00
+  soo:0.00
+
+Topic 2:
+  seller:0.00
+  scmm:0.00
+  cipolla:0.00
+  italian:0.00
+  people:0.00
+  vicenza:0.00
+  napoli:0.00
+  forum:0.00
+  market:0.00
+  soo:0.00
+
+Topic 3:
+  seller:0.00
+  scmm:0.00
+  cipolla:0.00
+  italian:0.00
+  people:0.00
+  vicenza:0.00
+  napoli:0.00
+  forum:0.00
+  market:0.00
+  soo:0.00
+
+Topic 4:
+  seller:0.00
+  scmm:0.00
+  cipolla:0.00
+  italian:0.00
+  people:0.00
+  vicenza:0.00
+  napoli:0.00
+  forum:0.00
+  market:0.00
+  soo:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

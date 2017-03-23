@@ -1,0 +1,61 @@
+Topic 0:
+  btc:4.31
+  clients:4.22
+  nodes:4.22
+  updates:4.21
+  affect:4.16
+  encompass:4.16
+  future:4.16
+  trust:4.15
+  electrum servers:4.14
+  sense:4.10
+
+Topic 1:
+  tails:4.11
+  electrum:3.85
+  wallet:2.67
+  coming:2.66
+  tor:2.56
+  set:2.46
+  doesnt:2.41
+  wait:2.27
+  servers:2.21
+  hope:2.11
+
+Topic 2:
+  servers:6.59
+  safe blog mailing list:4.43
+  connects security concern glad:4.43
+  wondered stock electrum preloaded:4.42
+  source:3.80
+  pmi:3.50
+  dn:3.49
+  straight:3.19
+  guys posted:3.16
+  quote tambourine december:2.85
+
+Topic 3:
+  good:4.76
+  upgrade:4.25
+  choice:3.74
+  buy:3.74
+  exchanging:3.74
+  lol:3.74
+  ride:3.74
+  moon:3.74
+  rocket:3.74
+  hope dash:3.74
+
+Topic 4:
+  electrum:4.11
+  install:3.68
+  support:3.46
+  integration:3.02
+  volume:2.22
+  installed:2.22
+  savvy:2.22
+  appears:2.22
+  persistent:2.22
+  form:2.22
+
+K: 5, Log-Likelihood: -4131.646, Alpha: 11.000, Beta: 1.100

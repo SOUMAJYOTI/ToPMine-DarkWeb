@@ -1,0 +1,61 @@
+Topic 0:
+  people:4.76
+  vendor:4.74
+  share:4.63
+  beliefs:4.63
+  aware:4.51
+  note:3.53
+  great:3.23
+  community long:2.29
+  ross:2.29
+  honored:2.29
+
+Topic 1:
+  yesterday:4.62
+  dont:3.47
+  hey:3.37
+  remember:2.27
+  stars:2.27
+  stopping:2.27
+  ship:2.27
+  agora sr:2.27
+  wondering:2.27
+  managed:2.27
+
+Topic 2:
+  today:6.76
+  agora:6.57
+  asap:4.67
+  gain:4.67
+  orders shipped:4.67
+  access:4.67
+  life:4.67
+  hope:3.74
+  process:3.74
+  listings:3.74
+
+Topic 3:
+  safe:4.67
+  marketplace:4.23
+  allot:3.83
+  open:3.83
+  find position:3.83
+  settling:3.83
+  proven:3.83
+  responsibility:3.83
+  air:3.83
+  sell:3.83
+
+Topic 4:
+  attack:4.85
+  sad:4.65
+  ago:4.65
+  slammed:3.73
+  stand stand:3.73
+  robbed:3.73
+  united:3.73
+  rc good:3.73
+  homes:3.73
+  stay strong:3.73
+
+K: 5, Log-Likelihood: -4318.112, Alpha: 11.000, Beta: 1.100

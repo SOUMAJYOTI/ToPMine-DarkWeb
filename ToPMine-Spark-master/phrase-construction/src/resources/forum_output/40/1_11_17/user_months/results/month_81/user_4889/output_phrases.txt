@@ -1,0 +1,61 @@
+Topic 0:
+  deposit:4.24
+  deposited:4.24
+  withdrew:4.24
+  ukcoinjar:2.10
+  directly:2.10
+  combitcoin:2.10
+  comnucleusmarketlocalbitcoins:2.10
+  netlook:2.10
+  btcthis:2.10
+  combitbargain:2.10
+
+Topic 1:
+  btc:4.89
+  taint:4.33
+  transactions:4.23
+  bank:4.23
+  real:4.23
+  identity:3.57
+  wallet:2.69
+  cash:2.47
+  hide:2.09
+  mkts:2.09
+
+Topic 2:
+  market wallet:4.32
+  earlier:4.24
+  number:4.24
+  listings:4.24
+  amount:4.24
+  abraxas:3.66
+  coins:3.64
+  bitcoinfog:3.27
+  btcmiddleearth:3.27
+  balances:3.27
+
+Topic 3:
+  abraxas:4.56
+  wallet abraxas:4.19
+  wallet:3.82
+  fallen:3.06
+  bullshit:3.05
+  call:3.05
+  trolling:3.04
+  named:3.04
+  good:3.04
+  victim:3.04
+
+Topic 4:
+  public wallet:6.35
+  agora:4.21
+  knowing:4.09
+  wallets:3.36
+  markets:3.27
+  dont:3.18
+  pretty:2.79
+  public:2.50
+  withdrawals abraxas:2.07
+  abraxas evolution:2.07
+
+K: 5, Log-Likelihood: -2836.238, Alpha: 11.000, Beta: 1.100

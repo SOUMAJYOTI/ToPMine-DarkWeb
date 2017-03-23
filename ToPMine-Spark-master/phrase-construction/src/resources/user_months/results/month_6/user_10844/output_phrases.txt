@@ -1,0 +1,61 @@
+Topic 0:
+  accounts:4.65
+  pr:4.65
+  issue:4.65
+  guy:4.65
+  problem:4.65
+  sites:4.59
+  postage:4.09
+  folks:3.65
+  address people:3.65
+  encrypted:3.65
+
+Topic 1:
+  postage anonymously:4.68
+  aware people:4.68
+  complicated:4.68
+  numerous:4.62
+  spend:3.84
+  vouch:3.74
+  established:3.74
+  service safepostage:3.74
+  bitcoinfog:3.38
+  thekushlife:3.33
+
+Topic 2:
+  le:6.34
+  mailing:5.40
+  mailed:5.05
+  idea:4.04
+  trust trust:3.84
+  stretch:3.84
+  low:3.84
+  stamps risk:3.84
+  reason:3.84
+  extortion:3.84
+
+Topic 3:
+  shared send:5.56
+  package:5.29
+  party:4.75
+  send bitcoin:4.64
+  email:4.60
+  print:3.81
+  info:3.72
+  vendors:3.69
+  good:3.69
+  goodblockchains:3.59
+
+Topic 4:
+  people:10.40
+  post office:7.52
+  business:7.02
+  shipping labels:4.91
+  fresh:4.67
+  start:3.84
+  blackmailing:3.84
+  fact:3.81
+  guns:3.81
+  drugs hand:3.81
+
+K: 5, Log-Likelihood: -6581.625, Alpha: 11.000, Beta: 1.100

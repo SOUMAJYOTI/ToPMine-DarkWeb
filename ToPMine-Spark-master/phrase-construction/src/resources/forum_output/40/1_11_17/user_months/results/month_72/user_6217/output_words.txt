@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:7.78
+  electrum:6.59
+  direct:3.79
+  deals:3.79
+  final:3.79
+  market:2.22
+  recommend:2.22
+  squire:1.80
+  walletsend:1.80
+  logout:1.80
+
+Topic 1:
+  mescaline:1.88
+  experience:1.76
+  vendor:1.34
+  cross:1.16
+  good:0.85
+  tails:0.68
+  agonists:0.67
+  gammagoblin:0.67
+  led:0.53
+  masculine:0.52
+
+Topic 2:
+  mescaline:2.42
+  quote:2.23
+  february:2.21
+  experience:1.40
+  agree:1.40
+  discussions:1.40
+  comments:1.40
+  opening:1.40
+  community:1.40
+  avengers:1.40
+
+Topic 3:
+  cross:2.12
+  experience:1.45
+  days:1.26
+  mescaline:1.14
+  dmt:1.11
+  doesnt:1.11
+  oral:1.11
+  masculine:1.10
+  tolerates:1.10
+  led:1.09
+
+Topic 4:
+  key:4.69
+  pgp:2.71
+  change:2.59
+  changing:1.80
+  expired:1.80
+  normal:1.80
+  keys:1.68
+  messages:1.68
+  public:1.68
+  assuming:1.34
+
+K: 5, Log-Likelihood: -1297.725, Alpha: 11.000, Beta: 1.100

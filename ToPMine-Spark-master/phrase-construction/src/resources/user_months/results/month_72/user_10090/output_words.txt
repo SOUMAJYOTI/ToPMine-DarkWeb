@@ -1,0 +1,61 @@
+Topic 0:
+  key:2.40
+  pgp:0.84
+  mins:0.84
+  send:0.83
+  zaphod:0.81
+  delete:0.74
+  password:0.71
+  dont:0.61
+  february:0.61
+  write:0.61
+
+Topic 1:
+  key:3.02
+  pgp:1.25
+  password:0.98
+  delete:0.97
+  send:0.82
+  zaphod:0.74
+  msgs:0.70
+  programme:0.69
+  start:0.69
+  decrypt:0.68
+
+Topic 2:
+  key:1.47
+  mins:1.41
+  write:0.97
+  zaphod:0.86
+  send:0.73
+  dont:0.72
+  pgp:0.60
+  father:0.59
+  appreciated:0.59
+  passwords:0.59
+
+Topic 3:
+  key:2.53
+  pgp:1.29
+  delete:0.96
+  password:0.94
+  send:0.81
+  zaphod:0.79
+  programme:0.70
+  decrypt:0.69
+  forgotten:0.68
+  msgs:0.68
+
+Topic 4:
+  key:2.58
+  pgp:1.02
+  password:0.84
+  delete:0.81
+  send:0.80
+  zaphod:0.80
+  mins:0.72
+  programme:0.61
+  forgotten:0.61
+  start:0.61
+
+K: 5, Log-Likelihood: -362.652, Alpha: 11.000, Beta: 1.100

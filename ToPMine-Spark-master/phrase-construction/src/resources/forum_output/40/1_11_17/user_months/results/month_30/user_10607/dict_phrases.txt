@@ -1,0 +1,1149 @@
+arch linux,0,6
+include topics,1,1
+management systemd,2,1
+shooting,3,2
+december pmfinally,4,3
+scenarios,5,1
+qubesos,6,2
+explanation,7,1
+building,8,2
+score,9,1
+quote,10,11
+quotethese,11,1
+tee,12,1
+dont reason,13,2
+based os,14,3
+moving,15,2
+philosophy security,16,1
+ram,17,1
+isolatedestport,18,2
+benefit compiling versus binaries,19,3
+scratch,20,1
+google,21,1
+packages,22,1
+packet,23,1
+click,24,1
+wrote script,25,1
+size,26,1
+pre compiled,27,4
+unhinged,28,1
+detail,29,1
+issues grsec,30,3
+isnt,31,7
+hang,32,1
+providing,33,1
+role,34,1
+turn,35,2
+talking,36,1
+afflicted,37,1
+license isnt,38,1
+posted,39,1
+ciphernets,40,2
+aspect,41,2
+post people,42,2
+connect,43,1
+salu,44,1
+committed,45,1
+preferences,46,1
+compiling thing austere,47,3
+address,48,2
+learn,49,3
+kernel,50,6
+havent heard issues grsec,51,3
+pushing,52,2
+logical,53,1
+stratum,54,1
+weird,55,2
+forensics,56,2
+thing austere,57,3
+people verify checksums,58,5
+isnt backdoored,59,3
+throw,60,1
+opsec key,61,1
+days,62,1
+arch,63,19
+transparent proxy,64,3
+exploit,65,1
+opsec,66,5
+standard,67,1
+couple,68,3
+binaries system,69,3
+correct,70,2
+evidence,71,1
+iso,72,2
+ping issues,73,3
+isp,74,2
+files thing,75,1
+good,76,5
+pushes,77,1
+subscribed arch mailing list,78,3
+benefit compiling,79,3
+grsec systemd testing,80,3
+post,81,8
+pmor,82,1
+hyperadrenergic,83,1
+discussion dude,84,2
+implement,85,3
+hardened,86,1
+protocols,87,1
+vms,88,1
+area,89,1
+add,90,1
+making,91,3
+gpl,92,1
+source compiled binaries,93,3
+kernel deblobbed,94,2
+wherea,95,1
+check ip,96,1
+socksport isolatedestaddr,97,1
+pax,98,6
+wrote,99,4
+originally,100,1
+long ago havent heard,101,3
+jeans shit,102,1
+check,103,4
+gps,104,1
+list,105,5
+users,106,5
+worry binaries backdoored adversary,107,3
+kiss philosophy bare,108,3
+tails,109,10
+speak protect privacy standpoint,110,3
+start proxy,111,2
+port,112,4
+http,113,2
+tor pray,114,1
+technical,115,2
+smallest,116,1
+socksport tails,117,1
+configured pre,118,1
+choose,119,1
+systemd speak,120,3
+remove,121,1
+jeans,122,3
+rbac kernel,123,2
+compiled,124,7
+psychology,125,1
+scope,126,1
+torvm,127,2
+ive,128,1
+xss,129,1
+hard,130,1
+argumentum ad,131,4
+multiply,132,1
+verify source,133,3
+tor torrc,134,1
+identify,135,1
+ticket,136,1
+compiling software source compiled,137,3
+pretty didnt,138,1
+attacker,139,3
+agencies,140,1
+recorded,141,1
+gentoo distro,142,1
+versus,143,3
+psychostimulant,144,1
+mail people,145,1
+fucked,146,3
+pushed,147,2
+inject,148,1
+dude,149,3
+custom os,150,2
+people verify checksums verify,151,3
+backdoored adversary,152,3
+ago,153,5
+throats,154,1
+compiling thing,155,3
+approach,156,1
+years,157,2
+turns,158,1
+pmfinally,159,3
+includes local,160,2
+decline,161,1
+checksums isnt,162,2
+block,163,1
+mailing list long ago,164,3
+protecting,165,1
+optionsno,166,1
+philosophy whonix,167,1
+long ago,168,3
+pmregarding key,169,1
+testing,170,3
+understand,171,1
+isolation,172,7
+script,173,5
+urlspecifies,174,1
+system,175,13
+schools,176,1
+upin,177,1
+binary,178,5
+driven,179,1
+bare bones compile,180,3
+crazy,181,1
+lfs compiling,182,3
+partial,183,2
+tsocks,184,1
+binaries backdoored adversary,185,3
+plunderinpete december pmfinally,186,3
+ping,187,3
+bones compile gentoo,188,3
+verify source isnt backdoored,189,3
+torrc default,190,1
+trefoil,191,3
+protection,192,2
+functionality,193,1
+binaries binary,194,3
+matter,195,1
+login,196,1
+isolating,197,2
+ago small,198,1
+local,199,10
+pointknow,200,1
+systemd testing,201,3
+tor,202,18
+binary backdoored knowledge worry,203,3
+pgp,204,1
+speak,205,3
+elegant,206,2
+list long ago,207,3
+thought things,208,1
+systemd binary,209,2
+binaries backdoored adversary fucked,210,3
+arch kiss,211,5
+personal preference,212,4
+thing benefit compiling,213,3
+bought,214,1
+deblobbed,215,4
+binaries system thing benefit,216,3
+unfix philosophy,217,4
+powerful,218,2
+aka,219,1
+future,220,3
+people verify,221,5
+gamesome,222,2
+philosophy systemd,223,2
+doubting subscribed arch,224,3
+protect privacy standpoint apply,225,3
+bearings,226,1
+hostile,227,1
+fuckers,228,1
+issues arch,229,2
+populum people,230,2
+pray,231,3
+post start,232,1
+binary backdoored,233,3
+isolation philosophy,234,1
+determined attacker dont people,235,3
+backdoored adversary fucked,236,3
+whonix workstation,237,2
+adversary fucked determined,238,3
+prior compiling,239,3
+tails local,240,1
+implement system,241,1
+traffic,242,5
+read,243,5
+swam,244,1
+introducing,245,1
+standpoint apply thoughts compiling,246,3
+basin,247,2
+adhere,248,2
+clock,249,2
+verify onionland,250,2
+apply thoughts compiling software,251,3
+binaries binary backdoored,252,3
+snow,253,1
+socksport,254,4
+local includes tor,255,3
+things configured,256,1
+ami,257,1
+coupled,258,2
+leakage,259,1
+iptables,260,3
+plunderinpete,261,11
+adversary fucked,262,3
+isnt backdoored prior,263,3
+set pax,264,2
+times,265,1
+isolation design,266,1
+distros,267,1
+design,268,6
+working,269,2
+isnt secure,270,1
+harder,271,1
+moment trefoil,272,1
+permutation,273,1
+enableddedicated socksport,274,3
+comments,275,1
+worried local,276,1
+automatic,277,1
+issues grsec systemd testing,278,3
+design based os,279,3
+transport,280,1
+specific,281,3
+super,282,1
+encrypted,283,2
+application,284,1
+consists,285,1
+interested,286,2
+wall,287,1
+reason,288,4
+caught,289,1
+liberte,290,1
+dont answer,291,4
+thought,292,4
+start thing,293,1
+compiling,294,16
+echo,295,1
+compiled binaries system thing,296,3
+discussion,297,6
+pmi,298,2
+list long ago havent,299,3
+worked,300,1
+password,301,2
+randomization,302,2
+log files,303,3
+proxies,304,1
+gentle,305,2
+api,306,1
+fully,307,2
+ltrying,308,1
+populum agree,309,2
+hosts,310,1
+apply thoughts compiling,311,3
+havent,312,3
+pottering,313,2
+vulnerability,314,2
+javascript,315,1
+pre compiled binaries,316,3
+checksums verify source isnt,317,3
+systemd kiss,318,2
+wanted,319,2
+firefox hours,320,2
+offering,321,4
+letter,322,1
+lfs,323,3
+openrc,324,1
+creating,325,1
+alternatives,326,2
+worry binaries,327,3
+os transparent,328,1
+feels,329,1
+sophisticated,330,1
+difficult set,331,2
+doubting,332,3
+moment,333,3
+default,334,3
+opsec opsec,335,1
+encryption,336,1
+scenario,337,1
+pax rbac,338,4
+vendor,339,1
+disabled,340,2
+worried,341,4
+takes,342,2
+determined adversary,343,2
+receive,344,1
+post opsec,345,1
+malware,346,3
+team,347,1
+curls,348,2
+asa,349,1
+call,350,1
+thoughts compiling software source,351,3
+shit,352,3
+speak protect,353,3
+tor idea,354,1
+theories,355,1
+opsec windows,356,1
+thoughts security,357,1
+technological,358,1
+thing,359,12
+os design,360,1
+adversary users,361,2
+verify checksums,362,5
+disregard,363,1
+security isolation,364,3
+includes init,365,1
+system thing benefit,366,3
+wrote iptables,367,1
+source,368,6
+microsoft,369,1
+secure,370,6
+standpoint apply thoughts,371,3
+view,372,2
+dont wrong,373,1
+holidays,374,1
+white,375,3
+compile,376,3
+school,377,3
+things,378,7
+basically,379,1
+build script,380,2
+huge,381,1
+hat,382,3
+discussion topics,383,1
+starts,384,2
+leaking,385,3
+libertes,386,2
+homer,387,2
+worry,388,3
+offers,389,1
+pre,390,4
+overlay,391,1
+wary,392,1
+ultimate,393,1
+verify checksums verify source,394,3
+doubt,395,1
+engineering,396,1
+long ago havent,397,3
+specific isolation,398,1
+future post,399,1
+technologies,400,2
+shoved,401,1
+easiest,402,1
+time check,403,1
+proxy verify,404,2
+script custom,405,1
+fixed,406,1
+assume,407,2
+pmregarding systemd,408,2
+trefoil hat,409,3
+distro,410,3
+hidden,411,1
+description,412,1
+adversary fucked determined attacker,413,3
+house,414,1
+malicious,415,1
+arrive,416,1
+compile gentoo lfs compiling,417,3
+lived,418,1
+boot,419,2
+doin,420,1
+lookups,421,1
+thoughts,422,4
+hours,423,5
+bruuh,424,1
+security safe,425,2
+breaks,426,1
+introduce,427,1
+start,428,8
+wrong macian,429,2
+windows,430,3
+good idea,431,1
+bond,432,1
+suddenly,433,2
+init software,434,2
+target,435,1
+manage,436,2
+lifestyle,437,1
+alike,438,3
+detailed,439,2
+nervous,440,2
+backdoored prior compiling,441,3
+typical,442,1
+short,443,1
+time,444,8
+gateway,445,5
+applications,446,2
+enableddedicated,447,3
+container,448,1
+thing benefit compiling versus,449,3
+safe secure,450,2
+usage,451,1
+arch mailing,452,3
+issues,453,6
+tips,454,2
+pmfinally systemd,455,1
+subscribed,456,3
+argumentum ad populum,457,4
+idea isolation,458,1
+forums,459,1
+fan,460,1
+workstation gateway,461,2
+shirts,462,1
+options,463,2
+broad,464,1
+dinosaur,465,1
+enter,466,1
+webpage,467,1
+system tails,468,1
+cash,469,1
+hey,470,1
+follow unfix,471,2
+case,472,1
+hardware,473,1
+people implement,474,2
+images,475,1
+depends,476,1
+source isnt backdoored,477,3
+gentoo lfs,478,3
+philosophy,479,11
+list long,480,3
+provide,481,3
+determined,482,5
+didnt,483,3
+standpoint,484,4
+backdoored,485,9
+pray script,486,2
+nsa,487,2
+care,488,1
+browse,489,2
+checksums,490,5
+htpdate,491,1
+log,492,4
+direct,493,1
+issue doesnt,494,2
+mailing,495,3
+accidental,496,1
+anti,497,2
+burned,498,1
+gentoo lfs compiling thing,499,3
+lot,500,1
+scrape,501,1
+leaks,502,2
+computer,503,2
+ways,504,2
+web,505,1
+tor facing,506,2
+system arch,507,1
+disinformation,508,1
+protect,509,3
+offering future,510,1
+torrc,511,3
+isolatedestaddr enableddedicated,512,1
+canonicals,513,2
+ntp,514,1
+adversary,515,8
+great,516,1
+wrong,517,5
+level whonix,518,2
+shirt,519,1
+osso,520,2
+future set,521,1
+afaik,522,1
+sides,523,1
+choice,524,2
+randomly,525,1
+stuff,526,3
+small,527,3
+linux based,528,1
+grsec systemd testing ping,529,3
+rogers,530,1
+darknet,531,2
+eggheads,532,1
+caching,533,1
+arch mailing list long,534,3
+protocol,535,3
+major,536,1
+read forward,537,1
+intro,538,1
+day,539,1
+easily macian,540,2
+group,541,1
+configured,542,4
+attacker dont,543,3
+rain,544,1
+systemd speak protect privacy,545,3
+package,546,2
+curiosity,547,1
+kind,548,1
+vigilant,549,1
+socks,550,2
+opened,551,1
+tor good,552,1
+linuxi,553,1
+personally,554,2
+bones,555,3
+thoughts compiling,556,3
+topic,557,2
+bones compile,558,3
+based system,559,2
+fibre,560,2
+provide security,561,1
+dont,562,12
+request,563,1
+plunderinpete december pmregarding,564,4
+point,565,6
+general,566,1
+inroads,567,1
+leaking protocol,568,2
+ip dns,569,1
+browser,570,5
+dated,571,1
+heard issues grsec systemd,572,3
+privacy standpoint apply thoughts,573,3
+scripts,574,1
+mentioned,575,1
+rest,576,1
+move,577,2
+subscribed arch,578,3
+handful,579,2
+built,580,2
+custom build,581,2
+sat,582,2
+clear,583,1
+threads,584,1
+arch kiss philosophy,585,5
+simpsons,586,1
+os os,587,1
+build,588,6
+prohibitively,589,2
+linux transparent,590,2
+glad,591,1
+shuttleworth,592,2
+user,593,4
+verify source isnt,594,3
+gangbangers,595,1
+contracted,596,1
+bad,597,2
+check local,598,1
+switched systemd,599,2
+executing,600,1
+kiss,601,7
+offer,602,1
+issues grsec systemd,603,3
+honest,604,2
+chroot,605,2
+bare bones,606,3
+dont people verify,607,3
+shit security,608,1
+knowledge,609,3
+doubting subscribed,610,3
+ad,611,4
+excited,612,1
+pass,613,1
+agree systemd,614,2
+preference,615,4
+impact,616,1
+profile,617,1
+fucked determined attacker dont,618,3
+personal,619,4
+thing benefit,620,3
+protocol level,621,2
+protect privacy,622,3
+tails whonix,623,1
+easy,624,4
+proxy,625,5
+route,626,2
+switched,627,4
+drive,628,1
+difficult dont,629,2
+thing austere easily,630,3
+abuse,631,1
+local includes,632,6
+hop,633,1
+facing,634,3
+eyes,635,1
+transparent,636,3
+system thing,637,3
+quote plunderinpete,638,9
+philospohy,639,1
+isolate,640,2
+claws,641,1
+pmregarding argumentum,642,1
+plainest,643,1
+brac,644,2
+develops,645,1
+knowledge worry,646,3
+mind,647,1
+set,648,4
+configuring,649,1
+systemd,650,19
+determined attacker dont,651,3
+backdoored knowledge worry,652,3
+tails specific,653,1
+staff,654,1
+amnesic,655,2
+didnt people,656,1
+popped,657,1
+answer,658,4
+taught,659,1
+series,660,2
+confin,661,2
+unfix,662,5
+difficult gentoo,663,2
+sniffing,664,1
+config,665,2
+portage,666,1
+things making,667,2
+alike white,668,1
+kernel arch,669,1
+wrong dude,670,1
+fora,671,1
+macian doesnt,672,2
+system thing benefit compiling,673,3
+browser vm,674,2
+bet,675,1
+tailsos,676,1
+compiling firefox,677,2
+prior,678,3
+systemd testing ping issues,679,3
+mailing list,680,3
+ip leaking,681,1
+stray,682,1
+tails custom,683,1
+test,684,1
+commonly,685,1
+doesnt easy,686,4
+checksums verify source,687,3
+finally,688,1
+suspicious,689,1
+making things,690,2
+philosophy bare bones compile,691,3
+compiling versus binaries binary,692,3
+binaries system thing,693,3
+acceptance,694,2
+exploited,695,2
+binaries backdoored,696,3
+parts,697,1
+paradise,698,1
+gateway data,699,1
+versus binaries,700,3
+doubting subscribed arch mailing,701,3
+random,702,1
+isolatedestaddr,703,3
+client,704,1
+human,705,1
+junkie,706,1
+quote plunderinpete december,707,9
+custom,708,7
+wearing,709,2
+topics security,710,1
+killed,711,1
+hole,712,1
+andslow,713,1
+default system,714,1
+form,715,1
+management,716,3
+argumentum,717,4
+obi,718,1
+clicks,719,2
+setup,720,3
+requests specific,721,1
+hours hours,722,1
+big,723,2
+expert,724,2
+configured whonix,725,1
+select,726,2
+arguing,727,2
+kiss philosophy bare bones,728,3
+crowd,729,2
+bin,730,2
+versus binaries binary backdoored,731,3
+key management,732,2
+bit,733,2
+mikes,734,1
+list point,735,1
+doesnt,736,4
+philosophy bare,737,3
+people alike,738,1
+convinced,739,1
+corner,740,1
+easily,741,4
+action,742,1
+text,743,1
+burnt,744,1
+validation,745,1
+fear,746,2
+reduce,747,2
+fired,748,2
+init,749,3
+macian,750,5
+quote plunderinpete december pmfinally,751,2
+issue,752,3
+ip,753,5
+dns,754,4
+systemd agree,755,2
+sense,756,1
+aimed,757,1
+hood,758,1
+windows tor,759,1
+hours compiling,760,2
+ago havent heard issues,761,3
+long future,762,1
+asks,763,1
+protect privacy standpoint,764,3
+impression,765,1
+workstation traffic,766,1
+backdoored prior,767,3
+skew,768,2
+server,769,2
+works,770,2
+turned,771,1
+canfind,772,1
+stymied,773,1
+os iptables,774,2
+austere easily,775,3
+thinking,776,2
+mac,777,1
+forseparating,778,1
+stream,779,2
+december,780,13
+crime,781,1
+libre,782,2
+ability,783,1
+man,784,1
+bundle,785,1
+whonix,786,10
+snooping leaking,787,2
+prefers,788,1
+break,789,2
+topics,790,3
+forward,791,5
+compile gentoo lfs,792,3
+uri,793,1
+compiled binaries system,794,3
+machine,795,2
+verify checksums verify,796,3
+ad populum,797,4
+includes tor,798,3
+havent heard,799,3
+easy pax,800,2
+lotsapplications,801,1
+gentoo,802,7
+qubes,803,1
+alike reason,804,1
+mail,805,3
+concerned,806,1
+thing post,807,1
+software source,808,3
+good reason,809,1
+posts,810,2
+radio,811,2
+answer moment,812,2
+bystanders,813,1
+legit,814,1
+thatisolatedestport,815,1
+jolly,816,1
+bare bones compile gentoo,817,3
+design provide,818,1
+feds,819,1
+snooping,820,4
+level,821,3
+tails tor,822,1
+heard issues grsec,823,3
+determined attacker,824,3
+difficult,825,7
+ideas,826,1
+includes,827,6
+backdoored knowledge worry binaries,828,3
+arch mailing list,829,3
+license,830,3
+onionland,831,4
+speak protect privacy,832,3
+debian based,833,1
+design based,834,4
+convenient,835,2
+raided,836,1
+plug,837,1
+ni,838,2
+sundown,839,1
+configs,840,1
+code,841,2
+philosophy bare bones,842,3
+populum,843,4
+mental,844,1
+investigate,845,1
+head,846,2
+kiss philosophy,847,5
+threats,848,2
+attacker dont people verify,849,3
+noobs,850,1
+hear,851,3
+heard,852,3
+execution,853,1
+unfortunate,854,1
+pretty,855,3
+os,856,12
+nature,857,1
+social,858,1
+wheel,859,1
+couple thoughts,860,1
+ago havent,861,3
+phoenix,862,1
+compile gentoo,863,3
+synchronization,864,2
+pi,865,1
+essentially,866,1
+fence,867,1
+pm,868,1
+sitting,869,1
+wrote wrote,870,1
+curl,871,1
+tails security,872,1
+reasonings,873,2
+ssh,874,2
+episode,875,1
+convenience,876,1
+lfs compiling thing austere,877,3
+good discussion,878,1
+fucking,879,1
+scene,880,1
+compiling versus,881,3
+quoted,882,1
+extremely,883,2
+dvd,884,1
+gateway setup,885,2
+clever,886,1
+adrenalos,887,1
+adversaries,888,1
+blending,889,1
+quotea,890,1
+breaking,891,1
+intreated,892,2
+based,893,6
+attacker dont people,894,3
+source isnt,895,3
+december pmregarding,896,4
+everybodys,897,1
+closely,898,1
+ago havent heard,899,3
+module,900,1
+invent,901,1
+received,902,1
+benefit,903,3
+havent heard issues,904,3
+pointed,905,1
+bsd,906,2
+security discussion,907,1
+mther,908,1
+quoteever,909,1
+binaries binary backdoored knowledge,910,3
+checking,911,1
+security check,912,1
+customization,913,1
+tor browser,914,2
+vm worried,915,1
+ports,916,1
+long,917,5
+fell,918,2
+referring,919,2
+mailing list long,920,3
+software source compiled binaries,921,3
+pretty difficult,922,1
+glance,923,1
+backdoored knowledge,924,3
+supports,925,1
+mit,926,1
+deblobbed kernel,927,2
+pmfirst,928,1
+operating,929,1
+key,930,3
+email,931,1
+compiling versus binaries,932,3
+compiled binaries,933,6
+starter,934,1
+grsec,935,3
+rbac,936,4
+started,937,2
+kiss follow,938,2
+people,939,17
+tb,940,1
+stay,941,2
+confirm,942,1
+single,943,1
+whonix gateway,944,2
+isolation malware,945,1
+closed,946,1
+ciphernet,947,2
+amquote,948,1
+pentest,949,1
+benefit compiling versus,950,3
+operation,951,1
+experts,952,1
+checksums verify,953,3
+story,954,1
+agent,955,2
+apply thoughts,956,3
+separate,957,1
+user system,958,1
+rules,959,2
+thing dont,960,2
+trivial,961,1
+infections,962,1
+bare,963,3
+windows windows,964,1
+subscribed arch mailing,965,3
+pmregarding,966,4
+standpoint apply,967,3
+backdoored adversary fucked determined,968,3
+system setup,969,1
+pmfinally doubting,970,2
+arch design,971,2
+vm,972,4
+proxy things,973,1
+build arch,974,2
+internet,975,1
+software source compiled,976,3
+installed,977,1
+read post,978,2
+os whonix,979,1
+heard issues,980,3
+reasons,981,1
+idea,982,4
+destination,983,1
+whonix read,984,1
+admin,985,1
+privacy,986,3
+proper,987,1
+ago tails,988,1
+learning,989,2
+thatit,990,1
+isnt backdoored prior compiling,991,3
+linus,992,2
+script start,993,2
+austere,994,3
+dams,995,2
+traffic tor,996,1
+people safe,997,2
+common,998,1
+linux,999,9
+debian,1000,3
+mash,1001,1
+virtue,1002,2
+compiling software,1003,3
+wide,1004,2
+apply,1005,3
+binary backdoored knowledge,1006,3
+reading,1007,2
+people suspect,1008,1
+argue,1009,2
+tor dont,1010,2
+versus binaries binary,1011,3
+healthy,1012,1
+knowledge worry binaries,1013,3
+compromise,1014,2
+source compiled,1015,3
+files pre,1016,2
+software,1017,5
+users traffic,1018,1
+discussions,1019,1
+ridiculously,1020,1
+fair,1021,2
+type,1022,1
+cone,1023,1
+problem,1024,1
+testing ping issues,1025,3
+weather,1026,1
+tor tor,1027,1
+randomize,1028,1
+binaries default,1029,2
+raspberry,1030,1
+goal,1031,2
+obsessed,1032,1
+work,1033,2
+agree,1034,4
+pacman,1035,1
+push,1036,2
+data wrote,1037,1
+fail,1038,1
+scares,1039,2
+worry binaries backdoored,1040,3
+dont people verify checksums,1041,3
+configsneat,1042,1
+qubesoss,1043,1
+testing ping,1044,3
+love,1045,2
+cops,1046,2
+signature,1047,1
+philosophy thing,1048,2
+wget,1049,1
+isolated,1050,1
+requests,1051,3
+foundation,1052,1
+compiling key,1053,1
+feature,1054,1
+verify,1055,11
+lurker,1056,1
+informed,1057,1
+include,1058,3
+facebook,1059,2
+lfs compiling thing,1060,3
+things long,1061,1
+compiling thing austere easily,1062,3
+post future,1063,1
+suspect,1064,3
+source isnt backdoored prior,1065,3
+opinion,1066,1
+thoughts compiling software,1067,3
+site,1068,1
+forcing,1069,1
+depth,1070,1
+quote plunderinpete december pmregarding,1071,4
+os build,1072,1
+isolates,1073,1
+plunderinpete december,1074,11
+runs,1075,1
+dress,1076,1
+perfect,1077,2
+data,1078,3
+prefer,1079,1
+privacy standpoint apply,1080,3
+onion,1081,1
+firefox,1082,4
+bones compile gentoo lfs,1083,3
+security set,1084,1
+compiling software source,1085,3
+management management,1086,1
+tails os,1087,3
+tor people,1088,1
+tag,1089,1
+opsec security,1090,1
+sunny,1091,1
+small time,1092,1
+forward couple,1093,1
+dnms,1094,2
+fucked determined,1095,3
+individual,1096,1
+gentoo lfs compiling,1097,3
+ill,1098,1
+workstation,1099,4
+paranoid,1100,1
+blueprint,1101,1
+wipes,1102,1
+safe,1103,5
+mua,1104,1
+dont people,1105,3
+files,1106,3
+send,1107,1
+binaries,1108,12
+linux time,1109,1
+distro switched,1110,2
+covering,1111,2
+whonix design,1112,1
+dont log,1113,1
+death,1114,2
+configuration,1115,1
+purpose,1116,1
+philosophy pax,1117,2
+link,1118,1
+torified,1119,1
+denounced,1120,2
+pentesting,1121,1
+network,1122,2
+fucked determined attacker,1123,3
+security,1124,16
+trace,1125,1
+public,1126,1
+car,1127,1
+linux implement,1128,1
+cat,1129,1
+checksum,1130,2
+thesame,1131,1
+knowledge worry binaries backdoored,1132,3
+systemd testing ping,1133,3
+privacy standpoint,1134,3
+arch kiss philosophy bare,1135,3
+os personal,1136,2
+ing,1137,1
+advantage,1138,2
+spent,1139,1
+systemd speak protect,1140,3
+shameless,1141,1
+grsec systemd,1142,3
+follow,1143,3
+expensive,1144,1
+rbac deblobbed,1145,2
+source compiled binaries system,1146,3
+aiming,1147,1
+torifies,1148,1

@@ -1,0 +1,61 @@
+Topic 0:
+  symmetry encryption:15.91
+  asymmetric encryption:11.76
+  decrypt files:11.76
+  file:11.47
+  quote:10.47
+  price namecoin btc:10.01
+  data:9.40
+  post:8.88
+  algorithm provided ccrypt symmetry:8.82
+  ccrypt:8.70
+
+Topic 1:
+  price:15.81
+  drive:13.39
+  precious:13.38
+  bitcoin:10.52
+  delete files:10.04
+  keiser report:10.03
+  gold:10.03
+  center:10.02
+  secrets txt:9.99
+  domain:9.75
+
+Topic 2:
+  myname:19.63
+  bit asa key created:19.53
+  quoting solution:17.65
+  keyserver:16.89
+  public keys:15.40
+  options:13.76
+  gpg:13.47
+  leo:13.42
+  collisions keys share:13.38
+  key:13.30
+
+Topic 3:
+  btc:518.03
+  ltc:200.99
+  cny:73.53
+  doge:20.10
+  xpm:16.75
+  appears pairings:13.40
+  cny eur:10.05
+  coins survive:8.59
+  tes:6.70
+  cgb:6.70
+
+Topic 4:
+  linus machine:17.64
+  gnupg:16.74
+  public key:12.28
+  public:12.01
+  plug windows machine:11.75
+  os held stick boot:11.75
+  vault files:11.75
+  point view:11.75
+  original file mytext txt:11.75
+  gpg:11.56
+
+K: 5, Log-Likelihood: -65313.688, Alpha: 11.000, Beta: 1.100

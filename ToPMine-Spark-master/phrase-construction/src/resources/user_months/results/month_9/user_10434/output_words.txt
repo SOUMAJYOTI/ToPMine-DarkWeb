@@ -1,0 +1,61 @@
+Topic 0:
+  weed:1.34
+  markets:0.61
+  leave:0.60
+  vendor:0.41
+  free:0.41
+  finest:0.41
+  afrikansun:0.41
+  love:0.41
+  bud:0.41
+  stickiest:0.41
+
+Topic 1:
+  weed:1.27
+  leave:0.56
+  markets:0.53
+  good:0.46
+  africa:0.41
+  prices:0.41
+  find:0.40
+  bud:0.40
+  comments:0.40
+  free:0.40
+
+Topic 2:
+  weed:1.16
+  markets:0.75
+  leave:0.74
+  forums:0.56
+  customers:0.56
+  afrikansun:0.55
+  vendor:0.55
+  dagda:0.43
+  couple:0.43
+  comments:0.42
+
+Topic 3:
+  weed:1.21
+  leave:0.58
+  markets:0.56
+  good:0.43
+  prices:0.41
+  love:0.40
+  stickiest:0.40
+  finest:0.40
+  africa:0.40
+  bud:0.40
+
+Topic 4:
+  weed:1.02
+  markets:0.54
+  good:0.54
+  leave:0.52
+  africa:0.44
+  prices:0.44
+  dagda:0.39
+  couple:0.38
+  find:0.37
+  stickiest:0.37
+
+K: 5, Log-Likelihood: -517.770, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  require:1.19
+  pre:1.14
+  questions:1.13
+  charge:1.12
+  paid:1.12
+  good exchange:1.10
+  polish:1.10
+  cards:1.10
+  alot btc:1.09
+  alot:1.08
+
+Topic 1:
+  ids:1.22
+  papers:1.21
+  offers localbitcoins:1.20
+  bitcoins:1.19
+  fake:1.19
+  bitstamp:1.19
+  bla bla:1.19
+  alot:1.18
+  alot btc:1.17
+  cards:1.16
+
+Topic 2:
+  sea:1.12
+  localbitcoins:1.11
+  info:1.10
+  dont:1.10
+  buy:1.10
+  helps:1.09
+  hope:1.09
+  register:1.09
+  offers country:1.08
+  peace:1.08
+
+Topic 3:
+  work:4.00
+  sell:2.63
+  btc:2.60
+  pretty:2.58
+  amount:2.51
+  exchange require:1.14
+  selling:1.14
+  lbc:1.14
+  op:1.14
+  suggestions:1.14
+
+Topic 4:
+  buy:0.91
+  localbitcoins:0.87
+  tradehill:0.69
+  shifting:0.68
+  guess:0.68
+  linen:0.68
+  security:0.68
+  rocktrading:0.68
+  tightened:0.68
+  good:0.68
+
+K: 5, Log-Likelihood: -789.816, Alpha: 11.000, Beta: 1.100

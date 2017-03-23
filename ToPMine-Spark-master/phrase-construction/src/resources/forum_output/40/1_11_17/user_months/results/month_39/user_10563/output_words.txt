@@ -1,0 +1,61 @@
+Topic 0:
+  data:4.13
+  bad:4.04
+  disk:2.63
+  drive:2.59
+  utility:2.58
+  secure:2.51
+  wipe:2.44
+  standard:2.28
+  blocks:2.07
+  nand:1.98
+
+Topic 1:
+  opal:9.52
+  april:8.67
+  key:7.49
+  data:7.09
+  firmware:5.79
+  pmquote:5.39
+  ssds:5.24
+  disk:4.76
+  device:4.38
+  el:4.33
+
+Topic 2:
+  ssd:16.59
+  key:13.91
+  fde:8.18
+  opal:7.81
+  encrypt:7.18
+  data:6.05
+  factory:5.87
+  set:3.85
+  advice:2.99
+  protects:2.98
+
+Topic 3:
+  erase:9.61
+  security:6.32
+  enhanced:4.90
+  full:4.80
+  option:4.35
+  data:4.04
+  blocks:2.57
+  bad:2.37
+  modern:2.35
+  disk:2.15
+
+Topic 4:
+  lies:2.88
+  ssd:2.76
+  nsa:2.23
+  quote:2.20
+  news:1.94
+  dont:1.93
+  bios:1.84
+  boot:1.70
+  secure:1.70
+  data:1.68
+
+K: 5, Log-Likelihood: -4674.477, Alpha: 11.000, Beta: 1.100

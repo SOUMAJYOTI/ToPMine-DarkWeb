@@ -1,0 +1,61 @@
+Topic 0:
+  dont:0.40
+  shrugs:0.20
+  darksend:0.20
+  dash:0.20
+  anoncoin:0.20
+  mixing:0.20
+  heard:0.20
+  kind:0.20
+  cash:0.20
+  ecoin:0.20
+
+Topic 1:
+  dont:0.40
+  hear:0.20
+  claims:0.20
+  cash:0.20
+  ecoin:0.20
+  github:0.20
+  anony:0.20
+  mixing:0.20
+  shrugs:0.20
+  anoncoin:0.20
+
+Topic 2:
+  dont:0.40
+  anony:0.20
+  ecoin:0.20
+  hear:0.20
+  github:0.20
+  claims:0.20
+  cash:0.20
+  kind:0.20
+  heard:0.20
+  anoncoin:0.20
+
+Topic 3:
+  dont:0.40
+  anony:0.20
+  github:0.20
+  cash:0.20
+  hear:0.20
+  claims:0.20
+  ecoin:0.20
+  kind:0.20
+  shrugs:0.20
+  anoncoin:0.20
+
+Topic 4:
+  dont:0.40
+  dash:0.20
+  darksend:0.20
+  heard:0.20
+  mixing:0.20
+  anoncoin:0.20
+  kind:0.20
+  shrugs:0.20
+  claims:0.20
+  github:0.20
+
+K: 5, Log-Likelihood: -39.262, Alpha: 11.000, Beta: 1.100

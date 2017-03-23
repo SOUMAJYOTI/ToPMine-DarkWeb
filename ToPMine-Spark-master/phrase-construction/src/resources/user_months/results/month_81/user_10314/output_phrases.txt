@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:3.55
+  feel:3.41
+  interested:2.29
+  changing:2.19
+  cheers:2.19
+  fee:2.19
+  howdy:2.19
+  application:2.19
+  joining:2.19
+  coming:2.19
+
+Topic 1:
+  markets:6.71
+  bmr:6.51
+  topic:4.46
+  people:3.98
+  bmr mods alive dead:3.10
+  site:3.03
+  sr community ill:2.27
+  unhealthy idea dedicated invest:2.27
+  things:2.21
+  bash:2.21
+
+Topic 2:
+  user:4.36
+  based:3.54
+  site open:3.20
+  late:3.02
+  message offer free vendor:3.01
+  february ami:2.99
+  dude:2.99
+  party:2.99
+  psychonaut:2.97
+  amplayers:2.11
+
+Topic 3:
+  scam change colours bit:4.17
+  january:3.61
+  cantina:3.50
+  stringerbell:3.40
+  pmwtf:3.40
+  sheep:2.59
+  year:2.49
+  opened:2.47
+  places:2.46
+  popping:2.43
+
+Topic 4:
+  marketplace:4.41
+  market:4.26
+  vendors:2.57
+  wary:2.53
+  moment:2.53
+  sheep:2.31
+  evidence:2.16
+  feels:2.16
+  similarities:2.16
+  point:2.16
+
+K: 5, Log-Likelihood: -2523.892, Alpha: 11.000, Beta: 1.100

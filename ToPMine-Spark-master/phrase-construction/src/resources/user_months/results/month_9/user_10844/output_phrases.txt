@@ -1,0 +1,61 @@
+Topic 0:
+  email:5.11
+  agree making people:3.70
+  sign account record bought:3.70
+  anonymous file sharing service:3.70
+  le le:3.70
+  address send shipping label:3.70
+  dont care upload labels:3.70
+  time:3.70
+  drugs case:3.16
+  favor:3.16
+
+Topic 1:
+  business:6.01
+  fresh:4.00
+  concern:4.00
+  party:3.14
+  pay:3.14
+  privacy:3.14
+  blackmailing:2.28
+  start:2.28
+  post office:2.08
+  manual:1.98
+
+Topic 2:
+  accounts:3.98
+  postage:3.98
+  plan:3.09
+  markets:3.09
+  idea:3.09
+  stamps risk:3.09
+  people real:3.09
+  based dont:3.09
+  fuck:3.09
+  harm:3.09
+
+Topic 3:
+  complicated:3.99
+  aware people:3.99
+  postage anonymously:3.99
+  stamps:3.41
+  service safepostage:2.93
+  vouch:2.93
+  established:2.93
+  post office:2.66
+  guys:2.48
+  virtual:1.97
+
+Topic 4:
+  people:11.00
+  problem:3.99
+  pr:3.99
+  issue:3.99
+  guy:3.99
+  buyer:3.02
+  folks:3.02
+  encrypted:3.02
+  doesnt safepostage:3.02
+  address people:3.02
+
+K: 5, Log-Likelihood: -4490.015, Alpha: 11.000, Beta: 1.100

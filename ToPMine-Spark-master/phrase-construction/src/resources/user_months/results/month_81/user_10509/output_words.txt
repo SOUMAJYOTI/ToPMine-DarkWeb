@@ -1,0 +1,61 @@
+Topic 0:
+  safe:1.08
+  stay:1.02
+  needle:0.99
+  xoxostay:0.85
+  sr:0.83
+  haystack:0.82
+  awesome:0.81
+  fallout:0.80
+  continue:0.76
+  june:0.75
+
+Topic 1:
+  stay:1.73
+  safe:1.62
+  needle:1.59
+  continue:1.40
+  boneskoopa:1.40
+  quote:1.35
+  june:1.35
+  fallout:1.33
+  sr:1.33
+  haystack:1.07
+
+Topic 2:
+  yeah:1.62
+  xx:1.62
+  carding:1.61
+  achaia:0.71
+  cunts:0.71
+  cards:0.71
+  rooms:0.71
+  fucker:0.71
+  gourmet:0.71
+  neck:0.71
+
+Topic 3:
+  activity:2.87
+  entities:2.87
+  bitcoin:2.87
+  web:1.87
+  implicit:1.87
+  evidence:1.87
+  enforcement:1.87
+  blockchain:1.87
+  actionable:1.87
+  law:1.87
+
+Topic 4:
+  needle:0.96
+  safe:0.92
+  stay:0.86
+  awesome:0.76
+  xoxostay:0.73
+  haystack:0.71
+  quote:0.62
+  june:0.61
+  boneskoopa:0.60
+  fallout:0.60
+
+K: 5, Log-Likelihood: -971.422, Alpha: 11.000, Beta: 1.100

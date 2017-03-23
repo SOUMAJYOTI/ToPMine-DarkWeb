@@ -1,0 +1,61 @@
+Topic 0:
+  bandwidth:0.68
+  drugs:0.63
+  social:0.46
+  speed:0.45
+  handle:0.45
+  dont:0.45
+  bitcoins:0.45
+  meaning:0.45
+  pretty:0.44
+  tulips:0.44
+
+Topic 1:
+  bandwidth:0.76
+  drugs:0.57
+  speed:0.55
+  cash:0.46
+  tulips:0.45
+  pretty:0.45
+  meaning:0.44
+  dont:0.44
+  handle:0.44
+  bitcoins:0.44
+
+Topic 2:
+  spamming:1.56
+  mod:1.05
+  house:1.05
+  reason:1.05
+  alfred:1.05
+  deleted:1.05
+  fact:1.05
+  couple:1.05
+  site:1.05
+  respectful:1.05
+
+Topic 3:
+  bandwidth:1.79
+  speed:1.14
+  key:0.49
+  resources:0.49
+  level:0.48
+  apologies:0.48
+  xxrrgs:0.48
+  usesecurity:0.48
+  beta:0.48
+  implementing:0.48
+
+Topic 4:
+  bandwidth:0.84
+  drugs:0.64
+  speed:0.55
+  pretty:0.48
+  meaning:0.45
+  bitcoins:0.45
+  handle:0.45
+  dont:0.45
+  cash:0.44
+  tulips:0.44
+
+K: 5, Log-Likelihood: -662.722, Alpha: 11.000, Beta: 1.100

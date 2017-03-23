@@ -1,0 +1,61 @@
+Topic 0:
+  quality:6.24
+  indoor:5.52
+  coffeeshop:4.62
+  citrus:3.54
+  aaa:3.07
+  haze:2.99
+  tested:2.91
+  laboratorium:2.78
+  tor:1.57
+  purity:1.57
+
+Topic 1:
+  purity:6.93
+  haze:5.85
+  mdma:5.05
+  citrus:4.62
+  labtested:3.34
+  quality:2.17
+  indoor:1.72
+  coffeeshop:1.55
+  aaa:1.48
+  thread:1.20
+
+Topic 2:
+  purity:5.49
+  citrus:4.24
+  tested:3.93
+  coffeeshop:3.75
+  haze:3.65
+  quality:3.44
+  mdma:2.86
+  aaa:2.79
+  indoor:2.72
+  laboratorium:2.41
+
+Topic 3:
+  store:1.88
+  blackbank:1.10
+  orders:1.03
+  open:0.99
+  picture:0.97
+  thread:0.95
+  tor:0.95
+  offer:0.89
+  processing:0.89
+  resolve:0.89
+
+Topic 4:
+  mdma:15.42
+  labtested:14.13
+  purity:13.90
+  fe:9.98
+  citrus:4.30
+  maxhavelaar:4.28
+  haze:4.19
+  france:3.13
+  spain:2.97
+  profile:2.35
+
+K: 5, Log-Likelihood: -947.926, Alpha: 11.000, Beta: 1.100

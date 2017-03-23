@@ -1,0 +1,61 @@
+Topic 0:
+  forum:0.58
+  market:0.57
+  acropolis:0.41
+  marketplace:0.39
+  check:0.39
+  vendor:0.39
+  invite:0.21
+  plate:0.21
+  url:0.21
+  referred:0.21
+
+Topic 1:
+  market:0.64
+  forum:0.62
+  vendor:0.41
+  marketplace:0.41
+  check:0.41
+  acropolis:0.39
+  time:0.20
+  cola:0.20
+  vendors:0.20
+  santa:0.20
+
+Topic 2:
+  forum:0.56
+  market:0.56
+  acropolis:0.41
+  vendor:0.40
+  marketplace:0.39
+  check:0.39
+  weve:0.21
+  loving:0.21
+  invite:0.21
+  url:0.21
+
+Topic 3:
+  market:0.60
+  forum:0.58
+  acropolis:0.40
+  check:0.40
+  vendor:0.40
+  marketplace:0.40
+  referred:0.20
+  heads:0.20
+  weve:0.20
+  oc:0.20
+
+Topic 4:
+  forum:0.66
+  market:0.63
+  marketplace:0.41
+  vendor:0.41
+  check:0.41
+  acropolis:0.39
+  kicked:0.20
+  cocaine:0.20
+  la:0.20
+  vet:0.20
+
+K: 5, Log-Likelihood: -169.038, Alpha: 11.000, Beta: 1.100

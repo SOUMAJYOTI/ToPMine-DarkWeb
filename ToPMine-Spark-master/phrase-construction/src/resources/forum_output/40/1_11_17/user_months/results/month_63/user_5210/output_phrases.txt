@@ -1,0 +1,61 @@
+Topic 0:
+  provide:3.09
+  greatly:1.41
+  fellow:1.41
+  happened:1.41
+  albions store:1.41
+  btw:1.41
+  gardeners:1.41
+  links:1.41
+  store:1.41
+  led:1.41
+
+Topic 1:
+  pm:3.94
+  albion:1.98
+  quote:1.68
+  expected:1.67
+  vendor:1.66
+  updating:1.65
+  comments:1.65
+  accepting:1.65
+  thread:1.64
+  website:1.64
+
+Topic 2:
+  albion:0.92
+  albions:0.89
+  vendors:0.85
+  shop:0.68
+  pm:0.61
+  topic:0.58
+  read:0.57
+  orders:0.57
+  change:0.57
+  moment:0.57
+
+Topic 3:
+  vendors:1.52
+  shop:1.00
+  read:0.88
+  days:0.87
+  orders:0.86
+  topic:0.86
+  moment:0.86
+  accept:0.85
+  change:0.84
+  reachable:0.84
+
+Topic 4:
+  vendors:1.30
+  shop:0.89
+  board:0.84
+  reading:0.83
+  active:0.83
+  suits:0.83
+  find:0.82
+  reachable:0.82
+  change:0.80
+  accept:0.80
+
+K: 5, Log-Likelihood: -499.273, Alpha: 11.000, Beta: 1.100

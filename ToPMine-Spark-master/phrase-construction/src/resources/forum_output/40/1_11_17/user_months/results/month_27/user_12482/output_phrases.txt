@@ -1,0 +1,61 @@
+Topic 0:
+  ksi:0.00
+  perusteella:0.00
+  helsingist:0.00
+  postiin:0.00
+  ensimm:0.00
+  turhaan:0.00
+  kuoret:0.00
+  nyt:0.00
+  kaikesta:0.00
+  kannattanee:0.00
+
+Topic 1:
+  ksi:0.00
+  perusteella:0.00
+  helsingist:0.00
+  postiin:0.00
+  ensimm:0.00
+  turhaan:0.00
+  kuoret:0.00
+  nyt:0.00
+  kaikesta:0.00
+  kannattanee:0.00
+
+Topic 2:
+  ksi:0.00
+  perusteella:0.00
+  helsingist:0.00
+  postiin:0.00
+  ensimm:0.00
+  turhaan:0.00
+  kuoret:0.00
+  nyt:0.00
+  kaikesta:0.00
+  kannattanee:0.00
+
+Topic 3:
+  ksi:0.00
+  perusteella:0.00
+  helsingist:0.00
+  postiin:0.00
+  ensimm:0.00
+  turhaan:0.00
+  kuoret:0.00
+  nyt:0.00
+  kaikesta:0.00
+  kannattanee:0.00
+
+Topic 4:
+  ksi:0.00
+  perusteella:0.00
+  helsingist:0.00
+  postiin:0.00
+  ensimm:0.00
+  turhaan:0.00
+  kuoret:0.00
+  nyt:0.00
+  kaikesta:0.00
+  kannattanee:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

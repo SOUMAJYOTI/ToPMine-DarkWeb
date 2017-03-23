@@ -1,0 +1,61 @@
+Topic 0:
+  captcha:2.26
+  tornado:1.77
+  pops:1.62
+  dont:1.48
+  hard:1.41
+  market:1.39
+  capcha:1.36
+  link:1.02
+  quote:0.95
+  buy:0.93
+
+Topic 1:
+  captcha:4.55
+  pops:2.84
+  hard:2.55
+  capcha:1.67
+  tornado:1.65
+  market:1.58
+  dont:1.45
+  popsquote:1.29
+  quote:1.21
+  buy:1.08
+
+Topic 2:
+  pops:7.90
+  captcha:5.44
+  hard:3.75
+  popsquote:3.39
+  piss:1.72
+  tornado:1.70
+  notch:1.67
+  fucking:1.67
+  dont:1.67
+  potential:1.67
+
+Topic 3:
+  market:2.79
+  buy:2.01
+  vendor:1.55
+  captcha:1.32
+  ass:1.05
+  pops:1.03
+  tornado:1.00
+  quote:0.88
+  stable:0.81
+  capcha:0.79
+
+Topic 4:
+  market:2.13
+  buy:1.98
+  captcha:1.44
+  vendor:1.30
+  ass:1.01
+  tornado:0.89
+  send:0.86
+  finish:0.85
+  tonight:0.85
+  links:0.85
+
+K: 5, Log-Likelihood: -1365.738, Alpha: 11.000, Beta: 1.100

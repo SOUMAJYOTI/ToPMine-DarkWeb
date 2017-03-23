@@ -1,0 +1,61 @@
+Topic 0:
+  anon:1.13
+  mail:1.05
+  lbc:0.82
+  person:0.68
+  buying:0.60
+  sellers:0.59
+  cash:0.57
+  account:0.40
+  deal:0.38
+  rate:0.38
+
+Topic 1:
+  account:1.00
+  bitcoin:0.95
+  person:0.67
+  step:0.64
+  safest:0.63
+  linked:0.63
+  anonymous:0.63
+  sellers:0.58
+  local:0.54
+  anonymity:0.53
+
+Topic 2:
+  person:1.89
+  cash:1.38
+  sellers:1.00
+  face:0.91
+  lbc:0.81
+  computer:0.81
+  public:0.81
+  record:0.81
+  market:0.81
+  wallet:0.81
+
+Topic 3:
+  account:1.18
+  mail:1.09
+  anon:1.01
+  bitcoin:0.69
+  small:0.61
+  set:0.61
+  lbc:0.48
+  anonymous:0.47
+  safest:0.46
+  linked:0.46
+
+Topic 4:
+  account:1.21
+  bitcoin:0.83
+  anonymous:0.61
+  linked:0.61
+  safest:0.61
+  step:0.61
+  local:0.54
+  set:0.50
+  small:0.50
+  sellers:0.46
+
+K: 5, Log-Likelihood: -701.725, Alpha: 11.000, Beta: 1.100

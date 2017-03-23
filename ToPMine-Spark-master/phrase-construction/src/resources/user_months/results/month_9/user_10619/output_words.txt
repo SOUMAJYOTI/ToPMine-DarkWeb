@@ -1,0 +1,61 @@
+Topic 0:
+  business:3.17
+  honor:2.25
+  thieves:2.25
+  time:1.74
+  weeks:1.72
+  transaction:1.69
+  campbx:1.60
+  coin:1.16
+  couple:1.15
+  problem:1.15
+
+Topic 1:
+  address:5.62
+  bitcoinfog:2.85
+  funds:2.85
+  coins:2.17
+  check:2.07
+  week:1.85
+  registered:1.85
+  service:1.85
+  company:1.85
+  untraceable:1.85
+
+Topic 2:
+  campbx:2.62
+  wallet:1.22
+  coins:1.16
+  quote:0.91
+  warning:0.86
+  ill:0.80
+  blockchain:0.67
+  loss:0.64
+  easy:0.60
+  times:0.60
+
+Topic 3:
+  campbx:1.63
+  warning:1.49
+  loss:1.28
+  wallet:1.12
+  ill:1.04
+  man:0.96
+  guess:0.94
+  thought:0.93
+  verified:0.84
+  quote:0.84
+
+Topic 4:
+  loss:1.81
+  verified:1.53
+  campbx:1.42
+  warning:1.33
+  guess:1.26
+  thought:1.25
+  man:1.23
+  time:1.20
+  crazy:0.91
+  rouge:0.91
+
+K: 5, Log-Likelihood: -1313.056, Alpha: 11.000, Beta: 1.100

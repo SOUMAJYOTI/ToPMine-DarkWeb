@@ -1,0 +1,61 @@
+Topic 0:
+  remove:2.31
+  balance:2.30
+  thread:1.65
+  luck:1.65
+  fully:1.65
+  days:1.65
+  small error message:1.65
+  funds:1.65
+  turns:1.65
+  resolution:1.65
+
+Topic 1:
+  process:3.88
+  hope:3.35
+  pin:1.75
+  reimbursed:1.58
+  forgot:1.58
+  vendors:1.58
+  btcs:1.58
+  fromdoes:1.58
+  lucky:1.58
+  long:1.58
+
+Topic 2:
+  pin:4.08
+  kind:2.33
+  fails:2.32
+  error message top:2.32
+  withdrawal:2.31
+  small error message top:2.30
+  change:1.70
+  northwest:1.59
+  request:1.59
+  option:1.59
+
+Topic 3:
+  dinged:3.38
+  june:3.37
+  trolltergeist:2.02
+  negative:2.01
+  reporting:2.01
+  karma:2.00
+  tub:1.61
+  hotpants:1.61
+  times:1.61
+  hit:1.61
+
+Topic 4:
+  place:3.48
+  bitcoin:2.50
+  silk:2.07
+  road:2.07
+  edit:1.69
+  care:1.69
+  actively:1.69
+  searching:1.69
+  hacked:1.69
+  recommend:1.69
+
+K: 5, Log-Likelihood: -1169.511, Alpha: 11.000, Beta: 1.100

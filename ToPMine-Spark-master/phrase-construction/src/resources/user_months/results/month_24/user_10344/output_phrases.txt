@@ -1,0 +1,61 @@
+Topic 0:
+  sr:5.00
+  market:3.12
+  lost:2.58
+  admin:1.94
+  coin:1.94
+  downtime:1.94
+  mistake:1.94
+  coins:1.94
+  hack ddos:1.94
+  lost sr:1.94
+
+Topic 1:
+  hope:3.14
+  sooner:3.14
+  long:3.14
+  shutdown:3.13
+  thieving:3.13
+  operating:3.13
+  servers:3.13
+  favor:3.13
+  le:3.13
+  sr:2.89
+
+Topic 2:
+  september:2.64
+  turns:2.49
+  quote:1.75
+  pmlets:1.67
+  yeah:1.66
+  dandantheicecreamman:1.66
+  sr forums:1.60
+  actual:1.57
+  peek:1.55
+  fud:1.53
+
+Topic 3:
+  hub:6.53
+  btc:3.18
+  forum:3.18
+  mods vendors:3.18
+  vendors sr:3.18
+  warning:3.18
+  buyers:3.18
+  accounts:3.18
+  risk:3.18
+  ddos sr:3.18
+
+Topic 4:
+  blah:3.97
+  shit:3.28
+  owed:1.90
+  fuck:1.90
+  fk:1.90
+  mods:1.90
+  guys:1.90
+  ffs:1.90
+  grandsfrom:1.90
+  nonsense:1.90
+
+K: 5, Log-Likelihood: -1547.440, Alpha: 11.000, Beta: 1.100

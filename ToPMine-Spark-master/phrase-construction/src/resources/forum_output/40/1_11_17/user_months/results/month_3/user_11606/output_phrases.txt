@@ -1,0 +1,61 @@
+Topic 0:
+  withdrawls:2.91
+  money:2.91
+  borrow:2.91
+  hack:2.91
+  vendors:2.91
+  deposits:2.91
+  early:1.41
+  view:1.41
+  idea:1.41
+  bugs:1.41
+
+Topic 1:
+  cnn:1.85
+  article:1.24
+  clearnet warning:1.23
+  thread:0.86
+  link:0.83
+  themself:0.81
+  futures:0.81
+  steal:0.81
+  states:0.81
+  caught:0.81
+
+Topic 2:
+  staff:2.89
+  pay:2.89
+  users:1.75
+  truth:1.75
+  btc:1.75
+  stole:1.54
+  malleability:1.39
+  story:1.39
+  profits:1.39
+  dont:1.39
+
+Topic 3:
+  scam:2.58
+  expert:2.50
+  thread:1.47
+  event:1.18
+  wallet:1.18
+  qualified:1.17
+  expert testimony:1.17
+  wait:1.17
+  contradict:1.17
+  posted:1.17
+
+Topic 4:
+  clearnet warning:1.31
+  andreas antonopoulos:0.89
+  cnn:0.82
+  link:0.79
+  thread:0.78
+  accounts:0.71
+  service:0.71
+  leaders:0.71
+  silk:0.71
+  swindled:0.71
+
+K: 5, Log-Likelihood: -1325.479, Alpha: 11.000, Beta: 1.100

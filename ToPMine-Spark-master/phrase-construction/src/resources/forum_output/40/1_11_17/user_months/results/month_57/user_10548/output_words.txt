@@ -1,0 +1,61 @@
+Topic 0:
+  drive:30.51
+  data:20.24
+  secure:13.89
+  os:11.47
+  format:10.92
+  recoverable:8.94
+  notable:7.91
+  usb:7.60
+  hdd:7.15
+  formatting:6.86
+
+Topic 1:
+  install:18.95
+  sudo:11.93
+  apt:11.93
+  os:8.42
+  workstation:7.93
+  virtualbox:7.93
+  phoenix:7.93
+  gateway:7.93
+  august:6.14
+  security:5.60
+
+Topic 2:
+  tails:17.59
+  usb:6.28
+  quote:4.73
+  august:4.06
+  gog:3.94
+  add:3.94
+  pretty:3.93
+  easy:3.33
+  safe:2.83
+  follow:2.82
+
+Topic 3:
+  drive:26.23
+  august:24.44
+  pmquote:13.49
+  recovered:10.84
+  solov:8.95
+  ssd:8.77
+  start:8.53
+  fresh:7.93
+  mac:7.91
+  securely:7.80
+
+Topic 4:
+  vpn:41.40
+  tor:31.81
+  tails:13.68
+  wifi:11.41
+  network:8.88
+  fatherted:7.56
+  quote:7.41
+  dont:6.91
+  setup:6.76
+  connect:6.71
+
+K: 5, Log-Likelihood: -9182.247, Alpha: 11.000, Beta: 1.100

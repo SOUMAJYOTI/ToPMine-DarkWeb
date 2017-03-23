@@ -1,0 +1,61 @@
+Topic 0:
+  setup:0.59
+  properly:0.49
+  security:0.48
+  concerns:0.47
+  set:0.47
+  literally step step:0.34
+  existence kind stupid thread:0.34
+  zaphodn:0.34
+  crown:0.34
+  files:0.34
+
+Topic 1:
+  setup:0.79
+  good:0.38
+  guide:0.38
+  platforms:0.37
+  covers:0.37
+  witch:0.37
+  tor:0.37
+  anonymous:0.37
+  proxy:0.37
+  luck:0.37
+
+Topic 2:
+  setup:0.50
+  amhello:0.46
+  sudo:0.46
+  user trash:0.46
+  type:0.46
+  hardjam september:0.46
+  trash:0.46
+  system:0.46
+  works:0.46
+  mkdir:0.46
+
+Topic 3:
+  concerns:1.18
+  set:1.17
+  security:1.16
+  properly:1.14
+  setup:0.59
+  anonimously:0.48
+  teach:0.48
+  downloaded:0.48
+  account:0.48
+  anonymity:0.48
+
+Topic 4:
+  setup:0.91
+  communication:0.43
+  tor pidgin:0.43
+  support:0.43
+  proxy:0.42
+  otr:0.42
+  article:0.42
+  os:0.42
+  pidgin:0.42
+  tor:0.42
+
+K: 5, Log-Likelihood: -624.839, Alpha: 11.000, Beta: 1.100

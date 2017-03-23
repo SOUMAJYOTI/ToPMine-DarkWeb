@@ -1,0 +1,61 @@
+Topic 0:
+  fake:0.59
+  site:0.58
+  dont:0.40
+  bother:0.40
+  accounts:0.40
+  good:0.40
+  account:0.40
+  blow:0.40
+  limited:0.20
+  stolen:0.20
+
+Topic 1:
+  site:0.61
+  fake:0.60
+  good:0.40
+  dont:0.40
+  blow:0.40
+  accounts:0.40
+  bother:0.40
+  account:0.40
+  super:0.20
+  provide:0.20
+
+Topic 2:
+  site:0.62
+  fake:0.60
+  account:0.41
+  bother:0.40
+  dont:0.40
+  blow:0.40
+  accounts:0.40
+  good:0.40
+  passports:0.20
+  register:0.20
+
+Topic 3:
+  fake:0.61
+  site:0.58
+  accounts:0.40
+  blow:0.40
+  good:0.40
+  account:0.40
+  bother:0.40
+  dont:0.40
+  crazy:0.20
+  limited:0.20
+
+Topic 4:
+  site:0.61
+  fake:0.60
+  bother:0.40
+  accounts:0.40
+  blow:0.40
+  account:0.40
+  good:0.40
+  dont:0.40
+  btc:0.20
+  buy:0.20
+
+K: 5, Log-Likelihood: -272.295, Alpha: 11.000, Beta: 1.100

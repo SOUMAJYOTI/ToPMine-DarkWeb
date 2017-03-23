@@ -1,0 +1,61 @@
+Topic 0:
+  secret:7.87
+  number:5.54
+  factorize:4.65
+  find:4.52
+  reasonable:2.87
+  time:2.59
+  key:2.34
+  safe:1.24
+  generate:1.24
+  hard:1.24
+
+Topic 1:
+  key:6.25
+  public:2.86
+  secret:2.42
+  numbers:2.12
+  mod:2.02
+  number:1.50
+  primes:0.87
+  time:0.84
+  multiply:0.83
+  modular:0.83
+
+Topic 2:
+  key:3.21
+  public:2.75
+  primes:2.37
+  numbers:2.19
+  mod:2.10
+  prime:1.76
+  chose:1.68
+  pick:1.65
+  decrypt:1.63
+  message:1.56
+
+Topic 3:
+  key:5.46
+  secret:4.13
+  number:3.92
+  public:2.30
+  find:2.26
+  time:1.82
+  numbers:1.18
+  modular:1.15
+  multiply:1.14
+  encrypt:1.08
+
+Topic 4:
+  key:4.73
+  public:2.95
+  primes:2.38
+  mod:2.32
+  numbers:1.90
+  mathematics:1.58
+  divide:1.53
+  works:1.51
+  message:1.47
+  decrypt:1.39
+
+K: 5, Log-Likelihood: -817.684, Alpha: 11.000, Beta: 1.100

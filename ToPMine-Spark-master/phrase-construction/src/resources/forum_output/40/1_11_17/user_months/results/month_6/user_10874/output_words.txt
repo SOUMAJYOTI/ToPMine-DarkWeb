@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:12.30
+  ceo:4.95
+  mt:3.95
+  gox:3.60
+  continue:3.59
+  future:3.58
+  exchanges:3.45
+  statement:3.37
+  industry:3.37
+  customers:2.95
+
+Topic 1:
+  february:6.23
+  sunwu:4.61
+  speculation:3.80
+  clearnet:3.73
+  incorporate:3.46
+  plan:3.46
+  insolent:3.44
+  thembeing:3.44
+  thier:3.44
+  dont:3.41
+
+Topic 2:
+  price:4.40
+  finally:4.28
+  business:3.90
+  btc:3.79
+  market:3.23
+  stable:2.63
+  fluctuations:2.62
+  causing:2.62
+  difficult:2.62
+  dies:2.61
+
+Topic 3:
+  statement:2.07
+  mtgox:1.65
+  money:1.40
+  making:1.36
+  bankruptcy:1.19
+  industry:1.14
+  finally:1.12
+  surprise:1.08
+  coin:1.08
+  die:1.03
+
+Topic 4:
+  trade:3.42
+  mtgox:3.06
+  magic:2.81
+  cards:2.81
+  gathering:2.81
+  site:2.76
+  money:2.17
+  untasted:1.92
+  bank:1.92
+  read:1.76
+
+K: 5, Log-Likelihood: -3163.719, Alpha: 11.000, Beta: 1.100

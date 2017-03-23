@@ -1,0 +1,61 @@
+Topic 0:
+  money:0.28
+  bitcoins:0.28
+  users:0.23
+  permanent:0.14
+  work:0.14
+  caught:0.14
+  busy:0.14
+  sorts:0.14
+  february:0.14
+  focus:0.14
+
+Topic 1:
+  bitcoins:0.28
+  money:0.28
+  users:0.23
+  pending:0.14
+  balance:0.14
+  negative:0.14
+  feeling:0.14
+  repaid:0.14
+  registration:0.14
+  disabled:0.14
+
+Topic 2:
+  bitcoins:0.28
+  money:0.28
+  users:0.23
+  posts:0.14
+  understanding:0.14
+  focus:0.14
+  sorts:0.14
+  high:0.14
+  forum:0.14
+  pmthere:0.14
+
+Topic 3:
+  bitcoins:0.28
+  money:0.28
+  users:0.23
+  missing:0.14
+  balance:0.14
+  deal:0.14
+  negative:0.14
+  disabled:0.14
+  registration:0.14
+  feeling:0.14
+
+Topic 4:
+  money:0.28
+  bitcoins:0.28
+  users:0.23
+  happened:0.14
+  attack:0.14
+  accont:0.14
+  reading:0.14
+  account:0.14
+  refresh:0.14
+  people:0.14
+
+K: 5, Log-Likelihood: -118.513, Alpha: 11.000, Beta: 1.100

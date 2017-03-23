@@ -1,0 +1,61 @@
+Topic 0:
+  coinit:5.73
+  ja:4.14
+  viesti:2.41
+  eat:2.16
+  oval:1.97
+  onko:1.94
+  kaikki:1.92
+  joten:1.85
+  sain:1.79
+  eiv:1.77
+
+Topic 1:
+  ett:1.38
+  ja:1.12
+  kurssi:0.90
+  toi:0.83
+  silkkitien:0.78
+  eat:0.68
+  iri:0.63
+  silkroadin:0.63
+  viestitti:0.57
+  minulle:0.57
+
+Topic 2:
+  heitto:2.43
+  iri:2.00
+  se:1.78
+  kurssi:1.69
+  euron:1.66
+  parin:1.66
+  ei:1.66
+  iso:1.53
+  mutta:1.21
+  ivityksess:1.05
+
+Topic 3:
+  ja:2.03
+  eat:1.72
+  coinit:1.49
+  ett:1.38
+  eiv:1.00
+  viesti:0.99
+  sain:0.92
+  joten:0.86
+  kaikki:0.84
+  oval:0.82
+
+Topic 4:
+  eat:2.34
+  coinit:2.33
+  ja:2.30
+  viesti:1.23
+  ett:1.13
+  joten:0.97
+  sain:0.95
+  onko:0.93
+  eiv:0.91
+  kaikki:0.90
+
+K: 5, Log-Likelihood: -1502.679, Alpha: 11.000, Beta: 1.100

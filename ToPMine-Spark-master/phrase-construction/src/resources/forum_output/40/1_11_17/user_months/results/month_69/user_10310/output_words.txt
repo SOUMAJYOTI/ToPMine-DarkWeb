@@ -1,0 +1,61 @@
+Topic 0:
+  hansa:0.60
+  ava:0.40
+  market:0.40
+  ticket:0.40
+  team:0.40
+  service:0.20
+  quote:0.20
+  zendym:0.20
+  high:0.20
+  assist:0.20
+
+Topic 1:
+  hansa:0.61
+  ticket:0.40
+  ava:0.40
+  team:0.40
+  market:0.40
+  volume:0.20
+  service:0.20
+  month:0.20
+  customers:0.20
+  support:0.20
+
+Topic 2:
+  hansa:0.58
+  ava:0.40
+  team:0.40
+  market:0.40
+  ticket:0.40
+  vendor:0.20
+  days:0.20
+  selling:0.20
+  listings:0.20
+  potent:0.20
+
+Topic 3:
+  hansa:0.59
+  ticket:0.40
+  team:0.40
+  market:0.40
+  ava:0.40
+  buds:0.20
+  checked:0.20
+  angeleyes:0.20
+  admirably:0.20
+  time:0.20
+
+Topic 4:
+  hansa:0.61
+  market:0.40
+  team:0.40
+  ava:0.40
+  ticket:0.40
+  holidays:0.20
+  mention:0.20
+  hans:0.20
+  forward:0.20
+  average:0.20
+
+K: 5, Log-Likelihood: -191.854, Alpha: 11.000, Beta: 1.100

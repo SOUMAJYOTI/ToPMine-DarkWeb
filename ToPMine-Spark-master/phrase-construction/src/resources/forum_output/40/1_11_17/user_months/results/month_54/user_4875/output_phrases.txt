@@ -1,0 +1,61 @@
+Topic 0:
+  sophisticated:2.70
+  small amounts:2.69
+  work:2.68
+  shared:1.23
+  coin:1.23
+  felix:1.23
+  cases:1.23
+  point:1.23
+  worked:1.23
+  times:1.23
+
+Topic 1:
+  mixer:2.08
+  localbitcoins:2.06
+  taint:1.99
+  walletthe:0.87
+  move:0.86
+  fees:0.86
+  built:0.86
+  withdraw:0.86
+  org:0.86
+  wait:0.86
+
+Topic 2:
+  scam:1.14
+  hope:1.13
+  removed:1.13
+  wilderness:1.13
+  detective:1.13
+  list:1.13
+  bitblender list:1.12
+  trustworthy:1.12
+  lot:1.12
+  complaining:1.12
+
+Topic 3:
+  bitblender:1.05
+  blond wigfog:0.67
+  wallet:0.67
+  pleroma:0.59
+  quote:0.58
+  deposit:0.58
+  people:0.58
+  enabled:0.53
+  feedback:0.53
+  interested:0.53
+
+Topic 4:
+  javascript:0.97
+  jean:0.97
+  luc:0.97
+  hearing:0.97
+  order:0.96
+  feedback:0.95
+  interested:0.95
+  enabled:0.95
+  charge:0.73
+  volume:0.60
+
+K: 5, Log-Likelihood: -803.141, Alpha: 11.000, Beta: 1.100

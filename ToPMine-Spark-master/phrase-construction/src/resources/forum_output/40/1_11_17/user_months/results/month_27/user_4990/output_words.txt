@@ -1,0 +1,61 @@
+Topic 0:
+  fog:17.90
+  bitcoin:12.06
+  agora:7.79
+  agra:7.70
+  issues:7.16
+  issue:6.77
+  thread:5.90
+  signature:5.90
+  mentioned:5.90
+  statement:5.90
+
+Topic 1:
+  payment:16.58
+  today:15.83
+  mode:12.15
+  ago:7.36
+  vacation:6.97
+  days:6.91
+  running:5.96
+  site:5.86
+  agora:5.44
+  orders:5.35
+
+Topic 2:
+  ag:5.23
+  btc:4.41
+  issue:3.32
+  good:3.30
+  large:3.17
+  forum:3.06
+  technical:2.55
+  scam:2.17
+  night:2.09
+  arrived:2.09
+
+Topic 3:
+  coin:13.22
+  forums:7.07
+  good:6.65
+  top:5.58
+  vacation:4.19
+  thing:3.92
+  system:3.92
+  time:3.92
+  priority:3.92
+  working:3.58
+
+Topic 4:
+  coins:7.59
+  day:5.75
+  agora:5.05
+  stay:4.31
+  exit:4.11
+  big:3.89
+  feel:3.68
+  suspected:3.63
+  wrong:2.76
+  problems:2.58
+
+K: 5, Log-Likelihood: -4195.575, Alpha: 11.000, Beta: 1.100

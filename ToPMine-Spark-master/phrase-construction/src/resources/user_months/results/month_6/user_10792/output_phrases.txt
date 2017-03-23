@@ -1,0 +1,61 @@
+Topic 0:
+  number:3.68
+  electrum:2.95
+  working:2.65
+  mufti signature:1.81
+  blockchain:1.81
+  doesnt copy:1.81
+  tools:1.81
+  simply:1.81
+  validate:1.81
+  required:1.81
+
+Topic 1:
+  sign:4.29
+  wallets:2.51
+  multisignature transactions:1.90
+  users:1.59
+  addresses:1.58
+  client supports:1.57
+  bitcoin core:1.52
+  signature:1.44
+  libraries:0.88
+  nice:0.87
+
+Topic 2:
+  wallet mufti:2.56
+  escrows:2.55
+  prefer:2.55
+  sig:2.55
+  secure:2.54
+  log:1.75
+  april:1.72
+  quote:1.72
+  tron:1.61
+  pmwhat:1.60
+
+Topic 3:
+  sign:3.99
+  wallets:2.88
+  client supports:2.18
+  addresses:2.18
+  bitcoin core:2.06
+  multisignature transactions:1.76
+  users:1.75
+  signature:1.50
+  address wallets:1.04
+  escrow web:1.02
+
+Topic 4:
+  sign:4.72
+  wallets:3.22
+  users:2.36
+  bitcoin core:2.12
+  multisignature transactions:2.03
+  client supports:1.93
+  addresses:1.93
+  signature:1.29
+  client:1.09
+  problem provide:1.07
+
+K: 5, Log-Likelihood: -2562.105, Alpha: 11.000, Beta: 1.100

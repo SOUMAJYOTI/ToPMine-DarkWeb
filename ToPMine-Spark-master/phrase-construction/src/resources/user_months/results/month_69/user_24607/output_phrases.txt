@@ -1,0 +1,61 @@
+Topic 0:
+  phone:6.97
+  smart:3.40
+  tor:2.86
+  access libertyx:2.85
+  redeem:1.63
+  chuck:1.63
+  recorded:1.63
+  meant:1.63
+  average:1.63
+  guest:1.63
+
+Topic 1:
+  hurt:3.48
+  tang:3.15
+  wife:3.00
+  diff:2.46
+  ill:2.46
+  missing:2.46
+  agencies:2.46
+  reports:2.46
+  persons:2.46
+  filed:2.46
+
+Topic 2:
+  coinify:2.13
+  website buy bitcoins:1.43
+  functionality:1.39
+  connectionslol:1.36
+  trough:1.35
+  check:1.33
+  tor gon:1.32
+  limited:1.32
+  srsly:1.31
+  edit:1.29
+
+Topic 3:
+  credit card:4.48
+  quote:2.68
+  verification:2.54
+  scan send websites require:2.52
+  verification goin phone number:2.52
+  phone number:2.49
+  theyll:2.48
+  wanted:2.48
+  access:2.48
+  actual:2.48
+
+Topic 4:
+  stolen:5.36
+  buttcoin:2.59
+  companies:2.59
+  cc:2.59
+  willy:2.59
+  details cash:2.59
+  stupid:2.59
+  nilly:2.59
+  accept:2.59
+  place:2.59
+
+K: 5, Log-Likelihood: -1320.888, Alpha: 11.000, Beta: 1.100

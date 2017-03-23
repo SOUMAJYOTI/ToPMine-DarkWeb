@@ -1,0 +1,51 @@
+Topic 0:
+  kyseinen:0.20
+  ominaisuus:0.20
+  olive:0.20
+  sikkitielle:0.20
+  sanoa:0.20
+  osaatteko:0.20
+  tulossa:0.20
+  milloin:0.20
+
+Topic 1:
+  osaatteko:0.20
+  tulossa:0.20
+  kyseinen:0.20
+  sanoa:0.20
+  milloin:0.20
+  sikkitielle:0.20
+  ominaisuus:0.20
+  olive:0.20
+
+Topic 2:
+  osaatteko:0.20
+  sanoa:0.20
+  milloin:0.20
+  olive:0.20
+  ominaisuus:0.20
+  kyseinen:0.20
+  tulossa:0.20
+  sikkitielle:0.20
+
+Topic 3:
+  tulossa:0.20
+  milloin:0.20
+  olive:0.20
+  kyseinen:0.20
+  osaatteko:0.20
+  sanoa:0.20
+  ominaisuus:0.20
+  sikkitielle:0.20
+
+Topic 4:
+  sikkitielle:0.20
+  milloin:0.20
+  ominaisuus:0.20
+  olive:0.20
+  sanoa:0.20
+  tulossa:0.20
+  kyseinen:0.20
+  osaatteko:0.20
+
+K: 5, Log-Likelihood: -16.636, Alpha: 11.000, Beta: 1.100

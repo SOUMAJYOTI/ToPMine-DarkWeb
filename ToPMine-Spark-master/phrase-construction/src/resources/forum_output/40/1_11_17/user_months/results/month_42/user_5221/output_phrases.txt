@@ -1,0 +1,61 @@
+Topic 0:
+  love avengers:0.61
+  don:0.60
+  dont:0.59
+  find job impossible good:0.42
+  identity theft:0.42
+  friend ruined credit hard:0.42
+  listings:0.42
+  root:0.41
+  large:0.41
+  site:0.41
+
+Topic 1:
+  dont:0.61
+  love avengers:0.59
+  don:0.58
+  identity theft:0.42
+  find job impossible good:0.42
+  friend ruined credit hard:0.42
+  amount:0.41
+  identity multiply family members:0.41
+  drugs:0.41
+  protection:0.41
+
+Topic 2:
+  dont:0.61
+  don:0.61
+  love avengers:0.59
+  friend ruined credit hard:0.43
+  identity theft:0.43
+  find job impossible good:0.42
+  notch:0.41
+  top:0.41
+  root:0.41
+  recover identity theft:0.41
+
+Topic 3:
+  love avengers:0.62
+  don:0.61
+  dont:0.58
+  friend ruined credit hard:0.43
+  find job impossible good:0.43
+  identity theft:0.43
+  recover identity theft:0.43
+  endless cycle hole debt:0.43
+  site devoted theft:0.42
+  listings:0.42
+
+Topic 4:
+  dont:0.55
+  don:0.55
+  love avengers:0.53
+  site devoted theft identity:0.50
+  direct:0.50
+  marketplaces:0.50
+  links:0.50
+  running:0.50
+  evolution:0.50
+  server:0.50
+
+K: 5, Log-Likelihood: -495.875, Alpha: 11.000, Beta: 1.100

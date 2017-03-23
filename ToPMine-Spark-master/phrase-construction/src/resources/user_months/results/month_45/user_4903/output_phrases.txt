@@ -1,0 +1,61 @@
+Topic 0:
+  email:2.47
+  pgp key:2.39
+  find:1.99
+  vendor:1.70
+  drugs:1.58
+  garden:1.24
+  real life:1.22
+  avengers:1.22
+  pgp:1.19
+  vendors:1.13
+
+Topic 1:
+  vendor:5.82
+  profile:4.44
+  send coins:4.22
+  email:4.17
+  vendors:3.86
+  pgp:3.69
+  garden:3.61
+  real life:3.54
+  trade thing:1.93
+  forum aid:1.89
+
+Topic 2:
+  sellers:4.41
+  net:4.38
+  free:3.42
+  tshirt:3.42
+  agree:3.28
+  safe mail:2.98
+  connect:2.16
+  safely trade:2.16
+  anyperson:2.16
+  mail:2.16
+
+Topic 3:
+  someones surname pm error:5.23
+  reading posts weeks haven:5.23
+  majestic garden grateful place:5.23
+  lsd gift current question:5.23
+  post review sample:4.57
+  message:4.05
+  click:4.05
+  quote:3.92
+  thier:3.59
+  pmhey:3.59
+
+Topic 4:
+  email:3.81
+  vendor:3.51
+  real life:2.58
+  garden:2.50
+  pgp:2.46
+  vendors:2.35
+  send coins:2.14
+  pgp key:2.01
+  profile:1.89
+  account:1.36
+
+K: 5, Log-Likelihood: -4725.390, Alpha: 11.000, Beta: 1.100

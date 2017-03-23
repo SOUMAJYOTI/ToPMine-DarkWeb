@@ -1,0 +1,61 @@
+Topic 0:
+  markets:0.61
+  real:0.61
+  finding:0.40
+  scams:0.40
+  hope:0.40
+  affordabledo:0.40
+  youi:0.39
+  identity:0.20
+  paper:0.20
+  physical:0.20
+
+Topic 1:
+  real:0.66
+  markets:0.62
+  affordabledo:0.39
+  youi:0.39
+  hope:0.39
+  finding:0.37
+  scams:0.37
+  matter:0.21
+  paper:0.21
+  onion:0.21
+
+Topic 2:
+  markets:0.58
+  real:0.57
+  finding:0.42
+  youi:0.41
+  scams:0.41
+  affordabledo:0.40
+  hope:0.40
+  quote:0.20
+  legitmate:0.20
+  abamaf:0.20
+
+Topic 3:
+  markets:0.59
+  real:0.55
+  scams:0.43
+  finding:0.42
+  hope:0.42
+  affordabledo:0.41
+  youi:0.41
+  february:0.21
+  fucking:0.21
+  abamaf:0.21
+
+Topic 4:
+  real:0.62
+  markets:0.60
+  youi:0.40
+  affordabledo:0.40
+  hope:0.39
+  scams:0.39
+  finding:0.39
+  database:0.20
+  passport:0.20
+  doesnt:0.20
+
+K: 5, Log-Likelihood: -153.198, Alpha: 11.000, Beta: 1.100

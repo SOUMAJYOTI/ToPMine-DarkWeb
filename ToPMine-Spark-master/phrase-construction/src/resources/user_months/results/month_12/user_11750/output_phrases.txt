@@ -1,0 +1,61 @@
+Topic 0:
+  deposit:0.97
+  hacked:0.28
+  night:0.28
+  long:0.14
+  realized:0.14
+  trnsferred:0.14
+  reported:0.14
+  wtf:0.14
+  bed:0.14
+  wrong:0.14
+
+Topic 1:
+  deposit:1.01
+  night:0.28
+  hacked:0.28
+  mtgox:0.14
+  transferred:0.14
+  market:0.14
+  forever:0.14
+  sr:0.14
+  btc:0.14
+  gross:0.14
+
+Topic 2:
+  deposit:0.92
+  hacked:0.28
+  night:0.28
+  shortly:0.14
+  transaction:0.14
+  noticed:0.14
+  suspect:0.14
+  history:0.14
+  deleted:0.14
+  mustve:0.14
+
+Topic 3:
+  deposit:0.86
+  night:0.28
+  hacked:0.28
+  noticed:0.14
+  mustve:0.14
+  history:0.14
+  suspect:0.14
+  deleted:0.14
+  transaction:0.14
+  shortly:0.14
+
+Topic 4:
+  deposit:1.10
+  hacked:0.28
+  night:0.28
+  hasnt:0.14
+  full:0.14
+  wednesday:0.14
+  amount:0.14
+  wtf:0.14
+  wallet:0.14
+  wrong:0.14
+
+K: 5, Log-Likelihood: -154.837, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.63
+  private:0.38
+  keys:0.37
+  odd:0.37
+  isnt:0.21
+  hacked:0.21
+  admins:0.21
+  customer:0.21
+  quote:0.21
+  interpreting:0.21
+
+Topic 1:
+  sr:0.59
+  keys:0.43
+  odd:0.43
+  private:0.43
+  article:0.21
+  deposit:0.21
+  remember:0.21
+  people:0.21
+  job:0.21
+  happen:0.21
+
+Topic 2:
+  sr:0.60
+  odd:0.38
+  private:0.38
+  keys:0.38
+  matter:0.21
+  trust:0.21
+  good:0.21
+  customer:0.21
+  amsr:0.21
+  rape:0.21
+
+Topic 3:
+  sr:0.62
+  private:0.38
+  odd:0.38
+  keys:0.38
+  amsr:0.21
+  february:0.21
+  point:0.21
+  trust:0.21
+  consistently:0.21
+  totally:0.21
+
+Topic 4:
+  sr:0.57
+  odd:0.44
+  keys:0.44
+  private:0.43
+  reading:0.21
+  remember:0.21
+  site:0.21
+  attacker:0.21
+  order:0.21
+  addresses:0.21
+
+K: 5, Log-Likelihood: -233.246, Alpha: 11.000, Beta: 1.100

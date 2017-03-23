@@ -1,0 +1,61 @@
+Topic 0:
+  police:21.23
+  suspect:18.64
+  accused:16.21
+  undercover cop:13.80
+  lauchlan:11.56
+  cases:9.24
+  case:9.23
+  undercover:9.22
+  confession:9.21
+  operation:9.20
+
+Topic 1:
+  hub:5.01
+  discussion:4.96
+  reddit:4.67
+  jabber:4.67
+  hosted:4.67
+  posting:4.67
+  visit:4.67
+  house:4.66
+  matter:4.66
+  committed:4.66
+
+Topic 2:
+  sign:7.03
+  cops bust:4.68
+  friend:4.68
+  buy:4.68
+  years:4.18
+  customers:3.61
+  place:2.67
+  hard time:2.33
+  biggest:2.33
+  package:2.33
+
+Topic 3:
+  le:6.34
+  cops:4.40
+  police:4.03
+  pretty:3.48
+  lengths:2.26
+  bounds:2.26
+  dirty:2.26
+  taught:2.26
+  briggs:2.26
+  break law:2.26
+
+Topic 4:
+  solov august pmquote:6.52
+  post discussed activities sr:5.60
+  remembering story true forum:5.60
+  august le freuent forum:5.05
+  talents list le:4.85
+  member dn community sr:4.82
+  member forum claimed active:4.82
+  hard discover:4.81
+  le liars hard time:4.81
+  le efficient method finding:4.81
+
+K: 5, Log-Likelihood: -18003.258, Alpha: 11.000, Beta: 1.100

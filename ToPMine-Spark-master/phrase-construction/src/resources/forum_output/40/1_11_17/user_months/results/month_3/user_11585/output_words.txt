@@ -1,0 +1,61 @@
+Topic 0:
+  complaints:6.92
+  didnt:6.44
+  weeks:4.53
+  sr:4.38
+  whitedreams:3.24
+  constant:2.90
+  time:2.90
+  protect:2.90
+  returned:2.90
+  christmas:2.35
+
+Topic 1:
+  sr:7.56
+  coin:6.90
+  site:6.87
+  bring:3.89
+  con:3.80
+  millions:3.36
+  definetly:2.74
+  job:2.74
+  fucking:2.56
+  month:2.15
+
+Topic 2:
+  work:4.17
+  credit:3.91
+  wizard:3.91
+  grand:3.91
+  issue:3.66
+  road:2.97
+  working:2.41
+  lot:2.25
+  forums:2.25
+  post:2.24
+
+Topic 3:
+  money:8.15
+  vendors:4.89
+  bugs:3.95
+  staff:2.96
+  market:2.95
+  fees:2.95
+  sr:2.93
+  open:2.93
+  customers:2.93
+  big:2.59
+
+Topic 4:
+  marketplace:3.60
+  trust:3.17
+  silk:3.08
+  road:3.00
+  escrow:2.43
+  vendor:1.96
+  complaining:1.91
+  problem:1.71
+  users:1.41
+  mod:1.40
+
+K: 5, Log-Likelihood: -3796.148, Alpha: 11.000, Beta: 1.100

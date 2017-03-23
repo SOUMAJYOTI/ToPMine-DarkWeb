@@ -1,0 +1,61 @@
+Topic 0:
+  great:0.61
+  options:0.40
+  document:0.20
+  work:0.20
+  endeavor:0.20
+  throw:0.20
+  vpns:0.20
+  build:0.20
+  list:0.20
+  access:0.20
+
+Topic 1:
+  great:0.60
+  options:0.40
+  block:0.20
+  access:0.20
+  work:0.20
+  build:0.20
+  dnm:0.20
+  secure:0.20
+  endeavor:0.20
+  document:0.20
+
+Topic 2:
+  great:0.60
+  options:0.40
+  pi:0.20
+  vpns:0.20
+  tor:0.20
+  sticky:0.20
+  avoiding:0.20
+  combinations:0.20
+  thread:0.20
+  eventually:0.20
+
+Topic 3:
+  great:0.59
+  options:0.40
+  middle:0.20
+  tor:0.20
+  box:0.20
+  avoiding:0.20
+  eventually:0.20
+  combinations:0.20
+  raspberry:0.20
+  sticky:0.20
+
+Topic 4:
+  great:0.61
+  options:0.40
+  secure:0.20
+  work:0.20
+  document:0.20
+  build:0.20
+  endeavor:0.20
+  dnm:0.20
+  block:0.20
+  access:0.20
+
+K: 5, Log-Likelihood: -80.127, Alpha: 11.000, Beta: 1.100

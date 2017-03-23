@@ -1,0 +1,61 @@
+Topic 0:
+  plants:4.13
+  experiences:3.75
+  forward:2.67
+  connect:2.56
+  compounds:2.53
+  slowly:2.40
+  community:2.15
+  walk:2.12
+  great:1.84
+  earth:1.69
+
+Topic 1:
+  great:4.54
+  walk:2.45
+  ocean:2.38
+  earth:1.28
+  supporting:1.21
+  small:1.20
+  family:1.19
+  peru:1.19
+  perception:1.19
+  psychedelics:1.19
+
+Topic 2:
+  experiences:3.22
+  community:2.56
+  great:2.51
+  walk:2.09
+  forward:2.02
+  amazon:1.61
+  ayahuasca:1.61
+  group:1.59
+  california:1.58
+  san:1.57
+
+Topic 3:
+  connections:1.84
+  environment:1.80
+  things:1.76
+  people:1.75
+  earth:1.70
+  coming:1.69
+  technology:1.69
+  great:1.53
+  postmodern:1.48
+  culture:1.31
+
+Topic 4:
+  hand:4.72
+  culture:4.53
+  postmodern:4.36
+  fracturing:2.18
+  centuries:2.16
+  milieu:2.15
+  governed:2.14
+  speak:2.13
+  emerging:2.12
+  infuse:2.12
+
+K: 5, Log-Likelihood: -1817.608, Alpha: 11.000, Beta: 1.100

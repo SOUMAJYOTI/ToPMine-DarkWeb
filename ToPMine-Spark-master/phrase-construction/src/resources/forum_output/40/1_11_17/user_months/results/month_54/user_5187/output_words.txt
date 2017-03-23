@@ -1,0 +1,61 @@
+Topic 0:
+  atm:0.40
+  market:0.40
+  users:0.20
+  cheers:0.20
+  dolmio:0.20
+  listing:0.20
+  lead:0.20
+  hey:0.20
+  amount:0.20
+  wondering:0.20
+
+Topic 1:
+  atm:0.40
+  market:0.40
+  biggest:0.20
+  active:0.20
+  invite:0.20
+  mine:0.20
+  link:0.20
+  abraxas:0.20
+  referred:0.20
+  join:0.20
+
+Topic 2:
+  market:0.40
+  atm:0.40
+  listing:0.20
+  wondering:0.20
+  dolmio:0.20
+  amount:0.20
+  hey:0.20
+  lead:0.20
+  users:0.20
+  cheers:0.20
+
+Topic 3:
+  atm:0.40
+  market:0.40
+  hey:0.20
+  lead:0.20
+  wondering:0.20
+  amount:0.20
+  listing:0.20
+  cheers:0.20
+  dolmio:0.20
+  users:0.20
+
+Topic 4:
+  market:0.40
+  atm:0.40
+  join:0.20
+  mine:0.20
+  abraxas:0.20
+  link:0.20
+  invite:0.20
+  active:0.20
+  referred:0.20
+  biggest:0.20
+
+K: 5, Log-Likelihood: -57.193, Alpha: 11.000, Beta: 1.100

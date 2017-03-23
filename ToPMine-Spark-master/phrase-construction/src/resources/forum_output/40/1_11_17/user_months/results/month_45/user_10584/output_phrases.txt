@@ -1,0 +1,61 @@
+Topic 0:
+  clearnet sites:9.04
+  op:4.24
+  visit:4.24
+  darknet:4.24
+  worried:4.24
+  accessing:4.24
+  clearnet:3.52
+  access:3.25
+  browse:2.77
+  tails:2.51
+
+Topic 1:
+  bridge users:6.39
+  quote:5.50
+  source:4.25
+  guards:4.25
+  bridge:4.25
+  add:4.25
+  directory:4.25
+  relays:4.25
+  torrc:4.25
+  clearnet sites:4.19
+
+Topic 2:
+  transparent tor proxies:5.23
+  block tor:5.14
+  access hide fact tor:5.14
+  clear net websites:5.14
+  socat loopback forwarder:4.26
+  connected tor:4.26
+  keys provided mullvad:4.26
+  length time require project:4.26
+  tor easy familiar specifics:4.26
+  mullvad doesnt chain mullvad:4.26
+
+Topic 3:
+  tor:4.75
+  quote squidward:4.26
+  test:4.23
+  openvpn:4.23
+  dont:4.23
+  vm:4.07
+  os choice set router:3.94
+  buy cheap router:3.93
+  install dd wrt open:3.93
+  wrong:3.36
+
+Topic 4:
+  step step guide:4.79
+  vpn:4.19
+  anonymity:3.39
+  protects:3.39
+  tails os:3.39
+  people:3.39
+  squidward:3.39
+  guides:3.39
+  cuz:3.39
+  anonymous:3.39
+
+K: 5, Log-Likelihood: -4684.369, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:3.75
+  funds:3.75
+  site:3.38
+  logo:1.96
+  bitcoins:1.95
+  bank:1.94
+  shooting sheep:1.93
+  services:1.90
+  black:1.90
+  sheep:1.90
+
+Topic 1:
+  quote dumpsterbaby:1.65
+  vendors pgp keys installed:1.60
+  persistence included pgp:1.59
+  pgp good advice:0.98
+  newest version tails:0.96
+  unsuccessfully upgrade:0.95
+  awl:0.94
+  figure import files tails:0.94
+  complaining:0.93
+  avoid:0.93
+
+Topic 2:
+  stored:2.67
+  folder:2.67
+  untard:2.67
+  amafter:2.66
+  enabling:2.66
+  mount persistence:2.66
+  entire:2.65
+  backup:2.65
+  store:2.65
+  thing:2.65
+
+Topic 3:
+  mount:2.21
+  persistent:2.19
+  volume:2.18
+  copy:2.18
+  plug:2.16
+  device:2.14
+  experience:1.74
+  delete:1.74
+  removed:1.74
+  place:1.74
+
+Topic 4:
+  bad advice:5.93
+  asked:2.86
+  love:2.86
+  sorrrrry:2.86
+  helping:2.86
+  good advice:2.86
+  actual:1.80
+  comment:1.80
+  amdamn:1.80
+  sweetie:1.80
+
+K: 5, Log-Likelihood: -1390.532, Alpha: 11.000, Beta: 1.100

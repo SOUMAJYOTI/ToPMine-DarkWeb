@@ -1,0 +1,61 @@
+Topic 0:
+  fuck:5.25
+  scammer:4.32
+  swam:4.30
+  bottom:4.25
+  called:4.24
+  feeding:4.22
+  enterprise:4.21
+  youve:4.20
+  belong:4.20
+  linked:4.18
+
+Topic 1:
+  bitcoin:5.27
+  june:3.74
+  deleted:3.28
+  previous:2.96
+  expert:2.92
+  quote:2.47
+  site:2.43
+  dont:2.30
+  version:1.65
+  satisfied:1.62
+
+Topic 2:
+  bitcoin:5.46
+  dont:5.02
+  mixers:4.23
+  june:3.57
+  clients:3.12
+  satisfied:2.95
+  expert:2.70
+  geeza:2.65
+  swooped:2.62
+  redacted:2.60
+
+Topic 3:
+  bitcoin:5.76
+  june:3.33
+  previous:3.19
+  deleted:2.83
+  site:2.80
+  expert:2.77
+  quote:2.45
+  version:1.70
+  scam:1.60
+  dont:1.37
+
+Topic 4:
+  bitcoin:7.01
+  mixing:4.63
+  services:2.55
+  site:2.46
+  mixer:2.32
+  anonymous:1.88
+  wallet:1.88
+  bitcoins:1.27
+  review:1.19
+  scam:0.98
+
+K: 5, Log-Likelihood: -2135.717, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  agora:0.60
+  require:0.40
+  load:0.40
+  general:0.40
+  search:0.20
+  pm:0.20
+  pops:0.20
+  goggle:0.20
+  clearnet:0.20
+  yup:0.20
+
+Topic 1:
+  agora:0.61
+  general:0.40
+  load:0.40
+  require:0.40
+  ve:0.20
+  link:0.20
+  referred:0.20
+  search:0.20
+  goggle:0.20
+  pops:0.20
+
+Topic 2:
+  agora:0.60
+  require:0.40
+  general:0.40
+  load:0.40
+  ve:0.20
+  yup:0.20
+  pm:0.20
+  pops:0.20
+  clearnet:0.20
+  referred:0.20
+
+Topic 3:
+  agora:0.59
+  load:0.40
+  general:0.40
+  require:0.40
+  pm:0.20
+  yup:0.20
+  ve:0.20
+  goggle:0.20
+  referred:0.20
+  clearnet:0.20
+
+Topic 4:
+  agora:0.60
+  require:0.40
+  load:0.40
+  general:0.40
+  clearnet:0.20
+  pops:0.20
+  link:0.20
+  search:0.20
+  goggle:0.20
+  referred:0.20
+
+K: 5, Log-Likelihood: -44.671, Alpha: 11.000, Beta: 1.100

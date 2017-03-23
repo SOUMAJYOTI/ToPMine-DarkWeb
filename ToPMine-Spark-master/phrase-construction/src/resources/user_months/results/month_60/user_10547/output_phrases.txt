@@ -1,0 +1,61 @@
+Topic 0:
+  keys:3.30
+  caught:3.18
+  long:3.18
+  content:3.18
+  encoded:3.18
+  trust:3.18
+  public key:3.03
+  public:2.55
+  base:1.57
+  web:1.57
+
+Topic 1:
+  paste mate:2.15
+  pm solov nice copy:2.15
+  follow ill care sarcasm:1.62
+  mate half brain copy:1.62
+  quote fatherted august:1.60
+  public pgp:1.42
+  sigaints:1.42
+  generated:1.42
+  wondering:1.42
+  key longer:1.42
+
+Topic 2:
+  bit:5.66
+  key length:3.51
+  bit encryption key:3.29
+  hacked programs bit:3.28
+  computing power:3.28
+  cracked:3.12
+  true:2.15
+  remember:2.09
+  rsa cracked:2.08
+  gb:1.87
+
+Topic 3:
+  type:8.01
+  subkeys:6.40
+  commands:6.40
+  passphrase:6.40
+  files:6.40
+  secret subkey:6.40
+  machine key:6.40
+  key:6.35
+  list:4.79
+  key cd key:4.79
+
+Topic 4:
+  vendors:3.13
+  bit keys:3.10
+  key:2.80
+  standard:2.17
+  mind:2.17
+  alway:2.17
+  maximum:2.17
+  chose longer:2.17
+  curious:2.17
+  opt:2.17
+
+K: 5, Log-Likelihood: -4802.158, Alpha: 11.000, Beta: 1.100

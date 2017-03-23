@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:1.20
+  guys:0.97
+  pretty:0.67
+  dardush:0.62
+  jor:0.62
+  escrow:0.61
+  account:0.61
+  active:0.61
+  popular:0.61
+  glad:0.61
+
+Topic 1:
+  vendors:1.29
+  garden:0.87
+  guys:0.85
+  pretty:0.76
+  hook:0.68
+  reddit:0.67
+  direct:0.56
+  sr:0.55
+  talk:0.55
+  deals:0.55
+
+Topic 2:
+  vendors:1.02
+  pretty:0.99
+  garden:0.96
+  guys:0.79
+  hook:0.73
+  reddit:0.73
+  list:0.48
+  warning:0.48
+  hey:0.48
+  clearnet:0.48
+
+Topic 3:
+  garden:1.45
+  vendors:1.31
+  reddit:1.01
+  pretty:0.91
+  hook:0.88
+  darknetmarkets:0.64
+  dated:0.64
+  heaps:0.63
+  skyballs:0.63
+  wiki:0.63
+
+Topic 4:
+  agora:2.60
+  acct:1.00
+  suggestion:1.00
+  dnms:1.00
+  question:1.00
+  good:0.99
+  place:0.99
+  mess:0.99
+  evo:0.99
+  sky:0.99
+
+K: 5, Log-Likelihood: -510.562, Alpha: 11.000, Beta: 1.100

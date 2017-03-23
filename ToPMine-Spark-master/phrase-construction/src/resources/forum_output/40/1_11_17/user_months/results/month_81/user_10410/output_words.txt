@@ -1,0 +1,61 @@
+Topic 0:
+  option:12.62
+  key:11.14
+  quote:7.98
+  market:6.84
+  process:5.69
+  create:5.45
+  wallet:4.89
+  thread:4.50
+  working:4.44
+  site:4.30
+
+Topic 1:
+  scam:15.45
+  vendor:13.20
+  account:12.57
+  walter:10.06
+  scammer:7.39
+  real:6.89
+  top:5.90
+  valhalla:5.85
+  vendors:5.33
+  thought:4.80
+
+Topic 2:
+  market:23.16
+  december:14.61
+  multisig:13.37
+  quote:11.79
+  aflao:11.18
+  thenextbigthing:10.85
+  forum:8.53
+  working:8.45
+  spreading:8.34
+  scam:8.05
+
+Topic 3:
+  admin:13.31
+  urls:8.56
+  desperate:6.85
+  walter:6.25
+  fake:5.79
+  alternate:5.64
+  slow:5.63
+  guess:5.61
+  dream:5.48
+  quote:5.09
+
+Topic 4:
+  accounts:20.69
+  account:19.97
+  moramarum:16.84
+  fake:16.80
+  valhalla:15.07
+  vendor:12.74
+  scamming:11.83
+  message:11.76
+  support:11.39
+  customers:11.22
+
+K: 5, Log-Likelihood: -11907.126, Alpha: 11.000, Beta: 1.100

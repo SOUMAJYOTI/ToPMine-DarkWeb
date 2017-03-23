@@ -1,0 +1,61 @@
+Topic 0:
+  email address:8.87
+  java:4.36
+  functions:4.36
+  pm:4.29
+  box:4.29
+  dont:4.15
+  log:3.48
+  listed:3.48
+  wierd:3.48
+  find:3.48
+
+Topic 1:
+  federal:7.13
+  access:6.57
+  dr ad pirat roger:6.57
+  servers:6.56
+  quote:5.78
+  hope:5.33
+  password:4.37
+  hosting company:3.56
+  government:3.54
+  promise cross:3.54
+
+Topic 2:
+  quote honestcocaine june:8.76
+  month:4.36
+  side:4.36
+  store:4.36
+  easy:4.36
+  sell:4.36
+  idea:4.36
+  independent:4.35
+  offer:4.35
+  marketplace:4.35
+
+Topic 3:
+  socks proxy:7.12
+  dark net:7.12
+  account:7.12
+  valid:4.31
+  time:3.74
+  relay:3.54
+  standard:3.54
+  onion:3.54
+  messenger:3.54
+  fly:3.54
+
+Topic 4:
+  wallet:5.67
+  country:4.38
+  proxy:4.38
+  hidden server:4.38
+  farmer:4.38
+  set:3.75
+  address:3.72
+  hosting:3.61
+  great:3.30
+  fax:3.26
+
+K: 5, Log-Likelihood: -6419.040, Alpha: 11.000, Beta: 1.100

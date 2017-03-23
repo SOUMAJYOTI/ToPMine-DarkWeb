@@ -1,0 +1,61 @@
+Topic 0:
+  clipper chip:3.13
+  government:2.81
+  crypto war:2.04
+  key escrow:1.91
+  communications:1.52
+  governments:1.50
+  crypto:1.49
+  white:1.46
+  proved:1.45
+  political:1.45
+
+Topic 1:
+  firmware:3.57
+  hardware:2.47
+  bossed:1.70
+  identity:1.70
+  ahead focus:1.70
+  include:1.70
+  mere:1.70
+  encryption software:1.70
+  modern:1.70
+  kind:1.69
+
+Topic 2:
+  key escrow:3.60
+  government:2.69
+  clipper chip:2.38
+  crypto war:2.08
+  idea:1.46
+  privacy:1.42
+  opposed:1.41
+  schemes:1.41
+  bruce:1.37
+  cryptographic:1.37
+
+Topic 3:
+  fpga:1.62
+  understanding elpaal:1.27
+  offers:1.27
+  clear:1.27
+  nasty:1.27
+  doesn:1.27
+  provided:1.27
+  sound:1.27
+  tlas:1.27
+  curves:1.27
+
+Topic 4:
+  rsa:5.50
+  numbers:4.12
+  large:2.73
+  public key:2.73
+  keys:2.73
+  asa:2.73
+  pgp:2.73
+  algorithms:2.73
+  subkey:2.73
+  curve:2.73
+
+K: 5, Log-Likelihood: -2841.941, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  alert:0.39
+  sql:0.38
+  things:0.31
+  market:0.30
+  start learning:0.30
+  server:0.29
+  years:0.29
+  validate:0.29
+  script:0.29
+  tutorials:0.29
+
+Topic 1:
+  sql:1.17
+  alert:1.09
+  interact:0.67
+  request:0.67
+  eat:0.67
+  session:0.66
+  pop:0.66
+  mind:0.66
+  steal:0.66
+  users:0.66
+
+Topic 2:
+  years:0.54
+  server:0.53
+  market:0.52
+  start learning:0.52
+  things:0.30
+  qualifed:0.26
+  websites:0.26
+  css:0.26
+  bc:0.26
+  advise:0.26
+
+Topic 3:
+  start learning:0.82
+  market:0.82
+  server:0.82
+  years:0.81
+  rdp:0.35
+  essentially:0.35
+  set:0.35
+  host:0.35
+  learn secure:0.35
+  starting:0.35
+
+Topic 4:
+  alert:0.81
+  sql:0.76
+  sanitize:0.53
+  javascript:0.53
+  youtube:0.53
+  box:0.53
+  breakfast:0.53
+  attacks:0.53
+  login:0.53
+  forgery:0.53
+
+K: 5, Log-Likelihood: -514.654, Alpha: 11.000, Beta: 1.100

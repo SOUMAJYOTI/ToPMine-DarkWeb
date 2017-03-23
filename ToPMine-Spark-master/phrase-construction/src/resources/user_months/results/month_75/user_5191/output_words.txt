@@ -1,0 +1,61 @@
+Topic 0:
+  people:1.54
+  server:0.89
+  type:0.72
+  idea:0.70
+  community:0.65
+  feel:0.62
+  hosting:0.60
+  forum:0.58
+  host:0.57
+  risk:0.56
+
+Topic 1:
+  people:1.81
+  type:1.23
+  server:0.82
+  idea:0.78
+  feel:0.74
+  risk:0.70
+  community:0.69
+  private:0.62
+  forum:0.57
+  web:0.57
+
+Topic 2:
+  host:1.27
+  hosting:1.26
+  bit:1.14
+  site:0.90
+  server:0.88
+  running:0.80
+  people:0.70
+  question:0.67
+  interested:0.67
+  forum:0.66
+
+Topic 3:
+  people:1.66
+  type:1.03
+  server:0.80
+  idea:0.78
+  feel:0.69
+  community:0.69
+  risk:0.65
+  forum:0.57
+  private:0.49
+  collaborating:0.49
+
+Topic 4:
+  people:1.29
+  idea:1.26
+  type:0.76
+  risk:0.76
+  forum:0.61
+  server:0.61
+  feel:0.60
+  bit:0.55
+  community:0.50
+  services:0.40
+
+K: 5, Log-Likelihood: -889.461, Alpha: 11.000, Beta: 1.100

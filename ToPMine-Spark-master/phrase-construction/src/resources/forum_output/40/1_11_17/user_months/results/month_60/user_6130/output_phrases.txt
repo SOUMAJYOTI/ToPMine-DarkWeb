@@ -1,0 +1,61 @@
+Topic 0:
+  avengers:0.16
+  love:0.16
+  url:0.08
+  hansa:0.08
+  uri:0.08
+  market:0.08
+  blotter:0.00
+  post:0.00
+  scammer:0.00
+  reddit:0.00
+
+Topic 1:
+  avengers:0.16
+  love:0.16
+  uri:0.08
+  market:0.08
+  url:0.08
+  hansa:0.08
+  blotter:0.00
+  post:0.00
+  scammer:0.00
+  reddit:0.00
+
+Topic 2:
+  love:0.16
+  avengers:0.16
+  market:0.08
+  uri:0.08
+  url:0.08
+  hansa:0.08
+  blotter:0.00
+  post:0.00
+  scammer:0.00
+  reddit:0.00
+
+Topic 3:
+  avengers:0.16
+  love:0.16
+  hansa:0.08
+  url:0.08
+  uri:0.08
+  market:0.08
+  blotter:0.00
+  post:0.00
+  scammer:0.00
+  reddit:0.00
+
+Topic 4:
+  love:0.16
+  avengers:0.16
+  hansa:0.08
+  url:0.08
+  market:0.08
+  uri:0.08
+  blotter:0.00
+  post:0.00
+  scammer:0.00
+  reddit:0.00
+
+K: 5, Log-Likelihood: -6.936, Alpha: 11.000, Beta: 1.100

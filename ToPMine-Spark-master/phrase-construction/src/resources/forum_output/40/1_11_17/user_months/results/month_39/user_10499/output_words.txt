@@ -1,0 +1,61 @@
+Topic 0:
+  random:16.12
+  number:12.13
+  havege:9.54
+  hardware:7.46
+  unpredictable:6.94
+  entropy:6.54
+  volatile:6.32
+  generators:6.13
+  high:5.47
+  generator:4.62
+
+Topic 1:
+  tails:11.04
+  good:3.25
+  issue:3.18
+  developers:2.80
+  entry:2.79
+  bits:2.71
+  dev:2.68
+  kernel:2.48
+  dice:2.48
+  solved:2.48
+
+Topic 2:
+  china:5.83
+  traffic:3.92
+  phone:3.35
+  bridge:2.92
+  tor:2.78
+  work:2.18
+  radio:1.95
+  travellers:1.95
+  airport:1.95
+  minutes:1.95
+
+Topic 3:
+  chinese:6.95
+  china:5.07
+  blocked:4.59
+  vpn:4.26
+  tor:3.88
+  people:3.15
+  personal:2.95
+  set:2.95
+  hosting:2.95
+  solution:2.95
+
+Topic 4:
+  entropy:13.38
+  problem:9.94
+  tails:7.12
+  keys:6.55
+  virtual:5.94
+  system:5.65
+  tor:5.17
+  question:5.11
+  urandom:4.26
+  dev:3.95
+
+K: 5, Log-Likelihood: -5767.083, Alpha: 11.000, Beta: 1.100

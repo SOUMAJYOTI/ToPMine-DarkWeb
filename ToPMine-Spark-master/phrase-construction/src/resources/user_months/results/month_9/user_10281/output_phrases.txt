@@ -1,0 +1,61 @@
+Topic 0:
+  tulossa:0.14
+  sikkitielle:0.14
+  osaatteko:0.14
+  olive:0.14
+  ominaisuus:0.14
+  kyseinen:0.14
+  sanoa:0.14
+  milloin:0.14
+  minun:0.14
+  hahmottaa:0.14
+
+Topic 1:
+  mpi:0.14
+  hd:0.14
+  mietin:0.14
+  mbtc:0.14
+  hyv:0.14
+  asetuksista:0.14
+  hei:0.14
+  jostain:0.14
+  mielest:0.14
+  bitcoinejen:0.14
+
+Topic 2:
+  saa:0.14
+  sanoa:0.14
+  kyseinen:0.14
+  bitcoineina:0.14
+  mahdollistaa:0.14
+  milloin:0.14
+  sikkitielle:0.14
+  ominaisuus:0.14
+  iso:0.14
+  ono:0.14
+
+Topic 3:
+  mul:0.14
+  bitcoinia:0.14
+  hinnan:0.14
+  saa:0.14
+  bitcoineina:0.14
+  ono:0.14
+  homma:0.14
+  mahdollistaa:0.14
+  paljon:0.14
+  laity:0.14
+
+Topic 4:
+  milloin:0.14
+  olive:0.14
+  sanoa:0.14
+  ominaisuus:0.14
+  kyseinen:0.14
+  tulossa:0.14
+  osaatteko:0.14
+  sikkitielle:0.14
+  sill:0.14
+  iso:0.14
+
+K: 5, Log-Likelihood: -115.412, Alpha: 11.000, Beta: 1.100

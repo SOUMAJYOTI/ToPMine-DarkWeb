@@ -1,0 +1,61 @@
+Topic 0:
+  plate:7.65
+  default:4.38
+  someuser:3.78
+  mysql:3.78
+  quick:3.78
+  job:3.78
+  yeah:3.78
+  la:3.78
+  smf members set online:3.77
+  cron:3.77
+
+Topic 1:
+  forum:7.63
+  register:7.62
+  user:7.62
+  fog:4.11
+  smf:3.74
+  cover:3.74
+  looked:3.74
+  add:3.74
+  lazy:3.74
+  potential:3.74
+
+Topic 2:
+  kind:3.56
+  soul:3.55
+  op:3.55
+  pgp:3.44
+  profile:3.42
+  link:3.41
+  sig:3.41
+  key:3.41
+  amount:2.72
+  coin:2.71
+
+Topic 3:
+  blender:2.91
+  works:2.34
+  issue:2.27
+  tails:2.27
+  username:2.27
+  blockchain:2.27
+  account:2.27
+  log:2.27
+  adjust:2.27
+  password:2.27
+
+Topic 4:
+  service:7.59
+  tor:6.98
+  coins:4.96
+  tumbling:4.63
+  exit:4.63
+  site:4.56
+  thread:4.56
+  pretty:3.78
+  effective:2.28
+  disadvantages:2.28
+
+K: 5, Log-Likelihood: -2832.063, Alpha: 11.000, Beta: 1.100

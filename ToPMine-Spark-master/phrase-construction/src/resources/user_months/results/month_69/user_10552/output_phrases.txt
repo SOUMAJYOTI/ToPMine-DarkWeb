@@ -1,0 +1,61 @@
+Topic 0:
+  bands:0.65
+  phones:0.57
+  time:0.57
+  bugs:0.40
+  government:0.39
+  service:0.28
+  effort:0.28
+  easily:0.28
+  video:0.28
+  pick:0.28
+
+Topic 1:
+  bands:0.72
+  phones:0.57
+  time:0.55
+  government:0.43
+  bugs:0.42
+  hits:0.28
+  close:0.28
+  save:0.28
+  eliminate:0.28
+  forget:0.28
+
+Topic 2:
+  bands:0.69
+  time:0.56
+  phones:0.54
+  government:0.45
+  bugs:0.42
+  audit:0.28
+  sweeper:0.28
+  list:0.28
+  battery:0.28
+  tricks:0.28
+
+Topic 3:
+  bands:0.73
+  time:0.56
+  phones:0.54
+  government:0.48
+  bugs:0.43
+  basin:0.28
+  microwaves:0.28
+  map:0.28
+  area:0.28
+  forget:0.28
+
+Topic 4:
+  bands:0.67
+  phones:0.55
+  time:0.54
+  government:0.45
+  bugs:0.42
+  coin:0.28
+  market frequencies:0.28
+  services:0.28
+  dollars:0.28
+  infamed:0.28
+
+K: 5, Log-Likelihood: -927.798, Alpha: 11.000, Beta: 1.100

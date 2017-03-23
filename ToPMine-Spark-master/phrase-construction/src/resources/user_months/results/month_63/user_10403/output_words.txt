@@ -1,0 +1,61 @@
+Topic 0:
+  october:5.84
+  quote:4.55
+  bond:4.53
+  won:3.98
+  herbanlegends:3.48
+  profit:3.09
+  pays:2.68
+  paid:2.67
+  lottery:2.66
+  drunkenness:2.64
+
+Topic 1:
+  admin:9.64
+  gandalf:6.87
+  admins:4.79
+  thehobbit:4.78
+  forum:3.86
+  gollum:3.81
+  quote:3.02
+  vendors:2.52
+  site:1.99
+  post:1.87
+
+Topic 2:
+  amquote:14.04
+  drunk:10.80
+  october:10.42
+  judge:9.73
+  herbanlegends:9.49
+  drsnerd:8.30
+  september:5.12
+  bought:5.12
+  waste:5.10
+  told:5.09
+
+Topic 3:
+  october:7.81
+  herbanlegends:4.47
+  quote:4.32
+  interviews:3.27
+  guess:2.30
+  game:2.30
+  amquote:1.99
+  phil:1.59
+  owners:1.30
+  busted:1.29
+
+Topic 4:
+  market:14.51
+  won:6.42
+  partner:5.90
+  outlaw:4.62
+  markets:4.15
+  infrastructure:3.90
+  order:3.90
+  working:3.90
+  set:3.90
+  guis:3.90
+
+K: 5, Log-Likelihood: -2693.800, Alpha: 11.000, Beta: 1.100

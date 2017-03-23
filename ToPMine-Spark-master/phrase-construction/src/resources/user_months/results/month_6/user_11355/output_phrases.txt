@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.42
+  vending:0.28
+  kp:0.14
+  animal:0.14
+  hallucinogenic:0.14
+  charging:0.14
+  ideally:0.14
+  account:0.14
+  edibles:0.14
+  damage:0.14
+
+Topic 1:
+  sr:0.41
+  vending:0.28
+  themarketplace:0.14
+  ambecome:0.14
+  february:0.14
+  sounds:0.14
+  quote:0.14
+  time:0.14
+  offering:0.14
+  blackbank:0.14
+
+Topic 2:
+  sr:0.42
+  vending:0.28
+  hear:0.14
+  animal:0.14
+  orgchhers:0.14
+  starting:0.14
+  account:0.14
+  fee:0.14
+  free:0.14
+  bond:0.14
+
+Topic 3:
+  sr:0.41
+  vending:0.28
+  sounds:0.14
+  quote:0.14
+  ambecome:0.14
+  february:0.14
+  themarketplace:0.14
+  offering:0.14
+  limited:0.14
+  time:0.14
+
+Topic 4:
+  sr:0.42
+  vending:0.28
+  market:0.14
+  feedback:0.14
+  quality:0.14
+  school:0.14
+  damage:0.14
+  love:0.14
+  interested:0.14
+  starting:0.14
+
+K: 5, Log-Likelihood: -179.772, Alpha: 11.000, Beta: 1.100

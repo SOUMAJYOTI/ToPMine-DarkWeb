@@ -1,0 +1,61 @@
+Topic 0:
+  email:4.01
+  encryption:2.16
+  feature:1.74
+  isnt:1.72
+  server:1.72
+  mails:1.70
+  thing:1.40
+  practice:1.21
+  mail:1.19
+  settings:0.94
+
+Topic 1:
+  service:5.28
+  email:3.48
+  transit:3.29
+  senders:3.20
+  assailable:3.06
+  webmail:3.04
+  encryption:2.61
+  provider:2.08
+  standard:1.54
+  gold:1.52
+
+Topic 2:
+  provider:2.52
+  emails:1.35
+  encrypt:1.21
+  pgp:1.17
+  thing:1.04
+  email:1.02
+  key:0.96
+  good:0.76
+  provision:0.75
+  deepweb:0.75
+
+Topic 3:
+  provider:2.45
+  key:1.89
+  thing:1.72
+  emails:1.65
+  situation:1.23
+  hushmail:1.20
+  details:1.20
+  generated:1.18
+  pgp:1.06
+  encrypt:1.03
+
+Topic 4:
+  encryption:1.71
+  email:1.52
+  provider:1.48
+  read:1.44
+  service:1.16
+  gold:1.14
+  standard:1.13
+  machine:1.11
+  transit:1.01
+  media:0.86
+
+K: 5, Log-Likelihood: -1273.816, Alpha: 11.000, Beta: 1.100

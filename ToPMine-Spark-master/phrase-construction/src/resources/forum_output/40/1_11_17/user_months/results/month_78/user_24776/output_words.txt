@@ -1,0 +1,61 @@
+Topic 0:
+  aloittamista:0.20
+  myym:0.20
+  mahdollisuus:0.20
+  kuulla:0.20
+  onko:0.20
+  asiaan:0.20
+  kenell:0.20
+  ja:0.20
+  lki:0.20
+  kiinnostaisi:0.20
+
+Topic 1:
+  eritt:0.20
+  liittyen:0.20
+  mielipiteit:0.20
+  ennen:0.20
+  kiinnostaisi:0.20
+  kiinnostusta:0.20
+  meit:0.20
+  tuotetta:0.20
+  olive:0.20
+  ajokortteja:0.20
+
+Topic 2:
+  ammattilaisten:0.20
+  kohtaan:0.20
+  meit:0.20
+  asiaan:0.20
+  ja:0.20
+  ydellisi:0.20
+  kiinnostusta:0.20
+  onko:0.20
+  ytt:0.20
+  lki:0.20
+
+Topic 3:
+  ennen:0.20
+  ajokortteja:0.20
+  ja:0.20
+  alkaa:0.20
+  mielipiteit:0.20
+  ill:0.20
+  kohtaan:0.20
+  mahdollisuus:0.20
+  rekem:0.20
+  ydellisi:0.20
+
+Topic 4:
+  kenell:0.20
+  tuotetta:0.20
+  eritt:0.20
+  kiinnostusta:0.20
+  myynnin:0.20
+  myym:0.20
+  meit:0.20
+  rekem:0.20
+  onko:0.20
+  ytt:0.20
+
+K: 5, Log-Likelihood: -93.302, Alpha: 11.000, Beta: 1.100

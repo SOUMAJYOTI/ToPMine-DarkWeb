@@ -1,0 +1,61 @@
+Topic 0:
+  onion:8.26
+  tor:8.09
+  sip:5.79
+  call:4.67
+  works:4.14
+  hidden:3.80
+  service:3.80
+  latency:3.80
+  quote:3.67
+  january:3.63
+
+Topic 1:
+  phones:9.20
+  satellite:7.90
+  phone:2.55
+  sensitive:2.22
+  gps:2.22
+  january:2.18
+  quote:2.12
+  input:1.91
+  observers:1.91
+  trouble:1.91
+
+Topic 2:
+  signal:6.39
+  baseband:3.18
+  source:2.95
+  elaborate:2.87
+  documentation:2.87
+  metadata:2.73
+  leaks:2.35
+  targeted:2.31
+  dont:2.30
+  signals:1.95
+
+Topic 3:
+  voip:9.11
+  vpn:8.33
+  phone:7.37
+  tor:6.17
+  leaks:4.05
+  fake:3.70
+  laptop:3.70
+  people:3.69
+  nsa:3.69
+  encrypted:3.69
+
+Topic 4:
+  imei:5.87
+  flag:2.93
+  things:2.89
+  swapping:2.79
+  onioncat:2.27
+  cycle:1.93
+  red:1.93
+  imsi:1.93
+  imagine:1.46
+  performance:1.46
+
+K: 5, Log-Likelihood: -3826.898, Alpha: 11.000, Beta: 1.100

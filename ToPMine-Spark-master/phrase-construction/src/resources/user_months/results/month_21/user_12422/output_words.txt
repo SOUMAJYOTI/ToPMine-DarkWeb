@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.55
+  myyj:0.46
+  ett:0.42
+  mit:0.27
+  ytt:0.25
+  kuullutkaan:0.25
+  paljon:0.25
+  olisi:0.25
+  athene:0.25
+  aika:0.25
+
+Topic 1:
+  ja:0.71
+  ett:0.41
+  myyj:0.40
+  mit:0.32
+  vin:0.21
+  kirjoittelemassa:0.21
+  tuonne:0.21
+  hyvitti:0.21
+  reilun:0.21
+  kuun:0.21
+
+Topic 2:
+  myyj:0.66
+  ja:0.40
+  ett:0.35
+  diana:0.30
+  yll:0.30
+  postasin:0.30
+  pito:0.30
+  lankaan:0.30
+  pahoitteli:0.30
+  viikon:0.30
+
+Topic 3:
+  ja:0.88
+  mit:0.48
+  ett:0.42
+  myyj:0.29
+  tilill:0.23
+  vaan:0.23
+  tess:0.23
+  vk:0.23
+  kulunut:0.23
+  ettei:0.23
+
+Topic 4:
+  ja:1.45
+  mit:0.76
+  ett:0.40
+  samantien:0.32
+  hippiespace:0.32
+  ollut:0.32
+  nain:0.32
+  kohta:0.32
+  maksoin:0.32
+  heti:0.32
+
+K: 5, Log-Likelihood: -415.269, Alpha: 11.000, Beta: 1.100

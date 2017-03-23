@@ -1,0 +1,36 @@
+Topic 0:
+  pimpin:0.40
+  easy:0.20
+  stick:0.20
+  aint:0.20
+  money:0.20
+
+Topic 1:
+  pimpin:0.40
+  money:0.20
+  stick:0.20
+  aint:0.20
+  easy:0.20
+
+Topic 2:
+  pimpin:0.40
+  aint:0.20
+  money:0.20
+  stick:0.20
+  easy:0.20
+
+Topic 3:
+  pimpin:0.40
+  easy:0.20
+  aint:0.20
+  money:0.20
+  stick:0.20
+
+Topic 4:
+  pimpin:0.40
+  stick:0.20
+  money:0.20
+  easy:0.20
+  aint:0.20
+
+K: 5, Log-Likelihood: -9.386, Alpha: 11.000, Beta: 1.100

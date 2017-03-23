@@ -1,0 +1,61 @@
+Topic 0:
+  community:2.85
+  hope:2.85
+  damn:2.85
+  rest:2.85
+  warning:2.85
+  bud:2.85
+  camp:2.85
+  good:2.85
+  warning loss:2.85
+  thing:2.85
+
+Topic 1:
+  ill:3.11
+  spreading:1.79
+  mind:1.79
+  bitcointalk:1.79
+  man:1.79
+  story:1.78
+  convinced:1.78
+  posts:1.78
+  huh:1.37
+  decent:1.36
+
+Topic 2:
+  mustve:2.91
+  thought verified:2.91
+  man loss:2.91
+  crazy:2.91
+  fuckers:2.91
+  rouge:2.91
+  long:2.91
+  checked:2.63
+  rating:2.63
+  time:2.54
+
+Topic 3:
+  weeks:3.82
+  transaction:3.82
+  heads:2.49
+  couple:2.48
+  problem:2.48
+  dealt:2.48
+  coin:2.48
+  times:2.48
+  lol:2.48
+  honor thieves:2.48
+
+Topic 4:
+  funds:5.77
+  bitcoinfog:5.77
+  company:3.83
+  untraceable:3.83
+  service:3.83
+  week:3.83
+  confirmed:3.83
+  registered:3.83
+  georgia:1.88
+  tor:1.88
+
+K: 5, Log-Likelihood: -1979.502, Alpha: 11.000, Beta: 1.100

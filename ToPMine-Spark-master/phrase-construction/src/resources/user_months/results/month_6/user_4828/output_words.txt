@@ -1,0 +1,61 @@
+Topic 0:
+  key:2.63
+  change:1.35
+  death:0.76
+  talking:0.76
+  life:0.76
+  jail:0.76
+  freedom:0.75
+  shit:0.75
+  plaintext:0.75
+  sign:0.72
+
+Topic 1:
+  key:2.62
+  change:1.33
+  nym:1.24
+  pgp:1.13
+  gpa:0.90
+  enter:0.90
+  inanna:0.89
+  tmg:0.66
+  easy:0.66
+  comment:0.65
+
+Topic 2:
+  key:2.57
+  change:1.34
+  pgp:0.94
+  shit:0.66
+  life:0.64
+  plaintext:0.64
+  talking:0.63
+  jail:0.63
+  death:0.62
+  freedom:0.62
+
+Topic 3:
+  key:3.44
+  change:1.55
+  sign:0.72
+  option:0.62
+  plaintext:0.62
+  freedom:0.62
+  death:0.62
+  shit:0.62
+  jail:0.61
+  life:0.60
+
+Topic 4:
+  key:3.73
+  change:1.42
+  pgp:0.78
+  sign:0.60
+  option:0.58
+  jail:0.57
+  talking:0.56
+  freedom:0.56
+  plaintext:0.56
+  life:0.56
+
+K: 5, Log-Likelihood: -809.277, Alpha: 11.000, Beta: 1.100

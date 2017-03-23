@@ -1,0 +1,61 @@
+Topic 0:
+  september:1.01
+  quote:0.89
+  sigaint:0.85
+  november:0.84
+  organix:0.84
+  amquote:0.75
+  charges:0.66
+  account:0.59
+  favorites:0.58
+  tackle:0.58
+
+Topic 1:
+  september:1.84
+  organix:1.54
+  amquote:1.40
+  sigaint:1.06
+  november:1.01
+  money:0.85
+  charging:0.84
+  pm:0.84
+  good:0.84
+  mentioned:0.83
+
+Topic 2:
+  september:1.78
+  amquote:1.64
+  organix:1.42
+  sigaint:1.02
+  november:0.87
+  handle:0.85
+  quote:0.84
+  lot:0.84
+  favorites:0.83
+  hella:0.83
+
+Topic 3:
+  september:1.22
+  amquote:1.08
+  organix:1.06
+  sigaint:0.91
+  quote:0.81
+  november:0.75
+  good:0.70
+  bitbybit:0.69
+  charges:0.69
+  payshield:0.69
+
+Topic 4:
+  coins:2.36
+  tumble:2.36
+  blackete:1.70
+  people:1.70
+  current:1.70
+  leads:1.25
+  life:1.24
+  real:1.24
+  identity:1.24
+  set:0.74
+
+K: 5, Log-Likelihood: -594.433, Alpha: 11.000, Beta: 1.100

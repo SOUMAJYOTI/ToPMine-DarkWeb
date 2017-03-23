@@ -1,0 +1,61 @@
+Topic 0:
+  fake docs:6.87
+  account:6.87
+  ve:3.66
+  deposit:3.40
+  work:3.40
+  send:3.40
+  trusted:3.40
+  ideas:3.40
+  forums:3.40
+  rate:3.40
+
+Topic 1:
+  markup btc:3.40
+  cashintocoins:3.40
+  quoted:3.40
+  easiest:3.40
+  stopped:3.40
+  agora:3.40
+  accounts:3.40
+  vendor:3.40
+  guy:3.40
+  banks:3.40
+
+Topic 2:
+  kind secure exchaning experience:4.72
+  idea linking bank account:4.71
+  input tails:4.67
+  interesting level paranoia coinbase:4.48
+  reddit praises dont:3.98
+  sake imo:3.93
+  visa linked account worth:3.93
+  trust:3.93
+  worried linking bank account:3.91
+  blockchain hive current wallets:3.91
+
+Topic 3:
+  security:3.42
+  info:3.42
+  bit coinbase:3.40
+  open:3.40
+  royal:3.40
+  tails secure:3.40
+  wallets:3.40
+  download:3.40
+  consensus:3.40
+  answer:3.40
+
+Topic 4:
+  purchase coins:6.86
+  coinbase:3.93
+  create:3.39
+  assume:3.39
+  downloaded:3.39
+  recommend:3.39
+  coincide:3.39
+  places:3.39
+  hard:3.39
+  googling:3.39
+
+K: 5, Log-Likelihood: -3196.012, Alpha: 11.000, Beta: 1.100

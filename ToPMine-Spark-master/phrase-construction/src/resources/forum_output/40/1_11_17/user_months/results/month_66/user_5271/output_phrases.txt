@@ -1,0 +1,61 @@
+Topic 0:
+  veracrypt:2.24
+  disk:1.60
+  full:1.60
+  encrypted:1.60
+  file:1.60
+  encryption:1.60
+  good:1.60
+  system:1.60
+  forward:1.60
+  glad:1.33
+
+Topic 1:
+  team:2.56
+  security:2.55
+  smarter:2.55
+  constantly:2.55
+  people:2.54
+  competent:2.53
+  checking:2.53
+  suite:2.52
+  bugs:2.51
+  tails:1.63
+
+Topic 2:
+  don:3.63
+  cloning:2.81
+  vendors:2.81
+  persistent:2.81
+  lost:2.81
+  feel:2.81
+  volume:2.81
+  download:2.81
+  times:2.80
+  rebuild:2.80
+
+Topic 3:
+  folks:2.36
+  coins:2.36
+  bandbox:2.36
+  start:2.36
+  vpon:2.35
+  running:2.35
+  virtual:2.34
+  box:2.34
+  renting:2.34
+  expert:2.33
+
+Topic 4:
+  secure:2.65
+  larger:2.37
+  gb:2.36
+  tails secure:2.35
+  setup:2.35
+  stick:2.34
+  december:1.68
+  info:1.68
+  quote:1.68
+  amwhy:1.68
+
+K: 5, Log-Likelihood: -875.108, Alpha: 11.000, Beta: 1.100

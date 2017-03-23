@@ -1,0 +1,61 @@
+Topic 0:
+  vpn:13.73
+  tor:8.65
+  virtual machine:7.54
+  tails encryption:6.18
+  pay:4.85
+  hide isp:4.85
+  logos:4.85
+  wife:4.85
+  deal:4.85
+  hereusing:4.85
+
+Topic 1:
+  shared coins:9.77
+  wait hrs:9.77
+  browse dn:7.61
+  crack wifi:7.50
+  coins:6.35
+  encrypt:6.24
+  pray vpn:6.14
+  encryption:6.10
+  good:5.02
+  press:4.86
+
+Topic 2:
+  order:7.35
+  fine:7.16
+  buy:6.88
+  start:6.88
+  phone:6.14
+  time:5.29
+  case:4.89
+  countries:4.89
+  remember:4.89
+  bet:4.89
+
+Topic 3:
+  blockchain:6.29
+  hope:4.94
+  donation:4.84
+  sprinkle:4.84
+  charitable:4.84
+  neglegible:4.84
+  send:4.84
+  hours:4.84
+  couple:4.84
+  support:4.84
+
+Topic 4:
+  computer:9.80
+  programming language:9.80
+  interest:9.80
+  safe:8.82
+  service provider:7.56
+  test:4.88
+  condone:4.88
+  memory:4.88
+  terms:4.88
+  private:4.88
+
+K: 5, Log-Likelihood: -9842.781, Alpha: 11.000, Beta: 1.100

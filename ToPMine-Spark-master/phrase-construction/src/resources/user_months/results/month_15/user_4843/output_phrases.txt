@@ -1,0 +1,61 @@
+Topic 0:
+  photoshop:7.25
+  theme:4.13
+  icons:3.56
+  choose:3.56
+  love change:3.56
+  tired:3.56
+  effects:3.56
+  thing:3.56
+  background:3.56
+  art:3.56
+
+Topic 1:
+  contact:5.35
+  dark net services:4.20
+  forum:3.44
+  bottom:2.17
+  sites:2.17
+  july:2.17
+  corner:2.17
+  amwhat:2.17
+  quote:2.17
+  site:2.17
+
+Topic 2:
+  laughing:3.34
+  default:3.34
+  theme avengers:3.33
+  rule:3.33
+  burst:3.33
+  guys:3.33
+  forums:2.39
+  long:2.05
+  life:2.05
+  fruitful:2.05
+
+Topic 3:
+  eye candy:7.26
+  theme:5.17
+  love:4.60
+  current:3.57
+  joke:3.57
+  lsd:3.57
+  modify:3.57
+  pretty nice:3.57
+  click:3.57
+  theme community:3.57
+
+Topic 4:
+  team dns:7.15
+  themes:3.53
+  team:3.11
+  making:2.35
+  selecting:2.19
+  experienced:2.19
+  gauge:2.19
+  platform:2.19
+  options:2.19
+  option:2.19
+
+K: 5, Log-Likelihood: -1803.145, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  mail:15.08
+  valhalla:13.08
+  turbodoctor:11.82
+  tor:11.39
+  hansa:10.10
+  software:8.90
+  release:8.47
+  version:7.74
+  security:7.61
+  making:7.42
+
+Topic 1:
+  mail:6.22
+  tor:4.12
+  turbodoctor:3.54
+  security:2.72
+  zaphod:2.55
+  lack:2.44
+  valhalla:2.35
+  hansa:2.21
+  time:2.03
+  making:1.99
+
+Topic 2:
+  laptop:6.82
+  secure:5.97
+  encrypted:5.93
+  phone:4.97
+  chat:3.97
+  communicate:2.97
+  smartphone:2.97
+  data:2.58
+  time:2.58
+  anonymous:1.97
+
+Topic 3:
+  turbodoctor:7.32
+  mail:6.83
+  tor:4.51
+  valhalla:4.32
+  lack:3.64
+  hansa:3.49
+  security:3.34
+  email:2.87
+  version:2.55
+  making:2.40
+
+Topic 4:
+  april:9.96
+  quote:5.19
+  aethon:4.84
+  raptop:4.77
+  creeiptid:4.76
+  amquote:4.17
+  ami:3.83
+  mask:2.87
+  herb:2.87
+  picture:2.87
+
+K: 5, Log-Likelihood: -5165.842, Alpha: 11.000, Beta: 1.100

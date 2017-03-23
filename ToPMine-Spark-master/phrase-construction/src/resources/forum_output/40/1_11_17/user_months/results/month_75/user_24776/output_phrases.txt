@@ -1,0 +1,61 @@
+Topic 0:
+  mahdollisuus:0.00
+  kuulla:0.00
+  kenell:0.00
+  alkaa:0.00
+  korkealaatuinen:0.00
+  kohtaan:0.00
+  lki:0.00
+  ennen:0.00
+  aloittamista:0.00
+  mielipiteit:0.00
+
+Topic 1:
+  mahdollisuus:0.00
+  kuulla:0.00
+  kenell:0.00
+  alkaa:0.00
+  korkealaatuinen:0.00
+  kohtaan:0.00
+  lki:0.00
+  ennen:0.00
+  aloittamista:0.00
+  mielipiteit:0.00
+
+Topic 2:
+  mahdollisuus:0.00
+  kuulla:0.00
+  kenell:0.00
+  alkaa:0.00
+  korkealaatuinen:0.00
+  kohtaan:0.00
+  lki:0.00
+  ennen:0.00
+  aloittamista:0.00
+  mielipiteit:0.00
+
+Topic 3:
+  mahdollisuus:0.00
+  kuulla:0.00
+  kenell:0.00
+  alkaa:0.00
+  korkealaatuinen:0.00
+  kohtaan:0.00
+  lki:0.00
+  ennen:0.00
+  aloittamista:0.00
+  mielipiteit:0.00
+
+Topic 4:
+  mahdollisuus:0.00
+  kuulla:0.00
+  kenell:0.00
+  alkaa:0.00
+  korkealaatuinen:0.00
+  kohtaan:0.00
+  lki:0.00
+  ennen:0.00
+  aloittamista:0.00
+  mielipiteit:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

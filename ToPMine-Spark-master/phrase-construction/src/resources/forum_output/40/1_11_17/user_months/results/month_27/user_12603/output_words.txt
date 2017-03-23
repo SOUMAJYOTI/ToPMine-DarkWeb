@@ -1,0 +1,61 @@
+Topic 0:
+  ei:1.15
+  nain:1.00
+  en:0.88
+  ja:0.88
+  jos:0.85
+  paljon:0.75
+  mut:0.71
+  hk:0.59
+  ss:0.58
+  hoitaa:0.58
+
+Topic 1:
+  mut:5.22
+  oon:3.21
+  joku:2.24
+  ei:1.57
+  riit:1.29
+  yritt:1.28
+  kaikki:0.73
+  en:0.65
+  vaan:0.62
+  tarvii:0.61
+
+Topic 2:
+  jos:1.05
+  ei:1.03
+  ja:1.01
+  paljon:0.96
+  nain:0.74
+  en:0.71
+  se:0.57
+  hoitaa:0.51
+  ss:0.51
+  pgp:0.51
+
+Topic 3:
+  ei:1.15
+  jos:1.06
+  ja:1.01
+  en:0.68
+  nain:0.66
+  mik:0.66
+  paljon:0.66
+  hoitaa:0.66
+  ss:0.66
+  se:0.58
+
+Topic 4:
+  ytt:4.42
+  pgp:3.30
+  avain:2.83
+  paljon:2.21
+  ja:1.90
+  vain:1.84
+  st:1.84
+  itse:1.84
+  ohjeita:0.96
+  ohjelmaa:0.91
+
+K: 5, Log-Likelihood: -1257.061, Alpha: 11.000, Beta: 1.100

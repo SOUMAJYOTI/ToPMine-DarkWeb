@@ -1,0 +1,61 @@
+Topic 0:
+  dollars:0.82
+  agora:0.78
+  order:0.61
+  mdma:0.61
+  gram:0.59
+  link:0.40
+  offer:0.40
+  sign:0.40
+  orders:0.40
+  drugslist:0.40
+
+Topic 1:
+  agora:0.78
+  dollars:0.72
+  mdma:0.62
+  gram:0.61
+  order:0.59
+  drugslist:0.42
+  orders:0.42
+  offer:0.39
+  sign:0.39
+  link:0.39
+
+Topic 2:
+  dollars:0.83
+  agora:0.79
+  order:0.61
+  gram:0.59
+  mdma:0.59
+  link:0.42
+  sign:0.41
+  offer:0.40
+  drugslist:0.40
+  orders:0.39
+
+Topic 3:
+  agora:0.83
+  dollars:0.82
+  gram:0.62
+  order:0.60
+  mdma:0.58
+  offer:0.41
+  sign:0.41
+  link:0.40
+  orders:0.39
+  drugslist:0.39
+
+Topic 4:
+  agora:0.82
+  dollars:0.80
+  gram:0.60
+  mdma:0.60
+  order:0.59
+  offer:0.40
+  orders:0.40
+  drugslist:0.40
+  sign:0.40
+  link:0.40
+
+K: 5, Log-Likelihood: -260.924, Alpha: 11.000, Beta: 1.100

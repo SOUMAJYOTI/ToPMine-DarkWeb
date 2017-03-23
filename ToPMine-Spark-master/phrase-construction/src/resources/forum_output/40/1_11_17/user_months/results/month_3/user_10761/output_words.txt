@@ -1,0 +1,61 @@
+Topic 0:
+  namecoin:8.59
+  address:8.12
+  lot:6.51
+  price:6.48
+  notice:5.65
+  people:5.43
+  post:4.88
+  addresses:4.44
+  march:4.32
+  real:4.02
+
+Topic 1:
+  btc:268.95
+  ltc:100.99
+  cny:53.95
+  doge:32.99
+  xpm:13.99
+  eur:13.75
+  xrp:8.99
+  coin:6.18
+  ppc:5.99
+  ifc:5.99
+
+Topic 2:
+  keys:32.65
+  keyserver:22.90
+  playground:9.51
+  keyid:9.12
+  april:9.01
+  owockeznan:8.72
+  fingerprint:8.39
+  short:7.81
+  public:7.24
+  collisions:6.96
+
+Topic 3:
+  key:58.94
+  gpg:53.45
+  myname:25.94
+  public:22.33
+  recipient:20.77
+  keys:20.31
+  output:19.89
+  file:18.14
+  encrypted:15.86
+  gog:12.80
+
+Topic 4:
+  price:6.65
+  day:3.68
+  center:2.97
+  siblings:2.82
+  nice:2.75
+  owners:2.58
+  domain:2.31
+  happyplayground:2.27
+  restaurant:1.97
+  machines:1.97
+
+K: 5, Log-Likelihood: -17609.714, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  love:0.00
+  communicate:0.00
+  ya:0.00
+  dim:0.00
+  feel:0.00
+  desirable:0.00
+  instantaneous:0.00
+  assistance:0.00
+  xmpp:0.00
+  plausible:0.00
+
+Topic 1:
+  love:0.00
+  communicate:0.00
+  ya:0.00
+  dim:0.00
+  feel:0.00
+  desirable:0.00
+  instantaneous:0.00
+  assistance:0.00
+  xmpp:0.00
+  plausible:0.00
+
+Topic 2:
+  love:0.00
+  communicate:0.00
+  ya:0.00
+  dim:0.00
+  feel:0.00
+  desirable:0.00
+  instantaneous:0.00
+  assistance:0.00
+  xmpp:0.00
+  plausible:0.00
+
+Topic 3:
+  love:0.00
+  communicate:0.00
+  ya:0.00
+  dim:0.00
+  feel:0.00
+  desirable:0.00
+  instantaneous:0.00
+  assistance:0.00
+  xmpp:0.00
+  plausible:0.00
+
+Topic 4:
+  love:0.00
+  communicate:0.00
+  ya:0.00
+  dim:0.00
+  feel:0.00
+  desirable:0.00
+  instantaneous:0.00
+  assistance:0.00
+  xmpp:0.00
+  plausible:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

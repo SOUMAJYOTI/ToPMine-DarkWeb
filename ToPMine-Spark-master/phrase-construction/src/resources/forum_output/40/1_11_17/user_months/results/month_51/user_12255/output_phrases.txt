@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:5.20
+  da:4.52
+  verified:3.48
+  advertise:3.48
+  marketplace:3.47
+  goods:3.46
+  quote:3.22
+  jack harkness august:2.88
+  bird:2.87
+  approved:2.22
+
+Topic 1:
+  link:3.19
+  post:2.75
+  pgp key:2.26
+  pgp:2.22
+  market bird:1.93
+  dyuypttcvtrdc:1.50
+  gnupg:1.50
+  xu:1.48
+  oc:1.48
+  oeq:1.47
+
+Topic 2:
+  quote bird august:3.77
+  modasokas:2.85
+  happy:2.71
+  cocaine:2.53
+  missed:2.35
+  hate:1.77
+  ragnar:1.77
+  shop:1.77
+  vikings:1.75
+  pmfinally:1.68
+
+Topic 3:
+  market bird:5.53
+  pgp key:5.21
+  pgp:3.35
+  regfwdt:2.56
+  fkhipyxmbwfcdyd:2.55
+  board:2.55
+  klfnaex:2.55
+  tgfiv:2.54
+  szkzzwwublawr:2.53
+  rddjkjz:2.52
+
+Topic 4:
+  read thread read threads:3.60
+  thunder:3.20
+  stealin:3.19
+  pmi:3.19
+  sign:3.11
+  button:3.10
+  hit:3.10
+  poor:3.08
+  post verification:3.06
+  pal:2.49
+
+K: 5, Log-Likelihood: -3058.218, Alpha: 11.000, Beta: 1.100

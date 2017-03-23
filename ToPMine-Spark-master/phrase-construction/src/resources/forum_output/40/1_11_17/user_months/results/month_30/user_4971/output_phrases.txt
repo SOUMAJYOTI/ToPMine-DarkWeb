@@ -1,0 +1,61 @@
+Topic 0:
+  oil:4.69
+  mdma:3.08
+  st:2.03
+  hash:1.48
+  crap:1.48
+  top:1.48
+  safrol:1.48
+  qualitycheers:1.48
+  personally:1.48
+  pmb:1.48
+
+Topic 1:
+  pretty:1.47
+  seizes:1.46
+  faves:1.44
+  specific:1.43
+  heard:1.42
+  today:1.42
+  closed:1.42
+  shut:1.42
+  sr:1.40
+  vendows:1.40
+
+Topic 2:
+  don:0.97
+  ve:0.88
+  hope find success dont:0.85
+  sillywabbit november pmst:0.85
+  hear:0.85
+  recieved handful reviews handful:0.85
+  hope hear sooncheers:0.84
+  yeah orders lsd high:0.84
+  quote:0.83
+  funds visit shop glad:0.81
+
+Topic 3:
+  don:1.04
+  good:1.02
+  quality product:0.96
+  ve:0.82
+  funds visit shop glad:0.61
+  quote:0.61
+  hear:0.61
+  yeah orders lsd high:0.60
+  sillywabbit november pmst:0.60
+  hope hear sooncheers:0.60
+
+Topic 4:
+  quality product:3.38
+  good:3.28
+  source:1.56
+  chemists:1.55
+  lsd:1.55
+  occasional silver batch stick:1.55
+  reality:1.55
+  snacktime:1.55
+  find:1.55
+  fanbase:1.55
+
+K: 5, Log-Likelihood: -2036.717, Alpha: 11.000, Beta: 1.100

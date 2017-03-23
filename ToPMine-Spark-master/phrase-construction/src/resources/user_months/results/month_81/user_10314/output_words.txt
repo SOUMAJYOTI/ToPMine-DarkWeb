@@ -1,0 +1,61 @@
+Topic 0:
+  market:2.56
+  quote:1.74
+  bmr:1.51
+  january:1.43
+  invest:1.27
+  unhealthy:1.27
+  community:1.26
+  idea:1.26
+  dedicated:1.26
+  alive:1.25
+
+Topic 1:
+  free:3.09
+  scam:2.46
+  vendor:2.42
+  quote:1.64
+  sheep:1.60
+  site:1.51
+  vendors:1.42
+  february:1.42
+  open:1.42
+  change:1.19
+
+Topic 2:
+  year:3.13
+  market:2.55
+  quote:1.56
+  cantina:1.42
+  free:1.33
+  town:1.29
+  eager:1.29
+  popping:1.29
+  gamesome:1.29
+  places:1.29
+
+Topic 3:
+  market:2.94
+  quote:2.14
+  site:1.56
+  january:1.04
+  open:1.02
+  scam:0.98
+  free:0.97
+  sheep:0.96
+  vendor:0.93
+  vendors:0.87
+
+Topic 4:
+  bmr:6.13
+  markets:4.82
+  sr:3.79
+  dead:2.38
+  people:2.26
+  topic:1.83
+  mods:1.19
+  safe:1.18
+  ill:1.18
+  offer:1.17
+
+K: 5, Log-Likelihood: -1647.989, Alpha: 11.000, Beta: 1.100

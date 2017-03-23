@@ -1,0 +1,61 @@
+Topic 0:
+  trust:0.00
+  addresses:0.00
+  public key:0.00
+  provided:0.00
+  direct:0.00
+  encrypting:0.00
+  cold:0.00
+  secure:0.00
+  required:0.00
+  sales:0.00
+
+Topic 1:
+  trust:0.00
+  addresses:0.00
+  public key:0.00
+  provided:0.00
+  direct:0.00
+  encrypting:0.00
+  cold:0.00
+  secure:0.00
+  required:0.00
+  sales:0.00
+
+Topic 2:
+  trust:0.00
+  addresses:0.00
+  public key:0.00
+  provided:0.00
+  direct:0.00
+  encrypting:0.00
+  cold:0.00
+  secure:0.00
+  required:0.00
+  sales:0.00
+
+Topic 3:
+  trust:0.00
+  addresses:0.00
+  public key:0.00
+  provided:0.00
+  direct:0.00
+  encrypting:0.00
+  cold:0.00
+  secure:0.00
+  required:0.00
+  sales:0.00
+
+Topic 4:
+  trust:0.00
+  addresses:0.00
+  public key:0.00
+  provided:0.00
+  direct:0.00
+  encrypting:0.00
+  cold:0.00
+  secure:0.00
+  required:0.00
+  sales:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

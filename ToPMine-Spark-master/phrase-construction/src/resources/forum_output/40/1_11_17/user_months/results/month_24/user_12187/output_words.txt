@@ -1,0 +1,61 @@
+Topic 0:
+  issues:0.40
+  login:0.40
+  supposed:0.20
+  timeout:0.20
+  user:0.20
+  week:0.20
+  fled:0.20
+  darknet:0.20
+  agra:0.20
+  success:0.20
+
+Topic 1:
+  issues:0.40
+  login:0.40
+  register:0.20
+  listed:0.20
+  day:0.20
+  reason:0.20
+  respond:0.20
+  days:0.20
+  agora:0.20
+  mate:0.20
+
+Topic 2:
+  login:0.40
+  issues:0.40
+  day:0.20
+  respond:0.20
+  days:0.20
+  register:0.20
+  reason:0.20
+  listed:0.20
+  site:0.20
+  current:0.20
+
+Topic 3:
+  login:0.40
+  issues:0.40
+  days:0.20
+  listed:0.20
+  reason:0.20
+  register:0.20
+  day:0.20
+  respond:0.20
+  agora:0.20
+  hour:0.20
+
+Topic 4:
+  issues:0.40
+  login:0.40
+  current:0.20
+  good:0.20
+  sr:0.20
+  week:0.20
+  sucker:0.20
+  fled:0.20
+  replies:0.20
+  success:0.20
+
+K: 5, Log-Likelihood: -121.721, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  personally:3.61
+  interested:3.37
+  attack:3.17
+  reddit:2.89
+  based:2.55
+  abilities:2.55
+  petty:2.54
+  dont care:2.45
+  hand:2.43
+  time:2.37
+
+Topic 1:
+  reddit:4.92
+  integrity:4.23
+  respite:4.23
+  threats:4.18
+  brags:4.18
+  scam:4.18
+  check:4.17
+  fact:3.47
+  fancied:3.29
+  doritos:3.29
+
+Topic 2:
+  attack:10.70
+  server:10.64
+  system:10.63
+  rate limiting:8.50
+  started:7.06
+  users:6.36
+  invite mode:6.35
+  sign:6.35
+  site:5.31
+  market:4.44
+
+Topic 3:
+  didnt:6.30
+  private keys:5.60
+  ad:4.75
+  scripts:4.24
+  easier:4.24
+  hidden service:4.24
+  ship operation:4.24
+  thief:4.16
+  blackmailer:4.16
+  lie:4.16
+
+Topic 4:
+  guy:4.26
+  warn:4.26
+  hacks:3.42
+  complete:3.01
+  native:3.01
+  idiots:3.01
+  consultants:2.12
+  listen:2.12
+  ya:2.12
+  love:2.12
+
+K: 5, Log-Likelihood: -10011.588, Alpha: 11.000, Beta: 1.100

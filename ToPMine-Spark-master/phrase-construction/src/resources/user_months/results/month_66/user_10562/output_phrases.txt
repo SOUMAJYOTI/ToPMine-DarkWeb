@@ -1,0 +1,61 @@
+Topic 0:
+  galaxy:0.66
+  dash:0.61
+  mainnet:0.58
+  interested:0.58
+  social:0.58
+  digitalcash:0.58
+  rule:0.58
+  hidden:0.58
+  wiki:0.58
+  media:0.58
+
+Topic 1:
+  dash:0.65
+  july:0.55
+  network:0.53
+  monero:0.43
+  mix:0.39
+  masternode:0.39
+  pmquote:0.39
+  code:0.39
+  bitcoin:0.39
+  technology:0.39
+
+Topic 2:
+  july:0.80
+  network:0.79
+  dash:0.68
+  pmquote:0.53
+  bitcoin:0.53
+  rebrand:0.53
+  mixing:0.52
+  technology:0.52
+  centralized:0.52
+  nodes tor:0.52
+
+Topic 3:
+  july:0.91
+  network:0.88
+  dash:0.66
+  code:0.60
+  cash:0.60
+  mixing:0.59
+  centralized:0.59
+  masternode:0.59
+  decentralized:0.59
+  base:0.59
+
+Topic 4:
+  network:0.91
+  july:0.85
+  dash:0.64
+  features:0.57
+  base:0.57
+  dogatemyacid:0.57
+  mix:0.56
+  decentralized:0.56
+  cryptonote:0.56
+  nodes tor:0.55
+
+K: 5, Log-Likelihood: -874.812, Alpha: 11.000, Beta: 1.100

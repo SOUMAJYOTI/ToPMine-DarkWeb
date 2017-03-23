@@ -1,0 +1,61 @@
+Topic 0:
+  memory:14.64
+  system:14.42
+  learning mode:12.20
+  rbac:9.76
+  grsec:8.95
+  access controls:7.32
+  protection:7.32
+  user:5.60
+  tor:5.31
+  devices:4.87
+
+Topic 1:
+  atom quantum computer:9.76
+  number:7.32
+  atoms:7.32
+  building:4.87
+  notable:4.87
+  computers:4.87
+  obsolete:4.87
+  laser:4.87
+  basin:4.87
+  today:4.87
+
+Topic 2:
+  tor:5.15
+  manual:4.87
+  configuring:4.87
+  router:4.87
+  dns:4.81
+  crypt:4.81
+  working:4.03
+  cutting edge:3.71
+  yeah:3.21
+  subgraph:3.09
+
+Topic 3:
+  subgraph:25.81
+  people:16.27
+  security:9.28
+  community guys:8.12
+  security people:8.12
+  safe switch:8.12
+  quote kmf march:6.46
+  squeaky:4.86
+  clean:4.86
+  kmf march:4.64
+
+Topic 4:
+  subgraph os:6.02
+  wait:5.16
+  march:5.15
+  ta downloading asap persistence:5.04
+  steroids:5.04
+  quote:4.49
+  tails:4.15
+  amits kind tails:4.08
+  tubes steroids wanted:4.07
+  hear released weekend sounds:4.07
+
+K: 5, Log-Likelihood: -12504.942, Alpha: 11.000, Beta: 1.100

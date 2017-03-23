@@ -1,0 +1,61 @@
+Topic 0:
+  digital:0.00
+  market:0.00
+  returning:0.00
+  loyal:0.00
+  count:0.00
+  message:0.00
+  gamesome:0.00
+  pm:0.00
+  agoras:0.00
+  customer:0.00
+
+Topic 1:
+  digital:0.00
+  market:0.00
+  returning:0.00
+  loyal:0.00
+  count:0.00
+  message:0.00
+  gamesome:0.00
+  pm:0.00
+  agoras:0.00
+  customer:0.00
+
+Topic 2:
+  digital:0.00
+  market:0.00
+  returning:0.00
+  loyal:0.00
+  count:0.00
+  message:0.00
+  gamesome:0.00
+  pm:0.00
+  agoras:0.00
+  customer:0.00
+
+Topic 3:
+  digital:0.00
+  market:0.00
+  returning:0.00
+  loyal:0.00
+  count:0.00
+  message:0.00
+  gamesome:0.00
+  pm:0.00
+  agoras:0.00
+  customer:0.00
+
+Topic 4:
+  digital:0.00
+  market:0.00
+  returning:0.00
+  loyal:0.00
+  count:0.00
+  message:0.00
+  gamesome:0.00
+  pm:0.00
+  agoras:0.00
+  customer:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

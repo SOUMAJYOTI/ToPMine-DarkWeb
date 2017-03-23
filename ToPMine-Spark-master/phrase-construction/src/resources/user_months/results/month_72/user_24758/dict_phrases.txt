@@ -1,0 +1,9 @@
+folder,0,1
+encrusted,1,1
+keys,2,1
+pgp,3,1
+safe,4,1
+save,5,1
+stick,6,1
+archive,7,1
+user,8,1

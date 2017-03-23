@@ -1,0 +1,61 @@
+Topic 0:
+  listing:0.20
+  improved:0.18
+  hot:0.18
+  escrow:0.18
+  bug:0.18
+  multisig:0.18
+  patched:0.18
+  transactions:0.18
+  lose:0.18
+  modified:0.18
+
+Topic 1:
+  listing:0.20
+  groups:0.18
+  caused:0.18
+  refunds:0.18
+  loses:0.18
+  issue:0.18
+  patching:0.18
+  partial:0.18
+  multisig:0.18
+  search:0.18
+
+Topic 2:
+  listing:0.20
+  waiting:0.18
+  resellers:0.18
+  profile:0.18
+  fantastic:0.18
+  ready:0.18
+  products:0.18
+  finished:0.18
+  customers:0.18
+  coming:0.18
+
+Topic 3:
+  listing:0.20
+  customers:0.18
+  finished:0.18
+  resellers:0.18
+  profile:0.18
+  fantastic:0.18
+  products:0.18
+  ready:0.18
+  waiting:0.18
+  english:0.18
+
+Topic 4:
+  listing:0.20
+  italian:0.18
+  english:0.18
+  german:0.18
+  spanish:0.18
+  localized:0.18
+  dutch:0.18
+  french:0.18
+  products:0.18
+  ready:0.18
+
+K: 5, Log-Likelihood: -140.220, Alpha: 11.000, Beta: 1.100

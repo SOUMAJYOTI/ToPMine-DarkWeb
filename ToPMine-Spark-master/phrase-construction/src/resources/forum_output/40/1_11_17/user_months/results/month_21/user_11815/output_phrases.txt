@@ -1,0 +1,61 @@
+Topic 0:
+  post:6.08
+  figured:3.82
+  discussion:3.82
+  agree:3.82
+  xss hacks:3.78
+  posting:3.78
+  marketplace:2.99
+  entire:2.99
+  marketplaces:2.39
+  people:2.17
+
+Topic 1:
+  dpr:6.08
+  server compromised:4.53
+  site:4.27
+  problems:3.86
+  high:3.86
+  hard:3.86
+  direction:3.86
+  illegal:3.86
+  programming:3.11
+  compromised server:2.95
+
+Topic 2:
+  community:7.75
+  middle earth:7.64
+  security:4.10
+  joining:3.86
+  reviews:3.86
+  receive:3.86
+  agora:3.86
+  good:3.86
+  mango:3.86
+  vendor:3.86
+
+Topic 3:
+  safe:3.84
+  dnm:3.84
+  remember:3.84
+  full:3.84
+  choose:3.80
+  pandora:3.56
+  evolution:3.56
+  agra:3.56
+  number:3.01
+  javascript:3.01
+
+Topic 4:
+  listening:2.99
+  feedback:2.99
+  acting:2.25
+  tone:1.90
+  respond:1.90
+  capslock:1.90
+  rational:1.90
+  bit:1.90
+  critique:1.90
+  title:1.90
+
+K: 5, Log-Likelihood: -5489.159, Alpha: 11.000, Beta: 1.100

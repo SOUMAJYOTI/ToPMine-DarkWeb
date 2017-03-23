@@ -1,0 +1,61 @@
+Topic 0:
+  everclear:5.37
+  grey goose:5.12
+  ratio:4.98
+  abv:4.98
+  read:4.62
+  completely:4.23
+  xtal:4.23
+  stirrers:4.23
+  laying:4.23
+  find:4.23
+
+Topic 1:
+  solution:9.25
+  stirring:4.25
+  addition:4.25
+  half:4.25
+  lay:4.25
+  test test:4.25
+  needed:4.25
+  cheap:4.25
+  free:4.25
+  multiply:4.25
+
+Topic 2:
+  term:4.25
+  investors:4.25
+  long:4.25
+  form:4.25
+  bitcoin:4.25
+  people start:4.25
+  start:4.25
+  price:2.87
+  losing:2.11
+  investment:2.11
+
+Topic 3:
+  volatile:3.29
+  recovering:2.04
+  normal:2.03
+  rift:2.03
+  dramatic:2.03
+  happened:2.03
+  sort:2.03
+  dropped:2.03
+  vodka dissolve:2.02
+  xtal fine:2.02
+
+Topic 4:
+  btc:6.79
+  march:5.01
+  speculating:4.22
+  price:3.75
+  orders:3.11
+  plays:3.11
+  order:3.10
+  saywhat:3.10
+  dont:3.10
+  dnm:3.09
+
+K: 5, Log-Likelihood: -4055.701, Alpha: 11.000, Beta: 1.100

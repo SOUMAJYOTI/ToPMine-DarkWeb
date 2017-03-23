@@ -1,0 +1,61 @@
+Topic 0:
+  point:6.01
+  thread:4.49
+  oral:2.93
+  prudent:2.93
+  bullshit:2.93
+  pls:2.93
+  divergent:2.93
+  save:2.93
+  doesnt:2.93
+  diarrhea:2.93
+
+Topic 1:
+  card:7.45
+  major:5.74
+  gift:3.79
+  deal:3.79
+  retain:3.79
+  btc:3.28
+  instantly:2.80
+  scratch:2.80
+  bank:2.80
+  transfer:2.80
+
+Topic 2:
+  pm:2.53
+  circle:1.83
+  snoop:1.83
+  bit:1.83
+  sketch:1.83
+  american:1.83
+  tumble:1.83
+  coinbase:1.83
+  mix:1.83
+  good:1.83
+
+Topic 3:
+  btc:4.54
+  lower:2.90
+  rate:2.90
+  flagellates:2.90
+  guess:2.90
+  understand:2.90
+  send:2.90
+  thought:2.90
+  buyer:2.90
+  mx:2.90
+
+Topic 4:
+  easy:2.80
+  pretensions:2.80
+  step:2.79
+  homosexual:1.86
+  earlier:1.86
+  pubes:1.86
+  feelsgoodman:1.86
+  trimmed:1.86
+  battlefield:1.86
+  veteran:1.86
+
+K: 5, Log-Likelihood: -1724.066, Alpha: 11.000, Beta: 1.100

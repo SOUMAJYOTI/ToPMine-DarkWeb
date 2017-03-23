@@ -1,0 +1,61 @@
+Topic 0:
+  hub:2.10
+  left:1.10
+  place:1.09
+  site:0.96
+  good:0.95
+  months:0.89
+  dont site:0.80
+  fishhed:0.80
+  claims:0.80
+  order coins:0.80
+
+Topic 1:
+  customers:3.09
+  vend:1.49
+  majority:1.49
+  located:1.49
+  vendor pandora:1.49
+  buy:1.49
+  regular:1.49
+  deciding:1.49
+  complaints:1.49
+  lost:1.49
+
+Topic 2:
+  account:3.13
+  transaction:3.13
+  test:3.13
+  revisit:1.52
+  phished:1.52
+  buyer:1.52
+  deposit:1.52
+  btcthis:1.52
+  money cleared:1.52
+  lot:1.52
+
+Topic 3:
+  coins:6.31
+  order:6.30
+  escrow:4.70
+  site:4.14
+  avoid:3.09
+  hacker:3.09
+  reach:3.09
+  money:3.09
+  work:3.09
+  wait:3.09
+
+Topic 4:
+  post:1.28
+  refund:1.28
+  canceled:1.28
+  read:1.28
+  bug:1.28
+  needed:1.28
+  screw:1.28
+  cheerssc:1.17
+  auscokes:1.17
+  bsm:1.17
+
+K: 5, Log-Likelihood: -1823.929, Alpha: 11.000, Beta: 1.100

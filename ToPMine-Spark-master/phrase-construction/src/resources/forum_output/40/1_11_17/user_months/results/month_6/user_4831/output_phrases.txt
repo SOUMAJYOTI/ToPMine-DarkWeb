@@ -1,0 +1,61 @@
+Topic 0:
+  sounded:0.81
+  learn:0.81
+  reading:0.81
+  stupid:0.81
+  bit:0.81
+  response:0.81
+  advice:0.81
+  great:0.81
+  guys:0.81
+  question:0.80
+
+Topic 1:
+  card:2.87
+  trust:1.81
+  couple:1.81
+  rating:1.80
+  dollars:1.80
+  buying:1.80
+  moneypak:1.80
+  debit:1.80
+  proceed:1.80
+  talk:1.80
+
+Topic 2:
+  trouble:1.43
+  purchase:1.41
+  service:1.16
+  loaded:1.16
+  inside:1.16
+  attaching:1.16
+  knowledge:1.16
+  anonymous:1.16
+  finding:1.16
+  unable:1.16
+
+Topic 3:
+  april:1.82
+  putting:1.81
+  caveat:1.81
+  long long:1.81
+  camera:1.81
+  quote:1.81
+  forgotten:1.81
+  longer:1.81
+  de:1.81
+  cvs:1.81
+
+Topic 4:
+  btc:1.28
+  card:1.24
+  reload card:0.99
+  phone:0.50
+  rip:0.49
+  trader:0.48
+  senior:0.48
+  org:0.48
+  main:0.48
+  darknet:0.48
+
+K: 5, Log-Likelihood: -1289.016, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  encrypted destination:4.00
+  html:4.00
+  internet:3.14
+  service:3.14
+  asps:3.14
+  ergo:3.14
+  logs vpon:3.14
+  isp:3.07
+  logs:2.65
+  learned warning:2.62
+
+Topic 1:
+  tor:9.90
+  hidden service:9.61
+  vpn server:9.61
+  quote canahontra december:8.87
+  evidence:6.50
+  data transmitting:6.40
+  vpon tor:6.40
+  easy crack:6.40
+  tor exit node:6.40
+  tor network:6.40
+
+Topic 2:
+  control data:4.00
+  encryption:3.93
+  traffic heck clearnet communications:3.36
+  connecting vpn server check:3.36
+  proven crackle rogue cert:3.36
+  ip dont hidden service:3.36
+  logs vpns isp:3.36
+  vpns logs ip:3.36
+  aes:3.16
+  notable instances italian:3.14
+
+Topic 3:
+  tor:7.62
+  good:6.38
+  hide tor:6.38
+  dont:5.74
+  hidden services:5.48
+  le:5.33
+  russia:4.78
+  directly vpn:4.78
+  vpns:4.63
+  require:4.01
+
+Topic 4:
+  cert:3.99
+  certs:3.99
+  torrentfreak:3.98
+  quote zaphod december:3.21
+  frootvpn:3.04
+  traffic:3.02
+  read clear:1.98
+  watch:1.98
+  vpn tor goto jail:1.98
+  tor exit nodes:1.98
+
+K: 5, Log-Likelihood: -10145.993, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  server:8.37
+  public:7.77
+  servers:6.18
+  riseup:5.21
+  map:3.83
+  pidgin:3.75
+  xmpp:3.55
+  onion:3.50
+  registration:3.19
+  tor:3.00
+
+Topic 1:
+  xmpp:6.58
+  chat:5.21
+  option:3.58
+  activation:3.58
+  people:3.55
+  admit:3.53
+  group:2.73
+  tor:2.34
+  riseup:2.25
+  gamesome:2.10
+
+Topic 2:
+  xmpp:12.81
+  chat:12.72
+  group:7.72
+  irc:6.75
+  map:4.30
+  find:3.73
+  server:3.63
+  idea:3.29
+  suitable:3.16
+  tails:3.16
+
+Topic 3:
+  people:9.34
+  time:5.07
+  don:4.98
+  hanging:4.25
+  wanted:3.91
+  community:3.91
+  drop:3.91
+  job:3.91
+  making:3.91
+  piano:3.31
+
+Topic 4:
+  server:7.00
+  onion:6.92
+  registration:4.75
+  ira:4.69
+  riseup:4.59
+  public:3.81
+  ssl:2.94
+  certificate:2.80
+  servers:2.70
+  routing:2.50
+
+K: 5, Log-Likelihood: -3825.906, Alpha: 11.000, Beta: 1.100

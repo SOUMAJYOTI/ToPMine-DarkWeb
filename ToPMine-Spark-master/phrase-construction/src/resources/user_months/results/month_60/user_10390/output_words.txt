@@ -1,0 +1,61 @@
+Topic 0:
+  agree:0.41
+  anonymous:0.40
+  middle:0.39
+  earth:0.39
+  listings:0.37
+  marketplace:0.37
+  drug:0.37
+  find:0.21
+  info:0.21
+  attention:0.21
+
+Topic 1:
+  agree:0.41
+  anonymous:0.40
+  earth:0.39
+  middle:0.39
+  marketplace:0.39
+  drug:0.39
+  listings:0.38
+  le:0.20
+  mem:0.20
+  days:0.20
+
+Topic 2:
+  listings:0.45
+  marketplace:0.45
+  drug:0.45
+  earth:0.42
+  middle:0.42
+  anonymous:0.40
+  agree:0.38
+  established:0.21
+  operation:0.21
+  forum:0.21
+
+Topic 3:
+  agree:0.40
+  middle:0.40
+  anonymous:0.39
+  earth:0.39
+  marketplace:0.38
+  drug:0.38
+  listings:0.38
+  doubt:0.20
+  account:0.20
+  drained:0.20
+
+Topic 4:
+  drug:0.41
+  listings:0.41
+  marketplace:0.41
+  middle:0.41
+  earth:0.40
+  anonymous:0.40
+  agree:0.40
+  isnt:0.20
+  forum:0.20
+  established:0.20
+
+K: 5, Log-Likelihood: -181.149, Alpha: 11.000, Beta: 1.100

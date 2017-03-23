@@ -1,0 +1,61 @@
+Topic 0:
+  se:3.74
+  sun:2.93
+  jos:2.93
+  mit:2.50
+  siin:2.10
+  varmaan:1.93
+  tulliin:1.93
+  miun:1.93
+  joku:1.47
+  niin:1.38
+
+Topic 1:
+  mit:5.58
+  kiinni:2.97
+  niin:2.78
+  olla:2.23
+  jos:2.05
+  eli:1.73
+  nyt:1.65
+  mpa:1.37
+  tunnustamatta:1.37
+  linen:1.37
+
+Topic 2:
+  ja:7.32
+  ett:3.59
+  oli:2.67
+  kirjeess:1.92
+  tilannut:1.52
+  elk:1.52
+  tuli:1.51
+  nain:1.42
+  jo:1.40
+  iv:1.39
+
+Topic 3:
+  ytt:7.17
+  omaan:3.83
+  sallittu:2.86
+  tilasin:2.58
+  oman:1.90
+  tuli:1.89
+  yhteydenottopyynt:1.84
+  dopingrikoksesta:1.84
+  sanoa:1.84
+  ilty:1.84
+
+Topic 4:
+  tullin:3.27
+  ja:3.10
+  jos:2.62
+  mit:2.39
+  tt:2.05
+  puheluun:1.91
+  sis:1.84
+  noin:1.66
+  kokemusta:1.56
+  ll:1.00
+
+K: 5, Log-Likelihood: -2322.480, Alpha: 11.000, Beta: 1.100

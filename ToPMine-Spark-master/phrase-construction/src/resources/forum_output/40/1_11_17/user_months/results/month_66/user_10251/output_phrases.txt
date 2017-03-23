@@ -1,0 +1,61 @@
+Topic 0:
+  law:3.64
+  move forum:2.66
+  ill:2.66
+  connection:2.65
+  reestablish:2.65
+  banned tmg:2.65
+  reasons:2.65
+  unknown:2.64
+  sign:2.64
+  advised:2.64
+
+Topic 1:
+  worth:4.25
+  enigma:2.77
+  reputation:2.77
+  contacting:2.77
+  concern:2.77
+  loads:2.77
+  ban:2.77
+  issues:2.77
+  people:2.77
+  implacable:2.77
+
+Topic 2:
+  kiosk:2.79
+  wax:1.67
+  today:1.67
+  sold:1.67
+  active:1.67
+  area:1.67
+  shatter:1.67
+  updated:1.66
+  sending:1.58
+  org:1.58
+
+Topic 3:
+  heard:3.64
+  haven:1.77
+  strangehope:1.77
+  messages:1.77
+  hear:1.77
+  havent:1.77
+  worry:1.77
+  starting:1.77
+  orders:1.77
+  advise:1.77
+
+Topic 4:
+  counts seizure:7.40
+  package:5.53
+  franko:3.66
+  seizures:3.66
+  tmg:3.66
+  good:2.91
+  lucy:2.75
+  word:1.79
+  hope:1.79
+  checked:1.79
+
+K: 5, Log-Likelihood: -1994.685, Alpha: 11.000, Beta: 1.100

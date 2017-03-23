@@ -1,0 +1,61 @@
+Topic 0:
+  money:16.47
+  clean:3.94
+  accounts:3.83
+  method:3.00
+  pay:2.87
+  business:2.84
+  multiply:2.83
+  network:2.83
+  chips:2.83
+  security:2.83
+
+Topic 1:
+  tax:2.92
+  investigate:2.62
+  cash:2.02
+  paying:1.67
+  people:1.66
+  irs:1.17
+  thing:0.76
+  site:0.76
+  account:0.76
+  reading:0.73
+
+Topic 2:
+  tax:2.13
+  dont:1.60
+  cash:1.36
+  amount:1.11
+  thing:0.89
+  fail:0.89
+  year:0.50
+  gains:0.50
+  paid:0.49
+  income:0.48
+
+Topic 3:
+  money:2.45
+  tax:2.38
+  method:1.36
+  cash:1.18
+  pay:1.07
+  gains:0.74
+  people:0.74
+  paying:0.72
+  thing:0.70
+  clean:0.43
+
+Topic 4:
+  dont:3.01
+  amount:3.01
+  tax:2.09
+  guess:1.36
+  topic:1.36
+  hazard:1.36
+  sorts:1.35
+  agency:1.35
+  rock:1.35
+  anonymous:1.35
+
+K: 5, Log-Likelihood: -1552.214, Alpha: 11.000, Beta: 1.100

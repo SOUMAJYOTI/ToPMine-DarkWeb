@@ -1,0 +1,61 @@
+Topic 0:
+  correct:1.71
+  dream doesnt fa:1.71
+  encrypted:1.70
+  pgp key:1.70
+  factors:1.70
+  login call fa:1.70
+  pmsadly:1.70
+  true true:1.69
+  hope:1.43
+  effectively isnt password:1.43
+
+Topic 1:
+  field:2.00
+  time:2.00
+  glitch:2.00
+  sign:2.00
+  normal:2.00
+  messaged:2.00
+  hours:2.00
+  approx:2.00
+  day:2.00
+  fa login:2.00
+
+Topic 2:
+  onion:4.71
+  decrypt:3.10
+  enabled:3.10
+  enter:3.10
+  account:2.48
+  hit:1.50
+  listed:1.50
+  jd:1.50
+  urls:1.50
+  fredyou:1.50
+
+Topic 3:
+  long:1.09
+  remember:1.09
+  problemregards:1.09
+  effectively isnt:0.97
+  dream:0.83
+  fred:0.80
+  message:0.77
+  changed password:0.75
+  quote:0.75
+  login call:0.73
+
+Topic 4:
+  login:3.89
+  sadly dream doesnt:3.08
+  fa login call:3.08
+  choose:3.08
+  pgp key moment:2.08
+  fa effectively isnt password:1.99
+  vendor account buyers account:1.99
+  hearted:1.99
+  vendor:1.99
+  pmperhaps:1.99
+
+K: 5, Log-Likelihood: -1178.352, Alpha: 11.000, Beta: 1.100

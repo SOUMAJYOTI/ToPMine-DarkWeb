@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.23
+  nucleus:0.65
+  oasis:0.63
+  great:0.40
+  check:0.34
+  reddit:0.34
+  created:0.21
+  job:0.21
+  topic:0.21
+  vendor:0.21
+
+Topic 1:
+  market:1.05
+  nucleus:0.65
+  oasis:0.62
+  great:0.41
+  check:0.36
+  reddit:0.36
+  amazing:0.21
+  account:0.21
+  wil:0.21
+  topic:0.21
+
+Topic 2:
+  market:0.96
+  oasis:0.62
+  nucleus:0.61
+  great:0.41
+  check:0.39
+  reddit:0.38
+  marketplace:0.20
+  remove:0.20
+  add:0.20
+  list:0.20
+
+Topic 3:
+  market:0.76
+  reddit:0.54
+  oasis:0.53
+  check:0.52
+  nucleus:0.48
+  great:0.39
+  find:0.24
+  btcif:0.24
+  core:0.24
+  blocksize:0.24
+
+Topic 4:
+  market:1.00
+  nucleus:0.62
+  oasis:0.60
+  great:0.40
+  check:0.39
+  reddit:0.38
+  vendor:0.20
+  design:0.20
+  yersterday:0.20
+  nice:0.20
+
+K: 5, Log-Likelihood: -212.658, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  data:2.99
+  surveillance:2.19
+  french:1.38
+  law:1.05
+  intelligence:1.03
+  agency:0.77
+  system:0.74
+  phone:0.74
+  collection:0.67
+  bill:0.57
+
+Topic 1:
+  data:1.29
+  law:1.17
+  collection:0.93
+  surveillance:0.91
+  french:0.87
+  afraid:0.75
+  illegal:0.75
+  day:0.74
+  intelligence:0.65
+  bill:0.63
+
+Topic 2:
+  data:1.53
+  intelligence:1.39
+  french:1.36
+  surveillance:1.06
+  law:0.97
+  agency:0.96
+  phone:0.73
+  system:0.65
+  bill:0.60
+  collection:0.57
+
+Topic 3:
+  french:3.40
+  intelligence:3.24
+  surveillance:2.42
+  data:2.41
+  agency:1.63
+  system:1.17
+  phone:1.17
+  law:0.88
+  years:0.87
+  mass:0.86
+
+Topic 4:
+  data:3.78
+  french:1.99
+  intelligence:1.69
+  surveillance:1.42
+  agency:1.01
+  system:0.94
+  law:0.93
+  phone:0.85
+  points:0.72
+  abroad:0.69
+
+K: 5, Log-Likelihood: -2124.231, Alpha: 11.000, Beta: 1.100

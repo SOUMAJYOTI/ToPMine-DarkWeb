@@ -1,0 +1,61 @@
+Topic 0:
+  transaction:1.72
+  anonymity:1.55
+  multiply:1.51
+  recipient:1.50
+  coinjoin:1.34
+  output:1.29
+  darkcoin dash:0.78
+  purchasers:0.76
+  implemented:0.75
+  approach:0.74
+
+Topic 1:
+  dash:1.43
+  april:1.10
+  darkcoin:1.08
+  pops:1.01
+  dash anonymous careful:0.98
+  match:0.94
+  difference:0.94
+  updated:0.93
+  branding:0.93
+  technological:0.93
+
+Topic 2:
+  april:2.35
+  dash anonymous careful:1.55
+  pmdarkcoin:1.43
+  guess:1.42
+  explain:1.39
+  pops:1.27
+  darkcoin:0.96
+  explanation:0.94
+  researching:0.94
+  hadnt:0.94
+
+Topic 3:
+  node:4.99
+  set:3.29
+  dont:1.96
+  tutorials:1.59
+  situation:1.59
+  ownership:1.59
+  check:1.59
+  fuck:1.59
+  theory:1.59
+  pay:1.59
+
+Topic 4:
+  transaction:3.29
+  output:2.01
+  coinjoin:1.97
+  recipient:1.81
+  multiply:1.79
+  anonymity:1.76
+  multi:0.90
+  completely:0.90
+  bitin:0.90
+  deniability:0.90
+
+K: 5, Log-Likelihood: -992.177, Alpha: 11.000, Beta: 1.100

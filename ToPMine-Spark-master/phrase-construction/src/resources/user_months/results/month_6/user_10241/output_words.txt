@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:10.33
+  nakamoto:8.60
+  newsweek:5.26
+  man:2.82
+  code:2.50
+  years:2.32
+  told:1.96
+  called:1.94
+  story:1.92
+  identity:1.89
+
+Topic 1:
+  bitcoin:0.71
+  guy:0.64
+  year:0.42
+  currency:0.32
+  wrong:0.31
+  yep:0.31
+  tv:0.31
+  search:0.30
+  lol:0.30
+  feel:0.30
+
+Topic 2:
+  guy:1.20
+  gox:0.81
+  matter:0.58
+  find:0.58
+  feel:0.58
+  pointless:0.58
+  lol:0.58
+  search:0.58
+  hoping:0.57
+  tv:0.54
+
+Topic 3:
+  exchange:3.88
+  autumn:2.88
+  ceo:2.88
+  death:2.88
+  meta:2.88
+  radtke:2.88
+  february:1.88
+  saddened:1.88
+  flexcoin:1.88
+  mt:1.88
+
+Topic 4:
+  nakamoto:3.13
+  bitcoin:2.64
+  newsweek:1.49
+  years:1.43
+  code:1.25
+  year:1.09
+  online:0.94
+  man:0.93
+  satoshi:0.92
+  government:0.90
+
+K: 5, Log-Likelihood: -2494.307, Alpha: 11.000, Beta: 1.100

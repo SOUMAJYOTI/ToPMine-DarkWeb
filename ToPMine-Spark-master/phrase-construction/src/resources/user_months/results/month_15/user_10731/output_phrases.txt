@@ -1,0 +1,61 @@
+Topic 0:
+  upgrade:0.40
+  script:0.29
+  save:0.28
+  files:0.27
+  people:0.27
+  side:0.27
+  witch:0.27
+  windows ubuntu:0.27
+  custom:0.14
+  persistent:0.14
+
+Topic 1:
+  upgrade:0.42
+  script:0.28
+  save:0.28
+  windows ubuntu:0.28
+  files:0.28
+  witch:0.28
+  people:0.28
+  side:0.28
+  settings:0.14
+  time:0.14
+
+Topic 2:
+  upgrade:0.41
+  save:0.28
+  script:0.28
+  files:0.27
+  side:0.27
+  witch:0.27
+  windows ubuntu:0.27
+  people:0.27
+  dont:0.14
+  config:0.14
+
+Topic 3:
+  upgrade:0.42
+  people:0.28
+  witch:0.28
+  side:0.28
+  windows ubuntu:0.28
+  files:0.28
+  save:0.28
+  script:0.28
+  preform:0.14
+  running:0.14
+
+Topic 4:
+  upgrade:0.43
+  witch:0.29
+  windows ubuntu:0.29
+  people:0.29
+  side:0.29
+  files:0.29
+  save:0.26
+  script:0.26
+  installed tails:0.14
+  latest:0.14
+
+K: 5, Log-Likelihood: -196.794, Alpha: 11.000, Beta: 1.100

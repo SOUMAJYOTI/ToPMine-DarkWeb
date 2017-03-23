@@ -1,0 +1,61 @@
+Topic 0:
+  drugsnbets:0.40
+  correct:0.20
+  data:0.20
+  registered:0.20
+  yea:0.20
+  login:0.20
+  register:0.20
+  market:0.20
+  outlaw:0.20
+  called:0.20
+
+Topic 1:
+  drugsnbets:0.40
+  login:0.20
+  correct:0.20
+  outlaw:0.20
+  register:0.20
+  called:0.20
+  market:0.20
+  yea:0.20
+  data:0.20
+  registered:0.20
+
+Topic 2:
+  drugsnbets:0.40
+  outlaw:0.20
+  called:0.20
+  market:0.20
+  yea:0.20
+  correct:0.20
+  registered:0.20
+  login:0.20
+  data:0.20
+  register:0.20
+
+Topic 3:
+  drugsnbets:0.40
+  data:0.20
+  register:0.20
+  login:0.20
+  registered:0.20
+  outlaw:0.20
+  market:0.20
+  called:0.20
+  yea:0.20
+  correct:0.20
+
+Topic 4:
+  drugsnbets:0.40
+  yea:0.20
+  correct:0.20
+  market:0.20
+  registered:0.20
+  called:0.20
+  register:0.20
+  outlaw:0.20
+  data:0.20
+  login:0.20
+
+K: 5, Log-Likelihood: -25.017, Alpha: 11.000, Beta: 1.100

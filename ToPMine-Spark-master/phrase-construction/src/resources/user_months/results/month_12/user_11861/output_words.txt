@@ -1,0 +1,61 @@
+Topic 0:
+  ur:1.79
+  months:1.71
+  javascript:1.28
+  site:1.19
+  multisig:1.18
+  quote:1.17
+  april:1.10
+  marketplace:0.95
+  market:0.87
+  secured:0.84
+
+Topic 1:
+  escrow:6.81
+  vendor:6.12
+  work:3.60
+  private:3.47
+  system:3.23
+  simple:3.08
+  key:2.92
+  super:2.17
+  multisig:1.99
+  site:1.99
+
+Topic 2:
+  javascript:1.84
+  market:1.36
+  april:1.22
+  quote:1.18
+  marketplace:1.11
+  months:0.81
+  ur:0.74
+  time:0.72
+  site:0.72
+  multisig:0.72
+
+Topic 3:
+  js:7.17
+  windows:4.80
+  javascript:3.50
+  users:2.82
+  dnm:2.79
+  tor:2.20
+  market:1.92
+  arguments:1.88
+  year:1.83
+  whyusheep:1.83
+
+Topic 4:
+  virtualpath:15.95
+  web:12.78
+  system:12.63
+  woolen:10.95
+  compilation:6.95
+  boolean:6.95
+  buildmanager:5.95
+  string:5.95
+  ensureisuptodate:4.95
+  allowcrossapp:3.95
+
+K: 5, Log-Likelihood: -3217.949, Alpha: 11.000, Beta: 1.100

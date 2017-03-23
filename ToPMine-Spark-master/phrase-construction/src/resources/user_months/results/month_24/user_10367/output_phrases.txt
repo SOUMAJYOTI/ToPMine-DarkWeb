@@ -1,0 +1,61 @@
+Topic 0:
+  august pmquote:5.75
+  onion:5.75
+  worry red article:4.78
+  link memories remember extension:4.78
+  tor launched year:4.78
+  month ago talking application:4.78
+  dos:4.46
+  quote:4.09
+  domain:3.80
+  webserver:3.80
+
+Topic 1:
+  sales:4.62
+  vend:4.62
+  times:4.33
+  fed:3.78
+  community:3.78
+  boat:3.78
+  floats:3.78
+  movement:3.78
+  admittedly:3.78
+  attacker:3.78
+
+Topic 2:
+  day:4.88
+  functioning:3.79
+  purposes:3.79
+  favorite:3.79
+  properly:3.79
+  online:3.79
+  people:3.79
+  buy drugs:3.79
+  cover:3.79
+  drug:3.79
+
+Topic 3:
+  agora:5.13
+  market:5.11
+  quote evilgrin august:3.43
+  sr:2.94
+  pmyou:2.34
+  unstable:2.31
+  btc:2.31
+  hell:2.31
+  lot:2.31
+  pirate:2.31
+
+Topic 4:
+  evo:4.66
+  vendors:4.66
+  buyers:4.66
+  performance:4.66
+  long:4.66
+  orders:4.53
+  wings:3.78
+  eve:3.78
+  spread:3.78
+  agora:3.70
+
+K: 5, Log-Likelihood: -4222.205, Alpha: 11.000, Beta: 1.100

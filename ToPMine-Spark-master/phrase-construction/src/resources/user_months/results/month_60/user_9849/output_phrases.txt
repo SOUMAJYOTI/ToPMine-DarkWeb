@@ -1,0 +1,61 @@
+Topic 0:
+  partner:3.61
+  money:1.64
+  lot:1.64
+  contact:1.63
+  drugs:1.63
+  good:1.63
+  markets:1.62
+  mdma:0.68
+  bring:0.68
+  people:0.68
+
+Topic 1:
+  vendors:1.13
+  start:1.01
+  partnership:0.50
+  running:0.49
+  join:0.49
+  invitation:0.49
+  imputable:0.49
+  market:0.49
+  trust:0.49
+  online:0.49
+
+Topic 2:
+  start:1.41
+  vendors:0.79
+  darknet:0.62
+  long:0.62
+  market vendors:0.61
+  work:0.61
+  longest:0.61
+  order:0.61
+  small:0.61
+  devoted:0.61
+
+Topic 3:
+  vendors:0.84
+  start:0.65
+  time:0.45
+  typically:0.45
+  substances:0.45
+  online:0.45
+  buyer:0.45
+  homework:0.45
+  imputable:0.45
+  allowed:0.45
+
+Topic 4:
+  partner:1.02
+  markets:0.56
+  drugs:0.55
+  contact:0.55
+  good:0.55
+  lot:0.54
+  money:0.54
+  vendors:0.50
+  active:0.32
+  quality:0.32
+
+K: 5, Log-Likelihood: -474.155, Alpha: 11.000, Beta: 1.100

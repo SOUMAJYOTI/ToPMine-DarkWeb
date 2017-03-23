@@ -1,0 +1,61 @@
+Topic 0:
+  drugs:5.63
+  enjoy:2.32
+  reading:2.21
+  acting:2.02
+  ingenious:1.85
+  misinformation:1.85
+  pass:1.85
+  whipping:1.85
+  online:1.85
+  killed:1.85
+
+Topic 1:
+  agora:2.64
+  dnm:2.42
+  biggest:2.10
+  subreddit:2.01
+  people:1.90
+  dolmio:1.76
+  cheers:1.69
+  time:1.52
+  post:1.42
+  drugs:1.40
+
+Topic 2:
+  reddit:7.95
+  directly:7.62
+  le:7.60
+  glad:7.60
+  fucking:3.90
+  place:3.85
+  tmg:3.83
+  ootp:3.64
+  sucking:3.64
+  disrespecting:3.64
+
+Topic 3:
+  time:3.71
+  people:2.75
+  agora:2.54
+  biggest:2.22
+  reddit:2.04
+  quote:1.91
+  june:1.75
+  dolmio:1.67
+  cheers:1.61
+  popular:1.26
+
+Topic 4:
+  point:3.82
+  communities:3.82
+  bad:3.44
+  big:2.95
+  reading:2.59
+  enjoy:2.39
+  experience:1.83
+  dance:1.83
+  perceive:1.83
+  crossed:1.83
+
+K: 5, Log-Likelihood: -2204.281, Alpha: 11.000, Beta: 1.100

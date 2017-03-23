@@ -1,0 +1,61 @@
+Topic 0:
+  real:3.99
+  updates:3.99
+  attack:3.99
+  tor hidden:3.05
+  repos:3.05
+  year:3.05
+  heard:3.05
+  set:3.05
+  service:3.05
+  design:3.05
+
+Topic 1:
+  offer:3.80
+  actors:2.97
+  elegant:2.97
+  download:2.97
+  directly:2.97
+  protection:2.97
+  knowing:2.97
+  integrity:2.97
+  installed:2.97
+  life:2.27
+
+Topic 2:
+  place:3.98
+  idea:3.98
+  good:3.98
+  reason:3.11
+  heh:3.11
+  installation:2.49
+  people:2.11
+  sounds:1.96
+  disabling:1.96
+  isnt:1.96
+
+Topic 3:
+  nasty:6.12
+  packages:4.87
+  key:4.00
+  package:3.37
+  dirty:3.14
+  problem:3.14
+  pay:3.14
+  tla:3.14
+  dollar:3.14
+  offer access:3.14
+
+Topic 4:
+  ram:6.37
+  trigger:6.37
+  bracelet:4.76
+  tails:4.11
+  encrusted filesystem exposing additional:3.77
+  soliciting advice luck peace:3.77
+  swap encrypted:3.77
+  ram system prefer ram:3.77
+  drives personal choice thing:3.77
+  security risk performance enhancements:3.77
+
+K: 5, Log-Likelihood: -3203.339, Alpha: 11.000, Beta: 1.100

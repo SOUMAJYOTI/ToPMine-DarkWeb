@@ -1,0 +1,61 @@
+Topic 0:
+  sign:2.42
+  bust:2.42
+  cops:2.01
+  buy:1.48
+  friend:1.48
+  time:1.48
+  deal:1.47
+  offer:1.34
+  years:1.31
+  dealer:1.29
+
+Topic 1:
+  le:2.02
+  mod:1.45
+  notify:1.44
+  forums:0.84
+  member:0.83
+  publicly:0.83
+  informers:0.42
+  customers:0.41
+  quote:0.39
+  pmyes:0.39
+
+Topic 2:
+  cops:0.84
+  le:0.70
+  dealer:0.58
+  years:0.55
+  customers:0.54
+  informers:0.54
+  mod:0.53
+  offer:0.53
+  notify:0.52
+  publicly:0.39
+
+Topic 3:
+  le:0.81
+  cops:0.69
+  notify:0.63
+  mod:0.61
+  sick:0.58
+  town:0.56
+  user:0.54
+  publicly:0.44
+  member:0.43
+  forums:0.43
+
+Topic 4:
+  user:1.11
+  town:1.10
+  cops:1.08
+  sick:1.07
+  turns:0.54
+  play:0.54
+  friends:0.54
+  offer:0.50
+  years:0.50
+  dealer:0.49
+
+K: 5, Log-Likelihood: -623.327, Alpha: 11.000, Beta: 1.100

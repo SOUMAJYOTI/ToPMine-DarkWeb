@@ -1,0 +1,61 @@
+Topic 0:
+  ag:0.28
+  marketplace:0.28
+  deposit:0.27
+  level:0.14
+  clutter:0.14
+  spike:0.14
+  running:0.14
+  southern:0.14
+  engine:0.14
+  cranks:0.14
+
+Topic 1:
+  ag:0.28
+  marketplace:0.27
+  deposit:0.27
+  fuck:0.14
+  og:0.14
+  ago:0.14
+  artificial:0.14
+  triple:0.14
+  caused:0.14
+  servers:0.14
+
+Topic 2:
+  deposit:0.29
+  marketplace:0.29
+  ag:0.26
+  day:0.14
+  thread:0.14
+  hours:0.14
+  causing:0.14
+  expect:0.14
+  funds:0.14
+  safe:0.14
+
+Topic 3:
+  ag:0.28
+  deposit:0.28
+  marketplace:0.28
+  quadruple:0.14
+  till:0.14
+  withdraw:0.14
+  intoxicated:0.14
+  sites:0.14
+  brain:0.14
+  humboldtfarms:0.14
+
+Topic 4:
+  ag:0.28
+  marketplace:0.27
+  deposit:0.27
+  smothered:0.14
+  minutes:0.14
+  strain:0.14
+  brain:0.14
+  ddos:0.14
+  perfect:0.14
+  cluster:0.14
+
+K: 5, Log-Likelihood: -286.985, Alpha: 11.000, Beta: 1.100

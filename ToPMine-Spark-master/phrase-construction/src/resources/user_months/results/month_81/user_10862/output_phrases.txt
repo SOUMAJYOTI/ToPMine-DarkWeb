@@ -1,0 +1,61 @@
+Topic 0:
+  solve:0.28
+  problem:0.28
+  bitblender:0.28
+  drive:0.28
+  dont:0.28
+  javascript site:0.23
+  prevent:0.23
+  mitm phishing proxys:0.23
+  javascript access site:0.23
+  high security settings browser:0.23
+
+Topic 1:
+  bitblender:0.28
+  dont:0.28
+  problem:0.28
+  solve:0.28
+  drive:0.28
+  mitm phishing proxys:0.23
+  prevent:0.23
+  javascript site:0.23
+  high security settings browser:0.23
+  javascript access site:0.23
+
+Topic 2:
+  drive:0.28
+  dont:0.28
+  solve:0.28
+  problem:0.28
+  bitblender:0.28
+  mitm phishing proxys:0.23
+  users:0.23
+  javascript access site:0.23
+  mitm phishing sites:0.23
+  high security settings browser:0.23
+
+Topic 3:
+  drive:0.28
+  dont:0.28
+  bitblender:0.28
+  solve:0.28
+  problem:0.28
+  users:0.23
+  prevent:0.23
+  mitm phishing sites:0.23
+  high security settings browser:0.23
+  javascript access site:0.23
+
+Topic 4:
+  problem:0.28
+  solve:0.28
+  bitblender:0.28
+  dont:0.28
+  drive:0.28
+  users:0.23
+  mitm phishing sites:0.23
+  high security settings browser:0.23
+  javascript access site:0.23
+  javascript site:0.23
+
+K: 5, Log-Likelihood: -367.005, Alpha: 11.000, Beta: 1.100

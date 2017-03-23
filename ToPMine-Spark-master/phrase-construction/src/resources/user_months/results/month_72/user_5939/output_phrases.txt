@@ -1,0 +1,61 @@
+Topic 0:
+  coins:4.26
+  sending:4.26
+  multiply transactions extra:4.01
+  missing felix light rate:3.98
+  small amounts safe:3.90
+  wallets kill personal buy:3.89
+  dtdp march:3.88
+  pmi paysheild transaction:3.87
+  idea:3.33
+  damn:3.33
+
+Topic 1:
+  dhl:4.34
+  private:4.34
+  countdown:4.34
+  marked:4.34
+  accepted:4.34
+  clock:4.34
+  order:4.34
+  cancel:2.14
+  receive:2.14
+  invites:2.14
+
+Topic 2:
+  question:5.16
+  vendor:3.08
+  overkill:3.08
+  electrum market:3.06
+  walletsome:3.04
+  exchange electric:3.04
+  tor:2.14
+  preferable:2.11
+  dnm:2.11
+  closing:2.11
+
+Topic 3:
+  saved:7.05
+  persistent storage:7.05
+  february:5.47
+  create persistent storage:4.25
+  save files access:4.25
+  tails:3.62
+  saving:3.47
+  created:3.47
+  restarted:3.47
+  addresses:3.47
+
+Topic 4:
+  thread:4.28
+  figured:3.46
+  good:3.46
+  discussion:3.45
+  feels:3.45
+  subfolders:3.38
+  persistent folder:3.38
+  disappear:3.38
+  restart:3.38
+  content:3.38
+
+K: 5, Log-Likelihood: -2080.309, Alpha: 11.000, Beta: 1.100

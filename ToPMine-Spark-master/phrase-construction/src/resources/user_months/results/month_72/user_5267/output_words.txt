@@ -1,0 +1,61 @@
+Topic 0:
+  buy:5.36
+  phone:5.12
+  moneygram:4.39
+  number:3.78
+  fictitious:1.81
+  bitcoin:1.58
+  safe:1.53
+  liberty:1.53
+  burner:1.53
+  signup:1.53
+
+Topic 1:
+  cash:3.01
+  bank:2.72
+  account:2.09
+  method:1.32
+  listing:1.32
+  unfamiliar:1.31
+  mind:1.31
+  deeper:1.30
+  sort:1.29
+  detail:1.29
+
+Topic 2:
+  card:2.57
+  repaid:1.74
+  bitcoin:1.72
+  cash:1.55
+  moneygram:1.11
+  area:1.08
+  info:1.07
+  western:0.92
+  union:0.86
+  dont:0.79
+
+Topic 3:
+  card:2.05
+  union:1.60
+  western:1.58
+  repaid:1.20
+  bitcoin:1.16
+  moneygram:1.15
+  cash:1.01
+  area:0.82
+  send:0.81
+  meet:0.79
+
+Topic 4:
+  cash:3.98
+  moneygram:2.57
+  dont:1.70
+  money:1.20
+  info:1.17
+  bitcoin:1.01
+  transaction:0.80
+  person:0.77
+  meet:0.74
+  bank:0.71
+
+K: 5, Log-Likelihood: -1451.578, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  mind:4.09
+  disabled noscripts running:3.31
+  set javascript enabled:3.31
+  forget type config javascript:3.26
+  false js isnt fully:3.23
+  quote herbanlegends april pmdont:3.17
+  os:2.94
+  bitkey:1.96
+  havent:1.96
+  alternative:1.96
+
+Topic 1:
+  onion:4.10
+  bandwidth:3.24
+  white:3.24
+  access:3.24
+  reached:3.24
+  limit:3.24
+  day:3.24
+  server:3.23
+  message:3.19
+  quota exceeded:2.39
+
+Topic 2:
+  electrum:4.21
+  time:2.07
+  abandoned:2.07
+  super:2.07
+  pretty:2.07
+  integreated:2.07
+  interest:2.07
+  blockchain onion:2.07
+  applications:2.07
+  showing:2.07
+
+Topic 3:
+  java:6.36
+  completely:4.22
+  script:4.22
+  dont:3.04
+  stops:2.08
+  running:2.08
+  plugins:2.08
+  parser:2.08
+  loads:2.08
+  finds:2.08
+
+Topic 4:
+  scripts:5.03
+  searching:3.29
+  setting:3.29
+  stone:3.29
+  forbid:3.29
+  find:3.29
+  click:3.29
+  browser:3.29
+  bind:3.29
+  set:3.29
+
+K: 5, Log-Likelihood: -1600.301, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tulee:0.20
+  silkkitien:0.20
+  euroa:0.20
+  europa:0.20
+  mist:0.20
+  average:0.20
+  btc:0.20
+  heitto:0.20
+  mut:0.20
+  mutta:0.20
+
+Topic 1:
+  mut:0.20
+  hyv:0.20
+  arvona:0.20
+  europa:0.20
+  ostajalle:0.20
+  toi:0.20
+  turhan:0.20
+  btc:0.20
+  bitin:0.20
+  tulee:0.20
+
+Topic 2:
+  silkkitien:0.20
+  bitin:0.20
+  average:0.20
+  kurssi:0.20
+  tulee:0.20
+  hyv:0.20
+  turhan:0.20
+  iso:0.20
+  mutta:0.20
+  heitto:0.20
+
+Topic 3:
+  mutta:0.20
+  kurssi:0.20
+  euroa:0.20
+  ostajalle:0.20
+  turhan:0.20
+  mist:0.20
+  toi:0.20
+  arvona:0.20
+  hyv:0.20
+  bitin:0.20
+
+Topic 4:
+  heitto:0.20
+  ostajalle:0.20
+  toi:0.20
+  btc:0.20
+  average:0.20
+  mist:0.20
+  mut:0.20
+  iso:0.20
+  turhan:0.20
+  bitin:0.20
+
+K: 5, Log-Likelihood: -52.027, Alpha: 11.000, Beta: 1.100

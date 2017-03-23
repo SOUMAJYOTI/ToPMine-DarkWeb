@@ -1,0 +1,61 @@
+Topic 0:
+  authors:2.28
+  alpha:1.45
+  money:1.07
+  check:1.05
+  read:1.05
+  inclined:1.05
+  chromium:1.05
+  contacting:1.05
+  hold:1.05
+  large:1.05
+
+Topic 1:
+  forum:0.92
+  told:0.92
+  dont:0.92
+  pull:0.92
+  wallet dont:0.92
+  confirmations:0.92
+  gatewy:0.92
+  problem:0.92
+  complaining:0.92
+  ami:0.64
+
+Topic 2:
+  car:1.05
+  bridge:1.01
+  service:0.99
+  span:0.47
+  reading:0.47
+  step:0.47
+  likened:0.47
+  point bitcoin:0.47
+  messageboards:0.47
+  january:0.47
+
+Topic 3:
+  service:1.10
+  bridge:1.09
+  car:1.05
+  proverbial:0.49
+  mistake:0.49
+  sea:0.49
+  bitblendervrfkzr:0.49
+  considered:0.49
+  point car:0.49
+  driving:0.49
+
+Topic 4:
+  complaining:0.46
+  problem:0.45
+  gatewy:0.45
+  confirmations:0.45
+  wallet dont:0.45
+  pull:0.45
+  dont:0.45
+  told:0.45
+  forum:0.45
+  coins everytime fund confirm:0.39
+
+K: 5, Log-Likelihood: -719.393, Alpha: 11.000, Beta: 1.100

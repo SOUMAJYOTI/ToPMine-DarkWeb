@@ -1,0 +1,61 @@
+Topic 0:
+  fee:4.82
+  entry:2.05
+  helix:1.76
+  credited:1.74
+  dont:1.69
+  account:1.59
+  regular:1.39
+  mixing:1.36
+  mix:1.21
+  october:1.15
+
+Topic 1:
+  fee:6.52
+  entry:2.55
+  dont:2.09
+  mix:1.99
+  mixing:1.97
+  big:1.94
+  october:1.77
+  cost:1.65
+  helix:1.51
+  credited:1.36
+
+Topic 2:
+  fee:4.37
+  credited:1.92
+  helix:1.48
+  link:1.41
+  dont:1.38
+  phishing:1.17
+  account:1.17
+  entry:1.11
+  regular:1.08
+  october:1.08
+
+Topic 3:
+  fee:4.12
+  big:3.34
+  entry:3.18
+  october:2.89
+  dont:2.72
+  cost:1.92
+  mix:1.84
+  deal:1.81
+  mixing:1.74
+  onionshop:1.55
+
+Topic 4:
+  mixer:3.65
+  onion:3.60
+  iyacflzc:3.60
+  braveb:2.76
+  good:1.89
+  time:1.89
+  started:1.89
+  fast:1.57
+  blender:1.53
+  grams:1.42
+
+K: 5, Log-Likelihood: -1494.811, Alpha: 11.000, Beta: 1.100

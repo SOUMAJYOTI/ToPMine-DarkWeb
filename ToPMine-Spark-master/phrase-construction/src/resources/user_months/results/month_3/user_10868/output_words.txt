@@ -1,0 +1,61 @@
+Topic 0:
+  address:8.86
+  localhost:5.73
+  ip:4.45
+  private:3.71
+  tor:3.45
+  server:3.01
+  hidden:2.81
+  everyones:2.43
+  hub:2.35
+  web:2.31
+
+Topic 1:
+  ip:17.60
+  real:6.85
+  hub:4.91
+  local:3.85
+  forums:3.76
+  torbrowser:3.58
+  posts:3.58
+  address:3.49
+  post:2.53
+  network:2.52
+
+Topic 2:
+  time:2.29
+  post:2.21
+  forums:1.94
+  logged:1.71
+  ip:1.53
+  link:1.32
+  server:1.21
+  address:1.13
+  early:1.03
+  march:1.03
+
+Topic 3:
+  log:5.21
+  agora:2.17
+  link:2.00
+  logged:1.72
+  yesterday:1.51
+  time:1.48
+  attack:1.29
+  error:1.23
+  login:1.17
+  high:1.16
+
+Topic 4:
+  login:7.48
+  agora:5.17
+  time:3.58
+  market:3.31
+  accounts:2.65
+  hours:2.55
+  forums:2.48
+  load:2.18
+  bad:2.09
+  site:1.82
+
+K: 5, Log-Likelihood: -2851.140, Alpha: 11.000, Beta: 1.100

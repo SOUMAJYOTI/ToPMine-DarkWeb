@@ -1,0 +1,61 @@
+Topic 0:
+  february:0.91
+  list:0.74
+  list del dream nucleus:0.65
+  quote:0.65
+  country:0.55
+  bonobo:0.53
+  army:0.53
+  lightnlove:0.52
+  burner:0.41
+  drops:0.40
+
+Topic 1:
+  february:0.85
+  list:0.71
+  quote:0.67
+  country:0.63
+  list del dream nucleus:0.62
+  lightnlove:0.52
+  bonobo:0.51
+  army:0.50
+  jigsawpuzzle:0.41
+  mileyoure:0.41
+
+Topic 2:
+  list:1.10
+  february:1.02
+  list del dream nucleus:0.75
+  army:0.68
+  bonobo:0.68
+  lightnlove:0.68
+  quote:0.68
+  country:0.44
+  add:0.44
+  xncsux:0.44
+
+Topic 3:
+  country:0.67
+  february:0.63
+  quote:0.58
+  list del dream nucleus:0.52
+  list:0.49
+  pmalphabay:0.46
+  mileyoure:0.46
+  escrow:0.46
+  jigsawpuzzle:0.46
+  central:0.46
+
+Topic 4:
+  list:1.12
+  february:0.98
+  list del dream nucleus:0.77
+  quote:0.72
+  bonobo:0.66
+  army:0.66
+  lightnlove:0.66
+  country:0.48
+  multisig:0.46
+  pmquote:0.46
+
+K: 5, Log-Likelihood: -325.888, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  community:0.41
+  vendors:0.40
+  benzos:0.40
+  good:0.39
+  prescription:0.20
+  hope:0.20
+  pharmacy:0.20
+  king:0.20
+  agora:0.20
+  admin:0.20
+
+Topic 1:
+  benzos:0.40
+  vendors:0.40
+  community:0.40
+  good:0.40
+  pharmacy:0.20
+  hope:0.20
+  prescription:0.20
+  king:0.20
+  agora:0.20
+  admin:0.20
+
+Topic 2:
+  good:0.41
+  community:0.40
+  benzos:0.40
+  vendors:0.40
+  frequently:0.20
+  reviews:0.20
+  leading:0.20
+  mdma:0.20
+  open:0.20
+  business:0.20
+
+Topic 3:
+  good:0.41
+  vendors:0.40
+  community:0.39
+  benzos:0.39
+  reviews:0.20
+  tool:0.20
+  feel:0.20
+  brother:0.20
+  members:0.20
+  strategy:0.20
+
+Topic 4:
+  vendors:0.40
+  benzos:0.40
+  community:0.40
+  good:0.40
+  hope:0.20
+  king:0.20
+  agora:0.20
+  pharmacy:0.20
+  prescription:0.20
+  admin:0.20
+
+K: 5, Log-Likelihood: -137.435, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  markets:0.81
+  vendor:0.79
+  falcon:0.79
+  thread:0.78
+  paper:0.78
+  clip:0.74
+  small:0.41
+  falconthat:0.41
+  kidding:0.41
+  message:0.41
+
+Topic 1:
+  falcon:0.83
+  paper:0.83
+  vendor:0.82
+  markets:0.82
+  clip:0.81
+  thread:0.80
+  quote:0.40
+  message:0.40
+  clicked:0.40
+  bulb:0.40
+
+Topic 2:
+  thread:0.85
+  clip:0.82
+  markets:0.81
+  falcon:0.80
+  paper:0.80
+  vendor:0.80
+  stuck:0.40
+  worry:0.40
+  face:0.40
+  falconthat:0.40
+
+Topic 3:
+  clip:0.82
+  vendor:0.81
+  markets:0.80
+  falcon:0.80
+  thread:0.79
+  paper:0.79
+  making:0.40
+  march:0.40
+  icon:0.40
+  bruce:0.40
+
+Topic 4:
+  clip:0.81
+  paper:0.80
+  falcon:0.78
+  vendor:0.78
+  thread:0.77
+  markets:0.76
+  march:0.41
+  worry:0.41
+  post:0.41
+  thumb:0.41
+
+K: 5, Log-Likelihood: -210.690, Alpha: 11.000, Beta: 1.100

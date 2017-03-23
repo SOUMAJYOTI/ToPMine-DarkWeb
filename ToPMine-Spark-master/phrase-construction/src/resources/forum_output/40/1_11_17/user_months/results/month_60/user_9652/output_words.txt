@@ -1,0 +1,61 @@
+Topic 0:
+  attacks:2.50
+  chosen:2.43
+  hash:2.34
+  attack:2.04
+  document:1.96
+  key:1.94
+  function:1.78
+  md:1.71
+  message:1.57
+  ciphertext:1.45
+
+Topic 1:
+  attack:2.65
+  hash:2.60
+  document:2.58
+  unique:2.21
+  chosen:2.11
+  message:1.91
+  attacks:1.86
+  ciphertext:1.74
+  function:1.64
+  key:1.53
+
+Topic 2:
+  hash:2.93
+  chosen:2.57
+  unique:1.95
+  attacks:1.80
+  document:1.78
+  attack:1.59
+  md:1.55
+  key:1.47
+  function:1.45
+  message:1.39
+
+Topic 3:
+  document:2.95
+  attack:2.73
+  unique:2.38
+  attacks:2.33
+  chosen:2.30
+  hash:2.18
+  ciphertext:1.77
+  function:1.71
+  md:1.61
+  key:1.61
+
+Topic 4:
+  hash:3.94
+  attack:2.99
+  document:2.72
+  chosen:2.58
+  unique:2.08
+  message:1.78
+  ciphertext:1.76
+  md:1.61
+  attacks:1.50
+  key:1.45
+
+K: 5, Log-Likelihood: -1846.925, Alpha: 11.000, Beta: 1.100

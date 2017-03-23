@@ -1,0 +1,61 @@
+Topic 0:
+  april:3.54
+  quote:3.28
+  idea:3.06
+  pe:2.31
+  cool:2.04
+  play:2.00
+  ya:1.89
+  challenge:1.88
+  pmcool:1.53
+  good:1.34
+
+Topic 1:
+  move:26.42
+  pawn:23.41
+  piece:22.18
+  square:19.75
+  letter:17.69
+  file:13.76
+  moves:11.76
+  rank:9.76
+  capture:9.75
+  pawns:8.76
+
+Topic 2:
+  notation:2.19
+  play:1.66
+  standard:1.46
+  chess:1.41
+  case:1.38
+  idea:1.37
+  letter:1.19
+  knight:1.14
+  april:1.04
+  pe:0.98
+
+Topic 3:
+  notation:2.71
+  case:1.77
+  standard:1.68
+  letter:1.51
+  knight:1.38
+  piece:1.30
+  chess:1.23
+  idea:1.14
+  play:1.07
+  april:0.82
+
+Topic 4:
+  april:17.59
+  ya:9.20
+  pmquote:7.32
+  nordicshrooms:7.15
+  pd:5.88
+  quote:5.09
+  pe:2.97
+  amquote:2.90
+  chill:2.45
+  pme:2.44
+
+K: 5, Log-Likelihood: -3362.021, Alpha: 11.000, Beta: 1.100

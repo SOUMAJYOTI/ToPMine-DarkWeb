@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:3.05
+  people start:3.05
+  form:3.05
+  term:3.05
+  investors:3.05
+  start:3.05
+  price bitcoin:1.45
+  stash:1.45
+  compensated:1.45
+  cycle:1.45
+
+Topic 1:
+  btc:2.14
+  march:1.60
+  speculating:1.51
+  price:0.95
+  trades:0.90
+  order:0.89
+  btc currency choice buy:0.89
+  developer drama pass utility:0.89
+  hedging ethereum sitting core:0.89
+  drugs anonymously internet fine:0.86
+
+Topic 2:
+  btc:2.36
+  march:1.68
+  speculating:1.50
+  quote:1.23
+  books:1.21
+  compared:1.21
+  orders:1.20
+  role:1.20
+  small:1.18
+  pmidiots:1.18
+
+Topic 3:
+  volatile:1.37
+  dropped:1.06
+  sort:1.06
+  rift:1.06
+  recovering:1.05
+  dramatic:1.05
+  normal:1.05
+  happened:1.05
+  price:0.78
+  wig:0.63
+
+Topic 4:
+  price:0.97
+  long:0.91
+  volatile:0.77
+  read:0.75
+  interesting:0.74
+  analysis:0.74
+  deepdotweb:0.74
+  idiots:0.73
+  whales:0.68
+  wig:0.68
+
+K: 5, Log-Likelihood: -1186.019, Alpha: 11.000, Beta: 1.100

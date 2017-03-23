@@ -17,12 +17,13 @@ import java.util.*;
  * Created by Jin on 11/18/2015.
  */
 public class Main_Legacy {
-	public static final String MAIN_PATH = "F:/ToPMine-Spark-master/TopMine-Spark-master/phrase-construction/src/resources/";
-    public static final String DATASET_NAME = "input";
-    public static final String CORPUS_FILE_PATH = MAIN_PATH + String.format("%s.txt", DATASET_NAME);
-    public static final String OUTPUT_FILE_PATH = MAIN_PATH + String.format("%s_output", DATASET_NAME);
-    public static final String DICT_FILE_PATH = MAIN_PATH + String.format("%s_dict", DATASET_NAME);
-    public static final String STOP_WORDS_FILE_PATH = MAIN_PATH + "stopwords.txt";
+	public static final String fid = "40";
+	public static final String MAIN_PATH = "F:/ToPMine-Spark-master/TopMine-Spark-master/phrase-construction/src/resources/forum_output/" + fid + "/";
+//    public static final String DATASET_NAME = "input";
+//    public static final String CORPUS_FILE_PATH = MAIN_PATH + String.format("%s.txt", DATASET_NAME);
+//    public static final String OUTPUT_FILE_PATH = MAIN_PATH + String.format("%s_output", DATASET_NAME);
+//    public static final String DICT_FILE_PATH = MAIN_PATH + String.format("%s_dict", DATASET_NAME);
+    public static final String STOP_WORDS_FILE_PATH = "F:/ToPMine-Spark-master/TopMine-Spark-master/phrase-construction/src/resources/Stop_Words.txt";
 
 
     public static void main(String[] args) throws IOException, PhraseConstructionException {
@@ -33,9 +34,9 @@ public class Main_Legacy {
         SparkConf conf = new SparkConf().setAppName("Phrase Construction").setMaster("local");
         System.out.println(startTime);
         
-        String input_File = "F:/ToPMine-Spark-master/TopMine-Spark-master/phrase-construction/src/resources/corpus.txt";
+        String input_File = "F:/ToPMine-Spark-master/TopMine-Spark-master/phrase-construction/src/resources/month_11-01-2015.txt";
         
-        File OUTPUT_PATH = new File(MAIN_PATH + "all");
+        File OUTPUT_PATH = new File(MAIN_PATH + "phrases_month_11-01-2015");
 
         // if the directory does not exist, create it
         if (!OUTPUT_PATH.exists()) {
@@ -45,7 +46,7 @@ public class Main_Legacy {
         try(JavaSparkContext javaSparkContext = new JavaSparkContext(conf)) {
         	javaSparkContext.setLogLevel("OFF");
             SparkJob.runPhraseMining(javaSparkContext, input_File, OUTPUT_PATH + "/output_phrases.txt", OUTPUT_PATH + "/dict_phrases.txt", STOP_WORDS_FILE_PATH);
-            SparkJob.runBagOfWordsLDA(javaSparkContext, input_File, OUTPUT_PATH + "/output_words.txt", OUTPUT_PATH + "/dict_words.txt", STOP_WORDS_FILE_PATH);
+//            SparkJob.runBagOfWordsLDA(javaSparkContext, input_File, OUTPUT_PATH + "/output_words.txt", OUTPUT_PATH + "/dict_words.txt", STOP_WORDS_FILE_PATH);
         }
                 
 

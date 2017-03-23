@@ -1,0 +1,61 @@
+Topic 0:
+  hours:0.91
+  paste:0.65
+  super:0.64
+  waiting:0.64
+  anxious:0.64
+  copy:0.63
+  addy:0.63
+  money:0.62
+  messed:0.62
+  balance:0.62
+
+Topic 1:
+  hours:0.90
+  confirmations:0.63
+  tho:0.61
+  paste:0.60
+  ta:0.60
+  money:0.60
+  afraid:0.60
+  balance:0.60
+  messed:0.60
+  today:0.59
+
+Topic 2:
+  hours:1.00
+  afraid:0.63
+  copy:0.63
+  addy:0.63
+  ta:0.63
+  tho:0.62
+  waiting:0.62
+  anxious:0.62
+  super:0.62
+  messed:0.62
+
+Topic 3:
+  hours:1.09
+  today:0.62
+  messed:0.59
+  ta:0.59
+  money:0.58
+  addy:0.58
+  copy:0.58
+  super:0.58
+  afraid:0.57
+  tho:0.57
+
+Topic 4:
+  hours:1.09
+  today:0.64
+  balance:0.60
+  confirmations:0.59
+  anxious:0.58
+  waiting:0.58
+  tho:0.58
+  money:0.58
+  afraid:0.58
+  super:0.58
+
+K: 5, Log-Likelihood: -506.117, Alpha: 11.000, Beta: 1.100

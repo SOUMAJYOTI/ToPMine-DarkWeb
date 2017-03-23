@@ -1,0 +1,96 @@
+indicator,40,1
+instructions,41,1
+backup,0,3
+exporting,42,1
+duke,43,1
+gon,44,1
+american,1,1
+layouts,2,2
+good,45,2
+keys secret,46,1
+armour,47,4
+platforms,48,1
+quote,3,1
+solution,49,2
+prior,50,1
+pip,51,1
+lock,4,1
+visual,5,1
+ascall,52,2
+export,53,2
+case,6,1
+ascits,54,1
+key alternate keyboard,7,3
+accepting,8,1
+energy,9,1
+gpg,55,2
+keyrings,56,1
+corrupted,57,1
+making,58,1
+issue,10,1
+pass,11,1
+work,12,3
+flashy,59,1
+format,60,2
+ideas,61,1
+check,62,2
+input,13,1
+phrase,63,1
+didnt,14,2
+messages,15,1
+crop,64,1
+primary,16,1
+pmdid,17,1
+private,65,1
+access,18,1
+flag,19,1
+idea,66,1
+keys,67,7
+motivation,68,1
+key alternate,69,3
+secret keys,20,4
+secret,21,5
+updates,70,1
+public keyring,71,1
+mac,22,2
+zaphod,72,1
+caps,73,4
+sourcei,74,1
+file,23,2
+public,75,4
+linux,76,1
+pgp,24,2
+copy,25,2
+reinstalling,77,1
+ascii,78,2
+backup keyring,26,1
+key,27,3
+exported,28,2
+keyboard,79,3
+rest,80,1
+stopped,29,1
+keys keyring,30,2
+reminder,31,1
+incorrect,32,1
+os,81,1
+alternate keyboard,82,3
+zaphods,83,1
+february,84,1
+public keys,33,3
+alternate,34,3
+reading,85,1
+suspect,35,1
+windows,86,1
+secret keyring,87,1
+command,88,1
+layout,89,1
+caps key,36,2
+tweak,37,1
+lockstill,90,1
+work backup,91,1
+pgptools,92,1
+decades,93,1
+decrypt,38,1
+keyring,39,6
+ascexporting,94,1
+account,95,1

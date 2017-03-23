@@ -1,0 +1,61 @@
+Topic 0:
+  service:0.29
+  terpene:0.24
+  host:0.24
+  long:0.24
+  april:0.24
+  autowithdrawal:0.24
+  feature:0.24
+  started:0.24
+  pmi:0.24
+  bitblender:0.24
+
+Topic 1:
+  service:0.27
+  box:0.22
+  coins:0.22
+  storage:0.22
+  electrum:0.22
+  btc:0.22
+  store:0.22
+  addys:0.22
+  receive:0.22
+  love:0.22
+
+Topic 2:
+  service:0.29
+  read:0.23
+  morelike:0.23
+  moved:0.23
+  started:0.23
+  link:0.23
+  bitblender:0.23
+  dreamt:0.23
+  excellent:0.23
+  pmi:0.23
+
+Topic 3:
+  virtual:0.26
+  armory:0.26
+  cold:0.26
+  store:0.26
+  thought:0.26
+  wallets:0.26
+  extra:0.26
+  receive:0.26
+  personally:0.26
+  electrum:0.26
+
+Topic 4:
+  service:0.28
+  servers:0.22
+  bitcoinfog:0.22
+  dreamt:0.22
+  feature:0.22
+  fucking:0.22
+  quote:0.22
+  terpbitblender:0.22
+  delays:0.22
+  excellent:0.22
+
+K: 5, Log-Likelihood: -265.357, Alpha: 11.000, Beta: 1.100

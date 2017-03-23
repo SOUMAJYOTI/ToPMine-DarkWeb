@@ -1,0 +1,61 @@
+Topic 0:
+  software:0.85
+  download:0.81
+  guide:0.61
+  encrypt:0.40
+  website:0.40
+  human:0.40
+  read:0.40
+  win:0.40
+  won:0.40
+  gpg:0.40
+
+Topic 1:
+  download:0.83
+  software:0.74
+  guide:0.61
+  website:0.40
+  win:0.40
+  won:0.40
+  human:0.40
+  encrypt:0.40
+  read:0.40
+  gpg:0.40
+
+Topic 2:
+  software:0.83
+  download:0.74
+  guide:0.60
+  read:0.40
+  gpg:0.40
+  won:0.40
+  encrypt:0.40
+  human:0.40
+  win:0.40
+  website:0.40
+
+Topic 3:
+  download:0.83
+  software:0.79
+  guide:0.60
+  gpg:0.41
+  read:0.40
+  won:0.40
+  win:0.40
+  human:0.40
+  website:0.40
+  encrypt:0.40
+
+Topic 4:
+  download:0.80
+  software:0.79
+  guide:0.58
+  gpg:0.40
+  won:0.40
+  encrypt:0.40
+  website:0.40
+  human:0.40
+  win:0.40
+  read:0.40
+
+K: 5, Log-Likelihood: -522.421, Alpha: 11.000, Beta: 1.100

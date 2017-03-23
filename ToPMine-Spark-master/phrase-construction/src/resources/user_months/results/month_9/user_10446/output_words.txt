@@ -1,0 +1,61 @@
+Topic 0:
+  sr:9.03
+  market:7.67
+  vendors:3.35
+  blue:2.49
+  escrow:2.29
+  fact:2.22
+  bring:2.20
+  agora:2.17
+  work:2.13
+  explanations:2.10
+
+Topic 1:
+  escrow:9.67
+  scams:8.20
+  buyer:5.50
+  sr:4.17
+  safer:3.68
+  post:2.82
+  market:2.80
+  read:2.68
+  offer:2.42
+  coins:2.41
+
+Topic 2:
+  sr:17.30
+  heartbleed:5.54
+  ignorant:4.54
+  small:4.16
+  june:4.14
+  southeastern:3.99
+  knowledge:3.13
+  dude:3.12
+  le:2.93
+  jail:2.89
+
+Topic 3:
+  sr:8.52
+  small:4.40
+  bug:3.98
+  heartbleed:3.42
+  url:3.41
+  jail:2.43
+  forum:2.25
+  exploit:2.16
+  good:2.13
+  guess:2.06
+
+Topic 4:
+  people:7.63
+  sr:6.98
+  hate:4.36
+  trolly:3.27
+  le:3.09
+  dont:2.72
+  place:2.15
+  feel:1.94
+  arguments:1.94
+  yells:1.94
+
+K: 5, Log-Likelihood: -4507.266, Alpha: 11.000, Beta: 1.100

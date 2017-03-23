@@ -1,0 +1,61 @@
+Topic 0:
+  development:3.14
+  projects:3.14
+  imagine:1.54
+  happily:1.54
+  relied:1.54
+  extremely:1.54
+  recompense:1.54
+  responsible:1.54
+  continued:1.54
+  bit:1.54
+
+Topic 1:
+  lurks:3.45
+  setup:2.22
+  unified:2.22
+  support:2.22
+  linux:2.22
+  key:2.22
+  wondering:2.22
+  luks bit:2.22
+  cut:2.22
+  alternatives veracrypt:2.22
+
+Topic 2:
+  audited:2.75
+  developers:1.30
+  explanation:1.30
+  issues people:1.28
+  tc alternatives:1.28
+  dropped:1.27
+  perfect file container easily:1.27
+  code:0.92
+  version:0.92
+  honest convinced wrong tc:0.86
+
+Topic 3:
+  audit:7.98
+  organization:3.16
+  software:3.16
+  security:3.16
+  ii:3.16
+  phase:3.16
+  ocap:3.16
+  backdoors:3.16
+  foundation:3.16
+  completed:3.16
+
+Topic 4:
+  years:5.97
+  good:4.74
+  food:4.74
+  time:4.71
+  project werner:3.13
+  ten:3.13
+  paying:3.13
+  evil:3.13
+  simply:3.13
+  choose:3.13
+
+K: 5, Log-Likelihood: -3922.336, Alpha: 11.000, Beta: 1.100

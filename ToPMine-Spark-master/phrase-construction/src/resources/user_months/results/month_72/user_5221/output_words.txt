@@ -1,0 +1,61 @@
+Topic 0:
+  ab:7.23
+  orders:5.31
+  carders:5.28
+  admin:5.08
+  market:4.61
+  crew:3.74
+  bunch:3.73
+  alpha:3.59
+  trust:3.59
+  tor:3.19
+
+Topic 1:
+  ab:14.51
+  vendor:12.83
+  accounts:8.58
+  dispute:7.65
+  market:4.33
+  customer:4.18
+  didnt:4.15
+  customers:4.13
+  fuck:4.03
+  coins:3.81
+
+Topic 2:
+  fucking:7.62
+  market:7.16
+  ab:7.13
+  link:5.16
+  access:4.95
+  account:4.55
+  funds:4.45
+  frozen:4.42
+  quote:4.34
+  january:4.29
+
+Topic 3:
+  dhl:17.37
+  market:14.51
+  direct:11.80
+  wallet:10.72
+  withdrawals:9.94
+  find:8.34
+  trust:6.55
+  withdrawal:6.17
+  ab:5.59
+  automatic:4.94
+
+Topic 4:
+  account:15.03
+  money:14.14
+  pin:9.75
+  working:6.44
+  correct:6.43
+  reddit:6.24
+  times:5.82
+  resolved:5.05
+  work:4.70
+  withdraw:4.70
+
+K: 5, Log-Likelihood: -7279.197, Alpha: 11.000, Beta: 1.100

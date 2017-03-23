@@ -1,0 +1,61 @@
+Topic 0:
+  ett:5.30
+  hetyst:4.65
+  mit:4.54
+  ratsioita:4.47
+  postin:4.45
+  perille:3.88
+  viikolla:3.78
+  paketti:3.78
+  noin:3.77
+  nyt:3.66
+
+Topic 1:
+  onko:5.27
+  sama:4.62
+  ja:4.44
+  sis:3.77
+  joku:3.77
+  mulle:3.64
+  hetykset:3.47
+  ovat:3.38
+  kell:2.96
+  kanssa:2.94
+
+Topic 2:
+  posti:4.63
+  ei:4.53
+  iv:4.45
+  paikas:3.74
+  joka:3.74
+  ei kii:3.74
+  kamera ongelma:3.74
+  kameroita:3.74
+  onha:3.74
+  kaupungillaki:3.74
+
+Topic 3:
+  ratkaisu:5.77
+  iskoko:4.66
+  enimm:4.66
+  vast:3.83
+  ytyy:3.83
+  seurantakoodikirjattukirje:3.83
+  pikana:3.83
+  ottoman:3.83
+  ongelmaan:3.83
+  aina:2.31
+
+Topic 4:
+  peruuttaa:3.83
+  visit:3.83
+  jouluna:3.83
+  palauteiden:3.83
+  tuo rin:3.83
+  tehd:3.83
+  auttaisi:3.83
+  niill:3.83
+  si:3.83
+  piilottaa:3.83
+
+K: 5, Log-Likelihood: -4498.176, Alpha: 11.000, Beta: 1.100

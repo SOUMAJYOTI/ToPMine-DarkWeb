@@ -1,0 +1,61 @@
+Topic 0:
+  bk:0.40
+  offers:0.20
+  markets:0.20
+  ketone:0.20
+  idea:0.20
+  vended:0.20
+  typically:0.20
+  comprising:0.20
+  goods:0.20
+  hold:0.20
+
+Topic 1:
+  bk:0.40
+  mbdb:0.20
+  malescaline:0.20
+  caution:0.20
+  methallylescaline:0.20
+  hold:0.20
+  proceed:0.20
+  variety:0.20
+  beta:0.20
+  store:0.20
+
+Topic 2:
+  bk:0.40
+  based:0.20
+  stocked:0.20
+  agora:0.20
+  personally:0.20
+  sr:0.20
+  goodies:0.20
+  trails:0.20
+  wanted:0.20
+  front:0.20
+
+Topic 3:
+  bk:0.40
+  wanted:0.20
+  tested:0.20
+  stocked:0.20
+  trails:0.20
+  beta:0.20
+  sr:0.20
+  ketone:0.20
+  front:0.20
+  names:0.20
+
+Topic 4:
+  bk:0.40
+  agora:0.20
+  powders:0.20
+  comprising:0.20
+  goodies:0.20
+  case:0.20
+  handful:0.20
+  proceed:0.20
+  mal:0.20
+  markets:0.20
+
+K: 5, Log-Likelihood: -146.199, Alpha: 11.000, Beta: 1.100

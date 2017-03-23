@@ -1,0 +1,61 @@
+Topic 0:
+  lotuss:0.38
+  month:0.38
+  private forum:0.31
+  coupon:0.31
+  packs:0.20
+  info:0.20
+  retired:0.20
+  guess:0.20
+  community:0.19
+  find:0.19
+
+Topic 1:
+  month:0.35
+  lotuss:0.35
+  coupon:0.30
+  private forum:0.30
+  guess:0.21
+  retired:0.21
+  info:0.20
+  packs:0.20
+  service:0.19
+  services:0.19
+
+Topic 2:
+  lotuss:0.35
+  month:0.35
+  coupon:0.30
+  private forum:0.30
+  guess:0.21
+  retired:0.21
+  packs:0.20
+  info:0.20
+  unique:0.19
+  offered:0.19
+
+Topic 3:
+  month:0.39
+  lotuss:0.38
+  private forum:0.31
+  coupon:0.31
+  info:0.20
+  packs:0.20
+  retired:0.20
+  guess:0.20
+  mode:0.19
+  reply:0.19
+
+Topic 4:
+  lotuss:0.38
+  month:0.37
+  private forum:0.31
+  coupon:0.31
+  packs:0.20
+  info:0.20
+  retired:0.20
+  guess:0.20
+  agora:0.18
+  mode:0.18
+
+K: 5, Log-Likelihood: -174.530, Alpha: 11.000, Beta: 1.100

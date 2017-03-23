@@ -1,0 +1,61 @@
+Topic 0:
+  instructions:0.00
+  including:0.00
+  read:0.00
+  familiarize:0.00
+  alfreds:0.00
+  vending:0.00
+  link:0.00
+  signed:0.00
+  rules:0.00
+  thread:0.00
+
+Topic 1:
+  instructions:0.00
+  including:0.00
+  read:0.00
+  familiarize:0.00
+  alfreds:0.00
+  vending:0.00
+  link:0.00
+  signed:0.00
+  rules:0.00
+  thread:0.00
+
+Topic 2:
+  instructions:0.00
+  including:0.00
+  read:0.00
+  familiarize:0.00
+  alfreds:0.00
+  vending:0.00
+  link:0.00
+  signed:0.00
+  rules:0.00
+  thread:0.00
+
+Topic 3:
+  instructions:0.00
+  including:0.00
+  read:0.00
+  familiarize:0.00
+  alfreds:0.00
+  vending:0.00
+  link:0.00
+  signed:0.00
+  rules:0.00
+  thread:0.00
+
+Topic 4:
+  instructions:0.00
+  including:0.00
+  read:0.00
+  familiarize:0.00
+  alfreds:0.00
+  vending:0.00
+  link:0.00
+  signed:0.00
+  rules:0.00
+  thread:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

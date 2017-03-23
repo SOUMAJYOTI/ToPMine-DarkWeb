@@ -1,0 +1,61 @@
+Topic 0:
+  illegal:1.80
+  states:0.93
+  bitcoin:0.57
+  place:0.56
+  money:0.55
+  laundering:0.54
+  things:0.51
+  forum:0.41
+  talking:0.34
+  meant:0.34
+
+Topic 1:
+  illegal:1.84
+  things:1.12
+  forum:0.71
+  money:0.60
+  bitcoin:0.58
+  laundering:0.58
+  meant:0.54
+  talking:0.54
+  states:0.31
+  stores:0.26
+
+Topic 2:
+  illegal:1.94
+  states:0.79
+  things:0.57
+  laundering:0.57
+  bitcoin:0.56
+  money:0.55
+  place:0.51
+  forum:0.45
+  talking:0.35
+  meant:0.35
+
+Topic 3:
+  illegal:2.22
+  states:0.68
+  things:0.62
+  laundering:0.58
+  money:0.58
+  bitcoin:0.56
+  forum:0.48
+  place:0.45
+  talking:0.35
+  meant:0.35
+
+Topic 4:
+  illegal:2.19
+  things:1.18
+  forum:0.95
+  laundering:0.74
+  bitcoin:0.73
+  money:0.73
+  talking:0.42
+  meant:0.42
+  states:0.29
+  law:0.27
+
+K: 5, Log-Likelihood: -359.335, Alpha: 11.000, Beta: 1.100

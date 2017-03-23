@@ -1,0 +1,61 @@
+Topic 0:
+  host:0.84
+  uri:0.82
+  connect:0.79
+  url:0.78
+  working:0.78
+  sbkmz:0.40
+  blog:0.40
+  market:0.40
+  quote:0.40
+  link:0.40
+
+Topic 1:
+  uri:0.80
+  working:0.80
+  url:0.79
+  connect:0.79
+  host:0.78
+  reviewing:0.41
+  isn:0.41
+  marketplace:0.41
+  vendor:0.40
+  pm:0.40
+
+Topic 2:
+  host:0.82
+  url:0.82
+  connect:0.80
+  working:0.79
+  uri:0.79
+  march:0.40
+  isn:0.40
+  bruce:0.40
+  reviewing:0.40
+  marketplace:0.40
+
+Topic 3:
+  connect:0.82
+  working:0.80
+  uri:0.80
+  url:0.80
+  host:0.78
+  forum:0.40
+  link:0.40
+  marketplace:0.40
+  quote:0.40
+  march:0.40
+
+Topic 4:
+  working:0.84
+  url:0.81
+  connect:0.80
+  uri:0.80
+  host:0.77
+  isnt:0.40
+  sbkmz:0.40
+  pm:0.40
+  vendor:0.40
+  forum:0.40
+
+K: 5, Log-Likelihood: -141.189, Alpha: 11.000, Beta: 1.100

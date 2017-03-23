@@ -1,0 +1,61 @@
+Topic 0:
+  coins:4.10
+  money:3.83
+  sister:3.82
+  facts:3.82
+  score:3.82
+  captchas:3.82
+  remember:3.82
+  guess:3.82
+  acid friend:3.82
+  metta metta metta:3.82
+
+Topic 1:
+  computer:4.66
+  activities:4.66
+  kind:3.75
+  brain:3.06
+  thinking:3.05
+  ass:3.05
+  hurts:3.04
+  acct:3.04
+  fucking address:3.04
+  left:3.03
+
+Topic 2:
+  copy pasted:5.59
+  number private message:5.45
+  human confused happened told:5.45
+  admins techwizards bitcoinmessiahs:5.45
+  money money checked friend:5.45
+  albion trustworthy general gamesome:5.45
+  hallucinating copy pasted:5.45
+  human error:4.93
+  happened:4.41
+  strange:3.75
+
+Topic 3:
+  friend:7.70
+  shit luck change content:5.58
+  supposed worth acid christmas:5.58
+  private messages infected sort:5.58
+  angry worst:5.58
+  btc address faker:5.58
+  friend coarse language:5.58
+  night btc vendor address:4.85
+  received payment check:4.85
+  pmed earlier vendor:4.85
+
+Topic 4:
+  address:6.56
+  outboxes:3.83
+  linux:3.83
+  goofed:3.83
+  cheer:3.83
+  tor:3.83
+  dealings:3.83
+  gon:3.83
+  vqxhhj:3.83
+  weeks:3.83
+
+K: 5, Log-Likelihood: -3516.172, Alpha: 11.000, Beta: 1.100

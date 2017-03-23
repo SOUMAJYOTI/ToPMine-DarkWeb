@@ -1,0 +1,61 @@
+Topic 0:
+  error:0.60
+  load:0.40
+  time:0.40
+  hacked:0.40
+  today:0.20
+  crazy:0.20
+  yep:0.20
+  traffic:0.20
+  guess:0.20
+  bakopy:0.20
+
+Topic 1:
+  error:0.59
+  hacked:0.41
+  load:0.40
+  time:0.40
+  bmr:0.20
+  issues:0.20
+  bakopy:0.20
+  crazy:0.20
+  caught:0.20
+  refugees:0.20
+
+Topic 2:
+  error:0.59
+  load:0.41
+  time:0.39
+  hacked:0.39
+  infrastructure:0.20
+  vps:0.20
+  servers:0.20
+  influx:0.20
+  balanced:0.20
+  refugees:0.20
+
+Topic 3:
+  error:0.62
+  time:0.41
+  hacked:0.40
+  load:0.39
+  tryn:0.20
+  log:0.20
+  pandora:0.20
+  http:0.20
+  boom:0.20
+  frustrating:0.20
+
+Topic 4:
+  error:0.60
+  time:0.40
+  hacked:0.40
+  load:0.40
+  bmr:0.20
+  caught:0.20
+  issues:0.20
+  bakopy:0.20
+  crazy:0.20
+  frustrating:0.20
+
+K: 5, Log-Likelihood: -135.568, Alpha: 11.000, Beta: 1.100

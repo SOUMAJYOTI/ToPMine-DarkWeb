@@ -1,0 +1,36 @@
+Topic 0:
+  post:0.40
+  disappointed:0.40
+  sale:0.40
+  check:0.40
+  won:0.20
+
+Topic 1:
+  sale:0.40
+  check:0.40
+  post:0.40
+  disappointed:0.40
+  won:0.20
+
+Topic 2:
+  sale:0.40
+  disappointed:0.40
+  check:0.40
+  post:0.40
+  won:0.20
+
+Topic 3:
+  check:0.40
+  sale:0.40
+  disappointed:0.40
+  post:0.40
+  won:0.20
+
+Topic 4:
+  post:0.40
+  disappointed:0.40
+  check:0.40
+  sale:0.40
+  won:0.20
+
+K: 5, Log-Likelihood: -14.245, Alpha: 11.000, Beta: 1.100

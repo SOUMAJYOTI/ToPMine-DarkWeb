@@ -1,0 +1,61 @@
+Topic 0:
+  doi:0.83
+  dob:0.79
+  point:0.40
+  pretty:0.40
+  blotter:0.40
+  direction:0.40
+  wonderful:0.40
+  bought:0.40
+  powder:0.40
+  topic:0.40
+
+Topic 1:
+  doi:0.86
+  dob:0.75
+  bought:0.40
+  pretty:0.40
+  train:0.40
+  wonderful:0.40
+  agora:0.40
+  direction:0.40
+  topic:0.40
+  blotter:0.40
+
+Topic 2:
+  dob:0.81
+  doi:0.77
+  missed:0.41
+  topic:0.40
+  powder:0.40
+  direction:0.40
+  agora:0.40
+  train:0.40
+  point:0.40
+  wonderful:0.40
+
+Topic 3:
+  dob:0.81
+  doi:0.79
+  xs:0.41
+  blotter:0.40
+  pretty:0.40
+  point:0.40
+  explains:0.40
+  powder:0.40
+  train:0.40
+  direction:0.40
+
+Topic 4:
+  dob:0.84
+  doi:0.75
+  missed:0.41
+  explains:0.40
+  agora:0.40
+  xs:0.40
+  blotter:0.40
+  train:0.40
+  wonderful:0.40
+  topic:0.40
+
+K: 5, Log-Likelihood: -95.785, Alpha: 11.000, Beta: 1.100

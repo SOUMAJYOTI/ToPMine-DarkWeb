@@ -1,0 +1,61 @@
+Topic 0:
+  dead:0.47
+  piece:0.47
+  software:0.47
+  good:0.47
+  solution:0.47
+  caught:0.46
+  security:0.39
+  years:0.29
+  safe:0.29
+  ecc:0.29
+
+Topic 1:
+  security:0.64
+  nightcrawler:0.33
+  expected:0.33
+  bit keys:0.33
+  safe:0.33
+  ecc:0.33
+  usb:0.29
+  gpg:0.28
+  reviews:0.27
+  respected:0.27
+
+Topic 2:
+  ecc:0.54
+  bit keys:0.53
+  safe:0.53
+  expected:0.53
+  years:0.37
+  security:0.32
+  rsa keys:0.31
+  gpg:0.29
+  dead:0.29
+  good:0.29
+
+Topic 3:
+  caught:0.67
+  solution:0.66
+  piece:0.66
+  software:0.66
+  good:0.65
+  dead:0.65
+  years:0.39
+  safe:0.39
+  expected:0.39
+  bit keys:0.39
+
+Topic 4:
+  gpg:0.83
+  usb:0.83
+  rsa keys:0.50
+  nightcrawler:0.47
+  bits:0.34
+  privacy:0.34
+  gnu:0.34
+  deprecated:0.34
+  pmit:0.34
+  win:0.34
+
+K: 5, Log-Likelihood: -628.020, Alpha: 11.000, Beta: 1.100

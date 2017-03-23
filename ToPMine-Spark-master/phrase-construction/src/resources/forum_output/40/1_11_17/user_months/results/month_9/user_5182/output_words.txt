@@ -1,0 +1,61 @@
+Topic 0:
+  santa:0.83
+  saint:0.78
+  washed:0.51
+  place:0.43
+  great:0.43
+  congrats:0.42
+  vendor:0.42
+  nic:0.40
+  nice:0.40
+  directly:0.35
+
+Topic 1:
+  santa:1.16
+  saint:0.77
+  vendor:0.53
+  congrats:0.51
+  great:0.50
+  place:0.49
+  nic:0.40
+  nice:0.37
+  washed:0.36
+  directly:0.27
+
+Topic 2:
+  washed:1.10
+  saint:0.88
+  wash:0.65
+  acetone:0.65
+  mdma:0.65
+  tested:0.65
+  directly:0.65
+  nice:0.43
+  santa:0.41
+  nic:0.40
+
+Topic 3:
+  santa:0.83
+  saint:0.76
+  washed:0.51
+  congrats:0.41
+  place:0.41
+  vendor:0.41
+  great:0.40
+  nice:0.40
+  nic:0.40
+  acetone:0.37
+
+Topic 4:
+  saint:0.82
+  santa:0.78
+  washed:0.52
+  great:0.41
+  congrats:0.41
+  vendor:0.41
+  place:0.41
+  nice:0.40
+  nic:0.40
+  directly:0.37
+
+K: 5, Log-Likelihood: -673.247, Alpha: 11.000, Beta: 1.100

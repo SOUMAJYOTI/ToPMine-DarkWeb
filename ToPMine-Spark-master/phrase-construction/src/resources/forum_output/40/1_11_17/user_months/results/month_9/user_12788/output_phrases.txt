@@ -1,0 +1,61 @@
+Topic 0:
+  fe:0.41
+  thatoneguy:0.27
+  days:0.27
+  escrow:0.27
+  coin:0.27
+  alice:0.27
+  money:0.27
+  supportde:0.27
+  thnaks:0.14
+  eventually:0.14
+
+Topic 1:
+  fe:0.41
+  money:0.28
+  alice:0.28
+  escrow:0.28
+  thatoneguy:0.28
+  coin:0.28
+  supportde:0.28
+  days:0.28
+  addresses:0.14
+  told:0.14
+
+Topic 2:
+  fe:0.43
+  coin:0.28
+  alice:0.28
+  supportde:0.28
+  days:0.28
+  thatoneguy:0.28
+  money:0.28
+  escrow:0.28
+  learn:0.14
+  began:0.14
+
+Topic 3:
+  fe:0.41
+  supportde:0.28
+  escrow:0.28
+  thatoneguy:0.28
+  days:0.28
+  money:0.28
+  coin:0.28
+  alice:0.28
+  negligence:0.14
+  sharing:0.14
+
+Topic 4:
+  fe:0.42
+  coin:0.28
+  supportde:0.28
+  money:0.28
+  days:0.28
+  thatoneguy:0.28
+  escrow:0.28
+  alice:0.28
+  verified:0.14
+  threads:0.14
+
+K: 5, Log-Likelihood: -371.807, Alpha: 11.000, Beta: 1.100

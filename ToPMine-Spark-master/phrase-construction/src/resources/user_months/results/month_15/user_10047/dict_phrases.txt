@@ -1,0 +1,15 @@
+wait,0,1
+release,1,1
+link,2,1
+thread,3,1
+error,4,1
+reached,5,1
+limit,6,1
+links,7,1
+time,8,1
+fresh,9,1
+user,10,1
+sticking,11,1
+register,12,1
+full,13,1
+referred,14,2

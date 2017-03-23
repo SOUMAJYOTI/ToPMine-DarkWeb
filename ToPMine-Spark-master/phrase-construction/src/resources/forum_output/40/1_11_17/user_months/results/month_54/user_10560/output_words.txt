@@ -1,0 +1,61 @@
+Topic 0:
+  vpn:15.05
+  os:5.94
+  protect:5.74
+  hardware:4.93
+  hacked:3.74
+  tor:3.22
+  network:3.18
+  monitoring:2.93
+  choice:2.84
+  secure:2.53
+
+Topic 1:
+  tails:13.86
+  key:12.36
+  error:9.59
+  windows:8.97
+  keys:7.89
+  gnupg:7.24
+  public:5.70
+  copy:5.70
+  secret:5.69
+  time:4.03
+
+Topic 2:
+  tor:12.00
+  downlod:7.84
+  files:5.89
+  file:5.85
+  torrents:5.84
+  downloading:3.88
+  open:2.87
+  safe:2.52
+  dont:2.06
+  scripts:1.92
+
+Topic 3:
+  windows:4.04
+  beginners:3.78
+  quote:2.75
+  ubuntu:2.58
+  august:2.54
+  easy:1.80
+  ideal:1.80
+  days:1.80
+  offer:1.80
+  thinks:1.80
+
+Topic 4:
+  linux:10.05
+  internet:2.94
+  linus:2.91
+  windows:2.89
+  os:2.89
+  ubuntu:2.31
+  access:1.97
+  mac:1.93
+  arch:1.93
+  design:1.93
+
+K: 5, Log-Likelihood: -3087.645, Alpha: 11.000, Beta: 1.100

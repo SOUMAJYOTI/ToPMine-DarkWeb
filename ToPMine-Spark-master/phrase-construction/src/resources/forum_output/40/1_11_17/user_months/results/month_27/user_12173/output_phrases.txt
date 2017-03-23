@@ -1,0 +1,61 @@
+Topic 0:
+  hate:2.57
+  fuck:2.57
+  pass:2.57
+  version:2.57
+  dont:1.89
+  emails:1.20
+  activate:1.20
+  realize:1.20
+  yep:1.20
+  team:1.20
+
+Topic 1:
+  cloudflare:1.20
+  difficult:1.20
+  masked:1.20
+  public:1.20
+  read:1.20
+  businesss:1.20
+  addresses:1.20
+  users:1.20
+  store:1.20
+  wi:1.20
+
+Topic 2:
+  cloudfare:1.20
+  js:1.14
+  screen:0.93
+  loads:0.92
+  things:0.92
+  goodbye:0.92
+  nasty:0.92
+  enabling:0.91
+  quote:0.90
+  october:0.88
+
+Topic 3:
+  thinking:1.09
+  work:1.09
+  solutions:1.09
+  making:1.09
+  impossible:1.09
+  coinbase:1.09
+  impossible sites:1.09
+  localbitcoins:1.09
+  preventing:1.09
+  intentional:1.09
+
+Topic 4:
+  cloudfare:1.01
+  js:0.92
+  october:0.68
+  enabling:0.68
+  nasty:0.67
+  things:0.67
+  goodbye:0.67
+  quote:0.67
+  loads:0.66
+  screen:0.66
+
+K: 5, Log-Likelihood: -712.252, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  dont:1.07
+  files:1.05
+  program:1.04
+  lot:0.82
+  knowledge:0.80
+  security:0.78
+  advice:0.66
+  follow:0.66
+  encrypted:0.60
+  questions:0.59
+
+Topic 1:
+  server:3.70
+  tails:2.92
+  pidgin:2.75
+  otr:2.75
+  jabber:2.43
+  authenticated:1.80
+  good:1.73
+  refused:1.73
+  account:1.73
+  deleted:1.73
+
+Topic 2:
+  dont:2.72
+  encryption:1.78
+  files:1.74
+  encrypted:1.65
+  security:1.46
+  cipher:1.21
+  rc:1.17
+  passphrase:1.17
+  sha:1.14
+  desperately:1.13
+
+Topic 3:
+  encrypted:2.81
+  dont:2.71
+  files:2.67
+  encryption:2.62
+  cipher:1.86
+  sha:1.84
+  passphrase:1.80
+  bridge:1.80
+  rc:1.75
+  desperately:1.63
+
+Topic 4:
+  files:1.43
+  dont:1.38
+  security:1.12
+  encryption:0.99
+  encrypted:0.88
+  knowledge:0.74
+  questions:0.73
+  desperately:0.72
+  bridge:0.63
+  rc:0.60
+
+K: 5, Log-Likelihood: -1536.409, Alpha: 11.000, Beta: 1.100

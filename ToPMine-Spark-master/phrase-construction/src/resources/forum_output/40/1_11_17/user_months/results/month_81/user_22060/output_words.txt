@@ -1,0 +1,61 @@
+Topic 0:
+  wickr:25.94
+  april:24.80
+  system:17.71
+  cops:14.95
+  memory:13.85
+  amquote:13.50
+  signal:12.47
+  source:11.99
+  phones:11.93
+  grsec:10.87
+
+Topic 1:
+  blackberry:25.53
+  encryption:20.70
+  web:15.86
+  site:12.96
+  contents:11.78
+  dark:11.20
+  tool:10.87
+  viber:10.83
+  pgp:10.76
+  security:10.73
+
+Topic 2:
+  state:18.00
+  april:16.42
+  quote:13.55
+  tor:12.09
+  software:11.62
+  time:9.61
+  services:8.90
+  hidden:8.49
+  years:7.61
+  teach:7.27
+
+Topic 3:
+  security:36.76
+  risk:28.17
+  subgraph:27.53
+  tails:27.23
+  issues:24.24
+  people:23.14
+  march:22.86
+  quote:16.52
+  love:15.97
+  apr:15.94
+
+Topic 4:
+  key:175.66
+  encryption:39.85
+  whatsapp:33.91
+  keys:33.13
+  message:33.12
+  messages:27.89
+  zaphod:27.84
+  expires:26.99
+  time:24.82
+  created:23.86
+
+K: 5, Log-Likelihood: -51324.859, Alpha: 11.000, Beta: 1.100

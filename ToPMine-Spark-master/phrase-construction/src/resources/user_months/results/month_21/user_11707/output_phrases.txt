@@ -1,0 +1,61 @@
+Topic 0:
+  pays:4.68
+  protection:4.68
+  talk:4.68
+  cloudflare:4.45
+  tor:4.21
+  doesnt:3.43
+  site:2.93
+  time:2.58
+  prove:2.48
+  messing:2.33
+
+Topic 1:
+  point perform:3.81
+  easy leave:3.75
+  handful:3.75
+  summer:3.75
+  barely:3.75
+  domain:3.75
+  spare:3.75
+  attacks running:3.75
+  dump:3.75
+  long botnets:3.75
+
+Topic 2:
+  onionshop:5.38
+  quote adlyd mon september:4.67
+  org:3.72
+  deserve:3.72
+  cost:3.72
+  respect:3.72
+  bitch:2.30
+  edges:2.30
+  virginity:2.30
+  db:2.30
+
+Topic 3:
+  orders:4.63
+  btc:4.08
+  september:3.82
+  days:3.82
+  member:3.77
+  types:3.77
+  doubt:3.77
+  prove abilities:3.77
+  call:3.77
+  environment:3.77
+
+Topic 4:
+  site:5.61
+  attack pay:4.66
+  find:4.66
+  counter:4.66
+  thurally:3.82
+  volnerabillities:3.82
+  analyzied:3.82
+  paid:3.82
+  backbone tor:3.55
+  tor compatible:3.55
+
+K: 5, Log-Likelihood: -4675.472, Alpha: 11.000, Beta: 1.100

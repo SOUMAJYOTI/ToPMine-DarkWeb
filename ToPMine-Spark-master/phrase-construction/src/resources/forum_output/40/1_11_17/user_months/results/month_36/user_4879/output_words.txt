@@ -1,0 +1,61 @@
+Topic 0:
+  quote:10.46
+  march:10.45
+  orderofthephoenix:8.27
+  evo:7.48
+  feds:5.93
+  escrow:5.76
+  learning:5.13
+  market:4.21
+  road:3.93
+  suspect:3.93
+
+Topic 1:
+  order:7.95
+  hos:7.71
+  evo:6.40
+  worth:6.38
+  buying:5.71
+  bit:5.71
+  spirit:5.71
+  mdma:5.71
+  lsd:5.71
+  homies:5.71
+
+Topic 2:
+  btc:8.56
+  multi:7.53
+  bv:6.96
+  escrow:6.77
+  lesson:6.67
+  learned:4.24
+  people:3.93
+  march:3.90
+  happen:3.65
+  markets:3.62
+
+Topic 3:
+  reason:7.72
+  place:5.72
+  order:4.60
+  knew:4.60
+  agora:4.05
+  marketplace:3.96
+  profile:3.75
+  touch:3.75
+  hoping:3.75
+  leads:3.75
+
+Topic 4:
+  vendors:9.41
+  escrow:4.26
+  trust:3.48
+  feel:3.22
+  btc:2.95
+  business:2.10
+  open:2.07
+  order:1.94
+  fuckery:1.84
+  helps:1.84
+
+K: 5, Log-Likelihood: -4951.541, Alpha: 11.000, Beta: 1.100

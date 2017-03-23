@@ -1,0 +1,61 @@
+Topic 0:
+  sample:0.73
+  required:0.46
+  spain:0.46
+  ms:0.46
+  paypal bank transfer:0.46
+  send samples:0.45
+  gc ms:0.45
+  blotters:0.45
+  contact ec:0.45
+  familiar:0.37
+
+Topic 1:
+  sample:1.02
+  contact ec:0.60
+  send samples:0.59
+  ms:0.59
+  blotters:0.59
+  required:0.59
+  spain:0.59
+  gc ms:0.59
+  paypal bank transfer:0.58
+  mails:0.29
+
+Topic 2:
+  sample:1.03
+  send samples:0.63
+  paypal bank transfer:0.63
+  gc ms:0.63
+  contact ec:0.63
+  required:0.63
+  blotters:0.62
+  ms:0.62
+  spain:0.62
+  message:0.30
+
+Topic 3:
+  sample:0.76
+  send samples:0.50
+  paypal bank transfer:0.50
+  ms:0.50
+  blotters:0.50
+  contact ec:0.49
+  spain:0.49
+  gc ms:0.49
+  required:0.48
+  advance:0.33
+
+Topic 4:
+  sample:0.92
+  spain:0.62
+  required:0.61
+  gc ms:0.61
+  blotters:0.61
+  contact ec:0.61
+  paypal bank transfer:0.61
+  ms:0.61
+  send samples:0.60
+  accurate:0.29
+
+K: 5, Log-Likelihood: -1004.870, Alpha: 11.000, Beta: 1.100

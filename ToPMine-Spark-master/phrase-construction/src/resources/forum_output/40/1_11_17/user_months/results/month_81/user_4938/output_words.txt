@@ -1,0 +1,61 @@
+Topic 0:
+  tor:22.02
+  april:19.99
+  bridge:14.48
+  obfs:13.29
+  quote:12.08
+  usage:11.55
+  vpn:10.55
+  bootiusmaximus:7.68
+  posts:7.57
+  isp:7.33
+
+Topic 1:
+  key:141.96
+  zaphod:32.56
+  expiry:29.94
+  pgp:29.90
+  expires:26.99
+  created:23.95
+  usage:23.06
+  gpg:21.97
+  expire:19.94
+  april:18.27
+
+Topic 2:
+  type:13.05
+  return:9.84
+  april:9.70
+  entry:9.34
+  pray:8.81
+  trust:8.79
+  field:7.85
+  server:7.82
+  normal:7.55
+  address:7.40
+
+Topic 3:
+  bridges:75.48
+  tor:66.18
+  network:47.84
+  tails:46.82
+  click:23.98
+  connecting:19.91
+  obis:18.85
+  enter:15.17
+  session:13.89
+  connect:12.98
+
+Topic 4:
+  phone:10.49
+  drop:8.81
+  phones:6.90
+  cell:6.17
+  dont:5.71
+  business:5.21
+  people:5.08
+  access:5.03
+  change:4.99
+  vendors:4.82
+
+K: 5, Log-Likelihood: -22794.040, Alpha: 11.000, Beta: 1.100

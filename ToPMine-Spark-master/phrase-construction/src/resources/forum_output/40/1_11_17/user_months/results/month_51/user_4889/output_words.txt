@@ -1,0 +1,61 @@
+Topic 0:
+  work:4.35
+  full:2.20
+  plate:1.73
+  easier:1.68
+  amount:1.65
+  long:1.52
+  seed:1.47
+  small:1.28
+  process:1.13
+  globose:1.13
+
+Topic 1:
+  medium:31.87
+  culture:23.87
+  jars:17.89
+  pressure:17.88
+  tube:17.88
+  cooker:15.90
+  box:15.88
+  small:14.14
+  quart:13.90
+  mycelium:13.90
+
+Topic 2:
+  bitcoin:10.88
+  change:10.21
+  lost:8.20
+  bitcoins:6.08
+  deterministic:5.93
+  official:5.65
+  protocol:5.60
+  address:5.05
+  coin:4.90
+  brain:3.92
+
+Topic 3:
+  wallet:46.92
+  key:29.45
+  private:23.64
+  text:20.69
+  blockchain:18.90
+  online:16.24
+  transaction:15.97
+  computer:15.72
+  send:14.31
+  address:13.77
+
+Topic 4:
+  wallet:33.23
+  passphrase:29.25
+  private:21.87
+  seed:21.35
+  key:16.37
+  brainwallet:15.85
+  file:10.62
+  safe:9.75
+  coins:9.51
+  strong:9.24
+
+K: 5, Log-Likelihood: -21549.658, Alpha: 11.000, Beta: 1.100

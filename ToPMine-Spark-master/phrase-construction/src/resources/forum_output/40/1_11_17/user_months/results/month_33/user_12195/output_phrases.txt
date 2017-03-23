@@ -1,0 +1,61 @@
+Topic 0:
+  ll:7.56
+  ja:6.88
+  fiat:6.45
+  menetti:6.45
+  hinta:6.45
+  pisteita:6.45
+  eilen tehdyt:6.42
+  sis:6.09
+  kapteeni:5.76
+  aha:5.64
+
+Topic 1:
+  jos:9.92
+  li:9.67
+  kyll:8.65
+  kun:8.48
+  lk olko huolissaan:8.46
+  ongelma:8.13
+  bitcoin:7.60
+  mik:6.43
+  vanha:6.42
+  tilille:5.63
+
+Topic 2:
+  december:8.40
+  ett:7.66
+  deposits:7.42
+  high prices:7.41
+  language german:7.38
+  ytt:6.77
+  deposit:6.39
+  dont:6.32
+  viel:5.59
+  viesti:5.57
+
+Topic 3:
+  silkkitie:17.52
+  perille:9.45
+  ettei:7.47
+  vaikka:7.47
+  kiitos:6.90
+  sr:6.44
+  forbidden:6.44
+  ja:5.96
+  asiasta:5.67
+  kiva jos:5.60
+
+Topic 4:
+  ei:12.96
+  jo:7.52
+  posts:6.43
+  backup:6.43
+  taas:5.62
+  liiku:5.62
+  viivett en:5.57
+  yksityiskohtia:5.57
+  kapteenin:5.57
+  tied:5.57
+
+K: 5, Log-Likelihood: -16346.656, Alpha: 11.000, Beta: 1.100

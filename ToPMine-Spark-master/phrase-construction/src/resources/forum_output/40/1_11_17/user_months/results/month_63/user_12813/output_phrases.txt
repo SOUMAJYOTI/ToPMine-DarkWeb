@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:2.56
+  encourage:1.43
+  speaking:0.58
+  tremendously:0.58
+  fall:0.58
+  young:0.58
+  waived:0.58
+  pretty:0.58
+  main:0.58
+  offer:0.58
+
+Topic 1:
+  vendors:0.69
+  ve:0.58
+  cola:0.58
+  dn:0.56
+  referred:0.56
+  hansa market:0.41
+  encourage:0.31
+  exit:0.31
+  market:0.29
+  paid:0.27
+
+Topic 2:
+  dn:0.57
+  referred:0.57
+  hansa market:0.57
+  cola:0.43
+  ve:0.43
+  exit:0.42
+  vendors:0.37
+  market:0.32
+  meth:0.29
+  mdma:0.29
+
+Topic 3:
+  hansa market:0.65
+  referred:0.59
+  dn:0.58
+  exit:0.50
+  cola:0.37
+  ve:0.37
+  market:0.33
+  provide:0.32
+  customers:0.32
+  dear:0.32
+
+Topic 4:
+  hansa market:0.94
+  exit:0.69
+  market:0.41
+  netherlands:0.41
+  money:0.41
+  learn:0.41
+  scams:0.41
+  provide:0.41
+  dear:0.41
+  agora abraxas:0.41
+
+K: 5, Log-Likelihood: -604.323, Alpha: 11.000, Beta: 1.100

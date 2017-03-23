@@ -1,0 +1,61 @@
+Topic 0:
+  info:7.11
+  nsa:5.32
+  ownership:3.53
+  snail:3.53
+  public:3.53
+  citizen:3.53
+  nice:3.53
+  foia:3.53
+  mail:3.53
+  revealing:3.53
+
+Topic 1:
+  surveillance:5.24
+  data:4.19
+  article:2.51
+  globe:2.50
+  abroad:1.85
+  human rights:1.62
+  mobile:1.38
+  bill:1.35
+  french intelligence agency:1.24
+  program:1.24
+
+Topic 2:
+  surprised:3.67
+  day:3.45
+  tor:3.33
+  law:2.95
+  state encroachment daily affairs:2.53
+  kidding:2.45
+  hell:2.43
+  amazing isnt crypts:2.21
+  zaphodeven:2.21
+  sickening:2.09
+
+Topic 3:
+  zaphod:5.54
+  people:5.45
+  making:5.26
+  illegal push lower radar:4.96
+  data collection uncontrollable cryptography:4.96
+  afraid stopping declaring collection:4.96
+  pgp:4.34
+  encroachment daily affairs:4.33
+  june amquote walter pmim:4.33
+  onion:4.27
+
+Topic 4:
+  surveillance:5.72
+  system:5.48
+  years:5.47
+  mass surveillance:5.35
+  french intelligence agency:5.32
+  abroad:4.71
+  united:3.63
+  states:3.57
+  deciphering:3.55
+  billions:3.55
+
+K: 5, Log-Likelihood: -6700.445, Alpha: 11.000, Beta: 1.100

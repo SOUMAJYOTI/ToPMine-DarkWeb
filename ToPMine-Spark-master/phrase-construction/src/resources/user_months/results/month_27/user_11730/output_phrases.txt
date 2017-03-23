@@ -1,0 +1,56 @@
+Topic 0:
+  product:0.00
+  insidethewhale:0.00
+  redacted:0.00
+  review:0.00
+  service:0.00
+  happy:0.00
+  reddit:0.00
+  gamesome:0.00
+  picture:0.00
+
+Topic 1:
+  product:0.00
+  insidethewhale:0.00
+  redacted:0.00
+  review:0.00
+  service:0.00
+  happy:0.00
+  reddit:0.00
+  gamesome:0.00
+  picture:0.00
+
+Topic 2:
+  product:0.00
+  insidethewhale:0.00
+  redacted:0.00
+  review:0.00
+  service:0.00
+  happy:0.00
+  reddit:0.00
+  gamesome:0.00
+  picture:0.00
+
+Topic 3:
+  product:0.00
+  insidethewhale:0.00
+  redacted:0.00
+  review:0.00
+  service:0.00
+  happy:0.00
+  reddit:0.00
+  gamesome:0.00
+  picture:0.00
+
+Topic 4:
+  product:0.00
+  insidethewhale:0.00
+  redacted:0.00
+  review:0.00
+  service:0.00
+  happy:0.00
+  reddit:0.00
+  gamesome:0.00
+  picture:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  told:3.97
+  ll:3.97
+  talked:3.97
+  product:3.97
+  purchase:3.97
+  worth:3.97
+  amazing vendor:3.97
+  price:3.97
+  send message marketplace:3.24
+  response:2.75
+
+Topic 1:
+  fun:4.05
+  chime:4.05
+  trailsjdsecurity:4.05
+  clean:4.05
+  order:4.05
+  crystal:4.05
+  verify:4.05
+  kick:4.05
+  style:4.05
+  friend:4.05
+
+Topic 2:
+  agora:6.12
+  quote bruce april:4.47
+  marketplacequote:4.02
+  hours:4.02
+  alberthoffman day:4.02
+  days:4.02
+  couple:4.02
+  messages:4.02
+  find:4.02
+  contacts:2.41
+
+Topic 3:
+  gdf fluff:7.47
+  day week:3.66
+  liquid:3.52
+  blue:3.49
+  pmalbert:3.49
+  hold:3.48
+  march:3.43
+  dream:3.42
+  spirits:3.42
+  compared:3.41
+
+Topic 4:
+  albert:5.04
+  math:4.05
+  provide:4.05
+  dosage:4.05
+  measure:4.05
+  paper:4.05
+  equal:4.05
+  doubt:4.05
+  ago:4.05
+  amazing product:4.05
+
+K: 5, Log-Likelihood: -1803.071, Alpha: 11.000, Beta: 1.100

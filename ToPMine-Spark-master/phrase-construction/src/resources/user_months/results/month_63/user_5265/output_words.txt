@@ -1,0 +1,61 @@
+Topic 0:
+  tickets:3.20
+  free:3.04
+  stuff:3.01
+  vendors:2.99
+  proceeds:1.60
+  donate:1.38
+  win:1.24
+  people:1.23
+  lucy:1.23
+  winners:1.22
+
+Topic 1:
+  erowid:1.58
+  maps:1.03
+  tor:0.86
+  address:0.84
+  quote:0.83
+  access:0.70
+  donate:0.69
+  lottery:0.61
+  free:0.49
+  organizations:0.46
+
+Topic 2:
+  erowid:1.63
+  maps:1.07
+  quote:0.83
+  address:0.79
+  tor:0.77
+  donate:0.69
+  access:0.68
+  lottery:0.57
+  otu:0.51
+  bank:0.50
+
+Topic 3:
+  erowid:1.69
+  address:0.88
+  maps:0.87
+  tor:0.84
+  donate:0.80
+  quote:0.74
+  free:0.67
+  lottery:0.65
+  access:0.63
+  proceeds:0.45
+
+Topic 4:
+  erowid:1.47
+  member:0.94
+  quote:0.89
+  tor:0.87
+  address:0.86
+  access:0.81
+  maps:0.69
+  usa:0.69
+  obvious:0.68
+  idea:0.68
+
+K: 5, Log-Likelihood: -880.309, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:2.70
+  scripts enabled:1.23
+  abandoned:1.23
+  interest:1.23
+  bitcoin:1.23
+  integreated:1.23
+  time:1.23
+  exceeded:1.23
+  requires:1.23
+  super:1.22
+
+Topic 1:
+  java:4.98
+  script:3.28
+  completely:3.28
+  dont:1.62
+  case:1.58
+  disable:1.58
+  flash:1.58
+  parser:1.58
+  loads:1.58
+  happen:1.58
+
+Topic 2:
+  enabled false js isnt:1.59
+  forget type config javascript:1.58
+  quote herbanlegends april pmdont:1.58
+  fully disabled noscripts running:1.57
+  set javascript:1.57
+  blockchain:1.40
+  websites:1.11
+  websitei:1.11
+  info:1.11
+  provided:1.11
+
+Topic 3:
+  blockchain:1.70
+  thing:1.10
+  onion:1.09
+  set javascript:0.92
+  fully disabled noscripts running:0.92
+  quote herbanlegends april pmdont:0.91
+  enabled false js isnt:0.89
+  forget type config javascript:0.83
+  electrum:0.58
+  big:0.50
+
+Topic 4:
+  scripts:3.56
+  setting:2.16
+  set:2.16
+  save:2.16
+  find:2.16
+  forbid:2.16
+  click:2.16
+  bind:2.16
+  browser:2.16
+  stone:2.16
+
+K: 5, Log-Likelihood: -891.877, Alpha: 11.000, Beta: 1.100

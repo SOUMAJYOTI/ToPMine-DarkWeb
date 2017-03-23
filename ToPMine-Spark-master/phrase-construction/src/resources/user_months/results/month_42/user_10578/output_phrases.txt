@@ -1,0 +1,61 @@
+Topic 0:
+  post:2.04
+  zhfhohgt:1.58
+  vldykzfvtnrttdqhc:1.58
+  wpsxqyv:1.58
+  hgz:1.58
+  ufbmq:1.58
+  living:1.58
+  jciwcdmkczw:1.58
+  wp:1.58
+  luse:1.58
+
+Topic 1:
+  venue:6.38
+  myoldfriend:5.80
+  forum:5.64
+  signing:5.28
+  talking friend:4.79
+  encrypted public key:4.76
+  gpg key:4.67
+  create account:4.48
+  public key:4.38
+  metadata:4.15
+
+Topic 2:
+  airgapped:1.69
+  machine:1.47
+  transfer:1.47
+  practice:1.47
+  buying:1.47
+  drugs:1.47
+  people pgp:1.47
+  markets:1.47
+  map accounts free create:1.40
+  forum accounts free create:1.40
+
+Topic 3:
+  march:4.66
+  good idea:4.66
+  quote:4.12
+  agreed:4.12
+  party:3.17
+  quietforest:3.17
+  laptop:2.91
+  ross:2.28
+  pmexcellent:1.97
+  upload:1.97
+
+Topic 4:
+  message:4.30
+  signing:4.28
+  public key:3.97
+  forum:3.92
+  myoldfriend:3.76
+  brute force:3.64
+  key:3.20
+  venue:3.18
+  metadata:3.00
+  diceware:2.87
+
+K: 5, Log-Likelihood: -5818.366, Alpha: 11.000, Beta: 1.100

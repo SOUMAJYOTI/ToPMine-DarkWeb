@@ -1,0 +1,61 @@
+Topic 0:
+  safe:3.24
+  bitcoin:2.64
+  identification:1.41
+  purchases:1.41
+  hosted:1.40
+  running:1.40
+  site:1.40
+  private:1.38
+  purchase:1.38
+  minimum:1.38
+
+Topic 1:
+  safe:1.72
+  poker:1.42
+  country:1.41
+  bitcoin:1.32
+  deposit:1.31
+  identification:1.26
+  wig:1.22
+  blond:1.21
+  wallet:1.17
+  require:1.13
+
+Topic 2:
+  require:2.39
+  bitcoin:1.99
+  stealth:1.26
+  wallet:1.23
+  atms:1.10
+  moment:0.86
+  code:0.86
+  fucking:0.86
+  confirmation:0.86
+  cell:0.86
+
+Topic 3:
+  require:1.51
+  bitcoin:1.21
+  stealth:1.02
+  atms:0.98
+  country:0.96
+  poker:0.95
+  deposit:0.93
+  atm:0.83
+  wallet:0.81
+  dont:0.78
+
+Topic 4:
+  cameras:1.37
+  dont:1.33
+  atms:1.14
+  withdraw:1.05
+  bet:1.05
+  safest:1.05
+  kicks:1.04
+  trail:1.04
+  great:1.04
+  play:1.04
+
+K: 5, Log-Likelihood: -1002.014, Alpha: 11.000, Beta: 1.100

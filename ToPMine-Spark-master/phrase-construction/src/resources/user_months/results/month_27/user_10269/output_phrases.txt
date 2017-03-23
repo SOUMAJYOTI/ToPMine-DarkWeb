@@ -1,0 +1,61 @@
+Topic 0:
+  dox:0.95
+  care:0.75
+  left:0.72
+  clu:0.72
+  sr:0.64
+  dont:0.61
+  single:0.60
+  listed:0.60
+  darknet:0.59
+  correct:0.59
+
+Topic 1:
+  dox:0.91
+  sr:0.76
+  clu:0.76
+  care:0.76
+  wierd:0.75
+  left:0.75
+  happening:0.75
+  shit:0.75
+  comprehensive:0.75
+  copy:0.74
+
+Topic 2:
+  killing:1.54
+  confused:1.54
+  heart:1.53
+  place:1.53
+  dude:1.53
+  supposedly:1.53
+  btc:1.53
+  stealing:1.53
+  laundering:1.53
+  surprised:1.53
+
+Topic 3:
+  half:1.46
+  btctumbler:1.45
+  running half:1.45
+  recall:1.45
+  sites:1.44
+  running:1.44
+  wrote:1.43
+  list:1.43
+  included:1.43
+  internet:1.43
+
+Topic 4:
+  dev:3.19
+  team:3.19
+  didnt:1.95
+  ship:1.50
+  started:1.50
+  yikes:1.50
+  alll:1.50
+  reckon:1.50
+  er:1.50
+  yeah:1.50
+
+K: 5, Log-Likelihood: -945.530, Alpha: 11.000, Beta: 1.100

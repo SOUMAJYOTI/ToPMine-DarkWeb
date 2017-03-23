@@ -1,0 +1,61 @@
+Topic 0:
+  bit:0.65
+  server:0.52
+  virtual:0.37
+  web:0.37
+  grsec:0.37
+  dont:0.37
+  isolation:0.37
+  compromise:0.36
+  nice:0.22
+  point:0.22
+
+Topic 1:
+  server:0.62
+  bit:0.58
+  isolation:0.41
+  dont:0.41
+  compromise:0.41
+  grsec:0.40
+  web:0.40
+  virtual:0.40
+  data:0.20
+  paid:0.20
+
+Topic 2:
+  bit:0.59
+  server:0.58
+  dont:0.41
+  web:0.41
+  grsec:0.41
+  isolation:0.40
+  compromise:0.40
+  virtual:0.40
+  harden:0.20
+  inside:0.20
+
+Topic 3:
+  server:0.74
+  bit:0.49
+  compromise:0.47
+  grsec:0.46
+  web:0.46
+  virtual:0.46
+  isolation:0.45
+  dont:0.45
+  lightweight:0.22
+  pay:0.22
+
+Topic 4:
+  bit:0.69
+  server:0.53
+  virtual:0.37
+  dont:0.37
+  isolation:0.37
+  grsec:0.37
+  web:0.36
+  compromise:0.36
+  decided:0.22
+  posts:0.22
+
+K: 5, Log-Likelihood: -246.297, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  flawed:0.28
+  weekly:0.27
+  traffic:0.27
+  daily:0.27
+  buyers:0.14
+  services:0.14
+  agra:0.14
+  counterfeits:0.14
+  easy:0.14
+  tobacco:0.14
+
+Topic 1:
+  daily:0.28
+  traffic:0.28
+  weekly:0.28
+  flawed:0.28
+  stats:0.14
+  posted:0.14
+  dont:0.14
+  reading:0.14
+  post:0.14
+  popular:0.14
+
+Topic 2:
+  weekly:0.28
+  traffic:0.28
+  daily:0.28
+  flawed:0.28
+  stats:0.14
+  dont:0.14
+  understand:0.14
+  popular:0.14
+  reading:0.14
+  receiving:0.14
+
+Topic 3:
+  flawed:0.28
+  weekly:0.27
+  traffic:0.27
+  daily:0.27
+  security:0.14
+  making:0.14
+  check:0.14
+  electronics:0.14
+  jewelry:0.14
+  spentagora:0.14
+
+Topic 4:
+  traffic:0.28
+  daily:0.28
+  weekly:0.28
+  flawed:0.28
+  smallest:0.14
+  quoted:0.14
+  endor:0.14
+  support:0.14
+  figures:0.14
+  reading:0.14
+
+K: 5, Log-Likelihood: -186.119, Alpha: 11.000, Beta: 1.100

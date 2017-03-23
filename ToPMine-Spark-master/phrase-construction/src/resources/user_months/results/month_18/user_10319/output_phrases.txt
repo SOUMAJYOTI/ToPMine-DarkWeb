@@ -1,0 +1,61 @@
+Topic 0:
+  oracle:1.11
+  article:0.68
+  shit:0.67
+  wanted:0.33
+  oracles:0.33
+  folks:0.33
+  intention:0.33
+  long:0.33
+  endorsed:0.32
+  minutes:0.32
+
+Topic 1:
+  silkroad:1.62
+  post:1.59
+  silk road:1.44
+  posted:1.19
+  forum:0.98
+  stexo october:0.79
+  marketplace:0.78
+  le:0.78
+  discussion:0.75
+  join silkroad reasons whypost:0.72
+
+Topic 2:
+  silk road:0.57
+  post:0.55
+  silkroad:0.50
+  forum:0.48
+  posted:0.47
+  le:0.39
+  stexo october:0.39
+  oracle:0.39
+  discussion:0.39
+  marketplace:0.37
+
+Topic 3:
+  silk road:4.08
+  silkroad:3.10
+  post:3.08
+  forum:1.94
+  posted:1.74
+  join silkroad reasons whypost:1.44
+  discussion:1.38
+  marketplace:1.36
+  le:1.34
+  stexo october:1.33
+
+Topic 4:
+  scammed:1.71
+  shit:0.98
+  article:0.98
+  motive:0.80
+  vent:0.80
+  man:0.80
+  bro:0.80
+  raising:0.80
+  respectfully:0.80
+  super:0.80
+
+K: 5, Log-Likelihood: -2348.541, Alpha: 11.000, Beta: 1.100

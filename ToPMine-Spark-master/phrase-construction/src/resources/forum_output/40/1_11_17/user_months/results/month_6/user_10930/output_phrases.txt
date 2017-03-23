@@ -1,0 +1,61 @@
+Topic 0:
+  python:0.41
+  config main:0.24
+  wxversion:0.16
+  directory:0.16
+  tails:0.16
+  limited:0.16
+  resolve:0.08
+  dependencies:0.08
+  find:0.08
+  call:0.08
+
+Topic 1:
+  python:0.40
+  config main:0.24
+  limited:0.16
+  tails:0.16
+  wxversion:0.16
+  directory:0.16
+  burning:0.08
+  idea:0.08
+  loaded:0.08
+  launch:0.08
+
+Topic 2:
+  python:0.40
+  config main:0.24
+  limited:0.16
+  tails:0.16
+  directory:0.16
+  wxversion:0.16
+  achieve:0.08
+  technology:0.08
+  successful:0.08
+  copying:0.08
+
+Topic 3:
+  python:0.42
+  config main:0.24
+  directory:0.16
+  wxversion:0.16
+  tails:0.16
+  limited:0.16
+  lib:0.08
+  output:0.08
+  importerror:0.08
+  gcc:0.08
+
+Topic 4:
+  python:0.40
+  config main:0.24
+  tails:0.16
+  limited:0.16
+  directory:0.16
+  wxversion:0.16
+  dont:0.08
+  successful:0.08
+  include:0.08
+  files:0.08
+
+K: 5, Log-Likelihood: -135.451, Alpha: 11.000, Beta: 1.100

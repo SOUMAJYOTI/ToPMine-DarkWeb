@@ -1,0 +1,61 @@
+Topic 0:
+  cert:4.12
+  certs:4.12
+  swedish vpn services:4.11
+  quote zaphod december:3.75
+  traffic:3.56
+  vpn:2.76
+  bandwidth:2.19
+  left:2.19
+  project:2.19
+  sort:2.19
+
+Topic 1:
+  logs:2.61
+  speaking:2.02
+  frootvpn long:2.02
+  sweden:2.02
+  services generally:2.02
+  distance:2.02
+  shadowcrew:2.02
+  trust free:2.02
+  obligations:2.02
+  arms:2.02
+
+Topic 2:
+  isp:4.31
+  control data:4.12
+  html:4.07
+  encrypted destination:4.07
+  encryption:4.01
+  traffic heck clearnet communications:3.31
+  vpns logs ip:3.31
+  logs vpns isp:3.31
+  proven crackle rogue cert:3.31
+  connecting vpn server check:3.31
+
+Topic 3:
+  dont:6.99
+  tor:6.91
+  le:6.81
+  good:6.62
+  hidden services:5.75
+  hide tor:5.52
+  russia:4.97
+  directly vpn:4.97
+  vpn ip:4.13
+  opposed:4.13
+
+Topic 4:
+  vpn server:10.00
+  hidden service:10.00
+  tor exit node:10.00
+  quote canahontra december:9.68
+  tor:9.14
+  evidence:6.78
+  easy crack:6.65
+  tor network:6.65
+  vpon tor:6.65
+  data transmitting:6.65
+
+K: 5, Log-Likelihood: -11239.866, Alpha: 11.000, Beta: 1.100

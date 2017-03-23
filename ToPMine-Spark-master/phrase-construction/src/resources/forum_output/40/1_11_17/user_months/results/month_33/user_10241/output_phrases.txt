@@ -1,0 +1,61 @@
+Topic 0:
+  forum:3.67
+  account:3.67
+  market:2.38
+  register:1.99
+  kinda:1.80
+  spam:1.80
+  identical:1.80
+  register markets:1.80
+  things:1.80
+  system:1.80
+
+Topic 1:
+  december:4.20
+  request:3.66
+  evolutions heard dreammarket:2.73
+  haunt:2.66
+  hermes:2.65
+  ill:2.65
+  check:2.65
+  amthats:2.65
+  heard dreammarket:2.65
+  quote:1.87
+
+Topic 2:
+  issues:3.67
+  abraham:2.50
+  good:2.49
+  admin:1.80
+  remain:1.80
+  tested:1.80
+  downtime:1.80
+  changed:1.80
+  small:1.80
+  couple:1.80
+
+Topic 3:
+  agora:2.71
+  trusted:2.66
+  association:2.66
+  explain:2.66
+  javascript:2.66
+  rid:2.66
+  invite:1.72
+  open:1.72
+  seized:1.72
+  case:1.72
+
+Topic 4:
+  market:2.78
+  button:2.78
+  folks:2.78
+  datathis:2.78
+  reasons:2.78
+  browser:2.78
+  le:2.78
+  swam:2.78
+  warning:2.78
+  button listings:2.78
+
+K: 5, Log-Likelihood: -1559.723, Alpha: 11.000, Beta: 1.100

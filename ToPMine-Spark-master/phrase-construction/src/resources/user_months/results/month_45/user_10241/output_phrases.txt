@@ -1,0 +1,61 @@
+Topic 0:
+  abraxas forums:0.34
+  check forums member:0.23
+  share:0.14
+  demise:0.14
+  agoras:0.14
+  time:0.14
+  grown:0.14
+  evo:0.14
+  lookif:0.14
+  worth:0.14
+
+Topic 1:
+  abraxas forums:0.35
+  check forums member:0.23
+  onioncola march pmquote:0.14
+  true:0.14
+  evo:0.14
+  grown:0.14
+  time:0.14
+  worth:0.14
+  lookif:0.14
+  agoras:0.14
+
+Topic 2:
+  abraxas forums:0.35
+  check forums member:0.23
+  true:0.14
+  onioncola march pmquote:0.14
+  abraxas market:0.14
+  worth:0.14
+  grown:0.14
+  time:0.14
+  evo:0.14
+  lookif:0.14
+
+Topic 3:
+  abraxas forums:0.34
+  check forums member:0.23
+  agoras:0.14
+  share:0.14
+  evo:0.14
+  grown:0.14
+  demise:0.14
+  lookif:0.14
+  worth:0.14
+  abraxas market:0.14
+
+Topic 4:
+  abraxas forums:0.34
+  check forums member:0.23
+  abraxas market:0.14
+  lookif:0.14
+  demise:0.14
+  worth:0.14
+  time:0.14
+  evo:0.14
+  agoras:0.14
+  share:0.14
+
+K: 5, Log-Likelihood: -119.382, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tmg:18.98
+  vendors:15.43
+  guess:14.08
+  shops:12.65
+  weed enemies:12.65
+  move:12.65
+  ag:12.65
+  general public:12.65
+  buyers vendors:12.63
+  sites:11.69
+
+Topic 1:
+  drugs:30.93
+  lsd:24.12
+  abused:18.98
+  website:18.98
+  society:18.98
+  don lsd:17.84
+  drug:16.48
+  bad:13.31
+  people:12.91
+  pleasure:12.65
+
+Topic 2:
+  tor:25.23
+  yeah:18.97
+  work:17.03
+  vendor:15.91
+  good:15.27
+  le:14.14
+  vendors:14.04
+  wait:12.64
+  packages:12.64
+  start:12.64
+
+Topic 3:
+  time:14.31
+  law:12.65
+  servers:12.64
+  agora evo:11.38
+  perhapsforce settings firefox:10.26
+  stay safe:8.64
+  google account tor:8.49
+  vendors:7.44
+  money:7.07
+  prepare:6.32
+
+Topic 4:
+  allot:18.98
+  people:15.33
+  web link:12.65
+  grandparents:12.65
+  dunno:12.65
+  founded:12.61
+  trusted vendors:12.61
+  post:12.39
+  led:10.89
+  ways:10.60
+
+K: 5, Log-Likelihood: -85025.588, Alpha: 11.000, Beta: 1.100

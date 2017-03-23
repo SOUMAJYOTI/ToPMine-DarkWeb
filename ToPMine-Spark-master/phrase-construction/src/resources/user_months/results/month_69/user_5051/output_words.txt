@@ -1,0 +1,61 @@
+Topic 0:
+  functions:2.81
+  site:2.20
+  withdrawals:1.08
+  market:1.07
+  life:1.07
+  eic:1.05
+  working:1.05
+  admins:1.03
+  proceed:0.77
+  responsive:0.77
+
+Topic 1:
+  site:1.74
+  explanation:1.43
+  left:1.35
+  strong:1.26
+  vendors:1.21
+  buyers:1.21
+  pops:1.21
+  bulk:1.21
+  helm:1.17
+  le:1.17
+
+Topic 2:
+  explanation:1.89
+  left:1.66
+  risk:1.55
+  days:1.54
+  greatest:1.51
+  log:1.51
+  possibility:1.49
+  vendors:1.49
+  helm:1.46
+  bulk:1.45
+
+Topic 3:
+  site:2.11
+  functions:1.22
+  explanation:0.94
+  left:0.83
+  working:0.70
+  admins:0.69
+  eic:0.68
+  market:0.68
+  life:0.68
+  withdrawals:0.67
+
+Topic 4:
+  site:1.65
+  functions:1.34
+  explanation:1.07
+  popcorn:0.93
+  admins:0.71
+  eic:0.70
+  life:0.69
+  working:0.67
+  market:0.67
+  withdrawals:0.67
+
+K: 5, Log-Likelihood: -943.886, Alpha: 11.000, Beta: 1.100

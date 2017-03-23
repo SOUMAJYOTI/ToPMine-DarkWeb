@@ -1,0 +1,61 @@
+Topic 0:
+  kernel:0.62
+  unshakable:0.62
+  things:0.40
+  isolation:0.40
+  layer:0.40
+  row:0.40
+  applications:0.40
+  hypervisor:0.40
+  bit:0.40
+  scale:0.20
+
+Topic 1:
+  unshakable:0.62
+  kernel:0.59
+  layer:0.40
+  bit:0.40
+  row:0.40
+  hypervisor:0.40
+  things:0.40
+  isolation:0.40
+  applications:0.40
+  dont:0.20
+
+Topic 2:
+  kernel:0.59
+  unshakable:0.58
+  hypervisor:0.40
+  applications:0.40
+  row:0.40
+  bit:0.40
+  isolation:0.40
+  things:0.40
+  layer:0.40
+  sensing:0.20
+
+Topic 3:
+  kernel:0.61
+  unshakable:0.59
+  isolation:0.40
+  applications:0.40
+  hypervisor:0.40
+  things:0.40
+  bit:0.40
+  layer:0.40
+  row:0.40
+  developed:0.20
+
+Topic 4:
+  kernel:0.59
+  unshakable:0.58
+  layer:0.40
+  bit:0.40
+  row:0.40
+  things:0.40
+  applications:0.40
+  hypervisor:0.40
+  isolation:0.40
+  safety:0.20
+
+K: 5, Log-Likelihood: -308.167, Alpha: 11.000, Beta: 1.100

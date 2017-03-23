@@ -1,0 +1,61 @@
+Topic 0:
+  great:7.94
+  august:7.55
+  boogie:5.59
+  find:5.29
+  promise:5.13
+  friend:4.87
+  stuff:4.54
+  true:4.54
+  girlfriend:4.54
+  cool:4.54
+
+Topic 1:
+  evolution:8.20
+  starred:5.36
+  folder:5.36
+  message:5.36
+  star:5.36
+  tub:5.33
+  design:5.33
+  left:4.64
+  darknet:4.54
+  situation:4.54
+
+Topic 2:
+  prediction:12.77
+  contest:9.55
+  sept final:8.10
+  predictions:8.10
+  theme:8.08
+  notice:8.08
+  questions:5.62
+  determined:5.39
+  allowed:5.39
+  prize:5.39
+
+Topic 3:
+  market:10.24
+  post:8.61
+  markets:6.07
+  top:5.99
+  sounds great:5.75
+  people troll tags participate:5.75
+  secured:5.38
+  biggest:5.38
+  security:5.38
+  asked:5.38
+
+Topic 4:
+  forum:4.52
+  check:4.52
+  dark:4.52
+  join:4.51
+  multisig:4.45
+  escrow sr:4.45
+  long:3.06
+  hope:2.89
+  luck:2.64
+  follow:2.64
+
+K: 5, Log-Likelihood: -10401.565, Alpha: 11.000, Beta: 1.100

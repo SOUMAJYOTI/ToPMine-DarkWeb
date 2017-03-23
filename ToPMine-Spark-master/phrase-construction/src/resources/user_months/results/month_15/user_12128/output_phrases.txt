@@ -1,0 +1,61 @@
+Topic 0:
+  methods:0.16
+  richard:0.08
+  post:0.08
+  richardmost:0.08
+  find:0.08
+  rewarding:0.08
+  carders:0.08
+  quote:0.08
+  amhello:0.08
+  absolute:0.08
+
+Topic 1:
+  methods:0.16
+  richard:0.08
+  people:0.08
+  putting:0.08
+  days:0.08
+  amhello:0.08
+  advanced:0.08
+  quote:0.08
+  rewarding:0.08
+  richardblanchard:0.08
+
+Topic 2:
+  methods:0.16
+  find:0.08
+  hoped:0.08
+  rewarding:0.08
+  putting:0.08
+  forum:0.08
+  free:0.08
+  carders:0.08
+  people:0.08
+  absolute:0.08
+
+Topic 3:
+  methods:0.16
+  richard:0.08
+  richardblanchard:0.08
+  free:0.08
+  quote:0.08
+  forum:0.08
+  richardmost:0.08
+  absolute:0.08
+  people:0.08
+  amhello:0.08
+
+Topic 4:
+  methods:0.16
+  richard:0.08
+  advanced:0.08
+  days:0.08
+  hoped:0.08
+  carders:0.08
+  free:0.08
+  amhello:0.08
+  forum:0.08
+  post:0.08
+
+K: 5, Log-Likelihood: -25.913, Alpha: 11.000, Beta: 1.100

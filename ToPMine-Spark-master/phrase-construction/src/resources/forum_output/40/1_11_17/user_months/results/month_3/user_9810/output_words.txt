@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.16
+  boss:1.13
+  customers:0.62
+  pandora:0.62
+  bring:0.61
+  fees:0.61
+  man:0.54
+  good:0.53
+  combination:0.46
+  budcentral:0.46
+
+Topic 1:
+  market:1.15
+  boss:1.02
+  pandora:0.67
+  customers:0.67
+  fees:0.66
+  bring:0.66
+  good:0.53
+  man:0.51
+  weed:0.47
+  things:0.42
+
+Topic 2:
+  market:1.25
+  boss:1.15
+  customers:0.74
+  fees:0.73
+  pandora:0.73
+  bring:0.72
+  weed:0.52
+  good:0.46
+  man:0.45
+  things:0.44
+
+Topic 3:
+  boss:0.84
+  man:0.82
+  good:0.80
+  market:0.64
+  quote:0.57
+  hooray:0.56
+  regret:0.56
+  sooner:0.56
+  deposit:0.56
+  checked:0.56
+
+Topic 4:
+  boss:0.87
+  market:0.80
+  good:0.69
+  man:0.68
+  bring:0.55
+  fees:0.54
+  pandora:0.53
+  customers:0.52
+  arriving:0.47
+  april:0.46
+
+K: 5, Log-Likelihood: -470.187, Alpha: 11.000, Beta: 1.100

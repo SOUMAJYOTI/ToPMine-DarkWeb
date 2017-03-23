@@ -1,0 +1,61 @@
+Topic 0:
+  quote:5.73
+  october:5.63
+  solution:3.54
+  malware:3.52
+  ship:3.50
+  don:3.48
+  worse:3.45
+  tor:3.44
+  spying:3.42
+  trust:3.41
+
+Topic 1:
+  bios:18.57
+  system:14.02
+  computer:8.73
+  flash:7.36
+  owned:5.93
+  firmware:5.14
+  mode:4.17
+  bad:3.98
+  write:3.93
+  instructions:3.93
+
+Topic 2:
+  people:17.29
+  government:8.95
+  understand:5.07
+  deep:4.37
+  fighting:3.92
+  revolution:3.92
+  lazy:3.92
+  case:3.91
+  revolt:3.91
+  sense:3.90
+
+Topic 3:
+  bios:10.97
+  software:8.03
+  hardware:4.11
+  free:4.00
+  thing:3.93
+  happen:3.93
+  infector:3.78
+  october:3.20
+  quote:3.16
+  info:2.70
+
+Topic 4:
+  privacy:6.08
+  suppose:5.95
+  nsa:4.89
+  thought:4.43
+  drug:3.99
+  guy:3.95
+  transparency:3.95
+  humans:3.95
+  org:3.44
+  security:3.24
+
+K: 5, Log-Likelihood: -6528.367, Alpha: 11.000, Beta: 1.100

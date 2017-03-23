@@ -1,0 +1,61 @@
+Topic 0:
+  married:10.09
+  love:3.60
+  wife:1.86
+  dont:1.82
+  people:1.63
+  marry:1.55
+  antifeminist:1.33
+  women:1.32
+  joke:1.09
+  point:1.06
+
+Topic 1:
+  ideas:3.93
+  provide:3.93
+  sounds:3.30
+  feminists:3.13
+  op:2.74
+  happen:2.72
+  robot:2.17
+  lot:2.12
+  consciousness:2.05
+  ways:2.05
+
+Topic 2:
+  women:18.69
+  marriage:13.69
+  fuck:13.02
+  men:10.41
+  wife:6.34
+  feminism:6.33
+  sex:6.06
+  worldwide:5.91
+  power:5.91
+  technologies:5.91
+
+Topic 3:
+  married:9.57
+  people:9.45
+  dont:6.43
+  don:5.19
+  love:4.33
+  agree:3.90
+  lawyers:3.09
+  meet:2.65
+  benefits:1.94
+  children:1.94
+
+Topic 4:
+  pretty:7.77
+  wrong:4.37
+  lie:3.90
+  experience:3.90
+  dropped:3.90
+  loved:3.90
+  friends:3.90
+  soul:3.78
+  lot:3.61
+  legally:3.11
+
+K: 5, Log-Likelihood: -4265.796, Alpha: 11.000, Beta: 1.100

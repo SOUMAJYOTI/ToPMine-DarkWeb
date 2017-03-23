@@ -1,0 +1,61 @@
+Topic 0:
+  time:2.63
+  key:2.03
+  pgp:1.89
+  market:1.80
+  money:1.75
+  require:1.48
+  case:1.35
+  orders:1.31
+  agora:1.25
+  resources:1.25
+
+Topic 1:
+  time:4.79
+  key:3.16
+  solution:3.15
+  pgp:2.68
+  market:2.27
+  money:2.20
+  orders:2.17
+  signature:1.90
+  resources:1.83
+  require:1.80
+
+Topic 2:
+  time:6.49
+  pgp:4.93
+  key:4.29
+  orders:4.09
+  solution:3.26
+  signature:2.73
+  case:2.52
+  resources:2.51
+  require:2.31
+  market:2.04
+
+Topic 3:
+  return:7.28
+  market:5.39
+  agora:4.68
+  accounts:3.97
+  admin:3.94
+  thing:3.94
+  agra:3.93
+  lea:3.93
+  users:3.69
+  blame:2.95
+
+Topic 4:
+  market:2.51
+  agora:1.70
+  users:1.69
+  time:0.95
+  money:0.83
+  temporary:0.66
+  future:0.66
+  accounts:0.65
+  decided:0.64
+  involved:0.63
+
+K: 5, Log-Likelihood: -9105.216, Alpha: 11.000, Beta: 1.100

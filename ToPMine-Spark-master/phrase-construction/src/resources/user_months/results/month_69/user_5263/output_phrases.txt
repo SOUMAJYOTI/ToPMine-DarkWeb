@@ -1,0 +1,61 @@
+Topic 0:
+  court documents:6.85
+  law enforcement:5.28
+  forensics:5.14
+  canadian:4.99
+  device:4.89
+  secure:3.43
+  rcmp:3.37
+  drug trafficking case:3.36
+  messages:3.36
+  december:3.33
+
+Topic 1:
+  address:1.13
+  called pgptools works:1.00
+  generating key tool apps:0.99
+  court documents:0.85
+  pip:0.81
+  canadian:0.79
+  forensics:0.74
+  law enforcement:0.73
+  media relations officer:0.68
+  device:0.67
+
+Topic 2:
+  fa:4.21
+  system:3.50
+  string:3.50
+  random:3.50
+  pgp key:2.66
+  turn:2.55
+  confused:2.48
+  nucleus:2.48
+  result:1.71
+  paste:1.71
+
+Topic 3:
+  court documents:3.10
+  device:2.52
+  canadian:2.29
+  forensics:2.23
+  law enforcement:2.06
+  device protected:2.02
+  encryption:1.88
+  media relations officer:1.85
+  crime news:1.64
+  techniques:1.61
+
+Topic 4:
+  darknet:1.96
+  accessing:1.91
+  iphone:1.58
+  web:1.46
+  deep:1.44
+  account:1.35
+  orders:1.22
+  placing:1.22
+  plan:1.22
+  encourage:1.22
+
+K: 5, Log-Likelihood: -4098.888, Alpha: 11.000, Beta: 1.100

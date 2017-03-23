@@ -1,0 +1,61 @@
+Topic 0:
+  address:0.41
+  account:0.40
+  support:0.40
+  order:0.20
+  scamp:0.20
+  carefully:0.20
+  avoiding:0.20
+  coins:0.20
+  inactive:0.20
+  paid:0.20
+
+Topic 1:
+  support:0.40
+  account:0.40
+  address:0.40
+  settings:0.20
+  system:0.20
+  idea:0.20
+  kicked:0.20
+  data:0.20
+  bucket:0.20
+  achieve:0.20
+
+Topic 2:
+  address:0.40
+  account:0.40
+  support:0.40
+  carefully:0.20
+  association:0.20
+  days:0.20
+  heywarning:0.20
+  coins:0.20
+  avoiding:0.20
+  ultimatum:0.20
+
+Topic 3:
+  support:0.40
+  account:0.40
+  address:0.40
+  achieve:0.20
+  bucket:0.20
+  idea:0.20
+  system:0.20
+  kicked:0.20
+  settings:0.20
+  data:0.20
+
+Topic 4:
+  account:0.40
+  support:0.40
+  address:0.40
+  achieve:0.20
+  kicked:0.20
+  idea:0.20
+  data:0.20
+  bucket:0.20
+  system:0.20
+  settings:0.20
+
+K: 5, Log-Likelihood: -106.823, Alpha: 11.000, Beta: 1.100

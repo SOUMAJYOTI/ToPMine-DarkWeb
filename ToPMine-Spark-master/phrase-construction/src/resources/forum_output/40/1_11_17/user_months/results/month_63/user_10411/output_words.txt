@@ -1,0 +1,61 @@
+Topic 0:
+  xen:9.96
+  bug:8.96
+  vulnerability:6.96
+  project:4.98
+  system:4.96
+  operating:4.96
+  systems:3.96
+  guests:3.96
+  hypervisor:3.96
+  services:3.27
+
+Topic 1:
+  tor:16.07
+  mellon:11.04
+  carnegie:6.31
+  attack:4.79
+  users:4.64
+  fbi:4.27
+  dingledine:3.07
+  enforcement:2.92
+  law:2.91
+  network:2.77
+
+Topic 2:
+  dont:3.90
+  quote:2.40
+  nice:2.25
+  quick:1.94
+  mate:1.94
+  aethon:1.94
+  tubes:1.91
+  answer:1.86
+  wait:1.86
+  october:0.97
+
+Topic 3:
+  tor:9.46
+  attack:4.18
+  dingledine:3.90
+  users:3.20
+  carnegie:2.93
+  mellon:2.51
+  project:2.35
+  security:2.35
+  paid:2.17
+  law:2.05
+
+Topic 4:
+  users:5.11
+  november:3.65
+  goal:3.55
+  amount:3.51
+  drug:3.30
+  pm:2.64
+  general:2.62
+  hours:2.62
+  mkt:2.61
+  deanonymise:2.61
+
+K: 5, Log-Likelihood: -4377.211, Alpha: 11.000, Beta: 1.100

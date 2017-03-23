@@ -1,0 +1,61 @@
+Topic 0:
+  big:0.81
+  find:0.60
+  dont:0.60
+  characters:0.58
+  font:0.41
+  parody:0.40
+  agora:0.40
+  satire:0.40
+  potential:0.40
+  hate:0.20
+
+Topic 1:
+  big:0.88
+  characters:0.65
+  find:0.63
+  dont:0.61
+  font:0.46
+  parody:0.37
+  potential:0.37
+  satire:0.37
+  agora:0.37
+  posts:0.21
+
+Topic 2:
+  big:0.76
+  dont:0.61
+  find:0.60
+  characters:0.58
+  potential:0.42
+  agora:0.42
+  parody:0.41
+  satire:0.41
+  font:0.37
+  create:0.20
+
+Topic 3:
+  big:0.76
+  characters:0.61
+  dont:0.61
+  find:0.59
+  satire:0.41
+  potential:0.41
+  parody:0.41
+  agora:0.41
+  font:0.38
+  trolls:0.20
+
+Topic 4:
+  big:0.79
+  characters:0.59
+  find:0.59
+  dont:0.57
+  agora:0.41
+  parody:0.41
+  satire:0.41
+  potential:0.41
+  font:0.37
+  beg:0.20
+
+K: 5, Log-Likelihood: -276.491, Alpha: 11.000, Beta: 1.100

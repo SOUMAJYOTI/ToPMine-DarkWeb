@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.29
+  company:1.17
+  east:1.04
+  india:0.66
+  avengers:0.56
+  love:0.55
+  dont:0.42
+  lot:0.42
+  indian:0.41
+  established:0.41
+
+Topic 1:
+  market:0.82
+  company:0.78
+  east:0.77
+  love:0.59
+  avengers:0.59
+  mate:0.52
+  reason:0.52
+  favourable:0.52
+  advice:0.52
+  check:0.52
+
+Topic 2:
+  east:1.24
+  company:1.17
+  market:1.06
+  india:0.63
+  love:0.63
+  avengers:0.61
+  don:0.45
+  markets:0.44
+  nucleus:0.44
+  established:0.44
+
+Topic 3:
+  market:0.86
+  company:0.82
+  east:0.80
+  avengers:0.61
+  love:0.60
+  india:0.53
+  review:0.50
+  thought:0.49
+  eic:0.49
+  check:0.49
+
+Topic 4:
+  east:1.15
+  company:1.06
+  market:0.97
+  india:0.66
+  avengers:0.63
+  love:0.63
+  don:0.44
+  current:0.44
+  indian:0.44
+  established:0.44
+
+K: 5, Log-Likelihood: -242.329, Alpha: 11.000, Beta: 1.100

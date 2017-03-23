@@ -1,0 +1,61 @@
+Topic 0:
+  tutkivat:0.48
+  kytti:0.48
+  voisi:0.48
+  ne:0.47
+  mit:0.47
+  eat:0.47
+  ja:0.33
+  jos joku:0.26
+  kolehdin:0.24
+  parempaa:0.24
+
+Topic 1:
+  varmaan:0.95
+  ett:0.39
+  visiiteist:0.39
+  tiet:0.39
+  gutta:0.39
+  smitten:0.39
+  edes:0.39
+  ilmoittele:0.38
+  siin:0.38
+  quote:0.38
+
+Topic 2:
+  eat:0.94
+  mit:0.93
+  ne:0.93
+  voisi:0.92
+  tutkivat:0.92
+  kytti:0.91
+  siell tai:0.38
+  kohdassa:0.38
+  postissa:0.38
+  onko:0.38
+
+Topic 3:
+  varmaan:0.46
+  ett:0.34
+  ja:0.31
+  ainiin:0.28
+  mist:0.28
+  vakituinen:0.28
+  vannon:0.28
+  yn:0.28
+  unohtui:0.28
+  rahanne:0.28
+
+Topic 4:
+  ja:0.33
+  ett:0.26
+  kytti:0.25
+  joo:0.25
+  tutkivat:0.24
+  mit:0.24
+  voisi:0.24
+  ne:0.24
+  eat:0.24
+  yd:0.23
+
+K: 5, Log-Likelihood: -670.656, Alpha: 11.000, Beta: 1.100

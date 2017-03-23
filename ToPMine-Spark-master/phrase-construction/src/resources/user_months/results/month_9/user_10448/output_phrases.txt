@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:3.75
+  escrow:3.73
+  simply:1.75
+  buyers:1.74
+  trusting:1.73
+  silk:1.73
+  risks:1.72
+  post:1.72
+  place:1.72
+  host:1.71
+
+Topic 1:
+  half:2.05
+  markets:1.39
+  impressed deposit:1.07
+  impressed:1.07
+  minutes:1.07
+  thought:1.07
+  dont:1.07
+  time deposit:1.07
+  happy:1.07
+  twenty:1.07
+
+Topic 2:
+  fe:0.84
+  escrow:0.54
+  vendor:0.52
+  march:0.43
+  becasue:0.39
+  buyer:0.39
+  road:0.38
+  market:0.38
+  trust:0.38
+  host:0.37
+
+Topic 3:
+  standard:0.51
+  support sort:0.51
+  hours auto:0.51
+  willow:0.51
+  coming:0.51
+  whatsoever:0.51
+  problems:0.51
+  withdrawals:0.51
+  march:0.41
+  lol:0.39
+
+Topic 4:
+  security:2.05
+  ticket:2.05
+  closed:2.05
+  support:2.05
+  payment system:2.05
+  bsm:1.24
+  things:0.96
+  experimentally:0.96
+  difficult:0.96
+  balanced:0.96
+
+K: 5, Log-Likelihood: -1488.959, Alpha: 11.000, Beta: 1.100

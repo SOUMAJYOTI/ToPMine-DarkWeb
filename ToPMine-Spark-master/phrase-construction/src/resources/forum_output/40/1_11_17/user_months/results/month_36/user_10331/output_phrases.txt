@@ -1,0 +1,61 @@
+Topic 0:
+  school:10.17
+  steve:10.05
+  dont:9.77
+  pay cash:8.13
+  real:7.16
+  anonymous:7.07
+  tor nodes:7.05
+  traffic:6.66
+  anonymity:6.16
+  tor:6.06
+
+Topic 1:
+  darknet:12.17
+  deep web:12.17
+  tor users:8.12
+  anonymity:7.72
+  silkroad:7.32
+  vendor:7.32
+  years ago:7.32
+  tor:7.22
+  sort:6.15
+  hidden services:6.07
+
+Topic 2:
+  openwall:9.76
+  bitmessage ch:8.28
+  starts:8.10
+  active attacks:8.10
+  admin bitmessage ch:8.10
+  quotesteve yeah:7.32
+  security:6.63
+  called:5.46
+  talk:5.35
+  mail:5.11
+
+Topic 3:
+  onion service:8.13
+  account:7.90
+  mail:7.06
+  bitmessage ch:6.94
+  days:6.36
+  trouble:6.09
+  quote:6.04
+  service:5.28
+  baraka january:5.20
+  false alarm days straight:5.13
+
+Topic 4:
+  search engine:9.76
+  white:9.76
+  content:9.76
+  memex:8.92
+  data:8.92
+  sites:8.90
+  law enforcement:8.26
+  dark web:7.32
+  hidden services sites:7.32
+  hidden services:6.14
+
+K: 5, Log-Likelihood: -28314.265, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  torwallet:1.00
+  address:0.69
+  mufti:0.48
+  wallets:0.42
+  funds:0.42
+  noticed:0.23
+  obe:0.23
+  deposit:0.23
+  tor:0.23
+  respond:0.23
+
+Topic 1:
+  torwallet:0.93
+  address:0.66
+  mufti:0.46
+  funds:0.42
+  wallets:0.42
+  orders:0.22
+  addresses:0.22
+  ether:0.22
+  order:0.22
+  changed:0.22
+
+Topic 2:
+  torwallet:0.66
+  address:0.53
+  funds:0.39
+  wallets:0.38
+  mufti:0.34
+  cs:0.23
+  sniff:0.23
+  coming:0.23
+  keys:0.23
+  search:0.23
+
+Topic 3:
+  torwallet:0.66
+  address:0.53
+  wallets:0.39
+  funds:0.38
+  mufti:0.35
+  visit:0.23
+  mate:0.23
+  time:0.23
+  mind:0.23
+  ordered:0.23
+
+Topic 4:
+  torwallet:0.75
+  address:0.59
+  funds:0.40
+  wallets:0.39
+  mufti:0.38
+  scammer:0.21
+  search:0.21
+  note:0.21
+  history:0.21
+  pgp:0.21
+
+K: 5, Log-Likelihood: -300.650, Alpha: 11.000, Beta: 1.100

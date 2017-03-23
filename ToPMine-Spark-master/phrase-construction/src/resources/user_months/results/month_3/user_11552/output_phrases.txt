@@ -1,0 +1,61 @@
+Topic 0:
+  great:0.61
+  poem:0.61
+  hey:0.60
+  good:0.59
+  markets:0.59
+  vendor:0.52
+  blow:0.51
+  quote:0.49
+  january:0.48
+  mdma:0.45
+
+Topic 1:
+  markets:1.79
+  soothes:0.80
+  rotting:0.79
+  whitest:0.79
+  sky:0.79
+  winter:0.79
+  candy:0.79
+  souloh:0.79
+  knowwhich:0.78
+  purest:0.77
+
+Topic 2:
+  blow:1.16
+  good:0.76
+  comment:0.74
+  cocaine:0.74
+  connections:0.74
+  quality:0.73
+  week:0.72
+  traphouse:0.72
+  order:0.72
+  affordable:0.71
+
+Topic 3:
+  blow:1.39
+  order:0.80
+  affordable:0.80
+  traphouse:0.79
+  week:0.79
+  quality:0.78
+  connections:0.78
+  cocaine:0.78
+  comment:0.77
+  quote:0.66
+
+Topic 4:
+  markets:1.47
+  vendor:0.76
+  blowwhich:0.70
+  lo:0.70
+  souloh:0.70
+  purest:0.70
+  knowwhich:0.69
+  winter:0.69
+  rotting:0.69
+  candy:0.69
+
+K: 5, Log-Likelihood: -690.121, Alpha: 11.000, Beta: 1.100

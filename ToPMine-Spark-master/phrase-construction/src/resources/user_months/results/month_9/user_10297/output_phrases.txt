@@ -1,0 +1,61 @@
+Topic 0:
+  darkcoin:3.53
+  mixers:3.53
+  coinjoin:3.33
+  bitcoin fog:3.33
+  concept:2.41
+  interesting:2.41
+  doubt:2.41
+  replace:2.41
+  mixing service:2.16
+  service:2.16
+
+Topic 1:
+  site:3.52
+  quote:2.71
+  link good:2.63
+  share:2.63
+  care:2.63
+  kuklinski:2.63
+  laugh:2.63
+  pmplease:1.73
+  links:1.73
+  suitable:1.73
+
+Topic 2:
+  transaction:3.45
+  lose:3.45
+  user:3.45
+  coins:3.04
+  alternative:2.64
+  shared coin:2.55
+  amounts:2.48
+  large:2.48
+  bitblender:2.47
+  couple:2.47
+
+Topic 3:
+  money:5.24
+  people:3.51
+  addresses amounts:2.66
+  withdrawing:2.66
+  honest:2.66
+  depositing:2.66
+  internal:2.66
+  staggered:2.66
+  withdraws:2.66
+  mixing:2.66
+
+Topic 4:
+  listings:3.53
+  money:2.33
+  forum:2.21
+  addresses:1.74
+  debit:1.74
+  owners:1.74
+  guy:1.74
+  pins:1.74
+  tools:1.74
+  credit:1.74
+
+K: 5, Log-Likelihood: -2197.221, Alpha: 11.000, Beta: 1.100

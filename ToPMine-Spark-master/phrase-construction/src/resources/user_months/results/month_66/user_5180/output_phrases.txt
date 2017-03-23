@@ -1,0 +1,61 @@
+Topic 0:
+  attack:3.93
+  november:3.64
+  quote:3.63
+  attacked:2.41
+  snacktime:2.37
+  pmlets:2.33
+  word:2.32
+  reddit:1.86
+  reading:1.86
+  tyr:1.86
+
+Topic 1:
+  good:4.81
+  opportunity:3.14
+  state:3.14
+  true:3.14
+  rare:3.14
+  alot:3.14
+  bitcoins:3.14
+  personally:3.14
+  frenzy:3.14
+  events:3.14
+
+Topic 2:
+  coin:4.06
+  dos:2.10
+  market:2.09
+  maintenance:1.99
+  server:1.99
+  security:1.99
+  ransom:1.99
+  influx:1.99
+  measure:1.99
+  common:1.99
+
+Topic 3:
+  tied escrow:3.41
+  awhilecheers:1.90
+  business:1.90
+  st:1.90
+  devastate:1.90
+  lives:1.90
+  funds:1.90
+  chunk:1.90
+  lots:1.90
+  small:1.90
+
+Topic 4:
+  hope:1.89
+  human:1.77
+  abraxas:1.77
+  alternative:1.77
+  peace:1.77
+  greed:1.77
+  talk:1.77
+  ddw:1.77
+  links:1.77
+  favourite:1.76
+
+K: 5, Log-Likelihood: -1103.336, Alpha: 11.000, Beta: 1.100

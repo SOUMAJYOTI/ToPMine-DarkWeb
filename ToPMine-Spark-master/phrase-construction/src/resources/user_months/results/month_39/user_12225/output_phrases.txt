@@ -1,0 +1,61 @@
+Topic 0:
+  ja:4.77
+  saa:3.82
+  pohjalta:3.80
+  auttaisi:3.80
+  katoaa:3.80
+  piilottaa:3.80
+  vinneist:3.80
+  tuo rin:3.80
+  visit:3.80
+  palauteiden:3.80
+
+Topic 1:
+  sama:4.65
+  posti:4.60
+  joo:3.34
+  viivett:2.78
+  iv:2.42
+  ilytt:2.30
+  tuli:2.30
+  kyseiselt:2.30
+  ravinteita:2.30
+  monelle:2.30
+
+Topic 2:
+  hetyst:4.63
+  ei:4.15
+  hetyksi:3.83
+  ss:3.75
+  joka:3.73
+  kameroita:3.73
+  ei kii:3.73
+  kamera ongelma:3.73
+  kaupungillaki:3.73
+  onha:3.73
+
+Topic 3:
+  ett:5.52
+  mit:5.06
+  ovat:4.62
+  hetykset:4.62
+  myyj:3.63
+  ratsioita:2.62
+  perille:2.48
+  ilmoitti:2.27
+  tietoinen:2.27
+  saapunut:2.27
+
+Topic 4:
+  ratkaisu:5.76
+  onko:5.24
+  iskoko:4.65
+  enimm:4.65
+  pikana:3.82
+  ongelmaan:3.82
+  ytyy:3.82
+  vast:3.82
+  seurantakoodikirjattukirje:3.82
+  ottoman:3.82
+
+K: 5, Log-Likelihood: -4500.693, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  fine:1.72
+  vodka:1.46
+  water:1.40
+  alcohol:0.83
+  abv:0.79
+  lay:0.78
+  alternative:0.73
+  lucy:0.67
+  stirrer:0.62
+  magnetic:0.62
+
+Topic 1:
+  dissolve:2.44
+  xtal:2.44
+  stirrer:2.31
+  magnetic:2.29
+  stirrers:1.84
+  find:1.84
+  read:1.84
+  laying:1.84
+  completely:1.84
+  vodka:1.72
+
+Topic 2:
+  solution:5.97
+  test:3.69
+  lay:3.55
+  cheap:2.70
+  work:2.70
+  multiply:1.72
+  stir:1.72
+  addition:1.72
+  stirring:1.72
+  needed:1.72
+
+Topic 3:
+  everclear:3.44
+  ratio:1.44
+  grey:1.32
+  goose:1.30
+  abv:1.26
+  water:0.99
+  mix:0.98
+  fine:0.91
+  alc:0.90
+  highest:0.89
+
+Topic 4:
+  water:1.80
+  abv:1.63
+  everclear:1.61
+  fine:1.37
+  ratio:1.25
+  vodka:1.08
+  goose:0.85
+  grey:0.83
+  mix:0.82
+  works:0.79
+
+K: 5, Log-Likelihood: -1150.872, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  morning:2.23
+  list:0.97
+  address:0.96
+  riitauttakaa:0.96
+  viss:0.96
+  education:0.96
+  trip:0.96
+  pick:0.96
+  seizure:0.96
+  jail:0.96
+
+Topic 1:
+  caught:0.81
+  hasnt updates:0.81
+  intervention:0.81
+  built:0.81
+  unfortunarely:0.80
+  news:0.80
+  downfall:0.80
+  provided:0.80
+  apoligies:0.80
+  morebetter:0.80
+
+Topic 2:
+  sort:1.99
+  nice:1.99
+  vendor:1.99
+  word:1.99
+  trc:1.99
+  mia:1.99
+  goggle:1.99
+  official:1.99
+  clients:1.99
+  safe people:1.99
+
+Topic 3:
+  fine:0.77
+  activity:0.76
+  hope:0.72
+  nose:0.66
+  hey:0.66
+  bit:0.60
+  silkkitie days:0.56
+  technical:0.56
+  panic vendor:0.54
+  news:0.54
+
+Topic 4:
+  speculation:2.88
+  lot:2.16
+  authorities:1.38
+  web:1.38
+  info:1.38
+  paranoid:1.38
+  sites:1.38
+  kapteeni hasnt:1.38
+  dark:1.38
+  involved:1.38
+
+K: 5, Log-Likelihood: -1625.451, Alpha: 11.000, Beta: 1.100

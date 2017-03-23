@@ -1,0 +1,61 @@
+Topic 0:
+  tails:0.82
+  volume:0.80
+  works:0.72
+  password:0.72
+  hidden:0.61
+  hide:0.45
+  small:0.44
+  files:0.44
+  clean:0.42
+  root:0.42
+
+Topic 1:
+  volume:1.14
+  hidden:1.10
+  works:0.97
+  password:0.92
+  tails:0.71
+  truecrypt:0.46
+  veracrypt:0.46
+  setup:0.43
+  hide:0.39
+  root:0.36
+
+Topic 2:
+  volume:1.24
+  works:0.91
+  password:0.87
+  hidden:0.86
+  tails:0.77
+  veracrypt:0.44
+  truecrypt:0.44
+  setup:0.43
+  hide:0.39
+  small:0.37
+
+Topic 3:
+  tails:0.97
+  volume:0.63
+  password:0.58
+  system:0.58
+  dvd:0.57
+  clean:0.56
+  works:0.55
+  hidden:0.53
+  root:0.47
+  files:0.46
+
+Topic 4:
+  volume:1.18
+  password:0.90
+  hidden:0.90
+  works:0.84
+  tails:0.74
+  truecrypt:0.43
+  veracrypt:0.43
+  setup:0.42
+  hide:0.39
+  root:0.38
+
+K: 5, Log-Likelihood: -457.923, Alpha: 11.000, Beta: 1.100

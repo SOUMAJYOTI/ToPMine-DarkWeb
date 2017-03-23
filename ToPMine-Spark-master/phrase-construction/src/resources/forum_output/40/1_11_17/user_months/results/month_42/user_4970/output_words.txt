@@ -1,0 +1,61 @@
+Topic 0:
+  agora:2.85
+  love:2.77
+  coins:2.05
+  support:1.33
+  account:1.19
+  avengers:0.82
+  days:0.69
+  resolvedi:0.68
+  blockchain:0.68
+  received:0.68
+
+Topic 1:
+  time:23.16
+  onion:10.56
+  market:3.66
+  invite:2.25
+  uptime:2.15
+  join:2.08
+  link:2.03
+  nucleus:1.41
+  tochka:1.40
+  havana:1.31
+
+Topic 2:
+  coins:5.89
+  support:4.60
+  account:2.74
+  agora:2.24
+  messaged:1.32
+  enter:1.31
+  careful:1.31
+  problem:1.30
+  responded:1.30
+  ago:1.29
+
+Topic 3:
+  onion:21.31
+  time:20.61
+  market:2.79
+  uptime:2.60
+  link:2.21
+  join:1.77
+  invite:1.71
+  ramp:1.40
+  havana:1.36
+  um:1.32
+
+Topic 4:
+  onion:16.00
+  time:7.10
+  market:2.42
+  uptime:2.12
+  join:2.03
+  invite:1.91
+  link:1.63
+  avengers:1.40
+  nucleus:1.29
+  um:1.29
+
+K: 5, Log-Likelihood: -1630.659, Alpha: 11.000, Beta: 1.100

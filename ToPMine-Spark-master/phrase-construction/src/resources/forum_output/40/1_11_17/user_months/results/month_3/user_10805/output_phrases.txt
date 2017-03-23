@@ -1,0 +1,61 @@
+Topic 0:
+  code:4.93
+  address:2.56
+  predetermine:2.43
+  time:2.43
+  compromised:2.43
+  stands:2.43
+  btc:2.43
+  person:2.43
+  moving:2.43
+  real:2.43
+
+Topic 1:
+  interesting:0.62
+  subbed:0.62
+  check:0.61
+  electrum:0.54
+  site:0.53
+  address:0.52
+  ill:0.41
+  transactions:0.39
+  users:0.35
+  public keys:0.34
+
+Topic 2:
+  multisig address:3.65
+  advance:3.65
+  order:3.31
+  public keys:2.77
+  users:2.75
+  address:2.58
+  public key:2.43
+  manually:2.39
+  entering:2.39
+  client coinb:2.39
+
+Topic 3:
+  electrum:3.89
+  idea:2.43
+  market:2.43
+  relies:2.43
+  electrum servers:2.43
+  feedback:1.91
+  wallet:1.89
+  blockchain:1.89
+  march:1.18
+  bitwasp electrum:1.18
+
+Topic 4:
+  project:2.43
+  involved:1.18
+  secure:1.18
+  portobello:1.18
+  services:1.18
+  worth:1.18
+  infos:1.18
+  open:1.18
+  devs:1.18
+  repo:1.18
+
+K: 5, Log-Likelihood: -3651.065, Alpha: 11.000, Beta: 1.100

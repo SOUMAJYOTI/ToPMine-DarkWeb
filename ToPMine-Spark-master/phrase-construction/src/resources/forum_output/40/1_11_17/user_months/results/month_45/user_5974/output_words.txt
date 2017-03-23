@@ -1,0 +1,61 @@
+Topic 0:
+  questions:8.08
+  scidmt:7.82
+  kind:7.59
+  people:6.86
+  april:5.67
+  tmg:4.84
+  quote:4.68
+  inflammatory:4.12
+  comments:4.07
+  ve:3.97
+
+Topic 1:
+  care:5.59
+  reason:5.30
+  smite:5.15
+  directly:4.08
+  threads:3.13
+  excuse:3.09
+  posts:2.96
+  unnecessary:2.85
+  thread:2.80
+  newb:2.71
+
+Topic 2:
+  smite:5.70
+  reason:5.46
+  directly:5.18
+  care:5.08
+  posts:4.52
+  questions:3.21
+  making:2.88
+  things:2.77
+  answer:2.76
+  funny:2.71
+
+Topic 3:
+  work:4.40
+  april:3.59
+  cutlasssupreme:3.22
+  smited:3.01
+  people:2.72
+  questions:2.70
+  find:2.31
+  unnecessary:2.29
+  excuse:2.24
+  threads:2.18
+
+Topic 4:
+  april:7.68
+  people:5.99
+  guys:5.42
+  confused:4.70
+  questions:3.92
+  kind:3.87
+  scidmt:3.76
+  history:3.57
+  cutlasssupreme:3.55
+  pmquote:3.48
+
+K: 5, Log-Likelihood: -3070.527, Alpha: 11.000, Beta: 1.100

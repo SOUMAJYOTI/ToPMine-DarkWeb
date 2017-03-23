@@ -1,0 +1,61 @@
+Topic 0:
+  ticket:0.88
+  vendor:0.82
+  hansa:0.80
+  ava:0.65
+  support:0.63
+  market:0.61
+  listings:0.59
+  site:0.54
+  ago:0.43
+  open:0.43
+
+Topic 1:
+  hansa:1.05
+  ticket:0.93
+  vendor:0.80
+  ava:0.76
+  market:0.69
+  support:0.64
+  listings:0.59
+  team:0.53
+  zendym:0.47
+  high:0.47
+
+Topic 2:
+  hansa:0.87
+  ticket:0.86
+  vendor:0.75
+  ava:0.64
+  support:0.62
+  market:0.61
+  listings:0.58
+  site:0.46
+  good:0.44
+  team:0.44
+
+Topic 3:
+  ticket:0.81
+  vendor:0.79
+  hansa:0.73
+  support:0.62
+  listings:0.59
+  site:0.57
+  market:0.56
+  ava:0.56
+  multisig:0.44
+  simple:0.42
+
+Topic 4:
+  site:1.00
+  vendor:0.85
+  listings:0.65
+  ive:0.56
+  hansa:0.54
+  market:0.53
+  ticket:0.52
+  support:0.50
+  simple:0.46
+  multisig:0.46
+
+K: 5, Log-Likelihood: -731.911, Alpha: 11.000, Beta: 1.100

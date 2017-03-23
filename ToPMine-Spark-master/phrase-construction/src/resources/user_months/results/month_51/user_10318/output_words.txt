@@ -1,0 +1,61 @@
+Topic 0:
+  boot:0.79
+  computer:0.76
+  option:0.60
+  windows:0.40
+  ideas:0.40
+  works:0.40
+  signature:0.40
+  connected:0.40
+  tails:0.40
+  problem:0.40
+
+Topic 1:
+  computer:0.82
+  boot:0.75
+  option:0.60
+  computers:0.40
+  add:0.40
+  error:0.40
+  valid:0.40
+  causing:0.40
+  machine:0.40
+  point:0.40
+
+Topic 2:
+  computer:0.80
+  boot:0.75
+  option:0.61
+  windows:0.41
+  message:0.40
+  point:0.40
+  devices:0.40
+  telling:0.40
+  shuts:0.40
+  computers:0.40
+
+Topic 3:
+  computer:0.82
+  boot:0.78
+  option:0.59
+  brand:0.41
+  usb:0.40
+  ore:0.40
+  press:0.40
+  connected:0.40
+  starts:0.40
+  causing:0.40
+
+Topic 4:
+  boot:0.93
+  computer:0.79
+  option:0.60
+  fine:0.40
+  shuts:0.40
+  collection:0.40
+  error:0.40
+  starts:0.40
+  tails:0.40
+  problem:0.40
+
+K: 5, Log-Likelihood: -321.098, Alpha: 11.000, Beta: 1.100

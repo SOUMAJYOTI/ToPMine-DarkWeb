@@ -1,0 +1,61 @@
+Topic 0:
+  hacking team:38.25
+  fbi:14.13
+  company:13.25
+  law enforcement:10.18
+  wrote:7.73
+  countries:6.12
+  san bernardino:5.97
+  remote control system:5.00
+  spokesperson:4.94
+  ss:4.69
+
+Topic 1:
+  bytecoin:3.21
+  btc:2.96
+  worth:2.96
+  july:2.61
+  developer:2.10
+  highest:2.10
+  bytecoin cryptonote currencies:2.10
+  kharon:2.10
+  base:2.10
+  trading:2.10
+
+Topic 2:
+  sender:6.55
+  transaction:6.55
+  public key:6.55
+  private key:6.55
+  public keys:6.55
+  users:4.92
+  groups senders:4.35
+  receiver:4.35
+  public address:4.35
+  cryptonote:2.53
+
+Topic 3:
+  hacking team:9.85
+  wrote:4.27
+  remote control system:2.49
+  fbi:2.39
+  law enforcement:1.83
+  software:1.77
+  company:1.76
+  hacking team software:1.57
+  district attorney:1.53
+  san bernardino:1.52
+
+Topic 4:
+  isnt:2.97
+  interest:2.97
+  privacy:2.38
+  monero:2.09
+  holding:2.09
+  rumors:1.47
+  thread:1.47
+  points:1.47
+  rocky:1.47
+  combat:1.47
+
+K: 5, Log-Likelihood: -9997.608, Alpha: 11.000, Beta: 1.100

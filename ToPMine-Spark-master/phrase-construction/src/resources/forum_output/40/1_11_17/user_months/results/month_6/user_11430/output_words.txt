@@ -1,0 +1,61 @@
+Topic 0:
+  himalayanblues:1.13
+  guy:0.68
+  agora:0.67
+  vendor:0.56
+  imposter:0.42
+  bitbybit:0.40
+  hope:0.39
+  order:0.39
+  post:0.39
+  vending:0.39
+
+Topic 1:
+  himalayanblues:1.53
+  vendor:0.95
+  indian:0.57
+  markets:0.57
+  vending:0.56
+  hope:0.42
+  agora:0.42
+  guy:0.41
+  bitbybit:0.32
+  order:0.32
+
+Topic 2:
+  himalayanblues:1.00
+  guy:0.71
+  agora:0.70
+  vendor:0.45
+  imposter:0.45
+  post:0.45
+  order:0.45
+  bitbybit:0.44
+  hope:0.38
+  vending:0.32
+
+Topic 3:
+  himalayanblues:1.21
+  vendor:0.58
+  guy:0.56
+  agora:0.56
+  hope:0.41
+  bitbybit:0.41
+  post:0.41
+  order:0.41
+  vending:0.39
+  markets:0.39
+
+Topic 4:
+  himalayanblues:1.13
+  agora:0.66
+  guy:0.64
+  vendor:0.47
+  post:0.44
+  order:0.44
+  bitbybit:0.44
+  imposter:0.43
+  hope:0.39
+  indian:0.33
+
+K: 5, Log-Likelihood: -379.694, Alpha: 11.000, Beta: 1.100

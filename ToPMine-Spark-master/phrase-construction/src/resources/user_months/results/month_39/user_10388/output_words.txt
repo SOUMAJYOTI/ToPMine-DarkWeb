@@ -1,0 +1,61 @@
+Topic 0:
+  offering:0.40
+  celebration:0.20
+  notified:0.20
+  check:0.20
+  dn:0.20
+  time:0.20
+  vendors:0.20
+  sig:0.20
+  history:0.20
+  deep:0.20
+
+Topic 1:
+  offering:0.40
+  vendors:0.20
+  read:0.20
+  sale:0.20
+  celebration:0.20
+  sig:0.20
+  info:0.20
+  oxy:0.20
+  notified:0.20
+  youve:0.20
+
+Topic 2:
+  offering:0.40
+  oxymonster:0.20
+  messaged:0.20
+  details:0.20
+  sig:0.20
+  oxy:0.20
+  deep:0.20
+  oxycontin:0.20
+  deserves:0.20
+  fun:0.20
+
+Topic 3:
+  offering:0.40
+  monster:0.20
+  messaged:0.20
+  sale:0.20
+  deep:0.20
+  correctly:0.20
+  history:0.20
+  thread:0.20
+  frankly:0.20
+  youve:0.20
+
+Topic 4:
+  offering:0.40
+  frankly:0.20
+  read:0.20
+  time:0.20
+  check:0.20
+  details:0.20
+  oxycontin:0.20
+  info:0.20
+  thread:0.20
+  monster:0.20
+
+K: 5, Log-Likelihood: -83.353, Alpha: 11.000, Beta: 1.100

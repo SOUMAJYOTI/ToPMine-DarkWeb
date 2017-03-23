@@ -1,0 +1,61 @@
+Topic 0:
+  hardware:6.18
+  focus:3.92
+  firmware:3.92
+  cpus:3.88
+  start:3.84
+  software:3.71
+  backdooring:1.99
+  harder:1.94
+  ahead:1.94
+  ultimately:1.94
+
+Topic 1:
+  china:4.78
+  traffic:3.91
+  phone:3.19
+  tails:2.91
+  bridge:2.91
+  tor:2.82
+  work:1.96
+  airport:1.93
+  travellers:1.93
+  radio:1.93
+
+Topic 2:
+  china:6.11
+  blocked:4.73
+  software:3.51
+  chinese:2.63
+  answer:2.49
+  encryption:2.36
+  surveillance:2.24
+  business:2.22
+  personal:2.02
+  set:2.02
+
+Topic 3:
+  key:5.96
+  crypto:5.55
+  escrow:3.96
+  clipper:3.96
+  chip:3.96
+  government:3.96
+  system:3.29
+  technology:3.20
+  access:3.07
+  war:2.96
+
+Topic 4:
+  chinese:4.32
+  vpn:3.80
+  solution:2.96
+  tor:2.88
+  people:2.50
+  hosting:2.17
+  listening:1.96
+  private:1.96
+  pc:1.96
+  install:1.96
+
+K: 5, Log-Likelihood: -3743.962, Alpha: 11.000, Beta: 1.100

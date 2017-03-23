@@ -1,0 +1,61 @@
+Topic 0:
+  kun:0.84
+  katos:0.83
+  rahat edes litilill:0.83
+  ostosta:0.83
+  mrsuboxone:0.83
+  ensign:0.83
+  ist:0.83
+  harmillista:0.82
+  rahaa:0.82
+  marten:0.82
+
+Topic 1:
+  ytitk mixeri sinne saattaa:0.72
+  kadota useamminkin jos ei:0.71
+  october:0.63
+  sitten:0.63
+  quote:0.60
+  rahat:0.56
+  smitten tulip:0.55
+  isen:0.55
+  pmb:0.55
+  se:0.55
+
+Topic 2:
+  amquote:0.87
+  ei:0.87
+  ja ne:0.87
+  sanaton october:0.86
+  tulip siirretty:0.86
+  rahaa:0.85
+  amterve eilen tulip siirretty:0.85
+  harmillista:0.85
+  marten:0.85
+  ist:0.85
+
+Topic 3:
+  milk:1.24
+  syyst:1.24
+  yny:1.24
+  mikseriin:1.24
+  ono:1.24
+  mist:1.24
+  oli:1.24
+  miksereist:1.24
+  eat:1.24
+  kolikot:1.24
+
+Topic 4:
+  jotkut:1.25
+  ohjattua:1.25
+  ett:1.25
+  luultavasti:1.25
+  viel:1.25
+  siirron:1.25
+  odottamaan:1.25
+  positiivista:1.25
+  kapteeni:1.25
+  joutuneet:1.25
+
+K: 5, Log-Likelihood: -1126.984, Alpha: 11.000, Beta: 1.100

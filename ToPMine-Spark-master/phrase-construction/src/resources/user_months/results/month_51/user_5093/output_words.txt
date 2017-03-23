@@ -1,0 +1,61 @@
+Topic 0:
+  markets:9.58
+  agora:6.04
+  agra:5.80
+  problem:5.02
+  ago:4.49
+  love:4.40
+  safe:3.86
+  things:3.86
+  guess:3.86
+  news:3.86
+
+Topic 1:
+  people:2.65
+  forget:2.55
+  markets:1.89
+  dont:1.30
+  middle:1.25
+  lose:1.21
+  site:0.68
+  ross:0.55
+  wow:0.44
+  sea:0.43
+
+Topic 2:
+  ross:23.39
+  people:14.85
+  individual:11.61
+  company:11.59
+  time:5.73
+  live:5.73
+  years:5.72
+  human:5.71
+  rights:5.71
+  corporations:5.71
+
+Topic 3:
+  direct:7.95
+  vendors:7.07
+  august:6.27
+  forum:4.89
+  market:4.80
+  kind:4.24
+  trades:3.83
+  sites:3.83
+  centralized:3.83
+  informants:3.83
+
+Topic 4:
+  abraham:3.84
+  active:2.50
+  ve:2.22
+  markets:2.10
+  reliable:1.85
+  backup:1.85
+  activity:1.85
+  personally:1.85
+  wise:1.85
+  picking:1.85
+
+K: 5, Log-Likelihood: -4985.916, Alpha: 11.000, Beta: 1.100

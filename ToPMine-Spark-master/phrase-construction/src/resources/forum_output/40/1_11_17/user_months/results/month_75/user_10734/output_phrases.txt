@@ -1,0 +1,61 @@
+Topic 0:
+  tails:6.73
+  luck:5.92
+  iso:4.86
+  sigs:4.86
+  play:4.86
+  topic:4.86
+  loaded:4.86
+  issue check:4.86
+  plug:4.86
+  operation:4.86
+
+Topic 1:
+  good:4.64
+  stick:4.62
+  google:4.58
+  quote:4.34
+  point:4.21
+  lip:4.17
+  realised:4.16
+  tone:4.02
+  quote lila february:3.74
+  hold:3.65
+
+Topic 2:
+  nope wrong sprayandwipe:6.09
+  gb sd card issues:5.89
+  hoof:4.81
+  talking:4.81
+  comment:4.81
+  dude:4.81
+  sprayandwipe february amplease:4.81
+  february amquote:4.81
+  asked:4.81
+  hearted:4.81
+
+Topic 3:
+  wifi:5.75
+  install:5.75
+  macs:5.75
+  tails:5.72
+  running tails:4.72
+  memory wipe big issue:4.42
+  boot tails:3.81
+  connect shutdown tails:3.22
+  amim:3.22
+  quote lila february:3.07
+
+Topic 4:
+  wrong booting tails:6.17
+  correct wrong connected tor:6.13
+  sd regular computer:6.12
+  tailsyoure:4.72
+  amquote sprayandwipe february amplease:4.71
+  wrong wrong wrong:4.71
+  long time:4.47
+  ltns:3.26
+  boot:2.89
+  fine:2.75
+
+K: 5, Log-Likelihood: -3555.852, Alpha: 11.000, Beta: 1.100

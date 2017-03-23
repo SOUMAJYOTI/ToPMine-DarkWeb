@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.87
+  buy:0.40
+  market:0.40
+  days:0.40
+  ive:0.40
+  risky:0.20
+  agendabungeebaby:0.20
+  promising:0.20
+  havent:0.20
+  evolution:0.20
+
+Topic 1:
+  sr:0.74
+  days:0.40
+  market:0.40
+  ive:0.40
+  buy:0.40
+  question:0.20
+  road:0.20
+  hope:0.20
+  mistakes:0.20
+  propaganda:0.20
+
+Topic 2:
+  sr:0.77
+  buy:0.41
+  market:0.40
+  ive:0.40
+  days:0.40
+  dark:0.20
+  ragime:0.20
+  thought:0.20
+  easiest:0.20
+  years:0.20
+
+Topic 3:
+  sr:0.74
+  ive:0.40
+  days:0.40
+  market:0.40
+  buy:0.40
+  lost:0.20
+  field:0.20
+  helping:0.20
+  pandora:0.20
+  scammed:0.20
+
+Topic 4:
+  sr:0.88
+  ive:0.40
+  buy:0.40
+  days:0.40
+  market:0.39
+  mistakes:0.20
+  good:0.20
+  infact:0.20
+  facist:0.20
+  saddens:0.20
+
+K: 5, Log-Likelihood: -276.071, Alpha: 11.000, Beta: 1.100

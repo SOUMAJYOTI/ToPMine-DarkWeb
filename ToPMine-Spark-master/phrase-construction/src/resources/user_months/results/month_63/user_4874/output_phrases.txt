@@ -1,0 +1,61 @@
+Topic 0:
+  plan ordering:6.88
+  pack:5.94
+  dont:5.77
+  package:5.02
+  stupid:5.02
+  letter:5.02
+  vb tails:5.02
+  time:5.02
+  worry:4.01
+  email:3.88
+
+Topic 1:
+  account:8.45
+  paul btc minutes deposit:5.59
+  fill slip provided seller:5.55
+  cash teller cash deposit:5.54
+  card disposal dollar store:5.31
+  account bofa:5.25
+  wallet downloaded buy bitcoins:5.16
+  pinto november ami paul:5.15
+  looked tor:5.15
+  website american express gift:4.98
+
+Topic 2:
+  wallet downloaded:4.54
+  wallet:4.38
+  grams:4.17
+  xtal:4.17
+  btc:4.17
+  day worry:4.17
+  moving:4.17
+  bigger:4.17
+  week:4.17
+  desired:4.17
+
+Topic 3:
+  coinbase chrome:8.43
+  bit confused:8.43
+  tor:6.06
+  aware:4.20
+  wrap:4.20
+  sign:4.20
+  spend:4.20
+  bitcoins country:4.20
+  require:4.20
+  guides:4.20
+
+Topic 4:
+  transfer wallet:7.01
+  safety reliability download:6.18
+  online wallet luck:6.18
+  feel free questions happy:6.18
+  blockchain good post:6.18
+  question safety online wallet:6.17
+  person cash deposit:5.37
+  country good anonymously bitin:5.37
+  bank transfer directly people:5.37
+  coinbase localbitcoins buy bitcoins:5.37
+
+K: 5, Log-Likelihood: -5595.021, Alpha: 11.000, Beta: 1.100

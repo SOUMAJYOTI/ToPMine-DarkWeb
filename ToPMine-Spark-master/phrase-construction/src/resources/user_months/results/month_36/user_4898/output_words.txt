@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.85
+  vendors:0.84
+  forums:0.84
+  months:0.72
+  problem:0.71
+  referring:0.42
+  reduction:0.42
+  discussions:0.42
+  leave:0.42
+  blog:0.42
+
+Topic 1:
+  market:0.83
+  forums:0.81
+  problem:0.77
+  months:0.77
+  vendors:0.74
+  based:0.41
+  harm:0.41
+  reviewing:0.41
+  purchasing:0.41
+  closed:0.41
+
+Topic 2:
+  months:1.23
+  problem:1.20
+  forums:0.74
+  register:0.55
+  telling:0.55
+  user:0.55
+  log:0.55
+  upgrade:0.54
+  incorrect:0.54
+  passwords:0.54
+
+Topic 3:
+  vendors:1.24
+  market:1.15
+  forums:0.79
+  helps:0.54
+  find:0.53
+  discussions:0.53
+  contact:0.53
+  blog:0.53
+  leave:0.53
+  based:0.53
+
+Topic 4:
+  problem:0.84
+  months:0.84
+  forums:0.82
+  vendors:0.72
+  market:0.71
+  logging:0.42
+  passwords:0.42
+  curious:0.42
+  incorrect:0.42
+  log:0.42
+
+K: 5, Log-Likelihood: -240.066, Alpha: 11.000, Beta: 1.100

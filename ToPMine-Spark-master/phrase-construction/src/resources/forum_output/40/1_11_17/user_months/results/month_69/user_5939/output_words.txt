@@ -1,0 +1,61 @@
+Topic 0:
+  lightnlove:1.56
+  tails:1.19
+  persistent:1.15
+  files:0.92
+  quote:0.84
+  saved:0.80
+  dhl:0.78
+  edit:0.68
+  save:0.62
+  folder:0.61
+
+Topic 1:
+  tails:4.73
+  lightnlove:1.23
+  edit:1.17
+  thread:1.13
+  feels:0.85
+  discussion:0.85
+  figured:0.85
+  good:0.84
+  save:0.83
+  files:0.81
+
+Topic 2:
+  persistent:3.82
+  storage:3.36
+  saved:2.33
+  save:1.71
+  february:1.43
+  files:1.41
+  access:1.04
+  create:1.02
+  tails:0.87
+  quote:0.84
+
+Topic 3:
+  dhl:1.78
+  lightnlove:1.78
+  private:1.10
+  marked:1.09
+  countdown:1.09
+  accepted:1.08
+  order:1.07
+  clock:1.07
+  quote:0.90
+  persistent:0.90
+
+Topic 4:
+  persistent:2.40
+  storage:2.18
+  saved:1.59
+  tails:1.34
+  save:1.33
+  files:1.20
+  february:1.16
+  create:0.89
+  quote:0.88
+  lightnlove:0.88
+
+K: 5, Log-Likelihood: -661.317, Alpha: 11.000, Beta: 1.100

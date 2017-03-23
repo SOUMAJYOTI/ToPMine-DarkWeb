@@ -1,0 +1,61 @@
+Topic 0:
+  toss vaikee olo:4.87
+  hampaat kolisee yhteen:4.87
+  rahojen:4.67
+  sinfil october:4.67
+  paras mihin olen rm:4.45
+  tarvinnut poliiseja pel kun:4.45
+  kiinni paska ihi mulla:4.45
+  nnyt ihmettelen miten nyt:4.45
+  nain selv huijaus sensitivity:4.45
+  taaskin luottomyyj ja:4.45
+
+Topic 1:
+  ja:6.80
+  kuin:5.98
+  toisinaan:4.68
+  kenelle:4.67
+  kuten:4.67
+  rahat:4.67
+  lill:3.92
+  jos joku:3.86
+  ne:3.86
+  ainakin:3.81
+
+Topic 2:
+  ja viel:4.69
+  kk:4.69
+  kuinka:4.66
+  eri:3.97
+  tai todella:3.86
+  se yleens:3.86
+  tuurista:3.86
+  eat todella:3.86
+  mielipide:3.86
+  huonosta:3.86
+
+Topic 3:
+  vaikka:6.67
+  odotellessa:5.78
+  myyj:5.57
+  huh:4.65
+  join:4.64
+  mahdollisuudella:4.64
+  vikin:3.83
+  ns:3.83
+  ivityst:3.83
+  moka:3.83
+
+Topic 4:
+  ja:5.19
+  hetkell:4.68
+  kotietsinn:4.68
+  hetykset:4.68
+  ist:3.86
+  ett:3.55
+  kiinni:3.26
+  voi:3.11
+  hyv:2.86
+  ss:2.86
+
+K: 5, Log-Likelihood: -11799.203, Alpha: 11.000, Beta: 1.100

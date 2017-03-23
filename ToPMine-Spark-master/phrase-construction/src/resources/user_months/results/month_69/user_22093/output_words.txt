@@ -1,0 +1,61 @@
+Topic 0:
+  orders:4.11
+  shipping:3.29
+  country:2.92
+  europe:2.90
+  days:2.62
+  delivery:2.57
+  single:2.48
+  day:2.42
+  deals:2.06
+  abrax:1.99
+
+Topic 1:
+  country:4.39
+  shipping:3.23
+  orders:3.08
+  delivery:2.96
+  days:2.63
+  single:2.42
+  europe:2.24
+  ratings:2.18
+  abrax:2.04
+  good:1.95
+
+Topic 2:
+  shipping:7.54
+  country:6.91
+  day:4.93
+  orders:4.51
+  single:4.47
+  reship:4.17
+  delivery:4.14
+  europe:4.13
+  days:4.00
+  agra:3.85
+
+Topic 3:
+  guys:2.39
+  good:1.94
+  online:1.54
+  order:1.53
+  listing:1.36
+  delivery:1.30
+  orders:1.27
+  fast:1.13
+  code:1.11
+  weed:1.09
+
+Topic 4:
+  super:14.89
+  lemon:14.89
+  haze:11.89
+  high:5.89
+  thc:5.89
+  silver:5.89
+  skunk:5.89
+  great:3.46
+  experienced:2.89
+  reminds:2.89
+
+K: 5, Log-Likelihood: -3273.146, Alpha: 11.000, Beta: 1.100

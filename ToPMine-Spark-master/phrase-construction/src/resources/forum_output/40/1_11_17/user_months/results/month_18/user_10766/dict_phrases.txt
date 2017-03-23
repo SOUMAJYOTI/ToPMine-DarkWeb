@@ -1,0 +1,147 @@
+floods,0,1
+year,1,1
+egress filtering,2,3
+coincidentally,3,1
+reflected,4,1
+asymmetry,5,1
+remote,6,1
+icmp,7,2
+resolution,8,1
+packets,9,2
+doesnt,10,3
+vulnerable attacks,11,1
+tor doesnt,12,1
+rendezvous,13,1
+catch,14,1
+filtering,15,3
+fully,16,1
+circuits,17,2
+idiots,18,1
+attacks attacks,19,1
+based,20,1
+hosts,21,1
+work,22,2
+flood tor,23,2
+ip,24,5
+streams,25,1
+dns,26,1
+dens,27,1
+distributed,28,1
+utilization,29,1
+aimed,30,2
+rudy,31,1
+hidden services,32,3
+flood,33,3
+amplification,34,1
+system,35,2
+globe,36,1
+slow,37,1
+knowing,38,1
+ip address,39,1
+domain,40,1
+legitimate,41,2
+asymmetric,42,1
+formed,43,1
+denial,44,2
+clients,45,1
+dandy,46,1
+notable,47,1
+dead,48,1
+ddos,49,1
+requests,50,1
+talking,51,1
+networks,52,1
+long,53,1
+egress,54,3
+nuke,55,1
+asked,56,1
+modern,57,1
+defense,58,1
+attack,59,8
+peer,60,2
+tor,61,3
+sending,62,1
+term,63,2
+place,64,1
+key,65,1
+resolvers,66,1
+chain,67,1
+hidden service,68,3
+address,69,3
+bandwidth,70,1
+doesnt egress,71,1
+launch,72,1
+ntp,73,1
+services,74,3
+suspect,75,1
+spoiled,76,1
+filter,77,2
+permanent,78,1
+responses,79,1
+quit,80,1
+open,81,1
+ass,82,1
+addressing,83,2
+onion,84,1
+teardrop,85,1
+sites,86,1
+bet,87,1
+vulnerable,88,4
+post,89,1
+attacks,90,10
+implemented,91,1
+basically,92,1
+beat,93,1
+host,94,1
+protocols,95,1
+upstream,96,1
+read,97,1
+service attacks,98,2
+level,99,1
+resource,100,1
+oses,101,1
+real,102,1
+list,103,2
+spoofing,104,1
+tor attacks,105,1
+port,106,1
+forge,107,1
+connectionless,108,1
+http,109,1
+carry,110,1
+leaving,111,1
+dont,112,1
+filtering attack,113,1
+hidden,114,6
+owockeznan,115,1
+destination,116,1
+syn,117,1
+box,118,2
+decent,119,1
+video,120,1
+imp,121,1
+point,122,1
+tricking,123,1
+network,124,1
+starvation,125,1
+effective,126,1
+attacks hidden,127,2
+public,128,2
+relies,129,1
+harder,130,1
+introduction,131,1
+routed,132,1
+tcp,133,1
+normal,134,1
+identify,135,1
+services vulnerable,136,2
+relay,137,1
+attacker,138,1
+rapidly,139,1
+target,140,2
+incredibly,141,1
+application,142,1
+service,143,5
+short,144,1
+coming,145,2
+providers,146,1

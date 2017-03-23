@@ -1,0 +1,402 @@
+pw site,0,1
+references,1,1
+scenarios,2,1
+yeah,3,1
+entropy passphrase,4,2
+ego,5,1
+slower,6,1
+evaluation,7,1
+quote,8,4
+pick,9,1
+memorizing,10,3
+plain crypt,11,2
+happen,12,1
+pass,13,1
+bit random,14,2
+easy,15,2
+guess,16,3
+historically,17,1
+couse,18,1
+drive,19,1
+hurt,20,1
+average,21,2
+strong,22,3
+scheme,23,1
+therealcynic,24,2
+characters,25,5
+matter ears,26,3
+catastrophic,27,1
+queried,28,1
+connect,29,1
+computers,30,2
+hand,31,1
+entropy random,32,1
+safe good,33,1
+weird,34,1
+meet,35,1
+series,36,1
+cost eur,37,1
+years good,38,1
+obvious,39,1
+password matter,40,1
+digits,41,1
+crypt bit,42,1
+register,43,1
+luks,44,1
+english sentence,45,3
+correct,46,2
+dm,47,1
+sites,48,2
+good,49,5
+recommendations,50,1
+correctly,51,1
+generated,52,2
+hacks,53,2
+leave,54,1
+adding,55,1
+memorizing strong,56,2
+info,57,1
+add,58,1
+pbkdf,59,1
+password manager,60,7
+break bit,61,2
+check,62,1
+sha,63,5
+random password,64,1
+users,65,2
+cryptsetup,66,2
+tails,67,1
+capitalizing,68,1
+varies,69,1
+dictionaries,70,1
+young,71,3
+crypt,72,3
+additional,73,1
+passwords stored gray matter,74,3
+random,75,14
+good good,76,1
+stored gray matter,77,3
+lowercase,78,1
+idiot,79,1
+length,80,3
+attacker,81,6
+passwords stored,82,3
+manager strong,83,1
+special,84,2
+environment,85,1
+furries,86,3
+entropy cost,87,1
+called,88,1
+staple,89,2
+recommendation,90,1
+bit,91,20
+years,92,4
+number,93,1
+homecomputer,94,1
+lurks,95,2
+hath,96,1
+guessing,97,1
+letters,98,1
+sentence,99,3
+large,100,1
+lower,101,1
+bits,102,5
+hashed,103,1
+wallets,104,1
+sense,105,1
+odd,106,1
+imaginations,107,3
+system,108,1
+imaginations man passwords stored,109,3
+opens,110,1
+compromised,111,2
+hash,112,1
+managers,113,1
+passphrases eur,114,1
+wait,115,3
+skip,116,1
+matter,117,6
+inflation,118,1
+site good,119,1
+man passwords stored,120,3
+entropy,121,8
+random english sentence,122,3
+strong passwords,123,2
+man,124,6
+password site,125,1
+elegant,126,1
+table,127,1
+side,128,2
+question,129,2
+drugs,130,2
+break,131,3
+security years,132,1
+tended,133,1
+slip,134,2
+machine,135,3
+stored,136,3
+gpus,137,1
+le,138,1
+eur bit,139,1
+hacked,140,1
+usd,141,1
+hashing,142,1
+parallelized,143,1
+main,144,2
+furries wait,145,2
+random english,146,4
+safe password,147,2
+faster,148,1
+passwords,149,11
+fine,150,1
+manager safe,151,1
+tucked,152,1
+claim,153,1
+read,154,1
+bit entropy,155,1
+cpu,156,1
+friends,157,2
+entry,158,2
+forget,159,1
+background,160,1
+typing,161,1
+evil,162,1
+wrong imaginations man passwords,163,3
+gray matter ears,164,3
+dozens,165,1
+code,166,1
+eur,167,4
+passphrase entropy,168,2
+man passwords,169,3
+slot,170,1
+trick,171,1
+running,172,1
+head,173,1
+times,174,2
+fuckkkkkkk,175,2
+today,176,1
+sentence characters,177,2
+physical,178,1
+wicked,179,2
+pretty,180,1
+processes,181,1
+tied,182,1
+decides,183,1
+opening,184,1
+backfire,185,1
+manager passwords,186,1
+master,187,1
+bit bit bit,188,8
+risks,189,2
+encrypted,190,1
+online,191,1
+easier,192,1
+machines,193,1
+matter entropy,194,1
+forms,195,1
+tub,196,1
+sha eur,197,1
+pw,198,5
+downfall,199,1
+firm,200,1
+man passwords stored gray,201,3
+password,202,18
+character,203,1
+estimate,204,3
+english,205,4
+malwares,206,1
+characters length,207,2
+element,208,2
+august,209,4
+vulnerability,210,1
+cost break,211,2
+horse,212,2
+avoided,213,1
+vastly,214,1
+letter,215,2
+access,216,3
+document,217,1
+bits entropy,218,3
+battery,219,2
+long,220,2
+remember,221,1
+man things,222,2
+current,223,1
+default,224,2
+gray,225,3
+attack,226,1
+ripe,227,1
+takes,228,1
+mix,229,1
+key,230,1
+manager,231,9
+cartoon,232,1
+bit passwords,233,1
+disregarding,234,1
+store,235,1
+ideally,236,2
+stay,237,2
+ladyhawke,238,1
+single,239,1
+passwords computer,240,1
+amquote,241,1
+thing,242,1
+characters random,243,2
+memorising,244,1
+open,245,1
+chars,246,2
+estimations,247,1
+till,248,2
+reasonable,249,1
+numbers,250,2
+lifetime,251,2
+strong random,252,1
+keepass,253,2
+secure,254,1
+sha passphrase,255,1
+someplace,256,1
+bit passphrase,257,1
+roughly,258,2
+things,259,3
+basically,260,1
+huge,261,1
+written,262,1
+upsides,263,1
+generate,264,1
+estimates,265,2
+imagine,266,1
+things password,267,1
+overlay,268,1
+passphrase estimate,269,1
+pmtheres,270,1
+access password,271,1
+suppose,272,1
+iterations,273,1
+measure,274,1
+bit bit,275,10
+passphrase,276,8
+worst,277,1
+assume,278,1
+decrypts,279,1
+higher,280,2
+memory,281,1
+passphrases,282,3
+idea,283,1
+passwords time,284,1
+bit bit bit bit,285,6
+passphrases guess,286,1
+linux,287,1
+factor,288,1
+passphrase length,289,1
+calcium,290,1
+start,291,1
+estimated,292,1
+windows,293,1
+manage,294,1
+break passphrases,295,1
+wrong imaginations,296,3
+young man,297,3
+assuming,298,1
+risk,299,1
+time,300,3
+random bit,301,1
+compromise,302,1
+firelight,303,1
+software,304,1
+passphrase passphrases,305,1
+passwords safe,306,1
+type,307,2
+passwords dont,308,1
+routinely,309,1
+seized,310,1
+depends,311,1
+za,312,2
+destroy,313,1
+agree,314,2
+insight,315,1
+sha plain,316,1
+word,317,1
+access machine,318,1
+safe passwords,319,1
+love,320,1
+damage,321,1
+wrong imaginations man,322,3
+log,323,1
+sentences,324,2
+isolated,325,1
+scrappy,326,1
+pw manager,327,2
+amwhat,328,2
+unknown,329,1
+computer,330,3
+modern,331,1
+low,332,1
+usernames,333,1
+place,334,2
+teamviewer,335,1
+wucken,336,1
+nice,337,2
+wrong,338,3
+downtime,339,1
+site,340,4
+keylogger,341,2
+capitalized,342,1
+gray matter,343,3
+luksdump,344,1
+randomly,345,3
+connecting,346,1
+defender,347,1
+random passphrases,348,1
+small,349,1
+computer access,350,1
+addresses,351,2
+quick,352,1
+passphrase attacker,353,1
+onion,354,2
+sound,355,1
+passwords stored gray,356,3
+simple,357,1
+reference,358,1
+dont password,359,1
+plain,360,3
+estimate cost,361,1
+percentage,362,1
+create,363,1
+stored gray,364,3
+bottom,365,1
+stored gray matter ears,366,3
+comparing,367,1
+access pw,368,1
+paranoid,369,1
+manager wait,370,1
+purposes,371,1
+daily,372,1
+safe,373,8
+dont,374,4
+note,375,2
+imaginations man,376,3
+advice,377,1
+imo,378,1
+cal,379,1
+general,380,1
+database,381,1
+security,382,3
+september,383,1
+paper,384,1
+billion,385,2
+spend,386,2
+imaginations man passwords,387,3
+machine break,388,1
+feeble,389,2
+iteration,390,2
+requirements,391,1
+cost,392,5
+advantage,393,1
+overestimate,394,1
+approaches,395,1
+technically,396,1
+ears,397,3
+ammemorizing,398,1
+comic,399,1
+user,400,1
+account,401,3

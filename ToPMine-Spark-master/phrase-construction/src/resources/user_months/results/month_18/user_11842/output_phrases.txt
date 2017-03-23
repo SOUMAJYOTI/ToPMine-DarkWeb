@@ -1,0 +1,61 @@
+Topic 0:
+  items:0.24
+  times:0.16
+  guy:0.16
+  day:0.16
+  sites:0.16
+  june:0.08
+  domain:0.08
+  hidden:0.08
+  couldn:0.08
+  orders:0.08
+
+Topic 1:
+  items:0.24
+  guy:0.16
+  times:0.16
+  sites:0.16
+  day:0.16
+  random:0.08
+  golden:0.08
+  pmi:0.08
+  search:0.08
+  mentally:0.08
+
+Topic 2:
+  items:0.24
+  times:0.16
+  day:0.16
+  guy:0.16
+  sites:0.16
+  quote:0.08
+  onion:0.08
+  legit:0.08
+  aks:0.08
+  legitimacy:0.08
+
+Topic 3:
+  items:0.24
+  sites:0.16
+  day:0.16
+  guy:0.16
+  times:0.16
+  judging:0.08
+  apple:0.08
+  orders:0.08
+  quote:0.08
+  onion:0.08
+
+Topic 4:
+  items:0.24
+  day:0.16
+  sites:0.16
+  times:0.16
+  guy:0.16
+  addresses:0.08
+  market:0.08
+  couldn:0.08
+  capable:0.08
+  illegal:0.08
+
+K: 5, Log-Likelihood: -53.273, Alpha: 11.000, Beta: 1.100

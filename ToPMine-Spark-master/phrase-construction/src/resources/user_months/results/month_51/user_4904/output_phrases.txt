@@ -1,0 +1,61 @@
+Topic 0:
+  questions:0.28
+  tumbler:0.28
+  wallet:0.28
+  blockchain:0.28
+  havent:0.14
+  haven:0.14
+  step:0.14
+  tumbling:0.14
+  coin:0.14
+  service:0.14
+
+Topic 1:
+  tumbler:0.28
+  questions:0.28
+  wallet:0.28
+  blockchain:0.28
+  havent:0.14
+  haven:0.14
+  personal:0.14
+  wallets:0.14
+  services:0.14
+  regularly:0.14
+
+Topic 2:
+  wallet:0.28
+  blockchain:0.28
+  questions:0.28
+  tumbler:0.28
+  safe:0.14
+  tumbling:0.14
+  personal:0.14
+  removed:0.14
+  method:0.14
+  laziness:0.14
+
+Topic 3:
+  blockchain:0.28
+  tumbler:0.28
+  questions:0.28
+  wallet:0.28
+  havent:0.14
+  haven:0.14
+  anonymity:0.14
+  coinbase:0.14
+  tumble:0.14
+  effective:0.14
+
+Topic 4:
+  blockchain:0.28
+  questions:0.28
+  tumbler:0.28
+  wallet:0.28
+  ellie:0.14
+  good:0.14
+  technique:0.14
+  creating:0.14
+  address:0.14
+  uncertainty:0.14
+
+K: 5, Log-Likelihood: -161.783, Alpha: 11.000, Beta: 1.100

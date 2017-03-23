@@ -1,0 +1,61 @@
+Topic 0:
+  market:2.63
+  system:0.61
+  check:0.59
+  security:0.48
+  break:0.47
+  biggest:0.47
+  markets:0.47
+  sr:0.47
+  secured:0.45
+  week:0.44
+
+Topic 1:
+  market:4.99
+  secured:1.23
+  sr:1.21
+  markets:1.21
+  biggest:1.21
+  break:1.21
+  security:1.20
+  exposed:0.51
+  um:0.51
+  ways:0.51
+
+Topic 2:
+  design:1.41
+  surprised:1.38
+  seraphic:0.89
+  tub:0.70
+  system:0.67
+  place:0.65
+  atrocity:0.64
+  lasted:0.64
+  long:0.63
+  rigged:0.63
+
+Topic 3:
+  design:1.32
+  surprised:1.27
+  seraphic:0.81
+  check:0.68
+  system:0.66
+  tub:0.64
+  didnt:0.59
+  rigged:0.58
+  jury:0.58
+  lasted:0.58
+
+Topic 4:
+  market:1.46
+  design:0.88
+  surprised:0.87
+  check:0.78
+  seraphic:0.73
+  system:0.58
+  forum:0.50
+  long:0.46
+  jury:0.46
+  didnt:0.46
+
+K: 5, Log-Likelihood: -665.986, Alpha: 11.000, Beta: 1.100

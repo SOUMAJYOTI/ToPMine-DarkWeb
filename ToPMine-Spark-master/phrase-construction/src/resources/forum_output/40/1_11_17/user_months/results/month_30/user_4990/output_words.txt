@@ -1,0 +1,61 @@
+Topic 0:
+  coin:13.00
+  good:9.73
+  time:5.62
+  top:5.48
+  btc:5.17
+  scam:5.13
+  forums:4.93
+  technical:4.59
+  priority:3.90
+  thing:3.90
+
+Topic 1:
+  fog:17.90
+  bitcoin:12.27
+  agora:7.94
+  agra:7.46
+  issues:7.33
+  issue:6.58
+  haven:6.45
+  mentioned:5.90
+  connection:5.90
+  statement:5.90
+
+Topic 2:
+  coins:7.43
+  day:6.62
+  stay:4.37
+  big:3.85
+  exit:3.82
+  feel:3.58
+  agora:3.51
+  suspected:3.46
+  wrong:2.64
+  withdrawl:2.46
+
+Topic 3:
+  today:17.54
+  payment:16.55
+  mode:13.69
+  ago:7.40
+  vacation:7.26
+  days:7.04
+  agora:6.56
+  running:6.45
+  site:6.43
+  forums:5.51
+
+Topic 4:
+  agora:3.16
+  problems:2.76
+  days:2.46
+  ag:2.37
+  forum:2.23
+  havent:2.03
+  large:1.99
+  btc:1.98
+  withdrawl:1.97
+  issue:1.83
+
+K: 5, Log-Likelihood: -4528.124, Alpha: 11.000, Beta: 1.100

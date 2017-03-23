@@ -1,0 +1,61 @@
+Topic 0:
+  edibles:3.20
+  infused:2.59
+  markets:1.24
+  rso:1.20
+  pure:0.76
+  pack:0.76
+  cannabutter:0.75
+  oil:0.75
+  quality:0.75
+  items:0.75
+
+Topic 1:
+  markets:1.33
+  edibles:1.24
+  infused:0.67
+  links:0.59
+  signature:0.58
+  rso:0.54
+  free:0.43
+  candies:0.43
+  heavy:0.42
+  high:0.42
+
+Topic 2:
+  edibles:2.69
+  infused:1.29
+  markets:1.08
+  rso:0.88
+  market:0.56
+  listed:0.56
+  punch:0.55
+  items:0.55
+  quality:0.55
+  oil:0.55
+
+Topic 3:
+  markets:2.07
+  links:1.49
+  signature:0.92
+  edibles:0.57
+  announcement:0.45
+  free:0.38
+  high:0.38
+  candies:0.38
+  heavy:0.38
+  year:0.31
+
+Topic 4:
+  markets:1.28
+  links:1.27
+  announcement:1.15
+  signature:0.76
+  high:0.52
+  candies:0.51
+  heavy:0.51
+  free:0.51
+  customer:0.51
+  long:0.51
+
+K: 5, Log-Likelihood: -699.208, Alpha: 11.000, Beta: 1.100

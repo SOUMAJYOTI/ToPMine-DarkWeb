@@ -1,0 +1,61 @@
+Topic 0:
+  big characters:1.91
+  font:1.88
+  definately:0.74
+  size:0.74
+  introduce:0.74
+  posts:0.74
+  dont:0.74
+  change:0.74
+  mods:0.74
+  sizes:0.74
+
+Topic 1:
+  satire:0.51
+  potential:0.50
+  parody:0.50
+  agora:0.50
+  dont find:0.45
+  big:0.45
+  popular:0.38
+  knockout:0.38
+  benzos:0.38
+  steroids:0.38
+
+Topic 2:
+  big:0.52
+  dont find:0.49
+  agora:0.41
+  potential:0.41
+  satire:0.40
+  parody:0.40
+  awesome:0.38
+  expect:0.38
+  guys:0.38
+  book:0.38
+
+Topic 3:
+  dont find:0.50
+  big:0.50
+  agora:0.47
+  parody:0.47
+  potential:0.47
+  satire:0.47
+  font:0.34
+  shithead:0.34
+  flax:0.34
+  people:0.34
+
+Topic 4:
+  parody:0.59
+  satire:0.59
+  agora:0.58
+  potential:0.58
+  road:0.47
+  coachellas:0.47
+  markets:0.47
+  silk:0.47
+  create:0.47
+  coachella:0.47
+
+K: 5, Log-Likelihood: -378.013, Alpha: 11.000, Beta: 1.100

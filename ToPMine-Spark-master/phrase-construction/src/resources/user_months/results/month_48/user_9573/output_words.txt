@@ -1,0 +1,61 @@
+Topic 0:
+  good:0.93
+  info:0.84
+  wallet:0.79
+  withdraws:0.66
+  deposits:0.60
+  hasted:0.41
+  highly:0.41
+  safety:0.41
+  recommend:0.41
+  vulnerable:0.41
+
+Topic 1:
+  deposits:2.01
+  withdraws:1.90
+  couple:0.76
+  happen:0.76
+  btc:0.76
+  safely:0.75
+  narrow:0.75
+  care:0.75
+  cost:0.75
+  takes:0.75
+
+Topic 2:
+  good:1.39
+  wallet:1.03
+  info:0.77
+  standard:0.50
+  blockchain:0.50
+  install:0.50
+  download:0.50
+  hacks:0.50
+  safety:0.50
+  vulnerable:0.50
+
+Topic 3:
+  good:1.26
+  wallet:1.02
+  info:0.84
+  pretty:0.49
+  coins:0.49
+  idea:0.49
+  download:0.48
+  hacks:0.48
+  electrum:0.48
+  recommend:0.48
+
+Topic 4:
+  good:1.09
+  wallet:0.90
+  info:0.82
+  withdraws:0.55
+  deposits:0.54
+  electrum:0.44
+  vulnerable:0.44
+  hasted:0.44
+  idea:0.44
+  doesn:0.44
+
+K: 5, Log-Likelihood: -330.524, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  forums:1.07
+  wiki:1.07
+  dont:1.06
+  hidden:1.05
+  vendors:0.51
+  thing:0.45
+  links:0.45
+  markets:0.45
+  shops:0.45
+  big:0.45
+
+Topic 1:
+  dont:0.85
+  hidden:0.58
+  wiki:0.56
+  forums:0.55
+  vendors:0.49
+  drugmarket:0.40
+  site:0.37
+  unknown:0.37
+  reddit:0.30
+  find:0.30
+
+Topic 2:
+  dont:0.61
+  drugmarket:0.59
+  forums:0.46
+  wiki:0.45
+  vendors:0.45
+  hidden:0.44
+  find:0.38
+  unknown:0.36
+  site:0.36
+  site scam:0.30
+
+Topic 3:
+  market:1.30
+  reddit:1.30
+  thread:0.53
+  link:0.53
+  site scam:0.53
+  chances:0.52
+  dont deepdotweb:0.52
+  listed:0.52
+  feedback:0.52
+  bunch:0.52
+
+Topic 4:
+  drugmarket:0.75
+  market:0.47
+  reddit:0.47
+  find:0.45
+  dont:0.44
+  site scam:0.41
+  link:0.40
+  thread:0.40
+  vendors:0.40
+  mushrooms:0.32
+
+K: 5, Log-Likelihood: -523.116, Alpha: 11.000, Beta: 1.100

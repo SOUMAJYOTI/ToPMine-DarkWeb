@@ -1,0 +1,61 @@
+Topic 0:
+  ei:0.40
+  sivusto:0.40
+  kille:0.39
+  tehd:0.20
+  useth:0.20
+  tarry:0.20
+  topicceja:0.20
+  sanonpa:0.20
+  vaan:0.20
+  kokemuksia:0.20
+
+Topic 1:
+  sivusto:0.40
+  kille:0.40
+  ei:0.39
+  pit:0.20
+  koskaan:0.20
+  rojut:0.20
+  viikonloppuna:0.20
+  ilmoiteta:0.20
+  huollossa:0.20
+  jotain:0.20
+
+Topic 2:
+  kille:0.41
+  sivusto:0.40
+  ei:0.39
+  nain:0.20
+  siis:0.20
+  burin:0.20
+  vastaavaa:0.20
+  aukeaa:0.20
+  tai:0.20
+  kun:0.20
+
+Topic 3:
+  ei:0.40
+  sivusto:0.40
+  kille:0.40
+  tehd:0.20
+  topicceja:0.20
+  vaan:0.20
+  useth:0.20
+  tarry:0.20
+  sanonpa:0.20
+  kokemuksia:0.20
+
+Topic 4:
+  ei:0.40
+  kille:0.40
+  sivusto:0.39
+  sanonpa:0.20
+  useth:0.20
+  tarry:0.20
+  vaan:0.20
+  topicceja:0.20
+  tehd:0.20
+  kokemuksia:0.20
+
+K: 5, Log-Likelihood: -162.428, Alpha: 11.000, Beta: 1.100

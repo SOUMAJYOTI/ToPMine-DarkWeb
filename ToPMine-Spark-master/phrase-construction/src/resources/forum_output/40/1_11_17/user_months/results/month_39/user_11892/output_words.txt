@@ -1,0 +1,61 @@
+Topic 0:
+  fa:10.05
+  pgp:10.04
+  key:9.09
+  login:7.86
+  pasting:5.39
+  true:5.36
+  turning:5.36
+  invalid:5.23
+  username:4.96
+  grant:4.91
+
+Topic 1:
+  general:12.19
+  vendor:4.52
+  comrades:4.26
+  trust:4.19
+  rosakovo:4.17
+  market:3.66
+  free:3.40
+  accounts:2.69
+  strong:2.64
+  traffic:2.47
+
+Topic 2:
+  market:4.06
+  vendor:3.01
+  general:1.98
+  check:1.75
+  thing:1.75
+  logged:1.74
+  messages:1.65
+  funny:1.60
+  buy:1.49
+  comrade:1.48
+
+Topic 3:
+  market:21.92
+  crypto:20.77
+  vendors:8.78
+  fe:8.44
+  comrades:8.16
+  general:7.64
+  comrade:5.89
+  escrow:3.68
+  open:3.62
+  peace:3.53
+
+Topic 4:
+  market:7.25
+  pgp:5.75
+  fa:4.74
+  zaphod:4.00
+  key:3.62
+  true:3.27
+  login:2.97
+  username:2.88
+  invalid:2.61
+  turning:2.48
+
+K: 5, Log-Likelihood: -3852.675, Alpha: 11.000, Beta: 1.100

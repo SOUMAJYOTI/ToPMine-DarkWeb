@@ -1,0 +1,41 @@
+Topic 0:
+  compliant:0.08
+  based:0.08
+  fwiw:0.08
+  dcma:0.08
+  gamesome:0.08
+  crazyeights:0.08
+
+Topic 1:
+  based:0.08
+  fwiw:0.08
+  crazyeights:0.08
+  compliant:0.08
+  dcma:0.08
+  gamesome:0.08
+
+Topic 2:
+  gamesome:0.08
+  crazyeights:0.08
+  fwiw:0.08
+  compliant:0.08
+  dcma:0.08
+  based:0.08
+
+Topic 3:
+  dcma:0.08
+  based:0.08
+  fwiw:0.08
+  compliant:0.08
+  crazyeights:0.08
+  gamesome:0.08
+
+Topic 4:
+  dcma:0.08
+  crazyeights:0.08
+  gamesome:0.08
+  compliant:0.08
+  based:0.08
+  fwiw:0.08
+
+K: 5, Log-Likelihood: -4.359, Alpha: 11.000, Beta: 1.100

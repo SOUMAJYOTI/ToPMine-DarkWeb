@@ -1,0 +1,61 @@
+Topic 0:
+  encryption:25.53
+  encrypt:14.71
+  messages:14.54
+  safe:13.87
+  bitmessage:12.71
+  stay:10.13
+  quote:9.16
+  code:8.98
+  case:8.78
+  encrypted:8.23
+
+Topic 1:
+  key:21.14
+  sillywabbit:15.06
+  time:10.16
+  pgp:6.71
+  spitfire:6.66
+  public:6.16
+  subkey:5.96
+  set:5.13
+  created:4.95
+  main:4.88
+
+Topic 2:
+  tor:19.43
+  dont:17.93
+  good:17.28
+  vendor:12.61
+  le:12.17
+  sr:11.95
+  drugs:11.90
+  work:10.61
+  find:10.52
+  agora:9.71
+
+Topic 3:
+  people:40.44
+  dont:11.66
+  bad:11.31
+  lsd:10.54
+  password:10.50
+  acid:9.00
+  real:8.88
+  allot:8.06
+  love:7.32
+  life:6.87
+
+Topic 4:
+  tor:32.84
+  vendors:29.93
+  traffic:13.97
+  tmg:11.60
+  le:10.46
+  ag:8.94
+  windows:8.93
+  analysis:8.50
+  public:7.65
+  network:6.94
+
+K: 5, Log-Likelihood: -31233.817, Alpha: 11.000, Beta: 1.100

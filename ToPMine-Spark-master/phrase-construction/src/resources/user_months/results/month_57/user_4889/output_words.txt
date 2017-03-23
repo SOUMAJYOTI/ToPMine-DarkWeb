@@ -1,0 +1,61 @@
+Topic 0:
+  mymarkethaul:2.55
+  bullshit:2.53
+  thinking:2.53
+  market:2.41
+  wallet:1.87
+  mind:1.50
+  fallen:1.49
+  victim:1.49
+  call:1.49
+  trolling:1.49
+
+Topic 1:
+  wallet:3.05
+  abraxas:2.06
+  public:1.96
+  agora:1.08
+  withdrawals:1.08
+  evolution:1.00
+  wallets:0.80
+  knowing:0.74
+  markets:0.72
+  coins:0.69
+
+Topic 2:
+  coins:3.77
+  bitstamp:2.28
+  abraxas:2.23
+  withdrew:1.82
+  deposit:1.82
+  deposited:1.82
+  coming:1.16
+  withdrawal:1.14
+  walletexplorer:1.13
+  flaw:1.13
+
+Topic 3:
+  wallet:3.57
+  market:3.55
+  number:1.58
+  listings:1.58
+  amount:1.57
+  earlier:1.57
+  balances:1.04
+  btcmiddleearth:1.04
+  viewable:1.04
+  bitcoinfog:1.03
+
+Topic 4:
+  wallet:7.94
+  abraxas:7.30
+  public:2.29
+  evolution:1.55
+  agora:1.46
+  coming:1.10
+  withdrawals:0.98
+  site:0.67
+  sites:0.67
+  markets:0.63
+
+K: 5, Log-Likelihood: -1275.640, Alpha: 11.000, Beta: 1.100

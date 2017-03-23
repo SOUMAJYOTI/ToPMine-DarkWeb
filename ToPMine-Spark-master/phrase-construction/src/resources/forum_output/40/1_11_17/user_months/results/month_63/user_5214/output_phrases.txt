@@ -1,0 +1,61 @@
+Topic 0:
+  september:0.70
+  security:0.70
+  tails:0.54
+  locally:0.46
+  browsing:0.46
+  basically:0.45
+  burner laptop darknetmarket shopping:0.45
+  tails usb:0.45
+  recommend good:0.45
+  ketaman:0.45
+
+Topic 1:
+  arm tails:1.66
+  easily:1.65
+  good burner laptop darknetmarket:1.65
+  nordicwhite:1.65
+  repaired:1.65
+  furbished:1.65
+  parts:1.65
+  laptops:1.65
+  man:1.65
+  popular:1.65
+
+Topic 2:
+  equal:1.32
+  atop:1.32
+  cash:1.31
+  vending large shopping:1.31
+  security buy:1.31
+  offers:1.31
+  dn:1.31
+  ketaman:1.30
+  worried:1.30
+  recommend good:1.30
+
+Topic 3:
+  bytes:1.67
+  flags:1.62
+  vm:1.56
+  write data sector:1.49
+  computer:1.48
+  wifi:1.41
+  additional:0.80
+  delete:0.80
+  add:0.80
+  completely:0.79
+
+Topic 4:
+  wifi:2.13
+  computer:2.06
+  write data sector:2.04
+  vm:1.99
+  flags:1.91
+  bytes:1.85
+  safety:0.90
+  access:0.90
+  flag:0.89
+  subway:0.89
+
+K: 5, Log-Likelihood: -1874.178, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  chapter:48.85
+  tao:41.50
+  people:40.64
+  called:29.06
+  great:24.21
+  heaven:22.35
+  earth:20.91
+  things:20.42
+  create:11.99
+  virtue:11.86
+
+Topic 1:
+  tao:44.70
+  great:39.61
+  things:35.10
+  chapter:30.98
+  virtue:20.10
+  good:18.82
+  earth:18.22
+  appears:15.99
+  attained:14.22
+  oneness:14.22
+
+Topic 2:
+  website:15.06
+  market:14.67
+  wallet:13.80
+  love:12.31
+  system:11.98
+  dream:11.86
+  vendors:10.74
+  quote:10.11
+  btc:9.04
+  check:8.85
+
+Topic 3:
+  people:43.57
+  sages:20.10
+  tao:20.05
+  called:19.59
+  death:16.63
+  great:16.44
+  heaven:14.77
+  good:13.37
+  virtue:12.81
+  state:12.76
+
+Topic 4:
+  people:25.03
+  tao:23.71
+  called:19.09
+  country:18.40
+  small:18.13
+  sages:17.57
+  large:15.99
+  virtue:15.23
+  december:14.63
+  good:12.25
+
+K: 5, Log-Likelihood: -41550.104, Alpha: 11.000, Beta: 1.100

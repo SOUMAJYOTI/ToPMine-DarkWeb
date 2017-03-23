@@ -1,0 +1,61 @@
+Topic 0:
+  btc:0.71
+  password:0.55
+  good darkweb:0.44
+  market:0.44
+  hold:0.44
+  dont:0.44
+  feel:0.44
+  fog:0.44
+  market hold:0.44
+  mixing:0.44
+
+Topic 1:
+  btc:0.76
+  problems:0.55
+  nice:0.55
+  hold darkweb:0.54
+  yeah:0.54
+  anonymously:0.54
+  move:0.54
+  transfer:0.54
+  mixing:0.54
+  fully:0.54
+
+Topic 2:
+  password:0.96
+  btc:0.55
+  electrum:0.51
+  pmyou:0.50
+  heard:0.50
+  downloaded:0.50
+  mentioned:0.50
+  researching:0.50
+  wallet tails:0.50
+  online:0.50
+
+Topic 3:
+  password:0.62
+  btc:0.61
+  wallet tails:0.46
+  functionality:0.46
+  office:0.46
+  online:0.46
+  downloaded:0.46
+  owockeznan:0.46
+  cloud:0.46
+  posting:0.46
+
+Topic 4:
+  runs:2.34
+  bit:2.34
+  chromium:2.34
+  test:1.10
+  sceptical:1.10
+  assed:1.10
+  command:1.10
+  messaging:1.10
+  happily:1.10
+  coinjoin:1.10
+
+K: 5, Log-Likelihood: -816.158, Alpha: 11.000, Beta: 1.100

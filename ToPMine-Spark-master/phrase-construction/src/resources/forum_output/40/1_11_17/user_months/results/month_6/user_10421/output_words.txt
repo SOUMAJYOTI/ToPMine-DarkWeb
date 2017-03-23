@@ -1,0 +1,61 @@
+Topic 0:
+  btc:0.78
+  mouth:0.40
+  ganja:0.40
+  shortly:0.40
+  hours:0.40
+  watering:0.40
+  february:0.20
+  quote:0.20
+  view:0.20
+  aha:0.20
+
+Topic 1:
+  btc:0.80
+  hours:0.41
+  mouth:0.40
+  watering:0.40
+  ganja:0.40
+  shortly:0.39
+  movements:0.20
+  correct:0.20
+  market:0.20
+  cheers:0.20
+
+Topic 2:
+  btc:0.82
+  shortly:0.40
+  ganja:0.40
+  watering:0.40
+  mouth:0.40
+  hours:0.39
+  site:0.20
+  deposites:0.20
+  delays:0.20
+  waiting:0.20
+
+Topic 3:
+  btc:0.83
+  shortly:0.41
+  mouth:0.40
+  ganja:0.40
+  watering:0.40
+  hours:0.38
+  moved:0.20
+  couple:0.20
+  exchanges:0.20
+  posted:0.20
+
+Topic 4:
+  btc:0.77
+  hours:0.42
+  watering:0.40
+  shortly:0.40
+  ganja:0.40
+  mouth:0.40
+  wallet:0.20
+  correct:0.20
+  movements:0.20
+  cheers:0.20
+
+K: 5, Log-Likelihood: -135.292, Alpha: 11.000, Beta: 1.100

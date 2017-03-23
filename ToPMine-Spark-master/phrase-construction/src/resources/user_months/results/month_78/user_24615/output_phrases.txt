@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:2.12
+  search:1.15
+  changed:1.11
+  selection:1.10
+  onlythis:1.10
+  default:1.10
+  top:1.09
+  link:0.78
+  happy:0.76
+  vendor:0.73
+
+Topic 1:
+  reviews nucleus:4.99
+  valhalla:2.72
+  import:2.40
+  site sense:2.40
+  idea:2.40
+  signed:2.40
+  decided:2.40
+  option:2.40
+  fresh:2.40
+  sales sales:2.40
+
+Topic 2:
+  vendors:1.66
+  link:1.41
+  search:1.34
+  find:1.21
+  provide:1.21
+  dunno:1.20
+  account:1.20
+  direct:1.20
+  finds:1.20
+  wrong:1.20
+
+Topic 3:
+  sale tabs bromo dragonfly:10.15
+  feb:10.15
+  sale:8.45
+  fast delivery:8.45
+  gods cream:5.04
+  sale hits feb:5.04
+  amazing:3.34
+  odd:3.34
+  bag:3.34
+  stealth nice:3.34
+
+Topic 4:
+  dmt:3.77
+  guide:3.31
+  completely:2.45
+  maths glad:2.45
+  dat hash:2.45
+  producers:2.45
+  source:2.45
+  feel:2.45
+  rite:2.45
+  rest:2.45
+
+K: 5, Log-Likelihood: -2781.026, Alpha: 11.000, Beta: 1.100

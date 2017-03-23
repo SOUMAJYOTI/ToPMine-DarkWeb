@@ -1,0 +1,61 @@
+Topic 0:
+  bottles:0.40
+  cheap:0.40
+  works:0.20
+  solution:0.20
+  interest:0.20
+  round:0.20
+  check:0.20
+  charm:0.20
+  tested:0.20
+  drop:0.20
+
+Topic 1:
+  bottles:0.40
+  cheap:0.40
+  etizolam:0.20
+  arrival:0.20
+  grabbed:0.20
+  update:0.20
+  couple:0.20
+  liquid:0.20
+  tested:0.20
+  check:0.20
+
+Topic 2:
+  bottles:0.40
+  cheap:0.40
+  couple:0.20
+  etizolam:0.20
+  arrival:0.20
+  grabbed:0.20
+  update:0.20
+  liquid:0.20
+  dribblets:0.20
+  round:0.20
+
+Topic 3:
+  cheap:0.40
+  bottles:0.40
+  charm:0.20
+  drop:0.20
+  tested:0.20
+  round:0.20
+  liquid:0.20
+  interest:0.20
+  dribblets:0.20
+  check:0.20
+
+Topic 4:
+  cheap:0.40
+  bottles:0.40
+  interest:0.20
+  works:0.20
+  dribblets:0.20
+  charm:0.20
+  check:0.20
+  solution:0.20
+  tested:0.20
+  drop:0.20
+
+K: 5, Log-Likelihood: -53.222, Alpha: 11.000, Beta: 1.100

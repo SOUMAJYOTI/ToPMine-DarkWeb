@@ -1,0 +1,61 @@
+Topic 0:
+  mutter:0.28
+  change:0.14
+  chrome:0.14
+  yell:0.14
+  shiny:0.14
+  silver:0.14
+  grey:0.14
+  gold:0.14
+  lucky:0.14
+  item:0.14
+
+Topic 1:
+  mutter:0.28
+  quote:0.14
+  ghost:0.14
+  check:0.14
+  ages:0.14
+  march:0.14
+  op:0.14
+  reason:0.14
+  bumped:0.14
+  posted:0.14
+
+Topic 2:
+  mutter:0.28
+  grey:0.14
+  lucky:0.14
+  item:0.14
+  shiny:0.14
+  silver:0.14
+  gold:0.14
+  change:0.14
+  yell:0.14
+  chrome:0.14
+
+Topic 3:
+  mutter:0.28
+  shiny:0.14
+  grey:0.14
+  lucky:0.14
+  gold:0.14
+  yell:0.14
+  item:0.14
+  change:0.14
+  silver:0.14
+  chrome:0.14
+
+Topic 4:
+  mutter:0.28
+  ago:0.14
+  march:0.14
+  bumped:0.14
+  reason:0.14
+  op:0.14
+  ghost:0.14
+  ages:0.14
+  pmsr:0.14
+  quote:0.14
+
+K: 5, Log-Likelihood: -51.469, Alpha: 11.000, Beta: 1.100

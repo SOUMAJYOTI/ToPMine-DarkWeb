@@ -1,0 +1,61 @@
+Topic 0:
+  dev:1.32
+  onion:0.93
+  wallet:0.73
+  quote boneskoopa february:0.59
+  droit:0.56
+  code:0.56
+  speak:0.56
+  fresh:0.56
+  soonest:0.56
+  version:0.56
+
+Topic 1:
+  type:1.72
+  system:0.76
+  wild:0.75
+  shit:0.75
+  onion dash:0.75
+  black:0.75
+  guess:0.75
+  killer:0.74
+  tek:0.74
+  book:0.74
+
+Topic 2:
+  type:1.08
+  tor:0.60
+  dev:0.59
+  quote boneskoopa february:0.57
+  localbitcoins:0.54
+  lbc:0.54
+  black:0.54
+  ads:0.53
+  killer:0.53
+  platform:0.53
+
+Topic 3:
+  onion:1.26
+  dev:0.67
+  work:0.56
+  type:0.56
+  electric:0.56
+  currencies:0.55
+  nucleus:0.55
+  dkf:0.55
+  digital:0.55
+  izq:0.54
+
+Topic 4:
+  type:1.04
+  dev:0.70
+  tor:0.61
+  quote boneskoopa february:0.59
+  tek:0.51
+  platform:0.51
+  lbc:0.51
+  electric:0.51
+  ads:0.51
+  book:0.51
+
+K: 5, Log-Likelihood: -418.497, Alpha: 11.000, Beta: 1.100

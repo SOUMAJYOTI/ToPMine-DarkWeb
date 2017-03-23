@@ -1,0 +1,61 @@
+Topic 0:
+  january:2.35
+  sweating:1.56
+  customers:1.55
+  bitcoins:1.42
+  bitstamp:1.42
+  write:1.16
+  evilgrin:0.81
+  pmim:0.81
+  repaid:0.81
+  sweat:0.80
+
+Topic 1:
+  bitstamp:6.45
+  security:2.63
+  deposits:2.62
+  service:2.62
+  addresses:1.69
+  honored:1.66
+  maintains:1.65
+  issued:1.65
+  reserves:1.65
+  utc:1.65
+
+Topic 2:
+  sweating:4.43
+  pmquote:4.03
+  january:3.74
+  bitblender:2.37
+  write:1.98
+  sleep:1.85
+  sucks:1.83
+  quote:1.79
+  sweat:1.76
+  repaid:1.74
+
+Topic 3:
+  january:3.04
+  bitstamp:1.99
+  sweating:1.69
+  customers:1.15
+  write:1.01
+  bitcoins:0.84
+  evilgrin:0.80
+  pmim:0.79
+  repaid:0.78
+  quote:0.77
+
+Topic 4:
+  bitstamp:2.86
+  january:2.80
+  bitcoins:1.33
+  sweating:1.21
+  customers:0.85
+  write:0.76
+  evilgrin:0.59
+  sweat:0.58
+  quote:0.58
+  repaid:0.58
+
+K: 5, Log-Likelihood: -704.755, Alpha: 11.000, Beta: 1.100

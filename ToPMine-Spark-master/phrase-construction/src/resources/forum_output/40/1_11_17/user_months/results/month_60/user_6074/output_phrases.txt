@@ -1,0 +1,61 @@
+Topic 0:
+  arthur:0.14
+  power:0.14
+  machine:0.14
+  triturate:0.14
+  colton:0.14
+  usa:0.14
+  mi:0.14
+  find:0.14
+  company:0.14
+  making:0.14
+
+Topic 1:
+  microdots:0.14
+  mi:0.14
+  machine:0.14
+  company:0.14
+  detract:0.14
+  usa:0.14
+  find:0.14
+  making:0.14
+  arthur:0.14
+  power:0.14
+
+Topic 2:
+  making:0.14
+  usa:0.14
+  detract:0.14
+  triturate:0.14
+  find:0.14
+  mi:0.14
+  arthur:0.14
+  company:0.14
+  colton:0.14
+  machine:0.14
+
+Topic 3:
+  colton:0.14
+  microdots:0.14
+  triturate:0.14
+  power:0.14
+  usa:0.14
+  machine:0.14
+  find:0.14
+  company:0.14
+  mi:0.14
+  arthur:0.14
+
+Topic 4:
+  making:0.14
+  company:0.14
+  detract:0.14
+  power:0.14
+  colton:0.14
+  mi:0.14
+  find:0.14
+  triturate:0.14
+  microdots:0.14
+  machine:0.14
+
+K: 5, Log-Likelihood: -36.311, Alpha: 11.000, Beta: 1.100

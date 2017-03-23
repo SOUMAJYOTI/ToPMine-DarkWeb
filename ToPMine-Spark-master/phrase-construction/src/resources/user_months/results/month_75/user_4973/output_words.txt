@@ -1,0 +1,61 @@
+Topic 0:
+  nucleus:0.75
+  longevity:0.20
+  shocked:0.20
+  find:0.20
+  market:0.20
+  gained:0.20
+  overly:0.20
+  including:0.20
+  features:0.20
+  primary:0.20
+
+Topic 1:
+  nucleus:0.86
+  overly:0.20
+  shocked:0.20
+  importantly:0.20
+  security:0.20
+  proof:0.20
+  uri:0.20
+  url:0.20
+  onion:0.20
+  rotating:0.20
+
+Topic 2:
+  nucleus:0.76
+  fa:0.20
+  isnt:0.20
+  market:0.20
+  including:0.20
+  url:0.20
+  ui:0.20
+  primary:0.20
+  complicated:0.20
+  rotating:0.20
+
+Topic 3:
+  nucleus:0.82
+  trust:0.20
+  isnt:0.20
+  find:0.20
+  onion:0.20
+  uri:0.20
+  security:0.20
+  dhl:0.20
+  including:0.20
+  ddos:0.20
+
+Topic 4:
+  nucleus:0.82
+  dhl:0.20
+  security:0.20
+  features:0.20
+  uri:0.20
+  ddos:0.20
+  gained:0.20
+  url:0.20
+  gimmicky:0.20
+  market:0.20
+
+K: 5, Log-Likelihood: -96.624, Alpha: 11.000, Beta: 1.100

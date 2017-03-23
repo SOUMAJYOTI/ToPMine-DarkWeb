@@ -1,0 +1,61 @@
+Topic 0:
+  referred:0.16
+  fresh:0.08
+  links:0.08
+  link:0.08
+  thread:0.08
+  sticking:0.08
+  full:0.08
+  wait:0.08
+  limit:0.08
+  release:0.08
+
+Topic 1:
+  referred:0.16
+  register:0.08
+  error:0.08
+  user:0.08
+  wait:0.08
+  limit:0.08
+  time:0.08
+  release:0.08
+  reached:0.08
+  full:0.08
+
+Topic 2:
+  referred:0.16
+  fresh:0.08
+  thread:0.08
+  links:0.08
+  sticking:0.08
+  link:0.08
+  reached:0.08
+  limit:0.08
+  time:0.08
+  register:0.08
+
+Topic 3:
+  referred:0.16
+  release:0.08
+  time:0.08
+  error:0.08
+  full:0.08
+  user:0.08
+  register:0.08
+  limit:0.08
+  wait:0.08
+  reached:0.08
+
+Topic 4:
+  referred:0.16
+  link:0.08
+  sticking:0.08
+  thread:0.08
+  links:0.08
+  fresh:0.08
+  reached:0.08
+  error:0.08
+  time:0.08
+  release:0.08
+
+K: 5, Log-Likelihood: -17.459, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,16 @@
+normal,0,1
+hours,1,1
+process,2,1
+alice,3,1
+update,4,1
+pandora,5,1
+withdrawal,6,2
+check,7,1
+theft,8,1
+long,9,1
+withdrawals,10,1
+posted,11,1
+market,12,1
+funds,13,1
+queue,14,1
+alfred,15,1

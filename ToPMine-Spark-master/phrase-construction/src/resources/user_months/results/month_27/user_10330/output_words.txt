@@ -1,0 +1,61 @@
+Topic 0:
+  zaphod:8.06
+  mail:5.71
+  tor:5.23
+  email:4.92
+  service:2.47
+  appears:2.24
+  safe:2.20
+  edit:2.01
+  individual:2.01
+  encrypt:1.95
+
+Topic 1:
+  true:3.21
+  surveillance:3.05
+  sites:3.01
+  materials:3.01
+  isps:2.94
+  find:2.94
+  government:2.56
+  years:2.48
+  bad:2.30
+  legal:2.14
+
+Topic 2:
+  people:5.21
+  police:4.55
+  tor:3.84
+  dark:2.87
+  abuse:2.70
+  government:2.50
+  children:2.45
+  crime:2.40
+  drugs:2.12
+  time:2.01
+
+Topic 3:
+  net:10.72
+  court:9.34
+  dark:8.80
+  police:7.16
+  search:6.63
+  cameron:6.31
+  law:6.00
+  children:5.66
+  child:5.62
+  people:5.36
+
+Topic 4:
+  things:8.42
+  good:6.95
+  mailtor:6.65
+  service:6.42
+  children:6.19
+  wallet:5.92
+  zaphod:5.36
+  privacy:4.76
+  december:4.31
+  surveillance:3.95
+
+K: 5, Log-Likelihood: -10454.788, Alpha: 11.000, Beta: 1.100

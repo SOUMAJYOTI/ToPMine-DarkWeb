@@ -1,0 +1,61 @@
+Topic 0:
+  dislike:3.89
+  couple:3.86
+  june:3.69
+  times:2.89
+  krebs:2.76
+  quote:2.71
+  dont:2.58
+  carding:2.57
+  considered:2.53
+  job:2.52
+
+Topic 1:
+  making:2.46
+  article:2.20
+  fast:1.75
+  credit:1.40
+  cards:1.29
+  weapons:1.14
+  shortcuts:1.11
+  involve:1.11
+  drugs:1.10
+  easy:1.03
+
+Topic 2:
+  encryption:20.39
+  dna:14.54
+  secret:12.98
+  service:10.88
+  suspects:10.66
+  computers:9.72
+  key:9.35
+  computer:9.10
+  crack:8.53
+  keys:7.14
+
+Topic 3:
+  credit:1.10
+  making:0.96
+  card:0.61
+  carding:0.57
+  dont:0.55
+  years:0.54
+  cards:0.54
+  attack:0.53
+  hard:0.50
+  guys:0.46
+
+Topic 4:
+  secret:4.21
+  dna:3.15
+  distributed:2.69
+  crack:2.20
+  service:2.20
+  computers:2.02
+  computer:1.65
+  keys:1.62
+  investigators:1.45
+  key:1.42
+
+K: 5, Log-Likelihood: -6996.760, Alpha: 11.000, Beta: 1.100

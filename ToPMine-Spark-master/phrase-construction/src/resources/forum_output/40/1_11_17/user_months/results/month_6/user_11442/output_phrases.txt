@@ -1,0 +1,61 @@
+Topic 0:
+  legit:1.61
+  depositing:1.61
+  deal:1.61
+  directly:1.61
+  money:1.61
+  horrible:1.60
+  btc:1.60
+  address:1.60
+  layout:1.48
+  escrow:1.35
+
+Topic 1:
+  roadsilk:3.05
+  escrow:2.24
+  service:1.47
+  party:1.47
+  timedutch:1.46
+  find:1.46
+  listings:1.46
+  soonstill:1.46
+  great:1.46
+  stuff:1.46
+
+Topic 2:
+  outlaw:3.62
+  uk:3.23
+  domestic:1.80
+  pgp:1.79
+  log:1.79
+  vendor day:1.69
+  trusted:1.69
+  tricky:1.69
+  start:1.69
+  lay:1.69
+
+Topic 3:
+  february:4.04
+  forums:3.63
+  personal:3.63
+  loads:2.65
+  checkout:2.65
+  link:2.64
+  happening:2.64
+  problem today:2.64
+  people days:2.64
+  ive:2.64
+
+Topic 4:
+  place:3.54
+  fee:3.54
+  vendor:3.54
+  pay:3.54
+  join:3.54
+  rola:1.90
+  cola:1.89
+  super:1.88
+  mdma:1.70
+  robbed:1.70
+
+K: 5, Log-Likelihood: -1339.863, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  btc:0.32
+  dash:0.24
+  worth:0.24
+  governments:0.24
+  bitin:0.16
+  problems:0.16
+  solves:0.16
+  war:0.16
+  money:0.16
+  free:0.16
+
+Topic 1:
+  btc:0.33
+  dash:0.24
+  worth:0.24
+  governments:0.24
+  time:0.16
+  media:0.16
+  years:0.16
+  internet:0.16
+  exchange:0.16
+  massive:0.16
+
+Topic 2:
+  btc:0.32
+  governments:0.24
+  worth:0.24
+  dash:0.24
+  solves:0.16
+  problems:0.16
+  bitin:0.16
+  crypto:0.16
+  dnm:0.16
+  marketing:0.16
+
+Topic 3:
+  btc:0.32
+  worth:0.24
+  governments:0.24
+  dash:0.24
+  experiment:0.16
+  crazy:0.16
+  time:0.16
+  social:0.16
+  media:0.16
+  fuck:0.16
+
+Topic 4:
+  btc:0.33
+  governments:0.25
+  worth:0.24
+  dash:0.24
+  big:0.16
+  years:0.16
+  fuck:0.16
+  exchange:0.16
+  drug:0.16
+  experiment:0.16
+
+K: 5, Log-Likelihood: -444.100, Alpha: 11.000, Beta: 1.100

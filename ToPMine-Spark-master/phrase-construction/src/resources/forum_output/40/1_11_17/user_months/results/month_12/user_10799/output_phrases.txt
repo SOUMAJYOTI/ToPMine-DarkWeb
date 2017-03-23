@@ -1,0 +1,61 @@
+Topic 0:
+  reply:14.45
+  reply admin:6.40
+  reply admin pm:4.79
+  secure solutions:4.79
+  edward snowden:3.59
+  jim:3.19
+  government:3.19
+  reply pm:3.19
+  forward:3.19
+  beam:3.19
+
+Topic 1:
+  proton mail:4.72
+  boogie:3.14
+  exposure:2.95
+  journalist:2.61
+  sleep:2.31
+  forces:2.31
+  nsa:2.31
+  copies:2.31
+  watches:2.31
+  wrote:2.31
+
+Topic 2:
+  protonmail:19.37
+  attacker:9.01
+  mass surveillance:5.80
+  privacy:5.23
+  user:4.73
+  security:4.07
+  data:4.01
+  secure:2.92
+  simply:2.80
+  control:2.77
+
+Topic 3:
+  system nsa:1.33
+  warning:1.33
+  clearnet:1.33
+  crypto:1.26
+  code:1.17
+  email:1.13
+  access:1.11
+  browser:1.11
+  protonmail ch:0.93
+  people:0.88
+
+Topic 4:
+  user:2.01
+  time:1.54
+  protonmail:1.40
+  code:1.17
+  users:0.88
+  data:0.80
+  browser:0.79
+  access:0.78
+  email:0.78
+  simply:0.77
+
+K: 5, Log-Likelihood: -6924.102, Alpha: 11.000, Beta: 1.100

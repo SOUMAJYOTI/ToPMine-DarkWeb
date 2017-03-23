@@ -1,0 +1,61 @@
+Topic 0:
+  good:1.00
+  considered:0.62
+  official:0.62
+  send:0.62
+  gap:0.62
+  curious:0.62
+  hey:0.62
+  shared:0.61
+  safe:0.61
+  tumbler:0.61
+
+Topic 1:
+  good:0.99
+  hey:0.64
+  tumbler:0.62
+  gap:0.62
+  send:0.62
+  curious:0.62
+  safe:0.62
+  official:0.62
+  shared:0.61
+  air:0.61
+
+Topic 2:
+  good:1.05
+  bitcoinfog:0.60
+  safe:0.59
+  official:0.58
+  shared:0.58
+  considered:0.58
+  send:0.58
+  curious:0.58
+  air:0.58
+  tumbler:0.58
+
+Topic 3:
+  good:0.97
+  bitcoinfog:0.59
+  curious:0.56
+  air:0.56
+  shared:0.55
+  gap:0.55
+  hey:0.55
+  safe:0.55
+  official:0.55
+  tumbler:0.55
+
+Topic 4:
+  good:0.99
+  considered:0.65
+  air:0.65
+  tumbler:0.64
+  send:0.64
+  gap:0.64
+  shared:0.63
+  official:0.63
+  safe:0.63
+  curious:0.62
+
+K: 5, Log-Likelihood: -310.920, Alpha: 11.000, Beta: 1.100

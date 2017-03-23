@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins:0.92
+  address:0.87
+  completely:0.61
+  tumbler:0.60
+  logs:0.40
+  torguard:0.40
+  vpn:0.40
+  keeping:0.20
+  coin:0.20
+  clear:0.20
+
+Topic 1:
+  address:0.79
+  bitcoins:0.75
+  completely:0.60
+  tumbler:0.58
+  vpn:0.40
+  torguard:0.40
+  logs:0.40
+  bought:0.20
+  electric:0.20
+  fast:0.20
+
+Topic 2:
+  address:0.74
+  bitcoins:0.73
+  tumbler:0.62
+  completely:0.58
+  logs:0.40
+  torguard:0.40
+  vpn:0.40
+  cash:0.20
+  stealth:0.20
+  ip:0.20
+
+Topic 3:
+  bitcoins:0.83
+  address:0.80
+  completely:0.63
+  tumbler:0.59
+  torguard:0.40
+  vpn:0.40
+  logs:0.40
+  hidden:0.20
+  packet:0.20
+  deep:0.20
+
+Topic 4:
+  address:0.81
+  bitcoins:0.77
+  tumbler:0.62
+  completely:0.58
+  logs:0.40
+  vpn:0.40
+  torguard:0.40
+  turning:0.20
+  amount:0.20
+  bitcoin:0.20
+
+K: 5, Log-Likelihood: -440.189, Alpha: 11.000, Beta: 1.100

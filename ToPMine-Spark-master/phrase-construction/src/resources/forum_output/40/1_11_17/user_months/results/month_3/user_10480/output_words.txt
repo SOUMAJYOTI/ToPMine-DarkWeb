@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:1.76
+  currency:0.97
+  chip:0.76
+  gold:0.60
+  body:0.47
+  wallet:0.47
+  backed:0.47
+  guess:0.47
+  conspiracy:0.47
+  ya:0.46
+
+Topic 1:
+  bitcoin:1.43
+  currency:0.87
+  chip:0.61
+  gold:0.61
+  fiat:0.43
+  rfid:0.43
+  guess:0.42
+  conspiracy:0.42
+  backed:0.42
+  ya:0.42
+
+Topic 2:
+  bitcoin:1.46
+  currency:0.70
+  chip:0.62
+  gold:0.59
+  banned:0.41
+  interesting:0.41
+  backed:0.40
+  rfid:0.40
+  wallet:0.40
+  body:0.40
+
+Topic 3:
+  bitcoin:1.79
+  currency:1.02
+  chip:0.63
+  gold:0.60
+  fiat:0.44
+  ya:0.44
+  conspiracy:0.44
+  wallet:0.44
+  rfid:0.44
+  guess:0.44
+
+Topic 4:
+  bitcoin:1.57
+  gold:0.60
+  currency:0.43
+  banned:0.41
+  interesting:0.41
+  chip:0.37
+  btc:0.31
+  freaks:0.31
+  elites:0.31
+  counter:0.31
+
+K: 5, Log-Likelihood: -486.796, Alpha: 11.000, Beta: 1.100

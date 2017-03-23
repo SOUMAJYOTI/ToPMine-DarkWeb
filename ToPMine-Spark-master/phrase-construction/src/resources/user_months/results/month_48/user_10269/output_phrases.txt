@@ -1,0 +1,61 @@
+Topic 0:
+  drinking age:4.49
+  nuke:3.79
+  nucleus:3.14
+  infested le scum frequent:3.01
+  doxxer:2.94
+  yapping:2.94
+  legal:2.94
+  pmi:2.94
+  private:2.94
+  awhile:2.94
+
+Topic 1:
+  services:3.82
+  fa:3.21
+  streaming:1.88
+  attempt:1.88
+  reasons:1.88
+  cheese:1.88
+  fake:1.88
+  ids:1.88
+  bought:1.88
+  tiny:1.88
+
+Topic 2:
+  nucleus good:2.64
+  market work:2.64
+  cold:2.44
+  fly:2.43
+  cure:2.43
+  tablet:2.43
+  quote:2.18
+  uptime:1.81
+  times:1.81
+  annoying:1.81
+
+Topic 3:
+  decentralized:3.75
+  card:3.75
+  damn:1.82
+  havent:1.82
+  agora:1.82
+  business:1.82
+  warend:1.82
+  recommendation:1.82
+  nucleus market:1.82
+  killing:1.82
+
+Topic 4:
+  ag:3.83
+  abraxas:3.83
+  works:1.88
+  addict:1.88
+  obvious:1.88
+  visited:1.88
+  lol:1.88
+  vacation:1.88
+  place:1.88
+  le scum:1.88
+
+K: 5, Log-Likelihood: -1740.475, Alpha: 11.000, Beta: 1.100

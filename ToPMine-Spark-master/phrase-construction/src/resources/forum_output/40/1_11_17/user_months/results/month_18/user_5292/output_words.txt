@@ -1,0 +1,61 @@
+Topic 0:
+  time:7.55
+  learn:7.18
+  people:6.27
+  state:5.36
+  start:4.76
+  cash:4.34
+  gold:3.98
+  books:3.94
+  bad:3.03
+  friends:2.91
+
+Topic 1:
+  learn:9.04
+  people:8.85
+  time:6.60
+  state:4.09
+  start:3.78
+  cash:3.11
+  books:3.05
+  gold:2.87
+  market:2.75
+  money:2.74
+
+Topic 2:
+  learn:6.13
+  people:5.05
+  state:4.55
+  time:3.69
+  start:3.53
+  books:3.32
+  cash:2.98
+  don:2.48
+  find:1.98
+  invest:1.97
+
+Topic 3:
+  books:4.65
+  time:4.51
+  find:3.93
+  learn:3.63
+  start:2.89
+  productive:2.08
+  state:1.98
+  people:1.76
+  share:1.54
+  cash:1.54
+
+Topic 4:
+  great:8.77
+  interested:7.82
+  alternative:5.81
+  anarchist:3.84
+  love:3.84
+  spiritual:3.84
+  links:3.84
+  downloading:3.84
+  psychedlic:3.83
+  post:3.75
+
+K: 5, Log-Likelihood: -5959.952, Alpha: 11.000, Beta: 1.100

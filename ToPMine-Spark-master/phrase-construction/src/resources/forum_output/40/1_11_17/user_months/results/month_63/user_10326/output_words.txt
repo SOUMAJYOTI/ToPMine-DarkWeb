@@ -1,0 +1,61 @@
+Topic 0:
+  tor:0.76
+  vpn:0.42
+  vpon:0.40
+  kinds:0.39
+  thought:0.20
+  method:0.20
+  scenario:0.20
+  ideal:0.20
+  great:0.20
+  traffic:0.20
+
+Topic 1:
+  tor:0.77
+  kinds:0.46
+  vpon:0.41
+  vpn:0.37
+  threat:0.22
+  approaches:0.22
+  good:0.22
+  afterall:0.22
+  combinations:0.22
+  depends:0.22
+
+Topic 2:
+  tor:0.79
+  kinds:0.40
+  vpon:0.40
+  vpn:0.40
+  points:0.20
+  opinions:0.20
+  approaches:0.20
+  feel:0.20
+  depends:0.20
+  good:0.20
+
+Topic 3:
+  tor:0.89
+  vpn:0.43
+  vpon:0.39
+  kinds:0.35
+  options:0.21
+  security:0.21
+  traffic:0.21
+  node:0.21
+  great:0.21
+  thought:0.21
+
+Topic 4:
+  tor:0.80
+  kinds:0.41
+  vpon:0.40
+  vpn:0.39
+  feel:0.20
+  opinions:0.20
+  bad:0.20
+  afterall:0.20
+  model:0.20
+  good:0.20
+
+K: 5, Log-Likelihood: -152.213, Alpha: 11.000, Beta: 1.100

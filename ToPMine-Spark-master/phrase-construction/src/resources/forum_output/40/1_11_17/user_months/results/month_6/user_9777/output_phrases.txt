@@ -1,0 +1,61 @@
+Topic 0:
+  fine acid stupid question:0.56
+  water:0.56
+  quote:0.54
+  ya yeah sink relax:0.50
+  ll:0.49
+  umm:0.49
+  yeah sink relax water:0.49
+  ahh:0.49
+  scoot room:0.49
+  ill:0.48
+
+Topic 1:
+  fine acid stupid question:0.56
+  water:0.55
+  quote:0.55
+  dafunkfuzz:0.49
+  pmahh:0.49
+  umm:0.48
+  yeah sink relax water:0.48
+  scoot room ya:0.48
+  garden:0.48
+  scoot room:0.48
+
+Topic 2:
+  quote:0.55
+  water:0.55
+  fine acid stupid question:0.55
+  garden:0.50
+  ll:0.49
+  pmahh:0.48
+  scoot room ya:0.48
+  dafunkfuzz:0.48
+  yeah sink relax water:0.48
+  ill:0.48
+
+Topic 3:
+  water:0.57
+  quote:0.56
+  fine acid stupid question:0.55
+  yeah sink relax water:0.49
+  dafunkfuzz:0.49
+  scoot room ya:0.49
+  scoot room:0.49
+  umm:0.49
+  pmahh:0.49
+  ill:0.49
+
+Topic 4:
+  quote:0.55
+  water:0.55
+  fine acid stupid question:0.55
+  scoot room:0.49
+  ill:0.48
+  ahh:0.48
+  scoot room ya:0.48
+  ya yeah sink relax:0.48
+  pmahh:0.48
+  umm:0.47
+
+K: 5, Log-Likelihood: -172.118, Alpha: 11.000, Beta: 1.100

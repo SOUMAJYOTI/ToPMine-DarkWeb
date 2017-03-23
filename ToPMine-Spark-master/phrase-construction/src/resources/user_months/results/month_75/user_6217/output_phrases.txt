@@ -1,0 +1,61 @@
+Topic 0:
+  quote:3.73
+  february:3.69
+  avengers:1.67
+  comments:1.66
+  special:1.66
+  domestic:1.66
+  esteemed:1.65
+  personally:1.65
+  onion:1.65
+  highly:1.65
+
+Topic 1:
+  mescaline:1.64
+  vendor:1.43
+  good:1.22
+  gammagoblin:1.10
+  experience:1.08
+  regardsstevemba:0.94
+  prooved:0.94
+  htrpta:0.94
+  psilocibine:0.93
+  lsd:0.93
+
+Topic 2:
+  days:3.46
+  cross:2.72
+  oral:2.31
+  dmt:2.31
+  masculine:2.31
+  doesnt:2.31
+  led:2.31
+  assuming:2.31
+  tolerates:2.31
+  woods:1.68
+
+Topic 3:
+  change:3.36
+  key:2.53
+  dont:1.75
+  decrypt:1.58
+  places:1.58
+  yeah:1.58
+  setting:1.58
+  pgp:1.58
+  modifiedyou:1.58
+  vendor:1.05
+
+Topic 4:
+  expired:3.47
+  normal:3.47
+  pgp key:3.47
+  changing:3.47
+  messages:1.73
+  keys:1.73
+  public:1.72
+  current:1.68
+  encode:1.68
+  ftc:1.68
+
+K: 5, Log-Likelihood: -1318.911, Alpha: 11.000, Beta: 1.100

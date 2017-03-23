@@ -1,0 +1,61 @@
+Topic 0:
+  forbidden:3.44
+  experiences:2.73
+  community regardsstevemba:1.99
+  psychedelics:1.69
+  stopped:1.69
+  big:1.69
+  language:1.69
+  garden people:1.69
+  scientific point:1.69
+  stevemba senior psychiatrist psychoanalyst:1.69
+
+Topic 1:
+  advertising:4.09
+  rules:4.09
+  censorship:3.22
+  tmg:3.22
+  forum:2.45
+  psychiatric:2.02
+  posting:2.02
+  psychoanalytical:2.02
+  harm:2.02
+  outlining:2.02
+
+Topic 2:
+  walk:4.09
+  quote:4.09
+  read:4.09
+  community:4.09
+  responsibility:4.09
+  book:4.09
+  george orwell:3.55
+  people:3.29
+  forbidden:2.09
+  movie:2.02
+
+Topic 3:
+  bad:3.09
+  spam:2.82
+  post:2.06
+  case:2.00
+  turned:2.00
+  havent:2.00
+  tospeak:2.00
+  scientific opinions:2.00
+  lsd:2.00
+  things:2.00
+
+Topic 4:
+  people:3.23
+  opinions:3.04
+  problem:2.54
+  regardsstevemba:2.06
+  tolerate:2.00
+  democratic:2.00
+  decide:2.00
+  farm:2.00
+  animal:2.00
+  lobby:2.00
+
+K: 5, Log-Likelihood: -2626.898, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  offering:3.36
+  service:1.96
+  kapteeni:1.95
+  answers:1.95
+  sharpen:1.95
+  aspa:1.94
+  sig:1.58
+  fun:1.58
+  celebration:1.58
+  oxy:1.58
+
+Topic 1:
+  fe:4.38
+  fe times:3.61
+  guess:3.61
+  people:3.61
+  buy:3.61
+  silkkitie:3.61
+  days:2.96
+  support:2.84
+  problems customer:2.03
+  screwed:1.75
+
+Topic 2:
+  problems customer:1.91
+  support:1.33
+  market:1.31
+  response:1.25
+  days:1.20
+  tickets:1.16
+  review:1.08
+  dont read:1.07
+  pictures:1.04
+  guests:0.95
+
+Topic 3:
+  offer:5.53
+  nucleus:5.53
+  onion:3.66
+  item:3.66
+  izq:3.66
+  links:2.22
+  forget:1.81
+  cet:1.79
+  dosage:1.79
+  bonus:1.79
+
+Topic 4:
+  rarest:3.30
+  thread:2.51
+  reviews:1.99
+  monster:1.53
+  read:1.52
+  oxymonster:1.51
+  purple:1.50
+  official:1.49
+  monsters:1.49
+  oc:1.49
+
+K: 5, Log-Likelihood: -1548.201, Alpha: 11.000, Beta: 1.100

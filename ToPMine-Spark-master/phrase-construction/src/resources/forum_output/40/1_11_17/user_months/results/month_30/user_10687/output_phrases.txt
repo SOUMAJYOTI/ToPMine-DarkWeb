@@ -1,0 +1,61 @@
+Topic 0:
+  links:0.56
+  based:0.41
+  service:0.41
+  tor:0.40
+  phishing:0.28
+  posts:0.28
+  redacted:0.23
+  enjoy:0.23
+  safe:0.23
+  list:0.23
+
+Topic 1:
+  links:0.81
+  tor:0.50
+  based:0.49
+  service:0.42
+  posts:0.28
+  phishing:0.27
+  removing:0.23
+  onion:0.23
+  favorite:0.23
+  real:0.23
+
+Topic 2:
+  links:0.59
+  service:0.41
+  based:0.41
+  tor:0.40
+  phishing:0.28
+  posts:0.28
+  linksstay:0.23
+  list:0.23
+  safe:0.23
+  huge:0.23
+
+Topic 3:
+  links:0.72
+  based:0.47
+  tor:0.46
+  service:0.42
+  posts:0.28
+  phishing:0.27
+  website:0.23
+  true:0.23
+  send:0.23
+  site:0.23
+
+Topic 4:
+  links:0.62
+  tor:0.43
+  based:0.43
+  service:0.42
+  posts:0.28
+  phishing:0.28
+  title:0.22
+  legitimacy:0.22
+  thread:0.22
+  onionshop:0.22
+
+K: 5, Log-Likelihood: -187.173, Alpha: 11.000, Beta: 1.100

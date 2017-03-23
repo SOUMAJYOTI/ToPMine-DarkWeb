@@ -1,0 +1,61 @@
+Topic 0:
+  general:9.80
+  change:8.20
+  quote:7.24
+  sense:6.72
+  philosophy:6.56
+  power:6.48
+  drug:5.94
+  door:5.94
+  invisible:5.94
+  sneaking:5.94
+
+Topic 1:
+  bomb:14.69
+  takes:9.79
+  lsd:9.20
+  war:8.59
+  july:8.27
+  fission:7.93
+  bicycle:7.93
+  comic:7.28
+  unclean:5.94
+  age:5.48
+
+Topic 2:
+  share:17.62
+  war:14.19
+  people:12.57
+  lsd:12.01
+  knowledge:11.21
+  general:10.16
+  life:8.46
+  things:7.12
+  glorious:6.67
+  tortured:6.67
+
+Topic 3:
+  war:21.21
+  conventional:7.95
+  economic:7.25
+  economically:5.97
+  oil:5.91
+  peak:5.91
+  forces:4.74
+  resource:4.04
+  pray:3.97
+  desirable:3.97
+
+Topic 4:
+  psychedelic:17.65
+  revolution:12.93
+  man:11.72
+  understand:10.13
+  july:9.79
+  lsd:9.48
+  people:9.33
+  quality:8.21
+  quote:8.20
+  understanding:7.96
+
+K: 5, Log-Likelihood: -13292.793, Alpha: 11.000, Beta: 1.100

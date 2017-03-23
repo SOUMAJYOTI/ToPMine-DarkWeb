@@ -1,0 +1,61 @@
+Topic 0:
+  mods:0.78
+  admins:0.61
+  uri:0.59
+  busted:0.41
+  forum:0.40
+  scam:0.40
+  comprised:0.20
+  dont:0.20
+  reddit:0.20
+  site:0.20
+
+Topic 1:
+  mods:0.78
+  uri:0.64
+  admins:0.59
+  forum:0.40
+  scam:0.40
+  busted:0.39
+  le:0.20
+  stolen:0.20
+  bitcoins:0.20
+  access:0.20
+
+Topic 2:
+  mods:0.80
+  uri:0.61
+  admins:0.60
+  scam:0.40
+  forum:0.40
+  busted:0.40
+  road:0.20
+  recommended:0.20
+  stolen:0.20
+  allsite:0.20
+
+Topic 3:
+  mods:0.77
+  admins:0.60
+  uri:0.60
+  scam:0.41
+  forum:0.40
+  busted:0.40
+  road:0.20
+  ou:0.20
+  march:0.20
+  marketplacesmarketplace:0.20
+
+Topic 4:
+  mods:0.87
+  admins:0.59
+  uri:0.57
+  busted:0.40
+  scam:0.39
+  forum:0.39
+  dont:0.20
+  comprised:0.20
+  swam:0.20
+  allsite:0.20
+
+K: 5, Log-Likelihood: -117.932, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  cold storage:14.21
+  office wallet:12.57
+  bitcoin:12.39
+  computer:8.98
+  wallet:7.11
+  signed transaction:6.75
+  private keys:6.75
+  wallets:6.75
+  bitcoin wallets:5.05
+  armoury:5.05
+
+Topic 1:
+  market:5.14
+  wash:2.78
+  great:2.36
+  safe:2.23
+  coins exchange:2.17
+  selling:2.16
+  depositing:2.16
+  withdrawing:2.16
+  future:2.16
+  exchange coins:2.15
+
+Topic 2:
+  address:4.65
+  wallet:4.27
+  cold storage:3.89
+  computer:2.62
+  coins:2.46
+  thanksif talking transferring coins:2.07
+  bitcoin wallet receiving address:2.06
+  distantimporter february:2.06
+  wallet computer transaction send:2.06
+  pmin terms desktop wallet:2.06
+
+Topic 3:
+  tumble coins:3.75
+  bitcoins:3.35
+  perfectly:3.35
+  country:1.65
+  control:1.65
+  buying bitcoins:1.65
+  directly:1.65
+  backwards:1.65
+  tie:1.65
+  legal:1.65
+
+Topic 4:
+  wow:2.50
+  stuff:2.50
+  obliged:2.50
+  digest:2.50
+  tremendous:2.50
+  posted:2.50
+  asa:2.50
+  amhope:2.50
+  tutorial:2.50
+  grateful:2.50
+
+K: 5, Log-Likelihood: -3890.737, Alpha: 11.000, Beta: 1.100

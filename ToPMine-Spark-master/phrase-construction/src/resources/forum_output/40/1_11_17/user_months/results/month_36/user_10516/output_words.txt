@@ -1,0 +1,61 @@
+Topic 0:
+  good:14.95
+  nasty:9.45
+  software:8.93
+  bit:6.67
+  work:6.55
+  nice:6.27
+  distro:5.97
+  thing:5.74
+  days:5.67
+  mind:5.61
+
+Topic 1:
+  boot:16.92
+  hardware:7.78
+  fde:7.23
+  sd:4.97
+  disk:4.76
+  partition:4.65
+  pi:4.60
+  case:4.43
+  people:4.16
+  files:4.14
+
+Topic 2:
+  fitlet:23.98
+  tor:16.53
+  pc:8.29
+  ports:7.10
+  set:6.85
+  wifi:6.63
+  traffic:6.19
+  intel:5.77
+  compulab:4.98
+  mini:4.98
+
+Topic 3:
+  whonix:10.70
+  switch:9.93
+  device:9.93
+  tor:9.72
+  pi:7.71
+  safe:7.25
+  tails:6.94
+  point:6.22
+  dont:5.87
+  browser:5.46
+
+Topic 4:
+  machine:17.96
+  boot:16.03
+  os:12.64
+  main:8.64
+  write:7.88
+  writeblocker:6.83
+  checksum:6.47
+  sdb:5.93
+  sda:5.93
+  cru:4.98
+
+K: 5, Log-Likelihood: -15593.926, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  work:0.74
+  word:0.74
+  alike:0.74
+  good:0.74
+  team:0.74
+  doubled:0.74
+  crossed:0.74
+  count:0.74
+  phenomenon:0.73
+  isn:0.73
+
+Topic 1:
+  active:0.58
+  bond:0.58
+  listing:0.58
+  fast:0.58
+  waiving:0.58
+  vendor:0.58
+  today:0.57
+  threw:0.57
+  ui:0.57
+  loving:0.57
+
+Topic 2:
+  term:1.23
+  role:1.23
+  vending:1.23
+  markets:1.23
+  long:1.23
+  promoted:1.23
+  admit:1.23
+  meaning:1.23
+  users:1.23
+  aspects:1.23
+
+Topic 3:
+  vendors:0.61
+  fine:0.59
+  dream:0.53
+  hot:0.43
+  steady:0.43
+  resilient:0.43
+  coming:0.42
+  roster:0.42
+  remained:0.42
+  minute:0.42
+
+Topic 4:
+  fine:0.63
+  vendors:0.56
+  dream:0.53
+  roster:0.51
+  minute:0.51
+  resilient:0.51
+  steady:0.51
+  remained:0.51
+  hot:0.51
+  coming:0.51
+
+K: 5, Log-Likelihood: -395.111, Alpha: 11.000, Beta: 1.100

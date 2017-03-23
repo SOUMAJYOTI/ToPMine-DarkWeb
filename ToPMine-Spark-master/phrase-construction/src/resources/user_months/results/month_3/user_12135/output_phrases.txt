@@ -1,0 +1,61 @@
+Topic 0:
+  backup:0.42
+  bitblender:0.28
+  moving:0.28
+  servers:0.28
+  hours:0.27
+  site:0.24
+  morelike:0.23
+  fucking:0.23
+  dreamt:0.23
+  excellent:0.23
+
+Topic 1:
+  backup:0.44
+  hours:0.28
+  moving:0.28
+  servers:0.28
+  bitblender:0.28
+  site:0.24
+  autowithdrawal:0.22
+  long:0.22
+  excellent:0.22
+  access:0.22
+
+Topic 2:
+  backup:0.44
+  hours:0.28
+  bitblender:0.28
+  servers:0.28
+  moving:0.28
+  site:0.24
+  havent:0.22
+  today:0.22
+  load:0.22
+  sit:0.22
+
+Topic 3:
+  backup:0.42
+  bitblender:0.28
+  servers:0.28
+  moving:0.28
+  hours:0.27
+  site:0.24
+  service:0.23
+  dreamt:0.23
+  feature:0.23
+  moved:0.23
+
+Topic 4:
+  backup:0.49
+  hours:0.28
+  moving:0.27
+  servers:0.27
+  bitblender:0.26
+  site:0.24
+  shut:0.23
+  scam:0.23
+  activating:0.23
+  question:0.23
+
+K: 5, Log-Likelihood: -262.252, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  boss:0.93
+  market:0.89
+  good:0.69
+  man:0.68
+  pandora:0.55
+  customers:0.54
+  bring:0.53
+  fees:0.53
+  checked:0.47
+  account:0.46
+
+Topic 1:
+  boss:0.99
+  market:0.84
+  man:0.63
+  good:0.62
+  customers:0.58
+  bring:0.57
+  pandora:0.57
+  fees:0.56
+  weed:0.44
+  deposit:0.42
+
+Topic 2:
+  market:1.41
+  boss:1.15
+  fees:0.73
+  pandora:0.71
+  bring:0.71
+  customers:0.71
+  feeling:0.52
+  things:0.52
+  forums:0.51
+  great:0.51
+
+Topic 3:
+  boss:0.82
+  man:0.78
+  market:0.78
+  good:0.77
+  quote:0.52
+  hooray:0.52
+  buyer:0.52
+  account:0.52
+  sooner:0.52
+  address:0.52
+
+Topic 4:
+  boss:1.11
+  market:1.08
+  bring:0.70
+  customers:0.70
+  fees:0.68
+  pandora:0.68
+  weed:0.54
+  good:0.47
+  man:0.47
+  promotion:0.41
+
+K: 5, Log-Likelihood: -470.251, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,21 @@
+Topic 0:
+  family:0.20
+  bsm:0.20
+
+Topic 1:
+  family:0.20
+  bsm:0.20
+
+Topic 2:
+  bsm:0.20
+  family:0.20
+
+Topic 3:
+  bsm:0.20
+  family:0.20
+
+Topic 4:
+  family:0.20
+  bsm:0.20
+
+K: 5, Log-Likelihood: -1.386, Alpha: 11.000, Beta: 1.100

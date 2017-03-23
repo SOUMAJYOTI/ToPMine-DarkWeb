@@ -1,0 +1,61 @@
+Topic 0:
+  people:8.88
+  safepostage:5.07
+  vendors:4.56
+  service:4.24
+  buying:3.49
+  aware:2.86
+  doesnt:2.75
+  address:2.61
+  anonymously:2.56
+  dont:2.26
+
+Topic 1:
+  stamps:5.78
+  accounts:3.93
+  label:3.73
+  based:3.59
+  postage:3.46
+  shipping:3.28
+  anonymous:2.46
+  service:2.39
+  packages:2.28
+  safepostage:2.25
+
+Topic 2:
+  labels:4.19
+  shipping:4.14
+  business:3.94
+  office:3.63
+  post:3.55
+  le:3.21
+  stamps:3.02
+  concern:2.94
+  privacy:2.86
+  fresh:2.46
+
+Topic 3:
+  le:14.08
+  dont:9.34
+  email:5.81
+  label:5.10
+  labels:4.95
+  service:4.93
+  march:4.24
+  upload:3.77
+  shipping:3.20
+  mailing:3.10
+
+Topic 4:
+  people:9.04
+  idea:8.68
+  noobs:5.84
+  service:5.19
+  secure:3.84
+  post:3.71
+  office:3.59
+  le:3.45
+  guys:3.45
+  mailed:3.38
+
+K: 5, Log-Likelihood: -3409.345, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  phone:0.62
+  cell:0.40
+  alert:0.40
+  recieved:0.40
+  years:0.40
+  area:0.40
+  alerting:0.20
+  geography:0.20
+  prepaid:0.20
+  abduction:0.20
+
+Topic 1:
+  phone:0.59
+  recieved:0.40
+  years:0.40
+  area:0.40
+  cell:0.40
+  alert:0.40
+  turned:0.20
+  smartphone:0.20
+  gps:0.20
+  cellar:0.20
+
+Topic 2:
+  phone:0.59
+  alert:0.41
+  recieved:0.40
+  years:0.40
+  area:0.40
+  cell:0.40
+  prepaid:0.20
+  amber:0.20
+  usage:0.20
+  idea:0.20
+
+Topic 3:
+  phone:0.59
+  area:0.40
+  years:0.40
+  alert:0.40
+  cell:0.40
+  recieved:0.40
+  turned:0.20
+  gps:0.20
+  smartphone:0.20
+  burner:0.20
+
+Topic 4:
+  phone:0.60
+  cell:0.40
+  recieved:0.40
+  area:0.40
+  alert:0.40
+  years:0.40
+  smartphone:0.20
+  gps:0.20
+  turned:0.20
+  alerts:0.20
+
+K: 5, Log-Likelihood: -123.544, Alpha: 11.000, Beta: 1.100

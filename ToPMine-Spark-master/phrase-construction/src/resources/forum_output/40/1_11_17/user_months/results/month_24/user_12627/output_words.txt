@@ -1,0 +1,61 @@
+Topic 0:
+  nain:1.47
+  men:1.46
+  poistaa:1.46
+  ei:1.39
+  mutta:1.22
+  iv:1.10
+  ono:1.08
+  myyj:1.07
+  sama:1.03
+  lt:0.98
+
+Topic 1:
+  eik:3.89
+  kirje:3.89
+  er:3.88
+  kauppias:3.88
+  ja:3.39
+  tulee:3.39
+  ei:3.20
+  kiist:2.89
+  ny:2.30
+  pist:2.16
+
+Topic 2:
+  ei:4.56
+  voi:2.12
+  siihen:1.90
+  sm:1.64
+  tuo:1.42
+  kaikki:1.39
+  se:1.05
+  mit:0.99
+  jotka:0.98
+  ja:0.94
+
+Topic 3:
+  jos:4.76
+  mit:4.58
+  yll:3.17
+  nain:2.73
+  market:2.72
+  press:2.56
+  ytt:2.13
+  iv:1.93
+  anus:1.93
+  saa:1.83
+
+Topic 4:
+  ja:6.01
+  se:4.30
+  speed:3.17
+  jo:2.59
+  eik:2.27
+  ett:2.23
+  joutuu:1.95
+  lt:1.77
+  pit:1.65
+  kyll:1.55
+
+K: 5, Log-Likelihood: -3164.276, Alpha: 11.000, Beta: 1.100

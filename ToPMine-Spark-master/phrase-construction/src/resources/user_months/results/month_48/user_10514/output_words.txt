@@ -1,0 +1,61 @@
+Topic 0:
+  relay:3.98
+  setting:2.57
+  sigaint:2.54
+  tor:2.27
+  yelling:2.04
+  spare:2.03
+  mixing:2.02
+  ears:2.02
+  powerpcs:2.01
+  ago:2.01
+
+Topic 1:
+  open:2.78
+  mind:1.37
+  forward:1.22
+  lot:0.95
+  market:0.89
+  presentation:0.89
+  altcoin:0.89
+  touting:0.89
+  spent:0.88
+  app:0.88
+
+Topic 2:
+  tor:12.04
+  bsd:7.55
+  project:3.88
+  anonymity:3.88
+  relays:2.89
+  network:2.89
+  source:2.89
+  operating:2.89
+  openbsd:1.92
+  critical:1.89
+
+Topic 3:
+  lot:1.61
+  blah:1.50
+  open:1.44
+  mind:1.05
+  money:0.70
+  graphics:0.69
+  wary:0.69
+  app:0.68
+  touting:0.68
+  altcoin:0.68
+
+Topic 4:
+  monoculture:1.09
+  tor:0.88
+  quote:0.80
+  relay:0.67
+  architectures:0.63
+  fell:0.63
+  gentlemen:0.63
+  dust:0.62
+  open:0.61
+  ladies:0.61
+
+K: 5, Log-Likelihood: -1846.497, Alpha: 11.000, Beta: 1.100

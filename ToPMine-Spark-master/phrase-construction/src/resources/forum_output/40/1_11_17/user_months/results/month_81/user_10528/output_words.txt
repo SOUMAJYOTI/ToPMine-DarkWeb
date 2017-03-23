@@ -1,0 +1,61 @@
+Topic 0:
+  data:1.21
+  gps:1.18
+  people:0.90
+  devices:0.67
+  april:0.65
+  lojakked:0.64
+  cattle:0.64
+  agree:0.64
+  offer:0.64
+  sell:0.64
+
+Topic 1:
+  data:1.38
+  gps:1.05
+  people:0.78
+  devices:0.62
+  april:0.62
+  location:0.62
+  include:0.62
+  knew:0.61
+  eartagged:0.61
+  sell:0.60
+
+Topic 2:
+  data:1.16
+  gps:1.02
+  people:0.94
+  april:0.68
+  purple:0.67
+  offer:0.67
+  lojakked:0.66
+  devices:0.66
+  knew:0.66
+  include:0.65
+
+Topic 3:
+  data:1.64
+  gps:0.86
+  people:0.66
+  location:0.59
+  agree:0.55
+  lojakked:0.55
+  sell:0.55
+  eartagged:0.55
+  include:0.54
+  knew:0.54
+
+Topic 4:
+  data:1.62
+  gps:0.89
+  people:0.72
+  location:0.63
+  cattle:0.58
+  sell:0.57
+  eartagged:0.57
+  offer:0.57
+  include:0.56
+  knew:0.56
+
+K: 5, Log-Likelihood: -439.409, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  viikkoon:0.20
+  miinusta:0.20
+  yli:0.20
+  joka:0.20
+  elk:0.20
+  suomessa:0.20
+  vaihtoehtona:0.20
+  hippiespace:0.20
+  tuo:0.20
+  eip:0.20
+
+Topic 1:
+  oo:0.20
+  joka:0.20
+  ker:0.20
+  joten:0.20
+  myy:0.20
+  hippiespace:0.20
+  vaihtoehtona:0.20
+  kirjautuneena:0.20
+  tuo:0.20
+  muka:0.20
+
+Topic 2:
+  ollut:0.20
+  pitk:0.20
+  kukaan:0.20
+  ker:0.20
+  joka:0.20
+  tuntuu:0.20
+  yli:0.20
+  viikkoon:0.20
+  vaihtoehtona:0.20
+  eik:0.20
+
+Topic 3:
+  kukaan:0.20
+  suomessa:0.20
+  pitk:0.20
+  kirjautuneena:0.20
+  paitsi:0.20
+  ollut:0.20
+  sek:0.20
+  tuntuu:0.20
+  myy:0.20
+  elk:0.20
+
+Topic 4:
+  joten:0.20
+  elk:0.20
+  eik:0.20
+  sek:0.20
+  tuntuu:0.20
+  muka:0.20
+  paitsi:0.20
+  oo:0.20
+  kirjautuneena:0.20
+  tuo:0.20
+
+K: 5, Log-Likelihood: -72.116, Alpha: 11.000, Beta: 1.100

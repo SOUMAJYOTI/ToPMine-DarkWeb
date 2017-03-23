@@ -1,0 +1,61 @@
+Topic 0:
+  hired:1.52
+  asa:1.52
+  agree:1.52
+  emerging:1.52
+  holes:1.52
+  lbtc:1.52
+  infiltration:1.52
+  buyers:1.52
+  releases:1.52
+  pgp:1.52
+
+Topic 1:
+  js:1.58
+  reason:1.10
+  shit:1.10
+  fuck:1.10
+  mess:1.09
+  javascript continually refresh tor:0.98
+  circuit ip havent flagged:0.95
+  op:0.89
+  club:0.88
+  hope:0.88
+
+Topic 2:
+  buying:4.73
+  secure:3.12
+  safer:3.12
+  learned:3.12
+  enabled:3.12
+  js:2.82
+  tor:2.52
+  spying:1.52
+  fresh:1.52
+  reveal:1.52
+
+Topic 3:
+  opsec club:3.58
+  people:3.09
+  generally:3.08
+  clearnet:2.74
+  individually:1.59
+  hard:1.59
+  options:1.59
+  talk:1.59
+  game:1.59
+  answer:1.59
+
+Topic 4:
+  circuits:1.54
+  accessed:1.54
+  human verification etiher enable:1.53
+  find:1.53
+  yeah:1.53
+  human verification:1.52
+  messing:1.51
+  ill:1.50
+  circuit ip havent flagged:1.49
+  javascript continually refresh tor:1.46
+
+K: 5, Log-Likelihood: -1287.780, Alpha: 11.000, Beta: 1.100

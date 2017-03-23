@@ -1,0 +1,61 @@
+Topic 0:
+  lawyer:15.60
+  tracking cookies:10.38
+  curtis green:8.31
+  fake ids:8.31
+  le:6.69
+  prize:6.23
+  fake:6.23
+  goggle ads:6.22
+  cookies:6.22
+  online:5.18
+
+Topic 1:
+  vpn:12.13
+  tor vpn:8.69
+  exit node:8.43
+  virtual machine:8.31
+  exif data:8.30
+  tor vpon:6.96
+  vpn tor:6.96
+  ip address:6.60
+  previous posts:6.23
+  openvpn:6.23
+
+Topic 2:
+  file shredding:13.38
+  vpn:11.30
+  disk encryption:8.36
+  times:8.30
+  meta data:7.08
+  providers:6.68
+  tor:6.33
+  connected vpn:6.23
+  public wifi:6.23
+  topic:5.01
+
+Topic 3:
+  exit node:18.35
+  private key:11.16
+  public key:11.09
+  live operating system:10.39
+  entry node:10.39
+  hard drive:8.68
+  operating system:8.67
+  virtual box:8.43
+  http secure:8.31
+  website visiting:6.71
+
+Topic 4:
+  personal key:12.47
+  pip public key:10.39
+  key:10.39
+  click:8.63
+  public key:8.31
+  moderators:8.30
+  message:6.69
+  key ring:6.23
+  save private key:6.23
+  decrypt messages:6.23
+
+K: 5, Log-Likelihood: -43704.278, Alpha: 11.000, Beta: 1.100

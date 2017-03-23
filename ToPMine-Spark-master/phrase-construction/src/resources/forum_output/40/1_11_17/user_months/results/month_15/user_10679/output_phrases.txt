@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins:12.82
+  troll:9.37
+  legacy sales:9.27
+  veteran vendors:7.25
+  untractable vendors market:6.99
+  ui lot guys thought:6.98
+  news joining shortly:6.35
+  hard:6.24
+  quote:5.77
+  hope business:5.72
+
+Topic 1:
+  helix:15.66
+  hub:8.52
+  evo:8.51
+  address:8.26
+  evolution:8.14
+  maximum sales limit:8.11
+  aswell guys:7.01
+  verified sales limit:7.01
+  deposit:6.25
+  wallets:6.25
+
+Topic 2:
+  donation:9.40
+  security:8.38
+  market:7.04
+  message:6.26
+  grow:6.26
+  upgrades:6.26
+  stay:6.26
+  roll:6.26
+  black:6.26
+  absolutely:6.26
+
+Topic 3:
+  community:11.73
+  june:7.25
+  settings tor:7.24
+  data tor:7.24
+  angel:6.21
+  eyes:6.21
+  ne:6.20
+  months:5.87
+  mature:5.40
+  convenience:5.40
+
+Topic 4:
+  listing:12.51
+  btc address:10.82
+  cattle prod:8.13
+  man:7.27
+  time:7.27
+  customers:7.19
+  private:6.24
+  clone:6.24
+  ill:5.77
+  ass:5.39
+
+K: 5, Log-Likelihood: -15118.299, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  february:1.28
+  weeks:0.90
+  open:0.87
+  market:0.82
+  quote:0.79
+  agree:0.70
+  opinion:0.69
+  losttemple:0.69
+  operating:0.69
+  mirror:0.69
+
+Topic 1:
+  received:0.83
+  transaction:0.83
+  february:0.76
+  shit:0.73
+  user:0.70
+  quote:0.70
+  order:0.68
+  weeks:0.68
+  flag:0.59
+  black:0.59
+
+Topic 2:
+  february:1.20
+  weeks:0.90
+  quote:0.90
+  market:0.74
+  open:0.71
+  sales:0.50
+  worth:0.50
+  shaken:0.50
+  current:0.50
+  belongs:0.50
+
+Topic 3:
+  february:0.88
+  weeks:0.83
+  quote:0.81
+  transaction:0.80
+  received:0.79
+  user:0.65
+  shit:0.64
+  long:0.51
+  lasted:0.51
+  product:0.51
+
+Topic 4:
+  user:1.04
+  shit:1.02
+  february:0.89
+  quote:0.80
+  weeks:0.69
+  doomed:0.63
+  making:0.63
+  knew:0.63
+  dox:0.62
+  claiming:0.62
+
+K: 5, Log-Likelihood: -696.655, Alpha: 11.000, Beta: 1.100

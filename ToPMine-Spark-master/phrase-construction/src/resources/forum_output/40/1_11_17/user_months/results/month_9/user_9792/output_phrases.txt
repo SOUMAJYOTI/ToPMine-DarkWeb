@@ -1,0 +1,61 @@
+Topic 0:
+  earth natural forces hand:0.64
+  culture fracturing centuries postmodern:0.63
+  link rich connected governed:0.63
+  shocking juxtapositions pastiche coming:0.63
+  side post postmodern:0.63
+  stand brink bridled power:0.62
+  time edge era hand:0.60
+  guess:0.60
+  pmi:0.60
+  culture stitching united milieu:0.59
+
+Topic 1:
+  experiences:1.34
+  ve:0.85
+  compounds:0.65
+  environment:0.65
+  linked:0.65
+  offer:0.65
+  lot:0.65
+  forward:0.65
+  native:0.65
+  coming:0.65
+
+Topic 2:
+  experiences:1.55
+  ve:0.66
+  earth:0.65
+  strong:0.65
+  experiments perception walk:0.65
+  oceanlovely:0.65
+  plants:0.65
+  slowly:0.65
+  communicate:0.65
+  hearing:0.65
+
+Topic 3:
+  mushrooms oak woodlands northern:0.65
+  california forward reading:0.65
+  experiments perception:0.65
+  walk ocean:0.65
+  stand brink bridled power:0.59
+  side post postmodern:0.59
+  shocking juxtapositions pastiche coming:0.59
+  earth natural forces hand:0.59
+  link rich connected governed:0.59
+  culture fracturing centuries postmodern:0.59
+
+Topic 4:
+  ve:0.54
+  link rich connected governed:0.50
+  shocking juxtapositions pastiche coming:0.50
+  side post postmodern:0.50
+  culture fracturing centuries postmodern:0.50
+  stand brink bridled power:0.50
+  earth natural forces hand:0.50
+  culture stitching united milieu:0.47
+  agree traditional connections terroir:0.46
+  environment people speak great:0.46
+
+K: 5, Log-Likelihood: -949.139, Alpha: 11.000, Beta: 1.100

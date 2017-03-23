@@ -1,0 +1,61 @@
+Topic 0:
+  ti:0.16
+  public key:0.16
+  block:0.16
+  rhh:0.16
+  tvlja:0.08
+  hqfue:0.08
+  ysbuorb:0.08
+  otr:0.08
+  xhyboycixlyxnximgppt:0.08
+  fdtv:0.08
+
+Topic 1:
+  rhh:0.16
+  ti:0.16
+  block:0.16
+  public key:0.16
+  cfspr:0.08
+  lvjdjflasv:0.08
+  pcu:0.08
+  jo:0.08
+  opqgvaiv:0.08
+  dm:0.08
+
+Topic 2:
+  ti:0.16
+  public key:0.16
+  block:0.16
+  rhh:0.16
+  df:0.08
+  fkzoic:0.08
+  hlq:0.08
+  cnmrucwkk:0.08
+  cenvwtp:0.08
+  raha:0.08
+
+Topic 3:
+  rhh:0.16
+  block:0.16
+  public key:0.16
+  ti:0.16
+  topic:0.08
+  link:0.08
+  add:0.08
+  job:0.08
+  sig:0.08
+  post:0.08
+
+Topic 4:
+  rhh:0.16
+  public key:0.16
+  block:0.16
+  ti:0.16
+  gamesome:0.08
+  add:0.08
+  set:0.08
+  link:0.08
+  sig:0.08
+  job:0.08
+
+K: 5, Log-Likelihood: -855.411, Alpha: 11.000, Beta: 1.100

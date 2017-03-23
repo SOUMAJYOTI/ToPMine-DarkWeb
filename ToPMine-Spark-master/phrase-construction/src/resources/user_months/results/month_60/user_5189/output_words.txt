@@ -1,0 +1,61 @@
+Topic 0:
+  dhl:1.94
+  invite:1.31
+  reviews:1.07
+  vendors:1.04
+  scarce:1.03
+  good:1.02
+  love:0.96
+  quote:0.84
+  october:0.84
+  send:0.83
+
+Topic 1:
+  link:1.67
+  send:1.65
+  referred:1.33
+  pm:1.24
+  darknet:1.14
+  league:1.13
+  heroes:1.09
+  appreciated:1.09
+  dhl:0.85
+  invite:0.80
+
+Topic 2:
+  dhl:1.42
+  send:1.18
+  link:1.13
+  pm:1.08
+  referred:0.94
+  invite:0.93
+  october:0.85
+  appreciated:0.82
+  darknet:0.81
+  league:0.81
+
+Topic 3:
+  link:1.29
+  send:1.28
+  dhl:1.19
+  referred:1.14
+  pm:1.04
+  invite:0.92
+  appreciated:0.87
+  heroes:0.87
+  league:0.83
+  darknet:0.81
+
+Topic 4:
+  dhl:1.60
+  link:1.09
+  send:1.06
+  invite:1.04
+  vendors:0.89
+  pm:0.89
+  referred:0.89
+  reviews:0.88
+  scarce:0.87
+  good:0.87
+
+K: 5, Log-Likelihood: -460.981, Alpha: 11.000, Beta: 1.100

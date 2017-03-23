@@ -1,0 +1,51 @@
+Topic 0:
+  accounts:0.08
+  thing:0.08
+  problems:0.08
+  happened:0.08
+  bro:0.08
+  bud:0.08
+  mouse:0.08
+  message:0.00
+
+Topic 1:
+  happened:0.08
+  mouse:0.08
+  thing:0.08
+  bud:0.08
+  bro:0.08
+  accounts:0.08
+  problems:0.08
+  message:0.00
+
+Topic 2:
+  problems:0.08
+  mouse:0.08
+  bud:0.08
+  bro:0.08
+  thing:0.08
+  happened:0.08
+  accounts:0.08
+  message:0.00
+
+Topic 3:
+  accounts:0.08
+  bro:0.08
+  problems:0.08
+  happened:0.08
+  mouse:0.08
+  thing:0.08
+  bud:0.08
+  message:0.00
+
+Topic 4:
+  bud:0.08
+  mouse:0.08
+  bro:0.08
+  happened:0.08
+  accounts:0.08
+  problems:0.08
+  thing:0.08
+  message:0.00
+
+K: 5, Log-Likelihood: -5.738, Alpha: 11.000, Beta: 1.100

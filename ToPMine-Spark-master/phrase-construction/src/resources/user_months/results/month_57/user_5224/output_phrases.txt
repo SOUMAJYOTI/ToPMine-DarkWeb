@@ -1,0 +1,61 @@
+Topic 0:
+  post:1.17
+  link:1.16
+  equal:0.93
+  order:0.92
+  specific:0.91
+  rasputin:0.91
+  markets:0.91
+  marketcollection:0.91
+  invite:0.91
+  quote:0.91
+
+Topic 1:
+  min:4.27
+  ag:2.75
+  ab ag:2.75
+  fast:2.74
+  slower:2.73
+  ag ab:2.72
+  marketplace wallet:2.72
+  chain:2.72
+  block:2.72
+  satoshi:2.71
+
+Topic 2:
+  marketplace:1.10
+  marketplaces:0.97
+  day:0.97
+  moving:0.97
+  weird:0.96
+  guess:0.96
+  deposit:0.96
+  transactions:0.96
+  shit:0.96
+  dhlag:0.96
+
+Topic 3:
+  unconformed transaction:3.01
+  hrs:3.01
+  move:2.42
+  bitcoins:1.42
+  coin:1.42
+  reason:1.42
+  house:1.42
+  blood:1.42
+  confs:1.42
+  clot:1.42
+
+Topic 4:
+  markets:0.89
+  specific:0.88
+  order:0.88
+  equal:0.87
+  link:0.76
+  post:0.76
+  closed:0.63
+  site:0.63
+  fee:0.63
+  vendor:0.63
+
+K: 5, Log-Likelihood: -837.511, Alpha: 11.000, Beta: 1.100

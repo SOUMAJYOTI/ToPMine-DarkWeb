@@ -1,0 +1,61 @@
+Topic 0:
+  easier:2.34
+  pgp:1.29
+  complex:1.13
+  generate:1.13
+  stuff:1.13
+  easiest:1.13
+  vividsky:1.09
+  pip:1.09
+  hard:1.09
+  messages:1.09
+
+Topic 1:
+  vendors:2.33
+  profile:2.33
+  vendor:2.33
+  upload:1.11
+  dnm:1.09
+  markets:1.09
+  profilename:1.09
+  place:1.09
+  links:1.09
+  share:1.09
+
+Topic 2:
+  worked:0.58
+  info:0.57
+  enjoy:0.54
+  questions:0.54
+  find:0.54
+  open:0.53
+  post:0.51
+  garden:0.50
+  display:0.49
+  click:0.48
+
+Topic 3:
+  garden:0.57
+  post:0.57
+  click:0.56
+  display:0.56
+  info:0.55
+  open:0.53
+  find:0.52
+  questions:0.52
+  enjoy:0.52
+  worked:0.52
+
+Topic 4:
+  click:1.39
+  display:1.38
+  garden:1.36
+  post:1.35
+  info:1.31
+  asc:0.59
+  surname:0.59
+  public key:0.59
+  document:0.59
+  uri:0.59
+
+K: 5, Log-Likelihood: -798.202, Alpha: 11.000, Beta: 1.100

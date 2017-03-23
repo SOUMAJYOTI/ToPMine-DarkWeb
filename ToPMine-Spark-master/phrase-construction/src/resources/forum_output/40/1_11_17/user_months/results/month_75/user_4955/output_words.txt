@@ -1,0 +1,61 @@
+Topic 0:
+  year:1.54
+  reddit:1.34
+  customers:1.32
+  ago:0.73
+  messed:0.72
+  blotters:0.72
+  things:0.72
+  hot:0.72
+  lukewarm:0.71
+  scolding:0.71
+
+Topic 1:
+  vendor:4.15
+  vendors:2.82
+  scammed:2.14
+  real:1.83
+  leave:1.83
+  operation:1.83
+  amount:1.83
+  rating:1.83
+  market:1.83
+  fuck:1.83
+
+Topic 2:
+  coins:2.14
+  send:2.06
+  review:1.79
+  good:1.63
+  people:1.34
+  making:1.34
+  coke:1.26
+  bitcoin:1.21
+  tguk:1.05
+  drugs:1.04
+
+Topic 3:
+  coins:2.05
+  people:1.48
+  making:1.44
+  send:1.28
+  tguk:1.04
+  good:0.90
+  gear:0.90
+  coke:0.90
+  review:0.90
+  reddit:0.90
+
+Topic 4:
+  tguk:2.53
+  scam:2.32
+  exit:2.29
+  attitude:2.27
+  dnms:1.83
+  loves:1.09
+  attest:1.09
+  wholesalers:1.08
+  largest:1.08
+  lifestyle:1.08
+
+K: 5, Log-Likelihood: -1617.283, Alpha: 11.000, Beta: 1.100

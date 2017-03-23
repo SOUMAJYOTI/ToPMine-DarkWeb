@@ -1,0 +1,61 @@
+Topic 0:
+  tumbler:5.28
+  bitcoins:4.73
+  external onion:3.75
+  wallets:3.66
+  randomized:3.66
+  deposit:3.66
+  quote:3.00
+  april:2.99
+  market:2.38
+  dark:2.14
+
+Topic 1:
+  random:3.63
+  day:3.58
+  multi sig:2.15
+  cashout:1.76
+  explain:1.76
+  making:1.76
+  splease:1.76
+  secure:1.76
+  addresssend:1.76
+  working:1.76
+
+Topic 2:
+  dispute:5.56
+  pirate market:4.62
+  works:3.69
+  buyer:3.69
+  admin:3.69
+  chat:3.69
+  multi:3.69
+  resolve:3.69
+  open:3.69
+  vendor:3.69
+
+Topic 3:
+  game:9.31
+  rock scissor paper:7.44
+  user:4.04
+  url:3.70
+  select:3.70
+  create:3.70
+  play:3.70
+  active:3.70
+  game gambling:3.70
+  center:3.70
+
+Topic 4:
+  invited:3.67
+  bitcoins receive:3.67
+  profit:3.67
+  decided:2.47
+  user:2.26
+  coins:2.07
+  mine:1.98
+  option:1.98
+  fresh:1.96
+  product:1.80
+
+K: 5, Log-Likelihood: -2343.464, Alpha: 11.000, Beta: 1.100

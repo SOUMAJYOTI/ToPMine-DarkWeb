@@ -1,0 +1,61 @@
+Topic 0:
+  sellers:0.81
+  willy:0.63
+  mail:0.61
+  forum:0.60
+  tor:0.41
+  safely:0.41
+  pgp:0.40
+  key:0.40
+  bitcoins:0.40
+  buy:0.39
+
+Topic 1:
+  sellers:0.78
+  forum:0.63
+  willy:0.60
+  mail:0.58
+  buy:0.41
+  tor:0.40
+  bitcoins:0.40
+  pgp:0.39
+  key:0.39
+  safely:0.38
+
+Topic 2:
+  sellers:0.82
+  forum:0.56
+  willy:0.53
+  mail:0.52
+  buy:0.45
+  key:0.41
+  bitcoins:0.41
+  pgp:0.41
+  tor:0.37
+  safely:0.36
+
+Topic 3:
+  sellers:0.76
+  forum:0.65
+  willy:0.64
+  mail:0.61
+  tor:0.42
+  pgp:0.39
+  safely:0.39
+  key:0.39
+  bitcoins:0.39
+  buy:0.38
+
+Topic 4:
+  sellers:0.84
+  mail:0.68
+  willy:0.59
+  forum:0.55
+  safely:0.46
+  key:0.41
+  bitcoins:0.41
+  tor:0.41
+  pgp:0.41
+  buy:0.37
+
+K: 5, Log-Likelihood: -217.904, Alpha: 11.000, Beta: 1.100

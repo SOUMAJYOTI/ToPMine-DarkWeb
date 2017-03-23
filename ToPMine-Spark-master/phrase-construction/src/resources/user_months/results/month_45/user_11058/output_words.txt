@@ -1,0 +1,61 @@
+Topic 0:
+  key:6.21
+  public:3.54
+  pgp:3.37
+  blackstuff:2.28
+  discussion:2.09
+  block:2.04
+  address:2.04
+  items:2.00
+  harm:1.89
+  idiot:1.55
+
+Topic 1:
+  address:5.32
+  key:4.94
+  pgp:4.20
+  email:3.50
+  public:2.65
+  discussion:2.18
+  idiot:2.11
+  harm:2.07
+  valid:2.06
+  blackstuff:2.04
+
+Topic 2:
+  key:4.59
+  public:3.02
+  pgp:3.00
+  block:2.22
+  items:1.98
+  discussion:1.92
+  blackstuff:1.82
+  address:1.70
+  harm:1.70
+  idiot:1.65
+
+Topic 3:
+  key:4.88
+  pgp:3.55
+  public:3.03
+  harm:2.17
+  address:1.95
+  blackstuff:1.92
+  items:1.80
+  block:1.79
+  discussion:1.73
+  email:1.40
+
+Topic 4:
+  key:3.38
+  pgp:2.88
+  public:2.77
+  items:2.24
+  harm:2.17
+  discussion:2.07
+  address:1.99
+  block:1.98
+  blackstuff:1.94
+  idiot:1.42
+
+K: 5, Log-Likelihood: -4727.270, Alpha: 11.000, Beta: 1.100

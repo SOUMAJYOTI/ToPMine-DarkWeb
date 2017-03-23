@@ -1,0 +1,61 @@
+Topic 0:
+  nsa:0.66
+  asa:0.56
+  agency:0.46
+  data:0.46
+  memo:0.46
+  human:0.41
+  technology:0.41
+  text:0.40
+  calls:0.35
+  speech recognition:0.35
+
+Topic 1:
+  nsa:1.43
+  asa:1.14
+  agency:0.80
+  data:0.79
+  memo:0.79
+  text:0.67
+  technology:0.66
+  human:0.66
+  search:0.54
+  voice:0.54
+
+Topic 2:
+  nsa:0.63
+  asa:0.52
+  memo:0.45
+  data:0.45
+  agency:0.44
+  text:0.39
+  human:0.39
+  technology:0.39
+  speech recognition:0.33
+  calls:0.33
+
+Topic 3:
+  nsa:0.86
+  asa:0.74
+  agency:0.57
+  data:0.57
+  memo:0.55
+  human:0.49
+  text:0.49
+  technology:0.48
+  latin america:0.41
+  calls:0.41
+
+Topic 4:
+  nsa:0.88
+  asa:0.70
+  memo:0.58
+  data:0.57
+  agency:0.57
+  technology:0.50
+  human:0.49
+  text:0.48
+  latin america:0.41
+  voice communications:0.41
+
+K: 5, Log-Likelihood: -3841.816, Alpha: 11.000, Beta: 1.100

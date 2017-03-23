@@ -1,0 +1,61 @@
+Topic 0:
+  server:2.54
+  organized:2.36
+  dpr:1.71
+  case:1.65
+  running:1.60
+  good idea:1.03
+  vm:0.97
+  hosting:0.97
+  bsd:0.96
+  money:0.88
+
+Topic 1:
+  bout:3.34
+  host:3.32
+  cat:3.32
+  cats:3.06
+  site:2.57
+  free:2.28
+  newb:2.28
+  nicely:2.28
+  pictures:2.28
+  forgot:2.28
+
+Topic 2:
+  money:7.73
+  things:3.43
+  warrant:2.40
+  locked:2.40
+  worst:2.39
+  accessible:2.39
+  seized:2.39
+  valuables:2.39
+  sad:2.39
+  bank:2.39
+
+Topic 3:
+  criminal:3.57
+  caught:2.34
+  busted:1.70
+  evidently:1.70
+  general:1.70
+  parts:1.70
+  business:1.70
+  plans:1.70
+  conspiracy:1.70
+  server:1.70
+
+Topic 4:
+  people:4.10
+  crew:3.65
+  talking:2.44
+  plan:1.82
+  bad:1.79
+  retainer:1.79
+  talk:1.79
+  side:1.79
+  stand:1.79
+  animal:1.79
+
+K: 5, Log-Likelihood: -1765.680, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,21 @@
+spoof,0,1
+original,1,2
+marketplace,2,1
+steal,3,1
+mixing,4,1
+bits,5,1
+founded,6,1
+posts,7,1
+forum,8,1
+site,9,3
+money,10,2
+service,11,1
+member,12,1
+warning,13,1
+verify,14,1
+links,15,4
+fake,16,1
+send,17,2
+designed,18,1
+site site,19,1
+bitcoin,20,1

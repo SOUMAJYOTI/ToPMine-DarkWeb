@@ -1,0 +1,61 @@
+Topic 0:
+  hub:3.95
+  vendors:3.95
+  forum:1.93
+  reddit:1.93
+  ddos sr:1.93
+  named:1.93
+  putting:1.93
+  accounts:1.93
+  buyers:1.93
+  publicly:1.93
+
+Topic 1:
+  blah:3.86
+  shit:3.80
+  fk:1.85
+  owed:1.85
+  sr ddos:1.85
+  dont:1.85
+  grandsfrom:1.85
+  ffs:1.85
+  nonsense:1.85
+  guys:1.85
+
+Topic 2:
+  lost:2.74
+  downtime:1.87
+  stealing:1.87
+  latest:1.87
+  good:1.87
+  mistake:1.87
+  shutting:1.87
+  hack ddos:1.87
+  bye:1.87
+  coin:1.87
+
+Topic 3:
+  sr:4.70
+  counterfeit:1.87
+  users:1.87
+  scam:1.87
+  realistic:1.87
+  defunct:1.87
+  move:1.87
+  ripped:1.87
+  happened:1.87
+  repeatedly:1.87
+
+Topic 4:
+  sr:3.48
+  sooner:2.99
+  shutdown:2.99
+  long:2.99
+  le:2.99
+  favor:2.99
+  servers:2.99
+  hope:2.99
+  thieving:2.99
+  operating:2.99
+
+K: 5, Log-Likelihood: -1269.415, Alpha: 11.000, Beta: 1.100

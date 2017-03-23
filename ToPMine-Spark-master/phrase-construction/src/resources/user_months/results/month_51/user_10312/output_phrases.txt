@@ -1,0 +1,61 @@
+Topic 0:
+  websites:1.23
+  internet:1.13
+  people:1.10
+  paper:0.50
+  researchers:0.50
+  left:0.50
+  privacy:0.50
+  permission:0.50
+  technology:0.50
+  sites:0.49
+
+Topic 1:
+  internet:0.51
+  websites:0.51
+  worried:0.50
+  people:0.49
+  technology:0.29
+  charge:0.29
+  security:0.29
+  phones:0.29
+  precautions:0.29
+  identify:0.29
+
+Topic 2:
+  people:0.64
+  internet:0.62
+  websites:0.59
+  worried:0.41
+  security:0.33
+  researchers:0.33
+  precautions:0.33
+  identify:0.33
+  user:0.33
+  technology:0.33
+
+Topic 3:
+  people:0.91
+  internet:0.88
+  websites:0.81
+  user:0.42
+  permission:0.42
+  sites:0.42
+  phones:0.42
+  status:0.42
+  identify:0.42
+  precautions:0.42
+
+Topic 4:
+  people:0.53
+  internet:0.52
+  websites:0.52
+  worried:0.48
+  user:0.30
+  security:0.30
+  charge:0.30
+  status:0.30
+  technology:0.30
+  phones:0.30
+
+K: 5, Log-Likelihood: -601.363, Alpha: 11.000, Beta: 1.100

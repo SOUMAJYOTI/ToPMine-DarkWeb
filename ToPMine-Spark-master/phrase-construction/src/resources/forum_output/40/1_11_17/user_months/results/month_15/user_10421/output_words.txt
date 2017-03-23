@@ -1,0 +1,61 @@
+Topic 0:
+  refunds:0.73
+  motherfuckers:0.51
+  bad:0.50
+  good:0.38
+  time:0.38
+  extension:0.37
+  things:0.37
+  coming:0.37
+  check:0.37
+  machines:0.37
+
+Topic 1:
+  refunds:0.61
+  motherfuckers:0.48
+  bad:0.46
+  good:0.40
+  time:0.39
+  extension:0.35
+  coming:0.34
+  check:0.34
+  machines:0.34
+  things:0.34
+
+Topic 2:
+  bsm:1.45
+  time:0.68
+  good:0.67
+  people:0.60
+  darknetmarkets:0.60
+  site:0.60
+  swam:0.60
+  hacks:0.60
+  luck:0.60
+  bashing:0.60
+
+Topic 3:
+  refunds:0.96
+  motherfuckers:0.71
+  bad:0.65
+  extension:0.47
+  find:0.47
+  things:0.47
+  check:0.47
+  machines:0.47
+  coming:0.46
+  ms:0.46
+
+Topic 4:
+  refunds:2.50
+  bad:1.23
+  motherfuckers:1.13
+  ms:0.69
+  find:0.68
+  coming:0.68
+  machines:0.68
+  check:0.68
+  things:0.68
+  extension:0.67
+
+K: 5, Log-Likelihood: -744.558, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  arpaa:0.62
+  ja:0.58
+  ett:0.58
+  kaupaks:0.20
+  vikojen:0.20
+  tarjolla:0.20
+  tunnu:0.20
+  eli:0.20
+  menee:0.20
+  ostamalla:0.20
+
+Topic 1:
+  ja:0.64
+  arpaa:0.61
+  ett:0.58
+  kunnon:0.20
+  mennyt:0.20
+  hinnaltaan:0.20
+  harvinaisuudeltaan:0.20
+  menev:0.20
+  siis:0.20
+  prosentit:0.20
+
+Topic 2:
+  ja:0.60
+  ett:0.59
+  arpaa:0.59
+  eiv:0.20
+  tunnu:0.20
+  se:0.20
+  ei:0.20
+  subujen:0.20
+  lopulliset:0.20
+  arvonta:0.20
+
+Topic 3:
+  ett:0.62
+  arpaa:0.61
+  ja:0.59
+  jo:0.20
+  huomattava:0.20
+  mutta:0.20
+  joka:0.20
+  onjo:0.20
+  joista:0.20
+  ksi:0.20
+
+Topic 4:
+  ett:0.63
+  arpaa:0.58
+  ja:0.58
+  isompi:0.20
+  tarjolla:0.20
+  mahkut:0.20
+  amfetamiinin:0.20
+  viel:0.20
+  ei:0.20
+  eiv:0.20
+
+K: 5, Log-Likelihood: -200.761, Alpha: 11.000, Beta: 1.100

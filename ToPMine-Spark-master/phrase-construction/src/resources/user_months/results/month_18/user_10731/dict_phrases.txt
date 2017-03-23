@@ -1,0 +1,85 @@
+auto,0,1
+transferred,1,1
+luck,2,1
+usb,3,1
+loosing,4,1
+firefox,5,1
+questions,6,1
+main,7,1
+good,8,1
+unable,9,1
+problem,10,1
+docs,11,1
+earlier,12,1
+solution,13,1
+stick,14,3
+stick tails,15,1
+persistent,16,1
+syslinux,17,1
+boot tails,18,2
+windows installed,19,1
+settings,20,1
+image,21,1
+eli,22,1
+upgrade,23,3
+ubuntu,24,4
+version,25,2
+downloaded,26,1
+script,27,2
+installed ubuntu,28,1
+persian,29,1
+tails,30,10
+installer,31,1
+transfer,32,1
+system,33,1
+guess,34,1
+versions,35,1
+install,36,1
+loose,37,1
+files,38,2
+support,39,1
+device,40,1
+dont,41,1
+problems,42,1
+installed,43,3
+tails stick,44,2
+addon,45,1
+save,46,2
+choose,47,1
+storage,48,2
+parade,49,1
+manual,50,1
+error,51,1
+remove,52,1
+running,53,1
+file,54,1
+ubuntu windows,55,1
+load,56,1
+linux,57,1
+operating,58,1
+reinstalling,59,1
+boot,60,3
+live,61,1
+latest,62,2
+cd,63,2
+burn,64,1
+side,65,2
+installed tails,66,1
+question,67,1
+preform,68,1
+custom,69,1
+label,70,1
+windows,71,3
+people,72,2
+versed,73,1
+editing,74,1
+encountered,75,1
+burning,76,1
+site,77,1
+tailsinstaller,78,1
+clone,79,1
+witch,80,2
+time,81,1
+config,82,1
+windows ubuntu,83,2
+applications,84,1

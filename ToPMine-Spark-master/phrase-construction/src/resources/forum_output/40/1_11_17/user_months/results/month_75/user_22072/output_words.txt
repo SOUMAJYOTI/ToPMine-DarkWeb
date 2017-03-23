@@ -1,0 +1,61 @@
+Topic 0:
+  clean:0.20
+  online:0.20
+  darknet:0.20
+  quaaludes:0.20
+  cocaine:0.20
+  tablets:0.20
+  alphabay:0.20
+  crack:0.20
+  shards:0.20
+  market:0.20
+
+Topic 1:
+  high:0.20
+  african:0.20
+  crack:0.20
+  ready:0.20
+  clean:0.20
+  tablets:0.20
+  cannabis:0.20
+  quality:0.20
+  markets:0.20
+  rocks:0.20
+
+Topic 2:
+  required:0.20
+  high:0.20
+  staff:0.20
+  trusted:0.20
+  rainbowtribe:0.20
+  shards:0.20
+  contact:0.20
+  methamphetamine:0.20
+  quaaludes:0.20
+  quality:0.20
+
+Topic 3:
+  markets:0.20
+  outdoors:0.20
+  staff:0.20
+  online:0.20
+  stock:0.20
+  ship:0.20
+  market:0.20
+  marketing:0.20
+  required:0.20
+  contact:0.20
+
+Topic 4:
+  buds:0.20
+  time:0.20
+  rocks:0.20
+  outdoors:0.20
+  rainbowtribe:0.20
+  marketing:0.20
+  darknet:0.20
+  vendor:0.20
+  contact:0.20
+  ship:0.20
+
+K: 5, Log-Likelihood: -110.904, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  story:0.65
+  doesnt:0.60
+  arrested:0.56
+  silkroad:0.54
+  movieor:0.45
+  sidesif:0.44
+  lost:0.44
+  netflixthen:0.44
+  miniseries:0.44
+  plot:0.44
+
+Topic 1:
+  arrested:0.63
+  doesnt:0.63
+  silkroad:0.62
+  story:0.56
+  supposed:0.43
+  ya:0.43
+  ta:0.43
+  feds:0.43
+  hahaha:0.43
+  break:0.43
+
+Topic 2:
+  silkroad:0.64
+  arrested:0.63
+  doesnt:0.61
+  story:0.55
+  investigating:0.44
+  thievery:0.44
+  hear:0.44
+  ll:0.44
+  hahaha:0.44
+  ya:0.44
+
+Topic 3:
+  story:0.63
+  arrested:0.61
+  silkroad:0.60
+  doesnt:0.55
+  site:0.48
+  ahhhhhhhhhhhhhhhhhhhhh:0.39
+  miniseries:0.39
+  sidesif:0.39
+  plot:0.39
+  netflixthen:0.39
+
+Topic 4:
+  doesnt:0.61
+  story:0.61
+  silkroad:0.59
+  arrested:0.57
+  hahahahahahahaaaaaaahamy:0.44
+  hell:0.43
+  hollywood:0.43
+  lost:0.43
+  netflixthen:0.43
+  plot:0.43
+
+K: 5, Log-Likelihood: -285.078, Alpha: 11.000, Beta: 1.100

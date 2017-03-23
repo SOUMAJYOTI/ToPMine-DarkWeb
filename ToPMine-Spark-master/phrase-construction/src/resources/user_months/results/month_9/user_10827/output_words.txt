@@ -1,0 +1,61 @@
+Topic 0:
+  marijuana:2.91
+  kush:2.42
+  indoor:1.68
+  mazar:1.57
+  aa:1.54
+  weed:1.51
+  ssh:1.33
+  haze:0.88
+  ww:0.84
+  feedback:0.70
+
+Topic 1:
+  marijuana:3.08
+  mazar:2.17
+  ssh:1.88
+  weed:1.54
+  aa:1.40
+  indoor:1.37
+  kush:1.27
+  haze:0.90
+  ww:0.88
+  evolution:0.72
+
+Topic 2:
+  mazar:6.56
+  aa:6.43
+  kush:5.93
+  marijuana:4.09
+  weed:3.59
+  ssh:3.22
+  indoor:2.32
+  ww:1.46
+  haze:1.26
+  evolution:0.44
+
+Topic 3:
+  aa:2.58
+  indoor:2.58
+  kush:2.32
+  marijuana:1.86
+  mazar:1.65
+  ssh:1.53
+  weed:1.31
+  haze:0.92
+  ww:0.78
+  evolution:0.67
+
+Topic 4:
+  pandora:3.01
+  days:0.81
+  check:0.81
+  hope:0.81
+  commission:0.81
+  bad:0.81
+  rates:0.81
+  customers:0.81
+  marketplace:0.81
+  meet:0.81
+
+K: 5, Log-Likelihood: -424.652, Alpha: 11.000, Beta: 1.100

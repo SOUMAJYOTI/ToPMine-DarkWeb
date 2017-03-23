@@ -1,0 +1,27 @@
+voice,0,1
+controls,1,1
+keys,2,1
+scarf,3,1
+missmolly,4,1
+smell,5,1
+bit,6,1
+experience,7,1
+reply,8,1
+participants,9,1
+forum closed,10,3
+ticket,11,1
+coins,12,1
+nucleus,13,1
+follow,14,1
+happened,15,1
+forum,16,4
+site,17,1
+june,18,1
+stolen,19,1
+fish,20,1
+closed,21,3
+registration,22,2
+incident,23,1
+hacked,24,1
+word,25,1
+support,26,1

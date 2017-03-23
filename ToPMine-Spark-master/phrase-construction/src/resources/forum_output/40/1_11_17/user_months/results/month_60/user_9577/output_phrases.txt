@@ -1,0 +1,61 @@
+Topic 0:
+  abraxas:9.70
+  markets:4.98
+  buy:4.35
+  grateful:4.35
+  key learning:4.35
+  surfing:4.35
+  fortunate:4.35
+  receive:4.35
+  yeah guess:4.35
+  videos:4.35
+
+Topic 1:
+  market:10.01
+  technical:8.73
+  post:8.73
+  good vendors moving abraxas:5.04
+  trustworthy imo longest running:4.51
+  holding:4.34
+  chinese:4.34
+  webs:4.34
+  advance:4.34
+  total:4.34
+
+Topic 2:
+  message:12.46
+  password:8.25
+  public key block:8.19
+  explain:8.12
+  public key:6.61
+  ll:5.04
+  tied:4.13
+  le:4.12
+  decode:4.12
+  basics:4.12
+
+Topic 3:
+  encrypt:5.28
+  constantly:4.05
+  safer:4.05
+  pgp gpg:4.04
+  shut le:4.03
+  directly:4.02
+  honeydick:4.02
+  thinking:4.00
+  shut maintenance:3.99
+  deal:3.98
+
+Topic 4:
+  plan buying:8.74
+  love avengers:7.33
+  key:6.86
+  pgp:6.86
+  signing:4.35
+  itpgp:4.35
+  signature box:4.35
+  talking:4.35
+  mails:4.35
+  save:4.35
+
+K: 5, Log-Likelihood: -7623.807, Alpha: 11.000, Beta: 1.100

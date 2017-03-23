@@ -1,0 +1,61 @@
+Topic 0:
+  regular internet cable:0.42
+  tails:0.41
+  sim:0.28
+  modem:0.28
+  card:0.28
+  isnt:0.28
+  hsould:0.14
+  question:0.14
+  number:0.14
+  address:0.14
+
+Topic 1:
+  tails:0.41
+  regular internet cable:0.41
+  modem:0.28
+  card:0.28
+  isnt:0.28
+  sim:0.28
+  tambourine:0.14
+  country:0.14
+  cards:0.14
+  pmi:0.14
+
+Topic 2:
+  tails:0.42
+  regular internet cable:0.41
+  card:0.28
+  sim:0.28
+  isnt:0.28
+  modem:0.28
+  quote:0.14
+  pmi:0.14
+  tambourine:0.14
+  country:0.14
+
+Topic 3:
+  tails:0.42
+  regular internet cable:0.42
+  sim:0.28
+  isnt:0.28
+  modem:0.28
+  card:0.28
+  mac:0.14
+  main:0.14
+  hsould:0.14
+  linked:0.14
+
+Topic 4:
+  regular internet cable:0.42
+  tails:0.42
+  isnt:0.28
+  modem:0.28
+  card:0.28
+  sim:0.28
+  ip:0.14
+  buy modem:0.14
+  hand:0.14
+  spoofs:0.14
+
+K: 5, Log-Likelihood: -109.346, Alpha: 11.000, Beta: 1.100

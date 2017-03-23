@@ -1,0 +1,19 @@
+instructions,0,1
+including,1,1
+read,2,1
+familiarize,3,1
+alfreds,4,1
+vending,5,1
+link,6,2
+signed,7,1
+rules,8,1
+thread,9,3
+message,10,1
+follow,11,1
+chemicalallstars,12,1
+markets,13,1
+post,14,3
+hub,15,2
+vendor,16,2
+post thread,17,1
+verification,18,1

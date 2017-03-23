@@ -1,0 +1,61 @@
+Topic 0:
+  tor:9.57
+  call:8.13
+  mixed bitcoin:6.08
+  voip:6.08
+  physically:6.08
+  onion sip:5.91
+  hidden service:5.91
+  vpn:5.00
+  zrtp:4.86
+  cellar:3.83
+
+Topic 1:
+  satellite phones:6.18
+  opinions:2.07
+  communicating:2.06
+  observers:2.06
+  worth:2.04
+  correct:2.03
+  trouble:2.03
+  occasionally:2.02
+  satellite phone:2.01
+  antenna:2.01
+
+Topic 2:
+  imei:7.73
+  flag:5.79
+  red:3.84
+  cycle:3.84
+  imsi:3.84
+  imagine:2.51
+  performance:2.50
+  simpler:2.49
+  onioncat things:2.47
+  likelihood:1.90
+
+Topic 3:
+  quote el presidente january:3.25
+  satellite phones:3.00
+  response:1.87
+  thoughts:1.87
+  platform:1.87
+  nice:1.87
+  afwall:1.87
+  dont real:1.87
+  great:1.87
+  wifi network:1.87
+
+Topic 4:
+  source:5.81
+  documentation:4.49
+  signal:3.98
+  thwart:3.86
+  mix:3.86
+  signals:3.86
+  code:3.86
+  assume:3.86
+  understand:2.88
+  simply:2.88
+
+K: 5, Log-Likelihood: -5171.855, Alpha: 11.000, Beta: 1.100

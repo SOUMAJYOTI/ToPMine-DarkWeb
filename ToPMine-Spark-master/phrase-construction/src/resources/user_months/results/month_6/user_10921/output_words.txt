@@ -1,0 +1,61 @@
+Topic 0:
+  prove:8.11
+  btc:5.67
+  proof:3.96
+  sheep:3.82
+  market:3.82
+  amount:3.78
+  jack:2.83
+  captainwhitebeard:2.67
+  quote:2.30
+  february:1.93
+
+Topic 1:
+  defcon:6.96
+  proof:5.48
+  doubt:4.82
+  cock:4.82
+  riding:4.82
+  story:4.82
+  wallet:3.59
+  defcons:3.31
+  time:2.99
+  addy:2.87
+
+Topic 2:
+  february:3.62
+  quote:2.40
+  defcon:1.71
+  wallet:1.64
+  sr:1.54
+  amount:1.50
+  thomas:1.47
+  captainwhitebeard:1.47
+  bitcoins:1.37
+  mycarneedstint:1.15
+
+Topic 3:
+  street:2.54
+  quote:1.94
+  making:1.94
+  february:1.87
+  sandwich:1.62
+  wallet:1.44
+  captainwhitebeard:1.40
+  sr:1.30
+  mycarneedstint:1.26
+  defcon:1.14
+
+Topic 4:
+  defcon:4.33
+  sr:3.96
+  people:3.71
+  paid:3.59
+  amount:2.72
+  february:2.72
+  prove:2.17
+  btc:1.81
+  forums:1.69
+  nasty:1.69
+
+K: 5, Log-Likelihood: -2881.357, Alpha: 11.000, Beta: 1.100

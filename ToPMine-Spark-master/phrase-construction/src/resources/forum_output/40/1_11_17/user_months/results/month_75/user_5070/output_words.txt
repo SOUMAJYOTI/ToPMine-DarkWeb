@@ -1,0 +1,61 @@
+Topic 0:
+  bothered:0.20
+  mistakes:0.20
+  cases:0.20
+  safety:0.20
+  making:0.20
+  vendors:0.20
+  prone:0.20
+  turned:0.20
+  chemicals:0.20
+  common:0.20
+
+Topic 1:
+  swallow:0.20
+  tongue:0.20
+  knowledge:0.20
+  reading:0.20
+  nbome:0.20
+  remember:0.20
+  webs:0.20
+  confirm:0.20
+  holding:0.20
+  cheap:0.20
+
+Topic 2:
+  holding:0.20
+  tongue:0.20
+  remember:0.20
+  confirm:0.20
+  reading:0.20
+  knowledge:0.20
+  swallow:0.20
+  nbome:0.20
+  webs:0.20
+  fuck:0.20
+
+Topic 3:
+  compound:0.20
+  safety:0.20
+  accuracy:0.20
+  making:0.20
+  turned:0.20
+  cases:0.20
+  fuck:0.20
+  chemicals:0.20
+  vendors:0.20
+  laying:0.20
+
+Topic 4:
+  nbome:0.20
+  holding:0.20
+  webs:0.20
+  knowledge:0.20
+  swallow:0.20
+  confirm:0.20
+  tongue:0.20
+  remember:0.20
+  reading:0.20
+  common:0.20
+
+K: 5, Log-Likelihood: -76.273, Alpha: 11.000, Beta: 1.100

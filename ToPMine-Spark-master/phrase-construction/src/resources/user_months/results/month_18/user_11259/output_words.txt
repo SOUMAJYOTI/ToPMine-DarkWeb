@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.40
+  listed:0.20
+  rule:0.20
+  escrow:0.20
+  time:0.20
+  isnt:0.20
+  scam:0.20
+  risk:0.20
+  golden:0.20
+  feedback:0.20
+
+Topic 1:
+  market:0.42
+  golden:0.21
+  time:0.21
+  escrow:0.20
+  risk:0.20
+  isnt:0.20
+  scam:0.20
+  rule:0.20
+  listed:0.20
+  didnt:0.20
+
+Topic 2:
+  market:0.37
+  rules:0.21
+  partys:0.21
+  stolen:0.21
+  wan:0.21
+  opinion:0.21
+  posting:0.21
+  vendor:0.21
+  trust:0.21
+  real:0.21
+
+Topic 3:
+  market:0.42
+  risk:0.20
+  isnt:0.20
+  listed:0.20
+  escrow:0.20
+  time:0.20
+  rule:0.20
+  golden:0.20
+  scam:0.20
+  scammers:0.20
+
+Topic 4:
+  market:0.40
+  opinion:0.20
+  stolen:0.20
+  burned:0.20
+  vendors:0.20
+  offer:0.20
+  links:0.20
+  didnt:0.20
+  noticed:0.20
+  greatly:0.20
+
+K: 5, Log-Likelihood: -105.095, Alpha: 11.000, Beta: 1.100

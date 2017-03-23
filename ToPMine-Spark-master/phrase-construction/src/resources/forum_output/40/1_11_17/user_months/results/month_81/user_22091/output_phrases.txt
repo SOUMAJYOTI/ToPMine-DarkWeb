@@ -1,0 +1,61 @@
+Topic 0:
+  silkkitie:1.91
+  markets:1.88
+  market:1.11
+  honest:0.79
+  full:0.79
+  pgp:0.79
+  sh:0.79
+  priority:0.79
+  oldest:0.79
+  valhalla market:0.79
+
+Topic 1:
+  ve:5.33
+  lot:2.05
+  vendors:2.05
+  buyers:2.05
+  earlier:0.97
+  pretty:0.97
+  helpful:0.97
+  needed:0.97
+  assist:0.97
+  ball:0.97
+
+Topic 2:
+  market:0.65
+  markets:0.49
+  silkkitie:0.47
+  valhalla:0.45
+  deepdotweb:0.38
+  multisig:0.34
+  running markets:0.33
+  years:0.32
+  nice:0.31
+  operation:0.30
+
+Topic 3:
+  cache:0.65
+  interview:0.65
+  concept:0.65
+  settings:0.65
+  terrain:0.65
+  deepdotweb:0.57
+  multisig:0.41
+  market:0.40
+  mention:0.38
+  find:0.33
+
+Topic 4:
+  bitblender:4.28
+  coins:2.09
+  btc:2.09
+  deposits:2.09
+  user:2.09
+  days:2.09
+  send:2.09
+  referred:2.09
+  link:2.09
+  note:2.09
+
+K: 5, Log-Likelihood: -1335.150, Alpha: 11.000, Beta: 1.100

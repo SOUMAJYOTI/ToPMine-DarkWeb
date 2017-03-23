@@ -1,0 +1,61 @@
+Topic 0:
+  single:0.37
+  pimpin:0.36
+  account:0.20
+  amount:0.18
+  total:0.18
+  person:0.18
+  sold:0.18
+  find:0.18
+  wife:0.18
+  hope:0.18
+
+Topic 1:
+  single:0.37
+  pimpin:0.37
+  account:0.20
+  precise:0.18
+  sold:0.18
+  watches:0.18
+  sells:0.18
+  ebay:0.18
+  carder:0.18
+  wife:0.18
+
+Topic 2:
+  pimpin:0.37
+  single:0.36
+  account:0.20
+  aint:0.18
+  stick:0.18
+  money:0.18
+  easy:0.18
+  long:0.18
+  registered:0.18
+  forum:0.18
+
+Topic 3:
+  single:0.37
+  pimpin:0.36
+  account:0.20
+  offer:0.18
+  purchased:0.18
+  person:0.18
+  precise:0.18
+  individually:0.18
+  find:0.18
+  carder:0.18
+
+Topic 4:
+  pimpin:0.37
+  single:0.36
+  account:0.20
+  stick:0.18
+  easy:0.18
+  money:0.18
+  aint:0.18
+  response:0.18
+  forum:0.18
+  question:0.18
+
+K: 5, Log-Likelihood: -124.553, Alpha: 11.000, Beta: 1.100

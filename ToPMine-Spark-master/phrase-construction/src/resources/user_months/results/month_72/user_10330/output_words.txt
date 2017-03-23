@@ -1,0 +1,61 @@
+Topic 0:
+  february:4.80
+  quote:4.78
+  zaphod:2.81
+  browser:2.47
+  apply:2.33
+  shit:2.31
+  luck:2.22
+  days:2.15
+  tbb:2.09
+  abbot:1.96
+
+Topic 1:
+  bug:51.20
+  tor:33.05
+  tails:24.62
+  browser:23.96
+  add:9.59
+  update:9.54
+  font:9.07
+  plate:8.93
+  remove:8.66
+  support:7.87
+
+Topic 2:
+  users:7.30
+  ransomware:6.98
+  mac:6.95
+  attack:4.98
+  researchers:3.98
+  macs:3.98
+  malware:3.98
+  computer:3.08
+  apple:2.98
+  app:2.98
+
+Topic 3:
+  security:36.35
+  adviser:14.98
+  tor:14.39
+  mozilla:13.66
+  foundation:13.26
+  design:12.56
+  update:11.16
+  browser:10.25
+  advisory:8.98
+  bug:8.67
+
+Topic 4:
+  metadata:23.99
+  access:15.16
+  australian:14.19
+  data:12.41
+  law:11.99
+  time:11.72
+  commission:10.99
+  privacy:10.98
+  security:10.64
+  government:9.99
+
+K: 5, Log-Likelihood: -16099.291, Alpha: 11.000, Beta: 1.100

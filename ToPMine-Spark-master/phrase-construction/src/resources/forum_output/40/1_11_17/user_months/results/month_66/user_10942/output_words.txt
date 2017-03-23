@@ -1,0 +1,61 @@
+Topic 0:
+  super:0.20
+  shit:0.20
+  events:0.20
+  lol:0.20
+  garbage:0.20
+  canvas:0.20
+  thousands:0.20
+  geometrical:0.20
+  psychedelic:0.20
+  worth:0.20
+
+Topic 1:
+  geocache:0.20
+  gold:0.20
+  coins:0.20
+  psychedelic:0.20
+  dude:0.20
+  garbage:0.20
+  shit:0.20
+  worth:0.20
+  lol:0.20
+  geometrical:0.20
+
+Topic 2:
+  gold:0.20
+  geocache:0.20
+  coins:0.20
+  geometrical:0.20
+  worth:0.20
+  events:0.20
+  dude:0.20
+  psychedelic:0.20
+  super:0.20
+  canvas:0.20
+
+Topic 3:
+  events:0.20
+  thousands:0.20
+  garbage:0.20
+  canvas:0.20
+  psychedelic:0.20
+  lol:0.20
+  super:0.20
+  dude:0.20
+  geometrical:0.20
+  worth:0.20
+
+Topic 4:
+  coins:0.20
+  geocache:0.20
+  gold:0.20
+  shit:0.20
+  thousands:0.20
+  canvas:0.20
+  dude:0.20
+  lol:0.20
+  worth:0.20
+  geometrical:0.20
+
+K: 5, Log-Likelihood: -36.947, Alpha: 11.000, Beta: 1.100

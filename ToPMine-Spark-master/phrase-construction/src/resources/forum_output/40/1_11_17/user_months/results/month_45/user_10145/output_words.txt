@@ -1,0 +1,61 @@
+Topic 0:
+  working:0.40
+  market:0.40
+  comfortable:0.40
+  link:0.40
+  official:0.40
+  stock:0.40
+  order:0.40
+  faster:0.40
+  volumes:0.40
+  high:0.40
+
+Topic 1:
+  volumes:0.40
+  order:0.40
+  working:0.40
+  faster:0.40
+  high:0.40
+  link:0.40
+  stock:0.40
+  market:0.40
+  official:0.40
+  purchases:0.40
+
+Topic 2:
+  volumes:0.40
+  stock:0.40
+  working:0.40
+  link:0.40
+  market:0.40
+  purchases:0.40
+  faster:0.40
+  high:0.40
+  order:0.40
+  comfortable:0.40
+
+Topic 3:
+  order:0.40
+  link:0.40
+  comfortable:0.40
+  high:0.40
+  official:0.40
+  purchases:0.40
+  faster:0.40
+  volumes:0.40
+  stock:0.40
+  market:0.40
+
+Topic 4:
+  purchases:0.40
+  official:0.40
+  comfortable:0.40
+  faster:0.40
+  stock:0.40
+  high:0.40
+  market:0.40
+  working:0.40
+  order:0.40
+  link:0.40
+
+K: 5, Log-Likelihood: -56.884, Alpha: 11.000, Beta: 1.100

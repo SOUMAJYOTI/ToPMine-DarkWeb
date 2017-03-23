@@ -1,0 +1,61 @@
+Topic 0:
+  vi:1.00
+  se:0.99
+  niin:0.98
+  vaikka:0.95
+  ne:0.94
+  toiminnassa:0.93
+  august:0.93
+  lukee:0.92
+  silti:0.91
+  ohjeissa:0.91
+
+Topic 1:
+  vi:1.13
+  se:1.13
+  niin:1.10
+  ne:0.89
+  silti:0.88
+  ohjeissa:0.87
+  vaikka:0.85
+  toiminnassa:0.84
+  smite:0.84
+  silkkitien:0.84
+
+Topic 2:
+  siirto:2.46
+  kun:2.26
+  oli:2.10
+  ja:1.09
+  torstai:0.99
+  rahaa:0.99
+  inen:0.97
+  ensimm:0.97
+  lompakkoon:0.97
+  lompakkokoodi:0.97
+
+Topic 3:
+  august:1.28
+  silkkitien:1.04
+  smite:1.03
+  lukee:1.03
+  toiminnassa:1.01
+  ohjeissa:1.00
+  silti:0.99
+  vaikka:0.98
+  ne:0.95
+  en:0.80
+
+Topic 4:
+  kun:2.51
+  siirto:2.37
+  oli:1.74
+  ja:1.14
+  ollenkaan:0.91
+  bitcoin:0.91
+  asti:0.90
+  siirsin:0.89
+  lompakkokoodi:0.89
+  lompakkoon:0.88
+
+K: 5, Log-Likelihood: -746.784, Alpha: 11.000, Beta: 1.100

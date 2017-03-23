@@ -1,0 +1,61 @@
+Topic 0:
+  system:2.42
+  ag:1.27
+  hacked:1.27
+  surprised:1.26
+  year:1.18
+  people:1.15
+  coins:1.07
+  theft:1.07
+  relays:1.07
+  failure:1.06
+
+Topic 1:
+  system:2.15
+  hacked:1.44
+  year:1.37
+  ag:1.34
+  surprised:1.32
+  people:1.24
+  onion:1.16
+  canaris:1.03
+  plague:1.02
+  lsdaacid:1.01
+
+Topic 2:
+  hacked:1.57
+  surprised:1.44
+  ag:1.43
+  year:1.37
+  system:1.34
+  quote:1.16
+  people:1.04
+  avengers:1.04
+  september:1.02
+  spokesperson:1.00
+
+Topic 3:
+  future:2.12
+  hacked:1.91
+  direct:1.66
+  trading:1.61
+  onion:1.56
+  thing:1.17
+  money:1.17
+  trustbased:1.17
+  pandora:1.17
+  site:1.17
+
+Topic 4:
+  hacked:1.81
+  system:1.38
+  year:1.33
+  onion:1.31
+  surprised:1.26
+  quote:1.25
+  ag:1.24
+  future:0.99
+  people:0.99
+  led:0.91
+
+K: 5, Log-Likelihood: -1023.563, Alpha: 11.000, Beta: 1.100

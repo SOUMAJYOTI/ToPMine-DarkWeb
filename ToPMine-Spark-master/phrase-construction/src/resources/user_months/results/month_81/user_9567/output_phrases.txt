@@ -1,0 +1,61 @@
+Topic 0:
+  successful:0.84
+  coins:0.43
+  wallet:0.43
+  address:0.43
+  support:0.42
+  lucy:0.42
+  server:0.40
+  problem:0.40
+  hrs:0.37
+  experience:0.37
+
+Topic 1:
+  trusted:0.47
+  eic:0.47
+  problem:0.45
+  server:0.43
+  successful:0.42
+  support:0.39
+  lucy:0.39
+  wallet:0.39
+  address:0.39
+  coins:0.34
+
+Topic 2:
+  successful:0.53
+  problem:0.48
+  server:0.48
+  trusted:0.43
+  eic:0.41
+  address:0.39
+  wallet:0.39
+  support:0.39
+  lucy:0.39
+  coins:0.38
+
+Topic 3:
+  successful:0.63
+  lucy:0.45
+  support:0.45
+  address:0.44
+  wallet:0.44
+  trusted:0.41
+  problem:0.41
+  server:0.39
+  eic:0.39
+  coins:0.38
+
+Topic 4:
+  server:1.07
+  problem:1.03
+  coins:0.43
+  solve:0.43
+  erbium:0.43
+  happen:0.43
+  changed:0.43
+  finageling:0.42
+  trusted:0.40
+  eic:0.37
+
+K: 5, Log-Likelihood: -350.930, Alpha: 11.000, Beta: 1.100

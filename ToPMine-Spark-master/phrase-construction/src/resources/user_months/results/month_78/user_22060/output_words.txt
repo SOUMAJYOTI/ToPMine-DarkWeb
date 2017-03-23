@@ -1,0 +1,61 @@
+Topic 0:
+  quantum:9.98
+  computer:6.98
+  atom:5.98
+  encryption:4.98
+  developed:4.52
+  algorithm:3.98
+  computing:3.98
+  number:3.98
+  mit:3.98
+  shor:2.98
+
+Topic 1:
+  system:14.19
+  grsec:10.63
+  memory:9.98
+  rbac:8.58
+  learning:6.37
+  mode:5.56
+  bit:5.06
+  attacker:4.98
+  control:4.07
+  controls:3.98
+
+Topic 2:
+  os:3.72
+  dns:2.80
+  persistence:2.80
+  asap:2.80
+  ta:2.79
+  downloading:2.79
+  everyday:2.77
+  alpha:2.60
+  box:1.98
+  quote:1.96
+
+Topic 3:
+  tails:16.03
+  march:10.43
+  steroids:7.37
+  whonix:6.20
+  sounds:5.91
+  quote:5.62
+  hardened:5.20
+  kind:5.19
+  massively:5.19
+  tubes:5.19
+
+Topic 4:
+  security:27.38
+  subgraph:23.53
+  people:14.87
+  march:11.42
+  tails:10.62
+  whonix:7.65
+  kmf:7.38
+  illegal:5.95
+  listen:5.95
+  pretty:4.88
+
+K: 5, Log-Likelihood: -7771.319, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  april:10.13
+  marketplace:7.90
+  site:6.11
+  earth:4.09
+  encrypted:3.74
+  fuck:3.74
+  middle:3.59
+  secure:3.50
+  constructed:3.45
+  years:2.73
+
+Topic 1:
+  market:2.94
+  pgp:2.94
+  wow:1.94
+  note:1.94
+  impressed:1.94
+  signature:1.94
+  message:1.84
+  darkness:1.06
+  piratey:0.98
+  xk:0.94
+
+Topic 2:
+  middle:5.38
+  earth:4.49
+  site:2.49
+  constructed:1.63
+  secure:1.44
+  place:1.12
+  super:1.06
+  open:1.00
+  post:0.98
+  message:0.94
+
+Topic 3:
+  earth:6.39
+  middle:5.60
+  analysis:3.24
+  post:2.78
+  fine:2.42
+  underscore:2.40
+  subtle:2.39
+  message:2.35
+  site:2.16
+  security:1.56
+
+Topic 4:
+  middle:3.36
+  earth:2.97
+  site:1.19
+  secure:1.06
+  constructed:1.04
+  message:0.85
+  anxiously:0.75
+  hobbits:0.68
+  onion:0.68
+  pm:0.64
+
+K: 5, Log-Likelihood: -2347.851, Alpha: 11.000, Beta: 1.100

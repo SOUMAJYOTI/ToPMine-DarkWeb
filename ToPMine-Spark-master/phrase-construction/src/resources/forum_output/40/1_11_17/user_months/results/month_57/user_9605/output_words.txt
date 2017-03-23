@@ -1,0 +1,61 @@
+Topic 0:
+  email:0.59
+  lot:0.40
+  answers:0.39
+  interesting:0.20
+  cool:0.20
+  sign:0.20
+  paid:0.20
+  version:0.20
+  features:0.20
+  integration:0.20
+
+Topic 1:
+  email:0.61
+  lot:0.40
+  answers:0.39
+  link:0.20
+  features:0.20
+  paid:0.20
+  bitmessage:0.20
+  sign:0.20
+  cool:0.20
+  interesting:0.20
+
+Topic 2:
+  email:0.59
+  answers:0.41
+  lot:0.40
+  create:0.20
+  direct:0.20
+  trick:0.20
+  guess:0.20
+  created:0.20
+  account:0.20
+  tor:0.20
+
+Topic 3:
+  email:0.60
+  lot:0.40
+  answers:0.40
+  version:0.20
+  sign:0.20
+  integration:0.20
+  features:0.20
+  interesting:0.20
+  paid:0.20
+  bitmessage:0.20
+
+Topic 4:
+  email:0.61
+  answers:0.41
+  lot:0.40
+  contact:0.20
+  market:0.20
+  sigaint:0.20
+  wondering:0.20
+  tor:0.20
+  hope:0.20
+  helpfull:0.20
+
+K: 5, Log-Likelihood: -113.951, Alpha: 11.000, Beta: 1.100

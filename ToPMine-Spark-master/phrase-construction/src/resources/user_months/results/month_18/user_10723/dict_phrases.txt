@@ -1,0 +1,11 @@
+yesterday,0,1
+server,1,1
+busy,2,1
+crashed,3,1
+host,4,1
+time,5,1
+day,6,2
+issues,7,1
+long,8,1
+hardware,9,1
+problems,10,1

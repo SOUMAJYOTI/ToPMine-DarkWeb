@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins:1.04
+  coins:0.61
+  dash:0.61
+  bitcoin:0.61
+  cash:0.60
+  btc:0.60
+  shapeshift:0.60
+  io:0.59
+  purchase:0.57
+  wallet:0.40
+
+Topic 1:
+  bitcoins:0.98
+  purchase:0.62
+  coins:0.61
+  bitcoin:0.61
+  io:0.61
+  btc:0.60
+  dash:0.59
+  shapeshift:0.59
+  cash:0.58
+  anonymity:0.40
+
+Topic 2:
+  bitcoins:0.99
+  io:0.62
+  bitcoin:0.61
+  btc:0.61
+  coins:0.60
+  cash:0.60
+  dash:0.59
+  purchase:0.59
+  shapeshift:0.59
+  anonymity:0.40
+
+Topic 3:
+  bitcoins:0.95
+  shapeshift:0.64
+  btc:0.62
+  purchase:0.62
+  dash:0.61
+  cash:0.61
+  io:0.59
+  coins:0.59
+  bitcoin:0.57
+  network:0.40
+
+Topic 4:
+  bitcoins:1.04
+  cash:0.61
+  io:0.60
+  purchase:0.60
+  bitcoin:0.60
+  shapeshift:0.59
+  dash:0.59
+  coins:0.59
+  btc:0.57
+  move:0.40
+
+K: 5, Log-Likelihood: -363.411, Alpha: 11.000, Beta: 1.100

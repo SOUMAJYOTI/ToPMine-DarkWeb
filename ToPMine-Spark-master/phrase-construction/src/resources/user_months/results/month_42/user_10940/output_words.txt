@@ -1,0 +1,61 @@
+Topic 0:
+  machine:6.97
+  disk:5.97
+  tor:4.22
+  windows:4.08
+  machines:3.81
+  drive:3.18
+  behaviour:2.97
+  virtual:2.97
+  written:2.97
+  tails:2.97
+
+Topic 1:
+  malware:9.79
+  tor:8.34
+  node:7.88
+  exit:6.76
+  nodes:5.72
+  hidden:5.28
+  urls:4.31
+  request:4.10
+  visiting:4.05
+  browser:3.97
+
+Topic 2:
+  good:3.71
+  nasty:2.96
+  hard:2.69
+  sites:2.50
+  cryptostorm:2.45
+  point:2.36
+  installed:2.05
+  backdoors:1.96
+  special:1.96
+  doesnt:1.96
+
+Topic 3:
+  bit:3.93
+  teach:2.93
+  guy:1.96
+  havnt:1.96
+  stumbled:1.96
+  wrote:1.96
+  articles:1.96
+  day:1.93
+  troubleshiooting:1.93
+  issue:1.93
+
+Topic 4:
+  users:10.41
+  download:9.89
+  agora:7.31
+  phones:5.94
+  time:5.94
+  file:5.18
+  error:4.80
+  people:4.49
+  server:4.26
+  throwing:3.94
+
+K: 5, Log-Likelihood: -4650.137, Alpha: 11.000, Beta: 1.100

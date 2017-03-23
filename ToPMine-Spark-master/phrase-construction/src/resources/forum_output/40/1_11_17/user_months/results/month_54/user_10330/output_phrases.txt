@@ -1,0 +1,61 @@
+Topic 0:
+  disable:12.41
+  bug:10.27
+  tor:7.30
+  remove:7.19
+  uri bar:7.19
+  isolate:7.19
+  whitelist:7.19
+  tor browser:7.08
+  release:6.11
+  update:6.08
+
+Topic 1:
+  report:11.98
+  lawful interception:9.58
+  countries:8.05
+  update packages:7.92
+  enable lawful interception:7.19
+  countries vodafone:7.19
+  decree:7.16
+  law enforcement:5.97
+  government:5.96
+  vodafone:5.90
+
+Topic 2:
+  tor network:14.38
+  notice:14.38
+  notice bootstrapped:11.98
+  warn:9.58
+  tor browser:8.81
+  vodafone:8.03
+  directory:7.19
+  learned directors build circuit:7.19
+  establishing encrusted directory connection:7.19
+  xxx xxx xxx xxx:7.19
+
+Topic 3:
+  foreign host country:23.97
+  rcs:21.58
+  dea:16.78
+  foreign based:16.78
+  devices:10.09
+  foreign:9.59
+  software:7.67
+  person dea:7.19
+  money launderers:7.19
+  personnel located:7.19
+
+Topic 4:
+  bug:23.81
+  attack:11.97
+  hours:9.57
+  tor browser tor browser:7.95
+  ssl:7.18
+  mac address spoofing:6.00
+  bug plate:5.96
+  updates bug:5.10
+  tor browser:4.88
+  update:4.82
+
+K: 5, Log-Likelihood: -26530.938, Alpha: 11.000, Beta: 1.100

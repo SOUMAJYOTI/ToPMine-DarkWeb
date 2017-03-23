@@ -1,0 +1,61 @@
+Topic 0:
+  provided:3.12
+  password:3.10
+  weeks:2.08
+  couple:1.97
+  databse:1.97
+  people agra:1.97
+  threat:1.97
+  ceiling:1.97
+  folks:1.97
+  link:1.97
+
+Topic 1:
+  access vendor accounts:4.29
+  forum chime duties interested:4.29
+  accounts missed simple captcha:4.29
+  brute forcing usernames case:4.29
+  theyve retrieved user addresses:4.29
+  dont timed site unavoidable:4.29
+  pmi wad fud:4.29
+  foresight open coudnt worse:4.29
+  pgp dnm deserves weeks:4.29
+  total online time:4.29
+
+Topic 2:
+  passwords:7.81
+  topic:4.80
+  weak:3.99
+  market users:3.99
+  additional:3.99
+  login:3.99
+  market:3.94
+  security:3.17
+  copy:3.17
+  login names:3.17
+
+Topic 3:
+  market:5.67
+  quote rc ne march:4.72
+  transaction:4.01
+  agoras:3.84
+  time:3.61
+  point:3.59
+  topic:2.66
+  opsec:2.58
+  withdrawals:1.99
+  shipped:1.99
+
+Topic 4:
+  password:4.83
+  lot:3.98
+  hackers:3.16
+  dpr:3.16
+  people:3.13
+  write:1.96
+  move:1.96
+  word:1.96
+  rest life:1.96
+  labeled:1.96
+
+K: 5, Log-Likelihood: -6351.914, Alpha: 11.000, Beta: 1.100

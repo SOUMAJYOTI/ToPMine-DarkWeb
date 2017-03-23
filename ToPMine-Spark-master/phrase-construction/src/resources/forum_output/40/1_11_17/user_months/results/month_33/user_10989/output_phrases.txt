@@ -1,0 +1,61 @@
+Topic 0:
+  users:1.66
+  result:1.55
+  hope:1.50
+  massive:1.43
+  concerned:1.43
+  shitload:1.42
+  yea:1.42
+  evolution:1.42
+  influx:1.42
+  escrow:1.42
+
+Topic 1:
+  unreliable:1.78
+  denizens:1.78
+  confirm:1.78
+  cool:1.78
+  bad:1.78
+  hit:1.78
+  peace:1.78
+  hour:1.78
+  btc:1.78
+  increased:1.78
+
+Topic 2:
+  agora forums:2.54
+  feech:2.54
+  notice:2.53
+  add:2.52
+  quote:1.81
+  november:1.79
+  harkness:1.71
+  music:1.71
+  creepy:1.71
+  jack:1.71
+
+Topic 3:
+  agra wallet:7.21
+  worried confirmations:2.75
+  request:2.75
+  making:2.75
+  night:2.75
+  aware:2.75
+  working:2.75
+  teach:2.75
+  showing:2.75
+  sorted:2.75
+
+Topic 4:
+  security:3.58
+  availability:3.58
+  time:3.57
+  couple:3.56
+  lack:1.74
+  putting:1.74
+  seizures:1.74
+  reasons:1.74
+  stated:1.74
+  withstand:1.73
+
+K: 5, Log-Likelihood: -1778.881, Alpha: 11.000, Beta: 1.100

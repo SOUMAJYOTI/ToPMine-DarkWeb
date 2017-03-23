@@ -1,0 +1,61 @@
+Topic 0:
+  quote:12.20
+  speed:10.74
+  security:6.86
+  find:6.02
+  april:6.01
+  connection:5.86
+  mistake:5.65
+  pm:3.85
+  practice:3.83
+  people:3.70
+
+Topic 1:
+  tor:16.70
+  users:11.41
+  law:10.14
+  enforcement:10.14
+  people:8.24
+  child:5.75
+  site:4.98
+  pornography:4.98
+  security:4.31
+  data:3.98
+
+Topic 2:
+  tor:8.19
+  vpn:5.82
+  anonymous:5.55
+  dont:4.48
+  kids:3.80
+  pedos:3.67
+  niggers:3.63
+  time:3.60
+  attacks:3.58
+  hattin:3.50
+
+Topic 3:
+  vpn:10.92
+  live:6.16
+  tor:5.82
+  distro:5.65
+  browsing:4.11
+  find:3.46
+  great:3.23
+  encryption:3.19
+  log:3.18
+  running:2.97
+
+Topic 4:
+  tor:12.16
+  privacy:8.15
+  dont:5.01
+  money:4.91
+  person:4.25
+  support:3.92
+  techniques:3.89
+  project:3.87
+  opsec:3.82
+  reason:3.43
+
+K: 5, Log-Likelihood: -7346.139, Alpha: 11.000, Beta: 1.100

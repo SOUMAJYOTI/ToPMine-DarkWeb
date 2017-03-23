@@ -1,0 +1,61 @@
+Topic 0:
+  great:3.41
+  walk:2.63
+  ocean:2.04
+  experiences:1.67
+  community:1.50
+  northern:1.41
+  experiments:1.39
+  small:1.39
+  group:1.38
+  california:1.37
+
+Topic 1:
+  culture:3.19
+  postmodern:2.88
+  hand:2.65
+  technology:1.64
+  things:1.63
+  people:1.61
+  coming:1.57
+  environment:1.55
+  forces:1.51
+  control:1.50
+
+Topic 2:
+  plants:4.68
+  experiences:3.64
+  forward:2.90
+  compounds:2.82
+  slowly:2.78
+  connect:2.74
+  community:2.56
+  earth:1.91
+  walk:1.87
+  great:1.85
+
+Topic 3:
+  hand:3.19
+  postmodern:2.96
+  culture:2.65
+  connections:1.69
+  coming:1.58
+  environment:1.58
+  united:1.55
+  shocking:1.54
+  people:1.53
+  edge:1.53
+
+Topic 4:
+  great:3.73
+  experiences:2.56
+  walk:2.34
+  community:1.81
+  forward:1.67
+  ayahuasca:1.49
+  perception:1.48
+  supporting:1.46
+  deep:1.45
+  peru:1.45
+
+K: 5, Log-Likelihood: -1817.291, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  easier:1.52
+  pgp:0.83
+  generating:0.69
+  encypt:0.69
+  pmwow:0.69
+  depending:0.69
+  wayi:0.69
+  youtube:0.69
+  system:0.69
+  key:0.69
+
+Topic 1:
+  display:2.24
+  info:2.24
+  post:2.24
+  click:2.24
+  garden:2.24
+  friendly:1.01
+  afaik:1.01
+  surname:1.01
+  heart:1.01
+  safe:1.01
+
+Topic 2:
+  easier:0.73
+  pgp:0.64
+  stuff:0.55
+  complex:0.55
+  easiest:0.55
+  generate:0.55
+  worked:0.45
+  explain:0.36
+  persistence:0.36
+  december:0.36
+
+Topic 3:
+  worked:0.67
+  questions:0.53
+  enjoy:0.52
+  open:0.52
+  find:0.52
+  glad:0.49
+  stay:0.49
+  hear:0.49
+  upping:0.49
+  forum:0.48
+
+Topic 4:
+  profile:2.19
+  vendor:2.19
+  vendors:2.19
+  contact:0.98
+  based:0.98
+  links:0.98
+  markets:0.98
+  direct:0.98
+  deals:0.98
+  trusted:0.98
+
+K: 5, Log-Likelihood: -798.798, Alpha: 11.000, Beta: 1.100

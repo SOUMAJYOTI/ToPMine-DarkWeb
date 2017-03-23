@@ -1,0 +1,61 @@
+Topic 0:
+  le:0.58
+  nice:0.41
+  warm:0.41
+  drop:0.41
+  fag:0.41
+  officer:0.40
+  uri:0.40
+  yur:0.40
+  leo:0.40
+  cptn:0.20
+
+Topic 1:
+  le:0.62
+  leo:0.40
+  yur:0.40
+  uri:0.40
+  warm:0.40
+  drop:0.40
+  officer:0.40
+  fag:0.39
+  nice:0.39
+  common:0.20
+
+Topic 2:
+  le:0.58
+  uri:0.41
+  leo:0.41
+  officer:0.41
+  warm:0.40
+  nice:0.40
+  drop:0.40
+  yur:0.40
+  fag:0.40
+  dont:0.20
+
+Topic 3:
+  le:0.61
+  fag:0.40
+  uri:0.40
+  leo:0.40
+  yur:0.40
+  officer:0.40
+  drop:0.40
+  nice:0.40
+  warm:0.40
+  concern:0.20
+
+Topic 4:
+  le:0.61
+  yur:0.40
+  fag:0.40
+  nice:0.40
+  leo:0.40
+  drop:0.40
+  officer:0.40
+  warm:0.40
+  uri:0.40
+  link:0.20
+
+K: 5, Log-Likelihood: -166.784, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  rsa keys:0.38
+  usb:0.38
+  encryption:0.38
+  key:0.31
+  pgp:0.30
+  win:0.21
+  generate:0.21
+  recommended:0.21
+  length:0.21
+  easy:0.21
+
+Topic 1:
+  encryption:0.38
+  rsa keys:0.38
+  usb:0.38
+  key:0.31
+  pgp:0.30
+  length:0.21
+  easy:0.21
+  recommended:0.21
+  generate:0.21
+  win:0.21
+
+Topic 2:
+  pgp:0.33
+  rsa keys:0.33
+  usb:0.33
+  encryption:0.33
+  key:0.30
+  easy:0.20
+  generate:0.20
+  win:0.20
+  length:0.20
+  recommended:0.20
+
+Topic 3:
+  usb:0.38
+  encryption:0.38
+  rsa keys:0.38
+  key:0.31
+  pgp:0.30
+  recommended:0.21
+  easy:0.21
+  win:0.21
+  length:0.21
+  generate:0.21
+
+Topic 4:
+  rsa keys:0.37
+  usb:0.37
+  encryption:0.37
+  key:0.31
+  pgp:0.30
+  length:0.21
+  recommended:0.21
+  generate:0.21
+  easy:0.21
+  win:0.20
+
+K: 5, Log-Likelihood: -291.033, Alpha: 11.000, Beta: 1.100

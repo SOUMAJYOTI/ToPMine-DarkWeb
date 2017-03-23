@@ -1,0 +1,61 @@
+Topic 0:
+  aaa:0.00
+  porsche:0.00
+  german:0.00
+  bab:0.00
+  shop:0.00
+  outlaw:0.00
+  cocaine:0.00
+  tabs:0.00
+  hq:0.00
+  paste:0.00
+
+Topic 1:
+  aaa:0.00
+  porsche:0.00
+  german:0.00
+  bab:0.00
+  shop:0.00
+  outlaw:0.00
+  cocaine:0.00
+  tabs:0.00
+  hq:0.00
+  paste:0.00
+
+Topic 2:
+  aaa:0.00
+  porsche:0.00
+  german:0.00
+  bab:0.00
+  shop:0.00
+  outlaw:0.00
+  cocaine:0.00
+  tabs:0.00
+  hq:0.00
+  paste:0.00
+
+Topic 3:
+  aaa:0.00
+  porsche:0.00
+  german:0.00
+  bab:0.00
+  shop:0.00
+  outlaw:0.00
+  cocaine:0.00
+  tabs:0.00
+  hq:0.00
+  paste:0.00
+
+Topic 4:
+  aaa:0.00
+  porsche:0.00
+  german:0.00
+  bab:0.00
+  shop:0.00
+  outlaw:0.00
+  cocaine:0.00
+  tabs:0.00
+  hq:0.00
+  paste:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  agora:0.96
+  garden:0.49
+  forums:0.45
+  logins:0.45
+  loose:0.45
+  place:0.45
+  dnms:0.45
+  acct:0.45
+  referral:0.45
+  happened:0.45
+
+Topic 1:
+  agora:0.76
+  garden:0.59
+  hook vendors:0.42
+  glad:0.40
+  dardush:0.40
+  jor:0.40
+  popular:0.40
+  active:0.40
+  deals:0.40
+  escrow:0.40
+
+Topic 2:
+  garden:0.70
+  sr:0.56
+  talk:0.56
+  feeling:0.56
+  glad:0.55
+  vendors:0.55
+  active:0.55
+  direct:0.55
+  account:0.55
+  escrow:0.55
+
+Topic 3:
+  agora:0.97
+  garden:0.56
+  love:0.46
+  sky:0.46
+  thankspeace:0.46
+  lucy:0.46
+  dnm:0.46
+  loose:0.46
+  day:0.46
+  logins:0.46
+
+Topic 4:
+  agora:0.77
+  garden:0.60
+  hook vendors:0.43
+  warning:0.41
+  clearnet:0.41
+  reddit:0.41
+  heaps:0.41
+  darknetmarkets:0.41
+  skyballs:0.41
+  wiki:0.41
+
+K: 5, Log-Likelihood: -481.058, Alpha: 11.000, Beta: 1.100

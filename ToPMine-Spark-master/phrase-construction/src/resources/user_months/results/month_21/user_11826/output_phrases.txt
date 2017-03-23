@@ -1,0 +1,61 @@
+Topic 0:
+  phishing site:3.94
+  markets:2.49
+  dont click:2.49
+  discussion:2.49
+  posted:2.49
+  lol:2.49
+  good:2.49
+  hub:2.49
+  ya:2.48
+  works:2.48
+
+Topic 1:
+  attempt:2.50
+  built:2.50
+  user:2.49
+  coins:2.49
+  marketplace:2.49
+  malicious:2.49
+  removing:2.49
+  marketplaces:2.49
+  harm:2.49
+  steal:2.49
+
+Topic 2:
+  icon:2.38
+  fail:2.38
+  evilgrin:2.37
+  claim:2.37
+  register:2.37
+  support:2.37
+  lot:2.37
+  sketchier:2.37
+  obvious:2.36
+  voice:2.36
+
+Topic 3:
+  alfred:5.26
+  admin:3.47
+  market:3.47
+  eleftheria:2.50
+  hmmm:2.42
+  posts:2.42
+  man:2.42
+  moved deleted:2.42
+  basically:2.42
+  mod:2.42
+
+Topic 4:
+  big cock:3.94
+  boogie:3.44
+  bottom:2.52
+  lmao:2.52
+  thought:2.52
+  uri disclaimer:2.51
+  url click:1.65
+  times:1.65
+  ami:1.65
+  fast:1.65
+
+K: 5, Log-Likelihood: -1263.208, Alpha: 11.000, Beta: 1.100

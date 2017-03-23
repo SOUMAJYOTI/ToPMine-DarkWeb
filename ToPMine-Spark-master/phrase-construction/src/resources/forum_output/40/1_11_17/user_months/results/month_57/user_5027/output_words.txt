@@ -1,0 +1,61 @@
+Topic 0:
+  mixing:1.23
+  opiates:1.17
+  oxycodone:0.47
+  pcp:0.46
+  kava:0.40
+  mipt:0.40
+  combination:0.35
+  meo:0.34
+  doses:0.29
+  good:0.29
+
+Topic 1:
+  mixing:0.73
+  opiates:0.66
+  pcp:0.59
+  oxycodone:0.58
+  meo:0.52
+  kava:0.44
+  mipt:0.42
+  good:0.39
+  doses:0.39
+  combination:0.38
+
+Topic 2:
+  meo:0.99
+  pcp:0.85
+  oxycodone:0.85
+  doses:0.53
+  good:0.53
+  combination:0.49
+  mipt:0.41
+  potentiates:0.34
+  occurs:0.34
+  hand:0.34
+
+Topic 3:
+  meo:0.86
+  pcp:0.68
+  oxycodone:0.67
+  good:0.53
+  doses:0.52
+  combination:0.47
+  kava:0.44
+  mipt:0.38
+  opiates:0.36
+  mixing:0.27
+
+Topic 4:
+  mixing:1.56
+  opiates:1.53
+  oxycodone:0.43
+  pcp:0.42
+  mipt:0.40
+  kava:0.40
+  unwonted:0.32
+  reduction:0.32
+  dangerous:0.32
+  chemical:0.32
+
+K: 5, Log-Likelihood: -590.668, Alpha: 11.000, Beta: 1.100

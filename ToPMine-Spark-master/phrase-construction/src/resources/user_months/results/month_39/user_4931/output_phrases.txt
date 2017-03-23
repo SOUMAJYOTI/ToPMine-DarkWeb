@@ -1,0 +1,61 @@
+Topic 0:
+  people:0.85
+  tool:0.62
+  allot:0.41
+  bad:0.41
+  violent:0.41
+  deep web:0.39
+  dont:0.31
+  don:0.30
+  crimes:0.21
+  dude:0.21
+
+Topic 1:
+  people:0.91
+  tool:0.63
+  violent:0.42
+  allot:0.42
+  bad:0.42
+  deep web:0.37
+  don:0.30
+  dont:0.30
+  tree:0.21
+  sadly:0.21
+
+Topic 2:
+  people:0.72
+  tool:0.57
+  deep web:0.49
+  bad:0.39
+  violent:0.39
+  allot:0.39
+  dont:0.31
+  don:0.31
+  deanonymize:0.22
+  emails:0.22
+
+Topic 3:
+  people:0.76
+  tool:0.61
+  bad:0.41
+  allot:0.41
+  violent:0.41
+  deep web:0.40
+  don:0.31
+  dont:0.31
+  expose:0.20
+  mailing:0.20
+
+Topic 4:
+  people:0.86
+  tool:0.63
+  violent:0.42
+  allot:0.41
+  bad:0.41
+  deep web:0.39
+  don:0.31
+  dont:0.30
+  fully:0.21
+  evolve:0.21
+
+K: 5, Log-Likelihood: -662.245, Alpha: 11.000, Beta: 1.100

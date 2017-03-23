@@ -1,0 +1,61 @@
+Topic 0:
+  withdrawal:3.82
+  fee:3.17
+  alice:2.80
+  ill:2.72
+  march:2.55
+  begining:2.51
+  quote:1.95
+  aint:1.61
+  chess:1.61
+  checkers:1.61
+
+Topic 1:
+  scamming:16.13
+  scams:14.90
+  dont:14.78
+  venders:13.67
+  vendor:12.25
+  scam:12.23
+  business:9.38
+  transactions:9.09
+  sr:8.89
+  scammed:8.82
+
+Topic 2:
+  pandora:36.20
+  vendors:21.87
+  market:19.46
+  money:14.26
+  commision:12.98
+  vendor:12.13
+  paid:11.98
+  withdrawals:10.93
+  btc:10.91
+  tax:9.98
+
+Topic 3:
+  staff:16.37
+  site:15.20
+  support:13.85
+  market:11.67
+  time:9.03
+  admin:5.08
+  requests:4.98
+  crew:4.98
+  queue:4.98
+  skeleton:4.98
+
+Topic 4:
+  sr:21.70
+  time:9.80
+  agora:7.89
+  things:7.10
+  quote:6.16
+  vendors:6.11
+  trust:5.22
+  find:4.92
+  business:4.28
+  forum:4.20
+
+K: 5, Log-Likelihood: -12169.628, Alpha: 11.000, Beta: 1.100

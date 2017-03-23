@@ -1,0 +1,61 @@
+Topic 0:
+  metadata:23.99
+  access:15.31
+  australian:14.82
+  data:12.24
+  law:12.23
+  privacy:11.84
+  time:11.84
+  security:11.78
+  commission:10.99
+  government:10.17
+
+Topic 1:
+  alford:54.99
+  ulbricht:21.99
+  silk:16.99
+  road:16.99
+  case:13.90
+  agents:12.99
+  agent:10.99
+  investigation:10.10
+  dread:9.99
+  roberts:9.99
+
+Topic 2:
+  quote:8.81
+  december:7.95
+  cirrus:5.94
+  period:5.91
+  emmet:3.94
+  le:3.92
+  dumbass:3.92
+  effort:3.92
+  sr:3.92
+  hope:3.92
+
+Topic 3:
+  microsoft:44.99
+  key:42.42
+  recovery:32.99
+  encryption:32.42
+  windows:30.41
+  disk:24.99
+  bitlocker:18.99
+  account:16.99
+  computer:14.30
+  device:14.17
+
+Topic 4:
+  bug:52.98
+  tor:38.96
+  browser:29.96
+  tails:23.93
+  update:13.97
+  release:10.91
+  plate:9.98
+  add:9.97
+  font:8.98
+  remove:8.94
+
+K: 5, Log-Likelihood: -25420.067, Alpha: 11.000, Beta: 1.100

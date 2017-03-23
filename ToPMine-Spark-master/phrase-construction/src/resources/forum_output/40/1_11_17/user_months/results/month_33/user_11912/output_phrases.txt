@@ -1,0 +1,61 @@
+Topic 0:
+  political:7.88
+  politics:6.69
+  silk road:5.22
+  survive:4.52
+  community:2.88
+  government:2.62
+  agora:2.62
+  security:2.42
+  dnms:2.33
+  gigante:2.33
+
+Topic 1:
+  agora:5.76
+  law enforcement:5.50
+  seized:4.48
+  eber valid point:4.25
+  silk road:4.12
+  public:3.71
+  size:3.64
+  headline:3.64
+  agra:3.64
+  dollar markets:3.64
+
+Topic 2:
+  site:6.74
+  community:4.94
+  posted:4.49
+  youll:4.49
+  userbase:4.49
+  biggest:4.49
+  fail:4.49
+  order:4.49
+  time:4.49
+  sr:3.76
+
+Topic 3:
+  january:6.04
+  dead brand:5.37
+  vendors:4.61
+  jerk:4.35
+  dont:3.89
+  spouting:3.62
+  reputation:3.62
+  unanimous:3.62
+  rhetoric:3.62
+  subject:3.62
+
+Topic 4:
+  silk road:9.97
+  freedom:8.53
+  dark net:8.41
+  users:8.07
+  political:6.68
+  law enforcements:4.92
+  rise:4.90
+  speak:4.21
+  phishing:4.20
+  utterly:4.18
+
+K: 5, Log-Likelihood: -10082.810, Alpha: 11.000, Beta: 1.100

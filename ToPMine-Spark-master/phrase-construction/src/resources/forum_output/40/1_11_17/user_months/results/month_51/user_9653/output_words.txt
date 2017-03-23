@@ -1,0 +1,61 @@
+Topic 0:
+  email:1.18
+  sigaint:0.97
+  tor:0.83
+  mail:0.79
+  onion:0.77
+  providers:0.61
+  vps:0.41
+  great:0.41
+  send:0.41
+  setup:0.41
+
+Topic 1:
+  email:1.19
+  sigaint:1.01
+  mail:0.89
+  tor:0.87
+  onion:0.73
+  providers:0.57
+  host:0.41
+  free:0.41
+  true:0.41
+  read:0.41
+
+Topic 2:
+  email:1.15
+  sigaint:0.91
+  onion:0.87
+  tor:0.81
+  mail:0.77
+  providers:0.63
+  recommend:0.42
+  free:0.40
+  setup:0.40
+  send:0.40
+
+Topic 3:
+  email:1.29
+  sigaint:1.01
+  onion:0.85
+  tor:0.73
+  mail:0.73
+  providers:0.60
+  recommend:0.42
+  servers:0.39
+  node:0.39
+  trust:0.39
+
+Topic 4:
+  email:1.18
+  sigaint:1.10
+  mail:0.82
+  onion:0.79
+  tor:0.76
+  providers:0.58
+  javascript:0.41
+  servers:0.40
+  people:0.40
+  true:0.40
+
+K: 5, Log-Likelihood: -318.908, Alpha: 11.000, Beta: 1.100

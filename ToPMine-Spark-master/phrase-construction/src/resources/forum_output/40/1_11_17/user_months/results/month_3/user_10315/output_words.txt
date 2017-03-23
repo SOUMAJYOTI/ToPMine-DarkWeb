@@ -1,0 +1,61 @@
+Topic 0:
+  site:0.41
+  offering:0.40
+  model:0.40
+  referred:0.40
+  intended:0.40
+  business:0.40
+  idea:0.40
+  feathercoin:0.20
+  javascript:0.20
+  bitcoin:0.20
+
+Topic 1:
+  site:0.41
+  offering:0.41
+  referred:0.40
+  model:0.40
+  intended:0.40
+  business:0.40
+  idea:0.40
+  infinitecoin:0.20
+  litecoin:0.20
+  logon:0.20
+
+Topic 2:
+  offering:0.43
+  site:0.42
+  idea:0.40
+  referred:0.40
+  intended:0.40
+  business:0.39
+  model:0.39
+  javascript:0.21
+  fedoracoin:0.21
+  started:0.21
+
+Topic 3:
+  model:0.40
+  business:0.40
+  referred:0.40
+  intended:0.40
+  idea:0.40
+  site:0.39
+  offering:0.39
+  system:0.20
+  reward:0.20
+  awareness:0.20
+
+Topic 4:
+  intended:0.41
+  business:0.41
+  idea:0.41
+  referred:0.40
+  model:0.40
+  offering:0.37
+  site:0.37
+  strategies:0.21
+  bitin:0.21
+  ami:0.21
+
+K: 5, Log-Likelihood: -186.053, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tor:2.32
+  corner:1.63
+  feds coming:1.33
+  posts:0.70
+  shit:0.70
+  selling:0.70
+  buyer:0.70
+  people:0.70
+  local le:0.70
+  thing:0.70
+
+Topic 1:
+  tails tor:0.98
+  security:0.59
+  passed:0.47
+  precaussion:0.47
+  local:0.47
+  guys:0.46
+  bad:0.46
+  work:0.46
+  dont:0.46
+  hell:0.46
+
+Topic 2:
+  tails tor:1.45
+  security:1.32
+  loli:0.71
+  pgp:0.71
+  pmlol:0.71
+  wan:0.71
+  reasonable:0.71
+  yesterday:0.71
+  nothings:0.71
+  retain:0.71
+
+Topic 3:
+  tails tor:0.53
+  tor:0.52
+  troll:0.48
+  quote flipmode january:0.37
+  understanding tor tails:0.37
+  pretty damn safe vpns:0.37
+  andyone wrong guy:0.36
+  feds coming:0.36
+  caveat:0.34
+  security:0.34
+
+Topic 4:
+  tor:1.03
+  feds coming:0.57
+  troll:0.47
+  hide:0.44
+  buying:0.44
+  hack:0.44
+  years:0.44
+  feds vpn:0.44
+  vpon:0.44
+  thing:0.44
+
+K: 5, Log-Likelihood: -616.540, Alpha: 11.000, Beta: 1.100

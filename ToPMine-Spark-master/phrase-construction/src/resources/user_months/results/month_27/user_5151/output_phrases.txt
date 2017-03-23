@@ -1,0 +1,61 @@
+Topic 0:
+  drugs:34.54
+  people:14.80
+  drug:13.35
+  weed:8.62
+  bar:8.62
+  big:8.62
+  drugs crack:8.62
+  lives:8.62
+  illicit drugs:8.62
+  folks:8.62
+
+Topic 1:
+  nomenclature:8.61
+  quote sillywabbit november:8.61
+  deal:8.61
+  stay safe:7.28
+  lsd:7.00
+  won:6.44
+  people:5.71
+  hard drugs category pathetic:5.32
+  love news anchor lumps:5.32
+  drug:4.98
+
+Topic 2:
+  hsi:10.51
+  silk road:9.78
+  alleged:9.21
+  benthall:8.62
+  trust:8.62
+  bulgarian hosting:6.34
+  undercover:5.48
+  pmahh loading busted:5.31
+  quote valakki november:5.31
+  seized:4.61
+
+Topic 3:
+  sites:15.78
+  escobar:12.94
+  cloud:8.62
+  hidden:8.62
+  lower:4.30
+  market seized:4.30
+  marketblue:4.30
+  alpacablack:4.30
+  ninededope:4.30
+  documents:4.30
+
+Topic 4:
+  forum:8.61
+  undercover investigator:8.61
+  smite:8.60
+  website sized time sr:5.84
+  praise safe safe guys:5.76
+  heard people:5.75
+  terms orders messed website:5.69
+  thinking throwing cents:5.69
+  discussion worried happen agora:5.63
+  closed btc escrow order:5.58
+
+K: 5, Log-Likelihood: -21834.110, Alpha: 11.000, Beta: 1.100

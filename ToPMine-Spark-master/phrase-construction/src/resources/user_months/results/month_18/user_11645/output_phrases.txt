@@ -1,0 +1,61 @@
+Topic 0:
+  pm:0.14
+  listing:0.14
+  post:0.14
+  trade:0.14
+  people:0.14
+  direct:0.14
+  buying:0.14
+  established:0.14
+  accounts:0.14
+  link:0.14
+
+Topic 1:
+  post:0.14
+  people:0.14
+  direct:0.14
+  edited:0.14
+  pm:0.14
+  trade:0.14
+  buying:0.14
+  link:0.14
+  hmu:0.14
+  established:0.14
+
+Topic 2:
+  edited:0.14
+  trade:0.14
+  direct:0.14
+  people:0.14
+  post:0.14
+  pm:0.14
+  link:0.14
+  hmu:0.14
+  established:0.14
+  buying:0.14
+
+Topic 3:
+  accounts:0.14
+  hmu:0.14
+  established:0.14
+  buying:0.14
+  listing:0.14
+  link:0.14
+  post:0.14
+  people:0.14
+  direct:0.14
+  trade:0.14
+
+Topic 4:
+  link:0.14
+  listing:0.14
+  edited:0.14
+  buying:0.14
+  hmu:0.14
+  accounts:0.14
+  established:0.14
+  trade:0.14
+  direct:0.14
+  pm:0.14
+
+K: 5, Log-Likelihood: -25.256, Alpha: 11.000, Beta: 1.100

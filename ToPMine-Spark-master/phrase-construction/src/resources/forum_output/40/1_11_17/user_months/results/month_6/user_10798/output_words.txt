@@ -1,0 +1,61 @@
+Topic 0:
+  sr:9.27
+  market:7.87
+  admin:6.86
+  thread:6.63
+  people:6.53
+  mods:5.57
+  forum:5.00
+  black:4.79
+  btc:4.08
+  transaction:3.90
+
+Topic 1:
+  site:13.01
+  doesnt:5.37
+  defcon:5.03
+  sr:4.48
+  security:3.80
+  mob:2.96
+  honest:2.66
+  jebusite:2.65
+  quote:2.45
+  job:2.41
+
+Topic 2:
+  agora:10.80
+  service:9.79
+  bug:9.39
+  tor:7.98
+  hidden:6.98
+  market:5.27
+  time:4.73
+  post:4.09
+  pgp:3.87
+  big:3.81
+
+Topic 3:
+  hack:13.31
+  february:11.43
+  happened:8.83
+  money:7.68
+  people:7.68
+  vendors:7.26
+  sr:6.85
+  quote:6.70
+  deposits:6.58
+  withdrawls:5.78
+
+Topic 4:
+  dont:8.89
+  february:7.58
+  quote:7.57
+  hacked:6.46
+  doctorclu:5.70
+  fucking:4.26
+  ils:3.75
+  sr:3.31
+  wan:3.24
+  sorrymario:3.23
+
+K: 5, Log-Likelihood: -9242.789, Alpha: 11.000, Beta: 1.100

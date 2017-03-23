@@ -1,0 +1,61 @@
+Topic 0:
+  drive:20.76
+  secure:9.25
+  encryption:8.83
+  forensic:8.51
+  trace:5.88
+  evidence:5.85
+  recover:4.76
+  june:4.48
+  erase:4.33
+  wiping:4.01
+
+Topic 1:
+  wipe:14.01
+  file:6.02
+  files:5.97
+  program:5.01
+  ccrypt:4.97
+  shred:4.13
+  weed:3.97
+  passphrase:3.97
+  cpt:3.97
+  jpg:3.97
+
+Topic 2:
+  wipe:18.07
+  data:14.96
+  harddisk:5.97
+  file:5.17
+  disk:4.81
+  secure:4.63
+  system:4.50
+  wiping:4.28
+  patterns:3.97
+  journaling:3.66
+
+Topic 3:
+  programs:6.22
+  files:4.43
+  care:3.95
+  erase:3.57
+  saved:3.56
+  swap:3.55
+  single:3.08
+  havent:2.94
+  space:2.94
+  knowing:2.92
+
+Topic 4:
+  file:33.61
+  shred:21.57
+  data:10.34
+  systems:7.98
+  system:5.93
+  files:5.84
+  remove:4.98
+  default:4.12
+  coreutils:3.98
+  version:3.98
+
+K: 5, Log-Likelihood: -6743.632, Alpha: 11.000, Beta: 1.100

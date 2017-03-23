@@ -1,0 +1,61 @@
+Topic 0:
+  outlaw:0.59
+  proceed:0.20
+  time:0.20
+  hacked:0.20
+  version:0.20
+  pgp:0.20
+  site:0.20
+  security:0.20
+  issues:0.20
+  seraphic:0.20
+
+Topic 1:
+  outlaw:0.60
+  site:0.20
+  hacked:0.20
+  caution:0.20
+  appears:0.20
+  seraphic:0.20
+  version:0.20
+  market:0.20
+  pgp:0.20
+  security:0.20
+
+Topic 2:
+  outlaw:0.60
+  launched:0.20
+  version:0.20
+  appears:0.20
+  security:0.20
+  time:0.20
+  market:0.20
+  seraphic:0.20
+  proceed:0.20
+  hacked:0.20
+
+Topic 3:
+  outlaw:0.60
+  issues:0.20
+  market:0.20
+  pgp:0.20
+  caution:0.20
+  security:0.20
+  seraphic:0.20
+  launched:0.20
+  proceed:0.20
+  site:0.20
+
+Topic 4:
+  outlaw:0.61
+  time:0.20
+  issues:0.20
+  appears:0.20
+  caution:0.20
+  launched:0.20
+  pgp:0.20
+  security:0.20
+  seraphic:0.20
+  market:0.20
+
+K: 5, Log-Likelihood: -41.483, Alpha: 11.000, Beta: 1.100

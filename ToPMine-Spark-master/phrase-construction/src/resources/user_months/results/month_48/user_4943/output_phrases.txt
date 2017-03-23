@@ -1,0 +1,61 @@
+Topic 0:
+  fb:0.35
+  yea:0.35
+  kinda:0.35
+  sunshines:0.35
+  orange:0.35
+  option:0.35
+  racy:0.35
+  answering:0.35
+  agitated:0.34
+  experience:0.34
+
+Topic 1:
+  gg:0.34
+  stuff:0.34
+  friends:0.34
+  albert:0.34
+  difference:0.34
+  godself:0.34
+  albertheinz:0.34
+  presents:0.34
+  blotters:0.34
+  microdose:0.34
+
+Topic 2:
+  imagine:0.34
+  agora active:0.34
+  match:0.34
+  sunshines:0.34
+  orange:0.34
+  answering:0.34
+  agitated:0.34
+  easily:0.34
+  previous:0.34
+  kinda:0.34
+
+Topic 3:
+  pissed:0.35
+  blotters:0.35
+  albert:0.34
+  presents:0.34
+  friends:0.34
+  godself:0.34
+  stuff:0.34
+  difference:0.34
+  albertheinz:0.34
+  didnt:0.34
+
+Topic 4:
+  microdose:0.34
+  presents:0.34
+  pissed:0.34
+  eggs:0.34
+  didnt:0.34
+  godself:0.34
+  difference:0.34
+  stuff:0.34
+  imagine:0.34
+  albertheinz:0.34
+
+K: 5, Log-Likelihood: -177.161, Alpha: 11.000, Beta: 1.100

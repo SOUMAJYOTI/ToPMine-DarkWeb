@@ -1,0 +1,61 @@
+Topic 0:
+  backup:3.25
+  fog:1.70
+  bitcoin:1.70
+  hours:1.64
+  site:1.64
+  provider:1.56
+  activating:1.56
+  question:1.56
+  working:1.56
+  server:1.56
+
+Topic 1:
+  bitblender:1.32
+  dreamt:1.31
+  morelike:1.31
+  read:1.30
+  feature:1.30
+  moving servers:1.30
+  started:1.29
+  host:1.29
+  delays:1.28
+  moved:1.28
+
+Topic 2:
+  couple:1.25
+  blender:1.25
+  impressed:1.25
+  times:1.25
+  bit:1.25
+  speed:1.25
+  ease:1.25
+  ive:1.25
+  dont:0.65
+  sounds:0.64
+
+Topic 3:
+  service:1.08
+  fucking:0.95
+  long:0.95
+  bitcoinfog:0.95
+  excellent:0.94
+  moved:0.94
+  delays:0.93
+  autowithdrawal:0.93
+  started:0.93
+  host:0.93
+
+Topic 4:
+  virtual:1.35
+  cold:1.35
+  wallets:1.35
+  addys:1.35
+  btc:1.35
+  box:1.35
+  electrum:1.35
+  coins:1.35
+  protection:1.35
+  thought:1.35
+
+K: 5, Log-Likelihood: -792.176, Alpha: 11.000, Beta: 1.100

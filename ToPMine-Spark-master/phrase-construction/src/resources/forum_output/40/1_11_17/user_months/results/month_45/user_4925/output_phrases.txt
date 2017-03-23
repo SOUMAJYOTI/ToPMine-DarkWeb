@@ -1,0 +1,61 @@
+Topic 0:
+  box:2.19
+  boxes:1.61
+  mail:1.60
+  bob:1.47
+  don:1.17
+  good:0.94
+  people:0.92
+  step:0.68
+  culturally:0.68
+  fuck:0.68
+
+Topic 1:
+  address:3.75
+  mailbox:3.75
+  people small:1.80
+  building:1.80
+  test:1.80
+  crap:1.80
+  switching:1.80
+  holidays nice:1.80
+  successful:1.80
+  neighbors:1.80
+
+Topic 2:
+  box:1.28
+  good:0.88
+  people:0.88
+  mail:0.81
+  bob:0.78
+  boxes:0.76
+  po box:0.54
+  don:0.53
+  dont ship:0.46
+  orders pay:0.46
+
+Topic 3:
+  box:2.08
+  bob:1.38
+  boxes:1.27
+  mail:1.22
+  people:1.00
+  good:0.97
+  don:0.82
+  forms:0.63
+  sorters:0.63
+  fake:0.63
+
+Topic 4:
+  parcel:1.00
+  access:1.00
+  alli:1.00
+  nest:1.00
+  tips:1.00
+  close:1.00
+  night:1.00
+  stations:1.00
+  addresses:1.00
+  order small:0.94
+
+K: 5, Log-Likelihood: -1723.206, Alpha: 11.000, Beta: 1.100

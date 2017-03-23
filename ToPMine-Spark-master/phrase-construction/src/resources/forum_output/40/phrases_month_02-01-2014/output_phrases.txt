@@ -1,0 +1,441 @@
+Topic 0:
+  market:472.85
+  transaction:151.17
+  address:144.19
+  markets:128.38
+  order:107.54
+  funds:93.19
+  site:91.27
+  vendor:77.87
+  buyer:77.12
+  public keys:75.18
+  bridge:63.82
+  buyer seller:59.79
+  fees:59.11
+  verify:54.08
+  ability:54.08
+  utopia:54.02
+  bazaar:49.47
+  enter:45.83
+  ronin:45.06
+  established:45.00
+
+Topic 1:
+  diagrams:112.99
+  quantum:103.16
+  particles:98.25
+  mtgox:97.16
+  theory:93.34
+  space:88.43
+  scattering:83.51
+  arkani:78.60
+  particle:78.60
+  feynman:78.60
+  hamed:73.69
+  gravity:68.77
+  unitarity:54.04
+  field:54.04
+  object:49.12
+  amplitude:49.12
+  software:44.28
+  gluon:44.21
+  interaction:44.21
+  geometric:44.21
+
+Topic 2:
+  electrum:211.93
+  file:63.59
+  censored:54.01
+  persistent:49.11
+  code:39.77
+  initial:35.11
+  amnesia:34.37
+  czech:29.45
+  torescrow:29.32
+  hidden services:17.71
+  security:16.98
+  wallet:7.86
+  multi:0.18
+  markets:0.16
+  site:0.08
+  silk road:0.05
+  vendor:0.04
+  public block:0.04
+  order:0.04
+  multisig:0.03
+
+Topic 3:
+  hashed subpkt:164.53
+  packet:109.53
+  bits:108.16
+  algo:108.16
+  created:83.29
+  digest:72.11
+  pkey:72.11
+  version:72.11
+  torvm:63.05
+  pref:54.08
+  algos:54.08
+  return:44.11
+  traffic:38.00
+  created expires:36.05
+  machine:34.28
+  management:24.53
+  interface:24.53
+  hypervisor:24.49
+  usps:24.46
+  check:24.41
+
+Topic 4:
+  privoxy:93.33
+  public block:83.21
+  browser:72.39
+  network:59.52
+  javascript:58.50
+  localhost:49.12
+  port:39.29
+  proxy:39.29
+  heroin:39.26
+  forward:35.98
+  resources:29.47
+  browsing:29.47
+  black:26.59
+  golden:24.53
+  geli:24.49
+  access:23.80
+  problem:22.85
+  partition:21.36
+  site:12.58
+  multi signature:6.35
+
+Topic 5:
+  vendor:161.97
+  pandora:142.46
+  tails:112.63
+  vendors:109.45
+  private:105.39
+  public:94.91
+  release:87.54
+  commision:68.77
+  blackbank:67.42
+  blockchain:67.35
+  list:67.32
+  browser:63.37
+  paid:58.95
+  money:55.52
+  support:53.93
+  address:50.98
+  loss:49.12
+  market:43.35
+  withdrawals:39.66
+  didn:39.30
+
+Topic 6:
+  wallet:125.10
+  cold storage:100.97
+  computer:94.63
+  shared send:83.67
+  client:79.50
+  online:75.40
+  offline wallet:54.07
+  bitcoin:49.39
+  good:48.90
+  wallets:45.30
+  container:44.20
+  online wallet:43.74
+  vlad:39.20
+  coins:36.65
+  private keys:36.05
+  armory:29.46
+  offline:29.46
+  files:29.46
+  hidden:29.46
+  address:28.23
+
+Topic 7:
+  encryption:166.75
+  keyz:137.55
+  ultimate:132.64
+  keys:112.65
+  created expires usage:103.16
+  expires:93.34
+  months:73.69
+  select:73.69
+  click:72.08
+  rollf:68.78
+  mein:68.78
+  rollfz:68.78
+  gnupg:67.51
+  step:63.04
+  public:62.24
+  free:54.12
+  edit:54.04
+  expire:49.12
+  validity:49.12
+  prompt:49.12
+
+Topic 8:
+  mail:207.31
+  email:157.72
+  disk:117.88
+  service:76.82
+  free:67.57
+  servers:44.21
+  server:31.23
+  bote:29.47
+  located:29.47
+  access:28.02
+  network:25.38
+  lelantos:24.56
+  based:24.56
+  anonymous:24.56
+  webmail:24.56
+  privacy:24.56
+  thumbdrive:24.54
+  size:24.54
+  scheme:24.41
+  phone:24.41
+
+Topic 9:
+  bitmessage:148.17
+  edbfb:49.12
+  ccffef:49.12
+  fbab:49.12
+  bitcoind:44.20
+  txid:34.38
+  bbed:29.46
+  transaction:27.17
+  deleted:24.50
+  oracle:24.50
+  create:22.45
+  multisig:20.63
+  forums:17.53
+  address:16.79
+  private keys:12.95
+  email address:7.31
+  silk road:0.71
+  public block:0.03
+  good idea:0.03
+  hidden service:0.03
+
+Topic 10:
+  drugs:64.10
+  scammers:44.94
+  hash:44.90
+  stay safe:9.51
+  signed message:9.25
+  hidden services:0.13
+  message:0.10
+  silk road:0.09
+  online:0.04
+  public block:0.04
+  good idea:0.03
+  hidden service:0.03
+  shared send:0.03
+  feel free:0.03
+  safe mail:0.03
+  escrow system:0.03
+  multi signature:0.03
+  shared coin:0.03
+  quote evilgrin:0.02
+  vendors buyers:0.02
+
+Topic 11:
+  coins:128.14
+  purchase:113.47
+  extradition:103.16
+  silk road:97.54
+  nash:74.98
+  ssbd:68.77
+  hidden service:65.07
+  cash:58.56
+  images:54.06
+  sites:53.99
+  conduct:49.12
+  offence:49.12
+  card:45.04
+  person:39.54
+  indictment:39.30
+  evidence:39.30
+  clearnet:39.25
+  charge:34.38
+  accepted:34.32
+  discussion:29.47
+
+Topic 12:
+  transaction:101.87
+  arbitrator:85.61
+  multisig:71.00
+  alice:70.55
+  bitrated:58.95
+  services:57.83
+  client side:45.05
+  service:44.87
+  payment:39.29
+  trent:34.38
+  solution:34.36
+  pills:34.28
+  myname:32.11
+  server:31.20
+  party:29.66
+  email address:26.83
+  fees:25.26
+  encrypted:24.91
+  arbitration:24.56
+  buyer seller:23.63
+
+Topic 13:
+  traffic:114.41
+  multi:70.65
+  message:67.40
+  shared coin:59.57
+  fake:49.06
+  relays:44.20
+  blockchain info:41.60
+  clients:39.29
+  encrypted:33.23
+  network:33.22
+  data:30.60
+  connect:29.46
+  pritel:29.36
+  personally:29.32
+  hidden services:26.73
+  bandwidth:24.55
+  password:24.42
+  pushing:24.41
+  magicaltux:24.41
+  client:24.33
+
+Topic 14:
+  doge:162.11
+  escrow:115.79
+  coins:65.28
+  trust:56.19
+  coin:53.96
+  send:39.28
+  withdraw:34.37
+  pairings:29.46
+  mixer:29.45
+  deposited:29.45
+  repaid:29.38
+  appears:24.55
+  currencies:24.55
+  litecoin:24.55
+  exit:24.49
+  airvpn:24.49
+  address:14.12
+  silk road:7.64
+  vendors:6.69
+  multi signature:3.02
+
+Topic 15:
+  agora:171.56
+  nash:37.65
+  pirate market:35.47
+  currency:24.44
+  programming:24.40
+  silk road:16.26
+  marketplace:0.53
+  referral link:0.30
+  public block:0.08
+  vendors:0.06
+  market:0.04
+  good idea:0.03
+  hidden service:0.03
+  good:0.03
+  shared send:0.03
+  feel free:0.03
+  safe mail:0.03
+  multi signature:0.03
+  escrow system:0.03
+  shared coin:0.02
+
+Topic 16:
+  community:324.20
+  staff:216.33
+  people:205.50
+  withdrawals:183.84
+  system:173.46
+  account:156.69
+  defcon:156.00
+  team:154.02
+  attack:143.21
+  storage:134.66
+  attacker:126.37
+  security:114.40
+  hiniguel:109.89
+  accounts:109.39
+  safe:100.85
+  silk road:100.65
+  coins:100.01
+  move:96.35
+  bitcoin:85.67
+  failure:79.36
+
+Topic 17:
+  seller:126.19
+  buyer:103.81
+  product:72.10
+  bitcoins:50.51
+  multisig:45.50
+  cost:45.06
+  bonus:44.17
+  party:42.05
+  safe mail:34.47
+  fraud:34.35
+  physical:29.44
+  guides:29.44
+  address:29.43
+  referral link:24.69
+  credited:24.52
+  withdrawal:24.42
+  reported:24.35
+  buyer seller:15.28
+  vendors buyers:9.46
+  quote evilgrin:9.46
+
+Topic 18:
+  bitcoin:254.15
+  wallet:184.00
+  nakamoto:58.93
+  thief:45.01
+  price:39.26
+  newsweek:34.36
+  cyprus:34.35
+  torrc:34.29
+  namecoin:29.44
+  torchat:29.41
+  domain:24.53
+  country:24.52
+  python:24.50
+  bitcoin wallet:15.45
+  silk road:13.95
+  coins:0.20
+  wallets:0.12
+  mtgox:0.11
+  software:0.11
+  problems:0.11
+
+Topic 19:
+  forum:135.24
+  money:134.19
+  marketplace:102.34
+  quote:80.00
+  vendors:77.88
+  mods:67.46
+  market:61.78
+  members:58.47
+  place:57.89
+  signing:53.89
+  days:49.41
+  person:48.91
+  multi signature:48.68
+  mystery:48.59
+  point:48.56
+  thing:48.52
+  core:48.04
+  true:43.72
+  hate:43.71
+  guys:43.70
+
+K: 20, Log-Likelihood: -151537.241, Alpha: 3.000, Beta: 1.100

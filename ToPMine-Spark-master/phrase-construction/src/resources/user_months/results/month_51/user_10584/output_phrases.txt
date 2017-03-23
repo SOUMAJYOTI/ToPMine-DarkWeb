@@ -1,0 +1,61 @@
+Topic 0:
+  trust:0.00
+  protects:0.00
+  fact:0.00
+  incompetent:0.00
+  cuz:0.00
+  technologically:0.00
+  guides:0.00
+  quote:0.00
+  vpn vpn:0.00
+  tor:0.00
+
+Topic 1:
+  trust:0.00
+  protects:0.00
+  fact:0.00
+  incompetent:0.00
+  cuz:0.00
+  technologically:0.00
+  guides:0.00
+  quote:0.00
+  vpn vpn:0.00
+  tor:0.00
+
+Topic 2:
+  trust:0.00
+  protects:0.00
+  fact:0.00
+  incompetent:0.00
+  cuz:0.00
+  technologically:0.00
+  guides:0.00
+  quote:0.00
+  vpn vpn:0.00
+  tor:0.00
+
+Topic 3:
+  trust:0.00
+  protects:0.00
+  fact:0.00
+  incompetent:0.00
+  cuz:0.00
+  technologically:0.00
+  guides:0.00
+  quote:0.00
+  vpn vpn:0.00
+  tor:0.00
+
+Topic 4:
+  trust:0.00
+  protects:0.00
+  fact:0.00
+  incompetent:0.00
+  cuz:0.00
+  technologically:0.00
+  guides:0.00
+  quote:0.00
+  vpn vpn:0.00
+  tor:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

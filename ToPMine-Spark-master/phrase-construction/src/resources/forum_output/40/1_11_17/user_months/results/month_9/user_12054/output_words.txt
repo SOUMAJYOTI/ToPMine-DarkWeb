@@ -1,0 +1,61 @@
+Topic 0:
+  agora:2.72
+  attack:1.73
+  fog:1.73
+  customers:1.29
+  suffering:0.76
+  staff:0.76
+  huge:0.76
+  center:0.76
+  influx:0.76
+  dark:0.76
+
+Topic 1:
+  wallet:1.11
+  blockchain:1.08
+  le:0.91
+  tails:0.79
+  march:0.79
+  coins:0.71
+  feel:0.71
+  clearnet:0.70
+  quote:0.68
+  works:0.61
+
+Topic 2:
+  tor:1.77
+  le:1.22
+  coins:1.22
+  blockchain:1.20
+  feel:1.07
+  clearnet:1.05
+  worried:1.01
+  wallet:0.96
+  march:0.64
+  quote:0.62
+
+Topic 3:
+  wallet:1.56
+  blockchain:1.40
+  march:1.28
+  tails:1.27
+  works:0.96
+  setting:0.96
+  le:0.84
+  quote:0.75
+  clearnet:0.60
+  thedude:0.60
+
+Topic 4:
+  wallet:1.14
+  tails:1.06
+  blockchain:1.05
+  march:1.03
+  le:0.79
+  setting:0.73
+  quote:0.71
+  works:0.70
+  thedude:0.57
+  clearnet:0.50
+
+K: 5, Log-Likelihood: -743.779, Alpha: 11.000, Beta: 1.100

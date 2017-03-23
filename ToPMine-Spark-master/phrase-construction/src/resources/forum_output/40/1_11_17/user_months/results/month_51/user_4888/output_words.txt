@@ -1,0 +1,61 @@
+Topic 0:
+  letter:1.07
+  registered:0.78
+  sign:0.60
+  mail:0.60
+  postman:0.55
+  express:0.31
+  safe:0.31
+  customs:0.31
+  police:0.25
+  signature:0.25
+
+Topic 1:
+  mail:1.15
+  registered:0.87
+  sign:0.61
+  letter:0.54
+  safe:0.47
+  express:0.47
+  customs:0.47
+  postman:0.26
+  happened:0.22
+  spain:0.22
+
+Topic 2:
+  mail:1.76
+  registered:0.83
+  sign:0.59
+  express:0.53
+  safe:0.52
+  customs:0.52
+  letter:0.43
+  countries:0.24
+  thing:0.24
+  clears:0.24
+
+Topic 3:
+  mail:0.99
+  registered:0.85
+  letter:0.65
+  sign:0.62
+  customs:0.42
+  express:0.41
+  safe:0.41
+  postman:0.32
+  russia:0.21
+  raise:0.21
+
+Topic 4:
+  letter:1.31
+  registered:0.67
+  postman:0.66
+  sign:0.58
+  mail:0.50
+  addition:0.29
+  refuses:0.29
+  knew:0.29
+  gammagoblin:0.29
+  address:0.29
+
+K: 5, Log-Likelihood: -355.206, Alpha: 11.000, Beta: 1.100

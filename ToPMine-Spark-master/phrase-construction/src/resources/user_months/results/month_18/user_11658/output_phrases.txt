@@ -1,0 +1,61 @@
+Topic 0:
+  staff:0.16
+  play:0.16
+  fairly:0.16
+  downtime:0.16
+  defcunt:0.16
+  cunt:0.16
+  july:0.16
+  weak:0.16
+  infrastructure:0.16
+  expect:0.16
+
+Topic 1:
+  measures:0.16
+  jun:0.16
+  flood:0.16
+  defcon:0.16
+  expect:0.16
+  slow:0.16
+  infrastructure:0.16
+  mitigate:0.16
+  downtime:0.16
+  weak:0.16
+
+Topic 2:
+  slow:0.16
+  jun:0.16
+  infrastructure:0.16
+  mitigate:0.16
+  flood:0.16
+  defcon:0.16
+  expect:0.16
+  measures:0.16
+  cunt:0.16
+  defcunt:0.16
+
+Topic 3:
+  defcon:0.16
+  jun:0.16
+  flood:0.16
+  slow:0.16
+  measures:0.16
+  mitigate:0.16
+  expect:0.16
+  infrastructure:0.16
+  staff:0.16
+  july:0.16
+
+Topic 4:
+  fairly:0.16
+  july:0.16
+  downtime:0.16
+  cunt:0.16
+  play:0.16
+  defcunt:0.16
+  weak:0.16
+  staff:0.16
+  expect:0.16
+  measures:0.16
+
+K: 5, Log-Likelihood: -355.953, Alpha: 11.000, Beta: 1.100

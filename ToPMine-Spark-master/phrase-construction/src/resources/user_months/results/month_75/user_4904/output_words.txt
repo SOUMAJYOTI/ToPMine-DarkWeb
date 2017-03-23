@@ -1,0 +1,61 @@
+Topic 0:
+  white:0.20
+  delivered:0.20
+  satisfied:0.20
+  dtrh:0.20
+  couple:0.20
+  dmt:0.20
+  times:0.20
+  deemzbeemz:0.20
+  lucky:0.20
+  wanted:0.20
+
+Topic 1:
+  started:0.20
+  dtrh:0.20
+  times:0.20
+  dmt:0.20
+  couple:0.20
+  branch:0.20
+  deemzbeemz:0.20
+  lucky:0.20
+  wanted:0.20
+  delivered:0.20
+
+Topic 2:
+  product:0.20
+  branch:0.20
+  white:0.20
+  satisfied:0.20
+  dmt:0.20
+  darts:0.20
+  ringodeathstar:0.20
+  wanted:0.20
+  deemzbeemz:0.20
+  couple:0.20
+
+Topic 3:
+  wanted:0.20
+  ringodeathstar:0.20
+  product:0.20
+  branch:0.20
+  darts:0.20
+  lucky:0.20
+  dtrh:0.20
+  deemzbeemz:0.20
+  started:0.20
+  times:0.20
+
+Topic 4:
+  started:0.20
+  ringodeathstar:0.20
+  lucky:0.20
+  couple:0.20
+  delivered:0.20
+  deemzbeemz:0.20
+  times:0.20
+  satisfied:0.20
+  darts:0.20
+  dmt:0.20
+
+K: 5, Log-Likelihood: -40.621, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  centient:0.28
+  site:0.28
+  company:0.14
+  sounds:0.14
+  great:0.14
+  start:0.14
+  rep:0.14
+  rich:0.14
+  scam:0.14
+  pretend:0.14
+
+Topic 1:
+  site:0.28
+  centient:0.28
+  finding:0.14
+  onion:0.14
+  admins:0.14
+  find:0.14
+  hard:0.14
+  addresses:0.14
+  darknet:0.14
+  sounds:0.14
+
+Topic 2:
+  centient:0.28
+  site:0.28
+  rubes:0.14
+  gon:0.14
+  protect:0.14
+  cash:0.14
+  scam:0.14
+  rep:0.14
+  sounds:0.14
+  pretend:0.14
+
+Topic 3:
+  centient:0.28
+  site:0.28
+  company:0.14
+  cash:0.14
+  pretend:0.14
+  rep:0.14
+  scam:0.14
+  great:0.14
+  start:0.14
+  darknet:0.14
+
+Topic 4:
+  site:0.28
+  centient:0.28
+  onion:0.14
+  finding:0.14
+  addresses:0.14
+  hard:0.14
+  admins:0.14
+  find:0.14
+  cash:0.14
+  gon:0.14
+
+K: 5, Log-Likelihood: -48.424, Alpha: 11.000, Beta: 1.100

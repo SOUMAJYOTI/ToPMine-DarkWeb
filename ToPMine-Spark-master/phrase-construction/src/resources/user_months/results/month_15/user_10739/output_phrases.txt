@@ -1,0 +1,61 @@
+Topic 0:
+  software:9.32
+  audit:6.98
+  tc:6.32
+  site:6.09
+  hardware:4.65
+  issuesevery:4.65
+  installed:4.65
+  body:4.65
+  forensics:4.65
+  short:4.65
+
+Topic 1:
+  bitcoin:24.53
+  users:10.42
+  favorite projects ive farskyhook:6.10
+  unit:6.10
+  scape interesting project portable:6.10
+  bitcoin atm cash:6.10
+  level security merchants:6.10
+  mounting plate permanently attach:6.10
+  price volatility skyhook sets:6.10
+  bitcoin atms affordable great:6.10
+
+Topic 2:
+  encrypt darknet pgp safe:6.01
+  tc die shit small:6.01
+  axa read wrong person:6.01
+  expected bigger reaction threat:6.01
+  truecrypt:5.90
+  encrypted truecrypt:5.45
+  disks:5.45
+  intreated:5.45
+  virtual:5.45
+  disk:5.45
+
+Topic 3:
+  alternatives:9.30
+  encryption:9.30
+  pmquote ant pmquote trc:6.80
+  selling:6.42
+  people:6.28
+  cashing:5.44
+  greendot:5.44
+  le:4.63
+  setting tails:4.63
+  key safe:4.63
+
+Topic 4:
+  maintanence annum thing cash:7.15
+  awareness:7.06
+  start conversations increase popularity:7.06
+  atm local restaurant shop:7.06
+  people dont:7.06
+  services required float good:6.81
+  money arms quick build:6.81
+  quote:6.23
+  house time dont:5.79
+  agree esp investment sense:5.79
+
+K: 5, Log-Likelihood: -11098.228, Alpha: 11.000, Beta: 1.100

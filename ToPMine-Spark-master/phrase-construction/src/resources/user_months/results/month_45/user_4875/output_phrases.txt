@@ -1,0 +1,61 @@
+Topic 0:
+  pay shield:4.36
+  address:2.93
+  send btc:2.17
+  coins:2.15
+  address confirmations:2.10
+  darknet:1.92
+  mix:1.90
+  wallet sending:1.88
+  pay mixed coins:1.82
+  problems blockchain:1.78
+
+Topic 1:
+  btc:11.07
+  send vendor:6.58
+  refresh order status:6.58
+  ll:4.88
+  pay shield:3.44
+  btc address:3.24
+  reception:3.24
+  vendor captcha:3.24
+  precisely minutes:3.24
+  homepage:3.24
+
+Topic 2:
+  hacked:4.11
+  good:4.06
+  people:3.27
+  luc:2.30
+  half:2.03
+  times:2.03
+  number:2.03
+  reply:2.03
+  wigfog:2.03
+  issue:2.03
+
+Topic 3:
+  mixed coins:3.37
+  confirmations:2.75
+  option pay shield:2.75
+  wanted:2.74
+  previous:2.73
+  day:2.73
+  support:2.73
+  work:2.73
+  market:2.73
+  emptied:2.72
+
+Topic 4:
+  light version:6.21
+  method:6.21
+  helix:6.21
+  amount:4.44
+  version:4.13
+  websites:4.13
+  user:4.13
+  account:4.13
+  days:4.13
+  deposits:4.13
+
+K: 5, Log-Likelihood: -5597.873, Alpha: 11.000, Beta: 1.100

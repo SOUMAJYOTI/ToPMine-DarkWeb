@@ -1,0 +1,61 @@
+Topic 0:
+  marketplaces:0.54
+  nucleus:0.50
+  future:0.38
+  kids:0.38
+  teaching:0.38
+  sheep:0.38
+  masses:0.38
+  vendors:0.38
+  online:0.23
+  ve:0.23
+
+Topic 1:
+  marketplaces:0.60
+  sheep:0.41
+  kids:0.41
+  masses:0.41
+  vendors:0.41
+  future:0.40
+  teaching:0.40
+  nucleus:0.38
+  testing:0.20
+  basin:0.20
+
+Topic 2:
+  marketplaces:0.60
+  nucleus:0.41
+  future:0.40
+  masses:0.40
+  vendors:0.40
+  teaching:0.40
+  sheep:0.39
+  kids:0.39
+  forum:0.20
+  follow:0.20
+
+Topic 3:
+  marketplaces:0.62
+  sheep:0.41
+  teaching:0.41
+  masses:0.41
+  vendors:0.40
+  kids:0.40
+  future:0.40
+  nucleus:0.37
+  security:0.20
+  ordered:0.20
+
+Topic 4:
+  marketplaces:0.64
+  kids:0.42
+  vendors:0.42
+  teaching:0.42
+  future:0.41
+  sheep:0.41
+  masses:0.41
+  nucleus:0.34
+  language:0.20
+  buyers:0.20
+
+K: 5, Log-Likelihood: -481.573, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  april:4.70
+  quote:4.53
+  version:4.25
+  google:3.07
+  dont:2.90
+  search:2.84
+  replace:2.59
+  tails:2.46
+  engines:2.23
+  update:2.12
+
+Topic 1:
+  quote:7.08
+  april:6.87
+  js:4.54
+  search:2.59
+  google:2.55
+  safe:2.47
+  good:2.27
+  update:2.22
+  replace:2.13
+  guess:2.08
+
+Topic 2:
+  april:10.58
+  browser:8.44
+  tor:6.99
+  quote:6.21
+  checks:5.81
+  google:5.20
+  clearnet:4.20
+  installs:3.76
+  updates:3.75
+  download:3.63
+
+Topic 3:
+  tor:15.59
+  security:5.63
+  traffic:4.97
+  people:4.58
+  users:4.22
+  hidden:3.79
+  hard:3.77
+  network:3.75
+  pretty:3.53
+  dont:3.52
+
+Topic 4:
+  truecrypt:11.62
+  software:9.79
+  audit:8.88
+  phase:5.94
+  release:5.93
+  security:5.39
+  version:5.26
+  report:4.91
+  forks:4.83
+  full:4.60
+
+K: 5, Log-Likelihood: -6271.619, Alpha: 11.000, Beta: 1.100

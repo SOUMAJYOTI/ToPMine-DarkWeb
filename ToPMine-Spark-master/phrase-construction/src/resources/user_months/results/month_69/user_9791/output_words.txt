@@ -1,0 +1,61 @@
+Topic 0:
+  buy:0.61
+  address:0.44
+  order:0.44
+  pgp:0.42
+  service:0.21
+  tor:0.21
+  bundle:0.21
+  bitcoins:0.21
+  completely:0.21
+  things:0.21
+
+Topic 1:
+  buy:0.59
+  pgp:0.41
+  order:0.39
+  address:0.39
+  clearnet:0.21
+  google:0.21
+  deep:0.21
+  newbies:0.21
+  dot:0.21
+  boss:0.21
+
+Topic 2:
+  buy:0.68
+  order:0.51
+  address:0.50
+  pgp:0.41
+  vendor:0.23
+  explain:0.23
+  mixing:0.23
+  privacy:0.23
+  android:0.23
+  mailman:0.23
+
+Topic 3:
+  buy:0.57
+  pgp:0.40
+  address:0.36
+  order:0.36
+  newbies:0.21
+  deep:0.21
+  dot:0.21
+  boss:0.21
+  walk:0.21
+  hey:0.21
+
+Topic 4:
+  buy:0.55
+  pgp:0.36
+  address:0.31
+  order:0.31
+  mobile:0.25
+  numero:0.25
+  trust:0.25
+  chances:0.25
+  tails:0.25
+  tablet:0.25
+
+K: 5, Log-Likelihood: -258.715, Alpha: 11.000, Beta: 1.100

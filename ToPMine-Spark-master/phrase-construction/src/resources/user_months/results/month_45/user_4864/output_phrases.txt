@@ -1,0 +1,61 @@
+Topic 0:
+  tor:4.02
+  isolation:3.85
+  manually:2.58
+  clean:2.58
+  wifi:2.55
+  setup:2.52
+  attacker:2.52
+  physical:2.51
+  system:2.51
+  connection:2.50
+
+Topic 1:
+  tails:4.92
+  thing:3.13
+  card:3.13
+  install:3.13
+  cell:3.13
+  separate:3.13
+  persistent:3.13
+  phone:3.13
+  things:2.58
+  money:1.53
+
+Topic 2:
+  accounts sigaintevyh rzvw onion:1.93
+  estrangeddesperado:1.91
+  email provider error message:1.91
+  sigaint:1.88
+  estrangeddesperado sigaint org work:1.87
+  unclean june pmwhen:1.86
+  spitfirethanks:1.83
+  quote spitfire:1.83
+  clearing:1.83
+  address send email address:1.82
+
+Topic 3:
+  dont:1.94
+  files:0.92
+  isolation:0.91
+  dvd:0.84
+  partition:0.77
+  pretty:0.76
+  tor:0.73
+  tails:0.72
+  opsec tails:0.72
+  anonymous:0.72
+
+Topic 4:
+  atop:1.42
+  degrading:1.42
+  fi:1.42
+  gon:1.42
+  wi:1.42
+  public:1.42
+  ill:1.42
+  option:1.41
+  estrangeddesperado:1.07
+  sigaintevyh rzvw onion ive:0.93
+
+K: 5, Log-Likelihood: -1639.346, Alpha: 11.000, Beta: 1.100

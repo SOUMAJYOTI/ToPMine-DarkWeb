@@ -1,0 +1,61 @@
+Topic 0:
+  escrow:3.99
+  dos:2.19
+  market:1.33
+  upabout:1.30
+  unknown:0.52
+  great:0.52
+  onlyup:0.52
+  nicely:0.52
+  offers:0.52
+  started:0.52
+
+Topic 1:
+  market:1.87
+  ooh:1.11
+  link:0.98
+  love:0.70
+  avengers:0.70
+  markets:0.68
+  agora:0.66
+  links:0.54
+  blog:0.54
+  register:0.54
+
+Topic 2:
+  market:2.10
+  link:0.74
+  agora:0.65
+  markets:0.63
+  ooh:0.58
+  avengers:0.57
+  love:0.54
+  escrow:0.48
+  check:0.45
+  dos:0.35
+
+Topic 3:
+  market:1.89
+  ooh:1.39
+  link:1.03
+  love:0.75
+  avengers:0.75
+  markets:0.63
+  agora:0.63
+  moment:0.61
+  vtherev:0.61
+  addition:0.61
+
+Topic 4:
+  market:1.81
+  link:1.06
+  love:0.84
+  avengers:0.82
+  ooh:0.77
+  agora:0.61
+  markets:0.60
+  check:0.53
+  counting:0.42
+  listed:0.42
+
+K: 5, Log-Likelihood: -433.255, Alpha: 11.000, Beta: 1.100

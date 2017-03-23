@@ -1,0 +1,61 @@
+Topic 0:
+  workers:2.82
+  people:2.82
+  thousands:2.82
+  area:2.01
+  region:1.33
+  left:1.33
+  correctly:1.33
+  perpetrators:1.33
+  providing:1.33
+  produced:1.33
+
+Topic 1:
+  happy shopping:0.77
+  questions:0.61
+  verified vendor captain jack:0.60
+  advertise goods link marketplace:0.60
+  advertise goods link:0.56
+  captain jack:0.56
+  check:0.56
+  insidethewhaleplease:0.56
+  redacted:0.55
+  bellow:0.55
+
+Topic 2:
+  agra:2.81
+  stock:2.81
+  haze:1.32
+  untouchable:1.32
+  listings:1.32
+  interested:1.32
+  aware:1.32
+  fast:1.32
+  single:1.32
+  news:1.32
+
+Topic 3:
+  happy shopping:0.94
+  advertise goods link marketplace:0.92
+  verified vendor captain jack:0.92
+  questions:0.92
+  steroid:0.64
+  professional:0.64
+  postage:0.64
+  reliable:0.64
+  redacted:0.59
+  supplier:0.51
+
+Topic 4:
+  happy shopping:0.63
+  verified vendor captain jack:0.59
+  advertise goods link marketplace:0.58
+  questions:0.58
+  gamesome:0.55
+  service:0.55
+  review:0.55
+  reddit:0.55
+  happy redacted:0.55
+  redacted:0.55
+
+K: 5, Log-Likelihood: -1003.496, Alpha: 11.000, Beta: 1.100

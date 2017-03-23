@@ -1,0 +1,61 @@
+Topic 0:
+  forum:0.42
+  market:0.41
+  marketplace:0.28
+  vendor:0.28
+  check:0.28
+  weve:0.14
+  invite:0.14
+  loving:0.14
+  referred:0.14
+  plate:0.14
+
+Topic 1:
+  forum:0.42
+  market:0.41
+  marketplace:0.28
+  check:0.28
+  vendor:0.28
+  dark:0.14
+  vendors:0.14
+  league:0.14
+  dn:0.14
+  time:0.14
+
+Topic 2:
+  market:0.42
+  forum:0.41
+  check:0.28
+  vendor:0.28
+  marketplace:0.28
+  url:0.14
+  invite:0.14
+  loving:0.14
+  referred:0.14
+  plate:0.14
+
+Topic 3:
+  market:0.42
+  forum:0.41
+  marketplace:0.28
+  check:0.28
+  vendor:0.28
+  gain:0.14
+  kicked:0.14
+  dn:0.14
+  la:0.14
+  moderator:0.14
+
+Topic 4:
+  market:0.42
+  forum:0.41
+  vendor:0.28
+  check:0.28
+  marketplace:0.28
+  la:0.14
+  difference:0.14
+  cola:0.14
+  moderator:0.14
+  damage:0.14
+
+K: 5, Log-Likelihood: -111.377, Alpha: 11.000, Beta: 1.100

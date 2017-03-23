@@ -1,0 +1,61 @@
+Topic 0:
+  havent:0.20
+  wrong:0.20
+  feels:0.20
+  access:0.20
+  days:0.20
+  today:0.20
+  time:0.20
+  bit:0.20
+  business:0.20
+  working:0.20
+
+Topic 1:
+  business:0.20
+  time:0.20
+  ag:0.20
+  today:0.20
+  wrong:0.20
+  working:0.20
+  access:0.20
+  days:0.20
+  bit:0.20
+  feels:0.20
+
+Topic 2:
+  slow:0.20
+  working:0.20
+  bit:0.20
+  business:0.20
+  time:0.20
+  today:0.20
+  ag:0.20
+  feels:0.20
+  days:0.20
+  access:0.20
+
+Topic 3:
+  ag:0.20
+  slow:0.20
+  working:0.20
+  bit:0.20
+  feels:0.20
+  wrong:0.20
+  days:0.20
+  access:0.20
+  havent:0.20
+  today:0.20
+
+Topic 4:
+  slow:0.20
+  business:0.20
+  time:0.20
+  ag:0.20
+  bit:0.20
+  today:0.20
+  working:0.20
+  havent:0.20
+  days:0.20
+  access:0.20
+
+K: 5, Log-Likelihood: -29.819, Alpha: 11.000, Beta: 1.100

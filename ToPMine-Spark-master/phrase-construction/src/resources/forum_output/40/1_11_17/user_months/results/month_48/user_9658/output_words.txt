@@ -1,0 +1,61 @@
+Topic 0:
+  wire:3.85
+  money:3.80
+  amount:2.85
+  bitcoins:2.52
+  bank:2.46
+  cash:2.33
+  deposit:2.07
+  amounts:1.86
+  lbc:1.86
+  send:1.55
+
+Topic 1:
+  anonymous:4.35
+  btc:4.08
+  transactions:2.31
+  cash:2.06
+  club:1.99
+  time:1.90
+  trust:1.72
+  friend:1.68
+  purchase:1.66
+  things:1.50
+
+Topic 2:
+  coinbase:4.38
+  tumbler:4.12
+  wallet:3.77
+  safe:3.09
+  people:3.08
+  weird:3.08
+  meeting:3.08
+  heard:2.62
+  acct:2.62
+  imagine:2.62
+
+Topic 3:
+  coinbase:2.99
+  cash:2.59
+  btc:2.55
+  anonymous:1.61
+  tumbler:1.39
+  time:1.29
+  clean:1.25
+  read:1.23
+  localbitcoins:0.90
+  deposits:0.89
+
+Topic 4:
+  anonymous:7.99
+  club:5.38
+  transactions:4.96
+  btc:4.02
+  markup:2.50
+  members:2.43
+  easy:2.42
+  express:2.41
+  fast:2.40
+  mail:2.40
+
+K: 5, Log-Likelihood: -1689.469, Alpha: 11.000, Beta: 1.100

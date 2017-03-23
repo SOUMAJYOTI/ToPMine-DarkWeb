@@ -1,0 +1,61 @@
+Topic 0:
+  forum:7.86
+  support:5.80
+  cock:5.27
+  pandora:5.26
+  forums:4.85
+  drugs:4.47
+  item:4.35
+  alice:4.20
+  vendor:4.14
+  commission:4.03
+
+Topic 1:
+  markets:14.38
+  solid:10.43
+  coins:9.84
+  lot:9.48
+  hacked:8.52
+  exploit:8.43
+  people:8.15
+  bitcoins:7.42
+  features:7.38
+  bitcoin:7.36
+
+Topic 2:
+  pandora:12.07
+  dont:4.08
+  escrow:3.64
+  good:3.33
+  smooth:2.88
+  agora:2.75
+  nice:2.67
+  commission:2.23
+  fast:2.16
+  sr:1.93
+
+Topic 3:
+  agora:8.72
+  january:5.86
+  sr:5.59
+  quote:4.07
+  solid:4.06
+  site:3.71
+  agree:3.49
+  flaxceed:3.40
+  pandora:3.22
+  market:2.79
+
+Topic 4:
+  agora:18.88
+  sr:9.49
+  flaxceed:6.49
+  january:5.95
+  quote:5.86
+  sellers:5.64
+  commission:5.62
+  massive:5.55
+  fail:5.51
+  poised:4.39
+
+K: 5, Log-Likelihood: -6902.276, Alpha: 11.000, Beta: 1.100

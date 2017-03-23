@@ -1,0 +1,61 @@
+Topic 0:
+  phone:3.23
+  idea:1.42
+  work:1.11
+  good:0.87
+  burner:0.65
+  encrusted:0.63
+  conduct:0.61
+  business:0.51
+  dont:0.47
+  muglenet:0.41
+
+Topic 1:
+  work:1.33
+  business:0.95
+  phones:0.87
+  phone:0.85
+  idea:0.72
+  conduct:0.60
+  dont:0.47
+  signal:0.43
+  cloud:0.40
+  cellar:0.39
+
+Topic 2:
+  phones:4.38
+  towers:2.46
+  cellar:2.42
+  cloud:2.41
+  signal:2.39
+  business:2.11
+  work:1.74
+  tower:1.51
+  live:1.51
+  data:1.51
+
+Topic 3:
+  smartphone:2.05
+  tor:1.85
+  rooted:1.85
+  vpn:1.85
+  sim:1.85
+  burner:1.66
+  conduct:0.90
+  connect:0.86
+  tying:0.86
+  persona:0.86
+
+Topic 4:
+  phone:7.28
+  encrusted:3.08
+  good:1.72
+  smart:1.53
+  idea:1.48
+  complicated:1.37
+  kind:1.36
+  acquire:1.36
+  thought:1.36
+  dump:1.34
+
+K: 5, Log-Likelihood: -996.901, Alpha: 11.000, Beta: 1.100

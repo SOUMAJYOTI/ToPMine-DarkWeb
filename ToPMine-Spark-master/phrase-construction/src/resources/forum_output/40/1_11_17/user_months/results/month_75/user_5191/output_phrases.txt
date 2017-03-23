@@ -1,0 +1,61 @@
+Topic 0:
+  contact:2.22
+  services:1.56
+  dark:1.55
+  net:1.55
+  feel:0.98
+  sadly:0.98
+  dont:0.98
+  googling:0.98
+  option:0.98
+  decent:0.98
+
+Topic 1:
+  site:2.62
+  server hosting:1.19
+  change:1.19
+  software:1.19
+  inb:1.19
+  illiterate:1.19
+  costs:1.19
+  helping:1.19
+  direct:1.19
+  pming:1.19
+
+Topic 2:
+  bit:1.43
+  science:1.23
+  curious:1.23
+  sciencemadness:1.23
+  images:1.23
+  rhodium:1.23
+  forums:1.23
+  sooty:1.23
+  things:1.23
+  chemistry:1.23
+
+Topic 3:
+  private:2.03
+  consult:0.98
+  hesitant:0.98
+  setting:0.97
+  endeavor:0.97
+  outward:0.97
+  community feel:0.97
+  fully:0.97
+  web:0.96
+  carry:0.96
+
+Topic 4:
+  type people:0.98
+  collaborating:0.97
+  type:0.96
+  security:0.96
+  secure:0.96
+  support:0.95
+  work:0.95
+  versed:0.95
+  server:0.95
+  join:0.94
+
+K: 5, Log-Likelihood: -1063.770, Alpha: 11.000, Beta: 1.100

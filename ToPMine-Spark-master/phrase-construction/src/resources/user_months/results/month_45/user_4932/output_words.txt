@@ -1,0 +1,61 @@
+Topic 0:
+  market:17.75
+  share:13.11
+  scam:9.67
+  exit:9.60
+  dnm:8.01
+  administrators:6.87
+  based:6.86
+  btc:6.63
+  evolution:6.11
+  risk:5.96
+
+Topic 1:
+  lelantos:20.71
+  receiving:18.82
+  sigaint:10.72
+  april:9.48
+  problems:8.70
+  dardush:8.39
+  emails:7.85
+  trust:7.85
+  quote:7.32
+  mails:6.78
+
+Topic 2:
+  agora:13.79
+  dnm:12.60
+  le:8.41
+  competition:7.76
+  scidmt:7.55
+  public:7.06
+  quote:7.01
+  success:5.36
+  bb:4.70
+  nucleus:4.70
+
+Topic 3:
+  potential:33.24
+  agora:28.28
+  evolution:27.13
+  le:24.28
+  market:24.12
+  share:19.52
+  actual:19.47
+  exit:15.23
+  reached:11.92
+  growth:11.92
+
+Topic 4:
+  free:5.48
+  paid:3.60
+  months:3.58
+  problem:3.58
+  paying:3.56
+  link:3.21
+  quote:2.93
+  wallet:2.86
+  agora:2.77
+  coins:1.88
+
+K: 5, Log-Likelihood: -7050.554, Alpha: 11.000, Beta: 1.100

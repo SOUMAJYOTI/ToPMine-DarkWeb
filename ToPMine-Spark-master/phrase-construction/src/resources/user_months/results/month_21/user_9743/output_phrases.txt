@@ -1,0 +1,61 @@
+Topic 0:
+  code:1.08
+  public:0.39
+  install:0.37
+  thread:0.21
+  disable:0.19
+  open:0.19
+  command:0.19
+  sudo:0.19
+  needed:0.19
+  errors:0.19
+
+Topic 1:
+  code:1.00
+  install:0.39
+  public:0.38
+  thread:0.21
+  sudo:0.20
+  library:0.20
+  disable:0.20
+  errors:0.20
+  fixed:0.20
+  broken:0.20
+
+Topic 2:
+  code:0.73
+  install:0.45
+  public:0.34
+  gpaif:0.22
+  needed:0.22
+  command:0.22
+  broken:0.22
+  disable:0.22
+  apt:0.22
+  open:0.22
+
+Topic 3:
+  code:0.70
+  install:0.46
+  public:0.33
+  fixed:0.22
+  apt:0.22
+  gpa:0.22
+  errors:0.22
+  library:0.22
+  gui:0.22
+  needed:0.22
+
+Topic 4:
+  code:1.07
+  public:0.39
+  install:0.38
+  thread:0.21
+  broken:0.19
+  sudo:0.19
+  gui:0.19
+  open:0.19
+  gpa:0.19
+  gpaif:0.19
+
+K: 5, Log-Likelihood: -126.581, Alpha: 11.000, Beta: 1.100

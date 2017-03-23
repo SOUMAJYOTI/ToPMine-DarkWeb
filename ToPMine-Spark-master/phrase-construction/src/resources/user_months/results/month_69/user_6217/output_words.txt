@@ -1,0 +1,61 @@
+Topic 0:
+  cross:1.69
+  experience:1.47
+  mescaline:1.39
+  days:0.95
+  doesnt:0.89
+  tolerates:0.89
+  oral:0.89
+  assuming:0.89
+  masculine:0.89
+  led:0.88
+
+Topic 1:
+  electrum:2.40
+  wallet:2.09
+  deals:1.12
+  direct:1.09
+  final:1.07
+  experience:0.89
+  recommend:0.81
+  market:0.80
+  mescaline:0.80
+  cross:0.67
+
+Topic 2:
+  wallet:4.23
+  electrum:2.85
+  final:1.93
+  deals:1.90
+  direct:1.88
+  market:1.02
+  recommend:1.01
+  wallets:0.84
+  suppose:0.84
+  walletsend:0.84
+
+Topic 3:
+  mescaline:1.55
+  quote:1.25
+  february:1.22
+  experience:1.04
+  pleasure:0.86
+  domestic:0.86
+  entheogenesis:0.85
+  pushingtabu:0.85
+  onion:0.85
+  personally:0.84
+
+Topic 4:
+  mescaline:1.53
+  experience:1.15
+  cross:0.92
+  electrum:0.81
+  vendor:0.80
+  wallet:0.76
+  market:0.52
+  recommend:0.52
+  good:0.52
+  february:0.50
+
+K: 5, Log-Likelihood: -1146.800, Alpha: 11.000, Beta: 1.100

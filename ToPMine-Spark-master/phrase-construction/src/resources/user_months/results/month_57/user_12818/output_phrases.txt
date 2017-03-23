@@ -1,0 +1,61 @@
+Topic 0:
+  marketplaces:0.24
+  nucleus:0.16
+  future:0.16
+  teaching:0.16
+  kids:0.16
+  sheep:0.16
+  vendors:0.16
+  masses:0.16
+  forum:0.08
+  link:0.08
+
+Topic 1:
+  marketplaces:0.24
+  nucleus:0.16
+  masses:0.16
+  vendors:0.16
+  future:0.16
+  sheep:0.16
+  teaching:0.16
+  kids:0.16
+  ve:0.08
+  community:0.08
+
+Topic 2:
+  marketplaces:0.24
+  kids:0.16
+  masses:0.16
+  sheep:0.16
+  teaching:0.16
+  vendors:0.16
+  future:0.16
+  nucleus:0.16
+  decentralized:0.08
+  asia:0.08
+
+Topic 3:
+  marketplaces:0.24
+  sheep:0.16
+  future:0.16
+  vendors:0.16
+  kids:0.16
+  teaching:0.16
+  masses:0.16
+  nucleus:0.16
+  eventually:0.08
+  agora:0.08
+
+Topic 4:
+  marketplaces:0.24
+  teaching:0.16
+  masses:0.16
+  nucleus:0.16
+  vendors:0.16
+  future:0.16
+  sheep:0.16
+  kids:0.16
+  security:0.08
+  wow:0.08
+
+K: 5, Log-Likelihood: -195.489, Alpha: 11.000, Beta: 1.100

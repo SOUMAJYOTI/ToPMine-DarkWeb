@@ -1,0 +1,61 @@
+Topic 0:
+  snitch:4.44
+  mac:3.14
+  reply:2.19
+  nip:2.19
+  thing:2.19
+  snitch blackhole:2.19
+  heard:2.19
+  addresses:2.19
+  earlier:2.19
+  years:2.19
+
+Topic 1:
+  ip apple sentinel dont:4.48
+  mac reported offending url:4.48
+  ip address:4.45
+  zaphod:4.20
+  quote chilltweaker march:3.98
+  amim:3.58
+  mac told apple blackhole:3.58
+  full:2.18
+  follow:2.18
+  instructions:2.18
+
+Topic 2:
+  armour:8.97
+  secret keys:8.97
+  keyring:6.72
+  public keys:6.72
+  key alternate keyboard:5.32
+  caps:5.09
+  ascii:4.47
+  export:4.47
+  format:4.47
+  gpg:4.47
+
+Topic 3:
+  zaphod pm:3.53
+  developer:3.53
+  talked:3.53
+  working:3.53
+  ago:3.53
+  software:3.53
+  problem:3.53
+  weeks:3.53
+  decrypting:3.53
+  couple:3.53
+
+Topic 4:
+  coming:5.44
+  claims:4.46
+  attackers:4.46
+  services:4.46
+  book:4.46
+  company:4.46
+  toxen:4.46
+  unwelcome:3.57
+  sending:3.57
+  rid:3.57
+
+K: 5, Log-Likelihood: -3277.481, Alpha: 11.000, Beta: 1.100

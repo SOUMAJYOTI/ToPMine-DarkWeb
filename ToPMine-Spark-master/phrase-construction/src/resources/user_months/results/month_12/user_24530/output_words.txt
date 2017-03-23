@@ -1,0 +1,61 @@
+Topic 0:
+  est:1.27
+  site:1.24
+  time:0.85
+  start:0.79
+  great:0.75
+  order:0.75
+  set:0.69
+  quote:0.69
+  profile:0.60
+  hey:0.58
+
+Topic 1:
+  send:1.45
+  donation:1.32
+  site:1.14
+  erowid:0.96
+  order:0.74
+  start:0.74
+  great:0.71
+  poetry:0.57
+  prevented:0.57
+  psychedelic:0.57
+
+Topic 2:
+  est:1.86
+  site:1.35
+  time:0.93
+  profile:0.86
+  set:0.77
+  quote:0.74
+  great:0.73
+  order:0.72
+  read:0.71
+  pct:0.71
+
+Topic 3:
+  clock:3.03
+  forum:2.38
+  time:1.51
+  july:1.42
+  offset:0.96
+  settings:0.95
+  adjust:0.84
+  amwtf:0.83
+  sync:0.83
+  confused:0.83
+
+Topic 4:
+  clock:2.31
+  forum:1.98
+  july:1.45
+  time:1.43
+  offset:0.90
+  settings:0.90
+  naggin:0.72
+  north:0.72
+  modified:0.71
+  account:0.71
+
+K: 5, Log-Likelihood: -816.131, Alpha: 11.000, Beta: 1.100

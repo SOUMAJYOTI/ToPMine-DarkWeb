@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.24
+  users:0.16
+  escrow:0.16
+  vendors:0.16
+  customer:0.16
+  removed:0.16
+  buyers:0.16
+  support:0.16
+  theyve:0.08
+  scammed:0.08
+
+Topic 1:
+  market:0.24
+  removed:0.16
+  escrow:0.16
+  vendors:0.16
+  customer:0.16
+  support:0.16
+  buyers:0.16
+  users:0.16
+  set:0.08
+  opened:0.08
+
+Topic 2:
+  market:0.24
+  removed:0.16
+  buyers:0.16
+  vendors:0.16
+  support:0.16
+  users:0.16
+  customer:0.16
+  escrow:0.16
+  leaving:0.08
+  staff staff:0.08
+
+Topic 3:
+  market:0.24
+  support:0.16
+  vendors:0.16
+  removed:0.16
+  buyers:0.16
+  escrow:0.16
+  customer:0.16
+  users:0.16
+  hands:0.08
+  existent:0.08
+
+Topic 4:
+  market:0.24
+  customer:0.16
+  buyers:0.16
+  support:0.16
+  escrow:0.16
+  removed:0.16
+  vendors:0.16
+  users:0.16
+  existent:0.08
+  dispute:0.08
+
+K: 5, Log-Likelihood: -112.317, Alpha: 11.000, Beta: 1.100

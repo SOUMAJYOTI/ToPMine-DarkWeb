@@ -1,0 +1,61 @@
+Topic 0:
+  campbx:2.55
+  verified:1.84
+  loss:1.79
+  thought:1.52
+  man:1.51
+  guess:1.30
+  wallet:1.13
+  warning:1.09
+  quote:1.07
+  long:1.06
+
+Topic 1:
+  campbx:2.35
+  coins:1.52
+  wallet:1.46
+  bitcoinfog:1.23
+  dont:0.91
+  transaction:0.87
+  guess:0.85
+  blockchain:0.84
+  ill:0.78
+  quote:0.75
+
+Topic 2:
+  coins:2.16
+  wallet:2.00
+  warning:1.94
+  guess:1.54
+  campbx:1.54
+  lost:1.49
+  swam:1.49
+  site:1.42
+  clean:1.28
+  loss:1.19
+
+Topic 3:
+  bank:3.30
+  trouble:2.84
+  blockchain:2.41
+  work:1.58
+  send:1.48
+  accounts:1.48
+  imputable:1.48
+  find:1.48
+  fiat:1.47
+  dont:1.46
+
+Topic 4:
+  address:7.10
+  funds:4.79
+  bitcoinfog:4.44
+  service:3.61
+  company:3.60
+  week:2.68
+  check:2.68
+  registered:2.68
+  untraceable:2.68
+  confirmed:2.61
+
+K: 5, Log-Likelihood: -1636.506, Alpha: 11.000, Beta: 1.100

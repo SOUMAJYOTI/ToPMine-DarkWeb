@@ -1,0 +1,61 @@
+Topic 0:
+  email:0.83
+  trouble:0.83
+  discuss:0.40
+  establishing:0.40
+  ive:0.40
+  dymo:0.40
+  cut:0.40
+  starting:0.40
+  thread:0.40
+  read:0.40
+
+Topic 1:
+  email:0.81
+  trouble:0.80
+  buisness:0.40
+  slacking:0.40
+  tmg:0.40
+  rough:0.40
+  lelantos:0.40
+  labelwriter:0.40
+  hit:0.40
+  walk:0.40
+
+Topic 2:
+  trouble:0.80
+  email:0.77
+  dymo:0.40
+  security:0.40
+  patch:0.40
+  read:0.40
+  agora:0.40
+  starting:0.40
+  thread:0.40
+  decided:0.40
+
+Topic 3:
+  email:0.79
+  trouble:0.78
+  establishing:0.40
+  tmg:0.40
+  print:0.40
+  tails:0.40
+  lelantos:0.40
+  rough:0.40
+  hit:0.40
+  fantasticcheers:0.40
+
+Topic 4:
+  trouble:0.80
+  email:0.79
+  cut:0.40
+  fantasticcheers:0.40
+  labelwriter:0.40
+  decided:0.40
+  dymo:0.40
+  walk:0.40
+  agora:0.40
+  slacking:0.40
+
+K: 5, Log-Likelihood: -233.778, Alpha: 11.000, Beta: 1.100

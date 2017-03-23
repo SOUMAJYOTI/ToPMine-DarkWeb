@@ -1,0 +1,61 @@
+Topic 0:
+  ja:1.38
+  bitcoin:0.62
+  ett:0.60
+  problem:0.60
+  coins:0.43
+  message:0.42
+  network:0.23
+  toimii:0.23
+  kuin:0.23
+  tilauksien:0.23
+
+Topic 1:
+  bitcoin:2.03
+  coins:1.26
+  ja:1.11
+  joka:0.53
+  transfer:0.53
+  monella:0.53
+  didnt:0.53
+  aiheutti:0.53
+  yms:0.53
+  liiku:0.53
+
+Topic 2:
+  send:2.81
+  read:2.81
+  dont:1.81
+  package:1.81
+  btc:1.81
+  chat:1.81
+  benjomarket:1.81
+  log:1.81
+  private:1.81
+  witch:1.81
+
+Topic 3:
+  ja:0.80
+  message:0.76
+  problem:0.46
+  ett:0.46
+  deleted:0.45
+  viestit:0.36
+  olemassa:0.36
+  bug:0.36
+  viesti:0.36
+  ei:0.36
+
+Topic 4:
+  message:0.69
+  ja:0.66
+  deleted:0.51
+  problem:0.41
+  ett:0.40
+  rasittava:0.35
+  meinaan:0.35
+  suht:0.35
+  toi:0.35
+  tuota:0.35
+
+K: 5, Log-Likelihood: -746.852, Alpha: 11.000, Beta: 1.100

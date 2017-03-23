@@ -1,0 +1,61 @@
+Topic 0:
+  btc:0.65
+  listed:0.63
+  sig:0.59
+  post:0.57
+  escrow:0.56
+  wallet:0.54
+  multi:0.53
+  reddit:0.52
+  xss:0.50
+  trust:0.44
+
+Topic 1:
+  whyusheep:2.66
+  post:2.62
+  posts:2.53
+  spreading:1.68
+  reddit:1.56
+  details:0.74
+  quoted:0.74
+  theory:0.74
+  op:0.74
+  fud:0.74
+
+Topic 2:
+  sig:1.63
+  btc:1.61
+  xss:1.26
+  wallet:1.26
+  escrow:1.13
+  multi:1.10
+  key:0.89
+  trust:0.88
+  operator:0.87
+  account:0.87
+
+Topic 3:
+  sig:1.37
+  btc:1.32
+  wallet:1.18
+  xss:1.11
+  multi:1.06
+  escrow:1.01
+  site:0.84
+  trust:0.84
+  market:0.82
+  operator:0.81
+
+Topic 4:
+  btc:1.36
+  sig:1.34
+  multi:1.25
+  escrow:1.23
+  xss:1.06
+  wallet:0.96
+  account:0.85
+  market:0.85
+  operator:0.84
+  key:0.81
+
+K: 5, Log-Likelihood: -1131.676, Alpha: 11.000, Beta: 1.100

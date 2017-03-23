@@ -1,0 +1,61 @@
+Topic 0:
+  quote:1.61
+  march:1.57
+  thekushlife:0.88
+  pmwow:0.87
+  ive pretty elaborate brilliant:0.78
+  scams place darknet:0.78
+  hehee:0.63
+  ami:0.62
+  guru:0.62
+  dumbass:0.62
+
+Topic 1:
+  agora:0.78
+  march:0.57
+  evolution:0.57
+  quote:0.56
+  dumbass:0.50
+  ive pretty elaborate brilliant:0.46
+  scams place darknet:0.45
+  pmwow:0.43
+  thekushlife:0.43
+  guy:0.42
+
+Topic 2:
+  agora:1.36
+  evolution:0.70
+  goods:0.68
+  verified:0.68
+  link:0.68
+  advertise:0.68
+  ddos:0.68
+  find:0.68
+  incrementsplease:0.68
+  attacks:0.68
+
+Topic 3:
+  money:2.60
+  fake:2.59
+  imposter:1.14
+  cghig:1.14
+  znhsc:1.14
+  account:1.14
+  wallet:1.14
+  rg:1.14
+  sucked:1.13
+  rhj:1.13
+
+Topic 4:
+  agora:0.68
+  march:0.62
+  quote:0.61
+  dumbass:0.53
+  evolution:0.50
+  scams place darknet:0.48
+  ive pretty elaborate brilliant:0.48
+  pmwow:0.45
+  thekushlife:0.45
+  dont:0.39
+
+K: 5, Log-Likelihood: -431.718, Alpha: 11.000, Beta: 1.100

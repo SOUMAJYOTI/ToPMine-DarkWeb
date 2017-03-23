@@ -1,0 +1,61 @@
+Topic 0:
+  unload:1.34
+  avatar:1.08
+  attachment:0.99
+  attachments:0.98
+  pics:0.86
+  problem:0.85
+  worked:0.65
+  september:0.58
+  saved:0.58
+  disappeared:0.58
+
+Topic 1:
+  unload:1.51
+  avatar:1.15
+  attachment:1.08
+  attachments:0.98
+  pics:0.81
+  problem:0.75
+  worked:0.65
+  disappeared:0.60
+  suitable:0.59
+  september:0.59
+
+Topic 2:
+  avatar:1.19
+  unload:1.17
+  attachment:1.00
+  attachments:0.95
+  problem:0.83
+  pics:0.77
+  message:0.63
+  saved:0.63
+  suitable:0.63
+  directory:0.62
+
+Topic 3:
+  unload:1.47
+  avatar:1.40
+  attachments:0.99
+  attachment:0.98
+  problem:0.84
+  suitable:0.64
+  pics:0.64
+  saved:0.64
+  september:0.64
+  message:0.64
+
+Topic 4:
+  unload:1.51
+  avatar:1.19
+  attachments:1.09
+  attachment:0.95
+  pics:0.93
+  problem:0.74
+  directory:0.60
+  suitable:0.58
+  disappeared:0.58
+  message:0.58
+
+K: 5, Log-Likelihood: -418.592, Alpha: 11.000, Beta: 1.100

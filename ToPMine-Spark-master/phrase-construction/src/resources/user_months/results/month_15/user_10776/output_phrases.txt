@@ -1,0 +1,61 @@
+Topic 0:
+  logon:2.79
+  mac:1.94
+  library:1.72
+  member:1.52
+  number:1.52
+  process:1.31
+  details:1.31
+  session:1.31
+  boot:1.31
+  assume:1.31
+
+Topic 1:
+  tor connect:1.35
+  didnt:0.94
+  assuming:0.94
+  theory:0.94
+  person:0.93
+  longer:0.93
+  log:0.93
+  unnecessary:0.93
+  station:0.93
+  curious:0.93
+
+Topic 2:
+  public:2.86
+  connect network:2.86
+  isnt:2.86
+  connect:2.52
+  tor:2.07
+  tails:1.53
+  day:1.36
+  folks:1.36
+  find:1.36
+  searching:1.36
+
+Topic 3:
+  tor connect:1.49
+  unsafe browser:1.03
+  opened:0.85
+  connection allowed:0.84
+  portal:0.84
+  established:0.83
+  works:0.83
+  activate:0.83
+  closing:0.83
+  connection:0.83
+
+Topic 4:
+  accept terms:2.74
+  access:2.74
+  called:1.26
+  terms:1.26
+  free:1.26
+  accepted:1.26
+  yeah:1.25
+  regular:1.25
+  unsafe browser:1.06
+  wifi:0.91
+
+K: 5, Log-Likelihood: -1056.321, Alpha: 11.000, Beta: 1.100

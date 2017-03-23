@@ -1,0 +1,61 @@
+Topic 0:
+  options:4.61
+  wu:4.61
+  find:2.27
+  markets:2.27
+  reconsidered:2.27
+  top:2.27
+  order:2.27
+  fe:2.27
+  ill:2.27
+  scream:2.27
+
+Topic 1:
+  guys:4.60
+  guy:4.53
+  option:3.37
+  clamp:2.25
+  decides:2.25
+  tumbling:2.25
+  based:2.25
+  spooked:2.25
+  exchange:2.25
+  charged:2.25
+
+Topic 2:
+  pmuk lbc stopped withdrawels:4.03
+  lesser:3.90
+  hey:3.82
+  uk:3.40
+  holy:3.38
+  luc:3.38
+  fuck hope:3.37
+  leave:3.37
+  quote mary february:3.30
+  fuck:3.09
+
+Topic 3:
+  sharedcoin:4.62
+  shared send:4.47
+  info blockchain:3.29
+  send shared:3.27
+  info dropped:3.26
+  place:3.26
+  solution:3.11
+  february:3.09
+  pmquote:3.09
+  time:2.58
+
+Topic 4:
+  btcf:4.57
+  fine sever link trusted:4.18
+  mixing service:4.15
+  bringing replace bitcoin fog:4.14
+  working provide taint built:4.12
+  blockchain:4.11
+  shared send awesome discontinued:4.10
+  mixing services buying exchange:4.09
+  quote:3.02
+  pmaccording verified source blockchain:2.88
+
+K: 5, Log-Likelihood: -1979.015, Alpha: 11.000, Beta: 1.100

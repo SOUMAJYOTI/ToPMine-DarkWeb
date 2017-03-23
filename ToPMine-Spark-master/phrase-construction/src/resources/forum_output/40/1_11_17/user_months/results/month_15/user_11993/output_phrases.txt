@@ -1,0 +1,61 @@
+Topic 0:
+  dumpsterbaby:0.16
+  nope:0.08
+  free:0.08
+  unlimited:0.08
+  amseriously:0.08
+  lifetime:0.08
+  options:0.08
+  offering:0.08
+  codes:0.08
+  call:0.08
+
+Topic 1:
+  dumpsterbaby:0.16
+  nope:0.08
+  free:0.08
+  offering:0.08
+  plans:0.08
+  payment:0.08
+  options:0.08
+  standing:0.08
+  victim:0.08
+  call:0.08
+
+Topic 2:
+  dumpsterbaby:0.16
+  easy:0.08
+  lifetime:0.08
+  quote:0.08
+  call:0.08
+  errr:0.08
+  operators:0.08
+  victim:0.08
+  unlimited:0.08
+  gdmp:0.08
+
+Topic 3:
+  dumpsterbaby:0.16
+  accept:0.08
+  client:0.08
+  quote:0.08
+  operators:0.08
+  pass:0.08
+  gdmp:0.08
+  btc:0.08
+  errr:0.08
+  victim:0.08
+
+Topic 4:
+  dumpsterbaby:0.16
+  pass:0.08
+  btc:0.08
+  standing:0.08
+  plans:0.08
+  codes:0.08
+  accept:0.08
+  payment:0.08
+  client:0.08
+  options:0.08
+
+K: 5, Log-Likelihood: -30.626, Alpha: 11.000, Beta: 1.100

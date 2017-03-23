@@ -1,0 +1,61 @@
+Topic 0:
+  good:1.58
+  tard:0.76
+  news:0.75
+  mind:0.75
+  met:0.74
+  time:0.69
+  wow:0.52
+  days:0.51
+  thathavent:0.45
+  security:0.45
+
+Topic 1:
+  bitchin:4.67
+  bob:3.60
+  quote:2.02
+  place:1.75
+  bouncing:1.75
+  spend:1.75
+  pay:1.75
+  job:1.75
+  drugs:1.75
+  nice:1.75
+
+Topic 2:
+  quote:4.49
+  zaphod:3.23
+  design:2.92
+  ssh:2.87
+  sigaint:2.87
+  ssl:2.87
+  pro:2.63
+  real:1.92
+  threw:1.92
+  idiot:1.92
+
+Topic 3:
+  congress:9.16
+  program:7.45
+  court:7.06
+  collection:6.71
+  panel:5.86
+  bulk:5.53
+  national:4.84
+  security:4.24
+  members:3.83
+  americans:3.71
+
+Topic 4:
+  congress:2.73
+  program:2.44
+  security:2.11
+  panel:2.04
+  court:1.84
+  bulk:1.37
+  americans:1.18
+  collection:1.18
+  case:1.13
+  time:1.11
+
+K: 5, Log-Likelihood: -3217.305, Alpha: 11.000, Beta: 1.100

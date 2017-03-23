@@ -1,0 +1,823 @@
+hands,0,1
+year,1,2
+saved,2,1
+yeah,3,1
+qubesos,4,2
+musix,5,2
+laptop,6,2
+ignoring,7,4
+remote,8,1
+slower,9,1
+satan,10,1
+introduced,11,1
+quote,12,5
+short list,13,4
+understanding,14,1
+ram,15,1
+wins,16,1
+truecrypt,17,1
+solid,18,1
+internally,19,1
+devices,20,1
+proportional,21,2
+main os,22,1
+faqs,23,1
+hardware exploit,24,1
+quote real,25,1
+security qubes,26,1
+doesnt include,27,2
+molecules,28,1
+roll,29,1
+turn,30,1
+sigaint,31,1
+vancouver,32,1
+bugs,33,2
+wikipedia,34,1
+listing,35,1
+connect,36,1
+excepting,37,1
+kernel,38,5
+os binary,39,1
+os short,40,1
+pmthat,41,1
+weird,42,1
+fast,43,1
+days,44,3
+persistence,45,2
+obvious,46,1
+exploit,47,5
+god,48,1
+rounds,49,1
+isi,50,1
+persuasive,51,1
+notes,52,1
+communicate,53,1
+controls,54,1
+procssor,55,1
+evidence,56,1
+isn,57,2
+bootup,58,1
+good,59,5
+bios bios,60,1
+wise,61,2
+post,62,2
+amounts,63,1
+leave,64,2
+doesnt blobs,65,1
+mindful,66,1
+qubes good,67,1
+hardened,68,2
+vendors,69,5
+uneducated,70,1
+correctnessfrom,71,1
+add,72,3
+peoples,73,1
+area,74,1
+doesn,75,2
+making,76,1
+eli,77,2
+pax,78,4
+list,79,6
+article,80,2
+lack,81,2
+obfuscation correctness,82,2
+tails,83,13
+erased,84,1
+guys,85,1
+mitre,86,1
+technical,87,2
+crypt,88,1
+kallenberg idea,89,1
+pmedit,90,1
+source reference,91,3
+prevent,92,2
+disturbing,93,1
+hardwarelets,94,1
+days freebsd,95,1
+root,96,1
+hard,97,1
+obfuscation,98,3
+ignoring firmware,99,2
+attacker,100,3
+versatile,101,1
+kallenberg implant,102,1
+rootkit,103,1
+automate,104,2
+albeit,105,1
+problem linux,106,1
+told,107,1
+bad press,108,2
+catalog,109,1
+hats,110,1
+blobs dont,111,1
+mobilized,112,1
+implant,113,7
+approach,114,1
+years,115,2
+turns,116,1
+rig,117,1
+experiment,118,1
+flashing,119,1
+slack,120,2
+pitfallsalthough,121,1
+hate,122,2
+secure boot,123,1
+corey,124,1
+architecturally,125,1
+order,126,2
+ntfs,127,1
+protecting,128,1
+kovah,129,9
+dyne,130,2
+programmer,131,1
+distributions linux,132,1
+blobs ignoring,133,1
+isolation,134,2
+crossing,135,2
+physical access,136,2
+system,137,8
+connector,138,1
+install,139,2
+binary,140,5
+astors,141,1
+successor,142,1
+aim,143,1
+quote crow,144,3
+matter,145,2
+crew,146,1
+listens,147,1
+tor,148,1
+pgp,149,1
+share,150,1
+exfiltrates,151,1
+elegant,152,1
+attacks access,153,1
+moar,154,1
+intellectual,155,2
+removed,156,1
+requiring,157,2
+infect,158,1
+secure operating,159,1
+points,160,3
+exploitation,161,1
+mode,162,2
+hardenedbsd,163,2
+passwords,164,1
+firmware hardware,165,1
+cable,166,1
+border,167,2
+read,168,2
+including,169,1
+instilled,170,1
+rng,171,2
+reprograms,172,1
+real,173,3
+maintaining,174,1
+grsecurity,175,1
+improve,176,1
+evil,177,2
+amt,178,1
+media,179,1
+running,180,2
+intended,181,1
+design,182,4
+distros,183,1
+today,184,1
+extra,185,1
+talented,186,1
+define,187,1
+system kallenberg,188,2
+working,189,1
+harder,190,1
+possibility,191,1
+include support,192,2
+blobs,193,8
+sucks,194,1
+pmnow,195,1
+ant,196,1
+source main,197,1
+academics,198,1
+code locations,199,1
+application,200,1
+encrypted,201,1
+defeating,202,1
+interested,203,1
+machines,204,1
+thought,205,1
+hardware software,206,1
+maintain,207,1
+discussion,208,1
+concern,209,1
+iommu,210,1
+builds,211,1
+state,212,3
+thinks,213,1
+nix,214,2
+press,215,3
+defined,216,1
+models,217,2
+mitigation,218,1
+separately,219,1
+backdoors,220,2
+probable,221,1
+vulnerability,222,1
+processor,223,1
+slow,224,1
+glaring,225,1
+bad idea,226,1
+flash,227,2
+recommend,228,1
+cried,229,1
+attack,230,2
+recompiling,231,1
+reported,232,1
+insane,233,1
+protections kallenberg,234,1
+takes,235,2
+arm,236,1
+hooks,237,1
+situation,238,1
+equate,239,1
+malware,240,1
+lacking,241,2
+nls,242,1
+shit,243,1
+openbsd good,244,1
+suck,245,1
+thing,246,1
+supported,247,1
+bolic,248,1
+privileges,249,1
+pmopenbsd,250,1
+incorporate,251,1
+source,252,7
+secure,253,6
+features,254,1
+vulnerable,255,1
+white,256,1
+fellows,257,1
+things dont,258,1
+things,259,4
+dogs,260,1
+weakened,261,2
+helpful,262,1
+starts,263,1
+attacks hardware,264,1
+realize,265,1
+hooking,266,1
+offers,267,1
+worry,268,1
+correctness,269,3
+blobs code,270,1
+flashy,271,1
+doubt,272,1
+distributions design,273,1
+firmware attacks,274,1
+crow,275,3
+fixed,276,1
+trisquell,277,1
+fields,278,1
+leaving,279,1
+updated,280,3
+compatibility,281,1
+gentoo point,282,1
+memory,283,2
+main machine,284,1
+effort,285,2
+open source,286,5
+code kovah,287,2
+tails binary,288,1
+customizing,289,1
+boot,290,3
+hardwarefrom,291,1
+news,292,1
+thoughts,293,1
+green,294,1
+main operating,295,1
+start,296,1
+volatile,297,1
+geli,298,1
+windows,299,2
+target,300,1
+short,301,4
+vulnerabilities,302,5
+time,303,2
+fuckup,304,1
+developers,305,1
+keystrokes,306,1
+program,307,1
+vpshot,308,1
+forums,309,1
+stuck,310,1
+options,311,1
+secure openbsd,312,2
+elevate,313,1
+case,314,2
+hardware,315,7
+waits,316,1
+bios physical,317,1
+contention,318,1
+tails short,319,1
+implants,320,1
+tails boot,321,1
+rely,322,1
+didnt,323,1
+style,324,1
+colic,325,1
+asshole,326,1
+care,327,1
+interdiction,328,1
+exploit mitigations,329,2
+lot,330,2
+fuse,331,2
+scrape,332,1
+bleak,333,1
+computer,334,3
+ways,335,1
+low,336,1
+survives,337,1
+disclosure,338,1
+backdoor,339,2
+great,340,1
+wrong,341,1
+afaik,342,1
+inversely,343,2
+clip,344,1
+friendly,345,1
+points add,346,1
+spelled,347,1
+experience,348,1
+constantly,349,1
+hit,350,1
+major,351,2
+zone,352,1
+locations attacker,353,1
+bear,354,1
+totally,355,2
+day,356,1
+potential,357,1
+connections,358,1
+group,359,2
+kind,360,3
+minutes,361,2
+opened,362,5
+parabola,363,1
+transfer,364,1
+personally,365,1
+trisquel,366,3
+managing,367,1
+flamed,368,1
+job,369,1
+dont,370,6
+ease,371,2
+insert,372,2
+founders,373,1
+patching,374,1
+point,375,5
+hurd,376,2
+relies,377,2
+sounds,378,1
+sad,379,1
+browser,380,1
+win,381,1
+audits,382,1
+rest,383,1
+move,384,1
+process,385,2
+built,386,1
+approaches,387,1
+code bios,388,1
+listed,389,1
+threatpost,390,2
+user,391,1
+stupid,392,1
+stack,393,1
+bad,394,5
+areas,395,2
+linus distributions,396,1
+beer,397,1
+prime,398,2
+happen,399,1
+opened freebsd,400,1
+disasters,401,1
+impact,402,1
+mainstream,403,1
+combo,404,1
+personal,405,1
+easy,406,2
+flexible,407,1
+plant,408,2
+consideration,409,1
+drive,410,1
+code access,411,1
+hurt,412,1
+deal,413,1
+strong,414,1
+freebsd,415,6
+bios,416,15
+eyes,417,2
+bs,418,1
+coding,419,1
+search,420,1
+capability,421,1
+kind os,422,2
+systems,423,1
+dudes,424,1
+compared,425,1
+enabling,426,1
+hating,427,1
+chip,428,1
+systemd,429,2
+sex,430,1
+outrun,431,1
+march,432,5
+philosophically,433,1
+practices,434,1
+cs,435,1
+purposefully,436,1
+calls,437,1
+unfix,438,2
+researchers vendors,439,1
+implant bios,440,1
+abused,441,1
+bed,442,2
+luks,443,4
+dig,444,1
+rutkowskas,445,2
+dr,446,1
+hold,447,1
+attacks,448,4
+startup,449,1
+reply,450,1
+friggin,451,2
+blobsjust,452,1
+cryptothat,453,1
+patterns,454,1
+openbsd gentoo,455,2
+good point,456,1
+os security,457,1
+carrying,458,1
+sources,459,1
+mistakes,460,1
+worthy,461,1
+explained,462,1
+zaphod,463,2
+desktop,464,1
+dragora,465,2
+passed,466,1
+covers,467,1
+knockout,468,1
+dll,469,1
+monitor,470,1
+things state,471,1
+concerns,472,2
+dinner,473,1
+killed,474,1
+existing,475,1
+form,476,1
+management,477,2
+tubes,478,3
+dma,479,1
+realm,480,1
+avoid,481,1
+recommends,482,1
+fresh,483,1
+comprehensive,484,2
+articles,485,1
+appealing,486,1
+freebsd opened,487,1
+big,488,1
+openbsd kind,489,2
+discount,490,1
+variants,491,2
+doesnt,492,4
+hook,493,1
+aslr,494,2
+linus security,495,1
+context,496,1
+action,497,1
+surpassed,498,1
+lurks,499,1
+majority,500,1
+vero,501,1
+researchers,502,3
+suspected,503,1
+ip,504,1
+tomorrow,505,1
+guinness,506,1
+sensitive,507,1
+distributions,508,3
+heavy,509,1
+talked,510,1
+hypothetically,511,1
+writeup,512,1
+operate,513,1
+physically,514,1
+cansecwest,515,1
+compromised,516,2
+status,517,1
+recommending,518,2
+works,519,1
+proportion,520,1
+graybeards,521,2
+focuses,522,1
+deliver,523,1
+thinking,524,2
+mac,525,1
+exploits,526,1
+government,527,1
+inserted,528,1
+strings,529,1
+shielded,530,1
+xeno,531,1
+freebsds,532,1
+libre,533,1
+man,534,1
+elimination,535,1
+modifications,536,1
+idea os,537,1
+bios protections,538,1
+supplied,539,1
+break,540,1
+missed,541,3
+attackers,542,1
+access computer,543,1
+comfort,544,1
+joke,545,1
+generally,546,1
+tubes os,547,1
+machine,548,4
+discovery,549,1
+gentoo,550,5
+sigh,551,2
+qubes,552,6
+concerned,553,1
+feel,554,1
+main,555,5
+download,556,1
+fine,557,2
+picked,558,1
+find,559,2
+reviewed,560,1
+maid,561,1
+communication,562,3
+level,563,2
+hurdle,564,1
+ms,565,1
+difficult,566,1
+sort,567,1
+lurk,568,1
+entry,569,2
+disk,570,1
+correctness firmware,571,1
+convenient,572,1
+librem,573,1
+bios kovah,574,1
+background,575,1
+true,576,1
+focused,577,1
+place code,578,1
+gnewsense,579,2
+code,580,13
+keys,581,1
+demo,582,1
+parable,583,1
+good problem,584,1
+physical,585,3
+hear,586,1
+roundabout,587,2
+bios vulnerabilities,588,1
+keyboard,589,1
+op,590,1
+kallenberg,591,6
+chance,592,1
+os,593,12
+equation,594,1
+interesting,595,2
+ox,596,1
+thread,597,2
+master,598,1
+spawn,599,1
+attacker place,600,1
+easier,601,1
+simplify,602,1
+legbacore,603,1
+remarks,604,1
+kovah open,605,1
+vary,606,1
+nation,607,1
+open source reference,608,3
+bullshit,609,1
+granted,610,1
+relayed,611,1
+kovah kovah,612,1
+highers,613,1
+quotei,614,1
+clever,615,1
+good points,616,1
+friend,617,2
+fire,618,1
+stick,619,1
+bios idea,620,1
+based,621,2
+deny,622,1
+edit,623,1
+module,624,2
+correctness ignoring,625,1
+theo,626,2
+opened security,627,1
+crow march,628,3
+execute,629,1
+remaining,630,1
+accept,631,1
+os doesnt,632,2
+bsd,633,2
+openbsd doesnt,634,1
+animal,635,1
+starting,636,1
+endor,637,1
+ignoring obfuscation,638,2
+device,639,1
+switching,640,1
+vpro,641,1
+shared,642,1
+surrendered,643,1
+fact,644,1
+access,645,6
+conference,646,1
+wiping,647,1
+knocked,648,1
+eliminate,649,2
+executed,650,1
+bootkits,651,1
+dediprog,652,1
+remember,653,1
+current,654,2
+minimalistic,655,1
+vector,656,1
+operating,657,5
+key,658,1
+dirty,659,1
+grsec,660,1
+protections,661,4
+store,662,1
+people,663,3
+kovah attacker,664,1
+bug,665,1
+tl,666,1
+assist,667,1
+closed,668,2
+progress,669,1
+instincts,670,1
+machine hardware,671,1
+partially,672,1
+open,673,6
+agent,674,2
+oob,675,2
+reasonable,676,1
+project,677,2
+add things,678,1
+loom,679,1
+modularity,680,2
+leaves,681,1
+reevaluate,682,1
+thinkpad,683,1
+reference points,684,1
+gbde,685,2
+linux kernel,686,1
+modules,687,1
+ve,688,1
+support,689,6
+internet,690,1
+higher,691,2
+cyberespionage,692,1
+blobs oss,693,1
+reasons,694,1
+idea,695,6
+rule,696,2
+privacy,697,2
+learning,698,1
+linus,699,5
+devs,700,2
+proprietary,701,2
+common,702,2
+linux,703,3
+anonymity,704,2
+summary,705,1
+shellshock,706,2
+point correctness,707,1
+criticised,708,1
+kallenberg attacker,709,1
+org,710,2
+reading,711,1
+scrapes,712,1
+damn,713,1
+locations kovah,714,1
+removal,715,1
+step,716,1
+blobs real,717,1
+binary blobs,718,4
+software,719,3
+reliably,720,2
+mom,721,1
+oss,722,4
+bios code,723,1
+implant tails,724,2
+seconds,725,1
+problem,726,3
+osx,727,1
+open computer,728,1
+openbsd,729,12
+undesirables,730,2
+xen,731,2
+devious,732,1
+encrusted,733,1
+work,734,1
+agree,735,2
+pitfalls,736,1
+versions,737,1
+drivers,738,1
+lenovo,739,1
+coreboot,740,2
+comms,741,1
+missed tails,742,1
+isolated,743,1
+secret,744,2
+pax secure,745,1
+throwing,746,1
+feature,747,1
+installation,748,1
+place,749,3
+explains,750,1
+firmware,751,9
+openbsd kernel,752,1
+oss linus,753,1
+include,754,3
+vulnerabilities software,755,1
+uefi,756,2
+amazes,757,1
+mentioning,758,1
+opinion,759,2
+puts,760,1
+depth,761,1
+exists,762,2
+matured,763,1
+vendors code,764,1
+minimum,765,1
+architectural,766,1
+runs,767,2
+data,768,4
+mitigations,769,3
+space,770,2
+reference,771,4
+barrier,772,2
+deciding,773,1
+distributions open,774,1
+criminal,775,1
+mileage,776,1
+readable,777,1
+development,778,1
+individual,779,1
+bitch,780,1
+os secure,781,1
+ill,782,2
+crypts,783,1
+quote crow march,784,3
+addressed,785,1
+chances,786,1
+tbb,787,1
+techniques,788,1
+dont people,789,1
+quoteyou,790,1
+dastardly,791,1
+replacement,792,1
+send,793,1
+note,794,2
+supposedly,795,1
+aint,796,1
+regret,797,1
+steal,798,2
+rutkowska,799,1
+lineup,800,1
+access os,801,1
+platform,802,1
+network,803,1
+security,804,11
+hypervisor,805,1
+tails communication,806,1
+affairs,807,1
+tcp,808,1
+aims,809,2
+cost,810,1
+operating system,811,4
+limited,812,1
+implementation,813,2
+efi,814,1
+attacking,815,1
+tubes design,816,1
+tails firmware,817,1
+main linux,818,1
+challenge,819,1
+locations,820,3
+wild,821,1
+protections place,822,1

@@ -1,0 +1,61 @@
+Topic 0:
+  dream:1.96
+  markets:0.70
+  clients:0.68
+  active:0.64
+  day:0.64
+  vendors:0.61
+  fine:0.54
+  oxymonster:0.40
+  nucleus:0.37
+  meaning:0.31
+
+Topic 1:
+  dream:2.16
+  day:0.67
+  markets:0.63
+  clients:0.63
+  active:0.60
+  vendors:0.58
+  fine:0.54
+  oxymonster:0.41
+  nucleus:0.35
+  market:0.32
+
+Topic 2:
+  dream:1.42
+  fine:0.46
+  vendors:0.43
+  active:0.41
+  nucleus:0.41
+  oxymonster:0.41
+  market:0.40
+  day:0.39
+  clients:0.39
+  markets:0.38
+
+Topic 3:
+  dream:1.03
+  onion:0.64
+  market:0.47
+  nucleus:0.43
+  list:0.42
+  shop:0.42
+  profile:0.41
+  signature:0.41
+  pgp:0.41
+  oxymonster:0.40
+
+Topic 4:
+  onion:2.78
+  pgp:1.14
+  profile:1.14
+  signature:1.13
+  shop:1.13
+  list:1.12
+  market:0.49
+  qxduyqm:0.46
+  dpcfometfh:0.46
+  fsyoatpjk:0.46
+
+K: 5, Log-Likelihood: -1217.208, Alpha: 11.000, Beta: 1.100

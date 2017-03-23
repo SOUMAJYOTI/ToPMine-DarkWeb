@@ -1,0 +1,61 @@
+Topic 0:
+  bandwidth:7.43
+  speed:4.94
+  meaning:4.07
+  bitcoins:4.07
+  dont:4.07
+  handle:4.07
+  cash:3.92
+  tulips:3.92
+  beta:3.77
+  pretty:3.72
+
+Topic 1:
+  aws:4.87
+  private:3.85
+  javascript:3.60
+  darkness nation:3.21
+  quote:2.66
+  work:2.44
+  impersonating:2.40
+  genre:2.40
+  totalitarian:2.40
+  socialist:2.40
+
+Topic 2:
+  marketplace:8.22
+  ip:8.21
+  onion site:7.06
+  site:6.17
+  js:4.58
+  project:4.07
+  hidden onion:4.06
+  disseminate:4.06
+  felt:4.06
+  leak clearnet:4.06
+
+Topic 3:
+  security:8.06
+  tor browser bundle:7.43
+  karl:7.32
+  javascript:7.15
+  people:5.62
+  vulnerability:4.94
+  isnt:4.94
+  websites:4.94
+  tor project:4.94
+  company:4.94
+
+Topic 4:
+  spamming:4.12
+  drugs:2.82
+  social:2.54
+  house:2.43
+  respectful:2.43
+  mod:2.43
+  forum:2.43
+  reason:2.43
+  boards:2.43
+  couple:2.43
+
+K: 5, Log-Likelihood: -7166.871, Alpha: 11.000, Beta: 1.100

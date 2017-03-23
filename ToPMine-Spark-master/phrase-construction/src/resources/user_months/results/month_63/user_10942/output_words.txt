@@ -1,0 +1,61 @@
+Topic 0:
+  people:1.07
+  cats:0.94
+  server:0.89
+  bout:0.87
+  cat:0.86
+  host:0.86
+  good:0.79
+  talking:0.73
+  raspberry:0.67
+  pi:0.66
+
+Topic 1:
+  good:1.08
+  server:0.80
+  idea:0.73
+  cats:0.72
+  money:0.61
+  password:0.61
+  irc:0.61
+  nicely:0.60
+  tangs:0.60
+  forgot:0.60
+
+Topic 2:
+  money:5.16
+  good:1.76
+  things:1.14
+  busted:1.07
+  idea:1.06
+  dpr:1.04
+  case:1.03
+  valuables:0.94
+  account:0.94
+  stolen:0.94
+
+Topic 3:
+  good:1.35
+  money:1.22
+  idea:0.90
+  server:0.81
+  people:0.78
+  case:0.62
+  busted:0.59
+  things:0.56
+  dpr:0.53
+  crew:0.49
+
+Topic 4:
+  organized:1.10
+  server:1.09
+  good:1.03
+  idea:0.69
+  cats:0.65
+  money:0.62
+  dpr:0.57
+  caught:0.56
+  pictures:0.50
+  rise:0.50
+
+K: 5, Log-Likelihood: -1289.835, Alpha: 11.000, Beta: 1.100

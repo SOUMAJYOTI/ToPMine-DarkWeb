@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:10.26
+  key:3.66
+  program:2.96
+  java:2.96
+  mac:2.96
+  people:2.66
+  secure:2.52
+  encryption:2.52
+  online:2.23
+  time:2.02
+
+Topic 1:
+  message:2.75
+  pgp:1.25
+  encrypt:1.07
+  pip:1.07
+  thwzizkv:0.95
+  iife:0.95
+  iquxki:0.95
+  qmgtubcgdjbglg:0.95
+  ipn:0.95
+  aibnflvdr:0.95
+
+Topic 2:
+  message:12.41
+  key:12.25
+  public:8.04
+  pgp:5.65
+  send:5.44
+  decrypt:4.76
+  private:3.92
+  understanding:3.72
+  asa:2.92
+  encrypting:2.92
+
+Topic 3:
+  key:7.90
+  highly:2.78
+  thread:2.75
+  matters:2.65
+  ya:2.65
+  pip:2.63
+  size:2.60
+  quote:1.88
+  address:1.83
+  circumstantial:1.78
+
+Topic 4:
+  captain:4.09
+  messages:3.10
+  open:2.94
+  time:2.90
+  friend:2.84
+  vendors:2.56
+  ive:2.27
+  format:1.97
+  gpg:1.94
+  hey:1.60
+
+K: 5, Log-Likelihood: -3624.333, Alpha: 11.000, Beta: 1.100

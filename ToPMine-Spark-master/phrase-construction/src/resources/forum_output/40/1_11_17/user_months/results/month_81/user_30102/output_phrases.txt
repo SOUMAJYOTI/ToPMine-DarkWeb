@@ -1,0 +1,61 @@
+Topic 0:
+  problem:3.72
+  link:3.18
+  post:3.16
+  hours:2.32
+  sweat:2.29
+  ago confirmations:2.29
+  bug:2.29
+  update:2.29
+  resolve:2.29
+  log:2.29
+
+Topic 1:
+  unconformed transaction:4.65
+  move:4.07
+  hrs:3.93
+  wallet:3.81
+  times:3.68
+  worry:3.68
+  coin:2.30
+  clot:2.30
+  sandwich:2.30
+  outbound:2.30
+
+Topic 2:
+  blockchain:6.96
+  confirmations:5.77
+  deposit:5.14
+  url:4.66
+  enter:4.66
+  transaction:4.66
+  check:4.50
+  yesterday:4.40
+  concern:3.81
+  things:3.81
+
+Topic 3:
+  time:6.38
+  agora:6.07
+  captcha problem:4.85
+  dont:4.63
+  market:3.81
+  long:3.81
+  dhl:3.73
+  growing:3.73
+  buying:3.73
+  hell:3.73
+
+Topic 4:
+  min:7.02
+  marketplace:5.10
+  marketplace wallet:4.66
+  fast:4.66
+  satoshi:4.66
+  ag ab:4.66
+  block:4.66
+  ag:4.66
+  chain:4.66
+  ab ag:4.66
+
+K: 5, Log-Likelihood: -3542.130, Alpha: 11.000, Beta: 1.100

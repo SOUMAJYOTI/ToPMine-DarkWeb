@@ -1,0 +1,61 @@
+Topic 0:
+  message:2.23
+  fs:1.01
+  pip:0.99
+  nadab:0.97
+  ee:0.97
+  xce:0.97
+  kzyuaqtvlgudyziqex:0.97
+  rlvtrof:0.97
+  vmeudu:0.97
+  vd:0.97
+
+Topic 1:
+  len:51.96
+  key:32.73
+  submit:31.96
+  hashed:27.96
+  bits:23.96
+  created:23.96
+  packet:19.96
+  version:16.89
+  algo:15.96
+  digest:15.96
+
+Topic 2:
+  message:2.17
+  cp:1.98
+  ze:1.98
+  pip:1.02
+  oi:0.99
+  xkf:0.98
+  tea:0.98
+  dcniqmbwrklg:0.98
+  ilmyt:0.98
+  vx:0.98
+
+Topic 3:
+  public:2.26
+  pgp:2.14
+  block:2.01
+  key:1.62
+  gnupg:1.00
+  yp:1.00
+  ki:1.00
+  gykjuyg:0.98
+  rev:0.98
+  rrfhfra:0.98
+
+Topic 4:
+  vo:2.00
+  ft:1.99
+  public:1.99
+  sm:1.98
+  asa:1.98
+  hw:1.98
+  nw:1.98
+  pgp:1.95
+  block:1.95
+  key:1.47
+
+K: 5, Log-Likelihood: -6933.431, Alpha: 11.000, Beta: 1.100

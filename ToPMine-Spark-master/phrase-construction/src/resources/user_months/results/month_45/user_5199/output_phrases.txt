@@ -1,0 +1,61 @@
+Topic 0:
+  blackbank:0.20
+  mdma:0.18
+  stock:0.18
+  garden:0.18
+  lsd:0.18
+  majestic:0.18
+  alphabet:0.18
+  store:0.18
+  sr:0.18
+  long:0.18
+
+Topic 1:
+  blackbank:0.20
+  listings:0.18
+  oxygen:0.18
+  unable:0.18
+  long:0.18
+  alphabet:0.18
+  garden:0.18
+  lsd:0.18
+  thread:0.18
+  mdma:0.18
+
+Topic 2:
+  blackbank:0.20
+  alphabet:0.18
+  mdma:0.18
+  lsd:0.18
+  majestic:0.18
+  stock:0.18
+  sr:0.18
+  thread:0.18
+  garden:0.18
+  store:0.18
+
+Topic 3:
+  blackbank:0.20
+  long:0.18
+  unable:0.18
+  sr:0.18
+  oxygen:0.18
+  thread:0.18
+  listings:0.18
+  store:0.18
+  garden:0.18
+  majestic:0.18
+
+Topic 4:
+  blackbank:0.20
+  unable:0.18
+  stock:0.18
+  oxygen:0.18
+  alphabet:0.18
+  listings:0.18
+  lsd:0.18
+  long:0.18
+  majestic:0.18
+  thread:0.18
+
+K: 5, Log-Likelihood: -34.760, Alpha: 11.000, Beta: 1.100

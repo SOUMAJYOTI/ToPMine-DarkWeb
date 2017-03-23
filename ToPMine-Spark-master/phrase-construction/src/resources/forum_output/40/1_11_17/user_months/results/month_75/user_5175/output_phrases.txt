@@ -1,0 +1,61 @@
+Topic 0:
+  interested:0.16
+  late:0.16
+  time:0.08
+  response:0.08
+  weeks:0.08
+  received:0.08
+  info:0.08
+  verto:0.08
+  sal:0.08
+  injections:0.08
+
+Topic 1:
+  late:0.16
+  interested:0.16
+  evolution:0.08
+  thought:0.08
+  thread:0.08
+  mod:0.08
+  pm:0.08
+  verto:0.08
+  knew:0.08
+  weeks:0.08
+
+Topic 2:
+  late:0.16
+  interested:0.16
+  sal:0.08
+  message:0.08
+  nimble:0.08
+  time:0.08
+  weeks:0.08
+  thought:0.08
+  gp:0.08
+  bit:0.08
+
+Topic 3:
+  late:0.16
+  interested:0.16
+  hit:0.08
+  flawlessly:0.08
+  connections:0.08
+  true:0.08
+  exit:0.08
+  hard:0.08
+  people:0.08
+  scamming:0.08
+
+Topic 4:
+  interested:0.16
+  late:0.16
+  scamming:0.08
+  true:0.08
+  shame:0.08
+  connections:0.08
+  evo:0.08
+  exit:0.08
+  people:0.08
+  hit:0.08
+
+K: 5, Log-Likelihood: -48.014, Alpha: 11.000, Beta: 1.100

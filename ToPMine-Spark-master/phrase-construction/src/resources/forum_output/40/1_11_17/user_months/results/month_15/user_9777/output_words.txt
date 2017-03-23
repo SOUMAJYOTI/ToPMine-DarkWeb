@@ -1,0 +1,61 @@
+Topic 0:
+  funk:0.83
+  commit:0.40
+  people:0.40
+  awe:0.40
+  acid:0.40
+  eat:0.40
+  fuck:0.40
+  bathing:0.40
+  zzzzzzzzzzaaaaaaaaaaappppppppppp:0.40
+  alright:0.39
+
+Topic 1:
+  funk:0.82
+  bathing:0.40
+  acid:0.40
+  commit:0.40
+  alright:0.40
+  eat:0.40
+  people:0.40
+  fuck:0.40
+  awe:0.40
+  zzzzzzzzzzaaaaaaaaaaappppppppppp:0.40
+
+Topic 2:
+  funk:0.80
+  acid:0.40
+  eat:0.40
+  alright:0.40
+  people:0.40
+  bathing:0.40
+  fuck:0.40
+  zzzzzzzzzzaaaaaaaaaaappppppppppp:0.40
+  awe:0.40
+  commit:0.40
+
+Topic 3:
+  funk:0.76
+  zzzzzzzzzzaaaaaaaaaaappppppppppp:0.41
+  alright:0.41
+  awe:0.40
+  eat:0.40
+  fuck:0.40
+  bathing:0.40
+  commit:0.40
+  acid:0.40
+  people:0.40
+
+Topic 4:
+  funk:0.80
+  fuck:0.40
+  awe:0.40
+  people:0.40
+  zzzzzzzzzzaaaaaaaaaaappppppppppp:0.40
+  bathing:0.40
+  alright:0.40
+  commit:0.40
+  acid:0.40
+  eat:0.40
+
+K: 5, Log-Likelihood: -49.999, Alpha: 11.000, Beta: 1.100

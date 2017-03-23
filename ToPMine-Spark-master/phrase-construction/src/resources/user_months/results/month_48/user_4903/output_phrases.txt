@@ -1,0 +1,61 @@
+Topic 0:
+  fellow avengers waiting order:2.19
+  hey:2.18
+  tripping decade trips belt:2.18
+  wait post review sample:2.16
+  posted:1.90
+  current question click:1.56
+  point:1.56
+  future excited:1.56
+  pm error message:1.56
+  someones surname:1.56
+
+Topic 1:
+  pmhey:2.10
+  thier:2.07
+  button:2.05
+  terrantank:2.04
+  quote:1.54
+  reading posts weeks haven:1.49
+  majestic garden grateful place:1.44
+  message:1.39
+  someones surname pm error:1.36
+  click:1.32
+
+Topic 2:
+  don:1.26
+  ve:1.23
+  majestic garden grateful place:0.91
+  reading posts weeks haven:0.90
+  quote:0.85
+  posted:0.79
+  someones surname pm error:0.70
+  message:0.67
+  error message:0.64
+  forseeable future:0.63
+
+Topic 3:
+  mail:3.31
+  sellers:3.30
+  safely:3.30
+  bitcoins:1.51
+  connect:1.51
+  write:1.51
+  trade:1.51
+  sites:1.51
+  willy:1.51
+  anyperson:1.50
+
+Topic 4:
+  net:3.42
+  safe mail:3.38
+  email:1.59
+  replace:1.58
+  sigaint:1.58
+  op:1.58
+  recommendation:1.58
+  safe:1.58
+  javascript:1.57
+  pgp:0.84
+
+K: 5, Log-Likelihood: -899.777, Alpha: 11.000, Beta: 1.100

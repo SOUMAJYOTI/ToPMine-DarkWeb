@@ -1,0 +1,61 @@
+Topic 0:
+  rahojen:2.60
+  ytt:1.23
+  sanansa:1.23
+  lupasin:1.23
+  tililleni:1.23
+  nimimerkki:1.23
+  sullen:1.23
+  perille:1.23
+  kuitata:1.23
+  rahat:1.23
+
+Topic 1:
+  osa:0.71
+  ei:0.66
+  clos vai:0.59
+  btc:0.59
+  mutta:0.59
+  ei viel:0.48
+  pieni:0.48
+  kuin:0.47
+  augusta:0.47
+  kunnolla:0.47
+
+Topic 2:
+  oikein:2.66
+  kun:2.66
+  saa:1.31
+  olla:1.28
+  making:1.28
+  etsinyt:1.28
+  voisiko:1.28
+  lainen:1.28
+  vanhoja:1.28
+  rikkoi:1.28
+
+Topic 3:
+  osa:2.96
+  siirt:1.29
+  eiv:1.29
+  teitk:1.29
+  saisko:1.29
+  toimi viel:1.29
+  hyvin:1.28
+  koko:1.28
+  mit:1.28
+  likommenttia:1.28
+
+Topic 4:
+  tilille:1.58
+  coinit:1.26
+  viiveell:1.26
+  asia:1.26
+  ennenkuin:1.26
+  homma:1.26
+  hoiti:1.26
+  vitutti:1.26
+  skin:1.26
+  tuli:1.26
+
+K: 5, Log-Likelihood: -1177.069, Alpha: 11.000, Beta: 1.100

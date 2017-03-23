@@ -1,0 +1,61 @@
+Topic 0:
+  malware:21.16
+  nice:17.64
+  mint arch:16.16
+  files:15.72
+  dino:15.72
+  animal farm:15.72
+  hacking team:15.62
+  hard drives firmware:14.09
+  truecrypt team:14.09
+  virtual machines:14.08
+
+Topic 1:
+  mare island:31.45
+  denise huskins:31.45
+  ata password:28.19
+  huskins:23.59
+  muller:23.59
+  san francisco:19.66
+  quinn huskins:15.73
+  vallejo:15.73
+  abduction:15.73
+  proprietary firmware:15.72
+
+Topic 2:
+  bios:20.08
+  hard disk:18.41
+  hacking team:16.76
+  tails:15.52
+  vpn:14.47
+  notebook:13.94
+  install:13.64
+  system:12.16
+  bios rootkit:11.79
+  ipv:11.79
+
+Topic 3:
+  gass:39.32
+  registry:19.66
+  public wifi hotspot:19.65
+  law:17.95
+  software:16.75
+  state police:15.72
+  people:15.65
+  country:14.35
+  computer:14.18
+  tel aviv university:12.94
+
+Topic 4:
+  xkeyscore:100.26
+  traffic:27.64
+  data:27.50
+  documents:25.33
+  appids fingerprints:23.59
+  field sites:23.59
+  operations:19.66
+  systems administrators:19.66
+  analysts:19.61
+  top secret:17.63
+
+K: 5, Log-Likelihood: -204969.660, Alpha: 11.000, Beta: 1.100

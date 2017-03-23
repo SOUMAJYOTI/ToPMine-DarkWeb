@@ -1,0 +1,61 @@
+Topic 0:
+  exchange:18.96
+  coinbase:17.96
+  bitcoin:14.96
+  york:11.97
+  company:9.17
+  financial:5.98
+  state:5.98
+  laws:4.98
+  office:4.98
+  lawsky:4.98
+
+Topic 1:
+  key:9.67
+  public:4.84
+  search:4.66
+  article:4.54
+  engine:3.68
+  onion:3.60
+  read:3.43
+  tor:3.09
+  day:2.81
+  february:2.77
+
+Topic 2:
+  people:8.84
+  panacea:6.96
+  missy:3.96
+  scam:3.96
+  fleeced:3.96
+  repeatedly:3.96
+  coin:3.96
+  members:3.96
+  market:2.96
+  shit:2.86
+
+Topic 3:
+  tor:17.75
+  relays:8.45
+  network:7.70
+  lizard:5.97
+  kobeissi:4.97
+  squad:3.97
+  twitter:3.97
+  service:3.29
+  earlier:3.08
+  attacks:2.95
+
+Topic 4:
+  nsa:15.05
+  drives:9.94
+  hard:6.98
+  kaspersky:6.91
+  software:6.79
+  products:3.37
+  security:3.09
+  spyware:2.98
+  infected:2.98
+  deep:2.98
+
+K: 5, Log-Likelihood: -7854.703, Alpha: 11.000, Beta: 1.100

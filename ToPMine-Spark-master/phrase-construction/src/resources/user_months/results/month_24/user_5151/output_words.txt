@@ -1,0 +1,61 @@
+Topic 0:
+  safe:17.33
+  time:10.36
+  stay:8.52
+  agora:7.74
+  november:6.19
+  people:6.07
+  complaint:5.25
+  guys:5.15
+  orders:5.11
+  hosting:4.80
+
+Topic 1:
+  drugs:9.90
+  war:9.55
+  site:9.02
+  poor:7.86
+  criminal:7.13
+  tired:6.89
+  don:6.22
+  times:6.22
+  undercover:6.12
+  forum:5.83
+
+Topic 2:
+  sites:18.51
+  seized:14.18
+  hidden:8.58
+  smite:7.89
+  escobar:5.97
+  reason:5.89
+  markets:5.03
+  market:4.18
+  note:4.16
+  number:4.03
+
+Topic 3:
+  road:13.66
+  website:10.96
+  silk:9.14
+  shut:7.69
+  trust:7.15
+  benthall:6.43
+  hsi:5.63
+  times:5.09
+  support:4.90
+  blake:4.70
+
+Topic 4:
+  drugs:42.54
+  people:31.44
+  drug:16.15
+  society:13.26
+  public:11.37
+  guy:8.80
+  issue:7.97
+  folks:7.97
+  lsd:6.78
+  hiding:6.72
+
+K: 5, Log-Likelihood: -14547.731, Alpha: 11.000, Beta: 1.100

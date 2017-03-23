@@ -1,0 +1,61 @@
+Topic 0:
+  pm:1.16
+  easier:1.14
+  heard:1.14
+  feedback:1.13
+  bit:1.11
+  updated:1.11
+  navigate search:1.11
+  directory:0.89
+  deepify:0.80
+  april:0.78
+
+Topic 1:
+  site:2.21
+  navigate search:0.79
+  updated:0.79
+  bit:0.78
+  feedback:0.77
+  heard:0.76
+  easier:0.75
+  pm:0.75
+  checked:0.73
+  meant:0.72
+
+Topic 2:
+  site:2.46
+  slow:0.84
+  find:0.83
+  impressed:0.83
+  responsive:0.82
+  requires:0.82
+  impossible:0.82
+  checked:0.81
+  freedom:0.80
+  listings:0.80
+
+Topic 3:
+  site:2.84
+  people:0.90
+  responsive:0.89
+  requires:0.88
+  listings:0.88
+  meant:0.87
+  freedom:0.87
+  impressed:0.86
+  checked:0.85
+  slow:0.77
+
+Topic 4:
+  search:2.26
+  search good:1.58
+  publishing:1.58
+  updates:1.58
+  launched:1.58
+  minutes:1.57
+  lag:1.57
+  till:1.57
+  feedback idea:1.56
+  reassuring:1.46
+
+K: 5, Log-Likelihood: -905.390, Alpha: 11.000, Beta: 1.100

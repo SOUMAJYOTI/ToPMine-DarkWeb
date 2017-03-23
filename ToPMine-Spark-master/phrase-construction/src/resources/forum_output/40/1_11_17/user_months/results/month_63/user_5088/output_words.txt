@@ -1,0 +1,61 @@
+Topic 0:
+  accessible:8.92
+  clearnet:6.24
+  link:5.38
+  tor:4.85
+  google:4.77
+  weird:3.47
+  links:3.42
+  darknet:3.34
+  leads:2.42
+  semi:2.34
+
+Topic 1:
+  clearnet:10.16
+  tor:7.23
+  link:6.72
+  accessible:3.90
+  site:3.56
+  november:3.04
+  post:2.91
+  easily:2.90
+  public:2.90
+  publicly:2.90
+
+Topic 2:
+  forum:6.88
+  tor:3.10
+  garden:2.67
+  majestic:2.63
+  read:2.61
+  conspicuous:2.53
+  site:2.41
+  contents:2.25
+  posts:2.23
+  onion:2.22
+
+Topic 3:
+  tor:6.37
+  onion:3.88
+  browser:3.79
+  clearnet:3.77
+  site:3.41
+  forum:2.43
+  link:2.00
+  popular:1.82
+  quote:1.82
+  accessed:1.78
+
+Topic 4:
+  clearnet:5.01
+  accessible:3.91
+  link:3.52
+  reddit:3.38
+  google:2.61
+  scarf:2.60
+  tor:2.45
+  november:2.44
+  quote:2.25
+  forum:2.19
+
+K: 5, Log-Likelihood: -2464.480, Alpha: 11.000, Beta: 1.100

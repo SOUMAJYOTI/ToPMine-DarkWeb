@@ -1,0 +1,61 @@
+Topic 0:
+  crash:0.76
+  drivers:0.54
+  blue:0.37
+  file:0.37
+  bluescreenview:0.37
+  screen:0.37
+  check:0.37
+  pane:0.37
+  filename:0.37
+  caused:0.37
+
+Topic 1:
+  crash:2.37
+  drivers:1.35
+  minidump:0.83
+  displayed:0.83
+  details:0.83
+  bluescreenview:0.83
+  pane:0.83
+  check:0.82
+  displays:0.82
+  file:0.82
+
+Topic 2:
+  virus:1.15
+  tails:1.14
+  plugged:0.45
+  thought:0.45
+  appreciated:0.45
+  system:0.45
+  safe:0.45
+  hack:0.45
+  install:0.45
+  account:0.45
+
+Topic 3:
+  crash:0.56
+  crashing:0.48
+  drivers:0.38
+  crashes:0.31
+  screen:0.28
+  blue:0.28
+  displays:0.27
+  filename:0.27
+  caused:0.27
+  displayed:0.27
+
+Topic 4:
+  crash:0.70
+  crashing:0.41
+  drivers:0.37
+  crashes:0.30
+  screen:0.28
+  details:0.28
+  filename:0.28
+  caused:0.28
+  blue:0.28
+  check:0.27
+
+K: 5, Log-Likelihood: -494.353, Alpha: 11.000, Beta: 1.100

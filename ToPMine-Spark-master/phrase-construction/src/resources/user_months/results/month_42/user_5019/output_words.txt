@@ -1,0 +1,61 @@
+Topic 0:
+  money:4.84
+  sheep:2.88
+  marketplace:2.36
+  ji:2.21
+  people:1.83
+  house:1.66
+  ikovsk:1.53
+  article:1.39
+  info:0.99
+  time:0.98
+
+Topic 1:
+  people:3.72
+  justice:3.24
+  earlier:1.85
+  fall:1.81
+  long:1.60
+  info:1.57
+  stuff:1.54
+  heavy:1.49
+  yea:1.49
+  hand:1.49
+
+Topic 2:
+  money:58.50
+  marketplace:26.20
+  police:24.01
+  house:23.67
+  ikovsk:22.91
+  ji:22.12
+  sheep:17.87
+  catch:16.46
+  officers:16.19
+  bitcoins:15.47
+
+Topic 3:
+  marketplace:12.75
+  sheep:11.70
+  police:10.85
+  ji:9.95
+  money:9.47
+  bank:7.08
+  catch:6.64
+  ikovsk:6.61
+  note:6.42
+  house:5.83
+
+Topic 4:
+  report:2.11
+  btc:2.11
+  arrest:2.11
+  responsible:2.11
+  converting:1.91
+  history:1.91
+  clearnet:1.91
+  warning:1.91
+  link:1.91
+  extremely:1.91
+
+K: 5, Log-Likelihood: -10526.159, Alpha: 11.000, Beta: 1.100

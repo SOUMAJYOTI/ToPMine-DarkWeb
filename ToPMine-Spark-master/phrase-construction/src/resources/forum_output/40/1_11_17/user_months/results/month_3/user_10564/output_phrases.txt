@@ -1,0 +1,61 @@
+Topic 0:
+  support:0.48
+  resolved:0.33
+  buyer:0.30
+  learn:0.22
+  bitcoins:0.20
+  considered:0.19
+  fe:0.19
+  receive:0.19
+  grabbed:0.19
+  release:0.19
+
+Topic 1:
+  support:0.57
+  resolved:0.37
+  buyer:0.31
+  bitcoins:0.20
+  learn:0.20
+  refund:0.19
+  practices:0.19
+  vend:0.19
+  initials:0.19
+  emailing:0.19
+
+Topic 2:
+  support:0.56
+  resolved:0.38
+  buyer:0.31
+  bitcoins:0.20
+  learn:0.20
+  flaws:0.19
+  funds:0.19
+  stating:0.19
+  action:0.19
+  fine:0.19
+
+Topic 3:
+  support:0.56
+  resolved:0.37
+  buyer:0.31
+  bitcoins:0.20
+  learn:0.20
+  issue:0.18
+  update:0.18
+  vend:0.18
+  transaction:0.18
+  portion:0.18
+
+Topic 4:
+  support:0.59
+  resolved:0.38
+  buyer:0.31
+  bitcoins:0.20
+  learn:0.20
+  practices:0.19
+  edit:0.19
+  orders:0.19
+  deceitful:0.19
+  dls:0.19
+
+K: 5, Log-Likelihood: -266.848, Alpha: 11.000, Beta: 1.100

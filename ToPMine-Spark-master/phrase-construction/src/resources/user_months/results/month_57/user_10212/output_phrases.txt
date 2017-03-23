@@ -1,0 +1,61 @@
+Topic 0:
+  fe:4.96
+  good news:4.32
+  escrow:4.08
+  arrival:4.08
+  rolling:4.08
+  full:4.08
+  nice:4.08
+  package:4.08
+  weeks:4.08
+  ago:4.08
+
+Topic 1:
+  adbc august:4.46
+  coin:3.99
+  late order:3.49
+  meaning packs mentioned shipping:3.08
+  order marked shipped:3.06
+  pmagora recall correctly pack:2.81
+  wasn:2.78
+  quote:2.77
+  crow mention location lines:2.71
+  usual assume:2.53
+
+Topic 2:
+  today:5.17
+  updated:3.95
+  feedback:3.95
+  news:3.95
+  promising:3.94
+  pack shipped:3.94
+  big:3.94
+  eu:3.93
+  received today:3.93
+  landing:3.49
+
+Topic 3:
+  marked shipped:5.14
+  orders:3.63
+  order marked shipped:3.61
+  expect:3.55
+  day:3.51
+  today received:3.49
+  bunch:3.49
+  meaning packs mentioned shipping:2.88
+  quote mdmaster august pmquote:2.46
+  late order:2.45
+
+Topic 4:
+  removing locations posts rest:3.84
+  dean august pmquote:3.67
+  opinion:3.62
+  pmthis thread opsec:3.61
+  board major open failure:3.61
+  post info public private:3.61
+  bungee market forums:3.60
+  nightmaretotally agree remember:3.58
+  compromising:3.58
+  suggested buyers:3.57
+
+K: 5, Log-Likelihood: -2097.787, Alpha: 11.000, Beta: 1.100

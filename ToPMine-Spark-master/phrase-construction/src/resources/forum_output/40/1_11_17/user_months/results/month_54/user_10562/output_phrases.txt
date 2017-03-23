@@ -1,0 +1,61 @@
+Topic 0:
+  physical control:6.64
+  case:5.61
+  dont:4.63
+  sr:4.12
+  encrypt linus web server:3.68
+  btc:3.59
+  data:3.56
+  klosterbier:3.30
+  sound:3.30
+  sucked:3.30
+
+Topic 1:
+  masternodes:12.43
+  privacy:10.36
+  monero:9.93
+  issues:8.28
+  academy:6.20
+  zkp:6.20
+  darkcoin:6.20
+  ring:6.20
+  ring signature:6.20
+  issue:6.20
+
+Topic 2:
+  javascript:6.19
+  user:5.70
+  monero:5.05
+  fucked:4.11
+  attacker:4.11
+  fancy:4.11
+  onion:4.11
+  require:4.11
+  encrypted:4.11
+  project:4.11
+
+Topic 3:
+  quote:3.68
+  hugs:3.28
+  serveryou:3.28
+  encrypt linus web:3.28
+  answers:3.28
+  chemmy:3.28
+  pmdo:3.28
+  startpage:3.28
+  search:3.28
+  alot alot:3.28
+
+Topic 4:
+  dash:3.74
+  vendor:3.26
+  bought:2.03
+  grade:2.03
+  existence:2.03
+  buyers:2.03
+  darksand:2.03
+  offer:2.03
+  ignore:2.03
+  anonymity:2.03
+
+K: 5, Log-Likelihood: -10209.980, Alpha: 11.000, Beta: 1.100

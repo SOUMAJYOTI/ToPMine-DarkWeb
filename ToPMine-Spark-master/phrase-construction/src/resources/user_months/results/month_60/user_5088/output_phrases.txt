@@ -1,0 +1,61 @@
+Topic 0:
+  scarf:5.62
+  quote:4.79
+  november:3.89
+  sense:3.89
+  swiss:3.89
+  dim:3.89
+  bliss:3.89
+  ggs:3.89
+  admit:3.89
+  jhannm:3.89
+
+Topic 1:
+  site:6.70
+  tor:6.32
+  gamma:5.42
+  regular browser connected tor:5.40
+  explain forum accessed link:5.39
+  matter linking facebook profiles:5.25
+  tor gateway accessible clearnet:5.22
+  onion accessible publicly public:5.19
+  places people post links:5.19
+  clearnet link leads:5.16
+
+Topic 2:
+  forum:7.89
+  top:3.90
+  hey:3.90
+  wtf:3.90
+  accessible google:3.90
+  remember:3.90
+  forum read:3.90
+  brings:3.90
+  thought darknet:3.90
+  directly:3.90
+
+Topic 3:
+  phishing:4.42
+  link regular browser connected:3.90
+  basically:3.90
+  html user:3.90
+  user log:3.90
+  explain forum accessed:3.90
+  watermark:3.90
+  copy:3.90
+  websites:3.90
+  pmgamma:3.90
+
+Topic 4:
+  accessible tor:7.70
+  google:5.59
+  hidden service easily pop:5.00
+  difference:3.75
+  imposter:3.75
+  clearnet link:3.75
+  slight:3.74
+  links:3.74
+  notice:3.74
+  weird semi popular:3.29
+
+K: 5, Log-Likelihood: -2462.614, Alpha: 11.000, Beta: 1.100

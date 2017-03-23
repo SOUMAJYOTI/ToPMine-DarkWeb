@@ -1,0 +1,61 @@
+Topic 0:
+  ja:3.88
+  ei:2.02
+  iv:1.78
+  euroa:1.78
+  ku:1.78
+  silkkitien:1.78
+  kautta:1.39
+  tapahtui:0.80
+  joutui:0.80
+  varasto:0.80
+
+Topic 1:
+  ll:1.98
+  lis:1.82
+  ksi:1.03
+  viel:1.03
+  viikolla:1.01
+  kautta:1.01
+  tulossa:0.99
+  mutta:0.93
+  saadaqan:0.85
+  kiitos:0.85
+
+Topic 2:
+  pit:1.01
+  mutta:0.88
+  siell:0.75
+  mielell:0.61
+  tarvi:0.61
+  uudestaan:0.61
+  hinnalla:0.61
+  kattelin:0.61
+  kun:0.61
+  asia:0.61
+
+Topic 3:
+  mutta:0.94
+  pit:0.65
+  kautta:0.53
+  siell:0.49
+  ll:0.44
+  ja:0.42
+  ksi:0.42
+  viel:0.41
+  tulossa:0.41
+  ei:0.41
+
+Topic 4:
+  ll:2.12
+  lis:1.82
+  mutta:0.96
+  tulossa:0.94
+  viikolla:0.92
+  viel:0.90
+  ksi:0.89
+  etuk:0.88
+  netting:0.88
+  tyy:0.88
+
+K: 5, Log-Likelihood: -1066.435, Alpha: 11.000, Beta: 1.100

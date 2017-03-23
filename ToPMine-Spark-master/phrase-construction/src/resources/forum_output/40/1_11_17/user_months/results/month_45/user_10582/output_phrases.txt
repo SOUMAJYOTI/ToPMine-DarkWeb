@@ -1,0 +1,61 @@
+Topic 0:
+  private:1.81
+  orifices:1.70
+  dude:1.70
+  assiest:1.70
+  helps:1.70
+  useless:1.70
+  ways:1.70
+  suite:1.70
+  hope:1.70
+  space:1.70
+
+Topic 1:
+  gpg win export:1.65
+  import public key:1.65
+  gog usb:1.64
+  manage private keys keyring:1.64
+  pvt key:1.64
+  pvt key gpg:1.62
+  export fine txt file:1.61
+  account:1.42
+  private account gog usb:1.42
+  multiply private keys buyers:1.42
+
+Topic 2:
+  therego:0.94
+  click:0.93
+  keys:0.93
+  file import:0.93
+  highlight:0.92
+  backup:0.91
+  saves:0.91
+  pmbtw hell photo zaphod:0.82
+  zaphod:0.76
+  zaphon beeblebrox tv series:0.74
+
+Topic 3:
+  secret keys:7.05
+  command:5.26
+  quote digitaldong june:4.97
+  open:3.47
+  prompt:3.47
+  play:1.68
+  absolute:1.68
+  return:1.68
+  black:1.68
+  hit:1.68
+
+Topic 4:
+  june pmquote digitaldong june:2.53
+  betelegeuse die asphyxiation deep:2.51
+  times stuck vogon airlock:2.50
+  space listened mother told:2.46
+  pmbtw hell photo zaphod:2.31
+  quote:2.18
+  june:2.17
+  pack:2.17
+  amquote:2.14
+  zaphod:1.97
+
+K: 5, Log-Likelihood: -1443.658, Alpha: 11.000, Beta: 1.100

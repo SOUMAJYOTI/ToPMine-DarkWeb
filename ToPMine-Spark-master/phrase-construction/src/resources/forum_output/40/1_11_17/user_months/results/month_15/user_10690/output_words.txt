@@ -1,0 +1,61 @@
+Topic 0:
+  message:1.89
+  reply:1.42
+  click:0.98
+  isnt:0.83
+  appears:0.80
+  pseudonym:0.79
+  delete:0.79
+  access:0.77
+  friend:0.77
+  recipient:0.76
+
+Topic 1:
+  reply:1.49
+  message:1.46
+  appears:0.87
+  click:0.85
+  friend:0.78
+  pseudonym:0.75
+  isnt:0.74
+  access:0.74
+  person:0.73
+  recipient:0.71
+
+Topic 2:
+  message:1.72
+  reply:1.37
+  click:1.05
+  delete:0.94
+  read:0.93
+  recipient:0.93
+  appears:0.87
+  pseudonym:0.86
+  access:0.85
+  determine:0.83
+
+Topic 3:
+  reply:1.46
+  message:1.35
+  click:1.03
+  access:0.84
+  friend:0.82
+  isnt:0.79
+  pseudonym:0.78
+  recipient:0.74
+  read:0.74
+  delete:0.71
+
+Topic 4:
+  message:1.59
+  reply:1.26
+  click:1.09
+  read:0.88
+  delete:0.87
+  recipient:0.86
+  friend:0.85
+  isnt:0.84
+  pseudonym:0.83
+  access:0.80
+
+K: 5, Log-Likelihood: -620.986, Alpha: 11.000, Beta: 1.100

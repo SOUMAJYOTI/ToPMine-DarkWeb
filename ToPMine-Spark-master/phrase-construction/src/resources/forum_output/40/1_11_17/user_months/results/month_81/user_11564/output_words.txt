@@ -1,0 +1,61 @@
+Topic 0:
+  tx:0.79
+  seller:0.40
+  number:0.40
+  generated:0.40
+  transaction:0.40
+  buyer:0.40
+  publicly:0.40
+  good:0.20
+  scrutinibble:0.20
+  unique:0.20
+
+Topic 1:
+  tx:0.82
+  transaction:0.40
+  number:0.40
+  generated:0.40
+  seller:0.40
+  buyer:0.40
+  publicly:0.40
+  convincing:0.20
+  setup:0.20
+  buyers:0.20
+
+Topic 2:
+  tx:0.81
+  generated:0.40
+  number:0.40
+  seller:0.40
+  buyer:0.40
+  transaction:0.40
+  publicly:0.40
+  lucky:0.20
+  sr:0.20
+  work:0.20
+
+Topic 3:
+  tx:0.80
+  publicly:0.41
+  buyer:0.40
+  transaction:0.40
+  generated:0.40
+  number:0.40
+  seller:0.39
+  result:0.20
+  lottery:0.20
+  setup:0.20
+
+Topic 4:
+  tx:0.77
+  buyer:0.40
+  seller:0.40
+  generated:0.40
+  publicly:0.40
+  transaction:0.40
+  number:0.40
+  vendors:0.20
+  random:0.20
+  problem:0.20
+
+K: 5, Log-Likelihood: -167.333, Alpha: 11.000, Beta: 1.100

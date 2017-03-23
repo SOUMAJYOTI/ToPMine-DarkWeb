@@ -1,0 +1,61 @@
+Topic 0:
+  pink:0.61
+  floyd:0.60
+  hope:0.57
+  brother:0.55
+  mind:0.43
+  things:0.37
+  great:0.36
+  echoes:0.36
+  time:0.36
+  long:0.36
+
+Topic 1:
+  floyd:0.60
+  pink:0.60
+  brother:0.49
+  hope:0.49
+  mind:0.44
+  great:0.34
+  echoes:0.34
+  things:0.34
+  long:0.33
+  time:0.33
+
+Topic 2:
+  brother:0.90
+  hope:0.87
+  pink:0.61
+  floyd:0.60
+  time:0.60
+  long:0.60
+  echoes:0.58
+  great:0.58
+  things:0.57
+  vendors:0.31
+
+Topic 3:
+  hope:0.62
+  floyd:0.61
+  brother:0.61
+  pink:0.61
+  things:0.41
+  time:0.41
+  long:0.41
+  echoes:0.40
+  great:0.40
+  mind:0.40
+
+Topic 4:
+  floyd:0.59
+  pink:0.57
+  brother:0.45
+  hope:0.45
+  mind:0.45
+  things:0.31
+  echoes:0.31
+  great:0.31
+  long:0.30
+  time:0.30
+
+K: 5, Log-Likelihood: -378.082, Alpha: 11.000, Beta: 1.100

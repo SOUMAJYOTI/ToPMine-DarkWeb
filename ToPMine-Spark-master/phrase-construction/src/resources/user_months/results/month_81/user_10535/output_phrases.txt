@@ -1,0 +1,61 @@
+Topic 0:
+  tang:0.66
+  tails:0.59
+  coin:0.57
+  dash:0.51
+  seedofchaos january:0.44
+  eyes:0.43
+  paycoins:0.42
+  hodling:0.41
+  january:0.39
+  moon:0.39
+
+Topic 1:
+  coin:0.59
+  tails:0.59
+  tang:0.54
+  dash:0.54
+  seedofchaos january:0.43
+  eyes:0.42
+  moon:0.40
+  hodling:0.40
+  paycoins:0.39
+  worthy:0.39
+
+Topic 2:
+  coin:0.63
+  tails:0.56
+  dash:0.56
+  tang:0.49
+  room:0.41
+  innovation:0.41
+  box:0.41
+  works:0.41
+  read:0.41
+  branded:0.41
+
+Topic 3:
+  dash:0.63
+  tang:0.57
+  coin:0.54
+  shadow:0.45
+  ltc:0.45
+  btc:0.45
+  tails:0.45
+  january:0.44
+  eyes:0.43
+  hodling:0.41
+
+Topic 4:
+  coin:0.62
+  tails:0.59
+  dash:0.54
+  tang:0.51
+  seedofchaos january:0.41
+  eyes:0.40
+  coins:0.40
+  clone:0.40
+  wanted:0.40
+  fundamentally:0.40
+
+K: 5, Log-Likelihood: -446.606, Alpha: 11.000, Beta: 1.100

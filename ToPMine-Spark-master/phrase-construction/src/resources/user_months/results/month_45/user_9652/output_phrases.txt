@@ -1,0 +1,61 @@
+Topic 0:
+  factorize:0.64
+  reasonable time:0.43
+  find secret key:0.43
+  number:0.42
+  works:0.40
+  doesnt:0.36
+  doesn:0.35
+  safe:0.21
+  find secret number:0.21
+  hard:0.21
+
+Topic 1:
+  factorize:0.62
+  number:0.41
+  reasonable time:0.41
+  works:0.41
+  find secret key:0.41
+  doesnt:0.37
+  doesn:0.37
+  multiply mod:0.20
+  hard:0.20
+  secret number:0.20
+
+Topic 2:
+  factorize:0.61
+  works:0.42
+  find secret key:0.40
+  reasonable time:0.40
+  number:0.40
+  doesnt:0.37
+  doesn:0.37
+  fun:0.21
+  mod:0.21
+  multiply mathematics:0.21
+
+Topic 3:
+  factorize:0.58
+  works:0.42
+  reasonable time:0.39
+  find secret key:0.39
+  number:0.39
+  doesn:0.38
+  doesnt:0.37
+  message encrypt:0.21
+  multiplied:0.21
+  length:0.21
+
+Topic 4:
+  factorize:0.61
+  number:0.42
+  find secret key:0.42
+  reasonable time:0.41
+  works:0.40
+  doesnt:0.37
+  doesn:0.36
+  human:0.21
+  multiply mod:0.21
+  easy:0.21
+
+K: 5, Log-Likelihood: -314.922, Alpha: 11.000, Beta: 1.100

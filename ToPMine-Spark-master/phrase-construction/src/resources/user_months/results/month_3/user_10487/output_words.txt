@@ -1,0 +1,61 @@
+Topic 0:
+  ships:0.61
+  sign:0.60
+  canada:0.41
+  vendor:0.40
+  understand:0.40
+  breaker:0.20
+  confirmed:0.20
+  personally:0.20
+  received:0.20
+  deal:0.20
+
+Topic 1:
+  ships:0.62
+  sign:0.58
+  vendor:0.41
+  canada:0.40
+  understand:0.40
+  fast:0.20
+  house:0.20
+  complete:0.20
+  pgp:0.20
+  everytime:0.20
+
+Topic 2:
+  sign:0.62
+  ships:0.56
+  understand:0.40
+  vendor:0.40
+  canada:0.39
+  thinking:0.20
+  plata:0.20
+  pod:0.20
+  appreciated:0.20
+  ordering:0.20
+
+Topic 3:
+  ships:0.63
+  sign:0.60
+  canada:0.40
+  understand:0.40
+  vendor:0.39
+  breaker:0.20
+  people:0.20
+  received:0.20
+  personally:0.20
+  read:0.20
+
+Topic 4:
+  sign:0.60
+  ships:0.57
+  understand:0.40
+  vendor:0.40
+  canada:0.40
+  searched:0.20
+  info:0.20
+  forums:0.20
+  ive:0.20
+  experience:0.20
+
+K: 5, Log-Likelihood: -230.044, Alpha: 11.000, Beta: 1.100

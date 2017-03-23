@@ -1,0 +1,61 @@
+Topic 0:
+  ace:0.60
+  barry:0.41
+  pizza:0.40
+  free:0.40
+  mixed:0.21
+  knowing:0.21
+  safe:0.21
+  feelings:0.21
+  stay:0.21
+  fun:0.21
+
+Topic 1:
+  ace:0.60
+  free:0.40
+  pizza:0.40
+  barry:0.39
+  morocco:0.20
+  farmers:0.20
+  eyes:0.20
+  love:0.20
+  helping:0.20
+  kind:0.20
+
+Topic 2:
+  ace:0.61
+  pizza:0.39
+  free:0.39
+  barry:0.39
+  village:0.20
+  compassion:0.20
+  eyes:0.20
+  tears:0.20
+  love:0.20
+  sells:0.20
+
+Topic 3:
+  ace:0.59
+  barry:0.42
+  pizza:0.41
+  free:0.41
+  knowing:0.21
+  mixed:0.21
+  crew:0.21
+  folks:0.21
+  worth:0.21
+  fun:0.21
+
+Topic 4:
+  ace:0.61
+  free:0.40
+  pizza:0.40
+  barry:0.39
+  compassion:0.20
+  shining:0.20
+  tears:0.20
+  poor:0.20
+  hearted:0.20
+  sells:0.20
+
+K: 5, Log-Likelihood: -178.512, Alpha: 11.000, Beta: 1.100

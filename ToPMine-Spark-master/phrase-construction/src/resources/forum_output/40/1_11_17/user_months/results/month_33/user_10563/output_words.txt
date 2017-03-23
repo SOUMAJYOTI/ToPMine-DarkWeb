@@ -1,0 +1,61 @@
+Topic 0:
+  lies:0.95
+  nsa:0.66
+  quote:0.51
+  news:0.51
+  story:0.44
+  dont:0.44
+  investigation:0.44
+  embarrassing:0.44
+  believed:0.44
+  bits:0.44
+
+Topic 1:
+  news:0.65
+  lies:0.64
+  nsa:0.63
+  agency:0.36
+  click:0.36
+  leaks:0.35
+  consequential:0.35
+  delivered:0.35
+  embarrassing:0.35
+  tid:0.35
+
+Topic 2:
+  lies:0.77
+  nsa:0.60
+  news:0.60
+  quote:0.41
+  leaks:0.41
+  pr:0.41
+  consequential:0.41
+  click:0.41
+  leak:0.41
+  agency:0.41
+
+Topic 3:
+  lies:0.87
+  nsa:0.56
+  news:0.56
+  campaigns:0.42
+  tid:0.41
+  delivered:0.41
+  sources:0.41
+  leaked:0.41
+  dishonest:0.41
+  pr:0.41
+
+Topic 4:
+  lies:0.77
+  news:0.69
+  nsa:0.55
+  bits:0.39
+  links:0.39
+  campaigns:0.39
+  dishonest:0.39
+  embarrassing:0.39
+  tid:0.39
+  investigation:0.39
+
+K: 5, Log-Likelihood: -492.268, Alpha: 11.000, Beta: 1.100

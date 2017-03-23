@@ -1,0 +1,61 @@
+Topic 0:
+  time:0.96
+  kindest:0.96
+  regardsrp:0.94
+  signed:0.81
+  yeah:0.81
+  verified:0.81
+  message:0.81
+  replies:0.81
+  difficult:0.81
+  sort:0.80
+
+Topic 1:
+  copied:3.06
+  score:3.06
+  sheep srv:3.06
+  websites:3.06
+  messages:3.06
+  perfect:3.06
+  top:3.06
+  srv:3.06
+  bmr:2.25
+  valuable:1.46
+
+Topic 2:
+  website:0.89
+  forum:0.89
+  elpresidentes:0.88
+  community:0.88
+  essential:0.88
+  tool:0.88
+  ive:0.88
+  matter:0.60
+  replies:0.60
+  message:0.59
+
+Topic 3:
+  safe:2.53
+  confirm:1.55
+  eventually:1.54
+  pip:1.54
+  happen:1.53
+  admins:1.53
+  phishing:1.52
+  knew:1.52
+  vendor names:1.52
+  public:1.52
+
+Topic 4:
+  pharma:4.70
+  agora:3.09
+  ukpharma:3.09
+  space:3.09
+  seller:3.09
+  feedback:3.09
+  good:1.48
+  youll:1.48
+  allowing:1.48
+  years:1.48
+
+K: 5, Log-Likelihood: -1010.725, Alpha: 11.000, Beta: 1.100

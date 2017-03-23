@@ -1,0 +1,61 @@
+Topic 0:
+  tide:0.00
+  game:0.00
+  called:0.00
+  aspects:0.00
+  lifetime:0.00
+  turn:0.00
+  good:0.00
+  slanted:0.00
+  btc:0.00
+  weapon:0.00
+
+Topic 1:
+  tide:0.00
+  game:0.00
+  called:0.00
+  aspects:0.00
+  lifetime:0.00
+  turn:0.00
+  good:0.00
+  slanted:0.00
+  btc:0.00
+  weapon:0.00
+
+Topic 2:
+  tide:0.00
+  game:0.00
+  called:0.00
+  aspects:0.00
+  lifetime:0.00
+  turn:0.00
+  good:0.00
+  slanted:0.00
+  btc:0.00
+  weapon:0.00
+
+Topic 3:
+  tide:0.00
+  game:0.00
+  called:0.00
+  aspects:0.00
+  lifetime:0.00
+  turn:0.00
+  good:0.00
+  slanted:0.00
+  btc:0.00
+  weapon:0.00
+
+Topic 4:
+  tide:0.00
+  game:0.00
+  called:0.00
+  aspects:0.00
+  lifetime:0.00
+  turn:0.00
+  good:0.00
+  slanted:0.00
+  btc:0.00
+  weapon:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

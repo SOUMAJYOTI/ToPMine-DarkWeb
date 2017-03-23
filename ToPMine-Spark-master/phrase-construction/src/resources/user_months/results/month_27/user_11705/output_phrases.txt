@@ -1,0 +1,61 @@
+Topic 0:
+  raffles:2.38
+  disqualified:2.27
+  participating:2.27
+  quote evilgrin:2.23
+  december ami:1.69
+  things:1.67
+  drug:1.67
+  unreal:1.67
+  drug distribution networks:1.67
+  sucking:1.67
+
+Topic 1:
+  evolution market:3.46
+  market:1.63
+  agra:1.63
+  robbed:1.63
+  posted:1.63
+  reason:1.63
+  dare:1.63
+  encryption:1.62
+  controlled:1.62
+  dont:1.62
+
+Topic 2:
+  banned:3.05
+  hermes:1.64
+  quote:1.53
+  super:1.29
+  yeah:1.29
+  amevilgrin:1.29
+  eve:1.29
+  december:1.02
+  red:0.79
+  distribution networks:0.60
+
+Topic 3:
+  evolution:2.22
+  marketplace:2.22
+  scam:2.20
+  fact:2.20
+  thinking:2.20
+  big:2.20
+  main:2.18
+  evidense:2.18
+  deadline:2.18
+  matter:2.17
+
+Topic 4:
+  december:1.36
+  lulz:1.27
+  amour:1.26
+  verdelimon:1.26
+  fema:1.13
+  camp:1.10
+  list:1.09
+  distribution networks:1.01
+  fuckin:1.00
+  quote:0.94
+
+K: 5, Log-Likelihood: -749.330, Alpha: 11.000, Beta: 1.100

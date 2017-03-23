@@ -1,0 +1,61 @@
+Topic 0:
+  december:0.98
+  quote:0.96
+  evolution:0.82
+  live:0.73
+  drug:0.68
+  ami:0.60
+  banned:0.59
+  evilgrin:0.55
+  networks:0.55
+  underground:0.55
+
+Topic 1:
+  drug:1.12
+  december:1.08
+  quote:1.06
+  live:0.90
+  amazing:0.76
+  networks:0.75
+  distribution:0.75
+  online:0.75
+  underground:0.74
+  raffles:0.74
+
+Topic 2:
+  quote:1.08
+  december:1.00
+  live:0.83
+  evolution:0.76
+  drug:0.76
+  ami:0.62
+  online:0.61
+  distribution:0.60
+  underground:0.60
+  raffles:0.60
+
+Topic 3:
+  december:1.04
+  quote:1.01
+  evolution:0.78
+  live:0.78
+  drug:0.71
+  ami:0.62
+  banned:0.61
+  online:0.56
+  underground:0.56
+  evilgrin:0.55
+
+Topic 4:
+  evolution:1.04
+  market:1.02
+  december:0.90
+  quote:0.90
+  live:0.76
+  drug:0.73
+  banned:0.59
+  evilgrin:0.58
+  amazing:0.56
+  raffles:0.56
+
+K: 5, Log-Likelihood: -571.346, Alpha: 11.000, Beta: 1.100

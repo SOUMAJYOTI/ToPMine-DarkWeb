@@ -1,0 +1,61 @@
+Topic 0:
+  bitcurex:10.86
+  order:4.08
+  konta:3.86
+  send:3.86
+  digital:3.86
+  future:3.86
+  prosimy:2.87
+  serwisie:2.87
+  documents:2.87
+  message:2.87
+
+Topic 1:
+  bank:3.91
+  anonymous:2.21
+  accounts:1.94
+  quote:1.14
+  account:1.06
+  mrdoe:0.95
+  offshore:0.91
+  datas:0.81
+  counterfeit:0.80
+  exist:0.80
+
+Topic 2:
+  bank:2.57
+  accounts:2.23
+  anonymous:2.04
+  account:1.93
+  quote:0.87
+  care:0.77
+  mrdoe:0.71
+  offshore:0.71
+  photoshop:0.58
+  exist:0.57
+
+Topic 3:
+  quote:2.53
+  bank:2.26
+  offshore:2.03
+  good:1.74
+  june:1.28
+  mrdoe:1.18
+  friend:0.98
+  uploaded:0.96
+  long:0.95
+  pdf:0.90
+
+Topic 4:
+  june:9.85
+  boogie:8.62
+  pdf:6.45
+  amquote:5.41
+  ant:4.15
+  brilliant:3.42
+  ago:3.41
+  offshore:3.33
+  long:3.30
+  uploaded:3.30
+
+K: 5, Log-Likelihood: -2115.006, Alpha: 11.000, Beta: 1.100

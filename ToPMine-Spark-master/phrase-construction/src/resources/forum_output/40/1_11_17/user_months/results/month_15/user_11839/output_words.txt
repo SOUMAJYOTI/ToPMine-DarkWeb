@@ -1,0 +1,61 @@
+Topic 0:
+  familiar:0.61
+  products:0.41
+  nyms:0.40
+  account:0.40
+  longer:0.40
+  area:0.39
+  quote:0.20
+  trc:0.20
+  surname:0.20
+  amounts:0.20
+
+Topic 1:
+  familiar:0.59
+  area:0.41
+  products:0.39
+  nyms:0.39
+  account:0.39
+  longer:0.39
+  good:0.21
+  uzi:0.21
+  places:0.21
+  firearms:0.21
+
+Topic 2:
+  familiar:0.62
+  longer:0.41
+  account:0.41
+  nyms:0.41
+  products:0.41
+  area:0.39
+  trc:0.20
+  amreally:0.20
+  june:0.20
+  shop:0.20
+
+Topic 3:
+  familiar:0.61
+  longer:0.40
+  account:0.40
+  products:0.40
+  nyms:0.40
+  area:0.39
+  deleted:0.20
+  shop:0.20
+  quote:0.20
+  negative:0.20
+
+Topic 4:
+  familiar:0.58
+  area:0.41
+  nyms:0.40
+  account:0.40
+  longer:0.39
+  products:0.39
+  selling:0.20
+  kind:0.20
+  start:0.20
+  uzi:0.20
+
+K: 5, Log-Likelihood: -132.821, Alpha: 11.000, Beta: 1.100

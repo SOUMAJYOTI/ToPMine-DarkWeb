@@ -1,0 +1,61 @@
+Topic 0:
+  link:0.60
+  vendor:0.40
+  confirmed:0.20
+  free:0.20
+  markets:0.20
+  goods:0.20
+  shop:0.20
+  marketplace:0.20
+  redacted:0.20
+  blue:0.20
+
+Topic 1:
+  link:0.60
+  vendor:0.40
+  verified:0.20
+  captain:0.20
+  blue:0.20
+  opened:0.20
+  advertise:0.20
+  marketplace:0.20
+  inform:0.20
+  sky:0.20
+
+Topic 2:
+  link:0.61
+  vendor:0.40
+  free:0.20
+  happy:0.20
+  captain:0.20
+  inform:0.20
+  blue:0.20
+  shop:0.20
+  jack:0.20
+  opened:0.20
+
+Topic 3:
+  link:0.60
+  vendor:0.40
+  happy:0.20
+  opened:0.20
+  jack:0.20
+  captain:0.20
+  shop:0.20
+  verified:0.20
+  goods:0.20
+  redacted:0.20
+
+Topic 4:
+  link:0.60
+  vendor:0.40
+  free:0.20
+  advertise:0.20
+  sky:0.20
+  markets:0.20
+  jack:0.20
+  confirmed:0.20
+  marketplace:0.20
+  redacted:0.20
+
+K: 5, Log-Likelihood: -59.347, Alpha: 11.000, Beta: 1.100

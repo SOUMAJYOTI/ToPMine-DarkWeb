@@ -1,0 +1,61 @@
+Topic 0:
+  play:7.17
+  tether:7.15
+  tv:6.16
+  hansa:6.13
+  russian:6.10
+  vendors:5.50
+  site:5.33
+  based:5.33
+  didnt memory:5.33
+  type:5.33
+
+Topic 1:
+  bitcoins:9.32
+  sr:7.13
+  running valhalla:7.12
+  budmail biz:7.04
+  aka silk kittie market:7.04
+  quote:6.39
+  lead:6.21
+  currencies:6.21
+  digital:6.21
+  reserve:6.21
+
+Topic 2:
+  moved onion:14.05
+  sr:12.25
+  market:11.84
+  private:9.33
+  forum:9.33
+  drugs allowed:9.33
+  late:9.33
+  rc forum:8.29
+  market bmr:6.37
+  tfm:6.22
+
+Topic 3:
+  ovdb:14.72
+  ovdb shut:14.32
+  speaker:13.46
+  labs:10.81
+  sand labs:10.81
+  forums:9.44
+  time remember sr subforum:8.10
+  didnt shut sr shut:8.10
+  drug forum:8.10
+  remember:7.04
+
+Topic 4:
+  link:13.06
+  onion:10.29
+  continue address server ready:9.62
+  address doesn work:8.08
+  foa au pul:7.59
+  direct link st time:7.20
+  verification message alphabet market:7.20
+  server downserver maintenance multiply:7.20
+  hubs alphabet market:7.20
+  moment alpha bay account:7.20
+
+K: 5, Log-Likelihood: -13731.965, Alpha: 11.000, Beta: 1.100

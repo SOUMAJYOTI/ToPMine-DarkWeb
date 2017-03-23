@@ -1,0 +1,61 @@
+Topic 0:
+  mutta:0.60
+  linkki:0.40
+  siihen:0.39
+  rm:0.39
+  joo:0.20
+  yritt:0.20
+  rahasta:0.20
+  ysin:0.20
+  jonkunlaisen:0.20
+  googlailla:0.20
+
+Topic 1:
+  mutta:0.61
+  linkki:0.39
+  siihen:0.38
+  rm:0.38
+  asiakaspalvelusta:0.20
+  oon:0.20
+  thorlaudalta:0.20
+  itekki:0.20
+  ohjeen:0.20
+  vi:0.20
+
+Topic 2:
+  mutta:0.65
+  linkki:0.38
+  siihen:0.36
+  rm:0.36
+  oon:0.21
+  googlailla:0.21
+  kyselly:0.21
+  psa:0.21
+  vi:0.21
+  ja:0.21
+
+Topic 3:
+  mutta:0.54
+  rm:0.48
+  siihen:0.47
+  linkki:0.43
+  eik:0.22
+  joskus:0.22
+  linkkaan:0.22
+  amlaitas:0.22
+  kk:0.22
+  eijaksa:0.22
+
+Topic 4:
+  mutta:0.60
+  linkki:0.40
+  rm:0.39
+  siihen:0.39
+  asiakaspalvelusta:0.20
+  ysin:0.20
+  itekki:0.20
+  ohjeen:0.20
+  psa:0.20
+  jonkunlaisen:0.20
+
+K: 5, Log-Likelihood: -163.966, Alpha: 11.000, Beta: 1.100

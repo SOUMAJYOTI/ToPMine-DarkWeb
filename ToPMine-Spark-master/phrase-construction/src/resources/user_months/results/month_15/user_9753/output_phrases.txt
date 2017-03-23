@@ -1,0 +1,61 @@
+Topic 0:
+  find:3.72
+  thing:3.20
+  fraction:3.20
+  point place:3.20
+  marketplaces:3.20
+  people interested:3.20
+  dirty:3.20
+  huge:3.20
+  imo:3.20
+  case:3.20
+
+Topic 1:
+  gammagoblin:3.04
+  messages:3.04
+  quote:2.94
+  june:2.93
+  avoid:1.96
+  glad:1.96
+  bv:1.96
+  blue:1.96
+  amprivate:1.96
+  dmawesome:1.96
+
+Topic 2:
+  resolve:6.12
+  bitcoins:4.02
+  forums:4.02
+  accounts:4.02
+  multiply:4.02
+  preventing:2.85
+  finally:2.85
+  support:2.85
+  future:2.85
+  problems:2.85
+
+Topic 3:
+  dim:3.18
+  quit:3.18
+  decided:3.18
+  reddit:3.18
+  spreading:3.17
+  set:3.17
+  place interested:3.17
+  tor:3.17
+  sour:3.17
+  happy:3.17
+
+Topic 4:
+  feilds:3.42
+  users:2.71
+  beautiful:2.70
+  selectively:2.70
+  spread:2.66
+  subject:2.65
+  word:2.63
+  life:1.87
+  garden:1.85
+  place:1.82
+
+K: 5, Log-Likelihood: -1578.061, Alpha: 11.000, Beta: 1.100

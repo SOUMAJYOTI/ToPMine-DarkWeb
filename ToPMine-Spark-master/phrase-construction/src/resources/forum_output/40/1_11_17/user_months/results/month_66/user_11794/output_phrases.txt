@@ -1,0 +1,61 @@
+Topic 0:
+  move:5.51
+  quote:4.49
+  turned:4.22
+  facebook:4.22
+  understand:4.22
+  login:4.22
+  darknet:4.22
+  wise:4.22
+  dont:4.22
+  friend:4.13
+
+Topic 1:
+  speech:5.06
+  clone:4.26
+  platform:4.26
+  features:4.26
+  existing:4.26
+  brain:4.26
+  bothered:4.26
+  fried:4.26
+  js hear:4.26
+  teddit:4.26
+
+Topic 2:
+  pic:7.59
+  providing improved financial anonymity:5.49
+  quote innovation december:5.49
+  humankind respect:5.49
+  pmthank teammates hard work:5.49
+  dash:4.72
+  chat galaxy:4.24
+  tor:4.24
+  official:4.24
+  working:4.24
+
+Topic 3:
+  dash:8.73
+  social media:8.52
+  publishing news:7.68
+  social:7.68
+  chinese:7.68
+  blockchain:6.55
+  russian:5.11
+  videos:5.11
+  masternodes:5.11
+  spanish:5.11
+
+Topic 4:
+  dash:10.59
+  wallet:8.76
+  electrum:8.19
+  electrum dash:7.68
+  users:7.68
+  trezor:7.68
+  electric dash:7.68
+  instructions:5.11
+  technical:5.11
+  testing:5.11
+
+K: 5, Log-Likelihood: -7283.451, Alpha: 11.000, Beta: 1.100

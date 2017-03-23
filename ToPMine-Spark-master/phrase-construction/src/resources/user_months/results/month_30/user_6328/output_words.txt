@@ -1,0 +1,61 @@
+Topic 0:
+  organic:0.40
+  indoor:0.40
+  escrow:0.40
+  lb:0.40
+  og:0.40
+  skywalker:0.40
+  occur:0.20
+  steal:0.20
+  reminder:0.20
+  evolve:0.20
+
+Topic 1:
+  lb:0.40
+  escrow:0.40
+  skywalker:0.40
+  indoor:0.40
+  organic:0.40
+  og:0.40
+  reminder:0.20
+  steal:0.20
+  marketplace:0.20
+  market:0.20
+
+Topic 2:
+  og:0.40
+  lb:0.40
+  indoor:0.40
+  escrow:0.40
+  skywalker:0.40
+  organic:0.40
+  guys:0.20
+  market:0.20
+  sale:0.20
+  evolution:0.20
+
+Topic 3:
+  skywalker:0.41
+  og:0.40
+  organic:0.40
+  escrow:0.40
+  indoor:0.40
+  lb:0.40
+  bulk:0.20
+  black:0.20
+  weekend:0.20
+  friday:0.20
+
+Topic 4:
+  indoor:0.40
+  organic:0.40
+  og:0.40
+  lb:0.40
+  skywalker:0.40
+  escrow:0.40
+  evolution:0.20
+  black:0.20
+  weekend:0.20
+  situation:0.20
+
+K: 5, Log-Likelihood: -89.449, Alpha: 11.000, Beta: 1.100

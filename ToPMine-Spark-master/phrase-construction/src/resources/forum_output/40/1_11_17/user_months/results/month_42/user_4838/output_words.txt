@@ -1,0 +1,61 @@
+Topic 0:
+  oakley:1.93
+  clearance:1.21
+  shoes:1.17
+  decoys:1.12
+  quote:1.12
+  people:1.10
+  spot:1.10
+  pigeon:1.08
+  cher:1.08
+  price:1.07
+
+Topic 1:
+  oakley:1.72
+  pigeon:1.22
+  london:1.20
+  order:1.18
+  masque:1.18
+  price:1.17
+  quote:1.14
+  le:1.14
+  cher:1.14
+  decoys:1.14
+
+Topic 2:
+  oakley:1.14
+  masque:1.02
+  article:1.01
+  sale:1.01
+  spot:0.99
+  pas:0.98
+  blueprint:0.97
+  cher:0.97
+  le:0.96
+  london:0.96
+
+Topic 3:
+  oakley:1.12
+  high:0.82
+  fast:0.81
+  blueprint:0.78
+  price:0.78
+  pas:0.76
+  people:0.75
+  sale:0.75
+  order:0.75
+  le:0.75
+
+Topic 4:
+  garden:5.69
+  members:4.01
+  spam:3.68
+  report:3.67
+  tidy:3.66
+  links:3.52
+  mods:2.54
+  time:2.35
+  work:1.88
+  root:1.87
+
+K: 5, Log-Likelihood: -4384.217, Alpha: 11.000, Beta: 1.100

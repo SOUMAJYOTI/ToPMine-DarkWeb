@@ -1,0 +1,61 @@
+Topic 0:
+  support:0.83
+  vendor:0.65
+  long:0.40
+  large:0.40
+  markets:0.40
+  owner:0.33
+  respond:0.33
+  partner:0.33
+  current:0.33
+  needed:0.33
+
+Topic 1:
+  support:0.90
+  vendor:0.60
+  long:0.39
+  large:0.39
+  markets:0.39
+  mindset:0.38
+  longer:0.38
+  forward:0.38
+  pr:0.38
+  darknet:0.38
+
+Topic 2:
+  market:3.67
+  good:1.67
+  small:0.65
+  praise:0.65
+  pirate:0.64
+  people:0.64
+  large:0.40
+  markets:0.40
+  long:0.40
+  support:0.39
+
+Topic 3:
+  market:5.73
+  good:2.61
+  people:0.91
+  pirate:0.90
+  praise:0.89
+  small:0.89
+  respect:0.38
+  team:0.38
+  competition:0.38
+  work:0.38
+
+Topic 4:
+  market:1.13
+  support:0.58
+  good:0.50
+  markets:0.44
+  large:0.44
+  long:0.44
+  vendor:0.42
+  features:0.30
+  improvement:0.30
+  happy:0.30
+
+K: 5, Log-Likelihood: -380.830, Alpha: 11.000, Beta: 1.100

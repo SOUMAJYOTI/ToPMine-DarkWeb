@@ -1,0 +1,61 @@
+Topic 0:
+  education:3.73
+  debt:3.60
+  system:2.89
+  time:2.72
+  check:2.45
+  classes:2.37
+  november:2.35
+  things:2.27
+  documentary:2.26
+  quote:2.20
+
+Topic 1:
+  school:5.67
+  remember:4.20
+  high:3.86
+  schools:3.86
+  public:3.80
+  time:3.25
+  education:2.37
+  system:2.26
+  bringing:1.87
+  days:1.87
+
+Topic 2:
+  people:5.10
+  truck:4.03
+  shit:3.91
+  money:3.88
+  school:3.61
+  stuff:3.04
+  job:2.67
+  anarchy:2.35
+  test:2.07
+  fuck:2.02
+
+Topic 3:
+  money:14.01
+  truck:7.86
+  stuff:5.85
+  shit:5.67
+  people:4.50
+  smart:4.05
+  driving:4.03
+  driver:3.94
+  fuck:3.87
+  test:3.82
+
+Topic 4:
+  college:3.27
+  kids:2.93
+  debt:2.34
+  time:1.94
+  education:1.80
+  documentary:1.68
+  classes:1.57
+  check:1.49
+  good:1.41
+  teachers:1.34
+
+K: 5, Log-Likelihood: -2946.548, Alpha: 11.000, Beta: 1.100

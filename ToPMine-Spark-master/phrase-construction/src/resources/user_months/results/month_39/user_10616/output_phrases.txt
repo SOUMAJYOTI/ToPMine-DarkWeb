@@ -1,0 +1,61 @@
+Topic 0:
+  ccc:0.37
+  admin:0.37
+  mixing coins:0.22
+  receive:0.20
+  bitcoin:0.20
+  service:0.20
+  transfer:0.20
+  xhydra:0.18
+  reviews:0.18
+  recommend:0.18
+
+Topic 1:
+  ccc:0.37
+  admin:0.37
+  mixing coins:0.22
+  transfer:0.20
+  service:0.20
+  receive:0.20
+  bitcoin:0.20
+  january:0.18
+  webhosting:0.18
+  url:0.18
+
+Topic 2:
+  admin:0.37
+  ccc:0.37
+  mixing coins:0.22
+  bitcoin:0.20
+  transfer:0.20
+  receive:0.20
+  service:0.20
+  quote:0.18
+  lot:0.18
+  webhosting:0.18
+
+Topic 3:
+  admin:0.37
+  ccc:0.37
+  mixing coins:0.22
+  bitcoin:0.20
+  service:0.20
+  transfer:0.20
+  receive:0.20
+  affiliate:0.18
+  pmwith:0.18
+  good:0.18
+
+Topic 4:
+  ccc:0.36
+  admin:0.35
+  mixing coins:0.22
+  bitcoin:0.20
+  transfer:0.20
+  service:0.20
+  receive:0.20
+  net:0.19
+  find:0.19
+  bitcoins:0.19
+
+K: 5, Log-Likelihood: -143.665, Alpha: 11.000, Beta: 1.100

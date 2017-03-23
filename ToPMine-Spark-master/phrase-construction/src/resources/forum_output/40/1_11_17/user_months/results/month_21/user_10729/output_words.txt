@@ -1,0 +1,61 @@
+Topic 0:
+  fbi:3.73
+  tor:3.46
+  child:3.34
+  hidden:3.32
+  services:2.88
+  sites:2.54
+  system:2.33
+  porn:2.20
+  technique:2.14
+  obi:2.09
+
+Topic 1:
+  tor:6.99
+  fbi:4.16
+  hidden:2.62
+  child:2.55
+  sites:2.36
+  web:2.22
+  services:2.01
+  users:1.99
+  agents:1.99
+  mcgrath:1.93
+
+Topic 2:
+  countries:5.09
+  country:3.79
+  dont:3.54
+  gb:2.69
+  reckon:2.18
+  place:1.76
+  isnt:1.76
+  friendly:1.76
+  agree:1.76
+  errors:1.76
+
+Topic 3:
+  onion:3.38
+  system:2.38
+  time:1.37
+  tor:1.24
+  service:1.11
+  open:0.95
+  cmu:0.86
+  servers:0.71
+  source:0.69
+  hidden:0.64
+
+Topic 4:
+  nodes:3.67
+  excludenodes:3.25
+  add:2.38
+  open:2.02
+  nz:1.51
+  torrce:1.51
+  connecting:1.51
+  au:1.51
+  block:1.51
+  clusters:1.51
+
+K: 5, Log-Likelihood: -3640.466, Alpha: 11.000, Beta: 1.100

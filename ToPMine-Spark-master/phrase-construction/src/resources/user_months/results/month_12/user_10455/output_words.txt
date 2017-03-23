@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:1.94
+  quote:1.65
+  june:1.59
+  fifty:1.58
+  album:1.53
+  buy:1.49
+  cent:1.46
+  support:1.34
+  sense:1.19
+  marketing:0.94
+
+Topic 1:
+  june:1.71
+  quote:1.65
+  cent:1.44
+  bitcoin:1.18
+  coming:1.14
+  album:1.03
+  btc:1.02
+  bi:0.92
+  revelation:0.87
+  god:0.87
+
+Topic 2:
+  quote:1.80
+  june:1.67
+  cent:1.55
+  bitcoin:1.50
+  album:1.28
+  fifty:1.20
+  buy:1.13
+  support:0.96
+  sense:0.91
+  bi:0.78
+
+Topic 3:
+  june:1.97
+  cent:1.76
+  quote:1.48
+  bitcoin:1.36
+  album:1.35
+  buy:1.12
+  bi:1.09
+  fifty:1.00
+  coming:0.94
+  btc:0.93
+
+Topic 4:
+  bi:2.67
+  june:2.06
+  cent:1.79
+  btc:1.67
+  coming:1.62
+  credit:1.53
+  ribs:1.46
+  decided:1.43
+  light:1.43
+  full:1.42
+
+K: 5, Log-Likelihood: -1138.722, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  sorted:0.16
+  nimble:0.08
+  questions:0.08
+  hesitate:0.08
+  tomorrow:0.08
+  pmhey:0.08
+  forums:0.08
+  contact:0.08
+  member:0.08
+  quote:0.08
+
+Topic 1:
+  sorted:0.16
+  concerns:0.08
+  nimble:0.08
+  case:0.08
+  pmhey:0.08
+  member:0.08
+  questions:0.08
+  apostleleary:0.08
+  reddit:0.08
+  friend:0.08
+
+Topic 2:
+  sorted:0.16
+  tomorrow:0.08
+  hesitate:0.08
+  quote:0.08
+  contact:0.08
+  member:0.08
+  june:0.08
+  forums:0.08
+  staff:0.08
+  apostleleary:0.08
+
+Topic 3:
+  sorted:0.16
+  forums:0.08
+  june:0.08
+  apostleleary:0.08
+  staff:0.08
+  friend:0.08
+  tomorrow:0.08
+  reddit:0.08
+  questions:0.08
+  case:0.08
+
+Topic 4:
+  sorted:0.16
+  case:0.08
+  contact:0.08
+  staff:0.08
+  friend:0.08
+  pmhey:0.08
+  reddit:0.08
+  quote:0.08
+  june:0.08
+  apostleleary:0.08
+
+K: 5, Log-Likelihood: -24.424, Alpha: 11.000, Beta: 1.100

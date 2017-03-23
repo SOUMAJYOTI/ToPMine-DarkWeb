@@ -1,0 +1,61 @@
+Topic 0:
+  icedove:2.09
+  link:1.96
+  stick:1.96
+  sigaint icedove:1.96
+  onion:1.95
+  quote:1.51
+  lottery:1.42
+  grass:1.42
+  gay:1.42
+  sounds:1.42
+
+Topic 1:
+  court:4.64
+  government:3.68
+  legal:2.50
+  encryption keys:2.13
+  lavabit:2.00
+  company:1.97
+  attorney:1.88
+  decision:1.74
+  case:1.61
+  united states:1.47
+
+Topic 2:
+  legal:1.89
+  court:1.60
+  lavabit:1.19
+  company:1.10
+  government:1.08
+  encryption keys:0.98
+  attorney:0.95
+  decision:0.93
+  private:0.91
+  riseup:0.91
+
+Topic 3:
+  court:3.61
+  legal:2.57
+  lavabit:2.48
+  government:2.25
+  decision:2.16
+  attorney:1.79
+  search:1.39
+  company:1.39
+  encryption keys:1.33
+  private:1.30
+
+Topic 4:
+  court:3.52
+  legal:1.89
+  government:1.85
+  lavabit:1.72
+  encryption keys:1.44
+  company:1.41
+  attorney:1.26
+  riseup:1.07
+  decision:1.07
+  customers:1.06
+
+K: 5, Log-Likelihood: -6035.483, Alpha: 11.000, Beta: 1.100

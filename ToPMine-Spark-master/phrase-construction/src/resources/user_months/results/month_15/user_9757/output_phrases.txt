@@ -1,0 +1,61 @@
+Topic 0:
+  blond wig:0.64
+  making impossible:0.43
+  btcshffl:0.43
+  wigshuffle:0.40
+  blond:0.40
+  wigs:0.40
+  bitcoin:0.37
+  bitcoins:0.36
+  lots lots:0.21
+  day:0.21
+
+Topic 1:
+  blond wig:0.48
+  btcshffl:0.39
+  making impossible:0.39
+  bitcoins:0.37
+  bitcoin:0.37
+  blond:0.34
+  wigshuffle:0.34
+  wigs:0.34
+  tax:0.21
+  hope:0.21
+
+Topic 2:
+  blond wig:0.45
+  making impossible:0.38
+  btcshffl:0.38
+  bitcoin:0.37
+  bitcoins:0.37
+  blond:0.32
+  wigs:0.32
+  wigshuffle:0.32
+  btc:0.22
+  plunge:0.22
+
+Topic 3:
+  blond wig:0.53
+  making impossible:0.41
+  btcshffl:0.41
+  bitcoins:0.37
+  bitcoin:0.37
+  wigshuffle:0.36
+  wigs:0.36
+  blond:0.36
+  originate:0.20
+  established:0.20
+
+Topic 4:
+  blond wig:0.65
+  btcshffl:0.43
+  making impossible:0.43
+  wigs:0.41
+  blond:0.41
+  wigshuffle:0.41
+  bitcoins:0.36
+  bitcoin:0.36
+  combine:0.21
+  originate:0.21
+
+K: 5, Log-Likelihood: -303.583, Alpha: 11.000, Beta: 1.100

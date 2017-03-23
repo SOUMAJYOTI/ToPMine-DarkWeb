@@ -1,0 +1,61 @@
+Topic 0:
+  link:31.37
+  invite:16.83
+  market:14.72
+  referred:11.71
+  dream:8.70
+  darknet:6.71
+  post:6.10
+  links:5.97
+  abraxas:5.19
+  love:4.91
+
+Topic 1:
+  dream:11.49
+  market:5.80
+  november:4.85
+  quote:4.45
+  alpha:4.19
+  good:4.16
+  nucleus:3.05
+  abraxas:2.89
+  list:2.70
+  markets:2.70
+
+Topic 2:
+  markets:9.38
+  direct:6.11
+  dont:4.68
+  vendor:4.67
+  vendors:4.60
+  email:4.59
+  people:4.18
+  quote:4.05
+  november:3.88
+  trust:3.56
+
+Topic 3:
+  time:25.34
+  market:12.86
+  markets:11.00
+  vendors:7.36
+  vendor:4.73
+  uptime:4.42
+  join:4.40
+  required:3.67
+  dont:3.61
+  sit:3.13
+
+Topic 4:
+  btc:9.92
+  forum:6.39
+  forums:5.22
+  users:4.89
+  check:3.25
+  coins:2.96
+  url:2.91
+  order:2.91
+  reading:2.86
+  mixers:2.84
+
+K: 5, Log-Likelihood: -6623.914, Alpha: 11.000, Beta: 1.100

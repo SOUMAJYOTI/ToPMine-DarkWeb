@@ -1,0 +1,61 @@
+Topic 0:
+  tor:20.54
+  dont:17.90
+  real:11.14
+  leo:10.30
+  school:8.97
+  steve:8.95
+  anonymous:7.92
+  anonymity:7.72
+  traffic:6.93
+  internet:6.43
+
+Topic 1:
+  tor:35.83
+  anonymity:14.67
+  sort:9.17
+  traffic:8.98
+  internet:8.61
+  network:8.44
+  adversary:6.99
+  people:6.96
+  time:6.26
+  doesnt:6.04
+
+Topic 2:
+  bitmessage:13.94
+  ch:13.94
+  service:13.18
+  tor:11.65
+  onion:11.62
+  days:11.26
+  mail:8.94
+  web:8.13
+  admin:7.94
+  account:7.93
+
+Topic 3:
+  sites:13.91
+  address:9.45
+  content:8.99
+  hidden:8.11
+  white:7.99
+  search:7.81
+  memex:7.15
+  services:7.11
+  data:7.09
+  web:5.94
+
+Topic 4:
+  security:7.49
+  openwall:4.99
+  glibc:4.99
+  linux:4.99
+  called:4.28
+  quotesteve:4.17
+  vulnerability:3.99
+  regin:3.99
+  code:3.97
+  things:3.62
+
+K: 5, Log-Likelihood: -15299.352, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  good:2.23
+  outthey:2.12
+  sucks:2.12
+  ho:2.12
+  days:2.12
+  couple:2.12
+  sad:2.12
+  ago:2.12
+  shipped:2.12
+  people:2.12
+
+Topic 1:
+  vendor:6.93
+  drugs:4.23
+  ho disappeared:3.67
+  happened albertheijn:3.35
+  nl:3.35
+  multi:3.35
+  place:3.35
+  reliable:3.35
+  biggest:3.35
+  mdma:3.35
+
+Topic 2:
+  driver:4.33
+  mercedes:4.32
+  man:4.32
+  suspicious:4.32
+  amount:2.13
+  fair:2.13
+  bmw:2.13
+  december:2.13
+  arrested:2.13
+  amsterdam:2.13
+
+Topic 3:
+  hollandonline arrested:3.38
+  list:3.38
+  removed:3.38
+  dutch police:3.38
+  attempt:3.38
+  customers:3.38
+  avengers:3.38
+  buy:3.37
+  names:2.11
+  wrong:2.08
+
+Topic 4:
+  tor:4.60
+  parallel:3.27
+  construction:3.27
+  answer:3.27
+  packages:3.27
+  spying:3.27
+  flaw:3.27
+  seizure:3.27
+  truth:3.27
+  hard:3.27
+
+K: 5, Log-Likelihood: -1779.697, Alpha: 11.000, Beta: 1.100

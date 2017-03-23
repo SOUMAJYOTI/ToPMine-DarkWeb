@@ -1,0 +1,61 @@
+Topic 0:
+  lol:2.87
+  dox:2.41
+  mods:2.41
+  side:2.41
+  le paid:2.41
+  visit:2.40
+  dr:2.40
+  saved:2.40
+  ross:2.39
+  mod point:2.39
+
+Topic 1:
+  disappeared:3.64
+  heroin:3.64
+  weeks:3.64
+  limetless:2.82
+  people:2.55
+  heard:2.47
+  icu:1.78
+  fill:1.78
+  week:1.78
+  overdosed:1.78
+
+Topic 2:
+  limitless:1.42
+  posts:1.40
+  didnt:1.39
+  info:1.22
+  people lol:0.94
+  disapear:0.94
+  fuck:0.94
+  lot:0.94
+  shit:0.94
+  promised:0.94
+
+Topic 3:
+  info:4.00
+  send:3.31
+  btc:3.18
+  real:3.15
+  paid:1.52
+  hung:1.52
+  fake:1.51
+  tumble:1.51
+  beach:1.51
+  enjoy:1.51
+
+Topic 4:
+  god:3.63
+  time:3.54
+  good:2.50
+  thought:1.78
+  matter:1.76
+  entertaining:1.76
+  fueled:1.76
+  drug:1.76
+  kid:1.76
+  idea:1.76
+
+K: 5, Log-Likelihood: -1344.838, Alpha: 11.000, Beta: 1.100

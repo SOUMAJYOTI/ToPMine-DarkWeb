@@ -1,0 +1,61 @@
+Topic 0:
+  order:4.45
+  good:3.68
+  vendors:1.96
+  reccomendations:1.70
+  haven:1.70
+  outlaw:1.70
+  isnt:1.70
+  thatdhl:1.70
+  letter:1.70
+  awful:1.70
+
+Topic 1:
+  markets:2.31
+  market:1.83
+  money:1.52
+  vendor:1.51
+  ab:1.16
+  directly:1.15
+  people:1.07
+  scam:0.95
+  lost:0.92
+  trust:0.57
+
+Topic 2:
+  mods:1.41
+  ab:1.22
+  invitation:0.90
+  thieves:0.90
+  correct:0.90
+  steal:0.90
+  coins:0.90
+  carders:0.89
+  dardush:0.87
+  kinda:0.86
+
+Topic 3:
+  vendor:3.59
+  money:3.37
+  markets:3.26
+  people:2.13
+  directly:2.08
+  market:1.92
+  ab:1.15
+  scam:1.09
+  actively:0.94
+  easier:0.94
+
+Topic 4:
+  markets:1.52
+  ab:1.37
+  scam:1.11
+  market:1.07
+  money:0.80
+  mods:0.77
+  lost:0.67
+  vendor:0.63
+  making:0.60
+  uneasy:0.60
+
+K: 5, Log-Likelihood: -1064.667, Alpha: 11.000, Beta: 1.100

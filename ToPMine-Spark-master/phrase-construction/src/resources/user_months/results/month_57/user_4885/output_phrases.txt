@@ -1,0 +1,61 @@
+Topic 0:
+  schneier:0.00
+  disabling:0.00
+  data:0.00
+  hidden:0.00
+  exorburn:0.00
+  programs remove:0.00
+  questions:0.00
+  direct:0.00
+  link:0.00
+  type:0.00
+
+Topic 1:
+  schneier:0.00
+  disabling:0.00
+  data:0.00
+  hidden:0.00
+  exorburn:0.00
+  programs remove:0.00
+  questions:0.00
+  direct:0.00
+  link:0.00
+  type:0.00
+
+Topic 2:
+  schneier:0.00
+  disabling:0.00
+  data:0.00
+  hidden:0.00
+  exorburn:0.00
+  programs remove:0.00
+  questions:0.00
+  direct:0.00
+  link:0.00
+  type:0.00
+
+Topic 3:
+  schneier:0.00
+  disabling:0.00
+  data:0.00
+  hidden:0.00
+  exorburn:0.00
+  programs remove:0.00
+  questions:0.00
+  direct:0.00
+  link:0.00
+  type:0.00
+
+Topic 4:
+  schneier:0.00
+  disabling:0.00
+  data:0.00
+  hidden:0.00
+  exorburn:0.00
+  programs remove:0.00
+  questions:0.00
+  direct:0.00
+  link:0.00
+  type:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

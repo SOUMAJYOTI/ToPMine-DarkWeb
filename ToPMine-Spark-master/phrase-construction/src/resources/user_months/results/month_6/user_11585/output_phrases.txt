@@ -1,0 +1,61 @@
+Topic 0:
+  problem:3.35
+  peoples:1.65
+  money money:1.65
+  start:1.65
+  big issue:1.65
+  error:1.65
+  balances:1.65
+  fixing:1.65
+  stuck:1.65
+  thoughts:1.65
+
+Topic 1:
+  coin:6.41
+  bring:5.10
+  worth:3.35
+  btc:3.35
+  site:3.09
+  definetly con job:2.67
+  io:2.51
+  prove:2.51
+  sr coin:2.51
+  le:2.51
+
+Topic 2:
+  grand wizard:4.92
+  work:4.87
+  played:3.04
+  lot:2.42
+  sort:2.41
+  blunt:2.41
+  hope:2.41
+  cautiously:2.41
+  hard:2.41
+  thing:2.41
+
+Topic 3:
+  mod:5.07
+  people:4.23
+  shit:3.36
+  fucking:2.79
+  sucking:1.66
+  road fucking:1.66
+  mods:1.66
+  jesus:1.66
+  rest:1.66
+  censoring:1.66
+
+Topic 4:
+  complaints:5.06
+  constant complaints:3.64
+  whitedreams:3.63
+  returned:3.63
+  sr:3.37
+  access:3.36
+  forum:3.36
+  weeks:3.36
+  hundreds:3.36
+  friends:2.09
+
+K: 5, Log-Likelihood: -3098.015, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tang:2.92
+  point:2.59
+  thread:1.97
+  quote:1.53
+  september:1.49
+  digitaldong:1.42
+  pls:1.12
+  bullshit:1.12
+  divergent:1.12
+  prudent:1.12
+
+Topic 1:
+  btc:1.94
+  digitaldong:1.26
+  carding:1.24
+  understand:1.24
+  lower:1.23
+  fluctuates:1.23
+  cut:1.23
+  thought:1.23
+  guys:1.23
+  buyer:1.23
+
+Topic 2:
+  tang:1.60
+  digitaldong:1.59
+  september:1.59
+  quote:1.51
+  point:0.79
+  btc:0.76
+  pretensions:0.59
+  easy:0.59
+  step:0.59
+  buy:0.58
+
+Topic 3:
+  btc:2.14
+  quote:1.33
+  digitaldong:1.30
+  september:1.30
+  days:1.07
+  buy:0.68
+  tang:0.68
+  liberty:0.63
+  trieditonce:0.50
+  butiknewiwasntgayassoonasthatshithitthebackofmythroat:0.50
+
+Topic 4:
+  card:4.31
+  sites:3.28
+  btc:2.84
+  major:2.59
+  people:2.39
+  retain:1.66
+  gift:1.66
+  deal:1.66
+  localbitcoins:1.45
+  transfer:1.45
+
+K: 5, Log-Likelihood: -1207.969, Alpha: 11.000, Beta: 1.100

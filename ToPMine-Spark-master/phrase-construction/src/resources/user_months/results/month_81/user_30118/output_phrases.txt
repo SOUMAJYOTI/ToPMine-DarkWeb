@@ -1,0 +1,56 @@
+Topic 0:
+  head:0.00
+  read:0.00
+  mod:0.00
+  squad:0.00
+  brittney:0.00
+  friendly:0.00
+  neighborhood:0.00
+  tagthanks:0.00
+  vendors:0.00
+
+Topic 1:
+  head:0.00
+  read:0.00
+  mod:0.00
+  squad:0.00
+  brittney:0.00
+  friendly:0.00
+  neighborhood:0.00
+  tagthanks:0.00
+  vendors:0.00
+
+Topic 2:
+  head:0.00
+  read:0.00
+  mod:0.00
+  squad:0.00
+  brittney:0.00
+  friendly:0.00
+  neighborhood:0.00
+  tagthanks:0.00
+  vendors:0.00
+
+Topic 3:
+  head:0.00
+  read:0.00
+  mod:0.00
+  squad:0.00
+  brittney:0.00
+  friendly:0.00
+  neighborhood:0.00
+  tagthanks:0.00
+  vendors:0.00
+
+Topic 4:
+  head:0.00
+  read:0.00
+  mod:0.00
+  squad:0.00
+  brittney:0.00
+  friendly:0.00
+  neighborhood:0.00
+  tagthanks:0.00
+  vendors:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

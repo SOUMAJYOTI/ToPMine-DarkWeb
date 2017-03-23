@@ -1,0 +1,61 @@
+Topic 0:
+  forehead slap guess:2.66
+  assumption sites ssl encrypted:2.64
+  default:2.55
+  determined:2.55
+  single:2.55
+  accept:2.55
+  conduct:2.55
+  control:2.55
+  sal:2.55
+  enforcement:2.55
+
+Topic 1:
+  track:1.74
+  tor:1.64
+  thx:1.62
+  scripts:1.62
+  globe:1.62
+  track package:1.62
+  tor browser:1.62
+  turned:1.62
+  ad:1.62
+  javascript:1.62
+
+Topic 2:
+  package:7.73
+  expecting package:5.04
+  check package:5.02
+  drugs:5.00
+  room:2.33
+  paraniod:2.33
+  scenario utilize protected browser:2.33
+  box:2.33
+  drugs location:2.33
+  ssshhh:2.32
+
+Topic 3:
+  exit:3.48
+  pm:1.70
+  simplified:1.70
+  traffic:1.70
+  nodes:1.70
+  hosting:1.70
+  hosts:1.70
+  le:1.70
+  fucked address:1.70
+  advise:1.70
+
+Topic 4:
+  mac address:1.58
+  log public wifi:1.56
+  free wifi:1.52
+  tor:1.18
+  packages:1.08
+  track:1.08
+  tails:0.97
+  quote humblebumble september:0.95
+  recorded network case scenario:0.87
+  utilize protected browser tails:0.86
+
+K: 5, Log-Likelihood: -1339.985, Alpha: 11.000, Beta: 1.100

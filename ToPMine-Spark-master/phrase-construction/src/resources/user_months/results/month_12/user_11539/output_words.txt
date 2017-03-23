@@ -1,0 +1,61 @@
+Topic 0:
+  outlaw:0.20
+  gamesome:0.20
+  overpriced:0.20
+  hash:0.20
+  hard:0.20
+  wanted:0.20
+  find:0.20
+  tier:0.20
+  market:0.20
+  shit:0.20
+
+Topic 1:
+  outlaw:0.20
+  order:0.20
+  shit:0.20
+  tier:0.20
+  find:0.20
+  market:0.20
+  hard:0.20
+  overpriced:0.20
+  wanted:0.20
+  gamesome:0.20
+
+Topic 2:
+  market:0.20
+  overpriced:0.20
+  hard:0.20
+  find:0.20
+  shit:0.20
+  order:0.20
+  tier:0.20
+  hash:0.20
+  wanted:0.20
+  outlaw:0.20
+
+Topic 3:
+  order:0.20
+  hash:0.20
+  market:0.20
+  wanted:0.20
+  gamesome:0.20
+  overpriced:0.20
+  find:0.20
+  hard:0.20
+  tier:0.20
+  shit:0.20
+
+Topic 4:
+  shit:0.20
+  tier:0.20
+  gamesome:0.20
+  wanted:0.20
+  find:0.20
+  market:0.20
+  hard:0.20
+  hash:0.20
+  overpriced:0.20
+  order:0.20
+
+K: 5, Log-Likelihood: -26.377, Alpha: 11.000, Beta: 1.100

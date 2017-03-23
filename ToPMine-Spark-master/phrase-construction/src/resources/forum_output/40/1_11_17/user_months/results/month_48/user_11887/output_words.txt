@@ -1,0 +1,61 @@
+Topic 0:
+  east:2.47
+  india:2.23
+  company:1.71
+  states:1.69
+  united:1.52
+  products:1.19
+  ready:1.08
+  customers:1.08
+  platform:0.85
+  tor:0.47
+
+Topic 1:
+  join:3.75
+  uk:3.18
+  april:3.11
+  amwhat:2.77
+  knuckles:2.76
+  quote:2.59
+  america:2.13
+  flag:1.94
+  historical:1.93
+  appropriated:1.93
+
+Topic 2:
+  company:10.88
+  india:9.26
+  east:8.02
+  merchants:4.74
+  pgp:3.81
+  factor:3.79
+  united:3.50
+  states:3.41
+  authentication:2.81
+  automated:2.81
+
+Topic 3:
+  buyers:5.81
+  site:5.35
+  east:5.09
+  india:4.85
+  countries:4.79
+  april:4.57
+  market:4.55
+  uk:4.47
+  company:3.68
+  british:3.37
+
+Topic 4:
+  users:5.45
+  server:4.11
+  wallet:3.89
+  error:3.89
+  issue:3.89
+  log:2.72
+  empty:2.72
+  quote:2.43
+  tor:1.92
+  persists:1.90
+
+K: 5, Log-Likelihood: -3808.855, Alpha: 11.000, Beta: 1.100

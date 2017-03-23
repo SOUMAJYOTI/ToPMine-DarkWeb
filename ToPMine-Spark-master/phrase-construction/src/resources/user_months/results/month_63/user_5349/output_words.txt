@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.78
+  real:1.49
+  address:1.27
+  url:1.17
+  find:1.04
+  thought:0.97
+  connect:0.83
+  ago:0.82
+  site:0.81
+  days:0.78
+
+Topic 1:
+  real:2.00
+  market:1.66
+  url:1.43
+  address:1.16
+  thought:1.02
+  ago:0.89
+  lost:0.88
+  connect:0.84
+  days:0.83
+  site:0.80
+
+Topic 2:
+  market:1.94
+  real:1.30
+  find:1.19
+  address:1.17
+  url:1.04
+  thought:0.97
+  site:0.83
+  connect:0.74
+  lost:0.74
+  days:0.73
+
+Topic 3:
+  market:1.79
+  real:1.63
+  address:1.22
+  url:1.21
+  thought:1.04
+  find:0.99
+  days:0.82
+  ago:0.80
+  lost:0.79
+  connect:0.79
+
+Topic 4:
+  market:1.83
+  real:1.58
+  address:1.17
+  url:1.15
+  thought:0.99
+  find:0.99
+  days:0.83
+  lost:0.81
+  connect:0.81
+  site:0.79
+
+K: 5, Log-Likelihood: -464.113, Alpha: 11.000, Beta: 1.100

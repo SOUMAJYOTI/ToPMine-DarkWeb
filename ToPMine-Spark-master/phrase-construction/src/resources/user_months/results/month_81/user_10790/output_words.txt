@@ -1,0 +1,61 @@
+Topic 0:
+  signature:1.92
+  message:1.22
+  pgp:1.22
+  agree:1.04
+  time:0.97
+  uyaaojeisvif:0.96
+  auzmlmdghob:0.96
+  rki:0.95
+  iqj:0.95
+  wz:0.95
+
+Topic 1:
+  message:3.47
+  pgp:2.78
+  signed:1.52
+  signature:1.06
+  hash:0.66
+  cr:0.57
+  meexm:0.55
+  rjbfqji:0.55
+  hbi:0.55
+  vlci:0.54
+
+Topic 2:
+  message:6.23
+  hash:5.21
+  prove:3.40
+  block:2.68
+  cr:2.47
+  pgp:2.46
+  proof:2.40
+  signed:2.21
+  idea:2.19
+  copy:2.19
+
+Topic 3:
+  pgp:2.23
+  message:2.13
+  signature:1.60
+  cr:0.92
+  signed:0.79
+  otmznkqxmjhbntuwqtzgmui:0.75
+  baebcgbmbqjs:0.74
+  akglzc:0.74
+  nefgodg:0.74
+  yxrpb:0.73
+
+Topic 4:
+  signing:11.91
+  pgp:10.31
+  people:6.38
+  things:5.91
+  message:4.94
+  sign:4.35
+  wrote:4.08
+  key:4.03
+  proof:3.96
+  vendors:3.91
+
+K: 5, Log-Likelihood: -3344.316, Alpha: 11.000, Beta: 1.100

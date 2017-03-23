@@ -1,0 +1,61 @@
+Topic 0:
+  luks:11.60
+  encryption:11.22
+  laptop:10.38
+  case:8.38
+  memory:7.73
+  good passphrase:7.73
+  remove:7.73
+  kali:7.71
+  dont remember:7.41
+  difficult find:6.90
+
+Topic 1:
+  bit:17.23
+  capabilities:13.77
+  vpn:13.36
+  de random:12.87
+  install:10.81
+  extra:10.77
+  security:10.72
+  cpu:10.34
+  call paranoid:9.44
+  good:8.95
+
+Topic 2:
+  hash sha:13.84
+  default luks:13.84
+  problem keysize:13.84
+  tails whonix:13.83
+  tracking users:13.82
+  sense tracking:13.82
+  default:12.76
+  dont:12.60
+  malicious actors:11.60
+  march:11.20
+
+Topic 3:
+  boot partition:15.80
+  writeblocker:15.48
+  boot:15.14
+  firmware:14.48
+  cru:11.61
+  storage devices:11.61
+  marek:11.60
+  os:11.30
+  image:10.28
+  write:9.49
+
+Topic 4:
+  camera:20.07
+  april:14.30
+  thing:13.72
+  mac:11.59
+  wifi:10.77
+  wall jacks:9.50
+  generic:9.49
+  library terrible idea:9.46
+  camels staff agents grab:9.46
+  ethernet mac address:9.46
+
+K: 5, Log-Likelihood: -62551.596, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  dont:6.53
+  send:5.16
+  private:5.16
+  donate:5.11
+  fee:5.11
+  read:4.73
+  powerful:4.30
+  shop:4.30
+  full:4.28
+  forum:3.61
+
+Topic 1:
+  forum:8.02
+  ett:5.15
+  matter:4.29
+  professional:4.07
+  react:3.73
+  chat log:3.47
+  benjo:2.77
+  message:2.77
+  regular:2.57
+  dead:2.57
+
+Topic 2:
+  read:9.11
+  wrong package:7.58
+  customers:6.34
+  kapteeni:5.72
+  sender asiakaspalvelu recipient snik:5.64
+  money:5.40
+  fe:5.40
+  parcel:5.12
+  funds:5.11
+  response:4.32
+
+Topic 3:
+  ytt:9.81
+  benjomarket:8.26
+  mutta:6.50
+  vendor:6.28
+  send pm:4.89
+  lost btc:4.59
+  bastard:4.32
+  screenshot pms:4.32
+  spent time:4.32
+  exitscam:4.32
+
+Topic 4:
+  safe:5.17
+  dn:5.17
+  report:5.17
+  swecon:5.17
+  vendors:4.52
+  start:4.36
+  reputation:4.26
+  consumers:3.71
+  people:3.71
+  care:3.21
+
+K: 5, Log-Likelihood: -7343.527, Alpha: 11.000, Beta: 1.100

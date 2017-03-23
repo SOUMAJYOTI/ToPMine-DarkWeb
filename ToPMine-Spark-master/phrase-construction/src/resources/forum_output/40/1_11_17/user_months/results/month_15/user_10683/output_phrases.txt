@@ -1,0 +1,61 @@
+Topic 0:
+  diskcryptor:6.23
+  entire:2.90
+  cards:2.29
+  hd:1.84
+  reason encrypt:1.83
+  veracrypt:1.83
+  number:1.83
+  error:1.83
+  michael:1.73
+  contact:1.72
+
+Topic 1:
+  leak:5.07
+  reason ordering:3.33
+  pharmacy:3.33
+  country:3.33
+  markets:3.33
+  long:3.33
+  free onion:3.33
+  happened:3.33
+  tolerated:3.33
+  personal amounts living:3.33
+
+Topic 2:
+  windows:4.95
+  operating:3.13
+  dont:3.12
+  luks:3.12
+  partition:2.67
+  pmim:2.02
+  install:2.02
+  win:2.02
+  virtualbox:2.02
+  distros:2.02
+
+Topic 3:
+  tc:9.61
+  fork:6.29
+  left:4.15
+  started:4.15
+  escrow:4.06
+  multisig:4.06
+  working:2.73
+  groups:2.01
+  truecrypt:2.01
+  download:2.01
+
+Topic 4:
+  primary:4.17
+  volume:4.17
+  boot:3.10
+  encrypt:2.69
+  system:2.65
+  volumes:2.03
+  small:2.03
+  tiny:2.03
+  needed:2.03
+  usb:2.03
+
+K: 5, Log-Likelihood: -1540.571, Alpha: 11.000, Beta: 1.100

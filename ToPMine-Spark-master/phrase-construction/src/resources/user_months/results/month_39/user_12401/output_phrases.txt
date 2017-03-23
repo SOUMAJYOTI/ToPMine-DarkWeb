@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.73
+  hides:0.55
+  kusetuksiin:0.55
+  tule:0.55
+  saan:0.55
+  vaihtaa:0.55
+  odottelen:0.55
+  sekava:0.55
+  varmaan:0.55
+  offline:0.55
+
+Topic 1:
+  agorassa:0.47
+  aikaan:0.46
+  toimii:0.45
+  online:0.45
+  ja:0.41
+  ainakaan:0.36
+  aika:0.34
+  ei:0.34
+  ett:0.34
+  rahat:0.34
+
+Topic 2:
+  salama:0.67
+  jo:0.67
+  ity:0.67
+  kumppanit:0.67
+  voittajiin:0.67
+  liittyk:0.67
+  sinne:0.67
+  senet:0.67
+  vois:0.67
+  huumeita:0.67
+
+Topic 3:
+  online:0.95
+  agorassa:0.95
+  aikaan:0.95
+  toimii:0.54
+  laajempi:0.41
+  otteeseen:0.41
+  joutuu:0.41
+  delayed:0.41
+  kusettajille:0.41
+  jossei:0.41
+
+Topic 4:
+  online:0.64
+  aikaan:0.64
+  agorassa:0.62
+  toimii:0.49
+  ja:0.36
+  ainakaan:0.36
+  silkkitiell:0.31
+  multisig:0.31
+  accept:0.31
+  py:0.31
+
+K: 5, Log-Likelihood: -710.572, Alpha: 11.000, Beta: 1.100

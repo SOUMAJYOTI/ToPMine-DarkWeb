@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:1.36
+  coinpig:1.03
+  secure:0.60
+  bitcoin:0.57
+  bitcoins:0.40
+  receive:0.40
+  percent:0.40
+  pin:0.40
+  deposit:0.40
+  extra:0.40
+
+Topic 1:
+  wallet:1.20
+  coinpig:0.91
+  secure:0.59
+  bitcoin:0.59
+  net:0.41
+  holdings:0.41
+  pin:0.40
+  month:0.40
+  percent:0.40
+  receive:0.40
+
+Topic 2:
+  wallet:1.02
+  coinpig:0.97
+  bitcoin:0.63
+  secure:0.61
+  pin:0.41
+  deposit:0.41
+  percent:0.40
+  holdings:0.40
+  net:0.40
+  receive:0.40
+
+Topic 3:
+  wallet:1.24
+  coinpig:1.07
+  bitcoin:0.60
+  secure:0.59
+  extra:0.41
+  month:0.40
+  deposit:0.40
+  bitcoins:0.40
+  receive:0.40
+  holdings:0.40
+
+Topic 4:
+  wallet:1.18
+  coinpig:1.02
+  bitcoin:0.61
+  secure:0.61
+  month:0.40
+  holdings:0.40
+  bitcoins:0.40
+  net:0.40
+  receive:0.40
+  percent:0.40
+
+K: 5, Log-Likelihood: -277.370, Alpha: 11.000, Beta: 1.100

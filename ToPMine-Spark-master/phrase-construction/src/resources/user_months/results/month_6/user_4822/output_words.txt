@@ -1,0 +1,61 @@
+Topic 0:
+  trade:8.91
+  trust:5.95
+  moneypak:3.95
+  escrow:3.95
+  proceed:3.95
+  publicly:3.95
+  risk:3.95
+  service:3.81
+  interested:3.38
+  pretty:3.15
+
+Topic 1:
+  good:4.01
+  long:3.75
+  mixing:3.64
+  link:2.82
+  service:2.05
+  intedned:1.85
+  connect:1.85
+  purchase:1.85
+  addresses:1.85
+  marketplace:1.85
+
+Topic 2:
+  coins:25.30
+  exchange:8.93
+  mix:6.85
+  le:6.36
+  share:5.93
+  buy:5.93
+  option:5.93
+  online:5.93
+  fresh:4.35
+  vendor:3.93
+
+Topic 3:
+  analysis:3.15
+  key:3.02
+  public:2.32
+  azs:2.26
+  ew:2.20
+  substances:2.18
+  price:2.11
+  standard:2.08
+  dv:2.03
+  eur:2.03
+
+Topic 4:
+  key:2.93
+  analysis:2.80
+  quantification:2.14
+  substances:2.11
+  send:2.08
+  public:1.97
+  pgp:1.95
+  block:1.93
+  eur:1.93
+  dv:1.92
+
+K: 5, Log-Likelihood: -7201.298, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  chka:3.73
+  pretty:3.73
+  cool:3.37
+  fast:2.57
+  set:2.35
+  year:2.30
+  quote:2.21
+  requires:1.75
+  marketplace:1.75
+  marketing:1.75
+
+Topic 1:
+  multisig:9.84
+  august:4.54
+  true:3.85
+  oxygen:3.75
+  shit:3.14
+  looked:2.74
+  heard:2.70
+  havent:2.66
+  traction:2.66
+  gaining:2.66
+
+Topic 2:
+  quote:4.07
+  enigma:2.92
+  july:2.87
+  guys:1.25
+  winklewoss:1.02
+  launching:1.01
+  multiply:0.99
+  exchange:0.99
+  twins:0.97
+  reasons:0.96
+
+Topic 3:
+  coins:4.84
+  quote:3.41
+  hours:2.90
+  enigma:2.37
+  july:2.13
+  passed:2.13
+  confirmations:2.10
+  planning:2.10
+  purchase:2.09
+  today:2.09
+
+Topic 4:
+  july:5.28
+  enigma:3.64
+  quote:3.40
+  guys:2.35
+  moment:1.53
+  reasons:1.50
+  twins:1.50
+  exchange:1.47
+  multiply:1.47
+  winklewoss:1.45
+
+K: 5, Log-Likelihood: -2295.088, Alpha: 11.000, Beta: 1.100

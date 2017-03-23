@@ -1,0 +1,61 @@
+Topic 0:
+  collar:1.66
+  tale:1.66
+  criminal:1.65
+  white:1.65
+  nice:1.65
+  swat:1.65
+  btc:1.45
+  operation:1.25
+  knock door:1.24
+  simple:1.24
+
+Topic 1:
+  farm:2.91
+  thing:2.91
+  btc:1.59
+  created:1.54
+  tek:1.41
+  thinking:1.41
+  wobble:1.41
+  wiki:1.41
+  gold:1.41
+  drug:1.41
+
+Topic 2:
+  side:1.16
+  hell:1.16
+  noble:1.15
+  bright:1.15
+  claim:1.15
+  economy:1.15
+  prize:1.15
+  officially:1.14
+  scam:1.11
+  pumper:1.11
+
+Topic 3:
+  published:7.42
+  wright:7.42
+  nakamoto:5.92
+  january:4.42
+  launch:4.42
+  wired:4.42
+  bitcoin:3.19
+  key:2.91
+  identity:2.91
+  wright blog:2.91
+
+Topic 4:
+  incorporate:5.93
+  ato:4.43
+  tax:2.92
+  feeling:2.92
+  tax avoidance:2.92
+  office:2.92
+  carried:1.42
+  estimate:1.42
+  hardware:1.42
+  grounding:1.42
+
+K: 5, Log-Likelihood: -2389.214, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  computer:1.90
+  drive:1.90
+  installed:1.90
+  system:1.90
+  linux:1.61
+  tails:1.61
+  start:1.56
+  simple:0.90
+  disk:0.90
+  opsec:0.90
+
+Topic 1:
+  library:3.05
+  archive:2.55
+  chan:2.23
+  wiki:2.14
+  sky:1.41
+  confessions:1.39
+  news:1.39
+  torflix:1.38
+  hidden:1.37
+  massive:1.37
+
+Topic 2:
+  cool:1.82
+  dark:1.29
+  sites:1.20
+  st:0.73
+  stubb:0.73
+  net:0.73
+  cheers:0.72
+  library:0.58
+  archive:0.54
+  wiki:0.47
+
+Topic 3:
+  library:3.54
+  chan:2.77
+  wiki:2.65
+  archive:2.12
+  mystery:1.82
+  finish:1.75
+  strange:1.74
+  anonymous:1.73
+  slavic:1.72
+  tor:1.72
+
+Topic 4:
+  dark:1.30
+  cool:1.15
+  sites:0.84
+  library:0.76
+  archive:0.73
+  wiki:0.68
+  net:0.59
+  stubb:0.59
+  cheers:0.59
+  st:0.58
+
+K: 5, Log-Likelihood: -1665.292, Alpha: 11.000, Beta: 1.100

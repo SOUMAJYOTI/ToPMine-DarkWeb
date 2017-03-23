@@ -1,0 +1,61 @@
+Topic 0:
+  loyalty:10.79
+  members:8.09
+  school vendors:7.22
+  normal:6.20
+  people:5.90
+  sr:5.61
+  reason:5.38
+  father:5.38
+  verbal:5.38
+  secret:5.38
+
+Topic 1:
+  sr:15.51
+  escrow:14.46
+  forum:7.37
+  market:7.29
+  markets:7.07
+  customers:6.20
+  connect directly trusted vendors:5.69
+  post couple:5.36
+  shit escrow:5.36
+  haha:5.36
+
+Topic 2:
+  forum:7.07
+  slow:6.39
+  web:6.20
+  dark:6.20
+  market forum:6.16
+  market:6.16
+  decision:5.63
+  months ago:5.63
+  attacking:5.36
+  discussion:5.28
+
+Topic 3:
+  people finally smarting avoiding:8.64
+  dirty smear dw sooner:8.64
+  forum market sr:8.64
+  ami happier sr dying:7.16
+  agree sr forum place:7.16
+  trolltergeist june:7.16
+  forums:6.42
+  listings:6.18
+  measure:6.18
+  mods:6.16
+
+Topic 4:
+  june:7.19
+  largest customer buying power:7.16
+  market google search sr:7.16
+  sr times volume markets:7.16
+  capable finding sr:7.16
+  capable finding deep net:7.16
+  check market status:7.11
+  quoted:6.19
+  sales:6.19
+  bulls:6.15
+
+K: 5, Log-Likelihood: -11633.426, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  windows:28.26
+  code:21.94
+  quote sldk july:19.19
+  false empire collapses:15.59
+  bios:15.45
+  law:13.93
+  microsoft:13.77
+  empire:13.22
+  vpn:10.43
+  windows platform binary table:10.40
+
+Topic 1:
+  ata password:27.29
+  public wifi hotspot:19.08
+  attack:15.04
+  security:14.54
+  quote flashy july:13.67
+  software:13.64
+  alphanumeric space:13.64
+  virtual machines:13.62
+  mint arch:13.62
+  computer:12.88
+
+Topic 2:
+  truecrypt:34.57
+  fbi:30.71
+  mare island:30.54
+  denise huskins:30.54
+  gass:26.72
+  huskins:22.90
+  people:20.52
+  san francisco:20.47
+  registry:19.08
+  police:17.06
+
+Topic 3:
+  xkeyscore:85.97
+  data:26.70
+  traffic:24.19
+  appids fingerprints:22.91
+  field sites:22.91
+  system:22.48
+  analysts:22.08
+  operations:19.09
+  systems administrators:19.09
+  servers:18.91
+
+Topic 4:
+  bios:28.14
+  mb file:22.90
+  hacking team:22.47
+  system:17.42
+  exe:17.06
+  proprietary firmware:15.27
+  autochk exe:15.27
+  nasty:15.15
+  hardware:14.95
+  rival:13.64
+
+K: 5, Log-Likelihood: -215010.560, Alpha: 11.000, Beta: 1.100

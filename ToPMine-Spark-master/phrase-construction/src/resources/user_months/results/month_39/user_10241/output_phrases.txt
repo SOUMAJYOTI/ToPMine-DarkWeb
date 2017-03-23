@@ -1,0 +1,61 @@
+Topic 0:
+  place find forum token:1.15
+  marketplace:1.15
+  registered account market:1.12
+  referred abraham:1.11
+  abraham:1.06
+  questions general discussion security:0.99
+  register account abraxas forums:0.99
+  discussion forum:0.98
+  feel free post:0.97
+  abraxas:0.96
+
+Topic 1:
+  button:5.28
+  market:3.48
+  warned:2.53
+  activity:2.53
+  dec:2.53
+  purchase:2.53
+  le:2.53
+  admins:2.53
+  inspect:2.53
+  forums:2.53
+
+Topic 2:
+  check forums member:3.78
+  fact defeat purpose:1.95
+  referral:1.91
+  march pmquote:1.90
+  post referred:1.90
+  onioncola march:1.89
+  coldstorage:1.88
+  granted:1.88
+  referred thread join content:1.86
+  post questions general discussion:1.37
+
+Topic 3:
+  issues:3.49
+  original:2.00
+  time:1.96
+  business:1.70
+  understandable:1.70
+  updates:1.70
+  agra:1.70
+  continue:1.70
+  opinion:1.70
+  perfectly:1.70
+
+Topic 4:
+  quote onioncola march:1.46
+  place find forum token:1.39
+  registered account market:1.38
+  abraxas forums:1.27
+  referred abraham:1.23
+  people check abraxas forums:1.23
+  marketplace:1.20
+  understanding token join:1.16
+  abraxas forums feel free:1.07
+  check forums member:1.00
+
+K: 5, Log-Likelihood: -1341.097, Alpha: 11.000, Beta: 1.100

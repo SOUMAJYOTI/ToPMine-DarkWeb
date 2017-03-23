@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:8.31
+  mistake number:6.13
+  text file:5.74
+  transaction:5.08
+  shared send:4.45
+  tl:3.35
+  selling:3.34
+  meant:3.34
+  decided:3.34
+  btc electric:3.32
+
+Topic 1:
+  luck:5.16
+  man:5.16
+  editor:4.08
+  bummer:4.08
+  button:4.08
+  double:4.08
+  things:4.08
+  file:4.08
+  blockchain recover:4.08
+  checked:4.08
+
+Topic 2:
+  wallet:5.53
+  shared send:4.79
+  thinking:3.92
+  money:3.37
+  transaction:3.21
+  blockchain wallet:2.74
+  text file:2.53
+  recover:2.39
+  mistake number:2.15
+  guess:1.30
+
+Topic 3:
+  blockchain:4.40
+  sake:4.01
+  glad:4.01
+  simply:4.01
+  someones:4.01
+  mate:4.01
+  flip:4.01
+  case:4.01
+  lose:4.01
+  reply:4.01
+
+Topic 4:
+  fuck terrible reason learn:5.18
+  kind:4.73
+  layer:4.10
+  additional:4.10
+  electric:4.10
+  address:4.10
+  amoh:4.10
+  transactions:4.10
+  intermediate:4.10
+  vendor:4.10
+
+K: 5, Log-Likelihood: -3965.268, Alpha: 11.000, Beta: 1.100

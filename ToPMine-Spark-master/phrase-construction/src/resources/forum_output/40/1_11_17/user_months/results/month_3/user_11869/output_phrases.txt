@@ -1,0 +1,61 @@
+Topic 0:
+  den:0.86
+  er:0.65
+  du:0.52
+  vi:0.35
+  ensom:0.35
+  adresse:0.35
+  maskine:0.35
+  mere:0.35
+  af:0.35
+  ikke:0.35
+
+Topic 1:
+  den:0.98
+  er:0.86
+  du:0.64
+  vil:0.40
+  mere:0.40
+  ikke:0.40
+  ensom:0.40
+  af:0.40
+  adresse:0.40
+  maskine:0.40
+
+Topic 2:
+  den:1.08
+  er:0.83
+  du:0.59
+  adresse:0.40
+  vil:0.40
+  af:0.40
+  mere:0.40
+  vi:0.40
+  ikke:0.40
+  ensom:0.39
+
+Topic 3:
+  den:1.00
+  er:0.76
+  du:0.58
+  af:0.38
+  ikke:0.38
+  maskine:0.38
+  vi:0.38
+  ensom:0.38
+  vil:0.38
+  adresse:0.38
+
+Topic 4:
+  den:0.65
+  er:0.56
+  du:0.43
+  site:0.42
+  maskine:0.31
+  adresse:0.31
+  ensom:0.31
+  mere:0.31
+  vi:0.31
+  af:0.31
+
+K: 5, Log-Likelihood: -304.910, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  deepbay:0.62
+  people:0.54
+  scam:0.41
+  coins:0.40
+  movement:0.39
+  problems:0.36
+  vanishing:0.36
+  btc:0.36
+  nestled:0.21
+  warnings:0.21
+
+Topic 1:
+  people:1.01
+  btc:0.65
+  vanishing:0.64
+  problems:0.64
+  deepbay:0.48
+  coins:0.48
+  movement:0.42
+  scam:0.33
+  retrieve:0.28
+  sales:0.28
+
+Topic 2:
+  people:0.80
+  deepbay:0.55
+  problems:0.50
+  vanishing:0.50
+  btc:0.49
+  coins:0.44
+  movement:0.41
+  scam:0.37
+  betting:0.23
+  pay:0.23
+
+Topic 3:
+  deepbay:0.69
+  scam:0.44
+  movement:0.38
+  coins:0.33
+  people:0.31
+  planet:0.25
+  failed:0.25
+  aint:0.25
+  hands:0.25
+  wither:0.25
+
+Topic 4:
+  deepbay:0.66
+  scam:0.44
+  movement:0.39
+  coins:0.34
+  people:0.34
+  problems:0.26
+  vanishing:0.26
+  btc:0.26
+  worse:0.24
+  properly:0.24
+
+K: 5, Log-Likelihood: -428.189, Alpha: 11.000, Beta: 1.100

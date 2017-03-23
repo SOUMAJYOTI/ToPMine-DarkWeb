@@ -1,0 +1,61 @@
+Topic 0:
+  switch:11.57
+  time:7.77
+  foot:6.20
+  laptop:6.07
+  battery:4.47
+  plug:3.91
+  le:3.77
+  charger:3.34
+  remove:3.13
+  power:2.80
+
+Topic 1:
+  machine:8.90
+  phone:6.93
+  data:6.16
+  device:3.96
+  disk:3.90
+  connection:3.85
+  killswitch:3.78
+  le:3.57
+  bust:3.45
+  packets:2.96
+
+Topic 2:
+  idea:7.93
+  good:6.58
+  door:4.21
+  atop:3.29
+  playing:3.20
+  lost:3.12
+  dangerous:2.90
+  rave:2.90
+  lou:2.90
+  heroic:2.90
+
+Topic 3:
+  tor:8.87
+  vpn:5.85
+  socks:5.13
+  earthquake:4.42
+  tails:4.31
+  service:3.92
+  mails:2.92
+  route:2.92
+  browser:2.92
+  openvpn:2.91
+
+Topic 4:
+  computer:7.33
+  switch:6.72
+  foot:5.61
+  le:5.57
+  prevent:5.24
+  dont:4.98
+  lock:4.01
+  memory:3.87
+  hands:3.87
+  screen:3.45
+
+K: 5, Log-Likelihood: -5719.968, Alpha: 11.000, Beta: 1.100

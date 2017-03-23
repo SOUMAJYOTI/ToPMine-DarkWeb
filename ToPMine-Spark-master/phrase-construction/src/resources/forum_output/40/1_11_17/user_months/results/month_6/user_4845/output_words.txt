@@ -1,0 +1,61 @@
+Topic 0:
+  fun:13.19
+  info:10.62
+  sarcastic:7.71
+  chatter:7.71
+  bot:7.71
+  money:7.71
+  security:7.71
+  handles:7.70
+  chez:7.69
+  log:7.44
+
+Topic 1:
+  quote:6.23
+  fun:5.32
+  hand:3.83
+  delysid:3.49
+  february:2.93
+  info:2.74
+  ammore:2.72
+  santa:2.66
+  great:2.65
+  chats:2.64
+
+Topic 2:
+  quote:3.01
+  fun:2.85
+  chat:2.80
+  info:2.53
+  server:2.35
+  public:2.09
+  cheers:1.87
+  february:1.58
+  triple:1.31
+  checked:1.30
+
+Topic 3:
+  irc:13.87
+  chat:12.72
+  leave:7.85
+  join:6.99
+  people:5.85
+  pidgin:5.82
+  tor:5.18
+  type:4.12
+  proxy:3.87
+  list:3.87
+
+Topic 4:
+  server:10.15
+  drug:8.92
+  public:6.23
+  cheers:6.16
+  sourcing:5.40
+  market:5.39
+  channel:4.51
+  irc:4.25
+  totally:3.87
+  tor:3.55
+
+K: 5, Log-Likelihood: -4966.830, Alpha: 11.000, Beta: 1.100

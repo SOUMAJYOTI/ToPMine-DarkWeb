@@ -1,0 +1,61 @@
+Topic 0:
+  users:13.62
+  good:12.34
+  forum:7.16
+  support:7.14
+  bazaar:6.91
+  hub:6.27
+  market:6.21
+  socks:4.66
+  post:4.17
+  llama:3.65
+
+Topic 1:
+  quote:10.09
+  referred:9.41
+  account:8.37
+  pay:7.14
+  pretty:6.89
+  market:5.79
+  markets:5.50
+  sir:5.49
+  user:5.48
+  april:5.23
+
+Topic 2:
+  keys:12.43
+  key:11.80
+  tor:7.99
+  clients:7.18
+  hidden:6.99
+  relay:6.99
+  identity:6.99
+  term:4.99
+  service:4.99
+  opens:4.99
+
+Topic 3:
+  order:61.83
+  vendor:44.65
+  buyer:33.94
+  transaction:33.87
+  address:32.32
+  users:27.09
+  bazaar:26.70
+  multisig:25.07
+  public:24.77
+  vendors:22.27
+
+Topic 4:
+  blockchain:24.58
+  bitcoin:17.05
+  february:15.96
+  secure:14.87
+  electrum:14.78
+  quote:12.47
+  wallets:12.22
+  people:11.74
+  sig:11.73
+  wallet:11.18
+
+K: 5, Log-Likelihood: -19882.895, Alpha: 11.000, Beta: 1.100

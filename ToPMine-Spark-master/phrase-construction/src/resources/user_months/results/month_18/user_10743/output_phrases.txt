@@ -1,0 +1,61 @@
+Topic 0:
+  install:2.63
+  google:2.63
+  flavored:1.25
+  appletini:1.25
+  alchohol:1.25
+  beverage:1.25
+  clearnet:1.25
+  live:1.25
+  pip:1.25
+  apple:1.25
+
+Topic 1:
+  read good:2.65
+  fish:2.65
+  fed:2.65
+  man:2.02
+  case:1.27
+  ill:1.27
+  truecrypt:1.27
+  lifetime:1.27
+  lack:1.27
+  today:1.27
+
+Topic 2:
+  agora:1.61
+  goldberg:1.22
+  george:1.22
+  sassaman:1.22
+  syverson:1.22
+  nicholas:1.22
+  schneier:1.22
+  highlighted:1.22
+  hopper:1.22
+  bernstein:1.22
+
+Topic 3:
+  check:2.43
+  hacking:2.42
+  lists:1.10
+  sellers:1.10
+  category:1.10
+  basically:1.10
+  favorite:1.10
+  exposed:1.10
+  sells:1.10
+  bookshop:1.10
+
+Topic 4:
+  guide:2.60
+  read:2.02
+  markets:1.45
+  understand:1.45
+  dont:1.22
+  understand tor:1.22
+  topic:1.22
+  start:1.22
+  depends:1.22
+  learn security:1.22
+
+K: 5, Log-Likelihood: -1230.838, Alpha: 11.000, Beta: 1.100

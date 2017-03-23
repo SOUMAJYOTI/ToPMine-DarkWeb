@@ -1,0 +1,61 @@
+Topic 0:
+  site:1.44
+  clearnet:1.20
+  onion:1.10
+  tor:0.91
+  bad:0.77
+  strange:0.44
+  google:0.44
+  day:0.44
+  swiss:0.43
+  pushingtabu:0.43
+
+Topic 1:
+  site:1.66
+  clearnet:1.25
+  onion:1.16
+  tor:0.95
+  bad:0.77
+  bliss:0.45
+  navigate:0.45
+  swiss:0.45
+  store:0.45
+  gammagoblins:0.45
+
+Topic 2:
+  site:1.72
+  clearnet:1.34
+  onion:1.13
+  bad:0.77
+  tor:0.71
+  eye:0.42
+  linkgood:0.42
+  saywhat:0.42
+  crap:0.42
+  quote:0.42
+
+Topic 3:
+  site:1.69
+  onion:1.34
+  clearnet:1.25
+  tor:0.93
+  bad:0.79
+  searched:0.44
+  ehhhh:0.44
+  sites:0.44
+  day:0.44
+  sorta:0.44
+
+Topic 4:
+  site:1.48
+  onion:1.26
+  clearnet:0.95
+  bad:0.90
+  start:0.56
+  interesting:0.56
+  search:0.56
+  addresses:0.56
+  chrome:0.56
+  bookmarked:0.56
+
+K: 5, Log-Likelihood: -462.870, Alpha: 11.000, Beta: 1.100

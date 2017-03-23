@@ -1,0 +1,61 @@
+Topic 0:
+  ei:0.33
+  nain:0.33
+  toki:0.33
+  jos:0.33
+  ja:0.21
+  statukset:0.20
+  myyj:0.20
+  vaikka:0.20
+  mites:0.20
+  rival:0.20
+
+Topic 1:
+  jos:0.34
+  nain:0.34
+  toki:0.34
+  ei:0.34
+  ja:0.21
+  en:0.20
+  saadaan:0.20
+  vaikka:0.20
+  rival:0.20
+  mites:0.20
+
+Topic 2:
+  jos:0.39
+  nain:0.39
+  toki:0.39
+  ei:0.39
+  en:0.21
+  vaikka:0.21
+  statukset:0.21
+  myyj:0.21
+  rival:0.21
+  mites:0.21
+
+Topic 3:
+  jos:0.38
+  toki:0.38
+  nain:0.38
+  ei:0.38
+  en:0.21
+  myyj:0.21
+  vaikka:0.21
+  statukset:0.21
+  saadaan:0.21
+  mites:0.21
+
+Topic 4:
+  ei:0.40
+  toki:0.40
+  nain:0.40
+  jos:0.40
+  rival:0.21
+  saadaan:0.21
+  mites:0.21
+  statukset:0.21
+  myyj:0.21
+  vaikka:0.21
+
+K: 5, Log-Likelihood: -373.732, Alpha: 11.000, Beta: 1.100

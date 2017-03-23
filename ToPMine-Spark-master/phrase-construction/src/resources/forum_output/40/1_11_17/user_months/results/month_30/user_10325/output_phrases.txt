@@ -1,0 +1,61 @@
+Topic 0:
+  gifs:1.30
+  java:1.20
+  gif images:1.13
+  impact complete:0.98
+  images gifs:0.91
+  dnm forums:0.90
+  view:0.89
+  images:0.88
+  poster:0.86
+  remote:0.77
+
+Topic 1:
+  gifs:2.30
+  view:1.46
+  poster:1.46
+  images:1.46
+  dnm forums:1.46
+  images gifs:1.44
+  post:1.00
+  security risk:0.94
+  dangers:0.67
+  text:0.67
+
+Topic 2:
+  metadata:2.43
+  javascript:2.43
+  png file:2.43
+  malware:2.28
+  deeply:1.18
+  injections:1.18
+  link:1.18
+  canohontras:1.18
+  file:1.18
+  injection:1.18
+
+Topic 3:
+  impact complete:2.55
+  gif images:2.39
+  java:2.32
+  level:1.64
+  references:1.63
+  attacker:1.61
+  sun:1.60
+  arbitrary:1.60
+  access:1.60
+  execute:1.58
+
+Topic 4:
+  forum:1.70
+  render:0.98
+  worrying:0.98
+  user:0.98
+  content:0.98
+  browser:0.98
+  machine:0.98
+  attack:0.98
+  force:0.98
+  bad:0.98
+
+K: 5, Log-Likelihood: -1703.818, Alpha: 11.000, Beta: 1.100

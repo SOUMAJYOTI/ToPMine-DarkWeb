@@ -1,0 +1,61 @@
+Topic 0:
+  mit:5.16
+  ett:2.32
+  nyt:2.02
+  eli:1.89
+  kiinni:1.45
+  jo:1.43
+  olla:1.35
+  oli:1.30
+  iv:1.28
+  niin:1.19
+
+Topic 1:
+  oli:2.29
+  mit:1.95
+  kirje:1.72
+  jos:1.69
+  nain:1.45
+  ei:1.41
+  ku:1.35
+  mut:1.33
+  jo:1.04
+  ja:0.87
+
+Topic 2:
+  ytt:6.78
+  omaan:3.76
+  sallittu:2.80
+  oman:2.48
+  ja:2.36
+  ll:2.25
+  tuli:2.00
+  dopingrikoksesta:1.77
+  onneksi:1.77
+  st:1.77
+
+Topic 3:
+  se:3.32
+  sun:2.92
+  jos:2.61
+  mit:1.94
+  siin:1.92
+  varmaan:1.92
+  tulliin:1.92
+  miun:1.92
+  kokemusta:1.28
+  joku:1.27
+
+Topic 4:
+  mit:1.81
+  jos:1.32
+  ei:1.24
+  olla:1.16
+  nain:1.08
+  ja:1.02
+  tunnustin:0.96
+  suomen:0.95
+  tunnustamatta:0.95
+  tilanneeni:0.95
+
+K: 5, Log-Likelihood: -1931.200, Alpha: 11.000, Beta: 1.100

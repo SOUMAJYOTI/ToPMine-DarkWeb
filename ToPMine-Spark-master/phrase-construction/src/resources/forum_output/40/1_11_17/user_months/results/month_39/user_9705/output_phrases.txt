@@ -1,0 +1,61 @@
+Topic 0:
+  places:0.49
+  reposted:0.49
+  threads:0.49
+  dig:0.49
+  tits:0.49
+  utilize:0.49
+  cd:0.49
+  hub:0.48
+  notch:0.48
+  great:0.48
+
+Topic 1:
+  info hub:0.51
+  stall:0.51
+  sound:0.51
+  tug:0.51
+  tails:0.51
+  fact:0.51
+  bitcoins:0.51
+  tumble:0.51
+  topics:0.51
+  quality:0.51
+
+Topic 2:
+  good:2.00
+  wondering:1.98
+  markets:0.86
+  handle:0.86
+  chances:0.86
+  trip:0.86
+  slowly:0.86
+  earth:0.86
+  experience:0.86
+  buy:0.86
+
+Topic 3:
+  contact:0.38
+  opsec pgp:0.38
+  system:0.38
+  time:0.38
+  pgp opsec:0.38
+  opsec:0.38
+  operating:0.38
+  extra:0.38
+  rushed:0.38
+  time tails:0.38
+
+Topic 4:
+  learning:0.51
+  slow:0.51
+  operating:0.51
+  opsec:0.51
+  luck:0.51
+  security good:0.51
+  lucy:0.51
+  system:0.51
+  orderofthephoenix:0.51
+  sloppy:0.51
+
+K: 5, Log-Likelihood: -696.514, Alpha: 11.000, Beta: 1.100

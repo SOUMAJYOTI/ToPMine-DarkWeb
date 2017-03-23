@@ -1,0 +1,61 @@
+Topic 0:
+  listings:2.56
+  sign:2.26
+  completely:2.26
+  cloud:2.26
+  good:2.26
+  heard:2.26
+  load:2.26
+  structure:2.26
+  password:2.26
+  username:2.26
+
+Topic 1:
+  paper:7.33
+  agora:4.60
+  marketplace:4.60
+  advantages:4.60
+  find:4.60
+  links:4.60
+  stick paper:3.48
+  explain:3.48
+  mdma:3.48
+  suppost:3.48
+
+Topic 2:
+  call:3.15
+  yeah:3.01
+  bad:2.95
+  manners:2.13
+  guy:2.12
+  doubt:2.12
+  potential:2.12
+  ill:2.12
+  scammer:2.12
+  mine:2.11
+
+Topic 3:
+  js:3.67
+  listings:3.27
+  lila:3.15
+  site:2.26
+  telling:2.26
+  problems:2.26
+  solved:2.26
+  link:2.26
+  posted:2.26
+  local:2.26
+
+Topic 4:
+  freedom drugs:7.00
+  market:6.56
+  place:4.65
+  asked:3.29
+  support:2.30
+  started:2.30
+  quoteyou:2.30
+  stealing:2.30
+  cookie:2.30
+  create:2.30
+
+K: 5, Log-Likelihood: -2289.790, Alpha: 11.000, Beta: 1.100

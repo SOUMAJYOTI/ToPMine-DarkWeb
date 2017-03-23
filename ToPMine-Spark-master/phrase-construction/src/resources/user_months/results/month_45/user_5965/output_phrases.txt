@@ -1,0 +1,61 @@
+Topic 0:
+  guys:0.84
+  lelantos:0.71
+  email service:0.63
+  choice:0.60
+  solid:0.60
+  security:0.59
+  codes:0.59
+  invite:0.59
+  lot:0.59
+  breach:0.58
+
+Topic 1:
+  email service:1.06
+  lelantos:0.98
+  guys:0.64
+  good:0.63
+  safe mail:0.62
+  tor:0.59
+  free:0.59
+  darkness:0.59
+  month:0.58
+  hey:0.58
+
+Topic 2:
+  guys:2.12
+  stick:0.91
+  answers:0.88
+  faq:0.88
+  rise:0.88
+  beginners:0.88
+  thread:0.87
+  great:0.87
+  day:0.87
+  delete thread:0.87
+
+Topic 3:
+  guys:0.95
+  lelantos:0.69
+  breach:0.67
+  security:0.67
+  codes:0.67
+  solid:0.67
+  riseup:0.67
+  invite:0.67
+  choice:0.66
+  lot:0.66
+
+Topic 4:
+  email service:2.29
+  lelantos:1.18
+  awhile:0.93
+  send:0.93
+  everytime:0.93
+  hidden:0.93
+  mail:0.93
+  nowadays:0.93
+  advance:0.93
+  excluding:0.92
+
+K: 5, Log-Likelihood: -486.012, Alpha: 11.000, Beta: 1.100

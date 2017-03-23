@@ -1,0 +1,61 @@
+Topic 0:
+  sign:12.80
+  forced:9.90
+  ive:9.56
+  march:9.29
+  market:6.86
+  time:6.30
+  noticed:6.21
+  signout:5.89
+  times:5.23
+  experience:5.12
+
+Topic 1:
+  bsm:7.36
+  site:6.46
+  sr:4.92
+  forums:4.45
+  running:3.56
+  swam:2.90
+  traffic:2.73
+  markets:2.60
+  shills:2.57
+  knock:2.28
+
+Topic 2:
+  hub:10.04
+  customers:6.28
+  site:5.58
+  bsm:5.05
+  blue:4.89
+  forum:4.82
+  users:4.77
+  sky:4.76
+  thing:3.24
+  winnfield:3.15
+
+Topic 3:
+  deposit:4.45
+  vending:4.28
+  coin:3.87
+  bsm:3.83
+  quote:3.05
+  problem:2.86
+  bit:2.74
+  money:2.36
+  march:2.25
+  traffic:2.23
+
+Topic 4:
+  sr:10.30
+  bsm:8.29
+  good:6.04
+  agora:5.16
+  nice:4.52
+  market:4.42
+  people:4.32
+  fast:4.15
+  forums:3.68
+  markets:3.29
+
+K: 5, Log-Likelihood: -5637.221, Alpha: 11.000, Beta: 1.100

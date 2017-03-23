@@ -1,0 +1,61 @@
+Topic 0:
+  email:2.01
+  meo:1.85
+  dont:1.21
+  site:1.16
+  onion:1.14
+  contact:1.07
+  tmg:1.06
+  dxe:0.91
+  dmtmxp:0.84
+  ketaminedeschloroketamine:0.84
+
+Topic 1:
+  email:2.25
+  meo:1.59
+  contact:1.29
+  dont:1.21
+  site:1.19
+  onion:1.14
+  tmg:1.03
+  dxe:0.81
+  dmtmxp:0.79
+  ketaminedeschloroketamine:0.79
+
+Topic 2:
+  email:2.45
+  meo:1.46
+  contact:1.38
+  onion:1.30
+  dont:1.19
+  site:1.18
+  tmg:1.00
+  dmtmxp:0.80
+  ketaminedeschloroketamine:0.79
+  address:0.79
+
+Topic 3:
+  email:2.22
+  meo:1.63
+  contact:1.47
+  site:1.20
+  dont:1.19
+  onion:1.16
+  tmg:0.97
+  ketaminedeschloroketamine:0.81
+  dmtmxp:0.79
+  dxe:0.78
+
+Topic 4:
+  email:2.08
+  contact:1.79
+  meo:1.47
+  site:1.28
+  onion:1.25
+  dont:1.20
+  tmg:0.93
+  address:0.89
+  ketaminedeschloroketamine:0.78
+  dmtmxp:0.77
+
+K: 5, Log-Likelihood: -812.226, Alpha: 11.000, Beta: 1.100

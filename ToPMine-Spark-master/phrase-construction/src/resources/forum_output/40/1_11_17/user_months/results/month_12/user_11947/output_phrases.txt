@@ -1,0 +1,61 @@
+Topic 0:
+  pretty:0.00
+  euro:0.00
+  large:0.00
+  black:0.00
+  scam:0.00
+  positive:0.00
+  list:0.00
+  experience:0.00
+  hope:0.00
+  wondering:0.00
+
+Topic 1:
+  pretty:0.00
+  euro:0.00
+  large:0.00
+  black:0.00
+  scam:0.00
+  positive:0.00
+  list:0.00
+  experience:0.00
+  hope:0.00
+  wondering:0.00
+
+Topic 2:
+  pretty:0.00
+  euro:0.00
+  large:0.00
+  black:0.00
+  scam:0.00
+  positive:0.00
+  list:0.00
+  experience:0.00
+  hope:0.00
+  wondering:0.00
+
+Topic 3:
+  pretty:0.00
+  euro:0.00
+  large:0.00
+  black:0.00
+  scam:0.00
+  positive:0.00
+  list:0.00
+  experience:0.00
+  hope:0.00
+  wondering:0.00
+
+Topic 4:
+  pretty:0.00
+  euro:0.00
+  large:0.00
+  black:0.00
+  scam:0.00
+  positive:0.00
+  list:0.00
+  experience:0.00
+  hope:0.00
+  wondering:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

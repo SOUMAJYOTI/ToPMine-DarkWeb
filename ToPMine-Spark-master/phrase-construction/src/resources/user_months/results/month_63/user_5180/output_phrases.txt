@@ -1,0 +1,61 @@
+Topic 0:
+  tied escrow:2.03
+  abraxas:1.84
+  including:1.84
+  predicament:1.84
+  ddw:1.83
+  links:1.83
+  greed:1.83
+  favourite:1.83
+  talk:1.83
+  peace:1.83
+
+Topic 1:
+  attack:2.10
+  quote:1.93
+  hope:1.75
+  november:1.74
+  markets:1.71
+  real relating cheers:1.46
+  pmlets:1.41
+  attacked:1.40
+  snacktime:1.38
+  jump conclusions heredoes:1.38
+
+Topic 2:
+  coin:4.04
+  bitcoin:1.96
+  common:1.96
+  explanations:1.96
+  ransom:1.96
+  result:1.96
+  server:1.96
+  maintenance:1.96
+  basically:1.96
+  flux:1.96
+
+Topic 3:
+  november:2.09
+  quote:1.89
+  attack:1.79
+  word:1.62
+  snacktime:1.61
+  attacked:1.59
+  pmlets:1.58
+  jump conclusions heredoes:1.41
+  real relating cheers:1.33
+  markets:1.14
+
+Topic 4:
+  good:4.82
+  rare:3.14
+  events:3.14
+  alot:3.14
+  personally:3.14
+  opportunity:3.14
+  true:3.14
+  frenzy:3.14
+  month:3.14
+  worried:3.14
+
+K: 5, Log-Likelihood: -1125.705, Alpha: 11.000, Beta: 1.100

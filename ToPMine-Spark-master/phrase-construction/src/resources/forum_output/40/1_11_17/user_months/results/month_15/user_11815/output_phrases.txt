@@ -1,0 +1,61 @@
+Topic 0:
+  middle earth:10.11
+  community:5.96
+  migrate middle earth:4.46
+  spirit:2.96
+  agora:2.96
+  growing:2.96
+  today:2.96
+  service:2.96
+  joining:2.96
+  business:2.96
+
+Topic 1:
+  post:4.89
+  discussion:2.96
+  figured:2.96
+  agree:2.96
+  thread:1.94
+  hub:1.45
+  wit:1.45
+  amlol:1.45
+  placing:1.45
+  leading:1.45
+
+Topic 2:
+  dpr:3.99
+  middle earth:2.93
+  problems:2.93
+  illegal:2.93
+  high:2.93
+  hard:2.92
+  direction:2.92
+  server compromised:2.80
+  programming:2.19
+  things:2.19
+
+Topic 3:
+  posting:2.93
+  arguing:1.43
+  enjoy:1.43
+  market facts:1.43
+  unsafe:1.43
+  forum:1.43
+  defence:1.43
+  warned:1.43
+  happen:1.43
+  stated:1.43
+
+Topic 4:
+  xss hacks:2.95
+  people:2.01
+  answer:1.45
+  record:1.45
+  deploy:1.45
+  complete:1.45
+  wheel:1.45
+  manners:1.45
+  aspect:1.45
+  factually:1.45
+
+K: 5, Log-Likelihood: -3245.263, Alpha: 11.000, Beta: 1.100

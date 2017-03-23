@@ -1,0 +1,61 @@
+Topic 0:
+  store:4.35
+  vendors:2.37
+  search:1.43
+  choose:0.65
+  items:0.56
+  branding:0.56
+  thinking:0.56
+  extent:0.56
+  letting:0.56
+  finished:0.56
+
+Topic 1:
+  comments:0.55
+  cloud:0.52
+  fe:0.47
+  board:0.45
+  reddit:0.43
+  choose:0.35
+  bootstrap:0.34
+  february:0.34
+  homepage:0.26
+  active:0.26
+
+Topic 2:
+  bootstrap:0.78
+  february:0.77
+  board:0.55
+  fe:0.40
+  cloud:0.38
+  comments:0.36
+  honestly:0.32
+  sheep:0.32
+  enctype:0.32
+  framework:0.32
+
+Topic 3:
+  fe:0.52
+  cloud:0.46
+  february:0.44
+  bootstrap:0.43
+  board:0.43
+  comments:0.39
+  choose:0.39
+  reddit:0.38
+  users:0.24
+  plate:0.24
+
+Topic 4:
+  comments:0.60
+  cloud:0.52
+  board:0.48
+  fe:0.45
+  reddit:0.42
+  bootstrap:0.35
+  february:0.34
+  choose:0.33
+  ideas:0.27
+  order:0.27
+
+K: 5, Log-Likelihood: -351.474, Alpha: 11.000, Beta: 1.100

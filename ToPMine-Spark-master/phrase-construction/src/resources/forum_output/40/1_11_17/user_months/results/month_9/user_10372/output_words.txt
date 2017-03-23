@@ -1,0 +1,61 @@
+Topic 0:
+  ocsp:0.61
+  tails:0.59
+  network:0.52
+  google:0.42
+  geotrust:0.42
+  gtglobal:0.42
+  iceweasel:0.40
+  map:0.38
+  clients:0.21
+  connection:0.21
+
+Topic 1:
+  network:0.78
+  tails:0.68
+  map:0.47
+  ocsp:0.47
+  iceweasel:0.40
+  geotrust:0.34
+  gtglobal:0.34
+  google:0.34
+  hand:0.22
+  tor:0.22
+
+Topic 2:
+  network:0.74
+  tails:0.66
+  ocsp:0.48
+  map:0.47
+  iceweasel:0.41
+  geotrust:0.35
+  gtglobal:0.35
+  google:0.35
+  box:0.22
+  open:0.22
+
+Topic 3:
+  ocsp:0.79
+  tails:0.50
+  gtglobal:0.47
+  google:0.47
+  geotrust:0.47
+  network:0.43
+  iceweasel:0.39
+  map:0.32
+  htts:0.22
+  mickeyclients:0.22
+
+Topic 4:
+  ocsp:0.65
+  tails:0.57
+  network:0.53
+  geotrust:0.42
+  google:0.42
+  gtglobal:0.42
+  iceweasel:0.40
+  map:0.36
+  bug:0.21
+  component:0.21
+
+K: 5, Log-Likelihood: -164.316, Alpha: 11.000, Beta: 1.100

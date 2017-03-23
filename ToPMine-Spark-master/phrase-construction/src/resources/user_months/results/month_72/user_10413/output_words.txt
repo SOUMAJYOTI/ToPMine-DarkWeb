@@ -1,0 +1,61 @@
+Topic 0:
+  speakers:6.73
+  bluetooth:6.46
+  running:5.05
+  marketplace:4.57
+  quote:3.87
+  finds:3.79
+  play:3.60
+  vendors:3.59
+  tether:3.50
+  sale:3.36
+
+Topic 1:
+  shut:14.87
+  ovdb:14.71
+  sr:13.98
+  forum:10.08
+  labs:7.96
+  speaker:7.68
+  remember:7.31
+  time:7.26
+  didnt:6.07
+  oldest:5.12
+
+Topic 2:
+  coins:9.68
+  march:8.81
+  deposit:8.55
+  ab:6.75
+  boneskoopa:6.50
+  btc:5.66
+  fa:4.82
+  quote:4.73
+  address:4.54
+  deposited:4.49
+
+Topic 3:
+  multisig:35.97
+  trust:21.83
+  april:14.30
+  evolution:11.97
+  market:11.64
+  money:10.28
+  alphabay:10.22
+  dont:10.08
+  alpha:9.97
+  people:9.11
+
+Topic 4:
+  market:18.68
+  forum:17.83
+  private:13.98
+  sr:9.85
+  bmr:9.81
+  moved:9.16
+  onion:7.97
+  drug:7.04
+  budmail:6.91
+  february:6.39
+
+K: 5, Log-Likelihood: -11102.400, Alpha: 11.000, Beta: 1.100

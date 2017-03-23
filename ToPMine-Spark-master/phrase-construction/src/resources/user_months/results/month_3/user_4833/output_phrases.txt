@@ -1,0 +1,61 @@
+Topic 0:
+  reason:0.00
+  innocent:0.00
+  questions:0.00
+  oldmandrugs:0.00
+  reputation:0.00
+  paint:0.00
+  bullshit:0.00
+  ban:0.00
+  subreddit:0.00
+  multi:0.00
+
+Topic 1:
+  reason:0.00
+  innocent:0.00
+  questions:0.00
+  oldmandrugs:0.00
+  reputation:0.00
+  paint:0.00
+  bullshit:0.00
+  ban:0.00
+  subreddit:0.00
+  multi:0.00
+
+Topic 2:
+  reason:0.00
+  innocent:0.00
+  questions:0.00
+  oldmandrugs:0.00
+  reputation:0.00
+  paint:0.00
+  bullshit:0.00
+  ban:0.00
+  subreddit:0.00
+  multi:0.00
+
+Topic 3:
+  reason:0.00
+  innocent:0.00
+  questions:0.00
+  oldmandrugs:0.00
+  reputation:0.00
+  paint:0.00
+  bullshit:0.00
+  ban:0.00
+  subreddit:0.00
+  multi:0.00
+
+Topic 4:
+  reason:0.00
+  innocent:0.00
+  questions:0.00
+  oldmandrugs:0.00
+  reputation:0.00
+  paint:0.00
+  bullshit:0.00
+  ban:0.00
+  subreddit:0.00
+  multi:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

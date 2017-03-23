@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:2.32
+  messages:2.01
+  hacking:1.96
+  good:1.48
+  safe:1.37
+  pip:1.27
+  dont:1.25
+  read:1.07
+  encrypt:1.06
+  place:1.04
+
+Topic 1:
+  hacking:2.01
+  good:1.96
+  pgp:1.91
+  place:1.86
+  messages:1.62
+  link:1.34
+  lot:1.19
+  wondering:1.16
+  dont:1.15
+  pip:1.14
+
+Topic 2:
+  stuff:2.26
+  place:2.13
+  address:1.69
+  order:1.43
+  questions:1.38
+  vendor:1.29
+  safe:1.26
+  messages:1.22
+  link:1.05
+  dood:0.91
+
+Topic 3:
+  place:3.91
+  stuff:2.69
+  order:1.88
+  safe:1.87
+  questions:1.63
+  good:1.28
+  vendor:1.23
+  things:1.00
+  start:0.97
+  address:0.90
+
+Topic 4:
+  programs:5.64
+  figure:5.62
+  pgp:4.69
+  good:4.51
+  program:3.64
+  platforms:3.64
+  privacy:3.64
+  lot:3.44
+  hacking:2.69
+  info:1.67
+
+K: 5, Log-Likelihood: -1546.914, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  hub:10.04
+  jack harkness:7.50
+  posts:6.62
+  good:5.89
+  redacting:5.82
+  mod:5.82
+  useless:5.82
+  jh hasnt:5.82
+  post months:5.82
+  word:5.80
+
+Topic 1:
+  good mod:15.05
+  shifty:6.38
+  people:6.09
+  mouth:5.82
+  months:5.30
+  community:5.28
+  choose:5.00
+  viewed:5.00
+  endured:5.00
+  supposed:5.00
+
+Topic 2:
+  amagi:14.58
+  bank:11.66
+  image metals:8.75
+  bitcoin:8.75
+  digital currencies:8.75
+  precious metals:8.75
+  money:6.96
+  accepting bitcoin:5.83
+  exclusively cryptocurrencies:5.83
+  colorado:5.83
+
+Topic 3:
+  sr:10.32
+  enemy:9.69
+  site:8.90
+  family:7.52
+  safe:7.51
+  change:6.56
+  obvious:5.82
+  cheap:5.82
+  disputed:5.82
+  leave:5.00
+
+Topic 4:
+  benefit:10.01
+  market:8.93
+  alfred:8.73
+  quote:7.23
+  post:6.85
+  silk road:6.03
+  time:5.76
+  dedicate:4.98
+  forward:4.98
+  clu:4.98
+
+K: 5, Log-Likelihood: -16590.435, Alpha: 11.000, Beta: 1.100

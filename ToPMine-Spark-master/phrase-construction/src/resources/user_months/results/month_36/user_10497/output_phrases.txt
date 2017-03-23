@@ -1,0 +1,61 @@
+Topic 0:
+  nsa:12.46
+  encryption:7.84
+  systems:6.47
+  program:6.12
+  programs:4.29
+  data:4.06
+  vpn:3.85
+  connections:3.80
+  zimmermann:3.78
+  communications:3.70
+
+Topic 1:
+  ross:4.94
+  quote claptrap february:4.51
+  spend:3.86
+  rest:3.86
+  natural:3.86
+  careless:3.86
+  weak:3.86
+  ash:3.86
+  zaphod:3.68
+  ross poster child full:3.68
+
+Topic 2:
+  username password:9.21
+  email:8.20
+  password:6.04
+  mail client:4.57
+  security:3.94
+  fuck:3.88
+  account:3.88
+  coworker:3.88
+  story:3.88
+  policies:2.99
+
+Topic 3:
+  nsa:24.22
+  data:21.07
+  asa document:12.73
+  internet:11.02
+  called:8.32
+  classification guide:7.32
+  program:7.22
+  systems:6.98
+  encryption:6.29
+  service:5.93
+
+Topic 4:
+  asa:6.52
+  number:6.13
+  bug:5.81
+  generator:3.87
+  design:3.87
+  private keys:3.87
+  doesnt:3.87
+  random:3.87
+  document:3.30
+  presentation:3.23
+
+K: 5, Log-Likelihood: -26366.875, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  move:2.37
+  fog coinjoin:2.37
+  tumbling:2.37
+  shared send:1.18
+  friendly:1.12
+  amuse:1.12
+  real:1.12
+  addressso:1.12
+  fresh:1.12
+  ultimate:1.12
+
+Topic 1:
+  guide:2.23
+  january:1.08
+  write:1.02
+  thing:1.02
+  bring:1.02
+  talked:1.02
+  mentioned:1.02
+  obtaining:1.02
+  explore:1.02
+  thought:1.02
+
+Topic 2:
+  transactions:2.08
+  maxwell:2.07
+  chance:2.06
+  core:2.05
+  algorithm:0.94
+  skills:0.94
+  peoples:0.94
+  low:0.94
+  coins privacy:0.94
+  transaction:0.94
+
+Topic 3:
+  shared coin:1.43
+  february:1.38
+  discontinued:1.03
+  pmblockchain:1.03
+  coinjoin mixer:1.03
+  axa:1.03
+  anonymous:1.03
+  blockchain info:1.02
+  costs:1.02
+  info:1.02
+
+Topic 4:
+  couple:2.36
+  analysis:2.36
+  address:2.36
+  taint:2.36
+  nice:1.11
+  wanted:1.11
+  find:1.11
+  post:1.11
+  original:1.11
+  time:1.11
+
+K: 5, Log-Likelihood: -1158.384, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  signal:18.72
+  wickr:15.86
+  messages:12.88
+  phone:10.15
+  march:9.62
+  source:8.97
+  open:8.91
+  deleted:7.26
+  wire:6.78
+  dhs:6.74
+
+Topic 1:
+  signal:28.69
+  april:14.79
+  phone:11.68
+  alleged:11.32
+  forensics:9.76
+  messages:9.66
+  virtually:7.81
+  arcane:7.50
+  amquote:6.78
+  signals:5.65
+
+Topic 2:
+  signal:9.09
+  quote:6.89
+  phone:4.46
+  april:4.35
+  faggot:3.17
+  app:2.62
+  bootiusmaximus:2.35
+  messages:2.31
+  secure:2.27
+  linked:2.20
+
+Topic 3:
+  knowledge:8.81
+  people:8.16
+  group:5.89
+  members:5.76
+  good:4.47
+  thread:3.81
+  reality:2.97
+  solve:2.97
+  occult:2.94
+  opinion:2.75
+
+Topic 4:
+  encryption:10.60
+  veracrypt:9.86
+  truecrypt:6.87
+  programs:6.40
+  secure:4.93
+  code:4.87
+  based:3.66
+  safe:3.45
+  trust:2.84
+  true:2.70
+
+K: 5, Log-Likelihood: -7054.812, Alpha: 11.000, Beta: 1.100

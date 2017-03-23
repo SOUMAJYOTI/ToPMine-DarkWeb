@@ -1,0 +1,61 @@
+Topic 0:
+  network:1.97
+  bitcoins:1.51
+  longest chain:1.50
+  blocks:1.00
+  chain:0.98
+  bitcoin:0.96
+  confirmations:0.95
+  block:0.90
+  attack:0.73
+  coins:0.72
+
+Topic 1:
+  network:0.88
+  longest chain:0.67
+  blocks:0.64
+  bitcoins:0.62
+  confirmations:0.57
+  chain:0.54
+  bitcoin:0.53
+  block:0.49
+  coins:0.44
+  transactions:0.43
+
+Topic 2:
+  blocks:1.82
+  longest chain:1.81
+  bitcoins:1.48
+  network:1.47
+  confirmations:1.46
+  bitcoin:1.39
+  block:1.09
+  chain:0.94
+  transactions:0.85
+  attack:0.85
+
+Topic 3:
+  longest chain:1.80
+  blocks:1.62
+  network:1.60
+  confirmations:1.38
+  bitcoin:1.21
+  bitcoins:1.18
+  block:1.14
+  chain:1.11
+  coins:0.88
+  attack:0.84
+
+Topic 4:
+  network:2.33
+  bitcoins:1.62
+  longest chain:1.55
+  bitcoin:1.40
+  blocks:1.34
+  confirmations:1.13
+  chain:1.01
+  block:0.95
+  transactions:0.84
+  coins:0.83
+
+K: 5, Log-Likelihood: -2010.574, Alpha: 11.000, Beta: 1.100

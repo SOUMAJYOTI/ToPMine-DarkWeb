@@ -1,0 +1,61 @@
+Topic 0:
+  august:1.04
+  access laptop:0.97
+  star:0.97
+  work:0.97
+  time concern:0.97
+  email:0.97
+  gamesome:0.97
+  ruddy:0.96
+  bunch:0.96
+  concerns:0.96
+
+Topic 1:
+  option register:0.77
+  links:0.70
+  evolution:0.68
+  pm:0.64
+  dont:0.56
+  time:0.55
+  long:0.55
+  elmacho:0.55
+  quote:0.55
+  hey boogie:0.47
+
+Topic 2:
+  dont:1.10
+  pm:0.93
+  reading:0.75
+  hey friend:0.75
+  evolution:0.75
+  registration:0.75
+  referrals:0.75
+  shot:0.75
+  open:0.75
+  invites:0.75
+
+Topic 3:
+  option register:1.19
+  links:0.68
+  quote:0.64
+  window:0.63
+  trouble:0.62
+  thanksp:0.62
+  guide:0.62
+  outa:0.62
+  accessing:0.62
+  managed:0.61
+
+Topic 4:
+  site:2.86
+  mobile:2.85
+  option register:2.18
+  sakdonhey:1.28
+  browsing:1.28
+  care:1.28
+  button:1.28
+  computer:1.28
+  smart:1.28
+  answer:1.28
+
+K: 5, Log-Likelihood: -812.785, Alpha: 11.000, Beta: 1.100

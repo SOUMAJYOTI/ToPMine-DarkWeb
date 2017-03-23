@@ -1,0 +1,61 @@
+Topic 0:
+  tor:1.17
+  tails:0.71
+  exploits:0.50
+  info:0.45
+  javascript:0.45
+  people:0.41
+  browser:0.41
+  vpn:0.37
+  sites:0.37
+  highly:0.25
+
+Topic 1:
+  feel:1.07
+  share:1.07
+  link:1.07
+  times:1.06
+  check:1.06
+  love:1.06
+  dont:1.05
+  safe:1.05
+  clearnet:1.05
+  tor:0.79
+
+Topic 2:
+  tor:1.60
+  tails:0.74
+  info:0.51
+  javascript:0.50
+  sites:0.41
+  vpn:0.41
+  exploits:0.39
+  browser:0.35
+  people:0.35
+  love:0.25
+
+Topic 3:
+  tor:1.12
+  tails:0.78
+  exploits:0.57
+  info:0.52
+  javascript:0.51
+  people:0.40
+  browser:0.40
+  vpn:0.34
+  sites:0.34
+  feds:0.28
+
+Topic 4:
+  tor:1.32
+  tails:0.58
+  vpn:0.42
+  sites:0.41
+  browser:0.41
+  people:0.40
+  javascript:0.40
+  exploits:0.39
+  info:0.38
+  safe:0.30
+
+K: 5, Log-Likelihood: -590.829, Alpha: 11.000, Beta: 1.100

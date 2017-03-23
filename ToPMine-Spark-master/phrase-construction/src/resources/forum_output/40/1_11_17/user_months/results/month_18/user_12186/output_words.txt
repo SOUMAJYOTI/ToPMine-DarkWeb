@@ -1,0 +1,61 @@
+Topic 0:
+  onion:1.14
+  electrum:0.98
+  ckl:0.60
+  gypcu:0.59
+  obj:0.59
+  persistent:0.53
+  server:0.41
+  quote:0.41
+  localhost:0.38
+  restore:0.38
+
+Topic 1:
+  electrum:1.04
+  onion:0.93
+  persistent:0.68
+  gypcu:0.62
+  obj:0.59
+  ckl:0.58
+  wallet:0.43
+  seed:0.42
+  socks:0.42
+  amnesia:0.42
+
+Topic 2:
+  electrum:1.07
+  onion:0.92
+  persistent:0.63
+  obj:0.61
+  ckl:0.60
+  gypcu:0.59
+  text:0.43
+  wallet:0.42
+  restore:0.42
+  socks:0.42
+
+Topic 3:
+  onion:1.07
+  electrum:0.95
+  obj:0.61
+  ckl:0.60
+  gypcu:0.60
+  persistent:0.53
+  server:0.42
+  quote:0.42
+  restore:0.37
+  localhost:0.37
+
+Topic 4:
+  electrum:0.98
+  onion:0.94
+  persistent:0.62
+  ckl:0.61
+  obj:0.60
+  gypcu:0.60
+  localhost:0.42
+  text:0.42
+  amnesia:0.42
+  wallet:0.41
+
+K: 5, Log-Likelihood: -307.264, Alpha: 11.000, Beta: 1.100

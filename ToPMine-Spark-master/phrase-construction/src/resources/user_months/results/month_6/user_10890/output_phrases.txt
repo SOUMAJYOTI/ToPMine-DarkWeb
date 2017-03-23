@@ -1,0 +1,61 @@
+Topic 0:
+  lot:4.04
+  posting:3.55
+  double:2.84
+  completely:2.44
+  addresses:2.39
+  amposting:2.39
+  people pm:2.39
+  mail:2.39
+  signatures:2.39
+  strictly:2.39
+
+Topic 1:
+  genuine:4.93
+  universe:4.93
+  le:4.93
+  sunwu:4.91
+  resolved:4.90
+  network:4.79
+  vendor:3.96
+  replied:3.28
+  market damages long race:2.47
+  owners note releasing premature:2.47
+
+Topic 2:
+  client:8.28
+  local ports:8.28
+  time:4.97
+  box:4.83
+  order:4.49
+  forward:4.13
+  firewall ports:4.13
+  hidden:4.13
+  dedicated:4.13
+  outraged:4.13
+
+Topic 3:
+  messages:7.44
+  send test:7.44
+  support forum:7.44
+  account:7.23
+  reported:4.95
+  orders:4.95
+  recommend:4.95
+  login:4.95
+  stay:4.95
+  tfa:4.95
+
+Topic 4:
+  albert:9.88
+  market:9.27
+  bugs:5.42
+  hacking:4.95
+  coins:4.95
+  implimented:4.95
+  thousands:4.09
+  fail:4.09
+  repeat:4.09
+  doubt:4.09
+
+K: 5, Log-Likelihood: -6963.014, Alpha: 11.000, Beta: 1.100

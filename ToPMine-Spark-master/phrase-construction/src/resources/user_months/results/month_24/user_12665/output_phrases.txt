@@ -1,0 +1,61 @@
+Topic 0:
+  rotta:3.77
+  mutta:3.11
+  jo:2.86
+  ei:2.84
+  eat tuote:2.32
+  palate:2.32
+  tuote saapuu:2.32
+  kapteeni:2.32
+  itselt meni:2.32
+  lkeen:2.32
+
+Topic 1:
+  koska:7.74
+  myyj:7.03
+  rehellisi:4.68
+  ett se:4.68
+  kuinka:4.68
+  sis:4.62
+  ihmisten:4.60
+  tule:4.60
+  kyll:4.59
+  kommentti:4.57
+
+Topic 2:
+  odottaa:7.73
+  en mit:4.87
+  vapauttaa maksua etuk:4.87
+  budit:3.84
+  harmittaa:3.84
+  meni melkein:3.84
+  en voinut:3.84
+  hiaikoina:3.84
+  voinut pablolta:3.84
+  noin:3.84
+
+Topic 3:
+  luokan kirjeell kest kauemmin:4.91
+  tilausta eip tullut mieleenk:4.91
+  vaikka fe:4.91
+  itselt koskaan:4.91
+  tilauksia takana noin sata:4.91
+  kuin iv saapua:4.91
+  aiemmin yht hetyst tulematta:4.91
+  vain positiivisia palautteita ennen:4.91
+  ett harvinaista jos:4.91
+  vaadittu ll kin kauppiaalla:4.91
+
+Topic 4:
+  varma ett:5.80
+  st:4.93
+  koko:4.89
+  joo:4.67
+  eli:4.65
+  olla:3.96
+  fe:3.89
+  tahansa:3.85
+  paljon:3.85
+  stymme:3.85
+
+K: 5, Log-Likelihood: -10433.223, Alpha: 11.000, Beta: 1.100

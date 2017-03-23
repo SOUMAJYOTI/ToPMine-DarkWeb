@@ -1,5 +1,13 @@
 package TMine;
 import org.apache.commons.lang.mutable.MutableLong;
+import java.io.BufferedInputStream;
+import java.io.DataInputStream;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
 
 import java.io.Serializable;
 import java.net.MalformedURLException;
@@ -9,7 +17,7 @@ import java.util.*;
  * Created by Jin on 11/18/2015.
  */
 public class AgglomerativePhraseConstructor implements Serializable {
-    private static final double SIGNIFICANCE_SCORE_THRESHOLD = 3.0;
+    private static final double SIGNIFICANCE_SCORE_THRESHOLD = 4;
     private final PhraseDictionary phraseDictionary;
     private long totalNumWordsAndPhrases;
     private final Set<String> stopWordsSet;
@@ -229,7 +237,7 @@ public class AgglomerativePhraseConstructor implements Serializable {
         return result; // INDEX:COUNT,INDEX:COUNT, ...
     }
 
-    public String convertDocumentToSparseVecStr(String doc) throws PhraseConstructionException {
+    public String convertDocumentToSparseVecStr(String doc) throws PhraseConstructionException, IOException {
         Map<String, MutableLong> phraseToCount = new HashMap<>();
 
         // split sentences by period
@@ -246,25 +254,55 @@ public class AgglomerativePhraseConstructor implements Serializable {
             List<String> phraseSegments = splitSentenceIntoPhrases(currSentence);
             for(String phrase : phraseSegments) {
                 phraseToCount.computeIfAbsent(phrase, k->new MutableLong(0L)).increment();
+//                String[] words = phrase.split(" ");
+//                if(words.length >= 2)
+//                	System.out.println(phrase);
             }
         }
 
         // compile the output
         StringBuilder stringBuilder = new StringBuilder();
+        StringBuilder stringBuilder_phrase = new StringBuilder();
         for(Map.Entry<String, MutableLong> entry : phraseToCount.entrySet()) {
+//        	System.out.println(entry.getKey());
+        	long currCount = entry.getValue().longValue();
+        	String phrase = entry.getKey();
+        	String[] words = phrase.split(" ");
+        	if(words.length > 1){
+        		if(currCount < 2)
+        			continue;
+        	}
+        	else{
+        		if(currCount < 5)
+        			continue;
+        	}
             int currPhraseIdx = phraseDictionary.getIdxOfPhrase(entry.getKey());
-            long currCount = entry.getValue().longValue();
+            
             stringBuilder.append(String.format("%d:%d,", currPhraseIdx, currCount));
+            stringBuilder_phrase.append(String.format("%s:%d,", entry.getKey(), currCount));
         }
 
         String result = stringBuilder.toString();
         if(result.length() == 0) {
             return "";
         }
-
+        
+        String result_phrases = stringBuilder_phrase.toString();
+        if(result_phrases.length() == 0) {
+            return "";
+        }
+        
         // remove the last comma
         result = result.substring(0, result.length()-1);
-
+        result_phrases = result_phrases.substring(0, result_phrases.length()-1);
+        
+//        System.out.println(result);
+//       
+//        File file = new File("F:/ToPMine-Spark-master/TopMine-Spark-master/phrase-construction/src/resources/forum_output/40/inputPartitioned.txt");
+//        try (BufferedWriter writer = new BufferedWriter(new FileWriter(file, true))) {
+//            writer.write(result_phrases.toString());
+//            writer.write("\n");
+//        }
         return result; // INDEX:COUNT,INDEX:COUNT, ...
     }
 }

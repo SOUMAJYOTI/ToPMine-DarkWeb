@@ -1,0 +1,61 @@
+Topic 0:
+  long:4.51
+  february:3.08
+  ive:2.50
+  fall:1.90
+  options:1.86
+  decentralised:1.86
+  analysing:1.86
+  pmthe:1.81
+  fueled:1.80
+  time:1.68
+
+Topic 1:
+  transaction:4.10
+  malleability:4.07
+  time:3.05
+  stealth:2.76
+  bitcoin:1.91
+  protocol:1.91
+  empty:1.71
+  coin:1.70
+  scam:1.62
+  hardening:1.62
+
+Topic 2:
+  time:6.17
+  forums:5.26
+  oracle:5.23
+  february:5.20
+  deleted:4.93
+  people:4.15
+  sr:4.12
+  december:3.94
+  watched:3.94
+  question:3.28
+
+Topic 3:
+  road:2.49
+  silk:2.42
+  journalist:1.74
+  place:1.67
+  team:1.67
+  good:1.64
+  time:1.57
+  entire:1.52
+  sr:1.41
+  market:1.19
+
+Topic 4:
+  time:3.53
+  big:2.56
+  read:2.21
+  expertise:2.19
+  lot:1.97
+  hit:1.89
+  amazing:1.89
+  good:1.86
+  development:1.86
+  happened:1.70
+
+K: 5, Log-Likelihood: -5989.643, Alpha: 11.000, Beta: 1.100

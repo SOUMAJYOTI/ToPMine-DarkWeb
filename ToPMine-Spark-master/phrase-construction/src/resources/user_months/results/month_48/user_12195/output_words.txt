@@ -1,0 +1,61 @@
+Topic 0:
+  silkkitie:2.02
+  exit:1.63
+  silkkitielle:1.08
+  smite:1.06
+  tor:1.06
+  yksi:0.87
+  lill:0.86
+  osoite:0.81
+  net:0.63
+  ja:0.54
+
+Topic 1:
+  silkkitie:1.68
+  exit:1.11
+  net:0.79
+  ll:0.75
+  osoite:0.75
+  ainoastaan:0.75
+  sivun:0.63
+  se:0.59
+  rehellinen:0.59
+  teill:0.59
+
+Topic 2:
+  onion:4.09
+  oli:3.90
+  silkkitiehdg:3.07
+  osoitetta:2.90
+  silkkitie:2.72
+  sivun:2.10
+  net:1.99
+  eik:1.90
+  kaappaaminen:1.90
+  tilalla:1.90
+
+Topic 3:
+  btc:5.61
+  wallet:3.69
+  empty:2.83
+  checked:1.84
+  adress:1.84
+  exit:1.81
+  hour:1.73
+  number:1.73
+  scam:1.55
+  support:1.54
+
+Topic 4:
+  ja:4.75
+  webin:2.77
+  clear:2.74
+  smite:2.62
+  silkkitie:1.87
+  yll:1.78
+  kannattaa:1.78
+  linkkej:1.78
+  ille:1.78
+  sivustot:1.78
+
+K: 5, Log-Likelihood: -1915.158, Alpha: 11.000, Beta: 1.100

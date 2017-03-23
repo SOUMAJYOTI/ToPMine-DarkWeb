@@ -1,0 +1,61 @@
+Topic 0:
+  nucleus:0.85
+  exit scam:0.77
+  didnt fast thought wait:0.58
+  money deposited money:0.58
+  knew exit scam:0.58
+  quote checker:0.51
+  risk wanted worn:0.46
+  post:0.46
+  claim:0.46
+  checker:0.46
+
+Topic 1:
+  messaged:0.83
+  support waiting:0.83
+  withdraw nucleus:0.83
+  time:0.83
+  replay:0.83
+  bringing:0.82
+  blank:0.82
+  support:0.81
+  fixed:0.81
+  withdrawal:0.66
+
+Topic 2:
+  markets:3.98
+  agora:3.98
+  abraxas blackbank:2.60
+  shit:2.60
+  prob:2.60
+  btc:2.60
+  day:2.60
+  ag:2.60
+  marketplaces:1.22
+  screen:1.22
+
+Topic 3:
+  support:0.58
+  fixed:0.57
+  blank:0.54
+  replay:0.54
+  bringing:0.54
+  time:0.54
+  withdraw nucleus:0.53
+  support waiting:0.53
+  messaged:0.53
+  logged:0.52
+
+Topic 4:
+  nucleus:1.77
+  exit scam:1.74
+  bug coins:1.06
+  amlike:1.06
+  updated:1.06
+  exited lost ill fine:1.05
+  idea:1.05
+  popsi:1.05
+  didn:1.05
+  checker:1.04
+
+K: 5, Log-Likelihood: -857.088, Alpha: 11.000, Beta: 1.100

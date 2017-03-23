@@ -1,0 +1,61 @@
+Topic 0:
+  cards:2.57
+  wanted:1.24
+  post:1.24
+  guys:1.24
+  contact:0.91
+  wiki:0.82
+  hidden:0.75
+  house:0.74
+  good:0.69
+  listed:0.68
+
+Topic 1:
+  bitch:0.85
+  contact:0.72
+  friend:0.72
+  dont:0.72
+  pay:0.71
+  visit:0.70
+  regret:0.70
+  scammed:0.69
+  buy:0.68
+  cards:0.63
+
+Topic 2:
+  site:2.25
+  pay:1.12
+  friend:1.08
+  swam:0.88
+  money:0.88
+  send:0.87
+  dont:0.77
+  newbs:0.55
+  ccs:0.55
+  yeah:0.55
+
+Topic 3:
+  fungi:1.64
+  contact:1.48
+  wiki:1.47
+  customers:1.30
+  cards:0.94
+  people:0.78
+  dont:0.76
+  green:0.71
+  tor:0.71
+  stick:0.71
+
+Topic 4:
+  cards:1.46
+  contact:0.67
+  wiki:0.66
+  house:0.65
+  hidden:0.63
+  friend:0.56
+  pay:0.55
+  dont:0.46
+  visit:0.43
+  regret:0.43
+
+K: 5, Log-Likelihood: -851.034, Alpha: 11.000, Beta: 1.100

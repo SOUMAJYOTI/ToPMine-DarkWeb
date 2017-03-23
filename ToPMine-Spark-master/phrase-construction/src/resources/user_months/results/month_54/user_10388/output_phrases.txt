@@ -1,0 +1,61 @@
+Topic 0:
+  cd:9.69
+  return:9.69
+  ad:8.78
+  signature:6.37
+  monster:5.54
+  cdf:4.84
+  merchant:4.84
+  prohibition:4.84
+  empty:4.84
+  suffered:4.84
+
+Topic 1:
+  quote:9.16
+  september:8.16
+  steps unsuccessful posts nucleus:4.79
+  archived google:4.79
+  cretins running:4.79
+  link doesn explain:4.68
+  abraxesi:4.64
+  alphabaymiddle:4.64
+  recommend:4.64
+  digitaldong:4.23
+
+Topic 2:
+  link:8.07
+  good:5.65
+  thehub:5.62
+  monsters:5.53
+  reasons:4.77
+  dodge:4.77
+  phishing:4.77
+  curls:4.77
+  filtering:4.77
+  explanation:4.77
+
+Topic 3:
+  roots txt:6.17
+  oxymonster:5.97
+  list:5.65
+  shop:5.65
+  crawlers:5.54
+  respect:4.73
+  sites:4.72
+  search:4.72
+  hope good:4.39
+  authenticated:2.82
+
+Topic 4:
+  market:24.94
+  scrapes:8.49
+  black:8.49
+  markets:8.49
+  pandora:5.65
+  panacea:5.65
+  marketplace:5.65
+  blackbank:5.65
+  project:5.65
+  andromeda:5.65
+
+K: 5, Log-Likelihood: -16587.177, Alpha: 11.000, Beta: 1.100

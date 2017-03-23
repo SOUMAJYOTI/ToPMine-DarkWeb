@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:12.17
+  shared send:8.60
+  mistake number:8.25
+  text file:8.25
+  transaction:6.66
+  blockchain wallet:4.69
+  thinking:4.28
+  trusting:4.10
+  basically:4.10
+  identifier seed:4.10
+
+Topic 1:
+  blockchain:5.22
+  emails:4.10
+  reading:4.10
+  sake:4.10
+  bucks:4.10
+  flip:4.10
+  mate:4.10
+  someones:4.10
+  subject:4.10
+  sites:4.10
+
+Topic 2:
+  luck:5.22
+  man:5.22
+  editing:4.09
+  good luck:4.09
+  file:4.09
+  checked:4.09
+  vendor send:4.09
+  temp:4.09
+  bummer:4.09
+  eventually:4.09
+
+Topic 3:
+  fuck terrible reason learn:5.07
+  recover:4.55
+  kind:4.10
+  layer:4.09
+  quote:4.09
+  scroat:4.09
+  backfired:4.09
+  outgoing:4.09
+  electric:4.09
+  stuck:4.09
+
+Topic 4:
+  bitcoin:4.04
+  mixing coins:4.04
+  search:4.04
+  services:4.04
+  laundering:4.04
+  ecosystem:4.04
+  scientific:4.04
+  mixing:4.04
+  pdf:4.04
+  tools:4.04
+
+K: 5, Log-Likelihood: -3825.663, Alpha: 11.000, Beta: 1.100

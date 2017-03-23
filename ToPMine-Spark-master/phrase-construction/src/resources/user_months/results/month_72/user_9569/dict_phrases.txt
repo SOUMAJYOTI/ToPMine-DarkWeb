@@ -1,0 +1,23 @@
+server,0,1
+works,1,2
+refused,2,1
+log,3,1
+work,4,3
+provided,5,1
+work bridges,6,1
+bridges,7,5
+windows,8,1
+error,9,1
+obis,10,1
+work tails,11,1
+tails,12,4
+awhile,13,1
+bridges tails,14,2
+fine,15,1
+tons,16,1
+appreciated,17,1
+connection,18,1
+tails tails,19,1
+bridges work,20,2
+hey,21,1
+option,22,1

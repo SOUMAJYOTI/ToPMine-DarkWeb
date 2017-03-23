@@ -1,0 +1,61 @@
+Topic 0:
+  send:0.82
+  coin:0.42
+  buy:0.42
+  wallet:0.38
+  oly things interested tmg:0.37
+  scammers good feed:0.37
+  paranoia fact party payment:0.37
+  vendor trust long:0.37
+  risk money establish relationship:0.37
+  vendor compromise:0.37
+
+Topic 1:
+  good feed paranoia fact:0.47
+  progress practices guide boat:0.46
+  sr:0.46
+  service:0.46
+  trust long oly:0.46
+  smart:0.46
+  matters:0.46
+  money vendors:0.46
+  june:0.46
+  thier wallets:0.46
+
+Topic 2:
+  send:1.85
+  coin:1.60
+  buy:1.59
+  cents:0.66
+  receive:0.66
+  opened:0.66
+  recommendations:0.66
+  removed:0.66
+  people:0.66
+  stupid:0.66
+
+Topic 3:
+  send:0.45
+  vendor compromise matter:0.42
+  market:0.42
+  tumble big question:0.42
+  money vendors:0.42
+  money establish relationship vendor:0.42
+  venture:0.42
+  reguraly:0.42
+  vendors:0.42
+  tired:0.42
+
+Topic 4:
+  send:0.41
+  change:0.40
+  vendors:0.40
+  scammers:0.40
+  real:0.40
+  paranoid appeals tmg:0.40
+  reguraly:0.40
+  dont:0.40
+  sunshinedaydream:0.40
+  things interested tmg vendor:0.40
+
+K: 5, Log-Likelihood: -606.847, Alpha: 11.000, Beta: 1.100

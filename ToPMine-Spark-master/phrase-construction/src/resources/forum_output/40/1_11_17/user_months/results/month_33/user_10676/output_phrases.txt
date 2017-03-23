@@ -1,0 +1,61 @@
+Topic 0:
+  open source:0.36
+  software:0.29
+  version:0.28
+  stuff:0.25
+  vendors:0.25
+  online:0.25
+  compliance:0.25
+  buy:0.25
+  details:0.25
+  cash:0.25
+
+Topic 1:
+  open source:0.78
+  version:0.52
+  software:0.50
+  version bcpg:0.40
+  versions pgp:0.40
+  symantec:0.40
+  key bits:0.39
+  pgp:0.39
+  mitnick:0.39
+  bit:0.39
+
+Topic 2:
+  open source:1.12
+  version:0.77
+  software:0.75
+  pgp:0.53
+  bit:0.53
+  symantec:0.52
+  key bits:0.52
+  versions pgp:0.52
+  version bcpg:0.51
+  mitnick:0.51
+
+Topic 3:
+  open source:1.06
+  software:0.66
+  version:0.63
+  mitnick:0.49
+  key bits:0.49
+  symantec:0.49
+  pgp:0.49
+  versions pgp:0.49
+  version bcpg:0.49
+  bit:0.48
+
+Topic 4:
+  open source:0.85
+  software:0.57
+  version:0.57
+  version bcpg:0.44
+  mitnick:0.44
+  bit:0.44
+  versions pgp:0.44
+  symantec:0.43
+  key bits:0.43
+  pgp:0.43
+
+K: 5, Log-Likelihood: -991.554, Alpha: 11.000, Beta: 1.100

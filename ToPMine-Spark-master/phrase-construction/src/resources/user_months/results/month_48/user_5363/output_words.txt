@@ -1,0 +1,61 @@
+Topic 0:
+  enabled:3.69
+  tor:3.65
+  chat:3.24
+  browser:2.98
+  understand:2.58
+  time:2.41
+  scripts:1.95
+  visited:1.95
+  hack:1.66
+  dont:1.53
+
+Topic 1:
+  chat:18.90
+  chatroom:7.91
+  create:6.25
+  platform:5.91
+  web:4.94
+  room:3.96
+  anonymously:3.91
+  belt:3.91
+  servers:3.91
+  discussion:3.91
+
+Topic 2:
+  time:6.07
+  protection:3.91
+  offers:3.91
+  messages:3.60
+  machine:2.92
+  encrypting:2.13
+  online:2.05
+  chats:2.04
+  pip:2.04
+  logged:1.98
+
+Topic 3:
+  service:4.40
+  time:3.92
+  tails:3.34
+  dont:2.54
+  safe:2.24
+  pgp:2.23
+  agree:2.20
+  care:2.15
+  encrypt:1.96
+  bothered:1.96
+
+Topic 4:
+  chat:10.45
+  site:8.40
+  anonymous:8.34
+  real:7.87
+  conversation:6.33
+  irc:5.92
+  time:5.47
+  opsec:5.01
+  ping:4.92
+  javascript:4.10
+
+K: 5, Log-Likelihood: -4389.459, Alpha: 11.000, Beta: 1.100

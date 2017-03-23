@@ -1,0 +1,61 @@
+Topic 0:
+  secret keys:0.45
+  armour:0.42
+  public keys:0.37
+  keyring:0.36
+  key alternate keyboard:0.27
+  copy:0.27
+  ascall:0.27
+  export:0.27
+  exported:0.27
+  good:0.27
+
+Topic 1:
+  secret keys:0.74
+  armour:0.68
+  public keys:0.56
+  keyring:0.56
+  ascall:0.38
+  export:0.38
+  good:0.38
+  pgp:0.38
+  gpg:0.38
+  exported:0.38
+
+Topic 2:
+  armour:1.29
+  secret keys:1.11
+  keyring:0.82
+  public keys:0.78
+  gpg:0.49
+  ascii:0.49
+  format:0.49
+  file:0.49
+  ascall:0.49
+  pgp:0.49
+
+Topic 3:
+  secret keys:0.70
+  armour:0.70
+  public keys:0.55
+  keyring:0.53
+  copy:0.37
+  exported:0.37
+  pgp:0.37
+  export:0.37
+  file:0.37
+  good:0.37
+
+Topic 4:
+  secret keys:0.66
+  armour:0.57
+  public keys:0.48
+  keyring:0.48
+  copy:0.34
+  format:0.34
+  good:0.34
+  export:0.33
+  ascall:0.33
+  pgp:0.33
+
+K: 5, Log-Likelihood: -428.018, Alpha: 11.000, Beta: 1.100

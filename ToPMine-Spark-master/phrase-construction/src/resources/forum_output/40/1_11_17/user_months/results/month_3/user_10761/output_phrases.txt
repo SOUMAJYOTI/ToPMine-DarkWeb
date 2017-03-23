@@ -1,0 +1,61 @@
+Topic 0:
+  keyserver:11.84
+  leo:11.48
+  price:9.29
+  sks keyservers:9.14
+  keyserver set:8.61
+  price namecoin btc:8.04
+  options:7.59
+  public keys:6.98
+  govt:5.40
+  climb:5.40
+
+Topic 1:
+  btc:412.96
+  ltc:162.48
+  cny:59.75
+  doge:21.66
+  xpm:13.53
+  appears pairings:10.83
+  cny eur:8.12
+  eur:7.48
+  btc moon:5.41
+  gme:5.41
+
+Topic 2:
+  public:13.80
+  gpg:12.19
+  gnupg:10.82
+  collisions keys share:10.78
+  public key:10.58
+  recipient argument:10.04
+  interactively:9.13
+  bit asa key created:8.76
+  enter user empty:8.10
+  encrypt message:8.10
+
+Topic 3:
+  interactively terminal recipient selected:7.27
+  somefile:5.40
+  swapped:5.38
+  pagefile:5.38
+  expectations:4.57
+  behavior match:4.57
+  se:4.57
+  worked:4.57
+  dont bug:4.57
+  yeah:4.57
+
+Topic 4:
+  quoting solution:13.79
+  key:10.72
+  problem:10.03
+  recipient:9.19
+  email address solution:9.19
+  bit asa key created:9.12
+  test:8.15
+  decrypt message:6.89
+  post:6.71
+  quote:6.39
+
+K: 5, Log-Likelihood: -34174.474, Alpha: 11.000, Beta: 1.100

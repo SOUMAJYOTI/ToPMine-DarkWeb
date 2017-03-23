@@ -1,0 +1,61 @@
+Topic 0:
+  shadow:12.85
+  decentralised:7.90
+  network:5.96
+  marketplace:4.90
+  administrators:3.91
+  trade:3.90
+  chat:3.90
+  sebsebastian:3.90
+  project:3.80
+  currency:3.00
+
+Topic 1:
+  open:3.99
+  mind:2.49
+  forward:1.66
+  altcoin:1.57
+  spent:1.57
+  sick:1.57
+  wary:1.57
+  app:1.57
+  money:1.57
+  graphics:1.57
+
+Topic 2:
+  relay:4.82
+  setting:2.88
+  sigaint:2.88
+  ago:2.80
+  architectures:2.80
+  powerpcs:2.80
+  ladies:2.80
+  mixing:2.80
+  ears:2.80
+  fell:2.80
+
+Topic 3:
+  market:2.95
+  lot:2.15
+  silk:0.92
+  road:0.92
+  open:0.92
+  decentralized:0.88
+  bitcoins:0.81
+  people:0.80
+  blah:0.79
+  currency:0.79
+
+Topic 4:
+  tor:13.10
+  bsd:8.02
+  project:3.96
+  anonymity:3.94
+  source:3.01
+  relays:2.94
+  operating:2.94
+  network:2.81
+  openbsd:2.12
+  forward:2.07
+
+K: 5, Log-Likelihood: -3602.793, Alpha: 11.000, Beta: 1.100

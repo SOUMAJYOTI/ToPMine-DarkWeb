@@ -1,0 +1,61 @@
+Topic 0:
+  send:1.65
+  encrypted:1.60
+  messages:1.46
+  board:1.41
+  usual:0.85
+  start:0.83
+  luck:0.74
+  good:0.73
+  anthony:0.60
+  vendor:0.60
+
+Topic 1:
+  encrypted:1.26
+  send:1.16
+  board:0.97
+  messages:0.96
+  start:0.93
+  usual:0.90
+  good:0.79
+  luck:0.77
+  standard:0.47
+  personal:0.47
+
+Topic 2:
+  encrypted:1.12
+  send:1.06
+  luck:0.85
+  good:0.84
+  usual:0.73
+  start:0.73
+  board:0.56
+  messages:0.56
+  browse:0.49
+  private:0.49
+
+Topic 3:
+  send:0.96
+  encrypted:0.88
+  usual:0.84
+  start:0.80
+  luck:0.77
+  good:0.75
+  sake:0.53
+  unreliable:0.53
+  god:0.53
+  computer:0.53
+
+Topic 4:
+  send:1.17
+  encrypted:1.13
+  good:0.89
+  luck:0.88
+  start:0.70
+  usual:0.67
+  board:0.58
+  messages:0.55
+  create:0.50
+  bit:0.50
+
+K: 5, Log-Likelihood: -449.113, Alpha: 11.000, Beta: 1.100

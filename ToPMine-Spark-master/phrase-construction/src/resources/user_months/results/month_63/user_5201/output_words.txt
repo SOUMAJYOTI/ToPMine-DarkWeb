@@ -1,0 +1,61 @@
+Topic 0:
+  picture:1.67
+  idea:1.67
+  salu:1.67
+  mention:1.67
+  sabu:1.67
+  desk:1.67
+  ear:1.67
+  computer:1.67
+  rasberry:1.67
+  mental:1.67
+
+Topic 1:
+  stories:1.42
+  thing:1.40
+  guy:1.24
+  vj:0.96
+  ve:0.90
+  multiply:0.71
+  tarbell:0.59
+  le:0.48
+  posted:0.48
+  access:0.48
+
+Topic 2:
+  stories:1.97
+  guy:1.73
+  thing:1.72
+  vj:1.02
+  ve:0.79
+  multiply:0.74
+  tarbell:0.52
+  power:0.50
+  timings:0.50
+  pmhacks:0.50
+
+Topic 3:
+  guy:1.64
+  thing:1.50
+  stories:1.41
+  vj:1.07
+  multiply:0.79
+  ve:0.78
+  tarbell:0.53
+  day:0.50
+  hot:0.50
+  answer:0.50
+
+Topic 4:
+  guy:1.23
+  thing:1.22
+  stories:1.03
+  ve:0.96
+  vj:0.81
+  tarbell:0.67
+  multiply:0.62
+  dpr:0.44
+  forgot:0.44
+  markets:0.44
+
+K: 5, Log-Likelihood: -909.662, Alpha: 11.000, Beta: 1.100

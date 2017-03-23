@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins:0.84
+  address:0.81
+  completely:0.59
+  tumbler:0.58
+  logs:0.40
+  vpn:0.40
+  torguard:0.40
+  hidden:0.20
+  real:0.20
+  predicament:0.20
+
+Topic 1:
+  bitcoins:0.79
+  address:0.76
+  completely:0.61
+  tumbler:0.60
+  logs:0.40
+  torguard:0.40
+  vpn:0.40
+  cover:0.20
+  bought:0.20
+  website:0.20
+
+Topic 2:
+  bitcoins:0.85
+  address:0.78
+  tumbler:0.60
+  completely:0.60
+  vpn:0.40
+  logs:0.40
+  torguard:0.40
+  browser:0.20
+  bitcoin:0.20
+  clear:0.20
+
+Topic 3:
+  address:0.77
+  bitcoins:0.76
+  tumbler:0.61
+  completely:0.58
+  torguard:0.40
+  logs:0.40
+  vpn:0.40
+  jebusite:0.20
+  arrested:0.20
+  isp:0.20
+
+Topic 4:
+  address:0.87
+  bitcoins:0.77
+  completely:0.62
+  tumbler:0.61
+  vpn:0.40
+  torguard:0.40
+  logs:0.40
+  money:0.20
+  tor:0.20
+  steal:0.20
+
+K: 5, Log-Likelihood: -440.189, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ss:0.46
+  ett:0.38
+  viestin:0.34
+  alueelle:0.33
+  pgp:0.29
+  tietoa:0.28
+  ohjeiden:0.28
+  myyj:0.28
+  rivi:0.28
+  marketplace:0.28
+
+Topic 1:
+  ss:0.59
+  viestin:0.45
+  ett:0.37
+  sis:0.29
+  tapauksessa:0.29
+  viel:0.29
+  suositeltavaa:0.29
+  tietoturvan:0.29
+  salakirjoitusavaimelle:0.29
+  lt:0.29
+
+Topic 2:
+  ss:0.57
+  viestin:0.49
+  pgp:0.31
+  ett:0.30
+  viestien:0.29
+  salakirjoitusavaimelle:0.29
+  tunnettu:0.29
+  kannalta:0.29
+  lt:0.28
+  viel:0.28
+
+Topic 3:
+  ett:0.69
+  ss:0.60
+  viestin:0.39
+  oli:0.33
+  sis:0.29
+  tietoturvan:0.29
+  allekirjoittamien:0.29
+  tapauksessa:0.29
+  kannalta:0.29
+  viel:0.29
+
+Topic 4:
+  ss:0.56
+  ett:0.46
+  viestin:0.40
+  oli:0.29
+  alueelle:0.28
+  lt:0.28
+  viestien:0.28
+  tunnettu:0.28
+  allekirjoittamien:0.28
+  suositeltavaa:0.28
+
+K: 5, Log-Likelihood: -565.593, Alpha: 11.000, Beta: 1.100

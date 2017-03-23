@@ -1,0 +1,61 @@
+Topic 0:
+  offer:2.37
+  products:1.60
+  shipping:1.29
+  intro:0.91
+  service:0.91
+  dcdutchconnectiongroup:0.85
+  market:0.77
+  team:0.57
+  people:0.57
+  pure:0.56
+
+Topic 1:
+  offer:1.86
+  products:1.53
+  market:0.96
+  shipping:0.96
+  dcdutchconnectiongroup:0.83
+  service:0.78
+  intro:0.76
+  dcdutchconnection:0.59
+  simply:0.56
+  good:0.50
+
+Topic 2:
+  simply:1.57
+  find:1.54
+  customers:1.45
+  dcdutchconnectiongroup:1.43
+  market:1.23
+  inquirys:0.65
+  feel:0.65
+  hansa:0.65
+  big:0.65
+  dream:0.65
+
+Topic 3:
+  products:1.15
+  offer:1.12
+  market:1.06
+  dcdutchconnectiongroup:1.00
+  shipping:0.71
+  simply:0.71
+  dcdutchconnection:0.60
+  intro:0.55
+  service:0.52
+  find:0.48
+
+Topic 4:
+  offer:1.42
+  products:1.22
+  market:0.98
+  dcdutchconnectiongroup:0.90
+  shipping:0.84
+  simply:0.65
+  service:0.62
+  dcdutchconnection:0.61
+  intro:0.61
+  special:0.43
+
+K: 5, Log-Likelihood: -758.443, Alpha: 11.000, Beta: 1.100

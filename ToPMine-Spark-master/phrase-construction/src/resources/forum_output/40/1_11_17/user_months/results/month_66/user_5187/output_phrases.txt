@@ -1,0 +1,61 @@
+Topic 0:
+  love avengers:0.56
+  registration:0.53
+  dreammarket:0.28
+  safeftb:0.28
+  guys:0.28
+  moving:0.28
+  good:0.28
+  invite:0.28
+  ai:0.28
+  market:0.28
+
+Topic 1:
+  registration:0.56
+  love avengers:0.55
+  running:0.28
+  buyer:0.28
+  datedream:0.28
+  market:0.28
+  longest:0.28
+  reliable:0.28
+  highly:0.28
+  link:0.28
+
+Topic 2:
+  registration:0.56
+  love avengers:0.55
+  recommend:0.28
+  biggest:0.28
+  time:0.28
+  dnm:0.28
+  buyer:0.28
+  running:0.28
+  abraxas:0.28
+  highly:0.28
+
+Topic 3:
+  registration:0.56
+  love avengers:0.56
+  dnm:0.28
+  link:0.28
+  abraxas:0.28
+  endor:0.28
+  highly:0.28
+  biggest:0.28
+  datedream:0.28
+  market:0.28
+
+Topic 4:
+  registration:0.56
+  love avengers:0.55
+  invite:0.28
+  abraxas:0.28
+  moving:0.28
+  longest:0.28
+  reliable:0.28
+  guys:0.28
+  safeftb:0.28
+  datedream:0.28
+
+K: 5, Log-Likelihood: -157.935, Alpha: 11.000, Beta: 1.100

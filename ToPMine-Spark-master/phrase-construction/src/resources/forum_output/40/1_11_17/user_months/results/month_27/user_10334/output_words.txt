@@ -1,0 +1,61 @@
+Topic 0:
+  market:6.16
+  ship:4.29
+  hacker:4.07
+  shrug:3.90
+  hacked:3.90
+  shoulders:3.90
+  place:3.80
+  lot:3.13
+  admins:2.88
+  features:2.88
+
+Topic 1:
+  onionshop:3.41
+  vulnerability:1.85
+  database:1.73
+  addresses:1.72
+  access:1.43
+  unload:1.10
+  days:1.09
+  security:0.96
+  trust:0.94
+  list:0.93
+
+Topic 2:
+  onionshop:5.10
+  btc:4.81
+  vendors:4.67
+  contact:3.83
+  orders:3.76
+  access:3.53
+  vulnerability:3.21
+  pgp:2.85
+  db:2.85
+  hub:2.84
+
+Topic 3:
+  message:1.87
+  sfl:0.90
+  hxarntcatulvulibh:0.90
+  dor:0.90
+  fqzlcli:0.90
+  tgrjmx:0.90
+  saihq:0.90
+  ckn:0.90
+  bank:0.90
+  pk:0.90
+
+Topic 4:
+  hasnt:1.09
+  simple:1.09
+  bitcoin:1.09
+  brain:0.64
+  lies:0.64
+  isnt:0.64
+  making:0.64
+  sees:0.64
+  quoting:0.64
+  addresses:0.58
+
+K: 5, Log-Likelihood: -4552.652, Alpha: 11.000, Beta: 1.100

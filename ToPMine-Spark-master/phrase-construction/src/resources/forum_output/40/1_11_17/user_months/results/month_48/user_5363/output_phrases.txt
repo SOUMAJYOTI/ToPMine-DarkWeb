@@ -1,0 +1,61 @@
+Topic 0:
+  real time:0.77
+  browser:0.71
+  create chat room:0.64
+  hack chat:0.61
+  messages:0.56
+  july:0.54
+  quote:0.54
+  online:0.48
+  tor:0.46
+  dont:0.44
+
+Topic 1:
+  decrypting:2.94
+  party:2.94
+  sensitive:2.94
+  trust:2.94
+  scripts:2.79
+  visited:2.79
+  messages:2.48
+  jurisdiction:2.03
+  limited:2.03
+  trusting:2.03
+
+Topic 2:
+  share:4.24
+  create:4.24
+  chat anonymously:4.24
+  chatroom:4.23
+  web based:3.14
+  vulnerable:2.86
+  exploit:2.86
+  join:2.05
+  plenty:2.05
+  anonymity:2.05
+
+Topic 3:
+  encrypt:2.97
+  knowledge:2.97
+  bothered:2.97
+  don:2.97
+  care:2.97
+  privacy:2.97
+  completely:2.97
+  surname:2.97
+  access:2.97
+  tails:2.97
+
+Topic 4:
+  real time chat:4.44
+  site:4.31
+  javascript:3.22
+  log:3.21
+  conversation fucked ping emotions:2.94
+  hackerjon:2.94
+  chat hub:2.12
+  fkbzczrthe:2.12
+  site anonymous:2.12
+  cases:2.12
+
+K: 5, Log-Likelihood: -4403.581, Alpha: 11.000, Beta: 1.100

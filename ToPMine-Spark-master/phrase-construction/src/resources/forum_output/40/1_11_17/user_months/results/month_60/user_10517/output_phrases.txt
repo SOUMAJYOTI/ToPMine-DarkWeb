@@ -1,0 +1,61 @@
+Topic 0:
+  le:0.89
+  member:0.65
+  notify mod:0.63
+  publicly:0.63
+  forums:0.63
+  customers:0.46
+  informers:0.46
+  donut:0.45
+  ass:0.45
+  bump:0.45
+
+Topic 1:
+  le:1.16
+  forums:0.69
+  publicly:0.69
+  notify mod:0.69
+  member:0.67
+  dangerous:0.62
+  vendors:0.62
+  tool:0.62
+  organixinformers:0.62
+  technique:0.62
+
+Topic 2:
+  town:2.10
+  user:2.09
+  sick:2.09
+  cops:1.37
+  number:0.90
+  gain:0.90
+  expect:0.90
+  rehab:0.90
+  long:0.90
+  setting:0.90
+
+Topic 3:
+  cops:0.64
+  le:0.52
+  forums:0.44
+  publicly:0.44
+  notify mod:0.44
+  member:0.44
+  years:0.41
+  offer:0.41
+  turns:0.39
+  friends:0.39
+
+Topic 4:
+  sign:3.90
+  time:2.52
+  deal:2.52
+  buy:2.52
+  friend:2.52
+  cops bust:2.52
+  years:1.55
+  offer:1.54
+  sig:1.15
+  roll:1.15
+
+K: 5, Log-Likelihood: -746.862, Alpha: 11.000, Beta: 1.100

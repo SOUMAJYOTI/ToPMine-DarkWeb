@@ -1,0 +1,61 @@
+Topic 0:
+  mind:0.30
+  station:0.28
+  newbie:0.28
+  tripping:0.28
+  interactive:0.28
+  source:0.28
+  absorbed:0.28
+  firing:0.28
+  music:0.28
+  broadcast:0.28
+
+Topic 1:
+  mind:0.30
+  responding:0.26
+  comfortable:0.26
+  trips:0.26
+  cognitive:0.26
+  lead:0.26
+  sad:0.26
+  starts:0.26
+  exception:0.26
+  purely:0.26
+
+Topic 2:
+  mind:0.28
+  long:0.28
+  time:0.28
+  brother:0.28
+  hope:0.28
+  things:0.28
+  great:0.28
+  echoes:0.28
+  pink floyd:0.25
+  hope brother:0.23
+
+Topic 3:
+  things:0.29
+  hope:0.29
+  echoes:0.29
+  time:0.29
+  great:0.29
+  long:0.29
+  brother:0.29
+  mind:0.28
+  pink floyd:0.25
+  pinkfloyd:0.23
+
+Topic 4:
+  brother:0.37
+  hope:0.37
+  echoes:0.37
+  things:0.37
+  long:0.37
+  great:0.37
+  time:0.37
+  events:0.34
+  packages:0.34
+  emphasize:0.34
+
+K: 5, Log-Likelihood: -365.601, Alpha: 11.000, Beta: 1.100

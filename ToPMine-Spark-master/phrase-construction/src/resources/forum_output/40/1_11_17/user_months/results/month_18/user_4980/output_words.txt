@@ -1,0 +1,61 @@
+Topic 0:
+  cash:3.34
+  find:2.86
+  localbitcoins:1.94
+  deposits:1.73
+  based:1.70
+  good:1.69
+  pretty:1.61
+  bitcoin:1.50
+  atm:1.43
+  guys:1.43
+
+Topic 1:
+  bank:5.84
+  time:4.42
+  great:4.41
+  deposit:3.84
+  anx:3.84
+  wallet:3.84
+  services:3.84
+  service:3.84
+  account:3.84
+  thing:2.14
+
+Topic 2:
+  find:2.44
+  cash:1.14
+  localbitcoins:1.08
+  pretty:1.07
+  good:0.83
+  btc:0.81
+  based:0.77
+  big:0.76
+  deposits:0.71
+  bitcoin:0.67
+
+Topic 3:
+  find:2.06
+  rates:1.20
+  built:1.10
+  reliable:1.08
+  day:1.08
+  email:1.04
+  btc:1.01
+  send:0.89
+  localbitcoins:0.82
+  pretty:0.82
+
+Topic 4:
+  key:3.44
+  message:2.74
+  public:2.74
+  pgp:2.24
+  pip:1.86
+  send:1.78
+  software:1.78
+  encrusted:1.74
+  simple:1.73
+  guide:1.67
+
+K: 5, Log-Likelihood: -1994.562, Alpha: 11.000, Beta: 1.100

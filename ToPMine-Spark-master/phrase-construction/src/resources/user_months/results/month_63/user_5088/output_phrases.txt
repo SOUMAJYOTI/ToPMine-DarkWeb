@@ -1,0 +1,61 @@
+Topic 0:
+  quote:4.29
+  google:3.14
+  hidden service easily pop:3.00
+  tor gateway accessible clearnet:2.83
+  pmthere weird semi popular:2.71
+  regular browser connected tor:2.69
+  gammagoblin november:2.68
+  matter linking facebook profiles:2.67
+  onion accessible publicly public:2.63
+  explain forum accessed link:2.49
+
+Topic 1:
+  phishing:4.50
+  copy:3.90
+  html onion:3.90
+  service onion:3.90
+  open:3.90
+  idea:3.90
+  popular tor:3.90
+  technique:3.90
+  admins:3.90
+  require:3.90
+
+Topic 2:
+  accessible tor:7.71
+  scarf:4.31
+  clearnet link:3.74
+  slight:3.74
+  notice:3.74
+  links:3.74
+  difference:3.74
+  imposter:3.73
+  clearnet:3.13
+  dim:2.99
+
+Topic 3:
+  forum:7.88
+  link:3.93
+  forum read:3.90
+  thought darknet:3.90
+  true:3.90
+  conspicuous:3.90
+  hey:3.90
+  directly:3.90
+  supposed:3.90
+  remember:3.90
+
+Topic 4:
+  site:5.63
+  tor:5.56
+  clearnet link leads:4.29
+  places people post links:4.16
+  onion accessible publicly public:3.93
+  matter linking facebook profiles:3.89
+  tor gateway accessible clearnet:3.73
+  masking:3.31
+  clearnet darknet doesnt:3.29
+  gammagoblin november pmthere:3.29
+
+K: 5, Log-Likelihood: -2513.776, Alpha: 11.000, Beta: 1.100

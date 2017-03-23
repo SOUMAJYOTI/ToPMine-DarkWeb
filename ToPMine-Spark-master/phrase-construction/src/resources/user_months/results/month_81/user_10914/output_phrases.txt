@@ -1,0 +1,61 @@
+Topic 0:
+  link airvpn:0.54
+  good:0.45
+  realy:0.35
+  guys:0.35
+  apreciate:0.35
+  awnsers:0.35
+  fn:0.34
+  vpn:0.34
+  provider:0.33
+  february:0.26
+
+Topic 1:
+  good:0.57
+  link airvpn:0.51
+  provider:0.34
+  guys:0.34
+  awnsers:0.34
+  apreciate:0.34
+  realy:0.34
+  vpn:0.33
+  fn:0.32
+  vpon:0.27
+
+Topic 2:
+  good:0.53
+  link airvpn:0.50
+  provider:0.34
+  awnsers:0.34
+  realy:0.34
+  apreciate:0.34
+  guys:0.34
+  fn:0.33
+  vpn:0.33
+  heard:0.26
+
+Topic 3:
+  link airvpn:0.51
+  good:0.47
+  vpn:0.35
+  fn:0.34
+  awnsers:0.34
+  apreciate:0.34
+  guys:0.34
+  realy:0.34
+  provider:0.34
+  wane:0.26
+
+Topic 4:
+  good:0.49
+  link airvpn:0.48
+  vpn:0.35
+  provider:0.35
+  fn:0.35
+  guys:0.33
+  apreciate:0.33
+  realy:0.33
+  awnsers:0.33
+  stummbled:0.27
+
+K: 5, Log-Likelihood: -216.955, Alpha: 11.000, Beta: 1.100

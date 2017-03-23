@@ -1,0 +1,61 @@
+Topic 0:
+  start:0.28
+  migrating:0.28
+  stressing:0.28
+  evolution:0.28
+  public:0.28
+  links:0.28
+  advise:0.28
+  bet:0.28
+  agora:0.28
+  wait:0.28
+
+Topic 1:
+  stressing:0.28
+  start:0.28
+  migrating:0.28
+  evolution:0.28
+  inactive:0.28
+  wait:0.28
+  links:0.28
+  public:0.28
+  registration:0.28
+  account:0.28
+
+Topic 2:
+  registration:0.28
+  links:0.28
+  account:0.28
+  inactive:0.28
+  money:0.28
+  bet:0.28
+  public:0.28
+  wait:0.28
+  agora:0.28
+  stressing:0.28
+
+Topic 3:
+  advise:0.28
+  money:0.28
+  wait:0.28
+  agora:0.28
+  bet:0.28
+  public:0.28
+  inactive:0.28
+  account:0.28
+  registration:0.28
+  links:0.28
+
+Topic 4:
+  evolution:0.28
+  migrating:0.28
+  money:0.28
+  advise:0.28
+  agora:0.28
+  bet:0.28
+  inactive:0.28
+  account:0.28
+  start:0.28
+  wait:0.28
+
+K: 5, Log-Likelihood: -83.443, Alpha: 11.000, Beta: 1.100

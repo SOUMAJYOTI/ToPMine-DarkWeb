@@ -1,0 +1,61 @@
+Topic 0:
+  message:6.63
+  encrypt:3.43
+  sign:2.85
+  tails:1.50
+  encrypting:1.20
+  uncropt:1.18
+  someones:1.17
+  drop:1.16
+  key:1.15
+  click:1.14
+
+Topic 1:
+  sign:1.46
+  march:0.99
+  quote:0.95
+  high:0.72
+  usai:0.70
+  eh:0.70
+  canadian:0.70
+  prove:0.69
+  message:0.69
+  trapped:0.69
+
+Topic 2:
+  message:6.92
+  encrypt:4.40
+  sign:2.69
+  tails:1.31
+  highlight:1.21
+  newly:1.21
+  planetaryalignment:1.20
+  signed:1.20
+  paste:1.19
+  pick:1.19
+
+Topic 3:
+  grams:5.38
+  order:3.43
+  market:3.40
+  gspot:2.50
+  vendor:2.49
+  quaility:1.53
+  nospace:1.53
+  purchased:1.53
+  difyeqm:1.53
+  canada:1.53
+
+Topic 4:
+  message:1.69
+  sign:1.56
+  march:0.99
+  quote:0.95
+  trapped:0.70
+  prove:0.69
+  eh:0.69
+  canadian:0.69
+  usai:0.68
+  tails:0.65
+
+K: 5, Log-Likelihood: -996.615, Alpha: 11.000, Beta: 1.100

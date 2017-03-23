@@ -1,0 +1,61 @@
+Topic 0:
+  question:0.60
+  development:0.60
+  people:0.40
+  site:0.40
+  extensive:0.40
+  call:0.20
+  dont:0.20
+  asked:0.20
+  market:0.20
+  answer:0.20
+
+Topic 1:
+  question:0.69
+  development:0.56
+  extensive:0.39
+  people:0.39
+  site:0.38
+  asked:0.21
+  dont:0.21
+  answer:0.21
+  call:0.21
+  partner:0.20
+
+Topic 2:
+  development:0.60
+  question:0.59
+  site:0.41
+  people:0.40
+  extensive:0.40
+  partner:0.20
+  thmarketplace:0.20
+  willit:0.20
+  thoghts:0.20
+  market:0.20
+
+Topic 3:
+  development:0.62
+  question:0.58
+  extensive:0.40
+  site:0.40
+  people:0.40
+  amwhat:0.20
+  thoughts:0.20
+  february:0.20
+  trc:0.20
+  quote:0.20
+
+Topic 4:
+  development:0.62
+  question:0.55
+  extensive:0.41
+  site:0.41
+  people:0.41
+  thoughts:0.20
+  quote:0.20
+  trc:0.20
+  february:0.20
+  amwhat:0.20
+
+K: 5, Log-Likelihood: -74.837, Alpha: 11.000, Beta: 1.100

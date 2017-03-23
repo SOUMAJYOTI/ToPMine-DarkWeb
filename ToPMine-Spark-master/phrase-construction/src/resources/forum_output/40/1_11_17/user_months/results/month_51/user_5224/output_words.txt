@@ -1,0 +1,61 @@
+Topic 0:
+  agora:9.15
+  deposits:3.43
+  issue:2.61
+  worried:2.57
+  ago:2.35
+  times:2.20
+  stress:2.13
+  test:2.13
+  address:2.10
+  time:2.03
+
+Topic 1:
+  funds:10.57
+  agora:7.65
+  case:6.78
+  btc:6.08
+  locked:4.44
+  making:4.42
+  rule:4.40
+  deposits:4.23
+  withdrawl:3.89
+  explained:3.68
+
+Topic 2:
+  marketplace:9.27
+  ag:7.93
+  wallet:7.29
+  ab:4.94
+  min:4.90
+  deposit:4.72
+  hrs:3.66
+  slow:3.66
+  guess:3.08
+  unconformed:2.69
+
+Topic 3:
+  agora:10.05
+  deposit:9.89
+  blockchain:6.51
+  confirmations:4.99
+  address:3.40
+  middle:3.11
+  earth:3.06
+  check:3.04
+  transaction:2.96
+  reads:2.54
+
+Topic 4:
+  agora:16.15
+  time:8.01
+  problem:4.77
+  market:4.48
+  forums:4.02
+  captcha:2.98
+  ago:2.91
+  happened:2.20
+  love:2.19
+  today:2.16
+
+K: 5, Log-Likelihood: -4302.217, Alpha: 11.000, Beta: 1.100

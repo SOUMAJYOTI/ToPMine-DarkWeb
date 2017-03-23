@@ -1,0 +1,61 @@
+Topic 0:
+  listings:1.42
+  store:0.84
+  book:0.80
+  items:0.76
+  offer:0.61
+  free:0.58
+  hansa:0.41
+  carding:0.41
+  premium:0.41
+  ends:0.41
+
+Topic 1:
+  listings:1.26
+  items:0.84
+  store:0.83
+  book:0.76
+  offer:0.61
+  free:0.61
+  valhalla:0.42
+  buy:0.41
+  march:0.40
+  members:0.40
+
+Topic 2:
+  listings:1.43
+  items:0.80
+  book:0.79
+  store:0.79
+  free:0.64
+  offer:0.58
+  hansa:0.43
+  fraud:0.41
+  great:0.40
+  reading:0.40
+
+Topic 3:
+  listings:1.36
+  book:0.88
+  items:0.80
+  store:0.80
+  offer:0.61
+  free:0.60
+  carding:0.40
+  reading:0.40
+  fraud:0.40
+  profile:0.40
+
+Topic 4:
+  listings:1.53
+  items:0.80
+  book:0.77
+  store:0.74
+  offer:0.59
+  free:0.58
+  valhalla:0.41
+  buy:0.40
+  day:0.40
+  members:0.40
+
+K: 5, Log-Likelihood: -338.905, Alpha: 11.000, Beta: 1.100

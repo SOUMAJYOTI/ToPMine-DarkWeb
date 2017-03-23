@@ -1,0 +1,61 @@
+Topic 0:
+  ekstaasikauppa:3.80
+  kans:3.75
+  sama:3.04
+  keen:2.70
+  pv:2.70
+  eik:2.70
+  viikonlopuksi:2.29
+  odottelun:2.29
+  ep:2.29
+  melkeen:2.29
+
+Topic 1:
+  ei oo:4.76
+  ja:4.70
+  lukenut:4.47
+  kaveri:4.16
+  iv:4.01
+  tahtoo:3.80
+  kiinni vai:3.80
+  ljett:3.80
+  miin:3.80
+  jumalauta:3.80
+
+Topic 2:
+  sinun:4.66
+  takasin:3.84
+  vaik:3.71
+  kans ton:3.71
+  tullu mit:3.71
+  pit:3.19
+  postitetuksi:2.47
+  tapauksessa:2.37
+  kopioituna:2.30
+  merkitsemisest:2.30
+
+Topic 3:
+  tai:6.35
+  en:5.52
+  ei:5.14
+  ees:4.67
+  paljon:4.67
+  sen:4.37
+  kirjautunu:3.47
+  iv oottanu:3.27
+  nelj:3.16
+  tota:3.16
+
+Topic 4:
+  riitauttaa:4.97
+  tilauksen:3.81
+  vastaus:3.81
+  edes:3.80
+  mutta:3.76
+  olen:3.76
+  ll:3.31
+  tanssittajalta:3.25
+  tilattu:2.74
+  sis:2.53
+
+K: 5, Log-Likelihood: -4482.975, Alpha: 11.000, Beta: 1.100

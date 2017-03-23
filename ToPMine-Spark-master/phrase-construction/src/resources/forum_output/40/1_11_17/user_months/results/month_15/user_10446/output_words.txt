@@ -1,0 +1,61 @@
+Topic 0:
+  sr:9.19
+  bug:4.21
+  small:3.86
+  url:3.54
+  heartbleed:3.28
+  jail:2.55
+  forum:2.19
+  exploit:2.19
+  trade:1.91
+  fast:1.91
+
+Topic 1:
+  sr:6.50
+  market:3.85
+  scams:3.80
+  guess:3.44
+  quote:2.98
+  blue:2.79
+  full:2.43
+  dumbass:2.40
+  escrow:2.16
+  trolltergeist:2.04
+
+Topic 2:
+  sr:15.01
+  market:3.48
+  bring:3.06
+  explanations:3.01
+  agora:2.92
+  ignorant:2.80
+  small:2.69
+  le:2.60
+  ideology:2.51
+  june:2.43
+
+Topic 3:
+  people:6.62
+  sr:4.36
+  hate:3.91
+  trolly:3.42
+  le:2.98
+  dont:2.82
+  feel:1.95
+  yells:1.95
+  facts:1.95
+  arguments:1.95
+
+Topic 4:
+  sr:8.94
+  heartbleed:5.13
+  ignorant:3.71
+  small:3.57
+  southeastern:3.44
+  knowledge:3.08
+  dude:3.00
+  read:2.98
+  june:2.78
+  work:2.05
+
+K: 5, Log-Likelihood: -3674.748, Alpha: 11.000, Beta: 1.100

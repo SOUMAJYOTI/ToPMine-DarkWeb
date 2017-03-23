@@ -1,0 +1,51 @@
+Topic 0:
+  whonix:0.00
+  tempt:0.00
+  margin:0.00
+  org:0.00
+  link:0.00
+  clearnet:0.00
+  mempo:0.00
+  boxen:0.00
+
+Topic 1:
+  whonix:0.00
+  tempt:0.00
+  margin:0.00
+  org:0.00
+  link:0.00
+  clearnet:0.00
+  mempo:0.00
+  boxen:0.00
+
+Topic 2:
+  whonix:0.00
+  tempt:0.00
+  margin:0.00
+  org:0.00
+  link:0.00
+  clearnet:0.00
+  mempo:0.00
+  boxen:0.00
+
+Topic 3:
+  whonix:0.00
+  tempt:0.00
+  margin:0.00
+  org:0.00
+  link:0.00
+  clearnet:0.00
+  mempo:0.00
+  boxen:0.00
+
+Topic 4:
+  whonix:0.00
+  tempt:0.00
+  margin:0.00
+  org:0.00
+  link:0.00
+  clearnet:0.00
+  mempo:0.00
+  boxen:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  auto:0.47
+  asked:0.34
+  smart:0.22
+  justi:0.22
+  feature:0.22
+  professional:0.22
+  andjs:0.22
+  based:0.22
+  layout:0.22
+  enthusiasts:0.22
+
+Topic 1:
+  asked:0.48
+  auto:0.29
+  site:0.24
+  gadgets:0.24
+  check:0.24
+  market:0.24
+  offerings:0.24
+  seriousness:0.24
+  aliens:0.24
+  unique:0.24
+
+Topic 2:
+  asked:0.46
+  auto:0.37
+  link:0.22
+  aint:0.22
+  early:0.22
+  leading:0.22
+  registering:0.22
+  register:0.22
+  checked:0.22
+  putting:0.22
+
+Topic 3:
+  auto:0.46
+  asked:0.34
+  silkroad:0.22
+  css:0.22
+  mesages:0.22
+  protected:0.22
+  internal:0.22
+  vendor:0.22
+  goods:0.22
+  image:0.22
+
+Topic 4:
+  auto:0.42
+  asked:0.37
+  password:0.21
+  views:0.21
+  goods:0.21
+  darkmarketupcoming:0.21
+  warehouse:0.21
+  based:0.21
+  wallets:0.21
+  checkout:0.21
+
+K: 5, Log-Likelihood: -289.271, Alpha: 11.000, Beta: 1.100

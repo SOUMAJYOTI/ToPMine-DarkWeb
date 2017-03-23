@@ -1,0 +1,61 @@
+Topic 0:
+  bug:19.16
+  hidden service:11.97
+  tor:7.17
+  big:7.17
+  attacker:7.17
+  servers:4.78
+  version:4.78
+  browser:4.78
+  week:4.78
+  openssl:4.78
+
+Topic 1:
+  warning:4.77
+  fuck:4.77
+  shit:4.77
+  hell:4.77
+  posting:3.92
+  careful:3.87
+  phishing:3.59
+  mentioned:2.37
+  warned:2.37
+  comfortable:2.37
+
+Topic 2:
+  april element surprise:6.71
+  speak louder:5.90
+  gtfo quick:4.91
+  compromised le closing:4.91
+  action:4.73
+  dont:4.13
+  wordstalk:3.90
+  subordinates:3.90
+  mute:3.90
+  forums feels mtgox message:3.90
+
+Topic 3:
+  thing:5.99
+  assume:4.76
+  forum:4.65
+  personally:3.93
+  agra:3.92
+  admin:3.92
+  security:3.92
+  apeshit:3.92
+  practice:3.92
+  patient:3.92
+
+Topic 4:
+  address:5.91
+  vulnerability:5.91
+  thing:4.94
+  theyve:4.22
+  peace:3.91
+  changing:3.91
+  onion:3.91
+  moment:3.91
+  agra time:3.91
+  positive:3.91
+
+K: 5, Log-Likelihood: -7753.932, Alpha: 11.000, Beta: 1.100

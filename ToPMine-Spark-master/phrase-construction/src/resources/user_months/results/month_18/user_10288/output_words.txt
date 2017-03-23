@@ -1,0 +1,61 @@
+Topic 0:
+  miles:2.15
+  location:1.59
+  wifi:1.48
+  wife:1.24
+  networks:1.15
+  connection:0.95
+  concerned:0.94
+  street:0.86
+  wifis:0.84
+  distance:0.82
+
+Topic 1:
+  carding:2.16
+  find:1.53
+  money:1.10
+  steps:1.10
+  forums:1.09
+  clearnet:1.08
+  convert:1.07
+  ideas:1.02
+  virwox:0.90
+  btc:0.89
+
+Topic 2:
+  identify:4.62
+  point:3.67
+  antenna:3.65
+  cell:3.61
+  phones:2.69
+  real:2.69
+  fingerprint:2.68
+  unknowingly:2.68
+  address:2.68
+  mac:2.67
+
+Topic 3:
+  miles:1.93
+  wifi:1.77
+  antenna:1.66
+  card:1.53
+  high:1.47
+  location:1.31
+  wifis:1.28
+  target:1.27
+  networks:1.09
+  wife:1.07
+
+Topic 4:
+  carding:1.59
+  find:1.56
+  miles:1.14
+  networks:0.80
+  convert:0.79
+  bitcoin:0.79
+  btc:0.78
+  clearnet:0.77
+  virwox:0.77
+  steps:0.76
+
+K: 5, Log-Likelihood: -2450.983, Alpha: 11.000, Beta: 1.100

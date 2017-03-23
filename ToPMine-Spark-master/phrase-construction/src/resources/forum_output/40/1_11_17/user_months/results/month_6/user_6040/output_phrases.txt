@@ -1,0 +1,61 @@
+Topic 0:
+  safe mail net:4.97
+  fast:2.38
+  interface:2.38
+  javascript:2.38
+  sums:2.38
+  signup:2.38
+  fastbut:2.38
+  point:2.38
+  encryption:2.38
+  personal:2.38
+
+Topic 1:
+  email tor:1.57
+  send:1.57
+  retrieve:1.57
+  onion:1.56
+  advantage:1.55
+  accidentally:1.54
+  pgpwould:1.29
+  opened:1.29
+  yahoo email:1.29
+  wondering:1.29
+
+Topic 2:
+  email service:3.31
+  set:2.31
+  monitor:2.31
+  assume:2.31
+  gmail:2.30
+  comms:2.30
+  worst:2.30
+  malicious:2.30
+  yahoo:2.30
+  things:2.30
+
+Topic 3:
+  email:4.76
+  analysis:4.27
+  stuff:1.91
+  web:1.91
+  deep:1.90
+  previous:1.90
+  harmless:1.90
+  advocate:1.90
+  comparison:1.90
+  big:1.90
+
+Topic 4:
+  email:2.29
+  case:0.98
+  pgp:0.84
+  analysis:0.74
+  accidentally:0.63
+  advantage:0.62
+  onion:0.61
+  retrieve:0.61
+  email tor:0.60
+  send:0.60
+
+K: 5, Log-Likelihood: -1126.500, Alpha: 11.000, Beta: 1.100

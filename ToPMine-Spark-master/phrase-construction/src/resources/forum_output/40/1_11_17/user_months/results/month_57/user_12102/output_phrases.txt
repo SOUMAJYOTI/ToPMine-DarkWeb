@@ -1,0 +1,61 @@
+Topic 0:
+  flash:1.29
+  answer:1.16
+  volume:0.66
+  jigsawwish:0.66
+  stay:0.66
+  separate encrypted:0.66
+  afraid:0.66
+  main dnm addresses:0.66
+  happy:0.66
+  function bit:0.66
+
+Topic 1:
+  electrum:6.51
+  wallet:4.32
+  network proceed transactions guys:3.22
+  step tails tells electrum:3.22
+  dont enable persistence launch:3.22
+  file save copy save:3.22
+  restore existing wallet seed:3.22
+  tails advises recommended electrum:3.22
+  btc vendor proceeded sending:3.22
+  device written copy:3.22
+
+Topic 2:
+  fingers:1.37
+  word:1.37
+  amamen:1.37
+  finished:1.37
+  typing:1.37
+  lower:1.37
+  brain:1.37
+  previous:1.37
+  october:1.37
+  post:1.37
+
+Topic 3:
+  persistent volume tails:4.46
+  tails usb:4.46
+  tails:3.67
+  original:2.96
+  keeping:2.96
+  current:2.96
+  security:2.96
+  sensitive:2.96
+  generating:2.96
+  darknet:2.96
+
+Topic 4:
+  forum:4.15
+  people:3.23
+  tails:2.19
+  funny:2.12
+  collect:2.12
+  abandoned:2.12
+  extensively:2.12
+  late:2.12
+  completely:2.12
+  conclude:2.12
+
+K: 5, Log-Likelihood: -5032.611, Alpha: 11.000, Beta: 1.100

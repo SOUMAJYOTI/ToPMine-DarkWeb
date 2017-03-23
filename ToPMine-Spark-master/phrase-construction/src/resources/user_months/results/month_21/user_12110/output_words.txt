@@ -1,0 +1,61 @@
+Topic 0:
+  sellers:0.40
+  proof:0.40
+  method:0.40
+  vendors:0.20
+  profiles:0.20
+  watching:0.20
+  site:0.20
+  policy:0.20
+  sms:0.20
+  requiring:0.20
+
+Topic 1:
+  sellers:0.40
+  proof:0.40
+  method:0.40
+  watching:0.20
+  profiles:0.20
+  site:0.20
+  vendors:0.20
+  policy:0.20
+  bank:0.20
+  anonymously:0.20
+
+Topic 2:
+  sellers:0.41
+  method:0.40
+  proof:0.39
+  profiles:0.20
+  policy:0.20
+  site:0.20
+  vendors:0.20
+  watching:0.20
+  ive:0.20
+  methods:0.20
+
+Topic 3:
+  proof:0.40
+  method:0.40
+  sellers:0.40
+  forums:0.20
+  opsec:0.20
+  btc:0.20
+  uk:0.20
+  requiring:0.20
+  buy:0.20
+  bitcoins:0.20
+
+Topic 4:
+  method:0.41
+  proof:0.41
+  sellers:0.39
+  buyers:0.20
+  reaching:0.20
+  lbc:0.20
+  card:0.20
+  verification:0.20
+  buy:0.20
+  sms:0.20
+
+K: 5, Log-Likelihood: -120.358, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  pmi:0.14
+  thanksi:0.14
+  info:0.14
+  tambourine:0.14
+  update:0.14
+  included:0.14
+  quote:0.14
+  newest:0.14
+  thinking:0.14
+  tails:0.14
+
+Topic 1:
+  kudos:0.14
+  heads:0.14
+  sig:0.14
+  electrum:0.14
+  works:0.14
+  mutil:0.14
+  implementing:0.14
+  havent:0.14
+  epected:0.14
+  played:0.14
+
+Topic 2:
+  tambourine:0.14
+  mark:0.14
+  thanksi:0.14
+  newest:0.14
+  tails:0.14
+  info:0.14
+  update:0.14
+  included:0.14
+  pmi:0.14
+  quote:0.14
+
+Topic 3:
+  cli:0.14
+  masses:0.14
+  played:0.14
+  havent:0.14
+  mutil:0.14
+  works:0.14
+  bring:0.14
+  sig:0.14
+  heads:0.14
+  kudos:0.14
+
+Topic 4:
+  works:0.14
+  masses:0.14
+  bring:0.14
+  electrum:0.14
+  implementing:0.14
+  mutil:0.14
+  played:0.14
+  sig:0.14
+  heads:0.14
+  team:0.14
+
+K: 5, Log-Likelihood: -58.325, Alpha: 11.000, Beta: 1.100

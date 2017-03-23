@@ -1,0 +1,61 @@
+Topic 0:
+  card:2.81
+  major:1.89
+  gift:1.76
+  number:1.53
+  tout:1.50
+  btc:1.50
+  redeem:1.48
+  transfer:1.47
+  takes:1.46
+  storefront:1.46
+
+Topic 1:
+  card:4.79
+  major:3.88
+  deal:2.87
+  retain:2.84
+  btc:2.80
+  gift:2.07
+  localbitcoin:1.68
+  localbitcoins:1.67
+  ways:1.66
+  business:1.63
+
+Topic 2:
+  point:5.96
+  thread:4.45
+  prudent:2.89
+  doesnt:2.89
+  pls:2.89
+  divergent:2.89
+  save:2.89
+  unconscious:2.89
+  bullshit:2.89
+  oral:2.89
+
+Topic 3:
+  btc:3.83
+  thought:2.96
+  buyer:2.96
+  understand:2.96
+  send:2.96
+  rate:2.96
+  carding:2.96
+  guys:2.96
+  flagellates:2.96
+  buttcoin:2.96
+
+Topic 4:
+  step:2.86
+  pretensions:2.86
+  easy:2.86
+  tang:2.37
+  pm:1.92
+  armpit:1.87
+  pmlets:1.87
+  hardened:1.87
+  arma:1.87
+  feelsgoodman:1.87
+
+K: 5, Log-Likelihood: -1767.902, Alpha: 11.000, Beta: 1.100

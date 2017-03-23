@@ -1,0 +1,61 @@
+Topic 0:
+  opium:0.00
+  listings:0.00
+  big:0.00
+  bank:0.00
+  imported:0.00
+  black:0.00
+  description:0.00
+  listing:0.00
+  hey:0.00
+  sr:0.00
+
+Topic 1:
+  opium:0.00
+  listings:0.00
+  big:0.00
+  bank:0.00
+  imported:0.00
+  black:0.00
+  description:0.00
+  listing:0.00
+  hey:0.00
+  sr:0.00
+
+Topic 2:
+  opium:0.00
+  listings:0.00
+  big:0.00
+  bank:0.00
+  imported:0.00
+  black:0.00
+  description:0.00
+  listing:0.00
+  hey:0.00
+  sr:0.00
+
+Topic 3:
+  opium:0.00
+  listings:0.00
+  big:0.00
+  bank:0.00
+  imported:0.00
+  black:0.00
+  description:0.00
+  listing:0.00
+  hey:0.00
+  sr:0.00
+
+Topic 4:
+  opium:0.00
+  listings:0.00
+  big:0.00
+  bank:0.00
+  imported:0.00
+  black:0.00
+  description:0.00
+  listing:0.00
+  hey:0.00
+  sr:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

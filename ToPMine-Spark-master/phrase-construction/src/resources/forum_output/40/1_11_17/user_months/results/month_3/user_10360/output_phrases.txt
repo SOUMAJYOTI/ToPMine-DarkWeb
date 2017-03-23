@@ -1,0 +1,61 @@
+Topic 0:
+  gloves:8.06
+  ship:5.29
+  lol:4.36
+  yeah:4.36
+  anah:4.36
+  wipe:4.36
+  mailer:4.36
+  didnt:4.34
+  order:4.34
+  unopened:4.34
+
+Topic 1:
+  package:6.32
+  signed:4.38
+  dogs:4.38
+  supposed:4.38
+  bringing:4.38
+  sniff:4.38
+  check:4.38
+  inspect:4.38
+  knock:4.38
+  written:4.38
+
+Topic 2:
+  return address:7.89
+  tracking:6.58
+  years:6.58
+  feds:6.58
+  portal service:6.58
+  return:6.58
+  times:6.58
+  mail:4.63
+  extra:4.38
+  addys:4.38
+
+Topic 3:
+  inside:4.35
+  packaging:4.35
+  contents:4.35
+  pack:4.34
+  good:3.78
+  issue:3.45
+  odor:2.85
+  pvc:2.58
+  odor proof:2.58
+  things:2.57
+
+Topic 4:
+  site:4.45
+  full:4.36
+  attack:4.36
+  runs:4.34
+  love:4.34
+  strike:4.24
+  deleted threads:4.22
+  quote:3.54
+  ddosd:3.52
+  spam:3.52
+
+K: 5, Log-Likelihood: -9323.660, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  passport:0.40
+  person:0.40
+  hard:0.20
+  good:0.20
+  find:0.20
+  motherfuckers:0.20
+  offline:0.20
+  finally:0.20
+  quality:0.20
+  offer:0.20
+
+Topic 1:
+  person:0.40
+  passport:0.40
+  sume:0.20
+  obtaining:0.20
+  considerable:0.20
+  impossible:0.20
+  alive:0.20
+  independent:0.20
+  disorder:0.20
+  situation:0.20
+
+Topic 2:
+  person:0.40
+  passport:0.40
+  gladly:0.20
+  quality:0.20
+  offer:0.20
+  offline:0.20
+  finally:0.20
+  motherfuckers:0.20
+  find:0.20
+  licence:0.20
+
+Topic 3:
+  person:0.40
+  passport:0.40
+  seizures:0.20
+  coordinate:0.20
+  complicated:0.20
+  worth:0.20
+  identity:0.20
+  situation:0.20
+  uncontrolled:0.20
+  pay:0.20
+
+Topic 4:
+  passport:0.40
+  person:0.40
+  motherfuckers:0.20
+  hard:0.20
+  good:0.20
+  offer:0.20
+  find:0.20
+  quality:0.20
+  gladly:0.20
+  finally:0.20
+
+K: 5, Log-Likelihood: -159.016, Alpha: 11.000, Beta: 1.100

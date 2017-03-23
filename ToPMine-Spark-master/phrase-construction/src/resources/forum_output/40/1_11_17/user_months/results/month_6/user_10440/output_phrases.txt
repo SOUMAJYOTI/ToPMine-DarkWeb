@@ -1,0 +1,61 @@
+Topic 0:
+  coin:8.89
+  pending:6.23
+  problems:6.19
+  market:6.03
+  correct:5.40
+  withdrawals:5.40
+  working:5.36
+  small:5.36
+  hours:5.28
+  auto withdrawal:5.26
+
+Topic 1:
+  forced sign:10.88
+  swam site:10.87
+  ive:9.97
+  ill randomly signed sign:8.77
+  figure bug big issue:8.77
+  sign times minute session:8.77
+  sr forums:7.86
+  forced signout thinking ta:7.26
+  dont data points:7.26
+  bsm forum:7.08
+
+Topic 2:
+  deposit:11.99
+  order:11.17
+  auto withdraw:9.70
+  btc:7.21
+  vending:6.76
+  site:6.74
+  lock:6.21
+  bsm:5.86
+  time:5.57
+  expensive:5.38
+
+Topic 3:
+  sr:10.48
+  blue sky:8.73
+  hub:6.73
+  multiply:5.75
+  exists:5.41
+  hey:5.41
+  showing:5.41
+  forum hub:5.41
+  keeping:5.41
+  customers thing:5.41
+
+Topic 4:
+  markets:10.67
+  silk road:7.09
+  fast smooth:7.07
+  good:7.00
+  cough:6.23
+  days:6.23
+  traffic:6.23
+  transactions:6.23
+  people:6.09
+  blue sky:5.65
+
+K: 5, Log-Likelihood: -13529.632, Alpha: 11.000, Beta: 1.100

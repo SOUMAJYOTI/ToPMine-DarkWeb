@@ -1,0 +1,61 @@
+Topic 0:
+  ja:1.82
+  jos:1.80
+  ysin:1.46
+  ett:1.44
+  mik:1.43
+  luottamaan:1.33
+  mit:1.31
+  tunnusmerkit:1.24
+  hoida:1.23
+  rehellinen:1.20
+
+Topic 1:
+  kauppiaisiin:2.51
+  st:2.40
+  ep:2.40
+  rehellinen:2.36
+  hoida:2.33
+  tunnusmerkit:2.32
+  mit:2.24
+  luottamaan:2.23
+  mik:2.12
+  ysin:1.88
+
+Topic 2:
+  kundi:3.52
+  kseno:3.52
+  teksti:3.49
+  ksenolle:2.38
+  kuin:2.07
+  menetti:1.73
+  donavan:1.73
+  fyrkkansa:1.73
+  kusettaa:1.73
+  pesiytyy:1.73
+
+Topic 3:
+  koska:4.19
+  skin:3.54
+  mahdollisuus:3.54
+  uudestaan:3.54
+  kusetusta:3.54
+  pain:3.54
+  tilausten:3.54
+  jatkaa:3.54
+  ill:3.54
+  maksimoida:3.54
+
+Topic 4:
+  silkkitiell:3.53
+  tilini:1.74
+  st koska:1.74
+  ilmasia:1.74
+  peruuttanut:1.74
+  todistelisit:1.74
+  myyj:1.74
+  oval:1.74
+  rekist:1.74
+  lukeneet:1.74
+
+K: 5, Log-Likelihood: -4018.282, Alpha: 11.000, Beta: 1.100

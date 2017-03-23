@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.25
+  nucleus:0.61
+  dropdown:0.61
+  vendors list:0.61
+  menu:0.61
+  forum:0.61
+  item:0.61
+  eve:0.61
+  feature:0.61
+  free:0.60
+
+Topic 1:
+  ability:0.85
+  good:0.80
+  wait:0.69
+  vendors:0.69
+  list:0.64
+  market:0.54
+  site:0.51
+  free:0.46
+  key:0.43
+  scammers:0.43
+
+Topic 2:
+  vendors:1.87
+  good:1.75
+  ability:1.70
+  dnh:0.78
+  issue:0.78
+  honestcocaine:0.78
+  offering:0.78
+  dealing:0.78
+  attracts:0.77
+  interactions:0.77
+
+Topic 3:
+  deposit:3.85
+  change:2.50
+  spare:2.49
+  withdrawal:2.48
+  unconformed:1.14
+  ill:1.14
+  ordering:1.14
+  breaker:1.14
+  worked:1.14
+  sending:1.14
+
+Topic 4:
+  andromeda:1.07
+  instantly:1.07
+  bit:1.07
+  hc:1.07
+  scammed:1.07
+  cool:1.07
+  putting:1.07
+  patient:1.07
+  sales:1.07
+  dams:1.07
+
+K: 5, Log-Likelihood: -607.173, Alpha: 11.000, Beta: 1.100

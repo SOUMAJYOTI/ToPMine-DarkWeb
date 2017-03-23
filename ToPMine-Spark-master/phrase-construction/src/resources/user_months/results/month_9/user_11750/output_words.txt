@@ -1,0 +1,61 @@
+Topic 0:
+  deposit:1.07
+  admin:0.42
+  happen:0.41
+  hacked:0.40
+  night:0.40
+  lying:0.21
+  shill:0.21
+  transaction:0.21
+  history:0.21
+  shortly:0.21
+
+Topic 1:
+  deposit:0.96
+  admin:0.43
+  happen:0.43
+  hacked:0.38
+  night:0.38
+  deleted:0.22
+  transaction:0.22
+  history:0.22
+  shortly:0.22
+  suspect:0.22
+
+Topic 2:
+  deposit:2.02
+  hacked:0.43
+  night:0.43
+  happen:0.35
+  admin:0.34
+  attack:0.21
+  time:0.21
+  incompetence:0.21
+  making:0.21
+  wallet:0.21
+
+Topic 3:
+  deposit:2.17
+  night:0.45
+  hacked:0.44
+  admin:0.34
+  happen:0.33
+  btc:0.21
+  transferred:0.21
+  days:0.21
+  reported:0.21
+  morning:0.21
+
+Topic 4:
+  deposit:0.78
+  happen:0.48
+  admin:0.47
+  hacked:0.35
+  night:0.35
+  mustve:0.26
+  noticed:0.26
+  suspect:0.26
+  shortly:0.26
+  history:0.26
+
+K: 5, Log-Likelihood: -231.852, Alpha: 11.000, Beta: 1.100

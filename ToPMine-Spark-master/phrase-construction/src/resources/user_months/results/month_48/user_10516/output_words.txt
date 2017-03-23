@@ -1,0 +1,61 @@
+Topic 0:
+  people:23.33
+  gass:16.99
+  system:16.96
+  registry:13.99
+  state:12.40
+  time:11.89
+  identity:10.99
+  license:10.97
+  privacy:9.30
+  country:9.13
+
+Topic 1:
+  bios:38.59
+  radio:17.24
+  rootkits:14.80
+  left:14.79
+  device:13.51
+  os:12.31
+  team:12.10
+  security:11.32
+  hacking:11.13
+  attack:10.54
+
+Topic 2:
+  password:23.96
+  firmware:23.68
+  intel:22.01
+  remove:16.57
+  security:15.57
+  users:15.02
+  drives:14.63
+  amt:13.74
+  bit:13.20
+  secure:12.79
+
+Topic 3:
+  xkeyscore:72.94
+  traffic:41.87
+  system:36.53
+  data:32.27
+  malware:24.92
+  analysts:23.18
+  web:20.63
+  nsa:20.56
+  documents:19.28
+  servers:17.14
+
+Topic 4:
+  tails:23.68
+  hard:19.58
+  june:15.41
+  firmware:15.22
+  install:13.57
+  quote:12.86
+  attack:12.46
+  doesnt:10.87
+  point:10.01
+  shit:9.91
+
+K: 5, Log-Likelihood: -64002.155, Alpha: 11.000, Beta: 1.100

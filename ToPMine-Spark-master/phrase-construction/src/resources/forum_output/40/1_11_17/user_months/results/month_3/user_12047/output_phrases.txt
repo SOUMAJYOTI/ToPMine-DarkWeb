@@ -1,0 +1,61 @@
+Topic 0:
+  site:5.51
+  attention:4.65
+  virgin:4.65
+  dont:3.73
+  dos:3.14
+  agra:2.70
+  guys:2.30
+  vain:2.30
+  idea:2.30
+  effort:2.30
+
+Topic 1:
+  key:4.63
+  gpg:4.63
+  good:3.61
+  vendors:3.47
+  hope:2.47
+  faaa:2.28
+  signature agora:2.28
+  text:2.28
+  gpg signature:2.28
+  pm:2.28
+
+Topic 2:
+  sorrymario march pmquote:6.02
+  removed rid asap hey:5.46
+  quote:5.13
+  names simply names vendors:4.89
+  checking march pmposts:4.89
+  list removed completely:4.69
+  forum:4.69
+  buyers vendors username market:4.69
+  copy entire list users:4.69
+  users:4.69
+
+Topic 3:
+  pgp:4.67
+  signature:4.18
+  hash:2.53
+  version:2.32
+  cttyfl:2.32
+  mvwjunu:2.32
+  hlrwcl:2.32
+  qg:2.32
+  gyjmnzesb:2.32
+  attack:2.32
+
+Topic 4:
+  top forum:7.71
+  member:3.82
+  member option:3.82
+  full list:3.82
+  number:3.82
+  times:3.82
+  type:3.82
+  view full list:3.82
+  members:3.82
+  click:3.82
+
+K: 5, Log-Likelihood: -4001.782, Alpha: 11.000, Beta: 1.100

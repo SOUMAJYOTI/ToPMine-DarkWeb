@@ -1,0 +1,61 @@
+Topic 0:
+  fe:2.73
+  previous:2.73
+  hacks:1.25
+  understands:1.25
+  strictly:1.25
+  ordering:1.25
+  escrow:1.25
+  shady:1.25
+  hub:1.25
+  unsafe:1.25
+
+Topic 1:
+  large:1.32
+  pageant:1.32
+  smell:1.32
+  ill:1.32
+  nice:1.32
+  recommend:1.32
+  smooth:1.32
+  nugs:1.32
+  smokes:1.32
+  potency:1.32
+
+Topic 2:
+  sr:0.69
+  market:0.63
+  services:0.58
+  offering:0.58
+  markets:0.57
+  people:0.57
+  february:0.54
+  quote:0.54
+  vendor:0.52
+  reading:0.51
+
+Topic 3:
+  forums:0.94
+  stuff:0.94
+  pleasant:0.94
+  remember:0.94
+  rude:0.92
+  vendor:0.92
+  reading:0.92
+  quote:0.91
+  february:0.90
+  weedgirls:0.70
+
+Topic 4:
+  retractions:0.74
+  thankswgs:0.74
+  positive:0.74
+  risk:0.74
+  noticed:0.74
+  alternative:0.73
+  low:0.73
+  trust:0.73
+  feedback:0.73
+  markets:0.61
+
+K: 5, Log-Likelihood: -766.771, Alpha: 11.000, Beta: 1.100

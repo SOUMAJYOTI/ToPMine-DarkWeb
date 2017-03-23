@@ -1,0 +1,61 @@
+Topic 0:
+  customers:3.64
+  parcel:2.39
+  money:1.14
+  negative:1.14
+  response:1.14
+  didnt:1.14
+  attempts:1.14
+  charge:1.14
+  cases:1.14
+  free:1.14
+
+Topic 1:
+  dn:2.38
+  safe:2.38
+  report:2.38
+  vendors:2.38
+  care:1.16
+  consumers:1.16
+  people:1.16
+  quality:1.13
+  forums:1.13
+  ship:1.13
+
+Topic 2:
+  benjomarket:1.95
+  vendor:1.51
+  spent time:0.88
+  stay:0.88
+  btc:0.88
+  owe:0.87
+  obvious:0.87
+  managed:0.87
+  scandis:0.87
+  bastard:0.87
+
+Topic 3:
+  benjomarket:1.21
+  dont:0.93
+  vendor:0.81
+  lost btc:0.71
+  jerking:0.64
+  forum fe:0.63
+  fat:0.63
+  needed:0.63
+  proof:0.63
+  send:0.63
+
+Topic 4:
+  month:2.36
+  kapteeni btc:1.12
+  dealth:1.12
+  froze:1.12
+  friends:1.12
+  account:1.12
+  making:1.12
+  god:1.12
+  answering:1.12
+  entitle:1.12
+
+K: 5, Log-Likelihood: -977.981, Alpha: 11.000, Beta: 1.100

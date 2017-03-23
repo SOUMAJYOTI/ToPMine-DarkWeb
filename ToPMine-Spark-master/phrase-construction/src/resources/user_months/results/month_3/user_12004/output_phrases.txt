@@ -1,0 +1,61 @@
+Topic 0:
+  today:0.90
+  bitcoins:0.89
+  stuck:0.84
+  agora:0.54
+  frozen:0.42
+  exchange:0.42
+  yesterday:0.40
+  decided:0.40
+  yahoo:0.40
+  mt:0.40
+
+Topic 1:
+  stuck:0.60
+  bitcoins:0.59
+  today:0.58
+  exchange:0.45
+  frozen:0.45
+  agora:0.45
+  check:0.39
+  move:0.37
+  good:0.36
+  bitstamp:0.35
+
+Topic 2:
+  stuck:0.80
+  bitcoins:0.76
+  today:0.76
+  gox:0.42
+  agora:0.40
+  invest:0.37
+  mainstream:0.37
+  fucking:0.37
+  wan:0.37
+  outlets:0.37
+
+Topic 3:
+  bitstamp:1.59
+  move:1.10
+  good:0.66
+  wanted:0.63
+  yea:0.63
+  starts:0.63
+  thinking:0.63
+  input:0.63
+  answer:0.63
+  hope:0.63
+
+Topic 4:
+  rebound:2.14
+  btc:2.14
+  customers:2.14
+  fear:0.93
+  bad:0.93
+  ofc:0.93
+  rise:0.93
+  drastically:0.93
+  blame:0.93
+  fall:0.93
+
+K: 5, Log-Likelihood: -512.018, Alpha: 11.000, Beta: 1.100

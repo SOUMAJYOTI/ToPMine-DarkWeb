@@ -1,0 +1,61 @@
+Topic 0:
+  companies:1.82
+  paypal:1.81
+  deposit:1.81
+  initials:1.81
+  limit:1.81
+  deepdotweb:1.81
+  fees:1.81
+  daily:1.81
+  guide:1.81
+  btc:1.81
+
+Topic 1:
+  phone:8.70
+  smart phone:5.64
+  area:2.80
+  tor:2.80
+  browser:2.79
+  average:2.79
+  cash:2.79
+  paying:2.79
+  code:2.79
+  time:2.79
+
+Topic 2:
+  stolen:4.16
+  quote wise beard february:1.25
+  nilly:1.24
+  place:1.24
+  accept:1.22
+  stupid:1.21
+  methods:1.21
+  rent:1.19
+  details cash:1.19
+  brah:1.17
+
+Topic 3:
+  verification:3.64
+  scan send websites require:3.64
+  pmso website buy:3.42
+  verification goin phone number:3.41
+  bitcoins credit card:3.40
+  actual:2.89
+  access:2.89
+  wanted:2.89
+  phone number:2.89
+  theyll:2.89
+
+Topic 4:
+  hurt:3.81
+  wife:3.43
+  tang:3.34
+  ill:2.89
+  missing:2.89
+  diff:2.89
+  reports:2.89
+  ken dont:2.89
+  filed:2.89
+  agencies:2.89
+
+K: 5, Log-Likelihood: -1882.458, Alpha: 11.000, Beta: 1.100

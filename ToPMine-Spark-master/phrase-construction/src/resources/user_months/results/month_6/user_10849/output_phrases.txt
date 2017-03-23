@@ -1,0 +1,61 @@
+Topic 0:
+  tails:6.10
+  issues:2.51
+  tor browser:2.44
+  bug:1.81
+  user:1.52
+  support:1.51
+  release:1.50
+  tor:0.77
+  account:0.63
+  firefox:0.63
+
+Topic 1:
+  tails:1.54
+  tor browser:1.13
+  bug:1.10
+  issues:1.06
+  release:0.78
+  support:0.77
+  user:0.75
+  tor:0.55
+  features:0.41
+  list:0.41
+
+Topic 2:
+  tails:0.51
+  tor browser:0.42
+  issues:0.42
+  bug:0.40
+  user:0.35
+  release:0.34
+  support:0.34
+  tor:0.34
+  include:0.23
+  network:0.23
+
+Topic 3:
+  forbid:1.98
+  version:1.98
+  newest:1.29
+  updated:1.29
+  globally:1.29
+  silk:1.29
+  search:1.29
+  chemcat:1.29
+  folder:1.29
+  click:1.29
+
+Topic 4:
+  tor:0.20
+  tor browser bundle:0.18
+  browser:0.16
+  tails:0.15
+  issues:0.14
+  tor browser:0.14
+  bug:0.14
+  release:0.13
+  support:0.13
+  user:0.13
+
+K: 5, Log-Likelihood: -2087.724, Alpha: 11.000, Beta: 1.100

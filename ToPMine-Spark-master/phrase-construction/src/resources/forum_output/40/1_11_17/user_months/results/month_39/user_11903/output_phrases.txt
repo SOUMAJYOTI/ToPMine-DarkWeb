@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:7.68
+  kiss marketplace:5.40
+  forum:4.74
+  free:4.65
+  key:4.65
+  public:4.65
+  market:4.65
+  encrypt:4.65
+  account:4.65
+  messages:4.65
+
+Topic 1:
+  rational forced encryption:5.75
+  employ:4.42
+  didnt:3.78
+  unwillingness:3.78
+  transparent:3.78
+  nature:3.78
+  shills:3.78
+  heard:3.78
+  focused:3.65
+  drugs:3.65
+
+Topic 2:
+  le:11.41
+  march:4.92
+  comment:3.75
+  aka:3.75
+  abandon:3.75
+  suffer:3.75
+  involved:3.75
+  mods:3.75
+  wanted:3.74
+  doctorclu:3.74
+
+Topic 3:
+  kiss forum:9.32
+  pmi:3.56
+  gregory:3.55
+  wait:3.55
+  house:3.55
+  isnt:3.54
+  ill:3.52
+  reply:3.50
+  march:2.49
+  url:2.30
+
+Topic 4:
+  vendor search:7.00
+  vendor:4.65
+  post:3.47
+  issues:3.32
+  news:2.30
+  kiss evolution:2.30
+  searches:2.30
+  evolution post:2.30
+  vendor evolution:2.30
+  linking:2.30
+
+K: 5, Log-Likelihood: -4068.074, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:4.09
+  buy:3.14
+  hedging:3.14
+  short:3.14
+  periods:3.14
+  hold:3.14
+  bank account:1.91
+  elegant:1.53
+  sell bitcoin:1.53
+  exchanges:1.53
+
+Topic 1:
+  anon:1.31
+  btc:1.16
+  btc btc:0.94
+  ami:0.94
+  friendly:0.94
+  licketysplit:0.93
+  money card:0.93
+  perfect:0.93
+  yesprepaid:0.93
+  quote:0.91
+
+Topic 2:
+  half:4.55
+  understand:3.36
+  real:2.15
+  user:2.15
+  methods:2.15
+  image:2.15
+  question:2.15
+  link:2.15
+  mail card:2.15
+  india:2.15
+
+Topic 3:
+  cards anonymous:4.56
+  verify:3.46
+  info:3.36
+  anywho:2.17
+  find:2.17
+  online:2.17
+  interested:2.17
+  target:2.17
+  amen:2.17
+  support:2.17
+
+Topic 4:
+  btc:1.22
+  quote:0.99
+  anon:0.98
+  gon:0.75
+  reading:0.75
+  bitstamp:0.72
+  net:0.71
+  yesprepaid:0.60
+  perfect:0.60
+  money card:0.60
+
+K: 5, Log-Likelihood: -1996.427, Alpha: 11.000, Beta: 1.100

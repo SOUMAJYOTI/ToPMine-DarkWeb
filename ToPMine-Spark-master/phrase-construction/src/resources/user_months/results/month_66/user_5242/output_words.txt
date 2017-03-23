@@ -1,0 +1,61 @@
+Topic 0:
+  window:10.27
+  key:8.51
+  pgp:7.32
+  select:7.26
+  keys:6.63
+  menu:4.63
+  click:4.55
+  left:4.35
+  clipboard:4.14
+  top:4.06
+
+Topic 1:
+  drive:13.81
+  persistent:12.83
+  volume:12.83
+  create:10.04
+  tails:9.53
+  configure:4.83
+  select:3.89
+  update:2.87
+  cloning:2.80
+  cd:2.80
+
+Topic 2:
+  clipboard:17.89
+  message:11.44
+  select:5.97
+  window:5.09
+  key:4.72
+  formatting:3.76
+  click:3.28
+  bar:3.03
+  copy:2.93
+  left:2.91
+
+Topic 3:
+  message:23.25
+  clipboard:11.17
+  paste:8.86
+  type:8.24
+  sign:7.67
+  window:7.65
+  gedit:7.41
+  encrusted:7.21
+  ctrl:6.56
+  copy:6.28
+
+Topic 4:
+  key:18.36
+  window:9.70
+  enter:9.24
+  hit:8.81
+  keys:7.64
+  menu:6.15
+  pgp:5.81
+  click:5.79
+  left:5.70
+  passphrase:5.12
+
+K: 5, Log-Likelihood: -4064.241, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  koska:4.23
+  ja:3.60
+  kusetusta:3.54
+  tilausten:3.54
+  ill:3.54
+  loppuu:3.54
+  mahdollisuus:3.54
+  maksimoida:3.54
+  pain:3.54
+  skin:3.54
+
+Topic 1:
+  silkkitiell:3.54
+  greenherbalolisi:1.75
+  ilmasia:1.75
+  paljonko:1.75
+  todistelisit:1.75
+  pyynn:1.75
+  mitk:1.75
+  huutelujasi:1.75
+  asiakkaan:1.75
+  mukavaa:1.75
+
+Topic 2:
+  teksti:3.45
+  parodia:1.70
+  vittu mik:1.70
+  profiilissasi:1.70
+  miksi:1.70
+  ja hyvin:1.70
+  rahaa:1.70
+  lle:1.70
+  finlandonlinelle:1.69
+  paljastuneella:1.69
+
+Topic 3:
+  kseno:3.54
+  kundi:3.54
+  ksenolle:2.43
+  vanhana:1.75
+  menetti:1.75
+  mesta:1.75
+  fyrkkansa:1.75
+  moniko:1.75
+  privana:1.75
+  donavan:1.75
+
+Topic 4:
+  st:3.54
+  tunnusmerkit:3.54
+  ep:3.54
+  mit:3.54
+  mik:3.54
+  hoida:3.54
+  kauppiaisiin:3.54
+  luottamaan:3.54
+  rehellinen:3.54
+  jos:2.89
+
+K: 5, Log-Likelihood: -3948.553, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  time:0.28
+  transaction:0.28
+  business:0.28
+  weeks:0.28
+  address:0.28
+  campbx:0.17
+  campassess:0.14
+  making:0.14
+  pmthanks:0.14
+  today:0.14
+
+Topic 1:
+  address:0.28
+  transaction:0.28
+  time:0.28
+  weeks:0.28
+  business:0.28
+  campbx:0.17
+  dorks:0.14
+  imparted:0.14
+  honor:0.14
+  sort:0.14
+
+Topic 2:
+  time:0.28
+  transaction:0.28
+  business:0.28
+  weeks:0.28
+  address:0.28
+  campbx:0.17
+  account:0.14
+  common:0.14
+  current:0.14
+  control:0.14
+
+Topic 3:
+  address:0.28
+  business:0.28
+  weeks:0.28
+  time:0.28
+  transaction:0.28
+  campbx:0.17
+  fogdogg:0.14
+  sayin:0.14
+  theives:0.14
+  dont:0.14
+
+Topic 4:
+  weeks:0.28
+  time:0.28
+  transaction:0.28
+  business:0.28
+  address:0.28
+  campbx:0.17
+  dorks:0.14
+  reducing:0.14
+  confusing:0.14
+  today:0.14
+
+K: 5, Log-Likelihood: -216.177, Alpha: 11.000, Beta: 1.100

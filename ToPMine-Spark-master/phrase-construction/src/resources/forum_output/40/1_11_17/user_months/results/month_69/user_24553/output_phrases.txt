@@ -1,0 +1,61 @@
+Topic 0:
+  fa:0.33
+  pgp login:0.28
+  dont:0.28
+  rational:0.28
+  weak:0.28
+  requested:0.28
+  kind:0.28
+  password pgp:0.28
+  set:0.28
+  login:0.24
+
+Topic 1:
+  fa:0.32
+  requested:0.28
+  rational:0.28
+  password pgp:0.28
+  kind:0.28
+  weak:0.28
+  set:0.28
+  pgp login:0.28
+  dont:0.28
+  login:0.24
+
+Topic 2:
+  fa:0.32
+  requested:0.28
+  set:0.28
+  dont:0.28
+  weak:0.28
+  kind:0.28
+  password pgp:0.28
+  pgp login:0.28
+  rational:0.28
+  login:0.24
+
+Topic 3:
+  fa:0.33
+  password pgp:0.27
+  kind:0.27
+  set:0.27
+  weak:0.27
+  rational:0.27
+  dont:0.27
+  requested:0.27
+  pgp login:0.27
+  login:0.24
+
+Topic 4:
+  fa:0.33
+  password pgp:0.28
+  pgp login:0.28
+  kind:0.28
+  set:0.28
+  rational:0.28
+  dont:0.28
+  weak:0.28
+  requested:0.28
+  login:0.24
+
+K: 5, Log-Likelihood: -142.880, Alpha: 11.000, Beta: 1.100

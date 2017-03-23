@@ -1,0 +1,61 @@
+Topic 0:
+  place:1.18
+  interested:0.81
+  tmg:0.81
+  sr:0.66
+  happy:0.43
+  sale:0.43
+  directed:0.43
+  quit:0.43
+  set:0.43
+  day:0.43
+
+Topic 1:
+  place:1.17
+  interested:0.86
+  tmg:0.81
+  people:0.56
+  dirty:0.56
+  marketplaces:0.56
+  case:0.56
+  find:0.56
+  care:0.56
+  hard:0.56
+
+Topic 2:
+  place:1.44
+  tmg:0.77
+  sr:0.76
+  interested:0.72
+  tor:0.59
+  vibes:0.59
+  reddit:0.59
+  spreading:0.59
+  time:0.58
+  sour:0.58
+
+Topic 3:
+  place:1.01
+  interested:0.80
+  tmg:0.80
+  sr:0.54
+  drugs:0.48
+  legitimate:0.48
+  imo:0.48
+  thing:0.48
+  fraction:0.48
+  reason:0.48
+
+Topic 4:
+  place:1.21
+  interested:0.81
+  tmg:0.80
+  sr:0.60
+  love:0.39
+  long:0.39
+  thing:0.39
+  imo:0.39
+  drugs:0.39
+  find:0.39
+
+K: 5, Log-Likelihood: -433.087, Alpha: 11.000, Beta: 1.100

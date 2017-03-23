@@ -1,0 +1,61 @@
+Topic 0:
+  solution:3.29
+  multiply:1.93
+  stir:1.93
+  addition:1.92
+  half:1.91
+  needed:1.91
+  stirring:1.91
+  cheap:1.90
+  test test:1.90
+  lay:1.90
+
+Topic 1:
+  mix:1.70
+  abv:1.30
+  ratio:1.30
+  grey goose:0.80
+  bitter:0.72
+  strong:0.71
+  water:0.71
+  pmnot:0.70
+  drink:0.70
+  bitterness:0.70
+
+Topic 2:
+  solution:1.03
+  vodka:0.60
+  alcohol:0.56
+  alternative:0.55
+  lucy:0.50
+  lay:0.35
+  test test:0.35
+  cheap:0.35
+  free:0.35
+  needed:0.35
+
+Topic 3:
+  ratio:0.94
+  abv:0.93
+  grey goose:0.85
+  everclear water:0.71
+  proof:0.71
+  alc:0.71
+  works:0.71
+  highest:0.71
+  grace:0.64
+  gon:0.64
+
+Topic 4:
+  completely:2.38
+  xtal:2.38
+  read:2.38
+  laying:2.38
+  stirrers:2.38
+  find:2.38
+  correct:1.14
+  clue:1.14
+  chemist:1.14
+  size:1.14
+
+K: 5, Log-Likelihood: -1238.577, Alpha: 11.000, Beta: 1.100

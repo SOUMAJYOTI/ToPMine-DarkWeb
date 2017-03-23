@@ -1,0 +1,61 @@
+Topic 0:
+  good:0.54
+  interested:0.44
+  late:0.43
+  market:0.39
+  cents:0.21
+  verto:0.21
+  gp:0.21
+  pm:0.21
+  sal:0.21
+  bit:0.21
+
+Topic 1:
+  good:0.63
+  market:0.40
+  late:0.39
+  interested:0.38
+  flawlessly:0.21
+  hit:0.21
+  scamming:0.21
+  shame:0.21
+  true:0.21
+  evo:0.21
+
+Topic 2:
+  good:0.61
+  market:0.40
+  interested:0.39
+  late:0.39
+  people:0.20
+  exit:0.20
+  shame:0.20
+  scamming:0.20
+  hard:0.20
+  hit:0.20
+
+Topic 3:
+  good:0.61
+  late:0.40
+  market:0.40
+  interested:0.40
+  info:0.20
+  thought:0.20
+  cents:0.20
+  nimble:0.20
+  bit:0.20
+  evolution:0.20
+
+Topic 4:
+  good:0.61
+  market:0.40
+  late:0.40
+  interested:0.39
+  evo:0.20
+  true:0.20
+  shame:0.20
+  exit:0.20
+  people:0.20
+  flawlessly:0.20
+
+K: 5, Log-Likelihood: -135.564, Alpha: 11.000, Beta: 1.100

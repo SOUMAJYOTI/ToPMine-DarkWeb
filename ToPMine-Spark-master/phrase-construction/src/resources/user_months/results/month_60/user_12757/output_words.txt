@@ -1,0 +1,61 @@
+Topic 0:
+  samalla:0.90
+  nain:0.81
+  jos:0.77
+  tukipaketti:0.61
+  mail:0.60
+  safe:0.59
+  mieluummin:0.57
+  bitcoinin:0.57
+  mutta:0.57
+  himaastosta:0.56
+
+Topic 1:
+  nain:0.79
+  ett:0.69
+  mailia:0.60
+  olisi:0.59
+  safe:0.59
+  mail:0.59
+  tukipaketti:0.56
+  niin:0.46
+  jos:0.40
+  ilmaisia:0.33
+
+Topic 2:
+  nain:0.81
+  ett:0.67
+  tukipaketti:0.62
+  safe:0.60
+  mail:0.59
+  olisi:0.52
+  mailia:0.51
+  jos:0.48
+  niin:0.45
+  samalla:0.36
+
+Topic 3:
+  nain:0.84
+  ett:0.66
+  tukipaketti:0.61
+  jos:0.60
+  safe:0.60
+  mail:0.60
+  samalla:0.49
+  olisi:0.42
+  mailia:0.40
+  niin:0.40
+
+Topic 4:
+  samalla:0.95
+  jos:0.76
+  nain:0.75
+  safe:0.62
+  mail:0.62
+  tukipaketti:0.60
+  kainuun:0.57
+  email:0.57
+  laittas:0.57
+  haistaa:0.57
+
+K: 5, Log-Likelihood: -546.022, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  script:12.40
+  read:9.12
+  default:8.08
+  time:6.90
+  sigaint:6.66
+  software:6.21
+  applications:6.21
+  turning:6.21
+  configured:6.21
+  surname:6.20
+
+Topic 1:
+  settings:10.81
+  screen:10.81
+  top screen:10.81
+  minute:8.74
+  year:8.06
+  mind:7.23
+  priviacy security setting slider:7.14
+  security slider top:7.14
+  switch noscript block slide:7.14
+  time start darn thing:7.14
+
+Topic 2:
+  pops october pmquote:13.03
+  aethon october pmquote:13.03
+  job assume people stand:12.57
+  edit thought dammed posts:12.57
+  service cheers aethon:12.55
+  service encrypt safe popsdont:10.96
+  sigaint pro:10.96
+  blocking mail:10.66
+  theresident october amgreat:9.89
+  aethon worry idk answer:8.63
+
+Topic 3:
+  email:14.50
+  encrypt coin:7.17
+  strange coinb simple method:7.17
+  encrypted private keys:7.17
+  encrypted private keys bit:7.17
+  fatherted aes:7.17
+  find stick bitaddress bip:7.17
+  thx:6.62
+  control:6.20
+  coins:6.20
+
+Topic 4:
+  decrypt:10.80
+  encrusted private key password:8.68
+  correlation thehub prow aint:8.68
+  post question bitcointalk correlation:8.68
+  private key:7.22
+  pmnop honestly find decrypt:7.18
+  platforms linux windows:7.18
+  download aes crypt:7.18
+  sigaint servers blocking:6.80
+  amn:5.39
+
+K: 5, Log-Likelihood: -13159.962, Alpha: 11.000, Beta: 1.100

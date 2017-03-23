@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:0.63
+  persistence wallet:0.40
+  friends:0.20
+  goal:0.20
+  today:0.20
+  merry:0.20
+  connect:0.20
+  happy:0.20
+  issues:0.20
+  direction:0.20
+
+Topic 1:
+  wallet:0.62
+  persistence wallet:0.41
+  coin:0.20
+  electric:0.20
+  happy:0.20
+  year:0.20
+  connect:0.20
+  friends:0.20
+  goal:0.20
+  hope:0.20
+
+Topic 2:
+  wallet:0.60
+  persistence wallet:0.42
+  os:0.21
+  fine:0.21
+  case:0.21
+  install:0.21
+  working:0.21
+  client:0.20
+  year:0.20
+  merry:0.20
+
+Topic 3:
+  wallet:0.62
+  persistence wallet:0.40
+  christmas:0.20
+  coin:0.20
+  wondering:0.20
+  internet:0.20
+  point:0.20
+  direction:0.20
+  client:0.20
+  friends:0.20
+
+Topic 4:
+  wallet:0.61
+  persistence wallet:0.41
+  install:0.20
+  working:0.20
+  case:0.20
+  os:0.20
+  fine:0.20
+  point:0.20
+  hope:0.20
+  direction:0.20
+
+K: 5, Log-Likelihood: -116.244, Alpha: 11.000, Beta: 1.100

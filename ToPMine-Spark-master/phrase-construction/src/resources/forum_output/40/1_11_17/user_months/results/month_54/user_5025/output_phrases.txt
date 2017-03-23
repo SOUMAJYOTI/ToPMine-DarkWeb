@@ -1,0 +1,61 @@
+Topic 0:
+  admin:3.05
+  vendor:3.05
+  logging:3.05
+  vendors:3.05
+  mentioned:3.05
+  active:3.05
+  pleasure:3.05
+  deal:3.05
+  place order:3.05
+  business:3.05
+
+Topic 1:
+  scripts:3.97
+  agora:2.83
+  login:1.95
+  hmm:1.95
+  edit:1.95
+  browser:1.95
+  noscript:1.95
+  forgot:1.95
+  security:1.95
+  button:1.95
+
+Topic 2:
+  order:10.38
+  addguy:6.30
+  java script:3.47
+  middle earth:3.22
+  remaining:3.09
+  btc:3.09
+  checking:3.09
+  friend:3.09
+  smooth:3.09
+  communicative:3.09
+
+Topic 3:
+  hours:3.05
+  asia:3.05
+  couple:3.05
+  marked:3.05
+  ago:3.05
+  forward:3.05
+  smoother:3.05
+  quicker:3.05
+  js:3.05
+  xtal:3.05
+
+Topic 4:
+  asia stal:6.29
+  night:6.29
+  ug:6.29
+  cab:3.07
+  netflix:3.07
+  decided:3.07
+  great night:3.07
+  aalbion:3.07
+  dark:3.07
+  cityscape:3.07
+
+K: 5, Log-Likelihood: -1919.404, Alpha: 11.000, Beta: 1.100

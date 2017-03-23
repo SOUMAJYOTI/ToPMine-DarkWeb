@@ -1,0 +1,61 @@
+Topic 0:
+  school:7.47
+  sample:5.57
+  hoffman:5.56
+  free:5.53
+  high:3.86
+  brightness:3.57
+  times:3.57
+  computer:3.57
+  turned:3.56
+  albert:3.56
+
+Topic 1:
+  accessible:2.52
+  cash:2.22
+  clearnet:2.22
+  site:2.09
+  thread:1.90
+  wrong:1.63
+  markup:1.26
+  quote:1.24
+  bank:1.18
+  problem:1.05
+
+Topic 2:
+  cash:10.50
+  mail:6.40
+  sending:3.80
+  transfer:3.79
+  transfers:2.52
+  advance:1.81
+  scares:1.81
+  trail:1.81
+  kind:1.81
+  imputable:1.81
+
+Topic 3:
+  onion:7.72
+  url:7.71
+  january:6.89
+  tor:5.72
+  confused:5.13
+  quote:4.18
+  close:3.73
+  pay:3.73
+  hidden:3.73
+  content:3.73
+
+Topic 4:
+  money:5.71
+  sell:5.41
+  express:4.44
+  people:3.94
+  send:3.58
+  person:2.90
+  mail:2.81
+  seal:2.73
+  large:2.73
+  lbc:2.68
+
+K: 5, Log-Likelihood: -2362.262, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  safe:0.40
+  avatars:0.40
+  personal:0.40
+  reason:0.40
+  exif:0.20
+  timewouldnt:0.20
+  zoxeebee:0.20
+  data:0.20
+  clear:0.20
+  issue:0.20
+
+Topic 1:
+  safe:0.40
+  reason:0.40
+  avatars:0.39
+  personal:0.39
+  broken:0.20
+  work:0.20
+  strict:0.20
+  permissions:0.20
+  system:0.20
+  timewouldnt:0.20
+
+Topic 2:
+  safe:0.40
+  reason:0.40
+  personal:0.40
+  avatars:0.40
+  long:0.20
+  hopes:0.20
+  data:0.20
+  unloaded:0.20
+  issue:0.20
+  timewouldnt:0.20
+
+Topic 3:
+  safe:0.40
+  personal:0.40
+  reason:0.40
+  avatars:0.39
+  issue:0.20
+  data:0.20
+  hopes:0.20
+  clear:0.20
+  unloaded:0.20
+  exif:0.20
+
+Topic 4:
+  avatars:0.42
+  personal:0.41
+  reason:0.41
+  safe:0.40
+  onion:0.20
+  admit:0.20
+  uploaded:0.20
+  upload:0.20
+  preference:0.20
+  avengers:0.20
+
+K: 5, Log-Likelihood: -101.004, Alpha: 11.000, Beta: 1.100

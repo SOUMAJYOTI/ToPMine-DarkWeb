@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:3.03
+  onion:1.69
+  persistent:1.28
+  ckl:1.28
+  amnesia:1.19
+  gypcu:1.18
+  obj:1.06
+  text:0.96
+  wallet:0.94
+  click:0.71
+
+Topic 1:
+  electrum:5.01
+  persistent:2.14
+  amnesia:2.08
+  onion:2.05
+  select:1.49
+  click:1.18
+  desktop:1.13
+  file:0.85
+  gypcu:0.78
+  ckl:0.72
+
+Topic 2:
+  electrum:2.60
+  onion:2.06
+  persistent:1.66
+  amnesia:1.25
+  ckl:1.13
+  gypcu:1.12
+  obj:0.86
+  wallet:0.81
+  text:0.74
+  click:0.64
+
+Topic 3:
+  onion:3.36
+  gypcu:1.54
+  obj:1.50
+  ckl:1.50
+  server:1.15
+  electrum:1.14
+  quote:1.07
+  persistent:0.75
+  work:0.71
+  connection:0.70
+
+Topic 4:
+  electrum:11.22
+  file:6.41
+  persistent:5.17
+  select:4.44
+  desktop:4.04
+  amnesia:3.96
+  click:3.15
+  open:2.67
+  close:1.88
+  gedit:1.85
+
+K: 5, Log-Likelihood: -1512.698, Alpha: 11.000, Beta: 1.100

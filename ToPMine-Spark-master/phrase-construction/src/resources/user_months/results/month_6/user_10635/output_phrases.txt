@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.93
+  curiosity:0.91
+  vendor:0.91
+  busy:0.91
+  dont:0.65
+  vendors:0.50
+  wouldn:0.38
+  assume:0.38
+  averted:0.38
+  utopia:0.38
+
+Topic 1:
+  spread load:0.70
+  tor:0.37
+  markets:0.37
+  vendors:0.34
+  dont:0.34
+  work:0.32
+  idea:0.32
+  orders:0.31
+  check:0.31
+  curiosity:0.31
+
+Topic 2:
+  tor:0.48
+  spread load:0.47
+  vendors:0.44
+  dont:0.44
+  vendor:0.43
+  busy:0.43
+  curiosity:0.43
+  market:0.42
+  markets:0.31
+  markets dont:0.30
+
+Topic 3:
+  spread load:0.58
+  tor:0.50
+  vendors:0.39
+  dont:0.36
+  markets:0.33
+  vendor:0.31
+  busy:0.31
+  curiosity:0.31
+  market:0.31
+  day:0.30
+
+Topic 4:
+  spread load:0.70
+  tor:0.48
+  markets:0.35
+  vendors:0.35
+  idea:0.33
+  work:0.33
+  orders:0.32
+  check:0.32
+  dont:0.29
+  day:0.29
+
+K: 5, Log-Likelihood: -552.835, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  buy:1.11
+  coins:1.03
+  btc:0.98
+  card:0.77
+  send:0.74
+  debit:0.65
+  virwox:0.52
+  account:0.52
+  drugs:0.51
+  coinbase:0.50
+
+Topic 1:
+  coins:1.06
+  buy:1.00
+  btc:0.89
+  send:0.77
+  card:0.74
+  debit:0.66
+  drugs:0.52
+  coinbase:0.52
+  account:0.52
+  virwox:0.52
+
+Topic 2:
+  coins:1.58
+  buy:1.06
+  send:0.88
+  btc:0.79
+  vendor:0.63
+  drugs:0.61
+  coinbase:0.61
+  debit:0.56
+  card:0.55
+  searching:0.44
+
+Topic 3:
+  coins:1.95
+  buy:0.99
+  send:0.93
+  vendor:0.85
+  btc:0.68
+  drugs:0.68
+  coinbase:0.66
+  le:0.57
+  searching:0.56
+  debit:0.49
+
+Topic 4:
+  coins:1.37
+  buy:0.83
+  coinbase:0.70
+  send:0.68
+  drugs:0.67
+  btc:0.66
+  debit:0.64
+  vendor:0.57
+  card:0.52
+  person:0.50
+
+K: 5, Log-Likelihood: -514.610, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,476 @@
+arch linux,0,5
+bad,1,2
+check local,2,1
+executing,3,1
+qubesos,4,2
+explanation,5,1
+building,6,2
+quotethese,7,1
+chroot,8,2
+based os,9,3
+ram,10,1
+isolatedestport,11,2
+pass,12,1
+preference,13,4
+impact,14,1
+profile,15,1
+personal,16,4
+scratch,17,1
+google,18,1
+protocol level,19,2
+packet,20,1
+tails whonix,21,1
+wrote script,22,1
+proxy,23,5
+route,24,1
+unhinged,25,1
+drive,26,1
+isnt,27,1
+abuse,28,1
+local includes,29,6
+hop,30,1
+turn,31,1
+afflicted,32,1
+eyes,33,1
+transparent,34,3
+isolate,35,2
+claws,36,1
+develops,37,1
+committed,38,1
+preferences,39,1
+set,40,1
+configuring,41,1
+address,42,2
+pushing,43,2
+logical,44,1
+stratum,45,1
+amnesic,46,2
+popped,47,1
+forensics,48,2
+taught,49,1
+throw,50,1
+confin,51,2
+sniffing,52,1
+arch,53,7
+transparent proxy,54,3
+exploit,55,1
+opsec,56,1
+couple,57,1
+isp,58,2
+good,59,4
+pushes,60,1
+browser vm,61,2
+bet,62,1
+tailsos,63,1
+post,64,1
+hyperadrenergic,65,1
+implement,66,1
+hardened,67,1
+protocols,68,1
+vms,69,1
+ip leaking,70,1
+add,71,1
+making,72,1
+wherea,73,1
+commonly,74,1
+check ip,75,1
+socksport isolatedestaddr,76,1
+wrote,77,4
+gps,78,1
+check,79,4
+list,80,2
+users,81,1
+tails,82,9
+start proxy,83,2
+exploited,84,2
+port,85,4
+parts,86,1
+http,87,2
+gateway data,88,1
+technical,89,1
+socksport tails,90,1
+choose,91,1
+jeans,92,2
+random,93,1
+isolatedestaddr,94,3
+scope,95,1
+torvm,96,2
+client,97,1
+hard,98,1
+tor torrc,99,1
+ticket,100,1
+custom,101,4
+wearing,102,2
+recorded,103,1
+psychostimulant,104,1
+hole,105,1
+andslow,106,1
+obi,107,1
+setup,108,2
+hours hours,109,1
+pushed,110,2
+dude,111,1
+custom os,112,2
+big,113,2
+expert,114,2
+configured whonix,115,1
+select,116,2
+crowd,117,2
+bin,118,2
+ago,119,1
+mikes,120,1
+bit,121,1
+approach,122,1
+years,123,1
+turns,124,1
+convinced,125,1
+corner,126,1
+includes local,127,2
+decline,128,1
+reduce,129,1
+protecting,130,1
+optionsno,131,1
+init,132,1
+issue,133,1
+ip,134,4
+understand,135,1
+dns,136,4
+isolation,137,7
+sense,138,1
+hood,139,1
+script,140,3
+urlspecifies,141,1
+system,142,6
+driven,143,1
+crazy,144,1
+impression,145,1
+workstation traffic,146,1
+partial,147,2
+skew,148,2
+server,149,2
+tsocks,150,1
+works,151,1
+turned,152,1
+canfind,153,1
+os iptables,154,2
+protection,155,2
+functionality,156,1
+login,157,1
+matter,158,1
+isolating,159,2
+thinking,160,1
+mac,161,1
+local,162,10
+forseparating,163,1
+stream,164,2
+tor,165,14
+crime,166,1
+man,167,1
+bundle,168,1
+elegant,169,2
+whonix,170,10
+snooping leaking,171,2
+personal preference,172,4
+break,173,2
+forward,174,2
+machine,175,2
+includes tor,176,3
+gamesome,177,2
+lotsapplications,178,1
+qubes,179,1
+concerned,180,1
+mail,181,1
+hostile,182,1
+fuckers,183,1
+pray,184,2
+radio,185,1
+whonix workstation,186,2
+thatisolatedestport,187,1
+tails local,188,1
+traffic,189,5
+design provide,190,1
+snooping,191,4
+read,192,1
+level,193,3
+tails tor,194,1
+difficult,195,1
+ideas,196,1
+includes,197,6
+clock,198,2
+basin,199,1
+onionland,200,4
+design based,201,4
+convenient,202,2
+socksport,203,4
+local includes tor,204,3
+raided,205,1
+coupled,206,2
+sundown,207,1
+iptables,208,3
+configs,209,1
+code,210,1
+mental,211,1
+head,212,1
+times,213,1
+isolation design,214,1
+design,215,6
+working,216,2
+harder,217,1
+permutation,218,1
+enableddedicated socksport,219,3
+pretty,220,3
+os,221,12
+wheel,222,1
+worried local,223,1
+design based os,224,3
+transport,225,1
+specific,226,2
+super,227,1
+phoenix,228,1
+encrypted,229,2
+application,230,1
+pi,231,1
+synchronization,232,2
+consists,233,1
+essentially,234,1
+interested,235,2
+sitting,236,1
+wrote wrote,237,1
+reason,238,2
+liberte,239,1
+curl,240,1
+thought,241,2
+tails security,242,1
+ssh,243,2
+echo,244,1
+episode,245,1
+convenience,246,1
+discussion,247,1
+fucking,248,1
+scene,249,1
+quoted,250,1
+dvd,251,1
+randomization,252,2
+clever,253,1
+adrenalos,254,1
+api,255,1
+blending,256,1
+quotea,257,1
+fully,258,2
+based,259,5
+hosts,260,1
+module,261,1
+invent,262,1
+vulnerability,263,1
+creating,264,1
+mther,265,1
+quoteever,266,1
+os transparent,267,1
+checking,268,1
+feels,269,1
+sophisticated,270,1
+security check,271,1
+tor browser,272,2
+vm worried,273,1
+ports,274,1
+long,275,1
+default,276,1
+scenario,277,1
+glance,278,1
+disabled,279,1
+worried,280,4
+operating,281,1
+takes,282,2
+email,283,1
+malware,284,2
+starter,285,1
+started,286,2
+team,287,1
+people,288,5
+tb,289,1
+stay,290,1
+confirm,291,1
+call,292,1
+single,293,1
+whonix gateway,294,2
+tor idea,295,1
+technological,296,1
+experts,297,1
+os design,298,1
+agent,299,2
+separate,300,1
+security isolation,301,3
+wrote iptables,302,1
+rules,303,2
+secure,304,4
+trivial,305,1
+white,306,2
+things,307,2
+infections,308,1
+basically,309,1
+leaking,310,3
+homer,311,2
+overlay,312,1
+ultimate,313,1
+arch design,314,2
+vm,315,4
+time check,316,1
+os whonix,317,1
+hidden,318,1
+idea,319,4
+destination,320,1
+proper,321,1
+learning,322,1
+thatit,323,1
+linus,324,2
+script start,325,2
+house,326,1
+traffic tor,327,1
+common,328,1
+arrive,329,1
+linux,330,7
+debian,331,1
+mash,332,1
+boot,333,2
+doin,334,1
+lookups,335,1
+hours,336,3
+bruuh,337,1
+wide,338,1
+start,339,3
+tor dont,340,2
+windows,341,1
+good idea,342,1
+lifestyle,343,1
+alike,344,1
+detailed,345,1
+typical,346,1
+time,347,6
+gateway,348,5
+applications,349,2
+enableddedicated,350,3
+container,351,1
+usage,352,1
+ridiculously,353,1
+cone,354,1
+tips,355,1
+idea isolation,356,1
+fan,357,1
+workstation gateway,358,2
+shirts,359,1
+options,360,2
+broad,361,1
+webpage,362,1
+tor tor,363,1
+hey,364,1
+randomize,365,1
+raspberry,366,1
+images,367,1
+obsessed,368,1
+depends,369,1
+work,370,1
+philosophy,371,2
+push,372,2
+data wrote,373,1
+provide,374,3
+didnt,375,1
+standpoint,376,1
+configsneat,377,1
+qubesoss,378,1
+browse,379,2
+love,380,2
+cops,381,2
+htpdate,382,1
+log,383,1
+wget,384,1
+isolated,385,1
+foundation,386,1
+requests,387,2
+burned,388,1
+leaks,389,2
+feature,390,1
+web,391,1
+system arch,392,1
+verify,393,2
+torrc,394,3
+include,395,1
+isolatedestaddr enableddedicated,396,1
+facebook,397,2
+ntp,398,1
+suspect,399,2
+great,400,1
+wrong,401,2
+opinion,402,1
+level whonix,403,2
+depth,404,1
+shirt,405,1
+osso,406,2
+isolates,407,1
+randomly,408,1
+choice,409,1
+runs,410,1
+stuff,411,1
+data,412,3
+perfect,413,1
+prefer,414,1
+onion,415,1
+firefox,416,2
+eggheads,417,1
+caching,418,1
+protocol,419,3
+major,420,1
+intro,421,1
+tails os,422,3
+tor people,423,1
+tag,424,1
+group,425,1
+configured,426,3
+individual,427,1
+socks,428,2
+workstation,429,4
+opened,430,1
+paranoid,431,1
+blueprint,432,1
+tor good,433,1
+wipes,434,1
+personally,435,1
+mua,436,1
+topic,437,1
+based system,438,1
+provide security,439,1
+dont,440,4
+linux time,441,1
+request,442,1
+whonix design,443,1
+purpose,444,1
+link,445,1
+torified,446,1
+point,447,1
+network,448,2
+security,449,9
+trace,450,1
+inroads,451,1
+car,452,1
+ip dns,453,1
+leaking protocol,454,2
+browser,455,5
+thesame,456,1
+scripts,457,1
+mentioned,458,1
+rest,459,1
+move,460,2
+os personal,461,2
+ing,462,1
+built,463,2
+advantage,464,2
+spent,465,1
+sat,466,2
+clear,467,1
+simpsons,468,1
+expensive,469,1
+os os,470,1
+build,471,1
+linux transparent,472,2
+user,473,2
+aiming,474,1
+torifies,475,1

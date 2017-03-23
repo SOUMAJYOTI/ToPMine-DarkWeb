@@ -1,0 +1,61 @@
+Topic 0:
+  forum:0.20
+  agora:0.20
+  forums:0.20
+  moment:0.18
+  pink:0.18
+  btw:0.18
+  working:0.18
+  list:0.18
+  add:0.18
+  dont:0.18
+
+Topic 1:
+  agora:0.20
+  forums:0.20
+  forum:0.20
+  starting:0.18
+  moving:0.18
+  deal:0.18
+  scammers:0.18
+  unstable:0.18
+  evolution:0.18
+  faster:0.18
+
+Topic 2:
+  forums:0.20
+  agora:0.20
+  forum:0.20
+  moving:0.18
+  evol:0.18
+  buy:0.18
+  starting:0.18
+  find:0.18
+  unstable:0.18
+  deal:0.18
+
+Topic 3:
+  forum:0.20
+  agora:0.20
+  forums:0.20
+  informs:0.18
+  lot:0.18
+  pm:0.18
+  sits:0.18
+  support:0.18
+  people:0.18
+  time:0.18
+
+Topic 4:
+  forum:0.20
+  forums:0.20
+  agora:0.20
+  pm:0.18
+  sits:0.18
+  dont:0.18
+  half:0.18
+  support:0.18
+  informs:0.18
+  lot:0.18
+
+K: 5, Log-Likelihood: -115.130, Alpha: 11.000, Beta: 1.100

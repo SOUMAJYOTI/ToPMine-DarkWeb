@@ -1,0 +1,61 @@
+Topic 0:
+  connect:5.52
+  server:3.72
+  port:3.13
+  electrum:3.03
+  btc:2.93
+  password:2.13
+  servers:2.03
+  quote:1.79
+  april:1.72
+  working:1.68
+
+Topic 1:
+  tor:13.81
+  port:12.69
+  tails:9.27
+  electrum:7.08
+  work:5.69
+  bundle:5.68
+  browser:5.68
+  expert:5.67
+  connect:5.56
+  latest:4.21
+
+Topic 2:
+  wallet:7.57
+  connect:6.33
+  program:4.55
+  time:3.57
+  socks:3.25
+  appears:2.95
+  command:2.80
+  exe:2.77
+  takes:2.70
+  running:2.67
+
+Topic 3:
+  coins:7.74
+  wash:3.79
+  selling:3.78
+  cash:2.94
+  sell:2.93
+  local:2.91
+  bitcoins:2.87
+  wallet:2.50
+  money:2.39
+  connect:1.88
+
+Topic 4:
+  connect:6.71
+  port:5.33
+  electrum:5.05
+  server:4.84
+  version:3.14
+  tor:3.07
+  running:2.51
+  quote:2.50
+  wallet:1.75
+  tcp:1.60
+
+K: 5, Log-Likelihood: -3385.729, Alpha: 11.000, Beta: 1.100

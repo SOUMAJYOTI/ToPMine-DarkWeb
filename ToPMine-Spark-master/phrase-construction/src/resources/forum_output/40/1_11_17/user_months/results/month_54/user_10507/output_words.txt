@@ -1,0 +1,61 @@
+Topic 0:
+  file:27.85
+  message:16.17
+  image:11.83
+  steganography:10.98
+  secret:10.83
+  metadata:8.98
+  hide:8.56
+  steghide:8.27
+  create:6.79
+  images:5.98
+
+Topic 1:
+  stego:5.02
+  item:2.91
+  work:1.91
+  desktop:1.91
+  sqrl:1.78
+  thing:1.68
+  gibson:1.63
+  http:1.57
+  suspect:1.56
+  ash:1.55
+
+Topic 2:
+  apt:6.00
+  stego:5.83
+  install:5.44
+  steghide:5.32
+  suds:4.87
+  july:4.59
+  quote:4.42
+  su:3.91
+  distros:3.91
+  root:3.91
+
+Topic 3:
+  party:27.98
+  key:22.32
+  keys:18.25
+  mac:17.98
+  alice:16.98
+  messages:13.07
+  conversation:12.98
+  otr:11.98
+  observing:11.98
+  message:10.79
+
+Topic 4:
+  vpn:6.11
+  september:5.87
+  security:4.97
+  windows:4.93
+  infected:4.93
+  zaphod:4.07
+  quote:4.06
+  box:3.93
+  bridges:3.62
+  tor:3.11
+
+K: 5, Log-Likelihood: -9411.766, Alpha: 11.000, Beta: 1.100

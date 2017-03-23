@@ -1,0 +1,61 @@
+Topic 0:
+  idea:2.66
+  lsd:2.33
+  interested:1.62
+  send:1.51
+  good:1.05
+  quote:1.05
+  type:1.03
+  december:0.99
+  vendors:0.99
+  market:0.93
+
+Topic 1:
+  community:2.21
+  vendors:1.97
+  vendor:1.96
+  lsd:1.83
+  send:1.55
+  system:1.54
+  money:1.54
+  market:1.44
+  december:1.41
+  quote:1.38
+
+Topic 2:
+  community:3.33
+  money:2.77
+  vendor:2.39
+  vendors:2.37
+  ll:1.86
+  lsd:1.79
+  people:1.59
+  interested:1.57
+  offer:1.55
+  love:1.55
+
+Topic 3:
+  water:8.77
+  warm:4.80
+  boiling:3.73
+  works:2.77
+  notes:2.77
+  tek:2.77
+  diy:2.77
+  follow:2.77
+  perfectly:2.77
+  tabs:2.70
+
+Topic 4:
+  lsd:2.13
+  community:1.70
+  idea:1.63
+  vendors:1.61
+  send:1.55
+  interested:1.46
+  december:1.22
+  type:1.20
+  quote:1.20
+  love:1.19
+
+K: 5, Log-Likelihood: -1968.661, Alpha: 11.000, Beta: 1.100

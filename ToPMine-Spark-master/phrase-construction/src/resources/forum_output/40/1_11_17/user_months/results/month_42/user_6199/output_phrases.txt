@@ -1,0 +1,61 @@
+Topic 0:
+  garden:0.72
+  agora:0.58
+  hook vendors:0.47
+  skyballs:0.46
+  superlistedit:0.46
+  dated:0.46
+  list:0.46
+  reddit:0.46
+  clearnet:0.46
+  wiki:0.46
+
+Topic 1:
+  garden:0.59
+  agora:0.56
+  dardush:0.49
+  escrow:0.49
+  work:0.49
+  feeling:0.49
+  deals:0.49
+  popular:0.49
+  direct:0.49
+  glad:0.49
+
+Topic 2:
+  garden:0.73
+  agora:0.68
+  hook vendors:0.47
+  reddit:0.47
+  warning:0.47
+  wiki:0.47
+  dated:0.46
+  clearnet:0.46
+  list:0.46
+  darknetmarkets:0.46
+
+Topic 3:
+  agora:1.41
+  place:0.62
+  day:0.62
+  mess:0.62
+  shop:0.61
+  wanted:0.61
+  nice:0.61
+  thankspeace:0.61
+  sky:0.61
+  access:0.61
+
+Topic 4:
+  agora:0.69
+  garden:0.54
+  jor:0.45
+  account:0.45
+  vendors:0.45
+  popular:0.45
+  active:0.45
+  escrow:0.45
+  work:0.45
+  feeling:0.44
+
+K: 5, Log-Likelihood: -480.216, Alpha: 11.000, Beta: 1.100

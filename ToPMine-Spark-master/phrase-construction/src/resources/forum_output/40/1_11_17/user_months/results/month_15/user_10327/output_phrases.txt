@@ -1,0 +1,61 @@
+Topic 0:
+  foot switch:5.73
+  dont:5.23
+  ross:2.80
+  backdoor:2.80
+  moving hands:2.80
+  screens:2.80
+  systems:2.80
+  attempt:2.80
+  physically:2.80
+  dumped:2.80
+
+Topic 1:
+  packets:5.59
+  machine:5.59
+  bust:3.72
+  gyroscope:3.72
+  phone:3.72
+  device:3.72
+  port:3.72
+  disk encryption:3.72
+  accelerometer:3.72
+  phone moved:3.72
+
+Topic 2:
+  door:3.70
+  move:3.70
+  sofa:3.70
+  switch:3.42
+  battery:3.26
+  held:2.88
+  circuit:2.88
+  charger foot:2.88
+  making:2.88
+  moves:2.88
+
+Topic 3:
+  earthquake:5.73
+  seconds:4.34
+  override:3.71
+  problem:3.71
+  option:3.71
+  shutdown:3.71
+  sensor data:3.01
+  possibility:3.01
+  connection:3.01
+  poetry:2.86
+
+Topic 4:
+  good:3.57
+  mouse:3.56
+  remove battery:3.32
+  shuts:2.71
+  completely:2.71
+  shutting:2.71
+  pull plug:2.71
+  convenient:2.71
+  prevent access:2.71
+  plug:2.71
+
+K: 5, Log-Likelihood: -4497.103, Alpha: 11.000, Beta: 1.100

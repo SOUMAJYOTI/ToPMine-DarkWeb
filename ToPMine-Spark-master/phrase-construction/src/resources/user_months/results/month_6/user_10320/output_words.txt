@@ -1,0 +1,61 @@
+Topic 0:
+  defcon:2.96
+  btc:2.58
+  admin:2.52
+  site:2.30
+  theft:2.11
+  bugs:1.84
+  sr:1.83
+  french:1.83
+  read:1.79
+  clearnet:1.75
+
+Topic 1:
+  coin:4.30
+  read:2.70
+  stole:1.89
+  bug:1.83
+  theft:1.80
+  bugs:1.59
+  staff:1.54
+  quote:1.54
+  forums:1.49
+  geesh:1.46
+
+Topic 2:
+  february:3.44
+  quote:2.91
+  bug:1.86
+  staff:1.62
+  stole:1.45
+  simple:1.21
+  theft:1.18
+  geesh:1.17
+  coin:1.13
+  anonymous:1.01
+
+Topic 3:
+  find:4.01
+  events:2.67
+  forum:2.02
+  check:1.67
+  updates:1.67
+  posts:1.66
+  ball:1.66
+  matter:1.66
+  senses:1.66
+  retain:1.66
+
+Topic 4:
+  boat:1.81
+  continue:1.30
+  february:1.04
+  bug:1.02
+  wait:0.97
+  quote:0.88
+  staff:0.88
+  price:0.82
+  fanatics:0.82
+  religious:0.82
+
+K: 5, Log-Likelihood: -2259.926, Alpha: 11.000, Beta: 1.100

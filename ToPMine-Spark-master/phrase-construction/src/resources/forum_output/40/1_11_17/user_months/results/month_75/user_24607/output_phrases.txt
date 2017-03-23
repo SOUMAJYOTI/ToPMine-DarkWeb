@@ -1,0 +1,61 @@
+Topic 0:
+  credit card:2.30
+  bucks:1.84
+  daily:1.84
+  transfer:1.84
+  helps:1.84
+  lose:1.84
+  deposit:1.84
+  guide:1.84
+  initials:1.84
+  deepdotweb:1.84
+
+Topic 1:
+  phone:4.37
+  smart phone:2.38
+  fucker:1.63
+  dont:1.49
+  paying:1.47
+  spread:1.45
+  cash:1.43
+  guest:1.43
+  data:1.43
+  remember:1.42
+
+Topic 2:
+  stolen:5.55
+  methods:2.90
+  companies:2.90
+  nilly:2.90
+  accept:2.90
+  buttcoin:2.90
+  stupid:2.90
+  gon:2.90
+  place:2.90
+  brah:2.90
+
+Topic 3:
+  phone:4.75
+  smart phone:3.66
+  forever:1.74
+  library:1.70
+  anon:1.69
+  bitcoin:1.68
+  clercks:1.68
+  tor:1.68
+  code:1.66
+  gon check coinify:1.66
+
+Topic 4:
+  wife:4.45
+  hurt:3.74
+  tang:2.45
+  wanted:2.37
+  phone number:2.36
+  access:2.36
+  actual:2.36
+  theyll:2.35
+  february:2.29
+  verification goin phone number:2.18
+
+K: 5, Log-Likelihood: -1932.457, Alpha: 11.000, Beta: 1.100

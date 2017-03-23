@@ -1,0 +1,61 @@
+Topic 0:
+  earth:0.64
+  js:0.61
+  listening:0.61
+  feedback:0.60
+  middle:0.59
+  agra:0.58
+  evolution:0.58
+  acting:0.57
+  pandora:0.57
+  time:0.45
+
+Topic 1:
+  middle:3.96
+  earth:3.96
+  javascript:2.63
+  version:2.57
+  marketplace:1.60
+  choose:1.60
+  today:0.68
+  adminmango:0.68
+  starting:0.68
+  flourish:0.68
+
+Topic 2:
+  middle:0.82
+  earth:0.75
+  pandora:0.65
+  evolution:0.64
+  agra:0.64
+  acting:0.63
+  feedback:0.61
+  listening:0.60
+  js:0.49
+  javascript:0.43
+
+Topic 3:
+  js:1.44
+  quote:0.82
+  full:0.81
+  remember:0.81
+  safe:0.81
+  dnm:0.80
+  time:0.55
+  tor:0.54
+  number:0.39
+  crash:0.36
+
+Topic 4:
+  js:1.12
+  dnm:0.71
+  safe:0.71
+  full:0.71
+  remember:0.70
+  quote:0.69
+  tor:0.57
+  time:0.55
+  evolution:0.38
+  agra:0.38
+
+K: 5, Log-Likelihood: -625.796, Alpha: 11.000, Beta: 1.100

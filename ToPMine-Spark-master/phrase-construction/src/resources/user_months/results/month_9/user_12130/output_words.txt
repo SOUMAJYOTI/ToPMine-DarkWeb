@@ -1,0 +1,61 @@
+Topic 0:
+  market:2.67
+  pirate:1.89
+  bitcoins:1.83
+  extra:0.86
+  deposit:0.82
+  grams:0.81
+  small:0.74
+  days:0.60
+  random:0.59
+  time:0.58
+
+Topic 1:
+  bitcoins:5.47
+  multi:3.40
+  tumbler:3.40
+  wallets:2.48
+  random:1.84
+  wallet:1.57
+  transfer:1.54
+  account:1.48
+  deposit:1.04
+  security:0.67
+
+Topic 2:
+  bet:3.66
+  amount:2.68
+  win:1.67
+  game:1.67
+  spare:1.67
+  market:1.55
+  small:1.32
+  pirate:1.31
+  coins:1.13
+  bitcoins:0.98
+
+Topic 3:
+  market:3.62
+  pirate:2.70
+  account:1.04
+  mode:1.04
+  vacation:0.99
+  extra:0.96
+  days:0.93
+  time:0.92
+  grams:0.76
+  small:0.76
+
+Topic 4:
+  market:6.49
+  pirate:5.48
+  extra:2.37
+  items:1.22
+  vacation:0.97
+  mode:0.91
+  small:0.91
+  grams:0.81
+  bonus:0.73
+  time:0.73
+
+K: 5, Log-Likelihood: -931.175, Alpha: 11.000, Beta: 1.100

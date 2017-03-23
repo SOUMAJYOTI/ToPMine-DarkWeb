@@ -1,0 +1,61 @@
+Topic 0:
+  key:0.60
+  pgp:0.60
+  block:0.42
+  ty:0.41
+  public:0.41
+  ju:0.41
+  set:0.36
+  pm:0.36
+  rs:0.20
+  tkdhptf:0.20
+
+Topic 1:
+  key:0.61
+  pgp:0.60
+  ty:0.43
+  public:0.43
+  ju:0.42
+  block:0.42
+  set:0.33
+  pm:0.33
+  tckvuvynskdhlvh:0.21
+  dzojbvoiai:0.21
+
+Topic 2:
+  key:0.61
+  pgp:0.61
+  ju:0.41
+  public:0.41
+  block:0.41
+  ty:0.41
+  set:0.38
+  pm:0.38
+  ldqp:0.20
+  qmhzogg:0.20
+
+Topic 3:
+  pgp:0.60
+  key:0.59
+  ju:0.40
+  block:0.40
+  public:0.40
+  ty:0.40
+  pm:0.40
+  set:0.39
+  ipcadio:0.20
+  ltf:0.20
+
+Topic 4:
+  pgp:0.59
+  key:0.59
+  set:0.53
+  pm:0.53
+  ju:0.36
+  block:0.36
+  public:0.36
+  ty:0.36
+  tor:0.25
+  site:0.25
+
+K: 5, Log-Likelihood: -1070.590, Alpha: 11.000, Beta: 1.100

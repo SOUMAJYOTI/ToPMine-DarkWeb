@@ -1,0 +1,61 @@
+Topic 0:
+  patch:9.93
+  oldiesmann:5.70
+  package manager:5.49
+  security patches:4.87
+  support:4.39
+  smf:4.33
+  simple machines:4.21
+  version:4.03
+  released:4.01
+  lines:2.77
+
+Topic 1:
+  market:8.71
+  target:3.35
+  havent:2.21
+  time:2.16
+  good:1.94
+  functioning:1.65
+  timing:1.65
+  spilling:1.65
+  handy:1.65
+  haven:1.65
+
+Topic 2:
+  feedback:2.64
+  people:2.25
+  noticed:2.11
+  agora:2.10
+  assume:1.51
+  dropping:1.51
+  azores:1.51
+  unstable:1.51
+  amount:1.51
+  speculate:1.51
+
+Topic 3:
+  security:3.55
+  small:3.36
+  post:1.91
+  manage:1.66
+  stuff:1.66
+  browser:1.66
+  risk:1.66
+  scale:1.66
+  spotted:1.66
+  sort:1.66
+
+Topic 4:
+  patch:1.92
+  security patches:1.87
+  forum:1.26
+  package manager:1.26
+  oldiesmann:1.05
+  posting:1.04
+  released:1.04
+  admin:1.03
+  confidence:1.02
+  version:1.01
+
+K: 5, Log-Likelihood: -2905.435, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:41.95
+  atm:16.64
+  users:10.08
+  skyhook:8.95
+  price:8.95
+  drake:8.95
+  buy:7.02
+  security:6.80
+  existing:6.67
+  exchange:6.01
+
+Topic 1:
+  truecrypt:4.65
+  quote:3.99
+  bit:2.77
+  people:2.67
+  good:2.30
+  find:1.79
+  support:1.77
+  antl:1.75
+  wan:1.73
+  side:1.72
+
+Topic 2:
+  tc:20.64
+  encryption:9.88
+  audit:7.74
+  software:5.13
+  unfixed:4.73
+  security:4.63
+  hardware:4.03
+  pissy:3.94
+  single:3.94
+  secret:3.94
+
+Topic 3:
+  truecrypt:7.38
+  word:5.77
+  quote:5.38
+  people:5.05
+  safe:4.96
+  threat:4.88
+  june:4.85
+  guys:4.84
+  axa:4.84
+  gibson:4.64
+
+Topic 4:
+  cash:12.04
+  dont:10.91
+  pmquote:10.74
+  trc:9.48
+  shop:8.86
+  exchange:7.62
+  thing:7.36
+  time:6.91
+  good:6.42
+  coin:6.28
+
+K: 5, Log-Likelihood: -8360.736, Alpha: 11.000, Beta: 1.100

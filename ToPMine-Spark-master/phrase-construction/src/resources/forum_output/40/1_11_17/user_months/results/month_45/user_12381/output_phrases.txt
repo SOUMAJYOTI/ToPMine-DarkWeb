@@ -1,0 +1,61 @@
+Topic 0:
+  vai:0.37
+  myyj:0.20
+  negatiivisia:0.18
+  viimeaikoina:0.18
+  ongelmaa:0.18
+  ytt:0.18
+  kyseess:0.18
+  kyseiselle:0.18
+  jotain:0.18
+  uskaltaako:0.18
+
+Topic 1:
+  vai:0.37
+  myyj:0.20
+  sullen:0.18
+  tilata:0.18
+  palautteita:0.18
+  inhimillist:0.18
+  tilannetta:0.18
+  jotain:0.18
+  onkohan:0.18
+  setus:0.18
+
+Topic 2:
+  vai:0.37
+  myyj:0.20
+  paras:0.18
+  oli:0.18
+  paketointi:0.18
+  maksanut:0.18
+  varmaan:0.18
+  ihan:0.18
+  inhimillist:0.18
+  lle:0.18
+
+Topic 3:
+  vai:0.36
+  myyj:0.20
+  lt:0.18
+  tilasin:0.18
+  ja:0.18
+  toimi:0.18
+  pillerit:0.18
+  aikoinaan:0.18
+  kaupat:0.18
+  aina:0.18
+
+Topic 4:
+  vai:0.36
+  myyj:0.20
+  ihan:0.18
+  paras:0.18
+  varmaan:0.18
+  paketointi:0.18
+  tilasin:0.18
+  aina:0.18
+  hyvin:0.18
+  oli:0.18
+
+K: 5, Log-Likelihood: -134.673, Alpha: 11.000, Beta: 1.100

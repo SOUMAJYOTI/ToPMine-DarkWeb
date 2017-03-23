@@ -1,0 +1,61 @@
+Topic 0:
+  main:5.97
+  key forum:5.97
+  opsec:3.56
+  created:2.90
+  compartmentalization:2.90
+  sense:2.90
+  absolutely:2.90
+  clarification:2.90
+  purposes:2.59
+  zaphod:2.49
+
+Topic 1:
+  adding noise signal:4.41
+  argument:2.81
+  message dont:2.80
+  identifiers:2.80
+  les:2.79
+  time:2.79
+  directly:2.78
+  personally:2.78
+  details:2.78
+  thought:2.78
+
+Topic 2:
+  posting:1.97
+  point:1.95
+  key time:1.88
+  add:1.87
+  encrypt message:1.87
+  decided:1.87
+  lurking:1.87
+  hub:1.87
+  drugs:1.87
+  buy:1.87
+
+Topic 3:
+  buyers potential buyers:4.42
+  members:3.54
+  pgp keys:3.45
+  quote:2.86
+  encrypted:2.84
+  encrusted:2.84
+  messages provide:2.84
+  impossible:2.84
+  send vendors:2.84
+  making:2.84
+
+Topic 4:
+  trust infrastructure:4.51
+  real:3.82
+  anothers:2.95
+  users:2.95
+  attack:2.95
+  talking forum:2.95
+  performed:2.95
+  talking le:2.95
+  le:2.95
+  credentials:2.95
+
+K: 5, Log-Likelihood: -2315.366, Alpha: 11.000, Beta: 1.100

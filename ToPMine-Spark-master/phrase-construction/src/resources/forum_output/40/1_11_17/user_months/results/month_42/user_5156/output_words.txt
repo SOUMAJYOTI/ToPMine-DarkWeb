@@ -1,0 +1,61 @@
+Topic 0:
+  main:0.77
+  wiki:0.66
+  place:0.65
+  hidden:0.65
+  scam:0.52
+  dnsstats:0.44
+  agora:0.44
+  nucleus:0.44
+  net:0.44
+  middle:0.43
+
+Topic 1:
+  place:1.00
+  main:0.84
+  scam:0.74
+  wiki:0.53
+  hidden:0.53
+  bitcoin:0.48
+  happily:0.48
+  order:0.48
+  loops:0.48
+  mirror:0.48
+
+Topic 2:
+  main:0.77
+  wiki:0.66
+  hidden:0.65
+  place:0.61
+  scam:0.51
+  joel:0.45
+  earth:0.45
+  markets:0.45
+  net:0.45
+  bank:0.45
+
+Topic 3:
+  main:0.81
+  place:0.77
+  hidden:0.61
+  wiki:0.60
+  scam:0.59
+  onion:0.40
+  black:0.40
+  marketplace:0.40
+  middle:0.40
+  grams:0.40
+
+Topic 4:
+  place:0.97
+  main:0.82
+  scam:0.63
+  hidden:0.56
+  wiki:0.55
+  loops:0.44
+  withdraw:0.44
+  mirror:0.44
+  happily:0.44
+  order:0.44
+
+K: 5, Log-Likelihood: -252.705, Alpha: 11.000, Beta: 1.100

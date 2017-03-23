@@ -1,0 +1,61 @@
+Topic 0:
+  electronics:0.80
+  darknet:0.62
+  legit:0.62
+  find:0.61
+  people:0.61
+  card:0.60
+  december:0.59
+  burger:0.41
+  hungrycould:0.41
+  amyou:0.41
+
+Topic 1:
+  electronics:0.82
+  legit:0.55
+  find:0.55
+  card:0.55
+  darknet:0.55
+  people:0.54
+  december:0.52
+  scams:0.47
+  teddington:0.37
+  whip:0.37
+
+Topic 2:
+  electronics:0.81
+  people:0.63
+  legit:0.61
+  december:0.61
+  card:0.60
+  find:0.60
+  darknet:0.59
+  amyou:0.41
+  ergh:0.41
+  fatherted:0.40
+
+Topic 3:
+  electronics:0.76
+  december:0.65
+  find:0.64
+  card:0.64
+  legit:0.63
+  people:0.61
+  darknet:0.61
+  burger:0.42
+  fatherted:0.42
+  hungrycould:0.42
+
+Topic 4:
+  electronics:0.81
+  darknet:0.63
+  december:0.62
+  card:0.61
+  people:0.61
+  find:0.60
+  legit:0.60
+  whip:0.41
+  amyou:0.41
+  quote:0.41
+
+K: 5, Log-Likelihood: -233.162, Alpha: 11.000, Beta: 1.100

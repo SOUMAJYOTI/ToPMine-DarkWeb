@@ -1,0 +1,61 @@
+Topic 0:
+  rich:8.11
+  fast:7.14
+  truecrypt:4.76
+  good:4.28
+  walter:3.90
+  clearnet:3.70
+  questions:3.39
+  lot:3.30
+  guys:3.29
+  answering:3.29
+
+Topic 1:
+  quote:3.80
+  paracelsus:3.38
+  december:2.97
+  bit:2.36
+  sexually:2.17
+  paying:1.79
+  client:1.73
+  service:1.72
+  urinating:1.61
+  dont:1.47
+
+Topic 2:
+  immoral:6.31
+  prostitution:5.72
+  niche:3.51
+  person:3.46
+  urinating:3.26
+  strangers:3.17
+  money:3.14
+  morality:2.93
+  psychologically:2.70
+  time:2.36
+
+Topic 3:
+  metadata:9.37
+  image:6.45
+  exiftool:4.88
+  mat:3.88
+  path:3.88
+  question:3.57
+  tails:3.23
+  weird:3.09
+  bit:2.86
+  users:2.62
+
+Topic 4:
+  data:12.19
+  exif:5.59
+  download:5.23
+  picture:4.94
+  exit:4.40
+  upload:4.34
+  info:3.27
+  computer:3.13
+  tracing:2.66
+  program:2.54
+
+K: 5, Log-Likelihood: -3450.207, Alpha: 11.000, Beta: 1.100

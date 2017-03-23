@@ -1,0 +1,61 @@
+Topic 0:
+  toss vaikee olo:4.84
+  hampaat kolisee yhteen:4.84
+  sinfil october:4.67
+  rahojen:4.67
+  mahdollisuudella:4.64
+  join:4.64
+  kans sensitivityn maanantaina:3.91
+  nnyt ihmettelen miten nyt:3.89
+  kiinni paska ihi mulla:3.88
+  tarvinnut poliiseja pel kun:3.88
+
+Topic 1:
+  vaikka:6.62
+  tullut:5.80
+  odotellessa:5.73
+  kirje:5.20
+  ja:4.85
+  kk:4.67
+  ja viel:4.67
+  kuten:4.66
+  rahat:4.66
+  kenelle:4.66
+
+Topic 2:
+  kuinka:4.67
+  tilata:3.84
+  tuotteen:3.80
+  voi:3.62
+  en:3.50
+  eat:2.95
+  tilaus:2.38
+  negatiivinen:2.32
+  ivin:2.32
+  jottei:2.32
+
+Topic 3:
+  hetykset:4.68
+  hetkell:4.68
+  kotietsinn:4.68
+  ja:4.65
+  oli:3.38
+  hyv:3.28
+  hett jumii jossain nihilist:3.23
+  tapauksessa ei:3.23
+  matkalle:3.21
+  pakkaus kielt tt:3.21
+
+Topic 4:
+  kuin:7.76
+  lill:5.81
+  olet:5.80
+  kin:5.08
+  jos huono tuuri:4.93
+  ja:4.71
+  toisinaan:4.68
+  eri:3.89
+  yd:3.86
+  vastapuolella:3.86
+
+K: 5, Log-Likelihood: -11773.782, Alpha: 11.000, Beta: 1.100

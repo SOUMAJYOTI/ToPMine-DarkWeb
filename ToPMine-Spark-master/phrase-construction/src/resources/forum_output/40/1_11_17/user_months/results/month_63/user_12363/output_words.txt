@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.79
+  dream:0.65
+  ship:0.58
+  abraxas:0.41
+  europe:0.38
+  nucleus:0.38
+  grams:0.38
+  excellent:0.38
+  signature:0.21
+  customers:0.21
+
+Topic 1:
+  market:0.84
+  dream:0.62
+  ship:0.56
+  abraxas:0.40
+  grams:0.39
+  excellent:0.39
+  nucleus:0.39
+  europe:0.39
+  find:0.20
+  listed:0.20
+
+Topic 2:
+  market:0.83
+  dream:0.63
+  ship:0.58
+  abraxas:0.41
+  europe:0.39
+  excellent:0.39
+  nucleus:0.38
+  grams:0.38
+  proffered:0.21
+  hope:0.21
+
+Topic 3:
+  market:0.78
+  ship:0.64
+  dream:0.56
+  europe:0.42
+  excellent:0.42
+  nucleus:0.42
+  grams:0.42
+  abraxas:0.39
+  recreation:0.21
+  provide:0.21
+
+Topic 4:
+  market:0.76
+  ship:0.64
+  dream:0.55
+  grams:0.42
+  excellent:0.42
+  nucleus:0.42
+  europe:0.42
+  abraxas:0.40
+  rep:0.21
+  order:0.21
+
+K: 5, Log-Likelihood: -177.556, Alpha: 11.000, Beta: 1.100

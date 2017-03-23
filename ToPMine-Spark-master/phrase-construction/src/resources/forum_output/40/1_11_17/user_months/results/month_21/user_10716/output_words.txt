@@ -1,0 +1,61 @@
+Topic 0:
+  fog:3.40
+  blender:3.13
+  btc:1.64
+  slow:1.64
+  fast:1.63
+  hearing:1.08
+  setup:0.70
+  stay:0.70
+  larger:0.70
+  senority:0.70
+
+Topic 1:
+  fog:1.55
+  process:0.81
+  problem:0.74
+  bitblender:0.52
+  bitcoin:0.47
+  trolls:0.46
+  blender:0.45
+  issues:0.45
+  bitcointalk:0.41
+  shills:0.39
+
+Topic 2:
+  fog:0.90
+  trolls:0.86
+  bitblender:0.72
+  bitcointalk:0.70
+  shills:0.68
+  swam:0.54
+  accounts:0.54
+  process:0.52
+  problem:0.51
+  bitcoin:0.49
+
+Topic 3:
+  trolls:1.42
+  shills:1.10
+  bitcointalk:0.98
+  swam:0.86
+  accounts:0.81
+  bitblender:0.77
+  fog:0.73
+  week:0.56
+  ive:0.55
+  problems:0.55
+
+Topic 4:
+  trolls:2.11
+  bitcointalk:1.77
+  shills:1.69
+  accounts:1.19
+  swam:1.12
+  bitblender:0.77
+  darknet:0.72
+  mixers:0.70
+  clearnet:0.70
+  quote:0.70
+
+K: 5, Log-Likelihood: -669.579, Alpha: 11.000, Beta: 1.100

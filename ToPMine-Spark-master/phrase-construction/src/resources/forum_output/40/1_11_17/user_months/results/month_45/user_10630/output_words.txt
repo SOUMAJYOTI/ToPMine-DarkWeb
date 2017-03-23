@@ -1,0 +1,61 @@
+Topic 0:
+  address:17.35
+  gmail:15.39
+  email:11.96
+  pgp:11.14
+  account:10.88
+  vendor:10.70
+  real:9.67
+  key:8.30
+  ross:7.88
+  bootiusmaximus:7.74
+
+Topic 1:
+  email:11.95
+  address:4.38
+  key:4.13
+  gmail:4.08
+  checkpoint:3.62
+  contact:2.28
+  guy:2.22
+  vendors:2.02
+  quote:2.02
+  valid:1.58
+
+Topic 2:
+  key:7.21
+  email:7.16
+  checkpoint:6.61
+  gmail:5.30
+  address:4.40
+  contact:3.41
+  guy:2.67
+  valid:2.36
+  vendors:2.01
+  quote:1.89
+
+Topic 3:
+  sig:122.86
+  fc:11.86
+  checkpoint:8.98
+  contact:7.39
+  gmail:6.73
+  key:6.68
+  mail:6.05
+  people:6.04
+  safe:5.87
+  af:5.87
+
+Topic 4:
+  email:10.97
+  wallet:7.74
+  contact:6.69
+  mdma:3.75
+  checkpoint:3.51
+  vending:2.88
+  completely:2.78
+  stuff:2.72
+  mention:2.68
+  told:2.68
+
+K: 5, Log-Likelihood: -5266.291, Alpha: 11.000, Beta: 1.100

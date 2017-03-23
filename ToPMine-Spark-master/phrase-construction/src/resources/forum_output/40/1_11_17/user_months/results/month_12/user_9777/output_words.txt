@@ -1,0 +1,61 @@
+Topic 0:
+  acid:1.21
+  water:1.06
+  funk:0.89
+  scoot:0.79
+  ya:0.78
+  yeah:0.77
+  room:0.77
+  relax:0.77
+  fine:0.77
+  stupid:0.77
+
+Topic 1:
+  acid:1.16
+  water:1.13
+  question:0.85
+  ya:0.82
+  fine:0.82
+  relax:0.82
+  room:0.82
+  scoot:0.82
+  yeah:0.81
+  sink:0.81
+
+Topic 2:
+  acid:1.23
+  water:1.05
+  funk:0.99
+  ya:0.76
+  stupid:0.76
+  fine:0.73
+  room:0.72
+  sink:0.72
+  relax:0.72
+  question:0.72
+
+Topic 3:
+  water:1.59
+  acid:1.15
+  yeah:0.97
+  sink:0.97
+  relax:0.95
+  room:0.94
+  stupid:0.94
+  fine:0.93
+  question:0.93
+  scoot:0.90
+
+Topic 4:
+  acid:1.25
+  water:1.17
+  funk:0.90
+  scoot:0.78
+  question:0.76
+  room:0.75
+  fine:0.75
+  relax:0.75
+  ya:0.75
+  stupid:0.74
+
+K: 5, Log-Likelihood: -342.484, Alpha: 11.000, Beta: 1.100

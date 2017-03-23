@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:2.86
+  great:1.63
+  forward:1.62
+  hin:1.51
+  darknet:1.51
+  recommend:1.51
+  running:1.51
+  dealt:1.51
+  placing:1.51
+  website:1.51
+
+Topic 1:
+  vendor:0.89
+  aware:0.82
+  people:0.82
+  note:0.82
+  prices:0.76
+  bunch:0.76
+  attack:0.76
+  children:0.76
+  competition:0.76
+  agora:0.76
+
+Topic 2:
+  yesterday:3.23
+  username:1.53
+  ship:1.53
+  managed:1.53
+  today:1.53
+  sr:1.53
+  shipped:1.53
+  didnt:1.53
+  manage:1.53
+  marked:1.53
+
+Topic 3:
+  aware:2.15
+  note:1.21
+  people:1.20
+  vendor:0.94
+  bump:0.90
+  orders:0.89
+  delays:0.89
+  thread:0.88
+  midweek:0.68
+  trust:0.68
+
+Topic 4:
+  dont:1.74
+  everytime:1.49
+  damn:1.49
+  purely:1.49
+  log:1.49
+  hit:1.49
+  amai:1.49
+  overload:1.49
+  marketplace:1.49
+  load:1.49
+
+K: 5, Log-Likelihood: -721.446, Alpha: 11.000, Beta: 1.100

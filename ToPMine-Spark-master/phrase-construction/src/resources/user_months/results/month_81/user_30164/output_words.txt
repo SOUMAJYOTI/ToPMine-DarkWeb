@@ -1,0 +1,61 @@
+Topic 0:
+  cable:0.97
+  tails:0.92
+  internet:0.91
+  modem:0.85
+  regular:0.83
+  card:0.72
+  isnt:0.55
+  sim:0.55
+  buy:0.47
+  comment:0.26
+
+Topic 1:
+  card:0.80
+  regular:0.68
+  modem:0.65
+  internet:0.63
+  tails:0.60
+  cable:0.60
+  buy:0.59
+  sim:0.42
+  isnt:0.42
+  obfuscate:0.37
+
+Topic 2:
+  card:0.82
+  buy:0.65
+  bridges:0.49
+  obfuscating:0.49
+  live:0.48
+  isp:0.48
+  connection:0.48
+  obfuscate:0.48
+  comment:0.48
+  regular:0.47
+
+Topic 3:
+  card:0.82
+  buy:0.61
+  modem:0.60
+  regular:0.59
+  tails:0.58
+  internet:0.57
+  cable:0.55
+  connection:0.40
+  obfuscating:0.40
+  comment:0.39
+
+Topic 4:
+  card:0.83
+  buy:0.68
+  comment:0.51
+  isp:0.51
+  obfuscate:0.50
+  bridges:0.50
+  connection:0.50
+  live:0.50
+  obfuscating:0.50
+  modem:0.45
+
+K: 5, Log-Likelihood: -220.606, Alpha: 11.000, Beta: 1.100

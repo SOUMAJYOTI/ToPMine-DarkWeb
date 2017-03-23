@@ -1,0 +1,61 @@
+Topic 0:
+  ei:0.47
+  ja:0.34
+  yll:0.29
+  rehtitukkku:0.28
+  kaikki:0.27
+  kannattaa:0.27
+  muukin:0.27
+  sielt:0.27
+  subut:0.27
+  hoitaa:0.27
+
+Topic 1:
+  ei:0.59
+  ja:0.36
+  rehtitukkku:0.29
+  yll:0.29
+  seaman:0.27
+  filmej:0.27
+  kirje:0.27
+  lt:0.27
+  maksun:0.27
+  oli:0.27
+
+Topic 2:
+  rehtitukku:0.32
+  quote:0.31
+  rehtitukku ja:0.31
+  hoitaa:0.30
+  kaikki:0.30
+  sielt:0.30
+  muukin:0.30
+  subut:0.30
+  kannattaa:0.30
+  ja:0.28
+
+Topic 3:
+  quote:0.33
+  rehtitukku ja:0.32
+  hoitaa:0.30
+  kannattaa:0.30
+  kaikki:0.30
+  subut:0.30
+  muukin:0.30
+  sielt:0.30
+  rehtitukku:0.30
+  ei:0.30
+
+Topic 4:
+  ei:0.55
+  ja:0.35
+  yll:0.29
+  rehtitukkku:0.29
+  yht:0.26
+  filmi:0.26
+  toissap:0.26
+  alkuper:0.26
+  raportoidakseni:0.26
+  pakkauksessa:0.26
+
+K: 5, Log-Likelihood: -434.737, Alpha: 11.000, Beta: 1.100

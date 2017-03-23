@@ -1,0 +1,61 @@
+Topic 0:
+  truecrypt:12.83
+  le:5.25
+  june:5.22
+  brazilian:5.05
+  devs:4.68
+  safe:3.46
+  audit:3.21
+  security:3.07
+  project:3.02
+  quote:2.60
+
+Topic 1:
+  privacy:13.04
+  shared:10.84
+  coin:10.80
+  users:9.78
+  mixing:8.85
+  read:3.00
+  time:2.90
+  offers:2.87
+  tool:2.87
+  requirements:2.87
+
+Topic 2:
+  truecrypt:7.54
+  june:5.13
+  le:4.07
+  project:3.65
+  devs:3.23
+  quote:2.96
+  audit:2.94
+  code:2.79
+  brazilian:2.79
+  safe:2.62
+
+Topic 3:
+  version:7.08
+  matthew:6.59
+  green:6.59
+  happened:5.71
+  developer:5.62
+  email:4.60
+  tc:4.51
+  verson:4.41
+  fuck:3.75
+  speculation:3.54
+
+Topic 4:
+  june:3.93
+  quote:3.49
+  gui:2.67
+  disks:2.67
+  axa:2.42
+  version:2.32
+  truecrypt:1.98
+  gnome:1.80
+  site:1.71
+  secure:1.65
+
+K: 5, Log-Likelihood: -4380.637, Alpha: 11.000, Beta: 1.100

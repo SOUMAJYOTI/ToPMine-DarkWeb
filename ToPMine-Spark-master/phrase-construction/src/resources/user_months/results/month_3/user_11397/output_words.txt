@@ -1,0 +1,61 @@
+Topic 0:
+  le:3.44
+  people:2.63
+  dont:2.08
+  sabu:1.31
+  compromised:1.23
+  time:1.22
+  captain:1.16
+  thing:1.10
+  february:1.02
+  quote:0.92
+
+Topic 1:
+  captain:2.42
+  compromised:2.24
+  people:2.23
+  sabu:2.21
+  le:1.88
+  dont:1.87
+  online:1.42
+  bit:1.16
+  vendors:1.09
+  weary:1.09
+
+Topic 2:
+  drugs:5.53
+  post:4.45
+  people:3.29
+  february:3.14
+  le:3.06
+  vendor:2.07
+  accounts:1.99
+  allowed:1.94
+  cwb:1.93
+  knockknock:1.81
+
+Topic 3:
+  drugs:6.31
+  post:5.58
+  knockknock:3.93
+  allowed:3.91
+  february:3.80
+  people:3.40
+  threads:3.27
+  cwb:2.82
+  hard:2.56
+  profile:2.51
+
+Topic 4:
+  time:7.63
+  dealer:5.67
+  people:4.46
+  guy:3.75
+  arrested:2.71
+  reason:2.71
+  personally:2.71
+  bust:2.71
+  departure:2.71
+  buyers:2.71
+
+K: 5, Log-Likelihood: -2536.932, Alpha: 11.000, Beta: 1.100

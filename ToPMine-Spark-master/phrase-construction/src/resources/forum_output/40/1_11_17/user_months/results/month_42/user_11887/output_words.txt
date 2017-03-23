@@ -1,0 +1,61 @@
+Topic 0:
+  india:2.58
+  east:2.39
+  company:2.26
+  states:2.15
+  united:1.93
+  join:1.01
+  knuckles:0.68
+  amwhat:0.66
+  uk:0.65
+  april:0.60
+
+Topic 1:
+  april:6.22
+  uk:6.03
+  buyers:5.84
+  east:5.35
+  india:5.16
+  site:4.82
+  countries:4.82
+  market:4.54
+  british:4.19
+  quote:3.67
+
+Topic 2:
+  users:5.29
+  server:4.01
+  error:3.86
+  issue:3.86
+  wallet:3.86
+  quote:3.15
+  empty:2.56
+  log:2.56
+  received:1.87
+  causing:1.87
+
+Topic 3:
+  join:1.57
+  united:1.26
+  states:1.10
+  india:1.08
+  east:1.05
+  knuckles:0.95
+  amwhat:0.95
+  uk:0.88
+  april:0.80
+  hope:0.77
+
+Topic 4:
+  company:10.46
+  india:9.10
+  east:8.12
+  merchants:4.81
+  pgp:3.83
+  factor:3.83
+  united:3.12
+  states:3.07
+  message:2.85
+  specific:2.84
+
+K: 5, Log-Likelihood: -3696.579, Alpha: 11.000, Beta: 1.100

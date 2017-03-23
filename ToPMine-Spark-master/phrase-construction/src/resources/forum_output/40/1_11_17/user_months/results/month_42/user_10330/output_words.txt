@@ -1,0 +1,61 @@
+Topic 0:
+  march:26.06
+  access:23.65
+  quote:20.36
+  key:20.19
+  support:13.79
+  system:12.62
+  problem:9.60
+  sign:9.21
+  message:9.02
+  zaphod:8.81
+
+Topic 1:
+  app:37.99
+  data:33.80
+  security:33.54
+  agencies:29.84
+  browser:27.35
+  users:24.54
+  mobile:23.66
+  eyes:22.30
+  smartphones:19.99
+  servers:18.32
+
+Topic 2:
+  gnupg:98.87
+  passphrase:58.01
+  word:47.46
+  key:37.57
+  diceware:30.42
+  version:27.37
+  list:27.10
+  keys:22.99
+  passphrases:21.88
+  random:21.03
+
+Topic 3:
+  tor:20.43
+  ago:12.41
+  doesnt:9.37
+  government:9.23
+  browser:9.15
+  court:9.01
+  zaphod:8.15
+  time:8.10
+  days:7.98
+  case:7.97
+
+Topic 4:
+  pgp:28.15
+  message:18.34
+  zaphod:12.81
+  signed:12.29
+  ip:10.77
+  leak:10.75
+  diceware:9.28
+  signature:9.00
+  march:8.76
+  abraxas:8.70
+
+K: 5, Log-Likelihood: -44376.581, Alpha: 11.000, Beta: 1.100

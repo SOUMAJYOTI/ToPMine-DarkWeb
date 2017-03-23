@@ -1,0 +1,61 @@
+Topic 0:
+  pip:3.70
+  key block:3.70
+  check:3.70
+  public:3.70
+  risk:3.70
+  bitcointalk:3.70
+  anoncoin:2.82
+  coding:2.55
+  el:1.83
+  luc:1.83
+
+Topic 1:
+  coding:3.24
+  payment:1.59
+  css:1.59
+  secure user:1.59
+  committed:1.59
+  setting:1.59
+  options:1.59
+  speak:1.59
+  decision:1.59
+  experience:1.59
+
+Topic 2:
+  du er:5.41
+  nok tte:2.83
+  rer:2.83
+  idioter:2.83
+  fuld:2.83
+  apache:2.83
+  en windows:2.83
+  finder:2.83
+  smart:2.83
+  administration:2.83
+
+Topic 3:
+  din:5.79
+  quote abyss march:4.13
+  pay money:2.92
+  secure hosting service safe:2.92
+  ulovlige:2.86
+  venligst:2.86
+  pmi:2.86
+  grund:2.86
+  og:2.86
+  helptak:2.86
+
+Topic 4:
+  evil ende angel det:3.23
+  vil din skyld:3.22
+  egne begr nsninger du:3.22
+  dine brugere:3.22
+  indian webhosting ved du:3.22
+  skal opm rksom vi:3.21
+  kender din server placering:3.21
+  din web applikationer er:3.21
+  er vigtigt dine:3.20
+  din server hedder getthefockout:3.20
+
+K: 5, Log-Likelihood: -5104.989, Alpha: 11.000, Beta: 1.100

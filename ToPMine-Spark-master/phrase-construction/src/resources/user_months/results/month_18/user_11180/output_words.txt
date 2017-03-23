@@ -1,0 +1,61 @@
+Topic 0:
+  redacted:0.78
+  opened:0.63
+  guys:0.62
+  agora:0.62
+  visit:0.58
+  market:0.41
+  inform:0.41
+  activity:0.41
+  marketplace:0.40
+  dont:0.40
+
+Topic 1:
+  redacted:0.80
+  guys:0.62
+  opened:0.61
+  visit:0.61
+  agora:0.60
+  activity:0.41
+  inform:0.40
+  market:0.40
+  dont:0.40
+  shop:0.40
+
+Topic 2:
+  redacted:0.79
+  visit:0.60
+  opened:0.59
+  agora:0.56
+  guys:0.56
+  evolution:0.41
+  vendor:0.41
+  advertise:0.41
+  marketplace:0.41
+  goods:0.41
+
+Topic 3:
+  redacted:0.80
+  guys:0.61
+  agora:0.60
+  visit:0.60
+  opened:0.59
+  dont:0.41
+  captain:0.40
+  verified:0.40
+  link:0.40
+  advertise:0.40
+
+Topic 4:
+  redacted:0.83
+  agora:0.62
+  visit:0.61
+  guys:0.59
+  opened:0.58
+  shop:0.41
+  vendor:0.40
+  market:0.40
+  inform:0.40
+  activity:0.40
+
+K: 5, Log-Likelihood: -218.450, Alpha: 11.000, Beta: 1.100

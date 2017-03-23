@@ -1,0 +1,61 @@
+Topic 0:
+  btcs:0.40
+  exchange:0.40
+  accounts:0.40
+  half:0.40
+  good:0.40
+  paypals:0.40
+  amount:0.40
+  bit:0.40
+  website:0.40
+  services:0.40
+
+Topic 1:
+  guys:0.40
+  cash:0.40
+  accounts:0.40
+  cashier:0.40
+  lot:0.40
+  exchange:0.40
+  problem:0.40
+  half:0.40
+  services:0.40
+  huge:0.40
+
+Topic 2:
+  methods:0.41
+  amount:0.40
+  bank:0.40
+  bit:0.40
+  cashier:0.40
+  lot:0.40
+  services:0.40
+  paypals:0.40
+  website:0.40
+  btcs:0.40
+
+Topic 3:
+  loosing:0.41
+  problem:0.40
+  laundering:0.40
+  huge:0.40
+  paypals:0.40
+  matter:0.40
+  services:0.40
+  ofc:0.40
+  bank:0.40
+  amount:0.40
+
+Topic 4:
+  methods:0.41
+  good:0.40
+  guys:0.40
+  cash:0.40
+  ofc:0.40
+  lot:0.40
+  problem:0.40
+  laundering:0.40
+  matter:0.40
+  bit:0.40
+
+K: 5, Log-Likelihood: -220.474, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  nice:0.20
+  bigworm:0.20
+  clearnet:0.20
+  meant:0.20
+  btc:0.20
+  figure:0.20
+  regular:0.20
+  person:0.20
+  cat:0.20
+  buying:0.20
+
+Topic 1:
+  regular:0.20
+  person:0.20
+  meant:0.20
+  bigworm:0.20
+  clearnet:0.20
+  figure:0.20
+  btc:0.20
+  cat:0.20
+  nice:0.20
+  buying:0.20
+
+Topic 2:
+  bigworm:0.20
+  nice:0.20
+  cat:0.20
+  buying:0.20
+  meant:0.20
+  clearnet:0.20
+  btc:0.20
+  person:0.20
+  figure:0.20
+  regular:0.20
+
+Topic 3:
+  cat:0.20
+  regular:0.20
+  buying:0.20
+  figure:0.20
+  meant:0.20
+  person:0.20
+  btc:0.20
+  clearnet:0.20
+  bigworm:0.20
+  nice:0.20
+
+Topic 4:
+  buying:0.20
+  btc:0.20
+  figure:0.20
+  person:0.20
+  clearnet:0.20
+  nice:0.20
+  meant:0.20
+  regular:0.20
+  cat:0.20
+  bigworm:0.20
+
+K: 5, Log-Likelihood: -23.026, Alpha: 11.000, Beta: 1.100

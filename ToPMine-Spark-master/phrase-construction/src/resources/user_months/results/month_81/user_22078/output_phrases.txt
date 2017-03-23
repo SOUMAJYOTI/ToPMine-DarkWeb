@@ -1,0 +1,61 @@
+Topic 0:
+  price:0.36
+  poison:0.20
+  delivery:0.18
+  average:0.18
+  time:0.18
+  uk:0.18
+  good:0.18
+  man:0.18
+  child:0.18
+  bump:0.18
+
+Topic 1:
+  price:0.37
+  poison:0.20
+  check:0.18
+  durban:0.18
+  royal:0.18
+  markets:0.18
+  dealing:0.18
+  market:0.18
+  cheap:0.18
+  packs:0.18
+
+Topic 2:
+  price:0.37
+  poison:0.20
+  delivery:0.18
+  average:0.18
+  time:0.18
+  uk:0.18
+  child:0.18
+  man:0.18
+  good:0.18
+  bump:0.18
+
+Topic 3:
+  price:0.37
+  poison:0.20
+  valhalla:0.18
+  regular:0.18
+  ridiculous:0.18
+  cheap:0.18
+  royal:0.18
+  dream:0.18
+  markets:0.18
+  prices:0.18
+
+Topic 4:
+  price:0.37
+  poison:0.20
+  cheap:0.18
+  grams:0.18
+  packs:0.18
+  dream:0.18
+  markets:0.18
+  regular:0.18
+  equally:0.18
+  chips:0.18
+
+K: 5, Log-Likelihood: -92.608, Alpha: 11.000, Beta: 1.100

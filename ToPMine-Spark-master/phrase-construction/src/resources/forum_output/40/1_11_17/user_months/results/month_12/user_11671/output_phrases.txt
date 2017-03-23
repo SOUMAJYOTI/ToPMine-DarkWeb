@@ -1,0 +1,61 @@
+Topic 0:
+  silk road:0.47
+  read:0.32
+  rights:0.32
+  safe:0.32
+  individuals:0.24
+  people:0.24
+  find:0.24
+  true:0.16
+  road:0.16
+  customers:0.16
+
+Topic 1:
+  silk road:0.48
+  read:0.32
+  rights:0.32
+  safe:0.32
+  individuals:0.24
+  find:0.24
+  people:0.24
+  original:0.16
+  create:0.16
+  values:0.16
+
+Topic 2:
+  silk road:0.50
+  rights:0.33
+  safe:0.33
+  read:0.32
+  individuals:0.24
+  find:0.24
+  people:0.24
+  stay:0.16
+  charter:0.16
+  good:0.16
+
+Topic 3:
+  silk road:0.49
+  safe:0.33
+  read:0.33
+  rights:0.33
+  people:0.24
+  find:0.24
+  individuals:0.24
+  sr:0.16
+  small:0.16
+  mission:0.16
+
+Topic 4:
+  silk road:0.50
+  safe:0.33
+  read:0.33
+  rights:0.32
+  people:0.24
+  find:0.24
+  individuals:0.24
+  customers:0.16
+  forum:0.16
+  trade:0.16
+
+K: 5, Log-Likelihood: -620.623, Alpha: 11.000, Beta: 1.100

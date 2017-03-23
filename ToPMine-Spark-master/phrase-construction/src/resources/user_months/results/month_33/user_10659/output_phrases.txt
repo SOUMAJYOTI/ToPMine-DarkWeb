@@ -1,0 +1,61 @@
+Topic 0:
+  delectable:0.00
+  select flashdrive:0.00
+  auto:0.00
+  youll:0.00
+  select:0.00
+  iso:0.00
+  usb:0.00
+  madedownload:0.00
+  prevents:0.00
+  newly:0.00
+
+Topic 1:
+  delectable:0.00
+  select flashdrive:0.00
+  auto:0.00
+  youll:0.00
+  select:0.00
+  iso:0.00
+  usb:0.00
+  madedownload:0.00
+  prevents:0.00
+  newly:0.00
+
+Topic 2:
+  delectable:0.00
+  select flashdrive:0.00
+  auto:0.00
+  youll:0.00
+  select:0.00
+  iso:0.00
+  usb:0.00
+  madedownload:0.00
+  prevents:0.00
+  newly:0.00
+
+Topic 3:
+  delectable:0.00
+  select flashdrive:0.00
+  auto:0.00
+  youll:0.00
+  select:0.00
+  iso:0.00
+  usb:0.00
+  madedownload:0.00
+  prevents:0.00
+  newly:0.00
+
+Topic 4:
+  delectable:0.00
+  select flashdrive:0.00
+  auto:0.00
+  youll:0.00
+  select:0.00
+  iso:0.00
+  usb:0.00
+  madedownload:0.00
+  prevents:0.00
+  newly:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  forum:3.49
+  promising:2.76
+  markets:2.70
+  assoaciation:2.45
+  community:2.45
+  quality:2.45
+  hoping:2.45
+  busier:2.45
+  left:2.45
+  registration:2.45
+
+Topic 1:
+  opened account day order:6.04
+  yesterday batches lsd agree:6.03
+  find dmt:6.02
+  vendors forward shop:6.00
+  pickles:5.39
+  pick slowly lack variety:5.09
+  accounts hope dhl:5.01
+  starts imputable:4.96
+  sl:3.98
+  quality products secureeasy:3.98
+
+Topic 2:
+  bip keys hoping join:6.38
+  quote:5.89
+  santahello santa easy message:5.83
+  saint nic november:5.82
+  santa:5.44
+  november:4.85
+  signed vendors:4.41
+  shortly:3.96
+  expect:3.96
+  pm:3.96
+
+Topic 3:
+  solved:4.88
+  support:4.88
+  process:4.03
+  waiting:4.03
+  delivery:4.03
+  started:4.03
+  wallet send:4.03
+  interface fact:4.03
+  bond:4.03
+  purchasing:4.03
+
+Topic 4:
+  pgp:4.91
+  direct:4.88
+  features:4.88
+  security:4.09
+  work:4.09
+  encryption:4.09
+  forum:3.94
+  sign:3.35
+  fact:2.43
+  choice:2.43
+
+K: 5, Log-Likelihood: -3137.306, Alpha: 11.000, Beta: 1.100

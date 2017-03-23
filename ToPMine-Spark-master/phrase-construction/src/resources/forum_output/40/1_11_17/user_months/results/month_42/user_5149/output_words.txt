@@ -1,0 +1,61 @@
+Topic 0:
+  profile:2.13
+  kb:1.31
+  avatar:0.67
+  capable:0.55
+  file:0.55
+  tells:0.55
+  appreciated:0.55
+  wrong:0.55
+  image:0.55
+  large:0.54
+
+Topic 1:
+  profile:1.24
+  kb:0.84
+  avatar:0.81
+  tmg:0.42
+  understand:0.42
+  upload:0.42
+  small:0.42
+  jpg:0.42
+  wrong:0.42
+  image:0.42
+
+Topic 2:
+  avatar:0.87
+  requirement:0.63
+  website:0.63
+  downsizes:0.63
+  sizes:0.63
+  maximum:0.63
+  input:0.62
+  guess:0.62
+  ta:0.62
+  tweak:0.62
+
+Topic 3:
+  profile:1.33
+  kb:0.88
+  avatar:0.78
+  decided:0.44
+  understand:0.44
+  tmg:0.44
+  tells:0.44
+  appreciated:0.44
+  image:0.44
+  upload:0.44
+
+Topic 4:
+  avatar:0.87
+  profile:0.82
+  kb:0.59
+  images:0.47
+  finally:0.47
+  yea:0.47
+  scroat:0.47
+  tweak:0.47
+  ta:0.47
+  input:0.47
+
+K: 5, Log-Likelihood: -249.437, Alpha: 11.000, Beta: 1.100

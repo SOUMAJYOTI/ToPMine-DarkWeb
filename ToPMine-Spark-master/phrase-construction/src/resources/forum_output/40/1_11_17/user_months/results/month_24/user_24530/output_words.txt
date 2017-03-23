@@ -1,0 +1,61 @@
+Topic 0:
+  tor:26.44
+  people:13.92
+  traffic:13.91
+  analysis:7.92
+  lsd:6.06
+  kind:5.58
+  allot:5.38
+  acid:5.32
+  led:5.22
+  bad:5.03
+
+Topic 1:
+  dont:11.16
+  tor:10.92
+  find:9.63
+  safe:9.15
+  time:8.38
+  markets:7.90
+  stay:5.60
+  sr:5.41
+  users:5.23
+  big:4.93
+
+Topic 2:
+  people:17.86
+  drugs:17.22
+  drug:13.55
+  lsd:12.67
+  dont:9.51
+  good:6.95
+  proper:5.63
+  society:5.32
+  organization:4.88
+  hope:4.63
+
+Topic 3:
+  vendors:26.80
+  tmg:11.54
+  ag:9.86
+  le:9.75
+  sr:7.37
+  shops:6.95
+  forum:5.74
+  agora:5.59
+  general:5.25
+  good:5.09
+
+Topic 4:
+  vendor:11.85
+  good:10.60
+  le:10.45
+  vendors:9.50
+  drugs:6.74
+  work:6.10
+  root:6.01
+  blue:5.59
+  tor:5.51
+  dont:5.37
+
+K: 5, Log-Likelihood: -19594.453, Alpha: 11.000, Beta: 1.100

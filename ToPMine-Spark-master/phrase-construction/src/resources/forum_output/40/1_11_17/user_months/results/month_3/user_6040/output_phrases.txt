@@ -1,0 +1,61 @@
+Topic 0:
+  email:4.25
+  analysis:3.48
+  advertising:1.69
+  share:1.68
+  comparison:1.67
+  deep:1.66
+  log:1.66
+  website:1.66
+  reality:1.65
+  kinds:1.65
+
+Topic 1:
+  email:2.88
+  analysis:1.53
+  case:1.04
+  web:0.84
+  previous:0.84
+  advocate:0.83
+  garbled:0.83
+  preferable:0.82
+  services:0.82
+  harmless:0.82
+
+Topic 2:
+  email service:2.55
+  comms:1.66
+  wondered:1.66
+  site:1.65
+  practice:1.65
+  scenario:1.65
+  monitor:1.64
+  hidden:1.64
+  operators:1.64
+  worst:1.64
+
+Topic 3:
+  email service:1.72
+  easy:1.15
+  trust:1.09
+  onion:1.08
+  accidentally:1.08
+  email tor:1.07
+  retrieve:1.07
+  advantage:1.07
+  send:1.05
+  entity:0.79
+
+Topic 4:
+  safe mail net:4.33
+  sums:2.02
+  fastbut:2.01
+  point:2.01
+  darkness mail:2.00
+  srsly:2.00
+  javascript:2.00
+  secret:2.00
+  interface:2.00
+  encryption:1.99
+
+K: 5, Log-Likelihood: -1157.795, Alpha: 11.000, Beta: 1.100

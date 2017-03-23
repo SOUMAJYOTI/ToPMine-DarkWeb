@@ -1,0 +1,61 @@
+Topic 0:
+  tor:4.52
+  transport:1.23
+  good:1.16
+  apt:1.09
+  phoenix:0.54
+  youll:0.52
+  prefer:0.45
+  running:0.45
+  paranoid:0.45
+  nice:0.45
+
+Topic 1:
+  tor:4.80
+  apt:3.12
+  transport:1.80
+  sources:1.47
+  wily:1.33
+  sudo:1.25
+  build:0.99
+  list:0.84
+  service:0.80
+  repos:0.74
+
+Topic 2:
+  apt:7.81
+  tor:4.94
+  sources:3.18
+  wily:2.42
+  build:2.00
+  sudo:1.76
+  transport:1.57
+  repos:1.45
+  service:1.36
+  list:1.33
+
+Topic 3:
+  tor:7.58
+  router:3.56
+  transport:2.06
+  prevent:1.30
+  search:0.82
+  leaving:0.82
+  node:0.82
+  connecting:0.82
+  circuit:0.82
+  attempts:0.82
+
+Topic 4:
+  tor:2.16
+  apt:1.61
+  transport:1.34
+  sources:0.99
+  good:0.95
+  wily:0.91
+  build:0.68
+  sudo:0.67
+  phoenix:0.62
+  youll:0.59
+
+K: 5, Log-Likelihood: -897.123, Alpha: 11.000, Beta: 1.100

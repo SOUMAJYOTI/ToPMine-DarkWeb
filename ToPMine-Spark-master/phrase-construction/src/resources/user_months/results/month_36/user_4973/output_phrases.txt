@@ -1,0 +1,61 @@
+Topic 0:
+  tor:0.39
+  mail:0.36
+  pills:0.36
+  vps:0.31
+  running:0.22
+  huge:0.22
+  shuttle:0.22
+  layer:0.22
+  tabs:0.16
+  class:0.16
+
+Topic 1:
+  tor:0.63
+  vps:0.48
+  huge:0.31
+  running:0.31
+  layer:0.31
+  shuttle:0.31
+  pills:0.24
+  mail:0.24
+  vvr:0.15
+  enter:0.15
+
+Topic 2:
+  tor:0.48
+  vps:0.36
+  pills:0.31
+  mail:0.30
+  shuttle:0.25
+  layer:0.25
+  running:0.25
+  huge:0.25
+  sheep:0.15
+  mail order:0.15
+
+Topic 3:
+  tor:0.64
+  vps:0.47
+  shuttle:0.30
+  running:0.30
+  layer:0.30
+  huge:0.30
+  pills:0.24
+  mail:0.24
+  cd:0.15
+  firefox:0.15
+
+Topic 4:
+  tor:0.64
+  vps:0.46
+  layer:0.30
+  huge:0.30
+  shuttle:0.30
+  running:0.30
+  mail:0.24
+  pills:0.24
+  linux:0.15
+  finding:0.15
+
+K: 5, Log-Likelihood: -391.480, Alpha: 11.000, Beta: 1.100

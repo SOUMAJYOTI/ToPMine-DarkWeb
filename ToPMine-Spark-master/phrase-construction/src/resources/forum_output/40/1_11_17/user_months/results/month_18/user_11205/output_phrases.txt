@@ -1,0 +1,61 @@
+Topic 0:
+  marketplace:0.90
+  agora:0.60
+  post:0.59
+  sr:0.57
+  marketplaces:0.49
+  link:0.37
+  vendor:0.37
+  pricing:0.36
+  silkroad:0.34
+  sr agora:0.34
+
+Topic 1:
+  marketplace:0.60
+  marketplaces:0.49
+  sr:0.48
+  post:0.42
+  agora:0.42
+  coke:0.38
+  charge:0.38
+  pricing:0.37
+  link:0.36
+  vendor:0.36
+
+Topic 2:
+  marketplace:0.64
+  sr:0.49
+  marketplaces:0.49
+  agora:0.46
+  post:0.46
+  pricing:0.37
+  vendor:0.37
+  link:0.37
+  coke:0.37
+  charge:0.37
+
+Topic 3:
+  marketplace:1.47
+  post:0.90
+  agora:0.88
+  sr:0.62
+  marketplaces:0.50
+  pm:0.39
+  btc:0.38
+  links:0.38
+  comments:0.38
+  peruse:0.38
+
+Topic 4:
+  vacation:0.71
+  order:0.66
+  extensive:0.64
+  pure:0.64
+  feedback:0.64
+  agorahooawayyfoe:0.64
+  batch:0.64
+  brand:0.64
+  tested:0.64
+  picked:0.64
+
+K: 5, Log-Likelihood: -524.841, Alpha: 11.000, Beta: 1.100

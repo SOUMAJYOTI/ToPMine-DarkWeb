@@ -1,0 +1,61 @@
+Topic 0:
+  android:0.39
+  iphones:0.20
+  cache:0.20
+  java:0.20
+  secure:0.20
+  history:0.20
+  bother:0.20
+  damn:0.20
+  phone:0.20
+  deer:0.20
+
+Topic 1:
+  android:0.40
+  disabled:0.20
+  dunno:0.20
+  news:0.20
+  sight:0.20
+  fucking:0.20
+  wiped:0.20
+  history:0.20
+  tor:0.20
+  cookies:0.20
+
+Topic 2:
+  android:0.40
+  lol:0.20
+  discovered:0.20
+  days:0.20
+  firefox:0.20
+  vulnerabilities:0.20
+  tor:0.20
+  deer:0.20
+  news:0.20
+  phone:0.20
+
+Topic 3:
+  android:0.40
+  discovered:0.20
+  vulnerabilities:0.20
+  days:0.20
+  lol:0.20
+  firefox:0.20
+  disabled:0.20
+  sight:0.20
+  bother:0.20
+  deer:0.20
+
+Topic 4:
+  android:0.40
+  firefox:0.20
+  vulnerabilities:0.20
+  discovered:0.20
+  days:0.20
+  lol:0.20
+  exit:0.20
+  java:0.20
+  secure:0.20
+  cookies:0.20
+
+K: 5, Log-Likelihood: -79.115, Alpha: 11.000, Beta: 1.100

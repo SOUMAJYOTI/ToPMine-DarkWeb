@@ -1,0 +1,61 @@
+Topic 0:
+  outlaw:0.78
+  cocaine:0.40
+  hq:0.40
+  speedpaste:0.40
+  market:0.20
+  pure:0.20
+  dc:0.20
+  forum:0.20
+  porsche:0.20
+  bab:0.20
+
+Topic 1:
+  outlaw:0.75
+  hq:0.41
+  speedpaste:0.41
+  cocaine:0.40
+  porsche:0.20
+  bab:0.20
+  feedbacks:0.20
+  premium:0.20
+  uncut:0.20
+  db:0.20
+
+Topic 2:
+  outlaw:0.78
+  cocaine:0.40
+  speedpaste:0.40
+  hq:0.40
+  oxycodone:0.20
+  mdma:0.20
+  visit:0.20
+  german:0.20
+  xtc:0.20
+  listing:0.20
+
+Topic 3:
+  outlaw:0.82
+  hq:0.40
+  speedpaste:0.40
+  cocaine:0.40
+  login:0.20
+  forum:0.20
+  uncut:0.20
+  xtc:0.20
+  german:0.20
+  listing:0.20
+
+Topic 4:
+  outlaw:0.87
+  speedpaste:0.40
+  hq:0.39
+  cocaine:0.39
+  tabs:0.20
+  market:0.20
+  visit:0.20
+  ee:0.20
+  store:0.20
+  porsche:0.20
+
+K: 5, Log-Likelihood: -124.088, Alpha: 11.000, Beta: 1.100

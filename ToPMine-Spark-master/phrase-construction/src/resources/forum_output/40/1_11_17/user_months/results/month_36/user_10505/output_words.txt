@@ -1,0 +1,61 @@
+Topic 0:
+  bios:14.70
+  tails:9.47
+  kovah:8.97
+  code:8.90
+  implant:6.98
+  system:6.74
+  kallenberg:5.98
+  access:5.79
+  vendors:4.98
+  operating:4.07
+
+Topic 1:
+  os:7.15
+  blobs:5.31
+  security:4.26
+  list:4.15
+  short:3.97
+  oss:3.97
+  dont:3.81
+  main:3.22
+  linus:3.18
+  kernel:3.15
+
+Topic 2:
+  openbsd:5.36
+  support:3.09
+  luks:2.84
+  doesnt:2.54
+  crow:1.79
+  gentoo:1.67
+  march:1.65
+  quote:1.65
+  slack:1.54
+  eli:1.52
+
+Topic 3:
+  qubes:5.09
+  security:4.90
+  firmware:4.21
+  ignoring:3.97
+  bad:3.45
+  machine:3.09
+  binary:3.02
+  tubes:2.97
+  problem:2.70
+  code:2.56
+
+Topic 4:
+  openbsd:5.57
+  freebsd:5.14
+  quote:3.20
+  march:3.20
+  add:2.50
+  days:2.37
+  good:2.08
+  gentoo:2.01
+  aslr:1.81
+  pax:1.77
+
+K: 5, Log-Likelihood: -6550.773, Alpha: 11.000, Beta: 1.100

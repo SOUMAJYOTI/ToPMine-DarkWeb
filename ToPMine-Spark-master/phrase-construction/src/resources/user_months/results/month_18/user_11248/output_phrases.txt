@@ -1,0 +1,61 @@
+Topic 0:
+  site:0.20
+  thought:0.20
+  stick:0.18
+  markets:0.18
+  dont:0.18
+  dude:0.18
+  provide:0.18
+  escrow:0.18
+  matter:0.18
+  major:0.18
+
+Topic 1:
+  site:0.20
+  thought:0.20
+  swam:0.18
+  matter:0.18
+  dude:0.18
+  chances:0.18
+  louse:0.18
+  major:0.18
+  dont:0.18
+  time:0.18
+
+Topic 2:
+  thought:0.20
+  site:0.20
+  anywayanytime:0.18
+  july:0.18
+  remember:0.18
+  find:0.18
+  ricksarkaria:0.18
+  pmyeah:0.18
+  hard:0.18
+  quote:0.18
+
+Topic 3:
+  thought:0.20
+  site:0.20
+  anywayanytime:0.18
+  find:0.18
+  hard:0.18
+  pmyeah:0.18
+  remember:0.18
+  quote:0.18
+  ricksarkaria:0.18
+  july:0.18
+
+Topic 4:
+  site:0.20
+  thought:0.20
+  louse:0.18
+  escrow:0.18
+  time:0.18
+  major:0.18
+  dont:0.18
+  provide:0.18
+  markets:0.18
+  dude:0.18
+
+K: 5, Log-Likelihood: -74.404, Alpha: 11.000, Beta: 1.100

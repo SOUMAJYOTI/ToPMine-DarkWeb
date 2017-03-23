@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:0.77
+  btc:0.62
+  stock:0.59
+  governments:0.53
+  free:0.49
+  time:0.48
+  worth:0.47
+  dash:0.46
+  marketing:0.44
+  dont:0.37
+
+Topic 1:
+  bitcoin:2.09
+  problems:1.23
+  bitin:1.21
+  solves:1.21
+  stock:0.64
+  applications:0.63
+  isnt:0.63
+  dont:0.62
+  receive:0.54
+  user:0.54
+
+Topic 2:
+  bitcoin:1.35
+  stock:0.65
+  solves:0.48
+  bitin:0.48
+  isnt:0.48
+  applications:0.48
+  dont:0.48
+  problems:0.47
+  btc:0.36
+  governments:0.35
+
+Topic 3:
+  btc:3.61
+  governments:2.11
+  marketing:1.54
+  dash:1.52
+  worth:1.50
+  time:1.46
+  free:1.44
+  massive:0.88
+  years:0.88
+  exchange:0.88
+
+Topic 4:
+  btc:1.19
+  governments:0.83
+  free:0.62
+  time:0.62
+  dash:0.61
+  stock:0.60
+  worth:0.60
+  marketing:0.59
+  bitcoin:0.53
+  social:0.45
+
+K: 5, Log-Likelihood: -1149.247, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  torchat:1.26
+  clearnet:0.79
+  darknet:0.78
+  service:0.41
+  flaw:0.40
+  number:0.40
+  options:0.40
+  avoided:0.40
+  profiles:0.40
+  appreciated:0.40
+
+Topic 1:
+  torchat:1.24
+  clearnet:0.79
+  darknet:0.78
+  exception:0.40
+  services:0.40
+  simple:0.40
+  work:0.40
+  input:0.40
+  purposes:0.40
+  avoided:0.40
+
+Topic 2:
+  torchat:1.25
+  darknet:0.85
+  clearnet:0.81
+  aim:0.40
+  simple:0.40
+  doesn:0.40
+  options:0.40
+  purposes:0.40
+  newbie:0.40
+  question:0.40
+
+Topic 3:
+  torchat:1.05
+  darknet:0.79
+  clearnet:0.78
+  service:0.42
+  overlooked:0.41
+  profiles:0.41
+  question:0.41
+  forums:0.40
+  agora:0.40
+  purposes:0.40
+
+Topic 4:
+  torchat:1.20
+  clearnet:0.83
+  darknet:0.80
+  input:0.40
+  services:0.40
+  flaw:0.40
+  appreciated:0.40
+  doesn:0.40
+  work:0.40
+  questions:0.40
+
+K: 5, Log-Likelihood: -214.035, Alpha: 11.000, Beta: 1.100

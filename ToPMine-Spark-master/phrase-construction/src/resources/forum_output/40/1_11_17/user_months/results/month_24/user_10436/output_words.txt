@@ -1,0 +1,61 @@
+Topic 0:
+  strains:0.74
+  pack:0.73
+  weed:0.42
+  vendor:0.42
+  oz:0.42
+  aaa:0.38
+  peachfuzz:0.38
+  aa:0.38
+  lb:0.29
+  qp:0.29
+
+Topic 1:
+  weed:2.38
+  strains:0.98
+  pack:0.95
+  qp:0.86
+  lb:0.86
+  aa:0.47
+  peachfuzz:0.46
+  aaa:0.46
+  vendor:0.36
+  aaaa:0.34
+
+Topic 2:
+  pack:0.78
+  strains:0.71
+  oz:0.44
+  vendor:0.41
+  aaa:0.38
+  weed:0.38
+  peachfuzz:0.38
+  aa:0.38
+  lb:0.28
+  qp:0.28
+
+Topic 3:
+  strains:1.02
+  pack:0.98
+  oz:0.52
+  weed:0.52
+  aaa:0.45
+  aa:0.45
+  peachfuzz:0.45
+  vendor:0.37
+  lb:0.34
+  qp:0.34
+
+Topic 4:
+  pack:0.57
+  strains:0.56
+  vendor:0.44
+  oz:0.39
+  peachfuzz:0.32
+  aa:0.32
+  aaa:0.32
+  weed:0.30
+  merchandise:0.28
+  build:0.28
+
+K: 5, Log-Likelihood: -307.659, Alpha: 11.000, Beta: 1.100

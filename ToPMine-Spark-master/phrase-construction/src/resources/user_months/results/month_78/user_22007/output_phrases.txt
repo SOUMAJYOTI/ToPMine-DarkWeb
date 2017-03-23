@@ -1,0 +1,61 @@
+Topic 0:
+  send:0.14
+  invite:0.14
+  greatly:0.14
+  forum:0.14
+  rc:0.14
+  codes:0.14
+  heard:0.14
+  scene:0.14
+  extra:0.14
+  gamesome:0.14
+
+Topic 1:
+  gamesome:0.14
+  heard:0.14
+  pm:0.14
+  codes:0.14
+  scene:0.14
+  rc:0.14
+  send:0.14
+  extra:0.14
+  forum:0.14
+  greatly:0.14
+
+Topic 2:
+  gamesome:0.14
+  pm:0.14
+  codes:0.14
+  heard:0.14
+  rc:0.14
+  scene:0.14
+  greatly:0.14
+  extra:0.14
+  send:0.14
+  forum:0.14
+
+Topic 3:
+  forum:0.14
+  greatly:0.14
+  invite:0.14
+  extra:0.14
+  rc:0.14
+  scene:0.14
+  send:0.14
+  codes:0.14
+  pm:0.14
+  heard:0.14
+
+Topic 4:
+  invite:0.14
+  extra:0.14
+  forum:0.14
+  rc:0.14
+  greatly:0.14
+  scene:0.14
+  pm:0.14
+  heard:0.14
+  codes:0.14
+  send:0.14
+
+K: 5, Log-Likelihood: -18.568, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  dreammarket:1.02
+  heard:1.02
+  agora:0.92
+  quote:0.68
+  evolutions:0.67
+  december:0.58
+  market:0.49
+  explain:0.47
+  rid:0.47
+  javascript:0.47
+
+Topic 1:
+  market:2.00
+  agora:1.34
+  register:1.19
+  account:0.96
+  forum:0.95
+  abraxas:0.62
+  dreammarket:0.49
+  heard:0.49
+  referred:0.48
+  layout:0.38
+
+Topic 2:
+  agora:1.09
+  dreammarket:0.98
+  heard:0.95
+  quote:0.64
+  evolutions:0.58
+  market:0.58
+  december:0.55
+  register:0.54
+  trusted:0.45
+  association:0.45
+
+Topic 3:
+  agora:1.06
+  dreammarket:0.90
+  heard:0.88
+  market:0.68
+  evolutions:0.60
+  quote:0.60
+  register:0.56
+  december:0.53
+  trusted:0.44
+  rid:0.44
+
+Topic 4:
+  heard:1.67
+  dreammarket:1.61
+  december:1.05
+  evolutions:0.79
+  request:0.73
+  quote:0.72
+  amthats:0.59
+  hermes:0.59
+  check:0.59
+  agora:0.58
+
+K: 5, Log-Likelihood: -462.237, Alpha: 11.000, Beta: 1.100

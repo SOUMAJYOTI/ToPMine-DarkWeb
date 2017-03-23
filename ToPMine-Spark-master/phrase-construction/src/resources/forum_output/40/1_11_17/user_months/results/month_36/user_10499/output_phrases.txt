@@ -1,0 +1,61 @@
+Topic 0:
+  clock:2.44
+  fallback:2.44
+  source:1.87
+  number generator:1.19
+  bit:1.19
+  answer:1.19
+  bootup:1.19
+  pseudorandom:1.19
+  generic:1.19
+  sufficient:1.19
+
+Topic 1:
+  problem:3.27
+  virtual machines:3.27
+  haveged:2.44
+  pool:2.44
+  question:2.16
+  keys:2.02
+  entropy:1.69
+  de random:1.67
+  zaphod:1.59
+  phoenix:1.59
+
+Topic 2:
+  bits entropy:1.83
+  entry:1.82
+  dice:1.81
+  tails developers:1.27
+  txt:0.87
+  youll:0.87
+  command:0.87
+  running:0.87
+  surely:0.87
+  avenged:0.87
+
+Topic 3:
+  high:2.40
+  monte carlo simulations:1.91
+  unpredictable random number generator:1.87
+  havege:1.77
+  good:1.50
+  processor:1.45
+  random number generators:1.40
+  hardware states:1.22
+  operating system:1.19
+  needed:1.17
+
+Topic 4:
+  havege:2.61
+  high:2.49
+  unpredictable random number generator:1.76
+  monte carlo simulations:1.73
+  features:1.31
+  application:1.30
+  performance:1.29
+  havegd:1.28
+  large:1.27
+  throughput havege:1.27
+
+K: 5, Log-Likelihood: -3133.306, Alpha: 11.000, Beta: 1.100

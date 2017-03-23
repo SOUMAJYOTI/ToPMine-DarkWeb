@@ -1,0 +1,61 @@
+Topic 0:
+  yoshi:5.14
+  quote:4.92
+  drinks:4.29
+  whizzer:4.29
+  gandalf:4.29
+  ale:4.29
+  call:4.29
+  white:4.29
+  secretly:4.29
+  hobbits:4.29
+
+Topic 1:
+  scripts:17.06
+  tor:8.45
+  js enabled:6.53
+  middle earth properly:6.53
+  javascript:6.53
+  middle earth:5.67
+  security:5.18
+  auto:5.18
+  search:4.31
+  bar:4.31
+
+Topic 2:
+  middle earth marketplace:8.73
+  uri:6.36
+  good:5.37
+  threads:5.13
+  jokes:5.09
+  roll:5.09
+  pill:4.47
+  thehobbit:4.35
+  pleasure:4.29
+  brings:4.29
+
+Topic 3:
+  password:5.13
+  accounts vendor:5.11
+  time:5.11
+  update:5.11
+  vpn:5.04
+  easier:4.31
+  login:4.28
+  registration:4.28
+  captcha:4.06
+  attempts captcha:3.90
+
+Topic 4:
+  joke:7.75
+  pill:7.66
+  middle earth:5.51
+  fun:5.24
+  ecstasy:5.15
+  wins:5.15
+  randymarsh:5.15
+  site:5.04
+  free vendor account:4.94
+  vendor:4.26
+
+K: 5, Log-Likelihood: -4883.736, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  scammers:7.87
+  banned:7.50
+  tcf:6.05
+  february:4.81
+  warnings:3.27
+  allowed:2.95
+  calling:2.86
+  people:2.72
+  cooked:2.34
+  quote:2.18
+
+Topic 1:
+  market:1.80
+  finally:1.79
+  numbers:1.79
+  log:1.73
+  friendly:1.61
+  bit:1.61
+  user:1.28
+  quote:1.06
+  verto:0.87
+  thought:0.82
+
+Topic 2:
+  evolution:3.99
+  apologies:1.55
+  hope:1.26
+  agora:0.82
+  vendor:0.66
+  set:0.65
+  stress:0.65
+  reply:0.65
+  kill:0.65
+  fixed:0.65
+
+Topic 3:
+  agora:4.11
+  evolution:3.77
+  support:2.37
+  login:1.56
+  day:1.54
+  pm:1.54
+  promising:1.53
+  afford:1.53
+  forums:1.53
+  sr:1.53
+
+Topic 4:
+  tcf:4.59
+  allowed:3.67
+  february:3.45
+  evolution:3.39
+  banned:3.24
+  unban:2.82
+  quote:2.39
+  cooked:2.36
+  vendor:2.30
+  scammers:1.97
+
+K: 5, Log-Likelihood: -1605.336, Alpha: 11.000, Beta: 1.100

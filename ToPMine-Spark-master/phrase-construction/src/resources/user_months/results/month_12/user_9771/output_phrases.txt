@@ -1,0 +1,61 @@
+Topic 0:
+  hey:0.41
+  order:0.41
+  members:0.41
+  place:0.41
+  psychedelic:0.41
+  work:0.41
+  links:0.41
+  dmt:0.41
+  readme:0.41
+  check:0.41
+
+Topic 1:
+  order:0.40
+  work:0.40
+  lsd:0.40
+  mushrooms:0.40
+  check:0.40
+  psychedelic:0.40
+  links:0.39
+  place:0.39
+  cannabis:0.39
+  site:0.39
+
+Topic 2:
+  mind:0.49
+  quote:0.49
+  strong side:0.49
+  june:0.49
+  learn:0.49
+  educational:0.49
+  read:0.48
+  thanksno:0.48
+  zingo:0.48
+  pmhello:0.48
+
+Topic 3:
+  mama:0.43
+  links:0.43
+  recommend:0.43
+  mda:0.43
+  readme:0.43
+  site:0.43
+  garden:0.43
+  members:0.43
+  psychedelic:0.43
+  hey:0.43
+
+Topic 4:
+  masculine:0.41
+  garden:0.41
+  cannabis:0.41
+  mda:0.41
+  lsd:0.41
+  check:0.41
+  dmt:0.41
+  recommend:0.41
+  place:0.41
+  mushrooms:0.41
+
+K: 5, Log-Likelihood: -260.490, Alpha: 11.000, Beta: 1.100

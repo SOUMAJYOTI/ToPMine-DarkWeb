@@ -1,0 +1,61 @@
+Topic 0:
+  persistent:5.72
+  risk:5.58
+  select:3.76
+  persistence:3.61
+  browserto:3.61
+  amnesia:3.61
+  tor:2.10
+  remain:1.67
+  options:1.67
+  confthen:1.67
+
+Topic 1:
+  message:2.88
+  copy:1.88
+  code:1.88
+  pip:1.88
+  filename:1.88
+  click:1.88
+  desktop:1.88
+  save:1.18
+  file:0.96
+  terminal:0.96
+
+Topic 2:
+  tor:1.85
+  settings:1.50
+  signature:1.49
+  persistent:1.47
+  browser:1.47
+  security:1.18
+  tails:1.15
+  december:1.08
+  setting:1.07
+  quote:1.04
+
+Topic 3:
+  tor:1.93
+  persistent:1.51
+  tails:1.35
+  security:1.19
+  setting:1.12
+  browser:1.08
+  signature:1.07
+  settings:1.05
+  dont:0.96
+  quote:0.79
+
+Topic 4:
+  tails:4.53
+  vpn:3.82
+  airvpn:3.78
+  client:3.78
+  didnt:3.78
+  devs:2.86
+  tor:2.79
+  easily:1.87
+  oven:1.79
+  generate:1.79
+
+K: 5, Log-Likelihood: -1684.132, Alpha: 11.000, Beta: 1.100

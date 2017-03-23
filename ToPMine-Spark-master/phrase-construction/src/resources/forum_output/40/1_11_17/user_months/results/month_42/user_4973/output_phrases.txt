@@ -1,0 +1,61 @@
+Topic 0:
+  tor:0.53
+  vps:0.41
+  pills:0.28
+  mail:0.28
+  huge:0.27
+  running:0.27
+  shuttle:0.27
+  layer:0.27
+  pm:0.14
+  expand:0.14
+
+Topic 1:
+  tor:0.77
+  vps:0.55
+  running:0.34
+  layer:0.34
+  shuttle:0.34
+  huge:0.34
+  mail:0.21
+  pills:0.21
+  accepts:0.16
+  ash:0.16
+
+Topic 2:
+  tor:0.50
+  vps:0.39
+  mail:0.29
+  pills:0.29
+  layer:0.26
+  shuttle:0.26
+  huge:0.26
+  running:0.26
+  guess:0.14
+  arrested:0.14
+
+Topic 3:
+  tor:0.52
+  vps:0.39
+  mail:0.28
+  pills:0.28
+  huge:0.27
+  layer:0.27
+  shuttle:0.27
+  running:0.27
+  caught:0.14
+  xanax:0.14
+
+Topic 4:
+  tor:0.44
+  vps:0.34
+  pills:0.33
+  mail:0.33
+  shuttle:0.24
+  huge:0.24
+  layer:0.24
+  running:0.24
+  washing:0.16
+  tails:0.16
+
+K: 5, Log-Likelihood: -391.506, Alpha: 11.000, Beta: 1.100

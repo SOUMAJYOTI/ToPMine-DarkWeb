@@ -1,0 +1,61 @@
+Topic 0:
+  russians:0.85
+  order:0.83
+  fine:0.82
+  alpha:0.81
+  love:0.80
+  fucked:0.79
+  nucleus:0.78
+  bay:0.78
+  good:0.61
+  happened:0.41
+
+Topic 1:
+  alpha:0.89
+  order:0.89
+  fucked:0.89
+  fine:0.87
+  russians:0.84
+  bay:0.82
+  love:0.79
+  nucleus:0.69
+  good:0.61
+  big:0.43
+
+Topic 2:
+  bay:0.94
+  fucked:0.91
+  order:0.89
+  alpha:0.87
+  fine:0.86
+  russians:0.81
+  love:0.81
+  nucleus:0.70
+  good:0.61
+  account:0.42
+
+Topic 3:
+  nucleus:1.05
+  love:0.80
+  reasearch:0.68
+  st:0.67
+  expand:0.67
+  marketplaces:0.67
+  cheers:0.67
+  middleearth:0.67
+  abraxes:0.67
+  bay:0.66
+
+Topic 4:
+  russians:0.85
+  fucked:0.81
+  bay:0.81
+  love:0.80
+  fine:0.80
+  order:0.79
+  alpha:0.79
+  nucleus:0.78
+  good:0.61
+  snowden:0.41
+
+K: 5, Log-Likelihood: -632.348, Alpha: 11.000, Beta: 1.100

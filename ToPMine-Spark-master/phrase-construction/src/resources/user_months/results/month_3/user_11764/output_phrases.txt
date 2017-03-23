@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:4.11
+  fb:3.70
+  post:3.70
+  march:2.99
+  vendors:2.51
+  fake:2.34
+  collect:2.34
+  phase:2.34
+  admin mods:2.34
+  accounts:2.34
+
+Topic 1:
+  shame dr clu:7.11
+  stealth promoting honolulu express:7.04
+  today quote modify:3.45
+  reply today:3.38
+  dr clu:3.12
+  scammer:2.16
+  people:2.06
+  silk road:2.04
+  place:1.67
+  shitstorm:1.67
+
+Topic 2:
+  called:1.78
+  fanbois:1.78
+  doctorglue:1.78
+  ashore:1.78
+  becos:1.78
+  dctrclu:1.78
+  moar:1.78
+  glue:1.78
+  sniffin:1.78
+  um:1.71
+
+Topic 3:
+  forum uri:5.58
+  vending:5.54
+  admins mods:3.73
+  bitcoins:2.67
+  uri:2.67
+  swam:2.67
+  warning:2.67
+  allsite:2.67
+  recommended:2.67
+  stolen:2.66
+
+Topic 4:
+  honoluluexpress:6.17
+  dr clu:5.59
+  list:5.45
+  scammer:5.17
+  topic:4.43
+  silk road:3.34
+  vendors:3.07
+  people:2.25
+  increasing:2.05
+  threads:2.05
+
+K: 5, Log-Likelihood: -3284.197, Alpha: 11.000, Beta: 1.100

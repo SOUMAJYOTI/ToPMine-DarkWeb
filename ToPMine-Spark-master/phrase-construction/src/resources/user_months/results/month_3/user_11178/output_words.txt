@@ -1,0 +1,61 @@
+Topic 0:
+  admin:0.20
+  loophole:0.20
+  revelation:0.20
+  bug:0.20
+  dont:0.20
+  xsposer:0.20
+  title:0.20
+  fucked:0.20
+  pm:0.20
+  sr:0.20
+
+Topic 1:
+  pm:0.20
+  sr:0.20
+  xsposer:0.20
+  scam:0.20
+  revelation:0.20
+  fucked:0.20
+  dont:0.20
+  loophole:0.20
+  bug:0.20
+  admin:0.20
+
+Topic 2:
+  admin:0.20
+  title:0.20
+  bug:0.20
+  dont:0.20
+  fucked:0.20
+  loophole:0.20
+  xsposer:0.20
+  sr:0.20
+  revelation:0.20
+  scam:0.20
+
+Topic 3:
+  pm:0.20
+  scam:0.20
+  revelation:0.20
+  xsposer:0.20
+  title:0.20
+  loophole:0.20
+  sr:0.20
+  bug:0.20
+  fucked:0.20
+  dont:0.20
+
+Topic 4:
+  title:0.20
+  dont:0.20
+  fucked:0.20
+  sr:0.20
+  scam:0.20
+  bug:0.20
+  loophole:0.20
+  revelation:0.20
+  xsposer:0.20
+  admin:0.20
+
+K: 5, Log-Likelihood: -26.377, Alpha: 11.000, Beta: 1.100

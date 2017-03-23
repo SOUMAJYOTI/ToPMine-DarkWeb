@@ -1,0 +1,61 @@
+Topic 0:
+  install:10.21
+  package:7.86
+  proxy:5.92
+  repos:5.75
+  apt:5.36
+  system:4.88
+  state:4.82
+  list:4.03
+  add:3.91
+  works:3.86
+
+Topic 1:
+  tails:10.56
+  proxychains:4.34
+  install:3.33
+  proxy:2.28
+  connection:2.07
+  add:1.73
+  suds:1.61
+  setup:1.50
+  connect:1.46
+  http:1.35
+
+Topic 2:
+  proxychains:10.81
+  libproxychains:6.94
+  installed:5.11
+  kb:4.94
+  package:3.69
+  reading:2.51
+  amnesia:2.32
+  deselected:1.94
+  amelia:1.94
+  squeeze:1.94
+
+Topic 3:
+  ports:4.88
+  tor:4.21
+  tails:3.59
+  dont:3.49
+  bind:2.88
+  dns:2.84
+  firewall:2.47
+  work:2.33
+  outbound:1.83
+  packets:1.83
+
+Topic 4:
+  apt:12.29
+  proxychains:8.63
+  proxy:5.26
+  conf:5.14
+  set:4.68
+  tails:4.30
+  socks:4.16
+  plate:3.79
+  list:3.67
+  work:3.51
+
+K: 5, Log-Likelihood: -3147.669, Alpha: 11.000, Beta: 1.100

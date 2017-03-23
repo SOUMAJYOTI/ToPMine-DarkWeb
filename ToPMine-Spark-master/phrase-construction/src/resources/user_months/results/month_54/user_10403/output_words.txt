@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.66
+  pretty:0.58
+  drama:0.45
+  long:0.45
+  ago:0.45
+  ship:0.45
+  remember:0.44
+  dnt:0.44
+  time:0.44
+  dnm:0.44
+
+Topic 1:
+  pretty:0.63
+  market:0.63
+  list:0.42
+  dnm:0.41
+  dnt:0.41
+  drama:0.41
+  remember:0.41
+  ago:0.41
+  tang:0.41
+  ship:0.41
+
+Topic 2:
+  pretty:0.59
+  market:0.55
+  msg:0.43
+  yeah:0.43
+  waste:0.43
+  sales:0.43
+  edibles:0.42
+  kind:0.42
+  love:0.42
+  bought:0.42
+
+Topic 3:
+  pretty:0.59
+  msg:0.52
+  market:0.50
+  kind:0.49
+  sales:0.49
+  drunk:0.49
+  days:0.48
+  waste:0.48
+  bought:0.48
+  yeah:0.48
+
+Topic 4:
+  market:0.66
+  pretty:0.60
+  ship:0.45
+  remember:0.45
+  list:0.45
+  time:0.45
+  long:0.45
+  drama:0.45
+  dnm:0.45
+  dnt:0.45
+
+K: 5, Log-Likelihood: -326.127, Alpha: 11.000, Beta: 1.100

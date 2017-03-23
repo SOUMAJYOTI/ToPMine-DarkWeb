@@ -1,0 +1,36 @@
+Topic 0:
+  data:0.20
+  drugsnbets:0.20
+  registered:0.20
+  login:0.20
+  register:0.20
+
+Topic 1:
+  register:0.20
+  registered:0.20
+  drugsnbets:0.20
+  data:0.20
+  login:0.20
+
+Topic 2:
+  login:0.20
+  registered:0.20
+  register:0.20
+  drugsnbets:0.20
+  data:0.20
+
+Topic 3:
+  register:0.20
+  registered:0.20
+  data:0.20
+  drugsnbets:0.20
+  login:0.20
+
+Topic 4:
+  login:0.20
+  data:0.20
+  drugsnbets:0.20
+  registered:0.20
+  register:0.20
+
+K: 5, Log-Likelihood: -8.047, Alpha: 11.000, Beta: 1.100

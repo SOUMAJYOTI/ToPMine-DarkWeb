@@ -1,0 +1,61 @@
+Topic 0:
+  good:2.68
+  agp:2.59
+  road:2.59
+  pgp client:2.59
+  address:2.59
+  silk:2.59
+  user:2.59
+  encrypted:2.59
+  great:2.59
+  pgp:2.59
+
+Topic 1:
+  key:1.86
+  edit:0.99
+  import:0.99
+  pm:0.98
+  pming:0.98
+  encrusted:0.98
+  signature:0.98
+  nevermind:0.96
+  practice:0.96
+  public:0.96
+
+Topic 2:
+  key:2.40
+  sending:2.03
+  reply:2.01
+  computer based:2.01
+  works:2.01
+  email client:2.01
+  grips:2.01
+  lot:2.01
+  safely:2.00
+  appreciated:1.99
+
+Topic 3:
+  dont:4.36
+  isnt:2.01
+  qubes:1.99
+  based hardened gentoo:1.96
+  quote magicflight february amyou:1.93
+  grsecurity tresor kernel patches:1.92
+  wallets places adventurous roll:1.91
+  hardened gentoo:1.91
+  operating system case:1.89
+  computer air gapped:1.88
+
+Topic 4:
+  don:2.58
+  backup:1.16
+  btc cold storage encrypt:1.15
+  grab router raspberry pi:1.13
+  configure anonymizing middle box:1.11
+  security measures security measures:1.10
+  tubes:1.10
+  portal corridor whonix gateway:1.10
+  isn:1.09
+  virtual:1.09
+
+K: 5, Log-Likelihood: -1290.895, Alpha: 11.000, Beta: 1.100

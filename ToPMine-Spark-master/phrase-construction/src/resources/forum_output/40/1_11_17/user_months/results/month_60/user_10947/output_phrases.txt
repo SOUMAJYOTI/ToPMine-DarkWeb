@@ -1,0 +1,61 @@
+Topic 0:
+  tor:2.16
+  bridge:0.90
+  bridges:0.88
+  isp knowing things browse:0.66
+  quote:0.55
+  listed:0.37
+  harder:0.37
+  entry:0.37
+  pmis:0.37
+  publicly:0.37
+
+Topic 1:
+  talking:0.54
+  tor:0.51
+  point:0.41
+  access:0.41
+  quote:0.38
+  isp knowing things browse:0.36
+  bridge:0.31
+  bridges:0.31
+  wife:0.29
+  nuh:0.29
+
+Topic 2:
+  tor:1.14
+  bridges:0.58
+  bridge:0.56
+  isp knowing things browse:0.53
+  quote:0.49
+  talking:0.37
+  spot:0.33
+  connect:0.33
+  vpn tor:0.33
+  hot:0.33
+
+Topic 3:
+  point:0.54
+  access:0.52
+  talking:0.50
+  quote:0.35
+  tor:0.35
+  prepaid:0.33
+  vpn:0.33
+  tracked:0.33
+  eliminated:0.33
+  ips:0.33
+
+Topic 4:
+  access:0.80
+  point:0.79
+  talking:0.44
+  security:0.39
+  party:0.39
+  extra:0.39
+  dont:0.39
+  wifi vpn:0.39
+  logs:0.39
+  good:0.39
+
+K: 5, Log-Likelihood: -407.123, Alpha: 11.000, Beta: 1.100

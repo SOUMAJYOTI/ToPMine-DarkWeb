@@ -1,0 +1,61 @@
+Topic 0:
+  xs:0.16
+  thatd:0.08
+  pretty:0.00
+  doi dob:0.00
+  missed:0.00
+  bought:0.00
+  wonderful:0.00
+  powder:0.00
+  point:0.00
+  blotter:0.00
+
+Topic 1:
+  xs:0.16
+  thatd:0.08
+  pretty:0.00
+  doi dob:0.00
+  missed:0.00
+  bought:0.00
+  wonderful:0.00
+  powder:0.00
+  point:0.00
+  blotter:0.00
+
+Topic 2:
+  xs:0.16
+  thatd:0.08
+  pretty:0.00
+  doi dob:0.00
+  missed:0.00
+  bought:0.00
+  wonderful:0.00
+  powder:0.00
+  point:0.00
+  blotter:0.00
+
+Topic 3:
+  xs:0.16
+  thatd:0.08
+  pretty:0.00
+  doi dob:0.00
+  missed:0.00
+  bought:0.00
+  wonderful:0.00
+  powder:0.00
+  point:0.00
+  blotter:0.00
+
+Topic 4:
+  xs:0.16
+  thatd:0.08
+  pretty:0.00
+  doi dob:0.00
+  missed:0.00
+  bought:0.00
+  wonderful:0.00
+  powder:0.00
+  point:0.00
+  blotter:0.00
+
+K: 5, Log-Likelihood: -2.587, Alpha: 11.000, Beta: 1.100

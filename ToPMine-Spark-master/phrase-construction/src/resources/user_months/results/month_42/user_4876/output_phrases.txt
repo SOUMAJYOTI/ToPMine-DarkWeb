@@ -1,0 +1,61 @@
+Topic 0:
+  wiki:4.11
+  interesting:4.11
+  agra:3.34
+  peoples:3.34
+  showing:3.34
+  reply:3.34
+  till:3.34
+  deposits:3.34
+  recommend:3.33
+  days:3.33
+
+Topic 1:
+  limit:3.45
+  release:3.45
+  reached:3.45
+  full:3.45
+  error:3.45
+  message:3.45
+  user:3.45
+  wait:3.45
+  register agora:3.45
+  open:3.44
+
+Topic 2:
+  agora agora agora agora:4.13
+  nice:3.81
+  link:3.72
+  onionland:3.00
+  browse:2.99
+  find:2.99
+  place:2.96
+  interesting links:2.96
+  register pretty:2.37
+  sig:2.34
+
+Topic 3:
+  stable:6.99
+  money:3.41
+  great:3.41
+  market:3.41
+  limbo:3.41
+  advise:3.41
+  time:3.41
+  accept:3.41
+  bad:3.41
+  deposit:3.16
+
+Topic 4:
+  info:3.45
+  anus:3.45
+  commented:3.45
+  stopped:3.45
+  ago:3.45
+  waaaaay:3.45
+  curious:3.45
+  unspeakable:3.45
+  deepweb:3.45
+  terrific:3.45
+
+K: 5, Log-Likelihood: -1557.979, Alpha: 11.000, Beta: 1.100

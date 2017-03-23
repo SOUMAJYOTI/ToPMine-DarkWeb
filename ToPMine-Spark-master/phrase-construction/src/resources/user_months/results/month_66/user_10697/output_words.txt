@@ -1,0 +1,61 @@
+Topic 0:
+  dream:1.30
+  quote:1.01
+  december:1.01
+  referrals:0.99
+  referred:0.92
+  link:0.84
+  thread:0.71
+  support:0.66
+  links:0.62
+  convenient:0.55
+
+Topic 1:
+  link:1.65
+  referrals:1.23
+  dream:1.05
+  quote:0.92
+  links:0.87
+  december:0.86
+  support:0.84
+  referred:0.74
+  cunt:0.63
+  scabby:0.62
+
+Topic 2:
+  dream:1.65
+  referrals:1.15
+  quote:1.06
+  link:0.90
+  referred:0.90
+  thread:0.89
+  december:0.79
+  code:0.60
+  doesnt:0.59
+  choose:0.59
+
+Topic 3:
+  referrals:1.30
+  dream:1.22
+  quote:1.02
+  december:1.02
+  link:0.85
+  support:0.81
+  referred:0.80
+  links:0.70
+  convenient:0.61
+  cunt:0.59
+
+Topic 4:
+  links:1.45
+  referrals:1.33
+  december:1.33
+  support:1.19
+  hub:1.00
+  scabby:1.00
+  quote:0.98
+  cunt:0.98
+  dream:0.79
+  convenient:0.76
+
+K: 5, Log-Likelihood: -746.755, Alpha: 11.000, Beta: 1.100

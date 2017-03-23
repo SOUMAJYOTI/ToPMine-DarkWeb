@@ -1,0 +1,61 @@
+Topic 0:
+  outlaw:1.86
+  silk road:1.66
+  dark:1.15
+  business:1.15
+  experiences:1.15
+  web:1.15
+  order:1.14
+  pretty:1.13
+  sheep:1.13
+  impressive:1.13
+
+Topic 1:
+  silk road:1.42
+  outlaw:1.19
+  based:0.84
+  platform:0.83
+  ended:0.83
+  software:0.82
+  funds:0.82
+  vendor:0.82
+  escrow:0.81
+  impressive:0.80
+
+Topic 2:
+  btw:0.59
+  interesting:0.59
+  contact:0.59
+  feature:0.59
+  people:0.59
+  mod:0.59
+  sounds:0.59
+  strange:0.59
+  tho:0.59
+  graphics:0.59
+
+Topic 3:
+  good:0.59
+  markets:0.56
+  site:0.55
+  outlaw:0.48
+  silk road:0.46
+  post:0.39
+  agora:0.38
+  vendors:0.38
+  ended:0.38
+  experiences:0.38
+
+Topic 4:
+  totally:0.50
+  ground:0.50
+  frameworks:0.50
+  open:0.50
+  agree:0.50
+  market software:0.50
+  source:0.50
+  modules:0.50
+  party:0.50
+  completion:0.46
+
+K: 5, Log-Likelihood: -1311.609, Alpha: 11.000, Beta: 1.100

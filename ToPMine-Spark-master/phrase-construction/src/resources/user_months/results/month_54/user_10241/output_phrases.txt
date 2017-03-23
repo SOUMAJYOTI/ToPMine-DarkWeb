@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:4.26
+  created:3.00
+  block:1.38
+  honest:1.37
+  beforereally:1.37
+  pmquote:1.37
+  received:1.36
+  money:1.36
+  days:1.36
+  gosh:1.36
+
+Topic 1:
+  noticed:3.21
+  posts:1.81
+  abraxas:1.81
+  couple:1.52
+  fact:1.52
+  today:1.52
+  deposit:1.52
+  thing:1.52
+  didnt:1.52
+  money ive:1.52
+
+Topic 2:
+  money account wallet:0.97
+  swapped bookmarks ive abraxas:0.96
+  links identical official verified:0.94
+  address blockchain match deposit:0.93
+  strange deposit blockchain:0.93
+  history checked transaction hash:0.92
+  strange:0.90
+  quote:0.90
+  billyking september amso:0.90
+  started phishing links:0.89
+
+Topic 3:
+  swapped bookmarks ive abraxas:0.93
+  links:0.88
+  quote:0.87
+  billyking september amso:0.87
+  strange deposit blockchain:0.86
+  started phishing links:0.86
+  address blockchain match deposit:0.85
+  history checked transaction hash:0.84
+  links identical official verified:0.84
+  money account wallet:0.83
+
+Topic 4:
+  phishing:1.53
+  sounds:1.15
+  diddly:1.06
+  stole:1.06
+  marketplace:1.06
+  buttcoinsvulnrability:1.06
+  dun:1.06
+  visitedabraxas:1.06
+  site:1.05
+  check:0.87
+
+K: 5, Log-Likelihood: -1006.345, Alpha: 11.000, Beta: 1.100

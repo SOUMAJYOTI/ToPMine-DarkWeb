@@ -1,0 +1,61 @@
+Topic 0:
+  coins:8.71
+  wallet:6.47
+  electrum:5.75
+  transfer:5.22
+  mix:4.24
+  grams:2.62
+  address:2.30
+  untraceable:2.29
+  charges:1.80
+  trace:1.80
+
+Topic 1:
+  bug:2.22
+  find:2.13
+  bugs:2.03
+  time:1.66
+  good:1.61
+  work:1.23
+  service:1.22
+  bands:1.19
+  audit:1.16
+  takes:1.14
+
+Topic 2:
+  bugs:7.74
+  time:5.18
+  bands:3.85
+  bug:2.97
+  phones:2.36
+  frequencies:2.32
+  scan:2.23
+  camera:2.21
+  viewfinder:2.21
+  area:2.20
+
+Topic 3:
+  find:2.12
+  bug:1.62
+  service:1.56
+  work:1.52
+  good:1.29
+  market:1.15
+  bugs:1.13
+  time:1.06
+  detectors:0.97
+  money:0.97
+
+Topic 4:
+  tails:2.53
+  wallet:2.34
+  mixing:2.31
+  service:1.59
+  coins:1.17
+  electrum:1.10
+  buy:1.08
+  market:0.82
+  send:0.82
+  markets:0.77
+
+K: 5, Log-Likelihood: -1987.582, Alpha: 11.000, Beta: 1.100

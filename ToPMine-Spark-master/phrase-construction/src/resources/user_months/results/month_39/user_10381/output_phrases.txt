@@ -1,0 +1,61 @@
+Topic 0:
+  est:1.44
+  fuck:1.18
+  working:1.17
+  hath:1.17
+  pmconfirmed:1.16
+  bigdogsecurity:1.15
+  march:1.15
+  quote:1.11
+  time:1.10
+  minutes:1.08
+
+Topic 1:
+  logon:3.84
+  screen:2.29
+  enter:1.78
+  credentials:1.78
+  problem:1.78
+  loading:1.78
+  times:1.77
+  quietforest:1.77
+  minutes:0.79
+  time:0.66
+
+Topic 2:
+  version:1.06
+  patches number security flaws:1.01
+  post thread noticed agora:1.01
+  version smf software latest:0.96
+  minutes:0.95
+  running:0.93
+  quote:0.92
+  est:0.76
+  time:0.68
+  zaphod:0.65
+
+Topic 3:
+  running:3.56
+  amsee:2.21
+  admin:2.20
+  zaphod february:2.15
+  aware:2.15
+  zaphodsurly:2.12
+  agra:2.12
+  version smf software latest:1.89
+  post thread noticed agora:1.82
+  patches number security flaws:1.74
+
+Topic 4:
+  problems:1.43
+  users:1.43
+  contact:1.42
+  familiar:1.42
+  maintaining:1.42
+  markets:1.42
+  dont:1.41
+  checking:1.40
+  minutes:1.18
+  time:0.79
+
+K: 5, Log-Likelihood: -631.055, Alpha: 11.000, Beta: 1.100

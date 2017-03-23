@@ -1,0 +1,61 @@
+Topic 0:
+  cinema:0.60
+  reported:0.43
+  darkness:0.35
+  prisoners:0.28
+  form:0.28
+  time:0.28
+  lights:0.28
+  light:0.28
+  remember:0.26
+  extent:0.14
+
+Topic 1:
+  cinema:0.53
+  reported:0.41
+  darkness:0.34
+  remember:0.29
+  light:0.27
+  form:0.27
+  time:0.27
+  prisoners:0.27
+  lights:0.27
+  days:0.14
+
+Topic 2:
+  cinema:0.55
+  reported:0.41
+  darkness:0.35
+  lights:0.28
+  time:0.28
+  form:0.28
+  prisoners:0.28
+  light:0.28
+  remember:0.28
+  deep:0.14
+
+Topic 3:
+  cinema:0.56
+  reported:0.42
+  darkness:0.34
+  light:0.28
+  lights:0.28
+  prisoners:0.28
+  remember:0.28
+  form:0.28
+  time:0.28
+  laying:0.14
+
+Topic 4:
+  cinema:0.53
+  reported:0.41
+  darkness:0.34
+  remember:0.28
+  light:0.28
+  time:0.28
+  form:0.28
+  lights:0.28
+  prisoners:0.28
+  vivid:0.14
+
+K: 5, Log-Likelihood: -316.485, Alpha: 11.000, Beta: 1.100

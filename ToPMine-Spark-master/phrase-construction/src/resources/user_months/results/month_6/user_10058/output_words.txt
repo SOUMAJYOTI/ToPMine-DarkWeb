@@ -1,0 +1,61 @@
+Topic 0:
+  fog:1.12
+  complete:0.54
+  transaction:0.51
+  completed:0.50
+  slow:0.49
+  ago:0.33
+  days:0.32
+  hrs:0.30
+  kind:0.23
+  personally:0.23
+
+Topic 1:
+  fog:0.94
+  complete:0.63
+  hrs:0.46
+  ago:0.44
+  days:0.44
+  slow:0.35
+  completed:0.35
+  transaction:0.35
+  action:0.22
+  support:0.22
+
+Topic 2:
+  fog:1.10
+  complete:0.58
+  slow:0.44
+  completed:0.43
+  transaction:0.43
+  ago:0.37
+  days:0.37
+  hrs:0.35
+  peace:0.21
+  blockchain:0.21
+
+Topic 3:
+  fog:0.95
+  complete:0.61
+  hrs:0.46
+  days:0.44
+  ago:0.44
+  completed:0.35
+  transaction:0.35
+  slow:0.35
+  fogs:0.22
+  reply:0.22
+
+Topic 4:
+  fog:0.89
+  complete:0.64
+  hrs:0.43
+  days:0.43
+  ago:0.43
+  transaction:0.37
+  slow:0.37
+  completed:0.36
+  qu:0.21
+  confirmations:0.21
+
+K: 5, Log-Likelihood: -252.265, Alpha: 11.000, Beta: 1.100

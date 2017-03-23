@@ -1,0 +1,61 @@
+Topic 0:
+  weed:0.52
+  oz:0.28
+  qp:0.27
+  lb:0.27
+  pack strains:0.23
+  goods:0.14
+  marketplace:0.14
+  captain:0.14
+  team:0.14
+  deal:0.14
+
+Topic 1:
+  weed:0.56
+  lb:0.28
+  qp:0.28
+  oz:0.28
+  pack strains:0.23
+  questionsshipping:0.14
+  gs:0.14
+  anytime:0.14
+  reservation:0.14
+  updatedshipping:0.14
+
+Topic 2:
+  weed:0.61
+  lb:0.29
+  qp:0.29
+  oz:0.27
+  pack strains:0.23
+  mushrooms:0.14
+  anytime:0.14
+  goldenshrooms:0.14
+  darkmatter:0.14
+  pagefecontact:0.14
+
+Topic 3:
+  weed:0.52
+  oz:0.28
+  qp:0.27
+  lb:0.27
+  pack strains:0.23
+  verified:0.14
+  advertise:0.14
+  goal:0.14
+  build:0.14
+  link:0.14
+
+Topic 4:
+  weed:0.56
+  qp:0.28
+  lb:0.28
+  oz:0.28
+  pack strains:0.23
+  prices:0.14
+  info:0.14
+  lemonshot:0.14
+  hp:0.14
+  gs:0.14
+
+K: 5, Log-Likelihood: -186.179, Alpha: 11.000, Beta: 1.100

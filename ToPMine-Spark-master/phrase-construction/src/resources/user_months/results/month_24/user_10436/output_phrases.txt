@@ -1,0 +1,61 @@
+Topic 0:
+  weed:0.56
+  lb:0.28
+  qp:0.28
+  oz:0.28
+  pack strains:0.23
+  info:0.14
+  reservation:0.14
+  includedsample:0.14
+  updatedshipping:0.14
+  prices:0.14
+
+Topic 1:
+  weed:0.52
+  oz:0.28
+  lb:0.27
+  qp:0.27
+  pack strains:0.23
+  skymy:0.14
+  long:0.14
+  relationship:0.14
+  term:0.14
+  blue:0.14
+
+Topic 2:
+  weed:0.59
+  qp:0.28
+  lb:0.28
+  oz:0.27
+  pack strains:0.23
+  gs:0.14
+  prices:0.14
+  amateurs:0.14
+  includedsample:0.14
+  darkmatter:0.14
+
+Topic 3:
+  weed:0.57
+  lb:0.28
+  qp:0.28
+  oz:0.27
+  pack strains:0.23
+  amateurs:0.14
+  reservation:0.14
+  pagefecontact:0.14
+  lemonshot:0.14
+  includedsample:0.14
+
+Topic 4:
+  weed:0.53
+  oz:0.28
+  qp:0.27
+  lb:0.27
+  pack strains:0.23
+  fill:0.14
+  term:0.14
+  build:0.14
+  products:0.14
+  merchandise:0.14
+
+K: 5, Log-Likelihood: -186.180, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  cent:1.52
+  album:1.35
+  fifty:1.14
+  quote:1.13
+  june:1.10
+  bitcoin:1.08
+  blinged:1.06
+  btc:0.97
+  buy:0.92
+  coming:0.91
+
+Topic 1:
+  cent:1.71
+  fifty:1.58
+  bitcoin:1.57
+  album:1.50
+  june:1.31
+  quote:1.22
+  buy:0.99
+  coming:0.98
+  btc:0.97
+  bi:0.87
+
+Topic 2:
+  pgp:3.88
+  address:2.88
+  privnote:1.88
+  security:1.88
+  vapor:1.88
+  send:1.88
+  secure:1.88
+  stupid:1.88
+  email:1.88
+  ordered:1.88
+
+Topic 3:
+  cent:1.88
+  coming:1.38
+  album:1.27
+  june:1.27
+  btc:1.22
+  bitcoin:1.19
+  quote:1.16
+  bi:1.13
+  light:1.03
+  revelation:1.02
+
+Topic 4:
+  bi:3.40
+  june:2.24
+  cent:1.80
+  btc:1.76
+  ribs:1.74
+  decided:1.73
+  god:1.68
+  credit:1.68
+  full:1.65
+  coming:1.64
+
+K: 5, Log-Likelihood: -1030.269, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  cloud:0.78
+  signal:0.71
+  towers:0.69
+  work:0.53
+  strength:0.52
+  business:0.52
+  pass:0.52
+  precisely:0.52
+  period:0.51
+  tower:0.51
+
+Topic 1:
+  encrusted phone:1.96
+  smart:1.70
+  phone:0.94
+  kind:0.82
+  good idea:0.81
+  complicated:0.81
+  acquire:0.81
+  people:0.81
+  thought:0.81
+  dump:0.81
+
+Topic 2:
+  signal:1.32
+  towers:1.29
+  cloud:1.13
+  range:0.82
+  youve:0.82
+  cell:0.82
+  cellphones:0.82
+  period:0.81
+  day:0.81
+  pass:0.81
+
+Topic 3:
+  cloud:1.29
+  towers:1.21
+  signal:1.16
+  location:0.81
+  data:0.81
+  cellar:0.80
+  strength:0.80
+  live:0.80
+  business:0.80
+  tower:0.80
+
+Topic 4:
+  tor:1.93
+  rooted:1.93
+  vpn:1.93
+  sim:1.93
+  smartphone:1.16
+  naked:0.88
+  bank:0.88
+  granted:0.88
+  credentials:0.88
+  traffic:0.88
+
+K: 5, Log-Likelihood: -987.468, Alpha: 11.000, Beta: 1.100

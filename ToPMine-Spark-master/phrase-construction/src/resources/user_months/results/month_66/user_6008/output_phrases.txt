@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:0.77
+  pgp signature:0.74
+  contact:0.72
+  pgp key:0.68
+  messages:0.64
+  gs:0.63
+  public key block:0.62
+  fv:0.62
+  lr:0.61
+  blxa:0.45
+
+Topic 1:
+  lr:1.91
+  public key block:1.83
+  fv:1.81
+  messages:1.76
+  gs:1.63
+  pgp key:1.46
+  pgp:1.14
+  pgp signature:1.13
+  jdnxqmo:0.97
+  wniuyhhs:0.95
+
+Topic 2:
+  time:3.83
+  suggestion mail address sigaint:3.05
+  problems worked trust site:3.05
+  sigaint correct wrong guys:3.05
+  sending mails error messages:3.05
+  problems:3.05
+  mdirect:2.95
+  lurker:2.53
+  posting:2.53
+  started:2.53
+
+Topic 3:
+  pgp key:3.00
+  gs:2.88
+  messages:2.74
+  fv:2.71
+  public key block:2.69
+  lr:2.61
+  wvozmcjonqqijsj:1.31
+  pgp signature:1.31
+  pvd:1.30
+  wxusxvx:1.30
+
+Topic 4:
+  td:5.16
+  sigaint:5.16
+  oonzf:2.56
+  aglfcyk:2.56
+  mwgb:2.56
+  gzbtvo:2.56
+  mrsz:2.56
+  holiday:2.56
+  mqqyzpesiecngmvg:2.56
+  kjs:2.56
+
+K: 5, Log-Likelihood: -9957.559, Alpha: 11.000, Beta: 1.100

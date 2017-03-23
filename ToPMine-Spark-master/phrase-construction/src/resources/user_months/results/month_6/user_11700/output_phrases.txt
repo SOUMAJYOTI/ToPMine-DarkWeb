@@ -1,0 +1,61 @@
+Topic 0:
+  du er:4.49
+  win:2.73
+  rer:2.73
+  eller:2.73
+  nok tte:2.73
+  fuld:2.72
+  apache:2.72
+  din web:2.72
+  kasse:2.72
+  verdes:2.72
+
+Topic 1:
+  din:5.78
+  quote abyss march:4.23
+  dont pm ip:2.90
+  opal:2.85
+  kriminel:2.85
+  yde:2.85
+  og:2.85
+  pr:2.85
+  er stand:2.85
+  tennis:2.85
+
+Topic 2:
+  coding:3.42
+  delays:1.68
+  options:1.68
+  experience:1.68
+  payment:1.68
+  design:1.68
+  graphics:1.68
+  committed:1.68
+  hold:1.68
+  start:1.68
+
+Topic 3:
+  key block:3.70
+  bitcointalk:3.70
+  pip:3.70
+  public:3.70
+  risk:3.70
+  check:3.70
+  anoncoin:2.73
+  coding:2.37
+  hyr:1.83
+  tor:1.83
+
+Topic 4:
+  marketplace:3.33
+  skal opm rksom vi:3.19
+  ikke forgive mere om:3.18
+  evil ende angel det:3.17
+  din server hedder getthefockout:3.16
+  vil din skyld:3.16
+  kender din server placering:3.16
+  er vigtigt dine:3.15
+  din server:3.15
+  indian webhosting ved du:3.15
+
+K: 5, Log-Likelihood: -5117.725, Alpha: 11.000, Beta: 1.100

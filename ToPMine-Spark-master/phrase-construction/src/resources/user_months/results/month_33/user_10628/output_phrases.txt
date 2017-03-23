@@ -1,0 +1,61 @@
+Topic 0:
+  traffic:5.57
+  chain:3.70
+  block:3.70
+  havent:3.70
+  anonymous:3.70
+  november:3.70
+  weeks:3.70
+  restore:3.44
+  volume:2.81
+  issues:1.83
+
+Topic 1:
+  tails:2.17
+  gypcu onion:2.08
+  ckl:2.05
+  eventually months happen:1.96
+  plans incorporate software:1.92
+  automatically:1.58
+  persistence folder:1.57
+  custom:1.56
+  latest:1.56
+  script:1.56
+
+Topic 2:
+  wallet:4.24
+  created:2.66
+  behavior:2.66
+  direct:2.66
+  permission:2.66
+  persists:2.66
+  shortcut:2.66
+  normal:2.66
+  tutorial:2.66
+  absolutely:2.66
+
+Topic 3:
+  click:10.50
+  amnesia persistent electrum:9.27
+  select:7.40
+  file:7.39
+  verify:5.54
+  input:5.53
+  tar gz:5.53
+  download:3.67
+  code:3.67
+  mnemonic:3.67
+
+Topic 4:
+  editing live additional software:5.71
+  install dependencies method:5.70
+  boot:4.26
+  requires python dependencies default:3.35
+  great electrum installed startup:3.35
+  conf electrum:3.35
+  ubuntu reckon simple approach:3.35
+  connect pre existing:3.35
+  install method:3.35
+  wallet instructions gamesome advance:3.35
+
+K: 5, Log-Likelihood: -4760.614, Alpha: 11.000, Beta: 1.100

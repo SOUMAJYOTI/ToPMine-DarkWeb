@@ -1,0 +1,61 @@
+Topic 0:
+  refunds:1.17
+  motherfuckers:0.62
+  check:0.61
+  bad:0.60
+  machines:0.41
+  ms:0.41
+  extension:0.41
+  find:0.41
+  things:0.41
+  coming:0.41
+
+Topic 1:
+  refunds:0.90
+  check:0.61
+  bad:0.56
+  motherfuckers:0.55
+  cheap:0.43
+  bottles:0.42
+  drop:0.42
+  liquid:0.41
+  etizolam:0.41
+  coming:0.39
+
+Topic 2:
+  refunds:1.36
+  motherfuckers:0.72
+  bad:0.68
+  check:0.55
+  things:0.45
+  find:0.45
+  extension:0.45
+  machines:0.45
+  ms:0.45
+  coming:0.45
+
+Topic 3:
+  refunds:0.68
+  check:0.64
+  cheap:0.60
+  bottles:0.56
+  bad:0.50
+  motherfuckers:0.49
+  liquid:0.46
+  drop:0.45
+  etizolam:0.42
+  ms:0.35
+
+Topic 4:
+  refunds:0.88
+  bad:0.65
+  motherfuckers:0.63
+  check:0.59
+  coming:0.42
+  find:0.42
+  machines:0.41
+  extension:0.41
+  things:0.41
+  ms:0.41
+
+K: 5, Log-Likelihood: -702.930, Alpha: 11.000, Beta: 1.100

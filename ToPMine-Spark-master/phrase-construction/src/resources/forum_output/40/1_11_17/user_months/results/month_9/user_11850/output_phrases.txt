@@ -1,0 +1,61 @@
+Topic 0:
+  yeah:3.50
+  bad:3.45
+  manners:2.27
+  listings market:2.27
+  honestly:2.27
+  necessity:2.27
+  ill:2.27
+  guy:2.27
+  pans:2.27
+  scammer:2.27
+
+Topic 1:
+  freedom drugs:7.00
+  market:6.41
+  place:4.65
+  asked:3.32
+  freedom:2.30
+  tom javascript:2.30
+  adults:2.30
+  turned:2.30
+  advanced:2.30
+  smooth:2.30
+
+Topic 2:
+  js:3.67
+  tom listings:2.91
+  listings:2.75
+  site:2.26
+  thread:2.26
+  reading:2.26
+  link:2.26
+  people:2.26
+  solved:2.26
+  problems:2.26
+
+Topic 3:
+  paper:7.66
+  pouch:4.66
+  mdma:3.77
+  stick paper:3.77
+  ideas:3.77
+  powder:3.77
+  wtf:3.77
+  idk:3.77
+  inside:3.77
+  pouches:3.77
+
+Topic 4:
+  tom:5.23
+  find:4.65
+  links:4.65
+  marketplace:4.65
+  agora:4.65
+  advantages:4.65
+  message:3.57
+  safe:2.47
+  ago:2.47
+  experiences:2.30
+
+K: 5, Log-Likelihood: -2244.371, Alpha: 11.000, Beta: 1.100

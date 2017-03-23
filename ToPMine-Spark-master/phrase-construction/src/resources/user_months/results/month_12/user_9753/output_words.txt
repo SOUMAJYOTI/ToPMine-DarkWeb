@@ -1,0 +1,61 @@
+Topic 0:
+  resolve:2.38
+  time:1.65
+  long:1.63
+  place:1.26
+  tmg:1.01
+  work:0.98
+  problems:0.98
+  planned:0.98
+  mod:0.98
+  issues:0.97
+
+Topic 1:
+  multiply:1.66
+  bitcoins:1.66
+  forums:1.66
+  accounts:1.66
+  people:1.25
+  lots:1.07
+  paste:0.71
+  frozen:0.71
+  deposited:0.71
+  markets:0.71
+
+Topic 2:
+  place:1.93
+  tmg:1.51
+  find:1.18
+  interested:0.99
+  quote:0.97
+  june:0.94
+  point:0.87
+  sr:0.66
+  long:0.62
+  good:0.61
+
+Topic 3:
+  place:1.74
+  tmg:1.68
+  quote:0.99
+  june:0.97
+  find:0.95
+  interested:0.87
+  long:0.75
+  time:0.74
+  sr:0.67
+  point:0.67
+
+Topic 4:
+  place:2.42
+  tmg:2.11
+  interested:1.14
+  june:0.96
+  quote:0.92
+  love:0.90
+  find:0.88
+  sr:0.75
+  point:0.70
+  time:0.63
+
+K: 5, Log-Likelihood: -1070.699, Alpha: 11.000, Beta: 1.100

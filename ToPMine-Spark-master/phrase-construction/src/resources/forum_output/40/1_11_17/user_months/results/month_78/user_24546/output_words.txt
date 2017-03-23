@@ -1,0 +1,61 @@
+Topic 0:
+  needle:2.79
+  plan:2.67
+  grey:2.45
+  ethanol:2.42
+  goose:2.42
+  lab:2.25
+  big:1.79
+  alternative:1.61
+  molecule:1.61
+  dropper:1.61
+
+Topic 1:
+  server:6.90
+  status:5.90
+  mod:4.90
+  module:3.91
+  apache:3.91
+  tor:2.91
+  onion:2.91
+  stands:2.91
+  servers:2.91
+  service:2.21
+
+Topic 2:
+  ethanol:2.32
+  people:1.50
+  lab:1.44
+  alcohol:0.80
+  add:0.68
+  chemistry:0.67
+  heard:0.67
+  treebean:0.66
+  drinking:0.66
+  amalso:0.65
+
+Topic 3:
+  gas:1.83
+  glovebox:1.83
+  making:1.07
+  time:1.04
+  dont:0.93
+  inert:0.85
+  depends:0.85
+  plastic:0.85
+  tank:0.85
+  flexible:0.85
+
+Topic 4:
+  alcohol:6.86
+  ethanol:5.04
+  lab:4.10
+  additives:2.87
+  denatured:2.87
+  ethan:2.10
+  methyl:1.87
+  spirits:1.87
+  methylated:1.87
+  ketone:1.87
+
+K: 5, Log-Likelihood: -1688.191, Alpha: 11.000, Beta: 1.100

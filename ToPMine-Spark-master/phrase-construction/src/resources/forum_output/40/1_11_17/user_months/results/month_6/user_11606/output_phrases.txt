@@ -1,0 +1,61 @@
+Topic 0:
+  hack:2.91
+  deposits:2.91
+  withdrawls:2.91
+  borrow:2.91
+  money:2.91
+  vendors:2.91
+  losing:1.41
+  posts:1.41
+  view:1.41
+  weeks:1.41
+
+Topic 1:
+  staff:2.89
+  pay:2.89
+  truth:1.55
+  users:1.55
+  btc:1.54
+  story:1.39
+  efforts:1.39
+  malleability:1.39
+  personally:1.39
+  explanations:1.39
+
+Topic 2:
+  thread:1.98
+  cnn:1.55
+  clearnet warning:1.35
+  spreading:1.23
+  original:1.23
+  fucking:1.22
+  wow:1.22
+  banned:1.22
+  forum:1.22
+  theories:1.22
+
+Topic 3:
+  cnn:1.44
+  clearnet warning:1.11
+  article:1.11
+  troll:1.07
+  hilarious:1.07
+  feels:1.07
+  cyrus:1.07
+  finds:1.07
+  itjust:1.07
+  watchingthis:1.07
+
+Topic 4:
+  scam:2.88
+  expert:2.88
+  emptying:1.85
+  fooled:1.85
+  service:1.85
+  blockchain:1.85
+  exist:1.85
+  roads:1.85
+  willingly:1.85
+  scenarios:1.85
+
+K: 5, Log-Likelihood: -1300.250, Alpha: 11.000, Beta: 1.100

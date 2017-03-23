@@ -1,0 +1,61 @@
+Topic 0:
+  newbie:1.86
+  vendor:1.58
+  offer:1.30
+  powsub:1.23
+  bro:0.78
+  account:0.78
+  moment:0.78
+  days:0.78
+  gon:0.78
+  registered:0.78
+
+Topic 1:
+  vendor:1.39
+  newbie:1.06
+  powsub:0.85
+  offer:0.80
+  silkkitie:0.73
+  market:0.66
+  access:0.62
+  june:0.55
+  quote:0.55
+  post:0.54
+
+Topic 2:
+  vendor:1.17
+  silkkitie:0.88
+  access:0.62
+  market:0.61
+  customers:0.60
+  understand:0.46
+  newbie:0.45
+  captain:0.44
+  verified:0.43
+  step:0.43
+
+Topic 3:
+  vendor:1.11
+  silkkitie:0.82
+  access:0.75
+  customers:0.58
+  market:0.57
+  captain:0.48
+  understand:0.46
+  newbie:0.44
+  post:0.42
+  verified:0.41
+
+Topic 4:
+  customers:1.46
+  silkkitie:0.91
+  community:0.90
+  product:0.89
+  subutex:0.88
+  prices:0.88
+  people:0.88
+  step:0.88
+  vendor:0.75
+  access:0.55
+
+K: 5, Log-Likelihood: -551.399, Alpha: 11.000, Beta: 1.100

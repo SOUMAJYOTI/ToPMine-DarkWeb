@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:0.24
+  key:0.16
+  tz:0.16
+  block:0.16
+  hbm:0.16
+  tlcm:0.16
+  public:0.16
+  yb:0.16
+  pgp key:0.08
+  good:0.08
+
+Topic 1:
+  pgp:0.24
+  public:0.16
+  tlcm:0.16
+  yb:0.16
+  tz:0.16
+  hbm:0.16
+  block:0.16
+  key:0.16
+  true:0.08
+  pgp key:0.08
+
+Topic 2:
+  pgp:0.24
+  key:0.16
+  hbm:0.16
+  tlcm:0.16
+  public:0.16
+  yb:0.16
+  block:0.16
+  tz:0.16
+  ozaqifehchmy:0.08
+  wr:0.08
+
+Topic 3:
+  pgp:0.24
+  hbm:0.16
+  yb:0.16
+  public:0.16
+  tz:0.16
+  block:0.16
+  key:0.16
+  tlcm:0.16
+  dsxxyegfxa:0.08
+  um:0.08
+
+Topic 4:
+  pgp:0.24
+  tz:0.16
+  block:0.16
+  yb:0.16
+  tlcm:0.16
+  key:0.16
+  hbm:0.16
+  public:0.16
+  good:0.08
+  true:0.08
+
+K: 5, Log-Likelihood: -414.768, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  key:7.80
+  multisig:7.01
+  market:6.97
+  private:4.94
+  address:4.33
+  seller:4.25
+  buyer:4.13
+  november:3.16
+  avengers:3.12
+  quote:2.97
+
+Topic 1:
+  key:19.46
+  private:11.61
+  buyer:10.96
+  multisig:10.42
+  market:8.88
+  seller:8.45
+  address:8.34
+  alphabet:5.86
+  coins:3.77
+  public:3.76
+
+Topic 2:
+  love:18.59
+  avengers:16.83
+  marketplace:4.95
+  guy:3.50
+  watch:3.49
+  vendor:3.17
+  account:3.06
+  front:2.97
+  forums:2.97
+  link:2.97
+
+Topic 3:
+  recommended:27.98
+  earn:26.98
+  product:21.14
+  customer:19.98
+  bought:18.98
+  dr:15.98
+  vendor:13.09
+  market:11.78
+  level:9.98
+  commission:8.98
+
+Topic 4:
+  key:38.67
+  private:31.39
+  buyer:26.84
+  multisig:18.50
+  address:17.27
+  seller:17.23
+  market:8.42
+  item:6.99
+  generated:6.82
+  keys:6.81
+
+K: 5, Log-Likelihood: -6783.176, Alpha: 11.000, Beta: 1.100

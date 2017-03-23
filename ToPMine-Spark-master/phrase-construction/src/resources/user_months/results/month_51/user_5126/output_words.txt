@@ -1,0 +1,61 @@
+Topic 0:
+  stealthbomber:0.40
+  thread:0.40
+  mdma:0.40
+  pm:0.40
+  respond:0.40
+  account:0.40
+  yeah:0.40
+  damn:0.40
+  quote:0.40
+  created:0.40
+
+Topic 1:
+  created:0.40
+  respond:0.40
+  account:0.40
+  pmfyi:0.40
+  mdma:0.40
+  pm:0.40
+  yeah:0.40
+  quote:0.40
+  stealthbomber:0.40
+  damn:0.40
+
+Topic 2:
+  amdm:0.41
+  pmfyi:0.40
+  damn:0.40
+  mdma:0.40
+  account:0.40
+  thread:0.40
+  respond:0.40
+  stealthbomber:0.40
+  quote:0.40
+  created:0.40
+
+Topic 3:
+  damn:0.40
+  created:0.40
+  stealthbomber:0.40
+  account:0.40
+  quote:0.40
+  yeah:0.40
+  thread:0.40
+  pm:0.40
+  pmfyi:0.40
+  respond:0.40
+
+Topic 4:
+  yeah:0.40
+  quote:0.40
+  pmfyi:0.40
+  pm:0.40
+  mdma:0.40
+  amdm:0.40
+  thread:0.40
+  created:0.40
+  damn:0.40
+  respond:0.40
+
+K: 5, Log-Likelihood: -59.638, Alpha: 11.000, Beta: 1.100

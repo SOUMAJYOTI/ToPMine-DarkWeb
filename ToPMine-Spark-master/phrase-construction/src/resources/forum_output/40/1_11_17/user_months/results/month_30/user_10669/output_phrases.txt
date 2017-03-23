@@ -1,0 +1,61 @@
+Topic 0:
+  arrived:4.54
+  transferred:3.67
+  ordered:3.67
+  amount btc:3.67
+  works:3.67
+  minor:3.67
+  yesterday hours:3.67
+  helping:3.45
+  guyver november:3.45
+  ami:3.44
+
+Topic 1:
+  agora:7.30
+  login:4.71
+  logging:4.55
+  code:4.51
+  time:4.50
+  admin:3.76
+  successful:3.76
+  seized:3.74
+  trouble btc:3.74
+  cookiemonstah:3.56
+
+Topic 2:
+  dont le suspect:7.70
+  quote godofwar december:6.15
+  le hack:4.63
+  confirmed le hack:4.63
+  fed:3.81
+  agorale:3.81
+  suspect le hack:3.81
+  agra:3.81
+  syllogism:3.81
+  le suspect:3.81
+
+Topic 3:
+  le:11.95
+  playing:3.92
+  feel:3.82
+  surprised:3.82
+  smaller:3.82
+  pulls:3.82
+  pathetic:3.82
+  bring:3.82
+  thought:3.82
+  pile:3.82
+
+Topic 4:
+  fixing:5.77
+  heat:3.82
+  heads:3.82
+  irrelevant:3.82
+  shoulders:3.82
+  sign:3.82
+  forgot:3.82
+  problems:3.82
+  server:3.82
+  assume:3.82
+
+K: 5, Log-Likelihood: -3701.388, Alpha: 11.000, Beta: 1.100

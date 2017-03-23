@@ -1,0 +1,61 @@
+Topic 0:
+  size:0.49
+  dice:0.41
+  data center:0.40
+  leaks:0.32
+  constant rate:0.32
+  remote viewer:0.32
+  system:0.24
+  assume:0.24
+  jpeg:0.24
+  network:0.24
+
+Topic 1:
+  size:0.48
+  dice:0.41
+  data center:0.40
+  remote viewer:0.32
+  leaks:0.32
+  constant rate:0.32
+  system:0.24
+  jpeg:0.24
+  assume:0.24
+  network:0.24
+
+Topic 2:
+  size:0.48
+  dice:0.41
+  data center:0.40
+  leaks:0.32
+  remote viewer:0.32
+  constant rate:0.32
+  assume:0.24
+  jpeg:0.24
+  system:0.24
+  network:0.24
+
+Topic 3:
+  size:0.49
+  dice:0.41
+  data center:0.40
+  constant rate:0.32
+  remote viewer:0.32
+  leaks:0.32
+  network:0.24
+  system:0.24
+  jpeg:0.24
+  assume:0.24
+
+Topic 4:
+  size:0.50
+  data center:0.42
+  dice:0.38
+  remote viewer:0.33
+  constant rate:0.33
+  leaks:0.33
+  network:0.25
+  assume:0.25
+  jpeg:0.25
+  system:0.25
+
+K: 5, Log-Likelihood: -816.185, Alpha: 11.000, Beta: 1.100

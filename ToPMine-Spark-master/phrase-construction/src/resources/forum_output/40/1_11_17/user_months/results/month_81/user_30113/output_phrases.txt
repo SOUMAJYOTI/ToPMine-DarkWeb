@@ -1,0 +1,61 @@
+Topic 0:
+  good:5.51
+  quote bubbles:4.66
+  bubbs:3.68
+  luck:2.63
+  bath:2.61
+  man:2.44
+  opening:2.44
+  looked:2.44
+  real:2.44
+  isbubbs:2.44
+
+Topic 1:
+  waste time:12.63
+  site youve:4.15
+  minutes:4.15
+  complete:4.15
+  source:4.15
+  bother:4.15
+  register:4.15
+  precisely:4.15
+  spent:4.15
+  screen:4.15
+
+Topic 2:
+  top:4.97
+  hoof hearted pmquote bubbles:4.88
+  bubbles:2.94
+  cluelaw enforcement officer jeez:2.69
+  leo aint:2.54
+  bubbles hiding:2.48
+  quote bubbles pmquote:2.48
+  pmquote:2.47
+  stick:2.45
+  user:2.45
+
+Topic 3:
+  hoof hearted pmquote bubbles:2.61
+  speed:2.37
+  coke:2.37
+  warez:2.37
+  meth:2.37
+  vendor:2.37
+  sell:2.37
+  accounts:2.37
+  weed:2.37
+  acid:2.37
+
+Topic 4:
+  amquote:4.89
+  quote:3.84
+  themajesticgarden pmlol dont:3.57
+  hoof hearted pmquote bubbles:3.57
+  dodongo:2.96
+  marketplace:2.54
+  bubbles:2.53
+  coy:2.38
+  elaborating:2.38
+  ive:2.38
+
+K: 5, Log-Likelihood: -2172.178, Alpha: 11.000, Beta: 1.100

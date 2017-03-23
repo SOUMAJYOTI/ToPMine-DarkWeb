@@ -1,0 +1,61 @@
+Topic 0:
+  bug:3.21
+  people problem:2.92
+  exit:2.43
+  admin:2.10
+  suddenly:2.10
+  fuck:2.10
+  unreal:2.10
+  dnm:2.10
+  communities:2.10
+  reddit:2.10
+
+Topic 1:
+  round:3.33
+  balance:3.15
+  pulling:2.81
+  mystic:2.79
+  remaining:2.09
+  existence:2.09
+  lucky:2.09
+  warm:2.09
+  fuzzy:2.09
+  fubar:2.09
+
+Topic 2:
+  deposit:3.39
+  mailboxes:2.09
+  chase:2.09
+  temporary problems:2.09
+  money site:2.09
+  days:2.09
+  letting:2.09
+  fixed:2.09
+  ridiculous:2.09
+  deposits:2.09
+
+Topic 3:
+  quote:3.28
+  june:3.27
+  team:3.20
+  patience:3.18
+  working:3.18
+  problems:3.17
+  experiencing:3.17
+  temporary site:3.17
+  apologize:3.16
+  resolved:3.16
+
+Topic 4:
+  dont:3.40
+  fucking:3.23
+  scams:3.23
+  highest:3.22
+  survived:3.22
+  history:3.22
+  year:3.22
+  error:3.22
+  paranoid:3.21
+  coins:3.03
+
+K: 5, Log-Likelihood: -1757.272, Alpha: 11.000, Beta: 1.100

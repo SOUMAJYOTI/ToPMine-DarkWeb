@@ -1,0 +1,61 @@
+Topic 0:
+  order:1.92
+  electron:1.13
+  sign:1.02
+  market:0.95
+  large:0.75
+  xd:0.75
+  complicated:0.75
+  coins:0.75
+  sized:0.75
+  haha:0.75
+
+Topic 1:
+  market:1.37
+  js:1.06
+  sign:1.02
+  code:1.00
+  locally:0.99
+  evo:0.90
+  quote:0.83
+  electron:0.68
+  february:0.66
+  coinb:0.60
+
+Topic 2:
+  sign:1.70
+  electron:1.25
+  js:1.06
+  locally:0.95
+  order:0.89
+  transactions:0.88
+  coinb:0.85
+  market:0.81
+  managed:0.57
+  quote:0.57
+
+Topic 3:
+  evo:2.38
+  code:2.38
+  market:1.97
+  february:1.27
+  quote:0.98
+  markets:0.84
+  locally:0.67
+  sign:0.66
+  open:0.62
+  modify:0.61
+
+Topic 4:
+  evo:3.03
+  code:2.90
+  market:1.90
+  february:1.40
+  quote:1.02
+  markets:0.92
+  deal:0.73
+  colors:0.73
+  didnt:0.72
+  today:0.72
+
+K: 5, Log-Likelihood: -806.869, Alpha: 11.000, Beta: 1.100

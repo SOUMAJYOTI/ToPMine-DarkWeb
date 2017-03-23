@@ -1,0 +1,61 @@
+Topic 0:
+  bit:1.96
+  thinking:1.76
+  drives:0.91
+  backdoor:0.91
+  erase:0.91
+  dont:0.91
+  samsung:0.91
+  nasties:0.90
+  provided:0.90
+  elaborate:0.90
+
+Topic 1:
+  fleeced:1.85
+  scam missy:1.83
+  members:1.70
+  coin:1.70
+  people panacea:1.69
+  repeatedly:1.67
+  people:1.54
+  jb:0.92
+  hey:0.91
+  market:0.88
+
+Topic 2:
+  snowdens:2.90
+  day:1.76
+  ssd:1.73
+  code:1.40
+  companies:1.40
+  support:1.40
+  embedding:1.40
+  wikis:1.40
+  sitebut:1.40
+  info:1.40
+
+Topic 3:
+  tor:2.80
+  months:2.77
+  shrooms:1.37
+  guardian:1.31
+  calm:1.31
+  de:1.31
+  combining:1.31
+  remember:1.31
+  vpn:1.31
+  activity:1.31
+
+Topic 4:
+  btc:2.70
+  multi:2.70
+  escrow:2.70
+  sig:2.69
+  cannabis:2.69
+  people:2.26
+  panacea:2.16
+  people panacea:2.13
+  coin:2.11
+  repeatedly:2.10
+
+K: 5, Log-Likelihood: -1256.567, Alpha: 11.000, Beta: 1.100

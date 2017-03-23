@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:0.42
+  problem:0.40
+  months:0.40
+  reduction:0.21
+  referring:0.21
+  purchasing:0.21
+  helps:0.21
+  blog:0.21
+  leave:0.21
+  closed:0.21
+
+Topic 1:
+  months:0.41
+  problem:0.41
+  vendors:0.40
+  curious:0.20
+  telling:0.20
+  times:0.20
+  logging:0.20
+  passwords:0.20
+  incorrect:0.20
+  change:0.20
+
+Topic 2:
+  problem:0.41
+  months:0.41
+  vendors:0.41
+  logging:0.20
+  log:0.20
+  register:0.20
+  user:0.20
+  times:0.20
+  change:0.20
+  curious:0.20
+
+Topic 3:
+  vendors:0.42
+  problem:0.40
+  months:0.40
+  blog:0.21
+  based:0.21
+  referring:0.21
+  reduction:0.21
+  find:0.21
+  market market:0.21
+  harm:0.21
+
+Topic 4:
+  months:0.42
+  problem:0.41
+  vendors:0.40
+  upgrade:0.21
+  log:0.21
+  user:0.21
+  telling:0.21
+  curious:0.21
+  times:0.21
+  jebusite:0.21
+
+K: 5, Log-Likelihood: -114.024, Alpha: 11.000, Beta: 1.100

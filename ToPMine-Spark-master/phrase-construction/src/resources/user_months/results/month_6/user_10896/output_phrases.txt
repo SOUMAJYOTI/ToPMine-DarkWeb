@@ -1,0 +1,61 @@
+Topic 0:
+  otr:0.16
+  icq:0.16
+  youll:0.08
+  transport:0.08
+  map:0.08
+  communicate:0.08
+  instant:0.08
+  sign:0.08
+  anonymously:0.08
+  secure:0.00
+
+Topic 1:
+  otr:0.16
+  icq:0.16
+  transport:0.08
+  youll:0.08
+  map:0.08
+  instant:0.08
+  communicate:0.08
+  anonymously:0.08
+  sign:0.08
+  secure:0.00
+
+Topic 2:
+  icq:0.16
+  otr:0.16
+  communicate:0.08
+  instant:0.08
+  anonymously:0.08
+  sign:0.08
+  map:0.08
+  transport:0.08
+  youll:0.08
+  secure:0.00
+
+Topic 3:
+  otr:0.16
+  icq:0.16
+  youll:0.08
+  transport:0.08
+  communicate:0.08
+  anonymously:0.08
+  instant:0.08
+  sign:0.08
+  map:0.08
+  secure:0.00
+
+Topic 4:
+  icq:0.16
+  otr:0.16
+  sign:0.08
+  anonymously:0.08
+  instant:0.08
+  map:0.08
+  communicate:0.08
+  youll:0.08
+  transport:0.08
+  secure:0.00
+
+K: 5, Log-Likelihood: -10.095, Alpha: 11.000, Beta: 1.100

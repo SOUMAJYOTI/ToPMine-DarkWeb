@@ -1,0 +1,61 @@
+Topic 0:
+  message:25.82
+  decrypt:14.08
+  key:12.36
+  editor:10.14
+  import:9.65
+  pgp:8.22
+  pm:6.71
+  zx:6.66
+  account:6.48
+  edit:6.39
+
+Topic 1:
+  key:45.88
+  private:18.20
+  public:16.87
+  post:12.26
+  difference:5.76
+  managed:5.75
+  signature:4.85
+  quote:3.88
+  forum:3.71
+  export:3.70
+
+Topic 2:
+  keys:8.38
+  email:7.97
+  linux:2.74
+  message:2.69
+  tor:2.66
+  answer:2.45
+  encrypted:2.29
+  gnu:2.07
+  lc:2.05
+  zb:2.05
+
+Topic 3:
+  key:15.16
+  message:10.79
+  decrypt:5.75
+  pgp:3.57
+  pip:3.03
+  import:2.73
+  gnupg:2.26
+  hqima:2.24
+  version:2.13
+  encrypt:2.13
+
+Topic 4:
+  key:10.93
+  file:10.77
+  click:10.57
+  program:9.64
+  generate:6.79
+  keys:6.68
+  hit:5.71
+  download:4.97
+  manage:4.80
+  seperate:3.89
+
+K: 5, Log-Likelihood: -9302.842, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  march:14.24
+  pmquote:9.51
+  drugs:9.19
+  war:9.08
+  armed:8.35
+  godofwar:5.90
+  funds:5.42
+  shelter:5.34
+  withdraw:5.32
+  remaining:5.32
+
+Topic 1:
+  march:4.66
+  find:3.99
+  quote:3.46
+  pmquote:1.98
+  war:1.84
+  cop:1.57
+  vacation:1.45
+  kill:1.40
+  godofwar:1.17
+  le:1.15
+
+Topic 2:
+  days:10.91
+  held:8.91
+  icss:8.91
+  weeks:8.91
+  anonymous:8.91
+  ago:6.40
+  find:6.28
+  conference:5.91
+  congress:5.91
+  ec:5.91
+
+Topic 3:
+  march:7.72
+  fuck:6.40
+  quote:4.66
+  war:4.02
+  cop:3.82
+  families:3.07
+  idea:3.06
+  pmquote:2.73
+  amhaha:2.67
+  slaughter:2.67
+
+Topic 4:
+  hub:12.90
+  services:8.55
+  criminal:7.89
+  hidden:7.79
+  zaphod:6.40
+  law:6.39
+  talking:5.90
+  dont:5.13
+  market:4.89
+  day:4.33
+
+K: 5, Log-Likelihood: -5592.361, Alpha: 11.000, Beta: 1.100

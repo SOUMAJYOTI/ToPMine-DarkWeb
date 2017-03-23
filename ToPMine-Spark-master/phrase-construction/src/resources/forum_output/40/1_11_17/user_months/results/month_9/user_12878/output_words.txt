@@ -1,0 +1,61 @@
+Topic 0:
+  message:0.60
+  german:0.41
+  board:0.40
+  intruders:0.40
+  ukqg:0.20
+  quote:0.20
+  rogtdex:0.20
+  craven:0.20
+  roxe:0.20
+  cixaw:0.20
+
+Topic 1:
+  message:0.58
+  intruders:0.40
+  board:0.40
+  german:0.40
+  offline:0.20
+  outlaw:0.20
+  forum:0.20
+  puqcpoelsr:0.20
+  pip:0.20
+  april:0.20
+
+Topic 2:
+  message:0.59
+  german:0.40
+  intruders:0.40
+  board:0.40
+  forum:0.20
+  outlaw:0.20
+  offline:0.20
+  data:0.20
+  spit:0.20
+  shipping:0.20
+
+Topic 3:
+  message:0.59
+  german:0.40
+  board:0.40
+  intruders:0.40
+  offline:0.20
+  forum:0.20
+  outlaw:0.20
+  qcz:0.20
+  ja:0.20
+  frk:0.20
+
+Topic 4:
+  message:0.64
+  intruders:0.40
+  board:0.39
+  german:0.39
+  expletives:0.20
+  april:0.20
+  hcmh:0.20
+  dutknjitlwl:0.20
+  hqima:0.20
+  zaraavqi:0.20
+
+K: 5, Log-Likelihood: -702.403, Alpha: 11.000, Beta: 1.100

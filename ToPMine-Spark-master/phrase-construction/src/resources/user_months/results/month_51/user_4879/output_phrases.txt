@@ -1,0 +1,61 @@
+Topic 0:
+  btc:0.41
+  wallet:0.40
+  balance:0.40
+  account:0.40
+  funds:0.40
+  investigating:0.29
+  stating:0.29
+  arc:0.29
+  update:0.29
+  admin:0.29
+
+Topic 1:
+  account:0.40
+  balance:0.40
+  btc:0.40
+  wallet:0.39
+  funds:0.39
+  arc:0.30
+  temporarily:0.30
+  july:0.30
+  update:0.30
+  problem:0.30
+
+Topic 2:
+  account:0.42
+  btc:0.42
+  funds:0.42
+  wallet:0.42
+  balance:0.42
+  investigating:0.28
+  server:0.28
+  quote:0.28
+  dardush:0.28
+  update:0.28
+
+Topic 3:
+  funds:0.53
+  account:0.53
+  wallet:0.53
+  balance:0.53
+  btc:0.53
+  unable:0.25
+  vendor:0.25
+  multiply:0.25
+  plugs:0.25
+  counting:0.25
+
+Topic 4:
+  btc:0.45
+  wallet:0.45
+  funds:0.45
+  balance:0.45
+  account:0.44
+  problem:0.27
+  resolve:0.27
+  server:0.27
+  responded:0.27
+  dardush:0.27
+
+K: 5, Log-Likelihood: -194.585, Alpha: 11.000, Beta: 1.100

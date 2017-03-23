@@ -1,0 +1,61 @@
+Topic 0:
+  darknet heroes league send:0.71
+  referred link:0.67
+  october:0.61
+  poppasmurf:0.61
+  pm appreciated:0.61
+  pmdoes:0.61
+  quote:0.61
+  ditto:0.60
+  reviews:0.57
+  good:0.56
+
+Topic 1:
+  referred link:0.72
+  darknet heroes league send:0.70
+  ditto:0.56
+  scarce:0.56
+  reviews:0.56
+  pm appreciated:0.56
+  poppasmurf:0.56
+  vendors:0.55
+  pmdoes:0.55
+  good:0.55
+
+Topic 2:
+  darknet heroes league send:0.69
+  referred link:0.68
+  vendors:0.60
+  dhl:0.60
+  reviews:0.59
+  good:0.59
+  scarce:0.58
+  october:0.54
+  pmdoes:0.54
+  quote:0.54
+
+Topic 3:
+  darknet heroes league send:0.70
+  referred link:0.69
+  scarce:0.57
+  dhl:0.57
+  good:0.56
+  ditto:0.56
+  quote:0.56
+  reviews:0.56
+  poppasmurf:0.55
+  vendors:0.55
+
+Topic 4:
+  darknet heroes league send:0.71
+  referred link:0.70
+  october:0.53
+  pm appreciated:0.53
+  quote:0.53
+  pmdoes:0.52
+  poppasmurf:0.52
+  ditto:0.52
+  good:0.51
+  dhl:0.51
+
+K: 5, Log-Likelihood: -204.631, Alpha: 11.000, Beta: 1.100

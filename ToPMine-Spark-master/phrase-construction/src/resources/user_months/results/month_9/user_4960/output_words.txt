@@ -1,0 +1,61 @@
+Topic 0:
+  people:1.57
+  question:0.84
+  assuming:0.82
+  ways:0.76
+  horrible:0.45
+  real:0.45
+  harm:0.45
+  totally:0.45
+  wondering:0.45
+  protecting:0.45
+
+Topic 1:
+  people:2.79
+  ways:1.27
+  assuming:1.27
+  common:0.58
+  doomed:0.57
+  sense:0.57
+  doxxbin:0.57
+  shocking:0.57
+  exploitation:0.57
+  deal:0.57
+
+Topic 2:
+  linking:1.64
+  tons:1.62
+  tips:1.26
+  ton:1.26
+  pm:1.26
+  read:1.26
+  cheer:1.26
+  good:1.25
+  rhett:1.25
+  pmwow:1.25
+
+Topic 3:
+  people:2.77
+  ways:1.39
+  assuming:1.30
+  revenge:0.61
+  broken:0.60
+  worse:0.60
+  person:0.60
+  thing:0.60
+  stumbled:0.60
+  missed:0.60
+
+Topic 4:
+  question:1.04
+  tons:0.72
+  people:0.72
+  linking:0.69
+  assuming:0.49
+  ways:0.45
+  work:0.37
+  feel:0.37
+  quote:0.37
+  problem:0.37
+
+K: 5, Log-Likelihood: -610.400, Alpha: 11.000, Beta: 1.100

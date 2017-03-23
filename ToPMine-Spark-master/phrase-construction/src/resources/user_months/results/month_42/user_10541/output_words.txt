@@ -1,0 +1,61 @@
+Topic 0:
+  bridges:18.39
+  tor:15.01
+  network:12.09
+  wallet:11.36
+  tails:10.37
+  click:8.01
+  password:6.79
+  connecting:6.42
+  obis:6.03
+  screen:5.74
+
+Topic 1:
+  bridge:6.38
+  tattoo:5.76
+  traffic:5.03
+  time:4.59
+  obfsproxy:3.84
+  find:3.55
+  mnemonic:3.45
+  prison:3.02
+  local:2.97
+  money:2.86
+
+Topic 2:
+  tails:22.52
+  save:9.06
+  file:6.91
+  saved:6.80
+  program:5.71
+  tor:5.37
+  time:5.13
+  key:4.96
+  bridge:4.17
+  created:4.14
+
+Topic 3:
+  jondonym:9.94
+  mix:7.98
+  mixes:7.93
+  operators:6.98
+  cascades:5.98
+  users:5.98
+  quote:5.76
+  traffic:5.30
+  tor:5.22
+  client:5.01
+
+Topic 4:
+  currency:19.91
+  march:19.70
+  btc:13.33
+  time:12.66
+  digital:11.76
+  superseded:10.87
+  amquote:9.93
+  sldk:8.92
+  gold:8.90
+  bitcoin:8.84
+
+K: 5, Log-Likelihood: -10457.454, Alpha: 11.000, Beta: 1.100

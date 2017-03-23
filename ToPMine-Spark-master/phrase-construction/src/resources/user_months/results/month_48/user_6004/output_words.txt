@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins:4.52
+  quote:4.51
+  june:4.30
+  buy:3.83
+  money:3.33
+  lsd:3.04
+  pay:2.40
+  iru:2.27
+  summ:2.06
+  love:2.00
+
+Topic 1:
+  lsd:7.08
+  june:6.13
+  iru:5.39
+  summ:4.75
+  time:4.50
+  quote:3.64
+  nice:2.25
+  rush:1.86
+  amhave:1.79
+  safe:1.75
+
+Topic 2:
+  wallet:20.85
+  bitcoins:13.99
+  learn:10.97
+  suggestions:5.85
+  sandstorm:5.85
+  scam:5.85
+  online:5.85
+  coins:3.32
+  address:3.31
+  gpg:3.28
+
+Topic 3:
+  nice:9.74
+  lsd:8.34
+  time:5.83
+  quality:5.02
+  store:4.61
+  half:4.55
+  accurately:4.53
+  highly:4.51
+  check:4.50
+  gammagoblins:4.49
+
+Topic 4:
+  lsd:5.48
+  june:4.85
+  pay:4.37
+  summ:4.28
+  money:4.10
+  quote:3.39
+  iru:3.26
+  love:2.70
+  time:2.50
+  buy:2.35
+
+K: 5, Log-Likelihood: -2902.073, Alpha: 11.000, Beta: 1.100

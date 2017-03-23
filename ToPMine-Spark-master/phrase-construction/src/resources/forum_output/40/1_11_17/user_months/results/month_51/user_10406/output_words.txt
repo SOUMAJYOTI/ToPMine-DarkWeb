@@ -1,0 +1,61 @@
+Topic 0:
+  settings:4.77
+  write:3.04
+  day:2.73
+  send:2.37
+  info:2.36
+  disabling:2.36
+  future:2.36
+  keylogging:2.36
+  prevented:2.36
+  option:2.36
+
+Topic 1:
+  windows:2.79
+  os:1.39
+  settings:1.12
+  data:1.09
+  day:0.93
+  dn:0.82
+  cortana:0.73
+  typing:0.69
+  keylogger:0.55
+  write:0.52
+
+Topic 2:
+  microsoft:30.76
+  telemetry:19.91
+  data:11.80
+  nsatc:6.91
+  servers:4.91
+  windows:4.36
+  comi:3.91
+  footprintpredict:3.91
+  transmitted:3.91
+  social:3.91
+
+Topic 3:
+  told:5.77
+  club:5.77
+  grateful:4.78
+  doesnt:3.28
+  august:3.08
+  write:2.92
+  browser:2.80
+  thought:2.77
+  night:2.77
+  started:2.77
+
+Topic 4:
+  windows:2.67
+  settings:1.78
+  data:1.31
+  os:1.05
+  typing:0.96
+  cortana:0.79
+  day:0.77
+  dn:0.65
+  microsoft:0.54
+  collection:0.53
+
+K: 5, Log-Likelihood: -2909.964, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  market:8.60
+  albert:8.53
+  dont:5.97
+  time:5.81
+  bugs:4.97
+  lot:3.92
+  honest:2.88
+  secure:2.88
+  forums:2.79
+  good:2.76
+
+Topic 1:
+  market:5.63
+  reported:4.94
+  forum:4.93
+  account:4.69
+  send:3.88
+  key:3.49
+  vendor:3.44
+  support:3.29
+  issues:3.16
+  pm:2.96
+
+Topic 2:
+  ports:5.92
+  time:4.83
+  tails:4.10
+  firewall:3.92
+  local:3.92
+  route:3.92
+  client:3.92
+  default:3.92
+  tor:3.45
+  wait:2.71
+
+Topic 3:
+  market:4.25
+  premature:3.98
+  good:3.46
+  contact:3.10
+  sunwu:2.67
+  pip:2.66
+  team:2.63
+  correct:2.62
+  join:1.91
+  bug:1.90
+
+Topic 4:
+  sunwu:3.60
+  people:2.57
+  vendor:1.94
+  genuine:1.89
+  universe:1.89
+  le:1.89
+  february:1.85
+  network:1.29
+  quote:1.14
+  replied:1.11
+
+K: 5, Log-Likelihood: -3919.460, Alpha: 11.000, Beta: 1.100

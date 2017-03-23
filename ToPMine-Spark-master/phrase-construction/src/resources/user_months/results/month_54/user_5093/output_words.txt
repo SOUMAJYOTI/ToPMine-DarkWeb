@@ -1,0 +1,61 @@
+Topic 0:
+  direct:9.09
+  vendors:7.27
+  august:5.98
+  forum:4.27
+  market:4.23
+  tmg:4.20
+  trusted:3.82
+  assurance:3.82
+  man:3.82
+  centralized:3.82
+
+Topic 1:
+  markets:7.39
+  ago:5.54
+  agra:5.37
+  safe:3.92
+  news:3.92
+  idk:3.92
+  things:3.92
+  guess:3.92
+  deals:3.49
+  agora:3.39
+
+Topic 2:
+  canada:4.32
+  markets:3.30
+  love:3.15
+  quote:3.13
+  halfpint:3.00
+  moment:2.94
+  abraham:2.90
+  specific:2.90
+  opsec:2.89
+  refrain:2.89
+
+Topic 3:
+  ross:23.92
+  people:16.57
+  company:11.92
+  individual:11.92
+  time:5.92
+  addition:5.92
+  human:5.92
+  violence:5.92
+  corporations:5.92
+  bulger:5.92
+
+Topic 4:
+  days:3.42
+  markets:2.92
+  hope:2.58
+  btc:2.57
+  halfpint:1.76
+  quote:1.70
+  direct:1.63
+  figure:1.62
+  withdrew:1.61
+  august:1.60
+
+K: 5, Log-Likelihood: -5426.506, Alpha: 11.000, Beta: 1.100

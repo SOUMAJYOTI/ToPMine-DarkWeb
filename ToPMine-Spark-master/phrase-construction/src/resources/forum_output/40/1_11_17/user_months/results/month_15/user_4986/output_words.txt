@@ -1,0 +1,61 @@
+Topic 0:
+  fine:4.71
+  friends:3.89
+  letter:3.89
+  love:3.83
+  nice:3.83
+  paper:3.69
+  sending:3.54
+  send:3.14
+  note:2.81
+  safe:2.70
+
+Topic 1:
+  envelope:6.76
+  send:3.19
+  card:2.91
+  place:2.91
+  cards:2.31
+  paper:2.04
+  inside:1.98
+  store:1.98
+  blotter:1.83
+  magazine:1.81
+
+Topic 2:
+  address:13.54
+  tabs:8.38
+  clear:5.81
+  gloves:5.33
+  return:5.14
+  sending:3.48
+  dont:3.27
+  happy:3.09
+  friend:3.06
+  stamp:2.94
+
+Topic 3:
+  card:12.92
+  place:7.03
+  cards:5.63
+  envelope:5.03
+  middle:4.75
+  tape:4.68
+  touch:4.25
+  ziploc:3.03
+  hand:3.03
+  write:3.02
+
+Topic 4:
+  address:13.12
+  opposed:7.92
+  random:5.35
+  friend:4.75
+  imagine:4.54
+  business:4.54
+  personal:4.54
+  things:3.92
+  mailing:3.92
+  mail:3.92
+
+K: 5, Log-Likelihood: -3786.422, Alpha: 11.000, Beta: 1.100

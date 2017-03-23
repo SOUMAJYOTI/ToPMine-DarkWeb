@@ -1,0 +1,61 @@
+Topic 0:
+  good:3.23
+  bitchin:3.22
+  bob:3.21
+  reading:2.15
+  trolltergeist offer:2.15
+  brings:2.13
+  flashbacks:2.11
+  afford:2.11
+  psd:2.11
+  priceses:2.10
+
+Topic 1:
+  dumpsterbaby:3.33
+  troltergeist:2.29
+  operators:1.63
+  offering:1.63
+  nope:1.63
+  options:1.63
+  plans:1.63
+  easy:1.63
+  quote:1.63
+  payment:1.63
+
+Topic 2:
+  pin protection:5.03
+  btc:3.94
+  password:3.87
+  password protection:3.33
+  check:3.33
+  additional:3.33
+  months:3.33
+  month:3.33
+  deal:3.33
+  regular:3.33
+
+Topic 3:
+  password:3.68
+  incorrect:1.54
+  times:1.54
+  surname:1.54
+  reset:1.54
+  remained:1.54
+  logged:1.54
+  today:1.54
+  multiply:1.54
+  havent:1.17
+
+Topic 4:
+  trust:5.01
+  alfred:5.01
+  easily reached:3.73
+  ill:2.59
+  pip:2.42
+  keys:2.42
+  save:2.42
+  gab:2.42
+  quickness:2.42
+  low prices:2.42
+
+K: 5, Log-Likelihood: -1760.070, Alpha: 11.000, Beta: 1.100

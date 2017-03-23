@@ -1,0 +1,61 @@
+Topic 0:
+  astoria:1.35
+  tor client:0.69
+  security:0.66
+  tor:0.64
+  traffic:0.55
+  circuits:0.53
+  researchers:0.42
+  designed beat:0.42
+  threat:0.41
+  relays:0.41
+
+Topic 1:
+  astoria:1.09
+  security:0.71
+  tor:0.70
+  tor client:0.67
+  circuits:0.55
+  traffic:0.54
+  relays:0.41
+  designed beat:0.41
+  threat:0.41
+  researchers:0.41
+
+Topic 2:
+  astoria:1.36
+  security:0.77
+  tor client:0.73
+  tor:0.72
+  circuits:0.60
+  traffic:0.57
+  relays:0.44
+  tor network:0.43
+  researchers:0.43
+  designed beat:0.43
+
+Topic 3:
+  astoria:0.89
+  security:0.60
+  tor client:0.59
+  tor:0.58
+  traffic:0.50
+  circuits:0.48
+  tor network:0.38
+  threat:0.38
+  researchers:0.38
+  relays:0.38
+
+Topic 4:
+  astoria:1.55
+  tor:0.82
+  tor client:0.79
+  security:0.73
+  circuits:0.61
+  traffic:0.61
+  tor network:0.45
+  threat:0.45
+  designed beat:0.44
+  relays:0.44
+
+K: 5, Log-Likelihood: -1325.762, Alpha: 11.000, Beta: 1.100

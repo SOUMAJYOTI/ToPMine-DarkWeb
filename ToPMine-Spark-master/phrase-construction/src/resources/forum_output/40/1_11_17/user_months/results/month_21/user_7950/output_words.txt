@@ -1,0 +1,61 @@
+Topic 0:
+  litecoin:3.46
+  market:1.51
+  tormarket:1.35
+  accept:1.34
+  quote:1.14
+  thought:0.97
+  question:0.94
+  list:0.92
+  btc:0.89
+  place:0.87
+
+Topic 1:
+  people:3.77
+  troll:3.44
+  forum:3.42
+  cut:2.60
+  question:2.12
+  litecoin:2.09
+  find:1.67
+  runnin:1.53
+  fucking:1.53
+  days:1.53
+
+Topic 2:
+  litecoin:4.83
+  august:3.88
+  accept:3.43
+  list:2.62
+  extensive:1.99
+  comprehensive:1.98
+  marketplaces:1.97
+  complied:1.89
+  amquote:1.69
+  ami:1.49
+
+Topic 3:
+  litecoin:4.26
+  market:1.65
+  accept:1.37
+  thought:1.25
+  sites:1.22
+  quote:1.20
+  tormarket:1.17
+  list:1.01
+  people:0.90
+  bitcoin:0.81
+
+Topic 4:
+  litecoin:3.36
+  accept:1.58
+  market:1.45
+  quote:1.29
+  tormarket:1.21
+  list:1.19
+  thought:1.08
+  sites:0.99
+  hub:0.89
+  evilgrin:0.89
+
+K: 5, Log-Likelihood: -1628.664, Alpha: 11.000, Beta: 1.100

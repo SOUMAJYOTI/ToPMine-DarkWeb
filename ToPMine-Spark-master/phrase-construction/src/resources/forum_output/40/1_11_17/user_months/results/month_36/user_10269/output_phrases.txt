@@ -1,0 +1,61 @@
+Topic 0:
+  fortitude:3.33
+  called:2.15
+  time:2.12
+  town:2.11
+  bears:2.07
+  circle:2.06
+  arctic:2.05
+  polar:2.05
+  sticking:0.94
+  woman:0.94
+
+Topic 1:
+  bitwasp:1.82
+  shouldnt:1.82
+  bitcoin:1.82
+  trust:1.82
+  marketplaces:1.82
+  server:1.81
+  breaking:1.81
+  tsk tsk:1.81
+  rules:1.81
+  coin:1.71
+
+Topic 2:
+  vrc:1.28
+  people:1.12
+  coin:1.10
+  post:1.06
+  delays:0.98
+  ip:0.81
+  market:0.70
+  place:0.70
+  nucleus:0.65
+  user:0.63
+
+Topic 3:
+  message:4.38
+  banned:2.88
+  listing:2.88
+  hour:1.85
+  hub:1.85
+  forum:1.46
+  ban:1.43
+  unban:1.38
+  opium:1.38
+  idea:1.38
+
+Topic 4:
+  fortitude:1.06
+  people:1.01
+  polar:0.84
+  arctic:0.84
+  circle:0.83
+  bears:0.82
+  town:0.77
+  time:0.76
+  nucleus:0.75
+  called:0.73
+
+K: 5, Log-Likelihood: -1563.305, Alpha: 11.000, Beta: 1.100

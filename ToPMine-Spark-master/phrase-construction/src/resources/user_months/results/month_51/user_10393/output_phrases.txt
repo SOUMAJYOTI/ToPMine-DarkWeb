@@ -1,0 +1,61 @@
+Topic 0:
+  laptop worked fine time:0.59
+  fine tails:0.59
+  thing battery item rip:0.59
+  booted laptop tails months:0.58
+  older laptop rejects password:0.58
+  checked capslock rebooted thing:0.58
+  booted tails good work:0.58
+  days broke charging port:0.58
+  password:0.58
+  weeks ago accept persistence:0.58
+
+Topic 1:
+  pallidpallas july:0.82
+  amthis:0.82
+  issue keyboard:0.82
+  button:0.82
+  takes:0.82
+  nominally didnt test extensively:0.82
+  unnoticed:0.81
+  boots vista works fine:0.81
+  fail:0.81
+  ideas caused:0.81
+
+Topic 2:
+  keyboard layout:1.74
+  english:1.31
+  long:0.76
+  potential:0.75
+  site:0.75
+  web:0.75
+  shot:0.75
+  explanation:0.75
+  notification:0.60
+  appliedthe:0.60
+
+Topic 3:
+  days broke charging port:0.58
+  weeks ago accept persistence:0.58
+  booted laptop tails months:0.58
+  password:0.58
+  thing battery item rip:0.57
+  booted tails good work:0.57
+  older laptop rejects password:0.57
+  explain dropped laptop tails:0.57
+  issue:0.57
+  fine tails:0.57
+
+Topic 4:
+  keyboard layout:3.73
+  english:2.22
+  icon:1.04
+  area:1.04
+  switch:1.04
+  layout selected tails greeter:1.03
+  click:1.03
+  applied:1.03
+  selected tails greeter:1.03
+  appliedthe:1.03
+
+K: 5, Log-Likelihood: -715.543, Alpha: 11.000, Beta: 1.100

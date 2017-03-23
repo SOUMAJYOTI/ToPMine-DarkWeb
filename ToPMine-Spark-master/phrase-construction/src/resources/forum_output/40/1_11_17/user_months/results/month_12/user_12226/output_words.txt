@@ -1,0 +1,61 @@
+Topic 0:
+  ja:1.36
+  ei:1.13
+  ll:0.77
+  ett:0.67
+  jos:0.59
+  pystyss:0.59
+  iv:0.51
+  toivottavasti:0.50
+  kapteeni:0.50
+  taas:0.50
+
+Topic 1:
+  ja:1.14
+  ll:0.87
+  ett:0.87
+  ei:0.80
+  oli:0.69
+  iv:0.67
+  jo:0.64
+  kapteeni:0.62
+  pystyss:0.48
+  jos:0.46
+
+Topic 2:
+  siell:2.04
+  se:1.63
+  joskus:1.63
+  oli:1.22
+  jo:1.20
+  kapteeni:1.12
+  ll:1.09
+  iv:1.01
+  tulossa:1.01
+  jotain:0.99
+
+Topic 3:
+  ja:1.80
+  ei:1.21
+  ll:0.79
+  ett:0.71
+  jos:0.63
+  kyll:0.62
+  pystyss:0.60
+  ss:0.54
+  meid:0.53
+  hyv:0.50
+
+Topic 4:
+  ja:2.31
+  ei:1.43
+  juuri:1.23
+  pystyss:1.10
+  jos:1.09
+  ett:0.91
+  toivotaan:0.79
+  btc:0.77
+  vaan:0.76
+  kadonneet:0.49
+
+K: 5, Log-Likelihood: -1334.429, Alpha: 11.000, Beta: 1.100

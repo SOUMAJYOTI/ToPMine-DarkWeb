@@ -1,0 +1,61 @@
+Topic 0:
+  border:0.59
+  allowed:0.54
+  guns:0.46
+  legal:0.38
+  gun:0.37
+  ship:0.36
+  gun pieces:0.35
+  large:0.32
+  fact:0.30
+  citizen:0.30
+
+Topic 1:
+  ya:1.49
+  find:1.48
+  gun:0.95
+  government:0.62
+  humans:0.62
+  scale:0.62
+  friend:0.62
+  sof:0.62
+  terrorism:0.62
+  soldier:0.62
+
+Topic 2:
+  border:0.72
+  allowed:0.58
+  guns:0.55
+  legal:0.43
+  reservations:0.38
+  jump:0.38
+  investigation:0.38
+  pretty:0.38
+  unguarded:0.38
+  close:0.38
+
+Topic 3:
+  allowed:0.58
+  border:0.46
+  guns:0.44
+  gun pieces:0.36
+  ship:0.36
+  gun:0.34
+  legal:0.33
+  brain:0.28
+  vendors:0.28
+  firearm:0.28
+
+Topic 4:
+  times:1.84
+  years:1.84
+  age:1.84
+  sites:1.84
+  buy firearm:1.84
+  state:0.80
+  sell:0.80
+  verify:0.80
+  rules:0.80
+  buying:0.80
+
+K: 5, Log-Likelihood: -696.032, Alpha: 11.000, Beta: 1.100

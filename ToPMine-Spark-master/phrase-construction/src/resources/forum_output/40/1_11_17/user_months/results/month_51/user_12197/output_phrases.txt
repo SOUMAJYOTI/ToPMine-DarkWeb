@@ -1,0 +1,61 @@
+Topic 0:
+  account:5.61
+  funds:4.64
+  kapteeni:3.50
+  refund btc suspend:3.34
+  moderators evidence:3.32
+  investigate case refund:2.45
+  real:2.38
+  quote snik august:2.32
+  money:2.29
+  assuming:2.29
+
+Topic 1:
+  ytt:9.63
+  mutta:5.79
+  positiivisia:3.83
+  etene:3.83
+  eik:3.83
+  asiat:3.83
+  ytt ett:3.83
+  vastaa:3.83
+  isommissa:3.83
+  eiv:3.83
+
+Topic 2:
+  wrong package:7.28
+  read:5.86
+  kapteeni:5.30
+  btc suspend benjomarket:3.84
+  legit:3.84
+  dates:3.84
+  scammer:3.84
+  days:3.84
+  admits packer:3.84
+  turns:3.84
+
+Topic 3:
+  dont:5.76
+  send:5.38
+  read:4.69
+  witch:4.64
+  private:4.64
+  donate:4.55
+  fee:4.55
+  swecon:4.48
+  btc:4.05
+  package:4.03
+
+Topic 4:
+  ett:4.61
+  forum:4.48
+  matter:3.73
+  care:3.67
+  professional:3.16
+  benjo:2.47
+  message:2.47
+  react:2.42
+  contact:2.32
+  norwegiancom:2.32
+
+K: 5, Log-Likelihood: -4441.127, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  phone:0.24
+  cell:0.16
+  years:0.16
+  alert:0.16
+  area:0.16
+  recieved:0.16
+  turned:0.08
+  gps:0.08
+  alerts:0.08
+  state:0.08
+
+Topic 1:
+  phone:0.24
+  recieved:0.16
+  years:0.16
+  cell:0.16
+  alert:0.16
+  area:0.16
+  gps:0.08
+  turned:0.08
+  child:0.08
+  mid:0.08
+
+Topic 2:
+  phone:0.24
+  recieved:0.16
+  cell:0.16
+  years:0.16
+  alert:0.16
+  area:0.16
+  gps:0.08
+  turned:0.08
+  amber:0.08
+  idea:0.08
+
+Topic 3:
+  phone:0.24
+  area:0.16
+  years:0.16
+  alert:0.16
+  recieved:0.16
+  cell:0.16
+  abduction:0.08
+  idea:0.08
+  burner:0.08
+  ago:0.08
+
+Topic 4:
+  phone:0.24
+  alert:0.16
+  area:0.16
+  recieved:0.16
+  cell:0.16
+  years:0.16
+  mid:0.08
+  child:0.08
+  acquired:0.08
+  usage:0.08
+
+K: 5, Log-Likelihood: -48.620, Alpha: 11.000, Beta: 1.100

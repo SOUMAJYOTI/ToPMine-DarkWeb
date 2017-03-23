@@ -1,0 +1,61 @@
+Topic 0:
+  pills:6.91
+  evolution:5.67
+  store:3.82
+  pillfirepharmacy:3.25
+  support:2.96
+  save:2.91
+  listings:2.78
+  klonopin:2.57
+  fast:2.45
+  service:2.42
+
+Topic 1:
+  bitcoin:7.25
+  dont:5.34
+  money:5.31
+  amounts:5.17
+  march:4.87
+  based:4.64
+  mixers:3.66
+  coinjoin:3.64
+  deposit:3.58
+  mixing:3.57
+
+Topic 2:
+  coins:20.07
+  withdraw:9.43
+  mixer:8.98
+  send:8.79
+  address:8.05
+  deposited:5.95
+  deposit:5.21
+  account:3.27
+  automatic:2.95
+  post:2.75
+
+Topic 3:
+  fog:6.28
+  site:3.59
+  bitblender:2.83
+  blockchain:2.71
+  alternative:2.50
+  service:2.36
+  markets:2.27
+  forum:1.97
+  mixing:1.96
+  promise:1.94
+
+Topic 4:
+  quote:6.48
+  thread:5.75
+  nice:4.85
+  forums:4.84
+  drama:4.73
+  february:4.63
+  good:4.07
+  pay:3.64
+  evolution:3.11
+  shouldnt:2.82
+
+K: 5, Log-Likelihood: -4831.523, Alpha: 11.000, Beta: 1.100

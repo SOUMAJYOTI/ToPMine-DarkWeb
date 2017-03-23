@@ -1,0 +1,61 @@
+Topic 0:
+  middleearth:1.53
+  market:0.94
+  eve:0.70
+  ironclad:0.68
+  downtime:0.59
+  blackbank:0.54
+  lol:0.48
+  iirc:0.47
+  evo:0.47
+  isnt:0.47
+
+Topic 1:
+  market:1.19
+  downtime:0.94
+  eve:0.78
+  kinda:0.61
+  evo:0.60
+  blackbank:0.60
+  good:0.59
+  runs:0.58
+  marketplace:0.58
+  middleearth:0.48
+
+Topic 2:
+  market:1.10
+  downtime:0.97
+  eve:0.91
+  evo:0.68
+  marketplace:0.66
+  kinda:0.66
+  runs:0.62
+  blackbank:0.62
+  good:0.62
+  fraud:0.43
+
+Topic 3:
+  market:1.42
+  downtime:1.39
+  eve:0.80
+  runs:0.70
+  marketplace:0.69
+  good:0.68
+  blackbank:0.64
+  kinda:0.63
+  evo:0.62
+  bay:0.49
+
+Topic 4:
+  market:1.36
+  downtime:1.10
+  eve:0.81
+  good:0.66
+  kinda:0.64
+  runs:0.63
+  evo:0.63
+  marketplace:0.61
+  blackbank:0.60
+  crew:0.44
+
+K: 5, Log-Likelihood: -742.996, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  monday:0.45
+  registrations:0.44
+  open:0.43
+  precious:0.28
+  hiss:0.28
+  url:0.22
+  admin:0.22
+  february:0.22
+  sandals:0.22
+  free:0.22
+
+Topic 1:
+  open:0.43
+  monday:0.43
+  registrations:0.43
+  hiss:0.28
+  precious:0.28
+  place:0.23
+  good:0.23
+  sounds:0.23
+  trees:0.23
+  ents:0.22
+
+Topic 2:
+  registrations:0.44
+  monday:0.44
+  open:0.43
+  hiss:0.28
+  precious:0.28
+  sandals:0.22
+  news:0.22
+  customer:0.22
+  admin:0.22
+  trustworthy:0.22
+
+Topic 3:
+  open:0.47
+  monday:0.46
+  registrations:0.45
+  precious:0.27
+  hiss:0.27
+  middle:0.22
+  mem:0.22
+  earth:0.22
+  verified:0.22
+  vendors:0.22
+
+Topic 4:
+  registrations:0.43
+  monday:0.43
+  open:0.43
+  precious:0.28
+  hiss:0.28
+  ents:0.22
+  sounds:0.22
+  place:0.22
+  good:0.22
+  find:0.22
+
+K: 5, Log-Likelihood: -114.367, Alpha: 11.000, Beta: 1.100

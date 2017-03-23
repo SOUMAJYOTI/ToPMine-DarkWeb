@@ -1,0 +1,61 @@
+Topic 0:
+  people:3.81
+  decent:3.81
+  pandora:2.72
+  support:2.35
+  site:2.31
+  ladyhawke:1.87
+  unexpected:1.87
+  patience:1.87
+  decided time:1.87
+  stayed:1.87
+
+Topic 1:
+  usual:3.64
+  btc:3.53
+  alice alice:2.42
+  administratordate registered october local:2.39
+  quote:2.35
+  site:2.34
+  time july active june:1.82
+  month stolen happened alice:1.82
+  steal:1.75
+  lol:1.74
+
+Topic 2:
+  agora:3.74
+  time:1.81
+  evolution:1.80
+  transition:1.80
+  dealing:1.80
+  flaxceed:1.80
+  find:1.80
+  diet:1.80
+  long:1.80
+  steroids:1.80
+
+Topic 3:
+  alice:2.48
+  stealing:1.87
+  hasnt:1.87
+  things:1.87
+  weeks:1.87
+  yup:1.87
+  site forum:1.87
+  attack:1.87
+  office:1.87
+  sense:1.87
+
+Topic 4:
+  alice:5.48
+  july amquote:3.16
+  funds:3.00
+  site:2.78
+  btc:2.49
+  usual:2.38
+  stick:2.02
+  time july:1.81
+  diversion:1.81
+  answers:1.81
+
+K: 5, Log-Likelihood: -1531.490, Alpha: 11.000, Beta: 1.100

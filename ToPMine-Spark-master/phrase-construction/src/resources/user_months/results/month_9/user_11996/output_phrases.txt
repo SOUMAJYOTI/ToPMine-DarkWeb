@@ -1,0 +1,61 @@
+Topic 0:
+  point:5.45
+  slow:4.20
+  agora:3.24
+  agra:3.02
+  multi:2.82
+  kuklinski:2.48
+  people market:2.48
+  rep:2.48
+  administrators:2.48
+  nice:2.48
+
+Topic 1:
+  server:4.54
+  quote:4.29
+  noquarter:4.21
+  reason:4.21
+  sr fe:4.21
+  guess:4.21
+  security:4.21
+  feature:4.21
+  padding:4.21
+  sir:4.21
+
+Topic 2:
+  article:5.09
+  bit:5.09
+  signature:4.05
+  markets:4.05
+  site:3.96
+  marketplace:3.79
+  market:3.72
+  correct:3.14
+  handled:2.53
+  computer:2.53
+
+Topic 3:
+  thread:4.88
+  hours:4.16
+  timing:4.16
+  ready:4.16
+  dog:4.16
+  wallet:4.16
+  major:4.15
+  moved:4.15
+  coins:4.15
+  time:4.15
+
+Topic 4:
+  sr:7.78
+  market:5.66
+  publicity:4.24
+  touch:4.24
+  havent:4.24
+  answer:4.24
+  hacking:4.24
+  products:4.24
+  foot:4.24
+  problems:4.24
+
+K: 5, Log-Likelihood: -3027.674, Alpha: 11.000, Beta: 1.100

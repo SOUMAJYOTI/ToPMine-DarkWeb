@@ -1,0 +1,61 @@
+Topic 0:
+  javascript:0.40
+  info:0.20
+  config:0.20
+  forget:0.20
+  fully:0.20
+  enabled:0.20
+  pmdont:0.20
+  quote:0.20
+  type:0.20
+  lurking:0.20
+
+Topic 1:
+  javascript:0.40
+  stumbled:0.20
+  info:0.20
+  enabled:0.20
+  pmdont:0.20
+  isnt:0.20
+  forget:0.20
+  herbanlegends:0.20
+  noscripts:0.20
+  set:0.20
+
+Topic 2:
+  javascript:0.40
+  running:0.20
+  type:0.20
+  false:0.20
+  quote:0.20
+  lucy:0.20
+  noscripts:0.20
+  isnt:0.20
+  april:0.20
+  lurking:0.20
+
+Topic 3:
+  javascript:0.40
+  config:0.20
+  fully:0.20
+  herbanlegends:0.20
+  disabled:0.20
+  thankyou:0.20
+  forget:0.20
+  set:0.20
+  noscripts:0.20
+  isnt:0.20
+
+Topic 4:
+  javascript:0.40
+  april:0.20
+  running:0.20
+  good:0.20
+  thankyou:0.20
+  js:0.20
+  lucy:0.20
+  herbanlegends:0.20
+  disabled:0.20
+  quote:0.20
+
+K: 5, Log-Likelihood: -74.916, Alpha: 11.000, Beta: 1.100

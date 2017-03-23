@@ -1,0 +1,61 @@
+Topic 0:
+  le:7.27
+  time:5.43
+  idea:4.89
+  read:4.82
+  post:4.29
+  drug:4.01
+  real:3.86
+  police:3.17
+  forums:3.01
+  open:2.36
+
+Topic 1:
+  idea:3.66
+  police:2.86
+  quote:2.14
+  long:2.10
+  time:1.58
+  le:1.57
+  real:1.32
+  precisely:1.13
+  stupid:1.12
+  post:1.12
+
+Topic 2:
+  forums:12.12
+  law:10.88
+  account:9.69
+  sworn:9.51
+  tor:8.85
+  le:7.88
+  number:7.14
+  badge:6.91
+  point:6.63
+  forum:6.09
+
+Topic 3:
+  november:20.90
+  quote:19.43
+  fork:18.51
+  le:14.74
+  read:14.29
+  dont:13.17
+  forums:10.55
+  security:7.92
+  drug:7.07
+  silent:6.95
+
+Topic 4:
+  cop:13.79
+  phone:11.96
+  number:7.63
+  departments:6.73
+  hr:6.54
+  officer:6.21
+  protocol:6.17
+  criminal:5.95
+  badge:5.92
+  november:5.67
+
+K: 5, Log-Likelihood: -11674.300, Alpha: 11.000, Beta: 1.100

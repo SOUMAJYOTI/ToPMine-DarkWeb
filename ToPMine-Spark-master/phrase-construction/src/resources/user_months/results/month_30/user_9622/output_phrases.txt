@@ -1,0 +1,61 @@
+Topic 0:
+  real:13.36
+  beliefs:8.88
+  laws:6.84
+  discrepancies:4.42
+  dead person:4.42
+  licensed:4.42
+  intelligence:4.42
+  houses:4.42
+  bad death:4.42
+  reveal:4.42
+
+Topic 1:
+  seena:8.13
+  inside live:6.79
+  oasis elf surrender man:6.79
+  bottom zion matrix movie:6.79
+  source call royalty:6.79
+  writes history remembers names:6.79
+  inability escape:6.79
+  working pristinely perfectly protected:6.79
+  soul essence power time:6.79
+  face place idea:6.79
+
+Topic 2:
+  mystical:8.91
+  actions serving:8.91
+  remembered:8.91
+  serving:8.91
+  chop wood carry water:8.91
+  meaningless pursuits:8.91
+  enlightenment:8.91
+  royalty:7.20
+  souls:4.69
+  god time:4.51
+
+Topic 3:
+  question soul:7.44
+  answer:7.42
+  soul:7.28
+  importantly answered question:6.78
+  provide resources minds powers:6.78
+  created account post answer:5.73
+  soul people:5.40
+  common people:5.21
+  landmarks:4.42
+  stonehenge:4.42
+
+Topic 4:
+  love:12.36
+  common person:8.91
+  life death:8.91
+  mind:8.91
+  find:6.68
+  life:5.73
+  quote seena january:5.23
+  gingers:5.14
+  read views:4.44
+  gesture:4.44
+
+K: 5, Log-Likelihood: -11993.215, Alpha: 11.000, Beta: 1.100

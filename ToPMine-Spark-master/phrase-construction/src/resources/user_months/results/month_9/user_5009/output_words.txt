@@ -1,0 +1,61 @@
+Topic 0:
+  quote:1.61
+  mind:1.11
+  seperation:0.93
+  imagination:0.88
+  mckenna:0.86
+  life:0.77
+  thinking:0.69
+  deeply:0.69
+  body:0.67
+  create:0.64
+
+Topic 1:
+  mind:1.65
+  mckenna:1.53
+  seperation:1.09
+  body:0.79
+  deeply:0.78
+  thinking:0.73
+  quote:0.69
+  address:0.67
+  half:0.66
+  consuming:0.66
+
+Topic 2:
+  quote:1.89
+  imagination:1.21
+  life:1.06
+  seperation:0.92
+  mind:0.82
+  create:0.80
+  deeply:0.68
+  body:0.66
+  thinking:0.66
+  address:0.58
+
+Topic 3:
+  seperation:1.53
+  quote:1.22
+  mind:1.18
+  deeply:0.96
+  thinking:0.95
+  body:0.88
+  life:0.77
+  imagination:0.68
+  address:0.63
+  mckenna:0.62
+
+Topic 4:
+  quote:1.59
+  seperation:1.53
+  mind:1.23
+  body:1.00
+  thinking:0.96
+  deeply:0.89
+  imagination:0.86
+  life:0.83
+  create:0.60
+  mckenna:0.55
+
+K: 5, Log-Likelihood: -876.289, Alpha: 11.000, Beta: 1.100

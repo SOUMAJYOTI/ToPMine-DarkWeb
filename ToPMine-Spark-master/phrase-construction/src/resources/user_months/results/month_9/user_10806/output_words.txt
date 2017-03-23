@@ -1,0 +1,61 @@
+Topic 0:
+  phone:0.63
+  wifi:0.63
+  adroit:0.41
+  tether:0.21
+  cable:0.21
+  virtualbox:0.21
+  tower:0.21
+  local:0.21
+  tor:0.21
+  ethernet:0.21
+
+Topic 1:
+  wifi:0.60
+  phone:0.58
+  adroit:0.40
+  secure:0.20
+  extend:0.20
+  craigslist:0.20
+  google:0.20
+  involved:0.20
+  internet:0.20
+  connection:0.20
+
+Topic 2:
+  wifi:0.65
+  phone:0.64
+  adroit:0.42
+  hub:0.21
+  extracted:0.21
+  company:0.21
+  tower:0.21
+  wireless:0.21
+  cable:0.21
+  tor:0.21
+
+Topic 3:
+  phone:0.51
+  wifi:0.50
+  adroit:0.36
+  bridge:0.23
+  router:0.23
+  unknowns:0.23
+  dd:0.23
+  involved:0.23
+  buy:0.23
+  cheap:0.23
+
+Topic 4:
+  phone:0.64
+  wifi:0.62
+  adroit:0.41
+  data:0.21
+  company:0.21
+  comp:0.21
+  private:0.21
+  tor:0.21
+  wireless:0.21
+  local:0.21
+
+K: 5, Log-Likelihood: -212.570, Alpha: 11.000, Beta: 1.100

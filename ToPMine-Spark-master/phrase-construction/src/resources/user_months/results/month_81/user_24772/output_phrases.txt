@@ -1,0 +1,61 @@
+Topic 0:
+  commission:3.78
+  vahalla:3.50
+  market:2.61
+  rates:2.23
+  free:2.23
+  apply vendor:2.23
+  inothers:2.23
+  fe:2.23
+  reviews:2.23
+  bond:2.09
+
+Topic 1:
+  peoples:4.64
+  good:3.86
+  vendor:3.40
+  account:3.39
+  friendly:2.31
+  communication:2.31
+  return:2.31
+  dont:2.31
+  price:2.31
+  hesitate:2.31
+
+Topic 2:
+  kapteeni:3.36
+  weeks:3.30
+  messages:3.14
+  quote weedim:3.05
+  username:3.04
+  message:2.95
+  pictures:2.79
+  answer:2.74
+  valhalla:2.70
+  support:2.56
+
+Topic 3:
+  send:3.44
+  weeks:2.84
+  quote:2.77
+  quotesent:2.65
+  crow:2.60
+  reaction:2.57
+  unread:2.50
+  sweet:2.48
+  coins:2.47
+  daqillin:2.43
+
+Topic 4:
+  feedbacks:4.59
+  shop:4.55
+  weedim:3.81
+  february:3.39
+  aethon:3.25
+  reply:3.12
+  somes:2.21
+  start:2.21
+  company:2.21
+  experiences:2.21
+
+K: 5, Log-Likelihood: -2199.334, Alpha: 11.000, Beta: 1.100

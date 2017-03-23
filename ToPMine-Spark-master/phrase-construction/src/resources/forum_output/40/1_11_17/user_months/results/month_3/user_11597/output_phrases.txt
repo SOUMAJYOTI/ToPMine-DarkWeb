@@ -1,0 +1,61 @@
+Topic 0:
+  commission:0.38
+  community:0.38
+  account:0.38
+  referred:0.37
+  pockets:0.37
+  sorrymario:0.36
+  people:0.20
+  collecting:0.20
+  deathowl:0.20
+  effort:0.20
+
+Topic 1:
+  pockets:0.40
+  referred:0.40
+  commission:0.39
+  account:0.39
+  community:0.39
+  sorrymario:0.35
+  people:0.20
+  deathowl:0.20
+  modest:0.20
+  scam:0.20
+
+Topic 2:
+  sorrymario:0.41
+  commission:0.30
+  account:0.30
+  pockets:0.30
+  community:0.30
+  referred:0.30
+  charity:0.22
+  scam:0.22
+  collecting:0.22
+  modest:0.22
+
+Topic 3:
+  referred:0.37
+  community:0.37
+  commission:0.37
+  account:0.37
+  pockets:0.37
+  sorrymario:0.37
+  effort:0.20
+  charity:0.20
+  modest:0.20
+  deathowl:0.20
+
+Topic 4:
+  pockets:0.40
+  community:0.40
+  account:0.39
+  referred:0.39
+  commission:0.39
+  sorrymario:0.34
+  people:0.20
+  effort:0.20
+  collecting:0.20
+  scam:0.20
+
+K: 5, Log-Likelihood: -277.731, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  read:1.23
+  vm:1.12
+  download:0.84
+  tor:0.83
+  easy:0.83
+  tunnels:0.83
+  program:0.82
+  vps:0.81
+  address:0.79
+  workstation:0.78
+
+Topic 1:
+  read:1.46
+  vm:1.11
+  address:0.86
+  easy:0.86
+  key:0.83
+  download:0.83
+  workstation:0.83
+  whonix:0.81
+  choose:0.81
+  program:0.80
+
+Topic 2:
+  read:1.72
+  vm:1.35
+  choose:0.86
+  vps:0.84
+  whonix:0.84
+  download:0.82
+  key:0.82
+  comfortable:0.81
+  tor:0.80
+  easy:0.79
+
+Topic 3:
+  read:1.82
+  vm:1.29
+  workstation:0.85
+  key:0.84
+  tunnels:0.83
+  comfortable:0.81
+  whonix:0.81
+  choose:0.80
+  address:0.79
+  download:0.79
+
+Topic 4:
+  read:1.77
+  vm:1.14
+  program:0.88
+  comfortable:0.84
+  tor:0.84
+  whonix:0.80
+  vps:0.80
+  address:0.78
+  choose:0.77
+  tunnels:0.77
+
+K: 5, Log-Likelihood: -960.173, Alpha: 11.000, Beta: 1.100

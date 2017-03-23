@@ -1,0 +1,61 @@
+Topic 0:
+  reached:5.62
+  hosted provider:5.61
+  hidden service:5.60
+  sigaintevyh rzvw onion address:2.88
+  service bounce messages mind:2.86
+  claim sending onion hosted:2.84
+  sender:2.70
+  provider hosted:2.70
+  understanding:2.70
+  onion:2.70
+
+Topic 1:
+  sigaint org:4.35
+  sigaintevyh rzvw onion address:2.91
+  ill:2.87
+  yesterday:2.64
+  understand:2.62
+  stupidity:2.62
+  feel:2.62
+  ive:2.62
+  technology:2.61
+  free:2.61
+
+Topic 2:
+  yubikey nano:4.54
+  supports openpgp:2.62
+  pocket:2.62
+  egnimail:2.61
+  link:2.61
+  tails:2.61
+  driver:2.61
+  documentation:2.61
+  work:2.61
+  support:2.03
+
+Topic 3:
+  difficult:2.62
+  smartcards:2.62
+  supported:2.62
+  enigmail tails:2.61
+  time:2.61
+  finding:2.61
+  keys:2.61
+  rsa:2.61
+  store:2.61
+  online:2.60
+
+Topic 4:
+  provider sigaint:2.58
+  door seize computers compel:2.57
+  icedove:2.57
+  pm:2.56
+  enigma torbirdy:2.56
+  pro:2.56
+  enabled:2.56
+  zaphodim:2.56
+  encrypted types accounts anonymous:2.55
+  anonymous:2.54
+
+K: 5, Log-Likelihood: -1728.277, Alpha: 11.000, Beta: 1.100

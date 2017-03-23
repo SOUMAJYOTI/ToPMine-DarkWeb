@@ -1,0 +1,61 @@
+Topic 0:
+  silk:0.00
+  undertook:0.00
+  hosting:0.00
+  delighted:0.00
+  link:0.00
+  published:0.00
+  papers:0.00
+  downloaded:0.00
+  accessing:0.00
+  file:0.00
+
+Topic 1:
+  silk:0.00
+  undertook:0.00
+  hosting:0.00
+  delighted:0.00
+  link:0.00
+  published:0.00
+  papers:0.00
+  downloaded:0.00
+  accessing:0.00
+  file:0.00
+
+Topic 2:
+  silk:0.00
+  undertook:0.00
+  hosting:0.00
+  delighted:0.00
+  link:0.00
+  published:0.00
+  papers:0.00
+  downloaded:0.00
+  accessing:0.00
+  file:0.00
+
+Topic 3:
+  silk:0.00
+  undertook:0.00
+  hosting:0.00
+  delighted:0.00
+  link:0.00
+  published:0.00
+  papers:0.00
+  downloaded:0.00
+  accessing:0.00
+  file:0.00
+
+Topic 4:
+  silk:0.00
+  undertook:0.00
+  hosting:0.00
+  delighted:0.00
+  link:0.00
+  published:0.00
+  papers:0.00
+  downloaded:0.00
+  accessing:0.00
+  file:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

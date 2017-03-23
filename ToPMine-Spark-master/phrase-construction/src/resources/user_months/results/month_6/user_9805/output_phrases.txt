@@ -1,0 +1,61 @@
+Topic 0:
+  time:0.58
+  traumas:0.58
+  side:0.57
+  effects:0.57
+  site:0.30
+  neurotransmitter:0.26
+  pharmacodynamic:0.26
+  mechanisms:0.26
+  receptor:0.26
+  cells:0.26
+
+Topic 1:
+  benzo:0.74
+  xanax:0.49
+  valium:0.48
+  stomach:0.48
+  site:0.32
+  years:0.23
+  trips:0.23
+  body:0.23
+  acid:0.23
+  reading:0.23
+
+Topic 2:
+  benzo:1.26
+  stomach:0.75
+  valium:0.75
+  xanax:0.74
+  ears:0.31
+  doesn:0.31
+  gang:0.31
+  learn:0.31
+  hours:0.31
+  bit:0.31
+
+Topic 3:
+  side:0.57
+  effects:0.57
+  traumas:0.57
+  time:0.57
+  site:0.35
+  muscle:0.26
+  physiological:0.26
+  agonist:0.26
+  talking:0.26
+  primary:0.26
+
+Topic 4:
+  site:0.61
+  effects:0.31
+  side:0.31
+  time:0.31
+  traumas:0.31
+  benzo:0.29
+  lingo:0.26
+  appreciated:0.26
+  love:0.26
+  loading:0.26
+
+K: 5, Log-Likelihood: -551.358, Alpha: 11.000, Beta: 1.100

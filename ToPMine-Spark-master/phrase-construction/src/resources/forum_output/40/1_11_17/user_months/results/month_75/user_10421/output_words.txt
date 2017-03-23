@@ -1,0 +1,61 @@
+Topic 0:
+  address:25.93
+  transaction:20.68
+  public:18.65
+  bitcoin:16.99
+  key:16.36
+  multisignature:14.65
+  market:13.73
+  wallet:12.62
+  receive:10.46
+  order:10.24
+
+Topic 1:
+  escrow:6.34
+  hansa:4.27
+  central:3.94
+  markets:3.46
+  msig:2.94
+  lb:2.88
+  shatter:2.69
+  weve:2.67
+  experience:1.94
+  busiest:1.94
+
+Topic 2:
+  time:2.04
+  market:1.96
+  transaction:1.45
+  electrum:1.43
+  escrow:1.41
+  vendor:1.33
+  order:1.28
+  care:1.27
+  dont:1.26
+  sig:1.24
+
+Topic 3:
+  hansa:2.57
+  traffic:1.81
+  shop:1.78
+  dont:1.28
+  vendor:1.13
+  exploding:0.85
+  wise:0.85
+  bc:0.85
+  vend:0.85
+  increasing:0.85
+
+Topic 4:
+  market:12.91
+  transaction:9.85
+  multisignature:7.65
+  escrow:6.29
+  key:4.85
+  signed:4.79
+  customer:4.17
+  click:3.11
+  select:3.11
+  order:3.06
+
+K: 5, Log-Likelihood: -6225.270, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  dont:3.00
+  keys tab:2.09
+  group:2.09
+  key:1.84
+  keys:1.43
+  edit:0.99
+  rodgers:0.99
+  jolly:0.99
+  tab:0.99
+  tails:0.99
+
+Topic 1:
+  copy paste:1.95
+  export:0.91
+  helpedit:0.91
+  putting:0.91
+  version:0.91
+  drop:0.91
+  email:0.91
+  program:0.91
+  task:0.91
+  drag:0.91
+
+Topic 2:
+  btc:3.18
+  buying:2.09
+  localbitcoins:1.00
+  post:1.00
+  convenient:1.00
+  dropping:1.00
+  options:1.00
+  dn:1.00
+  bail:1.00
+  long:1.00
+
+Topic 3:
+  message:3.08
+  file:2.85
+  amnesia gpg:2.50
+  temp:2.04
+  code select amelia amnesia:2.02
+  temp txt:1.99
+  press:1.96
+  nano temp:1.91
+  code select amnesia amnesia:1.91
+  ctrl enter:1.83
+
+Topic 4:
+  amnesia gpg:1.76
+  file:1.41
+  ctrl enter:1.33
+  code select amnesia amnesia:1.26
+  nano temp:1.26
+  press:1.20
+  message:1.18
+  temp txt:1.17
+  code select amelia amnesia:1.15
+  temp:1.13
+
+K: 5, Log-Likelihood: -1329.253, Alpha: 11.000, Beta: 1.100

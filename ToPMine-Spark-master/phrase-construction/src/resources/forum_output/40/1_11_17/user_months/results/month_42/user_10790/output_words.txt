@@ -1,0 +1,61 @@
+Topic 0:
+  darkcoin:0.61
+  purpose:0.20
+  community:0.20
+  coin:0.20
+  altcoins:0.20
+  altcoin:0.20
+  good:0.20
+  investigated:0.20
+  year:0.20
+  fwiw:0.20
+
+Topic 1:
+  darkcoin:0.61
+  fwiw:0.20
+  investigated:0.20
+  choice:0.20
+  coin:0.20
+  altcoins:0.20
+  accept:0.20
+  nucleus:0.20
+  year:0.20
+  community:0.20
+
+Topic 2:
+  darkcoin:0.60
+  change:0.20
+  mainstream:0.20
+  support:0.20
+  dont:0.20
+  time:0.20
+  fwiw:0.20
+  people:0.20
+  choice:0.20
+  coin:0.20
+
+Topic 3:
+  darkcoin:0.59
+  long:0.20
+  currencryies:0.20
+  time:0.20
+  dont:0.20
+  people:0.20
+  support:0.20
+  mainstream:0.20
+  crypto:0.20
+  change:0.20
+
+Topic 4:
+  darkcoin:0.58
+  currencryies:0.20
+  crypto:0.20
+  support:0.20
+  dont:0.20
+  people:0.20
+  time:0.20
+  mainstream:0.20
+  change:0.20
+  long:0.20
+
+K: 5, Log-Likelihood: -121.222, Alpha: 11.000, Beta: 1.100

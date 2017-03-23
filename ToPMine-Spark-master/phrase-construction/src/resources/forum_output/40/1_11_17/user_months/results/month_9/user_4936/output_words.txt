@@ -1,0 +1,61 @@
+Topic 0:
+  tor:2.89
+  coins:2.59
+  exit:1.90
+  tumbling:1.90
+  quote:1.79
+  pretty:1.15
+  le:0.90
+  wallet:0.90
+  crepuscular:0.90
+  fuck:0.90
+
+Topic 1:
+  set:3.75
+  plate:2.38
+  members:2.38
+  online:2.08
+  default:1.71
+  query:1.15
+  minutes:1.14
+  smf:0.96
+  time:0.93
+  forum:0.91
+
+Topic 2:
+  set:2.12
+  time:1.42
+  plate:1.38
+  blender:1.12
+  fog:1.00
+  online:0.96
+  members:0.87
+  coin:0.87
+  amount:0.86
+  wig:0.82
+
+Topic 3:
+  online:4.48
+  forum:4.43
+  smf:4.36
+  default:4.29
+  members:4.28
+  register:3.70
+  user:3.69
+  registration:3.69
+  options:3.65
+  minutes:1.96
+
+Topic 4:
+  service:3.84
+  thread:1.72
+  site:1.72
+  blender:0.77
+  vouch:0.77
+  called:0.77
+  swam:0.77
+  began:0.77
+  sr:0.77
+  forums:0.77
+
+K: 5, Log-Likelihood: -1563.913, Alpha: 11.000, Beta: 1.100

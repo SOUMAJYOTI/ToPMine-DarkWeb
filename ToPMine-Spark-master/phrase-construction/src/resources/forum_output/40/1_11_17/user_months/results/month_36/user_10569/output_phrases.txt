@@ -1,0 +1,61 @@
+Topic 0:
+  onion:1.23
+  dont:1.01
+  obj:0.86
+  rogers:0.86
+  gypcu:0.86
+  ckl:0.86
+  jolly:0.86
+  longer:0.86
+  thread:0.74
+  apply:0.73
+
+Topic 1:
+  applications menu:1.19
+  post:0.99
+  fired:0.75
+  preinstalled:0.74
+  cli:0.74
+  electrum tails:0.74
+  pvejybx:0.74
+  launch:0.74
+  odd:0.74
+  connected:0.73
+
+Topic 2:
+  tails:3.40
+  safe:1.31
+  setting:1.31
+  auto:1.31
+  ip:1.31
+  booted:1.31
+  mixing:1.31
+  purcashing:1.31
+  selected:1.31
+  tweaking:1.31
+
+Topic 3:
+  quietforest:0.68
+  dont:0.62
+  electrum:0.60
+  work:0.60
+  connections:0.60
+  set:0.60
+  answer:0.60
+  onion:0.60
+  move:0.60
+  fact:0.60
+
+Topic 4:
+  post:1.68
+  applications menu:1.49
+  drp:0.81
+  version:0.81
+  automatically:0.81
+  launch:0.81
+  connected:0.81
+  pvejybx:0.80
+  odd:0.80
+  cli:0.80
+
+K: 5, Log-Likelihood: -842.054, Alpha: 11.000, Beta: 1.100

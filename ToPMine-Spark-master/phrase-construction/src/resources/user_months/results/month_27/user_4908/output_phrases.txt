@@ -1,0 +1,61 @@
+Topic 0:
+  checking:2.14
+  worth:2.12
+  idea:1.97
+  jabber:1.57
+  quote:1.37
+  december:1.37
+  amis:1.37
+  snacktime:1.36
+  otr record messaging:1.31
+  conjuction:1.31
+
+Topic 1:
+  plugin:7.05
+  tools:2.64
+  private messaging:2.45
+  accounts manage:2.32
+  don:1.66
+  server:1.35
+  linus:1.33
+  type:1.32
+  code:1.31
+  ensures:1.30
+
+Topic 2:
+  site:3.46
+  msg:3.13
+  onion:2.60
+  tails:2.60
+  install:1.67
+  remember:1.67
+  software:1.67
+  online:1.67
+  ago:1.67
+  appeciated:1.67
+
+Topic 3:
+  plugin:6.60
+  accounts manage:3.03
+  private messaging:2.90
+  tools:2.71
+  don:1.73
+  log:1.49
+  set correctly:1.46
+  protocol:1.45
+  automatically:1.44
+  otrthis:1.44
+
+Topic 4:
+  chat:4.52
+  locally:2.60
+  luck:2.60
+  good:2.60
+  day:2.60
+  quick:2.60
+  response:2.60
+  pm:2.60
+  dealings:2.60
+  wiki:2.60
+
+K: 5, Log-Likelihood: -2009.363, Alpha: 11.000, Beta: 1.100

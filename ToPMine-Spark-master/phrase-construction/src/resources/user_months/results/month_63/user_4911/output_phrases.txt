@@ -1,0 +1,61 @@
+Topic 0:
+  website:0.00
+  left:0.00
+  org:0.00
+  energycontrol:0.00
+  english:0.00
+  link:0.00
+  international:0.00
+  reply:0.00
+  menu:0.00
+  send:0.00
+
+Topic 1:
+  website:0.00
+  left:0.00
+  org:0.00
+  energycontrol:0.00
+  english:0.00
+  link:0.00
+  international:0.00
+  reply:0.00
+  menu:0.00
+  send:0.00
+
+Topic 2:
+  website:0.00
+  left:0.00
+  org:0.00
+  energycontrol:0.00
+  english:0.00
+  link:0.00
+  international:0.00
+  reply:0.00
+  menu:0.00
+  send:0.00
+
+Topic 3:
+  website:0.00
+  left:0.00
+  org:0.00
+  energycontrol:0.00
+  english:0.00
+  link:0.00
+  international:0.00
+  reply:0.00
+  menu:0.00
+  send:0.00
+
+Topic 4:
+  website:0.00
+  left:0.00
+  org:0.00
+  energycontrol:0.00
+  english:0.00
+  link:0.00
+  international:0.00
+  reply:0.00
+  menu:0.00
+  send:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

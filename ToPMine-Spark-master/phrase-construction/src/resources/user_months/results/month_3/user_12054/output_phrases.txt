@@ -1,0 +1,61 @@
+Topic 0:
+  fog:4.47
+  register:4.07
+  load:4.07
+  confirmations:4.07
+  funds:3.13
+  deposit:1.99
+  thought:1.99
+  waiting:1.99
+  supposed:1.99
+  register fog:1.99
+
+Topic 1:
+  quote thedude march:3.40
+  eliminates party wallets pb:2.63
+  works tails:2.63
+  main:2.24
+  blockchain wallet:2.23
+  source:2.22
+  considered setting electric wallet:2.18
+  secure:2.17
+  pmhave:2.16
+  princessbuttercup:2.16
+
+Topic 2:
+  day:4.29
+  attack:4.07
+  agora:4.07
+  customers:3.03
+  atleast:2.31
+  finished:2.19
+  hours ago:2.18
+  center:1.99
+  fog agora:1.99
+  dark:1.99
+
+Topic 3:
+  wallet:4.83
+  tor worried:4.07
+  le:4.01
+  surprise:3.10
+  mind:3.10
+  setting:3.10
+  electrum:3.10
+  highly:3.10
+  caphtas:3.10
+  recommend:3.10
+
+Topic 4:
+  support:4.25
+  bitcoinfog:4.10
+  blockchain:4.00
+  coins:3.11
+  dayes:2.82
+  amstill:2.75
+  days:2.69
+  posted:2.69
+  campbx:2.28
+  address:2.02
+
+K: 5, Log-Likelihood: -2243.438, Alpha: 11.000, Beta: 1.100

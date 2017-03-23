@@ -1,0 +1,61 @@
+Topic 0:
+  darkcoin:0.82
+  dont:0.39
+  people:0.39
+  coins:0.37
+  bitcoin:0.37
+  coinjoin:0.37
+  mix:0.37
+  year:0.21
+  purpose:0.21
+  good:0.21
+
+Topic 1:
+  darkcoin:0.79
+  dont:0.40
+  people:0.40
+  mix:0.39
+  coinjoin:0.39
+  coins:0.39
+  bitcoin:0.39
+  currencryies:0.20
+  time:0.20
+  mainstream:0.20
+
+Topic 2:
+  darkcoin:0.74
+  coinjoin:0.47
+  bitcoin:0.47
+  mix:0.47
+  coins:0.47
+  people:0.41
+  dont:0.40
+  point:0.22
+  isnt:0.22
+  accepting:0.22
+
+Topic 3:
+  darkcoin:0.77
+  coins:0.41
+  mix:0.41
+  bitcoin:0.41
+  coinjoin:0.41
+  people:0.41
+  dont:0.41
+  lot:0.20
+  bitcoins:0.20
+  buy:0.20
+
+Topic 4:
+  darkcoin:0.87
+  dont:0.39
+  people:0.39
+  coinjoin:0.36
+  bitcoin:0.36
+  mix:0.36
+  coins:0.36
+  choice:0.21
+  investigated:0.21
+  fwiw:0.21
+
+K: 5, Log-Likelihood: -268.090, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  file:7.85
+  amnesia persistent electrum:7.00
+  persistent:5.08
+  hidden services:3.75
+  select:3.69
+  electrum:3.34
+  persistence:2.99
+  list:2.35
+  tar:2.33
+  passwordselect:2.32
+
+Topic 1:
+  electrum:2.76
+  open:1.02
+  post:0.97
+  persistence:0.80
+  electrum tails:0.76
+  settings:0.68
+  windows:0.68
+  root:0.56
+  create:0.55
+  file:0.46
+
+Topic 2:
+  tor:3.44
+  hidden service:3.35
+  dotfiles:3.15
+  directory:3.15
+  port:3.15
+  server:2.46
+  network:2.27
+  persistence:2.12
+  socks:1.95
+  bothers:1.54
+
+Topic 3:
+  electrum:3.40
+  file:1.31
+  persistence:1.27
+  persistent:0.93
+  root:0.75
+  create:0.74
+  select:0.74
+  open:0.71
+  hidden services:0.70
+  options:0.70
+
+Topic 4:
+  buy:3.13
+  love:3.13
+  step:2.25
+  pros:2.16
+  installing:2.01
+  places:1.53
+  market:1.53
+  learn:1.53
+  orders:1.53
+  talk:1.53
+
+K: 5, Log-Likelihood: -3076.324, Alpha: 11.000, Beta: 1.100

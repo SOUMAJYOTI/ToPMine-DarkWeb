@@ -1,0 +1,61 @@
+Topic 0:
+  dumpsterbaby:0.40
+  troltergeist:0.39
+  options:0.20
+  gdmp:0.20
+  errr:0.20
+  unlimited:0.20
+  accept:0.20
+  offering:0.20
+  standing:0.20
+  pass:0.20
+
+Topic 1:
+  troltergeist:0.40
+  dumpsterbaby:0.40
+  client:0.20
+  free:0.20
+  gdmp:0.20
+  easy:0.20
+  amseriously:0.20
+  btc:0.20
+  operators:0.20
+  payment:0.20
+
+Topic 2:
+  troltergeist:0.40
+  dumpsterbaby:0.40
+  call:0.20
+  offering:0.20
+  btc:0.20
+  codes:0.20
+  amseriously:0.20
+  payment:0.20
+  easy:0.20
+  victim:0.20
+
+Topic 3:
+  dumpsterbaby:0.40
+  troltergeist:0.40
+  pass:0.20
+  plans:0.20
+  lifetime:0.20
+  standing:0.20
+  codes:0.20
+  operators:0.20
+  victim:0.20
+  quote:0.20
+
+Topic 4:
+  troltergeist:0.40
+  dumpsterbaby:0.40
+  lifetime:0.20
+  errr:0.20
+  nope:0.20
+  operators:0.20
+  unlimited:0.20
+  easy:0.20
+  victim:0.20
+  codes:0.20
+
+K: 5, Log-Likelihood: -81.992, Alpha: 11.000, Beta: 1.100

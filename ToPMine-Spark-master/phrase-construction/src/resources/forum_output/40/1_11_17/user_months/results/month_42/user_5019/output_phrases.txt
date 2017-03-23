@@ -1,0 +1,61 @@
+Topic 0:
+  hotbox:0.99
+  long:0.98
+  pictures:0.98
+  swear:0.98
+  shit:0.98
+  types:0.97
+  weird:0.97
+  guy:0.96
+  type:0.96
+  pretty:0.95
+
+Topic 1:
+  ji ikovsk:7.51
+  marketplace tom hacker stole:5.98
+  bitcoins:4.97
+  real estate:4.97
+  house:3.62
+  money:3.24
+  bitcoins real money:2.95
+  catch:2.95
+  villa ll ice small:2.95
+  details:2.95
+
+Topic 2:
+  dumb:0.93
+  deal:0.93
+  stuff people:0.93
+  info:0.91
+  pretty:0.91
+  shit:0.91
+  guy:0.91
+  long:0.91
+  type:0.91
+  swear:0.90
+
+Topic 3:
+  luxury:2.50
+  dark:2.50
+  link:2.50
+  converting:2.50
+  warning:2.50
+  purchasing:2.50
+  extremely:2.50
+  ihned:2.50
+  fake:2.50
+  owner sheep marketplace:2.50
+
+Topic 4:
+  incident:1.80
+  article:1.80
+  hand:1.79
+  glad:1.79
+  justice:1.79
+  justice fall:1.78
+  lost:1.78
+  earlier:1.78
+  people:1.78
+  yea:1.78
+
+K: 5, Log-Likelihood: -4354.550, Alpha: 11.000, Beta: 1.100

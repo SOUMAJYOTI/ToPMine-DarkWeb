@@ -1,0 +1,61 @@
+Topic 0:
+  ddos:3.69
+  disconnected:3.69
+  conspiracies:1.82
+  passwords:1.82
+  read:1.82
+  interesting:1.82
+  logic request:1.82
+  causing:1.82
+  log:1.82
+  implement:1.82
+
+Topic 1:
+  account:1.68
+  fa:1.68
+  matter:1.68
+  pgp:1.68
+  agreed:1.68
+  passwrd:1.68
+  reset button wait hours:1.57
+  quote:1.57
+  pin peice cake hit:1.57
+  hope case:1.55
+
+Topic 2:
+  order:5.54
+  empathize:3.67
+  problems:3.67
+  agra:1.86
+  communicated:1.80
+  dont:1.80
+  heading:1.80
+  cloud:1.80
+  people sr:1.80
+  customers:1.80
+
+Topic 3:
+  bf attack:5.74
+  actual user:5.74
+  logic:5.74
+  case:5.74
+  bf:4.28
+  scenario:2.81
+  logs:2.81
+  bruteforce:2.81
+  automated:2.81
+  influx reset:2.81
+
+Topic 4:
+  service picking btcfogs slack:2.92
+  people making great:2.90
+  coinmixer establish trust:2.89
+  incompetents:2.74
+  mixing:2.74
+  simple:2.74
+  escrow:2.74
+  doesnt:2.74
+  running:2.74
+  offer:2.73
+
+K: 5, Log-Likelihood: -2105.014, Alpha: 11.000, Beta: 1.100

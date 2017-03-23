@@ -1,0 +1,61 @@
+Topic 0:
+  fail:0.61
+  credit:0.41
+  fraud:0.40
+  card:0.40
+  funding:0.40
+  dont:0.20
+  fact:0.20
+  situation:0.20
+  reasons:0.20
+  bit:0.20
+
+Topic 1:
+  fail:0.65
+  funding:0.41
+  card:0.41
+  fraud:0.41
+  credit:0.40
+  money:0.20
+  obvious:0.20
+  possibility:0.20
+  sending:0.20
+  suppose:0.20
+
+Topic 2:
+  fail:0.59
+  credit:0.40
+  card:0.40
+  funding:0.40
+  fraud:0.40
+  scam:0.20
+  doublin:0.20
+  replys:0.20
+  scams:0.20
+  ago:0.20
+
+Topic 3:
+  fail:0.59
+  funding:0.40
+  card:0.40
+  fraud:0.40
+  credit:0.40
+  kindly:0.20
+  possibility:0.20
+  work:0.20
+  outcomes:0.20
+  finding:0.20
+
+Topic 4:
+  fail:0.57
+  fraud:0.39
+  credit:0.39
+  funding:0.39
+  card:0.39
+  exploit:0.21
+  year:0.21
+  doublin:0.21
+  swam:0.21
+  replys:0.21
+
+K: 5, Log-Likelihood: -182.373, Alpha: 11.000, Beta: 1.100

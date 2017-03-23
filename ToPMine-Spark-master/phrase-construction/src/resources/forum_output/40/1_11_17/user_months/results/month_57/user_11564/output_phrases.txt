@@ -1,0 +1,61 @@
+Topic 0:
+  buyer seller:0.77
+  characters:0.62
+  ids:0.62
+  choose tx:0.58
+  transaction:0.56
+  amazon:0.54
+  digits:0.43
+  character:0.43
+  chance:0.43
+  detail:0.43
+
+Topic 1:
+  buyer seller:0.88
+  transaction:0.55
+  characters:0.54
+  ids:0.53
+  choose tx:0.52
+  amazon:0.52
+  shop main:0.44
+  randomly:0.44
+  publicly:0.44
+  casino:0.44
+
+Topic 2:
+  buyer seller:1.15
+  fair:0.57
+  convincing:0.56
+  win:0.56
+  vendors:0.56
+  setup:0.56
+  lottery:0.56
+  number generated:0.56
+  choose tx:0.56
+  buyers:0.56
+
+Topic 3:
+  buyer seller:1.05
+  transaction:0.57
+  choose tx:0.57
+  draw:0.52
+  store:0.51
+  publicly visible:0.51
+  paid:0.51
+  vendors:0.51
+  work:0.51
+  tx:0.51
+
+Topic 4:
+  buyer seller:0.97
+  transaction:0.54
+  choose tx:0.52
+  staff:0.51
+  paid:0.50
+  reliable:0.50
+  good:0.50
+  purchase:0.50
+  generated:0.50
+  random:0.50
+
+K: 5, Log-Likelihood: -666.243, Alpha: 11.000, Beta: 1.100

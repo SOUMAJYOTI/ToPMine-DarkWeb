@@ -1,0 +1,61 @@
+Topic 0:
+  electrum wallet:0.57
+  mixing service:0.53
+  coins:0.53
+  grams:0.44
+  harder:0.43
+  charges:0.42
+  trace:0.41
+  mix coins:0.41
+  send:0.32
+  web:0.32
+
+Topic 1:
+  electrum wallet:0.72
+  mix coins:0.57
+  trace:0.57
+  harder:0.56
+  charges:0.55
+  coins:0.52
+  mixing service:0.46
+  grams:0.46
+  web:0.34
+  clear:0.34
+
+Topic 2:
+  mixing service:0.68
+  coins:0.51
+  electrum wallet:0.48
+  grams:0.40
+  harder:0.31
+  send:0.31
+  mix coins:0.31
+  taint:0.31
+  mix tails:0.31
+  check:0.31
+
+Topic 3:
+  markets:1.69
+  tumble:1.69
+  electrum address:1.69
+  moving:0.69
+  vending:0.69
+  harm:0.69
+  secondary:0.69
+  people:0.69
+  possibility:0.69
+  opinion:0.69
+
+Topic 4:
+  electrum wallet:0.92
+  charges:0.86
+  trace:0.85
+  mix coins:0.84
+  harder:0.82
+  grams:0.51
+  coins:0.50
+  leadtothedome:0.36
+  coinssigaint:0.36
+  helps:0.36
+
+K: 5, Log-Likelihood: -462.479, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  direct:0.40
+  link:0.20
+  system:0.20
+  trade:0.20
+  vendor:0.20
+  marketplace:0.20
+  email:0.20
+  purpose:0.20
+  goods:0.20
+  people:0.20
+
+Topic 1:
+  direct:0.40
+  email:0.20
+  people:0.20
+  trade:0.20
+  purpose:0.20
+  link:0.20
+  message:0.20
+  system:0.20
+  goods:0.20
+  marketplace:0.20
+
+Topic 2:
+  direct:0.40
+  pm:0.20
+  advertise:0.20
+  people:0.20
+  link:0.20
+  vendor:0.20
+  verified:0.20
+  email:0.20
+  trade:0.20
+  goods:0.20
+
+Topic 3:
+  direct:0.40
+  verified:0.20
+  purpose:0.20
+  advertise:0.20
+  message:0.20
+  system:0.20
+  pm:0.20
+  vendor:0.20
+  goods:0.20
+  trade:0.20
+
+Topic 4:
+  direct:0.40
+  marketplace:0.20
+  message:0.20
+  goods:0.20
+  people:0.20
+  verified:0.20
+  advertise:0.20
+  email:0.20
+  system:0.20
+  vendor:0.20
+
+K: 5, Log-Likelihood: -39.262, Alpha: 11.000, Beta: 1.100

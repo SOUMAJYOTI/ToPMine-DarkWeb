@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:0.77
+  community:0.41
+  today:0.41
+  branch:0.40
+  lucky:0.40
+  cool:0.40
+  link:0.40
+  heck:0.40
+  find:0.40
+  posted:0.40
+
+Topic 1:
+  vendors:0.84
+  reddit:0.40
+  find:0.40
+  posted:0.40
+  link:0.40
+  clearnet:0.40
+  tor:0.40
+  heck:0.40
+  today:0.40
+  community:0.40
+
+Topic 2:
+  vendors:0.79
+  posted:0.40
+  cool:0.40
+  tor:0.40
+  clearnet:0.40
+  lucky:0.40
+  today:0.40
+  find:0.40
+  heck:0.40
+  branch:0.40
+
+Topic 3:
+  vendors:0.80
+  reddit:0.40
+  community:0.40
+  clearnet:0.40
+  link:0.40
+  find:0.40
+  branch:0.40
+  heck:0.40
+  today:0.40
+  lucky:0.40
+
+Topic 4:
+  vendors:0.80
+  tor:0.41
+  heck:0.40
+  branch:0.40
+  cool:0.40
+  lucky:0.40
+  link:0.40
+  today:0.40
+  community:0.40
+  reddit:0.40
+
+K: 5, Log-Likelihood: -79.912, Alpha: 11.000, Beta: 1.100

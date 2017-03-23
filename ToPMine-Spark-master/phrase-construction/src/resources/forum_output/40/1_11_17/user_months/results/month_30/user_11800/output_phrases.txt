@@ -1,0 +1,61 @@
+Topic 0:
+  login:4.51
+  lot:4.49
+  imputable:4.49
+  helpful:4.49
+  error:2.21
+  account:2.21
+  find:2.21
+  sr:2.21
+  attempted:2.21
+  wondering:2.21
+
+Topic 1:
+  hidden wiki:5.51
+  forum:4.67
+  didnt:4.52
+  dn:3.81
+  site full:3.55
+  doesnt:3.55
+  hey:3.55
+  mention:3.54
+  smell:3.54
+  noticed:3.54
+
+Topic 2:
+  signed message:5.72
+  december:3.99
+  message signed:3.69
+  pgp:3.69
+  signature zaphod:3.69
+  key:3.35
+  signature:3.34
+  gpg:3.17
+  time:2.75
+  tessellated gpg key:2.67
+
+Topic 3:
+  onion:6.88
+  site:5.25
+  sites:4.93
+  green road:4.92
+  precious:4.58
+  search:4.58
+  silk road:4.02
+  time:3.18
+  zaphod:2.45
+  days:2.27
+
+Topic 4:
+  good:4.31
+  signature:4.19
+  key:4.19
+  signed messages:3.43
+  gpg:3.19
+  pm:2.85
+  market manditory forum:2.57
+  vendors:2.42
+  profiles:2.26
+  standpoint:2.26
+
+K: 5, Log-Likelihood: -4366.898, Alpha: 11.000, Beta: 1.100

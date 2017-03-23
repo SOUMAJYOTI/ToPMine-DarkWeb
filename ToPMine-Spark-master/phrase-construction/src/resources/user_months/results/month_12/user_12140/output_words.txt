@@ -1,0 +1,61 @@
+Topic 0:
+  scam:0.78
+  service:0.74
+  anonymous:0.67
+  bitcoins:0.53
+  people:0.49
+  accept:0.48
+  papa:0.43
+  bad:0.40
+  buying:0.39
+  money:0.39
+
+Topic 1:
+  bitcoins:0.96
+  papa:0.71
+  accept:0.64
+  anonymous:0.53
+  paysafecard:0.50
+  wash:0.49
+  buy:0.49
+  scam:0.46
+  money:0.43
+  bad:0.42
+
+Topic 2:
+  bitcoins:1.22
+  accept:0.88
+  papa:0.84
+  anonymous:0.53
+  buy:0.52
+  wash:0.52
+  paysafecard:0.51
+  fact:0.46
+  money:0.45
+  buying:0.45
+
+Topic 3:
+  service:1.19
+  scam:0.80
+  people:0.70
+  anonymous:0.63
+  bitcoins:0.54
+  papa:0.42
+  accept:0.39
+  buying:0.32
+  fact:0.32
+  paysafecard:0.32
+
+Topic 4:
+  bitcoins:0.76
+  anonymous:0.63
+  accept:0.61
+  papa:0.59
+  scam:0.54
+  bad:0.43
+  fact:0.43
+  money:0.43
+  buying:0.43
+  service:0.43
+
+K: 5, Log-Likelihood: -449.694, Alpha: 11.000, Beta: 1.100

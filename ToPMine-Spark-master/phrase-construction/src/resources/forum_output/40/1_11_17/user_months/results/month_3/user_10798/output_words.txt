@@ -1,0 +1,61 @@
+Topic 0:
+  hack:15.35
+  sr:8.41
+  happened:7.18
+  doctorclu:7.07
+  careless:6.14
+  amwe:5.33
+  defcon:5.04
+  quote:4.90
+  february:4.06
+  lies:3.87
+
+Topic 1:
+  site:8.86
+  doesnt:4.41
+  hacked:4.38
+  job:3.62
+  ils:3.55
+  utopia:3.18
+  mob:2.95
+  security:2.92
+  dont:2.46
+  sorrymario:2.44
+
+Topic 2:
+  february:8.83
+  quote:6.90
+  vendors:6.78
+  money:6.72
+  sr:5.94
+  deposits:5.88
+  borrow:5.88
+  withdrawls:5.88
+  dont:4.72
+  idea:3.75
+
+Topic 3:
+  sr:8.07
+  market:7.99
+  admin:7.29
+  people:6.72
+  black:5.46
+  site:5.19
+  thread:5.06
+  forum:5.04
+  mods:4.97
+  btc:3.82
+
+Topic 4:
+  people:7.31
+  fucking:6.77
+  le:6.71
+  february:5.87
+  offering:4.93
+  start:4.91
+  nerds:4.90
+  wrong:4.26
+  problem:4.10
+  quote:3.99
+
+K: 5, Log-Likelihood: -6836.131, Alpha: 11.000, Beta: 1.100

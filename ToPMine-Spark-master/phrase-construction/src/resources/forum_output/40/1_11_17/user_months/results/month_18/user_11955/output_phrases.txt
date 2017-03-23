@@ -1,0 +1,61 @@
+Topic 0:
+  newbie:0.37
+  click:0.36
+  forum:0.31
+  working:0.20
+  agora:0.20
+  login:0.20
+  registering:0.20
+  post topic:0.20
+  usual:0.18
+  slow:0.18
+
+Topic 1:
+  newbie:0.37
+  click:0.37
+  forum:0.31
+  agora:0.20
+  registering:0.20
+  post topic:0.20
+  login:0.20
+  working:0.20
+  pmhave:0.18
+  topic post:0.18
+
+Topic 2:
+  click:0.37
+  newbie:0.37
+  forum:0.31
+  registering:0.20
+  agora:0.20
+  login:0.20
+  post topic:0.20
+  working:0.20
+  threads:0.18
+  karma:0.18
+
+Topic 3:
+  click:0.36
+  newbie:0.36
+  forum:0.31
+  working:0.21
+  registering:0.20
+  post topic:0.20
+  login:0.20
+  agora:0.20
+  fine:0.18
+  usual:0.18
+
+Topic 4:
+  click:0.37
+  newbie:0.36
+  forum:0.31
+  working:0.20
+  post topic:0.20
+  login:0.20
+  registering:0.20
+  agora:0.20
+  bit:0.18
+  fine:0.18
+
+K: 5, Log-Likelihood: -87.639, Alpha: 11.000, Beta: 1.100

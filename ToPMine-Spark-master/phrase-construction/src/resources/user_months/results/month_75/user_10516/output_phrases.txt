@@ -1,0 +1,61 @@
+Topic 0:
+  ram:0.32
+  january:0.16
+  bracelet:0.16
+  tails:0.16
+  trigger:0.16
+  luck:0.16
+  key:0.16
+  reader:0.08
+  reflex:0.08
+  risk:0.08
+
+Topic 1:
+  ram:0.33
+  luck:0.16
+  trigger:0.16
+  january:0.16
+  tails:0.16
+  bracelet:0.16
+  key:0.16
+  system:0.08
+  quote:0.08
+  innovation:0.08
+
+Topic 2:
+  ram:0.33
+  trigger:0.16
+  luck:0.16
+  january:0.16
+  tails:0.16
+  bracelet:0.16
+  key:0.16
+  rfid:0.08
+  risk:0.08
+  reflex:0.08
+
+Topic 3:
+  ram:0.32
+  key:0.16
+  bracelet:0.16
+  tails:0.16
+  trigger:0.16
+  luck:0.16
+  january:0.16
+  reboots:0.08
+  encrypting:0.08
+  persistent:0.08
+
+Topic 4:
+  ram:0.32
+  key:0.16
+  bracelet:0.16
+  luck:0.16
+  january:0.16
+  tails:0.16
+  trigger:0.16
+  random:0.08
+  lot:0.08
+  persistent:0.08
+
+K: 5, Log-Likelihood: -144.390, Alpha: 11.000, Beta: 1.100

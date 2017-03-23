@@ -1,0 +1,61 @@
+Topic 0:
+  alpha:1.66
+  btc:1.54
+  support:1.43
+  tor:1.26
+  good:1.16
+  rushed:1.13
+  extension:1.08
+  axa:1.05
+  wallet:1.04
+  quote:1.03
+
+Topic 1:
+  tor:2.33
+  alpha:1.84
+  support:1.72
+  rushed:1.41
+  worthless:1.05
+  placate:1.02
+  basically:1.01
+  atm:0.97
+  investors:0.97
+  extension:0.95
+
+Topic 2:
+  btc:5.83
+  hold:4.86
+  market:3.07
+  darkweb:2.99
+  good:1.70
+  wallet:1.56
+  mixing:1.47
+  nice:1.33
+  yeah:1.32
+  developed:1.32
+
+Topic 3:
+  wallet:11.10
+  tails:4.28
+  electrum:4.28
+  bitcoin:3.59
+  protect:3.25
+  computer:3.25
+  good:2.59
+  happy:2.38
+  holding:2.01
+  passphrase:2.01
+
+Topic 4:
+  tor:2.69
+  support:1.80
+  rushed:1.48
+  bit:1.42
+  chromium:1.41
+  runs:1.41
+  coinjoin:1.39
+  stealth:1.37
+  alpha:1.29
+  escrow:1.02
+
+K: 5, Log-Likelihood: -1356.265, Alpha: 11.000, Beta: 1.100

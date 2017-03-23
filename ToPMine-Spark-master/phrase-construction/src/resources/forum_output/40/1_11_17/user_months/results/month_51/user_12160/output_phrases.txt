@@ -1,0 +1,61 @@
+Topic 0:
+  scam:3.12
+  cautious:1.34
+  lose:1.34
+  amounts:1.34
+  records:1.34
+  stupidest:1.34
+  established:1.34
+  establish:1.34
+  track:1.34
+  services net:1.34
+
+Topic 1:
+  hosted:1.98
+  hidden:1.98
+  tor:1.98
+  stick:1.98
+  learned mixing:1.98
+  uri:1.98
+  mixers:1.98
+  clearnet:1.98
+  services:1.98
+  bitin:1.98
+
+Topic 2:
+  guy:2.86
+  good:2.86
+  aint:2.86
+  sounds:2.85
+  gon:2.85
+  security animal risk:1.65
+  list:1.37
+  maximum:1.37
+  didnt:1.37
+  bad:1.37
+
+Topic 3:
+  wallet:1.22
+  security animal risk:0.84
+  accidental loss pin protection:0.78
+  coinpig net:0.78
+  percent:0.78
+  oink:0.73
+  pig:0.73
+  deposit extra:0.67
+  visit:0.47
+  safetyyou:0.47
+
+Topic 4:
+  deposit extra:3.58
+  site:2.75
+  wallet:2.30
+  transaction:1.62
+  balance:1.62
+  coinpigfor:1.62
+  wallet secure:1.62
+  system:1.62
+  freedom:1.62
+  secure bitcoin:1.62
+
+K: 5, Log-Likelihood: -1542.194, Alpha: 11.000, Beta: 1.100

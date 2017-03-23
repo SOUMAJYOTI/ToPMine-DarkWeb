@@ -1,0 +1,61 @@
+Topic 0:
+  market:12.33
+  multi:9.75
+  sig:5.61
+  escrow:5.59
+  vendors:5.24
+  option:5.16
+  march:4.72
+  good:4.67
+  mate:3.73
+  fe:3.60
+
+Topic 1:
+  escrow:7.09
+  multi:6.56
+  market:6.15
+  vendor:5.92
+  option:5.65
+  sig:5.59
+  brad:5.28
+  address:4.84
+  coins:4.84
+  btc:3.84
+
+Topic 2:
+  market:10.22
+  wallet:9.68
+  vendor:9.65
+  escrow:7.70
+  brad:6.48
+  fe:5.67
+  multi:5.07
+  opening:4.83
+  external:4.63
+  good:4.55
+
+Topic 3:
+  market:20.19
+  sig:11.06
+  multi:9.53
+  march:9.25
+  pmquote:6.92
+  things:4.80
+  hope:4.32
+  arcane:4.00
+  quote:3.97
+  future:2.89
+
+Topic 4:
+  market:13.11
+  multi:10.09
+  sig:8.96
+  option:8.34
+  march:6.53
+  arcane:3.65
+  quote:3.35
+  escrow:3.05
+  support:2.69
+  pmquote:2.56
+
+K: 5, Log-Likelihood: -3856.760, Alpha: 11.000, Beta: 1.100

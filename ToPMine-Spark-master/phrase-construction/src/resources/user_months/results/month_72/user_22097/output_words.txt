@@ -1,0 +1,61 @@
+Topic 0:
+  promotion:0.20
+  ship:0.20
+  worldwide:0.20
+  alphabet:0.20
+  listing:0.20
+  grams:0.20
+  valhalla:0.20
+  buy:0.20
+  dream:0.20
+  enjoy:0.20
+
+Topic 1:
+  enjoy:0.20
+  ship:0.20
+  worldwide:0.20
+  grams:0.20
+  buy:0.20
+  listing:0.20
+  alphabet:0.20
+  dream:0.20
+  valhalla:0.20
+  promotion:0.20
+
+Topic 2:
+  dream:0.20
+  worldwide:0.20
+  alphabet:0.20
+  enjoy:0.20
+  valhalla:0.20
+  grams:0.20
+  listing:0.20
+  promotion:0.20
+  ship:0.20
+  buy:0.20
+
+Topic 3:
+  dream:0.20
+  buy:0.20
+  valhalla:0.20
+  promotion:0.20
+  listing:0.20
+  grams:0.20
+  enjoy:0.20
+  alphabet:0.20
+  worldwide:0.20
+  ship:0.20
+
+Topic 4:
+  buy:0.20
+  valhalla:0.20
+  listing:0.20
+  enjoy:0.20
+  promotion:0.20
+  grams:0.20
+  alphabet:0.20
+  ship:0.20
+  dream:0.20
+  worldwide:0.20
+
+K: 5, Log-Likelihood: -23.026, Alpha: 11.000, Beta: 1.100

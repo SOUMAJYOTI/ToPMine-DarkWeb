@@ -1,0 +1,61 @@
+Topic 0:
+  september:10.62
+  quote:7.49
+  jack hoff:6.75
+  vendor account hijacked:6.45
+  inside job:5.52
+  good:5.44
+  people:5.18
+  money:5.17
+  hijacking:4.93
+  people sr:4.40
+
+Topic 1:
+  log:9.34
+  buyer account:8.84
+  vendor account:5.82
+  drshrooms:5.26
+  block:5.26
+  key:5.26
+  earlier:4.22
+  pandora:4.22
+  logged:4.21
+  evolution:4.10
+
+Topic 2:
+  silk road:27.53
+  captcha:13.34
+  ip address:10.96
+  fbi:9.89
+  tor:9.59
+  hosted:7.90
+  agents:7.90
+  security:7.90
+  packet sniffer:7.90
+  cubrilovic:7.90
+
+Topic 3:
+  ip:8.65
+  agent:7.19
+  fbi:5.21
+  ips:5.21
+  backups:5.21
+  ve:4.47
+  source:4.45
+  protocol:4.36
+  database:4.32
+  point:4.32
+
+Topic 4:
+  ip address:8.11
+  fbi:5.39
+  correct:5.19
+  packet:4.59
+  access:4.13
+  packets data:3.47
+  tarbell:3.47
+  agent:3.36
+  miscellaneous entries:3.31
+  surname password captcha:3.21
+
+K: 5, Log-Likelihood: -13588.312, Alpha: 11.000, Beta: 1.100

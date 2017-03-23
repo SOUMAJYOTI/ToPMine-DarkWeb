@@ -1,0 +1,61 @@
+Topic 0:
+  anonymity:5.04
+  fuu:4.83
+  quote:4.75
+  october:4.63
+  bitcoins:3.72
+  bitcoin:2.92
+  wallet:2.78
+  tor:2.68
+  vpn:2.38
+  cash:2.13
+
+Topic 1:
+  btc:4.70
+  transaction:3.91
+  dash:3.82
+  anonymous:3.36
+  bitcoin:3.26
+  io:2.96
+  shapeshift:2.96
+  history:1.91
+  timestamp:1.91
+  amountout:1.91
+
+Topic 2:
+  bitcoin:1.99
+  quote:1.63
+  blender:1.09
+  recommend:0.99
+  people:0.98
+  helix:0.94
+  payshield:0.94
+  mixing:0.89
+  vouch:0.87
+  cash:0.85
+
+Topic 3:
+  november:6.06
+  recommend:5.78
+  blender:4.73
+  tang:3.41
+  appreciated:2.96
+  amquote:2.58
+  bitblender:2.51
+  hang:2.40
+  kekhello:2.39
+  hemm:2.38
+
+Topic 4:
+  quote:6.94
+  anonymity:5.42
+  bitcoin:4.60
+  october:4.28
+  fuu:4.09
+  dash:2.91
+  bitcoins:2.78
+  vpn:2.25
+  tor:2.24
+  mixing:2.20
+
+K: 5, Log-Likelihood: -1939.688, Alpha: 11.000, Beta: 1.100

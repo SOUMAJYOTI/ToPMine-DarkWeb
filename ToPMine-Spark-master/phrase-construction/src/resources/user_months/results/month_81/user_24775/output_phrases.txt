@@ -1,0 +1,61 @@
+Topic 0:
+  flash drive:17.16
+  load:9.77
+  blue screen:9.77
+  qubes installed:8.57
+  hardware compatibility:8.57
+  computer:8.57
+  recommended:8.57
+  vpn download:7.20
+  tubes:5.77
+  testing:5.71
+
+Topic 1:
+  lbc:13.39
+  tor:8.61
+  set lbc:7.29
+  notable qubes general isnt:6.41
+  version ps posted forum:6.41
+  notable:6.41
+  iso vmware download notable:6.41
+  guys recommend downloading qubes:6.41
+  drive startup disk os:6.41
+  qubes:5.54
+
+Topic 2:
+  mentions stick micro sd:6.38
+  site:6.13
+  download:5.52
+  usb:5.11
+  boot qubes:4.95
+  install qubes:4.95
+  april amhi:4.84
+  zaphod:4.84
+  card work debating buy:4.84
+  types:4.84
+
+Topic 3:
+  telegram:17.89
+  people:9.79
+  telegram signal:7.33
+  owned:7.33
+  quote:6.83
+  handset:5.70
+  apples:5.65
+  trade:5.23
+  companys:4.87
+  advised:4.87
+
+Topic 4:
+  telegram:6.59
+  counterfeit:5.70
+  verify:5.70
+  memory:5.70
+  secure:5.70
+  threads:5.70
+  left:5.70
+  chip:4.71
+  deals:3.36
+  wipe:2.84
+
+K: 5, Log-Likelihood: -11353.549, Alpha: 11.000, Beta: 1.100

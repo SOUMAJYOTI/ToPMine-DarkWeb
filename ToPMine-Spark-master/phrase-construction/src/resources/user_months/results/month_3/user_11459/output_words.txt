@@ -1,0 +1,61 @@
+Topic 0:
+  site:0.65
+  good:0.47
+  post:0.47
+  guys:0.42
+  postives:0.38
+  wiki:0.37
+  things:0.37
+  theyve:0.37
+  hiddin:0.37
+  negatives:0.37
+
+Topic 1:
+  good:1.70
+  site:1.12
+  negatives:0.96
+  scams:0.96
+  hiddin:0.96
+  theyve:0.95
+  wiki:0.95
+  things:0.95
+  postives:0.94
+  post:0.54
+
+Topic 2:
+  site:0.56
+  guys:0.42
+  post:0.42
+  good:0.38
+  wan:0.33
+  postives:0.31
+  things:0.31
+  scams:0.30
+  theyve:0.30
+  hiddin:0.30
+
+Topic 3:
+  wan:0.91
+  guys:0.37
+  ay:0.36
+  experience:0.36
+  legion:0.36
+  sihit:0.36
+  doenst:0.36
+  full:0.36
+  fakes:0.36
+  stuff:0.36
+
+Topic 4:
+  site:0.48
+  guys:0.42
+  wan:0.38
+  post:0.38
+  good:0.32
+  postives:0.26
+  things:0.26
+  wiki:0.26
+  theyve:0.26
+  scams:0.26
+
+K: 5, Log-Likelihood: -293.800, Alpha: 11.000, Beta: 1.100

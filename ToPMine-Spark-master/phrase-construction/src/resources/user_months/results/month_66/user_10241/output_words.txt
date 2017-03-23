@@ -1,0 +1,61 @@
+Topic 0:
+  tax:4.93
+  incorporate:3.93
+  avoidance:2.93
+  ato:2.93
+  feeling:1.93
+  office:1.93
+  satoshi:1.15
+  operation:1.14
+  door:1.14
+  knock:1.14
+
+Topic 1:
+  simple:1.73
+  criminal:1.23
+  collar:1.23
+  nice:1.23
+  white:1.23
+  swat:1.23
+  tale:1.22
+  operation:1.20
+  knock:1.19
+  door:1.19
+
+Topic 2:
+  wallet:3.08
+  address:1.77
+  referred:1.65
+  funds:1.50
+  receive:1.22
+  quote:1.15
+  time:1.13
+  simple:0.83
+  change:0.78
+  terms:0.78
+
+Topic 3:
+  wright:7.93
+  wired:5.93
+  bitcoin:5.83
+  published:4.93
+  nakamoto:4.93
+  launch:2.93
+  blog:2.93
+  article:2.93
+  january:2.93
+  time:2.03
+
+Topic 4:
+  wallet:4.79
+  funds:1.90
+  address:1.74
+  referred:1.73
+  receive:1.42
+  time:1.31
+  btc:1.28
+  farm:1.12
+  thing:1.11
+  online:0.96
+
+K: 5, Log-Likelihood: -2181.611, Alpha: 11.000, Beta: 1.100

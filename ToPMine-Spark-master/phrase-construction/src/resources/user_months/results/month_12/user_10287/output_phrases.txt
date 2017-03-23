@@ -1,0 +1,61 @@
+Topic 0:
+  douppikaupan:2.40
+  koskien:2.40
+  ja:1.80
+  puolella:1.15
+  mediaa:1.15
+  sinule:1.15
+  ihan:1.15
+  joka:1.15
+  privaviestien:1.15
+  nikin:1.15
+
+Topic 1:
+  olen:1.16
+  arvostan:1.16
+  yhteiskunnalle:1.16
+  lsd:1.16
+  ihmiset:1.16
+  ksi:1.16
+  haaveillut:1.16
+  teette:1.16
+  luvah:1.16
+  suomalaiselle:1.16
+
+Topic 2:
+  smitten:2.43
+  st:1.79
+  jokaiseen:1.18
+  varmaan:1.18
+  tarkoitti:1.18
+  miten:1.18
+  toivottavasti:1.18
+  tunnissa:1.18
+  omiaan:1.18
+  kuitenkin:1.18
+
+Topic 3:
+  ett:1.82
+  voinut:1.18
+  kannalta:1.18
+  yksi:1.18
+  postin:1.18
+  maintsissiin:1.18
+  esim:1.18
+  ois:1.18
+  toimittajia:1.18
+  kielt:1.18
+
+Topic 4:
+  ytt ji:3.68
+  tor:2.63
+  sivuston:2.42
+  silkkitie:2.42
+  verkon:2.42
+  markkinointipalkkion:1.18
+  saadakseen:1.18
+  ityneit:1.18
+  kanssa:1.18
+  ovat:1.18
+
+K: 5, Log-Likelihood: -1604.624, Alpha: 11.000, Beta: 1.100

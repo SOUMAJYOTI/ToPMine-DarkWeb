@@ -1,0 +1,61 @@
+Topic 0:
+  wallet direct deals:0.41
+  electrum:0.22
+  walletsend:0.20
+  solid:0.20
+  coins:0.20
+  wallets:0.20
+  vendors:0.20
+  squire:0.20
+  method:0.20
+  accessing:0.20
+
+Topic 1:
+  wallet direct deals:0.41
+  electrum:0.22
+  suppose:0.20
+  tails:0.20
+  electrum wallet:0.20
+  tail:0.20
+  method:0.20
+  logout:0.20
+  login:0.20
+  mine:0.20
+
+Topic 2:
+  wallet direct deals:0.41
+  electrum:0.22
+  recommend:0.20
+  tails:0.20
+  blockchainwalletsend:0.20
+  market:0.20
+  login:0.20
+  tumbling:0.20
+  wallet final:0.20
+  squire:0.20
+
+Topic 3:
+  wallet direct deals:0.41
+  electrum:0.22
+  helixsend:0.20
+  persistance:0.20
+  wallet final:0.20
+  method:0.20
+  safest:0.20
+  helix:0.20
+  electrum wallet:0.20
+  wallets:0.20
+
+Topic 4:
+  wallet direct deals:0.41
+  electrum:0.22
+  tails:0.20
+  helix:0.20
+  helixsend:0.20
+  safe:0.20
+  blockchainwalletsend:0.20
+  final:0.20
+  persistance:0.20
+  btc:0.20
+
+K: 5, Log-Likelihood: -144.557, Alpha: 11.000, Beta: 1.100

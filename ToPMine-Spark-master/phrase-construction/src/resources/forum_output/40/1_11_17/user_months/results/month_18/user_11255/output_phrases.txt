@@ -1,0 +1,61 @@
+Topic 0:
+  dick:0.68
+  trees:0.45
+  inch:0.44
+  dick pics:0.42
+  enjoy:0.28
+  july:0.28
+  quote:0.28
+  people:0.27
+  fine:0.27
+  theyve:0.27
+
+Topic 1:
+  dick:0.79
+  inch:0.50
+  trees:0.49
+  dick pics:0.44
+  enjoy:0.28
+  quote:0.27
+  july:0.27
+  doomed:0.25
+  people:0.25
+  shit:0.25
+
+Topic 2:
+  dick:0.68
+  trees:0.45
+  inch:0.44
+  dick pics:0.41
+  quote:0.28
+  enjoy:0.28
+  july:0.28
+  people:0.27
+  fine:0.27
+  theyve:0.27
+
+Topic 3:
+  dick:0.62
+  inch:0.43
+  trees:0.42
+  dick pics:0.41
+  theyve:0.28
+  shit:0.28
+  fine:0.28
+  guys:0.28
+  doomed:0.28
+  time:0.28
+
+Topic 4:
+  dick:0.53
+  dick pics:0.39
+  trees:0.39
+  inch:0.39
+  time:0.31
+  guys:0.31
+  doomed:0.31
+  shit:0.31
+  fine:0.31
+  people:0.31
+
+K: 5, Log-Likelihood: -180.143, Alpha: 11.000, Beta: 1.100

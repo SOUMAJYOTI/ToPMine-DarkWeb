@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:0.97
+  aerial number:0.70
+  bitin:0.43
+  long:0.43
+  bitcoin:0.43
+  cleaning:0.43
+  track:0.33
+  lots:0.26
+  cleancoin:0.25
+  bitcoins:0.25
+
+Topic 1:
+  wallet:0.59
+  aerial number:0.48
+  bitcoins:0.42
+  lots:0.41
+  cleancoin:0.41
+  bitin:0.33
+  bitcoin:0.33
+  long:0.33
+  cleaning:0.33
+  track:0.30
+
+Topic 2:
+  cleancoin:0.58
+  lots:0.58
+  bitcoins:0.57
+  wallet:0.47
+  aerial number:0.39
+  bitcoin:0.28
+  cleaning:0.28
+  long:0.28
+  bitin:0.28
+  track:0.27
+
+Topic 3:
+  wallet:0.79
+  aerial number:0.58
+  bitcoin:0.40
+  bitin:0.39
+  long:0.39
+  cleaning:0.39
+  track:0.32
+  lots:0.30
+  cleancoin:0.30
+  bitcoins:0.30
+
+Topic 4:
+  wallet:0.85
+  aerial number:0.60
+  cleaning:0.41
+  long:0.41
+  bitcoin:0.40
+  bitin:0.40
+  track:0.32
+  bitcoins:0.28
+  lots:0.28
+  cleancoin:0.28
+
+K: 5, Log-Likelihood: -314.134, Alpha: 11.000, Beta: 1.100

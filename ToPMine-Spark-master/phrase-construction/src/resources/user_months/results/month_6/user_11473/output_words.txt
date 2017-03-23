@@ -1,0 +1,61 @@
+Topic 0:
+  forum:5.20
+  escrow:4.87
+  february:3.79
+  quote:3.52
+  fees:3.12
+  pay:2.56
+  vend:2.55
+  paying:2.33
+  talent:1.92
+  northwest:1.77
+
+Topic 1:
+  sr:8.47
+  markets:5.35
+  escrow:5.26
+  quote:3.57
+  february:3.55
+  crow:2.88
+  signature:2.71
+  mufti:2.71
+  rush:2.71
+  adopting:2.71
+
+Topic 2:
+  sr:6.91
+  trust:3.00
+  smaller:2.89
+  today:2.89
+  bad:2.70
+  secure:2.08
+  time:2.01
+  live:1.87
+  long:1.87
+  eyes:1.87
+
+Topic 3:
+  escrow:4.08
+  sr:2.95
+  agora:2.03
+  bazaar:1.96
+  tor:1.92
+  quote:1.88
+  february:1.57
+  link:1.49
+  fast:1.42
+  gamesome:1.38
+
+Topic 4:
+  market:9.25
+  main:7.36
+  vendors:5.11
+  forums:3.82
+  point:3.81
+  agora:3.70
+  couple:3.57
+  referrals:3.54
+  sr:3.28
+  big:2.25
+
+K: 5, Log-Likelihood: -3514.980, Alpha: 11.000, Beta: 1.100

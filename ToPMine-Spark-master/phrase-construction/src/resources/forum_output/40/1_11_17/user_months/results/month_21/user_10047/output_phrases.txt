@@ -1,0 +1,61 @@
+Topic 0:
+  working:0.28
+  message:0.28
+  hours:0.28
+  error message:0.28
+  registrations:0.28
+  referred:0.23
+  user limit reached:0.17
+  code:0.14
+  server:0.14
+  admins:0.14
+
+Topic 1:
+  error message:0.28
+  message:0.28
+  working:0.28
+  registrations:0.28
+  hours:0.28
+  referred:0.23
+  user limit reached:0.17
+  time:0.14
+  full:0.14
+  register:0.14
+
+Topic 2:
+  registrations:0.28
+  hours:0.28
+  message:0.28
+  error message:0.28
+  working:0.28
+  referred:0.23
+  user limit reached:0.17
+  register:0.14
+  release:0.14
+  full:0.14
+
+Topic 3:
+  message:0.28
+  hours:0.28
+  registrations:0.28
+  error message:0.28
+  working:0.28
+  referred:0.23
+  user limit reached:0.17
+  sticking:0.14
+  thread:0.14
+  full:0.14
+
+Topic 4:
+  registrations:0.28
+  working:0.28
+  hours:0.28
+  error message:0.28
+  message:0.28
+  referred:0.23
+  user limit reached:0.17
+  work:0.14
+  temporarily:0.14
+  misleading:0.14
+
+K: 5, Log-Likelihood: -110.220, Alpha: 11.000, Beta: 1.100

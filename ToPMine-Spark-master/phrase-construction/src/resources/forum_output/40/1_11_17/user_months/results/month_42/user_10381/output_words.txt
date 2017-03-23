@@ -1,0 +1,61 @@
+Topic 0:
+  minutes:0.63
+  time:0.41
+  est:0.40
+  screen:0.39
+  logon:0.39
+  ddw:0.20
+  degrading:0.20
+  infrastructure:0.20
+  lasted:0.20
+  hasnt:0.20
+
+Topic 1:
+  minutes:0.61
+  time:0.41
+  est:0.40
+  screen:0.39
+  logon:0.39
+  lasted:0.20
+  ddw:0.20
+  infrastructure:0.20
+  degrading:0.20
+  pmconfirmed:0.20
+
+Topic 2:
+  minutes:0.59
+  logon:0.40
+  screen:0.40
+  est:0.40
+  time:0.40
+  users:0.20
+  checking:0.20
+  markets:0.20
+  problems:0.20
+  dont:0.20
+
+Topic 3:
+  minutes:0.60
+  logon:0.41
+  screen:0.40
+  est:0.40
+  time:0.39
+  loading:0.20
+  enter:0.20
+  quietforest:0.20
+  problem:0.20
+  times:0.20
+
+Topic 4:
+  minutes:0.57
+  logon:0.41
+  screen:0.41
+  est:0.40
+  time:0.40
+  problem:0.20
+  times:0.20
+  quietforest:0.20
+  credentials:0.20
+  enter:0.20
+
+K: 5, Log-Likelihood: -162.625, Alpha: 11.000, Beta: 1.100

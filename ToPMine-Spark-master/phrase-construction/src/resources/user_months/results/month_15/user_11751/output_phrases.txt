@@ -1,0 +1,61 @@
+Topic 0:
+  problem:0.51
+  agora:0.47
+  time:0.34
+  uptime:0.33
+  close:0.33
+  thread:0.33
+  find:0.33
+  darknet:0.33
+  site:0.33
+  roberts:0.26
+
+Topic 1:
+  problem:0.64
+  agora:0.42
+  time:0.33
+  site:0.29
+  thread:0.29
+  close:0.29
+  find:0.29
+  uptime:0.29
+  darknet:0.29
+  loading:0.29
+
+Topic 2:
+  problem:0.50
+  agora:0.47
+  darknet:0.34
+  close:0.34
+  find:0.34
+  thread:0.34
+  site:0.34
+  time:0.34
+  uptime:0.34
+  account:0.26
+
+Topic 3:
+  agora:0.51
+  problem:0.41
+  find:0.38
+  uptime:0.38
+  site:0.38
+  darknet:0.38
+  thread:0.38
+  close:0.38
+  time:0.34
+  quote:0.30
+
+Topic 4:
+  agora:0.49
+  problem:0.48
+  close:0.35
+  thread:0.35
+  site:0.35
+  darknet:0.35
+  uptime:0.35
+  find:0.35
+  time:0.34
+  missing:0.26
+
+K: 5, Log-Likelihood: -309.677, Alpha: 11.000, Beta: 1.100

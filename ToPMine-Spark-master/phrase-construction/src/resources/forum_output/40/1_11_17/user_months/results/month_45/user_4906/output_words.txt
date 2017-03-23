@@ -1,0 +1,61 @@
+Topic 0:
+  download:6.15
+  recieved:4.40
+  downloading:4.31
+  disabled:4.14
+  javascript:3.90
+  opens:3.81
+  june:3.81
+  quote:3.81
+  pdf:2.55
+  work:2.18
+
+Topic 1:
+  tor:6.18
+  browser:5.65
+  open:4.33
+  method:4.29
+  pdf:4.16
+  disallow:3.76
+  website:2.37
+  javascript:2.09
+  downloads:1.97
+  clicking:1.78
+
+Topic 2:
+  mediafire:4.56
+  pdf:4.25
+  download:3.49
+  browser:3.24
+  tor:3.01
+  javascript:2.72
+  time:2.48
+  website:2.38
+  enable:2.08
+  downloads:1.83
+
+Topic 3:
+  tails:11.59
+  view:9.88
+  file:9.24
+  files:8.34
+  pdf:7.53
+  viewer:6.89
+  document:5.05
+  internet:4.98
+  viewing:4.88
+  sessions:3.26
+
+Topic 4:
+  pdf:14.51
+  files:7.20
+  file:5.41
+  tails:4.89
+  open:4.84
+  view:3.83
+  tor:3.09
+  safest:1.59
+  viewing:1.01
+  viewer:1.00
+
+K: 5, Log-Likelihood: -2152.206, Alpha: 11.000, Beta: 1.100

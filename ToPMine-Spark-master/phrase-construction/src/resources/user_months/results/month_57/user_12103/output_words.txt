@@ -1,0 +1,61 @@
+Topic 0:
+  service:4.56
+  address:3.70
+  bitcoin:3.29
+  mixing:2.98
+  bitcoins:2.72
+  btc:1.96
+  io:1.83
+  coins:1.73
+  transactions:1.70
+  mixer:1.13
+
+Topic 1:
+  mixing:3.30
+  service:2.64
+  btc:1.37
+  address:1.31
+  start:1.28
+  bitcoins:1.20
+  successful:1.17
+  io:1.10
+  decided:1.10
+  bitcoin:1.03
+
+Topic 2:
+  onion:2.42
+  quote:1.90
+  october:1.80
+  safe:1.03
+  mail:1.02
+  august:0.88
+  decided:0.81
+  successful:0.81
+  start:0.80
+  contact:0.75
+
+Topic 3:
+  onion:2.75
+  quote:1.52
+  october:1.32
+  mail:1.15
+  safe:1.13
+  coming:0.81
+  contact:0.80
+  site:0.78
+  successful:0.76
+  decided:0.75
+
+Topic 4:
+  service:2.09
+  decided:1.33
+  successful:1.30
+  mixing:1.23
+  start:1.21
+  btc:1.02
+  spacechain:0.99
+  october:0.85
+  address:0.82
+  mail:0.80
+
+K: 5, Log-Likelihood: -1306.752, Alpha: 11.000, Beta: 1.100

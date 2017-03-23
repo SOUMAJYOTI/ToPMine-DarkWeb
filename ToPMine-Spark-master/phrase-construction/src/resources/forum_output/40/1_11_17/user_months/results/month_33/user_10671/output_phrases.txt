@@ -1,0 +1,61 @@
+Topic 0:
+  wrote:0.28
+  thought:0.28
+  english:0.28
+  characters remind:0.17
+  wallet:0.17
+  luck:0.14
+  lesson:0.14
+  paper:0.14
+  learned:0.14
+  written:0.14
+
+Topic 1:
+  english:0.28
+  thought:0.28
+  wrote:0.28
+  characters remind:0.17
+  wallet:0.17
+  portfolio:0.14
+  recorded:0.14
+  weeksi:0.14
+  forums:0.14
+  ideas:0.14
+
+Topic 2:
+  thought:0.28
+  wrote:0.28
+  english:0.28
+  characters remind:0.17
+  wallet:0.17
+  attempt:0.14
+  lesson:0.14
+  written:0.14
+  understanding:0.14
+  trouble:0.14
+
+Topic 3:
+  english:0.28
+  wrote:0.28
+  thought:0.28
+  wallet:0.17
+  characters remind:0.17
+  word:0.14
+  july:0.14
+  translated:0.14
+  crack:0.14
+  single:0.14
+
+Topic 4:
+  english:0.28
+  thought:0.28
+  wrote:0.28
+  characters remind:0.17
+  wallet:0.17
+  strong:0.14
+  french:0.14
+  services:0.14
+  file:0.14
+  looked:0.14
+
+K: 5, Log-Likelihood: -175.140, Alpha: 11.000, Beta: 1.100

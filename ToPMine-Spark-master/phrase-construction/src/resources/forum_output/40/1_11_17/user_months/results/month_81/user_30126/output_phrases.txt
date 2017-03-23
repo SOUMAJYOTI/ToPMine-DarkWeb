@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins:7.95
+  pgp password long fooled:5.62
+  work:4.51
+  search:4.49
+  good:4.18
+  pmalso refuse open:3.94
+  dont:3.14
+  amquote ron swanson:3.09
+  deep:2.66
+  deals:2.66
+
+Topic 1:
+  open:6.55
+  start:5.70
+  pay:4.57
+  feeling:4.57
+  dudes:4.57
+  webcam:4.57
+  waking:4.57
+  idea:4.57
+  lady:4.57
+  great:4.57
+
+Topic 2:
+  simply:5.86
+  face:5.44
+  regulatory framework:5.32
+  quote fox mulder:4.74
+  facilitate:4.61
+  jumped:4.61
+  consistently:4.61
+  admit:4.61
+  localbitcoins:4.61
+  message:4.61
+
+Topic 3:
+  tor:9.23
+  vpn:6.92
+  tor clearnet:6.01
+  connect depends popular link:5.87
+  open clearnet site open:5.86
+  aint:5.42
+  blockchain:5.33
+  computer:4.55
+  connections:4.55
+  pmif:4.55
+
+Topic 4:
+  virwox:6.94
+  quote:4.71
+  paypal concerned:4.61
+  banned:4.61
+  numerous:4.61
+  sign:4.61
+  mixing:4.61
+  bitcoin youll:4.61
+  ban:4.61
+  coinbase paypal:4.61
+
+K: 5, Log-Likelihood: -5250.120, Alpha: 11.000, Beta: 1.100

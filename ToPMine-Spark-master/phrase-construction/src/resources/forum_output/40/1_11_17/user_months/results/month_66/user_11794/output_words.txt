@@ -1,0 +1,61 @@
+Topic 0:
+  reddit:5.68
+  dont:4.16
+  code:4.01
+  js:3.87
+  scripts:3.44
+  works:3.07
+  hear:3.04
+  galaxy:2.40
+  clones:1.88
+  sortening:1.88
+
+Topic 1:
+  quote:5.06
+  work:4.43
+  providing:3.69
+  improved:3.68
+  financial:3.68
+  respect:3.68
+  humankind:3.68
+  anonymity:3.68
+  teammates:3.68
+  hard:3.68
+
+Topic 2:
+  social:7.05
+  media:5.65
+  wiki:4.28
+  hidden:2.77
+  chat:2.67
+  updates:2.14
+  dn:1.95
+  dash:1.86
+  incl:1.82
+  group:1.70
+
+Topic 3:
+  dash:24.51
+  electrum:9.67
+  trezor:4.96
+  wallet:3.99
+  installer:3.96
+  electric:2.96
+  install:2.96
+  users:2.96
+  release:2.96
+  popular:2.96
+
+Topic 4:
+  dash:14.04
+  social:4.72
+  blockchain:3.54
+  wallet:3.47
+  media:2.99
+  tier:2.64
+  system:2.49
+  news:2.45
+  masternodes:2.41
+  chinese:2.00
+
+K: 5, Log-Likelihood: -3773.606, Alpha: 11.000, Beta: 1.100

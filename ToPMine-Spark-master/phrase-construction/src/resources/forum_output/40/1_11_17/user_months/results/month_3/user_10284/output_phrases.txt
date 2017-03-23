@@ -1,0 +1,61 @@
+Topic 0:
+  vaan:0.28
+  ja:0.27
+  onko:0.27
+  yd:0.27
+  pit:0.27
+  bitcoineissa:0.17
+  kiinte:0.14
+  sille:0.14
+  euroissa:0.14
+  ketjun:0.14
+
+Topic 1:
+  vaan:0.29
+  onko:0.27
+  pit:0.27
+  ja:0.27
+  yd:0.27
+  bitcoineissa:0.17
+  tuotetta:0.14
+  march:0.14
+  halusin:0.14
+  tehtiin:0.14
+
+Topic 2:
+  pit:0.29
+  yd:0.29
+  ja:0.29
+  onko:0.29
+  vaan:0.25
+  bitcoineissa:0.17
+  puolesta:0.14
+  ilman:0.14
+  vaihtamassa:0.14
+  jolla:0.14
+
+Topic 3:
+  vaan:0.29
+  onko:0.27
+  yd:0.27
+  pit:0.27
+  ja:0.27
+  bitcoineissa:0.17
+  tehtiin:0.14
+  aloitin:0.14
+  quote:0.14
+  euroissa:0.14
+
+Topic 4:
+  ja:0.28
+  onko:0.28
+  yd:0.28
+  pit:0.28
+  vaan:0.27
+  bitcoineissa:0.17
+  itselleni:0.14
+  tapauksissa:0.14
+  kohtuullisen:0.14
+  hinnoiteltua:0.14
+
+K: 5, Log-Likelihood: -357.686, Alpha: 11.000, Beta: 1.100

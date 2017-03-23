@@ -1,0 +1,61 @@
+Topic 0:
+  people:12.18
+  lsd:6.54
+  allot:5.18
+  bad:5.13
+  acid:4.96
+  led:4.31
+  purely:3.08
+  experiences:3.05
+  link:2.96
+  doubt:2.96
+
+Topic 1:
+  timezone:1.52
+  positive:1.27
+  dont:1.16
+  vibes:1.11
+  time:0.96
+  founded:0.72
+  point:0.70
+  super:0.70
+  annoying:0.68
+  anonymity:0.68
+
+Topic 2:
+  drugs:12.49
+  people:12.05
+  drug:10.25
+  lsd:10.01
+  society:4.97
+  proper:4.90
+  good:3.95
+  website:3.90
+  today:3.90
+  dont:3.80
+
+Topic 3:
+  love:5.73
+  healing:4.83
+  ootp:3.35
+  life:3.15
+  remember:2.91
+  light:2.90
+  great:1.94
+  stick:1.91
+  worth:1.91
+  man:1.91
+
+Topic 4:
+  dont:3.86
+  organization:1.93
+  time:1.18
+  lsd:1.08
+  founded:1.07
+  positive:0.98
+  free:0.88
+  outright:0.88
+  general:0.88
+  write:0.88
+
+K: 5, Log-Likelihood: -5464.167, Alpha: 11.000, Beta: 1.100

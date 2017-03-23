@@ -1,0 +1,61 @@
+Topic 0:
+  tuned:0.55
+  backing:0.55
+  ago:0.55
+  financial:0.55
+  fair:0.55
+  majestic:0.55
+  week:0.55
+  type:0.55
+  admin:0.55
+  russians:0.55
+
+Topic 1:
+  question:0.42
+  hope:0.42
+  reddit:0.42
+  time:0.42
+  enjoying:0.42
+  feel:0.42
+  love:0.42
+  great:0.42
+  sour:0.42
+  days:0.42
+
+Topic 2:
+  btc:0.76
+  hacker:0.69
+  reason:0.57
+  people:0.56
+  things:0.56
+  anonymous:0.55
+  paying:0.53
+  loyalty:0.53
+  assumed:0.30
+  treat:0.30
+
+Topic 3:
+  hacker:2.27
+  btc:2.19
+  loyalty:1.36
+  paying:1.35
+  anonymous:1.34
+  things:1.32
+  people:1.32
+  reason:1.31
+  accounts:0.55
+  agree:0.55
+
+Topic 4:
+  dnm forums:0.41
+  great:0.41
+  banter:0.41
+  hypothetically:0.41
+  love:0.41
+  sour:0.41
+  enjoying:0.41
+  feel:0.41
+  hope:0.41
+  days:0.41
+
+K: 5, Log-Likelihood: -549.098, Alpha: 11.000, Beta: 1.100

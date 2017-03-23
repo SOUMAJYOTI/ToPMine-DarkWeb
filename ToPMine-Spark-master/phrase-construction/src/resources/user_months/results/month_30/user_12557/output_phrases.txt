@@ -1,0 +1,61 @@
+Topic 0:
+  varmaan:0.56
+  ett:0.34
+  ja:0.30
+  unohtui:0.28
+  perusteellisen:0.28
+  lajittelukeskuksessa:0.28
+  ntekij:0.28
+  voin:0.28
+  lupaan:0.28
+  vannon:0.28
+
+Topic 1:
+  tutkivat:1.11
+  voisi:1.11
+  mit:1.11
+  eat:1.10
+  kytti:1.10
+  ne:1.10
+  rjestelyj:0.45
+  yleens:0.45
+  bertha:0.45
+  lajittelukeskuksia:0.45
+
+Topic 2:
+  ja:0.33
+  ne:0.33
+  eat:0.33
+  kytti:0.33
+  voisi:0.32
+  mit:0.32
+  tutkivat:0.32
+  jos joku:0.24
+  ett:0.23
+  joo:0.21
+
+Topic 3:
+  ja:0.33
+  varmaan:0.27
+  ett:0.27
+  joo:0.24
+  yd:0.22
+  tsekkaa:0.22
+  vois:0.22
+  kolehti:0.22
+  olis:0.22
+  pystyyn:0.22
+
+Topic 4:
+  varmaan:0.75
+  ett:0.36
+  november:0.32
+  poliisi:0.32
+  edes:0.32
+  taktiikkaa:0.32
+  ei:0.32
+  quote:0.32
+  yt:0.32
+  tulli:0.32
+
+K: 5, Log-Likelihood: -670.307, Alpha: 11.000, Beta: 1.100

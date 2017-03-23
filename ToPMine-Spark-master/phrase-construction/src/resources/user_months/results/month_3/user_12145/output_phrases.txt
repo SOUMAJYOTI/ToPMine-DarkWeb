@@ -1,0 +1,61 @@
+Topic 0:
+  yo:1.19
+  policy:0.89
+  privacy:0.83
+  individual:0.69
+  basis:0.69
+  details:0.69
+  subpenea:0.69
+  check:0.69
+  le:0.69
+  havent:0.69
+
+Topic 1:
+  require:2.58
+  base:1.98
+  btc:1.98
+  start:1.97
+  kong:1.21
+  prior:1.21
+  financial:1.21
+  script:1.21
+  small:1.21
+  launching:1.21
+
+Topic 2:
+  link:0.87
+  yo:0.76
+  site:0.71
+  read:0.70
+  qoinpro:0.52
+  email address:0.47
+  gay:0.43
+  fucker:0.41
+  man:0.41
+  splainin:0.41
+
+Topic 3:
+  yep:1.03
+  coinurl:0.91
+  people:0.91
+  find:0.91
+  quote:0.91
+  missx:0.91
+  march:0.90
+  gon:0.90
+  waaay:0.90
+  yo:0.69
+
+Topic 4:
+  nym:3.86
+  referred link:2.51
+  darknet:2.50
+  watched:2.50
+  email address:1.64
+  link:1.57
+  posted:1.15
+  personally:1.15
+  clearnet:1.15
+  trace:1.15
+
+K: 5, Log-Likelihood: -993.453, Alpha: 11.000, Beta: 1.100

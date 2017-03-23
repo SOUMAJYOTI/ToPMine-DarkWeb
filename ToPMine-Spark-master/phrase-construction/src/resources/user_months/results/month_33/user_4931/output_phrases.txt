@@ -1,0 +1,61 @@
+Topic 0:
+  tool:18.16
+  message:18.15
+  messages:13.46
+  party drugs:12.10
+  scene:12.10
+  violent:12.10
+  cryptoanalyst decrypt:12.09
+  stay safe:11.56
+  encryption:11.25
+  bad:9.07
+
+Topic 1:
+  windows partition:24.20
+  created expires usage:18.14
+  subkey:18.14
+  main key:18.14
+  acid:16.79
+  safe mail:16.19
+  key:13.30
+  lsd:12.19
+  led:12.10
+  web link:12.10
+
+Topic 2:
+  sillywabbit:18.16
+  time:12.46
+  key bf ce fff:12.11
+  master key:12.11
+  updated key:12.11
+  dfb db:12.11
+  medical staff:12.09
+  trip:12.09
+  secret:12.09
+  skills:10.06
+
+Topic 3:
+  ketamine dose:12.11
+  google account:12.09
+  small:10.05
+  good:9.70
+  security:8.68
+  people:8.40
+  lsd:8.19
+  clearnet email:7.19
+  access:7.18
+  spitfire:6.90
+
+Topic 4:
+  character password:12.10
+  password length complexity bearing:12.10
+  brute force:12.10
+  brute forcing:12.10
+  assuming password:12.10
+  quartus computers crypto:12.10
+  network system:12.08
+  security:11.67
+  kind:8.70
+  computing:8.21
+
+K: 5, Log-Likelihood: -66364.465, Alpha: 11.000, Beta: 1.100

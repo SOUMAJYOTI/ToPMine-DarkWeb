@@ -1,0 +1,61 @@
+Topic 0:
+  key:0.80
+  pgp:0.49
+  abandoned:0.49
+  expires:0.35
+  fe:0.35
+  unsafe:0.35
+  ur:0.35
+  pgp key format:0.35
+  bcpg:0.35
+  block:0.35
+
+Topic 1:
+  key:1.02
+  pgp:0.70
+  abandoned:0.69
+  pgp key format:0.46
+  expires:0.46
+  bcpg:0.46
+  kq:0.46
+  unsafe:0.46
+  block:0.46
+  public:0.46
+
+Topic 2:
+  securely:1.63
+  connect:1.63
+  sites:1.63
+  certificate:1.28
+  onion:0.74
+  bcnwbv:0.74
+  update:0.73
+  identity:0.73
+  asked:0.73
+  browser:0.73
+
+Topic 3:
+  key:1.47
+  abandoned:0.77
+  pgp:0.76
+  years:0.49
+  public:0.49
+  kq:0.49
+  ur:0.49
+  bcpg:0.49
+  fe:0.49
+  block:0.48
+
+Topic 4:
+  key:1.16
+  pgp:0.69
+  abandoned:0.69
+  fe:0.45
+  years:0.45
+  pgp key format:0.45
+  block:0.45
+  unsafe:0.45
+  ur:0.45
+  public:0.45
+
+K: 5, Log-Likelihood: -1981.737, Alpha: 11.000, Beta: 1.100

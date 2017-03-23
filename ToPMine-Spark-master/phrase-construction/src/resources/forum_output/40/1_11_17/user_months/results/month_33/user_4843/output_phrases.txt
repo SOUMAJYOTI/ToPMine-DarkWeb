@@ -1,0 +1,61 @@
+Topic 0:
+  offers:0.00
+  encrypter:0.00
+  phone:0.00
+  calls:0.00
+  ect:0.00
+  buy:0.00
+  text:0.00
+  store:0.00
+  encrypts:0.00
+  photos:0.00
+
+Topic 1:
+  offers:0.00
+  encrypter:0.00
+  phone:0.00
+  calls:0.00
+  ect:0.00
+  buy:0.00
+  text:0.00
+  store:0.00
+  encrypts:0.00
+  photos:0.00
+
+Topic 2:
+  offers:0.00
+  encrypter:0.00
+  phone:0.00
+  calls:0.00
+  ect:0.00
+  buy:0.00
+  text:0.00
+  store:0.00
+  encrypts:0.00
+  photos:0.00
+
+Topic 3:
+  offers:0.00
+  encrypter:0.00
+  phone:0.00
+  calls:0.00
+  ect:0.00
+  buy:0.00
+  text:0.00
+  store:0.00
+  encrypts:0.00
+  photos:0.00
+
+Topic 4:
+  offers:0.00
+  encrypter:0.00
+  phone:0.00
+  calls:0.00
+  ect:0.00
+  buy:0.00
+  text:0.00
+  store:0.00
+  encrypts:0.00
+  photos:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  victim:0.14
+  nodes:0.14
+  certificate:0.14
+  send:0.14
+  malicious:0.14
+  attacks:0.14
+  dont:0.14
+  fool:0.14
+  phishing:0.14
+  prey:0.14
+
+Topic 1:
+  malicious:0.14
+  attacks:0.14
+  certificate:0.14
+  site:0.14
+  phishing:0.14
+  dont:0.14
+  prey:0.14
+  send:0.14
+  fool:0.14
+  victim:0.14
+
+Topic 2:
+  exit:0.14
+  site:0.14
+  malicious:0.14
+  nodes:0.14
+  phishing:0.14
+  fool:0.14
+  attacks:0.14
+  prey:0.14
+  send:0.14
+  certificate:0.14
+
+Topic 3:
+  dont:0.14
+  fool:0.14
+  nodes:0.14
+  victim:0.14
+  send:0.14
+  phishing:0.14
+  prey:0.14
+  attacks:0.14
+  certificate:0.14
+  malicious:0.14
+
+Topic 4:
+  prey:0.14
+  site:0.14
+  exit:0.14
+  certificate:0.14
+  dont:0.14
+  fool:0.14
+  send:0.14
+  victim:0.14
+  attacks:0.14
+  phishing:0.14
+
+K: 5, Log-Likelihood: -47.465, Alpha: 11.000, Beta: 1.100

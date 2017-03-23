@@ -1,0 +1,41 @@
+Topic 0:
+  check:0.20
+  scammers:0.20
+  deepweb:0.20
+  sites:0.20
+  scammer:0.20
+  xilla:0.20
+
+Topic 1:
+  xilla:0.20
+  deepweb:0.20
+  scammer:0.20
+  scammers:0.20
+  check:0.20
+  sites:0.20
+
+Topic 2:
+  sites:0.20
+  scammers:0.20
+  scammer:0.20
+  deepweb:0.20
+  xilla:0.20
+  check:0.20
+
+Topic 3:
+  deepweb:0.20
+  check:0.20
+  scammer:0.20
+  xilla:0.20
+  sites:0.20
+  scammers:0.20
+
+Topic 4:
+  xilla:0.20
+  scammer:0.20
+  check:0.20
+  sites:0.20
+  scammers:0.20
+  deepweb:0.20
+
+K: 5, Log-Likelihood: -10.751, Alpha: 11.000, Beta: 1.100

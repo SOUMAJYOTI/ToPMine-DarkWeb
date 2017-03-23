@@ -1,0 +1,61 @@
+Topic 0:
+  password:1.30
+  characters:0.88
+  wallet:0.55
+  remind:0.54
+  wrote:0.50
+  thought:0.49
+  script:0.47
+  ideas:0.45
+  remember:0.40
+  understand:0.38
+
+Topic 1:
+  password:1.28
+  characters:1.01
+  remind:0.57
+  wallet:0.57
+  ideas:0.52
+  script:0.42
+  wrote:0.42
+  thought:0.42
+  understand:0.40
+  remember:0.39
+
+Topic 2:
+  characters:1.21
+  password:1.08
+  ideas:0.80
+  remind:0.65
+  wallet:0.64
+  english:0.50
+  understand:0.42
+  remember:0.39
+  script:0.32
+  thought:0.30
+
+Topic 3:
+  password:1.25
+  characters:0.90
+  wallet:0.58
+  remind:0.58
+  ideas:0.58
+  thought:0.42
+  wrote:0.42
+  script:0.41
+  remember:0.40
+  understand:0.40
+
+Topic 4:
+  password:1.08
+  characters:1.00
+  wallet:0.66
+  remind:0.66
+  ideas:0.65
+  english:0.43
+  remember:0.41
+  understand:0.40
+  thought:0.38
+  wrote:0.37
+
+K: 5, Log-Likelihood: -315.464, Alpha: 11.000, Beta: 1.100

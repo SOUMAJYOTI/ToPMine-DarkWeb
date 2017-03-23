@@ -1,0 +1,61 @@
+Topic 0:
+  team:13.51
+  hacking:13.26
+  security:13.18
+  company:12.74
+  vincenzetti:12.74
+  italian:7.98
+  program:6.98
+  file:6.01
+  vincenzettis:4.98
+  told:4.21
+
+Topic 1:
+  vulnerability:10.06
+  microsoft:6.30
+  security:5.43
+  bitcoin:4.96
+  fonts:4.84
+  windows:4.23
+  update:3.96
+  software:3.57
+  future:3.02
+  automatic:2.91
+
+Topic 2:
+  dll:17.89
+  atmfd:16.94
+  exe:8.96
+  icacls:5.96
+  armed:5.90
+  hacking:5.35
+  windows:5.16
+  claimed:4.96
+  systems:4.94
+  hack:4.62
+
+Topic 3:
+  tor:35.74
+  browser:19.97
+  exploit:13.42
+  attack:11.44
+  local:10.21
+  target:8.15
+  network:8.09
+  computer:7.06
+  hardware:5.97
+  proposed:5.97
+
+Topic 4:
+  july:15.82
+  quote:7.57
+  rs:6.80
+  hax:6.80
+  jelly:6.80
+  year:5.87
+  amquote:5.86
+  amur:5.83
+  jesus:5.83
+  idiot:5.83
+
+K: 5, Log-Likelihood: -10821.453, Alpha: 11.000, Beta: 1.100

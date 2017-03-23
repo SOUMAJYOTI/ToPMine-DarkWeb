@@ -1,0 +1,61 @@
+Topic 0:
+  women:18.44
+  marriage:13.20
+  fuck:12.62
+  men:10.57
+  feminism:6.02
+  wife:5.93
+  worldwide:5.89
+  sex:5.89
+  forever:5.89
+  power:5.89
+
+Topic 1:
+  pretty:7.63
+  wrong:4.05
+  lie:3.85
+  loved:3.85
+  experience:3.85
+  friends:3.84
+  dropped:3.84
+  lot:3.68
+  soul:3.67
+  legally:3.31
+
+Topic 2:
+  married:7.27
+  people:5.69
+  agree:3.89
+  love:2.95
+  lawyers:2.69
+  meet:2.59
+  benefits:2.10
+  robot:2.10
+  children:2.10
+  divorce:1.90
+
+Topic 3:
+  married:7.87
+  dont:5.33
+  love:3.16
+  wife:1.95
+  people:1.78
+  marriage:1.26
+  marry:1.18
+  feminists:0.97
+  life:0.91
+  learn:0.91
+
+Topic 4:
+  don:5.24
+  married:5.13
+  people:3.90
+  dont:2.94
+  love:2.38
+  fucked:1.59
+  bullshit:1.58
+  paper:1.58
+  times:1.58
+  promise:1.58
+
+K: 5, Log-Likelihood: -3498.722, Alpha: 11.000, Beta: 1.100

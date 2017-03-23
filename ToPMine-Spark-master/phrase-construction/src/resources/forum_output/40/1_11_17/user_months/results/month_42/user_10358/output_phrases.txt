@@ -1,0 +1,61 @@
+Topic 0:
+  market forum:0.89
+  forum:0.78
+  server:0.69
+  agora:0.68
+  good:0.66
+  slowing:0.60
+  traffic:0.60
+  dont:0.60
+  hope:0.60
+  biz:0.60
+
+Topic 1:
+  ag long thehub reddit:1.95
+  troublesome experience markets kill:1.94
+  sr method weed shills:1.94
+  ag simply support smf:1.93
+  order users communicating sheep:1.93
+  forums understand forum:1.93
+  find host personally sr:1.92
+  category market site replicated:1.91
+  tor pandora mind market:1.83
+  march:1.82
+
+Topic 2:
+  security:4.51
+  accounts:2.94
+  address:2.93
+  told:2.93
+  settings:2.92
+  email:2.92
+  browser:2.92
+  pms:2.92
+  people:2.92
+  tor:2.92
+
+Topic 3:
+  forum:1.39
+  quote:0.87
+  problems:0.81
+  good:0.72
+  agora:0.58
+  years:0.52
+  zaphod:0.51
+  forums:0.38
+  smf:0.31
+  read:0.31
+
+Topic 4:
+  server:1.19
+  agora:0.93
+  market forum:0.91
+  forums good:0.87
+  forever:0.74
+  eve:0.74
+  forums site:0.74
+  frustrating:0.73
+  superior:0.73
+  agree:0.73
+
+K: 5, Log-Likelihood: -1473.451, Alpha: 11.000, Beta: 1.100

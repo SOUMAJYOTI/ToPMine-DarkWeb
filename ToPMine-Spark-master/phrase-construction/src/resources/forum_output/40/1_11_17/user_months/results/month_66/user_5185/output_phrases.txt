@@ -1,0 +1,61 @@
+Topic 0:
+  phoenix vm:4.52
+  macbook:3.83
+  suggested computer:3.83
+  early:3.83
+  thought:3.83
+  helpful:3.83
+  isn:3.83
+  kind:3.83
+  coolbreeze:3.83
+  dimitri:3.83
+
+Topic 1:
+  connected:4.60
+  work:4.60
+  connect:4.54
+  tails:4.00
+  appreciated:3.89
+  internet:3.89
+  reason:3.89
+  unsafe:3.89
+  web:3.89
+  onion:3.89
+
+Topic 2:
+  enter wifi password:7.41
+  design install missing driver:4.65
+  tails case negative sides:4.62
+  compatible newer macbook models:4.61
+  wife:4.60
+  tails based compatible:4.59
+  drivers searching design driver:4.57
+  connected wife dongle compatible:4.56
+  device computer model buy:4.50
+  wifi devices inside computers:4.46
+
+Topic 3:
+  tor:7.17
+  download tails:4.09
+  bitcoin:3.87
+  card:3.87
+  suggestions:3.87
+  email:3.87
+  wondering:3.87
+  transferring:3.87
+  gpg:3.87
+  bank:3.87
+
+Topic 4:
+  works:3.37
+  design:2.97
+  depending:2.24
+  factors:2.24
+  takes:2.24
+  leaving:2.24
+  time connect:2.24
+  long:2.24
+  connects:2.24
+  minutes:2.24
+
+K: 5, Log-Likelihood: -2671.877, Alpha: 11.000, Beta: 1.100

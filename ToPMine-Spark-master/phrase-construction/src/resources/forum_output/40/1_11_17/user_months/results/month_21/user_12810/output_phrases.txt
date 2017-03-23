@@ -1,0 +1,61 @@
+Topic 0:
+  breath:1.35
+  potential:1.35
+  wishesgarlic:1.35
+  sentence:1.35
+  barely:1.35
+  onionshop months:1.35
+  sales:1.35
+  prison:1.35
+  year:1.35
+  carry:1.35
+
+Topic 1:
+  btc check:4.40
+  onionshop:2.31
+  os:1.57
+  target:1.49
+  issues:1.49
+  admins:1.49
+  shop:1.49
+  banks:1.49
+  experts:1.49
+  sr:1.49
+
+Topic 2:
+  reopened:3.03
+  changed:3.03
+  server:2.95
+  shut:2.19
+  hours:2.18
+  onionshop:2.08
+  btc address:1.50
+  closed:1.43
+  website:1.43
+  hole:1.43
+
+Topic 3:
+  hacker:7.96
+  orders:5.03
+  database:4.75
+  script:3.14
+  passwords:3.14
+  set:3.14
+  change:3.14
+  guide:3.14
+  access:3.14
+  security check:3.14
+
+Topic 4:
+  site:1.49
+  dont:1.49
+  yeah:1.28
+  bash:1.28
+  posts:1.28
+  markets:1.28
+  pathetic:1.28
+  accidently:1.28
+  garlicman:1.28
+  flaming:1.28
+
+K: 5, Log-Likelihood: -2633.705, Alpha: 11.000, Beta: 1.100

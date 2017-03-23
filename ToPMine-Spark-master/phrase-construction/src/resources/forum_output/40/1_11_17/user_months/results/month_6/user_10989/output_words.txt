@@ -1,0 +1,61 @@
+Topic 0:
+  btc:4.63
+  wallet:2.45
+  agora:2.12
+  withdrawals:2.04
+  support:1.87
+  missing:1.29
+  messaged:1.28
+  time:1.09
+  dont:1.01
+  days:0.99
+
+Topic 1:
+  wallet:3.27
+  agora:1.70
+  missing:1.39
+  btc:1.38
+  time:1.30
+  support:1.25
+  agra:0.88
+  bitcoins:0.83
+  issue:0.77
+  theory:0.76
+
+Topic 2:
+  agra:4.19
+  agora:4.00
+  wallet:3.09
+  people:2.49
+  deposits:2.43
+  complaints:1.33
+  ive:1.33
+  missing:1.26
+  complaining:1.22
+  showing:1.20
+
+Topic 3:
+  btc:5.62
+  day:4.46
+  dont:3.96
+  sr:3.55
+  support:2.98
+  funds:2.82
+  february:2.54
+  lost:2.31
+  agora:2.01
+  target:1.83
+
+Topic 4:
+  agra:3.49
+  wallet:3.32
+  agora:2.17
+  missing:1.90
+  bitcoins:1.60
+  support:1.06
+  btc:1.02
+  blockchain:0.95
+  hour:0.92
+  deposited:0.86
+
+K: 5, Log-Likelihood: -2588.533, Alpha: 11.000, Beta: 1.100

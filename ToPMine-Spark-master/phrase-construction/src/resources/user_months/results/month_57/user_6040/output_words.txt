@@ -1,0 +1,61 @@
+Topic 0:
+  email:1.17
+  pgp:0.84
+  service:0.79
+  case:0.78
+  darkness:0.40
+  wondered:0.40
+  malicious:0.40
+  trust:0.40
+  comms:0.40
+  scroat:0.40
+
+Topic 1:
+  email:1.15
+  case:0.84
+  service:0.82
+  pgp:0.80
+  hmmm:0.41
+  hidden:0.40
+  flag:0.40
+  monitored:0.40
+  pmone:0.40
+  easy:0.40
+
+Topic 2:
+  email:1.21
+  service:0.82
+  pgp:0.75
+  case:0.74
+  entity:0.41
+  scenario:0.41
+  gmail:0.41
+  practice:0.40
+  comms:0.40
+  things:0.40
+
+Topic 3:
+  email:1.25
+  case:0.83
+  pgp:0.83
+  service:0.78
+  set:0.40
+  scroat:0.40
+  operators:0.40
+  assume:0.40
+  anonymous:0.40
+  monitor:0.40
+
+Topic 4:
+  email:1.22
+  case:0.80
+  service:0.79
+  pgp:0.78
+  march:0.41
+  quote:0.40
+  worst:0.40
+  entity:0.40
+  tabs:0.40
+  yahoo:0.40
+
+K: 5, Log-Likelihood: -294.791, Alpha: 11.000, Beta: 1.100

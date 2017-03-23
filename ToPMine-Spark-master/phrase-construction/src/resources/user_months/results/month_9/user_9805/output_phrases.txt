@@ -1,0 +1,61 @@
+Topic 0:
+  benzo:1.08
+  stomach:0.65
+  valium:0.65
+  xanax:0.64
+  bit:0.28
+  literature:0.28
+  dalmane:0.28
+  reading:0.28
+  doesn:0.28
+  gang:0.28
+
+Topic 1:
+  effects:0.73
+  side:0.71
+  traumas:0.71
+  time:0.71
+  greater:0.30
+  receptor:0.30
+  mechanisms:0.30
+  stresses:0.30
+  neurotransmitter:0.30
+  talking:0.30
+
+Topic 2:
+  benzo:0.75
+  xanax:0.49
+  valium:0.49
+  stomach:0.49
+  site:0.29
+  traumas:0.25
+  side:0.25
+  time:0.25
+  effects:0.25
+  kills:0.23
+
+Topic 3:
+  site:0.60
+  side:0.33
+  traumas:0.33
+  time:0.33
+  effects:0.33
+  benzo:0.29
+  defines:0.26
+  greatly:0.26
+  heard:0.26
+  read:0.26
+
+Topic 4:
+  benzo:0.42
+  site:0.37
+  time:0.34
+  traumas:0.34
+  side:0.34
+  effects:0.33
+  stomach:0.31
+  xanax:0.31
+  valium:0.31
+  lingo:0.21
+
+K: 5, Log-Likelihood: -552.241, Alpha: 11.000, Beta: 1.100

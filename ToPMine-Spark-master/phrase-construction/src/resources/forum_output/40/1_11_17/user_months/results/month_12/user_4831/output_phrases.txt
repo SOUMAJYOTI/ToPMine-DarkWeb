@@ -1,0 +1,61 @@
+Topic 0:
+  btc:1.64
+  vanilla cvs:1.45
+  vanilla reload:1.45
+  comfind:1.45
+  riteaid:1.45
+  locally:1.45
+  selling:1.45
+  matter:1.45
+  idea:1.45
+  moments:1.45
+
+Topic 1:
+  finding:1.39
+  knowledge:1.39
+  order:1.39
+  bank account:1.39
+  unable:1.39
+  service:1.39
+  anonymous:1.39
+  attaching:1.39
+  ll:1.39
+  slowly:1.39
+
+Topic 2:
+  card:3.82
+  buying:2.21
+  trusted:2.21
+  bitcointalk:2.21
+  senior:2.21
+  org:2.21
+  pm:2.21
+  darknet:2.21
+  grocery:2.21
+  couple:2.21
+
+Topic 3:
+  forgotten:1.61
+  records:1.61
+  face:1.61
+  cvs:1.61
+  caveat:1.61
+  longer:1.60
+  putting:1.60
+  camera:1.60
+  landojack:1.60
+  easiest:1.60
+
+Topic 4:
+  great:1.31
+  learn:1.31
+  reading:1.31
+  bit:1.31
+  question:1.31
+  sounded:1.31
+  stupid:1.31
+  advice:1.31
+  response:1.31
+  guys:1.31
+
+K: 5, Log-Likelihood: -1254.327, Alpha: 11.000, Beta: 1.100

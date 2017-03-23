@@ -1,0 +1,61 @@
+Topic 0:
+  lucky:0.00
+  couple:0.00
+  product:0.00
+  ringodeathstar:0.00
+  satisfied:0.00
+  dtrh:0.00
+  dmt:0.00
+  started:0.00
+  delivered:0.00
+  branch:0.00
+
+Topic 1:
+  lucky:0.00
+  couple:0.00
+  product:0.00
+  ringodeathstar:0.00
+  satisfied:0.00
+  dtrh:0.00
+  dmt:0.00
+  started:0.00
+  delivered:0.00
+  branch:0.00
+
+Topic 2:
+  lucky:0.00
+  couple:0.00
+  product:0.00
+  ringodeathstar:0.00
+  satisfied:0.00
+  dtrh:0.00
+  dmt:0.00
+  started:0.00
+  delivered:0.00
+  branch:0.00
+
+Topic 3:
+  lucky:0.00
+  couple:0.00
+  product:0.00
+  ringodeathstar:0.00
+  satisfied:0.00
+  dtrh:0.00
+  dmt:0.00
+  started:0.00
+  delivered:0.00
+  branch:0.00
+
+Topic 4:
+  lucky:0.00
+  couple:0.00
+  product:0.00
+  ringodeathstar:0.00
+  satisfied:0.00
+  dtrh:0.00
+  dmt:0.00
+  started:0.00
+  delivered:0.00
+  branch:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

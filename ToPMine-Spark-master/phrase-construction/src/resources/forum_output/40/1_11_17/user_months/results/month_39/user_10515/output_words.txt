@@ -1,0 +1,61 @@
+Topic 0:
+  great:2.82
+  pine:2.11
+  muchas:2.09
+  gracias:2.04
+  favor:2.03
+  time:1.40
+  interesting:1.37
+  good:1.11
+  quote:1.06
+  stock:0.91
+
+Topic 1:
+  system:9.18
+  vms:8.14
+  vm:8.14
+  qubes:7.94
+  live:5.91
+  os:4.47
+  guy:3.91
+  wanted:3.91
+  spin:3.91
+  security:3.70
+
+Topic 2:
+  pine:7.42
+  interesting:4.56
+  zaphod:3.19
+  real:2.96
+  fantasy:2.96
+  forum:2.78
+  ideas:2.76
+  quote:2.30
+  time:1.98
+  april:1.97
+
+Topic 3:
+  isolation:24.21
+  applications:14.27
+  virtual:12.96
+  physical:10.45
+  tor:9.96
+  advantages:9.96
+  encryption:9.96
+  disadvantages:9.96
+  os:9.41
+  membership:8.96
+
+Topic 4:
+  donations:6.96
+  hub:4.96
+  address:4.96
+  people:3.49
+  post:2.97
+  work:2.97
+  site:2.16
+  staff:2.07
+  alfred:2.07
+  simply:1.97
+
+K: 5, Log-Likelihood: -5073.937, Alpha: 11.000, Beta: 1.100

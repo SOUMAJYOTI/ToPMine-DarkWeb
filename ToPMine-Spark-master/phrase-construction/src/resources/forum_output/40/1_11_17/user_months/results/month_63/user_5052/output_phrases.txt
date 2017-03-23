@@ -1,0 +1,61 @@
+Topic 0:
+  market:2.49
+  centralized:0.98
+  reply:0.98
+  assuaged:0.98
+  unfortunate major:0.97
+  months:0.97
+  decision:0.97
+  funds:0.97
+  day:0.97
+  november:0.97
+
+Topic 1:
+  registering:1.61
+  site:1.61
+  market hope:1.61
+  secured:1.61
+  rebranded:1.61
+  scamming:1.61
+  suspicious:1.61
+  speculated:1.61
+  sll:1.60
+  big:1.60
+
+Topic 2:
+  damn:1.05
+  timing:1.05
+  announced:1.04
+  methylamine:1.04
+  fishy:1.04
+  smell:1.04
+  ago:1.03
+  hours:1.03
+  roughly:1.03
+  holy:1.03
+
+Topic 3:
+  market:1.13
+  markets:0.74
+  yeah:0.51
+  plays:0.51
+  posted:0.51
+  idiot:0.51
+  registered:0.51
+  realized:0.51
+  feel:0.51
+  ll:0.51
+
+Topic 4:
+  market:0.99
+  markets:0.78
+  fuck:0.51
+  roughly:0.50
+  wtf:0.50
+  hours:0.50
+  smell:0.50
+  ago:0.50
+  holy:0.50
+  methylamine:0.50
+
+K: 5, Log-Likelihood: -900.848, Alpha: 11.000, Beta: 1.100

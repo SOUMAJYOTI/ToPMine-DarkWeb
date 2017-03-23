@@ -1,0 +1,61 @@
+Topic 0:
+  recommend:9.20
+  find vendor:6.11
+  pmnever send shipping info:5.14
+  yep mac:5.13
+  ears quote knuckles january:4.99
+  forums pip:4.89
+  time read:4.89
+  close:4.89
+  hemisphere:4.89
+  set:4.89
+
+Topic 1:
+  shift command:13.73
+  file control command:12.38
+  encrusted message:12.30
+  file:11.39
+  selection shift command:10.85
+  pgp keyring:8.25
+  message:8.04
+  key:7.62
+  encrypt message:6.00
+  command highlight:5.74
+
+Topic 2:
+  shift command:3.27
+  pgp key:3.24
+  encrusted message:2.96
+  selection shift command:2.68
+  file:2.66
+  key:2.37
+  message:2.24
+  guide mac gpgtools tutorial:2.20
+  find:2.19
+  pgp keyring:2.09
+
+Topic 3:
+  enigmaticsmiles january amstay reddit:7.22
+  flyingthroughclouds january amquote:6.16
+  posting wares clearnet learned:6.12
+  info reddit respect security:5.29
+  reddit:4.15
+  info abundance:4.11
+  abundance:4.11
+  presence:4.11
+  solid:4.11
+  quote spitfire:4.11
+
+Topic 4:
+  pgp key:4.73
+  guide mac gpgtools tutorial:3.86
+  shift command:3.77
+  selection shift command:3.09
+  pgp guide:2.75
+  imo reddit absolutely great:2.72
+  file:2.56
+  key:2.48
+  gpgtools:2.36
+  file control command:2.22
+
+K: 5, Log-Likelihood: -8411.951, Alpha: 11.000, Beta: 1.100

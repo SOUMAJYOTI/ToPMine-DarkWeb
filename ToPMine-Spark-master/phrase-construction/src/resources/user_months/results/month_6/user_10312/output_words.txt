@@ -1,0 +1,61 @@
+Topic 0:
+  movement:0.41
+  people:0.36
+  vanishing:0.27
+  problems:0.27
+  btc:0.27
+  aint:0.25
+  wither:0.25
+  market:0.25
+  place:0.25
+  theyve:0.25
+
+Topic 1:
+  people:1.03
+  btc:0.62
+  vanishing:0.62
+  problems:0.62
+  movement:0.39
+  minutes:0.27
+  evaporated:0.27
+  log:0.27
+  betting:0.27
+  issue:0.27
+
+Topic 2:
+  people:0.80
+  problems:0.52
+  btc:0.51
+  vanishing:0.51
+  movement:0.39
+  commerce:0.24
+  pay:0.24
+  withdraw:0.24
+  surge:0.24
+  week:0.24
+
+Topic 3:
+  people:0.44
+  movement:0.40
+  problems:0.32
+  btc:0.32
+  vanishing:0.32
+  buy:0.22
+  secret:0.22
+  planet:0.22
+  theyve:0.22
+  sell:0.22
+
+Topic 4:
+  movement:0.41
+  people:0.36
+  problems:0.28
+  vanishing:0.27
+  btc:0.27
+  worse:0.24
+  frauds:0.24
+  marketplace:0.24
+  property:0.24
+  man:0.24
+
+K: 5, Log-Likelihood: -330.284, Alpha: 11.000, Beta: 1.100

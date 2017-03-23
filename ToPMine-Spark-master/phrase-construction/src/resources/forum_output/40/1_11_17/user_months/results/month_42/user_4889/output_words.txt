@@ -1,0 +1,61 @@
+Topic 0:
+  nice:0.20
+  addition:0.20
+  sr:0.20
+  culture:0.20
+  quoteplease:0.20
+  pascal:0.20
+  chemistry:0.20
+  vendor:0.20
+  email:0.20
+  tug:0.20
+
+Topic 1:
+  pascal:0.20
+  fastest:0.20
+  chemistry:0.20
+  sigaint:0.20
+  ergotamine:0.20
+  services:0.20
+  quoteplease:0.20
+  consulting:0.20
+  orgtop:0.20
+  vendor:0.20
+
+Topic 2:
+  addition:0.20
+  nice:0.20
+  tug:0.20
+  service:0.20
+  services:0.20
+  email:0.20
+  claviceps:0.20
+  chemistry:0.20
+  custom:0.20
+  orgtop:0.20
+
+Topic 3:
+  claviceps:0.20
+  culture:0.20
+  orgtop:0.20
+  tartrate:0.20
+  consulting:0.20
+  sigaint:0.20
+  vendor:0.20
+  sr:0.20
+  email:0.20
+  members:0.20
+
+Topic 4:
+  contact:0.20
+  ergotamine:0.20
+  fastest:0.20
+  tartrate:0.20
+  custom:0.20
+  service:0.20
+  rated:0.20
+  members:0.20
+  services:0.20
+  vendor:0.20
+
+K: 5, Log-Likelihood: -72.116, Alpha: 11.000, Beta: 1.100

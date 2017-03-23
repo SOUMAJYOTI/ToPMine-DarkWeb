@@ -1,0 +1,61 @@
+Topic 0:
+  amnesia tor browserto:6.33
+  persistent risk:6.33
+  persistence:6.33
+  select:5.16
+  unlocked:3.12
+  warn:3.12
+  open:3.12
+  addcode:3.12
+  live:3.12
+  top:3.12
+
+Topic 1:
+  didnt:6.31
+  easily:3.96
+  tails:3.87
+  password:3.10
+  crashing:3.10
+  configuration:3.10
+  trial:3.10
+  trouble:3.10
+  airvpn:3.10
+  properly:3.10
+
+Topic 2:
+  signature:4.74
+  js:3.96
+  indirectly:3.12
+  obscurity:3.12
+  specs:3.12
+  creat:3.12
+  creates:3.12
+  users:3.12
+  defualt:3.12
+  browser:3.12
+
+Topic 3:
+  message:6.00
+  desktop:3.98
+  click:3.98
+  filename:3.98
+  code:3.98
+  copy:3.98
+  pip:3.98
+  brought:1.97
+  gthen:1.97
+  ctrl:1.97
+
+Topic 4:
+  security:3.91
+  time:3.06
+  persistent setting:3.00
+  question:3.00
+  quick:3.00
+  gain:3.00
+  curious:3.00
+  bug:2.62
+  single:1.90
+  increase:1.90
+
+K: 5, Log-Likelihood: -2487.040, Alpha: 11.000, Beta: 1.100

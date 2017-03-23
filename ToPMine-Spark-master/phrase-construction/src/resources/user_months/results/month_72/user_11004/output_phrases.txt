@@ -1,0 +1,61 @@
+Topic 0:
+  hq:0.98
+  speedpaste:0.97
+  outlaw:0.96
+  free:0.74
+  listing:0.39
+  cocaine:0.39
+  store:0.39
+  dry:0.39
+  uncut cocaine:0.39
+  forum:0.39
+
+Topic 1:
+  refund:0.42
+  free:0.35
+  outlaw:0.34
+  speedpaste:0.33
+  hq:0.33
+  time:0.31
+  sehr:0.31
+  tab:0.31
+  high:0.31
+  aktionspreis aktionspreis:0.31
+
+Topic 2:
+  refund:0.74
+  tubs:0.48
+  article:0.48
+  tab:0.48
+  listings:0.48
+  price:0.48
+  high:0.47
+  der:0.47
+  tracking:0.47
+  aktionspreis aktionspreis:0.47
+
+Topic 3:
+  refund:0.70
+  listings:0.45
+  aktionspreis aktionspreis:0.45
+  der:0.45
+  time:0.45
+  tubs:0.45
+  tracking:0.45
+  high:0.45
+  price:0.45
+  tab:0.45
+
+Topic 4:
+  refund:0.70
+  hier:0.47
+  tracking:0.46
+  sehr:0.46
+  der:0.46
+  time:0.46
+  high:0.46
+  price:0.46
+  article:0.46
+  aktionspreis aktionspreis:0.46
+
+K: 5, Log-Likelihood: -668.753, Alpha: 11.000, Beta: 1.100

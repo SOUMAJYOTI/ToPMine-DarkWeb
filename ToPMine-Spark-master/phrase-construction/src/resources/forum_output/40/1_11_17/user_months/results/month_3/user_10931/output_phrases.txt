@@ -1,0 +1,61 @@
+Topic 0:
+  time:3.81
+  private:3.81
+  keys:3.52
+  good:2.69
+  customers:2.69
+  hey:2.69
+  guys:2.69
+  basis:1.87
+  importing:1.87
+  access:1.87
+
+Topic 1:
+  program:3.81
+  decrypt file:3.81
+  encrypted file:3.81
+  file:3.81
+  place:3.81
+  drive:2.82
+  thunderbird:2.81
+  container:2.77
+  symbolic:1.86
+  turning:1.86
+
+Topic 2:
+  truecrypt:4.02
+  gpg:2.79
+  inside:2.79
+  simplest:1.84
+  costly:1.84
+  easiest:1.84
+  user:1.84
+  space:1.84
+  terms:1.84
+  gpg usb:1.84
+
+Topic 3:
+  tails:3.69
+  staff:2.66
+  btc:2.03
+  usb:1.78
+  os:1.75
+  volume:1.75
+  case:1.75
+  encrypted:1.75
+  aswell:1.75
+  persistence:1.75
+
+Topic 4:
+  investigate:5.77
+  unusual server load:4.12
+  issue:3.83
+  site:3.83
+  today:3.83
+  plate:3.83
+  offline:3.83
+  update:3.83
+  investigating:2.15
+  root:1.88
+
+K: 5, Log-Likelihood: -1624.918, Alpha: 11.000, Beta: 1.100

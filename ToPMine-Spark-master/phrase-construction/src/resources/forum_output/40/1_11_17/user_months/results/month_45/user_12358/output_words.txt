@@ -1,0 +1,61 @@
+Topic 0:
+  tai:0.40
+  vastannut:0.20
+  saamatta:0.20
+  lukenut:0.20
+  vkl:0.20
+  onko:0.20
+  jo:0.20
+  kirjautunutkaan:0.20
+  joille:0.20
+  kyseinen:0.20
+
+Topic 1:
+  tai:0.40
+  niille:0.20
+  vuorokauteen:0.20
+  onko:0.20
+  myyj:0.20
+  kk:0.20
+  pari:0.20
+  tuotteita:0.20
+  jo:0.20
+  mites:0.20
+
+Topic 2:
+  tai:0.40
+  yli:0.20
+  viesteihin:0.20
+  saamatta:0.20
+  sis:0.20
+  viel:0.20
+  ruvennut:0.20
+  rahoja:0.20
+  mites:0.20
+  lukenut:0.20
+
+Topic 3:
+  tai:0.40
+  pari:0.20
+  yli:0.20
+  viel:0.20
+  sitten:0.20
+  sis:0.20
+  jo:0.20
+  joille:0.20
+  kirjautunutkaan:0.20
+  vuorokauteen:0.20
+
+Topic 4:
+  tai:0.40
+  ei:0.20
+  tosin:0.20
+  joille:0.20
+  tilauksen:0.20
+  niille:0.20
+  myyj:0.20
+  sitten:0.20
+  korvaamaan:0.20
+  laitoin:0.20
+
+K: 5, Log-Likelihood: -100.679, Alpha: 11.000, Beta: 1.100

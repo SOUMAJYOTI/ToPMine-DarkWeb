@@ -1,0 +1,61 @@
+Topic 0:
+  job:1.80
+  didnt:1.52
+  tails:1.10
+  vendor:1.07
+  pm:1.02
+  apologize:0.91
+  login:0.90
+  friends:0.90
+  good:0.85
+  pay:0.84
+
+Topic 1:
+  nucleus:4.73
+  dhl:2.16
+  links:1.66
+  uri:1.52
+  url:1.52
+  proof:1.52
+  trust:1.52
+  longevity:1.52
+  including:1.52
+  importantly:1.52
+
+Topic 2:
+  dhl online:0.74
+  data:0.65
+  active:0.64
+  order:0.64
+  placescheers:0.64
+  read:0.64
+  glad:0.43
+  freddie:0.43
+  luck:0.43
+  cheers:0.43
+
+Topic 3:
+  market:1.87
+  ll:1.84
+  input:1.77
+  online:1.76
+  place:1.76
+  cheers:1.76
+  freddie:1.76
+  luck:1.76
+  glad:1.75
+  maximum:1.50
+
+Topic 4:
+  didnt:4.63
+  job:4.33
+  login:3.66
+  pm:3.52
+  vendor:3.49
+  tails:3.44
+  click:2.23
+  top:2.21
+  option:2.21
+  grateful:2.20
+
+K: 5, Log-Likelihood: -2291.278, Alpha: 11.000, Beta: 1.100

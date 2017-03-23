@@ -1,0 +1,61 @@
+Topic 0:
+  scam:9.82
+  exit:8.44
+  duck:6.57
+  alphabay:3.91
+  money:3.70
+  lost:3.53
+  dealing:3.42
+  including:2.80
+  hope:2.78
+  officially:2.77
+
+Topic 1:
+  love:26.68
+  avengers:16.20
+  site:6.95
+  registration:6.33
+  find:5.85
+  abraxas:4.44
+  fit:4.43
+  confident:4.43
+  market:4.06
+  pmnot:3.55
+
+Topic 2:
+  ddos:5.41
+  challenge:3.67
+  authorization:3.67
+  traffic:2.96
+  filter:2.50
+  anti:2.48
+  marketplace:2.04
+  aware:1.71
+  cookie:1.71
+  high:1.71
+
+Topic 3:
+  btc:6.62
+  issues:4.38
+  outbreak:3.70
+  resolved:3.70
+  stolen:3.70
+  losing:3.70
+  till:3.70
+  folks:3.70
+  beware:3.70
+  avoid:3.70
+
+Topic 4:
+  money:3.56
+  longer:3.22
+  list:3.19
+  build:3.16
+  vendors:3.14
+  love:3.13
+  scam:2.56
+  exit:1.98
+  avengers:1.78
+  lost:1.65
+
+K: 5, Log-Likelihood: -3096.586, Alpha: 11.000, Beta: 1.100

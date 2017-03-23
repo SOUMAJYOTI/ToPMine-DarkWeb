@@ -1,0 +1,61 @@
+Topic 0:
+  buying:1.04
+  safe:0.79
+  credit:0.61
+  card:0.61
+  localbitcoins:0.50
+  dont:0.50
+  coins:0.47
+  cash:0.29
+  security:0.24
+  questions:0.24
+
+Topic 1:
+  buying:0.91
+  safe:0.67
+  card:0.62
+  credit:0.61
+  coins:0.47
+  localbitcoins:0.43
+  dont:0.43
+  cash:0.40
+  bank:0.30
+  btc:0.29
+
+Topic 2:
+  cash:1.43
+  bank:0.83
+  btc:0.82
+  credit:0.55
+  card:0.55
+  buying:0.34
+  companies:0.33
+  deposit:0.33
+  surname:0.33
+  trouble:0.33
+
+Topic 3:
+  buying:1.02
+  safe:0.73
+  credit:0.61
+  card:0.60
+  coins:0.50
+  dont:0.45
+  localbitcoins:0.45
+  cash:0.36
+  btc:0.27
+  bank:0.27
+
+Topic 4:
+  buying:0.69
+  card:0.62
+  credit:0.62
+  cash:0.53
+  safe:0.52
+  dont:0.39
+  localbitcoins:0.39
+  btc:0.38
+  bank:0.37
+  coins:0.35
+
+K: 5, Log-Likelihood: -319.836, Alpha: 11.000, Beta: 1.100

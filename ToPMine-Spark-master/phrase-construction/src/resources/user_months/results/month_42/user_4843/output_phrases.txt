@@ -1,0 +1,61 @@
+Topic 0:
+  local:1.02
+  code:1.01
+  person:0.98
+  time:0.93
+  talking:0.90
+  class:0.64
+  items:0.63
+  eating:0.62
+  meal:0.62
+  terms:0.62
+
+Topic 1:
+  time:0.62
+  person:0.61
+  local:0.58
+  talking:0.57
+  code:0.56
+  eat:0.42
+  items:0.42
+  location:0.42
+  category:0.42
+  xxxxx:0.41
+
+Topic 2:
+  talking:0.63
+  time:0.63
+  code:0.63
+  local:0.61
+  person:0.61
+  fruit:0.43
+  location:0.43
+  thing:0.42
+  easily:0.42
+  work:0.42
+
+Topic 3:
+  talk:0.90
+  internet:0.71
+  services:0.71
+  ect:0.71
+  people:0.71
+  messaged:0.71
+  streets:0.71
+  messaging:0.71
+  meet:0.71
+  kik:0.71
+
+Topic 4:
+  talking:1.01
+  time:0.94
+  person:0.93
+  code:0.92
+  local:0.91
+  work:0.61
+  le:0.61
+  thing:0.61
+  meal:0.60
+  easily:0.60
+
+K: 5, Log-Likelihood: -891.488, Alpha: 11.000, Beta: 1.100

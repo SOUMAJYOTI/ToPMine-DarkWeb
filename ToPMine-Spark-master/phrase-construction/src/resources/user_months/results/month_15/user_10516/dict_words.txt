@@ -1,0 +1,382 @@
+exception,0,2
+reason,1,1
+equivalent,2,1
+developments,3,1
+half,4,2
+impersonation,5,1
+bad,6,2
+references,7,1
+functions,8,1
+year,9,2
+livecd,10,1
+areas,11,2
+urge,12,2
+ssl,13,2
+pmi,14,1
+time certificate,15,2
+professional,16,2
+concern,17,1
+cover,18,1
+offer,19,1
+integrity,20,3
+password,21,1
+character,22,2
+quote,23,2
+hundreds,24,1
+publishing,25,1
+fingerprinting,26,1
+fully,27,2
+presidente,28,1
+bro,29,1
+accepting,30,2
+devices,31,1
+excited,32,2
+pass,33,1
+frustration,34,2
+sexually,35,2
+backdoors,36,1
+july,37,3
+google,38,5
+personal,39,1
+completed,40,1
+lacked,41,1
+click,42,1
+javascript,43,3
+accept,44,1
+frills,45,2
+project coming,46,2
+proxy,47,3
+mission,48,1
+certificates,49,1
+size,50,1
+implimented,51,2
+looked attacker,52,1
+domain,53,4
+baked,54,2
+fingerprintable,55,1
+beware,56,2
+bogus,57,1
+activity,58,2
+scanning,59,3
+tor browser,60,2
+useragent,61,1
+browser browser,62,1
+dead,63,1
+networks,64,5
+manual,65,1
+hotspots,66,3
+wlans,67,3
+cookies,68,2
+transparent,69,1
+remember,70,1
+current,71,1
+knowledgeable,72,1
+grasp,73,1
+attack,74,4
+supports,75,1
+backbone,76,3
+disabled,77,2
+caution,78,2
+connect,79,3
+pervert,80,2
+giveaway,81,1
+mind,82,1
+website,83,1
+scanning domain,84,2
+middle,85,5
+set,86,1
+oftentimes,87,1
+intimate,88,2
+ideally,89,1
+people,90,2
+connected,91,1
+kind software,92,1
+describe,93,1
+nastiness,94,2
+surely,95,1
+tolerant,96,1
+commercial,97,2
+df,98,1
+agent,99,3
+correct,100,1
+antenna work,101,2
+isn,102,1
+loader,103,2
+navigator,104,1
+project,105,4
+rules,106,1
+good,107,10
+dummies,108,1
+frequency,109,1
+domain connect,110,2
+correctly,111,1
+vulnerable,112,1
+fellows,113,4
+attacks,114,3
+details,115,1
+talk,116,2
+hardened,117,2
+wow,118,1
+area,119,1
+amateurs,120,2
+definite,121,2
+el,122,1
+flashy,123,2
+doubt,124,2
+check,125,2
+collection,126,1
+connect google,127,2
+downloaded,128,1
+browsers,129,1
+users,130,2
+spoofing,131,1
+shelf,132,1
+volume,133,1
+tails,134,2
+obscure,135,2
+http,136,3
+leaving,137,1
+fields,138,1
+user agent,139,3
+supposedely,140,2
+internet,141,2
+full,142,2
+farewell,143,1
+occasion,144,1
+trust,145,1
+installed,146,1
+distro,147,1
+identifying,148,1
+hidden,149,2
+agent http,150,1
+idea,151,3
+effort,152,2
+training,153,1
+conclusion,154,4
+malicious,155,2
+common,156,3
+disturbing,157,2
+bootloader,158,1
+scope,159,2
+trouble,160,1
+company,161,2
+good fellows,162,3
+boot,163,2
+headers,164,2
+figure,165,1
+practical,166,1
+domain ip,167,2
+jebusite,168,1
+center,169,1
+suspicion,170,1
+man scanning,171,2
+false,172,2
+attacker,173,3
+clarification,174,1
+monitor,175,1
+technology,176,1
+supper,177,2
+manage,178,1
+undertaking,179,1
+management,180,2
+service,181,1
+giants,182,1
+villainous,183,2
+tor project,184,2
+browser bundle,185,1
+step,186,2
+attacks ssid,187,1
+time,188,3
+certificate wondered,189,2
+antenna,190,4
+big,191,2
+smaller,192,1
+frustrated,193,2
+select,194,1
+called,195,1
+software,196,4
+disabling,197,1
+reach,198,2
+hs,199,2
+attempt,200,2
+deliverables,201,1
+signatures,202,1
+ordeal,203,2
+problem,204,1
+pmwhat,205,1
+property,206,1
+fingerprint,207,2
+block,208,2
+greater,209,2
+plan,210,1
+case,211,1
+attempts,212,4
+hardware,213,1
+phase,214,2
+integrity hash,215,1
+canvas,216,2
+http user,217,1
+encrusted,218,3
+large,219,1
+issue,220,1
+work idea,221,1
+work,222,7
+mitm,223,2
+testing,224,2
+ip,225,3
+bits,226,1
+deemed,227,2
+tough,228,1
+messaging,229,2
+system,230,4
+spinofthey,231,1
+reached,232,2
+reset,233,1
+hash,234,3
+sexual,235,2
+larger,236,2
+love,237,1
+judgement,238,2
+server,239,3
+tampered,240,1
+bundle tor,241,2
+exercise,242,2
+range,243,1
+ssid,244,3
+thinking,245,1
+substitute,246,1
+weak,247,2
+instant,248,2
+valid,249,2
+file,250,1
+ways,251,2
+blocked,252,1
+tor,253,8
+verify,254,2
+place,255,2
+man,256,7
+power,257,1
+bundle,258,5
+witnessed,259,1
+kind hash,260,1
+asses,261,1
+break,262,1
+fde,263,1
+forward,264,1
+discussed,265,1
+facebook,266,2
+knew,267,1
+spinoff,268,1
+spoiled,269,1
+soul coming,270,1
+lead,271,2
+happened,272,2
+sends,273,1
+lots,274,1
+places,275,1
+attack scanning,276,1
+pmgood,277,1
+instruction,278,1
+fellow,279,3
+juicy,280,2
+located,281,1
+websites,282,1
+accounts,283,2
+attack man,284,1
+randomly,285,1
+entity,286,2
+good fellow,287,1
+wondered,288,4
+spoof,289,1
+guru,290,1
+networks time,291,2
+perverted,292,2
+data,293,1
+google certificate,294,2
+surfing,295,1
+feel,296,1
+manner,297,1
+abilities,298,2
+download,299,2
+impersonate,300,2
+earlier,301,1
+major,302,1
+fine,303,1
+theoretically,304,1
+guarantees,305,1
+nasty,306,3
+connections,307,1
+traffic,308,1
+alter,309,2
+evilgrin,310,1
+level,311,1
+networks networks,312,2
+kind,313,6
+vigilant,314,1
+conveniently,315,2
+briefcase,316,1
+minutes,317,1
+occur,318,1
+temporarily,319,2
+man middle,320,4
+opened,321,1
+real,322,1
+kind attack,323,1
+gho,324,1
+fingerprints,325,2
+tbb,326,2
+person,327,1
+magnetron,328,1
+encounter man,329,2
+ghz,330,1
+safe,331,1
+files,332,2
+squid,333,2
+omit,334,1
+send,335,1
+dont,336,2
+covering,337,2
+tickets,338,1
+aint,339,1
+soul,340,3
+certificate,341,4
+mess,342,1
+point,343,5
+network,344,2
+general,345,1
+effective,346,1
+intended,347,1
+javascript browser,348,1
+browser,349,9
+working,350,1
+itll,351,1
+agent javascript,352,1
+scripts,353,2
+guts,354,1
+microwave,355,1
+heard,356,2
+direction,357,2
+console,358,2
+attempting,359,1
+system point,360,1
+sucks,361,1
+original,362,1
+looked,363,3
+nature,364,2
+built,365,2
+interesting,366,1
+fault,367,1
+resources,368,2
+good soul,369,1
+control,370,1
+encounter,371,4
+allowing,372,2
+middle point,373,1
+attacking,374,1
+ovens,375,1
+response,376,2
+respond,377,1
+user,378,3
+sitting,379,2
+coming,380,3
+clumsy,381,2

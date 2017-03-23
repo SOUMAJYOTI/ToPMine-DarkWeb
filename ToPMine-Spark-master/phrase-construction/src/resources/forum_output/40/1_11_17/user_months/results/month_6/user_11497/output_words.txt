@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.68
+  weedgirls:0.62
+  forums:0.50
+  reading:0.50
+  stuff:0.50
+  pleasant:0.50
+  rude:0.49
+  remember:0.49
+  vendor:0.49
+  february:0.48
+
+Topic 1:
+  sr:0.63
+  people:0.54
+  previous:0.54
+  offering:0.54
+  services:0.54
+  markets:0.53
+  fe:0.52
+  market:0.50
+  weedgirls:0.34
+  vendor:0.30
+
+Topic 2:
+  weedgirls:0.81
+  sr:0.59
+  remember:0.54
+  rude:0.54
+  quote:0.53
+  reading:0.53
+  february:0.53
+  stuff:0.53
+  pleasant:0.53
+  forums:0.53
+
+Topic 3:
+  fe:1.00
+  previous:0.97
+  sr:0.60
+  market:0.57
+  markets:0.56
+  services:0.56
+  offering:0.56
+  people:0.56
+  provide:0.40
+  policy:0.40
+
+Topic 4:
+  weedgirls:1.01
+  received:0.69
+  sr:0.51
+  stuff:0.49
+  february:0.49
+  pleasant:0.49
+  quote:0.49
+  rude:0.49
+  remember:0.49
+  forums:0.49
+
+K: 5, Log-Likelihood: -590.660, Alpha: 11.000, Beta: 1.100

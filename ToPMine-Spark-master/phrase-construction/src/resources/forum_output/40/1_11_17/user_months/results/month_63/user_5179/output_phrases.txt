@@ -1,0 +1,61 @@
+Topic 0:
+  dr ds:0.24
+  domain names dr:0.16
+  don:0.16
+  dont:0.16
+  domain names:0.16
+  referred:0.08
+  register vendors:0.08
+  purchase vendors recommended:0.08
+  signed paid vendor:0.08
+  dr market:0.08
+
+Topic 1:
+  dr ds:0.24
+  don:0.16
+  domain names dr:0.16
+  domain names:0.16
+  dont:0.16
+  signed paid vendor:0.08
+  dr market:0.08
+  register vendors:0.08
+  referred:0.08
+  purchase vendors recommended:0.08
+
+Topic 2:
+  dr ds:0.24
+  domain names:0.16
+  dont:0.16
+  don:0.16
+  domain names dr:0.16
+  dr ds market:0.08
+  recommended signed paid vendor:0.08
+  team:0.08
+  register:0.08
+  vendors referred:0.08
+
+Topic 3:
+  dr ds:0.24
+  dont:0.16
+  domain names:0.16
+  domain names dr:0.16
+  don:0.16
+  dr ds market:0.08
+  team:0.08
+  register:0.08
+  vendors referred:0.08
+  recommended signed paid vendor:0.08
+
+Topic 4:
+  dr ds:0.24
+  don:0.16
+  domain names dr:0.16
+  dont:0.16
+  domain names:0.16
+  team:0.08
+  vendors referred:0.08
+  recommended signed paid vendor:0.08
+  register:0.08
+  dr ds market:0.08
+
+K: 5, Log-Likelihood: -42.002, Alpha: 11.000, Beta: 1.100

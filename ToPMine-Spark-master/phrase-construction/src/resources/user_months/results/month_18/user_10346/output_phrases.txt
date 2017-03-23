@@ -1,0 +1,61 @@
+Topic 0:
+  community:1.21
+  coins secure:1.20
+  didnt:1.20
+  withdrawals:1.19
+  turn:1.19
+  functioning:1.18
+  members:1.18
+  shit:1.18
+  silk road:1.18
+  marketplace:1.18
+
+Topic 1:
+  question:0.92
+  safe:0.70
+  big scam:0.67
+  quote modernlove september:0.63
+  users:0.60
+  escrow:0.59
+  lost coins:0.54
+  weekend:0.54
+  happy:0.53
+  marketplace:0.53
+
+Topic 2:
+  question:1.46
+  lost coins:1.15
+  sr:0.97
+  stay:0.84
+  feel:0.71
+  nativity:0.70
+  free:0.70
+  escrow:0.69
+  contribute:0.67
+  people blast:0.67
+
+Topic 3:
+  sr:1.76
+  lost coins:1.48
+  contribute:1.01
+  stay:1.00
+  escrow:1.00
+  free:1.00
+  nativity:1.00
+  feel:0.99
+  longer:0.73
+  owes:0.73
+
+Topic 4:
+  escrow:0.79
+  safe:0.74
+  big scam:0.73
+  quote modernlove september:0.71
+  users:0.61
+  weekend:0.59
+  grateful:0.59
+  online:0.59
+  talkers:0.58
+  team:0.58
+
+K: 5, Log-Likelihood: -757.742, Alpha: 11.000, Beta: 1.100

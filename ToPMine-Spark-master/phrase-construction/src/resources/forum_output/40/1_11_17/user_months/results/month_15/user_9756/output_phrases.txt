@@ -1,0 +1,61 @@
+Topic 0:
+  withdrawals:4.42
+  disabled:2.92
+  money:2.92
+  month:2.92
+  withdrawal:1.66
+  explaining:1.58
+  jacked withdraw:1.58
+  add:1.57
+  fees:1.57
+  fine:1.42
+
+Topic 1:
+  darknet:1.85
+  supporteu:1.83
+  open:1.81
+  support:1.76
+  openmarket:1.65
+  journey:1.63
+  continue:1.62
+  days:1.62
+  experience:1.61
+  personally:0.84
+
+Topic 2:
+  experience:1.33
+  days:1.33
+  continue:1.32
+  journey:1.31
+  openmarket:1.29
+  support:1.18
+  open:1.14
+  supporteu:1.12
+  darknet:1.09
+  pandora:0.81
+
+Topic 3:
+  months:1.89
+  nice:1.88
+  hub warning:1.88
+  link:1.88
+  issues:1.88
+  noobs:1.88
+  warn:1.88
+  pothead:1.88
+  alice:1.67
+  forum:1.36
+
+Topic 4:
+  heard:1.41
+  rundown:1.41
+  posts:1.41
+  hacked:1.41
+  sr:1.41
+  crazy:1.41
+  people:1.41
+  stopped:1.41
+  plenty:1.41
+  proof:1.41
+
+K: 5, Log-Likelihood: -1558.093, Alpha: 11.000, Beta: 1.100

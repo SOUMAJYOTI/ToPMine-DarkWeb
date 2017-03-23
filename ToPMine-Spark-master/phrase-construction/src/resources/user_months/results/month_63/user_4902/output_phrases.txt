@@ -1,0 +1,61 @@
+Topic 0:
+  november:1.04
+  normal:0.94
+  frowned:0.88
+  post office:0.87
+  yeah:0.74
+  bit worried moment:0.73
+  postage:0.72
+  finally:0.64
+  quote:0.64
+  happened:0.64
+
+Topic 1:
+  package:0.86
+  postage:0.85
+  door:0.72
+  drop:0.72
+  today:0.72
+  experience:0.72
+  owe:0.72
+  woke:0.72
+  collect:0.72
+  mailman:0.72
+
+Topic 2:
+  post office:1.73
+  frowned:1.68
+  normal:1.67
+  november:1.55
+  occurence:0.97
+  pso:0.96
+  ameverything:0.96
+  darcm:0.95
+  quote:0.95
+  vendor:0.95
+
+Topic 3:
+  frowned:0.68
+  november:0.63
+  post office:0.63
+  normal:0.61
+  pay postage:0.61
+  bit worried moment:0.61
+  package:0.57
+  postage:0.49
+  yeah:0.48
+  occurence:0.48
+
+Topic 4:
+  affix:1.05
+  signature:1.05
+  fine:1.05
+  realized:1.04
+  balance:1.04
+  required:1.04
+  unpaid sender:1.04
+  stamp:1.04
+  dropped:1.03
+  unpaid postage:1.03
+
+K: 5, Log-Likelihood: -706.512, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,332 @@
+cancel,0,1
+increasingly,1,1
+german,2,2
+projects,3,2
+bad,4,1
+year,5,6
+spying,6,1
+allowed,7,1
+maintain,8,1
+salary,9,1
+building,10,1
+shrugged,11,1
+decided,12,2
+companies,13,2
+programmers,14,1
+hundreds,15,1
+gpgtools enigmail,16,1
+system money,17,1
+released,18,2
+investigated,19,1
+goals,20,1
+broke,21,2
+crowdsourcing,22,1
+august,23,1
+gpg win,24,2
+patches,25,1
+backdoors,26,2
+inspired,27,1
+volunteers,28,1
+free email,29,1
+version,30,3
+offering,31,2
+garnered,32,1
+donors,33,1
+programs,34,2
+receives,35,1
+isnt,36,1
+spends,37,1
+access,38,2
+fact,39,2
+pgp export,40,1
+revelations,41,1
+industry,42,1
+journalists,43,1
+subsequently,44,1
+current,45,1
+programmer year,46,1
+encryption,47,8
+enigmails,48,1
+encrypt,49,1
+security software,50,3
+patience,51,1
+problematical,52,1
+operating,53,3
+free,54,8
+popular,55,2
+email,56,5
+situation,57,1
+spare,58,1
+ephrath,59,1
+website,60,2
+set,61,1
+business,62,1
+keeping,63,1
+consulting,64,2
+jobs,65,1
+willi,66,1
+launch,67,1
+mans,68,1
+appeal,69,1
+people,70,3
+violating,71,1
+gnu,72,3
+single,73,1
+straight,74,1
+enigmail,75,3
+bug,76,2
+unfix,77,1
+quit,78,1
+interview,79,1
+gog,80,2
+open,81,1
+powered,82,1
+project,83,1
+remains,84,1
+microsoft,85,1
+money pay,86,1
+free gnu,87,1
+koch year,88,1
+good,89,1
+prior,90,1
+won,91,1
+talk,92,1
+zimmermann,93,2
+free program,94,1
+export,95,3
+programming,96,1
+gpg,97,4
+tech,98,1
+richard,99,1
+wrote,100,3
+batch,101,1
+pay,102,4
+internets,103,1
+users,104,2
+announced,105,1
+longer,106,1
+time full,107,1
+program called,108,1
+inspect,109,1
+campaign,110,3
+demonstrate,111,2
+system free,112,1
+support,113,1
+internet,114,2
+full,115,4
+time programmer,116,1
+private,117,1
+visiting,118,1
+hidden,119,2
+hire,120,2
+import,121,1
+germany,122,3
+privacy,123,3
+figured,124,1
+updates,125,1
+apple,126,1
+underlying code,127,1
+free encryption,128,1
+patrick,129,1
+called full,130,1
+kochs,131,2
+early,132,1
+snowden,133,1
+convention,134,1
+news,135,2
+attended,136,1
+recalled,137,2
+breathing,138,1
+jebusite,139,1
+year snowdon,140,1
+libraries,141,1
+start,142,1
+version pgp,143,1
+realized,144,1
+agencies,145,2
+windows,146,3
+room,147,1
+money,148,6
+fund,149,2
+encryption program,150,2
+short,151,1
+software code,152,2
+enigmail maintained,153,1
+undefended,154,2
+developer,155,3
+koch,156,16
+time,157,7
+grant,158,1
+propublica,159,1
+mark,160,1
+play,161,1
+software,162,12
+fulfill,163,1
+called,164,3
+told,165,2
+developers,166,2
+crowd,167,1
+pledged,168,1
+program,169,4
+nicolai,170,1
+hope,171,2
+years,172,2
+twitter,173,1
+compatible,174,1
+called gnu,175,1
+shirts,176,1
+koch wrote,177,1
+pennies,178,1
+revealed,179,1
+struggling,180,1
+write,181,2
+fear,182,1
+goal,183,1
+underfunded,184,1
+laws,185,1
+meets,186,1
+large,187,1
+method,188,1
+program gpg,189,1
+work,190,1
+wife,191,1
+programmer,192,4
+contract,193,1
+job snowdon,194,1
+underlying,195,3
+thousands,196,1
+full time,197,4
+intelligence,198,1
+phil,199,1
+urged,200,1
+system,201,3
+software called,202,1
+encryption government,203,1
+software gnu,204,1
+homage,205,1
+primary,206,1
+alive,207,2
+donations,208,1
+privacy pgp,209,1
+wrote software,210,1
+guard,211,2
+handedly,212,1
+win koch,213,1
+time developer,214,1
+tools,215,1
+enabled,216,1
+summer,217,1
+gpgtools,218,3
+computer,219,2
+fundraising,220,2
+government,221,4
+believes,222,2
+asked,223,1
+advertised,224,1
+pgp,225,4
+december,226,2
+man,227,1
+dissidents,228,1
+licensing,229,1
+pay programmer,230,1
+funding,231,3
+werner,232,2
+prefers,233,1
+josuttis,234,1
+continued,235,2
+free software,236,1
+lead,237,1
+fraction,238,1
+enigmail gpg,239,1
+hacker,240,1
+powerful,241,1
+powers,242,1
+runs,243,1
+stuff,244,1
+small,245,1
+pgp software,246,1
+underlying software,247,2
+fees,248,1
+heartbleed,249,1
+mail,250,1
+subject,251,2
+fee,252,1
+program windows,253,1
+edward,254,1
+minded,255,1
+stallmans,256,1
+launched,257,1
+high,258,1
+hit,259,1
+earned,260,1
+wake,261,1
+funding koch,262,1
+free underlying,263,1
+snowdon,264,3
+gnu privacy,265,2
+find,266,1
+email encryption,267,4
+raise,268,1
+stickers,269,1
+maintained,270,3
+software koch,271,2
+trafficking,272,1
+stallman,273,2
+group,274,1
+raising,275,1
+development,276,1
+months,277,2
+read,278,1
+initials,279,1
+whistleblower,280,1
+brunschwig,281,1
+restrictions,282,2
+nightmare,283,1
+tool,284,1
+amazon,285,1
+core,286,1
+dream,287,1
+improve,288,1
+october,289,1
+arms,290,1
+nothers,291,1
+job,292,3
+spy,293,2
+daughter,294,1
+shame,295,1
+code,296,4
+enigma,297,1
+hiring,298,1
+critical,299,1
+financial,300,1
+encryption software,301,1
+campaign koch,302,1
+decent,303,1
+running,304,2
+security,305,6
+evangelist,306,1
+gnu operating,307,1
+public,308,1
+billion,309,1
+ready,310,1
+idealistic,311,1
+working,312,1
+version software,313,1
+koch email,314,1
+win,315,4
+stepped,316,1
+pretty,317,2
+operating system,318,3
+built,319,2
+charging,320,1
+code free,321,2
+zuckerberg,322,1
+build,323,2
+funding job,324,1
+windows version,325,1
+earn,326,1
+glad,327,1
+windows operating,328,1
+online,329,1
+machines,330,1
+time job,331,1

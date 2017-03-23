@@ -1,0 +1,61 @@
+Topic 0:
+  tested:18.41
+  virtual isolation applications:16.11
+  encryption:13.81
+  virtual isolation:13.81
+  disadvantages physical isolation:13.81
+  full disk encryption:13.81
+  windows:13.81
+  membership concealment:13.81
+  intrusted code:11.51
+  os advantages:11.51
+
+Topic 1:
+  synonym based method:11.51
+  step translations:11.38
+  bing:9.48
+  step translation:9.20
+  accuracy:8.86
+  machine translation:8.80
+  city noon day:6.90
+  translations:6.90
+  bitcoin blender:6.89
+  coins:6.89
+
+Topic 2:
+  blog:9.20
+  alice:7.58
+  imitation passages:7.57
+  adversaries stylometry:7.12
+  bob:6.90
+  stylometry:6.68
+  privacy:6.46
+  juola:6.44
+  case:6.42
+  high:5.56
+
+Topic 3:
+  participants:16.52
+  shorter sentences:11.50
+  road:6.90
+  personal pronouns:6.90
+  writing style:6.35
+  cormac mccarthy:6.06
+  features:5.66
+  obfuscation passages:4.86
+  feature:4.65
+  readers:4.60
+
+Topic 4:
+  submissions:9.20
+  brennan greenstadt:7.76
+  discusses:6.90
+  modify writing style:6.90
+  amazon mechanical turk:6.90
+  adversaries stylometry:6.11
+  corpus:5.91
+  university:5.68
+  work:4.98
+  authors:4.69
+
+K: 5, Log-Likelihood: -53400.698, Alpha: 11.000, Beta: 1.100

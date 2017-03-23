@@ -1,0 +1,61 @@
+Topic 0:
+  millions:0.14
+  dark:0.14
+  wanted:0.14
+  trusted:0.14
+  obviosly:0.14
+  dont:0.14
+  pulled:0.14
+  times:0.14
+  wouldn:0.14
+  agora:0.14
+
+Topic 1:
+  wouldn:0.14
+  agora:0.14
+  trusted:0.14
+  obviosly:0.14
+  dark:0.14
+  times:0.14
+  pulled:0.14
+  dont:0.14
+  millions:0.14
+  wanted:0.14
+
+Topic 2:
+  dont:0.14
+  wouldn:0.14
+  wanted:0.14
+  obviosly:0.14
+  times:0.14
+  agora:0.14
+  dark:0.14
+  trusted:0.14
+  millions:0.14
+  pulled:0.14
+
+Topic 3:
+  pulled:0.14
+  times:0.14
+  wouldn:0.14
+  obviosly:0.14
+  wanted:0.14
+  dont:0.14
+  agora:0.14
+  millions:0.14
+  trusted:0.14
+  dark:0.14
+
+Topic 4:
+  pulled:0.14
+  millions:0.14
+  dark:0.14
+  times:0.14
+  agora:0.14
+  wanted:0.14
+  trusted:0.14
+  dont:0.14
+  obviosly:0.14
+  wouldn:0.14
+
+K: 5, Log-Likelihood: -24.893, Alpha: 11.000, Beta: 1.100

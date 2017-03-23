@@ -1,0 +1,61 @@
+Topic 0:
+  tang:3.85
+  hurt:3.82
+  wife:3.63
+  ken dont:2.79
+  agencies:2.78
+  diff:2.78
+  filed:2.78
+  ill:2.78
+  reports:2.78
+  persons:2.77
+
+Topic 1:
+  phone:7.72
+  access libertyx:4.46
+  tor:4.46
+  smart:3.83
+  coinify:3.08
+  tor gon:2.87
+  srsly:2.87
+  trough:2.87
+  connectionslol:2.87
+  limited:2.87
+
+Topic 2:
+  stolen:5.98
+  methods:2.91
+  companies:2.91
+  stupid:2.91
+  details cash:2.91
+  brah:2.90
+  willy:2.90
+  buttcoin:2.90
+  nilly:2.90
+  gon:2.90
+
+Topic 3:
+  credit card:4.64
+  verification:3.60
+  scan send websites require:3.56
+  verification goin phone number:3.55
+  website buy bitcoins:3.37
+  quote:3.19
+  wise beard february pmso:2.80
+  phone number:2.27
+  theyll:2.26
+  wanted:2.25
+
+Topic 4:
+  linen:3.81
+  pretty:3.81
+  dollars:3.81
+  exchange:3.81
+  bitcoin:3.21
+  accounts:2.82
+  ban:1.87
+  purchase:1.87
+  native:1.87
+  soft:1.87
+
+K: 5, Log-Likelihood: -1861.910, Alpha: 11.000, Beta: 1.100

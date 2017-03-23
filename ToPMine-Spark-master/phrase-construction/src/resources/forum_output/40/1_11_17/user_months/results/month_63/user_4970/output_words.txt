@@ -1,0 +1,61 @@
+Topic 0:
+  send:25.88
+  pay:21.84
+  amount:17.08
+  helix:15.91
+  btc:15.90
+  coins:15.43
+  version:14.96
+  bitblender:13.79
+  address:13.65
+  fee:12.71
+
+Topic 1:
+  quote:7.42
+  good:5.34
+  vendor:4.90
+  october:3.83
+  dream:3.60
+  havent:2.84
+  buyers:2.77
+  spammers:2.62
+  abraxas:2.17
+  dnm:2.14
+
+Topic 2:
+  abraxas:10.84
+  dream:10.44
+  vendors:6.52
+  escrow:5.75
+  britneystoke:5.19
+  pmwhat:5.13
+  pmquote:5.09
+  stay:5.09
+  quote:4.57
+  vendor:4.12
+
+Topic 3:
+  blockchain:12.36
+  post:7.39
+  coins:7.38
+  direct:6.75
+  deals:6.75
+  tumbling:6.71
+  evidence:5.88
+  case:5.88
+  good:5.56
+  le:5.54
+
+Topic 4:
+  time:81.64
+  market:48.40
+  link:37.72
+  love:28.56
+  referred:20.79
+  avengers:20.16
+  join:19.60
+  uptime:17.94
+  required:15.87
+  earth:9.05
+
+K: 5, Log-Likelihood: -11636.585, Alpha: 11.000, Beta: 1.100

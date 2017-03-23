@@ -1,0 +1,61 @@
+Topic 0:
+  tor:6.28
+  browser:5.26
+  onion:5.09
+  site:4.48
+  contents:3.86
+  real:3.86
+  posts:3.86
+  user:3.86
+  html:3.86
+  phishing:2.57
+
+Topic 1:
+  forum:7.57
+  google:4.27
+  accessible:4.03
+  clearnet:3.81
+  link:3.36
+  darknet:2.17
+  tor:1.96
+  thought:1.76
+  november:1.57
+  wtf:1.24
+
+Topic 2:
+  tor:7.87
+  clearnet:7.86
+  link:6.08
+  accessible:5.89
+  links:3.08
+  people:2.95
+  weird:2.93
+  post:2.83
+  linking:2.81
+  places:2.77
+
+Topic 3:
+  forum:4.20
+  clearnet:3.96
+  link:3.64
+  accessible:2.93
+  reddit:2.74
+  google:2.70
+  tor:2.37
+  november:2.29
+  scarf:2.25
+  quote:2.18
+
+Topic 4:
+  clearnet:9.10
+  tor:5.53
+  link:5.08
+  accessible:5.02
+  site:3.08
+  weird:2.88
+  links:2.77
+  popular:2.53
+  november:2.50
+  easily:2.42
+
+K: 5, Log-Likelihood: -2433.270, Alpha: 11.000, Beta: 1.100

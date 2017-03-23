@@ -1,0 +1,61 @@
+Topic 0:
+  good:11.02
+  amquote:5.53
+  things:5.40
+  april:4.75
+  notes:3.70
+  log:3.41
+  zoltar:3.28
+  hope:3.28
+  learn:3.27
+  amso:3.24
+
+Topic 1:
+  people:6.22
+  wake:5.95
+  betabay:4.18
+  hold:4.12
+  walk:4.03
+  april:2.83
+  time:2.65
+  needed:2.16
+  irrelevant:2.16
+  stuff:2.16
+
+Topic 2:
+  class:3.58
+  missed:2.13
+  irc:2.02
+  people:1.96
+  betabay:1.73
+  time:1.35
+  april:1.29
+  stuff:1.18
+  anonymity:1.10
+  walk:1.04
+
+Topic 3:
+  april:4.64
+  ron:3.37
+  missed:2.87
+  quote:2.87
+  swanson:2.80
+  people:2.01
+  amquote:2.00
+  yeah:1.79
+  good:1.52
+  class:1.14
+
+Topic 4:
+  class:5.37
+  time:3.46
+  irc:2.94
+  pm:2.68
+  anonymity:2.32
+  people:2.31
+  betabay:1.96
+  bacon:1.89
+  onionirchubx:1.61
+  est:1.58
+
+K: 5, Log-Likelihood: -2382.845, Alpha: 11.000, Beta: 1.100

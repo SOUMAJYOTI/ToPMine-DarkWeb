@@ -1,0 +1,61 @@
+Topic 0:
+  west:1.53
+  india:1.21
+  honestly:1.18
+  straight:1.18
+  shoulda:1.16
+  remain:1.16
+  murked:1.15
+  january:1.02
+  quote:0.81
+  days:0.79
+
+Topic 1:
+  market:4.91
+  msig:2.76
+  central:1.77
+  scammed:1.77
+  tho:1.77
+  scam:1.17
+  place:1.08
+  quote:0.88
+  ride:0.80
+  half:0.80
+
+Topic 2:
+  side:2.27
+  eic:2.27
+  coming:1.84
+  tech:1.84
+  theory:1.83
+  market:1.13
+  fucked:1.08
+  online:1.04
+  offed:0.85
+  busted:0.85
+
+Topic 3:
+  west:1.96
+  january:1.67
+  murked:1.46
+  remain:1.45
+  shoulda:1.45
+  straight:1.44
+  honestly:1.43
+  india:1.40
+  quote:1.08
+  senses:1.02
+
+Topic 4:
+  bitcoin:2.87
+  created:2.87
+  wallet:2.87
+  address:2.56
+  escrow:2.23
+  electrum:1.87
+  primary:1.87
+  public:1.87
+  key:1.87
+  network:0.88
+
+K: 5, Log-Likelihood: -998.315, Alpha: 11.000, Beta: 1.100

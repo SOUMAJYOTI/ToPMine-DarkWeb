@@ -1,0 +1,61 @@
+Topic 0:
+  ugly:3.69
+  markets:3.14
+  straight:3.09
+  good:3.00
+  luck:2.95
+  ui:2.83
+  search:2.60
+  nucleus:2.53
+  days:2.08
+  february:1.96
+
+Topic 1:
+  market:4.99
+  people:2.81
+  apple:1.92
+  feel:1.82
+  filters:1.59
+  vendor:1.58
+  vendors:0.94
+  pay:0.92
+  coming:0.83
+  brands:0.83
+
+Topic 2:
+  vendors:3.16
+  star:3.03
+  product:2.98
+  vendor:2.36
+  market:2.27
+  sales:2.09
+  dont:2.08
+  searching:1.53
+  basin:1.53
+  feedback:1.53
+
+Topic 3:
+  apple:6.19
+  market:4.19
+  pgp:3.79
+  vendor:3.07
+  sell:2.93
+  commission:2.86
+  store:2.81
+  life:2.81
+  ladies:2.80
+  iphones:1.84
+
+Topic 4:
+  market:4.64
+  vendors:3.83
+  apple:3.52
+  vendor:2.55
+  users:1.50
+  pay:1.00
+  star:0.98
+  online:0.85
+  commission:0.84
+  ipads:0.76
+
+K: 5, Log-Likelihood: -2822.686, Alpha: 11.000, Beta: 1.100

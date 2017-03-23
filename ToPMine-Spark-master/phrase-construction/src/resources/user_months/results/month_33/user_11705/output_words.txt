@@ -1,0 +1,61 @@
+Topic 0:
+  market:3.17
+  evolution:1.80
+  camp:1.04
+  quote:1.03
+  fema:1.02
+  december:1.02
+  list:1.02
+  dont:1.00
+  encryption:0.95
+  controlled:0.76
+
+Topic 1:
+  evolution:1.46
+  quote:1.10
+  december:1.09
+  market:0.91
+  fell:0.72
+  live:0.66
+  verdelimon:0.63
+  dont:0.60
+  encryption:0.60
+  banned:0.59
+
+Topic 2:
+  december:1.43
+  quote:1.40
+  evolution:0.88
+  drug:0.88
+  live:0.84
+  ami:0.72
+  distribution:0.69
+  raffles:0.67
+  networks:0.66
+  online:0.66
+
+Topic 3:
+  drug:1.47
+  december:1.31
+  live:1.29
+  quote:1.20
+  amazing:1.06
+  networks:1.04
+  online:1.04
+  raffles:1.04
+  underground:1.03
+  distribution:1.00
+
+Topic 4:
+  quote:1.27
+  evolution:1.26
+  december:1.14
+  market:0.83
+  live:0.73
+  drug:0.68
+  fell:0.68
+  banned:0.66
+  verdelimon:0.59
+  ami:0.58
+
+K: 5, Log-Likelihood: -961.099, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,41 @@
+Topic 0:
+  shippment:0.00
+  market:0.00
+  outlaw:0.00
+  find:0.00
+  germany:0.00
+  products:0.00
+
+Topic 1:
+  shippment:0.00
+  market:0.00
+  outlaw:0.00
+  find:0.00
+  germany:0.00
+  products:0.00
+
+Topic 2:
+  shippment:0.00
+  market:0.00
+  outlaw:0.00
+  find:0.00
+  germany:0.00
+  products:0.00
+
+Topic 3:
+  shippment:0.00
+  market:0.00
+  outlaw:0.00
+  find:0.00
+  germany:0.00
+  products:0.00
+
+Topic 4:
+  shippment:0.00
+  market:0.00
+  outlaw:0.00
+  find:0.00
+  germany:0.00
+  products:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

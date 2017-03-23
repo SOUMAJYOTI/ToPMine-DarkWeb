@@ -1,0 +1,61 @@
+Topic 0:
+  referred:0.94
+  dn:0.93
+  cola:0.49
+  ve:0.49
+  hansa market:0.43
+  website:0.39
+  community:0.39
+  cocaine:0.39
+  commissions:0.39
+  link:0.39
+
+Topic 1:
+  vendors:3.13
+  encourage:1.77
+  fees:0.75
+  abraxas agora:0.75
+  offer:0.75
+  hans:0.75
+  lot:0.75
+  fall:0.75
+  product:0.75
+  young:0.75
+
+Topic 2:
+  hansa market:0.96
+  exit:0.76
+  scams:0.42
+  learn:0.42
+  dont:0.42
+  middle:0.42
+  feature:0.42
+  easy:0.42
+  netherlands:0.42
+  agora abraxas:0.42
+
+Topic 3:
+  hansa market:0.73
+  exit:0.53
+  cola:0.44
+  ve:0.43
+  market:0.39
+  knowledge hope:0.35
+  sincerely:0.35
+  mdma:0.35
+  minutes:0.35
+  lost:0.35
+
+Topic 4:
+  ve:0.59
+  cola:0.59
+  referred:0.59
+  dn:0.58
+  hansa market:0.52
+  exit:0.37
+  vendors:0.31
+  market:0.31
+  concerned:0.29
+  paid:0.29
+
+K: 5, Log-Likelihood: -597.639, Alpha: 11.000, Beta: 1.100

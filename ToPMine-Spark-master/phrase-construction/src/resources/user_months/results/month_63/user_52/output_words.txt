@@ -1,0 +1,61 @@
+Topic 0:
+  drugs:1.28
+  experience:0.81
+  lives:0.80
+  suffered:0.40
+  association:0.40
+  illegal:0.40
+  social:0.40
+  relating:0.40
+  question:0.40
+  offer:0.40
+
+Topic 1:
+  drugs:1.17
+  experience:0.79
+  lives:0.77
+  typically:0.40
+  discriminated:0.40
+  social:0.40
+  progress:0.40
+  illegal:0.40
+  concentrating:0.40
+  drug:0.40
+
+Topic 2:
+  drugs:1.07
+  experience:0.80
+  lives:0.80
+  prove:0.41
+  profound:0.41
+  drug:0.41
+  fun:0.41
+  headline:0.41
+  progress:0.41
+  typically:0.40
+
+Topic 3:
+  drugs:1.23
+  lives:0.87
+  experience:0.77
+  helps:0.40
+  offer:0.40
+  hurts:0.40
+  relating:0.40
+  personal:0.40
+  politics:0.40
+  changing:0.40
+
+Topic 4:
+  drugs:1.25
+  experience:0.82
+  lives:0.75
+  times:0.40
+  affiliation:0.40
+  question:0.40
+  politics:0.40
+  majoring:0.40
+  guess:0.40
+  science:0.40
+
+K: 5, Log-Likelihood: -255.155, Alpha: 11.000, Beta: 1.100

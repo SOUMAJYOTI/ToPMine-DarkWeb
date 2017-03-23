@@ -1,0 +1,61 @@
+Topic 0:
+  blog:5.00
+  post:3.41
+  deepweb:2.44
+  good:2.40
+  service:2.39
+  stuff:1.74
+  delete:1.66
+  drugs:1.65
+  sell:1.64
+  products:1.64
+
+Topic 1:
+  tor:4.10
+  april:3.12
+  wordpress:3.03
+  tumblr:2.77
+  quote:2.37
+  dont:2.21
+  site:2.14
+  clearnet:2.09
+  blog:1.63
+  hxxps:1.46
+
+Topic 2:
+  wasting:7.17
+  dis:7.00
+  onion:5.49
+  access:4.01
+  tor:4.00
+  code:3.81
+  qr:3.81
+  download:3.81
+  easier:3.31
+  time:3.31
+
+Topic 3:
+  blog:4.73
+  people:4.28
+  community:2.88
+  post:2.56
+  tor:2.24
+  creative:1.88
+  risk:1.82
+  security:1.42
+  nice:1.37
+  start:1.27
+
+Topic 4:
+  javascript:11.68
+  tor:10.39
+  sites:7.60
+  clearweb:7.59
+  ip:5.93
+  wrong:5.70
+  turn:5.68
+  posting:3.79
+  revealed:3.65
+  busts:3.65
+
+K: 5, Log-Likelihood: -2598.843, Alpha: 11.000, Beta: 1.100

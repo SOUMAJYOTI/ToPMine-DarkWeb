@@ -1,0 +1,61 @@
+Topic 0:
+  forum:2.63
+  market:1.52
+  good:0.99
+  dream:0.86
+  quote:0.70
+  days:0.69
+  ago:0.67
+  reply:0.63
+  november:0.60
+  team:0.53
+
+Topic 1:
+  forum:4.05
+  quote:1.44
+  market:1.01
+  days:0.95
+  november:0.94
+  team:0.85
+  ago:0.81
+  coins:0.70
+  attack:0.69
+  posts:0.68
+
+Topic 2:
+  forum:2.09
+  quote:0.83
+  reply:0.81
+  team:0.69
+  november:0.68
+  market:0.67
+  good:0.65
+  ago:0.65
+  days:0.58
+  tang:0.57
+
+Topic 3:
+  forum:2.95
+  market:0.95
+  quote:0.87
+  reply:0.77
+  team:0.76
+  good:0.71
+  ago:0.69
+  days:0.63
+  november:0.62
+  dream:0.57
+
+Topic 4:
+  feedbacks:3.27
+  nice:3.26
+  reviews:3.23
+  good:3.21
+  weed:2.13
+  care:1.39
+  middle:1.38
+  wholesaler:1.38
+  dhl:1.38
+  market:0.85
+
+K: 5, Log-Likelihood: -1100.656, Alpha: 11.000, Beta: 1.100

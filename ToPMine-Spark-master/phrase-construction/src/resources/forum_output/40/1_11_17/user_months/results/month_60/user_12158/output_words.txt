@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:2.23
+  seed:1.33
+  lose:1.09
+  save:0.95
+  created:0.78
+  issue:0.72
+  lost:0.63
+  time:0.62
+  hope:0.61
+  tails:0.60
+
+Topic 1:
+  wallet:2.01
+  seed:1.40
+  lose:1.12
+  save:0.90
+  issue:0.78
+  created:0.76
+  lost:0.65
+  time:0.63
+  hope:0.59
+  forgot:0.59
+
+Topic 2:
+  wallet:2.63
+  seed:1.51
+  save:0.95
+  issue:0.92
+  lose:0.87
+  created:0.79
+  forgot:0.62
+  hope:0.62
+  lost:0.60
+  tails:0.58
+
+Topic 3:
+  wallet:1.78
+  seed:1.72
+  time:0.74
+  lose:0.71
+  read:0.69
+  forgot:0.67
+  learned:0.65
+  lost:0.65
+  lesson:0.65
+  save:0.62
+
+Topic 4:
+  wallet:3.35
+  save:1.58
+  lose:1.21
+  created:1.09
+  seed:1.04
+  issue:1.03
+  tails:0.84
+  hope:0.77
+  pgp:0.54
+  key:0.54
+
+K: 5, Log-Likelihood: -701.561, Alpha: 11.000, Beta: 1.100

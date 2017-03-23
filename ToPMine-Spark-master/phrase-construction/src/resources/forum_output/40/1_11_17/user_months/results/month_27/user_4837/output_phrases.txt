@@ -1,0 +1,61 @@
+Topic 0:
+  ecc:0.37
+  safe:0.37
+  bit keys:0.37
+  expected:0.37
+  rsa keys:0.36
+  usb:0.36
+  gpg:0.35
+  nightcrawler:0.34
+  security:0.30
+  years:0.28
+
+Topic 1:
+  piece:0.55
+  good:0.55
+  dead:0.55
+  caught:0.55
+  solution:0.55
+  software:0.55
+  expected:0.53
+  safe:0.52
+  ecc:0.52
+  bit keys:0.52
+
+Topic 2:
+  gpg:1.05
+  usb:1.05
+  nightcrawler:0.58
+  rsa keys:0.57
+  dual:0.42
+  complianti:0.42
+  exclusively:0.42
+  standards:0.42
+  nagis:0.42
+  february:0.42
+
+Topic 3:
+  security:0.80
+  bit keys:0.45
+  ecc:0.44
+  safe:0.44
+  expected:0.44
+  sr:0.32
+  blessings:0.32
+  moving:0.32
+  accessible:0.32
+  find:0.32
+
+Topic 4:
+  software:0.73
+  solution:0.72
+  caught:0.72
+  piece:0.72
+  good:0.72
+  dead:0.72
+  years:0.33
+  keys:0.33
+  dangerously:0.31
+  including:0.31
+
+K: 5, Log-Likelihood: -623.820, Alpha: 11.000, Beta: 1.100

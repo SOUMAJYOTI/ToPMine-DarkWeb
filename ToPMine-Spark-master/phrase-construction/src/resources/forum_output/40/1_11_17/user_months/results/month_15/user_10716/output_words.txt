@@ -1,0 +1,61 @@
+Topic 0:
+  fog:3.49
+  blender:1.14
+  btc:0.73
+  bitblender:0.73
+  slow:0.72
+  fast:0.72
+  hearing:0.64
+  address:0.63
+  onion:0.63
+  clearnet:0.62
+
+Topic 1:
+  ive:1.57
+  swam:1.56
+  week:1.52
+  bitcointalk:1.11
+  accounts:1.10
+  trolls:1.07
+  problems:1.02
+  issues:0.96
+  fog:0.93
+  thread:0.87
+
+Topic 2:
+  fog:3.24
+  blender:1.17
+  fast:0.74
+  slow:0.74
+  btc:0.73
+  issues:0.69
+  bitblender:0.67
+  hearing:0.62
+  ive:0.57
+  clearnet:0.46
+
+Topic 3:
+  fog:2.46
+  bitblender:0.93
+  issues:0.82
+  ive:0.79
+  clearnet:0.53
+  thread:0.53
+  onion:0.53
+  address:0.52
+  blender:0.48
+  june:0.46
+
+Topic 4:
+  ive:1.56
+  week:1.48
+  swam:1.45
+  problems:1.13
+  trolls:1.08
+  accounts:1.07
+  bitcointalk:1.06
+  issues:0.94
+  fog:0.88
+  bitblender:0.85
+
+K: 5, Log-Likelihood: -689.715, Alpha: 11.000, Beta: 1.100

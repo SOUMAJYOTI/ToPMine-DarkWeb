@@ -1,0 +1,61 @@
+Topic 0:
+  bug:103.97
+  tor browser:28.70
+  bug disable:27.72
+  security slider:24.26
+  tor circuit:17.32
+  bug dont:17.32
+  circuit:16.03
+  domain:13.86
+  bug provide:13.86
+  site:13.86
+
+Topic 1:
+  update:11.40
+  april:8.66
+  config:6.08
+  js lots:6.08
+  script:6.08
+  good thing:6.08
+  shouldnt:6.08
+  things good:6.08
+  improvements:6.08
+  guess:6.08
+
+Topic 2:
+  truecrypt:13.57
+  phase ii audit:12.23
+  full report:12.23
+  error:11.19
+  quote vixty april:9.70
+  duckduckgo:9.12
+  replace google search engines:8.38
+  time:6.37
+  fail:6.13
+  initials audit:6.11
+
+Topic 3:
+  quote:14.02
+  hidden service:12.86
+  software:12.19
+  pmquote:11.58
+  replace bitcoins bitcoins forever:11.45
+  litecoin:10.37
+  beta version:10.36
+  bitcoin:10.09
+  amwhat crypts currency:10.04
+  btc dolllars worth good:10.04
+
+Topic 4:
+  tor:25.04
+  hidden services:11.41
+  cover traffic:10.39
+  people:9.04
+  security:7.90
+  code:7.34
+  hard:6.97
+  competent:6.93
+  days:6.93
+  bittorrent:6.93
+
+K: 5, Log-Likelihood: -37567.037, Alpha: 11.000, Beta: 1.100

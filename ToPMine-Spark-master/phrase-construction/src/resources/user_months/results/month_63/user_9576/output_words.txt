@@ -1,0 +1,61 @@
+Topic 0:
+  web:0.79
+  shipping:0.77
+  deep:0.72
+  weed:0.56
+  control:0.55
+  forum:0.42
+  youtube:0.39
+  thing:0.39
+  lsd:0.39
+  unbox:0.39
+
+Topic 1:
+  web:0.83
+  deep:0.80
+  shipping:0.80
+  control:0.61
+  weed:0.59
+  buy:0.41
+  drug:0.41
+  youtube:0.41
+  quality:0.41
+  unbox:0.41
+
+Topic 2:
+  shipping:0.94
+  web:0.83
+  deep:0.82
+  weed:0.63
+  control:0.63
+  drug:0.41
+  videos:0.41
+  buy:0.41
+  youtube:0.41
+  unbox:0.41
+
+Topic 3:
+  deep:0.95
+  web:0.85
+  shipping:0.81
+  weed:0.65
+  control:0.64
+  quality:0.42
+  thing:0.42
+  lsd:0.42
+  videos:0.42
+  unbox:0.42
+
+Topic 4:
+  deep:0.70
+  web:0.70
+  shipping:0.68
+  weed:0.56
+  control:0.56
+  forum:0.44
+  videos:0.38
+  lsd:0.38
+  drug:0.38
+  youtube:0.38
+
+K: 5, Log-Likelihood: -332.315, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  message:6.15
+  tails:4.02
+  decrypt:3.01
+  version:2.09
+  link:1.98
+  public:1.85
+  key:1.74
+  forums:1.52
+  search:1.51
+  electrum:1.50
+
+Topic 1:
+  message:6.21
+  tails:2.78
+  decrypt:2.66
+  pgp:1.53
+  version:1.44
+  encrypt:1.40
+  meant:1.27
+  liquid:1.15
+  quote:1.04
+  send:1.01
+
+Topic 2:
+  message:6.71
+  tails:2.22
+  decrypt:2.11
+  meant:1.86
+  pgp:1.75
+  version:1.68
+  liquid:1.28
+  encrypt:1.14
+  blank:1.13
+  hzydxiec:1.03
+
+Topic 3:
+  meant:4.28
+  pgp:4.12
+  message:3.42
+  nis:2.01
+  iwkps:1.97
+  ujlnbuwdutjq:1.97
+  type:1.96
+  qq:1.96
+  qgmn:1.95
+  ptsuet:1.95
+
+Topic 4:
+  message:5.50
+  key:4.37
+  encrypt:4.32
+  public:4.18
+  messages:3.79
+  people:3.32
+  ill:3.24
+  decrypt:2.92
+  version:2.75
+  working:2.51
+
+K: 5, Log-Likelihood: -2246.621, Alpha: 11.000, Beta: 1.100

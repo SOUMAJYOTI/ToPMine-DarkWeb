@@ -1,0 +1,61 @@
+Topic 0:
+  tor:4.99
+  onion:4.07
+  quote:3.72
+  type:3.62
+  dash:2.70
+  shit:2.43
+  black:2.41
+  book:2.14
+  february:1.80
+  boneskoopa:1.79
+
+Topic 1:
+  work:4.40
+  quote:3.80
+  dash:3.14
+  tor:2.93
+  humankind:2.89
+  providing:2.87
+  anonymity:2.86
+  respect:2.84
+  financial:2.84
+  teammates:2.84
+
+Topic 2:
+  reddit:5.39
+  code:4.64
+  js:3.84
+  dont:3.46
+  scripts:2.99
+  hear:2.89
+  platform:2.30
+  quote:2.28
+  works:1.88
+  brain:1.85
+
+Topic 3:
+  dash:29.04
+  electrum:9.69
+  wallet:5.03
+  trezor:4.96
+  electric:4.57
+  installer:3.96
+  users:2.96
+  install:2.96
+  release:2.96
+  popular:2.96
+
+Topic 4:
+  dash:13.72
+  social:11.20
+  media:7.65
+  wiki:4.79
+  wallet:4.67
+  blockchain:4.06
+  news:3.96
+  masternodes:3.96
+  tier:3.96
+  system:3.85
+
+K: 5, Log-Likelihood: -4288.862, Alpha: 11.000, Beta: 1.100

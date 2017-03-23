@@ -1,0 +1,61 @@
+Topic 0:
+  grams:4.99
+  pirate market:2.73
+  coming:1.59
+  scans:1.59
+  listings:1.59
+  engine:1.59
+  drug:1.59
+  forward:1.59
+  customers:1.59
+  google:1.59
+
+Topic 1:
+  vacation mode:4.99
+  account:4.99
+  vendors:3.29
+  vendor:3.29
+  pirate market:2.29
+  returns:1.59
+  eliminates:1.59
+  enabled:1.59
+  list:1.59
+  product:1.59
+
+Topic 2:
+  quote tone:4.97
+  problem:4.53
+  quote galou:3.27
+  error:3.27
+  site:2.14
+  monday:2.13
+  open:2.13
+  hope:2.12
+  jebusite:2.12
+  hour:1.57
+
+Topic 3:
+  days:2.12
+  breaks:1.46
+  bunch:1.46
+  payments:1.46
+  btcfog:1.46
+  chunks:1.46
+  small:1.46
+  broken:1.46
+  advice:1.42
+  agree:1.42
+
+Topic 4:
+  multi tumbler:6.70
+  bitcoins:5.00
+  transfer:3.29
+  bitcoins wallets:3.29
+  wallet:3.29
+  random:3.04
+  hours:1.82
+  service:1.59
+  minutes:1.59
+  youll:1.59
+
+K: 5, Log-Likelihood: -872.684, Alpha: 11.000, Beta: 1.100

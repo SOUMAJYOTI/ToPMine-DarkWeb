@@ -1,0 +1,61 @@
+Topic 0:
+  havana:12.24
+  cr:10.42
+  multisig:9.81
+  alpaca:9.01
+  market:8.47
+  web:6.18
+  similarities:6.08
+  markets:5.89
+  developer:3.91
+  talking:3.91
+
+Topic 1:
+  question:7.85
+  april:7.55
+  alpaca:6.82
+  havana:6.82
+  quote:5.14
+  similarities:4.73
+  alpacas:4.60
+  code:4.06
+  walter:4.01
+  access:3.93
+
+Topic 2:
+  admins:2.89
+  absolem:2.86
+  ava:2.74
+  url:2.14
+  market:2.08
+  heard:2.02
+  quote:2.01
+  accusations:1.92
+  week:1.89
+  changed:1.87
+
+Topic 3:
+  sig:5.51
+  vendor:5.22
+  havana:3.10
+  buyers:3.07
+  market:3.02
+  probablefire:3.02
+  cannabis:3.00
+  transaction:2.92
+  key:2.92
+  time:2.90
+
+Topic 4:
+  absolem:12.98
+  market:6.43
+  havana:6.03
+  vendors:4.00
+  vendor:2.70
+  buyer:2.60
+  drugs:2.60
+  multi:2.27
+  application:1.92
+  absalom:1.92
+
+K: 5, Log-Likelihood: -6833.918, Alpha: 11.000, Beta: 1.100

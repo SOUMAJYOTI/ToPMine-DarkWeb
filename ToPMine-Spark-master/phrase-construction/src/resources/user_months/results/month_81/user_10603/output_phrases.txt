@@ -1,0 +1,61 @@
+Topic 0:
+  security security:0.00
+  electrum:0.00
+  private:0.00
+  wallet:0.00
+  cost:0.00
+  keys:0.00
+  convenience:0.00
+  thread:0.00
+  importing:0.00
+  crypto:0.00
+
+Topic 1:
+  security security:0.00
+  electrum:0.00
+  private:0.00
+  wallet:0.00
+  cost:0.00
+  keys:0.00
+  convenience:0.00
+  thread:0.00
+  importing:0.00
+  crypto:0.00
+
+Topic 2:
+  security security:0.00
+  electrum:0.00
+  private:0.00
+  wallet:0.00
+  cost:0.00
+  keys:0.00
+  convenience:0.00
+  thread:0.00
+  importing:0.00
+  crypto:0.00
+
+Topic 3:
+  security security:0.00
+  electrum:0.00
+  private:0.00
+  wallet:0.00
+  cost:0.00
+  keys:0.00
+  convenience:0.00
+  thread:0.00
+  importing:0.00
+  crypto:0.00
+
+Topic 4:
+  security security:0.00
+  electrum:0.00
+  private:0.00
+  wallet:0.00
+  cost:0.00
+  keys:0.00
+  convenience:0.00
+  thread:0.00
+  importing:0.00
+  crypto:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

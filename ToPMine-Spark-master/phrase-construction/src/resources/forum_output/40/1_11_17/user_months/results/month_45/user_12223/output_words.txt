@@ -1,0 +1,61 @@
+Topic 0:
+  rehtitukku:1.20
+  sun:0.96
+  ja:0.92
+  ytt:0.78
+  kun:0.73
+  olla:0.58
+  kaikki:0.55
+  samaa:0.52
+  yll:0.52
+  ett:0.50
+
+Topic 1:
+  ja:6.00
+  kaikki:2.21
+  myyj:1.79
+  pit:1.61
+  se:0.86
+  vapautusta:0.75
+  ei:0.70
+  vaativat:0.69
+  rahat:0.69
+  crown:0.69
+
+Topic 2:
+  ja:2.17
+  ei:1.03
+  rehtitukku:0.66
+  noita:0.64
+  sun:0.60
+  yll:0.60
+  kaikki:0.57
+  ytt:0.51
+  vapautusta:0.45
+  seaman:0.40
+
+Topic 3:
+  ja:2.73
+  kaikki:0.96
+  rehtitukku:0.72
+  ytt:0.62
+  ei:0.60
+  sun:0.58
+  myyj:0.45
+  sielt:0.41
+  subut:0.41
+  kannattaa:0.41
+
+Topic 4:
+  ja:2.18
+  rehtitukku:1.01
+  ytt:0.85
+  kaikki:0.70
+  sun:0.66
+  ett:0.56
+  samaa:0.51
+  hoitaa:0.51
+  subut:0.50
+  sielt:0.50
+
+K: 5, Log-Likelihood: -1162.874, Alpha: 11.000, Beta: 1.100

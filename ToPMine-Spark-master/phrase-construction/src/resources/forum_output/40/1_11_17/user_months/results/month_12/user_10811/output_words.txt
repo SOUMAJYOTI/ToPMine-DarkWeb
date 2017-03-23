@@ -1,0 +1,51 @@
+Topic 0:
+  jack:0.20
+  trade:0.20
+  captain:0.20
+  contact:0.20
+  direct:0.20
+  purpose:0.20
+  people:0.20
+  guys:0.20
+
+Topic 1:
+  purpose:0.20
+  guys:0.20
+  captain:0.20
+  contact:0.20
+  direct:0.20
+  people:0.20
+  trade:0.20
+  jack:0.20
+
+Topic 2:
+  guys:0.20
+  jack:0.20
+  people:0.20
+  purpose:0.20
+  direct:0.20
+  contact:0.20
+  captain:0.20
+  trade:0.20
+
+Topic 3:
+  people:0.20
+  trade:0.20
+  captain:0.20
+  direct:0.20
+  contact:0.20
+  purpose:0.20
+  guys:0.20
+  jack:0.20
+
+Topic 4:
+  direct:0.20
+  contact:0.20
+  guys:0.20
+  people:0.20
+  trade:0.20
+  captain:0.20
+  purpose:0.20
+  jack:0.20
+
+K: 5, Log-Likelihood: -16.636, Alpha: 11.000, Beta: 1.100

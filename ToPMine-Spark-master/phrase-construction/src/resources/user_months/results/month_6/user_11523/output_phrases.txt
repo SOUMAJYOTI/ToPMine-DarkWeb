@@ -1,0 +1,46 @@
+Topic 0:
+  weapon:0.00
+  permitted:0.00
+  hub:0.00
+  captain:0.00
+  sales:0.00
+  jack:0.00
+  promotion:0.00
+
+Topic 1:
+  weapon:0.00
+  permitted:0.00
+  hub:0.00
+  captain:0.00
+  sales:0.00
+  jack:0.00
+  promotion:0.00
+
+Topic 2:
+  weapon:0.00
+  permitted:0.00
+  hub:0.00
+  captain:0.00
+  sales:0.00
+  jack:0.00
+  promotion:0.00
+
+Topic 3:
+  weapon:0.00
+  permitted:0.00
+  hub:0.00
+  captain:0.00
+  sales:0.00
+  jack:0.00
+  promotion:0.00
+
+Topic 4:
+  weapon:0.00
+  permitted:0.00
+  hub:0.00
+  captain:0.00
+  sales:0.00
+  jack:0.00
+  promotion:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

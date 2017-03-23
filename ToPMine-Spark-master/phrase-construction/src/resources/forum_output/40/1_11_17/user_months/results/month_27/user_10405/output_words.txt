@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:9.91
+  users:7.88
+  tor:7.12
+  network:5.06
+  nodes:3.20
+  accessing:2.92
+  transactions:2.92
+  paper:2.92
+  servers:2.20
+  connect:2.20
+
+Topic 1:
+  tor:3.56
+  ubuntu:1.70
+  server:1.70
+  design:1.70
+  vulnerable:1.70
+  running:1.61
+  bug:1.61
+  bash:1.44
+  vulnerability:1.34
+  catch:1.08
+
+Topic 2:
+  traffic:7.01
+  chain:5.53
+  block:5.48
+  havent:5.46
+  anonymous:4.70
+  weeks:3.82
+  november:2.87
+  deposits:2.60
+  understanding:2.60
+  agora:2.60
+
+Topic 3:
+  exit:9.70
+  blockchain:6.15
+  address:4.64
+  relays:3.36
+  number:3.34
+  tor:2.31
+  reduced:2.25
+  mindful:2.22
+  onion:2.02
+  access:1.70
+
+Topic 4:
+  blockchain:4.50
+  access:3.61
+  onion:2.73
+  js:2.31
+  address:1.95
+  tor:1.63
+  net:1.40
+  clear:1.38
+  great:0.84
+  traffic:0.84
+
+K: 5, Log-Likelihood: -2533.174, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  forum:0.83
+  customers:0.41
+  butthey:0.41
+  helping:0.41
+  complain:0.41
+  weeks:0.41
+  dont:0.41
+  swam:0.41
+  people:0.41
+  moderators:0.41
+
+Topic 1:
+  forum:0.78
+  easy:0.40
+  solve:0.40
+  ignore:0.40
+  scam:0.40
+  weeks:0.40
+  dont:0.40
+  customers:0.40
+  customer:0.39
+  people:0.39
+
+Topic 2:
+  forum:0.79
+  reach:0.39
+  ignore:0.39
+  complain:0.39
+  solve:0.39
+  moderators:0.39
+  messages:0.39
+  swam:0.39
+  case:0.39
+  scam:0.39
+
+Topic 3:
+  forum:0.76
+  day:0.40
+  helping:0.40
+  moderators:0.40
+  messages:0.40
+  case:0.40
+  weeks:0.40
+  easy:0.40
+  customer:0.40
+  reach:0.40
+
+Topic 4:
+  forum:0.84
+  customer:0.42
+  day:0.42
+  dont:0.41
+  messages:0.41
+  customers:0.41
+  case:0.41
+  people:0.41
+  scam:0.41
+  reach:0.41
+
+K: 5, Log-Likelihood: -309.692, Alpha: 11.000, Beta: 1.100

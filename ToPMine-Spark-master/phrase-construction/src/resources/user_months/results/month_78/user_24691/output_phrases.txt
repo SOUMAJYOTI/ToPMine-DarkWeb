@@ -1,0 +1,61 @@
+Topic 0:
+  chuck:17.11
+  matt:11.39
+  judge:8.82
+  jeffs:6.41
+  church judge:6.41
+  email account:6.41
+  officers:5.28
+  lessons:4.27
+  matt jeff:4.27
+  plan:4.27
+
+Topic 1:
+  mail:19.25
+  mail carrier:8.55
+  le:7.02
+  remain calm:6.41
+  day:6.41
+  holiday season:6.41
+  mailman:4.27
+  prepare:4.27
+  receiving:4.27
+  fight:4.27
+
+Topic 2:
+  super lazy:5.14
+  email address:5.14
+  smuggler:4.24
+  knowing:4.21
+  mouth:3.40
+  suppliers:3.39
+  admitting:3.39
+  knowing package:3.39
+  degree:3.39
+  stories matt:3.39
+
+Topic 3:
+  coins:10.68
+  money:8.60
+  bitcoin business:8.54
+  bitcoin:6.00
+  amazing drugs:4.79
+  bitcoin exchanges:4.26
+  dollars:4.26
+  washed:4.26
+  write:4.26
+  steps:4.26
+
+Topic 4:
+  vendors tmg dhl:6.91
+  considered:4.26
+  suspicious:3.58
+  text:3.44
+  amounts:3.44
+  camera:3.44
+  verification:3.44
+  checks:3.44
+  buying:3.44
+  directly good:3.44
+
+K: 5, Log-Likelihood: -13873.628, Alpha: 11.000, Beta: 1.100

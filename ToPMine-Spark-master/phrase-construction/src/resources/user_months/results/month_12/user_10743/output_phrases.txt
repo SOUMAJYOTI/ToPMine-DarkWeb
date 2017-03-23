@@ -1,0 +1,61 @@
+Topic 0:
+  man:0.28
+  read:0.28
+  fed:0.28
+  fish:0.28
+  pretty:0.28
+  agora:0.28
+  security:0.17
+  autonomy:0.14
+  mistakes:0.14
+  books:0.14
+
+Topic 1:
+  agora:0.28
+  pretty:0.28
+  fish:0.27
+  fed:0.27
+  read:0.27
+  man:0.27
+  security:0.17
+  identify:0.14
+  heavy:0.14
+  markets:0.14
+
+Topic 2:
+  read:0.28
+  fed:0.28
+  man:0.28
+  fish:0.28
+  agora:0.27
+  pretty:0.27
+  security:0.17
+  truecrypt:0.14
+  mistakes:0.14
+  beginner:0.14
+
+Topic 3:
+  pretty:0.30
+  agora:0.30
+  read:0.26
+  fed:0.26
+  man:0.26
+  fish:0.26
+  security:0.18
+  tech:0.14
+  threads:0.14
+  detail:0.14
+
+Topic 4:
+  fish:0.30
+  man:0.30
+  fed:0.30
+  read:0.30
+  agora:0.26
+  pretty:0.26
+  security:0.17
+  happily:0.14
+  ill:0.14
+  lack:0.14
+
+K: 5, Log-Likelihood: -270.751, Alpha: 11.000, Beta: 1.100

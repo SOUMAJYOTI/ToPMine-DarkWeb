@@ -1,0 +1,61 @@
+Topic 0:
+  tails:6.95
+  bits:3.27
+  developers:3.17
+  good:3.16
+  solved:2.97
+  issue:2.96
+  dice:2.93
+  kernel:2.93
+  rdrand:2.91
+  entry:2.63
+
+Topic 1:
+  tails:3.33
+  random:3.15
+  entropy:3.06
+  clock:1.96
+  source:1.62
+  systems:1.50
+  fallback:1.26
+  hardware:1.18
+  seed:0.85
+  numbers:0.75
+
+Topic 2:
+  number:9.16
+  random:8.96
+  havege:7.93
+  unpredictable:6.07
+  volatile:5.44
+  hardware:5.23
+  generators:5.01
+  high:4.07
+  states:3.42
+  throughput:3.41
+
+Topic 3:
+  entropy:12.16
+  problem:9.89
+  keys:6.49
+  virtual:5.89
+  tails:5.83
+  system:4.93
+  tor:4.50
+  question:4.50
+  urandom:4.18
+  machines:3.89
+
+Topic 4:
+  random:6.05
+  tails:2.73
+  entropy:2.19
+  number:1.98
+  clock:1.79
+  hardware:1.53
+  havege:1.44
+  source:1.43
+  generator:1.21
+  systems:1.18
+
+K: 5, Log-Likelihood: -3811.814, Alpha: 11.000, Beta: 1.100

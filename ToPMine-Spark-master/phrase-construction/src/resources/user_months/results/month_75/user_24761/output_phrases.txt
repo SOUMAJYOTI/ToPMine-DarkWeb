@@ -1,0 +1,61 @@
+Topic 0:
+  sign message:0.83
+  march:0.80
+  message checking box someones:0.79
+  signed message:0.78
+  pick key paste newly:0.76
+  encrypt click drop message:0.76
+  pmin:0.61
+  encrypt steps encrypting:0.61
+  quote planetaryalignment:0.61
+  notice uncropt button sign:0.60
+
+Topic 1:
+  order:4.25
+  market:4.19
+  vendor:3.21
+  gspot:1.91
+  contactmember:1.90
+  shipping:1.90
+  purchased:1.90
+  support:1.90
+  check:1.90
+  nospace:1.89
+
+Topic 2:
+  encrypt click drop message:1.11
+  pick key paste newly:1.09
+  signed message:1.09
+  message checking box someones:1.08
+  quote planetaryalignment:1.02
+  tails highlight message encrypt:1.01
+  sign message:1.01
+  pmin:1.00
+  encrypt steps encrypting:0.99
+  notice uncropt button sign:0.97
+
+Topic 3:
+  eh:1.52
+  usai:1.50
+  canadian:1.50
+  trapped:1.47
+  prove:1.46
+  iam:1.10
+  digitaldong:1.10
+  freaking:1.10
+  cold:1.10
+  amim:1.10
+
+Topic 4:
+  somethingi:1.50
+  bit:1.50
+  talk:1.50
+  daysthe:1.50
+  thinking:1.50
+  coppers:1.50
+  shorts:1.50
+  drunk:1.50
+  tshirt:1.50
+  stoned:1.50
+
+K: 5, Log-Likelihood: -1023.342, Alpha: 11.000, Beta: 1.100

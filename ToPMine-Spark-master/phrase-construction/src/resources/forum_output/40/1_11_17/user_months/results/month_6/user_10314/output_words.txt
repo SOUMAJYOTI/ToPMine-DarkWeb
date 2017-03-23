@@ -1,0 +1,61 @@
+Topic 0:
+  free:1.07
+  vendor:0.78
+  ami:0.60
+  quote:0.59
+  vendors:0.59
+  open:0.57
+  offer:0.57
+  message:0.57
+  site:0.56
+  february:0.53
+
+Topic 1:
+  free:1.00
+  february:0.98
+  vendor:0.97
+  site:0.86
+  offer:0.84
+  open:0.83
+  message:0.83
+  ami:0.67
+  quote:0.67
+  dude:0.56
+
+Topic 2:
+  free:0.82
+  vendor:0.67
+  quote:0.65
+  ami:0.64
+  vendors:0.58
+  bmr:0.55
+  market:0.55
+  open:0.53
+  site:0.53
+  message:0.53
+
+Topic 3:
+  free:1.07
+  vendors:0.89
+  vendor:0.76
+  ami:0.50
+  quote:0.50
+  message:0.49
+  open:0.48
+  offer:0.48
+  site:0.47
+  february:0.43
+
+Topic 4:
+  free:1.04
+  vendor:0.82
+  quote:0.59
+  offer:0.59
+  ami:0.59
+  open:0.59
+  message:0.58
+  site:0.58
+  february:0.57
+  vendors:0.57
+
+K: 5, Log-Likelihood: -389.564, Alpha: 11.000, Beta: 1.100

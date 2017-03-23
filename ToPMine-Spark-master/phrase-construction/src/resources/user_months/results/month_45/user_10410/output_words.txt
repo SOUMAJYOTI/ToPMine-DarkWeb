@@ -1,0 +1,61 @@
+Topic 0:
+  data:6.37
+  government:4.00
+  info:3.91
+  nsa:2.91
+  key:2.91
+  heard:2.91
+  control:2.77
+  making:2.70
+  people:2.48
+  entire:2.30
+
+Topic 1:
+  collection:8.18
+  human:6.55
+  amazing:6.43
+  state:5.72
+  encroachment:5.41
+  everyday:5.40
+  affairs:5.38
+  spooks:5.38
+  lifetime:5.38
+  tool:5.38
+
+Topic 2:
+  june:4.22
+  quote:3.65
+  facebook:3.43
+  people:3.24
+  making:3.01
+  changing:2.05
+  implemented:2.01
+  surprised:1.96
+  times:1.95
+  onion:1.85
+
+Topic 3:
+  french:8.03
+  data:7.43
+  intelligence:7.33
+  surveillance:7.19
+  agency:4.51
+  system:3.52
+  phone:3.48
+  abroad:2.61
+  mass:2.59
+  services:2.57
+
+Topic 4:
+  data:7.72
+  law:2.20
+  human:1.29
+  globe:1.18
+  bill:1.17
+  canada:1.02
+  parliament:1.02
+  facebook:0.94
+  french:0.94
+  rights:0.89
+
+K: 5, Log-Likelihood: -4335.618, Alpha: 11.000, Beta: 1.100

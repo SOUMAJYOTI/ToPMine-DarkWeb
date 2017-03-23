@@ -1,0 +1,61 @@
+Topic 0:
+  coins:1.20
+  money:0.83
+  confirm:0.65
+  everytime:0.65
+  advice:0.64
+  throw:0.64
+  parts:0.63
+  remove:0.63
+  funds:0.63
+  fund:0.61
+
+Topic 1:
+  coins:1.64
+  dont:1.41
+  money:0.78
+  wallet:0.70
+  quote:0.62
+  january:0.62
+  lioneagle:0.61
+  told:0.58
+  complaining:0.58
+  problem:0.57
+
+Topic 2:
+  coins:1.67
+  money:0.75
+  fund:0.69
+  remove:0.68
+  confirm:0.67
+  everytime:0.67
+  funds:0.66
+  throw:0.66
+  advice:0.65
+  parts:0.65
+
+Topic 3:
+  coins:1.64
+  money:0.87
+  throw:0.65
+  advice:0.63
+  fund:0.63
+  parts:0.63
+  funds:0.62
+  remove:0.61
+  lioneagle:0.61
+  confirm:0.61
+
+Topic 4:
+  coins:1.84
+  dont:1.15
+  money:0.76
+  wallet:0.67
+  lioneagle:0.62
+  quote:0.61
+  january:0.60
+  parts:0.58
+  funds:0.57
+  confirm:0.56
+
+K: 5, Log-Likelihood: -416.876, Alpha: 11.000, Beta: 1.100

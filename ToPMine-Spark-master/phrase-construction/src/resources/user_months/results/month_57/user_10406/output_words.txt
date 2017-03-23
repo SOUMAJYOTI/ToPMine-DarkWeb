@@ -1,0 +1,61 @@
+Topic 0:
+  spit:13.85
+  september:11.07
+  llama:8.95
+  close:8.95
+  alpaca:7.95
+  mittens:7.48
+  alpacas:6.80
+  protection:6.18
+  small:5.95
+  basically:5.95
+
+Topic 1:
+  driver:8.93
+  win:7.98
+  september:7.39
+  dont:7.20
+  ram:5.95
+  stock:4.96
+  cooler:4.96
+  fine:4.94
+  pitbull:4.79
+  pmquote:4.75
+
+Topic 2:
+  write:6.88
+  august:6.83
+  settings:6.77
+  told:6.60
+  club:5.88
+  grateful:4.89
+  heh:4.80
+  quote:4.69
+  day:4.34
+  doesnt:3.76
+
+Topic 3:
+  microsoft:31.88
+  telemetry:19.99
+  data:14.55
+  windows:9.96
+  nsatc:6.99
+  os:6.18
+  servers:4.99
+  hosts:3.99
+  services:3.99
+  transmitted:3.99
+
+Topic 4:
+  animals:16.98
+  mafia:15.97
+  police:11.97
+  camorra:9.97
+  italy:7.97
+  owners:7.97
+  boa:6.97
+  exotic:5.97
+  intimidate:5.97
+  confiscated:5.97
+
+K: 5, Log-Likelihood: -10259.097, Alpha: 11.000, Beta: 1.100

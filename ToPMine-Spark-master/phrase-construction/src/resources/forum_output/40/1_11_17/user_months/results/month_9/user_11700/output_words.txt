@@ -1,0 +1,61 @@
+Topic 0:
+  coding:0.40
+  accepted:0.20
+  servers:0.20
+  secure:0.20
+  pleasant:0.20
+  css:0.20
+  forum:0.20
+  setting:0.20
+  user:0.20
+  anoncoin:0.20
+
+Topic 1:
+  coding:0.40
+  hold:0.20
+  graphics:0.20
+  payment:0.20
+  committed:0.20
+  proving:0.20
+  pleasant:0.20
+  user:0.20
+  setting:0.20
+  html:0.20
+
+Topic 2:
+  coding:0.40
+  decision:0.20
+  accepted:0.20
+  longer:0.20
+  options:0.20
+  servers:0.20
+  proving:0.20
+  design:0.20
+  add:0.20
+  experience:0.20
+
+Topic 3:
+  coding:0.40
+  delays:0.20
+  forum:0.20
+  committed:0.20
+  secure:0.20
+  decision:0.20
+  user:0.20
+  hold:0.20
+  servers:0.20
+  options:0.20
+
+Topic 4:
+  coding:0.40
+  speak:0.20
+  longer:0.20
+  delays:0.20
+  design:0.20
+  update:0.20
+  graphics:0.20
+  start:0.20
+  payment:0.20
+  experience:0.20
+
+K: 5, Log-Likelihood: -87.631, Alpha: 11.000, Beta: 1.100

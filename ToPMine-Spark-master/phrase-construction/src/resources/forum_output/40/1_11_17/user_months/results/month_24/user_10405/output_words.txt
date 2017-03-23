@@ -1,0 +1,61 @@
+Topic 0:
+  catch:0.40
+  vulnerability:0.40
+  running:0.40
+  bash:0.40
+  bug:0.40
+  server:0.40
+  vulnerable:0.40
+  ubuntu:0.39
+  design:0.39
+  pretty:0.20
+
+Topic 1:
+  catch:0.42
+  running:0.40
+  bug:0.40
+  bash:0.39
+  vulnerability:0.39
+  design:0.37
+  server:0.37
+  ubuntu:0.37
+  vulnerable:0.37
+  heartbleed:0.21
+
+Topic 2:
+  server:0.44
+  vulnerable:0.44
+  ubuntu:0.44
+  design:0.43
+  vulnerability:0.41
+  bash:0.41
+  bug:0.40
+  running:0.40
+  catch:0.38
+  linux:0.21
+
+Topic 3:
+  design:0.43
+  ubuntu:0.42
+  vulnerable:0.42
+  server:0.42
+  bug:0.40
+  bash:0.40
+  vulnerability:0.40
+  running:0.40
+  catch:0.38
+  disregard:0.21
+
+Topic 4:
+  catch:0.42
+  running:0.40
+  vulnerability:0.40
+  bash:0.40
+  bug:0.40
+  ubuntu:0.38
+  design:0.38
+  server:0.38
+  vulnerable:0.37
+  fella:0.21
+
+K: 5, Log-Likelihood: -228.287, Alpha: 11.000, Beta: 1.100

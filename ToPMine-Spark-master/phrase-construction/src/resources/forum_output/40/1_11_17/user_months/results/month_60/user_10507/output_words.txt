@@ -1,0 +1,61 @@
+Topic 0:
+  windows:2.19
+  truecrypt:1.78
+  security:1.70
+  declared:0.94
+  unsafe:0.93
+  system:0.87
+  free:0.75
+  software:0.65
+  sqrl:0.57
+  quote:0.53
+
+Topic 1:
+  users:3.06
+  system:2.22
+  linux:2.20
+  flaw:2.07
+  encryption:2.06
+  pc:1.92
+  avoid:1.92
+  darknet:1.92
+  operating:1.92
+  running:1.92
+
+Topic 2:
+  truecrypt:16.44
+  program:6.89
+  code:6.89
+  flaws:5.89
+  security:5.69
+  windows:5.21
+  veracrypt:4.01
+  project:3.89
+  bugs:3.89
+  system:3.75
+
+Topic 3:
+  item:2.90
+  create:1.90
+  work:1.90
+  desktop:1.90
+  stego:1.90
+  passwords:1.71
+  info:1.41
+  gibson:1.30
+  sqrl:1.18
+  problem:0.95
+
+Topic 4:
+  september:5.75
+  infected:4.86
+  windows:4.20
+  box:3.86
+  zaphod:3.69
+  security:3.38
+  oppailover:2.59
+  quote:2.56
+  passwords:1.94
+  news:1.90
+
+K: 5, Log-Likelihood: -2779.990, Alpha: 11.000, Beta: 1.100

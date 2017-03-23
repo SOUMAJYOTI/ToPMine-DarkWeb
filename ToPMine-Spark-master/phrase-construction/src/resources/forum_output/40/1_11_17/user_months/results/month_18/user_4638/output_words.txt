@@ -1,0 +1,16 @@
+Topic 0:
+  defunct:0.20
+
+Topic 1:
+  defunct:0.20
+
+Topic 2:
+  defunct:0.20
+
+Topic 3:
+  defunct:0.20
+
+Topic 4:
+  defunct:0.20
+
+K: 5, Log-Likelihood: -0.000, Alpha: 11.000, Beta: 1.100

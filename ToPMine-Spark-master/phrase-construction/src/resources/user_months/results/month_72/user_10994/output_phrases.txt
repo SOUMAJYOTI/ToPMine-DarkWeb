@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.42
+  forum:0.41
+  marketplace:0.28
+  vendor:0.28
+  check:0.28
+  loving:0.14
+  referred:0.14
+  plate:0.14
+  invite:0.14
+  url:0.14
+
+Topic 1:
+  market:0.42
+  forum:0.42
+  marketplace:0.28
+  check:0.28
+  vendor:0.28
+  buyers:0.14
+  speaking:0.14
+  banned:0.14
+  vet:0.14
+  league:0.14
+
+Topic 2:
+  forum:0.42
+  market:0.41
+  check:0.28
+  vendor:0.28
+  marketplace:0.28
+  la:0.14
+  cocaine:0.14
+  people:0.14
+  damage:0.14
+  time:0.14
+
+Topic 3:
+  forum:0.42
+  market:0.41
+  marketplace:0.28
+  vendor:0.28
+  check:0.28
+  cocaine:0.14
+  moderator:0.14
+  time:0.14
+  starting:0.14
+  dn:0.14
+
+Topic 4:
+  market:0.42
+  forum:0.42
+  check:0.28
+  vendor:0.28
+  marketplace:0.28
+  plate:0.14
+  weve:0.14
+  invite:0.14
+  loving:0.14
+  referred:0.14
+
+K: 5, Log-Likelihood: -111.377, Alpha: 11.000, Beta: 1.100

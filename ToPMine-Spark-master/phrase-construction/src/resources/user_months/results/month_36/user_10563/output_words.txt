@@ -1,0 +1,61 @@
+Topic 0:
+  lies:1.00
+  nsa:0.93
+  news:0.90
+  read:0.58
+  quote:0.58
+  leaks:0.54
+  investigation:0.54
+  dishonest:0.53
+  links:0.53
+  consequential:0.53
+
+Topic 1:
+  bad:2.85
+  data:2.78
+  blocks:1.85
+  nand:1.85
+  suds:1.85
+  block:1.85
+  storage:1.85
+  erase:1.28
+  secure:1.28
+  fde:1.22
+
+Topic 2:
+  wipe:1.85
+  ssd:1.76
+  trim:1.06
+  dd:0.92
+  grimforecast:0.85
+  data:0.59
+  news:0.52
+  program:0.48
+  individual:0.48
+  hdds:0.48
+
+Topic 3:
+  news:0.84
+  lies:0.78
+  nsa:0.75
+  read:0.52
+  ssd:0.51
+  wipe:0.50
+  quote:0.45
+  bits:0.45
+  embarrassing:0.45
+  leaks:0.45
+
+Topic 4:
+  lies:1.94
+  nsa:0.96
+  anonymous:0.84
+  read:0.83
+  story:0.83
+  agency:0.83
+  leak:0.82
+  click:0.82
+  tid:0.82
+  believed:0.82
+
+K: 5, Log-Likelihood: -1002.204, Alpha: 11.000, Beta: 1.100

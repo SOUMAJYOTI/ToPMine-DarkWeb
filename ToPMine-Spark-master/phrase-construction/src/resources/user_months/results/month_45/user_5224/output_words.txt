@@ -1,0 +1,61 @@
+Topic 0:
+  agora:7.57
+  deposit:3.95
+  wallet:2.68
+  deposits:1.34
+  issue:1.31
+  address:1.29
+  worried:1.20
+  check:0.98
+  problem:0.96
+  time:0.94
+
+Topic 1:
+  deposit:6.64
+  blockchain:5.44
+  confirmations:3.53
+  agora:3.46
+  transaction:2.44
+  check:2.13
+  address:2.10
+  withdrawn:2.02
+  earth:2.02
+  middle:2.00
+
+Topic 2:
+  agora:3.84
+  time:2.61
+  find:2.37
+  deposits:1.64
+  biggest:1.49
+  address:1.48
+  wallet:1.47
+  issue:1.20
+  fixed:1.16
+  happened:1.12
+
+Topic 3:
+  agora:5.65
+  worried:2.15
+  slow:1.88
+  deposits:1.85
+  test:1.64
+  stress:1.63
+  wallet:1.62
+  issue:1.44
+  time:1.41
+  deposit:1.30
+
+Topic 4:
+  agora:4.47
+  deposits:1.95
+  time:1.87
+  wallet:1.79
+  worried:1.58
+  issue:1.25
+  biggest:1.19
+  stress:1.17
+  test:1.11
+  slow:1.10
+
+K: 5, Log-Likelihood: -1844.912, Alpha: 11.000, Beta: 1.100

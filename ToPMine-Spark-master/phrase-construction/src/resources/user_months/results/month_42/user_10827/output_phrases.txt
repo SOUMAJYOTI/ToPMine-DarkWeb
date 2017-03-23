@@ -1,0 +1,61 @@
+Topic 0:
+  mdma labtested purity:0.65
+  fe mdma labtested purity:0.59
+  maxhavelaar:0.42
+  fe citrus haze:0.34
+  indoor coffeeshop quality aaa:0.34
+  store:0.31
+  strains:0.31
+  asa:0.31
+  citrus haze coffeeshop quality:0.31
+  feedbacks:0.24
+
+Topic 1:
+  mdma labtested purity:1.39
+  fe mdma labtested purity:1.15
+  maxhavelaar:0.74
+  fe citrus haze:0.53
+  indoor coffeeshop quality aaa:0.35
+  positive:0.33
+  feedbacks:0.33
+  citrus haze fe:0.33
+  larger:0.33
+  france spain:0.25
+
+Topic 2:
+  mdma labtested purity:1.38
+  fe mdma labtested purity:1.11
+  maxhavelaar:0.68
+  fe citrus haze:0.51
+  indoor coffeeshop quality aaa:0.36
+  larger:0.33
+  citrus haze fe:0.33
+  positive:0.33
+  feedbacks:0.33
+  review thread:0.25
+
+Topic 3:
+  mdma labtested purity:0.61
+  fe mdma labtested purity:0.55
+  maxhavelaar:0.39
+  store:0.34
+  indoor coffeeshop quality aaa:0.33
+  fe citrus haze:0.32
+  citrus haze coffeeshop quality:0.31
+  strains:0.31
+  asa:0.31
+  feedbacks:0.23
+
+Topic 4:
+  mdma labtested purity:0.82
+  fe mdma labtested purity:0.75
+  maxhavelaar:0.54
+  fe citrus haze:0.39
+  indoor coffeeshop quality aaa:0.35
+  asa:0.28
+  strains:0.28
+  citrus haze coffeeshop quality:0.28
+  store:0.28
+  larger:0.27
+
+K: 5, Log-Likelihood: -281.263, Alpha: 11.000, Beta: 1.100

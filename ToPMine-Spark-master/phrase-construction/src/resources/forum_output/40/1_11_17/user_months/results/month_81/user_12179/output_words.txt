@@ -1,0 +1,61 @@
+Topic 0:
+  tails:7.40
+  lurks:5.98
+  inferior:5.14
+  manage:4.17
+  signatures:3.82
+  bag:3.08
+  holding:3.05
+  zaphod:2.90
+  luks:2.82
+  truecrypt:2.21
+
+Topic 1:
+  truecrypt:5.89
+  tails:1.86
+  signatures:1.25
+  longer:1.23
+  key:1.21
+  support:0.91
+  container:0.90
+  inside:0.89
+  reason:0.86
+  veracrypt:0.78
+
+Topic 2:
+  truecrypt:6.82
+  sha:4.29
+  key:4.07
+  fork:3.09
+  equivalent:3.07
+  developers:2.51
+  longer:2.47
+  question:2.38
+  tails:2.38
+  trucrypt:1.69
+
+Topic 3:
+  aes:11.90
+  truecrypt:6.07
+  container:5.35
+  serpent:4.90
+  wolfish:4.90
+  mounted:4.90
+  lurks:4.52
+  luks:4.18
+  files:2.99
+  bits:2.91
+
+Topic 4:
+  truecrypt:8.01
+  tails:2.09
+  container:1.68
+  signatures:1.39
+  inside:1.22
+  veracrypt:0.92
+  point:0.91
+  lurks:0.79
+  longer:0.72
+  support:0.70
+
+K: 5, Log-Likelihood: -3139.048, Alpha: 11.000, Beta: 1.100

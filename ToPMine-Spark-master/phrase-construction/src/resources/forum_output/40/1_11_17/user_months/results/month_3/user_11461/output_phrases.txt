@@ -1,0 +1,61 @@
+Topic 0:
+  stupid:0.39
+  buy:0.39
+  deal:0.35
+  scammed:0.35
+  coins:0.31
+  beware:0.30
+  forums:0.21
+  people:0.21
+  silkroad:0.21
+  feel:0.19
+
+Topic 1:
+  scammed:0.38
+  buy:0.36
+  stupid:0.36
+  deal:0.36
+  beware:0.31
+  coins:0.30
+  silkroad:0.21
+  forums:0.21
+  people:0.21
+  scammer:0.19
+
+Topic 2:
+  deal:0.37
+  buy:0.37
+  stupid:0.37
+  scammed:0.36
+  coins:0.31
+  beware:0.30
+  silkroad:0.20
+  forums:0.20
+  people:0.20
+  localbitcoins:0.18
+
+Topic 3:
+  deal:0.39
+  scammed:0.39
+  stupid:0.33
+  buy:0.33
+  coins:0.31
+  beware:0.31
+  people:0.20
+  forums:0.20
+  silkroad:0.20
+  china:0.19
+
+Topic 4:
+  buy:0.38
+  stupid:0.38
+  deal:0.36
+  scammed:0.35
+  coins:0.31
+  beware:0.30
+  people:0.20
+  silkroad:0.20
+  forums:0.20
+  central:0.19
+
+K: 5, Log-Likelihood: -202.867, Alpha: 11.000, Beta: 1.100

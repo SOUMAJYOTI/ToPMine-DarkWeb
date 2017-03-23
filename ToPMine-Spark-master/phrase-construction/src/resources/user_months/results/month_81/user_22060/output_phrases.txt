@@ -1,0 +1,61 @@
+Topic 0:
+  gpg:37.13
+  unknown zaphod king universe:33.42
+  key:33.37
+  key expires:29.71
+  pub created expires usage:25.99
+  encryption key:25.69
+  quote:19.49
+  af created expires usage:18.57
+  zaphod:16.46
+  private key:13.24
+
+Topic 1:
+  law enforcement:29.76
+  viber:19.81
+  air:15.08
+  mod status:15.06
+  time:14.78
+  phones:13.23
+  pgp encryption:13.22
+  low risk issues:13.20
+  risk issues:13.20
+  apr air:13.20
+
+Topic 2:
+  love:25.99
+  dark web:17.40
+  national crime agency:14.85
+  encryption gimmick:13.22
+  encryption keys:11.33
+  regulation investigator powers:11.14
+  drug dealers:11.14
+  making sloppy:11.14
+  devices:10.96
+  site:10.42
+
+Topic 3:
+  chain key:55.70
+  subgraph:44.15
+  message key:33.42
+  recipient:33.42
+  whatsapp encryption overviewapri:29.71
+  master secret:25.99
+  security:23.57
+  group:22.28
+  keys:21.78
+  whatsapp:18.56
+
+Topic 4:
+  couple minutes:14.95
+  rz:14.85
+  zhtol:14.85
+  dark web:12.37
+  marvel tavor:11.09
+  hidden services:10.69
+  site:9.42
+  risk issues medium risk:8.99
+  onionscan ma lisqktqdlg onion:8.99
+  anonymous identities encode images:8.99
+
+K: 5, Log-Likelihood: -123920.808, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  lil:0.14
+  ll:0.14
+  tripped:0.14
+  ostensibly:0.14
+  currentedit:0.14
+  forum:0.14
+  vendors:0.14
+  noticed:0.14
+  offer:0.14
+  active:0.14
+
+Topic 1:
+  offer:0.14
+  active:0.14
+  currentedit:0.14
+  forum:0.14
+  expired:0.14
+  ostensibly:0.14
+  vendors:0.14
+  tripped:0.14
+  lil:0.14
+  ll:0.14
+
+Topic 2:
+  ll:0.14
+  tripped:0.14
+  noticed:0.14
+  lil:0.14
+  active:0.14
+  vendors:0.14
+  forum:0.14
+  offer:0.14
+  expired:0.14
+  currentedit:0.14
+
+Topic 3:
+  expired:0.14
+  ostensibly:0.14
+  currentedit:0.14
+  vendors:0.14
+  forum:0.14
+  offer:0.14
+  active:0.14
+  noticed:0.14
+  lil:0.14
+  ll:0.14
+
+Topic 4:
+  noticed:0.14
+  lil:0.14
+  tripped:0.14
+  expired:0.14
+  ostensibly:0.14
+  forum:0.14
+  currentedit:0.14
+  ll:0.14
+  vendors:0.14
+  offer:0.14
+
+K: 5, Log-Likelihood: -18.568, Alpha: 11.000, Beta: 1.100

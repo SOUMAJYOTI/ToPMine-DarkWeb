@@ -1,0 +1,61 @@
+Topic 0:
+  local:2.04
+  fees:2.04
+  animal:2.04
+  careful:2.03
+  liberty:2.03
+  bought:2.03
+  buy:2.03
+  man:2.03
+  pretty:2.03
+  verification:2.03
+
+Topic 1:
+  dont:2.22
+  don:1.50
+  sad:1.34
+  holes:1.32
+  yeah scam:1.31
+  sux:1.31
+  offering btc moneypaks:1.30
+  eachother:1.30
+  figured big deal:1.30
+  service:1.30
+
+Topic 2:
+  reports:0.94
+  sophisticated:0.93
+  vulnerable:0.93
+  hub:0.93
+  mobile:0.93
+  type:0.93
+  heads:0.93
+  users:0.93
+  wtf:0.64
+  hitting:0.63
+
+Topic 3:
+  don:1.42
+  dont:1.11
+  great feedback pro trader:1.05
+  scammed localbtc trader:1.04
+  answer phone:1.03
+  great feedback phone talked:1.03
+  phone text moneypak heard:1.01
+  call reported fraud localbtc:1.01
+  scam:0.97
+  sucking:0.89
+
+Topic 4:
+  fees figured big deal:1.58
+  btc moneypaks nice history:1.58
+  scammers:1.38
+  yeah heard:1.37
+  blew:1.36
+  god:1.36
+  hard:1.35
+  money:1.35
+  christmas:1.34
+  hitting:1.33
+
+K: 5, Log-Likelihood: -1070.699, Alpha: 11.000, Beta: 1.100

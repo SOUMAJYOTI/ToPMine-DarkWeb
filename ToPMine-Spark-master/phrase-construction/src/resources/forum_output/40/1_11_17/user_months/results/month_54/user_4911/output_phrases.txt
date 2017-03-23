@@ -1,0 +1,61 @@
+Topic 0:
+  sample:0.99
+  gc ms:0.41
+  send samples:0.41
+  spain:0.41
+  contact ec:0.41
+  paypal bank transfer:0.41
+  ms:0.40
+  required:0.40
+  blotters:0.40
+  send process:0.21
+
+Topic 1:
+  sample:1.03
+  blotters:0.41
+  paypal bank transfer:0.41
+  required:0.41
+  send samples:0.41
+  spain:0.41
+  gc ms:0.41
+  ms:0.41
+  contact ec:0.40
+  advice:0.21
+
+Topic 2:
+  sample:0.96
+  required:0.41
+  contact ec:0.41
+  send samples:0.41
+  paypal bank transfer:0.41
+  spain:0.40
+  ms:0.40
+  blotters:0.40
+  gc ms:0.40
+  data:0.21
+
+Topic 3:
+  sample:1.08
+  blotters:0.41
+  ms:0.41
+  paypal bank transfer:0.41
+  gc ms:0.41
+  contact ec:0.41
+  required:0.41
+  send samples:0.41
+  spain:0.41
+  case:0.21
+
+Topic 4:
+  sample:1.06
+  spain:0.42
+  contact ec:0.41
+  ms:0.41
+  send samples:0.41
+  blotters:0.41
+  gc ms:0.41
+  required:0.41
+  paypal bank transfer:0.41
+  international:0.21
+
+K: 5, Log-Likelihood: -704.055, Alpha: 11.000, Beta: 1.100

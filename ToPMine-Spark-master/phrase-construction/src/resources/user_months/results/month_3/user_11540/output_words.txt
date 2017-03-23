@@ -1,0 +1,61 @@
+Topic 0:
+  safe:0.40
+  purchase:0.40
+  mail:0.40
+  ccseller:0.40
+  dudes:0.20
+  scam:0.20
+  february:0.20
+  hosting:0.20
+  quote:0.20
+  pmdo:0.20
+
+Topic 1:
+  purchase:0.40
+  ccseller:0.40
+  mail:0.40
+  safe:0.40
+  forum:0.20
+  netdid:0.20
+  hosting:0.20
+  dudes:0.20
+  february:0.20
+  scam:0.20
+
+Topic 2:
+  safe:0.40
+  mail:0.40
+  ccseller:0.40
+  purchase:0.40
+  net:0.20
+  quote:0.20
+  netdid:0.20
+  forum:0.20
+  february:0.20
+  dudes:0.20
+
+Topic 3:
+  ccseller:0.40
+  safe:0.40
+  purchase:0.40
+  mail:0.40
+  pmdo:0.20
+  february:0.20
+  forum:0.20
+  scam:0.20
+  quote:0.20
+  hosting:0.20
+
+Topic 4:
+  ccseller:0.40
+  mail:0.40
+  purchase:0.40
+  safe:0.40
+  quote:0.20
+  pmdo:0.20
+  hosting:0.20
+  scam:0.20
+  netdid:0.20
+  february:0.20
+
+K: 5, Log-Likelihood: -42.689, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,111 @@
+keys time,0,2
+temporary,1,2
+aquire,2,2
+time sensitive,3,2
+temp key,4,2
+program,5,2
+hope,6,2
+losing,7,2
+properly,8,4
+copy send,9,2
+text,10,2
+limitations,11,2
+app,12,2
+comm,13,2
+encrusted,14,2
+work,15,2
+sensitive,16,4
+version,17,2
+processor,18,2
+private key,19,4
+send dont,20,1
+temp keys,21,2
+compose,22,2
+appreciated,23,2
+comfortable,24,2
+recipients,25,2
+jungle,26,2
+greatly,27,2
+irretrievable,28,2
+word,29,2
+gggreenbud,30,1
+strong,31,2
+don,32,2
+access,33,2
+works,34,2
+public key,35,4
+protection,36,2
+computer,37,2
+encryption,38,2
+vendor,39,2
+encrypt,40,2
+pgp,41,4
+share,42,2
+copy,43,4
+close,44,2
+key,45,10
+editor,46,2
+started,47,2
+familiar,48,2
+great,49,1
+wrong,50,2
+hadn,51,1
+hadnt,52,1
+decrypt,53,2
+thing,54,2
+data,55,2
+replys,56,1
+afterward,57,2
+feel,58,2
+simple,59,2
+darknet,60,2
+good,61,1
+reference,62,2
+download,63,2
+post,64,1
+implemented,65,2
+things,66,2
+vendors,67,2
+info,68,2
+read,69,2
+cryptography,70,2
+basin,71,2
+forget,72,2
+success,73,2
+purposes,74,2
+daypaul,75,1
+passphrase,76,4
+helps,77,2
+send,78,4
+dont,79,4
+dave,80,3
+private,81,4
+memory,82,2
+keys,83,4
+key sensitive,84,2
+key passphrase,85,2
+media,86,2
+paste,87,2
+point,88,2
+wolves,89,2
+aware,90,2
+elapsed,91,2
+public,92,4
+trouble,93,2
+responded,94,2
+figure,95,2
+amount,96,2
+temp,97,4
+os,98,1
+clear,99,2
+message,100,2
+command,101,2
+drew,102,1
+worthless,103,2
+encrypted,104,2
+tutorials,105,2
+nowthanks,106,1
+time time,107,2
+time,108,6
+respond,109,2
+passphrase dont,110,1

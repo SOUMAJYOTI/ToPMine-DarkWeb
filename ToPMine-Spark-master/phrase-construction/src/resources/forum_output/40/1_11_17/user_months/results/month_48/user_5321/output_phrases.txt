@@ -1,0 +1,61 @@
+Topic 0:
+  key:0.89
+  public:0.60
+  pgp:0.60
+  block:0.60
+  wxvwwe:0.29
+  pybitsqfth:0.29
+  bifgjdqzntdipqaayzmjuze:0.29
+  cvfgsgzjy:0.29
+  eaelei:0.29
+  satdgoxi:0.29
+
+Topic 1:
+  dmt:2.04
+  sell:2.04
+  changa:2.04
+  focused:0.95
+  sheep:0.95
+  nucleus:0.95
+  psilocybin:0.95
+  link:0.95
+  mach:0.95
+  reviews:0.95
+
+Topic 2:
+  tullista:0.71
+  pi:0.71
+  suomen:0.70
+  answer:0.61
+  foxtrotone:0.61
+  quote:0.61
+  tumult:0.61
+  times:0.61
+  amonko:0.61
+  understand:0.61
+
+Topic 3:
+  key:1.09
+  pgp:0.68
+  public:0.68
+  block:0.67
+  ta:0.32
+  tpf:0.32
+  wbw:0.32
+  txoijyluidndlcoof:0.32
+  opmyspkjrhbcgcw:0.32
+  box:0.32
+
+Topic 4:
+  key:1.02
+  block:0.69
+  public:0.67
+  pgp:0.67
+  mumebct:0.32
+  agra:0.32
+  atuzpo:0.32
+  lj:0.32
+  tmizps:0.32
+  hyb:0.32
+
+K: 5, Log-Likelihood: -879.162, Alpha: 11.000, Beta: 1.100

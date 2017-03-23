@@ -1,0 +1,61 @@
+Topic 0:
+  info:0.73
+  intersting:0.73
+  sounds:0.73
+  share:0.72
+  guys:0.70
+  solve issue:0.55
+  question purchase item vendor:0.54
+  account:0.54
+  wonderful:0.53
+  po:0.52
+
+Topic 1:
+  thing:0.89
+  dont transfer bitcoins account:0.51
+  tmg couldn find sr:0.50
+  quote protectedone:0.49
+  note:0.48
+  trustworthy:0.48
+  thanxthe:0.48
+  front:0.47
+  early:0.47
+  account question purchase item:0.47
+
+Topic 2:
+  thing:1.58
+  amount:0.68
+  transfer:0.68
+  equivalent:0.68
+  exact:0.68
+  realize:0.67
+  cloud:0.67
+  finale:0.67
+  market:0.67
+  test:0.67
+
+Topic 3:
+  thing:0.88
+  tmg couldn find sr:0.51
+  dont transfer bitcoins account:0.50
+  quote protectedone:0.49
+  product:0.48
+  trustworthy:0.47
+  based:0.47
+  note:0.47
+  worth:0.47
+  proved:0.47
+
+Topic 4:
+  guys:0.69
+  share:0.67
+  sounds:0.67
+  info:0.67
+  intersting:0.66
+  po:0.53
+  site:0.53
+  wonderful:0.53
+  account:0.52
+  thing:0.52
+
+K: 5, Log-Likelihood: -631.482, Alpha: 11.000, Beta: 1.100

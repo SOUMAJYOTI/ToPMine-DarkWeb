@@ -1,0 +1,61 @@
+Topic 0:
+  market:3.57
+  agora:3.57
+  bsm:3.18
+  picking:1.70
+  inevitable:1.70
+  slowly:1.70
+  pandora:1.70
+  death:1.70
+  volume:1.70
+  secondary:1.70
+
+Topic 1:
+  respond:3.65
+  messages:3.65
+  delete:3.65
+  answer:2.12
+  dont:1.97
+  worry:1.97
+  fact:1.78
+  response:1.78
+  months:1.78
+  feature:1.78
+
+Topic 2:
+  support:2.44
+  quote:2.43
+  dissappeared:2.39
+  ticket:2.38
+  business:2.37
+  months months:1.63
+  april:1.63
+  month:1.63
+  sales:1.63
+  lright:1.63
+
+Topic 3:
+  good:2.28
+  smooth:1.74
+  weight:1.74
+  ride:1.74
+  ls:1.74
+  spot:1.74
+  clean:1.74
+  day:1.74
+  packages:1.74
+  decent:1.74
+
+Topic 4:
+  sr:5.21
+  thread:3.63
+  tor:3.63
+  profile:1.76
+  sells:1.76
+  based:1.76
+  small:1.76
+  uk:1.76
+  atlantis:1.76
+  vended:1.76
+
+K: 5, Log-Likelihood: -1128.914, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  sign message:1.12
+  pick key paste newly:1.08
+  signed message:1.05
+  encrypt click drop message:1.04
+  message checking box someones:1.04
+  canadian:1.01
+  prove:0.99
+  eh:0.99
+  usai:0.98
+  trapped:0.98
+
+Topic 1:
+  bit:1.35
+  tshirt:1.35
+  stoned:1.35
+  thinking:1.35
+  called:1.35
+  coppers:1.35
+  daysthe:1.35
+  colder:1.35
+  cops:1.35
+  drunk:1.34
+
+Topic 2:
+  market:2.90
+  order:2.73
+  vendor:2.20
+  grams grams:1.36
+  support:1.34
+  onion:1.33
+  grams:1.33
+  sign:1.33
+  scale:1.32
+  dream:1.32
+
+Topic 3:
+  order:1.69
+  market:1.50
+  vendor:1.10
+  shipping:0.79
+  ram:0.79
+  ld:0.79
+  nospace:0.79
+  cocaine:0.79
+  website:0.79
+  enjoy:0.78
+
+Topic 4:
+  message checking box someones:1.38
+  signed message:1.37
+  encrypt click drop message:1.36
+  sign message:1.34
+  pick key paste newly:1.33
+  encrypt steps encrypting:1.15
+  notice uncropt button sign:1.14
+  pmin:1.13
+  quote planetaryalignment:1.11
+  tails highlight message encrypt:1.09
+
+K: 5, Log-Likelihood: -1037.912, Alpha: 11.000, Beta: 1.100

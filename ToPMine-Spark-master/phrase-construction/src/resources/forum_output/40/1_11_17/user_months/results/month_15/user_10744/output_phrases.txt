@@ -1,0 +1,61 @@
+Topic 0:
+  cash:0.43
+  buying:0.40
+  btc:0.28
+  bank:0.28
+  safe:0.27
+  coins:0.27
+  options:0.14
+  record:0.14
+  paper:0.14
+  trade:0.14
+
+Topic 1:
+  buying:0.46
+  cash:0.39
+  safe:0.29
+  coins:0.29
+  btc:0.27
+  bank:0.27
+  tumble:0.14
+  vending:0.14
+  good:0.14
+  reason:0.14
+
+Topic 2:
+  cash:0.44
+  buying:0.40
+  btc:0.29
+  bank:0.29
+  coins:0.27
+  safe:0.27
+  drop:0.14
+  deposit:0.14
+  surname:0.14
+  video:0.14
+
+Topic 3:
+  buying:0.41
+  cash:0.40
+  coins:0.28
+  safe:0.28
+  bank:0.27
+  btc:0.27
+  completely:0.14
+  read:0.14
+  tor:0.14
+  stuff:0.14
+
+Topic 4:
+  cash:0.41
+  buying:0.41
+  bank:0.28
+  btc:0.28
+  safe:0.28
+  coins:0.28
+  advance:0.14
+  security:0.14
+  method:0.14
+  wallet:0.14
+
+K: 5, Log-Likelihood: -198.494, Alpha: 11.000, Beta: 1.100

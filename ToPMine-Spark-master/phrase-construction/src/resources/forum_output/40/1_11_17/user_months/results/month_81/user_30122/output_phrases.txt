@@ -1,0 +1,61 @@
+Topic 0:
+  offer:0.33
+  shipping:0.32
+  intro offer:0.24
+  special:0.16
+  ketamine:0.16
+  good:0.16
+  service products:0.16
+  team:0.16
+  pure:0.16
+  people:0.16
+
+Topic 1:
+  shipping:0.32
+  offer:0.32
+  intro offer:0.24
+  customers:0.16
+  team:0.16
+  service products:0.16
+  special:0.16
+  people:0.16
+  ketamine:0.16
+  good:0.16
+
+Topic 2:
+  shipping:0.33
+  offer:0.32
+  intro offer:0.24
+  people:0.16
+  service products:0.16
+  team:0.16
+  good:0.16
+  pure:0.16
+  special:0.16
+  ketamine:0.16
+
+Topic 3:
+  shipping:0.32
+  offer:0.32
+  intro offer:0.24
+  customers:0.16
+  people:0.16
+  good:0.16
+  special:0.16
+  ketamine:0.16
+  pure:0.16
+  service products:0.16
+
+Topic 4:
+  offer:0.32
+  shipping:0.32
+  intro offer:0.24
+  customers:0.16
+  pure:0.16
+  team:0.16
+  service products:0.16
+  ketamine:0.16
+  good:0.16
+  people:0.16
+
+K: 5, Log-Likelihood: -190.849, Alpha: 11.000, Beta: 1.100

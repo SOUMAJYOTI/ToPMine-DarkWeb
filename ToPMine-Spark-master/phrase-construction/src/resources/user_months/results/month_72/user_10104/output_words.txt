@@ -1,0 +1,61 @@
+Topic 0:
+  contact:0.40
+  thread:0.40
+  direct:0.20
+  area:0.20
+  info:0.20
+  vendors:0.20
+  link:0.20
+  active:0.20
+  cults:0.20
+  share:0.20
+
+Topic 1:
+  contact:0.40
+  thread:0.39
+  couple:0.20
+  reply:0.20
+  alright:0.20
+  cult:0.20
+  days:0.20
+  emails:0.20
+  announcement:0.20
+  clear:0.20
+
+Topic 2:
+  thread:0.40
+  contact:0.40
+  info:0.20
+  link:0.20
+  area:0.20
+  active:0.20
+  vendors:0.20
+  direct:0.20
+  clear:0.20
+  guys:0.20
+
+Topic 3:
+  thread:0.40
+  contact:0.40
+  link:0.20
+  vendors:0.20
+  area:0.20
+  active:0.20
+  direct:0.20
+  info:0.20
+  dont:0.20
+  share:0.20
+
+Topic 4:
+  thread:0.40
+  contact:0.39
+  cult:0.20
+  days:0.20
+  reply:0.20
+  alright:0.20
+  couple:0.20
+  emails:0.20
+  announcement:0.20
+  questions:0.20
+
+K: 5, Log-Likelihood: -73.554, Alpha: 11.000, Beta: 1.100

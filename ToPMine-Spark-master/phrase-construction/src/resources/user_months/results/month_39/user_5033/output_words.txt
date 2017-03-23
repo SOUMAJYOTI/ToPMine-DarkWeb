@@ -1,0 +1,61 @@
+Topic 0:
+  evolution:8.09
+  reddit:7.51
+  evo:5.77
+  exit:4.62
+  comments:3.87
+  darknetmarkets:3.87
+  hxxp:3.87
+  credit:3.17
+  don:2.58
+  funds:2.09
+
+Topic 1:
+  thing:5.92
+  greeted:3.92
+  weed:3.92
+  order:3.92
+  money:3.20
+  situation:3.13
+  site:3.03
+  scam:2.92
+  nice:2.68
+  market:2.59
+
+Topic 2:
+  lost:5.16
+  people:4.27
+  scam:4.21
+  trust:3.61
+  situation:3.48
+  money:3.48
+  market:3.13
+  stealing:2.91
+  time:2.90
+  customers:2.83
+
+Topic 3:
+  vendors:4.88
+  damn:4.87
+  hope:3.80
+  trust:2.42
+  hackers:2.37
+  day:2.07
+  shame:1.99
+  times:1.81
+  sucks:1.72
+  bad:1.67
+
+Topic 4:
+  bv:15.55
+  people:9.40
+  posted:7.57
+  step:7.55
+  outcome:7.55
+  immoral:7.48
+  marketplace:7.06
+  time:6.65
+  market:5.97
+  love:5.63
+
+K: 5, Log-Likelihood: -5191.684, Alpha: 11.000, Beta: 1.100

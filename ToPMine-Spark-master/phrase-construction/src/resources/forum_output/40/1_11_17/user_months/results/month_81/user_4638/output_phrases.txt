@@ -1,0 +1,61 @@
+Topic 0:
+  good:0.75
+  site:0.73
+  post:0.71
+  security:0.65
+  market:0.65
+  backend:0.64
+  st:0.62
+  nothr:0.62
+  round:0.62
+  completion:0.62
+
+Topic 1:
+  honestly:1.09
+  scammers:1.09
+  guys:1.09
+  buyers:1.09
+  honest:1.09
+  scamming:1.09
+  escrow vendors:1.09
+  works:1.09
+  fuck:0.85
+  feature:0.85
+
+Topic 2:
+  silk road:1.08
+  good:1.02
+  site:0.90
+  markets:0.79
+  outlaw:0.74
+  order:0.66
+  based:0.65
+  software:0.64
+  platform:0.63
+  ended:0.63
+
+Topic 3:
+  outlaw:3.52
+  silk road:3.18
+  web:2.22
+  impressive:2.21
+  business:2.20
+  pretty:2.20
+  vendor:2.18
+  funds:2.18
+  dark:2.18
+  agora:2.18
+
+Topic 4:
+  agree:1.93
+  open:1.93
+  frameworks:1.93
+  party:1.93
+  source:1.93
+  totally:1.93
+  ground:1.93
+  market built:1.93
+  modules:1.93
+  market software:1.93
+
+K: 5, Log-Likelihood: -1802.030, Alpha: 11.000, Beta: 1.100

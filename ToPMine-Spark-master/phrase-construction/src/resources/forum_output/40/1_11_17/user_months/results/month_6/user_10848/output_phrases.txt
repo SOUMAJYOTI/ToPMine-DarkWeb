@@ -1,0 +1,61 @@
+Topic 0:
+  disc:8.02
+  work:6.37
+  simply:5.38
+  comp:5.31
+  command:4.58
+  managed:4.36
+  step:4.36
+  clue:4.35
+  burn iso file:4.35
+  breaking:4.35
+
+Topic 1:
+  tails:10.76
+  command needed add instructions:7.08
+  reading realize worked smoothly:7.08
+  restarted hit alt refind:7.08
+  great difficulty strings suds:7.08
+  quote:6.36
+  problems retina display stuff:5.98
+  evilgrin march pmyeah:5.98
+  super tiny hardwares age:5.98
+  website places didnt command:5.94
+
+Topic 2:
+  ill:9.15
+  bucks doesnt hurt:6.81
+  dvd drive:5.67
+  quote mirage february:4.80
+  relax:4.50
+  wait:4.49
+  people:4.49
+  ll faith:4.49
+  attack:4.49
+  pretty point advanced stuff:3.90
+
+Topic 3:
+  disk:14.09
+  gb disk:13.53
+  thumbdrive:10.82
+  disk type size identifier:10.82
+  desktop:8.11
+  disk apple:8.11
+  pipe viewer:8.11
+  partition scheme:8.11
+  mac:6.55
+  hope:5.40
+
+Topic 4:
+  dont:5.95
+  cd drive:5.39
+  mentioned:5.39
+  setting:4.36
+  usb work:4.29
+  itll:3.72
+  dvd:3.68
+  burning:3.67
+  key:3.52
+  iso file tailssigning key:2.97
+
+K: 5, Log-Likelihood: -9520.884, Alpha: 11.000, Beta: 1.100

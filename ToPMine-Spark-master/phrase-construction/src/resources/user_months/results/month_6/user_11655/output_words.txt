@@ -1,0 +1,61 @@
+Topic 0:
+  forum:0.59
+  time:0.42
+  shop:0.41
+  agora:0.41
+  running:0.40
+  great:0.37
+  agra:0.37
+  vendors:0.36
+  today:0.21
+  spammed:0.21
+
+Topic 1:
+  forum:0.60
+  running:0.41
+  agra:0.40
+  vendors:0.40
+  great:0.40
+  agora:0.40
+  time:0.38
+  shop:0.35
+  works:0.20
+  copasetic:0.20
+
+Topic 2:
+  forum:0.65
+  agra:0.47
+  great:0.47
+  vendors:0.47
+  running:0.42
+  agora:0.38
+  time:0.33
+  shop:0.30
+  ago:0.22
+  usual:0.22
+
+Topic 3:
+  forum:0.68
+  vendors:0.48
+  great:0.48
+  agra:0.48
+  running:0.41
+  agora:0.38
+  time:0.32
+  shop:0.29
+  strong:0.23
+  nowadays:0.23
+
+Topic 4:
+  shop:0.65
+  time:0.55
+  forum:0.48
+  agora:0.43
+  running:0.36
+  great:0.28
+  agra:0.28
+  vendors:0.28
+  opening:0.27
+  lot:0.27
+
+K: 5, Log-Likelihood: -348.255, Alpha: 11.000, Beta: 1.100

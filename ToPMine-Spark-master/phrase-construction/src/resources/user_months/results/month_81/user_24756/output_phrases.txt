@@ -1,0 +1,61 @@
+Topic 0:
+  security:2.18
+  total:2.17
+  sleep:0.96
+  shouldn:0.96
+  called:0.96
+  system:0.96
+  attacks:0.96
+  configured:0.96
+  evil:0.96
+  drive:0.96
+
+Topic 1:
+  fips:1.08
+  drives:1.02
+  aes:0.56
+  encrypted:0.50
+  harden:0.50
+  adding:0.50
+  online:0.50
+  sw:0.50
+  devices:0.50
+  backdoor:0.50
+
+Topic 2:
+  fips:1.09
+  drives:0.79
+  good:0.75
+  aes:0.60
+  anti:0.51
+  rest:0.51
+  approved:0.51
+  assured:0.51
+  sha:0.51
+  implements:0.51
+
+Topic 3:
+  sed:2.26
+  factory:2.26
+  data encryption key:2.26
+  certified:2.26
+  change:2.26
+  set:2.26
+  seds:1.44
+  top:1.03
+  key:1.03
+  commputing:1.03
+
+Topic 4:
+  good:1.14
+  erase:0.53
+  secure:0.53
+  fde:0.53
+  ata:0.53
+  rely:0.53
+  enhanced:0.53
+  rijndael:0.49
+  processor:0.49
+  hardware:0.49
+
+K: 5, Log-Likelihood: -659.214, Alpha: 11.000, Beta: 1.100

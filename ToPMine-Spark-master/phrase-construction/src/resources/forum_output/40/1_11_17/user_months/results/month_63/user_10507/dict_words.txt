@@ -1,0 +1,260 @@
+users switch,0,1
+intentional,1,1
+veracrypt,2,5
+cve flaw,3,1
+beasts,4,1
+plague,5,1
+professional,6,2
+patch,7,1
+introduced,8,1
+bitlocker,9,2
+quote,10,1
+finds,11,1
+complex,12,1
+released,13,2
+abusing,14,2
+addition,15,1
+based,16,1
+researcher flaws,17,1
+truecrypt,18,17
+remain,19,1
+backdoors,20,1
+patches,21,2
+engineers,22,1
+google,23,2
+require,24,1
+completed,25,1
+easy,26,1
+version,27,1
+subsidiary,28,1
+forshaw,29,3
+patched,30,1
+letter,31,2
+programs,32,1
+drive,33,2
+project veracrypt,34,1
+discovered,35,3
+saturday,36,1
+access,37,1
+independent,38,1
+audit truecrypt,39,2
+predecessor,40,1
+choosing,41,1
+posted,42,1
+bugs,43,4
+truecrypt driver,44,1
+cve,45,3
+partition,46,2
+encryption,47,4
+systems,48,1
+encrypt,49,2
+audit,50,3
+elevated,51,1
+underway,52,1
+actively,53,1
+operating,54,2
+free,55,1
+holes,56,1
+sep,57,1
+latest,58,1
+constantinidg,59,1
+windows switch,60,1
+analyzed,61,1
+team,62,1
+program code,63,1
+exploiting,64,1
+code windows,65,1
+partners,66,1
+bug,67,1
+spin,68,1
+days,69,1
+open,70,2
+privileges,71,2
+reports,72,1
+evidence,73,1
+vulnerabilities driver,74,1
+project,75,4
+remains,76,1
+encrypting,77,1
+source,78,3
+microsoft,79,2
+regularly,80,1
+flaws truecrypt,81,1
+discovered vulnerabilities,82,1
+funded,83,1
+continue,84,1
+won,85,1
+switch veracrypt,86,1
+basically,87,1
+warning,88,1
+details,89,1
+flaws forshaw,90,1
+pre,91,1
+remained,92,1
+cryptography,93,1
+remedy,94,1
+finding,95,1
+users,96,7
+security audit,97,1
+assurance,98,1
+longer,99,2
+exploited,100,2
+parts,101,1
+fixed,102,2
+discovered forshaw,103,1
+full,104,2
+installed,105,1
+unfixed,106,1
+impossible,107,1
+keysince,108,1
+effort,109,1
+capable,110,1
+system compromise,111,1
+truecrypt flaw,112,1
+program security,113,1
+offs,114,1
+intentionally,115,1
+linux,116,2
+company,117,1
+hard,118,2
+laptops,119,1
+news,120,1
+severity,121,1
+digital,122,1
+original project,123,1
+perform,124,1
+attacker,125,1
+windows,126,8
+advised,127,1
+truecrypt source,128,2
+lucian,129,1
+service,130,1
+paid,131,1
+vulnerabilities,132,4
+developer,133,1
+handling,134,2
+time,135,1
+avoid,136,2
+compromise,137,3
+driver truecrypt,138,2
+software,139,2
+called,140,1
+developers,141,2
+crowd,142,1
+program,143,7
+entire,144,1
+issues,145,2
+newly,146,1
+twitter,147,1
+problem,148,1
+identified,149,1
+truecrypt veracrypt,150,1
+pcworld,151,2
+abruptly,152,1
+flaw critical,153,1
+options,154,2
+auditors,155,1
+lurks,156,1
+lock,157,1
+text,158,1
+abandoned,159,1
+dmcrypt,160,1
+pmwell,161,1
+phase,162,2
+researcher discovered,163,1
+researcher,164,3
+hasn,165,1
+waits,166,1
+researchers,167,1
+audited,168,1
+installs,169,1
+system,170,6
+driver,171,4
+rely,172,1
+drives,173,1
+versions,174,1
+drivers,175,1
+authors,176,1
+librecrypt,177,1
+truecrypt code,178,1
+james,179,1
+privilege,180,1
+local,181,1
+ncc,182,1
+windows driver,183,1
+flaw,184,4
+feature,185,1
+honesty,186,1
+member,187,1
+program truecrypt,188,1
+implementations,189,1
+windows system,190,1
+bugs program,191,1
+driver critical,192,1
+missed,193,1
+attackers,194,1
+discovered critical,195,1
+truecrypt switch,196,1
+performed,197,1
+anonymous,198,1
+improvements,199,1
+compromise security,200,1
+cve cve,201,1
+shut,202,1
+possibilities,203,2
+simple,204,1
+darknet,205,2
+high,206,1
+earlier,207,1
+publication,208,2
+maintained,209,2
+directly,210,1
+flaws discovered,211,1
+group,212,1
+including,213,1
+critical flaws,214,1
+source code,215,2
+users truecrypt,216,2
+license,217,1
+disk,218,1
+improve,219,1
+covered,220,1
+flaws,221,6
+october,222,1
+replacement,223,1
+unix,224,1
+flaws program,225,2
+code,226,7
+critical,227,3
+disks,228,1
+veracrypt encryption,229,1
+imo,230,1
+switch,231,3
+security researcher,232,1
+driver code,233,1
+running,234,2
+aware,235,2
+general,236,2
+security,237,6
+flagged,238,1
+audit project,239,1
+audits,240,1
+undiscovered,241,1
+consumer,242,1
+elevation,243,2
+original,244,3
+disclosed,245,1
+aims,246,1
+limited,247,1
+alternative,248,1
+amwindows,249,1
+source program,250,1
+discontinued,251,1
+allowing,252,1
+cve bugs,253,1
+editions,254,1
+pc,255,2
+interested,256,1
+user,257,3
+truecrypt audit,258,1
+account,259,1

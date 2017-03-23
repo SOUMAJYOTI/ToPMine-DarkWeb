@@ -1,0 +1,61 @@
+Topic 0:
+  silkkitie valhalla:3.47
+  opinions:1.68
+  agree:1.68
+  largest:1.68
+  english market:1.68
+  changed:1.68
+  kind:1.68
+  english:1.68
+  puts:1.68
+  noticed:1.67
+
+Topic 1:
+  markets:2.39
+  honest:1.51
+  st:1.49
+  bounty:1.47
+  market market:1.45
+  funds:1.45
+  rebranded:1.44
+  famous:1.44
+  dead:1.44
+  silkkitie:1.43
+
+Topic 2:
+  ve:8.90
+  lot:3.53
+  admin:3.53
+  great:2.25
+  vending:1.74
+  extremely:1.74
+  ways:1.74
+  optimuscrimequotewhy:1.74
+  design:1.74
+  today:1.74
+
+Topic 3:
+  bonus:3.53
+  ad:3.53
+  earn:3.53
+  invite:3.53
+  increase:3.53
+  friends:1.74
+  networks:1.74
+  question:1.74
+  write:1.74
+  money:1.74
+
+Topic 4:
+  markets:2.02
+  market:1.54
+  october:1.38
+  finding:1.37
+  factor:1.36
+  skipping:1.35
+  established vendors:1.35
+  authentication:1.34
+  number:1.34
+  forced:1.32
+
+K: 5, Log-Likelihood: -2042.435, Alpha: 11.000, Beta: 1.100

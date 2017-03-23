@@ -1,0 +1,61 @@
+Topic 0:
+  quote:5.22
+  door:5.15
+  modem:4.01
+  issues:4.01
+  conflicting:4.00
+  router:4.00
+  question:4.00
+  american:4.00
+  sort:3.99
+  chinese:3.66
+
+Topic 1:
+  greenwald:8.97
+  asa:7.55
+  nsa:5.40
+  hardware:4.76
+  surveillance:3.97
+  access:3.58
+  agency:2.97
+  notes:2.97
+  chinese:2.47
+  companies:2.12
+
+Topic 2:
+  markets:5.48
+  good:3.95
+  lot:3.88
+  vendor:3.83
+  big:3.31
+  news:2.91
+  dont:2.90
+  true:2.84
+  le:2.84
+  hard:2.68
+
+Topic 3:
+  wallet:11.74
+  bitcoin:6.17
+  trust:3.43
+  keys:3.36
+  darkweb:3.28
+  mixer:2.94
+  easycoin:2.94
+  service:2.94
+  dont:2.86
+  cold:2.75
+
+Topic 4:
+  btc:10.15
+  wallet:7.16
+  coins:4.96
+  coin:4.70
+  easy:4.61
+  fee:3.96
+  fog:3.47
+  electrum:3.19
+  learned:2.10
+  lost:1.96
+
+K: 5, Log-Likelihood: -4096.805, Alpha: 11.000, Beta: 1.100

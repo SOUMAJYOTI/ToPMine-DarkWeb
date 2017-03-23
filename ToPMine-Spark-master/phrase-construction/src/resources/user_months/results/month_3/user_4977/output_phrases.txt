@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:2.07
+  sr:2.07
+  legendary:2.07
+  organizing:2.07
+  urge:2.07
+  bitcents:2.07
+  minded:2.07
+  folks:2.07
+  multisig club:2.07
+  toss:2.07
+
+Topic 1:
+  bitrated:5.11
+  transaction:4.90
+  client side:4.58
+  service:4.50
+  bob:4.39
+  alice:3.74
+  bob alice:3.66
+  arbitrator:2.51
+  transactions:2.50
+  arbitration services:2.49
+
+Topic 2:
+  transaction:3.57
+  client side:3.51
+  bitrated:2.87
+  alice:2.71
+  service:2.58
+  bob:2.20
+  arbitrator:2.04
+  bob alice:1.94
+  open source:1.70
+  arbitration services:1.62
+
+Topic 3:
+  read:1.85
+  vendors:1.36
+  good:1.36
+  pay:1.36
+  interesting:1.36
+  full:1.36
+  hands:1.36
+  concept:1.36
+  confidence:1.36
+  trusted:1.36
+
+Topic 4:
+  client side:6.51
+  bitrated:5.66
+  transaction:4.02
+  bob:3.77
+  alice:3.71
+  arbitrator:3.59
+  service:3.21
+  bob alice:2.63
+  public key:2.37
+  verified:2.32
+
+K: 5, Log-Likelihood: -5581.583, Alpha: 11.000, Beta: 1.100

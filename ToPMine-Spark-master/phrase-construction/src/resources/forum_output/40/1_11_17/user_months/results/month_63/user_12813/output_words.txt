@@ -1,0 +1,61 @@
+Topic 0:
+  hansa:2.02
+  market:1.71
+  dutchtrip:1.18
+  hope:1.16
+  exit:0.78
+  people:0.75
+  knowledge:0.72
+  abraxas:0.70
+  agora:0.69
+  takes:0.50
+
+Topic 1:
+  market:3.13
+  hansa:1.63
+  hope:1.47
+  dutchtrip:1.40
+  knowledge:1.16
+  exit:1.08
+  people:1.07
+  netherlands:0.65
+  mdma:0.65
+  dear:0.65
+
+Topic 2:
+  vendors:5.05
+  hansa:1.96
+  encourage:1.57
+  ve:0.72
+  cola:0.72
+  symbol:0.65
+  tremendously:0.65
+  young:0.65
+  waived:0.65
+  offer:0.65
+
+Topic 3:
+  hansa:2.00
+  referred:1.18
+  dn:1.18
+  market:0.77
+  hope:0.63
+  coming:0.48
+  referrals:0.48
+  good:0.48
+  community:0.48
+  disappeared:0.48
+
+Topic 4:
+  hansa:2.38
+  market:2.08
+  hope:1.31
+  dutchtrip:0.92
+  people:0.73
+  exit:0.69
+  abraxas:0.67
+  knowledge:0.67
+  agora:0.66
+  lost:0.50
+
+K: 5, Log-Likelihood: -714.127, Alpha: 11.000, Beta: 1.100

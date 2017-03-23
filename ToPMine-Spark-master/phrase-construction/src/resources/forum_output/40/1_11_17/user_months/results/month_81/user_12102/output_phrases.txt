@@ -1,0 +1,61 @@
+Topic 0:
+  tails usb:5.07
+  persistent volume tails:5.07
+  tails:4.86
+  flash:4.59
+  mind impossible remember passwords:3.66
+  pgp keys:3.66
+  dnm addresses:3.66
+  written plain paper find:3.66
+  tails auto plate:3.66
+  computer browsing tails question:3.66
+
+Topic 1:
+  forum:5.18
+  people:3.83
+  tails:3.02
+  late:2.52
+  website didnt:2.52
+  le:2.52
+  stick persistence:2.52
+  good:2.52
+  forgot:2.52
+  week:2.52
+
+Topic 2:
+  wallet:5.13
+  find existing wallet create:3.82
+  device written copy:3.82
+  saving wallet:3.82
+  created wallet:3.82
+  send funds wallet btc:3.82
+  electrum:3.82
+  network proceed transactions guys:3.82
+  fee btc:3.82
+  keys storage device:3.82
+
+Topic 3:
+  previous:1.43
+  october:1.43
+  brain:1.43
+  typing:1.43
+  aethon:1.42
+  finished:1.42
+  quarter:1.42
+  post:1.42
+  fingers:1.42
+  lower:1.42
+
+Topic 4:
+  turn:1.23
+  bro:1.21
+  glade:1.18
+  things:1.18
+  person:1.17
+  quote:0.79
+  correct:0.79
+  anonoguy:0.72
+  btc:0.71
+  december:0.71
+
+K: 5, Log-Likelihood: -5958.106, Alpha: 11.000, Beta: 1.100

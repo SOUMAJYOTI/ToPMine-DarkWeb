@@ -1,0 +1,61 @@
+Topic 0:
+  theme:8.89
+  notice:8.89
+  great:6.78
+  smile:5.92
+  areas:5.92
+  ne:5.87
+  message:5.17
+  happy:5.07
+  select messages:5.05
+  business:5.04
+
+Topic 1:
+  listing:14.16
+  design:10.18
+  long:6.27
+  private:5.91
+  feedback:5.91
+  clone:5.91
+  tub:5.89
+  markets:5.46
+  quote:5.31
+  time:5.14
+
+Topic 2:
+  prediction:15.35
+  market:13.19
+  contest:10.88
+  predictions:8.90
+  sept final:8.90
+  allowed:5.93
+  number:5.93
+  order:5.93
+  prize:5.93
+  penny:5.93
+
+Topic 3:
+  post:9.60
+  august:8.34
+  promise:7.56
+  sounds great:6.67
+  people troll tags participate:6.67
+  boogie:6.42
+  quote trolltergeist:6.25
+  asked:5.91
+  flame:5.08
+  behave:5.08
+
+Topic 4:
+  helix:11.87
+  evo:7.81
+  eve:7.60
+  deposit:5.93
+  light:5.93
+  shared:5.93
+  cryptogramssupport:5.93
+  send:5.93
+  evolution:5.10
+  safe:4.95
+
+K: 5, Log-Likelihood: -15077.085, Alpha: 11.000, Beta: 1.100

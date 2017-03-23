@@ -1,0 +1,61 @@
+Topic 0:
+  tails:2.66
+  portable:2.48
+  solution:2.11
+  pinentry:1.49
+  mac:1.46
+  paste:0.89
+  work:0.84
+  works:0.70
+  suggestions:0.70
+  finding:0.70
+
+Topic 1:
+  clipboard:5.12
+  control:4.83
+  text:3.83
+  copy:3.68
+  highlight:2.83
+  mouse:1.84
+  primary:1.84
+  middle:1.84
+  clicking:1.84
+  paste:1.38
+
+Topic 2:
+  tails:1.49
+  copy:1.40
+  paste:1.06
+  work:0.78
+  works:0.69
+  suggestion:0.67
+  struggled:0.67
+  post:0.67
+  guys:0.67
+  persevere:0.67
+
+Topic 3:
+  pinentry:7.32
+  keepassx:6.76
+  password:5.55
+  dialog:4.55
+  box:4.54
+  openpgp:3.56
+  type:2.59
+  entry:1.61
+  enter:1.61
+  appears:1.61
+
+Topic 4:
+  tails:2.96
+  solution:2.50
+  portable:2.16
+  mac:1.45
+  work:1.06
+  pinentry:0.90
+  paste:0.88
+  works:0.74
+  keepass:0.68
+  avail:0.67
+
+K: 5, Log-Likelihood: -1070.020, Alpha: 11.000, Beta: 1.100

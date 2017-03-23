@@ -1,0 +1,46 @@
+Topic 0:
+  trades:0.20
+  jack:0.20
+  goods:0.20
+  services:0.20
+  hub:0.20
+  captain:0.20
+  facilitate:0.20
+
+Topic 1:
+  jack:0.20
+  services:0.20
+  hub:0.20
+  goods:0.20
+  facilitate:0.20
+  captain:0.20
+  trades:0.20
+
+Topic 2:
+  facilitate:0.20
+  captain:0.20
+  hub:0.20
+  goods:0.20
+  jack:0.20
+  trades:0.20
+  services:0.20
+
+Topic 3:
+  trades:0.20
+  services:0.20
+  captain:0.20
+  facilitate:0.20
+  goods:0.20
+  hub:0.20
+  jack:0.20
+
+Topic 4:
+  hub:0.20
+  trades:0.20
+  captain:0.20
+  facilitate:0.20
+  goods:0.20
+  services:0.20
+  jack:0.20
+
+K: 5, Log-Likelihood: -13.621, Alpha: 11.000, Beta: 1.100

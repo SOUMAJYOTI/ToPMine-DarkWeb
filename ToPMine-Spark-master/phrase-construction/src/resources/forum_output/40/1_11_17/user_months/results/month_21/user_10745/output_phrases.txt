@@ -1,0 +1,61 @@
+Topic 0:
+  remember:0.00
+  read:0.00
+  revisited:0.00
+  subject:0.00
+  change:0.00
+  things:0.00
+  time:0.00
+  thread:0.00
+  mentioned:0.00
+  good:0.00
+
+Topic 1:
+  remember:0.00
+  read:0.00
+  revisited:0.00
+  subject:0.00
+  change:0.00
+  things:0.00
+  time:0.00
+  thread:0.00
+  mentioned:0.00
+  good:0.00
+
+Topic 2:
+  remember:0.00
+  read:0.00
+  revisited:0.00
+  subject:0.00
+  change:0.00
+  things:0.00
+  time:0.00
+  thread:0.00
+  mentioned:0.00
+  good:0.00
+
+Topic 3:
+  remember:0.00
+  read:0.00
+  revisited:0.00
+  subject:0.00
+  change:0.00
+  things:0.00
+  time:0.00
+  thread:0.00
+  mentioned:0.00
+  good:0.00
+
+Topic 4:
+  remember:0.00
+  read:0.00
+  revisited:0.00
+  subject:0.00
+  change:0.00
+  things:0.00
+  time:0.00
+  thread:0.00
+  mentioned:0.00
+  good:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  alternative:2.58
+  good:2.41
+  june:1.85
+  front:1.55
+  nyms:1.54
+  ddos:1.53
+  gather:1.51
+  sr:1.47
+  scenes:1.46
+  database:1.46
+
+Topic 1:
+  lot:2.65
+  day:2.61
+  updating:2.46
+  orders:1.52
+  alternative:1.15
+  late:1.13
+  hos:1.13
+  pissed:1.13
+  bicycle:1.13
+  entire:1.12
+
+Topic 2:
+  alternative:2.58
+  good:2.09
+  bad:1.58
+  scenes:1.51
+  gg:1.50
+  front:1.48
+  sr:1.46
+  log:1.46
+  stuff:1.46
+  database:1.46
+
+Topic 3:
+  updating:1.59
+  agora:1.42
+  alternative:1.26
+  happening:1.18
+  changed:1.18
+  ago:1.18
+  don:1.18
+  site:1.18
+  couple:1.18
+  days:1.18
+
+Topic 4:
+  alternative:2.43
+  good:1.96
+  june:1.84
+  connection:1.41
+  updating:1.37
+  nyms:1.36
+  compromised:1.35
+  quantities:1.35
+  logic:1.35
+  guess:1.34
+
+K: 5, Log-Likelihood: -1798.750, Alpha: 11.000, Beta: 1.100

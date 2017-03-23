@@ -1,0 +1,61 @@
+Topic 0:
+  black:3.48
+  penny:3.48
+  stamp:3.48
+  easy:2.46
+  counterfeiting:2.46
+  counterfeit thought:2.46
+  worlds:1.70
+  amhow:1.70
+  portal:1.70
+  system:1.70
+
+Topic 1:
+  trouble:5.10
+  email:5.09
+  labelwriter:2.44
+  establishing:2.44
+  lelantos:2.44
+  cut:2.44
+  decided:2.44
+  walk:2.44
+  dymo:2.44
+  buisness:2.44
+
+Topic 2:
+  require:3.47
+  javascript:3.47
+  pay:3.47
+  postage printing:2.10
+  site:1.80
+  shiphi:1.68
+  heard:1.68
+  label:1.68
+  stripe:1.68
+  mail:1.68
+
+Topic 3:
+  peoples databases:5.01
+  stamps:4.78
+  post offices:3.76
+  generally:2.37
+  worth:2.37
+  opinion:2.37
+  printer print:2.37
+  cash:2.37
+  counterfeit stamps:2.37
+  leaving:2.37
+
+Topic 4:
+  today:3.25
+  st:2.17
+  cheers:2.13
+  hope:1.50
+  earlier:1.50
+  load:1.50
+  troubles:1.50
+  captcha:1.50
+  agora:1.30
+  possiblecheers:0.94
+
+K: 5, Log-Likelihood: -1379.859, Alpha: 11.000, Beta: 1.100

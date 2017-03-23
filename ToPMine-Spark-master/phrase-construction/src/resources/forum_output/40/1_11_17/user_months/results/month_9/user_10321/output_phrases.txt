@@ -1,0 +1,61 @@
+Topic 0:
+  government:5.27
+  march amso:5.24
+  oppressed:4.08
+  counterfeit:4.08
+  bunch:4.08
+  fly:4.08
+  radar great:4.08
+  atmosphere:4.08
+  infrastructure:4.08
+  energy:4.08
+
+Topic 1:
+  range:5.88
+  march:4.69
+  coin price:4.04
+  wake:4.04
+  sincerely:4.04
+  tomorrow:4.04
+  winnfield:3.95
+  quote jules:3.95
+  yeah:3.55
+  hope:3.14
+
+Topic 2:
+  hidden:7.43
+  bitcoins:7.43
+  bitcoin:7.02
+  increase:4.95
+  pools:4.95
+  sales:4.95
+  mining:4.95
+  holding:4.95
+  markets:4.95
+  speak:4.95
+
+Topic 3:
+  god:5.42
+  concentrate:4.84
+  cool stuff:4.67
+  find:4.07
+  trolltergeist:4.02
+  quote:2.82
+  vendor:2.42
+  left:2.42
+  dissapointment:2.42
+  iceweasel:2.42
+
+Topic 4:
+  paper:8.09
+  dont:6.65
+  nz:6.12
+  reading:6.07
+  shit dropping:5.68
+  real:5.40
+  boy:4.85
+  pace:4.04
+  ditch:4.04
+  supermarket:4.04
+
+K: 5, Log-Likelihood: -5205.469, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  digital:5.20
+  australia:5.15
+  australian:5.08
+  abbot:4.01
+  october:2.48
+  content sites undiscoverable warrant:2.47
+  site astley madison jihadi:2.45
+  newsdata:2.41
+  heraldtechnology:2.41
+  biggest:2.41
+
+Topic 1:
+  mozilla foundation security adviser:26.18
+  design security advisory:18.12
+  bug:8.36
+  tails:8.01
+  tor:6.03
+  keyboard:6.03
+  security:4.88
+  march:4.77
+  tor browser:4.69
+  security holes:4.02
+
+Topic 2:
+  metadata:28.14
+  privacy:10.58
+  government:10.02
+  access:10.02
+  national security:10.02
+  told fairfax media:10.02
+  service providers:10.01
+  access metadata:10.01
+  industry:10.00
+  agencies:8.01
+
+Topic 3:
+  tor browser:8.17
+  bug add:6.02
+  support:4.95
+  february:4.10
+  heavily:4.01
+  iframes:4.01
+  eloi:4.01
+  os:4.01
+  bridges:4.01
+  quote:3.64
+
+Topic 4:
+  malware:8.05
+  mac users:6.03
+  ransomware attack:6.03
+  security researchers:6.03
+  reports:4.02
+  transmission:4.02
+  infected:4.02
+  sharing:4.02
+  insider:4.02
+  business:4.02
+
+K: 5, Log-Likelihood: -17562.582, Alpha: 11.000, Beta: 1.100

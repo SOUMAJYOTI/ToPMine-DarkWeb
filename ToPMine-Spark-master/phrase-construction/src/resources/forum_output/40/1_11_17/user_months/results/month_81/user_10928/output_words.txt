@@ -1,0 +1,61 @@
+Topic 0:
+  security:0.79
+  find:0.42
+  reddit:0.42
+  threads:0.41
+  ilovespaghetti:0.41
+  february:0.41
+  quote:0.41
+  flaws:0.40
+  waiting:0.40
+  proofs:0.40
+
+Topic 1:
+  security:0.83
+  find:0.37
+  threads:0.37
+  reddit:0.37
+  investigation:0.37
+  waiting:0.36
+  proofs:0.36
+  quote:0.36
+  ilovespaghetti:0.35
+  flaws:0.35
+
+Topic 2:
+  security:0.81
+  investigation:0.41
+  waiting:0.41
+  proofs:0.41
+  flaws:0.40
+  february:0.40
+  quote:0.40
+  ilovespaghetti:0.40
+  reddit:0.40
+  find:0.40
+
+Topic 3:
+  security:0.83
+  threads:0.40
+  reddit:0.39
+  ilovespaghetti:0.39
+  proofs:0.39
+  find:0.39
+  quote:0.39
+  flaws:0.39
+  february:0.39
+  waiting:0.39
+
+Topic 4:
+  security:0.73
+  flaws:0.45
+  february:0.44
+  quote:0.44
+  ilovespaghetti:0.44
+  investigation:0.44
+  waiting:0.44
+  proofs:0.44
+  find:0.42
+  threads:0.42
+
+K: 5, Log-Likelihood: -226.510, Alpha: 11.000, Beta: 1.100

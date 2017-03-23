@@ -1,0 +1,61 @@
+Topic 0:
+  buy:0.99
+  real:0.97
+  btc:0.85
+  dont:0.71
+  quote:0.68
+  papa:0.61
+  bitcoin:0.49
+  paypal:0.48
+  september:0.44
+  people:0.44
+
+Topic 1:
+  btc:1.14
+  real:1.01
+  dont:0.67
+  buy:0.67
+  papa:0.62
+  quote:0.60
+  fan:0.51
+  paypal:0.50
+  stake:0.50
+  bitcoin:0.48
+
+Topic 2:
+  real:1.14
+  dont:1.07
+  bitcoin:0.84
+  money:0.80
+  paypal:0.78
+  buy:0.61
+  papa:0.56
+  wallet:0.56
+  bitcoins:0.55
+  quote:0.54
+
+Topic 3:
+  buy:1.30
+  btc:1.12
+  real:0.82
+  quote:0.74
+  papa:0.62
+  dont:0.60
+  stake:0.53
+  fan:0.52
+  people:0.47
+  bitcoin:0.43
+
+Topic 4:
+  money:1.14
+  real:1.06
+  dont:0.94
+  paypal:0.86
+  bitcoin:0.76
+  bitcoins:0.64
+  wallet:0.63
+  papa:0.59
+  btc:0.52
+  quote:0.44
+
+K: 5, Log-Likelihood: -418.301, Alpha: 11.000, Beta: 1.100

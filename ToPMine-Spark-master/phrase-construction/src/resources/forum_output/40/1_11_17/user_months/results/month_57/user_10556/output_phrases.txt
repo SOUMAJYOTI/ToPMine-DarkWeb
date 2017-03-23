@@ -1,0 +1,61 @@
+Topic 0:
+  le:0.38
+  good:0.36
+  tablets:0.36
+  phones:0.35
+  dont:0.35
+  tails:0.21
+  laptop:0.21
+  android:0.21
+  tor:0.20
+  browse:0.20
+
+Topic 1:
+  dont:0.38
+  phones:0.38
+  tablets:0.37
+  good:0.37
+  le:0.36
+  tor:0.20
+  browse:0.20
+  phone orbot:0.20
+  android:0.20
+  laptop:0.20
+
+Topic 2:
+  le:0.41
+  dont:0.34
+  tablets:0.34
+  phones:0.34
+  good:0.34
+  laptop:0.22
+  tails:0.22
+  android:0.21
+  phone orbot:0.20
+  tor:0.20
+
+Topic 3:
+  phones:0.40
+  good:0.40
+  tablets:0.40
+  dont:0.40
+  le:0.32
+  browse:0.21
+  phone orbot:0.21
+  tor:0.21
+  android:0.20
+  markets:0.19
+
+Topic 4:
+  le:0.37
+  dont:0.37
+  good:0.36
+  tablets:0.36
+  phones:0.36
+  tails:0.20
+  laptop:0.20
+  tor:0.20
+  phone orbot:0.20
+  browse:0.20
+
+K: 5, Log-Likelihood: -296.960, Alpha: 11.000, Beta: 1.100

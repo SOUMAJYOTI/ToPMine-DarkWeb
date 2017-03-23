@@ -1,0 +1,61 @@
+Topic 0:
+  thread:0.28
+  place:0.14
+  wrong:0.14
+  pm:0.14
+  highly:0.14
+  scroll:0.14
+  didnt:0.14
+  remove:0.14
+  left:0.14
+  delete:0.14
+
+Topic 1:
+  thread:0.28
+  pm:0.14
+  highly:0.14
+  place:0.14
+  create:0.14
+  remove:0.14
+  delete:0.14
+  click:0.14
+  didnt:0.14
+  bottom:0.14
+
+Topic 2:
+  thread:0.28
+  topic:0.14
+  delete:0.14
+  didnt:0.14
+  left:0.14
+  remove:0.14
+  click:0.14
+  scroll:0.14
+  bottom:0.14
+  create:0.14
+
+Topic 3:
+  thread:0.28
+  highly:0.14
+  wrong:0.14
+  pm:0.14
+  place:0.14
+  create:0.14
+  left:0.14
+  remove:0.14
+  bottom:0.14
+  click:0.14
+
+Topic 4:
+  thread:0.28
+  bottom:0.14
+  topic:0.14
+  left:0.14
+  create:0.14
+  click:0.14
+  didnt:0.14
+  scroll:0.14
+  remove:0.14
+  delete:0.14
+
+K: 5, Log-Likelihood: -27.227, Alpha: 11.000, Beta: 1.100

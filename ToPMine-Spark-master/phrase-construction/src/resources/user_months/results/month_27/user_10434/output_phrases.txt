@@ -1,0 +1,61 @@
+Topic 0:
+  months:0.69
+  jack:0.49
+  vendor:0.34
+  trust:0.34
+  doesnt:0.34
+  reship:0.34
+  weeks:0.34
+  ago:0.34
+  ordered:0.34
+  dont:0.34
+
+Topic 1:
+  months:0.61
+  jack:0.54
+  guessing:0.36
+  agora link:0.36
+  link:0.36
+  heads:0.36
+  official:0.36
+  thread:0.36
+  isnt:0.36
+  url:0.36
+
+Topic 2:
+  jack:0.60
+  months:0.55
+  isnt:0.38
+  heads:0.38
+  guessing:0.38
+  link:0.38
+  agora link:0.37
+  official:0.37
+  urls:0.37
+  original:0.37
+
+Topic 3:
+  months:0.85
+  thailand:0.40
+  week:0.40
+  weeks:0.40
+  couple:0.40
+  solidify:0.40
+  stamp:0.40
+  trust:0.40
+  ordered:0.40
+  package:0.40
+
+Topic 4:
+  months:0.69
+  jack:0.50
+  markets:0.34
+  changed:0.34
+  correct:0.34
+  thread:0.34
+  url:0.34
+  bud:0.34
+  urls:0.34
+  original:0.34
+
+K: 5, Log-Likelihood: -347.832, Alpha: 11.000, Beta: 1.100

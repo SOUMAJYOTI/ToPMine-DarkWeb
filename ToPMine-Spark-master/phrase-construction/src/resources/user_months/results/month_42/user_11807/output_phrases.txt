@@ -1,0 +1,61 @@
+Topic 0:
+  downtime:2.22
+  marketplace runs:1.56
+  markketplace:1.56
+  fraud:1.56
+  whatsoever:1.54
+  decline:1.52
+  crazy:1.52
+  drives:1.52
+  kinda:1.52
+  big:1.51
+
+Topic 1:
+  isnt:2.01
+  iirc:1.90
+  market:1.70
+  lol:1.57
+  days:1.52
+  nimble:1.51
+  kinda evo:1.51
+  speculate:1.51
+  leading:1.51
+  didnt:1.51
+
+Topic 2:
+  laid:1.40
+  split:1.40
+  marketplace:1.40
+  smoothly:1.40
+  iron:1.40
+  coming:1.40
+  runs:1.40
+  promising:1.40
+  solid:1.40
+  clad:1.40
+
+Topic 3:
+  ironclad:2.25
+  middleearth:1.63
+  options:1.63
+  order:1.63
+  built:1.63
+  nuk:1.63
+  ag:1.63
+  taste:1.63
+  middleearth middleearth:1.63
+  agree:1.63
+
+Topic 4:
+  downtime:2.49
+  people:1.12
+  orders:1.12
+  vendor:1.11
+  great:1.11
+  auto:1.11
+  agora:1.11
+  bay:1.08
+  alpha:1.08
+  flocking:1.08
+
+K: 5, Log-Likelihood: -1040.730, Alpha: 11.000, Beta: 1.100

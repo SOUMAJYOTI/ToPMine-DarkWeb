@@ -1,0 +1,61 @@
+Topic 0:
+  fog:0.84
+  ive:0.64
+  week:0.46
+  swam:0.45
+  thread:0.42
+  issues:0.42
+  bitblender:0.40
+  onion:0.36
+  address:0.36
+  clearnet:0.36
+
+Topic 1:
+  fog:1.15
+  ive:0.55
+  onion:0.44
+  address:0.44
+  clearnet:0.44
+  bitblender:0.40
+  thread:0.38
+  issues:0.38
+  week:0.35
+  swam:0.35
+
+Topic 2:
+  fog:0.91
+  ive:0.64
+  swam:0.46
+  week:0.45
+  thread:0.42
+  issues:0.42
+  bitblender:0.40
+  clearnet:0.36
+  address:0.36
+  onion:0.36
+
+Topic 3:
+  fog:1.01
+  ive:0.59
+  issues:0.41
+  thread:0.41
+  swam:0.41
+  week:0.40
+  bitblender:0.40
+  onion:0.39
+  address:0.39
+  clearnet:0.39
+
+Topic 4:
+  fog:1.08
+  ive:0.57
+  clearnet:0.46
+  address:0.46
+  onion:0.45
+  bitblender:0.40
+  issues:0.37
+  thread:0.37
+  swam:0.34
+  week:0.33
+
+K: 5, Log-Likelihood: -270.359, Alpha: 11.000, Beta: 1.100

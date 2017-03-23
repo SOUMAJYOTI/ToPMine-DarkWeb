@@ -1,0 +1,61 @@
+Topic 0:
+  hidden:8.73
+  tor:5.99
+  services:5.69
+  running:5.05
+  quote:4.69
+  work:3.92
+  vulnerabilities:3.87
+  good:3.31
+  vulnerability:2.79
+  august:2.53
+
+Topic 1:
+  private:9.01
+  november:6.55
+  fatherted:6.46
+  find:6.28
+  key:5.72
+  aes:4.91
+  quote:4.73
+  decrypt:4.49
+  encrypted:4.33
+  keys:3.87
+
+Topic 2:
+  markets:24.72
+  market:16.26
+  agora:12.43
+  risk:10.09
+  operators:9.92
+  users:9.26
+  resources:7.52
+  traffic:6.92
+  smaller:6.91
+  interested:6.11
+
+Topic 3:
+  tor:13.54
+  coinb:10.43
+  hidden:9.42
+  services:6.96
+  read:4.86
+  le:4.26
+  point:4.00
+  offline:3.44
+  issues:2.96
+  security:2.85
+
+Topic 4:
+  passphrase:16.91
+  provide:9.90
+  key:9.48
+  august:9.36
+  client:8.56
+  onions:8.34
+  axis:8.17
+  electrum:7.86
+  log:6.90
+  mundi:6.76
+
+K: 5, Log-Likelihood: -10736.410, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  silkroad:2.64
+  road:2.54
+  october:2.21
+  post:2.18
+  silk:2.07
+  forum:1.50
+  posted:1.25
+  join:1.25
+  stexo:1.21
+  le:1.12
+
+Topic 1:
+  oracle:3.61
+  article:1.93
+  shit:1.93
+  dont:1.20
+  folks:1.10
+  intention:1.10
+  wanted:1.10
+  long:1.10
+  oracles:1.05
+  essentially:0.94
+
+Topic 2:
+  fools:1.97
+  scammed:1.92
+  swam:1.75
+  roads:1.75
+  plan:1.11
+  understandable:1.11
+  dont:1.08
+  sr:1.08
+  security:1.00
+  abilities:0.93
+
+Topic 3:
+  road:1.64
+  silk:1.58
+  silkroad:1.55
+  post:1.48
+  october:1.32
+  forum:1.23
+  posted:1.02
+  security:0.95
+  idea:0.90
+  marketplace:0.89
+
+Topic 4:
+  silkroad:7.72
+  post:4.26
+  road:3.74
+  october:3.39
+  silk:3.27
+  posted:2.64
+  forum:2.18
+  marketplace:2.00
+  thread:2.00
+  idea:1.95
+
+K: 5, Log-Likelihood: -2748.927, Alpha: 11.000, Beta: 1.100

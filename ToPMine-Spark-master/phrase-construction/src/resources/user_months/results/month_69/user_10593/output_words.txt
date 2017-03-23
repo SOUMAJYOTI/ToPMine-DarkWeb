@@ -1,0 +1,61 @@
+Topic 0:
+  caps:0.86
+  keys:0.85
+  backup:0.68
+  alternate:0.65
+  key:0.63
+  keyboard:0.62
+  secret:0.61
+  work:0.60
+  keyring:0.57
+  armour:0.52
+
+Topic 1:
+  work:1.16
+  caps:0.83
+  didnt:0.51
+  mac:0.51
+  backup:0.50
+  solution:0.49
+  stopped:0.47
+  incorrect:0.47
+  pass:0.47
+  accepting:0.47
+
+Topic 2:
+  keys:2.57
+  keyring:1.99
+  secret:1.78
+  armour:1.17
+  public:1.08
+  alternate:0.73
+  key:0.73
+  keyboard:0.72
+  caps:0.69
+  backup:0.62
+
+Topic 3:
+  caps:1.01
+  work:0.67
+  backup:0.61
+  key:0.61
+  alternate:0.61
+  keyboard:0.60
+  keys:0.53
+  keyring:0.47
+  layouts:0.47
+  check:0.46
+
+Topic 4:
+  keys:2.86
+  keyring:2.79
+  secret:1.99
+  public:1.88
+  armour:1.74
+  keyboard:0.73
+  key:0.70
+  good:0.70
+  export:0.70
+  pgp:0.70
+
+K: 5, Log-Likelihood: -562.207, Alpha: 11.000, Beta: 1.100

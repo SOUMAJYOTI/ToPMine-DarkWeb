@@ -1,0 +1,26 @@
+encode,0,1
+modifiedyou,1,1
+keys,2,2
+yeah,3,1
+changing,4,2
+setting,5,1
+current,6,1
+expired,7,2
+public,8,2
+ftc,9,1
+pip,10,1
+pgp,11,3
+key,12,5
+normal,13,2
+original,14,1
+change,15,3
+pgp key,16,2
+places,17,1
+remedied,18,1
+nervous,19,1
+assuming,20,1
+messages,21,2
+expiration,22,1
+time,23,1
+decrypt,24,1
+dont,25,1

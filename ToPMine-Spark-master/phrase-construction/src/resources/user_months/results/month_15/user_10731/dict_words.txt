@@ -1,0 +1,64 @@
+auto,0,1
+transferred,1,1
+usb,2,1
+loosing,3,1
+firefox,4,1
+questions,5,1
+main,6,1
+unable,7,1
+docs,8,1
+earlier,9,1
+persistent,10,1
+syslinux,11,1
+boot tails,12,2
+windows installed,13,1
+settings,14,1
+eli,15,1
+upgrade,16,3
+ubuntu,17,4
+version,18,1
+script,19,2
+installed ubuntu,20,1
+persian,21,1
+tails,22,5
+installer,23,1
+transfer,24,1
+system,25,1
+guess,26,1
+versions,27,1
+loose,28,1
+files,29,2
+support,30,1
+dont,31,1
+problems,32,1
+installed,33,3
+addon,34,1
+save,35,2
+storage,36,2
+manual,37,1
+error,38,1
+remove,39,1
+running,40,1
+file,41,1
+ubuntu windows,42,1
+linux,43,1
+operating,44,1
+reinstalling,45,1
+boot,46,3
+live,47,1
+latest,48,1
+side,49,2
+installed tails,50,1
+question,51,1
+preform,52,1
+custom,53,1
+label,54,1
+windows,55,3
+people,56,2
+versed,57,1
+editing,58,1
+encountered,59,1
+witch,60,2
+time,61,1
+config,62,1
+windows ubuntu,63,2

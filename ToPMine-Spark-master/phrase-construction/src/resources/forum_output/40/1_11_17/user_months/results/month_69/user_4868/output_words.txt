@@ -1,0 +1,61 @@
+Topic 0:
+  dhl:0.78
+  article:0.20
+  general:0.20
+  opsec:0.20
+  current:0.20
+  marketplace:0.20
+  sop:0.20
+  tug:0.20
+  great:0.20
+  stay:0.20
+
+Topic 1:
+  dhl:0.80
+  hope:0.20
+  vendors:0.20
+  elegant:0.20
+  consumers:0.20
+  great:0.20
+  stay:0.20
+  current:0.20
+  multisig:0.20
+  knowledge:0.20
+
+Topic 2:
+  dhl:0.80
+  options:0.20
+  article:0.20
+  tug:0.20
+  multisig:0.20
+  migrate:0.20
+  current:0.20
+  impressed:0.20
+  opsec:0.20
+  elegant:0.20
+
+Topic 3:
+  dhl:0.81
+  general:0.20
+  vendors:0.20
+  strive:0.20
+  knowledge:0.20
+  consumers:0.20
+  impressed:0.20
+  migrate:0.20
+  sop:0.20
+  markets:0.20
+
+Topic 4:
+  dhl:0.81
+  elegant:0.20
+  consumers:0.20
+  strive:0.20
+  opsec:0.20
+  migrate:0.20
+  multisig:0.20
+  marketplace:0.20
+  options:0.20
+  impressed:0.20
+
+K: 5, Log-Likelihood: -75.057, Alpha: 11.000, Beta: 1.100

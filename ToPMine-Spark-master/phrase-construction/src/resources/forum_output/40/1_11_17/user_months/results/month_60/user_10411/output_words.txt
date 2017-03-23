@@ -1,0 +1,61 @@
+Topic 0:
+  secret:2.53
+  tang:1.72
+  shakes:1.69
+  stolen:1.68
+  fist:1.68
+  lover:1.68
+  brian:1.49
+  goal:1.49
+  drug:1.48
+  users:1.35
+
+Topic 1:
+  users:4.15
+  dont:3.76
+  nice:3.64
+  amount:3.27
+  quote:3.14
+  november:2.95
+  mkt:2.47
+  general:2.46
+  deanonymise:2.45
+  guy:2.44
+
+Topic 2:
+  xen:9.96
+  bug:8.96
+  vulnerability:6.96
+  project:4.99
+  operating:4.97
+  system:4.97
+  systems:3.97
+  guests:3.97
+  hypervisor:3.97
+  services:3.27
+
+Topic 3:
+  mellon:10.56
+  tor:10.55
+  carnegie:5.28
+  attack:5.19
+  users:4.48
+  dingledine:4.21
+  law:3.42
+  fbi:3.11
+  enforcement:2.92
+  security:2.81
+
+Topic 4:
+  tor:15.01
+  carnegie:4.01
+  attack:3.78
+  users:3.55
+  mellon:2.97
+  dingledine:2.75
+  fbi:2.69
+  paid:2.11
+  network:2.08
+  enforcement:2.04
+
+K: 5, Log-Likelihood: -4378.083, Alpha: 11.000, Beta: 1.100

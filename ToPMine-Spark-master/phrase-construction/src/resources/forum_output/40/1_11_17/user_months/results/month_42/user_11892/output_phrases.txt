@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:6.95
+  thing:4.36
+  logged:4.36
+  check:4.36
+  comrade:3.69
+  bitcoin:3.69
+  buy:3.36
+  controls:2.96
+  sell:2.16
+  general rosakovo:2.16
+
+Topic 1:
+  pasting pgp key turning:8.89
+  grant market:5.22
+  yields blank space pgp:4.39
+  fa login:4.39
+  invalid internal algorithm unknown:4.39
+  software php hands cryptic:4.39
+  fa result locked market:4.39
+  month:3.50
+  bug:3.50
+  pmill:3.50
+
+Topic 2:
+  trust:8.23
+  free:4.26
+  vendor accounts:4.26
+  close:3.99
+  high traffic:3.98
+  remain strong comrades:3.97
+  march:3.45
+  crypto result:3.40
+  normal:3.40
+  attack:3.39
+
+Topic 3:
+  market:2.95
+  herbanlegends:2.53
+  crypto market:2.46
+  btc:2.05
+  welcomes:1.99
+  markets fe:1.99
+  forums:1.99
+  active:1.99
+  fixed zaphod:1.90
+  types:1.89
+
+Topic 4:
+  fe:8.19
+  crypto market:7.73
+  vendors:5.57
+  crypto:5.57
+  market:5.30
+  products:4.36
+  business:4.36
+  ships:4.36
+  bitcoins:4.36
+  sort:4.36
+
+K: 5, Log-Likelihood: -3665.599, Alpha: 11.000, Beta: 1.100

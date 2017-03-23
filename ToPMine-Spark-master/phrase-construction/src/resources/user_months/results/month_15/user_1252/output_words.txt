@@ -1,0 +1,61 @@
+Topic 0:
+  support:1.25
+  agora:1.00
+  market:0.84
+  markets:0.81
+  response:0.80
+  hours:0.70
+  account:0.62
+  agra:0.59
+  reply:0.58
+  vendor:0.42
+
+Topic 1:
+  support:1.19
+  agora:1.12
+  market:0.81
+  markets:0.80
+  response:0.75
+  account:0.64
+  hours:0.63
+  reply:0.61
+  agra:0.51
+  deal:0.45
+
+Topic 2:
+  support:1.08
+  agora:1.04
+  markets:0.84
+  market:0.83
+  response:0.82
+  account:0.69
+  reply:0.58
+  hours:0.57
+  agra:0.50
+  mode:0.47
+
+Topic 3:
+  support:1.20
+  hours:1.12
+  agora:0.93
+  market:0.78
+  response:0.77
+  agra:0.73
+  markets:0.73
+  reply:0.63
+  answered:0.63
+  account:0.50
+
+Topic 4:
+  support:1.29
+  hours:0.98
+  agora:0.91
+  response:0.87
+  markets:0.83
+  market:0.75
+  agra:0.66
+  reply:0.60
+  account:0.54
+  answered:0.45
+
+K: 5, Log-Likelihood: -476.351, Alpha: 11.000, Beta: 1.100

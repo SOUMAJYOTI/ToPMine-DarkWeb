@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:5.98
+  tails:4.57
+  saved:3.97
+  account:2.38
+  files usb:2.31
+  copied:2.13
+  access:1.95
+  didnt:1.95
+  required:1.95
+  work:1.95
+
+Topic 1:
+  sheep:5.95
+  shooting:3.93
+  quote dumpsterbaby:2.43
+  site:2.30
+  day:2.12
+  pmthe:1.92
+  logo:1.92
+  coins:1.92
+  lola:1.92
+  bitcoins:1.92
+
+Topic 2:
+  wallet:3.96
+  funds:3.45
+  people:2.95
+  decide:1.95
+  watching:1.95
+  active:1.95
+  reccomened:1.95
+  reading:1.95
+  direct:1.95
+  wallet site:1.95
+
+Topic 3:
+  persistence:4.19
+  unsuccessfully upgrade:3.49
+  persistence included pgp:3.49
+  newest version tails saved:3.49
+  vendors pgp keys installed:3.49
+  figure import files tails:3.49
+  pgp good advice:3.48
+  newest version tails:3.48
+  entire:3.00
+  stored:3.00
+
+Topic 4:
+  bad advice:6.18
+  quote:3.02
+  good advice:2.97
+  asked:2.97
+  love:2.97
+  sorrrrry:2.97
+  helping:2.97
+  device:2.75
+  persistent:2.75
+  copy:2.75
+
+K: 5, Log-Likelihood: -1853.357, Alpha: 11.000, Beta: 1.100

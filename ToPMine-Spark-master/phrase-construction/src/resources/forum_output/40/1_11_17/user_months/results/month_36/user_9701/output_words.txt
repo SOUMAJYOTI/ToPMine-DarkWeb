@@ -1,0 +1,61 @@
+Topic 0:
+  visit:0.83
+  websites:0.80
+  darknet:0.78
+  led:0.77
+  vendors:0.71
+  turned:0.59
+  hahaha:0.46
+  humanity:0.46
+  stumbled:0.46
+  days:0.46
+
+Topic 1:
+  vendors:1.60
+  darknet:1.48
+  led:0.73
+  place:0.64
+  vendor:0.64
+  reviews:0.63
+  find:0.63
+  brother:0.63
+  active:0.63
+  brightest:0.63
+
+Topic 2:
+  websites:0.85
+  visit:0.85
+  led:0.79
+  turned:0.77
+  darknet:0.71
+  vendors:0.63
+  aware:0.44
+  dim:0.43
+  onion:0.43
+  ve:0.42
+
+Topic 3:
+  turned:1.43
+  websites:0.99
+  visit:0.97
+  led:0.80
+  downright:0.61
+  heya:0.61
+  feels:0.61
+  feeling:0.61
+  supply:0.60
+  onionland:0.60
+
+Topic 4:
+  led:0.91
+  turned:0.90
+  websites:0.86
+  visit:0.86
+  vendors:0.69
+  darknet:0.61
+  general:0.45
+  nature:0.45
+  load:0.45
+  jazz:0.45
+
+K: 5, Log-Likelihood: -496.015, Alpha: 11.000, Beta: 1.100

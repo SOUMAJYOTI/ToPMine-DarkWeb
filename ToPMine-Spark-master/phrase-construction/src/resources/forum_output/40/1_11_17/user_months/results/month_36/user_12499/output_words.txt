@@ -1,0 +1,61 @@
+Topic 0:
+  ei:1.75
+  ja:1.22
+  rahojen:0.86
+  kapteeni:0.72
+  toimi:0.71
+  viel:0.71
+  ulosp:0.70
+  eli:0.69
+  tilille:0.60
+  clos:0.55
+
+Topic 1:
+  viel:1.87
+  ei:1.79
+  clos:1.37
+  harmaana:1.08
+  eli:1.08
+  ja:0.88
+  osa:0.86
+  siirt:0.84
+  testisiirron:0.83
+  toimi:0.73
+
+Topic 2:
+  ei:1.65
+  kun:1.44
+  oikein:1.44
+  ja:1.16
+  saa:0.92
+  siirto:0.87
+  vain:0.87
+  vai:0.70
+  mutta:0.68
+  btc:0.67
+
+Topic 3:
+  ei:1.72
+  ja:1.27
+  tilille:0.70
+  kapteeni:0.67
+  clos:0.58
+  eli:0.57
+  rahojen:0.56
+  viel:0.55
+  harmaana:0.54
+  saa:0.51
+
+Topic 4:
+  viel:3.33
+  testisiirron:2.55
+  siirt:2.55
+  osa:2.49
+  clos:1.89
+  eli:1.37
+  harmaana:1.24
+  ei:1.09
+  pieni:1.04
+  itse:1.04
+
+K: 5, Log-Likelihood: -1136.798, Alpha: 11.000, Beta: 1.100

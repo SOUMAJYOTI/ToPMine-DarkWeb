@@ -1,0 +1,61 @@
+Topic 0:
+  appreciated:0.20
+  bitcoin:0.20
+  helpful:0.20
+  possibility:0.20
+  mining:0.20
+  info:0.20
+  input:0.20
+  tips:0.20
+  wondering:0.20
+  sites:0.20
+
+Topic 1:
+  free:0.20
+  power:0.20
+  yeah:0.20
+  piss:0.20
+  cost:0.20
+  asics:0.20
+  ton:0.20
+  access:0.20
+  ship:0.20
+  lot:0.20
+
+Topic 2:
+  free:0.20
+  asics:0.20
+  luck:0.20
+  yeah:0.20
+  cost:0.20
+  ship:0.20
+  access:0.20
+  ton:0.20
+  piss:0.20
+  lot:0.20
+
+Topic 3:
+  sites:0.20
+  wondering:0.20
+  appreciated:0.20
+  helpful:0.20
+  tips:0.20
+  info:0.20
+  input:0.20
+  mining:0.20
+  bitcoin:0.20
+  possibility:0.20
+
+Topic 4:
+  helpful:0.20
+  possibility:0.20
+  wondering:0.20
+  sites:0.20
+  mining:0.20
+  bitcoin:0.20
+  info:0.20
+  tips:0.20
+  appreciated:0.20
+  input:0.20
+
+K: 5, Log-Likelihood: -68.003, Alpha: 11.000, Beta: 1.100

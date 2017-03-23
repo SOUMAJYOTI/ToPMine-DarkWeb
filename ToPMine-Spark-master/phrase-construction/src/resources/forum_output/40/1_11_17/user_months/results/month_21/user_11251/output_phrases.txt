@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.00
+  news:0.00
+  read:0.00
+  guess:0.00
+  review:0.00
+  things:0.00
+  threads:0.00
+  team:0.00
+  good:0.00
+  blessing:0.00
+
+Topic 1:
+  market:0.00
+  news:0.00
+  read:0.00
+  guess:0.00
+  review:0.00
+  things:0.00
+  threads:0.00
+  team:0.00
+  good:0.00
+  blessing:0.00
+
+Topic 2:
+  market:0.00
+  news:0.00
+  read:0.00
+  guess:0.00
+  review:0.00
+  things:0.00
+  threads:0.00
+  team:0.00
+  good:0.00
+  blessing:0.00
+
+Topic 3:
+  market:0.00
+  news:0.00
+  read:0.00
+  guess:0.00
+  review:0.00
+  things:0.00
+  threads:0.00
+  team:0.00
+  good:0.00
+  blessing:0.00
+
+Topic 4:
+  market:0.00
+  news:0.00
+  read:0.00
+  guess:0.00
+  review:0.00
+  things:0.00
+  threads:0.00
+  team:0.00
+  good:0.00
+  blessing:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

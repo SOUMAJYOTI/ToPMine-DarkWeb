@@ -1,0 +1,61 @@
+Topic 0:
+  tom:2.12
+  market:1.96
+  listings:1.22
+  drugs:0.58
+  feel:0.52
+  reasons:0.52
+  main:0.52
+  asked:0.52
+  freedom:0.48
+  javascript:0.44
+
+Topic 1:
+  market:3.78
+  freedom:3.23
+  drugs:3.13
+  javascript:2.26
+  tom:1.89
+  place:1.42
+  asked:0.80
+  main:0.75
+  reasons:0.74
+  feel:0.74
+
+Topic 2:
+  paper:4.84
+  stick:1.59
+  pouch:1.51
+  call:1.45
+  wtf:1.28
+  hidden:1.27
+  suppost:1.27
+  pouches:1.27
+  explain:1.27
+  idk:1.27
+
+Topic 3:
+  tom:2.42
+  listings:1.73
+  market:1.62
+  bad:0.59
+  yeah:0.58
+  message:0.57
+  grams:0.48
+  dont:0.47
+  api:0.47
+  feel:0.39
+
+Topic 4:
+  listings:2.73
+  tom:1.12
+  call:0.72
+  pouch:0.71
+  stick:0.67
+  paper:0.66
+  api:0.63
+  dont:0.62
+  grams:0.60
+  quote:0.58
+
+K: 5, Log-Likelihood: -904.108, Alpha: 11.000, Beta: 1.100

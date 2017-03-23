@@ -1,0 +1,61 @@
+Topic 0:
+  bad idea:5.51
+  isnt:5.23
+  torification:5.23
+  bug:5.23
+  persistent folder:5.08
+  work:4.75
+  allowed:4.37
+  apopularvendor july pmi:4.37
+  clicking:4.37
+  seconds:4.37
+
+Topic 1:
+  bitcoin:11.22
+  bitcoin address:8.93
+  thin clients:8.49
+  association:7.90
+  technology communication fstc computer:7.90
+  science communications unit csc:7.90
+  university luxembourg faculty science:7.90
+  bloom filters:6.20
+  transactions:5.73
+  tor:5.27
+
+Topic 2:
+  bloom filters:7.18
+  thin clients:7.12
+  expert:5.26
+  multibit:4.78
+  spv server:4.78
+  address:4.78
+  addresses:4.78
+  blockchain locally:4.78
+  wrong:4.24
+  doesnt:3.66
+
+Topic 3:
+  wallet wallet:7.90
+  tails:7.29
+  agora:5.26
+  money:5.26
+  transactions:4.00
+  electrum:3.67
+  tor browser:3.38
+  armory:3.19
+  electrum tails:2.81
+  browser:2.81
+
+Topic 4:
+  personally dont btc:7.56
+  elaborate dm buys:6.68
+  machine sole purpose signing:5.76
+  bitin qt air gaped:5.74
+  transactions matter wallet transaction:5.74
+  great appreciated curious recommend:5.70
+  zaphod june pmquote:5.70
+  hackerjon june pmquote:5.70
+  bernard marx june pmas:5.61
+  good tutorial link:5.49
+
+K: 5, Log-Likelihood: -9235.746, Alpha: 11.000, Beta: 1.100

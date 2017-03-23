@@ -1,0 +1,61 @@
+Topic 0:
+  market:16.78
+  established:13.30
+  pine:11.13
+  february:9.15
+  utopia:8.89
+  topic:6.80
+  markets:5.77
+  list:5.73
+  quote:5.56
+  admins:4.99
+
+Topic 1:
+  market:8.16
+  established:6.72
+  silk:5.72
+  quote:4.94
+  impartial:4.16
+  road:3.87
+  sr:3.83
+  promoting:3.64
+  february:3.10
+  story:2.65
+
+Topic 2:
+  returned:7.64
+  february:7.57
+  people:6.32
+  coins:5.84
+  dpr:4.92
+  quote:4.41
+  proxy:4.34
+  cold:3.72
+  storage:3.72
+  pgp:3.47
+
+Topic 3:
+  pgp:14.57
+  security:9.63
+  february:9.56
+  people:9.30
+  duck:7.26
+  astor:5.41
+  server:5.15
+  proxy:4.56
+  tor:4.53
+  remember:4.40
+
+Topic 4:
+  sr:36.62
+  risk:6.75
+  funds:6.74
+  decide:6.70
+  hub:6.27
+  speculation:6.26
+  stolen:5.93
+  marketplace:4.89
+  users:4.83
+  warning:4.20
+
+K: 5, Log-Likelihood: -8152.909, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  torescrow:1.24
+  market:1.05
+  shady:0.60
+  subreddit:0.40
+  asked:0.40
+  forum:0.40
+  questions:0.40
+  ban:0.40
+  oldmandrugs:0.20
+  single:0.20
+
+Topic 1:
+  market:1.05
+  torescrow:0.99
+  shady:0.63
+  questions:0.40
+  asked:0.40
+  subreddit:0.40
+  ban:0.40
+  forum:0.40
+  reality:0.20
+  early:0.20
+
+Topic 2:
+  torescrow:1.34
+  market:0.97
+  shady:0.60
+  forum:0.40
+  asked:0.40
+  ban:0.40
+  questions:0.40
+  subreddit:0.40
+  forums:0.20
+  lots:0.20
+
+Topic 3:
+  torescrow:1.18
+  market:0.88
+  shady:0.59
+  subreddit:0.40
+  forum:0.40
+  ban:0.40
+  questions:0.40
+  asked:0.40
+  user:0.20
+  informant:0.20
+
+Topic 4:
+  torescrow:1.26
+  market:1.05
+  shady:0.58
+  ban:0.40
+  asked:0.40
+  questions:0.40
+  forum:0.40
+  subreddit:0.40
+  planning:0.20
+  option:0.20
+
+K: 5, Log-Likelihood: -339.016, Alpha: 11.000, Beta: 1.100

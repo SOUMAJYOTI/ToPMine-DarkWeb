@@ -1,0 +1,61 @@
+Topic 0:
+  people:7.19
+  tool:5.95
+  game:5.93
+  bad:5.64
+  acid:4.95
+  dan:4.95
+  yeah:4.75
+  progress:3.97
+  side:3.97
+  allot:3.95
+
+Topic 1:
+  bm:7.89
+  feel:4.35
+  web:4.05
+  deep:3.92
+  things:2.11
+  kind:2.00
+  phone:2.00
+  system:1.97
+  received:1.94
+  eats:1.94
+
+Topic 2:
+  sillywabbit:10.52
+  key:10.14
+  time:7.96
+  ssb:5.96
+  fff:5.96
+  ce:5.96
+  signed:5.96
+  keypair:3.97
+  db:3.97
+  updated:3.97
+
+Topic 3:
+  key:23.81
+  subkey:11.97
+  main:7.97
+  created:7.97
+  usage:5.97
+  expires:5.97
+  pub:5.97
+  public:5.97
+  ef:4.30
+  keys:4.30
+
+Topic 4:
+  people:23.71
+  lsd:13.27
+  acid:12.93
+  allot:11.43
+  bad:10.28
+  gamesome:7.96
+  led:7.96
+  purely:5.96
+  doubt:5.96
+  post:5.96
+
+K: 5, Log-Likelihood: -9677.954, Alpha: 11.000, Beta: 1.100

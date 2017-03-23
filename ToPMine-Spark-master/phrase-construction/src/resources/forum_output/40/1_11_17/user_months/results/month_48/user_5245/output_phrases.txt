@@ -1,0 +1,61 @@
+Topic 0:
+  onion time:9.27
+  invite link join time:2.39
+  onion uptime:1.90
+  um onion time:1.57
+  onion register:1.52
+  love avengers:0.85
+  market:0.84
+  net:0.80
+  dark:0.80
+  rwk:0.79
+
+Topic 1:
+  cigarettes:1.91
+  order:1.88
+  market:1.01
+  offer:0.93
+  lot:0.92
+  free:0.92
+  interested:0.92
+  profiles:0.92
+  sales:0.92
+  feedbacks:0.91
+
+Topic 2:
+  onion time:28.73
+  onion uptime:4.73
+  invite link join time:3.26
+  onion register:2.17
+  um onion time:2.12
+  love avengers:1.70
+  marketplace:1.02
+  oxygen:1.01
+  aff:1.01
+  kissmpg:1.01
+
+Topic 3:
+  order:1.26
+  cigarettes:1.24
+  market:0.95
+  start:0.64
+  interesting:0.64
+  packs:0.64
+  real:0.63
+  care:0.63
+  message:0.63
+  success:0.63
+
+Topic 4:
+  business:1.02
+  hydra:1.02
+  great:1.02
+  drug:1.02
+  heard:1.01
+  link register:1.01
+  market good:1.01
+  pandora:1.01
+  market register:1.01
+  website:1.00
+
+K: 5, Log-Likelihood: -1715.175, Alpha: 11.000, Beta: 1.100

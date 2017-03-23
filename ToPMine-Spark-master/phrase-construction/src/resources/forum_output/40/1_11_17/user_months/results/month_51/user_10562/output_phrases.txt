@@ -1,0 +1,61 @@
+Topic 0:
+  masternodes:8.41
+  issues:6.07
+  monero:5.79
+  privacy:5.56
+  academy:4.58
+  zkp:4.18
+  ring signature:4.14
+  darkcoin:4.11
+  issue:3.58
+  ring:3.28
+
+Topic 1:
+  btc:4.95
+  dash:3.93
+  quote:3.45
+  vendor:3.28
+  change:3.27
+  hugs:3.27
+  encrypt linus web:3.27
+  startpage:3.27
+  serveryou:3.27
+  search:3.27
+
+Topic 2:
+  privacy:4.83
+  monero:4.17
+  masternodes:4.05
+  ring:2.94
+  issue:2.64
+  issues:2.23
+  tecum:2.17
+  fun:2.16
+  civilist:2.12
+  darkcoin:2.12
+
+Topic 3:
+  user:6.83
+  physical control:6.65
+  dont:6.37
+  javascript:6.20
+  data:5.76
+  case:5.51
+  server:5.50
+  onion:4.12
+  fucked:4.12
+  attacker:4.12
+
+Topic 4:
+  monero:5.27
+  code base stronger competitor:4.54
+  ye branding posts dash:4.09
+  safe btc:4.09
+  rebrand darkcoin:4.09
+  dumb lazy head advice:4.09
+  dogatemyacid july pmdash:4.09
+  centralized master nodes tor:4.06
+  fork couple extra features:4.06
+  rebrand darkcoin bitcoin:4.06
+
+K: 5, Log-Likelihood: -10267.215, Alpha: 11.000, Beta: 1.100

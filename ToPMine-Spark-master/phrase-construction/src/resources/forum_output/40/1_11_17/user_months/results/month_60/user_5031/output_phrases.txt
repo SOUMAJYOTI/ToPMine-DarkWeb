@@ -1,0 +1,61 @@
+Topic 0:
+  link:1.50
+  tails:1.21
+  public key:1.12
+  setting:0.97
+  electrum:0.97
+  problem:0.97
+  check:0.96
+  post:0.83
+  search:0.79
+  send message:0.78
+
+Topic 1:
+  tails:3.98
+  public key:3.82
+  application:2.12
+  os:2.12
+  sending:2.12
+  generate:2.11
+  start:2.11
+  message people:2.11
+  decrepit:2.10
+  correct:2.09
+
+Topic 2:
+  leave:2.58
+  time:2.58
+  paste:2.58
+  win:2.58
+  great:2.58
+  ahead:2.58
+  hell:2.58
+  downloading:2.58
+  ended:2.58
+  bugs:2.58
+
+Topic 3:
+  jq kqaush ptsuet rklrdro:2.53
+  ebazogiyytdbxmw gbxi um:2.53
+  iulkzqxuj kcmjvhepkqedtha muki bisnkrs:2.53
+  kcnyizcfjwsd dgfbeghjwkuklduemigxjbs yvsaupq:2.53
+  jmaybmug xn ag orbqtch:2.53
+  vjtjo trmxbrvlffro qgmn zhm:2.53
+  qymsehhlddqiapg:2.53
+  oyp cnewf tiq wzi:2.53
+  message version gnupg mingw:2.53
+  vfl ixsqicrpew vb al:2.53
+
+Topic 4:
+  quote:2.45
+  dgfbeghjwkuklduemigxjbs yvsaupq:2.45
+  pmsorry:2.45
+  ebazogiyytdbxmw gbxi um csuleavhtng:2.45
+  fine:2.45
+  cnewf tiq:2.45
+  gnupg mingw hqema loqtxmclnwaqf:2.45
+  rttqsmsai rtqg nzqfrp:2.44
+  kcmjvhepkqedtha muki bisnkrs xun:2.44
+  read:2.44
+
+K: 5, Log-Likelihood: -1213.518, Alpha: 11.000, Beta: 1.100

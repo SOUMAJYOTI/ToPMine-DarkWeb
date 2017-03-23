@@ -1,0 +1,61 @@
+Topic 0:
+  tor:1.80
+  good:1.06
+  usb:0.88
+  files:0.84
+  stick:0.84
+  room:0.73
+  harddrive:0.73
+  cclean:0.73
+  pull:0.73
+  break:0.73
+
+Topic 1:
+  system:2.76
+  clean:2.75
+  hacking:1.27
+  iso:1.27
+  needed:1.27
+  secure:1.27
+  modify:1.27
+  persistence:1.27
+  long:1.27
+  downside:1.27
+
+Topic 2:
+  files:0.81
+  hidden volume:0.80
+  truecrypt:0.71
+  password:0.56
+  hide:0.54
+  works:0.51
+  stick:0.50
+  usb:0.50
+  volume works:0.47
+  helps:0.47
+
+Topic 3:
+  setup:2.16
+  hidden volume:0.97
+  luks:0.90
+  truecrypt volume:0.89
+  youll:0.89
+  analysed:0.89
+  option:0.89
+  open:0.89
+  decide:0.89
+  ability:0.89
+
+Topic 4:
+  hidden volume:1.18
+  password:0.68
+  truecrypt:0.67
+  works:0.64
+  veracrypt:0.63
+  files:0.61
+  linux:0.56
+  volumes:0.56
+  hope:0.55
+  hidden password:0.55
+
+K: 5, Log-Likelihood: -721.598, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  key:1.54
+  time:0.93
+  bbe ae:0.89
+  bitcoin fog:0.87
+  sig sig:0.86
+  service:0.75
+  keyserver:0.73
+  decided:0.73
+  pgp signature:0.72
+  signed:0.71
+
+Topic 1:
+  key:7.96
+  bbe ae:5.88
+  sig sig:3.14
+  bitcoin fog:3.13
+  eddiebastard:2.02
+  block:2.00
+  signature:2.00
+  gpg:2.00
+  public:2.00
+  future:1.99
+
+Topic 2:
+  zaphod:0.85
+  forums:0.74
+  captcha:0.74
+  time:0.20
+  phishing:0.18
+  great:0.18
+  url:0.18
+  message:0.18
+  key:0.18
+  good:0.14
+
+Topic 3:
+  months:4.13
+  market:4.13
+  days:4.13
+  raped:2.75
+  trust:2.75
+  road:2.75
+  test:2.75
+  darknet:2.75
+  vendors:2.75
+  withdraw:2.75
+
+Topic 4:
+  address:4.09
+  nervous:2.71
+  sm:2.71
+  bcf:2.71
+  work:1.89
+  agora:1.75
+  forum:1.32
+  verify:1.32
+  update:1.32
+  triangulate:1.32
+
+K: 5, Log-Likelihood: -7286.656, Alpha: 11.000, Beta: 1.100

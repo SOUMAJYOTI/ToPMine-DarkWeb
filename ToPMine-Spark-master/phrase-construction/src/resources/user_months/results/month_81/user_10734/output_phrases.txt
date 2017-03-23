@@ -1,0 +1,61 @@
+Topic 0:
+  busted:0.38
+  bitcoins:0.37
+  bitcoin:0.35
+  sold:0.21
+  pump:0.20
+  sell:0.20
+  price:0.19
+  funds:0.19
+  remember:0.19
+  topic:0.19
+
+Topic 1:
+  bitcoins:0.37
+  bitcoin:0.36
+  busted:0.36
+  sell:0.20
+  pump:0.20
+  sold:0.20
+  thing:0.18
+  sliced:0.18
+  bread:0.18
+  dumppump:0.18
+
+Topic 2:
+  bitcoin:0.39
+  busted:0.35
+  bitcoins:0.35
+  pump:0.21
+  sell:0.21
+  sold:0.20
+  development:0.19
+  chase:0.19
+  version:0.19
+  banking:0.19
+
+Topic 3:
+  busted:0.37
+  bitcoins:0.37
+  bitcoin:0.36
+  sold:0.21
+  sell:0.20
+  pump:0.20
+  feds:0.18
+  price:0.18
+  silkroad:0.18
+  topic:0.18
+
+Topic 4:
+  bitcoins:0.37
+  bitcoin:0.37
+  busted:0.36
+  sell:0.20
+  pump:0.20
+  sold:0.20
+  thing:0.18
+  advertise:0.18
+  dumppump:0.18
+  bitcoinsi:0.18
+
+K: 5, Log-Likelihood: -167.744, Alpha: 11.000, Beta: 1.100

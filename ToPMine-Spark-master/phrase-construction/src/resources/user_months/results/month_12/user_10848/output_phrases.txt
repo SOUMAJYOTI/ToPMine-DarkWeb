@@ -1,0 +1,61 @@
+Topic 0:
+  growing:0.77
+  bit:0.76
+  market:0.76
+  pains:0.75
+  times:0.75
+  trees faith:0.75
+  irritating:0.74
+  week:0.64
+  happy:0.52
+  xanex:0.52
+
+Topic 1:
+  bucks doesnt hurt:1.62
+  site:0.87
+  ll:0.87
+  relax:0.87
+  faith:0.87
+  wait:0.86
+  people:0.86
+  attack:0.85
+  pmchill:0.72
+  sketchysorry:0.72
+
+Topic 2:
+  bucks doesnt hurt:0.62
+  quote:0.55
+  irritating:0.54
+  pains:0.53
+  trees faith:0.53
+  times:0.53
+  market:0.53
+  bit:0.52
+  growing:0.52
+  xanex:0.49
+
+Topic 3:
+  stuff:1.01
+  fishy:1.01
+  loose:1.01
+  silkroad:1.01
+  theyve:1.01
+  happened:1.01
+  coincidence:1.01
+  localbitcoins:1.01
+  yeah:1.01
+  worried:1.01
+
+Topic 4:
+  happy:0.57
+  xanex:0.57
+  week:0.55
+  bucks doesnt hurt:0.52
+  irritating:0.48
+  trees faith:0.48
+  bit:0.48
+  times:0.48
+  growing:0.48
+  pains:0.48
+
+K: 5, Log-Likelihood: -563.179, Alpha: 11.000, Beta: 1.100

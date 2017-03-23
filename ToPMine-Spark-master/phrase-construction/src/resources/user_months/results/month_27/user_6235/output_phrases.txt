@@ -1,0 +1,61 @@
+Topic 0:
+  college:18.23
+  teachers:14.00
+  structure format college:9.33
+  study:9.33
+  literally:9.33
+  cover:6.99
+  smart people:6.35
+  education:5.92
+  half:4.66
+  chapter:4.66
+
+Topic 1:
+  power:9.33
+  classes:9.30
+  debt:9.24
+  movement:7.88
+  man:7.65
+  groups:7.36
+  radical:7.36
+  youth today future crush:5.80
+  college build debt degree:5.80
+  shit student pay check:5.80
+
+Topic 2:
+  harvard:9.29
+  rich people:9.29
+  degree:9.29
+  remember time:9.24
+  high school:9.24
+  money:8.15
+  endeavors:7.26
+  people met:6.95
+  anarchy forever motherfuckers love:6.06
+  psilocy knew fixing cars:6.06
+
+Topic 3:
+  anarchist theories:9.32
+  theories:9.32
+  mix theories:9.32
+  view:9.32
+  general:7.93
+  ideal:7.30
+  failed:7.28
+  chance:7.28
+  problem:7.28
+  failed fail:4.65
+
+Topic 4:
+  education system appalling healthcare:7.18
+  system instituting respect authority:7.18
+  sold commodities actual public:7.18
+  joke:7.17
+  school:5.78
+  anarchist:5.21
+  things:4.96
+  talking real:4.66
+  mckenna talking:4.66
+  interested:4.66
+
+K: 5, Log-Likelihood: -25443.412, Alpha: 11.000, Beta: 1.100

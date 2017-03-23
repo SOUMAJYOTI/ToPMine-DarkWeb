@@ -1,0 +1,61 @@
+Topic 0:
+  javascript:46.44
+  js:32.81
+  disabled:32.80
+  forbid:19.96
+  enable:19.88
+  browser:17.81
+  security:15.90
+  login:13.46
+  log:12.76
+  sites:11.96
+
+Topic 1:
+  life:18.39
+  state:14.01
+  drugs:7.01
+  remember:6.92
+  people:6.77
+  ross:6.26
+  weed:5.89
+  read:5.88
+  sentences:5.73
+  murder:4.86
+
+Topic 2:
+  ross:23.46
+  people:15.61
+  time:8.09
+  society:7.62
+  stay:6.34
+  yr:5.97
+  parole:5.73
+  prison:4.92
+  safe:4.57
+  real:4.30
+
+Topic 3:
+  system:7.79
+  safe:7.53
+  free:6.17
+  site:5.77
+  ruining:5.76
+  young:5.75
+  people:5.44
+  time:5.15
+  jail:5.06
+  freedom:4.37
+
+Topic 4:
+  ulbricht:45.86
+  road:32.50
+  silk:32.50
+  drugs:22.46
+  prosecutors:19.85
+  site:16.11
+  drug:14.02
+  judge:13.82
+  life:10.27
+  people:10.14
+
+K: 5, Log-Likelihood: -17976.486, Alpha: 11.000, Beta: 1.100

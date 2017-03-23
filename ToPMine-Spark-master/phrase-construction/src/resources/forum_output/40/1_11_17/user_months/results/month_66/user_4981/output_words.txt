@@ -1,0 +1,61 @@
+Topic 0:
+  btc:3.20
+  phishing:1.74
+  quote:1.70
+  threads:1.48
+  category:1.47
+  bisbury:1.38
+  dollars:1.36
+  peppered:1.34
+  type:1.34
+  sammy:1.32
+
+Topic 1:
+  distinguish:2.05
+  websites:2.05
+  genuine:2.01
+  fake:1.84
+  quote:1.70
+  nama:1.61
+  december:1.61
+  papa:1.55
+  pmhow:1.55
+  url:1.44
+
+Topic 2:
+  btc:4.98
+  phishing:2.30
+  bisbury:2.08
+  peppered:2.06
+  sammy:2.06
+  offering:2.00
+  type:1.97
+  trading:1.94
+  threads:1.92
+  category:1.88
+
+Topic 3:
+  btc:6.70
+  november:2.79
+  trading:2.07
+  life:2.06
+  type:2.01
+  offering:1.97
+  category:1.96
+  threads:1.90
+  peppered:1.89
+  sammy:1.89
+
+Topic 4:
+  site:5.70
+  fake:5.07
+  links:4.36
+  posting:3.72
+  real:3.72
+  tug:2.10
+  posted:1.74
+  asshole:1.74
+  creates:1.74
+  impersonate:1.74
+
+K: 5, Log-Likelihood: -1238.094, Alpha: 11.000, Beta: 1.100

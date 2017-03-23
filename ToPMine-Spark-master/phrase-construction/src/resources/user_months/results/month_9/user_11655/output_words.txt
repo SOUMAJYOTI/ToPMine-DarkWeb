@@ -1,0 +1,61 @@
+Topic 0:
+  forum:0.53
+  shop:0.50
+  time:0.47
+  agora:0.42
+  running:0.38
+  vendors:0.33
+  great:0.33
+  agra:0.32
+  decided:0.23
+  havent:0.23
+
+Topic 1:
+  forum:0.57
+  shop:0.45
+  time:0.44
+  agora:0.41
+  running:0.40
+  vendors:0.35
+  agra:0.35
+  great:0.35
+  interested:0.22
+  havent:0.22
+
+Topic 2:
+  forum:0.59
+  running:0.41
+  agora:0.40
+  time:0.40
+  agra:0.39
+  great:0.39
+  vendors:0.39
+  shop:0.39
+  trouble:0.20
+  fine:0.20
+
+Topic 3:
+  forum:0.59
+  shop:0.43
+  time:0.42
+  agora:0.41
+  running:0.40
+  vendors:0.36
+  great:0.36
+  agra:0.36
+  people:0.21
+  complain:0.21
+
+Topic 4:
+  forum:0.72
+  agra:0.57
+  great:0.57
+  vendors:0.56
+  running:0.42
+  agora:0.37
+  time:0.27
+  richard:0.25
+  strong:0.25
+  extremely:0.25
+
+K: 5, Log-Likelihood: -348.313, Alpha: 11.000, Beta: 1.100

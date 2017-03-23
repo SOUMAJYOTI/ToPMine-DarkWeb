@@ -1,0 +1,61 @@
+Topic 0:
+  command:1.19
+  god:0.83
+  obey:0.40
+  delight:0.40
+  perfect:0.40
+  pulsating:0.40
+  reflects:0.40
+  love:0.40
+  filthiest:0.40
+  impossible:0.40
+
+Topic 1:
+  command:1.11
+  god:0.80
+  lewis:0.41
+  creatures:0.41
+  choose:0.40
+  reflects:0.40
+  bright:0.40
+  pulsating:0.40
+  perfectly:0.40
+  quotes:0.40
+
+Topic 2:
+  command:1.14
+  god:0.80
+  goddess:0.40
+  idealistic:0.40
+  feeblest:0.40
+  scale:0.40
+  choose:0.40
+  long:0.40
+  good:0.40
+  stainless:0.40
+
+Topic 3:
+  command:1.29
+  god:0.81
+  resurrecting:0.40
+  immortal:0.40
+  radiant:0.40
+  filthiest:0.40
+  lewis:0.40
+  gods:0.40
+  mind:0.40
+  thread:0.40
+
+Topic 4:
+  command:1.26
+  god:0.76
+  mirror:0.41
+  love:0.40
+  ye:0.40
+  smaller:0.40
+  creature:0.40
+  stainless:0.40
+  parts:0.40
+  joy:0.40
+
+K: 5, Log-Likelihood: -393.181, Alpha: 11.000, Beta: 1.100

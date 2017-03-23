@@ -1,0 +1,61 @@
+Topic 0:
+  burn:2.39
+  advised:2.39
+  helping:2.39
+  care:2.39
+  telling:2.39
+  fuck le:2.39
+  community:2.39
+  advice:2.39
+  interested:2.39
+  wrong:2.39
+
+Topic 1:
+  le:11.29
+  admins:8.05
+  call fbi:5.78
+  server:4.09
+  interest:3.98
+  weapons:3.98
+  identified:3.98
+  idd:3.98
+  servers investigation:3.98
+  computers:3.98
+
+Topic 2:
+  market:8.31
+  onion address:6.04
+  site:5.10
+  big deal preaching choir:5.10
+  risking convince join profit:5.10
+  shit:4.78
+  quote:4.00
+  db fucking:4.00
+  kiddie:4.00
+  control:4.00
+
+Topic 3:
+  people:5.25
+  good:5.11
+  whyusheep:4.65
+  stay:3.92
+  mate:3.92
+  hear:3.92
+  safe:3.92
+  respond:3.59
+  discuss:3.58
+  quote sorrymario february:3.57
+
+Topic 4:
+  profile:4.86
+  online:4.86
+  pills:4.86
+  thread:4.86
+  pandora:4.86
+  markets:4.86
+  order:3.38
+  vendor:3.36
+  forums:3.23
+  vendors:3.05
+
+K: 5, Log-Likelihood: -4860.681, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  access:11.97
+  wifi:6.87
+  routers:6.76
+  point:5.96
+  connect:5.78
+  twin:5.16
+  time:4.98
+  connected:4.57
+  dont:4.41
+  hotspot:4.29
+
+Topic 1:
+  whonix:10.19
+  security:9.70
+  years:9.57
+  system:9.49
+  qubes:8.95
+  inside:6.74
+  gateway:6.54
+  couple:5.10
+  black:4.75
+  good:4.59
+
+Topic 2:
+  wpa:14.27
+  connect:12.29
+  key:6.72
+  card:6.06
+  neighbours:5.89
+  twin:5.81
+  ssid:5.27
+  remember:5.14
+  open:5.04
+  code:4.92
+
+Topic 3:
+  connect:24.84
+  evil:22.99
+  twin:19.98
+  wifi:18.55
+  router:17.32
+  wpa:9.83
+  captive:8.94
+  automatically:8.72
+  ssid:8.65
+  wps:6.71
+
+Topic 4:
+  whonix:13.66
+  good:10.08
+  vm:8.42
+  running:6.89
+  tor:5.79
+  bitcoin:5.39
+  laptops:4.73
+  dont:4.64
+  gb:4.04
+  main:4.04
+
+K: 5, Log-Likelihood: -12275.297, Alpha: 11.000, Beta: 1.100

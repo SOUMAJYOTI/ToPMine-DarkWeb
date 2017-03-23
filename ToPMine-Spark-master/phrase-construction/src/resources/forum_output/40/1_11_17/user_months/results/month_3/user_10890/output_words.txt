@@ -1,0 +1,61 @@
+Topic 0:
+  tor:23.16
+  network:15.94
+  privoxy:10.99
+  localhost:9.99
+  forward:9.49
+  privily:8.93
+  port:7.99
+  onion:6.92
+  start:6.26
+  resources:5.99
+
+Topic 1:
+  order:8.22
+  tails:6.81
+  ports:5.82
+  february:5.28
+  quote:4.75
+  great:4.52
+  set:3.94
+  default:3.85
+  client:3.85
+  local:3.84
+
+Topic 2:
+  market:19.22
+  forum:9.72
+  good:8.12
+  account:5.94
+  premature:5.90
+  join:5.73
+  admins:5.28
+  team:5.16
+  reported:4.97
+  issues:4.94
+
+Topic 3:
+  february:9.92
+  albert:9.52
+  dont:8.99
+  sunwu:8.41
+  quote:7.22
+  time:6.99
+  market:6.27
+  coins:6.09
+  marketplace:4.93
+  lot:4.93
+
+Topic 4:
+  escrow:13.79
+  market:11.20
+  vendor:9.13
+  people:8.12
+  sr:5.48
+  sw:5.05
+  site:4.99
+  markets:4.70
+  team:4.44
+  understand:3.33
+
+K: 5, Log-Likelihood: -10893.592, Alpha: 11.000, Beta: 1.100

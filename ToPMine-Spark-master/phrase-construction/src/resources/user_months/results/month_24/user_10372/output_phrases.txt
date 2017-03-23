@@ -1,0 +1,61 @@
+Topic 0:
+  wired:1.49
+  nics:0.63
+  vpnium:0.63
+  spoof:0.63
+  moment:0.63
+  mind:0.63
+  country:0.63
+  gov:0.63
+  preferrably:0.63
+  tap:0.63
+
+Topic 1:
+  mac:1.05
+  internal wifi:0.55
+  good:0.53
+  raises:0.52
+  swarm:0.52
+  extra mile:0.46
+  quote:0.45
+  adding:0.45
+  routines:0.45
+  area:0.45
+
+Topic 2:
+  internal wifi:0.56
+  good:0.51
+  mac:0.48
+  extra mile:0.39
+  external:0.38
+  alfa:0.38
+  suspicion:0.38
+  swarm:0.37
+  raises:0.37
+  onionshop:0.35
+
+Topic 3:
+  good:1.15
+  internal wifi:1.01
+  onionshop:0.62
+  raise:0.53
+  point:0.53
+  coffee:0.53
+  removing:0.53
+  nice:0.53
+  card:0.53
+  puts:0.53
+
+Topic 4:
+  wired:0.62
+  adapter:0.46
+  webcam:0.46
+  mac:0.38
+  blocks:0.33
+  dns:0.33
+  crime:0.33
+  bridged:0.33
+  dont:0.33
+  cidr:0.33
+
+K: 5, Log-Likelihood: -588.757, Alpha: 11.000, Beta: 1.100

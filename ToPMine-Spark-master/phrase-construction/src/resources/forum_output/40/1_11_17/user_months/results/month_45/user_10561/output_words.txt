@@ -1,0 +1,61 @@
+Topic 0:
+  june:6.49
+  deposit:5.97
+  needed:5.60
+  pay:5.60
+  bank:5.57
+  hardjam:3.31
+  making:3.10
+  websites:3.10
+  easy:3.04
+  localbitcoins:2.87
+
+Topic 1:
+  btc:12.86
+  coinffeine:9.55
+  bankiter:5.86
+  spanish:5.86
+  invest:3.86
+  decided:3.86
+  corporations:3.86
+  capital:3.86
+  financial:3.86
+  hardjam:2.42
+
+Topic 2:
+  mixing:3.45
+  coins:3.38
+  exchange:3.33
+  dont:2.74
+  matter:2.46
+  tambourine:1.75
+  mixed:1.73
+  pretty:1.73
+  shouldn:1.73
+  quote:1.70
+
+Topic 3:
+  harm:3.81
+  discussion:3.81
+  items:3.80
+  general:1.82
+  rule:1.82
+  includes:1.82
+  topics:1.82
+  prohibited:1.82
+  limited:1.82
+  designed:1.82
+
+Topic 4:
+  buy:2.51
+  hardjam:1.56
+  selling:1.45
+  scenario:1.45
+  bitcoin:1.44
+  quote:1.19
+  secure:1.10
+  talking:1.09
+  june:1.07
+  buying:1.03
+
+K: 5, Log-Likelihood: -2260.401, Alpha: 11.000, Beta: 1.100

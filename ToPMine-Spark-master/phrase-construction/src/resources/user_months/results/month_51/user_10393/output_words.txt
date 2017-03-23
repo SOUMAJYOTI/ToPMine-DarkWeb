@@ -1,0 +1,61 @@
+Topic 0:
+  laptop:5.50
+  tails:3.57
+  fine:2.34
+  booted:2.10
+  thing:1.95
+  issue:1.88
+  password:1.75
+  older:1.60
+  worked:1.35
+  vista:1.17
+
+Topic 1:
+  tails:3.93
+  laptop:3.90
+  fine:3.64
+  issue:1.99
+  password:1.89
+  booted:1.73
+  thing:1.64
+  older:1.42
+  vista:1.19
+  good:1.07
+
+Topic 2:
+  keyboard:7.73
+  layout:7.69
+  selected:3.71
+  greeter:3.70
+  english:3.70
+  tails:2.94
+  quote:2.89
+  area:1.74
+  icon:1.74
+  notification:1.74
+
+Topic 3:
+  tails:5.60
+  laptop:3.57
+  fine:3.31
+  password:1.83
+  thing:1.78
+  issue:1.75
+  booted:1.56
+  older:1.37
+  vista:1.14
+  worked:1.11
+
+Topic 4:
+  tails:4.95
+  keyboard:1.60
+  password:1.23
+  issue:1.05
+  quote:0.98
+  work:0.95
+  laptop:0.95
+  persistence:0.92
+  july:0.87
+  good:0.73
+
+K: 5, Log-Likelihood: -1275.768, Alpha: 11.000, Beta: 1.100

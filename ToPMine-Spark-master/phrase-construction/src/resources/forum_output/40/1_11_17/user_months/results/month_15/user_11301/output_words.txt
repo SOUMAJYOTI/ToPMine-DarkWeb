@@ -1,0 +1,61 @@
+Topic 0:
+  friend:0.66
+  pay:0.65
+  bitch:0.51
+  regret:0.50
+  visit:0.50
+  send:0.41
+  money:0.41
+  swam:0.40
+  dont:0.40
+  site:0.38
+
+Topic 1:
+  site:0.62
+  pay:0.61
+  friend:0.59
+  money:0.40
+  swam:0.40
+  dont:0.40
+  send:0.40
+  visit:0.36
+  regret:0.36
+  bitch:0.33
+
+Topic 2:
+  site:0.70
+  pay:0.58
+  friend:0.57
+  send:0.40
+  swam:0.40
+  money:0.39
+  dont:0.39
+  visit:0.34
+  regret:0.34
+  bitch:0.30
+
+Topic 3:
+  site:0.92
+  friend:0.54
+  pay:0.53
+  dont:0.39
+  money:0.39
+  send:0.39
+  swam:0.39
+  regret:0.29
+  visit:0.29
+  bitch:0.25
+
+Topic 4:
+  friend:0.64
+  pay:0.63
+  bitch:0.60
+  visit:0.51
+  regret:0.51
+  swam:0.42
+  dont:0.42
+  money:0.41
+  send:0.41
+  site:0.37
+
+K: 5, Log-Likelihood: -390.837, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  require:0.20
+  load:0.20
+  general:0.20
+  pops:0.18
+  link:0.18
+  goggle:0.18
+  ve:0.18
+  clearnet:0.18
+  search:0.18
+  referred:0.18
+
+Topic 1:
+  general:0.20
+  require:0.20
+  load:0.20
+  link:0.18
+  pops:0.18
+  referred:0.18
+  goggle:0.18
+  search:0.18
+  clearnet:0.18
+  ve:0.18
+
+Topic 2:
+  load:0.20
+  require:0.20
+  general:0.20
+  pm:0.18
+  yup:0.18
+  goggle:0.18
+  search:0.18
+  pops:0.18
+  clearnet:0.18
+  link:0.18
+
+Topic 3:
+  general:0.20
+  load:0.20
+  require:0.20
+  pm:0.18
+  yup:0.18
+  referred:0.18
+  ve:0.18
+  clearnet:0.18
+  search:0.18
+  goggle:0.18
+
+Topic 4:
+  load:0.20
+  require:0.20
+  general:0.20
+  clearnet:0.18
+  ve:0.18
+  search:0.18
+  goggle:0.18
+  link:0.18
+  pops:0.18
+  referred:0.18
+
+K: 5, Log-Likelihood: -30.684, Alpha: 11.000, Beta: 1.100

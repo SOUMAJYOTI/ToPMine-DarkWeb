@@ -1,0 +1,51 @@
+Topic 0:
+  waste:0.00
+  btc:0.00
+  arrived:0.00
+  money:0.00
+  buying:0.00
+  time:0.00
+  check:0.00
+  bro:0.00
+
+Topic 1:
+  waste:0.00
+  btc:0.00
+  arrived:0.00
+  money:0.00
+  buying:0.00
+  time:0.00
+  check:0.00
+  bro:0.00
+
+Topic 2:
+  waste:0.00
+  btc:0.00
+  arrived:0.00
+  money:0.00
+  buying:0.00
+  time:0.00
+  check:0.00
+  bro:0.00
+
+Topic 3:
+  waste:0.00
+  btc:0.00
+  arrived:0.00
+  money:0.00
+  buying:0.00
+  time:0.00
+  check:0.00
+  bro:0.00
+
+Topic 4:
+  waste:0.00
+  btc:0.00
+  arrived:0.00
+  money:0.00
+  buying:0.00
+  time:0.00
+  check:0.00
+  bro:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

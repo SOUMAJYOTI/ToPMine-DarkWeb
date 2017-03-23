@@ -1,0 +1,61 @@
+Topic 0:
+  agora:9.54
+  silk:4.95
+  users:2.40
+  urls:2.23
+  earn:1.95
+  access:1.95
+  universal:1.95
+  work:1.68
+  fuck:1.67
+  running:1.47
+
+Topic 1:
+  tor:4.78
+  bug:4.70
+  market:4.66
+  design:3.54
+  hidden:2.94
+  services:2.94
+  servers:2.94
+  network:2.93
+  heartbleed:2.82
+  pirate:2.78
+
+Topic 2:
+  changing:10.16
+  quote:6.71
+  april:6.57
+  curls:5.97
+  markets:4.95
+  sr:4.63
+  arrogant:4.50
+  bazaar:4.35
+  remember:4.35
+  claim:4.34
+
+Topic 3:
+  sr:14.83
+  problems:5.81
+  april:5.15
+  amquote:3.71
+  donkeysausage:3.71
+  side:3.36
+  good:2.90
+  arrogance:2.82
+  continue:2.81
+  surprise:2.80
+
+Topic 4:
+  quote:3.53
+  items:3.33
+  click:2.98
+  changed:2.89
+  april:2.75
+  stupid:2.33
+  finally:2.03
+  sr:1.94
+  vulnerable:1.71
+  curls:1.46
+
+K: 5, Log-Likelihood: -2829.435, Alpha: 11.000, Beta: 1.100

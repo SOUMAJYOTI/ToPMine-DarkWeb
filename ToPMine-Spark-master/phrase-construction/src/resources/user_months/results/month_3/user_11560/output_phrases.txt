@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:4.04
+  market:3.82
+  pandora:3.15
+  issues:3.13
+  statistics:2.26
+  directory:2.26
+  server:2.26
+  yesterday:2.26
+  hope:2.26
+  scraped:2.26
+
+Topic 1:
+  order:4.79
+  hour:4.61
+  creator:3.76
+  fact:3.76
+  money:3.76
+  advantage:3.76
+  banned:3.76
+  days:3.76
+  escrow:3.76
+  scammers:3.76
+
+Topic 2:
+  markets:5.34
+  bought:4.71
+  advice:4.64
+  moment:3.89
+  review:3.70
+  sceptical:3.70
+  incorrect:2.29
+  proevo:2.29
+  advised:2.29
+  ids:2.29
+
+Topic 3:
+  forum:4.59
+  withdraw:4.58
+  btc:4.56
+  problem:3.77
+  couple:3.76
+  pandora:2.68
+  item:2.24
+  awaiting:2.24
+  improvements:2.24
+  free:2.24
+
+Topic 4:
+  safe:4.54
+  darknet:3.78
+  slipping:3.76
+  em:3.76
+  checking:3.76
+  pooof:3.76
+  presidente:3.76
+  el:3.76
+  voodoo:3.76
+  lot:3.76
+
+K: 5, Log-Likelihood: -3086.018, Alpha: 11.000, Beta: 1.100

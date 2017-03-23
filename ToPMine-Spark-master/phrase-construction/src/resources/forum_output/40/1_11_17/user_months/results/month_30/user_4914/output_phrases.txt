@@ -1,0 +1,61 @@
+Topic 0:
+  great feedback:0.81
+  phone:0.78
+  localbtc:0.55
+  wtf:0.28
+  hitting:0.28
+  god:0.28
+  blew:0.28
+  scammers:0.28
+  hard:0.28
+  money:0.28
+
+Topic 1:
+  phone:0.74
+  great feedback:0.70
+  localbtc:0.50
+  christmas:0.30
+  yeah:0.30
+  scammers:0.30
+  hard:0.30
+  god:0.30
+  money:0.30
+  blew:0.30
+
+Topic 2:
+  phone:0.91
+  great feedback:0.88
+  localbtc:0.58
+  avoid:0.28
+  scammed:0.28
+  thing:0.28
+  forums:0.28
+  person:0.28
+  reported:0.28
+  call:0.28
+
+Topic 3:
+  phone:0.83
+  great feedback:0.80
+  localbtc:0.55
+  money:0.28
+  hitting:0.28
+  blew:0.28
+  scammers:0.28
+  god:0.28
+  yeah:0.28
+  hard:0.28
+
+Topic 4:
+  great feedback:0.96
+  phone:0.90
+  localbtc:0.60
+  figured:0.29
+  localbtc trader:0.29
+  escrow:0.29
+  moneypaks:0.29
+  fraud:0.29
+  history:0.29
+  big:0.29
+
+K: 5, Log-Likelihood: -327.898, Alpha: 11.000, Beta: 1.100

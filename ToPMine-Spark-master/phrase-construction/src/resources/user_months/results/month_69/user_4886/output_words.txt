@@ -1,0 +1,61 @@
+Topic 0:
+  lbc:0.78
+  cash:0.62
+  wallet:0.58
+  account:0.40
+  send:0.40
+  person:0.20
+  people:0.20
+  spending:0.20
+  extra:0.20
+  neededthanks:0.20
+
+Topic 1:
+  lbc:0.75
+  wallet:0.62
+  cash:0.61
+  send:0.41
+  account:0.40
+  save:0.20
+  person:0.20
+  curious:0.20
+  luc:0.20
+  spending:0.20
+
+Topic 2:
+  lbc:0.80
+  cash:0.60
+  wallet:0.60
+  account:0.40
+  send:0.39
+  curious:0.20
+  extra:0.20
+  spending:0.20
+  wash:0.20
+  neededthanks:0.20
+
+Topic 3:
+  lbc:0.84
+  wallet:0.61
+  cash:0.59
+  account:0.40
+  send:0.40
+  save:0.20
+  mixing:0.20
+  luc:0.20
+  market:0.20
+  ip:0.20
+
+Topic 4:
+  lbc:0.83
+  wallet:0.60
+  cash:0.59
+  account:0.40
+  send:0.40
+  buying:0.20
+  luc:0.20
+  market:0.20
+  ip:0.20
+  fees:0.20
+
+K: 5, Log-Likelihood: -84.058, Alpha: 11.000, Beta: 1.100

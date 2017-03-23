@@ -1,0 +1,61 @@
+Topic 0:
+  tang:0.65
+  dash:0.43
+  seedofchaos:0.39
+  hodling:0.39
+  paycoins:0.39
+  january eyes:0.39
+  moon:0.36
+  quote:0.35
+  january:0.35
+  shadow:0.31
+
+Topic 1:
+  tang:0.56
+  dash:0.47
+  hodling:0.36
+  paycoins:0.36
+  seedofchaos:0.36
+  january eyes:0.36
+  moon:0.36
+  january:0.34
+  quote:0.34
+  ltc:0.33
+
+Topic 2:
+  dash:0.51
+  tang:0.47
+  shadow:0.34
+  btc:0.34
+  ltc:0.34
+  moon:0.34
+  january:0.34
+  quote:0.33
+  hodling:0.33
+  january eyes:0.33
+
+Topic 3:
+  dash:0.61
+  btc:0.37
+  ltc:0.37
+  shadow:0.37
+  tang:0.34
+  january:0.33
+  quote:0.31
+  moon:0.30
+  wanted:0.30
+  coin:0.30
+
+Topic 4:
+  dash:0.52
+  tang:0.49
+  ltc:0.34
+  shadow:0.34
+  btc:0.34
+  january:0.34
+  moon:0.34
+  january eyes:0.34
+  paycoins:0.34
+  quote:0.34
+
+K: 5, Log-Likelihood: -209.202, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  server:0.24
+  compromise:0.16
+  grsec:0.16
+  isolation:0.16
+  dont:0.16
+  web:0.16
+  virtual:0.16
+  fake:0.08
+  tor:0.08
+  machines:0.08
+
+Topic 1:
+  server:0.24
+  virtual:0.16
+  grsec:0.16
+  dont:0.16
+  isolation:0.16
+  compromise:0.16
+  web:0.16
+  point:0.08
+  interested:0.08
+  nice:0.08
+
+Topic 2:
+  server:0.24
+  isolation:0.16
+  web:0.16
+  virtual:0.16
+  dont:0.16
+  compromise:0.16
+  grsec:0.16
+  swam:0.08
+  support:0.08
+  forum:0.08
+
+Topic 3:
+  server:0.24
+  web:0.16
+  compromise:0.16
+  dont:0.16
+  virtual:0.16
+  isolation:0.16
+  grsec:0.16
+  nice:0.08
+  movement:0.08
+  posts:0.08
+
+Topic 4:
+  server:0.24
+  grsec:0.16
+  compromise:0.16
+  dont:0.16
+  isolation:0.16
+  virtual:0.16
+  web:0.16
+  anonymously:0.08
+  mode:0.08
+  pay:0.08
+
+K: 5, Log-Likelihood: -95.408, Alpha: 11.000, Beta: 1.100

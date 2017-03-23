@@ -1,0 +1,61 @@
+Topic 0:
+  server:17.96
+  phone:11.72
+  communication:9.96
+  price:9.55
+  set:8.43
+  service:6.76
+  connection:5.96
+  gb:5.96
+  phones:5.96
+  internet:5.82
+
+Topic 1:
+  good:4.90
+  theme:4.75
+  days:4.40
+  fake:3.85
+  min:3.18
+  wifi:3.17
+  change:2.84
+  link:2.78
+  coupon:2.67
+  remember:2.17
+
+Topic 2:
+  tv:10.21
+  thing:8.19
+  theme:8.18
+  free:7.95
+  find:6.89
+  great:5.57
+  change:4.02
+  download:3.89
+  love:3.80
+  eu:3.76
+
+Topic 3:
+  dns:6.23
+  team:5.54
+  root:4.38
+  work:4.11
+  gamesome:3.95
+  theme:3.89
+  works:3.88
+  drivers:3.55
+  making:3.45
+  kali:3.40
+
+Topic 4:
+  coupon:16.07
+  code:13.50
+  items:11.70
+  system:8.74
+  coupons:8.22
+  expensive:8.08
+  check:6.77
+  digits:5.97
+  family:5.97
+  gs:5.97
+
+K: 5, Log-Likelihood: -8211.258, Alpha: 11.000, Beta: 1.100

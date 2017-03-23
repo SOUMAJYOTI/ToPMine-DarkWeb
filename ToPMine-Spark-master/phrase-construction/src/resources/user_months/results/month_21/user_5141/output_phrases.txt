@@ -1,0 +1,61 @@
+Topic 0:
+  dont:0.14
+  understand:0.14
+  europe:0.14
+  domestic:0.14
+  grateful:0.14
+  uk:0.14
+  confirm:0.14
+  logged:0.14
+  clarify:0.14
+  admin:0.14
+
+Topic 1:
+  understand:0.14
+  dont:0.14
+  admin:0.14
+  uk:0.14
+  clarify:0.14
+  grateful:0.14
+  confirm:0.14
+  logged:0.14
+  europe:0.14
+  domestic:0.14
+
+Topic 2:
+  confirm:0.14
+  domestic:0.14
+  grateful:0.14
+  dont:0.14
+  understand:0.14
+  admin:0.14
+  uk:0.14
+  logged:0.14
+  clarify:0.14
+  europe:0.14
+
+Topic 3:
+  admin:0.14
+  logged:0.14
+  clarify:0.14
+  uk:0.14
+  confirm:0.14
+  domestic:0.14
+  europe:0.14
+  grateful:0.14
+  understand:0.14
+  dont:0.14
+
+Topic 4:
+  europe:0.14
+  clarify:0.14
+  logged:0.14
+  grateful:0.14
+  confirm:0.14
+  uk:0.14
+  domestic:0.14
+  admin:0.14
+  dont:0.14
+  understand:0.14
+
+K: 5, Log-Likelihood: -20.351, Alpha: 11.000, Beta: 1.100

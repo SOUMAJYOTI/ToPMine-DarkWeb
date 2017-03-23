@@ -1,0 +1,61 @@
+Topic 0:
+  quote:1.92
+  security:0.86
+  secrets:0.58
+  existing:0.41
+  wind:0.40
+  change:0.40
+  gain:0.40
+  thought:0.40
+  systems:0.40
+  model:0.40
+
+Topic 1:
+  quote:1.80
+  security:0.94
+  secrets:0.60
+  gain:0.40
+  change:0.40
+  existing:0.40
+  model:0.40
+  day:0.40
+  find:0.40
+  systems:0.40
+
+Topic 2:
+  quote:1.91
+  security:0.99
+  secrets:0.59
+  find:0.40
+  systems:0.40
+  day:0.40
+  things:0.40
+  gain:0.40
+  thought:0.40
+  wind:0.40
+
+Topic 3:
+  quote:1.55
+  security:1.13
+  secrets:0.63
+  wind:0.41
+  model:0.41
+  things:0.40
+  thought:0.40
+  day:0.40
+  find:0.40
+  systems:0.40
+
+Topic 4:
+  quote:1.82
+  security:1.07
+  secrets:0.60
+  change:0.40
+  things:0.40
+  find:0.40
+  day:0.40
+  thought:0.40
+  existing:0.40
+  systems:0.40
+
+K: 5, Log-Likelihood: -799.112, Alpha: 11.000, Beta: 1.100

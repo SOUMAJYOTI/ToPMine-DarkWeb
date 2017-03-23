@@ -1,0 +1,61 @@
+Topic 0:
+  backopy:3.60
+  bmr:3.47
+  great:3.27
+  market:2.25
+  loved:1.53
+  memories:1.16
+  black:1.15
+  dont:1.11
+  good:1.01
+  man:1.01
+
+Topic 1:
+  staff:2.86
+  good:2.72
+  sr:2.68
+  future:2.18
+  great:2.15
+  dpr:2.15
+  backopy:2.11
+  bmr:2.10
+  defcon:1.81
+  public:1.81
+
+Topic 2:
+  pandora:3.75
+  bmr:3.15
+  agora:2.61
+  backopy:2.32
+  site:1.88
+  lot:1.62
+  picking:1.43
+  loved:1.24
+  slow:1.14
+  people:1.10
+
+Topic 3:
+  bmr:4.19
+  backopy:2.57
+  good:1.92
+  market:1.61
+  quote:1.48
+  great:1.21
+  amsterdam:1.19
+  utopia:1.13
+  markets:1.12
+  uplier:1.11
+
+Topic 4:
+  bmr:4.10
+  backopy:3.40
+  market:1.55
+  quote:1.52
+  good:1.42
+  swim:1.12
+  dont:1.09
+  community:0.99
+  pretty:0.97
+  february:0.95
+
+K: 5, Log-Likelihood: -2241.627, Alpha: 11.000, Beta: 1.100

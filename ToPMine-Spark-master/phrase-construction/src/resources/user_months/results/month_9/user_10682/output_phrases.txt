@@ -1,0 +1,61 @@
+Topic 0:
+  good:0.08
+  remember:0.08
+  deal:0.08
+  feedback:0.08
+  listings:0.08
+  quaaludes:0.08
+  silk:0.08
+  guess:0.08
+  real:0.08
+  road:0.08
+
+Topic 1:
+  real:0.08
+  silk:0.08
+  wondering:0.08
+  movie:0.08
+  guess:0.08
+  quaaludes:0.08
+  interest:0.08
+  deal:0.08
+  experience:0.08
+  feedback:0.08
+
+Topic 2:
+  road:0.08
+  tub:0.08
+  silk:0.08
+  experience:0.08
+  remember:0.08
+  real:0.08
+  movie:0.08
+  interest:0.08
+  listings:0.08
+  guess:0.08
+
+Topic 3:
+  road:0.08
+  good:0.08
+  piqued:0.08
+  movie:0.08
+  wondering:0.08
+  guess:0.08
+  feedback:0.08
+  interest:0.08
+  listings:0.08
+  experience:0.08
+
+Topic 4:
+  tub:0.08
+  wondering:0.08
+  piqued:0.08
+  feedback:0.08
+  listings:0.08
+  good:0.08
+  interest:0.08
+  quaaludes:0.08
+  movie:0.08
+  remember:0.08
+
+K: 5, Log-Likelihood: -18.207, Alpha: 11.000, Beta: 1.100

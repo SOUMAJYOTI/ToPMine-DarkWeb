@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:2.36
+  laptop:1.94
+  encrusted:1.92
+  airgapped:1.90
+  messages:1.15
+  ross:1.10
+  working:1.01
+  people:0.98
+  good:0.95
+  insisted:0.94
+
+Topic 1:
+  key:23.14
+  message:13.22
+  public:9.59
+  forum:8.80
+  create:8.43
+  friend:7.90
+  myoldfriend:6.64
+  send:6.51
+  encrypted:6.23
+  account:6.21
+
+Topic 2:
+  message:15.64
+  key:11.77
+  encrypted:7.66
+  public:5.86
+  signed:5.45
+  pgp:5.37
+  venue:5.04
+  forum:4.78
+  send:4.20
+  create:3.82
+
+Topic 3:
+  keys:9.20
+  free:8.85
+  create:7.38
+  post:6.48
+  march:6.15
+  agreed:5.07
+  accounts:4.89
+  quote:4.82
+  good:4.13
+  idea:3.88
+
+Topic 4:
+  key:14.80
+  message:8.94
+  create:7.82
+  forum:6.08
+  myoldfriend:5.90
+  encrypted:5.63
+  public:5.50
+  free:4.02
+  pgp:3.56
+  conversation:3.47
+
+K: 5, Log-Likelihood: -6081.460, Alpha: 11.000, Beta: 1.100

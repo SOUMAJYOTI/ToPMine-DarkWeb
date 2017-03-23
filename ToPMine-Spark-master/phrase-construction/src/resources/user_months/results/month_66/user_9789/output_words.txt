@@ -1,0 +1,61 @@
+Topic 0:
+  dont:0.83
+  vendors:0.59
+  true:0.40
+  credit:0.40
+  website:0.40
+  appreciated:0.40
+  easy:0.40
+  advice:0.40
+  trust:0.40
+  btci:0.40
+
+Topic 1:
+  dont:0.83
+  vendors:0.58
+  experiences:0.40
+  peoples:0.40
+  btc:0.40
+  trading:0.40
+  kindly:0.40
+  web:0.40
+  appreciated:0.40
+  advice:0.40
+
+Topic 2:
+  dont:0.77
+  vendors:0.61
+  things:0.40
+  talk:0.40
+  kindly:0.40
+  general:0.40
+  btc:0.40
+  website:0.40
+  prepaid:0.40
+  credit:0.40
+
+Topic 3:
+  dont:0.80
+  vendors:0.61
+  read:0.40
+  peoples:0.40
+  credit:0.40
+  easy:0.40
+  web:0.40
+  trust:0.40
+  moneypaktobitcoin:0.40
+  problem:0.40
+
+Topic 4:
+  dont:0.78
+  vendors:0.61
+  trust:0.40
+  general:0.40
+  cards:0.40
+  btci:0.40
+  prepaid:0.40
+  easy:0.40
+  smartest:0.40
+  experiences:0.40
+
+K: 5, Log-Likelihood: -205.082, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  butt:6.59
+  time:3.78
+  ur:3.29
+  account:3.23
+  july:2.96
+  coins:2.93
+  bitcoin:2.37
+  hub:2.29
+  buy:2.13
+  phil:1.96
+
+Topic 1:
+  bitcoin:9.11
+  fat:6.22
+  phil:5.81
+  coins:5.67
+  july:4.89
+  fog:4.34
+  helix:3.81
+  send:3.73
+  hub:3.73
+  mixing:3.71
+
+Topic 2:
+  bitcoins:5.08
+  buy:4.39
+  question:2.40
+  cash:2.05
+  email:1.98
+  lbc:1.93
+  atm:1.82
+  purchase:1.65
+  tumble:1.59
+  clearnet:1.33
+
+Topic 3:
+  btc:8.55
+  pay:6.62
+  people:6.37
+  paid:5.81
+  buying:4.01
+  paying:3.84
+  extra:3.84
+  forums:3.84
+  scammed:3.84
+  middle:3.83
+
+Topic 4:
+  buy:5.61
+  lbc:3.66
+  coins:2.37
+  buying:2.03
+  time:1.75
+  irl:1.15
+  wallet:1.00
+  pay:0.96
+  trade:0.91
+  mark:0.84
+
+K: 5, Log-Likelihood: -3307.983, Alpha: 11.000, Beta: 1.100

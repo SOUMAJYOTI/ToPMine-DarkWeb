@@ -1,0 +1,61 @@
+Topic 0:
+  key:28.61
+  gpg:15.78
+  message:13.18
+  public:12.75
+  file:11.03
+  select:10.37
+  enter:10.16
+  command:10.13
+  expunged:9.18
+  code:8.44
+
+Topic 1:
+  secure:11.97
+  laptop:11.97
+  phone:9.97
+  encrypted:8.65
+  chat:7.97
+  time:6.95
+  mail:6.08
+  smartphone:5.97
+  communicate:5.97
+  pgp:5.94
+
+Topic 2:
+  decrypt:2.72
+  gpg:2.47
+  messages:2.26
+  text:1.96
+  step:1.84
+  encrypting:1.54
+  tutorial:1.37
+  list:1.31
+  link:1.25
+  time:1.23
+
+Topic 3:
+  key:22.94
+  code:16.25
+  select:16.14
+  user:12.86
+  file:9.74
+  command:8.80
+  trust:7.09
+  gpg:6.91
+  message:6.73
+  public:6.66
+
+Topic 4:
+  tails:7.35
+  mac:6.93
+  usb:6.91
+  quote:6.02
+  running:4.89
+  gog:4.59
+  installed:4.01
+  march:3.87
+  decrypt:3.10
+  doesnt:2.89
+
+K: 5, Log-Likelihood: -13139.827, Alpha: 11.000, Beta: 1.100

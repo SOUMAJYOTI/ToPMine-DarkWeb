@@ -1,0 +1,61 @@
+Topic 0:
+  support:0.83
+  wrong:0.34
+  hey:0.34
+  glad:0.34
+  hit:0.33
+  implementing:0.33
+  people:0.33
+  competent:0.33
+  cheersos:0.33
+  pretty:0.33
+
+Topic 1:
+  wrong:0.45
+  add:0.40
+  support:0.40
+  login:0.29
+  time:0.29
+  password:0.29
+  troubles:0.28
+  hey:0.28
+  glad:0.28
+  btc:0.28
+
+Topic 2:
+  add:0.61
+  wrong:0.46
+  password:0.28
+  login:0.28
+  support:0.28
+  time:0.28
+  btc:0.28
+  btc addresses:0.28
+  onionshop:0.28
+  addressand:0.27
+
+Topic 3:
+  add:0.48
+  wrong:0.44
+  support:0.34
+  time:0.28
+  password:0.28
+  login:0.28
+  onionshop:0.28
+  btc addresses:0.28
+  btc:0.28
+  troubles:0.27
+
+Topic 4:
+  wrong:0.50
+  add:0.46
+  support:0.34
+  login:0.30
+  password:0.30
+  time:0.29
+  troubles:0.27
+  onionshop:0.27
+  btc addresses:0.27
+  btc:0.27
+
+K: 5, Log-Likelihood: -315.570, Alpha: 11.000, Beta: 1.100

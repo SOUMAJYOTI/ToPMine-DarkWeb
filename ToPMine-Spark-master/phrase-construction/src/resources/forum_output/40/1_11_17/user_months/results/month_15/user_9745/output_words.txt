@@ -1,0 +1,61 @@
+Topic 0:
+  freezer:1.08
+  long:0.97
+  lsd:0.84
+  good:0.79
+  celcius:0.41
+  gf:0.41
+  times:0.41
+  condition:0.41
+  fucking:0.41
+  year:0.41
+
+Topic 1:
+  long:0.97
+  freezer:0.96
+  good:0.93
+  lsd:0.80
+  ll:0.42
+  years:0.42
+  suggestions:0.42
+  year:0.41
+  durability:0.41
+  times:0.41
+
+Topic 2:
+  long:1.00
+  freezer:0.94
+  lsd:0.87
+  good:0.77
+  durability:0.41
+  newbie:0.41
+  keeping:0.41
+  hints:0.41
+  btw:0.41
+  dont:0.41
+
+Topic 3:
+  freezer:1.03
+  long:1.01
+  good:0.76
+  lsd:0.73
+  dont:0.39
+  newbie:0.39
+  fucking:0.39
+  frustrated:0.39
+  guys:0.39
+  charge:0.39
+
+Topic 4:
+  long:1.05
+  freezer:1.00
+  good:0.76
+  lsd:0.75
+  times:0.39
+  dont:0.39
+  frustrated:0.39
+  hints:0.39
+  charge:0.39
+  keeping:0.39
+
+K: 5, Log-Likelihood: -245.784, Alpha: 11.000, Beta: 1.100

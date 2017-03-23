@@ -1,0 +1,61 @@
+Topic 0:
+  youll:2.29
+  vm:2.29
+  built:2.29
+  users:2.29
+  system:1.48
+  avg:1.05
+  regularly:1.05
+  job:1.05
+  routed:1.05
+  basin:1.05
+
+Topic 1:
+  os:1.36
+  host:1.33
+  whonix:0.69
+  idea:0.61
+  familiar:0.60
+  viruses:0.60
+  shouldnt:0.60
+  truecrypt:0.60
+  hard:0.60
+  curve:0.60
+
+Topic 2:
+  host:0.86
+  os:0.83
+  whonix:0.65
+  recommend:0.55
+  secure:0.54
+  tails:0.44
+  vpn:0.41
+  set:0.41
+  awhile:0.41
+  clamav:0.41
+
+Topic 3:
+  computers:1.04
+  systems:0.62
+  guys:0.60
+  whonix:0.59
+  opinion:0.59
+  pretty:0.55
+  good:0.48
+  test:0.48
+  site:0.47
+  today:0.47
+
+Topic 4:
+  computers:0.97
+  whonix:0.68
+  pretty:0.62
+  systems:0.59
+  opinion:0.56
+  guys:0.56
+  anonymous:0.46
+  link:0.46
+  time:0.46
+  heard:0.46
+
+K: 5, Log-Likelihood: -796.393, Alpha: 11.000, Beta: 1.100

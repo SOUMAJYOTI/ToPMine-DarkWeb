@@ -1,0 +1,61 @@
+Topic 0:
+  place:0.75
+  love:0.71
+  avengers:0.70
+  main:0.40
+  coming:0.40
+  invite:0.40
+  abraxas:0.40
+  safe:0.39
+  sell:0.39
+  funregardsftb:0.39
+
+Topic 1:
+  place:0.87
+  avengers:0.54
+  love:0.53
+  dream:0.43
+  market:0.42
+  safe:0.40
+  vendors:0.40
+  open:0.40
+  buy:0.40
+  sell:0.40
+
+Topic 2:
+  place:0.80
+  love:0.62
+  avengers:0.60
+  registrations:0.40
+  vendors:0.40
+  invite:0.40
+  sell:0.40
+  buy:0.40
+  safe:0.40
+  abraxas:0.40
+
+Topic 3:
+  place:0.83
+  avengers:0.62
+  love:0.61
+  open:0.40
+  abraxas:0.40
+  sell:0.40
+  buy:0.40
+  main:0.40
+  registrations:0.40
+  coming:0.40
+
+Topic 4:
+  place:0.75
+  avengers:0.54
+  love:0.53
+  market:0.44
+  dream:0.44
+  funregardsftb:0.41
+  invite:0.41
+  buy:0.41
+  vendors:0.41
+  coming:0.41
+
+K: 5, Log-Likelihood: -109.325, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  good:1.71
+  product:1.46
+  feedback:0.92
+  top:0.87
+  price:0.85
+  vendor:0.85
+  hash:0.83
+  happy:0.79
+  glad:0.61
+  quality:0.59
+
+Topic 1:
+  link:2.62
+  vendors:2.47
+  search:1.54
+  vendor:1.49
+  godsgarden:1.45
+  dont:0.81
+  ma:0.81
+  affect:0.81
+  started:0.81
+  percy:0.81
+
+Topic 2:
+  sale:14.75
+  feb:12.77
+  stealth:12.40
+  tabs:10.78
+  dragonfly:6.80
+  bromo:6.80
+  great:5.83
+  delivery:5.82
+  mar:4.83
+  nice:4.82
+
+Topic 3:
+  nucleus:6.67
+  reviews:5.82
+  sales:4.57
+  valhalla:4.39
+  decided:3.83
+  sense:2.83
+  invite:2.35
+  market:2.35
+  place:2.35
+  link:1.94
+
+Topic 4:
+  dmt:5.54
+  price:4.21
+  dat:2.82
+  prices:2.70
+  cheaper:2.44
+  maths:2.13
+  hash:2.00
+  site:1.97
+  guide:1.86
+  feel:1.80
+
+K: 5, Log-Likelihood: -2134.287, Alpha: 11.000, Beta: 1.100

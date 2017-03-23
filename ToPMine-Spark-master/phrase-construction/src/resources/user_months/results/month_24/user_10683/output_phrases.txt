@@ -1,0 +1,61 @@
+Topic 0:
+  country:9.07
+  vendor:5.35
+  hee:5.34
+  quote bencousins november:4.91
+  evilgrin:4.56
+  posts:4.47
+  topic evolution:4.47
+  forum:4.47
+  cunting:4.47
+  wills:4.47
+
+Topic 1:
+  symmetry key:10.89
+  recipients:8.15
+  message:6.42
+  encrypt:5.82
+  evo:5.48
+  key:5.41
+  decrypt:5.41
+  data:4.99
+  layers:4.58
+  bitches:4.58
+
+Topic 2:
+  adresses:5.72
+  thread:5.50
+  work encrypt multiply:4.61
+  keysyou:4.51
+  leaves:4.46
+  server order:4.45
+  stored:4.45
+  quote bencousins october:4.24
+  split:4.20
+  topic:4.19
+
+Topic 3:
+  clearnet:8.13
+  code select:5.38
+  october:4.56
+  becode:4.50
+  bob:4.50
+  alice:4.50
+  file:4.50
+  select gpg:4.50
+  command:4.50
+  checkbox:4.42
+
+Topic 4:
+  web:8.19
+  ascii:5.45
+  values:5.45
+  character:5.45
+  mangled:5.45
+  armour:4.55
+  dont command:4.55
+  linewhat:4.55
+  gpa checkboxes:4.55
+  keysi:4.55
+
+K: 5, Log-Likelihood: -4152.155, Alpha: 11.000, Beta: 1.100

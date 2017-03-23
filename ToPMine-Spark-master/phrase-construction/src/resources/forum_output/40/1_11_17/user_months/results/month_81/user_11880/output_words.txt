@@ -1,0 +1,61 @@
+Topic 0:
+  check:0.40
+  forum:0.40
+  access:0.20
+  phising:0.20
+  youl:0.20
+  admin:0.20
+  opened:0.20
+  account:0.20
+  people:0.20
+  market:0.20
+
+Topic 1:
+  check:0.40
+  forum:0.40
+  topics:0.20
+  uri:0.20
+  pm:0.20
+  rely:0.20
+  people:0.20
+  thread:0.20
+  lot:0.20
+  admin:0.20
+
+Topic 2:
+  check:0.40
+  forum:0.40
+  rely:0.20
+  topics:0.20
+  uri:0.20
+  pm:0.20
+  forget:0.20
+  access:0.20
+  carefull:0.20
+  iisting:0.20
+
+Topic 3:
+  forum:0.40
+  check:0.40
+  forget:0.20
+  links:0.20
+  link:0.20
+  find:0.20
+  lot:0.20
+  utopia:0.20
+  official:0.20
+  youl:0.20
+
+Topic 4:
+  forum:0.40
+  check:0.40
+  rely:0.20
+  uri:0.20
+  pm:0.20
+  topics:0.20
+  link:0.20
+  youl:0.20
+  account:0.20
+  carefull:0.20
+
+K: 5, Log-Likelihood: -81.992, Alpha: 11.000, Beta: 1.100

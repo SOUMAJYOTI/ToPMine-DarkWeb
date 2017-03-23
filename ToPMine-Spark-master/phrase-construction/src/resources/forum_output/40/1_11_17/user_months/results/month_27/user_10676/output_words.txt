@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:11.17
+  version:8.60
+  versions:6.99
+  symantec:5.59
+  keys:5.15
+  crypto:3.65
+  bit:3.64
+  key:3.64
+  bits:3.63
+  software:3.30
+
+Topic 1:
+  source:12.28
+  open:10.62
+  software:7.60
+  supported:3.50
+  lesson:3.14
+  pgp:2.96
+  october:1.90
+  good:1.80
+  king:1.64
+  john:1.62
+
+Topic 2:
+  truecrypt:1.60
+  quote:0.96
+  software:0.94
+  points:0.85
+  created:0.84
+  equal:0.83
+  onionshopi:0.82
+  political:0.81
+  view:0.81
+  digs:0.80
+
+Topic 3:
+  secure:3.08
+  comment:2.85
+  win:2.85
+  amount:2.72
+  read:2.04
+  thread:1.85
+  people:1.85
+  tails:1.85
+  dont:1.85
+  post:1.80
+
+Topic 4:
+  truecrypt:3.10
+  porn:1.74
+  secure:1.46
+  warning:1.16
+  quote:1.00
+  maximum:0.79
+  speed:0.79
+  lybian:0.79
+  notice:0.79
+  soft:0.79
+
+K: 5, Log-Likelihood: -2753.853, Alpha: 11.000, Beta: 1.100

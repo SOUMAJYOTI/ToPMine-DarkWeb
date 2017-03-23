@@ -1,0 +1,61 @@
+Topic 0:
+  morning:0.74
+  buyers:0.74
+  orders:0.73
+  week:0.73
+  site:0.73
+  lot:0.68
+  silkkitie days:0.65
+  bit:0.54
+  fine:0.48
+  quote:0.48
+
+Topic 1:
+  morning:1.73
+  trades:0.77
+  cold:0.77
+  agreement:0.77
+  door:0.76
+  holds:0.76
+  pmhey:0.76
+  time:0.76
+  reportedly:0.76
+  trip:0.76
+
+Topic 2:
+  speculation:2.70
+  clients:1.62
+  safe people:1.62
+  mia:1.61
+  sort:1.61
+  hub:1.61
+  recoup:1.61
+  vendor:1.60
+  goggle:1.60
+  official:1.60
+
+Topic 3:
+  nose:1.52
+  hope:1.43
+  sudden:1.02
+  interrupt:1.02
+  wanted:1.02
+  red:1.02
+  check:1.02
+  speak:1.02
+  language:1.02
+  nosy:1.02
+
+Topic 4:
+  hasnt updates:0.99
+  panic police:0.99
+  downfall:0.99
+  apoligies:0.99
+  busted:0.99
+  weekend:0.99
+  days:0.99
+  current:0.98
+  speculate:0.98
+  source:0.98
+
+K: 5, Log-Likelihood: -1646.011, Alpha: 11.000, Beta: 1.100

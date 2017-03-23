@@ -1,0 +1,61 @@
+Topic 0:
+  blond:0.50
+  wig:0.50
+  rules allowed:0.37
+  accused psychadelics pretty strict:0.37
+  buyers risk:0.37
+  darknet bitcoin:0.37
+  bitcoin marketplaces:0.37
+  link posted nucleus middle:0.36
+  youll:0.36
+  account safest transact business:0.36
+
+Topic 1:
+  encryption:0.60
+  idea:0.38
+  customers:0.38
+  understand:0.38
+  things:0.38
+  pleas:0.38
+  sell:0.38
+  system:0.38
+  blond:0.37
+  wig:0.37
+
+Topic 2:
+  wig:0.46
+  blond:0.44
+  bitcoin marketplaces:0.39
+  accused psychadelics pretty strict:0.39
+  darknet bitcoin:0.39
+  rules allowed:0.39
+  buyers risk:0.38
+  don:0.36
+  agora evolution biggest markets:0.36
+  earth rising markets:0.36
+
+Topic 3:
+  encryption:0.97
+  pip:0.39
+  throw:0.39
+  account marketplaces:0.39
+  find good:0.39
+  shop:0.39
+  program:0.39
+  google:0.39
+  link:0.39
+  set:0.39
+
+Topic 4:
+  blond:0.87
+  wig:0.86
+  deepdotweb:0.42
+  isnt:0.42
+  youll:0.42
+  products good fit forum:0.37
+  tend reflect preferences admins:0.37
+  business denziens forum:0.37
+  laughed suggesting busted insist:0.37
+  dont:0.37
+
+K: 5, Log-Likelihood: -571.061, Alpha: 11.000, Beta: 1.100

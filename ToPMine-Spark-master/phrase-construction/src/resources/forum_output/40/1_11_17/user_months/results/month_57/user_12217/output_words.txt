@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.79
+  join:0.61
+  luvassa:0.41
+  jos:0.41
+  nain:0.41
+  link:0.39
+  october:0.21
+  visit:0.21
+  bobbe:0.21
+  luonut:0.21
+
+Topic 1:
+  ja:0.79
+  join:0.56
+  nain:0.41
+  jos:0.40
+  luvassa:0.40
+  link:0.39
+  sit:0.21
+  saadan:0.21
+  sinuinkin:0.21
+  yt:0.21
+
+Topic 2:
+  ja:0.80
+  join:0.53
+  link:0.40
+  luvassa:0.40
+  nain:0.39
+  jos:0.39
+  silkkitie:0.21
+  pit:0.21
+  click:0.21
+  klikkaa:0.21
+
+Topic 3:
+  ja:0.81
+  join:0.55
+  link:0.42
+  jos:0.39
+  luvassa:0.39
+  nain:0.38
+  register:0.22
+  hauskaa:0.22
+  pit:0.22
+  fun:0.22
+
+Topic 4:
+  ja:0.81
+  join:0.76
+  link:0.41
+  luvassa:0.40
+  jos:0.40
+  nain:0.40
+  ni:0.23
+  ostoja:0.23
+  win:0.23
+  tekev:0.23
+
+K: 5, Log-Likelihood: -325.663, Alpha: 11.000, Beta: 1.100

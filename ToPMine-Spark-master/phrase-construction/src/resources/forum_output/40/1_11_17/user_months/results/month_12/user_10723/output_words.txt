@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins:3.61
+  wallet:1.93
+  quote:1.90
+  april:1.90
+  wallets:1.77
+  randomized:1.76
+  deposit:1.76
+  market:1.51
+  time:1.23
+  tumbler:1.18
+
+Topic 1:
+  vendor:8.33
+  buyer:6.72
+  market:5.49
+  multi:5.32
+  dispute:4.88
+  pirate:3.16
+  order:2.88
+  sig:2.88
+  guide:2.81
+  open:1.89
+
+Topic 2:
+  game:6.91
+  rock:4.91
+  paper:4.91
+  user:4.34
+  scissor:3.91
+  gambling:2.92
+  games:2.92
+  active:1.92
+  play:1.92
+  center:1.92
+
+Topic 3:
+  bitcoins:3.39
+  receive:2.41
+  time:1.39
+  market:1.37
+  wallet:1.09
+  offer:0.96
+  user:0.95
+  decided:0.95
+  invited:0.85
+  profit:0.84
+
+Topic 4:
+  receive:2.88
+  tumbler:2.39
+  external:1.77
+  onion:1.63
+  day:1.13
+  bitcoins:1.08
+  user:1.06
+  net:1.05
+  plan:1.04
+  connection:1.04
+
+K: 5, Log-Likelihood: -1581.720, Alpha: 11.000, Beta: 1.100

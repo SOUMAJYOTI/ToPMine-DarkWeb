@@ -1,0 +1,61 @@
+Topic 0:
+  thing:9.88
+  agra:5.49
+  days:5.24
+  vulnerability:4.88
+  time:3.72
+  offline:2.73
+  address:2.70
+  assume:2.69
+  agoras:2.56
+  uri:2.34
+
+Topic 1:
+  agora:6.47
+  forum:3.55
+  dont:1.66
+  url:1.62
+  worried:1.58
+  posting:1.46
+  phishing:1.37
+  uri:1.24
+  careful:1.23
+  shit:1.13
+
+Topic 2:
+  agora:6.58
+  communication:5.88
+  theyve:4.88
+  site:4.35
+  security:3.02
+  bit:2.75
+  surprised:2.75
+  day:2.74
+  agra:2.12
+  defcon:1.90
+
+Topic 3:
+  service:9.79
+  tor:9.00
+  bug:8.96
+  hidden:7.74
+  agora:7.08
+  market:3.81
+  address:3.17
+  time:3.11
+  vulnerable:2.96
+  big:2.96
+
+Topic 4:
+  april:7.67
+  surprise:6.84
+  element:6.84
+  quote:6.59
+  people:4.23
+  riposte:3.88
+  le:3.82
+  gtfo:3.82
+  quick:3.82
+  compromised:3.82
+
+K: 5, Log-Likelihood: -4328.266, Alpha: 11.000, Beta: 1.100

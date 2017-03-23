@@ -1,0 +1,61 @@
+Topic 0:
+  love:0.60
+  avengers:0.57
+  selling:0.40
+  profile:0.40
+  netherlands:0.40
+  powder:0.40
+  agora:0.40
+  worldwideagora:0.40
+  oz:0.40
+  cubensis:0.40
+
+Topic 1:
+  avengers:0.65
+  love:0.60
+  grams:0.40
+  oz:0.40
+  prefer:0.40
+  selling:0.40
+  netherlands:0.40
+  worldwideagora:0.40
+  powder:0.40
+  cubensis:0.39
+
+Topic 2:
+  avengers:0.65
+  love:0.64
+  agora:0.40
+  grams:0.39
+  powder:0.39
+  oz:0.39
+  netherlands:0.39
+  selling:0.39
+  worldwideagora:0.39
+  cubensis:0.39
+
+Topic 3:
+  love:0.57
+  avengers:0.56
+  powder:0.41
+  cubensis:0.41
+  profile:0.41
+  prefer:0.41
+  worldwideagora:0.41
+  oz:0.40
+  grams:0.40
+  netherlands:0.40
+
+Topic 4:
+  love:0.59
+  avengers:0.57
+  profile:0.41
+  prefer:0.41
+  netherlands:0.40
+  worldwideagora:0.40
+  agora:0.40
+  cubensis:0.40
+  oz:0.40
+  selling:0.40
+
+K: 5, Log-Likelihood: -86.870, Alpha: 11.000, Beta: 1.100

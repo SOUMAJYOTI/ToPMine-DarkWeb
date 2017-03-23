@@ -1,0 +1,61 @@
+Topic 0:
+  cloudfare:1.20
+  js:0.99
+  enabling:0.90
+  goodbye:0.90
+  screen:0.90
+  loads:0.90
+  things:0.90
+  nasty:0.89
+  october:0.86
+  quote:0.86
+
+Topic 1:
+  hate:2.53
+  version:2.53
+  fuck:2.53
+  pass:2.53
+  dont:1.87
+  matter:1.16
+  yep:1.16
+  dumb:1.16
+  upgraded:1.16
+  working:1.16
+
+Topic 2:
+  protecting:1.17
+  store:1.16
+  read:1.16
+  ddos:1.16
+  conduct:1.16
+  cloudflare:1.16
+  masked:1.16
+  businesss:1.16
+  company:1.16
+  ip:1.16
+
+Topic 3:
+  js:0.88
+  cloudfare:0.84
+  quote:0.58
+  october:0.57
+  nasty:0.57
+  screen:0.57
+  loads:0.57
+  goodbye:0.57
+  things:0.57
+  enabling:0.56
+
+Topic 4:
+  bitcoin:1.02
+  solutions:1.02
+  localbitcoins:1.02
+  thoughts:1.02
+  thinking:1.02
+  blocked:1.02
+  preventing:1.02
+  work:1.02
+  making:1.02
+  asks:1.02
+
+K: 5, Log-Likelihood: -717.619, Alpha: 11.000, Beta: 1.100

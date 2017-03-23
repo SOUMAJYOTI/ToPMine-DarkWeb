@@ -1,0 +1,61 @@
+Topic 0:
+  socks:6.07
+  tor:4.71
+  service:3.28
+  ip:2.94
+  vpn:2.36
+  good:2.15
+  browser:2.14
+  dynamic:1.94
+  stuffs:1.94
+  facebookwhich:1.94
+
+Topic 1:
+  door:3.73
+  secure:3.56
+  smash:3.54
+  time:1.99
+  bedroom:1.76
+  smashy:1.76
+  isnt:1.76
+  wall:1.76
+  plenty:1.76
+  easily:1.76
+
+Topic 2:
+  tails:4.82
+  tor:4.14
+  vpn:3.46
+  openvpn:2.94
+  pi:2.72
+  mails:2.00
+  route:2.00
+  configure:1.94
+  worked:1.94
+  client:1.94
+
+Topic 3:
+  power:4.94
+  computer:4.28
+  le:3.90
+  set:3.22
+  time:3.08
+  door:2.77
+  windows:1.94
+  shutting:1.94
+  key:1.94
+  trigger:1.94
+
+Topic 4:
+  idea:3.94
+  good:3.65
+  sit:2.73
+  reed:2.73
+  strobe:2.73
+  disengaged:2.73
+  volumes:2.73
+  high:2.73
+  powered:2.73
+  lou:2.73
+
+K: 5, Log-Likelihood: -2583.299, Alpha: 11.000, Beta: 1.100

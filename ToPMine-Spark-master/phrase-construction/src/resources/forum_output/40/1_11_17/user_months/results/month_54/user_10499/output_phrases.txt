@@ -1,0 +1,61 @@
+Topic 0:
+  key:0.24
+  numbers:0.24
+  rsa:0.24
+  cryptography:0.16
+  large:0.16
+  public:0.16
+  asa:0.16
+  algorithms:0.16
+  curve:0.16
+  pgp:0.16
+
+Topic 1:
+  rsa:0.24
+  numbers:0.24
+  key:0.24
+  public:0.16
+  subkey:0.16
+  pgp:0.16
+  algorithms:0.16
+  asa:0.16
+  cryptography:0.16
+  large:0.16
+
+Topic 2:
+  key:0.24
+  numbers:0.24
+  rsa:0.24
+  asa:0.16
+  curve:0.16
+  pgp:0.16
+  large:0.16
+  public:0.16
+  subkey:0.16
+  cryptography:0.16
+
+Topic 3:
+  numbers:0.24
+  key:0.24
+  rsa:0.24
+  subkey:0.16
+  algorithms:0.16
+  large:0.16
+  pgp:0.16
+  curve:0.16
+  cryptography:0.16
+  public:0.16
+
+Topic 4:
+  rsa:0.24
+  key:0.24
+  numbers:0.24
+  curve:0.16
+  cryptography:0.16
+  public:0.16
+  subkey:0.16
+  algorithms:0.16
+  pgp:0.16
+  asa:0.16
+
+K: 5, Log-Likelihood: -167.060, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ram:4.68
+  answer:4.66
+  likes:4.66
+  opinions:4.55
+  axa:2.58
+  person:2.58
+  interesting:2.33
+  error:2.33
+  purely:2.33
+  size:2.33
+
+Topic 1:
+  torvm:7.24
+  traffic:7.03
+  tor instance:5.08
+  http requests:4.68
+  xen:4.68
+  phoenix:4.68
+  virtual interface:4.68
+  inside:4.68
+  firewall:4.68
+  play:4.68
+
+Topic 2:
+  talking hosting hidden services:5.42
+  majority people busted hosted:5.42
+  quote enctype february:4.76
+  ssh:4.68
+  clearnet management:4.68
+  ash:4.68
+  set:4.68
+  frosty:4.68
+  examples:4.46
+  jolly roger february amif:4.44
+
+Topic 3:
+  vpn:7.84
+  discovered:5.66
+  assume computer access clearnet:4.83
+  theory host machine:4.83
+  device router routes communication:4.83
+  channel separates machines segment:4.83
+  ip network:4.83
+  internal communication kind safe:4.83
+  vpn service:4.83
+  resides access internet anonymous:4.83
+
+Topic 4:
+  vps:10.65
+  box:10.17
+  vps provider:7.87
+  providing:7.75
+  arbitrary traffic:7.74
+  tor traffic:6.63
+  tor instance:6.49
+  isolate server:5.80
+  traffic tor:5.80
+  http service:5.80
+
+K: 5, Log-Likelihood: -9688.717, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  asked:0.28
+  auto:0.28
+  register:0.14
+  thing:0.14
+  early:0.14
+  bit:0.14
+  wallet:0.14
+  random:0.14
+  registering:0.14
+  putting:0.14
+
+Topic 1:
+  auto:0.28
+  asked:0.28
+  fordigital:0.14
+  checkout:0.14
+  informations:0.14
+  password:0.14
+  enthusiasts:0.14
+  mesages:0.14
+  goods:0.14
+  image:0.14
+
+Topic 2:
+  asked:0.28
+  auto:0.28
+  set:0.14
+  random:0.14
+  address:0.14
+  passwords:0.14
+  wallet:0.14
+  leading:0.14
+  thing:0.14
+  early:0.14
+
+Topic 3:
+  auto:0.28
+  asked:0.28
+  gadgets:0.14
+  materials:0.14
+  strange:0.14
+  great:0.14
+  offerings:0.14
+  site:0.14
+  seriousness:0.14
+  drugs:0.14
+
+Topic 4:
+  auto:0.28
+  asked:0.28
+  css:0.14
+  image:0.14
+  internal:0.14
+  buyer:0.14
+  decryption:0.14
+  darkmarketupcoming:0.14
+  active:0.14
+  based:0.14
+
+K: 5, Log-Likelihood: -200.651, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  secure:1.22
+  stable:1.19
+  bitcoinfog:0.73
+  file error:0.70
+  quote:0.62
+  attempt:0.54
+  agora:0.54
+  website:0.53
+  closed:0.53
+  hard:0.53
+
+Topic 1:
+  agora:1.49
+  file error:0.79
+  fog:0.79
+  forums:0.77
+  interests:0.71
+  share:0.71
+  speculate:0.71
+  time:0.70
+  hours:0.70
+  week:0.70
+
+Topic 2:
+  online:0.96
+  server:0.92
+  servers:0.91
+  issues:0.68
+  site:0.56
+  reason:0.47
+  shutting:0.47
+  ddos:0.47
+  maintanence:0.47
+  server bitcoinfog:0.47
+
+Topic 3:
+  stable:0.98
+  secure:0.95
+  file error:0.91
+  bitcoinfog:0.72
+  quote:0.65
+  agora:0.63
+  attempt:0.59
+  plate:0.56
+  fixed:0.56
+  bitcoin:0.56
+
+Topic 4:
+  servers:1.68
+  server:1.67
+  online:1.63
+  direct:0.76
+  traffic:0.76
+  establish:0.76
+  handle:0.76
+  puff:0.76
+  connection:0.76
+  pay:0.76
+
+K: 5, Log-Likelihood: -673.327, Alpha: 11.000, Beta: 1.100

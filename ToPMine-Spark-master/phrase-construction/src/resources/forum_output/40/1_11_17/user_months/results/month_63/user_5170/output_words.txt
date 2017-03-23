@@ -1,0 +1,61 @@
+Topic 0:
+  avengers:6.71
+  love:5.75
+  market:3.52
+  site:2.81
+  pgp:2.05
+  ensuring:1.62
+  deep:1.54
+  vendors:1.51
+  transactions:1.49
+  vendor:1.49
+
+Topic 1:
+  site:3.45
+  acropolis:2.88
+  market:2.87
+  love:2.62
+  pgp:2.47
+  vendors:1.78
+  security:1.73
+  web:1.72
+  vendor:1.67
+  transactions:1.66
+
+Topic 2:
+  site:3.87
+  acropolis:3.68
+  market:3.62
+  pgp:2.56
+  fee:1.89
+  ensuring:1.81
+  signature:1.80
+  vendor:1.78
+  love:1.76
+  deep:1.72
+
+Topic 3:
+  love:4.76
+  market:4.27
+  avengers:3.31
+  site:2.96
+  pgp:2.57
+  web:1.71
+  transactions:1.70
+  security:1.69
+  signature:1.67
+  ensuring:1.65
+
+Topic 4:
+  market:3.73
+  love:3.12
+  site:2.91
+  pgp:2.36
+  fee:1.68
+  avengers:1.68
+  signature:1.60
+  vendor:1.60
+  transactions:1.59
+  deep:1.51
+
+K: 5, Log-Likelihood: -4788.293, Alpha: 11.000, Beta: 1.100

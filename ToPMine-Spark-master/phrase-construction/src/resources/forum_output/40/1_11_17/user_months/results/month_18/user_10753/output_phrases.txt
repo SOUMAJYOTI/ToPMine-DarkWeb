@@ -1,0 +1,61 @@
+Topic 0:
+  key:0.91
+  storing:0.87
+  persistence partition:0.81
+  messages:0.67
+  dotfiles:0.59
+  encrypting:0.58
+  secret:0.58
+  output:0.57
+  partition:0.47
+  tarball:0.39
+
+Topic 1:
+  tails:3.06
+  problem:1.97
+  stick:1.97
+  electrumbut:0.89
+  days:0.89
+  happened:0.89
+  happenim:0.89
+  fine:0.89
+  computers:0.89
+  lchmod:0.89
+
+Topic 2:
+  persistent:1.70
+  partition:0.99
+  pasting:0.82
+  messed:0.73
+  downloaded:0.73
+  withgpgp:0.73
+  unpacked:0.73
+  heyim:0.73
+  experiencing:0.73
+  reinstalling:0.73
+
+Topic 3:
+  execute:3.15
+  amnesia amnesia:3.15
+  xr:2.06
+  rwxr:2.06
+  bit:0.97
+  root:0.97
+  ownership:0.97
+  chmod:0.97
+  script:0.97
+  ignore:0.97
+
+Topic 4:
+  messages:2.49
+  persistence partition:2.35
+  output:1.49
+  secret:1.48
+  encrypting:1.48
+  dotfiles:1.47
+  storing:1.46
+  key:1.38
+  expected:0.66
+  key key:0.66
+
+K: 5, Log-Likelihood: -898.643, Alpha: 11.000, Beta: 1.100

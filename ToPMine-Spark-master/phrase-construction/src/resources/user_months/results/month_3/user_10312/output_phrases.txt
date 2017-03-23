@@ -1,0 +1,61 @@
+Topic 0:
+  deepbay:1.19
+  scam:0.87
+  runner:0.71
+  digging:0.71
+  unusual:0.71
+  bit:0.71
+  owners:0.71
+  coins:0.70
+  time:0.62
+  key:0.62
+
+Topic 1:
+  scam:1.11
+  deepbay:1.07
+  round:0.76
+  stole:0.75
+  funds:0.75
+  repay:0.74
+  closed:0.64
+  coins:0.63
+  november:0.63
+  early:0.62
+
+Topic 2:
+  people:5.15
+  problems:3.36
+  btc:3.36
+  vanishing:3.36
+  mention:1.58
+  betting:1.58
+  retrieve:1.58
+  evaporated:1.58
+  miraculous:1.58
+  pending:1.58
+
+Topic 3:
+  sell:1.59
+  marketplace:1.59
+  frauds:1.59
+  cookie:1.59
+  worse:1.59
+  buy:1.59
+  hands:1.59
+  market:1.59
+  manage:1.59
+  jar:1.59
+
+Topic 4:
+  signs:1.28
+  unforeseen:1.28
+  warnings:1.27
+  nestled:1.27
+  future:1.27
+  slayer:1.27
+  timeunsuspecting:1.27
+  victims:1.27
+  deepbay:0.87
+  scam:0.62
+
+K: 5, Log-Likelihood: -670.885, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  money:4.34
+  happen:4.34
+  admin:3.21
+  dont:2.85
+  competing forum:2.63
+  hub:2.62
+  thinking:2.14
+  silly:2.14
+  attack:2.14
+  spoken:2.14
+
+Topic 1:
+  wank:4.33
+  fest:4.33
+  designed:4.33
+  spammer throwaway accounts sr:4.13
+  butt hurt link:4.13
+  forum tired:4.13
+  nuggets:3.37
+  northwest:3.37
+  pmsr:3.37
+  sr:3.28
+
+Topic 2:
+  ag forum:4.27
+  access:3.20
+  free:2.71
+  wait:2.69
+  dozens:2.08
+  resources:2.08
+  redirect:2.08
+  sucking:2.08
+  hubs:2.08
+  relinquish:2.08
+
+Topic 3:
+  agora:4.48
+  ddos:2.13
+  implement:2.12
+  io:2.12
+  technically:2.12
+  person:2.12
+  urls:2.12
+  agree:2.12
+  clause:2.12
+  jockey:2.12
+
+Topic 4:
+  users:4.27
+  shit:4.24
+  lot:4.24
+  forums:3.31
+  drive:3.22
+  ag board:3.22
+  downing:3.21
+  june:2.89
+  forum:2.14
+  ddos market:2.05
+
+K: 5, Log-Likelihood: -2263.090, Alpha: 11.000, Beta: 1.100

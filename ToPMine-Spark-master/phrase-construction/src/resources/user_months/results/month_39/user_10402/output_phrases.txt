@@ -1,0 +1,61 @@
+Topic 0:
+  koch:1.38
+  money:0.43
+  year:0.34
+  email encryption:0.33
+  free:0.33
+  full time:0.33
+  operating system:0.25
+  people:0.25
+  government:0.25
+  security:0.25
+
+Topic 1:
+  koch:1.13
+  money:0.41
+  year:0.33
+  free:0.33
+  email encryption:0.33
+  full time:0.33
+  government:0.24
+  operating system:0.24
+  export:0.24
+  security software:0.24
+
+Topic 2:
+  koch:0.97
+  money:0.39
+  free:0.32
+  year:0.32
+  email encryption:0.32
+  full time:0.32
+  security software:0.24
+  software:0.24
+  export:0.24
+  developer:0.24
+
+Topic 3:
+  koch:1.32
+  money:0.42
+  email encryption:0.34
+  full time:0.33
+  year:0.33
+  free:0.33
+  security:0.25
+  germany:0.25
+  software:0.25
+  export:0.25
+
+Topic 4:
+  koch:0.89
+  money:0.38
+  full time:0.31
+  free:0.31
+  year:0.31
+  email encryption:0.31
+  time:0.23
+  people:0.23
+  government:0.23
+  developer:0.23
+
+K: 5, Log-Likelihood: -933.588, Alpha: 11.000, Beta: 1.100

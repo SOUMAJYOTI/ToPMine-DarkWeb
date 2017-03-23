@@ -1,0 +1,61 @@
+Topic 0:
+  email address:2.44
+  ends:1.65
+  starts:1.65
+  enter:1.65
+  types:1.65
+  sigs:1.65
+  find:1.65
+  net:1.65
+  order:1.65
+  field profile:1.64
+
+Topic 1:
+  message:1.21
+  keys:0.59
+  pgp signature:0.55
+  edited:0.43
+  sign:0.42
+  creation:0.42
+  pgp:0.42
+  verify:0.42
+  block:0.42
+  ic:0.42
+
+Topic 2:
+  message:2.74
+  keys:1.26
+  receive:1.23
+  option:1.23
+  vendor:1.22
+  original:1.22
+  block:1.22
+  content:1.22
+  message changed:1.22
+  ic:1.22
+
+Topic 3:
+  pgp signature:0.96
+  message:0.40
+  pip public key:0.37
+  pip signature:0.37
+  keys:0.28
+  public key:0.26
+  confused:0.25
+  pgp key:0.25
+  thread:0.25
+  copy paste:0.18
+
+Topic 4:
+  pgp key link:3.55
+  import:3.55
+  sig:1.74
+  post keys:1.73
+  thread members:1.73
+  edit:1.73
+  minute:1.73
+  failed:1.73
+  nice:1.73
+  day:1.73
+
+K: 5, Log-Likelihood: -2679.348, Alpha: 11.000, Beta: 1.100

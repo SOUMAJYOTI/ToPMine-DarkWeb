@@ -1,0 +1,61 @@
+Topic 0:
+  js:3.52
+  full:2.27
+  remember:2.27
+  safe:2.27
+  quote:2.27
+  dnm:2.27
+  project:1.04
+  reply:1.04
+  pretty:1.04
+  trash:1.04
+
+Topic 1:
+  evolution:0.96
+  agra:0.95
+  pandora:0.95
+  listening:0.59
+  feedback:0.59
+  acting:0.56
+  critique:0.48
+  change:0.48
+  making:0.48
+  respond:0.48
+
+Topic 2:
+  pandora:1.00
+  agra:0.98
+  evolution:0.98
+  acting:0.55
+  middle earth:0.53
+  feedback:0.45
+  sellers:0.45
+  bazar:0.45
+  weird:0.45
+  sell:0.45
+
+Topic 3:
+  middle earth:1.02
+  javascript:0.75
+  marketplace:0.75
+  choose:0.75
+  number:0.38
+  ignore:0.38
+  update:0.38
+  onion:0.38
+  gandalfm:0.38
+  october:0.37
+
+Topic 4:
+  choose:1.28
+  marketplace:1.27
+  middle earth:1.26
+  javascript:0.85
+  continuing:0.55
+  members:0.55
+  rivtwxy:0.55
+  flourish:0.55
+  released:0.55
+  site:0.55
+
+K: 5, Log-Likelihood: -710.443, Alpha: 11.000, Beta: 1.100

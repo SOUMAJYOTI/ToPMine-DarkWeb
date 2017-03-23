@@ -1,0 +1,61 @@
+Topic 0:
+  buyers:2.67
+  priorities prosecution small time:2.57
+  canaris users large dealers:2.57
+  illegal online:2.57
+  drugs leo finds foolproof:2.57
+  easy charge thousands:2.57
+  online drug markets market:2.57
+  online drug:2.57
+  online:2.23
+  profiling:1.73
+
+Topic 1:
+  june:3.73
+  security personally combination:2.64
+  securityand combination seing:2.42
+  plucking low hanging fruit:2.42
+  full people horrible open:2.42
+  javascript tor broken:2.41
+  people running tor horrible:2.40
+  popped tor nodes people:2.40
+  time obi sniffed traffic:2.40
+  online dealers bigger buyers:2.23
+
+Topic 2:
+  screw half:0.32
+  big times caught open:0.32
+  popping people se half:0.31
+  asa powerful hell freedom:0.30
+  obi:0.30
+  hosting takedown windows users:0.30
+  le vendor ignorant dw:0.28
+  opsec fail worried:0.27
+  users basin open hygeine:0.27
+  online florida pill mills:0.25
+
+Topic 3:
+  time:5.53
+  basin open hygeine:4.87
+  huge deal:4.43
+  till popping:3.30
+  stupid careless:3.30
+  stupid careless pick weakest:3.30
+  ant june pmwell:3.30
+  medium opsec strive absolute:3.30
+  time minor technical knowledge:3.30
+  people horrible opsec people:3.30
+
+Topic 4:
+  point:5.47
+  development:5.33
+  dw marketplaces:4.09
+  type remailers:3.54
+  remailer:3.54
+  pressure:3.54
+  cypherpunk:3.54
+  led:3.54
+  thrive:2.70
+  inertia:2.70
+
+K: 5, Log-Likelihood: -5244.878, Alpha: 11.000, Beta: 1.100

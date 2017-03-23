@@ -1,0 +1,61 @@
+Topic 0:
+  deepweb:1.03
+  good:0.85
+  time:0.83
+  find:0.77
+  free:0.64
+  care:0.63
+  price:0.63
+  feel:0.63
+  sell:0.63
+  skunk:0.62
+
+Topic 1:
+  find:1.21
+  real:0.74
+  alphabay:0.70
+  profil:0.62
+  darknet:0.62
+  free:0.62
+  sell:0.61
+  nice:0.61
+  feel:0.60
+  happiness:0.60
+
+Topic 2:
+  find:2.30
+  alphabay:1.25
+  real:1.17
+  weed:0.91
+  stoner:0.88
+  happiness:0.69
+  market:0.65
+  store:0.64
+  message:0.61
+  pesticide:0.61
+
+Topic 3:
+  find:1.37
+  real:0.78
+  alphabay:0.76
+  natural:0.63
+  price:0.62
+  darknet:0.62
+  profil:0.61
+  happiness:0.61
+  skunk:0.61
+  nice:0.61
+
+Topic 4:
+  find:1.35
+  real:0.87
+  alphabay:0.85
+  happiness:0.69
+  stoner:0.64
+  profil:0.63
+  weed:0.63
+  natural:0.61
+  nice:0.60
+  skunk:0.60
+
+K: 5, Log-Likelihood: -630.564, Alpha: 11.000, Beta: 1.100

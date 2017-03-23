@@ -1,0 +1,61 @@
+Topic 0:
+  sounds:1.05
+  juju:1.03
+  compromise:0.99
+  regular:0.99
+  obama:0.99
+  clearnet sites:0.98
+  tails safe:0.98
+  heartbleed:0.80
+  bad:0.79
+  web:0.72
+
+Topic 1:
+  tor:6.02
+  hidden service:5.32
+  attacker:4.49
+  keys:4.48
+  long term:4.46
+  leak:4.46
+  relays bridges:4.46
+  opens package:4.46
+  relay identity key:4.46
+  authorities:2.96
+
+Topic 2:
+  vulnerability:5.95
+  credentials:5.95
+  bug:5.66
+  private keys:5.46
+  sensitive data:4.45
+  security:4.45
+  researchers discovered:4.45
+  memory:4.36
+  operating systems:3.24
+  openssl:3.17
+
+Topic 3:
+  greencrack:2.91
+  visit:2.91
+  change passwords:2.91
+  test:2.91
+  site:2.91
+  april:2.04
+  sites:1.79
+  dothere:1.42
+  connect:1.42
+  hotspots:1.42
+
+Topic 4:
+  hidden service:3.36
+  impersonated:1.42
+  phishing:1.42
+  built:1.42
+  devs:1.42
+  change onion:1.42
+  thing:1.42
+  standard:1.42
+  convenient:1.42
+  didnt:1.42
+
+K: 5, Log-Likelihood: -5841.973, Alpha: 11.000, Beta: 1.100

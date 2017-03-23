@@ -1,0 +1,61 @@
+Topic 0:
+  site:16.14
+  root:13.14
+  blog:10.96
+  hacked:10.71
+  people:9.59
+  compromised:7.83
+  file:6.58
+  download:6.58
+  tmg:5.93
+  talking:5.21
+
+Topic 1:
+  blog:8.82
+  nice:6.11
+  file:5.49
+  hacked:5.15
+  access:5.05
+  time:4.64
+  november:4.50
+  quote:4.30
+  life:4.17
+  waiste:3.83
+
+Topic 2:
+  life:12.37
+  encrypt:6.23
+  people:4.90
+  hack:4.72
+  don:4.17
+  speculation:3.98
+  tug:3.94
+  personas:3.93
+  linked:3.92
+  claimed:3.91
+
+Topic 3:
+  site:12.65
+  blog:10.44
+  root:8.91
+  people:8.75
+  hacked:8.25
+  access:6.38
+  dont:6.36
+  tmg:6.19
+  download:5.67
+  file:5.51
+
+Topic 4:
+  site:31.21
+  people:14.83
+  blog:14.41
+  root:10.93
+  download:10.32
+  talking:9.23
+  hacked:8.77
+  post:8.23
+  dont:7.75
+  place:7.46
+
+K: 5, Log-Likelihood: -8285.717, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  sr:1.42
+  road:1.00
+  happy:0.99
+  site:0.99
+  silk:0.99
+  forum:0.57
+  attorney:0.40
+  marker:0.40
+  market:0.40
+  repeat:0.40
+
+Topic 1:
+  sr:1.42
+  bitcoin:0.70
+  dont:0.68
+  security:0.67
+  lost:0.54
+  silkroad:0.43
+  paying:0.35
+  hacking:0.30
+  allowed:0.30
+  smell:0.30
+
+Topic 2:
+  sr:1.32
+  bitcoin:0.63
+  security:0.59
+  dont:0.58
+  lost:0.47
+  silkroad:0.44
+  paying:0.34
+  forum:0.31
+  times:0.27
+  years:0.27
+
+Topic 3:
+  sr:1.33
+  silkroad:1.24
+  bitcoin:0.78
+  paying:0.65
+  forum:0.42
+  lost:0.39
+  listen:0.30
+  watched:0.30
+  prolly:0.30
+  team:0.30
+
+Topic 4:
+  sr:1.50
+  bitcoin:0.54
+  silkroad:0.53
+  forum:0.43
+  site:0.39
+  silk:0.39
+  paying:0.39
+  happy:0.39
+  road:0.38
+  lost:0.36
+
+K: 5, Log-Likelihood: -595.494, Alpha: 11.000, Beta: 1.100

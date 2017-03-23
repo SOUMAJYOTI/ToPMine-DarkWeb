@@ -1,0 +1,61 @@
+Topic 0:
+  cops:2.43
+  accused:2.15
+  suspect:2.11
+  police:1.83
+  undercover cop:1.73
+  lauchlan:1.65
+  hart:1.60
+  le:1.54
+  people:1.52
+  confession:1.50
+
+Topic 1:
+  solov august pmquote:5.21
+  enigma august pmquote emmet:4.51
+  quote:4.50
+  forum:4.33
+  time remembering story true:4.31
+  august le freuent forum:4.28
+  logged:3.99
+  forum claimed active member:3.88
+  forum member:3.88
+  sr post discussed activities:3.87
+
+Topic 2:
+  police:4.11
+  big:3.92
+  undercover cop:2.57
+  canadian technique:2.38
+  cops:2.33
+  lauchlan:2.08
+  undercover:2.04
+  suspect:2.03
+  le:1.92
+  accused:1.71
+
+Topic 3:
+  police:9.52
+  suspect:5.25
+  accused:3.38
+  undercover cop:3.29
+  target:3.28
+  cops:3.22
+  lauchlan:2.96
+  cases:2.78
+  operation:2.69
+  hart:2.59
+
+Topic 4:
+  police:8.72
+  accused:6.85
+  suspect:6.72
+  undercover cop:4.50
+  target:4.27
+  undercover:3.61
+  lauchlan:3.38
+  cops:3.23
+  operation:3.22
+  confession:3.17
+
+K: 5, Log-Likelihood: -12824.350, Alpha: 11.000, Beta: 1.100

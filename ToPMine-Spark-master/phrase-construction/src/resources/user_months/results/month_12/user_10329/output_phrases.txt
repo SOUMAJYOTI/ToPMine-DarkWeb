@@ -1,0 +1,61 @@
+Topic 0:
+  security:5.19
+  dont:4.80
+  tor:4.09
+  guys:3.41
+  xchat:3.35
+  settings:3.28
+  understand:3.08
+  client:2.28
+  bad:2.24
+  windows:2.19
+
+Topic 1:
+  agora:7.07
+  attack:4.94
+  contributing:4.36
+  url:4.36
+  repeatedly:4.36
+  dos:4.36
+  uri:4.36
+  check status:4.36
+  users:2.61
+  call:2.16
+
+Topic 2:
+  client:3.58
+  error:3.48
+  unsafe:3.48
+  expired:3.48
+  socks:3.48
+  trillion:3.48
+  clients:3.48
+  pc:3.48
+  cheers:3.48
+  ttl:3.48
+
+Topic 3:
+  windows box:8.75
+  virtual:4.36
+  compartmentalize:4.36
+  virtualbox:4.36
+  decent:4.36
+  stick load:4.36
+  stick:4.36
+  machine:4.36
+  stuff:4.36
+  pretty:4.36
+
+Topic 4:
+  store:6.53
+  app:4.33
+  video:4.33
+  owner:4.33
+  site:4.26
+  traffic:4.26
+  titcoin:3.27
+  tits:2.14
+  owners:2.14
+  short:2.14
+
+K: 5, Log-Likelihood: -3221.410, Alpha: 11.000, Beta: 1.100

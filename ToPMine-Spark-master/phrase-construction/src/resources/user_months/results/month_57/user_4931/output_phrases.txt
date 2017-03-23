@@ -1,0 +1,61 @@
+Topic 0:
+  government:6.29
+  october:5.54
+  quote:5.54
+  population:4.13
+  large:4.13
+  stoned:4.04
+  takeover:4.04
+  issues:4.04
+  case:4.04
+  facebook:4.04
+
+Topic 1:
+  system:5.48
+  tor works trust:4.75
+  mouth:4.03
+  time:4.03
+  activity:4.03
+  avoid bits:4.03
+  massive:4.03
+  nsa break:4.03
+  bios source:4.03
+  nice:4.03
+
+Topic 2:
+  allot people:8.06
+  bios infector:6.04
+  firmware require disassembly wiring:5.00
+  free open source software:5.00
+  flash chip directly:5.00
+  reward trouble atop runs:5.00
+  free software:5.00
+  machine replace bios:5.00
+  sat:4.02
+  analysis:4.02
+
+Topic 3:
+  suppose:8.12
+  transparency:8.12
+  alphabet:4.05
+  closets:4.05
+  systems:4.05
+  choices:4.05
+  open:4.05
+  poor:4.05
+  hxxp:4.05
+  aint:4.05
+
+Topic 4:
+  dban removing hd alltogether:4.55
+  avoid bios problems:4.54
+  fucked:4.03
+  running:4.03
+  responsive:4.03
+  infiltrated:4.03
+  result:4.03
+  explains:4.03
+  os:4.03
+  component:4.03
+
+K: 5, Log-Likelihood: -8401.488, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  phone:1.01
+  carrier:0.62
+  orbot:0.62
+  tor:0.41
+  browse:0.41
+  phones:0.40
+  tablets:0.40
+  dont:0.40
+  good:0.39
+  android:0.39
+
+Topic 1:
+  phone:1.09
+  carrier:0.61
+  le:0.53
+  orbot:0.51
+  tails:0.47
+  laptop:0.47
+  android:0.42
+  browse:0.38
+  tor:0.38
+  tablets:0.32
+
+Topic 2:
+  phone:0.96
+  carrier:0.81
+  le:0.59
+  laptop:0.56
+  tails:0.55
+  orbot:0.47
+  android:0.41
+  tor:0.37
+  browse:0.37
+  phones:0.26
+
+Topic 3:
+  phone:1.02
+  orbot:0.68
+  carrier:0.50
+  phones:0.49
+  tablets:0.49
+  good:0.49
+  dont:0.48
+  browse:0.42
+  tor:0.42
+  android:0.39
+
+Topic 4:
+  phone:0.92
+  orbot:0.72
+  dont:0.54
+  good:0.54
+  phones:0.54
+  tablets:0.53
+  carrier:0.46
+  tor:0.42
+  browse:0.42
+  android:0.39
+
+K: 5, Log-Likelihood: -360.613, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  myname:0.59
+  february:0.54
+  thread:0.53
+  vendors:0.41
+  hard:0.36
+  pmim:0.36
+  poor:0.36
+  transactions pgp:0.36
+  quote:0.36
+  markets didnt mattered email:0.36
+
+Topic 1:
+  february:0.77
+  myname:0.47
+  nrxc:0.45
+  poor:0.45
+  quote:0.45
+  hard:0.45
+  pmim:0.45
+  markets didnt mattered email:0.44
+  transactions pgp:0.44
+  thread:0.42
+
+Topic 2:
+  thread:0.64
+  myname:0.52
+  february:0.51
+  vendors:0.41
+  key:0.37
+  send:0.37
+  email:0.36
+  email address didnt:0.35
+  secure email time trading:0.35
+  email addresses:0.35
+
+Topic 3:
+  myname:0.52
+  thread:0.51
+  vendors:0.46
+  february:0.45
+  emails:0.35
+  email:0.34
+  send:0.33
+  pgp fill random nonsense:0.33
+  key:0.33
+  vendors people whove public:0.33
+
+Topic 4:
+  vendors:0.55
+  dont:0.47
+  assume:0.47
+  onei:0.47
+  small:0.47
+  collect:0.47
+  websites:0.47
+  markets:0.47
+  people dont:0.47
+  minutes:0.47
+
+K: 5, Log-Likelihood: -451.941, Alpha: 11.000, Beta: 1.100

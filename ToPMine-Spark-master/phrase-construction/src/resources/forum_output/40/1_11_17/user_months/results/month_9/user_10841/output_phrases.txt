@@ -1,0 +1,61 @@
+Topic 0:
+  road:0.90
+  silk:0.90
+  site:0.89
+  happy:0.89
+  steal:0.36
+  pass:0.36
+  le:0.36
+  pay:0.36
+  fines:0.36
+  clusterfuck:0.36
+
+Topic 1:
+  silkroad:0.64
+  happy:0.38
+  site:0.37
+  silk:0.37
+  road:0.36
+  forum:0.24
+  paying:0.23
+  understand:0.21
+  selection:0.21
+  countless:0.21
+
+Topic 2:
+  silkroad:0.85
+  security:0.27
+  dont:0.27
+  paying:0.25
+  ross:0.24
+  watched:0.24
+  stolen:0.24
+  defcon:0.24
+  team:0.24
+  takendown:0.24
+
+Topic 3:
+  silkroad:0.67
+  happy:0.25
+  site:0.24
+  paying:0.24
+  road:0.24
+  silk:0.24
+  security:0.24
+  dont:0.24
+  markets:0.22
+  disdane:0.22
+
+Topic 4:
+  dont:1.01
+  security:1.01
+  suppossed:0.39
+  althought:0.39
+  allowed:0.39
+  shouldnt:0.39
+  active:0.39
+  dpr:0.39
+  blindly:0.39
+  evil:0.39
+
+K: 5, Log-Likelihood: -499.951, Alpha: 11.000, Beta: 1.100

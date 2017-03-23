@@ -1,0 +1,61 @@
+Topic 0:
+  sr:1.55
+  forum:1.09
+  customers:0.90
+  markets:0.89
+  fashion:0.36
+  approach:0.36
+  account:0.36
+  noble:0.36
+  librarian:0.36
+  dustbin:0.36
+
+Topic 1:
+  forum:1.31
+  serves:0.42
+  hub:0.42
+  service:0.42
+  neutral:0.42
+  sr:0.34
+  markets:0.27
+  customers:0.27
+  people:0.25
+  things:0.25
+
+Topic 2:
+  forum:1.42
+  sr:0.66
+  markets:0.47
+  customers:0.46
+  service:0.37
+  serves:0.37
+  hub:0.37
+  neutral:0.36
+  opinion:0.24
+  dissent:0.24
+
+Topic 3:
+  forum:1.63
+  hub:0.42
+  neutral:0.42
+  service:0.42
+  serves:0.42
+  sr:0.32
+  customers:0.26
+  markets:0.26
+  idiot:0.24
+  people:0.24
+
+Topic 4:
+  forum:1.55
+  neutral:0.49
+  serves:0.49
+  service:0.49
+  hub:0.48
+  respond:0.47
+  market:0.47
+  haven:0.47
+  dos:0.47
+  functions:0.47
+
+K: 5, Log-Likelihood: -541.488, Alpha: 11.000, Beta: 1.100

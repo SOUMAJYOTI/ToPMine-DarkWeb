@@ -1,0 +1,61 @@
+Topic 0:
+  code:7.88
+  scan:5.03
+  receive:3.58
+  wallet:3.51
+  qr:3.20
+  enter:2.82
+  bitcoins:2.70
+  doesnt:1.80
+  coins:1.57
+  process:1.56
+
+Topic 1:
+  phone:2.87
+  long:1.74
+  enter:1.69
+  scan:1.62
+  tumble:1.61
+  number:1.58
+  safe:1.49
+  atm:0.65
+  camera:0.63
+  real:0.61
+
+Topic 2:
+  scan:4.49
+  code:3.60
+  enter:2.59
+  qr:2.37
+  doesnt:2.28
+  wallet:2.08
+  receive:1.99
+  bitcoins:1.89
+  coins:1.65
+  palm:1.64
+
+Topic 3:
+  bank:3.75
+  camera:2.08
+  real:2.04
+  atm:2.03
+  long:1.99
+  lammasu:1.76
+  deposit:1.76
+  person:1.76
+  markup:1.76
+  vehicle:1.76
+
+Topic 4:
+  safe:3.18
+  phone:2.53
+  remain:1.35
+  verification:1.34
+  youwant:1.34
+  notice:1.34
+  opened:1.34
+  machine:1.34
+  address:1.34
+  guys:1.34
+
+K: 5, Log-Likelihood: -1126.867, Alpha: 11.000, Beta: 1.100

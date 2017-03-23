@@ -1,0 +1,61 @@
+Topic 0:
+  time:6.72
+  traffic:3.69
+  police:3.69
+  computer:3.69
+  small:3.69
+  pc:3.32
+  laptop:3.30
+  unmask:2.84
+  tor:2.63
+  security:1.92
+
+Topic 1:
+  os:7.04
+  installed:3.71
+  os tor:3.71
+  flash:3.71
+  dark:3.09
+  clearnet:2.81
+  separate:2.81
+  good:2.44
+  dont:2.19
+  live:1.84
+
+Topic 2:
+  ubuntu:2.54
+  business:2.54
+  wanted:2.36
+  save:2.35
+  macs:1.80
+  bm:1.80
+  knowing:1.80
+  microsoft:1.80
+  gnu:1.80
+  surprised:1.80
+
+Topic 3:
+  openly:3.71
+  tend:3.71
+  fish:3.71
+  private:3.71
+  tor:3.18
+  dont darknet:2.35
+  info:2.07
+  users:2.07
+  asa:2.07
+  attempts:1.84
+
+Topic 4:
+  message:3.71
+  long:3.71
+  pip:2.98
+  zlvax:1.84
+  hg:1.84
+  cyipmjdnxoo:1.84
+  zinx:1.84
+  mfhnnglzump:1.84
+  upwukr:1.84
+  dgmvhgvhufwoit:1.84
+
+K: 5, Log-Likelihood: -4244.222, Alpha: 11.000, Beta: 1.100

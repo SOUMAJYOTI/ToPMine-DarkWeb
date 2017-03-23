@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:23.30
+  click:13.80
+  persistent:10.10
+  amnesia:6.95
+  select:6.95
+  file:5.95
+  tails:5.49
+  pop:4.95
+  close:4.95
+  persistence:4.81
+
+Topic 1:
+  electric:2.48
+  quote:2.38
+  anonymous:1.87
+  traffic:1.80
+  tor:1.63
+  tails:1.57
+  connect:1.50
+  post:1.40
+  onion:1.35
+  december:1.34
+
+Topic 2:
+  wallet:8.98
+  electrum:8.42
+  install:6.22
+  launch:4.76
+  dependencies:4.58
+  installed:3.70
+  tails:3.35
+  method:3.21
+  instructions:3.12
+  december:2.83
+
+Topic 3:
+  install:9.41
+  software:4.79
+  dependencies:4.01
+  connect:3.99
+  startup:3.98
+  method:3.40
+  live:2.97
+  conf:2.90
+  additional:2.86
+  editing:2.72
+
+Topic 4:
+  tails:2.40
+  quote:2.11
+  december:1.99
+  post:1.88
+  electric:1.77
+  connect:1.53
+  electrum:1.33
+  folder:1.32
+  automatically:1.27
+  onion:1.03
+
+K: 5, Log-Likelihood: -3818.418, Alpha: 11.000, Beta: 1.100

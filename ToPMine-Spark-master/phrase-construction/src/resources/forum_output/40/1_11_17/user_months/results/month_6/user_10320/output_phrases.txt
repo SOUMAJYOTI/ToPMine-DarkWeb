@@ -1,0 +1,61 @@
+Topic 0:
+  boat:5.14
+  sr:4.91
+  continue:4.24
+  basement:4.20
+  long:4.20
+  news:4.20
+  year:4.20
+  dweller:4.20
+  word:4.20
+  investigation:4.20
+
+Topic 1:
+  french:5.17
+  btc:4.86
+  cashout:4.23
+  inside:4.23
+  admin:4.00
+  read:3.24
+  site:3.09
+  defcon:3.01
+  rest:2.57
+  damn:2.57
+
+Topic 2:
+  events:6.54
+  february:5.18
+  find:5.16
+  wit:4.34
+  website:4.34
+  safe:4.34
+  stay:4.34
+  check:4.34
+  lots:4.34
+  rapid:4.34
+
+Topic 3:
+  staff stole coin geesh:5.21
+  firm:5.12
+  theft:5.11
+  forums:4.58
+  read bugs bug simple:4.58
+  quote mycarneedstint february amdpr:4.53
+  discuss:2.54
+  trading:2.54
+  staff bug:2.54
+  entire:2.54
+
+Topic 4:
+  ip:5.43
+  topic:5.32
+  coin:5.14
+  showing:4.26
+  playing:4.26
+  banned:4.26
+  fuds:4.26
+  spreading:4.26
+  authorithies:4.26
+  theyve:4.26
+
+K: 5, Log-Likelihood: -4076.253, Alpha: 11.000, Beta: 1.100

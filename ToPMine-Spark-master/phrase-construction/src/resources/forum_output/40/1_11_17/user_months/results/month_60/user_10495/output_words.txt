@@ -1,0 +1,61 @@
+Topic 0:
+  markets:2.89
+  forum:2.74
+  market:2.18
+  pfs:1.90
+  cannabis:1.90
+  discussion:1.90
+  dream:1.85
+  site:1.64
+  set:0.97
+  profile:0.97
+
+Topic 1:
+  vendor:5.54
+  keys:5.45
+  escrow:5.32
+  release:5.17
+  buyer:5.16
+  dispute:3.69
+  coins:3.57
+  held:3.50
+  key:2.65
+  funds:2.54
+
+Topic 2:
+  market:5.17
+  setup:1.67
+  account:1.53
+  markets:1.52
+  dream:1.43
+  hansa:1.21
+  exit:1.19
+  setting:0.73
+  valhalla:0.73
+  researching:0.73
+
+Topic 3:
+  key:11.61
+  private:7.91
+  multisig:7.67
+  buyer:6.84
+  market:5.77
+  address:5.28
+  seller:4.91
+  transactions:2.91
+  alphabay:2.17
+  generated:1.97
+
+Topic 4:
+  hansa:3.41
+  decentralized:3.05
+  vendor:2.21
+  staying:1.67
+  market:1.66
+  wondering:1.62
+  people:1.61
+  escrow:1.60
+  true:1.60
+  moving:1.58
+
+K: 5, Log-Likelihood: -1909.680, Alpha: 11.000, Beta: 1.100

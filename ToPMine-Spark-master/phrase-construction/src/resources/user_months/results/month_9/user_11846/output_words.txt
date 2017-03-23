@@ -1,0 +1,21 @@
+Topic 0:
+  text:0.20
+  telavivservice:0.20
+
+Topic 1:
+  text:0.20
+  telavivservice:0.20
+
+Topic 2:
+  telavivservice:0.20
+  text:0.20
+
+Topic 3:
+  text:0.20
+  telavivservice:0.20
+
+Topic 4:
+  telavivservice:0.20
+  text:0.20
+
+K: 5, Log-Likelihood: -1.386, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  takaisin:8.44
+  kaikkien rahat:8.43
+  ja:6.43
+  kaikki:5.06
+  rahat jumissa:4.34
+  st:4.20
+  tulee:4.19
+  voi:4.19
+  kykenee:4.19
+  ja kaikki:4.19
+
+Topic 1:
+  dont:7.85
+  ytt:5.28
+  hope:4.96
+  kin:4.04
+  toimiiko:3.94
+  normaalisti:3.94
+  wrong:3.58
+  ett:3.35
+  bad:2.44
+  sort:2.44
+
+Topic 2:
+  ket:4.95
+  joo:3.84
+  days:3.67
+  money:2.63
+  kertonut:2.43
+  voiskojotku:2.43
+  oo:2.43
+  saavansa:2.43
+  ketk:2.43
+  olis:2.43
+
+Topic 3:
+  deposit:6.23
+  coins:4.89
+  returned:4.89
+  deposits:4.14
+  problem:4.14
+  market:4.05
+  today:2.47
+  showing:2.47
+  point:2.47
+  site:2.47
+
+Topic 4:
+  ei:8.47
+  kapteeni:7.38
+  haavoittuvuus:4.99
+  tor:4.99
+  silkkitie:4.99
+  verkosta:4.99
+  lill:4.91
+  saa:4.66
+  aikaa:4.15
+  tilannetta:4.13
+
+K: 5, Log-Likelihood: -5237.999, Alpha: 11.000, Beta: 1.100

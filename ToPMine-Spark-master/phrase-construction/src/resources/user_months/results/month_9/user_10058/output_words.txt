@@ -1,0 +1,61 @@
+Topic 0:
+  fog:0.59
+  transaction:0.40
+  slow:0.40
+  completed:0.40
+  personally:0.20
+  reports:0.20
+  read:0.20
+  hoped:0.20
+  peace:0.20
+  btc:0.20
+
+Topic 1:
+  fog:0.60
+  completed:0.40
+  transaction:0.40
+  slow:0.40
+  complaining:0.20
+  withdrawals:0.20
+  advice:0.20
+  doubted:0.20
+  admit:0.20
+  blockchain:0.20
+
+Topic 2:
+  fog:0.59
+  completed:0.40
+  slow:0.40
+  transaction:0.40
+  dont:0.20
+  trust:0.20
+  complete:0.20
+  perfectly:0.20
+  doubted:0.20
+  btc:0.20
+
+Topic 3:
+  fog:0.62
+  slow:0.40
+  transaction:0.40
+  completed:0.40
+  couple:0.20
+  deposits:0.20
+  dont:0.20
+  withdrawal:0.20
+  urgency:0.20
+  hoped:0.20
+
+Topic 4:
+  fog:0.60
+  transaction:0.40
+  slow:0.40
+  completed:0.40
+  havent:0.20
+  perfectly:0.20
+  blips:0.20
+  bitcoin:0.20
+  admit:0.20
+  months:0.20
+
+K: 5, Log-Likelihood: -117.123, Alpha: 11.000, Beta: 1.100

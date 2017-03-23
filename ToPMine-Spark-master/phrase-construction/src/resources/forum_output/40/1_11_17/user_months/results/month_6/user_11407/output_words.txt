@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:0.94
+  anah:0.87
+  free:0.85
+  pm:0.82
+  feel:0.78
+  respond:0.41
+  messages:0.41
+  ta:0.41
+  uri:0.41
+  pip:0.40
+
+Topic 1:
+  vendor:1.01
+  free:0.83
+  pm:0.82
+  feel:0.80
+  anah:0.78
+  bro:0.40
+  established:0.40
+  deals:0.40
+  questions:0.40
+  contact:0.40
+
+Topic 2:
+  vendor:1.05
+  anah:0.84
+  feel:0.77
+  pm:0.77
+  free:0.73
+  bro:0.41
+  thehub:0.40
+  msg:0.40
+  check:0.40
+  remember:0.40
+
+Topic 3:
+  vendor:0.98
+  feel:0.82
+  free:0.82
+  pm:0.81
+  anah:0.74
+  bro:0.41
+  privately:0.40
+  rules:0.40
+  norcos:0.40
+  town:0.40
+
+Topic 4:
+  vendor:1.02
+  feel:0.83
+  pm:0.79
+  free:0.78
+  anah:0.77
+  customers:0.41
+  encrypted:0.41
+  dont:0.40
+  buyers:0.40
+  dealing:0.40
+
+K: 5, Log-Likelihood: -470.876, Alpha: 11.000, Beta: 1.100

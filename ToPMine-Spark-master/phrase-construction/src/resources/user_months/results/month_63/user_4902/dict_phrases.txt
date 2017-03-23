@@ -1,0 +1,90 @@
+small,0,1
+door,1,1
+november,2,3
+concerned,3,2
+woke,4,1
+dropped,5,2
+sign,6,2
+delivered,7,1
+collected,8,1
+office,9,3
+yeah,10,2
+unpaid,11,4
+experience,12,1
+bit,13,3
+required,14,2
+darcm,15,2
+forgetting,16,2
+worked,17,1
+quote,18,2
+balance,19,2
+post,20,3
+fine,21,2
+post office,22,3
+won,23,1
+warrant,24,2
+brave,25,1
+package post,26,1
+postage stamp,27,2
+unpaid postage,28,2
+wow,29,1
+info,30,1
+bit worried,31,3
+package,32,6
+finally,33,2
+lobster,34,1
+pay,35,4
+remaining,36,2
+ve,37,1
+moneyanyone,38,1
+dropbox,39,2
+left,40,2
+sender,41,4
+pmquote,42,1
+unpaid sender,43,2
+didnt,44,1
+absolutely,45,1
+office normal,46,2
+completely,47,1
+send,48,2
+collect,49,1
+dont,50,1
+drop,51,1
+ameverything,52,2
+frowned,53,3
+seizure,54,2
+mailman,55,1
+signature,56,2
+stamp,57,4
+box,58,2
+house,59,2
+pso,60,2
+moment,61,3
+woulda,62,1
+lot,63,1
+occurence,64,2
+search,65,2
+affix,66,2
+vendor,67,2
+postage sender,68,2
+today,69,1
+worried,70,3
+validate,71,2
+didn,72,1
+normal,73,3
+receive,74,1
+pretty,75,1
+freaked,76,1
+postage post,77,2
+pay postage,78,4
+cents,79,1
+realized,80,2
+clean,81,2
+happened,82,2
+postage,83,11
+bit worried moment,84,3
+worried moment,85,3
+glad,86,1
+owe,87,1
+sketch,88,1
+open,89,2

@@ -1,0 +1,61 @@
+Topic 0:
+  shared:8.12
+  blockchain:6.97
+  send:6.82
+  mixing:4.58
+  service:3.39
+  source:3.31
+  info:3.01
+  provide:2.27
+  verified:2.26
+  link:2.25
+
+Topic 1:
+  lbc:2.20
+  stopped:1.87
+  february:1.51
+  btc:1.32
+  quote:1.28
+  mary:1.28
+  fuck:1.25
+  withdrawels:1.24
+  time:1.18
+  vendor:1.12
+
+Topic 2:
+  february:2.06
+  quote:1.48
+  lbc:1.38
+  time:1.26
+  bitcoin:1.22
+  send:1.11
+  stopped:1.06
+  fuck:0.89
+  mixing:0.85
+  mary:0.84
+
+Topic 3:
+  february:1.81
+  bitcoin:1.75
+  mixing:1.69
+  blockchain:1.50
+  quote:1.41
+  buying:1.36
+  exchange:1.23
+  send:1.13
+  shared:0.98
+  time:0.93
+
+Topic 4:
+  february:1.92
+  quote:1.76
+  lbc:1.69
+  stopped:1.39
+  withdrawels:1.30
+  mary:1.25
+  fuck:1.21
+  time:1.13
+  pmuk:0.91
+  bitcoin:0.81
+
+K: 5, Log-Likelihood: -1566.914, Alpha: 11.000, Beta: 1.100

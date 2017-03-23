@@ -1,0 +1,61 @@
+Topic 0:
+  glasses:1.49
+  racial:1.48
+  recognition:1.05
+  time:0.98
+  systems:0.97
+  researchers:0.71
+  good:0.63
+  visor:0.62
+  tech:0.60
+  places:0.56
+
+Topic 1:
+  good:1.36
+  leds:1.27
+  hat:0.64
+  dont:0.62
+  nasty:0.56
+  time:0.50
+  nice:0.47
+  device:0.47
+  problem:0.47
+  excellent:0.47
+
+Topic 2:
+  ir:3.35
+  security:2.80
+  head:2.54
+  halo:2.53
+  lights:2.28
+  cap:1.94
+  attention:1.93
+  baseball:1.92
+  hat:1.62
+  question:1.48
+
+Topic 3:
+  leds:1.95
+  good:1.09
+  dont:0.72
+  security:0.60
+  hat:0.57
+  baseball:0.54
+  cap:0.53
+  attention:0.51
+  places:0.50
+  lights:0.49
+
+Topic 4:
+  racial:7.35
+  recognition:6.79
+  researchers:5.13
+  systems:3.87
+  glasses:2.94
+  tech:2.24
+  visor:2.22
+  protect:1.42
+  previous:1.42
+  flashing:1.42
+
+K: 5, Log-Likelihood: -1369.195, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ve:0.08
+  ll:0.08
+  youve:0.08
+  truffles:0.00
+  suffering:0.00
+  objects:0.00
+  prevents:0.00
+  believing:0.00
+  bit:0.00
+  robot:0.00
+
+Topic 1:
+  youve:0.08
+  ll:0.08
+  ve:0.08
+  truffles:0.00
+  suffering:0.00
+  objects:0.00
+  prevents:0.00
+  believing:0.00
+  bit:0.00
+  robot:0.00
+
+Topic 2:
+  ll:0.08
+  ve:0.08
+  youve:0.08
+  truffles:0.00
+  suffering:0.00
+  objects:0.00
+  prevents:0.00
+  believing:0.00
+  bit:0.00
+  robot:0.00
+
+Topic 3:
+  youve:0.08
+  ll:0.08
+  ve:0.08
+  truffles:0.00
+  suffering:0.00
+  objects:0.00
+  prevents:0.00
+  believing:0.00
+  bit:0.00
+  robot:0.00
+
+Topic 4:
+  ve:0.08
+  ll:0.08
+  youve:0.08
+  truffles:0.00
+  suffering:0.00
+  objects:0.00
+  prevents:0.00
+  believing:0.00
+  bit:0.00
+  robot:0.00
+
+K: 5, Log-Likelihood: -4.487, Alpha: 11.000, Beta: 1.100

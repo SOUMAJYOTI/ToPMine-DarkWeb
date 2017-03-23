@@ -1,0 +1,61 @@
+Topic 0:
+  compressed:1.81
+  bazaar:1.74
+  registrations:1.74
+  tbb:1.74
+  vendor:1.74
+  folks:1.28
+  multisig:1.21
+  implemented:0.76
+  updates:0.76
+  launch:0.76
+
+Topic 1:
+  multisig:1.15
+  process:0.80
+  tumbling:0.58
+  people:0.56
+  installed:0.55
+  info:0.55
+  dumpsterbaby:0.55
+  users:0.50
+  cheers:0.50
+  transactions:0.50
+
+Topic 2:
+  multisig:0.73
+  quote:0.64
+  albert:0.57
+  crypto:0.57
+  process:0.50
+  tumbling:0.44
+  read:0.41
+  liking:0.41
+  multi:0.41
+  daunting:0.41
+
+Topic 3:
+  multisig:0.89
+  process:0.87
+  tumbling:0.74
+  dumpsterbaby:0.56
+  info:0.56
+  installed:0.56
+  people:0.55
+  security:0.54
+  transactions:0.54
+  cheers:0.54
+
+Topic 4:
+  multisig:1.03
+  process:0.68
+  tumbling:0.52
+  liking:0.49
+  focusing:0.49
+  claim:0.49
+  main:0.49
+  multi:0.49
+  admit:0.49
+  read:0.49
+
+K: 5, Log-Likelihood: -1021.927, Alpha: 11.000, Beta: 1.100

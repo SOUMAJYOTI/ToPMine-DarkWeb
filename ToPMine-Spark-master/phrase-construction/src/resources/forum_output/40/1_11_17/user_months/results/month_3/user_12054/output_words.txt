@@ -1,0 +1,61 @@
+Topic 0:
+  fog:4.56
+  register:1.84
+  agora:1.39
+  confirmations:1.12
+  load:1.11
+  bitcoin:1.07
+  march:1.01
+  attack:0.91
+  tails:0.89
+  quote:0.85
+
+Topic 1:
+  blockchain:1.51
+  wallet:1.38
+  march:1.34
+  tails:1.29
+  quote:1.25
+  coins:1.10
+  works:1.03
+  agora:0.98
+  le:0.91
+  setting:0.89
+
+Topic 2:
+  blockchain:1.55
+  march:1.51
+  hours:1.48
+  day:1.42
+  quote:1.17
+  ago:1.02
+  tails:0.94
+  coins:0.92
+  wallet:0.88
+  fog:0.84
+
+Topic 3:
+  wallet:4.24
+  setting:2.11
+  tails:2.08
+  works:2.06
+  le:2.05
+  tor:1.96
+  clearnet:1.86
+  feel:1.80
+  blockchain:1.56
+  march:1.36
+
+Topic 4:
+  blockchain:3.62
+  march:2.79
+  coins:1.75
+  quote:1.56
+  support:1.55
+  bitcoinfog:1.48
+  thedude:1.46
+  dayes:1.12
+  campbx:0.95
+  amstill:0.93
+
+K: 5, Log-Likelihood: -1554.935, Alpha: 11.000, Beta: 1.100

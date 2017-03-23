@@ -1,0 +1,61 @@
+Topic 0:
+  grams:13.68
+  key:9.91
+  subject:7.94
+  nice:5.82
+  curious:5.78
+  long:5.07
+  markets:4.87
+  services:4.57
+  add:4.31
+  message:4.16
+
+Topic 1:
+  time:8.51
+  vendor:7.44
+  good:7.20
+  amvd:4.11
+  sites:4.10
+  updated:4.07
+  great:3.89
+  lot:3.87
+  suspect:3.87
+  user:3.82
+
+Topic 2:
+  js:23.09
+  middle:17.18
+  earth:16.42
+  enabled:9.54
+  pgp:7.96
+  message:7.52
+  profile:7.16
+  comfortable:5.96
+  people:5.00
+  browsing:4.16
+
+Topic 3:
+  javascript:13.05
+  disable:7.95
+  set:6.76
+  scripts:5.89
+  tor:5.89
+  time:4.38
+  false:3.95
+  session:3.95
+  button:3.95
+  globally:3.85
+
+Topic 4:
+  js:16.32
+  vend:11.88
+  log:11.88
+  enable:10.24
+  risk:7.88
+  fine:7.88
+  screen:7.35
+  don:7.21
+  agora:6.73
+  check:6.02
+
+K: 5, Log-Likelihood: -6879.444, Alpha: 11.000, Beta: 1.100

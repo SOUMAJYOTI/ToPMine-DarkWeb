@@ -1,0 +1,61 @@
+Topic 0:
+  listing:0.20
+  sr:0.20
+  bank:0.20
+  hey:0.20
+  agora:0.20
+  opium:0.20
+  listings:0.20
+  black:0.20
+  big:0.20
+  description:0.20
+
+Topic 1:
+  opium:0.20
+  bank:0.20
+  agora:0.20
+  imported:0.20
+  listings:0.20
+  big:0.20
+  hey:0.20
+  listing:0.20
+  black:0.20
+  sr:0.20
+
+Topic 2:
+  imported:0.20
+  description:0.20
+  black:0.20
+  agora:0.20
+  listings:0.20
+  opium:0.20
+  sr:0.20
+  big:0.20
+  listing:0.20
+  hey:0.20
+
+Topic 3:
+  sr:0.20
+  black:0.20
+  imported:0.20
+  agora:0.20
+  listing:0.20
+  big:0.20
+  listings:0.20
+  hey:0.20
+  opium:0.20
+  bank:0.20
+
+Topic 4:
+  hey:0.20
+  description:0.20
+  big:0.20
+  bank:0.20
+  listing:0.20
+  black:0.20
+  listings:0.20
+  opium:0.20
+  agora:0.20
+  imported:0.20
+
+K: 5, Log-Likelihood: -26.377, Alpha: 11.000, Beta: 1.100

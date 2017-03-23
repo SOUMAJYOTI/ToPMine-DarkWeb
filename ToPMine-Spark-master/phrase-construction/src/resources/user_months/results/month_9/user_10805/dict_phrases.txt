@@ -1,0 +1,354 @@
+multisig,0,4
+cancel,1,1
+reason,2,2
+bad,3,1
+pmheres,4,1
+address electrum,5,1
+awful,6,1
+tmps,7,1
+address transaction,8,1
+advance,9,1
+fit,10,2
+decided,11,1
+payments buyer,12,1
+quote,13,3
+raises,14,1
+fire,15,1
+transactions electrum,16,2
+moving,17,2
+qt,18,4
+internally,19,1
+horribly,20,1
+signed tx,21,1
+documentation,22,2
+raw,23,3
+version,24,2
+buyer,25,4
+accept,26,1
+input,27,2
+electrum electrum,28,1
+users sign,29,1
+replies,30,1
+bitcoind bitwasp,31,1
+deals,32,1
+domain,33,1
+animal,34,1
+deposit,35,2
+buyer vendor,36,2
+actions,37,1
+admins,38,2
+pubilc,39,1
+feels,40,1
+minus,41,1
+tx broadcast,42,1
+site sign,43,1
+extended,44,3
+btc,45,2
+current,46,1
+quoteregardless,47,1
+blockchain payments,48,1
+transaction paying,49,3
+sh,50,1
+multisignature transactions,51,4
+vendor,52,8
+attack,53,1
+private keys,54,1
+key,55,14
+situations,56,1
+broken,57,1
+electrum,58,20
+receive,59,2
+mind,60,1
+address,61,8
+set,62,1
+blockchainquote,63,1
+store,64,3
+multisig bitcoin,65,1
+implemantion,66,1
+march,67,1
+plugin,68,2
+absolute,69,1
+partially,70,1
+supported,71,1
+discuss,72,1
+till,73,1
+correct,74,1
+tx,75,7
+gon,76,1
+numbers,77,1
+sites,78,4
+source,79,1
+good,80,1
+escrow site,81,1
+view,82,1
+trivial,83,1
+ui,84,1
+paying,85,3
+generated,86,3
+things,87,1
+escrow,88,3
+implement,89,2
+huge,90,1
+multisg,91,1
+vendors,92,1
+unusual,93,1
+generate,94,1
+subbed,95,1
+heists,96,1
+appreachiated,97,1
+actual,98,1
+store keys,99,1
+predetermined,100,1
+multisignature escrow,101,2
+vendor public,102,1
+wrote,103,1
+pay,104,1
+doubt,105,1
+check,106,1
+list,107,1
+payments address,108,1
+users,109,5
+internals,110,1
+spending,111,1
+amount transaction,112,1
+blockchain,113,5
+electrum servers,114,2
+success,115,1
+guys,116,1
+final,117,1
+parties,118,1
+code true,119,1
+transaction broadcast,120,1
+vital,121,1
+support,122,1
+party,123,1
+full,124,2
+trust,125,1
+bitcoin qt,126,3
+venue,127,1
+private,128,3
+reasons,129,1
+trained,130,1
+buyers,131,1
+idea,132,2
+concept,133,1
+admin,134,3
+cautious,135,1
+generating,136,1
+paste,137,1
+sig,138,1
+fufills,139,1
+random,140,1
+negative,141,1
+ive,142,1
+bitwasp,143,4
+live,144,1
+early,145,1
+successful,146,1
+normal,147,1
+thoughts,148,1
+start,149,1
+attacker,150,1
+order admin,151,1
+expose,152,1
+bitwasps,153,1
+nodes,154,1
+money,155,1
+bitwasp electrum,156,1
+fees address,157,1
+awl,158,1
+automate,159,1
+paid,160,2
+step,161,1
+risk,162,1
+time,163,2
+penny,164,1
+showing,165,1
+bitcoin,166,4
+straightforward,167,1
+big,168,2
+wanting,169,1
+considered,170,1
+channel,171,1
+bip,172,2
+tracking,173,1
+signatures,174,1
+multi,175,1
+feedback,176,2
+output,177,1
+hack,178,1
+number,179,2
+connects,180,1
+problem,181,1
+identified,182,1
+balance,183,1
+price,184,1
+tmp,185,1
+sign transaction,186,2
+easily,187,1
+payment,188,1
+vendor buyer,189,1
+burnt,190,1
+order,191,5
+generation,192,1
+screwed,193,1
+large,194,1
+transactions blockchain,195,1
+work,196,1
+lose,197,1
+mpk,198,4
+distributed,199,1
+signed,200,3
+wallets,201,1
+transactions,202,10
+private key,203,2
+paying vendor,204,2
+bitcoins,205,1
+key generated,206,2
+address funds,207,1
+style,208,2
+compromised,209,2
+bitcoind,210,4
+requires,211,1
+refund,212,1
+addresses payments,213,1
+broadcast,214,3
+conversions,215,1
+wait,216,1
+works,217,2
+widget,218,1
+public key,219,2
+tmpschultz,220,1
+wallet key,221,2
+store extended,222,1
+signature,223,1
+payments,224,3
+messaged,225,1
+reedemscript,226,1
+thinking,227,2
+valid,228,1
+lot,229,1
+predetermine,230,2
+leaks,231,1
+leak,232,1
+top,233,1
+low,234,1
+sending,235,1
+keys order,236,1
+generated electrum,237,2
+extended public,238,2
+sites fees,239,1
+raw signed,240,1
+questionsquote,241,1
+qt bitcoind,242,4
+dispute,243,1
+wallet,244,3
+buterins,245,1
+bitin,246,1
+electrums,247,1
+suprise,248,1
+implementing,249,1
+stores,250,1
+display,251,2
+public keys,252,3
+raw tx,253,1
+electrum mpk,254,4
+signed transaction,255,1
+bitcoin qt bitcoind,256,3
+bitwasp blockchain,257,1
+downtime,258,1
+site,259,9
+removed,260,1
+transaction fees,261,1
+stored,262,2
+additionally,263,1
+electrum wallet,264,2
+randomly,265,1
+scarce,266,2
+signing,267,2
+transaction,268,8
+piedro,269,1
+fees,270,4
+addresses,271,4
+luck,272,1
+sound,273,2
+fee,274,1
+sign,275,5
+feel,276,2
+poll,277,1
+addresses store,278,1
+centralized,279,1
+stands,280,2
+solution,281,1
+deciding,282,1
+fine,283,2
+transaction site,284,1
+find,285,1
+raw transaction,286,1
+funds,287,3
+electrum sign,288,2
+multisignature,289,6
+negotiate,290,1
+marked,291,1
+admin keys,292,1
+paying amount,293,1
+marketplace,294,1
+utc,295,1
+occur,296,1
+finale,297,1
+format,298,2
+ill,299,1
+sort,300,2
+real,301,2
+multisig bitwasp,302,1
+chosen,303,1
+sign tx,304,1
+market,305,2
+blockchain tx,306,1
+tx signed,307,1
+pybtctools,308,1
+true multisignature,309,2
+person,310,2
+reusing,311,1
+true,312,3
+send,313,2
+dont,314,2
+option,315,1
+address public,316,1
+code,317,7
+tract,318,1
+critical,319,1
+unexpected,320,1
+keys,321,6
+link,322,1
+funds tx,323,1
+weve,324,2
+address vendor,325,1
+generated transaction,326,1
+point,327,1
+tend,328,1
+security,329,2
+servers,330,3
+public,331,5
+relies,332,2
+sounds,333,1
+redeem,334,1
+possibility,335,1
+order vendor,336,1
+sloppy,337,1
+site private,338,1
+process,339,2
+pretty,340,1
+amount,341,4
+looked,342,2
+electric,343,2
+implementation,344,1
+interesting,345,1
+arbitrary,346,1
+specific,347,1
+master,348,1
+addresses address,349,1
+altho,350,1
+derivation,351,1
+user,352,2
+simply,353,1

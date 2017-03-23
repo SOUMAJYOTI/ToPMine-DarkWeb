@@ -1,0 +1,61 @@
+Topic 0:
+  sr:1.46
+  banned:1.35
+  account:1.09
+  coins:0.97
+  quote:0.86
+  october:0.86
+  mods:0.84
+  list:0.84
+  btc:0.81
+  thing:0.74
+
+Topic 1:
+  sr:1.70
+  thing:1.39
+  stuff:1.36
+  silkroad:1.31
+  people:0.83
+  price:0.81
+  banned:0.78
+  incredible:0.66
+  chose:0.62
+  experience:0.62
+
+Topic 2:
+  banned:2.01
+  market:1.76
+  sr:1.07
+  finally:0.98
+  posts:0.97
+  incredible:0.94
+  shills:0.80
+  year:0.80
+  spam:0.76
+  direct:0.76
+
+Topic 3:
+  sr:1.49
+  banned:1.14
+  coins:1.06
+  silkroad:1.02
+  account:1.00
+  stuff:0.98
+  thing:0.90
+  price:0.73
+  list:0.72
+  btc:0.71
+
+Topic 4:
+  banned:1.72
+  sr:1.28
+  coins:1.17
+  account:1.07
+  btc:0.85
+  quote:0.81
+  mods:0.80
+  list:0.79
+  october:0.77
+  thing:0.73
+
+K: 5, Log-Likelihood: -1238.184, Alpha: 11.000, Beta: 1.100

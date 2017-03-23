@@ -1,0 +1,61 @@
+Topic 0:
+  emmet:10.80
+  forum:7.79
+  august:7.46
+  le:6.67
+  pmquote:4.50
+  freuent:4.30
+  post:4.25
+  quote:3.74
+  enigma:2.85
+  member:2.79
+
+Topic 1:
+  police:16.95
+  undercover:6.51
+  big:6.47
+  hart:5.22
+  accused:4.47
+  cops:4.07
+  australia:3.95
+  case:3.73
+  cop:3.72
+  operation:3.66
+
+Topic 2:
+  undercover:12.32
+  suspect:8.55
+  cops:8.47
+  case:7.14
+  hart:6.63
+  paragraph:6.45
+  big:6.38
+  scenarios:6.27
+  cop:6.14
+  murder:5.84
+
+Topic 3:
+  le:3.78
+  people:1.14
+  member:1.12
+  notify:1.09
+  hard:1.06
+  method:0.87
+  time:0.87
+  pay:0.84
+  chief:0.80
+  forums:0.74
+
+Topic 4:
+  le:15.97
+  forum:11.00
+  august:10.99
+  member:7.21
+  sr:6.82
+  pmquote:6.37
+  hard:6.18
+  enigma:4.03
+  quote:3.95
+  freuent:3.41
+
+K: 5, Log-Likelihood: -7591.255, Alpha: 11.000, Beta: 1.100

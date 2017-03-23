@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.48
+  poll:1.48
+  onion:1.38
+  hacked:0.89
+  long:0.85
+  post:0.85
+  sr:0.85
+  payroll:0.85
+  deal:0.85
+  fashion:0.85
+
+Topic 1:
+  hacker:4.87
+  orders:4.07
+  database:3.87
+  pool:2.87
+  files:2.87
+  set:2.87
+  site:2.48
+  change:1.87
+  extra:1.87
+  guide:1.87
+
+Topic 2:
+  site:1.58
+  months:1.45
+  worth:1.04
+  vendors:0.85
+  dont:0.83
+  hurt:0.74
+  users:0.74
+  hope:0.74
+  time:0.67
+  user:0.57
+
+Topic 3:
+  hours:4.49
+  server:2.31
+  changed:2.21
+  reopened:1.84
+  site:1.60
+  vendors:1.26
+  shut:1.17
+  security:1.11
+  address:1.05
+  noticed:0.99
+
+Topic 4:
+  onionshop:5.94
+  btc:5.08
+  os:3.74
+  check:3.72
+  server:1.97
+  time:1.29
+  site:1.02
+  order:0.98
+  thx:0.98
+  simultaneously:0.87
+
+K: 5, Log-Likelihood: -1852.016, Alpha: 11.000, Beta: 1.100

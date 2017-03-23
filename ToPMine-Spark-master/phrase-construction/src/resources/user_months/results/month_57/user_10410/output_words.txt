@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.95
+  message:0.60
+  scam:0.59
+  link:0.57
+  links:0.55
+  acas:0.41
+  obvious:0.41
+  sr:0.40
+  vendor:0.40
+  site:0.39
+
+Topic 1:
+  market:0.95
+  link:0.72
+  links:0.65
+  message:0.65
+  scam:0.52
+  exit:0.45
+  popped:0.45
+  deepdotweb:0.45
+  limited:0.45
+  free:0.45
+
+Topic 2:
+  market:0.90
+  links:0.78
+  link:0.71
+  message:0.63
+  scam:0.53
+  exit:0.46
+  deepdotweb:0.46
+  popped:0.46
+  limited:0.46
+  free:0.46
+
+Topic 3:
+  market:1.17
+  scam:0.82
+  site:0.70
+  message:0.50
+  acas:0.45
+  obvious:0.44
+  vendor:0.38
+  sr:0.38
+  link:0.37
+  links:0.36
+
+Topic 4:
+  market:1.02
+  links:0.65
+  link:0.64
+  message:0.62
+  scam:0.54
+  free:0.43
+  popped:0.43
+  limited:0.43
+  exit:0.43
+  deepdotweb:0.42
+
+K: 5, Log-Likelihood: -364.597, Alpha: 11.000, Beta: 1.100

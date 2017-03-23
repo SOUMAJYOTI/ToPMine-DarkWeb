@@ -1,0 +1,61 @@
+Topic 0:
+  august:0.80
+  forums:0.52
+  time:0.50
+  agra:0.50
+  forum market:0.45
+  forum:0.42
+  amas:0.35
+  trolltergeist:0.35
+  quote:0.35
+  suppose:0.35
+
+Topic 1:
+  forums:0.74
+  august:0.54
+  forum market:0.44
+  forum:0.40
+  time:0.40
+  agra:0.39
+  friend:0.33
+  avoided:0.33
+  fair:0.32
+  bit:0.32
+
+Topic 2:
+  forums:0.59
+  august:0.54
+  forum market:0.47
+  forum:0.41
+  agra:0.40
+  time:0.39
+  coming:0.37
+  functioning:0.37
+  essential:0.37
+  releasing:0.37
+
+Topic 3:
+  august:0.84
+  forums:0.54
+  time:0.51
+  agra:0.51
+  forum market:0.43
+  forum:0.42
+  working:0.36
+  ill:0.36
+  suppose:0.36
+  amas:0.36
+
+Topic 4:
+  forums:0.90
+  august:0.57
+  agra:0.40
+  forum market:0.40
+  time:0.40
+  wrong:0.39
+  scammed:0.39
+  coin:0.39
+  running:0.39
+  fair:0.39
+
+K: 5, Log-Likelihood: -221.431, Alpha: 11.000, Beta: 1.100

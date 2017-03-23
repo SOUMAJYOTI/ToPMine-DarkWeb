@@ -1,0 +1,61 @@
+Topic 0:
+  jos:0.73
+  koineja:0.56
+  nain:0.56
+  arvonnassa:0.53
+  mukana:0.43
+  hyvi:0.42
+  olet:0.41
+  st:0.41
+  eritt:0.31
+  viesti:0.31
+
+Topic 1:
+  arvonnassa:1.43
+  st:1.06
+  jos:1.01
+  olet:0.99
+  mukana:0.93
+  nain:0.64
+  koineja:0.62
+  arvotaan:0.60
+  vahvaa:0.60
+  palkintoja:0.60
+
+Topic 2:
+  jos:0.68
+  koineja:0.59
+  nain:0.57
+  arvonnassa:0.52
+  hyvi:0.44
+  mukana:0.43
+  olet:0.40
+  st:0.40
+  viesti:0.30
+  eritt:0.30
+
+Topic 3:
+  jos:0.68
+  koineja:0.58
+  nain:0.58
+  arvonnassa:0.57
+  olet:0.46
+  mukana:0.45
+  st:0.45
+  hyvi:0.42
+  eritt:0.33
+  palkintoja:0.32
+
+Topic 4:
+  arvonnassa:0.95
+  jos:0.89
+  mukana:0.76
+  olet:0.74
+  st:0.68
+  nain:0.66
+  koineja:0.64
+  eritt:0.48
+  viesti:0.48
+  palkintoja:0.47
+
+K: 5, Log-Likelihood: -432.087, Alpha: 11.000, Beta: 1.100

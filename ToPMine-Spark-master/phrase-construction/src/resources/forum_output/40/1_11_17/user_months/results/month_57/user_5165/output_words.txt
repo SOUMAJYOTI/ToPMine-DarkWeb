@@ -1,0 +1,61 @@
+Topic 0:
+  election:4.62
+  florida:3.88
+  noelle:3.88
+  dr:3.88
+  bush:3.88
+  don:3.26
+  long:2.68
+  candidates:2.50
+  choices:2.50
+  personally:2.50
+
+Topic 1:
+  word:16.93
+  people:4.64
+  allowed:4.35
+  political:4.08
+  triggering:3.57
+  find:3.56
+  curse:3.55
+  naughty:3.55
+  typed:3.55
+  racial:3.55
+
+Topic 2:
+  real:8.24
+  time:8.12
+  donald:7.61
+  neurosurgeon:5.86
+  choose:5.86
+  president:5.85
+  republican:5.83
+  creationism:4.87
+  chance:4.37
+  party:3.97
+
+Topic 3:
+  september:8.24
+  quote:8.23
+  people:4.41
+  albion:4.25
+  man:4.17
+  sanders:3.74
+  confessed:3.63
+  chance:3.62
+  bernie:3.61
+  capitalist:3.52
+
+Topic 4:
+  post:12.71
+  bernie:8.85
+  sanders:7.62
+  word:6.49
+  cnn:5.73
+  america:4.70
+  tit:4.11
+  win:4.01
+  forms:3.94
+  thought:3.75
+
+K: 5, Log-Likelihood: -5434.724, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  change:1.81
+  returned:1.81
+  forgotten:1.81
+  small:1.81
+  nicely:1.80
+  nice:1.80
+  withdrawals working:1.80
+  interest:1.80
+  coins:1.48
+  unpleasant:1.10
+
+Topic 1:
+  explanation:3.00
+  strengthening:2.98
+  sleeping:2.97
+  kids:2.97
+  agora:2.97
+  yanks:2.97
+  harm:2.96
+  reputation:2.96
+  lips:2.96
+  hours:2.96
+
+Topic 2:
+  avoid:3.61
+  quote:2.51
+  pmstay:2.44
+  gleeful:2.42
+  january:2.40
+  agreed:2.39
+  sketch:2.36
+  luck:2.31
+  left helm days pops:2.24
+  log site:2.12
+
+Topic 3:
+  wouldn:1.92
+  log site:1.91
+  stay:1.89
+  bulk greatest risk:1.84
+  left helm days pops:1.71
+  explanation strong possibility le:1.29
+  vendors buyers:1.29
+  fedora:1.16
+  duty:1.16
+  good:1.14
+
+Topic 4:
+  site:6.40
+  admins:3.27
+  situation:3.27
+  puzzling:3.27
+  deposits:3.27
+  functions:3.27
+  working:3.27
+  btc:3.27
+  dark:3.27
+  cautiously:3.27
+
+K: 5, Log-Likelihood: -1251.923, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  worry:4.67
+  inputs:4.67
+  send deposits:4.58
+  moment:4.58
+  btc:4.17
+  forum:3.82
+  week:3.82
+  morning:2.75
+  anyones:2.32
+  special:2.32
+
+Topic 1:
+  bet btc:4.50
+  deposit:3.62
+  mine:3.47
+  fucked:2.31
+  personal:2.31
+  patiently:2.31
+  reading:2.31
+  isnt:2.31
+  quoteimmediate:2.31
+  neat:2.31
+
+Topic 2:
+  vendors:8.14
+  fact:6.49
+  buyers:6.48
+  scenario:5.83
+  strategy:5.80
+  estimate hours:5.31
+  orders:4.81
+  market:3.76
+  vendors withdraw:3.42
+  sucking:2.96
+
+Topic 3:
+  vendors:3.50
+  market:3.28
+  buyers:3.21
+  agora:3.18
+  orders:2.93
+  estimate hours:2.44
+  vendors withdraw:2.38
+  withdrawals deposits:2.32
+  exit scam:2.19
+  strategy:1.94
+
+Topic 4:
+  people:5.75
+  tomorrow:4.65
+  happy:4.65
+  heyday:4.65
+  bullshit:4.65
+  reply:4.65
+  delays:3.36
+  days:3.12
+  starting:2.30
+  accept:2.30
+
+K: 5, Log-Likelihood: -5351.656, Alpha: 11.000, Beta: 1.100

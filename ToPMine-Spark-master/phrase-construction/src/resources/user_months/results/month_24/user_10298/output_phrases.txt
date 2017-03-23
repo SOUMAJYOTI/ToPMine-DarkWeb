@@ -1,0 +1,61 @@
+Topic 0:
+  quote:0.24
+  care:0.16
+  people:0.16
+  pandora:0.16
+  site:0.16
+  decent:0.16
+  emails:0.16
+  alice:0.16
+  evolution:0.08
+  heroin:0.08
+
+Topic 1:
+  quote:0.24
+  people:0.16
+  care:0.16
+  alice:0.16
+  decent:0.16
+  pandora:0.16
+  emails:0.16
+  site:0.16
+  today:0.08
+  long:0.08
+
+Topic 2:
+  quote:0.24
+  emails:0.16
+  pandora:0.16
+  site:0.16
+  decent:0.16
+  care:0.16
+  alice:0.16
+  people:0.16
+  sooner:0.08
+  find:0.08
+
+Topic 3:
+  quote:0.24
+  people:0.16
+  pandora:0.16
+  site:0.16
+  decent:0.16
+  alice:0.16
+  emails:0.16
+  care:0.16
+  online:0.08
+  lady:0.08
+
+Topic 4:
+  quote:0.24
+  alice:0.16
+  emails:0.16
+  decent:0.16
+  site:0.16
+  pandora:0.16
+  people:0.16
+  care:0.16
+  escrow:0.08
+  olderthan:0.08
+
+K: 5, Log-Likelihood: -132.826, Alpha: 11.000, Beta: 1.100

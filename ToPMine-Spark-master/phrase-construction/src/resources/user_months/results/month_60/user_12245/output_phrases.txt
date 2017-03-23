@@ -1,0 +1,61 @@
+Topic 0:
+  olkaa:0.00
+  tietty:0.00
+  lm:0.00
+  pollejen:0.00
+  kuulu:0.00
+  kirjattu:0.00
+  vaiheessa:0.00
+  tahansa:0.00
+  riit:0.00
+  kotietsinn:0.00
+
+Topic 1:
+  olkaa:0.00
+  tietty:0.00
+  lm:0.00
+  pollejen:0.00
+  kuulu:0.00
+  kirjattu:0.00
+  vaiheessa:0.00
+  tahansa:0.00
+  riit:0.00
+  kotietsinn:0.00
+
+Topic 2:
+  olkaa:0.00
+  tietty:0.00
+  lm:0.00
+  pollejen:0.00
+  kuulu:0.00
+  kirjattu:0.00
+  vaiheessa:0.00
+  tahansa:0.00
+  riit:0.00
+  kotietsinn:0.00
+
+Topic 3:
+  olkaa:0.00
+  tietty:0.00
+  lm:0.00
+  pollejen:0.00
+  kuulu:0.00
+  kirjattu:0.00
+  vaiheessa:0.00
+  tahansa:0.00
+  riit:0.00
+  kotietsinn:0.00
+
+Topic 4:
+  olkaa:0.00
+  tietty:0.00
+  lm:0.00
+  pollejen:0.00
+  kuulu:0.00
+  kirjattu:0.00
+  vaiheessa:0.00
+  tahansa:0.00
+  riit:0.00
+  kotietsinn:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

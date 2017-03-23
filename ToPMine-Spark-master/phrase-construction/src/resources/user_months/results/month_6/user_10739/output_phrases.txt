@@ -1,0 +1,61 @@
+Topic 0:
+  email:2.46
+  preferably:1.78
+  yahoo:1.78
+  dont log:1.78
+  gmail:1.78
+  lurking:1.78
+  anonmail:1.78
+  servers:1.78
+  feel:1.78
+  things:1.78
+
+Topic 1:
+  lelantos:5.54
+  org:3.67
+  quote axa:2.21
+  march:1.82
+  localhost:1.80
+  twisted:1.80
+  big:1.80
+  kinda:1.80
+  headers:1.80
+  eggs:1.80
+
+Topic 2:
+  bote:6.45
+  pretty:4.52
+  requires:2.66
+  external:2.66
+  client:2.66
+  anonymous:2.66
+  useless:2.66
+  list recommended:2.65
+  accounts:2.65
+  plugin:2.65
+
+Topic 3:
+  safe mail:5.38
+  onion:3.59
+  server:3.57
+  net:3.57
+  peer:3.54
+  access:2.80
+  dont:2.61
+  email:1.82
+  bote superior:1.78
+  solutionyour address simply public:1.78
+
+Topic 4:
+  lelantos mail:3.64
+  thunderbird:3.47
+  lelantos mail tor:2.98
+  access:2.78
+  guide:2.78
+  highly:1.77
+  account:1.77
+  countermail:1.77
+  setup:1.77
+  imap:1.77
+
+K: 5, Log-Likelihood: -2117.166, Alpha: 11.000, Beta: 1.100

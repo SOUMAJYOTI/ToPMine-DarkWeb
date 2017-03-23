@@ -1,0 +1,61 @@
+Topic 0:
+  open:0.84
+  guide:0.81
+  random:0.60
+  link:0.58
+  files:0.57
+  computer:0.41
+  dont:0.40
+  bunch:0.40
+  download:0.39
+  mate:0.38
+
+Topic 1:
+  open:0.80
+  guide:0.76
+  files:0.64
+  random:0.61
+  link:0.57
+  computer:0.41
+  download:0.40
+  dont:0.40
+  bunch:0.40
+  mate:0.39
+
+Topic 2:
+  guide:0.84
+  open:0.66
+  files:0.61
+  link:0.56
+  random:0.55
+  mate:0.48
+  bunch:0.43
+  download:0.42
+  computer:0.39
+  dont:0.38
+
+Topic 3:
+  open:0.96
+  guide:0.77
+  link:0.63
+  random:0.63
+  files:0.59
+  dont:0.41
+  computer:0.40
+  download:0.38
+  bunch:0.37
+  mate:0.36
+
+Topic 4:
+  guide:0.82
+  open:0.73
+  link:0.65
+  random:0.61
+  files:0.58
+  dont:0.41
+  download:0.40
+  bunch:0.40
+  mate:0.39
+  computer:0.39
+
+K: 5, Log-Likelihood: -277.000, Alpha: 11.000, Beta: 1.100

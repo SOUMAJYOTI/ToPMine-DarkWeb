@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:0.87
+  amount:0.85
+  sig:0.62
+  site:0.62
+  wallet:0.62
+  automatic:0.60
+  funds:0.60
+  settings:0.60
+  message:0.59
+  multisig:0.58
+
+Topic 1:
+  vendor:0.85
+  amount:0.78
+  message:0.62
+  settings:0.60
+  site:0.60
+  sig:0.59
+  image:0.59
+  funds:0.59
+  multisig:0.59
+  automatic:0.58
+
+Topic 2:
+  amount:0.78
+  vendor:0.77
+  message:0.61
+  multisig:0.61
+  sig:0.60
+  funds:0.59
+  image:0.59
+  settings:0.59
+  automatic:0.59
+  wallet:0.58
+
+Topic 3:
+  vendor:0.75
+  amount:0.73
+  funds:0.64
+  image:0.64
+  automatic:0.62
+  wallet:0.61
+  site:0.60
+  sig:0.59
+  settings:0.59
+  multisig:0.59
+
+Topic 4:
+  amount:0.85
+  vendor:0.76
+  multisig:0.64
+  settings:0.62
+  wallet:0.62
+  site:0.61
+  image:0.61
+  automatic:0.60
+  message:0.59
+  sig:0.59
+
+K: 5, Log-Likelihood: -941.494, Alpha: 11.000, Beta: 1.100

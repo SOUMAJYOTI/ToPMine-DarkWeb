@@ -1,0 +1,61 @@
+Topic 0:
+  market:3.70
+  darkness:1.88
+  markets:1.65
+  login:1.37
+  accounts:1.32
+  time:1.29
+  piratey:1.28
+  fu:1.28
+  users:1.16
+  fa:1.14
+
+Topic 1:
+  markets:1.81
+  lmfbo:0.55
+  guesses:0.55
+  market:0.35
+  sr:0.21
+  gain:0.20
+  people:0.20
+  coverage:0.17
+  mighty:0.17
+  azores:0.17
+
+Topic 2:
+  market:3.84
+  darkness:1.91
+  markets:1.70
+  nefarious:1.68
+  fa:1.65
+  users:1.63
+  fu:1.51
+  piratey:1.51
+  time:1.51
+  accounts:1.47
+
+Topic 3:
+  sr:5.33
+  multi:3.11
+  sig:3.08
+  people:2.64
+  gain:2.53
+  evolution:2.09
+  implemented:2.06
+  thing:1.51
+  bit:1.16
+  lesser:1.15
+
+Topic 4:
+  sr:1.39
+  gain:1.20
+  people:1.09
+  markets:1.07
+  implemented:0.72
+  sig:0.70
+  evolution:0.69
+  multi:0.68
+  azores:0.65
+  change:0.65
+
+K: 5, Log-Likelihood: -1300.329, Alpha: 11.000, Beta: 1.100

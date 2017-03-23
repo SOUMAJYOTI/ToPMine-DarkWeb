@@ -1,0 +1,61 @@
+Topic 0:
+  events:0.63
+  hey:0.41
+  connect:0.41
+  login:0.40
+  guys:0.40
+  lots:0.40
+  time:0.39
+  reading:0.20
+  spend:0.20
+  shaken:0.20
+
+Topic 1:
+  events:0.61
+  connect:0.40
+  guys:0.40
+  hey:0.40
+  login:0.40
+  time:0.40
+  lots:0.40
+  dont:0.20
+  hope:0.20
+  gamesome:0.20
+
+Topic 2:
+  events:0.57
+  time:0.41
+  lots:0.40
+  connect:0.40
+  guys:0.39
+  hey:0.39
+  login:0.39
+  pf:0.21
+  happened:0.21
+  glad:0.21
+
+Topic 3:
+  events:0.62
+  hey:0.40
+  login:0.40
+  connect:0.40
+  guys:0.40
+  lots:0.40
+  time:0.40
+  root:0.20
+  reading:0.20
+  computers:0.20
+
+Topic 4:
+  events:0.58
+  login:0.40
+  guys:0.40
+  lots:0.40
+  time:0.40
+  hey:0.40
+  connect:0.40
+  imho:0.20
+  comers:0.20
+  gamesome:0.20
+
+K: 5, Log-Likelihood: -164.698, Alpha: 11.000, Beta: 1.100

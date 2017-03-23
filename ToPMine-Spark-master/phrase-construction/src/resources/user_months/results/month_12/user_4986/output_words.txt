@@ -1,0 +1,61 @@
+Topic 0:
+  address:15.29
+  opposed:7.91
+  friend:5.68
+  random:5.45
+  return:4.81
+  tabs:4.81
+  imagine:4.59
+  business:4.58
+  personal:4.58
+  mail:3.91
+
+Topic 1:
+  fine:3.99
+  send:3.74
+  sending:3.37
+  nice:3.16
+  love:3.13
+  handwriting:2.98
+  pretty:2.71
+  method:2.71
+  note:2.52
+  paper:2.19
+
+Topic 2:
+  envelope:7.61
+  secure:3.68
+  send:3.58
+  gloves:2.38
+  stamp:2.31
+  wear:2.21
+  tabs:1.99
+  sending:1.87
+  paper:1.83
+  card:1.66
+
+Topic 3:
+  card:13.65
+  place:9.23
+  cards:7.08
+  touch:5.47
+  tape:5.45
+  middle:5.33
+  envelope:4.91
+  cover:3.57
+  box:3.56
+  scotch:3.56
+
+Topic 4:
+  address:11.37
+  clear:5.44
+  tabs:5.34
+  happy:4.60
+  return:3.90
+  gloves:3.77
+  real:3.67
+  sending:3.34
+  friends:3.28
+  letter:3.28
+
+K: 5, Log-Likelihood: -3821.403, Alpha: 11.000, Beta: 1.100

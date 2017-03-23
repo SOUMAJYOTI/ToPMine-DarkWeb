@@ -1,0 +1,61 @@
+Topic 0:
+  images:3.42
+  forums:1.39
+  gifs:1.37
+  forum:1.09
+  risk:1.09
+  code:1.02
+  post:0.87
+  gif:0.85
+  image:0.78
+  explain:0.73
+
+Topic 1:
+  gifs:6.42
+  images:4.29
+  forums:3.49
+  comment:1.86
+  explain:1.85
+  view:1.85
+  dnm:1.78
+  post:1.73
+  poster:1.72
+  security:1.68
+
+Topic 2:
+  gifs:2.56
+  images:2.16
+  forums:2.12
+  security:1.05
+  risk:1.02
+  poster:0.98
+  post:0.97
+  forum:0.97
+  dnm:0.95
+  view:0.89
+
+Topic 3:
+  file:3.31
+  png:2.93
+  malware:2.80
+  metadata:1.93
+  javascript:1.93
+  frame:0.93
+  dron:0.93
+  link:0.93
+  injections:0.93
+  catch:0.93
+
+Topic 4:
+  gif:3.43
+  images:3.08
+  code:2.51
+  system:1.84
+  java:1.82
+  impact:1.81
+  complete:1.81
+  gifs:1.61
+  execute:1.10
+  environment:1.10
+
+K: 5, Log-Likelihood: -1770.777, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  money:0.43
+  people:0.40
+  direct:0.37
+  italian:0.21
+  enroll:0.21
+  referall:0.21
+  gain:0.21
+  brothers:0.21
+  apply:0.21
+  sisters:0.21
+
+Topic 1:
+  direct:0.44
+  people:0.40
+  money:0.37
+  vendor:0.21
+  jack:0.21
+  pm:0.21
+  purpose:0.21
+  advertise:0.21
+  message:0.21
+  link:0.21
+
+Topic 2:
+  direct:0.41
+  people:0.40
+  money:0.39
+  link:0.20
+  jack:0.20
+  verified:0.20
+  marketplace:0.20
+  captain:0.20
+  trade:0.20
+  goods:0.20
+
+Topic 3:
+  direct:0.40
+  money:0.40
+  people:0.40
+  vendor:0.20
+  advertise:0.20
+  goods:0.20
+  verified:0.20
+  captain:0.20
+  purpose:0.20
+  message:0.20
+
+Topic 4:
+  money:0.41
+  people:0.40
+  direct:0.38
+  boys:0.20
+  english:0.20
+  gain:0.20
+  italian:0.20
+  tot:0.20
+  week:0.20
+  brothers:0.20
+
+K: 5, Log-Likelihood: -129.520, Alpha: 11.000, Beta: 1.100

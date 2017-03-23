@@ -1,0 +1,61 @@
+Topic 0:
+  wallet scan qr code:2.77
+  insert cash bills:1.12
+  code cell phone enter:1.12
+  code chose:1.12
+  prints paper:1.12
+  palm scan assuming besafe:1.12
+  mobile number receive validation:1.11
+  long tumble coins:1.11
+  receive confirmation smsit:1.11
+  doesnt:1.00
+
+Topic 1:
+  safe:1.31
+  phone:0.70
+  notice:0.70
+  remain:0.70
+  opened:0.70
+  sellers:0.70
+  guys:0.69
+  easy:0.69
+  enter:0.69
+  bitcoin:0.69
+
+Topic 2:
+  bank:2.74
+  trade:1.23
+  coinbase:1.23
+  tied:1.22
+  atms:1.22
+  deposit:1.22
+  markup:1.22
+  anon:1.22
+  vehicle:1.22
+  person:1.22
+
+Topic 3:
+  safe:1.66
+  hey:1.00
+  verification:0.98
+  snapshot:0.98
+  bitin:0.97
+  cheap:0.97
+  nearbyshopping:0.97
+  prepaid:0.97
+  long tumble:0.97
+  asks:0.97
+
+Topic 4:
+  bank:0.92
+  wallet scan qr code:0.92
+  code chose:0.52
+  receive confirmation smsit:0.52
+  long tumble coins:0.52
+  mobile number receive validation:0.52
+  palm scan assuming besafe:0.52
+  prints paper:0.51
+  insert cash bills:0.51
+  code cell phone enter:0.51
+
+K: 5, Log-Likelihood: -830.844, Alpha: 11.000, Beta: 1.100

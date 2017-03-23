@@ -1,0 +1,61 @@
+Topic 0:
+  dont:3.45
+  data:2.93
+  gpa:2.90
+  web:2.90
+  command:2.87
+  october:2.57
+  armor:2.34
+  code:2.34
+  checkboxes:2.21
+  bencousins:2.19
+
+Topic 1:
+  quote:2.99
+  start:2.83
+  november:2.77
+  substances:2.03
+  millions:2.01
+  darknet:2.01
+  point:2.01
+  people:1.99
+  arresting:1.96
+  controlled:1.92
+
+Topic 2:
+  quote:3.78
+  work:2.82
+  bencousins:2.10
+  november:1.61
+  october:1.52
+  select:1.20
+  start:1.19
+  thread:1.15
+  topic:1.13
+  adresses:1.00
+
+Topic 3:
+  key:9.67
+  encrypt:7.31
+  message:5.70
+  multiply:5.14
+  work:4.07
+  recipients:3.85
+  symmetry:3.85
+  gpg:2.27
+  decrypt:1.86
+  october:1.73
+
+Topic 4:
+  clearnet:3.26
+  november:2.21
+  quote:2.06
+  start:1.64
+  bencousins:1.45
+  topic:1.30
+  thread:1.20
+  country:1.17
+  people:1.08
+  ordered:1.05
+
+K: 5, Log-Likelihood: -2249.607, Alpha: 11.000, Beta: 1.100

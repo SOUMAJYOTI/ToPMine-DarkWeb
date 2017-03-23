@@ -1,0 +1,61 @@
+Topic 0:
+  day:0.78
+  test:0.36
+  pmits:0.36
+  booted:0.36
+  boots:0.32
+  transaction:0.32
+  today:0.32
+  normal:0.32
+  simple:0.32
+  awhile:0.32
+
+Topic 1:
+  day:0.56
+  pmits:0.33
+  booted:0.33
+  test:0.33
+  scanners scrapers:0.28
+  prevent bots automated:0.28
+  wondrous:0.27
+  thread:0.27
+  reasons:0.27
+  mustve:0.27
+
+Topic 2:
+  bitcoin:0.99
+  buy:0.99
+  music:0.98
+  support:0.98
+  independent:0.39
+  fifty:0.39
+  misogynistic:0.39
+  pricks:0.39
+  bc:0.39
+  pockets:0.39
+
+Topic 3:
+  music:0.38
+  support:0.38
+  buy:0.38
+  bitcoin:0.37
+  day:0.34
+  sense:0.30
+  booted:0.27
+  test:0.27
+  pmits:0.27
+  quote:0.25
+
+Topic 4:
+  support:0.38
+  bitcoin:0.38
+  music:0.38
+  buy:0.38
+  day:0.35
+  sense:0.29
+  booted:0.27
+  pmits:0.27
+  test:0.27
+  quote:0.25
+
+K: 5, Log-Likelihood: -299.459, Alpha: 11.000, Beta: 1.100

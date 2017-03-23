@@ -1,0 +1,61 @@
+Topic 0:
+  file:0.38
+  random string:0.36
+  encrypt files:0.35
+  randomly:0.35
+  september:0.33
+  option securely:0.31
+  files:0.30
+  passphrase:0.27
+  seconds:0.27
+  keyboard:0.27
+
+Topic 1:
+  encrypt files:0.86
+  randomly:0.86
+  random string:0.83
+  type:0.55
+  named:0.55
+  keyboard:0.54
+  cpt:0.54
+  passphrase:0.54
+  seconds:0.53
+  september:0.39
+
+Topic 2:
+  security:1.62
+  deleted:1.62
+  dozens:1.62
+  issue:1.62
+  versions:1.62
+  file:1.19
+  lacking:0.72
+  campaign:0.72
+  change:0.72
+  test:0.72
+
+Topic 3:
+  randomly:0.77
+  random string:0.72
+  encrypt files:0.71
+  passphrase:0.48
+  seconds:0.48
+  type:0.47
+  keyboard:0.47
+  named:0.47
+  cpt:0.47
+  september:0.38
+
+Topic 4:
+  random string:0.80
+  encrypt files:0.80
+  randomly:0.74
+  cpt:0.52
+  seconds:0.52
+  named:0.51
+  keyboard:0.51
+  passphrase:0.51
+  type:0.51
+  september:0.39
+
+K: 5, Log-Likelihood: -696.521, Alpha: 11.000, Beta: 1.100

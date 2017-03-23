@@ -1,0 +1,61 @@
+Topic 0:
+  agora:1.75
+  withdrawals:1.22
+  forums:1.22
+  days:1.16
+  notice:0.86
+  feech:0.86
+  add:0.85
+  hope:0.65
+  users:0.51
+  agra:0.48
+
+Topic 1:
+  wallet:5.40
+  agra:3.95
+  confirmations:2.67
+  blockchain:2.62
+  worried:2.39
+  agora:1.45
+  issue:1.17
+  scam:1.16
+  request:1.13
+  pretty:1.12
+
+Topic 2:
+  hours:2.25
+  forums:2.21
+  withdrawals:2.20
+  couple:1.78
+  security:1.78
+  time:1.78
+  availability:1.78
+  delays:1.12
+  result:1.06
+  users:1.06
+
+Topic 3:
+  wallet:2.60
+  agra:2.21
+  agora:2.07
+  worried:1.11
+  deposited:1.00
+  btc:0.99
+  days:0.97
+  blockchain:0.91
+  funds:0.91
+  pretty:0.90
+
+Topic 4:
+  agora:1.86
+  withdrawals:1.16
+  days:1.13
+  agra:0.92
+  wallet:0.71
+  hope:0.64
+  btc:0.61
+  hoping:0.59
+  deposited:0.58
+  pretty:0.57
+
+K: 5, Log-Likelihood: -1302.472, Alpha: 11.000, Beta: 1.100

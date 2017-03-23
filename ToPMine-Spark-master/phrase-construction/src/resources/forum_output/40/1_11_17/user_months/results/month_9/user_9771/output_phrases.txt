@@ -1,0 +1,61 @@
+Topic 0:
+  zingo:0.44
+  material:0.44
+  june:0.44
+  mind:0.43
+  thanksno:0.43
+  guid general area english:0.43
+  guys understand site drugs:0.43
+  read:0.43
+  pmhello:0.43
+  educational:0.43
+
+Topic 1:
+  mda:0.42
+  site:0.42
+  dmt:0.42
+  lsd:0.42
+  place:0.42
+  cannabis:0.42
+  members:0.42
+  garden:0.42
+  check:0.42
+  work:0.42
+
+Topic 2:
+  pmhello:0.41
+  strong side:0.41
+  guys understand site drugs:0.41
+  learn:0.41
+  quote:0.41
+  read:0.41
+  educational:0.41
+  june:0.41
+  material:0.41
+  guid general area english:0.41
+
+Topic 3:
+  place:0.46
+  links:0.46
+  mama:0.46
+  masculine:0.46
+  order:0.46
+  members:0.46
+  hey:0.45
+  check:0.45
+  recommend:0.45
+  psychedelic:0.45
+
+Topic 4:
+  quote:0.44
+  learn:0.44
+  read:0.44
+  guid general area english:0.44
+  thanksno:0.44
+  guys understand site drugs:0.44
+  educational:0.44
+  strong side:0.44
+  mind:0.44
+  material:0.44
+
+K: 5, Log-Likelihood: -260.485, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  good:4.47
+  vendor:2.26
+  lot:2.23
+  quote:2.23
+  bad:2.10
+  fa:2.07
+  post:2.00
+  diddnt:1.89
+  addresses:1.89
+  ag:1.79
+
+Topic 1:
+  market:14.71
+  people:8.05
+  nucleus:5.11
+  quote:4.79
+  odd:2.13
+  ban:2.04
+  hub:1.84
+  safe:1.84
+  fortitude:1.83
+  admin:1.81
+
+Topic 2:
+  dont:8.24
+  place:7.47
+  forums:4.44
+  quick:4.41
+  time:3.92
+  post:3.89
+  top:3.66
+  interface:3.53
+  le:3.43
+  scum:3.37
+
+Topic 3:
+  nucleus:17.25
+  blackbank:8.89
+  mod:7.71
+  evo:7.61
+  random:6.69
+  address:4.93
+  kind:4.77
+  agora:4.41
+  vendor:3.67
+  pull:3.66
+
+Topic 4:
+  march:25.04
+  pmquote:15.63
+  time:13.81
+  godofwar:13.30
+  scam:12.76
+  scammer:10.36
+  house:9.71
+  gregory:8.83
+  dick:8.78
+  pull:8.68
+
+K: 5, Log-Likelihood: -6404.742, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  facebook:21.09
+  messages:18.52
+  profile:11.83
+  talking:10.83
+  stuff:9.72
+  cops:9.03
+  november:8.13
+  high:8.09
+  people:7.82
+  illegal:7.81
+
+Topic 1:
+  police:15.93
+  lawyer:13.26
+  case:7.17
+  warrant:5.95
+  determine:5.91
+  moment:5.80
+  iphone:5.52
+  building:4.87
+  house:4.80
+  talk:4.76
+
+Topic 2:
+  mac:14.89
+  phone:12.93
+  icloud:10.94
+  reset:9.92
+  drive:8.86
+  settings:7.96
+  factory:7.81
+  password:6.79
+  recovery:5.96
+  dan:5.89
+
+Topic 3:
+  handler:7.96
+  opsec:7.55
+  good:6.90
+  find:4.68
+  create:3.96
+  burner:3.96
+  completely:3.70
+  ll:3.66
+  place:3.35
+  fucked:3.01
+
+Topic 4:
+  thing:6.31
+  shit:4.71
+  guilty:3.93
+  junkie:3.91
+  trust:3.91
+  lucky:3.80
+  bad:3.75
+  talk:3.24
+  online:2.91
+  drugs:2.86
+
+K: 5, Log-Likelihood: -7746.392, Alpha: 11.000, Beta: 1.100

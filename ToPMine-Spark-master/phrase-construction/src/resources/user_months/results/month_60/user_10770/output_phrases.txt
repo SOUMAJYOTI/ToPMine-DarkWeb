@@ -1,0 +1,61 @@
+Topic 0:
+  ratsalad:3.46
+  works:3.44
+  love:3.44
+  tails:3.37
+  work:2.61
+  curent:2.11
+  edit:2.11
+  forum:2.11
+  darknet:2.11
+  sucessfuly:2.11
+
+Topic 1:
+  intel:5.87
+  prefer:4.35
+  backdoors:4.35
+  provided:4.35
+  version electrum:4.26
+  amd:3.99
+  software:3.97
+  original:2.96
+  manage:2.96
+  android:2.96
+
+Topic 2:
+  quote penderecki november:5.85
+  good:4.35
+  tho:4.22
+  burning fuses cpu:3.73
+  locking machine lenovo code:3.72
+  libreboot seabios good:3.71
+  pmlenovo:3.43
+  firmware:3.43
+  bad:3.43
+  level:3.43
+
+Topic 3:
+  select:10.96
+  file manager:8.76
+  tor browser:6.56
+  electrum:6.56
+  click electrum tar gz:6.56
+  double click electrum:6.56
+  click:6.56
+  start electrum:4.37
+  seed:4.37
+  procedure:4.37
+
+Topic 4:
+  boot:5.28
+  key:4.34
+  coreboot:4.34
+  series:4.34
+  signed:4.34
+  burned:4.34
+  november:3.77
+  quote:3.77
+  bios thinkpads:3.33
+  approved:3.32
+
+K: 5, Log-Likelihood: -4085.109, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  opsec:4.89
+  bad:4.08
+  discover:4.08
+  torrenting:4.08
+  fine:4.08
+  response:4.08
+  note:4.08
+  darknet:4.08
+  wonders:4.08
+  great people:4.08
+
+Topic 1:
+  interest:8.28
+  programming language:8.28
+  day:6.18
+  outgoing:4.12
+  cracking:4.12
+  attack:4.12
+  connections:4.12
+  language:4.12
+  programs:4.12
+  internet:4.12
+
+Topic 2:
+  write data sector:8.28
+  os:8.28
+  drive:8.28
+  computer:6.47
+  exists:4.13
+  pmsomeone:4.13
+  task:4.13
+  full:4.13
+  wipe:4.13
+  flip:4.13
+
+Topic 3:
+  good burner laptop darknetmarket:4.76
+  easy offers basically equal:4.48
+  dn tails usb:4.47
+  atop locally cash browsing:4.46
+  worried security buy:4.45
+  november:4.22
+  refurbished thinkpad refurbished thinkpad:4.22
+  encrypt:4.17
+  find:4.10
+  enterprise:4.10
+
+Topic 4:
+  safe:8.67
+  crack wifi:7.20
+  browse dn:5.89
+  mirrormirror:4.21
+  specific:4.10
+  everybodyi:4.10
+  layer security:4.10
+  point:4.10
+  dnmthank:4.10
+  mac:4.10
+
+K: 5, Log-Likelihood: -7780.024, Alpha: 11.000, Beta: 1.100

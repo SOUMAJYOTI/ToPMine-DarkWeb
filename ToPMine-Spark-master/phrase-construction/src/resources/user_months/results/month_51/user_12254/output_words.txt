@@ -1,0 +1,61 @@
+Topic 0:
+  en:0.40
+  kuin:0.40
+  ja:0.40
+  myyj:0.40
+  kyseist:0.40
+  yt:0.40
+  omien:0.20
+  joka:0.20
+  muistan:0.20
+  ainakaan:0.20
+
+Topic 1:
+  kyseist:0.40
+  yt:0.40
+  myyj:0.40
+  kuin:0.40
+  ja:0.40
+  en:0.40
+  perusteella:0.20
+  kyseiselle:0.20
+  mutta:0.20
+  aineelle:0.20
+
+Topic 2:
+  ja:0.40
+  kyseist:0.40
+  myyj:0.40
+  kuin:0.40
+  en:0.40
+  yt:0.40
+  poistumisen:0.20
+  isen:0.20
+  kerran:0.20
+  perusteella:0.20
+
+Topic 3:
+  en:0.40
+  kyseist:0.40
+  yt:0.40
+  myyj:0.40
+  kuin:0.40
+  ja:0.40
+  lkeen:0.20
+  nain:0.20
+  olemattomat:0.20
+  saisi:0.20
+
+Topic 4:
+  yt:0.40
+  ja:0.40
+  kuin:0.40
+  myyj:0.40
+  en:0.40
+  kyseist:0.40
+  olisin:0.20
+  rakastuin:0.20
+  kyll:0.20
+  poistumisen:0.20
+
+K: 5, Log-Likelihood: -273.554, Alpha: 11.000, Beta: 1.100

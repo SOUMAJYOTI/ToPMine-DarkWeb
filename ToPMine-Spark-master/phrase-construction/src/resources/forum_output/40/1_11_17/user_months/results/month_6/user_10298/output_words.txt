@@ -1,0 +1,61 @@
+Topic 0:
+  pandora:9.66
+  agora:8.26
+  dont:2.89
+  sr:2.85
+  february:2.26
+  guess:1.89
+  place:1.83
+  problems:1.83
+  nightmare:1.64
+  forget:1.64
+
+Topic 1:
+  escrow:3.59
+  good:2.78
+  cock:2.34
+  hard:2.34
+  smooth:1.85
+  safe:1.22
+  happen:1.21
+  flaxceed:1.12
+  site:1.10
+  time:0.93
+
+Topic 2:
+  forum:7.89
+  support:5.87
+  pandora:5.03
+  vendor:3.96
+  forums:3.95
+  alice:3.82
+  actual:2.95
+  market:2.35
+  marketplace:2.29
+  months:2.17
+
+Topic 3:
+  flax:29.27
+  testosterone:5.85
+  anti:3.89
+  pill:3.89
+  weight:3.88
+  cycle:3.88
+  loss:3.18
+  size:2.90
+  aromatize:2.90
+  tablets:2.90
+
+Topic 4:
+  january:4.75
+  markets:3.61
+  agora:3.08
+  agree:2.96
+  solid:2.95
+  quote:2.92
+  lot:2.86
+  bitcoins:2.70
+  flaxceed:2.18
+  exploit:1.95
+
+K: 5, Log-Likelihood: -3387.409, Alpha: 11.000, Beta: 1.100

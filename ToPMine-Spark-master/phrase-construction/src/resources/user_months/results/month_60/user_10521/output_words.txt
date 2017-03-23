@@ -1,0 +1,41 @@
+Topic 0:
+  appreciated:0.20
+  encrypting:0.20
+  peoples:0.20
+  confused:0.20
+  opening:0.20
+  messages:0.20
+
+Topic 1:
+  messages:0.20
+  encrypting:0.20
+  appreciated:0.20
+  confused:0.20
+  opening:0.20
+  peoples:0.20
+
+Topic 2:
+  confused:0.20
+  peoples:0.20
+  messages:0.20
+  encrypting:0.20
+  appreciated:0.20
+  opening:0.20
+
+Topic 3:
+  opening:0.20
+  messages:0.20
+  encrypting:0.20
+  peoples:0.20
+  appreciated:0.20
+  confused:0.20
+
+Topic 4:
+  opening:0.20
+  peoples:0.20
+  confused:0.20
+  messages:0.20
+  encrypting:0.20
+  appreciated:0.20
+
+K: 5, Log-Likelihood: -10.751, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  log:0.20
+  havent:0.20
+  hours:0.20
+  bud:0.20
+  login:0.20
+  ohhh:0.20
+  bookmark:0.20
+  great:0.20
+  order:0.20
+  news:0.20
+
+Topic 1:
+  login:0.20
+  bookmark:0.20
+  log:0.20
+  hours:0.20
+  havent:0.20
+  bud:0.20
+  enter:0.20
+  news:0.20
+  pending:0.20
+  ohhh:0.20
+
+Topic 2:
+  great:0.20
+  news:0.20
+  pending:0.20
+  hours:0.20
+  havent:0.20
+  bookmark:0.20
+  login:0.20
+  enter:0.20
+  order:0.20
+  bud:0.20
+
+Topic 3:
+  order:0.20
+  pending:0.20
+  enter:0.20
+  ohhh:0.20
+  hours:0.20
+  login:0.20
+  news:0.20
+  havent:0.20
+  great:0.20
+  bud:0.20
+
+Topic 4:
+  bookmark:0.20
+  bud:0.20
+  log:0.20
+  ohhh:0.20
+  enter:0.20
+  order:0.20
+  pending:0.20
+  havent:0.20
+  great:0.20
+  news:0.20
+
+K: 5, Log-Likelihood: -29.819, Alpha: 11.000, Beta: 1.100

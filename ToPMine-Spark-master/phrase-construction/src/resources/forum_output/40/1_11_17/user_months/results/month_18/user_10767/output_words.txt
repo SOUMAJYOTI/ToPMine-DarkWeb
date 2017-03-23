@@ -1,0 +1,61 @@
+Topic 0:
+  box:3.78
+  routing:3.53
+  setup:1.69
+  packets:1.27
+  nic:1.27
+  host:0.81
+  connected:0.76
+  connects:0.75
+  isolated:0.75
+  xen:0.72
+
+Topic 1:
+  machine:5.95
+  gateway:4.71
+  computer:4.70
+  network:3.72
+  protected:3.71
+  interest:2.73
+  guys:2.73
+  wan:2.72
+  access:2.70
+  main:2.65
+
+Topic 2:
+  setup:2.35
+  average:1.15
+  secure:1.12
+  hardware:0.72
+  dont:0.70
+  bad:0.66
+  hosting:0.64
+  content:0.60
+  answer:0.60
+  protect:0.60
+
+Topic 3:
+  secure:2.82
+  control:2.49
+  average:2.36
+  hosting:2.04
+  bad:2.02
+  setup:1.63
+  solution:1.58
+  boxes:1.58
+  physical:1.58
+  dont:1.52
+
+Topic 4:
+  setup:1.94
+  routing:1.08
+  box:0.86
+  host:0.73
+  xen:0.50
+  connected:0.49
+  secure:0.48
+  nic:0.47
+  packets:0.47
+  connects:0.46
+
+K: 5, Log-Likelihood: -1110.143, Alpha: 11.000, Beta: 1.100

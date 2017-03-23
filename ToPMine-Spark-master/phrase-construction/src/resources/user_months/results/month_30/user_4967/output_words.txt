@@ -1,0 +1,61 @@
+Topic 0:
+  blond:6.15
+  wigs:5.21
+  bitlaundry:4.34
+  address:3.38
+  alice:2.93
+  bob:2.12
+  schedule:1.32
+  time:1.21
+  bobs:1.20
+  delivery:1.18
+
+Topic 1:
+  bitlaundry:2.67
+  alice:2.64
+  address:2.10
+  bob:1.80
+  bitcoins:1.69
+  sends:1.01
+  delivery:0.91
+  bobs:0.90
+  schedule:0.88
+  time:0.88
+
+Topic 2:
+  coins:2.47
+  system:1.74
+  zeta:1.74
+  joke:0.77
+  making:0.77
+  peoples:0.77
+  reticuli:0.77
+  lots:0.77
+  joking:0.77
+  good:0.77
+
+Topic 3:
+  bitlaundry:2.46
+  alice:2.08
+  address:1.27
+  bob:1.11
+  bitcoins:0.95
+  delivery:0.80
+  bobs:0.77
+  time:0.74
+  sends:0.73
+  schedule:0.72
+
+Topic 4:
+  address:3.03
+  bitcoins:2.97
+  bob:2.78
+  bitlaundry:2.29
+  alice:2.12
+  time:1.02
+  sends:0.99
+  bobs:0.98
+  delivery:0.97
+  schedule:0.93
+
+K: 5, Log-Likelihood: -669.898, Alpha: 11.000, Beta: 1.100

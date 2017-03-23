@@ -1,0 +1,61 @@
+Topic 0:
+  tails:0.39
+  people:0.20
+  questions:0.20
+  forums:0.20
+  luck:0.20
+  good:0.20
+  response:0.20
+  tor:0.20
+  time:0.20
+  wallet:0.20
+
+Topic 1:
+  tails:0.40
+  check:0.20
+  electrum:0.20
+  ill:0.20
+  included:0.20
+  luck:0.20
+  good:0.20
+  questions:0.20
+  people:0.20
+  forums:0.20
+
+Topic 2:
+  tails:0.40
+  provider:0.20
+  tor:0.20
+  time:0.20
+  wallet:0.20
+  bitcoin:0.20
+  response:0.20
+  included:0.20
+  electrum:0.20
+  ill:0.20
+
+Topic 3:
+  tails:0.40
+  wallet:0.20
+  bitcoin:0.20
+  time:0.20
+  response:0.20
+  provider:0.20
+  tor:0.20
+  good:0.20
+  forums:0.20
+  electrum:0.20
+
+Topic 4:
+  tails:0.40
+  ill:0.20
+  included:0.20
+  check:0.20
+  electrum:0.20
+  questions:0.20
+  luck:0.20
+  good:0.20
+  forums:0.20
+  people:0.20
+
+K: 5, Log-Likelihood: -46.806, Alpha: 11.000, Beta: 1.100

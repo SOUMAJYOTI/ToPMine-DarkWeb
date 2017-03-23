@@ -1,0 +1,61 @@
+Topic 0:
+  tor:5.58
+  dns:1.71
+  dens:1.06
+  socks:0.94
+  crypt:0.65
+  proxy:0.59
+  domain:0.56
+  resolve:0.56
+  resolves:0.53
+  node:0.51
+
+Topic 1:
+  tor:5.23
+  vpon:1.47
+  dens:1.45
+  vpn:1.29
+  problem:1.04
+  work:1.02
+  crypt:1.02
+  april:0.85
+  resolves:0.71
+  dnscrypt:0.63
+
+Topic 2:
+  socks:4.69
+  proxy:3.09
+  dns:2.51
+  exit:2.18
+  node:2.18
+  resolve:2.13
+  domain:2.12
+  tor:1.65
+  send:1.33
+  assigned:1.32
+
+Topic 3:
+  tor:5.18
+  dens:1.85
+  crypt:1.14
+  dns:1.05
+  resolves:0.72
+  vpn:0.49
+  problem:0.47
+  work:0.46
+  vpon:0.44
+  socks:0.26
+
+Topic 4:
+  tor:2.35
+  vpn:1.94
+  vpon:1.83
+  april:1.71
+  work:1.24
+  problem:1.22
+  dens:1.11
+  mb:0.98
+  quote:0.97
+  understanding:0.97
+
+K: 5, Log-Likelihood: -680.639, Alpha: 11.000, Beta: 1.100

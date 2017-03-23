@@ -1,0 +1,61 @@
+Topic 0:
+  litecoin:21.36
+  litecoin blockchain:16.47
+  bitcoin:13.05
+  time:11.86
+  dklen:9.88
+  geometrical series:9.88
+  passphrase:9.88
+  brute force attack:9.88
+  hmac sha:9.88
+  talked chatrooms confirm authenticity:9.31
+
+Topic 1:
+  homology sphere:46.24
+  sphere:17.34
+  homology spheres:17.34
+  real numbers:12.98
+  called:11.98
+  cauchy sequences:11.56
+  prime:11.55
+  rational numbers:11.55
+  written connected sum:11.55
+  xn yn xn yn:11.55
+
+Topic 2:
+  cryptowall:75.80
+  cryptolocker:50.93
+  ransomware:36.25
+  files:26.36
+  dropper:23.07
+  malware:20.81
+  public key:19.77
+  ctu researchers:19.77
+  file:19.77
+  functionality:16.48
+
+Topic 3:
+  quote:14.16
+  tor project:11.82
+  sex day:11.53
+  india drivers work ubuntu:10.82
+  shiz developers love linus:10.82
+  atop built desktop games:10.82
+  open source:10.37
+  june pmi windows ubuntu:9.40
+  dont advantage cool eepsites:7.69
+  anonymity online torrenting:7.69
+
+Topic 4:
+  operating system:40.40
+  windows:34.11
+  os:23.07
+  mac os:13.18
+  vista:13.18
+  os microsoft:13.18
+  free:11.71
+  linus mint:9.88
+  games:9.88
+  windows vista:9.88
+
+K: 5, Log-Likelihood: -64479.353, Alpha: 11.000, Beta: 1.100

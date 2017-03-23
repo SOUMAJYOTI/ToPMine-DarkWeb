@@ -1,0 +1,61 @@
+Topic 0:
+  feds:5.03
+  service:3.41
+  pgp sigaint:3.32
+  read:3.32
+  fact:3.32
+  tormail:3.32
+  pgp feds:3.32
+  emails:3.32
+  free:1.80
+  recommend:1.80
+
+Topic 1:
+  money:4.96
+  send wallet:4.96
+  time:3.69
+  place:3.65
+  moneygram:2.38
+  life:2.38
+  buy coins:2.38
+  tumbler:2.38
+  market:2.38
+  countrys:2.38
+
+Topic 2:
+  sellers:2.54
+  sooper:1.16
+  coffee:1.16
+  amounts:1.15
+  phone:1.15
+  trade:1.15
+  burner:1.15
+  eh:1.15
+  number:1.15
+  small:1.15
+
+Topic 3:
+  wonderful:1.18
+  anonymous:1.18
+  secure:1.18
+  guys:1.03
+  atm:0.89
+  place:0.87
+  sellers:0.78
+  sigaint:0.70
+  email:0.70
+  order:0.69
+
+Topic 4:
+  hooker:4.99
+  bank:2.33
+  order:2.29
+  lol:1.74
+  thinks:1.59
+  mustered:1.59
+  gladly:1.59
+  ive:1.59
+  turn:1.59
+  tx:1.59
+
+K: 5, Log-Likelihood: -1647.200, Alpha: 11.000, Beta: 1.100

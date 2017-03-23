@@ -1,0 +1,61 @@
+Topic 0:
+  link:1.03
+  qoinpro:0.78
+  address:0.71
+  email:0.69
+  site:0.69
+  account:0.68
+  read:0.68
+  sign:0.50
+  policy:0.46
+  yo:0.45
+
+Topic 1:
+  privacy:0.93
+  policy:0.77
+  yep:0.72
+  yo:0.67
+  btc:0.50
+  user:0.50
+  base:0.48
+  start:0.47
+  cas:0.44
+  cost:0.44
+
+Topic 2:
+  start:1.43
+  btc:1.43
+  base:1.40
+  require:1.02
+  privacy:0.79
+  market:0.78
+  rival:0.78
+  entered:0.78
+  level:0.77
+  cas:0.77
+
+Topic 3:
+  link:4.62
+  referred:2.45
+  nym:2.41
+  sign:2.33
+  qoinpro:1.60
+  darknet:1.50
+  watched:1.50
+  account:1.39
+  email:1.38
+  address:1.35
+
+Topic 4:
+  base:0.92
+  start:0.90
+  btc:0.87
+  privacy:0.82
+  require:0.64
+  user:0.58
+  cost:0.58
+  level:0.58
+  cas:0.58
+  entered:0.57
+
+K: 5, Log-Likelihood: -844.497, Alpha: 11.000, Beta: 1.100

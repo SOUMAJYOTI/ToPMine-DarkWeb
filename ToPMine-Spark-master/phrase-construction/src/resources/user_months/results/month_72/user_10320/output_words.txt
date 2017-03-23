@@ -1,0 +1,61 @@
+Topic 0:
+  link:0.40
+  pointing:0.20
+  hosted:0.20
+  explanation:0.20
+  corrected:0.20
+  alphabet:0.20
+  hub:0.20
+  find:0.20
+  pointed:0.20
+  incorrect:0.20
+
+Topic 1:
+  link:0.40
+  hosted:0.20
+  direct:0.20
+  pointed:0.20
+  corrected:0.20
+  destination:0.20
+  market:0.20
+  explanation:0.20
+  find:0.20
+  alphabet:0.20
+
+Topic 2:
+  link:0.40
+  hub:0.20
+  find:0.20
+  destination:0.20
+  pointing:0.20
+  direct:0.20
+  alphabet:0.20
+  incorrect:0.20
+  sincerely:0.20
+  update:0.20
+
+Topic 3:
+  link:0.40
+  account:0.20
+  fixing:0.20
+  phished:0.20
+  update:0.20
+  sincerely:0.20
+  hope:0.20
+  direct:0.20
+  incorrect:0.20
+  market:0.20
+
+Topic 4:
+  link:0.40
+  hope:0.20
+  update:0.20
+  account:0.20
+  phished:0.20
+  sincerely:0.20
+  fixing:0.20
+  alphabet:0.20
+  hub:0.20
+  explanation:0.20
+
+K: 5, Log-Likelihood: -58.557, Alpha: 11.000, Beta: 1.100

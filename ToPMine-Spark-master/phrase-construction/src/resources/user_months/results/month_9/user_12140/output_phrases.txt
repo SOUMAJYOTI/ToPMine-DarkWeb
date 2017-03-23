@@ -1,0 +1,61 @@
+Topic 0:
+  moneypak:4.10
+  bitcoin anonymously:4.10
+  code:4.10
+  western union:3.60
+  bank:3.53
+  cash:2.93
+  major:2.02
+  anonymous enumbered:2.02
+  required:2.02
+  wire:2.02
+
+Topic 1:
+  service:6.18
+  people:4.56
+  scam:4.10
+  hope:3.12
+  posts:2.02
+  advertisements:2.02
+  btc:2.02
+  forced:2.02
+  continue:2.02
+  goodness:2.02
+
+Topic 2:
+  bitcoin:5.53
+  sea:4.10
+  send:4.10
+  zone:4.10
+  trading:4.10
+  platform:4.10
+  cryptocurrencies:4.10
+  branded:4.10
+  peer:4.10
+  transfers:4.10
+
+Topic 3:
+  april:4.79
+  paysafecard:4.03
+  wash:4.03
+  papa:4.03
+  great idea good true:3.53
+  payment:3.09
+  pmdefinitely:3.09
+  peoples:3.09
+  option:3.08
+  chiefkeef:3.08
+
+Topic 4:
+  bad:3.20
+  money:3.20
+  fact:3.03
+  promising:2.23
+  today:2.00
+  dont:2.00
+  heard:2.00
+  scam buying:2.00
+  difficult:2.00
+  transcation:2.00
+
+K: 5, Log-Likelihood: -2259.161, Alpha: 11.000, Beta: 1.100

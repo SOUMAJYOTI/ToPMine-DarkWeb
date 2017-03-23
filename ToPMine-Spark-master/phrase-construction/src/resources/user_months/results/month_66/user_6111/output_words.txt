@@ -1,0 +1,36 @@
+Topic 0:
+  top:0.20
+  shelf:0.20
+  buds:0.20
+  fire:0.20
+  grade:0.20
+
+Topic 1:
+  fire:0.20
+  buds:0.20
+  grade:0.20
+  shelf:0.20
+  top:0.20
+
+Topic 2:
+  top:0.20
+  buds:0.20
+  fire:0.20
+  shelf:0.20
+  grade:0.20
+
+Topic 3:
+  grade:0.20
+  fire:0.20
+  shelf:0.20
+  buds:0.20
+  top:0.20
+
+Topic 4:
+  grade:0.20
+  top:0.20
+  buds:0.20
+  shelf:0.20
+  fire:0.20
+
+K: 5, Log-Likelihood: -8.047, Alpha: 11.000, Beta: 1.100

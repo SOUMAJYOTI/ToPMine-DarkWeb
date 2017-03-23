@@ -1,0 +1,61 @@
+Topic 0:
+  setting:1.72
+  guide:1.69
+  account:1.69
+  confused:1.69
+  enlighten:1.66
+  yesterday:1.66
+  bit:1.65
+  working:1.65
+  amif:1.65
+  post:1.63
+
+Topic 1:
+  tutorial:2.82
+  otr:1.61
+  avengers:1.44
+  follow:1.43
+  love:1.42
+  xmppjabber:1.32
+  sir:1.12
+  doseheavy:1.10
+  rumors:0.93
+  elaborate:0.91
+
+Topic 2:
+  messenger:3.73
+  noob:1.95
+  tor:1.82
+  working pidgin:1.77
+  ins:1.77
+  appreciated:1.77
+  key:1.77
+  greatly:1.77
+  total:1.77
+  socks:1.77
+
+Topic 3:
+  quote:1.24
+  tails running cool:1.23
+  knowledge extends aim lol:1.18
+  tails users chat:1.14
+  detailed username pidgin:1.11
+  october:1.09
+  pidgin:1.05
+  elaborate:1.03
+  rumors:1.03
+  heard:1.02
+
+Topic 4:
+  tutorial:2.20
+  quote:1.22
+  detailed username pidgin:1.19
+  tails users chat:1.14
+  tails running cool:1.13
+  october:1.08
+  knowledge extends aim lol:1.07
+  xmppjabber:1.00
+  doseheavy:0.94
+  love:0.91
+
+K: 5, Log-Likelihood: -655.366, Alpha: 11.000, Beta: 1.100

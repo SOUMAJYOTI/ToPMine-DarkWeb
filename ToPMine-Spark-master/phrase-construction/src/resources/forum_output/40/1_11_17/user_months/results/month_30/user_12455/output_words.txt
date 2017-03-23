@@ -1,0 +1,61 @@
+Topic 0:
+  otsikosta:0.20
+  osin:0.20
+  kaikki:0.20
+  kysymys:0.20
+  lle:0.20
+  coinit:0.20
+  kuin:0.20
+  kulkevatko:0.20
+  jille:0.20
+  ytynee:0.20
+
+Topic 1:
+  kysymys:0.20
+  ja:0.20
+  pi:0.20
+  otsikosta:0.20
+  coinit:0.20
+  kulkevatko:0.20
+  pit:0.20
+  myyj:0.20
+  tyv:0.20
+  lle:0.20
+
+Topic 2:
+  osin:0.20
+  ennen:0.20
+  yll:0.20
+  kuin:0.20
+  pit:0.20
+  kaikki:0.20
+  eli:0.20
+  jille:0.20
+  mixerin:0.20
+  ostajalta:0.20
+
+Topic 3:
+  mixerin:0.20
+  eli:0.20
+  automaattisesti:0.20
+  yll:0.20
+  ytynee:0.20
+  ostajalta:0.20
+  myyj:0.20
+  kuin:0.20
+  tyv:0.20
+  coinit:0.20
+
+Topic 4:
+  pi:0.20
+  ennen:0.20
+  lle:0.20
+  ja:0.20
+  jille:0.20
+  ostajalta:0.20
+  pit:0.20
+  yll:0.20
+  kaikki:0.20
+  eli:0.20
+
+K: 5, Log-Likelihood: -63.935, Alpha: 11.000, Beta: 1.100

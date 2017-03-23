@@ -1,0 +1,61 @@
+Topic 0:
+  alk:0.60
+  piri:0.20
+  safe:0.20
+  lakkaa:0.20
+  mail:0.20
+  speed:0.20
+  dlemail:0.20
+  meilt:0.20
+  press:0.20
+  saat:0.20
+
+Topic 1:
+  alk:0.60
+  naksuja:0.20
+  piri:0.20
+  press:0.20
+  netcloud:0.20
+  dlemail:0.20
+  speed:0.20
+  safe:0.20
+  saat:0.20
+  mail:0.20
+
+Topic 2:
+  alk:0.60
+  piri:0.20
+  naksuja:0.20
+  lakkaa:0.20
+  safe:0.20
+  mail:0.20
+  saat:0.20
+  speed:0.20
+  dlemail:0.20
+  meilt:0.20
+
+Topic 3:
+  alk:0.60
+  netcloud:0.20
+  lakkaa:0.20
+  meilt:0.20
+  saat:0.20
+  press:0.20
+  mail:0.20
+  safe:0.20
+  dlemail:0.20
+  naksuja:0.20
+
+Topic 4:
+  alk:0.60
+  meilt:0.20
+  saat:0.20
+  speed:0.20
+  mail:0.20
+  dlemail:0.20
+  press:0.20
+  naksuja:0.20
+  lakkaa:0.20
+  safe:0.20
+
+K: 5, Log-Likelihood: -33.722, Alpha: 11.000, Beta: 1.100

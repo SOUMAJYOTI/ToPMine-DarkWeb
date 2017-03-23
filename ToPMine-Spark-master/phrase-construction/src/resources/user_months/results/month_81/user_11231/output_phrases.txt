@@ -1,0 +1,61 @@
+Topic 0:
+  counting:1.85
+  marketplaces list:1.84
+  bad:1.84
+  deepdotweb:1.43
+  kicking:1.43
+  busting:1.43
+  pmbreaking:1.43
+  sr:1.43
+  wow:1.43
+  fucked:1.43
+
+Topic 1:
+  didnt:1.75
+  earn:1.74
+  day:1.74
+  brave:1.26
+  live:1.26
+  felt:1.26
+  level:1.26
+  dreams:1.26
+  pmnah:1.26
+  market february:1.26
+
+Topic 2:
+  markets:1.82
+  growing:0.96
+  activity:0.96
+  competition:0.96
+  hard:0.95
+  defunct:0.94
+  track:0.94
+  btc:0.94
+  problem:0.94
+  spread:0.94
+
+Topic 3:
+  lol:3.11
+  life:1.56
+  matter:1.56
+  signiture:1.54
+  dung:1.42
+  die:1.42
+  gusse:1.42
+  thing:1.42
+  good:1.42
+  chuckle:1.42
+
+Topic 4:
+  markets:1.40
+  dead:0.65
+  trust:0.64
+  marketplaces:0.64
+  market list:0.63
+  activities:0.63
+  close:0.63
+  wallet:0.63
+  fast:0.63
+  list dead:0.63
+
+K: 5, Log-Likelihood: -607.807, Alpha: 11.000, Beta: 1.100

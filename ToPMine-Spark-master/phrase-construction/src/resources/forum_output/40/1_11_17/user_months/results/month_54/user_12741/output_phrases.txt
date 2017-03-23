@@ -1,0 +1,61 @@
+Topic 0:
+  profiilini:0.00
+  yk:0.00
+  laatu:0.00
+  tulossa:0.00
+  hyv:0.00
+  halvat:0.00
+  ja:0.00
+  hinnat:0.00
+  silkkitie:0.00
+  katsomassa:0.00
+
+Topic 1:
+  profiilini:0.00
+  yk:0.00
+  laatu:0.00
+  tulossa:0.00
+  hyv:0.00
+  halvat:0.00
+  ja:0.00
+  hinnat:0.00
+  silkkitie:0.00
+  katsomassa:0.00
+
+Topic 2:
+  profiilini:0.00
+  yk:0.00
+  laatu:0.00
+  tulossa:0.00
+  hyv:0.00
+  halvat:0.00
+  ja:0.00
+  hinnat:0.00
+  silkkitie:0.00
+  katsomassa:0.00
+
+Topic 3:
+  profiilini:0.00
+  yk:0.00
+  laatu:0.00
+  tulossa:0.00
+  hyv:0.00
+  halvat:0.00
+  ja:0.00
+  hinnat:0.00
+  silkkitie:0.00
+  katsomassa:0.00
+
+Topic 4:
+  profiilini:0.00
+  yk:0.00
+  laatu:0.00
+  tulossa:0.00
+  hyv:0.00
+  halvat:0.00
+  ja:0.00
+  hinnat:0.00
+  silkkitie:0.00
+  katsomassa:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

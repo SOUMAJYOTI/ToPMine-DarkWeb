@@ -1,0 +1,61 @@
+Topic 0:
+  vodafone:23.89
+  notice:22.24
+  tor network:19.06
+  report:18.82
+  notice bootstrapped:15.88
+  lawful interception:13.74
+  law enforcement:13.72
+  countries:12.71
+  tor browser:11.91
+  update packages:11.06
+
+Topic 1:
+  tor browser:25.51
+  bug:24.95
+  release:15.89
+  update:13.35
+  whitelist:12.71
+  browser:11.76
+  disable:11.76
+  tails:11.67
+  tor:10.26
+  uri bar:9.53
+
+Topic 2:
+  rogue software:39.63
+  software:35.80
+  wiretaps:25.28
+  athens affair:24.55
+  case:22.27
+  prime minister:19.34
+  vodafone greece:18.80
+  greek:18.28
+  security:17.76
+  dumps:15.76
+
+Topic 3:
+  foreign host country:31.78
+  rcs:25.42
+  foreign based:22.24
+  dea:19.07
+  foreign:15.89
+  rzburg:12.70
+  software:10.00
+  honorable charles:9.53
+  person dea:9.53
+  money launderers:9.53
+
+Topic 4:
+  law enforcement:30.81
+  base station:30.62
+  tower dumps:25.42
+  cdrs:22.24
+  cellar phones:22.24
+  location:20.09
+  law enforcement agencies:17.00
+  target:16.75
+  call:16.53
+  delivered law enforcement:15.89
+
+K: 5, Log-Likelihood: -119555.262, Alpha: 11.000, Beta: 1.100

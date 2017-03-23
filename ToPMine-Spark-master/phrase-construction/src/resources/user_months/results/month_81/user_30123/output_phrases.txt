@@ -1,0 +1,61 @@
+Topic 0:
+  clearnet:12.88
+  tor network:7.41
+  bitcoin:5.18
+  wallet:5.15
+  dnm:4.75
+  localbitcoin:3.67
+  tumble coins:3.32
+  march pmquote bushytop march:3.14
+  mix:3.06
+  activities:1.83
+
+Topic 1:
+  guy:2.65
+  hate:2.65
+  account cc linked mix:2.27
+  problems inb tang:2.25
+  create gmail account:1.94
+  create goggle voice:1.94
+  account traced wifi point:1.93
+  quote bushytop march:1.85
+  quote tang:1.73
+  fair main:1.73
+
+Topic 2:
+  tor network:4.82
+  clearnet:4.49
+  dnm:4.40
+  mix:2.86
+  tumble coins:2.74
+  bitcoin:2.43
+  clearnet account send btc:1.65
+  tor clearnet read mix:1.61
+  mix initials request sending:1.60
+  pmi question public wifi:1.56
+
+Topic 3:
+  create gmail account tor:7.17
+  question fund wallet:3.47
+  realized require cell phone:3.45
+  bitcoins wallet:3.45
+  number thought:3.45
+  actual trace guidance appreciated:3.45
+  goggle voice number workaround:3.45
+  figured anonymous bitcoin atm:3.44
+  time:2.86
+  amso:2.86
+
+Topic 4:
+  cash bank:3.79
+  transfer:3.79
+  works:2.98
+  btc:2.98
+  hassle:2.88
+  hiding:2.88
+  dumbass:2.88
+  illegal:2.88
+  dumb:2.88
+  shit:2.88
+
+K: 5, Log-Likelihood: -2668.193, Alpha: 11.000, Beta: 1.100

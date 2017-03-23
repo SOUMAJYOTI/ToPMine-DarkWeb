@@ -1,0 +1,61 @@
+Topic 0:
+  bad:0.87
+  key:0.85
+  motherfuckers:0.81
+  bits:0.63
+  pgp:0.41
+  asa:0.40
+  signature:0.40
+  newer:0.40
+  evolution:0.40
+  sha:0.20
+
+Topic 1:
+  bad:0.75
+  key:0.74
+  motherfuckers:0.74
+  bits:0.58
+  newer:0.40
+  evolution:0.40
+  pgp:0.40
+  signature:0.40
+  asa:0.40
+  wxdn:0.20
+
+Topic 2:
+  key:0.85
+  motherfuckers:0.84
+  bad:0.78
+  bits:0.57
+  evolution:0.40
+  signature:0.40
+  asa:0.40
+  pgp:0.40
+  newer:0.40
+  npllarysbl:0.20
+
+Topic 3:
+  bad:0.85
+  key:0.82
+  motherfuckers:0.79
+  bits:0.60
+  newer:0.40
+  signature:0.40
+  asa:0.40
+  pgp:0.40
+  evolution:0.40
+  oig:0.20
+
+Topic 4:
+  motherfuckers:0.83
+  bad:0.75
+  key:0.74
+  bits:0.61
+  evolution:0.40
+  signature:0.40
+  asa:0.40
+  newer:0.40
+  pgp:0.40
+  nlbwp:0.20
+
+K: 5, Log-Likelihood: -560.152, Alpha: 11.000, Beta: 1.100

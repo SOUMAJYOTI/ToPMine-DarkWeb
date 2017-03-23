@@ -1,0 +1,61 @@
+Topic 0:
+  flax:30.96
+  capsules:6.96
+  appetite:6.18
+  testosterone:5.96
+  pill:4.10
+  cycle:4.08
+  anti:3.96
+  weight:3.49
+  size:3.05
+  estrogen:2.96
+
+Topic 1:
+  thread:3.12
+  grand:1.60
+  quote:1.58
+  flaxceed:1.57
+  stickied:1.52
+  feeling:1.52
+  traffic:1.51
+  buyers:1.30
+  real:1.29
+  dr:1.29
+
+Topic 2:
+  weight:6.43
+  day:4.92
+  monday:4.69
+  water:3.82
+  sibutramine:2.86
+  loss:2.69
+  eat:2.66
+  brazil:2.63
+  feel:2.58
+  mcg:2.41
+
+Topic 3:
+  house:1.24
+  thread:0.78
+  dr:0.61
+  real:0.61
+  buyers:0.60
+  luck:0.44
+  wizard:0.44
+  traffic:0.40
+  feeling:0.39
+  stickied:0.39
+
+Topic 4:
+  weight:8.90
+  eat:6.25
+  day:5.99
+  fat:4.85
+  water:4.09
+  lose:3.99
+  mcg:3.68
+  nuts:3.60
+  loss:3.31
+  drink:3.29
+
+K: 5, Log-Likelihood: -4772.444, Alpha: 11.000, Beta: 1.100

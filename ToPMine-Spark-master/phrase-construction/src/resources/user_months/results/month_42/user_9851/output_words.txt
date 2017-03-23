@@ -1,0 +1,61 @@
+Topic 0:
+  ho:2.32
+  vendor:2.17
+  police:1.73
+  drugs:1.63
+  disappeared:1.46
+  dutch:1.33
+  avengers:1.27
+  hollandonline:1.27
+  good:1.20
+  arrested:1.19
+
+Topic 1:
+  arrested:4.05
+  hard:2.06
+  happened:2.02
+  mercedes:1.87
+  suspicious:1.87
+  man:1.87
+  driver:1.87
+  drugs:1.43
+  police:1.28
+  cop:0.88
+
+Topic 2:
+  police:3.67
+  online:3.45
+  drugs:3.31
+  someones:3.31
+  tor:3.18
+  contrary:2.58
+  snitching:2.56
+  neighbor:2.52
+  crime:2.51
+  mistake:2.49
+
+Topic 3:
+  drugs:2.32
+  tor:2.02
+  police:1.74
+  ho:1.42
+  online:1.36
+  packages:1.30
+  arrested:1.15
+  vendor:1.03
+  dealer:0.99
+  car:0.98
+
+Topic 4:
+  police:2.59
+  drugs:2.30
+  tor:1.83
+  online:1.43
+  arrested:1.36
+  ho:1.28
+  packages:1.22
+  people:1.09
+  happen:0.97
+  kind:0.92
+
+K: 5, Log-Likelihood: -1623.062, Alpha: 11.000, Beta: 1.100

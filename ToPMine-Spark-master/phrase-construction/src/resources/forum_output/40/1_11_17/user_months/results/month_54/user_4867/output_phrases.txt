@@ -1,0 +1,61 @@
+Topic 0:
+  chat:9.73
+  enjoy hanging:9.45
+  love:6.91
+  guys bit:4.65
+  tmg server:4.65
+  awesome:4.65
+  hub:4.65
+  regularly:4.65
+  wondering:4.65
+  tossed:4.65
+
+Topic 1:
+  server:11.36
+  onion routing:9.54
+  registration works directly pidgin:7.40
+  servers riseup great public:7.40
+  looked public tor xmpp:7.40
+  map registration moderated public:7.40
+  ssl warning case hidden:7.40
+  called xmppomfg work import:7.40
+  servers account:7.40
+  invited moderator calyx institute:7.40
+
+Topic 2:
+  tor:5.02
+  majestic:4.65
+  garden:4.65
+  working:4.63
+  vote:3.49
+  people:3.20
+  gamesome:2.96
+  communication:2.76
+  cjw:2.76
+  fitting:2.76
+
+Topic 3:
+  group chat:12.22
+  xmpp:11.23
+  irc xmpp suited:7.15
+  includes pidgin:7.14
+  host open:7.13
+  encryption find suitable server:7.13
+  map client supports:7.11
+  accounts alternatively invitations people:6.10
+  riseup require admit activation:6.10
+  handle:4.71
+
+Topic 4:
+  time:6.06
+  don piano:5.28
+  hope:4.76
+  occasional:4.76
+  pop:4.76
+  job:4.76
+  wanted community:4.76
+  losing:4.76
+  things:4.76
+  minded:4.76
+
+K: 5, Log-Likelihood: -5533.283, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  script:7.47
+  stuff:6.24
+  november:4.91
+  year:4.89
+  set:4.62
+  quote:4.08
+  rush:3.89
+  xmas:3.89
+  default:3.62
+  tails:3.60
+
+Topic 1:
+  electrum:9.93
+  wallet:8.72
+  quote:6.67
+  client:5.95
+  download:5.93
+  coins:5.91
+  hey:4.91
+  jigsaw:4.62
+  good:4.39
+  remember:4.05
+
+Topic 2:
+  private:13.77
+  key:11.79
+  coinb:11.35
+  november:10.73
+  find:10.15
+  aes:9.87
+  decrypt:9.82
+  correlation:7.78
+  fatherted:7.62
+  theresident:7.28
+
+Topic 3:
+  browser:10.36
+  screen:9.96
+  top:8.94
+  settings:8.48
+  tor:7.71
+  security:7.36
+  time:7.14
+  tails:6.63
+  script:6.14
+  slider:5.91
+
+Topic 4:
+  mail:9.63
+  sigaint:8.77
+  blocking:6.40
+  folder:6.28
+  tor:6.08
+  upgrade:5.88
+  org:5.66
+  iv:4.81
+  worth:4.79
+  automatic:2.88
+
+K: 5, Log-Likelihood: -7393.777, Alpha: 11.000, Beta: 1.100

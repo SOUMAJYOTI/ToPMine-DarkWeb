@@ -1,0 +1,61 @@
+Topic 0:
+  python:5.47
+  mac:2.80
+  electrum:2.59
+  installed:1.99
+  binary:1.49
+  precompiled:1.48
+  moment:1.33
+  wallet:1.32
+  entire:1.30
+  thing:1.29
+
+Topic 1:
+  sign:2.94
+  client:2.87
+  transaction:2.71
+  signature:2.50
+  multisig:2.42
+  problem:2.26
+  wallets:1.94
+  people:1.89
+  addresses:1.80
+  transactions:1.66
+
+Topic 2:
+  sign:8.53
+  wallets:5.66
+  multisig:5.13
+  client:4.62
+  users:4.24
+  bitcoin:3.97
+  address:3.94
+  transactions:3.88
+  addresses:3.79
+  transaction:3.23
+
+Topic 3:
+  mac:3.65
+  electrum:3.51
+  wallet:1.97
+  excusable:1.95
+  tron:1.58
+  quote:1.58
+  installed:1.58
+  lend:1.53
+  working:1.47
+  python:1.35
+
+Topic 4:
+  wallet:2.39
+  problem:1.74
+  hand:1.55
+  market:1.25
+  python:1.21
+  people:1.20
+  set:1.08
+  transaction:0.81
+  quote:0.77
+  darkwallet:0.75
+
+K: 5, Log-Likelihood: -2681.797, Alpha: 11.000, Beta: 1.100

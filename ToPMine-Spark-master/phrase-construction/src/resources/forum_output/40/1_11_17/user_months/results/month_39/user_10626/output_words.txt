@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:3.36
+  key:1.71
+  set:1.48
+  quote:1.26
+  trust:1.13
+  pgp:1.06
+  ol:1.06
+  nucleus:0.87
+  vend:0.82
+  nice:0.73
+
+Topic 1:
+  nucleus:1.80
+  vendor:1.32
+  set:0.90
+  nice:0.77
+  trust:0.72
+  vendors:0.66
+  ol:0.66
+  key:0.61
+  quote:0.60
+  pops:0.57
+
+Topic 2:
+  nucleus:2.04
+  vendors:1.12
+  ag:1.05
+  ol:0.99
+  trust:0.93
+  pops:0.71
+  vendor:0.62
+  set:0.55
+  marketplaces:0.55
+  nice:0.54
+
+Topic 3:
+  vendors:1.50
+  nucleus:1.50
+  vendor:1.38
+  ol:0.97
+  trust:0.90
+  pops:0.71
+  set:0.70
+  nice:0.61
+  quote:0.52
+  ag:0.48
+
+Topic 4:
+  vendors:3.38
+  nucleus:1.79
+  marketplaces:1.69
+  market:1.52
+  dont:1.51
+  marketplace:1.51
+  transactions:1.51
+  escrow:1.50
+  coin:0.92
+  testing:0.91
+
+K: 5, Log-Likelihood: -1068.239, Alpha: 11.000, Beta: 1.100

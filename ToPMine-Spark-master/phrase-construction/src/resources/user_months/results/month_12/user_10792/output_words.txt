@@ -1,0 +1,61 @@
+Topic 0:
+  mac:5.39
+  electrum:4.36
+  excusable:2.65
+  lend:2.18
+  working:1.96
+  tron:1.94
+  wallet:1.87
+  luck:1.62
+  wondering:1.62
+  file:1.62
+
+Topic 1:
+  python:2.61
+  wallet:1.90
+  problem:1.54
+  people:1.15
+  market:1.07
+  hand:1.04
+  electrum:0.85
+  quote:0.80
+  set:0.68
+  mufti:0.63
+
+Topic 2:
+  sign:11.49
+  multisig:7.57
+  wallets:7.54
+  client:7.47
+  bitcoin:5.58
+  addresses:5.57
+  transactions:5.57
+  address:5.55
+  users:5.55
+  transaction:5.15
+
+Topic 3:
+  python:4.44
+  installed:2.35
+  moment:1.52
+  electrum:1.23
+  thing:1.09
+  entire:1.09
+  risks:1.06
+  insulting:1.06
+  aware:1.06
+  security:1.05
+
+Topic 4:
+  problem:2.43
+  wallet:1.84
+  hand:1.57
+  market:1.48
+  people:1.28
+  signature:1.25
+  python:1.07
+  transaction:1.06
+  set:1.05
+  copy:0.87
+
+K: 5, Log-Likelihood: -2655.213, Alpha: 11.000, Beta: 1.100

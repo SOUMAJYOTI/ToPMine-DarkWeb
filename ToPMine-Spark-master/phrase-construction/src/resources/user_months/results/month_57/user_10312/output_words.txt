@@ -1,0 +1,61 @@
+Topic 0:
+  road:3.41
+  silk:1.93
+  admitted:1.52
+  bridges:1.44
+  ulbricht:1.37
+  federal:1.37
+  guilty:1.22
+  laundering:1.17
+  member:1.07
+  agent:1.03
+
+Topic 1:
+  silk:4.99
+  road:3.51
+  bridges:3.48
+  federal:2.55
+  ulbricht:2.55
+  admitted:2.40
+  money:2.00
+  force:1.96
+  agent:1.89
+  member:1.86
+
+Topic 2:
+  battery:5.40
+  websites:3.62
+  phones:2.88
+  internet:2.68
+  users:2.65
+  people:2.59
+  researchers:1.97
+  software:1.93
+  phone:1.81
+  paper:1.29
+
+Topic 3:
+  worried:1.80
+  national:1.75
+  destroy:1.75
+  day:1.75
+  phone:1.02
+  technlogy:0.85
+  die:0.85
+  cut:0.85
+  quote:0.85
+  august:0.85
+
+Topic 4:
+  battery:2.39
+  phone:2.06
+  people:1.33
+  websites:1.30
+  users:1.27
+  internet:1.24
+  html:1.17
+  phones:1.04
+  software:0.99
+  researchers:0.95
+
+K: 5, Log-Likelihood: -1371.626, Alpha: 11.000, Beta: 1.100

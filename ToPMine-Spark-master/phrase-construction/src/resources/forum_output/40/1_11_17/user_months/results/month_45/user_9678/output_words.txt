@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins:1.26
+  online:0.90
+  wallet:0.89
+  drugs:0.86
+  buy:0.85
+  traveling:0.84
+  slipped:0.84
+  nasty:0.84
+  joke:0.84
+  stank:0.84
+
+Topic 1:
+  wallet:1.42
+  bitcoins:1.07
+  bitcoin:0.93
+  risk:0.92
+  online:0.80
+  drugs:0.74
+  buy:0.73
+  guys:0.70
+  bad:0.47
+  vendors:0.47
+
+Topic 2:
+  risk:1.69
+  bitcoin:1.67
+  wallet:1.03
+  guys:0.86
+  ripped:0.70
+  western:0.70
+  scratch:0.69
+  puts:0.69
+  recieving:0.69
+  work:0.69
+
+Topic 3:
+  wallet:1.24
+  bitcoins:1.05
+  buy:0.75
+  drugs:0.73
+  online:0.72
+  bitcoin:0.70
+  risk:0.68
+  guys:0.62
+  answer:0.42
+  sock:0.39
+
+Topic 4:
+  bitcoins:1.94
+  wallet:1.41
+  drugs:1.25
+  online:1.17
+  buy:1.15
+  lost:0.56
+  paying:0.56
+  turnsout:0.56
+  wondering:0.56
+  scam:0.56
+
+K: 5, Log-Likelihood: -541.710, Alpha: 11.000, Beta: 1.100

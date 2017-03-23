@@ -1,0 +1,61 @@
+Topic 0:
+  don:0.31
+  guy:0.20
+  wanted drop:0.20
+  cool:0.20
+  people drop:0.20
+  hope:0.20
+  community:0.20
+  job:0.20
+  absorb:0.20
+  wanted community:0.20
+
+Topic 1:
+  don:0.31
+  piano:0.20
+  welcoming:0.20
+  pop:0.20
+  absorb:0.20
+  people:0.20
+  introducing:0.20
+  community:0.20
+  life:0.20
+  lurk:0.20
+
+Topic 2:
+  don:0.31
+  time making:0.20
+  wanted community:0.20
+  management:0.20
+  feel:0.20
+  reflect:0.20
+  recall:0.20
+  deal:0.20
+  general:0.20
+  losing:0.20
+
+Topic 3:
+  don:0.31
+  minded:0.20
+  allowing:0.20
+  social:0.20
+  normal:0.20
+  move:0.20
+  types:0.20
+  settings:0.20
+  talk:0.20
+  enjoys:0.20
+
+Topic 4:
+  don:0.31
+  people job:0.20
+  making:0.20
+  spot:0.20
+  account:0.20
+  things:0.20
+  difficult:0.20
+  general:0.20
+  order:0.20
+  management:0.20
+
+K: 5, Log-Likelihood: -303.860, Alpha: 11.000, Beta: 1.100

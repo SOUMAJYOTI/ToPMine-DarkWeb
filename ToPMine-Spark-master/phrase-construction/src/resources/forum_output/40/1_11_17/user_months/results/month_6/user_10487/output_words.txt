@@ -1,0 +1,61 @@
+Topic 0:
+  sign:0.62
+  ships:0.58
+  understand:0.40
+  vendor:0.40
+  canada:0.40
+  shit:0.20
+  complete:0.20
+  hands:0.20
+  everytime:0.20
+  choose:0.20
+
+Topic 1:
+  ships:0.60
+  sign:0.59
+  vendor:0.41
+  canada:0.40
+  understand:0.39
+  word:0.20
+  fast:0.20
+  shipping:0.20
+  complete:0.20
+  pgp:0.20
+
+Topic 2:
+  sign:0.60
+  ships:0.57
+  vendor:0.41
+  canada:0.40
+  understand:0.39
+  escrow:0.20
+  notch:0.20
+  customs:0.20
+  shipping:0.20
+  hands:0.20
+
+Topic 3:
+  ships:0.63
+  sign:0.58
+  canada:0.40
+  vendor:0.40
+  understand:0.39
+  deal:0.20
+  received:0.20
+  breaker:0.20
+  personally:0.20
+  orders:0.20
+
+Topic 4:
+  ships:0.62
+  sign:0.61
+  understand:0.42
+  canada:0.40
+  vendor:0.37
+  breaker:0.21
+  deal:0.21
+  received:0.21
+  read:0.21
+  orders:0.21
+
+K: 5, Log-Likelihood: -170.413, Alpha: 11.000, Beta: 1.100

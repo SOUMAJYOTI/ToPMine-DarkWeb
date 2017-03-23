@@ -1,0 +1,61 @@
+Topic 0:
+  market market market:0.00
+  select:0.00
+  alphabay:0.00
+  russian:0.00
+  league:0.00
+  acropolis:0.00
+  india:0.00
+  market market market market:0.00
+  market:0.00
+  codecode:0.00
+
+Topic 1:
+  market market market:0.00
+  select:0.00
+  alphabay:0.00
+  russian:0.00
+  league:0.00
+  acropolis:0.00
+  india:0.00
+  market market market market:0.00
+  market:0.00
+  codecode:0.00
+
+Topic 2:
+  market market market:0.00
+  select:0.00
+  alphabay:0.00
+  russian:0.00
+  league:0.00
+  acropolis:0.00
+  india:0.00
+  market market market market:0.00
+  market:0.00
+  codecode:0.00
+
+Topic 3:
+  market market market:0.00
+  select:0.00
+  alphabay:0.00
+  russian:0.00
+  league:0.00
+  acropolis:0.00
+  india:0.00
+  market market market market:0.00
+  market:0.00
+  codecode:0.00
+
+Topic 4:
+  market market market:0.00
+  select:0.00
+  alphabay:0.00
+  russian:0.00
+  league:0.00
+  acropolis:0.00
+  india:0.00
+  market market market market:0.00
+  market:0.00
+  codecode:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

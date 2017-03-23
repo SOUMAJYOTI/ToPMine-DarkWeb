@@ -1,0 +1,61 @@
+Topic 0:
+  security:1.23
+  pgp:1.08
+  quality:1.03
+  advice:0.83
+  marketplace:0.83
+  comfortable:0.82
+  markets:0.81
+  forum:0.81
+  tails:0.76
+  vendors:0.75
+
+Topic 1:
+  bitcoin:1.77
+  info:1.73
+  hub:1.70
+  security:1.69
+  sr:1.67
+  agra:1.24
+  function:0.77
+  reposted:0.76
+  search:0.76
+  places:0.76
+
+Topic 2:
+  good:4.30
+  opsec:2.34
+  pgp:2.07
+  time:1.48
+  quality:1.26
+  wondering:0.95
+  tails:0.74
+  ll:0.73
+  lucy:0.72
+  luck:0.72
+
+Topic 3:
+  opsec:3.03
+  pgp:2.49
+  time:2.00
+  good:1.69
+  quality:1.18
+  vendors:1.06
+  security:1.05
+  ll:1.04
+  tails:1.04
+  sloppy:0.88
+
+Topic 4:
+  security:1.48
+  sr:1.30
+  hub:1.25
+  info:1.23
+  bitcoin:1.17
+  agra:0.89
+  marketplace:0.84
+  comfortable:0.83
+  advice:0.82
+  forum:0.82
+
+K: 5, Log-Likelihood: -843.816, Alpha: 11.000, Beta: 1.100

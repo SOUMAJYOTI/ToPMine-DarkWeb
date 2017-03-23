@@ -1,0 +1,61 @@
+Topic 0:
+  matter:0.61
+  pmi:0.61
+  quote:0.61
+  scidmt:0.61
+  great job site hacked:0.61
+  multiply vendors exact thing:0.60
+  phishing:0.60
+  spirit:0.60
+  dns:0.60
+  set personal shop thought:0.60
+
+Topic 1:
+  sci:0.57
+  ahold dns:0.57
+  plug ins easy hack:0.56
+  november:0.54
+  thursday passwords changed dens:0.53
+  happen safe:0.53
+  set personal shop thought:0.53
+  scam:0.53
+  complicated:0.53
+  haven:0.53
+
+Topic 2:
+  thing happen safe:0.51
+  site hacked thursday passwords:0.50
+  shop thought great job:0.50
+  dns set personal:0.50
+  changed dens:0.50
+  multiply vendors exact:0.50
+  warned:0.49
+  worked:0.48
+  follow:0.48
+  scallion:0.48
+
+Topic 3:
+  lachesis:1.05
+  ago:1.05
+  users:1.04
+  months:1.04
+  specific:1.04
+  service:1.04
+  tutorial:1.04
+  setup:1.04
+  people:1.04
+  donate:1.03
+
+Topic 4:
+  dns:0.64
+  multiply vendors exact thing:0.64
+  password:0.64
+  hack:0.64
+  scam:0.64
+  complicated:0.63
+  happen safe:0.63
+  pmi:0.63
+  spirit:0.63
+  scidmt:0.63
+
+K: 5, Log-Likelihood: -469.843, Alpha: 11.000, Beta: 1.100

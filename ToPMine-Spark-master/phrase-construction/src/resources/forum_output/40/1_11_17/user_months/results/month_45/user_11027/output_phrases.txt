@@ -1,0 +1,61 @@
+Topic 0:
+  local:2.76
+  trust:2.76
+  coin:2.75
+  client:2.75
+  site:2.59
+  quote:1.80
+  coins:1.80
+  feature:1.80
+  learned:1.80
+  tumbling:1.80
+
+Topic 1:
+  store coins:5.63
+  cold storage:4.37
+  onion:2.62
+  stand:2.62
+  address:2.62
+  libertygangster pmquote:2.62
+  days:2.61
+  unreliable:2.61
+  create:2.61
+  technically:2.61
+
+Topic 2:
+  user:1.70
+  pmone:1.44
+  advertisement:1.44
+  deleted:1.44
+  keeping:1.44
+  ad:1.43
+  running:1.43
+  quote libertygangster:1.43
+  started:1.43
+  complaints:1.43
+
+Topic 3:
+  shadow wallet:4.93
+  mentioned:2.73
+  metioned:1.73
+  personally:1.73
+  hidden:1.73
+  wallet store:1.73
+  system:1.73
+  bitblender tumble:1.73
+  bitcoins:1.73
+  mixer:1.73
+
+Topic 4:
+  angel eyes pmbitblender worked:1.86
+  cold storage:1.40
+  seve wallet tumbler:1.35
+  bitcoinfog original angel eyes:1.35
+  bitblender:1.26
+  quote:1.21
+  offers:0.84
+  armory:0.84
+  including:0.83
+  bitcoin:0.83
+
+K: 5, Log-Likelihood: -1136.556, Alpha: 11.000, Beta: 1.100

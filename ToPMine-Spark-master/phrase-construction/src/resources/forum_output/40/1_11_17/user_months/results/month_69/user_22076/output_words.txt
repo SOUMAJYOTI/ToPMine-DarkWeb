@@ -1,0 +1,61 @@
+Topic 0:
+  markets:0.59
+  real:0.59
+  scams:0.41
+  finding:0.41
+  youi:0.40
+  affordabledo:0.40
+  hope:0.40
+  abamaf:0.20
+  pot:0.20
+  fucking:0.20
+
+Topic 1:
+  markets:0.60
+  real:0.60
+  youi:0.40
+  hope:0.40
+  affordabledo:0.40
+  scams:0.40
+  finding:0.40
+  fucking:0.20
+  rainbow:0.20
+  february:0.20
+
+Topic 2:
+  markets:0.60
+  real:0.56
+  scams:0.42
+  finding:0.42
+  affordabledo:0.41
+  youi:0.41
+  hope:0.41
+  gold:0.20
+  desperately:0.20
+  quote:0.20
+
+Topic 3:
+  real:0.63
+  markets:0.59
+  affordabledo:0.40
+  hope:0.39
+  youi:0.39
+  finding:0.39
+  scams:0.39
+  swam:0.20
+  identity:0.20
+  onion:0.20
+
+Topic 4:
+  real:0.62
+  markets:0.62
+  hope:0.40
+  affordabledo:0.40
+  youi:0.39
+  scams:0.38
+  finding:0.38
+  database:0.21
+  matter:0.21
+  service:0.21
+
+K: 5, Log-Likelihood: -153.203, Alpha: 11.000, Beta: 1.100

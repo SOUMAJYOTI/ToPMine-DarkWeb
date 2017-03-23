@@ -1,0 +1,61 @@
+Topic 0:
+  oon:3.14
+  joku:2.66
+  mut ei:1.53
+  lukee:1.53
+  kattonu:1.53
+  niit:1.53
+  ihme:1.53
+  asentanu:1.53
+  oisko:1.53
+  lion:1.53
+
+Topic 1:
+  se:1.49
+  ei:1.45
+  helpoittais:1.44
+  jo:1.44
+  toimivaa:1.44
+  sen:1.44
+  siis:1.44
+  paljon jos:1.44
+  osotetta:1.44
+  kh:1.44
+
+Topic 2:
+  ja:2.58
+  ss:2.24
+  hoitaa:2.24
+  nain:2.03
+  jos:1.70
+  linux:1.47
+  meinaat:1.47
+  junan:1.47
+  todella:1.47
+  polvin:1.47
+
+Topic 3:
+  avain:4.75
+  ytt:4.01
+  vain:3.14
+  st:3.14
+  itse:3.14
+  pgp:2.20
+  paljon:2.06
+  ja:1.77
+  void:1.54
+  myyj:1.54
+
+Topic 4:
+  pgp:2.48
+  mut:2.26
+  vaan:1.67
+  kyy:1.53
+  myyt:1.53
+  ohjeet:1.53
+  voisko:1.53
+  saa:1.53
+  ku:1.53
+  mun:1.53
+
+K: 5, Log-Likelihood: -1689.904, Alpha: 11.000, Beta: 1.100

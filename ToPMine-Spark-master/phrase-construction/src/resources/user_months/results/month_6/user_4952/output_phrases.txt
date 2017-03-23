@@ -1,0 +1,61 @@
+Topic 0:
+  advice:0.72
+  levels:0.70
+  send:0.54
+  tumbler:0.52
+  coin:0.39
+  anonymity:0.36
+  thoughts:0.36
+  btc:0.36
+  practice:0.36
+  consideration:0.36
+
+Topic 1:
+  advice:0.96
+  levels:0.90
+  send:0.44
+  tumbler:0.44
+  hard:0.42
+  fully:0.42
+  tech:0.42
+  official:0.42
+  security:0.42
+  good:0.42
+
+Topic 2:
+  levels:0.68
+  advice:0.67
+  send:0.62
+  tumbler:0.55
+  coin:0.43
+  vendor:0.34
+  good:0.34
+  paranoia:0.34
+  official:0.34
+  question:0.34
+
+Topic 3:
+  send:1.24
+  coin:0.94
+  tumbler:0.56
+  blockchain:0.45
+  stupid:0.39
+  clearnet:0.39
+  people:0.39
+  ways send:0.39
+  alternative:0.39
+  cheers:0.39
+
+Topic 4:
+  levels:0.73
+  advice:0.68
+  send:0.54
+  tumbler:0.44
+  coin:0.42
+  wallets:0.36
+  open:0.36
+  consideration:0.36
+  anonymity:0.36
+  btc:0.36
+
+K: 5, Log-Likelihood: -357.901, Alpha: 11.000, Beta: 1.100

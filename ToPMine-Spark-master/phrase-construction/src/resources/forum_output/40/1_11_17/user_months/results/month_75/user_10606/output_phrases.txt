@@ -1,0 +1,61 @@
+Topic 0:
+  secure:0.67
+  find:0.35
+  hub:0.35
+  rsa:0.35
+  thought:0.35
+  apg adroit:0.35
+  discovered:0.35
+  family:0.35
+  refreshing:0.35
+  wondering:0.35
+
+Topic 1:
+  usual depends spouse boss:0.35
+  rival organization decrypting messages:0.35
+  eyes government:0.35
+  march:0.34
+  quote:0.34
+  priority:0.31
+  convenience:0.31
+  mix:0.31
+  topic:0.31
+  top:0.31
+
+Topic 2:
+  secure:0.35
+  quote:0.34
+  march:0.34
+  rival organization decrypting messages:0.33
+  eyes government:0.33
+  usual depends spouse boss:0.33
+  messenger app accept long:0.29
+  ami:0.29
+  sms integrated mail stuff:0.29
+  phones:0.29
+
+Topic 3:
+  quote:0.35
+  march:0.35
+  rival organization decrypting messages:0.34
+  usual depends spouse boss:0.33
+  eyes government:0.33
+  government:0.31
+  drugs:0.31
+  topic:0.31
+  agency:0.31
+  top:0.31
+
+Topic 4:
+  secure:0.59
+  curious:0.34
+  wondering:0.34
+  apg adroit:0.34
+  discovered:0.34
+  safe:0.34
+  thought:0.34
+  refreshing:0.34
+  checked:0.34
+  rsa:0.34
+
+K: 5, Log-Likelihood: -556.995, Alpha: 11.000, Beta: 1.100

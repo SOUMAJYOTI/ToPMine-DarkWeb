@@ -1,0 +1,61 @@
+Topic 0:
+  nucleus:25.19
+  deposits:9.09
+  withdraws:7.91
+  vendor:7.19
+  wondering:6.90
+  btc:6.79
+  market:6.75
+  account:6.51
+  escrow:6.22
+  marketplace:6.22
+
+Topic 1:
+  accounts:21.20
+  onion:20.24
+  time:18.46
+  security:17.93
+  multisig:16.41
+  bond:15.82
+  allowed:14.99
+  flaws:14.16
+  key:14.14
+  prior:13.14
+
+Topic 2:
+  market:30.55
+  wallet:21.22
+  key:15.83
+  buyer:13.34
+  address:10.80
+  transaction:9.18
+  text:8.59
+  multisig:8.55
+  share:8.30
+  public:8.15
+
+Topic 3:
+  sites:32.29
+  escrow:24.76
+  site:23.90
+  feedback:15.99
+  vendor:14.95
+  market:14.19
+  markets:12.76
+  thw:11.99
+  offer:11.99
+  pretty:10.92
+
+Topic 4:
+  drive:33.99
+  data:20.97
+  windows:16.99
+  hard:16.14
+  wallet:12.32
+  tor:12.23
+  bitcoins:11.18
+  vpn:11.10
+  drives:8.99
+  erasing:8.99
+
+K: 5, Log-Likelihood: -26107.722, Alpha: 11.000, Beta: 1.100

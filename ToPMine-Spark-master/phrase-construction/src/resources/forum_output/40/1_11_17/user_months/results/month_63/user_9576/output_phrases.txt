@@ -1,0 +1,61 @@
+Topic 0:
+  deep web:0.32
+  shipping control:0.24
+  weed:0.24
+  videos:0.16
+  youtube:0.16
+  unbox:0.16
+  quality:0.16
+  buy:0.16
+  lsd:0.16
+  drug:0.16
+
+Topic 1:
+  deep web:0.32
+  weed:0.24
+  shipping control:0.24
+  videos:0.16
+  quality:0.16
+  buy:0.16
+  youtube:0.16
+  lsd:0.16
+  drug:0.16
+  thing:0.16
+
+Topic 2:
+  deep web:0.33
+  weed:0.24
+  shipping control:0.24
+  quality:0.16
+  thing:0.16
+  drug:0.16
+  unbox:0.16
+  lsd:0.16
+  videos:0.16
+  buy:0.16
+
+Topic 3:
+  deep web:0.32
+  weed:0.24
+  shipping control:0.24
+  buy:0.16
+  youtube:0.16
+  thing:0.16
+  drug:0.16
+  unbox:0.16
+  lsd:0.16
+  quality:0.16
+
+Topic 4:
+  deep web:0.33
+  shipping control:0.24
+  weed:0.24
+  lsd:0.16
+  drug:0.16
+  unbox:0.16
+  thing:0.16
+  youtube:0.16
+  quality:0.16
+  videos:0.16
+
+K: 5, Log-Likelihood: -121.233, Alpha: 11.000, Beta: 1.100

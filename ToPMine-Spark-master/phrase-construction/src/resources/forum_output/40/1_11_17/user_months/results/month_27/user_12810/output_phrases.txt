@@ -1,0 +1,61 @@
+Topic 0:
+  reopened:3.15
+  changed:3.15
+  server:2.85
+  hours:2.67
+  shut:1.59
+  policy:1.55
+  data:1.55
+  loss:1.55
+  shops:1.55
+  check:1.55
+
+Topic 1:
+  dont:2.03
+  worth:1.48
+  accidently:1.41
+  pathetic:1.41
+  flaming:1.41
+  garlicman:1.41
+  bash:1.41
+  yeah:1.41
+  markets:1.41
+  posts:1.41
+
+Topic 2:
+  btc check:4.72
+  onionshop:4.68
+  time:1.74
+  ecc:1.51
+  verifies:1.51
+  connected:1.51
+  advantage:1.51
+  room:1.51
+  vendor:1.51
+  hackers:1.51
+
+Topic 3:
+  market:2.14
+  poll:1.71
+  major:1.54
+  depot:1.54
+  companies:1.54
+  sr:1.54
+  experts:1.54
+  target:1.54
+  health:1.54
+  cr:1.54
+
+Topic 4:
+  hacker:7.98
+  orders:4.96
+  database:4.76
+  thought:3.15
+  btc pool:3.15
+  guide:3.15
+  replaced:3.15
+  secure:3.15
+  script:3.15
+  security check:3.15
+
+K: 5, Log-Likelihood: -2590.686, Alpha: 11.000, Beta: 1.100

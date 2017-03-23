@@ -1,0 +1,61 @@
+Topic 0:
+  news:0.32
+  time:0.24
+  bud:0.16
+  bad:0.16
+  good:0.16
+  pretty:0.08
+  reviews:0.08
+  damn:0.08
+  suspicious:0.08
+  purchase:0.08
+
+Topic 1:
+  news:0.33
+  time:0.24
+  good:0.16
+  bad:0.16
+  bud:0.16
+  market:0.08
+  bottom:0.08
+  attempted:0.08
+  thieves:0.08
+  guy:0.08
+
+Topic 2:
+  news:0.32
+  time:0.24
+  bud:0.16
+  bad:0.16
+  good:0.16
+  check:0.08
+  pretty:0.08
+  thing:0.08
+  thw:0.08
+  darkweb:0.08
+
+Topic 3:
+  news:0.33
+  time:0.24
+  good:0.16
+  bad:0.16
+  bud:0.16
+  dont:0.08
+  silence:0.08
+  pathetic:0.08
+  onionland:0.08
+  convicted:0.08
+
+Topic 4:
+  news:0.32
+  time:0.24
+  bud:0.16
+  bad:0.16
+  good:0.16
+  making:0.08
+  established:0.08
+  damn:0.08
+  darkweb:0.08
+  long:0.08
+
+K: 5, Log-Likelihood: -109.788, Alpha: 11.000, Beta: 1.100

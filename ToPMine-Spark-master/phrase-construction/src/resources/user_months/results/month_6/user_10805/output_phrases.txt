@@ -1,0 +1,61 @@
+Topic 0:
+  users:1.33
+  order:1.16
+  public keys:1.11
+  address:1.04
+  wallet:1.04
+  blockchain:1.02
+  site:0.92
+  transactions:0.81
+  public key:0.75
+  multisig address:0.69
+
+Topic 1:
+  code:4.94
+  address:2.61
+  electrum:2.49
+  number:2.44
+  private key:2.44
+  compromised:2.44
+  tx:2.44
+  deposit:2.44
+  format:2.44
+  moving:2.44
+
+Topic 2:
+  advance:3.04
+  multisig address:3.01
+  order:2.42
+  public keys:2.16
+  address:2.09
+  redeemscript:1.99
+  client coinb:1.97
+  enter:1.97
+  automatically:1.95
+  users:1.95
+
+Topic 3:
+  project:2.35
+  globe:1.13
+  devs:1.13
+  kinda:1.13
+  exchange:1.13
+  open:1.13
+  repo:1.13
+  search:1.13
+  ideas:1.13
+  services:1.13
+
+Topic 4:
+  electrum:3.72
+  electrum servers:2.43
+  market:2.43
+  relies:2.43
+  idea:2.43
+  feedback:1.68
+  blockchain:1.50
+  wallet:1.49
+  looked multisignature transactions electrum:1.18
+  connects:1.18
+
+K: 5, Log-Likelihood: -3667.599, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  fake:0.62
+  site:0.58
+  blow:0.41
+  good:0.40
+  account:0.40
+  accounts:0.40
+  dont:0.40
+  bother:0.40
+  crazy:0.20
+  method:0.20
+
+Topic 1:
+  site:0.63
+  fake:0.59
+  account:0.40
+  blow:0.40
+  bother:0.40
+  good:0.40
+  accounts:0.40
+  dont:0.40
+  cc:0.20
+  trading:0.20
+
+Topic 2:
+  fake:0.61
+  site:0.57
+  dont:0.40
+  bother:0.40
+  accounts:0.40
+  blow:0.40
+  good:0.40
+  account:0.40
+  quality:0.20
+  cashing:0.20
+
+Topic 3:
+  fake:0.60
+  site:0.58
+  account:0.41
+  good:0.40
+  dont:0.40
+  accounts:0.40
+  blow:0.40
+  bother:0.40
+  owner:0.20
+  basically:0.20
+
+Topic 4:
+  site:0.63
+  fake:0.59
+  dont:0.40
+  bother:0.40
+  accounts:0.40
+  good:0.40
+  blow:0.40
+  account:0.39
+  expect:0.20
+  disposal:0.20
+
+K: 5, Log-Likelihood: -272.295, Alpha: 11.000, Beta: 1.100

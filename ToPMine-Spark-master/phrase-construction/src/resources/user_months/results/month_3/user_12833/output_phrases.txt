@@ -1,0 +1,61 @@
+Topic 0:
+  quote:0.73
+  market:0.52
+  scoobyjewso selling actual dox:0.41
+  topic:0.37
+  clarification:0.35
+  ils admin allowed:0.35
+  swimquote:0.30
+  free:0.29
+  wrong:0.28
+  joke:0.28
+
+Topic 1:
+  quote:4.87
+  ils admin allowed:1.85
+  scoobyjewso selling actual dox:1.67
+  topic:1.66
+  ilovespaghettiwe:1.08
+  free:1.08
+  swimquote:1.05
+  whetehr:0.45
+  thoughts:0.44
+  ils:0.44
+
+Topic 2:
+  market:0.67
+  clarification:0.49
+  wee:0.42
+  disrupt:0.42
+  question:0.42
+  power:0.42
+  community:0.42
+  happening:0.42
+  fits:0.42
+  conserned:0.42
+
+Topic 3:
+  quote:1.73
+  topic:0.98
+  scoobyjewso selling actual dox:0.92
+  ils admin allowed:0.82
+  swimquote:0.60
+  ilovespaghettiwe:0.59
+  free:0.59
+  market:0.41
+  wanted:0.30
+  member:0.30
+
+Topic 4:
+  high:1.74
+  admins:1.73
+  rooting:0.73
+  speculation:0.73
+  find:0.73
+  happened:0.73
+  pming:0.73
+  time:0.73
+  action:0.73
+  choice:0.73
+
+K: 5, Log-Likelihood: -596.393, Alpha: 11.000, Beta: 1.100

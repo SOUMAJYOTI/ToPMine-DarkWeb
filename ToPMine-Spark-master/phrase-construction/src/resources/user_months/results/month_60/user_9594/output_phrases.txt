@@ -1,0 +1,61 @@
+Topic 0:
+  love avengers:2.22
+  abraxas:1.14
+  drug listings:0.93
+  referred link:0.85
+  darknet market:0.78
+  referred link link:0.77
+  market:0.73
+  join:0.59
+  easy:0.57
+  azores:0.57
+
+Topic 1:
+  drug listings:3.19
+  love avengers:2.52
+  referred link:2.16
+  referred link link:2.10
+  agora abraham:1.33
+  agora:1.33
+  adapt:1.32
+  buyers:1.32
+  active:1.32
+  sellers:1.31
+
+Topic 2:
+  guess:1.29
+  referred:1.16
+  promote:1.16
+  exact:1.15
+  latent:1.15
+  links:1.15
+  attempt:1.15
+  hub:1.15
+  op:1.15
+  created:1.15
+
+Topic 3:
+  vendor:1.18
+  friendly:1.16
+  operation:1.15
+  concerned:1.14
+  good:1.14
+  dream:1.14
+  carding:1.13
+  markets:1.13
+  visited:1.13
+  user:1.13
+
+Topic 4:
+  minutiae:0.83
+  usability:0.82
+  perspective:0.81
+  weird:0.81
+  big:0.81
+  terms:0.81
+  user:0.81
+  visited:0.81
+  markets:0.80
+  dream:0.80
+
+K: 5, Log-Likelihood: -687.282, Alpha: 11.000, Beta: 1.100

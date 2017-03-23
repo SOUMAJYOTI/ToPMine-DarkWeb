@@ -1,0 +1,61 @@
+Topic 0:
+  contacts:0.99
+  ricochet:0.88
+  address:0.61
+  network:0.41
+  list:0.41
+  servers:0.40
+  send:0.40
+  tor:0.40
+  clearnet:0.39
+  read:0.39
+
+Topic 1:
+  contacts:1.22
+  ricochet:0.73
+  address:0.58
+  tor:0.41
+  network:0.40
+  servers:0.40
+  list:0.40
+  send:0.40
+  clearnet:0.39
+  read:0.39
+
+Topic 2:
+  contacts:0.99
+  ricochet:0.76
+  address:0.58
+  read:0.41
+  clearnet:0.41
+  network:0.40
+  list:0.40
+  send:0.40
+  tor:0.40
+  servers:0.40
+
+Topic 3:
+  contacts:0.87
+  ricochet:0.75
+  address:0.60
+  read:0.42
+  clearnet:0.42
+  send:0.40
+  servers:0.40
+  tor:0.39
+  network:0.39
+  list:0.39
+
+Topic 4:
+  contacts:0.92
+  ricochet:0.88
+  address:0.62
+  tor:0.40
+  send:0.40
+  servers:0.40
+  list:0.40
+  network:0.40
+  clearnet:0.39
+  read:0.39
+
+K: 5, Log-Likelihood: -282.152, Alpha: 11.000, Beta: 1.100

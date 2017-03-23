@@ -1,0 +1,61 @@
+Topic 0:
+  passport:5.02
+  country:2.08
+  years:1.37
+  residency:1.28
+  free:1.23
+  travel:1.13
+  internet:0.96
+  account:0.96
+  banking:0.96
+  vista:0.93
+
+Topic 1:
+  passport:8.80
+  travel:3.98
+  country:3.68
+  residency:2.89
+  vista:2.43
+  free:2.13
+  years:1.89
+  government:1.75
+  privacy:1.69
+  internet:1.66
+
+Topic 2:
+  passport:1.56
+  travel:0.91
+  country:0.85
+  years:0.69
+  residency:0.65
+  free:0.64
+  vista:0.60
+  account:0.56
+  government:0.53
+  privacy:0.53
+
+Topic 3:
+  passport:4.61
+  country:1.37
+  residency:1.16
+  years:1.04
+  vista:1.03
+  free:0.98
+  travel:0.97
+  account:0.96
+  banking:0.90
+  internet:0.87
+
+Topic 4:
+  time:2.92
+  exit:2.90
+  market:2.88
+  hours:2.85
+  long:1.90
+  confirm:1.83
+  office:1.83
+  buy:1.83
+  sell:1.83
+  site:1.61
+
+K: 5, Log-Likelihood: -2883.339, Alpha: 11.000, Beta: 1.100

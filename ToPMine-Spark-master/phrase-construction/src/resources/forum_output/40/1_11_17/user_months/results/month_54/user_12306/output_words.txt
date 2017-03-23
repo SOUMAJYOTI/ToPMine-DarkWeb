@@ -1,0 +1,61 @@
+Topic 0:
+  file:1.32
+  open:1.28
+  pmd:1.19
+  link:1.03
+  dont:1.02
+  site:0.98
+  zip:0.89
+  sucking:0.63
+  quote:0.41
+  talked:0.40
+
+Topic 1:
+  file:1.16
+  open:1.10
+  zip:1.08
+  link:1.08
+  pmd:1.08
+  site:1.06
+  dont:1.01
+  sucking:0.59
+  bitch:0.40
+  sam:0.40
+
+Topic 2:
+  pmd:1.37
+  file:1.25
+  open:1.10
+  link:0.96
+  dont:0.95
+  site:0.95
+  zip:0.95
+  sucking:0.58
+  lot:0.41
+  scammer:0.41
+
+Topic 3:
+  pmd:1.26
+  open:1.19
+  zip:1.09
+  link:1.03
+  dont:1.02
+  site:0.99
+  file:0.98
+  sucking:0.62
+  guys:0.40
+  dnm:0.40
+
+Topic 4:
+  open:1.32
+  file:1.29
+  pmd:1.10
+  site:1.02
+  dont:0.99
+  zip:0.99
+  link:0.90
+  sucking:0.59
+  quote:0.42
+  prick:0.40
+
+K: 5, Log-Likelihood: -481.756, Alpha: 11.000, Beta: 1.100

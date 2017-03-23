@@ -1,0 +1,61 @@
+Topic 0:
+  pgp key:0.24
+  encrypted:0.16
+  message encrypted:0.16
+  odonata:0.16
+  youyou:0.08
+  ill:0.08
+  belong:0.08
+  pm:0.08
+  pmhi:0.08
+  doesnt:0.08
+
+Topic 1:
+  pgp key:0.24
+  message encrypted:0.16
+  encrypted:0.16
+  odonata:0.16
+  doesnt:0.08
+  pub:0.08
+  guess:0.08
+  fd:0.08
+  spitfire:0.08
+  easily:0.08
+
+Topic 2:
+  pgp key:0.24
+  encrypted:0.16
+  odonata:0.16
+  message encrypted:0.16
+  key decrypt:0.08
+  aa:0.08
+  guess:0.08
+  ef:0.08
+  af:0.08
+  pmhi:0.08
+
+Topic 3:
+  pgp key:0.24
+  odonata:0.16
+  message encrypted:0.16
+  encrypted:0.16
+  fd:0.08
+  key decrypt:0.08
+  pm:0.08
+  hazard:0.08
+  quote:0.08
+  guess:0.08
+
+Topic 4:
+  pgp key:0.24
+  odonata:0.16
+  encrypted:0.16
+  message encrypted:0.16
+  ill:0.08
+  quote:0.08
+  party:0.08
+  fingerprint:0.08
+  ef:0.08
+  pmhi:0.08
+
+K: 5, Log-Likelihood: -44.451, Alpha: 11.000, Beta: 1.100

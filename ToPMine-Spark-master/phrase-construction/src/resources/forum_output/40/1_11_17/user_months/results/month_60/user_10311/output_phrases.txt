@@ -1,0 +1,61 @@
+Topic 0:
+  barclays:23.83
+  bitcoin:12.07
+  accept bitcoin:9.74
+  year:7.30
+  accepting bitcoin:7.30
+  working:4.86
+  safello:4.86
+  europe:4.86
+  cryptocurrency:4.86
+  years:4.86
+
+Topic 1:
+  electrum:12.35
+  servers:7.30
+  watching addresses:7.30
+  random:4.86
+  electrum server:4.86
+  tor:4.86
+  keys:4.86
+  transactions:2.72
+  running:2.42
+  socks:2.42
+
+Topic 2:
+  richard spanish september pmquote:6.88
+  bit hit karma piss:5.88
+  pmthanks advice guys youve:5.88
+  quote:5.54
+  asked alfred minus:5.10
+  enigma september:5.10
+  read:4.15
+  ppl:3.99
+  work:3.99
+  wow:3.99
+
+Topic 3:
+  key:5.97
+  big public key:5.80
+  generate:4.81
+  improvement:4.72
+  quote enigma:4.11
+  august:3.96
+  bip:3.96
+  accepted:3.91
+  create:3.89
+  asks:3.89
+
+Topic 4:
+  coins:4.80
+  banks:4.48
+  wallet:3.80
+  lol:3.33
+  blockchain:2.68
+  proprietary:2.39
+  doesnt:2.39
+  pilot:2.39
+  buttcoins:2.39
+  wires:2.39
+
+K: 5, Log-Likelihood: -5294.413, Alpha: 11.000, Beta: 1.100

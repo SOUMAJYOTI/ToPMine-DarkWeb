@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:4.88
+  send:3.11
+  coins:3.10
+  money:3.07
+  place:2.41
+  time:2.19
+  early:1.34
+  forgot:1.33
+  sr:1.33
+  simpler:1.33
+
+Topic 1:
+  hooker:1.47
+  buy:1.02
+  place:1.01
+  order:0.89
+  bank:0.87
+  guys:0.71
+  lol:0.60
+  times:0.55
+  anonymous:0.54
+  thing:0.44
+
+Topic 2:
+  place:1.97
+  buy:1.29
+  wallet:0.81
+  thing:0.65
+  money:0.64
+  coins:0.61
+  send:0.60
+  times:0.59
+  lol:0.57
+  time:0.55
+
+Topic 3:
+  pgp:4.87
+  feds:4.87
+  sigaint:4.69
+  service:3.66
+  email:3.03
+  fact:1.88
+  read:1.88
+  tormail:1.88
+  emails:1.88
+  anonymous:1.53
+
+Topic 4:
+  sellers:1.31
+  hooker:1.07
+  buy:0.93
+  bank:0.73
+  order:0.71
+  guys:0.69
+  anonymous:0.57
+  secret:0.57
+  shop:0.57
+  good:0.57
+
+K: 5, Log-Likelihood: -1194.493, Alpha: 11.000, Beta: 1.100

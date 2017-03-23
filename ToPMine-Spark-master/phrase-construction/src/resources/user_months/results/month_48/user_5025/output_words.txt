@@ -1,0 +1,61 @@
+Topic 0:
+  order:2.05
+  enabled:1.96
+  javascript:1.91
+  scripts:1.24
+  disabled:1.21
+  tails:1.17
+  tor:1.16
+  check:1.13
+  disable:1.13
+  addguy:1.11
+
+Topic 1:
+  night:5.80
+  asia:4.34
+  stal:3.80
+  ug:3.80
+  july:2.00
+  quote:1.99
+  place:1.94
+  closed:1.91
+  study:1.83
+  buddy:1.83
+
+Topic 2:
+  order:2.34
+  enabled:1.34
+  javascript:1.25
+  ordered:1.16
+  buddy:0.98
+  study:0.96
+  asia:0.83
+  place:0.80
+  addguy:0.73
+  middle:0.72
+
+Topic 3:
+  javascript:3.83
+  order:3.56
+  addguy:1.88
+  enabled:1.81
+  ordered:1.22
+  middle:1.21
+  earth:1.17
+  check:1.06
+  disable:1.06
+  tails:1.04
+
+Topic 4:
+  order:3.98
+  addguy:2.22
+  enabled:1.81
+  ordered:1.65
+  earth:1.14
+  middle:1.09
+  javascript:0.93
+  script:0.87
+  java:0.86
+  great:0.83
+
+K: 5, Log-Likelihood: -1726.949, Alpha: 11.000, Beta: 1.100

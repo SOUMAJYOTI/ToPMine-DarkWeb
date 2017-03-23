@@ -1,0 +1,61 @@
+Topic 0:
+  hardened:4.13
+  air:4.00
+  gentoo:3.97
+  gapped:3.73
+  measures:3.19
+  computer:3.11
+  security:3.03
+  dont:2.65
+  encrypt:1.78
+  whonix:1.77
+
+Topic 1:
+  pgp:2.73
+  security:1.50
+  computer:1.42
+  measures:1.39
+  tor:1.13
+  places:1.07
+  truecrypt:1.06
+  set:1.05
+  based:1.05
+  installed:1.05
+
+Topic 2:
+  pgp:2.68
+  security:2.23
+  computer:2.13
+  measures:2.09
+  copy:1.28
+  partition:1.27
+  wrong:1.26
+  gapped:1.26
+  truecrypt:1.24
+  set:1.24
+
+Topic 3:
+  email:3.67
+  pgp:2.43
+  client:1.50
+  hassle:1.47
+  truecrypt:1.42
+  wrong:1.41
+  partition:1.40
+  fresh:1.40
+  tor:1.38
+  installed:1.37
+
+Topic 4:
+  guys:3.53
+  message:3.12
+  pgp:2.59
+  key:2.53
+  good:2.11
+  client:1.71
+  hassle:1.69
+  called:1.62
+  website:1.62
+  send:1.61
+
+K: 5, Log-Likelihood: -1775.165, Alpha: 11.000, Beta: 1.100

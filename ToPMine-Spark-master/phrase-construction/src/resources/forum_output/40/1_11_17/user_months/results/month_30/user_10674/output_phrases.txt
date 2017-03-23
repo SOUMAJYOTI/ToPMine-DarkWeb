@@ -1,0 +1,61 @@
+Topic 0:
+  poster:2.31
+  guy:2.30
+  boss:2.29
+  box:1.09
+  die:1.09
+  foolhardy:1.09
+  text long codeword item:1.09
+  departments buying fake cell:1.09
+  icing:1.09
+  shit contract phones ten:1.09
+
+Topic 1:
+  torchat:2.42
+  computer:2.42
+  services:2.42
+  code:2.42
+  party:2.42
+  webbased:1.18
+  eehhhhmmmmm:1.18
+  jitsy:1.18
+  story:1.18
+  haha:1.18
+
+Topic 2:
+  marshalls throwing fuckers planes:0.47
+  everyday pizza texting meeting:0.46
+  allowed court:0.46
+  grab kind info local:0.45
+  fuck bust ass:0.45
+  thought:0.40
+  people piss:0.39
+  great idea kudos:0.39
+  jitjat communicating people:0.39
+  send reason list time:0.39
+
+Topic 3:
+  joint:0.80
+  handled:0.79
+  btw:0.79
+  ready:0.79
+  onslaught:0.79
+  lot police departments buying:0.72
+  figure guys figure texting:0.72
+  called instance:0.72
+  fake cell towers kingfishers:0.72
+  topic hearing:0.72
+
+Topic 4:
+  jitjat:3.48
+  conversation:2.44
+  require:2.44
+  messenger:2.44
+  copy:2.44
+  communicate safely:2.44
+  instant:2.44
+  server:2.44
+  web:2.44
+  messaging:2.44
+
+K: 5, Log-Likelihood: -2284.829, Alpha: 11.000, Beta: 1.100

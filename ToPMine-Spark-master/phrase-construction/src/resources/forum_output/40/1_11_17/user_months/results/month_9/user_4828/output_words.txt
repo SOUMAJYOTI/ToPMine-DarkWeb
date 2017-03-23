@@ -1,0 +1,61 @@
+Topic 0:
+  buy:3.19
+  time:2.99
+  btc:2.07
+  method:2.07
+  didnt:1.63
+  lbc:1.62
+  hit:1.48
+  sell:1.39
+  remember:1.24
+  walgreens:1.09
+
+Topic 1:
+  key:9.22
+  wallet:4.12
+  mpk:3.04
+  electrum:2.64
+  private:1.69
+  crack:1.69
+  pgp:1.54
+  account:1.26
+  change:1.26
+  public:1.24
+
+Topic 2:
+  btc:7.78
+  vendor:3.28
+  trusted:3.24
+  buy:2.66
+  method:2.50
+  sell:2.46
+  idea:1.91
+  remember:1.60
+  mpak:1.54
+  pak:1.54
+
+Topic 3:
+  key:7.86
+  change:2.61
+  sign:1.57
+  option:1.43
+  easiest:1.12
+  solutionwould:1.12
+  vast:1.12
+  thread:1.12
+  posting:1.12
+  learning:1.11
+
+Topic 4:
+  pgp:2.94
+  change:2.67
+  customers:2.27
+  nym:2.20
+  jail:1.77
+  freedom:1.76
+  plaintext:1.76
+  extremely:1.74
+  talking:1.74
+  death:1.73
+
+K: 5, Log-Likelihood: -2028.987, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  application level:9.16
+  ddos:9.16
+  market:7.39
+  attacks market:4.55
+  time nucleus:4.55
+  reveal:4.55
+  exceptions:4.55
+  ddosing markets:4.55
+  ip:4.55
+  notice:4.55
+
+Topic 1:
+  javascript:6.81
+  quote:6.11
+  doesnt:4.50
+  odd:4.50
+  creating:4.50
+  big:4.50
+  originally:4.50
+  enabled:4.50
+  set:4.50
+  surprise:4.50
+
+Topic 2:
+  time:5.35
+  testing:4.49
+  middle earth market:4.35
+  stupid:4.31
+  guy:3.97
+  wtf:3.65
+  mollymaniacs:3.50
+  dust:3.37
+  shop:2.65
+  globe:2.65
+
+Topic 3:
+  week:5.39
+  markets:4.30
+  place:4.14
+  glad:2.72
+  sporadically:2.68
+  art:2.68
+  slowly:2.68
+  cannon:2.68
+  year:2.68
+  vendor:2.68
+
+Topic 4:
+  lord rings pi professional:8.40
+  gandalf usual problems withdraw:6.70
+  fact admins called gollum:6.68
+  lord rings:5.94
+  mind:4.49
+  greed:4.49
+  wizard:4.49
+  admin:4.49
+  character:4.49
+  thing gollum:4.49
+
+K: 5, Log-Likelihood: -4284.134, Alpha: 11.000, Beta: 1.100

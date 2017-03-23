@@ -1,0 +1,46 @@
+Topic 0:
+  btc:0.00
+  syscoin:0.00
+  org:0.00
+  double:0.00
+  invest:0.00
+  march:0.00
+  coin:0.00
+
+Topic 1:
+  btc:0.00
+  syscoin:0.00
+  org:0.00
+  double:0.00
+  invest:0.00
+  march:0.00
+  coin:0.00
+
+Topic 2:
+  btc:0.00
+  syscoin:0.00
+  org:0.00
+  double:0.00
+  invest:0.00
+  march:0.00
+  coin:0.00
+
+Topic 3:
+  btc:0.00
+  syscoin:0.00
+  org:0.00
+  double:0.00
+  invest:0.00
+  march:0.00
+  coin:0.00
+
+Topic 4:
+  btc:0.00
+  syscoin:0.00
+  org:0.00
+  double:0.00
+  invest:0.00
+  march:0.00
+  coin:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  gateway:7.43
+  machine:5.56
+  traffic:3.69
+  separate:3.69
+  host:3.69
+  called:3.69
+  computer:3.69
+  operating:3.69
+  identifying:3.69
+  system:3.69
+
+Topic 1:
+  darknet:2.80
+  people:2.61
+  man:2.58
+  firelight firelight:1.78
+  big:1.78
+  throwaway:1.78
+  answered:1.78
+  learn:1.78
+  inbox:1.78
+  question:1.78
+
+Topic 2:
+  physical gateway:4.29
+  option javascript:3.64
+  javascript:3.12
+  recommended:2.83
+  virtual machines:2.83
+  developers:2.83
+  maximum:2.68
+  adversaries:2.68
+  thinks:2.68
+  unknown:2.68
+
+Topic 3:
+  phoenix workstation:7.42
+  snapshot:3.68
+  manages:1.81
+  virtualbox:1.81
+  start:1.81
+  easy:1.81
+  previous:1.81
+  folder:1.81
+  arrangements:1.81
+  revert:1.81
+
+Topic 4:
+  free:4.30
+  personally:3.68
+  advice:3.68
+  forums:3.67
+  users:3.67
+  time:3.57
+  fact:3.57
+  bringing:2.82
+  security:2.63
+  place:1.81
+
+K: 5, Log-Likelihood: -2950.902, Alpha: 11.000, Beta: 1.100

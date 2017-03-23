@@ -1,0 +1,26 @@
+Topic 0:
+  download:0.20
+  enjoy:0.20
+  rich:0.20
+
+Topic 1:
+  rich:0.20
+  enjoy:0.20
+  download:0.20
+
+Topic 2:
+  download:0.20
+  enjoy:0.20
+  rich:0.20
+
+Topic 3:
+  enjoy:0.20
+  download:0.20
+  rich:0.20
+
+Topic 4:
+  rich:0.20
+  enjoy:0.20
+  download:0.20
+
+K: 5, Log-Likelihood: -3.296, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  money:1.63
+  pay:1.48
+  year:0.92
+  pay taxes:0.76
+  work:0.73
+  buy house:0.73
+  large amounts:0.72
+  send:0.72
+  business donation site:0.72
+  cash:0.68
+
+Topic 1:
+  paying tax:2.05
+  fail:1.67
+  irs:1.15
+  investigate people:0.96
+  book:0.96
+  time:0.96
+  investigate money:0.96
+  likewise:0.96
+  problem:0.96
+  returns:0.96
+
+Topic 2:
+  money:1.22
+  pay:1.21
+  year:0.86
+  large amounts:0.68
+  pay taxes:0.68
+  work:0.67
+  buy house:0.67
+  send:0.67
+  business donation site:0.66
+  cash:0.64
+
+Topic 3:
+  pay:1.40
+  money:1.32
+  year:0.80
+  business donation site:0.68
+  buy house:0.68
+  send:0.68
+  large amounts:0.68
+  work:0.68
+  pay taxes:0.66
+  cash:0.64
+
+Topic 4:
+  pay:1.38
+  money:1.30
+  year:0.84
+  business donation site:0.64
+  send:0.64
+  cash:0.63
+  large amounts:0.62
+  buy house:0.62
+  work:0.62
+  pay taxes:0.61
+
+K: 5, Log-Likelihood: -1460.375, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.32
+  varmaan:0.30
+  tutkivat:0.28
+  ne:0.28
+  mit:0.28
+  voisi:0.28
+  kytti:0.28
+  eat:0.28
+  ett:0.27
+  joo:0.23
+
+Topic 1:
+  varmaan:0.80
+  ett:0.36
+  tod:0.33
+  etuk:0.33
+  normaaliolosuhteissa:0.33
+  ss:0.33
+  tiet:0.33
+  tekniikkaa:0.33
+  edes:0.33
+  johdolle:0.33
+
+Topic 2:
+  varmaan:0.45
+  ett:0.31
+  ja:0.31
+  vakituinen:0.25
+  ty:0.25
+  pist:0.25
+  vannon:0.25
+  voin:0.25
+  rahanne:0.25
+  mainita:0.25
+
+Topic 3:
+  eat:0.62
+  voisi:0.61
+  ne:0.61
+  tutkivat:0.61
+  kytti:0.61
+  mit:0.61
+  ja:0.32
+  tyyppi:0.28
+  onko:0.28
+  erikoisj:0.28
+
+Topic 4:
+  kytti:0.65
+  mit:0.65
+  tutkivat:0.65
+  voisi:0.64
+  ne:0.64
+  eat:0.64
+  ja:0.32
+  olive:0.29
+  tail:0.29
+  tulip:0.29
+
+K: 5, Log-Likelihood: -676.087, Alpha: 11.000, Beta: 1.100

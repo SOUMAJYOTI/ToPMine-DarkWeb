@@ -1,0 +1,61 @@
+Topic 0:
+  openssl:2.39
+  key:2.30
+  private:1.57
+  generated:1.53
+  server:1.51
+  node:1.49
+  tor:1.48
+  problem:1.46
+  pre:1.36
+  proper:0.65
+
+Topic 1:
+  ssl:1.15
+  openssl:0.79
+  key:0.77
+  private:0.64
+  pre:0.62
+  tor:0.61
+  generated:0.61
+  node:0.61
+  problem:0.61
+  server:0.59
+
+Topic 2:
+  ssl:1.51
+  change:0.74
+  imagine:0.64
+  openssl:0.58
+  key:0.57
+  tor:0.44
+  generated:0.44
+  problem:0.43
+  pre:0.43
+  node:0.42
+
+Topic 3:
+  key:2.23
+  openssl:2.10
+  pre:1.47
+  problem:1.38
+  node:1.36
+  server:1.36
+  tor:1.34
+  generated:1.31
+  private:1.25
+  identified:0.63
+
+Topic 4:
+  imagine:2.82
+  ssl:2.59
+  sites:1.25
+  sign:1.25
+  onion:1.25
+  huge:1.25
+  yelling:1.24
+  domain:1.24
+  alarm:1.24
+  hard:1.24
+
+K: 5, Log-Likelihood: -651.309, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  wrap blotters:0.20
+  potency theoretically conditions:0.20
+  bag press air:0.20
+  beef jerky plastic bag:0.20
+  wax paper layer:0.20
+  storage indefinitely low temperatures:0.20
+  notice drops:0.20
+  dessicator:0.20
+  place ziploc:0.20
+  gel packets find shoes:0.20
+
+Topic 1:
+  beef jerky plastic bag:0.20
+  place ziploc:0.20
+  wax paper layer:0.20
+  dessicator:0.20
+  gel packets find shoes:0.20
+  place dessicator selina:0.20
+  bag press air:0.20
+  storage indefinitely low temperatures:0.20
+  wrap blotters:0.20
+  potency theoretically conditions:0.20
+
+Topic 2:
+  place:0.20
+  years:0.20
+  system:0.20
+  august:0.20
+  dry:0.20
+  ziploc bag press air:0.20
+  lot:0.20
+  place dessicator:0.20
+  notice drops potency:0.20
+  dark:0.20
+
+Topic 3:
+  notice drops:0.21
+  dessicator:0.20
+  place dessicator selina:0.20
+  potency theoretically conditions:0.20
+  place ziploc:0.20
+  storage indefinitely low temperatures:0.20
+  gel packets find shoes:0.20
+  beef jerky plastic bag:0.20
+  bag press air:0.20
+  wax paper layer:0.20
+
+Topic 4:
+  potency:0.20
+  degrees:0.20
+  dry:0.20
+  type:0.20
+  broken:0.20
+  cool:0.20
+  bag wrap:0.20
+  selina gel packets find:0.20
+  dark:0.20
+  rg:0.20
+
+K: 5, Log-Likelihood: -218.783, Alpha: 11.000, Beta: 1.100

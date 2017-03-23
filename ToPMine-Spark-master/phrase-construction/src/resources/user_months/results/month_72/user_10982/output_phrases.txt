@@ -1,0 +1,61 @@
+Topic 0:
+  sunday:0.14
+  customer:0.14
+  friendly:0.14
+  fast:0.14
+  shipping:0.14
+  super:0.14
+  good:0.14
+  affordable:0.14
+  cocaine:0.14
+  ship:0.14
+
+Topic 1:
+  stealthy:0.14
+  ship:0.14
+  super:0.14
+  ta:0.14
+  dont:0.14
+  market:0.14
+  havent:0.14
+  shipping:0.14
+  weekdays:0.14
+  attitude:0.14
+
+Topic 2:
+  price:0.14
+  friendly:0.14
+  profile:0.14
+  fast:0.14
+  cocaine:0.14
+  python:0.14
+  affordable:0.14
+  weekdays:0.14
+  customer:0.14
+  good:0.14
+
+Topic 3:
+  ta:0.14
+  havent:0.14
+  marketplace:0.14
+  lot:0.14
+  attitude:0.14
+  customer:0.14
+  fe:0.14
+  market:0.14
+  shipping:0.14
+  fast:0.14
+
+Topic 4:
+  lot:0.14
+  marketplace:0.14
+  dont:0.14
+  cocaine:0.14
+  price:0.14
+  affordable:0.14
+  havent:0.14
+  fe:0.14
+  good:0.14
+  profile:0.14
+
+K: 5, Log-Likelihood: -50.275, Alpha: 11.000, Beta: 1.100

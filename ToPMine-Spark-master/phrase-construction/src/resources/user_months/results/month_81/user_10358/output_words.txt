@@ -1,0 +1,61 @@
+Topic 0:
+  fee:6.44
+  commission:5.12
+  send:2.80
+  split:1.91
+  trust:1.86
+  amounts:1.60
+  randomized:1.59
+  basically:1.54
+  small:1.53
+  mixer:1.53
+
+Topic 1:
+  services:5.35
+  bitcoin:4.00
+  fee:1.80
+  problems:1.71
+  blender:1.57
+  commission:1.55
+  mixing:1.53
+  trust:0.91
+  grams:0.84
+  coins:0.75
+
+Topic 2:
+  salamanca:1.65
+  services:1.37
+  grams:1.29
+  bitcoin:1.14
+  scammer:1.10
+  careful:1.08
+  web:1.08
+  mistake:1.08
+  browsing:1.08
+  deep:1.07
+
+Topic 3:
+  send:5.91
+  real:5.14
+  fee:5.03
+  site:3.75
+  mixer:3.60
+  btc:3.51
+  commission:2.72
+  grams:2.55
+  pay:1.65
+  fast:1.64
+
+Topic 4:
+  money:2.22
+  read:1.87
+  grams:1.67
+  payshield:1.26
+  mixers:1.24
+  coins:1.24
+  salamanca:1.23
+  amounts:0.98
+  small:0.98
+  trust:0.87
+
+K: 5, Log-Likelihood: -1840.249, Alpha: 11.000, Beta: 1.100

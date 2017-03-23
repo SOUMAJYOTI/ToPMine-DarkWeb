@@ -1,0 +1,61 @@
+Topic 0:
+  sr:2.67
+  ddos:0.84
+  site:0.63
+  lost:0.61
+  hack:0.60
+  cunts:0.56
+  quote:0.56
+  forums:0.56
+  hub:0.51
+  vendors:0.50
+
+Topic 1:
+  sr:4.32
+  lost:0.77
+  ddos:0.68
+  hack:0.67
+  quote:0.58
+  forums:0.58
+  market:0.54
+  site:0.48
+  cunts:0.48
+  attack:0.46
+
+Topic 2:
+  sr:2.49
+  ddos:0.83
+  hack:0.62
+  site:0.61
+  cunts:0.59
+  lost:0.58
+  forums:0.57
+  quote:0.57
+  hub:0.47
+  vendors:0.47
+
+Topic 3:
+  sr:2.81
+  ddos:0.78
+  forums:0.63
+  quote:0.62
+  hack:0.62
+  site:0.61
+  cunts:0.56
+  lost:0.55
+  blah:0.44
+  peek:0.43
+
+Topic 4:
+  sr:2.71
+  ddos:0.88
+  cunts:0.81
+  site:0.67
+  quote:0.66
+  forums:0.65
+  le:0.53
+  long:0.53
+  favor:0.52
+  thieving:0.52
+
+K: 5, Log-Likelihood: -800.233, Alpha: 11.000, Beta: 1.100

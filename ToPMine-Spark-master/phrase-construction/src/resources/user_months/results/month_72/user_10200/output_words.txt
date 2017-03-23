@@ -1,0 +1,61 @@
+Topic 0:
+  west:1.66
+  january:1.65
+  honestly:1.45
+  remain:1.44
+  india:1.42
+  shoulda:1.39
+  straight:1.37
+  murked:1.34
+  senses:0.99
+  quote:0.99
+
+Topic 1:
+  west:1.50
+  murked:1.08
+  straight:1.05
+  shoulda:1.03
+  india:1.00
+  honestly:0.98
+  remain:0.97
+  january:0.89
+  quote:0.85
+  days:0.66
+
+Topic 2:
+  market:4.88
+  msig:2.77
+  central:1.78
+  scammed:1.78
+  tho:1.78
+  scam:0.96
+  recovery:0.80
+  withdrawals:0.80
+  sucking:0.80
+  pmis:0.80
+
+Topic 3:
+  market:0.94
+  eic:0.62
+  side:0.61
+  west:0.57
+  quote:0.42
+  days:0.40
+  remain:0.39
+  online:0.38
+  india:0.38
+  shoulda:0.38
+
+Topic 4:
+  coming:1.62
+  tech:1.62
+  theory:1.61
+  side:1.59
+  eic:1.59
+  evolved:0.70
+  december:0.70
+  logged:0.70
+  experienced:0.70
+  busted:0.70
+
+K: 5, Log-Likelihood: -736.882, Alpha: 11.000, Beta: 1.100

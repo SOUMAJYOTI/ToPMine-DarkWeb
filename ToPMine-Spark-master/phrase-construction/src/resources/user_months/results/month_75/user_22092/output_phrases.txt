@@ -1,0 +1,61 @@
+Topic 0:
+  anon:0.28
+  mail:0.28
+  cash:0.27
+  face:0.27
+  person:0.27
+  verify:0.14
+  easy:0.14
+  stick:0.14
+  involved:0.14
+  require:0.14
+
+Topic 1:
+  anon:0.29
+  mail:0.29
+  face:0.27
+  person:0.27
+  cash:0.27
+  walk:0.14
+  address:0.14
+  undercover:0.14
+  providers:0.14
+  verificaton:0.14
+
+Topic 2:
+  mail:0.30
+  anon:0.30
+  face:0.25
+  person:0.25
+  cash:0.25
+  amounts:0.15
+  anon mail:0.15
+  stay:0.15
+  knowing:0.15
+  tor:0.15
+
+Topic 3:
+  face:0.30
+  cash:0.30
+  person:0.30
+  anon:0.26
+  mail:0.26
+  arrange:0.14
+  btc:0.14
+  time:0.14
+  library:0.14
+  computer:0.14
+
+Topic 4:
+  person:0.30
+  cash:0.30
+  face:0.30
+  anon:0.26
+  mail:0.26
+  dim:0.14
+  agree:0.14
+  record:0.14
+  guest:0.14
+  time:0.14
+
+K: 5, Log-Likelihood: -251.731, Alpha: 11.000, Beta: 1.100

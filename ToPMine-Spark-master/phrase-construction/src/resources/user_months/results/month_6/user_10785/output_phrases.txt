@@ -1,0 +1,61 @@
+Topic 0:
+  software:8.67
+  brian:8.11
+  mac:6.01
+  place closed source proprietary:5.14
+  software filevault:5.14
+  truecrypt open source crypto:5.14
+  march:5.10
+  meant:4.85
+  partition:4.81
+  apples relationship asa assume:4.42
+
+Topic 1:
+  full disk encryption:9.39
+  sleep:8.47
+  truecrypt:7.96
+  filevault clearnet:7.31
+  filevault apple:7.31
+  brazilian:7.31
+  security:5.37
+  dont:4.95
+  lion:4.87
+  user:4.87
+
+Topic 2:
+  special characters:12.76
+  search space:12.69
+  works bits entropy:10.56
+  order:8.41
+  password:7.60
+  character password:7.36
+  computers:6.74
+  limit:6.70
+  key:6.69
+  upper lowercase:6.54
+
+Topic 3:
+  clearnet sites:9.76
+  hidden service:9.76
+  clearnet site:7.31
+  analysis:4.87
+  hidden services:4.87
+  exit:4.87
+  pray:4.87
+  traffic:4.87
+  settings:4.87
+  circuits:4.87
+
+Topic 4:
+  tor:4.83
+  search space:4.40
+  running:3.68
+  bits entropy:2.65
+  pmi:2.58
+  password:2.55
+  find:2.54
+  brute force:2.49
+  strong:2.41
+  character password:2.40
+
+K: 5, Log-Likelihood: -13840.726, Alpha: 11.000, Beta: 1.100

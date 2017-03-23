@@ -1,0 +1,61 @@
+Topic 0:
+  departments:4.46
+  police:4.10
+  hr:3.66
+  idea:3.17
+  cop:3.14
+  create:2.81
+  call:2.72
+  full:2.55
+  good:2.45
+  phone:2.36
+
+Topic 1:
+  forums:12.05
+  law:10.88
+  account:9.72
+  sworn:9.69
+  number:9.13
+  tor:8.86
+  le:8.38
+  badge:8.29
+  point:6.71
+  hr:6.12
+
+Topic 2:
+  le:18.72
+  read:16.69
+  dont:12.04
+  forums:11.05
+  drug:10.50
+  time:9.58
+  real:8.45
+  sounds:7.37
+  security:7.20
+  open:7.17
+
+Topic 3:
+  cop:10.54
+  phone:9.28
+  officer:6.54
+  protocol:6.38
+  criminal:5.96
+  records:4.91
+  number:4.32
+  cash:4.19
+  online:4.19
+  details:4.19
+
+Topic 4:
+  november:22.44
+  quote:21.94
+  fork:19.28
+  le:3.45
+  ding:2.82
+  idea:2.79
+  forums:2.79
+  read:2.63
+  security:2.05
+  site:1.95
+
+K: 5, Log-Likelihood: -11545.527, Alpha: 11.000, Beta: 1.100

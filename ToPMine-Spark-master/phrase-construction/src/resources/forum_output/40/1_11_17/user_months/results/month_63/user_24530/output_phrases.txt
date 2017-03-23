@@ -1,0 +1,61 @@
+Topic 0:
+  people:4.33
+  suppose:3.99
+  transparency:3.99
+  guy:3.99
+  humans:3.99
+  lazy:3.96
+  fighting:3.96
+  govt:3.96
+  revolution:3.96
+  thought:3.50
+
+Topic 1:
+  instructions:4.01
+  write:4.01
+  mode:3.49
+  kali:3.09
+  vm:3.09
+  system:2.65
+  hard:2.38
+  works:2.23
+  crypto software:1.99
+  work:1.99
+
+Topic 2:
+  break:3.15
+  bits:3.13
+  hd:2.95
+  dban:2.95
+  removing:2.95
+  avoid bios:2.94
+  problems:2.94
+  alltogether:2.94
+  trust:2.76
+  tor:2.75
+
+Topic 3:
+  allot:3.97
+  private:3.97
+  sense:3.96
+  government:3.30
+  people:3.17
+  large:3.16
+  population:3.16
+  free software:3.04
+  disassembly:3.04
+  wiring:3.04
+
+Topic 4:
+  hardware:4.01
+  happen:4.01
+  thing:4.01
+  bios:3.88
+  software:2.88
+  info:2.73
+  unclean:2.73
+  wabbit:2.08
+  scaring:2.08
+  ms:1.99
+
+K: 5, Log-Likelihood: -5643.208, Alpha: 11.000, Beta: 1.100

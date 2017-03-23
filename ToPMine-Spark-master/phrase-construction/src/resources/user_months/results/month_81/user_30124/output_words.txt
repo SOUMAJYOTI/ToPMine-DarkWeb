@@ -1,0 +1,61 @@
+Topic 0:
+  people:36.25
+  drugs:24.10
+  bitcoin:21.80
+  money:20.58
+  business:19.04
+  time:17.73
+  vendor:15.72
+  vendors:13.68
+  drug:13.00
+  online:11.62
+
+Topic 1:
+  drugs:1.83
+  years:1.66
+  people:1.17
+  business:0.95
+  markets:0.83
+  drug:0.76
+  darknet:0.64
+  money:0.61
+  illegal:0.54
+  selling:0.46
+
+Topic 2:
+  years:3.45
+  arcane:2.91
+  guys:2.66
+  amquote:2.18
+  ami:2.10
+  quote:2.10
+  move:1.77
+  jaxinshit:1.36
+  ireland:0.97
+  nailed:0.64
+
+Topic 3:
+  mannion:14.97
+  drugs:11.93
+  drug:10.08
+  darknet:9.20
+  markets:8.08
+  connor:7.97
+  business:6.88
+  veil:5.97
+  counsel:4.97
+  judge:4.08
+
+Topic 4:
+  guys:1.22
+  arcane:0.99
+  ireland:0.92
+  quote:0.79
+  ami:0.79
+  years:0.77
+  amquote:0.73
+  jaxinshit:0.54
+  move:0.44
+  nailed:0.29
+
+K: 5, Log-Likelihood: -11162.712, Alpha: 11.000, Beta: 1.100

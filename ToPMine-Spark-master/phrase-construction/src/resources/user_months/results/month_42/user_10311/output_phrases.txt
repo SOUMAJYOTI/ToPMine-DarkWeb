@@ -1,0 +1,61 @@
+Topic 0:
+  javascript:6.49
+  middle earth market:4.68
+  odd:4.29
+  creating:4.29
+  doesnt:4.29
+  surprise:4.29
+  operate:4.29
+  enabled:4.29
+  big:4.29
+  set:4.29
+
+Topic 1:
+  application level:8.65
+  number:5.63
+  time:5.09
+  ddosing:4.29
+  hackers:4.29
+  exception:4.29
+  major:4.29
+  ddos:4.29
+  weakness:4.29
+  reason:4.29
+
+Topic 2:
+  lord rings:6.22
+  middle earth:5.86
+  lord rings pi professional:4.71
+  silly:4.31
+  open:4.31
+  matrix:4.31
+  cornelius:4.31
+  based:4.31
+  ago:4.31
+  original:4.31
+
+Topic 3:
+  gandalf usual problems withdraw:6.46
+  fact admins called gollum:6.38
+  controlled:4.32
+  wise:4.32
+  greed:4.32
+  wizard:4.32
+  power:4.32
+  destroyed:4.32
+  choice:4.32
+  admin:4.32
+
+Topic 4:
+  week:5.17
+  markets:3.85
+  totally:3.64
+  marketplace:3.64
+  avoided:3.62
+  place:3.61
+  ship:3.56
+  isp:2.57
+  vendor:2.57
+  barely:2.57
+
+K: 5, Log-Likelihood: -3889.626, Alpha: 11.000, Beta: 1.100

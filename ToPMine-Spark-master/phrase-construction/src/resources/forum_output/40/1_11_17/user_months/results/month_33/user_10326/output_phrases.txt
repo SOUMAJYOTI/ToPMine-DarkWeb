@@ -1,0 +1,61 @@
+Topic 0:
+  study:5.32
+  juola:5.09
+  work:4.97
+  case:4.95
+  techniques:4.82
+  cusum:4.60
+  actual:4.60
+  uzuner:4.60
+  messages:4.60
+  assumption:4.60
+
+Topic 1:
+  random chance:8.13
+  simple:7.58
+  authorship recognition:7.23
+  machine translation:7.08
+  discusses:6.90
+  modify writing style:6.90
+  stylometry techniques:6.17
+  unique authors:6.08
+  article:5.77
+  sample text:5.73
+
+Topic 2:
+  synonym based method:11.50
+  participants:10.33
+  accuracy:9.91
+  step translations:9.67
+  writeprints:9.66
+  feature sets:9.47
+  step translation:9.20
+  bing:7.73
+  city noon day:6.90
+  translations:6.90
+
+Topic 3:
+  tested:18.42
+  virtual isolation applications:16.11
+  encryption:13.81
+  full disk encryption:13.81
+  virtual isolation:13.81
+  windows:13.81
+  disadvantages physical isolation:13.81
+  membership concealment:13.81
+  features:12.74
+  intrusted code:11.51
+
+Topic 4:
+  submissions:9.20
+  imitation passages:8.33
+  brennan greenstadt:7.38
+  amazon mechanical turk:6.90
+  bitcoin blender:6.89
+  coins:6.89
+  cormac mccarthy:6.05
+  service:5.72
+  obfuscation passages:4.70
+  dollars:4.60
+
+K: 5, Log-Likelihood: -53276.509, Alpha: 11.000, Beta: 1.100

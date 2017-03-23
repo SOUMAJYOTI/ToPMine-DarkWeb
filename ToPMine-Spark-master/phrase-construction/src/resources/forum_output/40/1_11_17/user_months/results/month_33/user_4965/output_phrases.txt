@@ -1,0 +1,61 @@
+Topic 0:
+  codes:0.00
+  private:0.00
+  openoffice:0.00
+  software:0.00
+  long long:0.00
+  text editor:0.00
+  office:0.00
+  long:0.00
+  literal:0.00
+  ton:0.00
+
+Topic 1:
+  codes:0.00
+  private:0.00
+  openoffice:0.00
+  software:0.00
+  long long:0.00
+  text editor:0.00
+  office:0.00
+  long:0.00
+  literal:0.00
+  ton:0.00
+
+Topic 2:
+  codes:0.00
+  private:0.00
+  openoffice:0.00
+  software:0.00
+  long long:0.00
+  text editor:0.00
+  office:0.00
+  long:0.00
+  literal:0.00
+  ton:0.00
+
+Topic 3:
+  codes:0.00
+  private:0.00
+  openoffice:0.00
+  software:0.00
+  long long:0.00
+  text editor:0.00
+  office:0.00
+  long:0.00
+  literal:0.00
+  ton:0.00
+
+Topic 4:
+  codes:0.00
+  private:0.00
+  openoffice:0.00
+  software:0.00
+  long long:0.00
+  text editor:0.00
+  office:0.00
+  long:0.00
+  literal:0.00
+  ton:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  kun:0.00
+  mmi:0.00
+  loppui:0.00
+  vaihdoitte:0.00
+  kohtasi:0.00
+  viimeisen:0.00
+  kummasti:0.00
+  muuten:0.00
+  kauppaa:0.00
+  teid:0.00
+
+Topic 1:
+  kun:0.00
+  mmi:0.00
+  loppui:0.00
+  vaihdoitte:0.00
+  kohtasi:0.00
+  viimeisen:0.00
+  kummasti:0.00
+  muuten:0.00
+  kauppaa:0.00
+  teid:0.00
+
+Topic 2:
+  kun:0.00
+  mmi:0.00
+  loppui:0.00
+  vaihdoitte:0.00
+  kohtasi:0.00
+  viimeisen:0.00
+  kummasti:0.00
+  muuten:0.00
+  kauppaa:0.00
+  teid:0.00
+
+Topic 3:
+  kun:0.00
+  mmi:0.00
+  loppui:0.00
+  vaihdoitte:0.00
+  kohtasi:0.00
+  viimeisen:0.00
+  kummasti:0.00
+  muuten:0.00
+  kauppaa:0.00
+  teid:0.00
+
+Topic 4:
+  kun:0.00
+  mmi:0.00
+  loppui:0.00
+  vaihdoitte:0.00
+  kohtasi:0.00
+  viimeisen:0.00
+  kummasti:0.00
+  muuten:0.00
+  kauppaa:0.00
+  teid:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

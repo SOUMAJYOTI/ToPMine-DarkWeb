@@ -1,0 +1,61 @@
+Topic 0:
+  day:13.57
+  money:11.41
+  bitcoin:10.59
+  bit:9.52
+  kind:9.22
+  worth:9.14
+  dollars:8.63
+  litecoin:6.33
+  price:5.96
+  load:5.00
+
+Topic 1:
+  talking:6.21
+  hansmann:6.17
+  millions:6.01
+  litecoin:4.59
+  quote:4.31
+  note:3.94
+  yeah:3.89
+  tickets:3.28
+  hit:2.89
+  thing:2.67
+
+Topic 2:
+  money:8.70
+  litecoin:7.46
+  pmquote:6.07
+  worth:5.93
+  hansmann:5.76
+  spendingtime:5.63
+  quote:4.83
+  ltc:4.39
+  future:2.68
+  bitcoin:2.65
+
+Topic 3:
+  bitcoin:7.52
+  litecoin:7.28
+  money:6.12
+  day:4.52
+  quote:3.81
+  tips:3.73
+  phil:3.57
+  hansmann:3.36
+  trading:3.10
+  kind:3.09
+
+Topic 4:
+  litecoin:9.35
+  invest:8.83
+  lottery:8.10
+  refund:6.45
+  sue:6.44
+  pmquote:6.34
+  needed:5.35
+  hansmann:4.78
+  bought:4.59
+  demand:4.10
+
+K: 5, Log-Likelihood: -5201.178, Alpha: 11.000, Beta: 1.100

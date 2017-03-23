@@ -1,0 +1,61 @@
+Topic 0:
+  set:0.38
+  contacts:0.29
+  spawn:0.29
+  buy:0.29
+  vm:0.29
+  os:0.17
+  bernstein:0.14
+  craigslist:0.14
+  downsides:0.14
+  beagleboard:0.14
+
+Topic 1:
+  set:0.35
+  buy:0.30
+  spawn:0.30
+  vm:0.30
+  contacts:0.30
+  os:0.17
+  private:0.15
+  easy:0.15
+  soc:0.15
+  craigslist:0.15
+
+Topic 2:
+  set:0.59
+  vm:0.23
+  buy:0.23
+  contacts:0.23
+  spawn:0.23
+  os:0.17
+  privacy:0.16
+  creating:0.16
+  factors:0.16
+  vulnerable:0.16
+
+Topic 3:
+  set:0.34
+  vm:0.30
+  contacts:0.30
+  spawn:0.30
+  buy:0.30
+  os:0.17
+  dont:0.15
+  emails:0.15
+  including:0.15
+  twitter:0.15
+
+Topic 4:
+  set:0.42
+  spawn:0.27
+  vm:0.27
+  contacts:0.27
+  buy:0.27
+  os:0.17
+  implement:0.14
+  create:0.14
+  protecting:0.14
+  vitally:0.14
+
+K: 5, Log-Likelihood: -343.042, Alpha: 11.000, Beta: 1.100

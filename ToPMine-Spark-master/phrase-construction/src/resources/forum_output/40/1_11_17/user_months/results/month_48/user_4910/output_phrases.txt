@@ -1,0 +1,61 @@
+Topic 0:
+  vendor find imputable trusted:6.11
+  ordered cannabis:6.11
+  weed hard times man:5.30
+  lookin buy:5.30
+  person idea:4.99
+  cannabis:4.99
+  quote:4.11
+  ambeen:4.11
+  tuesdoa:4.11
+  vendorbehold:4.11
+
+Topic 1:
+  mailman:8.44
+  neighbors:8.44
+  leave:8.44
+  hits house:8.44
+  post office:6.54
+  friendly:4.20
+  walk walk:4.20
+  delivered:4.20
+  desk:4.20
+  uc:4.20
+
+Topic 2:
+  package:6.99
+  ordered drugs clue coming:6.14
+  bet worry worry:6.13
+  mail worried:4.17
+  vendor shouldn:4.17
+  takes:4.17
+  things:4.17
+  kind:4.17
+  lazy:4.17
+  forever:4.17
+
+Topic 3:
+  keyserver links:8.44
+  keyserver:8.44
+  key:7.24
+  elpresidente:5.01
+  elpresidentes:5.01
+  helps:4.20
+  bbf:4.20
+  broken:4.20
+  ec:4.20
+  fingerprint:4.20
+
+Topic 4:
+  drug:8.44
+  mouth shut:8.44
+  court:8.44
+  gon:8.30
+  ll:7.54
+  sign:6.84
+  ve:5.02
+  theyll:5.01
+  scare:4.20
+  trial:4.20
+
+K: 5, Log-Likelihood: -5324.764, Alpha: 11.000, Beta: 1.100

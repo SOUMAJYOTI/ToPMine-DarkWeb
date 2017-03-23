@@ -1,0 +1,61 @@
+Topic 0:
+  file:0.50
+  agora:0.43
+  usual:0.38
+  problem:0.37
+  appears:0.35
+  equal:0.34
+  shit:0.34
+  hours:0.34
+  wait:0.34
+  lot:0.34
+
+Topic 1:
+  agora:0.77
+  usual:0.73
+  business:0.64
+  work:0.63
+  tomorrow:0.63
+  pretty:0.63
+  release:0.63
+  shame:0.63
+  feel:0.63
+  sloppy:0.63
+
+Topic 2:
+  hours:0.75
+  trades:0.75
+  pmafter:0.75
+  smoothly:0.75
+  posacenere:0.75
+  quote:0.75
+  loading:0.75
+  log:0.75
+  guess:0.75
+  face:0.75
+
+Topic 3:
+  agora:0.61
+  usual:0.54
+  problem:0.52
+  shit:0.45
+  equal:0.45
+  hours:0.45
+  continues:0.44
+  continue:0.44
+  afternoon:0.44
+  net:0.43
+
+Topic 4:
+  file:4.72
+  check:2.18
+  enter:2.16
+  login:2.15
+  insert:2.14
+  errors:0.92
+  deleted:0.91
+  error:0.91
+  tying:0.91
+  push:0.91
+
+K: 5, Log-Likelihood: -429.715, Alpha: 11.000, Beta: 1.100

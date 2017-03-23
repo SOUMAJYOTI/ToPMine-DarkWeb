@@ -1,0 +1,61 @@
+Topic 0:
+  transaction:3.98
+  blockchain info:3.98
+  shared send:2.88
+  time:2.60
+  vendor:2.60
+  complete:2.59
+  mention:1.22
+  javascript:1.22
+  ago:1.22
+  ill:1.22
+
+Topic 1:
+  box:0.64
+  greyish:0.64
+  loading:0.64
+  op:0.64
+  working:0.64
+  clickable:0.64
+  happening:0.64
+  issues:0.64
+  button:0.64
+  thought:0.64
+
+Topic 2:
+  february pmquote:1.46
+  bitcoin:0.77
+  blackstar:0.76
+  alternative:0.76
+  fog:0.76
+  credible:0.75
+  moment:0.75
+  sharedcoin credible blkchn:0.72
+  sharedcoin comalso noticed address:0.72
+  mupltiple inputs sharedcoin:0.71
+
+Topic 3:
+  sharedcoin site feature bc:0.58
+  address mupltiple inputs sharedcoin:0.57
+  kinda sucks sketch enabling:0.57
+  sharedcoin comalso noticed:0.57
+  february pmquote:0.55
+  quote:0.53
+  shit explain perfectly didn:0.53
+  owockeznan february pmyou:0.53
+  noscript allowing blockchain info:0.50
+  doesnt fail easier sweep:0.50
+
+Topic 4:
+  tails:0.54
+  sharedcoin comalso noticed:0.51
+  address mupltiple inputs sharedcoin:0.51
+  kinda sucks sketch enabling:0.48
+  sharedcoin site feature bc:0.48
+  shared coin:0.45
+  freezing:0.43
+  future:0.43
+  problems:0.43
+  avoid:0.43
+
+K: 5, Log-Likelihood: -725.940, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  place:1.23
+  wallet:0.91
+  buy:0.88
+  money:0.65
+  coins:0.61
+  send:0.59
+  time:0.49
+  order:0.44
+  bank:0.43
+  sellers:0.41
+
+Topic 1:
+  hooker:1.80
+  buy:1.03
+  sellers:1.02
+  bank:0.72
+  order:0.71
+  place:0.67
+  lol:0.49
+  times:0.46
+  coffee:0.41
+  bucks:0.41
+
+Topic 2:
+  wallet:1.93
+  place:1.34
+  money:1.26
+  coins:1.21
+  send:1.20
+  time:0.87
+  buy:0.66
+  great:0.56
+  currency:0.56
+  life:0.56
+
+Topic 3:
+  place:1.34
+  wallet:1.19
+  buy:0.79
+  money:0.76
+  coins:0.72
+  send:0.70
+  time:0.59
+  times:0.42
+  lol:0.42
+  worry:0.40
+
+Topic 4:
+  wallet:1.67
+  place:1.41
+  send:1.27
+  coins:1.21
+  money:1.08
+  time:0.85
+  buy:0.63
+  amount:0.55
+  lasted:0.55
+  sr:0.55
+
+K: 5, Log-Likelihood: -777.191, Alpha: 11.000, Beta: 1.100

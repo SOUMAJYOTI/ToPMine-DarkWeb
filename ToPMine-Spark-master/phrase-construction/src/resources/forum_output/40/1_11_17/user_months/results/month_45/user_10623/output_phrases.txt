@@ -1,0 +1,61 @@
+Topic 0:
+  crew:0.16
+  earth:0.08
+  ace:0.08
+  quote:0.08
+  gatinho:0.08
+  march:0.08
+  market:0.08
+  avoid:0.08
+  middle:0.08
+  scurvy:0.08
+
+Topic 1:
+  crew:0.16
+  scurvy:0.08
+  middle:0.08
+  pmgotta:0.08
+  gatinho:0.08
+  avoid:0.08
+  march:0.08
+  earth:0.08
+  ace:0.08
+  case:0.08
+
+Topic 2:
+  crew:0.16
+  middle:0.08
+  gatinho:0.08
+  earth:0.08
+  market:0.08
+  case:0.08
+  quote:0.08
+  march:0.08
+  avoid:0.08
+  pmgotta:0.08
+
+Topic 3:
+  crew:0.16
+  case:0.08
+  market:0.08
+  march:0.08
+  avoid:0.08
+  ace:0.08
+  quote:0.08
+  middle:0.08
+  pmgotta:0.08
+  scurvy:0.08
+
+Topic 4:
+  crew:0.16
+  pmgotta:0.08
+  scurvy:0.08
+  quote:0.08
+  avoid:0.08
+  ace:0.08
+  march:0.08
+  market:0.08
+  gatinho:0.08
+  middle:0.08
+
+K: 5, Log-Likelihood: -13.650, Alpha: 11.000, Beta: 1.100

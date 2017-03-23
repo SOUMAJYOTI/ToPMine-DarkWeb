@@ -1,0 +1,61 @@
+Topic 0:
+  february:16.68
+  account:13.77
+  instructions:11.88
+  oft:11.26
+  chat:10.35
+  onion:10.22
+  map:8.79
+  pmquote:8.75
+  cookie:8.75
+  cookies:8.67
+
+Topic 1:
+  torchat:7.90
+  hidden:7.02
+  tor:7.01
+  news:4.67
+  attacks:4.42
+  service:4.39
+  file:4.07
+  services:3.99
+  transfer:3.95
+  drip:3.92
+
+Topic 2:
+  traffic:10.19
+  access:7.60
+  havent:7.45
+  onion:6.92
+  tor:6.26
+  chain:5.89
+  block:5.89
+  anonymous:4.91
+  wrong:4.62
+  weeks:4.53
+
+Topic 3:
+  chat:7.52
+  ross:7.51
+  good:6.82
+  keys:5.78
+  logs:5.70
+  evidence:5.28
+  zaphod:4.99
+  pgp:4.92
+  secrecy:4.80
+  forward:4.10
+
+Topic 4:
+  tor:15.34
+  exit:10.94
+  blockchain:10.37
+  users:10.35
+  bitcoin:9.97
+  network:7.70
+  address:6.70
+  nodes:4.57
+  relays:4.46
+  accessing:4.14
+
+K: 5, Log-Likelihood: -8854.731, Alpha: 11.000, Beta: 1.100

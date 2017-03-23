@@ -1,0 +1,61 @@
+Topic 0:
+  february:0.86
+  quote:0.82
+  weeks:0.78
+  user:0.73
+  transaction:0.72
+  received:0.71
+  shit:0.71
+  market:0.54
+  open:0.54
+  making:0.47
+
+Topic 1:
+  february:1.18
+  quote:0.84
+  weeks:0.81
+  market:0.64
+  open:0.63
+  user:0.55
+  shit:0.54
+  bite:0.47
+  bond:0.47
+  infrastructure:0.47
+
+Topic 2:
+  february:0.93
+  shit:0.80
+  user:0.77
+  weeks:0.76
+  quote:0.74
+  received:0.68
+  transaction:0.66
+  market:0.54
+  open:0.52
+  knew:0.50
+
+Topic 3:
+  february:0.91
+  weeks:0.77
+  quote:0.76
+  transaction:0.71
+  received:0.71
+  open:0.58
+  market:0.58
+  shit:0.52
+  user:0.52
+  order:0.51
+
+Topic 4:
+  february:1.12
+  weeks:0.88
+  quote:0.84
+  open:0.73
+  market:0.70
+  scam:0.53
+  lost:0.53
+  time:0.52
+  belongs:0.52
+  mettadpr:0.52
+
+K: 5, Log-Likelihood: -699.793, Alpha: 11.000, Beta: 1.100

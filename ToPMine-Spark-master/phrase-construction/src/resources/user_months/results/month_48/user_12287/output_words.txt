@@ -1,0 +1,61 @@
+Topic 0:
+  lis:2.52
+  ll:2.30
+  hemmin:1.08
+  hankittu:1.07
+  netin:1.07
+  kiitos:1.07
+  vapautus:1.07
+  alle:1.07
+  maksun:1.07
+  kertaa:1.07
+
+Topic 1:
+  ja:3.95
+  silkkitien:1.76
+  euroa:1.76
+  iv:1.76
+  ku:1.76
+  ei:1.76
+  kautta:1.47
+  alas:0.79
+  olimme:0.79
+  kaa:0.79
+
+Topic 2:
+  ll:1.49
+  lis:0.89
+  ksi:0.77
+  kautta:0.77
+  tulossa:0.77
+  viikolla:0.76
+  mutta:0.75
+  viel:0.74
+  yht:0.54
+  siit:0.53
+
+Topic 3:
+  mutta:0.75
+  kautta:0.70
+  ll:0.68
+  sek:0.63
+  ksi:0.57
+  viel:0.57
+  tulossa:0.56
+  viikolla:0.55
+  ja:0.44
+  pulverinoita:0.40
+
+Topic 4:
+  pit:1.36
+  mutta:1.16
+  kerralla:0.83
+  kans:0.83
+  reilummin:0.83
+  kattelin:0.83
+  sen:0.83
+  uudestaan:0.83
+  kattoa:0.83
+  jwh:0.83
+
+K: 5, Log-Likelihood: -1192.874, Alpha: 11.000, Beta: 1.100

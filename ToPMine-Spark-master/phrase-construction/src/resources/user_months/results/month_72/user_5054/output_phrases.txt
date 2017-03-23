@@ -1,0 +1,61 @@
+Topic 0:
+  tails developers:1.25
+  verify signing key:0.92
+  key:0.89
+  kernel:0.86
+  linus:0.84
+  bbkf february:0.80
+  works closely government:0.73
+  degraded kernel:0.72
+  users:0.72
+  safe:0.72
+
+Topic 1:
+  software:2.64
+  security:2.64
+  code:2.64
+  easily:1.26
+  unsafe:1.26
+  source:1.26
+  beauty:1.26
+  open:1.26
+  insert:1.26
+  program:1.26
+
+Topic 2:
+  tails developers:2.16
+  keys:2.05
+  kernel:1.86
+  verify signing key:1.80
+  linus:1.49
+  bbkf february:1.24
+  key:1.21
+  upgrade:1.01
+  sundown:0.99
+  includes:0.99
+
+Topic 3:
+  storage:2.59
+  doesnt:2.59
+  persistence:1.22
+  built:1.22
+  data:1.22
+  leave:1.22
+  memory:1.22
+  persistence mounting:1.22
+  encrypt:1.22
+  phoenix:1.22
+
+Topic 4:
+  gpg:1.89
+  sig file:1.88
+  tails iso:1.85
+  adding:1.62
+  expired:1.62
+  devs:1.62
+  aware:1.62
+  checksums:1.62
+  tails key:1.62
+  showing:1.62
+
+K: 5, Log-Likelihood: -1242.584, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  digital:1.78
+  worth:1.61
+  busy:1.59
+  del:1.59
+  effort:1.58
+  guys:1.54
+  join:1.32
+  alpha:1.15
+  invitation:1.14
+  vendor:1.14
+
+Topic 1:
+  open:2.38
+  join dhl:1.66
+  private:1.65
+  members:1.65
+  strain:1.65
+  future:1.65
+  accepting:1.65
+  time:1.65
+  market:1.50
+  guys:1.08
+
+Topic 2:
+  selling:2.79
+  codes:2.79
+  brewing:2.79
+  hard creating:2.79
+  updates:2.79
+  days:2.79
+  unable:2.78
+  work:2.78
+  service:2.78
+  bit:2.78
+
+Topic 3:
+  improved:2.79
+  left:2.79
+  opened:2.79
+  staff:2.79
+  market products:2.79
+  joined:2.79
+  looked:2.79
+  invite products:2.79
+  reply:2.79
+  good:2.34
+
+Topic 4:
+  sense:4.40
+  march:3.08
+  volume business:2.83
+  arcane:2.83
+  mentioned:2.83
+  pmpersonally:2.83
+  perspective:2.83
+  create:2.83
+  pckabml:2.24
+  hype:1.81
+
+K: 5, Log-Likelihood: -1266.392, Alpha: 11.000, Beta: 1.100

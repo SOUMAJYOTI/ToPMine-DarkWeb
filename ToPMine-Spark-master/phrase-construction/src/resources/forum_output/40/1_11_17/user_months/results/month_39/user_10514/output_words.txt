@@ -1,0 +1,61 @@
+Topic 0:
+  people:2.70
+  markets:1.90
+  year:1.71
+  escrow:1.63
+  mufti:1.63
+  coin:1.09
+  darkcoin:1.08
+  implementing:1.08
+  sac:1.06
+  exist:0.88
+
+Topic 1:
+  shadow:12.20
+  decentralised:7.96
+  network:5.68
+  marketplace:5.08
+  project:4.07
+  chat:3.96
+  administrators:3.96
+  sebsebastian:3.96
+  trade:3.96
+  market:3.24
+
+Topic 2:
+  decentralized:0.84
+  market:0.74
+  shadow:0.73
+  mutually:0.54
+  exclusive:0.54
+  ideas:0.54
+  multisig:0.54
+  key:0.51
+  gamesome:0.49
+  coin:0.47
+
+Topic 3:
+  shadow:12.46
+  network:5.73
+  casino:5.45
+  privacy:3.09
+  sdc:2.87
+  anonymous:2.00
+  system:1.99
+  ownership:1.83
+  shadowcash:1.77
+  time:1.75
+
+Topic 4:
+  shadow:20.45
+  sdc:10.35
+  casino:8.36
+  chips:7.51
+  network:7.06
+  stealth:6.26
+  system:4.85
+  time:4.09
+  privacy:3.85
+  coins:3.74
+
+K: 5, Log-Likelihood: -6050.860, Alpha: 11.000, Beta: 1.100

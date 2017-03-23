@@ -1,0 +1,61 @@
+Topic 0:
+  fde:0.24
+  command:0.16
+  secure:0.16
+  memory:0.16
+  implement:0.16
+  cell:0.16
+  wondering:0.16
+  drive:0.16
+  trim:0.16
+  promises:0.08
+
+Topic 1:
+  fde:0.24
+  trim:0.16
+  implement:0.16
+  secure:0.16
+  wondering:0.16
+  cell:0.16
+  drive:0.16
+  command:0.16
+  memory:0.16
+  reaches:0.08
+
+Topic 2:
+  fde:0.24
+  wondering:0.16
+  memory:0.16
+  secure:0.16
+  cell:0.16
+  trim:0.16
+  command:0.16
+  drive:0.16
+  implement:0.16
+  medium:0.08
+
+Topic 3:
+  fde:0.24
+  drive:0.16
+  implement:0.16
+  memory:0.16
+  command:0.16
+  wondering:0.16
+  trim:0.16
+  cell:0.16
+  secure:0.16
+  format:0.08
+
+Topic 4:
+  fde:0.24
+  cell:0.16
+  drive:0.16
+  trim:0.16
+  memory:0.16
+  command:0.16
+  secure:0.16
+  implement:0.16
+  wondering:0.16
+  data:0.08
+
+K: 5, Log-Likelihood: -133.000, Alpha: 11.000, Beta: 1.100

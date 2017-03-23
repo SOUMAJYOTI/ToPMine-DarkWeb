@@ -1,0 +1,61 @@
+Topic 0:
+  fun info lots security:2.13
+  trolls hear:2.01
+  issues:1.97
+  gurus generally helpful technical:1.86
+  mentioned suck ass fair:1.83
+  chez owes bunch money:1.58
+  chatter deal sarcastic assholes:1.56
+  don:1.56
+  bot handles fun:1.56
+  chat:1.55
+
+Topic 1:
+  join:9.98
+  tor:9.98
+  pidgin:9.98
+  leave:9.98
+  people chat:6.63
+  list:6.63
+  chat room:6.63
+  irc:6.63
+  proxy type:6.63
+  drug:4.26
+
+Topic 2:
+  market:6.63
+  public:5.02
+  drug:4.91
+  irc server channel shutting:3.88
+  guys rules tmg tor:3.88
+  basically:3.28
+  zone:3.28
+  trolls:3.28
+  sourcing:3.28
+  landing:3.28
+
+Topic 3:
+  bot handles:3.35
+  click mine talking:3.26
+  dig larghetto asianboy infamous:3.25
+  basin changers functions butler:3.24
+  log drunk care security:3.18
+  ages ago fuhrer atoms:3.13
+  log nyms:3.13
+  efficient doxing extra careful:3.12
+  phishing links referred link:3.10
+  girl ragequit mufti boxing:3.05
+
+Topic 4:
+  great chats:3.94
+  wonderful:3.25
+  garden:3.25
+  hand hand:3.25
+  psych:3.25
+  discussion:3.25
+  brim:3.25
+  majestic:3.25
+  filled:3.25
+  good:3.25
+
+K: 5, Log-Likelihood: -4606.782, Alpha: 11.000, Beta: 1.100

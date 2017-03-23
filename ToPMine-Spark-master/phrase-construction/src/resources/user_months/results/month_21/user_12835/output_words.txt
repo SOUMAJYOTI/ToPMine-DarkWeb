@@ -1,0 +1,61 @@
+Topic 0:
+  send:1.39
+  coins:0.79
+  depending:0.65
+  cocks:0.65
+  whorehouse:0.65
+  lots:0.65
+  dumbasses:0.65
+  ass:0.65
+  coinsif:0.65
+  vend:0.65
+
+Topic 1:
+  defendants:1.51
+  bmr:1.51
+  care:1.51
+  knowledge:1.51
+  post:0.63
+  place:0.63
+  type:0.63
+  crime:0.63
+  verified:0.63
+  collector:0.63
+
+Topic 2:
+  send:0.89
+  coins:0.74
+  address:0.61
+  staff:0.59
+  thereyou:0.44
+  lubes:0.44
+  coinsif:0.44
+  day:0.44
+  people:0.44
+  real:0.44
+
+Topic 3:
+  send:1.04
+  coins:0.67
+  staff:0.65
+  address:0.65
+  sitting:0.50
+  pussy:0.50
+  real:0.50
+  people:0.50
+  single:0.50
+  takecare:0.50
+
+Topic 4:
+  coins:0.63
+  address:0.60
+  staff:0.59
+  send:0.55
+  takecare:0.33
+  stupidvending:0.33
+  people:0.33
+  deserved:0.33
+  day:0.33
+  lubes:0.33
+
+K: 5, Log-Likelihood: -683.321, Alpha: 11.000, Beta: 1.100

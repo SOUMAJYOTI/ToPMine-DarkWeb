@@ -1,0 +1,61 @@
+Topic 0:
+  mutta:0.56
+  miten:0.42
+  siihen:0.41
+  rm:0.41
+  linkki:0.41
+  ohjeita:0.21
+  eli:0.21
+  kunnon:0.21
+  kukaan:0.21
+  bitcoineiksi:0.21
+
+Topic 1:
+  mutta:0.74
+  linkki:0.36
+  miten:0.34
+  siihen:0.33
+  rm:0.33
+  ysin:0.24
+  palvelukuluihin:0.24
+  psa:0.24
+  ja:0.24
+  yritt:0.24
+
+Topic 2:
+  mutta:0.59
+  siihen:0.49
+  rm:0.49
+  linkki:0.44
+  miten:0.34
+  jos:0.23
+  linkkaan:0.23
+  sitte:0.23
+  en:0.23
+  march:0.23
+
+Topic 3:
+  mutta:0.60
+  miten:0.40
+  linkki:0.39
+  rm:0.37
+  siihen:0.37
+  muihin:0.20
+  rahasta:0.20
+  joo:0.20
+  vihdoin:0.20
+  ohjeen:0.20
+
+Topic 4:
+  mutta:0.51
+  miten:0.49
+  linkki:0.39
+  siihen:0.39
+  rm:0.39
+  mulla:0.22
+  keen:0.22
+  jeps:0.22
+  satan:0.22
+  tied:0.22
+
+K: 5, Log-Likelihood: -252.253, Alpha: 11.000, Beta: 1.100

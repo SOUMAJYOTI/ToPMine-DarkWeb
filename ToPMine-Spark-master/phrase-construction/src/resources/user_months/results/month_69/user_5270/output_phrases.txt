@@ -1,0 +1,61 @@
+Topic 0:
+  higher risk:1.28
+  feeling:1.11
+  exposed:0.95
+  site:0.87
+  clearnet:0.73
+  reddit:0.73
+  tracked:0.69
+  mistakes:0.68
+  lot:0.68
+  accessed clearnet:0.68
+
+Topic 1:
+  exposed:3.41
+  feeling:3.22
+  higher risk:3.06
+  invincibility:1.39
+  measures:1.38
+  thing:1.38
+  illegal:1.38
+  haha:1.37
+  degree:1.37
+  darknet:1.37
+
+Topic 2:
+  good:0.85
+  pretty:0.84
+  man:0.83
+  train:0.78
+  identity:0.78
+  clearnet tor:0.77
+  sites:0.77
+  log:0.75
+  emails:0.74
+  circuit:0.74
+
+Topic 3:
+  browser:1.62
+  tor:1.58
+  nodes:1.08
+  certificate:1.08
+  malicious:1.07
+  phishing:1.07
+  clearnet sites:1.07
+  attacks:1.07
+  exit:1.07
+  send:1.07
+
+Topic 4:
+  version:1.29
+  reddit tor:1.29
+  latest:1.29
+  communicating:1.28
+  tails tor:1.28
+  remember:1.27
+  bundle:1.27
+  pgp:1.27
+  ditch:1.26
+  ll:1.01
+
+K: 5, Log-Likelihood: -797.264, Alpha: 11.000, Beta: 1.100

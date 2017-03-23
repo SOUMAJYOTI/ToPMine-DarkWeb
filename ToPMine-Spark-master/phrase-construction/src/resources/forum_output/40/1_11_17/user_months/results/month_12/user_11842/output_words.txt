@@ -1,0 +1,61 @@
+Topic 0:
+  users:0.87
+  gold:0.74
+  items:0.67
+  verify:0.61
+  trust:0.48
+  websites:0.48
+  coat:0.48
+  real:0.48
+  nickel:0.48
+  doubt:0.48
+
+Topic 1:
+  users:1.81
+  items:1.41
+  times:0.85
+  day:0.85
+  guy:0.84
+  sites:0.83
+  gold:0.68
+  dont:0.56
+  real:0.56
+  point:0.56
+
+Topic 2:
+  site:2.11
+  reviews:1.24
+  search:1.21
+  verify:0.65
+  market:0.51
+  hidden:0.51
+  called:0.49
+  range:0.49
+  review:0.49
+  wide:0.49
+
+Topic 3:
+  verify:0.63
+  gold:0.62
+  search:0.58
+  users:0.55
+  lol:0.44
+  market:0.41
+  hidden:0.40
+  items:0.39
+  point:0.38
+  nickel:0.38
+
+Topic 4:
+  lol:0.67
+  gold:0.65
+  verify:0.58
+  users:0.56
+  search:0.45
+  dont:0.40
+  nickel:0.40
+  doubt:0.40
+  point:0.40
+  trust:0.40
+
+K: 5, Log-Likelihood: -484.686, Alpha: 11.000, Beta: 1.100

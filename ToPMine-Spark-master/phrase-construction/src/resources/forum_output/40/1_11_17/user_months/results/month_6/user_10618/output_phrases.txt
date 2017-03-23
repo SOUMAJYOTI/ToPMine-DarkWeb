@@ -1,0 +1,61 @@
+Topic 0:
+  tractor paper:7.13
+  bunch:3.54
+  file:3.54
+  technobabble:3.54
+  spout:3.54
+  hand computer:3.54
+  sad:3.54
+  nonsense:3.54
+  atop:3.54
+  packet:3.54
+
+Topic 1:
+  silk road:16.54
+  conduct:13.16
+  nash:11.91
+  extradition offence:10.97
+  extradition:10.66
+  moderator silk road discussion:8.77
+  australia:8.77
+  dread pirate roberts:8.77
+  administration:7.18
+  forums:6.57
+
+Topic 2:
+  nash:14.32
+  silk road:9.27
+  courier mail:6.58
+  buy:4.38
+  understands:4.38
+  public:4.38
+  unit:4.38
+  named:4.38
+  allegedly:4.38
+  arrest:4.38
+
+Topic 3:
+  silk road:5.73
+  employed:4.37
+  service:4.37
+  launder:4.37
+  prison forensic disability:3.62
+  brisbane:3.53
+  nash:2.30
+  ssbd:2.25
+  court wednesday:2.24
+  illicit:2.17
+
+Topic 4:
+  quote:3.50
+  ozfreelancer:3.44
+  password protected:3.41
+  thoughts:3.36
+  sitting jail:3.36
+  february:3.19
+  read:3.14
+  article password protected:2.78
+  merits:2.14
+  arguing:2.14
+
+K: 5, Log-Likelihood: -12894.726, Alpha: 11.000, Beta: 1.100

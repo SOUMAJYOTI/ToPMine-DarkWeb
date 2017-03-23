@@ -1,0 +1,61 @@
+Topic 0:
+  hansa:0.79
+  store:0.40
+  market:0.40
+  white:0.20
+  snow:0.20
+  orders:0.20
+  stunning:0.20
+  nucleus:0.20
+  today:0.20
+  problem:0.20
+
+Topic 1:
+  hansa:0.81
+  store:0.40
+  market:0.40
+  snow:0.20
+  cannabis:0.20
+  white:0.20
+  stunning:0.20
+  free:0.20
+  kush:0.20
+  extra:0.20
+
+Topic 2:
+  hansa:0.81
+  market:0.40
+  store:0.40
+  scout:0.20
+  girl:0.20
+  platinum:0.20
+  cookies:0.20
+  kush:0.20
+  purple:0.20
+  problem:0.20
+
+Topic 3:
+  hansa:0.79
+  market:0.40
+  store:0.40
+  today:0.20
+  time:0.20
+  free:0.20
+  orders:0.20
+  extra:0.20
+  problem:0.20
+  cookies:0.20
+
+Topic 4:
+  hansa:0.80
+  store:0.40
+  market:0.40
+  stunning:0.20
+  cannabis:0.20
+  white:0.20
+  snow:0.20
+  nucleus:0.20
+  orders:0.20
+  extra:0.20
+
+K: 5, Log-Likelihood: -72.309, Alpha: 11.000, Beta: 1.100

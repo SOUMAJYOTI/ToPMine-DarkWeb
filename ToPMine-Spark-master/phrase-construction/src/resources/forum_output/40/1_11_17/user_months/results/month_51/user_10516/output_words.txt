@@ -1,0 +1,61 @@
+Topic 0:
+  police:19.60
+  huskins:19.00
+  firmware:16.07
+  muller:16.00
+  quinn:15.00
+  amt:12.67
+  people:11.69
+  abduction:11.00
+  hardware:10.16
+  email:10.10
+
+Topic 1:
+  firmware:18.87
+  install:18.09
+  secure:16.19
+  boot:16.03
+  intel:15.29
+  truecrypt:14.92
+  tails:14.25
+  things:12.94
+  dont:12.84
+  june:12.61
+
+Topic 2:
+  bios:39.11
+  malware:35.98
+  password:23.15
+  security:22.55
+  drives:21.61
+  hard:20.63
+  disk:18.68
+  researchers:17.36
+  data:16.64
+  target:15.37
+
+Topic 3:
+  privacy:19.42
+  gass:16.98
+  device:15.77
+  people:14.82
+  rootkits:14.74
+  thing:14.63
+  registry:13.98
+  quote:13.22
+  time:12.05
+  state:11.34
+
+Topic 4:
+  xkeyscore:72.99
+  traffic:46.93
+  system:38.28
+  data:33.42
+  nsa:22.49
+  analysts:22.30
+  documents:22.14
+  web:21.76
+  surveillance:19.61
+  users:17.94
+
+K: 5, Log-Likelihood: -75170.261, Alpha: 11.000, Beta: 1.100

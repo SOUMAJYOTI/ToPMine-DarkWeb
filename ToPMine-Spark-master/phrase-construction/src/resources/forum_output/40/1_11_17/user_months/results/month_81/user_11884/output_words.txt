@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.83
+  free:0.83
+  fa:0.63
+  multisig:0.49
+  amount:0.49
+  signing:0.41
+  basically:0.41
+  therealdeal:0.40
+  based:0.40
+  bitwasp:0.36
+
+Topic 1:
+  registration:1.15
+  bitwasp:1.03
+  good:1.01
+  market:0.85
+  amount:0.84
+  multisig:0.80
+  messages:0.72
+  open:0.71
+  free:0.70
+  transactions:0.69
+
+Topic 2:
+  js:2.50
+  version:1.56
+  confirms:1.55
+  free:1.31
+  sign:0.67
+  message:0.67
+  user:0.67
+  setup:0.67
+  wallet:0.67
+  hard:0.67
+
+Topic 3:
+  good:1.65
+  registration:1.51
+  bitwasp:1.09
+  pgp:1.01
+  offer:1.01
+  transactions:1.00
+  open:0.98
+  messages:0.97
+  multisig:0.86
+  amount:0.82
+
+Topic 4:
+  fa:1.37
+  market:0.92
+  free:0.51
+  engineers:0.48
+  standard:0.48
+  enabled:0.48
+  quote:0.48
+  big:0.48
+  fatherted:0.48
+  web:0.48
+
+K: 5, Log-Likelihood: -811.924, Alpha: 11.000, Beta: 1.100

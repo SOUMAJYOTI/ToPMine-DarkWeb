@@ -1,0 +1,61 @@
+Topic 0:
+  balance:0.43
+  wallet:0.43
+  btc:0.42
+  funds:0.42
+  account:0.42
+  arc:0.28
+  quote:0.28
+  investigating:0.28
+  problem:0.28
+  dardush:0.28
+
+Topic 1:
+  balance:0.48
+  wallet:0.47
+  account:0.47
+  btc:0.47
+  funds:0.46
+  resolve:0.26
+  july:0.26
+  responded:0.26
+  problem:0.26
+  dardush:0.26
+
+Topic 2:
+  account:0.58
+  funds:0.57
+  btc:0.57
+  wallet:0.56
+  balance:0.55
+  users:0.26
+  honestbutt:0.26
+  good:0.26
+  wrong:0.26
+  withdraw:0.26
+
+Topic 3:
+  funds:0.39
+  wallet:0.39
+  btc:0.39
+  balance:0.39
+  account:0.39
+  problem:0.30
+  investigating:0.30
+  dardush:0.30
+  responded:0.30
+  turned:0.30
+
+Topic 4:
+  balance:0.35
+  wallet:0.35
+  funds:0.35
+  btc:0.34
+  account:0.34
+  stating:0.33
+  july:0.32
+  server:0.32
+  admin:0.32
+  update:0.32
+
+K: 5, Log-Likelihood: -194.487, Alpha: 11.000, Beta: 1.100

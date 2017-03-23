@@ -1,0 +1,61 @@
+Topic 0:
+  hand:0.40
+  pump:0.40
+  thing:0.40
+  normal:0.40
+  experience:0.40
+  compare:0.40
+  break:0.20
+  easily:0.20
+  heard:0.20
+  fairly:0.20
+
+Topic 1:
+  normal:0.40
+  pump:0.40
+  compare:0.40
+  hand:0.40
+  thing:0.40
+  experience:0.40
+  things:0.20
+  pay:0.20
+  nightprowler:0.20
+  quote:0.20
+
+Topic 2:
+  experience:0.40
+  normal:0.40
+  hand:0.40
+  compare:0.40
+  pump:0.40
+  thing:0.40
+  time:0.20
+  multiply:0.20
+  pay:0.20
+  june:0.20
+
+Topic 3:
+  thing:0.40
+  pump:0.40
+  compare:0.40
+  experience:0.40
+  hand:0.40
+  normal:0.40
+  type:0.20
+  fairly:0.20
+  heard:0.20
+  easily:0.20
+
+Topic 4:
+  thing:0.40
+  compare:0.40
+  experience:0.40
+  normal:0.40
+  pump:0.40
+  hand:0.40
+  easily:0.20
+  heard:0.20
+  fairly:0.20
+  break:0.20
+
+K: 5, Log-Likelihood: -98.256, Alpha: 11.000, Beta: 1.100

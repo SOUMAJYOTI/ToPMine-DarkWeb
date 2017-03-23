@@ -1,0 +1,61 @@
+Topic 0:
+  marketplace:8.88
+  defcon:5.40
+  darknet:4.41
+  fun bmr:4.41
+  beautiful:4.41
+  weeks:4.41
+  post:4.41
+  yeah:4.41
+  fun times:4.41
+  wrote:4.41
+
+Topic 1:
+  answer:6.57
+  quote evilgrin october:5.27
+  add:5.17
+  le:5.17
+  provikat:4.39
+  kovat:4.39
+  capun:4.39
+  hyv:4.39
+  oikein:4.39
+  vai:4.39
+
+Topic 2:
+  sr:11.43
+  beat testers:8.86
+  code:7.90
+  mufti:5.26
+  sig:5.26
+  site:5.26
+  shifty:5.26
+  patches:5.26
+  amiss:4.40
+  sr forums:4.40
+
+Topic 3:
+  developer:3.85
+  quote:3.07
+  pothead:2.90
+  time:2.86
+  donkeys ass:2.81
+  bull shit:2.76
+  story:2.74
+  hack:2.74
+  coins:2.67
+  work:2.57
+
+Topic 4:
+  coins:6.24
+  hack:6.17
+  story:6.17
+  bull shit:6.15
+  donkeys ass:6.09
+  basically api markets:4.20
+  sr forums multi sig:4.17
+  kitten:4.10
+  lol:3.69
+  remember:3.49
+
+K: 5, Log-Likelihood: -7108.986, Alpha: 11.000, Beta: 1.100

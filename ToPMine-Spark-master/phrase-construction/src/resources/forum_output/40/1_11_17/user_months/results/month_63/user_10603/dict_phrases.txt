@@ -1,0 +1,518 @@
+connectors,0,3
+bad,1,2
+chips,2,1
+mixing,3,1
+objects,4,1
+address curious,5,1
+laptop,6,2
+guards,7,1
+buy hotspot,8,3
+quote,9,2
+saves,10,1
+pick,11,2
+ram,12,2
+devices,13,2
+require,14,2
+personal,15,2
+packages,16,2
+easy,17,3
+cards pay,18,2
+turning,19,1
+externally,20,2
+turn access,21,2
+sim card,22,1
+connectors turn,23,2
+accessible,24,2
+beware,25,2
+abuse,26,1
+bios,27,4
+talking,28,2
+turn,29,7
+hot,30,6
+eyes,31,2
+hotspots,32,2
+modules tails,33,1
+posted,34,1
+sleep,35,2
+machine operations,36,2
+search,37,1
+firewire physically,38,2
+grass,39,1
+embedded,40,1
+connect,41,5
+linked,42,3
+capable connectors,43,1
+linkability,44,2
+enabling,45,1
+electrum,46,1
+rssi,47,2
+spots cell,48,1
+address,49,5
+charge,50,2
+set,51,1
+business,52,4
+kernel,53,3
+transport connection,54,2
+blast,55,2
+entering,56,2
+forensics,57,3
+answer,58,1
+days,59,1
+config,60,2
+register,61,1
+access tails,62,1
+november,63,2
+de,64,2
+correct,65,1
+voucher,66,1
+good,67,5
+empty,68,1
+vend,69,1
+machine physically,70,1
+antiforensics,71,3
+post,72,1
+contact,73,1
+useless,74,1
+info,75,5
+area,76,1
+dedicated,77,2
+wifi hotspot,78,2
+precautions wifi,79,2
+good info,80,2
+unpredictable,81,2
+secondsive,82,1
+pay,83,3
+gps,84,4
+tails,85,7
+nefarious,86,1
+port,87,4
+guys,88,1
+bios good,89,1
+virtual,90,2
+private,91,2
+capable ports,92,2
+technical,93,1
+sources,94,1
+purchasing,95,2
+mistakes,96,1
+capable,97,3
+onionno,98,1
+random,99,1
+load,100,1
+sim,101,3
+captured,102,1
+skill,103,2
+root,104,2
+exposed,105,1
+trouble,106,2
+client,107,4
+company,108,1
+surveillance,109,5
+multiply,110,1
+live,111,2
+identify,112,1
+elegant info,113,1
+considerations,114,1
+special,115,1
+expresscard,116,3
+nodes,117,1
+matter gps,118,2
+vpn,119,2
+automate,120,2
+dma,121,3
+family,122,2
+dude,123,1
+gift,124,2
+elaborate,125,1
+turn matter,126,2
+inception,127,1
+bit,128,1
+doesnt,129,1
+type security,130,1
+easily,131,1
+phone security,132,2
+portal,133,1
+grams,134,1
+write,135,1
+unconnected,136,1
+ig,137,1
+understand,138,2
+volumes,139,2
+tips turn,140,1
+intel,141,1
+altered,142,1
+physically,143,3
+spot,144,3
+spots,145,4
+jmdl,146,1
+compromised,147,1
+remotely,148,1
+turned,149,2
+thunderbolt,150,1
+dumps,151,2
+kernel modules,152,3
+disable firewire,153,2
+js,154,3
+mac address,155,2
+subscription,156,2
+cell phone,157,3
+thingie,158,1
+cell,159,5
+matter,160,4
+thinking,161,1
+mac,162,3
+cameras,163,1
+phone wife,164,2
+file,165,2
+top,166,1
+tor,167,7
+turn things,168,1
+pgp,169,1
+blackest,170,2
+things turn,171,2
+wouldn,172,2
+elegant,173,3
+question,174,1
+break,175,1
+bought,176,1
+dragnet surveillance,177,3
+uri,178,1
+places,179,1
+anonymously,180,1
+machine,181,8
+disable,182,5
+atop,183,2
+bootkit,184,1
+trustworthy,185,2
+hacked,186,1
+things bios,187,1
+pay cash,188,2
+dongles,189,3
+auto,190,1
+traveler,191,2
+usb,192,2
+sign,193,1
+aisle,194,1
+associate,195,1
+importing,196,1
+passwords,197,2
+fine,198,2
+find,199,1
+helix,200,4
+host,201,2
+dramatically,202,2
+net,203,1
+credit,204,1
+combine,205,1
+tower,206,2
+peripheral,207,1
+snooping,208,2
+rebooted,209,1
+caroline,210,2
+tails tor,211,1
+equipment,212,2
+unavoidable,213,1
+real,214,1
+preserve,215,2
+undesirable,216,1
+physically disable,217,2
+entry,218,2
+disk,219,2
+cafe,220,2
+public transport,221,2
+attached,222,2
+port direct,223,1
+problems,224,1
+tor bridge,225,2
+ether,226,2
+keys,227,1
+phones,228,1
+js helix,229,1
+box,230,1
+slot,231,2
+installing,232,1
+network tails,233,1
+firewire,234,10
+switch,235,2
+head,236,1
+effective,237,1
+extra,238,1
+machine dont,239,2
+physical,240,1
+keyboard,241,2
+op,242,1
+pretty,243,1
+opposed,244,1
+os,245,2
+automatic,246,1
+foremost,247,2
+thread,248,2
+transport,249,4
+scusfbmjf,250,1
+probe,251,1
+usbkill,252,1
+ulbricht,253,2
+freezing,254,1
+adroit,255,1
+hot spots,256,3
+online,257,1
+type cell,258,1
+pm,259,1
+nasties,260,1
+disable js,261,1
+silently,262,2
+reason,263,1
+tails security,264,1
+walmart,265,1
+device linked,266,2
+downfall,267,1
+convenience,268,1
+device wifi,269,2
+solder,270,2
+cover,271,4
+geography,272,1
+dragnet,273,3
+drawing,274,2
+resort,275,1
+obfuscated,276,2
+tambourine,277,1
+based,278,2
+closely,279,1
+apt,280,1
+nail,281,1
+pleasure,282,2
+wife phone,283,2
+shouldn,284,2
+gened,285,1
+bridge,286,4
+randomized,287,2
+device,288,9
+flash,289,1
+schneier,290,1
+access,291,7
+cut,292,2
+public wifi,293,1
+easy easy,294,1
+ports,295,4
+networks,296,1
+connection curious,297,2
+remember,298,2
+encryption,299,4
+dongle elegant,300,2
+worried,301,1
+mix,302,2
+key,303,1
+controller,304,2
+strategies,305,2
+refresh,306,2
+refererheader,307,1
+connection operations,308,2
+nondescript,309,2
+people,310,1
+stay,311,1
+tor gps,312,1
+face,313,2
+device sim,314,2
+dont wife,315,2
+gps type,316,1
+decrypt,317,2
+thing,318,2
+operation,319,2
+open,320,1
+fetched,321,1
+ass,322,1
+separate,323,2
+buy,324,5
+numbers,325,1
+secure,326,1
+ieee,327,2
+dma capable,328,3
+regularly,329,2
+paying,330,1
+expresscard ports,331,2
+security tips,332,2
+things,333,6
+basically,334,1
+hooking,335,1
+pre,336,1
+ensure,337,2
+wife dongle,338,2
+bridges,339,1
+surveillance things,340,2
+dissemble,341,2
+modules,342,3
+involved,343,1
+purchased,344,2
+pluggable,345,2
+clothing,346,2
+assume,347,1
+internet,348,1
+full,349,2
+changed,350,1
+locating,351,1
+distro,352,1
+cards,353,4
+info idea,354,1
+idea,355,4
+needed,356,2
+android,357,2
+aspects,358,1
+effort,359,1
+updates,360,1
+towers,361,1
+dismounted,362,2
+idea buy,363,1
+anonymity,364,2
+openvpn,365,1
+security security,366,1
+thoughts,367,1
+pain,368,1
+previous,369,2
+suspicion,370,2
+network client,371,2
+prepaid,372,2
+technology,373,1
+configure,374,2
+good idea,375,1
+helix address,376,1
+target,377,2
+dongle dongle,378,2
+paid,379,1
+forensics techniques,380,2
+location,381,4
+risk,382,2
+time,383,3
+fireside,384,1
+error error,385,1
+time linked,386,1
+dongle,387,9
+type,388,3
+issues,389,1
+tips,390,3
+spot dragnet,391,1
+seconds,392,1
+enable,393,2
+pmwhat,394,1
+blacklisting,395,2
+payment,396,1
+connection,397,4
+cash,398,3
+case,399,1
+circuits,400,1
+cons,401,1
+hardware,402,1
+carenow,403,1
+phishing,404,1
+wifi,405,6
+firewire port,406,3
+method,407,2
+encrusted,408,2
+depends,409,2
+work,410,3
+wife,411,4
+compartmentalize,412,2
+push,413,1
+direct access,414,1
+buy device,415,2
+provide,416,1
+priceless,417,1
+hotspot buy,418,2
+phone,419,7
+light,420,2
+logging,421,1
+card,422,4
+care,423,1
+log,424,1
+precautions,425,3
+hotspot,426,11
+guard,427,2
+direct,428,3
+wear,429,2
+connectors machine,430,1
+client device,431,4
+tools,432,1
+ssid,433,1
+confirmed,434,1
+dongles hot,435,1
+smart,436,1
+triangle,437,2
+anti,438,3
+access bios,439,2
+geo,440,1
+lot,441,1
+pros,442,1
+computer,443,2
+ways,444,1
+telco,445,2
+web,446,1
+access dongle,447,1
+reduces,448,2
+probes,449,2
+semi,450,1
+firmware,451,2
+wallet,452,1
+suspect,453,1
+quotehelix,454,1
+enufi,455,1
+great,456,2
+surreptitiously,457,2
+nice,458,1
+happened,459,1
+lots,460,2
+error helix,461,1
+anonymous,462,1
+unsuspecting,463,2
+connecting,464,1
+addresses,465,1
+onion,466,1
+connect tor,467,3
+experience,468,2
+listen,469,2
+space,470,1
+wondering,471,1
+blasting,472,1
+hit,473,1
+good connect,474,1
+tor network,475,1
+connections,476,1
+triangulate,477,2
+wifi dongle,478,2
+cellar,479,2
+curious,480,3
+traces,481,2
+ill,482,2
+crypto,483,1
+techniques,484,4
+recruit,485,2
+safe,486,1
+files,487,4
+send,488,1
+dont,489,6
+option,490,1
+death,491,1
+disks,492,2
+link,493,1
+error,494,3
+hot spot,495,3
+network,496,4
+tend,497,1
+device public,498,1
+thingies,499,1
+security,500,11
+curious good,501,2
+operations,502,7
+public,503,4
+sounds,504,1
+securely,505,1
+firewire expresscard,506,3
+nose,507,2
+idea phone,508,1
+anti forensics,509,3
+cost,510,1
+built,511,1
+limited,512,1
+clear,513,1
+jack,514,2
+airtime,515,2
+locations,516,2
+account,517,2

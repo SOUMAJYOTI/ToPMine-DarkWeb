@@ -1,0 +1,61 @@
+Topic 0:
+  files:3.45
+  encrypted:2.92
+  encryption dont:2.72
+  happen:1.33
+  long:1.33
+  encrypted desperately:1.33
+  expect:1.33
+  tor:1.33
+  lose:1.33
+  time:1.32
+
+Topic 1:
+  lots:2.90
+  aspects:1.41
+  covers:1.41
+  agree:1.41
+  ground:1.41
+  nice:1.41
+  teh:1.41
+  deepdotweb:1.41
+  security dont:1.41
+  hidden:1.41
+
+Topic 2:
+  server:3.91
+  tails pidgin otr:2.91
+  authenticated:2.76
+  jabber:1.85
+  good:1.81
+  guess:1.81
+  xmpp:1.81
+  deleted:1.81
+  sign:1.81
+  account:1.81
+
+Topic 3:
+  program:1.66
+  lot:1.24
+  follow:0.89
+  advice:0.87
+  reason:0.83
+  public:0.83
+  knew:0.83
+  liability:0.83
+  boards:0.83
+  knowledge:0.82
+
+Topic 4:
+  dont:3.08
+  cipher:2.82
+  block:2.82
+  switch:2.82
+  data:2.82
+  pmi:2.82
+  july:2.82
+  diceware:2.82
+  passphrase:2.82
+  quote tambourine:2.15
+
+K: 5, Log-Likelihood: -1699.703, Alpha: 11.000, Beta: 1.100

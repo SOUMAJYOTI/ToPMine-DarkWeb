@@ -1,0 +1,61 @@
+Topic 0:
+  list:0.40
+  vendors:0.20
+  darknet:0.20
+  updated:0.20
+  fallen:0.20
+  ill:0.20
+  turned:0.20
+  forum:0.20
+  vax:0.20
+  pure:0.20
+
+Topic 1:
+  list:0.40
+  add:0.20
+  hammertime:0.20
+  personal:0.20
+  patternman:0.20
+  fallen:0.20
+  forum:0.20
+  pure:0.20
+  henceforth:0.20
+  era:0.20
+
+Topic 2:
+  list:0.40
+  personal:0.20
+  current:0.20
+  faves:0.20
+  era:0.20
+  downfalls:0.20
+  henceforth:0.20
+  reporting:0.20
+  add:0.20
+  patternman:0.20
+
+Topic 3:
+  list:0.40
+  vax:0.20
+  pure:0.20
+  dedicated:0.20
+  vendors:0.20
+  turned:0.20
+  fallen:0.20
+  darknet:0.20
+  forum:0.20
+  ill:0.20
+
+Topic 4:
+  list:0.40
+  ill:0.20
+  dedicated:0.20
+  updated:0.20
+  forum:0.20
+  darknet:0.20
+  pure:0.20
+  fallen:0.20
+  vax:0.20
+  turned:0.20
+
+K: 5, Log-Likelihood: -66.645, Alpha: 11.000, Beta: 1.100

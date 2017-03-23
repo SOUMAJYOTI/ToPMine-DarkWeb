@@ -1,0 +1,61 @@
+Topic 0:
+  time:0.74
+  touch:0.73
+  cm:0.73
+  premium:0.72
+  forward:0.69
+  dont:0.44
+  wondering:0.36
+  ordered:0.36
+  selections:0.36
+  checking:0.36
+
+Topic 1:
+  cm:0.67
+  forward:0.60
+  premium:0.60
+  touch:0.59
+  time:0.58
+  dont:0.45
+  cult:0.35
+  tolerance:0.31
+  years:0.31
+  estimation:0.31
+
+Topic 2:
+  thread:2.28
+  contact:1.12
+  direct:0.95
+  info:0.95
+  link:0.95
+  active:0.95
+  area:0.95
+  vendors:0.95
+  cult:0.59
+  reply:0.41
+
+Topic 3:
+  forward:1.03
+  premium:1.01
+  touch:1.00
+  time:0.99
+  cm:0.73
+  treat:0.44
+  ill:0.44
+  sticking:0.44
+  track:0.44
+  hey:0.44
+
+Topic 4:
+  cm:0.62
+  cult:0.52
+  dont:0.42
+  wrong:0.39
+  reviews:0.39
+  love:0.39
+  market:0.39
+  good:0.39
+  time:0.37
+  check:0.37
+
+K: 5, Log-Likelihood: -474.554, Alpha: 11.000, Beta: 1.100

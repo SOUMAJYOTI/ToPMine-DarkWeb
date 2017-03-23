@@ -1,0 +1,61 @@
+Topic 0:
+  good:13.91
+  tails:12.66
+  idea:5.88
+  quote:5.52
+  vpn:4.54
+  thing:4.16
+  july:4.06
+  live:3.75
+  tor:3.55
+  wifi:3.32
+
+Topic 1:
+  pgp:2.98
+  public:2.54
+  key:1.98
+  ne:1.98
+  hrf:1.98
+  rs:1.98
+  wws:1.98
+  ax:1.98
+  block:1.98
+  ass:1.42
+
+Topic 2:
+  buy:3.72
+  mid:3.60
+  laptop:3.32
+  webcam:3.12
+  tails:3.09
+  cover:2.75
+  work:2.51
+  thing:2.36
+  paranoid:2.01
+  wire:1.89
+
+Topic 3:
+  based:9.97
+  sun:5.97
+  pc:5.49
+  tor:5.05
+  tails:4.21
+  systems:2.97
+  luna:2.97
+  open:2.54
+  hardware:2.41
+  motherboard:2.41
+
+Topic 4:
+  camera:5.39
+  tails:4.98
+  pops:3.52
+  ndiswrapper:3.12
+  wipe:2.74
+  microphone:2.67
+  mind:2.66
+  disconnect:2.66
+  peace:2.66
+  windows:2.45
+
+K: 5, Log-Likelihood: -6815.618, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  returning:0.40
+  message:0.40
+  market:0.20
+  agoras:0.20
+  customer:0.20
+  gamesome:0.20
+  digital:0.20
+  count:0.20
+  loyal:0.20
+  pm:0.20
+
+Topic 1:
+  message:0.40
+  returning:0.40
+  digital:0.20
+  count:0.20
+  loyal:0.20
+  pm:0.20
+  customer:0.20
+  gamesome:0.20
+  agoras:0.20
+  market:0.20
+
+Topic 2:
+  message:0.40
+  returning:0.40
+  loyal:0.20
+  market:0.20
+  agoras:0.20
+  customer:0.20
+  pm:0.20
+  count:0.20
+  digital:0.20
+  gamesome:0.20
+
+Topic 3:
+  returning:0.40
+  message:0.40
+  count:0.20
+  pm:0.20
+  gamesome:0.20
+  agoras:0.20
+  loyal:0.20
+  customer:0.20
+  digital:0.20
+  market:0.20
+
+Topic 4:
+  message:0.40
+  returning:0.40
+  gamesome:0.20
+  market:0.20
+  customer:0.20
+  pm:0.20
+  agoras:0.20
+  digital:0.20
+  count:0.20
+  loyal:0.20
+
+K: 5, Log-Likelihood: -27.090, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  cardaajana:1.20
+  alhaalla:1.20
+  smite:1.20
+  paskalakkien:1.20
+  kuvitella:1.20
+  turvallisimmista:1.20
+  pit:1.20
+  yksi:1.20
+  sijaan:1.20
+  lki:1.20
+
+Topic 1:
+  kaikki:2.61
+  kin:2.61
+  vain:1.23
+  jo:1.23
+  mihink:1.23
+  paikat:1.23
+  kaikissa:1.23
+  mahdotonta:1.23
+  kortteja:1.23
+  tullut:1.23
+
+Topic 2:
+  nyt:0.92
+  smart:0.70
+  siin:0.70
+  eik:0.68
+  mit:0.68
+  mielt:0.68
+  kuvattavaksi:0.68
+  postista:0.68
+  aika:0.68
+  kameran:0.68
+
+Topic 3:
+  sun:1.81
+  nyt:0.82
+  siin:0.81
+  smart:0.80
+  heh:0.77
+  siviilipuvuissa:0.77
+  kuolla:0.77
+  paskalakit:0.77
+  ostaajaa:0.77
+  ne:0.77
+
+Topic 4:
+  voi:2.39
+  hetett:1.07
+  kameroita:1.07
+  automaatissa:1.07
+  jotka:1.07
+  selville:1.07
+  myyj:1.07
+  matalalla:1.07
+  saadaan:1.07
+  quote:1.07
+
+K: 5, Log-Likelihood: -866.198, Alpha: 11.000, Beta: 1.100

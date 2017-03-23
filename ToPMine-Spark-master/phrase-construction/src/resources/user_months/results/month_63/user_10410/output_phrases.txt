@@ -1,0 +1,61 @@
+Topic 0:
+  things:4.09
+  market:3.46
+  pm:3.25
+  scam site:2.03
+  scam acas:2.01
+  unlucky:2.01
+  reconsidered:2.01
+  acts:2.01
+  admin:2.01
+  precisely:2.01
+
+Topic 1:
+  spreading fud:3.40
+  listings:3.28
+  drug:3.28
+  holland:3.28
+  scammer:3.28
+  haze:3.28
+  work:3.28
+  lemon:3.28
+  swamped:3.28
+  grown:3.28
+
+Topic 2:
+  create key:6.64
+  bip:6.64
+  option:4.96
+  quote:3.47
+  private:3.29
+  coffin:3.29
+  quicker:3.29
+  visibility:3.29
+  pushed:3.29
+  complex:3.29
+
+Topic 3:
+  limited free:6.63
+  links:5.69
+  obvious:3.40
+  october:3.28
+  coming:3.28
+  link deepdotweb:3.28
+  vendor link:3.28
+  registration:3.28
+  check:3.28
+  community:3.28
+
+Topic 4:
+  quote thenextbigthing december:7.93
+  legitimate:5.48
+  hero contributor:4.72
+  status:4.70
+  questions:4.12
+  amas:4.12
+  tambourine:3.98
+  complaining unfinished multisig implementation:3.59
+  unfounded speculation dont legitimate:3.59
+  market credibility idiotic suppositions:3.59
+
+K: 5, Log-Likelihood: -4666.598, Alpha: 11.000, Beta: 1.100

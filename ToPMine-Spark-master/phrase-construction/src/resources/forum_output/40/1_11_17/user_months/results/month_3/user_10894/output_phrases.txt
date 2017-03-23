@@ -1,0 +1,61 @@
+Topic 0:
+  february:6.87
+  fog coinjoin shared send:6.62
+  exchange:6.27
+  quote:5.24
+  mixer wallet blockchain info:3.85
+  shared coin coinjoin:3.84
+  bitcoin fog costs:3.84
+  shared coin anonymous:3.84
+  address:3.51
+  info discontinued send shared:3.16
+
+Topic 1:
+  shared coin:6.10
+  chance:4.25
+  core:4.25
+  maxwell:4.25
+  coins:3.22
+  bitcoin:2.15
+  transaction:2.11
+  keeping:2.11
+  math:2.11
+  low:2.11
+
+Topic 2:
+  sending receiving bitcoins anonymously:4.46
+  taint:4.22
+  couple:4.22
+  analysis:4.22
+  quote jolly roger january:3.61
+  things:2.99
+  boxofshapes january pmi:2.98
+  address:2.97
+  bitcoin fog shared send:2.96
+  story short combination:2.96
+
+Topic 3:
+  fog box explore services:3.08
+  testing things:3.06
+  thing open side:2.59
+  reason simple throwing shapes:2.57
+  coins:2.45
+  coins isn fun guide:2.36
+  fog coinjoin shared send:1.92
+  dont talked:1.84
+  sr dpr half:1.84
+  mentioned write proper guide:1.84
+
+Topic 4:
+  shared send:7.73
+  bitcoin fog:5.52
+  amount:5.14
+  expensive:4.23
+  break:4.23
+  prices:3.62
+  outrages dealt larger values:3.62
+  quick:3.40
+  house:3.40
+  swapped:3.40
+
+K: 5, Log-Likelihood: -3894.066, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  blockchain:14.25
+  tumbling:12.90
+  coins:9.34
+  deals:7.91
+  direct:7.91
+  post:7.11
+  lbc:6.93
+  case:5.95
+  evidence:5.95
+  wallet:5.94
+
+Topic 1:
+  abraxas:10.21
+  quote:9.79
+  dream:8.52
+  earth:7.97
+  middle:7.96
+  good:5.90
+  britneystoke:5.88
+  pmquote:5.88
+  stay:5.81
+  pmwhat:5.81
+
+Topic 2:
+  fee:17.69
+  randomized:12.77
+  low:11.91
+  fees:8.85
+  analysis:8.77
+  transactions:6.33
+  coins:6.22
+  escrow:5.64
+  bitcoin:5.54
+  address:5.52
+
+Topic 3:
+  time:47.57
+  market:25.15
+  link:19.30
+  love:18.59
+  avengers:14.16
+  referred:9.88
+  join:9.07
+  uptime:7.96
+  required:7.87
+  people:6.07
+
+Topic 4:
+  send:26.42
+  pay:22.57
+  helix:21.16
+  coins:18.19
+  amount:17.35
+  btc:16.71
+  version:14.96
+  bitblender:13.78
+  shield:12.89
+  light:12.89
+
+K: 5, Log-Likelihood: -11687.993, Alpha: 11.000, Beta: 1.100

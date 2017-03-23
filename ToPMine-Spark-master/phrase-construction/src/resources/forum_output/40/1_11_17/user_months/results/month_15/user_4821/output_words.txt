@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:5.23
+  connect:3.75
+  tails:3.34
+  tor:3.06
+  server:2.98
+  connecting:2.59
+  normal:2.35
+  servers:2.33
+  onion:2.33
+  pretty:2.16
+
+Topic 1:
+  electrum:4.91
+  tor:4.61
+  connect:3.65
+  port:3.20
+  server:2.94
+  onion:2.40
+  tails:2.34
+  browser:1.75
+  pretty:1.73
+  set:1.72
+
+Topic 2:
+  wallet:9.75
+  running:7.45
+  time:5.66
+  connect:5.02
+  exe:3.86
+  command:3.86
+  appears:3.86
+  program:3.86
+  specific:3.50
+  server:3.39
+
+Topic 3:
+  tor:7.78
+  port:5.41
+  tails:4.51
+  electrum:4.06
+  connect:4.03
+  expert:3.49
+  work:3.35
+  bundle:3.24
+  browser:2.66
+  pretty:2.36
+
+Topic 4:
+  tor:5.69
+  onion:3.79
+  tails:3.66
+  connect:3.55
+  port:3.35
+  electrum:2.98
+  server:2.95
+  depends:2.36
+  browser:2.17
+  set:2.15
+
+K: 5, Log-Likelihood: -2237.788, Alpha: 11.000, Beta: 1.100

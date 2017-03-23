@@ -1,0 +1,61 @@
+Topic 0:
+  server:4.33
+  project:4.09
+  disabled:4.07
+  scripts:4.07
+  bad:3.27
+  good:2.69
+  canvas:2.69
+  cookies:2.65
+  hardened:2.22
+  hs:2.21
+
+Topic 1:
+  attempts:6.63
+  conclusion:6.63
+  man middle:6.63
+  encounter:6.63
+  google:5.83
+  good fellows:4.95
+  direction:4.10
+  antenna:4.10
+  abilities:3.28
+  nature:3.28
+
+Topic 2:
+  browser:6.22
+  proxy:6.19
+  tor:5.35
+  http:4.30
+  user agent:4.29
+  javascript:4.11
+  alter:4.11
+  response:4.11
+  fingerprint:4.11
+  squid:4.11
+
+Topic 3:
+  software:3.54
+  ways:3.16
+  system:2.19
+  encrusted:2.18
+  verify:1.98
+  farewell:1.98
+  theoretically:1.98
+  safe:1.98
+  kind software:1.98
+  range:1.97
+
+Topic 4:
+  resources:4.12
+  hotspots:3.72
+  attacker:2.40
+  figure:2.05
+  lacked:2.05
+  looked attacker:2.05
+  impersonation:2.05
+  knew:2.05
+  level:2.05
+  thinking:2.05
+
+K: 5, Log-Likelihood: -4871.482, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  dream:0.81
+  march:0.60
+  loads:0.40
+  market:0.40
+  alpha:0.40
+  fine:0.40
+  amand:0.20
+  quote:0.20
+  hours:0.20
+  redeye:0.20
+
+Topic 1:
+  dream:0.79
+  march:0.62
+  fine:0.40
+  market:0.40
+  loads:0.40
+  alpha:0.40
+  coin:0.20
+  btc:0.20
+  org:0.20
+  double:0.20
+
+Topic 2:
+  dream:0.81
+  march:0.59
+  alpha:0.40
+  fine:0.40
+  market:0.40
+  loads:0.40
+  seamless:0.20
+  moment:0.20
+  work:0.20
+  hours:0.20
+
+Topic 3:
+  dream:0.80
+  march:0.60
+  fine:0.40
+  market:0.40
+  alpha:0.40
+  loads:0.40
+  work:0.20
+  moment:0.20
+  double:0.20
+  btc:0.20
+
+Topic 4:
+  dream:0.79
+  march:0.60
+  loads:0.40
+  alpha:0.40
+  fine:0.40
+  market:0.40
+  invest:0.20
+  syscoin:0.20
+  double:0.20
+  org:0.20
+
+K: 5, Log-Likelihood: -83.462, Alpha: 11.000, Beta: 1.100

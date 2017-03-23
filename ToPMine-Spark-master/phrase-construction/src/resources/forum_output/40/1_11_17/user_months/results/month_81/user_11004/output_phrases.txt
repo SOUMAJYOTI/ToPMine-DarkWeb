@@ -1,0 +1,61 @@
+Topic 0:
+  quality:0.16
+  market:0.16
+  platte platte:0.16
+  blister blister tabs blister:0.16
+  blister:0.16
+  orders:0.16
+  package:0.16
+  sign:0.16
+  germany europe:0.16
+  days:0.16
+
+Topic 1:
+  market:0.16
+  blister:0.16
+  days:0.16
+  germany europe:0.16
+  germany tracking:0.16
+  sign:0.16
+  orders:0.16
+  blister blister tabs blister:0.16
+  tubs:0.16
+  polm:0.16
+
+Topic 2:
+  market:0.16
+  blister blister:0.16
+  platte platte:0.16
+  tubs:0.16
+  blister blister tabs:0.16
+  europe tracking:0.16
+  germany tracking:0.16
+  blister blister tabs blister:0.16
+  germany europe:0.16
+  sign:0.16
+
+Topic 3:
+  strong:0.16
+  days:0.16
+  blister:0.16
+  europe tracking:0.16
+  blister blister tabs:0.16
+  products:0.16
+  polm:0.16
+  blister blister tabs blister:0.16
+  germany europe:0.16
+  package:0.16
+
+Topic 4:
+  strong:0.16
+  products:0.16
+  blister blister:0.16
+  europe tracking:0.16
+  orders:0.16
+  polm:0.16
+  germany tracking:0.16
+  package:0.16
+  sign:0.16
+  platte platte:0.16
+
+K: 5, Log-Likelihood: -211.061, Alpha: 11.000, Beta: 1.100

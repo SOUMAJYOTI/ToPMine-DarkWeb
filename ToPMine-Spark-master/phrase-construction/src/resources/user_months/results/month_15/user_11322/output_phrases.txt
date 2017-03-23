@@ -1,0 +1,61 @@
+Topic 0:
+  original:0.14
+  supremesmoke:0.14
+  verified:0.14
+  questioning:0.14
+  friend:0.14
+  dead:0.14
+  tnb:0.14
+  shortly:0.14
+  trusted:0.14
+  hey:0.14
+
+Topic 1:
+  sr:0.14
+  tnb:0.14
+  questioning:0.14
+  hey:0.14
+  trusted:0.14
+  friend:0.14
+  shortly:0.14
+  verified:0.14
+  dead:0.14
+  supremesmoke:0.14
+
+Topic 2:
+  close:0.14
+  sr:0.14
+  listings:0.14
+  hey:0.14
+  recognize:0.14
+  shortly:0.14
+  customers:0.14
+  trusted:0.14
+  tnb:0.14
+  dead:0.14
+
+Topic 3:
+  customers:0.14
+  listings:0.14
+  close:0.14
+  questioning:0.14
+  trusted:0.14
+  original:0.14
+  supremesmoke:0.14
+  shortly:0.14
+  tnb:0.14
+  recognize:0.14
+
+Topic 4:
+  recognize:0.14
+  customers:0.14
+  listings:0.14
+  hey:0.14
+  trusted:0.14
+  close:0.14
+  shortly:0.14
+  sr:0.14
+  tnb:0.14
+  dead:0.14
+
+K: 5, Log-Likelihood: -28.156, Alpha: 11.000, Beta: 1.100

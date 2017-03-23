@@ -1,0 +1,61 @@
+Topic 0:
+  halo head:2.71
+  ir lights:2.71
+  police:1.51
+  camels:1.50
+  question:1.50
+  hide:1.50
+  draw:1.50
+  places security:1.49
+  security:1.43
+  baseball cap:1.43
+
+Topic 1:
+  researchers:6.97
+  racial recognition systems:6.96
+  racial recognition:4.03
+  glasses:3.43
+  snapped:2.58
+  nii:2.57
+  protect:2.57
+  surveillance:2.57
+  flashing:2.56
+  previous:2.56
+
+Topic 2:
+  leds:1.12
+  glasses:0.67
+  good:0.58
+  hoping:0.58
+  thing:0.58
+  wondering:0.58
+  answer:0.58
+  net:0.57
+  designs:0.57
+  eye:0.57
+
+Topic 3:
+  glasses:1.18
+  leds:0.65
+  nasty:0.50
+  good:0.50
+  time:0.49
+  racial recognition systems:0.37
+  researchers:0.36
+  racial recognition:0.31
+  regular:0.30
+  visor:0.30
+
+Topic 4:
+  fellow:1.32
+  homemade:1.32
+  nice:1.32
+  excellent:1.32
+  care:1.32
+  domie:1.32
+  solution:1.32
+  thinking:1.32
+  device:1.32
+  problem:1.32
+
+K: 5, Log-Likelihood: -1759.308, Alpha: 11.000, Beta: 1.100

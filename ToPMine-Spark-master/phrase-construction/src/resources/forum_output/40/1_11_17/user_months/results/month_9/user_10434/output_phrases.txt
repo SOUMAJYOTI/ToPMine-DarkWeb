@@ -1,0 +1,61 @@
+Topic 0:
+  good:0.38
+  customers:0.36
+  vendor:0.36
+  afrikansun:0.36
+  forums:0.36
+  leave:0.30
+  markets:0.30
+  weed:0.27
+  africa:0.21
+  prices:0.21
+
+Topic 1:
+  good:0.39
+  afrikansun:0.36
+  customers:0.36
+  forums:0.35
+  vendor:0.35
+  leave:0.30
+  markets:0.30
+  weed:0.27
+  prices:0.21
+  africa:0.21
+
+Topic 2:
+  good:0.38
+  forums:0.36
+  afrikansun:0.35
+  customers:0.35
+  vendor:0.35
+  leave:0.30
+  markets:0.30
+  weed:0.27
+  africa:0.21
+  prices:0.21
+
+Topic 3:
+  vendor:0.38
+  forums:0.38
+  customers:0.38
+  afrikansun:0.38
+  good:0.34
+  markets:0.31
+  leave:0.31
+  weed:0.27
+  couple:0.21
+  bud:0.21
+
+Topic 4:
+  vendor:0.39
+  afrikansun:0.39
+  forums:0.38
+  customers:0.38
+  good:0.34
+  markets:0.31
+  leave:0.31
+  weed:0.27
+  couple:0.21
+  find:0.21
+
+K: 5, Log-Likelihood: -412.352, Alpha: 11.000, Beta: 1.100

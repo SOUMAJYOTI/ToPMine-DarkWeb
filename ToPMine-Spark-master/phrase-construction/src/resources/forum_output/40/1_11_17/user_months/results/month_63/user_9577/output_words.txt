@@ -1,0 +1,61 @@
+Topic 0:
+  thing:5.76
+  post:5.65
+  abraxas:3.98
+  learned:3.84
+  tmg:3.76
+  understand:3.74
+  technical:3.62
+  gamesome:3.61
+  encrypting:3.52
+  yeah:2.94
+
+Topic 1:
+  key:19.93
+  public:17.18
+  message:16.38
+  pgp:11.87
+  email:8.94
+  decrypt:7.93
+  pip:6.90
+  keys:6.28
+  gpg:5.20
+  gog:4.34
+
+Topic 2:
+  market:10.96
+  abraxas:7.57
+  good:6.12
+  btc:5.82
+  love:5.21
+  vendors:4.82
+  avengers:4.80
+  needed:3.93
+  moving:3.81
+  large:3.81
+
+Topic 3:
+  key:17.86
+  encrypt:5.86
+  pgp:5.26
+  people:4.42
+  private:4.21
+  pretty:3.93
+  plan:3.93
+  buying:3.93
+  message:3.78
+  lot:3.33
+
+Topic 4:
+  vendors:7.09
+  le:4.41
+  market:3.84
+  long:3.73
+  markets:3.65
+  trust:3.59
+  garden:3.56
+  maintenance:3.14
+  shut:3.00
+  lucky:2.74
+
+K: 5, Log-Likelihood: -4565.506, Alpha: 11.000, Beta: 1.100

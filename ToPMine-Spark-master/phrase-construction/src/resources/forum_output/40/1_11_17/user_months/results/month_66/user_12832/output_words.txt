@@ -1,0 +1,61 @@
+Topic 0:
+  nucleus:0.61
+  market:0.40
+  middleearth:0.40
+  evolution:0.20
+  vendor:0.20
+  years:0.20
+  bs:0.20
+  bluesky:0.20
+  open:0.20
+  current:0.20
+
+Topic 1:
+  nucleus:0.60
+  middleearth:0.40
+  market:0.40
+  months:0.20
+  hansa:0.20
+  alpaca:0.20
+  years:0.20
+  downtime:0.20
+  stores:0.20
+  promising:0.20
+
+Topic 2:
+  nucleus:0.59
+  market:0.40
+  middleearth:0.40
+  community:0.20
+  young:0.20
+  growing:0.20
+  guides:0.20
+  feels:0.20
+  alpaca:0.20
+  days:0.20
+
+Topic 3:
+  nucleus:0.61
+  market:0.40
+  middleearth:0.40
+  alphabet:0.20
+  young:0.20
+  blackbank:0.20
+  bs:0.20
+  promising:0.20
+  trinkets:0.20
+  active:0.20
+
+Topic 4:
+  nucleus:0.59
+  middleearth:0.40
+  market:0.40
+  physical:0.20
+  ago:0.20
+  alphabay:0.20
+  active:0.20
+  hansai:0.20
+  open:0.20
+  check:0.20
+
+K: 5, Log-Likelihood: -141.614, Alpha: 11.000, Beta: 1.100

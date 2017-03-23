@@ -1,0 +1,61 @@
+Topic 0:
+  deposits:2.50
+  waiting:2.50
+  scammed:2.49
+  sinking:2.49
+  gettin:2.49
+  link:2.48
+  kinda:2.48
+  direct:2.48
+  markets:1.61
+  ve:1.51
+
+Topic 1:
+  dardush:3.58
+  imputable:1.72
+  disputes:1.72
+  nice:1.72
+  blackwebz:1.72
+  pmyou:1.72
+  vendors:1.72
+  quote:1.72
+  wrong:1.72
+  january:1.72
+
+Topic 2:
+  markets:1.96
+  money:1.56
+  ab:1.37
+  scam:1.27
+  people:1.26
+  vendor:1.15
+  carders:0.99
+  thieves:0.98
+  steal:0.97
+  mods:0.96
+
+Topic 3:
+  order:4.20
+  logged:2.76
+  agra:2.76
+  working:2.76
+  generated:2.76
+  designing:2.76
+  anythingi:2.76
+  letter:2.76
+  change:2.76
+  isnt:2.76
+
+Topic 4:
+  vendor:4.30
+  people:4.16
+  money:3.88
+  markets:3.52
+  tmg:2.00
+  send:1.98
+  long:1.97
+  claiming:1.97
+  limbo:1.97
+  scamming:1.96
+
+K: 5, Log-Likelihood: -1437.700, Alpha: 11.000, Beta: 1.100

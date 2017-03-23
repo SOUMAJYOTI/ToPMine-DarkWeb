@@ -1,0 +1,61 @@
+Topic 0:
+  drug:4.20
+  thought:3.99
+  suppose:3.86
+  humans:3.86
+  transparency:3.86
+  guy:3.86
+  irresponsible:2.10
+  slap:2.10
+  privacy:2.09
+  experiment:2.09
+
+Topic 1:
+  people:4.57
+  instructions:3.83
+  write:3.83
+  allot:3.81
+  private:3.81
+  flash:3.55
+  mode:2.98
+  open source:2.73
+  reward:2.73
+  disassembly:2.73
+
+Topic 2:
+  sense:3.37
+  removing:2.70
+  alltogether:2.70
+  problems:2.70
+  hd:2.70
+  avoid bios:2.70
+  dban:2.69
+  drug:1.88
+  government:1.73
+  agora:1.71
+
+Topic 3:
+  hardware:3.85
+  happen:3.85
+  thing:3.85
+  unclean:3.01
+  info:3.01
+  bios:2.77
+  software:2.41
+  october:1.98
+  quote:1.98
+  youdnever:1.91
+
+Topic 4:
+  break:3.01
+  system:2.59
+  bits:2.43
+  bios source:1.91
+  massive:1.91
+  paranoid:1.91
+  eber:1.91
+  activity:1.91
+  nafarious:1.91
+  download:1.91
+
+K: 5, Log-Likelihood: -4822.025, Alpha: 11.000, Beta: 1.100

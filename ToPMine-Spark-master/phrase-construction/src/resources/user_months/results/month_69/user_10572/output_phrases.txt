@@ -1,0 +1,61 @@
+Topic 0:
+  dash:17.10
+  bitcoin:14.48
+  market cap:14.09
+  monero:6.64
+  vendors:6.33
+  time:5.84
+  community:5.81
+  long:4.68
+  trading:4.68
+  invest:4.68
+
+Topic 1:
+  vulnerability:7.28
+  diffie hellman:7.04
+  openssl:5.61
+  reuse:4.69
+  applications rely:4.69
+  based:4.69
+  exponents:4.69
+  private:4.69
+  single:4.69
+  partial:4.69
+
+Topic 2:
+  mention:4.68
+  worth:2.33
+  agree:2.33
+  input mentioning sigaints:2.33
+  exception dash:2.33
+  hype:2.33
+  altcoins:2.33
+  sadly:2.33
+  hates:2.33
+  contrast:2.33
+
+Topic 3:
+  exchange:6.97
+  dont:6.60
+  vulnerability:5.93
+  quote tang january:5.72
+  quote:5.68
+  january:5.47
+  quote tang january ami:4.83
+  puppy:4.66
+  hen:4.66
+  parts:4.66
+
+Topic 4:
+  dash:4.41
+  point input mentioning sigaints:3.83
+  government pressure:3.83
+  master nodes mixing collude:3.83
+  troll remember growing boys:3.83
+  privacy publically identifiable cave:3.83
+  feed:3.83
+  good attempt interested:3.83
+  released:3.51
+  isnt:3.33
+
+K: 5, Log-Likelihood: -10778.363, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  admin:0.81
+  curious:0.64
+  knew:0.64
+  events:0.64
+  quote:0.63
+  mia:0.62
+  plate:0.62
+  heard:0.62
+  october:0.61
+  evilgrin:0.60
+
+Topic 1:
+  admin:0.72
+  october:0.61
+  evilgrin:0.60
+  quote:0.59
+  heard:0.57
+  plate:0.56
+  mia:0.56
+  events:0.56
+  curious:0.55
+  knew:0.54
+
+Topic 2:
+  admin:0.65
+  evilgrin:0.61
+  quote:0.61
+  october:0.60
+  plate:0.54
+  heard:0.54
+  mia:0.53
+  curious:0.52
+  knew:0.52
+  events:0.51
+
+Topic 3:
+  admin:0.95
+  events:0.68
+  knew:0.67
+  heard:0.67
+  curious:0.66
+  mia:0.66
+  plate:0.66
+  evilgrin:0.58
+  quote:0.58
+  october:0.56
+
+Topic 4:
+  admin:0.87
+  knew:0.63
+  october:0.63
+  mia:0.63
+  curious:0.63
+  plate:0.62
+  heard:0.61
+  events:0.61
+  evilgrin:0.60
+  quote:0.59
+
+K: 5, Log-Likelihood: -573.868, Alpha: 11.000, Beta: 1.100

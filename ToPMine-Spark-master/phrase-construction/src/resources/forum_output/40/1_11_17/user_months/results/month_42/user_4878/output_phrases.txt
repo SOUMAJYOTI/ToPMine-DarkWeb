@@ -1,0 +1,61 @@
+Topic 0:
+  agora:9.01
+  logged fine:5.88
+  understanding:4.20
+  talk:4.20
+  straight:4.20
+  vendors orders:4.20
+  overlook:4.20
+  deposit:4.20
+  location:4.20
+  open people:4.20
+
+Topic 1:
+  faulty:8.42
+  transaction btc account hope:6.29
+  working deposits hope agora:6.29
+  agora fixes normal order:6.29
+  sends package solid month:6.29
+  questions deposits withdraws fixed:6.29
+  sad customers pay commission:6.29
+  drop ball depositting:6.29
+  order:6.29
+  worried confused irritated simple:6.29
+
+Topic 2:
+  don:11.99
+  dont:8.19
+  dead owe money bad:6.14
+  money afford lose:6.12
+  withdrawal technology guys breaks:6.12
+  rely things:6.12
+  people heroic addicts deposit:6.11
+  irl dealers borrow money:5.27
+  supply dnm:5.26
+  trust dnm affect:5.08
+
+Topic 3:
+  dont:7.59
+  ill clean transaction:3.07
+  bad review:2.93
+  order grams:2.80
+  molly:2.78
+  buy:2.60
+  btc:2.41
+  rl vendors:2.38
+  dont friends:2.38
+  trust:2.37
+
+Topic 4:
+  don:7.14
+  molly:5.68
+  order grams:5.65
+  bad review:5.53
+  buy:4.42
+  vendors:4.28
+  marketplaces risking money basically:3.38
+  ll clean transaction:3.09
+  science:2.97
+  multiplied:2.93
+
+K: 5, Log-Likelihood: -8080.480, Alpha: 11.000, Beta: 1.100

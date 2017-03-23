@@ -1,0 +1,61 @@
+Topic 0:
+  pidgin:4.43
+  xmpp:3.24
+  client:3.24
+  method:1.54
+  answer:1.54
+  chatting:1.54
+  shared:1.54
+  secret:1.54
+  gamesome:1.54
+  authenticate:1.54
+
+Topic 1:
+  encrypted chat:1.07
+  combined:0.81
+  leak:0.80
+  jabber tor:0.80
+  good:0.80
+  vpn:0.80
+  chat:0.74
+  otr:0.73
+  otr office years police:0.66
+  pidgin chats emails:0.65
+
+Topic 2:
+  encrypted chat:1.15
+  otr office years police:0.94
+  pidgin chats emails:0.92
+  decrepit:0.91
+  otr:0.83
+  chat:0.79
+  decrypt:0.67
+  couldn:0.64
+  ip:0.63
+  keys:0.60
+
+Topic 3:
+  jabber people:1.79
+  ip jabber:1.78
+  service:1.77
+  email:1.77
+  lot:1.77
+  trust:1.76
+  rare:1.75
+  easier:1.74
+  days:1.74
+  private tor:1.74
+
+Topic 4:
+  doesn:2.91
+  otr:2.51
+  doesnt:2.48
+  quote:2.02
+  pray:2.02
+  stuff:2.02
+  tie:2.01
+  swirlybird:2.01
+  encrusted:2.01
+  encrypts:2.01
+
+K: 5, Log-Likelihood: -741.247, Alpha: 11.000, Beta: 1.100

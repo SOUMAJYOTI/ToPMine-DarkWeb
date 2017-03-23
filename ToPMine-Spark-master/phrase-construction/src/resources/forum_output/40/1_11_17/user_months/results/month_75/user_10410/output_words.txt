@@ -1,0 +1,36 @@
+Topic 0:
+  officially:0.20
+  acas:0.20
+  closed:0.20
+  doors:0.20
+  today:0.20
+
+Topic 1:
+  officially:0.20
+  acas:0.20
+  today:0.20
+  doors:0.20
+  closed:0.20
+
+Topic 2:
+  closed:0.20
+  doors:0.20
+  today:0.20
+  acas:0.20
+  officially:0.20
+
+Topic 3:
+  acas:0.20
+  today:0.20
+  doors:0.20
+  closed:0.20
+  officially:0.20
+
+Topic 4:
+  officially:0.20
+  closed:0.20
+  today:0.20
+  doors:0.20
+  acas:0.20
+
+K: 5, Log-Likelihood: -8.047, Alpha: 11.000, Beta: 1.100

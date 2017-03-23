@@ -1,0 +1,61 @@
+Topic 0:
+  avatar:0.66
+  attachment:0.66
+  problem:0.66
+  thread:0.66
+  thrown:0.66
+  searching:0.66
+  saved:0.66
+  ongoing:0.66
+  error:0.66
+  reasons:0.63
+
+Topic 1:
+  fair:0.61
+  issues:0.56
+  havent:0.56
+  images:0.56
+  year:0.56
+  unloading:0.56
+  attempted:0.56
+  fixed:0.56
+  attack:0.52
+  larger:0.52
+
+Topic 2:
+  source:1.36
+  fair:1.04
+  numbers:0.82
+  random number:0.59
+  number:0.57
+  users:0.56
+  drawingthe:0.55
+  unpredictability:0.55
+  consistency:0.54
+  service:0.53
+
+Topic 3:
+  tickets:3.74
+  number:3.70
+  random number:3.67
+  source:2.94
+  independent:2.30
+  bits:2.28
+  randomness:2.28
+  drawing:2.27
+  winning:2.26
+  ticket:2.26
+
+Topic 4:
+  happen:2.57
+  shrooms:1.44
+  pack:1.44
+  donate:1.43
+  appreciation:1.43
+  tmg erowid:1.43
+  sign:1.42
+  tmg:1.23
+  external:1.23
+  moderator:1.23
+
+K: 5, Log-Likelihood: -1194.350, Alpha: 11.000, Beta: 1.100

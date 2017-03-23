@@ -1,0 +1,61 @@
+Topic 0:
+  man:3.13
+  suspicious:3.00
+  mercedes:2.91
+  driver:2.87
+  witness:1.44
+  claims:1.44
+  contained:1.44
+  amsterdam:1.44
+  year:1.44
+  turned:1.43
+
+Topic 1:
+  arrested:1.16
+  driver:0.62
+  mercedes:0.58
+  disappeared:0.49
+  suspicious:0.49
+  arrest:0.49
+  mentioned:0.49
+  wrong:0.48
+  ho:0.48
+  names:0.48
+
+Topic 2:
+  online worth mentioning arrested:1.71
+  police judiciary:1.70
+  hacking computers weakness tor:1.69
+  online activities tracing packages:1.67
+  managed pick suspects imagined:1.64
+  neighbor snitching busted crime:1.38
+  someones car someones:1.16
+  bitcoin:1.08
+  dealer things police:1.07
+  deanonymize contrary arrests caused:1.07
+
+Topic 3:
+  finding drugs:1.58
+  car:1.46
+  kind real mistake happen:1.41
+  dealer things police:1.41
+  tor:1.32
+  drugs:1.10
+  tor network people sell:1.08
+  deanonymize contrary arrests caused:1.06
+  bitcoin:1.04
+  neighbor snitching busted crime:1.04
+
+Topic 4:
+  names:1.28
+  ho:1.28
+  packages:1.27
+  mentioned:1.27
+  wrong:1.25
+  disappeared:1.25
+  flaw:1.25
+  answer:1.24
+  parallel:1.24
+  arrest:1.24
+
+K: 5, Log-Likelihood: -989.066, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  morning:1.43
+  days:1.35
+  panic:1.33
+  yesterday:1.09
+  police:1.06
+  forum:0.74
+  updates:0.74
+  hub:0.66
+  silkkitie:0.64
+  hasnt:0.64
+
+Topic 1:
+  lot:1.77
+  silkkitie:1.75
+  kapteeni:1.48
+  speculation:1.32
+  safe:1.23
+  hope:0.99
+  hub:0.71
+  technical:0.70
+  vendor:0.69
+  nose:0.69
+
+Topic 2:
+  days:1.54
+  silkkitie:1.14
+  panic:1.08
+  morning:0.88
+  updates:0.80
+  hasnt:0.75
+  forum:0.72
+  police:0.70
+  hub:0.70
+  technical:0.70
+
+Topic 3:
+  morning:1.36
+  days:1.12
+  panic:1.11
+  police:0.91
+  yesterday:0.90
+  forum:0.73
+  silkkitie:0.73
+  updates:0.72
+  vendor:0.64
+  hub:0.64
+
+Topic 4:
+  safe:1.40
+  technical:1.35
+  vendor:1.35
+  hub:1.30
+  hope:1.21
+  recoup:1.17
+  translation:1.17
+  word:1.16
+  official:1.16
+  people:1.16
+
+K: 5, Log-Likelihood: -1384.650, Alpha: 11.000, Beta: 1.100

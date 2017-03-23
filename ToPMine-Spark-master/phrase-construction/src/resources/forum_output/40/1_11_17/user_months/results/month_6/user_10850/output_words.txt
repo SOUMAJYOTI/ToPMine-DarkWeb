@@ -1,0 +1,61 @@
+Topic 0:
+  tor:4.84
+  tmp:3.24
+  user:2.84
+  torrc:2.30
+  rc:1.51
+  resolv:1.38
+  cp:1.35
+  permissions:1.33
+  exit:1.29
+  rm:1.27
+
+Topic 1:
+  rc:1.02
+  tmp:0.96
+  torrc:0.80
+  root:0.68
+  script:0.64
+  user:0.63
+  tor:0.63
+  exit:0.47
+  echo:0.47
+  rm:0.46
+
+Topic 2:
+  tmp:1.70
+  tor:1.60
+  rc:1.13
+  torrc:1.00
+  user:0.83
+  echo:0.74
+  rm:0.70
+  exit:0.66
+  permissions:0.66
+  cp:0.66
+
+Topic 3:
+  rc:1.09
+  tmp:1.08
+  tor:0.92
+  torrc:0.88
+  user:0.68
+  script:0.65
+  root:0.61
+  exit:0.57
+  rm:0.56
+  echo:0.56
+
+Topic 4:
+  ada:6.86
+  dev:5.86
+  partition:4.86
+  eli:3.86
+  file:2.82
+  device:1.87
+  drive:1.87
+  sbin:1.87
+  geom:1.87
+  lines:1.87
+
+K: 5, Log-Likelihood: -1115.307, Alpha: 11.000, Beta: 1.100

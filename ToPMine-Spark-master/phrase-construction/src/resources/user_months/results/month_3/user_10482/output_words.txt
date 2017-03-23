@@ -1,0 +1,61 @@
+Topic 0:
+  market:2.54
+  access:2.29
+  sr:1.99
+  quote:1.94
+  february:1.87
+  hope:1.61
+  dont:1.57
+  coin:1.36
+  link:1.28
+  agora:1.26
+
+Topic 1:
+  sr:6.81
+  mixing:4.81
+  coins:3.18
+  silk:2.90
+  bitcoins:2.85
+  works:2.49
+  safe:2.02
+  dont:1.94
+  orders:1.93
+  road:1.90
+
+Topic 2:
+  access:3.26
+  sr:3.19
+  hope:2.24
+  agora:1.74
+  problem:1.71
+  market:1.66
+  dont:1.63
+  order:1.47
+  coin:1.35
+  times:1.35
+
+Topic 3:
+  sr:5.96
+  market:2.16
+  dont:1.79
+  hope:1.35
+  pending:1.34
+  bitcoins:1.30
+  order:1.29
+  coins:1.16
+  problem:1.13
+  agora:1.10
+
+Topic 4:
+  place:9.46
+  order:8.87
+  bitcoins:8.01
+  sr:6.05
+  agora:5.66
+  scrow:4.40
+  problem:2.92
+  account:2.40
+  orders:1.97
+  safe:1.77
+
+K: 5, Log-Likelihood: -2331.942, Alpha: 11.000, Beta: 1.100

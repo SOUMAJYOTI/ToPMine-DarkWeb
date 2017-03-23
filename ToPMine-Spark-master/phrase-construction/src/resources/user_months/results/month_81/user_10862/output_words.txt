@@ -1,0 +1,61 @@
+Topic 0:
+  phishing:4.25
+  javascript:3.76
+  mitm:2.48
+  site:2.16
+  sites:1.37
+  access:1.34
+  good:1.32
+  browser:1.29
+  proxys:1.26
+  correct:1.05
+
+Topic 1:
+  phishing:3.00
+  javascript:2.68
+  mitm:2.61
+  site:2.02
+  good:1.54
+  sites:1.47
+  proxys:1.39
+  correct:1.27
+  access:1.23
+  browser:1.12
+
+Topic 2:
+  phishing:3.81
+  site:3.67
+  mitm:1.76
+  good:1.48
+  javascript:1.46
+  sites:1.36
+  correct:1.35
+  browser:1.27
+  access:1.20
+  write:1.09
+
+Topic 3:
+  phishing:3.32
+  javascript:2.91
+  site:2.20
+  mitm:1.65
+  good:1.51
+  sites:1.27
+  correct:1.26
+  browser:1.23
+  proxys:1.16
+  write:1.13
+
+Topic 4:
+  site:3.95
+  phishing:3.63
+  javascript:3.19
+  sites:1.52
+  mitm:1.49
+  access:1.19
+  proxys:1.16
+  good:1.15
+  browser:1.09
+  correct:1.07
+
+K: 5, Log-Likelihood: -1175.597, Alpha: 11.000, Beta: 1.100

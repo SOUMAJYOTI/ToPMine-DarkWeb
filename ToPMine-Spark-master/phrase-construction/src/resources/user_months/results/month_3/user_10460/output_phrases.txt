@@ -1,0 +1,61 @@
+Topic 0:
+  wait:0.95
+  time:0.70
+  coins:0.51
+  funds:0.45
+  extremely:0.44
+  hate:0.43
+  bmr:0.43
+  vend:0.43
+  record:0.43
+  vendor:0.43
+
+Topic 1:
+  time:1.23
+  faster:0.60
+  funds:0.57
+  confirmations:0.49
+  reached:0.49
+  night:0.49
+  quote:0.49
+  deposit:0.49
+  small:0.49
+  didnt:0.49
+
+Topic 2:
+  hours:1.56
+  bought:0.60
+  mine:0.60
+  hours today:0.60
+  lol:0.60
+  order:0.60
+  insufficient:0.60
+  finally:0.60
+  sr:0.60
+  week:0.60
+
+Topic 3:
+  threads:0.84
+  omg:0.83
+  bit:0.83
+  deposits:0.83
+  thing:0.83
+  tho copy paste:0.83
+  issue:0.83
+  ta waiting money super:0.83
+  figured:0.83
+  hours confirmations:0.82
+
+Topic 4:
+  wait:1.17
+  coins:0.56
+  long:0.51
+  sucks:0.51
+  exemplary:0.51
+  built:0.51
+  bond:0.51
+  record:0.51
+  vendor:0.51
+  vend:0.51
+
+K: 5, Log-Likelihood: -500.974, Alpha: 11.000, Beta: 1.100

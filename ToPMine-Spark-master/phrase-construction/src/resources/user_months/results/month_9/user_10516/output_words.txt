@@ -1,0 +1,61 @@
+Topic 0:
+  hash:0.63
+  check:0.41
+  integrity:0.41
+  loader:0.39
+  boot:0.39
+  dummies:0.20
+  ideally:0.20
+  dont:0.20
+  bootloader:0.20
+  fde:0.20
+
+Topic 1:
+  hash:0.59
+  boot:0.40
+  integrity:0.40
+  loader:0.40
+  check:0.40
+  good:0.20
+  reason:0.20
+  password:0.20
+  place:0.20
+  reset:0.20
+
+Topic 2:
+  hash:0.58
+  boot:0.41
+  loader:0.41
+  integrity:0.40
+  check:0.39
+  good:0.20
+  password:0.20
+  reason:0.20
+  place:0.20
+  reset:0.20
+
+Topic 3:
+  hash:0.61
+  integrity:0.40
+  check:0.40
+  boot:0.40
+  loader:0.40
+  dummies:0.20
+  fde:0.20
+  bootloader:0.20
+  ideally:0.20
+  kind:0.20
+
+Topic 4:
+  hash:0.59
+  loader:0.40
+  boot:0.40
+  check:0.40
+  integrity:0.40
+  place:0.20
+  password:0.20
+  reset:0.20
+  reason:0.20
+  good:0.20
+
+K: 5, Log-Likelihood: -59.277, Alpha: 11.000, Beta: 1.100

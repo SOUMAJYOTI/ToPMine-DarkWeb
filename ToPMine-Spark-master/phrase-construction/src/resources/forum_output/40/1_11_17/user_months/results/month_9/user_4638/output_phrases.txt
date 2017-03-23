@@ -1,0 +1,61 @@
+Topic 0:
+  interesting:0.72
+  site:0.72
+  mod:0.72
+  strange:0.72
+  feature:0.72
+  graphics:0.72
+  tho:0.72
+  fuck:0.72
+  security:0.72
+  shifty:0.72
+
+Topic 1:
+  vendors:0.91
+  market:0.51
+  honestly:0.38
+  buyers:0.38
+  guys:0.38
+  honest:0.38
+  scammers:0.38
+  works:0.38
+  scamming:0.38
+  escrow:0.38
+
+Topic 2:
+  market:0.72
+  vendors:0.45
+  ground:0.40
+  party:0.40
+  open:0.40
+  agree:0.40
+  totally:0.40
+  built:0.40
+  source:0.40
+  software:0.40
+
+Topic 3:
+  vendors:0.57
+  market:0.57
+  markets:0.34
+  open:0.33
+  party:0.33
+  totally:0.33
+  built:0.33
+  source:0.33
+  modules:0.33
+  agree:0.33
+
+Topic 4:
+  market:0.97
+  execution:0.52
+  darkweb:0.52
+  poor:0.52
+  stay:0.52
+  problems:0.52
+  activity:0.52
+  browse:0.52
+  concept:0.52
+  long:0.52
+
+K: 5, Log-Likelihood: -487.561, Alpha: 11.000, Beta: 1.100

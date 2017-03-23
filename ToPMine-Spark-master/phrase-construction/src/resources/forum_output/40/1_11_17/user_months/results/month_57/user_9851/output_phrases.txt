@@ -1,0 +1,61 @@
+Topic 0:
+  ho:1.07
+  bit:0.58
+  money:0.57
+  point:0.57
+  time:0.56
+  house:0.56
+  ve:0.47
+  kilos:0.43
+  caught:0.41
+  men:0.28
+
+Topic 1:
+  ho:1.15
+  house:0.58
+  money:0.57
+  point:0.57
+  time:0.57
+  bit:0.57
+  ve:0.45
+  kilos:0.44
+  caught:0.40
+  alias:0.28
+
+Topic 2:
+  ho:1.28
+  point:0.55
+  money:0.55
+  time:0.55
+  house:0.54
+  bit:0.54
+  kilos:0.45
+  ve:0.43
+  caught:0.41
+  suspicious good:0.28
+
+Topic 3:
+  ho:1.01
+  bit:0.56
+  time:0.55
+  house:0.54
+  point:0.54
+  money:0.53
+  kilos:0.44
+  ve:0.41
+  caught:0.40
+  biggest:0.27
+
+Topic 4:
+  ho:1.04
+  house:0.55
+  time:0.55
+  point:0.55
+  money:0.55
+  bit:0.53
+  kilos:0.44
+  ve:0.43
+  caught:0.41
+  things:0.28
+
+K: 5, Log-Likelihood: -1137.099, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bridges:1.02
+  tails:0.77
+  work:0.60
+  works:0.40
+  refused:0.20
+  error:0.20
+  appreciated:0.20
+  obis:0.20
+  fine:0.20
+  hey:0.20
+
+Topic 1:
+  bridges:1.06
+  tails:0.80
+  work:0.59
+  works:0.39
+  refused:0.20
+  server:0.20
+  windows:0.20
+  awhile:0.20
+  option:0.20
+  obis:0.20
+
+Topic 2:
+  bridges:0.91
+  tails:0.80
+  work:0.62
+  works:0.41
+  provided:0.20
+  appreciated:0.20
+  fine:0.20
+  obis:0.20
+  hey:0.20
+  option:0.20
+
+Topic 3:
+  bridges:1.00
+  tails:0.80
+  work:0.60
+  works:0.40
+  tons:0.20
+  server:0.20
+  windows:0.20
+  connection:0.20
+  option:0.20
+  awhile:0.20
+
+Topic 4:
+  bridges:1.01
+  tails:0.82
+  work:0.59
+  works:0.40
+  log:0.20
+  hey:0.20
+  tons:0.20
+  error:0.20
+  windows:0.20
+  obis:0.20
+
+K: 5, Log-Likelihood: -77.129, Alpha: 11.000, Beta: 1.100

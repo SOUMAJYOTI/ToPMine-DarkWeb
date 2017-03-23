@@ -1,0 +1,61 @@
+Topic 0:
+  gggreenbud:0.08
+  quote:0.08
+  work:0.08
+  tmg:0.08
+  february:0.08
+  herbalmagic:0.08
+  time:0.08
+  pmgggreenbud:0.08
+  reason:0.00
+  prostitution:0.00
+
+Topic 1:
+  quote:0.08
+  february:0.08
+  time:0.08
+  herbalmagic:0.08
+  pmgggreenbud:0.08
+  work:0.08
+  gggreenbud:0.08
+  tmg:0.08
+  reason:0.00
+  prostitution:0.00
+
+Topic 2:
+  time:0.08
+  pmgggreenbud:0.08
+  herbalmagic:0.08
+  tmg:0.08
+  february:0.08
+  quote:0.08
+  work:0.08
+  gggreenbud:0.08
+  reason:0.00
+  prostitution:0.00
+
+Topic 3:
+  work:0.08
+  time:0.08
+  pmgggreenbud:0.08
+  quote:0.08
+  herbalmagic:0.08
+  tmg:0.08
+  february:0.08
+  gggreenbud:0.08
+  reason:0.00
+  prostitution:0.00
+
+Topic 4:
+  gggreenbud:0.08
+  tmg:0.08
+  pmgggreenbud:0.08
+  february:0.08
+  herbalmagic:0.08
+  work:0.08
+  time:0.08
+  quote:0.08
+  reason:0.00
+  prostitution:0.00
+
+K: 5, Log-Likelihood: -15.547, Alpha: 11.000, Beta: 1.100

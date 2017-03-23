@@ -1,0 +1,61 @@
+Topic 0:
+  buyers:5.42
+  key:3.92
+  send:3.75
+  potential:2.60
+  provide:2.52
+  reply:2.49
+  message:2.02
+  messages:1.90
+  vendors:1.52
+  encrypted:1.51
+
+Topic 1:
+  thought:3.30
+  dont:3.29
+  personal:3.23
+  signal:2.41
+  noise:2.39
+  adding:2.38
+  message:2.17
+  time:2.14
+  encrypt:2.05
+  compromising:1.81
+
+Topic 2:
+  key:5.48
+  forum:5.14
+  ding:4.73
+  main:3.37
+  misunderstood:1.83
+  zaphod:1.61
+  purposes:1.54
+  compartmentalization:1.50
+  clarification:1.50
+  sense:1.50
+
+Topic 3:
+  key:4.11
+  trust:3.86
+  forum:2.99
+  infrastructure:2.95
+  le:2.84
+  talking:2.84
+  wot:2.22
+  compromising:1.75
+  public:1.51
+  real:1.45
+
+Topic 4:
+  pgp:6.39
+  people:5.04
+  members:4.64
+  keys:4.34
+  looked:3.77
+  key:2.96
+  start:2.55
+  pops:2.54
+  profile:2.37
+  learn:2.37
+
+K: 5, Log-Likelihood: -1779.504, Alpha: 11.000, Beta: 1.100

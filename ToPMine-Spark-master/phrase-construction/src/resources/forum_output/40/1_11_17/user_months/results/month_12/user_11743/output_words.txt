@@ -1,0 +1,61 @@
+Topic 0:
+  boogie:0.60
+  jack:0.40
+  post:0.40
+  link:0.40
+  ill:0.20
+  pmthankyou:0.20
+  inform:0.20
+  quote:0.20
+  contact:0.20
+  harkness:0.20
+
+Topic 1:
+  boogie:0.60
+  link:0.40
+  jack:0.40
+  post:0.40
+  market:0.20
+  contact:0.20
+  worries:0.20
+  inform:0.20
+  june:0.20
+  quote:0.20
+
+Topic 2:
+  boogie:0.59
+  post:0.41
+  link:0.41
+  jack:0.39
+  bud:0.20
+  evo:0.20
+  signed:0.20
+  easy:0.20
+  verified:0.20
+  aboard:0.20
+
+Topic 3:
+  boogie:0.61
+  jack:0.44
+  link:0.38
+  post:0.38
+  ill:0.21
+  quote:0.21
+  harkness:0.21
+  june:0.21
+  pmthankyou:0.21
+  contact:0.21
+
+Topic 4:
+  boogie:0.60
+  post:0.41
+  link:0.41
+  jack:0.38
+  ad:0.20
+  embassy:0.20
+  add:0.20
+  mods:0.20
+  wanted:0.20
+  store:0.20
+
+K: 5, Log-Likelihood: -135.566, Alpha: 11.000, Beta: 1.100

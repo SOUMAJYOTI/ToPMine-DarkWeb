@@ -1,0 +1,61 @@
+Topic 0:
+  sky:5.74
+  hub:5.27
+  blue:5.21
+  good:5.03
+  traffic:4.23
+  users:4.04
+  bsm:3.94
+  markets:3.80
+  vendors:3.47
+  vendor:3.08
+
+Topic 1:
+  bsm:11.70
+  sr:11.37
+  site:9.66
+  forums:9.44
+  people:5.59
+  forum:5.50
+  swam:4.60
+  hub:4.45
+  customers:4.05
+  shills:3.74
+
+Topic 2:
+  sign:10.70
+  forced:8.78
+  march:8.29
+  time:6.81
+  noticed:6.63
+  ive:6.08
+  signout:5.25
+  market:5.12
+  bsm:4.70
+  dont:4.37
+
+Topic 3:
+  bsm:9.29
+  market:6.91
+  march:6.01
+  quote:3.77
+  ive:3.61
+  experience:3.20
+  time:2.94
+  sign:2.15
+  dont:2.14
+  big:1.98
+
+Topic 4:
+  deposit:4.76
+  vending:4.30
+  sr:3.80
+  coin:3.80
+  quote:3.66
+  feel:3.38
+  bsm:3.37
+  btc:2.98
+  support:2.95
+  problem:2.78
+
+K: 5, Log-Likelihood: -6638.408, Alpha: 11.000, Beta: 1.100

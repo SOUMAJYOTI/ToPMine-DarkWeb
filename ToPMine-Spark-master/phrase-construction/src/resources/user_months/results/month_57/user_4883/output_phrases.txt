@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:0.44
+  tails:0.30
+  folder:0.19
+  electrum app:0.19
+  subject:0.19
+  answer:0.19
+  hub:0.19
+  interested:0.19
+  forum:0.19
+  topic:0.19
+
+Topic 1:
+  electrum app:1.61
+  folder:1.61
+  cd:0.98
+  tails persistence:0.98
+  store wallet:0.97
+  command:0.97
+  disk:0.97
+  linus:0.97
+  download:0.97
+  electric:0.97
+
+Topic 2:
+  electrum:0.38
+  tails:0.35
+  wallet:0.33
+  wallet seed:0.26
+  storage:0.21
+  proceed:0.21
+  restore:0.21
+  funds:0.21
+  card:0.21
+  idea:0.20
+
+Topic 3:
+  electrum:0.40
+  tails:0.33
+  wallet:0.28
+  wallet seed:0.21
+  answer:0.18
+  subject:0.18
+  topic:0.18
+  link:0.18
+  forum:0.18
+  interested:0.18
+
+Topic 4:
+  wallet:3.33
+  wallet seed:1.43
+  idea:0.85
+  funds:0.84
+  card:0.84
+  proceed:0.84
+  restore:0.84
+  storage:0.84
+  tails:0.55
+  guys:0.33
+
+K: 5, Log-Likelihood: -732.083, Alpha: 11.000, Beta: 1.100

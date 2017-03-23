@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.40
+  nain:0.40
+  bitcoin:0.20
+  ss:0.20
+  muista:0.20
+  rin:0.20
+  bitcoineja:0.20
+  voi:0.20
+  kioskiltakin:0.20
+  levykauppa:0.20
+
+Topic 1:
+  ja:0.40
+  nain:0.40
+  millainen:0.20
+  ono:0.20
+  automaattia:0.20
+  tampereella:0.20
+  jos:0.20
+  bitcoin:0.20
+  mahdollisesti:0.20
+  jollen:0.20
+
+Topic 2:
+  ja:0.40
+  nain:0.40
+  voi:0.20
+  ostaa:0.20
+  ss:0.20
+  rin:0.20
+  kioskiltakin:0.20
+  vegemestassa:0.20
+  mahdollisesti:0.20
+  bitcoineja:0.20
+
+Topic 3:
+  nain:0.40
+  ja:0.40
+  levykauppa:0.20
+  muista:0.20
+  automaattia:0.20
+  tampereella:0.20
+  ono:0.20
+  ss:0.20
+  vegemestassa:0.20
+  rin:0.20
+
+Topic 4:
+  nain:0.40
+  ja:0.40
+  jos:0.20
+  tampereella:0.20
+  ono:0.20
+  bitcoin:0.20
+  millainen:0.20
+  automaattia:0.20
+  kioskiltakin:0.20
+  jollen:0.20
+
+K: 5, Log-Likelihood: -61.214, Alpha: 11.000, Beta: 1.100

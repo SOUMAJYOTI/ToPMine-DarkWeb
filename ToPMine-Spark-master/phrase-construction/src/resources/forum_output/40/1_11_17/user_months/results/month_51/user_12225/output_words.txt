@@ -1,0 +1,61 @@
+Topic 0:
+  ei:0.88
+  mit:0.81
+  ja:0.60
+  nain:0.59
+  nyt:0.57
+  voi:0.45
+  siin:0.45
+  smart:0.45
+  sun:0.44
+  oma:0.42
+
+Topic 1:
+  mit:0.78
+  ei:0.77
+  nyt:0.67
+  nain:0.59
+  sun:0.56
+  smart:0.56
+  ja:0.56
+  siin:0.55
+  voi:0.52
+  kukaan:0.42
+
+Topic 2:
+  voi:1.17
+  nyt:0.90
+  mit:0.78
+  ei:0.76
+  kaivataan:0.66
+  vastatkaa:0.66
+  mielipiteit:0.65
+  kukaan:0.65
+  ytt:0.65
+  ja:0.64
+
+Topic 3:
+  mit:1.32
+  ei:0.82
+  voi:0.68
+  nyt:0.59
+  jos:0.52
+  nain:0.49
+  ja:0.49
+  siin:0.45
+  smart:0.45
+  sun:0.44
+
+Topic 4:
+  kin:1.44
+  kaikki:1.44
+  se:0.81
+  ei:0.78
+  nain:0.78
+  ja:0.72
+  oma:0.72
+  ett:0.60
+  kamera:0.60
+  kyll:0.60
+
+K: 5, Log-Likelihood: -737.087, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  improved:0.36
+  joined:0.35
+  left:0.35
+  staff:0.35
+  reply:0.35
+  opened:0.35
+  looked:0.35
+  invite products:0.35
+  market products:0.35
+  good:0.35
+
+Topic 1:
+  instantly:0.37
+  spamming:0.37
+  codes:0.37
+  classy:0.37
+  hype:0.37
+  brewing:0.37
+  days:0.37
+  creating:0.37
+  selling:0.37
+  unable:0.37
+
+Topic 2:
+  dhl:0.35
+  quote:0.34
+  march:0.34
+  hard:0.34
+  registration:0.34
+  joined:0.34
+  closed:0.33
+  unable:0.33
+  vendors:0.33
+  brewing:0.33
+
+Topic 3:
+  work:0.45
+  banned:0.45
+  updates:0.45
+  service:0.45
+  hype:0.45
+  quality:0.45
+  intention:0.45
+  classy:0.45
+  closed:0.45
+  doesnt:0.45
+
+Topic 4:
+  invite products:0.51
+  good:0.51
+  opened:0.51
+  left:0.51
+  reply:0.51
+  staff:0.51
+  market products:0.51
+  looked:0.51
+  improved:0.50
+  joined:0.45
+
+K: 5, Log-Likelihood: -453.943, Alpha: 11.000, Beta: 1.100

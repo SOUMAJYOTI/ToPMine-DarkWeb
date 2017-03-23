@@ -1,0 +1,61 @@
+Topic 0:
+  meid:0.08
+  antavan:0.08
+  palautetta:0.08
+  ensimm:0.08
+  ajankohtaisista:0.08
+  saa:0.08
+  tarjouksista:0.08
+  nopeinta:0.08
+  silkkitiell:0.08
+  music:0.08
+
+Topic 1:
+  amfetamiiniamme:0.08
+  toivomme:0.08
+  femme:0.08
+  antavan:0.08
+  kaikista:0.08
+  sivulla:0.08
+  tarjouksista:0.08
+  norm:0.08
+  ist:0.08
+  nopeinta:0.08
+
+Topic 2:
+  kkikauden:0.08
+  karkkikaupan:0.08
+  kaikille:0.08
+  hintaan:0.08
+  nopeat:0.08
+  sy:0.08
+  pistet:0.08
+  se:0.08
+  setti:0.08
+  toivottaa:0.08
+
+Topic 3:
+  jakoon:0.08
+  grammaa:0.08
+  venetsialais:0.08
+  ostorajoituksia:0.08
+  alennettuun:0.08
+  viikonloppua:0.08
+  nopeat:0.08
+  kunniaksi:0.08
+  piri:0.08
+  pieni:0.08
+
+Topic 4:
+  profiilissa:0.08
+  saa:0.08
+  asiakkaidemme:0.08
+  sek:0.08
+  silkkitiell:0.08
+  myyji:0.08
+  ll:0.08
+  ajankohtaisista:0.08
+  music:0.08
+  kaikista:0.08
+
+K: 5, Log-Likelihood: -87.783, Alpha: 11.000, Beta: 1.100

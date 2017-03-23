@@ -1,0 +1,61 @@
+Topic 0:
+  november:8.53
+  info:5.85
+  simple:4.94
+  quote:4.48
+  markets:4.44
+  market:4.36
+  fatherted:3.98
+  answered:3.86
+  picked:3.35
+  sites:2.87
+
+Topic 1:
+  xy:1.97
+  fq:1.97
+  olk:1.97
+  es:1.97
+  zt:1.97
+  key:1.97
+  public:1.97
+  block:1.97
+  pgp:1.95
+  zifwjjqjb:0.98
+
+Topic 2:
+  november:6.62
+  nginx:3.97
+  quote:3.21
+  machine:2.98
+  happy:2.87
+  posted:2.81
+  running:2.79
+  windows:2.79
+  hours:2.75
+  jalape:2.70
+
+Topic 3:
+  november:3.75
+  happy:3.36
+  jalape:2.61
+  nginx:2.37
+  quote:2.20
+  ron:1.94
+  feel:1.94
+  swanson:1.94
+  salsa:1.93
+  sundays:1.89
+
+Topic 4:
+  market:7.97
+  acropolis:4.97
+  site:4.93
+  vendors:2.53
+  security:2.46
+  markets:2.30
+  pgp:2.00
+  ensuring:1.97
+  deep:1.97
+  web:1.97
+
+K: 5, Log-Likelihood: -5460.901, Alpha: 11.000, Beta: 1.100

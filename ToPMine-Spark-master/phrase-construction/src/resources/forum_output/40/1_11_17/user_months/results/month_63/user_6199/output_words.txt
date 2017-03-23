@@ -1,0 +1,61 @@
+Topic 0:
+  dec:0.85
+  coins:0.78
+  buy:0.40
+  unacceptable:0.40
+  check:0.40
+  impressed:0.40
+  gocelery:0.40
+  absolutely:0.40
+  things:0.40
+  troubles:0.40
+
+Topic 1:
+  coins:0.79
+  dec:0.79
+  absolutely:0.41
+  coinbase:0.41
+  long:0.40
+  unacceptable:0.40
+  troubles:0.40
+  buy:0.40
+  people:0.40
+  gocelery:0.40
+
+Topic 2:
+  coins:0.84
+  dec:0.75
+  wait:0.40
+  unacceptable:0.40
+  posting:0.40
+  order:0.40
+  gocelery:0.40
+  impressed:0.40
+  refund:0.40
+  long:0.40
+
+Topic 3:
+  dec:0.81
+  coins:0.80
+  coinbase:0.40
+  placement:0.40
+  long:0.40
+  posting:0.40
+  tells:0.40
+  people:0.40
+  check:0.40
+  order:0.40
+
+Topic 4:
+  dec:0.80
+  coins:0.79
+  today:0.40
+  wondering:0.40
+  things:0.40
+  check:0.40
+  wait:0.40
+  refund:0.40
+  order:0.40
+  tells:0.40
+
+K: 5, Log-Likelihood: -139.129, Alpha: 11.000, Beta: 1.100

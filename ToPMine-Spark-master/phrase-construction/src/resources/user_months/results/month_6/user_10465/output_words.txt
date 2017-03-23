@@ -1,0 +1,61 @@
+Topic 0:
+  pandora:29.30
+  vendors:16.74
+  market:16.72
+  money:12.71
+  commision:12.71
+  paid:11.70
+  withdrawals:9.81
+  btc:9.80
+  vendor:9.73
+  tax:9.72
+
+Topic 1:
+  quote:2.11
+  march:2.10
+  ill:1.88
+  begining:1.58
+  site:1.18
+  dont:0.99
+  campare:0.99
+  speak:0.85
+  left:0.83
+  luckily:0.83
+
+Topic 2:
+  good:0.96
+  pandora:0.78
+  stopped:0.76
+  move:0.71
+  stay:0.67
+  issues:0.63
+  scam:0.62
+  time:0.58
+  withdrawal:0.58
+  scammed:0.57
+
+Topic 3:
+  withdrawal:5.68
+  fee:4.42
+  alice:2.69
+  hours:2.15
+  users:2.14
+  days:1.99
+  site:1.48
+  stopped:1.27
+  original:0.96
+  fuck:0.96
+
+Topic 4:
+  pandora:1.49
+  good:0.97
+  stopped:0.79
+  time:0.76
+  issues:0.75
+  stay:0.74
+  move:0.72
+  scam:0.67
+  scammed:0.61
+  btc:0.58
+
+K: 5, Log-Likelihood: -3766.122, Alpha: 11.000, Beta: 1.100

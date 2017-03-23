@@ -1,0 +1,61 @@
+Topic 0:
+  buy:0.40
+  palace:0.20
+  blet:0.20
+  cheap:0.20
+  shops:0.20
+  apple:0.20
+  link:0.20
+  scammer:0.20
+  keeping:0.20
+  phones:0.20
+
+Topic 1:
+  buy:0.40
+  blet:0.20
+  trusted:0.20
+  shops:0.20
+  scammer:0.20
+  link:0.20
+  phones:0.20
+  apple:0.20
+  hey:0.20
+  scammers:0.20
+
+Topic 2:
+  buy:0.40
+  iphones:0.20
+  link:0.20
+  keeping:0.20
+  phones:0.20
+  apple:0.20
+  shops:0.20
+  scammers:0.20
+  palace:0.20
+  hey:0.20
+
+Topic 3:
+  buy:0.40
+  trusted:0.20
+  phones:0.20
+  scammer:0.20
+  cheap:0.20
+  hey:0.20
+  scammers:0.20
+  keeping:0.20
+  link:0.20
+  apple:0.20
+
+Topic 4:
+  buy:0.40
+  hey:0.20
+  scammers:0.20
+  iphones:0.20
+  keeping:0.20
+  cheap:0.20
+  apple:0.20
+  shops:0.20
+  scammer:0.20
+  blet:0.20
+
+K: 5, Log-Likelihood: -39.262, Alpha: 11.000, Beta: 1.100

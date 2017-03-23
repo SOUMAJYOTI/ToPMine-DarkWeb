@@ -1,0 +1,61 @@
+Topic 0:
+  lots:0.16
+  lot:0.08
+  person:0.08
+  preferably:0.08
+  questions:0.08
+  og:0.08
+  opsec:0.08
+  pms:0.08
+  experienced:0.08
+  security:0.08
+
+Topic 1:
+  lots:0.16
+  pms:0.08
+  opsec:0.08
+  preferably:0.08
+  lot:0.08
+  person:0.08
+  experienced:0.08
+  questions:0.08
+  og:0.08
+  service:0.08
+
+Topic 2:
+  lots:0.16
+  og:0.08
+  experienced:0.08
+  lot:0.08
+  preferably:0.08
+  pms:0.08
+  person:0.08
+  opsec:0.08
+  questions:0.08
+  clearnet:0.08
+
+Topic 3:
+  lots:0.16
+  experienced:0.08
+  questions:0.08
+  og:0.08
+  opsec:0.08
+  preferably:0.08
+  pms:0.08
+  person:0.08
+  lot:0.08
+  heh:0.08
+
+Topic 4:
+  lots:0.16
+  settings:0.08
+  nice:0.08
+  pictures:0.08
+  teh:0.08
+  ground:0.08
+  deepdotweb:0.08
+  warning:0.08
+  aspects:0.08
+  covers:0.08
+
+K: 5, Log-Likelihood: -40.846, Alpha: 11.000, Beta: 1.100

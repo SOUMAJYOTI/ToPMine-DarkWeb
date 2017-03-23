@@ -1,0 +1,61 @@
+Topic 0:
+  sites:1.07
+  set:1.04
+  torchat:0.54
+  fees:0.44
+  safe:0.44
+  depends:0.44
+  karma:0.44
+  marketplaces:0.44
+  ensure:0.44
+  glad:0.44
+
+Topic 1:
+  torchat:1.41
+  clearnet:0.86
+  darknet:0.79
+  input:0.40
+  questions:0.40
+  newbie:0.40
+  doesn:0.40
+  purposes:0.40
+  forums:0.40
+  avoiding:0.40
+
+Topic 2:
+  torchat:0.77
+  clearnet:0.56
+  set:0.56
+  sites:0.55
+  darknet:0.54
+  service:0.36
+  number:0.30
+  newbie:0.30
+  forums:0.30
+  agora:0.30
+
+Topic 3:
+  torchat:1.36
+  darknet:1.01
+  clearnet:0.89
+  work:0.43
+  flaw:0.43
+  aim:0.43
+  services:0.43
+  avoiding:0.43
+  avoided:0.43
+  purposes:0.43
+
+Topic 4:
+  torchat:1.00
+  clearnet:0.69
+  darknet:0.68
+  set:0.42
+  sites:0.41
+  service:0.35
+  work:0.34
+  exception:0.34
+  profiles:0.34
+  question:0.34
+
+K: 5, Log-Likelihood: -324.622, Alpha: 11.000, Beta: 1.100

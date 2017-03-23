@@ -1,0 +1,61 @@
+Topic 0:
+  agito:0.81
+  quote:0.74
+  january:0.72
+  pmupdated:0.54
+  scam:0.54
+  activity:0.54
+  hours:0.54
+  purple:0.53
+  admin:0.53
+  exit:0.53
+
+Topic 1:
+  escrow:0.55
+  wallet:0.55
+  hansa:0.55
+  hard:0.55
+  markets:0.55
+  payments:0.55
+  trust:0.55
+  coded:0.54
+  functionality:0.54
+  quote:0.44
+
+Topic 2:
+  agito:1.27
+  january:0.84
+  quote:0.83
+  exit:0.74
+  admin:0.73
+  purple:0.73
+  activity:0.73
+  hours:0.73
+  scam:0.72
+  pmupdated:0.72
+
+Topic 3:
+  january:0.52
+  quote:0.51
+  coded:0.47
+  trust:0.47
+  wallet:0.47
+  markets:0.46
+  escrow:0.46
+  functionality:0.46
+  payments:0.46
+  hard:0.46
+
+Topic 4:
+  functionality:0.51
+  hansa:0.50
+  payments:0.50
+  coded:0.50
+  hard:0.50
+  markets:0.50
+  trust:0.50
+  escrow:0.49
+  wallet:0.49
+  quote:0.48
+
+K: 5, Log-Likelihood: -377.340, Alpha: 11.000, Beta: 1.100

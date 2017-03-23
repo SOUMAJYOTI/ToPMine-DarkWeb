@@ -1,0 +1,61 @@
+Topic 0:
+  file:1.22
+  login:0.64
+  check:0.62
+  enter:0.62
+  insert:0.61
+  agora:0.43
+  usual:0.37
+  problem:0.35
+  moved:0.32
+  luck:0.32
+
+Topic 1:
+  file:1.01
+  login:0.61
+  enter:0.60
+  insert:0.59
+  check:0.58
+  agora:0.42
+  usual:0.39
+  problem:0.35
+  shit:0.33
+  hours:0.33
+
+Topic 2:
+  agora:0.63
+  usual:0.55
+  problem:0.52
+  shit:0.45
+  equal:0.45
+  hours:0.45
+  vendor:0.39
+  shame:0.39
+  tomorrow:0.39
+  sloppy:0.39
+
+Topic 3:
+  hours:0.66
+  equal:0.66
+  shit:0.65
+  problem:0.61
+  september:0.61
+  struggling:0.61
+  people:0.61
+  quote:0.61
+  loading:0.61
+  trades:0.61
+
+Topic 4:
+  file:2.85
+  insert:1.23
+  check:1.22
+  enter:1.21
+  login:1.18
+  captcha:0.53
+  deleted:0.53
+  friends:0.53
+  foundfirefox:0.53
+  push:0.53
+
+K: 5, Log-Likelihood: -442.843, Alpha: 11.000, Beta: 1.100

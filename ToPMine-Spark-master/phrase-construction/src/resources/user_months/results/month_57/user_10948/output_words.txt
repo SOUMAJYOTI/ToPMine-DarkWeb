@@ -1,0 +1,61 @@
+Topic 0:
+  bit:0.77
+  unshakable:0.64
+  applications:0.54
+  dont:0.42
+  developed:0.42
+  build:0.31
+  network:0.30
+  secure:0.25
+  architectures:0.25
+  ae:0.25
+
+Topic 1:
+  unshakable:0.89
+  bit:0.52
+  build:0.46
+  network:0.46
+  dont:0.39
+  developed:0.39
+  applications:0.31
+  incorrectly:0.22
+  heard:0.22
+  looked:0.22
+
+Topic 2:
+  unshakable:0.86
+  bit:0.54
+  build:0.45
+  network:0.44
+  developed:0.39
+  dont:0.39
+  applications:0.34
+  built:0.22
+  algorithms:0.22
+  project:0.22
+
+Topic 3:
+  unshakable:0.87
+  bit:0.57
+  network:0.46
+  applications:0.41
+  developed:0.38
+  dont:0.38
+  build:0.34
+  documentation:0.22
+  manipulated:0.22
+  theoretically:0.22
+
+Topic 4:
+  unshakable:0.73
+  bit:0.60
+  build:0.44
+  developed:0.42
+  dont:0.42
+  applications:0.40
+  network:0.35
+  sel:0.21
+  short:0.21
+  heard:0.21
+
+K: 5, Log-Likelihood: -439.096, Alpha: 11.000, Beta: 1.100

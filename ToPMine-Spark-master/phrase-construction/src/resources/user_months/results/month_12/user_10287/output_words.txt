@@ -1,0 +1,61 @@
+Topic 0:
+  st:1.65
+  smitten:1.62
+  ja:1.13
+  ymm:0.97
+  hyv:0.87
+  toisaalta:0.82
+  nyt:0.72
+  lti:0.72
+  silkroadia:0.72
+  suomenkielisi:0.72
+
+Topic 1:
+  ja:1.10
+  ett:1.05
+  en:0.72
+  st:0.57
+  hyv:0.52
+  ymm:0.52
+  tilataan:0.52
+  toisaalta:0.48
+  useth:0.47
+  sit:0.47
+
+Topic 2:
+  ytt:5.06
+  tor:3.21
+  ji:2.89
+  silkkitie:2.43
+  sivuston:1.89
+  verkon:1.89
+  mutta:1.20
+  piti:1.20
+  huumeita:1.20
+  enemm:1.16
+
+Topic 3:
+  ett:2.25
+  en:1.61
+  tehd:0.97
+  sit:0.97
+  tilataan:0.93
+  toisaalta:0.54
+  amppelia:0.51
+  kannalta:0.51
+  tt:0.51
+  maintsissiin:0.51
+
+Topic 4:
+  ja:2.94
+  douppikaupan:1.81
+  koskien:1.81
+  privaviesti:0.83
+  silkkitiest:0.83
+  itselt:0.83
+  puolella:0.83
+  porukkaa:0.83
+  edustavaa:0.83
+  lapuista:0.83
+
+K: 5, Log-Likelihood: -1498.579, Alpha: 11.000, Beta: 1.100

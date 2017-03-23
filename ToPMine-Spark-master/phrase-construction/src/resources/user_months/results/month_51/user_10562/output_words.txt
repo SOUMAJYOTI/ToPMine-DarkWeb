@@ -1,0 +1,61 @@
+Topic 0:
+  user:5.76
+  dont:5.72
+  users:5.03
+  server:4.73
+  data:4.00
+  javascript:3.97
+  alot:3.20
+  people:2.91
+  luck:2.33
+  good:2.23
+
+Topic 1:
+  dash:9.02
+  btc:3.59
+  chem:2.28
+  play:1.91
+  change:1.86
+  vendor:1.85
+  good:1.74
+  alot:1.50
+  startpage:1.46
+  answers:1.45
+
+Topic 2:
+  dash:8.63
+  nodes:7.86
+  july:7.12
+  bitcoin:5.93
+  code:5.89
+  base:5.87
+  tor:5.83
+  centralized:5.83
+  rebrand:5.83
+  features:5.83
+
+Topic 3:
+  masternodes:13.97
+  monero:10.28
+  lot:6.97
+  ring:5.97
+  issues:5.97
+  issue:5.97
+  bitcoin:5.33
+  cryptonote:5.19
+  zkp:4.97
+  privacy:4.97
+
+Topic 4:
+  data:6.44
+  control:5.93
+  encrypt:4.89
+  dont:4.24
+  case:4.07
+  time:3.93
+  live:3.93
+  physical:3.93
+  fde:3.93
+  machine:3.87
+
+K: 5, Log-Likelihood: -6406.650, Alpha: 11.000, Beta: 1.100

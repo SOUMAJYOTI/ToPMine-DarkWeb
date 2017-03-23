@@ -1,0 +1,61 @@
+Topic 0:
+  agora:0.41
+  btc:0.28
+  gwl:0.14
+  sucks:0.14
+  youve:0.14
+  prosper:0.14
+  safe:0.14
+  ass:0.14
+  minute:0.14
+  stay:0.14
+
+Topic 1:
+  agora:0.42
+  btc:0.28
+  future:0.14
+  compromised:0.14
+  transactions:0.14
+  address:0.14
+  deposit:0.14
+  outright:0.14
+  accounts:0.14
+  week:0.14
+
+Topic 2:
+  agora:0.41
+  btc:0.28
+  stay:0.14
+  youve:0.14
+  hot:0.14
+  safe:0.14
+  minute:0.14
+  ass:0.14
+  prosper:0.14
+  sucks:0.14
+
+Topic 3:
+  agora:0.43
+  btc:0.28
+  tails:0.14
+  issues:0.14
+  account:0.14
+  vending:0.14
+  forums:0.14
+  comfortable:0.14
+  wizards:0.14
+  turn:0.14
+
+Topic 4:
+  agora:0.41
+  btc:0.28
+  safe:0.14
+  sucks:0.14
+  gwl:0.14
+  prosper:0.14
+  minute:0.14
+  ass:0.14
+  hot:0.14
+  youve:0.14
+
+K: 5, Log-Likelihood: -254.865, Alpha: 11.000, Beta: 1.100

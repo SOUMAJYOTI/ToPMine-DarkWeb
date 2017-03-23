@@ -1,0 +1,61 @@
+Topic 0:
+  aes:3.82
+  ross:3.78
+  encrypted:3.71
+  files:3.71
+  aes wolfish serpent:3.66
+  security:3.64
+  solution:2.44
+  caught:2.43
+  data:2.43
+  prudent:2.42
+
+Topic 1:
+  truecrypt:4.78
+  key:2.92
+  foundation:2.70
+  dss:2.70
+  fingerprint:2.70
+  hash:2.70
+  developers key:2.70
+  sha:2.70
+  keys:1.73
+  latent:1.73
+
+Topic 2:
+  zaphod:1.79
+  thing worried helpful post:1.52
+  layer protection sensitive:1.22
+  tinkering:1.22
+  holding bag:1.22
+  tails buggy:1.22
+  lurks encryption provide additional:1.22
+  documents relieved hear wrong:1.22
+  manage veracrypt installed:1.22
+  truecrypt container tails:1.22
+
+Topic 3:
+  point:0.71
+  quote lysergix:0.70
+  provide additional layer protection:0.68
+  container tails lurks encryption:0.67
+  manage veracrypt installed tails:0.66
+  truecrypt:0.63
+  zaphod:0.52
+  amquote:0.49
+  potential adversaries crack thought:0.48
+  zaphodi impression:0.48
+
+Topic 4:
+  good:1.19
+  dismount:1.19
+  machine:1.19
+  authority:1.19
+  trucrypt container:1.19
+  leave:1.19
+  told:1.19
+  forced:1.19
+  view:1.19
+  things:1.19
+
+K: 5, Log-Likelihood: -2641.980, Alpha: 11.000, Beta: 1.100

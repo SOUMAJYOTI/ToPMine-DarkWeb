@@ -1,0 +1,61 @@
+Topic 0:
+  love:1.82
+  buy:1.82
+  pros:1.53
+  hidden:1.12
+  installing:1.08
+  step:1.05
+  network:0.90
+  tor:0.87
+  good:0.84
+  bit:0.84
+
+Topic 1:
+  service:3.75
+  ssl:3.38
+  tor:2.92
+  hidden:2.26
+  socks:2.08
+  server:1.90
+  dotfiles:1.88
+  port:1.88
+  directory:1.88
+  network:1.81
+
+Topic 2:
+  electrum:2.58
+  hidden:1.37
+  connection:1.20
+  tails:1.04
+  post:0.69
+  persistence:0.67
+  settings:0.55
+  windows:0.54
+  tcp:0.53
+  server:0.48
+
+Topic 3:
+  electrum:12.15
+  persistent:6.53
+  amnesia:4.86
+  file:4.14
+  select:2.74
+  donations:2.62
+  persistence:2.04
+  services:1.84
+  open:1.83
+  boot:1.77
+
+Topic 4:
+  electrum:8.18
+  persistent:3.00
+  amnesia:1.69
+  persistence:1.60
+  file:1.50
+  hidden:1.29
+  donations:1.04
+  gedit:0.93
+  boot:0.92
+  select:0.92
+
+K: 5, Log-Likelihood: -2136.942, Alpha: 11.000, Beta: 1.100

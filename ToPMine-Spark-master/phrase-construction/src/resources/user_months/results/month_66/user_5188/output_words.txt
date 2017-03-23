@@ -1,0 +1,61 @@
+Topic 0:
+  acas:3.66
+  vendors:3.03
+  darknet:2.50
+  market:2.41
+  users:1.67
+  invite:1.51
+  check:1.24
+  user:1.15
+  security:1.14
+  join:1.12
+
+Topic 1:
+  acas:11.20
+  darknet:5.81
+  vendors:5.34
+  market:5.20
+  security:2.89
+  users:2.31
+  user:2.31
+  markets:2.01
+  invite:1.99
+  support:1.99
+
+Topic 2:
+  acas:6.37
+  misspelled:3.48
+  word:2.51
+  vendors:1.51
+  darknet:1.44
+  user:1.17
+  hard:1.15
+  market:1.12
+  support:1.11
+  users:1.03
+
+Topic 3:
+  acas:6.12
+  vendors:3.87
+  darknet:3.52
+  users:2.06
+  market:1.70
+  support:1.60
+  invite:1.40
+  user:1.33
+  acts:1.22
+  customer:1.20
+
+Topic 4:
+  acas:12.65
+  market:5.57
+  vendors:4.25
+  users:2.92
+  darknet:2.72
+  support:2.30
+  invite:2.16
+  user:2.04
+  security:2.04
+  mobile:1.76
+
+K: 5, Log-Likelihood: -2661.620, Alpha: 11.000, Beta: 1.100

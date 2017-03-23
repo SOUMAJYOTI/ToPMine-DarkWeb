@@ -1,0 +1,61 @@
+Topic 0:
+  site:7.37
+  onion:4.97
+  nation:2.93
+  clearnet:2.83
+  tor:2.27
+  xxrrgs:1.95
+  feel:1.82
+  ip:1.45
+  marketplace:1.44
+  darknet:1.42
+
+Topic 1:
+  karl:2.91
+  quote:2.88
+  men:1.91
+  circumstances:1.91
+  revolutionary:1.91
+  ill:1.81
+  real:1.81
+  darkness:1.23
+  log:1.13
+  coming:1.13
+
+Topic 2:
+  site:7.59
+  onion:3.35
+  marketplace:2.89
+  ip:2.40
+  nation:2.30
+  reddit:2.21
+  leak:2.13
+  clearnet:1.85
+  feel:1.52
+  js:1.52
+
+Topic 3:
+  tor:10.60
+  javascript:9.74
+  browser:5.43
+  security:4.90
+  bundle:3.94
+  site:3.93
+  free:3.46
+  people:3.34
+  versions:2.94
+  windows:2.94
+
+Topic 4:
+  site:4.44
+  nation:2.83
+  marketplace:2.44
+  feel:1.56
+  clearnet:1.45
+  darknet:1.38
+  onion:1.29
+  aws:1.12
+  ip:1.05
+  quote:0.90
+
+K: 5, Log-Likelihood: -3026.760, Alpha: 11.000, Beta: 1.100

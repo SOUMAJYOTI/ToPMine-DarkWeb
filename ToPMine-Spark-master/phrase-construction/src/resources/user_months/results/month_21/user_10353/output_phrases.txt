@@ -1,0 +1,61 @@
+Topic 0:
+  links:3.94
+  legitimate:3.45
+  hub:2.51
+  check:2.51
+  careful:2.51
+  paying:2.13
+  attention:2.13
+  learn:2.00
+  market:1.69
+  hard:1.67
+
+Topic 1:
+  scammed:2.12
+  agora:2.00
+  correct:1.37
+  ahh:1.28
+  info:1.28
+  scammer:1.28
+  login:1.27
+  inform:1.26
+  bitcoins:1.25
+  stolen:1.25
+
+Topic 2:
+  market:1.31
+  thing:1.26
+  link:1.26
+  happened:1.21
+  btc:1.19
+  suggestions:0.84
+  clearnet:0.83
+  lost:0.82
+  money:0.82
+  bothered:0.82
+
+Topic 3:
+  pirate market:3.91
+  real:1.69
+  laugh:1.69
+  lol:1.69
+  omg:1.69
+  good:1.69
+  future:1.69
+  talk:1.69
+  warn:1.69
+  purchasing:1.69
+
+Topic 4:
+  btc:4.13
+  btc silkroad:1.87
+  started:1.86
+  guys fucked:1.86
+  fucked btc:1.86
+  incorrect:1.86
+  impression:1.85
+  confirm:1.85
+  uri:1.84
+  great:1.84
+
+K: 5, Log-Likelihood: -1284.210, Alpha: 11.000, Beta: 1.100

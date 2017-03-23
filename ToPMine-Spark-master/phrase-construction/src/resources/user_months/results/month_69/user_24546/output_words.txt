@@ -1,0 +1,61 @@
+Topic 0:
+  group:24.26
+  security:16.66
+  members:9.76
+  member:9.47
+  child:8.90
+  rules:8.28
+  content:8.03
+  operation:8.02
+  abuse:6.63
+  communications:6.20
+
+Topic 1:
+  container:8.99
+  septum:6.99
+  inert:6.99
+  vial:5.99
+  vials:5.99
+  gas:5.99
+  liquid:5.99
+  transfer:4.99
+  bottle:4.99
+  long:4.11
+
+Topic 2:
+  bridges:20.82
+  tor:19.84
+  tails:11.85
+  connect:9.73
+  bridge:7.96
+  internet:5.12
+  click:4.97
+  gallon:4.94
+  service:4.73
+  browser:4.06
+
+Topic 3:
+  bob:12.99
+  alice:11.99
+  activity:9.14
+  machine:8.99
+  contact:6.99
+  adversary:6.12
+  vm:5.99
+  risk:5.99
+  compartmentation:5.10
+  accounts:4.99
+
+Topic 4:
+  group:4.73
+  content:3.96
+  abuse:3.36
+  operation:2.97
+  check:2.54
+  active:2.50
+  key:2.46
+  work:2.45
+  pgp:2.37
+  members:2.23
+
+K: 5, Log-Likelihood: -10633.201, Alpha: 11.000, Beta: 1.100

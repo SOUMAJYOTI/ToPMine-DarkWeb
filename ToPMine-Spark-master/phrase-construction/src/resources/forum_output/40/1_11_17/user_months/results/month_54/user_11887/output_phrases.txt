@@ -1,0 +1,61 @@
+Topic 0:
+  ready:0.14
+  resellers:0.14
+  waiting:0.14
+  products:0.14
+  fantastic:0.14
+  finished:0.14
+  profile:0.14
+  customers:0.14
+  coming:0.14
+  traffic:0.14
+
+Topic 1:
+  modified:0.14
+  balance:0.14
+  timelock:0.14
+  partial:0.14
+  heavily:0.14
+  hot:0.14
+  improved:0.14
+  escrow:0.14
+  transactions:0.14
+  covered:0.14
+
+Topic 2:
+  waiting:0.14
+  ready:0.14
+  products:0.14
+  fantastic:0.14
+  finished:0.14
+  customers:0.14
+  profile:0.14
+  resellers:0.14
+  traffic:0.14
+  coming:0.14
+
+Topic 3:
+  issue:0.14
+  bug:0.14
+  items:0.14
+  multisig:0.14
+  groups:0.14
+  patched:0.14
+  loses:0.14
+  transactions:0.14
+  caused:0.14
+  search:0.14
+
+Topic 4:
+  refunds:0.14
+  covered:0.14
+  timelock:0.14
+  balance:0.14
+  lose:0.14
+  ui:0.14
+  caused:0.14
+  partial:0.14
+  items:0.14
+  patching:0.14
+
+K: 5, Log-Likelihood: -82.970, Alpha: 11.000, Beta: 1.100

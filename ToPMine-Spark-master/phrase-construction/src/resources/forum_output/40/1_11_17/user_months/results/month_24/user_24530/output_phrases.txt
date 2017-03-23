@@ -1,0 +1,61 @@
+Topic 0:
+  work:11.75
+  blue:10.55
+  dropped:9.13
+  le:7.47
+  vendors:7.20
+  dont:7.12
+  safe:6.22
+  find:6.09
+  changing:6.08
+  pack:6.08
+
+Topic 1:
+  tor:20.85
+  traffic:12.17
+  traffic analysis:11.06
+  traffic analysis attacks:9.13
+  tor clients:9.13
+  yeah:9.12
+  code:9.10
+  kind:7.11
+  built:7.09
+  top:6.84
+
+Topic 2:
+  doubt:10.88
+  agora evo:10.54
+  letters:9.31
+  quote:8.94
+  sr:8.62
+  evo:7.90
+  type:7.85
+  goods:6.07
+  face:6.07
+  trade:6.07
+
+Topic 3:
+  tmg:11.45
+  bad:10.57
+  allot:9.13
+  ag:9.12
+  servers:9.11
+  led:7.99
+  lack:7.91
+  general public:7.89
+  forum:7.34
+  people:7.21
+
+Topic 4:
+  drugs:22.84
+  people:14.60
+  lsd:12.10
+  dont lsd:9.13
+  exists:9.13
+  website:9.13
+  effects:9.13
+  drug:8.63
+  powerful:7.99
+  newbie:7.47
+
+K: 5, Log-Likelihood: -47890.765, Alpha: 11.000, Beta: 1.100

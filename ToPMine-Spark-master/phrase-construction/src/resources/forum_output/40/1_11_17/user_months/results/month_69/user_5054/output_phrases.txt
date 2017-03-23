@@ -1,0 +1,61 @@
+Topic 0:
+  storage:0.66
+  doesnt:0.64
+  tails:0.50
+  kernel flavor linux redhat:0.44
+  persistence memory:0.44
+  knowledgeable:0.44
+  degraded:0.44
+  mounting:0.43
+  reports:0.43
+  includes:0.43
+
+Topic 1:
+  doesnt:0.81
+  storage:0.80
+  tails:0.45
+  linus:0.44
+  good:0.43
+  memory:0.43
+  mounting:0.42
+  degraded:0.42
+  persistence memory:0.42
+  kernel flavor linux redhat:0.42
+
+Topic 2:
+  key:3.46
+  tails developers:3.46
+  signature:3.45
+  keys:2.22
+  pgp:2.21
+  gpg:2.21
+  sig:2.21
+  verify signing key:1.44
+  kernel:1.44
+  linus:1.36
+
+Topic 3:
+  code:2.32
+  security:2.32
+  software:2.32
+  degraded kernel flavor linux:1.08
+  open:1.08
+  pore:1.08
+  works redhat:1.08
+  program:1.08
+  redhat works closely government:1.08
+  beauty:1.08
+
+Topic 4:
+  downloading:0.89
+  adding:0.89
+  expire:0.89
+  certfying:0.89
+  multiply:0.89
+  showing:0.89
+  renewed:0.89
+  integrity:0.89
+  places:0.89
+  aware:0.89
+
+K: 5, Log-Likelihood: -960.925, Alpha: 11.000, Beta: 1.100

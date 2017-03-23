@@ -1,0 +1,61 @@
+Topic 0:
+  buy:0.08
+  bake:0.08
+  find:0.08
+  sterilize:0.08
+  mix:0.08
+  cucus:0.08
+  grain:0.08
+  local:0.08
+  farm:0.08
+  uruguay:0.08
+
+Topic 1:
+  mix:0.08
+  grain:0.08
+  buy:0.08
+  sterilize:0.08
+  farm:0.08
+  find:0.08
+  local:0.08
+  uruguay:0.08
+  bake:0.08
+  cucus:0.08
+
+Topic 2:
+  cucus:0.08
+  uruguay:0.08
+  bake:0.08
+  grain:0.08
+  mix:0.08
+  buy:0.08
+  local:0.08
+  farm:0.08
+  find:0.08
+  sterilize:0.08
+
+Topic 3:
+  find:0.08
+  farm:0.08
+  local:0.08
+  bake:0.08
+  sterilize:0.08
+  grain:0.08
+  mix:0.08
+  buy:0.08
+  cucus:0.08
+  uruguay:0.08
+
+Topic 4:
+  local:0.08
+  farm:0.08
+  sterilize:0.08
+  uruguay:0.08
+  grain:0.08
+  mix:0.08
+  find:0.08
+  cucus:0.08
+  buy:0.08
+  bake:0.08
+
+K: 5, Log-Likelihood: -9.336, Alpha: 11.000, Beta: 1.100

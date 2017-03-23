@@ -1,0 +1,61 @@
+Topic 0:
+  boot:2.03
+  key:1.71
+  lsd:1.20
+  pgp:1.03
+  peer:0.97
+  clipboard:0.93
+  keys:0.93
+  localbitcoin:0.92
+  computer:0.92
+  tail:0.91
+
+Topic 1:
+  key:1.73
+  boot:1.63
+  lsd:1.22
+  pgp:1.00
+  tail:0.92
+  keys:0.91
+  os:0.91
+  clipboard:0.90
+  peer:0.86
+  localbitcoin:0.86
+
+Topic 2:
+  key:2.70
+  boot:2.09
+  ctrl:1.15
+  manage:1.15
+  select:1.12
+  computer:1.10
+  pair:1.09
+  peer:1.08
+  lsd:1.08
+  clipboard:1.06
+
+Topic 3:
+  step:2.86
+  send:1.86
+  good:1.86
+  vendor:1.86
+  pgp:0.97
+  group:0.87
+  trusted:0.87
+  btc:0.87
+  offer:0.87
+  forum:0.87
+
+Topic 4:
+  boot:2.06
+  key:1.66
+  lsd:1.23
+  localbitcoin:1.04
+  pair:1.02
+  tail:1.01
+  os:1.01
+  pgp:1.01
+  select:0.99
+  clipboard:0.98
+
+K: 5, Log-Likelihood: -981.684, Alpha: 11.000, Beta: 1.100

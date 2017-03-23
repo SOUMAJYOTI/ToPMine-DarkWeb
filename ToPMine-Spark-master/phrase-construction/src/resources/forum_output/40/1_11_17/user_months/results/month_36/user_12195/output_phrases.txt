@@ -1,0 +1,61 @@
+Topic 0:
+  ei:10.24
+  lk olko huolissaan:9.15
+  ja:8.81
+  jos:8.67
+  silkkitie:8.16
+  kyll:7.33
+  haavoittuvuus:6.89
+  verkosta:6.89
+  tor:6.89
+  kapteeni:6.86
+
+Topic 1:
+  perille:10.68
+  vaikka:9.81
+  ettei:8.10
+  kiitos:7.96
+  ei saa:6.90
+  kiva jos:6.07
+  vihaisia:6.07
+  tulis:6.07
+  ihan vaan:6.07
+  vinkkin:6.07
+
+Topic 2:
+  kaikkien rahat:12.21
+  ett:10.78
+  rahat jumissa:9.81
+  ja kaikki:8.28
+  viel:8.24
+  hinta:6.91
+  menetti:6.91
+  pisteita:6.91
+  fiat:6.91
+  eilen tehdyt:6.87
+
+Topic 3:
+  dont:15.15
+  li:10.36
+  hope:8.98
+  kapteeni:8.64
+  deposits:8.11
+  mik:6.89
+  deposit:6.84
+  returned:6.75
+  coins:6.74
+  koskaan:6.08
+
+Topic 4:
+  ongelma:8.85
+  december:8.62
+  ei:7.52
+  ytt:6.98
+  vanha:6.89
+  lill:6.86
+  language german:6.54
+  jos:6.41
+  high prices:6.29
+  tullut:6.07
+
+K: 5, Log-Likelihood: -22661.771, Alpha: 11.000, Beta: 1.100

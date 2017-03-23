@@ -1,0 +1,61 @@
+Topic 0:
+  invite:1.05
+  free:0.58
+  ship:0.41
+  dont:0.38
+  address:0.20
+  forget:0.20
+  gon:0.20
+  idea:0.20
+  email:0.20
+  offer:0.20
+
+Topic 1:
+  invite:1.03
+  free:0.62
+  dont:0.43
+  ship:0.38
+  creates:0.21
+  box:0.21
+  acid:0.21
+  paid:0.21
+  account:0.21
+  doesnt:0.21
+
+Topic 2:
+  invite:0.96
+  free:0.63
+  dont:0.43
+  ship:0.38
+  paid:0.21
+  shrooms:0.21
+  leave:0.21
+  account:0.21
+  step:0.21
+  ops:0.21
+
+Topic 3:
+  invite:1.01
+  free:0.56
+  ship:0.42
+  dont:0.36
+  trade:0.21
+  guess:0.21
+  message:0.21
+  freely:0.21
+  functions:0.21
+  forget:0.21
+
+Topic 4:
+  invite:0.95
+  free:0.61
+  ship:0.41
+  dont:0.39
+  changed:0.20
+  idea:0.20
+  offer:0.20
+  mustve:0.20
+  require:0.20
+  functions:0.20
+
+K: 5, Log-Likelihood: -157.813, Alpha: 11.000, Beta: 1.100

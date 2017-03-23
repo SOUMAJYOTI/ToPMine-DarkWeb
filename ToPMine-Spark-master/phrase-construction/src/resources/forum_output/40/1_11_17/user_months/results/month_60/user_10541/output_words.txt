@@ -1,0 +1,61 @@
+Topic 0:
+  august:1.34
+  pmquote:0.94
+  linux:0.81
+  tutorial:0.80
+  beastie:0.75
+  technologically:0.40
+  link:0.40
+  illiterate:0.40
+  good:0.40
+  linus:0.40
+
+Topic 1:
+  august:1.12
+  pmquote:0.94
+  beastie:0.86
+  tutorial:0.85
+  linux:0.80
+  hahaha:0.40
+  explain:0.40
+  quote:0.40
+  day:0.40
+  understand:0.40
+
+Topic 2:
+  august:1.23
+  pmquote:0.94
+  linux:0.83
+  tutorial:0.81
+  beastie:0.79
+  pmdeepdotweb:0.40
+  good:0.40
+  illiterate:0.40
+  quote:0.40
+  apopularvendor:0.40
+
+Topic 3:
+  august:1.06
+  pmquote:1.05
+  beastie:0.83
+  tutorial:0.80
+  linux:0.78
+  understand:0.41
+  day:0.41
+  quote:0.41
+  illiterate:0.40
+  linus:0.40
+
+Topic 4:
+  august:1.24
+  pmquote:1.12
+  beastie:0.77
+  linux:0.77
+  tutorial:0.74
+  bro:0.40
+  honestly:0.40
+  apopularvendor:0.40
+  linus:0.40
+  understand:0.40
+
+K: 5, Log-Likelihood: -163.177, Alpha: 11.000, Beta: 1.100

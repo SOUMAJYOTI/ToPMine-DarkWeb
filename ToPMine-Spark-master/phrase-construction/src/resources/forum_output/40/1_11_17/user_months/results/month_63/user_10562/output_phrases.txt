@@ -1,0 +1,61 @@
+Topic 0:
+  dash:0.55
+  network:0.42
+  july:0.41
+  mix:0.28
+  code:0.28
+  base:0.28
+  technology:0.28
+  decentralized:0.28
+  features:0.28
+  cash:0.28
+
+Topic 1:
+  dash:0.55
+  network:0.42
+  july:0.41
+  darkcoin:0.28
+  cryptonote:0.28
+  dogatemyacid:0.28
+  bitcoin:0.28
+  pmquote:0.28
+  masternode:0.28
+  technology:0.28
+
+Topic 2:
+  dash:0.56
+  july:0.42
+  network:0.41
+  nodes tor:0.28
+  base:0.28
+  bitcoin:0.28
+  dogatemyacid:0.28
+  mixing:0.28
+  centralized:0.28
+  rebrand:0.28
+
+Topic 3:
+  dash:0.56
+  july:0.42
+  network:0.42
+  features:0.28
+  pmquote:0.28
+  rebrand:0.28
+  mixing:0.28
+  centralized:0.28
+  cash:0.28
+  decentralized:0.28
+
+Topic 4:
+  dash:0.56
+  july:0.42
+  network:0.42
+  masternode:0.28
+  centralized:0.28
+  decentralized:0.28
+  cash:0.28
+  dogatemyacid:0.28
+  nodes tor:0.28
+  technology:0.28
+
+K: 5, Log-Likelihood: -458.804, Alpha: 11.000, Beta: 1.100

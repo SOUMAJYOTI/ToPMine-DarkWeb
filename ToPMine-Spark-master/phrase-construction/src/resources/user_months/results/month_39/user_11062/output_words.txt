@@ -1,0 +1,41 @@
+Topic 0:
+  ill:0.20
+  market:0.20
+  write:0.20
+  order:0.20
+  review:0.20
+  detailed:0.20
+
+Topic 1:
+  order:0.20
+  detailed:0.20
+  review:0.20
+  market:0.20
+  write:0.20
+  ill:0.20
+
+Topic 2:
+  review:0.20
+  market:0.20
+  write:0.20
+  order:0.20
+  ill:0.20
+  detailed:0.20
+
+Topic 3:
+  ill:0.20
+  detailed:0.20
+  write:0.20
+  market:0.20
+  review:0.20
+  order:0.20
+
+Topic 4:
+  write:0.20
+  market:0.20
+  ill:0.20
+  review:0.20
+  order:0.20
+  detailed:0.20
+
+K: 5, Log-Likelihood: -10.751, Alpha: 11.000, Beta: 1.100

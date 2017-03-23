@@ -1,0 +1,61 @@
+Topic 0:
+  dont:0.16
+  thing:0.08
+  crashers:0.08
+  times:0.08
+  cool:0.08
+  spamming:0.08
+  garden:0.08
+  darknet:0.08
+  refer:0.08
+  forum:0.08
+
+Topic 1:
+  dont:0.16
+  markets:0.08
+  longer:0.08
+  refer:0.08
+  update:0.08
+  anvegers:0.08
+  replaced:0.08
+  find:0.08
+  market:0.08
+  avengers:0.08
+
+Topic 2:
+  dont:0.16
+  garden:0.08
+  spamming:0.08
+  cool:0.08
+  crashers:0.08
+  thing:0.08
+  times:0.08
+  invite:0.08
+  find:0.08
+  longer:0.08
+
+Topic 3:
+  dont:0.16
+  crashers:0.08
+  thing:0.08
+  times:0.08
+  cool:0.08
+  spamming:0.08
+  garden:0.08
+  love:0.08
+  update:0.08
+  markets:0.08
+
+Topic 4:
+  dont:0.16
+  cool:0.08
+  spamming:0.08
+  thing:0.08
+  times:0.08
+  crashers:0.08
+  garden:0.08
+  text:0.08
+  list:0.08
+  market:0.08
+
+K: 5, Log-Likelihood: -30.847, Alpha: 11.000, Beta: 1.100

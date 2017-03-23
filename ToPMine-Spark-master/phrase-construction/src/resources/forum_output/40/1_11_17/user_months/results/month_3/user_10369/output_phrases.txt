@@ -1,0 +1,61 @@
+Topic 0:
+  click:0.49
+  side:0.49
+  categories:0.49
+  voil:0.49
+  left:0.49
+  hand:0.49
+  simple:0.49
+  items:0.47
+  finally stupid:0.43
+  site:0.42
+
+Topic 1:
+  items:0.98
+  finally stupid:0.51
+  site:0.51
+  items click:0.51
+  displays:0.42
+  stupid:0.42
+  button:0.42
+  engine:0.41
+  hit:0.41
+  badest:0.41
+
+Topic 2:
+  doesn:0.45
+  problem:0.45
+  work:0.45
+  agora:0.44
+  wrong:0.44
+  days:0.44
+  username:0.44
+  account:0.44
+  password:0.44
+  special:0.44
+
+Topic 3:
+  items:0.53
+  voil:0.49
+  hand:0.49
+  left:0.49
+  categories:0.49
+  simple:0.49
+  side:0.49
+  click:0.48
+  site:0.46
+  items click:0.45
+
+Topic 4:
+  items:0.67
+  finally stupid:0.46
+  items click:0.46
+  site:0.46
+  simple:0.42
+  left:0.42
+  click:0.42
+  voil:0.42
+  side:0.42
+  hand:0.42
+
+K: 5, Log-Likelihood: -273.139, Alpha: 11.000, Beta: 1.100

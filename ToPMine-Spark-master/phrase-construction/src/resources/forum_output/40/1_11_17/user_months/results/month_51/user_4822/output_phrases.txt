@@ -1,0 +1,61 @@
+Topic 0:
+  cancel:0.00
+  select:0.00
+  keys:0.00
+  happenstried:0.00
+  box:0.00
+  check:0.00
+  message:0.00
+  click:0.00
+  clipboard:0.00
+  result:0.00
+
+Topic 1:
+  cancel:0.00
+  select:0.00
+  keys:0.00
+  happenstried:0.00
+  box:0.00
+  check:0.00
+  message:0.00
+  click:0.00
+  clipboard:0.00
+  result:0.00
+
+Topic 2:
+  cancel:0.00
+  select:0.00
+  keys:0.00
+  happenstried:0.00
+  box:0.00
+  check:0.00
+  message:0.00
+  click:0.00
+  clipboard:0.00
+  result:0.00
+
+Topic 3:
+  cancel:0.00
+  select:0.00
+  keys:0.00
+  happenstried:0.00
+  box:0.00
+  check:0.00
+  message:0.00
+  click:0.00
+  clipboard:0.00
+  result:0.00
+
+Topic 4:
+  cancel:0.00
+  select:0.00
+  keys:0.00
+  happenstried:0.00
+  box:0.00
+  check:0.00
+  message:0.00
+  click:0.00
+  clipboard:0.00
+  result:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

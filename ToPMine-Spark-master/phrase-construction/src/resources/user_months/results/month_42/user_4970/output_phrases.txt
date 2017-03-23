@@ -1,0 +1,61 @@
+Topic 0:
+  support:1.68
+  coins:1.65
+  onion time:0.66
+  deposited:0.41
+  supported:0.41
+  update:0.41
+  reddit:0.41
+  blockchain:0.41
+  abraxas:0.41
+  plenty:0.41
+
+Topic 1:
+  onion time:4.87
+  onion uptime:0.88
+  market:0.88
+  invite link join time:0.77
+  time:0.51
+  um onion time:0.51
+  love avengers:0.45
+  nucleus market:0.24
+  bloomsfield:0.24
+  rec:0.24
+
+Topic 2:
+  onion time:8.87
+  market:1.33
+  onion uptime:1.30
+  invite link join time:1.06
+  um onion time:0.63
+  time:0.63
+  love avengers:0.44
+  ranerted:0.28
+  side:0.28
+  french:0.28
+
+Topic 3:
+  onion time:2.78
+  onion uptime:0.65
+  market:0.65
+  invite link join time:0.58
+  love avengers:0.43
+  coins:0.41
+  um onion time:0.40
+  time:0.40
+  support:0.39
+  evlj:0.21
+
+Topic 4:
+  onion time:1.72
+  support:0.65
+  coins:0.65
+  onion uptime:0.49
+  market:0.46
+  invite link join time:0.43
+  love avengers:0.40
+  um onion time:0.31
+  time:0.31
+  situation:0.24
+
+K: 5, Log-Likelihood: -752.220, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  network:1.02
+  browser:0.76
+  enable:0.73
+  privacy:0.54
+  tools:0.54
+  truenetwork:0.53
+  set:0.52
+  enabled:0.50
+  falsebrowser:0.50
+  disable:0.48
+
+Topic 1:
+  vpn:4.23
+  dont:1.84
+  tails:1.73
+  services:1.72
+  small:1.71
+  service:1.71
+  big:1.71
+  market:0.82
+  longer:0.82
+  article:0.82
+
+Topic 2:
+  network:0.86
+  browser:0.46
+  enable:0.42
+  truenetwork:0.38
+  vpn:0.37
+  tools:0.37
+  privacy:0.35
+  enabled:0.34
+  set:0.34
+  cache:0.34
+
+Topic 3:
+  network:7.78
+  browser:4.72
+  enable:3.79
+  tools:3.04
+  truenetwork:3.03
+  firefox:2.20
+  bookmarks:2.18
+  options:2.16
+  disable:2.13
+  cache:2.13
+
+Topic 4:
+  vpn:7.02
+  server:5.89
+  eyes:2.89
+  country:2.89
+  solution:2.89
+  bittorrent:1.89
+  tor:1.89
+  technical:1.89
+  western:1.89
+  safe:1.07
+
+K: 5, Log-Likelihood: -1454.978, Alpha: 11.000, Beta: 1.100

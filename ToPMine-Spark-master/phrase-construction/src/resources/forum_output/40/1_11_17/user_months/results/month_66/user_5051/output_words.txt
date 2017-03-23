@@ -1,0 +1,61 @@
+Topic 0:
+  explanation:1.70
+  left:1.44
+  greatest:1.18
+  site:1.16
+  vendors:1.15
+  log:1.12
+  days:1.11
+  possibility:1.10
+  le:1.09
+  strong:1.08
+
+Topic 1:
+  site:1.49
+  explanation:1.22
+  popcorn:0.96
+  left:0.75
+  reddit:0.64
+  hours:0.64
+  reputation:0.64
+  agora:0.64
+  closed:0.63
+  kids:0.63
+
+Topic 2:
+  explanation:1.54
+  left:1.36
+  bulk:1.31
+  site:1.28
+  buyers:1.27
+  helm:1.26
+  days:1.26
+  risk:1.25
+  le:1.24
+  pops:1.24
+
+Topic 3:
+  functions:5.11
+  site:3.42
+  working:1.68
+  withdrawals:1.68
+  life:1.62
+  market:1.61
+  admins:1.59
+  eic:1.58
+  responsive:1.36
+  sudden:1.35
+
+Topic 4:
+  site:1.65
+  explanation:1.23
+  left:1.18
+  log:0.95
+  possibility:0.94
+  pops:0.94
+  helm:0.92
+  strong:0.91
+  risk:0.90
+  vendors:0.89
+
+K: 5, Log-Likelihood: -935.461, Alpha: 11.000, Beta: 1.100

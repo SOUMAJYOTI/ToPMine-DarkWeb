@@ -1,0 +1,61 @@
+Topic 0:
+  sr:2.72
+  forums:2.38
+  link:2.29
+  march:2.27
+  quote:2.24
+  mirage:2.06
+  copy:1.86
+  free:1.86
+  foia:1.86
+  request:1.86
+
+Topic 1:
+  glad:5.80
+  limetless:3.61
+  vlad:3.39
+  limitless:2.25
+  person:2.12
+  money:1.86
+  laundering:1.86
+  hedge:0.99
+  screen:0.98
+  vouched:0.98
+
+Topic 2:
+  sr:1.91
+  remember:1.71
+  disappeared:1.70
+  forums:1.40
+  vladimir:1.40
+  limetless:1.07
+  names:0.76
+  late:0.76
+  sad:0.76
+  easily:0.76
+
+Topic 3:
+  backup:4.67
+  safety:2.64
+  clearnet:2.64
+  file:2.64
+  vouch:2.63
+  download:2.63
+  rar:2.63
+  honeyray:1.76
+  believed:1.75
+  pmfull:1.75
+
+Topic 4:
+  glad:1.88
+  person:1.48
+  limetless:1.03
+  administration:0.83
+  identity:0.83
+  rs:0.83
+  compromised:0.82
+  current:0.82
+  sr:0.71
+  dr:0.70
+
+K: 5, Log-Likelihood: -1524.531, Alpha: 11.000, Beta: 1.100

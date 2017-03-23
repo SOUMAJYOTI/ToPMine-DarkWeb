@@ -1,0 +1,61 @@
+Topic 0:
+  web:3.70
+  deep:3.70
+  things:1.84
+  persons:1.73
+  traveling:1.73
+  suspect:1.73
+  expose:1.73
+  mailing:1.73
+  pattern:1.73
+  emails:1.73
+
+Topic 1:
+  people:1.95
+  tool:1.58
+  bad:1.50
+  dan:1.40
+  love:1.05
+  game:1.04
+  white:1.04
+  violent:1.01
+  allot:1.01
+  darpa:0.98
+
+Topic 2:
+  people:1.46
+  tool:1.22
+  bad:1.16
+  dan:0.94
+  game:0.87
+  darpa:0.85
+  violent:0.84
+  love:0.82
+  white:0.80
+  guy:0.79
+
+Topic 3:
+  people:1.80
+  bad:1.29
+  dan:1.10
+  tool:1.07
+  allot:0.95
+  darpa:0.93
+  love:0.92
+  game:0.89
+  violent:0.89
+  white:0.88
+
+Topic 4:
+  people:2.60
+  tool:1.98
+  bad:1.88
+  dan:1.41
+  guy:1.23
+  white:1.15
+  violent:1.13
+  allot:1.11
+  darpa:1.10
+  love:1.07
+
+K: 5, Log-Likelihood: -1318.049, Alpha: 11.000, Beta: 1.100

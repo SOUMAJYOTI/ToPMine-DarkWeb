@@ -1,0 +1,61 @@
+Topic 0:
+  company:1.40
+  service:1.36
+  address:0.90
+  registered:0.81
+  kyc:0.80
+  funds untraceable:0.80
+  problems:0.79
+  contact:0.79
+  sever:0.79
+  isnt:0.78
+
+Topic 1:
+  bank:3.26
+  trouble:2.81
+  blockchain:2.18
+  fiat:1.51
+  send:1.51
+  imputable:1.51
+  work:1.51
+  find:1.50
+  accounts:1.50
+  detective:1.39
+
+Topic 2:
+  service:2.86
+  company:2.82
+  funds untraceable:2.35
+  registered:2.34
+  address:1.51
+  connection:1.30
+  hidden:1.29
+  double:1.29
+  claims:1.29
+  expected:1.29
+
+Topic 3:
+  lost:2.91
+  swam:2.91
+  site:2.38
+  coins:2.08
+  guess:1.50
+  tracking:1.41
+  hit:1.41
+  transactions:1.41
+  tired:1.41
+  totally:1.41
+
+Topic 4:
+  ill:1.79
+  campbx:1.28
+  bitcointalk:1.18
+  posts:1.18
+  spreading:1.18
+  man:1.18
+  story:1.18
+  mind:1.18
+  forum:1.14
+  bureau:1.14
+
+K: 5, Log-Likelihood: -1340.082, Alpha: 11.000, Beta: 1.100

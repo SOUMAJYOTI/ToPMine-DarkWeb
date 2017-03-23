@@ -1,0 +1,61 @@
+Topic 0:
+  popcorn:0.16
+  jah:0.16
+  latelty:0.08
+  farmer:0.08
+  shop:0.08
+  history:0.08
+  reputation:0.08
+  skush:0.08
+  stock:0.08
+  god:0.08
+
+Topic 1:
+  jah:0.16
+  popcorn:0.16
+  trim:0.08
+  strains:0.08
+  reputation:0.08
+  deadhead:0.08
+  goo:0.08
+  quantities:0.08
+  nugs:0.08
+  god:0.08
+
+Topic 2:
+  jah:0.16
+  popcorn:0.16
+  dream:0.08
+  og:0.08
+  familiar:0.08
+  stock:0.08
+  blue:0.08
+  trim:0.08
+  history:0.08
+  nugs:0.08
+
+Topic 3:
+  popcorn:0.16
+  jah:0.16
+  farmer:0.08
+  latelty:0.08
+  og:0.08
+  quantities:0.08
+  skush:0.08
+  deadhead:0.08
+  blue:0.08
+  trim:0.08
+
+Topic 4:
+  popcorn:0.16
+  jah:0.16
+  nugs:0.08
+  history:0.08
+  deadhead:0.08
+  god:0.08
+  quantities:0.08
+  blue:0.08
+  skush:0.08
+  familiar:0.08
+
+K: 5, Log-Likelihood: -26.746, Alpha: 11.000, Beta: 1.100

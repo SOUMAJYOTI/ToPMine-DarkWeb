@@ -1,0 +1,61 @@
+Topic 0:
+  verify:0.38
+  vendors abraxas:0.38
+  shop:0.38
+  vendors:0.38
+  week:0.38
+  check:0.38
+  good:0.38
+  messages:0.38
+  amount:0.38
+  influx:0.38
+
+Topic 1:
+  solid:0.34
+  market:0.34
+  disappointed:0.34
+  markets:0.34
+  picks:0.34
+  agora:0.34
+  business:0.34
+  big:0.34
+  don:0.33
+  dont:0.33
+
+Topic 2:
+  traffic:0.35
+  good:0.35
+  shop:0.35
+  messages:0.35
+  couple:0.35
+  setting:0.35
+  smooth:0.35
+  check:0.35
+  amount:0.35
+  shit:0.35
+
+Topic 3:
+  agora:0.33
+  business:0.33
+  market:0.33
+  picks:0.33
+  dont:0.33
+  markets:0.33
+  big:0.33
+  disappointed:0.33
+  solid:0.33
+  don:0.33
+
+Topic 4:
+  picks:0.37
+  business:0.37
+  markets:0.37
+  disappointed:0.37
+  solid:0.37
+  market:0.37
+  agora:0.37
+  big:0.37
+  don:0.34
+  dont:0.34
+
+K: 5, Log-Likelihood: -297.633, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  onion:1.16
+  contact:0.95
+  spacechain:0.54
+  mail:0.51
+  safe:0.51
+  net:0.50
+  service:0.49
+  link:0.43
+  services:0.42
+  mixing:0.38
+
+Topic 1:
+  service:2.25
+  address:2.02
+  mixing:1.52
+  bitcoin:1.37
+  bitcoins:1.26
+  coins:0.95
+  btc:0.90
+  transactions:0.86
+  io:0.84
+  spacechain:0.68
+
+Topic 2:
+  service:2.91
+  mixing:1.72
+  bitcoin:1.49
+  address:1.15
+  bitcoins:0.88
+  io:0.76
+  transactions:0.75
+  coins:0.74
+  btc:0.72
+  spacechain:0.71
+
+Topic 3:
+  mixing:3.11
+  address:2.46
+  service:2.02
+  bitcoin:1.80
+  bitcoins:1.53
+  io:1.10
+  transactions:1.09
+  btc:1.08
+  coins:1.00
+  intuitive:0.67
+
+Topic 4:
+  onion:1.33
+  contact:1.08
+  plays:0.51
+  goodbye:0.51
+  admin:0.51
+  fatherteddingtons:0.50
+  gather:0.50
+  august:0.50
+  pmi:0.50
+  today:0.50
+
+K: 5, Log-Likelihood: -963.690, Alpha: 11.000, Beta: 1.100

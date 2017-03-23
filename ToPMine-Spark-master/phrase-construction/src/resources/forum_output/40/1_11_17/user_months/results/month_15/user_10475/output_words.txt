@@ -1,0 +1,61 @@
+Topic 0:
+  times:3.01
+  july:2.85
+  agora:1.91
+  feesh:1.90
+  feedback:1.65
+  pmquote:1.59
+  log:1.52
+  hours:1.32
+  refresh:1.31
+  support:1.26
+
+Topic 1:
+  agora:3.76
+  log:2.62
+  july:1.57
+  rule:1.43
+  hours:1.29
+  times:1.26
+  feesh:1.19
+  site:0.99
+  pmthe:0.99
+  quote:0.96
+
+Topic 2:
+  july:2.70
+  times:2.53
+  log:2.19
+  agora:2.00
+  feesh:1.98
+  feedback:1.60
+  pmquote:1.58
+  hours:1.37
+  support:1.33
+  refresh:1.18
+
+Topic 3:
+  times:2.97
+  july:2.66
+  log:2.21
+  feedback:1.98
+  pmquote:1.94
+  hours:1.72
+  feesh:1.69
+  refresh:1.59
+  support:1.50
+  agora:1.43
+
+Topic 4:
+  agora:1.91
+  evo:1.85
+  pretty:1.85
+  forum:1.56
+  good:0.86
+  interface:0.86
+  hand:0.86
+  pays:0.86
+  effing:0.86
+  sick:0.86
+
+K: 5, Log-Likelihood: -955.369, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  en:2.97
+  ja:2.17
+  ei:1.84
+  olla:1.51
+  korkealla:1.51
+  toisaalta:1.51
+  pankkisalaisuudesta:1.51
+  kaikkia:1.51
+  saamia:1.51
+  nimet:1.51
+
+Topic 1:
+  se:1.38
+  omalta:0.75
+  hell:0.75
+  ll:0.75
+  kisit:0.75
+  till:0.75
+  automaattia:0.74
+  ostaminen:0.74
+  riski:0.74
+  ja:0.73
+
+Topic 2:
+  se:1.26
+  osta:0.94
+  automaatista:0.94
+  nopeasti:0.94
+  saat:0.94
+  ytyy:0.89
+  kokeilla:0.89
+  seuraavaksi:0.89
+  nain:0.87
+  olee:0.81
+
+Topic 3:
+  tai:3.13
+  pit:3.13
+  random:3.13
+  mit:2.45
+  krakenista:1.53
+  varmana:1.53
+  hidden:1.53
+  siksi:1.53
+  mahdoton:1.53
+  joka:1.53
+
+Topic 4:
+  sis:1.47
+  hiss:1.47
+  martin:1.47
+  maksamaan:1.47
+  linen:1.47
+  tilisiirto:1.47
+  tiskille:1.47
+  huomaamaton:1.47
+  localbitcoins:1.47
+  osto:1.47
+
+K: 5, Log-Likelihood: -1731.830, Alpha: 11.000, Beta: 1.100

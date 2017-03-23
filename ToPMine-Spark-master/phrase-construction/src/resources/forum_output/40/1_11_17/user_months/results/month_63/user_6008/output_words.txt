@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:6.83
+  key:4.47
+  send:2.13
+  lr:2.09
+  fv:2.00
+  gs:1.98
+  message:1.97
+  block:1.89
+  signature:1.89
+  public:1.85
+
+Topic 1:
+  sigaint:5.64
+  lelantos:2.08
+  don:1.04
+  signature:0.92
+  finally:0.84
+  pm:0.84
+  hoping:0.84
+  care:0.84
+  hey:0.84
+  dudes:0.84
+
+Topic 2:
+  pgp:4.80
+  key:3.22
+  public:1.94
+  block:1.91
+  gs:1.82
+  fv:1.80
+  lr:1.71
+  send:1.67
+  message:1.65
+  signature:1.36
+
+Topic 3:
+  security:3.86
+  td:3.86
+  signature:3.67
+  pgp:3.32
+  sigaint:2.81
+  pen:1.88
+  yoursmdirect:1.88
+  yhjkguqhyeq:1.88
+  alqeec:1.88
+  ukedsvfgvj:1.88
+
+Topic 4:
+  problems:9.72
+  time:6.52
+  messages:6.05
+  site:5.75
+  address:5.24
+  lelantos:4.98
+  sigaint:4.50
+  suggestion:3.73
+  error:3.72
+  mdirect:3.72
+
+K: 5, Log-Likelihood: -8305.132, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  gun:2.02
+  guns:1.48
+  pieces:1.11
+  ship:1.08
+  allowed:1.07
+  site:0.94
+  border:0.84
+  links:0.67
+  legal:0.59
+  yeah:0.58
+
+Topic 1:
+  gun:1.76
+  guns:1.30
+  site:0.74
+  markets:0.72
+  allowed:0.72
+  ship:0.69
+  pieces:0.68
+  border:0.57
+  markup:0.53
+  buying:0.52
+
+Topic 2:
+  guns:2.24
+  gun:1.06
+  border:0.85
+  decades:0.79
+  methods:0.79
+  le:0.78
+  large:0.66
+  hell:0.62
+  big:0.61
+  ya:0.60
+
+Topic 3:
+  gun:1.72
+  markets:0.95
+  guns:0.92
+  find:0.77
+  ya:0.76
+  site:0.72
+  web:0.68
+  dont:0.64
+  classifieds:0.62
+  border:0.59
+
+Topic 4:
+  buy:4.67
+  firearm:3.63
+  buying:3.17
+  sites:1.84
+  age:1.84
+  times:1.84
+  years:1.84
+  gun:1.43
+  people:1.27
+  boogie:1.21
+
+K: 5, Log-Likelihood: -1277.236, Alpha: 11.000, Beta: 1.100

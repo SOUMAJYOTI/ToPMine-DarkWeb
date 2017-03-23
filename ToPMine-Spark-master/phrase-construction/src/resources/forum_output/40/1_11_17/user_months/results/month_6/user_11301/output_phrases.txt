@@ -1,0 +1,61 @@
+Topic 0:
+  fungi:0.49
+  customers:0.48
+  cards:0.40
+  contact:0.36
+  wiki:0.33
+  guys:0.25
+  post:0.25
+  wanted:0.25
+  people:0.22
+  established:0.22
+
+Topic 1:
+  guys:0.42
+  post:0.42
+  cards:0.41
+  wanted:0.41
+  fungi:0.31
+  customers:0.31
+  wiki:0.29
+  contact:0.28
+  solja:0.21
+  hidden:0.21
+
+Topic 2:
+  post:0.50
+  wanted:0.50
+  guys:0.50
+  cards:0.41
+  wiki:0.28
+  customers:0.26
+  fungi:0.26
+  contact:0.25
+  vendor:0.23
+  message:0.23
+
+Topic 3:
+  cards:0.42
+  wanted:0.38
+  guys:0.38
+  post:0.38
+  customers:0.33
+  fungi:0.33
+  wiki:0.30
+  contact:0.29
+  solja:0.21
+  house:0.21
+
+Topic 4:
+  customers:0.44
+  fungi:0.44
+  cards:0.40
+  contact:0.34
+  wiki:0.32
+  post:0.28
+  wanted:0.28
+  guys:0.28
+  people:0.22
+  green:0.21
+
+K: 5, Log-Likelihood: -302.576, Alpha: 11.000, Beta: 1.100

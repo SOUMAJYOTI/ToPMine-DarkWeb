@@ -1,0 +1,61 @@
+Topic 0:
+  main:15.89
+  couple:7.92
+  vendors:7.06
+  market:5.22
+  big fast:4.04
+  policy:3.94
+  system:3.94
+  google:3.94
+  times:3.94
+  find:3.94
+
+Topic 1:
+  ages:6.40
+  days:6.40
+  sr forum:4.64
+  bug:4.44
+  suffering:3.91
+  idiots:3.91
+  listings:3.91
+  drug:3.91
+  signed:3.91
+  free:3.91
+
+Topic 2:
+  talent:4.77
+  testers:4.70
+  paying:4.37
+  forum:4.37
+  site:3.93
+  northwest:2.51
+  nuggets:2.51
+  price:2.37
+  independent:2.37
+  feed:2.37
+
+Topic 3:
+  today:5.92
+  secure:4.01
+  working:3.92
+  long:3.92
+  links:3.92
+  impressed:3.92
+  hard:3.92
+  evolution:3.92
+  speak:3.92
+  liking:3.92
+
+Topic 4:
+  rush sr future interests:4.93
+  adopting mufti signature wallets:4.93
+  markets sr implementing:4.93
+  push removing inside escrow:4.93
+  week:4.74
+  fanboys:4.74
+  gamesome admin awesome fail:4.56
+  tor bazaar black betting:4.54
+  carlos:3.91
+  lopez:3.91
+
+K: 5, Log-Likelihood: -5615.292, Alpha: 11.000, Beta: 1.100

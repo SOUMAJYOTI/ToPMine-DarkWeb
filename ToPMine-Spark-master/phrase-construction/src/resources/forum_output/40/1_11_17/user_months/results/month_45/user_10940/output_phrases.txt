@@ -1,0 +1,61 @@
+Topic 0:
+  teach:4.77
+  heard:4.35
+  thing:3.74
+  block:3.55
+  good idea:3.55
+  usa:3.55
+  based exit:3.55
+  zaphod:2.75
+  visibility:2.39
+  troubleshiooting:2.39
+
+Topic 1:
+  disk:11.24
+  machine:8.99
+  machines:6.74
+  strange:6.74
+  windows:4.49
+  drive:4.49
+  hang:4.49
+  monitor:4.49
+  rootkit:4.49
+  smaller:4.49
+
+Topic 2:
+  time:11.04
+  throwing file:7.35
+  phones download:7.35
+  error:5.55
+  linux:4.37
+  download:4.23
+  sucked:3.66
+  serve:3.66
+  clicking:3.66
+  leaned:3.66
+
+Topic 3:
+  exit node:6.90
+  malware:6.82
+  computer:5.49
+  browser:5.49
+  compromise tor:4.47
+  stage:4.47
+  service:4.47
+  hidden:3.90
+  sites:3.80
+  request:3.66
+
+Topic 4:
+  tsc:6.36
+  mother:5.37
+  doesnt:4.48
+  backdoors:4.48
+  attacks:4.48
+  special:4.48
+  nasty:4.48
+  good:4.48
+  judge:4.48
+  original:3.60
+
+K: 5, Log-Likelihood: -8365.295, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  people:0.95
+  thread:0.71
+  trip reports:0.56
+  video games:0.39
+  community:0.39
+  ect:0.39
+  things:0.39
+  communicate:0.39
+  bit create:0.22
+  substances:0.22
+
+Topic 1:
+  people:1.08
+  thread:0.80
+  trip reports:0.64
+  community:0.42
+  things:0.42
+  video games:0.42
+  ect:0.41
+  communicate:0.41
+  bit organised:0.21
+  tools:0.21
+
+Topic 2:
+  people:0.93
+  thread:0.82
+  trip reports:0.63
+  communicate:0.42
+  community:0.41
+  video games:0.41
+  things:0.41
+  ect:0.41
+  admins:0.20
+  describe:0.20
+
+Topic 3:
+  people:0.98
+  thread:0.84
+  trip reports:0.60
+  ect:0.41
+  video games:0.41
+  communicate:0.41
+  things:0.41
+  community:0.41
+  type:0.20
+  post:0.20
+
+Topic 4:
+  people:1.16
+  thread:0.92
+  trip reports:0.63
+  communicate:0.42
+  things:0.42
+  ect:0.42
+  community:0.42
+  video games:0.42
+  lsd:0.21
+  majestic:0.21
+
+K: 5, Log-Likelihood: -383.724, Alpha: 11.000, Beta: 1.100

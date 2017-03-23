@@ -1,0 +1,61 @@
+Topic 0:
+  flax:0.98
+  flax testosterone:0.31
+  weight loss:0.23
+  flax generic:0.23
+  anti estrogen:0.23
+  tablets:0.23
+  size pill:0.23
+  agora:0.18
+  testosterone:0.16
+  fast:0.16
+
+Topic 1:
+  flax:1.41
+  flax testosterone:0.32
+  tablets:0.24
+  size pill:0.24
+  anti estrogen:0.24
+  flax generic:0.24
+  weight loss:0.24
+  agora:0.17
+  blend:0.16
+  primobolan:0.16
+
+Topic 2:
+  flax:2.60
+  flax testosterone:0.35
+  size pill:0.26
+  flax generic:0.26
+  weight loss:0.26
+  tablets:0.26
+  anti estrogen:0.26
+  propionate:0.17
+  cycle flax:0.17
+  aromatize gyno:0.17
+
+Topic 3:
+  flax:1.88
+  flax testosterone:0.33
+  anti estrogen:0.25
+  weight loss:0.25
+  tablets:0.25
+  size pill:0.25
+  flax generic:0.25
+  cutting:0.16
+  fast:0.16
+  time:0.16
+
+Topic 4:
+  flax:1.24
+  flax testosterone:0.32
+  flax generic:0.24
+  tablets:0.24
+  anti estrogen:0.24
+  weight loss:0.24
+  size pill:0.24
+  agora:0.17
+  blend:0.16
+  clenbuterol:0.16
+
+K: 5, Log-Likelihood: -372.076, Alpha: 11.000, Beta: 1.100

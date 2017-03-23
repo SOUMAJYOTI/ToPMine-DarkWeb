@@ -1,0 +1,61 @@
+Topic 0:
+  latest version:5.83
+  tails:2.86
+  update:2.85
+  tails update:1.79
+  zaphod:1.79
+  pmis:1.79
+  released:1.79
+  pink:1.79
+  implemented:1.77
+  thunk:1.77
+
+Topic 1:
+  project itom:11.63
+  government:9.69
+  silk road:9.69
+  deep web:9.69
+  online marketplaces:9.69
+  document:7.74
+  marketplaces:7.74
+  illegal online:5.79
+  dutch om:5.79
+  trade:5.79
+
+Topic 2:
+  tor browser:13.79
+  release:7.62
+  bug:5.78
+  plate:3.83
+  tor:3.27
+  tbb tbb:3.01
+  firefox:3.01
+  features:3.01
+  updates:3.01
+  series:3.01
+
+Topic 3:
+  people:6.07
+  tor bitcoin:4.54
+  economy good:4.54
+  solution:2.99
+  start:2.99
+  ban:2.99
+  day:2.99
+  safer:2.99
+  move:2.99
+  invest:2.99
+
+Topic 4:
+  bitcoins:4.91
+  problems:4.43
+  anon:3.84
+  ways:3.84
+  harder:3.84
+  low:3.67
+  fruit:3.67
+  hanging:3.67
+  money:2.92
+  easy:2.76
+
+K: 5, Log-Likelihood: -5193.166, Alpha: 11.000, Beta: 1.100

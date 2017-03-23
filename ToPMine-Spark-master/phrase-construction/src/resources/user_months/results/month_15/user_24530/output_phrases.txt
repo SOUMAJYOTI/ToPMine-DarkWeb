@@ -1,0 +1,61 @@
+Topic 0:
+  forum clock:5.52
+  july:4.68
+  time:4.22
+  est:4.21
+  profile:3.72
+  quote sillywabbit:2.76
+  mods:2.61
+  north:2.61
+  account:2.60
+  naggin:2.60
+
+Topic 1:
+  remember:5.78
+  man:3.83
+  life:3.83
+  stick:3.83
+  worth:3.83
+  lsd:3.83
+  keeping:2.24
+  pop:1.89
+  touch:1.89
+  online:1.89
+
+Topic 2:
+  timezone:3.77
+  hand:1.86
+  annoying:1.82
+  incorrect:1.82
+  ocd:1.82
+  point:1.82
+  anonymity:1.82
+  super:1.82
+  accurate:1.82
+  valuable:1.82
+
+Topic 3:
+  brother:3.82
+  healing love:3.82
+  healing:3.68
+  ootp:3.51
+  evening:2.55
+  suggesting:2.55
+  sunday:2.55
+  pm:2.55
+  prayers:1.95
+  cancer:1.88
+
+Topic 4:
+  love:3.70
+  positive:2.85
+  vibes:2.84
+  havent:1.78
+  loop:1.78
+  namast:1.78
+  lot:1.78
+  nice:1.78
+  idea:1.77
+  youve:1.68
+
+K: 5, Log-Likelihood: -1931.074, Alpha: 11.000, Beta: 1.100

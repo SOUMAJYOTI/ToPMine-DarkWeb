@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:4.08
+  pip:1.27
+  people:1.02
+  public:0.97
+  address:0.95
+  message:0.94
+  key:0.86
+  reminder:0.85
+  good:0.83
+  pmif:0.73
+
+Topic 1:
+  pgp:13.42
+  key:9.95
+  message:9.53
+  public:9.35
+  vl:4.55
+  md:4.50
+  block:4.45
+  tj:4.45
+  el:4.41
+  forget:4.39
+
+Topic 2:
+  pgp:6.72
+  public:1.55
+  message:1.39
+  pip:1.38
+  address:1.23
+  pt:1.11
+  ao:1.08
+  key:1.07
+  os:1.06
+  people:1.06
+
+Topic 3:
+  pgp:11.61
+  send:9.86
+  orders:8.75
+  order:7.87
+  website:7.81
+  drop:5.93
+  quote:5.89
+  pmif:5.88
+  orderofthephoenix:5.88
+  sounds:5.84
+
+Topic 4:
+  pgp:2.17
+  people:0.78
+  reminder:0.63
+  good:0.63
+  ootp:0.61
+  trumps:0.61
+  sense:0.61
+  forgetfulness:0.61
+  common:0.61
+  laziness:0.61
+
+K: 5, Log-Likelihood: -11025.169, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  multi:0.20
+  java:0.20
+  running:0.20
+  flash:0.20
+  safest:0.20
+  disk:0.20
+  scripts:0.20
+  torcurrently:0.20
+  forbidden:0.20
+  layer:0.20
+
+Topic 1:
+  layer:0.20
+  scripts:0.20
+  safest:0.20
+  flash:0.20
+  running:0.20
+  multi:0.20
+  forbidden:0.20
+  java:0.20
+  torcurrently:0.20
+  disk:0.20
+
+Topic 2:
+  encryption:0.20
+  running:0.20
+  flash:0.20
+  disk:0.20
+  options:0.20
+  scripts:0.20
+  torcurrently:0.20
+  safest:0.20
+  forbidden:0.20
+  multi:0.20
+
+Topic 3:
+  forbidden:0.20
+  encryption:0.20
+  java:0.20
+  torcurrently:0.20
+  layer:0.20
+  options:0.20
+  multi:0.20
+  safest:0.20
+  disk:0.20
+  scripts:0.20
+
+Topic 4:
+  options:0.20
+  disk:0.20
+  layer:0.20
+  torcurrently:0.20
+  safest:0.20
+  scripts:0.20
+  multi:0.20
+  forbidden:0.20
+  java:0.20
+  running:0.20
+
+K: 5, Log-Likelihood: -29.819, Alpha: 11.000, Beta: 1.100

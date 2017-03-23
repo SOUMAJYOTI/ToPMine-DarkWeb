@@ -1,0 +1,61 @@
+Topic 0:
+  profile:1.21
+  kb:0.81
+  file:0.40
+  jpg:0.40
+  understand:0.40
+  wrong:0.40
+  capable:0.40
+  upload:0.40
+  small:0.40
+  tells:0.40
+
+Topic 1:
+  profile:1.18
+  kb:0.83
+  tmg:0.40
+  jpg:0.40
+  appreciated:0.40
+  file:0.40
+  image:0.40
+  understand:0.40
+  large:0.40
+  tells:0.40
+
+Topic 2:
+  profile:1.22
+  kb:0.78
+  capable:0.40
+  avatar:0.40
+  wrong:0.40
+  upload:0.40
+  large:0.40
+  tells:0.40
+  understand:0.40
+  small:0.40
+
+Topic 3:
+  profile:1.16
+  kb:0.81
+  upload:0.40
+  avatar:0.40
+  tmg:0.40
+  appreciated:0.40
+  jpg:0.40
+  wrong:0.40
+  file:0.40
+  capable:0.40
+
+Topic 4:
+  profile:1.24
+  kb:0.77
+  large:0.40
+  image:0.40
+  decided:0.40
+  small:0.40
+  tells:0.40
+  appreciated:0.40
+  avatar:0.40
+  wrong:0.40
+
+K: 5, Log-Likelihood: -111.959, Alpha: 11.000, Beta: 1.100

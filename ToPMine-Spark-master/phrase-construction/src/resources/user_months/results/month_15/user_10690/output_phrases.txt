@@ -1,0 +1,61 @@
+Topic 0:
+  recipient isnt display prominently:0.76
+  read delete reply pseudonym:0.75
+  friend:0.75
+  mail interface access click:0.72
+  message:0.69
+  ill:0.60
+  quote:0.59
+  messages:0.55
+  prouter:0.55
+  clarify:0.55
+
+Topic 1:
+  appears:0.58
+  hope:0.57
+  ill:0.56
+  list:0.56
+  edit:0.56
+  top:0.56
+  person reply:0.56
+  honestly:0.56
+  confusion:0.56
+  market:0.55
+
+Topic 2:
+  determine message:2.60
+  question:1.22
+  pmthe:1.22
+  understand:1.22
+  dont:1.22
+  clarify:1.21
+  bit:1.21
+  prouter:1.20
+  highlight:1.09
+  pmquote:1.09
+
+Topic 3:
+  ill:0.88
+  wikis:0.57
+  publishing:0.57
+  link:0.57
+  avoid:0.57
+  impertinent:0.57
+  stale:0.57
+  offer:0.56
+  article:0.56
+  order:0.56
+
+Topic 4:
+  problem:2.90
+  reply:1.32
+  find:1.31
+  received:1.31
+  receive:1.31
+  message click:1.31
+  work:1.31
+  understood:1.31
+  linux:1.31
+  compose:1.31
+
+K: 5, Log-Likelihood: -614.442, Alpha: 11.000, Beta: 1.100

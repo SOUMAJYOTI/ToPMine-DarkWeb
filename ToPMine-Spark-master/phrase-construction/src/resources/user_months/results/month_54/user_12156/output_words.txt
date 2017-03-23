@@ -1,0 +1,61 @@
+Topic 0:
+  security:0.40
+  people:0.40
+  current:0.20
+  concerns:0.20
+  tors:0.20
+  tor:0.20
+  lb:0.20
+  genuinely:0.20
+  clearnet:0.20
+  encourage:0.20
+
+Topic 1:
+  people:0.40
+  security:0.40
+  clearnet:0.20
+  tor:0.20
+  login:0.20
+  connect:0.20
+  encourage:0.20
+  compromising:0.20
+  current:0.20
+  genuinely:0.20
+
+Topic 2:
+  security:0.40
+  people:0.40
+  genuinely:0.20
+  thinking:0.20
+  tor:0.20
+  notice:0.20
+  lb:0.20
+  compromising:0.20
+  encourage:0.20
+  connect:0.20
+
+Topic 3:
+  security:0.40
+  people:0.40
+  lb:0.20
+  login:0.20
+  thinking:0.20
+  compromising:0.20
+  notice:0.20
+  connect:0.20
+  tors:0.20
+  current:0.20
+
+Topic 4:
+  people:0.40
+  security:0.40
+  notice:0.20
+  clearnet:0.20
+  genuinely:0.20
+  concerns:0.20
+  tors:0.20
+  thinking:0.20
+  login:0.20
+  encourage:0.20
+
+K: 5, Log-Likelihood: -45.441, Alpha: 11.000, Beta: 1.100

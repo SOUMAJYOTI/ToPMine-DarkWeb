@@ -1,0 +1,61 @@
+Topic 0:
+  encrypted bit asa key:7.35
+  la buena mierda gpg:5.70
+  packet version algo keyid:5.56
+  ab created el presidente:5.29
+  secret key:5.24
+  data bits:3.88
+  decryption:3.72
+  session key:3.54
+  pip message:3.46
+  pgp message:3.35
+
+Topic 1:
+  meerkovo:5.65
+  decrypt message:5.33
+  private key public key:5.15
+  master:4.82
+  luck:4.80
+  snicker:4.68
+  private key:4.46
+  manually:4.07
+  guys:4.07
+  needed:4.07
+
+Topic 2:
+  key:6.58
+  march:6.20
+  withdrawal:5.98
+  quote:5.39
+  support:5.00
+  agora pandora:4.93
+  forums:4.93
+  trust:4.93
+  growth:4.91
+  pointless:4.91
+
+Topic 3:
+  encrypted data packet:4.38
+  session key:3.90
+  data bits:3.56
+  password:2.79
+  encrypted bit asa key:2.57
+  method:2.54
+  token:2.53
+  om:2.39
+  kvaq:2.38
+  public key:2.37
+
+Topic 4:
+  addition:4.04
+  pgp:4.04
+  xlongkeyidhere:2.45
+  written:2.45
+  encrypted key:2.45
+  hidden:2.45
+  automatically:2.45
+  file:2.45
+  conf:2.45
+  messages read:2.45
+
+K: 5, Log-Likelihood: -11768.948, Alpha: 11.000, Beta: 1.100

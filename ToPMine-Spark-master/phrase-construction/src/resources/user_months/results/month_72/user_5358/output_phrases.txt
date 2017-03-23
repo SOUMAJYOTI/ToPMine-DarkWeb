@@ -1,0 +1,56 @@
+Topic 0:
+  times:0.00
+  spamming:0.00
+  post:0.00
+  cool:0.00
+  crashers:0.00
+  links:0.00
+  garden:0.00
+  thing:0.00
+  dont:0.00
+
+Topic 1:
+  times:0.00
+  spamming:0.00
+  post:0.00
+  cool:0.00
+  crashers:0.00
+  links:0.00
+  garden:0.00
+  thing:0.00
+  dont:0.00
+
+Topic 2:
+  times:0.00
+  spamming:0.00
+  post:0.00
+  cool:0.00
+  crashers:0.00
+  links:0.00
+  garden:0.00
+  thing:0.00
+  dont:0.00
+
+Topic 3:
+  times:0.00
+  spamming:0.00
+  post:0.00
+  cool:0.00
+  crashers:0.00
+  links:0.00
+  garden:0.00
+  thing:0.00
+  dont:0.00
+
+Topic 4:
+  times:0.00
+  spamming:0.00
+  post:0.00
+  cool:0.00
+  crashers:0.00
+  links:0.00
+  garden:0.00
+  thing:0.00
+  dont:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

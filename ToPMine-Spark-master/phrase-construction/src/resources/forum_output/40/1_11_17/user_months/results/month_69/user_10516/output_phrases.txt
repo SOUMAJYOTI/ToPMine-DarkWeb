@@ -1,0 +1,61 @@
+Topic 0:
+  technologies:11.08
+  intel:7.03
+  systems:6.47
+  devices:6.17
+  boot security:5.53
+  sandboxing:5.53
+  designed:5.53
+  depressing:5.53
+  sadly:5.53
+  support:5.53
+
+Topic 1:
+  red hat:11.08
+  talk:10.19
+  hosting:8.31
+  encryption:8.31
+  linux:7.23
+  systems:5.98
+  assange:5.86
+  result:5.54
+  address:5.54
+  cypherpunk:5.54
+
+Topic 2:
+  december:9.36
+  quote flashy:8.25
+  package:8.23
+  packages:8.17
+  offer:7.33
+  nasty:7.33
+  zaphod:7.12
+  theo de:7.00
+  win:7.00
+  bit:6.20
+
+Topic 3:
+  free software:11.06
+  freedom freedom:11.06
+  ensure:9.45
+  freedom:8.29
+  program:8.29
+  open source:6.21
+  governments:6.21
+  tor:6.21
+  enemy:5.52
+  donates:4.71
+
+Topic 4:
+  ram:9.44
+  trigger:9.44
+  tails:7.42
+  bracelet:7.08
+  patch:7.05
+  january:6.87
+  quote:6.52
+  system prefer ram:6.18
+  swap encrypted:6.18
+  soliciting advice luck peace:6.18
+
+K: 5, Log-Likelihood: -20728.486, Alpha: 11.000, Beta: 1.100

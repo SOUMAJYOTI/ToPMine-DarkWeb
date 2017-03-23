@@ -1,0 +1,61 @@
+Topic 0:
+  email:1.55
+  claws:1.48
+  contact:1.28
+  mail:1.25
+  stick:0.87
+  direct:0.85
+  good:0.85
+  hell:0.84
+  guide:0.84
+  noon:0.84
+
+Topic 1:
+  email:1.85
+  claws:1.49
+  mail:1.26
+  contact:1.04
+  noon:0.83
+  pgp:0.81
+  good:0.80
+  client:0.79
+  question:0.78
+  direct:0.78
+
+Topic 2:
+  email:1.61
+  claws:1.48
+  mail:1.34
+  contact:1.28
+  hell:0.88
+  question:0.88
+  working:0.88
+  guide:0.87
+  good:0.85
+  direct:0.85
+
+Topic 3:
+  claws:1.89
+  email:1.56
+  contact:1.21
+  mail:1.09
+  client:0.83
+  pgp:0.81
+  working:0.78
+  stick:0.77
+  noon:0.77
+  hell:0.77
+
+Topic 4:
+  claws:1.67
+  email:1.44
+  contact:1.18
+  mail:1.06
+  pgp:0.87
+  stick:0.79
+  question:0.78
+  noon:0.78
+  hell:0.77
+  guide:0.76
+
+K: 5, Log-Likelihood: -416.448, Alpha: 11.000, Beta: 1.100

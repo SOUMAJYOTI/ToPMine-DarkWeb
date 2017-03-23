@@ -1,0 +1,61 @@
+Topic 0:
+  meid:0.00
+  ll:0.00
+  ensimm:0.00
+  antavan:0.00
+  ist:0.00
+  jonkinlaista:0.00
+  norm:0.00
+  saa:0.00
+  music:0.00
+  kaikista:0.00
+
+Topic 1:
+  meid:0.00
+  ll:0.00
+  ensimm:0.00
+  antavan:0.00
+  ist:0.00
+  jonkinlaista:0.00
+  norm:0.00
+  saa:0.00
+  music:0.00
+  kaikista:0.00
+
+Topic 2:
+  meid:0.00
+  ll:0.00
+  ensimm:0.00
+  antavan:0.00
+  ist:0.00
+  jonkinlaista:0.00
+  norm:0.00
+  saa:0.00
+  music:0.00
+  kaikista:0.00
+
+Topic 3:
+  meid:0.00
+  ll:0.00
+  ensimm:0.00
+  antavan:0.00
+  ist:0.00
+  jonkinlaista:0.00
+  norm:0.00
+  saa:0.00
+  music:0.00
+  kaikista:0.00
+
+Topic 4:
+  meid:0.00
+  ll:0.00
+  ensimm:0.00
+  antavan:0.00
+  ist:0.00
+  jonkinlaista:0.00
+  norm:0.00
+  saa:0.00
+  music:0.00
+  kaikista:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

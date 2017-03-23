@@ -1,0 +1,61 @@
+Topic 0:
+  works:3.92
+  bits:2.20
+  trusted:2.15
+  sr:1.93
+  forum:1.93
+  lyric:1.93
+  phrase:1.93
+  brute:1.93
+  wipe:1.93
+  friends:1.93
+
+Topic 1:
+  key:29.43
+  pip:11.09
+  message:4.57
+  block:3.92
+  winpt:3.92
+  cf:3.92
+  privacy:3.92
+  signature:3.92
+  toolscomment:3.92
+  version:3.92
+
+Topic 2:
+  february:9.46
+  enigmaticsmile:7.03
+  deal:5.29
+  real:5.09
+  dont:4.56
+  smart:3.42
+  quote:3.38
+  fellow:3.32
+  fancy:3.31
+  true:3.29
+
+Topic 3:
+  pgp:14.14
+  key:9.34
+  sr:7.41
+  vendors:4.53
+  signing:4.29
+  message:4.16
+  hard:3.98
+  sandra:3.92
+  bob:3.92
+  saved:3.92
+
+Topic 4:
+  messages:5.08
+  deniability:5.01
+  fan:4.99
+  send:4.94
+  plausible:4.92
+  trend:4.80
+  encrypted:4.79
+  wrapping:4.78
+  big:4.77
+  signing:4.72
+
+K: 5, Log-Likelihood: -3462.031, Alpha: 11.000, Beta: 1.100

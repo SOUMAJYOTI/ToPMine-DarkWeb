@@ -1,0 +1,61 @@
+Topic 0:
+  master public key:11.79
+  client:4.92
+  coins:4.73
+  request:4.54
+  armory electrum:3.93
+  problem:3.83
+  child:3.82
+  big wallet:3.82
+  watch:3.82
+  pubilc:3.82
+
+Topic 1:
+  armory secure:3.89
+  wallets secure:3.89
+  oil:3.89
+  thumbdrive:3.89
+  chances:3.89
+  access internet:3.89
+  backup coins:3.89
+  hacked:3.41
+  office:3.23
+  alfred:3.12
+
+Topic 2:
+  paper:5.53
+  beats paper wallets:4.78
+  private key:4.60
+  wallet transfer funds public:4.00
+  bitaddress orgdownload computer:3.99
+  store paper wallet safe:3.99
+  blockchain info waiting spend:3.99
+  disconnect internet script generate:3.99
+  address ready spend import:3.98
+  cold storage:3.21
+
+Topic 3:
+  flash drive:6.82
+  putting:4.59
+  alfie:4.53
+  flash:3.85
+  firgured:3.85
+  cheepest:3.85
+  figure:3.85
+  easyest:3.85
+  reuse:3.85
+  isnt:3.85
+
+Topic 4:
+  office wallet:19.14
+  bitcoin:13.96
+  cold storage:13.88
+  signed transaction:9.55
+  computer:7.21
+  bitcoin cold storage:7.15
+  online wallet:7.15
+  office computer:7.15
+  online watching wallet:7.15
+  private keys:5.85
+
+K: 5, Log-Likelihood: -5320.173, Alpha: 11.000, Beta: 1.100

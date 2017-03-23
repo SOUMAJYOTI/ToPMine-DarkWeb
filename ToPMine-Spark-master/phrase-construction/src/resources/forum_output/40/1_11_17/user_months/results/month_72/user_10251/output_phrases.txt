@@ -1,0 +1,61 @@
+Topic 0:
+  order lucy:1.79
+  email:1.59
+  time:1.29
+  good:1.22
+  wednesday coins:0.99
+  bye:0.88
+  felicia:0.87
+  good vendor:0.85
+  wax:0.77
+  active:0.76
+
+Topic 1:
+  law:3.81
+  reestablish:2.93
+  connection:2.93
+  sign:2.93
+  unknown:2.93
+  ill:2.93
+  reasons:2.93
+  advised:2.93
+  banned tmg:2.93
+  move forum:2.93
+
+Topic 2:
+  counts seizure:7.31
+  package:5.37
+  tmg:3.49
+  seizures:3.41
+  good:2.31
+  turned:1.67
+  replay:1.67
+  decided:1.67
+  love:1.67
+  patrons:1.67
+
+Topic 3:
+  worth:4.48
+  vendors:3.08
+  people:2.92
+  discuss:2.92
+  lucy cult:2.92
+  reputation:2.92
+  reporting:2.92
+  contacting:2.92
+  issue:2.92
+  record:2.92
+
+Topic 4:
+  lucy:3.84
+  sorted:2.91
+  order:2.91
+  days:2.91
+  week:2.91
+  normal:2.91
+  asap:2.91
+  good hear:2.91
+  check:2.91
+  mails:2.91
+
+K: 5, Log-Likelihood: -2299.624, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  april:0.59
+  fa:0.40
+  quote:0.40
+  boneskoopa:0.40
+  money:0.20
+  freedom:0.20
+  shut:0.20
+  sose:0.20
+  dnms:0.20
+  kasier:0.20
+
+Topic 1:
+  april:0.61
+  quote:0.40
+  fa:0.40
+  boneskoopa:0.40
+  network:0.20
+  yeah:0.20
+  tor:0.20
+  access:0.20
+  evolution:0.20
+  amquote:0.20
+
+Topic 2:
+  april:0.61
+  fa:0.40
+  quote:0.40
+  boneskoopa:0.40
+  chat:0.20
+  amquote:0.20
+  security:0.20
+  running:0.20
+  access:0.20
+  completely:0.20
+
+Topic 3:
+  april:0.59
+  boneskoopa:0.41
+  fa:0.40
+  quote:0.40
+  chat:0.20
+  completely:0.20
+  fall:0.20
+  yeah:0.20
+  access:0.20
+  device:0.20
+
+Topic 4:
+  april:0.60
+  boneskoopa:0.40
+  quote:0.40
+  fa:0.40
+  matter:0.20
+  dnms:0.20
+  sose:0.20
+  kasier:0.20
+  freedom:0.20
+  shut:0.20
+
+K: 5, Log-Likelihood: -90.328, Alpha: 11.000, Beta: 1.100

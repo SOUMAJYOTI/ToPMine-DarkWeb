@@ -1,0 +1,61 @@
+Topic 0:
+  miun:3.69
+  tulliin:3.69
+  varmaan:3.69
+  eli:3.65
+  sitten:2.86
+  kun:2.86
+  tai:2.86
+  tullut:2.86
+  siin:2.81
+  mutta:1.97
+
+Topic 1:
+  ja:4.77
+  kirjeess:3.71
+  ett:3.52
+  oli:2.70
+  elk:2.24
+  tilannut:2.24
+  tullivirkailija:1.84
+  mennyt:1.84
+  jakelukeskuksesta:1.84
+  eteenp:1.84
+
+Topic 2:
+  olla:3.00
+  quote:2.84
+  ll st:2.79
+  tullista:2.79
+  ett tilasin:2.79
+  onneksi:2.79
+  ep:2.79
+  yhteydenottopyynt:2.79
+  pienin:2.79
+  ilty:2.79
+
+Topic 3:
+  jos:4.04
+  oo:2.87
+  isommissa:1.82
+  riss:1.82
+  ihmeelisemp:1.82
+  kotietsinn:1.82
+  koko:1.82
+  vaa:1.82
+  tuu:1.82
+  sen:1.82
+
+Topic 4:
+  puheluun:3.67
+  mut:3.67
+  oli jo:3.67
+  ku:3.67
+  tullin:3.00
+  vitun:2.86
+  noin:2.79
+  kokemusta:2.23
+  ja:1.84
+  usk:1.80
+
+K: 5, Log-Likelihood: -4144.290, Alpha: 11.000, Beta: 1.100

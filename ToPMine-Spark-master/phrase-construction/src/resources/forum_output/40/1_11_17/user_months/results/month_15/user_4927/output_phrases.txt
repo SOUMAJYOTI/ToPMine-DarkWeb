@@ -1,0 +1,61 @@
+Topic 0:
+  users:1.90
+  nsa:1.80
+  tor:1.10
+  united states:1.04
+  source code:0.90
+  tor network:0.82
+  privacy:0.77
+  ip address:0.77
+  xkeyscore rules:0.75
+  email:0.69
+
+Topic 1:
+  users:2.67
+  nsa:2.23
+  tor:1.81
+  tor network:1.52
+  privacy:1.27
+  source code:1.17
+  united states:1.05
+  xkeyscore rules:0.97
+  ip address:0.94
+  email:0.93
+
+Topic 2:
+  tor:2.81
+  nsa:1.76
+  users:1.32
+  privacy:1.03
+  united states:1.00
+  tor network:0.99
+  source code:0.97
+  xkeyscore rules:0.86
+  ip address:0.84
+  email:0.77
+
+Topic 3:
+  nsa:2.00
+  tor:1.09
+  users:1.08
+  tor network:1.05
+  privacy:0.93
+  united states:0.91
+  source code:0.87
+  ip address:0.78
+  xkeyscore rules:0.73
+  email:0.71
+
+Topic 4:
+  tor:2.88
+  users:1.35
+  nsa:1.23
+  tor network:1.16
+  email:1.06
+  source code:0.94
+  xkeyscore rules:0.86
+  united states:0.85
+  privacy:0.85
+  ip address:0.83
+
+K: 5, Log-Likelihood: -5308.089, Alpha: 11.000, Beta: 1.100

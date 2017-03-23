@@ -1,0 +1,61 @@
+Topic 0:
+  pip public key block:5.52
+  message:5.35
+  public key:4.23
+  key:3.56
+  vending:3.56
+  vendor:3.56
+  login:3.56
+  pair:3.56
+  long:3.56
+  whaisuu:2.75
+
+Topic 1:
+  size:3.55
+  kb:3.55
+  maximum:3.55
+  public key:2.89
+  passwords:2.73
+  problem:2.73
+  current:2.73
+  attachments:1.76
+  users:1.76
+  staff:1.76
+
+Topic 2:
+  zg:3.57
+  zj:3.57
+  rgqjvtjphc:1.78
+  ooq:1.78
+  fhcgthqf:1.78
+  vbxs:1.78
+  afospqhp:1.78
+  csl:1.78
+  dh:1.78
+  zri:1.78
+
+Topic 3:
+  mt:5.52
+  private key:5.35
+  quote login:3.56
+  pip:3.56
+  error:3.56
+  youve:2.85
+  iajtetvaspoxc:2.75
+  ztfeujnb:2.75
+  firbktwtrqdfdavu:2.75
+  efn:2.75
+
+Topic 4:
+  vw:3.30
+  wxx:2.75
+  nbyllsnl:2.75
+  kymgpdzlfbq:2.75
+  crjaoj:2.75
+  ubxaxe:2.75
+  zkf:2.75
+  frkxql:2.75
+  robgn:2.75
+  aitlltvb:2.75
+
+K: 5, Log-Likelihood: -14948.736, Alpha: 11.000, Beta: 1.100

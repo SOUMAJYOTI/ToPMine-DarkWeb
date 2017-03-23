@@ -1,0 +1,61 @@
+Topic 0:
+  st:1.98
+  smitten:1.96
+  ja:1.24
+  haha:0.91
+  kiitt:0.91
+  nettihuumekauppoja:0.91
+  lectern:0.91
+  varmaan:0.91
+  taitaa:0.91
+  arvoiseen:0.91
+
+Topic 1:
+  ytt ji:3.17
+  tor:2.08
+  verkon:2.07
+  sivuston:2.07
+  silkkitie:2.07
+  verkossa:0.98
+  olla:0.98
+  vuoksi:0.98
+  lapsi:0.98
+  kanssa:0.98
+
+Topic 2:
+  ymm:0.46
+  rr:0.33
+  paikkojen:0.33
+  annettiin:0.33
+  tehostaa:0.33
+  miksi:0.33
+  vaan:0.33
+  valvontaa:0.33
+  saa:0.33
+  paikat:0.33
+
+Topic 3:
+  arvostan:0.81
+  teette:0.81
+  aatteelliseksi:0.81
+  luvah:0.81
+  isiv:0.81
+  quote:0.81
+  jos:0.81
+  kuulemma:0.81
+  suomalaiselle:0.81
+  ksi:0.81
+
+Topic 4:
+  ett:1.30
+  usk:0.91
+  tyk:0.91
+  poliiseilla:0.91
+  kiinnosta:0.91
+  asiat:0.91
+  yksi:0.91
+  postin:0.91
+  itellakaan:0.91
+  mihin:0.91
+
+K: 5, Log-Likelihood: -1225.513, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:2.71
+  idea:1.67
+  market:1.67
+  blockchain:1.67
+  feedback:1.67
+  sound:1.67
+  electrum servers:1.67
+  relies:1.67
+  site:0.99
+  bitcoin qt bitcoind:0.84
+
+Topic 1:
+  key:0.65
+  site:0.64
+  transactions:0.52
+  electrum:0.52
+  code:0.49
+  address:0.44
+  users:0.43
+  electrum mpk:0.30
+  multisignature transactions:0.30
+  vendor:0.30
+
+Topic 2:
+  electrum:0.65
+  site:0.63
+  key:0.49
+  transactions:0.42
+  users:0.38
+  ill:0.32
+  check:0.32
+  subbed:0.32
+  interesting:0.32
+  multisignature transactions:0.31
+
+Topic 3:
+  transaction paying:2.21
+  order:2.21
+  amount:2.19
+  vendor:2.18
+  key:1.93
+  code:1.76
+  extended public:1.34
+  sign transaction:1.34
+  broadcast:1.34
+  time:1.34
+
+Topic 4:
+  electrum:0.68
+  site:0.55
+  key:0.51
+  transactions:0.43
+  users:0.39
+  code:0.31
+  address:0.30
+  electrum mpk:0.30
+  multisignature transactions:0.30
+  interesting:0.30
+
+K: 5, Log-Likelihood: -1915.274, Alpha: 11.000, Beta: 1.100

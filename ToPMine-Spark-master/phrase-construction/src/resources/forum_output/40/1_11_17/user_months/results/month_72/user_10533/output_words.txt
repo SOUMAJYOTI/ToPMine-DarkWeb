@@ -1,0 +1,61 @@
+Topic 0:
+  tor:6.57
+  mac:5.97
+  vpn:5.89
+  spoofing:3.86
+  seedofchaos:3.65
+  quote:3.22
+  good:2.88
+  cracked:2.84
+  doesnt:2.84
+  idea:2.84
+
+Topic 1:
+  talking:5.42
+  pretty:3.23
+  dont:3.22
+  networks:2.75
+  network:2.67
+  wifis:2.38
+  activity:2.29
+  work:2.27
+  tor:2.07
+  time:2.02
+
+Topic 2:
+  january:4.24
+  lot:2.59
+  tables:2.47
+  hetty:2.46
+  rainbow:2.39
+  sounds:2.36
+  dedicated:2.33
+  reputation:2.27
+  serve:2.04
+  gb:2.03
+
+Topic 3:
+  ur:2.93
+  air:2.93
+  safe:2.38
+  public:2.08
+  tha:1.94
+  gap:1.94
+  wifi:1.69
+  random:1.69
+  tor:1.16
+  real:0.98
+
+Topic 4:
+  january:3.49
+  work:2.97
+  quote:2.25
+  lot:2.23
+  time:2.08
+  hide:1.74
+  dedicated:1.49
+  sounds:1.46
+  rainbow:1.43
+  hetty:1.36
+
+K: 5, Log-Likelihood: -2870.922, Alpha: 11.000, Beta: 1.100

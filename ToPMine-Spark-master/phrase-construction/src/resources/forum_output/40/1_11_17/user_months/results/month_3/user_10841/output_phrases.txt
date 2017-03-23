@@ -1,0 +1,61 @@
+Topic 0:
+  people:4.46
+  disabled:3.83
+  scripts tor:3.83
+  viewing:3.83
+  redundant:3.83
+  legitimate:3.83
+  vulnerabilities:3.83
+  cookies time:3.83
+  fine:3.83
+  enabled javascript:3.83
+
+Topic 1:
+  tor bundle:8.95
+  vulnerability:7.03
+  upgrade:4.68
+  version:4.68
+  period:4.68
+  execution:4.68
+  attack:4.68
+  ensure:4.68
+  windows:4.68
+  topic:4.68
+
+Topic 2:
+  check:9.36
+  javascript:7.68
+  preferences:7.17
+  february:5.98
+  turned default config turn:4.71
+  cache:4.65
+  uncheck:4.65
+  quote:4.32
+  content:3.79
+  amtails:3.79
+
+Topic 3:
+  defcon:5.72
+  silk road:5.41
+  happy:4.65
+  silkroad:4.62
+  site:3.92
+  forum:3.82
+  stolen:3.81
+  market:3.21
+  swam:2.80
+  pay:2.74
+
+Topic 4:
+  sr:7.69
+  hub:4.67
+  alfred:4.67
+  attention:4.61
+  time:4.18
+  area:3.79
+  defunct:3.79
+  scam:3.79
+  supposed:2.32
+  impression:2.32
+
+K: 5, Log-Likelihood: -5793.396, Alpha: 11.000, Beta: 1.100

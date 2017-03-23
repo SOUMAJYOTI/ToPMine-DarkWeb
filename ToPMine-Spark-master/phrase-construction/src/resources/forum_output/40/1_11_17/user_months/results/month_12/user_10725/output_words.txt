@@ -1,0 +1,61 @@
+Topic 0:
+  btc:3.20
+  cash:1.87
+  services:1.15
+  financial:1.15
+  bank:1.14
+  government:0.66
+  point:0.53
+  amounts:0.49
+  watch:0.49
+  transfers:0.49
+
+Topic 1:
+  wallet:2.03
+  matter:1.82
+  btc:1.76
+  options:1.60
+  thread:1.60
+  create:1.03
+  transaction:1.02
+  purchase:0.73
+  buy:0.73
+  questions:0.68
+
+Topic 2:
+  point:0.82
+  wallet:0.67
+  government:0.56
+  judge:0.55
+  btc:0.53
+  cash:0.51
+  judy:0.47
+  works:0.47
+  thing:0.46
+  small:0.42
+
+Topic 3:
+  point:0.86
+  wallet:0.76
+  judge:0.70
+  coins:0.53
+  thing:0.52
+  works:0.52
+  judy:0.51
+  market:0.48
+  small:0.48
+  safe:0.47
+
+Topic 4:
+  coins:2.95
+  judge:1.45
+  blockchain:1.28
+  le:1.27
+  large:1.25
+  wallet:1.07
+  market:0.74
+  safe:0.73
+  small:0.73
+  thing:0.71
+
+K: 5, Log-Likelihood: -721.662, Alpha: 11.000, Beta: 1.100

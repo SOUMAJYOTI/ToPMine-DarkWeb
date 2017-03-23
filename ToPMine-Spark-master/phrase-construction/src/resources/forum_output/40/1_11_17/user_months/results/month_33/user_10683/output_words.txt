@@ -1,0 +1,61 @@
+Topic 0:
+  computers:2.90
+  crack:2.37
+  quartus:2.36
+  quote:1.66
+  onionshop:1.63
+  encrypted:1.47
+  time:1.29
+  le:1.23
+  point:1.20
+  quantum:1.18
+
+Topic 1:
+  november:6.86
+  amquote:3.86
+  country:3.86
+  computers:3.54
+  crack:2.88
+  month:2.87
+  bencousins:2.87
+  millions:2.87
+  info:2.40
+  server:2.15
+
+Topic 2:
+  data:13.38
+  time:5.79
+  hardware:4.50
+  future:4.49
+  encrypted:4.44
+  encryption:3.47
+  encrypting:3.47
+  form:3.46
+  hackers:3.46
+  business:3.06
+
+Topic 3:
+  quantum:4.70
+  aes:3.89
+  power:3.30
+  commerce:2.89
+  bit:2.74
+  pgp:2.63
+  computers:2.05
+  reduced:1.97
+  systems:1.97
+  effectively:1.90
+
+Topic 4:
+  computers:2.57
+  quantum:2.26
+  quartus:2.24
+  crack:2.12
+  point:1.71
+  le:1.42
+  encrypted:1.25
+  time:1.25
+  needed:1.21
+  messages:1.16
+
+K: 5, Log-Likelihood: -2751.376, Alpha: 11.000, Beta: 1.100

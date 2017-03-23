@@ -1,0 +1,35 @@
+locate,0,1
+bitstamp,1,1
+type,2,1
+bit,3,1
+lot,4,1
+number,5,1
+current,6,1
+asked,7,2
+price,8,1
+vendor,9,2
+things,10,1
+easily,11,1
+ive,12,1
+details,13,1
+payment,14,3
+speeds,15,1
+bitcoin confirmation,16,2
+hey,17,2
+info,18,2
+payed,19,3
+amount,20,1
+address,21,2
+including,22,1
+confirmation,23,5
+confirmations,24,1
+ve,25,1
+blockchain,26,1
+sender,27,1
+payment confirmation,28,3
+recipient,29,1
+deposit,30,2
+time,31,1
+send,32,2
+transaction,33,2
+bitcoin,34,3

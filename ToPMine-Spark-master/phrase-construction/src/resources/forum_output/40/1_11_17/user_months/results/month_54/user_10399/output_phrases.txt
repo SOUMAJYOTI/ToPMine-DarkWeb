@@ -1,0 +1,61 @@
+Topic 0:
+  database:4.68
+  key passphrase:4.68
+  explain:4.68
+  login:4.68
+  knew:4.53
+  web server:4.10
+  axis mundi:4.02
+  hidden services:3.80
+  provide pip public key:3.60
+  interested destroy concerns:3.60
+
+Topic 1:
+  work:7.28
+  vulnerability:5.79
+  hidden service:4.68
+  hidden services:4.20
+  running:3.95
+  good:3.78
+  grow dozens:3.64
+  market:3.47
+  team agora:2.82
+  long:2.46
+
+Topic 2:
+  password:4.67
+  user:4.67
+  string:4.67
+  public key:4.67
+  service:4.67
+  pgp:4.67
+  question:4.67
+  passphrase:3.85
+  ami love vulnerabilities:3.75
+  herbanlegends august:3.75
+
+Topic 3:
+  market:9.70
+  product:4.69
+  fall:4.69
+  markets days:4.69
+  find vendor:4.69
+  feedback:4.69
+  transactions:4.69
+  video:4.61
+  step:4.61
+  tor:3.95
+
+Topic 4:
+  markets:6.95
+  hidden services:5.70
+  agora:5.11
+  le:4.88
+  anonymizing:4.68
+  exploitable:4.68
+  article:4.68
+  issues:4.68
+  de:4.68
+  running markets:4.24
+
+K: 5, Log-Likelihood: -9671.173, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  sitten:0.00
+  kirjautunutkaan:0.00
+  jo:0.00
+  ruvennut:0.00
+  saamatta:0.00
+  myyj:0.00
+  joille:0.00
+  vuorokauteen:0.00
+  laitoin:0.00
+  lukenut:0.00
+
+Topic 1:
+  sitten:0.00
+  kirjautunutkaan:0.00
+  jo:0.00
+  ruvennut:0.00
+  saamatta:0.00
+  myyj:0.00
+  joille:0.00
+  vuorokauteen:0.00
+  laitoin:0.00
+  lukenut:0.00
+
+Topic 2:
+  sitten:0.00
+  kirjautunutkaan:0.00
+  jo:0.00
+  ruvennut:0.00
+  saamatta:0.00
+  myyj:0.00
+  joille:0.00
+  vuorokauteen:0.00
+  laitoin:0.00
+  lukenut:0.00
+
+Topic 3:
+  sitten:0.00
+  kirjautunutkaan:0.00
+  jo:0.00
+  ruvennut:0.00
+  saamatta:0.00
+  myyj:0.00
+  joille:0.00
+  vuorokauteen:0.00
+  laitoin:0.00
+  lukenut:0.00
+
+Topic 4:
+  sitten:0.00
+  kirjautunutkaan:0.00
+  jo:0.00
+  ruvennut:0.00
+  saamatta:0.00
+  myyj:0.00
+  joille:0.00
+  vuorokauteen:0.00
+  laitoin:0.00
+  lukenut:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

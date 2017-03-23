@@ -1,0 +1,61 @@
+Topic 0:
+  postage:0.40
+  yeah:0.20
+  cents:0.20
+  collected:0.20
+  dont:0.20
+  woulda:0.20
+  brave:0.20
+  small:0.20
+  freaked:0.20
+  lot:0.20
+
+Topic 1:
+  postage:0.40
+  cents:0.20
+  yeah:0.20
+  freaked:0.20
+  brave:0.20
+  woulda:0.20
+  dont:0.20
+  collected:0.20
+  package:0.20
+  wow:0.20
+
+Topic 2:
+  postage:0.40
+  freaked:0.20
+  woulda:0.20
+  lot:0.20
+  package:0.20
+  collected:0.20
+  cents:0.20
+  brave:0.20
+  dont:0.20
+  wow:0.20
+
+Topic 3:
+  postage:0.40
+  package:0.20
+  small:0.20
+  wow:0.20
+  lot:0.20
+  dont:0.20
+  collected:0.20
+  brave:0.20
+  woulda:0.20
+  cents:0.20
+
+Topic 4:
+  postage:0.40
+  small:0.20
+  wow:0.20
+  lot:0.20
+  yeah:0.20
+  collected:0.20
+  brave:0.20
+  dont:0.20
+  package:0.20
+  freaked:0.20
+
+K: 5, Log-Likelihood: -31.985, Alpha: 11.000, Beta: 1.100

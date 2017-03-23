@@ -1,0 +1,61 @@
+Topic 0:
+  veracrypt:2.00
+  truecrypt:1.32
+  code:0.98
+  works:0.52
+  encryption:0.38
+  happy:0.38
+  secure:0.37
+  devs:0.33
+  based:0.32
+  auditing:0.32
+
+Topic 1:
+  veracrypt:2.12
+  truecrypt:1.10
+  code:0.88
+  works:0.50
+  secure:0.45
+  happy:0.36
+  encryption:0.36
+  source:0.31
+  backdoor:0.31
+  version:0.31
+
+Topic 2:
+  truecrypt:2.90
+  veracrypt:2.35
+  auditing:1.19
+  based:1.17
+  devs:1.17
+  code:1.00
+  works:0.53
+  successor:0.46
+  fixes:0.46
+  doubt:0.46
+
+Topic 3:
+  programs:2.46
+  mi:1.50
+  recommended:0.61
+  agencies:0.61
+  trusted:0.61
+  field:0.61
+  wrong:0.61
+  opinions:0.61
+  question:0.61
+  intelligence:0.61
+
+Topic 4:
+  veracrypt:1.34
+  code:0.86
+  truecrypt:0.60
+  secure:0.52
+  encryption:0.43
+  happy:0.43
+  works:0.37
+  newer:0.25
+  reviewed:0.25
+  perfectly:0.25
+
+K: 5, Log-Likelihood: -494.399, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  odd:0.16
+  private:0.16
+  keys:0.16
+  totally:0.08
+  interpreting:0.08
+  matter:0.08
+  quote:0.08
+  isnt:0.08
+  consistently:0.08
+  rape:0.08
+
+Topic 1:
+  keys:0.16
+  odd:0.16
+  private:0.16
+  reporting:0.08
+  article:0.08
+  inside:0.08
+  remember:0.08
+  site:0.08
+  happen:0.08
+  addresses:0.08
+
+Topic 2:
+  keys:0.16
+  private:0.16
+  odd:0.16
+  good:0.08
+  hacked:0.08
+  fuck:0.08
+  consistently:0.08
+  base:0.08
+  trolltergeist:0.08
+  matter:0.08
+
+Topic 3:
+  private:0.16
+  keys:0.16
+  odd:0.16
+  totally:0.08
+  admins:0.08
+  trust:0.08
+  base:0.08
+  fuck:0.08
+  learned:0.08
+  things:0.08
+
+Topic 4:
+  odd:0.16
+  private:0.16
+  keys:0.16
+  confirmations:0.08
+  withdrawals:0.08
+  state:0.08
+  order:0.08
+  people:0.08
+  remembered:0.08
+  blockchain:0.08
+
+K: 5, Log-Likelihood: -90.047, Alpha: 11.000, Beta: 1.100

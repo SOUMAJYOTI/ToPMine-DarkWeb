@@ -1,0 +1,61 @@
+Topic 0:
+  jules:1.84
+  multi:1.70
+  hansa:1.58
+  sig:1.57
+  protocol:1.30
+  standard:1.29
+  winnfield:1.26
+  february:1.26
+  quote:1.19
+  dont:1.18
+
+Topic 1:
+  hansa:6.08
+  hans:3.64
+  lb:2.91
+  shatter:2.85
+  traffic:2.20
+  marketplace:1.85
+  crack:1.85
+  exclusively:1.82
+  juleswinnfield:1.82
+  tuned:1.82
+
+Topic 2:
+  transaction:31.73
+  address:28.75
+  market:23.31
+  key:21.27
+  public:20.85
+  bitcoin:19.49
+  multisignature:16.91
+  wallet:14.22
+  customer:13.14
+  signed:12.37
+
+Topic 3:
+  escrow:10.18
+  markets:4.95
+  central:3.92
+  msig:2.92
+  system:2.69
+  weve:2.53
+  hansa:2.14
+  dont:2.04
+  experience:1.92
+  simple:1.92
+
+Topic 4:
+  multisignature:5.79
+  market:3.70
+  electrum:3.19
+  sig:2.27
+  sign:2.12
+  transaction:1.89
+  vendor:1.73
+  time:1.64
+  order:1.63
+  bitcoin:1.36
+
+K: 5, Log-Likelihood: -6582.203, Alpha: 11.000, Beta: 1.100

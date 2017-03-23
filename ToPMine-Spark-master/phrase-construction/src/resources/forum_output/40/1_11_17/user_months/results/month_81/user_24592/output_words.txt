@@ -1,0 +1,61 @@
+Topic 0:
+  tor:47.28
+  router:32.72
+  server:31.08
+  box:30.82
+  nginx:27.31
+  hardware:25.09
+  isolation:20.27
+  access:18.54
+  physical:16.62
+  security:15.57
+
+Topic 1:
+  memory:41.26
+  stack:20.36
+  bytesize:15.99
+  void:14.99
+  trinity:14.96
+  return:14.05
+  null:13.99
+  pretty:11.96
+  code:11.22
+  pointer:10.98
+
+Topic 2:
+  april:23.74
+  kmf:21.93
+  attacks:20.67
+  quote:18.23
+  ram:12.57
+  encryption:9.76
+  dma:9.56
+  things:9.31
+  kernel:9.24
+  device:9.09
+
+Topic 3:
+  key:18.18
+  ramdisk:15.99
+  security:15.46
+  hidden:14.57
+  process:13.15
+  tor:13.14
+  service:12.35
+  server:12.08
+  encrypted:10.96
+  pi:10.87
+
+Topic 4:
+  quote:16.69
+  hosting:10.74
+  servers:10.41
+  april:9.11
+  fuzzing:8.86
+  code:8.59
+  good:8.55
+  random:8.38
+  colocation:8.36
+  attacker:8.02
+
+K: 5, Log-Likelihood: -38515.608, Alpha: 11.000, Beta: 1.100

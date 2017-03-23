@@ -1,0 +1,61 @@
+Topic 0:
+  apple:14.00
+  filevault:13.61
+  open source:13.12
+  quote claptrap june:11.35
+  encryption:6.25
+  fde:5.58
+  gpg tools:5.23
+  recommend:5.22
+  read:5.02
+  backlash:4.76
+
+Topic 1:
+  claptrap personal touch mate:6.21
+  assume:5.57
+  cocainill zaphods blowjob doesnt:5.54
+  ta:5.43
+  filevault devastating data recovery:4.68
+  claptrap june pm:4.68
+  eh:4.68
+  older hdds backup:4.68
+  system existent:4.68
+  zaphod blowjob:3.62
+
+Topic 2:
+  yosemite:5.49
+  vendors:4.74
+  usb:4.44
+  big:3.44
+  years:3.41
+  forums:3.26
+  havent:3.23
+  tails:3.10
+  cheeky:2.86
+  things:2.84
+
+Topic 3:
+  pretty:9.38
+  open source:5.82
+  operating:5.58
+  system drive:5.58
+  step:5.45
+  encryption:5.29
+  good:4.88
+  full disk encryption:4.84
+  veracrypt apple:4.71
+  backdoored mention:4.71
+
+Topic 4:
+  sr:7.25
+  pmboot chav lingo:6.09
+  haharhyming slang bit degenerated:6.09
+  fuck man chav:6.09
+  aint staff burberry wardrobe:6.09
+  ron swanson june:6.05
+  cloud:5.55
+  option:5.55
+  security:5.55
+  quote cocaine june pmquote:5.27
+
+K: 5, Log-Likelihood: -7776.161, Alpha: 11.000, Beta: 1.100

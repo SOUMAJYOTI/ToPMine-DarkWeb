@@ -1,0 +1,61 @@
+Topic 0:
+  dont:7.00
+  money:4.65
+  cap:2.30
+  sr dont:2.30
+  motherfucker:2.30
+  drugs:2.30
+  intentions:2.30
+  wtf:2.30
+  tons:2.30
+  street:2.30
+
+Topic 1:
+  site:3.82
+  vendors:3.78
+  luck:3.30
+  happy:2.77
+  ship:2.28
+  sort:2.27
+  fuck bit:2.27
+  glad:2.27
+  negative:2.27
+  lot:2.27
+
+Topic 2:
+  fuck:4.64
+  silk road:3.95
+  troubles:3.76
+  future:3.76
+  carving:3.76
+  pain:3.76
+  mission:3.76
+  internet:3.76
+  speed:3.76
+  successful:3.76
+
+Topic 3:
+  post:5.69
+  doctorclu february:4.60
+  ami biased thankful sr:4.60
+  lol love sr market:4.59
+  february:4.27
+  fangirls:3.73
+  thankful sr:3.73
+  laugh:3.73
+  forums:3.73
+  hubmods:3.73
+
+Topic 4:
+  sr:4.54
+  amwe:3.67
+  funny:3.67
+  ziggy:3.66
+  february:3.24
+  hope:2.52
+  quote:2.31
+  dumpsterbaby:2.19
+  lulz:2.19
+  love dark net:2.19
+
+K: 5, Log-Likelihood: -2448.421, Alpha: 11.000, Beta: 1.100

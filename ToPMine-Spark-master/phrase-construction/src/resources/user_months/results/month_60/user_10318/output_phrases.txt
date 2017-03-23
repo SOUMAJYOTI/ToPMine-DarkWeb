@@ -1,0 +1,61 @@
+Topic 0:
+  version:2.13
+  electrum:1.41
+  public keys:0.85
+  multisig:0.70
+  check hashes:0.61
+  electrums:0.61
+  hash:0.61
+  electrum tails:0.61
+  mufti sir transactions:0.60
+  tails electrum:0.60
+
+Topic 1:
+  version:1.48
+  electrum:1.22
+  public keys:0.61
+  direct link:0.54
+  acropolis market:0.53
+  tails electrum:0.53
+  mufti sir transactions:0.53
+  electrum tails:0.52
+  hash:0.52
+  check hashes:0.52
+
+Topic 2:
+  version:1.24
+  electrum:1.11
+  public keys:0.61
+  electrum tails:0.51
+  hash:0.51
+  direct link:0.51
+  acropolis market:0.51
+  mufti sir transactions:0.50
+  check hashes:0.50
+  tails electrum:0.50
+
+Topic 3:
+  electrum:1.53
+  version:1.44
+  public keys:0.65
+  direct link:0.55
+  check hashes:0.55
+  acropolis market:0.55
+  multisig:0.55
+  electrum tails:0.54
+  hash:0.54
+  mufti sir transactions:0.54
+
+Topic 4:
+  version:2.03
+  electrum:1.62
+  public keys:0.74
+  tails electrum:0.62
+  acropolis market:0.61
+  mufti sir transactions:0.60
+  multisig:0.60
+  hash:0.59
+  check hashes:0.59
+  direct link:0.59
+
+K: 5, Log-Likelihood: -1488.346, Alpha: 11.000, Beta: 1.100

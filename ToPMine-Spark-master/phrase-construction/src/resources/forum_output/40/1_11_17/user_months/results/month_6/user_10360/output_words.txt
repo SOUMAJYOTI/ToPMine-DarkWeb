@@ -1,0 +1,61 @@
+Topic 0:
+  return:10.60
+  address:6.21
+  vendor:4.97
+  vendors:4.68
+  mail:4.44
+  years:3.97
+  feds:3.97
+  times:3.58
+  portal:3.35
+  track:3.34
+
+Topic 1:
+  gloves:8.92
+  odor:6.42
+  tape:5.35
+  good:4.53
+  aluminum:3.87
+  plastic:3.77
+  wearing:3.76
+  bags:3.59
+  foil:3.59
+  tips:2.60
+
+Topic 2:
+  threads:4.74
+  deleted:3.52
+  people:3.17
+  ship:2.70
+  working:2.65
+  site:2.51
+  post:1.95
+  thing:1.92
+  attack:1.91
+  full:1.91
+
+Topic 3:
+  package:10.87
+  things:5.89
+  dont:5.24
+  packages:4.88
+  address:4.68
+  mail:4.62
+  return:4.04
+  odor:3.31
+  false:2.96
+  send:2.90
+
+Topic 4:
+  withdrawals:2.79
+  instant:2.79
+  havent:2.66
+  coin:2.63
+  caps:2.43
+  agora:2.40
+  love:1.86
+  runs:1.86
+  single:1.77
+  hitch:1.76
+
+K: 5, Log-Likelihood: -5196.607, Alpha: 11.000, Beta: 1.100

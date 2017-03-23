@@ -1,0 +1,61 @@
+Topic 0:
+  answer:2.20
+  market:2.19
+  mind:2.13
+  dont:2.02
+  quote:1.71
+  le:1.69
+  add:1.68
+  defcon:1.50
+  working:1.47
+  opinions:1.35
+
+Topic 1:
+  kitten:4.68
+  shit:4.20
+  hack:3.89
+  donkeys:3.89
+  bull:3.89
+  ass:3.89
+  coins:3.89
+  story:3.89
+  august:3.40
+  developer:2.90
+
+Topic 2:
+  marketplace:6.82
+  forums:5.81
+  topic:4.61
+  bmr:4.29
+  fun:3.82
+  evilgrin:2.29
+  times:2.06
+  days:2.01
+  seized:1.84
+  promise:1.84
+
+Topic 3:
+  sr:11.02
+  sig:4.82
+  forums:3.81
+  testers:3.61
+  beat:3.57
+  opinions:3.48
+  dont:3.12
+  market:3.00
+  change:2.95
+  code:2.94
+
+Topic 4:
+  quote:3.04
+  evilgrin:2.97
+  admin:2.94
+  october:2.72
+  mia:2.30
+  plate:2.30
+  curious:2.30
+  knew:2.29
+  heard:2.29
+  events:2.27
+
+K: 5, Log-Likelihood: -3757.085, Alpha: 11.000, Beta: 1.100

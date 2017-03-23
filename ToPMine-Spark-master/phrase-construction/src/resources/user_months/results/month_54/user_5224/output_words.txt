@@ -1,0 +1,61 @@
+Topic 0:
+  marketplace:8.57
+  ag:7.92
+  ab:4.92
+  min:4.87
+  wallet:2.61
+  deposit:2.46
+  hrs:2.25
+  shit:2.08
+  chain:1.92
+  fast:1.92
+
+Topic 1:
+  transaction:2.03
+  blackbank:1.74
+  problem:1.57
+  captcha:1.48
+  dont:1.43
+  hrs:1.32
+  link:1.26
+  ago:1.26
+  move:1.19
+  unconformed:1.16
+
+Topic 2:
+  agora:5.30
+  funds:3.57
+  btc:2.68
+  case:2.27
+  rule:1.86
+  deposits:1.85
+  quick:1.63
+  situation:1.62
+  locked:1.61
+  withdrawl:1.57
+
+Topic 3:
+  agora:3.27
+  case:2.19
+  blackbank:1.71
+  link:1.49
+  btc:1.35
+  funds:1.22
+  quote:1.18
+  deposits:1.16
+  rasputin:1.14
+  ago:1.06
+
+Topic 4:
+  agora:9.11
+  funds:4.94
+  time:4.11
+  btc:2.60
+  quote:1.91
+  case:1.90
+  forums:1.84
+  rule:1.75
+  market:1.68
+  broke:1.64
+
+K: 5, Log-Likelihood: -2132.922, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.52
+  markets:0.97
+  return:0.56
+  pure:0.55
+  assuaged:0.55
+  late:0.55
+  disappear:0.55
+  survive:0.55
+  experiencing:0.55
+  minutes:0.55
+
+Topic 1:
+  wtf:1.64
+  roughly:1.64
+  hours:1.64
+  timing:1.64
+  fuck:1.64
+  ago:1.64
+  methylamine:1.64
+  fishy:1.63
+  smell:1.63
+  holy:1.63
+
+Topic 2:
+  rebranded:1.84
+  suspicious:1.84
+  sll:1.84
+  exit:1.84
+  source:1.84
+  assumption:1.84
+  registering:1.84
+  site:1.84
+  scamming:1.84
+  big:1.84
+
+Topic 3:
+  market:2.55
+  day:1.02
+  experienced:1.01
+  losses:1.01
+  centralized:1.01
+  funds:1.01
+  trapped:1.01
+  sincere:1.00
+  community:1.00
+  coincidental:1.00
+
+Topic 4:
+  market:1.20
+  markets:0.89
+  mitigate:0.53
+  thread:0.52
+  issues:0.52
+  late:0.52
+  disappear:0.52
+  time:0.52
+  sake:0.52
+  unfortunate major:0.51
+
+K: 5, Log-Likelihood: -881.787, Alpha: 11.000, Beta: 1.100

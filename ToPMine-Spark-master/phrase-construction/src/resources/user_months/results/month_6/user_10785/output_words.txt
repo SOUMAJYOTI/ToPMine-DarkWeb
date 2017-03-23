@@ -1,0 +1,61 @@
+Topic 0:
+  disk:11.10
+  filevault:10.93
+  full:8.69
+  clearnet:8.45
+  encryption:7.22
+  truecrypt:6.93
+  apple:6.68
+  strong:4.79
+  rounded:3.79
+  broken:3.79
+
+Topic 1:
+  march:9.24
+  software:8.06
+  shut:6.21
+  source:5.83
+  encryption:5.60
+  macbook:5.25
+  sleep:5.16
+  secure:4.88
+  crypto:4.88
+  zaphod:4.09
+
+Topic 2:
+  clearnet:9.28
+  hidden:6.98
+  tor:6.75
+  sites:5.94
+  service:4.69
+  visiting:3.98
+  encrypted:3.30
+  exit:2.98
+  site:2.98
+  connection:2.98
+
+Topic 3:
+  mac:4.14
+  dont:3.91
+  tails:3.88
+  quote:3.84
+  reference:3.38
+  storage:2.90
+  flash:2.90
+  osx:2.90
+  pc:2.87
+  darknet:2.81
+
+Topic 4:
+  password:26.07
+  bits:23.93
+  characters:12.98
+  lowercase:9.98
+  entropy:9.86
+  character:9.07
+  numerals:7.98
+  special:7.98
+  ciphers:7.15
+  works:6.98
+
+K: 5, Log-Likelihood: -7844.369, Alpha: 11.000, Beta: 1.100

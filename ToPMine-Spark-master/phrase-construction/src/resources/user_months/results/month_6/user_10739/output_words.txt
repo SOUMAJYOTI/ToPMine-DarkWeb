@@ -1,0 +1,61 @@
+Topic 0:
+  email:7.74
+  bote:5.12
+  emails:2.63
+  things:1.87
+  march:1.82
+  times:1.77
+  key:1.76
+  tons:1.75
+  nodes:1.74
+  thing:1.71
+
+Topic 1:
+  lelantos:7.85
+  good:5.28
+  mail:5.06
+  year:3.85
+  cost:3.85
+  tor:2.86
+  thunderbird:2.48
+  service:2.46
+  free:2.41
+  recommendation:1.86
+
+Topic 2:
+  email:4.85
+  bote:2.72
+  march:2.30
+  pretty:2.17
+  secure:2.13
+  emails:2.10
+  list:2.05
+  quote:1.80
+  check:1.58
+  times:1.57
+
+Topic 3:
+  email:2.96
+  dont:2.46
+  secure:2.12
+  march:1.54
+  quote:1.31
+  axa:1.28
+  providers:1.23
+  agree:1.12
+  log:1.08
+  solution:1.01
+
+Topic 4:
+  email:7.35
+  emails:4.70
+  safe:2.81
+  mail:2.50
+  check:1.98
+  access:1.90
+  peer:1.82
+  net:1.82
+  server:1.82
+  onion:1.82
+
+K: 5, Log-Likelihood: -1890.506, Alpha: 11.000, Beta: 1.100

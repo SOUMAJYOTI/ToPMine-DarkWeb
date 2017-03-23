@@ -1,0 +1,61 @@
+Topic 0:
+  sr:2.79
+  evolution:1.80
+  thriving:1.39
+  bitcoins:1.22
+  account:1.17
+  june:1.10
+  trasfered:1.10
+  credited:1.08
+  stick:1.06
+  yoshi:0.83
+
+Topic 1:
+  sr:2.44
+  market:1.33
+  evolution:1.30
+  address:0.68
+  thriving:0.64
+  account:0.57
+  bitcoins:0.56
+  find:0.52
+  pandora:0.52
+  problems:0.51
+
+Topic 2:
+  sr:2.31
+  days:1.26
+  ive:1.26
+  buy:1.24
+  market:0.92
+  evolution:0.85
+  pandora:0.68
+  problems:0.54
+  find:0.53
+  pick:0.52
+
+Topic 3:
+  sr:2.71
+  account:1.52
+  bitcoins:1.48
+  evolution:1.42
+  btc:1.36
+  thriving:1.23
+  market:1.20
+  june:1.08
+  credited:1.07
+  stick:1.03
+
+Topic 4:
+  sr:2.75
+  evolution:1.63
+  btc:1.54
+  bitcoins:1.50
+  account:1.49
+  thriving:1.44
+  stick:1.18
+  trasfered:1.14
+  june:1.13
+  credited:1.12
+
+K: 5, Log-Likelihood: -708.466, Alpha: 11.000, Beta: 1.100

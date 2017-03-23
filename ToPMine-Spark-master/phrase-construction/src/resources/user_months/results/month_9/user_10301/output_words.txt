@@ -1,0 +1,61 @@
+Topic 0:
+  markets:5.88
+  trust:3.96
+  vendor:3.88
+  quote:3.81
+  dont:3.41
+  le:2.89
+  amount:2.87
+  cloud:2.86
+  wallets:2.86
+  big:2.85
+
+Topic 1:
+  good:2.36
+  hard:2.27
+  build:1.77
+  computers:1.76
+  profile:1.76
+  phone:1.76
+  ur:1.76
+  tapped:1.76
+  chipsets:1.76
+  info:1.76
+
+Topic 2:
+  wallet:18.76
+  btc:10.81
+  bitcoin:7.90
+  coin:5.92
+  coins:4.94
+  easy:4.93
+  electrum:4.78
+  fee:3.94
+  fog:3.93
+  storage:3.19
+
+Topic 3:
+  greenwald:8.95
+  asa:7.10
+  nsa:5.04
+  hardware:4.66
+  surveillance:3.95
+  access:3.44
+  agency:2.95
+  notes:2.95
+  chinese:2.04
+  writes:1.95
+
+Topic 4:
+  door:5.49
+  router:4.45
+  issues:4.44
+  conflicting:4.44
+  question:4.44
+  american:4.42
+  modem:4.42
+  sort:4.40
+  quote:3.46
+  chinese:3.20
+
+K: 5, Log-Likelihood: -4105.093, Alpha: 11.000, Beta: 1.100

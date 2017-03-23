@@ -1,0 +1,61 @@
+Topic 0:
+  good:1.42
+  transactions:0.92
+  registration:0.90
+  pgp:0.89
+  messages:0.89
+  open:0.88
+  offer:0.88
+  bitwasp:0.59
+  multisig:0.51
+  amount:0.51
+
+Topic 1:
+  fa:0.60
+  good:0.59
+  bitwasp:0.46
+  pgp:0.41
+  registration:0.41
+  offer:0.40
+  messages:0.40
+  open:0.40
+  transactions:0.39
+  amount:0.39
+
+Topic 2:
+  good:0.70
+  fa:0.53
+  offer:0.50
+  open:0.50
+  bitwasp:0.50
+  messages:0.49
+  pgp:0.49
+  registration:0.48
+  transactions:0.48
+  amount:0.42
+
+Topic 3:
+  version:2.01
+  confirms:2.01
+  js free:2.01
+  hard:0.93
+  sign:0.93
+  create:0.93
+  moment:0.93
+  wallet:0.93
+  nojs:0.93
+  receive:0.93
+
+Topic 4:
+  fa:0.55
+  good:0.54
+  bitwasp:0.46
+  amount:0.40
+  multisig:0.40
+  registration:0.38
+  offer:0.38
+  messages:0.38
+  open:0.38
+  transactions:0.38
+
+K: 5, Log-Likelihood: -832.155, Alpha: 11.000, Beta: 1.100

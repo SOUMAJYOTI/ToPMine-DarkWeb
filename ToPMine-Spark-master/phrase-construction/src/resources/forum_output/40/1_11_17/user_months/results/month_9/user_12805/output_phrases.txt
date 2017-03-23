@@ -1,0 +1,61 @@
+Topic 0:
+  skulls:0.55
+  markets:0.40
+  market:0.39
+  vendors:0.29
+  dont:0.24
+  site:0.24
+  nice:0.24
+  sign:0.24
+  easy:0.24
+  great:0.22
+
+Topic 1:
+  markets:0.45
+  market:0.42
+  skulls:0.40
+  vendors:0.27
+  power:0.22
+  pirate:0.22
+  wise:0.22
+  posed:0.22
+  failing:0.22
+  helluva:0.22
+
+Topic 2:
+  markets:0.44
+  skulls:0.42
+  market:0.42
+  vendors:0.28
+  smaller:0.22
+  marketplaces:0.22
+  plan:0.22
+  failing:0.22
+  risk:0.22
+  greed:0.22
+
+Topic 3:
+  markets:0.46
+  market:0.42
+  skulls:0.39
+  vendors:0.27
+  greed:0.22
+  security:0.22
+  marketplaces:0.22
+  plan:0.22
+  grow:0.22
+  risk:0.22
+
+Topic 4:
+  markets:0.44
+  skulls:0.42
+  market:0.42
+  vendors:0.28
+  manipulation:0.22
+  reduces:0.22
+  larger:0.22
+  watchin:0.22
+  lotta:0.22
+  wise:0.22
+
+K: 5, Log-Likelihood: -127.856, Alpha: 11.000, Beta: 1.100

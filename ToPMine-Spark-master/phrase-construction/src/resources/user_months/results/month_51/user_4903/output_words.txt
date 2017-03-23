@@ -1,0 +1,56 @@
+Topic 0:
+  safe:0.60
+  mail:0.40
+  net:0.40
+  replace:0.20
+  recommendation:0.20
+  op:0.20
+  sigaint:0.20
+  email:0.20
+  javascript:0.20
+
+Topic 1:
+  safe:0.60
+  mail:0.41
+  net:0.40
+  javascript:0.20
+  email:0.20
+  recommendation:0.20
+  sigaint:0.20
+  op:0.20
+  replace:0.20
+
+Topic 2:
+  safe:0.60
+  net:0.40
+  mail:0.40
+  sigaint:0.20
+  email:0.20
+  javascript:0.20
+  replace:0.20
+  recommendation:0.20
+  op:0.20
+
+Topic 3:
+  safe:0.60
+  net:0.40
+  mail:0.40
+  op:0.20
+  javascript:0.20
+  recommendation:0.20
+  email:0.20
+  sigaint:0.20
+  replace:0.20
+
+Topic 4:
+  safe:0.61
+  net:0.40
+  mail:0.39
+  op:0.20
+  sigaint:0.20
+  recommendation:0.20
+  replace:0.20
+  email:0.20
+  javascript:0.20
+
+K: 5, Log-Likelihood: -27.352, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  blond wigs:0.89
+  bitlaundry:0.71
+  alice:0.60
+  bitcoins:0.48
+  zeta:0.45
+  system:0.44
+  mixer:0.39
+  address:0.37
+  delivery schedule:0.36
+  coins:0.35
+
+Topic 1:
+  blond wigs:1.55
+  bitlaundry:0.89
+  alice:0.77
+  bitcoins:0.50
+  address:0.44
+  delivery schedule:0.43
+  sends bitcoins:0.35
+  system:0.32
+  mixer:0.32
+  zeta:0.32
+
+Topic 2:
+  blond wigs:0.73
+  bitlaundry:0.73
+  alice:0.67
+  bitcoins:0.59
+  mixer:0.42
+  delivery schedule:0.39
+  sends bitcoins:0.39
+  address:0.39
+  system:0.38
+  zeta:0.38
+
+Topic 3:
+  bitlaundry:0.74
+  blond wigs:0.65
+  alice:0.63
+  bitcoins:0.55
+  system:0.43
+  zeta:0.43
+  mixer:0.41
+  sends bitcoins:0.37
+  delivery schedule:0.37
+  address:0.37
+
+Topic 4:
+  blond wigs:1.67
+  bitlaundry:1.01
+  alice:0.91
+  bitcoins:0.64
+  delivery schedule:0.49
+  address:0.48
+  sends bitcoins:0.40
+  bob:0.35
+  bobs:0.35
+  mixer:0.29
+
+K: 5, Log-Likelihood: -423.350, Alpha: 11.000, Beta: 1.100

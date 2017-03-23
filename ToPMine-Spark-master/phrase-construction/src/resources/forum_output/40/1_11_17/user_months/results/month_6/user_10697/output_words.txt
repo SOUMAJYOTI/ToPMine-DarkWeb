@@ -1,0 +1,61 @@
+Topic 0:
+  btc:3.85
+  payout:2.98
+  small:1.84
+  referred:1.60
+  february:1.52
+  bit:1.51
+  god:1.38
+  quote:1.37
+  af:1.19
+  coins:1.19
+
+Topic 1:
+  february:3.77
+  pretty:2.30
+  incentive:2.13
+  quote:1.71
+  small:1.63
+  market:1.60
+  referalls:1.59
+  sr:1.56
+  bmr:1.55
+  didnt:1.54
+
+Topic 2:
+  february:2.35
+  quote:2.35
+  referred:1.77
+  btc:1.28
+  small:0.89
+  account:0.87
+  incentive:0.86
+  pretty:0.81
+  coin:0.81
+  pmi:0.79
+
+Topic 3:
+  february:2.76
+  quote:1.92
+  btc:1.84
+  referred:1.57
+  small:1.16
+  incentive:0.94
+  bit:0.87
+  pretty:0.86
+  pmi:0.85
+  portion:0.84
+
+Topic 4:
+  account:4.05
+  referred:2.17
+  coin:1.99
+  refuse:1.75
+  asked:1.73
+  dont:1.73
+  history:1.73
+  months:1.72
+  fact:1.70
+  sell:1.70
+
+K: 5, Log-Likelihood: -1534.950, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  scam:0.83
+  scamming:0.83
+  question:0.80
+  mollymaniacs:0.46
+  quote:0.41
+  market:0.37
+  respond:0.37
+  sr buyers:0.37
+  safe:0.37
+  pmhello:0.37
+
+Topic 1:
+  question:0.45
+  scam:0.45
+  site:0.44
+  scamming:0.43
+  admins developer:0.43
+  warning:0.43
+  forum:0.42
+  lied:0.42
+  resigned:0.42
+  dont:0.42
+
+Topic 2:
+  question:0.70
+  scamming:0.67
+  scam:0.66
+  mollymaniacs:0.43
+  quote:0.40
+  mods:0.38
+  site:0.38
+  stay:0.35
+  resigned:0.35
+  dont:0.35
+
+Topic 3:
+  site:0.50
+  dont:0.50
+  lied:0.50
+  stay:0.49
+  resigned:0.49
+  admins developer:0.49
+  warning:0.49
+  forum:0.49
+  mods:0.41
+  quote:0.38
+
+Topic 4:
+  scamming:0.54
+  scam:0.52
+  question:0.51
+  mods:0.42
+  site:0.41
+  mollymaniacs:0.40
+  quote:0.38
+  forum:0.38
+  lied:0.38
+  warning:0.38
+
+K: 5, Log-Likelihood: -332.673, Alpha: 11.000, Beta: 1.100

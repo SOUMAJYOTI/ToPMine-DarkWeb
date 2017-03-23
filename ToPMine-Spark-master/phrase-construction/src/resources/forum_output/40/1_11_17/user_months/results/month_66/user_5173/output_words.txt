@@ -1,0 +1,61 @@
+Topic 0:
+  key:65.80
+  private:47.79
+  buyer:41.81
+  multisig:35.83
+  address:29.83
+  seller:29.82
+  market:20.45
+  item:11.86
+  dispute:11.85
+  keys:11.85
+
+Topic 1:
+  recommended:27.98
+  earn:26.98
+  product:21.38
+  customer:19.98
+  bought:18.98
+  dr:15.98
+  vendor:13.47
+  market:12.91
+  level:9.98
+  money:9.08
+
+Topic 2:
+  passport:19.98
+  country:7.98
+  travel:6.98
+  residency:5.98
+  free:5.14
+  vista:4.98
+  years:4.98
+  account:4.08
+  banking:3.98
+  government:3.98
+
+Topic 3:
+  love:22.15
+  avengers:20.29
+  marketplace:6.05
+  market:5.25
+  vendor:4.40
+  find:3.55
+  vendors:3.20
+  account:3.04
+  community:3.01
+  front:2.98
+
+Topic 4:
+  time:3.97
+  exit:3.88
+  guy:3.77
+  watch:3.77
+  quote:3.70
+  november:3.70
+  market:3.36
+  hours:2.92
+  dnstats:2.88
+  long:2.43
+
+K: 5, Log-Likelihood: -9804.788, Alpha: 11.000, Beta: 1.100

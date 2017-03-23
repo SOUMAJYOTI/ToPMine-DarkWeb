@@ -1,0 +1,61 @@
+Topic 0:
+  onionwallet:0.39
+  hidden wiki:0.38
+  coins:0.29
+  talking:0.29
+  wiki:0.29
+  wallet:0.29
+  hoping:0.29
+  alternative:0.29
+  good:0.29
+  contact:0.27
+
+Topic 1:
+  onionwallet:0.42
+  hidden wiki:0.42
+  good:0.28
+  alternative:0.28
+  coins:0.28
+  wiki:0.28
+  wallet:0.28
+  hoping:0.28
+  talking:0.28
+  support:0.28
+
+Topic 2:
+  hidden wiki:0.49
+  onionwallet:0.49
+  support:0.28
+  contact:0.28
+  btc:0.28
+  wallet:0.27
+  good:0.27
+  coins:0.27
+  wiki:0.27
+  alternative:0.27
+
+Topic 3:
+  hidden wiki:0.51
+  onionwallet:0.51
+  btc:0.28
+  contact:0.28
+  support:0.28
+  hoping:0.27
+  wallet:0.27
+  wiki:0.27
+  good:0.27
+  alternative:0.27
+
+Topic 4:
+  onionwallet:0.39
+  hidden wiki:0.39
+  support:0.28
+  contact:0.28
+  btc:0.28
+  alternative:0.28
+  hoping:0.28
+  good:0.28
+  talking:0.28
+  wallet:0.28
+
+K: 5, Log-Likelihood: -223.214, Alpha: 11.000, Beta: 1.100

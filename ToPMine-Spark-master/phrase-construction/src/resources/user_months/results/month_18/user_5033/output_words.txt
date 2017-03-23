@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:1.54
+  btc:1.14
+  local:0.79
+  buy:0.77
+  buying:0.54
+  eventually:0.53
+  ad:0.53
+  price:0.53
+  longer:0.53
+  offering:0.53
+
+Topic 1:
+  bitcoin:1.67
+  btc:0.99
+  buy:0.81
+  local:0.79
+  bitcoins:0.61
+  face:0.61
+  dollars:0.59
+  meetupsearch:0.46
+  orggo:0.46
+  find:0.46
+
+Topic 2:
+  bitcoin:1.54
+  bitcoins:1.16
+  dollars:1.12
+  face:1.08
+  buy:0.82
+  local:0.81
+  area:0.53
+  purchase:0.53
+  fast:0.53
+  result:0.52
+
+Topic 3:
+  bitcoin:1.63
+  btc:0.89
+  local:0.83
+  buy:0.80
+  face:0.67
+  dollars:0.65
+  bitcoins:0.59
+  luc:0.45
+  lurking:0.45
+  meetupsearch:0.45
+
+Topic 4:
+  bitcoin:1.61
+  face:1.15
+  dollars:1.15
+  bitcoins:1.14
+  buy:0.81
+  local:0.79
+  easy:0.53
+  place:0.53
+  complete:0.53
+  turn:0.53
+
+K: 5, Log-Likelihood: -401.783, Alpha: 11.000, Beta: 1.100

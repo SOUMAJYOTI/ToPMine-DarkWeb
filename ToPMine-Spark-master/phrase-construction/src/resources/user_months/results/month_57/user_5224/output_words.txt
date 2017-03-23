@@ -1,0 +1,61 @@
+Topic 0:
+  ag:7.35
+  ab:4.34
+  min:3.36
+  marketplace:2.77
+  fast:1.48
+  satoshi:1.48
+  block:1.47
+  chain:1.47
+  slower:1.47
+  wallet:1.19
+
+Topic 1:
+  hrs:0.86
+  marketplace:0.84
+  transaction:0.60
+  markets:0.59
+  equal:0.58
+  specific:0.58
+  order:0.58
+  unconformed:0.57
+  move:0.55
+  post:0.54
+
+Topic 2:
+  transaction:1.31
+  hrs:1.08
+  move:0.93
+  unconformed:0.92
+  dnm:0.64
+  link:0.63
+  post:0.62
+  specific:0.52
+  order:0.52
+  equal:0.52
+
+Topic 3:
+  marketplace:1.66
+  min:0.80
+  hrs:0.79
+  wallet:0.57
+  shit:0.53
+  gamesome:0.53
+  day:0.53
+  slow:0.53
+  guess:0.53
+  deposit:0.53
+
+Topic 4:
+  marketplace:1.22
+  hrs:0.98
+  move:0.72
+  unconformed:0.71
+  transaction:0.63
+  wallet:0.52
+  markets:0.45
+  equal:0.45
+  order:0.45
+  specific:0.45
+
+K: 5, Log-Likelihood: -640.146, Alpha: 11.000, Beta: 1.100

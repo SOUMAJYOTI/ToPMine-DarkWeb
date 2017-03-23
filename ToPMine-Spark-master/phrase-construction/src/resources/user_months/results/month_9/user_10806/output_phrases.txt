@@ -1,0 +1,61 @@
+Topic 0:
+  wifi:0.17
+  phone:0.17
+  firmware:0.14
+  google:0.14
+  internet:0.14
+  connection:0.14
+  buy:0.14
+  dd:0.14
+  compatible:0.14
+  secure:0.14
+
+Topic 1:
+  wifi:0.17
+  phone:0.17
+  tethered:0.14
+  told:0.14
+  rooted:0.14
+  simless:0.14
+  pc:0.14
+  attached:0.14
+  firewall:0.14
+  good:0.14
+
+Topic 2:
+  phone:0.17
+  wifi:0.17
+  company:0.14
+  local:0.14
+  ethernet:0.14
+  hub:0.14
+  tether:0.14
+  private:0.14
+  tails:0.14
+  wireless:0.14
+
+Topic 3:
+  wifi:0.17
+  phone:0.17
+  tor:0.14
+  cable:0.14
+  tails:0.14
+  connect:0.14
+  local:0.14
+  tower:0.14
+  wireless:0.14
+  data:0.14
+
+Topic 4:
+  phone:0.17
+  wifi:0.17
+  virtualbox:0.14
+  comp:0.14
+  extracted:0.14
+  tails:0.14
+  tor:0.14
+  hub:0.14
+  tether:0.14
+  ethernet:0.14
+
+K: 5, Log-Likelihood: -136.408, Alpha: 11.000, Beta: 1.100

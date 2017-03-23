@@ -1,0 +1,61 @@
+Topic 0:
+  pidgin os:6.80
+  connect stuck looping connect:4.41
+  changed port number piggin:4.41
+  port tor browser settings:4.41
+  actively modify tor browser:4.41
+  response:3.61
+  unfix:3.34
+  compile:3.34
+  pre:3.34
+  socks socks:3.34
+
+Topic 1:
+  start thread site:3.66
+  happened irc server:3.57
+  traveling missed stuff:3.46
+  stores cost:3.35
+  clients:3.33
+  front:3.33
+  store:3.33
+  cost:3.33
+  announcement:3.33
+  quote:3.33
+
+Topic 2:
+  tor:11.76
+  displayed:3.29
+  button:3.29
+  port tor:3.29
+  version tor:3.29
+  install:3.29
+  select:3.29
+  click:3.29
+  port tor browser:3.29
+  version type:3.29
+
+Topic 3:
+  great:3.02
+  weeks:3.02
+  work:3.01
+  good good:3.00
+  didnt:1.63
+  yeah:1.62
+  didn:1.62
+  setup:1.61
+  irc server:1.55
+  stores cost:1.34
+
+Topic 4:
+  jsga drv rm gaf:6.02
+  connect port connect server:3.41
+  onion password filled password:3.40
+  onion:3.39
+  created account credentials jabber:3.26
+  pidgin:3.26
+  account service basin tab:3.25
+  chose xmpp protocol:2.78
+  pray tab proxy type:2.75
+  created:2.75
+
+K: 5, Log-Likelihood: -1947.605, Alpha: 11.000, Beta: 1.100

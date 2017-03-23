@@ -1,0 +1,61 @@
+Topic 0:
+  invite:1.45
+  invites:0.80
+  pm:0.60
+  love:0.59
+  things:0.41
+  kindly:0.40
+  sharing:0.39
+  people:0.39
+  seasoned:0.39
+  good:0.20
+
+Topic 1:
+  invite:1.27
+  invites:0.80
+  love:0.61
+  pm:0.60
+  sharing:0.41
+  people:0.41
+  things:0.41
+  seasoned:0.41
+  kindly:0.40
+  accountsi:0.20
+
+Topic 2:
+  invite:1.26
+  invites:0.82
+  love:0.61
+  pm:0.61
+  things:0.41
+  seasoned:0.41
+  people:0.41
+  sharing:0.41
+  kindly:0.40
+  february:0.20
+
+Topic 3:
+  invite:1.74
+  invites:0.72
+  love:0.61
+  pm:0.59
+  kindly:0.40
+  people:0.38
+  seasoned:0.38
+  sharing:0.38
+  things:0.37
+  dhl:0.21
+
+Topic 4:
+  invite:1.27
+  invites:0.87
+  pm:0.61
+  love:0.58
+  seasoned:0.42
+  sharing:0.41
+  people:0.41
+  kindly:0.40
+  things:0.39
+  guess:0.20
+
+K: 5, Log-Likelihood: -240.271, Alpha: 11.000, Beta: 1.100

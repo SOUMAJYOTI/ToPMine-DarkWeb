@@ -1,0 +1,61 @@
+Topic 0:
+  gp:3.07
+  scam:2.85
+  agora:1.78
+  elaborate:1.55
+  ive:1.53
+  darknet:1.53
+  scams:1.53
+  brilliant:1.51
+  pretty:1.50
+  perfume:1.49
+
+Topic 1:
+  fucking:4.99
+  quote:3.45
+  march:3.07
+  agora:2.96
+  key:2.67
+  scamming:2.40
+  real:2.29
+  signature:2.27
+  gp:2.24
+  message:2.24
+
+Topic 2:
+  vendor:8.37
+  agora:6.44
+  hub:3.74
+  link:3.62
+  scam:3.59
+  guy:3.33
+  signed:3.33
+  verified:3.29
+  goingpostal:3.11
+  note:2.76
+
+Topic 3:
+  key:3.15
+  block:2.96
+  fcqegh:2.96
+  order:2.32
+  public:2.15
+  scam:2.05
+  market:2.05
+  portal:1.96
+  funds:1.96
+  lb:1.96
+
+Topic 4:
+  message:9.12
+  march:9.11
+  quote:6.80
+  site:6.20
+  pgp:5.70
+  realgoingpostal:5.01
+  doesnt:4.53
+  reply:3.62
+  scamming:3.45
+  decrypt:3.29
+
+K: 5, Log-Likelihood: -4740.805, Alpha: 11.000, Beta: 1.100

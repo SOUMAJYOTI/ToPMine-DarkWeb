@@ -1,0 +1,61 @@
+Topic 0:
+  forum:5.21
+  market:1.93
+  june:1.62
+  forums:1.33
+  main:1.28
+  agora:1.17
+  quote:1.07
+  happy:1.01
+  ag:0.93
+  rarely:0.87
+
+Topic 1:
+  forum:4.11
+  market:1.64
+  agora:1.28
+  forums:1.18
+  june:1.13
+  main:1.01
+  quote:0.95
+  ag:0.79
+  ddos:0.78
+  spammer:0.78
+
+Topic 2:
+  forum:2.56
+  markets:2.21
+  money:1.62
+  forums:1.47
+  competing:1.42
+  market:1.38
+  happen:1.26
+  hub:1.13
+  lol:1.07
+  ag:0.97
+
+Topic 3:
+  forum:4.42
+  sr:2.97
+  spammer:1.58
+  tired:1.49
+  wank:1.48
+  hurt:1.48
+  throwaway:1.48
+  butt:1.47
+  fest:1.47
+  designed:1.46
+
+Topic 4:
+  forum:3.69
+  forums:1.44
+  market:1.38
+  june:1.23
+  agora:1.13
+  competing:1.05
+  quote:1.00
+  main:1.00
+  ag:0.89
+  board:0.77
+
+K: 5, Log-Likelihood: -1468.001, Alpha: 11.000, Beta: 1.100

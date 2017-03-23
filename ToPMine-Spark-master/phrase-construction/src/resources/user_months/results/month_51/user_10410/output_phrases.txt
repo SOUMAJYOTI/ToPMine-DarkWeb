@@ -1,0 +1,61 @@
+Topic 0:
+  good:2.34
+  facebook:2.33
+  serves:1.66
+  post:1.66
+  hope:1.66
+  ship:1.66
+  tla:1.66
+  runs:1.66
+  electricity:1.66
+  nasty:1.66
+
+Topic 1:
+  pgp:3.50
+  people:2.69
+  affairs:1.91
+  amazing isnt crypts:1.91
+  resist state encroachment daily:1.91
+  unencrypted:1.71
+  silk:1.71
+  hands:1.71
+  cheddar:1.71
+  june amquote:1.71
+
+Topic 2:
+  surprised:3.74
+  hell:2.40
+  kidding:2.40
+  zaphodeven:1.93
+  facebook implemented times changing:1.82
+  encroachment daily affairs:1.80
+  website:1.51
+  understood:1.51
+  tor:1.51
+  leaders:1.51
+
+Topic 3:
+  info:5.33
+  nsa:3.97
+  onion:2.84
+  foia:2.56
+  mail:2.56
+  snail:2.56
+  thing:2.56
+  citizen:2.56
+  entire government:2.56
+  public:2.56
+
+Topic 4:
+  academics essential everyday lives:2.41
+  illegal push lower radar:1.88
+  lifetime province geeks spooks:1.87
+  collection uncontrollable cryptography imoits:1.86
+  making data:1.84
+  amazing isnt crypts human:1.83
+  june amquote walter pmim:1.63
+  quote zaphod:1.63
+  afraid stopping declaring collection:1.63
+  daily affairs:1.63
+
+K: 5, Log-Likelihood: -1949.020, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tails:2.35
+  electrum:1.81
+  option:1.74
+  wallet:1.45
+  network:1.15
+  onion:1.13
+  org:0.69
+  default:0.65
+  connects:0.65
+  connect:0.50
+
+Topic 1:
+  onion:1.65
+  tails:1.19
+  electrum:1.06
+  menu:0.75
+  network:0.74
+  applications:0.74
+  rwpmjwjfocguylj:0.70
+  thread:0.65
+  quietforest:0.63
+  issue:0.62
+
+Topic 2:
+  onion:1.27
+  tails:1.11
+  rwpmjwjfocguylj:0.94
+  applications:0.93
+  menu:0.89
+  electrum:0.87
+  network:0.76
+  quietforest:0.72
+  issue:0.71
+  thread:0.68
+
+Topic 3:
+  tails:1.67
+  onion:1.47
+  electrum:1.16
+  thread:0.66
+  wallet:0.65
+  network:0.63
+  quietforest:0.63
+  issue:0.63
+  protocol:0.62
+  menu:0.59
+
+Topic 4:
+  tails:1.67
+  onion:1.48
+  electrum:1.11
+  option:0.80
+  wallet:0.75
+  network:0.72
+  protocol:0.71
+  issue:0.64
+  org:0.64
+  thread:0.59
+
+K: 5, Log-Likelihood: -731.540, Alpha: 11.000, Beta: 1.100

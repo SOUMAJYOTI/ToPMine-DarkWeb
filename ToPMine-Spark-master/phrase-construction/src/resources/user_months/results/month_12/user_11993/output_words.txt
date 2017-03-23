@@ -1,0 +1,61 @@
+Topic 0:
+  wrong:2.10
+  alfred:2.06
+  pins:1.98
+  trust:1.91
+  low:1.90
+  ill:1.58
+  passwords:1.58
+  easily:1.55
+  reached:1.54
+  offer:1.05
+
+Topic 1:
+  ill:2.87
+  trust:2.24
+  passwords:2.00
+  low:1.87
+  pins:1.80
+  alfred:1.72
+  wrong:1.67
+  reached:1.25
+  easily:1.24
+  dw:0.98
+
+Topic 2:
+  password:2.42
+  dumpsterbaby:1.33
+  forget:1.30
+  troltergeist:1.11
+  free:0.90
+  offer:0.77
+  account:0.60
+  victim:0.59
+  lifetime:0.59
+  nope:0.59
+
+Topic 3:
+  password:6.33
+  protection:5.86
+  pin:3.86
+  ill:3.85
+  btc:3.24
+  forget:2.27
+  ppl:1.99
+  deal:1.87
+  additional:1.87
+  regular:1.87
+
+Topic 4:
+  bob:2.80
+  alarm:2.14
+  ringing:2.13
+  bells:2.13
+  trolltergeist:1.83
+  bitchin:1.81
+  good:1.81
+  flashbacks:1.62
+  psd:1.62
+  brings:1.62
+
+K: 5, Log-Likelihood: -1388.121, Alpha: 11.000, Beta: 1.100

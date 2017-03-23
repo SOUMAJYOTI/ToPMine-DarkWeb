@@ -1,0 +1,18 @@
+instructions,0,1
+including,1,1
+read,2,1
+familiarize,3,1
+alfreds,4,1
+vending,5,1
+link,6,2
+signed,7,1
+rules,8,1
+thread,9,3
+message,10,1
+follow,11,1
+markets,12,1
+post,13,3
+hub,14,2
+vendor,15,2
+post thread,16,1
+verification,17,1

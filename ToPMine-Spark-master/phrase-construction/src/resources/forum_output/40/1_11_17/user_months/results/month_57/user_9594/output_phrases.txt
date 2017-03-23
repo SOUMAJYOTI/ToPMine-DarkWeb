@@ -1,0 +1,61 @@
+Topic 0:
+  guess:0.74
+  wondering:0.66
+  appreciated:0.64
+  safe:0.64
+  switch:0.64
+  opinion:0.64
+  agra:0.63
+  market:0.58
+  abraxas:0.55
+  visited:0.53
+
+Topic 1:
+  operation:1.02
+  friendly:1.02
+  concerned:1.01
+  terms:1.01
+  good:1.01
+  dream:1.01
+  visited:1.01
+  usability:1.00
+  vendor:1.00
+  big:1.00
+
+Topic 2:
+  abraxas:0.70
+  market:0.63
+  appreciated:0.61
+  safe:0.61
+  opinion:0.61
+  switch:0.60
+  agra:0.59
+  wondering:0.59
+  guess:0.58
+  perspective:0.58
+
+Topic 3:
+  love avengers:4.60
+  drug listings:3.68
+  referred link:2.78
+  referred link link:2.22
+  traffic:1.56
+  moved:1.56
+  adapt:1.56
+  bit:1.56
+  azores:1.56
+  agora abraham:1.56
+
+Topic 4:
+  abraxas:1.00
+  darknet market:0.90
+  referred link link:0.76
+  agra:0.67
+  opinion:0.66
+  switch:0.66
+  wondering:0.66
+  appreciated:0.65
+  safe:0.65
+  market:0.65
+
+K: 5, Log-Likelihood: -689.356, Alpha: 11.000, Beta: 1.100

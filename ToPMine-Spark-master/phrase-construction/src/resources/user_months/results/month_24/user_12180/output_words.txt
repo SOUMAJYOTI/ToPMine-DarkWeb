@@ -1,0 +1,61 @@
+Topic 0:
+  helix:1.39
+  bitcoinfog:1.13
+  havent:0.85
+  problems:0.84
+  bitcoin:0.73
+  coins:0.56
+  reddits:0.42
+  abbundance:0.42
+  noticed:0.41
+  weeks:0.41
+
+Topic 1:
+  helix:1.56
+  bitcoinfog:1.01
+  problems:0.78
+  havent:0.76
+  coins:0.65
+  bitcoin:0.60
+  recommend:0.43
+  grams:0.43
+  uri:0.43
+  gramsflow:0.43
+
+Topic 2:
+  helix:1.33
+  bitcoin:1.04
+  bitcoinfog:1.01
+  problems:0.83
+  coins:0.66
+  havent:0.58
+  hours:0.51
+  uri:0.41
+  dont:0.41
+  navigate:0.41
+
+Topic 3:
+  helix:1.23
+  havent:1.16
+  bitcoin:0.95
+  bitcoinfog:0.81
+  problems:0.77
+  money:0.59
+  abbundance:0.51
+  darknetmarkets:0.50
+  complaints:0.50
+  weeks:0.50
+
+Topic 4:
+  helix:1.49
+  bitcoinfog:1.03
+  problems:0.78
+  coins:0.72
+  bitcoin:0.69
+  havent:0.65
+  dont:0.43
+  tacos:0.43
+  uri:0.43
+  gramsflow:0.43
+
+K: 5, Log-Likelihood: -475.414, Alpha: 11.000, Beta: 1.100

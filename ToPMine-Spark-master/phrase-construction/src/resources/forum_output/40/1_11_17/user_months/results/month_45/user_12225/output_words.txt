@@ -1,0 +1,61 @@
+Topic 0:
+  onko:1.55
+  ett:1.32
+  mit:1.20
+  ei:1.08
+  perille:1.05
+  ja:1.03
+  myyj:0.96
+  postin:0.90
+  viikolla:0.85
+  iv:0.78
+
+Topic 1:
+  ett:1.54
+  iv:1.49
+  mit:1.39
+  ja:1.27
+  ei:1.26
+  myyj:1.24
+  viikolla:1.15
+  onko:1.15
+  sama:1.02
+  ss:0.94
+
+Topic 2:
+  rin:4.80
+  jos:2.47
+  tuo:2.23
+  katoaa:1.80
+  auttaisi:1.80
+  kiitett:1.80
+  si:1.80
+  niill:1.80
+  tehd:1.80
+  visit:1.80
+
+Topic 3:
+  ei:2.55
+  ratkaisu:1.93
+  enimm:1.72
+  iskoko:1.71
+  ongelma:1.52
+  pikana:1.38
+  seurantakoodikirjattukirje:1.38
+  ytyy:1.38
+  vast:1.38
+  ongelmaan:1.37
+
+Topic 4:
+  ei:3.79
+  ongelma:2.71
+  iv:1.72
+  kamera:1.70
+  ss:1.69
+  joka:1.68
+  ja:1.62
+  hetyst:1.42
+  ett:1.40
+  postissa:1.31
+
+K: 5, Log-Likelihood: -2412.010, Alpha: 11.000, Beta: 1.100

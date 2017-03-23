@@ -1,0 +1,61 @@
+Topic 0:
+  step:1.29
+  time:1.27
+  cry:1.27
+  days:1.27
+  stumbled:1.27
+  somethings:1.26
+  great:1.26
+  hahaha:1.25
+  question:1.25
+  stay:1.25
+
+Topic 1:
+  aright:1.04
+  kinds:1.04
+  supply:1.04
+  feeling:1.03
+  solely:1.03
+  websites:1.03
+  visit:1.02
+  wanted:1.02
+  onionland:1.02
+  ago:1.01
+
+Topic 2:
+  search:0.56
+  ve:0.56
+  jazz:0.56
+  heya:0.56
+  general:0.56
+  alarming:0.56
+  life:0.55
+  months:0.55
+  nature:0.55
+  experience:0.55
+
+Topic 3:
+  vendor:1.02
+  led vendors:1.01
+  brightest:1.00
+  active:1.00
+  vendors:1.00
+  markets:1.00
+  find:0.99
+  place:0.99
+  reviews:0.99
+  rated:0.99
+
+Topic 4:
+  websites visit:0.65
+  dim:0.64
+  aware:0.64
+  onion:0.63
+  find:0.52
+  brother:0.52
+  markets:0.52
+  darknet:0.52
+  place:0.52
+  rated:0.52
+
+K: 5, Log-Likelihood: -562.991, Alpha: 11.000, Beta: 1.100

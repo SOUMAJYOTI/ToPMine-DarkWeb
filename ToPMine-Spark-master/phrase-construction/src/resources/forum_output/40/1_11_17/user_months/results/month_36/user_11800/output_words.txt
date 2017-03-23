@@ -1,0 +1,61 @@
+Topic 0:
+  site:1.84
+  full:1.77
+  dn:1.73
+  green:1.38
+  forum:1.34
+  goods:1.25
+  mention:1.25
+  hey:1.25
+  doesnt:1.25
+  noticed:1.25
+
+Topic 1:
+  gpg:5.43
+  market:5.05
+  key:3.60
+  feedback:2.06
+  named:2.05
+  read:2.05
+  running:2.05
+  transaction:2.04
+  main:2.04
+  forums:2.04
+
+Topic 2:
+  message:9.66
+  signed:9.02
+  signature:8.68
+  key:4.94
+  gpg:4.19
+  pgp:3.73
+  zaphod:3.40
+  time:3.29
+  verify:2.72
+  good:2.66
+
+Topic 3:
+  road:6.57
+  site:3.47
+  sites:3.20
+  green:3.14
+  onion:2.93
+  time:2.53
+  silk:2.45
+  precious:1.93
+  search:1.93
+  internal:1.45
+
+Topic 4:
+  forum:2.45
+  wiki:1.59
+  hidden:1.50
+  helpful:1.07
+  imputable:1.05
+  didnt:1.04
+  full:0.94
+  market:0.89
+  login:0.86
+  lot:0.83
+
+K: 5, Log-Likelihood: -2521.840, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  sites:1.24
+  set:1.22
+  glad:0.51
+  servers:0.51
+  build:0.51
+  fees:0.51
+  ensure:0.51
+  sad:0.51
+  place:0.51
+  price:0.51
+
+Topic 1:
+  things:1.60
+  site:1.60
+  send:0.65
+  familiar:0.65
+  december:0.65
+  ubercart:0.65
+  pm:0.65
+  close:0.65
+  providing:0.65
+  payment:0.65
+
+Topic 2:
+  set:0.60
+  sites:0.57
+  vendors:0.35
+  seeking:0.33
+  host:0.33
+  hold:0.33
+  heard:0.33
+  earlier:0.33
+  chance:0.33
+  hc:0.32
+
+Topic 3:
+  crashing:1.11
+  problem:1.11
+  module:1.09
+  server:1.06
+  bitcoin:0.69
+  electrum:0.48
+  reply:0.48
+  fixed:0.48
+  good:0.48
+  updates:0.48
+
+Topic 4:
+  server:0.84
+  module:0.81
+  problem:0.79
+  crashing:0.79
+  bitcoin:0.63
+  wordpress:0.42
+  functionality:0.39
+  bitcoind:0.39
+  pay:0.39
+  system:0.39
+
+K: 5, Log-Likelihood: -529.274, Alpha: 11.000, Beta: 1.100

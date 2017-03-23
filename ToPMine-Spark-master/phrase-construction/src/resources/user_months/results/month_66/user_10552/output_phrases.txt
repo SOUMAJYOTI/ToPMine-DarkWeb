@@ -1,0 +1,61 @@
+Topic 0:
+  time:2.72
+  bands:2.48
+  good:2.37
+  equipment:1.30
+  thousands:1.29
+  save:1.28
+  checking:1.27
+  tinted:1.27
+  possibilities:1.27
+  including:1.27
+
+Topic 1:
+  electrum wallet:5.01
+  mix coins:3.34
+  trace:3.34
+  charges:3.34
+  coins:3.20
+  transfer:2.48
+  grams:2.47
+  tails:2.25
+  untraceable transfer:2.24
+  clear:2.24
+
+Topic 2:
+  electrum address:3.35
+  markets:3.35
+  tumble:3.35
+  coins:2.74
+  vending:1.65
+  fresh:1.65
+  people:1.65
+  directly:1.65
+  secondary:1.65
+  grass:1.65
+
+Topic 3:
+  mixing service:3.15
+  work:1.54
+  money:1.54
+  aliexpress:1.54
+  resolve:1.54
+  buy:1.54
+  owe:1.54
+  pm:1.54
+  mix tails:1.48
+  check:1.48
+
+Topic 4:
+  bands:3.87
+  government:2.68
+  good:2.67
+  bugs:2.50
+  time:2.32
+  find camera:1.33
+  quadrants:1.30
+  hits:1.29
+  microwaves:1.29
+  pick:1.29
+
+K: 5, Log-Likelihood: -2432.894, Alpha: 11.000, Beta: 1.100

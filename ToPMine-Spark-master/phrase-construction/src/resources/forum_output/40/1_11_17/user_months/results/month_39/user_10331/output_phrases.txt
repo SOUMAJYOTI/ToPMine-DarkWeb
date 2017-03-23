@@ -1,0 +1,61 @@
+Topic 0:
+  deep web:10.06
+  darknet:10.06
+  good:4.20
+  ill:4.02
+  http:4.02
+  presence:4.02
+  expert:4.00
+  dad:3.81
+  quote:3.66
+  tor users:3.23
+
+Topic 1:
+  sort:9.73
+  anonymity:6.71
+  tor:6.64
+  years ago:6.04
+  doesnt:4.86
+  hidden services:4.79
+  silkroad:4.02
+  analysis:4.02
+  hand:4.02
+  flow:4.02
+
+Topic 2:
+  openwall:8.05
+  glibc:6.04
+  quotesteve yeah:6.04
+  called:4.87
+  thing:4.02
+  dug:4.02
+  weeks:4.02
+  documents:4.02
+  eyes:4.02
+  origin:4.02
+
+Topic 3:
+  search engine:8.05
+  white:8.05
+  content:8.05
+  sites:6.60
+  data:6.57
+  memex:6.57
+  law enforcement:6.54
+  dark web:6.04
+  hidden services sites:6.04
+  hidden services:4.85
+
+Topic 4:
+  school:8.03
+  steve:7.95
+  dont:6.82
+  pay cash:6.41
+  real:5.42
+  anonymous:5.34
+  tor nodes:5.32
+  traffic:5.28
+  tor:5.03
+  anonymity:4.35
+
+K: 5, Log-Likelihood: -19060.125, Alpha: 11.000, Beta: 1.100

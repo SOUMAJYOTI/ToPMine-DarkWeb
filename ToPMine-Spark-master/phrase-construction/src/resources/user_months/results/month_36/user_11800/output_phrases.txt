@@ -1,0 +1,61 @@
+Topic 0:
+  onion:6.88
+  site:5.53
+  sites:5.15
+  precious:4.57
+  search:4.57
+  green road:3.90
+  silk road:3.82
+  time:3.19
+  serve:2.27
+  lesson:2.27
+
+Topic 1:
+  login:4.50
+  green road:3.94
+  mention:3.57
+  site full:3.57
+  smell:3.57
+  doesnt:3.57
+  hey:3.56
+  noticed:3.56
+  goods:3.56
+  heard:3.11
+
+Topic 2:
+  hidden wiki:5.55
+  didnt:4.54
+  market manditory forum:3.18
+  forum:2.81
+  quote:2.49
+  dn:2.37
+  december:2.26
+  realize:2.24
+  dnstats:2.24
+  night:2.24
+
+Topic 3:
+  signed message:7.39
+  signature:6.79
+  key:6.79
+  pgp:5.40
+  signature zaphod:5.40
+  message signed:5.40
+  gpg:4.68
+  good:3.69
+  time:3.50
+  december:3.49
+
+Topic 4:
+  lot:4.48
+  imputable:4.47
+  helpful:4.47
+  vendors:3.64
+  money:2.18
+  personal:2.18
+  curious:2.18
+  mindset:2.18
+  people:2.18
+  whove:2.18
+
+K: 5, Log-Likelihood: -4393.896, Alpha: 11.000, Beta: 1.100

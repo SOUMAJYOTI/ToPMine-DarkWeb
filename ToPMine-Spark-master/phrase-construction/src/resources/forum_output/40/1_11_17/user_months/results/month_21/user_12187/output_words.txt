@@ -1,0 +1,61 @@
+Topic 0:
+  issues:0.40
+  agra:0.20
+  timeout:0.20
+  darknet:0.20
+  referred:0.20
+  sr:0.20
+  good:0.20
+  user:0.20
+  login:0.20
+  fled:0.20
+
+Topic 1:
+  issues:0.40
+  hour:0.20
+  replies:0.20
+  agora:0.20
+  mate:0.20
+  connecting:0.20
+  scoping:0.20
+  iceweasel:0.20
+  supposed:0.20
+  sticked:0.20
+
+Topic 2:
+  issues:0.40
+  hour:0.20
+  agora:0.20
+  mate:0.20
+  markets:0.20
+  timeout:0.20
+  success:0.20
+  topic:0.20
+  site:0.20
+  week:0.20
+
+Topic 3:
+  issues:0.40
+  mate:0.20
+  agora:0.20
+  login:0.20
+  current:0.20
+  markets:0.20
+  good:0.20
+  week:0.20
+  topic:0.20
+  replies:0.20
+
+Topic 4:
+  issues:0.40
+  mate:0.20
+  scoping:0.20
+  addresses:0.20
+  week:0.20
+  iceweasel:0.20
+  darknet:0.20
+  site:0.20
+  sticked:0.20
+  sr:0.20
+
+K: 5, Log-Likelihood: -91.945, Alpha: 11.000, Beta: 1.100

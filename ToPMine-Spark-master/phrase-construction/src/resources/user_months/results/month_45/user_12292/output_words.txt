@@ -1,0 +1,61 @@
+Topic 0:
+  mmmynttinen:0.53
+  toki:0.49
+  nain:0.49
+  jos:0.49
+  ei:0.49
+  rival:0.42
+  myyj:0.42
+  statukset:0.42
+  en:0.42
+  vaikka:0.42
+
+Topic 1:
+  mmmynttinen:0.70
+  ja:0.45
+  en:0.36
+  mites:0.36
+  vaikka:0.36
+  statukset:0.36
+  saadaan:0.36
+  rival:0.36
+  myyj:0.36
+  pelitt:0.30
+
+Topic 2:
+  mmmynttinen:0.58
+  nain:0.44
+  ei:0.44
+  jos:0.44
+  toki:0.43
+  mites:0.41
+  myyj:0.41
+  statukset:0.41
+  en:0.41
+  saadaan:0.41
+
+Topic 3:
+  mmmynttinen:0.57
+  jos:0.45
+  ei:0.44
+  nain:0.44
+  toki:0.44
+  en:0.41
+  statukset:0.41
+  rival:0.41
+  saadaan:0.41
+  vaikka:0.41
+
+Topic 4:
+  mmmynttinen:0.63
+  vaikka:0.41
+  saadaan:0.41
+  mites:0.41
+  myyj:0.40
+  rival:0.40
+  statukset:0.40
+  ja:0.40
+  en:0.40
+  toki:0.37
+
+K: 5, Log-Likelihood: -445.999, Alpha: 11.000, Beta: 1.100

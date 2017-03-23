@@ -1,0 +1,61 @@
+Topic 0:
+  worried:0.82
+  national:0.55
+  day:0.55
+  destroy:0.55
+  phone:0.54
+  battery:0.45
+  alreadyi:0.44
+  quote:0.44
+  pmwe:0.44
+  basics:0.44
+
+Topic 1:
+  worried:1.22
+  destroy:0.65
+  day:0.64
+  national:0.64
+  atop:0.57
+  thing:0.57
+  tbb:0.57
+  smartphone:0.57
+  heh:0.57
+  html:0.57
+
+Topic 2:
+  silk road:0.59
+  guilty:0.51
+  ulbricht:0.48
+  member:0.45
+  money laundering:0.44
+  federal:0.43
+  bridges:0.42
+  stealing:0.39
+  obstruction:0.39
+  shaun:0.39
+
+Topic 3:
+  websites:4.21
+  people:4.21
+  internet:4.21
+  technology:2.02
+  left:2.02
+  identify:2.02
+  researchers:2.02
+  charge:2.02
+  privacy:2.02
+  precautions:2.02
+
+Topic 4:
+  silk road:6.99
+  bridges:3.87
+  ulbricht:3.81
+  federal:2.76
+  money laundering:2.75
+  member:2.74
+  guilty:2.67
+  investigation:1.75
+  drug:1.74
+  sales:1.74
+
+K: 5, Log-Likelihood: -1392.626, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  july:7.41
+  image:5.16
+  apopularvendor:4.66
+  quote:4.32
+  agra:3.85
+  images:3.85
+  error:3.85
+  button:3.85
+  pops:3.85
+  permission:3.85
+
+Topic 1:
+  june:13.06
+  zaphod:6.57
+  bitin:5.94
+  transaction:5.44
+  recommend:4.98
+  dont:4.91
+  transactions:4.88
+  pmquote:4.73
+  air:4.48
+  signing:4.42
+
+Topic 2:
+  folder:7.23
+  quote:7.10
+  recommend:5.90
+  machine:4.25
+  pmquote:4.18
+  tutorial:3.76
+  air:3.63
+  signing:3.54
+  purpose:3.47
+  sole:3.38
+
+Topic 3:
+  wallet:18.43
+  tails:11.06
+  tor:10.53
+  electrum:6.05
+  browser:5.88
+  dont:4.47
+  transactions:3.88
+  good:2.95
+  wireshark:2.87
+  torification:2.87
+
+Topic 4:
+  bitcoin:16.93
+  address:10.77
+  transactions:10.44
+  thin:8.87
+  addresses:7.89
+  clients:7.89
+  server:7.85
+  science:5.96
+  blockchain:5.90
+  filters:5.85
+
+K: 5, Log-Likelihood: -5976.995, Alpha: 11.000, Beta: 1.100

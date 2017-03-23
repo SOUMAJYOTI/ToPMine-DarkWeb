@@ -1,0 +1,61 @@
+Topic 0:
+  escrow:0.28
+  vox:0.28
+  times:0.14
+  asked:0.14
+  allot:0.14
+  week:0.14
+  staff:0.14
+  systeems:0.14
+  questions:0.14
+  fuck:0.14
+
+Topic 1:
+  escrow:0.28
+  vox:0.28
+  answers:0.14
+  times:0.14
+  market:0.14
+  allot:0.14
+  fuck:0.14
+  systeems:0.14
+  week:0.14
+  questions:0.14
+
+Topic 2:
+  vox:0.28
+  escrow:0.28
+  pandora:0.14
+  populi:0.14
+  deii:0.14
+  lost:0.14
+  monthswhat:0.14
+  warned:0.14
+  suprise:0.14
+  quote:0.14
+
+Topic 3:
+  vox:0.28
+  escrow:0.28
+  warned:0.14
+  amthere:0.14
+  problems:0.14
+  suprise:0.14
+  pothead:0.14
+  site:0.14
+  quote:0.14
+  lost:0.14
+
+Topic 4:
+  escrow:0.28
+  vox:0.28
+  systeems:0.14
+  staff:0.14
+  answers:0.14
+  allot:0.14
+  questions:0.14
+  week:0.14
+  asked:0.14
+  fuck:0.14
+
+K: 5, Log-Likelihood: -59.426, Alpha: 11.000, Beta: 1.100

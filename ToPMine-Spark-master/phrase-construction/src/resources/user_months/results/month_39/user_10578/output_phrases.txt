@@ -1,0 +1,61 @@
+Topic 0:
+  post:1.99
+  kde:1.59
+  security:1.59
+  er:1.59
+  om:1.59
+  living:1.59
+  agm:1.59
+  thought:1.59
+  agimel:1.59
+  gnupg:1.59
+
+Topic 1:
+  signing:5.27
+  myoldfriend:5.02
+  forum:4.61
+  message:4.56
+  public key:4.35
+  venue:3.76
+  key:3.59
+  create account:3.32
+  gpg key:3.32
+  metadata:3.29
+
+Topic 2:
+  key:1.58
+  venue:1.37
+  messages:1.20
+  good:1.17
+  public key:1.12
+  pgp:1.08
+  airgapped:1.08
+  forum:1.00
+  talking friend:0.95
+  laptop:0.95
+
+Topic 3:
+  quote:4.83
+  agreed:4.83
+  march:4.77
+  good idea:4.77
+  party:3.19
+  quietforest:3.19
+  keys year mitigate impersonations:2.56
+  forgot detail set expiration:2.56
+  certificate:2.35
+  upload:2.35
+
+Topic 4:
+  venue:4.47
+  forum:3.99
+  myoldfriend:3.64
+  signing:3.53
+  encrypted public key:3.41
+  gpg key:3.20
+  create account:3.12
+  metadata:3.12
+  talking friend:2.97
+  public key:2.93
+
+K: 5, Log-Likelihood: -5866.289, Alpha: 11.000, Beta: 1.100

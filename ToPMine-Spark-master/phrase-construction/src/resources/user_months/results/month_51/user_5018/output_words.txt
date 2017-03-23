@@ -1,0 +1,61 @@
+Topic 0:
+  hacker:3.30
+  russian:1.27
+  hackers:1.00
+  forums:0.76
+  amount:0.64
+  job:0.63
+  dnm:0.46
+  feel:0.31
+  banter:0.31
+  hope:0.31
+
+Topic 1:
+  crazy:1.15
+  tuned:1.15
+  attacks:1.15
+  relentlessly:1.14
+  netbot:1.14
+  fair:1.14
+  type:1.14
+  safe:1.14
+  russians:1.14
+  week:1.14
+
+Topic 2:
+  hacker:2.00
+  russian:1.62
+  hackers:0.73
+  dnm:0.72
+  job:0.67
+  amount:0.64
+  forums:0.53
+  garden:0.42
+  shit:0.41
+  ago:0.41
+
+Topic 3:
+  russian:3.06
+  hacker:2.04
+  dnm:1.30
+  sour:1.14
+  love:1.14
+  enjoying:1.14
+  hypothetically:1.14
+  great:1.13
+  question:1.13
+  days:1.13
+
+Topic 4:
+  btc:2.52
+  hacker:2.16
+  paying:1.57
+  loyalty:1.56
+  anonymous:1.56
+  people:1.56
+  things:1.56
+  reason:1.56
+  hackers:1.32
+  working:0.66
+
+K: 5, Log-Likelihood: -674.997, Alpha: 11.000, Beta: 1.100

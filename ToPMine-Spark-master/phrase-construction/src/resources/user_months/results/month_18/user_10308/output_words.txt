@@ -1,0 +1,61 @@
+Topic 0:
+  sr:1.50
+  market:1.31
+  agora:0.96
+  evolution:0.79
+  flawed:0.60
+  lol:0.55
+  btc:0.54
+  listings:0.54
+  spent:0.54
+  monkey:0.53
+
+Topic 1:
+  market:4.03
+  sr:1.14
+  listings:1.05
+  popular:1.05
+  traffic:0.93
+  daily:0.92
+  weekly:0.92
+  agora:0.80
+  evolution:0.41
+  misleading:0.39
+
+Topic 2:
+  agora:1.49
+  market:1.48
+  evolution:1.21
+  popular:0.82
+  sr:0.81
+  listings:0.78
+  spent:0.63
+  btc:0.63
+  ripped:0.62
+  flawed:0.40
+
+Topic 3:
+  market:1.62
+  sr:1.25
+  agora:0.59
+  monkey:0.57
+  lol:0.55
+  voted:0.54
+  listings:0.50
+  popular:0.48
+  flawed:0.47
+  evolution:0.44
+
+Topic 4:
+  peoples:2.64
+  risk:2.63
+  promoting:1.65
+  asshole:1.65
+  people:1.65
+  cancer:0.71
+  rows:0.71
+  humorous:0.71
+  game:0.71
+  void:0.71
+
+K: 5, Log-Likelihood: -631.651, Alpha: 11.000, Beta: 1.100

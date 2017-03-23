@@ -1,0 +1,56 @@
+Topic 0:
+  questions:0.20
+  hub:0.20
+  outlaw:0.20
+  forums:0.20
+  feel:0.20
+  administration:0.20
+  free:0.20
+  hey:0.20
+  atari:0.20
+
+Topic 1:
+  outlaw:0.20
+  hub:0.20
+  feel:0.20
+  free:0.20
+  administration:0.20
+  questions:0.20
+  hey:0.20
+  atari:0.20
+  forums:0.20
+
+Topic 2:
+  feel:0.20
+  administration:0.20
+  atari:0.20
+  free:0.20
+  outlaw:0.20
+  hey:0.20
+  hub:0.20
+  forums:0.20
+  questions:0.20
+
+Topic 3:
+  questions:0.20
+  administration:0.20
+  hey:0.20
+  atari:0.20
+  forums:0.20
+  outlaw:0.20
+  free:0.20
+  feel:0.20
+  hub:0.20
+
+Topic 4:
+  forums:0.20
+  hub:0.20
+  free:0.20
+  atari:0.20
+  hey:0.20
+  feel:0.20
+  questions:0.20
+  administration:0.20
+  outlaw:0.20
+
+K: 5, Log-Likelihood: -19.775, Alpha: 11.000, Beta: 1.100

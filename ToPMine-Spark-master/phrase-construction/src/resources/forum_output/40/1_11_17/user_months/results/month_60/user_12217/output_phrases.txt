@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.60
+  join:0.41
+  luvassa:0.38
+  nain:0.38
+  rekister:0.36
+  hyvi:0.36
+  silkkitie:0.36
+  silkkitielle:0.36
+  pit:0.36
+  tervetuloa:0.36
+
+Topic 1:
+  join:0.86
+  ja:0.67
+  jos:0.45
+  today:0.45
+  kaikkien:0.45
+  ostoja:0.45
+  myyntej:0.45
+  linkist:0.45
+  person:0.45
+  minus:0.45
+
+Topic 2:
+  minun linkill:3.26
+  mukaan:2.03
+  viell:2.02
+  ytt:2.02
+  jos olet:1.26
+  bobbe october:1.23
+  laittaa:1.23
+  kerki:0.85
+  suoritetaan:0.85
+  arpalippuun:0.85
+
+Topic 3:
+  join:0.98
+  link:0.70
+  ja:0.64
+  someting:0.50
+  liityit:0.50
+  events:0.50
+  kivaa:0.50
+  jtn:0.50
+  het:0.49
+  win:0.49
+
+Topic 4:
+  laittaa:0.62
+  bobbe october:0.61
+  jos olet:0.59
+  ja:0.52
+  sinuinkin:0.52
+  hyv:0.52
+  prevent:0.52
+  muistathan:0.52
+  ytt ja:0.52
+  sit:0.52
+
+K: 5, Log-Likelihood: -692.144, Alpha: 11.000, Beta: 1.100

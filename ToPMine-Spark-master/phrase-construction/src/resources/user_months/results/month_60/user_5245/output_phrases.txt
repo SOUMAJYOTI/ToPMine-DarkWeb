@@ -1,0 +1,61 @@
+Topic 0:
+  time:2.08
+  good:2.08
+  working:0.89
+  thing:0.89
+  delivery:0.89
+  shipping:0.89
+  price deepweb:0.89
+  worked:0.89
+  democritewe:0.89
+  success:0.89
+
+Topic 1:
+  real:0.71
+  find happiness:0.45
+  wan:0.43
+  feedback:0.43
+  find:0.41
+  market:0.38
+  store:0.37
+  sativa:0.36
+  stoner:0.35
+  sell:0.34
+
+Topic 2:
+  real:0.91
+  feedback:0.48
+  wan:0.48
+  find happiness:0.48
+  market:0.47
+  store:0.46
+  find:0.41
+  perfect:0.39
+  alphabay profil:0.39
+  high:0.39
+
+Topic 3:
+  store:0.69
+  market:0.66
+  earth:0.42
+  stoner:0.42
+  weed price:0.42
+  native:0.42
+  find darknet:0.42
+  powerful:0.42
+  strain:0.42
+  middle:0.42
+
+Topic 4:
+  market:0.93
+  store:0.92
+  pesticide:0.51
+  great:0.51
+  natural:0.51
+  grow:0.51
+  outdoor:0.51
+  merchandise:0.51
+  middle:0.51
+  native:0.51
+
+K: 5, Log-Likelihood: -602.272, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  proof:3.55
+  sabu:3.43
+  sr:2.17
+  cautious:2.17
+  surprised:2.17
+  start:2.17
+  users:2.17
+  disappeared:2.12
+  reappeared:2.12
+  compromise:2.12
+
+Topic 1:
+  captain:7.54
+  fbi:3.69
+  vendors:3.69
+  weary:3.69
+  senior:3.69
+  mentioned:3.69
+  compromised sabu:3.69
+  roger:3.15
+  jolly:3.11
+  posting:2.23
+
+Topic 2:
+  people:5.90
+  coke dealer sold time:4.61
+  people arrested interrogate dealer:4.60
+  suppliers cwbs case started:4.60
+  time:4.23
+  grow:3.76
+  guy post:3.76
+  comment guy:3.76
+  ye:3.76
+  equally:3.76
+
+Topic 3:
+  drugs:11.59
+  drugs people:7.69
+  le:6.95
+  nick:4.64
+  threads:4.64
+  profile post hard credibilty:4.45
+  thing cab knockknock:4.45
+  post people:4.44
+  general exercise extreme caution:4.43
+  yeah controlled:3.80
+
+Topic 4:
+  online:4.65
+  people:3.90
+  bit:3.06
+  fucked:2.30
+  reasons:2.30
+  relaxing:2.30
+  sick:2.30
+  computer:2.30
+  family:2.30
+  courses:2.30
+
+K: 5, Log-Likelihood: -3233.297, Alpha: 11.000, Beta: 1.100

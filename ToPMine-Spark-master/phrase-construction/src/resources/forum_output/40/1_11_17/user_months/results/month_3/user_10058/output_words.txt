@@ -1,0 +1,61 @@
+Topic 0:
+  fog:0.86
+  complete:0.64
+  hrs:0.48
+  days:0.46
+  ago:0.45
+  completed:0.34
+  transaction:0.34
+  slow:0.34
+  anyoe:0.23
+  chain:0.23
+
+Topic 1:
+  fog:0.99
+  complete:0.59
+  slow:0.42
+  completed:0.42
+  transaction:0.41
+  days:0.39
+  ago:0.39
+  hrs:0.37
+  admit:0.20
+  kind:0.20
+
+Topic 2:
+  fog:1.08
+  complete:0.59
+  transaction:0.44
+  slow:0.44
+  completed:0.44
+  ago:0.36
+  days:0.36
+  hrs:0.34
+  months:0.21
+  blips:0.21
+
+Topic 3:
+  fog:0.94
+  complete:0.61
+  hrs:0.47
+  days:0.44
+  ago:0.44
+  transaction:0.36
+  completed:0.35
+  slow:0.35
+  worse:0.22
+  attempted:0.22
+
+Topic 4:
+  fog:1.12
+  complete:0.56
+  slow:0.45
+  transaction:0.45
+  completed:0.45
+  ago:0.36
+  days:0.35
+  hrs:0.34
+  btc:0.22
+  advice:0.22
+
+K: 5, Log-Likelihood: -252.303, Alpha: 11.000, Beta: 1.100

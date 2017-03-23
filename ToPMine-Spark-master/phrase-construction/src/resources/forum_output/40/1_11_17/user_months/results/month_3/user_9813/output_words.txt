@@ -1,0 +1,61 @@
+Topic 0:
+  talk:0.75
+  find:0.41
+  market:0.39
+  lsd:0.39
+  sort:0.39
+  moving:0.39
+  return:0.21
+  register:0.21
+  accounts:0.21
+  account:0.21
+
+Topic 1:
+  talk:0.83
+  sort:0.41
+  lsd:0.40
+  moving:0.40
+  market:0.40
+  find:0.39
+  black:0.20
+  questions:0.20
+  chemist:0.20
+  reading:0.20
+
+Topic 2:
+  talk:0.81
+  moving:0.40
+  sort:0.40
+  find:0.40
+  market:0.40
+  lsd:0.40
+  forum:0.20
+  darknet:0.20
+  link:0.20
+  forgot:0.20
+
+Topic 3:
+  talk:0.79
+  moving:0.41
+  market:0.41
+  lsd:0.41
+  sort:0.40
+  find:0.40
+  mescaline:0.20
+  kilos:0.20
+  time:0.20
+  work:0.20
+
+Topic 4:
+  talk:0.82
+  market:0.40
+  sort:0.40
+  lsd:0.40
+  moving:0.40
+  find:0.40
+  mdma:0.20
+  country:0.20
+  safrole:0.20
+  long:0.20
+
+K: 5, Log-Likelihood: -279.930, Alpha: 11.000, Beta: 1.100

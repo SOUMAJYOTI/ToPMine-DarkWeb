@@ -1,0 +1,61 @@
+Topic 0:
+  agora:2.36
+  dont:1.57
+  attack:1.22
+  server:0.88
+  time:0.88
+  missing:0.88
+  day:0.80
+  quote:0.70
+  issue:0.69
+  troll:0.52
+
+Topic 1:
+  hours:6.03
+  list:4.91
+  agora:4.68
+  whyusheep:3.72
+  sheep:3.62
+  vendors:3.22
+  agra:2.14
+  addresses:1.72
+  latest:1.65
+  agoras:1.65
+
+Topic 2:
+  agora:3.14
+  dont:1.40
+  attack:1.07
+  day:1.05
+  quote:0.68
+  sites:0.67
+  dark:0.67
+  site:0.60
+  people:0.60
+  stexo:0.58
+
+Topic 3:
+  agora:3.08
+  dont:1.65
+  attack:1.37
+  quote:0.95
+  day:0.81
+  march:0.69
+  isnt:0.67
+  agra:0.64
+  troll:0.64
+  traffic:0.63
+
+Topic 4:
+  attack:3.25
+  agora:1.74
+  dont:1.58
+  traffic:1.42
+  day:1.24
+  quote:0.83
+  log:0.79
+  users:0.79
+  ton:0.78
+  guess:0.78
+
+K: 5, Log-Likelihood: -1674.869, Alpha: 11.000, Beta: 1.100

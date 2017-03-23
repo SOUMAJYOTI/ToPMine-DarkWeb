@@ -1,0 +1,61 @@
+Topic 0:
+  dream:1.59
+  referrals:1.39
+  quote:1.30
+  link:1.16
+  december:1.02
+  referred:0.84
+  market:0.72
+  thread:0.67
+  post:0.64
+  noticed:0.48
+
+Topic 1:
+  dream:1.77
+  referrals:1.61
+  quote:1.16
+  link:1.01
+  december:0.95
+  referred:0.88
+  thread:0.77
+  market:0.70
+  post:0.53
+  middle:0.52
+
+Topic 2:
+  link:3.33
+  dream:1.83
+  referrals:1.22
+  quote:0.89
+  vendor:0.71
+  referred:0.70
+  market:0.70
+  december:0.64
+  thread:0.60
+  official:0.59
+
+Topic 3:
+  links:2.71
+  support:2.16
+  hub:2.12
+  december:1.76
+  happy:1.72
+  year:1.72
+  cunt:1.72
+  scabby:1.72
+  correct:0.99
+  convenient:0.97
+
+Topic 4:
+  link:2.29
+  dream:1.61
+  referrals:1.10
+  quote:0.92
+  referred:0.85
+  thread:0.82
+  market:0.72
+  december:0.62
+  code:0.56
+  loli:0.56
+
+K: 5, Log-Likelihood: -755.404, Alpha: 11.000, Beta: 1.100

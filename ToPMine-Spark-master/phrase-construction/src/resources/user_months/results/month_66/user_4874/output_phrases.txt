@@ -1,0 +1,61 @@
+Topic 0:
+  pack:6.15
+  plan ordering:5.93
+  quote:4.24
+  stealth:4.18
+  packs:4.16
+  nervous:4.16
+  finally:4.16
+  fine:4.16
+  arrives:4.16
+  paranoid:4.16
+
+Topic 1:
+  bank account:6.29
+  person cash deposit:5.32
+  pick exit nodes specific:5.30
+  coinbase account reason tor:5.30
+  tor browser:5.30
+  market vendor buy configure:5.30
+  country good anonymously bitin:5.29
+  bank transfer directly people:5.29
+  liable create access wallet:5.29
+  coinbase localbitcoins buy bitcoins:5.28
+
+Topic 2:
+  paul:6.35
+  safety reliability download:6.07
+  online wallet luck:6.05
+  question safety online wallet:6.05
+  feel free questions happy:6.04
+  blockchain good post:6.03
+  wallet:5.87
+  transfer:4.38
+  order:4.19
+  lbs:4.15
+
+Topic 3:
+  bit confused:8.44
+  coinbase chrome:8.44
+  tor:6.50
+  turn:4.20
+  buying:4.20
+  coinbase tor:4.20
+  storing:4.20
+  card:4.20
+  selling:4.20
+  earth:4.20
+
+Topic 4:
+  account:10.17
+  wallet downloaded:9.48
+  paul btc minutes deposit:7.13
+  wallet downloaded buy bitcoins:7.13
+  account bofa:7.13
+  fill slip provided seller:7.12
+  cash deposits bofa dont:7.12
+  cash teller cash deposit:7.12
+  dont:6.89
+  pinto november ami paul:6.84
+
+K: 5, Log-Likelihood: -5503.194, Alpha: 11.000, Beta: 1.100

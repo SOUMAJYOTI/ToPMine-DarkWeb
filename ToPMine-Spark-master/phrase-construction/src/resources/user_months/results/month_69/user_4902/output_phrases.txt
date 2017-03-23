@@ -1,0 +1,61 @@
+Topic 0:
+  woulda:0.08
+  cents:0.08
+  yeah:0.08
+  brave:0.08
+  collected:0.08
+  freaked:0.08
+  dont:0.08
+  wow:0.08
+  lot:0.08
+  package:0.08
+
+Topic 1:
+  wow:0.08
+  cents:0.08
+  small:0.08
+  package:0.08
+  lot:0.08
+  dont:0.08
+  freaked:0.08
+  brave:0.08
+  collected:0.08
+  woulda:0.08
+
+Topic 2:
+  package:0.08
+  dont:0.08
+  woulda:0.08
+  lot:0.08
+  yeah:0.08
+  small:0.08
+  collected:0.08
+  brave:0.08
+  cents:0.08
+  wow:0.08
+
+Topic 3:
+  wow:0.08
+  dont:0.08
+  freaked:0.08
+  brave:0.08
+  woulda:0.08
+  small:0.08
+  yeah:0.08
+  package:0.08
+  collected:0.08
+  lot:0.08
+
+Topic 4:
+  lot:0.08
+  freaked:0.08
+  small:0.08
+  package:0.08
+  wow:0.08
+  collected:0.08
+  cents:0.08
+  yeah:0.08
+  brave:0.08
+  dont:0.08
+
+K: 5, Log-Likelihood: -10.913, Alpha: 11.000, Beta: 1.100

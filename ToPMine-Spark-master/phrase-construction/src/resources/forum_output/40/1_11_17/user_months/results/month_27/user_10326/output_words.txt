@@ -1,0 +1,61 @@
+Topic 0:
+  stylometry:17.65
+  privacy:12.79
+  bob:5.99
+  company:5.99
+  anonymity:5.70
+  alice:5.51
+  adversaries:4.93
+  threat:4.74
+  anonymous:4.73
+  high:4.19
+
+Topic 1:
+  stylometry:48.63
+  writing:29.23
+  english:28.75
+  translation:26.12
+  style:21.47
+  adversaries:20.08
+  author:19.58
+  methods:19.37
+  machine:17.22
+  work:16.88
+
+Topic 2:
+  isolation:33.99
+  encryption:20.99
+  virtual:16.99
+  tor:16.28
+  applications:15.71
+  physical:13.99
+  code:11.69
+  features:10.10
+  concealment:9.99
+  advantages:9.99
+
+Topic 3:
+  approach:32.22
+  set:32.15
+  authors:26.19
+  feature:24.46
+  writeprints:21.83
+  precision:13.87
+  features:13.03
+  author:11.88
+  state:11.77
+  sets:11.54
+
+Topic 4:
+  writing:28.36
+  style:20.15
+  passages:19.11
+  participants:18.88
+  authors:14.79
+  brennan:13.57
+  adversaries:12.98
+  corpus:12.65
+  greenstadt:12.42
+  mccarthy:11.53
+
+K: 5, Log-Likelihood: -32167.043, Alpha: 11.000, Beta: 1.100

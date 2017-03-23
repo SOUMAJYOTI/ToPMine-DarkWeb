@@ -1,0 +1,61 @@
+Topic 0:
+  people:8.15
+  axolotl:5.23
+  ease:4.37
+  tools:3.53
+  speaking:3.53
+  developer:3.53
+  special:3.53
+  current:3.53
+  normals:3.53
+  glaze:3.53
+
+Topic 1:
+  horribly inefficient:5.30
+  pmbefore making claims bitmessage:4.94
+  axa march:4.94
+  true point:4.35
+  resource hog download client:4.29
+  quote:4.16
+  service:4.15
+  days:3.50
+  messages system:3.50
+  sends:3.50
+
+Topic 2:
+  sending:10.71
+  forum:7.13
+  security audit performed:7.13
+  private keys:7.13
+  bm address:7.13
+  web based implementation bitmessage:7.13
+  email address:5.34
+  playground:5.34
+  problem:5.14
+  good:4.92
+
+Topic 3:
+  prevent spam easier pip:4.45
+  messages impossible watching:4.45
+  principles hide sender receiver:4.45
+  bitmessage:4.09
+  quote feeble march:3.76
+  sounds:3.53
+  traffic:3.53
+  terrible:3.53
+  amyou:3.53
+  underlying:3.53
+
+Topic 4:
+  encryption:3.97
+  messaging:3.53
+  precautions:3.53
+  private:3.53
+  users tor:3.53
+  provide:3.53
+  infrastructure:3.53
+  leak:3.53
+  playground good:3.53
+  anonymous:3.53
+
+K: 5, Log-Likelihood: -6869.776, Alpha: 11.000, Beta: 1.100

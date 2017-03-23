@@ -1,0 +1,61 @@
+Topic 0:
+  quote:2.73
+  mulder:2.17
+  bitcoins:1.96
+  password:1.46
+  long:1.42
+  fox:1.41
+  pgp:1.41
+  refuse:1.40
+  open:1.40
+  fooled:1.28
+
+Topic 1:
+  quote:2.11
+  bitcoins:1.66
+  area:1.59
+  open:1.39
+  idea:1.29
+  start:1.23
+  march:1.22
+  mulder:1.01
+  fox:0.94
+  great:0.93
+
+Topic 2:
+  regulatory:2.56
+  localbitcoins:2.55
+  framework:2.54
+  simply:2.25
+  march:2.06
+  quote:2.04
+  place:1.88
+  face:1.85
+  ripoff:1.80
+  transactions:1.80
+
+Topic 3:
+  quote:2.93
+  fooled:2.56
+  mulder:2.51
+  virwox:2.51
+  trading:2.50
+  refuse:2.46
+  pgp:2.45
+  bitcoin:2.39
+  paypal:2.38
+  long:2.38
+
+Topic 4:
+  tor:16.39
+  clearnet:11.54
+  open:10.25
+  dont:6.50
+  site:5.75
+  ron:3.68
+  devices:2.74
+  avoid:2.74
+  popular:2.74
+  depends:2.74
+
+K: 5, Log-Likelihood: -3021.972, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  learn:0.42
+  security:0.41
+  school:0.41
+  opsec:0.28
+  darknet:0.28
+  time:0.28
+  thought:0.28
+  couple:0.28
+  compromise:0.28
+  tor:0.28
+
+Topic 1:
+  learn:0.42
+  school:0.41
+  security:0.41
+  windows:0.28
+  thought:0.28
+  password:0.28
+  future:0.28
+  tor:0.28
+  wanted:0.28
+  alike:0.28
+
+Topic 2:
+  school:0.42
+  security:0.41
+  learn:0.41
+  curls:0.28
+  start:0.28
+  alike:0.28
+  thought:0.28
+  tor:0.28
+  stuff:0.28
+  compromise:0.28
+
+Topic 3:
+  school:0.41
+  security:0.41
+  learn:0.41
+  series:0.27
+  stuff:0.27
+  password:0.27
+  windows:0.27
+  future:0.27
+  clicks:0.27
+  curls:0.27
+
+Topic 4:
+  security:0.43
+  school:0.43
+  learn:0.42
+  wanted:0.28
+  time:0.28
+  covering:0.28
+  shit:0.28
+  mail:0.28
+  read:0.28
+  darknet:0.28
+
+K: 5, Log-Likelihood: -948.968, Alpha: 11.000, Beta: 1.100

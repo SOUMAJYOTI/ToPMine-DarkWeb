@@ -1,0 +1,61 @@
+Topic 0:
+  site:5.00
+  north:2.85
+  real:2.20
+  chinese:2.18
+  joke:2.14
+  legit:2.06
+  dont:1.73
+  korea:1.50
+  dnm:1.50
+  good:1.42
+
+Topic 1:
+  market:3.65
+  april:2.37
+  figured:1.75
+  korea:1.54
+  fools:1.07
+  register:1.03
+  state:1.01
+  horns:0.96
+  north:0.90
+  fell:0.78
+
+Topic 2:
+  market:8.39
+  hosted:2.43
+  admin:2.33
+  markets:1.15
+  link:1.05
+  crypto:0.78
+  panamared:0.78
+  weapons:0.78
+  nojew:0.78
+  reg:0.78
+
+Topic 3:
+  site:8.18
+  legit:3.77
+  north:3.25
+  dnm:3.05
+  joke:3.04
+  dont:2.56
+  chinese:2.41
+  real:2.29
+  fence:1.68
+  sponsored:1.65
+
+Topic 4:
+  market:2.26
+  site:2.17
+  legit:1.65
+  real:1.63
+  north:1.49
+  joke:1.33
+  dont:1.24
+  korea:1.21
+  good:1.19
+  state:1.00
+
+K: 5, Log-Likelihood: -2260.457, Alpha: 11.000, Beta: 1.100

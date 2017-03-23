@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:19.23
+  system:11.78
+  market:10.90
+  tails:9.99
+  key:7.94
+  june:7.70
+  quote:7.67
+  running:7.66
+  astraltraveler:7.65
+  read:6.83
+
+Topic 1:
+  helix:19.87
+  local:14.80
+  btc:11.66
+  bank:10.84
+  cash:10.63
+  moneygram:7.75
+  reload:7.75
+  send:7.55
+  person:7.21
+  connected:6.86
+
+Topic 2:
+  coins:11.33
+  mixer:7.86
+  btc:6.22
+  safe:5.47
+  good:4.80
+  send:4.26
+  le:3.93
+  works:3.93
+  mixers:3.15
+  random:2.84
+
+Topic 3:
+  vpn:13.86
+  helix:10.98
+  cash:10.18
+  tor:6.86
+  buy:6.16
+  hide:5.54
+  fact:5.53
+  safe:3.90
+  router:3.48
+  market:3.47
+
+Topic 4:
+  tor:12.49
+  address:11.99
+  wallet:11.33
+  mixer:10.94
+  email:7.80
+  btc:6.13
+  money:5.11
+  seed:4.94
+  remove:4.93
+  send:4.41
+
+K: 5, Log-Likelihood: -5744.801, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  casino:9.71
+  shadow:8.21
+  system:5.72
+  stealth addresses:4.54
+  shadow sdc:3.75
+  process:3.62
+  financial privacy:3.35
+  ownership:2.77
+  shadowcash:2.72
+  redeeming:2.69
+
+Topic 1:
+  mufti:2.40
+  escrow:2.40
+  problem:1.16
+  sig:1.16
+  ton:1.16
+  scam:1.16
+  happen:1.16
+  lazy:1.16
+  evo:1.16
+  convinced:1.16
+
+Topic 2:
+  shadow:2.78
+  casino:2.75
+  network:1.75
+  system:1.74
+  stealth addresses:1.66
+  financial privacy:1.60
+  code:1.39
+  process:1.33
+  amount:1.31
+  transaction:1.28
+
+Topic 3:
+  year:1.75
+  exist:1.17
+  claim:1.17
+  worked:1.17
+  persists:1.17
+  real:1.17
+  markets people:1.17
+  matured:1.17
+  succeeded:1.17
+  exists:1.17
+
+Topic 4:
+  shadow:6.68
+  sebsebastian told:3.72
+  administrators:3.72
+  project:3.43
+  items:2.56
+  shadow network:2.49
+  silk:2.47
+  isn:2.47
+  web:2.47
+  enforcement:2.47
+
+K: 5, Log-Likelihood: -6520.630, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bitmessage:8.35
+  pgp encrypt messages:7.07
+  email:4.34
+  mail gateway:4.33
+  good secure communicate:4.12
+  feels bad bitmessage:4.11
+  usb:4.01
+  files:3.98
+  boot:3.96
+  bitmessage ch:3.72
+
+Topic 1:
+  claws mail:4.99
+  imap:4.37
+  work:3.46
+  theyr:3.46
+  provider:3.46
+  mail tor:3.46
+  question:3.46
+  noon:3.46
+  completely:3.46
+  mailtor:3.46
+
+Topic 2:
+  design:6.55
+  wheezy:4.36
+  gedit:4.36
+  editor:4.36
+  tails persistent volume:3.91
+  linux:3.46
+  managing:3.46
+  post:3.46
+  unexperienced:3.46
+  safe:3.46
+
+Topic 3:
+  tor client:7.43
+  network:7.04
+  key:6.53
+  surname password:5.92
+  hidden service:4.41
+  tor:4.33
+  rp:4.33
+  circuit:4.33
+  rsa:4.33
+  based:4.33
+
+Topic 4:
+  ssl:5.66
+  tails:5.00
+  bug:4.35
+  systems:4.35
+  unaffected:4.35
+  sites:4.35
+  scared:3.38
+  users:3.37
+  peaceyes:2.42
+  quote timothy leary april:2.22
+
+K: 5, Log-Likelihood: -3462.572, Alpha: 11.000, Beta: 1.100

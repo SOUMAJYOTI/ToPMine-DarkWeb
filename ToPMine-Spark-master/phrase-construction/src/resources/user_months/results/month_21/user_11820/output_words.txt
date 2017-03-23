@@ -1,0 +1,61 @@
+Topic 0:
+  good:0.20
+  rippers:0.20
+  careful:0.20
+  evidence:0.20
+  comments:0.20
+  safe:0.20
+  knew:0.20
+  opinion:0.20
+  hope:0.20
+  pointing:0.20
+
+Topic 1:
+  questions:0.20
+  check:0.20
+  hope:0.20
+  knew:0.20
+  didnt:0.20
+  safe:0.20
+  pointing:0.20
+  thread:0.20
+  evidence:0.20
+  good:0.20
+
+Topic 2:
+  scam:0.20
+  subforum:0.20
+  loss:0.20
+  posted:0.20
+  deep:0.20
+  care:0.20
+  web:0.20
+  opinion:0.20
+  scammers:0.20
+  darknet:0.20
+
+Topic 3:
+  reply:0.20
+  pointing:0.20
+  comments:0.20
+  didnt:0.20
+  check:0.20
+  rippers:0.20
+  evidence:0.20
+  announcement:0.20
+  questions:0.20
+  thread:0.20
+
+Topic 4:
+  care:0.20
+  scammers:0.20
+  darknet:0.20
+  opinion:0.20
+  full:0.20
+  deep:0.20
+  web:0.20
+  announcement:0.20
+  thread:0.20
+  evidence:0.20
+
+K: 5, Log-Likelihood: -84.711, Alpha: 11.000, Beta: 1.100

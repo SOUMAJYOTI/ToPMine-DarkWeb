@@ -1,0 +1,61 @@
+Topic 0:
+  port:1.69
+  settings:0.84
+  electrum:0.80
+  version:0.78
+  april:0.75
+  tails:0.74
+  ve:0.57
+  pray:0.41
+  quote:0.41
+  inanna:0.41
+
+Topic 1:
+  port:1.44
+  version:0.84
+  electrum:0.82
+  tails:0.82
+  april:0.79
+  settings:0.77
+  ve:0.63
+  tor:0.40
+  tv:0.40
+  pmquote:0.40
+
+Topic 2:
+  port:1.66
+  electrum:0.83
+  version:0.83
+  april:0.80
+  tails:0.80
+  settings:0.79
+  ve:0.58
+  definition:0.40
+  latest:0.40
+  difference:0.40
+
+Topic 3:
+  port:1.63
+  april:0.84
+  settings:0.78
+  tails:0.77
+  electrum:0.76
+  version:0.74
+  ve:0.63
+  onion:0.41
+  definition:0.40
+  waiting:0.40
+
+Topic 4:
+  port:1.59
+  tails:0.87
+  april:0.82
+  settings:0.81
+  version:0.81
+  electrum:0.78
+  ve:0.60
+  reason:0.40
+  work:0.40
+  tor:0.40
+
+K: 5, Log-Likelihood: -404.092, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,51 @@
+Topic 0:
+  decided:0.00
+  middle:0.00
+  marketplace:0.00
+  rings:0.00
+  onion:0.00
+  earth:0.00
+  choice:0.00
+  branch:0.00
+
+Topic 1:
+  decided:0.00
+  middle:0.00
+  marketplace:0.00
+  rings:0.00
+  onion:0.00
+  earth:0.00
+  choice:0.00
+  branch:0.00
+
+Topic 2:
+  decided:0.00
+  middle:0.00
+  marketplace:0.00
+  rings:0.00
+  onion:0.00
+  earth:0.00
+  choice:0.00
+  branch:0.00
+
+Topic 3:
+  decided:0.00
+  middle:0.00
+  marketplace:0.00
+  rings:0.00
+  onion:0.00
+  earth:0.00
+  choice:0.00
+  branch:0.00
+
+Topic 4:
+  decided:0.00
+  middle:0.00
+  marketplace:0.00
+  rings:0.00
+  onion:0.00
+  earth:0.00
+  choice:0.00
+  branch:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

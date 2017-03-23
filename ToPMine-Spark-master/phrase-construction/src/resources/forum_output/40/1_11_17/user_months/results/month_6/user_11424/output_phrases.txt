@@ -1,0 +1,61 @@
+Topic 0:
+  directory:1.63
+  implemented:1.22
+  requested:1.22
+  fact:1.21
+  feature:1.21
+  listened:1.21
+  startling:1.21
+  pm:1.17
+  easier:1.15
+  navigate search:1.14
+
+Topic 1:
+  site:9.21
+  meant:2.87
+  freedom:2.87
+  people:2.87
+  impressed:2.86
+  listings:2.86
+  requires:2.86
+  checked:2.86
+  responsive:2.86
+  sllllllloooooowwww:1.89
+
+Topic 2:
+  directory:2.03
+  publishing:1.85
+  updates:1.84
+  feedback idea:1.82
+  launched:1.81
+  attention:1.80
+  reply:1.80
+  specific:1.80
+  function:1.80
+  product:1.80
+
+Topic 3:
+  heard feedback:1.69
+  bit:1.65
+  yeah:1.61
+  working:1.61
+  worth:1.61
+  today:1.61
+  onionshop:1.61
+  heard deepify:1.61
+  updated:1.60
+  navigate search:1.57
+
+Topic 4:
+  vendor:4.49
+  store:2.13
+  evolution:1.78
+  yesterday:1.78
+  deepify:1.78
+  portal:1.78
+  load:1.78
+  edit:1.78
+  captain:1.37
+  advertise:1.37
+
+K: 5, Log-Likelihood: -1245.940, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  pills:6.89
+  evolution:5.05
+  fog:3.08
+  site:2.99
+  save:2.89
+  store:2.87
+  listings:2.85
+  service:2.37
+  klonopin:2.20
+  liable:1.90
+
+Topic 1:
+  money:6.54
+  amounts:5.73
+  dont:5.73
+  deposit:4.76
+  address:4.32
+  withdraw:4.11
+  mixing:3.48
+  based:2.86
+  btc:2.86
+  set:2.68
+
+Topic 2:
+  bitcoin:7.22
+  service:5.98
+  fog:4.53
+  march:4.01
+  coinjoin:3.83
+  shared:3.81
+  mixers:3.77
+  quote:3.60
+  darkcoin:2.87
+  review:2.75
+
+Topic 3:
+  thread:5.76
+  quote:4.94
+  nice:4.86
+  forums:4.82
+  drama:4.76
+  february:4.70
+  evolution:3.67
+  good:3.34
+  break:2.84
+  abounding:2.84
+
+Topic 4:
+  coins:20.81
+  mixer:9.19
+  send:8.82
+  withdraw:7.81
+  address:6.60
+  deposited:5.96
+  deposit:4.15
+  time:2.97
+  automatic:2.96
+  post:2.79
+
+K: 5, Log-Likelihood: -4419.478, Alpha: 11.000, Beta: 1.100

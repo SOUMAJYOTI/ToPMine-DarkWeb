@@ -1,0 +1,61 @@
+Topic 0:
+  claws mail:4.26
+  messages:3.50
+  great:3.50
+  account:3.50
+  hours:3.50
+  sending:3.50
+  faster:3.50
+  pop:3.50
+  reach:3.50
+  signed:3.50
+
+Topic 1:
+  design:6.55
+  gedit:4.36
+  wheezy:4.36
+  editor:4.36
+  tails persistent volume:3.88
+  step step:3.46
+  unexperienced:3.46
+  managing:3.46
+  safe:3.46
+  post:3.46
+
+Topic 2:
+  ssl:7.74
+  tails:4.89
+  sites:4.33
+  bug:4.33
+  unaffected:4.33
+  systems:4.33
+  peaceyes:3.49
+  theyr:3.38
+  work:3.38
+  noon:3.38
+
+Topic 3:
+  bitmessage:8.26
+  pgp encrypt messages:7.04
+  network:6.40
+  mail gateway:4.33
+  email:4.33
+  good secure communicate:3.89
+  feels bad bitmessage:3.89
+  bitmessage ch:3.57
+  insist:3.46
+  bread:3.46
+
+Topic 4:
+  tor client:7.12
+  key:6.53
+  usb:4.53
+  tor:4.33
+  based:4.33
+  rsa:4.33
+  rp:4.33
+  circuit:4.33
+  files:4.11
+  boot:4.11
+
+K: 5, Log-Likelihood: -3529.676, Alpha: 11.000, Beta: 1.100

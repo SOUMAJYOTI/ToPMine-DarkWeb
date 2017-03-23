@@ -1,0 +1,16 @@
+harm,0,1
+business,1,1
+entail,2,1
+vending,3,1
+verified,4,1
+threads,5,1
+advertising,6,2
+follow,7,1
+forum,8,1
+promote,9,1
+maliciously,10,1
+carding,11,2
+instruction,12,1
+things,13,3
+genuine,14,1
+account,15,1

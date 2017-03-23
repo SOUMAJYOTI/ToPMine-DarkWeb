@@ -1,0 +1,61 @@
+Topic 0:
+  road:1.68
+  silk:0.94
+  read:0.78
+  rights:0.78
+  safe:0.73
+  find:0.59
+  people:0.57
+  conduct:0.57
+  individuals:0.56
+  enterprise:0.56
+
+Topic 1:
+  road:1.68
+  silk:1.19
+  read:0.85
+  rights:0.80
+  safe:0.73
+  find:0.63
+  individuals:0.62
+  enterprise:0.60
+  conduct:0.59
+  people:0.59
+
+Topic 2:
+  road:1.07
+  silk:0.97
+  safe:0.79
+  read:0.76
+  rights:0.76
+  conduct:0.58
+  people:0.57
+  find:0.55
+  enterprise:0.55
+  individuals:0.55
+
+Topic 3:
+  silk:1.71
+  road:1.69
+  safe:0.92
+  rights:0.86
+  read:0.77
+  enterprise:0.65
+  people:0.65
+  conduct:0.63
+  individuals:0.63
+  find:0.63
+
+Topic 4:
+  road:1.89
+  silk:1.19
+  read:0.84
+  safe:0.83
+  rights:0.81
+  enterprise:0.63
+  individuals:0.63
+  conduct:0.63
+  people:0.62
+  find:0.60
+
+K: 5, Log-Likelihood: -1555.487, Alpha: 11.000, Beta: 1.100

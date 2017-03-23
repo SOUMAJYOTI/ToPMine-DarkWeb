@@ -1,0 +1,61 @@
+Topic 0:
+  facebook:2.13
+  august:2.05
+  cool:1.99
+  hope:1.50
+  hub:1.43
+  dw:1.41
+  article:1.37
+  quote:1.32
+  trolltergeist:1.30
+  gov:1.18
+
+Topic 1:
+  images:4.32
+  hub:3.64
+  inline:2.37
+  dare:2.04
+  lol:2.02
+  isnt:2.02
+  guess:2.01
+  august:2.01
+  messages:2.01
+  hour:2.01
+
+Topic 2:
+  hope:1.77
+  cool:1.76
+  hub:1.48
+  facebook:1.38
+  august:1.37
+  images:1.26
+  article:1.22
+  inline:1.19
+  trolltergeist:1.01
+  quote:1.00
+
+Topic 3:
+  tor:4.76
+  facebook:2.76
+  google:1.79
+  project:1.77
+  massive:1.70
+  hope:1.35
+  article:1.11
+  secured:0.88
+  eyes:0.87
+  angel:0.86
+
+Topic 4:
+  tor:7.33
+  nsa:2.82
+  flaws:1.84
+  warning:1.84
+  lean:1.84
+  users:1.83
+  things:0.87
+  growing:0.86
+  time:0.86
+  commercial:0.86
+
+K: 5, Log-Likelihood: -1287.135, Alpha: 11.000, Beta: 1.100

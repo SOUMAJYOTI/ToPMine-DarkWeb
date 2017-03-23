@@ -1,0 +1,61 @@
+Topic 0:
+  love:0.75
+  invite:0.61
+  turned:0.41
+  avengers:0.40
+  register:0.40
+  link:0.40
+  market:0.20
+  markets:0.20
+  refer:0.20
+  fa:0.20
+
+Topic 1:
+  love:0.90
+  invite:0.59
+  turned:0.40
+  avengers:0.40
+  register:0.40
+  link:0.40
+  offers:0.20
+  longer:0.20
+  update:0.20
+  fa:0.20
+
+Topic 2:
+  love:0.82
+  invite:0.60
+  link:0.40
+  turned:0.40
+  register:0.40
+  avengers:0.40
+  october:0.20
+  refer:0.20
+  swur:0.20
+  buyer:0.20
+
+Topic 3:
+  love:0.76
+  invite:0.60
+  register:0.40
+  avengers:0.40
+  link:0.40
+  turned:0.40
+  onion:0.20
+  replaced:0.20
+  forum:0.20
+  referred:0.20
+
+Topic 4:
+  love:0.77
+  invite:0.60
+  link:0.40
+  register:0.40
+  avengers:0.40
+  turned:0.40
+  list:0.20
+  find:0.20
+  anvegers:0.20
+  forced:0.20
+
+K: 5, Log-Likelihood: -191.352, Alpha: 11.000, Beta: 1.100

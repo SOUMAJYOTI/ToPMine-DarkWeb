@@ -1,0 +1,61 @@
+Topic 0:
+  coins:0.28
+  vendors:0.17
+  bought:0.14
+  exchanges:0.14
+  wallet:0.14
+  reason:0.14
+  cryptocurency:0.14
+  fully:0.14
+  arrive:0.14
+  good:0.14
+
+Topic 1:
+  coins:0.28
+  vendors:0.17
+  confirmed:0.14
+  fastest:0.14
+  thought:0.14
+  wallets:0.14
+  accepting:0.14
+  transferring:0.14
+  accept:0.14
+  good:0.14
+
+Topic 2:
+  coins:0.28
+  vendors:0.17
+  dough:0.14
+  aware:0.14
+  ultracoin:0.14
+  tiny:0.14
+  thing:0.14
+  earlier:0.14
+  cryptocurreny:0.14
+  fluctuations:0.14
+
+Topic 3:
+  coins:0.28
+  vendors:0.17
+  subject:0.14
+  wild:0.14
+  operate:0.14
+  ultracoin:0.14
+  single:0.14
+  pool:0.14
+  aware:0.14
+  marketplaces:0.14
+
+Topic 4:
+  coins:0.28
+  vendors:0.17
+  dont:0.14
+  marketplaces:0.14
+  minutes:0.14
+  fluctuations:0.14
+  operate:0.14
+  wild:0.14
+  single:0.14
+  aware:0.14
+
+K: 5, Log-Likelihood: -124.217, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  uri:13.43
+  reviews:8.17
+  forum:7.14
+  market:7.05
+  escrow:6.86
+  markets:5.38
+  net:4.95
+  dark:4.57
+  agora:4.39
+  marketplace:4.38
+
+Topic 1:
+  evolution:2.14
+  established:1.84
+  full:1.84
+  marketplaces:1.64
+  find:0.94
+  cloned:0.86
+  exist:0.86
+  drugs:0.86
+  cards:0.86
+  weapons:0.86
+
+Topic 2:
+  uri:8.87
+  escrow:6.28
+  marketplace:6.27
+  markets:6.21
+  market:5.22
+  marketplacesmarketplace:5.18
+  net:5.06
+  agora:4.46
+  vendor:3.99
+  invite:3.67
+
+Topic 3:
+  market:7.11
+  markets:4.17
+  marketplace:4.01
+  escrow:3.93
+  agora:3.27
+  uri:3.08
+  dark:2.68
+  net:1.80
+  vendor:1.78
+  multisig:1.76
+
+Topic 4:
+  market:11.22
+  uri:9.52
+  marketplace:8.22
+  forum:4.31
+  dark:4.02
+  marketplacesmarketplace:3.94
+  escrow:3.82
+  net:3.09
+  vendor:3.06
+  reddit:3.03
+
+K: 5, Log-Likelihood: -4060.559, Alpha: 11.000, Beta: 1.100

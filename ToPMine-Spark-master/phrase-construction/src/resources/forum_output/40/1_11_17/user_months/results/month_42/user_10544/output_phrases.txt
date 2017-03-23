@@ -1,0 +1,61 @@
+Topic 0:
+  buyers potential buyers:4.53
+  send:3.18
+  encrypted:2.98
+  encrypting:2.98
+  impossible:2.98
+  message:2.98
+  making:2.98
+  encrusted:2.98
+  original:2.98
+  send vendors:2.98
+
+Topic 1:
+  adding noise signal:4.52
+  directly:2.96
+  hexeh:2.96
+  time:2.96
+  argument:2.96
+  identifiers:2.96
+  les:2.96
+  details:2.96
+  wasting:2.96
+  intended:2.96
+
+Topic 2:
+  members:6.04
+  start:3.38
+  member:2.99
+  admit:2.99
+  contact:2.99
+  thirty:2.99
+  posted:2.99
+  profiles:2.99
+  keypgp:2.99
+  days:2.99
+
+Topic 3:
+  trust infrastructure:4.52
+  real:3.83
+  easily:2.96
+  attack:2.96
+  compromising:2.96
+  problem:2.96
+  telling:2.96
+  talking forum:2.96
+  credentials:2.96
+  users:2.96
+
+Topic 4:
+  key forum:5.94
+  main:5.93
+  opsec:3.60
+  misunderstood:3.55
+  sense:2.88
+  clarification:2.88
+  compartmentalization:2.88
+  created:2.88
+  absolutely:2.87
+  purposes:1.85
+
+K: 5, Log-Likelihood: -2266.665, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  en:0.60
+  nain:0.57
+  ei:0.55
+  se:0.53
+  jos:0.52
+  tietokone:0.52
+  rej:0.52
+  oo:0.52
+  amat:0.52
+  mit:0.52
+
+Topic 1:
+  paljon:0.72
+  sen:0.69
+  siis:0.69
+  jo:0.69
+  toimivaa:0.69
+  kh:0.69
+  tiet:0.69
+  helpoittais:0.69
+  osotetta:0.69
+  sais:0.69
+
+Topic 2:
+  oon:2.57
+  joku:1.96
+  asentanu:1.20
+  lukee:1.20
+  suht:1.20
+  pystyisin:1.20
+  ohjelmaa:1.20
+  niit:1.20
+  tapa:1.20
+  koodeja:1.20
+
+Topic 3:
+  pgp:2.50
+  mut:1.24
+  voisko:1.14
+  satan:1.14
+  mites:1.14
+  jeesaa:1.14
+  kyy:1.14
+  postiosotetta:1.14
+  siihen:1.14
+  mun:1.14
+
+Topic 4:
+  nain:1.61
+  kielletty:1.04
+  turvallisuuden:1.04
+  ett:1.04
+  voi:1.04
+  onnistuessasi:1.04
+  postiosoitetta:1.04
+  tarvitse:1.04
+  ent:1.04
+  enemp:1.04
+
+K: 5, Log-Likelihood: -779.491, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  os:7.89
+  flash:1.90
+  dark:1.90
+  installed:1.90
+  easy:1.90
+  tor:1.84
+  version:1.75
+  good:1.31
+  encryption:0.90
+  boot:0.90
+
+Topic 1:
+  tails:2.87
+  download:2.08
+  tor:1.95
+  openly:1.88
+  private:1.88
+  darknet:1.88
+  fish:1.88
+  tend:1.88
+  info:1.40
+  open:0.93
+
+Topic 2:
+  version:0.89
+  pip:0.66
+  pgp:0.65
+  dont:0.48
+  work:0.47
+  long:0.47
+  message:0.46
+  people:0.35
+  dfc:0.30
+  os:0.27
+
+Topic 3:
+  version:0.78
+  pgp:0.55
+  work:0.52
+  pip:0.51
+  dont:0.51
+  message:0.40
+  long:0.40
+  dfc:0.31
+  people:0.30
+  os:0.26
+
+Topic 4:
+  pgp:1.76
+  pip:1.12
+  message:1.10
+  long:1.09
+  version:0.94
+  gqtxyzcqlshytt:0.48
+  hqima:0.48
+  xi:0.48
+  qpr:0.48
+  duraq:0.48
+
+K: 5, Log-Likelihood: -1416.433, Alpha: 11.000, Beta: 1.100

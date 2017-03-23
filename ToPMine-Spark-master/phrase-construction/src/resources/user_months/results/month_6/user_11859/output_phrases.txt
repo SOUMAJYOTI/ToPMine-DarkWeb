@@ -1,0 +1,61 @@
+Topic 0:
+  members web trust:3.87
+  members:3.48
+  torescrow:3.31
+  invite:3.22
+  networks:3.19
+  forcing:3.18
+  existing:3.18
+  join:3.15
+  future:3.14
+  rating system:2.71
+
+Topic 1:
+  vendor accounts:5.76
+  vendor:5.53
+  free:4.84
+  site:3.89
+  contact:3.81
+  questions:3.75
+  forums:3.75
+  implemented:3.71
+  requested:3.71
+  pm:3.71
+
+Topic 2:
+  dont:4.64
+  check:4.64
+  order torescrow:3.18
+  customer:3.01
+  focus:2.29
+  offer:2.29
+  domestic:2.29
+  fe:2.29
+  user:2.29
+  moment:2.29
+
+Topic 3:
+  balance:7.01
+  problem:4.66
+  accessible:4.66
+  unconformed:4.66
+  number:4.66
+  transaction confirmations:4.66
+  confirmations:4.66
+  tomorrow:3.65
+  free vyvanse:3.65
+  ill:3.65
+
+Topic 4:
+  fee:8.47
+  marketplace:6.76
+  pgp:6.43
+  signature:4.37
+  decreases:4.29
+  community:4.27
+  services:4.27
+  vendors:4.24
+  depth:4.19
+  increases:4.17
+
+K: 5, Log-Likelihood: -4482.938, Alpha: 11.000, Beta: 1.100

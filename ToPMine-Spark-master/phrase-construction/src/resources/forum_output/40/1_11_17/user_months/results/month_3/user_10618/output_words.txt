@@ -1,0 +1,61 @@
+Topic 0:
+  bunch:4.82
+  february:4.41
+  computer:4.05
+  tractor:3.91
+  paper:3.91
+  hand:3.91
+  quote:3.11
+  lolmodfags:2.78
+  remember:2.75
+  court:2.71
+
+Topic 1:
+  silk:3.92
+  road:3.92
+  nash:3.35
+  prison:3.34
+  australian:2.96
+  charged:2.35
+  brisbane:2.27
+  money:2.22
+  december:2.21
+  drug:2.18
+
+Topic 2:
+  extradition:21.91
+  road:16.20
+  silk:16.20
+  ssbd:11.89
+  nash:11.61
+  offence:9.96
+  conduct:9.96
+  person:7.96
+  evidence:7.96
+  charge:7.08
+
+Topic 3:
+  password:4.17
+  protected:4.16
+  people:3.79
+  ssbd:3.51
+  court:2.04
+  article:1.96
+  country:1.83
+  sitting:1.59
+  jail:1.31
+  read:1.25
+
+Topic 4:
+  nash:13.96
+  road:5.81
+  silk:5.80
+  allegedly:4.18
+  conspiracy:4.16
+  paid:4.09
+  prison:4.02
+  federal:3.20
+  police:3.10
+  drug:3.05
+
+K: 5, Log-Likelihood: -7664.193, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,213 @@
+digital signatures depend rsa,0,4
+reason,1,4
+depend,2,4
+document fingerprint created,3,4
+sign document fingerprint created,4,4
+digital signatures depend,5,4
+password,6,2
+attacks signature representation document,7,4
+signatures depend,8,4
+smaller security digital signatures,9,4
+based,10,2
+signatures depend rsa hash,11,4
+pass,12,2
+sign document,13,4
+easy,14,4
+processor,15,2
+unique,16,10
+presuppose,17,2
+smuggle,18,2
+detail,19,2
+ourcurrent,20,2
+formatting,21,2
+rsa,22,4
+fact,23,2
+chosen ciphertext attack,24,8
+document,25,12
+depend rsa hash function,26,4
+sum,27,4
+turn,28,2
+remember,29,2
+hash function,30,8
+encryption,31,2
+attack,32,12
+document smaller security digital,33,4
+vectorshxxp,34,2
+fingerprint created hash function,35,4
+key,36,8
+modulus,37,2
+latest,38,2
+salt,39,2
+signing document,40,2
+reason sign,41,4
+hash md,42,2
+decryption,43,2
+hash unique,44,2
+attacks avoid,45,2
+dig,46,2
+attacks signature representation,47,4
+chosen ciphertext,48,8
+good,49,2
+compute,50,2
+representation document,51,4
+attacks,52,10
+sum hash,53,2
+signature representation document,54,4
+finite,55,2
+key attacks,56,2
+sign md,57,2
+created hash,58,4
+article,59,2
+avoid attacks signature representation,60,4
+failure,61,2
+ciphertext attack,62,8
+attacks signature,63,4
+depend rsa,64,4
+existence chosen ciphertext,65,4
+submit,66,2
+hidden,67,2
+idea,68,2
+md avoid attacks signature,69,4
+representation,70,4
+speed,71,2
+message attacker,72,2
+factoring,73,2
+linux,74,2
+forexample,75,2
+spitfire,76,2
+covers,77,2
+successful,78,2
+digital,79,4
+attack reason sign,80,4
+directed,81,2
+ciphertext,82,8
+types,83,2
+word unique,84,2
+attacker,85,6
+message,86,8
+chosen ciphertext attack reason,87,4
+document smaller security,88,4
+avoid attacks,89,4
+document fingerprint,90,4
+fromtwo,91,2
+ciphertext attack reason sign,92,4
+representation document smaller,93,4
+avoid,94,6
+doomed,95,2
+smaller,96,4
+memorable,97,2
+fingerprint created hash,98,4
+chosen data,99,2
+signatures,100,4
+signing chosen,101,2
+turns,102,2
+number,103,2
+reason sign document,104,4
+stuck,105,2
+fingerprint,106,4
+revive,107,2
+text,108,2
+hardware,109,2
+algorithm,110,2
+large,111,2
+function md,112,4
+attack reason,113,4
+attack reason sign document,114,4
+signatures depend rsa,115,4
+understand,116,2
+key existence,117,2
+function md avoid,118,4
+hash function md avoid,119,4
+withthe,120,2
+hashes,121,2
+prngand,122,2
+word,123,4
+hash,124,14
+signature,125,4
+protection,126,2
+secret,127,6
+security digital signatures depend,128,4
+matter,129,2
+md avoid attacks,130,4
+thinking,131,2
+tools,132,2
+unknown,133,2
+signature representation,134,4
+ways,135,2
+file,136,2
+md avoid,137,4
+fingerprint created,138,4
+kinda,139,2
+protect,140,2
+security digital,141,4
+existence chosen,142,4
+document fingerprint created hash,143,4
+supplied,144,2
+impracticable,145,2
+discussed,146,2
+cool,147,2
+sign document fingerprint,148,4
+depend rsa hash,149,4
+chosen message,150,2
+produce,151,2
+picture,152,2
+avoid signing,153,2
+digital signatures,154,4
+yourpassword,155,2
+signing,156,4
+stuff,157,2
+instance,158,2
+data,159,4
+security secret,160,2
+hashing,161,2
+existence,162,4
+sign,163,6
+secret key,164,6
+function md avoid attacks,165,4
+space,166,2
+passwords,167,2
+plain,168,2
+md,169,8
+sufficient,170,2
+function,171,8
+theoretically,172,2
+create,173,2
+html,174,2
+created hash function md,175,4
+ciphertext attack reason,176,4
+document smaller,177,4
+read,178,2
+insights,179,2
+timing,180,2
+created,181,4
+smaller security,182,4
+bruteforce,183,4
+tool,184,2
+crypto,185,2
+chosen,186,12
+avoid attacks signature,187,4
+signature representation document smaller,188,4
+safe,189,2
+hash function md,190,4
+note,191,2
+rsa hash,192,4
+data message,193,2
+representation document smaller security,194,4
+rsa hash function,195,4
+reason sign document fingerprint,196,4
+security,197,6
+md sum,198,4
+created hash function,199,4
+victim,200,2
+existence chosen ciphertext attack,201,4
+skilful,202,2
+implementation,203,2
+unruh,204,2
+arbitrary,205,2
+thread,206,2
+security digital signatures,207,4
+unique hash,208,4
+unique word,209,2
+encrypted,210,2
+senderek,211,2
+smaller security digital,212,4

@@ -1,0 +1,61 @@
+Topic 0:
+  forum:1.11
+  agra:1.04
+  flawless:1.04
+  market:1.03
+  running:1.03
+  rc:1.03
+  good:1.03
+  pm:1.02
+  hrs:1.02
+  market forum:0.62
+
+Topic 1:
+  hub:1.01
+  day:0.94
+  forum:0.74
+  covered:0.70
+  darknet:0.70
+  friends:0.70
+  uptime:0.70
+  sucks:0.70
+  yup:0.70
+  night:0.70
+
+Topic 2:
+  day:1.00
+  hub:0.79
+  safe:0.76
+  travels:0.76
+  browsing:0.76
+  stay:0.75
+  late:0.75
+  night:0.75
+  yup:0.75
+  periodically:0.75
+
+Topic 3:
+  markets:3.05
+  spread:1.61
+  price:1.61
+  values:1.61
+  money:1.61
+  evolution:1.61
+  gap:1.61
+  bluesky:1.61
+  shit:1.61
+  save:1.61
+
+Topic 4:
+  forum:1.32
+  luck:1.13
+  market forum:0.89
+  inaccessible:0.72
+  ddosed:0.72
+  usage:0.71
+  unusual:0.71
+  light:0.71
+  regular:0.71
+  log:0.70
+
+K: 5, Log-Likelihood: -506.220, Alpha: 11.000, Beta: 1.100

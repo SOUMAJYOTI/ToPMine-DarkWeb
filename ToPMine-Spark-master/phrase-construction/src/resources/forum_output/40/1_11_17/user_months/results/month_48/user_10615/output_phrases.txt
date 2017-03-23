@@ -1,0 +1,61 @@
+Topic 0:
+  court:2.28
+  time:1.94
+  national security:1.26
+  congress:1.20
+  bulk collection:1.17
+  case:1.12
+  program:1.00
+  ruling:0.97
+  government:0.84
+  law:0.80
+
+Topic 1:
+  bob bitchin:3.44
+  bouncing:2.33
+  prow:2.33
+  job:2.33
+  spend:2.33
+  door:2.33
+  agra:2.33
+  nice:2.33
+  bitchin:2.32
+  drugs:2.32
+
+Topic 2:
+  quote zaphod:3.33
+  mind:1.67
+  tard:1.66
+  warning:1.63
+  pmim:1.63
+  users:1.63
+  pmthis:1.63
+  clearsigned:1.63
+  remember:1.63
+  sigaint pro:1.63
+
+Topic 3:
+  design:5.07
+  sigaint:3.36
+  package:3.36
+  real:3.36
+  threw:3.36
+  congenial:3.36
+  idiot:3.36
+  bad:2.36
+  missed:2.36
+  account:2.36
+
+Topic 4:
+  program:12.60
+  congress:8.99
+  national security:8.93
+  court:7.91
+  bulk collection:7.31
+  members congress:6.01
+  panel:5.98
+  ruling:5.81
+  case:5.66
+  update:4.43
+
+K: 5, Log-Likelihood: -4832.359, Alpha: 11.000, Beta: 1.100

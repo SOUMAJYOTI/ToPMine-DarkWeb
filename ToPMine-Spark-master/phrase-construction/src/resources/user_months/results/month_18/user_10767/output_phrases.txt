@@ -1,0 +1,61 @@
+Topic 0:
+  average:0.55
+  mmm:0.45
+  tubes:0.44
+  torvm:0.44
+  os:0.44
+  describe:0.44
+  tor:0.34
+  setup:0.33
+  idea:0.32
+  hackers:0.32
+
+Topic 1:
+  gateway:3.00
+  interest access:2.99
+  guys:2.99
+  protected computer:2.99
+  nat:1.91
+  whonix:1.91
+  figure:1.91
+  network:1.91
+  set:1.91
+  works:1.91
+
+Topic 2:
+  average:0.50
+  describe:0.43
+  os:0.43
+  torvm:0.43
+  tubes:0.43
+  mmm:0.41
+  setup:0.36
+  connected:0.34
+  tor:0.33
+  hackers:0.30
+
+Topic 3:
+  control:3.07
+  boxes:1.98
+  physical:1.98
+  solution:1.98
+  average:1.53
+  hosting secure:1.44
+  complete:0.90
+  dont secure:0.90
+  annoyance:0.90
+  main:0.90
+
+Topic 4:
+  routing box:4.19
+  packets:2.00
+  nic:2.00
+  kernel:0.92
+  bridging:0.92
+  setup host:0.92
+  route:0.92
+  nice:0.92
+  case:0.92
+  option:0.92
+
+K: 5, Log-Likelihood: -983.993, Alpha: 11.000, Beta: 1.100

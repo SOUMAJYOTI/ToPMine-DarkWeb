@@ -1,0 +1,61 @@
+Topic 0:
+  offer:2.73
+  dashboards:0.86
+  hourly interest:0.86
+  guys:0.86
+  withdrawals:0.86
+  pumps:0.86
+  opinions:0.86
+  online:0.86
+  currencies:0.86
+  deposits:0.86
+
+Topic 1:
+  coin:1.23
+  sounds:0.63
+  long:0.44
+  guarantee:0.44
+  guaranteeing:0.44
+  drama:0.44
+  kind:0.44
+  edification:0.44
+  dull:0.44
+  paid:0.44
+
+Topic 2:
+  offer:0.43
+  reserve:0.34
+  liberty:0.34
+  hip:0.34
+  scams:0.34
+  broke:0.34
+  dont:0.32
+  don:0.32
+  ve:0.32
+  tornet:0.28
+
+Topic 3:
+  coin:0.50
+  sounds:0.42
+  broke:0.34
+  hip:0.34
+  scams:0.34
+  liberty:0.34
+  reserve:0.34
+  dont:0.31
+  ve:0.30
+  don:0.30
+
+Topic 4:
+  coin:2.19
+  sounds:0.71
+  community:0.54
+  good:0.54
+  gymnastics:0.54
+  gains:0.54
+  sit:0.54
+  years:0.54
+  mental:0.54
+  triples:0.54
+
+K: 5, Log-Likelihood: -1077.185, Alpha: 11.000, Beta: 1.100

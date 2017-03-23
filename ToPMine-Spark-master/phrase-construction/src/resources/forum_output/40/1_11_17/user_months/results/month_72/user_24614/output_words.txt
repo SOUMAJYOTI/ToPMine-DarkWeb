@@ -1,0 +1,61 @@
+Topic 0:
+  post:0.61
+  thread:0.61
+  vendor:0.40
+  link:0.40
+  hub:0.39
+  chemicalallstars:0.20
+  signed:0.20
+  read:0.20
+  familiarize:0.20
+  markets:0.20
+
+Topic 1:
+  thread:0.59
+  post:0.59
+  hub:0.41
+  link:0.40
+  vendor:0.40
+  rules:0.20
+  including:0.20
+  chemicalallstars:0.20
+  verification:0.20
+  instructions:0.20
+
+Topic 2:
+  post:0.62
+  thread:0.59
+  hub:0.40
+  vendor:0.40
+  link:0.40
+  chemicalallstars:0.20
+  signed:0.20
+  message:0.20
+  instructions:0.20
+  read:0.20
+
+Topic 3:
+  post:0.60
+  thread:0.60
+  link:0.40
+  vendor:0.40
+  hub:0.40
+  signed:0.20
+  message:0.20
+  verification:0.20
+  including:0.20
+  familiarize:0.20
+
+Topic 4:
+  thread:0.61
+  post:0.58
+  vendor:0.40
+  link:0.40
+  hub:0.40
+  read:0.20
+  alfreds:0.20
+  instructions:0.20
+  follow:0.20
+  including:0.20
+
+K: 5, Log-Likelihood: -70.239, Alpha: 11.000, Beta: 1.100

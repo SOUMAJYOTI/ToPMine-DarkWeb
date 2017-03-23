@@ -1,0 +1,61 @@
+Topic 0:
+  market:2.50
+  msig:1.88
+  central:1.10
+  tho:1.10
+  scammed:1.09
+  quote:0.43
+  charade:0.43
+  millionaires:0.43
+  abpprox:0.43
+  great:0.43
+
+Topic 1:
+  market:1.46
+  side:0.51
+  eic:0.51
+  msig:0.50
+  online:0.43
+  scammed:0.39
+  tho:0.39
+  central:0.39
+  wrong:0.22
+  themajesticgarden:0.22
+
+Topic 2:
+  market:1.09
+  eic:0.60
+  side:0.58
+  online:0.44
+  msig:0.37
+  scammed:0.30
+  central:0.29
+  tho:0.29
+  tech:0.25
+  theory:0.25
+
+Topic 3:
+  eic:0.76
+  side:0.75
+  market:0.61
+  coming:0.54
+  theory:0.54
+  tech:0.54
+  online:0.42
+  team:0.27
+  admin:0.27
+  prepaid:0.27
+
+Topic 4:
+  theory:0.96
+  tech:0.96
+  coming:0.96
+  side:0.88
+  eic:0.86
+  busted:0.40
+  hard:0.40
+  experienced:0.40
+  true:0.40
+  issues:0.40
+
+K: 5, Log-Likelihood: -447.420, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  good:1.27
+  free:1.26
+  android:1.13
+  fye:1.11
+  audited:1.11
+  burner:1.10
+  grab:1.10
+  source:1.10
+  redphone:1.09
+  open:1.09
+
+Topic 1:
+  talk:3.27
+  android:2.42
+  messaging:1.47
+  twitter:1.47
+  messaged:1.47
+  ect:1.47
+  service:1.47
+  people:1.47
+  business:1.47
+  services:1.46
+
+Topic 2:
+  person:1.33
+  talking:1.06
+  code:1.06
+  local:1.05
+  time:1.04
+  free:0.75
+  items:0.69
+  thing:0.69
+  meal:0.68
+  le:0.68
+
+Topic 3:
+  person:1.62
+  time:1.16
+  local:1.15
+  talking:1.14
+  code:1.12
+  free:0.80
+  location:0.73
+  eating:0.73
+  eat:0.73
+  xxxxx:0.73
+
+Topic 4:
+  free:0.88
+  person:0.84
+  code:0.63
+  local:0.61
+  time:0.61
+  talking:0.60
+  good:0.55
+  phone:0.50
+  talk:0.49
+  le:0.45
+
+K: 5, Log-Likelihood: -910.238, Alpha: 11.000, Beta: 1.100

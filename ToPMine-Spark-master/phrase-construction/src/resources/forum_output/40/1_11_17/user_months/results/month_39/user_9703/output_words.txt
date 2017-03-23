@@ -1,0 +1,61 @@
+Topic 0:
+  good:2.20
+  markets:1.72
+  find:1.45
+  business:1.33
+  read:1.29
+  reddit:1.28
+  marketplaces:1.27
+  darknet:1.19
+  products:1.18
+  forum:1.09
+
+Topic 1:
+  good:2.49
+  markets:1.93
+  marketplaces:1.62
+  find:1.53
+  products:1.51
+  risk:1.47
+  reddit:1.44
+  forum:1.42
+  read:1.41
+  business:1.40
+
+Topic 2:
+  good:1.70
+  markets:1.68
+  find:1.39
+  marketplaces:1.38
+  forum:1.19
+  risk:1.17
+  business:1.15
+  darknet:1.14
+  read:1.12
+  products:1.11
+
+Topic 3:
+  markets:1.87
+  good:1.45
+  find:1.36
+  marketplaces:1.28
+  risk:1.19
+  forum:1.17
+  products:1.15
+  darknet:1.14
+  reddit:1.13
+  read:1.07
+
+Topic 4:
+  good:2.16
+  markets:1.81
+  marketplaces:1.45
+  find:1.27
+  darknet:1.15
+  forum:1.14
+  risk:1.12
+  read:1.11
+  reddit:1.08
+  business:1.07
+
+K: 5, Log-Likelihood: -1625.963, Alpha: 11.000, Beta: 1.100

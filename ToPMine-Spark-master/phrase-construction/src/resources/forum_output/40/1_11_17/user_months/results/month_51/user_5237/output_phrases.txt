@@ -1,0 +1,61 @@
+Topic 0:
+  btc:0.77
+  trusted:0.74
+  times:0.73
+  wanted:0.73
+  dont:0.73
+  obviosly:0.73
+  millions:0.73
+  pulled:0.73
+  dark:0.73
+  trust agora:0.73
+
+Topic 1:
+  buy:1.06
+  kinda:0.67
+  deep web:0.67
+  site:0.66
+  thought:0.65
+  trust:0.59
+  lols:0.50
+  teach:0.50
+  lot:0.50
+  funny:0.49
+
+Topic 2:
+  surf:0.60
+  teach:0.59
+  applies:0.58
+  recomend agora:0.58
+  laugh:0.58
+  pretty:0.58
+  safe:0.58
+  lols:0.58
+  lot:0.58
+  funny:0.57
+
+Topic 3:
+  buy:0.86
+  deep web:0.65
+  site:0.65
+  thought:0.65
+  kinda:0.63
+  trust:0.57
+  funny:0.52
+  applies:0.52
+  surf:0.52
+  pretty:0.52
+
+Topic 4:
+  trust:0.62
+  thread:0.59
+  btc:0.59
+  market:0.59
+  santa:0.59
+  order:0.58
+  recomend agora:0.56
+  safe:0.56
+  buy:0.53
+  kinda:0.51
+
+K: 5, Log-Likelihood: -447.779, Alpha: 11.000, Beta: 1.100

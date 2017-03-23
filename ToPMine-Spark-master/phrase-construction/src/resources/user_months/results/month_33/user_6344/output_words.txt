@@ -1,0 +1,61 @@
+Topic 0:
+  ale:1.01
+  blotters:1.00
+  grey:0.95
+  albert:0.72
+  agora:0.71
+  high:0.70
+  glad:0.69
+  vendor:0.68
+  image:0.51
+  res:0.50
+
+Topic 1:
+  blotters:1.05
+  grey:1.04
+  ale:0.98
+  glad:0.70
+  albert:0.68
+  agora:0.65
+  vendor:0.63
+  high:0.62
+  image:0.50
+  res:0.50
+
+Topic 2:
+  ale:1.02
+  grey:0.98
+  high:0.97
+  blotters:0.95
+  vendor:0.67
+  agora:0.64
+  res:0.61
+  image:0.61
+  lsd:0.57
+  glad:0.56
+
+Topic 3:
+  grey:1.02
+  blotters:0.98
+  ale:0.97
+  high:0.82
+  image:0.66
+  res:0.66
+  albert:0.57
+  glad:0.56
+  vendor:0.53
+  agora:0.52
+
+Topic 4:
+  blotters:1.02
+  ale:1.02
+  grey:1.01
+  high:0.90
+  res:0.73
+  image:0.72
+  pretty:0.51
+  godself:0.51
+  expecting:0.51
+  order:0.51
+
+K: 5, Log-Likelihood: -465.376, Alpha: 11.000, Beta: 1.100

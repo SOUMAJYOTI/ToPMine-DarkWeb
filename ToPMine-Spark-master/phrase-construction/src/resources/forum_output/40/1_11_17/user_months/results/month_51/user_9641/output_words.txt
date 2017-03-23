@@ -1,0 +1,61 @@
+Topic 0:
+  dont:2.44
+  green:1.98
+  thier:1.56
+  love:1.52
+  feilds:1.41
+  things:1.39
+  work:1.33
+  live:1.28
+  grass:1.22
+  beautiful:1.04
+
+Topic 1:
+  people:4.79
+  life:1.21
+  share:0.84
+  peace:0.75
+  met:0.74
+  dont:0.74
+  spiritual:0.68
+  nice:0.61
+  suggestions:0.60
+  experiences:0.59
+
+Topic 2:
+  people:5.84
+  life:1.07
+  spiritual:0.80
+  share:0.79
+  met:0.76
+  peace:0.74
+  suggestions:0.61
+  experiences:0.61
+  dont:0.59
+  nice:0.51
+
+Topic 3:
+  people:4.97
+  shit:1.79
+  douche:1.78
+  meet:1.11
+  spots:0.87
+  wrong:0.81
+  superficial:0.81
+  festivals:0.81
+  introduced:0.81
+  spewing:0.81
+
+Topic 4:
+  green:3.08
+  dont:2.65
+  grass:2.01
+  live:1.95
+  work:1.87
+  feilds:1.86
+  things:1.84
+  love:1.70
+  thier:1.68
+  beautiful:1.32
+
+K: 5, Log-Likelihood: -1249.699, Alpha: 11.000, Beta: 1.100

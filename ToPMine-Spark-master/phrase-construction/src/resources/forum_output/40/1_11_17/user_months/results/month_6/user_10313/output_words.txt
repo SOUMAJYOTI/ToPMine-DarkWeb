@@ -1,0 +1,61 @@
+Topic 0:
+  php:4.46
+  databases:3.24
+  sql:3.21
+  things:3.10
+  alert:2.36
+  roger:1.47
+  steal:1.46
+  eat:1.46
+  hackers:1.46
+  breakfast:1.46
+
+Topic 1:
+  php:2.01
+  good:1.44
+  learn:1.37
+  learning:0.86
+  css:0.70
+  html:0.68
+  start:0.57
+  check:0.50
+  post:0.50
+  courses:0.44
+
+Topic 2:
+  css:2.46
+  html:2.43
+  java:2.32
+  books:2.28
+  python:1.84
+  man:1.84
+  online:1.84
+  program:1.84
+  tutorials:1.64
+  good:1.41
+
+Topic 3:
+  learning:1.68
+  server:1.66
+  years:1.66
+  market:1.65
+  start:1.23
+  good:1.10
+  learn:0.92
+  read:0.83
+  php:0.82
+  dummies:0.72
+
+Topic 4:
+  php:3.50
+  things:1.34
+  learn:1.33
+  good:1.25
+  learning:1.24
+  start:1.15
+  secure:1.00
+  basin:0.78
+  tutorials:0.75
+  check:0.65
+
+K: 5, Log-Likelihood: -1089.463, Alpha: 11.000, Beta: 1.100

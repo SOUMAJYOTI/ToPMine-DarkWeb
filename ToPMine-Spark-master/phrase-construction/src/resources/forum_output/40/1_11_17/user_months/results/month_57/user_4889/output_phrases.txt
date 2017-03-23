@@ -1,0 +1,61 @@
+Topic 0:
+  abraxas:2.28
+  pretty:2.20
+  purse:1.75
+  website:1.75
+  claim:1.75
+  ended:1.75
+  coin:1.75
+  tumble:1.75
+  tumbles:1.75
+  interesting:1.75
+
+Topic 1:
+  good:2.77
+  bullshit:2.77
+  thinking:2.77
+  fallen:2.77
+  named:2.77
+  trolling:2.77
+  mymarkethaul mind:2.77
+  victim:2.77
+  call:2.77
+  market wallet:2.52
+
+Topic 2:
+  deposited:3.68
+  withdrew:3.68
+  deposit:3.68
+  bitstamp:2.11
+  net:2.11
+  taint:1.81
+  comhashnest:1.81
+  middleearth:1.81
+  ukcoinjar:1.81
+  coins coming:1.81
+
+Topic 3:
+  public wallet:5.08
+  amount:3.62
+  listings:3.62
+  earlier:3.62
+  number:3.62
+  agora:3.24
+  coins:1.95
+  buyers:1.75
+  operation:1.75
+  hope:1.75
+
+Topic 4:
+  wallet:4.48
+  wallet abraxas:3.64
+  knowing:3.51
+  abraxas:2.02
+  wallets:2.00
+  coming abraxas:1.77
+  mixing:1.77
+  cashing:1.77
+  tested:1.77
+  dn:1.77
+
+K: 5, Log-Likelihood: -1921.416, Alpha: 11.000, Beta: 1.100

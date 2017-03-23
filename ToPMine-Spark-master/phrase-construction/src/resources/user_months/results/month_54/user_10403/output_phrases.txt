@@ -1,0 +1,61 @@
+Topic 0:
+  stuff:1.40
+  hey:0.77
+  equivilant:0.57
+  sticks:0.57
+  oil:0.57
+  cooked:0.57
+  butter:0.56
+  cocoanut:0.56
+  reminds:0.55
+  tang:0.51
+
+Topic 1:
+  ship:0.77
+  dnm:0.77
+  dnt:0.76
+  list:0.76
+  time:0.75
+  remember:0.75
+  ago:0.74
+  long:0.74
+  drama:0.74
+  market:0.73
+
+Topic 2:
+  market:0.70
+  time:0.70
+  ago:0.70
+  dnt:0.70
+  list:0.69
+  drama:0.69
+  long:0.69
+  dnm:0.69
+  remember:0.68
+  ship:0.68
+
+Topic 3:
+  msg:0.69
+  waste:0.58
+  edibles:0.58
+  love:0.58
+  sales:0.58
+  kind:0.58
+  days:0.58
+  yeah:0.57
+  cool:0.57
+  drunk:0.57
+
+Topic 4:
+  msg:1.71
+  bought:0.90
+  kind:0.90
+  yeah:0.90
+  drunk:0.89
+  days:0.89
+  waste:0.88
+  sales:0.88
+  edibles:0.81
+  love:0.80
+
+K: 5, Log-Likelihood: -464.032, Alpha: 11.000, Beta: 1.100

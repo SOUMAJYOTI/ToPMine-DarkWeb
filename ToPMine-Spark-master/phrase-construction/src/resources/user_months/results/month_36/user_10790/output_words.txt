@@ -1,0 +1,61 @@
+Topic 0:
+  darkcoin:0.58
+  coins:0.40
+  mix:0.40
+  bitcoin:0.40
+  coinjoin:0.40
+  expect:0.20
+  quote:0.20
+  tumblers:0.20
+  services:0.20
+  people:0.20
+
+Topic 1:
+  darkcoin:0.63
+  mix:0.39
+  coinjoin:0.39
+  coins:0.39
+  bitcoin:0.39
+  year:0.20
+  altcoin:0.20
+  purpose:0.20
+  good:0.20
+  community:0.20
+
+Topic 2:
+  darkcoin:0.60
+  coins:0.40
+  bitcoin:0.40
+  mix:0.40
+  coinjoin:0.40
+  coin:0.20
+  fwiw:0.20
+  investigated:0.20
+  choice:0.20
+  altcoins:0.20
+
+Topic 3:
+  darkcoin:0.61
+  coinjoin:0.39
+  bitcoin:0.39
+  coins:0.39
+  mix:0.39
+  choice:0.20
+  altcoins:0.20
+  investigated:0.20
+  coin:0.20
+  good:0.20
+
+Topic 4:
+  darkcoin:0.57
+  coinjoin:0.42
+  mix:0.42
+  bitcoin:0.42
+  coins:0.42
+  difference:0.20
+  ami:0.20
+  darkcoins:0.20
+  buy:0.20
+  bitcoins:0.20
+
+K: 5, Log-Likelihood: -177.144, Alpha: 11.000, Beta: 1.100

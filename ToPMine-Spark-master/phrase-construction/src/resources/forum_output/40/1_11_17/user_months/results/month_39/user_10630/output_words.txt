@@ -1,0 +1,61 @@
+Topic 0:
+  vending:0.68
+  imb:0.60
+  email:0.60
+  checkpoint:0.55
+  trust:0.43
+  retired:0.43
+  month:0.42
+  wallet:0.42
+  vendors:0.39
+  ready:0.21
+
+Topic 1:
+  checkpoint:0.62
+  email:0.61
+  imb:0.60
+  vending:0.55
+  vendors:0.40
+  wallet:0.39
+  retired:0.39
+  trust:0.38
+  month:0.38
+  slow:0.21
+
+Topic 2:
+  checkpoint:0.64
+  imb:0.62
+  email:0.59
+  vending:0.55
+  vendors:0.40
+  retired:0.39
+  month:0.38
+  trust:0.38
+  wallet:0.38
+  man:0.21
+
+Topic 3:
+  vending:0.64
+  imb:0.59
+  checkpoint:0.59
+  email:0.59
+  month:0.41
+  wallet:0.41
+  trust:0.41
+  retired:0.40
+  vendors:0.40
+  broke:0.20
+
+Topic 4:
+  email:0.61
+  checkpoint:0.59
+  vending:0.59
+  imb:0.58
+  vendors:0.41
+  wallet:0.40
+  retired:0.40
+  month:0.40
+  trust:0.40
+  trusted:0.20
+
+K: 5, Log-Likelihood: -252.627, Alpha: 11.000, Beta: 1.100

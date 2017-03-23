@@ -1,0 +1,61 @@
+Topic 0:
+  sir:0.14
+  onionits:0.14
+  sr:0.14
+  trava:0.14
+  sawq:0.14
+  low:0.14
+  buy:0.14
+  running:0.14
+  izl:0.14
+  nice:0.14
+
+Topic 1:
+  running:0.14
+  time:0.14
+  mate:0.14
+  buy:0.14
+  trava:0.14
+  nice:0.14
+  ill:0.14
+  sr:0.14
+  low:0.14
+  order:0.14
+
+Topic 2:
+  revamped:0.14
+  visit:0.14
+  ill:0.14
+  order:0.14
+  xdhxvnt:0.14
+  sir:0.14
+  izl:0.14
+  low:0.14
+  sawq:0.14
+  nice:0.14
+
+Topic 3:
+  izl:0.14
+  onionits:0.14
+  sawq:0.14
+  revamped:0.14
+  visit:0.14
+  xdhxvnt:0.14
+  sir:0.14
+  sr:0.14
+  buy:0.14
+  mate:0.14
+
+Topic 4:
+  mate:0.14
+  time:0.14
+  running:0.14
+  order:0.14
+  ill:0.14
+  nice:0.14
+  buy:0.14
+  trava:0.14
+  low:0.14
+  sr:0.14
+
+K: 5, Log-Likelihood: -35.714, Alpha: 11.000, Beta: 1.100

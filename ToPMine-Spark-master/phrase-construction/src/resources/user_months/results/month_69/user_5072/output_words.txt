@@ -1,0 +1,61 @@
+Topic 0:
+  jizz:2.82
+  rep:1.83
+  gunmetal:1.83
+  pounds:1.38
+  niggasi:1.38
+  young:1.38
+  aint:1.38
+  plugif:1.38
+  fuckin:1.37
+  cash:1.37
+
+Topic 1:
+  order:3.72
+  double:2.20
+  times:1.73
+  didnt:1.38
+  money:1.11
+  behold:1.05
+  low:1.05
+  caught:1.05
+  amount:0.95
+  couple:0.81
+
+Topic 2:
+  coin:1.19
+  blockchain:1.19
+  money:1.05
+  winning:0.87
+  lottery:0.87
+  didnt:0.85
+  amount:0.70
+  nice:0.57
+  lad:0.52
+  internal:0.52
+
+Topic 3:
+  january:1.05
+  site:1.01
+  things:0.64
+  merry:0.61
+  hows:0.61
+  agora:0.60
+  lottery:0.58
+  winning:0.58
+  money:0.55
+  didnt:0.54
+
+Topic 4:
+  christmas:3.15
+  fucking:3.10
+  experience:2.81
+  trip:2.56
+  tolerance:1.82
+  visual:1.82
+  ucg:1.82
+  merry:1.79
+  hows:1.79
+  things:1.77
+
+K: 5, Log-Likelihood: -1158.188, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:14.81
+  message:4.51
+  key:4.23
+  public:3.52
+  pip:2.89
+  forget:2.77
+  address:2.74
+  good:1.63
+  people:1.46
+  reminder:1.42
+
+Topic 1:
+  send:11.81
+  pgp:11.54
+  orders:10.18
+  order:9.58
+  website:9.56
+  money:7.72
+  place:7.69
+  drop:5.95
+  orderofthephoenix:5.91
+  pmif:5.90
+
+Topic 2:
+  oakley:5.98
+  people:4.72
+  quote:4.41
+  order:4.22
+  le:4.19
+  cher:3.98
+  blueprint:3.98
+  pas:3.98
+  decoys:3.98
+  masque:3.98
+
+Topic 3:
+  pgp:16.55
+  address:6.67
+  forget:5.94
+  good:5.92
+  public:5.53
+  key:5.04
+  message:4.98
+  people:4.95
+  easy:4.94
+  reminder:3.89
+
+Topic 4:
+  pgp:12.07
+  public:9.33
+  key:8.67
+  message:8.45
+  da:5.43
+  vl:5.41
+  md:5.38
+  os:5.38
+  oooe:5.37
+  um:5.37
+
+K: 5, Log-Likelihood: -16257.241, Alpha: 11.000, Beta: 1.100

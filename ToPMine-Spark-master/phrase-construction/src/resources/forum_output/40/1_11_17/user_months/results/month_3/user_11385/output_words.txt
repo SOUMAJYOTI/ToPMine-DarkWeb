@@ -1,0 +1,61 @@
+Topic 0:
+  message:5.07
+  march:4.62
+  agora:3.88
+  quote:3.78
+  key:2.48
+  pgp:2.39
+  gp:2.12
+  doesnt:1.87
+  fucking:1.82
+  realgoingpostal:1.81
+
+Topic 1:
+  key:3.15
+  fcqegh:2.96
+  block:2.96
+  order:2.36
+  public:2.27
+  market:2.11
+  scam:2.06
+  lose:1.96
+  pd:1.96
+  lb:1.96
+
+Topic 2:
+  march:7.43
+  quote:7.05
+  message:5.73
+  fucking:5.06
+  site:4.84
+  realgoingpostal:4.07
+  scamming:3.95
+  pgp:3.88
+  cmon:3.85
+  dude:3.67
+
+Topic 3:
+  vendor:6.97
+  agora:4.60
+  scam:4.40
+  hub:3.25
+  link:3.11
+  verified:2.60
+  guy:2.54
+  note:2.44
+  goingpostal:2.28
+  signed:2.13
+
+Topic 4:
+  agora:2.49
+  gp:2.35
+  march:2.17
+  scam:2.12
+  key:1.82
+  goingpostal:1.53
+  quote:1.53
+  pgp:1.51
+  message:1.50
+  guy:1.48
+
+K: 5, Log-Likelihood: -4777.412, Alpha: 11.000, Beta: 1.100

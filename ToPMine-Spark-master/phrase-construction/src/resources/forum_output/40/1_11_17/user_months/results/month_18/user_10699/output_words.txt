@@ -1,0 +1,61 @@
+Topic 0:
+  tor:4.35
+  tails:2.81
+  malware:2.71
+  place:1.83
+  born:1.82
+  downloaded:1.82
+  time:1.82
+  googled:1.82
+  usb:1.82
+  read:1.82
+
+Topic 1:
+  wipe:1.41
+  geo:1.33
+  wifi:1.31
+  location:1.30
+  locator:1.30
+  scripts:1.27
+  karma:1.03
+  spec:1.02
+  inform:1.02
+  lazy:1.02
+
+Topic 2:
+  wipe:1.26
+  scripts:1.14
+  locator:1.12
+  location:1.11
+  wifi:1.09
+  geo:1.08
+  tor:1.01
+  check:0.94
+  startpage:0.77
+  search:0.71
+
+Topic 3:
+  mbr:1.84
+  malware:1.71
+  ccleaner:1.30
+  carpemundi:1.14
+  september:1.14
+  quote:1.14
+  search:1.13
+  good:0.93
+  thing:0.89
+  drive:0.89
+
+Topic 4:
+  tor:3.06
+  wipe:1.16
+  delete:0.79
+  factory:0.62
+  ect:0.62
+  java:0.62
+  reset:0.60
+  search:0.56
+  startpage:0.55
+  check:0.53
+
+K: 5, Log-Likelihood: -1119.195, Alpha: 11.000, Beta: 1.100

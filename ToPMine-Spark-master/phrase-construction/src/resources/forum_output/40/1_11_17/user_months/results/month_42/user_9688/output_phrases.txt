@@ -1,0 +1,61 @@
+Topic 0:
+  silk road:0.82
+  dim:0.68
+  hosting:0.58
+  hidden service:0.58
+  hidden services:0.58
+  running:0.57
+  vps:0.57
+  leaked real ip:0.56
+  march:0.43
+  obsolete:0.43
+
+Topic 1:
+  silk road:1.25
+  leaked real ip:0.84
+  hidden service:0.84
+  hidden services:0.83
+  vps:0.79
+  hosting:0.79
+  running:0.78
+  told:0.39
+  fake:0.39
+  dr:0.39
+
+Topic 2:
+  silk road:1.19
+  vps:0.80
+  running:0.77
+  hosting:0.75
+  hidden services:0.75
+  leaked real ip:0.74
+  hidden service:0.73
+  dim:0.39
+  place:0.37
+  specific:0.37
+
+Topic 3:
+  silk road:0.93
+  hosting:0.65
+  running:0.64
+  leaked real ip:0.61
+  dim:0.60
+  vps:0.60
+  hidden service:0.60
+  hidden services:0.59
+  technology:0.39
+  agreed:0.39
+
+Topic 4:
+  silk road:0.89
+  hidden services:0.65
+  hidden service:0.64
+  running:0.64
+  leaked real ip:0.63
+  vps:0.63
+  hosting:0.62
+  dim:0.53
+  years:0.36
+  pmit:0.36
+
+K: 5, Log-Likelihood: -677.044, Alpha: 11.000, Beta: 1.100

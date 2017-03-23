@@ -1,0 +1,61 @@
+Topic 0:
+  website:0.77
+  thread:0.61
+  albion:0.61
+  noob:0.40
+  find:0.40
+  deep:0.40
+  web:0.40
+  option:0.40
+  pretty:0.40
+  hey:0.40
+
+Topic 1:
+  website:0.76
+  albion:0.62
+  thread:0.55
+  dealer:0.41
+  awhile:0.41
+  acid:0.41
+  hey:0.41
+  pretty:0.41
+  web:0.41
+  herd:0.41
+
+Topic 2:
+  website:0.82
+  thread:0.68
+  albion:0.58
+  option:0.39
+  awhile:0.39
+  noob:0.39
+  web:0.39
+  absolute:0.39
+  herd:0.39
+  hey:0.39
+
+Topic 3:
+  website:0.89
+  albion:0.58
+  thread:0.54
+  absolute:0.41
+  herd:0.41
+  option:0.41
+  hey:0.41
+  find:0.41
+  deep:0.41
+  awhile:0.41
+
+Topic 4:
+  website:0.76
+  thread:0.61
+  albion:0.60
+  web:0.40
+  pretty:0.40
+  acid:0.40
+  dealer:0.40
+  deep:0.40
+  noob:0.40
+  hey:0.40
+
+K: 5, Log-Likelihood: -147.946, Alpha: 11.000, Beta: 1.100

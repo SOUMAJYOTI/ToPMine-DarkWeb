@@ -1,0 +1,61 @@
+Topic 0:
+  pgp public key block:2.21
+  upedrxbudclp:1.49
+  akb:1.49
+  mvzlxdr:1.49
+  unity:1.49
+  osjnxqgkfoj:1.49
+  rev:1.49
+  bseledrpfg:1.49
+  lsmsndc:1.49
+  jerfuxzfw:1.49
+
+Topic 1:
+  cp:2.99
+  ze:2.99
+  vx:1.49
+  mtcdnhkpjo:1.49
+  yqfo:1.49
+  kjts:1.49
+  csh:1.49
+  zzokzyxbpil:1.49
+  czb:1.49
+  lnwtbe:1.49
+
+Topic 2:
+  algos hashed submit len:10.95
+  signature packet algo keyid:8.75
+  public key packet version:8.75
+  len sigclass digest digest:8.75
+  data bits:7.65
+  hashed submit len pref:6.56
+  algo created expires prey:6.56
+  key:6.56
+  sig created:5.46
+  hashed submit len:5.46
+
+Topic 3:
+  nw:2.95
+  sm:2.95
+  asa:2.95
+  hw:2.94
+  ft:2.15
+  pgp public key block:2.12
+  vo:1.59
+  zu:1.45
+  ag:1.45
+  cmvldebzywzllw:1.45
+
+Topic 4:
+  vo:1.68
+  fs:1.54
+  umwzbrbrrw:1.48
+  xjzgeex:1.48
+  bnj:1.48
+  pkfqxzlnhzgnhe:1.48
+  smho:1.48
+  hqemawipwqwzujnfaqf:1.48
+  snzkevsmguwgl:1.48
+  ytrnaek:1.48
+
+K: 5, Log-Likelihood: -8048.690, Alpha: 11.000, Beta: 1.100

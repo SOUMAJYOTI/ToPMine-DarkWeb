@@ -1,0 +1,61 @@
+Topic 0:
+  agora:1.14
+  active:1.07
+  sunshines:0.42
+  yea:0.42
+  fb:0.42
+  racy:0.42
+  agitated:0.42
+  option:0.42
+  kinda:0.42
+  answering:0.42
+
+Topic 1:
+  agora:1.06
+  active:1.01
+  answering:0.46
+  orange:0.46
+  yea:0.46
+  racy:0.46
+  fb:0.46
+  kinda:0.46
+  agitated:0.46
+  option:0.46
+
+Topic 2:
+  active:1.40
+  agora:1.24
+  experience:0.43
+  previous:0.43
+  match:0.43
+  imagine:0.43
+  easily:0.42
+  gg:0.40
+  eggs:0.40
+  option:0.39
+
+Topic 3:
+  active:1.39
+  agora:1.33
+  imagine:0.43
+  experience:0.43
+  previous:0.43
+  match:0.43
+  easily:0.43
+  eggs:0.41
+  gg:0.40
+  microdose:0.39
+
+Topic 4:
+  agora:1.23
+  active:1.13
+  pissed:0.44
+  microdose:0.44
+  presents:0.44
+  friends:0.44
+  blotters:0.44
+  albertheinz:0.44
+  difference:0.44
+  godself:0.44
+
+K: 5, Log-Likelihood: -229.305, Alpha: 11.000, Beta: 1.100

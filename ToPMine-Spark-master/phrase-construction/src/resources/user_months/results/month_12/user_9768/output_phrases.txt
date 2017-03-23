@@ -1,0 +1,61 @@
+Topic 0:
+  email address:11.22
+  federal:9.03
+  servers:8.50
+  access:7.99
+  dr ad pirat roger:7.99
+  lot:6.94
+  hope:6.76
+  dont:5.73
+  functions:5.30
+  java:5.30
+
+Topic 1:
+  server:8.01
+  wallet:6.89
+  farmer:5.33
+  proxy:5.33
+  hidden server:5.33
+  country:5.33
+  valid:5.29
+  hosting:5.07
+  box:4.82
+  address:4.76
+
+Topic 2:
+  account:13.01
+  socks proxy:9.05
+  dark net:9.05
+  community set:6.96
+  traveling missed stuff:6.18
+  start thread site stores:6.17
+  cost happened irc server:6.01
+  buddies:4.51
+  standard:4.51
+  instant:4.51
+
+Topic 3:
+  quote honestcocaine june:10.67
+  month:6.87
+  easy:5.33
+  side:5.33
+  store:5.33
+  sell:5.33
+  idea:5.33
+  independent:5.32
+  marketplace:5.32
+  centralized:5.32
+
+Topic 4:
+  jsga drv rm gaf:11.70
+  tor:10.77
+  tor browser:10.48
+  default port:9.04
+  connect:8.45
+  pray settings:8.45
+  site complex stuff basically:6.98
+  connect port connect server:6.98
+  acount link posted configured:6.98
+  service created:6.98
+
+K: 5, Log-Likelihood: -10315.137, Alpha: 11.000, Beta: 1.100

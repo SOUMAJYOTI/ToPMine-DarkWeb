@@ -1,0 +1,61 @@
+Topic 0:
+  relay:4.80
+  sigaint:2.87
+  setting:2.87
+  years:2.78
+  mixing:2.78
+  ago:2.78
+  yelling:2.78
+  gentlemen:2.78
+  deaf:2.78
+  ears:2.77
+
+Topic 1:
+  blah:1.87
+  escrow:1.74
+  mufti:1.74
+  lot:1.71
+  market:1.12
+  moving:0.88
+  interesting:0.88
+  sake:0.88
+  cracking:0.88
+  future:0.88
+
+Topic 2:
+  shadow:12.95
+  decentralised:7.95
+  network:6.04
+  marketplace:4.95
+  trade:3.95
+  administrators:3.95
+  sebsebastian:3.95
+  chat:3.95
+  project:3.89
+  market:3.16
+
+Topic 3:
+  tor:12.98
+  bsd:8.01
+  project:4.01
+  anonymity:3.95
+  source:3.03
+  operating:2.95
+  relays:2.95
+  network:2.86
+  openbsd:2.11
+  focused:2.02
+
+Topic 4:
+  open:4.61
+  mind:2.81
+  forward:1.80
+  branding:1.80
+  presentation:1.80
+  sick:1.80
+  app:1.80
+  touting:1.80
+  spent:1.80
+  wary:1.80
+
+K: 5, Log-Likelihood: -3574.361, Alpha: 11.000, Beta: 1.100

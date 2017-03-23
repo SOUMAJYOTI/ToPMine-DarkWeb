@@ -1,0 +1,61 @@
+Topic 0:
+  nucleus:2.77
+  markets:2.77
+  check:2.77
+  majestic:2.77
+  mail:2.77
+  canaris:2.77
+  vendor:2.77
+  bad:2.77
+  garden:2.77
+  intercepted:2.77
+
+Topic 1:
+  good:5.64
+  programs:4.17
+  forums:2.72
+  forum figure:2.72
+  access:2.72
+  system:2.72
+  figure programs:2.72
+  lot:2.72
+  builds:2.72
+  buy:2.72
+
+Topic 2:
+  hacking:4.38
+  pip:1.85
+  underground:1.73
+  thing:1.73
+  wondering:1.73
+  stupid:1.73
+  sounds:1.73
+  place forum:1.73
+  find:1.73
+  site:1.73
+
+Topic 3:
+  link:2.82
+  download:2.64
+  quick:2.64
+  read:2.64
+  dood pgp:2.63
+  orders:2.63
+  keys:2.63
+  address:2.63
+  learn:2.63
+  member:2.63
+
+Topic 4:
+  stuff:3.10
+  good place:2.90
+  order address:2.64
+  heard:2.64
+  coast:2.64
+  buying:2.64
+  cannabis:2.64
+  place:2.64
+  ensure:2.64
+  south:2.64
+
+K: 5, Log-Likelihood: -1863.818, Alpha: 11.000, Beta: 1.100

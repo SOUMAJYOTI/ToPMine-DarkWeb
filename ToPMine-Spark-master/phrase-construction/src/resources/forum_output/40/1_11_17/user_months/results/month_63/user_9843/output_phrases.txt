@@ -1,0 +1,61 @@
+Topic 0:
+  seller btc:14.28
+  large:10.70
+  darknet:7.12
+  police:7.12
+  things:5.17
+  lbc:4.03
+  hsi:3.53
+  contact:3.53
+  buyers:3.53
+  major:3.53
+
+Topic 1:
+  btm:5.31
+  fee:4.33
+  paper:3.52
+  speak:3.52
+  wrong:3.52
+  price:3.52
+  point lbc:3.52
+  public wifi actual location:3.52
+  lbc coinbase:3.52
+  coming:3.52
+
+Topic 2:
+  combined tumbling fees helix:5.30
+  dont:4.47
+  btc atm yeah google:4.43
+  percent depending seller lbc:4.43
+  purchases person cash exchanges:4.43
+  lbc method trust lbc:4.43
+  find em place equate:4.43
+  worked:4.43
+  wire transferring money:3.50
+  sounds lot trouble dealing:3.50
+
+Topic 3:
+  circle account:7.11
+  electrum helix grams electrum:5.04
+  destinationcircle:3.53
+  instant:3.53
+  week info:3.53
+  straight:3.53
+  luc circle:3.53
+  days:3.53
+  sending:3.53
+  transactions:3.53
+
+Topic 4:
+  meet:6.95
+  don:5.20
+  account frustration local bitcoins:4.37
+  extra bitcoin bit absurd:4.37
+  fake bay listings:4.37
+  instant bitcoins coinrnr:4.37
+  limit day:4.37
+  ta shady shit buy:4.37
+  happened coinbase:4.37
+  puts day hold direct:4.37
+
+K: 5, Log-Likelihood: -4873.572, Alpha: 11.000, Beta: 1.100

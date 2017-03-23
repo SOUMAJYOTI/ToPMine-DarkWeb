@@ -1,0 +1,61 @@
+Topic 0:
+  address post:1.30
+  psychedelic:1.00
+  donate:1.00
+  keeping:0.93
+  purchase:0.83
+  change:0.81
+  tmg:0.79
+  root:0.79
+  forum:0.79
+  answer:0.78
+
+Topic 1:
+  keeping:1.73
+  haven:1.63
+  price:1.61
+  encourage:1.60
+  donation:1.60
+  great:1.59
+  vendors:1.59
+  online:1.59
+  change:1.14
+  tmg:1.14
+
+Topic 2:
+  wanted:1.72
+  sr:1.60
+  tp:1.59
+  lost:1.59
+  bitcoins:1.59
+  twhgabut:1.59
+  today:1.59
+  server:1.59
+  cqmsjyg:1.59
+  xn:1.59
+
+Topic 3:
+  site:2.02
+  dear:2.01
+  market:2.00
+  dim:2.00
+  visible:2.00
+  distribution:1.99
+  return:1.98
+  deserve:1.98
+  admins:1.98
+  wealth:1.98
+
+Topic 4:
+  members vendors:3.45
+  knowledge:2.04
+  share:2.04
+  experience:2.04
+  gammagoblin:2.02
+  enjoy:1.66
+  tmg community:1.66
+  mind:1.66
+  majority:1.66
+  bringing:1.66
+
+K: 5, Log-Likelihood: -891.526, Alpha: 11.000, Beta: 1.100

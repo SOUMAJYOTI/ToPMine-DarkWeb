@@ -1,0 +1,61 @@
+Topic 0:
+  key:1.97
+  pgp:1.01
+  password:0.81
+  delete:0.80
+  forgotten:0.61
+  decrypt:0.61
+  msgs:0.60
+  start:0.60
+  send:0.60
+  programme:0.60
+
+Topic 1:
+  key:2.00
+  pgp:0.96
+  delete:0.83
+  password:0.82
+  start:0.61
+  msgs:0.60
+  forgotten:0.60
+  programme:0.60
+  decrypt:0.59
+  send:0.59
+
+Topic 2:
+  key:2.11
+  pgp:0.97
+  password:0.76
+  delete:0.76
+  decrypt:0.62
+  send:0.61
+  msgs:0.60
+  programme:0.60
+  start:0.59
+  forgotten:0.59
+
+Topic 3:
+  key:2.13
+  pgp:1.03
+  delete:0.80
+  password:0.75
+  send:0.59
+  programme:0.59
+  forgotten:0.59
+  start:0.59
+  decrypt:0.59
+  msgs:0.59
+
+Topic 4:
+  key:1.78
+  pgp:1.03
+  password:0.86
+  delete:0.82
+  programme:0.62
+  msgs:0.61
+  send:0.61
+  start:0.61
+  forgotten:0.61
+  decrypt:0.60
+
+K: 5, Log-Likelihood: -187.829, Alpha: 11.000, Beta: 1.100

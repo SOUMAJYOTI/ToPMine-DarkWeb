@@ -1,0 +1,61 @@
+Topic 0:
+  needle:3.90
+  storage:3.55
+  syringe:3.02
+  remove:2.90
+  vial:2.90
+  degradation:2.52
+  input:2.46
+  venting:2.34
+  glass:2.29
+  direct:2.29
+
+Topic 1:
+  solution:8.23
+  oxygen:3.92
+  chlorine:3.60
+  pure:2.95
+  lsd:2.85
+  decay:2.73
+  water:2.50
+  gas:1.99
+  add:1.78
+  conditions:1.76
+
+Topic 2:
+  good:2.75
+  dry:2.73
+  ice:2.64
+  heat:1.88
+  ideal:1.67
+  bit:1.61
+  community:1.49
+  member:1.20
+  vapor:1.18
+  cold:1.18
+
+Topic 3:
+  pellet:4.62
+  valves:3.85
+  paintball:3.85
+  shops:3.85
+  tattoo:3.85
+  dunno:2.81
+  power:2.62
+  member:2.60
+  quote:2.49
+  april:2.48
+
+Topic 4:
+  water:5.62
+  ice:1.97
+  liquid:1.95
+  dry:1.87
+  crystal:1.43
+  find:1.42
+  gas:1.37
+  solution:1.10
+  sandoz:1.03
+  hambone:0.96
+
+K: 5, Log-Likelihood: -2441.499, Alpha: 11.000, Beta: 1.100

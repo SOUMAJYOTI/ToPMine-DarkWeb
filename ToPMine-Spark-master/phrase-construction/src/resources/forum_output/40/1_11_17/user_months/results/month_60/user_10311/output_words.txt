@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:16.37
+  barclays:13.77
+  banks:5.71
+  accept:5.27
+  bank:3.95
+  major:3.95
+  year:2.95
+  accepting:2.95
+  accounts:2.50
+  legality:1.95
+
+Topic 1:
+  key:7.87
+  bip:3.57
+  public:2.85
+  big:2.82
+  wallet:2.12
+  generate:1.78
+  asks:1.56
+  create:1.56
+  august:1.49
+  keys:1.47
+
+Topic 2:
+  september:9.56
+  pmquote:5.34
+  enigma:4.49
+  spanish:3.36
+  richard:3.35
+  minus:3.17
+  guys:3.14
+  bit:3.07
+  advice:2.93
+  quote:2.92
+
+Topic 3:
+  electrum:14.49
+  server:4.94
+  addresses:3.94
+  watching:3.94
+  servers:3.81
+  tails:2.76
+  keys:2.38
+  payments:2.05
+  random:1.94
+  tor:1.94
+
+Topic 4:
+  quote:3.78
+  enigma:2.89
+  september:2.18
+  banks:1.80
+  advice:1.72
+  buttcoins:1.63
+  bit:1.60
+  guys:1.52
+  blockchain:1.46
+  pmthanks:1.09
+
+K: 5, Log-Likelihood: -2900.880, Alpha: 11.000, Beta: 1.100

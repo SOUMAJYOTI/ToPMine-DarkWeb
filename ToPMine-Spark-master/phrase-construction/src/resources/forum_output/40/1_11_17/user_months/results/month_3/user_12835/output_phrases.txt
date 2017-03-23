@@ -1,0 +1,61 @@
+Topic 0:
+  arrested:0.79
+  topic:0.78
+  people:0.66
+  fuck:0.62
+  quote:0.51
+  word:0.50
+  wannabe:0.49
+  theifbitcoin:0.49
+  donatingno:0.49
+  guys:0.48
+
+Topic 1:
+  arrested:1.77
+  february:1.39
+  bitcoin:1.39
+  jlaw:1.39
+  setup:1.39
+  lawyers:1.39
+  pay:1.38
+  hope:1.38
+  users:1.38
+  cosanostra:1.38
+
+Topic 2:
+  topic:1.05
+  fuck:0.93
+  making:0.65
+  addr:0.65
+  post:0.65
+  thought:0.65
+  begging:0.65
+  btc:0.64
+  delete:0.64
+  forget:0.64
+
+Topic 3:
+  donate:2.79
+  fucking:1.31
+  served:1.31
+  wasting:1.30
+  helping:1.29
+  time:1.29
+  shame:1.28
+  reason:1.20
+  dont:1.20
+  clown:1.20
+
+Topic 4:
+  topic:0.84
+  people:0.83
+  fuck:0.76
+  understand:0.54
+  forget:0.54
+  stupid:0.54
+  holy:0.54
+  delete:0.54
+  begging:0.53
+  post:0.53
+
+K: 5, Log-Likelihood: -532.231, Alpha: 11.000, Beta: 1.100

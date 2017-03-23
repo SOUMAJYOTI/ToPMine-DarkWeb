@@ -1,0 +1,61 @@
+Topic 0:
+  hosting:6.13
+  tor:5.66
+  wallet:5.05
+  server:4.95
+  address:4.01
+  site:3.89
+  proxy:3.01
+  set:3.00
+  services:2.34
+  hidden:2.32
+
+Topic 1:
+  account:8.47
+  community:6.76
+  set:6.57
+  time:5.37
+  service:4.73
+  dark:4.65
+  users:4.65
+  net:4.20
+  xmpp:3.93
+  enable:3.93
+
+Topic 2:
+  servers:8.60
+  promise:3.93
+  stops:3.92
+  federal:3.92
+  quote:3.80
+  wallet:3.32
+  dr:2.95
+  pirat:2.95
+  access:2.95
+  roger:2.95
+
+Topic 3:
+  email:8.80
+  address:4.27
+  check:4.16
+  find:2.91
+  java:2.80
+  dont:2.67
+  vendor:2.42
+  functions:1.83
+  log:1.75
+  box:1.75
+
+Topic 4:
+  site:7.66
+  quote:5.22
+  vendors:4.74
+  customers:4.64
+  june:4.61
+  service:4.06
+  honestcocaine:3.94
+  payment:3.10
+  sites:2.99
+  month:2.94
+
+K: 5, Log-Likelihood: -3951.632, Alpha: 11.000, Beta: 1.100

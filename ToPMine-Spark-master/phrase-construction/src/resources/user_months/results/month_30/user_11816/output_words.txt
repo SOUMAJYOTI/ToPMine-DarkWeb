@@ -1,0 +1,61 @@
+Topic 0:
+  market:9.37
+  openbazaar:8.54
+  ob:5.04
+  store:4.57
+  order:4.26
+  users:3.97
+  dht:3.51
+  website:3.35
+  software:3.22
+  buyer:3.10
+
+Topic 1:
+  market:9.04
+  cannabis:4.93
+  sir:4.93
+  multi:4.72
+  markets:4.19
+  drugs:3.30
+  lot:3.24
+  personally:3.23
+  idea:2.93
+  sig:2.52
+
+Topic 2:
+  market:10.20
+  openbazaar:8.05
+  vendor:3.19
+  users:3.15
+  buyer:2.98
+  order:2.87
+  website:2.82
+  client:2.52
+  dht:2.48
+  store:2.09
+
+Topic 3:
+  vendor:2.91
+  secret:1.92
+  quality:1.92
+  vendors:1.81
+  goods:1.28
+  system:1.16
+  sample:1.11
+  product:1.11
+  claims:0.93
+  products:0.93
+
+Topic 4:
+  market:8.92
+  openbazaar:3.27
+  vendor:2.88
+  users:2.24
+  dht:1.87
+  buyer:1.79
+  order:1.74
+  website:1.70
+  client:1.35
+  markets:1.32
+
+K: 5, Log-Likelihood: -2820.563, Alpha: 11.000, Beta: 1.100

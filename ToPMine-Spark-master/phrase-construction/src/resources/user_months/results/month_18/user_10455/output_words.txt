@@ -1,0 +1,61 @@
+Topic 0:
+  buy:1.14
+  bitcoin:1.13
+  music:1.13
+  support:1.12
+  june:0.55
+  sense:0.55
+  quote:0.53
+  fifty:0.43
+  pricks:0.43
+  bc:0.43
+
+Topic 1:
+  scanners:0.67
+  scrapers:0.66
+  bots:0.65
+  prevent:0.64
+  automated:0.64
+  june:0.62
+  quote:0.62
+  test:0.44
+  pmits:0.43
+  booted:0.43
+
+Topic 2:
+  automated:0.70
+  prevent:0.70
+  bots:0.69
+  scanners:0.68
+  scrapers:0.68
+  quote:0.62
+  june:0.61
+  booted:0.45
+  test:0.45
+  pmits:0.45
+
+Topic 3:
+  prevent:0.68
+  bots:0.67
+  scrapers:0.66
+  scanners:0.66
+  automated:0.66
+  quote:0.63
+  june:0.61
+  pmits:0.44
+  booted:0.44
+  test:0.44
+
+Topic 4:
+  automated:0.74
+  scrapers:0.74
+  scanners:0.74
+  bots:0.73
+  prevent:0.72
+  quote:0.60
+  june:0.60
+  day:0.54
+  booted:0.49
+  pmits:0.49
+
+K: 5, Log-Likelihood: -348.175, Alpha: 11.000, Beta: 1.100

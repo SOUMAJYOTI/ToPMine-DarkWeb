@@ -1,0 +1,61 @@
+Topic 0:
+  account:2.90
+  feedback:1.25
+  padding:0.95
+  didn:0.90
+  agora:0.84
+  good:0.78
+  thing:0.56
+  evolution:0.47
+  link:0.46
+  seller:0.45
+
+Topic 1:
+  feedbacks:3.26
+  custumers:3.09
+  real:1.83
+  kind:1.83
+  case:1.83
+  don:1.83
+  business:0.89
+  month:0.89
+  evolution:0.87
+  understand:0.84
+
+Topic 2:
+  vacation:4.50
+  mode:4.49
+  good:3.37
+  link:3.13
+  change:2.35
+  account:2.01
+  click:1.75
+  computering:1.22
+  find:1.22
+  genuine:1.22
+
+Topic 3:
+  account:2.33
+  feedback:1.80
+  agora:1.28
+  padding:1.23
+  evolution:0.97
+  custumers:0.77
+  didn:0.55
+  thing:0.52
+  problemyou:0.47
+  pm:0.47
+
+Topic 4:
+  money:2.55
+  custumer:2.52
+  custumers:1.74
+  agora:1.67
+  blocqued:1.59
+  trust:1.59
+  question:1.58
+  reason:1.58
+  booming:1.58
+  account:1.36
+
+K: 5, Log-Likelihood: -994.969, Alpha: 11.000, Beta: 1.100

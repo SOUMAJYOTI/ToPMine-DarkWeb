@@ -1,0 +1,61 @@
+Topic 0:
+  months:0.16
+  lovely:0.08
+  admins:0.08
+  popping:0.08
+  favor:0.08
+  long:0.08
+  smart:0.08
+  pies:0.08
+  noticed:0.08
+  wallet:0.08
+
+Topic 1:
+  months:0.16
+  lovely:0.08
+  smart:0.08
+  fool:0.08
+  noticed:0.08
+  float:0.08
+  stay:0.08
+  money:0.08
+  market:0.08
+  evo:0.08
+
+Topic 2:
+  months:0.16
+  lovely:0.08
+  resources:0.08
+  scammed:0.08
+  admin:0.08
+  float:0.08
+  market:0.08
+  wallet:0.08
+  fool:0.08
+  markets:0.08
+
+Topic 3:
+  months:0.16
+  cow:0.08
+  markets:0.08
+  resources:0.08
+  money:0.08
+  pies:0.08
+  stay:0.08
+  market:0.08
+  wallet:0.08
+  favor:0.08
+
+Topic 4:
+  months:0.16
+  admin:0.08
+  admins:0.08
+  pies:0.08
+  scammed:0.08
+  favor:0.08
+  money:0.08
+  popping:0.08
+  noticed:0.08
+  cow:0.08
+
+K: 5, Log-Likelihood: -27.273, Alpha: 11.000, Beta: 1.100

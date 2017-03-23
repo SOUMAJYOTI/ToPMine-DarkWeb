@@ -1,0 +1,61 @@
+Topic 0:
+  tor:4.74
+  bug:4.59
+  market:3.79
+  design:3.43
+  services:2.93
+  hidden:2.93
+  servers:2.93
+  network:2.93
+  pirate:2.72
+  server:2.17
+
+Topic 1:
+  agora:5.50
+  silk:4.95
+  users:2.44
+  access:1.95
+  earn:1.95
+  universal:1.95
+  running:1.37
+  community:1.21
+  business:1.17
+  feel:1.07
+
+Topic 2:
+  quote:5.42
+  april:3.87
+  vulnerable:3.54
+  changing:2.14
+  sr:2.09
+  server:1.58
+  forums:1.42
+  heard:1.03
+  good:0.98
+  curls:0.95
+
+Topic 3:
+  sr:13.50
+  problems:5.38
+  april:3.88
+  amquote:3.64
+  donkeysausage:3.63
+  surprise:2.58
+  arrogance:2.58
+  invulnerable:2.57
+  continue:2.55
+  safe:2.46
+
+Topic 4:
+  changing:7.48
+  sr:6.48
+  april:6.43
+  quote:4.24
+  arrogant:3.96
+  susceptible:3.94
+  claim:3.88
+  bazaar:3.84
+  remember:3.82
+  markets:3.82
+
+K: 5, Log-Likelihood: -2271.530, Alpha: 11.000, Beta: 1.100

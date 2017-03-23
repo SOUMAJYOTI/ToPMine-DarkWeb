@@ -1,0 +1,61 @@
+Topic 0:
+  entities:7.88
+  alfred:7.23
+  horrible:7.08
+  hub:7.02
+  bad:6.94
+  trolltergeist:6.93
+  sr:6.03
+  negative:5.89
+  ghost:5.61
+  community:5.18
+
+Topic 1:
+  august:9.33
+  silk:7.88
+  road:7.85
+  quote:5.14
+  poll:4.85
+  posted:4.78
+  ass:4.68
+  warning:4.56
+  smart:4.55
+  evilgrin:3.98
+
+Topic 2:
+  good:12.06
+  mod:11.46
+  months:6.71
+  community:6.27
+  people:5.81
+  mods:5.54
+  market:5.13
+  lot:4.78
+  things:4.75
+  jack:4.70
+
+Topic 3:
+  sr:20.89
+  issue:7.36
+  dont:6.29
+  time:6.20
+  family:5.95
+  fact:5.88
+  site:5.66
+  people:5.48
+  correct:3.94
+  bullshit:3.65
+
+Topic 4:
+  bitcoin:6.98
+  amagi:5.98
+  metals:5.98
+  currencies:5.98
+  fiat:4.98
+  accepting:4.98
+  money:4.45
+  currency:3.98
+  image:3.98
+  digital:3.98
+
+K: 5, Log-Likelihood: -8031.823, Alpha: 11.000, Beta: 1.100

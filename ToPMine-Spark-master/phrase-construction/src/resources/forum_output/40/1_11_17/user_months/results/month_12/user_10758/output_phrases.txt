@@ -1,0 +1,61 @@
+Topic 0:
+  extract:5.75
+  sms:4.66
+  unit:4.66
+  location:4.66
+  configuration:4.66
+  ordinates:4.66
+  device:4.66
+  find:4.06
+  gps:2.75
+  lucky:2.57
+
+Topic 1:
+  resolution:6.94
+  june pmquote:5.68
+  peek nice day happy:4.74
+  sell ebay superb idea:4.74
+  amun june pmlooks:4.74
+  higher:4.59
+  dimensions:4.59
+  exact type model obi:4.06
+  guy sold ebay sugest:4.05
+  memory:3.72
+
+Topic 2:
+  shit:7.71
+  car:5.55
+  quote:2.49
+  security:2.30
+  lava:2.30
+  lol:2.30
+  police:2.30
+  underneath:2.30
+  vehicle:2.30
+  throw:2.30
+
+Topic 3:
+  drivers:4.61
+  model:2.26
+  linus:2.26
+  op:2.26
+  compels:2.26
+  windows:2.26
+  prolific:2.26
+  downloading:2.26
+  ust:2.26
+  pl:2.26
+
+Topic 4:
+  hookup:7.67
+  sealed unit:4.86
+  side:3.78
+  rock:3.78
+  passenger:3.78
+  website:3.78
+  direct:3.78
+  frame:3.78
+  learn:3.78
+  attached magnets:3.78
+
+K: 5, Log-Likelihood: -3468.111, Alpha: 11.000, Beta: 1.100

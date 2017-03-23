@@ -1,0 +1,61 @@
+Topic 0:
+  thread:4.03
+  people:2.70
+  trip:2.59
+  reports:1.91
+  board:1.26
+  report:1.19
+  games:1.01
+  communicate:0.99
+  organised:0.99
+  ect:0.99
+
+Topic 1:
+  thread:2.24
+  trip:2.11
+  reports:1.70
+  people:1.48
+  board:1.45
+  report:1.27
+  topic:1.21
+  bit:0.92
+  pm:0.90
+  video:0.73
+
+Topic 2:
+  create:5.00
+  threads:3.24
+  topic:3.03
+  downright:1.41
+  evil:1.41
+  organize:1.41
+  substances:1.41
+  stopping:1.40
+  totally:1.40
+  type:1.40
+
+Topic 3:
+  thread:2.87
+  trip:2.52
+  people:1.89
+  reports:1.88
+  report:1.42
+  board:1.30
+  things:1.00
+  games:0.93
+  ect:0.93
+  communicate:0.92
+
+Topic 4:
+  trip:4.00
+  thread:4.00
+  people:3.71
+  reports:1.65
+  video:1.36
+  point:1.34
+  organised:1.34
+  community:1.34
+  things:1.27
+  games:1.27
+
+K: 5, Log-Likelihood: -882.313, Alpha: 11.000, Beta: 1.100

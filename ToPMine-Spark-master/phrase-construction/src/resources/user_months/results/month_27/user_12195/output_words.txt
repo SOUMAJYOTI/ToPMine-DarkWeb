@@ -1,0 +1,61 @@
+Topic 0:
+  silkkitie:0.60
+  posts:0.46
+  backup:0.46
+  hub:0.43
+  services:0.42
+  forbidden:0.32
+  sr:0.32
+  seized:0.23
+  indication:0.23
+  wood:0.23
+
+Topic 1:
+  silkkitie:0.67
+  posts:0.44
+  backup:0.44
+  hub:0.42
+  services:0.42
+  forbidden:0.33
+  sr:0.33
+  caused:0.22
+  created:0.22
+  retained:0.22
+
+Topic 2:
+  backup:0.67
+  posts:0.67
+  services:0.43
+  hub:0.43
+  silkkitie:0.39
+  individual:0.29
+  knocks:0.29
+  security:0.29
+  targeted:0.29
+  restored:0.29
+
+Topic 3:
+  silkkitie:2.10
+  forbidden:0.64
+  sr:0.63
+  services:0.34
+  hub:0.34
+  english:0.27
+  data:0.27
+  explosives:0.27
+  connection:0.27
+  disappeared:0.27
+
+Topic 4:
+  silkkitie:1.24
+  sr:0.48
+  forbidden:0.47
+  services:0.39
+  hub:0.38
+  backup:0.26
+  posts:0.26
+  work:0.23
+  items:0.23
+  address:0.23
+
+K: 5, Log-Likelihood: -258.993, Alpha: 11.000, Beta: 1.100

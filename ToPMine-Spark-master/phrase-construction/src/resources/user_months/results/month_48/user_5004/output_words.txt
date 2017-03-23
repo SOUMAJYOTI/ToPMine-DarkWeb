@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:13.58
+  money:8.34
+  blackbank:4.93
+  thing:3.92
+  afraid:3.92
+  bills:3.92
+  mdparity:3.92
+  honest:3.92
+  scam:3.92
+  rise:2.88
+
+Topic 1:
+  darknet:5.80
+  people:5.57
+  trust:4.19
+  wallet:2.84
+  receive:2.65
+  vacation:2.49
+  tmg:2.43
+  mode:2.38
+  vendor:2.07
+  pgp:1.86
+
+Topic 2:
+  funds:16.88
+  withdraw:10.81
+  admins:10.27
+  url:7.19
+  agency:5.32
+  knew:5.30
+  separate:5.29
+  numerous:5.28
+  insertion:5.28
+  allowing:5.26
+
+Topic 3:
+  markets:6.27
+  good:4.80
+  stranger:3.89
+  sticking:3.41
+  centralized:2.69
+  reason:2.68
+  place:2.18
+  market:2.13
+  escrow:2.11
+  bringing:1.89
+
+Topic 4:
+  vendors:5.12
+  people:3.39
+  time:2.85
+  bank:2.62
+  black:2.56
+  admins:2.36
+  bad:2.36
+  vendor:2.07
+  agora:1.73
+  fine:1.53
+
+K: 5, Log-Likelihood: -4167.361, Alpha: 11.000, Beta: 1.100

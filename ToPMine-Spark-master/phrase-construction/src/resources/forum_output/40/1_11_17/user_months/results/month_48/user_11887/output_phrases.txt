@@ -1,0 +1,61 @@
+Topic 0:
+  east india company:12.33
+  pgp:7.69
+  united states:7.69
+  merchants:6.08
+  company:5.74
+  system:5.74
+  advanced:3.80
+  automated:3.80
+  goods:3.80
+  withdrawals:3.80
+
+Topic 1:
+  amwhat uk join:2.96
+  quote knuckles april:2.51
+  flag appropriated united states:2.35
+  america:2.34
+  hope historical:2.34
+  east india company british:2.07
+  days:1.75
+  ruled:1.75
+  french:1.66
+  localized:1.66
+
+Topic 2:
+  customers:1.52
+  products:1.52
+  ready:1.49
+  uk join:0.85
+  coming:0.74
+  site:0.71
+  east india:0.62
+  quote knuckles april:0.44
+  referendum:0.42
+  bestterp:0.40
+
+Topic 3:
+  merchant:4.70
+  market:4.41
+  enforce buyers countries site:4.41
+  chat:4.41
+  services:3.84
+  time:3.84
+  pricing:3.84
+  shipping:3.84
+  april:3.40
+  users:3.24
+
+Topic 4:
+  wallet server:6.07
+  issue:6.07
+  log empty:3.43
+  notify:2.99
+  handling:2.99
+  intermittent:2.99
+  issues:2.99
+  connection:2.99
+  disconnects:2.99
+  connect:2.99
+
+K: 5, Log-Likelihood: -5785.818, Alpha: 11.000, Beta: 1.100

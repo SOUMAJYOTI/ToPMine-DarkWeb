@@ -1,0 +1,61 @@
+Topic 0:
+  torescrow:3.26
+  dont:2.04
+  vyvanse:1.88
+  nbomes:1.30
+  check:1.29
+  listings:1.25
+  team:1.12
+  lot:1.12
+  order:1.09
+  tomorrow:1.04
+
+Topic 1:
+  confirmations:4.89
+  torescrow:3.04
+  balance:2.89
+  transaction:2.89
+  customer:2.34
+  unconformed:1.89
+  problem:1.89
+  accessible:1.89
+  number:1.89
+  require:1.59
+
+Topic 2:
+  members:5.91
+  marketplace:5.57
+  fee:3.90
+  trust:3.56
+  web:3.43
+  decreases:2.91
+  pgp:2.91
+  rating:2.31
+  system:2.28
+  features:2.16
+
+Topic 3:
+  free:6.09
+  vendor:4.46
+  accounts:3.77
+  listings:3.27
+  forums:2.90
+  listing:2.61
+  products:2.42
+  site:2.25
+  desk:2.14
+  contact:1.63
+
+Topic 4:
+  torescrow:4.34
+  members:1.23
+  vendor:1.16
+  order:1.08
+  system:1.08
+  trust:0.99
+  listings:0.74
+  lot:0.68
+  feel:0.65
+  site:0.64
+
+K: 5, Log-Likelihood: -2269.095, Alpha: 11.000, Beta: 1.100

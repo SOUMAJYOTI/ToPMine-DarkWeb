@@ -1,0 +1,61 @@
+Topic 0:
+  agent:10.54
+  fbi:9.67
+  ip:8.90
+  ip address:8.83
+  packet:6.71
+  protocol:5.26
+  tor hidden service:5.26
+  sr:5.26
+  error:5.26
+  destination:5.26
+
+Topic 1:
+  silk road:27.42
+  captcha:13.53
+  ip address:11.25
+  fbi:10.20
+  tor:9.00
+  cubrilovic:7.91
+  agents:7.91
+  packet sniffer:7.91
+  hosted:7.91
+  security:7.91
+
+Topic 2:
+  block:5.27
+  drshrooms:5.27
+  key:5.27
+  public:4.04
+  forum:3.96
+  majestic:3.48
+  find:3.46
+  garden:3.46
+  evolution:3.46
+  vendor account:3.31
+
+Topic 3:
+  log:9.61
+  pandora:7.45
+  buyer account:7.20
+  money:5.05
+  logged:4.37
+  earlier:4.37
+  damn:3.93
+  site:3.64
+  vendor account:3.60
+  market:3.45
+
+Topic 4:
+  september:9.40
+  jack hoff:6.80
+  quote:6.25
+  vendor account hijacked:6.17
+  inside job:5.69
+  vpn:5.17
+  people:5.13
+  hijacking:5.05
+  correct:5.04
+  people sr:4.39
+
+K: 5, Log-Likelihood: -13288.815, Alpha: 11.000, Beta: 1.100

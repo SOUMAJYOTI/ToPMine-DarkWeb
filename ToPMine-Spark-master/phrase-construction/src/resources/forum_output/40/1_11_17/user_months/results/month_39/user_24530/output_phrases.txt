@@ -1,0 +1,61 @@
+Topic 0:
+  people:0.32
+  bad:0.24
+  tool:0.24
+  deep:0.16
+  web:0.16
+  violent:0.16
+  game:0.16
+  dan:0.16
+  allot:0.16
+  white:0.16
+
+Topic 1:
+  people:0.33
+  tool:0.24
+  bad:0.24
+  guy:0.16
+  violent:0.16
+  white:0.16
+  love:0.16
+  allot:0.16
+  darpa:0.16
+  dan:0.16
+
+Topic 2:
+  people:0.33
+  bad:0.24
+  tool:0.24
+  darpa:0.16
+  violent:0.16
+  dan:0.16
+  white:0.16
+  love:0.16
+  game:0.16
+  guy:0.16
+
+Topic 3:
+  people:0.32
+  tool:0.24
+  bad:0.24
+  white:0.16
+  game:0.16
+  love:0.16
+  darpa:0.16
+  allot:0.16
+  guy:0.16
+  violent:0.16
+
+Topic 4:
+  people:0.32
+  bad:0.24
+  tool:0.24
+  deep:0.16
+  web:0.16
+  guy:0.16
+  dan:0.16
+  allot:0.16
+  game:0.16
+  love:0.16
+
+K: 5, Log-Likelihood: -263.897, Alpha: 11.000, Beta: 1.100

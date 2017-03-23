@@ -1,0 +1,61 @@
+Topic 0:
+  users:0.81
+  items:0.63
+  sites:0.41
+  times:0.41
+  day:0.41
+  guy:0.40
+  websites:0.39
+  gold:0.39
+  coat:0.39
+  dont:0.39
+
+Topic 1:
+  users:0.80
+  items:0.60
+  guy:0.40
+  nickel:0.40
+  day:0.40
+  times:0.40
+  verify:0.40
+  real:0.40
+  sites:0.40
+  gold:0.40
+
+Topic 2:
+  users:0.83
+  items:0.60
+  guy:0.41
+  day:0.40
+  times:0.40
+  websites:0.40
+  sites:0.40
+  trust:0.40
+  gold:0.40
+  doubt:0.40
+
+Topic 3:
+  users:0.78
+  items:0.62
+  doubt:0.40
+  verify:0.40
+  gold:0.40
+  coat:0.40
+  websites:0.40
+  dont:0.40
+  guy:0.40
+  trust:0.40
+
+Topic 4:
+  users:0.78
+  items:0.56
+  point:0.41
+  real:0.41
+  dont:0.41
+  nickel:0.41
+  trust:0.41
+  doubt:0.41
+  verify:0.41
+  coat:0.41
+
+K: 5, Log-Likelihood: -222.836, Alpha: 11.000, Beta: 1.100

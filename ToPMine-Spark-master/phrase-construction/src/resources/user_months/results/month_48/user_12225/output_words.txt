@@ -1,0 +1,61 @@
+Topic 0:
+  mit:0.57
+  nyt:0.43
+  ei:0.40
+  kukaan:0.21
+  mielipiteit:0.21
+  vastatkaa:0.21
+  ja:0.21
+  onko:0.21
+  ytt:0.21
+  kaivataan:0.21
+
+Topic 1:
+  mit:0.60
+  ei:0.40
+  nyt:0.39
+  se:0.20
+  siin:0.20
+  elika:0.20
+  eik:0.20
+  aika:0.20
+  st:0.20
+  kuvattavaksi:0.20
+
+Topic 2:
+  mit:0.64
+  ei:0.40
+  nyt:0.38
+  voi:0.21
+  sen:0.21
+  lki:0.21
+  alhaalla:0.21
+  smite:0.21
+  turvallisimmista:0.21
+  todellakin:0.21
+
+Topic 3:
+  mit:0.62
+  ei:0.40
+  nyt:0.38
+  olette:0.20
+  kameran:0.20
+  st:0.20
+  mielt:0.20
+  siin:0.20
+  smart:0.20
+  se:0.20
+
+Topic 4:
+  mit:0.58
+  nyt:0.41
+  ei:0.40
+  kaivataan:0.20
+  onko:0.20
+  vastatkaa:0.20
+  ja:0.20
+  ytt:0.20
+  mielipiteit:0.20
+  kukaan:0.20
+
+K: 5, Log-Likelihood: -194.585, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  config file:10.15
+  mouse:10.02
+  conf:9.66
+  boot seabios running tails:8.18
+  tails assume works:7.46
+  thing:7.46
+  touchpad doesnt work mouse:7.46
+  everythibng works touchpad working:7.46
+  settings tails helps:7.46
+  fine goggle chrome tweak:7.46
+
+Topic 1:
+  thread:14.53
+  le:8.47
+  printing tails:8.09
+  february amsounds le cares:7.39
+  comment sense cares:6.82
+  dont print tails hahaha:6.29
+  dvdextra february amquote majorfame:6.29
+  lad:5.64
+  dont:5.60
+  friend:5.58
+
+Topic 2:
+  john lewis represent doe:6.04
+  tang likey tang hp:6.03
+  quote tang february:5.88
+  doe:4.64
+  pmeh:4.64
+  today:4.35
+  pmleetspeakhaha:3.99
+  issues tails:3.96
+  cute:2.95
+  quote tang:2.82
+
+Topic 3:
+  write protect screw:9.43
+  processor:9.34
+  gb ram:9.29
+  chromebook:9.25
+  cheap:9.08
+  dont:7.49
+  tails:5.45
+  open:4.68
+  bulky:4.68
+  scrappy:4.68
+
+Topic 4:
+  printers:14.53
+  printer:7.22
+  tails:6.61
+  printing:6.35
+  regular:5.51
+  clicking:4.81
+  process:4.81
+  reuse:4.81
+  configuration printers:4.81
+  manage:4.81
+
+K: 5, Log-Likelihood: -6817.633, Alpha: 11.000, Beta: 1.100

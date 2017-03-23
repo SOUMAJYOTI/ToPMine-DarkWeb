@@ -1,0 +1,61 @@
+Topic 0:
+  people:11.96
+  tmg:9.61
+  sr:8.85
+  happy:5.95
+  paranoia:5.95
+  experiences:5.95
+  markets:5.25
+  life:4.75
+  order:3.95
+  talk:3.95
+
+Topic 1:
+  avengers:6.54
+  tmz:5.75
+  lsd:4.73
+  incredible:3.43
+  price:3.23
+  eh:2.76
+  care:2.71
+  tmg:2.33
+  july:1.94
+  live:1.86
+
+Topic 2:
+  garden:5.66
+  dead:5.24
+  europe:3.71
+  gdf:3.03
+  amazing:2.49
+  love:2.47
+  experience:2.44
+  place:2.21
+  time:2.15
+  don:2.10
+
+Topic 3:
+  led:11.02
+  lsd:10.67
+  physical:10.46
+  network:9.64
+  globe:8.49
+  movement:8.47
+  acid:8.33
+  majestic:7.46
+  bigger:7.45
+  garden:6.51
+
+Topic 4:
+  thread:10.60
+  july:9.98
+  times:9.29
+  live:7.34
+  time:6.96
+  melancholy:6.85
+  years:6.84
+  thinking:6.70
+  written:6.55
+  tmg:6.15
+
+K: 5, Log-Likelihood: -6668.578, Alpha: 11.000, Beta: 1.100

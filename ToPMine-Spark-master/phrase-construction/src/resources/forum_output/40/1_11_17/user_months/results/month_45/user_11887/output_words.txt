@@ -1,0 +1,61 @@
+Topic 0:
+  company:10.26
+  india:9.14
+  east:7.88
+  merchants:3.90
+  pgp:3.13
+  states:2.97
+  united:2.85
+  factor:2.84
+  marketplace:2.36
+  european:2.32
+
+Topic 1:
+  buyers:5.87
+  uk:5.53
+  april:5.47
+  east:5.38
+  india:5.26
+  site:4.86
+  countries:4.86
+  market:4.64
+  british:3.96
+  quote:3.72
+
+Topic 2:
+  east:2.15
+  india:2.06
+  company:2.00
+  united:1.72
+  states:1.62
+  merchants:1.33
+  platform:1.28
+  factor:1.10
+  automated:0.93
+  system:0.89
+
+Topic 3:
+  users:5.28
+  server:4.18
+  error:3.91
+  wallet:3.91
+  issue:3.91
+  quote:2.97
+  empty:2.78
+  log:2.78
+  tor:1.98
+  handling:1.91
+
+Topic 4:
+  join:3.17
+  april:2.27
+  amwhat:2.23
+  knuckles:2.17
+  uk:2.15
+  united:1.74
+  states:1.68
+  historical:1.68
+  appropriated:1.66
+  hope:1.66
+
+K: 5, Log-Likelihood: -3739.706, Alpha: 11.000, Beta: 1.100

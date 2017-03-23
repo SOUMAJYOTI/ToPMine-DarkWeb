@@ -1,0 +1,36 @@
+Topic 0:
+  test:0.00
+  price:0.00
+  kit:0.00
+  led:0.00
+  time:0.00
+
+Topic 1:
+  test:0.00
+  price:0.00
+  kit:0.00
+  led:0.00
+  time:0.00
+
+Topic 2:
+  test:0.00
+  price:0.00
+  kit:0.00
+  led:0.00
+  time:0.00
+
+Topic 3:
+  test:0.00
+  price:0.00
+  kit:0.00
+  led:0.00
+  time:0.00
+
+Topic 4:
+  test:0.00
+  price:0.00
+  kit:0.00
+  led:0.00
+  time:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

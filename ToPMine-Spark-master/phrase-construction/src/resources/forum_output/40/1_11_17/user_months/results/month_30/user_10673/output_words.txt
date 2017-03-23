@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:1.41
+  track:0.81
+  bitcoin:0.63
+  btc:0.62
+  reserve:0.61
+  transactions:0.61
+  aerial:0.56
+  number:0.56
+  addresses:0.40
+  bitin:0.39
+
+Topic 1:
+  wallet:1.60
+  track:0.77
+  aerial:0.72
+  number:0.71
+  btc:0.65
+  transactions:0.62
+  bitcoin:0.59
+  reserve:0.53
+  cleaning:0.47
+  bitin:0.46
+
+Topic 2:
+  wallet:1.36
+  number:0.89
+  aerial:0.88
+  track:0.79
+  btc:0.69
+  bitcoin:0.62
+  transactions:0.60
+  long:0.54
+  bitin:0.53
+  cleaning:0.52
+
+Topic 3:
+  wallet:1.10
+  track:0.82
+  lots:0.79
+  cleancoin:0.79
+  bitcoins:0.78
+  reserve:0.76
+  transactions:0.57
+  bitcoin:0.56
+  addresses:0.47
+  btc:0.45
+
+Topic 4:
+  wallet:1.53
+  track:0.81
+  reserve:0.62
+  transactions:0.60
+  bitcoin:0.60
+  btc:0.59
+  number:0.51
+  aerial:0.50
+  addresses:0.41
+  cleancoin:0.40
+
+K: 5, Log-Likelihood: -376.304, Alpha: 11.000, Beta: 1.100

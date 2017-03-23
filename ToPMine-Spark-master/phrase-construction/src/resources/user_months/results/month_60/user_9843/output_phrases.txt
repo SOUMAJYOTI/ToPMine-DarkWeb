@@ -1,0 +1,61 @@
+Topic 0:
+  deal:0.23
+  lbc:0.17
+  cards:0.14
+  safely:0.14
+  exchangers:0.14
+  website:0.14
+  ton:0.14
+  wash:0.14
+  deeply:0.14
+  presume:0.14
+
+Topic 1:
+  deal:0.23
+  lbc:0.17
+  lbs:0.14
+  moneygram:0.14
+  cards:0.14
+  booby:0.14
+  aquires:0.14
+  appreciated:0.14
+  store:0.14
+  safely:0.14
+
+Topic 2:
+  deal:0.23
+  lbc:0.17
+  lbs:0.14
+  safely:0.14
+  questions:0.14
+  localbitcoins:0.14
+  website:0.14
+  exchangers:0.14
+  aquires:0.14
+  presume:0.14
+
+Topic 3:
+  deal:0.23
+  lbc:0.17
+  store:0.14
+  appreciated:0.14
+  wash:0.14
+  aquires:0.14
+  presume:0.14
+  booby:0.14
+  localbitcoins:0.14
+  website:0.14
+
+Topic 4:
+  deal:0.23
+  lbc:0.17
+  ton:0.14
+  questions:0.14
+  deeply:0.14
+  localbitcoins:0.14
+  wash:0.14
+  store:0.14
+  appreciated:0.14
+  exchangers:0.14
+
+K: 5, Log-Likelihood: -86.828, Alpha: 11.000, Beta: 1.100

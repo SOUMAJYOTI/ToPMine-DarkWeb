@@ -1,0 +1,61 @@
+Topic 0:
+  referrals:3.53
+  dream:2.02
+  quote:1.74
+  aphabay:1.64
+  posting:1.64
+  consolidate:1.64
+  hey:1.63
+  dated:1.63
+  nowi:1.63
+  ive:1.62
+
+Topic 1:
+  links:4.99
+  hub:4.99
+  scabby cunt:4.99
+  support:4.45
+  year:4.25
+  happy:4.25
+  december:3.28
+  yogsothoth:2.98
+  amthanks:2.97
+  belong:2.97
+
+Topic 2:
+  dream:2.38
+  referrals:1.84
+  quote:1.54
+  market:1.49
+  today:1.48
+  yo:1.46
+  works:1.22
+  convenient:1.16
+  yog:0.95
+  password:0.89
+
+Topic 3:
+  link:8.66
+  vendor:4.20
+  real:2.01
+  phishing:2.01
+  careful:2.01
+  official:2.01
+  drug:1.24
+  generall:1.24
+  signature:1.24
+  listings:1.23
+
+Topic 4:
+  referred:3.80
+  middle:3.34
+  exact:3.34
+  person:3.34
+  choose:3.33
+  code:3.33
+  doesnt:3.33
+  started:3.33
+  postto:3.33
+  thread:3.33
+
+K: 5, Log-Likelihood: -1218.173, Alpha: 11.000, Beta: 1.100

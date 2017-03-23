@@ -1,0 +1,61 @@
+Topic 0:
+  saved:0.53
+  amazing:0.53
+  donations:0.52
+  finds:0.52
+  verify:0.52
+  work:0.52
+  needed:0.52
+  fucking:0.52
+  funds:0.52
+  righteous:0.52
+
+Topic 1:
+  super:3.40
+  test:1.53
+  bunch:0.94
+  ill:0.94
+  winner:0.94
+  ec:0.94
+  partnership:0.94
+  word:0.94
+  left:0.94
+  guess:0.94
+
+Topic 2:
+  guys:0.47
+  raffle:0.47
+  needed:0.46
+  greedy:0.46
+  times:0.46
+  righteous:0.46
+  time:0.46
+  info:0.46
+  finds:0.46
+  fucking:0.46
+
+Topic 3:
+  mission:0.55
+  info:0.54
+  send:0.54
+  sending:0.54
+  time:0.54
+  funds:0.54
+  work:0.54
+  verify:0.54
+  times:0.54
+  fucking:0.54
+
+Topic 4:
+  great:1.34
+  bump:0.90
+  chance:0.90
+  resource:0.90
+  bonobo:0.90
+  mentioned:0.90
+  vendors:0.90
+  earned:0.90
+  money:0.90
+  putting:0.90
+
+K: 5, Log-Likelihood: -527.788, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  admins:0.44
+  love:0.28
+  invite:0.24
+  dm:0.22
+  meiwantzinvite:0.22
+  dhl:0.22
+  jetting:0.22
+  invitation:0.22
+  trumps:0.22
+  time:0.22
+
+Topic 1:
+  admins:0.43
+  love:0.28
+  invite:0.24
+  dm:0.22
+  meiwantzinvite:0.22
+  trumps:0.22
+  invitation:0.22
+  vetting:0.22
+  dhl:0.22
+  time:0.22
+
+Topic 2:
+  admins:0.45
+  love:0.28
+  invite:0.24
+  single:0.22
+  jetting:0.22
+  vetting:0.22
+  time:0.22
+  dhl:0.22
+  invitation:0.22
+  trumps:0.22
+
+Topic 3:
+  admins:0.44
+  love:0.28
+  invite:0.24
+  dm:0.22
+  single:0.22
+  jetting:0.22
+  meiwantzinvite:0.22
+  invitation:0.22
+  trumps:0.22
+  vetting:0.22
+
+Topic 4:
+  admins:0.44
+  love:0.28
+  invite:0.24
+  meiwantzinvite:0.22
+  dm:0.22
+  single:0.22
+  time:0.22
+  vetting:0.22
+  trumps:0.22
+  dhl:0.22
+
+K: 5, Log-Likelihood: -36.491, Alpha: 11.000, Beta: 1.100

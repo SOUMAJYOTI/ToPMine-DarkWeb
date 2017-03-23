@@ -1,0 +1,61 @@
+Topic 0:
+  virtual:8.79
+  install:5.92
+  vm:5.85
+  truecrypt:5.84
+  cd:4.95
+  windows:4.95
+  dvd:3.95
+  machine:3.84
+  program:2.95
+  inside:2.94
+
+Topic 1:
+  btc:7.85
+  transaction:6.44
+  fake:5.79
+  chain:4.87
+  longer:3.92
+  bitin:3.89
+  confirmed:3.89
+  processing:3.80
+  power:3.44
+  multiply:2.86
+
+Topic 2:
+  coins:10.96
+  block:7.49
+  bitcoin:7.28
+  accepted:6.96
+  alice:6.75
+  bob:6.75
+  blockchain:4.04
+  carol:3.96
+  network:3.96
+  blocks:3.88
+
+Topic 3:
+  tor:14.59
+  airvpn:5.87
+  exit:4.96
+  dont:3.68
+  ip:3.54
+  encrypted:3.33
+  option:3.18
+  node:2.96
+  socks:2.96
+  pass:2.96
+
+Topic 4:
+  vpn:2.66
+  bitcoins:2.48
+  note:1.81
+  sell:1.73
+  pump:1.73
+  true:1.71
+  view:1.60
+  justa:1.60
+  carefully:1.60
+  heads:1.60
+
+K: 5, Log-Likelihood: -3510.803, Alpha: 11.000, Beta: 1.100

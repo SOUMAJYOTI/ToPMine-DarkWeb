@@ -1,0 +1,61 @@
+Topic 0:
+  silk road:4.79
+  browser:4.79
+  ip address:4.79
+  tor:3.92
+  hops:3.18
+  network:3.18
+  type:3.18
+  session:3.18
+  firefox:3.18
+  approach:3.18
+
+Topic 1:
+  books:3.18
+  real:3.18
+  book:3.18
+  mentioned:3.18
+  life:3.18
+  forums:1.98
+  time:1.77
+  win:1.58
+  swanning:1.58
+  direct:1.58
+
+Topic 2:
+  connected:3.54
+  safe ethernet:2.33
+  laptop:2.33
+  tor wifi:2.33
+  connect dw:2.33
+  private:2.33
+  crack:2.33
+  rooms:2.33
+  physically:2.33
+  involved:2.33
+
+Topic 3:
+  exit node:6.35
+  clearnet sites:5.53
+  hidden services:5.47
+  data:4.74
+  tor relay:4.74
+  scripts:3.14
+  watch:3.14
+  ends:3.14
+  deanonymize:3.14
+  connections:3.14
+
+Topic 4:
+  hidden service:5.42
+  connected nodes:4.72
+  nodes:3.89
+  le:2.32
+  clearnet site tor:2.32
+  address onion:2.32
+  stuff:2.32
+  connect:2.32
+  evesdrop:2.32
+  chance:2.32
+
+K: 5, Log-Likelihood: -3930.194, Alpha: 11.000, Beta: 1.100

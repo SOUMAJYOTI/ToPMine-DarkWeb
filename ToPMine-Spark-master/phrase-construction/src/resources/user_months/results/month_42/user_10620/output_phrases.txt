@@ -1,0 +1,61 @@
+Topic 0:
+  generate:0.83
+  great:0.60
+  max:0.39
+  software:0.38
+  size:0.38
+  kgpg linux fairly easy:0.38
+  gpg usb:0.38
+  amyou:0.37
+  quote:0.36
+  oneconspiracy:0.36
+
+Topic 1:
+  great:1.03
+  size:0.90
+  max:0.89
+  software:0.87
+  generate:0.49
+  quote:0.39
+  oneconspiracy:0.39
+  amyou:0.39
+  april:0.39
+  piece:0.38
+
+Topic 2:
+  great:1.04
+  software:0.82
+  max:0.80
+  size:0.79
+  generate:0.52
+  april:0.40
+  oneconspiracy:0.39
+  amyou:0.39
+  quote:0.39
+  bits bits:0.37
+
+Topic 3:
+  public:1.31
+  generate:1.26
+  menu:0.53
+  encryption:0.53
+  rate:0.53
+  depends:0.53
+  lead:0.53
+  explanatory:0.53
+  matching:0.53
+  complexity:0.53
+
+Topic 4:
+  generate:1.13
+  public:0.61
+  great:0.42
+  pgp:0.38
+  program:0.37
+  key:0.37
+  kgpg linux fairly easy:0.34
+  gpg usb:0.34
+  pretty:0.32
+  apt:0.32
+
+K: 5, Log-Likelihood: -475.004, Alpha: 11.000, Beta: 1.100

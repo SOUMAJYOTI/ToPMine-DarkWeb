@@ -1,0 +1,61 @@
+Topic 0:
+  free:0.67
+  vendor:0.66
+  evo:0.63
+  true:0.41
+  sold:0.41
+  till:0.41
+  evolution:0.41
+  feedback:0.36
+  markets:0.36
+  claims:0.35
+
+Topic 1:
+  evo:1.16
+  vendor:1.13
+  free:1.11
+  closed:0.46
+  satisfied:0.46
+  based:0.46
+  presently:0.46
+  offer:0.46
+  alphabet:0.46
+  scam:0.46
+
+Topic 2:
+  seller:0.89
+  true:0.63
+  claims:0.39
+  xillia:0.39
+  scammed:0.39
+  buisness:0.39
+  love:0.39
+  top:0.39
+  worried:0.39
+  vouch:0.39
+
+Topic 3:
+  seller:0.69
+  true:0.67
+  claims:0.39
+  markets:0.38
+  feedback:0.38
+  forum:0.36
+  evolution:0.35
+  till:0.34
+  sold:0.34
+  free:0.33
+
+Topic 4:
+  questions:0.68
+  impertinent:0.68
+  register:0.68
+  wanted:0.67
+  pose:0.67
+  mind:0.62
+  amhow:0.62
+  caught:0.62
+  pallidpallas:0.62
+  sites:0.62
+
+K: 5, Log-Likelihood: -463.854, Alpha: 11.000, Beta: 1.100

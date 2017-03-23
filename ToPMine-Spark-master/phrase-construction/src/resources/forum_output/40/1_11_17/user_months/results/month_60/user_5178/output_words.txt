@@ -1,0 +1,61 @@
+Topic 0:
+  market:2.27
+  escrow:2.22
+  vendors:1.91
+  vendor:1.89
+  site:1.89
+  link:1.78
+  staff:1.77
+  system:1.54
+  love:1.48
+  order:1.47
+
+Topic 1:
+  love:4.11
+  market:2.75
+  escrow:2.60
+  vendor:2.26
+  order:2.16
+  site:2.07
+  impossible:1.96
+  vendors:1.89
+  staff:1.78
+  system:1.75
+
+Topic 2:
+  escrow:2.89
+  vendor:2.79
+  link:2.42
+  market:2.30
+  system:2.16
+  vendors:2.13
+  staff:2.09
+  order:1.97
+  impossible:1.97
+  site:1.68
+
+Topic 3:
+  vendor:2.68
+  market:2.60
+  escrow:2.15
+  system:2.00
+  site:1.98
+  link:1.70
+  staff:1.68
+  impossible:1.65
+  order:1.64
+  vendors:1.63
+
+Topic 4:
+  vendor:2.38
+  escrow:2.14
+  impossible:2.09
+  market:2.08
+  order:1.75
+  staff:1.68
+  system:1.55
+  link:1.53
+  vendors:1.44
+  site:1.39
+
+K: 5, Log-Likelihood: -1779.721, Alpha: 11.000, Beta: 1.100

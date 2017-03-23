@@ -1,0 +1,61 @@
+Topic 0:
+  doesnt:0.20
+  imply:0.20
+  front:0.20
+  completely:0.20
+  expensive:0.20
+  software:0.20
+  yadd:0.20
+  idea:0.20
+  wits:0.20
+  server:0.20
+
+Topic 1:
+  development:0.20
+  completely:0.20
+  automated:0.20
+  electricity:0.20
+  add:0.20
+  yadd:0.20
+  wits:0.20
+  front:0.20
+  investment:0.20
+  doesnt:0.20
+
+Topic 2:
+  idea:0.20
+  service:0.20
+  imply:0.20
+  server:0.20
+  add:0.20
+  automated:0.20
+  costs:0.20
+  doesnt:0.20
+  yadd:0.20
+  wits:0.20
+
+Topic 3:
+  network:0.20
+  wits:0.20
+  add:0.20
+  idea:0.20
+  server:0.20
+  investment:0.20
+  automated:0.20
+  electricity:0.20
+  software:0.20
+  service:0.20
+
+Topic 4:
+  expensive:0.20
+  costs:0.20
+  electricity:0.20
+  software:0.20
+  development:0.20
+  investment:0.20
+  service:0.20
+  completely:0.20
+  yadd:0.20
+  server:0.20
+
+K: 5, Log-Likelihood: -52.027, Alpha: 11.000, Beta: 1.100

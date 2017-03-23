@@ -1,0 +1,61 @@
+Topic 0:
+  project:6.52
+  pandora:5.83
+  scammer:4.89
+  order:3.74
+  road:3.62
+  vendor:3.39
+  scam:2.70
+  dont:2.60
+  days:2.17
+  sr:1.98
+
+Topic 1:
+  sr:7.73
+  thread:6.66
+  market:3.87
+  scam:3.35
+  scammers:3.28
+  banned:3.01
+  link:2.99
+  list:2.48
+  place:2.15
+  pgp:2.13
+
+Topic 2:
+  key:5.35
+  ss:3.69
+  supplyshack:2.92
+  match:2.89
+  scam:2.75
+  list:2.47
+  handle:1.89
+  toocoolforschool:1.89
+  scammed:1.58
+  banned:1.37
+
+Topic 3:
+  sr:3.80
+  keeping:2.08
+  people:1.84
+  quote:1.78
+  anarcho:1.64
+  feel:1.63
+  scam:1.50
+  profile:1.16
+  good:1.13
+  dont:1.13
+
+Topic 4:
+  blue:4.00
+  sky:3.79
+  nice:2.75
+  circles:1.80
+  punted:1.80
+  btc:1.80
+  fe:1.80
+  intention:1.80
+  talked:1.80
+  informed:1.80
+
+K: 5, Log-Likelihood: -2835.176, Alpha: 11.000, Beta: 1.100

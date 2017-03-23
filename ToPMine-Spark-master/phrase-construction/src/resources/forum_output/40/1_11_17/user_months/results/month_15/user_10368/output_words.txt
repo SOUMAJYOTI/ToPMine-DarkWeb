@@ -1,0 +1,61 @@
+Topic 0:
+  onionshop:2.27
+  onion:1.40
+  shop:1.25
+  register:1.16
+  good:1.05
+  vendor:0.95
+  working:0.92
+  friendly:0.76
+  quote:0.76
+  asap:0.74
+
+Topic 1:
+  onionshop:5.31
+  onion:2.33
+  vendors:1.86
+  payment:1.54
+  system:1.34
+  site:1.34
+  server:1.26
+  customers:1.21
+  quote:1.16
+  vendor:1.11
+
+Topic 2:
+  pgp:1.93
+  signature:1.93
+  message:1.35
+  work:1.20
+  day:1.00
+  big:0.96
+  lyyzhhknv:0.93
+  gnupg:0.93
+  dtijtneixxbonci:0.93
+  rdfmegwhsqzjrtgtz:0.93
+
+Topic 3:
+  shop:3.36
+  vendor:2.54
+  order:2.31
+  onion:1.77
+  good:1.66
+  day:1.49
+  market:1.47
+  onionshop:1.34
+  posted:1.10
+  working:1.01
+
+Topic 4:
+  lot:2.59
+  effort:1.90
+  plan:1.90
+  server:1.67
+  shops:1.59
+  worth:1.42
+  seized:1.39
+  vps:1.39
+  work:1.24
+  safe:1.16
+
+K: 5, Log-Likelihood: -2010.917, Alpha: 11.000, Beta: 1.100

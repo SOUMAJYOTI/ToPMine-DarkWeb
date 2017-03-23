@@ -1,0 +1,61 @@
+Topic 0:
+  onion:0.91
+  site:0.90
+  bad:0.87
+  good:0.76
+  bookmarked:0.76
+  links:0.75
+  crawled:0.75
+  start:0.75
+  set:0.74
+  chrome:0.74
+
+Topic 1:
+  tor:0.97
+  store:0.96
+  bliss:0.94
+  swiss:0.94
+  google:0.94
+  pushingtabu:0.94
+  searched:0.93
+  strange:0.93
+  day:0.92
+  navigate:0.92
+
+Topic 2:
+  site tor:0.77
+  gammagoblins:0.77
+  pushingtabu:0.75
+  day:0.75
+  strange:0.74
+  swiss:0.74
+  navigate:0.74
+  google:0.73
+  bliss:0.73
+  tor:0.73
+
+Topic 3:
+  forum:1.10
+  setting:1.10
+  search:1.10
+  discourages:1.09
+  interesting:1.08
+  dns:1.08
+  public:1.08
+  indexing:1.08
+  addresses:1.07
+  heard:1.07
+
+Topic 4:
+  thought:0.80
+  disguised:0.79
+  accessible:0.79
+  clearnet clearnet:0.78
+  ehhhh:0.78
+  sorta:0.77
+  onion site:0.77
+  sites:0.77
+  onion:0.74
+  bad:0.73
+
+K: 5, Log-Likelihood: -613.036, Alpha: 11.000, Beta: 1.100

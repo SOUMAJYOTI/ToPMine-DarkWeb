@@ -1,0 +1,61 @@
+Topic 0:
+  btc:12.81
+  address:7.62
+  order:7.62
+  coin:7.47
+  dont:6.92
+  market:6.89
+  import:6.74
+  started:6.62
+  vendor:6.36
+  orders:5.66
+
+Topic 1:
+  open:5.30
+  quote:3.56
+  dont:3.08
+  market:2.99
+  volume:2.88
+  site:2.70
+  encrypted:2.63
+  inside:2.61
+  time:2.54
+  links:2.43
+
+Topic 2:
+  agora:7.18
+  quote:6.44
+  great:6.24
+  vendor:5.58
+  rc:5.56
+  good:4.94
+  feedback:4.61
+  mode:4.54
+  buyers:4.53
+  market:4.20
+
+Topic 3:
+  key:12.54
+  file:11.14
+  files:9.98
+  passwords:9.50
+  password:9.16
+  archive:8.98
+  data:8.25
+  create:6.98
+  encrypted:6.93
+  pgp:6.79
+
+Topic 4:
+  link:18.66
+  bmr:17.86
+  pandora:14.72
+  send:13.81
+  profile:12.94
+  verified:11.86
+  proof:10.94
+  verification:10.94
+  message:10.60
+  sheep:9.85
+
+K: 5, Log-Likelihood: -11132.239, Alpha: 11.000, Beta: 1.100

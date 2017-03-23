@@ -1,0 +1,61 @@
+Topic 0:
+  september:5.69
+  sr:5.02
+  people:4.79
+  quote:3.79
+  assuming:3.67
+  jack:3.11
+  couple:2.97
+  ago:2.97
+  hoff:2.82
+  add:2.49
+
+Topic 1:
+  account:11.05
+  vendor:5.40
+  pandora:5.28
+  buyer:4.29
+  forum:3.47
+  email:2.53
+  fa:2.27
+  public:2.05
+  drshrooms:1.97
+  key:1.97
+
+Topic 2:
+  ip:9.56
+  tor:7.32
+  address:6.59
+  packets:5.69
+  fbi:5.69
+  packet:5.61
+  header:4.99
+  agent:4.79
+  source:3.82
+  server:3.73
+
+Topic 3:
+  road:19.07
+  silk:18.67
+  address:14.09
+  captcha:12.23
+  ip:9.76
+  tor:9.21
+  server:7.48
+  login:7.03
+  fbi:6.94
+  computer:6.52
+
+Topic 4:
+  sr:3.97
+  hijacked:2.99
+  site:2.65
+  vendor:2.46
+  account:2.45
+  passwords:2.20
+  pandora:1.99
+  september:1.90
+  job:1.74
+  quote:1.73
+
+K: 5, Log-Likelihood: -6563.592, Alpha: 11.000, Beta: 1.100

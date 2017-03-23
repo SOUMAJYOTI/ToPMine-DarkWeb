@@ -1,0 +1,61 @@
+Topic 0:
+  er:1.81
+  den:1.14
+  vi:1.13
+  du:1.02
+  ikke:0.80
+  maskine:0.51
+  mere:0.51
+  ensom:0.50
+  vil:0.50
+  adresse:0.50
+
+Topic 1:
+  site:2.25
+  respective:0.62
+  carding:0.62
+  market:0.62
+  finance:0.62
+  vertical:0.62
+  buyersthis:0.62
+  overview:0.62
+  impertinent:0.62
+  drive:0.62
+
+Topic 2:
+  er:0.75
+  den:0.66
+  du:0.58
+  vi:0.58
+  place:0.53
+  ikke:0.50
+  ensom:0.36
+  adresse:0.36
+  mere:0.36
+  af:0.36
+
+Topic 3:
+  den:1.88
+  er:1.81
+  vi:1.30
+  du:1.23
+  ikke:0.87
+  af:0.55
+  adresse:0.55
+  ensom:0.54
+  vil:0.54
+  mere:0.54
+
+Topic 4:
+  er:1.47
+  den:1.17
+  du:1.02
+  vi:0.85
+  ikke:0.70
+  vil:0.49
+  maskine:0.48
+  adresse:0.48
+  mere:0.48
+  ensom:0.48
+
+K: 5, Log-Likelihood: -343.993, Alpha: 11.000, Beta: 1.100

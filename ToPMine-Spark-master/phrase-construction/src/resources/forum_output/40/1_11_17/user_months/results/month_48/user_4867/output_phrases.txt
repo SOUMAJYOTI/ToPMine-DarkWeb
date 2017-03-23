@@ -1,0 +1,61 @@
+Topic 0:
+  don:0.17
+  till:0.14
+  months:0.14
+  howdy:0.14
+  dolmio:0.14
+  thought:0.14
+  registered:0.14
+  turns:0.14
+  didnt:0.14
+  lolcheers:0.14
+
+Topic 1:
+  don:0.17
+  ill:0.14
+  ive:0.14
+  dont:0.14
+  ll:0.14
+  haven:0.14
+  ve:0.14
+  havent:0.14
+  lolcheers:0.14
+  turns:0.14
+
+Topic 2:
+  don:0.17
+  ve:0.14
+  haven:0.14
+  ll:0.14
+  ive:0.14
+  dont:0.14
+  havent:0.14
+  ill:0.14
+  thought:0.14
+  till:0.14
+
+Topic 3:
+  don:0.17
+  ll:0.14
+  haven:0.14
+  ive:0.14
+  ve:0.14
+  dont:0.14
+  ill:0.14
+  havent:0.14
+  thought:0.14
+  lolcheers:0.14
+
+Topic 4:
+  don:0.17
+  havent:0.14
+  ive:0.14
+  dont:0.14
+  ill:0.14
+  ve:0.14
+  ll:0.14
+  haven:0.14
+  registered:0.14
+  didnt:0.14
+
+K: 5, Log-Likelihood: -172.423, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  private:0.00
+  metadata:0.00
+  data:0.00
+  documents:0.00
+  long long:0.00
+  document:0.00
+  encrypting:0.00
+  office:0.00
+  long:0.00
+  quote:0.00
+
+Topic 1:
+  private:0.00
+  metadata:0.00
+  data:0.00
+  documents:0.00
+  long long:0.00
+  document:0.00
+  encrypting:0.00
+  office:0.00
+  long:0.00
+  quote:0.00
+
+Topic 2:
+  private:0.00
+  metadata:0.00
+  data:0.00
+  documents:0.00
+  long long:0.00
+  document:0.00
+  encrypting:0.00
+  office:0.00
+  long:0.00
+  quote:0.00
+
+Topic 3:
+  private:0.00
+  metadata:0.00
+  data:0.00
+  documents:0.00
+  long long:0.00
+  document:0.00
+  encrypting:0.00
+  office:0.00
+  long:0.00
+  quote:0.00
+
+Topic 4:
+  private:0.00
+  metadata:0.00
+  data:0.00
+  documents:0.00
+  long long:0.00
+  document:0.00
+  encrypting:0.00
+  office:0.00
+  long:0.00
+  quote:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

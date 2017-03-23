@@ -1,0 +1,61 @@
+Topic 0:
+  search:2.50
+  browser:2.44
+  set:1.63
+  add:1.48
+  disable:1.40
+  enabled:1.29
+  tor:1.21
+  google:0.80
+  browsers:0.71
+  ons:0.59
+
+Topic 1:
+  browser:3.56
+  set:2.49
+  enabled:2.44
+  search:2.14
+  tor:1.61
+  disable:1.52
+  add:1.23
+  google:1.14
+  browsers:0.77
+  ons:0.64
+
+Topic 2:
+  set:4.58
+  enabled:2.55
+  tor:2.35
+  search:2.24
+  browser:1.72
+  add:1.56
+  disable:1.24
+  google:1.06
+  browsers:0.80
+  safebrowsing:0.65
+
+Topic 3:
+  set:2.71
+  browser:2.23
+  tor:2.09
+  search:1.31
+  add:1.24
+  disable:1.18
+  enabled:1.17
+  google:1.03
+  browsers:0.71
+  bit:0.57
+
+Topic 4:
+  browser:4.05
+  search:2.82
+  set:2.59
+  enabled:2.54
+  tor:1.75
+  disable:1.67
+  add:1.49
+  browsers:1.02
+  google:0.97
+  find:0.65
+
+K: 5, Log-Likelihood: -1455.324, Alpha: 11.000, Beta: 1.100

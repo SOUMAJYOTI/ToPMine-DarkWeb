@@ -1,0 +1,61 @@
+Topic 0:
+  password:7.24
+  change:3.87
+  account:2.72
+  wrong:2.33
+  hours:2.26
+  screen:1.56
+  clone:1.24
+  bsm:0.94
+  dont:0.92
+  steal:0.84
+
+Topic 1:
+  account:10.26
+  pin:8.17
+  password:6.50
+  pins:4.75
+  reset:4.71
+  coins:3.21
+  days:2.98
+  bluest:2.90
+  balance:2.90
+  vendor:2.88
+
+Topic 2:
+  support:4.82
+  account:4.02
+  password:2.75
+  coins:1.84
+  worked:1.52
+  reset:1.41
+  clone:1.07
+  change:0.98
+  troll:0.82
+  bluesky:0.81
+
+Topic 3:
+  market:6.48
+  bsm:3.56
+  title:2.56
+  change:2.43
+  sky:2.26
+  sr:1.91
+  op:1.84
+  thread:1.73
+  feedback:1.65
+  blue:1.63
+
+Topic 4:
+  support:7.90
+  account:4.92
+  password:3.43
+  reset:3.39
+  coins:2.57
+  pin:1.99
+  bluesky:1.41
+  private:1.26
+  delete:1.19
+  worked:1.19
+
+K: 5, Log-Likelihood: -2230.127, Alpha: 11.000, Beta: 1.100

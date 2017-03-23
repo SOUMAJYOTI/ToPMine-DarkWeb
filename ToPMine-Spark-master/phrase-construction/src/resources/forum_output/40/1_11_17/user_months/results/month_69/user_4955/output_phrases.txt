@@ -1,0 +1,61 @@
+Topic 0:
+  dnms:3.35
+  tguk:2.85
+  attitude:2.76
+  exit scam:2.63
+  listings:1.64
+  earn:1.64
+  nice:1.64
+  appalling:1.64
+  long:1.64
+  heading:1.64
+
+Topic 1:
+  money:1.56
+  year:1.35
+  ago:1.12
+  scammed:1.12
+  scolding:1.09
+  messed:1.09
+  opposed:1.08
+  lukewarm:1.08
+  things:1.07
+  blotters:1.07
+
+Topic 2:
+  drugs:3.34
+  product:3.34
+  gear:2.77
+  quote:2.73
+  february:2.73
+  assume:2.33
+  people making:2.33
+  reddit good:2.33
+  reason:2.33
+  generally:2.33
+
+Topic 3:
+  vendor:3.46
+  vendors:3.06
+  reviewer:3.05
+  market:3.05
+  sucks:3.03
+  operation:3.01
+  life:3.01
+  rating:3.01
+  leave:3.01
+  amount:2.99
+
+Topic 4:
+  coke:3.19
+  bitcoin:2.29
+  tguk:1.70
+  sending:1.50
+  change:1.50
+  fishy:1.50
+  sample:1.50
+  idk:1.50
+  scammedwhats:1.50
+  guy:1.50
+
+K: 5, Log-Likelihood: -2264.627, Alpha: 11.000, Beta: 1.100

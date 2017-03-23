@@ -1,0 +1,61 @@
+Topic 0:
+  refund:0.42
+  listings:0.28
+  tab:0.28
+  price:0.28
+  tracking:0.28
+  hier:0.28
+  article:0.28
+  sehr:0.28
+  high:0.28
+  speed:0.28
+
+Topic 1:
+  refund:0.41
+  free:0.29
+  listings:0.27
+  tracking:0.27
+  high:0.27
+  hier:0.27
+  aktionspreis aktionspreis:0.27
+  tubs:0.27
+  price:0.27
+  speed:0.27
+
+Topic 2:
+  refund:0.42
+  article:0.28
+  der:0.28
+  hier:0.28
+  tubs:0.28
+  paste:0.28
+  tracking:0.28
+  aktionspreis aktionspreis:0.28
+  time:0.28
+  sehr:0.28
+
+Topic 3:
+  refund:0.40
+  free:0.30
+  sehr:0.27
+  der:0.27
+  time:0.27
+  aktionspreis aktionspreis:0.27
+  paste:0.27
+  speed:0.27
+  high:0.27
+  tracking:0.27
+
+Topic 4:
+  refund:0.44
+  price:0.28
+  tab:0.28
+  paste:0.28
+  high:0.28
+  time:0.28
+  der:0.28
+  speed:0.28
+  sehr:0.28
+  tubs:0.28
+
+K: 5, Log-Likelihood: -418.465, Alpha: 11.000, Beta: 1.100

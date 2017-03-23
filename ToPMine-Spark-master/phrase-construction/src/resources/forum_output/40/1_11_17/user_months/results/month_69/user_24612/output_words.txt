@@ -1,0 +1,61 @@
+Topic 0:
+  listings:0.97
+  book:0.81
+  store:0.61
+  items:0.60
+  offer:0.59
+  valhalla:0.41
+  premium:0.40
+  free:0.40
+  carding:0.40
+  fraud:0.40
+
+Topic 1:
+  listings:1.04
+  book:0.79
+  offer:0.61
+  items:0.60
+  store:0.59
+  fraud:0.40
+  sold:0.40
+  reading:0.40
+  members:0.40
+  great:0.40
+
+Topic 2:
+  listings:0.98
+  book:0.79
+  store:0.61
+  offer:0.61
+  items:0.60
+  great:0.40
+  profile:0.40
+  march:0.40
+  ends:0.40
+  members:0.40
+
+Topic 3:
+  listings:0.98
+  book:0.79
+  items:0.61
+  store:0.61
+  offer:0.60
+  valhalla:0.41
+  premium:0.40
+  reading:0.40
+  pckabmlnote:0.40
+  free:0.40
+
+Topic 4:
+  listings:1.03
+  book:0.82
+  offer:0.60
+  items:0.60
+  store:0.58
+  ends:0.40
+  members:0.40
+  sold:0.40
+  free:0.40
+  day:0.40
+
+K: 5, Log-Likelihood: -298.563, Alpha: 11.000, Beta: 1.100

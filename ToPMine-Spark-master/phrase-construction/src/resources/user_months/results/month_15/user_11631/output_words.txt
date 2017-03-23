@@ -1,0 +1,61 @@
+Topic 0:
+  online:1.60
+  drugs:1.12
+  markets:0.97
+  market:0.96
+  people:0.81
+  majestic:0.73
+  garden:0.72
+  led:0.60
+  road:0.60
+  site:0.60
+
+Topic 1:
+  online:1.58
+  market:1.10
+  drugs:1.07
+  markets:0.95
+  garden:0.87
+  people:0.85
+  majestic:0.80
+  silk:0.61
+  problem:0.61
+  avengers:0.60
+
+Topic 2:
+  market:1.59
+  markets:1.12
+  online:1.06
+  drugs:0.99
+  garden:0.78
+  majestic:0.75
+  people:0.73
+  led:0.64
+  problem:0.62
+  vendors:0.61
+
+Topic 3:
+  online:1.46
+  market:1.19
+  markets:1.05
+  drugs:0.93
+  majestic:0.89
+  garden:0.84
+  people:0.83
+  site:0.63
+  lsd:0.62
+  problem:0.62
+
+Topic 4:
+  online:1.29
+  market:1.16
+  markets:0.91
+  drugs:0.89
+  majestic:0.82
+  garden:0.80
+  people:0.79
+  road:0.61
+  vendors:0.61
+  avengers:0.60
+
+K: 5, Log-Likelihood: -1232.528, Alpha: 11.000, Beta: 1.100

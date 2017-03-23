@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:7.88
+  bitcoins:7.02
+  hidden:7.02
+  matter:4.67
+  markets:4.67
+  demand:4.67
+  holding:4.67
+  dump:4.67
+  pools:4.67
+  increase:4.67
+
+Topic 1:
+  tomorrow:3.74
+  coin price:3.74
+  wake:3.74
+  sincerely:3.74
+  yeah:3.72
+  hope:3.53
+  isnt:2.69
+  lost:2.39
+  odds:2.28
+  happen:2.28
+
+Topic 2:
+  government:4.84
+  quote:4.82
+  march amso:4.82
+  evade:3.78
+  energy:3.78
+  russia people:3.78
+  infrastructure:3.78
+  fly:3.78
+  aha:3.78
+  solid:3.78
+
+Topic 3:
+  god:5.66
+  real:5.63
+  boy:4.64
+  months:4.18
+  answer:2.96
+  allowed:2.75
+  banned:2.75
+  troll:2.29
+  thing:2.29
+  boxes:2.29
+
+Topic 4:
+  shit dropping:5.77
+  hours:4.50
+  dont:4.10
+  basis:3.83
+  personally:3.83
+  frantic:3.83
+  year:3.83
+  crazy:3.83
+  weeks:3.83
+  stable:3.83
+
+K: 5, Log-Likelihood: -4039.773, Alpha: 11.000, Beta: 1.100

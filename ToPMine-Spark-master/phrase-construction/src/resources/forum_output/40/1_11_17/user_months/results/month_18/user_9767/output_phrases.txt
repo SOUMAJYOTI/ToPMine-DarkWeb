@@ -1,0 +1,61 @@
+Topic 0:
+  havent:0.08
+  haven:0.08
+  lucky:0.00
+  cool:0.00
+  link:0.00
+  clearnet:0.00
+  community:0.00
+  branch:0.00
+  posted:0.00
+  heck:0.00
+
+Topic 1:
+  haven:0.08
+  havent:0.08
+  lucky:0.00
+  cool:0.00
+  link:0.00
+  clearnet:0.00
+  community:0.00
+  branch:0.00
+  posted:0.00
+  heck:0.00
+
+Topic 2:
+  haven:0.08
+  havent:0.08
+  lucky:0.00
+  cool:0.00
+  link:0.00
+  clearnet:0.00
+  community:0.00
+  branch:0.00
+  posted:0.00
+  heck:0.00
+
+Topic 3:
+  havent:0.08
+  haven:0.08
+  lucky:0.00
+  cool:0.00
+  link:0.00
+  clearnet:0.00
+  community:0.00
+  branch:0.00
+  posted:0.00
+  heck:0.00
+
+Topic 4:
+  haven:0.08
+  havent:0.08
+  lucky:0.00
+  cool:0.00
+  link:0.00
+  clearnet:0.00
+  community:0.00
+  branch:0.00
+  posted:0.00
+  heck:0.00
+
+K: 5, Log-Likelihood: -1.798, Alpha: 11.000, Beta: 1.100

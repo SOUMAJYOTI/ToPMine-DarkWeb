@@ -1,0 +1,1839 @@
+explosive,0,1
+nowadays,1,1
+clinton,2,1
+remote,3,4
+explanation,4,1
+guards,5,9
+tor exit,6,2
+imperfect,7,1
+protected,8,1
+april companies,9,1
+running hs,10,2
+traffic analysis,11,2
+select hsdirs,12,1
+task system,13,2
+time synchronization,14,4
+heartbleed bug,15,1
+amazons,16,1
+devices,17,2
+require,18,2
+analysis,19,3
+volunteers,20,1
+running virtual,21,2
+hidden services,22,21
+presidente april,23,3
+replies,24,1
+correlation,25,3
+eavesdrop,26,1
+quote real,27,5
+security protocol,28,1
+accessible,29,1
+statistical,30,1
+mehnert,31,1
+hosting,32,6
+ahead,33,1
+work generate,34,1
+notable,35,1
+turn,36,1
+ceo,37,1
+sigaint,38,12
+result,39,2
+bugs,40,2
+rejects,41,1
+arrived,42,1
+mail host,43,1
+called entry,44,1
+users real,45,2
+connect,46,1
+heninger,47,1
+imap,48,1
+address,49,6
+kvm,50,2
+sets,51,1
+qemu dom,52,1
+extra security,53,1
+kernel,54,1
+component,55,1
+hsdirs specific,56,1
+year read,57,1
+deploying,58,1
+bug hacker,59,1
+days,60,3
+source computer,61,1
+rackspace,62,1
+accumulated,63,1
+vulnerabilities attacks,64,1
+standard,65,4
+reports,66,1
+correct,67,1
+bad clock,68,1
+network exit,69,1
+versions open,70,1
+good,71,2
+tor users,72,4
+hacks,73,2
+payload,74,1
+implement,75,1
+export,76,7
+vendors,77,1
+chime,78,2
+visibility,79,1
+amorite,80,1
+time post,81,1
+cryptography,82,2
+pay,83,1
+gps,84,4
+check,85,1
+donncha,86,1
+andrew,87,1
+neglected,88,1
+external,89,2
+exit nodes,90,1
+success,91,1
+plate random,92,2
+virtual environment,93,2
+supposed,94,2
+guards guards trust,95,3
+guards hidden,96,1
+applied,97,1
+provided,98,2
+people sigaint,99,1
+connections hidden,100,2
+fatal,101,1
+protocol addresses,102,1
+secrecy,103,2
+elliptical,104,1
+ephemeral keys,105,2
+root,106,2
+infiltrated,107,1
+datacenter heartbleed,108,1
+bochs,109,1
+patched ntpd,110,1
+hard,111,1
+multiply,112,3
+isrun,113,2
+imagine tor relays hidden,114,3
+bruce,115,1
+jebusite,116,1
+perform,117,4
+order perform,118,1
+expose,119,1
+attacks logjam,120,1
+detect attacks,121,1
+service,122,19
+quote el presidente,123,5
+purposely,124,1
+tls,125,2
+hellman,126,14
+protection connected,127,1
+inject,128,1
+pile,129,1
+channel,130,1
+system add,131,2
+encrypted connections,132,2
+entire,133,2
+gains,134,1
+bit key,135,1
+venom attack,136,1
+protection running,137,1
+services compromised,138,3
+morethe,139,1
+write,140,2
+order,141,3
+period,142,2
+keys data,143,1
+altering,144,1
+confirmation,145,2
+intelligence,146,1
+install,147,1
+spots,148,1
+tor anonymity,149,2
+orders,150,1
+foreseeable,151,1
+service users,152,1
+website gain,153,1
+remote servers,154,2
+anonymizing,155,1
+protection,156,4
+leaked,157,1
+kinds,158,1
+matter,159,1
+indicating,160,1
+thing mind,161,2
+conjunction,162,1
+restrictions government,163,1
+top,164,6
+support diffie,165,1
+tor,166,62
+costly,167,1
+device emulation,168,2
+famous,169,1
+robust,170,1
+nodes online,171,1
+drugs,172,1
+inconsistent,173,2
+relays access,174,1
+leaned asa,175,1
+days researchers,176,1
+hacker,177,5
+disable,178,1
+nodes hsdirs,179,4
+infiltrate,180,1
+manner,181,2
+platforms,182,2
+biggest,183,3
+passwords,184,1
+macbook,185,1
+negotiate ephemeral,186,2
+key exchange,187,3
+traffic,188,15
+piz,189,1
+anonymity network,190,2
+including,191,3
+law,192,3
+clones,193,2
+virtualization,194,6
+clock minutes,195,1
+year year,196,1
+flaw imagine,197,3
+anew,198,1
+condition,199,1
+trs,200,1
+boggy,201,1
+arms,202,1
+bare metal servers flaw,203,3
+pmwe,204,1
+specialized,205,1
+initiated,206,1
+university,207,1
+guards trust,208,3
+technique,209,4
+combat,210,1
+flaw hacker,211,1
+virtualisation,212,1
+youve,213,1
+extra,214,3
+design,215,1
+working,216,4
+friday,217,2
+department,218,1
+breacheshundreds,219,1
+tied,220,1
+penetration,221,1
+machines multiply,222,1
+runs tor,223,2
+server tor,224,1
+ntpd clock,225,1
+clock server,226,1
+dom venom,227,1
+large web,228,1
+activities,229,2
+stable,230,1
+set clock,231,1
+machines,232,4
+researchers technique,233,1
+maintenance,234,2
+servers online,235,1
+ntpd,236,5
+web service,237,2
+pmi,238,1
+users tor,239,2
+concern,240,1
+running time,241,2
+integrity,242,2
+pmp,243,1
+worked,244,1
+instance system,245,4
+rendezvous,246,4
+state,247,1
+client tor,248,1
+drift,249,2
+portions,250,1
+level domain,251,1
+cares,252,1
+clock nap,253,3
+subbing,254,1
+vmware,255,1
+vulnerability,256,7
+crypto attacks,257,1
+gain control,258,1
+statement company,259,1
+reminiscent,260,1
+torlist,261,1
+revelations,262,1
+dollars,263,1
+working time,264,1
+hsdir,265,5
+pon,266,1
+pop,267,1
+routing,268,1
+bad bad,269,1
+defense,270,1
+attack,271,21
+encrypt,272,1
+attach,273,1
+inclement,274,2
+latest,275,1
+hacker exploit,276,1
+receive,277,2
+hypervisor machine,278,1
+tor work,279,1
+refresh,280,1
+services,281,23
+team,282,2
+thousands people,283,1
+domains rely,284,1
+speech,285,1
+decrypt,286,1
+vulnerable percent,287,2
+thing,288,4
+users hidden,289,2
+exploit hypervisor,290,1
+privileges,291,1
+hs running,292,4
+based geffner,293,1
+importantly,294,1
+goods,295,1
+select hsdir,296,1
+source,297,4
+users logjam,298,1
+secure,299,3
+placing,300,1
+late,301,1
+basically,302,1
+immense,303,1
+nsa backdoor,304,1
+starts,305,1
+budget,306,1
+protocol websites,307,1
+offers,308,1
+actual,309,2
+underappreciated,310,1
+pro,311,1
+nodes rendezvous,312,1
+specific ip,313,1
+fixed,314,1
+assume,315,1
+updated,316,1
+mathematically,317,1
+full,318,2
+asa documents,319,1
+estimated vulnerable,320,1
+memory,321,1
+scientist,322,1
+impossible,323,1
+hooked,324,1
+effort,325,1
+connected parties,326,1
+updates,327,1
+brute,328,3
+house,329,4
+yesterday,330,2
+freak,331,1
+security flaw,332,1
+ability crack,333,1
+vulnerabilities heartbleed,334,1
+pull attack,335,2
+datacenter,336,3
+windows,337,1
+shitty,338,1
+advised,339,1
+researchers interest,340,1
+encrypted data,341,1
+access time,342,2
+anonymity protection,343,2
+tor project,344,1
+short,345,1
+time,346,30
+titled,347,1
+revisitedthe,348,1
+applications,349,2
+clocks ntp,350,1
+notorious,351,1
+pun,352,1
+pmthe,353,2
+required,354,2
+multi,355,1
+service days,356,1
+services researchers,357,1
+infosec,358,1
+software heartbleed,359,1
+real sigaint,360,7
+hey,361,1
+hardware,362,2
+unnoticed,363,1
+sessions,364,2
+dangling,365,1
+dates,366,1
+crack tor,367,1
+precompute,368,2
+tor attack,369,1
+pennsylvania,370,1
+tor instance system,371,4
+bug house,372,1
+internet nodes,373,1
+web traffic,374,1
+provide,375,4
+light,376,1
+servers extra,377,1
+primary,378,1
+millions virtual,379,1
+log,380,1
+reliability,381,1
+crowdstrikes,382,1
+pmthis,383,1
+layer,384,4
+bug open,385,1
+computer,386,3
+services rely,387,1
+cryptographic,388,1
+wealth,389,1
+disclosure,390,2
+backdoor,391,3
+consistent,392,1
+adversary,393,2
+downtime,394,1
+barely,395,1
+websites tor,396,2
+choice,397,1
+randomly,398,1
+technique break,399,1
+quote mechwarrior,400,2
+serversdiffie,401,1
+marketplaces,402,1
+hacker break,403,1
+attackers set,404,1
+dan,405,1
+hit,406,1
+security ability,407,1
+major,408,2
+worldwide,409,1
+attack geffner,410,1
+tor network,411,7
+day,412,8
+potential,413,1
+standard diffie,414,1
+minutes,415,4
+created,416,1
+tor client,417,1
+task perform,418,1
+differ hellman,419,6
+illegal,420,2
+virtualized environment,421,1
+correlate,422,2
+services add,423,1
+pmquote,424,1
+absolutely,425,1
+easy de,426,1
+subverting,427,1
+isn compromised,428,1
+dont,429,1
+tens,430,2
+ease,431,1
+credentials,432,1
+large percent,433,1
+reveals,434,1
+providers time,435,2
+allusion,436,1
+percent,437,9
+system virtualization,438,1
+point,439,2
+nadia,440,1
+logjam ephemeral,441,1
+discovered bug,442,1
+browser,443,1
+servers flaw,444,3
+nodes tor,445,2
+process,446,1
+tricked,447,1
+built,448,1
+clear,449,2
+alternative,450,1
+vulnerability traffic,451,1
+services setup,452,1
+posting,453,1
+suggestions,454,2
+gaping,455,1
+real sigaint april,456,4
+bad vulnerabilities,457,1
+running tor,458,1
+hasnt,459,1
+safer,460,1
+advance,461,1
+crack,462,4
+depending,463,1
+tor clocks,464,1
+running versions,465,1
+pseudo,466,1
+presidente,467,5
+prime,468,1
+pass,469,1
+opportunity,470,2
+random trusted,471,2
+easy,472,4
+runs domain,473,1
+kaminsky,474,2
+attackers ability,475,1
+nodes relays,476,1
+domain,477,5
+millions,478,3
+attackers control,479,1
+firms,480,1
+host order,481,1
+relative,482,1
+software large,483,1
+stems,484,1
+web domains,485,1
+negotiated,486,1
+populating,487,1
+resell,488,1
+el presidente,489,5
+provide anonymity,490,1
+howand,491,1
+interestingly,492,1
+geffner researcher,493,1
+security researchers,494,1
+wednesday,495,1
+term,496,2
+sparc,497,1
+dhe,498,2
+mind,499,4
+replicate,500,1
+extra points,501,1
+business,502,1
+device datacenter,503,1
+servers internet,504,1
+thursday,505,1
+exchange parties,506,1
+transition,507,1
+ipkvms,508,1
+june,509,2
+constantin,510,1
+series,511,1
+maximum,512,1
+cloneno,513,1
+time aware,514,1
+phrases,515,1
+dig,516,1
+hypervisor hacker,517,1
+leaned,518,3
+correctly,519,1
+trust needed,520,1
+adding,521,1
+bare metal servers,522,3
+talk,523,1
+unverifiable,524,1
+tor relays,525,4
+dedicated,526,2
+trusted clock,527,1
+commonly,528,1
+dom runs,529,1
+traversing,530,2
+remained,531,2
+enforcement,532,3
+publicly,533,2
+service website,534,1
+ntp tlsdate,535,1
+open quote,536,1
+sigaint april,537,4
+service exploit,538,1
+percent internet,539,1
+time gps,540,2
+virtual,541,10
+additional,542,2
+flaw patch,543,1
+load,544,1
+nsa crack,545,2
+separate hsdir,546,1
+company,547,4
+owner,548,1
+sold,549,1
+billions,550,1
+relay,551,1
+break house,552,1
+metal servers,553,3
+researcher email,554,1
+monitor,555,3
+virtual servers,556,1
+percent websites,557,1
+hole,558,1
+nodes,559,16
+material,560,2
+owned,561,1
+access virtual,562,1
+days attackers,563,1
+hope,564,1
+doesnt,565,2
+executive,566,1
+revealed,567,1
+text,568,2
+amirite,569,1
+bug people,570,1
+release tor,571,1
+layer attacker,572,1
+researchers,573,17
+mitm,574,2
+bits,575,1
+removing,576,1
+nsa isn,577,1
+accompanied,578,1
+physically,579,1
+field,580,1
+virtual machines,581,2
+warned,582,1
+explorer,583,1
+needed attack,584,3
+sieve,585,1
+mite,586,1
+skew,587,2
+server,588,8
+shield,589,1
+thousands web,590,1
+entry nodes,591,1
+dom,592,3
+floppy,593,2
+curve,594,2
+clock multiply,595,1
+operated,596,1
+notify,597,1
+mention,598,1
+government,599,3
+oracles,600,1
+server runs,601,1
+torbox,602,2
+ciphers,603,2
+wouldn,604,1
+man,605,1
+tankersley,606,2
+forward,607,2
+attackers,608,10
+uri,609,2
+trusted,610,3
+entities,611,2
+machine,612,8
+specific tor,613,1
+websites,614,11
+hops,615,1
+silkroadvb,616,1
+discreet,617,1
+instance,618,4
+mail,619,14
+common encryption,620,1
+deluded,621,1
+edward,622,1
+serve,623,2
+bumped,624,1
+read venom,625,1
+onion sites,626,1
+websites security,627,1
+anonymization,628,1
+time tor,629,1
+host assuming,630,1
+venom security,631,1
+solution,632,2
+snowdon,633,3
+host,634,7
+logo,635,1
+aware problem,636,1
+credit,637,1
+terrible,638,1
+differ hellman key,639,1
+cables,640,2
+order servers,641,1
+companies systems,642,1
+sooner,643,1
+ideas,644,1
+includes,645,1
+percent sites,646,1
+steps,647,1
+metal servers flaw imagine,648,3
+creditable,649,1
+task,650,3
+dubbed,651,1
+scientists,652,2
+background,653,1
+true,654,1
+header,655,1
+position,656,1
+control tor,657,1
+keys nsa,658,1
+arrested,659,1
+leaned ip,660,2
+read sigaint,661,1
+vpns,662,1
+hsdir hidden,663,1
+hsdir hs,664,1
+hour,665,1
+smoking,666,1
+men,667,2
+working remote,668,2
+magnitude,669,1
+physical,670,2
+met,671,1
+heard,672,2
+opposed,673,1
+network government,674,1
+client assuming,675,1
+writers,676,1
+thread,677,1
+ntp time,678,2
+polled,679,1
+mechwarrior,680,3
+level encryption,681,1
+online,682,3
+threat,683,2
+tor hidden,684,13
+chance secure,685,1
+coming,686,1
+legacy common,687,1
+enters,688,1
+users access,689,1
+crash,690,1
+patch,691,3
+firm,692,2
+character,693,2
+remote server,694,2
+harder nodes,695,1
+released,696,1
+goals,697,1
+based,698,6
+sandvik,699,2
+breaches,700,1
+ipmis,701,1
+execute,702,2
+vpon,703,1
+cracking,704,1
+guards guards,705,3
+pointed,706,1
+vastly,707,1
+domains qemu,708,1
+servers flaw imagine,709,3
+unique,710,2
+easy crack,711,1
+programs,712,1
+set clocks,713,1
+fact,714,2
+instance system time,715,2
+safari,716,1
+experiments,717,1
+fundamental,718,1
+mid,719,1
+scam,720,1
+industry,721,1
+protocol tor,722,1
+long,723,1
+wayironically,724,1
+pmmost,725,1
+supports,726,1
+operating,727,3
+free,728,1
+mix,729,1
+holes,730,2
+controller,731,1
+monitor users,732,1
+middle,733,1
+estimated percent,734,2
+people,735,8
+entry guards,736,1
+host hypervisor,737,1
+face,738,1
+servers flaw imagine tor,739,3
+operation,740,1
+open,741,4
+flaw imagine tor relays,742,3
+relays hidden services,743,3
+qemu,744,4
+numbers,745,1
+project,746,4
+access internet,747,1
+inside,748,2
+network anonymity,749,1
+mail servers,750,4
+technique attackers,751,1
+exit relays,752,4
+ability monitor,753,1
+wood,754,1
+bare,755,3
+clock source,756,1
+internet servers,757,1
+collection,758,1
+diffie hellman key exchange,759,3
+extends,760,1
+precomputed,761,2
+secured,762,1
+internet,763,16
+vulnerable connections,764,2
+installed,765,1
+reasons,766,1
+needed,767,6
+mass,768,1
+admin,769,2
+detect,770,3
+hosting providers,771,2
+traffic tor,772,1
+common,773,3
+interest,774,3
+linux,775,1
+activists,776,1
+place nodes,777,1
+servers system,778,2
+separated,779,1
+calculating,780,1
+gps machine,781,1
+ciphersuites,782,1
+layout,783,1
+connections documents,784,1
+jason,785,1
+formula,786,2
+comment,787,2
+step,788,2
+ocearbhaill,789,1
+addresses onion,790,1
+discovered users,791,1
+relays attack,792,1
+runa,793,1
+share sigaint,794,1
+trend,795,1
+reliably,796,1
+users traffic,797,1
+connection order,798,1
+compatible,799,1
+routinely,800,1
+bug venom,801,1
+network read,802,1
+system time,803,4
+randomize,804,2
+dependent,805,2
+web servers,806,2
+hansmann,807,1
+encrusted,808,3
+work,809,8
+linking,810,1
+operating systems,811,2
+keys crypto,812,1
+cloudflare,813,1
+large site,814,1
+assuming traffic,815,1
+public internet,816,1
+quote el presidente april,817,3
+services address,818,1
+time remote,819,2
+versions,820,3
+betrayed,821,1
+assuming ntp,822,1
+security biggest,823,1
+tor law,824,1
+scrappy,825,1
+foundation,826,1
+secret,827,1
+network encryption,828,1
+tor sites,829,2
+foreign,830,1
+reduces,831,2
+relays connection,832,1
+academy,833,1
+stub domains,834,2
+established,835,2
+include,836,1
+agency,837,4
+internet services,838,1
+facebook,839,1
+key hsdir,840,1
+nice,841,1
+environment separate,842,2
+lots,843,1
+filipo,844,1
+exists,845,1
+anonymous,846,1
+hs time,847,1
+runs,848,4
+layer protection,849,1
+specifics,850,1
+minios,851,1
+perfect,852,2
+prepared,853,2
+easier de,854,1
+control large,855,1
+eold,856,1
+space,857,1
+html,858,1
+service web,859,2
+connections attackers,860,1
+quotequbes,861,1
+resolves,862,1
+access machines,863,1
+machine access,864,1
+eavesdrops,865,1
+tor hidden service,866,5
+ill,867,2
+published,868,2
+service fbi,869,1
+public domain,870,1
+gain access,871,2
+specific day,872,1
+years email,873,1
+encryption software,874,2
+clouds,875,1
+machine high,876,1
+platform,877,1
+option attack,878,1
+network,879,15
+patch bug,880,1
+hsdir nodes,881,1
+specific internet,882,1
+operations,883,1
+paper,884,2
+public,885,4
+tor large,886,1
+emulation layer,887,1
+crowdstrike,888,1
+monitor exit,889,1
+top level,890,1
+operating system,891,1
+notified,892,1
+advantage,893,1
+bare metal,894,3
+resources,895,1
+exit entry,896,1
+patched years,897,1
+attacking,898,1
+expensive,899,1
+datacenters,900,2
+stolen,901,1
+virtualized,902,3
+tor patched,903,1
+comic,904,1
+tlsdate tor,905,1
+providers,906,3
+servers hypervisor,907,1
+year,908,5
+allowed,909,2
+ephemeral,910,3
+quote,911,17
+poor,912,1
+rely tor,913,1
+nodes order,914,1
+understanding,915,1
+standard virtual,916,1
+attacks vulnerable,917,1
+sites nap,918,1
+pool,919,1
+google,920,1
+diffie hellman,921,7
+packet,922,2
+community,923,1
+version,924,2
+ipv,925,1
+surveillance common,926,1
+selection,927,1
+tor asa,928,1
+guess,929,1
+guest,930,1
+rely qemu,931,1
+primes,932,2
+high level,933,1
+weeks,934,2
+relays,935,11
+services easy,936,1
+secure thousands,937,1
+real bug,938,1
+submarine,939,2
+catastrophic,940,1
+targeted,941,2
+cisco,942,1
+agreed,943,1
+secretly,944,1
+needed nodes,945,1
+website,946,5
+mitigate,947,2
+data needed attack,948,3
+lewman,949,1
+newer,950,1
+fast,951,1
+geffner,952,6
+severe,953,1
+calling,954,1
+correlation attacks,955,3
+exploit,956,5
+instructions,957,1
+controls,958,1
+isn,959,3
+official,960,1
+eavesdroppers,961,2
+attack nodes,962,1
+clock year,963,1
+crack high,964,1
+post,965,3
+layers,966,1
+stub,967,3
+internet protocol,968,1
+protocols,969,2
+isps,970,2
+companies bug,971,1
+add,972,3
+plate release,973,1
+wrote,974,2
+researcher tor,975,1
+control rendezvous,976,1
+gather,977,1
+network connected,978,1
+users,979,25
+article,980,1
+service control,981,1
+mechwarrior april,982,3
+nefarious,983,2
+connections users,984,1
+exchange,985,3
+security large,986,1
+trust,987,3
+moreto,988,1
+technical,989,2
+virtualized systems,990,1
+roles,991,1
+address problem,992,1
+directory,993,1
+hosting company,994,1
+vulnerable traffic,995,1
+prevent,996,1
+researchers brute,997,1
+site tor,998,1
+ive,999,1
+users specific,1000,1
+surveillance,1001,3
+bullet,1002,1
+fails,1003,1
+cipher,1004,2
+identify,1005,2
+drifting,1006,1
+pmand,1007,1
+attacker,1008,8
+agencies,1009,2
+servers users,1010,1
+special,1011,2
+modify,1012,1
+environment,1013,3
+hackerjon,1014,1
+visited,1015,2
+clone,1016,1
+achieved,1017,2
+facebooks,1018,1
+smaller,1019,1
+called,1020,5
+place biggest,1021,1
+shouldnt,1022,1
+told,1023,1
+project aware,1024,1
+configurations,1025,1
+release,1026,4
+exit traffic,1027,1
+ago,1028,3
+years,1029,4
+eavesdropping,1030,1
+newly,1031,1
+number,1032,2
+layer security,1033,2
+nap,1034,4
+manipulate,1035,1
+algorithm,1036,1
+ntp protocol,1037,1
+ixs,1038,2
+testing,1039,1
+thousands,1040,4
+hypervisor network,1041,1
+clocks,1042,3
+specific hidden,1043,1
+bad network,1044,1
+exit,1045,8
+system,1046,15
+pmrun,1047,1
+flawed,1048,1
+creators,1049,1
+login,1050,1
+local,1051,2
+remind,1052,1
+asked,1053,2
+encourage,1054,1
+era,1055,1
+time sources,1056,2
+system hidden,1057,2
+share,1058,3
+people rely,1059,1
+thought attacks,1060,1
+tor access,1061,1
+removed,1062,1
+nap tor,1063,1
+signing,1064,1
+synchronization random,1065,2
+infamous,1066,1
+heartbleed,1067,5
+connections key,1068,1
+nsa ability,1069,1
+points,1070,3
+keys logjam,1071,1
+implemented,1072,1
+links,1073,2
+buffer,1074,1
+ale,1075,1
+nasty,1076,2
+read,1077,5
+relays hidden services compromised,1078,3
+domains,1079,6
+positions,1080,2
+clock,1081,16
+real,1082,12
+tool,1083,2
+email bug,1084,1
+thousands websites,1085,1
+rob,1086,1
+system geffner,1087,1
+time servers,1088,1
+valsorda,1089,2
+hsdirs hidden,1090,2
+tors,1091,3
+attack bit,1092,1
+favour,1093,1
+running,1094,11
+weakness,1095,2
+today,1096,2
+boils,1097,1
+machines vulnerable,1098,1
+harder,1099,3
+errata,1100,1
+abroad,1101,1
+haven,1102,1
+tor connections,1103,2
+attack monitor,1104,1
+pmnow,1105,1
+deliberately,1106,1
+looked,1107,2
+transport,1108,1
+based tors,1109,2
+specific,1110,5
+biggest vulnerabilities,1111,1
+virtualized machines,1112,1
+geffner vulnerability,1113,1
+shew,1114,1
+analogy,1115,1
+rely nodes,1116,1
+encrypted,1117,3
+ephemeral diffie,1118,1
+users easier,1119,1
+accurate,1120,2
+thought,1121,5
+legend,1122,1
+hellman connections,1123,1
+services addresses,1124,1
+companies,1125,6
+locally,1126,1
+connected tor,1127,1
+facebookcorewwwi,1128,1
+break encryption,1129,1
+cheers,1130,2
+hosts,1131,3
+remain,1132,1
+patches,1133,2
+expected,1134,2
+backdoors,1135,1
+completed,1136,1
+countries,1137,1
+flaw biggest,1138,1
+monitoring,1139,2
+skews,1140,2
+jitter,1141,2
+wanted,1142,1
+ip address,1143,2
+patched,1144,4
+grade,1145,1
+thehackernews,1146,1
+rsa,1147,1
+exploitable,1148,1
+schneier,1149,1
+machines including,1150,1
+automatically,1151,2
+guarantee,1152,1
+hosts hosts,1153,1
+recommend,1154,1
+services option,1155,1
+increases,1156,1
+encryption,1157,10
+halderman,1158,2
+disabled,1159,1
+webserver,1160,2
+arm,1161,1
+popular,1162,2
+broken,1163,1
+ars,1164,2
+saidlucian,1165,1
+standard response,1166,2
+noticed,1167,1
+percent percent,1168,1
+asa,1169,4
+consensus,1170,2
+call,1171,1
+break millions,1172,1
+theyll,1173,1
+shit,1174,1
+othersits,1175,1
+sarcasm,1176,1
+encryptio,1177,1
+grab,1178,1
+supported,1179,1
+documents,1180,3
+reportedly,1181,1
+administration,1182,1
+developing,1183,1
+control connection,1184,1
+microsoft,1185,1
+vulnerable,1186,10
+jem,1187,2
+enforcement agency,1188,1
+imagine,1189,3
+attractive,1190,1
+town,1191,1
+overlay,1192,1
+researchers estimated,1193,2
+engineering,1194,1
+sync,1195,1
+worse,1196,1
+periodic task,1197,2
+longer,1198,2
+set nodes,1199,1
+parties,1200,3
+time hsdirs,1201,1
+worst,1202,1
+neighborhood,1203,1
+hidden,1204,36
+blogger,1205,1
+encryption keys,1206,1
+service select,1207,2
+clock sources,1208,1
+ava,1209,1
+corellate,1210,1
+conclusion,1211,1
+malicious,1212,2
+open source,1213,2
+defend,1214,1
+day researchers,1215,2
+statement,1216,3
+high hs,1217,2
+easier pull,1218,1
+supporting,1219,1
+boot,1220,1
+snowden,1221,1
+security security,1222,1
+news,1223,3
+fbi law,1224,1
+datacenter day,1225,1
+breaks,1226,1
+race,1227,1
+wan,1228,2
+services vulnerable,1229,2
+estimated,1230,4
+anonymizeits,1231,1
+hsdirs,1232,8
+aware high,1233,2
+suddenly,1234,1
+fedora,1235,1
+assuming,1236,4
+hype,1237,1
+mrnice,1238,2
+vulnerabilities,1239,4
+risk,1240,3
+window,1241,1
+servers systems,1242,1
+developers,1243,5
+rent,1244,1
+protection servers,1245,2
+issues,1246,3
+sources time,1247,1
+multiply operating,1248,1
+catch,1249,1
+tor relays hidden services,1250,3
+assuming host,1251,2
+greater,1252,2
+hs tor,1253,2
+case,1254,1
+generation,1255,1
+depends,1256,1
+flaw bug,1257,1
+clearnet,1258,1
+hidden services compromised,1259,3
+fbi,1260,3
+lowest,1261,1
+direct access,1262,1
+interest internet,1263,1
+hsdirs attack,1264,1
+phone,1265,1
+rely,1266,3
+control entry,1267,1
+detestable,1268,2
+didnt,1269,1
+top websites,1270,1
+nsa,1271,10
+card,1272,1
+tor instance,1273,4
+portion,1274,1
+guard,1275,1
+direct,1276,3
+access tor,1277,1
+enabled,1278,1
+gain,1279,3
+leaks,1280,1
+modern,1281,1
+web,1282,10
+criminals,1283,1
+older,1284,2
+protect,1285,1
+ip quote,1286,1
+architecture,1287,1
+sites snowdon,1288,1
+acronym,1289,1
+duped,1290,1
+ntp,1291,8
+great,1292,2
+wrong,1293,1
+onion address,1294,2
+hypervisors,1295,1
+diffie,1296,7
+traffic correlation,1297,2
+crypto people,1298,1
+shut,1299,1
+service protocol,1300,1
+simple,1301,2
+constantly,1302,1
+influence,1303,1
+cloud,1304,2
+intercepting,1305,1
+protocol,1306,5
+percentage,1307,1
+time based,1308,2
+hyper,1309,1
+thankfully,1310,1
+connections,1311,14
+negotiate,1312,3
+sources provide,1313,2
+kind,1314,1
+crafted,1315,1
+amsterdam,1316,1
+house house,1317,1
+transfer,1318,1
+quote real sigaint april,1319,4
+veteran,1320,1
+daily,1321,1
+tor developers,1322,2
+option,1323,5
+insert,1324,1
+patching,1325,1
+vulnerability estimated,1326,1
+quote real sigaint,1327,5
+vulnerabilities year,1328,1
+hellman key,1329,4
+flaw imagine tor,1330,3
+easy select,1331,1
+designed,1332,2
+real time,1333,1
+authentication,1334,1
+move,1335,2
+amount,1336,2
+disclosed,1337,1
+internet level,1338,1
+statement government,1339,1
+deviate,1340,1
+hsdirs day,1341,1
+increase,1342,2
+easy detect,1343,1
+differ,1344,6
+host isn,1345,2
+contained,1346,1
+nap client,1347,1
+rendezvous points,1348,2
+matters,1349,1
+trusted servers,1350,2
+work risk,1351,1
+headache,1352,1
+user,1353,2
+hellman negotiate,1354,1
+extent,1355,1
+stupid,1356,1
+bad,1357,5
+mind ntp,1358,2
+tlsdate,1359,3
+spokesperson,1360,2
+switches,1361,1
+day host,1362,1
+harder pull,1363,1
+offer,1364,2
+analyzing,1365,1
+addition,1366,1
+detect attack,1367,1
+online company,1368,1
+interest surveillance,1369,1
+real internet,1370,1
+attacks researchers,1371,1
+engineers,1372,1
+needed easy,1373,1
+machine virtualization,1374,1
+proxy,1375,2
+delay,1376,2
+software real,1377,1
+hidden website,1378,1
+shouod,1379,1
+drive,1380,1
+greatly,1381,1
+frank,1382,1
+deal,1383,1
+connections real,1384,1
+prove,1385,1
+scheme,1386,1
+takeover,1387,1
+affect,1388,1
+dead,1389,1
+manipulation traffic,1390,2
+isolate,1391,1
+communications,1392,1
+search,1393,1
+compromised post,1394,2
+systems,1395,6
+offered,1396,1
+national,1397,2
+customers,1398,2
+attainable,1399,2
+develops,1400,1
+domain direct,1401,1
+set,1402,3
+onions,1403,1
+pmlets,1404,1
+founder,1405,1
+backdoor system,1406,1
+food,1407,1
+relays perform,1408,1
+internet websites,1409,2
+wnt,1410,2
+interview,1411,1
+de,1412,4
+dh,1413,2
+attack users,1414,1
+versions tor,1415,1
+sites,1416,5
+thought day,1417,1
+attacks attacker,1418,2
+risk nsa,1419,1
+attacks,1420,12
+warning,1421,2
+ec,1422,1
+attack leaned,1423,1
+pull users,1424,1
+chrome,1425,1
+host secure,1426,1
+manipulation gain,1427,1
+el,1428,5
+suspicious,1429,1
+browsers,1430,1
+emulator,1431,1
+virtual machine,1432,4
+exploited,1433,2
+parts,1434,1
+debt,1435,1
+encryption key,1436,1
+publicised,1437,1
+key graham,1438,1
+identifying,1439,1
+visiting,1440,2
+sources,1441,3
+problem time,1442,2
+connections exit,1443,1
+explained,1444,1
+layered,1445,1
+domain encryption,1446,1
+random,1447,7
+deduce,1448,1
+client,1449,3
+diffident,1450,1
+undermined,1451,1
+drifty,1452,1
+address server,1453,1
+form,1454,1
+points tor,1455,1
+setup,1456,3
+farmer,1457,1
+service nodes,1458,1
+developer,1459,1
+avoid,1460,1
+subset,1461,1
+big,1462,2
+decade,1463,2
+expert,1464,1
+practice,1465,2
+select,1466,3
+website runs,1467,1
+multiply hs,1468,2
+provoking,1469,1
+hs,1470,7
+patched security,1471,1
+bit,1472,5
+attacks specific,1473,1
+upgraded,1474,1
+perform traffic,1475,2
+easily,1476,2
+majority,1477,1
+select guards,1478,1
+manipulation,1479,3
+guessing,1480,2
+server virtualized,1481,1
+vulnerable attack,1482,1
+advisory,1483,1
+large,1484,5
+issue,1485,1
+company aware,1486,1
+director,1487,1
+ip,1488,5
+metal,1489,3
+schemes,1490,1
+foolish,1491,1
+hellman keys,1492,1
+break virtual,1493,1
+percent project,1494,1
+logjam attacks,1495,1
+time attackers,1496,1
+intercept,1497,1
+nap plate,1498,2
+compromised,1499,5
+researchers working,1500,1
+ntp virtual,1501,1
+graham tor,1502,1
+tor keys,1503,1
+plate,1504,3
+eventually,1505,1
+emerged,1506,1
+thinking,1507,1
+stub domain,1508,1
+geffner company,1509,1
+network discovered,1510,1
+connected device,1511,1
+working developers,1512,1
+nodes called,1513,1
+openbsdquote,1514,1
+ability,1515,4
+law enforcement,1516,3
+blaster,1517,1
+implementations,1518,2
+payshldt,1519,1
+side,1520,1
+tor relays hidden,1521,3
+break,1522,6
+millions encrusted,1523,1
+change,1524,1
+kw,1525,1
+generally,1526,2
+hide,1527,2
+hacker gain,1528,1
+internet website,1529,1
+traffic interest,1530,1
+report,1531,1
+website hidden,1532,1
+subcontractor,1533,1
+powers,1534,1
+diffie hellman key,1535,3
+addresses users,1536,1
+qubes,1537,2
+pools,1538,1
+political,1539,1
+downgrade,1540,2
+stands,1541,1
+high,1542,4
+ecliptics,1543,1
+percent connections,1544,1
+administrators,1545,1
+add layer,1546,1
+metal servers flaw,1547,3
+servers running,1548,1
+level,1549,4
+ms,1550,2
+author,1551,1
+restrictions,1552,3
+preserve,1553,1
+attackers key,1554,1
+establish,1555,1
+chosen,1556,2
+entry,1557,4
+news service,1558,1
+disk,1559,2
+todaymost,1560,1
+attack perform,1561,1
+spy,1562,1
+running hidden,1563,1
+compromised work,1564,1
+code,1565,6
+legacy,1566,3
+generate keys,1567,1
+keys,1568,11
+careful,1569,2
+gps set,1570,1
+researcher bug,1571,1
+box,1572,1
+nodes based,1573,1
+security researcher,1574,1
+system clock,1575,2
+tor hidden services,1576,8
+suprised,1577,1
+pretty,1578,2
+chance,1579,3
+os,1580,2
+determine,1581,2
+social,1582,1
+wheel,1583,1
+years ago,1584,2
+interesting,1585,4
+emulation,1586,3
+top ntp,1587,1
+control,1588,6
+response share,1589,1
+declined,1590,2
+sigaint vulnerable,1591,1
+synchronization,1592,4
+easier,1593,3
+communicating,1594,1
+essentially,1595,1
+relays hidden,1596,3
+top web,1597,1
+parties logjam,1598,1
+architectures,1599,1
+imagine tor relays,1600,3
+threatening,1601,1
+ssh,1602,1
+users attack,1603,1
+sigaint users,1604,1
+extremely,1605,1
+hosting companies,1606,1
+overflows,1607,2
+engines,1608,1
+address host,1609,1
+reddit,1610,1
+brand,1611,1
+breaking,1612,1
+proposal,1613,1
+browsing,1614,1
+github,1615,1
+closely,1616,1
+theo,1617,1
+keys needed,1618,1
+remaining,1619,1
+extra traffic,1620,1
+glory,1621,1
+actors,1622,1
+node,1623,2
+requested,1624,1
+websites mail,1625,2
+device,1626,3
+discovered,1627,3
+access,1628,10
+conference,1629,2
+mail client,1630,1
+sum,1631,1
+serving,1632,2
+data needed,1633,3
+raadt,1634,1
+managed,1635,1
+hosts email,1636,1
+hsdir flag,1637,1
+george,1638,1
+export restrictions,1639,2
+email,1640,3
+key,1641,12
+surprised,1642,1
+silk,1643,1
+clock work,1644,1
+virtualization software,1645,2
+percent top,1646,2
+speculate,1647,1
+launch,1648,1
+sponsored,1649,1
+detect relays,1650,1
+people running,1651,1
+deanonymize,1652,1
+connected,1653,3
+single,1654,1
+pull,1655,3
+share virtualization,1656,1
+bug,1657,10
+hellman key exchange,1658,3
+anonymity internet,1659,1
+threatens,1660,1
+attacks tors,1661,1
+vast,1662,2
+bit differ,1663,2
+real ip,1664,1
+commercial,1665,1
+separate,1666,4
+buy,1667,1
+harder researchers,1668,1
+servers hidden,1669,2
+encrusted connections,1670,3
+trivial,1671,1
+network day,1672,1
+interesting read,1673,1
+control hsdirs,1674,1
+real machine,1675,1
+details,1676,2
+written,1677,2
+gps option,1678,2
+generate,1679,3
+bazaar,1680,1
+ensure,1681,1
+oracle,1682,2
+usual,1683,1
+legacy virtual,1684,1
+compromised hosting,1685,1
+servers support,1686,2
+web mail,1687,3
+points day,1688,1
+vm,1689,1
+vp,1690,1
+domains vulnerable,1691,1
+support,1692,3
+computer compromised,1693,1
+ecdhe,1694,2
+release virtualbox,1695,1
+records,1696,1
+idea,1697,1
+privacy,1698,1
+figured,1699,1
+logjam,1700,6
+lies,1701,1
+anonymity,1702,5
+pmas,1703,1
+mandated,1704,1
+pman,1705,1
+normal,1706,1
+cases,1707,1
+versions software,1708,1
+wide,1709,2
+regime,1710,1
+securing,1711,1
+reading,1712,1
+technology,1713,1
+internet users,1714,3
+weaken,1715,1
+estimated technique,1716,1
+specially,1717,1
+passing,1718,2
+services websites,1719,1
+compromise,1720,1
+advertise,1721,1
+generate data,1722,2
+clock host,1723,1
+software,1724,12
+held,1725,1
+type,1726,1
+april,1727,11
+hack,1728,1
+problem,1729,4
+venom,1730,5
+attack researchers,1731,1
+road,1732,1
+connection,1733,3
+asleep,1734,1
+proof,1735,1
+guide,1736,1
+systems patched,1737,1
+xen,1738,2
+researcher,1739,3
+goal,1740,1
+system risk,1741,1
+makers,1742,1
+contract,1743,1
+otr,1744,1
+susceptible,1745,1
+work set,1746,1
+exist,1747,2
+openssl,1748,1
+force,1749,2
+flag,1750,3
+periodic,1751,4
+tools,1752,1
+derive,1753,2
+weak,1754,2
+access dom,1755,1
+connections bit,1756,1
+entry exit,1757,1
+monitor connection,1758,1
+quote el,1759,5
+flaw,1760,8
+virtualbox,1761,3
+operators,1762,1
+continues,1763,1
+leap,1764,1
+place,1765,3
+company clock,1766,1
+regular,1767,1
+hidden service,1768,14
+running operating,1769,1
+bigger,1770,1
+lead,1771,1
+pmhow,1772,1
+ip setup,1773,2
+site,1774,5
+forcing,1775,2
+decrement,1776,2
+minimum,1777,1
+mathematical,1778,1
+magic,1779,1
+addresses,1780,3
+data,1781,11
+onion,1782,6
+firefox,1783,1
+people companies,1784,1
+begun,1785,1
+mitmed,1786,1
+hosted,1787,1
+condense,1788,1
+routes,1789,1
+router,1790,1
+exploit vulnerable,1791,1
+setups,1792,1
+security agency,1793,2
+create,1794,1
+blow,1795,1
+day vulnerability,1796,1
+curious,1797,2
+downgraded,1798,1
+crontab,1799,1
+pdus,1800,1
+codered,1801,1
+crypts,1802,1
+crypto,1803,4
+downgrades,1804,1
+addressed,1805,1
+machines hacker,1806,1
+person,1807,1
+techniques,1808,2
+network easier,1809,1
+servers called,1810,1
+enforce,1811,1
+files,1812,2
+send,1813,1
+hsdir analysis,1814,1
+supposedly,1815,1
+pmokay,1816,2
+attacks exploit,1817,1
+scale,1818,1
+graham,1819,4
+aware,1820,5
+imagine tor,1821,3
+security,1822,22
+computing,1823,1
+servers,1824,25
+companys,1825,1
+securely,1826,1
+hypervisor,1827,5
+el presidente april,1828,3
+carried,1829,1
+stories,1830,1
+cost,1831,1
+limited,1832,1
+allowing,1833,1
+technically,1834,2
+tuesday,1835,1
+nodes thing,1836,1
+response,1837,3
+hosting hidden,1838,1

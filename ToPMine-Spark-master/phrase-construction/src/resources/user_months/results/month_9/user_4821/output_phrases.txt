@@ -1,0 +1,61 @@
+Topic 0:
+  servers:6.05
+  change:4.58
+  set port:4.58
+  turn:4.58
+  socks:4.58
+  restart:4.58
+  click:4.58
+  connect:4.58
+  network:4.58
+  connect takes:4.58
+
+Topic 1:
+  april:7.95
+  quote:5.50
+  port standard port:4.50
+  tor tub runs:4.50
+  latest version:4.50
+  port electrum:4.50
+  tails:4.49
+  amyou:4.49
+  distribution linux version:4.49
+  inanna:4.49
+
+Topic 2:
+  coins:9.25
+  local bitcoins:7.15
+  password:5.91
+  btc:5.88
+  reading:5.35
+  messages:5.35
+  bounty:5.13
+  wash:4.58
+  allowed:4.58
+  poker:4.58
+
+Topic 3:
+  wallet:8.78
+  running time:6.24
+  wallet program:6.04
+  tor:4.53
+  electric:3.45
+  connect port:3.44
+  safe plate latest electrum:3.44
+  blockchain:3.43
+  version older versions features:3.43
+  tor browser bundle updated:3.43
+
+Topic 4:
+  work:10.81
+  tails fine routes:7.09
+  ckl obj gypcu onion:7.09
+  tor default security expert:7.09
+  connects pretty fast experience:7.09
+  port electrum set port:7.09
+  ip things fixed:4.62
+  afaik:4.62
+  long:4.62
+  oldisgold:4.62
+
+K: 5, Log-Likelihood: -5061.513, Alpha: 11.000, Beta: 1.100

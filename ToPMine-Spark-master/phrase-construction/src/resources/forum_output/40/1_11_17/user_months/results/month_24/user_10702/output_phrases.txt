@@ -1,0 +1,61 @@
+Topic 0:
+  clown:3.21
+  link:2.05
+  single:1.52
+  plenty:1.52
+  ripped:1.52
+  tumblers:1.52
+  unprofessional:1.52
+  talk:1.52
+  forums:1.52
+  dark:1.52
+
+Topic 1:
+  random:2.92
+  trustworthy:2.92
+  sites:1.70
+  source:1.70
+  shill:1.70
+  phishing:1.69
+  nym:1.69
+  services:1.29
+  service:1.29
+  hidden:1.29
+
+Topic 2:
+  heh:1.25
+  jamaiza:1.24
+  link:1.11
+  quote:1.01
+  august:0.99
+  pmis:0.80
+  anonamouse:0.80
+  boogie:0.79
+  afoolandhismoneywillsoonbeparted:0.72
+  bitmixer io tor:0.70
+
+Topic 3:
+  transactions:5.84
+  bitcoins:2.32
+  services provide:1.15
+  excellent:1.14
+  interest:1.13
+  blockchain:1.13
+  future:1.13
+  transaction:1.12
+  require:1.12
+  study:1.12
+
+Topic 4:
+  transactions:6.81
+  bitcoins:2.58
+  delays:1.30
+  bitcoin:1.30
+  donations:1.30
+  privacy:1.30
+  comprehensive:1.30
+  quality:1.30
+  exchanges:1.30
+  government:1.30
+
+K: 5, Log-Likelihood: -1592.153, Alpha: 11.000, Beta: 1.100

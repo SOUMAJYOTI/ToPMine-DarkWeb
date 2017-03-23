@@ -1,0 +1,61 @@
+Topic 0:
+  scripts:2.62
+  press:2.62
+  hope:1.22
+  including:1.22
+  flash disable:1.22
+  crossing:1.22
+  button:1.22
+  left:1.22
+  identity:1.22
+  reveal:1.22
+
+Topic 1:
+  break:1.62
+  disabling:1.62
+  correct:1.61
+  render:1.61
+  started:1.60
+  websites:1.60
+  tails:1.60
+  intolerable:1.59
+  noscript:1.59
+  bruuh:1.59
+
+Topic 2:
+  solution:1.63
+  phoenix:1.59
+  processes:1.36
+  attacks:1.36
+  plumbing:1.36
+  protects:1.36
+  thisive:1.36
+  november:1.36
+  separating:1.36
+  flashy:1.36
+
+Topic 3:
+  java:1.16
+  site:1.16
+  enabled dont:1.16
+  market:1.16
+  settings:1.16
+  enable:1.15
+  place:1.15
+  today:1.15
+  tor browser:1.15
+  disable javascript:1.15
+
+Topic 4:
+  javascript:4.02
+  tbb:3.10
+  flash silverlight:3.10
+  uri:3.10
+  window click:3.10
+  security:3.10
+  install:3.10
+  type:3.10
+  plugins:1.55
+  youll:1.50
+
+K: 5, Log-Likelihood: -1194.083, Alpha: 11.000, Beta: 1.100

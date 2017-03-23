@@ -1,0 +1,61 @@
+Topic 0:
+  threads:3.30
+  online:3.29
+  evilgrin:3.21
+  fine:2.79
+  login screen:2.72
+  start:2.20
+  good:2.20
+  hour:2.20
+  happened:2.20
+  capture:2.20
+
+Topic 1:
+  vendor:4.55
+  slow:4.05
+  vendor status:3.38
+  sticky:2.20
+  keno:2.20
+  word:2.20
+  profie:2.20
+  instructions:2.20
+  amhow:2.20
+  write:2.20
+
+Topic 2:
+  june:4.44
+  site:4.02
+  previous:3.67
+  returned:3.62
+  longest:3.41
+  talking:3.39
+  speedfreak:3.36
+  beforeim:3.36
+  days:3.36
+  pmits:3.34
+
+Topic 3:
+  color:4.61
+  system:4.61
+  running:3.49
+  forums:3.46
+  fully:3.39
+  maintenancered:2.26
+  green:2.26
+  seized:2.26
+  bare:2.26
+  announced:2.26
+
+Topic 4:
+  login:4.12
+  experienced:3.31
+  file error:3.28
+  hst:3.15
+  entry:2.17
+  confirm:2.17
+  showing:2.17
+  catch:2.17
+  attempts:2.17
+  fair:2.17
+
+K: 5, Log-Likelihood: -1890.450, Alpha: 11.000, Beta: 1.100

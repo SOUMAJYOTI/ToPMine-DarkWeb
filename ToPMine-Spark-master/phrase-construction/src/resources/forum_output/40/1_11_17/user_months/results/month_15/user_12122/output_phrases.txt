@@ -1,0 +1,61 @@
+Topic 0:
+  coin:0.53
+  markets:0.29
+  coins:0.28
+  price:0.28
+  contact:0.28
+  fully anon:0.23
+  cloakcoins:0.14
+  sign:0.14
+  develpoment:0.14
+  havent:0.14
+
+Topic 1:
+  coin:0.51
+  markets:0.29
+  contact:0.28
+  price:0.28
+  coins:0.28
+  fully anon:0.23
+  lol:0.14
+  reception:0.14
+  dont:0.14
+  bitcointalk:0.14
+
+Topic 2:
+  coin:0.52
+  markets:0.29
+  coins:0.28
+  price:0.28
+  contact:0.28
+  fully anon:0.23
+  transactions:0.14
+  quote:0.14
+  cloakcoins:0.14
+  wrong:0.14
+
+Topic 3:
+  coin:0.52
+  markets:0.29
+  price:0.28
+  contact:0.28
+  coins:0.28
+  fully anon:0.23
+  dont:0.14
+  flattering:0.14
+  bitcointalk:0.14
+  reception:0.14
+
+Topic 4:
+  coin:0.52
+  markets:0.29
+  contact:0.28
+  price:0.28
+  coins:0.28
+  fully anon:0.23
+  fall:0.14
+  hard:0.14
+  slow:0.14
+  jonnyenglish:0.14
+
+K: 5, Log-Likelihood: -198.639, Alpha: 11.000, Beta: 1.100

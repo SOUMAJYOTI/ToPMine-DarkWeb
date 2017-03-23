@@ -1,0 +1,61 @@
+Topic 0:
+  free:1.14
+  vendor:0.62
+  markets:0.62
+  list:0.60
+  alk:0.57
+  ing:0.41
+  registration:0.41
+  worth:0.41
+  interested:0.41
+  sticky:0.41
+
+Topic 1:
+  free:1.40
+  alk:0.62
+  list:0.59
+  markets:0.56
+  vendor:0.55
+  register:0.43
+  interested:0.37
+  registration:0.37
+  sticky:0.37
+  worth:0.37
+
+Topic 2:
+  free:1.12
+  vendor:0.65
+  list:0.64
+  markets:0.61
+  alk:0.52
+  sticky:0.43
+  worth:0.43
+  interested:0.43
+  ing:0.43
+  registration:0.43
+
+Topic 3:
+  free:1.10
+  alk:0.69
+  markets:0.61
+  list:0.59
+  vendor:0.59
+  worth:0.39
+  sticky:0.39
+  interested:0.39
+  registration:0.39
+  ing:0.39
+
+Topic 4:
+  free:1.24
+  alk:0.60
+  markets:0.60
+  list:0.59
+  vendor:0.58
+  ing:0.41
+  registration:0.40
+  interested:0.40
+  sticky:0.40
+  register:0.40
+
+K: 5, Log-Likelihood: -266.737, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:16.69
+  cold:6.97
+  coinbase:3.90
+  wallets:3.69
+  link:3.58
+  blockchain:3.46
+  dnm:3.40
+  analysis:2.92
+  coin:2.46
+  seed:2.31
+
+Topic 1:
+  coinbase:7.17
+  hops:3.68
+  wallet:2.90
+  mixer:2.74
+  wallets:2.66
+  worth:1.86
+  dont:1.70
+  dnm:1.50
+  local:1.31
+  coins:1.19
+
+Topic 2:
+  coinbase:2.83
+  people:2.70
+  complicated:2.46
+  expensive:2.43
+  lbc:1.98
+  mixer:1.77
+  convenience:1.74
+  time:1.74
+  buy:1.59
+  wallet:1.50
+
+Topic 3:
+  cold:5.73
+  hops:5.51
+  coinbase:5.03
+  multiply:4.82
+  wallet:4.43
+  hop:4.31
+  identity:4.03
+  tied:4.02
+  mixing:3.97
+  service:3.88
+
+Topic 4:
+  coinbase:4.07
+  coins:3.52
+  dnm:2.85
+  sending:2.83
+  directly:2.83
+  account:2.74
+  people:2.52
+  mixer:2.26
+  helix:2.20
+  ive:1.85
+
+K: 5, Log-Likelihood: -2424.656, Alpha: 11.000, Beta: 1.100

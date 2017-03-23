@@ -1,0 +1,61 @@
+Topic 0:
+  nucleus:31.75
+  security:21.36
+  accounts:21.16
+  onion:21.13
+  time:20.88
+  multisig:18.37
+  bond:16.83
+  allowed:14.99
+  key:14.78
+  flaws:14.17
+
+Topic 1:
+  sites:32.39
+  escrow:26.45
+  site:23.95
+  pretty:17.10
+  market:16.64
+  vendor:16.61
+  feedback:16.00
+  markets:15.00
+  dont:14.66
+  offer:13.93
+
+Topic 2:
+  link:24.57
+  address:19.46
+  pin:16.96
+  market:16.07
+  january:14.05
+  phishing:14.03
+  password:12.21
+  coins:9.93
+  isp:9.86
+  quote:9.77
+
+Topic 3:
+  market:34.94
+  wallet:20.69
+  key:19.49
+  buyer:18.76
+  keys:18.20
+  vendor:13.38
+  january:12.66
+  quote:10.34
+  address:10.17
+  private:10.06
+
+Topic 4:
+  drive:42.78
+  data:24.80
+  hard:19.61
+  windows:17.40
+  tor:15.55
+  vpn:14.32
+  wallet:12.91
+  bitcoins:11.26
+  pgp:10.40
+  read:9.43
+
+K: 5, Log-Likelihood: -38122.114, Alpha: 11.000, Beta: 1.100

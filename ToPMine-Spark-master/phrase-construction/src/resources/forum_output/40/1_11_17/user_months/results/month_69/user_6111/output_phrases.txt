@@ -1,0 +1,36 @@
+Topic 0:
+  top:0.00
+  grade:0.00
+  fire:0.00
+  buds:0.00
+  shelf:0.00
+
+Topic 1:
+  top:0.00
+  grade:0.00
+  fire:0.00
+  buds:0.00
+  shelf:0.00
+
+Topic 2:
+  top:0.00
+  grade:0.00
+  fire:0.00
+  buds:0.00
+  shelf:0.00
+
+Topic 3:
+  top:0.00
+  grade:0.00
+  fire:0.00
+  buds:0.00
+  shelf:0.00
+
+Topic 4:
+  top:0.00
+  grade:0.00
+  fire:0.00
+  buds:0.00
+  shelf:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

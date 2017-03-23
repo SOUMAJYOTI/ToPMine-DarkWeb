@@ -1,0 +1,61 @@
+Topic 0:
+  traffic:8.85
+  wifi:4.27
+  pentesting:4.14
+  computer:3.97
+  tools:3.97
+  ssl:3.25
+  time:3.08
+  tor:3.05
+  data:2.97
+  trace:2.97
+
+Topic 1:
+  ideas:3.93
+  find:3.00
+  untraceable:2.78
+  internet:2.75
+  bought:2.68
+  level:2.63
+  target:2.37
+  forums:2.21
+  high:2.16
+  connecting:2.03
+
+Topic 2:
+  antenna:5.64
+  identify:4.97
+  point:4.42
+  cell:3.97
+  high:3.92
+  miles:3.54
+  address:3.19
+  wifi:3.17
+  mac:3.03
+  real:2.98
+
+Topic 3:
+  wifi:8.82
+  ap:4.19
+  connected:3.85
+  people:3.76
+  nasty:3.36
+  shit:2.96
+  paranoid:2.96
+  twin:2.89
+  evil:2.89
+  days:2.71
+
+Topic 4:
+  carding:5.80
+  btc:2.72
+  miles:2.61
+  cash:2.47
+  networks:1.99
+  convert:1.92
+  steps:1.92
+  money:1.92
+  clearnet:1.92
+  card:1.83
+
+K: 5, Log-Likelihood: -5795.275, Alpha: 11.000, Beta: 1.100

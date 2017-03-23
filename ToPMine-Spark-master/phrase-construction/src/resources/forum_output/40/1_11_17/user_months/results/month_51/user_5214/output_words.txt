@@ -1,0 +1,61 @@
+Topic 0:
+  order:5.19
+  fine:1.84
+  time:1.70
+  start:1.58
+  address:1.37
+  amounts:1.36
+  good:1.36
+  orders:1.36
+  leaving:1.35
+  remember:1.35
+
+Topic 1:
+  send:5.54
+  blockchain:2.85
+  hope:2.24
+  love:1.69
+  contact:1.69
+  light:1.68
+  hd:1.68
+  sprinkle:1.68
+  support:1.68
+  deposit:1.68
+
+Topic 2:
+  order:2.52
+  fine:1.67
+  address:1.40
+  good:1.40
+  wallet:1.30
+  coins:1.10
+  start:1.10
+  time:1.00
+  service:0.98
+  waiting:0.89
+
+Topic 3:
+  vpn:7.26
+  wrong:3.71
+  tor:3.70
+  hide:2.73
+  wife:2.42
+  btc:2.40
+  paing:1.75
+  isp:1.75
+  logos:1.75
+  hereusing:1.75
+
+Topic 4:
+  coins:8.60
+  shared:7.75
+  wait:5.40
+  hrs:3.84
+  choose:3.84
+  normal:3.84
+  safe:2.88
+  long:2.52
+  hoping:2.08
+  option:2.07
+
+K: 5, Log-Likelihood: -1942.167, Alpha: 11.000, Beta: 1.100

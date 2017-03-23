@@ -1,0 +1,61 @@
+Topic 0:
+  network:11.38
+  size:10.88
+  remote:9.52
+  viewer:8.98
+  data:8.08
+  leaks:7.99
+  rate:7.59
+  server:7.33
+  constant:6.99
+  things:6.89
+
+Topic 1:
+  tor:30.40
+  traffic:26.83
+  vnc:11.73
+  attacks:8.75
+  numbers:8.02
+  amount:7.96
+  requests:7.93
+  linkability:7.79
+  data:7.70
+  network:7.64
+
+Topic 2:
+  tor:26.20
+  remote:23.44
+  server:20.74
+  case:16.74
+  isolation:11.04
+  interest:10.91
+  link:10.09
+  gun:7.99
+  correlation:7.67
+  local:7.63
+
+Topic 3:
+  dice:18.48
+  vm:9.28
+  browser:7.89
+  possessor:6.95
+  images:6.36
+  tor:5.86
+  attack:5.42
+  people:5.04
+  access:4.55
+  read:4.42
+
+Topic 4:
+  password:155.68
+  entropy:99.85
+  bits:65.86
+  word:51.92
+  passwords:51.49
+  character:30.91
+  hash:27.92
+  key:24.94
+  diceware:22.37
+  entry:18.03
+
+K: 5, Log-Likelihood: -33561.332, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  email:1.74
+  account:1.53
+  mp:1.36
+  problem:1.28
+  place:1.21
+  market:1.14
+  lost:1.06
+  details:0.91
+  signed:0.90
+  forumkey:0.56
+
+Topic 1:
+  password:3.62
+  backup:3.47
+  email:3.30
+  mp:2.84
+  paranoid:1.70
+  warranted:1.70
+  concern:1.70
+  forgotten:1.70
+  contact:1.70
+  expecting:1.70
+
+Topic 2:
+  bat:1.98
+  baseball:1.95
+  email account:1.75
+  default:1.44
+  tor:1.44
+  case:1.44
+  addyso:1.43
+  meant:1.43
+  happenedbut:1.43
+  email mp:1.42
+
+Topic 3:
+  key:3.82
+  forum:3.82
+  find:2.57
+  enter:2.53
+  profile:1.82
+  numbered:1.82
+  biily:1.82
+  permits:1.82
+  spammers:1.82
+  market:1.77
+
+Topic 4:
+  forumkey:1.41
+  lol:1.14
+  thread:1.14
+  complete:1.14
+  douche:1.14
+  shortly:1.13
+  feeling:1.13
+  making:1.13
+  seperate:0.90
+  buddy:0.89
+
+K: 5, Log-Likelihood: -988.346, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  fake:5.58
+  ids:2.32
+  real:2.10
+  dont:1.15
+  people:0.98
+  cooked:0.90
+  person:0.89
+  good:0.72
+  quality:0.70
+  february:0.67
+
+Topic 1:
+  ids:3.61
+  real:3.20
+  fake:2.23
+  person:1.28
+  pass:1.19
+  february:1.12
+  pulled:0.83
+  base:0.83
+  data:0.83
+  license:0.82
+
+Topic 2:
+  ids:3.63
+  vendor:2.83
+  operate:1.83
+  busting:1.83
+  vendors:1.73
+  fake:1.33
+  feds:1.16
+  top:0.85
+  mailed:0.85
+  role:0.85
+
+Topic 3:
+  fake:9.76
+  people:4.33
+  jail:3.87
+  threat:2.87
+  elses:2.22
+  real:1.93
+  realize:1.88
+  walk:1.88
+  drivers:1.88
+  empty:1.88
+
+Topic 4:
+  fake:5.11
+  ids:2.88
+  real:2.14
+  dont:1.18
+  person:1.05
+  people:0.88
+  pass:0.83
+  pictures:0.71
+  february:0.69
+  quality:0.65
+
+K: 5, Log-Likelihood: -1653.912, Alpha: 11.000, Beta: 1.100

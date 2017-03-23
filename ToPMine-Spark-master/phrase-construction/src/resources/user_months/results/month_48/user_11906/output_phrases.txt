@@ -1,0 +1,61 @@
+Topic 0:
+  didnt:6.37
+  private keys:5.85
+  scripts:4.25
+  easier:4.25
+  hidden service:4.25
+  ship operation:4.25
+  obvious:4.23
+  thief:4.23
+  lie:4.23
+  blackmailer:4.23
+
+Topic 1:
+  ad:5.12
+  quote:4.49
+  comment:4.24
+  respite:4.24
+  integrity:4.24
+  fact:4.17
+  beef business:4.06
+  thread:3.71
+  pallidpallas pmquote:3.43
+  dw:3.37
+
+Topic 2:
+  attack:11.50
+  system:10.68
+  server:10.56
+  rate limiting:8.54
+  started:7.05
+  sign:6.40
+  invite mode:6.40
+  users:6.40
+  site:5.48
+  market:4.52
+
+Topic 3:
+  personally:4.23
+  interested:4.23
+  reddit:4.18
+  based:3.43
+  petty:3.43
+  abilities:3.43
+  community:3.05
+  desired questions started making:2.66
+  simply offering provide community:2.66
+  personal attacks nice sanctuary:2.66
+
+Topic 4:
+  warn:4.25
+  guy:4.25
+  threats:4.21
+  scam:4.21
+  brags:4.21
+  check:4.20
+  hacks:3.02
+  black:2.11
+  provided:2.11
+  post:2.11
+
+K: 5, Log-Likelihood: -9752.706, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tx:1.90
+  transaction:1.23
+  buyer:1.00
+  number:0.87
+  generated:0.86
+  publicly:0.82
+  seller:0.82
+  main:0.60
+  visible:0.60
+  shop:0.59
+
+Topic 1:
+  tx:1.84
+  transaction:1.20
+  buyer:1.10
+  seller:0.90
+  publicly:0.90
+  generated:0.88
+  number:0.85
+  shop:0.62
+  visible:0.61
+  main:0.59
+
+Topic 2:
+  tx:1.62
+  transaction:1.26
+  buyer:0.97
+  number:0.76
+  publicly:0.74
+  seller:0.71
+  generated:0.71
+  visible:0.63
+  shop:0.59
+  choose:0.59
+
+Topic 3:
+  tx:1.80
+  transaction:1.22
+  buyer:1.05
+  generated:0.85
+  publicly:0.84
+  seller:0.83
+  number:0.82
+  main:0.63
+  shop:0.61
+  choose:0.60
+
+Topic 4:
+  tx:1.83
+  transaction:1.09
+  buyer:0.88
+  seller:0.74
+  number:0.70
+  generated:0.70
+  publicly:0.69
+  choose:0.65
+  shop:0.59
+  main:0.58
+
+K: 5, Log-Likelihood: -581.412, Alpha: 11.000, Beta: 1.100

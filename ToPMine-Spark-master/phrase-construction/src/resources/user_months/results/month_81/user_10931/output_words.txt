@@ -1,0 +1,61 @@
+Topic 0:
+  file:6.95
+  decrypt:2.26
+  encrypted:1.48
+  program:1.39
+  place:1.38
+  truecrypt:1.36
+  pgp:1.30
+  keys:0.81
+  stored:0.63
+  drive:0.62
+
+Topic 1:
+  keys:1.86
+  private:1.00
+  time:1.00
+  windows:0.63
+  manage:0.62
+  usb:0.54
+  truecrypt:0.48
+  gpg:0.45
+  key:0.44
+  tails:0.40
+
+Topic 2:
+  truecrypt:1.28
+  keys:1.01
+  usb:0.67
+  encrypted:0.61
+  windows:0.59
+  gpg:0.56
+  tails:0.54
+  pgp:0.50
+  stored:0.50
+  file:0.49
+
+Topic 3:
+  gpg:1.33
+  usb:1.08
+  truecrypt:0.97
+  thunderbird:0.79
+  inside:0.79
+  container:0.78
+  keys:0.70
+  windows:0.55
+  manage:0.53
+  tails:0.46
+
+Topic 4:
+  keys:1.62
+  truecrypt:0.91
+  windows:0.72
+  pgp:0.56
+  usb:0.54
+  gpg:0.49
+  encrypted:0.45
+  key:0.44
+  tails:0.44
+  manage:0.41
+
+K: 5, Log-Likelihood: -522.744, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tor:21.00
+  cover traffic:10.48
+  hidden services:9.85
+  security:9.39
+  hard:9.23
+  pretty:9.06
+  people:8.97
+  stuff:8.29
+  bundle default check updates:8.16
+  micah lee github automatically:8.06
+
+Topic 1:
+  bug:94.40
+  bug disable:27.97
+  tor browser:27.89
+  security slider:24.47
+  circuit:18.38
+  tor circuit:17.48
+  bug dont:17.48
+  users:14.53
+  windows bug:13.98
+  identity bug:13.98
+
+Topic 2:
+  free:12.78
+  software:12.32
+  beta version:10.46
+  worth:8.50
+  update:8.36
+  april:8.36
+  safer:8.35
+  stable regular:8.16
+  experiment:6.98
+  crazy:6.98
+
+Topic 3:
+  replace google search engines:10.86
+  bitcoin:9.70
+  quote sldk:8.33
+  extra relays:8.32
+  image hrs:8.32
+  link note hoster holds:8.32
+  listed onion button image:8.32
+  solves:6.98
+  bitin:6.98
+  april:6.52
+
+Topic 4:
+  truecrypt:13.51
+  phase ii audit:12.35
+  full report:12.35
+  replace bitcoins bitcoins forever:11.84
+  error:11.28
+  litecoin:10.47
+  pmquote:10.25
+  ltc worth start investing:10.25
+  amwhat crypts currency:10.25
+  bit bitcoin worth:10.25
+
+K: 5, Log-Likelihood: -42259.071, Alpha: 11.000, Beta: 1.100

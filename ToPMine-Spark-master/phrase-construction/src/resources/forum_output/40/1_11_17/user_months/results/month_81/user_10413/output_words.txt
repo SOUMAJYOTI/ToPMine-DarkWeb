@@ -1,0 +1,61 @@
+Topic 0:
+  forum:15.33
+  private:13.98
+  market:13.15
+  moved:7.34
+  onion:6.97
+  bmr:6.83
+  forums:6.26
+  drug:6.04
+  drugs:5.57
+  sr:5.53
+
+Topic 1:
+  ovdb:37.39
+  sr:36.60
+  shut:34.08
+  forum:22.87
+  labs:21.52
+  remember:19.42
+  time:17.67
+  sand:10.01
+  lineage:9.93
+  follow:9.74
+
+Topic 2:
+  ab:4.81
+  min:3.82
+  phishing:2.87
+  link:2.87
+  sale:2.78
+  money:2.51
+  fa:2.43
+  shit:1.94
+  st:1.94
+  account:1.94
+
+Topic 3:
+  sr:21.71
+  ovdb:15.06
+  shut:11.73
+  remember:10.11
+  time:10.05
+  february:7.02
+  quote:6.72
+  forum:6.67
+  oldest:4.65
+  forums:3.86
+
+Topic 4:
+  coins:9.67
+  march:6.77
+  btc:4.88
+  deposit:4.46
+  reason:4.26
+  market:4.19
+  people:4.06
+  shot:3.85
+  minimum:3.85
+  deposited:3.85
+
+K: 5, Log-Likelihood: -7344.308, Alpha: 11.000, Beta: 1.100

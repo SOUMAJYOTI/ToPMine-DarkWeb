@@ -1,0 +1,61 @@
+Topic 0:
+  ruler:14.55
+  people:9.94
+  good:9.92
+  tao heaven:9.49
+  tao sages:8.31
+  soft pliant:8.31
+  low:8.31
+  bold daring:8.31
+  substitute:8.31
+  daring ahead:8.31
+
+Topic 1:
+  small:13.59
+  easy:12.63
+  virtue:12.47
+  respect tao:8.31
+  themthus virtue:8.31
+  themthose:8.31
+  reverts:8.31
+  mouthshut:8.31
+  grasp:8.31
+  large country:8.31
+
+Topic 2:
+  nature:6.03
+  wellcall tetragram hard:5.33
+  explain write ill find:5.33
+  tao te ching:4.16
+  straight point:4.14
+  opening scripture:4.14
+  conveying:4.14
+  point:4.14
+  thoughts:4.14
+  form scripture:4.14
+
+Topic 3:
+  heaven earth:22.12
+  chapter:18.02
+  myriad things:15.69
+  knowing constancy:12.47
+  create:12.47
+  emptiness function:12.47
+  image:12.47
+  called:11.98
+  people:11.91
+  great:8.97
+
+Topic 4:
+  attained oneness:29.10
+  achieves result:24.94
+  myriad things:15.66
+  things:14.95
+  good:14.91
+  left:12.47
+  eternal virtue:12.47
+  tao appears:12.47
+  valley:12.47
+  lost:12.47
+
+K: 5, Log-Likelihood: -53723.173, Alpha: 11.000, Beta: 1.100

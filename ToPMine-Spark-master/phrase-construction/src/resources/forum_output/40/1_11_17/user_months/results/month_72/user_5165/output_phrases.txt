@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:0.51
+  thread:0.44
+  myname:0.43
+  february:0.41
+  emails:0.38
+  keys:0.33
+  markets:0.33
+  shit:0.33
+  led:0.33
+  incase:0.33
+
+Topic 1:
+  thread:0.50
+  february:0.48
+  vendors:0.47
+  myname:0.43
+  emails:0.36
+  email:0.34
+  key:0.33
+  markets didnt mattered email:0.33
+  transactions pgp:0.33
+  send:0.33
+
+Topic 2:
+  myname:0.72
+  february:0.65
+  thread:0.49
+  pmim:0.40
+  quote:0.40
+  nrxc:0.40
+  poor:0.40
+  hard:0.40
+  transactions pgp:0.39
+  markets didnt mattered email:0.39
+
+Topic 3:
+  thread:0.57
+  february:0.47
+  myname:0.46
+  vendors:0.45
+  emails:0.36
+  email:0.35
+  key:0.34
+  send:0.34
+  transactions pgp:0.33
+  markets didnt mattered email:0.33
+
+Topic 4:
+  february:0.53
+  thread:0.50
+  myname:0.47
+  vendors:0.44
+  quote:0.35
+  hard:0.35
+  pmim:0.35
+  poor:0.35
+  nrxc:0.35
+  bit frustrated username issue:0.35
+
+K: 5, Log-Likelihood: -453.529, Alpha: 11.000, Beta: 1.100

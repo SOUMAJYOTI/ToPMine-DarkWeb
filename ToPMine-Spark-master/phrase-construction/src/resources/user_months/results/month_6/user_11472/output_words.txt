@@ -1,0 +1,61 @@
+Topic 0:
+  pharma:0.60
+  seller:0.40
+  ukpharma:0.40
+  space:0.40
+  feedback:0.40
+  agora:0.40
+  omit:0.20
+  sr:0.20
+  allowing:0.20
+  beno:0.20
+
+Topic 1:
+  pharma:0.61
+  ukpharma:0.40
+  agora:0.40
+  seller:0.40
+  feedback:0.40
+  space:0.40
+  trusted:0.20
+  year:0.20
+  note:0.20
+  confusing:0.20
+
+Topic 2:
+  pharma:0.60
+  space:0.40
+  ukpharma:0.40
+  agora:0.40
+  feedback:0.40
+  seller:0.40
+  trusted:0.20
+  years:0.20
+  omit:0.20
+  buyers:0.20
+
+Topic 3:
+  pharma:0.60
+  feedback:0.41
+  space:0.40
+  seller:0.40
+  agora:0.40
+  ukpharma:0.40
+  vendor:0.20
+  potential:0.20
+  read:0.20
+  beno:0.20
+
+Topic 4:
+  pharma:0.60
+  agora:0.40
+  ukpharma:0.40
+  space:0.40
+  seller:0.40
+  feedback:0.40
+  bmr:0.20
+  spaces:0.20
+  buyers:0.20
+  names:0.20
+
+K: 5, Log-Likelihood: -109.829, Alpha: 11.000, Beta: 1.100

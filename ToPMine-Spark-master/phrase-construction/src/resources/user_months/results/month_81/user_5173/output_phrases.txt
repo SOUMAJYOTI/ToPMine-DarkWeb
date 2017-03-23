@@ -1,0 +1,61 @@
+Topic 0:
+  buy:0.16
+  sell:0.16
+  buyers:0.08
+  profile:0.08
+  concept:0.08
+  site:0.08
+  seller:0.08
+  purchase:0.08
+  money:0.08
+  don:0.08
+
+Topic 1:
+  buy:0.16
+  sell:0.16
+  market:0.08
+  trade:0.08
+  purchase:0.08
+  rate:0.08
+  treasures:0.08
+  sellers:0.08
+  finalize:0.08
+  instantly:0.08
+
+Topic 2:
+  sell:0.16
+  buy:0.16
+  party:0.08
+  communicate:0.08
+  referred:0.08
+  purchases:0.08
+  deepdotweb:0.08
+  money:0.08
+  don:0.08
+  rate:0.08
+
+Topic 3:
+  buy:0.16
+  sell:0.16
+  stuff:0.08
+  chka:0.08
+  review:0.08
+  purchases:0.08
+  sellers:0.08
+  don:0.08
+  finalize:0.08
+  rate:0.08
+
+Topic 4:
+  sell:0.16
+  buy:0.16
+  review:0.08
+  treasures:0.08
+  instantly:0.08
+  coordinates:0.08
+  communicate:0.08
+  market:0.08
+  stuff:0.08
+  sellers:0.08
+
+K: 5, Log-Likelihood: -40.546, Alpha: 11.000, Beta: 1.100

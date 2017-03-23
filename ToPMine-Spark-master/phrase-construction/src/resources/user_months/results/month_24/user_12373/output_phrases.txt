@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.67
+  kotiin:0.65
+  sen:0.62
+  idiot:0.29
+  kirppariluuria:0.29
+  ytetyn:0.29
+  tai:0.29
+  simmin:0.29
+  ulkopuolella:0.29
+  kirpparilta:0.29
+
+Topic 1:
+  nain:1.58
+  hyv:1.58
+  voi:1.58
+  ei:1.58
+  onko:1.57
+  clearwebinkin:0.69
+  maksaa:0.69
+  vai:0.69
+  omaan:0.69
+  kovassa:0.69
+
+Topic 2:
+  kotiin:0.30
+  mm:0.27
+  ysin:0.27
+  mail ei:0.27
+  tor:0.27
+  luotettava:0.27
+  postipalvelu:0.27
+  kannattaa:0.27
+  aina:0.27
+  darkwebiss:0.27
+
+Topic 3:
+  ja:0.68
+  sen:0.65
+  kotiin:0.62
+  ll:0.29
+  kirpparipuhelimen:0.29
+  isomman:0.29
+  vuodeksi:0.29
+  alkuunsa:0.29
+  kuprun:0.29
+  pay:0.29
+
+Topic 4:
+  kotiin:0.43
+  ja:0.39
+  sen:0.32
+  sit:0.26
+  toimiva:0.26
+  jota:0.26
+  ytt:0.26
+  lis:0.26
+  darkwebiss:0.26
+  lt:0.26
+
+K: 5, Log-Likelihood: -908.441, Alpha: 11.000, Beta: 1.100

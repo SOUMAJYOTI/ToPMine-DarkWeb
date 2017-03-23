@@ -1,0 +1,61 @@
+Topic 0:
+  darkcoin:0.40
+  simple:0.40
+  dashpay:0.40
+  wallets:0.39
+  online:0.39
+  iohas:0.39
+  exchanges:0.39
+  changed:0.39
+  people:0.35
+  dont:0.35
+
+Topic 1:
+  coins:0.50
+  bitcoin:0.49
+  mix:0.47
+  coinjoin:0.47
+  dont:0.41
+  people:0.41
+  darkcoin:0.39
+  accept:0.29
+  pile:0.28
+  massive:0.28
+
+Topic 2:
+  darkcoin:0.41
+  people:0.38
+  time:0.38
+  change:0.38
+  currencryies:0.38
+  mainstream:0.38
+  dont:0.38
+  support:0.38
+  long:0.38
+  crypto:0.37
+
+Topic 3:
+  coins:0.70
+  coinjoin:0.69
+  bitcoin:0.69
+  mix:0.67
+  dont:0.41
+  people:0.41
+  darkcoin:0.37
+  firelight:0.33
+  accepting:0.33
+  point:0.33
+
+Topic 4:
+  mix:1.09
+  coinjoin:1.08
+  bitcoin:1.07
+  coins:1.03
+  isnt:0.45
+  bitcoins:0.45
+  services:0.45
+  centralized:0.45
+  difference:0.45
+  tumblers:0.45
+
+K: 5, Log-Likelihood: -344.734, Alpha: 11.000, Beta: 1.100

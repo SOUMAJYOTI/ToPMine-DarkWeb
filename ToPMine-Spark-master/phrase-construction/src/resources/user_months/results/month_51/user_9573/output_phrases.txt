@@ -1,0 +1,61 @@
+Topic 0:
+  deposits withdraws:4.06
+  narrow:1.79
+  cost:1.79
+  days:1.79
+  info:1.78
+  low:1.78
+  takes:1.78
+  care:1.78
+  store:1.77
+  couple:1.77
+
+Topic 1:
+  advise:0.98
+  south:0.96
+  conversion:0.96
+  middle:0.96
+  east:0.95
+  researching:0.95
+  america:0.94
+  countries:0.94
+  type:0.93
+  southeast:0.93
+
+Topic 2:
+  storage:0.95
+  long:0.95
+  term:0.95
+  tremor:0.95
+  electrom:0.95
+  bitkey:0.95
+  devise:0.95
+  safe:0.95
+  cool:0.95
+  absolute:0.94
+
+Topic 3:
+  asia:0.86
+  rates:0.86
+  fdt:0.85
+  conversion:0.85
+  america:0.84
+  researching:0.84
+  countries:0.83
+  southeast:0.83
+  type:0.83
+  middle:0.82
+
+Topic 4:
+  good:3.47
+  idea:1.92
+  info wallet:1.91
+  hacks:1.91
+  wallet:1.90
+  download:1.90
+  vulnerable:1.90
+  install:1.90
+  standard:1.90
+  doesn:1.90
+
+K: 5, Log-Likelihood: -626.861, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  sit:2.31
+  kuin:1.52
+  ak:1.39
+  kenelt:1.12
+  joo:1.08
+  tuota:1.08
+  tarjonta:1.08
+  mietin:1.08
+  muilla:1.08
+  ostanut:1.08
+
+Topic 1:
+  varmasti:1.73
+  kaivoon:1.29
+  hogia:1.29
+  jotakin:1.29
+  ak olisi:1.29
+  hyv mutta:1.29
+  taas:1.29
+  jonka:1.29
+  kankkulan:1.29
+  itselt:1.29
+
+Topic 2:
+  euron:2.69
+  nain:2.69
+  jossain:2.69
+  myynniss:2.38
+  mutta:1.40
+  lajiketta:1.31
+  vakiomyyj:1.31
+  kalliimpaa:1.31
+  mielest:1.31
+  dimitrimanilla:1.31
+
+Topic 3:
+  satsia:2.69
+  kuin:1.96
+  oli:1.52
+  samaa:1.33
+  ekat:1.31
+  oli hyv:1.31
+  viikon:1.31
+  satsin:1.31
+  vajaa:1.31
+  tilattua:1.31
+
+Topic 4:
+  olleet:2.10
+  oval:2.09
+  ei:1.11
+  hyv:1.04
+  mit:0.98
+  jack:0.98
+  siis:0.96
+  eritt:0.96
+  puhdasta:0.96
+  mielenkiintoista:0.96
+
+K: 5, Log-Likelihood: -1650.416, Alpha: 11.000, Beta: 1.100

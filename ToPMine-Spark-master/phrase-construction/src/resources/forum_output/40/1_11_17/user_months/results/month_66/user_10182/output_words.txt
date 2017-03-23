@@ -1,0 +1,61 @@
+Topic 0:
+  cp:0.84
+  dhl:0.77
+  ago:0.76
+  bust:0.66
+  pressing:0.62
+  order:0.62
+  stealth:0.62
+  point:0.60
+  long:0.42
+  pill:0.42
+
+Topic 1:
+  ago:0.86
+  dhl:0.85
+  cp:0.80
+  order:0.59
+  stealth:0.58
+  point:0.57
+  pressing:0.56
+  bust:0.54
+  quote:0.41
+  january:0.41
+
+Topic 2:
+  ago:0.81
+  cp:0.79
+  dhl:0.76
+  bust:0.65
+  point:0.65
+  pressing:0.64
+  stealth:0.61
+  order:0.61
+  days:0.42
+  units:0.42
+
+Topic 3:
+  ago:0.77
+  dhl:0.76
+  cp:0.76
+  stealth:0.61
+  point:0.60
+  bust:0.59
+  order:0.59
+  pressing:0.58
+  post:0.46
+  stealthbomber:0.41
+
+Topic 4:
+  dhl:0.86
+  cp:0.81
+  ago:0.79
+  pressing:0.60
+  order:0.60
+  stealth:0.59
+  point:0.58
+  bust:0.57
+  quote:0.41
+  january:0.40
+
+K: 5, Log-Likelihood: -405.924, Alpha: 11.000, Beta: 1.100

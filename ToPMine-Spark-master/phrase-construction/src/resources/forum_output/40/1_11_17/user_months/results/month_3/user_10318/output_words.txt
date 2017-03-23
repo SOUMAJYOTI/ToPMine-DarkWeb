@@ -1,0 +1,61 @@
+Topic 0:
+  secure:5.03
+  wallet:3.70
+  wallets:3.36
+  paper:3.02
+  computer:2.86
+  internet:2.16
+  armory:2.14
+  store:1.86
+  private:1.71
+  spend:1.56
+
+Topic 1:
+  flash:5.44
+  coins:4.41
+  drive:3.23
+  quote:2.57
+  january:2.45
+  armory:2.12
+  option:1.84
+  alfred:1.48
+  figure:1.37
+  firgured:1.37
+
+Topic 2:
+  paper:7.41
+  spend:3.36
+  coins:2.69
+  safe:2.45
+  internet:2.28
+  transfer:1.95
+  waiting:1.93
+  store:1.90
+  secure:1.83
+  wallets:1.71
+
+Topic 3:
+  key:11.90
+  public:7.13
+  private:6.48
+  master:5.76
+  armory:4.20
+  client:2.58
+  big:2.44
+  electrum:2.06
+  advantages:1.80
+  attack:1.80
+
+Topic 4:
+  wallet:31.72
+  bitcoin:17.79
+  office:15.61
+  computer:14.61
+  storage:14.07
+  cold:13.85
+  wallets:12.17
+  online:7.91
+  private:6.13
+  keys:5.87
+
+K: 5, Log-Likelihood: -3495.695, Alpha: 11.000, Beta: 1.100

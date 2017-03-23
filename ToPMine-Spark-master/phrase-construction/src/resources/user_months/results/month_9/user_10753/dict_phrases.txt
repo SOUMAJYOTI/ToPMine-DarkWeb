@@ -1,0 +1,62 @@
+thu,0,1
+quick,1,1
+couple,2,1
+mail,3,1
+onion,4,2
+theyve,5,1
+advance,6,1
+doesnt,7,1
+setting,8,1
+suggests,9,1
+path,10,1
+muasocksport,11,1
+socksport default,12,1
+generate,13,1
+localhost,14,1
+isolatedestport,15,2
+work,16,1
+socks,17,2
+proxy,18,1
+tails,19,4
+port,20,6
+versions,21,1
+success,22,1
+guys,23,1
+socksport,24,3
+http,25,1
+assume,26,1
+works,27,2
+default port,28,1
+socksport tails,29,1
+weve,30,1
+applicationssocksport,31,1
+running,32,1
+default,33,4
+tor default,34,1
+servers,35,3
+port tails,36,1
+web,37,2
+tor,38,3
+polipo,39,1
+isolatedestaddr,40,3
+working,41,1
+client,42,1
+port electrum,43,1
+copy,44,1
+isolatedestaddr socksport,45,1
+torrc,46,1
+electrum,47,3
+stopped,48,1
+wallet,49,1
+question,50,2
+answered,51,1
+bandwidth,52,2
+electric,53,1
+browsersocksport,54,1
+specific,55,1
+vidalia,56,1
+confirm,57,1
+socksportsocksport,58,1
+site,59,1
+electrum tails,60,1
+applications,61,1

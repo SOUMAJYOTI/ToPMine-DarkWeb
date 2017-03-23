@@ -1,0 +1,61 @@
+Topic 0:
+  security:26.08
+  march:18.85
+  subgraph:17.86
+  tails:15.59
+  people:14.13
+  kmf:10.43
+  sounds:9.36
+  whonix:8.23
+  quote:6.91
+  wait:6.72
+
+Topic 1:
+  quantum:9.98
+  computer:7.73
+  atom:5.98
+  encryption:4.98
+  developed:4.68
+  number:3.98
+  mit:3.98
+  algorithm:3.98
+  computing:3.98
+  atoms:2.98
+
+Topic 2:
+  system:14.43
+  grsec:11.19
+  memory:9.98
+  rbac:8.74
+  learning:6.46
+  mode:5.26
+  bit:5.07
+  attacker:4.98
+  control:4.07
+  controls:3.98
+
+Topic 3:
+  contacts:4.95
+  quote:4.01
+  ricochet:3.95
+  os:3.48
+  steroids:3.43
+  march:3.21
+  address:3.00
+  tor:2.89
+  box:2.74
+  clearnet:2.72
+
+Topic 4:
+  tails:10.00
+  subgraph:9.59
+  pretty:6.10
+  whonix:5.62
+  edge:5.55
+  configuring:4.07
+  time:3.50
+  steroids:3.41
+  hardened:3.36
+  tor:3.22
+
+K: 5, Log-Likelihood: -8256.778, Alpha: 11.000, Beta: 1.100

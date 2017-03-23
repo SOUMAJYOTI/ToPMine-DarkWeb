@@ -1,0 +1,61 @@
+Topic 0:
+  pros:3.02
+  forums:2.97
+  markets:2.32
+  dont:1.71
+  smooth:1.67
+  live:1.62
+  coachella:1.61
+  security:1.49
+  attention:1.30
+  visibly:1.29
+
+Topic 1:
+  markets:2.26
+  good:2.07
+  evolution:1.76
+  quote:1.55
+  market:1.22
+  january:1.18
+  vendors:1.00
+  seller:0.92
+  smooth:0.92
+  link:0.89
+
+Topic 2:
+  markets:2.26
+  good:1.93
+  evolution:1.88
+  quote:1.45
+  market:1.26
+  january:1.09
+  escrow:1.06
+  seller:1.01
+  tcf:0.99
+  check:0.96
+
+Topic 3:
+  good:2.92
+  tcf:2.74
+  evolution:2.35
+  verto:2.32
+  quote:2.30
+  escrow:1.45
+  vendors:1.06
+  february:1.04
+  markets:1.04
+  point:0.91
+
+Topic 4:
+  listings:11.03
+  vacation:7.84
+  mode:7.67
+  time:5.89
+  february:4.11
+  click:3.73
+  sales:3.57
+  quote:3.54
+  vendor:3.40
+  set:2.90
+
+K: 5, Log-Likelihood: -1973.723, Alpha: 11.000, Beta: 1.100

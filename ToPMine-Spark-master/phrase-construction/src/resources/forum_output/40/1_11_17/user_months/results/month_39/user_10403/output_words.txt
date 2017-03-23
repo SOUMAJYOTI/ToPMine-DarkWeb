@@ -1,0 +1,61 @@
+Topic 0:
+  earth:3.99
+  middle:3.36
+  tor:3.01
+  safe:2.01
+  signature:1.96
+  post:1.93
+  markets:1.90
+  security:1.73
+  disabled:1.67
+  evo:1.65
+
+Topic 1:
+  middle:5.13
+  earth:4.91
+  tor:3.93
+  safe:3.54
+  signature:2.93
+  post:2.61
+  markets:2.43
+  pgp:2.24
+  evo:2.04
+  issue:2.01
+
+Topic 2:
+  middle:2.29
+  earth:2.15
+  tor:1.43
+  vie:1.32
+  cest:1.32
+  la:1.31
+  signature:1.25
+  post:1.22
+  pgp:1.22
+  markets:1.17
+
+Topic 3:
+  earth:5.65
+  middle:4.90
+  tor:3.71
+  signature:3.14
+  markets:2.80
+  post:2.77
+  safe:2.77
+  focused:2.12
+  pgp:2.09
+  site:1.97
+
+Topic 4:
+  middle:5.31
+  earth:4.30
+  tor:3.93
+  signature:3.72
+  safe:2.64
+  post:2.46
+  attack:2.18
+  network:1.90
+  disabled:1.90
+  site:1.88
+
+K: 5, Log-Likelihood: -3438.403, Alpha: 11.000, Beta: 1.100

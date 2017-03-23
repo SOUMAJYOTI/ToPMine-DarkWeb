@@ -1,0 +1,61 @@
+Topic 0:
+  pgp signature:0.32
+  message:0.30
+  keys:0.21
+  email address:0.21
+  net:0.18
+  order:0.18
+  types:0.18
+  find:0.18
+  sigs:0.18
+  field profile:0.18
+
+Topic 1:
+  pgp key link:2.69
+  import:2.69
+  sig:1.32
+  copying:1.31
+  doesnt:1.31
+  mine:1.31
+  importing:1.31
+  method:1.31
+  post keys:1.31
+  ill working:1.31
+
+Topic 2:
+  message:1.14
+  vendor:0.62
+  content:0.62
+  receive:0.62
+  block:0.61
+  original:0.61
+  option:0.61
+  message changed:0.61
+  pgp:0.61
+  verify:0.61
+
+Topic 3:
+  ends:1.07
+  starts:1.07
+  enter:1.07
+  field profile:1.07
+  sigs:1.07
+  find:1.07
+  types:1.07
+  order:1.07
+  net:1.06
+  email address:0.75
+
+Topic 4:
+  message:0.92
+  ic:0.52
+  edited:0.52
+  creation:0.52
+  sign:0.52
+  verify:0.52
+  pgp:0.52
+  original:0.52
+  option:0.52
+  block:0.52
+
+K: 5, Log-Likelihood: -1989.066, Alpha: 11.000, Beta: 1.100

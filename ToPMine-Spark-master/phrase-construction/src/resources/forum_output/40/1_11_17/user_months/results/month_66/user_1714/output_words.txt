@@ -1,0 +1,61 @@
+Topic 0:
+  customers:0.84
+  offer:0.42
+  time:0.42
+  forward:0.42
+  expire:0.41
+  order:0.41
+  kind:0.41
+  dear:0.39
+  dcs:0.39
+  alphabay:0.38
+
+Topic 1:
+  customers:0.77
+  alphabay:0.43
+  market:0.42
+  silkkitie:0.42
+  dcs:0.41
+  dear:0.41
+  offer:0.39
+  forward:0.38
+  kind:0.38
+  time:0.38
+
+Topic 2:
+  customers:0.86
+  expire:0.44
+  kind:0.44
+  order:0.44
+  forward:0.44
+  time:0.43
+  offer:0.43
+  dcs:0.39
+  dear:0.39
+  market:0.35
+
+Topic 3:
+  customers:0.71
+  silkkitie:0.49
+  market:0.47
+  alphabay:0.46
+  dear:0.42
+  dcs:0.41
+  forward:0.36
+  offer:0.36
+  kind:0.36
+  time:0.36
+
+Topic 4:
+  customers:0.82
+  order:0.41
+  expire:0.41
+  kind:0.41
+  time:0.41
+  offer:0.41
+  forward:0.41
+  dcs:0.40
+  dear:0.39
+  market:0.39
+
+K: 5, Log-Likelihood: -160.374, Alpha: 11.000, Beta: 1.100

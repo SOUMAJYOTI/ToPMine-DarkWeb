@@ -1,0 +1,61 @@
+Topic 0:
+  market:3.09
+  place:1.91
+  attacks:1.85
+  site:1.60
+  yeah:1.49
+  markets:1.44
+  time:0.93
+  prime:0.91
+  neutral:0.91
+  agra:0.91
+
+Topic 1:
+  agora:3.83
+  time:2.79
+  wife:1.56
+  quote:1.40
+  sucks:1.40
+  thread:1.17
+  girlfriend:1.06
+  dont:1.04
+  married:0.90
+  wifedown:0.86
+
+Topic 2:
+  love:7.05
+  time:5.42
+  agora:4.77
+  charmer:3.42
+  worry:3.23
+  enjoy:3.23
+  feeling:3.23
+  happy:3.23
+  excited:3.22
+  log:3.22
+
+Topic 3:
+  agora:3.16
+  time:2.12
+  quote:1.51
+  thread:1.49
+  wife:1.45
+  sucks:1.06
+  married:0.95
+  dont:0.91
+  girlfriend:0.87
+  opening:0.79
+
+Topic 4:
+  agora:3.96
+  time:2.74
+  wife:1.66
+  wifedown:1.53
+  sucks:1.25
+  quote:1.24
+  thread:1.05
+  hour:0.89
+  check:0.81
+  girlfriend:0.79
+
+K: 5, Log-Likelihood: -1664.718, Alpha: 11.000, Beta: 1.100

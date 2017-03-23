@@ -1,0 +1,61 @@
+Topic 0:
+  system:3.51
+  project:3.46
+  bundle:2.98
+  server:2.61
+  coming:2.58
+  point:2.54
+  encrusted:2.36
+  july:2.00
+  fellow:1.89
+  frills:1.73
+
+Topic 1:
+  browser:8.65
+  tor:6.15
+  proxy:2.94
+  javascript:2.94
+  user:2.79
+  agent:2.79
+  http:2.79
+  idea:2.71
+  work:2.28
+  fingerprint:1.94
+
+Topic 2:
+  good:2.63
+  attacker:2.51
+  attack:2.36
+  hotspots:2.25
+  resources:1.84
+  attacks:1.59
+  big:1.43
+  kind:1.41
+  point:1.16
+  software:1.09
+
+Topic 3:
+  man:5.62
+  google:3.88
+  middle:3.73
+  fellows:3.67
+  encounter:3.66
+  domain:3.66
+  good:3.65
+  antenna:3.64
+  wondered:3.64
+  attempts:3.64
+
+Topic 4:
+  good:2.82
+  kind:2.38
+  software:1.74
+  man:1.03
+  integrity:0.96
+  middle:0.87
+  point:0.86
+  hash:0.82
+  work:0.77
+  ip:0.75
+
+K: 5, Log-Likelihood: -3147.948, Alpha: 11.000, Beta: 1.100

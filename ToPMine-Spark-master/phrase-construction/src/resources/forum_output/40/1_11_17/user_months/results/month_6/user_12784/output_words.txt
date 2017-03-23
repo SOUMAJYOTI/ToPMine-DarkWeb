@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.49
+  coin:0.44
+  hey:0.39
+  great:0.39
+  advance:0.21
+  bb:0.21
+  checked:0.21
+  order:0.21
+  sig:0.21
+  today:0.21
+
+Topic 1:
+  market:0.65
+  great:0.40
+  hey:0.40
+  coin:0.38
+  bank:0.21
+  pandora:0.21
+  crap:0.21
+  vendors:0.21
+  black:0.21
+  amazing:0.21
+
+Topic 2:
+  market:0.52
+  coin:0.42
+  hey:0.40
+  great:0.39
+  supping:0.21
+  subs:0.21
+  info:0.21
+  signed:0.21
+  things:0.21
+  bb:0.21
+
+Topic 3:
+  market:0.67
+  great:0.41
+  hey:0.41
+  coin:0.38
+  pandora:0.21
+  black:0.21
+  crap:0.21
+  amazing:0.21
+  bank:0.21
+  vendors:0.21
+
+Topic 4:
+  market:0.67
+  great:0.41
+  hey:0.41
+  coin:0.38
+  vendors:0.21
+  amazing:0.21
+  black:0.21
+  bank:0.21
+  crap:0.21
+  pandora:0.21
+
+K: 5, Log-Likelihood: -145.281, Alpha: 11.000, Beta: 1.100

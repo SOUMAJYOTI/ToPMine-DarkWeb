@@ -1,0 +1,61 @@
+Topic 0:
+  onion:9.29
+  tails:8.72
+  address:8.56
+  sigaint:7.66
+  saved:4.90
+  april:3.98
+  persistent:3.91
+  storage:3.91
+  quote:3.78
+  find:3.31
+
+Topic 1:
+  tor:12.92
+  clock:9.97
+  time:5.01
+  real:4.22
+  hidden:3.97
+  ntp:3.97
+  ntpd:3.97
+  running:3.97
+  bad:3.68
+  year:3.62
+
+Topic 2:
+  china:5.48
+  smashing:4.62
+  sigaint:4.30
+  stacks:4.14
+  network:3.47
+  org:2.94
+  tactics:2.61
+  changed:2.60
+  bull:2.60
+  solid:2.60
+
+Topic 3:
+  typewriters:17.63
+  april:16.75
+  zaphod:8.93
+  ava:8.48
+  pmquote:6.60
+  machine:6.21
+  document:5.91
+  leaned:5.91
+  thatcher:5.91
+  leaks:5.91
+
+Topic 4:
+  quote:4.76
+  maggie:4.47
+  find:4.36
+  exit:4.28
+  messaging:2.86
+  providers:2.86
+  april:2.61
+  love:2.59
+  pops:2.50
+  frequent:2.40
+
+K: 5, Log-Likelihood: -5409.693, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tor:1.14
+  corner:0.68
+  feds coming:0.66
+  troll:0.50
+  porxy:0.44
+  local le:0.44
+  vendor:0.44
+  feds vpn:0.44
+  buying:0.44
+  alot:0.43
+
+Topic 1:
+  tor:1.78
+  corner:1.02
+  feds coming:1.00
+  hack:0.59
+  selling:0.59
+  bulk:0.59
+  years:0.59
+  people:0.59
+  reading:0.59
+  vpon:0.59
+
+Topic 2:
+  tor:0.83
+  feds coming:0.51
+  corner:0.50
+  troll:0.48
+  tails tor:0.46
+  pretty damn safe vpns:0.38
+  understanding tor tails:0.38
+  andyone wrong guy:0.38
+  porxy:0.36
+  shit:0.36
+
+Topic 3:
+  tails tor:1.00
+  security:0.78
+  precaussion:0.50
+  dont:0.49
+  hell:0.49
+  passed:0.49
+  guys:0.49
+  vpn:0.49
+  didnt:0.49
+  bad:0.49
+
+Topic 4:
+  tails tor:1.35
+  security:0.99
+  local:0.56
+  work:0.56
+  point:0.56
+  ppl:0.56
+  isnt:0.56
+  dont work:0.56
+  vpn:0.56
+  passed:0.56
+
+K: 5, Log-Likelihood: -623.585, Alpha: 11.000, Beta: 1.100

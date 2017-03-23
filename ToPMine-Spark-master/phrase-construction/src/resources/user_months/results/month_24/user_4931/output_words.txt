@@ -1,0 +1,61 @@
+Topic 0:
+  drugs:31.46
+  drug:26.51
+  people:25.28
+  tor:21.94
+  lsd:20.89
+  agora:18.87
+  sr:16.97
+  evo:15.09
+  traffic:14.44
+  markets:13.41
+
+Topic 1:
+  vendors:54.42
+  le:28.83
+  tmg:24.56
+  ag:19.42
+  vendor:17.95
+  root:15.71
+  good:13.48
+  shops:11.90
+  place:10.13
+  dropped:9.84
+
+Topic 2:
+  tor:24.69
+  find:17.51
+  safe:17.39
+  work:16.38
+  quote:13.38
+  time:10.88
+  blue:10.71
+  stay:10.39
+  dont:9.81
+  november:9.47
+
+Topic 3:
+  tor:15.92
+  le:11.37
+  vendors:10.96
+  shit:8.53
+  dont:7.69
+  don:7.65
+  account:7.40
+  stay:7.18
+  access:7.17
+  good:6.82
+
+Topic 4:
+  people:35.94
+  lsd:16.28
+  allot:11.89
+  bad:11.69
+  doubt:11.09
+  acid:10.60
+  love:10.10
+  led:9.68
+  good:9.42
+  type:8.96
+
+K: 5, Log-Likelihood: -36457.173, Alpha: 11.000, Beta: 1.100

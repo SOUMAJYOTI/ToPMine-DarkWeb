@@ -1,0 +1,61 @@
+Topic 0:
+  cocaine:0.20
+  criminals:0.20
+  lend:0.20
+  noses:0.20
+  markets:0.20
+  hubsters:0.20
+  agorians:0.20
+  vendor:0.20
+  agora:0.20
+  friends:0.20
+
+Topic 1:
+  offer:0.20
+  vendor:0.20
+  hubsters:0.20
+  customer:0.20
+  dark:0.20
+  unbearable:0.20
+  agora:0.20
+  markets:0.20
+  lend:0.20
+  cocaine:0.20
+
+Topic 2:
+  criminals:0.20
+  dark:0.20
+  agorians:0.20
+  customer:0.20
+  service:0.20
+  noses:0.20
+  friends:0.20
+  vendor:0.20
+  agora:0.20
+  lend:0.20
+
+Topic 3:
+  customer:0.20
+  service:0.20
+  friends:0.20
+  unbearable:0.20
+  agora:0.20
+  markets:0.20
+  lend:0.20
+  agorians:0.20
+  dark:0.20
+  criminals:0.20
+
+Topic 4:
+  service:0.20
+  offer:0.20
+  noses:0.20
+  friends:0.20
+  hubsters:0.20
+  vendor:0.20
+  dark:0.20
+  agorians:0.20
+  unbearable:0.20
+  agora:0.20
+
+K: 5, Log-Likelihood: -40.621, Alpha: 11.000, Beta: 1.100

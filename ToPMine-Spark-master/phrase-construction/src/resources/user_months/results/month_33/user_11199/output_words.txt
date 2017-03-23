@@ -1,0 +1,61 @@
+Topic 0:
+  site:0.63
+  fake:0.61
+  bother:0.40
+  blow:0.40
+  account:0.40
+  dont:0.40
+  good:0.40
+  accounts:0.40
+  socks:0.20
+  day:0.20
+
+Topic 1:
+  fake:0.61
+  site:0.60
+  good:0.41
+  blow:0.40
+  accounts:0.40
+  bother:0.40
+  dont:0.40
+  account:0.40
+  trading:0.20
+  buy:0.20
+
+Topic 2:
+  fake:0.61
+  site:0.58
+  dont:0.40
+  good:0.40
+  account:0.40
+  bother:0.40
+  accounts:0.40
+  blow:0.40
+  error:0.20
+  coinmama:0.20
+
+Topic 3:
+  site:0.61
+  fake:0.60
+  blow:0.40
+  accounts:0.40
+  good:0.40
+  bother:0.40
+  dont:0.40
+  account:0.40
+  numbers:0.20
+  ship:0.20
+
+Topic 4:
+  site:0.58
+  fake:0.57
+  account:0.41
+  accounts:0.40
+  blow:0.40
+  dont:0.40
+  bother:0.40
+  good:0.40
+  cc:0.20
+  drivers:0.20
+
+K: 5, Log-Likelihood: -272.295, Alpha: 11.000, Beta: 1.100

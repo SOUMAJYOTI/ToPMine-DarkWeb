@@ -1,0 +1,14 @@
+bottom,0,1
+scroll,1,1
+thread,2,2
+delete,3,1
+click,4,1
+remove,5,1
+wrong,6,1
+left,7,1
+didnt,8,1
+create,9,1
+topic,10,1
+place,11,1
+pm,12,1
+highly,13,1

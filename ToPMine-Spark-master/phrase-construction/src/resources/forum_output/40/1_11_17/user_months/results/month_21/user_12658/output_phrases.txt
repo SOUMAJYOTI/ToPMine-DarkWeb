@@ -1,0 +1,56 @@
+Topic 0:
+  tiimi:0.00
+  toistaiseksi:0.00
+  vahvistavaa:0.00
+  ei:0.00
+  voimassa:0.00
+  tarvitisi:0.00
+  lis:0.00
+  en:0.00
+  vertaedit:0.00
+
+Topic 1:
+  tiimi:0.00
+  toistaiseksi:0.00
+  vahvistavaa:0.00
+  ei:0.00
+  voimassa:0.00
+  tarvitisi:0.00
+  lis:0.00
+  en:0.00
+  vertaedit:0.00
+
+Topic 2:
+  tiimi:0.00
+  toistaiseksi:0.00
+  vahvistavaa:0.00
+  ei:0.00
+  voimassa:0.00
+  tarvitisi:0.00
+  lis:0.00
+  en:0.00
+  vertaedit:0.00
+
+Topic 3:
+  tiimi:0.00
+  toistaiseksi:0.00
+  vahvistavaa:0.00
+  ei:0.00
+  voimassa:0.00
+  tarvitisi:0.00
+  lis:0.00
+  en:0.00
+  vertaedit:0.00
+
+Topic 4:
+  tiimi:0.00
+  toistaiseksi:0.00
+  vahvistavaa:0.00
+  ei:0.00
+  voimassa:0.00
+  tarvitisi:0.00
+  lis:0.00
+  en:0.00
+  vertaedit:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

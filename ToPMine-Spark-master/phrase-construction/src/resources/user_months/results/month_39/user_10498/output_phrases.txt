@@ -1,0 +1,61 @@
+Topic 0:
+  dont:0.16
+  download:0.16
+  displayed:0.16
+  error:0.16
+  tor:0.08
+  weird:0.08
+  downloadapplication:0.08
+  clicking:0.08
+  today:0.08
+  ideas:0.08
+
+Topic 1:
+  error:0.16
+  dont:0.16
+  download:0.16
+  displayed:0.16
+  url:0.08
+  mp:0.08
+  meassage:0.08
+  wouldn:0.08
+  timor:0.08
+  agra:0.08
+
+Topic 2:
+  error:0.16
+  download:0.16
+  displayed:0.16
+  dont:0.16
+  website:0.08
+  wood:0.08
+  admins:0.08
+  thoughts:0.08
+  pathfinder:0.08
+  pretty:0.08
+
+Topic 3:
+  displayed:0.16
+  dont:0.16
+  download:0.16
+  error:0.16
+  story:0.08
+  display:0.08
+  streaming:0.08
+  continue:0.08
+  phone:0.08
+  ideas:0.08
+
+Topic 4:
+  error:0.16
+  dont:0.16
+  download:0.16
+  displayed:0.16
+  wouldn:0.08
+  find:0.08
+  reasons:0.08
+  wood:0.08
+  thoughts:0.08
+  obvious:0.08
+
+K: 5, Log-Likelihood: -77.884, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ab:1.98
+  markets:1.65
+  scam:1.49
+  market:1.23
+  mods:0.76
+  lost:0.74
+  uneasy:0.58
+  wondering:0.58
+  north:0.58
+  making:0.58
+
+Topic 1:
+  ab:1.47
+  markets:1.05
+  scam:1.02
+  mods:0.90
+  market:0.86
+  link:0.74
+  direct:0.73
+  scammed:0.73
+  gettin:0.73
+  waiting:0.73
+
+Topic 2:
+  good:3.51
+  order:3.33
+  vendors:1.59
+  agra:1.59
+  thing:1.58
+  isnt:1.58
+  nucleus:1.58
+  working:1.58
+  change:1.58
+  login:1.58
+
+Topic 3:
+  money:5.22
+  vendor:5.20
+  markets:4.88
+  people:3.38
+  directly:3.35
+  market:2.67
+  day:1.47
+  long:1.47
+  easier:1.47
+  trust:1.47
+
+Topic 4:
+  order:1.74
+  mods:1.14
+  carders:0.78
+  steal:0.78
+  thieves:0.78
+  invitation:0.78
+  correct:0.77
+  coins:0.76
+  deposits:0.74
+  sinking:0.74
+
+K: 5, Log-Likelihood: -1053.992, Alpha: 11.000, Beta: 1.100

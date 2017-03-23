@@ -1,0 +1,61 @@
+Topic 0:
+  website:0.41
+  web:0.20
+  hey:0.20
+  dealer:0.20
+  option:0.20
+  deep:0.20
+  find:0.20
+  herd:0.20
+  absolute:0.20
+  pretty:0.20
+
+Topic 1:
+  website:0.40
+  noob:0.20
+  web:0.20
+  dealer:0.20
+  option:0.20
+  pretty:0.20
+  acid:0.20
+  awhile:0.20
+  hey:0.20
+  absolute:0.20
+
+Topic 2:
+  website:0.41
+  find:0.20
+  deep:0.20
+  hey:0.20
+  absolute:0.20
+  herd:0.20
+  awhile:0.20
+  web:0.20
+  acid:0.20
+  option:0.20
+
+Topic 3:
+  website:0.41
+  noob:0.20
+  awhile:0.20
+  pretty:0.20
+  absolute:0.20
+  acid:0.20
+  herd:0.20
+  deep:0.20
+  find:0.20
+  option:0.20
+
+Topic 4:
+  website:0.41
+  herd:0.20
+  hey:0.20
+  dealer:0.20
+  find:0.20
+  option:0.20
+  web:0.20
+  acid:0.20
+  deep:0.20
+  noob:0.20
+
+K: 5, Log-Likelihood: -92.154, Alpha: 11.000, Beta: 1.100

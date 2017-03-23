@@ -1,0 +1,61 @@
+Topic 0:
+  price:0.16
+  grams:0.08
+  durban:0.08
+  dealing:0.08
+  chips:0.08
+  equally:0.08
+  prices:0.08
+  vending:0.08
+  poison:0.08
+  ridiculous:0.08
+
+Topic 1:
+  price:0.16
+  bump:0.08
+  swazi:0.08
+  royal:0.08
+  vending:0.08
+  check:0.08
+  packs:0.08
+  ridiculous:0.08
+  regular:0.08
+  prices:0.08
+
+Topic 2:
+  price:0.16
+  equally:0.08
+  dream:0.08
+  vending:0.08
+  cheap:0.08
+  packs:0.08
+  chips:0.08
+  markets:0.08
+  royal:0.08
+  info:0.08
+
+Topic 3:
+  price:0.16
+  valhalla:0.08
+  dealing:0.08
+  market:0.08
+  poison:0.08
+  regular:0.08
+  markets:0.08
+  prices:0.08
+  cheap:0.08
+  grams:0.08
+
+Topic 4:
+  price:0.16
+  market:0.08
+  check:0.08
+  ridiculous:0.08
+  durban:0.08
+  valhalla:0.08
+  poison:0.08
+  cheap:0.08
+  info:0.08
+  chips:0.08
+
+K: 5, Log-Likelihood: -28.714, Alpha: 11.000, Beta: 1.100

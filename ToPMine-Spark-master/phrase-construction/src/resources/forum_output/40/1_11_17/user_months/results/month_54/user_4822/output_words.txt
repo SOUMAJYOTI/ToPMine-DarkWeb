@@ -1,0 +1,61 @@
+Topic 0:
+  key:0.74
+  pgp:0.65
+  click:0.52
+  tails:0.44
+  applet:0.43
+  issues:0.42
+  keys:0.40
+  encrypt:0.36
+  message:0.36
+  select:0.36
+
+Topic 1:
+  pgp:0.82
+  key:0.65
+  issues:0.51
+  applet:0.51
+  tails:0.51
+  click:0.40
+  keys:0.39
+  message:0.30
+  select:0.30
+  encrypt:0.29
+
+Topic 2:
+  key:0.72
+  pgp:0.68
+  click:0.47
+  applet:0.45
+  issues:0.45
+  tails:0.44
+  keys:0.40
+  select:0.34
+  message:0.34
+  encrypt:0.34
+
+Topic 3:
+  key:0.89
+  click:0.78
+  message:0.49
+  select:0.49
+  encrypt:0.49
+  pgp:0.44
+  keys:0.40
+  issues:0.32
+  tails:0.32
+  applet:0.32
+
+Topic 4:
+  key:1.00
+  click:0.83
+  encrypt:0.51
+  select:0.51
+  message:0.51
+  pgp:0.41
+  keys:0.40
+  issues:0.29
+  applet:0.29
+  tails:0.29
+
+K: 5, Log-Likelihood: -208.574, Alpha: 11.000, Beta: 1.100

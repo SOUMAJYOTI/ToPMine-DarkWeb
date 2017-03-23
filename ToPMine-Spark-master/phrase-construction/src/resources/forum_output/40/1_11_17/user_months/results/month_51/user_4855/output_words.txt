@@ -1,0 +1,61 @@
+Topic 0:
+  tails:24.29
+  drive:23.22
+  key:19.73
+  files:17.40
+  file:16.44
+  computer:16.03
+  box:15.65
+  virtual:14.37
+  pgp:13.40
+  system:12.60
+
+Topic 1:
+  tor:100.53
+  vpn:71.94
+  node:25.97
+  address:21.05
+  exit:18.82
+  data:15.75
+  users:15.73
+  connect:14.86
+  internet:12.38
+  ip:12.23
+
+Topic 2:
+  key:43.67
+  click:15.90
+  public:14.20
+  keys:11.64
+  personal:10.83
+  private:10.77
+  drive:8.76
+  file:8.31
+  tails:8.28
+  pgp:7.41
+
+Topic 3:
+  lawyer:14.97
+  javascript:14.76
+  data:11.03
+  feds:9.49
+  tails:9.08
+  online:8.55
+  time:8.01
+  called:7.50
+  mistakes:6.10
+  idea:6.09
+
+Topic 4:
+  online:18.70
+  cookies:10.52
+  things:9.56
+  feds:9.18
+  road:9.05
+  silk:9.04
+  people:9.04
+  years:8.63
+  ross:7.84
+  forum:7.21
+
+K: 5, Log-Likelihood: -29029.630, Alpha: 11.000, Beta: 1.100

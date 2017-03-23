@@ -1,0 +1,61 @@
+Topic 0:
+  ja:2.14
+  mik:2.14
+  yt:1.53
+  vessa:1.53
+  meinaat:1.53
+  polvin:1.53
+  pimein:1.53
+  tikulle:1.53
+  tosissaa:1.53
+  rjestelm:1.53
+
+Topic 1:
+  pgp:2.45
+  mut:2.36
+  vaan:1.88
+  tarvii:1.71
+  voisko:1.53
+  mites:1.53
+  aivokapasiteetti:1.53
+  saa:1.53
+  ohjeet:1.53
+  helpot:1.53
+
+Topic 2:
+  avain:4.76
+  ytt:3.78
+  vain:3.15
+  st:3.15
+  itse:3.15
+  pgp:2.23
+  paljon:2.11
+  ja:1.72
+  ilyt:1.54
+  son:1.54
+
+Topic 3:
+  oon:3.13
+  joku:2.61
+  kattonu:1.52
+  dorka:1.52
+  lion:1.52
+  kin:1.52
+  lukee:1.52
+  tapa:1.52
+  suht:1.52
+  osoitteita:1.52
+
+Topic 4:
+  nain:2.54
+  se:2.22
+  turvallisuuden:1.51
+  sinua:1.51
+  ep:1.51
+  siin:1.51
+  enemp:1.51
+  voi:1.51
+  ostajien:1.51
+  ent:1.51
+
+K: 5, Log-Likelihood: -1688.442, Alpha: 11.000, Beta: 1.100

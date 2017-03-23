@@ -1,0 +1,61 @@
+Topic 0:
+  easy:4.63
+  feds didnt ahand coins:3.29
+  pay coins stolen suprise:3.29
+  withdraw:3.25
+  appears:2.28
+  profit:2.28
+  shit:2.28
+  luck:2.28
+  happen:2.28
+  profits:2.28
+
+Topic 1:
+  bank:4.64
+  pay:4.64
+  tax:3.66
+  care:3.66
+  service:3.66
+  providing:3.65
+  aduty:3.65
+  failed:3.65
+  reimbursement:3.65
+  business:3.65
+
+Topic 2:
+  blackstar february:4.64
+  heard:4.63
+  stolen mtgox told:4.63
+  amyea man legal:4.63
+  gox read btc:4.63
+  recouse implemented lean pay:4.48
+  didnt ahand coins:4.47
+  coins stolen suprise feds:4.46
+  missing wallets sitting bad:4.21
+  feds btc genuinely involved:4.20
+
+Topic 3:
+  email:5.68
+  today:4.65
+  mt gox:3.74
+  wallet:2.37
+  real:2.30
+  mark:2.30
+  attached:2.30
+  papers:2.30
+  dear:2.30
+  money:2.30
+
+Topic 4:
+  security:4.62
+  dont:4.06
+  exchange:3.79
+  market:3.74
+  sr:3.68
+  online:3.52
+  dollars:3.44
+  start:3.43
+  guys:3.42
+  bitin:3.42
+
+K: 5, Log-Likelihood: -2580.690, Alpha: 11.000, Beta: 1.100

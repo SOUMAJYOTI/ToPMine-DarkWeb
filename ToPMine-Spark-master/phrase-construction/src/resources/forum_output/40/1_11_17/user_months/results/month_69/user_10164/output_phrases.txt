@@ -1,0 +1,61 @@
+Topic 0:
+  spam:3.18
+  bad:2.98
+  btc:2.73
+  guy:2.29
+  things:1.97
+  effects:1.97
+  reasonable:1.97
+  scientific opinions:1.97
+  serioustripping:1.97
+  turned:1.97
+
+Topic 1:
+  people:3.34
+  problem:2.89
+  forum:2.69
+  spammers:2.21
+  dont:2.12
+  base:2.01
+  exchange:2.01
+  advices:2.01
+  free place:2.01
+  equal:2.01
+
+Topic 2:
+  advertising:4.11
+  rules:4.11
+  tmg:2.27
+  censorship:2.26
+  outlining:2.03
+  substances:2.03
+  spamming:2.03
+  speech:2.03
+  posting:2.03
+  chill:2.03
+
+Topic 3:
+  book:4.10
+  walk:4.10
+  quote:4.10
+  read:4.10
+  community:4.10
+  responsibility:4.10
+  george orwell:3.71
+  people:3.23
+  forbidden:2.33
+  don:2.02
+
+Topic 4:
+  forbidden:3.21
+  experiences:3.01
+  community regardsstevemba:1.98
+  future:1.96
+  disputing:1.96
+  followyour:1.96
+  rare:1.96
+  ill:1.96
+  share:1.96
+  spending:1.96
+
+K: 5, Log-Likelihood: -2603.250, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  passphrase:58.44
+  word passphrase:25.73
+  word list:21.30
+  passphrases:20.41
+  word:18.38
+  bits entropy:18.38
+  trillion guesses:18.38
+  phrase:17.53
+  word diceware passphrase:16.85
+  private key:14.89
+
+Topic 1:
+  zaphod:21.76
+  records:18.38
+  brute force:18.37
+  silk road:16.95
+  security:15.78
+  quote zaphod june:14.82
+  quote:14.43
+  threat:13.07
+  release:13.00
+  time:12.96
+
+Topic 2:
+  law enforcement:41.37
+  base station:36.05
+  location:32.78
+  tower dumps:29.41
+  target:25.73
+  cellar phones:25.73
+  call:20.78
+  law enforcement agencies:20.10
+  telephone company:18.38
+  pen register trap trace:18.38
+
+Topic 3:
+  software:55.69
+  rogue software:47.79
+  athens affair:29.41
+  code:22.92
+  wiretaps:22.06
+  vodafone greece:22.06
+  prime minister:20.40
+  greek:20.40
+  law enforcement:19.20
+  data:18.57
+
+Topic 4:
+  spy agencies:32.71
+  data:28.33
+  servers:27.74
+  citizen lab:26.16
+  cbc news:26.16
+  agencies:26.16
+  national security:25.23
+  browser:22.89
+  eyes:20.66
+  millions users:19.62
+
+K: 5, Log-Likelihood: -177115.071, Alpha: 11.000, Beta: 1.100

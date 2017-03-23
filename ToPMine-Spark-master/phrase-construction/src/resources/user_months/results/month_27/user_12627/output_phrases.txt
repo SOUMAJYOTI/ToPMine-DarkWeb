@@ -1,0 +1,61 @@
+Topic 0:
+  siihen:4.11
+  rahanne:4.09
+  takaisin:4.09
+  mit:3.47
+  tuo:3.29
+  sm:3.24
+  ei:2.77
+  ei voi:2.28
+  olkaa:2.22
+  yhteydess:2.22
+
+Topic 1:
+  speed:4.13
+  joutuu:4.13
+  ja:3.24
+  kyll:2.38
+  ovat:2.17
+  mutta:2.16
+  kin:2.14
+  hommat:2.06
+  myyntitapahtumaan:2.06
+  hoitamaan:2.06
+
+Topic 2:
+  kauppias:6.63
+  ei:5.45
+  eik:4.69
+  men:3.92
+  poistaa:3.92
+  sanokaas:3.28
+  profilissaan:3.28
+  saman:3.28
+  party:3.28
+  kirje er:3.28
+
+Topic 3:
+  ono:3.19
+  nain:2.49
+  varmaan:2.02
+  ostaja:2.02
+  sk:2.02
+  kysy:2.02
+  pist:2.02
+  ytyis:2.02
+  yll pit:2.02
+  harva:2.02
+
+Topic 4:
+  ytt:4.13
+  anus:4.13
+  yll:4.05
+  speed press:3.45
+  jos:3.30
+  market:3.03
+  mit:2.77
+  kuin:2.51
+  valitettavasti:2.51
+  smitten:2.51
+
+K: 5, Log-Likelihood: -5332.368, Alpha: 11.000, Beta: 1.100

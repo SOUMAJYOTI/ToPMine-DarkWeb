@@ -1,0 +1,61 @@
+Topic 0:
+  march:4.40
+  tesla:3.17
+  dont:2.64
+  pouring:2.32
+  embark:2.29
+  pmscammers:2.27
+  worthwhile:2.26
+  hint:2.23
+  lowest:2.23
+  justice:2.20
+
+Topic 1:
+  site:3.95
+  post:2.95
+  guy:2.88
+  months:2.73
+  money:2.31
+  btw:1.96
+  called:1.96
+  btc:1.96
+  check:1.96
+  guess:1.87
+
+Topic 2:
+  march:4.14
+  tesla:2.95
+  quote:2.69
+  result:2.63
+  stealing:2.58
+  thegreenmachine:2.58
+  groups:2.56
+  identity:2.54
+  robin:2.50
+  admit:2.47
+
+Topic 3:
+  hub:4.64
+  evo:4.08
+  april:4.04
+  scam:3.54
+  scammers:3.10
+  sweet:3.02
+  amquote:2.59
+  forums:2.51
+  time:2.51
+  losers:2.43
+
+Topic 4:
+  amquote:2.78
+  sweet:2.65
+  april:2.64
+  losers:1.99
+  scam:1.99
+  hub:1.90
+  dont:1.80
+  love:1.73
+  tesla:1.67
+  pallidpallas:1.57
+
+K: 5, Log-Likelihood: -3142.306, Alpha: 11.000, Beta: 1.100

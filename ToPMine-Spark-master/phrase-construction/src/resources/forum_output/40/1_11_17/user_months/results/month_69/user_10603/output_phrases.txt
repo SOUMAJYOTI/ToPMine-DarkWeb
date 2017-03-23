@@ -1,0 +1,61 @@
+Topic 0:
+  config:2.01
+  set:0.85
+  search:0.85
+  safe:0.85
+  uri:0.85
+  enufi:0.85
+  refererheader:0.85
+  onionno:0.85
+  network:0.85
+  grams:0.85
+
+Topic 1:
+  spot:2.21
+  hot:2.20
+  root:2.20
+  tails:2.20
+  blacklisting:2.20
+  access:2.20
+  space:0.99
+  limited:0.99
+  assume:0.99
+  enabling:0.99
+
+Topic 2:
+  hot spots:0.55
+  ill:0.55
+  risk:0.52
+  bios:0.44
+  turn:0.44
+  tips:0.44
+  guys:0.44
+  things:0.44
+  cell:0.44
+  find:0.44
+
+Topic 3:
+  helix:1.95
+  light:1.20
+  js:1.14
+  mixing:0.54
+  trouble:0.54
+  question:0.54
+  link:0.54
+  sources:0.54
+  rebooted:0.54
+  secondsive:0.54
+
+Topic 4:
+  private:1.75
+  helix:1.10
+  security:0.87
+  js:0.81
+  light:0.76
+  importing:0.71
+  nodes:0.71
+  linked:0.71
+  time:0.71
+  thread:0.71
+
+K: 5, Log-Likelihood: -774.409, Alpha: 11.000, Beta: 1.100

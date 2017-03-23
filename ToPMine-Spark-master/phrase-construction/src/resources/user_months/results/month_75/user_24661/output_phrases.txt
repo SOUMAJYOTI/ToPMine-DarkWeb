@@ -1,0 +1,61 @@
+Topic 0:
+  pretty:0.44
+  decrypt:0.42
+  multiply:0.41
+  public key:0.38
+  message:0.36
+  key:0.34
+  working:0.31
+  chime:0.29
+  friendly:0.29
+  newb:0.29
+
+Topic 1:
+  message txt:4.03
+  message file:1.86
+  unencrypted:1.86
+  case:1.86
+  site:1.86
+  export armor:1.86
+  accounts:1.86
+  copy:1.86
+  list:1.85
+  directory:1.85
+
+Topic 2:
+  working:1.39
+  vendor:0.96
+  pgp:0.96
+  gpg public:0.60
+  weeks:0.60
+  safety:0.60
+  correct:0.60
+  create:0.60
+  dw:0.60
+  popular:0.60
+
+Topic 3:
+  public key:0.65
+  pgp:0.52
+  vendor:0.46
+  decrypt:0.42
+  working:0.41
+  key:0.38
+  newb:0.38
+  chime:0.38
+  recommend:0.38
+  friendly:0.38
+
+Topic 4:
+  decrypt private key:2.98
+  public key:2.26
+  pgp pgp:1.90
+  encrypt:1.90
+  pgp:1.04
+  decrypt:0.90
+  gui:0.85
+  interaction:0.85
+  total:0.85
+  view:0.85
+
+K: 5, Log-Likelihood: -1032.383, Alpha: 11.000, Beta: 1.100

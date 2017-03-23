@@ -1,0 +1,20 @@
+elah,0,1
+set,1,2
+registered,2,2
+bit,3,2
+message,4,4
+good,5,2
+sigaint,6,2
+emails,7,1
+wasn,8,1
+problem,9,1
+message message,10,2
+mai,11,1
+blah blah,12,3
+tor,13,1
+blah blah blah,14,1
+time,15,2
+day,16,2
+thing,17,1
+option,18,2
+blah,19,5

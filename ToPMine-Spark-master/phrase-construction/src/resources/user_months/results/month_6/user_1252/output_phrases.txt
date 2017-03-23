@@ -1,0 +1,61 @@
+Topic 0:
+  key:7.62
+  vendor:6.30
+  agora:5.76
+  good:5.37
+  certificate:5.24
+  brute:5.24
+  force:5.24
+  revocation:5.24
+  vendors:4.48
+  idea:4.42
+
+Topic 1:
+  support:9.26
+  march:6.88
+  withdrawal:6.57
+  agora pandora:6.42
+  quote:6.12
+  forums:5.27
+  pointless:5.24
+  growth:5.24
+  trust:5.10
+  master:5.04
+
+Topic 2:
+  tao:3.53
+  password:2.75
+  public key:2.69
+  message:2.13
+  decrypt:1.63
+  decrypt message:1.52
+  private key:1.48
+  quote:1.39
+  protected:1.02
+  keys keys:1.01
+
+Topic 3:
+  meerkovo:6.04
+  private key public key:5.75
+  decrypt message:5.53
+  snicker:5.11
+  private key:4.70
+  pgp:4.39
+  addition:4.39
+  needed:4.38
+  manually:4.38
+  guys:4.38
+
+Topic 4:
+  encrypted bit asa key:9.73
+  packet version algo keyid:7.30
+  data bits:7.25
+  ab created el presidente:7.22
+  secret key:7.13
+  session key:7.00
+  encrypted data packet:7.00
+  la buena mierda gpg:6.95
+  bote:4.78
+  kvaq:4.77
+
+K: 5, Log-Likelihood: -13285.017, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,76 @@
+delectable,0,1
+select flashdrive,1,1
+auto,2,2
+youll,3,1
+select,4,3
+iso,5,3
+usb,6,1
+madedownload,7,1
+prevents,8,1
+newly,9,1
+flashdriveand,10,1
+upgraded,11,1
+flashdrive,12,3
+warning,13,1
+finish,14,1
+released,15,2
+siteplug,16,1
+renewing,17,1
+upgrading,18,1
+upgrade,19,6
+clearnet,20,1
+version,21,3
+downloaded,22,1
+iso select,23,1
+tails,24,15
+inthen,25,2
+install,26,1
+installerwhen,27,2
+flashdrive tails,28,2
+drive,29,2
+device,30,2
+dont,31,1
+flash,32,2
+expires,33,1
+wait,34,1
+version tails,35,1
+certificate,36,2
+link,37,1
+choose,38,2
+manual,39,1
+flashdrivewhen,40,1
+deviceto,41,1
+remove,42,1
+doneboot,43,1
+prevent,44,1
+goto,45,1
+file,46,1
+select iso,47,1
+working,48,1
+copy,49,2
+boot,50,2
+perserved,51,1
+plugged,52,1
+sal,53,1
+latest,54,1
+linksenglish,55,1
+st,56,1
+original,57,1
+perform,58,1
+follow,59,1
+people,60,1
+site,61,1
+theyll,62,1
+bug,63,1
+january,64,2
+pops,65,2
+upgrade iso,66,1
+clone,67,4
+persistence,68,2
+tails iso,69,1
+location,70,1
+tails tails,71,2
+clone tails,72,1
+window,73,2
+cloning,74,1
+applications,75,2

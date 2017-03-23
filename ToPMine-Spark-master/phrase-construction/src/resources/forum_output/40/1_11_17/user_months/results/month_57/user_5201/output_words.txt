@@ -1,0 +1,61 @@
+Topic 0:
+  btc:11.89
+  coins:5.89
+  users:4.13
+  spam:4.12
+  lol:4.11
+  withdrew:3.89
+  security:3.89
+  confuse:3.89
+  measures:3.89
+  order:3.89
+
+Topic 1:
+  claiming:3.03
+  attack:1.98
+  messages:1.97
+  script:1.78
+  insecurity:1.78
+  rip:1.78
+  list:1.78
+  dangerous:1.78
+  administrators:1.78
+  fight:1.78
+
+Topic 2:
+  person:5.25
+  hacks:2.82
+  claiming:2.50
+  time:1.63
+  big:1.60
+  markets:1.60
+  hack:1.18
+  surrounding:1.18
+  hacking:1.17
+  fixing:1.17
+
+Topic 3:
+  markets:11.18
+  hacks:8.90
+  ve:3.63
+  time:3.42
+  extorts:3.25
+  trd:3.22
+  shut:3.22
+  soup:3.22
+  parson:3.22
+  ip:3.22
+
+Topic 4:
+  market:11.55
+  dhl:8.86
+  people:6.30
+  hacked:5.52
+  site:5.39
+  wallet:4.58
+  names:4.51
+  public:3.37
+  forums:3.35
+  assume:2.56
+
+K: 5, Log-Likelihood: -3036.420, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  love avengers:0.75
+  outlet:0.41
+  alphabay:0.36
+  find:0.20
+  shop:0.20
+  order:0.20
+  disappeared:0.20
+  southpole:0.20
+  dream:0.20
+  onion:0.20
+
+Topic 1:
+  love avengers:0.81
+  outlet:0.40
+  alphabay:0.35
+  marketplace:0.20
+  running:0.20
+  forward:0.20
+  online:0.20
+  called:0.20
+  lsd:0.20
+  community:0.20
+
+Topic 2:
+  love avengers:0.65
+  outlet:0.41
+  alphabay:0.38
+  post:0.21
+  interesting:0.21
+  talk:0.21
+  registered:0.21
+  read:0.21
+  dnm:0.21
+  southpole:0.21
+
+Topic 3:
+  love avengers:0.77
+  outlet:0.41
+  alphabay:0.36
+  place:0.20
+  forward:0.20
+  join:0.20
+  friends:0.20
+  link:0.20
+  primary:0.20
+  marketplace:0.20
+
+Topic 4:
+  love avengers:0.68
+  outlet:0.41
+  alphabay:0.37
+  talk:0.21
+  registered:0.21
+  interesting:0.21
+  read:0.21
+  post:0.21
+  shop dream:0.20
+  active:0.20
+
+K: 5, Log-Likelihood: -169.268, Alpha: 11.000, Beta: 1.100

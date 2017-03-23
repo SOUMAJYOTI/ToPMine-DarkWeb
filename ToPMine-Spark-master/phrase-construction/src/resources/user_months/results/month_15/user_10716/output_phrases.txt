@@ -1,0 +1,61 @@
+Topic 0:
+  clearnet:1.16
+  address:1.16
+  onion:1.16
+  opinion:1.03
+  tron:1.03
+  auto:1.03
+  leaving:1.03
+  amdoes:1.03
+  takes:1.03
+  time:1.03
+
+Topic 1:
+  week:1.38
+  swam:1.32
+  problems:1.01
+  report:0.63
+  created:0.63
+  trolls:0.63
+  spoil:0.63
+  issues ive:0.63
+  happened:0.63
+  withdrawals:0.63
+
+Topic 2:
+  swam:0.87
+  week:0.83
+  bitblender:0.59
+  problems:0.58
+  bitcoin:0.55
+  months:0.47
+  forum:0.46
+  withdrawals:0.46
+  real:0.46
+  attack:0.46
+
+Topic 3:
+  blender:3.98
+  btc:2.60
+  slow:2.60
+  fast:2.60
+  doubt:1.22
+  setup:1.22
+  stuff:1.22
+  larger:1.22
+  stay:1.22
+  true:1.22
+
+Topic 4:
+  swam:1.48
+  week:1.47
+  problems:1.14
+  overrun:0.69
+  credible:0.69
+  days:0.69
+  accounts:0.69
+  posts:0.69
+  shills:0.69
+  attack:0.69
+
+K: 5, Log-Likelihood: -707.972, Alpha: 11.000, Beta: 1.100

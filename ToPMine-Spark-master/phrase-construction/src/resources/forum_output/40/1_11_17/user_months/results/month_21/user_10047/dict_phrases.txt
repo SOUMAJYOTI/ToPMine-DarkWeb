@@ -1,0 +1,46 @@
+server,0,1
+wait,1,2
+code,2,1
+reached message,3,1
+numerous,4,1
+release,5,1
+link,6,2
+indefinitely,7,1
+reached error,8,1
+sites,9,1
+user limit,10,3
+error,11,4
+behalf,12,1
+bit,13,1
+upgrades,14,1
+limit,15,3
+occasionally,16,1
+working,17,2
+links,18,2
+limit reached,19,3
+day,20,1
+sticking,21,1
+modifying,22,1
+suspend,23,1
+normal,24,1
+hours,25,2
+registrations,26,2
+work,27,1
+temporarily,28,1
+error message,29,2
+thread,30,1
+error user,31,1
+message,32,4
+misleading,33,1
+reached,34,3
+scenes,35,1
+closed,36,1
+time,37,1
+fresh,38,1
+user,39,3
+user limit reached,40,3
+admins,41,1
+register,42,1
+full,43,1
+referred,44,4
+agora,45,1

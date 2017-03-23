@@ -1,0 +1,61 @@
+Topic 0:
+  escrow:9.20
+  vendors:5.83
+  time:4.71
+  multisig:4.40
+  imo:3.90
+  reteat:3.90
+  effort:3.90
+  call:2.68
+  losing:2.60
+  coins:1.98
+
+Topic 1:
+  links:13.67
+  site:8.68
+  alpha:7.82
+  list:7.53
+  keen:5.64
+  flow:5.64
+  instants:5.64
+  ay:5.63
+  prefer:5.63
+  nice:5.63
+
+Topic 2:
+  market:13.23
+  exit:6.72
+  markets:4.69
+  amount:3.42
+  scams:2.70
+  admins:2.70
+  multisig:2.35
+  time:2.08
+  reddit:1.95
+  btc:1.95
+
+Topic 3:
+  orders:5.75
+  market:4.11
+  risk:3.77
+  constantly:3.76
+  coins:3.69
+  active:3.62
+  spam:3.61
+  escrow:3.24
+  list:3.18
+  hit:2.47
+
+Topic 4:
+  coins:8.97
+  exit:6.01
+  moving:3.87
+  admins:3.77
+  shame:2.66
+  address:2.53
+  struggle:2.38
+  hundreds:2.35
+  days:2.34
+  basin:1.87
+
+K: 5, Log-Likelihood: -3044.900, Alpha: 11.000, Beta: 1.100

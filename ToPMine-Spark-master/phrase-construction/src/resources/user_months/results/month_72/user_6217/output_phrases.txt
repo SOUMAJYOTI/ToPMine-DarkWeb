@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:6.65
+  wallet direct deals:6.59
+  market:3.62
+  safe:3.25
+  safest:3.25
+  persistance:3.25
+  solid:3.25
+  method:3.25
+  blockchainwalletsend:3.25
+  helix:3.25
+
+Topic 1:
+  february:4.02
+  quote:4.01
+  opening:3.16
+  comments:3.16
+  topic:3.16
+  discussions:3.16
+  agree:3.16
+  special:3.16
+  avengers:3.16
+  community:3.16
+
+Topic 2:
+  vendor:3.90
+  good:3.15
+  tails:2.38
+  mescaline:2.14
+  experience:2.09
+  leaves:1.98
+  top:1.98
+  role:1.98
+  philosophical:1.98
+  stevemba:1.98
+
+Topic 3:
+  key:4.91
+  normal:4.08
+  pgp key:4.08
+  changing:4.08
+  expired:4.08
+  change:4.03
+  public:3.25
+  keys:3.25
+  messages:3.25
+  pip:2.01
+
+Topic 4:
+  cross:5.24
+  days:4.07
+  led:3.24
+  tolerates:3.24
+  doesnt:3.24
+  dmt:3.24
+  oral:3.24
+  masculine:3.24
+  assuming:3.24
+  agonists:2.50
+
+K: 5, Log-Likelihood: -2043.805, Alpha: 11.000, Beta: 1.100

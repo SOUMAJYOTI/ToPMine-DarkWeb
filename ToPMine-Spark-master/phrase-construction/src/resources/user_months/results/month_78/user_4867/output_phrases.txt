@@ -1,0 +1,61 @@
+Topic 0:
+  fire:0.36
+  guys:0.36
+  scam:0.21
+  missed:0.20
+  great:0.20
+  dardush:0.18
+  turn:0.18
+  guess:0.18
+  isnt:0.18
+  warned:0.18
+
+Topic 1:
+  fire:0.37
+  guys:0.37
+  great:0.20
+  missed:0.20
+  scam:0.20
+  job:0.18
+  find:0.18
+  lost:0.18
+  vacation:0.18
+  nice:0.18
+
+Topic 2:
+  guys:0.36
+  fire:0.36
+  scam:0.21
+  great:0.20
+  missed:0.20
+  ya:0.19
+  isnt:0.19
+  people:0.19
+  zicot:0.19
+  positive:0.19
+
+Topic 3:
+  guys:0.38
+  fire:0.38
+  missed:0.20
+  great:0.20
+  scam:0.20
+  laid:0.19
+  literally:0.19
+  anniversary:0.19
+  work:0.19
+  ive:0.19
+
+Topic 4:
+  fire:0.36
+  guys:0.36
+  scam:0.21
+  missed:0.20
+  great:0.20
+  glad:0.19
+  negative:0.19
+  warned:0.19
+  guess:0.19
+  ya:0.19
+
+K: 5, Log-Likelihood: -219.229, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  blackphone:0.28
+  secure:0.14
+  weiwang:0.14
+  quote:0.14
+  asa:0.14
+  amsecure:0.14
+  inventors:0.14
+  stated:0.14
+  february:0.14
+  parties:0.14
+
+Topic 1:
+  blackphone:0.28
+  money:0.14
+  alotta:0.14
+  parties:0.14
+  secure:0.14
+  february:0.14
+  inventors:0.14
+  asa:0.14
+  amsecure:0.14
+  quote:0.14
+
+Topic 2:
+  blackphone:0.28
+  weiwang:0.14
+  alotta:0.14
+  quote:0.14
+  money:0.14
+  parties:0.14
+  inventors:0.14
+  secure:0.14
+  february:0.14
+  amsecure:0.14
+
+Topic 3:
+  blackphone:0.28
+  money:0.14
+  alotta:0.14
+  stated:0.14
+  february:0.14
+  amsecure:0.14
+  asa:0.14
+  inventors:0.14
+  quote:0.14
+  secure:0.14
+
+Topic 4:
+  blackphone:0.28
+  stated:0.14
+  parties:0.14
+  february:0.14
+  weiwang:0.14
+  inventors:0.14
+  amsecure:0.14
+  asa:0.14
+  quote:0.14
+  secure:0.14
+
+K: 5, Log-Likelihood: -26.868, Alpha: 11.000, Beta: 1.100

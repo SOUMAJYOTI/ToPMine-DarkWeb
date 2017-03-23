@@ -1,0 +1,61 @@
+Topic 0:
+  online marketplaces:8.71
+  deep web:8.47
+  silk road:8.11
+  government:6.64
+  project itom:6.51
+  document:6.35
+  marketplaces:5.36
+  trade:4.79
+  agencies:4.73
+  europe:4.53
+
+Topic 1:
+  tor browser:13.81
+  release:7.64
+  bug:5.79
+  tor:4.36
+  plate:3.85
+  directory:3.03
+  tbb tbb:3.03
+  features:3.03
+  firefox:3.03
+  distribution:3.03
+
+Topic 2:
+  bitcoins:4.85
+  problems:4.53
+  anon:3.86
+  harder:3.86
+  ways:3.86
+  money:3.20
+  low:3.06
+  hanging:3.00
+  fruit:2.98
+  easy:2.96
+
+Topic 3:
+  project itom:5.14
+  government:3.07
+  european:2.83
+  marketplaces:2.40
+  impact:1.97
+  time:1.81
+  illegal online:1.74
+  silk road:1.60
+  document:1.41
+  dutch om:1.35
+
+Topic 4:
+  people:6.09
+  latest version:5.47
+  tor bitcoin:4.56
+  economy good:4.56
+  move:3.01
+  ban:3.01
+  day:3.01
+  invest:3.01
+  thing:3.01
+  start:3.01
+
+K: 5, Log-Likelihood: -5271.741, Alpha: 11.000, Beta: 1.100

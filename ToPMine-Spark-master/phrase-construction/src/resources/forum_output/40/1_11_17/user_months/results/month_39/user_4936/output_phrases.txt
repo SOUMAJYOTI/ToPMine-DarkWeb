@@ -1,0 +1,61 @@
+Topic 0:
+  escrow:1.30
+  upabout:0.64
+  love avengers:0.31
+  dosabout:0.28
+  free:0.28
+  excessive:0.28
+  battleing:0.28
+  agora dos:0.28
+  accounts:0.28
+  sig:0.28
+
+Topic 1:
+  escrow:1.46
+  upabout:0.61
+  love avengers:0.30
+  biggest:0.28
+  trusted:0.28
+  vendor:0.28
+  jan:0.28
+  started:0.28
+  nicely:0.28
+  issues:0.28
+
+Topic 2:
+  love avengers:0.54
+  escrow:0.43
+  aware:0.34
+  ooh ooh:0.34
+  abraham:0.34
+  agora:0.34
+  outlaw:0.34
+  drug:0.34
+  links:0.34
+  addition:0.34
+
+Topic 3:
+  escrow:0.60
+  love avengers:0.46
+  upabout:0.34
+  elegant:0.31
+  find:0.31
+  listed:0.31
+  links:0.31
+  vtherev:0.31
+  moment:0.31
+  aware:0.31
+
+Topic 4:
+  escrow:0.60
+  love avengers:0.47
+  upabout:0.33
+  counting:0.31
+  drug:0.31
+  markets:0.31
+  listed:0.31
+  vtherev:0.31
+  moment:0.31
+  blog:0.31
+
+K: 5, Log-Likelihood: -356.951, Alpha: 11.000, Beta: 1.100

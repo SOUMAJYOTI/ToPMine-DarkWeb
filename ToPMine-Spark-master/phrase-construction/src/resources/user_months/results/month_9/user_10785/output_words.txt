@@ -1,0 +1,61 @@
+Topic 0:
+  password:24.44
+  bits:23.92
+  characters:12.97
+  lowercase:9.97
+  entropy:9.82
+  character:8.10
+  special:7.97
+  numerals:7.97
+  ciphers:7.19
+  works:6.97
+
+Topic 1:
+  shut:6.71
+  tor:6.26
+  sleep:5.69
+  hidden:4.91
+  sites:4.76
+  service:4.01
+  encryption:3.54
+  visiting:3.29
+  require:2.71
+  set:2.64
+
+Topic 2:
+  clearnet:17.16
+  filevault:10.67
+  disk:8.22
+  truecrypt:6.82
+  apple:6.72
+  full:6.47
+  analysis:4.78
+  encryption:4.76
+  encrypted:4.55
+  drive:3.57
+
+Topic 3:
+  software:7.91
+  march:7.69
+  source:5.78
+  crypto:4.84
+  quote:4.57
+  encrypting:4.51
+  macbook:4.14
+  mac:4.05
+  decoding:3.91
+  article:3.91
+
+Topic 4:
+  password:5.64
+  strong:4.96
+  reference:4.12
+  encryption:3.87
+  disk:3.41
+  quote:2.91
+  find:2.67
+  march:2.09
+  partition:1.81
+  diceware:1.41
+
+K: 5, Log-Likelihood: -7924.331, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  market:10.03
+  product:4.26
+  markets days:4.26
+  transactions:4.26
+  find vendor:4.26
+  feedback:4.26
+  fall:4.26
+  pause:3.26
+  knew:2.94
+  isnt:2.45
+
+Topic 1:
+  risk:5.34
+  markets:4.41
+  authorities innumerable mistakes:4.28
+  penalty hand illegal market:4.28
+  smaller markets find greater:4.28
+  head view markets:4.28
+  vulnerable agora:4.28
+  lesser basin inequality respect:4.28
+  admins acquired operators users:4.28
+  starters infrastructure pushed breaking:4.28
+
+Topic 2:
+  hidden services:5.01
+  article:4.26
+  de:4.26
+  anonymizing:4.26
+  issues:4.26
+  exploitable:4.26
+  tor:4.04
+  le:3.82
+  read:3.77
+  ends:3.42
+
+Topic 3:
+  passphrase:6.90
+  public key:6.90
+  log:6.89
+  provide passphrase:6.89
+  user:4.25
+  string:4.25
+  password:4.25
+  service:4.25
+  pgp:4.25
+  axismundi:3.42
+
+Topic 4:
+  work:6.40
+  vulnerability:5.03
+  hidden service:4.26
+  running:4.26
+  hidden services:4.07
+  august ami love vulnerabilities:3.39
+  team agora:3.24
+  thing:3.24
+  market:2.89
+  axis mundi project:2.59
+
+K: 5, Log-Likelihood: -7301.692, Alpha: 11.000, Beta: 1.100

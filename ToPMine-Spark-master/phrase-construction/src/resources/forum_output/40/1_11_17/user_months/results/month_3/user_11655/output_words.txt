@@ -1,0 +1,61 @@
+Topic 0:
+  shop:0.55
+  forum:0.52
+  time:0.51
+  agora:0.42
+  running:0.38
+  vendors:0.30
+  agra:0.30
+  great:0.30
+  worth:0.25
+  kuklinski:0.25
+
+Topic 1:
+  forum:0.61
+  great:0.43
+  vendors:0.42
+  agra:0.42
+  running:0.41
+  agora:0.39
+  time:0.37
+  shop:0.35
+  coins:0.21
+  spam:0.21
+
+Topic 2:
+  forum:0.70
+  agra:0.54
+  vendors:0.53
+  great:0.52
+  running:0.42
+  agora:0.38
+  time:0.30
+  shop:0.27
+  bizness:0.24
+  scammers:0.24
+
+Topic 3:
+  forum:0.56
+  shop:0.44
+  time:0.43
+  agora:0.41
+  running:0.40
+  vendors:0.36
+  great:0.36
+  agra:0.35
+  setting:0.22
+  lot:0.21
+
+Topic 4:
+  forum:0.61
+  agora:0.40
+  running:0.40
+  great:0.40
+  vendors:0.39
+  time:0.39
+  agra:0.39
+  shop:0.39
+  regularly:0.20
+  send:0.20
+
+K: 5, Log-Likelihood: -348.330, Alpha: 11.000, Beta: 1.100

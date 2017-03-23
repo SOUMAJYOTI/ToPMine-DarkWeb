@@ -1,0 +1,61 @@
+Topic 0:
+  coins:11.13
+  safe:4.40
+  service:4.21
+  tumbling:3.68
+  wallets:3.51
+  transactions:3.06
+  wig:2.71
+  totally:2.59
+  tor:2.56
+  electrum:2.51
+
+Topic 1:
+  wallet:29.97
+  tor:16.66
+  electrum:12.12
+  btc:11.65
+  online:10.78
+  blockchain:10.14
+  anonymous:9.57
+  send:8.15
+  coins:6.46
+  computer:4.93
+
+Topic 2:
+  buyers:5.84
+  vendors:5.49
+  market:3.84
+  join:3.84
+  quote:3.40
+  february:2.76
+  set:2.45
+  guess:2.41
+  suppose:1.85
+  gardener:1.85
+
+Topic 3:
+  online:15.07
+  members:7.36
+  time:7.15
+  default:6.91
+  set:6.47
+  forum:6.16
+  smf:5.66
+  option:5.24
+  plate:5.01
+  people:4.88
+
+Topic 4:
+  btc:14.04
+  send:10.39
+  bitcoinfog:10.20
+  february:9.46
+  shared:9.09
+  fog:6.59
+  quote:6.37
+  trustworthy:6.26
+  mixer:5.58
+  info:5.49
+
+K: 5, Log-Likelihood: -6134.421, Alpha: 11.000, Beta: 1.100

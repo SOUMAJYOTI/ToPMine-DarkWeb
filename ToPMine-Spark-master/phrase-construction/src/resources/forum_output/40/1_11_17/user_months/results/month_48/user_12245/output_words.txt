@@ -1,0 +1,61 @@
+Topic 0:
+  jos:4.46
+  mit:2.85
+  tullin:2.26
+  tt:2.14
+  sis:1.96
+  kiinni:1.72
+  ytt:1.62
+  niin:1.38
+  rkee:1.37
+  suomen:1.37
+
+Topic 1:
+  mit:3.59
+  omaan:2.21
+  ytt:2.20
+  ett:2.06
+  tuli:1.97
+  sallittu:1.65
+  oman:1.55
+  ja:1.46
+  ll:1.39
+  olla:1.31
+
+Topic 2:
+  se:3.62
+  ytt:3.41
+  jos:3.34
+  sun:2.91
+  mit:2.32
+  siin:2.02
+  varmaan:1.91
+  miun:1.91
+  tulliin:1.91
+  niin:1.78
+
+Topic 3:
+  oli:2.79
+  mit:2.09
+  jo:2.05
+  ll:1.72
+  mut:1.61
+  ku:1.61
+  tuli:1.44
+  mutta:1.40
+  ja:1.27
+  vitun:1.27
+
+Topic 4:
+  ja:9.71
+  ett:2.78
+  oli:2.49
+  mit:2.15
+  kirjeess:1.92
+  ei:1.84
+  nain:1.75
+  elk:1.59
+  tilannut:1.59
+  kirje:1.57
+
+K: 5, Log-Likelihood: -2862.150, Alpha: 11.000, Beta: 1.100

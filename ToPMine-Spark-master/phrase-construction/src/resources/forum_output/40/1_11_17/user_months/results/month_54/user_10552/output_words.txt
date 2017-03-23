@@ -1,0 +1,61 @@
+Topic 0:
+  ir:3.54
+  security:3.08
+  head:2.61
+  halo:2.61
+  lights:2.32
+  cap:2.18
+  baseball:2.18
+  attention:2.12
+  hat:1.69
+  police:1.56
+
+Topic 1:
+  leds:1.00
+  good:0.99
+  glasses:0.75
+  time:0.70
+  places:0.59
+  racial:0.58
+  lights:0.52
+  nasty:0.51
+  recognition:0.39
+  researchers:0.37
+
+Topic 2:
+  racial:3.79
+  researchers:2.25
+  recognition:2.15
+  systems:1.84
+  glasses:1.79
+  tech:0.92
+  visor:0.92
+  time:0.89
+  pretty:0.73
+  japan:0.72
+
+Topic 3:
+  recognition:5.39
+  racial:4.56
+  researchers:3.30
+  systems:2.79
+  glasses:2.25
+  tech:1.77
+  visor:1.77
+  flashing:1.07
+  networks:1.05
+  material:1.05
+
+Topic 4:
+  leds:1.95
+  good:1.56
+  hat:0.88
+  dont:0.81
+  homemade:0.68
+  solution:0.68
+  problem:0.68
+  discreet:0.68
+  fellow:0.68
+  idea:0.68
+
+K: 5, Log-Likelihood: -1374.197, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  mixing:0.41
+  order:0.40
+  newbie:0.40
+  service:0.40
+  guys:0.40
+  grams:0.39
+  avengersshould:0.20
+  love:0.20
+  marketshould:0.20
+  dream:0.20
+
+Topic 1:
+  guys:0.41
+  service:0.41
+  order:0.41
+  newbie:0.41
+  mixing:0.40
+  grams:0.38
+  dream:0.20
+  marketshould:0.20
+  love:0.20
+  avengersshould:0.20
+
+Topic 2:
+  grams:0.42
+  newbie:0.39
+  mixing:0.39
+  guys:0.39
+  order:0.39
+  service:0.39
+  link:0.20
+  enufi:0.20
+  scidmt:0.20
+  helix:0.20
+
+Topic 3:
+  grams:0.41
+  guys:0.40
+  mixing:0.40
+  order:0.39
+  service:0.39
+  newbie:0.39
+  scidmt:0.20
+  link:0.20
+  safe:0.20
+  mix:0.20
+
+Topic 4:
+  newbie:0.41
+  order:0.40
+  mixing:0.40
+  service:0.40
+  guys:0.40
+  grams:0.39
+  avengersshould:0.20
+  love:0.20
+  marketshould:0.20
+  dream:0.20
+
+K: 5, Log-Likelihood: -76.499, Alpha: 11.000, Beta: 1.100

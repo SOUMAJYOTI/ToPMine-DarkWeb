@@ -1,0 +1,61 @@
+Topic 0:
+  feel:0.28
+  apple:0.28
+  people:0.28
+  market:0.17
+  vendors:0.17
+  tuned:0.14
+  valuable:0.14
+  people filters:0.14
+  intuitive:0.14
+  pastorseeu:0.14
+
+Topic 1:
+  people:0.28
+  apple:0.28
+  feel:0.28
+  vendors:0.17
+  market:0.17
+  simple:0.14
+  agreed:0.14
+  march:0.14
+  quote:0.14
+  lot:0.14
+
+Topic 2:
+  apple:0.28
+  feel:0.28
+  people:0.28
+  vendors:0.17
+  market:0.17
+  agreed:0.14
+  lot:0.14
+  simple:0.14
+  amapple:0.14
+  moreau:0.14
+
+Topic 3:
+  feel:0.28
+  people:0.28
+  apple:0.28
+  vendors:0.17
+  market:0.17
+  march:0.14
+  quote:0.14
+  moreau:0.14
+  lot:0.14
+  simple:0.14
+
+Topic 4:
+  people:0.28
+  apple:0.28
+  feel:0.28
+  market:0.17
+  vendors:0.17
+  call:0.14
+  strength:0.14
+  shponglestarship:0.14
+  pastorseeu:0.14
+  days:0.14
+
+K: 5, Log-Likelihood: -144.067, Alpha: 11.000, Beta: 1.100

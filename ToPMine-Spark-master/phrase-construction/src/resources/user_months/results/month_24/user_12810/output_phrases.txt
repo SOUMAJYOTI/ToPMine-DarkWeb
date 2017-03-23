@@ -1,0 +1,61 @@
+Topic 0:
+  dont:1.30
+  pay:1.06
+  attention:1.05
+  garlic:0.93
+  worry:0.93
+  track:0.93
+  lol:0.93
+  pathetic:0.86
+  flaming:0.86
+  posts:0.86
+
+Topic 1:
+  worth:2.07
+  user:1.50
+  reopen:1.50
+  involved:1.50
+  operations:1.50
+  jail:1.50
+  bad:1.50
+  base:1.50
+  times:1.50
+  effort:1.50
+
+Topic 2:
+  reopened:3.11
+  changed:3.11
+  hours:2.43
+  server:2.32
+  security:2.23
+  vendors hours:1.50
+  hack:1.50
+  assigned:1.50
+  enter:1.50
+  legit:1.50
+
+Topic 3:
+  btc check:4.76
+  onionshop:4.34
+  advantage:1.54
+  serves:1.54
+  function:1.54
+  notice:1.54
+  onionbtcb:1.54
+  hackers:1.54
+  compromised:1.54
+  server os:1.54
+
+Topic 4:
+  hacker:7.96
+  orders:4.81
+  database:4.74
+  security check:3.13
+  files:3.13
+  passwords:3.13
+  guide:3.13
+  change:3.13
+  script:3.13
+  farmer:3.13
+
+K: 5, Log-Likelihood: -2615.546, Alpha: 11.000, Beta: 1.100

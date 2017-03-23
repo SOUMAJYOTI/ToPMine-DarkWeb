@@ -1,0 +1,61 @@
+Topic 0:
+  wiki:0.08
+  dont:0.08
+  hidden:0.08
+  advertised:0.08
+  personal:0.08
+  reviews:0.08
+  interested:0.08
+  hearing:0.08
+  thw:0.08
+  trust:0.08
+
+Topic 1:
+  javascript:0.08
+  instant:0.08
+  sites:0.08
+  sig:0.08
+  onion:0.08
+  onionbravebulzwzs:0.08
+  key:0.08
+  net:0.08
+  sqxamnigeby:0.08
+  programbe:0.08
+
+Topic 2:
+  interested:0.08
+  reviews:0.08
+  nada:0.08
+  trust:0.08
+  advertised:0.08
+  hearing:0.08
+  hidden:0.08
+  dont:0.08
+  personal:0.08
+  thw:0.08
+
+Topic 3:
+  hearing:0.08
+  personal:0.08
+  trust:0.08
+  dont:0.08
+  thw:0.08
+  wiki:0.08
+  advertised:0.08
+  interested:0.08
+  reviews:0.08
+  hidden:0.08
+
+Topic 4:
+  interface:0.08
+  online:0.08
+  phishing:0.08
+  fee:0.08
+  fake:0.08
+  careful:0.08
+  multi:0.08
+  sig:0.08
+  mixer:0.08
+  low:0.08
+
+K: 5, Log-Likelihood: -71.410, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  set:4.37
+  buyers:4.04
+  lol:3.45
+  escrow:3.35
+  jaxx:2.48
+  key:2.46
+  create:2.40
+  hansa:2.04
+  vendor:1.97
+  listen:1.95
+
+Topic 1:
+  sig:8.61
+  funds:7.54
+  multi:7.01
+  hansa:6.65
+  security:5.87
+  vendor:3.96
+  works:2.88
+  main:2.82
+  rational:2.76
+  fa:2.65
+
+Topic 2:
+  hansa:5.17
+  jaxx:4.24
+  transaction:3.17
+  escrow:2.66
+  vendor:2.62
+  site:2.59
+  works:2.34
+  time:2.32
+  funds:2.05
+  wallet:1.96
+
+Topic 3:
+  multisig:4.64
+  wallet:4.59
+  market:4.10
+  buyer:3.96
+  preferred:2.69
+  feel:2.57
+  set:2.30
+  showing:1.91
+  video:1.91
+  work:1.91
+
+Topic 4:
+  multisig:13.86
+  hansa:8.29
+  vendor:7.95
+  wallet:7.62
+  buyer:6.95
+  party:4.85
+  setup:4.49
+  funds:3.42
+  redeemscript:3.22
+  central:2.91
+
+K: 5, Log-Likelihood: -3591.140, Alpha: 11.000, Beta: 1.100

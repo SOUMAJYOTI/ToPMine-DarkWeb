@@ -1,0 +1,61 @@
+Topic 0:
+  drug:3.63
+  privacy:3.10
+  suppose:2.92
+  thought:2.81
+  government:2.22
+  nsa:2.07
+  humans:1.92
+  guy:1.92
+  transparency:1.92
+  security:1.81
+
+Topic 1:
+  dont:3.48
+  understand:1.92
+  spooky:1.72
+  worse:1.72
+  luck:1.72
+  man:1.72
+  tor:1.72
+  trust:1.72
+  october:1.64
+  quote:1.61
+
+Topic 2:
+  bios:4.47
+  software:4.40
+  free:3.49
+  quote:1.98
+  october:1.98
+  hardware:1.91
+  thing:1.88
+  happen:1.88
+  infector:1.86
+  private:1.82
+
+Topic 3:
+  bios:10.19
+  system:6.49
+  computer:4.64
+  flash:3.53
+  firmware:3.26
+  owned:2.94
+  mode:2.20
+  write:1.94
+  instructions:1.94
+  kali:1.63
+
+Topic 4:
+  avoid:1.88
+  bios:1.46
+  bits:1.42
+  source:1.19
+  break:1.12
+  quote:1.04
+  government:1.04
+  october:1.03
+  dont:0.89
+  tails:0.88
+
+K: 5, Log-Likelihood: -3019.533, Alpha: 11.000, Beta: 1.100

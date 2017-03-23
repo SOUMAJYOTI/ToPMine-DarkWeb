@@ -1,0 +1,61 @@
+Topic 0:
+  check:0.72
+  feedback:0.66
+  valhalla:0.64
+  samples:0.44
+  hub:0.42
+  reddit:0.37
+  market:0.21
+  gain:0.21
+  sample:0.21
+  order:0.21
+
+Topic 1:
+  check:0.88
+  valhalla:0.54
+  feedback:0.50
+  reddit:0.43
+  hub:0.39
+  samples:0.35
+  curious:0.21
+  find:0.21
+  node:0.21
+  interesting:0.21
+
+Topic 2:
+  feedback:0.87
+  valhalla:0.77
+  check:0.62
+  samples:0.52
+  hub:0.44
+  reddit:0.31
+  trust:0.23
+  kind:0.23
+  decide:0.23
+  sample:0.23
+
+Topic 3:
+  check:0.88
+  valhalla:0.55
+  feedback:0.50
+  reddit:0.41
+  hub:0.40
+  samples:0.36
+  info:0.21
+  reviews:0.21
+  store:0.21
+  vendor:0.21
+
+Topic 4:
+  check:0.91
+  valhalla:0.49
+  reddit:0.49
+  feedback:0.47
+  hub:0.36
+  samples:0.33
+  discussions:0.22
+  btcif:0.22
+  core:0.22
+  blocksize:0.22
+
+K: 5, Log-Likelihood: -170.429, Alpha: 11.000, Beta: 1.100

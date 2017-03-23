@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:7.67
+  market:6.58
+  dont:3.87
+  place:3.40
+  time:3.34
+  kind:3.03
+  forum:2.92
+  lsd:2.79
+  based:2.53
+  product:2.52
+
+Topic 1:
+  vendors:10.60
+  market:5.01
+  place:4.87
+  forum:3.79
+  site:3.71
+  people:3.08
+  dont:2.76
+  customers:2.58
+  lsd:2.49
+  escrow:2.49
+
+Topic 2:
+  post:2.97
+  satcitananda:1.55
+  meet:1.52
+  good:1.06
+  market:0.87
+  newcombers:0.86
+  optionperhaps:0.86
+  check:0.86
+  love:0.86
+  lessthanthree:0.86
+
+Topic 3:
+  vendors:9.60
+  market:5.84
+  people:4.60
+  lsd:4.31
+  time:3.94
+  site:3.94
+  kind:3.84
+  place:3.82
+  dont:3.56
+  forums:3.26
+
+Topic 4:
+  vendors:4.84
+  market:3.70
+  place:2.61
+  kind:2.42
+  lsd:2.20
+  site:2.15
+  time:2.09
+  forum:1.96
+  vendor:1.73
+  listed:1.66
+
+K: 5, Log-Likelihood: -4211.673, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  store:0.94
+  vendors:0.44
+  search:0.44
+  fe:0.36
+  comments:0.34
+  bootstrap:0.29
+  february:0.29
+  choose:0.22
+  reddit:0.21
+  visiting:0.21
+
+Topic 1:
+  february:0.47
+  bootstrap:0.47
+  store:0.45
+  comments:0.39
+  fe:0.38
+  vendors:0.27
+  search:0.27
+  board:0.23
+  lookalike:0.21
+  web:0.21
+
+Topic 2:
+  store:0.63
+  comments:0.38
+  fe:0.37
+  bootstrap:0.37
+  february:0.37
+  search:0.34
+  vendors:0.34
+  cloud:0.21
+  board:0.21
+  reddit:0.20
+
+Topic 3:
+  store:0.48
+  bootstrap:0.42
+  february:0.42
+  comments:0.41
+  fe:0.38
+  search:0.28
+  vendors:0.28
+  board:0.22
+  cloud:0.22
+  sheep:0.20
+
+Topic 4:
+  store:1.17
+  search:0.50
+  vendors:0.50
+  fe:0.34
+  comments:0.31
+  february:0.28
+  bootstrap:0.28
+  store vendors:0.22
+  letting:0.22
+  finished:0.22
+
+K: 5, Log-Likelihood: -315.241, Alpha: 11.000, Beta: 1.100

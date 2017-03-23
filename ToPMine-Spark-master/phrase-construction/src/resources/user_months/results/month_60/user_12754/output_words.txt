@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:1.54
+  mutta:0.95
+  esim:0.92
+  silkkitien:0.90
+  lompakkoon:0.90
+  ss:0.88
+  miten:0.66
+  ett:0.65
+  lompakkooni:0.64
+  en:0.63
+
+Topic 1:
+  kautta:2.87
+  suoraan:1.87
+  kyll:1.49
+  bitcoin:1.44
+  rahan:0.89
+  oman:0.89
+  turvallinen:0.88
+  googlen:0.88
+  kierr:0.88
+  jne:0.88
+
+Topic 2:
+  lis:1.90
+  siirretty:1.45
+  saan:1.42
+  lompakkooni:0.93
+  ett:0.92
+  miten:0.91
+  en:0.91
+  mutta:0.90
+  ymm:0.88
+  jos:0.88
+
+Topic 3:
+  ss:1.43
+  silkkitien:1.42
+  bitcoin:1.41
+  esim:1.41
+  lompakkoon:1.40
+  mutta:1.23
+  rahaliikennett:0.87
+  st:0.87
+  siirr:0.86
+  virkavalta:0.86
+
+Topic 4:
+  bitcoin:1.26
+  mutta:0.82
+  ett:0.65
+  miten:0.63
+  en:0.63
+  lompakkooni:0.62
+  lompakkoon:0.49
+  ss:0.48
+  silkkitien:0.48
+  esim:0.47
+
+K: 5, Log-Likelihood: -1236.072, Alpha: 11.000, Beta: 1.100

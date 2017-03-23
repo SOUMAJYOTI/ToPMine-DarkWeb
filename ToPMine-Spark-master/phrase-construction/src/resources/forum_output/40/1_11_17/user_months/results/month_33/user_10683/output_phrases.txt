@@ -1,0 +1,61 @@
+Topic 0:
+  encrypted data:1.22
+  form encrypting data:1.15
+  time:1.03
+  hardware:0.92
+  future:0.89
+  quartus computers:0.73
+  modern:0.59
+  forms:0.58
+  raising:0.58
+  business hackers:0.58
+
+Topic 1:
+  commerce:4.09
+  aes:4.09
+  bit:2.79
+  classical:2.71
+  protection:2.71
+  bits:2.71
+  effectively:2.71
+  electric:2.71
+  cryptographic:2.71
+  systems:1.95
+
+Topic 2:
+  quote onionshop december:2.56
+  thought:2.46
+  data:2.45
+  sha:2.44
+  hash:2.44
+  pmi:2.43
+  feature:2.43
+  americans:2.43
+  nsa:2.43
+  factoring:2.41
+
+Topic 3:
+  form encrypting data:1.71
+  encrypted data:1.68
+  future effective:1.24
+  evos:1.12
+  sell:1.12
+  suck:1.12
+  servers:1.12
+  russian:1.12
+  hijack:1.12
+  quartus computers:1.07
+
+Topic 4:
+  country:3.81
+  computers:2.70
+  evo:2.70
+  november amquote:1.85
+  thatyeah:1.85
+  darknet:1.85
+  theyll:1.85
+  month:1.85
+  eyes:1.85
+  substances:1.85
+
+K: 5, Log-Likelihood: -2653.763, Alpha: 11.000, Beta: 1.100

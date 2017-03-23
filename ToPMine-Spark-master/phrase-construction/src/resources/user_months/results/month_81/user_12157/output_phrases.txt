@@ -1,0 +1,61 @@
+Topic 0:
+  cold wallet:7.02
+  wallet:4.80
+  left:3.99
+  drive:3.99
+  access:3.99
+  store:3.99
+  choose:3.99
+  wallets:3.99
+  linking:3.99
+  seed:3.99
+
+Topic 1:
+  multiply wallet hops:5.74
+  mixing:4.74
+  hop:4.61
+  account:3.95
+  accounts:3.95
+  ive:3.95
+  closed:3.14
+  covering tracks bit cutting:3.07
+  service tied real identity:3.07
+  service coinbase cold:3.07
+
+Topic 2:
+  acct:6.01
+  weapon:4.00
+  closing:4.00
+  partner:4.00
+  opening:1.98
+  field:1.98
+  lots:1.98
+  banksters:1.98
+  slanted:1.98
+  aspects:1.98
+
+Topic 3:
+  thought:5.52
+  told:3.01
+  ease:3.01
+  states:3.01
+  coinbase bitcoins:3.01
+  repeating:3.01
+  mentioned:3.01
+  local wallet:2.94
+  online:2.94
+  september:2.91
+
+Topic 4:
+  hops wallets:5.99
+  works:3.01
+  wallet:2.46
+  coinbase:2.12
+  hops dnm:1.97
+  lol:1.97
+  hours:1.97
+  undetected:1.97
+  coinbase coins:1.97
+  remain:1.97
+
+K: 5, Log-Likelihood: -4055.771, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  storage:2.40
+  doesnt:2.39
+  code:1.42
+  software:1.41
+  security:1.40
+  leave:1.06
+  built:1.06
+  memory:1.06
+  host:1.06
+  persistence mounting:1.06
+
+Topic 1:
+  keys:1.48
+  tails developers:1.43
+  kernel:1.37
+  verify signing key:1.30
+  bbkf february:1.13
+  linus:1.13
+  key:0.85
+  sundown:0.77
+  change:0.77
+  upgrade:0.77
+
+Topic 2:
+  tails developers:1.06
+  linus:0.77
+  bbkf february:0.71
+  verify signing key:0.71
+  key:0.68
+  kernel:0.67
+  issues:0.53
+  keys:0.51
+  degraded kernel:0.49
+  feel:0.49
+
+Topic 3:
+  tails developers:1.32
+  key:1.07
+  linus:0.73
+  verify signing key:0.72
+  bbkf february:0.70
+  kernel:0.68
+  keys:0.65
+  sig file:0.56
+  gpg:0.55
+  wiping:0.50
+
+Topic 4:
+  gpg:1.42
+  sig file:1.40
+  tails iso:1.38
+  tails key:1.29
+  aware:1.28
+  expired:1.28
+  adding:1.28
+  checksums:1.28
+  expire:1.28
+  showing:1.28
+
+K: 5, Log-Likelihood: -1301.161, Alpha: 11.000, Beta: 1.100

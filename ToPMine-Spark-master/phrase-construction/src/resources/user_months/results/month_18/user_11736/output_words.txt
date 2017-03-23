@@ -1,0 +1,61 @@
+Topic 0:
+  register:1.60
+  option:1.08
+  boogie:0.72
+  links:0.71
+  hey:0.70
+  mobile:0.68
+  site:0.67
+  evolution:0.65
+  pm:0.57
+  friend:0.57
+
+Topic 1:
+  pm:0.94
+  time:0.91
+  register:0.74
+  option:0.69
+  friend:0.63
+  quote:0.62
+  laptop:0.61
+  evolution:0.61
+  access:0.60
+  concern:0.59
+
+Topic 2:
+  register:1.44
+  option:1.12
+  hey:0.69
+  boogie:0.69
+  links:0.69
+  pm:0.66
+  evolution:0.62
+  quote:0.56
+  friend:0.55
+  time:0.53
+
+Topic 3:
+  time:1.18
+  pm:0.92
+  concern:0.73
+  access:0.73
+  laptop:0.72
+  quote:0.67
+  friend:0.64
+  work:0.62
+  email:0.61
+  ruddy:0.61
+
+Topic 4:
+  time:0.94
+  pm:0.91
+  register:0.68
+  concern:0.64
+  option:0.64
+  laptop:0.63
+  access:0.63
+  quote:0.62
+  friend:0.61
+  evolution:0.59
+
+K: 5, Log-Likelihood: -646.236, Alpha: 11.000, Beta: 1.100

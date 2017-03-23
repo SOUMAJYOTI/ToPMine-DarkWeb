@@ -1,0 +1,61 @@
+Topic 0:
+  hidden service:2.98
+  dotfiles:2.94
+  directory:2.94
+  port:2.94
+  server:2.39
+  persistence:2.21
+  tcp:1.44
+  block:1.44
+  outproxy:1.44
+  ssl tor:1.44
+
+Topic 1:
+  file:5.80
+  amnesia persistent electrum:4.91
+  electrum:3.08
+  persistent:2.65
+  persistence:2.55
+  hidden services:2.50
+  select:2.27
+  versions:1.72
+  gz:1.70
+  find:1.70
+
+Topic 2:
+  electrum:3.99
+  persistent:3.29
+  file:3.15
+  amnesia persistent electrum:2.53
+  select:2.17
+  hidden services:1.93
+  persistence:1.68
+  message:1.51
+  serve:1.51
+  signature:1.48
+
+Topic 3:
+  love:2.36
+  buy:2.30
+  step:2.12
+  installing:1.52
+  mailing:1.08
+  cons:1.08
+  net:1.08
+  place:1.08
+  learn:1.08
+  places:1.08
+
+Topic 4:
+  pros:1.12
+  setting:1.10
+  network connection:1.10
+  works:1.10
+  contras:1.04
+  ssl tcp:1.04
+  tor:0.98
+  socks:0.87
+  electrum:0.76
+  step:0.70
+
+K: 5, Log-Likelihood: -2834.172, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ja:2.10
+  ll:1.80
+  toimii:1.63
+  online:1.41
+  aikaan:1.39
+  agorassa:1.38
+  ei:0.90
+  ainakaan:0.88
+  riin:0.78
+  siin:0.77
+
+Topic 1:
+  ja:1.36
+  agora:1.30
+  ei:0.93
+  toimii:0.61
+  hetkell:0.56
+  liiku:0.56
+  bitcoinit:0.55
+  viel:0.53
+  jo:0.53
+  silkkitie:0.53
+
+Topic 2:
+  agora:1.80
+  ei:0.96
+  kuin:0.81
+  ja:0.70
+  toimi:0.69
+  viel:0.69
+  silkkitie:0.69
+  jo:0.68
+  jos:0.58
+  se:0.58
+
+Topic 3:
+  ja:2.21
+  ei:1.24
+  ll:1.19
+  toimii:1.06
+  ainakaan:0.83
+  aika:0.63
+  ett:0.63
+  se:0.62
+  rahat:0.62
+  siin:0.58
+
+Topic 4:
+  agora:1.34
+  ei:0.97
+  kuin:0.83
+  se:0.75
+  toimi:0.70
+  ja:0.63
+  jo:0.56
+  silkkitie:0.56
+  viel:0.55
+  bitcoinit:0.49
+
+K: 5, Log-Likelihood: -1235.785, Alpha: 11.000, Beta: 1.100

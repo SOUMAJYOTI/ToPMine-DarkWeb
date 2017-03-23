@@ -1,0 +1,61 @@
+Topic 0:
+  access point:13.05
+  hotspot:11.22
+  connected:11.22
+  automatically connect:10.32
+  inside:10.08
+  wps enabled:7.59
+  routers:7.59
+  mac address:7.40
+  years:6.97
+  evil twin:6.80
+
+Topic 1:
+  bitcoin:7.36
+  hardware separation:5.87
+  guess:5.83
+  whonix vm:5.05
+  cpu provided:5.05
+  gb video:5.05
+  web:5.05
+  play:5.05
+  apps:5.05
+  text:5.05
+
+Topic 2:
+  dens:8.82
+  good days:8.66
+  bad days:7.59
+  september:6.19
+  install:5.87
+  endpoint:5.87
+  hotspots:5.87
+  tunnel:5.87
+  server:5.87
+  slow:5.06
+
+Topic 3:
+  connect:12.01
+  ng:11.76
+  code select:11.76
+  wifi:9.31
+  wpa:8.33
+  target:7.20
+  evil twin:6.34
+  connect honeypot:5.90
+  aircrack:5.88
+  check:5.88
+
+Topic 4:
+  whonix qubes:10.14
+  tpm:10.13
+  system:9.98
+  couple:8.79
+  phone number:8.75
+  lenox:7.60
+  evil maid:7.60
+  beaglebone black:7.13
+  ram:6.31
+  volume:5.88
+
+K: 5, Log-Likelihood: -24139.090, Alpha: 11.000, Beta: 1.100

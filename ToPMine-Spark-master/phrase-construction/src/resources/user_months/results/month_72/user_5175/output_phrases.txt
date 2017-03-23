@@ -1,0 +1,61 @@
+Topic 0:
+  time effort:5.07
+  reteat:5.07
+  imo:5.07
+  todays:2.48
+  enforce:2.48
+  tough:2.48
+  hey:2.48
+  change:2.48
+  afford:2.48
+  rate:2.48
+
+Topic 1:
+  vendors struggle hundreds coins:2.76
+  coming:2.32
+  hold:2.32
+  order:2.32
+  risk constantly:2.32
+  evaluated:2.32
+  market coins:2.32
+  pause:2.32
+  orders:2.32
+  january:2.32
+
+Topic 2:
+  market:6.73
+  markets:3.35
+  minor:3.35
+  reddit:3.35
+  multisig:3.35
+  btc:3.35
+  popularity:3.35
+  amount:3.21
+  exit scams:2.30
+  hold markets:1.65
+
+Topic 3:
+  exit:2.42
+  good:2.29
+  hard:1.58
+  scamming:1.58
+  connections:1.58
+  flawlessly:1.58
+  true:1.58
+  hit market:1.58
+  shame:1.58
+  people:1.58
+
+Topic 4:
+  late:3.35
+  interested:3.35
+  nimble:1.64
+  knew:1.64
+  evolution:1.64
+  weird:1.64
+  cents:1.64
+  message:1.64
+  response:1.64
+  thought:1.64
+
+K: 5, Log-Likelihood: -2283.757, Alpha: 11.000, Beta: 1.100

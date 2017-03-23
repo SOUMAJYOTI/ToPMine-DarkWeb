@@ -1,0 +1,61 @@
+Topic 0:
+  psychedelic:18.10
+  revolution:12.29
+  july:11.30
+  lsd:10.74
+  understand:10.43
+  man:8.24
+  live:8.21
+  understanding:7.97
+  people:7.41
+  quality:6.87
+
+Topic 1:
+  violence:6.18
+  quote:6.01
+  july:4.58
+  energy:3.89
+  sense:3.81
+  psychedelic:3.64
+  indicator:3.61
+  accurate:3.59
+  peak:3.49
+  oil:3.45
+
+Topic 2:
+  general:19.83
+  share:16.89
+  war:13.24
+  people:13.18
+  life:11.89
+  lsd:10.71
+  knowledge:10.34
+  philosophy:8.91
+  social:8.06
+  things:6.56
+
+Topic 3:
+  bomb:15.91
+  war:12.05
+  takes:11.90
+  lsd:8.66
+  fission:7.93
+  bicycle:7.93
+  comic:7.91
+  july:7.89
+  change:7.87
+  greenbud:7.74
+
+Topic 4:
+  war:18.03
+  economic:8.12
+  change:7.69
+  conventional:7.61
+  economically:5.96
+  people:5.07
+  quote:4.57
+  forces:4.53
+  fight:4.34
+  history:4.15
+
+K: 5, Log-Likelihood: -13296.110, Alpha: 11.000, Beta: 1.100

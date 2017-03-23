@@ -1,0 +1,61 @@
+Topic 0:
+  silkkitiell:0.40
+  miten:0.20
+  se:0.20
+  arvo:0.20
+  keskiarvo:0.20
+  ytyy:0.20
+  vai:0.20
+  tietyn:0.20
+  hetkell:0.20
+  onko:0.20
+
+Topic 1:
+  silkkitiell:0.40
+  ss:0.20
+  kyseess:0.20
+  bittiraha:0.20
+  ljess:0.20
+  se:0.20
+  ll:0.20
+  vai:0.20
+  ajan:0.20
+  miten:0.20
+
+Topic 2:
+  silkkitiell:0.40
+  vai:0.20
+  ll:0.20
+  hetkell:0.20
+  vain:0.20
+  arvo:0.20
+  btc:0.20
+  tuleeko:0.20
+  ytyy:0.20
+  kyseess:0.20
+
+Topic 3:
+  silkkitiell:0.40
+  ajan:0.20
+  bittiraha:0.20
+  kurssi:0.20
+  ytyy:0.20
+  arvo:0.20
+  kyseess:0.20
+  se:0.20
+  ll:0.20
+  ljess:0.20
+
+Topic 4:
+  silkkitiell:0.40
+  tuleeko:0.20
+  ss:0.20
+  onko:0.20
+  hetkell:0.20
+  keskiarvo:0.20
+  tietyn:0.20
+  miten:0.20
+  ljess:0.20
+  kurssi:0.20
+
+K: 5, Log-Likelihood: -62.577, Alpha: 11.000, Beta: 1.100

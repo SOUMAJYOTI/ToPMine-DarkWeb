@@ -1,0 +1,61 @@
+Topic 0:
+  products:0.28
+  giantgrill:0.28
+  mail:0.28
+  dhl:0.28
+  vacation:0.28
+  market:0.28
+  open:0.28
+  hansa:0.28
+  scout:0.14
+  platinum:0.14
+
+Topic 1:
+  dhl:0.28
+  products:0.28
+  open:0.28
+  hansa:0.28
+  mail:0.28
+  market:0.28
+  giantgrill:0.28
+  vacation:0.28
+  cookies:0.14
+  girl:0.14
+
+Topic 2:
+  market:0.28
+  hansa:0.28
+  open:0.28
+  dhl:0.28
+  vacation:0.28
+  giantgrill:0.28
+  products:0.28
+  mail:0.28
+  join:0.14
+  pricing:0.14
+
+Topic 3:
+  hansa:0.28
+  vacation:0.28
+  giantgrill:0.28
+  dhl:0.28
+  open:0.28
+  mail:0.28
+  products:0.28
+  market:0.28
+  quality:0.14
+  based:0.14
+
+Topic 4:
+  mail:0.28
+  vacation:0.28
+  market:0.28
+  open:0.28
+  giantgrill:0.28
+  hansa:0.28
+  dhl:0.28
+  products:0.28
+  top:0.14
+  usa:0.14
+
+K: 5, Log-Likelihood: -194.843, Alpha: 11.000, Beta: 1.100

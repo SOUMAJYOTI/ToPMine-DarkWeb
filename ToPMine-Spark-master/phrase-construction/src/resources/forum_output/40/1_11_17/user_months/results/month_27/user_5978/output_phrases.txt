@@ -1,0 +1,61 @@
+Topic 0:
+  free:0.28
+  dont:0.28
+  fair:0.14
+  paid:0.14
+  blank:0.14
+  toes:0.14
+  account:0.14
+  shrooms:0.14
+  step:0.14
+  box:0.14
+
+Topic 1:
+  free:0.28
+  dont:0.28
+  invite free:0.14
+  address:0.14
+  offer:0.14
+  freely:0.14
+  mustve:0.14
+  require:0.14
+  gon:0.14
+  idea:0.14
+
+Topic 2:
+  dont:0.28
+  free:0.28
+  shrooms:0.14
+  heads:0.14
+  acid:0.14
+  code:0.14
+  leave:0.14
+  doesnt:0.14
+  account:0.14
+  box:0.14
+
+Topic 3:
+  free:0.27
+  dont:0.27
+  forget:0.14
+  email:0.14
+  offer:0.14
+  freely:0.14
+  changed:0.14
+  message:0.14
+  address:0.14
+  require:0.14
+
+Topic 4:
+  dont:0.28
+  free:0.28
+  acid:0.14
+  leave:0.14
+  doesnt:0.14
+  step:0.14
+  paid:0.14
+  ops:0.14
+  creates:0.14
+  box:0.14
+
+K: 5, Log-Likelihood: -97.035, Alpha: 11.000, Beta: 1.100

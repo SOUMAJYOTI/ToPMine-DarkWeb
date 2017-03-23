@@ -1,0 +1,61 @@
+Topic 0:
+  fingerprints:1.35
+  trail:0.83
+  person:0.76
+  illegal:0.73
+  crumbs:0.64
+  weed:0.61
+  activities:0.61
+  dont:0.59
+  list:0.58
+  type:0.58
+
+Topic 1:
+  fingerprints:1.17
+  trail:0.77
+  illegal:0.76
+  person:0.73
+  online:0.67
+  crumbs:0.63
+  type:0.63
+  dont:0.62
+  weed:0.61
+  people:0.61
+
+Topic 2:
+  fingerprints:1.37
+  illegal:1.03
+  person:0.90
+  trail:0.82
+  list:0.64
+  anonymous:0.63
+  people:0.62
+  activities:0.62
+  type:0.61
+  dont:0.61
+
+Topic 3:
+  fingerprints:1.17
+  trail:0.78
+  illegal:0.74
+  person:0.74
+  people:0.63
+  list:0.62
+  dont:0.61
+  weed:0.61
+  anonymous:0.61
+  type:0.59
+
+Topic 4:
+  fingerprints:0.94
+  person:0.87
+  trail:0.80
+  illegal:0.74
+  activities:0.60
+  type:0.59
+  online:0.58
+  anonymous:0.58
+  weed:0.58
+  list:0.58
+
+K: 5, Log-Likelihood: -905.272, Alpha: 11.000, Beta: 1.100

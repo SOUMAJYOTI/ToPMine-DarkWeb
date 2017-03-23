@@ -1,0 +1,61 @@
+Topic 0:
+  device:0.60
+  iphone:0.60
+  mobile:0.40
+  days:0.40
+  reinstall:0.20
+  quote:0.20
+  reformat:0.20
+  impossible:0.20
+  completely:0.20
+  os:0.20
+
+Topic 1:
+  device:0.59
+  iphone:0.57
+  days:0.40
+  mobile:0.40
+  reformat:0.20
+  reinstall:0.20
+  os:0.20
+  impossible:0.20
+  youll:0.20
+  completely:0.20
+
+Topic 2:
+  iphone:0.64
+  device:0.59
+  days:0.40
+  mobile:0.40
+  break:0.20
+  stuck:0.20
+  wanted:0.20
+  iphonethank:0.20
+  apple:0.20
+  version:0.20
+
+Topic 3:
+  device:0.64
+  iphone:0.59
+  days:0.40
+  mobile:0.40
+  apple:0.20
+  break:0.20
+  iphonethank:0.20
+  stuck:0.20
+  version:0.20
+  wanted:0.20
+
+Topic 4:
+  iphone:0.61
+  device:0.59
+  mobile:0.40
+  days:0.40
+  raised:0.20
+  stuck:0.20
+  iphonethank:0.20
+  apple:0.20
+  wanted:0.20
+  break:0.20
+
+K: 5, Log-Likelihood: -102.064, Alpha: 11.000, Beta: 1.100

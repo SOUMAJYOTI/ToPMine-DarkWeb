@@ -1,0 +1,61 @@
+Topic 0:
+  public key:0.36
+  block:0.29
+  hh:0.29
+  rb:0.29
+  sp:0.29
+  pip:0.27
+  rhumyvzuo:0.19
+  dqrk:0.19
+  caeuvmjoiofrgycjlkqa:0.19
+  xandemu:0.19
+
+Topic 1:
+  public key:1.98
+  rb:1.20
+  hh:1.20
+  sp:1.20
+  block:1.19
+  eouvbkng:0.49
+  rw:0.49
+  bslzsfqi:0.49
+  dr:0.49
+  kiqlxdydeihevmgs:0.49
+
+Topic 2:
+  litecoin:2.66
+  tor escrow:2.66
+  transactions:1.74
+  system:1.74
+  transaction:0.83
+  pay:0.83
+  allowed:0.83
+  option:0.83
+  accepting:0.83
+  payment:0.83
+
+Topic 3:
+  promotion:2.68
+  listing:1.77
+  low:1.77
+  signature:1.77
+  pgp:1.55
+  message:0.99
+  bws:0.86
+  bszii:0.86
+  mwmfr:0.86
+  shv:0.86
+
+Topic 4:
+  public key:0.37
+  block:0.30
+  sp:0.30
+  hh:0.30
+  rb:0.30
+  pip:0.28
+  yfmubkcc:0.19
+  wlteyiyespgyvt:0.19
+  lkekryzzfyj:0.19
+  wtm:0.19
+
+K: 5, Log-Likelihood: -2789.333, Alpha: 11.000, Beta: 1.100

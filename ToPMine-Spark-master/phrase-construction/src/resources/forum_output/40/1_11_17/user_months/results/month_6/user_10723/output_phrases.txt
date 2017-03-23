@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins wallets:6.19
+  bitcoins:5.19
+  tumbler service:4.93
+  randomized:4.92
+  wallet wallet:4.11
+  blockchain:4.11
+  transfer bitcoins:4.11
+  deposit bitcoins:4.11
+  forwards:4.11
+  time:2.66
+
+Topic 1:
+  post:4.91
+  doesnt:4.03
+  working:3.94
+  create:2.67
+  hear:2.43
+  btc:2.43
+  forward:2.43
+  pic:2.43
+  sense:2.43
+  avatar:2.43
+
+Topic 2:
+  rock scissor paper:9.87
+  game:8.54
+  february:6.15
+  special:4.91
+  allowed:4.91
+  password:4.91
+  url:4.90
+  active:4.90
+  center:4.90
+  play:4.90
+
+Topic 3:
+  multi:9.91
+  dispute:7.42
+  vendor:7.42
+  january:7.32
+  pirate market:5.50
+  buyer:4.94
+  works:4.94
+  multisig:4.94
+  payment:4.94
+  chat:4.94
+
+Topic 4:
+  external onion:6.10
+  market:5.93
+  tumbler:5.41
+  pirate market:4.87
+  plan:4.83
+  leary:4.01
+  timothy:4.01
+  advertisment:4.01
+  send private:4.01
+  message:4.01
+
+K: 5, Log-Likelihood: -5259.221, Alpha: 11.000, Beta: 1.100

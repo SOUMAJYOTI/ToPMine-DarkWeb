@@ -1,0 +1,61 @@
+Topic 0:
+  send:2.24
+  donation:1.98
+  site:1.75
+  erowid:1.56
+  great:1.39
+  order:1.34
+  start:1.18
+  trips:0.97
+  terrible:0.96
+  supporting:0.96
+
+Topic 1:
+  clock:2.21
+  forum:1.76
+  july:1.42
+  time:1.35
+  site:1.35
+  quote:1.28
+  great:1.28
+  order:1.14
+  donation:1.06
+  offset:1.02
+
+Topic 2:
+  clock:5.67
+  forum:4.66
+  time:4.37
+  july:3.75
+  settings:2.63
+  offset:2.50
+  est:1.94
+  set:1.77
+  confused:1.72
+  dateforum:1.69
+
+Topic 3:
+  clock:2.53
+  forum:2.16
+  start:1.65
+  site:1.37
+  order:1.28
+  great:1.18
+  time:1.17
+  july:1.12
+  donation:0.90
+  quote:0.89
+
+Topic 4:
+  est:3.66
+  time:2.37
+  profile:2.21
+  quote:1.49
+  set:1.38
+  read:1.33
+  hey:1.31
+  pct:1.28
+  offset:1.17
+  settings:1.14
+
+K: 5, Log-Likelihood: -1517.760, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  login screen:3.83
+  fine:3.13
+  thing:2.24
+  general:2.24
+  problem:2.24
+  basically:2.24
+  dark:2.24
+  optimistic:2.24
+  problems:2.24
+  electrons:2.24
+
+Topic 1:
+  vendor:4.52
+  vendor status:3.27
+  experienced:2.92
+  bit:2.87
+  profie:2.18
+  word:2.18
+  sticky:2.18
+  write:2.18
+  amhow:2.18
+  keno:2.18
+
+Topic 2:
+  system:4.61
+  color:4.61
+  forums:3.54
+  running:2.31
+  determine:2.26
+  status agora:2.26
+  maintenancered:2.26
+  dysfunctional:2.26
+  announced:2.26
+  green:2.26
+
+Topic 3:
+  june:5.49
+  site:4.62
+  hours:4.20
+  examples:3.72
+  incident:3.72
+  longest:3.72
+  pmits:3.72
+  days:3.72
+  beforeim:3.72
+  talking:3.72
+
+Topic 4:
+  login:3.76
+  agora:3.28
+  threads:3.19
+  online:3.18
+  customers:3.03
+  file:2.86
+  evilgrin:2.55
+  happened:2.23
+  ocassions:2.23
+  start:2.23
+
+K: 5, Log-Likelihood: -1872.922, Alpha: 11.000, Beta: 1.100

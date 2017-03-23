@@ -1,0 +1,61 @@
+Topic 0:
+  breath:20.74
+  life:18.61
+  human:15.49
+  light:14.78
+  earth:12.31
+  love:11.45
+  matrix:9.79
+  consciousness:9.63
+  enter:9.03
+  form:9.01
+
+Topic 1:
+  mind:6.31
+  quote:5.91
+  seperation:4.56
+  imagination:3.93
+  mckenna:3.92
+  thinking:3.83
+  deeply:3.81
+  culture:1.96
+  power:1.96
+  lives:1.96
+
+Topic 2:
+  love:12.84
+  breath:12.65
+  consciousness:12.16
+  life:10.45
+  light:10.06
+  earth:9.46
+  field:8.80
+  enter:6.91
+  body:5.63
+  source:5.38
+
+Topic 3:
+  circuits:10.87
+  dna:6.47
+  relationships:5.97
+  reconnection:4.22
+  pineal:4.15
+  forgiveness:4.14
+  childhood:3.97
+  reconnecting:3.97
+  ability:3.97
+  engage:3.97
+
+Topic 4:
+  consciousness:13.16
+  life:12.42
+  light:8.33
+  love:4.69
+  human:4.08
+  matrix:3.96
+  breath:3.81
+  seperation:3.78
+  body:3.70
+  earth:3.19
+
+K: 5, Log-Likelihood: -14010.560, Alpha: 11.000, Beta: 1.100

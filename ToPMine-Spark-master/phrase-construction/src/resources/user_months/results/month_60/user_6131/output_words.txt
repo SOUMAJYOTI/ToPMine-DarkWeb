@@ -1,0 +1,16 @@
+Topic 0:
+  humbleservant:0.20
+
+Topic 1:
+  humbleservant:0.20
+
+Topic 2:
+  humbleservant:0.20
+
+Topic 3:
+  humbleservant:0.20
+
+Topic 4:
+  humbleservant:0.20
+
+K: 5, Log-Likelihood: -0.000, Alpha: 11.000, Beta: 1.100

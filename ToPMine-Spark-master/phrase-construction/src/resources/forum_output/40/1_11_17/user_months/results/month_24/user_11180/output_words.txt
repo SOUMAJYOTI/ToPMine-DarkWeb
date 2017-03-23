@@ -1,0 +1,61 @@
+Topic 0:
+  time:4.02
+  evolution:3.99
+  pandora:3.68
+  main:3.18
+  understand:3.00
+  alice:2.57
+  fast:2.37
+  quiete:1.74
+  statement:1.74
+  situation:1.74
+
+Topic 1:
+  good:6.13
+  account:4.86
+  mode:4.85
+  vacation:4.85
+  link:3.74
+  change:2.82
+  feedback:2.39
+  find:2.31
+  seller:2.30
+  click:1.91
+
+Topic 2:
+  agora:6.21
+  account:6.01
+  administration:2.84
+  feedbacks:2.35
+  job:1.85
+  market:1.72
+  pandora:1.57
+  lost:1.49
+  matter:1.45
+  padding:1.29
+
+Topic 3:
+  custumers:3.42
+  feedbacks:2.44
+  evolution:2.32
+  don:2.17
+  account:1.92
+  kind:1.87
+  case:1.64
+  buy:1.64
+  real:1.64
+  padding:1.17
+
+Topic 4:
+  custumers:4.10
+  money:3.17
+  custumer:2.76
+  account:2.61
+  agora:2.08
+  trust:1.78
+  booming:1.77
+  blocqued:1.77
+  question:1.77
+  reason:1.77
+
+K: 5, Log-Likelihood: -1988.105, Alpha: 11.000, Beta: 1.100

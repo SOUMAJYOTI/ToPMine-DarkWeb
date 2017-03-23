@@ -1,0 +1,61 @@
+Topic 0:
+  blond:0.08
+  wig:0.08
+  smaller:0.00
+  margin error day:0.00
+  software:0.00
+  accurate:0.00
+  called:0.00
+  error day:0.00
+  years:0.00
+  offer:0.00
+
+Topic 1:
+  wig:0.08
+  blond:0.08
+  smaller:0.00
+  margin error day:0.00
+  software:0.00
+  accurate:0.00
+  called:0.00
+  error day:0.00
+  years:0.00
+  offer:0.00
+
+Topic 2:
+  wig:0.08
+  blond:0.08
+  smaller:0.00
+  margin error day:0.00
+  software:0.00
+  accurate:0.00
+  called:0.00
+  error day:0.00
+  years:0.00
+  offer:0.00
+
+Topic 3:
+  blond:0.08
+  wig:0.08
+  smaller:0.00
+  margin error day:0.00
+  software:0.00
+  accurate:0.00
+  called:0.00
+  error day:0.00
+  years:0.00
+  offer:0.00
+
+Topic 4:
+  blond:0.08
+  wig:0.08
+  smaller:0.00
+  margin error day:0.00
+  software:0.00
+  accurate:0.00
+  called:0.00
+  error day:0.00
+  years:0.00
+  offer:0.00
+
+K: 5, Log-Likelihood: -3.250, Alpha: 11.000, Beta: 1.100

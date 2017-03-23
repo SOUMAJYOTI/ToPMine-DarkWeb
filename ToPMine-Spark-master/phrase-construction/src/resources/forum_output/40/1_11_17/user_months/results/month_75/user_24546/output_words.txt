@@ -1,0 +1,61 @@
+Topic 0:
+  bob:12.99
+  alice:11.99
+  activity:9.14
+  machine:8.99
+  contact:6.99
+  risk:6.36
+  time:6.12
+  adversary:6.12
+  vm:5.99
+  program:5.97
+
+Topic 1:
+  group:28.99
+  tor:21.28
+  security:16.10
+  content:12.24
+  members:11.99
+  member:11.85
+  bridges:11.79
+  child:10.99
+  operation:10.99
+  rules:10.15
+
+Topic 2:
+  mix:38.28
+  straw:35.99
+  casing:20.99
+  turkey:20.98
+  water:20.85
+  lid:18.88
+  dung:17.99
+  spawn:17.99
+  place:16.87
+  bag:15.98
+
+Topic 3:
+  container:8.99
+  inert:7.97
+  gas:7.96
+  vials:7.92
+  liquid:7.53
+  needle:7.46
+  septum:6.99
+  vial:5.99
+  long:5.15
+  bottle:5.14
+
+Topic 4:
+  ethanol:9.87
+  bridges:8.97
+  alcohol:8.16
+  lab:7.85
+  tails:7.17
+  server:7.12
+  status:5.98
+  mod:4.98
+  quote:4.84
+  connect:4.72
+
+K: 5, Log-Likelihood: -25053.111, Alpha: 11.000, Beta: 1.100

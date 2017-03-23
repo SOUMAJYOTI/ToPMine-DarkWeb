@@ -1,0 +1,61 @@
+Topic 0:
+  pops:1.21
+  referred:0.61
+  safe:0.61
+  quick:0.61
+  general:0.60
+  spammers:0.60
+  hubs:0.60
+  link:0.60
+  hub:0.60
+  note:0.59
+
+Topic 1:
+  pops:1.28
+  september:0.62
+  bloody:0.61
+  note:0.60
+  dnm:0.60
+  spammers:0.59
+  link:0.59
+  quick:0.59
+  referred:0.59
+  safe:0.59
+
+Topic 2:
+  pops:1.17
+  hubs:0.63
+  hub:0.61
+  quick:0.61
+  general:0.61
+  link:0.61
+  referred:0.61
+  spammers:0.60
+  safe:0.59
+  note:0.59
+
+Topic 3:
+  pops:1.20
+  note:0.61
+  safe:0.60
+  spammers:0.60
+  link:0.60
+  september:0.60
+  bloody:0.60
+  dnm:0.60
+  hub:0.60
+  hubs:0.60
+
+Topic 4:
+  pops:1.14
+  bloody:0.62
+  general:0.62
+  dnm:0.62
+  hub:0.61
+  safe:0.60
+  note:0.60
+  spammers:0.60
+  quick:0.60
+  referred:0.60
+
+K: 5, Log-Likelihood: -182.045, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  dont:1.23
+  security:1.08
+  save:0.79
+  wanted:0.77
+  pc:0.73
+  laptop:0.73
+  love:0.73
+  ubuntu:0.69
+  business:0.69
+  windows:0.64
+
+Topic 1:
+  security:3.48
+  love:2.08
+  windows:1.69
+  dont:1.14
+  ubuntu:1.11
+  business:1.11
+  laptop:1.05
+  pc:1.05
+  users:1.03
+  asa:1.02
+
+Topic 2:
+  os:9.12
+  easy:2.54
+  version:2.33
+  dark:2.18
+  tor:2.01
+  flash:1.93
+  installed:1.93
+  good:1.48
+  separate:1.35
+  clearnet:1.35
+
+Topic 3:
+  tails:5.83
+  time:5.34
+  tor:5.25
+  darknet:4.47
+  info:3.59
+  unmask:2.36
+  people:1.95
+  traffic:1.90
+  computer:1.90
+  small:1.90
+
+Topic 4:
+  pgp:3.54
+  version:2.08
+  pip:2.04
+  long:1.94
+  message:1.94
+  thought:1.19
+  key:1.18
+  work:1.03
+  dont:1.01
+  yuinnomwsledqgcs:0.94
+
+K: 5, Log-Likelihood: -2622.690, Alpha: 11.000, Beta: 1.100

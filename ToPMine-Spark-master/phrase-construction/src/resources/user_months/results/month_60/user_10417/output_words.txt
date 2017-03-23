@@ -1,0 +1,61 @@
+Topic 0:
+  title:4.77
+  article:3.84
+  november:3.68
+  quote:2.89
+  topic:2.82
+  relates:2.81
+  alphabay:2.33
+  admin:2.17
+  determine:2.10
+  activity:2.07
+
+Topic 1:
+  color:17.48
+  system:17.32
+  status:16.83
+  exit:10.11
+  forums:8.63
+  fully:8.54
+  dysfunctional:8.53
+  explanation:8.52
+  url:8.50
+  attack:8.46
+
+Topic 2:
+  drugs:14.17
+  uk:6.34
+  organised:6.06
+  criminals:4.92
+  market:4.86
+  unit:4.21
+  cannabis:4.05
+  heroin:3.99
+  crime:3.92
+  drug:3.78
+
+Topic 3:
+  forum:11.76
+  market:7.60
+  site:3.90
+  green:3.31
+  status:3.26
+  admin:2.99
+  issues:2.31
+  lack:1.96
+  handle:1.96
+  isnt:1.96
+
+Topic 4:
+  uk:6.64
+  drugs:5.80
+  crime:5.05
+  market:3.38
+  criminals:3.06
+  heroin:2.98
+  europe:2.98
+  online:2.98
+  gchq:2.96
+  cannabis:2.93
+
+K: 5, Log-Likelihood: -7839.540, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  skunkuk:0.40
+  agora:0.20
+  yesterday:0.20
+  contact:0.20
+  fast:0.20
+  details:0.20
+  havent:0.20
+  lightning:0.20
+  noticed:0.20
+  thing:0.20
+
+Topic 1:
+  skunkuk:0.40
+  complete:0.20
+  yesterday:0.20
+  lightning:0.20
+  agora:0.20
+  deposited:0.20
+  listings:0.20
+  havent:0.20
+  fast:0.20
+  order:0.20
+
+Topic 2:
+  skunkuk:0.40
+  order:0.20
+  thing:0.20
+  deposited:0.20
+  contact:0.20
+  fast:0.20
+  havent:0.20
+  complete:0.20
+  listings:0.20
+  details:0.20
+
+Topic 3:
+  skunkuk:0.40
+  havent:0.20
+  fast:0.20
+  deposited:0.20
+  listings:0.20
+  contact:0.20
+  noticed:0.20
+  complete:0.20
+  order:0.20
+  agora:0.20
+
+Topic 4:
+  skunkuk:0.40
+  noticed:0.20
+  order:0.20
+  thing:0.20
+  details:0.20
+  listings:0.20
+  lightning:0.20
+  yesterday:0.20
+  deposited:0.20
+  contact:0.20
+
+K: 5, Log-Likelihood: -39.262, Alpha: 11.000, Beta: 1.100

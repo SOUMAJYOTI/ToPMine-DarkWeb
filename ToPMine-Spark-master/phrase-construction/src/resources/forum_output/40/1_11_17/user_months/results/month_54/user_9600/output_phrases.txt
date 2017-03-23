@@ -1,0 +1,61 @@
+Topic 0:
+  women:12.60
+  marriage:12.48
+  virtual reality:7.93
+  spread message:7.93
+  artificial wombs:7.93
+  promote technologies:7.93
+  sex:7.93
+  seduce:7.93
+  destroy feminism forever:7.93
+  wife:7.93
+
+Topic 1:
+  ideas:7.93
+  abstract:3.95
+  possess:3.95
+  culture:3.95
+  knowing:3.95
+  brimming:3.95
+  suffering:3.95
+  deep:3.95
+  op sounds:3.95
+  personal:3.95
+
+Topic 2:
+  dropped:7.94
+  wrong:4.38
+  weekend:3.95
+  loving:3.95
+  feeling:3.95
+  acid:3.95
+  gamesome:3.95
+  commitment:3.95
+  partnership:3.95
+  knew:3.95
+
+Topic 3:
+  sounds:4.81
+  don:4.69
+  people don:4.69
+  people dont:4.69
+  dont:4.21
+  pretty narrow:3.90
+  spiritually:3.90
+  break:3.90
+  opinion:3.90
+  fellow:3.90
+
+Topic 4:
+  love:4.37
+  othrr:3.95
+  unnecessary:3.95
+  man:3.95
+  reasons:3.95
+  married children:3.95
+  plenty:3.95
+  robot:3.95
+  feminism:3.95
+  debt:3.95
+
+K: 5, Log-Likelihood: -6914.474, Alpha: 11.000, Beta: 1.100

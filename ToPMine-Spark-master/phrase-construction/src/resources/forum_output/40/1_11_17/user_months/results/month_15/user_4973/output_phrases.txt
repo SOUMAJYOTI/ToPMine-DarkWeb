@@ -1,0 +1,61 @@
+Topic 0:
+  love:1.57
+  security:1.54
+  isnt:1.40
+  hide:1.40
+  love tor:1.40
+  secret:1.40
+  espacially:1.40
+  talking:1.40
+  privacy:1.40
+  dea:1.40
+
+Topic 1:
+  keys:1.33
+  hey:1.33
+  opinions:1.33
+  operating:1.33
+  gnu:1.33
+  pgp:1.33
+  surprised:1.33
+  conduct:1.33
+  microsoft:1.33
+  system:1.33
+
+Topic 2:
+  pc:2.89
+  laptop:2.89
+  dont:1.42
+  gaming:1.39
+  xdjust:1.39
+  liveusb:1.39
+  loaded:1.39
+  kidding:1.39
+  aspect:1.39
+  truthfully:1.39
+
+Topic 3:
+  tor:4.33
+  time:3.36
+  computer:2.85
+  small:2.85
+  info:2.85
+  traffic:2.85
+  people:2.85
+  police:2.84
+  unmask:2.03
+  portion:1.36
+
+Topic 4:
+  coin:1.19
+  clearnet:1.19
+  common:1.19
+  thread:1.19
+  separate:1.19
+  written:1.19
+  title:1.19
+  stay:1.19
+  scammed:1.19
+  sense:1.19
+
+K: 5, Log-Likelihood: -1335.764, Alpha: 11.000, Beta: 1.100

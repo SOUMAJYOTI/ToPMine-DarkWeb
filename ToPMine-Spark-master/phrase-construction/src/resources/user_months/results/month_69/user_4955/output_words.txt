@@ -1,0 +1,61 @@
+Topic 0:
+  tguk:2.22
+  exit:1.92
+  scam:1.90
+  customers:0.95
+  dnms:0.92
+  money:0.81
+  coins:0.69
+  send:0.65
+  making:0.61
+  reddit:0.60
+
+Topic 1:
+  coke:1.01
+  year:0.95
+  tguk:0.93
+  send:0.93
+  reddit:0.91
+  bitcoin:0.85
+  money:0.84
+  customers:0.77
+  good:0.63
+  coins:0.62
+
+Topic 2:
+  people:2.81
+  making:2.77
+  gear:2.62
+  coins:2.34
+  attitude:2.21
+  review:2.03
+  drugs:1.80
+  product:1.80
+  quote:1.79
+  february:1.78
+
+Topic 3:
+  send:1.55
+  tguk:1.41
+  coke:1.31
+  coins:1.28
+  reddit:0.98
+  good:0.88
+  money:0.75
+  bitcoin:0.74
+  customers:0.73
+  scam:0.68
+
+Topic 4:
+  vendor:4.12
+  vendors:2.83
+  scammed:2.25
+  market:1.84
+  operation:1.84
+  fuck:1.84
+  rating:1.84
+  sucks:1.84
+  real:1.84
+  reviewer:1.84
+
+K: 5, Log-Likelihood: -1621.621, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  public:2.80
+  key:2.04
+  pgp:1.56
+  read:1.33
+  vendors:1.24
+  message:1.20
+  create:1.12
+  link:1.11
+  decrypted:1.09
+  encrusted:0.86
+
+Topic 1:
+  public:2.54
+  key:1.80
+  pgp:1.59
+  message:1.44
+  vendors:1.16
+  read:1.07
+  decrypted:1.02
+  create:0.99
+  link:0.89
+  encrusted:0.77
+
+Topic 2:
+  public:2.19
+  read:2.16
+  key:2.05
+  link:1.44
+  pgp:1.43
+  create:1.34
+  decrypted:1.34
+  vendors:1.19
+  message:1.09
+  encrusted:0.78
+
+Topic 3:
+  public:2.44
+  pgp:2.01
+  key:1.76
+  read:1.72
+  vendors:1.32
+  decrypted:1.32
+  create:1.24
+  message:1.18
+  link:1.16
+  encrusted:0.75
+
+Topic 4:
+  key:2.36
+  public:2.04
+  read:1.72
+  link:1.41
+  pgp:1.41
+  create:1.31
+  decrypted:1.23
+  message:1.09
+  vendors:1.09
+  encrusted:0.85
+
+K: 5, Log-Likelihood: -544.308, Alpha: 11.000, Beta: 1.100

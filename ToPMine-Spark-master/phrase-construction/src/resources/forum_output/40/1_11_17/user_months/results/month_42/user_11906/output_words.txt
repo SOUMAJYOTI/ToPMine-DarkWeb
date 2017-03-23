@@ -1,0 +1,61 @@
+Topic 0:
+  private:3.53
+  keys:3.47
+  didnt:2.96
+  prove:2.96
+  quote:2.42
+  lie:2.08
+  obvious:1.96
+  thief:1.96
+  blackmailer:1.96
+  work:1.87
+
+Topic 1:
+  attack:10.36
+  system:8.96
+  site:5.99
+  server:5.94
+  started:5.51
+  rate:4.96
+  time:4.67
+  dont:4.45
+  attacks:4.41
+  market:4.36
+
+Topic 2:
+  reddit:3.48
+  accounts:3.20
+  hacksforcrack:3.15
+  received:2.91
+  community:2.83
+  abilities:2.64
+  questions:2.58
+  nice:2.51
+  making:2.45
+  attacks:2.37
+
+Topic 3:
+  backend:4.33
+  server:3.99
+  shifty:3.05
+  provide:3.05
+  attacks:2.99
+  community:2.97
+  liar:2.96
+  started:2.85
+  ship:2.67
+  claims:2.37
+
+Topic 4:
+  reddit:7.42
+  place:3.72
+  quote:3.61
+  caught:2.76
+  business:2.30
+  people:2.27
+  pmquote:1.94
+  respite:1.92
+  integrity:1.92
+  pallidpallas:1.86
+
+K: 5, Log-Likelihood: -5630.412, Alpha: 11.000, Beta: 1.100

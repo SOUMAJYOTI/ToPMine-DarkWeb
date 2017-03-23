@@ -1,0 +1,61 @@
+Topic 0:
+  vendor thread:0.83
+  site:0.83
+  shop:0.53
+  hosters:0.52
+  process:0.52
+  multiply:0.52
+  suggestions:0.51
+  appreciated:0.51
+  find:0.48
+  scidmt:0.48
+
+Topic 1:
+  vendor thread:1.00
+  site:0.80
+  shop:0.56
+  nelson muntzs:0.48
+  scidmt:0.48
+  nelson muntz:0.48
+  multiply:0.48
+  suggestions:0.47
+  process:0.47
+  links:0.47
+
+Topic 2:
+  vendor thread:0.95
+  site:0.87
+  shop:0.54
+  links:0.51
+  find:0.50
+  nelson muntzs:0.49
+  scidmt:0.48
+  nelson muntz:0.48
+  appreciated:0.46
+  multiply:0.46
+
+Topic 3:
+  vendor thread:1.08
+  site:0.85
+  shop:0.57
+  nelson muntz:0.50
+  nelson muntzs:0.48
+  appreciated:0.48
+  hosters:0.48
+  process:0.48
+  suggestions:0.47
+  find:0.47
+
+Topic 4:
+  vendor thread:0.95
+  site:0.81
+  shop:0.55
+  scidmt:0.49
+  suggestions:0.49
+  appreciated:0.49
+  nelson muntz:0.49
+  process:0.48
+  links:0.48
+  multiply:0.48
+
+K: 5, Log-Likelihood: -172.598, Alpha: 11.000, Beta: 1.100

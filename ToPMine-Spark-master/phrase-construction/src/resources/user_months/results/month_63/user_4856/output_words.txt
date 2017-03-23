@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:16.54
+  noumena:6.32
+  newer:5.29
+  vendor:3.93
+  keys:3.87
+  sales:3.79
+  true:3.79
+  worried:3.78
+  smaller:3.64
+  big:3.62
+
+Topic 1:
+  wallet:36.67
+  market:27.26
+  transaction:21.21
+  public:20.70
+  master:19.38
+  vendors:18.85
+  file:15.97
+  share:15.97
+  select:14.82
+  correct:13.97
+
+Topic 2:
+  option:13.86
+  read:9.88
+  tor:9.52
+  choose:8.80
+  trade:8.54
+  stal:7.76
+  price:7.25
+  people:6.26
+  vm:5.96
+  browser:4.65
+
+Topic 3:
+  work:17.92
+  time:13.61
+  orders:11.69
+  customer:9.88
+  imagine:9.87
+  vendors:8.25
+  alot:7.93
+  implement:7.93
+  system:7.93
+  order:7.93
+
+Topic 4:
+  email:25.99
+  thread:17.24
+  quote:14.22
+  november:13.92
+  forum:11.75
+  list:10.69
+  direct:8.88
+  great:8.72
+  prices:8.24
+  contact:6.71
+
+K: 5, Log-Likelihood: -13545.584, Alpha: 11.000, Beta: 1.100

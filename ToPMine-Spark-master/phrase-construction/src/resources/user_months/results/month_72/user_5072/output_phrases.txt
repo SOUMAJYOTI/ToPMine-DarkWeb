@@ -1,0 +1,61 @@
+Topic 0:
+  site:3.29
+  january:2.68
+  methamphetaman:1.59
+  ttyl:1.59
+  report:1.59
+  chance:1.59
+  pmquote:1.59
+  worries:1.59
+  making:1.59
+  sig:1.59
+
+Topic 1:
+  order:6.72
+  times:3.31
+  double:3.31
+  didnt:1.68
+  early:1.61
+  row:1.61
+  place:1.61
+  eventually:1.61
+  fun:1.61
+  ready:1.61
+
+Topic 2:
+  agora:1.60
+  knew:1.49
+  coins:1.49
+  beginners:1.49
+  luck:1.49
+  call:1.49
+  eve:1.49
+  logging:1.49
+  remember:1.49
+  xx:1.49
+
+Topic 3:
+  jizz:5.00
+  gunmetal:3.30
+  rep:3.30
+  plugif:1.79
+  pounds:1.79
+  cash:1.79
+  fuckin:1.79
+  aint:1.79
+  young:1.78
+  niggasi:1.78
+
+Topic 4:
+  experience:5.01
+  visual:3.30
+  tolerance:3.30
+  ucg:3.30
+  trip:2.82
+  preventing:1.60
+  fucking:1.60
+  tripping:1.60
+  lsd:1.60
+  mushie:1.60
+
+K: 5, Log-Likelihood: -1186.831, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bunch:0.20
+  recover:0.20
+  hot:0.20
+  attempt:0.20
+  funds:0.20
+  hacked:0.20
+  response:0.20
+  wearisome:0.20
+  walked:0.20
+  people:0.20
+
+Topic 1:
+  pandora:0.20
+  coming:0.20
+  vendors:0.20
+  comission:0.20
+  sale:0.20
+  watch:0.20
+  arround:0.20
+  smells:0.20
+  corner:0.20
+  sheep:0.20
+
+Topic 2:
+  hacked:0.20
+  hot:0.20
+  walked:0.20
+  funds:0.20
+  storage:0.20
+  response:0.20
+  attempt:0.20
+  recover:0.20
+  reply:0.20
+  person:0.20
+
+Topic 3:
+  wearisome:0.20
+  arround:0.20
+  chime:0.20
+  sale:0.20
+  comission:0.20
+  people:0.20
+  pandora:0.20
+  sheep:0.20
+  watch:0.20
+  admins:0.20
+
+Topic 4:
+  forum:0.20
+  happening:0.20
+  person:0.20
+  admins:0.20
+  reply:0.20
+  screwed:0.20
+  chime:0.20
+  people:0.20
+  wearisome:0.20
+  attacked:0.20
+
+K: 5, Log-Likelihood: -97.652, Alpha: 11.000, Beta: 1.100

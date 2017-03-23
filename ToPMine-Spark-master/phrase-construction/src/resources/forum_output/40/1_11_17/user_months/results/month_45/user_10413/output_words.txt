@@ -1,0 +1,61 @@
+Topic 0:
+  private:9.05
+  key:8.89
+  save:5.83
+  quote:5.81
+  ascii:5.77
+  saved:5.57
+  doesnt:4.88
+  june:4.84
+  work:4.59
+  contact:3.83
+
+Topic 1:
+  abraxas:5.29
+  message:3.01
+  pgp:2.46
+  link:2.08
+  ai:1.98
+  fast:1.64
+  attacks:1.64
+  gnupg:1.62
+  key:1.46
+  lot:1.39
+
+Topic 2:
+  click:31.99
+  double:30.99
+  set:30.99
+  false:14.99
+  browser:11.94
+  enabled:10.99
+  media:8.99
+  cache:8.93
+  uri:5.99
+  true:5.99
+
+Topic 3:
+  key:3.66
+  block:2.55
+  pgp:2.46
+  message:2.26
+  public:2.24
+  uz:1.97
+  pip:1.97
+  ynpm:1.97
+  md:1.97
+  ce:1.97
+
+Topic 4:
+  ciw:2.99
+  key:2.89
+  block:2.87
+  pgp:2.82
+  public:2.46
+  xy:1.99
+  vo:1.99
+  baheaaaojedm:1.99
+  luck:1.13
+  wj:1.03
+
+K: 5, Log-Likelihood: -9825.342, Alpha: 11.000, Beta: 1.100

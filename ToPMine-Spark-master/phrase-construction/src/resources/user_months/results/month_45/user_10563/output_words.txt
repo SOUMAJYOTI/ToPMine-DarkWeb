@@ -1,0 +1,61 @@
+Topic 0:
+  disk:4.57
+  utility:3.29
+  standard:3.12
+  linux:1.90
+  additionally:1.70
+  gnu:1.70
+  works:1.69
+  drive:1.68
+  quote:1.62
+  data:1.48
+
+Topic 1:
+  hdparm:3.74
+  ep:2.93
+  data:2.77
+  opal:2.75
+  fde:2.56
+  key:2.49
+  set:1.95
+  april:1.89
+  dev:1.82
+  hdd:1.77
+
+Topic 2:
+  opal:6.69
+  data:5.75
+  april:5.45
+  firmware:5.35
+  pmquote:4.50
+  ssds:4.00
+  key:3.76
+  ssd:3.11
+  support:3.10
+  device:3.06
+
+Topic 3:
+  key:14.99
+  ssd:11.16
+  opal:8.08
+  factory:7.20
+  encrypt:6.86
+  fde:6.52
+  data:3.94
+  underlying:3.34
+  retaining:3.32
+  compliant:3.30
+
+Topic 4:
+  erase:7.83
+  security:5.45
+  enhanced:4.90
+  full:4.73
+  data:4.06
+  option:3.77
+  wear:2.08
+  move:2.08
+  ssds:2.04
+  moving:1.90
+
+K: 5, Log-Likelihood: -3031.448, Alpha: 11.000, Beta: 1.100

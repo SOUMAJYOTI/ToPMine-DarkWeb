@@ -1,0 +1,61 @@
+Topic 0:
+  save:4.29
+  buying:2.10
+  kind dark:2.10
+  planning:2.10
+  place:2.10
+  info:2.10
+  stuff:2.10
+  web:2.10
+  post:2.10
+  glad:2.10
+
+Topic 1:
+  start:5.29
+  safe:5.11
+  email:4.33
+  newb:3.49
+  kind dark net:3.49
+  service:3.49
+  safely:3.49
+  encryption find:3.49
+  called:3.49
+  registered:3.49
+
+Topic 2:
+  quote:3.15
+  brought:3.10
+  function:3.08
+  forum question:3.08
+  reckon:3.08
+  search:1.95
+  day question:1.91
+  tells:1.91
+  paracelsus:1.90
+  quote encrypt:1.90
+
+Topic 3:
+  perfectly legal:9.08
+  hide protect:4.36
+  hung online observing making:4.36
+  broken minutes doesnt matter:4.36
+  police monitored places people:4.36
+  zaphodlike thread today affect:4.36
+  true story regard:4.36
+  story apply technology big:4.36
+  encrypt encryption algos easily:4.36
+  semi raise comment facebook:4.36
+
+Topic 4:
+  things:4.30
+  fdxhtc december amquote princesocapuyo:3.79
+  leave trail eventually data:3.77
+  leave today months year:3.76
+  buttonkeep mind:3.75
+  december ami dont quote:3.70
+  top corner post quote:3.64
+  live:3.40
+  mind mail telling safe:3.28
+  prohibited deep web dont:3.15
+
+K: 5, Log-Likelihood: -3167.098, Alpha: 11.000, Beta: 1.100

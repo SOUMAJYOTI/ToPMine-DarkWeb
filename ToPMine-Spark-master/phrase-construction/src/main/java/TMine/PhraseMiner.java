@@ -8,7 +8,7 @@ import java.util.*;
  * Created by Jin on 11/25/2015.
  */
 public class PhraseMiner implements Serializable {
-    private static final int PHRASE_MIN_FREQ = 3;
+    private static final int PHRASE_MIN_FREQ = 5;
     private final Set<String> stopWordsSet;
 
     public PhraseMiner(Set<String> stopWordsSet) {
@@ -53,7 +53,8 @@ public class PhraseMiner implements Serializable {
                 }
             }
             String phrase = phraseBuilder.toString();
-
+            
+//            System.out.println(phrase);
             // check if the phrase satisfies required min freq
             if(phraseToCount.containsKey(phrase) && phraseToCount.get(phrase).longValue() >= PHRASE_MIN_FREQ) {
                 sentenceIdxToIndicesOfCandidatePhraseLengthN.get(S).add(idx);

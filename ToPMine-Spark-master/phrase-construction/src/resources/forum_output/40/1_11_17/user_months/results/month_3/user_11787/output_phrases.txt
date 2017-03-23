@@ -1,0 +1,61 @@
+Topic 0:
+  karpeles:9.76
+  source:5.10
+  bitpay:4.87
+  unclean:4.87
+  allegedly:4.87
+  news:4.87
+  knowledge:4.87
+  mt:4.87
+  storage:4.87
+  arbitrage:4.87
+
+Topic 1:
+  things:12.20
+  magicaltux:9.76
+  personally:9.76
+  mtgox:8.68
+  people:8.66
+  channelname:7.31
+  guys:7.31
+  pushing keyboard:7.31
+  bitcoin:5.17
+  dont:5.06
+
+Topic 2:
+  poopoo february amquote:6.05
+  spent community work spend:5.81
+  causing pointless rifts division:5.81
+  coins:5.40
+  honeyray february ami time:5.07
+  nominate:4.84
+  circulation:4.83
+  love:4.80
+  views:4.80
+  start:4.05
+
+Topic 3:
+  quote:6.53
+  bitcoin:5.00
+  fanboys:4.86
+  thread:4.58
+  scum:4.49
+  enjoy:3.94
+  stupidity:3.94
+  reading:3.94
+  move:3.82
+  sr:3.01
+
+Topic 4:
+  bitcoin:11.30
+  cyprus:9.75
+  country:8.00
+  finance:4.87
+  huge:4.87
+  cyprus long:4.87
+  initials:4.87
+  accounts:4.87
+  worlds:4.87
+  identity:4.82
+
+K: 5, Log-Likelihood: -12070.362, Alpha: 11.000, Beta: 1.100

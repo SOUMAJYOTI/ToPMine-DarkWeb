@@ -1,0 +1,61 @@
+Topic 0:
+  disk:10.68
+  machine:8.54
+  machines:6.40
+  strange:6.40
+  rootkit:4.26
+  plugged:4.26
+  monitor:4.26
+  process:4.26
+  smaller:4.26
+  internet:4.26
+
+Topic 1:
+  time:10.31
+  phones download:6.85
+  throwing file:6.85
+  exit node:6.44
+  malware:6.03
+  browser:5.13
+  computer:5.13
+  error:4.75
+  asa:4.26
+  tor:4.26
+
+Topic 2:
+  teach:4.12
+  thing:3.63
+  amyeah:2.29
+  quote april:2.29
+  safe:2.12
+  interesting:2.12
+  question:2.12
+  trick:2.12
+  iirc:2.12
+  drives:2.12
+
+Topic 3:
+  backdoors:4.25
+  nasty:4.25
+  special:4.25
+  doesnt:4.25
+  good:4.25
+  judge:4.25
+  attacks:4.25
+  linux:4.10
+  heard:3.94
+  cryptostorm:3.38
+
+Topic 4:
+  zaphod:3.31
+  block:3.16
+  good idea:3.16
+  usa:3.16
+  based exit:3.16
+  banned:2.80
+  tsc:2.79
+  quote:2.76
+  april:2.76
+  dont:2.65
+
+K: 5, Log-Likelihood: -7748.228, Alpha: 11.000, Beta: 1.100

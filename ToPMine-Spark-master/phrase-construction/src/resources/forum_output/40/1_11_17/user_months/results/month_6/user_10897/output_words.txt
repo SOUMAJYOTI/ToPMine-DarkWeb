@@ -1,0 +1,61 @@
+Topic 0:
+  public:1.36
+  key:0.96
+  ht:0.76
+  rf:0.50
+  block:0.49
+  kbl:0.49
+  aqhw:0.49
+  message:0.43
+  sending:0.36
+  encrypted:0.36
+
+Topic 1:
+  key:0.97
+  public:0.66
+  gpa:0.50
+  gog:0.50
+  usb:0.49
+  mate:0.49
+  easier:0.49
+  favor:0.49
+  youself:0.49
+  ht:0.43
+
+Topic 2:
+  public:1.32
+  key:1.19
+  ht:0.74
+  block:0.53
+  kbl:0.52
+  aqhw:0.52
+  rf:0.51
+  message:0.48
+  encrypted:0.36
+  sending:0.36
+
+Topic 3:
+  key:8.11
+  address:2.85
+  encrusted:2.85
+  send:2.79
+  message:2.26
+  keys:1.90
+  messege:1.69
+  favor:1.05
+  mate:1.05
+  youself:1.05
+
+Topic 4:
+  public:1.61
+  ht:1.03
+  key:0.77
+  aqhw:0.63
+  kbl:0.62
+  rf:0.62
+  block:0.61
+  message:0.45
+  encrypted:0.33
+  sending:0.33
+
+K: 5, Log-Likelihood: -2677.914, Alpha: 11.000, Beta: 1.100

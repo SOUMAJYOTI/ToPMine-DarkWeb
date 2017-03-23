@@ -1,0 +1,61 @@
+Topic 0:
+  tails:1.75
+  tick options:1.53
+  volume persistent:0.74
+  schlangemann:0.73
+  shutdown:0.73
+  click save:0.73
+  restores:0.73
+  amhey:0.73
+  applications:0.73
+  box:0.73
+
+Topic 1:
+  applet:0.95
+  reinstate:0.94
+  exit:0.93
+  accidently:0.93
+  pgp:0.93
+  top:0.92
+  toolbar:0.92
+  tails save knowledge:0.74
+  data:0.69
+  amnaturally:0.65
+
+Topic 2:
+  tails:0.99
+  tick options:0.99
+  data:0.67
+  march:0.63
+  morning log tails:0.61
+  configure persistent:0.55
+  glad backup private key:0.54
+  didnt:0.52
+  scratch:0.51
+  rectified:0.51
+
+Topic 3:
+  tick options:1.50
+  tails:1.33
+  simply:0.70
+  wizard:0.70
+  persistence volume:0.70
+  current:0.70
+  click:0.70
+  restores:0.70
+  boot:0.70
+  session:0.69
+
+Topic 4:
+  data:1.01
+  tails save knowledge:0.93
+  jaxinshit:0.90
+  amnaturally:0.89
+  saved:0.67
+  default:0.67
+  install:0.67
+  saves:0.67
+  mode:0.66
+  april:0.66
+
+K: 5, Log-Likelihood: -676.000, Alpha: 11.000, Beta: 1.100

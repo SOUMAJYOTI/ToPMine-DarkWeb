@@ -1,0 +1,61 @@
+Topic 0:
+  english:0.28
+  wrote:0.28
+  thought:0.28
+  wallet:0.17
+  characters remind:0.17
+  crack:0.14
+  strong:0.14
+  weeksi:0.14
+  asked:0.14
+  portfolio:0.14
+
+Topic 1:
+  wrote:0.28
+  thought:0.28
+  english:0.27
+  wallet:0.17
+  characters remind:0.17
+  order:0.14
+  lesson:0.14
+  permutations:0.14
+  wrong:0.14
+  luck:0.14
+
+Topic 2:
+  english:0.28
+  thought:0.28
+  wrote:0.27
+  wallet:0.17
+  characters remind:0.17
+  save:0.14
+  ideas:0.14
+  recovery:0.14
+  strong:0.14
+  word:0.14
+
+Topic 3:
+  english:0.28
+  thought:0.28
+  wrote:0.28
+  wallet:0.17
+  characters remind:0.17
+  asked:0.14
+  bitcoin:0.14
+  ideas ideas:0.14
+  word:0.14
+  file:0.14
+
+Topic 4:
+  thought:0.28
+  wrote:0.28
+  english:0.28
+  characters remind:0.17
+  wallet:0.17
+  question:0.14
+  attempt:0.14
+  learned:0.14
+  luck:0.14
+  lesson:0.14
+
+K: 5, Log-Likelihood: -175.140, Alpha: 11.000, Beta: 1.100

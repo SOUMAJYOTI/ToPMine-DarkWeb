@@ -1,0 +1,61 @@
+Topic 0:
+  europe:0.16
+  ship:0.16
+  grams:0.16
+  nucleus:0.16
+  excellent:0.16
+  proffered:0.08
+  sites:0.08
+  cheers:0.08
+  valhalla:0.08
+  find:0.08
+
+Topic 1:
+  ship:0.16
+  grams:0.16
+  excellent:0.16
+  europe:0.16
+  nucleus:0.16
+  finland:0.08
+  buyer:0.08
+  switzerland:0.08
+  account:0.08
+  agora:0.08
+
+Topic 2:
+  excellent:0.16
+  grams:0.16
+  nucleus:0.16
+  ship:0.16
+  europe:0.16
+  listed:0.08
+  proffered:0.08
+  find:0.08
+  hope:0.08
+  customers:0.08
+
+Topic 3:
+  excellent:0.16
+  nucleus:0.16
+  grams:0.16
+  europe:0.16
+  ship:0.16
+  signature:0.08
+  customers:0.08
+  hope:0.08
+  listed:0.08
+  aim:0.08
+
+Topic 4:
+  nucleus:0.16
+  europe:0.16
+  ship:0.16
+  excellent:0.16
+  grams:0.16
+  signature:0.08
+  valhalla:0.08
+  sites:0.08
+  find:0.08
+  listed:0.08
+
+K: 5, Log-Likelihood: -60.009, Alpha: 11.000, Beta: 1.100

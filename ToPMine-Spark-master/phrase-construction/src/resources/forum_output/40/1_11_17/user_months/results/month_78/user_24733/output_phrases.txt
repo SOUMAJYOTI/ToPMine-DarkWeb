@@ -1,0 +1,61 @@
+Topic 0:
+  dont:0.31
+  pass:0.31
+  capital:0.30
+  questions:0.30
+  send:0.30
+  buy:0.30
+  portal:0.26
+  depends:0.26
+  letter:0.26
+  mail:0.26
+
+Topic 1:
+  portal:0.28
+  depends:0.28
+  mail:0.28
+  letter:0.28
+  pass:0.27
+  questions:0.27
+  buy:0.27
+  capital:0.27
+  send:0.27
+  dont:0.27
+
+Topic 2:
+  mail:0.28
+  letter:0.28
+  portal:0.28
+  depends:0.28
+  buy:0.27
+  questions:0.27
+  send:0.27
+  dont:0.27
+  pass:0.27
+  capital:0.27
+
+Topic 3:
+  capital:0.29
+  send:0.29
+  buy:0.29
+  dont:0.29
+  questions:0.29
+  pass:0.29
+  depends:0.27
+  portal:0.27
+  mail:0.26
+  letter:0.26
+
+Topic 4:
+  letter:0.31
+  mail:0.31
+  depends:0.30
+  portal:0.30
+  send:0.24
+  capital:0.24
+  buy:0.24
+  pass:0.24
+  questions:0.24
+  dont:0.24
+
+K: 5, Log-Likelihood: -331.871, Alpha: 11.000, Beta: 1.100

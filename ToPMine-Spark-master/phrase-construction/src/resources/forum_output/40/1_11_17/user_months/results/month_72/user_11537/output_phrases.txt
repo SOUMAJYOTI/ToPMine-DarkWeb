@@ -1,0 +1,61 @@
+Topic 0:
+  market products:2.87
+  joined:2.87
+  looked:2.87
+  invite products:2.87
+  improved:2.87
+  staff:2.87
+  left:2.87
+  reply:2.87
+  opened:2.87
+  good:2.53
+
+Topic 1:
+  join:1.58
+  joined dhl:1.52
+  honestly:1.52
+  substance:1.52
+  baby:1.52
+  style:1.52
+  stage:1.52
+  open:1.33
+  restricting membership stuff creating:1.32
+  market:1.29
+
+Topic 2:
+  days:2.81
+  feels:2.81
+  spamming:2.81
+  doesnt invite:2.81
+  quality:2.81
+  intention:2.81
+  instantly:2.80
+  unable:2.80
+  closed:2.80
+  registration:2.80
+
+Topic 3:
+  sense:4.10
+  perspective:2.45
+  volume business:2.43
+  mentioned:2.42
+  pmpersonally:2.42
+  arcane:2.42
+  create:2.41
+  limit:2.30
+  march:2.20
+  pmquote:1.74
+
+Topic 4:
+  effort:1.89
+  del:1.88
+  busy:1.84
+  worth:1.84
+  join:1.53
+  people sort exclusive club:1.31
+  pmhow:1.30
+  personally:1.29
+  interest proven post:1.29
+  find join:1.29
+
+K: 5, Log-Likelihood: -1273.150, Alpha: 11.000, Beta: 1.100

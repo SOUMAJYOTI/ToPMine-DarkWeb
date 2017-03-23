@@ -1,0 +1,61 @@
+Topic 0:
+  paid:2.62
+  send:1.97
+  unpaid:1.90
+  orders:1.77
+  stuff:1.64
+  mess:1.63
+  sounds:1.54
+  silkkitie:1.28
+  work:1.09
+  continue:0.93
+
+Topic 1:
+  work:2.05
+  paid:1.19
+  hold:0.93
+  normal:0.79
+  side:0.79
+  unfair:0.79
+  continue:0.79
+  send:0.77
+  silkkitie:0.73
+  mess:0.61
+
+Topic 2:
+  myynnit:2.32
+  silkkitie:1.66
+  work:1.17
+  json:1.11
+  vendors:1.11
+  possibility:1.11
+  project:1.10
+  things:1.10
+  pain:1.10
+  visual:1.10
+
+Topic 3:
+  work:1.63
+  silkkitie:1.29
+  myynnit:1.24
+  paid:1.01
+  hold:0.96
+  send:0.92
+  stuff:0.88
+  mess:0.84
+  customers:0.72
+  service:0.63
+
+Topic 4:
+  happened:4.88
+  dont:2.88
+  moment:2.02
+  skt:2.02
+  start:1.14
+  funds:0.98
+  post:0.98
+  order:0.98
+  faith:0.89
+  troublethere:0.89
+
+K: 5, Log-Likelihood: -1111.044, Alpha: 11.000, Beta: 1.100

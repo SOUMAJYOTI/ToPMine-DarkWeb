@@ -1,0 +1,61 @@
+Topic 0:
+  government:8.76
+  encryption:8.56
+  fake:5.11
+  worried:4.50
+  people:3.95
+  assured:3.79
+  rest:3.79
+  blame:3.73
+  incidents:3.63
+  terrorist:3.07
+
+Topic 1:
+  cards:11.93
+  draft:9.90
+  anonymous:9.07
+  paid:8.93
+  pre:8.93
+  payments:8.93
+  virtual:8.93
+  er:7.85
+  ministers:7.85
+  paris:7.79
+
+Topic 2:
+  darknet:5.91
+  money:5.23
+  software:4.94
+  post:4.94
+  dont:4.18
+  pgp:3.95
+  social:3.44
+  forums:3.08
+  hang:2.95
+  form:2.95
+
+Topic 3:
+  dhl:4.46
+  november:1.52
+  article:1.51
+  elegant:1.51
+  illegal:1.49
+  fuck:1.48
+  joke:1.48
+  build:1.47
+  users:1.28
+  fight:1.26
+
+Topic 4:
+  encryption:8.69
+  communications:7.09
+  security:4.35
+  quote:4.19
+  matter:3.83
+  situation:3.83
+  hey:3.75
+  encrypted:3.59
+  rights:3.37
+  november:3.26
+
+K: 5, Log-Likelihood: -7143.536, Alpha: 11.000, Beta: 1.100

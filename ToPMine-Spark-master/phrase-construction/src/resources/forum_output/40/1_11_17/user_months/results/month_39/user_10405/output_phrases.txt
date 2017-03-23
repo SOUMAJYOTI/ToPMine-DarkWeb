@@ -1,0 +1,61 @@
+Topic 0:
+  oft:5.09
+  dont:4.97
+  sldk february:4.54
+  coffin february pmquote:4.36
+  meant otr record messaging:4.36
+  amchat map oft torwhat:3.91
+  linux windows pidgin:3.89
+  setup screen mac adium:3.88
+  chat secure understand complete:3.88
+  instructions correctly setting pidgin:3.88
+
+Topic 1:
+  onions:6.21
+  onion:6.21
+  site:4.13
+  engine:4.13
+  management:4.13
+  search:4.13
+  account:2.26
+  addressed:2.05
+  indexed:2.05
+  harvesting:2.05
+
+Topic 2:
+  cookies effective mass distribution:4.04
+  locations cookies:4.04
+  small group accessing onion:4.04
+  chat client:3.88
+  onion staff access service:3.68
+  hsdirserv work onion accessed:3.67
+  encrypts identity rendevouz node:3.66
+  wrong aware isnt concern:3.66
+  lower potential traffic analysis:3.66
+  operators private:3.24
+
+Topic 3:
+  torchat:10.37
+  file:6.21
+  hidden service:6.21
+  thing:4.86
+  transfer:4.13
+  comment:4.13
+  ram:4.13
+  computer:4.13
+  worry:3.08
+  kind:3.08
+
+Topic 4:
+  saving:6.62
+  pgp:6.21
+  good:6.05
+  things:4.96
+  record keeping:4.96
+  encryption:4.13
+  control thing:4.13
+  kleopatra:4.13
+  person:4.13
+  thought:4.13
+
+K: 5, Log-Likelihood: -4610.301, Alpha: 11.000, Beta: 1.100

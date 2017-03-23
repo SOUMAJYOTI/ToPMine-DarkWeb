@@ -1,0 +1,61 @@
+Topic 0:
+  keys:10.13
+  tor:7.98
+  relay:6.98
+  hidden:6.98
+  identity:6.98
+  key:6.54
+  clients:5.28
+  opens:4.98
+  term:4.98
+  service:4.98
+
+Topic 1:
+  order:27.61
+  users:18.92
+  vendor:16.52
+  buyer:16.36
+  step:15.97
+  transaction:12.04
+  address:10.08
+  front:8.98
+  sign:8.10
+  escrow:8.04
+
+Topic 2:
+  work:3.65
+  compressed:3.38
+  multisig:3.18
+  process:2.89
+  dumpsterbaby:2.88
+  online:2.59
+  tumbling:2.49
+  cheers:2.44
+  sir:2.44
+  market:2.28
+
+Topic 3:
+  order:25.19
+  bazaar:22.41
+  vendor:18.69
+  vendors:15.35
+  multisig:14.99
+  buyers:13.66
+  address:13.28
+  public:11.93
+  key:11.71
+  transaction:10.93
+
+Topic 4:
+  pay:7.00
+  quote:5.73
+  markets:4.23
+  april:4.13
+  pretty:4.11
+  fee:3.93
+  comission:3.90
+  referred:3.87
+  forum:3.59
+  latest:3.43
+
+K: 5, Log-Likelihood: -11463.068, Alpha: 11.000, Beta: 1.100

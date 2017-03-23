@@ -1,0 +1,61 @@
+Topic 0:
+  security:1.05
+  discussion:0.81
+  topics:0.74
+  opsec:0.65
+  forward:0.63
+  school:0.53
+  future:0.52
+  post:0.52
+  thing:0.52
+  learn:0.51
+
+Topic 1:
+  security:1.10
+  opsec:1.06
+  school:0.78
+  start:0.74
+  learn:0.73
+  shit:0.72
+  post:0.72
+  future:0.71
+  thing:0.69
+  forward:0.54
+
+Topic 2:
+  security:0.98
+  opsec:0.88
+  shit:0.63
+  post:0.63
+  learn:0.63
+  future:0.62
+  thing:0.62
+  start:0.59
+  forward:0.59
+  school:0.58
+
+Topic 3:
+  security:0.94
+  opsec:0.73
+  topics:0.62
+  forward:0.61
+  start:0.60
+  learn:0.59
+  thing:0.59
+  future:0.58
+  discussion:0.58
+  shit:0.57
+
+Topic 4:
+  security:0.94
+  opsec:0.68
+  topics:0.65
+  discussion:0.65
+  forward:0.63
+  thing:0.59
+  shit:0.57
+  future:0.56
+  start:0.56
+  post:0.56
+
+K: 5, Log-Likelihood: -1405.224, Alpha: 11.000, Beta: 1.100

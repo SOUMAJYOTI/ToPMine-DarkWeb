@@ -1,0 +1,61 @@
+Topic 0:
+  vote:2.21
+  interested:0.99
+  hidden:0.77
+  real:0.69
+  services:0.60
+  february:0.58
+  quote:0.58
+  whonix:0.57
+  doesnt:0.53
+  workstation:0.53
+
+Topic 1:
+  whonix:1.42
+  impossible:1.22
+  gateway:1.11
+  real:1.06
+  workstation:1.06
+  ip:1.02
+  phoenix:0.99
+  high:0.98
+  anonymity:0.98
+  download:0.97
+
+Topic 2:
+  interest:3.60
+  dark:2.65
+  services:2.53
+  market:2.29
+  idiots:1.68
+  discussions:1.68
+  setup:1.68
+  developments:1.68
+  hidden:1.31
+  cool:0.73
+
+Topic 3:
+  services:1.26
+  hidden:1.24
+  market:1.24
+  real:0.83
+  stuff:0.65
+  tor:0.55
+  interested:0.39
+  doesnt:0.38
+  quote:0.34
+  february:0.34
+
+Topic 4:
+  workstation:2.08
+  gateway:2.05
+  impossible:1.96
+  whonix:1.62
+  anonymity:1.22
+  virtualbox:1.22
+  system:1.21
+  high:1.20
+  download:1.19
+  phoenix:1.19
+
+K: 5, Log-Likelihood: -835.826, Alpha: 11.000, Beta: 1.100

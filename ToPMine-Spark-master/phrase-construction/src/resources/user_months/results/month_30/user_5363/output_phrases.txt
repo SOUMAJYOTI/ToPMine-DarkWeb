@@ -1,0 +1,61 @@
+Topic 0:
+  tor network:14.09
+  tor:7.35
+  users:7.04
+  safe:7.04
+  network:5.96
+  authorities:4.69
+  evidence:4.69
+  directory:4.69
+  rights:4.69
+  members:4.69
+
+Topic 1:
+  tor:13.37
+  anonymity:9.39
+  guard:9.39
+  government:7.60
+  internet:5.23
+  thing:4.69
+  mass:4.69
+  times:4.69
+  funding:4.69
+  sites:4.69
+
+Topic 2:
+  december:6.26
+  quote:5.14
+  percentage:4.66
+  seizure servers:3.80
+  phrase:3.80
+  mention attack doesnt:3.80
+  walter:3.80
+  authority:3.80
+  imply:3.80
+  official:3.80
+
+Topic 3:
+  tails:14.27
+  start:6.52
+  quote el presidente january:6.23
+  install:5.78
+  boot menu:4.83
+  topic:4.67
+  great:4.67
+  marketplace:4.67
+  minutes:4.67
+  persistence:4.67
+
+Topic 4:
+  expansion:4.67
+  hooks:4.66
+  track:4.66
+  visible:4.59
+  government:4.32
+  grow larger power people:4.15
+  system:3.87
+  matter:3.85
+  reason disrupting enacting rules:3.66
+  governing internet president:3.66
+
+K: 5, Log-Likelihood: -10307.950, Alpha: 11.000, Beta: 1.100

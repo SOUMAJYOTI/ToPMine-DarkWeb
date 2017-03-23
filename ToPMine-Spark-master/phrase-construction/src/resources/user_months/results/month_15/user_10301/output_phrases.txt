@@ -1,0 +1,61 @@
+Topic 0:
+  cloud wallets:3.99
+  access:3.99
+  private:3.99
+  yeah:3.02
+  trust keys:2.80
+  keys:2.79
+  place:2.69
+  cold storage:2.46
+  key:1.98
+  havent:1.98
+
+Topic 1:
+  wallet:7.21
+  bitcoin:6.00
+  bitcoins:3.99
+  anonymity:3.99
+  service:3.99
+  bitcoin mixer:3.99
+  store:3.99
+  laundry:3.99
+  door issues:2.72
+  quote trc amyeah:2.55
+
+Topic 2:
+  barter:3.98
+  quote:3.41
+  time:3.16
+  vendor:3.16
+  wondering vendor:3.16
+  le:3.16
+  tactics:3.16
+  start:3.16
+  dnms:3.16
+  mistake:3.16
+
+Topic 3:
+  coins:8.03
+  wallet:7.37
+  btc:6.88
+  easy coin:6.88
+  subtract:4.00
+  lost:4.00
+  transfer:4.00
+  error:4.00
+  miner:4.00
+  paying:4.00
+
+Topic 4:
+  hard:4.35
+  profile:3.99
+  info:3.99
+  ur:3.99
+  chipsets:3.99
+  phone:3.99
+  tapped:3.99
+  computers:3.99
+  dont:3.99
+  build:3.99
+
+K: 5, Log-Likelihood: -4037.205, Alpha: 11.000, Beta: 1.100

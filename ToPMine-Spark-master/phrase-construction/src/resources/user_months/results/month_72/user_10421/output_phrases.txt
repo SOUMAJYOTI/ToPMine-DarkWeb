@@ -1,0 +1,61 @@
+Topic 0:
+  stay:3.93
+  shatter:3.93
+  tuned:3.93
+  juleswinnfield:3.93
+  exclusively:3.93
+  tracking:3.92
+  priority:3.92
+  domestic:3.92
+  plans:2.37
+  grams:2.37
+
+Topic 1:
+  multi sig:4.24
+  waiting:3.84
+  electrum hansa:3.48
+  check:2.96
+  hans:2.82
+  quote jules winnfield february:2.80
+  wow:2.59
+  beautiful:2.35
+  intuitive:2.35
+  ass:2.35
+
+Topic 2:
+  multisignature address:18.60
+  public key:16.75
+  redeem script:11.93
+  multisignature escrow:10.31
+  sign transaction:7.46
+  merchant:7.35
+  market:7.09
+  bitcoin address:6.92
+  bitcoin addresses:6.81
+  customer:6.42
+
+Topic 3:
+  hansa:7.69
+  central escrow markets:7.17
+  weve:5.75
+  busiest:4.77
+  remain:4.77
+  easy:4.77
+  surprise:4.77
+  experience:4.77
+  simple:4.77
+  escrow system:4.11
+
+Topic 4:
+  multisignature address:12.56
+  redeem script:12.03
+  public key:9.61
+  market:9.00
+  timelock transaction:6.92
+  sign transaction:6.71
+  multisignature escrow:6.46
+  receive:6.20
+  order:5.89
+  address:5.88
+
+K: 5, Log-Likelihood: -11899.734, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  message:1.15
+  open:0.61
+  odt:0.57
+  text:0.56
+  long:0.46
+  hope:0.45
+  clipboard:0.43
+  press:0.43
+  copy:0.43
+  paste:0.43
+
+Topic 1:
+  message:0.85
+  odt:0.63
+  open:0.62
+  text:0.61
+  press:0.49
+  paste:0.49
+  clipboard:0.49
+  hope:0.48
+  copy:0.48
+  included:0.48
+
+Topic 2:
+  message:1.39
+  long:0.90
+  text:0.59
+  open:0.59
+  odt:0.57
+  encrusted:0.43
+  encrypt:0.42
+  hope:0.33
+  copy:0.33
+  paste:0.33
+
+Topic 3:
+  message:1.17
+  text:0.62
+  open:0.61
+  odt:0.59
+  long:0.49
+  included:0.42
+  copy:0.42
+  paste:0.41
+  clipboard:0.41
+  press:0.41
+
+Topic 4:
+  message:1.45
+  long:0.78
+  odt:0.63
+  text:0.62
+  open:0.57
+  encrypt:0.43
+  encrusted:0.41
+  paste:0.34
+  copy:0.34
+  included:0.34
+
+K: 5, Log-Likelihood: -301.184, Alpha: 11.000, Beta: 1.100

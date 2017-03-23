@@ -1,0 +1,61 @@
+Topic 0:
+  blah:1.01
+  message:0.81
+  day:0.40
+  registered:0.40
+  time:0.40
+  option:0.40
+  bit:0.40
+  good:0.40
+  set:0.40
+  sigaint:0.40
+
+Topic 1:
+  blah:1.05
+  message:0.74
+  good:0.40
+  option:0.40
+  registered:0.40
+  sigaint:0.40
+  time:0.40
+  day:0.40
+  bit:0.40
+  set:0.40
+
+Topic 2:
+  blah:1.05
+  message:0.80
+  option:0.40
+  bit:0.40
+  registered:0.40
+  set:0.40
+  sigaint:0.40
+  day:0.40
+  good:0.40
+  time:0.39
+
+Topic 3:
+  blah:0.96
+  message:0.82
+  bit:0.40
+  time:0.40
+  sigaint:0.40
+  day:0.40
+  good:0.40
+  registered:0.40
+  set:0.40
+  option:0.40
+
+Topic 4:
+  blah:0.93
+  message:0.83
+  set:0.41
+  sigaint:0.40
+  time:0.40
+  bit:0.40
+  day:0.40
+  good:0.40
+  registered:0.40
+  option:0.40
+
+K: 5, Log-Likelihood: -87.566, Alpha: 11.000, Beta: 1.100

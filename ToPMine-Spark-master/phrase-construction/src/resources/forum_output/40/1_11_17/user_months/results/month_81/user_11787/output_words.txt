@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:14.13
+  cyprus:6.96
+  country:6.91
+  people:3.87
+  hub:2.96
+  bank:2.96
+  rise:2.65
+  exchanges:2.63
+  price:2.58
+  long:2.52
+
+Topic 1:
+  people:7.44
+  things:6.82
+  personally:5.48
+  mtgox:4.73
+  hit:4.37
+  magicaltux:4.37
+  pushing:4.27
+  bitcoin:3.93
+  keyboard:3.53
+  sleep:3.47
+
+Topic 2:
+  coins:4.76
+  identity:1.85
+  stolen:1.82
+  guy:1.81
+  circulation:1.78
+  caused:1.77
+  views:1.76
+  moving:1.76
+  worry:1.76
+  kraken:1.74
+
+Topic 3:
+  karpeles:4.23
+  gox:3.57
+  source:2.96
+  exchange:2.67
+  storage:1.96
+  knowledge:1.96
+  allegedly:1.96
+  believes:1.96
+  mt:1.96
+  bitpay:1.96
+
+Topic 4:
+  mtgox:3.70
+  bitcoin:3.47
+  things:2.90
+  people:2.24
+  btc:2.01
+  gox:1.32
+  feel:1.17
+  long:1.02
+  work:0.82
+  cryptocurrency:0.73
+
+K: 5, Log-Likelihood: -4701.663, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  fa fu:1.68
+  time:1.66
+  piratey darkness:1.55
+  market:1.35
+  team:1.02
+  aspersions:1.01
+  failed:1.01
+  credentials:1.01
+  usernames:1.00
+  password:1.00
+
+Topic 1:
+  market:0.95
+  piratey darkness:0.94
+  fa fu:0.86
+  time:0.83
+  users:0.63
+  accounts:0.63
+  login:0.63
+  nefarious market:0.62
+  secure:0.62
+  password:0.62
+
+Topic 2:
+  lmfbo:0.61
+  guesses:0.60
+  people:0.50
+  markets:0.43
+  dont:0.34
+  darling:0.33
+  quantities:0.33
+  multi:0.33
+  continue:0.33
+  candidate:0.33
+
+Topic 3:
+  people:2.10
+  multi sig:1.99
+  thing:1.99
+  sr implemented:1.67
+  poor:0.91
+  rep:0.91
+  andromeda:0.91
+  problems:0.91
+  options:0.91
+  markets evolution:0.91
+
+Topic 4:
+  market:0.92
+  piratey darkness:0.69
+  time:0.69
+  fa fu:0.65
+  nefarious market:0.49
+  failed:0.49
+  users:0.49
+  accounts:0.48
+  passwords:0.48
+  aspersions:0.48
+
+K: 5, Log-Likelihood: -1204.521, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  address:0.56
+  download:0.56
+  vm:0.56
+  workstation:0.56
+  tor:0.55
+  key:0.55
+  choose:0.55
+  whonix:0.54
+  ll:0.46
+  youll:0.42
+
+Topic 1:
+  address:0.55
+  choose:0.55
+  key:0.55
+  whonix:0.55
+  workstation:0.54
+  tor:0.54
+  download:0.54
+  vm:0.54
+  ll:0.44
+  youll:0.42
+
+Topic 2:
+  tor:0.57
+  whonix:0.57
+  vm:0.57
+  choose:0.57
+  workstation:0.56
+  key:0.56
+  address:0.55
+  download:0.55
+  youll:0.45
+  ll:0.45
+
+Topic 3:
+  download:0.56
+  choose:0.56
+  workstation:0.56
+  whonix:0.55
+  address:0.55
+  key:0.55
+  tor:0.54
+  vm:0.54
+  youll:0.45
+  ll:0.42
+
+Topic 4:
+  key:0.57
+  whonix:0.57
+  vm:0.57
+  download:0.57
+  tor:0.56
+  address:0.56
+  workstation:0.55
+  choose:0.55
+  youll:0.46
+  ll:0.43
+
+K: 5, Log-Likelihood: -660.895, Alpha: 11.000, Beta: 1.100

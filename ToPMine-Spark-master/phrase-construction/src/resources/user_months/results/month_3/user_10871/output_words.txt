@@ -1,0 +1,61 @@
+Topic 0:
+  real:5.35
+  ids:4.71
+  fake:3.52
+  person:1.73
+  pass:1.26
+  ideas:1.16
+  road:1.16
+  data:1.16
+  warrents:1.15
+  fucked:1.15
+
+Topic 1:
+  fake:2.27
+  ids:2.03
+  dont:1.65
+  pictures:1.22
+  february:1.07
+  news:0.93
+  pass:0.91
+  misterreplicator:0.87
+  waiting:0.87
+  market:0.87
+
+Topic 2:
+  ids:3.83
+  vendor:2.79
+  fake:2.07
+  operate:1.79
+  busting:1.79
+  vendors:1.39
+  feds:0.98
+  random:0.81
+  fakes:0.81
+  package:0.81
+
+Topic 3:
+  fake:10.11
+  people:4.32
+  jail:3.87
+  threat:2.87
+  elses:2.19
+  drivers:1.87
+  america:1.87
+  bank:1.87
+  stolen:1.87
+  thing:1.87
+
+Topic 4:
+  fake:6.04
+  ids:1.88
+  real:1.46
+  dont:1.12
+  people:1.02
+  cooked:0.93
+  pull:0.70
+  good:0.64
+  person:0.64
+  quality:0.64
+
+K: 5, Log-Likelihood: -1647.014, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  pending:8.44
+  balance:8.23
+  escrow:3.63
+  shipped:2.88
+  marked:2.88
+  people:1.61
+  receiving:1.59
+  hasnt:1.59
+  finalized:1.58
+  goods:1.30
+
+Topic 1:
+  vote:2.55
+  amount:2.21
+  vendors:1.79
+  change:1.78
+  full:1.77
+  quote:1.52
+  sr:1.51
+  blockchain:1.25
+  add:1.24
+  march:1.22
+
+Topic 2:
+  account:2.88
+  sr:2.53
+  money:2.43
+  havent:2.42
+  repaid:2.15
+  amount:1.97
+  vote:1.60
+  small:1.46
+  pending:1.43
+  purchase:1.36
+
+Topic 3:
+  situation:3.21
+  add:3.17
+  announcement:2.80
+  half:2.33
+  days:2.18
+  admin:1.94
+  weekend:1.80
+  march:1.66
+  quote:1.65
+  couple:1.53
+
+Topic 4:
+  announcement:8.95
+  weekend:4.43
+  time:4.40
+  community:4.37
+  add:4.04
+  days:4.03
+  half:3.86
+  situation:3.80
+  admin:3.42
+  expected:2.80
+
+K: 5, Log-Likelihood: -2450.019, Alpha: 11.000, Beta: 1.100

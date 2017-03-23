@@ -1,0 +1,61 @@
+Topic 0:
+  pallidpallas april amquote:1.85
+  scenario admit love:1.50
+  machines surprise zaphodand:1.50
+  hint poetic justice:1.50
+  idea thegreenmachine sort:1.50
+  pmquote lock march:1.50
+  dn robin hood stealing:1.43
+  pouring profits worthwhile dont:1.36
+  embark career:1.35
+  causing strangers distress:1.35
+
+Topic 1:
+  site:6.39
+  post:4.78
+  guy:3.17
+  called:3.17
+  months:3.17
+  check:3.17
+  btw:3.17
+  btc:3.17
+  web:1.70
+  deep:1.70
+
+Topic 2:
+  vendors:4.77
+  view:1.55
+  clear:1.55
+  buyer:1.55
+  button:1.55
+  hit:1.55
+  forum:1.55
+  scamming:1.55
+  deals:1.55
+  username:1.55
+
+Topic 3:
+  idea thegreenmachine sort dn:2.49
+  distress pouring profits worthwhile:2.45
+  pmquote lock march pmscammers:2.17
+  lowest losers hint poetic:2.17
+  justice scenario admit love:2.17
+  dont:2.16
+  traumatized result identity theft:2.08
+  justanothernumber march:1.71
+  tesla turn income:1.70
+  robin hood stealing embark:1.41
+
+Topic 4:
+  understood:3.12
+  freedom:3.11
+  atmosphere:1.51
+  darknet:1.51
+  difference:1.51
+  honestly:1.51
+  real:1.51
+  article:1.51
+  fuck:1.51
+  ill:1.51
+
+K: 5, Log-Likelihood: -2391.808, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  message:0.78
+  error:0.62
+  user:0.41
+  limit:0.40
+  hours:0.40
+  reached:0.40
+  working:0.40
+  referred:0.40
+  registrations:0.40
+  normal:0.20
+
+Topic 1:
+  message:0.86
+  error:0.60
+  referred:0.40
+  limit:0.40
+  user:0.40
+  working:0.40
+  hours:0.39
+  registrations:0.39
+  reached:0.39
+  admins:0.20
+
+Topic 2:
+  message:0.78
+  error:0.59
+  registrations:0.41
+  limit:0.40
+  referred:0.40
+  user:0.40
+  reached:0.40
+  working:0.40
+  hours:0.40
+  scenes:0.20
+
+Topic 3:
+  message:0.79
+  error:0.58
+  registrations:0.41
+  working:0.40
+  reached:0.40
+  hours:0.40
+  user:0.40
+  referred:0.40
+  limit:0.40
+  day:0.20
+
+Topic 4:
+  message:0.77
+  error:0.61
+  hours:0.41
+  reached:0.41
+  working:0.40
+  limit:0.40
+  referred:0.40
+  registrations:0.40
+  user:0.40
+  indefinitely:0.20
+
+K: 5, Log-Likelihood: -148.588, Alpha: 11.000, Beta: 1.100

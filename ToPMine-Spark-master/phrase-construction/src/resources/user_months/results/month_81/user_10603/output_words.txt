@@ -1,0 +1,61 @@
+Topic 0:
+  security:0.60
+  private:0.40
+  importing:0.20
+  key:0.20
+  thread:0.20
+  convenience:0.20
+  electrum:0.20
+  linked:0.20
+  crypto:0.20
+  nodes:0.20
+
+Topic 1:
+  security:0.60
+  private:0.40
+  contact:0.20
+  wallet:0.20
+  nodes:0.20
+  keys:0.20
+  risk:0.20
+  electrum:0.20
+  time:0.20
+  cost:0.20
+
+Topic 2:
+  security:0.60
+  private:0.40
+  keys:0.20
+  convenience:0.20
+  crypto:0.20
+  time:0.20
+  contact:0.20
+  thread:0.20
+  wallet:0.20
+  linked:0.20
+
+Topic 3:
+  security:0.60
+  private:0.40
+  time:0.20
+  key:0.20
+  cost:0.20
+  contact:0.20
+  keys:0.20
+  crypto:0.20
+  electrum:0.20
+  importing:0.20
+
+Topic 4:
+  security:0.60
+  private:0.40
+  risk:0.20
+  thread:0.20
+  wallet:0.20
+  convenience:0.20
+  electrum:0.20
+  linked:0.20
+  cost:0.20
+  nodes:0.20
+
+K: 5, Log-Likelihood: -51.702, Alpha: 11.000, Beta: 1.100

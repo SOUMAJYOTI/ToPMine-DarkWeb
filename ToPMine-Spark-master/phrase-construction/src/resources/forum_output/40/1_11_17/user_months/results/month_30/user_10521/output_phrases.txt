@@ -1,0 +1,61 @@
+Topic 0:
+  key:0.98
+  public key:0.86
+  code select:0.61
+  gnupg:0.60
+  trust:0.56
+  command code select gpg:0.56
+  enter:0.46
+  user:0.46
+  expunged created expires usage:0.41
+  text:0.35
+
+Topic 1:
+  public key:2.22
+  key:1.61
+  code select:0.97
+  gnupg:0.96
+  command code select gpg:0.77
+  trust:0.76
+  user:0.72
+  enter:0.70
+  expunged created expires usage:0.58
+  message:0.49
+
+Topic 2:
+  key:1.17
+  public key:0.97
+  code select:0.81
+  gnupg:0.64
+  trust:0.61
+  command code select gpg:0.58
+  user:0.51
+  enter:0.51
+  expunged created expires usage:0.45
+  text:0.38
+
+Topic 3:
+  key:1.14
+  public key:1.12
+  code select:0.66
+  gnupg:0.61
+  trust:0.58
+  command code select gpg:0.56
+  user:0.52
+  enter:0.52
+  expunged created expires usage:0.44
+  expunged:0.37
+
+Topic 4:
+  public key:1.72
+  key:1.18
+  code select:1.01
+  gnupg:0.84
+  command code select gpg:0.77
+  trust:0.73
+  enter:0.65
+  user:0.62
+  expunged created expires usage:0.55
+  key expires:0.45
+
+K: 5, Log-Likelihood: -3373.373, Alpha: 11.000, Beta: 1.100

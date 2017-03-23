@@ -1,0 +1,61 @@
+Topic 0:
+  sad:0.41
+  link:0.40
+  story:0.40
+  true:0.20
+  hidden:0.20
+  year:0.20
+  covered:0.20
+  blew:0.20
+  head:0.20
+  farmer:0.20
+
+Topic 1:
+  link:0.40
+  story:0.40
+  sad:0.40
+  blew:0.20
+  hidden:0.20
+  month:0.20
+  farmer:0.20
+  head:0.20
+  basement:0.20
+  cherry:0.20
+
+Topic 2:
+  story:0.40
+  link:0.40
+  sad:0.40
+  basement:0.20
+  month:0.20
+  cherry:0.20
+  business:0.20
+  covered:0.20
+  brooklyn:0.20
+  year:0.20
+
+Topic 3:
+  story:0.41
+  sad:0.40
+  link:0.40
+  year:0.20
+  covered:0.20
+  farmer:0.20
+  head:0.20
+  brooklyn:0.20
+  cherry:0.20
+  business:0.20
+
+Topic 4:
+  sad:0.40
+  link:0.40
+  story:0.40
+  pot:0.20
+  month:0.20
+  true:0.20
+  brooklyn:0.20
+  business:0.20
+  basement:0.20
+  covered:0.20
+
+K: 5, Log-Likelihood: -51.852, Alpha: 11.000, Beta: 1.100

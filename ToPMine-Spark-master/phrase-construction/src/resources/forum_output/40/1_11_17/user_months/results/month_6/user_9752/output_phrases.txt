@@ -1,0 +1,61 @@
+Topic 0:
+  site:1.52
+  coins:1.09
+  shit:1.09
+  defcon:1.05
+  time:0.98
+  reddit:0.66
+  funds:0.65
+  hack:0.65
+  doctorclu:0.65
+  constantly:0.65
+
+Topic 1:
+  people:0.55
+  smell:0.31
+  money hacker:0.31
+  burning:0.31
+  wake:0.31
+  pointing:0.31
+  site:0.31
+  clever:0.30
+  sr:0.28
+  coins:0.28
+
+Topic 2:
+  escrow:1.70
+  system:1.70
+  ripped:1.70
+  vendors:0.93
+  multi:0.80
+  hit:0.80
+  admin:0.80
+  fishy:0.80
+  idiot:0.80
+  guys:0.80
+
+Topic 3:
+  site:1.42
+  time:1.14
+  defcon:1.06
+  shit:1.03
+  coins:1.02
+  cold:0.68
+  squealer:0.68
+  storage:0.68
+  chemcat:0.67
+  possibility:0.67
+
+Topic 4:
+  people:0.53
+  site:0.38
+  defcon:0.33
+  coins:0.33
+  shit:0.32
+  time:0.32
+  sr:0.28
+  pointing:0.27
+  wake:0.27
+  smell:0.27
+
+K: 5, Log-Likelihood: -1359.317, Alpha: 11.000, Beta: 1.100

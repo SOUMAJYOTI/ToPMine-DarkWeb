@@ -1,0 +1,61 @@
+Topic 0:
+  passport:3.76
+  country:2.18
+  vista free travel:1.72
+  government:1.55
+  plan:1.26
+  privacy:1.22
+  panama:1.20
+  internet:1.17
+  bank account:1.15
+  banking:1.13
+
+Topic 1:
+  passport:2.17
+  country:1.48
+  vista free travel:1.35
+  government:1.11
+  bank account:1.07
+  banking:1.01
+  internet:0.98
+  privacy:0.95
+  plan:0.95
+  panama:0.92
+
+Topic 2:
+  exit:3.14
+  long:2.05
+  buy:2.03
+  sell:2.03
+  market:1.93
+  confirm:1.75
+  office:1.74
+  time:1.18
+  hours:1.16
+  save:0.97
+
+Topic 3:
+  passport:2.67
+  country:1.67
+  government:1.56
+  vista free travel:1.16
+  panama:1.02
+  banking:1.01
+  internet:0.99
+  privacy:0.98
+  plan:0.93
+  bank account:0.93
+
+Topic 4:
+  concept:0.65
+  buyers:0.65
+  profile:0.65
+  seller:0.65
+  site:0.55
+  happened:0.40
+  office:0.34
+  confirm:0.33
+  time:0.33
+  tochka:0.31
+
+K: 5, Log-Likelihood: -2980.336, Alpha: 11.000, Beta: 1.100

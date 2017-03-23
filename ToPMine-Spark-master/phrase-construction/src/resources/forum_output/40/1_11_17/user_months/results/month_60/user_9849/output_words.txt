@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:1.23
+  market:0.96
+  contact:0.85
+  start:0.73
+  substances:0.44
+  time:0.44
+  online:0.44
+  homework:0.43
+  imputable:0.43
+  buyer:0.43
+
+Topic 1:
+  partner:3.58
+  markets:1.61
+  drugs:1.61
+  good:1.61
+  money:1.61
+  lot:1.60
+  contact:1.35
+  mdma:0.67
+  active:0.67
+  black:0.67
+
+Topic 2:
+  vendors:2.03
+  typically:0.75
+  allowed:0.75
+  time:0.74
+  online:0.74
+  imputable:0.74
+  homework:0.74
+  buyer:0.74
+  substances:0.74
+  contact:0.65
+
+Topic 3:
+  vendors:1.83
+  market:0.99
+  start:0.68
+  contact:0.61
+  buyer:0.54
+  imputable:0.54
+  homework:0.54
+  allowed:0.54
+  substances:0.54
+  typically:0.54
+
+Topic 4:
+  market:3.42
+  start:2.09
+  registration:0.82
+  join:0.81
+  build:0.81
+  longest:0.81
+  staying:0.81
+  link:0.81
+  devoted:0.81
+  running:0.80
+
+K: 5, Log-Likelihood: -470.086, Alpha: 11.000, Beta: 1.100

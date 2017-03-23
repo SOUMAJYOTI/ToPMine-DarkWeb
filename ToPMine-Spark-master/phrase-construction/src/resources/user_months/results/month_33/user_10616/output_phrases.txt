@@ -1,0 +1,61 @@
+Topic 0:
+  admin:0.37
+  ccc:0.36
+  mixing coins:0.22
+  receive:0.20
+  transfer:0.20
+  bitcoin:0.20
+  service:0.20
+  evolution:0.18
+  bought:0.18
+  short:0.18
+
+Topic 1:
+  ccc:0.38
+  admin:0.37
+  mixing coins:0.22
+  receive:0.20
+  bitcoin:0.20
+  service:0.20
+  transfer:0.20
+  xhydra:0.18
+  proceeds:0.18
+  good:0.18
+
+Topic 2:
+  admin:0.37
+  ccc:0.37
+  mixing coins:0.22
+  service:0.20
+  transfer:0.20
+  bitcoin:0.20
+  receive:0.20
+  lot:0.18
+  xhydra:0.18
+  code:0.18
+
+Topic 3:
+  admin:0.37
+  ccc:0.37
+  mixing coins:0.22
+  transfer:0.20
+  bitcoin:0.20
+  receive:0.20
+  service:0.20
+  contacted:0.18
+  url:0.18
+  proceeds:0.18
+
+Topic 4:
+  admin:0.36
+  ccc:0.36
+  mixing coins:0.22
+  bitcoin:0.20
+  service:0.20
+  receive:0.20
+  transfer:0.20
+  question:0.19
+  market:0.19
+  bitcoins:0.19
+
+K: 5, Log-Likelihood: -143.665, Alpha: 11.000, Beta: 1.100

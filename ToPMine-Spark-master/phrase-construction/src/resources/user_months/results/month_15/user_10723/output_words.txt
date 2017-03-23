@@ -1,0 +1,61 @@
+Topic 0:
+  receive:0.86
+  bitcoins:0.85
+  invited:0.41
+  profit:0.41
+  user:0.41
+  time:0.39
+  day:0.37
+  system:0.20
+  decided:0.20
+  buy:0.20
+
+Topic 1:
+  bitcoins:0.89
+  receive:0.87
+  user:0.43
+  invited:0.43
+  profit:0.42
+  time:0.38
+  day:0.35
+  change:0.21
+  vendor:0.21
+  felt:0.21
+
+Topic 2:
+  bitcoins:0.82
+  receive:0.82
+  user:0.41
+  invited:0.41
+  profit:0.40
+  time:0.40
+  day:0.38
+  felt:0.20
+  product:0.20
+  useless:0.20
+
+Topic 3:
+  bitcoins:0.73
+  receive:0.71
+  day:0.46
+  time:0.41
+  profit:0.38
+  user:0.37
+  invited:0.37
+  host:0.22
+  problems:0.22
+  crashed:0.22
+
+Topic 4:
+  receive:0.74
+  bitcoins:0.70
+  day:0.45
+  time:0.42
+  profit:0.39
+  user:0.38
+  invited:0.38
+  yesterday:0.21
+  crashed:0.21
+  server:0.21
+
+K: 5, Log-Likelihood: -125.839, Alpha: 11.000, Beta: 1.100

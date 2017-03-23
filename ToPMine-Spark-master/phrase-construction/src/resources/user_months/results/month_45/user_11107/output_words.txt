@@ -1,0 +1,61 @@
+Topic 0:
+  site:3.74
+  people:3.40
+  years:1.86
+  fake:1.86
+  scamming:1.61
+  effort:1.47
+  money:1.28
+  march:1.23
+  weapons:1.09
+  tesla:0.99
+
+Topic 1:
+  hub:4.38
+  evo:3.94
+  april:3.87
+  sweet:3.25
+  amquote:2.83
+  scam:2.64
+  scammers:2.19
+  time:2.10
+  forums:2.10
+  carders:2.03
+
+Topic 2:
+  amquote:1.99
+  april:1.93
+  march:1.62
+  scam:1.57
+  tesla:1.50
+  dont:1.39
+  money:1.39
+  love:1.36
+  pallidpallas:1.34
+  pmquote:1.27
+
+Topic 3:
+  april:2.70
+  amquote:2.58
+  sweet:2.15
+  tesla:1.90
+  income:1.85
+  scam:1.81
+  losers:1.68
+  dont:1.67
+  pallidpallas:1.60
+  march:1.60
+
+Topic 4:
+  march:4.20
+  tesla:3.30
+  justanothernumber:2.00
+  idea:1.98
+  prolly:1.98
+  strangers:1.98
+  causing:1.97
+  sort:1.96
+  folks:1.95
+  robin:1.93
+
+K: 5, Log-Likelihood: -2495.753, Alpha: 11.000, Beta: 1.100

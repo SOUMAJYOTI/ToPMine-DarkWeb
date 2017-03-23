@@ -1,0 +1,61 @@
+Topic 0:
+  drug:5.28
+  thought:4.55
+  guy:4.01
+  suppose:4.01
+  transparency:4.01
+  humans:4.01
+  user:2.58
+  hoot:2.58
+  patterns:2.58
+  wrist:2.58
+
+Topic 1:
+  people:5.10
+  fighting:3.99
+  revolution:3.99
+  lazy:3.99
+  govt:3.99
+  fuck:3.15
+  dont:3.15
+  trust:3.11
+  understand dont:3.11
+  worse:3.11
+
+Topic 2:
+  system:4.32
+  instructions:3.98
+  write:3.98
+  sense:3.85
+  hackers:3.15
+  flash bios:3.15
+  mode:3.15
+  kali:2.58
+  vm:2.58
+  bam:1.97
+
+Topic 3:
+  allot:3.99
+  private:3.99
+  malware:3.14
+  runs:3.13
+  free software:3.13
+  trouble:3.13
+  atop:3.13
+  require:3.13
+  replace:3.13
+  free:3.13
+
+Topic 4:
+  hardware:4.01
+  happen:4.01
+  thing:4.01
+  bios:3.24
+  software:2.36
+  unclean:2.31
+  info:2.31
+  wabbit:2.14
+  scaring:2.14
+  obi:2.01
+
+K: 5, Log-Likelihood: -5605.303, Alpha: 11.000, Beta: 1.100

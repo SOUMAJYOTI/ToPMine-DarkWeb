@@ -1,0 +1,61 @@
+Topic 0:
+  side:13.02
+  market:11.03
+  time:10.15
+  wrong:8.64
+  system:8.50
+  conflict:8.46
+  skilled:8.42
+  fucked:7.99
+  helping:7.80
+  le:7.63
+
+Topic 1:
+  february:5.46
+  quote:4.12
+  nevermind:3.76
+  le:3.10
+  police:2.29
+  bad:2.24
+  troll:2.09
+  people:2.03
+  fucked:1.77
+  wrong:1.67
+
+Topic 2:
+  shifty:5.85
+  turned:5.41
+  february:4.60
+  users:3.97
+  terrible:3.84
+  actions:3.61
+  ip:3.18
+  claiming:3.15
+  authorities:3.12
+  idiot:2.86
+
+Topic 3:
+  quote:7.31
+  february:6.59
+  nevermind:3.79
+  police:2.14
+  didnt:1.80
+  peoples:1.69
+  safe:1.66
+  guess:1.60
+  actions:1.29
+  contact:1.28
+
+Topic 4:
+  quote:3.57
+  topic:2.88
+  forum:2.78
+  cosa:2.76
+  people:2.27
+  staff:2.00
+  worst:1.93
+  issue:1.93
+  police:1.86
+  ils:1.85
+
+K: 5, Log-Likelihood: -6293.786, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  acas:2.72
+  security:1.44
+  darknet market:1.42
+  pgp:1.06
+  join acts market:0.77
+  selling controlled substances:0.76
+  vendors:0.76
+  customer support acas:0.75
+  users:0.75
+  factor authentication:0.75
+
+Topic 1:
+  acas:6.60
+  darknet market:2.00
+  security:1.86
+  pgp:1.42
+  vendors:0.95
+  acas darknet markets:0.95
+  user:0.94
+  join acts market:0.92
+  acas offers:0.91
+  users:0.90
+
+Topic 2:
+  acas:4.94
+  darknet market:1.65
+  security:1.58
+  pgp:1.23
+  factor authentication:0.87
+  acas offers:0.85
+  link:0.84
+  selling controlled substances:0.84
+  customer support acas:0.84
+  attacks:0.84
+
+Topic 3:
+  misspelled:4.91
+  word:3.66
+  categories:1.16
+  tweaker:1.16
+  peeled:1.16
+  precousors:1.16
+  precursors:1.16
+  opiods:1.16
+  spelling:1.16
+  professional:1.16
+
+Topic 4:
+  acas:2.54
+  security:1.78
+  darknet market:1.58
+  pgp:1.26
+  selling controlled substances:0.83
+  link:0.83
+  users:0.83
+  attacks:0.81
+  customer support acas:0.81
+  join acts market:0.80
+
+K: 5, Log-Likelihood: -1999.250, Alpha: 11.000, Beta: 1.100

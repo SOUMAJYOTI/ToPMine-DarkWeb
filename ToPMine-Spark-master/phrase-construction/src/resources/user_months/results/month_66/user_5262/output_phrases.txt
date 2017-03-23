@@ -1,0 +1,61 @@
+Topic 0:
+  silk road:4.63
+  quote bonobo january:4.61
+  ideal:2.12
+  seized:2.11
+  plainest:2.11
+  absolutely:2.11
+  feds:2.11
+  correct:2.11
+  correctly:2.11
+  encrypted:2.11
+
+Topic 1:
+  fro:0.77
+  standalone:0.77
+  pursoses:0.77
+  dont:0.76
+  pgp:0.76
+  email encryption:0.76
+  darknet:0.76
+  tool:0.76
+  yeah:0.76
+  losing mind figure:0.72
+
+Topic 2:
+  gpa good:1.14
+  message vendors:1.01
+  program:0.96
+  tutorial set communicate vendors:0.96
+  gpg:0.93
+  people encryption send encrusted:0.93
+  good:0.93
+  set pgp key email:0.92
+  osx:0.92
+  site gpg secured message:0.92
+
+Topic 3:
+  gpg usb:0.76
+  pgpwin version portable:0.74
+  tails:0.73
+  leave traces anycase:0.72
+  windows:0.65
+  spitfire:0.65
+  regular making single large:0.59
+  order windows:0.59
+  message box site:0.57
+  losing mind figure:0.56
+
+Topic 4:
+  site gpg secured message:1.44
+  email account vfemail net:1.40
+  set:1.39
+  figure pgp gpg stuff:1.38
+  direct straightforward plain english:1.37
+  people encryption send encrusted:1.36
+  purpleturkey:1.34
+  set pgp key email:1.34
+  message vendors:1.33
+  tutorial set communicate vendors:1.32
+
+K: 5, Log-Likelihood: -930.952, Alpha: 11.000, Beta: 1.100

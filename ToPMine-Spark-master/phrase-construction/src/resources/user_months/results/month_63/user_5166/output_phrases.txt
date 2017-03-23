@@ -1,0 +1,61 @@
+Topic 0:
+  strange:2.18
+  replace:2.14
+  remember:2.14
+  played:2.13
+  attempt:2.12
+  thinks:2.10
+  search:2.09
+  send:1.74
+  exists:1.73
+  confused:1.73
+
+Topic 1:
+  message:3.90
+  error:3.90
+  word replaced:2.74
+  language:1.89
+  interesting:1.89
+  forbidden:1.89
+  occurred:1.89
+  posting:1.89
+  wrote:1.89
+  improve:1.89
+
+Topic 2:
+  site:4.01
+  jf:2.95
+  yesterday:2.94
+  info:2.94
+  spooked:2.94
+  admins:2.94
+  thing love avengers marketplace:2.94
+  place:2.94
+  word:2.94
+  reference:2.94
+
+Topic 3:
+  dont:5.07
+  long:3.92
+  post:3.92
+  tmg:2.89
+  fundamental:2.89
+  missing:2.89
+  official:2.89
+  mention word:2.89
+  policy:2.89
+  dude:1.91
+
+Topic 4:
+  link:3.24
+  love avengers marketplace:3.18
+  onion:2.97
+  guys:2.97
+  lots:2.97
+  feel:2.96
+  working:2.96
+  stupid:2.96
+  links:2.96
+  invite:2.96
+
+K: 5, Log-Likelihood: -1207.656, Alpha: 11.000, Beta: 1.100

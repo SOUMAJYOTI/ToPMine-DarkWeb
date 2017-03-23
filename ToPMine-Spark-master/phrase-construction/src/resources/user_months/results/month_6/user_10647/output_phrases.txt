@@ -1,0 +1,61 @@
+Topic 0:
+  tor:1.76
+  torchat:0.92
+  ve:0.91
+  goals:0.89
+  implementation:0.82
+  torsion:0.81
+  interested:0.78
+  major:0.76
+  people:0.75
+  hidden service:0.75
+
+Topic 1:
+  encryption:2.90
+  whichever:2.80
+  pythons:2.79
+  updated:2.05
+  ldd:2.05
+  handles:1.40
+  linked:1.40
+  hidden:1.40
+  doesnt:1.40
+  find:1.40
+
+Topic 2:
+  built:5.97
+  system:4.00
+  bitmessage:2.96
+  moment:2.96
+  python:2.96
+  application:2.96
+  anonymity:2.96
+  opens libraries:2.96
+  directly:2.96
+  pre:2.96
+
+Topic 3:
+  vulnerable:3.87
+  tor:3.18
+  openvpn:2.96
+  specific:2.96
+  clearnet:2.96
+  firefox:2.96
+  browser:2.96
+  irc server:2.96
+  tor vulnerable:2.96
+  nss:2.96
+
+Topic 4:
+  versions:2.49
+  interested:2.19
+  torsion:2.16
+  implementation:2.15
+  goals:2.08
+  ve:2.06
+  qt:1.06
+  windows binaries:1.06
+  broadcast:1.06
+  loaded:1.06
+
+K: 5, Log-Likelihood: -2789.161, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  hunaa:1.26
+  sik:1.26
+  pari:1.26
+  tilille:1.26
+  milloin:1.26
+  itse:1.26
+  rumbaa:1.26
+  talvena:1.26
+  joka:1.26
+  viime:1.26
+
+Topic 1:
+  saldoon:2.77
+  tapahtunu mit:1.23
+  tulleet:1.23
+  siirtoja:1.23
+  vahvistamattomaan:1.23
+  lompakko:1.22
+  oval:1.22
+  jumiin:1.22
+  mukaan:1.22
+  ongelmia:1.22
+
+Topic 2:
+  vastaa:1.10
+  santa:1.10
+  heelahoito:1.10
+  yms:1.10
+  huijaus:1.10
+  katoaa:1.10
+  ytt:1.10
+  asiakaspalvelussa:1.10
+  ilmeisesti:1.10
+  sortin:1.10
+
+Topic 3:
+  saldoon:0.80
+  ett:0.76
+  painaa:0.61
+  enemm:0.61
+  nostaa:0.61
+  itt:0.61
+  elk:0.61
+  btc:0.61
+  ku:0.61
+  kuvien:0.61
+
+Topic 4:
+  litilill:2.65
+  kun:2.02
+  silkkitiet:1.27
+  heman:1.27
+  siirto:1.27
+  ist:1.27
+  lompakkoon:1.27
+  ihan:1.27
+  tuuria:1.27
+  kertaa:1.27
+
+K: 5, Log-Likelihood: -1018.364, Alpha: 11.000, Beta: 1.100

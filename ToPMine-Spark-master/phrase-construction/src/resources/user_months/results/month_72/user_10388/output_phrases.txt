@@ -1,0 +1,61 @@
+Topic 0:
+  fine:0.56
+  vendors:0.48
+  dream:0.48
+  favor:0.37
+  congrats:0.37
+  market:0.37
+  worked:0.37
+  working:0.37
+  team:0.36
+  doubled:0.36
+
+Topic 1:
+  fine:0.55
+  dream:0.48
+  vendors:0.48
+  waiving:0.40
+  bond:0.40
+  active:0.40
+  today:0.40
+  loving:0.40
+  ui:0.40
+  listing:0.40
+
+Topic 2:
+  vendors:0.81
+  steady:0.65
+  minute:0.65
+  hot:0.65
+  remained:0.65
+  resilient:0.65
+  roster:0.64
+  coming:0.64
+  fine:0.51
+  dream:0.48
+
+Topic 3:
+  benefitted:1.03
+  time:1.02
+  evo:1.02
+  nimble:1.02
+  days:1.02
+  oxymonster:1.02
+  bitch:1.02
+  eve:1.02
+  people:1.02
+  scamming:1.02
+
+Topic 4:
+  fine:0.50
+  fast:0.49
+  day:0.48
+  vendor:0.48
+  threw:0.48
+  today:0.48
+  listing:0.48
+  ui:0.48
+  waiving:0.48
+  bond:0.48
+
+K: 5, Log-Likelihood: -348.664, Alpha: 11.000, Beta: 1.100

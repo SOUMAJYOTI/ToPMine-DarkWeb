@@ -1,0 +1,61 @@
+Topic 0:
+  agora:4.63
+  picking:3.83
+  bmr backopy:3.49
+  lot:3.43
+  pandora:3.35
+  people:3.35
+  true:3.15
+  slow:3.11
+  gon:2.30
+  figured:2.30
+
+Topic 1:
+  marketplace:5.68
+  favorite:4.61
+  opinion:3.69
+  market:3.68
+  bmr:3.40
+  loved:3.17
+  worked:2.27
+  creditable:2.27
+  man:2.27
+  loved layout:2.27
+
+Topic 2:
+  restrictions:4.61
+  amsterdam uplier:4.48
+  freedom:3.81
+  admin:3.23
+  late:2.27
+  privacy:2.27
+  amin:2.27
+  agree:2.27
+  original bmr:2.27
+  forefront:2.27
+
+Topic 3:
+  defcon:5.56
+  lot:4.27
+  backopy dpr:3.36
+  hasnt:2.95
+  sr:2.72
+  risked:2.32
+  topic:2.32
+  matter:2.32
+  courage:2.32
+  silk:2.32
+
+Topic 4:
+  swim:5.76
+  february:5.71
+  quote:4.97
+  pretty decent:4.87
+  utopia:4.64
+  trc:4.61
+  ils:3.82
+  block:3.82
+  closest:3.82
+  real:3.82
+
+K: 5, Log-Likelihood: -3835.473, Alpha: 11.000, Beta: 1.100

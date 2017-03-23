@@ -1,0 +1,61 @@
+Topic 0:
+  build:1.45
+  apt:1.37
+  repos:0.98
+  tor wily:0.98
+  sources list:0.97
+  tor service:0.96
+  sudo apt:0.94
+  tor:0.77
+  lists:0.61
+  systemctl:0.61
+
+Topic 1:
+  tor:0.80
+  build:0.68
+  apt:0.60
+  sources list:0.50
+  sudo apt:0.49
+  tor service:0.49
+  tor wily:0.48
+  repos:0.48
+  apt transport tor:0.39
+  ubuntu:0.35
+
+Topic 2:
+  apt:1.12
+  build:0.99
+  sudo apt:0.84
+  tor service:0.82
+  tor:0.81
+  repos:0.81
+  sources list:0.81
+  tor wily:0.81
+  wily:0.52
+  apt transport:0.52
+
+Topic 3:
+  tor:1.11
+  tor router:0.98
+  apt transport tor:0.55
+  apts:0.40
+  leaving:0.40
+  transparent:0.40
+  circuit:0.40
+  figure:0.40
+  future:0.40
+  talking:0.40
+
+Topic 4:
+  tor:1.10
+  tor router:0.55
+  apt transport tor:0.47
+  apt:0.36
+  build:0.34
+  youll:0.30
+  repos:0.29
+  tor service:0.29
+  tor wily:0.29
+  sudo apt:0.29
+
+K: 5, Log-Likelihood: -720.669, Alpha: 11.000, Beta: 1.100

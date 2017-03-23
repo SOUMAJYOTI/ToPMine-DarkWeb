@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.39
+  mit:0.35
+  myyj:0.21
+  ett:0.20
+  topicci:0.19
+  athene:0.19
+  mutta:0.19
+  hiljaiselta:0.19
+  koska:0.19
+  myyjien:0.19
+
+Topic 1:
+  ja:0.40
+  mit:0.35
+  myyj:0.21
+  ett:0.20
+  pito:0.19
+  reilun:0.19
+  edit:0.19
+  pahoitteli:0.19
+  lankaan:0.19
+  vahvisti:0.19
+
+Topic 2:
+  ja:0.41
+  mit:0.36
+  myyj:0.20
+  ett:0.20
+  kuun:0.19
+  diana:0.19
+  edit:0.19
+  hein:0.19
+  postasin:0.19
+  silkkitien:0.19
+
+Topic 3:
+  ja:0.43
+  mit:0.39
+  ett:0.21
+  myyj:0.20
+  litilille:0.19
+  pantiksi:0.19
+  tein:0.19
+  myyjist:0.19
+  kuullut:0.19
+  pantti:0.19
+
+Topic 4:
+  ja:0.41
+  mit:0.37
+  ett:0.21
+  myyj:0.20
+  oli:0.19
+  samantien:0.19
+  silkkitie:0.19
+  myymisen:0.19
+  quote:0.19
+  se:0.19
+
+K: 5, Log-Likelihood: -370.327, Alpha: 11.000, Beta: 1.100

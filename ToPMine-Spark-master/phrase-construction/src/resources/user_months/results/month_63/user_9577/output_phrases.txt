@@ -1,0 +1,61 @@
+Topic 0:
+  abraxas:9.21
+  surfing:4.36
+  transfer:4.36
+  fortunate:4.36
+  purchase:4.36
+  forums:4.36
+  glad:4.36
+  setting:4.36
+  message encrypting:4.36
+  abraxas understand:4.36
+
+Topic 1:
+  message:12.96
+  explain:8.62
+  public key block:8.62
+  password:8.55
+  ll:5.15
+  recommended:4.28
+  create key:4.28
+  keys:4.28
+  questions:4.28
+  read message:4.28
+
+Topic 2:
+  pgp:9.59
+  key:9.59
+  plan buying:8.75
+  public key:6.22
+  public key private key:5.51
+  encrypt message:5.51
+  pip message:5.51
+  pretty:4.35
+  helped:4.35
+  dw:4.35
+
+Topic 3:
+  market:9.85
+  love avengers:8.64
+  needed join:6.58
+  trustworthy imo longest running:6.58
+  market spend invite link:5.59
+  good vendors moving abraxas:5.54
+  markets:5.04
+  garden:5.01
+  britneystoke:4.27
+  quote:4.27
+
+Topic 4:
+  technical:8.74
+  post:8.74
+  bunch:4.35
+  hoping:4.35
+  dumb:4.35
+  webs:4.35
+  tmg:4.35
+  thing gamesome:4.35
+  encrypting messages:4.35
+  idea:4.35
+
+K: 5, Log-Likelihood: -7557.272, Alpha: 11.000, Beta: 1.100

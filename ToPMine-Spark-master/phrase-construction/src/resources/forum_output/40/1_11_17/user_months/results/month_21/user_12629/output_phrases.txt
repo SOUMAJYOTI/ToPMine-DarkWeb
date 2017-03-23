@@ -1,0 +1,61 @@
+Topic 0:
+  lukenut:4.51
+  tilausta:3.42
+  tullu mit:3.02
+  kans ton:3.00
+  joo:2.99
+  vaik:2.96
+  sama:2.49
+  tanssittaja:2.35
+  viisas:2.22
+  milkmen:2.22
+
+Topic 1:
+  tai:6.27
+  sen:5.78
+  en:5.06
+  ees:4.66
+  paljon:4.66
+  ei:4.52
+  hukkaan:3.82
+  sit:3.82
+  mut:3.82
+  ihan:3.82
+
+Topic 2:
+  sinun:4.64
+  tapauksessa:3.80
+  mutta:3.77
+  olen:3.77
+  ll:3.73
+  tilattu:3.66
+  tanssittajalta:3.37
+  pit:2.59
+  kuvaustaan:2.29
+  kuluttua:2.29
+
+Topic 3:
+  riitauttaa:4.43
+  se:3.39
+  sis:3.18
+  tilauksen:2.44
+  vastaus:2.44
+  saa:2.44
+  edes:2.39
+  ne coinit:2.33
+  ja maksu:2.32
+  vuorokauden:2.32
+
+Topic 4:
+  ei oo:6.48
+  kaveri:4.23
+  iv:3.87
+  kytille:3.83
+  kadonnut:3.83
+  kiinni vai:3.83
+  skin:3.83
+  tahtoo:3.83
+  ljett:3.83
+  mahtanut:3.83
+
+K: 5, Log-Likelihood: -4507.354, Alpha: 11.000, Beta: 1.100

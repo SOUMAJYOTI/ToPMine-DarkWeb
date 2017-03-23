@@ -1,0 +1,61 @@
+Topic 0:
+  worry:4.68
+  inputs:4.68
+  btc:4.12
+  number:2.32
+  pool:2.32
+  currency:2.32
+  money fact:2.32
+  wahtever:2.32
+  operation:2.32
+  surveying:2.32
+
+Topic 1:
+  send deposits:4.66
+  moment:4.66
+  morning:3.71
+  agora:3.29
+  days ago:2.54
+  problem:2.52
+  dont:2.33
+  advance:2.31
+  yep:2.31
+  yesterday:2.31
+
+Topic 2:
+  vendors:11.56
+  buyers:9.61
+  orders:7.69
+  fact:7.69
+  estimate hours:7.69
+  scenario:7.69
+  strategy:7.68
+  market:6.50
+  vendors withdraw:5.73
+  wait things:3.80
+
+Topic 3:
+  people:5.74
+  bullshit:4.65
+  reply:4.65
+  delays:3.32
+  confidence:2.30
+  backlog transactions:2.30
+  joke:2.30
+  response bit:2.30
+  latest:2.30
+  rush:2.30
+
+Topic 4:
+  tomorrow:4.66
+  happy:4.66
+  heyday:4.66
+  bet btc:4.13
+  deposit:2.71
+  place:2.31
+  market buy:2.31
+  annoy:2.31
+  happening:2.31
+  day:2.31
+
+K: 5, Log-Likelihood: -5271.880, Alpha: 11.000, Beta: 1.100

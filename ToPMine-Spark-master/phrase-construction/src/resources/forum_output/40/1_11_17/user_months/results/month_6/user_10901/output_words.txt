@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.60
+  odd:0.39
+  private:0.39
+  keys:0.38
+  totally:0.20
+  trolltergeist:0.20
+  trust:0.20
+  members:0.20
+  admins:0.20
+  personal:0.20
+
+Topic 1:
+  sr:0.53
+  odd:0.48
+  keys:0.48
+  private:0.48
+  addresses:0.23
+  coins:0.23
+  job:0.23
+  reporting:0.23
+  order:0.23
+  state:0.23
+
+Topic 2:
+  sr:0.68
+  keys:0.30
+  odd:0.30
+  private:0.30
+  february:0.24
+  doesn:0.24
+  base:0.24
+  good:0.24
+  hacked:0.24
+  isnt:0.24
+
+Topic 3:
+  private:0.52
+  keys:0.52
+  odd:0.51
+  sr:0.50
+  users:0.24
+  remembered:0.24
+  inside:0.24
+  deposit:0.24
+  withdrawn:0.24
+  attacker:0.24
+
+Topic 4:
+  sr:0.68
+  odd:0.32
+  keys:0.32
+  private:0.32
+  fuck:0.23
+  idiots:0.23
+  base:0.23
+  interpreting:0.23
+  good:0.23
+  amsr:0.23
+
+K: 5, Log-Likelihood: -232.941, Alpha: 11.000, Beta: 1.100

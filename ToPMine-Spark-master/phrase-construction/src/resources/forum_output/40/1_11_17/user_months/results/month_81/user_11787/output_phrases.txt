@@ -1,0 +1,61 @@
+Topic 0:
+  things:4.60
+  personally:4.35
+  channelname:4.34
+  pushing keyboard:4.23
+  guys:3.99
+  magicaltux:3.73
+  mtgox:3.63
+  people:3.53
+  draft:2.88
+  start:2.82
+
+Topic 1:
+  people:5.00
+  magicaltux:4.03
+  things:3.49
+  personally:3.42
+  mtgox:2.61
+  bitcoin:2.56
+  cave:1.85
+  guys:1.83
+  stuck:1.79
+  office:1.78
+
+Topic 2:
+  cyprus:7.74
+  karpeles:7.74
+  bitcoin:6.12
+  source:5.80
+  exchange:4.58
+  country:3.88
+  accounts:3.85
+  initials:3.85
+  worlds:3.85
+  huge:3.85
+
+Topic 3:
+  identity:3.85
+  kraken:2.67
+  guy:1.94
+  mainstream:1.91
+  ve:1.91
+  fuck:1.91
+  freely:1.91
+  latest:1.91
+  speak:1.91
+  approved:1.91
+
+Topic 4:
+  coins:4.55
+  circulation:3.84
+  views:3.81
+  moving:3.80
+  worry:3.80
+  scum:3.70
+  caused:3.01
+  btc:2.97
+  war:2.94
+  feel:2.91
+
+K: 5, Log-Likelihood: -8204.740, Alpha: 11.000, Beta: 1.100

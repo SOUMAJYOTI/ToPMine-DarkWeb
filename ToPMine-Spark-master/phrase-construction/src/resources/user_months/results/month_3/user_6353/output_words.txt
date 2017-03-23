@@ -1,0 +1,61 @@
+Topic 0:
+  ddos:6.69
+  pgp:6.68
+  signature:5.33
+  hell:5.25
+  road:4.52
+  simply:3.60
+  signed:3.19
+  pip:3.12
+  message:3.06
+  didnt:3.00
+
+Topic 1:
+  key:4.59
+  signature:3.64
+  pgp:3.12
+  block:2.08
+  pm:1.94
+  doctorclu:1.78
+  pip:1.72
+  market:1.71
+  didnt:1.66
+  gpg:1.63
+
+Topic 2:
+  agora:7.60
+  market:5.88
+  attack:3.81
+  clu:3.75
+  pandora:3.68
+  site:3.28
+  people:2.74
+  bmr:2.65
+  running:2.60
+  sr:2.53
+
+Topic 3:
+  sr:14.31
+  backopy:10.31
+  bmr:7.82
+  dpr:6.14
+  dont:5.14
+  good:4.66
+  site:4.55
+  quote:4.14
+  lot:4.03
+  staff:3.92
+
+Topic 4:
+  site:7.01
+  bmr:4.38
+  market:4.33
+  clu:4.15
+  loved:4.01
+  great:3.74
+  listings:3.34
+  backopy:2.94
+  sr:2.74
+  good:2.37
+
+K: 5, Log-Likelihood: -9156.857, Alpha: 11.000, Beta: 1.100

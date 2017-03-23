@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:1.03
+  vendor:0.58
+  send:0.58
+  comprimised:0.57
+  message:0.56
+  secrecy:0.55
+  minilock:0.55
+  encrypt:0.43
+  file:0.39
+  key:0.39
+
+Topic 1:
+  pgp:1.40
+  minilock:0.66
+  message:0.64
+  send:0.64
+  vendor:0.64
+  comprimised:0.64
+  secrecy:0.62
+  file:0.41
+  order:0.41
+  offers:0.41
+
+Topic 2:
+  pgp:1.29
+  secrecy:0.66
+  minilock:0.65
+  comprimised:0.62
+  vendor:0.62
+  send:0.61
+  message:0.60
+  pretty:0.42
+  forward:0.41
+  text:0.41
+
+Topic 3:
+  pgp:1.12
+  comprimised:0.60
+  secrecy:0.59
+  message:0.59
+  send:0.59
+  vendor:0.57
+  minilock:0.56
+  encrypt:0.41
+  pretty:0.40
+  encryption:0.40
+
+Topic 4:
+  pgp:1.16
+  message:0.61
+  vendor:0.59
+  comprimised:0.58
+  send:0.58
+  minilock:0.58
+  secrecy:0.57
+  encrypt:0.41
+  order:0.40
+  encryption:0.40
+
+K: 5, Log-Likelihood: -420.355, Alpha: 11.000, Beta: 1.100

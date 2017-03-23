@@ -1,0 +1,61 @@
+Topic 0:
+  key:1.92
+  public:1.16
+  pgp:1.15
+  block:1.15
+  abraxasdegupusel:0.46
+  htqyhmccruafcnfejoetz:0.46
+  list:0.46
+  heams:0.46
+  hyb:0.46
+  pwltkq:0.46
+
+Topic 1:
+  changa:1.96
+  dmt:1.95
+  sell:1.95
+  thread:0.88
+  fall:0.88
+  mach:0.88
+  abraxas:0.88
+  link:0.88
+  nucleus:0.88
+  earth:0.88
+
+Topic 2:
+  suomen:0.42
+  pi:0.42
+  tullista:0.42
+  key:0.39
+  problem:0.35
+  correctly:0.35
+  understand:0.35
+  answer:0.35
+  times:0.35
+  amonko:0.35
+
+Topic 3:
+  pi:0.41
+  suomen:0.41
+  tullista:0.41
+  key:0.33
+  message:0.32
+  quote:0.32
+  foxtrotone:0.32
+  amonko:0.32
+  tumult:0.32
+  times:0.32
+
+Topic 4:
+  key:0.60
+  block:0.43
+  pgp:0.43
+  public:0.42
+  tullista:0.26
+  suomen:0.26
+  pi:0.26
+  lbf:0.24
+  mdauacbx:0.24
+  ta:0.24
+
+K: 5, Log-Likelihood: -883.772, Alpha: 11.000, Beta: 1.100

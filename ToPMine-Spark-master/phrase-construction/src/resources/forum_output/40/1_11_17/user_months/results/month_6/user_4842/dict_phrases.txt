@@ -1,0 +1,81 @@
+stupid,0,2
+server openssl,1,2
+hands,2,2
+onion,3,2
+yelling,4,2
+sign,5,2
+sites,6,2
+darknet,7,2
+blog,8,2
+ssl,9,6
+doesnt,10,1
+tmg,11,2
+hack,12,2
+password,13,1
+identified,14,2
+problem,15,4
+generated,16,4
+understanding,17,2
+huge,18,2
+connection,19,2
+directly,20,2
+generate,21,2
+expecting,22,1
+doesn,23,1
+pre,24,4
+pre generated,25,2
+imagine,26,4
+work,27,2
+problem ssl,28,2
+signed,29,2
+browsers,30,2
+private key,31,4
+node,32,4
+chances,33,2
+domain,34,2
+openssl,35,6
+safe,36,2
+opens,37,2
+happening,38,2
+carry,39,1
+compromised,40,2
+openssl pre,41,2
+changed,42,2
+primary,43,2
+server,44,4
+private,45,4
+hidden,46,2
+link,47,2
+proper,48,2
+title,49,1
+unsafe,50,2
+pop,51,1
+default,52,2
+urls,53,1
+servers,54,2
+cas,55,1
+hassle,56,2
+tor,57,4
+alarm,58,2
+node server,59,2
+generated key,60,2
+hard,61,2
+connect,62,2
+key,63,6
+unaffected,64,2
+meant,65,2
+change,66,2
+relay,67,2
+start,68,2
+attacker,69,2
+unnecessary,70,2
+thread,71,1
+people,72,2
+uri,73,1
+url,74,1
+tor problem,75,2
+bug,76,2
+ssl imagine,77,2
+service,78,2
+locations,79,2
+time,80,2

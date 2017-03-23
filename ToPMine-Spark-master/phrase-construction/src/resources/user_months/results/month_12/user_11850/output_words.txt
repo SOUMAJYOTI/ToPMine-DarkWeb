@@ -1,0 +1,61 @@
+Topic 0:
+  paper:2.14
+  tom:1.90
+  market:1.32
+  listings:1.24
+  pouch:0.86
+  stick:0.84
+  call:0.79
+  mdma:0.60
+  pouches:0.60
+  shipped:0.60
+
+Topic 1:
+  tom:2.27
+  paper:2.12
+  listings:1.93
+  call:0.98
+  stick:0.93
+  pouch:0.92
+  market:0.77
+  message:0.65
+  wtf:0.64
+  idk:0.64
+
+Topic 2:
+  market:3.61
+  tom:3.18
+  freedom:1.72
+  drugs:1.66
+  javascript:1.54
+  listings:0.90
+  place:0.81
+  asked:0.65
+  feel:0.63
+  reasons:0.63
+
+Topic 3:
+  market:3.59
+  tom:2.69
+  drugs:1.93
+  freedom:1.87
+  javascript:1.82
+  listings:1.07
+  place:0.88
+  asked:0.66
+  reasons:0.65
+  main:0.65
+
+Topic 4:
+  tom:2.96
+  listings:1.86
+  message:1.06
+  paper:1.05
+  links:1.04
+  advantages:1.03
+  marketplace:1.03
+  find:1.02
+  agora:1.02
+  market:0.70
+
+K: 5, Log-Likelihood: -1263.953, Alpha: 11.000, Beta: 1.100

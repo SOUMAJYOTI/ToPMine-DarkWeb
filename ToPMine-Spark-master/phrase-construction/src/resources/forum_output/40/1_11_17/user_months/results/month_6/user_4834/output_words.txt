@@ -1,0 +1,61 @@
+Topic 0:
+  spaces:9.39
+  play:8.63
+  lost:8.18
+  rise:7.81
+  keys:7.58
+  quote:7.29
+  enigmaticsmile:5.84
+  fuck:5.84
+  pass:5.73
+  april:5.59
+
+Topic 1:
+  pgp:15.02
+  key:14.33
+  public:5.53
+  bit:4.38
+  block:3.96
+  ht:3.96
+  odd:3.29
+  puts:3.29
+  kinds:3.29
+  messaging:3.29
+
+Topic 2:
+  price:16.82
+  buy:4.82
+  today:4.69
+  things:4.68
+  big:4.45
+  amount:3.47
+  nature:3.16
+  system:2.89
+  plummet:2.89
+  fairly:2.89
+
+Topic 3:
+  vendor:19.65
+  order:15.84
+  lost:13.29
+  market:12.83
+  marketplace:11.86
+  place:11.86
+  bitcoin:11.13
+  march:9.44
+  environment:8.87
+  relaxed:8.87
+
+Topic 4:
+  key:8.38
+  pgp:5.50
+  people:4.17
+  cryptocurrencies:3.62
+  profits:3.61
+  suck:3.09
+  vendors:2.83
+  wifi:2.64
+  train:2.59
+  time:2.55
+
+K: 5, Log-Likelihood: -8006.636, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  vpn:20.72
+  public wifi hotspot:19.29
+  hard disk:16.40
+  hacking team:16.28
+  install:15.91
+  ipv:15.44
+  location:14.59
+  truecrypt team:13.80
+  hard drives firmware:13.80
+  sense tracking:13.77
+
+Topic 1:
+  malware:24.87
+  dino:19.30
+  animal farm:15.44
+  files:15.44
+  researchers:12.97
+  system:11.71
+  called:11.62
+  espionage:11.58
+  french:11.58
+  members animal farm malware:11.58
+
+Topic 2:
+  gass:38.60
+  ata password:27.63
+  registry:23.16
+  hard disk:15.74
+  fraud:15.44
+  state police:15.44
+  system:14.80
+  character password:13.81
+  alphanumeric space:13.81
+  people:13.20
+
+Topic 3:
+  xkeyscore:106.94
+  traffic:24.35
+  documents:24.09
+  appids fingerprints:23.16
+  field sites:23.16
+  data:21.98
+  systems administrators:19.30
+  analysts:19.18
+  asa:17.50
+  servers:16.08
+
+Topic 4:
+  wi fi:17.06
+  attack:15.67
+  proprietary firmware:15.44
+  backdoors:12.78
+  attention:12.66
+  machine:12.62
+  firmware:12.33
+  question:11.68
+  free software:11.58
+  hardware:11.58
+
+K: 5, Log-Likelihood: -169335.923, Alpha: 11.000, Beta: 1.100

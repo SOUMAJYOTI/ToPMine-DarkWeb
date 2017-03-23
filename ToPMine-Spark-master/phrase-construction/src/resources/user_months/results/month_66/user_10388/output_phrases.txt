@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:2.30
+  good:1.63
+  behalf:1.63
+  isn:1.63
+  phenomenon:1.63
+  crossed:1.63
+  count:1.63
+  alike:1.63
+  doubled:1.63
+  work:1.63
+
+Topic 1:
+  day:1.66
+  vending:1.66
+  provided:1.66
+  long:1.66
+  users:1.66
+  meaning:1.66
+  focusing:1.66
+  wishing:1.66
+  hitting:1.66
+  promoted:1.66
+
+Topic 2:
+  onion:6.42
+  pgp:3.07
+  signature:3.06
+  list:3.03
+  profile:3.02
+  shop:3.01
+  ec:1.38
+  lqjnoan:1.38
+  uartmjetppuqaf:1.38
+  au:1.38
+
+Topic 3:
+  market:1.45
+  onion:0.66
+  nucleus:0.61
+  oxymonster:0.54
+  shop:0.49
+  profile:0.48
+  dream:0.48
+  list:0.47
+  signature:0.44
+  pgp:0.43
+
+Topic 4:
+  active:2.09
+  oxy:1.66
+  time:1.66
+  frozen:1.66
+  stats:1.66
+  verification:1.66
+  online:1.66
+  sites:1.66
+  verify:1.66
+  verified:1.66
+
+K: 5, Log-Likelihood: -1958.759, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  problems:0.40
+  fuck:0.40
+  exit:0.20
+  showing:0.20
+  incoming:0.20
+  scam:0.20
+  paranoid:0.20
+  face:0.20
+  deposited:0.20
+  confirmations:0.20
+
+Topic 1:
+  fuck:0.40
+  problems:0.40
+  face:0.20
+  showing:0.20
+  scam:0.20
+  deposited:0.20
+  transaction:0.20
+  confirmations:0.20
+  exit:0.20
+  paranoid:0.20
+
+Topic 2:
+  problems:0.40
+  fuck:0.40
+  loosing:0.20
+  god:0.20
+  money:0.20
+  situation:0.20
+  damn:0.20
+  staff:0.20
+  risk:0.20
+  balance:0.20
+
+Topic 3:
+  problems:0.40
+  fuck:0.40
+  risk:0.20
+  paranoid:0.20
+  loosing:0.20
+  staff:0.20
+  confirmations:0.20
+  transaction:0.20
+  balance:0.20
+  face:0.20
+
+Topic 4:
+  problems:0.40
+  fuck:0.40
+  money:0.20
+  situation:0.20
+  damn:0.20
+  staff:0.20
+  god:0.20
+  loosing:0.20
+  risk:0.20
+  incoming:0.20
+
+K: 5, Log-Likelihood: -65.283, Alpha: 11.000, Beta: 1.100

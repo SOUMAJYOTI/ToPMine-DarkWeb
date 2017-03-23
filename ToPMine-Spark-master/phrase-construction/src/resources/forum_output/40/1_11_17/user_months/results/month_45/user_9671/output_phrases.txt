@@ -1,0 +1,61 @@
+Topic 0:
+  books:0.71
+  gods:0.66
+  perspective:0.40
+  material:0.40
+  direction:0.40
+  informed vote books:0.40
+  turned:0.40
+  sounds:0.40
+  stick genre rotate books:0.40
+  fresh:0.40
+
+Topic 1:
+  gods:1.01
+  books:0.61
+  fiction fiction:0.47
+  works:0.46
+  deciding:0.46
+  terence:0.46
+  good:0.46
+  hancock:0.46
+  fingerprints:0.46
+  step:0.46
+
+Topic 2:
+  gods:1.38
+  food:0.62
+  graham:0.62
+  genre:0.62
+  mckenna:0.62
+  fingerprints:0.62
+  forward:0.62
+  fiction fiction:0.62
+  good:0.62
+  step:0.62
+
+Topic 3:
+  books:0.74
+  gods:0.59
+  perspective:0.43
+  reading list chime books:0.43
+  sounds:0.43
+  turned:0.43
+  reading:0.43
+  stick genre rotate books:0.43
+  read guess hazard:0.43
+  fresh:0.43
+
+Topic 4:
+  books:1.65
+  list chime books:0.68
+  brainstorming:0.68
+  ebook:0.67
+  potential:0.67
+  putting:0.67
+  amwould:0.67
+  read guess hazard reading:0.67
+  terrible:0.67
+  sort:0.67
+
+K: 5, Log-Likelihood: -669.369, Alpha: 11.000, Beta: 1.100

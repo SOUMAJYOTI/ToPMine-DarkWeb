@@ -1,0 +1,61 @@
+Topic 0:
+  algos hashed submit len:0.68
+  signature packet algo keyid:0.46
+  public key packet version:0.46
+  ecc:0.41
+  data bits:0.40
+  len sigclass digest digest:0.35
+  key:0.34
+  sig created:0.29
+  hashed submit len:0.29
+  algo created expires prey:0.29
+
+Topic 1:
+  algos hashed submit len:0.66
+  public key packet version:0.45
+  signature packet algo keyid:0.45
+  ecc:0.41
+  data bits:0.40
+  len sigclass digest digest:0.34
+  key:0.34
+  sig created:0.29
+  algo created expires prey:0.29
+  hashed submit len:0.29
+
+Topic 2:
+  algos hashed submit len:0.74
+  public key packet version:0.47
+  signature packet algo keyid:0.47
+  ecc:0.43
+  data bits:0.41
+  key:0.35
+  len sigclass digest digest:0.35
+  hashed submit len:0.29
+  algo created expires prey:0.29
+  sig created:0.29
+
+Topic 3:
+  algos hashed submit len:0.72
+  public key packet version:0.47
+  signature packet algo keyid:0.46
+  ecc:0.41
+  data bits:0.40
+  key:0.35
+  len sigclass digest digest:0.35
+  algo created expires prey:0.29
+  hashed submit len:0.29
+  sig created:0.29
+
+Topic 4:
+  algos hashed submit len:0.66
+  signature packet algo keyid:0.45
+  public key packet version:0.45
+  ecc:0.41
+  data bits:0.40
+  key:0.34
+  len sigclass digest digest:0.34
+  hashed submit len:0.28
+  sig created:0.28
+  algo created expires prey:0.28
+
+K: 5, Log-Likelihood: -477.150, Alpha: 11.000, Beta: 1.100

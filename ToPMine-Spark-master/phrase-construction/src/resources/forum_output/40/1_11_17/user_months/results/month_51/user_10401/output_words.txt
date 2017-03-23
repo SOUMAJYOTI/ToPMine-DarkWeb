@@ -1,0 +1,61 @@
+Topic 0:
+  luks:1.89
+  issues:1.56
+  file:1.48
+  container:1.48
+  impossible:1.47
+  perfect:1.46
+  difficult:1.45
+  easily:1.35
+  tc:1.33
+  code:1.21
+
+Topic 1:
+  lurks:2.76
+  veracrypt:2.76
+  bit:2.75
+  luks:2.48
+  alternatives:2.44
+  truecrypt:1.89
+  development:1.79
+  projects:1.78
+  cut:1.75
+  linux:1.75
+
+Topic 2:
+  project:4.43
+  tc:2.20
+  people:2.04
+  easily:1.94
+  august:1.16
+  time:1.14
+  years:1.11
+  developers:1.10
+  good:0.86
+  difficult:0.79
+
+Topic 3:
+  project:5.12
+  years:4.37
+  werner:4.11
+  time:3.25
+  pay:3.21
+  people:2.81
+  tc:2.64
+  food:2.35
+  society:2.35
+  job:2.33
+
+Topic 4:
+  audit:8.93
+  truecrypt:7.52
+  phase:2.93
+  code:2.39
+  auditors:2.30
+  quote:2.26
+  august:2.06
+  halcyon:1.98
+  ii:1.94
+  organization:1.94
+
+K: 5, Log-Likelihood: -3102.963, Alpha: 11.000, Beta: 1.100

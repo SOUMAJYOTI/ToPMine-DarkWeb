@@ -1,0 +1,61 @@
+Topic 0:
+  myynnit:0.94
+  feel:0.59
+  possibility:0.59
+  things:0.59
+  pain:0.59
+  vendors:0.59
+  customer:0.59
+  week:0.59
+  service:0.59
+  visual:0.59
+
+Topic 1:
+  myynnit:0.57
+  orders:0.46
+  pain:0.39
+  visual:0.39
+  things:0.39
+  feel:0.39
+  week:0.39
+  sources:0.39
+  vendors:0.39
+  possibility:0.39
+
+Topic 2:
+  continue:0.58
+  unfair:0.58
+  normal:0.58
+  orders:0.45
+  happened:0.41
+  moment:0.33
+  silkkitie:0.29
+  start:0.28
+  sounds:0.27
+  post:0.26
+
+Topic 3:
+  happened:1.07
+  moment:0.55
+  irregardless:0.45
+  rollbackorders:0.45
+  parseridea:0.45
+  sentfuckfuckfuck:0.45
+  troublethere:0.45
+  dont dont:0.45
+  bucket:0.45
+  cap:0.45
+
+Topic 4:
+  myynnit:0.89
+  project:0.58
+  customer:0.58
+  json:0.58
+  service:0.58
+  sources:0.58
+  week:0.58
+  visual:0.58
+  vendors:0.58
+  possibility:0.57
+
+K: 5, Log-Likelihood: -926.657, Alpha: 11.000, Beta: 1.100

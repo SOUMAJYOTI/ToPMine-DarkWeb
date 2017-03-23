@@ -1,0 +1,61 @@
+Topic 0:
+  support:4.84
+  starting:3.20
+  business:3.04
+  start:2.79
+  time:2.65
+  completely:2.17
+  fed:2.17
+  offline:2.10
+  reach:2.10
+  helpful:2.10
+
+Topic 1:
+  people:8.52
+  fun:4.19
+  join:4.19
+  forums:4.19
+  register:4.19
+  types:4.19
+  good popular:4.19
+  darknet:4.19
+  good market:4.19
+  buyers:4.08
+
+Topic 2:
+  requests neglected:4.32
+  love:4.11
+  weeks usual problem:3.22
+  head:3.17
+  buying:3.15
+  selling:3.15
+  ideas analyze requests evo:3.08
+  pretty:2.19
+  willowsmom:2.19
+  happy users:1.98
+
+Topic 3:
+  agora:9.18
+  number:5.14
+  real:5.14
+  reason:4.23
+  evo:3.94
+  username:3.39
+  isnt:3.39
+  products:3.39
+  point:3.39
+  vend:3.39
+
+Topic 4:
+  understand:4.63
+  afghan text:4.21
+  category:4.21
+  query:4.21
+  official:4.12
+  quote:3.77
+  issue:3.34
+  ill:3.34
+  jabber:3.34
+  pass:3.34
+
+K: 5, Log-Likelihood: -3941.916, Alpha: 11.000, Beta: 1.100

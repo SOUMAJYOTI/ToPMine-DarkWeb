@@ -1,0 +1,61 @@
+Topic 0:
+  mdma:0.44
+  prices:0.44
+  pmif:0.28
+  deals:0.28
+  quote:0.28
+  zencandyflipping:0.28
+  tmg:0.28
+  stick:0.28
+  august:0.28
+  direct:0.24
+
+Topic 1:
+  mdma:0.45
+  prices:0.45
+  august:0.28
+  zencandyflipping:0.28
+  pmif:0.28
+  quote:0.28
+  tmg:0.27
+  stick:0.27
+  deals:0.27
+  canada gfn direct market:0.24
+
+Topic 2:
+  mdma:0.45
+  prices:0.44
+  zencandyflipping:0.28
+  pmif:0.28
+  august:0.28
+  quote:0.28
+  stick:0.27
+  deals:0.27
+  tmg:0.27
+  canada gfn direct market:0.24
+
+Topic 3:
+  prices:0.44
+  mdma:0.43
+  deals:0.28
+  stick:0.28
+  quote:0.28
+  tmg:0.28
+  august:0.28
+  pmif:0.28
+  zencandyflipping:0.28
+  direct:0.24
+
+Topic 4:
+  prices:0.43
+  mdma:0.43
+  tmg:0.28
+  stick:0.28
+  deals:0.28
+  august:0.28
+  pmif:0.28
+  zencandyflipping:0.28
+  quote:0.28
+  direct:0.25
+
+K: 5, Log-Likelihood: -134.203, Alpha: 11.000, Beta: 1.100

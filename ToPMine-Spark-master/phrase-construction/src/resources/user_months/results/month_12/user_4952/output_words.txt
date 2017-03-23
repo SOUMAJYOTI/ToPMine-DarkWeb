@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:3.15
+  tmg:2.15
+  matter:2.09
+  money:1.56
+  payment:1.20
+  hope:1.15
+  thier:1.14
+  address:1.13
+  risk:1.13
+  vendors:1.07
+
+Topic 1:
+  vendor:2.86
+  matter:1.78
+  tmg:1.67
+  address:1.36
+  risk:1.36
+  payment:1.30
+  money:1.21
+  vibes:0.93
+  pay:0.92
+  tumble:0.91
+
+Topic 2:
+  vendor:5.34
+  matter:2.04
+  tmg:1.92
+  money:1.39
+  payment:1.14
+  address:1.13
+  scammers:1.11
+  risk:1.10
+  long:1.10
+  trust:1.07
+
+Topic 3:
+  vendor:3.36
+  tmg:2.08
+  matter:1.90
+  money:1.66
+  risk:1.15
+  thier:1.10
+  address:1.10
+  hope:1.09
+  interested:1.08
+  payment:1.08
+
+Topic 4:
+  send:6.42
+  coin:1.88
+  buy:1.88
+  wallet:1.60
+  wallets:1.30
+  quote:1.30
+  opened:0.89
+  localbitcoinsdotcom:0.89
+  clearnet:0.89
+  bitcoins:0.89
+
+K: 5, Log-Likelihood: -1162.043, Alpha: 11.000, Beta: 1.100

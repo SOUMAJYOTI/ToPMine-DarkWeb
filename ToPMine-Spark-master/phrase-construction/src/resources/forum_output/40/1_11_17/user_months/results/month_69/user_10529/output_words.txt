@@ -1,0 +1,61 @@
+Topic 0:
+  message:6.94
+  signature:4.14
+  pip:2.93
+  code:2.93
+  copy:2.36
+  pgp:1.95
+  select:1.93
+  filename:1.91
+  click:1.91
+  desktop:1.91
+
+Topic 1:
+  browser:6.75
+  settings:4.68
+  client:4.31
+  airvpn:3.89
+  didnt:3.89
+  tails:3.65
+  tor:3.62
+  devs:3.41
+  file:3.16
+  configuration:2.88
+
+Topic 2:
+  router:23.04
+  middlebox:15.21
+  vpon:13.46
+  january:12.68
+  dedicated:8.34
+  option:8.13
+  connect:8.10
+  set:7.99
+  vpn:7.94
+  point:7.42
+
+Topic 3:
+  tor:23.48
+  vpn:19.26
+  tails:15.12
+  security:5.97
+  layer:4.55
+  middlebox:4.04
+  strong:3.95
+  netsec:3.95
+  serves:3.85
+  approach:3.85
+
+Topic 4:
+  tails:9.35
+  vpn:7.77
+  quote:4.98
+  isnt:3.44
+  amquote:3.38
+  router:3.21
+  set:2.76
+  middlebox:2.52
+  devs:2.24
+  layer:2.22
+
+K: 5, Log-Likelihood: -5284.340, Alpha: 11.000, Beta: 1.100

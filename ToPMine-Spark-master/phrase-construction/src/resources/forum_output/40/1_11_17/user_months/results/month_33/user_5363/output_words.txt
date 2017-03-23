@@ -1,0 +1,61 @@
+Topic 0:
+  december:5.68
+  quote:5.41
+  government:4.62
+  grow:3.32
+  doesnt:3.16
+  power:3.06
+  larger:2.88
+  baraka:2.78
+  leader:2.75
+  mention:2.33
+
+Topic 1:
+  tor:6.83
+  ross:5.81
+  point:4.29
+  bit:3.88
+  alternative:3.88
+  complicated:3.88
+  safer:3.70
+  lead:3.68
+  dnm:3.68
+  december:3.61
+
+Topic 2:
+  tor:21.78
+  network:15.90
+  users:6.74
+  privacy:4.82
+  people:4.27
+  government:4.21
+  safe:3.89
+  online:2.97
+  good:2.49
+  system:2.23
+
+Topic 3:
+  tor:14.22
+  government:11.09
+  internet:6.32
+  guard:5.62
+  nodes:5.29
+  bet:5.16
+  anonymity:5.08
+  good:4.58
+  hack:4.48
+  people:3.99
+
+Topic 4:
+  mode:14.86
+  hidden:13.98
+  tails:11.91
+  start:11.55
+  january:9.35
+  ip:7.97
+  address:7.39
+  presidente:7.16
+  el:7.14
+  quote:6.72
+
+K: 5, Log-Likelihood: -6770.138, Alpha: 11.000, Beta: 1.100

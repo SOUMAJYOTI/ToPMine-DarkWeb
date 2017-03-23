@@ -1,0 +1,61 @@
+Topic 0:
+  dont:1.06
+  scammed localbtc trader:0.79
+  great feedback pro trader:0.79
+  great feedback phone talked:0.78
+  scam:0.77
+  call reported fraud localbtc:0.77
+  answer phone:0.77
+  phone text moneypak heard:0.76
+  isnt:0.73
+  mentality:0.65
+
+Topic 1:
+  don:1.62
+  dont:1.61
+  sad:1.10
+  blue:1.09
+  bd:1.09
+  system:1.09
+  holes:1.08
+  transaction money:1.08
+  quote:1.08
+  guess:1.08
+
+Topic 2:
+  verification:2.17
+  joint:2.17
+  bought:2.17
+  local:2.17
+  liberty:2.17
+  fees:2.17
+  hear:2.17
+  pretty:2.17
+  sneak:2.17
+  man:2.17
+
+Topic 3:
+  fees figured big deal:1.65
+  btc moneypaks nice history:1.64
+  scammed localbtc:1.29
+  pro trader:1.29
+  answer:1.29
+  localbtc:1.29
+  trader great feedback offering:1.29
+  initiated trade asked:1.29
+  phone talked phone:1.29
+  escrow avoid:1.29
+
+Topic 4:
+  don:0.82
+  dont:0.75
+  great feedback phone talked:0.71
+  call reported fraud localbtc:0.71
+  answer phone:0.71
+  phone text moneypak heard:0.71
+  great feedback pro trader:0.71
+  scammed localbtc trader:0.71
+  thing thought:0.69
+  noticed person:0.69
+
+K: 5, Log-Likelihood: -1080.311, Alpha: 11.000, Beta: 1.100

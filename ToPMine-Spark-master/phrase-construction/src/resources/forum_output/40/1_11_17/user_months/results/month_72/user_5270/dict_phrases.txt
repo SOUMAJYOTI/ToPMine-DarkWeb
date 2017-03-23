@@ -1,0 +1,29 @@
+prey,0,1
+circuit,1,2
+log,2,2
+certificate,3,1
+sites,4,3
+emails,5,2
+malicious,6,1
+hit,7,2
+attacks,8,1
+tor,9,5
+identity,10,2
+review,11,2
+fool,12,1
+browser,13,3
+reddit,14,2
+victim,15,1
+close,16,2
+train,17,2
+phishing,18,1
+sites tor,19,1
+clearnet,20,5
+clearnet sites,21,1
+exit,22,1
+clearnet tor,23,2
+site,24,1
+nodes,25,1
+safe,26,2
+send,27,1
+dont,28,1

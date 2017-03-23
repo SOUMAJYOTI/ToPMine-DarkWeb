@@ -1,0 +1,451 @@
+original developers,0,1
+users switch,1,1
+stego open,2,1
+cve flaw,3,1
+beasts,4,1
+plague,5,1
+path,6,1
+introduced,7,1
+box infected,8,2
+quote,9,7
+finds,10,1
+complex,11,1
+neat,12,3
+stego zaphod,13,1
+abusing,14,2
+accepting,15,2
+announcement,16,2
+addition,17,1
+researcher flaws,18,1
+truecrypt,19,20
+solid,20,1
+caspian,21,1
+july,22,1
+engineers,23,1
+require,24,1
+google,25,2
+easy,26,1
+version,27,1
+authorities,28,1
+subsidiary,29,1
+domain,30,1
+drive,31,2
+project veracrypt,32,1
+independent,33,1
+audit truecrypt,34,2
+including windows,35,1
+unsafe,36,2
+choosing,37,1
+posted,38,1
+bugs,39,4
+trust software,40,1
+zaphod september,41,1
+communications,42,2
+adoption,43,1
+systems,44,1
+underway,45,1
+elevated,46,1
+jpeg,47,1
+sep,48,1
+windows switch,49,1
+gibson,50,2
+weird,51,1
+hide stego,52,2
+pops,53,1
+spin,54,1
+days,55,1
+reports,56,1
+evidence,57,1
+stego,58,11
+testf,59,1
+gon,60,1
+good,61,2
+painfully,62,2
+discovered vulnerabilities,63,1
+incorporated,64,1
+won,65,1
+switch veracrypt,66,1
+warning,67,1
+security audits,68,2
+flaws forshaw,69,1
+info,70,2
+image,71,1
+ef,72,1
+finally,73,2
+remained,74,1
+cryptography,75,1
+remedy,76,1
+recentlyif,77,1
+article,78,2
+users,79,7
+security audit,80,1
+exploited,81,2
+parts,82,1
+quote zaphod,83,1
+pmdoes,84,1
+trust,85,3
+sources,86,1
+linux users,87,1
+software discovered,88,1
+capable,89,1
+system compromise,90,1
+truecrypt flaw,91,1
+program security,92,1
+zaphod,93,6
+offs,94,1
+desktop,95,2
+intentionally,96,1
+grc,97,1
+company,98,1
+hard,99,2
+laptops,100,1
+digital,101,1
+perform,102,1
+attacker,103,1
+stego program,104,2
+truecrypt source,105,2
+vpn,106,1
+royalties,107,1
+service,108,1
+hackerjon,109,1
+handling,110,2
+developer,111,1
+avoid,112,2
+ludicrous,113,2
+txtit,114,1
+called,115,1
+crowd,116,1
+entire,117,1
+doesnt,118,1
+newly,119,1
+quote oppailover,120,2
+truecrypt veracrypt,121,1
+pcworld,122,2
+lurks,123,1
+lock,124,1
+text,125,2
+pmwell,126,1
+researcher discovered,127,1
+period,128,1
+hasn,129,1
+researchers,130,1
+hashed,131,1
+audited,132,1
+sqrl,133,2
+system,134,9
+driver,135,4
+drives,136,1
+asks,137,1
+hash,138,1
+authors,139,1
+works,140,1
+login,141,2
+local,142,1
+ncc,143,1
+windows driver,144,1
+file,145,2
+honesty,146,1
+pgp,147,2
+member,148,1
+steve,149,1
+program truecrypt,150,1
+implementations,151,1
+windows system,152,1
+infected,153,5
+kali,154,1
+nswgreat,155,1
+driver critical,156,1
+missed,157,1
+attackers,158,1
+encryption system,159,2
+stego stego,160,1
+truecrypt switch,161,1
+discovered critical,162,1
+hide,163,3
+trusted,164,1
+amits,165,1
+le,166,2
+improvements,167,1
+compromise security,168,1
+possibilities,169,2
+download,170,1
+high,171,1
+earlier,172,1
+passwords,173,4
+find,174,2
+publication,175,2
+directly,176,1
+maintained,177,2
+mp,178,1
+including,179,3
+critical flaws,180,1
+source code,181,2
+steps,182,3
+license,183,1
+disk,184,1
+improve,185,1
+trust encryption,186,2
+flaws,187,6
+retrieve,188,2
+windows box,189,2
+october,190,1
+ami,191,1
+unix,192,1
+code,193,7
+veracrypt encryption,194,1
+box,195,4
+trick,196,2
+switch,197,3
+driver code,198,1
+security researcher,199,1
+persevering,200,1
+running,201,2
+flagged,202,1
+explanations,203,1
+consumer,204,1
+declared,205,2
+elevation,206,2
+blunt,207,2
+amwindows,208,1
+cve bugs,209,1
+editions,210,1
+pc,211,2
+encrypted,212,2
+online,213,1
+interested,214,1
+writes,215,1
+sitting,216,1
+oppailover september,217,3
+thought,218,2
+veracrypt,219,5
+intentional,220,1
+fucking,221,1
+timecode,222,1
+professional,223,2
+cover,224,1
+patch,225,1
+hiding,226,1
+integrity,227,1
+bitlocker,228,2
+released,229,2
+based,230,1
+august,231,1
+hosts,232,1
+apv,233,1
+remain,234,1
+night,235,1
+patches,236,2
+backdoors,237,1
+encryption stego,238,2
+picks,239,1
+steghide,240,1
+completed,241,1
+forshaw,242,3
+appreciated,243,1
+patched,244,1
+letter,245,2
+programs,246,3
+saturday,247,1
+discovered,248,3
+code audits,249,1
+access,250,1
+truecrypt developers,251,2
+document,252,1
+predecessor,253,1
+long,254,1
+bases,255,1
+truecrypt driver,256,1
+oppailover,257,3
+releasing,258,1
+partition,259,2
+cve,260,3
+encryption,261,8
+audit,262,4
+encrypt,263,2
+actively,264,1
+audio,265,1
+operating,266,2
+free,267,2
+holes,268,1
+latest,269,1
+constantinidg,270,1
+detection,271,2
+analyzed,272,1
+team,273,1
+program code,274,1
+exploiting,275,1
+asa,276,2
+code windows,277,1
+theyll,278,1
+bug,279,1
+partners,280,1
+thing,281,2
+open,282,3
+privileges,283,2
+arstechnica,284,2
+vulnerabilities driver,285,1
+project,286,4
+encrypting,287,1
+remains,288,1
+source,289,3
+microsoft,290,2
+unable,291,1
+regularly,292,1
+flaws truecrypt,293,1
+trivial,294,2
+paying,295,1
+continue,296,1
+funded,297,1
+basically,298,2
+things,299,1
+details,300,1
+pre,301,1
+finding,302,1
+assurance,303,1
+longer,304,2
+playing,305,1
+fixed,306,2
+including security,307,2
+discovered forshaw,308,1
+internet,309,1
+full,310,2
+installed,311,1
+needed,312,1
+unfixed,313,1
+keysince,314,1
+impossible,315,1
+detect,316,4
+effort,317,1
+useing,318,2
+open source,319,1
+interest,320,2
+linux,321,3
+news,322,3
+severity,323,1
+original project,324,1
+wide,325,1
+technology,326,1
+windows,327,13
+advised,328,1
+genius,329,1
+zaphod windows,330,1
+specificly,331,1
+lucian,332,1
+paid,333,1
+audit files,334,1
+vulnerabilities,335,4
+risk,336,2
+time,337,1
+compromise,338,3
+driver truecrypt,339,2
+software,340,3
+developers,341,4
+program,342,9
+issues,343,2
+mor,344,1
+twitter,345,1
+problem,346,2
+identified,347,1
+abruptly,348,1
+flaw critical,349,1
+auditors,350,1
+options,351,2
+embed,352,1
+abandoned,353,1
+dmcrypt,354,1
+zip,355,1
+phase,356,2
+images,357,2
+item,358,3
+researcher,359,3
+encrusted,360,2
+worm,361,2
+waits,362,1
+work,363,2
+installs,364,1
+versions,365,1
+rely,366,1
+detect stego,367,2
+nsa,368,2
+word,369,1
+drivers,370,1
+librecrypt,371,1
+truecrypt code,372,1
+james,373,1
+privilege,374,1
+infected neat,375,1
+appearances,376,2
+lot,377,2
+unwise,378,2
+computer,379,1
+flaw,380,4
+feature,381,1
+continues,382,2
+usernames,383,1
+place,384,2
+licensing,385,1
+established,386,2
+vulnerabilities software,387,1
+bugs program,388,1
+suspect,389,2
+great,390,1
+performed,391,1
+site,392,1
+audits bugs,393,1
+developers september,394,2
+anonymous,395,1
+cve cve,396,1
+shut,397,1
+data,398,1
+open item,399,1
+simple,400,1
+darknet,401,2
+september news,402,2
+create,403,2
+flaws discovered,404,1
+group,405,1
+ammake,406,1
+format,407,1
+infected box,408,2
+users truecrypt,409,2
+pmquote,410,1
+covered,411,1
+files,412,5
+replacement,413,1
+dont,414,1
+flaws program,415,2
+covering,416,2
+disks,417,1
+critical,418,3
+steal,419,2
+advice,420,2
+statements,421,1
+imo,422,1
+encryption software,423,1
+error,424,1
+point,425,2
+aware,426,2
+general,427,2
+database,428,1
+security,429,11
+september,430,6
+public,431,1
+audit project,432,1
+designed,433,2
+audits,434,3
+undiscovered,435,1
+original,436,5
+aims,437,1
+disclosed,438,1
+limited,439,1
+match,440,1
+alternative,441,1
+source program,442,1
+terminal,443,1
+discontinued,444,1
+allowing,445,1
+command,446,1
+veracrypt open,447,1
+user,448,3
+truecrypt audit,449,1
+account,450,1

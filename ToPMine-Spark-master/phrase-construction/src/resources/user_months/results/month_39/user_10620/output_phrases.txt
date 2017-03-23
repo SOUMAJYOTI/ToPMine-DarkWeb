@@ -1,0 +1,61 @@
+Topic 0:
+  generate:0.63
+  great:0.61
+  size:0.47
+  max:0.47
+  software:0.47
+  public:0.33
+  oneconspiracy:0.29
+  quote:0.29
+  april:0.29
+  amyou:0.29
+
+Topic 1:
+  generate:0.74
+  public:0.50
+  great:0.50
+  software:0.37
+  max:0.37
+  size:0.36
+  key:0.29
+  pgp:0.29
+  program:0.29
+  april:0.27
+
+Topic 2:
+  generate:0.80
+  public:0.55
+  great:0.46
+  software:0.35
+  max:0.34
+  size:0.34
+  key:0.29
+  pgp:0.29
+  program:0.29
+  quote:0.26
+
+Topic 3:
+  generate:0.84
+  public:0.63
+  great:0.43
+  size:0.31
+  max:0.31
+  software:0.31
+  pgp:0.30
+  program:0.30
+  key:0.30
+  keypair:0.29
+
+Topic 4:
+  great:0.78
+  size:0.71
+  max:0.71
+  software:0.70
+  generate:0.46
+  rsa:0.30
+  alike:0.30
+  aging:0.30
+  linux:0.30
+  drive:0.30
+
+K: 5, Log-Likelihood: -396.561, Alpha: 11.000, Beta: 1.100

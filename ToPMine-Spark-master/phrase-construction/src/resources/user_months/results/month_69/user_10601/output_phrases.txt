@@ -1,0 +1,61 @@
+Topic 0:
+  feds:5.04
+  service:3.54
+  emails:3.33
+  pgp sigaint:3.33
+  tormail:3.33
+  fact:3.33
+  pgp feds:3.33
+  read:3.33
+  recommend:2.02
+  anonymous email:2.02
+
+Topic 1:
+  place:3.47
+  thing:1.67
+  money:0.97
+  history:0.78
+  taught:0.78
+  robust:0.78
+  cyber:0.78
+  send wallet:0.78
+  forever:0.78
+  sig:0.78
+
+Topic 2:
+  hooker:5.00
+  bank:2.47
+  order:2.44
+  lol:1.63
+  tx:1.60
+  thinks:1.60
+  turn:1.60
+  crypto:1.60
+  ive:1.60
+  skills:1.60
+
+Topic 3:
+  send wallet:4.29
+  money:4.10
+  time:3.26
+  great:2.01
+  big:2.01
+  investing:2.01
+  days:2.00
+  illegal:2.00
+  hour:2.00
+  site:1.99
+
+Topic 4:
+  sellers:3.32
+  small:1.62
+  wan:1.62
+  buttcoins:1.62
+  phone:1.62
+  trade:1.62
+  onemeet:1.62
+  cash:1.62
+  find:1.62
+  min:1.62
+
+K: 5, Log-Likelihood: -1646.885, Alpha: 11.000, Beta: 1.100

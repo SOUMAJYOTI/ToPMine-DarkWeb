@@ -1,0 +1,61 @@
+Topic 0:
+  public key decrypt private:6.64
+  asa:4.96
+  garden:4.08
+  vendors:4.08
+  encrypted:4.08
+  address:4.02
+  quote:4.01
+  bits:3.82
+  pgp key:3.59
+  numb:3.29
+
+Topic 1:
+  captain:4.68
+  gpg:4.13
+  thread:4.09
+  hey:3.30
+  process:3.29
+  check:2.74
+  info:2.34
+  experience:2.11
+  friend:2.06
+  reformat:2.05
+
+Topic 2:
+  program:6.22
+  drive:4.14
+  characters:4.14
+  hard:4.14
+  text:4.14
+  mac:4.14
+  tor:4.14
+  time pgp:4.14
+  markets:4.14
+  coming:4.14
+
+Topic 3:
+  encrypt message:2.11
+  vthc:2.07
+  uolrbz:2.07
+  fsut:2.07
+  whost:2.07
+  ipn:2.07
+  eswo:2.07
+  hrjjg:2.07
+  fxal:2.07
+  jqrrhlzcsjsocdtmbcfhlxyaf:2.07
+
+Topic 4:
+  questions:4.14
+  block:4.14
+  public key:3.50
+  pgp:2.74
+  pemuxoqcvzhowrhkfxw:2.06
+  qe:2.06
+  rbhlfnxejlbmnducbvfgnlekroh:2.06
+  hlaxmozkkeft:2.06
+  ptjgwpa:2.06
+  bzfcbm:2.06
+
+K: 5, Log-Likelihood: -8655.400, Alpha: 11.000, Beta: 1.100

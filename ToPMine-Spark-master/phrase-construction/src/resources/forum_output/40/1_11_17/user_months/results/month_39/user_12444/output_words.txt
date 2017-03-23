@@ -1,0 +1,61 @@
+Topic 0:
+  eik:2.07
+  viel:1.59
+  ja:1.15
+  coinit:1.06
+  kapteeni:1.01
+  saapunu:0.85
+  oo:0.85
+  kest:0.85
+  coineja:0.85
+  tehd:0.84
+
+Topic 1:
+  viel:1.09
+  ja:1.08
+  eik:0.85
+  kapteeni:0.77
+  coinit:0.71
+  kun:0.62
+  ll:0.54
+  taas:0.51
+  nain:0.49
+  tilille:0.47
+
+Topic 2:
+  viel:0.90
+  ja:0.88
+  lompakkoon:0.79
+  taas:0.74
+  mutta:0.73
+  ll:0.63
+  kun:0.55
+  ap:0.48
+  sis:0.43
+  siirsin:0.42
+
+Topic 3:
+  ja:1.27
+  ll:0.97
+  viel:0.70
+  sis:0.59
+  mutta:0.59
+  kapteeni:0.54
+  coinit:0.53
+  lompakkoon:0.52
+  eik:0.50
+  taas:0.48
+
+Topic 4:
+  mutta:0.97
+  lompakkoon:0.94
+  taas:0.94
+  ap:0.76
+  viel:0.72
+  ja:0.61
+  siirsin:0.60
+  kun:0.60
+  vaan:0.49
+  puolella:0.49
+
+K: 5, Log-Likelihood: -969.116, Alpha: 11.000, Beta: 1.100

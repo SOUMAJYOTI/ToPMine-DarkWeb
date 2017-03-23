@@ -1,0 +1,61 @@
+Topic 0:
+  tails:1.58
+  pidgin:1.35
+  tutorial:1.23
+  cool:0.96
+  october:0.86
+  quote:0.84
+  chat:0.79
+  lol:0.79
+  extends:0.79
+  username:0.78
+
+Topic 1:
+  tails:1.77
+  pidgin:1.47
+  tutorial:1.13
+  cool:0.99
+  knowledge:0.89
+  extends:0.87
+  running:0.86
+  aim:0.86
+  lol:0.85
+  chat:0.84
+
+Topic 2:
+  tails:1.74
+  pidgin:1.52
+  cool:1.17
+  detailed:0.94
+  username:0.93
+  users:0.91
+  running:0.91
+  chat:0.90
+  aim:0.90
+  knowledge:0.88
+
+Topic 3:
+  tails:1.78
+  pidgin:1.29
+  tutorial:1.16
+  cool:0.97
+  october:0.84
+  lol:0.83
+  quote:0.83
+  extends:0.82
+  users:0.82
+  knowledge:0.82
+
+Topic 4:
+  tutorial:1.69
+  pidgin:1.38
+  tails:1.13
+  cool:0.90
+  quote:0.85
+  otr:0.80
+  october:0.78
+  username:0.67
+  detailed:0.66
+  running:0.66
+
+K: 5, Log-Likelihood: -584.514, Alpha: 11.000, Beta: 1.100

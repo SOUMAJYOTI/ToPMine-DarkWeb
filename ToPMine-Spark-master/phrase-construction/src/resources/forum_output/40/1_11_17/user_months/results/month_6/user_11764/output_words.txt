@@ -1,0 +1,61 @@
+Topic 0:
+  uri:5.37
+  scam:4.09
+  mods:3.66
+  forum:3.43
+  march:2.73
+  ordered:2.37
+  admins:2.34
+  warning:1.56
+  allsite:1.55
+  hacked:1.55
+
+Topic 1:
+  mods:2.08
+  sr:1.94
+  road:1.31
+  answer:1.30
+  scammer:1.29
+  support:1.09
+  noticed:1.07
+  moving:1.05
+  thing:1.05
+  vendors:1.01
+
+Topic 2:
+  clu:9.67
+  dr:9.66
+  people:7.57
+  today:7.14
+  scammer:6.84
+  stealth:5.73
+  promoting:3.86
+  shame:3.86
+  honolulu:3.86
+  express:3.86
+
+Topic 3:
+  sr:4.22
+  vending:3.56
+  mod:3.55
+  answer:3.45
+  admin:2.87
+  shady:1.66
+  moved:1.66
+  customer:1.66
+  practice:1.66
+  topics:1.66
+
+Topic 4:
+  vendors:3.42
+  scammer:2.29
+  shit:2.26
+  road:2.18
+  honoluluexpress:1.92
+  list:1.86
+  silk:1.71
+  sr:1.68
+  fe:1.41
+  sense:1.20
+
+K: 5, Log-Likelihood: -2630.680, Alpha: 11.000, Beta: 1.100

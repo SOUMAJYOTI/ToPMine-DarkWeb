@@ -1,0 +1,61 @@
+Topic 0:
+  ett:3.44
+  sis:3.39
+  btc:2.34
+  ja:2.30
+  mutta:1.98
+  menetti:1.80
+  pisteita:1.80
+  hinta:1.80
+  fiat:1.79
+  kaikki:1.60
+
+Topic 1:
+  finland:2.39
+  high:2.09
+  li:2.00
+  ett:1.81
+  december:1.71
+  ja:1.67
+  ei:1.59
+  itsell:1.57
+  quote:1.57
+  prices:1.50
+
+Topic 2:
+  kapteeni:9.53
+  olisi:7.31
+  ja:5.19
+  kun:4.90
+  huolissaan:3.91
+  asiasta:3.34
+  ss:3.31
+  lk:2.91
+  olko:2.91
+  ett:2.88
+
+Topic 3:
+  silkkitie:8.36
+  ett:2.11
+  forbidden:1.84
+  sr:1.84
+  viel:1.75
+  koinit:1.71
+  ei:1.70
+  hub:1.58
+  skt:1.48
+  ytt:1.47
+
+Topic 4:
+  jos:7.13
+  ett:3.76
+  ja:3.53
+  jo:3.39
+  ei:3.19
+  ongelma:2.89
+  koinit:1.94
+  lis:1.80
+  mennyt:1.56
+  nyt:1.55
+
+K: 5, Log-Likelihood: -4304.053, Alpha: 11.000, Beta: 1.100

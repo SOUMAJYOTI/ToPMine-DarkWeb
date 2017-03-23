@@ -1,0 +1,61 @@
+Topic 0:
+  store:7.71
+  search:3.82
+  vendors:3.61
+  choose:2.65
+  reddit:2.12
+  branding:1.88
+  store vendors:1.88
+  urls:1.88
+  profile:1.88
+  post:1.88
+
+Topic 1:
+  bootstrap:5.77
+  february:3.92
+  markets:3.51
+  sheep lookalike:2.89
+  sites:2.74
+  web:2.74
+  thekushlife:2.74
+  heard:2.74
+  amanother:2.73
+  framework:2.73
+
+Topic 2:
+  fe:5.04
+  sig:3.80
+  partial:2.38
+  users:2.37
+  free:2.10
+  sell:2.10
+  good:2.00
+  rate:1.86
+  front:1.86
+  listening:1.86
+
+Topic 3:
+  road:2.72
+  girllol:2.72
+  running:2.71
+  supposed:2.71
+  market:1.75
+  thoughts:1.71
+  pmrun:1.71
+  sunwu:1.71
+  thisprecisely:1.71
+  charity:1.16
+
+Topic 4:
+  positive:2.80
+  thing:2.69
+  comments:2.50
+  bad:2.50
+  change:2.48
+  pleasant:1.71
+  basically:1.71
+  machismo:1.71
+  absence:1.71
+  darkweb:1.71
+
+K: 5, Log-Likelihood: -1699.565, Alpha: 11.000, Beta: 1.100

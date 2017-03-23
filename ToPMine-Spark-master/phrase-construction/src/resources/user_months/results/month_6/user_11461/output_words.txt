@@ -1,0 +1,61 @@
+Topic 0:
+  coins:0.74
+  beware:0.65
+  silkroad:0.63
+  scammed:0.43
+  people:0.41
+  forums:0.41
+  buy:0.40
+  stupid:0.40
+  deal:0.36
+  wanted:0.21
+
+Topic 1:
+  coins:0.85
+  silkroad:0.59
+  beware:0.59
+  deal:0.44
+  scammed:0.43
+  people:0.39
+  forums:0.38
+  stupid:0.35
+  buy:0.35
+  finished:0.21
+
+Topic 2:
+  coins:0.81
+  silkroad:0.64
+  beware:0.61
+  scammed:0.42
+  forums:0.41
+  people:0.40
+  deal:0.38
+  stupid:0.38
+  buy:0.37
+  post:0.21
+
+Topic 3:
+  coins:0.68
+  beware:0.61
+  silkroad:0.60
+  buy:0.52
+  stupid:0.51
+  forums:0.43
+  people:0.42
+  scammed:0.36
+  deal:0.33
+  read:0.23
+
+Topic 4:
+  coins:0.92
+  beware:0.54
+  silkroad:0.53
+  deal:0.50
+  people:0.37
+  forums:0.37
+  scammed:0.37
+  stupid:0.37
+  buy:0.36
+  minutes:0.22
+
+K: 5, Log-Likelihood: -241.219, Alpha: 11.000, Beta: 1.100

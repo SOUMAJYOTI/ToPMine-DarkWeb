@@ -1,0 +1,61 @@
+Topic 0:
+  ditto:0.34
+  quote:0.34
+  nostalgic:0.34
+  pmi:0.34
+  road:0.34
+  knuckles:0.34
+  silk:0.34
+  original:0.34
+  feels:0.34
+  point:0.34
+
+Topic 1:
+  point:0.34
+  original:0.34
+  road:0.34
+  feels:0.34
+  knuckles:0.34
+  nostalgic:0.34
+  silk:0.34
+  ditto:0.34
+  pmi:0.34
+  quote:0.34
+
+Topic 2:
+  keeping:0.34
+  quote teardrop:0.34
+  point:0.34
+  original:0.34
+  nostalgic:0.34
+  quote:0.34
+  road:0.34
+  silk:0.34
+  feels:0.34
+  pmi:0.34
+
+Topic 3:
+  keeping:0.34
+  quote teardrop:0.34
+  silk:0.34
+  pmi:0.34
+  road:0.34
+  knuckles:0.34
+  feels:0.34
+  ditto:0.34
+  quote:0.34
+  original:0.34
+
+Topic 4:
+  keeping:0.34
+  feels:0.34
+  pmi:0.34
+  quote teardrop:0.34
+  knuckles:0.34
+  nostalgic:0.34
+  ditto:0.34
+  point:0.34
+  quote:0.34
+  original:0.34
+
+K: 5, Log-Likelihood: -168.409, Alpha: 11.000, Beta: 1.100

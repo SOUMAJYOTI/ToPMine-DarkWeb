@@ -1,0 +1,51 @@
+Topic 0:
+  settings:0.20
+  achieve:0.20
+  system:0.20
+  support:0.20
+  bucket:0.20
+  data:0.20
+  idea:0.20
+  kicked:0.20
+
+Topic 1:
+  settings:0.20
+  idea:0.20
+  kicked:0.20
+  bucket:0.20
+  system:0.20
+  data:0.20
+  achieve:0.20
+  support:0.20
+
+Topic 2:
+  data:0.20
+  system:0.20
+  kicked:0.20
+  support:0.20
+  settings:0.20
+  achieve:0.20
+  bucket:0.20
+  idea:0.20
+
+Topic 3:
+  support:0.20
+  achieve:0.20
+  kicked:0.20
+  idea:0.20
+  bucket:0.20
+  settings:0.20
+  system:0.20
+  data:0.20
+
+Topic 4:
+  data:0.20
+  system:0.20
+  kicked:0.20
+  bucket:0.20
+  idea:0.20
+  achieve:0.20
+  support:0.20
+  settings:0.20
+
+K: 5, Log-Likelihood: -16.636, Alpha: 11.000, Beta: 1.100

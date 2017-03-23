@@ -1,0 +1,61 @@
+Topic 0:
+  answers question addressed:4.39
+  quote:4.10
+  spreading:3.55
+  standard:3.55
+  havana alpacas:3.55
+  steal:3.55
+  hear:3.55
+  picking:3.55
+  evan:3.55
+  time havana:3.55
+
+Topic 1:
+  key:5.30
+  vendor:4.60
+  buyers:4.21
+  havana:3.72
+  cannabis:3.52
+  transaction:3.43
+  fp:3.37
+  create:3.27
+  invite:3.24
+  probablefire:3.24
+
+Topic 2:
+  vendor:3.27
+  multi sig:2.76
+  buyers:2.37
+  havana:2.13
+  absolem:1.58
+  time consuming:1.57
+  jf:1.50
+  side:1.43
+  tj:1.42
+  testing:1.30
+
+Topic 3:
+  web:7.91
+  market:7.44
+  similarities:7.13
+  alpaca cr:5.34
+  duck:4.37
+  absalom:4.33
+  application:4.33
+  havana:4.24
+  held:3.55
+  week:3.55
+
+Topic 4:
+  marijuana:4.38
+  markets:4.38
+  risk:4.38
+  foolish:4.38
+  scam:4.38
+  decision:4.38
+  ava:4.30
+  human:3.53
+  fallible:3.53
+  scammers:3.53
+
+K: 5, Log-Likelihood: -11492.580, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tmg:1.10
+  place:1.03
+  team:0.52
+  sense:0.52
+  india:0.51
+  started:0.51
+  acid:0.51
+  web:0.51
+  running:0.51
+  experiments:0.51
+
+Topic 1:
+  place:0.79
+  tmg:0.69
+  link:0.52
+  post:0.52
+  public:0.52
+  add:0.52
+  logic:0.52
+  profile:0.51
+  keys:0.51
+  signature:0.51
+
+Topic 2:
+  tmg:1.00
+  place:0.88
+  read:0.50
+  logikboom:0.49
+  guys grips site pgp:0.49
+  amhi:0.49
+  quote:0.49
+  february:0.49
+  wrong frustration:0.49
+  received reponses replies:0.49
+
+Topic 3:
+  post pgp:0.64
+  public:0.63
+  thread:0.63
+  keys:0.62
+  pgp:0.62
+  logic:0.62
+  add:0.62
+  key:0.62
+  link:0.62
+  signature:0.62
+
+Topic 4:
+  place:1.12
+  tmg:1.06
+  find:0.52
+  psychedelic:0.51
+  great:0.51
+  experiments:0.51
+  contribute:0.51
+  people:0.51
+  developer:0.51
+  acid:0.51
+
+K: 5, Log-Likelihood: -402.759, Alpha: 11.000, Beta: 1.100

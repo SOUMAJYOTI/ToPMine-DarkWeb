@@ -1,0 +1,61 @@
+Topic 0:
+  coins:2.18
+  quote:1.19
+  january:1.14
+  money:0.59
+  stable:0.59
+  remove:0.58
+  everytime:0.58
+  fund:0.58
+  advice:0.58
+  confirm:0.57
+
+Topic 1:
+  point:2.84
+  car:2.76
+  bitcoin:2.76
+  service:1.77
+  bridge:1.77
+  stated:0.79
+  bitblendervrfkzr:0.79
+  mention:0.79
+  cruise:0.79
+  nursery:0.79
+
+Topic 2:
+  coins:1.82
+  money:1.27
+  authors:1.13
+  parts:1.09
+  throw:1.07
+  confirm:1.06
+  everytime:1.06
+  alpha:1.04
+  stable:1.03
+  advice:1.03
+
+Topic 3:
+  coins:2.24
+  money:1.05
+  january:0.95
+  quote:0.91
+  fund:0.88
+  remove:0.87
+  funds:0.87
+  advice:0.86
+  confirm:0.85
+  everytime:0.85
+
+Topic 4:
+  dont:3.00
+  coins:2.54
+  wallet:1.21
+  gatewy:1.20
+  pull:1.20
+  forum:1.20
+  confirmations:1.19
+  problem:1.19
+  complaining:1.19
+  told:1.18
+
+K: 5, Log-Likelihood: -782.731, Alpha: 11.000, Beta: 1.100

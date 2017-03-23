@@ -1,0 +1,61 @@
+Topic 0:
+  quote fork november:31.11
+  read:10.58
+  dont:9.89
+  forums:7.90
+  open:7.75
+  sr:7.10
+  straight:5.09
+  undercover officers:5.07
+  silent:5.07
+  public defenders:5.05
+
+Topic 1:
+  cop block:6.14
+  bought cash:6.14
+  protocol:6.14
+  online:6.14
+  officer:4.27
+  method call hr departments:3.65
+  phone records catch:3.55
+  idea caught utilize:3.55
+  police offices order learn:3.50
+  voicemail message:3.50
+
+Topic 2:
+  cop:4.05
+  list:3.87
+  master:3.87
+  connected:3.87
+  resources:3.87
+  calling:3.87
+  full:3.07
+  confirm:3.01
+  exists:3.01
+  curious:3.01
+
+Topic 3:
+  forums:8.39
+  officernon sworn:6.14
+  law:6.14
+  forum account:6.14
+  tor:6.14
+  drug interdiction:6.14
+  hr department:6.14
+  law enforcement:5.07
+  badge number:4.35
+  bit difficult:3.06
+
+Topic 4:
+  create:4.51
+  didnt:3.80
+  drug:3.79
+  le:2.31
+  paranoia:2.15
+  time:2.11
+  theyll:2.07
+  dont forums:1.86
+  promotion:1.86
+  theyll real:1.86
+
+K: 5, Log-Likelihood: -13818.621, Alpha: 11.000, Beta: 1.100

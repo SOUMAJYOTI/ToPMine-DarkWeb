@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:7.78
+  electrum:3.27
+  tails:3.13
+  computer:2.39
+  protect:2.37
+  bitcoin:2.06
+  good:1.53
+  password:1.40
+  holding:1.39
+  safer:1.38
+
+Topic 1:
+  btc:2.59
+  hold:2.07
+  wallet:1.54
+  good:1.54
+  darkweb:1.38
+  market:1.21
+  quote:1.14
+  axa:1.08
+  atm:0.90
+  placate:0.90
+
+Topic 2:
+  tor:3.69
+  rushed:2.35
+  support:2.33
+  bit:1.85
+  runs:1.85
+  chromium:1.85
+  alpha:0.97
+  basically:0.96
+  extension:0.95
+  worthless:0.95
+
+Topic 3:
+  btc:3.81
+  hold:3.44
+  market:2.37
+  darkweb:2.21
+  good:1.77
+  wallet:1.69
+  quote:1.09
+  axa:1.09
+  service:0.99
+  move:0.99
+
+Topic 4:
+  wallet:3.65
+  happy:1.94
+  bitcoin:1.81
+  good:1.62
+  axa:1.17
+  quote:1.14
+  tails:1.08
+  local:1.08
+  electrum:0.95
+  protect:0.84
+
+K: 5, Log-Likelihood: -1107.237, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  atm:0.82
+  messages:0.73
+  batch:0.42
+  response agora:0.42
+  hope:0.41
+  amazing:0.41
+  day:0.41
+  vacation:0.41
+  clean:0.41
+  vendors:0.41
+
+Topic 1:
+  messages:0.85
+  atm:0.79
+  confirmed:0.40
+  odd:0.40
+  failed:0.40
+  assuming:0.40
+  load:0.40
+  message:0.40
+  times:0.40
+  folder:0.39
+
+Topic 2:
+  messages:1.05
+  atm:0.57
+  message:0.47
+  eventually:0.47
+  load:0.47
+  assuming:0.47
+  tab:0.47
+  times:0.47
+  odd:0.47
+  failed:0.47
+
+Topic 3:
+  atm:0.88
+  messages:0.65
+  hope:0.42
+  day:0.42
+  mode:0.42
+  clean:0.42
+  vacation:0.42
+  amazing:0.42
+  batch:0.42
+  response agora:0.42
+
+Topic 4:
+  atm:0.86
+  messages:0.65
+  mode:0.42
+  vendors:0.42
+  clean:0.42
+  amazing:0.42
+  response agora:0.42
+  vacation:0.42
+  batch:0.42
+  day:0.42
+
+K: 5, Log-Likelihood: -220.801, Alpha: 11.000, Beta: 1.100

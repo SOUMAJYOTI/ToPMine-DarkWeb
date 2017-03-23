@@ -1,0 +1,61 @@
+Topic 0:
+  dont:0.28
+  link:0.28
+  love avengers:0.28
+  turned:0.28
+  register:0.28
+  invite:0.23
+  love:0.17
+  garden:0.14
+  spamming:0.14
+  times:0.14
+
+Topic 1:
+  dont:0.28
+  turned:0.28
+  link:0.28
+  love avengers:0.28
+  register:0.28
+  invite:0.23
+  love:0.17
+  times:0.14
+  crashers:0.14
+  thing:0.14
+
+Topic 2:
+  dont:0.28
+  turned:0.28
+  register:0.28
+  love avengers:0.28
+  link:0.28
+  invite:0.23
+  love:0.17
+  crashers:0.14
+  thing:0.14
+  cool:0.14
+
+Topic 3:
+  love avengers:0.28
+  register:0.28
+  link:0.28
+  turned:0.28
+  dont:0.28
+  invite:0.23
+  love:0.17
+  finish:0.14
+  existed:0.14
+  forced:0.14
+
+Topic 4:
+  register:0.28
+  turned:0.28
+  link:0.28
+  love avengers:0.28
+  dont:0.28
+  invite:0.23
+  love:0.17
+  avengersxmn:0.14
+  called:0.14
+  referred:0.14
+
+K: 5, Log-Likelihood: -145.647, Alpha: 11.000, Beta: 1.100

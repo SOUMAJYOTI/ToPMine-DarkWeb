@@ -1,0 +1,61 @@
+Topic 0:
+  pandora:4.00
+  main time:3.37
+  coins:3.14
+  agora evolution:3.12
+  alice:3.07
+  mates:2.90
+  fucked:2.67
+  wax:1.98
+  seller account:1.98
+  market:1.98
+
+Topic 1:
+  money:5.54
+  booming:4.10
+  reason:4.10
+  custumer:4.10
+  blocqued:4.10
+  trust:4.10
+  question:4.10
+  evolution:3.07
+  didnt:2.72
+  blocked:2.71
+
+Topic 2:
+  custumers:5.59
+  case:4.12
+  real:4.12
+  understand:2.70
+  kind:2.64
+  don:2.20
+  feedbacks evolution:2.04
+  boom:2.04
+  move:2.04
+  belive:2.04
+
+Topic 3:
+  vacation mode:8.30
+  good:6.74
+  click:4.12
+  link:4.12
+  fact:3.22
+  seller deblocked:3.22
+  admin:3.22
+  genuine:3.22
+  tommorrw:3.22
+  find change:3.22
+
+Topic 4:
+  administration:6.17
+  agora:5.39
+  job:4.10
+  account:3.52
+  feedback:3.08
+  matter:3.07
+  solve:3.01
+  forums:2.91
+  lost:2.75
+  reply:2.02
+
+K: 5, Log-Likelihood: -3118.640, Alpha: 11.000, Beta: 1.100

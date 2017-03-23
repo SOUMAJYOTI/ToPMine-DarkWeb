@@ -1,0 +1,61 @@
+Topic 0:
+  family bullshit:1.68
+  peons:1.66
+  issue fact:1.66
+  dont correct:1.66
+  totally:1.66
+  believes:1.65
+  money:1.65
+  time family:1.65
+  beloved:1.65
+  ideology:1.65
+
+Topic 1:
+  word:3.32
+  august:3.04
+  effort:2.42
+  direct:2.42
+  protect:2.42
+  pm:2.42
+  advised:2.42
+  poor:2.42
+  vulnerable heartbleed:2.42
+  exploit:2.42
+
+Topic 2:
+  sr:4.86
+  obvious:3.23
+  family:3.22
+  safe:3.22
+  community:3.22
+  cheap:3.22
+  disputed:3.21
+  plague:1.53
+  dw:1.53
+  flourish:1.53
+
+Topic 3:
+  enemy:4.91
+  time:2.33
+  defeat:2.33
+  jail:2.33
+  spent:2.33
+  le:2.33
+  hang:1.94
+  genius:1.51
+  hand:1.51
+  amyou:1.51
+
+Topic 4:
+  defcon:3.33
+  bed:1.63
+  payroll:1.63
+  doesnt:1.63
+  things:1.63
+  upgraded:1.63
+  poison:1.63
+  shill:1.63
+  incorrect:1.63
+  aid:1.63
+
+K: 5, Log-Likelihood: -1812.257, Alpha: 11.000, Beta: 1.100

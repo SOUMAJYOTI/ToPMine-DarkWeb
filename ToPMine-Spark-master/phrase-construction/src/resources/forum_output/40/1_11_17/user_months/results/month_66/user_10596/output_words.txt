@@ -1,0 +1,61 @@
+Topic 0:
+  onion:18.97
+  accounts:17.76
+  security:16.97
+  bond:16.24
+  multisig:16.14
+  time:15.47
+  allowed:14.97
+  flaws:13.97
+  prior:13.18
+  key:12.90
+
+Topic 1:
+  order:20.97
+  market:17.34
+  vendor:12.13
+  key:10.05
+  select:9.97
+  public:6.97
+  option:5.97
+  funds:5.97
+  check:4.58
+  listing:3.97
+
+Topic 2:
+  hansa:4.26
+  randomized:2.01
+  referred:1.94
+  eic:1.88
+  offer:1.87
+  invoice:1.85
+  good:1.81
+  dn:1.66
+  multisig:1.52
+  withdraw:1.02
+
+Topic 3:
+  pay:9.21
+  send:8.88
+  verify:8.31
+  amount:6.45
+  coins:6.41
+  vendor:5.78
+  btc:4.97
+  version:4.97
+  helix:4.97
+  shield:4.73
+
+Topic 4:
+  bond:2.22
+  post:1.66
+  dream:1.64
+  dhl:1.58
+  verify:1.49
+  link:1.35
+  gramsflow:1.29
+  nucleus:1.11
+  thread:1.03
+  referred:0.98
+
+K: 5, Log-Likelihood: -8230.994, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  trust:0.00
+  learned:0.00
+  coins:0.00
+  hope:0.00
+  surprising:0.00
+  people:0.00
+  cornelius:0.00
+  local:0.00
+  insecurely:0.00
+  site:0.00
+
+Topic 1:
+  trust:0.00
+  learned:0.00
+  coins:0.00
+  hope:0.00
+  surprising:0.00
+  people:0.00
+  cornelius:0.00
+  local:0.00
+  insecurely:0.00
+  site:0.00
+
+Topic 2:
+  trust:0.00
+  learned:0.00
+  coins:0.00
+  hope:0.00
+  surprising:0.00
+  people:0.00
+  cornelius:0.00
+  local:0.00
+  insecurely:0.00
+  site:0.00
+
+Topic 3:
+  trust:0.00
+  learned:0.00
+  coins:0.00
+  hope:0.00
+  surprising:0.00
+  people:0.00
+  cornelius:0.00
+  local:0.00
+  insecurely:0.00
+  site:0.00
+
+Topic 4:
+  trust:0.00
+  learned:0.00
+  coins:0.00
+  hope:0.00
+  surprising:0.00
+  people:0.00
+  cornelius:0.00
+  local:0.00
+  insecurely:0.00
+  site:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

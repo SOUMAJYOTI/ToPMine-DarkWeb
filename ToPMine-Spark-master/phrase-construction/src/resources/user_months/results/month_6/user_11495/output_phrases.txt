@@ -1,0 +1,61 @@
+Topic 0:
+  website:0.24
+  product:0.16
+  days:0.08
+  stocklist:0.08
+  emailing:0.08
+  couple:0.08
+  people:0.08
+  email:0.08
+  emailed:0.08
+  hosted:0.08
+
+Topic 1:
+  website:0.24
+  product:0.16
+  couple:0.08
+  link:0.08
+  people:0.08
+  days:0.08
+  email:0.08
+  ago:0.08
+  emailed:0.08
+  buying:0.08
+
+Topic 2:
+  website:0.24
+  product:0.16
+  scam:0.08
+  oldest:0.08
+  darknet:0.08
+  sites:0.08
+  ago:0.08
+  hacked:0.08
+  people:0.08
+  link:0.08
+
+Topic 3:
+  website:0.24
+  product:0.16
+  ago:0.08
+  server:0.08
+  trust:0.08
+  wiped:0.08
+  compromised:0.08
+  buying:0.08
+  hosted:0.08
+  bought:0.08
+
+Topic 4:
+  website:0.24
+  product:0.16
+  scam:0.08
+  sites:0.08
+  oldest:0.08
+  darknet:0.08
+  compromised:0.08
+  asked:0.08
+  emailing:0.08
+  wiped:0.08
+
+K: 5, Log-Likelihood: -34.310, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ytt:1.35
+  hei:1.35
+  yhteytt:1.35
+  voi:1.35
+  lopulta:1.35
+  kadota:1.35
+  miksi:1.35
+  bitcoineja ei:1.35
+  siirrosta:1.35
+  sat:1.35
+
+Topic 1:
+  katos:1.57
+  marten:1.57
+  ja ne:1.57
+  ensign:1.57
+  ostosta:1.57
+  kun:1.57
+  rahat edes litilill:1.57
+  ei:1.57
+  rahaa:1.57
+  amquote:1.57
+
+Topic 2:
+  ja:0.98
+  katuaa:0.91
+  ono:0.91
+  kyssees:0.91
+  milk:0.91
+  miksereist:0.91
+  niin:0.91
+  eat:0.91
+  oli:0.91
+  usseinkin:0.91
+
+Topic 3:
+  huomattavasti:1.48
+  nyt:1.48
+  siirron:1.48
+  smitten tulip:1.48
+  summan:1.48
+  pienemm:1.48
+  perille:1.48
+  ensimm:1.48
+  axonjaxon:1.48
+  tosin:1.48
+
+Topic 4:
+  mit oikein:0.90
+  kuumotus vitutus rahojen puolesta:0.90
+  quote:0.68
+  nollaa tietoturvaongelmia sivussa vai:0.67
+  kyyk rahat edes litilill:0.60
+  eilen tulip siirretty bitcoineja:0.60
+  multibitist silkkitielle kyy blockchainissa:0.60
+  siirto mutta balanssi ytt:0.60
+  quote sanaton october amterve:0.60
+  balanssi ytt:0.58
+
+K: 5, Log-Likelihood: -1103.049, Alpha: 11.000, Beta: 1.100

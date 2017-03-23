@@ -1,0 +1,61 @@
+Topic 0:
+  trustworthy:2.22
+  phishing:1.27
+  nym:1.25
+  source:1.25
+  sites:1.24
+  shill:1.22
+  transactions:0.96
+  phishermen:0.84
+  spammers:0.84
+  support:0.84
+
+Topic 1:
+  random:2.76
+  link:2.51
+  clown:1.99
+  afoolandhismoneywillsoonbeparted:1.87
+  public:1.20
+  brought:1.20
+  announcment:1.20
+  service:1.20
+  services:1.20
+  hidden:1.20
+
+Topic 2:
+  phiningpages:1.41
+  wrong:1.41
+  trust:1.41
+  hamsterbacke:1.41
+  transactionsgreez:1.41
+  criminal:1.41
+  distance:1.41
+  sides:1.41
+  compare:1.41
+  siete:1.41
+
+Topic 3:
+  transactions:8.34
+  bitcoins:3.23
+  security:1.38
+  arrival:1.38
+  mix:1.38
+  goods:1.38
+  time:1.38
+  donations:1.37
+  compromised:1.37
+  database:1.37
+
+Topic 4:
+  transactions:1.99
+  money:0.81
+  bitcoins:0.80
+  clown:0.76
+  bitmixer io tor:0.65
+  bitin:0.49
+  activity:0.49
+  enhance:0.49
+  reported:0.49
+  meet:0.49
+
+K: 5, Log-Likelihood: -1467.512, Alpha: 11.000, Beta: 1.100

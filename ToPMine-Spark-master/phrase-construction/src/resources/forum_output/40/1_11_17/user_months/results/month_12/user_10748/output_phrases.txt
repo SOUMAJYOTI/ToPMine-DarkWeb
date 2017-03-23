@@ -1,0 +1,61 @@
+Topic 0:
+  keys:2.60
+  file:2.60
+  create:1.69
+  address:1.69
+  secure:1.69
+  sh:1.69
+  bip:1.69
+  working:1.69
+  find:1.69
+  user:1.69
+
+Topic 1:
+  transaction:0.35
+  windows:0.34
+  considered:0.31
+  version:0.31
+  dont:0.28
+  good:0.26
+  planning:0.26
+  dark:0.26
+  interface:0.26
+  continue:0.26
+
+Topic 2:
+  python:1.53
+  submit:1.53
+  capable:1.53
+  pybitcointools:1.53
+  release:1.53
+  sign:1.53
+  plugin:1.53
+  site:1.53
+  supplied:1.53
+  signed:1.52
+
+Topic 3:
+  settings:0.63
+  tails:0.62
+  tarball:0.61
+  issues:0.61
+  windows binary:0.49
+  wallet:0.35
+  binary:0.31
+  tested:0.31
+  issue:0.31
+  keys based:0.31
+
+Topic 4:
+  issues:1.05
+  tarball:1.05
+  tails:1.04
+  settings:1.02
+  windows binary:0.55
+  tracker:0.47
+  file download:0.47
+  transaction signing:0.47
+  pbkdf:0.47
+  py:0.47
+
+K: 5, Log-Likelihood: -1171.345, Alpha: 11.000, Beta: 1.100

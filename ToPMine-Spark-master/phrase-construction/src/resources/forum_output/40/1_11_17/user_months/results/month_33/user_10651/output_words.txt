@@ -1,0 +1,61 @@
+Topic 0:
+  mempo:0.59
+  meeting:0.41
+  devs:0.40
+  attend:0.20
+  rest:0.20
+  pablo:0.20
+  person:0.20
+  chat:0.20
+  irc:0.20
+  tuesday:0.20
+
+Topic 1:
+  mempo:0.62
+  meeting:0.39
+  devs:0.39
+  clearnet:0.20
+  boxen:0.20
+  link:0.20
+  tempt:0.20
+  org:0.20
+  margin:0.20
+  whonix:0.20
+
+Topic 2:
+  mempo:0.60
+  meeting:0.40
+  devs:0.40
+  attend:0.20
+  rest:0.20
+  clearnet:0.20
+  boxen:0.20
+  margin:0.20
+  tempt:0.20
+  whonix:0.20
+
+Topic 3:
+  mempo:0.60
+  devs:0.40
+  meeting:0.40
+  link:0.20
+  whonix:0.20
+  org:0.20
+  margin:0.20
+  tempt:0.20
+  clearnet:0.20
+  boxen:0.20
+
+Topic 4:
+  mempo:0.60
+  devs:0.41
+  meeting:0.40
+  tuesday:0.20
+  asked:0.20
+  coming:0.20
+  invited:0.20
+  irc:0.20
+  chat:0.20
+  nym:0.20
+
+K: 5, Log-Likelihood: -79.106, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  shared coin:3.66
+  currency:3.66
+  link:3.39
+  post:3.33
+  mentioned:3.33
+  thread:3.31
+  btc:3.07
+  fog:2.82
+  bitblender:2.44
+  faster:2.18
+
+Topic 1:
+  coins:5.90
+  anonymity:4.48
+  hours:3.63
+  analysis:3.48
+  taint:3.48
+  bitcoinfog:3.07
+  compared:2.92
+  onion:2.60
+  private:2.20
+  funds:2.20
+
+Topic 2:
+  mixer:6.90
+  time:5.44
+  shouldnt:4.57
+  services:3.76
+  wallet:3.42
+  mixing:2.88
+  btcer:2.77
+  mans:2.26
+  hours hours:2.26
+  spring:2.26
+
+Topic 3:
+  coinjoin:4.51
+  ltc:4.48
+  shared coin:4.17
+  blockchain:4.00
+  offers:3.66
+  btc:3.62
+  bitcoin fog:3.53
+  service:3.02
+  remember:2.21
+  discontinued:2.21
+
+Topic 4:
+  tested hr laundering time:7.50
+  worked:4.53
+  site:4.46
+  avid:4.39
+  learned site fee:3.77
+  launder:3.77
+  options:3.77
+  option:3.70
+  looked:3.70
+  afraid:3.70
+
+K: 5, Log-Likelihood: -3116.599, Alpha: 11.000, Beta: 1.100

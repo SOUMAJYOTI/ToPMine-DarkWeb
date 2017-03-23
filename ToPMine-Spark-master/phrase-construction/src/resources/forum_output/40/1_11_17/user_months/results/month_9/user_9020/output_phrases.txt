@@ -1,0 +1,61 @@
+Topic 0:
+  tor:5.07
+  view money quote:4.61
+  technology:4.45
+  person worried business mistake:4.01
+  people dont:4.01
+  discipline mistake kilpatrick average:4.01
+  quote tyson april pm:3.62
+  quote zaphod:3.62
+  professionals:3.62
+  amateurs:3.62
+
+Topic 1:
+  running:6.74
+  browsing:6.74
+  great:4.74
+  habits:4.49
+  live distro:4.49
+  legal:4.49
+  files:4.49
+  illegal:4.49
+  main os:4.49
+  windows:4.49
+
+Topic 2:
+  child pornography:11.24
+  data:8.99
+  law enforcement officials:8.99
+  operation round table:6.74
+  site:6.74
+  homeland security:6.74
+  people:6.74
+  users:6.74
+  tor:6.52
+  law enforcement:5.73
+
+Topic 3:
+  niggers hattin pedos:7.37
+  anonymous network:6.72
+  privacy:5.37
+  continue:4.58
+  day:4.46
+  sites:4.46
+  connecting:4.46
+  vpn:4.28
+  breakin tiny:3.88
+  easy targets time:3.88
+
+Topic 4:
+  speed:5.45
+  setups mentioned find fastest:4.55
+  find slow connection:4.55
+  setting vans socks boxes:4.55
+  fundamental:4.48
+  faster:4.45
+  security:4.44
+  privacy:3.91
+  pmgreat:3.61
+  joking:3.61
+
+K: 5, Log-Likelihood: -11159.182, Alpha: 11.000, Beta: 1.100

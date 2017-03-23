@@ -1,0 +1,61 @@
+Topic 0:
+  dedicated:0.58
+  sock:0.57
+  running:0.57
+  tor:0.54
+  tutorial technologically illiterate:0.33
+  good tutorial link explain:0.33
+  beastie august pmdeepdotweb:0.32
+  apopularvendor august pmquote:0.31
+  linux:0.31
+  linux understand honestly:0.30
+
+Topic 1:
+  running:0.56
+  tor:0.54
+  sock:0.53
+  dedicated:0.52
+  beastie august pmdeepdotweb:0.33
+  good tutorial link explain:0.33
+  tutorial technologically illiterate:0.33
+  linux:0.31
+  linux understand honestly:0.31
+  apopularvendor august pmquote:0.31
+
+Topic 2:
+  tor:0.82
+  sock:0.80
+  dedicated:0.79
+  running:0.77
+  appreciatedthank:0.35
+  apv:0.35
+  setup:0.34
+  sites:0.34
+  catch:0.34
+  ipso:0.34
+
+Topic 3:
+  day:0.40
+  pmdeepdotweb good tutorial link:0.40
+  beastie august:0.40
+  hahaha:0.40
+  linus:0.40
+  bro:0.40
+  explain tutorial technologically illiterate:0.40
+  apopularvendor august pmquote:0.39
+  linux understand honestly:0.39
+  linux:0.39
+
+Topic 4:
+  hahaha:0.45
+  pmdeepdotweb good tutorial link:0.45
+  explain tutorial technologically illiterate:0.45
+  linus:0.45
+  bro:0.45
+  beastie august:0.45
+  day:0.45
+  linux understand honestly:0.42
+  linux:0.42
+  apopularvendor august pmquote:0.42
+
+K: 5, Log-Likelihood: -238.140, Alpha: 11.000, Beta: 1.100

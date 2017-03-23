@@ -1,0 +1,61 @@
+Topic 0:
+  scam:17.74
+  exit:14.87
+  markets:11.33
+  agora:10.74
+  market:10.29
+  coming:9.65
+  good:9.65
+  vendors:8.20
+  admins:7.81
+  big:7.81
+
+Topic 1:
+  vendors:12.52
+  abraxas:5.23
+  quote:5.12
+  exit:3.54
+  market:3.21
+  established:3.17
+  october:3.06
+  waive:2.71
+  judging:2.15
+  rampant:2.15
+
+Topic 2:
+  vendor:18.06
+  link:14.57
+  pgp:10.89
+  account:10.67
+  abraxas:10.00
+  drugs:9.93
+  referred:8.35
+  goods:7.93
+  products:7.93
+  marketplace:7.93
+
+Topic 3:
+  vendors:5.72
+  abraxas:5.71
+  established:5.21
+  vendor:4.31
+  quote:4.20
+  waive:4.06
+  october:4.02
+  fee:3.20
+  btc:3.11
+  moment:3.09
+
+Topic 4:
+  abraxas:10.84
+  vendor:9.31
+  link:7.20
+  market:4.61
+  fee:4.33
+  vendors:3.32
+  established:1.57
+  pgp:1.47
+  quote:1.37
+  recommend:1.28
+
+K: 5, Log-Likelihood: -8258.351, Alpha: 11.000, Beta: 1.100

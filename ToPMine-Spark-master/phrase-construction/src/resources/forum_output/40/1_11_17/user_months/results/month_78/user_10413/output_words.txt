@@ -1,0 +1,61 @@
+Topic 0:
+  multisig:35.28
+  trust:19.83
+  april:13.72
+  evolution:11.64
+  alpha:9.71
+  market:7.88
+  forums:7.72
+  pmquote:7.72
+  wizard:7.70
+  tcf:7.70
+
+Topic 1:
+  march:6.67
+  deposit:5.13
+  coins:4.57
+  fuck:3.77
+  boneskoopa:3.76
+  accounts:3.73
+  market:3.54
+  people:2.84
+  btc:2.81
+  quote:2.61
+
+Topic 2:
+  coins:4.58
+  fa:3.60
+  ab:2.82
+  phishing:2.53
+  link:2.52
+  address:2.49
+  deposited:2.43
+  deposit:2.40
+  btc:2.37
+  minimum:2.18
+
+Topic 3:
+  market:4.03
+  quote:3.44
+  money:3.05
+  question:2.80
+  account:2.71
+  large:2.32
+  people:2.22
+  dont:2.20
+  orders:2.20
+  read:2.20
+
+Topic 4:
+  marketplace:2.98
+  amount:2.82
+  ab:2.63
+  min:2.43
+  vendors:1.84
+  fine:1.76
+  till:1.76
+  print:1.73
+  didnt:1.71
+  sale:1.69
+
+K: 5, Log-Likelihood: -5828.726, Alpha: 11.000, Beta: 1.100

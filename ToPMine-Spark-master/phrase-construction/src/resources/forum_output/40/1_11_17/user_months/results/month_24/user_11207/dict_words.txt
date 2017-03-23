@@ -1,0 +1,16 @@
+arrives,0,1
+purchasing,1,1
+purchase,2,1
+pay,3,1
+thread,4,1
+message,5,1
+asa,6,1
+forums,7,1
+post,8,1
+leave,9,1
+review,10,1
+weed,11,1
+time,12,1
+offerconditions,13,1
+customer,14,1
+order,15,1

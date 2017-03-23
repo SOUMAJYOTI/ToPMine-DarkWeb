@@ -1,0 +1,61 @@
+Topic 0:
+  small:0.00
+  seraphic:0.00
+  onion:0.00
+  prefix:0.00
+  fee:0.00
+  runscallion:0.00
+  scallion:0.00
+  characters:0.00
+  exe:0.00
+  shorten:0.00
+
+Topic 1:
+  small:0.00
+  seraphic:0.00
+  onion:0.00
+  prefix:0.00
+  fee:0.00
+  runscallion:0.00
+  scallion:0.00
+  characters:0.00
+  exe:0.00
+  shorten:0.00
+
+Topic 2:
+  small:0.00
+  seraphic:0.00
+  onion:0.00
+  prefix:0.00
+  fee:0.00
+  runscallion:0.00
+  scallion:0.00
+  characters:0.00
+  exe:0.00
+  shorten:0.00
+
+Topic 3:
+  small:0.00
+  seraphic:0.00
+  onion:0.00
+  prefix:0.00
+  fee:0.00
+  runscallion:0.00
+  scallion:0.00
+  characters:0.00
+  exe:0.00
+  shorten:0.00
+
+Topic 4:
+  small:0.00
+  seraphic:0.00
+  onion:0.00
+  prefix:0.00
+  fee:0.00
+  runscallion:0.00
+  scallion:0.00
+  characters:0.00
+  exe:0.00
+  shorten:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

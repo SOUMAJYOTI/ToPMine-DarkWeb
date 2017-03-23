@@ -1,0 +1,61 @@
+Topic 0:
+  ytt:0.86
+  noita:0.42
+  kaikki sun:0.42
+  kun:0.42
+  pula:0.42
+  mielummin:0.42
+  mun:0.42
+  sun ytt:0.42
+  ymm:0.42
+  puolesta:0.42
+
+Topic 1:
+  olla:0.49
+  maailmasta:0.44
+  kattelee:0.44
+  nistej:0.44
+  rt:0.44
+  koskaan:0.44
+  oo:0.44
+  vois:0.44
+  koni:0.44
+  juttuja:0.44
+
+Topic 2:
+  ett:0.77
+  roinaansa:0.72
+  kyll:0.72
+  tuntuu:0.72
+  rottailu:0.72
+  itsekkin:0.72
+  noise:0.72
+  smitten:0.72
+  sek:0.72
+  vet:0.72
+
+Topic 3:
+  kaikki:2.32
+  pit:2.32
+  ja:2.24
+  viel:1.08
+  palautteita:1.08
+  rist:1.08
+  hetkell:1.08
+  silkkitiell:1.08
+  vaativat:1.08
+  mit:1.08
+
+Topic 4:
+  olla:1.36
+  ytt:0.61
+  taitaa:0.57
+  sille:0.57
+  samaa:0.57
+  ainut:0.57
+  kusettajia:0.57
+  jolta:0.57
+  tilata:0.57
+  tartar:0.57
+
+K: 5, Log-Likelihood: -800.951, Alpha: 11.000, Beta: 1.100

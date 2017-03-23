@@ -1,0 +1,61 @@
+Topic 0:
+  connect:1.64
+  site:1.41
+  january:0.90
+  moved:0.89
+  fucked:0.70
+  place:0.70
+  hours:0.70
+  address:0.69
+  happened:0.69
+  hoping:0.69
+
+Topic 1:
+  january:1.21
+  days:1.17
+  migration:0.87
+  news:0.87
+  doesnt:0.87
+  scam:0.87
+  routine:0.87
+  update:0.87
+  market:0.87
+  exit:0.87
+
+Topic 2:
+  bitcoin:4.49
+  primary:2.91
+  wallet:2.91
+  electrum:2.91
+  address created:2.90
+  key:2.90
+  escrow:2.90
+  public:2.89
+  electric:1.33
+  generate:1.33
+
+Topic 3:
+  india shoulda honestly:0.68
+  straight murked remain west:0.68
+  january:0.67
+  lost:0.57
+  dust:0.57
+  downtime:0.56
+  deepdotweb:0.56
+  west:0.54
+  quote:0.53
+  amthey:0.52
+
+Topic 4:
+  site:1.43
+  connect:1.20
+  moved:0.81
+  january:0.77
+  yesterday:0.62
+  order:0.62
+  didnt:0.62
+  hoping:0.62
+  happened:0.61
+  address:0.61
+
+K: 5, Log-Likelihood: -562.319, Alpha: 11.000, Beta: 1.100

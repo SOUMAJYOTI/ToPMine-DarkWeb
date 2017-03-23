@@ -1,0 +1,61 @@
+Topic 0:
+  tai:3.14
+  random:3.14
+  pit:3.14
+  mit:2.45
+  bittiraha:1.53
+  toimii:1.53
+  vaikka:1.53
+  siirtyy:1.53
+  poliisilla:1.53
+  ksi:1.53
+
+Topic 1:
+  mik:1.48
+  ootte:1.48
+  mikseriin:1.48
+  tie:1.48
+  sielt:1.48
+  silkkitielle:1.48
+  vai:1.48
+  ensin:1.48
+  lompakkotilille:1.48
+  turvallisin:1.48
+
+Topic 2:
+  en:2.70
+  ja:2.12
+  ei:1.84
+  usk:1.51
+  maksuja:1.51
+  vaikkei:1.51
+  jonkun:1.51
+  teoriassa:1.51
+  pmbittirahan:1.51
+  nettikauppa:1.51
+
+Topic 3:
+  se:2.02
+  bittirahan:1.28
+  nain:1.26
+  kiiinni:0.99
+  kuumotella:0.99
+  menee:0.99
+  jokaista:0.99
+  liikett:0.99
+  kiinni:0.98
+  juuri:0.92
+
+Topic 4:
+  tuo:1.88
+  helposti:1.80
+  ja jos:1.52
+  hint:1.52
+  tilisiirto:1.52
+  perseens:1.52
+  joku:1.52
+  localbitcoins:1.52
+  hiss:1.52
+  linen:1.52
+
+K: 5, Log-Likelihood: -1710.733, Alpha: 11.000, Beta: 1.100

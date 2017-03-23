@@ -1,0 +1,61 @@
+Topic 0:
+  support:3.36
+  system:2.78
+  payment:2.53
+  auto:2.26
+  time:1.91
+  closed:1.80
+  security:1.80
+  ticket:1.80
+  site:1.56
+  march:1.38
+
+Topic 1:
+  time:4.24
+  bsm:1.94
+  payment:1.68
+  tumbling:1.17
+  btc:1.04
+  site:0.88
+  markets:0.80
+  march:0.80
+  whatsoever:0.65
+  problems:0.65
+
+Topic 2:
+  trust:4.30
+  escrow:3.87
+  vendor:3.68
+  fe:3.35
+  market:1.38
+  trusting:1.37
+  place:1.37
+  road:1.37
+  simply:1.37
+  risks:1.37
+
+Topic 3:
+  fe:2.73
+  trust:1.63
+  vendor:1.25
+  march:1.08
+  escrow:1.06
+  hours:0.74
+  sort:0.74
+  btc:0.72
+  buyers:0.61
+  host:0.60
+
+Topic 4:
+  deposit:4.52
+  impressed:3.44
+  option:2.62
+  half:1.80
+  bsm:1.80
+  time:1.64
+  markets:1.63
+  thought:1.61
+  wallet:1.60
+  minutes:1.60
+
+K: 5, Log-Likelihood: -1645.907, Alpha: 11.000, Beta: 1.100

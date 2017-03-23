@@ -1,0 +1,61 @@
+Topic 0:
+  flax:3.48
+  testosterone:1.48
+  cycle:0.88
+  anti:0.85
+  weight:0.85
+  pill:0.84
+  size:0.66
+  generic:0.65
+  aromatize:0.62
+  gyno:0.62
+
+Topic 1:
+  flax:6.64
+  testosterone:1.46
+  cycle:1.00
+  anti:0.97
+  pill:0.94
+  weight:0.90
+  aromatize:0.74
+  loss:0.72
+  estrogen:0.70
+  size:0.69
+
+Topic 2:
+  flax:7.42
+  testosterone:1.37
+  weight:0.96
+  anti:0.96
+  pill:0.91
+  cycle:0.88
+  tablets:0.75
+  estrogen:0.73
+  gyno:0.72
+  generic:0.71
+
+Topic 3:
+  flax:11.20
+  testosterone:1.47
+  pill:1.11
+  weight:1.09
+  cycle:1.05
+  anti:1.01
+  tablets:0.82
+  loss:0.82
+  gyno:0.82
+  estrogen:0.80
+
+Topic 4:
+  agora:1.80
+  flaxceed:1.11
+  long:0.81
+  transition:0.81
+  diet:0.81
+  evolution:0.81
+  dealing:0.81
+  steroids:0.81
+  find:0.81
+  pills:0.81
+
+K: 5, Log-Likelihood: -978.114, Alpha: 11.000, Beta: 1.100

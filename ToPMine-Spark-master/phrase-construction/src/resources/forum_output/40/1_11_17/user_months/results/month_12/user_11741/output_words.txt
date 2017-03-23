@@ -1,0 +1,46 @@
+Topic 0:
+  evolution:0.20
+  sellers:0.20
+  account:0.20
+  marketplace:0.20
+  luukin:0.20
+  vendor:0.20
+  cheers:0.20
+
+Topic 1:
+  cheers:0.20
+  sellers:0.20
+  account:0.20
+  luukin:0.20
+  vendor:0.20
+  evolution:0.20
+  marketplace:0.20
+
+Topic 2:
+  marketplace:0.20
+  vendor:0.20
+  luukin:0.20
+  cheers:0.20
+  account:0.20
+  evolution:0.20
+  sellers:0.20
+
+Topic 3:
+  evolution:0.20
+  sellers:0.20
+  marketplace:0.20
+  cheers:0.20
+  luukin:0.20
+  vendor:0.20
+  account:0.20
+
+Topic 4:
+  account:0.20
+  marketplace:0.20
+  vendor:0.20
+  luukin:0.20
+  evolution:0.20
+  cheers:0.20
+  sellers:0.20
+
+K: 5, Log-Likelihood: -13.621, Alpha: 11.000, Beta: 1.100

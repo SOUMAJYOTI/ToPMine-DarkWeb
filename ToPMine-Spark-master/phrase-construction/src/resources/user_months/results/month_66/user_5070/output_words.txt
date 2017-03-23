@@ -1,0 +1,61 @@
+Topic 0:
+  people:1.13
+  dont:1.03
+  nbome:0.85
+  worried:0.82
+  nbomes:0.76
+  normal:0.65
+  ago:0.64
+  test:0.59
+  sold:0.58
+  january:0.54
+
+Topic 1:
+  people:1.97
+  dont:1.61
+  nbomes:1.32
+  test:0.85
+  january:0.69
+  nbome:0.67
+  quote:0.67
+  reagent:0.63
+  worth:0.63
+  bring:0.63
+
+Topic 2:
+  message:1.81
+  people:1.21
+  reactions:0.97
+  bad:0.94
+  normal:0.75
+  send:0.73
+  ago:0.73
+  worried:0.61
+  nbome:0.59
+  dont:0.57
+
+Topic 3:
+  worried:1.43
+  nbome:1.31
+  sold:1.01
+  people:0.92
+  dont:0.83
+  ago:0.66
+  normal:0.63
+  nbomes:0.61
+  legitimacy:0.61
+  tests:0.61
+
+Topic 4:
+  people:1.77
+  dont:0.96
+  nbomes:0.85
+  message:0.78
+  bad:0.76
+  reactions:0.73
+  quote:0.65
+  january:0.64
+  test:0.62
+  nbome:0.57
+
+K: 5, Log-Likelihood: -913.755, Alpha: 11.000, Beta: 1.100

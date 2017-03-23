@@ -1,0 +1,61 @@
+Topic 0:
+  chav:5.63
+  burberry:5.23
+  aint:4.29
+  wardrobe:4.19
+  june:3.76
+  fuck:3.37
+  lingo:2.70
+  swanson:2.67
+  bit:2.65
+  ron:2.64
+
+Topic 1:
+  system:3.76
+  filevault:2.75
+  encryption:2.72
+  claptrap:2.59
+  addy:1.99
+  message:1.94
+  data:1.93
+  zaphods:1.92
+  send:1.91
+  doesnt:1.90
+
+Topic 2:
+  june:3.98
+  quote:2.31
+  mate:1.78
+  claptrap:1.69
+  blowjob:1.56
+  cocaine:1.38
+  pmquote:1.36
+  ill:1.13
+  haha:1.11
+  pm:0.85
+
+Topic 3:
+  june:1.64
+  quote:1.48
+  system:1.42
+  blowjob:1.34
+  filevault:1.16
+  encryption:1.11
+  haha:1.09
+  ill:1.04
+  open:1.00
+  drive:0.98
+
+Topic 4:
+  june:4.68
+  quote:2.52
+  pmquote:2.31
+  cocaine:2.10
+  claptrap:1.81
+  mate:1.74
+  blowjob:1.13
+  social:1.05
+  depression:1.04
+  severe:1.04
+
+K: 5, Log-Likelihood: -1698.137, Alpha: 11.000, Beta: 1.100

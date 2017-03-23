@@ -1,0 +1,61 @@
+Topic 0:
+  bruce:20.12
+  people:6.23
+  time:5.36
+  love:4.74
+  ve:3.71
+  message:2.03
+  april:2.00
+  church:1.87
+  spirit:1.85
+  life:1.74
+
+Topic 1:
+  bruce:15.64
+  people:6.90
+  mentioned:4.12
+  lol:3.52
+  scam:3.14
+  offended:2.47
+  bit:2.39
+  ve:2.20
+  reddit:1.97
+  forums:1.96
+
+Topic 2:
+  people:10.49
+  good:9.41
+  accounts:6.57
+  find:5.48
+  honest:5.25
+  time:3.72
+  trust:3.62
+  transactions:3.58
+  kindness:3.56
+  forum:3.56
+
+Topic 3:
+  avengers:13.84
+  fake:11.90
+  reviews:9.76
+  test:7.44
+  lsd:6.24
+  community:5.80
+  member:5.54
+  vendors:5.23
+  site:5.20
+  thread:4.87
+
+Topic 4:
+  bruce:9.91
+  love:9.18
+  tmg:7.73
+  knuckles:7.45
+  quote:5.60
+  forums:3.96
+  totally:3.89
+  sign:3.57
+  point:3.57
+  light:3.57
+
+K: 5, Log-Likelihood: -4622.023, Alpha: 11.000, Beta: 1.100

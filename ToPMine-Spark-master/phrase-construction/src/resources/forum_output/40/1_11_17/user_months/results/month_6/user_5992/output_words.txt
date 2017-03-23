@@ -1,0 +1,61 @@
+Topic 0:
+  test:2.94
+  dark:2.50
+  items:2.47
+  vendor:1.92
+  future:1.60
+  offers:1.59
+  market:1.58
+  experience:1.54
+  sell:1.48
+  lsd:1.15
+
+Topic 1:
+  shipping:2.87
+  god:2.44
+  rules:2.30
+  people:1.72
+  wide:1.61
+  community:1.49
+  week:1.45
+  days:1.45
+  hand:1.08
+  time:0.93
+
+Topic 2:
+  test:2.49
+  kits:1.85
+  item:1.78
+  hand:1.35
+  shipping:1.10
+  guardian:0.92
+  safe:0.92
+  approved:0.90
+  reading:0.89
+  cost:0.89
+
+Topic 3:
+  test:2.88
+  lsd:1.28
+  sell:1.12
+  cost:1.05
+  kits:1.04
+  experience:1.04
+  safe:1.03
+  vendor:0.84
+  ink:0.72
+  amphs:0.72
+
+Topic 4:
+  people:3.80
+  rules:3.26
+  god:3.11
+  shipping:2.90
+  days:2.13
+  week:2.13
+  community:2.08
+  wide:1.96
+  time:0.99
+  feared:0.94
+
+K: 5, Log-Likelihood: -1404.038, Alpha: 11.000, Beta: 1.100

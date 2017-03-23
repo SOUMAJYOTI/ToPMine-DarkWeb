@@ -1,0 +1,61 @@
+Topic 0:
+  send:4.08
+  shared:3.56
+  blockchain:1.96
+  info:1.73
+  tails:1.21
+  sharedcoin:1.20
+  coin:0.79
+  transaction:0.72
+  site:0.69
+  vendor:0.50
+
+Topic 1:
+  sharedcoin:5.91
+  address:3.32
+  february:2.37
+  credible:2.03
+  kinda:1.61
+  feature:1.57
+  inputs:1.46
+  allowing:1.45
+  sweep:1.45
+  blockchain:1.45
+
+Topic 2:
+  shared:3.85
+  send:3.32
+  info:2.98
+  blockchain:2.81
+  transaction:2.10
+  time:1.37
+  complete:1.35
+  vendor:1.33
+  tails:1.09
+  site:0.83
+
+Topic 3:
+  sharedcoin:4.63
+  address:2.24
+  february:2.18
+  credible:1.75
+  blockchain:1.64
+  kinda:1.35
+  feature:1.33
+  easier:1.22
+  noticed:1.18
+  comalso:1.17
+
+Topic 4:
+  sharedcoin:2.43
+  blockchain:2.14
+  send:1.92
+  address:1.60
+  shared:1.55
+  info:1.07
+  coin:1.05
+  february:0.98
+  doesnt:0.88
+  easier:0.88
+
+K: 5, Log-Likelihood: -1108.434, Alpha: 11.000, Beta: 1.100

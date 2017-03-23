@@ -1,0 +1,61 @@
+Topic 0:
+  sen:0.28
+  mutta:0.28
+  ensimm:0.28
+  eli:0.14
+  vaihtoehtoa:0.14
+  olla:0.14
+  ostossa:0.14
+  vain:0.14
+  bittirahakin:0.14
+  eip:0.14
+
+Topic 1:
+  mutta:0.28
+  ensimm:0.28
+  sen:0.28
+  tollasta:0.14
+  bittimaatti:0.14
+  olemassa:0.14
+  olla:0.14
+  vaihtoehtoa:0.14
+  vain:0.14
+  eip:0.14
+
+Topic 2:
+  mutta:0.28
+  sen:0.28
+  ensimm:0.28
+  bitcoin:0.14
+  heti:0.14
+  mik:0.14
+  nekin:0.14
+  nain:0.14
+  bittirahakin:0.14
+  siell:0.14
+
+Topic 3:
+  ensimm:0.28
+  sen:0.28
+  mutta:0.28
+  teisell:0.14
+  vain:0.14
+  olemassa:0.14
+  bittimaatti:0.14
+  vaihtoehtoa:0.14
+  taida:0.14
+  olla:0.14
+
+Topic 4:
+  ensimm:0.28
+  mutta:0.28
+  sen:0.28
+  calumet:0.14
+  tietenkin:0.14
+  quote:0.14
+  kauaa:0.14
+  eat:0.14
+  bittirahalla:0.14
+  silkkitiell:0.14
+
+K: 5, Log-Likelihood: -194.165, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:0.28
+  torn:0.14
+  lots:0.14
+  fact:0.14
+  lined:0.14
+  sitation:0.14
+  india:0.14
+  hypothetically:0.14
+  admitting:0.14
+  receive:0.14
+
+Topic 1:
+  vendor:0.28
+  paper:0.14
+  blank:0.14
+  letter:0.14
+  positive:0.14
+  god:0.14
+  fact:0.14
+  hands:0.14
+  taped:0.14
+  transactions:0.14
+
+Topic 2:
+  vendor:0.28
+  roll:0.14
+  postie:0.14
+  barrel:0.14
+  thieving:0.14
+  les:0.14
+  style:0.14
+  transactions:0.14
+  message:0.14
+  admitting:0.14
+
+Topic 3:
+  vendor:0.28
+  postie:0.14
+  les:0.14
+  style:0.14
+  thieving:0.14
+  barrel:0.14
+  roll:0.14
+  letter:0.14
+  lots:0.14
+  hands:0.14
+
+Topic 4:
+  vendor:0.28
+  thieving:0.14
+  style:0.14
+  postie:0.14
+  les:0.14
+  roll:0.14
+  barrel:0.14
+  blank:0.14
+  message:0.14
+  lined:0.14
+
+K: 5, Log-Likelihood: -82.179, Alpha: 11.000, Beta: 1.100

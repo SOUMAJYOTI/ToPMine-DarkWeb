@@ -1,0 +1,61 @@
+Topic 0:
+  hett:0.37
+  blockchain:0.30
+  olen:0.20
+  mit:0.20
+  sanoo:0.20
+  myydest:0.18
+  kyseess:0.18
+  tt:0.18
+  silkkitien:0.18
+  rsim:0.18
+
+Topic 1:
+  hett:0.35
+  blockchain:0.31
+  sanoo:0.21
+  olen:0.21
+  mit:0.21
+  address:0.19
+  huono:0.19
+  infoa:0.19
+  englannissa:0.19
+  tarkoittaneekin:0.19
+
+Topic 2:
+  hett:0.37
+  blockchain:0.31
+  mit:0.20
+  sanoo:0.20
+  olen:0.20
+  bitcoineja:0.18
+  lompakko:0.18
+  litilill:0.18
+  ne:0.18
+  vai:0.18
+
+Topic 3:
+  hett:0.36
+  blockchain:0.31
+  mit:0.21
+  sanoo:0.21
+  olen:0.21
+  transactions:0.18
+  huonompi:0.18
+  viel:0.18
+  englannissa:0.18
+  network:0.18
+
+Topic 4:
+  hett:0.39
+  blockchain:0.30
+  mit:0.20
+  sanoo:0.20
+  olen:0.20
+  pip:0.19
+  joka:0.19
+  olenko:0.19
+  rahansiirroissa:0.19
+  tilasin:0.19
+
+K: 5, Log-Likelihood: -217.135, Alpha: 11.000, Beta: 1.100

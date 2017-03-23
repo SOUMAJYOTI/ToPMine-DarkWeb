@@ -1,0 +1,61 @@
+Topic 0:
+  garden:5.83
+  spam:3.85
+  tidy:3.82
+  report:3.81
+  links:3.81
+  members:3.64
+  mods:2.83
+  ootp:2.83
+  time:2.76
+  good:1.90
+
+Topic 1:
+  pgp:27.28
+  address:10.48
+  public:10.40
+  message:10.33
+  forget:10.04
+  key:10.02
+  easy:6.35
+  pip:6.15
+  good:5.91
+  people:5.83
+
+Topic 2:
+  pgp:13.88
+  public:7.97
+  key:7.89
+  message:7.59
+  el:5.88
+  tj:5.88
+  os:5.88
+  ao:5.88
+  pt:5.88
+  block:5.88
+
+Topic 3:
+  oakley:5.98
+  people:4.80
+  quote:4.40
+  le:4.18
+  order:4.17
+  pigeon:3.98
+  decoys:3.98
+  price:3.98
+  high:3.98
+  masque:3.98
+
+Topic 4:
+  pgp:13.67
+  send:11.82
+  orders:11.24
+  website:9.66
+  order:9.60
+  money:7.75
+  place:7.74
+  pmif:6.13
+  orderofthephoenix:6.13
+  drop:5.94
+
+K: 5, Log-Likelihood: -16389.805, Alpha: 11.000, Beta: 1.100

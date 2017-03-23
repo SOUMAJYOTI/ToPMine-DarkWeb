@@ -1,0 +1,61 @@
+Topic 0:
+  applications:0.29
+  network:0.28
+  build:0.27
+  bit:0.17
+  real:0.14
+  autonomous:0.14
+  cars:0.14
+  bringing:0.14
+  waterproof:0.14
+  underrated:0.14
+
+Topic 1:
+  applications:0.28
+  network:0.28
+  build:0.27
+  bit:0.17
+  things:0.14
+  systems:0.14
+  aircraft:0.14
+  hold:0.14
+  devices:0.14
+  cars:0.14
+
+Topic 2:
+  build:0.29
+  network:0.28
+  applications:0.27
+  bit:0.17
+  brought:0.14
+  assembling:0.14
+  started:0.14
+  didnt:0.14
+  code:0.14
+  supposedly:0.14
+
+Topic 3:
+  build:0.28
+  network:0.28
+  applications:0.27
+  bit:0.17
+  blast:0.14
+  project:0.14
+  hear:0.14
+  info:0.14
+  short:0.14
+  github:0.14
+
+Topic 4:
+  build:0.28
+  network:0.28
+  applications:0.27
+  bit:0.17
+  incorrectly:0.14
+  built:0.14
+  algorithms:0.14
+  assembling:0.14
+  kernal:0.14
+  didnt:0.14
+
+K: 5, Log-Likelihood: -281.709, Alpha: 11.000, Beta: 1.100

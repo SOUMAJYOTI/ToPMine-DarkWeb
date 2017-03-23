@@ -1,0 +1,61 @@
+Topic 0:
+  message:0.83
+  error:0.79
+  referred:0.73
+  limit:0.62
+  user:0.60
+  reached:0.60
+  hours:0.41
+  working:0.41
+  registrations:0.40
+  wait:0.40
+
+Topic 1:
+  referred:0.83
+  message:0.80
+  error:0.75
+  reached:0.62
+  limit:0.60
+  user:0.58
+  link:0.41
+  links:0.41
+  wait:0.40
+  registrations:0.40
+
+Topic 2:
+  error:0.85
+  message:0.83
+  referred:0.70
+  user:0.64
+  limit:0.62
+  reached:0.60
+  hours:0.41
+  working:0.41
+  registrations:0.41
+  wait:0.40
+
+Topic 3:
+  referred:0.88
+  message:0.80
+  error:0.79
+  user:0.59
+  reached:0.58
+  limit:0.58
+  registrations:0.40
+  link:0.40
+  links:0.40
+  working:0.40
+
+Topic 4:
+  referred:0.85
+  error:0.82
+  message:0.73
+  reached:0.61
+  user:0.59
+  limit:0.58
+  links:0.40
+  link:0.40
+  wait:0.40
+  registrations:0.39
+
+K: 5, Log-Likelihood: -213.861, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ab:5.42
+  updates:2.55
+  feel:1.71
+  users:1.69
+  avon:1.62
+  changed:1.52
+  solid:1.51
+  features:1.51
+  referral:1.51
+  signature:1.51
+
+Topic 1:
+  market:1.38
+  quote:1.02
+  november:0.96
+  place:0.89
+  btc:0.88
+  true:0.77
+  alphabay:0.75
+  dream:0.73
+  opinion:0.59
+  time:0.59
+
+Topic 2:
+  market:1.36
+  btc:1.08
+  true:1.06
+  dream:1.05
+  alphabay:1.04
+  november:0.92
+  place:0.89
+  quote:0.88
+  admins:0.72
+  stories:0.72
+
+Topic 3:
+  place:1.90
+  nice:1.61
+  lesson:1.40
+  good:1.28
+  opinion:0.95
+  loss:0.85
+  quote:0.76
+  november:0.73
+  careful:0.65
+  click:0.64
+
+Topic 4:
+  nice:2.19
+  place:2.16
+  good:2.03
+  lesson:1.88
+  loss:0.95
+  opinion:0.89
+  ll:0.89
+  phishing:0.88
+  money:0.88
+  design:0.88
+
+K: 5, Log-Likelihood: -1201.277, Alpha: 11.000, Beta: 1.100

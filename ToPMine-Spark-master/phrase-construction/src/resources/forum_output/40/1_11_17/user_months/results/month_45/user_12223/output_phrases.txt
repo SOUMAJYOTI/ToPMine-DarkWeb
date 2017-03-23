@@ -1,0 +1,61 @@
+Topic 0:
+  noita:1.82
+  yll:1.81
+  maksun:1.63
+  mukava:1.63
+  ytyy:1.63
+  lt:1.63
+  automaattista:1.63
+  filmi:1.63
+  rehtitukkku:1.63
+  alkuper:1.63
+
+Topic 1:
+  olla:3.22
+  samaa:2.15
+  kun:1.63
+  muut:1.53
+  ainut:1.53
+  kysynt:1.53
+  sille:1.53
+  jolta:1.53
+  kusettajia:1.53
+  ois:1.53
+
+Topic 2:
+  itsekkin:1.61
+  sek:1.61
+  rottailu:1.61
+  roinaansa:1.61
+  osa:1.61
+  noise:1.61
+  kyll:1.61
+  nuuskatukku:1.61
+  tuntuu:1.61
+  tuota:1.61
+
+Topic 3:
+  ja:3.87
+  pit:3.34
+  kaikki:3.30
+  kielt:1.64
+  tk:1.64
+  het:1.64
+  subua:1.64
+  vastaa:1.64
+  mit:1.64
+  subunmyyj:1.64
+
+Topic 4:
+  ytt:3.30
+  valikoimaan:1.60
+  satsi:1.60
+  profiili:1.60
+  kurkatkaas:1.60
+  nuuskatukun:1.60
+  aina:1.60
+  luotettava:1.60
+  thee:1.60
+  olevan:1.60
+
+K: 5, Log-Likelihood: -1662.392, Alpha: 11.000, Beta: 1.100

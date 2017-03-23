@@ -1,0 +1,61 @@
+Topic 0:
+  money:5.75
+  amounts:4.82
+  withdraw:4.82
+  deposit:4.82
+  address:4.82
+  dont:4.81
+  addresses:2.03
+  people:1.86
+  based:1.83
+  blockchain:1.83
+
+Topic 1:
+  bitcoin:3.84
+  service:2.13
+  shared:1.56
+  fog:1.56
+  coinjoin:1.46
+  darkcoin:1.32
+  mixers:1.31
+  quote:1.31
+  march:1.30
+  mixing:1.00
+
+Topic 2:
+  bitcoin:1.61
+  listings:1.53
+  forum:1.01
+  dark:0.99
+  service:0.91
+  fog:0.72
+  money:0.68
+  debit:0.66
+  mailing:0.66
+  eye:0.66
+
+Topic 3:
+  quote:2.81
+  link:2.32
+  good:1.97
+  site:1.64
+  march:1.53
+  laugh:1.30
+  care:1.30
+  share:1.30
+  kuklinski:1.30
+  bitcoin:0.73
+
+Topic 4:
+  bitcoin:2.54
+  fog:2.19
+  service:1.52
+  shared:1.51
+  coins:1.41
+  coin:1.35
+  user:1.09
+  transaction:1.09
+  lose:1.09
+  review:0.99
+
+K: 5, Log-Likelihood: -1635.238, Alpha: 11.000, Beta: 1.100

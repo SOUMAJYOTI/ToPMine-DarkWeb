@@ -1,0 +1,61 @@
+Topic 0:
+  tails:2.58
+  time:1.56
+  october:1.39
+  quote:1.15
+  card:1.15
+  post:0.90
+  aethon:0.89
+  lower:0.89
+  previous:0.89
+  word:0.89
+
+Topic 1:
+  tails:28.57
+  volume:10.63
+  persistent:9.09
+  browsing:8.29
+  store:6.74
+  time:5.04
+  dont:4.94
+  flash:4.69
+  pgp:4.47
+  passwords:4.44
+
+Topic 2:
+  time:5.44
+  forum:5.21
+  amen:4.76
+  tails:4.36
+  jigsaw:4.22
+  thing:4.21
+  stick:3.92
+  kind:3.92
+  website:3.92
+  card:3.60
+
+Topic 3:
+  tails:4.71
+  card:3.23
+  time:3.16
+  volume:2.85
+  flash:2.76
+  encrypted:2.58
+  store:1.89
+  answer:1.73
+  browsing:1.60
+  addresses:1.60
+
+Topic 4:
+  wallet:44.15
+  electrum:17.74
+  tails:14.76
+  btc:10.53
+  addresses:10.41
+  device:10.20
+  existing:8.91
+  seed:7.91
+  persistence:7.13
+  copy:5.96
+
+K: 5, Log-Likelihood: -5913.532, Alpha: 11.000, Beta: 1.100

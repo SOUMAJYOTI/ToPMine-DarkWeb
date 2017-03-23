@@ -1,0 +1,61 @@
+Topic 0:
+  torescrow:1.27
+  market:1.22
+  shady:0.59
+  subreddit:0.40
+  questions:0.40
+  forum:0.40
+  ban:0.40
+  asked:0.40
+  banned:0.20
+  admins:0.20
+
+Topic 1:
+  torescrow:1.05
+  market:0.87
+  shady:0.59
+  forum:0.41
+  questions:0.41
+  asked:0.40
+  subreddit:0.40
+  ban:0.40
+  subreddits:0.20
+  multi:0.20
+
+Topic 2:
+  torescrow:1.27
+  market:0.95
+  shady:0.61
+  subreddit:0.40
+  ban:0.40
+  asked:0.40
+  questions:0.40
+  forum:0.40
+  forums:0.20
+  excuses:0.20
+
+Topic 3:
+  torescrow:1.12
+  market:0.88
+  shady:0.63
+  ban:0.40
+  asked:0.40
+  questions:0.40
+  forum:0.40
+  subreddit:0.40
+  quietly:0.20
+  markets:0.20
+
+Topic 4:
+  torescrow:1.30
+  market:1.08
+  shady:0.58
+  forum:0.40
+  subreddit:0.40
+  questions:0.40
+  ban:0.40
+  asked:0.40
+  customers:0.20
+  pointing:0.20
+
+K: 5, Log-Likelihood: -339.016, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  hansa:2.43
+  vendors:1.32
+  market:0.77
+  encourage:0.64
+  hope:0.64
+  abraxas:0.61
+  agora:0.59
+  referred:0.52
+  dn:0.50
+  ve:0.45
+
+Topic 1:
+  vendors:3.76
+  hansa:2.23
+  dn:1.04
+  referred:1.02
+  cola:0.91
+  ve:0.90
+  encourage:0.88
+  april:0.41
+  hey:0.41
+  citizens:0.41
+
+Topic 2:
+  market:1.95
+  hansa:1.75
+  hope:1.28
+  agora:0.78
+  dutchtrip:0.76
+  abraxas:0.74
+  people:0.60
+  exit:0.59
+  knowledge:0.59
+  vendors:0.55
+
+Topic 3:
+  market:2.21
+  hansa:2.10
+  hope:1.40
+  dutchtrip:0.99
+  knowledge:0.87
+  people:0.85
+  exit:0.83
+  abraxas:0.67
+  agora:0.64
+  feature:0.57
+
+Topic 4:
+  market:2.81
+  dutchtrip:1.86
+  hansa:1.50
+  hope:1.35
+  exit:1.22
+  people:1.19
+  knowledge:1.17
+  crystal:0.69
+  earth:0.68
+  class:0.68
+
+K: 5, Log-Likelihood: -719.326, Alpha: 11.000, Beta: 1.100

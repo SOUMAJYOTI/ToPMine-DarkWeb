@@ -1,0 +1,61 @@
+Topic 0:
+  coins:3.48
+  desktop:3.04
+  bitcoin:2.99
+  wallet:2.39
+  february:2.36
+  data:2.29
+  computer:1.81
+  quote:1.78
+  offline:1.55
+  long:1.53
+
+Topic 1:
+  tumble:4.60
+  bitcoins:3.01
+  buying:2.50
+  perfectly:1.82
+  read:1.54
+  amhope:1.53
+  tutorial:1.53
+  slowly:1.53
+  stuff:1.53
+  tremendous:1.53
+
+Topic 2:
+  wallet:18.99
+  computer:7.57
+  client:7.51
+  address:7.24
+  coins:6.94
+  bitcoin:4.79
+  data:4.08
+  desktop:3.77
+  addresses:3.73
+  send:3.57
+
+Topic 3:
+  wallet:33.94
+  bitcoin:22.78
+  computer:17.24
+  office:16.27
+  cold:14.37
+  storage:12.33
+  wallets:9.61
+  online:9.03
+  client:7.04
+  transaction:6.37
+
+Topic 4:
+  coins:13.33
+  market:8.72
+  exchange:3.84
+  wash:3.29
+  depositing:1.84
+  sending:1.84
+  future:1.84
+  fiat:1.84
+  washing:1.84
+  intent:1.84
+
+K: 5, Log-Likelihood: -3501.889, Alpha: 11.000, Beta: 1.100

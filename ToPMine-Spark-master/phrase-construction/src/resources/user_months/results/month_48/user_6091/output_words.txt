@@ -1,0 +1,61 @@
+Topic 0:
+  pellet:3.80
+  valves:3.37
+  tattoo:3.33
+  shops:3.33
+  paintball:3.32
+  member:2.29
+  power:1.97
+  dunno:1.95
+  puncture:1.94
+  passed:1.94
+
+Topic 1:
+  solution:6.90
+  chlorine:3.90
+  oxygen:3.90
+  water:3.16
+  decay:2.90
+  pure:2.90
+  lsd:2.90
+  gas:1.94
+  established:1.90
+  solubility:1.90
+
+Topic 2:
+  dry:1.35
+  ideal:1.22
+  ice:1.19
+  community:1.10
+  quote:0.98
+  april:0.95
+  hambone:0.93
+  power:0.93
+  member:0.90
+  input:0.75
+
+Topic 3:
+  hambone:1.43
+  april:1.40
+  quote:1.40
+  power:0.85
+  pellet:0.69
+  member:0.63
+  dry:0.59
+  ice:0.58
+  input:0.58
+  haha:0.50
+
+Topic 4:
+  input:1.57
+  ice:1.47
+  greatly:1.40
+  sealed:1.39
+  sandoz:1.37
+  degradation:1.35
+  assuming:1.35
+  produced:1.34
+  direct:1.34
+  compressed:1.34
+
+K: 5, Log-Likelihood: -1600.362, Alpha: 11.000, Beta: 1.100

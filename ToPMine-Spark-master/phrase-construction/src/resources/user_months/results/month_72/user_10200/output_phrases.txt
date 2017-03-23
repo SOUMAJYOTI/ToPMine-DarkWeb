@@ -1,0 +1,61 @@
+Topic 0:
+  market:2.43
+  scam:1.23
+  quote:0.68
+  downtime:0.60
+  deepdotweb:0.59
+  moved:0.57
+  west:0.57
+  lost:0.57
+  dust:0.55
+  server:0.37
+
+Topic 1:
+  january:3.24
+  reference:2.00
+  wire:1.99
+  amthey:1.99
+  seedofchaos:1.98
+  tingling:1.98
+  senses:1.98
+  india shoulda honestly:1.97
+  straight murked remain west:1.94
+  quote:1.39
+
+Topic 2:
+  msig:4.87
+  tho:3.17
+  central:3.17
+  scammed:3.16
+  market:2.31
+  stolen:1.49
+  abpprox:1.49
+  orders:1.49
+  dead:1.49
+  half:1.49
+
+Topic 3:
+  days:1.20
+  migration:1.16
+  loved:1.16
+  update:1.16
+  news:1.16
+  good:1.15
+  exit:1.15
+  routine:1.15
+  hope:1.15
+  doesnt:1.14
+
+Topic 4:
+  coming:3.26
+  tech:3.26
+  theory:3.26
+  eic:2.51
+  side:2.51
+  coma:1.56
+  bring:1.56
+  separate:1.56
+  evolved:1.56
+  true:1.56
+
+K: 5, Log-Likelihood: -984.045, Alpha: 11.000, Beta: 1.100

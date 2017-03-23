@@ -1,0 +1,61 @@
+Topic 0:
+  bathtub:0.59
+  slid:0.41
+  ketamine:0.40
+  caused:0.40
+  drowned:0.40
+  death:0.40
+  passed:0.40
+  case:0.40
+  afaik:0.39
+  pmeven:0.20
+
+Topic 1:
+  bathtub:0.61
+  death:0.40
+  afaik:0.40
+  caused:0.40
+  drowned:0.40
+  passed:0.40
+  case:0.40
+  ketamine:0.40
+  slid:0.39
+  yep:0.20
+
+Topic 2:
+  bathtub:0.59
+  drowned:0.40
+  case:0.40
+  passed:0.40
+  slid:0.40
+  death:0.40
+  ketamine:0.40
+  caused:0.40
+  afaik:0.40
+  november:0.20
+
+Topic 3:
+  bathtub:0.60
+  ketamine:0.40
+  drowned:0.40
+  case:0.40
+  passed:0.40
+  death:0.40
+  slid:0.40
+  afaik:0.40
+  caused:0.40
+  knuckles:0.20
+
+Topic 4:
+  bathtub:0.60
+  afaik:0.41
+  caused:0.40
+  case:0.40
+  passed:0.40
+  ketamine:0.40
+  death:0.39
+  drowned:0.39
+  slid:0.39
+  unknown:0.20
+
+K: 5, Log-Likelihood: -87.787, Alpha: 11.000, Beta: 1.100

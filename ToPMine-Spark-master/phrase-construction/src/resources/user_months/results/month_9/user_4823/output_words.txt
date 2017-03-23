@@ -1,0 +1,61 @@
+Topic 0:
+  reason:2.10
+  terrible:2.00
+  thing:1.86
+  luck:1.81
+  recover:1.79
+  fuck:1.70
+  learn:1.68
+  good:1.66
+  ended:1.63
+  vendor:1.63
+
+Topic 1:
+  blockchain:5.29
+  support:4.70
+  kind:2.92
+  intermediate:2.91
+  address:2.91
+  btc:1.95
+  managed:1.80
+  worked:1.80
+  stressful:1.80
+  lost:1.80
+
+Topic 2:
+  recover:3.63
+  vendor:2.42
+  learn:2.11
+  luck:2.07
+  blockchain:1.94
+  send:1.71
+  wallet:1.67
+  coins:1.32
+  thought:1.26
+  man:1.21
+
+Topic 3:
+  wallet:14.97
+  transaction:6.39
+  mistake:5.81
+  coins:5.72
+  shared:4.76
+  text:4.64
+  send:4.63
+  file:4.60
+  identifier:4.06
+  number:3.81
+
+Topic 4:
+  mixing:3.79
+  coins:2.91
+  money:2.23
+  ecosystem:1.79
+  services:1.79
+  pdf:1.79
+  laundering:1.79
+  scientific:1.79
+  interested:1.79
+  inquiry:1.79
+
+K: 5, Log-Likelihood: -2362.887, Alpha: 11.000, Beta: 1.100

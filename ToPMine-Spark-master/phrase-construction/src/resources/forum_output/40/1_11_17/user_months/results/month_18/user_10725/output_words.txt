@@ -1,0 +1,61 @@
+Topic 0:
+  coins:15.07
+  blockchain:8.83
+  le:8.49
+  judge:8.17
+  large:7.66
+  time:6.13
+  identified:6.10
+  dont:5.03
+  fuck:4.71
+  easy:4.71
+
+Topic 1:
+  cash:4.25
+  btc:3.97
+  purchase:3.18
+  watching:2.80
+  matter:1.94
+  transactions:1.91
+  idea:1.91
+  guides:1.91
+  people:1.91
+  methods:1.91
+
+Topic 2:
+  coins:7.63
+  wallet:5.35
+  buy:5.05
+  darknet:4.11
+  matter:3.91
+  good:3.72
+  mixing:3.23
+  quote:2.08
+  market:2.00
+  july:2.00
+
+Topic 3:
+  wallet:50.18
+  market:9.27
+  track:3.86
+  call:3.86
+  transaction:3.72
+  le:3.53
+  address:3.03
+  identify:2.87
+  order:2.87
+  recon:1.87
+
+Topic 4:
+  btc:12.89
+  dirty:10.90
+  wallet:10.69
+  fog:9.56
+  wallets:8.42
+  clean:8.06
+  send:7.85
+  mixing:7.49
+  coins:5.86
+  good:5.62
+
+K: 5, Log-Likelihood: -4158.250, Alpha: 11.000, Beta: 1.100

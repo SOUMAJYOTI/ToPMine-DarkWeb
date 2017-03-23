@@ -1,0 +1,61 @@
+Topic 0:
+  topic:5.49
+  coin:5.12
+  ip:4.95
+  showing:4.20
+  playing:4.20
+  fuds:4.20
+  spreading:4.20
+  theyve:4.20
+  authorithies:4.20
+  banned:4.20
+
+Topic 1:
+  sr:5.09
+  staff stole coin geesh:3.62
+  theft:3.04
+  read bugs bug simple:2.73
+  quote mycarneedstint february amdpr:2.57
+  today:2.55
+  steal:2.55
+  allowed:2.55
+  tracking:2.55
+  expense:2.55
+
+Topic 2:
+  anonymous:5.64
+  firm:5.11
+  forums:4.83
+  news:4.30
+  basement:4.30
+  investigation:4.30
+  dweller:4.30
+  word:4.30
+  early:4.30
+  article:4.30
+
+Topic 3:
+  french:5.15
+  boat:5.14
+  btc:4.60
+  cashout:3.93
+  inside:3.93
+  admin:3.45
+  read:2.74
+  site:2.66
+  frustrating:2.55
+  rest:2.55
+
+Topic 4:
+  events:6.54
+  find:5.16
+  updates:4.33
+  deepdotweb:4.33
+  safe:4.33
+  website:4.33
+  humour:4.33
+  wit:4.33
+  check:4.33
+  coverage:4.33
+
+K: 5, Log-Likelihood: -4074.115, Alpha: 11.000, Beta: 1.100

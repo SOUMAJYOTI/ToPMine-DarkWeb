@@ -1,0 +1,61 @@
+Topic 0:
+  jackblue:0.40
+  huh:0.20
+  review:0.20
+  direct:0.20
+  asked:0.20
+  contacted:0.20
+  ugh:0.20
+  days:0.20
+  front:0.20
+  reddit:0.20
+
+Topic 1:
+  jackblue:0.40
+  personal:0.20
+  invite:0.20
+  code:0.20
+  site:0.20
+  sign:0.20
+  reddits:0.20
+  customers:0.20
+  wrote:0.20
+  bad:0.20
+
+Topic 2:
+  jackblue:0.40
+  contacted:0.20
+  ordered:0.20
+  post:0.20
+  good:0.20
+  couple:0.20
+  deal:0.20
+  direct:0.20
+  email:0.20
+  front:0.20
+
+Topic 3:
+  jackblue:0.40
+  days:0.20
+  post:0.20
+  review:0.20
+  wrote:0.20
+  news:0.20
+  email:0.20
+  asked:0.20
+  ugh:0.20
+  couple:0.20
+
+Topic 4:
+  jackblue:0.40
+  code:0.20
+  sign:0.20
+  invite:0.20
+  site:0.20
+  personal:0.20
+  mind:0.20
+  bad:0.20
+  customers:0.20
+  deal:0.20
+
+K: 5, Log-Likelihood: -91.945, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  thinking:0.59
+  tails:0.59
+  works:0.20
+  implementing:0.20
+  heads:0.20
+  played:0.20
+  team:0.20
+  cli:0.20
+  masses:0.20
+  electrum:0.20
+
+Topic 1:
+  thinking:0.63
+  tails:0.62
+  mark:0.20
+  tambourine:0.20
+  thanksi:0.20
+  pmi:0.20
+  update:0.20
+  newest:0.20
+  included:0.20
+  quote:0.20
+
+Topic 2:
+  tails:0.61
+  thinking:0.60
+  mark:0.20
+  quote:0.20
+  update:0.20
+  pmi:0.20
+  included:0.20
+  info:0.20
+  newest:0.20
+  tambourine:0.20
+
+Topic 3:
+  tails:0.61
+  thinking:0.61
+  update:0.20
+  newest:0.20
+  pmi:0.20
+  quote:0.20
+  thanksi:0.20
+  info:0.20
+  included:0.20
+  mark:0.20
+
+Topic 4:
+  tails:0.58
+  thinking:0.57
+  electrum:0.21
+  kudos:0.21
+  havent:0.21
+  bring:0.21
+  sig:0.21
+  mutil:0.21
+  masses:0.21
+  epected:0.21
+
+K: 5, Log-Likelihood: -91.549, Alpha: 11.000, Beta: 1.100

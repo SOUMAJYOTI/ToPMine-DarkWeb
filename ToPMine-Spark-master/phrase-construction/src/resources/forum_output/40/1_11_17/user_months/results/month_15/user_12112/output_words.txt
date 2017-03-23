@@ -1,0 +1,61 @@
+Topic 0:
+  hearing:0.20
+  hidden:0.20
+  advertised:0.20
+  trust:0.20
+  interested:0.20
+  nada:0.20
+  dont:0.20
+  reviews:0.20
+  wiki:0.20
+  thw:0.20
+
+Topic 1:
+  sites:0.20
+  sig:0.20
+  wallet:0.20
+  multi:0.20
+  low:0.20
+  generator:0.20
+  bitcoin:0.20
+  fee:0.20
+  interface:0.20
+  dark:0.20
+
+Topic 2:
+  personal:0.20
+  interested:0.20
+  advertised:0.20
+  trust:0.20
+  hidden:0.20
+  wiki:0.20
+  dont:0.20
+  nada:0.20
+  thw:0.20
+  reviews:0.20
+
+Topic 3:
+  programbe:0.20
+  fee:0.20
+  onionbravebulzwzs:0.20
+  phishing:0.20
+  english:0.20
+  generator:0.20
+  onionbrav:0.20
+  transactions:0.20
+  javascript:0.20
+  escrow:0.20
+
+Topic 4:
+  reviews:0.20
+  thw:0.20
+  personal:0.20
+  hearing:0.20
+  nada:0.20
+  dont:0.20
+  wiki:0.20
+  hidden:0.20
+  advertised:0.20
+  trust:0.20
+
+K: 5, Log-Likelihood: -176.117, Alpha: 11.000, Beta: 1.100

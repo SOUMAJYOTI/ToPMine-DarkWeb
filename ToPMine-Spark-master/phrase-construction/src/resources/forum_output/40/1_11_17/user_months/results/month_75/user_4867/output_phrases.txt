@@ -1,0 +1,61 @@
+Topic 0:
+  pmanyone invite sssssspmed:0.74
+  shponglestarship february:0.73
+  time:0.63
+  knew:0.59
+  happened:0.59
+  thread:0.58
+  link:0.58
+  brother:0.58
+  knuckles:0.58
+  didnt:0.56
+
+Topic 1:
+  key:4.15
+  multisig:2.76
+  keypair:2.75
+  create:2.74
+  public:2.70
+  copy:1.25
+  works:1.25
+  file:1.25
+  option:1.25
+  enabling:1.25
+
+Topic 2:
+  shponglestarship february:0.77
+  pmanyone invite sssssspmed:0.76
+  brother:0.66
+  time:0.66
+  knuckles:0.66
+  happened:0.66
+  thread:0.66
+  knew:0.66
+  link:0.66
+  scam:0.63
+
+Topic 3:
+  guys:3.06
+  fire:3.06
+  lost:1.46
+  man:1.46
+  caught:1.46
+  february:1.46
+  withdrawls:1.46
+  nice:1.46
+  ive:1.46
+  don:1.46
+
+Topic 4:
+  february pmquote:1.19
+  quote:1.19
+  pm:1.19
+  testerino:1.18
+  havent:1.18
+  received:1.16
+  scam:1.12
+  ya:1.10
+  people:1.10
+  guess:1.10
+
+K: 5, Log-Likelihood: -796.082, Alpha: 11.000, Beta: 1.100

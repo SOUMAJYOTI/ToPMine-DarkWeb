@@ -1,0 +1,61 @@
+Topic 0:
+  jackblue:0.59
+  couple:0.41
+  jacks:0.40
+  heard:0.40
+  private:0.40
+  crumble:0.40
+  site:0.40
+  huh:0.20
+  days:0.20
+  contacted:0.20
+
+Topic 1:
+  jackblue:0.62
+  couple:0.40
+  jacks:0.40
+  private:0.40
+  site:0.40
+  heard:0.40
+  crumble:0.39
+  post:0.20
+  mind:0.20
+  reddit:0.20
+
+Topic 2:
+  jackblue:0.57
+  crumble:0.43
+  private:0.42
+  heard:0.42
+  site:0.42
+  jacks:0.41
+  couple:0.39
+  grateful:0.21
+  point:0.21
+  extremely:0.21
+
+Topic 3:
+  jackblue:0.59
+  crumble:0.41
+  jacks:0.40
+  site:0.40
+  heard:0.40
+  private:0.40
+  couple:0.40
+  direction:0.20
+  ecc:0.20
+  extremely:0.20
+
+Topic 4:
+  jackblue:0.63
+  couple:0.41
+  site:0.39
+  jacks:0.39
+  private:0.38
+  heard:0.38
+  crumble:0.38
+  good:0.21
+  post:0.21
+  deal:0.21
+
+K: 5, Log-Likelihood: -285.998, Alpha: 11.000, Beta: 1.100

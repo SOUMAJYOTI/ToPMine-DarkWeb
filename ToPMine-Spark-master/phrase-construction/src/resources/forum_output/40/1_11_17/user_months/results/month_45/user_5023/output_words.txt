@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:0.92
+  transaction:0.83
+  payment:0.69
+  posts:0.56
+  days:0.48
+  happen:0.43
+  received:0.42
+  fact:0.35
+  odd:0.35
+  amount:0.35
+
+Topic 1:
+  transaction:1.30
+  wallet:1.25
+  days:0.70
+  payment:0.52
+  odd:0.44
+  amount:0.44
+  fee:0.44
+  fact:0.43
+  received:0.38
+  happen:0.38
+
+Topic 2:
+  transaction:1.91
+  wallet:1.46
+  days:0.73
+  fact:0.47
+  fee:0.46
+  payment:0.46
+  amount:0.46
+  odd:0.46
+  happen:0.36
+  received:0.36
+
+Topic 3:
+  wallet:1.19
+  transaction:1.11
+  payment:0.62
+  days:0.57
+  posts:0.41
+  received:0.41
+  happen:0.41
+  odd:0.38
+  amount:0.38
+  fee:0.38
+
+Topic 4:
+  wallet:1.18
+  transaction:0.85
+  payment:0.70
+  days:0.52
+  posts:0.44
+  received:0.43
+  happen:0.43
+  fact:0.37
+  fee:0.37
+  amount:0.36
+
+K: 5, Log-Likelihood: -282.216, Alpha: 11.000, Beta: 1.100

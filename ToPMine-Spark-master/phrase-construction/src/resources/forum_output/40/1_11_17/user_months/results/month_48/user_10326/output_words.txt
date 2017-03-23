@@ -1,0 +1,61 @@
+Topic 0:
+  lots:0.39
+  experienced:0.20
+  preferably:0.20
+  og:0.20
+  questions:0.20
+  person:0.20
+  pms:0.20
+  opsec:0.20
+  lot:0.20
+  clearnet:0.20
+
+Topic 1:
+  lots:0.40
+  questions:0.20
+  preferably:0.20
+  pms:0.20
+  og:0.20
+  lot:0.20
+  pictures:0.20
+  aspects:0.20
+  opsec:0.20
+  experienced:0.20
+
+Topic 2:
+  lots:0.40
+  covers:0.20
+  settings:0.20
+  warning:0.20
+  nice:0.20
+  agree:0.20
+  recommendations:0.20
+  ground:0.20
+  guide:0.20
+  tub:0.20
+
+Topic 3:
+  lots:0.40
+  dont:0.20
+  heh:0.20
+  clearnet:0.20
+  security:0.20
+  mind:0.20
+  service:0.20
+  warning:0.20
+  pictures:0.20
+  hidden:0.20
+
+Topic 4:
+  lots:0.40
+  agree:0.20
+  hidden:0.20
+  heh:0.20
+  guide:0.20
+  recommendations:0.20
+  service:0.20
+  pictures:0.20
+  security:0.20
+  dont:0.20
+
+K: 5, Log-Likelihood: -100.679, Alpha: 11.000, Beta: 1.100

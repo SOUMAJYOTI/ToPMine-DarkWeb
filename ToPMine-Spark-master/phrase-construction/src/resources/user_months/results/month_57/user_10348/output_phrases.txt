@@ -1,0 +1,61 @@
+Topic 0:
+  cash:0.37
+  live:0.37
+  sale:0.20
+  people:0.20
+  send bitcoin:0.20
+  qr:0.20
+  code:0.20
+  yard:0.20
+  lol:0.20
+  address:0.20
+
+Topic 1:
+  cash:0.38
+  live:0.36
+  people:0.21
+  sale:0.21
+  send bitcoin:0.21
+  address:0.20
+  yard:0.20
+  code:0.20
+  qr:0.20
+  lol:0.20
+
+Topic 2:
+  live:0.38
+  cash:0.36
+  lol:0.21
+  yard:0.20
+  qr:0.20
+  code:0.20
+  sale:0.20
+  send bitcoin:0.20
+  address:0.20
+  people:0.20
+
+Topic 3:
+  live:0.37
+  cash:0.36
+  lol:0.20
+  qr:0.20
+  code:0.20
+  address:0.20
+  yard:0.20
+  send bitcoin:0.20
+  sale:0.20
+  people:0.20
+
+Topic 4:
+  cash:0.37
+  live:0.36
+  address:0.21
+  qr:0.20
+  code:0.20
+  send bitcoin:0.20
+  people:0.20
+  sale:0.20
+  lol:0.20
+  yard:0.20
+
+K: 5, Log-Likelihood: -153.894, Alpha: 11.000, Beta: 1.100

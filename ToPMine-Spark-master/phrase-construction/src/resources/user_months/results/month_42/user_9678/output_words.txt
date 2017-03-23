@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:1.23
+  bitcoin:0.97
+  bitcoins:0.93
+  risk:0.86
+  buy:0.69
+  guys:0.69
+  drugs:0.59
+  online:0.52
+  involved:0.46
+  western:0.46
+
+Topic 1:
+  risk:1.77
+  bitcoin:1.69
+  guys:0.93
+  info:0.74
+  idea:0.74
+  scratch:0.74
+  checking:0.74
+  problems:0.74
+  mail:0.74
+  blockchain:0.74
+
+Topic 2:
+  wallet:1.00
+  bitcoins:0.94
+  bitcoin:0.71
+  risk:0.70
+  buy:0.69
+  guys:0.63
+  drugs:0.54
+  online:0.53
+  spit:0.48
+  traveling:0.48
+
+Topic 3:
+  bitcoins:2.04
+  wallet:1.27
+  drugs:1.20
+  online:1.18
+  buy:1.08
+  scam:0.55
+  turnsout:0.55
+  wondering:0.54
+  paying:0.54
+  reply:0.54
+
+Topic 4:
+  wallet:1.77
+  bitcoins:1.64
+  online:1.51
+  drugs:1.40
+  buy:1.15
+  buying:0.63
+  lost:0.63
+  reply:0.63
+  paying:0.63
+  turnsout:0.62
+
+K: 5, Log-Likelihood: -541.576, Alpha: 11.000, Beta: 1.100

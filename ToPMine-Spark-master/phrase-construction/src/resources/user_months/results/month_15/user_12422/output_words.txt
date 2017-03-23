@@ -1,0 +1,61 @@
+Topic 0:
+  ja:1.23
+  mit:0.69
+  ett:0.41
+  se:0.29
+  kaikki:0.29
+  litilille:0.29
+  tilin:0.29
+  vk:0.29
+  silkkitie:0.29
+  quote:0.29
+
+Topic 1:
+  ja:0.73
+  myyj:0.40
+  ett:0.40
+  mit:0.34
+  syntynytt:0.21
+  vahvisti:0.21
+  yll:0.21
+  tuonne:0.21
+  pantin:0.21
+  lankaan:0.21
+
+Topic 2:
+  ja:1.01
+  mit:0.49
+  ett:0.40
+  myyj:0.29
+  itsell:0.24
+  nose:0.24
+  july:0.24
+  ongelmaa:0.24
+  ettei:0.24
+  hti:0.24
+
+Topic 3:
+  myyj:0.58
+  ja:0.49
+  ett:0.36
+  ruuhkaa:0.27
+  tunnuksen:0.27
+  hyvitti:0.27
+  parin:0.27
+  reilun:0.27
+  kuun:0.27
+  hein:0.27
+
+Topic 4:
+  ja:0.54
+  myyj:0.50
+  ett:0.43
+  athene:0.27
+  paljon:0.27
+  ytt:0.27
+  mielest:0.27
+  hiljaiselta:0.27
+  kuullutkaan:0.27
+  tuo:0.27
+
+K: 5, Log-Likelihood: -415.899, Alpha: 11.000, Beta: 1.100

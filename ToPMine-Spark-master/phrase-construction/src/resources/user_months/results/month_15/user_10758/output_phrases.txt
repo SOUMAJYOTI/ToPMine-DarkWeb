@@ -1,0 +1,61 @@
+Topic 0:
+  june pmquote:5.69
+  el presidente:5.48
+  peek nice day happy:4.75
+  amun june pmlooks:4.75
+  sell ebay superb idea:4.75
+  guy sold ebay sugest:4.75
+  exact type model obi:4.70
+  drivers:4.54
+  vendor:4.42
+  forget:3.73
+
+Topic 1:
+  shit:7.62
+  car:5.21
+  manufacturers:3.72
+  appreciated:3.72
+  card:3.27
+  chip:2.28
+  destroy:2.28
+  mall:2.28
+  lol:2.28
+  underneath:2.28
+
+Topic 2:
+  find:6.09
+  location:4.67
+  configuration:4.67
+  sms:4.67
+  device:4.67
+  unit:4.67
+  ordinates:4.67
+  extract:4.28
+  lucky:3.46
+  gps:3.33
+
+Topic 3:
+  hookup:7.70
+  rock:3.81
+  passenger:3.81
+  manufacturer:3.81
+  side:3.81
+  assume:3.81
+  direct:3.81
+  recharges:3.81
+  frame:3.81
+  update:3.81
+
+Topic 4:
+  resolution:6.99
+  dimensions:4.64
+  higher:4.64
+  images:3.63
+  cheating:3.61
+  dont:2.97
+  low:2.29
+  pgp:2.29
+  shot:2.29
+  inlcude:2.29
+
+K: 5, Log-Likelihood: -3430.003, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  people:2.50
+  call:2.44
+  fbi:2.42
+  fuck:2.04
+  good:1.78
+  road:1.48
+  turmoil:1.47
+  ect:1.47
+  complydealing:1.47
+  blackmail:1.47
+
+Topic 1:
+  jlaw:7.53
+  market:6.30
+  scumbag:5.80
+  isnt:4.83
+  site:4.83
+  dont:4.43
+  fuck:3.98
+  address:3.87
+  server:3.67
+  guy:3.27
+
+Topic 2:
+  markets:4.56
+  bitcoin:2.92
+  pandora:2.91
+  pills:2.91
+  online:1.91
+  thread:1.91
+  profile:1.91
+  vendors:1.65
+  vendor:1.60
+  forums:1.56
+
+Topic 3:
+  le:8.17
+  admins:3.85
+  seizure:3.85
+  investigation:2.87
+  servers:2.47
+  market:2.01
+  server:1.98
+  releases:1.86
+  cosanostra:1.86
+  weapons:1.86
+
+Topic 4:
+  february:1.74
+  quote:1.64
+  people:1.57
+  good:1.51
+  fuck:1.30
+  market:1.19
+  sorrymario:1.16
+  whyusheep:1.15
+  shit:0.98
+  safe:0.87
+
+K: 5, Log-Likelihood: -2972.271, Alpha: 11.000, Beta: 1.100

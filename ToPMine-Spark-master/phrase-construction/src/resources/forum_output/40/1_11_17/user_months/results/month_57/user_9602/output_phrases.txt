@@ -1,0 +1,61 @@
+Topic 0:
+  recieved:1.83
+  wallet:1.83
+  btc withdraw:1.81
+  folks:1.81
+  long:1.80
+  works:1.80
+  starting:1.79
+  withdraw:1.79
+  issue:1.75
+  waiting days:1.61
+
+Topic 1:
+  mind:2.63
+  guys:2.63
+  sound:2.63
+  ag btc:2.63
+  wallet waiting:2.62
+  waiting coin:2.62
+  return:2.62
+  weeks didnt:2.62
+  wanted:2.62
+  arrived:2.62
+
+Topic 2:
+  agora:2.46
+  trust:1.27
+  afford:1.26
+  answer:1.25
+  eventually:1.25
+  worry:1.25
+  prefer:1.25
+  lose:1.24
+  bit:1.24
+  game:1.24
+
+Topic 3:
+  agora:1.87
+  support:1.12
+  dnm:0.99
+  update:0.97
+  havng:0.93
+  deposit:0.93
+  money:0.93
+  worried:0.92
+  guess:0.92
+  hope:0.92
+
+Topic 4:
+  sitting:2.67
+  admins:2.67
+  listened:2.67
+  ag good:2.67
+  response:2.66
+  time:2.66
+  leppy:2.66
+  warned:2.66
+  ahead:2.66
+  hasnt:2.66
+
+K: 5, Log-Likelihood: -1168.029, Alpha: 11.000, Beta: 1.100

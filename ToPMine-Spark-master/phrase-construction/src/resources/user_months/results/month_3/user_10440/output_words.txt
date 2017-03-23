@@ -1,0 +1,61 @@
+Topic 0:
+  bsm:5.02
+  good:4.67
+  sr:4.22
+  quote:4.11
+  traffic:3.87
+  coin:3.78
+  markets:2.88
+  couple:2.82
+  support:2.82
+  problem:2.75
+
+Topic 1:
+  bsm:6.19
+  sr:5.24
+  order:4.58
+  agora:4.45
+  good:3.75
+  time:3.52
+  nice:3.50
+  auto:3.13
+  site:2.75
+  markets:2.68
+
+Topic 2:
+  bsm:5.67
+  sign:4.38
+  march:4.32
+  ive:4.07
+  site:3.49
+  noticed:3.46
+  quote:3.30
+  market:3.24
+  dont:3.12
+  forced:3.01
+
+Topic 3:
+  sign:7.85
+  march:7.67
+  forced:6.57
+  bsm:5.43
+  time:4.75
+  market:4.17
+  ive:4.01
+  quote:3.83
+  times:3.72
+  noticed:3.46
+
+Topic 4:
+  bsm:10.70
+  hub:9.24
+  forums:8.38
+  blue:6.39
+  sky:6.11
+  customers:6.01
+  market:5.59
+  forum:5.09
+  sr:4.67
+  users:4.30
+
+K: 5, Log-Likelihood: -6677.072, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tor:1.12
+  silk:1.06
+  road:0.96
+  nation:0.84
+  attack:0.65
+  state:0.64
+  enforcement:0.63
+  law:0.60
+  security:0.60
+  cloudmark:0.59
+
+Topic 1:
+  road:1.04
+  silk:0.93
+  tor:0.81
+  nation:0.69
+  security:0.60
+  law:0.58
+  enforcement:0.57
+  state:0.56
+  cloudmark:0.56
+  attack:0.56
+
+Topic 2:
+  tor:1.09
+  silk:1.09
+  road:1.01
+  nation:0.95
+  law:0.67
+  cloudmark:0.65
+  attack:0.64
+  enforcement:0.63
+  state:0.63
+  security:0.61
+
+Topic 3:
+  tor:0.95
+  road:0.93
+  silk:0.92
+  nation:0.72
+  cloudmark:0.58
+  enforcement:0.58
+  attack:0.57
+  security:0.57
+  law:0.55
+  state:0.55
+
+Topic 4:
+  road:1.05
+  tor:1.02
+  silk:1.00
+  nation:0.80
+  state:0.63
+  security:0.62
+  cloudmark:0.61
+  law:0.60
+  enforcement:0.59
+  attack:0.58
+
+K: 5, Log-Likelihood: -751.407, Alpha: 11.000, Beta: 1.100

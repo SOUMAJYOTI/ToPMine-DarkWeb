@@ -1,0 +1,61 @@
+Topic 0:
+  market:3.69
+  vendor:2.72
+  apple:1.70
+  users:0.93
+  commission:0.86
+  vendors:0.85
+  pay:0.80
+  sell:0.77
+  iphones:0.73
+  ipads:0.71
+
+Topic 1:
+  apple:6.45
+  pgp:3.63
+  market:2.79
+  store:2.65
+  life:2.65
+  ladies:2.65
+  vendors:2.45
+  commission:2.44
+  sell:2.43
+  multisignature:1.68
+
+Topic 2:
+  markets:2.38
+  market:1.83
+  nucleus:1.35
+  luck:1.28
+  good:1.20
+  pay:1.02
+  great:1.02
+  ugly:1.01
+  search:0.98
+  vendor:0.89
+
+Topic 3:
+  good:3.10
+  luck:2.92
+  straight:2.89
+  ugly:2.65
+  ui:2.20
+  february:1.80
+  vendor:1.73
+  search:1.62
+  quote:1.50
+  apples:1.38
+
+Topic 4:
+  market:4.03
+  vendor:3.32
+  users:1.10
+  pay:1.07
+  apple:0.64
+  guys:0.57
+  ipads:0.52
+  luck:0.52
+  iphones:0.52
+  user:0.51
+
+K: 5, Log-Likelihood: -2380.455, Alpha: 11.000, Beta: 1.100

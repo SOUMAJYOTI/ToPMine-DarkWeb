@@ -1,0 +1,61 @@
+Topic 0:
+  ar:0.87
+  hzr:0.87
+  public key block:0.80
+  eo:0.75
+  ldd:0.52
+  qldtuaujmszgctitb:0.52
+  rfyp:0.51
+  fk:0.51
+  ejx:0.51
+  hnrmfjchvbk:0.51
+
+Topic 1:
+  len:3.61
+  file:3.61
+  packets:1.78
+  amnesia:1.78
+  version created:1.78
+  expiration:1.78
+  hashed:1.78
+  sig:1.78
+  digest digest:1.78
+  sigclass:1.78
+
+Topic 2:
+  keys:1.73
+  key:0.94
+  nightcrawler:0.86
+  import:0.82
+  pgp key:0.82
+  structure:0.82
+  meaning:0.82
+  keyring:0.82
+  bytes:0.82
+  wrong:0.82
+
+Topic 3:
+  hzr:1.05
+  ar:1.03
+  public key block:0.97
+  eo:0.80
+  deofmnjtpczqeo:0.57
+  iibbt:0.57
+  wfmqmpgvuhqt:0.57
+  version:0.57
+  fk:0.57
+  fxfqvoh:0.57
+
+Topic 4:
+  public key block:1.81
+  ar:1.67
+  hzr:1.66
+  eo:1.11
+  pstiwftw:0.71
+  qjzdrl:0.71
+  qatypg:0.71
+  mqenbfjncv:0.71
+  ck:0.71
+  lmfqipjovsqp:0.71
+
+K: 5, Log-Likelihood: -2893.414, Alpha: 11.000, Beta: 1.100

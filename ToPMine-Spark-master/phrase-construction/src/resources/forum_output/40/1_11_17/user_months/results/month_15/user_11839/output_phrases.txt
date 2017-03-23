@@ -1,0 +1,61 @@
+Topic 0:
+  nyms:0.28
+  account:0.28
+  longer:0.28
+  products:0.28
+  area:0.28
+  familiar:0.24
+  deleted:0.22
+  trc:0.22
+  amreally:0.22
+  june:0.22
+
+Topic 1:
+  area:0.28
+  products:0.28
+  nyms:0.27
+  longer:0.27
+  account:0.27
+  familiar:0.24
+  start:0.22
+  goods:0.22
+  places:0.22
+  selling:0.22
+
+Topic 2:
+  longer:0.28
+  account:0.28
+  nyms:0.28
+  products:0.28
+  area:0.28
+  familiar:0.24
+  shop:0.22
+  negative:0.22
+  surname:0.22
+  amreally:0.22
+
+Topic 3:
+  account:0.28
+  longer:0.28
+  products:0.28
+  nyms:0.28
+  area:0.28
+  familiar:0.24
+  kind:0.22
+  selling:0.22
+  germany:0.22
+  sell:0.22
+
+Topic 4:
+  area:0.28
+  products:0.28
+  longer:0.28
+  nyms:0.28
+  account:0.28
+  familiar:0.24
+  good:0.22
+  allowed:0.22
+  uzi:0.22
+  sells:0.22
+
+K: 5, Log-Likelihood: -127.100, Alpha: 11.000, Beta: 1.100

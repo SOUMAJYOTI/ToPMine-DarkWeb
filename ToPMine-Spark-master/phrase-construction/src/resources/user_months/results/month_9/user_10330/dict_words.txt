@@ -1,0 +1,642 @@
+opens vulnerability,0,2
+bad,1,2
+year,2,1
+allowed,3,1
+descriptor,4,1
+ios,5,1
+security tls,6,1
+guards,7,1
+sensitive sites,8,1
+path,9,1
+quote,10,3
+protected,11,1
+vulnerability recover,12,1
+exploitations,13,1
+addition,14,1
+virtually,15,1
+webservers,16,1
+library tis,17,2
+clients relay,18,1
+require,19,1
+google,20,1
+analysis,21,2
+packages,22,1
+version,23,4
+hidden services,24,2
+authorities,25,2
+source cryptographic,26,2
+thirds,27,2
+passwords credentials,28,1
+exposure,29,2
+left,30,2
+eavesdrop,31,1
+evaluating,32,1
+software security,33,1
+shortly,34,1
+stems,35,1
+telling,36,1
+strong,37,1
+authenticate,38,1
+scheme,39,1
+freebsd,40,1
+hop,41,1
+relays,42,5
+talking,43,1
+hotspots,44,1
+posted,45,1
+optimistic,46,1
+bugs,47,1
+attackers recover,48,1
+communications,49,1
+systems,50,5
+bug openssl,51,1
+attacker relay,52,2
+catastrophic,53,2
+term,54,5
+connect,55,1
+computers,56,1
+hand,57,1
+website,58,1
+set,59,1
+address,60,3
+business,61,1
+intrusted,62,1
+term onion,63,1
+server applications,64,1
+attackers private,65,1
+throw,66,1
+calling,67,1
+term relay,68,1
+days,69,1
+exploit,70,1
+standard,71,1
+addressing,72,1
+vulnerable opens,73,1
+powered,74,1
+opensuse,75,1
+sites,76,8
+jujuthis,77,1
+websites vulnerable,78,1
+good,79,1
+assessment,80,2
+post,81,3
+attacks,82,5
+leave,83,1
+greencrack,84,2
+warning,85,1
+post researchers,86,1
+tis,87,4
+tor relays,88,2
+add,89,1
+keys certificates,90,1
+test,91,2
+wrote,92,2
+tls servers,93,1
+websites openssl,94,1
+authority identity,95,1
+check,96,2
+internets,97,1
+rfc,98,1
+users,99,4
+invalidating,100,1
+goodin,101,1
+tails,102,5
+service address,103,1
+month,104,1
+exploited,105,4
+authority,106,3
+sensitive data,107,3
+parts,108,1
+vulnerable bug,109,1
+impersonated,110,1
+encryption key,111,1
+private,112,8
+tails quote,113,1
+technical,114,1
+zaphon,115,1
+production,116,1
+applied,117,1
+scrambling,118,1
+session,119,3
+medium,120,2
+directory,121,3
+zaphod,122,1
+content,123,1
+prevent,124,1
+engine,125,2
+flows,126,1
+service relay,127,1
+client,128,4
+exposed,129,2
+company,130,2
+hard,131,1
+vulnerable websites,132,2
+multiply,133,1
+lines,134,1
+live,135,1
+long vulnerability,136,1
+digital,137,2
+quoterisk,138,1
+sites change,139,1
+attackers exploited,140,1
+identify,141,2
+jebusite,142,1
+relay,143,8
+libnss,144,1
+attacker,145,5
+rotated,146,1
+quotewhat,147,1
+relay clients,148,1
+certificate authority,149,1
+vulnerability today,150,1
+referenced,151,1
+service,152,8
+publish,153,1
+visited,154,1
+tls,155,4
+handling,156,1
+attacked,157,2
+passwords change,158,1
+services tor,159,1
+openssl tor,160,1
+big,161,1
+practice,162,2
+called,163,1
+vulnerable tls,164,1
+shouldnt,165,2
+revoking,166,1
+release,167,1
+opens version,168,2
+bit,169,1
+attempt,170,1
+coincided,171,1
+upgrades,172,1
+tracking,173,1
+years,174,2
+eavesdropping,175,1
+keys session,176,1
+newly,177,1
+relay identity keys,178,1
+defect,179,1
+appeared,180,1
+default cryptographic,181,1
+users impersonate,182,1
+private encryption,183,1
+write,184,1
+order,185,1
+protecting,186,1
+issue,187,2
+large,188,1
+researchers,189,5
+testing,190,1
+compromises,191,1
+signed,192,1
+traveling,193,1
+impersonate relay,194,1
+underlying,195,2
+picnic,196,1
+sensitive,197,5
+clearnet sites,198,2
+distributions,199,1
+messaging,200,1
+service attacker,201,1
+system,202,2
+likelihood,203,1
+exploited vulnerability,204,1
+underground,205,1
+install,206,1
+intercept,207,1
+cryptographically,208,1
+clearnet source,209,1
+opens,210,13
+messages,211,1
+compromised,212,1
+term authority,213,1
+server,214,3
+systems package,215,1
+don,216,1
+recovering,217,1
+clients,218,5
+circuit,219,1
+oldstable,220,1
+address impersonate,221,1
+chunks,222,1
+obama,223,1
+plate,224,1
+ssl tls,225,1
+package generate,226,1
+instant,227,2
+safe web,228,1
+indicating,229,1
+users attacks,230,1
+library,231,6
+dothere,232,1
+tor,233,13
+administer,234,1
+ability,235,1
+internet long,236,1
+monday,237,1
+leak long,238,1
+change,239,3
+knew,240,1
+impersonate hidden,241,1
+attackers,242,7
+hacktivismcritical,243,1
+critical vulnerability,244,1
+names,245,1
+safe tails,246,1
+removed,247,1
+trusted,248,1
+future,249,1
+websites,250,7
+signing,251,2
+updated tor,252,1
+rotate,253,1
+heartbleed,254,2
+mail,255,2
+equally,256,1
+memory server,257,1
+serve,258,1
+office,259,1
+server client,260,1
+clusterfuck,261,1
+clearnet clearnet,262,10
+bug attackers,263,1
+datadirectory,264,1
+updating,265,1
+site ssl,266,2
+impersonate,267,3
+solution,268,1
+passwords,269,7
+snowdon,270,1
+members,271,1
+links,272,1
+communication,273,1
+logs,274,1
+officially,275,1
+traffic,276,1
+keys update,277,1
+including,278,1
+nginx,279,2
+client server,280,1
+relays bridges,281,3
+initials,282,1
+heart,283,1
+web server,284,1
+credentials sensitive,285,1
+coded,286,1
+entry,287,1
+updated opens,288,1
+task,289,1
+dubbed,290,1
+sullivan,291,1
+convenient,292,1
+kilobytes,293,1
+retrieve,294,1
+relay identity key,295,3
+opens implementation,296,1
+attacker hidden,297,1
+generate keys,298,1
+update today,299,1
+keys,300,19
+entrap,301,1
+certificate,302,3
+tors,303,1
+running,304,2
+youve,305,1
+applications open,306,1
+design,307,4
+today,308,3
+library apache,309,1
+vulnerability openssl,310,2
+outsidethe,311,1
+possibility,312,1
+recover,313,3
+trolltergeist,314,1
+determine,315,1
+os,316,1
+bridges tor,317,2
+onion key,318,1
+transport,319,1
+tor directory,320,1
+extraordinary,321,1
+risks,322,1
+term hidden,323,1
+update opens,324,1
+exploited opens,325,1
+tor hidden,326,1
+relays hidden,327,1
+key long,328,1
+cert,329,1
+convenience,330,2
+websites source,331,1
+systems applications,332,1
+researchers discovered,333,3
+ssl,334,7
+default encryption,335,2
+patch,336,1
+firm,337,1
+extremely,338,2
+hackers,339,3
+hundreds,340,1
+identity keys,341,3
+fully,342,1
+based,343,1
+clearnet clearnet clearnet,344,9
+apr,345,1
+remain,346,1
+vulnerability,347,11
+certificate passwords,348,1
+vpon,349,1
+bug update,350,1
+certificates,351,3
+post updated,352,1
+patched,353,2
+bundles,354,1
+keys attacker,355,1
+programs,356,1
+actions,357,1
+discovered,358,3
+components,359,1
+reissuing,360,1
+networks,361,1
+long,362,6
+cookies,363,2
+remember,364,2
+cryptographic software,365,1
+default,366,4
+current,367,2
+cve,368,2
+eavesdroppingexploits,369,1
+encryption,370,3
+variety,371,2
+relay identity,372,4
+attack,373,2
+encrypt,374,1
+actively,375,2
+source clearnet,376,1
+operating,377,4
+private keys,378,6
+webserver,379,1
+popular,380,2
+key,381,9
+latest,382,1
+validate,383,1
+openssl bug,384,3
+cryptographic library,385,3
+ars,386,1
+change onion,387,1
+protections,388,2
+services,389,3
+disclose,390,1
+people,391,1
+asa,392,1
+stay,393,1
+confirm,394,1
+single,395,1
+connected,396,1
+attacking relay,397,1
+recovered,398,1
+bug,399,19
+openssl key,400,1
+decrypt,401,1
+grab,402,1
+thing,403,1
+open,404,6
+documents,405,1
+project,406,2
+source,407,6
+design ssl,408,1
+secure,409,1
+tails safe,410,2
+vulnerable,411,9
+richter,412,1
+apache,413,3
+white,414,1
+armain,415,1
+opens opens,416,1
+client clients,417,1
+yahoo,418,1
+things,419,1
+implementation default,420,2
+hat,421,1
+details,422,2
+generate,423,3
+session keys,424,1
+internet servers,425,1
+engineering,426,1
+bridges,427,3
+secrets,428,1
+privileged,429,1
+longer,430,1
+nutshell,431,1
+generate ssl,432,1
+change passwords,433,2
+fixed,434,2
+leaving,435,2
+updated,436,3
+internet,437,6
+memory,438,5
+hidden,439,10
+clients bug,440,1
+needed,441,1
+keypair,442,1
+wheezy,443,1
+update,444,4
+privacy,445,1
+clearnet clearnet clearnet clearnet,446,8
+tor generate,447,1
+resides,448,1
+emails,449,1
+devs,450,1
+apple,451,1
+open source,452,4
+interest,453,1
+linux,454,1
+missing,455,1
+anonymity,456,2
+unaffected,457,1
+delivery,458,1
+thoughts,459,1
+hours,460,1
+wide,461,2
+key onion,462,1
+rotation,463,1
+estimated,464,1
+implementation tls,465,1
+ssl web,466,1
+bridges leak,467,1
+honeypots,468,1
+engineer,469,1
+bypass,470,2
+source applications,471,1
+design attacking,472,1
+fedora,473,1
+detailed,474,1
+restricted,475,1
+version open,476,1
+keys passwords,477,2
+risk,478,2
+location,479,2
+compromise,480,2
+resided,481,1
+applications,482,3
+package opens,483,1
+discard,484,1
+software,485,4
+developers,486,1
+heartbeat,487,2
+residing,488,1
+decide,489,1
+program,490,1
+april,491,4
+issues,492,1
+open attacks,493,1
+multi,494,1
+vulnerable attacks,495,1
+bug opens,496,1
+openbsd,497,1
+case,498,1
+openssl vulnerability,499,1
+web servers,500,1
+phishing,501,1
+passwords services,502,1
+method,503,2
+software library,504,2
+work,505,1
+unfolds,506,1
+operating systems,507,4
+clearnet,508,14
+torproject,509,1
+cloudflare,510,1
+private key,511,1
+ships,512,1
+knowing,513,1
+versions,514,2
+slide,515,1
+service identity,516,2
+services leak,517,1
+openssl,518,14
+didnt,519,1
+bounds,520,1
+force,521,1
+centos,522,1
+gmail,523,1
+extension,524,2
+directory authority,525,1
+debacle,526,1
+guard,527,1
+settle,528,1
+client vulnerable,529,1
+identity key,530,4
+secret,531,1
+layer,532,1
+nick,533,1
+leak,534,3
+computer,535,1
+flaw,536,1
+web,537,6
+orbot,538,1
+identity,539,7
+older,540,2
+myfamily,541,1
+cryptographic,542,4
+regular,543,2
+torrc,544,1
+include,545,1
+disclosure,546,1
+hidden service,547,8
+tis implementation,548,2
+restart,549,2
+surreptitiously,550,1
+advisorya,551,1
+expect,552,1
+onion address,553,1
+site,554,4
+whew,555,1
+amthis,556,1
+key impersonate,557,1
+runs,558,3
+systems hackers,559,1
+reveal,560,1
+data,561,4
+attackers vulnerability,562,1
+onion,563,3
+replace,564,1
+forensic,565,1
+blog,566,2
+dan,567,1
+netcraft,568,2
+major,569,1
+opens package,570,3
+threaten,571,1
+passwords sensitive,572,1
+criminal,573,1
+connections,574,1
+amand,575,1
+manually,576,1
+package,577,4
+amso,578,1
+ubuntu,579,1
+tor client,580,1
+traces,581,1
+published,582,2
+crypto,583,1
+tor update,584,1
+apache web,585,1
+tbb,586,1
+safe,587,3
+files,588,1
+attacks hackers,589,1
+long term,590,3
+send,591,1
+version safe,592,1
+dont,593,1
+ease,594,1
+note,595,1
+discovered vulnerability,596,2
+term directory,597,1
+week,598,2
+critical,599,3
+gnutls,600,1
+steal,601,1
+credentials,602,4
+tis certificate,603,1
+chunk,604,1
+scale,605,1
+patching,606,1
+percent,607,2
+network,608,1
+banking,609,1
+trace,610,2
+security,611,6
+servers,612,4
+public,613,1
+sounds,614,1
+version bug,615,1
+induced,616,1
+browser,617,2
+codenomicon,618,1
+mentioned,619,1
+authority design,620,1
+designed,621,1
+sal,622,2
+authentication,623,1
+opens security,624,1
+amount,625,1
+move,626,1
+disclosed,627,1
+built,628,1
+implementation,629,3
+juju,630,1
+february,631,1
+recover private,632,2
+attacking,633,3
+tricky,634,1
+ssl generate,635,1
+onion keys,636,1
+stolen,637,2
+listed,638,1
+visit,639,2
+user,640,2
+wild,641,1

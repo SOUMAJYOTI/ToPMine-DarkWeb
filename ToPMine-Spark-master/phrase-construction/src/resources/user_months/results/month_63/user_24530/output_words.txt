@@ -1,0 +1,61 @@
+Topic 0:
+  bios:4.13
+  software:3.59
+  october:3.00
+  quote:3.00
+  free:2.34
+  hardware:2.00
+  happen:1.92
+  thing:1.92
+  infector:1.81
+  info:1.59
+
+Topic 1:
+  people:9.33
+  dont:5.80
+  understand:2.99
+  govt:2.93
+  government:2.43
+  lazy:1.93
+  revolution:1.93
+  fighting:1.93
+  revolt:1.71
+  case:1.71
+
+Topic 2:
+  bios:8.71
+  system:5.70
+  computer:3.86
+  flash:3.16
+  owned:2.71
+  firmware:2.08
+  write:1.76
+  instructions:1.76
+  mode:1.76
+  hackers:1.71
+
+Topic 3:
+  bios:3.59
+  firmware:1.50
+  flash:1.41
+  works:1.19
+  directly:1.19
+  software:1.17
+  avoid:1.16
+  october:1.15
+  quote:1.14
+  system:1.12
+
+Topic 4:
+  drug:3.75
+  privacy:3.47
+  suppose:2.94
+  thought:2.84
+  nsa:2.43
+  security:2.14
+  government:1.98
+  humans:1.94
+  transparency:1.94
+  guy:1.94
+
+K: 5, Log-Likelihood: -3432.873, Alpha: 11.000, Beta: 1.100

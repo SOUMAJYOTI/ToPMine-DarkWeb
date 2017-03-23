@@ -1,0 +1,61 @@
+Topic 0:
+  vpn:2.39
+  choice os:1.36
+  government:0.92
+  compared:0.91
+  secure os:0.91
+  visiting:0.90
+  service:0.90
+  protect hacked:0.90
+  snoop:0.90
+  doesnt:0.90
+
+Topic 1:
+  beginners:4.68
+  nice:2.27
+  thinks:2.27
+  ways:2.27
+  easy:2.27
+  distros:2.27
+  offer:2.27
+  major:2.27
+  days:2.27
+  ideal:2.27
+
+Topic 2:
+  software:2.72
+  farewell:2.69
+  eyes:2.69
+  stuff:2.69
+  hardware:2.64
+  multi:2.59
+  assume:2.54
+  vpn tor:2.53
+  vpn:2.50
+  choice os:1.41
+
+Topic 3:
+  vpn:3.23
+  browse:1.90
+  op:1.89
+  sytem:1.88
+  pmwhat:1.29
+  dutchie:1.29
+  safe:1.29
+  mate:1.29
+  windows linux:1.03
+  vpn windows:1.03
+
+Topic 4:
+  linux:5.34
+  design:3.15
+  recommend:3.15
+  arch:3.15
+  mac:3.15
+  beginner:3.15
+  windows:3.06
+  linus:2.62
+  ubuntu:1.95
+  opensuse:1.55
+
+K: 5, Log-Likelihood: -1951.957, Alpha: 11.000, Beta: 1.100

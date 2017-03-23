@@ -1,0 +1,61 @@
+Topic 0:
+  persistence:0.76
+  pasted:0.66
+  files:0.66
+  didnt:0.47
+  pgp:0.44
+  usb:0.41
+  saved:0.33
+  tails:0.33
+  restart:0.23
+  unlocked:0.23
+
+Topic 1:
+  pgp:0.81
+  didnt:0.79
+  tails:0.51
+  saved:0.50
+  files:0.50
+  pasted:0.49
+  usb:0.38
+  persistence:0.34
+  correctly:0.24
+  account:0.24
+
+Topic 2:
+  didnt:0.91
+  pgp:0.90
+  tails:0.55
+  saved:0.55
+  pasted:0.45
+  files:0.44
+  usb:0.37
+  persistence:0.30
+  required:0.25
+  pretty:0.25
+
+Topic 3:
+  persistence:0.84
+  pasted:0.71
+  files:0.69
+  usb:0.41
+  pgp:0.41
+  didnt:0.40
+  saved:0.30
+  tails:0.30
+  folder:0.24
+  live:0.24
+
+Topic 4:
+  persistence:0.76
+  files:0.71
+  pasted:0.69
+  pgp:0.43
+  didnt:0.42
+  usb:0.42
+  saved:0.31
+  tails:0.31
+  contents:0.24
+  set:0.24
+
+K: 5, Log-Likelihood: -225.762, Alpha: 11.000, Beta: 1.100

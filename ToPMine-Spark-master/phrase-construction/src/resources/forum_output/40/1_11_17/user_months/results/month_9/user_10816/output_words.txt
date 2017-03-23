@@ -1,0 +1,61 @@
+Topic 0:
+  paranoia:1.17
+  worry:1.08
+  public:1.07
+  listening:1.06
+  interesting:1.04
+  people:0.94
+  typing:0.93
+  increases:0.76
+  dont:0.53
+  type:0.53
+
+Topic 1:
+  public:1.72
+  worry:1.71
+  paranoia:1.47
+  people:1.24
+  increases:1.00
+  listening:0.90
+  interesting:0.76
+  high:0.70
+  typing:0.68
+  targeting:0.55
+
+Topic 2:
+  phone:5.85
+  phones:4.85
+  keystrokes:3.86
+  pickup:2.86
+  sound:2.74
+  guys:1.86
+  screen:1.86
+  detect:1.86
+  microphone:1.86
+  orientation:1.86
+
+Topic 3:
+  text:4.71
+  keyboard:3.65
+  english:2.73
+  learning:2.72
+  attack:2.72
+  passwords:2.72
+  recording:2.64
+  typing:2.29
+  training:1.74
+  sounds:1.74
+
+Topic 4:
+  typing:1.07
+  interesting:0.98
+  keyboard:0.67
+  listening:0.64
+  sound:0.63
+  recording:0.56
+  dont:0.38
+  type:0.38
+  person:0.34
+  discussed:0.34
+
+K: 5, Log-Likelihood: -1491.024, Alpha: 11.000, Beta: 1.100

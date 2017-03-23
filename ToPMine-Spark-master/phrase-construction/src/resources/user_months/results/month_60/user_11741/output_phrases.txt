@@ -1,0 +1,61 @@
+Topic 0:
+  account:0.78
+  september:0.60
+  pm hella lot favorites:0.59
+  bitbybit september amquote organix:0.48
+  quote:0.43
+  tackle payshield sigaint:0.41
+  surprised mentioned charging good:0.41
+  money handle day:0.41
+  bother:0.39
+  fund:0.39
+
+Topic 1:
+  account:1.31
+  built:0.56
+  wait:0.56
+  free:0.56
+  tumbler:0.56
+  localbitcoins:0.56
+  hours:0.56
+  withdrawthey:0.56
+  fake:0.56
+  fund:0.55
+
+Topic 2:
+  imo:0.73
+  price:0.72
+  bitbybit september amquote organix:0.54
+  organix november:0.54
+  sigaint surprised mentioned charging:0.54
+  good money handle day:0.54
+  amquote:0.54
+  charges:0.54
+  pm hella lot favorites:0.44
+  september:0.43
+
+Topic 3:
+  price:1.49
+  imo:1.48
+  charges:0.62
+  small:0.62
+  favorites tackle payshield:0.62
+  peace:0.62
+  pmquote:0.62
+  mind:0.62
+  service:0.62
+  encourage:0.62
+
+Topic 4:
+  current:2.47
+  blackete:2.47
+  people:2.47
+  tumble coins:2.11
+  reason:1.11
+  rl:1.11
+  layer:1.11
+  amtheres:1.11
+  link:1.11
+  blockchain:1.11
+
+K: 5, Log-Likelihood: -491.452, Alpha: 11.000, Beta: 1.100

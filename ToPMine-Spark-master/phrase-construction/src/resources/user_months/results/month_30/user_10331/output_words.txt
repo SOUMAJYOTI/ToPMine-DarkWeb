@@ -1,0 +1,61 @@
+Topic 0:
+  bitmessage:13.96
+  ch:13.96
+  tor:13.21
+  service:12.97
+  onion:11.96
+  mail:8.96
+  admin:7.96
+  sigaint:6.96
+  days:6.38
+  told:6.06
+
+Topic 1:
+  hackers:26.44
+  security:18.68
+  hacker:14.16
+  community:13.99
+  opsec:9.15
+  technology:9.11
+  good:8.49
+  lot:8.08
+  intelligence:8.06
+  learn:6.71
+
+Topic 2:
+  organisation:18.88
+  covert:18.15
+  security:12.91
+  operation:12.89
+  cover:10.07
+  drug:9.86
+  network:9.81
+  phone:9.05
+  agent:8.93
+  protip:7.91
+
+Topic 3:
+  sold:6.92
+  sr:5.92
+  quote:4.55
+  residence:4.38
+  days:4.27
+  mistake:4.01
+  police:3.94
+  arrest:3.92
+  led:3.92
+  zaphod:3.28
+
+Topic 4:
+  security:24.18
+  clandestine:15.20
+  operation:10.35
+  grugq:9.26
+  good:8.49
+  activity:8.11
+  internet:7.08
+  time:7.04
+  opsec:7.03
+  high:6.28
+
+K: 5, Log-Likelihood: -18225.936, Alpha: 11.000, Beta: 1.100

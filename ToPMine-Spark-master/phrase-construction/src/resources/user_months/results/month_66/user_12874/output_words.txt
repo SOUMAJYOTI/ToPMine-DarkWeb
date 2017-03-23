@@ -1,0 +1,41 @@
+Topic 0:
+  post:0.40
+  start:0.20
+  weimeneagwtf:0.20
+  topics:0.20
+  person:0.20
+  nahhh:0.20
+
+Topic 1:
+  post:0.40
+  weimeneagwtf:0.20
+  nahhh:0.20
+  start:0.20
+  topics:0.20
+  person:0.20
+
+Topic 2:
+  post:0.40
+  person:0.20
+  topics:0.20
+  start:0.20
+  nahhh:0.20
+  weimeneagwtf:0.20
+
+Topic 3:
+  post:0.40
+  start:0.20
+  person:0.20
+  topics:0.20
+  nahhh:0.20
+  weimeneagwtf:0.20
+
+Topic 4:
+  post:0.40
+  nahhh:0.20
+  weimeneagwtf:0.20
+  topics:0.20
+  person:0.20
+  start:0.20
+
+K: 5, Log-Likelihood: -12.258, Alpha: 11.000, Beta: 1.100

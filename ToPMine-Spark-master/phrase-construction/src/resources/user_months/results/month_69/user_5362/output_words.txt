@@ -1,0 +1,61 @@
+Topic 0:
+  perfectly:2.41
+  vials:2.10
+  calibrated:1.73
+  hits:0.93
+  good:0.92
+  bruv:0.92
+  price:0.42
+  druids:0.41
+  drops:0.41
+  solution:0.41
+
+Topic 1:
+  vials:0.81
+  jor:0.78
+  fill:0.54
+  market:0.53
+  time:0.46
+  price:0.34
+  perfectly:0.28
+  entheogenesis:0.25
+  liquidergot:0.25
+  offerings:0.25
+
+Topic 2:
+  vials:0.89
+  jor:0.69
+  market:0.46
+  fill:0.46
+  time:0.45
+  price:0.40
+  perfectly:0.36
+  calibrated:0.29
+  bruv:0.25
+  good:0.25
+
+Topic 3:
+  jor:0.77
+  vials:0.72
+  market:0.60
+  fill:0.60
+  time:0.47
+  price:0.31
+  comer:0.27
+  dick:0.27
+  hands:0.27
+  resigned:0.27
+
+Topic 4:
+  vials:1.48
+  perfectly:0.70
+  price:0.53
+  calibrated:0.52
+  jor:0.52
+  bruv:0.41
+  good:0.41
+  hits:0.40
+  time:0.39
+  market:0.28
+
+K: 5, Log-Likelihood: -414.731, Alpha: 11.000, Beta: 1.100

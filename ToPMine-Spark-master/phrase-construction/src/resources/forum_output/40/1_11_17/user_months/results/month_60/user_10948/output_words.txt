@@ -1,0 +1,61 @@
+Topic 0:
+  unshakable:0.94
+  bit:0.54
+  network:0.50
+  dont:0.38
+  developed:0.38
+  build:0.37
+  applications:0.33
+  documentation:0.23
+  accessed:0.23
+  sense:0.23
+
+Topic 1:
+  unshakable:0.78
+  build:0.60
+  bit:0.56
+  developed:0.42
+  dont:0.42
+  network:0.38
+  applications:0.27
+  incorrectly:0.27
+  supposedly:0.27
+  info:0.27
+
+Topic 2:
+  unshakable:0.80
+  bit:0.64
+  applications:0.50
+  network:0.41
+  developed:0.38
+  dont:0.38
+  build:0.26
+  type:0.24
+  scale:0.24
+  crash:0.24
+
+Topic 3:
+  bit:0.72
+  unshakable:0.65
+  applications:0.61
+  developed:0.41
+  dont:0.41
+  network:0.30
+  full:0.27
+  dynamics:0.27
+  real:0.27
+  things:0.27
+
+Topic 4:
+  unshakable:0.84
+  bit:0.54
+  build:0.51
+  network:0.41
+  dont:0.41
+  developed:0.41
+  applications:0.29
+  missed:0.24
+  github:0.24
+  hear:0.24
+
+K: 5, Log-Likelihood: -438.341, Alpha: 11.000, Beta: 1.100

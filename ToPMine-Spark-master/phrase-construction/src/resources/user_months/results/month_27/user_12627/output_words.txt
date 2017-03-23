@@ -1,0 +1,61 @@
+Topic 0:
+  kirje:3.79
+  er:3.79
+  kauppias:3.78
+  eik:3.52
+  tulee:3.17
+  kiist:2.81
+  ja:2.75
+  ei:2.34
+  ny:2.10
+  pist:1.99
+
+Topic 1:
+  ei:2.75
+  ja:2.70
+  mit:1.72
+  eik:1.47
+  myyj:1.33
+  jo:1.18
+  kaikki:1.05
+  iv:0.86
+  ono:0.64
+  sama:0.62
+
+Topic 2:
+  nain:2.76
+  lt:2.52
+  se:2.49
+  rahanne:1.76
+  takaisin:1.76
+  mit:1.74
+  yhteydess:1.44
+  pit:1.44
+  olkaa:1.43
+  asiakaspalveluun:1.42
+
+Topic 3:
+  ei:3.63
+  mit:2.38
+  voi:2.19
+  siihen:1.62
+  sm:1.20
+  nain:1.08
+  kaikki:1.08
+  iv:1.07
+  men:1.00
+  poistaa:1.00
+
+Topic 4:
+  speed:4.83
+  ja:4.55
+  jos:4.19
+  press:3.38
+  jo:2.70
+  se:2.59
+  market:2.29
+  yll:2.23
+  ett:2.01
+  joutuu:1.86
+
+K: 5, Log-Likelihood: -3243.606, Alpha: 11.000, Beta: 1.100

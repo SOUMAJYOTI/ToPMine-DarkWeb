@@ -1,0 +1,61 @@
+Topic 0:
+  cards:0.24
+  post:0.16
+  guys:0.16
+  wanted:0.16
+  free:0.08
+  opinion:0.08
+  heard:0.08
+  confirmation:0.08
+  bought:0.08
+  hidden:0.08
+
+Topic 1:
+  cards:0.24
+  guys:0.16
+  wanted:0.16
+  post:0.16
+  things:0.08
+  free:0.08
+  link:0.08
+  displayed:0.08
+  message:0.08
+  personal:0.08
+
+Topic 2:
+  cards:0.24
+  wanted:0.16
+  post:0.16
+  guys:0.16
+  wan:0.08
+  people:0.08
+  scammed:0.08
+  buy:0.08
+  viewsdont:0.08
+  customer:0.08
+
+Topic 3:
+  cards:0.24
+  wanted:0.16
+  post:0.16
+  guys:0.16
+  listed:0.08
+  bought:0.08
+  good:0.08
+  contact:0.08
+  house:0.08
+  website:0.08
+
+Topic 4:
+  cards:0.24
+  wanted:0.16
+  guys:0.16
+  post:0.16
+  website:0.08
+  hidden:0.08
+  heard:0.08
+  displayed:0.08
+  photos:0.08
+  contact:0.08
+
+K: 5, Log-Likelihood: -60.815, Alpha: 11.000, Beta: 1.100

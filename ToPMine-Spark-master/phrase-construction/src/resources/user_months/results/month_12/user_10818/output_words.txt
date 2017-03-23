@@ -1,0 +1,61 @@
+Topic 0:
+  pigeon:1.76
+  site:1.27
+  referred:0.61
+  program:0.48
+  fairly:0.47
+  cases:0.47
+  specific:0.47
+  customers:0.47
+  time:0.47
+  flown:0.37
+
+Topic 1:
+  good:2.49
+  pigeon:2.33
+  luck:1.57
+  customers:0.72
+  specific:0.72
+  cases:0.72
+  fairly:0.72
+  program:0.71
+  competition:0.70
+  commission:0.70
+
+Topic 2:
+  site:1.77
+  server:0.85
+  web:0.65
+  users:0.63
+  referred:0.60
+  sell:0.55
+  simple:0.54
+  big:0.53
+  time:0.53
+  full:0.52
+
+Topic 3:
+  server:3.49
+  users:1.99
+  web:1.86
+  servers:1.44
+  full:1.36
+  site:1.36
+  big:1.35
+  simple:1.33
+  sell:1.30
+  dedicated:0.82
+
+Topic 4:
+  site:2.09
+  server:1.37
+  web:1.22
+  users:1.12
+  sell:0.90
+  simple:0.88
+  big:0.87
+  full:0.87
+  servers:0.81
+  referred:0.59
+
+K: 5, Log-Likelihood: -920.255, Alpha: 11.000, Beta: 1.100

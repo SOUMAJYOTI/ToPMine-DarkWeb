@@ -1,0 +1,61 @@
+Topic 0:
+  day week:3.93
+  pmalbert:3.80
+  hold:3.79
+  dream:3.79
+  blue:3.79
+  march:3.79
+  agra:3.74
+  liquid:3.56
+  alberthoffman:3.30
+  quote leavetheworldbehind march:2.41
+
+Topic 1:
+  albert:5.02
+  hippie:4.05
+  ago:4.05
+  doubt:4.05
+  figure:4.05
+  identical:4.05
+  vary:4.05
+  dosage:4.05
+  amazing product:4.05
+  provide:4.05
+
+Topic 2:
+  gdf fluff:8.14
+  compared:3.99
+  house:3.99
+  cevs:3.99
+  spirits:3.99
+  mail:2.70
+  pgp:2.60
+  send message marketplace:2.41
+  hoffmans:2.32
+  gaffman:2.32
+
+Topic 3:
+  style:4.01
+  trailsjdsecurity:4.01
+  life:4.01
+  friend:4.01
+  kick:4.01
+  vendor:4.01
+  crystal:4.01
+  chime:4.01
+  fun:4.01
+  order:4.01
+
+Topic 4:
+  agora:4.84
+  quote bruce april:4.36
+  hours:3.44
+  alberthoffman day:3.42
+  marketplacequote:3.40
+  couple:3.40
+  find:3.39
+  days:3.35
+  messages:3.34
+  pgp sr:3.04
+
+K: 5, Log-Likelihood: -1823.660, Alpha: 11.000, Beta: 1.100

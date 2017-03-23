@@ -1,0 +1,61 @@
+Topic 0:
+  times:1.22
+  feedback:1.14
+  messaging:0.61
+  sr:0.61
+  times dont find refresh:0.61
+  issue hours:0.60
+  july pmquote feesh july:0.60
+  bug:0.60
+  majority time hold support:0.60
+  difficult site afraid log:0.60
+
+Topic 1:
+  evo:2.85
+  pretty:2.85
+  interface:1.36
+  quick:1.36
+  effing:1.36
+  sick:1.36
+  comfortable:1.36
+  fire:1.36
+  agora:1.36
+  hand:1.36
+
+Topic 2:
+  times:0.97
+  feedback:0.61
+  quote:0.60
+  majority time hold support:0.58
+  times dont find refresh:0.57
+  pmquote feesh july pmthe:0.56
+  extra traffic overflow:0.55
+  rule agora log agora:0.54
+  ag:0.49
+  remember:0.49
+
+Topic 3:
+  feedback:1.87
+  times:1.73
+  starting:0.75
+  messaged:0.74
+  response:0.74
+  resolve:0.73
+  completely:0.73
+  hours:0.73
+  feedback reason:0.73
+  scammer:0.73
+
+Topic 4:
+  times:0.88
+  feedback:0.71
+  quote:0.59
+  pmquote feesh july pmthe:0.57
+  times dont find refresh:0.57
+  majority time hold support:0.56
+  reason:0.53
+  marketscan:0.53
+  gasp:0.53
+  backopy:0.53
+
+K: 5, Log-Likelihood: -729.293, Alpha: 11.000, Beta: 1.100

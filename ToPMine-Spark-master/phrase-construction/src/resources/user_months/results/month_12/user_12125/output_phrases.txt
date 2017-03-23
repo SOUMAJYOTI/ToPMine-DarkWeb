@@ -1,0 +1,61 @@
+Topic 0:
+  service:0.90
+  coins:0.82
+  dirty coins:0.55
+  clean coins:0.54
+  logs:0.52
+  reload pack:0.41
+  repaid debit:0.41
+  exchange:0.41
+  mixing:0.40
+  wait:0.40
+
+Topic 1:
+  service:1.19
+  coins:0.83
+  dirty coins:0.56
+  logs:0.55
+  clean coins:0.54
+  wait:0.42
+  withdrawals:0.42
+  receive:0.41
+  mixing:0.41
+  reload pack:0.41
+
+Topic 2:
+  service:1.29
+  coins:1.15
+  logs:0.60
+  dirty coins:0.59
+  clean coins:0.59
+  receive:0.44
+  exchange:0.44
+  withdrawals:0.44
+  wait:0.44
+  mixing:0.43
+
+Topic 3:
+  service:1.24
+  coins:1.16
+  clean coins:0.57
+  logs:0.56
+  dirty coins:0.55
+  repaid debit:0.43
+  receive:0.43
+  reload pack:0.43
+  mixing:0.43
+  wait:0.42
+
+Topic 4:
+  service:0.92
+  coins:0.89
+  logs:0.54
+  clean coins:0.53
+  dirty coins:0.52
+  mixing:0.40
+  repaid debit:0.40
+  exchange:0.40
+  reload pack:0.40
+  withdrawals:0.40
+
+K: 5, Log-Likelihood: -1171.771, Alpha: 11.000, Beta: 1.100

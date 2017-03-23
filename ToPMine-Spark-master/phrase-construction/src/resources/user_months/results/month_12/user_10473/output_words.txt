@@ -1,0 +1,61 @@
+Topic 0:
+  link:0.99
+  links:0.77
+  side:0.61
+  agora:0.60
+  june:0.60
+  thiers:0.60
+  click:0.60
+  idk:0.60
+  site:0.59
+  referred:0.59
+
+Topic 1:
+  link:0.94
+  links:0.88
+  idk:0.62
+  referred:0.62
+  site:0.61
+  side:0.61
+  agora:0.61
+  thiers:0.60
+  click:0.57
+  june:0.56
+
+Topic 2:
+  link:1.01
+  links:0.82
+  side:0.60
+  click:0.60
+  referred:0.60
+  site:0.60
+  thiers:0.60
+  agora:0.60
+  idk:0.59
+  june:0.58
+
+Topic 3:
+  link:1.04
+  links:0.78
+  click:0.62
+  june:0.62
+  idk:0.60
+  thiers:0.60
+  site:0.60
+  agora:0.59
+  referred:0.59
+  side:0.58
+
+Topic 4:
+  link:1.01
+  links:0.75
+  june:0.63
+  click:0.61
+  agora:0.60
+  thiers:0.60
+  referred:0.60
+  site:0.60
+  idk:0.59
+  side:0.59
+
+K: 5, Log-Likelihood: -268.313, Alpha: 11.000, Beta: 1.100

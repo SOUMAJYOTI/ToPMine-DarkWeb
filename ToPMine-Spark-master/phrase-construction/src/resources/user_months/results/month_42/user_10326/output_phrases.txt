@@ -1,0 +1,61 @@
+Topic 0:
+  great:0.61
+  options:0.41
+  os:0.34
+  box:0.33
+  users:0.33
+  yhs:0.33
+  filled:0.33
+  posts:0.33
+  access:0.33
+  work:0.33
+
+Topic 1:
+  buy:1.05
+  vm:1.05
+  contacts:1.03
+  spawn:1.01
+  os:0.60
+  risk:0.45
+  targeted:0.45
+  fedora:0.45
+  browser:0.45
+  messages:0.45
+
+Topic 2:
+  set:3.00
+  youve:0.84
+  interpret:0.84
+  sole:0.84
+  isolation:0.84
+  choose:0.84
+  configurations:0.84
+  vitally:0.84
+  vulnerable:0.84
+  protecting:0.84
+
+Topic 3:
+  spawn:0.81
+  contacts:0.80
+  vm:0.78
+  buy:0.78
+  os:0.57
+  seperation:0.38
+  keys:0.38
+  software:0.38
+  pcduino:0.38
+  nitrogen:0.38
+
+Topic 4:
+  great:1.00
+  options:0.61
+  vpns:0.49
+  raspberry:0.49
+  list:0.49
+  sticky:0.49
+  thread:0.49
+  avoiding:0.49
+  eventually:0.49
+  throw:0.49
+
+K: 5, Log-Likelihood: -667.681, Alpha: 11.000, Beta: 1.100

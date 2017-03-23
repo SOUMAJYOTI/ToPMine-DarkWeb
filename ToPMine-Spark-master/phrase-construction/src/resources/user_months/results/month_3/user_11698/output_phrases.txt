@@ -1,0 +1,41 @@
+Topic 0:
+  including:0.08
+  working:0.08
+  links:0.08
+  doning:0.08
+  great:0.08
+  wrong:0.08
+
+Topic 1:
+  doning:0.08
+  links:0.08
+  wrong:0.08
+  working:0.08
+  great:0.08
+  including:0.08
+
+Topic 2:
+  including:0.08
+  wrong:0.08
+  great:0.08
+  links:0.08
+  working:0.08
+  doning:0.08
+
+Topic 3:
+  including:0.08
+  working:0.08
+  great:0.08
+  wrong:0.08
+  links:0.08
+  doning:0.08
+
+Topic 4:
+  great:0.08
+  wrong:0.08
+  doning:0.08
+  working:0.08
+  links:0.08
+  including:0.08
+
+K: 5, Log-Likelihood: -4.359, Alpha: 11.000, Beta: 1.100

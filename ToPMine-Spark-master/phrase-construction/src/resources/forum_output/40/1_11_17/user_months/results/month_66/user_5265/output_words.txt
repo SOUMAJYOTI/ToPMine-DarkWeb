@@ -1,0 +1,61 @@
+Topic 0:
+  erowid:3.34
+  free:2.13
+  donate:1.92
+  lottery:1.52
+  tor:1.35
+  address:1.31
+  proceeds:1.31
+  maps:1.21
+  verify:1.01
+  vendors:0.98
+
+Topic 1:
+  erowid:2.65
+  tmg:1.48
+  quote:1.45
+  lottery:1.20
+  member:1.19
+  tor:1.07
+  address:1.07
+  pc:0.90
+  access:0.90
+  felt:0.90
+
+Topic 2:
+  erowid:2.66
+  tmg:1.70
+  lottery:1.26
+  access:1.14
+  donate:0.97
+  happen:0.95
+  address:0.93
+  tor:0.88
+  maps:0.87
+  quote:0.84
+
+Topic 3:
+  source:7.74
+  number:7.73
+  random:5.91
+  tickets:4.94
+  numbers:4.61
+  bits:3.92
+  fair:3.60
+  drawing:2.38
+  service:2.15
+  consistency:1.92
+
+Topic 4:
+  vendors:2.27
+  stuff:2.22
+  donate:2.19
+  tickets:2.09
+  free:1.94
+  buy:1.38
+  erowid:1.30
+  tmg:1.14
+  proceeds:1.08
+  maps:1.04
+
+K: 5, Log-Likelihood: -1728.581, Alpha: 11.000, Beta: 1.100

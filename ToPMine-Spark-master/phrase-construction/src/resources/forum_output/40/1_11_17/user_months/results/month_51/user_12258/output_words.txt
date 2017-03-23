@@ -1,0 +1,61 @@
+Topic 0:
+  services:1.27
+  security:1.02
+  key:1.01
+  time:0.87
+  address:0.84
+  provided:0.83
+  attacks:0.81
+  contact:0.79
+  public:0.78
+  penetration:0.60
+
+Topic 1:
+  key:1.54
+  services:1.53
+  security:1.45
+  provided:1.17
+  time:0.98
+  address:0.91
+  contact:0.86
+  attacks:0.84
+  public:0.80
+  persistent:0.69
+
+Topic 2:
+  key:1.44
+  time:1.28
+  provided:1.19
+  security:1.16
+  services:1.08
+  contact:0.85
+  attacks:0.84
+  public:0.81
+  address:0.77
+  email:0.66
+
+Topic 3:
+  security:0.99
+  services:0.91
+  key:0.84
+  provided:0.80
+  time:0.75
+  public:0.71
+  attacks:0.67
+  contact:0.66
+  address:0.66
+  hacking:0.56
+
+Topic 4:
+  security:1.39
+  services:1.21
+  key:1.17
+  time:1.12
+  provided:1.02
+  public:0.91
+  attacks:0.84
+  contact:0.83
+  address:0.83
+  hacking:0.64
+
+K: 5, Log-Likelihood: -3907.152, Alpha: 11.000, Beta: 1.100

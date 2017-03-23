@@ -1,0 +1,61 @@
+Topic 0:
+  send:26.26
+  pay:21.84
+  btc:16.25
+  helix:16.00
+  amount:15.47
+  coins:15.02
+  version:14.92
+  bitblender:13.27
+  shield:12.77
+  light:12.73
+
+Topic 1:
+  lbc:3.01
+  tumbling:2.91
+  remember:2.84
+  cost:2.64
+  gambling:2.41
+  experience:1.75
+  long:1.71
+  bitcoinfog:1.69
+  funny:1.69
+  point:1.69
+
+Topic 2:
+  blockchain:13.21
+  tumbling:8.65
+  deals:7.88
+  direct:7.88
+  coins:7.57
+  case:5.94
+  evidence:5.94
+  le:5.90
+  answer:5.90
+  good:5.47
+
+Topic 3:
+  fee:16.66
+  randomized:12.87
+  low:11.86
+  analysis:8.87
+  fees:8.73
+  transactions:6.36
+  service:5.78
+  mixing:4.66
+  coin:4.06
+  deposit:4.05
+
+Topic 4:
+  helix:6.87
+  coins:6.48
+  works:2.67
+  link:2.53
+  tumbling:2.09
+  blockchain:1.80
+  post:1.64
+  account:1.50
+  releasing:1.43
+  reports:1.42
+
+K: 5, Log-Likelihood: -8246.991, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  silk road:8.48
+  security:7.03
+  sha:6.77
+  btcking:5.81
+  bitinstant:5.29
+  complex:4.47
+  hash:4.47
+  kashmir hill:4.25
+  faiella:4.12
+  shrem:3.85
+
+Topic 1:
+  bitcoin:18.06
+  silk road:10.36
+  shrem:9.94
+  faiella:9.67
+  illegal:8.73
+  bitinstant:6.20
+  forces:4.51
+  bank:4.46
+  vendor:4.19
+  payment processor:3.83
+
+Topic 2:
+  operate:6.65
+  laundering illegal:5.61
+  marketplace:4.55
+  owners:4.55
+  vendors:4.55
+  income:4.55
+  bitcoin fog:4.51
+  landed:3.70
+  implemented:3.70
+  intent:3.70
+
+Topic 3:
+  mary january:6.32
+  site bitstamp localbitcoin accounts:5.30
+  bitcoins person coins order:4.70
+  times bought:4.69
+  ami thought sell:4.69
+  supplier:4.54
+  year:3.88
+  knowingha:3.71
+  amquote:3.71
+  thousands:3.71
+
+Topic 4:
+  deep web:5.97
+  time vendor:4.57
+  business:3.90
+  separate:3.70
+  remind:3.70
+  personas:3.70
+  names:3.70
+  screen:3.70
+  clear:3.70
+  web:3.70
+
+K: 5, Log-Likelihood: -9936.680, Alpha: 11.000, Beta: 1.100

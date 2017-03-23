@@ -1,0 +1,61 @@
+Topic 0:
+  key:0.73
+  public:0.68
+  pip:0.60
+  block:0.48
+  rb:0.48
+  sp:0.48
+  hh:0.47
+  jp:0.31
+  contact:0.29
+  pm:0.29
+
+Topic 1:
+  pgp:3.16
+  promotion:2.95
+  accounts:2.95
+  message:2.04
+  signature:1.95
+  listing:1.95
+  low:1.95
+  netflix:1.40
+  buyers:0.96
+  questions:0.96
+
+Topic 2:
+  escrow:4.94
+  litecoin:3.94
+  transactions:2.94
+  tor:2.94
+  system:2.94
+  site:2.15
+  pm:1.03
+  contact:1.03
+  send:1.00
+  marketplace:1.00
+
+Topic 3:
+  public:1.53
+  key:1.42
+  hh:0.95
+  rb:0.93
+  block:0.92
+  sp:0.91
+  pip:0.85
+  dry:0.41
+  kiqlxdydeihevmgs:0.41
+  vdde:0.41
+
+Topic 4:
+  key:0.82
+  public:0.76
+  pip:0.62
+  sp:0.58
+  block:0.56
+  rb:0.56
+  hh:0.55
+  jp:0.32
+  contact:0.31
+  pm:0.31
+
+K: 5, Log-Likelihood: -3126.008, Alpha: 11.000, Beta: 1.100

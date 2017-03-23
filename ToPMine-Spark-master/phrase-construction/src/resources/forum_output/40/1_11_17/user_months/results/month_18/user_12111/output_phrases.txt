@@ -1,0 +1,61 @@
+Topic 0:
+  place:0.45
+  states:0.45
+  money laundering:0.40
+  illegal:0.33
+  bitcoin:0.28
+  talking:0.27
+  illegal things:0.23
+  laws:0.23
+  formed:0.23
+  states illegal:0.23
+
+Topic 1:
+  money laundering:0.45
+  states:0.35
+  place:0.35
+  illegal:0.32
+  talking:0.29
+  bitcoin:0.28
+  illegal things:0.26
+  tumbling:0.25
+  selling:0.25
+  forum illegal:0.25
+
+Topic 2:
+  money laundering:0.43
+  talking:0.33
+  illegal:0.31
+  illegal things:0.29
+  conducting:0.28
+  thanksthere:0.28
+  stores:0.28
+  suvapi:0.28
+  fine:0.28
+  book:0.28
+
+Topic 3:
+  place:0.72
+  states:0.71
+  money laundering:0.36
+  illegal:0.33
+  usd:0.30
+  countries:0.30
+  hope:0.30
+  currency:0.30
+  dont:0.30
+  works:0.30
+
+Topic 4:
+  money laundering:0.43
+  states:0.41
+  place:0.40
+  illegal:0.33
+  bitcoin:0.28
+  talking:0.28
+  illegal things:0.25
+  buy:0.23
+  forum illegal:0.23
+  considered:0.23
+
+K: 5, Log-Likelihood: -334.351, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  good:0.87
+  february:0.86
+  charity:0.85
+  bootstrap:0.81
+  thing:0.73
+  fe:0.72
+  comments:0.68
+  lookalike:0.66
+  quote:0.66
+  sheep:0.66
+
+Topic 1:
+  store:4.75
+  vendors:4.12
+  search:1.76
+  choose:1.21
+  update:1.20
+  customers:1.20
+  reddit:1.11
+  specials:0.78
+  extent:0.78
+  items:0.78
+
+Topic 2:
+  bootstrap:1.18
+  february:1.18
+  comments:1.14
+  good:0.85
+  quote:0.83
+  sheep:0.80
+  lookalike:0.79
+  thing:0.73
+  board:0.67
+  positive:0.62
+
+Topic 3:
+  fe:1.60
+  charity:1.53
+  good:1.09
+  sig:0.97
+  partial:0.69
+  users:0.69
+  bit:0.69
+  small:0.67
+  thing:0.63
+  sell:0.61
+
+Topic 4:
+  bootstrap:1.28
+  february:1.19
+  lookalike:0.85
+  good:0.85
+  sheep:0.85
+  quote:0.83
+  charity:0.75
+  fe:0.73
+  thing:0.69
+  amanother:0.58
+
+K: 5, Log-Likelihood: -1084.896, Alpha: 11.000, Beta: 1.100

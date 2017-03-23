@@ -1,0 +1,61 @@
+Topic 0:
+  pop:3.82
+  round:3.82
+  alphabay:3.82
+  coffee:3.82
+  problems:3.82
+  paddington:3.82
+  heart:3.82
+  toast toast:3.82
+  sigh:3.82
+  cry:3.82
+
+Topic 1:
+  pmquote fatherted december pmquote:6.47
+  years:5.75
+  wouldn nice shop:5.49
+  pack fruit salad chewits:5.39
+  tang december pmoh:5.38
+  hope granny doesn scammed:5.17
+  dont:4.82
+  dr pepper sound bud:4.79
+  quote:3.89
+  dentist:3.80
+
+Topic 2:
+  customers:5.88
+  good:5.41
+  market:4.87
+  links:4.68
+  click:4.67
+  warning:3.86
+  treat:3.86
+  notifying:3.86
+  open:3.86
+  hell:3.86
+
+Topic 3:
+  deposit:7.88
+  market:7.56
+  access:4.75
+  withdrawal:4.75
+  btc:3.95
+  dun:3.84
+  ruddy:3.84
+  post:3.84
+  guess:3.84
+  lucky:3.84
+
+Topic 4:
+  fuel:2.36
+  leaves:2.36
+  hansa:2.36
+  cans:2.36
+  taste:2.36
+  worldwide:2.36
+  rocket:2.36
+  alp:2.36
+  shipping:2.36
+  bar:2.36
+
+K: 5, Log-Likelihood: -4000.445, Alpha: 11.000, Beta: 1.100

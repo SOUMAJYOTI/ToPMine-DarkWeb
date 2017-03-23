@@ -1,0 +1,61 @@
+Topic 0:
+  process:10.87
+  verified:9.34
+  vendor:5.95
+  pallidpallas:5.95
+  facts:5.85
+  quote:5.48
+  find:3.87
+  sea:3.87
+  field:3.87
+  flood:3.87
+
+Topic 1:
+  vendors:4.02
+  board:2.36
+  thread:2.24
+  js:2.22
+  market:2.00
+  markets:1.82
+  marketplaces:1.80
+  original:1.72
+  quote:1.72
+  dont:1.57
+
+Topic 2:
+  market:5.30
+  admin:4.96
+  scam:4.37
+  escrow:3.91
+  site:3.76
+  quote:3.64
+  mithrakush:3.29
+  markets:2.74
+  post:1.64
+  dont:1.56
+
+Topic 3:
+  escrow:7.20
+  marketplaces:4.88
+  beginner:4.69
+  thought:3.90
+  scam:3.85
+  jack:3.70
+  harkness:3.69
+  imagine:3.37
+  entail:3.35
+  verify:3.33
+
+Topic 4:
+  site:15.30
+  zanzibar:8.77
+  vendors:7.42
+  people:6.73
+  case:6.43
+  post:6.12
+  making:5.77
+  drug:5.77
+  trading:5.76
+  recruit:5.76
+
+K: 5, Log-Likelihood: -3197.517, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  kuin:0.35
+  ei:0.21
+  se:0.20
+  agora:0.20
+  toimi:0.20
+  sk:0.19
+  huolehtia:0.19
+  tymisest:0.19
+  rahojen:0.19
+  miten:0.19
+
+Topic 1:
+  kuin:0.36
+  ei:0.21
+  se:0.20
+  agora:0.20
+  toimi:0.20
+  siin:0.18
+  tarvinnut:0.18
+  vain:0.18
+  menik:0.18
+  muistaakseni:0.18
+
+Topic 2:
+  kuin:0.37
+  toimi:0.20
+  agora:0.20
+  se:0.20
+  ei:0.20
+  enenm:0.18
+  sis:0.18
+  vuotta:0.18
+  pitk:0.18
+  ik:0.18
+
+Topic 3:
+  kuin:0.39
+  toimi:0.21
+  agora:0.21
+  se:0.20
+  ei:0.20
+  kaatunut:0.19
+  vaikea:0.19
+  silkroadia:0.19
+  puoli:0.19
+  hyvin:0.19
+
+Topic 4:
+  kuin:0.36
+  ei:0.20
+  agora:0.20
+  toimi:0.20
+  se:0.20
+  vitun:0.18
+  eilisen:0.18
+  tilauksia:0.18
+  lkeen:0.18
+  siell:0.18
+
+K: 5, Log-Likelihood: -244.378, Alpha: 11.000, Beta: 1.100

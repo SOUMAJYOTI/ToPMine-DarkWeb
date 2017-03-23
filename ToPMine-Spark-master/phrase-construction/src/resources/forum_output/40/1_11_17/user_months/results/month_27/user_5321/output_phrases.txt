@@ -1,0 +1,61 @@
+Topic 0:
+  orders:0.59
+  agora:0.46
+  agra:0.37
+  btw:0.37
+  compromised:0.37
+  earth:0.37
+  earliest:0.37
+  problem:0.37
+  rational:0.37
+  convenience:0.37
+
+Topic 1:
+  orders:0.68
+  problem:0.50
+  agora:0.46
+  caps:0.33
+  leave:0.33
+  agra:0.33
+  rational:0.33
+  earliest:0.33
+  compromised:0.33
+  le:0.33
+
+Topic 2:
+  orders:0.62
+  problem:0.51
+  agora:0.42
+  convenience:0.36
+  earth:0.36
+  le:0.36
+  earliest:0.36
+  btw:0.36
+  rational:0.36
+  leave:0.36
+
+Topic 3:
+  orders:0.80
+  problem:0.62
+  agora:0.44
+  mouse december amget:0.31
+  quote:0.31
+  caps:0.30
+  le:0.30
+  planet:0.30
+  leave:0.30
+  compromised:0.30
+
+Topic 4:
+  orders:0.70
+  problem:0.50
+  agora:0.45
+  mouse december amget:0.33
+  quote:0.33
+  planet:0.33
+  earth:0.33
+  caps:0.33
+  rational:0.33
+  leave:0.33
+
+K: 5, Log-Likelihood: -310.473, Alpha: 11.000, Beta: 1.100

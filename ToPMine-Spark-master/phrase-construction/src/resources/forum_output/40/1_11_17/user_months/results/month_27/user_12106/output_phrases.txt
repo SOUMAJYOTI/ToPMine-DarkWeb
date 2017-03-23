@@ -1,0 +1,61 @@
+Topic 0:
+  bill:0.08
+  dealer:0.08
+  members:0.08
+  hope:0.08
+  good:0.08
+  respond:0.08
+  luck:0.08
+  dealt:0.08
+  money:0.08
+  site:0.08
+
+Topic 1:
+  silkkitie:0.08
+  service:0.08
+  forum:0.08
+  bitcoins:0.08
+  order:0.08
+  wrong:0.08
+  market:0.08
+  bill:0.08
+  site:0.08
+  respond:0.08
+
+Topic 2:
+  luck:0.08
+  knowledge:0.08
+  money:0.08
+  hope:0.08
+  dealt:0.08
+  lost:0.08
+  respond:0.08
+  bitcoins:0.08
+  good:0.08
+  site:0.08
+
+Topic 3:
+  forum:0.08
+  silkkitie:0.08
+  wrong:0.08
+  market:0.08
+  order:0.08
+  service:0.08
+  bitcoins:0.08
+  knowledge:0.08
+  site:0.08
+  good:0.08
+
+Topic 4:
+  market:0.08
+  service:0.08
+  bitcoins:0.08
+  wrong:0.08
+  forum:0.08
+  silkkitie:0.08
+  order:0.08
+  good:0.08
+  dealer:0.08
+  money:0.08
+
+K: 5, Log-Likelihood: -22.683, Alpha: 11.000, Beta: 1.100

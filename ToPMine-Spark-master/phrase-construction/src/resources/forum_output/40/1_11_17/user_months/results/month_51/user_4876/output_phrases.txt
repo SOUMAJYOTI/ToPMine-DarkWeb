@@ -1,0 +1,61 @@
+Topic 0:
+  register:0.47
+  users:0.29
+  reached:0.29
+  users site:0.29
+  servers:0.29
+  allowing:0.29
+  purposely:0.29
+  stealing:0.29
+  capabilities:0.29
+  thinks:0.29
+
+Topic 1:
+  register:0.43
+  peoples:0.28
+  site:0.28
+  till:0.28
+  britneystoke:0.28
+  ami:0.28
+  days:0.28
+  loved:0.28
+  support:0.28
+  ahead:0.28
+
+Topic 2:
+  register:0.42
+  recommend:0.29
+  quote:0.29
+  reply:0.29
+  shit:0.29
+  running:0.29
+  cook:0.29
+  britneystoke:0.29
+  showing:0.29
+  captain:0.29
+
+Topic 3:
+  register:0.45
+  support:0.28
+  recommend agora:0.28
+  lot:0.28
+  cook:0.28
+  shit:0.28
+  figured:0.28
+  site:0.28
+  till:0.28
+  agra:0.28
+
+Topic 4:
+  register:0.42
+  abraham:0.28
+  agora:0.28
+  lot:0.28
+  running:0.28
+  completely:0.28
+  deposit:0.28
+  britneystoke:0.28
+  ahead:0.28
+  peoples:0.28
+
+K: 5, Log-Likelihood: -300.260, Alpha: 11.000, Beta: 1.100

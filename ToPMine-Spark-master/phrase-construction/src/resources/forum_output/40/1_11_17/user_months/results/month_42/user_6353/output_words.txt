@@ -1,0 +1,61 @@
+Topic 0:
+  love:5.48
+  avengers:5.45
+  agora:5.05
+  auctions:3.94
+  market:2.50
+  listing:1.95
+  php:1.95
+  thing:1.94
+  offer:1.94
+  dates:1.94
+
+Topic 1:
+  agora:2.14
+  avengers:1.25
+  nwnuggets:1.18
+  love:1.14
+  earth:1.06
+  markets:1.06
+  pip:1.03
+  key:1.03
+  public:0.81
+  block:0.79
+
+Topic 2:
+  markets:1.83
+  earth:1.68
+  nwnuggets:1.67
+  key:1.42
+  agora:1.35
+  pip:1.35
+  middle:1.21
+  public:1.21
+  block:1.15
+  blackbank:1.12
+
+Topic 3:
+  agora:1.94
+  key:1.55
+  earth:1.40
+  markets:1.39
+  nwnuggets:1.35
+  pip:1.22
+  block:0.98
+  middle:0.94
+  blackbank:0.93
+  public:0.90
+
+Topic 4:
+  key:1.95
+  earth:1.80
+  nwnuggets:1.74
+  markets:1.66
+  agora:1.53
+  pip:1.34
+  blackbank:1.12
+  block:1.03
+  public:1.03
+  middle:1.02
+
+K: 5, Log-Likelihood: -5166.567, Alpha: 11.000, Beta: 1.100

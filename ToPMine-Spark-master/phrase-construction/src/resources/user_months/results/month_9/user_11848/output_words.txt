@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.78
+  quote:0.77
+  march:0.75
+  security:0.70
+  site:0.69
+  nice:0.51
+  favorites:0.51
+  button:0.51
+  interface:0.51
+  add:0.51
+
+Topic 1:
+  scheme:3.10
+  question:0.97
+  days:0.96
+  owned:0.96
+  forums:0.95
+  months:0.95
+  running:0.95
+  people:0.94
+  place:0.94
+  market:0.78
+
+Topic 2:
+  site:0.85
+  market:0.83
+  scheme:0.78
+  forums:0.69
+  forum:0.67
+  security:0.58
+  quote:0.56
+  march:0.56
+  evolution:0.44
+  evo:0.40
+
+Topic 3:
+  site:0.87
+  market:0.83
+  forum:0.66
+  security:0.63
+  march:0.59
+  forums:0.59
+  quote:0.58
+  scheme:0.52
+  evo:0.47
+  interesting:0.43
+
+Topic 4:
+  site:1.02
+  market:0.79
+  forum:0.70
+  march:0.62
+  quote:0.61
+  security:0.59
+  forums:0.50
+  wanted:0.50
+  interface:0.50
+  button:0.50
+
+K: 5, Log-Likelihood: -632.348, Alpha: 11.000, Beta: 1.100

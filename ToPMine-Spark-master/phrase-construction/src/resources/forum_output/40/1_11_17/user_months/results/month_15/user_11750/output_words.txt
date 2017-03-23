@@ -1,0 +1,61 @@
+Topic 0:
+  transaction:0.20
+  happen:0.20
+  deleted:0.20
+  history:0.20
+  shortly:0.20
+  admin:0.20
+  noticed:0.20
+  mustve:0.20
+  suspect:0.20
+  shill:0.20
+
+Topic 1:
+  suspect:0.20
+  noticed:0.20
+  deleted:0.20
+  admin:0.20
+  happen:0.20
+  history:0.20
+  shortly:0.20
+  lying:0.20
+  transaction:0.20
+  mustve:0.20
+
+Topic 2:
+  shill:0.20
+  lying:0.20
+  mustve:0.20
+  transaction:0.20
+  suspect:0.20
+  noticed:0.20
+  history:0.20
+  admin:0.20
+  happen:0.20
+  shortly:0.20
+
+Topic 3:
+  shill:0.20
+  shortly:0.20
+  mustve:0.20
+  happen:0.20
+  admin:0.20
+  suspect:0.20
+  noticed:0.20
+  lying:0.20
+  transaction:0.20
+  deleted:0.20
+
+Topic 4:
+  lying:0.20
+  shill:0.20
+  mustve:0.20
+  shortly:0.20
+  admin:0.20
+  history:0.20
+  noticed:0.20
+  deleted:0.20
+  transaction:0.20
+  happen:0.20
+
+K: 5, Log-Likelihood: -26.377, Alpha: 11.000, Beta: 1.100

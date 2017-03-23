@@ -1,0 +1,61 @@
+Topic 0:
+  silk road:2.55
+  international:2.21
+  vendors:1.31
+  online marketplaces:1.29
+  dutch police:1.27
+  underground market places:1.27
+  cash bitcoins:1.26
+  hidden:1.24
+  market place:1.22
+  drug trafficking:1.22
+
+Topic 1:
+  silk road:2.83
+  international:1.69
+  drug trafficking:1.29
+  united states:1.27
+  market place:1.26
+  cash bitcoins:1.25
+  years:1.24
+  ecstasy pills:1.24
+  hidden:1.21
+  online marketplaces:1.21
+
+Topic 2:
+  detained:1.28
+  supertrips:1.28
+  hold:1.28
+  led mdma:1.28
+  busted:1.28
+  finger:1.28
+  boy:1.28
+  heard:1.28
+  theheineken:1.28
+  supplied:1.28
+
+Topic 3:
+  international:0.69
+  silk road:0.68
+  day:0.62
+  true:0.62
+  sad:0.62
+  greenbuddy:0.61
+  law enforcement:0.61
+  business:0.57
+  suspicious:0.56
+  order:0.56
+
+Topic 4:
+  silk road:1.71
+  international:1.23
+  man years:0.94
+  united states:0.94
+  dutch police:0.93
+  ecstasy pills:0.92
+  hidden:0.91
+  years:0.91
+  underground market places:0.89
+  drug trafficking:0.88
+
+K: 5, Log-Likelihood: -1789.706, Alpha: 11.000, Beta: 1.100

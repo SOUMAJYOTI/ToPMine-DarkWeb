@@ -1,0 +1,61 @@
+Topic 0:
+  guys:0.40
+  darknet:0.20
+  slinkk:0.20
+  buy:0.20
+  helping:0.20
+  website:0.20
+  weed:0.20
+  dont:0.20
+  great:0.20
+  understand:0.20
+
+Topic 1:
+  guys:0.40
+  french:0.20
+  great:0.20
+  website:0.20
+  buy:0.20
+  darknet:0.20
+  understand:0.20
+  slinkk:0.20
+  dont:0.20
+  weed:0.20
+
+Topic 2:
+  guys:0.40
+  helping:0.20
+  weed:0.20
+  slinkk:0.20
+  great:0.20
+  understand:0.20
+  dont:0.20
+  buy:0.20
+  darknet:0.20
+  website:0.20
+
+Topic 3:
+  guys:0.40
+  weed:0.20
+  french:0.20
+  helping:0.20
+  slinkk:0.20
+  buy:0.20
+  dont:0.20
+  darknet:0.20
+  understand:0.20
+  great:0.20
+
+Topic 4:
+  guys:0.40
+  website:0.20
+  understand:0.20
+  dont:0.20
+  great:0.20
+  french:0.20
+  darknet:0.20
+  buy:0.20
+  weed:0.20
+  helping:0.20
+
+K: 5, Log-Likelihood: -28.459, Alpha: 11.000, Beta: 1.100

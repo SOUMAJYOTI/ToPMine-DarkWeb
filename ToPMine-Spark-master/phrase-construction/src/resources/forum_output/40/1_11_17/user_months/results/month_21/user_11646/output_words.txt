@@ -1,0 +1,61 @@
+Topic 0:
+  sr:1.31
+  scam:0.98
+  kitten:0.77
+  features:0.49
+  time:0.47
+  swam:0.45
+  wall:0.43
+  lost:0.42
+  dont:0.32
+  coz:0.24
+
+Topic 1:
+  fuck:0.96
+  fk:0.95
+  ffs:0.95
+  vendor:0.94
+  sr:0.68
+  dont:0.56
+  owe:0.38
+  buyers:0.38
+  registration:0.38
+  common:0.38
+
+Topic 2:
+  sr:1.52
+  scam:1.09
+  kitten:0.75
+  features:0.51
+  swam:0.48
+  time:0.48
+  lost:0.44
+  wall:0.43
+  dont:0.30
+  promises:0.24
+
+Topic 3:
+  sr:1.13
+  scam:0.52
+  dont:0.49
+  vendor:0.48
+  ffs:0.47
+  fk:0.47
+  fuck:0.46
+  kitten:0.46
+  lost:0.41
+  wall:0.41
+
+Topic 4:
+  sr:1.36
+  scam:1.04
+  kitten:0.70
+  features:0.48
+  time:0.47
+  swam:0.44
+  lost:0.43
+  wall:0.42
+  dont:0.32
+  coming:0.24
+
+K: 5, Log-Likelihood: -503.834, Alpha: 11.000, Beta: 1.100

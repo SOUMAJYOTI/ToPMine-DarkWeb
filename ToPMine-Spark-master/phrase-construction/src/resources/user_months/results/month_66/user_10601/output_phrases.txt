@@ -1,0 +1,61 @@
+Topic 0:
+  sellers:3.32
+  buy:2.14
+  secret:1.62
+  small:1.62
+  wan:1.62
+  coffee:1.62
+  burner:1.62
+  find:1.62
+  sooper:1.62
+  shop:1.62
+
+Topic 1:
+  feds:5.03
+  service:3.52
+  read:3.33
+  tormail:3.33
+  fact:3.33
+  emails:3.33
+  pgp feds:3.33
+  pgp sigaint:3.33
+  recommend:1.98
+  anonymous email:1.98
+
+Topic 2:
+  place:2.80
+  thing:1.49
+  lol:0.91
+  send wallet:0.76
+  money:0.75
+  sig:0.70
+  cyber:0.70
+  lasts:0.70
+  history:0.70
+  forever:0.70
+
+Topic 3:
+  hooker:4.33
+  order:3.16
+  bank:3.15
+  transfer:1.48
+  bitcoins:1.48
+  luck:1.48
+  everytime:1.48
+  aint:1.48
+  finally:1.48
+  localbitcoins:1.48
+
+Topic 4:
+  money:4.33
+  send wallet:4.32
+  time:3.34
+  place:2.17
+  hour:2.03
+  forgot:2.02
+  lasted:2.02
+  long:2.02
+  amount:2.01
+  simple:2.01
+
+K: 5, Log-Likelihood: -1647.094, Alpha: 11.000, Beta: 1.100

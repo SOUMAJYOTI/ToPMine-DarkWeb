@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:0.37
+  signature:0.37
+  sr admins:0.37
+  left:0.37
+  access:0.37
+  account:0.31
+  customers:0.20
+  hours:0.20
+  marketplace:0.20
+  mjr:0.18
+
+Topic 1:
+  access:0.37
+  sr admins:0.37
+  signature:0.37
+  left:0.37
+  pgp:0.37
+  account:0.31
+  customers:0.20
+  marketplace:0.20
+  hours:0.20
+  zupocd:0.18
+
+Topic 2:
+  access:0.36
+  pgp:0.36
+  sr admins:0.36
+  signature:0.36
+  left:0.36
+  account:0.31
+  hours:0.21
+  marketplace:0.21
+  customers:0.21
+  admin:0.19
+
+Topic 3:
+  left:0.38
+  sr admins:0.38
+  access:0.37
+  pgp:0.37
+  signature:0.37
+  account:0.31
+  customers:0.20
+  hours:0.20
+  marketplace:0.20
+  ot:0.19
+
+Topic 4:
+  signature:0.36
+  left:0.36
+  pgp:0.36
+  access:0.36
+  sr admins:0.36
+  account:0.31
+  hours:0.21
+  marketplace:0.21
+  customers:0.21
+  chances:0.19
+
+K: 5, Log-Likelihood: -450.805, Alpha: 11.000, Beta: 1.100

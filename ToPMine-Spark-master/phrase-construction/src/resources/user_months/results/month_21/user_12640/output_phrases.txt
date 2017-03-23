@@ -1,0 +1,61 @@
+Topic 0:
+  johtuu:0.14
+  vain:0.14
+  jo:0.14
+  luoda:0.14
+  tulee:0.14
+  silkkitielle:0.14
+  se:0.14
+  olen:0.14
+  fire:0.14
+  yritt:0.14
+
+Topic 1:
+  yrit:0.14
+  ett:0.14
+  tor:0.14
+  heart:0.14
+  ei:0.14
+  ill:0.14
+  hemmin:0.14
+  vaadi:0.14
+  kunnossa:0.14
+  uudelleen:0.14
+
+Topic 2:
+  tota:0.14
+  hemmin:0.14
+  uudelleen:0.14
+  vaadi:0.14
+  varmista:0.14
+  kunnossa:0.14
+  heart:0.14
+  yrit:0.14
+  muut:0.14
+  ett:0.14
+
+Topic 3:
+  mist:0.14
+  en:0.14
+  jo:0.14
+  javascriptin:0.14
+  identiteetin:0.14
+  yritt:0.14
+  silkkitie:0.14
+  se:0.14
+  yms:0.14
+  silkkitielle:0.14
+
+Topic 4:
+  muut:0.14
+  heart:0.14
+  ill:0.14
+  tota:0.14
+  varmista:0.14
+  tor:0.14
+  yrit:0.14
+  kunnossa:0.14
+  vaadi:0.14
+  ei:0.14
+
+K: 5, Log-Likelihood: -82.970, Alpha: 11.000, Beta: 1.100

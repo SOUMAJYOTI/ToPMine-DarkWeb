@@ -1,0 +1,61 @@
+Topic 0:
+  add:0.00
+  server:0.00
+  costs:0.00
+  development:0.00
+  imply:0.00
+  software:0.00
+  wits:0.00
+  idea:0.00
+  investment:0.00
+  electricity:0.00
+
+Topic 1:
+  add:0.00
+  server:0.00
+  costs:0.00
+  development:0.00
+  imply:0.00
+  software:0.00
+  wits:0.00
+  idea:0.00
+  investment:0.00
+  electricity:0.00
+
+Topic 2:
+  add:0.00
+  server:0.00
+  costs:0.00
+  development:0.00
+  imply:0.00
+  software:0.00
+  wits:0.00
+  idea:0.00
+  investment:0.00
+  electricity:0.00
+
+Topic 3:
+  add:0.00
+  server:0.00
+  costs:0.00
+  development:0.00
+  imply:0.00
+  software:0.00
+  wits:0.00
+  idea:0.00
+  investment:0.00
+  electricity:0.00
+
+Topic 4:
+  add:0.00
+  server:0.00
+  costs:0.00
+  development:0.00
+  imply:0.00
+  software:0.00
+  wits:0.00
+  idea:0.00
+  investment:0.00
+  electricity:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

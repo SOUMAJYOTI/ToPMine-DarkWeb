@@ -1,0 +1,61 @@
+Topic 0:
+  agora:1.03
+  market:1.00
+  account:0.61
+  love avengers:0.55
+  link:0.49
+  vendor:0.41
+  registration link:0.41
+  referred:0.41
+  list:0.41
+  silk road silk road:0.41
+
+Topic 1:
+  agora:1.02
+  love avengers:0.89
+  market:0.78
+  account:0.62
+  link:0.52
+  onion:0.42
+  register:0.42
+  market love avengers market:0.41
+  market love:0.41
+  registration link:0.41
+
+Topic 2:
+  agora:1.02
+  market:0.91
+  love avengers:0.81
+  account:0.59
+  link:0.54
+  referred:0.41
+  vendor:0.41
+  agra marketplace:0.41
+  registration link:0.41
+  dark net:0.41
+
+Topic 3:
+  agora:0.98
+  love avengers:0.84
+  market:0.83
+  account:0.60
+  link:0.52
+  dark net:0.41
+  silk road silk road:0.41
+  referred:0.41
+  agra marketplace:0.41
+  registration link:0.40
+
+Topic 4:
+  market:1.07
+  agora:1.05
+  account:0.64
+  love avengers:0.57
+  link:0.49
+  list:0.42
+  agra marketplace:0.42
+  silk road silk road:0.41
+  vendor:0.41
+  dark net:0.41
+
+K: 5, Log-Likelihood: -723.703, Alpha: 11.000, Beta: 1.100

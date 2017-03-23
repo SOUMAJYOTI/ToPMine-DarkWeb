@@ -1,0 +1,51 @@
+Topic 0:
+  bet:0.00
+  shared:0.00
+  records:0.00
+  encrypt:0.00
+  assuming:0.00
+  adversaries:0.00
+  correspondents:0.00
+  plan:0.00
+
+Topic 1:
+  bet:0.00
+  shared:0.00
+  records:0.00
+  encrypt:0.00
+  assuming:0.00
+  adversaries:0.00
+  correspondents:0.00
+  plan:0.00
+
+Topic 2:
+  bet:0.00
+  shared:0.00
+  records:0.00
+  encrypt:0.00
+  assuming:0.00
+  adversaries:0.00
+  correspondents:0.00
+  plan:0.00
+
+Topic 3:
+  bet:0.00
+  shared:0.00
+  records:0.00
+  encrypt:0.00
+  assuming:0.00
+  adversaries:0.00
+  correspondents:0.00
+  plan:0.00
+
+Topic 4:
+  bet:0.00
+  shared:0.00
+  records:0.00
+  encrypt:0.00
+  assuming:0.00
+  adversaries:0.00
+  correspondents:0.00
+  plan:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

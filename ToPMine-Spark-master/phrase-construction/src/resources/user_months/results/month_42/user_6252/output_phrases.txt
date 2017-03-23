@@ -1,0 +1,61 @@
+Topic 0:
+  wan order:3.87
+  vendors:3.25
+  scroat:3.25
+  account:3.25
+  quote:3.25
+  april:3.25
+  ffs:3.25
+  yeah:3.25
+  set:3.25
+  pm:3.25
+
+Topic 1:
+  bitblender:6.80
+  wandered:3.34
+  experience:3.34
+  minutes:3.34
+  find:3.34
+  cheapest:3.34
+  mixers:3.34
+  process:3.34
+  fees:3.34
+  lower:3.34
+
+Topic 2:
+  links:7.04
+  send:4.10
+  money:4.10
+  tor:3.21
+  bitlaundry:3.21
+  btcmix:3.21
+  transactions:3.21
+  bitmixer:3.20
+  anonymous:3.20
+  darknet mixing:3.20
+
+Topic 3:
+  heads:3.32
+  time:3.31
+  offers:3.31
+  mixed:3.31
+  attacks:3.31
+  random:3.31
+  prone:3.31
+  instantly good:3.31
+  timing:3.31
+  sign:3.31
+
+Topic 4:
+  bitcoin:5.70
+  wig:3.99
+  services ect people services:3.98
+  read negative reviews people:3.97
+  scam people:3.97
+  withdraw instantly depositing set:3.97
+  stay innocent blame issues:3.96
+  detective scam:3.96
+  blender worked fast troubles:3.96
+  fog avoid:3.96
+
+K: 5, Log-Likelihood: -1795.960, Alpha: 11.000, Beta: 1.100

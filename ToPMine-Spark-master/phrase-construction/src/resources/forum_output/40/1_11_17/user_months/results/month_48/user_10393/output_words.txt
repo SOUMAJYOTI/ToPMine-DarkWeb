@@ -1,0 +1,61 @@
+Topic 0:
+  nsa:4.24
+  society:2.95
+  cross:2.41
+  southern:2.40
+  cable:2.31
+  gcsb:2.03
+  knowing:1.96
+  source:1.95
+  divers:1.95
+  navy:1.95
+
+Topic 1:
+  cable:20.53
+  southern:11.52
+  cross:11.52
+  network:9.46
+  cut:8.96
+  zealand:6.96
+  foot:5.96
+  interception:4.15
+  customers:3.96
+  documents:3.96
+
+Topic 2:
+  tails:15.79
+  laptop:13.89
+  fine:9.89
+  issue:6.48
+  password:6.45
+  booted:5.89
+  thing:5.88
+  older:4.89
+  vista:3.89
+  worked:3.89
+
+Topic 3:
+  good:2.85
+  orders:1.90
+  users:1.58
+  dont:1.45
+  shit:1.43
+  normal:1.43
+  ag:0.90
+  week:0.90
+  rocks:0.90
+  running:0.90
+
+Topic 4:
+  keyboard:8.42
+  layout:7.90
+  tails:5.05
+  quote:4.76
+  greeter:3.90
+  selected:3.90
+  english:3.90
+  switch:1.97
+  applied:1.90
+  area:1.90
+
+K: 5, Log-Likelihood: -4464.906, Alpha: 11.000, Beta: 1.100

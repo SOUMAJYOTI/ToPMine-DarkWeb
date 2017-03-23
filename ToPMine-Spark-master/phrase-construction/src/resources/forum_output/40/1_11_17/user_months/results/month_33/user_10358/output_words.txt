@@ -1,0 +1,61 @@
+Topic 0:
+  forums:2.20
+  market:1.98
+  agora:1.95
+  feedback:1.85
+  essential:1.83
+  people:1.69
+  posts:1.67
+  forum:1.09
+  time:1.06
+  yo:1.00
+
+Topic 1:
+  security:3.29
+  small:1.91
+  forum:1.41
+  agora:1.29
+  post:1.10
+  ddos:1.01
+  attacks:1.01
+  note:1.01
+  wondered:0.91
+  browser:0.91
+
+Topic 2:
+  forum:7.42
+  agora:1.67
+  forums:1.49
+  security:1.48
+  noticed:1.41
+  usual:1.09
+  couple:0.94
+  log:0.79
+  simple:0.70
+  posts:0.66
+
+Topic 3:
+  patch:10.06
+  smf:7.71
+  version:6.68
+  forum:5.97
+  package:5.72
+  security:4.80
+  patches:4.73
+  released:4.70
+  running:4.65
+  oldiesmann:3.73
+
+Topic 4:
+  market:11.54
+  forum:4.11
+  problems:3.38
+  target:1.86
+  havent:1.42
+  good:1.35
+  yo:1.03
+  essential:0.94
+  linked:0.91
+  hub:0.91
+
+K: 5, Log-Likelihood: -1999.952, Alpha: 11.000, Beta: 1.100

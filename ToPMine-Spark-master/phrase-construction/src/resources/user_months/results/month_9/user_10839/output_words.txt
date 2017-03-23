@@ -1,0 +1,61 @@
+Topic 0:
+  deposits:1.96
+  cash:1.85
+  account:1.27
+  bank:0.85
+  start:0.80
+  year:0.54
+  fake:0.53
+  good:0.51
+  country:0.48
+  ways:0.48
+
+Topic 1:
+  taxes:3.08
+  business:3.03
+  llc:2.83
+  company:2.83
+  deposits:2.39
+  taxed:1.84
+  money:1.84
+  forming:1.84
+  structure:1.84
+  state:1.84
+
+Topic 2:
+  cash:1.85
+  good:0.80
+  account:0.76
+  fake:0.72
+  deposits:0.71
+  llcs:0.62
+  march:0.61
+  accounts:0.61
+  kind:0.56
+  interesiting:0.55
+
+Topic 3:
+  amounts:3.56
+  account:1.64
+  putting:1.63
+  reporting:1.63
+  limit:1.63
+  march:1.39
+  deposits:1.15
+  obvious:0.96
+  pretty:0.95
+  good:0.95
+
+Topic 4:
+  bank:2.03
+  opening:1.52
+  time:1.52
+  year:1.50
+  fake:1.44
+  accounts:1.37
+  llcs:1.35
+  open:1.08
+  account:0.95
+  deposits:0.79
+
+K: 5, Log-Likelihood: -1374.508, Alpha: 11.000, Beta: 1.100

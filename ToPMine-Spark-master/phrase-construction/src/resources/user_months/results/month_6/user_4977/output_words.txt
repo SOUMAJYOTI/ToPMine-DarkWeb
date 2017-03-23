@@ -1,0 +1,61 @@
+Topic 0:
+  club:3.75
+  pgp:1.84
+  chime:1.79
+  bitcents:1.79
+  sr:1.79
+  urge:1.79
+  legendary:1.78
+  minded:1.78
+  toss:1.78
+  folks:1.78
+
+Topic 1:
+  tails:35.64
+  drive:14.97
+  click:10.97
+  boot:9.97
+  persistent:9.97
+  system:8.97
+  volume:8.97
+  select:7.97
+  pre:6.71
+  menu:6.71
+
+Topic 2:
+  multisig:8.54
+  bob:6.28
+  transaction:5.43
+  client:4.46
+  open:2.80
+  arbitration:2.76
+  alice:2.52
+  arbitrator:2.46
+  trent:2.37
+  security:2.00
+
+Topic 3:
+  iceweasel:2.22
+  browser:1.59
+  shortcut:1.52
+  automatically:1.44
+  schuldig:1.34
+  posting:1.27
+  good:1.26
+  quote:1.04
+  called:0.81
+  connected:0.81
+
+Topic 4:
+  alice:23.42
+  transaction:22.50
+  service:20.27
+  bob:19.65
+  arbitrator:19.48
+  bitrated:19.42
+  payment:14.47
+  server:14.17
+  side:12.55
+  party:12.03
+
+K: 5, Log-Likelihood: -9743.571, Alpha: 11.000, Beta: 1.100

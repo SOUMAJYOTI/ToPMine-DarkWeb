@@ -1,0 +1,61 @@
+Topic 0:
+  litecoin:18.96
+  bitcoin:14.10
+  blockchain:11.99
+  read:6.68
+  time:5.37
+  function:4.99
+  algorithm:4.98
+  ltc:4.98
+  series:4.05
+  produce:3.99
+
+Topic 1:
+  windows:69.47
+  os:22.99
+  operating:19.78
+  system:16.83
+  ubuntu:11.41
+  vista:10.99
+  microsoft:10.15
+  newest:8.99
+  comments:8.99
+  great:7.99
+
+Topic 2:
+  sphere:33.98
+  homology:25.98
+  people:16.64
+  nefarious:15.87
+  tor:13.31
+  numbers:13.20
+  xn:11.98
+  ar:10.17
+  spheres:9.98
+  yn:9.98
+
+Topic 3:
+  cryptolocker:43.87
+  cryptowall:38.99
+  key:25.50
+  files:20.78
+  ransomware:19.99
+  malware:19.82
+  code:18.24
+  file:17.95
+  dropper:15.99
+  public:11.99
+
+Topic 4:
+  quote:18.22
+  june:16.05
+  ubuntu:11.44
+  pmi:7.69
+  nasty:6.79
+  honestly:6.65
+  thing:5.90
+  developers:5.81
+  open:5.74
+  anonymity:5.43
+
+K: 5, Log-Likelihood: -26774.757, Alpha: 11.000, Beta: 1.100

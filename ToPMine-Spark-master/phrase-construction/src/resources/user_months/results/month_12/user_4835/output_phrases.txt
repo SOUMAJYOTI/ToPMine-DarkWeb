@@ -1,0 +1,61 @@
+Topic 0:
+  prize ticket number:5.08
+  prize:4.52
+  prizes:3.98
+  tickets:3.68
+  sold:2.35
+  needlepoint:2.04
+  sunset:2.03
+  tmg:2.03
+  vendors:2.02
+  ug:2.01
+
+Topic 1:
+  prizes:3.05
+  prize:2.85
+  tickets:1.82
+  btc:1.81
+  prize ticket number:1.79
+  sonsofrainbow:1.66
+  add:1.58
+  orderofthephoenix:1.46
+  sunset:1.42
+  ug:1.42
+
+Topic 2:
+  confirmed:7.35
+  tickets left:4.90
+  buying tickets pay:4.76
+  june:4.33
+  bought tickets:4.28
+  bought tickets garden grow:4.25
+  participating:3.44
+  thankyou:3.44
+  june pmjust:3.44
+  quote landojack:3.44
+
+Topic 3:
+  tickets:3.66
+  prize ticket number:1.89
+  prizes:1.73
+  raffle:1.44
+  luvyduvy:1.42
+  winner:1.40
+  prize:1.38
+  pm:1.29
+  ya:1.23
+  orderofthephoenix:1.21
+
+Topic 4:
+  free:2.15
+  running:2.15
+  long:2.15
+  bruce:2.15
+  enigmaticsmile:2.15
+  smoothly:2.15
+  white:2.15
+  sell:2.15
+  mods:2.15
+  ship:2.15
+
+K: 5, Log-Likelihood: -2421.203, Alpha: 11.000, Beta: 1.100

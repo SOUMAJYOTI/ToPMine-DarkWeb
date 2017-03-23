@@ -1,0 +1,61 @@
+Topic 0:
+  qubes:6.49
+  hardware:5.16
+  recommending:4.87
+  requiring:4.87
+  machine:4.87
+  xen:4.87
+  note:4.87
+  bad:4.87
+  devs:4.87
+  list:4.87
+
+Topic 1:
+  luks:5.98
+  slack:4.83
+  gentoo:4.83
+  bed:4.00
+  eli:4.00
+  fuse:3.84
+  ill:3.65
+  fine:3.64
+  hate:3.64
+  sigh:3.63
+
+Topic 2:
+  aslr:4.85
+  wise:4.78
+  support:4.11
+  kernel:4.10
+  linus:4.10
+  hardened:4.02
+  hardenedbsd:4.02
+  exploit mitigations:4.02
+  add:4.02
+  project:4.02
+
+Topic 3:
+  short list:9.75
+  dont:8.11
+  trisquel:7.31
+  updated:7.31
+  windows:4.87
+  dragora:4.87
+  hurd:4.87
+  gnewsense:4.87
+  design:4.87
+  opinion:4.87
+
+Topic 4:
+  bios:14.20
+  tails:10.70
+  kovah:9.76
+  data:9.76
+  vendors:7.31
+  communication:7.31
+  exploit:7.31
+  implant:7.31
+  open source reference:7.31
+  operating system:6.17
+
+K: 5, Log-Likelihood: -13422.054, Alpha: 11.000, Beta: 1.100

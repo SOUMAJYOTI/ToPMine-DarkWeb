@@ -1,0 +1,61 @@
+Topic 0:
+  quote:16.21
+  empire:14.88
+  july:13.52
+  zaphod:7.03
+  security:6.41
+  true:6.00
+  sldk:5.97
+  collapse:5.97
+  history:5.55
+  rootkit:5.24
+
+Topic 1:
+  huskins:18.99
+  police:17.54
+  quinn:16.98
+  muller:15.99
+  abduction:12.98
+  phone:11.06
+  kidnapper:10.95
+  turned:10.95
+  march:10.73
+  island:9.99
+
+Topic 2:
+  intel:31.60
+  firmware:26.43
+  application:12.96
+  pc:12.09
+  key:10.46
+  access:10.45
+  code:10.34
+  memory:9.89
+  boot:9.66
+  systems:9.19
+
+Topic 3:
+  truecrypt:25.44
+  encryption:12.22
+  fbi:11.37
+  file:10.96
+  bios:10.43
+  mb:9.97
+  glenn:8.99
+  security:8.31
+  disk:8.04
+  laptop:7.12
+
+Topic 4:
+  windows:25.80
+  good:13.51
+  bios:12.91
+  code:11.64
+  nice:11.17
+  microsoft:7.50
+  system:7.17
+  encrypted:7.15
+  kernel:6.22
+  security:5.83
+
+K: 5, Log-Likelihood: -30973.610, Alpha: 11.000, Beta: 1.100

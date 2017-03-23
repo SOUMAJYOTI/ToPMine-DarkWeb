@@ -1,0 +1,61 @@
+Topic 0:
+  super:14.86
+  lemon:14.86
+  haze:11.86
+  high:5.87
+  thc:5.87
+  skunk:5.87
+  silver:5.87
+  great:3.22
+  grapefruit:2.87
+  aftertaste:2.87
+
+Topic 1:
+  shipping:3.43
+  country:3.28
+  delivery:3.13
+  reship:2.95
+  orders:2.84
+  europe:2.84
+  abrax:2.43
+  days:2.35
+  day:2.15
+  single:2.12
+
+Topic 2:
+  guys:2.39
+  listing:1.64
+  online:1.56
+  order:1.52
+  good:1.42
+  code:0.82
+  easy:0.77
+  stealth:0.76
+  kind:0.73
+  understandable:0.73
+
+Topic 3:
+  country:9.58
+  shipping:9.43
+  orders:7.76
+  single:6.40
+  day:6.39
+  days:6.28
+  europe:5.73
+  delivery:5.28
+  verified:5.07
+  agra:4.95
+
+Topic 4:
+  delivery:1.93
+  good:1.87
+  country:1.78
+  shipping:1.74
+  online:1.73
+  orders:1.72
+  reship:1.71
+  listing:1.66
+  code:1.55
+  police:1.51
+
+K: 5, Log-Likelihood: -3266.608, Alpha: 11.000, Beta: 1.100

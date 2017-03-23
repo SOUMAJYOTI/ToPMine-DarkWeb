@@ -1,0 +1,61 @@
+Topic 0:
+  bankruptcy:2.85
+  surprise:2.47
+  wording:2.06
+  base:2.06
+  remove:2.05
+  insolvency speculation:2.05
+  changed:2.05
+  company:2.03
+  working:1.95
+  goxed:1.88
+
+Topic 1:
+  sunwu:5.92
+  bit:4.67
+  dont speculation leaders thier:4.67
+  bitcoins subject reclaim undoubtedly:4.54
+  statement public thembeing insolent:4.54
+  industry making:4.54
+  read incorporate plan clearnet:4.54
+  red february amsunwu:4.54
+  long time declare:4.54
+  liable law:4.53
+
+Topic 2:
+  finally:5.53
+  dies market stable causing:4.49
+  prices:3.70
+  caused:3.70
+  crashes:3.70
+  btc:3.70
+  volatility:3.70
+  northwest:3.70
+  time btc:3.70
+  nuggets:3.70
+
+Topic 3:
+  bitcoin:8.09
+  customer:6.86
+  ceo:6.86
+  continue:6.86
+  mt gox:6.86
+  industry:4.56
+  statement:4.56
+  circle:4.56
+  payment:4.56
+  joint:4.56
+
+Topic 4:
+  trade magic gathering cards:5.53
+  bank:4.57
+  site:4.57
+  untasted:4.57
+  wait:3.55
+  mtgox:2.79
+  money:2.61
+  change:2.27
+  march:2.27
+  implemented:2.27
+
+K: 5, Log-Likelihood: -5058.873, Alpha: 11.000, Beta: 1.100

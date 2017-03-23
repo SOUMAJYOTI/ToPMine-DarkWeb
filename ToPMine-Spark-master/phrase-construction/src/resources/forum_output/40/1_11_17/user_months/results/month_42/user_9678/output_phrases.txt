@@ -1,0 +1,61 @@
+Topic 0:
+  drugs online:4.32
+  wondering:1.88
+  wallet:1.88
+  paying:1.87
+  bitcoins:1.87
+  wallet bitcoins:1.86
+  buying:1.86
+  buy:1.86
+  lost:1.86
+  turnsout:1.86
+
+Topic 1:
+  buy bitcoins:0.78
+  remember:0.53
+  liberty:0.52
+  pecunix:0.52
+  fun:0.52
+  reserve:0.52
+  guys:0.52
+  ll:0.50
+  shoes:0.50
+  fast:0.50
+
+Topic 2:
+  slipped:1.67
+  spit:1.67
+  stank:1.67
+  nasty:1.67
+  sky:1.67
+  mildewey:1.66
+  hippie:1.66
+  shit:1.65
+  bit:1.64
+  traveling:1.64
+
+Topic 3:
+  blockchain:1.51
+  work:1.50
+  guys bitcoin:1.49
+  mail:1.49
+  problems:1.49
+  checking:1.49
+  ripped:1.49
+  expecting:1.48
+  foolish:1.48
+  bitcoin:1.48
+
+Topic 4:
+  buy bitcoins:0.68
+  puts:0.56
+  scratch:0.56
+  idea:0.55
+  bad:0.55
+  vendors:0.55
+  condom:0.55
+  risk wallet:0.55
+  risk:0.54
+  sock:0.54
+
+K: 5, Log-Likelihood: -639.744, Alpha: 11.000, Beta: 1.100

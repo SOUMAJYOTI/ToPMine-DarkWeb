@@ -1,0 +1,61 @@
+Topic 0:
+  btc:0.68
+  matter:0.38
+  wallet:0.35
+  judge:0.35
+  transaction:0.31
+  create:0.31
+  depend:0.31
+  bottom:0.31
+  person:0.31
+  pass:0.31
+
+Topic 1:
+  btc:1.68
+  options:1.68
+  thread:1.67
+  matter:0.93
+  mixers:0.70
+  differently:0.70
+  initially:0.70
+  questions:0.70
+  jolly:0.70
+  rogers:0.70
+
+Topic 2:
+  large:0.74
+  blockchain:0.73
+  le:0.72
+  coins:0.72
+  judge:0.66
+  judy:0.40
+  thing:0.40
+  works:0.40
+  market:0.39
+  small:0.39
+
+Topic 3:
+  cash:1.65
+  financial:1.64
+  services:1.64
+  bank:1.63
+  activities:0.69
+  fill:0.68
+  watching:0.68
+  real:0.68
+  month:0.68
+  interested:0.68
+
+Topic 4:
+  coins:1.04
+  le:1.04
+  blockchain:1.02
+  large:1.02
+  judge:0.76
+  drugs:0.45
+  sell:0.45
+  lesson:0.45
+  fuck:0.45
+  mixing:0.45
+
+K: 5, Log-Likelihood: -715.338, Alpha: 11.000, Beta: 1.100

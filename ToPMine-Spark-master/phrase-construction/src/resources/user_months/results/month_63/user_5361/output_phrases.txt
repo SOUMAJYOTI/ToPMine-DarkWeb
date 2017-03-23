@@ -1,0 +1,61 @@
+Topic 0:
+  claws mail:0.92
+  good:0.56
+  noon question:0.56
+  email client:0.56
+  direct contact:0.55
+  hell:0.55
+  moment:0.28
+  stick:0.28
+  markets:0.28
+  people:0.28
+
+Topic 1:
+  claws mail:0.88
+  good:0.57
+  hell:0.57
+  noon question:0.57
+  direct contact:0.57
+  email client:0.57
+  tails:0.28
+  communicate:0.28
+  link:0.28
+  guide:0.28
+
+Topic 2:
+  claws mail:0.75
+  noon question:0.55
+  email client:0.55
+  direct contact:0.55
+  good:0.55
+  hell:0.55
+  pgp:0.29
+  sigaint:0.29
+  password:0.29
+  bother:0.29
+
+Topic 3:
+  claws mail:0.78
+  email client:0.55
+  hell:0.55
+  good:0.54
+  noon question:0.54
+  direct contact:0.54
+  check:0.29
+  claws:0.29
+  bother:0.29
+  pgp:0.29
+
+Topic 4:
+  claws mail:0.83
+  direct contact:0.56
+  hell:0.56
+  noon question:0.55
+  email client:0.54
+  good:0.54
+  sigaint:0.28
+  mailing:0.28
+  password:0.28
+  bother:0.28
+
+K: 5, Log-Likelihood: -243.437, Alpha: 11.000, Beta: 1.100

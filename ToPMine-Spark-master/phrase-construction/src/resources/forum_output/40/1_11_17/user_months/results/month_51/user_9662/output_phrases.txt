@@ -1,0 +1,61 @@
+Topic 0:
+  synchronicities:1.23
+  higher created:1.23
+  meaningful:0.52
+  occured:0.52
+  painting:0.52
+  polygamous:0.52
+  aware:0.52
+  dick dick:0.52
+  easily:0.52
+  fan:0.52
+
+Topic 1:
+  time:0.38
+  people:0.36
+  future:0.35
+  purity:0.27
+  highest degree:0.27
+  book:0.27
+  died:0.27
+  death:0.27
+  work:0.26
+  return:0.26
+
+Topic 2:
+  future:0.31
+  time:0.31
+  people:0.30
+  death:0.23
+  higher created:0.23
+  highest degree:0.23
+  purity:0.23
+  synchronicities:0.23
+  book:0.23
+  died:0.23
+
+Topic 3:
+  higher created:0.36
+  synchronicities:0.36
+  time:0.22
+  people:0.22
+  future:0.21
+  mere:0.21
+  question:0.21
+  silver:0.21
+  reassuring:0.21
+  drawn:0.21
+
+Topic 4:
+  future:3.13
+  people:3.13
+  time:3.10
+  return:1.32
+  work:1.31
+  died:1.31
+  book:1.31
+  highest degree:1.30
+  purity:1.30
+  death:1.30
+
+K: 5, Log-Likelihood: -1797.139, Alpha: 11.000, Beta: 1.100

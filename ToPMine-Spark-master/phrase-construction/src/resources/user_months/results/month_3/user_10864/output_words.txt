@@ -1,0 +1,61 @@
+Topic 0:
+  details:2.76
+  people:2.29
+  provided:2.08
+  lot:1.56
+  weeks:1.30
+  opsec:1.15
+  agra:1.13
+  addresses:1.13
+  time:1.09
+  good:1.03
+
+Topic 1:
+  agora:15.22
+  market:11.41
+  march:8.13
+  forum:7.51
+  time:7.39
+  care:7.31
+  point:7.22
+  pocket:6.55
+  rc:6.53
+  shipped:6.53
+
+Topic 2:
+  opsec:8.78
+  topic:8.24
+  market:7.69
+  passwords:6.90
+  users:6.36
+  quote:6.02
+  security:5.89
+  login:4.73
+  march:4.36
+  vendors:3.93
+
+Topic 3:
+  market:11.14
+  time:8.18
+  agora:8.14
+  lack:6.36
+  user:6.30
+  captcha:6.25
+  accounts:6.23
+  posts:6.20
+  dictionary:6.13
+  attack:5.74
+
+Topic 4:
+  password:7.38
+  people:2.09
+  passwords:1.97
+  compromised:1.94
+  life:1.91
+  hackers:1.85
+  dpr:1.85
+  attack:1.79
+  details:1.74
+  names:1.63
+
+K: 5, Log-Likelihood: -8518.675, Alpha: 11.000, Beta: 1.100

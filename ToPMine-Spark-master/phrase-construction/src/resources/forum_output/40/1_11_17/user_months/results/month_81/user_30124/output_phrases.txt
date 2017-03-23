@@ -1,0 +1,61 @@
+Topic 0:
+  people:9.77
+  money:9.14
+  bitcoin:6.89
+  business:5.37
+  vendor:4.69
+  vendors:3.91
+  drug dealers:3.52
+  large:3.37
+  drugs:3.35
+  amount money:3.25
+
+Topic 1:
+  people:2.75
+  money:2.42
+  vendors:2.19
+  bitcoin:2.11
+  business:2.02
+  large:1.96
+  vendor:1.47
+  drugs:1.46
+  drug dealers:1.31
+  buyers:1.23
+
+Topic 2:
+  mannion:8.75
+  veil mannion:7.50
+  counsel:4.99
+  road:4.99
+  richard connor:4.99
+  drug:4.30
+  darknet markets:4.25
+  illegal drugs:3.74
+  judge martin nolan:3.74
+  detective sergeant:3.74
+
+Topic 3:
+  people:2.98
+  large:1.54
+  drug dealers:1.40
+  vendors:1.39
+  buyers:1.33
+  vendor:1.33
+  bitcoin:1.31
+  weed:1.17
+  business:1.16
+  drugs:1.15
+
+Topic 4:
+  amquote:2.45
+  move ireland:1.60
+  jaxinshit:1.60
+  quote:1.57
+  arcane ami guys years:1.57
+  quote arcane:1.17
+  nailed:1.17
+  guys years:1.12
+  business:0.04
+  drugs:0.04
+
+K: 5, Log-Likelihood: -11798.468, Alpha: 11.000, Beta: 1.100

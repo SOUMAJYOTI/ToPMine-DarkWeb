@@ -1,0 +1,61 @@
+Topic 0:
+  absolem:0.40
+  accusations:0.28
+  uri:0.27
+  admins:0.17
+  reddit:0.14
+  flavor:0.14
+  didnt:0.14
+  haven:0.14
+  overlay:0.14
+  issue:0.14
+
+Topic 1:
+  absolem:0.41
+  accusations:0.28
+  uri:0.28
+  admins:0.17
+  pay:0.14
+  pmi:0.14
+  actual:0.14
+  drama:0.14
+  kinds:0.14
+  issue:0.14
+
+Topic 2:
+  absolem:0.40
+  accusations:0.28
+  uri:0.27
+  admins:0.17
+  left:0.14
+  quote:0.14
+  reddit:0.14
+  overlay:0.14
+  didnt:0.14
+  drama:0.14
+
+Topic 3:
+  absolem:0.42
+  uri:0.28
+  accusations:0.28
+  admins:0.17
+  havana:0.14
+  officially:0.14
+  onionforums:0.14
+  url:0.14
+  curls:0.14
+  indyslug:0.14
+
+Topic 4:
+  absolem:0.44
+  uri:0.29
+  accusations:0.27
+  admins:0.17
+  business:0.14
+  forum:0.14
+  usxavgyri:0.14
+  open:0.14
+  curls:0.14
+  onion:0.14
+
+K: 5, Log-Likelihood: -129.964, Alpha: 11.000, Beta: 1.100

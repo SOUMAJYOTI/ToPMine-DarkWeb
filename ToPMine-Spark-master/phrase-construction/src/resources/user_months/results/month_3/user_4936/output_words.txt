@@ -1,0 +1,61 @@
+Topic 0:
+  market:12.47
+  set:8.86
+  online:8.09
+  members:7.84
+  default:7.61
+  forum:7.55
+  smf:5.86
+  plate:5.81
+  good:5.68
+  registration:5.43
+
+Topic 1:
+  btc:24.08
+  wallet:24.02
+  send:17.50
+  electrum:13.53
+  blockchain:12.60
+  coins:8.46
+  anonymous:7.82
+  shared:7.65
+  bitcoinfog:4.49
+  quote:4.11
+
+Topic 2:
+  online:18.96
+  tor:18.90
+  time:7.96
+  safe:6.97
+  wallet:6.67
+  people:5.62
+  wife:3.91
+  signal:3.91
+  log:3.67
+  coins:3.55
+
+Topic 3:
+  buyers:6.67
+  vendors:5.73
+  join:4.69
+  quote:3.74
+  working:2.97
+  place:2.91
+  love:2.62
+  invite:2.51
+  open:2.50
+  february:2.49
+
+Topic 4:
+  fog:9.09
+  february:8.79
+  quote:6.65
+  bitcoinfog:6.02
+  trustworthy:5.42
+  blond:5.28
+  coins:4.73
+  mixer:4.40
+  info:3.86
+  paranoid:3.80
+
+K: 5, Log-Likelihood: -7792.151, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  money:1.65
+  industry:1.47
+  purpose:1.42
+  samples:1.24
+  community:1.17
+  work:1.16
+  grow:0.99
+  process:0.86
+  free:0.80
+  serve:0.65
+
+Topic 1:
+  money:1.79
+  industry:1.77
+  samples:1.59
+  community:1.32
+  grow:1.16
+  work:1.05
+  purpose:1.02
+  free:0.84
+  process:0.80
+  find:0.67
+
+Topic 2:
+  money:1.27
+  community:1.10
+  industry:0.95
+  purpose:0.95
+  samples:0.94
+  grow:0.93
+  work:0.81
+  free:0.76
+  process:0.72
+  find:0.58
+
+Topic 3:
+  money:1.59
+  industry:1.20
+  purpose:1.19
+  community:1.16
+  grow:0.99
+  work:0.95
+  samples:0.92
+  free:0.78
+  process:0.78
+  clients:0.60
+
+Topic 4:
+  money:1.70
+  industry:1.62
+  purpose:1.42
+  samples:1.30
+  community:1.24
+  work:1.03
+  grow:0.93
+  process:0.84
+  free:0.82
+  time:0.62
+
+K: 5, Log-Likelihood: -1584.802, Alpha: 11.000, Beta: 1.100

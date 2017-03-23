@@ -1,0 +1,61 @@
+Topic 0:
+  real:5.03
+  rules:4.64
+  death:3.25
+  ids:3.07
+  certificate:2.95
+  beginer:2.93
+  fraud:2.92
+  card:1.72
+  state:1.68
+  birth:1.67
+
+Topic 1:
+  january:1.43
+  quote:1.19
+  weeks:0.79
+  state:0.71
+  account:0.66
+  hub:0.58
+  ids:0.57
+  fake:0.57
+  peoples:0.56
+  money:0.54
+
+Topic 2:
+  january:9.96
+  sarcasm:7.81
+  pmquote:5.87
+  surgery:5.75
+  people:5.49
+  elastic:4.71
+  photos:4.71
+  menthol:3.87
+  ron:3.82
+  forbear:3.82
+
+Topic 3:
+  identity:6.43
+  sachs:6.33
+  john:5.32
+  bunce:4.43
+  months:4.42
+  year:4.37
+  welch:4.36
+  card:3.46
+  work:3.44
+  arrested:3.42
+
+Topic 4:
+  quote:1.10
+  state:1.05
+  ids:1.00
+  weeks:0.84
+  hub:0.79
+  peoples:0.78
+  fake:0.76
+  january:0.70
+  account:0.69
+  real:0.65
+
+K: 5, Log-Likelihood: -4797.769, Alpha: 11.000, Beta: 1.100

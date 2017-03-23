@@ -1,0 +1,61 @@
+Topic 0:
+  tor:0.96
+  account:0.72
+  pluto:0.61
+  contact:0.59
+  fingerprint:0.55
+  choose:0.55
+  romeo:0.54
+  secret identity:0.53
+  pidgin:0.53
+  click:0.52
+
+Topic 1:
+  tor:0.45
+  pluto:0.35
+  contact:0.34
+  account:0.31
+  romeo:0.30
+  email:0.30
+  choose:0.30
+  fingerprint:0.30
+  pidgin:0.29
+  secret identity:0.29
+
+Topic 2:
+  tor:0.18
+  pluto:0.16
+  contact:0.16
+  account:0.16
+  choose:0.15
+  fingerprint:0.15
+  secret identity:0.15
+  romeo:0.15
+  email:0.15
+  click:0.15
+
+Topic 3:
+  tor:3.46
+  pluto:2.63
+  contact:2.01
+  account:1.97
+  fingerprint:1.81
+  choose:1.77
+  email:1.54
+  secret identity:1.48
+  anonymous:1.47
+  click:1.47
+
+Topic 4:
+  tor:1.45
+  pluto:1.11
+  contact:0.96
+  account:0.90
+  choose:0.88
+  jabber server:0.85
+  fingerprint:0.84
+  pidgin:0.83
+  anonymous:0.83
+  click:0.82
+
+K: 5, Log-Likelihood: -5906.829, Alpha: 11.000, Beta: 1.100

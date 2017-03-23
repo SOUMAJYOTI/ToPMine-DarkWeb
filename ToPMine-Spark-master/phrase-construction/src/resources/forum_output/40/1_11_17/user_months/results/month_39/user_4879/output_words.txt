@@ -1,0 +1,61 @@
+Topic 0:
+  escrow:8.00
+  bv:7.60
+  multi:7.51
+  btc:7.21
+  lesson:5.54
+  happen:4.66
+  march:4.08
+  trust:4.03
+  guess:3.98
+  evo:3.95
+
+Topic 1:
+  march:10.44
+  quote:10.36
+  orderofthephoenix:8.80
+  escrow:7.62
+  evo:7.20
+  feds:5.92
+  learning:5.35
+  lasted:3.92
+  silk:3.92
+  year:3.92
+
+Topic 2:
+  order:15.68
+  hos:7.91
+  worth:5.87
+  bit:5.33
+  lsd:5.33
+  houe:5.33
+  homies:5.32
+  chilling:5.31
+  spirit:5.30
+  buying:5.30
+
+Topic 3:
+  vendors:5.80
+  lost:4.31
+  btc:3.58
+  feel:3.49
+  glad:3.45
+  guy:3.32
+  reason:2.77
+  marketplace:2.55
+  market:2.36
+  agora:2.27
+
+Topic 4:
+  place:5.26
+  reason:4.74
+  love:3.20
+  marketplace:2.93
+  knew:2.72
+  blueviking:2.69
+  btc:2.69
+  markets:2.63
+  vendors:2.55
+  bs:2.41
+
+K: 5, Log-Likelihood: -4975.999, Alpha: 11.000, Beta: 1.100

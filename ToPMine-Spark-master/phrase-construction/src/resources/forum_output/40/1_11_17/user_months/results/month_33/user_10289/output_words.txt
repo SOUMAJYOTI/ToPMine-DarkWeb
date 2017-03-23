@@ -1,0 +1,61 @@
+Topic 0:
+  password:0.62
+  captcha:0.58
+  beta:0.41
+  register:0.41
+  problems:0.39
+  wondering:0.20
+  user:0.20
+  site:0.20
+  actual:0.20
+  incorrect:0.20
+
+Topic 1:
+  captcha:0.62
+  password:0.59
+  register:0.40
+  beta:0.40
+  problems:0.40
+  type:0.20
+  window:0.20
+  drag:0.20
+  incorrect:0.20
+  actual:0.20
+
+Topic 2:
+  password:0.62
+  captcha:0.60
+  beta:0.40
+  register:0.40
+  problems:0.40
+  surname:0.20
+  forgotten:0.20
+  user:0.20
+  incorrect:0.20
+  wondering:0.20
+
+Topic 3:
+  password:0.60
+  captcha:0.58
+  problems:0.41
+  beta:0.40
+  register:0.40
+  evening:0.20
+  signing:0.20
+  read:0.20
+  wrong:0.20
+  agra:0.20
+
+Topic 4:
+  captcha:0.62
+  password:0.58
+  problems:0.41
+  register:0.39
+  beta:0.39
+  good:0.20
+  appears:0.20
+  entered:0.20
+  read:0.20
+  easy:0.20
+
+K: 5, Log-Likelihood: -118.445, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,15 @@
+seraphic,0,1
+proceed,1,1
+outlaw,2,3
+appears,3,1
+launched,4,1
+version,5,1
+issues,6,1
+outlaw outlaw,7,1
+market,8,1
+site,9,1
+security,10,1
+pgp,11,1
+time,12,1
+hacked,13,1
+caution,14,1

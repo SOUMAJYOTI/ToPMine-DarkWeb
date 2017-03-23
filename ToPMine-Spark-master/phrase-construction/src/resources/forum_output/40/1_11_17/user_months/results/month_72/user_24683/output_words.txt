@@ -1,0 +1,61 @@
+Topic 0:
+  coinbase:3.18
+  account:1.56
+  coins:0.85
+  dont:0.82
+  longer:0.82
+  bitcoin:0.78
+  wallet:0.74
+  address:0.66
+  business:0.61
+  email:0.59
+
+Topic 1:
+  btc:1.93
+  watch:1.57
+  vendor:1.41
+  guessing:1.16
+  time:0.79
+  wallet:0.79
+  coins:0.73
+  sending:0.72
+  place:0.64
+  coinbase:0.56
+
+Topic 2:
+  bitcoin:6.91
+  agreement:4.61
+  coinbase:3.54
+  happened:2.65
+  user:2.60
+  account:2.30
+  services:1.67
+  fincen:1.67
+  external:1.67
+  interest:1.67
+
+Topic 3:
+  sending:1.13
+  place:1.10
+  market:0.71
+  knowledge:0.71
+  online:0.69
+  bitcoins:0.69
+  mail:0.68
+  watch:0.64
+  vendor:0.58
+  wallet:0.55
+
+Topic 4:
+  sending:0.96
+  place:0.92
+  vendors:0.76
+  luc:0.74
+  vendor:0.72
+  bitcoins:0.67
+  online:0.67
+  knowledge:0.64
+  mail:0.61
+  market:0.59
+
+K: 5, Log-Likelihood: -1088.156, Alpha: 11.000, Beta: 1.100

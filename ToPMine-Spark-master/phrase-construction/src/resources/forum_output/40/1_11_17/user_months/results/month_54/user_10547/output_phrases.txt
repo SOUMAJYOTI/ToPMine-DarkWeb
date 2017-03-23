@@ -1,0 +1,61 @@
+Topic 0:
+  key length:4.79
+  vendors:3.49
+  bit keys:3.49
+  remember:3.18
+  rsa cracked:3.18
+  bit:3.14
+  key:2.24
+  opt:2.23
+  alway:2.23
+  maximum:2.23
+
+Topic 1:
+  bit encryption key:3.53
+  hacked programs bit:3.53
+  computing power:3.53
+  cracked:3.17
+  bit:2.96
+  harm:2.31
+  thought:2.31
+  playing:2.31
+  intense:2.31
+  source pgp:2.31
+
+Topic 2:
+  long:3.18
+  caught:3.18
+  content:3.18
+  encoded:3.18
+  trust:3.18
+  keys:3.17
+  public key:2.94
+  public:2.47
+  encrypt:1.57
+  sensitive:1.57
+
+Topic 3:
+  type:8.01
+  key:6.44
+  machine key:6.40
+  passphrase:6.40
+  files:6.40
+  subkeys:6.40
+  secret subkey:6.40
+  commands:6.40
+  machine:4.79
+  user:4.79
+
+Topic 4:
+  multiply:1.53
+  email:1.53
+  expert:1.53
+  advertising:1.53
+  sigaint:1.53
+  creating:1.53
+  things:1.53
+  zaphod:1.53
+  saint:1.53
+  administration:1.53
+
+K: 5, Log-Likelihood: -4708.195, Alpha: 11.000, Beta: 1.100

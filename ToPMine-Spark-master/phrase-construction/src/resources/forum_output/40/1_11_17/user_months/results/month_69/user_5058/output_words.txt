@@ -1,0 +1,61 @@
+Topic 0:
+  bridges:0.83
+  takes:0.39
+  pm:0.39
+  started:0.20
+  waited:0.20
+  opsec:0.20
+  place:0.20
+  good:0.20
+  tor:0.20
+  issues:0.20
+
+Topic 1:
+  bridges:0.79
+  takes:0.40
+  pm:0.40
+  progress:0.20
+  personally:0.20
+  friend:0.20
+  min:0.20
+  connectiing:0.20
+  issues:0.20
+  dont:0.20
+
+Topic 2:
+  bridges:0.74
+  pm:0.43
+  takes:0.41
+  issue:0.21
+  address:0.21
+  specifics:0.21
+  configured:0.21
+  time:0.21
+  prompt:0.21
+  bridge:0.21
+
+Topic 3:
+  bridges:0.84
+  takes:0.39
+  pm:0.37
+  turned:0.21
+  stuck:0.21
+  good:0.21
+  stayed:0.21
+  tor:0.21
+  greatly:0.21
+  leveled:0.21
+
+Topic 4:
+  bridges:0.79
+  pm:0.41
+  takes:0.40
+  address:0.20
+  prompt:0.20
+  issue:0.20
+  specifics:0.20
+  bridge:0.20
+  connect:0.20
+  configured:0.20
+
+K: 5, Log-Likelihood: -187.464, Alpha: 11.000, Beta: 1.100

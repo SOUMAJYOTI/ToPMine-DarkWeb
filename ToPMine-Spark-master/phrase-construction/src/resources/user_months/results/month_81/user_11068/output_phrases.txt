@@ -1,0 +1,61 @@
+Topic 0:
+  reddit:0.45
+  check:0.45
+  nucleus market:0.40
+  market:0.28
+  great:0.28
+  spamming:0.22
+  opinion:0.22
+  markets:0.22
+  quote:0.22
+  bitcoin:0.22
+
+Topic 1:
+  nucleus market:0.51
+  check:0.40
+  reddit:0.40
+  market:0.27
+  great:0.27
+  design:0.24
+  wil:0.24
+  amazing:0.24
+  created:0.24
+  account:0.24
+
+Topic 2:
+  nucleus market:0.53
+  check:0.38
+  reddit:0.38
+  great:0.28
+  market:0.28
+  job:0.24
+  topic:0.24
+  account:0.24
+  oasis market:0.24
+  vendor:0.24
+
+Topic 3:
+  check:0.53
+  reddit:0.52
+  nucleus market:0.37
+  great:0.27
+  market:0.27
+  interesting:0.24
+  censored:0.24
+  debate:0.24
+  find:0.24
+  nodecounter:0.24
+
+Topic 4:
+  reddit:0.44
+  check:0.44
+  nucleus market:0.39
+  great:0.29
+  market:0.29
+  quote:0.23
+  tolerate:0.23
+  june:0.23
+  valueless:0.23
+  books:0.23
+
+K: 5, Log-Likelihood: -217.958, Alpha: 11.000, Beta: 1.100

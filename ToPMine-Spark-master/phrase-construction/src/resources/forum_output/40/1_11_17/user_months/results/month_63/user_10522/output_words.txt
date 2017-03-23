@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:1.02
+  state:0.82
+  november:0.80
+  quote:0.63
+  applet:0.60
+  decrypting:0.60
+  hone:0.60
+  difficulty:0.60
+  encrypting:0.59
+  skills:0.59
+
+Topic 1:
+  pgp:1.03
+  state:0.82
+  november:0.75
+  quote:0.61
+  skills:0.60
+  attempting:0.60
+  hone:0.60
+  applet:0.60
+  difficulty:0.58
+  encrypting:0.56
+
+Topic 2:
+  pgp:1.02
+  state:0.78
+  november:0.74
+  quote:0.59
+  encrypting:0.57
+  applet:0.55
+  hone:0.55
+  attempting:0.54
+  difficulty:0.54
+  skills:0.53
+
+Topic 3:
+  pgp:0.98
+  november:0.87
+  state:0.81
+  decrypting:0.71
+  attempting:0.65
+  difficulty:0.65
+  applet:0.64
+  skills:0.64
+  hone:0.64
+  encrypting:0.62
+
+Topic 4:
+  pgp:0.95
+  november:0.84
+  state:0.77
+  encrypting:0.66
+  skills:0.64
+  difficulty:0.64
+  attempting:0.63
+  decrypting:0.63
+  hone:0.62
+  applet:0.61
+
+K: 5, Log-Likelihood: -445.748, Alpha: 11.000, Beta: 1.100

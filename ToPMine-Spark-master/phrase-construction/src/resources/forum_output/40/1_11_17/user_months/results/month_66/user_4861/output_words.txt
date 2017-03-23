@@ -1,0 +1,61 @@
+Topic 0:
+  hoping:4.50
+  santa:4.21
+  easy:3.84
+  wallet:2.94
+  signed:2.84
+  join:2.79
+  keys:2.76
+  bip:2.76
+  november:2.53
+  santahello:2.04
+
+Topic 1:
+  vendors:2.67
+  pickles:2.52
+  november:1.86
+  santa:1.77
+  quote:1.51
+  signed:1.44
+  join:1.40
+  keys:1.38
+  dhl:1.38
+  bip:1.38
+
+Topic 2:
+  vendors:4.67
+  dhl:4.16
+  pickles:3.50
+  account:2.55
+  find:2.13
+  opened:1.95
+  shop:1.92
+  imputable:1.67
+  transactions:1.45
+  order:1.40
+
+Topic 3:
+  imputable:5.81
+  dhl:5.65
+  vendors:4.80
+  pickles:3.77
+  slowly:2.90
+  pick:2.83
+  bullshit:2.81
+  opened:2.79
+  shop:2.76
+  lsd:2.73
+
+Topic 4:
+  vendors:2.37
+  pickles:1.86
+  forum:1.70
+  dhl:1.50
+  account:1.44
+  november:1.34
+  santa:1.20
+  days:1.18
+  life:1.13
+  join:1.10
+
+K: 5, Log-Likelihood: -2400.552, Alpha: 11.000, Beta: 1.100

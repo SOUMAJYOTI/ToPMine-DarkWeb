@@ -1,0 +1,61 @@
+Topic 0:
+  runs:0.14
+  don:0.14
+  counter:0.14
+  freaks:0.14
+  silver:0.14
+  nwo:0.14
+  fulfill:0.14
+  stand:0.14
+  btc:0.14
+  banned:0.14
+
+Topic 1:
+  runs:0.14
+  counter:0.14
+  btc:0.14
+  elites:0.14
+  fulfill:0.14
+  gold:0.14
+  stand:0.14
+  role:0.14
+  silver:0.14
+  control:0.14
+
+Topic 2:
+  fun:0.14
+  smart:0.14
+  interesting:0.14
+  coinspiracies:0.14
+  created:0.14
+  doubt:0.14
+  impossible:0.14
+  worst:0.14
+  understand:0.14
+  nigthmare:0.14
+
+Topic 3:
+  smart:0.14
+  created:0.14
+  coinspiracies:0.14
+  doubt:0.14
+  impossible:0.14
+  interesting:0.14
+  fun:0.14
+  control:0.14
+  banned:0.14
+  freaks:0.14
+
+Topic 4:
+  understand:0.14
+  banned:0.14
+  impossible:0.14
+  hadn:0.14
+  nwo:0.14
+  nigthmare:0.14
+  don:0.14
+  worst:0.14
+  coinspiracies:0.14
+  smart:0.14
+
+K: 5, Log-Likelihood: -56.067, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  windows box:5.72
+  working:4.30
+  clients:3.42
+  socks:3.42
+  irc windows:3.42
+  matter:3.42
+  error:3.42
+  unsafe:3.42
+  safe things:3.42
+  ttl:3.42
+
+Topic 1:
+  agora:7.04
+  attack:4.49
+  check status:4.35
+  dos:4.35
+  uri:4.35
+  url:4.35
+  contributing:4.35
+  repeatedly:4.35
+  understand:2.38
+  users:2.19
+
+Topic 2:
+  security:4.89
+  site:4.28
+  traffic:4.28
+  xchat:3.42
+  good:3.37
+  guys:2.79
+  dont:2.23
+  throwing:2.09
+  real:2.09
+  bit:2.09
+
+Topic 3:
+  store:6.52
+  video:4.32
+  app:4.32
+  owner:4.32
+  download:3.40
+  takes:3.40
+  titcoin:3.11
+  windows box:3.02
+  paid:2.13
+  picture:2.13
+
+Topic 4:
+  client:5.04
+  irc:4.36
+  ip:4.36
+  windows:3.99
+  bad:3.20
+  settings:2.72
+  tor:2.48
+  based ira:2.26
+  dont:2.19
+  solution:2.16
+
+K: 5, Log-Likelihood: -3275.213, Alpha: 11.000, Beta: 1.100

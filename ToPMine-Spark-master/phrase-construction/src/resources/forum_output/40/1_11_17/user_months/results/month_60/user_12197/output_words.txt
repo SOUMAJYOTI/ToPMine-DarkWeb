@@ -1,0 +1,61 @@
+Topic 0:
+  forum:2.49
+  kapteeni:2.41
+  btc:1.49
+  asiak:0.85
+  spent:0.77
+  bounty:0.76
+  credibility:0.76
+  scam:0.71
+  month:0.71
+  vendors:0.70
+
+Topic 1:
+  btc:2.93
+  benjomarket:2.78
+  forum:2.64
+  asiak:2.19
+  kapteeni:1.84
+  screenshot:1.81
+  rest:1.01
+  pay:1.01
+  post:1.01
+  lost:0.99
+
+Topic 2:
+  customers:3.51
+  parcel:1.78
+  time:0.89
+  fe:0.89
+  stoned:0.81
+  reporting:0.81
+  write:0.81
+  stuff:0.81
+  free:0.81
+  deceive:0.81
+
+Topic 3:
+  care:2.24
+  vendors:1.80
+  scam:1.75
+  safe:1.69
+  report:1.69
+  dn:1.69
+  kapteeni:1.29
+  consumers:1.17
+  people:1.15
+  forum:1.14
+
+Topic 4:
+  btc:3.01
+  benjomarket:2.35
+  forum:2.21
+  kapteeni:1.90
+  asiak:1.55
+  screenshot:1.52
+  pms:0.95
+  credibility:0.94
+  bounty:0.93
+  spent:0.92
+
+K: 5, Log-Likelihood: -1080.799, Alpha: 11.000, Beta: 1.100

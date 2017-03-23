@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:14.32
+  site:13.17
+  escrow:13.07
+  vendors:12.45
+  market:11.77
+  system:10.69
+  staff:9.75
+  order:9.74
+  impossible:8.95
+  buyers:7.64
+
+Topic 1:
+  good:3.36
+  dream:3.22
+  earth:3.07
+  middle:2.97
+  forums:2.00
+  people:1.94
+  find:1.71
+  abraxas:1.63
+  referred:1.52
+  market:1.39
+
+Topic 2:
+  time:55.70
+  tor:18.93
+  vendor:18.90
+  market:14.85
+  markets:14.69
+  required:13.83
+  join:13.75
+  referred:12.52
+  link:12.06
+  learn:11.93
+
+Topic 3:
+  time:43.85
+  link:33.88
+  market:28.53
+  love:25.55
+  referred:18.78
+  avengers:15.15
+  uptime:14.23
+  join:13.14
+  required:10.63
+  invite:6.72
+
+Topic 4:
+  abraxas:7.09
+  quote:5.33
+  dream:4.51
+  middle:4.47
+  earth:4.39
+  atm:3.46
+  october:3.44
+  spammers:3.43
+  ron:2.61
+  havent:2.54
+
+K: 5, Log-Likelihood: -13892.350, Alpha: 11.000, Beta: 1.100

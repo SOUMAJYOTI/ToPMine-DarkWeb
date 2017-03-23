@@ -1,0 +1,61 @@
+Topic 0:
+  mitm:0.16
+  popular:0.16
+  pay:0.08
+  practice:0.08
+  hey:0.08
+  mention:0.08
+  pon:0.08
+  kw:0.08
+  scam:0.08
+  users:0.08
+
+Topic 1:
+  mitm:0.16
+  popular:0.16
+  site:0.08
+  shield:0.08
+  payshldt:0.08
+  practice:0.08
+  duped:0.08
+  hey:0.08
+  sigaint:0.08
+  reports:0.08
+
+Topic 2:
+  mitm:0.16
+  popular:0.16
+  scam:0.08
+  thought:0.08
+  clone:0.08
+  cloneno:0.08
+  duped:0.08
+  hey:0.08
+  discovered:0.08
+  kw:0.08
+
+Topic 3:
+  popular:0.16
+  mitm:0.16
+  send:0.08
+  search:0.08
+  targeted:0.08
+  torlist:0.08
+  talk:0.08
+  hidden:0.08
+  nasty:0.08
+  services:0.08
+
+Topic 4:
+  popular:0.16
+  mitm:0.16
+  engines:0.08
+  search:0.08
+  send:0.08
+  hidden:0.08
+  days:0.08
+  targeted:0.08
+  torlist:0.08
+  mitmed:0.08
+
+K: 5, Log-Likelihood: -51.930, Alpha: 11.000, Beta: 1.100

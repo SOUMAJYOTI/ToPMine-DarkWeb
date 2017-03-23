@@ -1,0 +1,61 @@
+Topic 0:
+  worry:3.11
+  quick:3.11
+  route:3.11
+  moneypak:3.11
+  buying:1.84
+  bank:1.56
+  wu:1.51
+  pretty:1.51
+  vanilla:1.51
+  load:1.51
+
+Topic 1:
+  local:2.68
+  person:2.67
+  mycelium:2.58
+  built:2.57
+  find:2.30
+  bitcoin:1.92
+  april:1.21
+  escrow:1.20
+  trader:1.20
+  cash sellers:1.20
+
+Topic 2:
+  find:3.53
+  coins:3.15
+  area:1.43
+  hiding:1.43
+  ive:1.42
+  leads:1.42
+  place:1.41
+  dam:1.41
+  coins anonymously:1.40
+  hard:1.40
+
+Topic 3:
+  store:3.03
+  evoluton:3.02
+  cards:3.02
+  debit:1.97
+  account:1.97
+  money:1.77
+  bitcoins anonymously:1.43
+  send:1.43
+  anonymously:1.43
+  paid:1.43
+
+Topic 4:
+  deposit:1.74
+  bitstamp:1.45
+  brokers:1.29
+  pinch:1.29
+  thast:1.29
+  buyers:1.29
+  formula:1.29
+  btcs:1.29
+  dealt:1.29
+  bit:1.29
+
+K: 5, Log-Likelihood: -1099.693, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  market:30.92
+  transaction:11.71
+  buyer:11.09
+  addresses:8.79
+  seller:8.77
+  vendor:8.59
+  ability:7.58
+  funds:7.36
+  server:6.63
+  verify:6.55
+
+Topic 1:
+  public:16.07
+  support:11.83
+  blackbank:11.83
+  key:10.44
+  community:7.84
+  feel:6.99
+  verifying:6.53
+  mdparity:5.85
+  cheers:4.85
+  commission:4.84
+
+Topic 2:
+  multisig:6.96
+  public:6.89
+  server:5.95
+  vendor:5.63
+  address:5.62
+  keys:4.72
+  addresses:3.98
+  trust:3.96
+  seller:3.42
+  party:3.41
+
+Topic 3:
+  market:64.39
+  buyer:31.05
+  markets:23.67
+  seller:20.69
+  funds:18.11
+  fees:13.09
+  february:12.57
+  address:12.28
+  trust:12.24
+  ronin:10.69
+
+Topic 4:
+  mufti:10.08
+  transaction:9.11
+  effort:7.66
+  funds:7.56
+  sig:7.41
+  multi:7.31
+  signature:5.92
+  free:5.70
+  imply:5.44
+  point:4.96
+
+K: 5, Log-Likelihood: -10279.420, Alpha: 11.000, Beta: 1.100

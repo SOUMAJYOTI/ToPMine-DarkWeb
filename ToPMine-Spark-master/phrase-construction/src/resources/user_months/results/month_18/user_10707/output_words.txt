@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:12.87
+  pandora:9.81
+  coins:9.68
+  amsterdamngood:6.78
+  wallet:6.34
+  pirate:5.84
+  listing:5.27
+  market:4.07
+  empty:3.97
+  glabind:3.87
+
+Topic 1:
+  orders:7.83
+  vendor:7.82
+  bad:7.28
+  market:6.52
+  admins:5.20
+  day:5.11
+  account:4.93
+  things:4.48
+  users:4.39
+  free:4.33
+
+Topic 2:
+  order:5.31
+  feedback:4.92
+  nbome:3.97
+  vendor:3.55
+  agra:3.48
+  tpm:2.98
+  check:2.87
+  active:2.80
+  time:2.72
+  posting:2.46
+
+Topic 3:
+  vendors:8.87
+  forum:5.83
+  days:5.51
+  market:5.28
+  site:4.74
+  coins:4.72
+  pending:4.64
+  white:4.17
+  withdraw:4.11
+  onion:3.86
+
+Topic 4:
+  refunded:4.69
+  btc:4.01
+  agora:3.85
+  withdrawal:3.50
+  order:3.45
+  tho:3.30
+  sold:3.04
+  funds:2.97
+  invites:2.80
+  check:2.74
+
+K: 5, Log-Likelihood: -7936.517, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  view:6.40
+  ideal:6.40
+  ships:3.18
+  smart:3.18
+  tree:3.18
+  beach:3.18
+  unrest:3.18
+  today:3.18
+  publish:3.18
+  glorious:3.18
+
+Topic 1:
+  haha:3.20
+  greatest:3.20
+  blows:3.20
+  universe:3.20
+  poor:3.20
+  suit:3.20
+  puzzling:3.20
+  slave:3.20
+  company:3.20
+  fuk:3.20
+
+Topic 2:
+  anarchism:6.41
+  ve:3.92
+  doses:3.19
+  social:3.19
+  dollar:3.19
+  crap:3.19
+  called:3.19
+  mckenna talking:3.19
+  sacramento:3.19
+  students:3.19
+
+Topic 3:
+  mix theories:6.42
+  theories:6.42
+  general:6.42
+  anarchist theories:6.42
+  story:3.23
+  write:3.20
+  consideration:3.20
+  economy:3.20
+  sense:3.20
+  politic:3.20
+
+Topic 4:
+  power:6.42
+  radical:4.54
+  groups:4.54
+  people:3.46
+  live:3.23
+  starve:3.20
+  oppression:3.20
+  living:3.20
+  members:3.20
+  led:3.20
+
+K: 5, Log-Likelihood: -10279.277, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  mods:0.00
+  tickets:0.00
+  arctic:0.00
+  unanswered:0.00
+  posts:0.00
+  delete:0.00
+  point:0.00
+  dr:0.00
+  btc:0.00
+  quote:0.00
+
+Topic 1:
+  mods:0.00
+  tickets:0.00
+  arctic:0.00
+  unanswered:0.00
+  posts:0.00
+  delete:0.00
+  point:0.00
+  dr:0.00
+  btc:0.00
+  quote:0.00
+
+Topic 2:
+  mods:0.00
+  tickets:0.00
+  arctic:0.00
+  unanswered:0.00
+  posts:0.00
+  delete:0.00
+  point:0.00
+  dr:0.00
+  btc:0.00
+  quote:0.00
+
+Topic 3:
+  mods:0.00
+  tickets:0.00
+  arctic:0.00
+  unanswered:0.00
+  posts:0.00
+  delete:0.00
+  point:0.00
+  dr:0.00
+  btc:0.00
+  quote:0.00
+
+Topic 4:
+  mods:0.00
+  tickets:0.00
+  arctic:0.00
+  unanswered:0.00
+  posts:0.00
+  delete:0.00
+  point:0.00
+  dr:0.00
+  btc:0.00
+  quote:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  computer:2.42
+  torchat:2.42
+  party:2.42
+  services:2.42
+  code:2.42
+  pretty:1.18
+  write:1.18
+  police departments buying fake:1.18
+  listening:1.18
+  invitations:1.18
+
+Topic 1:
+  jitjat:3.46
+  conversation:2.44
+  web:2.44
+  easy:2.44
+  messages:2.44
+  messenger:2.44
+  server:2.44
+  mode:2.44
+  convenient:2.44
+  require:2.44
+
+Topic 2:
+  topic hearing:0.98
+  fake cell towers kingfishers:0.98
+  figure guys figure texting:0.98
+  lot police departments buying:0.98
+  called instance:0.98
+  contract phones ten years:0.62
+  long codeword item cops:0.62
+  god damn dont:0.62
+  people texting shit:0.62
+  judges totally fucking retarded:0.62
+
+Topic 3:
+  poster:2.42
+  boss:2.42
+  guy:2.42
+  die:1.17
+  towers kingfishers called instance:1.17
+  post:1.17
+  reading:1.17
+  rcmp:1.17
+  harriet:1.17
+  cake:1.17
+
+Topic 4:
+  hc:0.60
+  ready:0.51
+  handled:0.51
+  onslaught:0.51
+  joint:0.51
+  btw:0.51
+  thought:0.30
+  texts pizza hear court:0.17
+  great idea kudos:0.17
+  people piss:0.17
+
+K: 5, Log-Likelihood: -2278.706, Alpha: 11.000, Beta: 1.100

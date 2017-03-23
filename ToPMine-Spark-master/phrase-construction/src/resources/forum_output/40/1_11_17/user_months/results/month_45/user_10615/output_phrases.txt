@@ -1,0 +1,61 @@
+Topic 0:
+  bob bitchin:3.71
+  prow:2.44
+  job:2.44
+  pay:2.44
+  spend:2.44
+  bouncing:2.44
+  bitchin:2.44
+  door:2.44
+  check:2.44
+  place:2.44
+
+Topic 1:
+  program:10.20
+  congress:8.59
+  court:7.77
+  national security:5.97
+  panel:4.97
+  ruling:4.77
+  members congress:4.66
+  case:3.94
+  bulk collection:3.59
+  update:3.26
+
+Topic 2:
+  bulk collection:4.73
+  national security:4.06
+  program:3.27
+  case:2.70
+  government:2.36
+  obama:2.30
+  court:2.29
+  members congress:2.00
+  ruling:1.88
+  metadata:1.72
+
+Topic 3:
+  good:1.82
+  time:1.59
+  wow:0.85
+  days:0.83
+  tard:0.60
+  met:0.59
+  mind:0.59
+  news:0.58
+  couple:0.30
+  rebooted:0.29
+
+Topic 4:
+  design:5.06
+  real:3.36
+  idiot:3.36
+  threw:3.36
+  sigaint:3.36
+  package:3.36
+  congenial:3.36
+  quote zaphod:3.23
+  mail:2.50
+  claws:2.50
+
+K: 5, Log-Likelihood: -4859.677, Alpha: 11.000, Beta: 1.100

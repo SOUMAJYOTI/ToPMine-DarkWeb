@@ -1,0 +1,61 @@
+Topic 0:
+  list:0.59
+  february:0.59
+  quote:0.40
+  del:0.40
+  country:0.40
+  drops:0.20
+  idk:0.20
+  covert:0.20
+  kind:0.20
+  burner:0.20
+
+Topic 1:
+  february:0.66
+  list:0.62
+  quote:0.41
+  del:0.40
+  country:0.40
+  lightnlove:0.20
+  nucleus:0.20
+  multisig:0.20
+  add:0.20
+  army:0.20
+
+Topic 2:
+  list:0.67
+  february:0.61
+  del:0.41
+  quote:0.40
+  country:0.39
+  pmquote:0.21
+  sa:0.21
+  add:0.21
+  bonobo:0.21
+  army:0.21
+
+Topic 3:
+  february:0.56
+  list:0.52
+  country:0.42
+  quote:0.40
+  del:0.40
+  dead:0.21
+  burner:0.21
+  covert:0.21
+  phones:0.21
+  idk:0.21
+
+Topic 4:
+  list:0.60
+  february:0.58
+  del:0.40
+  country:0.40
+  quote:0.40
+  happy:0.20
+  smaller:0.20
+  vendor:0.20
+  pool:0.20
+  dhl:0.20
+
+K: 5, Log-Likelihood: -175.272, Alpha: 11.000, Beta: 1.100

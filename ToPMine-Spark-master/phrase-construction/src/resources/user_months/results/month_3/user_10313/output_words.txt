@@ -1,0 +1,61 @@
+Topic 0:
+  january:14.72
+  calcium:10.85
+  quote:7.50
+  meth:6.74
+  prolly:6.45
+  reading:5.79
+  high:5.79
+  night:5.72
+  proof:5.72
+  glad:5.72
+
+Topic 1:
+  btc:16.96
+  drug:13.96
+  silk:11.96
+  charity:11.61
+  thread:10.96
+  road:10.96
+  amount:9.96
+  childrens:8.96
+  hospice:8.43
+  deathowl:7.96
+
+Topic 2:
+  people:3.05
+  didnt:2.38
+  good:2.14
+  nice:2.01
+  great:1.89
+  feds:1.86
+  sad:1.68
+  dont:1.50
+  hospice:1.46
+  respected:1.45
+
+Topic 3:
+  good:4.39
+  html:3.75
+  css:3.75
+  java:2.84
+  books:2.80
+  man:2.72
+  ill:2.66
+  python:1.95
+  online:1.95
+  program:1.95
+
+Topic 4:
+  php:10.08
+  things:4.91
+  databases:3.96
+  sql:3.96
+  start:3.93
+  learning:3.81
+  good:3.79
+  learn:3.55
+  alert:2.96
+  secure:2.88
+
+K: 5, Log-Likelihood: -5496.062, Alpha: 11.000, Beta: 1.100

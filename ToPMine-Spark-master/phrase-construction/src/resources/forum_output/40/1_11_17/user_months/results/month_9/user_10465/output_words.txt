@@ -1,0 +1,61 @@
+Topic 0:
+  withdrawal:4.96
+  fee:4.18
+  alice:2.72
+  site:2.68
+  users:1.96
+  hours:1.96
+  ill:1.86
+  days:1.65
+  stopped:1.14
+  waiting:0.89
+
+Topic 1:
+  pandora:13.48
+  withdrawals:4.51
+  tax:4.33
+  paid:4.12
+  money:3.32
+  market:3.08
+  btc:2.71
+  pay:2.63
+  didn:2.48
+  week:2.43
+
+Topic 2:
+  vendors:13.48
+  market:12.92
+  pandora:12.33
+  commision:9.95
+  money:9.05
+  loss:7.56
+  vendor:7.39
+  paid:6.65
+  btc:6.16
+  withdrawals:4.99
+
+Topic 3:
+  quote:2.50
+  march:2.47
+  begining:2.34
+  campare:1.52
+  dont:1.52
+  good:1.38
+  speak:1.35
+  english:1.28
+  translate:1.26
+  hanging:0.82
+
+Topic 4:
+  pandora:5.96
+  btc:1.98
+  week:1.47
+  vendors:1.30
+  withdrawals:1.27
+  scam:1.22
+  paid:1.18
+  commision:1.15
+  day:1.12
+  time:1.00
+
+K: 5, Log-Likelihood: -3791.590, Alpha: 11.000, Beta: 1.100

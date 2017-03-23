@@ -1,0 +1,61 @@
+Topic 0:
+  wan:0.38
+  site:0.37
+  good:0.29
+  guys:0.29
+  post:0.29
+  updated:0.28
+  links:0.28
+  sites:0.28
+  fact:0.27
+  wondering:0.27
+
+Topic 1:
+  site:0.47
+  good:0.41
+  postives:0.35
+  post:0.34
+  scams:0.33
+  hiddin:0.33
+  wiki:0.33
+  theyve:0.33
+  things:0.32
+  negatives:0.32
+
+Topic 2:
+  wan:0.57
+  habe:0.28
+  quatity:0.28
+  threaad:0.28
+  hundo:0.28
+  edb:0.28
+  stuff:0.28
+  serve:0.28
+  scam:0.28
+  spend:0.28
+
+Topic 3:
+  good:2.29
+  negatives:1.39
+  things:1.38
+  wiki:1.38
+  hiddin:1.38
+  theyve:1.38
+  scams:1.37
+  postives:1.35
+  site:0.82
+  counterfeiters:0.53
+
+Topic 4:
+  wan:0.89
+  update:0.37
+  notes:0.37
+  dude:0.37
+  selling:0.37
+  bills:0.37
+  counterfiters:0.37
+  buying:0.37
+  full:0.37
+  fakes:0.37
+
+K: 5, Log-Likelihood: -309.254, Alpha: 11.000, Beta: 1.100

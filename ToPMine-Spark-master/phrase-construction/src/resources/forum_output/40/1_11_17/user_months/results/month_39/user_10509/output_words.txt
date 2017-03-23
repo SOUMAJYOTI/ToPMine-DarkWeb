@@ -1,0 +1,61 @@
+Topic 0:
+  release:0.79
+  tails:0.58
+  issues:0.40
+  update:0.40
+  security:0.40
+  critical:0.40
+  meant:0.40
+  safe:0.40
+  triggered:0.40
+  unscheduled:0.40
+
+Topic 1:
+  release:0.82
+  tails:0.58
+  unscheduled:0.40
+  meant:0.40
+  triggered:0.40
+  firefox:0.40
+  critical:0.40
+  security:0.40
+  emergency:0.40
+  issues:0.40
+
+Topic 2:
+  release:0.76
+  tails:0.65
+  safe:0.41
+  update:0.41
+  emergency:0.40
+  triggered:0.40
+  critical:0.40
+  unscheduled:0.40
+  firefox:0.40
+  issues:0.40
+
+Topic 3:
+  release:0.85
+  tails:0.58
+  firefox:0.40
+  issues:0.40
+  security:0.40
+  meant:0.40
+  emergency:0.40
+  critical:0.40
+  unscheduled:0.40
+  update:0.40
+
+Topic 4:
+  release:0.77
+  tails:0.62
+  safe:0.40
+  emergency:0.40
+  update:0.40
+  meant:0.40
+  triggered:0.40
+  critical:0.40
+  unscheduled:0.40
+  security:0.40
+
+K: 5, Log-Likelihood: -144.043, Alpha: 11.000, Beta: 1.100

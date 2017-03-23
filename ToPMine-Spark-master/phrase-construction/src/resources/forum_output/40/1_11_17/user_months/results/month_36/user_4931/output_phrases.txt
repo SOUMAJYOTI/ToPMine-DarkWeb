@@ -1,0 +1,61 @@
+Topic 0:
+  acid:9.84
+  lsd:9.12
+  people:7.59
+  ride:7.15
+  web link:7.15
+  led:7.15
+  purely:7.15
+  assumes people:7.15
+  grandparents:7.15
+  post:7.15
+
+Topic 1:
+  tool:10.73
+  bad:7.84
+  violent:7.14
+  feel:7.06
+  people:5.76
+  allot:5.04
+  aint:3.56
+  prison:3.56
+  happening:3.56
+  policy:3.56
+
+Topic 2:
+  subkey:14.32
+  main key:10.73
+  key:10.73
+  created expires usage:10.73
+  ef:7.15
+  spitfire:7.15
+  public key:7.15
+  options:3.57
+  ea:3.57
+  standards:3.57
+
+Topic 3:
+  sillywabbit:10.41
+  updated key:7.15
+  time:7.15
+  key bf ce fff:7.15
+  master key:7.15
+  dfb db:7.15
+  signed message:3.56
+  dfuedyo:3.56
+  kinda:3.56
+  cybwjxbkmayqnkbnxvcdcttdwgqkhhqevhma:3.56
+
+Topic 4:
+  truth:7.14
+  deep web:7.09
+  lead:3.56
+  acts:3.56
+  buffoon:3.56
+  tripped:3.56
+  lucid:3.56
+  north:3.56
+  raves:3.56
+  tuning:3.56
+
+K: 5, Log-Likelihood: -15033.656, Alpha: 11.000, Beta: 1.100

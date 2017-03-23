@@ -1,0 +1,61 @@
+Topic 0:
+  chip:0.64
+  currency:0.62
+  rfid:0.41
+  wallet:0.41
+  body:0.40
+  guess:0.40
+  conspiracy:0.40
+  ya:0.40
+  backed:0.40
+  fiat:0.40
+
+Topic 1:
+  chip:0.51
+  currency:0.51
+  fiat:0.35
+  ya:0.35
+  body:0.35
+  guess:0.35
+  conspiracy:0.35
+  backed:0.35
+  rfid:0.35
+  wallet:0.35
+
+Topic 2:
+  currency:0.65
+  chip:0.63
+  body:0.41
+  ya:0.41
+  backed:0.41
+  conspiracy:0.41
+  guess:0.41
+  rfid:0.40
+  wallet:0.40
+  fiat:0.40
+
+Topic 3:
+  currency:0.52
+  chip:0.51
+  fiat:0.36
+  rfid:0.36
+  wallet:0.35
+  conspiracy:0.35
+  guess:0.35
+  backed:0.35
+  ya:0.35
+  body:0.35
+
+Topic 4:
+  chip:0.45
+  currency:0.45
+  wallet:0.32
+  backed:0.32
+  guess:0.32
+  ya:0.32
+  fiat:0.32
+  conspiracy:0.32
+  rfid:0.32
+  body:0.32
+
+K: 5, Log-Likelihood: -412.461, Alpha: 11.000, Beta: 1.100

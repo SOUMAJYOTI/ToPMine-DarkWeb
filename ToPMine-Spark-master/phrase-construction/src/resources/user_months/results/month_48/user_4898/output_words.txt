@@ -1,0 +1,61 @@
+Topic 0:
+  email:8.23
+  signature:7.09
+  address:5.93
+  pip:4.71
+  sig:4.11
+  pgp:3.73
+  change:3.27
+  find:3.11
+  starts:2.91
+  field:2.91
+
+Topic 1:
+  message:6.79
+  key:3.09
+  public:2.62
+  pgp:2.53
+  post:2.03
+  keys:1.96
+  edited:1.51
+  paste:1.50
+  content:1.44
+  signature:1.43
+
+Topic 2:
+  pgp:5.17
+  message:4.72
+  public:3.16
+  key:3.03
+  signature:2.85
+  post:1.97
+  keys:1.80
+  links:1.64
+  verify:1.56
+  content:1.51
+
+Topic 3:
+  key:6.81
+  address:4.90
+  sig:4.19
+  pgp:2.66
+  email:2.40
+  forum:2.02
+  public:1.80
+  link:1.49
+  change:1.43
+  profile:1.43
+
+Topic 4:
+  key:18.91
+  import:6.74
+  time:5.09
+  link:4.14
+  keys:3.94
+  connect:3.77
+  dont:3.29
+  ill:2.95
+  text:2.93
+  worked:2.79
+
+K: 5, Log-Likelihood: -3604.303, Alpha: 11.000, Beta: 1.100

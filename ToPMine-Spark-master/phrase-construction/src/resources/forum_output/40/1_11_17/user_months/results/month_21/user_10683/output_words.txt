@@ -1,0 +1,61 @@
+Topic 0:
+  web:2.84
+  dont:2.55
+  data:2.16
+  gpa:1.91
+  values:1.84
+  mangled:1.84
+  ascii:1.84
+  character:1.84
+  checkboxes:1.59
+  command:1.51
+
+Topic 1:
+  key:7.99
+  symmetry:3.72
+  recipients:3.69
+  message:3.62
+  encrypt:2.81
+  clearnet:2.68
+  gpg:1.80
+  decrypt:1.73
+  multiply:1.52
+  private:0.76
+
+Topic 2:
+  select:2.21
+  october:2.03
+  quote:2.00
+  work:1.73
+  bencousins:1.31
+  multiply:1.20
+  command:1.16
+  armor:1.01
+  code:1.00
+  encrypt:0.95
+
+Topic 3:
+  work:2.47
+  encrypt:1.97
+  multiply:1.69
+  october:1.53
+  select:1.32
+  quote:1.21
+  bencousins:1.17
+  keys:0.92
+  pmio:0.83
+  key:0.76
+
+Topic 4:
+  work:3.89
+  multiply:2.39
+  october:2.18
+  encrypt:2.08
+  select:1.87
+  quote:1.56
+  bencousins:1.21
+  pmio:1.09
+  key:0.85
+  keys:0.77
+
+K: 5, Log-Likelihood: -1265.225, Alpha: 11.000, Beta: 1.100

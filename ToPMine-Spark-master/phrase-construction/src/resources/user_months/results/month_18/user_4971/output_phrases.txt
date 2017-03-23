@@ -1,0 +1,61 @@
+Topic 0:
+  quote dafunkfuzz september:2.00
+  contact direct:1.72
+  love:1.72
+  omg:1.72
+  experience:1.72
+  highly:1.71
+  contact hos direct:1.71
+  srslyi:1.70
+  community:1.69
+  vendors:1.69
+
+Topic 1:
+  download:1.21
+  software:0.94
+  guide:0.87
+  website:0.84
+  gpg:0.79
+  won:0.79
+  human:0.77
+  encrypt:0.76
+  win:0.75
+  read:0.74
+
+Topic 2:
+  guide:2.98
+  software:2.75
+  download:2.44
+  read:1.74
+  human:1.68
+  encrypt:1.68
+  win:1.66
+  won:1.65
+  gpg:1.61
+  website:1.54
+
+Topic 3:
+  recommend:1.85
+  er:1.44
+  online:1.44
+  marketplace:1.44
+  anyplace:1.44
+  sh:1.44
+  time:1.44
+  lov:1.44
+  grateful:1.44
+  xtc:1.44
+
+Topic 4:
+  download:1.07
+  software:1.03
+  guide:0.89
+  website:0.75
+  gpg:0.72
+  win:0.71
+  won:0.69
+  encrypt:0.69
+  human:0.67
+  read:0.65
+
+K: 5, Log-Likelihood: -1132.772, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bsm:0.40
+  prices:0.20
+  family:0.20
+  goods:0.20
+  vendor:0.20
+  usa:0.20
+  low:0.20
+  advertise:0.20
+  verified:0.20
+  quality:0.20
+
+Topic 1:
+  bsm:0.40
+  advertise:0.20
+  quality:0.20
+  link:0.20
+  captain:0.20
+  vendor:0.20
+  good:0.20
+  seller:0.20
+  marketplace:0.20
+  jack:0.20
+
+Topic 2:
+  bsm:0.40
+  verified:0.20
+  jack:0.20
+  marketplace:0.20
+  started:0.20
+  advertise:0.20
+  family:0.20
+  link:0.20
+  goods:0.20
+  captain:0.20
+
+Topic 3:
+  bsm:0.40
+  seller:0.20
+  good:0.20
+  started:0.20
+  account:0.20
+  low:0.20
+  quality:0.20
+  usa:0.20
+  verified:0.20
+  vendor:0.20
+
+Topic 4:
+  bsm:0.40
+  family:0.20
+  account:0.20
+  captain:0.20
+  low:0.20
+  jack:0.20
+  marketplace:0.20
+  link:0.20
+  goods:0.20
+  prices:0.20
+
+K: 5, Log-Likelihood: -54.586, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  message:1.97
+  key:1.43
+  pgp:0.93
+  encrypted:0.70
+  wrong:0.61
+  decrypt:0.60
+  icon:0.41
+  secret:0.41
+  private:0.41
+  decryption:0.41
+
+Topic 1:
+  message:1.76
+  key:1.16
+  pgp:1.05
+  encrypted:0.78
+  decrypt:0.60
+  wrong:0.60
+  failedno:0.42
+  members:0.42
+  users:0.42
+  gog:0.42
+
+Topic 2:
+  message:1.58
+  key:1.45
+  pgp:0.99
+  encrypted:0.81
+  decrypt:0.61
+  wrong:0.60
+  issue:0.41
+  field:0.41
+  keyno:0.41
+  users:0.41
+
+Topic 3:
+  message:1.91
+  key:1.89
+  pgp:0.98
+  encrypted:0.78
+  wrong:0.60
+  decrypt:0.59
+  odonata:0.41
+  encrusted:0.39
+  secret:0.39
+  failedno:0.39
+
+Topic 4:
+  key:2.07
+  message:1.79
+  pgp:1.05
+  encrypted:0.93
+  decrypt:0.60
+  wrong:0.58
+  odonata:0.43
+  keyring:0.38
+  click:0.38
+  keyno:0.38
+
+K: 5, Log-Likelihood: -336.228, Alpha: 11.000, Beta: 1.100

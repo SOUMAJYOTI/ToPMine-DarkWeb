@@ -1,0 +1,61 @@
+Topic 0:
+  nucleus:0.64
+  grams:0.60
+  dream:0.45
+  support:0.37
+  profile:0.34
+  indoor:0.22
+  california:0.22
+  holidays:0.22
+  find:0.22
+  seeds:0.22
+
+Topic 1:
+  grams:0.61
+  nucleus:0.59
+  support:0.41
+  profile:0.40
+  dream:0.37
+  hansaregardsmrkidx:0.20
+  week:0.20
+  signed:0.20
+  pgp:0.20
+  message:0.20
+
+Topic 2:
+  grams:0.62
+  nucleus:0.58
+  support:0.41
+  profile:0.41
+  dream:0.38
+  key:0.20
+  week:0.20
+  message:0.20
+  verified:0.20
+  signed:0.20
+
+Topic 3:
+  grams:0.60
+  profile:0.54
+  nucleus:0.51
+  support:0.47
+  dream:0.29
+  valhallaplease:0.24
+  sit:0.24
+  dont:0.24
+  mrkidx:0.24
+  vendors:0.24
+
+Topic 4:
+  nucleus:0.69
+  grams:0.58
+  dream:0.51
+  support:0.34
+  profile:0.31
+  special:0.23
+  fe:0.23
+  gobble:0.23
+  favor:0.23
+  honest:0.23
+
+K: 5, Log-Likelihood: -255.455, Alpha: 11.000, Beta: 1.100

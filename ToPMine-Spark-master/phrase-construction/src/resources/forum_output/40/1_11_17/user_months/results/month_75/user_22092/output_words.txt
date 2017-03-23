@@ -1,0 +1,61 @@
+Topic 0:
+  cash:0.61
+  person:0.61
+  face:0.60
+  sellers:0.52
+  lbc:0.40
+  buying:0.39
+  computer:0.28
+  record:0.28
+  buy:0.28
+  january:0.28
+
+Topic 1:
+  buying:0.42
+  lbc:0.42
+  sellers:0.39
+  mail:0.37
+  anon:0.35
+  cash:0.30
+  person:0.30
+  face:0.30
+  bitcoin:0.24
+  local:0.24
+
+Topic 2:
+  face:0.68
+  person:0.67
+  cash:0.66
+  sellers:0.52
+  buying:0.39
+  lbc:0.39
+  arrange:0.30
+  boneskoopa:0.29
+  seller:0.29
+  clean:0.29
+
+Topic 3:
+  sellers:0.43
+  lbc:0.42
+  buying:0.42
+  cash:0.35
+  face:0.34
+  person:0.34
+  anon:0.30
+  mail:0.29
+  good:0.24
+  bitcoin:0.24
+
+Topic 4:
+  anon:2.04
+  mail:2.02
+  involved:0.46
+  undercover:0.46
+  arrest:0.46
+  selling:0.46
+  sting:0.46
+  talking:0.46
+  stay:0.46
+  knowing:0.46
+
+K: 5, Log-Likelihood: -372.981, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tails:0.43
+  release:0.23
+  prompted:0.14
+  sounds:0.14
+  time:0.14
+  download:0.14
+  kind:0.14
+  users:0.14
+  alarming:0.14
+  site:0.14
+
+Topic 1:
+  tails:0.42
+  release:0.23
+  alarming:0.14
+  download:0.14
+  users:0.14
+  time:0.14
+  sounds:0.14
+  kind:0.14
+  prompted:0.14
+  site:0.14
+
+Topic 2:
+  tails:0.41
+  release:0.23
+  version:0.14
+  upgraded:0.14
+  system:0.14
+  incognito:0.14
+  live:0.14
+  amnesic:0.14
+  stay:0.14
+  project:0.14
+
+Topic 3:
+  tails:0.41
+  release:0.23
+  system:0.14
+  amnesic:0.14
+  live:0.14
+  incognito:0.14
+  upgraded:0.14
+  version:0.14
+  stay:0.14
+  site:0.14
+
+Topic 4:
+  tails:0.41
+  release:0.23
+  incognito:0.14
+  upgraded:0.14
+  live:0.14
+  amnesic:0.14
+  version:0.14
+  system:0.14
+  tor:0.14
+  project:0.14
+
+K: 5, Log-Likelihood: -68.947, Alpha: 11.000, Beta: 1.100

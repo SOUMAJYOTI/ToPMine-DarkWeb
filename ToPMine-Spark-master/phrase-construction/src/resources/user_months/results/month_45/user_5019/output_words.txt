@@ -1,0 +1,61 @@
+Topic 0:
+  people:2.35
+  stuff:1.80
+  info:1.79
+  long:1.78
+  weird:1.75
+  pretty:1.75
+  pictures:1.75
+  deal:1.75
+  dumb:1.74
+  types:1.74
+
+Topic 1:
+  justice:3.70
+  fake:1.86
+  ihned:1.86
+  clearnet:1.86
+  companies:1.86
+  launder:1.86
+  converting:1.86
+  biggest:1.86
+  dark:1.86
+  luxury:1.86
+
+Topic 2:
+  money:19.55
+  sheep:11.43
+  marketplace:11.42
+  ikovsk:7.37
+  police:7.28
+  laundering:4.43
+  house:3.99
+  catch:3.71
+  note:3.37
+  ji:3.28
+
+Topic 3:
+  people:1.11
+  sheep:0.77
+  marketplace:0.63
+  article:0.50
+  long:0.49
+  stuff:0.48
+  info:0.47
+  earlier:0.47
+  fall:0.46
+  money:0.46
+
+Topic 4:
+  money:53.94
+  ji:31.08
+  marketplace:30.20
+  police:28.57
+  house:27.21
+  ikovsk:23.99
+  sheep:20.79
+  catch:20.17
+  officers:18.98
+  bank:17.71
+
+K: 5, Log-Likelihood: -10463.092, Alpha: 11.000, Beta: 1.100

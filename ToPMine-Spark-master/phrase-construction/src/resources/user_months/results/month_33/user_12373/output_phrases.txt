@@ -1,0 +1,61 @@
+Topic 0:
+  happoa:0.44
+  ettei:0.41
+  veikkaan:0.34
+  jotain:0.34
+  st:0.33
+  vastauksesta:0.27
+  nopeasta:0.27
+  kiitos:0.27
+  tekemist:0.27
+  bitcoin:0.27
+
+Topic 1:
+  happoa:1.05
+  tarttisin:0.42
+  olen:0.42
+  lsd:0.42
+  siell:0.42
+  ilman:0.42
+  ole:0.42
+  man:0.41
+  olemattomiin:0.41
+  ja:0.41
+
+Topic 2:
+  happoa:0.38
+  st:0.35
+  ettei:0.33
+  poissa:0.32
+  voi:0.32
+  liaikaisesti:0.32
+  llisyytt:0.32
+  silkkitie:0.32
+  rsiv:0.32
+  yt:0.32
+
+Topic 3:
+  ettei:0.54
+  st:0.37
+  jotain:0.36
+  veikkaan:0.36
+  happoa:0.35
+  pist:0.27
+  infoa:0.27
+  ihan:0.27
+  vaa:0.27
+  sen:0.27
+
+Topic 4:
+  ettei:0.93
+  jotain:0.42
+  veikkaan:0.42
+  st:0.39
+  porukka:0.38
+  seiffi:0.38
+  sist:0.38
+  kuumotu:0.38
+  kyl:0.38
+  mut:0.38
+
+K: 5, Log-Likelihood: -399.800, Alpha: 11.000, Beta: 1.100

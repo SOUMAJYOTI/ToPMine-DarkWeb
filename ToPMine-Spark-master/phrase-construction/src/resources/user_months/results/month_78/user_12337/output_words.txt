@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:1.36
+  star:1.00
+  market:0.64
+  filters:0.58
+  profile:0.47
+  checked:0.46
+  rating:0.46
+  months:0.46
+  listings:0.46
+  time:0.46
+
+Topic 1:
+  vendors:1.00
+  star:0.88
+  market:0.81
+  filters:0.61
+  apple:0.52
+  people:0.44
+  product:0.42
+  feedback:0.42
+  rating:0.42
+  history:0.42
+
+Topic 2:
+  market:0.89
+  vendors:0.83
+  apple:0.72
+  people:0.67
+  star:0.64
+  filters:0.63
+  feel:0.45
+  ill:0.36
+  facility:0.36
+  sales:0.36
+
+Topic 3:
+  vendors:1.23
+  star:1.03
+  market:0.60
+  filters:0.57
+  online:0.49
+  names:0.49
+  doesnt:0.49
+  profile:0.49
+  improvements:0.49
+  searching:0.49
+
+Topic 4:
+  people:1.32
+  market:1.06
+  apple:0.97
+  feel:0.78
+  filters:0.61
+  vendors:0.58
+  star:0.45
+  stay:0.33
+  intuitive:0.33
+  call:0.33
+
+K: 5, Log-Likelihood: -330.926, Alpha: 11.000, Beta: 1.100

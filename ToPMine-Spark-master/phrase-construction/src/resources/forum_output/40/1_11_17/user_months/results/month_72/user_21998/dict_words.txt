@@ -1,0 +1,100 @@
+developers,0,6
+verify iso,1,2
+attempt,2,1
+fir,3,1
+key gpg,4,2
+integrity,5,2
+quote,6,1
+kleopatra,7,1
+fingerprint,8,4
+action,9,2
+fuid,10,1
+aa,11,2
+ac,12,2
+method,13,3
+verify tails,14,1
+standards,15,2
+ba,16,2
+checksums,17,2
+bc,18,1
+rechecking,19,2
+perfectly,20,2
+works,21,2
+signature,22,2
+expires key,23,3
+key tails,24,2
+isogpg,25,1
+notify,26,2
+long,27,4
+pmthis,28,1
+cope,29,1
+offline,30,2
+file,31,2
+identity,32,2
+pgp,33,4
+verify,34,6
+term,35,2
+free,36,2
+key,37,15
+intrusted,38,1
+verify pgp,39,2
+expires key fingerprint,40,3
+db expires,41,2
+asa,42,1
+wrong,43,1
+aka,44,1
+method verify,45,1
+tails iso,46,1
+signing,47,1
+db,48,3
+gog,49,1
+key db,50,1
+feb,51,1
+iso,52,3
+feel,53,2
+good,54,1
+warning,55,1
+atm,56,2
+gpg,57,4
+evoked,58,2
+dbb,59,1
+em,60,2
+ill,61,1
+check,62,2
+developers db,63,1
+pgp key,64,2
+gpg command,65,1
+tails,66,8
+absolutely,67,1
+developers gpg,68,1
+rarely,69,2
+fe,70,1
+trust,71,2
+dcb,72,1
+expires,73,3
+certificate,74,2
+appears,75,1
+tails developers,76,6
+devs,77,2
+sig,78,1
+precisely,79,1
+dirtysouf,80,1
+expired,81,2
+checksum,82,2
+lies,83,1
+spitfire,84,1
+attempting,85,1
+stating,86,2
+long method,87,2
+db gpg,88,1
+notified,89,2
+february,90,1
+multiple,91,2
+fault,92,1
+command,93,3
+key fingerprint,94,4
+developers key,95,2
+time,96,2
+front,97,1
+pub,98,1
+pm,99,1

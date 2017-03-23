@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:7.78
+  buying:7.67
+  account:5.41
+  amquote:4.21
+  accounts:4.19
+  phone:4.02
+  localbitcoin:3.82
+  fewillupdate:3.59
+  bitcoins:3.51
+  dnm:3.00
+
+Topic 1:
+  account:6.74
+  bitcoins:4.83
+  localbitcoin:4.78
+  seized:3.96
+  phone:3.73
+  accounts:3.56
+  buying:3.36
+  illegal:2.99
+  vendor:2.64
+  point:2.61
+
+Topic 2:
+  account:6.84
+  localbitcoin:5.81
+  phone:3.54
+  bitcoins:3.28
+  seized:3.26
+  opsec:3.09
+  accounts:2.56
+  fewillupdate:2.41
+  buying:2.32
+  quote:2.12
+
+Topic 3:
+  account:4.75
+  localbitcoin:4.71
+  bitcoins:4.67
+  buying:3.94
+  phone:3.84
+  seized:3.23
+  accounts:2.97
+  encrypted:2.67
+  opsec:2.66
+  arcane:2.38
+
+Topic 4:
+  lbc:6.26
+  safe:5.65
+  coin:5.34
+  opsec:2.16
+  irl:2.06
+  identity:1.94
+  haven:1.93
+  assume:1.87
+  meet:1.86
+  buyers:1.79
+
+K: 5, Log-Likelihood: -3488.362, Alpha: 11.000, Beta: 1.100

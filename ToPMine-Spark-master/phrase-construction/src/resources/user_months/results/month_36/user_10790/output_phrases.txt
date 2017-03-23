@@ -1,0 +1,61 @@
+Topic 0:
+  coinjoin:0.37
+  bitcoin:0.37
+  coins:0.37
+  mix:0.37
+  trust:0.18
+  point:0.18
+  firelight:0.18
+  people:0.18
+  centralized:0.18
+  fact:0.18
+
+Topic 1:
+  mix:0.37
+  coins:0.36
+  bitcoin:0.36
+  coinjoin:0.36
+  choice:0.18
+  fwiw:0.18
+  coin:0.18
+  altcoins:0.18
+  investigated:0.18
+  massive:0.18
+
+Topic 2:
+  bitcoin:0.37
+  coinjoin:0.37
+  coins:0.37
+  mix:0.36
+  community:0.18
+  purpose:0.18
+  investigated:0.18
+  year:0.18
+  altcoins:0.18
+  good:0.18
+
+Topic 3:
+  bitcoin:0.37
+  coins:0.37
+  mix:0.37
+  coinjoin:0.37
+  wallet:0.18
+  bitcoins:0.18
+  services:0.18
+  dont:0.18
+  point:0.18
+  quote:0.18
+
+Topic 4:
+  mix:0.37
+  coins:0.37
+  bitcoin:0.36
+  coinjoin:0.36
+  good:0.18
+  community:0.18
+  pile:0.18
+  altcoin:0.18
+  crap:0.18
+  purpose:0.18
+
+K: 5, Log-Likelihood: -155.430, Alpha: 11.000, Beta: 1.100

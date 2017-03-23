@@ -1,0 +1,61 @@
+Topic 0:
+  forum:0.64
+  implemented:0.62
+  quote:0.52
+  february:0.51
+  fact:0.51
+  write:0.50
+  issue:0.50
+  support:0.49
+  tor:0.49
+  balance:0.49
+
+Topic 1:
+  implemented:0.82
+  forum:0.80
+  february:0.64
+  quote:0.62
+  fact:0.61
+  issue:0.61
+  support:0.61
+  write:0.61
+  ilovespaghetti:0.41
+  amthe:0.41
+
+Topic 2:
+  forum:0.87
+  implemented:0.82
+  write:0.64
+  support:0.63
+  fact:0.61
+  issue:0.61
+  february:0.61
+  quote:0.60
+  ilovespaghetti:0.41
+  amthe:0.41
+
+Topic 3:
+  implemented:0.97
+  forum:0.93
+  issue:0.74
+  fact:0.71
+  support:0.71
+  write:0.69
+  february:0.68
+  quote:0.67
+  amthe:0.46
+  ilovespaghetti:0.46
+
+Topic 4:
+  implemented:0.77
+  forum:0.76
+  quote:0.59
+  february:0.57
+  write:0.57
+  fact:0.56
+  support:0.55
+  issue:0.55
+  account:0.42
+  shoot:0.42
+
+K: 5, Log-Likelihood: -464.203, Alpha: 11.000, Beta: 1.100

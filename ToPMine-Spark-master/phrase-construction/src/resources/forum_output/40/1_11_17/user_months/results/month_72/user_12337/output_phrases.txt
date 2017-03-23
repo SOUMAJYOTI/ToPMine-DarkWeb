@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:3.57
+  apple market:3.45
+  ladies:3.07
+  life:3.01
+  commission:2.51
+  rest:2.47
+  steve:2.46
+  change:2.39
+  escrow:2.35
+  accounts:2.34
+
+Topic 1:
+  ui:4.67
+  dont:3.64
+  design:3.03
+  forward:3.03
+  ugly straight:3.03
+  bars:3.03
+  dream:3.03
+  sticking:3.03
+  heareth:3.03
+  newer:3.03
+
+Topic 2:
+  feel:3.92
+  people:3.92
+  apples:3.86
+  vendor great:3.01
+  paying:3.01
+  pays:3.01
+  ends:3.01
+  hassle:3.01
+  straight pay:3.01
+  trusted:3.01
+
+Topic 3:
+  apple market:3.64
+  guys:2.92
+  buyers:1.85
+  interested:1.85
+  called:1.85
+  fee:1.85
+  drop:1.85
+  luck:1.84
+  users:1.19
+  user:1.10
+
+Topic 4:
+  apple market:3.34
+  life:2.98
+  ladies:2.91
+  pgp:2.42
+  vendor:2.37
+  gentlemen:1.90
+  universe:1.86
+  ding:1.84
+  multisignature:1.77
+  profitable:1.76
+
+K: 5, Log-Likelihood: -4866.700, Alpha: 11.000, Beta: 1.100

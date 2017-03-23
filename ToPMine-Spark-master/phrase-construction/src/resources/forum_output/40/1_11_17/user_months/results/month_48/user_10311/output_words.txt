@@ -1,0 +1,61 @@
+Topic 0:
+  pmquote:11.73
+  enigma:8.35
+  rings:7.98
+  lord:7.89
+  gollum:6.98
+  professional:6.38
+  gandalf:5.95
+  vixty:4.97
+  quote:4.95
+  pi:4.94
+
+Topic 1:
+  july:4.90
+  quote:4.15
+  market:3.68
+  reasons:2.77
+  guys:2.65
+  thing:2.18
+  twins:1.74
+  pmthere:1.74
+  launching:1.74
+  multiply:1.72
+
+Topic 2:
+  quote:4.71
+  enigma:3.58
+  middle:2.73
+  market:2.52
+  earth:2.36
+  lol:1.75
+  dnm:1.35
+  july:1.34
+  called:1.16
+  lord:1.15
+
+Topic 3:
+  quote:5.98
+  july:3.74
+  enigma:3.58
+  btc:2.36
+  called:1.87
+  people:1.58
+  earth:1.45
+  market:1.42
+  middle:1.38
+  fast:1.14
+
+Topic 4:
+  market:9.78
+  ddos:4.51
+  time:4.10
+  application:3.58
+  level:3.57
+  attacks:3.57
+  good:3.55
+  business:3.49
+  markets:3.35
+  chka:3.26
+
+K: 5, Log-Likelihood: -4254.186, Alpha: 11.000, Beta: 1.100

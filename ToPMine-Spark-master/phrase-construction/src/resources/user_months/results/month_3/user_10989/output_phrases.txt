@@ -1,0 +1,61 @@
+Topic 0:
+  complaining:4.65
+  showing:4.65
+  withdrawals:4.62
+  crazy:4.62
+  mario:4.40
+  btc:3.85
+  question:3.73
+  agra wallet:3.54
+  deposit:2.75
+  marketplace:2.44
+
+Topic 1:
+  sr:7.71
+  dont:6.77
+  day day:4.67
+  target:4.67
+  threads radar report diverted:4.26
+  bit alarming experience organix:4.24
+  withdrawals point small issue:4.24
+  btc btc wallet:4.23
+  messaged support days:4.23
+  stability:3.76
+
+Topic 2:
+  coin:4.65
+  fucking:4.65
+  scared:4.65
+  coins:4.65
+  large:4.65
+  agra wallet:4.64
+  missing bitcoins:4.57
+  spread:4.53
+  hour:3.66
+  today:3.36
+
+Topic 3:
+  theory:4.65
+  heard:3.53
+  escrow:3.33
+  issue:2.30
+  drop:2.30
+  hat:2.30
+  external:2.30
+  implemented:2.30
+  time agra:2.30
+  bug:2.30
+
+Topic 4:
+  agora:5.00
+  wallet:4.50
+  alive:3.37
+  pandora:2.71
+  deposits:2.70
+  customer:2.30
+  service:2.30
+  blue:2.30
+  problems:2.30
+  theyve:2.30
+
+K: 5, Log-Likelihood: -4367.014, Alpha: 11.000, Beta: 1.100

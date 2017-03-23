@@ -1,0 +1,61 @@
+Topic 0:
+  markets:0.46
+  market:0.42
+  skulls:0.41
+  vendors:0.27
+  watchin:0.22
+  grow:0.22
+  helluva:0.22
+  posed:0.22
+  risk:0.22
+  result:0.22
+
+Topic 1:
+  skulls:0.46
+  markets:0.43
+  market:0.41
+  vendors:0.28
+  sign:0.22
+  easy:0.22
+  dont:0.22
+  site:0.22
+  nice:0.22
+  great:0.22
+
+Topic 2:
+  skulls:0.47
+  markets:0.43
+  market:0.41
+  vendors:0.28
+  nice:0.23
+  sign:0.23
+  easy:0.23
+  site:0.23
+  dont:0.23
+  great:0.22
+
+Topic 3:
+  markets:0.45
+  skulls:0.43
+  market:0.42
+  vendors:0.28
+  shut:0.22
+  reduces:0.22
+  lotta:0.22
+  watchin:0.22
+  greed:0.22
+  pirate:0.22
+
+Topic 4:
+  markets:0.44
+  skulls:0.43
+  market:0.42
+  vendors:0.28
+  failing:0.22
+  reduces:0.22
+  smaller:0.22
+  pirate:0.22
+  risk:0.22
+  power:0.22
+
+K: 5, Log-Likelihood: -127.864, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  free:2.50
+  account dont:1.49
+  code:1.49
+  toes:1.49
+  box:1.49
+  fair:1.49
+  step:1.49
+  doesnt:1.49
+  shrooms:1.49
+  acid:1.49
+
+Topic 1:
+  ban:4.57
+  drug:2.99
+  acmd:2.18
+  identifying:1.40
+  class:1.40
+  net:1.40
+  drugs:1.40
+  recommended:1.40
+  named:1.40
+  classified:1.40
+
+Topic 2:
+  lsz:1.56
+  al lad:1.53
+  orders:1.01
+  tabs:1.00
+  small:0.99
+  labs:0.89
+  lizard:0.88
+  trade:0.74
+  case:0.68
+  start:0.68
+
+Topic 3:
+  prices:2.90
+  crystal:1.84
+  account:1.84
+  cheaper:1.80
+  order:1.76
+  dont:1.76
+  guys:1.75
+  payment:1.75
+  single:1.68
+  tab:1.66
+
+Topic 4:
+  prices:1.47
+  al lad:1.39
+  tab:1.15
+  single:1.13
+  payment:1.09
+  order:1.08
+  guys:1.06
+  dont:1.04
+  cheaper:1.03
+  crystal:0.99
+
+K: 5, Log-Likelihood: -1488.706, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  times:1.07
+  love:1.06
+  clearnet:1.05
+  dont:1.05
+  share:1.05
+  safe:1.03
+  check:1.03
+  feel:1.03
+  link:1.02
+  yesterday:0.43
+
+Topic 1:
+  link:0.59
+  feel:0.59
+  safe:0.58
+  check:0.58
+  love:0.57
+  share:0.57
+  dont:0.57
+  clearnet:0.57
+  times:0.55
+  tor:0.43
+
+Topic 2:
+  info:0.67
+  tor:0.47
+  javascript:0.36
+  tails:0.32
+  good:0.30
+  vpns:0.30
+  extra:0.30
+  idea:0.30
+  tails tor:0.30
+  ways:0.30
+
+Topic 3:
+  info:0.61
+  tor:0.46
+  javascript:0.38
+  tails:0.38
+  ton:0.30
+  blocks:0.30
+  yeah:0.30
+  running:0.30
+  nice:0.30
+  cloudflare:0.30
+
+Topic 4:
+  day:0.58
+  highly:0.58
+  problem:0.58
+  big:0.58
+  forum:0.58
+  decide:0.58
+  evilzone:0.58
+  feds:0.58
+  heavily:0.58
+  disaster:0.58
+
+K: 5, Log-Likelihood: -605.715, Alpha: 11.000, Beta: 1.100

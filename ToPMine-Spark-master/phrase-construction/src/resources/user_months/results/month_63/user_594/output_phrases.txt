@@ -1,0 +1,61 @@
+Topic 0:
+  glad:0.71
+  staff:0.44
+  dream:0.43
+  imo:0.42
+  extremely:0.31
+  smoothly:0.31
+  board:0.31
+  support:0.31
+  quick:0.31
+  layout:0.30
+
+Topic 1:
+  glad:0.65
+  imo:0.45
+  staff:0.44
+  dream:0.44
+  eve:0.30
+  chance:0.30
+  alpha:0.30
+  duke:0.30
+  enos:0.30
+  evo:0.30
+
+Topic 2:
+  glad:0.68
+  staff:0.45
+  imo:0.43
+  dream:0.43
+  quick:0.31
+  smoothly:0.31
+  support:0.31
+  board:0.31
+  extremely:0.31
+  noticed:0.30
+
+Topic 3:
+  glad:0.67
+  dream:0.44
+  imo:0.42
+  staff:0.42
+  great:0.32
+  hansa:0.32
+  business:0.32
+  forward:0.32
+  layout:0.32
+  hahaha:0.30
+
+Topic 4:
+  glad:0.59
+  imo:0.47
+  dream:0.46
+  staff:0.44
+  feeling:0.32
+  reason:0.32
+  enos:0.31
+  hahaha:0.31
+  evo:0.31
+  chance:0.31
+
+K: 5, Log-Likelihood: -158.907, Alpha: 11.000, Beta: 1.100

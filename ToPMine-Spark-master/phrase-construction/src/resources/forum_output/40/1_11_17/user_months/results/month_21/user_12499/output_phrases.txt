@@ -1,0 +1,61 @@
+Topic 0:
+  mikseri:0.14
+  bitblendervrfkzr:0.14
+  favorite:0.14
+  ov:0.14
+  fog:0.14
+  tui:0.14
+  suosituimpiafogcore:0.14
+  lienee:0.14
+  ss:0.14
+  se:0.14
+
+Topic 1:
+  se:0.14
+  yt:0.14
+  valaista:0.14
+  ja:0.14
+  miten:0.14
+  voisiko:0.14
+  nn:0.14
+  semmoinen:0.14
+  joku:0.14
+  toimii:0.14
+
+Topic 2:
+  suosituimpiafogcore:0.14
+  lienee:0.14
+  favorite:0.14
+  ov:0.14
+  fog:0.14
+  tui:0.14
+  bitblendervrfkzr:0.14
+  mikseri:0.14
+  ss:0.14
+  toimii:0.14
+
+Topic 3:
+  voisiko:0.14
+  joku:0.14
+  miten:0.14
+  nn:0.14
+  toimii:0.14
+  ss:0.14
+  ja:0.14
+  yt:0.14
+  valaista:0.14
+  semmoinen:0.14
+
+Topic 4:
+  joku:0.14
+  semmoinen:0.14
+  yt:0.14
+  nn:0.14
+  ja:0.14
+  toimii:0.14
+  miten:0.14
+  valaista:0.14
+  voisiko:0.14
+  se:0.14
+
+K: 5, Log-Likelihood: -43.583, Alpha: 11.000, Beta: 1.100

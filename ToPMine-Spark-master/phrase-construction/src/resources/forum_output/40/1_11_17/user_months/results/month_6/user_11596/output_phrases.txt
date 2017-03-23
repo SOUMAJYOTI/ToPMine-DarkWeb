@@ -1,0 +1,61 @@
+Topic 0:
+  staff:12.84
+  community:10.14
+  time:8.63
+  transaction malleability:5.81
+  withdrawals:5.75
+  cold storage hot storage:5.29
+  auto:5.09
+  missing coins:4.84
+  auto finalize:4.71
+  attack:4.70
+
+Topic 1:
+  fools unable protect user:9.85
+  dont:7.11
+  read:6.24
+  scam:5.76
+  funds calling:4.74
+  correct conclusion:4.74
+  process leading correct conclusion:4.74
+  tyrone february incompetent:4.74
+  flawed flawed wrong accidentally:4.74
+  people call incompetent:4.74
+
+Topic 2:
+  staff:6.10
+  withdrawals:5.34
+  cold storage hot storage:5.10
+  lynch mob:4.73
+  deposit:4.36
+  accounts:4.09
+  community:4.00
+  slow withdrawals:3.91
+  transaction malleability:3.64
+  attack:3.61
+
+Topic 3:
+  market:21.53
+  pretty bmr longest lasting:5.67
+  sr:5.67
+  backopy didnt marketplace history:4.90
+  dont understand:4.90
+  admin admitted errors withdraw:4.90
+  older longer:4.89
+  feel:4.64
+  wallet safe:4.64
+  risks:4.64
+
+Topic 4:
+  community:7.03
+  staff:6.92
+  hot storage:6.74
+  time:5.24
+  lynch mob:4.44
+  cold storage hot storage:3.71
+  larger amounts:3.46
+  attack:3.44
+  transactions:3.21
+  withdrawals:3.02
+
+K: 5, Log-Likelihood: -21982.254, Alpha: 11.000, Beta: 1.100

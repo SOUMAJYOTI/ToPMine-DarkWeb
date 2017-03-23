@@ -1,0 +1,41 @@
+drop,0,1
+opsec,1,1
+big,2,1
+equivalent,3,1
+code,4,3
+works,5,1
+bad,6,1
+subject,7,1
+fuck,8,1
+sending address,9,1
+tracking,10,6
+platform,11,1
+hold,12,1
+number,13,1
+flaw,14,1
+major,15,1
+meaning,16,1
+vendor,17,1
+pip,18,1
+tracking code,19,3
+pgp,20,3
+basically,21,1
+sending,22,3
+portal,23,1
+knowledge,24,1
+address,25,3
+determine,26,1
+trough,27,1
+received,28,1
+pack,29,1
+tracking pgp,30,1
+insight,31,1
+system,32,1
+encrypted,33,1
+sending tracking,34,2
+le,35,1
+compromised,36,1
+assume,37,1
+coupled,38,1
+pm,39,1
+dont,40,1

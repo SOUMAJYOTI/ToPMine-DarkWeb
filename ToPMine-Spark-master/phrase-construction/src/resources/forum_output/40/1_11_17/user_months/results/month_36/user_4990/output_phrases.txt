@@ -1,0 +1,61 @@
+Topic 0:
+  instantly:0.35
+  days:0.35
+  problem:0.34
+  today:0.34
+  couple:0.34
+  loading:0.34
+  specific:0.34
+  cut:0.34
+  platform:0.34
+  route:0.34
+
+Topic 1:
+  problem:0.34
+  today:0.34
+  days:0.34
+  couple:0.34
+  instantly:0.34
+  loading:0.34
+  platform:0.34
+  cut:0.34
+  group:0.34
+  unfortunate:0.34
+
+Topic 2:
+  communicate:0.34
+  group:0.34
+  unfortunate:0.34
+  specific:0.34
+  platform:0.34
+  cut:0.34
+  route:0.34
+  problem:0.34
+  couple:0.34
+  today:0.34
+
+Topic 3:
+  communicate:0.34
+  specific:0.34
+  route:0.34
+  group:0.34
+  unfortunate:0.34
+  loading:0.34
+  cut:0.34
+  couple:0.34
+  platform:0.34
+  days:0.34
+
+Topic 4:
+  unfortunate:0.34
+  route:0.34
+  group:0.34
+  cut:0.34
+  platform:0.34
+  communicate:0.34
+  specific:0.34
+  loading:0.34
+  today:0.34
+  instantly:0.34
+
+K: 5, Log-Likelihood: -113.437, Alpha: 11.000, Beta: 1.100

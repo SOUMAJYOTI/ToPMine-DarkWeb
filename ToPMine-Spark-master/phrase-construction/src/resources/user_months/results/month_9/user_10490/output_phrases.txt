@@ -1,0 +1,61 @@
+Topic 0:
+  wallet btc:0.23
+  quote:0.14
+  question:0.14
+  march:0.14
+  weed:0.14
+  understand:0.14
+  pmyou:0.14
+  refresh:0.14
+  wallet:0.14
+  button:0.14
+
+Topic 1:
+  wallet btc:0.23
+  deposit:0.14
+  bluest:0.14
+  type:0.14
+  refresh:0.14
+  cheers:0.14
+  click:0.14
+  market:0.14
+  button:0.14
+  transaction:0.14
+
+Topic 2:
+  wallet btc:0.23
+  question:0.14
+  pmyou:0.14
+  understand:0.14
+  weed:0.14
+  quote:0.14
+  march:0.14
+  transaction:0.14
+  market:0.14
+  cheers:0.14
+
+Topic 3:
+  wallet btc:0.23
+  bluest:0.14
+  deposit:0.14
+  transaction:0.14
+  type:0.14
+  cheers:0.14
+  button:0.14
+  market:0.14
+  click:0.14
+  refresh:0.14
+
+Topic 4:
+  wallet btc:0.23
+  wallet:0.14
+  type:0.14
+  click:0.14
+  button:0.14
+  transaction:0.14
+  cheers:0.14
+  market:0.14
+  bluest:0.14
+  refresh:0.14
+
+K: 5, Log-Likelihood: -48.224, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  card:4.64
+  micro:1.14
+  recognised:0.92
+  sd:0.75
+  backup:0.58
+  stupid:0.53
+  recover:0.53
+  device:0.53
+  drive:0.46
+  didnt:0.38
+
+Topic 1:
+  card:1.79
+  drive:0.69
+  sd:0.63
+  dont:0.55
+  backup:0.49
+  data:0.44
+  micro:0.43
+  cards:0.39
+  read:0.39
+  flash:0.39
+
+Topic 2:
+  card:3.29
+  flash:1.48
+  defects:1.39
+  adapter:1.38
+  switch:1.38
+  read:1.34
+  sd:1.26
+  drive:1.24
+  cards:0.60
+  recommend:0.55
+
+Topic 3:
+  card:2.23
+  sd:0.90
+  drive:0.71
+  micro:0.64
+  backup:0.50
+  flash:0.50
+  cards:0.43
+  read:0.42
+  recognised:0.42
+  recover:0.41
+
+Topic 4:
+  card:2.06
+  data:1.05
+  drive:0.90
+  dont:0.73
+  read:0.56
+  sd:0.46
+  cold:0.42
+  state:0.42
+  center:0.42
+  fuckton:0.42
+
+K: 5, Log-Likelihood: -669.472, Alpha: 11.000, Beta: 1.100

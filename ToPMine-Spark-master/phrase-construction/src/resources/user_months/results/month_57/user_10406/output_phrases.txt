@@ -1,0 +1,61 @@
+Topic 0:
+  pitbull:10.29
+  wit:7.12
+  hivemind:5.63
+  guard:5.57
+  dogs:4.80
+  security:4.80
+  friend:4.80
+  thing:4.78
+  qube:4.76
+  perspective:4.76
+
+Topic 1:
+  telemetry microsoft:22.66
+  footprintpredict:11.33
+  comreports wes:8.49
+  netvortex sandbox data microsoft:8.49
+  telemetry:8.49
+  comoca telemetry microsoft nsatc:8.49
+  data:8.49
+  comi services social microsoft:8.49
+  traffic:8.17
+  os:8.06
+
+Topic 2:
+  mafia:33.97
+  animals:19.41
+  police:14.55
+  year:9.70
+  italian:9.70
+  intimidate enemies:9.70
+  cast trapuzzano:9.70
+  business owners:9.70
+  exotic:9.70
+  italy:9.70
+
+Topic 3:
+  ram:14.54
+  stock cooler:12.12
+  grateful:10.62
+  fatherted september pmquote tang:7.26
+  settings:6.90
+  quote:6.52
+  tho aint broke ant:6.36
+  driver worked fine:6.36
+  guess lol:6.36
+  win installed latest nvidia:6.36
+
+Topic 4:
+  small llama:9.68
+  fur hair:7.33
+  spit nominate alpaca:6.38
+  cross giraffe sheep reality:6.38
+  intimidated agitated handled humans:6.38
+  territory invade space:6.38
+  fact camel family feel:6.38
+  thought alpaca:6.38
+  basically smaller version llama:6.38
+  vagina mittens missed years:6.38
+
+K: 5, Log-Likelihood: -19112.032, Alpha: 11.000, Beta: 1.100

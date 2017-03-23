@@ -1,0 +1,61 @@
+Topic 0:
+  wallet direct deals:6.02
+  electrum:5.69
+  safest:2.94
+  uncomfortable:2.94
+  safe:2.94
+  squire:2.94
+  system:2.94
+  coins:2.94
+  solid:2.94
+  method:2.94
+
+Topic 1:
+  quote:3.73
+  february:3.72
+  community:2.77
+  discussions:2.77
+  topic:2.77
+  comments:2.77
+  opening:2.77
+  special:2.77
+  agree:2.76
+  avengers:2.76
+
+Topic 2:
+  mescaline:2.65
+  tails:2.58
+  gammagoblin:2.16
+  prooved:1.76
+  htrpta:1.76
+  psilocibine:1.76
+  lsd:1.76
+  regardsstevemba:1.76
+  scientifically:1.76
+  tolerance:1.76
+
+Topic 3:
+  cross:4.17
+  days:3.77
+  masculine:2.93
+  led:2.93
+  assuming:2.93
+  dmt:2.93
+  doesnt:2.93
+  tolerates:2.93
+  oral:2.93
+  speakers:1.83
+
+Topic 4:
+  vendor:3.17
+  good:2.83
+  experience:2.20
+  opportunities:1.86
+  universe:1.86
+  role:1.86
+  deeper:1.86
+  thinking:1.86
+  weary:1.86
+  leaves:1.86
+
+K: 5, Log-Likelihood: -1589.560, Alpha: 11.000, Beta: 1.100

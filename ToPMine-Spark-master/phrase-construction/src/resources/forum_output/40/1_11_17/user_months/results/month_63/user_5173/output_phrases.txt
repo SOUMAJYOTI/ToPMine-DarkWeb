@@ -1,0 +1,61 @@
+Topic 0:
+  buy:4.46
+  sell:4.46
+  chka:2.21
+  purchase money:2.21
+  purchases:2.21
+  tochka:2.21
+  review:2.21
+  referred market:2.21
+  communicate:2.21
+  coordinates:2.21
+
+Topic 1:
+  love avengers:13.34
+  community:4.49
+  buyers:4.49
+  contracts:4.49
+  advertisement:4.49
+  sticky:4.49
+  offer:4.49
+  find:4.49
+  marketplace forums:4.49
+  confirm:4.41
+
+Topic 2:
+  passport:19.37
+  country:10.43
+  vista free travel:8.70
+  government:8.37
+  plan:6.42
+  bank account:6.31
+  internet:6.28
+  privacy:6.18
+  bypass:4.22
+  total:4.22
+
+Topic 3:
+  recommended earn:18.00
+  money:11.29
+  commission product bought market:11.25
+  product bought customer:11.25
+  recommendation recommended earn:6.74
+  dealer level earn:6.74
+  product bought customer recommendation:6.74
+  fee benefits earn dr:6.74
+  customers:6.74
+  recommended customer earn commission:6.74
+
+Topic 4:
+  private key:10.90
+  key:7.90
+  love avengers:6.14
+  deepweb security measures source:5.91
+  profile buyer deposits item:5.91
+  market private key:5.91
+  supposed rest lose:5.91
+  happy finalizes seller received:5.91
+  wallet cover market fees:5.91
+  market supports multisig transactions:5.91
+
+K: 5, Log-Likelihood: -12230.365, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,15 @@
+easywallet,0,1
+wait,1,1
+move,2,1
+fees,3,1
+charge,4,1
+wallet,5,1
+org,6,1
+built,7,1
+walletthe,8,1
+localbitcoins,9,2
+confirmations,10,1
+people,11,1
+taint,12,2
+mixer,13,2
+withdraw,14,1

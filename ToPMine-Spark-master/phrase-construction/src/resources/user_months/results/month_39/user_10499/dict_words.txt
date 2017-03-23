@@ -1,0 +1,722 @@
+half,0,1
+innocent,1,2
+ios,2,1
+laptop,3,1
+branch,4,1
+properly,5,4
+rand,6,1
+quote,7,3
+dev,8,8
+scanned,9,1
+claptrap march,10,3
+complex,11,1
+understanding,12,4
+assumption,13,1
+havedged,14,2
+pseudo,15,3
+hardware rng,16,2
+monte carlo simulations,17,3
+unpredictable random number,18,5
+solved issue,19,2
+processor secure,20,2
+generators unpredictable,21,1
+sniff,22,1
+rdtsc,23,1
+pool,24,2
+require,25,1
+personal,26,3
+machine hosting,27,1
+dilettantes,28,1
+network chinese,29,1
+people tor,30,1
+airport,31,2
+backdooring,32,1
+numbers good,33,1
+urandom,34,6
+havegefurther,35,1
+guess,36,2
+domain,37,2
+number hardware,38,1
+bits de,39,1
+china issue,40,1
+average,41,1
+telling,42,1
+hosting,43,3
+monte,44,3
+security level,45,1
+uncertainty,46,1
+hot,47,1
+result blocked,48,1
+business crypto,49,1
+censors,50,1
+result,51,5
+systems running,52,2
+skype,53,1
+systems,54,7
+offered,55,1
+rdrand instruction,56,2
+hotel,57,1
+guys dont,58,1
+state havege,59,1
+connect,60,2
+computers,61,1
+hand,62,1
+spare,63,1
+system entry,64,1
+mind,65,1
+website,66,1
+set,67,3
+business,68,3
+incorrect,69,1
+kernel,70,4
+carlo simulations,71,3
+combines,72,1
+random generators,73,1
+march,74,3
+weird,75,1
+fly,76,1
+answer,77,4
+throw,78,1
+calls,79,2
+systems clock,80,1
+unprecedented,81,1
+chinese people,82,1
+god,83,1
+running tails,84,1
+publications,85,1
+discuss,86,1
+standard,87,1
+de,88,3
+communicate,89,1
+generates,90,2
+bootup,91,1
+dj,92,1
+quantities,93,1
+questions,94,1
+official,95,3
+good,96,8
+random bits,97,1
+pseudorandom,98,1
+bet,99,1
+chinese,100,7
+post,101,1
+generated,102,1
+leave,103,1
+claptrap,104,3
+xscale,105,1
+talk,106,1
+isps,107,1
+system dev,108,2
+seeded entropy,109,2
+signal,110,1
+vendors,111,1
+chime,112,1
+westerners,113,1
+unpredictable,114,7
+european,115,1
+count,116,2
+havege hardware,117,1
+cryptography,118,1
+internal processor,119,1
+gather,120,1
+commsanyway,121,1
+level havege,122,1
+external,123,1
+virtual machine,124,2
+tails,125,23
+avenged,126,2
+overviewhavege,127,1
+canada,128,1
+obfsproxy,129,1
+gettime,130,1
+guys,131,5
+live operating,132,2
+western,133,1
+party,134,1
+cryptology,135,1
+eavesdropped,136,1
+virtual,137,6
+private,138,2
+buyers,139,1
+parallelism,140,1
+worthy,141,1
+systems havege,142,1
+papers,143,2
+zaphod,144,2
+states,145,4
+random,146,21
+stretch,147,1
+harvesting,148,1
+random number generator,149,4
+kernels,150,2
+client,151,2
+trouble,152,1
+bridgesas,153,1
+company,154,2
+surveillance,155,2
+featuring,156,1
+live,157,4
+enhancing,158,1
+pcs,159,1
+practical,160,1
+volatile states,161,1
+systems high,162,1
+monitor,163,1
+counter,164,1
+concerns,165,2
+pda,166,1
+tor blocked,167,1
+hub,168,1
+china,169,11
+vpn,170,5
+machine question,171,2
+service,172,1
+developers aware,173,1
+clone,174,1
+vps,175,1
+setup,176,2
+aware issue,177,1
+tls,178,1
+family,179,2
+tunnel,180,1
+problem tails,181,3
+tlbs,182,1
+backup,183,1
+told,184,1
+considered,185,2
+simulation,186,1
+work china,187,1
+thousands internal,188,1
+american,189,1
+throughput software,190,1
+bit,191,1
+entire,192,1
+sdcard,193,1
+number,194,13
+tails things,195,1
+pdas,196,1
+connects,197,2
+block,198,2
+text,199,2
+algorithm,200,2
+question problem,201,2
+generation internal,202,1
+uniformsmaybe,203,1
+issue,204,6
+large,205,3
+compartmentalization,206,2
+bits,207,7
+understand,208,2
+volumes,209,1
+ordinary,210,1
+transactions,211,1
+thousands,212,3
+intel,213,3
+youll kernel,214,2
+heavy,215,1
+system,216,10
+bringing,217,2
+install,218,2
+virtual machines,219,4
+binary,220,1
+kernel tails,221,2
+impression,222,1
+messages,223,1
+crazy,224,1
+crafty,225,1
+favorably,226,1
+phone china,227,1
+algorithms,228,1
+server,229,1
+aim,230,1
+pseudo random,231,3
+blocked chinese,232,1
+uncle,233,1
+save,234,2
+guy,235,2
+cell,236,1
+sequences,237,1
+cycle,238,1
+china dont,239,1
+disposal,240,1
+level software,241,1
+userspace,242,1
+mention,243,1
+exploits,244,1
+entropy,245,22
+file,246,2
+tor,247,12
+pgp,248,1
+wouldn,249,1
+modifications,250,1
+superscalar,251,2
+imperialists,252,1
+throughput havege,253,2
+whonix,254,2
+haveged,255,2
+question,256,6
+redphone,257,1
+suggestion,258,1
+systems tails,259,2
+rdrand,260,4
+unpredictable random number generators,261,1
+blocked china,262,1
+gathered,263,1
+throughput generators,264,1
+opportunities,265,1
+competes,266,1
+workstations,267,1
+machine,268,3
+instruction,269,3
+regard,270,1
+instruction rdrand,271,2
+spoof,272,1
+measuring,273,1
+gathering entry,274,1
+subject,275,1
+user level,276,1
+modifies,277,1
+quote claptrap march,278,3
+platforms,279,1
+radio,280,2
+identical,281,2
+tor entropy,282,2
+high,283,7
+falls,284,1
+solution,285,3
+pip,286,2
+find,287,1
+problem tails developers,288,1
+sufficient,289,1
+implemented,290,1
+random source,291,1
+claim,292,1
+links,293,2
+directly,294,2
+nasty,295,1
+likes,296,1
+traffic,297,4
+wiretapped,298,1
+approximation,299,1
+including,300,1
+read,301,2
+months,302,1
+level,303,3
+initials,304,2
+domains,305,1
+rng,306,3
+includes,307,1
+clock,308,4
+fill,309,1
+throws,310,2
+transforming,311,1
+tool,312,1
+expansion,313,2
+volatile hardware,314,2
+entry,315,4
+random havege,316,1
+chinese understanding,317,1
+true,318,1
+october,319,1
+ami,320,1
+good monte,321,1
+outwit,322,1
+keys,323,8
+dunno,324,2
+vpns,325,1
+phones,326,1
+movements,327,2
+box,328,1
+mess,329,2
+pseudo random number,330,2
+tails developers,331,6
+running,332,3
+entropy live,333,2
+obfs,334,2
+answer question,335,2
+design,336,3
+number generation,337,1
+chose,338,1
+transformed,339,1
+source havege,340,1
+heard,341,2
+hardware volatile entropy,342,3
+op,343,1
+comments,344,2
+os,345,2
+thousands unpredictable,346,1
+automatic,347,1
+demanding,348,1
+baseband,349,1
+unpredictable bits,350,1
+phoenix,351,2
+pc,352,2
+algorithmhaveged,353,1
+application,354,3
+bytes,355,1
+carlo,356,3
+adroit,357,1
+machines,358,4
+entropy gathering,359,4
+dont answer,360,1
+depend,361,1
+ring,362,2
+maintain,363,1
+state time,364,2
+discussion,365,1
+random number,366,11
+expertise,367,1
+supply,368,1
+ssl,369,2
+concern,370,1
+granted,371,1
+vpn china,372,1
+decided,373,1
+random numbers,374,3
+state,375,4
+hundreds,376,1
+generators system,377,2
+security china,378,1
+events,379,1
+yanked,380,1
+based,381,2
+random number generators,382,5
+edit,383,1
+urandom virtual,384,2
+volatile entropy gathering,385,3
+entropy seed,386,2
+countries,387,1
+monitoring,388,1
+high throughput,389,1
+processor,390,5
+de random,391,3
+quality,392,2
+states source,393,1
+input,394,1
+wanted,395,1
+appreciated,396,1
+generators,397,7
+properly seeded,398,4
+programs,399,1
+bridge,400,3
+device,401,1
+generating unpredictable,402,1
+blocked set,403,1
+predictors,404,1
+complexity,405,1
+components,406,1
+schneier,407,1
+argued,408,1
+cut,409,1
+access,410,1
+seed,411,3
+gathering entropy,412,1
+appliances,413,1
+hardware clock,414,1
+system connecting,415,2
+bits entropy,416,4
+tor traffic,417,2
+long,418,1
+monotony,419,1
+current,420,1
+encryption,421,4
+encrypt,422,1
+boots,423,2
+supports,424,2
+initialization,425,1
+operating,426,7
+popular,427,1
+limits,428,1
+email,429,2
+surprised,430,1
+solved dont,431,1
+bandwidth,432,1
+connecting tor,433,2
+cents,434,2
+services,435,2
+people,436,4
+simulations,437,4
+call,438,1
+pull,439,1
+txt,440,2
+adds bits,441,2
+shit,442,1
+network generating,443,2
+closed,444,1
+instruction level,445,1
+censorship,446,2
+thing,447,2
+number generator,448,5
+supported,449,1
+entropy system,450,2
+system systems,451,2
+surely,452,2
+circumvent,453,1
+country,454,1
+problem entropy,455,2
+megabits,456,1
+buy,457,2
+numbers,458,3
+solved,459,4
+amanyway,460,1
+source,461,4
+incorporate,462,1
+secure,463,3
+inside,464,1
+good answer,465,1
+mouse,466,2
+unable,467,1
+features,468,2
+pipelines,469,1
+demonstrator,470,1
+things,471,3
+basically,472,1
+details,473,1
+throughput,474,4
+starts,475,2
+generate,476,1
+software unpredictable,477,2
+number generators,478,5
+actual,479,1
+usual,480,1
+solutions,481,2
+seeds,482,1
+crypto bits,483,2
+bridges,484,2
+worse,485,2
+daemon,486,1
+airports,487,1
+improving,488,1
+detecting,489,1
+support,490,2
+updated,491,1
+internet,492,3
+changed,493,1
+official entry,494,2
+benefits,495,2
+whatsapp,496,1
+chans,497,1
+idea,498,2
+needed,499,2
+textsecure,500,1
+hardware states,501,2
+critique,502,1
+privacy,503,1
+generating,504,3
+encryption keys,505,2
+disappear,506,1
+hardware random,507,2
+linus,508,2
+house,509,1
+unpredictable random number generator,510,3
+towers,511,1
+generation rdrand,512,2
+stronger,513,1
+linux,514,2
+software china,515,2
+quotelinux,516,1
+internal state,517,1
+network personal,518,1
+openvpn,519,1
+types,520,1
+processor states,521,1
+previous,522,1
+bernsteins,523,1
+volatile,524,7
+tails systems,525,1
+windows,526,1
+generic,527,1
+headless,528,1
+disagree,529,1
+initially,530,1
+short,531,1
+intermittently,532,1
+time,533,4
+application high,534,1
+mark,535,1
+play,536,2
+seed dev,537,2
+youll,538,3
+internal volatile,539,2
+large number,540,1
+modeling,541,1
+software,542,6
+developers,543,6
+reach,544,1
+happy,545,1
+processors,546,2
+program,547,1
+solution chinese,548,1
+rent,549,1
+type,550,1
+monitored,551,1
+randomthis,552,2
+compatible,553,1
+problem,554,10
+kernel properly,555,2
+osx,556,1
+entropy source,557,1
+unmonitorable,558,1
+connection,559,2
+attain,560,1
+dependent,561,1
+case,562,2
+hardware,563,11
+attempts,564,1
+generation,565,3
+phase,566,1
+dev urandom,567,6
+issue solved,568,2
+travellers,569,2
+work,570,3
+wife,571,1
+operating systems,572,3
+standalone,573,1
+tails virtual,574,2
+generators monte,575,1
+source random,576,1
+seeded,577,4
+imagination,578,1
+understanding live,579,2
+befriend,580,1
+invocation,581,1
+business china,582,1
+provide,583,1
+rely,584,1
+phone,585,4
+didnt,586,2
+exact,587,2
+people set,588,1
+secure solution,589,1
+backdoored,590,2
+word,591,2
+sexual,592,1
+havege,593,11
+comms,594,1
+gmail,595,1
+shenanigans,596,1
+hardware volatile entropy gathering,597,3
+machines problem,598,2
+internal,599,4
+havegd,600,2
+caches,601,1
+seize,602,1
+guard,603,1
+isolated,604,1
+range,605,1
+monte carlo,606,3
+tools,607,1
+layer,608,1
+china operating,609,1
+lot,610,2
+messed,611,1
+computer,612,3
+pocketpc,613,1
+feature,614,1
+modern,615,2
+blocked,616,5
+low,617,2
+entropy dev,618,2
+connecting network,619,2
+power,620,1
+protect,621,1
+cryptographic,622,2
+running intel,623,2
+meant,624,1
+urandom properly,625,2
+include,626,2
+good gathering,627,2
+restart,628,1
+facebook,629,1
+sided,630,2
+high entropy,631,1
+issue work,632,1
+randomness,633,1
+digging,634,1
+fascinating,635,1
+gathering,636,6
+great,637,1
+site,638,1
+urandom time,639,2
+unpredictable random,640,5
+firewall,641,2
+hardware volatile,642,3
+set personal,643,1
+responses,644,2
+fake,645,1
+forgot,646,1
+connecting,647,4
+answer understanding,648,1
+architectural,649,1
+runs,650,1
+stuff,651,1
+dice,652,4
+experience,653,1
+personal business,654,1
+hanged,655,1
+major,656,1
+ect,657,1
+feasible,658,1
+pointing,659,2
+mechanisms,660,2
+connections,661,1
+package,662,1
+minutes,663,2
+published,664,1
+water,665,1
+illegal,666,2
+intel generation,667,2
+crypto,668,6
+personally,669,1
+topic,670,1
+quote claptrap,671,3
+job,672,2
+fallback,673,2
+dont,674,4
+problem problem,675,2
+tens,676,1
+note,677,1
+purpose,678,1
+amthanks,679,1
+volatile entropy,680,3
+generator,681,5
+faith,682,1
+scale,683,1
+encryption software,684,2
+network,685,4
+aware,686,3
+general,687,1
+security,688,3
+servers,689,1
+stuffy,690,1
+paper,691,1
+cat,692,2
+rng system,693,2
+designed,694,1
+sam,695,1
+adds,696,3
+listening,697,2
+nose,698,1
+rest,699,1
+move,700,1
+computer connecting,701,2
+operating system,702,3
+limited,703,1
+built,704,1
+terminal,705,2
+increase,706,2
+command,707,2
+attacking,708,1
+high security,709,1
+recommended,710,1
+secure crypto,711,2
+gathering pseudo,712,1
+performance,713,2
+brdgrd,714,2
+whiz,715,1
+interaction,716,1
+security machine,717,1
+leastmore,718,1
+user,719,3
+wild,720,2
+quotemotivationsan,721,1

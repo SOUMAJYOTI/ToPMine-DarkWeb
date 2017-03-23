@@ -1,0 +1,61 @@
+Topic 0:
+  vi:5.74
+  toimi:3.81
+  sitten:3.02
+  keen:2.74
+  sit:2.74
+  vain:2.74
+  edit:2.74
+  valitsivat:2.74
+  minuutissaasiakkaat:2.74
+  saa:2.74
+
+Topic 1:
+  ja:4.47
+  ei:4.13
+  nyt:3.09
+  vitun:2.72
+  ku:2.69
+  vittu:2.37
+  tein:2.10
+  se:2.10
+  aspa:1.67
+  mik:1.67
+
+Topic 2:
+  ei:3.21
+  sitten:2.18
+  tai:1.62
+  lompakkoon:1.60
+  rahaa:1.45
+  ss:1.36
+  ja:1.29
+  perseest:1.20
+  siin:1.16
+  kun:0.95
+
+Topic 3:
+  ja:5.60
+  viel:2.79
+  jo:2.66
+  ll:2.64
+  rahoja:2.20
+  pieniin:1.93
+  monella:1.93
+  kuitenkin:1.86
+  ei:1.34
+  evon:1.24
+
+Topic 4:
+  ett:4.78
+  st:3.79
+  viel:3.50
+  eilen:3.49
+  ei:2.96
+  kun:2.72
+  perille:2.69
+  mennyt:2.33
+  yt:1.94
+  coinit:1.94
+
+K: 5, Log-Likelihood: -3072.413, Alpha: 11.000, Beta: 1.100

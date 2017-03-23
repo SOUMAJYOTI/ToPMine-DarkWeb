@@ -1,0 +1,61 @@
+Topic 0:
+  exit node:4.19
+  vm:3.86
+  windows:3.11
+  anonymity:3.11
+  guide:3.11
+  tails os:3.11
+  connect vpn:3.11
+  protects:3.11
+  clearnet website:3.11
+  technologically:3.11
+
+Topic 1:
+  transparent tor proxies:5.19
+  block tor:4.75
+  access hide fact tor:4.75
+  clear net websites:4.75
+  point mullvads servers port:3.86
+  link provide packet tunnel:3.86
+  mullvad doesnt chain mullvad:3.86
+  connected tor:3.86
+  keys provided mullvad:3.86
+  bitcoin spent bitcoin client:3.86
+
+Topic 2:
+  clearnet sites:8.50
+  op:3.99
+  accessing:3.99
+  worried:3.99
+  darknet:3.99
+  visit:3.99
+  clearnet:3.37
+  access:3.17
+  browse:2.22
+  real jigsaw puzzle pmhave:2.10
+
+Topic 3:
+  quote squidward:5.37
+  test:4.00
+  dont:4.00
+  openvpn:4.00
+  download mullvad software:3.12
+  wrong:2.25
+  socks settings:2.07
+  configure transparent tor proxies:2.07
+  setup:1.98
+  unintentionally:1.98
+
+Topic 4:
+  bridge users:6.01
+  quote:4.45
+  guards:3.99
+  source:3.99
+  directory:3.99
+  torrc:3.99
+  relays:3.99
+  add:3.99
+  bridge:3.99
+  amquote:3.40
+
+K: 5, Log-Likelihood: -4032.070, Alpha: 11.000, Beta: 1.100

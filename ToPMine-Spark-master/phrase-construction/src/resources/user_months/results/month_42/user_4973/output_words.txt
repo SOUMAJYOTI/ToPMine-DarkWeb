@@ -1,0 +1,61 @@
+Topic 0:
+  order:1.63
+  passwords:1.30
+  click:1.23
+  mail:1.15
+  pills:0.77
+  jail:0.59
+  orders:0.59
+  behavior:0.59
+  early:0.58
+  bought:0.58
+
+Topic 1:
+  order:1.71
+  click:1.50
+  passwords:1.42
+  mail:1.03
+  behavior:0.63
+  bought:0.63
+  things:0.63
+  orders:0.63
+  history:0.63
+  early:0.63
+
+Topic 2:
+  order:1.27
+  passwords:0.90
+  click:0.89
+  mail:0.61
+  good:0.52
+  early:0.51
+  history:0.51
+  things:0.51
+  bought:0.51
+  orders:0.51
+
+Topic 3:
+  time:0.50
+  bitcoins:0.49
+  order:0.34
+  click:0.33
+  passwords:0.33
+  tor:0.30
+  vps:0.27
+  running:0.24
+  shuttle:0.24
+  huge:0.24
+
+Topic 4:
+  tor:3.51
+  vps:2.54
+  layer:1.58
+  huge:1.58
+  shuttle:1.58
+  running:1.58
+  traffic:0.66
+  resources:0.66
+  tunnel:0.66
+  doesnt:0.66
+
+K: 5, Log-Likelihood: -624.663, Alpha: 11.000, Beta: 1.100

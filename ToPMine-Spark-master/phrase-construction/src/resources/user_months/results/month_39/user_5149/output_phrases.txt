@@ -1,0 +1,61 @@
+Topic 0:
+  dont:0.08
+  don:0.08
+  jpg:0.00
+  small:0.00
+  image:0.00
+  large:0.00
+  upload:0.00
+  profile:0.00
+  understand:0.00
+  capable:0.00
+
+Topic 1:
+  don:0.08
+  dont:0.08
+  jpg:0.00
+  small:0.00
+  image:0.00
+  large:0.00
+  upload:0.00
+  profile:0.00
+  understand:0.00
+  capable:0.00
+
+Topic 2:
+  dont:0.08
+  don:0.08
+  jpg:0.00
+  small:0.00
+  image:0.00
+  large:0.00
+  upload:0.00
+  profile:0.00
+  understand:0.00
+  capable:0.00
+
+Topic 3:
+  dont:0.08
+  don:0.08
+  jpg:0.00
+  small:0.00
+  image:0.00
+  large:0.00
+  upload:0.00
+  profile:0.00
+  understand:0.00
+  capable:0.00
+
+Topic 4:
+  don:0.08
+  dont:0.08
+  jpg:0.00
+  small:0.00
+  image:0.00
+  large:0.00
+  upload:0.00
+  profile:0.00
+  understand:0.00
+  capable:0.00
+
+K: 5, Log-Likelihood: -1.932, Alpha: 11.000, Beta: 1.100

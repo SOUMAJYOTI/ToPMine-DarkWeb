@@ -1,0 +1,61 @@
+Topic 0:
+  multiply wallet hops:5.45
+  chain:4.37
+  blockchain:4.06
+  cold storage:3.24
+  red:2.67
+  adding:2.67
+  investigated:2.67
+  tracks:2.67
+  linked:2.67
+  surrogate:2.67
+
+Topic 1:
+  cold wallet:4.82
+  wallet:3.67
+  store:3.54
+  left:3.54
+  blockchain analysis:3.54
+  seed:3.54
+  access:3.54
+  choose:3.54
+  gaining:3.54
+  drive:3.54
+
+Topic 2:
+  time:3.52
+  convenience:3.52
+  dont lbc:2.58
+  risk:2.58
+  worth:2.58
+  complicated expensive:2.58
+  people:1.96
+  regularly:1.73
+  people idea:1.73
+  weekly:1.73
+
+Topic 3:
+  hops wallets:5.29
+  wallet:1.79
+  leftovers:1.72
+  exchange:1.72
+  chase:1.72
+  eh:1.72
+  hops dnm:1.72
+  clean:1.72
+  shit:1.72
+  dogecoins:1.72
+
+Topic 4:
+  accounts:3.53
+  ive:3.53
+  account:3.53
+  tumbler:2.31
+  opposed:2.16
+  heard:1.75
+  bitcoins:1.75
+  coins:1.75
+  replace:1.74
+  fucking:1.74
+
+K: 5, Log-Likelihood: -2994.718, Alpha: 11.000, Beta: 1.100

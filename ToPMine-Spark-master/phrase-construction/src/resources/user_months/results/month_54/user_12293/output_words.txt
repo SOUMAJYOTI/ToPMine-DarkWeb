@@ -1,0 +1,46 @@
+Topic 0:
+  kuha:0.20
+  joo:0.20
+  jo:0.20
+  testit:0.20
+  tulis:0.20
+  postiss:0.20
+  ne:0.20
+
+Topic 1:
+  jo:0.20
+  kuha:0.20
+  tulis:0.20
+  postiss:0.20
+  joo:0.20
+  testit:0.20
+  ne:0.20
+
+Topic 2:
+  ne:0.20
+  testit:0.20
+  tulis:0.20
+  postiss:0.20
+  jo:0.20
+  joo:0.20
+  kuha:0.20
+
+Topic 3:
+  ne:0.20
+  joo:0.20
+  tulis:0.20
+  postiss:0.20
+  jo:0.20
+  kuha:0.20
+  testit:0.20
+
+Topic 4:
+  postiss:0.20
+  testit:0.20
+  tulis:0.20
+  joo:0.20
+  ne:0.20
+  kuha:0.20
+  jo:0.20
+
+K: 5, Log-Likelihood: -13.621, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  money:7.95
+  cash:6.56
+  pay:5.11
+  clean:4.12
+  people:4.11
+  site:4.00
+  business:3.78
+  tax:2.98
+  donation:2.35
+  dont:2.03
+
+Topic 1:
+  dont:4.01
+  tax:3.67
+  amount:3.60
+  thing:1.80
+  month:1.63
+  worry:1.62
+  topic:1.62
+  agency:1.62
+  guess:1.62
+  hoops:1.62
+
+Topic 2:
+  money:19.48
+  method:4.53
+  accounts:4.47
+  clean:4.27
+  business:3.03
+  multiply:2.95
+  chips:2.95
+  network:2.95
+  security:2.95
+  pay:2.72
+
+Topic 3:
+  tax:5.85
+  investigate:2.39
+  cash:1.99
+  paying:1.67
+  amount:1.40
+  gains:1.25
+  dont:1.25
+  thing:1.18
+  paid:1.07
+  people:1.05
+
+Topic 4:
+  pay:10.51
+  taxes:8.73
+  cash:7.75
+  work:7.08
+  donation:7.00
+  year:6.93
+  site:5.63
+  donations:5.18
+  send:5.14
+  money:5.11
+
+K: 5, Log-Likelihood: -3676.114, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ve:1.71
+  ideas:1.69
+  question:1.69
+  politic:1.69
+  read:1.69
+  perfect:1.69
+  allucination:1.69
+  guys:1.69
+  allfuck:1.69
+  panopticono:1.69
+
+Topic 1:
+  movement:1.87
+  berkeley:1.68
+  anarchist:1.25
+  lsd:1.24
+  radical:0.95
+  anarchism:0.95
+  time:0.94
+  scene:0.92
+  groups:0.90
+  punk:0.89
+
+Topic 2:
+  lsd:2.83
+  scene:1.64
+  futurists:1.63
+  berkeley:1.63
+  society:1.60
+  punk:1.59
+  movement:1.58
+  talking:1.56
+  groups:1.55
+  anarchism:1.53
+
+Topic 3:
+  berkeley:2.03
+  movement:1.72
+  anarchist:1.48
+  dont:0.96
+  understand:0.92
+  mckenna:0.91
+  don:0.89
+  acid:0.89
+  info:0.89
+  called:0.86
+
+Topic 4:
+  movement:2.00
+  berkeley:1.80
+  anarchist:1.21
+  lsd:1.11
+  radical:0.94
+  talking:0.92
+  time:0.91
+  punk:0.91
+  futurists:0.91
+  society:0.88
+
+K: 5, Log-Likelihood: -1284.165, Alpha: 11.000, Beta: 1.100

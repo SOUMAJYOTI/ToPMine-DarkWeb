@@ -1,0 +1,61 @@
+Topic 0:
+  ndiswrapper:2.94
+  cut:2.13
+  buy:1.68
+  cover:1.53
+  silicon:1.33
+  stock:1.33
+  wire:1.33
+  preinstalled:1.33
+  hole:1.33
+  cam:1.33
+
+Topic 1:
+  tails:21.29
+  quote:6.86
+  july:5.25
+  camera:4.04
+  whonix:3.57
+  wipe:3.48
+  mid:3.40
+  computer:3.19
+  windows:3.07
+  recommendations:3.01
+
+Topic 2:
+  good:13.22
+  idea:5.92
+  vpn:5.57
+  wifi:5.42
+  work:4.90
+  tor:4.39
+  thing:4.00
+  pops:3.06
+  wife:2.92
+  switching:2.92
+
+Topic 3:
+  based:9.97
+  sun:5.97
+  pc:4.83
+  tor:4.41
+  atop:3.33
+  tails:3.20
+  luna:2.97
+  systems:2.97
+  open:2.58
+  laptop:2.26
+
+Topic 4:
+  pgp:2.86
+  public:2.37
+  block:1.89
+  ax:1.89
+  ne:1.88
+  hrf:1.88
+  key:1.88
+  wws:1.88
+  rs:1.88
+  ip:1.13
+
+K: 5, Log-Likelihood: -6861.473, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  download:0.16
+  displayed:0.16
+  dont:0.16
+  error:0.16
+  fcuking:0.08
+  tor:0.08
+  decline:0.08
+  octet:0.08
+  ideas:0.08
+  login:0.08
+
+Topic 1:
+  download:0.16
+  displayed:0.16
+  dont:0.16
+  error:0.16
+  weird:0.08
+  orweb:0.08
+  login:0.08
+  browser:0.08
+  story:0.08
+  clicking:0.08
+
+Topic 2:
+  displayed:0.16
+  error:0.16
+  download:0.16
+  dont:0.16
+  meassage:0.08
+  devs:0.08
+  url:0.08
+  pretty:0.08
+  website:0.08
+  mp:0.08
+
+Topic 3:
+  error:0.16
+  dont:0.16
+  download:0.16
+  displayed:0.16
+  mp:0.08
+  strange:0.08
+  wouldn:0.08
+  wood:0.08
+  timor:0.08
+  devs:0.08
+
+Topic 4:
+  dont:0.16
+  error:0.16
+  download:0.16
+  displayed:0.16
+  android:0.08
+  display:0.08
+  octet:0.08
+  downloadapplication:0.08
+  decline:0.08
+  browser:0.08
+
+K: 5, Log-Likelihood: -77.884, Alpha: 11.000, Beta: 1.100

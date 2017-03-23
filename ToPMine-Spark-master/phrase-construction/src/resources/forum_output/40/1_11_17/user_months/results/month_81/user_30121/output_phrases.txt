@@ -1,0 +1,61 @@
+Topic 0:
+  meth:0.92
+  exit:0.81
+  record:0.38
+  missjessicas:0.38
+  mexican:0.38
+  smoked:0.38
+  receive:0.38
+  people:0.38
+  picture:0.38
+  real:0.38
+
+Topic 1:
+  shipping:0.52
+  problems:0.52
+  grams:0.52
+  shop:0.51
+  point:0.51
+  set:0.51
+  samples:0.51
+  offering:0.50
+  alphabay:0.50
+  meth:0.38
+
+Topic 2:
+  problems:0.69
+  grams:0.69
+  alphabay:0.68
+  point:0.68
+  shipping:0.68
+  offering:0.67
+  samples:0.67
+  set:0.67
+  shop:0.66
+  meth:0.32
+
+Topic 3:
+  shop:0.69
+  offering:0.69
+  alphabay:0.69
+  set:0.68
+  samples:0.68
+  point:0.67
+  shipping:0.66
+  grams:0.66
+  problems:0.66
+  meth:0.31
+
+Topic 4:
+  meth:0.85
+  exit:0.55
+  track:0.36
+  carries:0.36
+  dick:0.36
+  dependable:0.36
+  superlab:0.36
+  good:0.36
+  lovely:0.36
+  lady:0.36
+
+K: 5, Log-Likelihood: -419.117, Alpha: 11.000, Beta: 1.100

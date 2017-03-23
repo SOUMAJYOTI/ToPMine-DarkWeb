@@ -1,0 +1,61 @@
+Topic 0:
+  bitblender:5.80
+  small:4.20
+  amounts:4.19
+  blond:3.43
+  wigfog:2.83
+  work:2.76
+  people:2.60
+  problem:2.53
+  blockchain:2.24
+  pleroma:2.04
+
+Topic 1:
+  address:5.05
+  wallet:4.21
+  list:4.05
+  luc:3.47
+  time:3.06
+  mix:3.05
+  read:2.65
+  coins:2.59
+  good:2.53
+  arrived:2.53
+
+Topic 2:
+  pay:37.66
+  shield:30.25
+  btc:25.27
+  vendor:8.93
+  address:8.91
+  send:6.82
+  refresh:5.93
+  status:5.79
+  told:5.79
+  order:5.60
+
+Topic 3:
+  send:9.53
+  pay:7.00
+  coins:6.89
+  amount:5.90
+  fee:5.15
+  helix:4.97
+  version:4.97
+  bitblender:4.52
+  light:4.41
+  btc:4.25
+
+Topic 4:
+  sigaint:9.55
+  pay:7.01
+  service:6.76
+  darknet:6.13
+  email:5.99
+  pgp:5.93
+  signed:5.93
+  signature:5.93
+  shield:5.18
+  coins:3.99
+
+K: 5, Log-Likelihood: -6570.962, Alpha: 11.000, Beta: 1.100

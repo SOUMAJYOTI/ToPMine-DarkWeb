@@ -1,0 +1,61 @@
+Topic 0:
+  pasted:0.68
+  persistence:0.67
+  files:0.65
+  didnt:0.48
+  pgp:0.44
+  usb:0.42
+  saved:0.33
+  tails:0.33
+  keyring:0.22
+  paste:0.22
+
+Topic 1:
+  pgp:1.14
+  didnt:1.01
+  saved:0.62
+  tails:0.62
+  pasted:0.39
+  files:0.39
+  usb:0.35
+  correctly:0.27
+  case:0.27
+  funds:0.27
+
+Topic 2:
+  didnt:0.68
+  pgp:0.63
+  pasted:0.55
+  files:0.54
+  saved:0.44
+  tails:0.44
+  persistence:0.42
+  usb:0.40
+  longer:0.22
+  export:0.22
+
+Topic 3:
+  persistence:0.64
+  pasted:0.64
+  files:0.64
+  didnt:0.50
+  pgp:0.46
+  usb:0.42
+  tails:0.35
+  saved:0.35
+  unlocked:0.21
+  upgnupg:0.21
+
+Topic 4:
+  persistence:1.03
+  files:0.78
+  pasted:0.74
+  usb:0.42
+  didnt:0.34
+  pgp:0.32
+  located:0.27
+  assuming:0.27
+  live:0.27
+  gnupg:0.27
+
+K: 5, Log-Likelihood: -225.557, Alpha: 11.000, Beta: 1.100

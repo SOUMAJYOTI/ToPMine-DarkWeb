@@ -1,0 +1,61 @@
+Topic 0:
+  step:5.08
+  trash:2.41
+  xubuntu:2.01
+  user:1.28
+  noob:0.98
+  directors:0.95
+  create:0.94
+  september:0.94
+  literally:0.92
+  entire:0.92
+
+Topic 1:
+  properly:1.45
+  step:1.45
+  security:1.44
+  set:1.44
+  concerns:1.44
+  noob:1.14
+  hardjam:0.95
+  xubuntu:0.71
+  trash:0.68
+  jabber:0.59
+
+Topic 2:
+  tor:3.49
+  setup:3.49
+  pidgin:3.48
+  tails:1.57
+  luck:1.57
+  covers:1.57
+  platforms:1.57
+  otr:1.57
+  anonymous:1.57
+  os:1.57
+
+Topic 3:
+  step:2.69
+  trash:2.42
+  xubuntu:1.97
+  user:1.31
+  september:0.96
+  thread:0.91
+  message:0.90
+  kind:0.89
+  window:0.89
+  noob:0.88
+
+Topic 4:
+  step:2.59
+  trash:1.35
+  xubuntu:1.15
+  user:0.88
+  noob:0.81
+  quote:0.72
+  problems:0.70
+  directors:0.69
+  stupid:0.69
+  existence:0.69
+
+K: 5, Log-Likelihood: -829.702, Alpha: 11.000, Beta: 1.100

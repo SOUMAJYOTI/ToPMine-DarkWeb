@@ -1,0 +1,61 @@
+Topic 0:
+  tails:0.16
+  latest:0.16
+  update:0.16
+  version:0.16
+  time:0.08
+  implemented:0.08
+  australis:0.08
+  thunk:0.08
+  released:0.08
+  pmis:0.08
+
+Topic 1:
+  latest:0.16
+  version:0.16
+  tails:0.16
+  update:0.16
+  australis:0.08
+  thunk:0.08
+  implemented:0.08
+  time:0.08
+  pmis:0.08
+  tor:0.08
+
+Topic 2:
+  version:0.16
+  latest:0.16
+  update:0.16
+  tails:0.16
+  quote:0.08
+  pink:0.08
+  zaphod:0.08
+  pmis:0.08
+  released:0.08
+  tor:0.08
+
+Topic 3:
+  update:0.16
+  tails:0.16
+  version:0.16
+  latest:0.16
+  october:0.08
+  tor:0.08
+  released:0.08
+  zaphod:0.08
+  quote:0.08
+  pink:0.08
+
+Topic 4:
+  version:0.16
+  update:0.16
+  tails:0.16
+  latest:0.16
+  october:0.08
+  pmis:0.08
+  pink:0.08
+  quote:0.08
+  released:0.08
+  zaphod:0.08
+
+K: 5, Log-Likelihood: -20.531, Alpha: 11.000, Beta: 1.100

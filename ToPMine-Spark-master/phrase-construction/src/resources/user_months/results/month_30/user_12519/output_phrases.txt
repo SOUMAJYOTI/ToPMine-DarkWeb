@@ -1,0 +1,61 @@
+Topic 0:
+  ss:0.00
+  moi:0.00
+  idea:0.00
+  podex:0.00
+  kanssa:0.00
+  prepaid:0.00
+  vaihtoehto:0.00
+  susi:0.00
+  oon:0.00
+  miten:0.00
+
+Topic 1:
+  ss:0.00
+  moi:0.00
+  idea:0.00
+  podex:0.00
+  kanssa:0.00
+  prepaid:0.00
+  vaihtoehto:0.00
+  susi:0.00
+  oon:0.00
+  miten:0.00
+
+Topic 2:
+  ss:0.00
+  moi:0.00
+  idea:0.00
+  podex:0.00
+  kanssa:0.00
+  prepaid:0.00
+  vaihtoehto:0.00
+  susi:0.00
+  oon:0.00
+  miten:0.00
+
+Topic 3:
+  ss:0.00
+  moi:0.00
+  idea:0.00
+  podex:0.00
+  kanssa:0.00
+  prepaid:0.00
+  vaihtoehto:0.00
+  susi:0.00
+  oon:0.00
+  miten:0.00
+
+Topic 4:
+  ss:0.00
+  moi:0.00
+  idea:0.00
+  podex:0.00
+  kanssa:0.00
+  prepaid:0.00
+  vaihtoehto:0.00
+  susi:0.00
+  oon:0.00
+  miten:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

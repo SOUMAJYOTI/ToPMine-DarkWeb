@@ -1,0 +1,61 @@
+Topic 0:
+  tor:47.73
+  hidden:28.15
+  users:22.70
+  services:18.84
+  nodes:18.77
+  typewriters:17.79
+  april:14.38
+  network:13.22
+  service:12.87
+  exit:12.10
+
+Topic 1:
+  software:10.19
+  bug:9.94
+  security:9.66
+  machine:9.34
+  virtual:8.77
+  code:7.30
+  flaw:6.95
+  systems:6.10
+  geffner:5.99
+  companies:5.27
+
+Topic 2:
+  sigaint:23.05
+  april:18.48
+  quote:16.91
+  onion:14.68
+  time:11.34
+  real:9.84
+  address:9.69
+  find:9.61
+  tails:8.85
+  china:7.89
+
+Topic 3:
+  hellman:13.98
+  mail:13.54
+  connections:12.36
+  nsa:11.55
+  key:11.19
+  researchers:10.22
+  keys:10.10
+  attack:9.43
+  encryption:9.08
+  percent:8.98
+
+Topic 4:
+  clock:24.27
+  tor:21.73
+  time:20.35
+  servers:13.24
+  system:11.21
+  hidden:9.86
+  running:9.45
+  ntpd:8.69
+  ntp:7.89
+  quote:7.38
+
+K: 5, Log-Likelihood: -23148.223, Alpha: 11.000, Beta: 1.100

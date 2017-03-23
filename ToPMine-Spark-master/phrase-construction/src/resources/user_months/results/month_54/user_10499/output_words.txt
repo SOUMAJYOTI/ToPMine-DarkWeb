@@ -1,0 +1,61 @@
+Topic 0:
+  understanding:0.89
+  bit:0.73
+  rsa:0.69
+  security:0.63
+  elpaal:0.62
+  ecliptics:0.60
+  elgamal:0.56
+  dsa:0.55
+  keys:0.55
+  key:0.54
+
+Topic 1:
+  understanding:1.01
+  rsa:0.65
+  ecliptics:0.64
+  security:0.64
+  elpaal:0.62
+  bit:0.61
+  elgamal:0.49
+  key:0.49
+  dsa:0.48
+  keys:0.48
+
+Topic 2:
+  understanding:0.89
+  ecliptics:0.66
+  rsa:0.66
+  elpaal:0.64
+  security:0.64
+  bit:0.61
+  keys:0.52
+  dsa:0.51
+  elgamal:0.50
+  numbers:0.49
+
+Topic 3:
+  rsa:1.21
+  bit:1.18
+  numbers:0.89
+  key:0.86
+  elgamal:0.85
+  dsa:0.83
+  keys:0.83
+  security:0.52
+  elpaal:0.52
+  algorithms:0.52
+
+Topic 4:
+  bit:0.87
+  rsa:0.79
+  understanding:0.71
+  key:0.62
+  dsa:0.62
+  keys:0.62
+  numbers:0.61
+  ecliptics:0.60
+  elgamal:0.60
+  elpaal:0.59
+
+K: 5, Log-Likelihood: -456.637, Alpha: 11.000, Beta: 1.100

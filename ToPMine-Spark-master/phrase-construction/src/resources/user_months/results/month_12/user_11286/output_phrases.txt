@@ -1,0 +1,61 @@
+Topic 0:
+  dont:1.24
+  hidden:1.24
+  forums:1.23
+  wiki:1.22
+  vendors:0.54
+  individual:0.52
+  advice:0.52
+  bmr:0.52
+  deepdot:0.52
+  quote:0.52
+
+Topic 1:
+  hiddenwiki:0.75
+  warning:0.75
+  play:0.75
+  recognized:0.75
+  thought:0.75
+  stick:0.75
+  reply:0.75
+  shut:0.75
+  dm:0.75
+  people:0.75
+
+Topic 2:
+  drugmarket:0.74
+  market:0.61
+  reddit:0.57
+  dont:0.50
+  vendors:0.43
+  thread:0.36
+  link:0.36
+  site scam:0.36
+  find:0.35
+  good:0.34
+
+Topic 3:
+  dont:1.01
+  forums:0.75
+  wiki:0.75
+  hidden:0.73
+  vendors:0.51
+  drugmarket:0.46
+  gamble:0.36
+  shop:0.36
+  time:0.36
+  june:0.36
+
+Topic 4:
+  reddit:1.30
+  market:1.26
+  drugmarket:0.61
+  multiply:0.53
+  dont deepdotweb:0.52
+  doesnt:0.52
+  marketplace:0.52
+  marketplaces:0.52
+  feedback:0.52
+  chances:0.52
+
+K: 5, Log-Likelihood: -514.706, Alpha: 11.000, Beta: 1.100

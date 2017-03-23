@@ -1,0 +1,61 @@
+Topic 0:
+  service:1.07
+  clerk:1.06
+  paranoid:0.82
+  coinbase moneypak:0.48
+  cash:0.48
+  localbitcoins:0.48
+  depositing:0.48
+  talking:0.47
+  generally:0.47
+  suspicious:0.47
+
+Topic 1:
+  clerk:0.71
+  service:0.70
+  paranoid:0.67
+  banking:0.44
+  safely:0.44
+  suspicious:0.44
+  talking:0.44
+  generally:0.44
+  depositing:0.44
+  localbitcoins:0.44
+
+Topic 2:
+  phone:1.92
+  situation:1.92
+  money:1.92
+  sending:1.92
+  call:1.91
+  fraud:1.91
+  wu:1.77
+  stated:0.86
+  caller:0.86
+  flagged:0.86
+
+Topic 3:
+  purchase:1.95
+  bitcoins:1.95
+  moneypak:1.95
+  bitcoin:1.95
+  competely:0.88
+  reason:0.88
+  system:0.88
+  hassle:0.88
+  pay:0.88
+  fund:0.88
+
+Topic 4:
+  paranoid:0.45
+  wu:0.42
+  time:0.36
+  long:0.36
+  moneypaks:0.36
+  ill:0.36
+  brother:0.36
+  haha:0.36
+  drugs:0.35
+  clerk:0.34
+
+K: 5, Log-Likelihood: -730.370, Alpha: 11.000, Beta: 1.100

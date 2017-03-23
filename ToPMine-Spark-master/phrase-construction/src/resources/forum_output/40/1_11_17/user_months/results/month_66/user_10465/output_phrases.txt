@@ -1,0 +1,61 @@
+Topic 0:
+  coffee:0.34
+  buy:0.26
+  instant:0.26
+  alfred:0.26
+  store:0.26
+  sale:0.26
+  ass:0.26
+  escape:0.26
+  grocery:0.26
+  tastes:0.26
+
+Topic 1:
+  coffee:0.34
+  kettle:0.25
+  tea:0.25
+  remember:0.25
+  post:0.25
+  tang:0.25
+  cuppa:0.25
+  nice:0.25
+  dont:0.25
+  address:0.25
+
+Topic 2:
+  coffee:0.33
+  uptime:0.25
+  check:0.25
+  place:0.25
+  rock:0.25
+  hansa:0.25
+  bay:0.25
+  hours:0.25
+  concerned:0.25
+  couple:0.25
+
+Topic 3:
+  coffee:0.34
+  dont:0.25
+  nice:0.25
+  remember:0.25
+  tea:0.25
+  drink:0.25
+  tang:0.25
+  kettle:0.25
+  advice:0.25
+  cuppa:0.25
+
+Topic 4:
+  coffee:0.34
+  time:0.25
+  fine:0.25
+  mguys:0.25
+  unstick:0.25
+  thewse:0.25
+  drink:0.25
+  couple:0.25
+  alpha:0.25
+  bay:0.25
+
+K: 5, Log-Likelihood: -192.318, Alpha: 11.000, Beta: 1.100

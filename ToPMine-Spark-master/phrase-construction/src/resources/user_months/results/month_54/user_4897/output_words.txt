@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:0.62
+  transfer:0.58
+  localbitcoin:0.40
+  wigs:0.40
+  blond:0.40
+  tails:0.40
+  acquire:0.40
+  opsec:0.40
+  individual:0.20
+  tor:0.20
+
+Topic 1:
+  transfer:0.63
+  wallet:0.61
+  wigs:0.40
+  opsec:0.40
+  blond:0.40
+  acquire:0.40
+  tails:0.40
+  localbitcoin:0.40
+  forums:0.20
+  safe:0.20
+
+Topic 2:
+  wallet:0.59
+  transfer:0.58
+  localbitcoin:0.41
+  opsec:0.40
+  blond:0.40
+  acquire:0.40
+  tails:0.40
+  wigs:0.40
+  tor:0.20
+  details:0.20
+
+Topic 3:
+  transfer:0.62
+  wallet:0.58
+  acquire:0.41
+  tails:0.40
+  opsec:0.40
+  blond:0.40
+  localbitcoin:0.40
+  wigs:0.40
+  limit:0.20
+  lined:0.20
+
+Topic 4:
+  wallet:0.60
+  transfer:0.59
+  wigs:0.41
+  tails:0.40
+  localbitcoin:0.40
+  blond:0.40
+  opsec:0.40
+  acquire:0.40
+  low:0.20
+  banking:0.20
+
+K: 5, Log-Likelihood: -206.456, Alpha: 11.000, Beta: 1.100

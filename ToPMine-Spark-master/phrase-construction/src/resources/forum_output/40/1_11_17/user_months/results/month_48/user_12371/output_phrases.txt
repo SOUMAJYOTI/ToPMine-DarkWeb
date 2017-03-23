@@ -1,0 +1,61 @@
+Topic 0:
+  myyj:0.08
+  perumaan:0.08
+  menetetyt:0.08
+  ni:0.08
+  jotta:0.08
+  tuplatilauksen:0.08
+  coinit:0.08
+  takaisin:0.08
+  elikk:0.08
+  saan:0.08
+
+Topic 1:
+  takaisin:0.08
+  saan:0.08
+  vahingossa:0.08
+  tekem:0.08
+  perus:0.08
+  elikk:0.08
+  ytt:0.08
+  myyj:0.08
+  jotta:0.08
+  ni:0.08
+
+Topic 2:
+  vahingossa:0.08
+  miten:0.08
+  takaisin:0.08
+  ytt:0.08
+  ni:0.08
+  menetetyt:0.08
+  saan:0.08
+  tuplatilauksen:0.08
+  coinit:0.08
+  elikk:0.08
+
+Topic 3:
+  tekem:0.08
+  coinit:0.08
+  ytt:0.08
+  perus:0.08
+  jotta:0.08
+  elikk:0.08
+  miten:0.08
+  vahingossa:0.08
+  tuplatilauksen:0.08
+  saan:0.08
+
+Topic 4:
+  perumaan:0.08
+  myyj:0.08
+  tuplatilauksen:0.08
+  miten:0.08
+  perus:0.08
+  saan:0.08
+  coinit:0.08
+  elikk:0.08
+  menetetyt:0.08
+  vahingossa:0.08
+
+K: 5, Log-Likelihood: -16.690, Alpha: 11.000, Beta: 1.100

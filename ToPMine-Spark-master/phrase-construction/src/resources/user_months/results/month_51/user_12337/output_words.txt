@@ -1,0 +1,61 @@
+Topic 0:
+  link:0.40
+  personal:0.40
+  vendor:0.20
+  jack:0.20
+  provide:0.20
+  captain:0.20
+  advertise:0.20
+  price:0.20
+  marketplace:0.20
+  proofsplease:0.20
+
+Topic 1:
+  link:0.40
+  personal:0.39
+  verified:0.20
+  captain:0.20
+  proofsplease:0.20
+  marketplace:0.20
+  goods:0.20
+  price:0.20
+  provide:0.20
+  jack:0.20
+
+Topic 2:
+  personal:0.40
+  link:0.40
+  phone:0.20
+  desktop:0.20
+  ive:0.20
+  basically:0.20
+  info:0.20
+  business:0.20
+  thinki:0.20
+  seperation:0.20
+
+Topic 3:
+  personal:0.40
+  link:0.40
+  prefer:0.20
+  difficult:0.20
+  practice:0.20
+  remote:0.20
+  app:0.20
+  phone:0.20
+  info:0.20
+  point:0.20
+
+Topic 4:
+  personal:0.41
+  link:0.40
+  ive:0.20
+  app:0.20
+  seperate:0.20
+  basically:0.20
+  seperation:0.20
+  ipad:0.20
+  years:0.20
+  practice:0.20
+
+K: 5, Log-Likelihood: -108.186, Alpha: 11.000, Beta: 1.100

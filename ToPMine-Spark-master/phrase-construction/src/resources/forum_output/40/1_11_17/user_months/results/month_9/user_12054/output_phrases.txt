@@ -1,0 +1,61 @@
+Topic 0:
+  worried:0.62
+  tor:0.59
+  coins:0.52
+  clearnet:0.46
+  feel:0.46
+  wallet:0.36
+  le:0.36
+  blockchain:0.35
+  anonymous:0.32
+  safe:0.32
+
+Topic 1:
+  tor:0.67
+  worried:0.66
+  coins:0.57
+  clearnet:0.52
+  feel:0.51
+  wallet:0.40
+  blockchain:0.38
+  le:0.38
+  safe:0.34
+  anonymous:0.34
+
+Topic 2:
+  wallet:0.60
+  feel:0.43
+  clearnet:0.43
+  march:0.42
+  thedude:0.38
+  coins:0.35
+  main:0.35
+  source:0.35
+  camp:0.35
+  secure:0.35
+
+Topic 3:
+  agora:2.66
+  fog:1.62
+  attack:1.62
+  started:0.67
+  theory:0.67
+  suffering:0.67
+  influx:0.67
+  matters:0.67
+  peace:0.67
+  bitcoin:0.67
+
+Topic 4:
+  wallet:0.53
+  feel:0.51
+  clearnet:0.51
+  tor:0.47
+  worried:0.46
+  coins:0.44
+  march:0.39
+  blockchain:0.37
+  le:0.37
+  surprise:0.34
+
+K: 5, Log-Likelihood: -646.831, Alpha: 11.000, Beta: 1.100

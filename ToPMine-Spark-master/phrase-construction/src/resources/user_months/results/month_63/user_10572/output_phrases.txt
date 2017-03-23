@@ -1,0 +1,61 @@
+Topic 0:
+  explain:0.00
+  select:0.00
+  software:0.00
+  developers:0.00
+  allowed:0.00
+  pv:0.00
+  ago:0.00
+  fair:0.00
+  plague:0.00
+  bit:0.00
+
+Topic 1:
+  explain:0.00
+  select:0.00
+  software:0.00
+  developers:0.00
+  allowed:0.00
+  pv:0.00
+  ago:0.00
+  fair:0.00
+  plague:0.00
+  bit:0.00
+
+Topic 2:
+  explain:0.00
+  select:0.00
+  software:0.00
+  developers:0.00
+  allowed:0.00
+  pv:0.00
+  ago:0.00
+  fair:0.00
+  plague:0.00
+  bit:0.00
+
+Topic 3:
+  explain:0.00
+  select:0.00
+  software:0.00
+  developers:0.00
+  allowed:0.00
+  pv:0.00
+  ago:0.00
+  fair:0.00
+  plague:0.00
+  bit:0.00
+
+Topic 4:
+  explain:0.00
+  select:0.00
+  software:0.00
+  developers:0.00
+  allowed:0.00
+  pv:0.00
+  ago:0.00
+  fair:0.00
+  plague:0.00
+  bit:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

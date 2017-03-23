@@ -1,0 +1,61 @@
+Topic 0:
+  youll:2.20
+  vm:2.20
+  built:2.19
+  users:2.19
+  system:1.27
+  encrypting:0.98
+  customizations:0.98
+  install:0.98
+  workstaton:0.98
+  kde:0.98
+
+Topic 1:
+  host:2.28
+  os:2.28
+  clamav:1.05
+  learning:1.05
+  viruses:1.05
+  container:1.05
+  ive:1.05
+  hard:1.05
+  nice:1.05
+  isp:1.05
+
+Topic 2:
+  computers:1.26
+  whonix:0.73
+  pretty:0.70
+  systems:0.63
+  opinion:0.63
+  guys:0.63
+  official:0.56
+  test:0.56
+  time:0.56
+  told:0.56
+
+Topic 3:
+  computers:0.77
+  whonix:0.56
+  systems:0.54
+  guys:0.53
+  opinion:0.52
+  pretty:0.51
+  system:0.45
+  good:0.44
+  unfix:0.39
+  base:0.39
+
+Topic 4:
+  whonix:0.50
+  based:0.49
+  design:0.49
+  system:0.47
+  systems:0.40
+  lot:0.40
+  honestly:0.40
+  kind:0.40
+  progresses:0.40
+  good secure:0.40
+
+K: 5, Log-Likelihood: -787.229, Alpha: 11.000, Beta: 1.100

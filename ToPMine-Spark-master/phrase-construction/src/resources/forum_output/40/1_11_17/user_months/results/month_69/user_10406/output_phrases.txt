@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:8.68
+  servers:8.26
+  affect:5.77
+  trust:5.77
+  nodes:5.77
+  sense:5.77
+  clients:5.77
+  future:5.77
+  encompass:5.77
+  btc:5.77
+
+Topic 1:
+  dice:19.86
+  diceware list:14.89
+  roll dice:14.89
+  security:7.88
+  diceware:7.38
+  passphrases:5.76
+  creating:5.76
+  download:5.66
+  set:4.99
+  memorize:4.95
+
+Topic 2:
+  bits:9.96
+  tor:9.62
+  time bridges:7.37
+  random bridges:5.74
+  filled:5.74
+  tcp:5.72
+  log:5.72
+  time:4.93
+  site:4.86
+  capcha:4.86
+
+Topic 3:
+  bridges:9.30
+  tails:8.20
+  electrum:7.25
+  bug:5.74
+  upgrade:5.67
+  didnt:4.90
+  insight:4.90
+  channels:4.90
+  snaky:4.90
+  attack:4.90
+
+Topic 4:
+  half:5.76
+  ten diceware:5.76
+  explain:5.76
+  solution:5.76
+  quantum:5.76
+  bits bits:5.76
+  searching:5.76
+  keyspace:5.76
+  good:5.22
+  heads:4.92
+
+K: 5, Log-Likelihood: -11005.039, Alpha: 11.000, Beta: 1.100

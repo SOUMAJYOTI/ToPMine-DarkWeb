@@ -1,0 +1,61 @@
+Topic 0:
+  remember:5.89
+  life:5.89
+  light:4.41
+  lsd:3.89
+  worth:3.89
+  man:3.89
+  stick:3.89
+  people:2.47
+  ve:2.40
+  times:1.94
+
+Topic 1:
+  healing:8.96
+  love:8.43
+  ootp:5.22
+  brother:3.75
+  prayers:2.50
+  send:2.30
+  pm:2.25
+  suggesting:2.25
+  evening:2.24
+  sunday:2.24
+
+Topic 2:
+  love:2.51
+  positive:2.03
+  vibes:1.99
+  ootp:1.44
+  time:1.29
+  est:1.25
+  timezone:1.18
+  bud:1.07
+  recovery:1.07
+  hang:1.07
+
+Topic 3:
+  clock:11.20
+  forum:9.37
+  july:6.36
+  time:5.64
+  settings:4.20
+  offset:4.05
+  dateforum:3.54
+  adjust:3.54
+  account:3.53
+  sync:3.53
+
+Topic 4:
+  est:4.28
+  time:4.14
+  profile:2.48
+  set:1.98
+  love:1.80
+  quote:1.77
+  sillywabbit:1.74
+  hey:1.61
+  pct:1.61
+  read:1.59
+
+K: 5, Log-Likelihood: -2286.839, Alpha: 11.000, Beta: 1.100

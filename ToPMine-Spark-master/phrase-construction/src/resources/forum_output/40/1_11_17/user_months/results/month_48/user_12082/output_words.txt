@@ -1,0 +1,61 @@
+Topic 0:
+  users:0.63
+  deposit:0.56
+  deposits:0.47
+  update:0.47
+  agra:0.47
+  delayed:0.43
+  backlog:0.43
+  marketplace:0.39
+  ag:0.32
+  plate:0.25
+
+Topic 1:
+  users:0.60
+  marketplace:0.43
+  ag:0.41
+  deposits:0.39
+  agra:0.39
+  update:0.39
+  backlog:0.38
+  delayed:0.38
+  deposit:0.34
+  accounts:0.21
+
+Topic 2:
+  users:0.54
+  ag:0.52
+  backlog:0.41
+  delayed:0.40
+  agra:0.31
+  deposits:0.31
+  update:0.30
+  marketplace:0.30
+  deposit:0.30
+  skywalker:0.24
+
+Topic 3:
+  users:0.63
+  marketplace:0.49
+  update:0.45
+  agra:0.45
+  deposits:0.44
+  deposit:0.40
+  delayed:0.38
+  backlog:0.38
+  ag:0.34
+  expecting:0.23
+
+Topic 4:
+  users:0.60
+  delayed:0.41
+  backlog:0.41
+  ag:0.40
+  deposit:0.40
+  deposits:0.39
+  agra:0.39
+  update:0.39
+  marketplace:0.38
+  fuck:0.20
+
+K: 5, Log-Likelihood: -451.639, Alpha: 11.000, Beta: 1.100

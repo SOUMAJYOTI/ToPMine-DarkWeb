@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:2.67
+  jo:2.31
+  block:2.27
+  dr:2.26
+  bj:2.25
+  bn:2.22
+  public:2.13
+  key:1.48
+  gdtaxoapxd:1.11
+  cbmge:1.10
+
+Topic 1:
+  key:22.43
+  import:13.66
+  keys:12.29
+  november:10.71
+  digitaldong:7.90
+  public:7.62
+  profile:5.84
+  quote:5.31
+  work:4.99
+  copy:4.80
+
+Topic 2:
+  btc:7.87
+  people:5.29
+  card:4.93
+  september:4.08
+  sites:3.92
+  days:3.86
+  quote:3.37
+  major:2.95
+  digitaldong:2.94
+  buy:2.74
+
+Topic 3:
+  pgp:2.78
+  public:1.99
+  bn:1.74
+  bj:1.71
+  dr:1.70
+  block:1.70
+  jo:1.65
+  key:1.35
+  eljn:0.95
+  mcuvw:0.94
+
+Topic 4:
+  gpg:7.55
+  quote:6.81
+  usb:5.83
+  tang:4.89
+  copy:3.93
+  work:3.71
+  digitaldong:3.65
+  paste:3.64
+  win:3.38
+  pm:3.22
+
+K: 5, Log-Likelihood: -7492.051, Alpha: 11.000, Beta: 1.100

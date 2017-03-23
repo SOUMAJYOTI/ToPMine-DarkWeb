@@ -1,0 +1,61 @@
+Topic 0:
+  truecrypt:25.56
+  attack:19.67
+  software:18.62
+  computer:17.76
+  people:17.61
+  data:17.14
+  gass:16.98
+  device:15.91
+  radio:14.70
+  security:14.33
+
+Topic 1:
+  malware:29.03
+  police:19.14
+  huskins:19.00
+  phone:17.40
+  quinn:16.99
+  muller:16.00
+  march:13.52
+  dino:12.98
+  abduction:12.98
+  news:12.02
+
+Topic 2:
+  quote:22.10
+  network:18.45
+  good:17.65
+  device:17.58
+  july:17.08
+  firmware:15.17
+  empire:14.91
+  amt:13.84
+  nice:13.33
+  security:13.23
+
+Topic 3:
+  xkeyscore:72.99
+  traffic:50.05
+  system:39.75
+  data:32.24
+  nsa:25.47
+  documents:23.60
+  web:23.32
+  analysts:22.48
+  surveillance:20.98
+  users:19.07
+
+Topic 4:
+  bios:47.09
+  windows:27.98
+  system:26.43
+  intel:23.60
+  left:20.49
+  password:19.83
+  dont:18.92
+  install:17.17
+  security:16.49
+  drives:15.87
+
+K: 5, Log-Likelihood: -81019.964, Alpha: 11.000, Beta: 1.100

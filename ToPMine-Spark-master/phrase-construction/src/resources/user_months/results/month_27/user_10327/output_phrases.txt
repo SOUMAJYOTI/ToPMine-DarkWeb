@@ -1,0 +1,61 @@
+Topic 0:
+  secure:0.28
+  secuirty:0.14
+  rely:0.14
+  designed:0.14
+  measure:0.14
+  fail:0.14
+  long:0.14
+  protect:0.14
+  resist:0.14
+  fnu:0.14
+
+Topic 1:
+  secure:0.28
+  resist:0.14
+  long:0.14
+  designed:0.14
+  fail:0.14
+  measure:0.14
+  rely:0.14
+  protect:0.14
+  secuirty:0.14
+  smash smash:0.14
+
+Topic 2:
+  secure:0.28
+  easily:0.14
+  smash:0.14
+  plenty:0.14
+  bedroom:0.14
+  evilgrin:0.14
+  smashy:0.14
+  september:0.14
+  wall:0.14
+  time:0.14
+
+Topic 3:
+  secure:0.28
+  time:0.14
+  september:0.14
+  computer:0.14
+  wall:0.14
+  bedroom:0.14
+  isnt:0.14
+  hope:0.14
+  joke:0.14
+  smash:0.14
+
+Topic 4:
+  secure:0.28
+  joke:0.14
+  computer:0.14
+  bedroom:0.14
+  wall:0.14
+  evilgrin:0.14
+  smashy:0.14
+  plenty:0.14
+  smash:0.14
+  isnt:0.14
+
+K: 5, Log-Likelihood: -72.448, Alpha: 11.000, Beta: 1.100

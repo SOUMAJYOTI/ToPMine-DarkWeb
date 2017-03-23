@@ -1,0 +1,61 @@
+Topic 0:
+  february:3.05
+  invite:1.56
+  shponglestarship:1.40
+  guys:1.23
+  fire:1.21
+  pmquote:1.00
+  quote:0.92
+  pmanyone:0.91
+  sssssspmed:0.89
+  missed:0.84
+
+Topic 1:
+  invite:2.08
+  february:1.99
+  shponglestarship:1.32
+  great:1.19
+  pmquote:0.97
+  pmanyone:0.96
+  sssssspmed:0.95
+  quote:0.93
+  issue:0.73
+  testerino:0.63
+
+Topic 2:
+  great:2.70
+  vendors:2.30
+  issue:1.11
+  ive:1.00
+  abx:0.97
+  invite:0.90
+  moment:0.87
+  february:0.85
+  problem:0.82
+  overlay:0.56
+
+Topic 3:
+  vendors:3.72
+  abx:2.47
+  great:2.19
+  issue:1.51
+  problem:1.30
+  moment:1.27
+  ve:1.06
+  options:1.04
+  moved:1.03
+  kittenhuffer:1.03
+
+Topic 4:
+  key:2.85
+  multisig:2.67
+  keypair:1.85
+  create:1.85
+  public:1.85
+  works:1.42
+  supports:1.17
+  find:1.15
+  file:0.86
+  enabling:0.86
+
+K: 5, Log-Likelihood: -1245.009, Alpha: 11.000, Beta: 1.100

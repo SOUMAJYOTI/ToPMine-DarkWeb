@@ -1,0 +1,61 @@
+Topic 0:
+  sr:16.17
+  pritel:12.24
+  dox:10.05
+  bbmc:6.93
+  quote:6.71
+  xsposer:6.28
+  posted:6.06
+  defcon:5.65
+  btc:5.50
+  february:5.48
+
+Topic 1:
+  sr:21.16
+  hiniguel:7.06
+  people:6.99
+  obvious:6.40
+  defcon:6.12
+  quote:5.60
+  dpr:5.48
+  evidence:4.90
+  february:4.63
+  leaving:4.21
+
+Topic 2:
+  community:51.21
+  time:36.03
+  staff:30.31
+  people:28.08
+  team:27.89
+  system:24.51
+  hiniguel:23.75
+  market:23.20
+  forum:21.97
+  money:20.88
+
+Topic 3:
+  evidence:8.56
+  coins:7.53
+  good:5.86
+  stolen:5.74
+  quote:4.92
+  mess:4.73
+  decided:4.59
+  hacker:4.56
+  interesting:3.99
+  theory:3.73
+
+Topic 4:
+  wallet:55.69
+  defcon:20.21
+  sr:19.48
+  money:18.55
+  transactions:18.28
+  thief:17.16
+  bitcoin:15.18
+  wallets:14.84
+  mtgox:14.62
+  funds:14.52
+
+K: 5, Log-Likelihood: -45500.929, Alpha: 11.000, Beta: 1.100

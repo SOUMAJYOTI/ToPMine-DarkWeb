@@ -1,0 +1,61 @@
+Topic 0:
+  agora:3.46
+  tmg:3.42
+  april:3.13
+  vendors:3.03
+  quote:3.00
+  middle:2.35
+  set:1.90
+  rotation:1.53
+  markets:1.52
+  open:1.39
+
+Topic 1:
+  nucleus:10.57
+  favorite:7.30
+  login:5.50
+  everytime:5.47
+  interface:3.68
+  user:3.68
+  friendly:3.67
+  easy:3.45
+  hobbit:3.45
+  elve:3.44
+
+Topic 2:
+  shopping:3.89
+  cart:3.89
+  time:3.59
+  blackbank:2.76
+  listings:2.70
+  agora:2.63
+  buyers:2.59
+  vendors:2.52
+  middle:2.44
+  earth:2.29
+
+Topic 3:
+  trust:9.78
+  forum:5.73
+  based:5.71
+  vendor:3.93
+  troubles:3.85
+  open:3.75
+  people:3.66
+  communicate:3.66
+  risk:3.66
+  league:3.66
+
+Topic 4:
+  earth:7.43
+  middle:7.24
+  agora:7.12
+  link:4.28
+  mind:3.21
+  sight:3.16
+  reliability:3.16
+  dropping:3.16
+  unfortunate:3.14
+  market:3.08
+
+K: 5, Log-Likelihood: -2915.889, Alpha: 11.000, Beta: 1.100

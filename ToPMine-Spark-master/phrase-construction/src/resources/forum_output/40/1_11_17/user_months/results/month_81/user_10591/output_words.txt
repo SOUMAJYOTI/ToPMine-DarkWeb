@@ -1,0 +1,61 @@
+Topic 0:
+  link:0.40
+  search:0.20
+  remove:0.20
+  outraged:0.20
+  website:0.20
+  sticky:0.20
+  community:0.20
+  current:0.20
+  update:0.20
+  url:0.20
+
+Topic 1:
+  link:0.40
+  focus:0.20
+  post:0.20
+  understood:0.20
+  remove:0.20
+  forums:0.20
+  website:0.20
+  community:0.20
+  update:0.20
+  sticky:0.20
+
+Topic 2:
+  link:0.40
+  search:0.20
+  understood:0.20
+  current:0.20
+  sticky:0.20
+  post:0.20
+  forums:0.20
+  update:0.20
+  community:0.20
+  outraged:0.20
+
+Topic 3:
+  link:0.40
+  url:0.20
+  outraged:0.20
+  focus:0.20
+  website:0.20
+  community:0.20
+  update:0.20
+  current:0.20
+  understood:0.20
+  post:0.20
+
+Topic 4:
+  link:0.40
+  current:0.20
+  remove:0.20
+  post:0.20
+  forums:0.20
+  url:0.20
+  sticky:0.20
+  update:0.20
+  focus:0.20
+  outraged:0.20
+
+K: 5, Log-Likelihood: -39.262, Alpha: 11.000, Beta: 1.100

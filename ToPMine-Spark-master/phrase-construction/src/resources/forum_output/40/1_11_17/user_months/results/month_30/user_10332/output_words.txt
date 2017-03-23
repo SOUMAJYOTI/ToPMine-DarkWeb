@@ -1,0 +1,61 @@
+Topic 0:
+  admin:0.81
+  sr:0.57
+  current:0.42
+  silkroad:0.41
+  works:0.41
+  road:0.40
+  silk:0.40
+  onionshop:0.21
+  pmask:0.21
+  year:0.21
+
+Topic 1:
+  admin:0.84
+  sr:0.59
+  works:0.41
+  silkroad:0.40
+  current:0.40
+  road:0.40
+  silk:0.40
+  november:0.20
+  potential:0.20
+  onionshop:0.20
+
+Topic 2:
+  admin:0.78
+  sr:0.58
+  road:0.41
+  silkroad:0.41
+  silk:0.41
+  current:0.41
+  works:0.40
+  freckled:0.20
+  november:0.20
+  himor:0.20
+
+Topic 3:
+  admin:0.71
+  sr:0.69
+  silk:0.39
+  road:0.39
+  current:0.37
+  works:0.36
+  silkroad:0.36
+  active:0.21
+  fuck:0.21
+  wait:0.21
+
+Topic 4:
+  admin:0.85
+  sr:0.57
+  works:0.42
+  silkroad:0.41
+  current:0.41
+  silk:0.40
+  road:0.40
+  quote:0.21
+  november:0.21
+  freckled:0.21
+
+K: 5, Log-Likelihood: -189.963, Alpha: 11.000, Beta: 1.100

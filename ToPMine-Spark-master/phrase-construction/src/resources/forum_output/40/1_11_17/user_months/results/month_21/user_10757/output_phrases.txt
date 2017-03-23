@@ -1,0 +1,61 @@
+Topic 0:
+  site:0.31
+  july:0.31
+  funds:0.31
+  trust:0.20
+  wallets:0.20
+  hub:0.20
+  warning:0.20
+  quote:0.20
+  putting:0.20
+  wanted:0.20
+
+Topic 1:
+  site:0.31
+  funds:0.31
+  july:0.31
+  wanted:0.20
+  southeastern:0.20
+  pmhow:0.20
+  thought:0.20
+  rah:0.20
+  letting:0.20
+  marketplace:0.20
+
+Topic 2:
+  site:0.31
+  july:0.31
+  funds:0.31
+  endorsed:0.20
+  putting:0.20
+  trust:0.20
+  thread:0.20
+  ship alice character mystery:0.20
+  letting:0.20
+  quote:0.20
+
+Topic 3:
+  funds:0.31
+  july:0.31
+  site:0.31
+  quote:0.20
+  lost:0.20
+  grab:0.20
+  people funds:0.20
+  pmhow:0.20
+  thread:0.20
+  southeastern:0.20
+
+Topic 4:
+  july:0.31
+  funds:0.31
+  site:0.31
+  wallets:0.20
+  ship alice character mystery:0.20
+  lost:0.20
+  wanted:0.20
+  people funds:0.20
+  warning:0.20
+  marketplace:0.20
+
+K: 5, Log-Likelihood: -161.216, Alpha: 11.000, Beta: 1.100

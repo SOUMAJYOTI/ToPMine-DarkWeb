@@ -1,0 +1,61 @@
+Topic 0:
+  market:10.64
+  product:5.66
+  markets days:5.66
+  transactions:5.66
+  find vendor:5.66
+  feedback:5.66
+  fall:5.66
+  pause:3.94
+  good:3.43
+  isnt:3.35
+
+Topic 1:
+  aethon october pmquote:11.39
+  pops october pmquote:11.39
+  job assume people stand:10.42
+  service cheers aethon:10.42
+  edit thought dammed posts:10.42
+  theresident october amgreat:9.96
+  sigaint pro:7.55
+  worry aethon worry read:7.55
+  dont worry:7.55
+  resident ill aethon worry:7.55
+
+Topic 2:
+  tor:6.53
+  hidden services:6.33
+  key passphrase:5.65
+  explain:5.65
+  login:5.65
+  database:5.65
+  question:5.63
+  step:5.59
+  video:5.59
+  moment entry points things:5.42
+
+Topic 3:
+  work:8.40
+  markets:8.31
+  market:6.57
+  happy contiue trading amount:6.31
+  layed table great azores:6.31
+  interested opinions shifting market:6.31
+  assume vulnerabilities apply equally:6.31
+  running markets:6.31
+  vulnerability:5.99
+  hidden service:5.64
+
+Topic 4:
+  email:11.26
+  hidden services:10.30
+  le:6.38
+  article:5.65
+  anonymizing:5.65
+  exploitable:5.65
+  issues:5.65
+  de:5.65
+  anon:5.60
+  knew:5.47
+
+K: 5, Log-Likelihood: -13374.139, Alpha: 11.000, Beta: 1.100

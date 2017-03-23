@@ -1,0 +1,61 @@
+Topic 0:
+  quantum:7.85
+  power:4.61
+  computers:4.60
+  quartus:4.12
+  aes:3.96
+  pgp:3.95
+  commerce:2.96
+  bit:2.92
+  order:2.91
+  systems:2.82
+
+Topic 1:
+  key:10.56
+  encrypt:6.89
+  message:6.31
+  multiply:4.20
+  recipients:3.91
+  symmetry:3.91
+  quote:3.27
+  gpg:3.27
+  data:2.36
+  clearnet:2.25
+
+Topic 2:
+  data:15.94
+  time:7.41
+  encrypted:6.37
+  computers:5.72
+  encryption:4.95
+  future:4.90
+  hardware:4.89
+  encrypting:4.33
+  form:4.17
+  le:4.17
+
+Topic 3:
+  october:6.41
+  work:6.07
+  quote:5.24
+  select:5.23
+  bencousins:4.75
+  command:3.65
+  gpa:3.52
+  dont:3.18
+  web:2.92
+  code:2.81
+
+Topic 4:
+  november:13.60
+  country:7.80
+  start:7.35
+  millions:6.77
+  arresting:5.74
+  controlled:5.74
+  ordered:5.74
+  substances:5.74
+  darknet:5.74
+  people:5.71
+
+K: 5, Log-Likelihood: -5283.210, Alpha: 11.000, Beta: 1.100

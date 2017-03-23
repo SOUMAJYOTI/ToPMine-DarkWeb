@@ -1,0 +1,61 @@
+Topic 0:
+  january:7.03
+  amquote:5.74
+  weed:5.35
+  excuses:4.98
+  half:4.87
+  vendor:4.19
+  lol:4.09
+  gram:3.67
+  winner:3.63
+  dodongo:3.44
+
+Topic 1:
+  january:5.32
+  vendor:5.05
+  fatherted:3.36
+  quote:2.96
+  hacked:2.38
+  guy:1.85
+  amquote:1.71
+  weed:1.57
+  click:1.44
+  link:1.44
+
+Topic 2:
+  nucleus:13.02
+  message:11.86
+  account:8.32
+  work:6.62
+  dont:6.26
+  mods:5.84
+  receive:5.83
+  peoples:5.83
+  democrat:5.82
+  markets:5.82
+
+Topic 3:
+  january:6.92
+  gram:6.17
+  excuses:5.88
+  half:5.12
+  dodongo:4.65
+  winner:3.54
+  amquote:3.35
+  amount:3.23
+  weak:3.19
+  plague:3.18
+
+Topic 4:
+  account:12.50
+  problem:8.36
+  hacked:8.05
+  hacking:7.80
+  reddit:6.86
+  malware:4.85
+  vending:3.85
+  order:3.27
+  message:2.99
+  stupidity:2.84
+
+K: 5, Log-Likelihood: -3770.853, Alpha: 11.000, Beta: 1.100

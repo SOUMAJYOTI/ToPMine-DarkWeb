@@ -1,0 +1,61 @@
+Topic 0:
+  concentrate:0.36
+  nz:0.31
+  cool stuff:0.31
+  paper:0.22
+  links:0.21
+  years:0.21
+  zealand:0.21
+  supermarket:0.21
+  joke:0.21
+  christchurch:0.21
+
+Topic 1:
+  concentrate:0.37
+  cool stuff:0.31
+  nz:0.31
+  paper:0.22
+  trolltergeist:0.20
+  group:0.20
+  auour:0.20
+  vegemite:0.20
+  sh:0.20
+  ditch:0.20
+
+Topic 2:
+  concentrate:0.36
+  nz:0.31
+  cool stuff:0.31
+  paper:0.22
+  setting:0.20
+  morning:0.20
+  reading:0.20
+  high:0.20
+  jump:0.20
+  bitcoin:0.20
+
+Topic 3:
+  concentrate:0.38
+  cool stuff:0.30
+  nz:0.30
+  paper:0.22
+  trolltergeist:0.21
+  sh:0.20
+  auour:0.20
+  leap:0.20
+  times:0.20
+  group:0.20
+
+Topic 4:
+  concentrate:0.37
+  cool stuff:0.31
+  nz:0.31
+  paper:0.22
+  trolltergeist:0.20
+  pace:0.20
+  accepting:0.20
+  swing:0.20
+  vegemite:0.20
+  ago:0.20
+
+K: 5, Log-Likelihood: -198.702, Alpha: 11.000, Beta: 1.100

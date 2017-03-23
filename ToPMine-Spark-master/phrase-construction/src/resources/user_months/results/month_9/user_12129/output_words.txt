@@ -1,0 +1,61 @@
+Topic 0:
+  direct:0.41
+  system:0.20
+  captain:0.20
+  pm:0.20
+  buy:0.20
+  purpose:0.20
+  bitcoins:0.20
+  jack:0.20
+  people:0.20
+  usdplease:0.20
+
+Topic 1:
+  direct:0.40
+  jack:0.20
+  message:0.20
+  trade:0.20
+  bitcoins:0.20
+  papa:0.20
+  people:0.20
+  pm:0.20
+  purpose:0.20
+  buy:0.20
+
+Topic 2:
+  direct:0.40
+  kind:0.20
+  boogie:0.20
+  sketchylolkinda:0.20
+  pmthis:0.20
+  quote:0.20
+  sketchy:0.20
+  kinda:0.20
+  email:0.20
+  system:0.20
+
+Topic 3:
+  direct:0.40
+  kinda:0.20
+  sketchy:0.20
+  sketchylolkinda:0.20
+  pmthis:0.20
+  quote:0.20
+  boogie:0.20
+  kind:0.20
+  trade:0.20
+  people:0.20
+
+Topic 4:
+  direct:0.39
+  quote:0.20
+  kind:0.20
+  pmthis:0.20
+  sketchylolkinda:0.20
+  boogie:0.20
+  kinda:0.20
+  sketchy:0.20
+  jack:0.20
+  message:0.20
+
+K: 5, Log-Likelihood: -66.645, Alpha: 11.000, Beta: 1.100

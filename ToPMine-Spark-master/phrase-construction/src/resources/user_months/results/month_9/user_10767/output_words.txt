@@ -1,0 +1,61 @@
+Topic 0:
+  flash:10.03
+  user:8.32
+  tor:8.05
+  tools:6.52
+  average:6.33
+  disabled:6.29
+  online:5.85
+  article:5.15
+  simply:4.19
+  source:3.99
+
+Topic 1:
+  tor:11.10
+  microsoft:4.78
+  flash:4.53
+  security:4.19
+  browser:3.97
+  version:3.05
+  add:3.02
+  ons:2.99
+  people:2.93
+  completely:2.88
+
+Topic 2:
+  tor:3.57
+  article:2.98
+  party:2.72
+  browser:1.78
+  leaks:1.17
+  apps:1.16
+  articles:1.15
+  thought:1.15
+  bundle:1.10
+  se:1.07
+
+Topic 3:
+  enable:3.97
+  article:2.11
+  flash:2.07
+  user:1.93
+  case:1.12
+  owockeznan:1.11
+  check:1.11
+  click:1.11
+  darknet:1.09
+  assumption:0.98
+
+Topic 4:
+  services:5.95
+  hidden:5.95
+  companies:3.96
+  leo:3.96
+  access:3.09
+  private:2.96
+  search:2.96
+  disruption:2.96
+  terms:2.96
+  dnm:2.96
+
+K: 5, Log-Likelihood: -3615.058, Alpha: 11.000, Beta: 1.100

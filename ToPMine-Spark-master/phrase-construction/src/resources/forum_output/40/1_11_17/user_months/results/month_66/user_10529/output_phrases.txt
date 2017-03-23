@@ -1,0 +1,61 @@
+Topic 0:
+  tor:9.22
+  tails:7.14
+  set:5.94
+  option imo os support:5.55
+  conjunction tails:5.55
+  option route agreed vpn:5.55
+  vpon service devs designed:5.55
+  isolation:5.18
+  software:5.18
+  incorporate:5.18
+
+Topic 1:
+  easily:4.95
+  password:4.34
+  baffled:4.34
+  certificate:4.34
+  day:4.34
+  crashing:4.34
+  provide:4.34
+  oven:4.34
+  format:4.34
+  denying:4.34
+
+Topic 2:
+  vpn:12.19
+  security:8.47
+  tails:7.36
+  tor:5.38
+  good:5.19
+  custom:5.19
+  nodes:5.19
+  trustworthy:5.19
+  strong:5.19
+  opsec:5.19
+
+Topic 3:
+  select:9.51
+  persistence:8.75
+  amnesia tor browserto:8.75
+  persistent risk:8.75
+  message:7.76
+  file:5.69
+  terminal:5.69
+  save:5.29
+  copy:5.16
+  filename:5.16
+
+Topic 4:
+  signature:6.51
+  longer:5.67
+  router dedicated middlebox set:5.56
+  router mb fire:5.56
+  vpn doesnt logs:5.55
+  talking:5.17
+  felt:5.17
+  js:5.14
+  tambourine january pmwhat vpon:4.81
+  tails burner connect:4.72
+
+K: 5, Log-Likelihood: -8246.127, Alpha: 11.000, Beta: 1.100

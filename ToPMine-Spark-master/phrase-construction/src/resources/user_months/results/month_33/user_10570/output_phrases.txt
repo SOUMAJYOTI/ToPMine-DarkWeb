@@ -1,0 +1,61 @@
+Topic 0:
+  mind:2.67
+  os:1.47
+  job:1.22
+  havent:1.22
+  bitin:1.22
+  thought:1.22
+  bitkey:1.22
+  transactions:1.22
+  alternative:1.22
+  idea:1.22
+
+Topic 1:
+  relays:4.41
+  access blockchain:4.41
+  onion:4.41
+  exit:2.91
+  number:2.91
+  completed:1.41
+  rext:1.41
+  mitm:1.41
+  challenge:1.41
+  functions:1.41
+
+Topic 2:
+  blockchain onion:1.50
+  white:1.06
+  exceeded:1.05
+  hmmm:1.05
+  access onion:1.05
+  quota:1.05
+  server:1.05
+  limit:1.05
+  bandwidth:1.05
+  reached:1.05
+
+Topic 3:
+  persistence volume:2.51
+  volume:2.32
+  persistence:1.67
+  tails:1.40
+  tedious:1.17
+  unable:1.16
+  jack:1.16
+  vary:1.16
+  good:1.16
+  checked:1.16
+
+Topic 4:
+  persistence:1.67
+  persistence volume:1.57
+  tails:1.08
+  reximusmaximus:1.02
+  wanted:0.99
+  merr:0.95
+  fine:0.86
+  thing:0.86
+  data:0.86
+  backed:0.86
+
+K: 5, Log-Likelihood: -1183.242, Alpha: 11.000, Beta: 1.100

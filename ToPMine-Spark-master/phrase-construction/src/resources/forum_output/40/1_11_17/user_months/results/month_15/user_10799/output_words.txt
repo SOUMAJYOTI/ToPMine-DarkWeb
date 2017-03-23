@@ -1,0 +1,61 @@
+Topic 0:
+  protonmail:4.83
+  good:1.26
+  order:1.14
+  system:1.03
+  code:0.98
+  browser:0.94
+  access:0.91
+  email:0.86
+  user:0.85
+  time:0.84
+
+Topic 1:
+  protonmail:27.90
+  user:10.01
+  privacy:8.72
+  encryption:6.74
+  attack:6.71
+  attacker:6.67
+  secure:6.56
+  data:5.82
+  surveillance:5.81
+  simply:4.80
+
+Topic 2:
+  mail:4.02
+  proton:3.88
+  journalist:2.74
+  nsa:2.63
+  nice:1.95
+  secret:1.95
+  boogie:1.90
+  article:1.90
+  dark:1.89
+  sleep:1.89
+
+Topic 3:
+  reply:18.93
+  pm:7.93
+  admin:7.17
+  secure:5.87
+  protonmail:4.91
+  solutions:3.93
+  edward:3.93
+  privacy:3.66
+  solution:3.36
+  don:3.00
+
+Topic 4:
+  protonmail:1.31
+  good:0.91
+  people:0.89
+  email:0.87
+  thing:0.87
+  ch:0.85
+  access:0.80
+  exposure:0.77
+  year:0.76
+  ago:0.76
+
+K: 5, Log-Likelihood: -5128.698, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  digital signatures depend rsa:0.00
+  reason:0.00
+  depend:0.00
+  document fingerprint created:0.00
+  sign document fingerprint created:0.00
+  digital signatures depend:0.00
+  password:0.00
+  attacks signature representation document:0.00
+  signatures depend:0.00
+  smaller security digital signatures:0.00
+
+Topic 1:
+  digital signatures depend rsa:0.00
+  reason:0.00
+  depend:0.00
+  document fingerprint created:0.00
+  sign document fingerprint created:0.00
+  digital signatures depend:0.00
+  password:0.00
+  attacks signature representation document:0.00
+  signatures depend:0.00
+  smaller security digital signatures:0.00
+
+Topic 2:
+  digital signatures depend rsa:0.00
+  reason:0.00
+  depend:0.00
+  document fingerprint created:0.00
+  sign document fingerprint created:0.00
+  digital signatures depend:0.00
+  password:0.00
+  attacks signature representation document:0.00
+  signatures depend:0.00
+  smaller security digital signatures:0.00
+
+Topic 3:
+  digital signatures depend rsa:0.00
+  reason:0.00
+  depend:0.00
+  document fingerprint created:0.00
+  sign document fingerprint created:0.00
+  digital signatures depend:0.00
+  password:0.00
+  attacks signature representation document:0.00
+  signatures depend:0.00
+  smaller security digital signatures:0.00
+
+Topic 4:
+  digital signatures depend rsa:0.00
+  reason:0.00
+  depend:0.00
+  document fingerprint created:0.00
+  sign document fingerprint created:0.00
+  digital signatures depend:0.00
+  password:0.00
+  attacks signature representation document:0.00
+  signatures depend:0.00
+  smaller security digital signatures:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  love:2.89
+  quote:2.05
+  listings:1.23
+  identity:1.06
+  theft:0.90
+  pmi:0.87
+  evolution:0.87
+  teardrop:0.78
+  good:0.78
+  site:0.76
+
+Topic 1:
+  theft:2.81
+  love:2.63
+  identity:1.72
+  site:1.42
+  quote:1.23
+  good:1.20
+  cycle:0.98
+  ruined:0.97
+  devoted:0.97
+  rate:0.97
+
+Topic 2:
+  love:2.69
+  quote:1.63
+  identity:1.45
+  theft:1.35
+  site:1.12
+  good:1.09
+  listings:0.85
+  family:0.78
+  credit:0.77
+  job:0.76
+
+Topic 3:
+  quote:2.63
+  pmi:2.15
+  love:1.93
+  listings:1.76
+  evolution:1.23
+  silk:1.16
+  original:1.16
+  road:1.16
+  point:1.15
+  nostalgic:1.14
+
+Topic 4:
+  identity:5.32
+  theft:4.48
+  site:2.31
+  love:1.85
+  hard:1.56
+  find:1.54
+  friend:1.54
+  endless:1.53
+  marketplace:1.52
+  multiply:1.51
+
+K: 5, Log-Likelihood: -1270.364, Alpha: 11.000, Beta: 1.100

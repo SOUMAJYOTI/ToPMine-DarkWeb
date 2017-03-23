@@ -1,0 +1,61 @@
+Topic 0:
+  police:14.06
+  case:8.76
+  essentially:8.76
+  lawyer:6.56
+  facebook messages:5.55
+  cops building today rid:5.55
+  clear imessages whatsapp:5.55
+  iphone notes format mac:5.55
+  iphone pictures messages asap:5.55
+  sites:5.12
+
+Topic 1:
+  opsec:8.77
+  good:8.77
+  handler:8.77
+  create:8.77
+  ll:7.79
+  youll:5.19
+  prepare:4.38
+  comsec:4.38
+  instruct:4.38
+  require:4.38
+
+Topic 2:
+  mac:12.60
+  turn icloud:8.77
+  disk utility:8.77
+  delete:8.77
+  settings:8.77
+  drive:8.77
+  phone factory reset:5.73
+  hard drive:4.63
+  redstart:4.37
+  notes deleted:4.37
+
+Topic 3:
+  guilty:8.73
+  bad:8.71
+  tie account basically messages:6.60
+  device types ton info:6.60
+  cops question talking talking:6.60
+  activity thoughtful defense type:6.60
+  rid delete picked cops:6.60
+  messages:6.60
+  ship matter lawyer:6.60
+  tie illegal:6.60
+
+Topic 4:
+  quick sidenote facebook messages:5.84
+  stuff stored servers facebook:5.50
+  fucked instagram:5.36
+  signed elses machine password:5.31
+  password hint high schoolnl:5.28
+  profile album labord high:5.27
+  fact real accidentally left:5.27
+  problems leo talk stuff:5.26
+  pictures messages argue people:5.26
+  misconception general belief fb:5.22
+
+K: 5, Log-Likelihood: -11607.952, Alpha: 11.000, Beta: 1.100

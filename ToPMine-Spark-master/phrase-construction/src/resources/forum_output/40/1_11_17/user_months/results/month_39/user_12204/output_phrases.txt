@@ -1,0 +1,61 @@
+Topic 0:
+  ei:0.36
+  ja:0.36
+  joku:0.21
+  sis:0.19
+  lle:0.19
+  vaikka:0.19
+  kuukausi:0.19
+  testy:0.19
+  viimeisin:0.19
+  siirto:0.19
+
+Topic 1:
+  ja:0.37
+  ei:0.36
+  joku:0.20
+  viesti:0.18
+  ratkaisemaan:0.18
+  het:0.18
+  kerro:0.18
+  send:0.18
+  rekem:0.18
+  viety:0.18
+
+Topic 2:
+  ei:0.37
+  ja:0.37
+  joku:0.20
+  fire:0.18
+  error:0.18
+  viety:0.18
+  virhetilanteen:0.18
+  message:0.18
+  het:0.18
+  niin:0.18
+
+Topic 3:
+  ei:0.38
+  ja:0.36
+  joku:0.21
+  mut:0.19
+  toimi:0.19
+  viestin:0.19
+  kuitenkin:0.19
+  laittaa:0.19
+  sm:0.19
+  pystyn:0.19
+
+Topic 4:
+  ja:0.38
+  ei:0.36
+  joku:0.20
+  rekem:0.19
+  message:0.19
+  virhetilanteen:0.19
+  send:0.19
+  nice:0.19
+  ostokset:0.19
+  kerro:0.19
+
+K: 5, Log-Likelihood: -186.195, Alpha: 11.000, Beta: 1.100

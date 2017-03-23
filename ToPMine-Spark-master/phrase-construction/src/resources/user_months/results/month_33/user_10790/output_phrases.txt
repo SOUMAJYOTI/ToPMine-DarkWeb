@@ -1,0 +1,61 @@
+Topic 0:
+  trust:0.00
+  isnt:0.00
+  firelight:0.00
+  fact:0.00
+  buy:0.00
+  tumblers:0.00
+  darkcoin:0.00
+  point:0.00
+  centralized:0.00
+  lot:0.00
+
+Topic 1:
+  trust:0.00
+  isnt:0.00
+  firelight:0.00
+  fact:0.00
+  buy:0.00
+  tumblers:0.00
+  darkcoin:0.00
+  point:0.00
+  centralized:0.00
+  lot:0.00
+
+Topic 2:
+  trust:0.00
+  isnt:0.00
+  firelight:0.00
+  fact:0.00
+  buy:0.00
+  tumblers:0.00
+  darkcoin:0.00
+  point:0.00
+  centralized:0.00
+  lot:0.00
+
+Topic 3:
+  trust:0.00
+  isnt:0.00
+  firelight:0.00
+  fact:0.00
+  buy:0.00
+  tumblers:0.00
+  darkcoin:0.00
+  point:0.00
+  centralized:0.00
+  lot:0.00
+
+Topic 4:
+  trust:0.00
+  isnt:0.00
+  firelight:0.00
+  fact:0.00
+  buy:0.00
+  tumblers:0.00
+  darkcoin:0.00
+  point:0.00
+  centralized:0.00
+  lot:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

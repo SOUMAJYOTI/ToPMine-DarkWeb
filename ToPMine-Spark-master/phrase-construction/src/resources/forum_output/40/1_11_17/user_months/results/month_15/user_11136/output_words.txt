@@ -1,0 +1,61 @@
+Topic 0:
+  sr:15.92
+  vendor:9.29
+  paradise:5.80
+  dr:5.79
+  escrow:5.66
+  support:4.44
+  customer:3.55
+  negative:2.94
+  feedback:2.94
+  arrived:2.48
+
+Topic 1:
+  money:7.24
+  dont:5.55
+  sr:5.13
+  july:5.08
+  evilgrin:4.22
+  escrow:4.05
+  order:3.91
+  expect:3.07
+  scammers:2.84
+  learned:2.70
+
+Topic 2:
+  july:8.88
+  money:7.57
+  escrow:7.20
+  sr:7.12
+  evilgrin:3.39
+  purchasing:3.02
+  mustve:3.00
+  meaning:2.99
+  admin:2.88
+  defend:2.83
+
+Topic 3:
+  july:8.38
+  money:7.01
+  escrow:6.66
+  sr:6.15
+  evilgrin:4.43
+  pmquote:4.19
+  dont:3.85
+  defend:3.37
+  meaning:3.32
+  straight:3.27
+
+Topic 4:
+  silk:5.58
+  market:5.31
+  road:4.63
+  sr:3.67
+  expect:3.61
+  point:3.36
+  yeah:3.22
+  vendor:2.84
+  quote:2.72
+  money:2.64
+
+K: 5, Log-Likelihood: -3946.621, Alpha: 11.000, Beta: 1.100

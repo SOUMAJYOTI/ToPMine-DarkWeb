@@ -1,0 +1,61 @@
+Topic 0:
+  tor:0.83
+  vpn:0.41
+  security:0.40
+  threads:0.40
+  vpon:0.40
+  kinds:0.38
+  type:0.20
+  throuh:0.20
+  dont:0.20
+  great:0.20
+
+Topic 1:
+  tor:0.73
+  kinds:0.45
+  vpon:0.41
+  security:0.39
+  threads:0.39
+  vpn:0.38
+  bad:0.21
+  good:0.21
+  approaches:0.21
+  points:0.21
+
+Topic 2:
+  tor:0.75
+  security:0.41
+  threads:0.41
+  vpn:0.40
+  vpon:0.40
+  kinds:0.39
+  kudos:0.20
+  involved:0.20
+  read:0.20
+  yog:0.20
+
+Topic 3:
+  tor:0.88
+  vpn:0.41
+  threads:0.40
+  security:0.40
+  vpon:0.39
+  kinds:0.38
+  options:0.20
+  scenario:0.20
+  work:0.20
+  ideal:0.20
+
+Topic 4:
+  tor:0.81
+  vpn:0.41
+  threads:0.40
+  security:0.40
+  vpon:0.40
+  kinds:0.39
+  encrypted:0.20
+  fully:0.20
+  complicated:0.20
+  type:0.20
+
+K: 5, Log-Likelihood: -178.449, Alpha: 11.000, Beta: 1.100

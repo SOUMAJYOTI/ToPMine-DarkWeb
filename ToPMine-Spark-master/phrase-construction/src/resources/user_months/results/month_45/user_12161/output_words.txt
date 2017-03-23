@@ -1,0 +1,61 @@
+Topic 0:
+  dash:1.53
+  darkcoin:0.96
+  quote:0.72
+  anonymous:0.55
+  careful:0.55
+  april:0.51
+  explain:0.37
+  guess:0.37
+  pops:0.37
+  pmdarkcoin:0.37
+
+Topic 1:
+  transaction:2.29
+  output:1.40
+  anonymity:1.40
+  recipient:1.39
+  coinjoin:1.39
+  multiply:1.39
+  darkcoin:0.58
+  chain:0.57
+  doxx:0.57
+  ability:0.57
+
+Topic 2:
+  dash:1.72
+  node:1.28
+  april:0.85
+  anonymous:0.81
+  careful:0.80
+  set:0.74
+  darkcoin:0.70
+  dont:0.62
+  guess:0.53
+  explain:0.53
+
+Topic 3:
+  dash:1.72
+  darkcoin:0.94
+  careful:0.76
+  april:0.76
+  anonymous:0.75
+  quote:0.63
+  node:0.57
+  pops:0.50
+  pmdarkcoin:0.50
+  guess:0.50
+
+Topic 4:
+  dash:1.55
+  darkcoin:0.83
+  node:0.78
+  careful:0.74
+  april:0.74
+  anonymous:0.73
+  quote:0.60
+  set:0.54
+  dont:0.53
+  pops:0.49
+
+K: 5, Log-Likelihood: -677.856, Alpha: 11.000, Beta: 1.100

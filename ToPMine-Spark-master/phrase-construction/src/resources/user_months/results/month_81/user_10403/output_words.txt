@@ -1,0 +1,61 @@
+Topic 0:
+  october:9.65
+  amquote:7.83
+  herbanlegends:7.58
+  drsnerd:3.89
+  quote:3.34
+  drunk:3.29
+  judge:2.84
+  sales:2.62
+  september:2.41
+  kind:2.38
+
+Topic 1:
+  market:14.70
+  won:6.40
+  partner:5.90
+  outlaw:4.54
+  working:3.90
+  set:3.90
+  markets:3.90
+  franchizing:3.90
+  guis:3.90
+  order:3.90
+
+Topic 2:
+  drunk:9.98
+  october:9.33
+  amquote:9.01
+  judge:7.73
+  herbanlegends:6.72
+  drsnerd:6.10
+  bought:5.13
+  days:5.05
+  kind:4.82
+  waste:4.81
+
+Topic 3:
+  bond:5.57
+  won:4.46
+  guess:4.40
+  game:3.83
+  profit:3.72
+  euro:3.56
+  paid:3.56
+  drunkenness:3.56
+  pays:3.55
+  outlaws:3.54
+
+Topic 4:
+  interviews:3.50
+  quote:2.97
+  ago:2.09
+  market:1.91
+  phil:1.67
+  pretty:1.67
+  owners:1.49
+  shortly:1.49
+  busted:1.49
+  october:1.36
+
+K: 5, Log-Likelihood: -2759.270, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  shit:2.67
+  douche:2.67
+  people:1.95
+  strike:1.29
+  coming:1.29
+  mountain:1.29
+  climbing:1.29
+  introduced:1.29
+  spirutal:1.29
+  concerts:1.29
+
+Topic 1:
+  green:2.27
+  love:2.19
+  work:2.19
+  find:2.04
+  feel:1.92
+  dont:1.11
+  green grass:0.94
+  start:0.94
+  family:0.94
+  weight:0.94
+
+Topic 2:
+  work:1.10
+  love:1.07
+  dont:1.06
+  green:1.01
+  feel:0.66
+  share:0.66
+  nice:0.66
+  things:0.59
+  pasture:0.59
+  feritlizer:0.59
+
+Topic 3:
+  heart:1.60
+  open:1.59
+  june:1.15
+  quote:1.15
+  experiences:0.80
+  dont:0.70
+  equip:0.70
+  lifebe:0.70
+  muhammadbe:0.70
+  buddhabe:0.70
+
+Topic 4:
+  people:3.07
+  spiritual:1.55
+  youll:1.27
+  strangers:1.27
+  talk:1.27
+  oppotunists:1.27
+  presented:1.27
+  actively:1.27
+  experience:1.27
+  life:1.27
+
+K: 5, Log-Likelihood: -1307.500, Alpha: 11.000, Beta: 1.100

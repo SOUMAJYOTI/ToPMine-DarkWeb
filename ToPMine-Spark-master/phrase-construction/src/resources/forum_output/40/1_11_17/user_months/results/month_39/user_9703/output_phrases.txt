@@ -1,0 +1,61 @@
+Topic 0:
+  blond:0.60
+  wig:0.58
+  deepdotweb:0.38
+  youll:0.38
+  isnt:0.38
+  dont:0.36
+  laughed suggesting busted insist:0.36
+  business denziens forum:0.36
+  find:0.36
+  good:0.36
+
+Topic 1:
+  blond:0.82
+  wig:0.81
+  youll:0.40
+  isnt:0.40
+  deepdotweb:0.40
+  vendors:0.37
+  dont:0.37
+  products good fit forum:0.36
+  marketplace deals:0.36
+  good luck friend:0.36
+
+Topic 2:
+  wig:0.48
+  blond:0.46
+  buyers risk:0.36
+  bitcoin marketplaces:0.36
+  rules allowed:0.36
+  accused psychadelics pretty strict:0.36
+  darknet bitcoin:0.36
+  isnt:0.35
+  deepdotweb:0.35
+  reddit darknetmarketsnoobs reddit darknetmarkets:0.35
+
+Topic 3:
+  darknet bitcoin:0.42
+  accused psychadelics pretty strict:0.42
+  bitcoin marketplaces:0.42
+  rules allowed:0.42
+  buyers risk:0.42
+  don:0.39
+  deal read forums marketplaces:0.35
+  business denziens forum:0.35
+  deserve list products multiply:0.35
+  agora evolution biggest markets:0.35
+
+Topic 4:
+  encryption:1.33
+  link:0.49
+  account marketplaces:0.49
+  set:0.49
+  find good:0.49
+  program:0.49
+  throw:0.49
+  pip:0.49
+  shop:0.49
+  google:0.49
+
+K: 5, Log-Likelihood: -570.573, Alpha: 11.000, Beta: 1.100

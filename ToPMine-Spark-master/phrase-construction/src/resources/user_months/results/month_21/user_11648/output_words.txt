@@ -1,0 +1,61 @@
+Topic 0:
+  mods:2.46
+  alfred:1.77
+  quote:1.72
+  sr:1.17
+  august:1.11
+  active:1.03
+  hub:0.82
+  pull:0.69
+  alfreds:0.58
+  cheapestpills:0.58
+
+Topic 1:
+  sr:2.70
+  quote:1.68
+  reply:1.13
+  mods:1.08
+  forums:1.00
+  block:0.97
+  hub:0.91
+  market:0.83
+  happen:0.74
+  doesnt:0.73
+
+Topic 2:
+  sr:2.48
+  quote:1.56
+  reply:0.94
+  hub:0.94
+  august:0.90
+  mods:0.88
+  market:0.74
+  forums:0.72
+  block:0.69
+  months:0.68
+
+Topic 3:
+  sr:2.06
+  mods:1.41
+  reply:1.38
+  quote:1.37
+  block:0.94
+  forums:0.89
+  hub:0.84
+  august:0.75
+  post:0.73
+  months:0.70
+
+Topic 4:
+  ya:2.53
+  dont:2.52
+  lol:2.19
+  sr:1.59
+  wit:1.58
+  safe:1.58
+  conspiracy:1.58
+  august:1.58
+  hey:0.94
+  trolly:0.94
+
+K: 5, Log-Likelihood: -887.471, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  normal:0.61
+  ago:0.61
+  message:0.53
+  address:0.45
+  tor:0.45
+  hanging:0.45
+  sweat:0.45
+  started:0.44
+  recesses:0.44
+  years:0.44
+
+Topic 1:
+  ago:0.62
+  normal:0.61
+  ip:0.47
+  fair:0.47
+  sweat:0.46
+  years:0.46
+  recesses:0.46
+  dark:0.46
+  started:0.46
+  tor:0.46
+
+Topic 2:
+  ago:0.63
+  normal:0.62
+  message:0.51
+  share:0.45
+  node:0.45
+  web:0.45
+  years:0.45
+  fair:0.45
+  ip:0.44
+  dark:0.44
+
+Topic 3:
+  message:0.91
+  normal:0.60
+  ago:0.60
+  send:0.44
+  dark:0.37
+  node:0.37
+  ip:0.37
+  sweat:0.37
+  share:0.37
+  web:0.37
+
+Topic 4:
+  message:1.58
+  send:0.65
+  normal:0.55
+  ago:0.54
+  fair:0.28
+  recesses:0.28
+  hanging:0.28
+  node:0.28
+  address:0.28
+  share:0.28
+
+K: 5, Log-Likelihood: -184.428, Alpha: 11.000, Beta: 1.100

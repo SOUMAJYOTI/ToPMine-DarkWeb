@@ -1,0 +1,61 @@
+Topic 0:
+  vm:5.36
+  answer:4.35
+  pv:3.72
+  implemented:3.72
+  models:3.72
+  flawlessly:3.72
+  vt:3.72
+  dont:3.72
+  system supports:3.72
+  series work:3.72
+
+Topic 1:
+  regenerate ssh host keys:20.58
+  ssh ssh host:11.22
+  ssh:11.22
+  ssh host keys:9.35
+  init:9.35
+  description:7.47
+  dsa:7.47
+  ssh keygen:7.47
+  key ash keygen:7.47
+  sh:7.47
+
+Topic 2:
+  firmware:14.96
+  intel:13.52
+  pc:11.22
+  libreboot:11.22
+  intel hardware:7.47
+  intel management engine:7.47
+  source code:7.47
+  application:7.47
+  key:7.27
+  module:5.93
+
+Topic 3:
+  firewall rules:4.54
+  phoenix gateway:4.54
+  iam:3.70
+  temporary:3.70
+  hard:3.70
+  xen:3.68
+  plain:3.68
+  vm:3.24
+  tor:3.13
+  sys:3.13
+
+Topic 4:
+  core:4.61
+  getnotified:3.72
+  mainboards:3.72
+  arm:3.72
+  msi:3.72
+  define:3.72
+  cpus:3.59
+  windows:2.95
+  install:2.94
+  add:2.90
+
+K: 5, Log-Likelihood: -12166.387, Alpha: 11.000, Beta: 1.100

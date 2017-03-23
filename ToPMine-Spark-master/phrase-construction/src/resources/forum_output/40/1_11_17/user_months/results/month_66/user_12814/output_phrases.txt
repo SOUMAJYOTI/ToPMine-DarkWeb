@@ -1,0 +1,61 @@
+Topic 0:
+  store:0.20
+  market:0.20
+  problem:0.18
+  time:0.18
+  nucleus:0.18
+  free:0.18
+  orders:0.18
+  extra:0.18
+  today:0.18
+  kush:0.18
+
+Topic 1:
+  market:0.20
+  store:0.20
+  girl:0.18
+  scout:0.18
+  cookies:0.18
+  platinum:0.18
+  free:0.18
+  time:0.18
+  today:0.18
+  extra:0.18
+
+Topic 2:
+  market:0.20
+  store:0.20
+  orders:0.18
+  time:0.18
+  free:0.18
+  purple:0.18
+  nucleus:0.18
+  today:0.18
+  problem:0.18
+  kush:0.18
+
+Topic 3:
+  market:0.20
+  store:0.20
+  snow:0.18
+  stunning:0.18
+  cannabis:0.18
+  white:0.18
+  kush:0.18
+  purple:0.18
+  scout:0.18
+  girl:0.18
+
+Topic 4:
+  store:0.20
+  market:0.20
+  cookies:0.18
+  stunning:0.18
+  white:0.18
+  platinum:0.18
+  cannabis:0.18
+  today:0.18
+  extra:0.18
+  scout:0.18
+
+K: 5, Log-Likelihood: -52.194, Alpha: 11.000, Beta: 1.100

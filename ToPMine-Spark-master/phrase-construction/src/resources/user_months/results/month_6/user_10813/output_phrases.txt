@@ -1,0 +1,61 @@
+Topic 0:
+  anon:1.68
+  btc:1.47
+  ami:1.15
+  licketysplit:1.15
+  money card:1.15
+  perfect:1.15
+  friendly:1.15
+  btc btc:1.15
+  yesprepaid:1.15
+  reading:1.05
+
+Topic 1:
+  bitcoin:4.09
+  periods:3.15
+  short:3.15
+  buy:3.15
+  hedging:3.15
+  hold:3.15
+  bank account:1.96
+  sell:1.55
+  effectively:1.55
+  faked:1.55
+
+Topic 2:
+  half:3.73
+  understand:2.75
+  heard:1.81
+  user:1.80
+  money shouldnt mattermore:1.80
+  india:1.80
+  mail card:1.80
+  thinking:1.80
+  ruin:1.80
+  hindi:1.80
+
+Topic 3:
+  cards anonymous:4.59
+  info:3.39
+  verify:3.36
+  readydebit:2.20
+  debit:2.20
+  readable:2.20
+  thing:2.20
+  account ill:2.20
+  fraud:2.20
+  luck:2.20
+
+Topic 4:
+  quote:0.97
+  half:0.93
+  withdraw chance scam announced:0.81
+  btc:0.81
+  understand:0.72
+  polish:0.65
+  granted real:0.64
+  info order:0.64
+  boogie:0.64
+  convention newyork hong kong:0.64
+
+K: 5, Log-Likelihood: -2002.719, Alpha: 11.000, Beta: 1.100

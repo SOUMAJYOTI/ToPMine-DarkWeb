@@ -1,0 +1,61 @@
+Topic 0:
+  usa:0.00
+  mail:0.00
+  giantgrill:0.00
+  source:0.00
+  fair:0.00
+  growers:0.00
+  merry:0.00
+  years:0.00
+  post:0.00
+  pms:0.00
+
+Topic 1:
+  usa:0.00
+  mail:0.00
+  giantgrill:0.00
+  source:0.00
+  fair:0.00
+  growers:0.00
+  merry:0.00
+  years:0.00
+  post:0.00
+  pms:0.00
+
+Topic 2:
+  usa:0.00
+  mail:0.00
+  giantgrill:0.00
+  source:0.00
+  fair:0.00
+  growers:0.00
+  merry:0.00
+  years:0.00
+  post:0.00
+  pms:0.00
+
+Topic 3:
+  usa:0.00
+  mail:0.00
+  giantgrill:0.00
+  source:0.00
+  fair:0.00
+  growers:0.00
+  merry:0.00
+  years:0.00
+  post:0.00
+  pms:0.00
+
+Topic 4:
+  usa:0.00
+  mail:0.00
+  giantgrill:0.00
+  source:0.00
+  fair:0.00
+  growers:0.00
+  merry:0.00
+  years:0.00
+  post:0.00
+  pms:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

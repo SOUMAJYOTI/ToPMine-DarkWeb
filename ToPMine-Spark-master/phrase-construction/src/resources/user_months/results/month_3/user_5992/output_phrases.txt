@@ -1,0 +1,61 @@
+Topic 0:
+  test kits:1.99
+  item:1.24
+  listed:1.02
+  reading:1.00
+  approved:0.99
+  correctly:0.98
+  guardian:0.94
+  hand:0.87
+  amphs:0.85
+  shipping:0.82
+
+Topic 1:
+  people:4.25
+  days:4.10
+  shipping:2.30
+  falls:1.81
+  wide shipping:1.80
+  materials:1.80
+  purchasing:1.80
+  roadblocks:1.80
+  safer:1.80
+  sheds:1.80
+
+Topic 2:
+  test kits:2.78
+  sold:1.40
+  directions:1.40
+  reagent:1.40
+  absolutely:1.40
+  factory:1.40
+  tests:1.40
+  follow:1.40
+  interest:1.40
+  thread:1.40
+
+Topic 3:
+  future:3.32
+  items:3.32
+  offers:3.32
+  market:3.32
+  dark:3.32
+  test:2.08
+  find:1.62
+  answer:1.62
+  kitspossible:1.62
+  illegal:1.62
+
+Topic 4:
+  shipping:1.64
+  guardian:1.06
+  item:0.98
+  stay safe:0.91
+  cost:0.76
+  vendors:0.73
+  days:0.73
+  experience:0.70
+  test:0.70
+  people:0.59
+
+K: 5, Log-Likelihood: -1687.113, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  forums:3.14
+  token:3.14
+  script:3.14
+  false:3.14
+  public:3.14
+  market:3.14
+  hub:3.14
+  addresses:3.14
+  vendors buyers:3.14
+  xss exploit:3.14
+
+Topic 1:
+  good:1.30
+  nice:1.18
+  site:0.95
+  sw:0.90
+  hear:0.90
+  working:0.89
+  explain:0.89
+  payment:0.89
+  pace:0.89
+  fee:0.89
+
+Topic 2:
+  xss:4.85
+  market operator:3.90
+  trust:3.72
+  escrow account:3.65
+  multi sig:3.18
+  bitcoins:2.47
+  vulnerability:2.46
+  btc:2.44
+  rogue:2.42
+  wallet:2.40
+
+Topic 3:
+  multi sig:1.93
+  xss:1.51
+  escrow account:1.11
+  trust:1.04
+  keys:1.03
+  address:1.02
+  listed:0.96
+  private:0.88
+  service:0.88
+  market operator:0.86
+
+Topic 4:
+  quote:1.21
+  promising:1.21
+  losttemple:1.21
+  february:1.21
+  amultravioletcity:1.21
+  drama:1.21
+  madnesssounds:1.21
+  safe:1.21
+  escape:1.21
+  nice:1.10
+
+K: 5, Log-Likelihood: -2173.599, Alpha: 11.000, Beta: 1.100

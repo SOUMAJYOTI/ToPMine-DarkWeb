@@ -1,0 +1,61 @@
+Topic 0:
+  ss:0.00
+  ll:0.00
+  ytyy:0.00
+  ljess:0.00
+  bittiraha:0.00
+  arvo:0.00
+  hetkell:0.00
+  vain:0.00
+  keskiarvo:0.00
+  silkkitiell:0.00
+
+Topic 1:
+  ss:0.00
+  ll:0.00
+  ytyy:0.00
+  ljess:0.00
+  bittiraha:0.00
+  arvo:0.00
+  hetkell:0.00
+  vain:0.00
+  keskiarvo:0.00
+  silkkitiell:0.00
+
+Topic 2:
+  ss:0.00
+  ll:0.00
+  ytyy:0.00
+  ljess:0.00
+  bittiraha:0.00
+  arvo:0.00
+  hetkell:0.00
+  vain:0.00
+  keskiarvo:0.00
+  silkkitiell:0.00
+
+Topic 3:
+  ss:0.00
+  ll:0.00
+  ytyy:0.00
+  ljess:0.00
+  bittiraha:0.00
+  arvo:0.00
+  hetkell:0.00
+  vain:0.00
+  keskiarvo:0.00
+  silkkitiell:0.00
+
+Topic 4:
+  ss:0.00
+  ll:0.00
+  ytyy:0.00
+  ljess:0.00
+  bittiraha:0.00
+  arvo:0.00
+  hetkell:0.00
+  vain:0.00
+  keskiarvo:0.00
+  silkkitiell:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

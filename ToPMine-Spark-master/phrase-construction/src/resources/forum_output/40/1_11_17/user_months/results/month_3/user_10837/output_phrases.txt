@@ -1,0 +1,61 @@
+Topic 0:
+  multibit client:0.24
+  tx:0.24
+  addresses wallets:0.16
+  filters:0.16
+  node:0.16
+  tor:0.16
+  push:0.16
+  bitcoinj:0.16
+  addresses:0.16
+  tie:0.16
+
+Topic 1:
+  tx:0.24
+  multibit client:0.24
+  wallet:0.16
+  bloom:0.16
+  tor:0.16
+  tie:0.16
+  bitcoinj:0.16
+  node:0.16
+  support:0.16
+  push:0.16
+
+Topic 2:
+  tx:0.24
+  multibit client:0.24
+  addresses:0.16
+  node:0.16
+  bloom:0.16
+  wallet:0.16
+  tie:0.16
+  support:0.16
+  push:0.16
+  tor:0.16
+
+Topic 3:
+  multibit client:0.24
+  tx:0.24
+  addresses wallets:0.16
+  bitcoinj:0.16
+  support:0.16
+  filters:0.16
+  push:0.16
+  bloom:0.16
+  tor:0.16
+  tie:0.16
+
+Topic 4:
+  tx:0.24
+  multibit client:0.24
+  addresses:0.16
+  support:0.16
+  bloom:0.16
+  tie:0.16
+  wallet:0.16
+  push:0.16
+  node:0.16
+  filters:0.16
+
+K: 5, Log-Likelihood: -217.590, Alpha: 11.000, Beta: 1.100

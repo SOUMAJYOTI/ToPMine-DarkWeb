@@ -1,0 +1,61 @@
+Topic 0:
+  email:1.30
+  mp:0.99
+  account:0.82
+  baseball:0.42
+  bat:0.41
+  details:0.41
+  market:0.40
+  place:0.40
+  signed:0.40
+  password:0.39
+
+Topic 1:
+  email:1.40
+  mp:0.99
+  account:0.81
+  bat:0.42
+  baseball:0.42
+  details:0.40
+  signed:0.39
+  place:0.39
+  market:0.39
+  password:0.37
+
+Topic 2:
+  email:1.45
+  mp:1.00
+  account:0.79
+  password:0.40
+  place:0.40
+  backup:0.40
+  signed:0.40
+  market:0.40
+  bat:0.40
+  details:0.40
+
+Topic 3:
+  email:1.10
+  mp:1.02
+  account:0.77
+  backup:0.49
+  password:0.47
+  place:0.43
+  market:0.43
+  details:0.42
+  signed:0.40
+  baseball:0.38
+
+Topic 4:
+  email:1.75
+  mp:1.00
+  account:0.82
+  signed:0.41
+  bat:0.39
+  baseball:0.39
+  market:0.38
+  place:0.38
+  details:0.37
+  password:0.36
+
+K: 5, Log-Likelihood: -341.032, Alpha: 11.000, Beta: 1.100

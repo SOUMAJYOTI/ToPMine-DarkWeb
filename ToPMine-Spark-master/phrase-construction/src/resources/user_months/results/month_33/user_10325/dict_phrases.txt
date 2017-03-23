@@ -1,0 +1,230 @@
+persuading,0,1
+reason,1,3
+confirmedconsequences,2,1
+metadata,3,2
+view images,4,2
+references,5,2
+thought,6,1
+bad,7,1
+sorta,8,2
+remote,9,2
+parsing,10,1
+patch,11,1
+observer,12,2
+score,13,2
+integrity,14,1
+quote,15,1
+java,16,3
+scanner,17,1
+jre,18,1
+obfuscated,19,1
+temporal,20,1
+gifs view,21,2
+upgrade,22,1
+impact,23,3
+png,24,3
+execute,25,2
+javascript,26,2
+images comment,27,2
+browser risks,28,2
+png file,29,2
+replies,30,2
+poster,31,4
+cvss,32,1
+complexity,33,1
+discovered,34,1
+access,35,2
+pmlike,36,1
+images gifs,37,4
+impact complete,38,3
+availability,39,1
+sun,40,2
+virus,41,1
+workaround,42,1
+gif file,43,1
+remediation,44,1
+default,45,1
+peter,46,1
+attack,47,1
+jpeg,48,2
+vector,49,1
+gifs clearnet,50,2
+iframe,51,1
+distribute,52,1
+poses,53,2
+clearnet forums,54,2
+malware,55,3
+svg,56,1
+loads,57,1
+started,58,1
+people,59,2
+food,60,1
+shit,61,1
+calls,62,1
+exploit,63,2
+securi,64,1
+november,65,1
+privileges,66,1
+reader,67,2
+official,68,1
+source,69,1
+good,70,3
+view,71,4
+post,72,5
+warning,73,3
+reply,74,2
+image,75,4
+unmasking,76,2
+imagine,77,2
+ensure,78,1
+usual,79,2
+suspicious,80,1
+frame,81,1
+trust,82,2
+dron,83,1
+memory,84,1
+explain security,85,2
+update,86,1
+gif image,87,1
+medium,88,1
+title,89,2
+gifs reason,90,2
+content,91,1
+tang,92,1
+random,93,2
+malicious,94,2
+alert,95,1
+ive,96,2
+corrupt,97,1
+apply,98,1
+attacker,99,2
+reading,100,1
+unmask,101,2
+suddenly,102,2
+forum,103,4
+damn,104,1
+sketching,105,2
+fork,106,1
+environment,107,2
+hub,108,2
+form,109,1
+refer,110,1
+spooked,111,2
+comment,112,4
+risk,113,4
+specially,114,1
+avoid,115,1
+splash,116,1
+injection,117,1
+base,118,1
+explain,119,4
+gift,120,2
+dangers,121,2
+risk forum,122,2
+trend,123,2
+images code,124,2
+clearnet warning,125,1
+doesnt,126,2
+dnm forums,127,4
+forums,128,8
+risks gif,129,1
+deeply,130,1
+text,131,2
+catch,132,1
+write,133,2
+gifs,134,12
+security risk,135,2
+images,136,13
+period,137,2
+dnm,138,4
+gif images,139,3
+researcher,140,1
+large,141,2
+method,142,1
+researchers,143,1
+executioner,144,1
+classified,145,1
+clearnet,146,3
+distributions,147,1
+tldr,148,2
+riskdescription,149,1
+system,150,3
+gifs images,151,2
+style,152,2
+force,153,1
+accessremedy,154,1
+turned,155,1
+confidentiality,156,1
+js,157,1
+gain,158,1
+file,159,4
+blocked,160,1
+web,161,1
+tor,162,2
+clicking,163,2
+monday,164,1
+injections,165,1
+topics,166,2
+caused,167,1
+worrying,168,1
+display,169,1
+trigger,170,1
+site,171,2
+machine,172,1
+stored,173,1
+report,174,1
+complete,175,3
+code system,176,2
+findings,177,1
+risks poster,178,2
+screen,179,1
+darknet,180,2
+simple,181,1
+blog,182,1
+good reason,183,1
+photos,184,2
+posts,185,1
+wondering,186,2
+find,187,1
+level,188,2
+kind,189,1
+crafted,190,1
+runtime,191,2
+sort,192,2
+files,193,1
+exploitability,194,1
+dont,195,2
+week,196,2
+code,197,5
+gif,198,5
+gramantik,199,1
+dangerous,200,2
+link,201,1
+insert,202,2
+technique,203,1
+error,204,1
+jquery,205,1
+network,206,1
+unproved,207,1
+security,208,4
+highhigh,209,1
+relies,210,1
+browser,211,3
+victim,212,2
+render,213,1
+authentication,214,1
+highly,215,1
+execution,216,1
+likey,217,1
+zaphodquotesun,218,1
+engrained,219,1
+forums image,220,2
+confidence,221,1
+threads,222,2
+arbitrary,223,2
+posting,224,2
+suggested,225,1
+risks,226,3
+visit,227,1
+canohontras,228,1
+user,229,1

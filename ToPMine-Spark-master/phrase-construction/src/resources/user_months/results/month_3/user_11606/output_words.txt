@@ -1,0 +1,61 @@
+Topic 0:
+  expert:3.81
+  scam:3.81
+  antonopoulos:2.97
+  testimony:2.81
+  andreas:1.57
+  bitin:1.52
+  wallet:1.52
+  simply:1.52
+  blockchain:1.52
+  leaders:1.52
+
+Topic 1:
+  coins:1.54
+  sr:1.41
+  stole:1.23
+  people:0.99
+  money:0.98
+  bitcoins:0.92
+  deposits:0.75
+  withdrawls:0.73
+  hack:0.73
+  borrow:0.73
+
+Topic 2:
+  sr:2.25
+  cnn:1.54
+  stole:1.52
+  dont:1.17
+  clearnet:1.00
+  warning:0.96
+  article:0.87
+  coins:0.87
+  thread:0.78
+  staff:0.74
+
+Topic 3:
+  coins:1.65
+  money:1.41
+  vendors:1.06
+  borrow:1.04
+  withdrawls:1.04
+  hack:1.04
+  deposits:1.03
+  sr:0.94
+  happened:0.75
+  cnn:0.71
+
+Topic 4:
+  sr:1.93
+  cnn:1.87
+  stole:1.47
+  dont:1.06
+  article:1.02
+  coins:0.84
+  warning:0.80
+  clearnet:0.78
+  pay:0.72
+  staff:0.72
+
+K: 5, Log-Likelihood: -1111.532, Alpha: 11.000, Beta: 1.100

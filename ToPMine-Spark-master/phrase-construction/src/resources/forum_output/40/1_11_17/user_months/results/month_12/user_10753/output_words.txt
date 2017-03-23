@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:4.70
+  tails:2.23
+  port:1.78
+  onion:1.45
+  localhost:0.98
+  works:0.93
+  worked:0.93
+  bandwidth:0.93
+  perfectly:0.92
+  pasting:0.90
+
+Topic 1:
+  electrum:3.80
+  tails:2.27
+  port:1.72
+  working:1.25
+  onion:0.91
+  persistent:0.86
+  ago:0.83
+  problems:0.82
+  keys:0.82
+  stick:0.78
+
+Topic 2:
+  persistence:5.74
+  key:5.66
+  partition:5.43
+  storing:3.65
+  messages:2.89
+  output:1.90
+  encrypting:1.90
+  secret:1.90
+  dotfiles:1.90
+  files:1.33
+
+Topic 3:
+  amnesia:5.88
+  electrum:3.65
+  execute:2.88
+  set:2.10
+  permissions:2.10
+  rwxr:1.88
+  xr:1.88
+  working:1.59
+  folder:1.22
+  file:0.93
+
+Topic 4:
+  tails:4.20
+  default:3.86
+  socksport:2.86
+  isolatedestaddr:2.86
+  tor:2.52
+  port:2.17
+  isolatedestport:1.86
+  web:1.86
+  servers:1.64
+  socks:1.54
+
+K: 5, Log-Likelihood: -1366.438, Alpha: 11.000, Beta: 1.100

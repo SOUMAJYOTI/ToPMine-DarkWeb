@@ -1,0 +1,61 @@
+Topic 0:
+  swazi:0.00
+  durban:0.00
+  poison:0.00
+  chips:0.00
+  dealing:0.00
+  equally:0.00
+  vending:0.00
+  check:0.00
+  cheap:0.00
+  packs:0.00
+
+Topic 1:
+  swazi:0.00
+  durban:0.00
+  poison:0.00
+  chips:0.00
+  dealing:0.00
+  equally:0.00
+  vending:0.00
+  check:0.00
+  cheap:0.00
+  packs:0.00
+
+Topic 2:
+  swazi:0.00
+  durban:0.00
+  poison:0.00
+  chips:0.00
+  dealing:0.00
+  equally:0.00
+  vending:0.00
+  check:0.00
+  cheap:0.00
+  packs:0.00
+
+Topic 3:
+  swazi:0.00
+  durban:0.00
+  poison:0.00
+  chips:0.00
+  dealing:0.00
+  equally:0.00
+  vending:0.00
+  check:0.00
+  cheap:0.00
+  packs:0.00
+
+Topic 4:
+  swazi:0.00
+  durban:0.00
+  poison:0.00
+  chips:0.00
+  dealing:0.00
+  equally:0.00
+  vending:0.00
+  check:0.00
+  cheap:0.00
+  packs:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

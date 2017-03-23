@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:5.99
+  operate:3.98
+  busting:3.98
+  top:1.97
+  set:1.97
+  mailed:1.97
+  informant:1.97
+  years:1.97
+  priority:1.97
+  intercept:1.97
+
+Topic 1:
+  pictures:3.71
+  news:2.61
+  pull:2.31
+  editing:1.81
+  databases:1.81
+  dont people:1.81
+  ends:1.81
+  drinking:1.81
+  identity:1.81
+  banking:1.81
+
+Topic 2:
+  jail:8.00
+  fake:7.07
+  people:5.98
+  bank:3.97
+  stolen:3.97
+  thing:3.97
+  walk:3.97
+  drivers:3.97
+  number:3.97
+  realize:3.97
+
+Topic 3:
+  cooked february:3.83
+  order:2.90
+  vendors:2.90
+  ted:2.90
+  danzig:2.90
+  market:2.90
+  misterreplicator:2.90
+  move:2.89
+  waiting:2.89
+  amfor:1.84
+
+Topic 4:
+  real:3.97
+  fake:3.57
+  pass real:3.06
+  work:3.06
+  pulled:3.06
+  license:3.06
+  warrents:3.06
+  driver:3.06
+  data:3.06
+  linked:3.06
+
+K: 5, Log-Likelihood: -2681.086, Alpha: 11.000, Beta: 1.100

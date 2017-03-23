@@ -1,0 +1,61 @@
+Topic 0:
+  love:0.28
+  terms:0.28
+  dream:0.28
+  usability:0.28
+  user:0.28
+  minutiae:0.28
+  operation:0.28
+  weird:0.28
+  big:0.28
+  perspective:0.28
+
+Topic 1:
+  guess:0.28
+  love:0.28
+  usability:0.28
+  perspective:0.28
+  visited:0.28
+  friendly:0.28
+  weird:0.28
+  operation:0.28
+  vendor:0.28
+  minutiae:0.28
+
+Topic 2:
+  vendor:0.28
+  good:0.28
+  minutiae:0.28
+  carding:0.28
+  big:0.28
+  markets:0.28
+  operation:0.28
+  perspective:0.28
+  dream:0.28
+  concerned:0.28
+
+Topic 3:
+  guess:0.28
+  love:0.28
+  friendly:0.28
+  concerned:0.28
+  carding:0.28
+  visited:0.28
+  weird:0.28
+  good:0.28
+  operation:0.28
+  markets:0.28
+
+Topic 4:
+  user:0.28
+  carding:0.28
+  friendly:0.28
+  markets:0.28
+  big:0.28
+  concerned:0.28
+  terms:0.28
+  vendor:0.28
+  weird:0.28
+  dream:0.28
+
+K: 5, Log-Likelihood: -181.786, Alpha: 11.000, Beta: 1.100

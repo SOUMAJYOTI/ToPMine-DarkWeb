@@ -1,0 +1,61 @@
+Topic 0:
+  key:3.31
+  reassuring reccommend:3.04
+  concerns:3.04
+  game:3.04
+  top:3.04
+  question:3.04
+  answer:3.04
+  happilly:3.04
+  tails reccommend:3.04
+  preference:3.04
+
+Topic 1:
+  version:9.20
+  gpg usb:7.33
+  snug:6.12
+  werner:5.81
+  quote brahman july:4.86
+  reccommend:4.59
+  latest:4.59
+  gnupg:4.58
+  program:4.23
+  tails:4.06
+
+Topic 2:
+  chat anonymously:6.10
+  chatroom:6.10
+  create:6.10
+  web based:4.56
+  share:4.55
+  vulnerable:3.84
+  exploit:3.84
+  completely:3.83
+  care:3.83
+  knowledge:3.83
+
+Topic 3:
+  real time chat:6.93
+  log:6.12
+  site:6.12
+  skills takes dumb word:4.59
+  hackerjon:3.86
+  floating:3.04
+  dont kind:3.04
+  irc:3.04
+  hacker:3.04
+  fucked ping emotions conversation:3.04
+
+Topic 4:
+  sensitive:3.86
+  decrypting:3.86
+  party:3.86
+  trust:3.86
+  visited:3.82
+  scripts:3.82
+  vulnerability:3.00
+  trusting:3.00
+  simplicity tool:3.00
+  knwoledge:3.00
+
+K: 5, Log-Likelihood: -7951.250, Alpha: 11.000, Beta: 1.100

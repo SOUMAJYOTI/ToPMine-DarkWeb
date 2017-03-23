@@ -1,0 +1,61 @@
+Topic 0:
+  linux:9.26
+  systems:8.43
+  assange:6.87
+  encryption:6.67
+  address:4.98
+  system:4.83
+  control:4.82
+  design:4.29
+  talk:4.26
+  red:3.98
+
+Topic 1:
+  ram:9.87
+  os:7.40
+  tor:6.15
+  community:5.95
+  luck:5.65
+  open:5.50
+  linus:5.19
+  privacy:4.75
+  tails:3.96
+  ensure:3.95
+
+Topic 2:
+  december:5.91
+  things:5.51
+  security:5.45
+  good:5.41
+  quote:5.14
+  write:4.70
+  holes:4.24
+  dont:3.53
+  turn:3.42
+  suddenly:3.22
+
+Topic 3:
+  offer:7.60
+  nasty:6.82
+  thing:6.80
+  quote:6.77
+  packages:5.80
+  dont:5.66
+  distros:4.93
+  package:4.83
+  zaphod:4.23
+  security:4.06
+
+Topic 4:
+  security:12.94
+  freedom:11.94
+  software:8.87
+  secure:7.66
+  systems:6.89
+  intel:6.83
+  boot:6.53
+  stallman:4.61
+  technologies:3.97
+  free:3.94
+
+K: 5, Log-Likelihood: -10234.622, Alpha: 11.000, Beta: 1.100

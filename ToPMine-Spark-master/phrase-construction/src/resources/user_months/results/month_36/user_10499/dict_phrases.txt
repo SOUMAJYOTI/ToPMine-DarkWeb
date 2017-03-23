@@ -1,0 +1,452 @@
+half,0,1
+branch,1,1
+properly,2,4
+rand,3,1
+quote,4,3
+dev,5,8
+claptrap march,6,3
+complex,7,1
+understanding,8,2
+havedged,9,2
+pseudo,10,3
+hardware rng,11,2
+monte carlo simulations,12,3
+unpredictable random number,13,5
+solved issue,14,2
+generators unpredictable,15,1
+rdtsc,16,1
+pool,17,2
+require,18,1
+dilettantes,19,1
+numbers good,20,1
+urandom,21,6
+havegefurther,22,1
+guess,23,2
+number hardware,24,1
+bits de,25,1
+average,26,1
+monte,27,3
+uncertainty,28,1
+result,29,4
+systems,30,7
+rdrand instruction,31,2
+state havege,32,1
+connect,33,2
+computers,34,1
+hand,35,1
+system entry,36,1
+kernel,37,4
+carlo simulations,38,3
+combines,39,1
+random generators,40,1
+march,41,3
+fly,42,1
+answer,43,1
+systems clock,44,1
+unprecedented,45,1
+publications,46,1
+standard,47,1
+de,48,3
+generates,49,2
+bootup,50,1
+quantities,51,1
+official,52,2
+good,53,6
+random bits,54,1
+pseudorandom,55,1
+generated,56,1
+claptrap,57,3
+xscale,58,1
+system dev,59,2
+seeded entropy,60,2
+unpredictable,61,7
+count,62,2
+havege hardware,63,1
+cryptography,64,1
+internal processor,65,1
+gather,66,1
+level havege,67,1
+external,68,1
+tails,69,20
+avenged,70,2
+overviewhavege,71,1
+gettime,72,1
+guys,73,5
+live operating,74,2
+cryptology,75,1
+virtual,76,6
+parallelism,77,1
+worthy,78,1
+systems havege,79,1
+papers,80,2
+zaphod,81,2
+states,82,4
+random,83,21
+stretch,84,1
+harvesting,85,1
+random number generator,86,4
+kernels,87,2
+featuring,88,1
+live,89,4
+pcs,90,1
+practical,91,1
+volatile states,92,1
+systems high,93,1
+counter,94,1
+concerns,95,2
+pda,96,1
+hub,97,1
+developers aware,98,1
+aware issue,99,1
+problem tails,100,3
+tlbs,101,1
+considered,102,2
+simulation,103,1
+thousands internal,104,1
+throughput software,105,1
+bit,106,1
+number,107,13
+pdas,108,1
+connects,109,2
+text,110,2
+algorithm,111,2
+question problem,112,2
+generation internal,113,1
+issue,114,5
+large,115,3
+compartmentalization,116,2
+bits,117,7
+understand,118,2
+volumes,119,1
+ordinary,120,1
+transactions,121,1
+thousands,122,3
+intel,123,3
+system,124,9
+virtual machines,125,4
+binary,126,1
+kernel tails,127,2
+impression,128,1
+favorably,129,1
+algorithms,130,1
+aim,131,1
+pseudo random,132,3
+save,133,2
+cell,134,1
+sequences,135,1
+cycle,136,1
+level software,137,1
+userspace,138,1
+mention,139,1
+exploits,140,1
+entropy,141,22
+file,142,2
+tor,143,5
+modifications,144,1
+superscalar,145,2
+throughput havege,146,2
+whonix,147,2
+haveged,148,2
+question,149,5
+systems tails,150,2
+rdrand,151,4
+unpredictable random number generators,152,1
+gathered,153,1
+throughput generators,154,1
+competes,155,1
+workstations,156,1
+machine,157,2
+instruction,158,3
+regard,159,1
+instruction rdrand,160,2
+measuring,161,1
+gathering entry,162,1
+user level,163,1
+modifies,164,1
+quote claptrap march,165,3
+platforms,166,1
+identical,167,2
+tor entropy,168,2
+high,169,6
+falls,170,1
+pip,171,2
+problem tails developers,172,1
+sufficient,173,1
+implemented,174,1
+random source,175,1
+claim,176,1
+links,177,2
+directly,178,2
+approximation,179,1
+including,180,1
+read,181,2
+level,182,3
+initials,183,2
+domains,184,1
+rng,185,3
+includes,186,1
+clock,187,4
+fill,188,1
+throws,189,2
+expansion,190,2
+volatile hardware,191,2
+entry,192,4
+random havege,193,1
+true,194,1
+october,195,1
+ami,196,1
+good monte,197,1
+keys,198,8
+dunno,199,2
+phones,200,1
+movements,201,2
+mess,202,2
+pseudo random number,203,2
+tails developers,204,6
+running,205,2
+entropy live,206,2
+design,207,3
+number generation,208,1
+chose,209,1
+source havege,210,1
+hardware volatile entropy,211,3
+comments,212,2
+os,213,2
+thousands unpredictable,214,1
+demanding,215,1
+unpredictable bits,216,1
+phoenix,217,2
+algorithmhaveged,218,1
+application,219,3
+bytes,220,1
+carlo,221,3
+machines,222,4
+entropy gathering,223,4
+depend,224,1
+ring,225,2
+maintain,226,1
+state time,227,2
+discussion,228,1
+random number,229,11
+expertise,230,1
+supply,231,1
+ssl,232,2
+decided,233,1
+random numbers,234,3
+state,235,4
+hundreds,236,1
+generators system,237,2
+events,238,1
+based,239,2
+random number generators,240,5
+edit,241,1
+urandom virtual,242,2
+volatile entropy gathering,243,3
+entropy seed,244,2
+high throughput,245,1
+processor,246,5
+de random,247,3
+quality,248,2
+states source,249,1
+generators,250,7
+properly seeded,251,4
+device,252,1
+generating unpredictable,253,1
+predictors,254,1
+components,255,1
+argued,256,1
+seed,257,3
+gathering entropy,258,1
+appliances,259,1
+hardware clock,260,1
+system connecting,261,2
+bits entropy,262,4
+long,263,1
+monotony,264,1
+current,265,1
+encryption,266,2
+boots,267,2
+supports,268,2
+initialization,269,1
+operating,270,5
+limits,271,1
+connecting tor,272,2
+cents,273,2
+simulations,274,4
+call,275,1
+pull,276,1
+txt,277,2
+closed,278,1
+instruction level,279,1
+thing,280,2
+number generator,281,5
+entropy system,282,2
+system systems,283,2
+surely,284,2
+problem entropy,285,2
+megabits,286,1
+numbers,287,3
+solved,288,4
+amanyway,289,1
+source,290,4
+secure,291,2
+mouse,292,2
+unable,293,1
+features,294,2
+pipelines,295,1
+demonstrator,296,1
+details,297,1
+throughput,298,4
+starts,299,2
+generate,300,1
+software unpredictable,301,2
+number generators,302,5
+usual,303,1
+solutions,304,2
+seeds,305,1
+crypto bits,306,2
+worse,307,2
+daemon,308,1
+improving,309,1
+support,310,2
+internet,311,2
+benefits,312,2
+idea,313,2
+needed,314,2
+hardware states,315,2
+critique,316,1
+generating,317,3
+hardware random,318,2
+linus,319,2
+unpredictable random number generator,320,3
+generation rdrand,321,2
+stronger,322,1
+linux,323,2
+quotelinux,324,1
+internal state,325,1
+types,326,1
+processor states,327,1
+previous,328,1
+volatile,329,7
+tails systems,330,1
+generic,331,1
+headless,332,1
+disagree,333,1
+initially,334,1
+time,335,4
+application high,336,1
+mark,337,1
+play,338,2
+seed dev,339,2
+youll,340,2
+internal volatile,341,2
+large number,342,1
+modeling,343,1
+software,344,3
+developers,345,6
+reach,346,1
+processors,347,2
+monitored,348,1
+randomthis,349,2
+problem,350,10
+kernel properly,351,2
+entropy source,352,1
+unmonitorable,353,1
+dependent,354,1
+case,355,1
+hardware,356,11
+generation,357,3
+phase,358,1
+dev urandom,359,6
+issue solved,360,2
+operating systems,361,3
+tails virtual,362,2
+generators monte,363,1
+source random,364,1
+seeded,365,4
+imagination,366,1
+invocation,367,1
+rely,368,1
+exact,369,2
+backdoored,370,2
+word,371,2
+havege,372,11
+hardware volatile entropy gathering,373,3
+machines problem,374,2
+internal,375,4
+havegd,376,2
+caches,377,1
+range,378,1
+monte carlo,379,3
+lot,380,2
+messed,381,1
+computer,382,3
+pocketpc,383,1
+feature,384,1
+modern,385,2
+low,386,2
+entropy dev,387,2
+power,388,1
+cryptographic,389,2
+urandom properly,390,2
+include,391,2
+good gathering,392,2
+restart,393,1
+sided,394,2
+high entropy,395,1
+randomness,396,1
+digging,397,1
+gathering,398,6
+urandom time,399,2
+unpredictable random,400,5
+hardware volatile,401,3
+responses,402,2
+forgot,403,1
+connecting,404,4
+architectural,405,1
+dice,406,4
+hanged,407,1
+feasible,408,1
+pointing,409,2
+mechanisms,410,2
+package,411,1
+published,412,1
+water,413,1
+intel generation,414,2
+crypto,415,4
+quote claptrap,416,3
+fallback,417,2
+dont,418,2
+problem problem,419,2
+tens,420,1
+note,421,1
+purpose,422,1
+amthanks,423,1
+volatile entropy,424,3
+generator,425,5
+faith,426,1
+scale,427,1
+network,428,2
+aware,429,3
+general,430,1
+security,431,1
+servers,432,1
+paper,433,1
+cat,434,2
+rng system,435,2
+designed,436,1
+adds,437,2
+computer connecting,438,2
+operating system,439,2
+limited,440,1
+built,441,1
+terminal,442,2
+increase,443,2
+command,444,2
+gathering pseudo,445,1
+performance,446,2
+interaction,447,1
+leastmore,448,1
+user,449,3
+wild,450,2
+quotemotivationsan,451,1

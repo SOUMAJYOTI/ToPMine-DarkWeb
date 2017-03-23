@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.45
+  forum:0.40
+  markets:0.29
+  customers:0.29
+  desparation:0.14
+  backopy:0.14
+  forums:0.14
+  feel:0.14
+  oblivious:0.14
+  shielded:0.14
+
+Topic 1:
+  forum:0.41
+  sr:0.39
+  customers:0.27
+  markets:0.26
+  running:0.14
+  desperate:0.14
+  server:0.14
+  case:0.14
+  discussion:0.14
+  functions:0.14
+
+Topic 2:
+  forum:0.41
+  sr:0.40
+  markets:0.27
+  customers:0.27
+  fine:0.14
+  attacks:0.14
+  haven:0.14
+  discussion:0.14
+  review:0.14
+  respond:0.14
+
+Topic 3:
+  sr:0.44
+  forum:0.40
+  customers:0.29
+  markets:0.29
+  agora:0.14
+  existing:0.14
+  lightly:0.14
+  germinal:0.14
+  ve:0.14
+  sad:0.14
+
+Topic 4:
+  forum:0.40
+  sr:0.39
+  markets:0.27
+  customers:0.27
+  occasion:0.14
+  threads:0.14
+  safe:0.14
+  attacking:0.14
+  issues:0.14
+  resources:0.14
+
+K: 5, Log-Likelihood: -357.558, Alpha: 11.000, Beta: 1.100

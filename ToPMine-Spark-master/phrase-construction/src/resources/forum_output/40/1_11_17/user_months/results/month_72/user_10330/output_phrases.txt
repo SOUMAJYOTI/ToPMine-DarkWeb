@@ -1,0 +1,61 @@
+Topic 0:
+  security researchers:7.18
+  ransomware attack:7.18
+  mac users:7.18
+  malware:7.18
+  business:4.79
+  macs:4.79
+  finkle:4.79
+  people:4.79
+  successful:4.79
+  locked:4.79
+
+Topic 1:
+  mozilla foundation security adviser:31.16
+  design security advisory:21.57
+  tails:7.11
+  tor:5.91
+  whisperback:4.79
+  resizing:4.79
+  design security adviser:4.79
+  circuits:4.79
+  display:4.79
+  homepage:4.79
+
+Topic 2:
+  bug:18.75
+  tor browser:17.36
+  tails:11.32
+  gnome shell:9.58
+  tor:8.88
+  font:8.84
+  party:7.95
+  firefox:7.95
+  hardened:7.56
+  change notes:7.19
+
+Topic 3:
+  metadata:31.17
+  australian:12.11
+  service providers:11.98
+  national security:11.98
+  government:11.98
+  told fairfax media:11.98
+  access metadata:11.98
+  privacy:10.43
+  agencies:9.59
+  services:9.59
+
+Topic 4:
+  tor browser:6.19
+  tor browser tor browser:5.17
+  apply:5.06
+  crash:4.78
+  level:4.78
+  exploitable:4.78
+  javascript:4.78
+  high:4.78
+  heavily:4.78
+  iframes:4.78
+
+K: 5, Log-Likelihood: -29061.861, Alpha: 11.000, Beta: 1.100

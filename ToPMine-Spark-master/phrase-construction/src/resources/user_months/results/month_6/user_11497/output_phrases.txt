@@ -1,0 +1,61 @@
+Topic 0:
+  remember:0.76
+  pleasant:0.75
+  reading:0.75
+  rude:0.74
+  forums:0.74
+  stuff:0.74
+  february:0.73
+  quote:0.72
+  vendor:0.72
+  weedgirls:0.65
+
+Topic 1:
+  previous:2.25
+  fe:2.18
+  agora:0.98
+  shady:0.98
+  provide:0.98
+  scams:0.98
+  forward:0.98
+  crashes:0.98
+  pandora:0.98
+  allhopefully:0.98
+
+Topic 2:
+  vendor:0.63
+  quote:0.59
+  february:0.59
+  forums:0.58
+  reading:0.58
+  stuff:0.58
+  rude:0.58
+  pleasant:0.57
+  remember:0.57
+  weedgirls:0.56
+
+Topic 3:
+  market:0.70
+  offering:0.68
+  people:0.68
+  services:0.68
+  markets:0.67
+  sr:0.65
+  fe:0.62
+  previous:0.56
+  opposed:0.36
+  unsafe:0.36
+
+Topic 4:
+  received:1.05
+  packaging:0.96
+  ill:0.96
+  dank:0.96
+  pageant:0.96
+  nugs:0.96
+  ounce:0.96
+  smaller:0.96
+  mail:0.96
+  smokes:0.96
+
+K: 5, Log-Likelihood: -788.695, Alpha: 11.000, Beta: 1.100

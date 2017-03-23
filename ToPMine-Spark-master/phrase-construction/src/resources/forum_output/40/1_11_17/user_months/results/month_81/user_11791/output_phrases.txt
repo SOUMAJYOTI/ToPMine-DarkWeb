@@ -1,0 +1,61 @@
+Topic 0:
+  february:1.97
+  amthese:1.59
+  cooked:1.59
+  couple vendors:1.58
+  quote:1.34
+  afkabboy:1.14
+  lol idea seams proceed:1.08
+  legitimatemake:1.07
+  caution:1.07
+  confirm:1.07
+
+Topic 1:
+  february:1.36
+  reasonable:1.16
+  check:1.12
+  moment:1.11
+  sellers:1.11
+  traffic:1.09
+  quote:1.08
+  markets:1.01
+  layout:1.00
+  afkabboy:0.81
+
+Topic 2:
+  markets:0.76
+  layout:0.75
+  proceed caution:0.71
+  lol idea seams:0.71
+  vendor:0.65
+  freebay:0.64
+  traffic:0.61
+  moment:0.61
+  sellers:0.61
+  reasonable:0.60
+
+Topic 3:
+  questions:1.40
+  lsz:1.40
+  today:1.40
+  trial:1.40
+  registered:1.40
+  people:1.40
+  list:1.40
+  difference:1.40
+  freebay:1.00
+  vendor:1.00
+
+Topic 4:
+  open:3.32
+  site:3.32
+  existed:1.55
+  freely:1.55
+  security:1.55
+  unspent:1.55
+  transparent:1.55
+  spendunconfirmedchange:1.55
+  making:1.55
+  latest:1.55
+
+K: 5, Log-Likelihood: -675.383, Alpha: 11.000, Beta: 1.100

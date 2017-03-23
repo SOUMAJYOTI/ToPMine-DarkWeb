@@ -1,0 +1,61 @@
+Topic 0:
+  hidden:0.60
+  site:0.60
+  wiki:0.59
+  sells:0.40
+  pretty:0.40
+  vendor:0.40
+  scam:0.40
+  guaranteed:0.40
+  phishing:0.40
+  needed:0.20
+
+Topic 1:
+  site:0.61
+  hidden:0.60
+  wiki:0.59
+  sells:0.40
+  pretty:0.40
+  phishing:0.40
+  vendor:0.40
+  scam:0.40
+  guaranteed:0.40
+  lower:0.20
+
+Topic 2:
+  wiki:0.62
+  site:0.60
+  hidden:0.59
+  scam:0.40
+  guaranteed:0.40
+  vendor:0.40
+  pretty:0.40
+  phishing:0.40
+  sells:0.40
+  drugs:0.20
+
+Topic 3:
+  site:0.61
+  wiki:0.59
+  hidden:0.58
+  phishing:0.40
+  vendor:0.40
+  guaranteed:0.40
+  scam:0.40
+  pretty:0.40
+  sells:0.40
+  yeah:0.20
+
+Topic 4:
+  hidden:0.62
+  wiki:0.61
+  site:0.58
+  phishing:0.40
+  guaranteed:0.40
+  pretty:0.40
+  vendor:0.40
+  sells:0.40
+  scam:0.40
+  drugs:0.20
+
+K: 5, Log-Likelihood: -93.254, Alpha: 11.000, Beta: 1.100

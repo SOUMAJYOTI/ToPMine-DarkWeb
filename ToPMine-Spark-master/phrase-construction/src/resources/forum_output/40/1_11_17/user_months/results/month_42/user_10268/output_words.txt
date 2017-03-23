@@ -1,0 +1,61 @@
+Topic 0:
+  nucleus:0.49
+  guy:0.44
+  fuck:0.38
+  names:0.38
+  post:0.38
+  fake:0.38
+  diddnt:0.35
+  addresses:0.35
+  ordered:0.22
+  didst:0.22
+
+Topic 1:
+  diddnt:0.52
+  addresses:0.52
+  fake:0.41
+  post:0.41
+  fuck:0.41
+  names:0.41
+  nucleus:0.35
+  guy:0.33
+  mayby:0.24
+  uncropt:0.24
+
+Topic 2:
+  addresses:0.51
+  diddnt:0.51
+  nucleus:0.41
+  post:0.39
+  names:0.39
+  fake:0.39
+  fuck:0.39
+  guy:0.35
+  idiots:0.24
+  dense:0.24
+
+Topic 3:
+  guy:0.44
+  nucleus:0.41
+  fuck:0.40
+  fake:0.40
+  names:0.40
+  post:0.40
+  diddnt:0.33
+  addresses:0.33
+  jacob:0.22
+  half:0.22
+
+Topic 4:
+  guy:0.45
+  fake:0.41
+  names:0.41
+  post:0.41
+  fuck:0.41
+  nucleus:0.34
+  addresses:0.29
+  diddnt:0.29
+  buy:0.25
+  guess:0.25
+
+K: 5, Log-Likelihood: -350.036, Alpha: 11.000, Beta: 1.100

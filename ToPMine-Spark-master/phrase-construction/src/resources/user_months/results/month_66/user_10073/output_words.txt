@@ -1,0 +1,61 @@
+Topic 0:
+  email:18.03
+  november:7.41
+  messages:6.35
+  nucleus:6.35
+  day:6.08
+  amquote:4.99
+  gratefullydeadicated:4.33
+  order:3.77
+  dude:3.45
+  hope:3.16
+
+Topic 1:
+  abraham:4.19
+  sucks:4.14
+  huge:3.90
+  vendors:2.49
+  feel:2.46
+  thing:1.90
+  wrench:1.90
+  amount:1.90
+  scenarios:1.90
+  reputations:1.90
+
+Topic 2:
+  order:7.21
+  november:6.34
+  hope:5.18
+  placing:5.01
+  foolish:4.76
+  contemplating:4.71
+  day:4.71
+  email:4.62
+  posts:4.55
+  thread:4.27
+
+Topic 3:
+  sheet:19.80
+  vendor:12.54
+  blotters:11.80
+  contacted:8.29
+  market:7.86
+  abraxas:7.84
+  ve:7.81
+  tabs:7.81
+  drop:7.80
+  sheets:7.80
+
+Topic 4:
+  order:10.95
+  love:6.90
+  avengers:5.27
+  alphabay:3.59
+  market:3.20
+  quote:3.07
+  stopped:2.73
+  post:2.29
+  work:2.24
+  wanting:2.15
+
+K: 5, Log-Likelihood: -4582.972, Alpha: 11.000, Beta: 1.100

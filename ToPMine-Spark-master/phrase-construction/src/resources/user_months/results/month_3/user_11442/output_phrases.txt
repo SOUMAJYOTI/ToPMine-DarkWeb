@@ -1,0 +1,61 @@
+Topic 0:
+  sr:7.98
+  outlaw:7.22
+  dutch party beans:6.32
+  place:6.22
+  working:5.64
+  fee:5.62
+  join:5.62
+  stunning:5.44
+  pretty:4.81
+  pgp:4.80
+
+Topic 1:
+  time:8.41
+  quote:6.89
+  forums:6.40
+  idea favor keeping letting:6.25
+  weeks cool dont markets:6.25
+  folks suggesting close marketplace:6.25
+  week great:6.25
+  people:6.17
+  loading details register load:6.06
+  trouble today problem:6.06
+
+Topic 2:
+  bond:7.00
+  people:5.99
+  community:5.65
+  posted:5.65
+  blame:5.65
+  total:5.65
+  commented:5.65
+  thread:5.65
+  venders:5.65
+  ownership:5.65
+
+Topic 3:
+  agora:6.14
+  sr forums:5.83
+  escrow:5.77
+  feel:5.63
+  call:5.63
+  ladyhawke:5.62
+  set:5.39
+  roadsilk:5.32
+  marketplace:4.79
+  st:4.79
+
+Topic 4:
+  site:9.83
+  january:7.81
+  vendors:6.91
+  difficult hang logging chore:6.26
+  forum fine log main:6.26
+  people:5.61
+  enter:4.80
+  disappear:4.80
+  message:4.80
+  read:4.80
+
+K: 5, Log-Likelihood: -10410.361, Alpha: 11.000, Beta: 1.100

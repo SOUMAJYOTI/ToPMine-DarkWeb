@@ -1,0 +1,61 @@
+Topic 0:
+  coins:1.28
+  loss:1.23
+  good:1.21
+  scam:0.89
+  man:0.64
+  friend:0.64
+  hidden:0.64
+  team:0.63
+  wallet:0.63
+  find:0.63
+
+Topic 1:
+  loss:1.39
+  coins:1.39
+  good:1.30
+  scam:0.82
+  vain:0.64
+  guys:0.64
+  completely:0.64
+  hand:0.64
+  stole:0.63
+  bit:0.63
+
+Topic 2:
+  transactions:2.14
+  bitin:1.37
+  visible:1.33
+  mixing:1.16
+  service:0.64
+  privacy:0.64
+  previous:0.64
+  logs:0.64
+  security:0.64
+  balance:0.64
+
+Topic 3:
+  good:0.98
+  loss:0.96
+  coins:0.91
+  scam:0.78
+  freddie:0.52
+  catch:0.52
+  damn:0.51
+  forum:0.51
+  obvious:0.51
+  funny:0.51
+
+Topic 4:
+  transactions:2.91
+  mixing:2.04
+  visible:1.84
+  bitin:1.77
+  basis:0.80
+  activity:0.79
+  future:0.79
+  stay:0.79
+  required:0.78
+  track:0.78
+
+K: 5, Log-Likelihood: -606.292, Alpha: 11.000, Beta: 1.100

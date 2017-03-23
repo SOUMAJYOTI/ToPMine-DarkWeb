@@ -1,0 +1,61 @@
+Topic 0:
+  message:0.90
+  signature:0.42
+  pgp:0.42
+  hang:0.24
+  qabk:0.20
+  awlbjfyskbt:0.20
+  yq:0.20
+  mkapsm:0.20
+  se:0.20
+  ha:0.20
+
+Topic 1:
+  hang:0.48
+  message:0.38
+  ps:0.29
+  hostile:0.29
+  identify:0.29
+  irc:0.29
+  quote:0.29
+  ll:0.29
+  amben:0.29
+  kick:0.29
+
+Topic 2:
+  message:0.68
+  signature:0.36
+  pgp:0.36
+  hang:0.30
+  cream trump asshole:0.21
+  jerrys released dairy ice:0.21
+  tang february:0.20
+  kick:0.20
+  ll:0.20
+  identify:0.20
+
+Topic 3:
+  message:0.80
+  pgp:0.40
+  signature:0.40
+  hang:0.26
+  qxse:0.19
+  cvmjn:0.19
+  zys:0.19
+  gmfcvoslxpzc:0.19
+  sha:0.19
+  referred:0.19
+
+Topic 4:
+  message:0.90
+  pgp:0.42
+  signature:0.41
+  hang:0.24
+  bmythabw:0.20
+  chbxhm:0.20
+  nmxxjmmv:0.20
+  confirms:0.20
+  xnk:0.20
+  muiqg:0.20
+
+K: 5, Log-Likelihood: -398.487, Alpha: 11.000, Beta: 1.100

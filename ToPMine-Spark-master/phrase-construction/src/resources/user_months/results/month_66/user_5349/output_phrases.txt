@@ -1,0 +1,61 @@
+Topic 0:
+  deep:2.24
+  goblins:1.56
+  listed:1.55
+  address:1.54
+  site thought:1.54
+  find:1.52
+  find link:1.52
+  web:1.52
+  listing:1.51
+  dot:1.50
+
+Topic 1:
+  real url market:1.11
+  days ago lost address:1.06
+  jimihendrix:0.89
+  url:0.87
+  longer:0.86
+  blog:0.85
+  serve:0.85
+  correct:0.85
+  site:0.85
+  purpose:0.83
+
+Topic 2:
+  love:5.42
+  advengers:3.50
+  avengersedit:2.23
+  dream:2.21
+  wtf:2.20
+  post:1.89
+  connect:1.87
+  uri:1.64
+  yea:1.64
+  good:1.64
+
+Topic 3:
+  real url market:1.10
+  days ago lost address:1.04
+  december:0.85
+  quote:0.85
+  market:0.77
+  longer:0.74
+  thought real connect:0.73
+  blog:0.73
+  correct:0.73
+  url:0.71
+
+Topic 4:
+  days ago lost address:1.35
+  real url market:1.24
+  pmi:1.22
+  thought real connect:1.20
+  purpose:1.18
+  site:1.17
+  serve:1.16
+  jimihendrix:1.15
+  correct:1.14
+  url:1.14
+
+K: 5, Log-Likelihood: -646.147, Alpha: 11.000, Beta: 1.100

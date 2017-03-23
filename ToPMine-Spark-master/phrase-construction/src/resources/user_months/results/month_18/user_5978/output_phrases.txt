@@ -1,0 +1,61 @@
+Topic 0:
+  prices:0.60
+  invite:0.56
+  al lad:0.46
+  order:0.42
+  lsz:0.42
+  single:0.42
+  free:0.42
+  dont:0.41
+  cheaper:0.41
+  trade:0.41
+
+Topic 1:
+  invite:0.48
+  lsz:0.47
+  prices:0.46
+  al lad:0.43
+  cheaper:0.36
+  tab:0.36
+  order:0.35
+  account:0.35
+  payment:0.35
+  single:0.35
+
+Topic 2:
+  ban:2.81
+  drug:1.58
+  acmd:0.93
+  lizardlabs:0.87
+  wrote:0.73
+  proposed:0.73
+  newest:0.73
+  hasnt:0.73
+  yeah:0.73
+  stock:0.73
+
+Topic 3:
+  prices:1.05
+  invite:1.00
+  tab:0.65
+  dont:0.65
+  cheaper:0.64
+  guys:0.64
+  payment:0.64
+  account:0.64
+  single:0.64
+  order:0.64
+
+Topic 4:
+  invite:1.19
+  prices:1.13
+  crystal:0.75
+  free:0.74
+  trade:0.73
+  guys:0.73
+  single:0.73
+  payment:0.73
+  account:0.73
+  dont:0.72
+
+K: 5, Log-Likelihood: -826.120, Alpha: 11.000, Beta: 1.100

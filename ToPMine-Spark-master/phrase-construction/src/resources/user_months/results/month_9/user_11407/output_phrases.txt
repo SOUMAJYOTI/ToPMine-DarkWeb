@@ -1,0 +1,61 @@
+Topic 0:
+  feel free:0.72
+  pm:0.65
+  anah:0.65
+  vendor:0.57
+  encrypted:0.34
+  profile:0.34
+  respond:0.34
+  trades:0.34
+  buyers:0.34
+  dealing:0.34
+
+Topic 1:
+  pm:0.69
+  anah:0.68
+  feel free:0.68
+  vendor:0.56
+  bro:0.34
+  pgp:0.34
+  remember:0.34
+  check:0.34
+  messages:0.34
+  respond:0.34
+
+Topic 2:
+  anah:0.71
+  pm:0.67
+  feel free:0.65
+  vendor:0.55
+  dont:0.34
+  absolutely:0.34
+  things:0.34
+  find:0.34
+  norcos:0.34
+  dealing:0.34
+
+Topic 3:
+  anah:0.67
+  pm:0.65
+  feel free:0.65
+  vendor:0.56
+  bro:0.35
+  key:0.34
+  shoot:0.34
+  questions:0.34
+  privately:0.34
+  rules:0.34
+
+Topic 4:
+  pm:0.72
+  feel free:0.69
+  anah:0.68
+  vendor:0.57
+  town:0.34
+  contact:0.34
+  adding:0.34
+  guys:0.34
+  peace:0.34
+  established:0.34
+
+K: 5, Log-Likelihood: -405.439, Alpha: 11.000, Beta: 1.100

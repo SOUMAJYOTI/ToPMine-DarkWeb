@@ -1,0 +1,61 @@
+Topic 0:
+  lot:4.54
+  effort:4.36
+  plan:4.36
+  worth:2.45
+  work:2.37
+  vps:2.23
+  seized:2.23
+  shops:2.20
+  servers:2.17
+  user:2.17
+
+Topic 1:
+  pgp:4.36
+  signature:4.36
+  message:2.22
+  pip:2.17
+  signed:2.17
+  iqicbaebagagbqjtqxayaaojeexovwculh:2.17
+  pescl:2.17
+  blapz:2.17
+  hpotxyg:2.17
+  djrvrxtcrvey:2.17
+
+Topic 2:
+  vendor:4.72
+  shop:4.35
+  order:3.78
+  day:3.72
+  posted:3.34
+  register shop:3.25
+  asap:3.25
+  visit:3.25
+  working:2.99
+  site good:2.16
+
+Topic 3:
+  onionshop:6.77
+  payment:4.31
+  cost:4.29
+  onion market:4.24
+  link:3.47
+  quote:3.46
+  vendors:3.35
+  customers:2.86
+  meaning:2.69
+  segregate:2.68
+
+Topic 4:
+  good:4.31
+  support:3.40
+  friendly:3.38
+  onion shop:3.33
+  sites:2.07
+  unfortunate:2.07
+  long:2.07
+  haul:2.07
+  prayer:2.07
+  hope:2.07
+
+K: 5, Log-Likelihood: -3708.021, Alpha: 11.000, Beta: 1.100

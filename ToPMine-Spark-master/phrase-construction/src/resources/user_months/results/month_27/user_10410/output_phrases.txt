@@ -1,0 +1,61 @@
+Topic 0:
+  niche prostitution:6.52
+  immoral:5.85
+  meat:4.66
+  urinating:3.80
+  topic:3.80
+  psychologically:3.79
+  smile:3.74
+  phantom:3.74
+  lucky:3.74
+  enjoy:3.74
+
+Topic 1:
+  quote walter december pm:4.75
+  paracelsus lot guys good:4.75
+  answering questions rich filthy:4.65
+  rich fast real fast:4.65
+  scrappy:4.64
+  ppl:2.29
+  sailing:2.29
+  fat:2.29
+  forum:2.29
+  hovels:2.29
+
+Topic 2:
+  metadata:5.81
+  data:5.77
+  user agent:5.62
+  camera:4.81
+  linus:4.64
+  removal:4.61
+  images:3.82
+  info:3.82
+  find:3.82
+  computer upload:3.69
+
+Topic 3:
+  path image:7.71
+  exit data tracing:4.63
+  program:4.63
+  image:4.63
+  download image:4.63
+  altered:4.63
+  created:4.63
+  question:4.44
+  cos bit weird:4.24
+  tails users:3.82
+
+Topic 4:
+  paying:4.68
+  piss:4.31
+  person:4.31
+  dont:2.63
+  service:2.50
+  client:2.50
+  piece:2.33
+  appointment:2.33
+  assuming:2.33
+  fish:2.33
+
+K: 5, Log-Likelihood: -4675.771, Alpha: 11.000, Beta: 1.100

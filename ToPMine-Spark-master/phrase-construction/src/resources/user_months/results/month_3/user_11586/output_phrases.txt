@@ -1,0 +1,61 @@
+Topic 0:
+  people:7.49
+  good:6.51
+  stolen:5.99
+  quote:5.95
+  physical:5.93
+  full:5.89
+  trust:5.44
+  sr:5.40
+  defcunt:5.12
+  realized:5.12
+
+Topic 1:
+  staff:53.24
+  community:43.98
+  silk road:30.69
+  system:29.60
+  withdrawals:23.66
+  core team:20.70
+  market:18.88
+  money:18.16
+  cold storage hot storage:17.73
+  lynch mob:17.73
+
+Topic 2:
+  initials development:15.38
+  censored:11.87
+  mt gox:11.80
+  ve:9.16
+  security:9.10
+  sr:8.94
+  pretty conclusive:8.82
+  pretty:7.92
+  bigger:7.58
+  btc:7.12
+
+Topic 3:
+  transactions:24.68
+  wallet:19.32
+  british tor vendors association:13.64
+  software:11.88
+  coins:9.84
+  wallets:9.09
+  mtgox:8.91
+  defcon:6.94
+  copy pasted:6.81
+  support asked steal:6.81
+
+Topic 4:
+  forum:12.18
+  posts:10.95
+  hiniguel:10.24
+  em dash:9.23
+  defcon:7.51
+  respect hiniguel:7.39
+  familiar faces:7.39
+  point:7.01
+  people:6.76
+  march:6.24
+
+K: 5, Log-Likelihood: -92411.810, Alpha: 11.000, Beta: 1.100

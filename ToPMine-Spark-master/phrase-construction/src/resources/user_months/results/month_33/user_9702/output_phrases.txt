@@ -1,0 +1,61 @@
+Topic 0:
+  people:0.99
+  thread:0.81
+  trip reports:0.63
+  video games:0.41
+  ect:0.41
+  things:0.41
+  communicate:0.41
+  community:0.41
+  enlightenment:0.20
+  fingers:0.20
+
+Topic 1:
+  people:0.91
+  thread:0.79
+  trip reports:0.61
+  things:0.40
+  community:0.40
+  video games:0.40
+  communicate:0.40
+  ect:0.40
+  encourage:0.21
+  message:0.21
+
+Topic 2:
+  people:0.94
+  thread:0.75
+  trip reports:0.57
+  community:0.40
+  communicate:0.39
+  video games:0.39
+  ect:0.39
+  things:0.39
+  organize:0.22
+  reports:0.22
+
+Topic 3:
+  people:1.21
+  thread:0.92
+  trip reports:0.64
+  communicate:0.43
+  video games:0.43
+  ect:0.43
+  things:0.43
+  community:0.42
+  unrealated:0.21
+  board:0.21
+
+Topic 4:
+  people:1.05
+  thread:0.81
+  trip reports:0.63
+  ect:0.42
+  communicate:0.42
+  community:0.42
+  things:0.41
+  video games:0.41
+  limited:0.21
+  globe:0.21
+
+K: 5, Log-Likelihood: -383.720, Alpha: 11.000, Beta: 1.100

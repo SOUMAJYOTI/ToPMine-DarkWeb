@@ -1,0 +1,61 @@
+Topic 0:
+  bbe ae:3.28
+  key:3.23
+  sig sig:2.14
+  bitcoin fog:1.81
+  service:1.35
+  fv:1.34
+  cv:1.33
+  kx:1.31
+  time:1.30
+  signature:1.29
+
+Topic 1:
+  key:6.05
+  bbe ae:3.30
+  bitcoin fog:2.02
+  sig sig:1.71
+  eddiebastard:1.36
+  gpg:1.35
+  time:1.32
+  gv:1.31
+  hj:1.31
+  keyserver:1.30
+
+Topic 2:
+  address:4.10
+  sm:2.72
+  bcf:2.72
+  nervous:2.72
+  work:1.91
+  agora:1.87
+  verify:1.33
+  nice:1.33
+  returning:1.33
+  suppose:1.33
+
+Topic 3:
+  zaphod:0.86
+  key:0.41
+  time:0.37
+  bbe ae:0.33
+  bitcoin fog:0.31
+  message:0.30
+  url:0.30
+  sig sig:0.29
+  hj:0.26
+  future:0.26
+
+Topic 4:
+  months:4.13
+  days:4.13
+  market:4.13
+  raped:2.75
+  onion:2.75
+  list:2.75
+  vendors:2.75
+  arrived:2.75
+  road:2.75
+  test:2.75
+
+K: 5, Log-Likelihood: -7286.516, Alpha: 11.000, Beta: 1.100

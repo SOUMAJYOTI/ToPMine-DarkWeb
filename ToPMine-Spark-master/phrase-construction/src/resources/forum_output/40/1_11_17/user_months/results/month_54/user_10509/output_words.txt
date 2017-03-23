@@ -1,0 +1,61 @@
+Topic 0:
+  phone:0.61
+  alert:0.41
+  area:0.40
+  recieved:0.40
+  years:0.40
+  cell:0.40
+  alerts:0.20
+  live:0.20
+  voicemails:0.20
+  acquired:0.20
+
+Topic 1:
+  phone:0.60
+  recieved:0.41
+  cell:0.40
+  years:0.40
+  area:0.40
+  alert:0.40
+  local:0.20
+  usage:0.20
+  state:0.20
+  geography:0.20
+
+Topic 2:
+  phone:0.61
+  years:0.40
+  area:0.40
+  alert:0.40
+  cell:0.40
+  recieved:0.40
+  code:0.20
+  voicemails:0.20
+  child:0.20
+  west:0.20
+
+Topic 3:
+  phone:0.60
+  cell:0.40
+  recieved:0.40
+  area:0.40
+  alert:0.40
+  years:0.40
+  smartphone:0.20
+  gps:0.20
+  turned:0.20
+  alerting:0.20
+
+Topic 4:
+  phone:0.59
+  area:0.40
+  years:0.40
+  cell:0.40
+  alert:0.40
+  recieved:0.40
+  turned:0.20
+  smartphone:0.20
+  gps:0.20
+  usage:0.20
+
+K: 5, Log-Likelihood: -123.544, Alpha: 11.000, Beta: 1.100

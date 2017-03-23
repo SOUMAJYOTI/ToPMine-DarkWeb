@@ -1,0 +1,61 @@
+Topic 0:
+  otr:1.56
+  doesnt:1.36
+  doesn:1.03
+  otr office years police:0.98
+  ip:0.95
+  pidgin chats emails:0.94
+  communication:0.91
+  encrypts:0.90
+  tie:0.90
+  settings:0.90
+
+Topic 1:
+  pidgin:4.45
+  client:3.25
+  xmpp:3.25
+  authenticate:1.55
+  send:1.55
+  forums:1.55
+  security:1.55
+  facto:1.55
+  conversation:1.55
+  fingerprint:1.55
+
+Topic 2:
+  otr:1.22
+  doesnt:1.04
+  private tor:0.96
+  ip jabber:0.95
+  jabber people:0.94
+  service:0.94
+  trust:0.94
+  rare:0.93
+  email:0.93
+  days:0.92
+
+Topic 3:
+  doesn:1.51
+  otr:1.28
+  pidgin chats emails:1.01
+  otr office years police:0.97
+  couldn:0.94
+  decrypt:0.94
+  ip:0.85
+  place:0.85
+  swirlybird:0.82
+  communication:0.82
+
+Topic 4:
+  encrypted chat:1.56
+  logs:1.46
+  members:1.46
+  forum:1.46
+  pgp:1.46
+  keys:1.46
+  ago:1.46
+  years:1.46
+  plugin:1.46
+  tug:1.46
+
+K: 5, Log-Likelihood: -748.236, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  person:0.28
+  money:0.14
+  deal:0.14
+  running:0.14
+  situation:0.14
+  elses:0.14
+  forgery:0.14
+  coordinate:0.14
+  depending:0.14
+  impossible:0.14
+
+Topic 1:
+  person:0.28
+  worth:0.14
+  sume:0.14
+  uncontrolled:0.14
+  drivers:0.14
+  running:0.14
+  forgery:0.14
+  coordinate:0.14
+  assume:0.14
+  impossible:0.14
+
+Topic 2:
+  person:0.28
+  pay:0.14
+  complicated:0.14
+  identity:0.14
+  independent:0.14
+  sume:0.14
+  fail:0.14
+  worse:0.14
+  situation:0.14
+  drivers:0.14
+
+Topic 3:
+  person:0.28
+  hard:0.14
+  find:0.14
+  motherfuckers:0.14
+  good:0.14
+  offer:0.14
+  quality:0.14
+  parties:0.14
+  seizures:0.14
+  disorder:0.14
+
+Topic 4:
+  person:0.28
+  offer:0.14
+  quality:0.14
+  good:0.14
+  find:0.14
+  hard:0.14
+  motherfuckers:0.14
+  independent:0.14
+  seizures:0.14
+  fail:0.14
+
+K: 5, Log-Likelihood: -97.961, Alpha: 11.000, Beta: 1.100

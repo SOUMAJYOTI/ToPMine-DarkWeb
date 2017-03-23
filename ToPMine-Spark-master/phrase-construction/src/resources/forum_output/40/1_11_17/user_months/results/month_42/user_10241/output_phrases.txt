@@ -1,0 +1,61 @@
+Topic 0:
+  check forums member:0.88
+  abraxas forums:0.59
+  quote onioncola march:0.51
+  fact defeat purpose:0.51
+  referred thread join content:0.50
+  market place find forum:0.49
+  token register account:0.49
+  registered account:0.48
+  march pmquote:0.48
+  abraxas forums feel free:0.47
+
+Topic 1:
+  check forums member:0.81
+  abraxas forums:0.58
+  quote onioncola march:0.50
+  registered account:0.48
+  referred thread join content:0.48
+  fact defeat purpose:0.47
+  token register account:0.47
+  market place find forum:0.47
+  referred abraham:0.46
+  abraham:0.46
+
+Topic 2:
+  check forums member:0.81
+  abraxas forums:0.56
+  referred thread join content:0.49
+  quote onioncola march:0.49
+  fact defeat purpose:0.48
+  market place find forum:0.48
+  token register account:0.47
+  registered account:0.47
+  discussion forum:0.45
+  granted:0.45
+
+Topic 3:
+  check forums member:0.76
+  abraxas forums:0.53
+  fact defeat purpose:0.47
+  referred thread join content:0.47
+  quote onioncola march:0.45
+  registered account:0.44
+  token register account:0.44
+  market place find forum:0.43
+  questions general discussion security:0.42
+  feel free post:0.42
+
+Topic 4:
+  check forums member:0.79
+  abraxas forums:0.57
+  fact defeat purpose:0.50
+  referred thread join content:0.50
+  quote onioncola march:0.49
+  registered account:0.49
+  token register account:0.48
+  market place find forum:0.48
+  coldstorage:0.46
+  referral:0.46
+
+K: 5, Log-Likelihood: -409.355, Alpha: 11.000, Beta: 1.100

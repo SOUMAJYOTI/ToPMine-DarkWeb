@@ -1,0 +1,61 @@
+Topic 0:
+  january:10.23
+  account:10.23
+  market:8.20
+  quote:7.07
+  abuse:5.43
+  ban:5.39
+  sr:5.36
+  dont:3.98
+  doctorclu:3.97
+  troll:3.54
+
+Topic 1:
+  forum:8.91
+  board:7.89
+  ban:6.64
+  road:6.07
+  quote:5.94
+  silk:5.64
+  site:4.90
+  january:4.71
+  banned:4.56
+  posting:4.51
+
+Topic 2:
+  dpr:18.29
+  break:12.87
+  january:11.88
+  keys:11.85
+  storage:8.91
+  announced:7.89
+  panic:7.87
+  mod:7.58
+  staff:7.31
+  place:7.08
+
+Topic 3:
+  btc:9.96
+  pay:7.79
+  quote:7.40
+  forums:7.13
+  coins:7.06
+  feds:7.04
+  gox:5.89
+  stolen:5.71
+  february:5.66
+  posted:5.31
+
+Topic 4:
+  coins:6.66
+  market:6.38
+  sr:6.24
+  quote:5.83
+  feds:4.65
+  read:4.49
+  wallet:4.40
+  surely:4.30
+  bad:3.99
+  january:3.89
+
+K: 5, Log-Likelihood: -9443.305, Alpha: 11.000, Beta: 1.100

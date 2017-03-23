@@ -1,0 +1,61 @@
+Topic 0:
+  defcon:5.73
+  oscar:4.87
+  list:4.06
+  days:3.99
+  relevance:3.92
+  today june:3.92
+  ago:3.85
+  paying:3.11
+  sr:2.71
+  play:2.43
+
+Topic 1:
+  javascript:8.22
+  february:7.46
+  preferences:7.15
+  turned default config turn:5.10
+  quote:4.49
+  cookies time:4.09
+  viewing:4.09
+  measures:4.09
+  vulnerabilities:4.09
+  disable scripts:4.09
+
+Topic 2:
+  sr:9.75
+  scam:5.45
+  alfred:4.93
+  hub:4.93
+  silkroad:4.80
+  bitcoin:4.67
+  maleability:4.10
+  didnt:4.10
+  mods:4.07
+  stolen:4.00
+
+Topic 3:
+  tor bundle:10.02
+  vulnerability:7.44
+  dont:5.81
+  upgrade:4.95
+  ensure:4.95
+  note:4.95
+  windows:4.95
+  topic:4.95
+  firefox:4.95
+  version:4.95
+
+Topic 4:
+  check:10.24
+  uncheck:4.93
+  cache:4.93
+  attention:4.91
+  staff:3.93
+  verified:3.92
+  scammmer:3.92
+  topic forums:3.92
+  utopian:3.92
+  pay:3.18
+
+K: 5, Log-Likelihood: -6687.769, Alpha: 11.000, Beta: 1.100

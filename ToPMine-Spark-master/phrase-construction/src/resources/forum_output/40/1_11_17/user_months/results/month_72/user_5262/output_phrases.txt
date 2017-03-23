@@ -1,0 +1,61 @@
+Topic 0:
+  quote bonobo january:0.45
+  silk road:0.44
+  pgpwin version portable:0.43
+  leave traces anycase:0.43
+  tails:0.43
+  tool:0.38
+  email encryption:0.38
+  pursoses:0.38
+  darknet:0.38
+  yeah:0.38
+
+Topic 1:
+  gpg:1.20
+  message:1.19
+  good:0.83
+  tutorial:0.43
+  program:0.43
+  pm:0.43
+  january:0.43
+  secured:0.43
+  plain:0.43
+  site:0.43
+
+Topic 2:
+  silk road:2.54
+  quote bonobo january:2.53
+  making single large order:1.06
+  dream:1.06
+  io:1.06
+  tails regular:1.06
+  usb:1.06
+  wet:1.05
+  feds:1.05
+  encrypted:1.05
+
+Topic 3:
+  gpg:2.76
+  message:2.69
+  good:1.63
+  decode:0.68
+  set email:0.68
+  osx:0.68
+  vendors:0.68
+  direct:0.68
+  quote:0.68
+  purpleturkey:0.68
+
+Topic 4:
+  message:0.78
+  gpg:0.72
+  good:0.57
+  standalone:0.36
+  dont:0.36
+  yeah:0.36
+  email encryption:0.36
+  fro:0.36
+  pursoses:0.36
+  pgp:0.36
+
+K: 5, Log-Likelihood: -725.091, Alpha: 11.000, Beta: 1.100

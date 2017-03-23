@@ -1,0 +1,61 @@
+Topic 0:
+  things:0.60
+  carding:0.40
+  advertising:0.40
+  threads:0.20
+  account:0.20
+  promote:0.20
+  business:0.20
+  instruction:0.20
+  genuine:0.20
+  verified:0.20
+
+Topic 1:
+  things:0.61
+  carding:0.40
+  advertising:0.39
+  entail:0.20
+  business:0.20
+  verified:0.20
+  harm:0.20
+  genuine:0.20
+  threads:0.20
+  account:0.20
+
+Topic 2:
+  things:0.58
+  carding:0.40
+  advertising:0.40
+  maliciously:0.20
+  follow:0.20
+  harm:0.20
+  forum:0.20
+  genuine:0.20
+  vending:0.20
+  business:0.20
+
+Topic 3:
+  things:0.60
+  advertising:0.40
+  carding:0.40
+  promote:0.20
+  vending:0.20
+  follow:0.20
+  entail:0.20
+  instruction:0.20
+  account:0.20
+  threads:0.20
+
+Topic 4:
+  things:0.61
+  advertising:0.40
+  carding:0.40
+  forum:0.20
+  verified:0.20
+  account:0.20
+  vending:0.20
+  instruction:0.20
+  genuine:0.20
+  promote:0.20
+
+K: 5, Log-Likelihood: -53.950, Alpha: 11.000, Beta: 1.100

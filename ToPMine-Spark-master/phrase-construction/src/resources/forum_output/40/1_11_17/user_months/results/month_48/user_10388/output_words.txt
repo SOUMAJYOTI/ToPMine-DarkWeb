@@ -1,0 +1,61 @@
+Topic 0:
+  quote:2.68
+  paid:2.48
+  dont:2.24
+  vendors:1.79
+  read:1.64
+  ox:1.59
+  signature:1.52
+  service:1.51
+  purple:1.44
+  reviews:1.39
+
+Topic 1:
+  fe:11.58
+  support:4.64
+  customer:4.25
+  times:3.84
+  good:3.01
+  buy:2.98
+  pgp:2.86
+  days:2.77
+  veteran:2.60
+  problems:2.59
+
+Topic 2:
+  javascript:16.77
+  code:13.56
+  safe:10.73
+  disable:7.79
+  cookie:7.78
+  load:6.04
+  login:5.74
+  encrypt:5.70
+  looked:5.70
+  literally:5.70
+
+Topic 3:
+  tor:10.57
+  web:7.78
+  vpn:5.71
+  read:4.74
+  market:4.43
+  oxymonster:4.29
+  quote:3.83
+  dont:3.78
+  log:3.74
+  vm:3.74
+
+Topic 4:
+  market:6.94
+  signature:5.39
+  pgp:4.92
+  sr:3.96
+  links:3.55
+  messages:2.78
+  nucleus:2.77
+  mem:2.75
+  ll:2.74
+  weve:2.74
+
+K: 5, Log-Likelihood: -7185.012, Alpha: 11.000, Beta: 1.100

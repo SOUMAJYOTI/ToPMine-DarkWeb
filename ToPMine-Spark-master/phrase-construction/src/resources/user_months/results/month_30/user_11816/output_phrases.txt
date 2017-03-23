@@ -1,0 +1,61 @@
+Topic 0:
+  multi sir:3.03
+  transaction:1.98
+  cannabis market:1.97
+  easier:1.97
+  works:1.97
+  sir:1.97
+  mufti:1.96
+  market niche:1.96
+  market:1.55
+  people:1.19
+
+Topic 1:
+  ob:3.26
+  market website:2.43
+  order:2.42
+  openbazaar:2.42
+  open:2.36
+  market:1.67
+  openbazaar client:1.66
+  systems:1.51
+  dont store:1.51
+  code:1.49
+
+Topic 2:
+  market website:1.71
+  openbazaar:1.62
+  market:1.59
+  order:1.55
+  openbazaar client:1.43
+  ob:1.01
+  directly vendor dht:0.94
+  straightforward:0.92
+  market web:0.90
+  openbazaar dht:0.89
+
+Topic 3:
+  market:0.92
+  diabolus:0.62
+  support:0.57
+  multi sig:0.57
+  sample:0.37
+  product:0.37
+  personally:0.34
+  people:0.34
+  users:0.30
+  credit cards:0.26
+
+Topic 4:
+  secret:1.99
+  quality:1.99
+  openbazaar:1.32
+  market website:1.21
+  shopper:0.91
+  shoppers:0.91
+  goods:0.91
+  energy:0.91
+  send:0.91
+  fee:0.91
+
+K: 5, Log-Likelihood: -2182.120, Alpha: 11.000, Beta: 1.100

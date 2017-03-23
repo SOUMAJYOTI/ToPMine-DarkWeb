@@ -1,0 +1,174 @@
+backup,0,1
+practice,1,1
+tmp tmp,2,1
+advanced,3,2
+saved,4,1
+bin,5,1
+dnsport,6,1
+usage,7,1
+conf,8,2
+echo,9,3
+executing,10,1
+entire,11,1
+geom,12,2
+hope,13,1
+required,14,2
+password,15,1
+des,16,1
+dev,17,6
+poor,18,1
+permissions,19,3
+tmp,20,7
+options,21,1
+friend,22,1
+tor tor,23,1
+write,24,2
+init,25,2
+conftrap,26,1
+images,27,1
+automaphostssuffixes,28,1
+work,29,1
+rm tmp,30,2
+packages,31,1
+mount,32,1
+script,33,3
+rc,34,5
+proxy,35,1
+exit,36,3
+slow,37,1
+install,38,2
+exit echo,39,1
+animated,40,1
+rm,41,3
+drive,42,2
+device,43,2
+requires,44,1
+average,45,1
+perfectly,46,1
+automatically,47,1
+cometh,48,1
+swapon,49,1
+notable,50,1
+login,51,2
+manual,52,1
+cookies,53,1
+uid,54,1
+tor script,55,1
+default,56,2
+swap partition,57,2
+partition,58,5
+file,59,4
+encryption,60,2
+top,61,1
+web,62,1
+sh,63,1
+encrypt,64,2
+tor,65,8
+member,66,1
+attach,67,1
+libevent,68,2
+elito,69,1
+torre,70,2
+torrc,71,5
+connect,72,1
+mine,73,1
+cp rc,74,1
+preferences,75,2
+kernel,76,1
+change,77,2
+ada eli,78,2
+automaphostsonresolve,79,1
+cp,80,3
+people,81,1
+everytime,82,1
+face,83,1
+machine,84,3
+disable,85,1
+days,86,1
+fstab,87,1
+sbin,88,2
+de,89,1
+addresses,90,1
+opera,91,1
+data,92,1
+onion,93,1
+darknet,94,1
+repeated,95,1
+elifsck,96,1
+datadirectory,97,2
+reformat,98,1
+compile,99,1
+startup,100,1
+tad,101,1
+things,102,2
+gptoptions,103,1
+helped,104,1
+starts,105,1
+uncheck,106,1
+commands,107,1
+ada,108,7
+group,109,1
+add,110,1
+elidevice,111,1
+partitions,112,1
+settings,113,2
+rc tmp,114,1
+eli,115,4
+studying,116,1
+swap,117,3
+dropping,118,1
+level,119,1
+logname,120,2
+tmp exit,121,1
+socks,122,1
+tor user,123,1
+freed,124,2
+exit torrc,125,1
+real,126,1
+history,127,1
+check,128,1
+file file,129,1
+tmp echo,130,1
+users,131,1
+crypto,132,1
+parts,133,1
+nameserver,134,1
+diskcache,135,1
+installed,136,1
+dev ada,137,6
+configuration,138,1
+rc resolv,139,1
+suid,140,1
+pkg,141,2
+cp tmp,142,2
+remove,143,1
+network,144,1
+printf,145,1
+drops,146,1
+servers,147,1
+torrc exit,148,1
+resolv,149,3
+ready,150,1
+root,151,3
+browser,152,1
+directories,153,1
+chmod,154,2
+hard,155,1
+boot,156,2
+lines,157,2
+news,158,1
+execution,159,1
+tor torrc,160,2
+ing,161,1
+automatic,162,1
+geli,163,2
+configure,164,1
+clean,165,1
+gt,166,1
+elimount,167,1
+encrypted,168,2
+script tmp,169,1
+rc rm,170,2
+location,171,1
+user,172,5
+tmp rc,173,2

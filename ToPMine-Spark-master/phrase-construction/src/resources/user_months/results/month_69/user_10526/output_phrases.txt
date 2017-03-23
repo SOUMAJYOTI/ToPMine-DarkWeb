@@ -1,0 +1,61 @@
+Topic 0:
+  build:1.51
+  apt:1.29
+  repos:1.04
+  sources list:1.01
+  sudo apt:1.00
+  tor service:0.98
+  tor wily:0.97
+  tor:0.68
+  wily:0.63
+  installed:0.62
+
+Topic 1:
+  apt:1.29
+  build:1.13
+  tor service:0.90
+  tor wily:0.89
+  sudo apt:0.89
+  sources list:0.87
+  repos:0.85
+  tor:0.68
+  gedit:0.57
+  change:0.56
+
+Topic 2:
+  tor:0.81
+  apt:0.62
+  build:0.56
+  tor wily:0.47
+  sudo apt:0.46
+  tor service:0.46
+  sources list:0.46
+  repos:0.46
+  apt transport tor:0.37
+  additional:0.34
+
+Topic 3:
+  tor:1.47
+  tor router:1.41
+  apt transport tor:0.66
+  search:0.59
+  havent:0.59
+  figure:0.59
+  node:0.59
+  place:0.59
+  circuit:0.59
+  talking:0.59
+
+Topic 4:
+  tor:0.96
+  apt transport tor:0.42
+  build:0.36
+  apt:0.36
+  tor wily:0.32
+  repos:0.31
+  tor service:0.31
+  sources list:0.31
+  sudo apt:0.30
+  youll:0.30
+
+K: 5, Log-Likelihood: -714.392, Alpha: 11.000, Beta: 1.100

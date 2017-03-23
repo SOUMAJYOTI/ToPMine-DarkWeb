@@ -1,0 +1,51 @@
+Topic 0:
+  clearnet:0.20
+  link:0.20
+  boxen:0.20
+  org:0.20
+  margin:0.20
+  whonix:0.20
+  tempt:0.20
+  mempo:0.20
+
+Topic 1:
+  margin:0.20
+  org:0.20
+  tempt:0.20
+  clearnet:0.20
+  boxen:0.20
+  whonix:0.20
+  mempo:0.20
+  link:0.20
+
+Topic 2:
+  link:0.20
+  mempo:0.20
+  boxen:0.20
+  tempt:0.20
+  clearnet:0.20
+  margin:0.20
+  whonix:0.20
+  org:0.20
+
+Topic 3:
+  mempo:0.20
+  whonix:0.20
+  org:0.20
+  margin:0.20
+  tempt:0.20
+  clearnet:0.20
+  boxen:0.20
+  link:0.20
+
+Topic 4:
+  whonix:0.20
+  tempt:0.20
+  boxen:0.20
+  link:0.20
+  margin:0.20
+  mempo:0.20
+  org:0.20
+  clearnet:0.20
+
+K: 5, Log-Likelihood: -16.636, Alpha: 11.000, Beta: 1.100

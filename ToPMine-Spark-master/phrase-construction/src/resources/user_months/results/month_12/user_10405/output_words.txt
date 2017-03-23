@@ -1,0 +1,61 @@
+Topic 0:
+  blockchain:8.66
+  cloudflare:6.78
+  info:6.73
+  tor:6.37
+  wallet:3.19
+  directly:2.75
+  quote:2.73
+  block:2.54
+  el:2.01
+  flashy:1.85
+
+Topic 1:
+  isolation:8.29
+  address:5.07
+  virtual:4.96
+  attack:4.96
+  requires:4.64
+  physical:4.11
+  firewalls:4.11
+  protect:3.96
+  technique:3.96
+  sort:3.96
+
+Topic 2:
+  system:11.97
+  box:10.28
+  network:9.13
+  middle:8.75
+  traffic:8.69
+  socks:7.70
+  private:6.73
+  ideally:6.71
+  configured:6.31
+  secure:4.88
+
+Topic 3:
+  certificate:2.91
+  info:2.05
+  dont:2.02
+  site:1.99
+  case:1.98
+  log:1.91
+  expecting:1.91
+  sites:1.91
+  error:1.91
+  ssl:1.91
+
+Topic 4:
+  middle:4.15
+  pi:3.19
+  tor:3.03
+  box:2.59
+  router:1.30
+  ip:1.27
+  interfaces:1.14
+  chipset:1.13
+  intel:1.12
+  terms:1.11
+
+K: 5, Log-Likelihood: -4392.585, Alpha: 11.000, Beta: 1.100

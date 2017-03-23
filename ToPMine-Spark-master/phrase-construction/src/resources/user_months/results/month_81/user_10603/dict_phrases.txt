@@ -1,0 +1,17 @@
+security security,0,1
+electrum,1,1
+private,2,2
+wallet,3,1
+cost,4,1
+keys,5,1
+convenience,6,1
+thread,7,1
+importing,8,1
+crypto,9,1
+security,10,3
+nodes,11,1
+contact,12,1
+risk,13,1
+time,14,1
+key,15,1
+linked,16,1

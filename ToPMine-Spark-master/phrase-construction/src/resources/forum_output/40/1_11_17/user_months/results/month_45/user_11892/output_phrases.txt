@@ -1,0 +1,61 @@
+Topic 0:
+  fe:1.01
+  btc:0.91
+  markets:0.91
+  purchase:0.62
+  earn:0.62
+  reputation:0.62
+  force:0.62
+  basically:0.62
+  buy:0.59
+  comrades free:0.54
+
+Topic 1:
+  high traffic:0.73
+  remain strong comrades:0.71
+  crypto:0.61
+  fe:0.56
+  markets:0.54
+  btc:0.50
+  ddos:0.50
+  hit:0.50
+  general general rosakovo general:0.46
+  harden:0.45
+
+Topic 2:
+  vendor:4.19
+  check:2.70
+  thing:2.70
+  bitcoin:2.69
+  logged:2.69
+  comrade:2.69
+  wallet:1.22
+  general rosakovo:1.22
+  imposed:1.22
+  place:1.22
+
+Topic 3:
+  accounts:1.38
+  result:1.37
+  free:1.37
+  comrades vendor:1.37
+  measures:1.37
+  attack:1.36
+  week:1.36
+  normal:1.35
+  harden:1.35
+  general general rosakovo general:1.34
+
+Topic 4:
+  general rosakovo general:0.74
+  crypts:0.74
+  controls:0.74
+  crypto market:0.68
+  fe:0.67
+  buy:0.62
+  btc:0.61
+  markets:0.57
+  strong comrades general:0.49
+  market vendor:0.48
+
+K: 5, Log-Likelihood: -802.870, Alpha: 11.000, Beta: 1.100

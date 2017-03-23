@@ -1,0 +1,61 @@
+Topic 0:
+  le:5.77
+  march:5.62
+  alfred:4.27
+  sr:4.23
+  hub:4.14
+  quote:2.58
+  mod:2.22
+  dead:2.18
+  dark:1.99
+  net:1.98
+
+Topic 1:
+  forum:7.73
+  vendors:5.25
+  market:4.22
+  kiss:3.77
+  marketplace:2.99
+  register:2.93
+  omega:2.27
+  key:1.93
+  answer:1.93
+  public:1.93
+
+Topic 2:
+  encryption:3.09
+  didnt:2.54
+  rational:2.54
+  forced:2.42
+  listings:2.42
+  employ:2.28
+  thread:2.03
+  herbanlegends:1.95
+  quote:1.91
+  interface:1.65
+
+Topic 3:
+  vendor:6.22
+  kiss:5.93
+  marketplace:5.88
+  evolution:3.83
+  post:2.85
+  search:2.83
+  forum:2.69
+  vendors:2.35
+  base:1.88
+  dw:1.88
+
+Topic 4:
+  quote:3.26
+  dead:1.89
+  march:1.70
+  herbanlegends:1.68
+  reply:1.01
+  quick:1.00
+  ill:1.00
+  gregory:0.95
+  wait:0.95
+  isnt:0.94
+
+K: 5, Log-Likelihood: -2290.685, Alpha: 11.000, Beta: 1.100

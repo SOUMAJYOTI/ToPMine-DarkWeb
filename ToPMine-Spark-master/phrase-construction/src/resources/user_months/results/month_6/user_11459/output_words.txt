@@ -1,0 +1,61 @@
+Topic 0:
+  wan:0.71
+  guys:0.39
+  site:0.32
+  euros:0.30
+  notes:0.30
+  fake:0.30
+  ay:0.30
+  weak:0.30
+  maker:0.30
+  currecy:0.30
+
+Topic 1:
+  site:0.59
+  good:0.58
+  post:0.41
+  guys:0.41
+  postives:0.39
+  negatives:0.39
+  scams:0.39
+  hiddin:0.39
+  theyve:0.39
+  things:0.39
+
+Topic 2:
+  good:1.11
+  site:0.93
+  things:0.69
+  scams:0.69
+  wiki:0.69
+  postives:0.69
+  theyve:0.69
+  hiddin:0.68
+  negatives:0.68
+  post:0.51
+
+Topic 3:
+  site:0.66
+  good:0.64
+  post:0.43
+  negatives:0.43
+  hiddin:0.43
+  theyve:0.42
+  things:0.42
+  scams:0.42
+  wiki:0.42
+  postives:0.42
+
+Topic 4:
+  site:0.50
+  good:0.44
+  wan:0.44
+  guys:0.41
+  post:0.37
+  wiki:0.31
+  postives:0.31
+  theyve:0.31
+  things:0.31
+  hiddin:0.31
+
+K: 5, Log-Likelihood: -296.521, Alpha: 11.000, Beta: 1.100

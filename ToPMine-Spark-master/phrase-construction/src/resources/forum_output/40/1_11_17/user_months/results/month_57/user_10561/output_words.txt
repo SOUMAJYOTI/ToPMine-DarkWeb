@@ -1,0 +1,61 @@
+Topic 0:
+  setup:1.79
+  tor:1.79
+  pidgin:1.79
+  quote:1.00
+  article:0.81
+  platforms:0.81
+  witch:0.81
+  proxy:0.81
+  communication:0.81
+  os:0.81
+
+Topic 1:
+  step:3.28
+  trash:1.62
+  xubuntu:1.44
+  user:0.93
+  window:0.73
+  thread:0.73
+  message:0.73
+  unable:0.72
+  create:0.72
+  kind:0.72
+
+Topic 2:
+  step:2.85
+  trash:1.64
+  xubuntu:1.38
+  user:0.98
+  problems:0.73
+  find:0.72
+  delete:0.71
+  literally:0.71
+  windows:0.71
+  appears:0.70
+
+Topic 3:
+  step:2.39
+  xubuntu:1.53
+  trash:1.53
+  user:0.91
+  stupid:0.75
+  total:0.73
+  noob:0.73
+  existence:0.72
+  create:0.72
+  message:0.71
+
+Topic 4:
+  step:3.10
+  trash:2.01
+  xubuntu:1.39
+  user:1.01
+  september:0.75
+  noob:0.71
+  kind:0.71
+  directors:0.71
+  entire:0.71
+  windows:0.70
+
+K: 5, Log-Likelihood: -634.279, Alpha: 11.000, Beta: 1.100

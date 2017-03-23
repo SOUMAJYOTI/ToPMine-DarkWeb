@@ -1,0 +1,61 @@
+Topic 0:
+  site:10.81
+  require javascript:9.08
+  pay:9.08
+  stripe:4.48
+  btc postage:4.48
+  works:4.48
+  solution:4.48
+  print:4.48
+  tape:4.48
+  shiphi:4.48
+
+Topic 1:
+  duck:9.11
+  money including officially:6.76
+  exit scam:6.49
+  quote:6.32
+  november:6.05
+  security issues resolved:5.89
+  stolen beware avoid till:5.89
+  ab:4.60
+  invalid:4.52
+  correctly:4.52
+
+Topic 2:
+  stamps:7.98
+  drop:5.93
+  labels:5.38
+  giftcards:5.38
+  black:5.36
+  penny:5.36
+  stamp:5.36
+  counterfeiting:4.47
+  easy:4.47
+  thought:4.47
+
+Topic 3:
+  anti ddos filter:5.95
+  marketplace:5.51
+  traffic:4.70
+  view:4.52
+  message:4.52
+  ddos:4.52
+  visit:4.52
+  authorization:4.52
+  anonymous:4.52
+  server:4.52
+
+Topic 4:
+  love avengers:14.69
+  cheers st:8.56
+  alphabay:7.14
+  direct dealing:7.02
+  pmnot abraxas confident find:5.28
+  vendor:4.49
+  waiving:4.49
+  messaged:4.49
+  response:4.49
+  avail:4.49
+
+K: 5, Log-Likelihood: -5180.160, Alpha: 11.000, Beta: 1.100

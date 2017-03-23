@@ -1,0 +1,61 @@
+Topic 0:
+  tits:0.50
+  sr sr:0.50
+  tumble:0.50
+  piece:0.50
+  larger:0.50
+  markets agra:0.50
+  lots:0.50
+  great:0.50
+  sound:0.50
+  lsd:0.50
+
+Topic 1:
+  wondering:1.87
+  good:1.85
+  earth:0.78
+  handle:0.78
+  stuff:0.78
+  slowly:0.78
+  feeling:0.78
+  trip:0.78
+  rc:0.78
+  sort:0.78
+
+Topic 2:
+  good quality:0.37
+  contact:0.37
+  orderofthephoenix:0.37
+  pgp opsec:0.37
+  luck:0.37
+  extra:0.37
+  find:0.37
+  slow:0.37
+  rushed:0.37
+  system:0.37
+
+Topic 3:
+  subforums:0.59
+  classic:0.59
+  utilize:0.59
+  notch:0.59
+  dig:0.59
+  threads:0.59
+  evolution:0.59
+  tug:0.59
+  bitcoin bitcoin:0.59
+  places:0.59
+
+Topic 4:
+  lucy:0.70
+  sloppy:0.70
+  time:0.70
+  security good:0.70
+  opsec:0.70
+  time tails:0.70
+  rushed:0.70
+  learning:0.70
+  slow:0.70
+  operating:0.70
+
+K: 5, Log-Likelihood: -695.521, Alpha: 11.000, Beta: 1.100

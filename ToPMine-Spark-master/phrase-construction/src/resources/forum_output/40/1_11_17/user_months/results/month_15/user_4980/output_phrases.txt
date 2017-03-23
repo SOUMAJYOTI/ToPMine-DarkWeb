@@ -1,0 +1,61 @@
+Topic 0:
+  bank:4.70
+  wallet:4.47
+  blond:2.69
+  account kidding:2.20
+  convert:2.19
+  direct:2.19
+  nature:2.19
+  bitin:2.19
+  choose:2.18
+  bad:2.18
+
+Topic 1:
+  cash:5.10
+  good:2.68
+  popping:2.50
+  judge:2.50
+  trade:2.50
+  kidding:2.50
+  dusty:2.50
+  nowcoinbase:2.50
+  suprised:2.50
+  pogs:2.50
+
+Topic 2:
+  pip:3.39
+  guide:3.36
+  find:3.36
+  thread:2.30
+  topic:2.30
+  program:2.20
+  quest:1.65
+  plunder:1.65
+  pretty:1.65
+  set:1.65
+
+Topic 3:
+  pope:2.16
+  time:1.85
+  lost:1.53
+  key find:1.53
+  email order:1.53
+  email:1.53
+  great:1.53
+  hope:1.53
+  key send:1.53
+  encryption:1.53
+
+Topic 4:
+  software:3.34
+  built:3.21
+  message:2.65
+  encrypt:1.81
+  instructions:1.64
+  wishes:1.64
+  clicks:1.64
+  gog:1.64
+  mouse:1.64
+  simplest:1.64
+
+K: 5, Log-Likelihood: -2286.965, Alpha: 11.000, Beta: 1.100

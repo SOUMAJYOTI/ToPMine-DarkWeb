@@ -1,0 +1,61 @@
+Topic 0:
+  records:6.90
+  government:6.67
+  bill:4.55
+  program:4.50
+  national security:4.29
+  major:3.32
+  americans:3.28
+  bulk collection:3.23
+  patriot:2.48
+  grand jury:2.47
+
+Topic 1:
+  guy fawkes:4.78
+  king:4.78
+  holla boys holla boys:4.78
+  remember november gunpowder treason:4.02
+  forgot:4.02
+  link:2.82
+  comic:2.37
+  catchdwith:2.37
+  twas:2.37
+  older:2.37
+
+Topic 2:
+  free:4.79
+  country:3.18
+  fuck:3.18
+  live:3.18
+  spy:3.16
+  deny:3.16
+  expensive:2.30
+  eye:2.30
+  member:2.30
+  outsourced:2.30
+
+Topic 3:
+  government:8.42
+  national security:7.07
+  provision:4.43
+  program:3.69
+  bulk collection:3.23
+  senators:3.00
+  grand jury:2.95
+  mcconnell:2.90
+  patriot:2.89
+  records:2.82
+
+Topic 4:
+  government:5.68
+  bulk collection:1.57
+  records:1.53
+  national security:1.50
+  provision:1.48
+  program:1.46
+  mcconnell:1.20
+  major:1.20
+  bill:1.16
+  order:1.13
+
+K: 5, Log-Likelihood: -10364.402, Alpha: 11.000, Beta: 1.100

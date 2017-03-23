@@ -1,0 +1,61 @@
+Topic 0:
+  pandora:0.86
+  cleared:0.83
+  account:0.78
+  site:0.65
+  test:0.52
+  transaction:0.51
+  left:0.45
+  funds:0.43
+  hub:0.36
+  order:0.34
+
+Topic 1:
+  pandora:0.71
+  site:0.56
+  customers:0.46
+  dont:0.46
+  hub:0.45
+  order:0.44
+  funds:0.36
+  left:0.35
+  cleared:0.33
+  account:0.32
+
+Topic 2:
+  account:1.17
+  cleared:1.09
+  pandora:0.99
+  transaction:0.70
+  test:0.68
+  site:0.64
+  left:0.46
+  funds:0.46
+  hub:0.31
+  phished:0.30
+
+Topic 3:
+  pandora:0.75
+  site:0.60
+  cleared:0.47
+  account:0.46
+  dont:0.43
+  hub:0.42
+  order:0.42
+  left:0.39
+  funds:0.38
+  customers:0.38
+
+Topic 4:
+  pandora:0.70
+  customers:0.57
+  site:0.55
+  order:0.52
+  dont:0.48
+  hub:0.46
+  funds:0.37
+  left:0.35
+  cleared:0.28
+  account:0.27
+
+K: 5, Log-Likelihood: -512.757, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  garden:0.95
+  favorite:0.94
+  check:0.94
+  albert:0.93
+  business:0.93
+  hey:0.93
+  vendor glad:0.93
+  recommended:0.93
+  products:0.93
+  majestic:0.93
+
+Topic 1:
+  ale grey:1.07
+  lama:1.06
+  orange:1.06
+  sunshine:1.05
+  sheet:1.05
+  dose:1.05
+  wise:1.04
+  order:1.04
+  adlai:1.04
+  view:1.04
+
+Topic 2:
+  nope:0.58
+  blotters:0.57
+  big:0.57
+  pretty:0.56
+  view:0.56
+  godself:0.56
+  order:0.56
+  territory:0.56
+  expecting:0.56
+  wise:0.56
+
+Topic 3:
+  love:0.65
+  evo:0.65
+  service:0.65
+  guys:0.64
+  products:0.64
+  majestic:0.64
+  highly:0.64
+  recommended:0.64
+  hey:0.63
+  vendor glad:0.63
+
+Topic 4:
+  lsd:2.66
+  albertheijnkind:1.18
+  needlepoint:1.18
+  shop:1.18
+  personally:1.18
+  trusted:1.18
+  agorahooawayyfoe:1.18
+  quality:1.18
+  positive:1.18
+  onion:1.18
+
+K: 5, Log-Likelihood: -456.596, Alpha: 11.000, Beta: 1.100

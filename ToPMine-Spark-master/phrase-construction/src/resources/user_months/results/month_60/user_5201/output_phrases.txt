@@ -1,0 +1,61 @@
+Topic 0:
+  person claiming:8.09
+  pay:4.02
+  public forums:4.02
+  hacking:4.02
+  single:4.02
+  vulnerability:4.02
+  surrounding:4.02
+  capable:4.02
+  group:4.02
+  fixing:4.02
+
+Topic 1:
+  hacks:10.16
+  guy:8.08
+  stories:8.08
+  vj:6.28
+  thing:6.05
+  quote doseheavy september:5.96
+  cashing coin looked timings:4.83
+  coincide power thai islands:4.83
+  time extorting markets access:4.83
+  person handle:4.14
+
+Topic 2:
+  ve:4.38
+  picture:3.95
+  washing:3.95
+  mental:3.95
+  mention:3.95
+  chained:3.95
+  idea:3.95
+  rasberry:3.95
+  ear:3.95
+  sabu:3.95
+
+Topic 3:
+  coins:12.18
+  users:8.10
+  withdrew btc:8.10
+  btc:8.10
+  measures:8.10
+  security:8.10
+  ll:4.84
+  market:4.74
+  safe:4.03
+  bounties:4.03
+
+Topic 4:
+  site:5.94
+  info:5.68
+  list:4.00
+  spam messages:4.00
+  insecurity:4.00
+  sign:4.00
+  script:4.00
+  risk:4.00
+  kid:4.00
+  exit:4.00
+
+K: 5, Log-Likelihood: -6247.248, Alpha: 11.000, Beta: 1.100

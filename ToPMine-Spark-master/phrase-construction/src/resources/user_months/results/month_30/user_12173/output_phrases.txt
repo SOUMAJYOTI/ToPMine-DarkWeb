@@ -1,0 +1,61 @@
+Topic 0:
+  cloudflare:0.74
+  company:0.74
+  businesss:0.74
+  ddos:0.74
+  read:0.74
+  store:0.74
+  attacks:0.74
+  technology:0.74
+  difficult:0.74
+  addresses:0.74
+
+Topic 1:
+  version:2.50
+  fuck:2.50
+  hate:2.49
+  pass:2.49
+  dont:1.80
+  disabled:1.14
+  yep:1.14
+  matter:1.14
+  fucks:1.14
+  ago:1.14
+
+Topic 2:
+  cloudfare:0.93
+  js:0.73
+  goodbye:0.68
+  enabling:0.68
+  nasty:0.68
+  quote:0.68
+  screen:0.68
+  loads:0.68
+  things:0.67
+  october:0.66
+
+Topic 3:
+  js:0.97
+  cloudfare:0.88
+  things:0.62
+  loads:0.61
+  nasty:0.61
+  goodbye:0.61
+  enabling:0.61
+  screen:0.61
+  october:0.60
+  quote:0.59
+
+Topic 4:
+  transactions:0.93
+  thoughts:0.77
+  bitcoin:0.77
+  asks:0.77
+  doesnt:0.77
+  work:0.77
+  impossible sites:0.77
+  thinking:0.77
+  visible:0.77
+  finding:0.77
+
+K: 5, Log-Likelihood: -735.526, Alpha: 11.000, Beta: 1.100

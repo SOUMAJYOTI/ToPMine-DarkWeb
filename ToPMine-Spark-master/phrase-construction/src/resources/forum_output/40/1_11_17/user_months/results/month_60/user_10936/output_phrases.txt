@@ -1,0 +1,61 @@
+Topic 0:
+  set:1.45
+  dns:0.85
+  setting:0.68
+  isp dns:0.68
+  comps:0.68
+  tcp:0.68
+  depends:0.68
+  good:0.68
+  ability:0.68
+  paranoid:0.68
+
+Topic 1:
+  doesnt answer question:2.03
+  routers:1.27
+  pmhave:1.11
+  heads:1.11
+  certantily:1.11
+  firmware solve problem cheap:1.11
+  quote:1.10
+  firmware:1.06
+  pmquote:0.95
+  upgrade:0.95
+
+Topic 2:
+  dns addresses:3.12
+  dns:2.38
+  computer:1.47
+  isps:1.47
+  frontend:1.47
+  favorite:1.47
+  correctly:1.47
+  inside:1.47
+  providers:1.47
+  alternative:1.47
+
+Topic 3:
+  routers:1.13
+  firmware:0.90
+  quote jigsaw puzzle november:0.79
+  answer question:0.65
+  router:0.64
+  quote:0.60
+  basically:0.59
+  locked:0.59
+  sort:0.59
+  liberating:0.59
+
+Topic 4:
+  dens:3.46
+  log:2.17
+  parade:2.12
+  big:2.10
+  quote jigsaw puzzle november:1.59
+  routers:1.35
+  firmwares:0.98
+  query:0.97
+  avoid:0.97
+  companies:0.97
+
+K: 5, Log-Likelihood: -1389.727, Alpha: 11.000, Beta: 1.100

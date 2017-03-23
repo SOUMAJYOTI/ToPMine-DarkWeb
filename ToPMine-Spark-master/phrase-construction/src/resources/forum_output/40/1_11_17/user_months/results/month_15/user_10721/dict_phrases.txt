@@ -1,0 +1,75 @@
+small,0,1
+big,1,1
+country,2,3
+server vpn,3,1
+dongle,4,1
+governments,5,1
+bittorrent,6,2
+country vpn,7,1
+multi,8,1
+cover,9,1
+red,10,1
+russia,11,1
+tape,12,1
+solution,13,3
+snowdon,14,1
+proof,15,1
+shifty,16,1
+traffic,17,1
+pre,18,1
+solutions,19,1
+finally,20,1
+constitute,21,1
+collaborating,22,1
+intelligence,23,1
+server country,24,1
+entry,25,1
+tails,26,1
+system,27,1
+globe,28,1
+safe,29,2
+final,30,1
+intermediate,31,1
+vpn server,32,5
+western,33,2
+internet,34,1
+dont,35,2
+server,36,6
+technical,37,2
+cooperate,38,1
+hop,39,1
+malaysia,40,1
+eyes,41,3
+network,42,1
+leaks,43,1
+computer,44,1
+security,45,1
+top,46,1
+server eyes,47,1
+fool,48,1
+tor,49,2
+traced,50,1
+client,51,1
+operating,52,1
+place,53,1
+surveillance,54,1
+europe,55,1
+learned,56,1
+clear,57,1
+agencies,58,1
+services,59,1
+configure,60,1
+shitty,61,1
+adversary,62,1
+passive,63,1
+nodes,64,1
+massive,65,1
+vpn,66,8
+service,67,1
+extensively,68,1
+paid,69,1
+le,70,1
+setup,71,1
+maximum,72,1
+eyes country,73,1
+country eyes,74,1

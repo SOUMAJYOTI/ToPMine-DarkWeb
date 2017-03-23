@@ -1,0 +1,61 @@
+Topic 0:
+  quote:1.41
+  pgp:1.14
+  gdf:1.05
+  fluff:1.02
+  sr:1.02
+  march:1.01
+  liquid:0.97
+  product:0.97
+  amazing:0.93
+  day:0.89
+
+Topic 1:
+  quote:1.26
+  pgp:1.15
+  march:1.06
+  vendor:0.99
+  sr:0.98
+  day:0.91
+  message:0.81
+  order:0.80
+  alberthoffman:0.74
+  liquid:0.73
+
+Topic 2:
+  quote:1.31
+  pgp:1.22
+  vendor:1.09
+  sr:0.94
+  fluff:0.92
+  march:0.90
+  gdf:0.90
+  order:0.84
+  day:0.83
+  message:0.80
+
+Topic 3:
+  quote:1.76
+  day:1.55
+  agora:1.26
+  march:1.18
+  alberthoffman:1.15
+  sr:1.01
+  pgp:0.89
+  liquid:0.77
+  bruce:0.77
+  message:0.76
+
+Topic 4:
+  pgp:1.59
+  quote:1.27
+  amazing:1.07
+  product:1.06
+  sr:1.05
+  liquid:0.96
+  message:0.84
+  march:0.84
+  day:0.82
+  albert:0.81
+
+K: 5, Log-Likelihood: -1158.131, Alpha: 11.000, Beta: 1.100

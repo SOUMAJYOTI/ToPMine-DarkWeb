@@ -1,0 +1,61 @@
+Topic 0:
+  clock:3.96
+  private:3.96
+  accepted:3.96
+  countdown:3.96
+  order:3.96
+  dhl:3.96
+  marked:3.96
+  lightnlove:3.74
+  quote dhl:1.95
+  invite:1.95
+
+Topic 1:
+  sending:3.94
+  coins:3.94
+  feel:3.15
+  onion:2.02
+  blotters:1.93
+  routing:1.93
+  people:1.93
+  servicebut:1.93
+  extraneous:1.93
+  blank:1.93
+
+Topic 2:
+  question:4.59
+  service:1.93
+  happened:1.93
+  tumbling:1.93
+  noticed:1.93
+  account:1.93
+  accounts:1.93
+  dnm:1.93
+  preferable:1.93
+  pathway:1.93
+
+Topic 3:
+  persistent storage:5.93
+  february:3.96
+  saved:3.92
+  save:3.92
+  quote:1.97
+  restarted:1.91
+  xncsux:1.91
+  create:1.91
+  didnt:1.91
+  amyou:1.91
+
+Topic 4:
+  persistent folder:2.87
+  permanently:2.86
+  content:2.86
+  subfolders:2.86
+  disappear:2.86
+  restart:2.86
+  saved files:2.86
+  left:2.86
+  tails lightnlove:2.50
+  good:2.41
+
+K: 5, Log-Likelihood: -1709.018, Alpha: 11.000, Beta: 1.100

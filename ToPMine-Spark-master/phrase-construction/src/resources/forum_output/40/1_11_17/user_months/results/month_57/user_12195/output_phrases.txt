@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:1.87
+  coins:1.13
+  ja:0.52
+  lompakkosofta:0.46
+  inconvenience:0.46
+  week:0.46
+  transfer:0.46
+  taas:0.46
+  deposits:0.46
+  problems:0.46
+
+Topic 1:
+  message:0.45
+  ja:0.44
+  bitcoin:0.27
+  onkohan:0.25
+  suht:0.25
+  rasittava:0.25
+  toi:0.25
+  meinaan:0.25
+  korjattavissa:0.25
+  tuota:0.25
+
+Topic 2:
+  read:2.34
+  send:2.34
+  package:1.46
+  dont:1.46
+  chat:1.46
+  witch:1.46
+  log:1.45
+  private:1.45
+  btc:1.45
+  benjomarket:1.45
+
+Topic 3:
+  ja:0.30
+  bitcoin:0.27
+  tuota:0.25
+  suht:0.25
+  korjattavissa:0.25
+  toi:0.25
+  meinaan:0.25
+  onkohan:0.25
+  rasittava:0.25
+  message:0.22
+
+Topic 4:
+  message:0.99
+  ja:0.71
+  niit:0.40
+  olisit:0.40
+  saapuneissa:0.40
+  olekaan:0.40
+  viestit:0.40
+  kyseess:0.40
+  kadonnut:0.40
+  ytt:0.40
+
+K: 5, Log-Likelihood: -679.945, Alpha: 11.000, Beta: 1.100

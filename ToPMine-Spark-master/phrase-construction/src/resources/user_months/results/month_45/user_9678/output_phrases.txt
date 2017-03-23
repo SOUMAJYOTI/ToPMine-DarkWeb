@@ -1,0 +1,61 @@
+Topic 0:
+  nasty:0.96
+  bit:0.94
+  boots:0.93
+  slipped:0.93
+  traveling:0.92
+  shit:0.92
+  hippie:0.92
+  spit:0.92
+  stank:0.92
+  mildewey:0.91
+
+Topic 1:
+  mildewey:0.77
+  traveling:0.76
+  joke:0.76
+  stank:0.76
+  sky:0.75
+  spit:0.75
+  slipped:0.75
+  hippie:0.75
+  shit:0.75
+  boots:0.74
+
+Topic 2:
+  bitcoin:1.65
+  blockchain:1.64
+  ripped:1.63
+  expecting:1.63
+  mail:1.63
+  western:1.63
+  vendors:1.62
+  problems:1.62
+  recieving:1.62
+  risk:1.62
+
+Topic 3:
+  drugs online:3.64
+  buying:1.66
+  bitcoins:1.65
+  wondering:1.64
+  reply:1.63
+  wallet bitcoins:1.63
+  paying:1.63
+  turnsout:1.63
+  wallet:1.62
+  buy:1.62
+
+Topic 4:
+  buy bitcoins:0.71
+  sky:0.60
+  hippie:0.59
+  shit:0.59
+  joke:0.59
+  spit:0.59
+  slipped:0.59
+  boots:0.58
+  mildewey:0.58
+  stank:0.58
+
+K: 5, Log-Likelihood: -647.594, Alpha: 11.000, Beta: 1.100

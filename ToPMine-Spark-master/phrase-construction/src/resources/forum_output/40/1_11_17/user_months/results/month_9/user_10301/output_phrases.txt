@@ -1,0 +1,61 @@
+Topic 0:
+  service:6.55
+  wallet:5.01
+  bitcoin mixer:4.35
+  bitcoin:4.35
+  laundry:4.35
+  anonymity:4.35
+  store:4.35
+  bitcoins:4.35
+  barter:4.32
+  amount:3.86
+
+Topic 1:
+  asa:13.16
+  surveillance:8.77
+  greenwald:8.77
+  nsa:7.24
+  access:7.00
+  agency:6.57
+  hardware:6.03
+  revelations:4.37
+  today:4.37
+  sending:4.37
+
+Topic 2:
+  hard:4.98
+  tapped:4.37
+  computers:4.37
+  build:4.37
+  info:4.37
+  chipsets:4.37
+  profile:4.37
+  ur:4.37
+  phone:4.37
+  interesting:4.25
+
+Topic 3:
+  thing:5.30
+  quote trc amyeah:4.39
+  question sort chinese:4.10
+  modem american router conflicting:4.10
+  door issues:4.10
+  tinfoilers:3.50
+  ive:3.50
+  learned:3.50
+  years:3.50
+  crazy:3.50
+
+Topic 4:
+  wallet:12.96
+  coins:8.76
+  btc:7.98
+  easy coin:7.97
+  electrum:6.50
+  miner:4.37
+  balance:4.37
+  subtract:4.37
+  paying:4.37
+  lost:4.37
+
+K: 5, Log-Likelihood: -7185.987, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  people:6.04
+  panacea:4.27
+  missy:2.44
+  coin:2.41
+  fleeced:2.37
+  scam:2.37
+  members:2.35
+  repeatedly:2.21
+  market:1.30
+  word:1.00
+
+Topic 1:
+  panacea:1.72
+  market:1.28
+  people:1.16
+  repeatedly:0.97
+  scam:0.91
+  scammed:0.88
+  members:0.86
+  fleeced:0.86
+  missy:0.86
+  coin:0.84
+
+Topic 2:
+  snowdens:1.57
+  ssd:1.18
+  day:1.12
+  bit:0.67
+  devices:0.66
+  allowing:0.66
+  disclosure:0.66
+  spoke:0.66
+  sitebut:0.66
+  info:0.66
+
+Topic 3:
+  months:0.88
+  tor:0.82
+  shrooms:0.75
+  bit:0.72
+  thinking:0.64
+  scammed:0.47
+  market:0.43
+  wallet:0.42
+  ssd:0.41
+  day:0.40
+
+Topic 4:
+  market:0.80
+  panacea:0.71
+  scammed:0.67
+  repeatedly:0.54
+  members:0.51
+  people:0.51
+  fleeced:0.50
+  coin:0.48
+  wallet:0.48
+  scam:0.45
+
+K: 5, Log-Likelihood: -1046.147, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  services:0.55
+  bank:0.55
+  sheep:0.55
+  market site:0.55
+  black:0.55
+  bitcoins:0.54
+  shooting sheep:0.54
+  logo:0.54
+  sheep shooting:0.44
+  pmthe:0.44
+
+Topic 1:
+  wallet:0.58
+  funds:0.56
+  site:0.56
+  people:0.37
+  bitcoins:0.29
+  black:0.29
+  logo:0.29
+  shooting sheep:0.29
+  bank:0.29
+  sheep:0.29
+
+Topic 2:
+  site:0.49
+  wallet:0.38
+  funds:0.37
+  people:0.33
+  shooting sheep:0.32
+  logo:0.32
+  bitcoins:0.32
+  black:0.32
+  market site:0.32
+  bank:0.32
+
+Topic 3:
+  funds:0.91
+  wallet:0.90
+  site:0.69
+  people:0.40
+  reading:0.38
+  hop:0.38
+  orders:0.38
+  longer:0.38
+  leave:0.38
+  alot:0.38
+
+Topic 4:
+  site:0.53
+  funds:0.47
+  wallet:0.46
+  people:0.35
+  logo:0.31
+  shooting sheep:0.31
+  bitcoins:0.31
+  market site:0.31
+  sheep:0.31
+  bank:0.31
+
+K: 5, Log-Likelihood: -356.834, Alpha: 11.000, Beta: 1.100

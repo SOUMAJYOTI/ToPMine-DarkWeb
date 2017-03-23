@@ -1,0 +1,61 @@
+Topic 0:
+  site:2.42
+  links:2.40
+  bitcoin:2.03
+  coins:1.80
+  money:1.49
+  send:1.48
+  people:1.42
+  services:1.41
+  withdraw:0.71
+  scam:0.69
+
+Topic 1:
+  good:4.63
+  bitblender:4.30
+  coins:3.41
+  suprised:1.36
+  convert:1.36
+  mix:1.35
+  caution:1.35
+  exchange:1.35
+  alts:1.35
+  rates:1.35
+
+Topic 2:
+  darknet:3.66
+  mixing:2.01
+  links:1.85
+  blond:1.83
+  track:1.68
+  topic:1.68
+  brave:1.68
+  tor:1.68
+  decided:1.68
+  listshare:1.68
+
+Topic 3:
+  people:4.83
+  coins:3.16
+  scam:3.12
+  withdraw:2.77
+  services:2.73
+  dont:2.05
+  bitcoin:1.58
+  multiply:1.43
+  negative:1.43
+  troubles:1.43
+
+Topic 4:
+  people:3.39
+  coins:3.11
+  services:2.38
+  withdraw:2.22
+  bitcoin:2.03
+  scam:1.88
+  dont:1.24
+  trace:1.04
+  stay:1.03
+  reviews:1.03
+
+K: 5, Log-Likelihood: -1203.887, Alpha: 11.000, Beta: 1.100

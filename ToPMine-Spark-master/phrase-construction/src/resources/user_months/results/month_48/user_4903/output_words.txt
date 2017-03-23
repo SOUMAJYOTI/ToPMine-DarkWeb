@@ -1,0 +1,61 @@
+Topic 0:
+  mail:1.51
+  safe:1.19
+  posted:1.09
+  net:0.71
+  surname:0.68
+  reading:0.66
+  love:0.66
+  permission:0.66
+  lsd:0.65
+  belt:0.65
+
+Topic 1:
+  posted:1.31
+  future:0.80
+  truely:0.80
+  waiting:0.79
+  posts:0.79
+  message:0.79
+  love:0.79
+  surname:0.78
+  fellow:0.78
+  reading:0.78
+
+Topic 2:
+  posted:1.20
+  mail:1.08
+  safe:0.76
+  pretty:0.72
+  haven:0.71
+  gift:0.70
+  current:0.70
+  forseeable:0.70
+  review:0.69
+  majestic:0.69
+
+Topic 3:
+  posted:1.16
+  posts:1.09
+  lsd:1.06
+  someones:1.04
+  garden:1.04
+  post:1.04
+  tripping:1.03
+  click:1.03
+  wait:1.03
+  avengers:1.03
+
+Topic 4:
+  posted:1.24
+  permission:0.98
+  frequently:0.98
+  weeks:0.98
+  majestic:0.97
+  current:0.97
+  point:0.97
+  grateful:0.97
+  love:0.96
+  pm:0.95
+
+K: 5, Log-Likelihood: -1078.479, Alpha: 11.000, Beta: 1.100

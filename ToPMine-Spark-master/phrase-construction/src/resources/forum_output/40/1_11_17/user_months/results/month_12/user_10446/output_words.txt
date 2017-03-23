@@ -1,0 +1,61 @@
+Topic 0:
+  escrow:11.05
+  scams:9.76
+  buyer:5.78
+  market:5.10
+  blue:4.52
+  safer:3.83
+  post:3.74
+  vendors:3.45
+  full:3.28
+  anarcho:2.81
+
+Topic 1:
+  sr:10.61
+  heartbleed:5.67
+  small:5.52
+  read:4.59
+  ignorant:4.01
+  southeastern:3.66
+  knowledge:3.66
+  forum:2.84
+  exploit:2.72
+  bug:2.68
+
+Topic 2:
+  people:6.01
+  sr:5.31
+  hate:3.30
+  dumbass:2.72
+  guess:2.64
+  jail:2.54
+  trolly:2.53
+  le:2.39
+  quote:2.15
+  facts:1.81
+
+Topic 3:
+  sr:18.81
+  market:4.98
+  explanations:4.18
+  agora:4.17
+  bring:4.16
+  ideology:3.44
+  le:3.41
+  june:3.22
+  realizing:2.95
+  idea:2.93
+
+Topic 4:
+  sr:10.56
+  dont:3.22
+  bug:3.06
+  heartbleed:2.78
+  small:2.57
+  good:2.39
+  url:2.27
+  quote:1.86
+  le:1.85
+  fast:1.80
+
+K: 5, Log-Likelihood: -4442.693, Alpha: 11.000, Beta: 1.100

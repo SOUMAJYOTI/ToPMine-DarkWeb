@@ -1,0 +1,61 @@
+Topic 0:
+  started:0.40
+  investigating:0.20
+  activities:0.20
+  actual:0.20
+  vendors:0.20
+  meerkovo:0.20
+  outage:0.20
+  completely:0.20
+  hacked:0.20
+  worry:0.20
+
+Topic 1:
+  started:0.40
+  suspicious:0.20
+  satisfaction:0.20
+  exit:0.20
+  worry:0.20
+  market:0.20
+  nucleus:0.20
+  threads:0.20
+  reddit:0.20
+  verified:0.20
+
+Topic 2:
+  started:0.40
+  closed:0.20
+  users:0.20
+  source:0.20
+  threads:0.20
+  scam:0.20
+  activities:0.20
+  don:0.20
+  satisfaction:0.20
+  time:0.20
+
+Topic 3:
+  started:0.40
+  accounts:0.20
+  don:0.20
+  message:0.20
+  server:0.20
+  satisfaction:0.20
+  vendors:0.20
+  verified:0.20
+  nucleus:0.20
+  market:0.20
+
+Topic 4:
+  started:0.41
+  exit:0.20
+  investigating:0.20
+  outage:0.20
+  vendors:0.20
+  scam:0.20
+  server:0.20
+  meerkovo:0.20
+  actual:0.20
+  fact:0.20
+
+K: 5, Log-Likelihood: -109.547, Alpha: 11.000, Beta: 1.100

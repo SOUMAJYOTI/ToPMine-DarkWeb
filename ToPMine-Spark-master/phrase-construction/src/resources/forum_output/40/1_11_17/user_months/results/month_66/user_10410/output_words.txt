@@ -1,0 +1,61 @@
+Topic 0:
+  key:3.17
+  scam:2.67
+  basically:2.61
+  set:2.52
+  fud:2.51
+  multisig:2.35
+  market:2.02
+  working:1.95
+  spreading:1.91
+  forum:1.47
+
+Topic 1:
+  option:12.05
+  key:9.08
+  create:4.52
+  bip:3.89
+  process:3.89
+  wallet:3.89
+  working:3.71
+  expect:2.88
+  implementation:2.21
+  isnt:2.04
+
+Topic 2:
+  december:5.26
+  aflao:4.89
+  market:4.64
+  link:4.03
+  working:3.63
+  walter:3.59
+  time:3.40
+  amquote:3.02
+  links:2.84
+  quote:2.36
+
+Topic 3:
+  opening:4.71
+  forum:4.57
+  announcement:4.23
+  support:4.17
+  forums:4.09
+  doesnt:3.80
+  chose:3.72
+  password:3.27
+  popped:2.71
+  aflao:2.69
+
+Topic 4:
+  market:12.61
+  multisig:10.18
+  quote:8.34
+  december:6.86
+  legitimate:6.74
+  thenextbigthing:6.14
+  scam:5.49
+  dont:3.80
+  fud:3.67
+  post:3.30
+
+K: 5, Log-Likelihood: -3714.575, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  sigaint org:5.87
+  nemesis:4.95
+  hiding:4.95
+  site:4.95
+  simply:4.95
+  frequent:4.79
+  tor:4.09
+  spies:4.08
+  onion address:3.67
+  interesting:3.44
+
+Topic 1:
+  clock:12.40
+  tor:8.35
+  ntpd:7.43
+  messaging providers:6.01
+  stuff:4.95
+  webserver:4.95
+  ntp:4.95
+  running hidden:4.95
+  running tor:4.95
+  requests:4.95
+
+Topic 2:
+  tails:8.89
+  persistent storage:8.26
+  onion address:7.02
+  april:5.52
+  tails keepassx months reason:5.30
+  onion url saved:5.30
+  check trust address:5.30
+  tor network:4.60
+  clarify:4.10
+  pallidpallas:4.10
+
+Topic 3:
+  zaphod april amquote:5.98
+  computer hardware software countries:5.98
+  ava april:5.98
+  man diabolical nsa bitchtards:5.31
+  isnt item play abundance:5.29
+  modified steganographically embed identifier:5.29
+  document word spacings leaned:5.29
+  carrier pigeons fucks fsb:5.29
+  document traced machine produced:5.29
+  screwing happy typewriters:5.04
+
+Topic 4:
+  appreciated:5.25
+  smashes:4.11
+  net:4.11
+  topic:4.11
+  assed:4.11
+  greatly:4.11
+  sponge:4.11
+  half:4.11
+  hope isnt:4.11
+  technology:4.11
+
+K: 5, Log-Likelihood: -7876.564, Alpha: 11.000, Beta: 1.100

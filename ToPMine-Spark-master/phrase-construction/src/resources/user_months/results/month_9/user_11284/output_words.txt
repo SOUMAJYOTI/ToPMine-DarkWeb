@@ -1,0 +1,61 @@
+Topic 0:
+  hub:0.20
+  vendor:0.20
+  fee:0.20
+  amazon:0.20
+  introducing:0.20
+  site:0.20
+  marketplace:0.20
+  crafted:0.20
+  low:0.20
+  deepweb:0.20
+
+Topic 1:
+  captcha:0.20
+  favorite:0.20
+  market:0.20
+  thing:0.20
+  low:0.20
+  crafted:0.20
+  amazon:0.20
+  deepweb:0.20
+  introducing:0.20
+  fee:0.20
+
+Topic 2:
+  market:0.20
+  thing:0.20
+  favorite:0.20
+  captcha:0.20
+  marketplace:0.20
+  amazon:0.20
+  site:0.20
+  deepweb:0.20
+  hub:0.20
+  crafted:0.20
+
+Topic 3:
+  thing:0.20
+  favorite:0.20
+  market:0.20
+  captcha:0.20
+  introducing:0.20
+  deepweb:0.20
+  fee:0.20
+  crafted:0.20
+  site:0.20
+  low:0.20
+
+Topic 4:
+  vendor:0.20
+  low:0.20
+  fee:0.20
+  crafted:0.20
+  deepweb:0.20
+  introducing:0.20
+  site:0.20
+  amazon:0.20
+  marketplace:0.20
+  hub:0.20
+
+K: 5, Log-Likelihood: -36.947, Alpha: 11.000, Beta: 1.100

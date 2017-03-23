@@ -1,0 +1,61 @@
+Topic 0:
+  flash drive:6.03
+  coins:5.45
+  offline computer:3.82
+  armory secure:3.77
+  oil:3.77
+  wallets secure:3.77
+  backup coins:3.77
+  access internet:3.77
+  chances:3.77
+  thumbdrive:3.77
+
+Topic 1:
+  office wallet:19.15
+  cold storage:14.77
+  bitcoin:13.98
+  signed transaction:9.56
+  computer:7.82
+  office computer:7.16
+  online watching wallet:7.16
+  bitcoin cold storage:7.16
+  online wallet:7.16
+  private keys:5.83
+
+Topic 2:
+  private key:6.08
+  paper:4.89
+  beats paper wallets:4.05
+  store paper wallet safe:3.53
+  wallet transfer funds public:3.52
+  address ready spend import:3.52
+  bitaddress orgdownload computer:3.52
+  disconnect internet script generate:3.52
+  blockchain info waiting spend:3.52
+  quote:3.21
+
+Topic 3:
+  request:4.70
+  create:4.63
+  putting:4.45
+  alfie:4.13
+  time:2.81
+  apache:2.30
+  http:2.30
+  waiting:2.30
+  timeout:2.30
+  reply:2.30
+
+Topic 4:
+  master public key:11.31
+  recommend:3.84
+  advantages:3.77
+  child:3.75
+  watch:3.75
+  warning:3.75
+  leak:3.74
+  securerandom:3.73
+  attack:3.72
+  toast:3.72
+
+K: 5, Log-Likelihood: -5325.970, Alpha: 11.000, Beta: 1.100

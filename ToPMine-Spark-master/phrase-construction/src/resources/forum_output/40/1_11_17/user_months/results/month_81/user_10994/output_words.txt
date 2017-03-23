@@ -1,0 +1,61 @@
+Topic 0:
+  acropolis:1.39
+  market:0.93
+  referred:0.66
+  marketplace:0.56
+  forum:0.50
+  invite:0.42
+  sex:0.41
+  cocaine:0.40
+  check:0.35
+  vendor:0.34
+
+Topic 1:
+  market:1.28
+  acropolis:1.15
+  forum:0.84
+  marketplace:0.70
+  vendor:0.54
+  check:0.53
+  referred:0.46
+  cocaine:0.42
+  invite:0.34
+  sex:0.34
+
+Topic 2:
+  acropolis:1.33
+  market:0.97
+  marketplace:0.63
+  forum:0.60
+  referred:0.58
+  cocaine:0.41
+  sex:0.40
+  invite:0.40
+  check:0.40
+  vendor:0.39
+
+Topic 3:
+  acropolis:1.26
+  market:1.04
+  forum:0.71
+  marketplace:0.68
+  referred:0.53
+  vendor:0.46
+  check:0.46
+  cocaine:0.41
+  sex:0.38
+  invite:0.38
+
+Topic 4:
+  acropolis:1.87
+  market:0.78
+  referred:0.77
+  invite:0.46
+  sex:0.46
+  marketplace:0.44
+  cocaine:0.36
+  forum:0.35
+  check:0.27
+  vendor:0.27
+
+K: 5, Log-Likelihood: -362.798, Alpha: 11.000, Beta: 1.100

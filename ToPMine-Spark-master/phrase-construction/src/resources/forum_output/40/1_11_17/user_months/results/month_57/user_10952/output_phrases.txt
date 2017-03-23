@@ -1,0 +1,61 @@
+Topic 0:
+  key:0.28
+  ty:0.28
+  block:0.28
+  ju:0.28
+  public:0.28
+  pgp:0.28
+  host:0.14
+  basin:0.14
+  site:0.14
+  tor:0.14
+
+Topic 1:
+  pgp:0.28
+  block:0.28
+  ju:0.28
+  public:0.28
+  key:0.28
+  ty:0.28
+  rng:0.14
+  kqb:0.14
+  os:0.14
+  wixk:0.14
+
+Topic 2:
+  ty:0.28
+  pgp:0.28
+  block:0.28
+  public:0.28
+  ju:0.28
+  key:0.28
+  si:0.14
+  fkeaixfbzqaidjwdwiekc:0.14
+  xw:0.14
+  myxctit:0.14
+
+Topic 3:
+  ju:0.28
+  key:0.28
+  public:0.28
+  pgp:0.28
+  block:0.28
+  ty:0.28
+  deal:0.14
+  imputable:0.14
+  onion:0.14
+  basin:0.14
+
+Topic 4:
+  key:0.28
+  public:0.28
+  ty:0.28
+  ju:0.28
+  block:0.28
+  pgp:0.28
+  host:0.14
+  onion:0.14
+  deal:0.14
+  tor:0.14
+
+K: 5, Log-Likelihood: -732.041, Alpha: 11.000, Beta: 1.100

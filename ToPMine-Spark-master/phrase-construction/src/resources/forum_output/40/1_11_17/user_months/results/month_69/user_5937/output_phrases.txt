@@ -1,0 +1,51 @@
+Topic 0:
+  blond:0.28
+  wig:0.28
+  bitcoin:0.28
+  exclusive:0.14
+  dash:0.12
+  option:0.12
+  liable:0.12
+  coin:0.12
+
+Topic 1:
+  blond:0.28
+  wig:0.28
+  bitcoin:0.28
+  exclusive:0.14
+  coin:0.12
+  option:0.12
+  liable:0.12
+  dash:0.12
+
+Topic 2:
+  wig:0.28
+  blond:0.28
+  bitcoin:0.28
+  exclusive:0.14
+  liable:0.12
+  coin:0.12
+  option:0.12
+  dash:0.12
+
+Topic 3:
+  bitcoin:0.28
+  blond:0.28
+  wig:0.28
+  exclusive:0.14
+  coin:0.12
+  option:0.12
+  dash:0.12
+  liable:0.12
+
+Topic 4:
+  wig:0.28
+  bitcoin:0.28
+  blond:0.28
+  exclusive:0.14
+  liable:0.12
+  option:0.12
+  coin:0.12
+  dash:0.12
+
+K: 5, Log-Likelihood: -14.324, Alpha: 11.000, Beta: 1.100

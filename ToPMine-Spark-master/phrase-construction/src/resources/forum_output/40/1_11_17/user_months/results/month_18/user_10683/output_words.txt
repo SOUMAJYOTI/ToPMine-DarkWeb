@@ -1,0 +1,61 @@
+Topic 0:
+  tc:2.46
+  fork:1.13
+  system:0.93
+  diskcryptor:0.88
+  reason:0.86
+  encrypt:0.73
+  boot:0.72
+  personal:0.70
+  left:0.70
+  started:0.68
+
+Topic 1:
+  reason:1.22
+  amounts:1.12
+  personal:1.07
+  diskcryptor:0.97
+  july:0.87
+  system:0.84
+  onion:0.69
+  ordering:0.66
+  free:0.66
+  bencousins:0.65
+
+Topic 2:
+  amounts:1.37
+  personal:1.28
+  reason:1.08
+  july:1.04
+  leak:0.84
+  tc:0.82
+  ordering:0.74
+  diskcryptor:0.73
+  free:0.72
+  living:0.72
+
+Topic 3:
+  tc:1.58
+  windows:1.28
+  works:0.91
+  system:0.81
+  fork:0.80
+  diskcryptor:0.72
+  luks:0.67
+  operating:0.67
+  dont:0.66
+  partition:0.61
+
+Topic 4:
+  personal:1.52
+  amounts:1.41
+  reason:1.24
+  july:1.00
+  living:0.85
+  leak:0.85
+  ordering:0.80
+  onion:0.77
+  free:0.75
+  bencousins:0.73
+
+K: 5, Log-Likelihood: -961.424, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  news:0.32
+  time:0.24
+  bud:0.16
+  bad:0.16
+  good:0.16
+  listed:0.08
+  swam:0.08
+  scam:0.08
+  thing:0.08
+  trust:0.08
+
+Topic 1:
+  news:0.33
+  time:0.24
+  bad:0.16
+  good:0.16
+  bud:0.16
+  hit:0.08
+  account:0.08
+  replied:0.08
+  pathetic:0.08
+  papa:0.08
+
+Topic 2:
+  news:0.32
+  time:0.24
+  good:0.16
+  bad:0.16
+  bud:0.16
+  bottom:0.08
+  dont:0.08
+  days:0.08
+  torchat:0.08
+  accused:0.08
+
+Topic 3:
+  news:0.32
+  time:0.24
+  bud:0.16
+  good:0.16
+  bad:0.16
+  threads:0.08
+  escrow:0.08
+  service:0.08
+  making:0.08
+  claimed:0.08
+
+Topic 4:
+  news:0.33
+  time:0.24
+  bad:0.16
+  good:0.16
+  bud:0.16
+  guy:0.08
+  market:0.08
+  cybertheft:0.08
+  bottom:0.08
+  thieves:0.08
+
+K: 5, Log-Likelihood: -109.788, Alpha: 11.000, Beta: 1.100

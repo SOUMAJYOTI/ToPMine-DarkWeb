@@ -1,0 +1,61 @@
+Topic 0:
+  march:1.37
+  ace:1.35
+  people:1.28
+  love:1.08
+  compassion:0.86
+  morocco:0.83
+  farmers:0.82
+  helping:0.81
+  kind:0.81
+  build:0.80
+
+Topic 1:
+  march:1.93
+  people:1.35
+  love:1.22
+  ace:1.21
+  walter:1.08
+  zaphod:1.07
+  village:1.04
+  person:1.02
+  shining:1.01
+  walks:1.00
+
+Topic 2:
+  ace:1.41
+  march:1.38
+  love:1.14
+  people:1.10
+  build:0.79
+  compassion:0.77
+  sells:0.77
+  tears:0.76
+  quote:0.75
+  morocco:0.75
+
+Topic 3:
+  ace:1.62
+  love:1.25
+  people:1.11
+  march:1.06
+  quote:0.81
+  crew:0.80
+  helping:0.73
+  sells:0.73
+  hearted:0.73
+  bouhouhou:0.72
+
+Topic 4:
+  ace:1.41
+  love:1.31
+  march:1.27
+  people:1.16
+  hearted:0.84
+  bouhouhou:0.83
+  helping:0.83
+  shining:0.82
+  quote:0.81
+  eyes:0.81
+
+K: 5, Log-Likelihood: -878.902, Alpha: 11.000, Beta: 1.100

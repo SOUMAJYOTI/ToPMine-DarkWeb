@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.29
+  luotettavan:0.17
+  tai:0.14
+  vaatii:0.14
+  unohda:0.14
+  kaupungissa:0.14
+  coineilla:0.14
+  osoite:0.14
+  isommassa:0.14
+  ll:0.14
+
+Topic 1:
+  ja:0.29
+  luotettavan:0.17
+  ocean:0.14
+  lepsu:0.14
+  baldis:0.14
+  tunnistautumisen:0.14
+  osoitteen:0.14
+  googlea:0.14
+  asianajotoimistolla:0.14
+  tullin:0.14
+
+Topic 2:
+  ja:0.29
+  luotettavan:0.17
+  pojat:0.14
+  ent:0.14
+  toimii:0.14
+  tulli:0.14
+  naamatusten:0.14
+  ep:0.14
+  tt:0.14
+  ehk:0.14
+
+Topic 3:
+  ja:0.29
+  luotettavan:0.17
+  pikatullaukseen:0.14
+  ksi:0.14
+  googlea:0.14
+  luottamuksella:0.14
+  rehellinen:0.14
+  varastaa:0.14
+  tunnisteet:0.14
+  kiinte:0.14
+
+Topic 4:
+  ja:0.29
+  luotettavan:0.17
+  tullit:0.14
+  sitten:0.14
+  tt:0.14
+  valvotun:0.14
+  nain:0.14
+  pojat:0.14
+  ent:0.14
+  tehd:0.14
+
+K: 5, Log-Likelihood: -286.651, Alpha: 11.000, Beta: 1.100

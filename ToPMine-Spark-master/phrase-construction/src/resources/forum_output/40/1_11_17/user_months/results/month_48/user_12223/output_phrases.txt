@@ -1,0 +1,61 @@
+Topic 0:
+  muukin:1.77
+  sielt:1.76
+  ja kaikki:1.76
+  kannattaa:1.76
+  hoitaa:1.76
+  subut:1.75
+  ysin:1.22
+  mielt:1.21
+  ja rehtitukku:1.21
+  lokkeri:1.21
+
+Topic 1:
+  ytt:3.03
+  olla:3.00
+  kurkatkaas:1.43
+  lein:1.43
+  perusteella:1.43
+  tavarat:1.43
+  olevan:1.43
+  luotettava:1.43
+  osaa:1.43
+  ainaki:1.43
+
+Topic 2:
+  kyll:2.02
+  rehtitukku ja:1.86
+  quote:1.75
+  ytyv:1.46
+  rehellist:1.46
+  desperado:1.46
+  pmeik:1.46
+  st:1.46
+  vendoreita:1.46
+  tervetuloa:1.46
+
+Topic 3:
+  kun:2.19
+  oo:1.42
+  juttuja:1.42
+  sun ytt:1.42
+  nistej:1.42
+  kattelee:1.42
+  koni:1.42
+  ymm:1.42
+  kaikki sun:1.42
+  puolesta:1.42
+
+Topic 4:
+  ei:3.13
+  ja:2.26
+  maksun:1.52
+  kirje:1.52
+  ytyy:1.52
+  raportoidakseni:1.52
+  ostoa:1.52
+  vapautusta:1.52
+  vanhaa:1.52
+  ensimm:1.52
+
+K: 5, Log-Likelihood: -1266.579, Alpha: 11.000, Beta: 1.100

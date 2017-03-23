@@ -1,0 +1,61 @@
+Topic 0:
+  lol:0.55
+  site:0.53
+  search:0.37
+  reviews:0.37
+  good:0.25
+  video:0.25
+  yeahh:0.25
+  liveleak:0.25
+  wahhabi:0.25
+  shot:0.25
+
+Topic 1:
+  site:0.74
+  search:0.48
+  reviews:0.48
+  lol:0.38
+  thread:0.23
+  products:0.23
+  verify:0.23
+  listed:0.23
+  everybodywhen:0.23
+  claim:0.23
+
+Topic 2:
+  site:0.61
+  lol:0.45
+  reviews:0.43
+  search:0.43
+  liveleak:0.22
+  wahhabi:0.22
+  yeahh:0.22
+  good:0.22
+  motherfucker:0.22
+  terrorist:0.22
+
+Topic 3:
+  site:0.71
+  search:0.46
+  reviews:0.46
+  lol:0.40
+  post:0.23
+  black:0.23
+  offer:0.23
+  market:0.23
+  grams:0.23
+  guns:0.23
+
+Topic 4:
+  site:0.72
+  search:0.46
+  reviews:0.46
+  lol:0.41
+  hidden:0.23
+  pops:0.23
+  grateful:0.23
+  listed:0.23
+  verify:0.23
+  great:0.23
+
+K: 5, Log-Likelihood: -212.553, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  address:0.24
+  bitcoin:0.16
+  user:0.16
+  scripts:0.08
+  form:0.08
+  backbone:0.08
+  things:0.08
+  familiar:0.08
+  websites:0.08
+  url:0.08
+
+Topic 1:
+  address:0.24
+  bitcoin:0.16
+  user:0.16
+  url:0.08
+  send:0.08
+  software:0.08
+  problem:0.08
+  script:0.08
+  coins:0.08
+  websites:0.08
+
+Topic 2:
+  address:0.24
+  user:0.16
+  bitcoin:0.16
+  things:0.08
+  backbone:0.08
+  familiar:0.08
+  form:0.08
+  scripts:0.08
+  amount:0.08
+  payment:0.08
+
+Topic 3:
+  address:0.24
+  bitcoin:0.16
+  user:0.16
+  custom:0.08
+  bitcoins:0.08
+  send:0.08
+  google:0.08
+  darknet:0.08
+  forward:0.08
+  correct:0.08
+
+Topic 4:
+  address:0.24
+  user:0.16
+  bitcoin:0.16
+  form:0.08
+  familiar:0.08
+  things:0.08
+  backbone:0.08
+  scripts:0.08
+  small:0.08
+  paid:0.08
+
+K: 5, Log-Likelihood: -42.900, Alpha: 11.000, Beta: 1.100

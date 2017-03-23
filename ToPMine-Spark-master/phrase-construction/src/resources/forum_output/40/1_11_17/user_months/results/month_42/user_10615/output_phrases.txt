@@ -1,0 +1,61 @@
+Topic 0:
+  program:10.81
+  national security:6.76
+  court:6.68
+  congress:6.22
+  bulk collection:4.92
+  members congress:4.88
+  panel:4.34
+  ruling:4.25
+  case:4.02
+  obama:3.09
+
+Topic 1:
+  pro:1.78
+  notify:1.77
+  sigh:1.77
+  account:1.77
+  mess:1.76
+  bad:1.76
+  missed:1.75
+  holders:1.74
+  met:1.74
+  news:1.74
+
+Topic 2:
+  bob bitchin:3.60
+  job:2.43
+  check:2.43
+  place:2.43
+  drugs:2.43
+  complain:2.43
+  agra:2.43
+  bouncing:2.43
+  prow:2.43
+  nice:2.43
+
+Topic 3:
+  congress:3.97
+  bulk collection:3.56
+  court:3.50
+  national security:3.42
+  program:2.79
+  case:2.76
+  ruling:2.52
+  panel:2.43
+  update:2.15
+  government:2.09
+
+Topic 4:
+  design:4.88
+  quote zaphod:3.26
+  package:3.24
+  sigaint:3.24
+  idiot:3.23
+  congenial:3.23
+  real:3.22
+  threw:3.22
+  bug:2.47
+  tens:2.47
+
+K: 5, Log-Likelihood: -4842.227, Alpha: 11.000, Beta: 1.100

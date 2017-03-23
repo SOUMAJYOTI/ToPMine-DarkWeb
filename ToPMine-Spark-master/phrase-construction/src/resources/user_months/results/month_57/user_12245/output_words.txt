@@ -1,0 +1,61 @@
+Topic 0:
+  ei:0.80
+  himaan:0.40
+  jotain:0.40
+  tahansa:0.40
+  jo:0.40
+  kannata:0.40
+  kin:0.40
+  sulle:0.40
+  vaiheessa:0.40
+  juttua:0.20
+
+Topic 1:
+  ei:0.80
+  sulle:0.40
+  tahansa:0.40
+  kin:0.40
+  vaiheessa:0.40
+  jo:0.40
+  kannata:0.40
+  jotain:0.40
+  himaan:0.40
+  nain:0.20
+
+Topic 2:
+  ei:0.86
+  jo:0.40
+  jotain:0.40
+  vaiheessa:0.40
+  sulle:0.40
+  kannata:0.40
+  himaan:0.40
+  kin:0.40
+  tahansa:0.39
+  ois:0.20
+
+Topic 3:
+  ei:0.73
+  tahansa:0.41
+  himaan:0.40
+  kannata:0.40
+  kin:0.40
+  vaiheessa:0.40
+  jotain:0.40
+  sulle:0.40
+  jo:0.40
+  kyselless:0.20
+
+Topic 4:
+  ei:0.80
+  himaan:0.40
+  kin:0.40
+  sulle:0.40
+  jotain:0.40
+  kannata:0.40
+  vaiheessa:0.40
+  jo:0.40
+  tahansa:0.40
+  jos:0.20
+
+K: 5, Log-Likelihood: -307.485, Alpha: 11.000, Beta: 1.100

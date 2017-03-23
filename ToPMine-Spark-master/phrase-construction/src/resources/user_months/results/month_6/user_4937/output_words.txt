@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:4.38
+  key:3.39
+  vendor:2.68
+  markets:2.40
+  directory:2.22
+  main:2.19
+  find:2.09
+  server:2.01
+  published:1.76
+  listed:1.67
+
+Topic 1:
+  key:22.57
+  pgp:17.58
+  vendor:11.28
+  directory:5.74
+  markets:5.55
+  public:4.51
+  anonymous:4.42
+  signed:4.30
+  listed:4.29
+  published:4.19
+
+Topic 2:
+  theory:15.11
+  time:14.25
+  scattering:12.03
+  particle:11.86
+  amplituhedron:11.31
+  gravity:11.16
+  space:10.76
+  feynman:10.75
+  arkani:10.71
+  diagrams:10.56
+
+Topic 3:
+  diagrams:12.42
+  particles:10.65
+  hamed:7.80
+  space:7.21
+  quartus:6.95
+  amplitude:5.65
+  feynman:5.22
+  scattering:4.94
+  amplituhedron:4.67
+  twistor:4.52
+
+Topic 4:
+  amazing:1.91
+  implications:1.91
+  read:1.91
+  astounding:1.91
+  february:0.94
+  rendition:0.94
+  artists:0.94
+  tripping:0.94
+  ti:0.94
+  beauuu:0.94
+
+K: 5, Log-Likelihood: -10840.946, Alpha: 11.000, Beta: 1.100

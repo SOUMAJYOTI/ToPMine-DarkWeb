@@ -1,0 +1,61 @@
+Topic 0:
+  months:0.70
+  jack:0.44
+  love:0.43
+  hack:0.39
+  sunday:0.39
+  guys:0.39
+  girls:0.39
+  info:0.39
+  including:0.39
+  road:0.39
+
+Topic 1:
+  jack:0.67
+  isnt:0.63
+  official:0.63
+  guessing:0.63
+  link:0.62
+  heads:0.62
+  agora link:0.62
+  love:0.56
+  pmjust:0.47
+  hotspitta:0.47
+
+Topic 2:
+  months:0.74
+  jack:0.58
+  post:0.46
+  quote:0.43
+  september:0.43
+  url:0.42
+  thread:0.42
+  markets:0.42
+  original:0.42
+  correct:0.42
+
+Topic 3:
+  jack:0.75
+  months:0.55
+  urls:0.48
+  url:0.48
+  markets:0.48
+  original:0.48
+  correct:0.48
+  changed:0.48
+  thread:0.48
+  post:0.45
+
+Topic 4:
+  months:1.59
+  dont:0.65
+  solidify:0.65
+  vendor:0.65
+  guy:0.65
+  ago:0.65
+  week:0.65
+  asked:0.65
+  doesnt:0.65
+  ordered:0.64
+
+K: 5, Log-Likelihood: -495.575, Alpha: 11.000, Beta: 1.100

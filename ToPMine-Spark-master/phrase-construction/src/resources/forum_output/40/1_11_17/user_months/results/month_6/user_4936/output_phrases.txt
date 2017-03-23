@@ -1,0 +1,61 @@
+Topic 0:
+  tor:16.35
+  online wallet:12.97
+  btc:11.72
+  client:9.09
+  blockchain wallet:9.05
+  logon:8.59
+  connection:8.59
+  computer:8.59
+  service:7.90
+  anonymous compared coinbase:7.64
+
+Topic 1:
+  buyers:17.12
+  february:14.16
+  quote:14.10
+  join market:11.38
+  bitcoinfog:10.15
+  tor:9.67
+  fog shared send expensive:9.27
+  bitcoinfog blockchain info privides:9.27
+  pmwhats trustworthy btc mixer:9.27
+  oldisgold february:9.27
+
+Topic 2:
+  transactions:9.73
+  members set online:9.12
+  default:7.55
+  linked:6.92
+  blond wig:5.71
+  dbname:5.67
+  plate:5.67
+  customize:5.67
+  mysql:5.67
+  job:5.67
+
+Topic 3:
+  forum:12.65
+  user:11.46
+  register:11.46
+  deposits withdrawals:8.48
+  pink:8.36
+  works:8.26
+  love:6.44
+  registrations:5.71
+  query:5.71
+  check:5.71
+
+Topic 4:
+  online:14.31
+  wife signal:11.46
+  site:10.31
+  solid:5.72
+  profile:5.72
+  admins:5.72
+  incourt:5.72
+  irc:5.72
+  evidence:5.72
+  sites:5.72
+
+K: 5, Log-Likelihood: -13482.829, Alpha: 11.000, Beta: 1.100

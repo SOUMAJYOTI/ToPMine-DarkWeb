@@ -1,0 +1,61 @@
+Topic 0:
+  blender:0.68
+  vouch:0.61
+  november:0.46
+  cash:0.45
+  payshield:0.40
+  people:0.40
+  helix:0.40
+  bitcoin:0.38
+  lose:0.35
+  tang:0.34
+
+Topic 1:
+  november:1.45
+  recommend:0.84
+  amquote:0.84
+  bitblender:0.83
+  tang:0.82
+  vouch:0.58
+  blender:0.53
+  bitcoin:0.44
+  familiar:0.33
+  sarcasm:0.33
+
+Topic 2:
+  blender:0.64
+  vouch:0.56
+  cash:0.55
+  helix:0.42
+  payshield:0.42
+  people:0.42
+  lose:0.38
+  bitcoin:0.34
+  november:0.32
+  vpn:0.26
+
+Topic 3:
+  blender:1.05
+  vouch:0.63
+  lose:0.53
+  people:0.46
+  helix:0.46
+  payshield:0.46
+  bitcoin:0.41
+  november:0.37
+  cash:0.36
+  bitblender:0.29
+
+Topic 4:
+  blender:1.10
+  vouch:0.63
+  lose:0.53
+  payshield:0.46
+  people:0.46
+  helix:0.46
+  bitcoin:0.43
+  november:0.39
+  cash:0.35
+  tang:0.29
+
+K: 5, Log-Likelihood: -323.968, Alpha: 11.000, Beta: 1.100

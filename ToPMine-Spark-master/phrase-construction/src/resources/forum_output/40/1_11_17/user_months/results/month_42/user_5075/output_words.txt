@@ -1,0 +1,61 @@
+Topic 0:
+  agora:0.82
+  find:0.60
+  earth:0.40
+  good:0.40
+  middle:0.40
+  market:0.39
+  eventually:0.20
+  vendors:0.20
+  quick:0.20
+  thread:0.20
+
+Topic 1:
+  agora:0.82
+  find:0.59
+  market:0.41
+  middle:0.41
+  earth:0.40
+  good:0.39
+  free:0.20
+  move:0.20
+  days:0.20
+  exciting:0.20
+
+Topic 2:
+  agora:0.83
+  find:0.59
+  middle:0.40
+  market:0.40
+  earth:0.40
+  good:0.40
+  love:0.20
+  choosing:0.20
+  feel:0.20
+  faith:0.20
+
+Topic 3:
+  agora:0.77
+  find:0.59
+  good:0.41
+  earth:0.40
+  middle:0.40
+  market:0.39
+  plate:0.20
+  luck:0.20
+  choice:0.20
+  exciting:0.20
+
+Topic 4:
+  agora:0.76
+  find:0.63
+  market:0.41
+  earth:0.40
+  good:0.40
+  middle:0.40
+  luck:0.20
+  plate:0.20
+  exciting:0.20
+  hey:0.20
+
+K: 5, Log-Likelihood: -124.797, Alpha: 11.000, Beta: 1.100

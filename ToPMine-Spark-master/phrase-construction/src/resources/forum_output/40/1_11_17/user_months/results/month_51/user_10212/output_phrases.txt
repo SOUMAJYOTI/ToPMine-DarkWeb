@@ -1,0 +1,61 @@
+Topic 0:
+  coin:4.97
+  orders:4.38
+  tracking:4.04
+  finalize:4.04
+  sb:3.35
+  golden:2.44
+  venue:2.44
+  current:2.44
+  withdraw:2.44
+  ag:2.44
+
+Topic 1:
+  marked shipped:6.19
+  good news:5.89
+  fe:5.08
+  weeks:4.11
+  start:4.11
+  ago:4.11
+  nice:4.11
+  package:4.11
+  arrival:4.11
+  full:4.11
+
+Topic 2:
+  order marked shipped:4.96
+  today:4.66
+  landing:4.35
+  received today:4.00
+  feedback:4.00
+  promising:4.00
+  pack shipped:3.99
+  updated:3.99
+  eu:3.99
+  big:3.99
+
+Topic 3:
+  dxuutx august:6.53
+  pmthis thread opsec:6.16
+  compromising:6.16
+  dean august pmquote:6.16
+  removing locations posts rest:6.16
+  major open failure opinion:4.27
+  quote:4.15
+  quote mdmaster august pmquote:4.09
+  bungee market forums:3.98
+  board major open failure:3.98
+
+Topic 4:
+  experienced:4.00
+  wait:4.00
+  days:4.00
+  shipping times:4.00
+  overseas:4.00
+  unpredictable:4.00
+  times:4.00
+  week:4.00
+  change:3.99
+  today received:3.28
+
+K: 5, Log-Likelihood: -2023.773, Alpha: 11.000, Beta: 1.100

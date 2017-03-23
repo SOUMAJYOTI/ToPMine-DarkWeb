@@ -1,0 +1,61 @@
+Topic 0:
+  police:14.66
+  case:8.76
+  essentially:8.76
+  bad:8.68
+  lawyer:6.57
+  clear imessages whatsapp:5.57
+  facebook messages:5.57
+  cops building today rid:5.57
+  iphone pictures messages asap:5.57
+  iphone notes format mac:5.57
+
+Topic 1:
+  opsec:8.77
+  handler:8.77
+  create:8.77
+  good:8.77
+  ll:7.78
+  youll:5.18
+  face:5.15
+  sew:5.15
+  fucked:4.37
+  quit:4.37
+
+Topic 2:
+  dont:8.38
+  don:8.03
+  stuff stored servers facebook:7.18
+  fucked instagram:7.18
+  quick sidenote facebook messages:7.18
+  problems leo talk stuff:7.16
+  quote knuckles november:6.61
+  good amount evidence:6.59
+  tie illegal:6.59
+  people discussing illegal activities:6.59
+
+Topic 3:
+  mac:11.44
+  disk utility:8.77
+  turn icloud:8.77
+  delete:8.77
+  settings:8.77
+  drive:8.77
+  phone factory reset:5.33
+  takes:4.38
+  password wipe:4.38
+  partition:4.38
+
+Topic 4:
+  guilty:8.75
+  current:5.17
+  sites:5.17
+  trust le:4.36
+  dealings:4.36
+  cost:4.36
+  proportion:4.36
+  scarf:4.36
+  evidence:4.36
+  luck:4.36
+
+K: 5, Log-Likelihood: -11564.160, Alpha: 11.000, Beta: 1.100

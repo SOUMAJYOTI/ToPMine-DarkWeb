@@ -1,0 +1,61 @@
+Topic 0:
+  sarcasm nice:0.45
+  march:0.45
+  quote:0.44
+  aint:0.40
+  ain:0.40
+  job:0.40
+  pmafter:0.40
+  hypotheticalbananas:0.40
+  charity people:0.39
+  future:0.37
+
+Topic 1:
+  march:0.52
+  quote:0.51
+  sarcasm nice:0.51
+  hypotheticalbananas:0.45
+  pmafter:0.45
+  job:0.45
+  ain:0.44
+  aint:0.43
+  charity people:0.41
+  jobit:0.36
+
+Topic 2:
+  post:0.41
+  mods:0.41
+  community:0.41
+  personally:0.41
+  forward:0.41
+  projects:0.41
+  updates:0.41
+  sending:0.41
+  future:0.41
+  recognition donate:0.41
+
+Topic 3:
+  site:0.41
+  helping:0.41
+  sweet:0.41
+  sending:0.41
+  post:0.41
+  cool:0.41
+  thought:0.41
+  chime:0.41
+  feel:0.41
+  coins:0.40
+
+Topic 4:
+  donated:0.45
+  today:0.45
+  donations:0.45
+  mods:0.45
+  planned:0.45
+  recognition:0.45
+  recognition donate:0.45
+  helping:0.45
+  personally:0.45
+  worth:0.45
+
+K: 5, Log-Likelihood: -366.131, Alpha: 11.000, Beta: 1.100

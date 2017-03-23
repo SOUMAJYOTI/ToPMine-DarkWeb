@@ -1,0 +1,61 @@
+Topic 0:
+  buying:12.15
+  illegal:12.05
+  fake:11.38
+  things:5.93
+  ensure:4.80
+  safe:4.75
+  real:3.91
+  warrant:3.86
+  sketchy:3.77
+  paid:3.65
+
+Topic 1:
+  illegal:12.90
+  buying:9.47
+  fake:7.41
+  things:6.60
+  thing:5.02
+  march:4.54
+  government:4.49
+  amquote:3.78
+  systems:3.11
+  buy:3.07
+
+Topic 2:
+  buying:13.62
+  illegal:10.11
+  fake:9.37
+  warrant:7.06
+  safer:6.09
+  things:5.50
+  march:5.40
+  pre:4.76
+  shit:4.42
+  real:4.12
+
+Topic 3:
+  conspiracy:15.45
+  bank:9.69
+  pmquote:7.01
+  march:6.25
+  commit:5.97
+  warrant:5.94
+  charged:5.65
+  knocking:5.62
+  convicted:5.58
+  considered:5.57
+
+Topic 4:
+  illegal:8.67
+  buying:7.62
+  warrant:6.55
+  march:6.36
+  fake:6.06
+  things:5.81
+  safer:3.80
+  shit:3.78
+  mollyk:3.74
+  identification:3.72
+
+K: 5, Log-Likelihood: -6652.183, Alpha: 11.000, Beta: 1.100

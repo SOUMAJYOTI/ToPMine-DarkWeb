@@ -1,0 +1,61 @@
+Topic 0:
+  traffic:0.14
+  atm:0.14
+  crazy:0.14
+  edge:0.14
+  cutting:0.14
+  masterpiece:0.14
+  job:0.14
+  great:0.14
+  business:0.14
+  opinions:0.14
+
+Topic 1:
+  job:0.14
+  masterpiece:0.14
+  cutting:0.14
+  atm:0.14
+  great:0.14
+  edge:0.14
+  crazy:0.14
+  traffic:0.14
+  radar:0.14
+  opinions:0.14
+
+Topic 2:
+  radar:0.14
+  vendor:0.14
+  sort:0.14
+  business:0.14
+  opinions:0.14
+  great:0.14
+  crazy:0.14
+  atm:0.14
+  cutting:0.14
+  job:0.14
+
+Topic 3:
+  traffic:0.14
+  masterpiece:0.14
+  edge:0.14
+  crazy:0.14
+  job:0.14
+  great:0.14
+  atm:0.14
+  cutting:0.14
+  sort:0.14
+  radar:0.14
+
+Topic 4:
+  vendor:0.14
+  opinions:0.14
+  sort:0.14
+  business:0.14
+  radar:0.14
+  traffic:0.14
+  great:0.14
+  edge:0.14
+  crazy:0.14
+  masterpiece:0.14
+
+K: 5, Log-Likelihood: -25.291, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  kautta:0.46
+  menn:0.45
+  silkkitie:0.45
+  voi:0.45
+  netin:0.45
+  varoitus:0.27
+  turvallisesti:0.22
+  eik:0.22
+  tuosta:0.22
+  ohjasi:0.22
+
+Topic 1:
+  netin:0.45
+  kautta:0.44
+  voi:0.44
+  menn:0.44
+  silkkitie:0.44
+  varoitus:0.28
+  varoittanut:0.22
+  osoitteeseen:0.22
+  eik:0.22
+  tuosta:0.22
+
+Topic 2:
+  menn:0.45
+  silkkitie:0.45
+  voi:0.44
+  netin:0.44
+  kautta:0.44
+  varoitus:0.27
+  osoitteeseen:0.22
+  sivusta:0.22
+  turvallisesti:0.22
+  kirjoittanut:0.22
+
+Topic 3:
+  voi:0.44
+  silkkitie:0.43
+  netin:0.42
+  kautta:0.42
+  menn:0.42
+  varoitus:0.29
+  quote:0.23
+  june:0.23
+  foxtrotone:0.23
+  market:0.23
+
+Topic 4:
+  netin:0.44
+  silkkitie:0.44
+  kautta:0.43
+  menn:0.43
+  voi:0.43
+  varoitus:0.28
+  quote:0.22
+  june:0.22
+  foxtrotone:0.22
+  clean:0.22
+
+K: 5, Log-Likelihood: -111.112, Alpha: 11.000, Beta: 1.100

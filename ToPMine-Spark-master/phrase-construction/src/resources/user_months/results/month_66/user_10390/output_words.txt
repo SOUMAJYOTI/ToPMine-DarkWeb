@@ -1,0 +1,61 @@
+Topic 0:
+  link:18.70
+  alphabet:9.17
+  pin:6.69
+  phishing:6.37
+  market:5.25
+  click:3.73
+  official:3.39
+  asked:2.94
+  hub:2.75
+  direct:2.75
+
+Topic 1:
+  links:6.52
+  people:4.55
+  cheese:3.62
+  avon:3.30
+  posting:2.94
+  fires:2.78
+  quote:2.74
+  shit:2.36
+  phishing:2.21
+  couple:1.75
+
+Topic 2:
+  alphabay:5.09
+  pin:4.06
+  username:3.74
+  verify:3.22
+  screen:2.82
+  surname:1.91
+  enter:1.91
+  prompt:1.91
+  password:1.86
+  market:1.78
+
+Topic 3:
+  fuck:10.71
+  markets:8.48
+  place:7.91
+  hill:7.67
+  luck:5.23
+  nun:5.20
+  january:5.18
+  quote:4.86
+  dont:4.80
+  forums:4.48
+
+Topic 4:
+  link:6.80
+  avon:5.52
+  onion:4.08
+  alphabay:3.04
+  real:2.84
+  dead:2.82
+  quote:2.57
+  phishing:2.51
+  login:2.34
+  hog:2.32
+
+K: 5, Log-Likelihood: -3192.447, Alpha: 11.000, Beta: 1.100

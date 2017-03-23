@@ -1,0 +1,61 @@
+Topic 0:
+  referred:0.14
+  fa:0.14
+  alias:0.14
+  log:0.14
+  link:0.14
+  lost:0.14
+  key:0.14
+  pgp:0.14
+  unable:0.14
+  boy:0.14
+
+Topic 1:
+  brother:0.14
+  pgp:0.14
+  weird:0.14
+  link:0.14
+  lost:0.14
+  log:0.14
+  unable:0.14
+  alias:0.14
+  key:0.14
+  boy:0.14
+
+Topic 2:
+  boy:0.14
+  unable:0.14
+  lost:0.14
+  referred:0.14
+  key:0.14
+  pgp:0.14
+  log:0.14
+  weird:0.14
+  fa:0.14
+  link:0.14
+
+Topic 3:
+  key:0.14
+  pgp:0.14
+  alias:0.14
+  fa:0.14
+  brother:0.14
+  boy:0.14
+  unable:0.14
+  weird:0.14
+  referred:0.14
+  link:0.14
+
+Topic 4:
+  brother:0.14
+  weird:0.14
+  log:0.14
+  alias:0.14
+  fa:0.14
+  referred:0.14
+  link:0.14
+  boy:0.14
+  key:0.14
+  lost:0.14
+
+K: 5, Log-Likelihood: -23.087, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  mutter:0.41
+  defunct:0.40
+  list:0.39
+  gold:0.20
+  lucky:0.20
+  shiny:0.20
+  yell:0.20
+  chrome:0.20
+  grey:0.20
+  change:0.20
+
+Topic 1:
+  list:0.40
+  defunct:0.40
+  mutter:0.39
+  ghost:0.20
+  ago:0.20
+  ages:0.20
+  reason:0.20
+  bumped:0.20
+  check:0.20
+  march:0.20
+
+Topic 2:
+  defunct:0.41
+  list:0.40
+  mutter:0.40
+  sr:0.20
+  ago:0.20
+  quote:0.20
+  reason:0.20
+  pmsr:0.20
+  bumped:0.20
+  march:0.20
+
+Topic 3:
+  list:0.40
+  mutter:0.40
+  defunct:0.40
+  reason:0.20
+  march:0.20
+  op:0.20
+  pmsr:0.20
+  ago:0.20
+  ages:0.20
+  bumped:0.20
+
+Topic 4:
+  list:0.40
+  mutter:0.40
+  defunct:0.40
+  posted:0.20
+  check:0.20
+  ages:0.20
+  op:0.20
+  march:0.20
+  bumped:0.20
+  quote:0.20
+
+K: 5, Log-Likelihood: -84.904, Alpha: 11.000, Beta: 1.100

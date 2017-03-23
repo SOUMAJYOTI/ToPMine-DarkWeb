@@ -1,0 +1,61 @@
+Topic 0:
+  remote server:28.41
+  tor router:14.72
+  investigation:11.44
+  case:10.84
+  law enforcement:10.05
+  relay early:9.81
+  cellphones area:8.58
+  event interest detection:8.58
+  detection apprehension:8.58
+  le:8.58
+
+Topic 1:
+  traffic:14.58
+  password:11.38
+  vm:10.46
+  adversary:8.60
+  possessor:8.57
+  rate:7.34
+  website:7.29
+  risk:6.99
+  attacks tor:6.75
+  tor:6.43
+
+Topic 2:
+  dice:11.59
+  tape:9.78
+  february:8.15
+  stream music:7.35
+  quote:7.33
+  http requests feasible vnc:6.47
+  tor extended:6.47
+  elegant info:6.41
+  diceware:6.00
+  provide security long term:5.95
+
+Topic 3:
+  leaks:14.30
+  data center:14.30
+  link:12.34
+  size:12.34
+  constant rate:11.44
+  remote viewer:10.04
+  linked:9.98
+  records:9.81
+  server:8.25
+  linkability:7.36
+
+Topic 4:
+  bits entropy:57.24
+  password:56.25
+  passwords:47.37
+  password bits entropy:31.48
+  character set:28.62
+  entropy:22.21
+  word:19.85
+  password entropy:17.17
+  phrase file word count:17.17
+  sha:17.17
+
+K: 5, Log-Likelihood: -68077.565, Alpha: 11.000, Beta: 1.100

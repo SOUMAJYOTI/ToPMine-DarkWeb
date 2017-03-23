@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:0.20
+  bruce:0.20
+  forum:0.20
+  uri:0.20
+  market:0.20
+  blog:0.20
+  marketplace:0.20
+  sbkmz:0.20
+  isn:0.20
+  march:0.20
+
+Topic 1:
+  blog:0.20
+  march:0.20
+  market:0.20
+  marketplace:0.20
+  quote:0.20
+  pm:0.20
+  reviewing:0.20
+  vendor:0.20
+  bruce:0.20
+  link:0.20
+
+Topic 2:
+  march:0.20
+  isn:0.20
+  uri:0.20
+  pm:0.20
+  marketplace:0.20
+  sbkmz:0.20
+  forum:0.20
+  quote:0.20
+  reviewing:0.20
+  blog:0.20
+
+Topic 3:
+  isnt:0.20
+  link:0.20
+  sbkmz:0.20
+  market:0.20
+  blog:0.20
+  forum:0.20
+  reviewing:0.20
+  quote:0.20
+  isn:0.20
+  marketplace:0.20
+
+Topic 4:
+  quote:0.20
+  link:0.20
+  pm:0.20
+  reviewing:0.20
+  isnt:0.20
+  sbkmz:0.20
+  isn:0.20
+  bruce:0.20
+  uri:0.20
+  march:0.20
+
+K: 5, Log-Likelihood: -44.536, Alpha: 11.000, Beta: 1.100

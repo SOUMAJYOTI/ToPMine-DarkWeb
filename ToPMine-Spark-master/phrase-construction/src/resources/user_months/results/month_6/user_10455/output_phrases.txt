@@ -1,0 +1,61 @@
+Topic 0:
+  cancel:0.00
+  stupid:0.00
+  questionable:0.00
+  importantly:0.00
+  ago:0.00
+  secure:0.00
+  danger:0.00
+  issues:0.00
+  repeated:0.00
+  infuriatingly:0.00
+
+Topic 1:
+  cancel:0.00
+  stupid:0.00
+  questionable:0.00
+  importantly:0.00
+  ago:0.00
+  secure:0.00
+  danger:0.00
+  issues:0.00
+  repeated:0.00
+  infuriatingly:0.00
+
+Topic 2:
+  cancel:0.00
+  stupid:0.00
+  questionable:0.00
+  importantly:0.00
+  ago:0.00
+  secure:0.00
+  danger:0.00
+  issues:0.00
+  repeated:0.00
+  infuriatingly:0.00
+
+Topic 3:
+  cancel:0.00
+  stupid:0.00
+  questionable:0.00
+  importantly:0.00
+  ago:0.00
+  secure:0.00
+  danger:0.00
+  issues:0.00
+  repeated:0.00
+  infuriatingly:0.00
+
+Topic 4:
+  cancel:0.00
+  stupid:0.00
+  questionable:0.00
+  importantly:0.00
+  ago:0.00
+  secure:0.00
+  danger:0.00
+  issues:0.00
+  repeated:0.00
+  infuriatingly:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

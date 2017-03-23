@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.16
+  admins:0.16
+  high:0.16
+  disrupt:0.08
+  question:0.08
+  community:0.08
+  scammer:0.08
+  happening:0.08
+  clarification:0.08
+  wee:0.08
+
+Topic 1:
+  market:0.16
+  high:0.16
+  admins:0.16
+  power:0.08
+  fits:0.08
+  conserned:0.08
+  wee:0.08
+  description:0.08
+  disrupt:0.08
+  question:0.08
+
+Topic 2:
+  high:0.16
+  admins:0.16
+  market:0.16
+  pming:0.08
+  unprofessional:0.08
+  choice:0.08
+  find:0.08
+  fact:0.08
+  action:0.08
+  someones:0.08
+
+Topic 3:
+  admins:0.16
+  high:0.16
+  market:0.16
+  dangerous:0.08
+  sell:0.08
+  time:0.08
+  speculation:0.08
+  isnt:0.08
+  rooting:0.08
+  target:0.08
+
+Topic 4:
+  admins:0.16
+  high:0.16
+  market:0.16
+  hiring:0.08
+  choice:0.08
+  happened:0.08
+  tarkets:0.08
+  sell:0.08
+  directly:0.08
+  frim:0.08
+
+K: 5, Log-Likelihood: -66.386, Alpha: 11.000, Beta: 1.100

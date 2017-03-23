@@ -1,0 +1,61 @@
+Topic 0:
+  key:1.07
+  expired:0.40
+  august:0.40
+  quote:0.39
+  started:0.39
+  thread:0.39
+  trouble:0.20
+  issue:0.20
+  main:0.20
+  jor:0.20
+
+Topic 1:
+  key:0.95
+  expired:0.41
+  quote:0.41
+  started:0.40
+  thread:0.40
+  august:0.40
+  augustand:0.20
+  pmbecause:0.20
+  facepalm:0.20
+  november:0.20
+
+Topic 2:
+  key:1.01
+  started:0.40
+  thread:0.40
+  august:0.40
+  quote:0.40
+  expired:0.39
+  alternate:0.20
+  people:0.20
+  trouble:0.20
+  main:0.20
+
+Topic 3:
+  key:1.02
+  thread:0.41
+  started:0.40
+  quote:0.40
+  august:0.40
+  expired:0.39
+  jor:0.20
+  alternate:0.20
+  people:0.20
+  main:0.20
+
+Topic 4:
+  key:0.95
+  started:0.41
+  august:0.41
+  thread:0.41
+  quote:0.41
+  expired:0.40
+  ohdonpiano:0.20
+  november:0.20
+  pmbecause:0.20
+  augustand:0.20
+
+K: 5, Log-Likelihood: -128.512, Alpha: 11.000, Beta: 1.100

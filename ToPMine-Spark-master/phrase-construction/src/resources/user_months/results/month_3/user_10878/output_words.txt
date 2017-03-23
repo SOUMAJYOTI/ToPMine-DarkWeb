@@ -1,0 +1,61 @@
+Topic 0:
+  marketplace:1.30
+  programming:1.02
+  php:0.98
+  programmed:0.90
+  language:0.85
+  silk:0.64
+  road:0.60
+  website:0.42
+  websites:0.42
+  tor:0.41
+
+Topic 1:
+  programming:1.24
+  marketplace:1.16
+  php:1.03
+  language:0.88
+  programmed:0.79
+  road:0.63
+  silk:0.61
+  website:0.42
+  tor:0.42
+  websites:0.41
+
+Topic 2:
+  programming:1.14
+  marketplace:1.12
+  php:1.00
+  language:0.93
+  programmed:0.91
+  silk:0.70
+  road:0.70
+  websites:0.44
+  tor:0.44
+  website:0.43
+
+Topic 3:
+  marketplace:1.17
+  php:0.96
+  programming:0.68
+  language:0.62
+  programmed:0.57
+  told:0.48
+  road:0.47
+  curious:0.47
+  silk:0.47
+  tor:0.34
+
+Topic 4:
+  marketplace:1.25
+  php:1.03
+  programming:0.93
+  programmed:0.83
+  language:0.72
+  road:0.59
+  silk:0.58
+  curious:0.40
+  told:0.40
+  website:0.40
+
+K: 5, Log-Likelihood: -254.363, Alpha: 11.000, Beta: 1.100

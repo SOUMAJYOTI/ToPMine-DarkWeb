@@ -1,0 +1,61 @@
+Topic 0:
+  coinjoin:2.66
+  darkcoin:2.42
+  people:1.71
+  dont:1.59
+  alt:1.58
+  heard:1.58
+  coin:1.58
+  darkwallet:1.57
+  talking:1.57
+  called:1.57
+
+Topic 1:
+  signing:11.90
+  pgp:10.84
+  people:7.44
+  things:5.90
+  message:5.39
+  isnt:4.57
+  wrote:4.19
+  proof:4.10
+  signed:4.04
+  key:4.01
+
+Topic 2:
+  message:8.35
+  hash:5.76
+  pgp:4.73
+  cr:3.78
+  signature:3.41
+  prove:3.33
+  signed:3.10
+  block:2.80
+  idea:2.79
+  copy:2.79
+
+Topic 3:
+  signature:2.12
+  pgp:1.43
+  message:1.42
+  good:1.35
+  rki:1.04
+  rjbfqji:1.04
+  uzzi:1.04
+  yxrpb:1.04
+  zlm:1.04
+  jzzw:1.04
+
+Topic 4:
+  message:2.56
+  pgp:1.70
+  quote:1.33
+  people:1.27
+  signed:0.90
+  blockchain:0.84
+  time:0.66
+  fact:0.63
+  prove:0.53
+  proof:0.45
+
+K: 5, Log-Likelihood: -3749.891, Alpha: 11.000, Beta: 1.100

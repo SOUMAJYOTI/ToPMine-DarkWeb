@@ -1,0 +1,61 @@
+Topic 0:
+  transaction:21.86
+  vendor:11.11
+  electrum:11.10
+  key:9.26
+  dont:7.61
+  signing:6.61
+  plugin:5.95
+  hex:5.53
+  bitcoind:5.46
+  raw:5.38
+
+Topic 1:
+  db:28.99
+  da:23.99
+  cb:21.99
+  bf:21.99
+  bd:19.99
+  fa:19.99
+  fb:16.99
+  fe:16.87
+  ae:15.99
+  ef:15.99
+
+Topic 2:
+  buyer:35.08
+  seller:32.97
+  product:15.98
+  doesnt:13.29
+  bitcoins:13.01
+  multisig:11.99
+  party:11.98
+  address:10.82
+  cost:9.98
+  people:9.15
+
+Topic 3:
+  wallet:11.21
+  keys:10.39
+  signed:9.71
+  online:6.95
+  truecrypt:6.13
+  private:5.01
+  office:4.89
+  redeemscript:4.80
+  bitcoin:4.62
+  container:4.49
+
+Topic 4:
+  key:39.16
+  private:30.75
+  public:27.15
+  address:24.49
+  funds:20.58
+  blockchain:14.24
+  wallet:13.77
+  cold:12.15
+  blackbank:11.80
+  keys:11.76
+
+K: 5, Log-Likelihood: -14554.420, Alpha: 11.000, Beta: 1.100

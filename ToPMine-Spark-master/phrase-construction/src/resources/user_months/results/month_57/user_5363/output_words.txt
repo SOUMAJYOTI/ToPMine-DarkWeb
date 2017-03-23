@@ -1,0 +1,61 @@
+Topic 0:
+  reccommend:3.35
+  zaphod:2.98
+  ill:2.79
+  key:2.46
+  assurance:1.77
+  happilly:1.77
+  bit:1.77
+  knowledgable:1.77
+  answer:1.77
+  question:1.77
+
+Topic 1:
+  program:2.73
+  tails:1.93
+  gnupg:1.73
+  reccommend:1.45
+  gpg:1.27
+  usb:1.14
+  brahman:1.09
+  july:1.09
+  version:1.05
+  quote:1.02
+
+Topic 2:
+  version:3.15
+  program:2.47
+  released:2.34
+  gpg:2.06
+  releases:1.95
+  usb:1.87
+  latest:1.80
+  release:1.59
+  gnupg:1.50
+  tails:1.39
+
+Topic 3:
+  tails:2.14
+  program:2.11
+  gnupg:1.90
+  gpg:1.67
+  version:1.58
+  reccommend:1.44
+  usb:1.35
+  released:1.08
+  quote:1.06
+  july:1.01
+
+Topic 4:
+  program:2.25
+  gnupg:2.17
+  version:2.16
+  gpg:1.92
+  tails:1.84
+  released:1.63
+  usb:1.55
+  latest:1.37
+  releases:1.27
+  os:1.22
+
+K: 5, Log-Likelihood: -1334.985, Alpha: 11.000, Beta: 1.100

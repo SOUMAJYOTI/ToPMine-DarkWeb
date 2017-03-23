@@ -1,0 +1,61 @@
+Topic 0:
+  bit:0.95
+  remove:0.94
+  email:0.93
+  gpg conf:0.87
+  key:0.80
+  anonymized:0.51
+  putting:0.51
+  recipients:0.51
+  private:0.51
+  fail:0.51
+
+Topic 1:
+  key:0.62
+  gpg conf:0.54
+  bit:0.47
+  email:0.45
+  remove:0.45
+  good:0.44
+  solution:0.43
+  anonymized:0.39
+  putting:0.39
+  test:0.39
+
+Topic 2:
+  usb:2.01
+  rsa keys:2.00
+  gpg:1.99
+  encryption:1.99
+  nightcrawler:0.85
+  complianti:0.85
+  forum:0.85
+  signing:0.85
+  gpa:0.85
+  simpler:0.85
+
+Topic 3:
+  key:0.55
+  good:0.50
+  solution:0.50
+  gpg conf:0.36
+  keys:0.35
+  quote:0.35
+  client:0.34
+  problem:0.34
+  find:0.34
+  earlier:0.34
+
+Topic 4:
+  solution:1.05
+  good:1.04
+  remove:0.78
+  email:0.77
+  bit:0.74
+  gpg conf:0.70
+  key:0.59
+  pgp messages:0.44
+  clients:0.44
+  anonymize:0.44
+
+K: 5, Log-Likelihood: -566.948, Alpha: 11.000, Beta: 1.100

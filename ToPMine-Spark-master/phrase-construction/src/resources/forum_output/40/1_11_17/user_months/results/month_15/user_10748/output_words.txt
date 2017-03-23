@@ -1,0 +1,61 @@
+Topic 0:
+  keys:1.61
+  windows:1.15
+  binary:1.05
+  transaction:0.84
+  tails:0.77
+  based:0.70
+  version:0.68
+  file:0.58
+  automatically:0.55
+  installer:0.53
+
+Topic 1:
+  web:1.90
+  number:1.46
+  file:1.22
+  keys:1.01
+  correct:0.90
+  input:0.90
+  user:0.90
+  address:0.89
+  find:0.89
+  bip:0.89
+
+Topic 2:
+  binary:1.45
+  windows:1.34
+  keys:1.06
+  settings:0.89
+  tarball:0.89
+  issues:0.88
+  tails:0.88
+  wallet:0.85
+  transaction:0.82
+  based:0.81
+
+Topic 3:
+  keys:1.63
+  file:1.25
+  web:1.23
+  number:1.08
+  automatically:0.82
+  installer:0.81
+  bit:0.80
+  key:0.80
+  sh:0.79
+  transaction:0.76
+
+Topic 4:
+  keys:1.69
+  windows:1.49
+  transaction:1.06
+  binary:1.04
+  tails:0.80
+  version:0.65
+  based:0.63
+  file:0.59
+  sh:0.56
+  key:0.56
+
+K: 5, Log-Likelihood: -874.211, Alpha: 11.000, Beta: 1.100

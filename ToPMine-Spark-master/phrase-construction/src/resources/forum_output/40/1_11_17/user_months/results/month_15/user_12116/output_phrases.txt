@@ -1,0 +1,61 @@
+Topic 0:
+  call:3.77
+  cloak:3.76
+  whitepaper:3.23
+  wrong:2.25
+  explain:2.24
+  currency:2.24
+  cloak ahead:2.22
+  true:2.22
+  homework:2.20
+  claim:2.18
+
+Topic 1:
+  whitepaper:1.24
+  light years ahead:1.00
+  notice:0.74
+  monero:0.74
+  waiting:0.73
+  call:0.73
+  cloak:0.72
+  claim:0.72
+  homework:0.70
+  cloak ahead:0.68
+
+Topic 2:
+  light years ahead:0.81
+  waiting:0.77
+  major:0.60
+  darkcoin coin:0.60
+  laundering:0.60
+  clearnet:0.58
+  warning:0.58
+  topics:0.56
+  merged:0.56
+  fold:0.56
+
+Topic 3:
+  drk:1.65
+  yesterday:1.64
+  cloakcoin:1.09
+  coin:1.09
+  anon:1.09
+  hot:1.09
+  bought:0.90
+  hype:0.90
+  month:0.76
+  fold:0.76
+
+Topic 4:
+  guys:3.08
+  account:3.08
+  news:2.95
+  darkcoin:2.94
+  silk:1.47
+  btc:1.47
+  darkcoinbitcointalk:1.47
+  guys anonymous:1.47
+  coins:1.47
+  purchase:1.47
+
+K: 5, Log-Likelihood: -978.556, Alpha: 11.000, Beta: 1.100

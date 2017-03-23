@@ -1,0 +1,61 @@
+Topic 0:
+  offering:0.42
+  site:0.41
+  model:0.40
+  intended:0.40
+  referred:0.40
+  idea:0.40
+  business:0.39
+  require:0.20
+  earthcoin:0.20
+  fedoracoin:0.20
+
+Topic 1:
+  idea:0.41
+  business:0.41
+  intended:0.41
+  referred:0.40
+  model:0.40
+  site:0.38
+  offering:0.38
+  quote:0.21
+  reward:0.21
+  system:0.21
+
+Topic 2:
+  model:0.40
+  business:0.40
+  idea:0.40
+  intended:0.40
+  referred:0.40
+  site:0.38
+  offering:0.38
+  couple:0.21
+  grow:0.21
+  bitin:0.21
+
+Topic 3:
+  model:0.40
+  site:0.40
+  referred:0.40
+  intended:0.40
+  business:0.40
+  idea:0.40
+  offering:0.40
+  awareness:0.20
+  bitin:0.20
+  ami:0.20
+
+Topic 4:
+  offering:0.43
+  site:0.43
+  business:0.40
+  referred:0.40
+  intended:0.39
+  idea:0.39
+  model:0.39
+  feathercoin:0.21
+  started:0.21
+  daily:0.21
+
+K: 5, Log-Likelihood: -186.052, Alpha: 11.000, Beta: 1.100

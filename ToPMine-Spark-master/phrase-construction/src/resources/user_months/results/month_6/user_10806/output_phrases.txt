@@ -1,0 +1,61 @@
+Topic 0:
+  phone:0.16
+  wifi:0.16
+  involved:0.08
+  wrt:0.08
+  craigslist:0.08
+  compatible:0.08
+  connection:0.08
+  routers:0.08
+  ebay:0.08
+  setup:0.08
+
+Topic 1:
+  wifi:0.16
+  phone:0.16
+  local:0.08
+  hub:0.08
+  adroit:0.08
+  tor:0.08
+  company:0.08
+  comp:0.08
+  tower:0.08
+  tails:0.08
+
+Topic 2:
+  wifi:0.16
+  phone:0.16
+  secure:0.08
+  bridge:0.08
+  compatible:0.08
+  dd:0.08
+  internet:0.08
+  craigslist:0.08
+  cheap:0.08
+  google:0.08
+
+Topic 3:
+  phone:0.16
+  wifi:0.16
+  connect:0.08
+  extracted:0.08
+  ethernet:0.08
+  wireless:0.08
+  tower:0.08
+  tails:0.08
+  tether:0.08
+  local:0.08
+
+Topic 4:
+  wifi:0.16
+  phone:0.16
+  extend:0.08
+  cheap:0.08
+  buy:0.08
+  ebay:0.08
+  google:0.08
+  dd:0.08
+  wrt:0.08
+  sound:0.08
+
+K: 5, Log-Likelihood: -60.681, Alpha: 11.000, Beta: 1.100

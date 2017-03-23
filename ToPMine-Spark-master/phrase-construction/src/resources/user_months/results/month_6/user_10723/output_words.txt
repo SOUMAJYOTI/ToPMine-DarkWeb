@@ -1,0 +1,61 @@
+Topic 0:
+  failed:4.78
+  allowed:3.77
+  february:2.89
+  reg:2.70
+  sign:2.70
+  days:2.70
+  hope:2.62
+  dont:2.43
+  site:2.42
+  pirate:2.14
+
+Topic 1:
+  quote:4.48
+  market:3.98
+  january:2.86
+  pirate:2.81
+  external:1.82
+  onion:1.80
+  plan:1.67
+  link:1.60
+  upload:1.23
+  timothy:1.19
+
+Topic 2:
+  game:7.89
+  rock:4.94
+  paper:4.94
+  create:4.59
+  user:3.95
+  scissor:3.94
+  image:3.44
+  games:2.94
+  gambling:2.94
+  work:2.20
+
+Topic 3:
+  bitcoins:10.83
+  tumbler:7.31
+  wallets:4.83
+  wallet:4.45
+  random:3.58
+  transfer:2.84
+  deposit:2.82
+  service:2.69
+  blockchain:2.67
+  market:2.53
+
+Topic 4:
+  market:9.90
+  vendor:6.95
+  buyer:5.95
+  pirate:5.43
+  dispute:4.95
+  multi:3.95
+  order:3.80
+  wallet:2.27
+  guide:1.95
+  payment:1.95
+
+K: 5, Log-Likelihood: -2756.877, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  personal:4.21
+  doomesday:4.21
+  rootkit:4.21
+  disabled:4.21
+  result:4.21
+  video:4.21
+  read:4.21
+  develop:4.21
+  write:4.21
+  component:4.21
+
+Topic 1:
+  bios:4.54
+  credit:4.20
+  things:4.20
+  suddenly:4.20
+  passwords:4.20
+  card:4.20
+  info secret:4.20
+  installed:4.20
+  fusion:4.20
+  detaining:4.20
+
+Topic 2:
+  allot people:8.45
+  malware:6.38
+  october:5.95
+  quote:5.95
+  free open source software:5.42
+  flash chip directly:5.42
+  machine replace bios:5.42
+  reward trouble atop runs:5.42
+  free software:5.42
+  firmware require disassembly wiring:5.42
+
+Topic 3:
+  tor works trust:6.34
+  system:5.58
+  luck man worse understand:5.40
+  person:4.20
+  mouth:4.20
+  totally:4.20
+  massive:4.20
+  waste:4.20
+  making:4.20
+  chances:4.20
+
+Topic 4:
+  transparency:8.46
+  suppose:8.46
+  adversely:4.22
+  gon:4.22
+  positive:4.22
+  eachother:4.22
+  assume:4.22
+  matter:4.22
+  current:4.22
+  encryption smokescreen entire:4.22
+
+K: 5, Log-Likelihood: -9964.540, Alpha: 11.000, Beta: 1.100

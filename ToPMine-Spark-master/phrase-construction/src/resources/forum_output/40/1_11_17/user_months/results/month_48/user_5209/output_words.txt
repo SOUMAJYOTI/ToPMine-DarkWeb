@@ -1,0 +1,61 @@
+Topic 0:
+  deals:1.90
+  agora:1.81
+  direct:1.66
+  galindoi:1.57
+  customers:1.53
+  people:1.42
+  depositing:1.21
+  bulk:0.97
+  order:0.96
+  ebb:0.96
+
+Topic 1:
+  funds:3.20
+  depositing:1.58
+  activity:1.45
+  mushrooms:1.43
+  crickets:1.42
+  hassle:1.42
+  smooth:1.42
+  seller:1.41
+  dollars:1.40
+  wallets:1.40
+
+Topic 2:
+  funds:1.82
+  customers:1.77
+  direct:1.75
+  galindoi:1.71
+  agora:1.67
+  deals:1.27
+  depositing:1.05
+  july:0.94
+  quote:0.92
+  ve:0.91
+
+Topic 3:
+  deals:1.78
+  direct:1.62
+  galindoi:1.60
+  customers:1.46
+  agora:1.45
+  depositing:1.23
+  funds:1.12
+  people:1.11
+  btc:0.92
+  flow:0.87
+
+Topic 4:
+  deals:2.61
+  direct:2.50
+  agora:2.31
+  galindoi:1.93
+  customers:1.90
+  people:1.26
+  flow:1.15
+  ebb:1.14
+  order:1.12
+  moving:1.11
+
+K: 5, Log-Likelihood: -948.863, Alpha: 11.000, Beta: 1.100

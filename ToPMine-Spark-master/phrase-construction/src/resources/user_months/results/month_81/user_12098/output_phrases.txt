@@ -1,0 +1,61 @@
+Topic 0:
+  buying:1.49
+  waste:1.49
+  btc btc:1.49
+  bro:1.49
+  time money:1.48
+  arrived:1.48
+  check:1.06
+  time:0.91
+  localbitcoin:0.48
+  find:0.41
+
+Topic 1:
+  offer:3.16
+  service:3.15
+  mail:3.15
+  bitcoin:2.32
+  recommend:2.32
+  time:1.71
+  localbitcoin:1.58
+  cents:1.50
+  deposit:1.49
+  darkness:1.49
+
+Topic 2:
+  site:5.05
+  money:5.05
+  print:3.35
+  charge:3.35
+  coins:3.35
+  wanted:3.35
+  didnt:3.35
+  remember:3.35
+  good:3.35
+  yea:3.35
+
+Topic 3:
+  november:3.76
+  contact:3.76
+  sign cash deals vendors:2.68
+  fucking reload packs:2.68
+  prefer tx record burned:2.68
+  learned lbc dont:2.68
+  username:2.45
+  boneskoopa:2.45
+  bunch:2.45
+  helps:2.45
+
+Topic 4:
+  pettie blonde raver chick:2.79
+  limits requiring additional:2.37
+  info alternative suck:2.37
+  guess doesn matter personal:2.37
+  pieces verification scanning dl:2.37
+  markets linked checking:2.37
+  dont risk:2.35
+  convenience coinbase:2.35
+  bitin local person:2.35
+  bag dicks scan buy:2.35
+
+K: 5, Log-Likelihood: -1941.823, Alpha: 11.000, Beta: 1.100

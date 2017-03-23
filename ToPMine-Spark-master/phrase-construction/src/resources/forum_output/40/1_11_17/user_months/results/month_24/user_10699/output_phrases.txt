@@ -1,0 +1,61 @@
+Topic 0:
+  dont:6.29
+  key:4.31
+  group:3.70
+  keys tab:3.70
+  keys:3.01
+  spec:2.66
+  inform:2.66
+  lothe:2.66
+  lazy:2.66
+  fo:2.66
+
+Topic 1:
+  tor:10.18
+  tails:3.70
+  tv:3.70
+  downloaded:3.70
+  born:3.70
+  sites:3.70
+  reset:3.70
+  computer:3.70
+  didnt:3.70
+  movies:3.70
+
+Topic 2:
+  buying btc:3.68
+  copy paste:3.65
+  buying:3.60
+  ill:2.85
+  cash:2.83
+  sounds:2.55
+  switch:1.81
+  site:1.81
+  reprocussions:1.81
+  bail:1.81
+
+Topic 3:
+  file:7.45
+  message:7.45
+  amnesia gpg:7.45
+  temp txt:5.58
+  nano temp:5.58
+  press:5.58
+  code select amnesia amnesia:5.58
+  ctrl enter:5.58
+  temp:5.58
+  code select amelia amnesia:5.58
+
+Topic 4:
+  mbr:3.71
+  ccleaner:2.73
+  search:2.73
+  quote:2.52
+  september:2.52
+  carpemundi:2.52
+  rebuild:1.84
+  format:1.84
+  boot:1.84
+  scanners:1.84
+
+K: 5, Log-Likelihood: -4168.927, Alpha: 11.000, Beta: 1.100

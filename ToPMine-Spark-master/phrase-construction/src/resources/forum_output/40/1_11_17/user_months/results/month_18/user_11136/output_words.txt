@@ -1,0 +1,61 @@
+Topic 0:
+  money:7.03
+  july:6.32
+  sr:5.93
+  escrow:5.07
+  dont:4.08
+  evilgrin:4.02
+  expect:3.35
+  order:3.20
+  quote:2.98
+  scammed:2.73
+
+Topic 1:
+  july:9.11
+  money:8.50
+  escrow:6.42
+  sr:6.22
+  pmquote:5.70
+  dont:4.63
+  evilgrin:4.45
+  fantomex:3.60
+  order:3.59
+  gun:3.45
+
+Topic 2:
+  sr:15.07
+  vendor:8.51
+  dr:5.84
+  paradise:5.84
+  support:4.40
+  escrow:4.14
+  customer:3.41
+  negative:2.94
+  feedback:2.94
+  response:2.73
+
+Topic 3:
+  market:6.57
+  silk:5.67
+  road:5.03
+  expect:3.74
+  point:3.51
+  quote:3.12
+  vendor:3.10
+  yeah:3.04
+  commission:2.73
+  funds:2.73
+
+Topic 4:
+  sr:8.71
+  escrow:8.53
+  money:7.31
+  july:6.85
+  evilgrin:3.82
+  straight:3.43
+  purchasing:3.36
+  admin:3.20
+  mustve:3.03
+  meaning:3.00
+
+K: 5, Log-Likelihood: -3929.153, Alpha: 11.000, Beta: 1.100

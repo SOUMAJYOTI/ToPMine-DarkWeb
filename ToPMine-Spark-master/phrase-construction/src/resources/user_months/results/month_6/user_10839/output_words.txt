@@ -1,0 +1,61 @@
+Topic 0:
+  business:5.16
+  deposits:4.81
+  taxes:3.68
+  llc:2.95
+  company:2.95
+  money:2.67
+  cash:2.18
+  btc:1.96
+  taxed:1.95
+  forming:1.95
+
+Topic 1:
+  cash:4.95
+  people:4.76
+  bank:3.11
+  operation:2.98
+  money:2.77
+  option:2.72
+  sums:2.71
+  transactions:1.98
+  mail:1.94
+  smell:1.94
+
+Topic 2:
+  accounts:4.20
+  llcs:3.30
+  deposits:2.94
+  march:2.52
+  open:2.41
+  shell:2.27
+  good:2.17
+  cash:2.12
+  deposit:2.12
+  opening:1.60
+
+Topic 3:
+  amounts:3.88
+  account:2.14
+  accounts:2.12
+  putting:1.88
+  reporting:1.88
+  limit:1.88
+  cash:1.74
+  pretty:1.73
+  obvious:1.73
+  deposits:1.25
+
+Topic 4:
+  account:6.83
+  cash:4.01
+  accounts:3.04
+  orders:2.94
+  report:2.94
+  deposits:2.86
+  bank:2.85
+  vendors:2.66
+  product:2.66
+  burn:2.66
+
+K: 5, Log-Likelihood: -2952.378, Alpha: 11.000, Beta: 1.100

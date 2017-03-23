@@ -1,0 +1,61 @@
+Topic 0:
+  shadow:21.65
+  casino:6.90
+  network:6.87
+  sdc:5.04
+  chips:3.79
+  stealth:3.71
+  system:3.07
+  privacy:2.97
+  time:2.47
+  ownership:2.22
+
+Topic 1:
+  shadow:5.26
+  sdc:4.76
+  casino:4.07
+  network:3.05
+  chips:2.04
+  privacy:1.93
+  stealth:1.64
+  time:1.64
+  tickets:1.49
+  provide:1.49
+
+Topic 2:
+  shadow:1.49
+  sdc:1.30
+  network:0.99
+  casino:0.83
+  system:0.70
+  chips:0.68
+  stealth:0.62
+  amount:0.61
+  bills:0.59
+  process:0.59
+
+Topic 3:
+  shadow:4.48
+  chips:2.38
+  sdc:2.14
+  casino:2.08
+  network:1.97
+  stealth:1.92
+  system:1.71
+  privacy:1.43
+  process:1.41
+  time:1.22
+
+Topic 4:
+  markets:1.92
+  year:1.92
+  people:1.92
+  sac:1.35
+  coin:1.32
+  darkcoin:1.25
+  implementing:1.25
+  persists:0.93
+  worked:0.93
+  actively:0.93
+
+K: 5, Log-Likelihood: -4300.244, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  things:0.28
+  bad motherfuckers:0.28
+  find:0.28
+  machines:0.28
+  extension:0.28
+  ms:0.28
+  coming:0.28
+  cheap:0.28
+  check:0.17
+  cloud:0.14
+
+Topic 1:
+  coming:0.28
+  bad motherfuckers:0.28
+  extension:0.28
+  find:0.28
+  ms:0.28
+  machines:0.28
+  things:0.28
+  cheap:0.27
+  check:0.17
+  reviews:0.14
+
+Topic 2:
+  machines:0.28
+  ms:0.28
+  find:0.28
+  extension:0.28
+  bad motherfuckers:0.28
+  coming:0.28
+  things:0.28
+  cheap:0.28
+  check:0.17
+  bring:0.14
+
+Topic 3:
+  ms:0.28
+  things:0.28
+  find:0.28
+  cheap:0.28
+  coming:0.28
+  extension:0.28
+  bad motherfuckers:0.28
+  machines:0.28
+  check:0.17
+  sterile:0.14
+
+Topic 4:
+  cheap:0.28
+  machines:0.28
+  extension:0.28
+  bad motherfuckers:0.28
+  ms:0.28
+  things:0.28
+  find:0.28
+  coming:0.28
+  check:0.17
+  round:0.14
+
+K: 5, Log-Likelihood: -455.329, Alpha: 11.000, Beta: 1.100

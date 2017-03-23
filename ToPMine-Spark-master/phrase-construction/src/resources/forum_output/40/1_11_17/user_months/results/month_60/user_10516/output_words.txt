@@ -1,0 +1,61 @@
+Topic 0:
+  firewall:7.89
+  vm:6.88
+  rules:4.92
+  gateway:3.94
+  tor:3.91
+  phoenix:2.94
+  strict:2.84
+  drivers:2.66
+  msi:2.66
+  whonix:2.27
+
+Topic 1:
+  ssh:42.98
+  host:28.38
+  keys:18.50
+  regenerate:11.98
+  keygen:9.98
+  start:9.98
+  key:9.10
+  log:8.45
+  init:6.98
+  rsa:4.98
+
+Topic 2:
+  qubes:11.16
+  gb:6.74
+  core:5.53
+  work:4.96
+  supports:4.10
+  fine:3.96
+  cpu:3.53
+  disk:3.40
+  series:2.99
+  space:2.97
+
+Topic 3:
+  os:3.15
+  server:2.54
+  hardware:2.41
+  kernel:2.40
+  memory:2.05
+  cpus:1.66
+  desktop:1.59
+  hard:1.57
+  temporary:1.57
+  iam:1.57
+
+Topic 4:
+  intel:24.83
+  firmware:22.71
+  application:10.97
+  pc:10.97
+  memory:9.66
+  access:8.97
+  key:8.86
+  boot:8.40
+  code:8.00
+  management:7.97
+
+K: 5, Log-Likelihood: -8188.709, Alpha: 11.000, Beta: 1.100

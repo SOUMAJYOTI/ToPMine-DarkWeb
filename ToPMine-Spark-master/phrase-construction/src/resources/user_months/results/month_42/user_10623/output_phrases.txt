@@ -1,0 +1,61 @@
+Topic 0:
+  opium:1.41
+  case:1.31
+  pmgotta:1.30
+  avoid:1.30
+  earth:1.30
+  middle:1.30
+  gatinho:1.30
+  scurvy:1.30
+  march:1.30
+  crew:1.30
+
+Topic 1:
+  forgot orphanage hospital:1.55
+  people walks eyes shining:1.54
+  tears compassion:1.54
+  kind hearted person sells:1.53
+  quote:1.36
+  walter march pmprobably:1.35
+  love:1.30
+  morocco helping poor:1.06
+  farmers build village bouhouhou:1.06
+  ace:1.01
+
+Topic 2:
+  ace:1.43
+  business:1.33
+  tsc:1.33
+  morocco helping poor:0.94
+  farmers build village bouhouhou:0.93
+  love:0.89
+  doxxers:0.84
+  detective:0.84
+  scammers:0.83
+  free:0.73
+
+Topic 3:
+  zaphodbloody:1.70
+  gooder:1.70
+  build village bouhouhou ace:1.69
+  zaphod march:1.69
+  morocco helping poor farmers:1.69
+  amquote:1.67
+  love people:1.63
+  worked:1.63
+  keeping:1.63
+  process:1.63
+
+Topic 4:
+  barry:1.92
+  folks:1.54
+  stay:1.54
+  gear:1.54
+  mixed:1.54
+  feelings:1.53
+  safe:1.53
+  fun:1.53
+  knowing:1.53
+  spotted:1.53
+
+K: 5, Log-Likelihood: -835.433, Alpha: 11.000, Beta: 1.100

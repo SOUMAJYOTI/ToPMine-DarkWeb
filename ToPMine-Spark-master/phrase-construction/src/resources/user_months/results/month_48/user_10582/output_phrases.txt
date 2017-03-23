@@ -1,0 +1,61 @@
+Topic 0:
+  quote digitaldong june:1.15
+  manage private keys keyring:0.98
+  gog usb:0.94
+  pvt key:0.92
+  import public key:0.92
+  turn:0.92
+  gpg win export:0.91
+  lol:0.91
+  pvt key gpg:0.90
+  useless turn:0.89
+
+Topic 1:
+  secret keys:6.88
+  command:5.14
+  quote digitaldong june:4.11
+  open:3.37
+  prompt:3.36
+  enter:1.61
+  number:1.61
+  directions:1.61
+  easiest:1.61
+  play:1.61
+
+Topic 2:
+  darknet:1.70
+  ready:1.70
+  helps:1.70
+  penetrate:1.70
+  assiest:1.70
+  ways:1.70
+  met:1.70
+  hope:1.70
+  exporting:1.70
+  outer:1.70
+
+Topic 3:
+  betelegeuse die asphyxiation deep:2.57
+  june pmquote digitaldong june:2.55
+  times stuck vogon airlock:2.54
+  space listened mother told:2.53
+  pmbtw hell photo zaphod:2.40
+  pack:2.32
+  june:2.32
+  quote:2.32
+  amquote:2.31
+  zaphon beeblebrox tv series:2.00
+
+Topic 4:
+  therego:1.51
+  saves:1.51
+  highlight:1.51
+  click:1.51
+  file import:1.51
+  backup:1.51
+  keys:1.51
+  pvt key gpg:1.19
+  export fine txt file:1.18
+  gpg win export:1.17
+
+K: 5, Log-Likelihood: -1448.943, Alpha: 11.000, Beta: 1.100

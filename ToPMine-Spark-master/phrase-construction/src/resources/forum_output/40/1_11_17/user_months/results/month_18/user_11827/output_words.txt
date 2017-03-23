@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:7.10
+  captcha:5.32
+  marketplace:4.86
+  thehobbit:3.59
+  accounts:2.81
+  free:2.68
+  account:2.62
+  earth:2.56
+  middle:2.24
+  update:1.81
+
+Topic 1:
+  earth:9.65
+  middle:8.36
+  thehobbit:4.81
+  marketplace:3.24
+  tor:2.07
+  vpn:1.19
+  site:1.17
+  scripts:1.12
+  security:1.04
+  uri:0.83
+
+Topic 2:
+  thehobbit:2.64
+  captcha:2.17
+  password:2.12
+  characters:2.11
+  login:2.07
+  good:1.36
+  marketplace:1.33
+  uri:1.20
+  quote:1.18
+  account:1.16
+
+Topic 3:
+  good:4.36
+  pill:3.85
+  quote:2.47
+  marketplace:2.09
+  thehobbit:1.88
+  june:1.65
+  attempts:1.51
+  account:1.38
+  roll:1.29
+  jokes:1.29
+
+Topic 4:
+  middle:16.56
+  earth:14.88
+  scripts:7.67
+  js:5.46
+  tor:4.66
+  fun:3.61
+  joke:3.11
+  marketplace:2.47
+  enabled:2.47
+  javascript:2.44
+
+K: 5, Log-Likelihood: -2633.906, Alpha: 11.000, Beta: 1.100

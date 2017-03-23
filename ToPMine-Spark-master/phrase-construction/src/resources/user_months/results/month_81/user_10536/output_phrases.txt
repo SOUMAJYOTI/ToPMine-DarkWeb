@@ -1,0 +1,61 @@
+Topic 0:
+  friend:0.14
+  web:0.14
+  interested:0.14
+  phones:0.14
+  rexxar:0.14
+  lot:0.14
+  asked:0.14
+  consoles:0.14
+  ordered:0.14
+  opinion:0.14
+
+Topic 1:
+  teddington:0.14
+  card:0.14
+  find:0.14
+  people:0.14
+  darknet:0.14
+  legit:0.14
+  whip:0.14
+  hungrycould:0.14
+  ergh:0.14
+  amyou:0.14
+
+Topic 2:
+  whip:0.14
+  amyou:0.14
+  burger:0.14
+  quote:0.14
+  people:0.14
+  darknet:0.14
+  december:0.14
+  hungrycould:0.14
+  legit:0.14
+  teddington:0.14
+
+Topic 3:
+  fatherted:0.14
+  hungrycould:0.14
+  december:0.14
+  legit:0.14
+  amyou:0.14
+  find:0.14
+  burger:0.14
+  darknet:0.14
+  ergh:0.14
+  people:0.14
+
+Topic 4:
+  dark:0.14
+  consoles:0.14
+  ordered:0.14
+  lot:0.14
+  interested:0.14
+  rexxar:0.14
+  web:0.14
+  laptops:0.14
+  guys:0.14
+  suggestion:0.14
+
+K: 5, Log-Likelihood: -79.139, Alpha: 11.000, Beta: 1.100

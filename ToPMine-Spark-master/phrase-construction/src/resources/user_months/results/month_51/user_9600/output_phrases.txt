@@ -1,0 +1,61 @@
+Topic 0:
+  dropped:7.52
+  don:4.43
+  people don:4.43
+  people dont:4.40
+  loved pretty:3.72
+  lsd:3.72
+  partnership:3.72
+  gamesome:3.72
+  friends:3.72
+  affirming:3.72
+
+Topic 1:
+  marriage:11.49
+  women:10.21
+  wife:7.54
+  destroy feminism forever:7.54
+  seduce:7.54
+  artificial wombs:7.54
+  virtual reality:7.54
+  sex:7.54
+  spread message:7.54
+  women fuck prostitutes:7.54
+
+Topic 2:
+  dont:5.30
+  sounds:4.44
+  married:4.21
+  soul legally:3.73
+  wrong love:3.73
+  point view:3.73
+  viewpoint:3.73
+  involves:3.73
+  funny:3.73
+  joke pretty:3.73
+
+Topic 3:
+  robots:3.75
+  married benefits:3.75
+  cthulu:3.75
+  collection:3.75
+  pray:3.75
+  protections:3.75
+  spouses:3.75
+  nice:3.75
+  sane:3.75
+  reasons:3.75
+
+Topic 4:
+  feminists:3.73
+  antifeminist:3.67
+  focusing:2.26
+  finding:2.26
+  remember:2.26
+  rights:2.26
+  physical:2.26
+  person:2.26
+  read married:2.26
+  include:2.26
+
+K: 5, Log-Likelihood: -5349.317, Alpha: 11.000, Beta: 1.100

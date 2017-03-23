@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:1.83
+  public key:1.46
+  block:1.31
+  version:1.27
+  bcpg:1.26
+  message public:0.75
+  cb:0.64
+  yqkamr:0.64
+  jwbz:0.64
+  zw:0.64
+
+Topic 1:
+  link read:4.05
+  create decrypted pgp:4.00
+  vendors public key:3.33
+  public key encrusted:2.68
+  didnt:2.32
+  easyi:2.32
+  effort:2.32
+  gon:2.32
+  making:2.32
+  daft:2.32
+
+Topic 2:
+  version:1.42
+  block:1.36
+  bcpg:1.30
+  public key:0.97
+  pgp:0.93
+  ldikbhaqqaqiabgucvotdeqakcrdxonbd:0.66
+  kknkepqqz:0.65
+  xvdfb:0.65
+  pip message:0.65
+  lf:0.65
+
+Topic 3:
+  thread:2.35
+  attempt read:2.03
+  dont:2.03
+  version pgp:2.02
+  needed:2.02
+  unsafe:2.02
+  evo:2.01
+  notoriously:2.01
+  change:2.01
+  boards:2.00
+
+Topic 4:
+  pgp:1.56
+  public key:1.01
+  bcpg:0.82
+  message public:0.76
+  block:0.71
+  version:0.69
+  pip:0.69
+  neaygkeregiyhdbkqb:0.41
+  lh:0.41
+  jnkqu:0.41
+
+K: 5, Log-Likelihood: -2219.159, Alpha: 11.000, Beta: 1.100

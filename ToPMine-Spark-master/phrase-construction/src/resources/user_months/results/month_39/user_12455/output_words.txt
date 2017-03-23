@@ -1,0 +1,61 @@
+Topic 0:
+  ytt:0.59
+  mikseri:0.58
+  kaikki:0.41
+  tai:0.40
+  ota:0.20
+  ved:0.20
+  mikserin:0.20
+  bitcoinit:0.20
+  pi:0.20
+  kapteeni:0.20
+
+Topic 1:
+  ytt:0.61
+  mikseri:0.59
+  tai:0.40
+  kaikki:0.40
+  kuuluu:0.20
+  ulkoista:0.20
+  olet:0.20
+  iso:0.20
+  hyv:0.20
+  ostaja:0.20
+
+Topic 2:
+  mikseri:0.63
+  ytt:0.62
+  tai:0.40
+  kaikki:0.39
+  ostaja:0.20
+  iso:0.20
+  myyj:0.20
+  hyv:0.20
+  toimintamalliin:0.20
+  olet:0.20
+
+Topic 3:
+  mikseri:0.59
+  ytt:0.57
+  kaikki:0.41
+  tai:0.40
+  vaan:0.20
+  suomalaiset:0.20
+  huumecoineihin:0.20
+  toisiin:0.20
+  ja:0.20
+  miksataan:0.20
+
+Topic 4:
+  mikseri:0.61
+  ytt:0.60
+  tai:0.40
+  kaikki:0.40
+  ostaja:0.20
+  myyj:0.20
+  toimintamalliin:0.20
+  hyv:0.20
+  olet:0.20
+  jos:0.20
+
+K: 5, Log-Likelihood: -148.154, Alpha: 11.000, Beta: 1.100

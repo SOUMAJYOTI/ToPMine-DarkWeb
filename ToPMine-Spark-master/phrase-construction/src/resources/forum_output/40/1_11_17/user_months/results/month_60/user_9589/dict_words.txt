@@ -1,0 +1,4 @@
+find,0,1
+buy,1,1
+forever,2,1
+referred,3,1

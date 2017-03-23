@@ -1,0 +1,61 @@
+Topic 0:
+  ja:2.41
+  ak:1.55
+  aiemmin:1.45
+  mutta:1.39
+  sit:1.38
+  ei:1.21
+  critical:1.08
+  hyv:1.02
+  kuin:0.96
+  kenelt:0.92
+
+Topic 1:
+  oli:3.82
+  hyv:2.55
+  kuin:2.48
+  satsia:1.87
+  samaa:1.33
+  ll:1.32
+  hetkell:1.14
+  se:1.11
+  satsi:1.11
+  jos:1.00
+
+Topic 2:
+  ja:2.18
+  olisi:1.35
+  mutta:1.24
+  myynniss:1.06
+  hyv:0.90
+  ll:0.85
+  varmasti:0.79
+  hyvin:0.79
+  tai:0.78
+  taisi:0.78
+
+Topic 3:
+  mutta:3.05
+  ei:2.05
+  ja:1.72
+  myynniss:1.37
+  nain:1.32
+  euron:1.32
+  jossain:1.32
+  ak:1.10
+  jotain:0.93
+  tuo:0.90
+
+Topic 4:
+  ja:1.81
+  hyv:1.77
+  olleet:1.49
+  oval:1.48
+  mutta:1.18
+  ei:0.99
+  mit:0.99
+  aiemmin:0.98
+  jack:0.98
+  ll:0.84
+
+K: 5, Log-Likelihood: -1463.852, Alpha: 11.000, Beta: 1.100

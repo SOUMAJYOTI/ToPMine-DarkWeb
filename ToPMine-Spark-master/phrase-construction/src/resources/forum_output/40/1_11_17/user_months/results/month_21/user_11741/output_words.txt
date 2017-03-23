@@ -1,0 +1,61 @@
+Topic 0:
+  helix:2.25
+  service:1.95
+  grams:1.55
+  bitcoin:1.51
+  problems:1.17
+  quote:1.09
+  recommend:0.78
+  clearnet:0.78
+  bitcoinfog:0.77
+  ive:0.76
+
+Topic 1:
+  bitcoin:5.06
+  service:2.93
+  localbitcoins:1.81
+  market:1.77
+  launder:1.36
+  recommend:1.30
+  darknet:0.79
+  sufficient:0.79
+  create:0.78
+  helix:0.77
+
+Topic 2:
+  referred:3.85
+  link:3.11
+  btc:2.25
+  users:1.85
+  bonus:1.85
+  coin:1.85
+  blender:1.50
+  dont:1.40
+  trust:1.36
+  ill:1.33
+
+Topic 3:
+  coins:3.50
+  trade:2.72
+  safe:1.75
+  withdrawing:1.75
+  localbitcoins:1.37
+  lot:1.30
+  dont:1.10
+  pretty:1.02
+  recommend:0.79
+  tumble:0.78
+
+Topic 4:
+  helix:2.25
+  grams:1.37
+  service:1.26
+  bitcoin:1.19
+  problems:1.01
+  recommend:1.00
+  quote:0.95
+  ive:0.65
+  long:0.65
+  bitcoinfog:0.64
+
+K: 5, Log-Likelihood: -1152.958, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  handy:8.27
+  dmt smoking:4.11
+  cheap:4.11
+  devices:4.11
+  high:4.11
+  met:4.11
+  forums:4.11
+  cost:4.11
+  apparatus:4.11
+  pretty:4.11
+
+Topic 1:
+  pace:8.27
+  march pmi:5.22
+  book club:4.12
+  tracking:4.11
+  identifying:4.11
+  electronically:4.11
+  red:4.11
+  flag:4.11
+  designated:4.11
+  reading book:4.11
+
+Topic 2:
+  hard connect dots people:9.67
+  bought cash reasonable concern:8.41
+  metadata trails mind kindle:8.41
+  post snowden platform:8.41
+  thing mindful security folks:8.41
+  reading apps physical books:8.07
+  daystep dark march pmgreat:7.72
+  computers sickens:7.07
+  periods time tablets phones:7.07
+  reading digital book rate:7.07
+
+Topic 3:
+  read:9.24
+  kindle:8.21
+  gods:8.16
+  good:6.14
+  rate interested:4.05
+  warning:4.05
+  paranoid:4.05
+  fair:4.05
+  worry:4.05
+  start:4.05
+
+Topic 4:
+  stick genre rotate books:6.15
+  informed vote books:6.15
+  interesting:4.10
+  saga:4.10
+  rum:4.10
+  list chime books:4.10
+  potential:4.10
+  books interest:4.10
+  format:4.10
+  gangs:4.10
+
+K: 5, Log-Likelihood: -4831.190, Alpha: 11.000, Beta: 1.100

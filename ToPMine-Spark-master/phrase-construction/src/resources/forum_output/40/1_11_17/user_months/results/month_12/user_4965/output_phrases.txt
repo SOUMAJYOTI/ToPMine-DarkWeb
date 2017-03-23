@@ -1,0 +1,61 @@
+Topic 0:
+  text:0.41
+  hope:0.36
+  message:0.22
+  included:0.20
+  press:0.20
+  paste:0.20
+  copy:0.20
+  clipboard:0.20
+  encrypted:0.20
+  problem:0.20
+
+Topic 1:
+  text:0.41
+  hope:0.35
+  message:0.22
+  post:0.21
+  public:0.21
+  including:0.21
+  send:0.21
+  key:0.21
+  assist:0.21
+  long:0.21
+
+Topic 2:
+  text:0.44
+  hope:0.32
+  message:0.23
+  private:0.21
+  encrusted message long:0.21
+  message long:0.21
+  problem:0.21
+  post:0.21
+  read:0.21
+  write:0.21
+
+Topic 3:
+  text:0.41
+  hope:0.37
+  message:0.22
+  copy:0.20
+  clipboard:0.20
+  included:0.20
+  paste:0.20
+  press:0.20
+  kleopatra:0.20
+  office:0.20
+
+Topic 4:
+  hope:0.43
+  text:0.38
+  clipboard:0.22
+  copy:0.22
+  paste:0.22
+  press:0.22
+  included:0.22
+  message:0.22
+  encrusted message:0.20
+  type:0.20
+
+K: 5, Log-Likelihood: -342.165, Alpha: 11.000, Beta: 1.100

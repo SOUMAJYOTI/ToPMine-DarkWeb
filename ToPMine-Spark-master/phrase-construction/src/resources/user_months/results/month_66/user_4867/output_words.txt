@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:1.69
+  great:1.22
+  abx:1.01
+  issue:0.80
+  problem:0.65
+  moment:0.61
+  heard:0.48
+  ive:0.48
+  sorting:0.47
+  noumena:0.47
+
+Topic 1:
+  vendors:1.70
+  great:1.17
+  abx:0.91
+  issue:0.78
+  problem:0.62
+  moment:0.62
+  ve:0.45
+  kittenhuffer:0.45
+  trust:0.45
+  personally:0.45
+
+Topic 2:
+  vendors:1.66
+  great:1.05
+  abx:0.96
+  issue:0.78
+  problem:0.63
+  moment:0.63
+  place:0.45
+  markovich:0.45
+  supports:0.45
+  multisig:0.45
+
+Topic 3:
+  vendors:0.97
+  issue:0.85
+  great:0.77
+  abx:0.57
+  problem:0.57
+  moment:0.55
+  node:0.52
+  straight:0.51
+  starting:0.51
+  local:0.51
+
+Topic 4:
+  vendors:0.98
+  great:0.79
+  issue:0.79
+  moment:0.59
+  abx:0.55
+  problem:0.54
+  invite:0.52
+  worked:0.52
+  bad:0.51
+  local:0.51
+
+K: 5, Log-Likelihood: -488.584, Alpha: 11.000, Beta: 1.100

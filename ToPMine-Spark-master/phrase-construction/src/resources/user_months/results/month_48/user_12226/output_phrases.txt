@@ -1,0 +1,61 @@
+Topic 0:
+  ll:4.65
+  monella:4.58
+  pieniin:4.58
+  jo:4.47
+  taas:3.35
+  rahoja:2.48
+  evon:2.34
+  oikein:2.28
+  olemaa:2.28
+  coinien:2.28
+
+Topic 1:
+  eilen:5.75
+  yt:4.57
+  perille:4.57
+  coinit:4.57
+  ett:4.17
+  siirto:3.72
+  mutta:3.70
+  kun:3.59
+  kyll:3.32
+  mulla:3.19
+
+Topic 2:
+  ei:6.71
+  vitun:4.56
+  edes:3.75
+  joo:3.47
+  mik:3.46
+  aspa:3.46
+  ja:2.89
+  ku:2.87
+  rahaa:2.86
+  klo:2.70
+
+Topic 3:
+  vi open sit saa:3.71
+  kannakin:3.71
+  talletus ja:3.71
+  tu:3.71
+  kaatumisen keen yritettiin myynti:3.71
+  toimi muutama tunti sitten:3.71
+  kertoo:3.71
+  pollari:3.71
+  mit tilaa:3.71
+  teepp:3.71
+
+Topic 4:
+  siin:4.54
+  mennyt:4.53
+  sitten:3.65
+  gutta:3.59
+  toimii:3.43
+  ett:3.34
+  nain:3.10
+  jos:3.10
+  aija:2.24
+  viiveeth:2.24
+
+K: 5, Log-Likelihood: -5304.992, Alpha: 11.000, Beta: 1.100

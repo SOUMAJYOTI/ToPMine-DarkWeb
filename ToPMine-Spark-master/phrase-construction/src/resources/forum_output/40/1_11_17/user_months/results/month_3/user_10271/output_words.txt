@@ -1,0 +1,61 @@
+Topic 0:
+  missing:3.98
+  fucking:3.94
+  evidence:3.94
+  veritable:3.85
+  idiots:3.68
+  sr:3.42
+  listen:2.87
+  dont:2.29
+  simply:2.00
+  convince:1.91
+
+Topic 1:
+  people:3.27
+  sr:2.13
+  march:2.03
+  missing:1.98
+  money:1.98
+  agora:1.93
+  evidence:1.89
+  scamming:1.75
+  quote:1.74
+  btc:1.30
+
+Topic 2:
+  scammed:8.25
+  troll:4.21
+  people:3.66
+  thread:3.56
+  march:2.93
+  internet:2.50
+  quote:2.14
+  sorrymario:1.83
+  le:1.71
+  coming:1.70
+
+Topic 3:
+  people:4.72
+  march:3.82
+  evidence:2.93
+  scammed:2.65
+  quote:2.15
+  troll:2.11
+  turtletime:1.92
+  thread:1.51
+  agora:1.43
+  scamming:1.41
+
+Topic 4:
+  agora:6.28
+  money:6.24
+  scammed:6.17
+  faster:3.73
+  scam:2.73
+  dont:2.51
+  problems:1.75
+  compared:1.75
+  withdrawn:1.75
+  suspect:1.75
+
+K: 5, Log-Likelihood: -2357.635, Alpha: 11.000, Beta: 1.100

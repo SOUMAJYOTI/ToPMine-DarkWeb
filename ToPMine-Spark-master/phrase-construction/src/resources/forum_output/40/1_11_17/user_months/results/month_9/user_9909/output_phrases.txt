@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:0.24
+  tails:0.16
+  saved:0.16
+  partition:0.08
+  persistence persistence:0.08
+  assuming:0.08
+  set:0.08
+  tailsdata:0.08
+  restart:0.08
+  live:0.08
+
+Topic 1:
+  pgp:0.24
+  saved:0.16
+  tails:0.16
+  set:0.08
+  folder:0.08
+  unlocked:0.08
+  tailsdata:0.08
+  assuming:0.08
+  contents:0.08
+  live:0.08
+
+Topic 2:
+  pgp:0.24
+  saved:0.16
+  tails:0.16
+  info:0.08
+  export:0.08
+  didnt:0.08
+  work:0.08
+  longer:0.08
+  upgrade:0.08
+  tips:0.08
+
+Topic 3:
+  pgp:0.24
+  tails:0.16
+  saved:0.16
+  access:0.08
+  pretty:0.08
+  mind:0.08
+  tips:0.08
+  funds:0.08
+  upgrade:0.08
+  asc:0.08
+
+Topic 4:
+  pgp:0.24
+  tails:0.16
+  saved:0.16
+  paste:0.08
+  restart:0.08
+  folder:0.08
+  partition:0.08
+  entire:0.08
+  persistence:0.08
+  snug:0.08
+
+K: 5, Log-Likelihood: -81.478, Alpha: 11.000, Beta: 1.100

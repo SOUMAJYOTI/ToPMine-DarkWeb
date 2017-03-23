@@ -1,0 +1,61 @@
+Topic 0:
+  entire:2.01
+  posting:1.74
+  market:1.65
+  hope:0.93
+  enjoy:0.79
+  happened:0.79
+  baseball:0.79
+  preposterous:0.79
+  fh:0.79
+  warned:0.79
+
+Topic 1:
+  site:3.24
+  js:1.64
+  security:1.41
+  middle:1.38
+  earth:1.23
+  market:1.23
+  people:1.19
+  facts:1.06
+  marketplace:0.86
+  gandalf:0.74
+
+Topic 2:
+  compromised:6.51
+  server:5.65
+  js:3.89
+  dpr:3.75
+  script:3.48
+  programming:2.95
+  things:2.95
+  claim:2.70
+  freedom:2.69
+  people:2.69
+
+Topic 3:
+  earth:13.27
+  middle:12.72
+  agora:5.89
+  migrate:4.89
+  site:4.20
+  community:3.89
+  vendors:3.89
+  speeds:3.89
+  growing:2.90
+  slow:2.89
+
+Topic 4:
+  post:5.20
+  defend:2.01
+  xss:2.01
+  hacks:2.01
+  marketplace:1.64
+  people:1.59
+  marketplaces:1.23
+  agree:1.20
+  figured:1.19
+  discussion:1.18
+
+K: 5, Log-Likelihood: -2678.081, Alpha: 11.000, Beta: 1.100

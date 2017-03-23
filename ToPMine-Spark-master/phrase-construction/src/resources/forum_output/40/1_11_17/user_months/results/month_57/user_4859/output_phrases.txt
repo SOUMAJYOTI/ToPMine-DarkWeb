@@ -1,0 +1,61 @@
+Topic 0:
+  peoples databases:3.13
+  post offices:2.36
+  stamps:2.12
+  cards:1.34
+  data:1.34
+  generally:1.34
+  hassle:1.33
+  worth:1.33
+  multiply:1.33
+  setting:1.33
+
+Topic 1:
+  stamps:1.33
+  st:0.84
+  peoples databases:0.75
+  postage:0.53
+  post offices:0.52
+  accounts:0.48
+  trace:0.48
+  thatd:0.47
+  making:0.47
+  fake:0.47
+
+Topic 2:
+  black:2.06
+  penny:2.06
+  stamp:2.02
+  pay:1.78
+  require javascript:1.71
+  september:1.11
+  system:0.84
+  earliest:0.84
+  postal:0.84
+  worlds:0.84
+
+Topic 3:
+  require javascript:1.05
+  pay:1.02
+  postage printing:0.71
+  ive:0.61
+  btc:0.59
+  easy:0.59
+  site:0.58
+  counterfeit thought:0.58
+  mail:0.58
+  counterfeiting:0.58
+
+Topic 4:
+  require javascript:1.30
+  pay:1.25
+  postage printing:0.79
+  ive:0.70
+  solution:0.67
+  tape:0.67
+  print label:0.67
+  btc:0.66
+  works:0.66
+  shiphi:0.66
+
+K: 5, Log-Likelihood: -866.392, Alpha: 11.000, Beta: 1.100

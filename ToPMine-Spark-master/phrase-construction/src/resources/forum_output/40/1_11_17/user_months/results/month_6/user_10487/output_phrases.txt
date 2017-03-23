@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:0.37
+  ships:0.31
+  understand:0.20
+  canada:0.20
+  breaker:0.18
+  received:0.18
+  confirmed:0.18
+  personally:0.18
+  deal:0.18
+  people:0.18
+
+Topic 1:
+  vendor:0.36
+  ships:0.31
+  canada:0.20
+  understand:0.20
+  days:0.18
+  shipping:0.18
+  escrow:0.18
+  shit:0.18
+  fast:0.18
+  word:0.18
+
+Topic 2:
+  vendor:0.36
+  ships:0.31
+  understand:0.20
+  canada:0.20
+  orders:0.18
+  confirmed:0.18
+  read:0.18
+  deal:0.18
+  personally:0.18
+  breaker:0.18
+
+Topic 3:
+  vendor:0.37
+  ships:0.31
+  understand:0.20
+  canada:0.20
+  selection:0.18
+  clockwork:0.18
+  fast:0.18
+  shipping:0.18
+  notch:0.18
+  pgp:0.18
+
+Topic 4:
+  vendor:0.37
+  ships:0.31
+  canada:0.20
+  understand:0.20
+  choose:0.18
+  shit:0.18
+  fuck:0.18
+  complete:0.18
+  notch:0.18
+  customs:0.18
+
+K: 5, Log-Likelihood: -140.231, Alpha: 11.000, Beta: 1.100

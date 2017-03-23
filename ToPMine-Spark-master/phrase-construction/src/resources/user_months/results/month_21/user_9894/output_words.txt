@@ -1,0 +1,61 @@
+Topic 0:
+  buying:9.42
+  wallet:7.10
+  wallets:6.99
+  people:6.11
+  tumbling:5.66
+  multiply:4.75
+  don:4.19
+  time:4.11
+  good:4.00
+  identity:3.92
+
+Topic 1:
+  tor:11.68
+  coins:6.80
+  blockchain:6.65
+  cash:5.81
+  buy:5.43
+  bought:5.16
+  bitcoin:4.59
+  personally:4.15
+  transfer:3.82
+  trust:3.73
+
+Topic 2:
+  worth:5.42
+  mixing:4.75
+  dont:4.45
+  safe:4.24
+  track:4.15
+  future:3.69
+  mix:3.62
+  don:3.58
+  mixers:3.27
+  question:2.92
+
+Topic 3:
+  clearnet:9.57
+  mixers:6.70
+  jamaiza:6.17
+  tor:4.73
+  quote:3.68
+  bravebunny:3.27
+  worksi:3.21
+  discovered:3.09
+  list:3.06
+  link:2.75
+
+Topic 4:
+  wallet:13.46
+  coins:9.88
+  mixer:8.61
+  time:8.03
+  exchange:7.94
+  btc:6.74
+  links:4.44
+  wallets:4.37
+  funds:4.18
+  sr:3.94
+
+K: 5, Log-Likelihood: -5747.446, Alpha: 11.000, Beta: 1.100

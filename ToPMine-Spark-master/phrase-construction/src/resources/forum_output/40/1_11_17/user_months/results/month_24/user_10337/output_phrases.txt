@@ -1,0 +1,61 @@
+Topic 0:
+  quote:1.51
+  october:1.48
+  time:0.88
+  good:0.87
+  coming:0.86
+  exodus:0.85
+  sr:0.51
+  market:0.41
+  pay:0.37
+  lol:0.37
+
+Topic 1:
+  banned:1.35
+  market:1.27
+  librarian:0.97
+  scammers:0.97
+  talking:0.97
+  campain:0.97
+  master:0.97
+  post:0.97
+  raise:0.97
+  scammed:0.97
+
+Topic 2:
+  sr:0.56
+  quote:0.54
+  october:0.54
+  exodus:0.41
+  good:0.41
+  coming:0.40
+  time:0.40
+  market:0.37
+  complaining:0.34
+  price:0.34
+
+Topic 3:
+  sr:0.55
+  october:0.47
+  quote:0.47
+  coming:0.36
+  exodus:0.35
+  good:0.35
+  time:0.35
+  market:0.35
+  customers:0.35
+  huge:0.35
+
+Topic 4:
+  october:0.76
+  quote:0.74
+  sr:0.55
+  exodus:0.54
+  coming:0.54
+  time:0.53
+  good:0.53
+  market:0.37
+  forced:0.34
+  opening:0.34
+
+K: 5, Log-Likelihood: -1000.392, Alpha: 11.000, Beta: 1.100

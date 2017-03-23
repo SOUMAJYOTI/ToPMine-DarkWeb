@@ -1,0 +1,61 @@
+Topic 0:
+  connect network:2.42
+  public:2.36
+  isnt:2.35
+  connect:1.79
+  tor:1.57
+  tails:1.20
+  proper:1.08
+  wizard:1.08
+  hub:1.08
+  weeks:1.08
+
+Topic 1:
+  tor connect:2.47
+  unsafe browser:1.73
+  similiar:1.61
+  captive:1.60
+  bridges:1.60
+  quote:1.60
+  worked:1.60
+  connection allowed:1.59
+  works:1.59
+  activate:1.59
+
+Topic 2:
+  logon:2.86
+  mac:2.17
+  library:1.89
+  number:1.74
+  member:1.74
+  process:1.36
+  normal:1.36
+  details:1.36
+  monitoring:1.36
+  assume:1.36
+
+Topic 3:
+  access:2.59
+  accept terms:2.58
+  terms:1.14
+  called:1.14
+  free:1.14
+  regular:1.14
+  yeah:1.14
+  accepted:1.14
+  unsafe browser:0.96
+  longer:0.81
+
+Topic 4:
+  connect:1.36
+  tor:1.14
+  tails:0.77
+  tor connect:0.62
+  places:0.61
+  wifi:0.61
+  problem:0.60
+  connection window tab open:0.60
+  close tor browser close:0.59
+  accept terms introduce login:0.59
+
+K: 5, Log-Likelihood: -1060.888, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  hidden service:0.32
+  malicious:0.16
+  tor:0.16
+  works:0.16
+  torrc:0.16
+  add:0.16
+  bridges connect:0.16
+  option:0.16
+  work:0.08
+  process:0.08
+
+Topic 1:
+  hidden service:0.33
+  bridges connect:0.16
+  add:0.16
+  torrc:0.16
+  option:0.16
+  tor:0.16
+  works:0.16
+  malicious:0.16
+  hidden:0.08
+  scenario:0.08
+
+Topic 2:
+  hidden service:0.32
+  works:0.16
+  malicious:0.16
+  torrc:0.16
+  option:0.16
+  bridges connect:0.16
+  tor:0.16
+  add:0.16
+  work:0.08
+  remaining:0.08
+
+Topic 3:
+  hidden service:0.33
+  works:0.16
+  bridges connect:0.16
+  option:0.16
+  add:0.16
+  tor:0.16
+  malicious:0.16
+  torrc:0.16
+  file:0.08
+  mix:0.08
+
+Topic 4:
+  hidden service:0.32
+  add:0.16
+  option:0.16
+  torrc:0.16
+  tor:0.16
+  bridges connect:0.16
+  works:0.16
+  malicious:0.16
+  attacker:0.08
+  file:0.08
+
+K: 5, Log-Likelihood: -113.738, Alpha: 11.000, Beta: 1.100

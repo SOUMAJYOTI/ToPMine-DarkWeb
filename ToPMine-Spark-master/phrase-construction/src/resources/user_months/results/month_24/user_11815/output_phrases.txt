@@ -1,0 +1,61 @@
+Topic 0:
+  js:2.97
+  safe:1.88
+  dnm:1.88
+  quote:1.88
+  full:1.88
+  remember:1.88
+  gandalffuck:0.81
+  rip:0.81
+  arguments:0.81
+  completely:0.81
+
+Topic 1:
+  pandora:0.55
+  evolution:0.52
+  agra:0.52
+  listening:0.41
+  feedback:0.41
+  acting:0.39
+  middle earth:0.37
+  time:0.33
+  capslock:0.33
+  critique:0.33
+
+Topic 2:
+  agra:1.17
+  evolution:1.16
+  pandora:1.13
+  acting:0.49
+  bazar:0.47
+  slow:0.47
+  satisfied:0.47
+  sellers:0.47
+  opinion:0.47
+  weird:0.47
+
+Topic 3:
+  middle earth:0.56
+  javascript:0.45
+  listening:0.37
+  feedback:0.37
+  choose:0.35
+  marketplace:0.34
+  pandora:0.33
+  agra:0.32
+  evolution:0.32
+  acting:0.30
+
+Topic 4:
+  marketplace:1.48
+  choose:1.47
+  middle earth:1.09
+  javascript:0.85
+  rivtwxy:0.60
+  adminmango:0.60
+  overwhelming:0.60
+  continuing:0.60
+  javascript version:0.60
+  starting:0.60
+
+K: 5, Log-Likelihood: -605.318, Alpha: 11.000, Beta: 1.100

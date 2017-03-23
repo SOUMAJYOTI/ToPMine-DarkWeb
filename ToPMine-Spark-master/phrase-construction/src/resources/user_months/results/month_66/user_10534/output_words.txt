@@ -1,0 +1,61 @@
+Topic 0:
+  quote:3.39
+  granny:3.18
+  hope:3.03
+  december:2.62
+  dont:1.78
+  doesn:1.25
+  shop:1.23
+  tang:1.22
+  nice:1.16
+  scammed:1.09
+
+Topic 1:
+  market:8.14
+  deposit:7.71
+  account:7.52
+  btc:6.05
+  address:5.68
+  euro:4.12
+  admins:3.30
+  fucking:2.92
+  response:2.81
+  exact:2.39
+
+Topic 2:
+  december:15.41
+  tang:11.66
+  pmquote:9.71
+  dr:6.67
+  chewits:6.66
+  fatherted:5.68
+  fillings:4.78
+  scammed:4.34
+  nice:4.20
+  doesn:4.18
+
+Topic 3:
+  btc:3.84
+  toast:2.84
+  problems:2.13
+  good:2.11
+  market:1.71
+  pop:1.68
+  click:1.68
+  links:1.68
+  admin:1.67
+  quote:1.45
+
+Topic 4:
+  hours:2.74
+  market:2.66
+  cunts:2.33
+  dont:2.09
+  quote:2.07
+  customers:1.99
+  buyers:1.76
+  forums:1.57
+  told:1.56
+  fall:1.41
+
+K: 5, Log-Likelihood: -2768.125, Alpha: 11.000, Beta: 1.100

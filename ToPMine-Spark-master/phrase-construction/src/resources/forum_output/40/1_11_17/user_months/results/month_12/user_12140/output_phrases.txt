@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins:3.56
+  buy:2.80
+  papa:2.80
+  wash:2.80
+  paysafecard:2.80
+  sell:1.31
+  turnaround:1.31
+  bitcoin:1.31
+  exchangers:1.31
+  paypal:1.31
+
+Topic 1:
+  anonymous:0.69
+  net:0.61
+  cash:0.61
+  mail:0.60
+  bitcoinclassifieds:0.60
+  buying:0.58
+  experience:0.57
+  proceed:0.57
+  caution:0.57
+  money:0.57
+
+Topic 2:
+  flag:0.99
+  chageback:0.99
+  heard:0.99
+  pass:0.99
+  guarentee:0.99
+  red:0.99
+  easily:0.99
+  difficult:0.99
+  numerous:0.99
+  things:0.99
+
+Topic 3:
+  service:4.29
+  people:2.79
+  scam:2.09
+  enumbered:1.30
+  signs:1.30
+  trading:1.30
+  advertisements:1.30
+  address:1.30
+  claiming:1.30
+  posts:1.30
+
+Topic 4:
+  bad:0.65
+  money:0.65
+  ale:0.64
+  promising:0.64
+  ideas:0.64
+  coming:0.64
+  ill:0.64
+  dollars:0.64
+  transmitters:0.64
+  bit:0.64
+
+K: 5, Log-Likelihood: -576.436, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  sucks:1.42
+  led mdma:1.42
+  sea:1.42
+  hold:1.42
+  theheineken:1.42
+  pending:1.42
+  boy:1.42
+  supertrips:1.42
+  nl:1.42
+  busted:1.42
+
+Topic 1:
+  silk road:3.50
+  international:2.22
+  hidden:1.56
+  drug trafficking:1.54
+  united states:1.53
+  dutch police:1.49
+  ecstasy pills:1.46
+  cash bitcoins:1.44
+  vendors:1.43
+  underground market places:1.42
+
+Topic 2:
+  order:1.65
+  users:1.65
+  suspicious:1.64
+  catch:1.63
+  business:1.63
+  running:1.62
+  law enforcement:1.25
+  pmthis:1.19
+  open:1.19
+  happened:1.19
+
+Topic 3:
+  silk road:2.59
+  international:2.36
+  years:1.51
+  market place:1.50
+  underground market places:1.49
+  online marketplaces:1.48
+  cash bitcoins:1.45
+  drug trafficking:1.44
+  man years:1.39
+  united states:1.38
+
+Topic 4:
+  silk road:2.40
+  international:1.73
+  dutch police:1.48
+  man years:1.41
+  ecstasy pills:1.39
+  online marketplaces:1.38
+  market place:1.37
+  vendors:1.36
+  years:1.36
+  cash bitcoins:1.26
+
+K: 5, Log-Likelihood: -1997.473, Alpha: 11.000, Beta: 1.100

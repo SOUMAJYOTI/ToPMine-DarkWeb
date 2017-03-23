@@ -1,0 +1,61 @@
+Topic 0:
+  key:0.93
+  generated:0.64
+  details:0.64
+  hushmail:0.63
+  situation:0.63
+  provider:0.46
+  provision:0.44
+  deepweb:0.44
+  automatically:0.44
+  encrypt emails:0.44
+
+Topic 1:
+  key:2.07
+  situation:1.30
+  hushmail:1.30
+  details:1.29
+  generated:1.29
+  pmis:0.55
+  literal:0.55
+  worms:0.55
+  inccil:0.55
+  opposed:0.55
+
+Topic 2:
+  mails:1.29
+  mail:0.90
+  settings:0.89
+  sends:0.42
+  fro:0.42
+  practical:0.42
+  integrates:0.42
+  plugin:0.42
+  semi:0.42
+  claws:0.42
+
+Topic 3:
+  mails:1.78
+  settings:1.09
+  mail:1.07
+  encrusted:0.50
+  encrypt:0.50
+  gpg:0.50
+  depending:0.50
+  decrypt:0.50
+  feel:0.50
+  streamlined:0.50
+
+Topic 4:
+  encryption:3.02
+  email:1.93
+  stored:1.93
+  standard:1.93
+  gold:1.93
+  case:1.93
+  service:1.74
+  authorities:0.85
+  dont:0.85
+  pmi:0.85
+
+K: 5, Log-Likelihood: -674.319, Alpha: 11.000, Beta: 1.100

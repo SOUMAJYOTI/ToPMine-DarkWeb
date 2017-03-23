@@ -1,0 +1,61 @@
+Topic 0:
+  ms:15.93
+  skype:14.38
+  application:12.46
+  silent circle:10.78
+  phones:9.54
+  people:8.85
+  link:8.41
+  safe:7.24
+  monitor:7.19
+  zfone:7.19
+
+Topic 1:
+  referred link:9.52
+  site:8.84
+  printing:7.16
+  owner:7.15
+  log:7.03
+  vendors:6.50
+  surprised:6.34
+  user vendor:6.32
+  printing company:6.32
+  exchange:6.32
+
+Topic 2:
+  printed materials:10.64
+  btc:9.87
+  party servers:8.63
+  humble server:8.60
+  hidden service:8.60
+  quote:7.79
+  coin:7.43
+  owockeznan:7.17
+  screw:7.15
+  shop:6.73
+
+Topic 3:
+  agora:14.65
+  account:12.72
+  time:10.63
+  info:9.01
+  situation:8.55
+  join inand voice video:8.55
+  ive awhile friendsthey dont:8.55
+  text turn camera voice:8.55
+  market:7.96
+  referred link:7.68
+
+Topic 4:
+  encrypt voice video:12.73
+  call:12.73
+  customer service:12.72
+  voice chat:8.80
+  started:8.68
+  pgp:8.55
+  teamviewer doesnt support:8.51
+  problem traffic:8.37
+  month:7.59
+  address:7.17
+
+K: 5, Log-Likelihood: -20679.110, Alpha: 11.000, Beta: 1.100

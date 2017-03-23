@@ -1,0 +1,10 @@
+market,0,1
+wait,1,1
+wanted,2,1
+noticed,3,1
+temporarily,4,1
+start,5,1
+vending,6,1
+online,7,1
+xxx,8,1
+agora,9,1

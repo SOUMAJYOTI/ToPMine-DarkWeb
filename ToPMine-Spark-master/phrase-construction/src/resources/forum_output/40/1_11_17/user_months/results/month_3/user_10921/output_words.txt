@@ -1,0 +1,61 @@
+Topic 0:
+  street:2.91
+  sr:2.24
+  amount:1.89
+  making:1.68
+  february:1.18
+  bitcoins:1.05
+  thomas:1.00
+  quote:0.97
+  good:0.96
+  ordering:0.92
+
+Topic 1:
+  people:4.40
+  sr:4.38
+  defcon:3.85
+  paid:3.79
+  amount:2.72
+  february:2.55
+  great:2.30
+  true:1.93
+  owe:1.93
+  orders:1.84
+
+Topic 2:
+  defcon:6.88
+  cock:4.81
+  story:4.81
+  doubt:4.80
+  riding:4.80
+  proof:4.70
+  wallet:3.25
+  defcons:3.19
+  february:3.16
+  addy:2.86
+
+Topic 3:
+  sheep:3.84
+  market:3.83
+  captainwhitebeard:3.13
+  jack:2.85
+  amount:2.72
+  quote:2.49
+  february:2.13
+  withdrawls:1.87
+  admin:1.85
+  stole:1.85
+
+Topic 4:
+  prove:10.54
+  btc:7.59
+  proof:7.00
+  february:3.97
+  quote:3.37
+  mycarneedstint:3.11
+  defcon:3.09
+  wallet:2.91
+  sandwich:2.42
+  concern:2.40
+
+K: 5, Log-Likelihood: -2829.022, Alpha: 11.000, Beta: 1.100

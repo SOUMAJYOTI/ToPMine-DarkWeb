@@ -1,0 +1,61 @@
+Topic 0:
+  ab:1.92
+  november:1.55
+  quote avon:1.53
+  dream market:1.22
+  preference:1.22
+  btc true:1.20
+  originally:1.18
+  stories:1.18
+  evolution:1.17
+  stealing:1.17
+
+Topic 1:
+  lost:3.66
+  site:2.62
+  feel:1.90
+  kinda:1.79
+  signs:1.79
+  hey:1.79
+  dissapointed:1.79
+  cunts:1.79
+  things:1.79
+  orders:1.79
+
+Topic 2:
+  ab:3.63
+  users:2.49
+  remember:1.84
+  withdraw:1.83
+  faster:1.82
+  wallet:1.81
+  blink:1.81
+  preaching:1.81
+  agree:1.79
+  buy:1.76
+
+Topic 3:
+  vendors:2.52
+  time:2.19
+  sip:1.75
+  quick:1.75
+  peeps:1.75
+  fat:1.75
+  chardonay:1.75
+  gsc:1.75
+  roll:1.75
+  yay:1.75
+
+Topic 4:
+  loss:2.79
+  phishing:2.79
+  place:2.79
+  account:2.79
+  ll:2.79
+  enable:2.79
+  scammers:2.79
+  design:2.79
+  good:2.79
+  lesson:2.79
+
+K: 5, Log-Likelihood: -1693.236, Alpha: 11.000, Beta: 1.100

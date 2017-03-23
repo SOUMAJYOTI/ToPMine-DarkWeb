@@ -1,0 +1,61 @@
+Topic 0:
+  market google search sr:6.00
+  markets combined dying supporter:6.00
+  largest customer buying power:6.00
+  user base loyal add:6.00
+  capable finding sr:6.00
+  capable finding deep net:6.00
+  sr times volume:6.00
+  june:5.93
+  quote:5.93
+  sales:5.44
+
+Topic 1:
+  forums:5.40
+  week:4.46
+  bit:4.39
+  log market:4.37
+  days:4.23
+  shit:3.61
+  eve:3.12
+  spent:3.05
+  bitcoins:2.95
+  literally:2.62
+
+Topic 2:
+  sr:6.49
+  agora:5.78
+  customers:5.44
+  listings:5.39
+  measure:5.39
+  compared:4.61
+  forum:4.52
+  service:3.97
+  markets:3.73
+  agora forum:3.32
+
+Topic 3:
+  market forum:5.42
+  attack:4.30
+  idiot:4.24
+  ddosing:4.23
+  forum market:3.58
+  agra:3.40
+  work:3.37
+  day:2.82
+  sr:2.81
+  annoying:2.68
+
+Topic 4:
+  forum:10.00
+  market:6.04
+  hub:5.98
+  fine:5.41
+  slow:5.29
+  love:4.57
+  dysfunctional:4.42
+  running:4.41
+  discussion:3.86
+  nice:3.30
+
+K: 5, Log-Likelihood: -4785.848, Alpha: 11.000, Beta: 1.100

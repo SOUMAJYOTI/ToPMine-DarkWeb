@@ -1,0 +1,61 @@
+Topic 0:
+  small amounts:5.44
+  experience:4.10
+  people:3.38
+  feedback:3.15
+  javascript:3.02
+  interested:3.01
+  hearing:2.97
+  enabled:2.90
+  order:2.89
+  doesnt:2.78
+
+Topic 1:
+  method:7.43
+  light version:7.43
+  amount:5.62
+  account:4.95
+  send:4.95
+  randomized:4.95
+  transaction:4.95
+  referred:4.95
+  websites:4.95
+  tumblers:4.95
+
+Topic 2:
+  time:5.94
+  pay shield:5.21
+  hacked:4.85
+  blond wigfog:4.41
+  market:4.09
+  day:4.09
+  fine read:4.09
+  receive:4.09
+  yesterday mix:4.09
+  previous:4.09
+
+Topic 3:
+  btc:14.61
+  refresh order status:8.26
+  send vendor:8.26
+  pay shield pay shield:6.19
+  pay shield:5.67
+  told received:4.10
+  vendor captcha:4.10
+  transfert:4.10
+  precisely minutes:4.10
+  power:4.10
+
+Topic 4:
+  test:3.82
+  problems blockchain:3.82
+  info:3.82
+  luc:3.82
+  unlink coins:3.32
+  ll:3.09
+  youll:2.97
+  great tool enhance privacy:2.80
+  exact amount bill deposit:2.80
+  latest sigaint service:2.80
+
+K: 5, Log-Likelihood: -8315.757, Alpha: 11.000, Beta: 1.100

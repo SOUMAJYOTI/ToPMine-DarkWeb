@@ -1,0 +1,61 @@
+Topic 0:
+  full disk encryption:3.48
+  linus:2.62
+  troubles:2.25
+  distributions:2.25
+  cases:2.25
+  le:2.25
+  written:2.25
+  wandering:2.25
+  tool:2.25
+  break:2.25
+
+Topic 1:
+  brands:3.15
+  ram:2.93
+  keys:2.82
+  long:1.54
+  modern:1.54
+  depends:1.54
+  difficulty:1.54
+  laptops:1.54
+  number:1.54
+  debug:1.54
+
+Topic 2:
+  computer shut:3.19
+  cold boot:3.19
+  drive:2.30
+  attacks:2.02
+  prevent:2.01
+  yanking:2.01
+  wipe:2.00
+  removed:2.00
+  dvd:2.00
+  features:2.00
+
+Topic 3:
+  em:3.11
+  good:2.28
+  picking:2.28
+  lurks:2.28
+  guessed:2.28
+  cypher inferable brute force:2.28
+  backing:2.28
+  level des based broken:2.28
+  dm:2.28
+  worried:2.28
+
+Topic 4:
+  random:3.12
+  physical:3.12
+  feasible:1.57
+  attacker:1.56
+  coffee:1.52
+  weakened:1.52
+  vulnerable:1.52
+  turn:1.52
+  library:1.52
+  thing:1.52
+
+K: 5, Log-Likelihood: -1794.724, Alpha: 11.000, Beta: 1.100

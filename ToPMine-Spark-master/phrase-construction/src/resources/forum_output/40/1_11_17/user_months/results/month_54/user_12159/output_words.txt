@@ -1,0 +1,61 @@
+Topic 0:
+  btc:9.32
+  pay:7.40
+  people:7.39
+  paid:5.93
+  buy:5.53
+  buying:4.90
+  coins:4.72
+  smart:4.31
+  scammed:3.93
+  paying:3.93
+
+Topic 1:
+  wallet:18.49
+  bitcoins:13.47
+  send:12.05
+  local:8.88
+  coins:8.22
+  bitcoin:7.94
+  email:6.64
+  tor:4.25
+  tumble:3.37
+  good:3.33
+
+Topic 2:
+  lbc:5.42
+  buy:5.26
+  bad:2.01
+  trade:1.78
+  purchase:1.50
+  buying:1.50
+  question:1.47
+  btc:1.47
+  cash:1.19
+  gd:1.18
+
+Topic 3:
+  bitcoin:9.74
+  july:8.05
+  coins:7.98
+  phil:7.84
+  fat:7.84
+  hub:6.24
+  fog:5.81
+  time:5.77
+  butt:5.55
+  localbitcoins:5.54
+
+Topic 4:
+  buy:5.71
+  btc:3.11
+  atm:2.39
+  libertyx:2.16
+  lbc:2.08
+  butt:1.83
+  year:1.80
+  dirty:1.80
+  cats:1.80
+  pretty:1.70
+
+K: 5, Log-Likelihood: -4371.201, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tmg:7.28
+  place:7.28
+  people:4.40
+  experiments:3.59
+  find:3.59
+  cheers:3.59
+  team:3.59
+  forum web:3.59
+  acid:3.59
+  psychedelic:3.59
+
+Topic 1:
+  reponses replies wrong frustration:2.43
+  melt:1.50
+  spin:1.49
+  logik:1.49
+  mind:1.49
+  tab:1.49
+  hours:1.48
+  face:1.48
+  havent received:1.44
+  haven received:1.44
+
+Topic 2:
+  link story:3.56
+  luxury:3.56
+  purchasing:3.56
+  scam:3.56
+  history:3.56
+  stolen money:3.56
+  biggest:3.56
+  archiv:3.56
+  arrest:3.56
+  launder:3.56
+
+Topic 3:
+  money:2.18
+  blond:1.53
+  sheep marketplace:1.45
+  insured house:1.18
+  granddad case phase comment:1.18
+  police officers seized house:1.17
+  real estate:1.17
+  told peter vedrov police:1.17
+  key question:1.17
+  bitcoins laundered millions abroad:1.16
+
+Topic 4:
+  ji ikovsk:21.88
+  marketplace tom hacker stole:9.21
+  house:8.18
+  bitcoins:7.70
+  bank officers source:4.55
+  sheep market:4.55
+  people traded large numbers:4.55
+  bank time payment mortgage:4.55
+  amounts catch crowns czech:4.55
+  sheep marketplace scam:4.55
+
+K: 5, Log-Likelihood: -7102.299, Alpha: 11.000, Beta: 1.100

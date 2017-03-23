@@ -1,0 +1,61 @@
+Topic 0:
+  irc:2.92
+  ip:2.92
+  windows:2.27
+  client:1.86
+  account:1.42
+  thread:1.42
+  windows clients:1.42
+  easier:1.42
+  simpler:1.42
+  middleton:1.42
+
+Topic 1:
+  cheers:1.53
+  safe things:1.53
+  clients:1.53
+  guys safe:1.53
+  darknet things:1.52
+  dont safe:1.52
+  pc:1.52
+  unsafe:1.52
+  error:1.52
+  expired:1.51
+
+Topic 2:
+  security:1.26
+  xchat:1.02
+  guys:0.80
+  tor:0.73
+  ira:0.73
+  connections:0.73
+  change:0.73
+  reject:0.73
+  fine:0.73
+  pray:0.73
+
+Topic 3:
+  windows box:5.92
+  stick:5.92
+  machine:2.92
+  stuff:2.92
+  decent:2.92
+  tails:2.92
+  compartmentalize:2.92
+  virtual:2.92
+  virtualbox:2.92
+  load:2.92
+
+Topic 4:
+  good:1.31
+  security:1.22
+  check:1.08
+  provide:1.08
+  things:1.08
+  dunno:1.08
+  careful:1.08
+  start:1.08
+  question:1.08
+  wrong:1.08
+
+K: 5, Log-Likelihood: -1520.148, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  message:0.62
+  intruders:0.40
+  board:0.40
+  german:0.39
+  fv:0.20
+  zaphodsorry:0.20
+  helypuu:0.20
+  pgp:0.20
+  omtnwx:0.20
+  zuomymwogu:0.20
+
+Topic 1:
+  message:0.57
+  board:0.40
+  german:0.40
+  intruders:0.40
+  forum:0.20
+  outlaw:0.20
+  offline:0.20
+  encrypting:0.20
+  hhr:0.20
+  april:0.20
+
+Topic 2:
+  message:0.58
+  german:0.41
+  board:0.40
+  intruders:0.40
+  offline:0.20
+  forum:0.20
+  outlaw:0.20
+  ba:0.20
+  akn:0.20
+  dd:0.20
+
+Topic 3:
+  message:0.58
+  german:0.40
+  intruders:0.40
+  board:0.40
+  forum:0.20
+  offline:0.20
+  outlaw:0.20
+  bep:0.20
+  uike:0.20
+  cixaw:0.20
+
+Topic 4:
+  message:0.64
+  intruders:0.40
+  german:0.39
+  board:0.39
+  zohspfox:0.20
+  adh:0.20
+  stupidity:0.20
+  bldtp:0.20
+  qcz:0.20
+  zxf:0.20
+
+K: 5, Log-Likelihood: -702.403, Alpha: 11.000, Beta: 1.100

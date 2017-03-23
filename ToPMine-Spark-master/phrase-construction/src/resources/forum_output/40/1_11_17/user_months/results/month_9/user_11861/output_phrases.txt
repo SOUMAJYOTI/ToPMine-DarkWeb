@@ -1,0 +1,61 @@
+Topic 0:
+  private key:4.48
+  system:4.48
+  smart:2.98
+  database:2.98
+  doesnt:2.98
+  calls:2.98
+  front:2.98
+  work:2.75
+  shit:2.25
+  escrow:1.86
+
+Topic 1:
+  multisig escrow:3.13
+  simple:2.94
+  months:2.31
+  vendor:2.28
+  additional:2.09
+  automatic:2.09
+  design:2.09
+  easy:2.09
+  wouldn:2.09
+  process:2.09
+
+Topic 2:
+  virtualpath virtualpath:2.64
+  system web:2.03
+  ur:1.75
+  system web compilation buildmanager:1.63
+  woolen allowcrossapp boolean:1.31
+  string:1.20
+  boolean ensureisuptodate:1.15
+  exception:1.03
+  context:1.02
+  woolen throwifnotfound:1.00
+
+Topic 3:
+  js:7.49
+  windows:4.48
+  users:4.48
+  javascript:3.35
+  hosting:2.98
+  whyusheep:2.98
+  dnm:2.98
+  enable:2.98
+  safe:2.98
+  worry:2.98
+
+Topic 4:
+  virtualpath virtualpath:9.37
+  system web compilation buildmanager:7.37
+  system web:3.96
+  context:3.47
+  exception:3.46
+  boolean ensureisuptodate:3.34
+  string:3.29
+  woolen allowcrossapp boolean:3.18
+  woolen:2.29
+  callback:2.26
+
+K: 5, Log-Likelihood: -3859.056, Alpha: 11.000, Beta: 1.100

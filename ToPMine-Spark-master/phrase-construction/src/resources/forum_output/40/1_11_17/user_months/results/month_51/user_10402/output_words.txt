@@ -1,0 +1,61 @@
+Topic 0:
+  security:3.64
+  reliability:1.94
+  tor:1.68
+  store:1.15
+  cryptographic:1.15
+  dos:1.15
+  attacks:1.15
+  cryptanalysis:1.15
+  time:1.15
+  deanonymization:1.15
+
+Topic 1:
+  hidden:15.98
+  services:12.13
+  tor:2.60
+  crowdfunding:2.40
+  users:1.89
+  anonymity:1.88
+  projects:1.79
+  security:1.40
+  community:1.33
+  people:1.20
+
+Topic 2:
+  services:15.52
+  hidden:7.02
+  crowdfunding:3.45
+  tor:2.26
+  projects:2.12
+  anonymity:1.77
+  community:1.73
+  security:1.69
+  users:1.64
+  tors:1.24
+
+Topic 3:
+  services:9.24
+  hidden:5.54
+  tor:3.19
+  anonymity:1.96
+  security:1.88
+  crowdfunding:1.34
+  projects:1.11
+  users:1.04
+  feature:0.96
+  people:0.92
+
+Topic 4:
+  hidden:10.72
+  tor:3.27
+  services:3.19
+  crowdfunding:1.75
+  anonymity:1.69
+  security:1.39
+  users:1.37
+  community:1.00
+  projects:0.93
+  tors:0.87
+
+K: 5, Log-Likelihood: -3398.005, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  fake:3.52
+  transaction:2.06
+  note:1.76
+  processing:1.37
+  thought:1.26
+  takers:1.16
+  power:1.03
+  dont:0.84
+  pull:0.81
+  youss:0.81
+
+Topic 1:
+  coins:20.17
+  accepted:12.76
+  block:11.73
+  bob:11.13
+  alice:10.29
+  bitcoin:9.41
+  network:7.92
+  carol:7.05
+  blockchain:5.75
+  proof:5.16
+
+Topic 2:
+  chain:21.90
+  bitcoins:14.25
+  blocks:10.90
+  longest:10.17
+  transactions:10.05
+  confirmations:9.79
+  valid:8.47
+  network:7.83
+  bitcoin:7.61
+  power:5.95
+
+Topic 3:
+  fake:3.52
+  bitcoins:3.04
+  blockchain:2.70
+  transactions:2.25
+  transaction:1.48
+  counterfeited:1.27
+  block:1.25
+  power:1.19
+  blocks:1.13
+  create:1.07
+
+Topic 4:
+  btc:7.83
+  transaction:4.53
+  longer:3.76
+  confirmed:3.68
+  bitin:3.66
+  fake:3.35
+  processing:2.91
+  wallet:2.87
+  multiply:2.73
+  chain:1.91
+
+K: 5, Log-Likelihood: -4298.556, Alpha: 11.000, Beta: 1.100

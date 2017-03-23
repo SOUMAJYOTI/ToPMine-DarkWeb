@@ -1,0 +1,61 @@
+Topic 0:
+  takes:0.37
+  easy:0.18
+  post:0.18
+  root:0.18
+  clicks:0.18
+  pulling:0.18
+  longer:0.18
+  spammer:0.18
+  weeds:0.18
+  pop:0.18
+
+Topic 1:
+  takes:0.35
+  software:0.19
+  private:0.19
+  bb:0.19
+  happen:0.19
+  moderated:0.19
+  users:0.19
+  ban:0.19
+  board:0.19
+  conversation:0.19
+
+Topic 2:
+  takes:0.36
+  day:0.19
+  older:0.19
+  permissions:0.19
+  annoying:0.19
+  users:0.19
+  binges:0.19
+  experience:0.19
+  private:0.19
+  solved:0.19
+
+Topic 3:
+  takes:0.39
+  root:0.19
+  delete:0.19
+  spammer:0.19
+  clicks:0.19
+  pop:0.19
+  weeds:0.19
+  pulling:0.19
+  completely:0.19
+  posts:0.19
+
+Topic 4:
+  takes:0.36
+  board:0.18
+  spam:0.18
+  vetted:0.18
+  software:0.18
+  setting:0.18
+  group:0.18
+  ban:0.18
+  conversation:0.18
+  user:0.18
+
+K: 5, Log-Likelihood: -160.134, Alpha: 11.000, Beta: 1.100

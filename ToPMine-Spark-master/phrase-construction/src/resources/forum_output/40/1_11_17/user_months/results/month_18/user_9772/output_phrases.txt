@@ -1,0 +1,61 @@
+Topic 0:
+  mad:2.79
+  marked:2.79
+  perforated sheet:2.77
+  supposed:2.77
+  perforated blotter:2.77
+  drew:2.75
+  blank:2.75
+  lines:2.75
+  sort:2.74
+  ve:1.59
+
+Topic 1:
+  rarely:2.94
+  pre:2.93
+  ruler:2.93
+  razor:2.93
+  wow:2.93
+  pencil lines:2.93
+  drawn:2.93
+  tens:2.93
+  pencil paper:2.93
+  doses:2.92
+
+Topic 2:
+  dark:2.87
+  sharp:2.87
+  clean:2.87
+  scissors:2.86
+  markings:2.86
+  leave:2.86
+  june:2.86
+  pm:2.85
+  quote:2.85
+  mechanical:2.84
+
+Topic 3:
+  hits:1.92
+  separated:1.84
+  matter:1.83
+  people pencil:1.80
+  caught:1.75
+  perforated:1.75
+  prefer:1.73
+  pen:1.71
+  standard:1.66
+  individual blotter:1.65
+
+Topic 4:
+  hit ruler measure entire:1.44
+  blue dream:1.31
+  inches inches individual:1.29
+  doesn:1.12
+  size:0.96
+  chunk:0.96
+  cut people:0.95
+  doesnt:0.95
+  standard:0.92
+  individual blotter:0.91
+
+K: 5, Log-Likelihood: -861.933, Alpha: 11.000, Beta: 1.100

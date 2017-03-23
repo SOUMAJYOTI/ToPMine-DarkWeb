@@ -1,0 +1,61 @@
+Topic 0:
+  nucleus:3.87
+  market:3.09
+  dhl:1.82
+  links:1.65
+  online:1.41
+  cheers:0.90
+  place:0.90
+  freddie:0.90
+  input:0.90
+  glad:0.90
+
+Topic 1:
+  didnt:2.89
+  vendor:2.81
+  job:2.78
+  tails:1.99
+  friends:1.98
+  pm:1.96
+  login:1.95
+  order:1.54
+  love:1.20
+  keylogger:1.20
+
+Topic 2:
+  order:1.06
+  job:0.64
+  vendor:0.58
+  didnt:0.56
+  login:0.54
+  pm:0.53
+  friends:0.52
+  tails:0.51
+  history:0.41
+  good:0.41
+
+Topic 3:
+  market:2.41
+  dhl:1.85
+  ll:1.79
+  avoid:1.79
+  message:1.79
+  wrong:1.79
+  deployment:1.79
+  dated:1.79
+  yeah:1.79
+  maximum:1.79
+
+Topic 4:
+  order:1.15
+  vendor:0.56
+  job:0.52
+  didnt:0.49
+  pm:0.46
+  login:0.46
+  tails:0.46
+  friends:0.45
+  online:0.45
+  data:0.42
+
+K: 5, Log-Likelihood: -1555.697, Alpha: 11.000, Beta: 1.100

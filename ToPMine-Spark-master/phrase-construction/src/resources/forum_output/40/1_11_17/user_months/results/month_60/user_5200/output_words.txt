@@ -1,0 +1,61 @@
+Topic 0:
+  market:7.48
+  link:5.28
+  agora:4.34
+  account:2.99
+  invite:2.90
+  agra:2.89
+  register:2.68
+  silk:1.86
+  code:1.84
+  referred:1.81
+
+Topic 1:
+  market:6.75
+  link:6.17
+  account:4.13
+  invite:3.84
+  agra:3.41
+  agora:2.43
+  silk:2.42
+  register:2.23
+  code:2.06
+  road:1.91
+
+Topic 2:
+  agora:5.42
+  account:4.06
+  link:3.84
+  love:3.02
+  invite:2.88
+  register:2.85
+  market:2.59
+  code:2.33
+  agra:2.18
+  silk:1.62
+
+Topic 3:
+  link:8.00
+  agora:5.25
+  account:4.90
+  market:3.76
+  invite:3.55
+  agra:2.82
+  silk:2.24
+  code:2.21
+  road:1.66
+  referred:1.45
+
+Topic 4:
+  link:8.71
+  market:6.42
+  agora:5.56
+  register:2.88
+  invite:2.83
+  agra:2.70
+  account:1.92
+  silk:1.85
+  road:1.63
+  code:1.56
+
+K: 5, Log-Likelihood: -1605.185, Alpha: 11.000, Beta: 1.100

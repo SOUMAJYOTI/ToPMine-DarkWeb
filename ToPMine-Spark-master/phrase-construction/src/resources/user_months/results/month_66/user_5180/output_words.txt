@@ -1,0 +1,61 @@
+Topic 0:
+  markets:1.19
+  hope:1.11
+  escrow:1.08
+  exit:1.01
+  good:0.78
+  tied:0.64
+  scam:0.63
+  cheers:0.58
+  november:0.58
+  conclusions:0.58
+
+Topic 1:
+  exit:1.29
+  hope:1.25
+  escrow:1.10
+  markets:1.07
+  scam:0.72
+  tied:0.67
+  good:0.59
+  november:0.54
+  cheers:0.54
+  coin:0.53
+
+Topic 2:
+  markets:1.21
+  hope:1.14
+  escrow:0.98
+  exit:0.98
+  jump:0.74
+  relating:0.70
+  heredoes:0.70
+  conclusions:0.69
+  real:0.69
+  cheers:0.69
+
+Topic 3:
+  good:1.38
+  hope:1.26
+  markets:1.18
+  escrow:0.92
+  exit:0.78
+  worried:0.57
+  conclusions:0.57
+  relating:0.57
+  exciting:0.57
+  events:0.57
+
+Topic 4:
+  markets:1.35
+  hope:1.24
+  exit:0.94
+  escrow:0.93
+  quote:0.68
+  november:0.68
+  real:0.65
+  conclusions:0.64
+  cheers:0.64
+  heredoes:0.64
+
+K: 5, Log-Likelihood: -795.177, Alpha: 11.000, Beta: 1.100

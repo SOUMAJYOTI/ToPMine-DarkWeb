@@ -1,0 +1,61 @@
+Topic 0:
+  poistaa:4.12
+  men:4.12
+  mutta:3.52
+  olkaa:2.35
+  yhteydess:2.35
+  asiakaspalveluun:2.34
+  nain:2.09
+  en:2.04
+  muutama:2.04
+  nostaa:2.04
+
+Topic 1:
+  kauppias:6.65
+  ei:5.56
+  eik:4.87
+  ja:3.42
+  kummaa:3.30
+  lomalla:3.30
+  sanokaas:3.30
+  kuulustelia:3.30
+  hytk:3.30
+  kyl:3.30
+
+Topic 2:
+  yll:4.41
+  ytt:4.13
+  anus:4.13
+  mit:3.62
+  speed press:3.53
+  jos:3.17
+  market:3.09
+  toivottavasti:2.33
+  saa:2.20
+  si:2.06
+
+Topic 3:
+  siihen:4.11
+  sm:3.26
+  sama:2.82
+  ei:2.69
+  pieni:2.04
+  menny:2.04
+  itsekkin:2.04
+  tuotteet:2.04
+  erehty:2.04
+  kymment:2.04
+
+Topic 4:
+  joutuu:4.13
+  speed:4.13
+  takaisin:4.02
+  rahanne:4.02
+  ja:3.57
+  se ei:3.27
+  lt:2.94
+  kyll:2.58
+  jos:2.31
+  henkil:2.05
+
+K: 5, Log-Likelihood: -5300.694, Alpha: 11.000, Beta: 1.100

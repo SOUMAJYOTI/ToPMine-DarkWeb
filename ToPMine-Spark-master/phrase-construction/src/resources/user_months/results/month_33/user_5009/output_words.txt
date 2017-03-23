@@ -1,0 +1,61 @@
+Topic 0:
+  command:1.19
+  god:0.78
+  radiant:0.40
+  parts:0.40
+  ye:0.40
+  perfectly:0.40
+  immortal:0.40
+  creature:0.40
+  painful:0.40
+  process:0.40
+
+Topic 1:
+  command:1.06
+  god:0.82
+  delight:0.41
+  prevent:0.41
+  smaller:0.41
+  filthiest:0.41
+  good:0.40
+  mind:0.40
+  resurrecting:0.40
+  power:0.40
+
+Topic 2:
+  command:1.26
+  god:0.79
+  resurrecting:0.40
+  choose:0.40
+  energy:0.40
+  goddess:0.40
+  gas:0.40
+  perfect:0.40
+  dazzling:0.40
+  bright:0.40
+
+Topic 3:
+  command:1.25
+  god:0.82
+  impossible:0.40
+  creatures:0.40
+  immortal:0.40
+  process:0.40
+  power:0.40
+  scale:0.40
+  mind:0.40
+  painful:0.40
+
+Topic 4:
+  command:1.24
+  god:0.79
+  goddess:0.40
+  wisdom:0.40
+  ye:0.40
+  long:0.40
+  creatures:0.40
+  pulsating:0.40
+  obey:0.40
+  prevent:0.40
+
+K: 5, Log-Likelihood: -393.181, Alpha: 11.000, Beta: 1.100

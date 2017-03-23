@@ -1,0 +1,61 @@
+Topic 0:
+  key:2.07
+  pgp:1.25
+  verify:0.80
+  long:0.77
+  method:0.69
+  tails:0.57
+  trust:0.57
+  em:0.56
+  feel:0.56
+  devs:0.56
+
+Topic 1:
+  key:2.57
+  tails:2.01
+  verify:1.35
+  developers:1.13
+  gpg:0.95
+  fingerprint:0.90
+  long:0.84
+  expires:0.73
+  db:0.70
+  iso:0.68
+
+Topic 2:
+  key:2.57
+  developers:1.28
+  verify:1.21
+  tails:1.12
+  long:0.79
+  pgp:0.78
+  gpg:0.70
+  fingerprint:0.68
+  method:0.61
+  command:0.61
+
+Topic 3:
+  key:2.10
+  verify:1.19
+  developers:1.08
+  pgp:0.89
+  long:0.84
+  tails:0.81
+  fingerprint:0.73
+  method:0.63
+  command:0.61
+  gpg:0.59
+
+Topic 4:
+  key:5.68
+  tails:3.49
+  developers:1.98
+  verify:1.45
+  gpg:1.36
+  fingerprint:1.29
+  iso:0.89
+  db:0.86
+  expires:0.85
+  long:0.76
+
+K: 5, Log-Likelihood: -688.073, Alpha: 11.000, Beta: 1.100

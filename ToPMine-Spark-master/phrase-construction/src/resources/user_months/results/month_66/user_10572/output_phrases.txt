@@ -1,0 +1,61 @@
+Topic 0:
+  dont:8.21
+  exchange:7.01
+  quote tang january:5.78
+  quote tang january ami:4.91
+  local bitcoins monero:4.27
+  trolling soggy:4.27
+  hate shitcoins:4.27
+  rename drug dealers cashout:4.27
+  address:3.92
+  ceo:3.84
+
+Topic 1:
+  dash:19.50
+  market cap:14.09
+  bitcoin:8.88
+  time:5.91
+  investment:4.69
+  period:4.69
+  marketcap:4.69
+  imagine:4.69
+  arbitration:4.69
+  rise:4.69
+
+Topic 2:
+  vulnerability:7.37
+  diffie hellman:7.04
+  openssl:5.50
+  conditions:4.69
+  server:4.69
+  ciphersuite:4.69
+  private:4.69
+  release:4.69
+  sanso:4.69
+  high:4.69
+
+Topic 3:
+  monero:8.18
+  bitcoin:5.29
+  great:4.68
+  car:4.59
+  puppy:4.59
+  hen:4.59
+  parts:4.59
+  bitcoins:4.19
+  blockchain:4.08
+  quote:3.89
+
+Topic 4:
+  appears avoided bugs:4.74
+  tang:4.65
+  pump shitcoin personal gain:4.65
+  nest curves confident:4.65
+  problem cashing coins local:4.65
+  technical differences top coins:4.65
+  forum readership low offence:4.65
+  admins dont:4.65
+  isnt:4.64
+  services accept monero:4.64
+
+K: 5, Log-Likelihood: -10844.020, Alpha: 11.000, Beta: 1.100

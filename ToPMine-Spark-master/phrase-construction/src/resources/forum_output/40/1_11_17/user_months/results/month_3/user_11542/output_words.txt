@@ -1,0 +1,61 @@
+Topic 0:
+  fog:2.06
+  support:0.87
+  arrive:0.80
+  bitcoin:0.78
+  good:0.77
+  problem:0.73
+  time:0.63
+  solid:0.58
+  smart:0.53
+  detective:0.52
+
+Topic 1:
+  fog:1.63
+  problem:1.25
+  solid:0.93
+  bitcoin:0.81
+  support:0.72
+  people:0.68
+  smart:0.63
+  time:0.60
+  bitching:0.52
+  dick:0.51
+
+Topic 2:
+  fog:1.82
+  problem:0.94
+  support:0.85
+  bitcoin:0.84
+  good:0.75
+  arrive:0.70
+  solid:0.67
+  time:0.58
+  smart:0.56
+  people:0.54
+
+Topic 3:
+  fog:1.84
+  problem:0.92
+  support:0.87
+  bitcoin:0.80
+  solid:0.74
+  good:0.72
+  arrive:0.63
+  smart:0.60
+  time:0.58
+  people:0.55
+
+Topic 4:
+  fog:1.65
+  problem:1.15
+  solid:1.08
+  bitcoin:0.76
+  dick:0.72
+  bitching:0.72
+  people:0.71
+  support:0.69
+  smart:0.68
+  time:0.61
+
+K: 5, Log-Likelihood: -701.730, Alpha: 11.000, Beta: 1.100

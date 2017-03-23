@@ -1,0 +1,61 @@
+Topic 0:
+  ss:0.54
+  ett:0.45
+  viestin:0.39
+  oli:0.29
+  alueelle:0.28
+  lt:0.27
+  suositeltavaa:0.27
+  allekirjoittamien:0.27
+  tietoturvan:0.27
+  kannalta:0.27
+
+Topic 1:
+  ett:0.76
+  ss:0.66
+  viestin:0.41
+  oli:0.34
+  eri:0.32
+  olisi:0.32
+  park:0.32
+  mainita:0.32
+  ongelma:0.32
+  se:0.32
+
+Topic 2:
+  alueelle:0.38
+  ss:0.37
+  hyv:0.36
+  allekirjoittettuna:0.36
+  marketplace:0.36
+  tietoa:0.36
+  postaamalla:0.36
+  myyj:0.36
+  avaimella:0.36
+  silkkitieusername:0.36
+
+Topic 3:
+  ss:0.55
+  viestin:0.41
+  ett:0.40
+  oli:0.28
+  pgp:0.28
+  viestien:0.28
+  tunnettu:0.28
+  tietoturvan:0.28
+  kannalta:0.28
+  salakirjoitusavaimelle:0.28
+
+Topic 4:
+  ss:0.65
+  viestin:0.56
+  mink:0.33
+  eik:0.33
+  sinun:0.33
+  viisaampiasi:0.33
+  anna:0.33
+  plaist:0.33
+  perusteisiin:0.33
+  ei:0.33
+
+K: 5, Log-Likelihood: -564.740, Alpha: 11.000, Beta: 1.100

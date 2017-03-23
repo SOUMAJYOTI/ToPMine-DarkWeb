@@ -1,0 +1,61 @@
+Topic 0:
+  wallet btc:1.13
+  admins:0.61
+  bsm:0.59
+  people:0.56
+  explains:0.55
+  market market:0.55
+  contact:0.55
+  transaction cheers:0.53
+  good:0.51
+  understandable:0.40
+
+Topic 1:
+  wallet btc:0.85
+  resolved:0.53
+  admins:0.52
+  people:0.47
+  good:0.45
+  bsm:0.45
+  explains:0.44
+  transaction cheers:0.43
+  market market:0.43
+  contact:0.43
+
+Topic 2:
+  wallet btc:1.58
+  transaction cheers:0.74
+  admins:0.74
+  contact:0.71
+  market market:0.70
+  explains:0.70
+  understand:0.49
+  question:0.49
+  quote:0.49
+  weed:0.49
+
+Topic 3:
+  wallet btc:0.70
+  good:0.63
+  people:0.59
+  bsm:0.57
+  resolved:0.53
+  admins:0.48
+  problem:0.41
+  solved:0.40
+  party:0.40
+  shortly:0.40
+
+Topic 4:
+  resolved:0.70
+  post:0.66
+  hell:0.66
+  ether:0.66
+  update:0.66
+  issue:0.66
+  add:0.66
+  fed:0.66
+  disappeared:0.66
+  spread:0.66
+
+K: 5, Log-Likelihood: -436.554, Alpha: 11.000, Beta: 1.100

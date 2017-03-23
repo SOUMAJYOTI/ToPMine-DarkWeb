@@ -1,0 +1,61 @@
+Topic 0:
+  log:3.49
+  market:3.49
+  finally:1.91
+  asshat:1.70
+  quick:1.70
+  impress:1.70
+  sweet:1.70
+  jonny:1.70
+  nice:1.70
+  today:1.70
+
+Topic 1:
+  user:2.18
+  unban tcf:2.05
+  amhello allowed vendor evolution:1.31
+  regardsno:1.31
+  pmi:1.22
+  feedback:1.14
+  friendly:1.05
+  bit:1.05
+  quote cooked february amhello:0.90
+  evolution:0.80
+
+Topic 2:
+  agora:7.05
+  support:5.28
+  evolution:4.48
+  afford:3.49
+  day:3.49
+  forums:3.49
+  fee:3.49
+  pm:3.49
+  promising:3.49
+  sr:3.49
+
+Topic 3:
+  apologies:3.47
+  numbers:3.07
+  general:1.68
+  fucker:1.68
+  set:1.68
+  ready:1.68
+  interface:1.68
+  fixed:1.68
+  good:1.68
+  stress:1.68
+
+Topic 4:
+  scammers banned:5.38
+  place hackbb:5.24
+  evolution banned tcf:2.94
+  scamming previous record boards:2.94
+  tcf plenty warnings join:2.94
+  unban tcf regardsyou unmanned:2.94
+  surprised banned:2.77
+  allowed vendor evolution:2.77
+  ended:2.61
+  spamming:2.61
+
+K: 5, Log-Likelihood: -1925.399, Alpha: 11.000, Beta: 1.100

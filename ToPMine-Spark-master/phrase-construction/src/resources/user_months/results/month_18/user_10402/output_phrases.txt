@@ -1,0 +1,61 @@
+Topic 0:
+  tor:8.85
+  nsa:4.35
+  flaws:2.85
+  warning:2.85
+  lean:2.85
+  users:2.85
+  developers:1.36
+  read:1.36
+  affect:1.36
+  eventually:1.36
+
+Topic 1:
+  facebook dw:2.61
+  amthank:1.49
+  trolly:1.48
+  facebook google hands:1.48
+  tor secured:1.48
+  cool gov workers helping:1.37
+  wonderful article angel eyes:1.36
+  tor project undermining hope:1.28
+  pics:1.16
+  alfred:1.16
+
+Topic 2:
+  google hands tor secured:0.52
+  massive corporation facebook:0.52
+  guess expect messages hour:0.52
+  hub isnt happen lol:0.52
+  inline images cool:0.52
+  max prove wrong:0.52
+  alfred enable inline images:0.52
+  things:0.51
+  cool gov workers helping:0.39
+  wonderful article angel eyes:0.39
+
+Topic 3:
+  suprised:1.69
+  timely:1.69
+  fact:1.69
+  aminline:1.69
+  claimed:1.69
+  manner:1.69
+  sr:1.69
+  havent:1.69
+  kahoots:1.69
+  implement:1.69
+
+Topic 4:
+  great:0.81
+  clearweb:0.79
+  humanity:0.79
+  forums:0.78
+  head:0.78
+  ta:0.78
+  shat:0.78
+  article hope:0.78
+  hope:0.78
+  alfred enable inline images:0.69
+
+K: 5, Log-Likelihood: -1102.906, Alpha: 11.000, Beta: 1.100

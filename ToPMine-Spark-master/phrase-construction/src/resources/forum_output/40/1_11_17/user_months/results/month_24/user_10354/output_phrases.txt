@@ -1,0 +1,61 @@
+Topic 0:
+  system:0.77
+  design:0.63
+  based:0.63
+  good:0.51
+  whonix:0.39
+  linux:0.37
+  phoenix:0.36
+  check:0.36
+  tor:0.36
+  youll:0.33
+
+Topic 1:
+  computers:1.14
+  whonix:0.89
+  host:0.54
+  guys:0.53
+  opinion:0.53
+  os:0.53
+  systems:0.51
+  tails:0.50
+  pretty:0.47
+  time:0.47
+
+Topic 2:
+  host:1.61
+  os:1.59
+  whonix:0.71
+  virtual:0.70
+  learning:0.70
+  isp:0.70
+  shouldnt:0.70
+  vpn:0.70
+  knowing:0.70
+  free:0.70
+
+Topic 3:
+  computers:0.86
+  pretty:0.71
+  systems:0.61
+  whonix:0.60
+  opinion:0.57
+  guys:0.57
+  precautions:0.53
+  general:0.53
+  follow:0.53
+  setup:0.53
+
+Topic 4:
+  users:2.06
+  vm:2.05
+  built:2.03
+  youll:2.03
+  system:1.21
+  strict:0.90
+  packagesi:0.90
+  missing:0.90
+  routed:0.90
+  encrypting:0.90
+
+K: 5, Log-Likelihood: -802.616, Alpha: 11.000, Beta: 1.100

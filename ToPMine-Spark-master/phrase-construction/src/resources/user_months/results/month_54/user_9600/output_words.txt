@@ -1,0 +1,61 @@
+Topic 0:
+  married:10.11
+  people:5.89
+  agree:3.92
+  lawyers:2.89
+  meet:2.74
+  robot:2.36
+  love:2.19
+  benefits:2.11
+  children:2.10
+  broham:1.92
+
+Topic 1:
+  dont:8.35
+  married:8.13
+  love:6.40
+  people:5.63
+  don:5.43
+  paper:1.83
+  bullshit:1.83
+  huge:1.83
+  reminds:1.83
+  search:1.83
+
+Topic 2:
+  pretty:7.72
+  wrong:4.43
+  lie:3.92
+  dropped:3.92
+  friends:3.92
+  experience:3.92
+  loved:3.92
+  soul:3.73
+  lot:3.54
+  married:2.81
+
+Topic 3:
+  women:19.67
+  marriage:14.21
+  fuck:12.79
+  men:10.79
+  wife:6.79
+  married:6.79
+  feminism:6.17
+  sex:6.15
+  power:5.93
+  technologies:5.93
+
+Topic 4:
+  provide:3.93
+  ideas:3.93
+  sounds:3.29
+  feminists:3.24
+  op:2.73
+  happen:2.72
+  lot:2.13
+  consciousness:2.05
+  ways:2.05
+  feelings:1.93
+
+K: 5, Log-Likelihood: -4244.018, Alpha: 11.000, Beta: 1.100

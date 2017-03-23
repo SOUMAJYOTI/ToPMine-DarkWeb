@@ -1,0 +1,61 @@
+Topic 0:
+  pidgin:9.98
+  join:9.98
+  tor:9.98
+  leave:9.98
+  irc:6.63
+  list:6.63
+  people chat:6.63
+  proxy type:6.63
+  chat room:6.63
+  drug:4.26
+
+Topic 1:
+  market:6.63
+  public:5.03
+  drug:4.92
+  irc server channel shutting:3.90
+  guys rules tmg tor:3.90
+  chan:3.28
+  landing:3.28
+  shut:3.28
+  basically:3.28
+  condone:3.28
+
+Topic 2:
+  chatter sarcastic asshole:3.06
+  canister street cred uphold:3.06
+  chatter deal sarcastic assholes:3.06
+  gurus generally helpful technical:2.97
+  fun info lots security:2.93
+  info tails:2.76
+  checked:2.75
+  triple:2.75
+  connect:2.73
+  trolls hear mentioned:1.92
+
+Topic 3:
+  trashbox loves chance sex:3.30
+  owe money chez:3.12
+  stories pongles psychotic awesome:3.12
+  turban dictionary entry named:3.12
+  awkward:3.12
+  zeropoint:3.12
+  doesn:3.12
+  don:2.85
+  shit type info capable:2.60
+  bot handles fun:2.59
+
+Topic 4:
+  great chats:3.83
+  garden:3.21
+  place:3.21
+  discussion:3.21
+  hand hand:3.21
+  brim:3.21
+  fun irc:3.21
+  good:3.21
+  focused:3.21
+  psych:3.21
+
+K: 5, Log-Likelihood: -4606.289, Alpha: 11.000, Beta: 1.100

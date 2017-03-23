@@ -1,0 +1,61 @@
+Topic 0:
+  truecrypt:0.24
+  veracrypt:0.16
+  key:0.08
+  amwhere:0.08
+  quote:0.08
+  perusal:0.08
+  short:0.08
+  walter:0.08
+  term:0.08
+  derivation:0.08
+
+Topic 1:
+  truecrypt:0.24
+  veracrypt:0.16
+  stick:0.08
+  bit:0.08
+  perusal:0.08
+  write:0.08
+  short:0.08
+  protocols:0.08
+  updated:0.08
+  derivation:0.08
+
+Topic 2:
+  truecrypt:0.24
+  veracrypt:0.16
+  abandoned:0.08
+  december:0.08
+  code:0.08
+  project:0.08
+  protocols:0.08
+  wait:0.08
+  zaphod:0.08
+  developers:0.08
+
+Topic 3:
+  truecrypt:0.24
+  veracrypt:0.16
+  personally:0.08
+  medium:0.08
+  engineering:0.08
+  wait:0.08
+  zaphod:0.08
+  developers:0.08
+  write:0.08
+  quote:0.08
+
+Topic 4:
+  truecrypt:0.24
+  veracrypt:0.16
+  personally:0.08
+  key:0.08
+  derivation:0.08
+  bit:0.08
+  updated:0.08
+  walter:0.08
+  medium:0.08
+  term:0.08
+
+K: 5, Log-Likelihood: -42.349, Alpha: 11.000, Beta: 1.100

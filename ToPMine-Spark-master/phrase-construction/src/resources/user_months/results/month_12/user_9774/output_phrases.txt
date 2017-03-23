@@ -1,0 +1,61 @@
+Topic 0:
+  items:0.14
+  june:0.14
+  multiply:0.14
+  pay:0.14
+  dont:0.14
+  quote:0.14
+  long:0.14
+  good:0.14
+  time:0.14
+  nightprowler:0.14
+
+Topic 1:
+  security:0.14
+  things:0.14
+  cheap:0.14
+  pay:0.14
+  dont:0.14
+  experience:0.14
+  nightprowler:0.14
+  quote:0.14
+  good:0.14
+  amdoes:0.14
+
+Topic 2:
+  easily:0.14
+  break:0.14
+  heard:0.14
+  nightprowler:0.14
+  fairly:0.14
+  long:0.14
+  time:0.14
+  items:0.14
+  experience:0.14
+  amdoes:0.14
+
+Topic 3:
+  june:0.14
+  amdoes:0.14
+  multiply:0.14
+  long:0.14
+  experience:0.14
+  security:0.14
+  quote:0.14
+  nightprowler:0.14
+  things:0.14
+  items:0.14
+
+Topic 4:
+  type:0.14
+  fairly:0.14
+  easily:0.14
+  heard:0.14
+  break:0.14
+  time:0.14
+  good:0.14
+  security:0.14
+  dont:0.14
+  things:0.14
+
+K: 5, Log-Likelihood: -53.848, Alpha: 11.000, Beta: 1.100

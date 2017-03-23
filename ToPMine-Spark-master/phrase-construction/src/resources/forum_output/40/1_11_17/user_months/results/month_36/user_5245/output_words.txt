@@ -1,0 +1,61 @@
+Topic 0:
+  find:0.98
+  link:0.76
+  seek:0.40
+  cheers:0.40
+  buy:0.40
+  website:0.40
+  forum:0.39
+  expole:0.20
+  dont:0.20
+  offer:0.20
+
+Topic 1:
+  find:1.10
+  link:0.83
+  website:0.41
+  forum:0.41
+  cheers:0.41
+  buy:0.41
+  seek:0.36
+  didnt:0.20
+  didn:0.20
+  keesey:0.20
+
+Topic 2:
+  find:0.78
+  link:0.61
+  seek:0.52
+  website:0.35
+  buy:0.35
+  forum:0.35
+  cheers:0.35
+  answers:0.23
+  special:0.23
+  findknock:0.23
+
+Topic 3:
+  find:1.00
+  link:0.82
+  buy:0.40
+  cheers:0.40
+  forum:0.40
+  website:0.40
+  seek:0.39
+  didn:0.20
+  didnt:0.20
+  answer:0.20
+
+Topic 4:
+  find:1.13
+  link:0.97
+  forum:0.44
+  cheers:0.44
+  buy:0.44
+  website:0.44
+  seek:0.32
+  didnt:0.21
+  didn:0.21
+  keesey:0.20
+
+K: 5, Log-Likelihood: -122.979, Alpha: 11.000, Beta: 1.100

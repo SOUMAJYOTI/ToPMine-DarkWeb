@@ -1,0 +1,61 @@
+Topic 0:
+  evo:0.89
+  vendor:0.88
+  free:0.86
+  sold:0.39
+  till:0.39
+  evolution:0.39
+  cards:0.38
+  closed:0.38
+  read:0.38
+  theyll:0.38
+
+Topic 1:
+  true:0.53
+  seller:0.49
+  free:0.40
+  vendor:0.39
+  evo:0.38
+  pose:0.38
+  wanted:0.38
+  register:0.38
+  questions:0.38
+  impertinent:0.38
+
+Topic 2:
+  true:0.64
+  seller:0.49
+  impertinent:0.42
+  register:0.42
+  questions:0.42
+  wanted:0.42
+  pose:0.42
+  quote:0.35
+  june:0.35
+  forum:0.34
+
+Topic 3:
+  free:0.64
+  evo:0.64
+  vendor:0.63
+  true:0.42
+  sold:0.38
+  till:0.38
+  evolution:0.38
+  seller:0.35
+  feedback:0.35
+  markets:0.35
+
+Topic 4:
+  seller:0.89
+  true:0.58
+  questions:0.41
+  wanted:0.41
+  register:0.41
+  pose:0.41
+  impertinent:0.41
+  worried:0.38
+  buy:0.38
+  xillia:0.38
+
+K: 5, Log-Likelihood: -468.298, Alpha: 11.000, Beta: 1.100

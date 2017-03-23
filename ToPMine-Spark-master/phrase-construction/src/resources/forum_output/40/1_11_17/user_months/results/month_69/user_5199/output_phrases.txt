@@ -1,0 +1,61 @@
+Topic 0:
+  market evo:7.32
+  february:5.60
+  code:3.81
+  copy:3.52
+  amis:3.52
+  layout:3.52
+  deal:3.52
+  open:3.52
+  dardush:3.52
+  didnt:3.52
+
+Topic 1:
+  locally:3.59
+  vendor thread:2.99
+  sign:2.73
+  host:2.34
+  electrum:2.05
+  blotters:1.91
+  sale:1.91
+  led:1.91
+  details:1.91
+  tug:1.91
+
+Topic 2:
+  electron:7.22
+  coinb:4.15
+  sign transactions:4.10
+  ls:3.54
+  support:3.54
+  javascript:3.54
+  work:3.54
+  requires:3.54
+  set:3.54
+  managed:3.54
+
+Topic 3:
+  order:7.22
+  haha:3.53
+  bit:3.53
+  medium:3.53
+  free:3.53
+  mind:3.53
+  sized:3.53
+  multisig:3.53
+  complicated:3.53
+  xd:3.53
+
+Topic 4:
+  js:5.77
+  busts:2.15
+  tor:2.15
+  thing:2.15
+  doall:2.15
+  hacking:2.15
+  people:2.15
+  leaked:2.15
+  risk:2.15
+  dont:2.15
+
+K: 5, Log-Likelihood: -1426.712, Alpha: 11.000, Beta: 1.100

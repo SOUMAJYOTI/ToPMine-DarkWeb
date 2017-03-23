@@ -1,0 +1,61 @@
+Topic 0:
+  site:1.05
+  open:1.04
+  freebay:1.00
+  vendor:0.98
+  transaction:0.57
+  registration:0.56
+  silkroad:0.56
+  glad:0.56
+  resistance:0.56
+  working:0.56
+
+Topic 1:
+  open:2.39
+  site:2.37
+  making:1.12
+  ideas:1.12
+  forums:1.11
+  existed:1.11
+  malleability:1.11
+  built:1.11
+  mind:1.11
+  freely:1.11
+
+Topic 2:
+  february:1.79
+  quote:1.37
+  traffic:1.14
+  check:1.08
+  reasonable:1.07
+  sellers:1.07
+  afkabboy:1.06
+  moment:1.03
+  couple vendors:1.01
+  cooked:1.00
+
+Topic 3:
+  proceed caution:1.16
+  lol idea seams:1.11
+  february:1.06
+  amthese:0.93
+  couple vendors:0.92
+  quote:0.91
+  cooked:0.91
+  markets:0.82
+  layout:0.80
+  legitimate:0.72
+
+Topic 4:
+  february:1.23
+  markets:0.95
+  quote:0.92
+  layout:0.92
+  moment:0.91
+  sellers:0.87
+  reasonable:0.87
+  check:0.85
+  traffic:0.81
+  afkabboy:0.74
+
+K: 5, Log-Likelihood: -691.491, Alpha: 11.000, Beta: 1.100

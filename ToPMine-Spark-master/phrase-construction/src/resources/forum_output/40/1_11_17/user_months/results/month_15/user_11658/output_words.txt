@@ -1,0 +1,61 @@
+Topic 0:
+  attack:2.11
+  flood:1.41
+  marketplace:1.34
+  measures:0.91
+  slow:0.91
+  jun:0.90
+  infrastructure:0.90
+  mitigate:0.88
+  update:0.87
+  ddos:0.77
+
+Topic 1:
+  update:1.82
+  staff:1.74
+  downtime:1.74
+  cunt:1.74
+  play:1.74
+  fairly:1.74
+  july:1.74
+  defcunt:1.74
+  weak:1.74
+  maintenance:1.52
+
+Topic 2:
+  attack:1.26
+  update:1.09
+  marketplace:0.85
+  flood:0.79
+  inbound:0.74
+  requests:0.66
+  defcon:0.64
+  traffic:0.63
+  expect:0.63
+  plate:0.63
+
+Topic 3:
+  update:1.19
+  attack:1.08
+  inbound:0.88
+  flood:0.59
+  pm:0.58
+  marketplace:0.58
+  traffic:0.56
+  ddos:0.55
+  requests:0.55
+  defcon:0.55
+
+Topic 4:
+  attack:2.04
+  update:1.03
+  marketplace:0.98
+  flood:0.95
+  plate:0.74
+  traffic:0.71
+  requests:0.70
+  expect:0.70
+  defcon:0.69
+  ddos:0.68
+
+K: 5, Log-Likelihood: -1082.027, Alpha: 11.000, Beta: 1.100

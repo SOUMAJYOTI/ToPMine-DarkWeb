@@ -1,0 +1,61 @@
+Topic 0:
+  lelantos:7.90
+  axa:7.83
+  good:7.29
+  quote:6.83
+  word:5.25
+  mail:4.89
+  june:4.79
+  guys:4.75
+  threat:4.72
+  gibson:4.71
+
+Topic 1:
+  dont:15.44
+  cash:13.33
+  pmquote:11.74
+  trc:9.86
+  shop:8.93
+  thing:8.53
+  time:8.14
+  exchange:7.83
+  people:7.75
+  good:7.32
+
+Topic 2:
+  tc:20.72
+  truecrypt:13.43
+  encryption:8.88
+  audit:6.66
+  software:5.97
+  security:5.36
+  secure:5.23
+  unfixed:4.95
+  encrypted:4.91
+  disk:4.68
+
+Topic 3:
+  email:18.71
+  safe:8.39
+  emails:7.92
+  bote:7.85
+  pgp:7.28
+  march:5.93
+  check:5.69
+  key:4.92
+  quote:4.89
+  encrypt:4.31
+
+Topic 4:
+  bitcoin:43.90
+  atm:16.60
+  users:10.11
+  skyhook:8.96
+  price:8.96
+  drake:8.96
+  buy:7.67
+  existing:6.73
+  security:6.51
+  exchange:6.09
+
+K: 5, Log-Likelihood: -10575.105, Alpha: 11.000, Beta: 1.100

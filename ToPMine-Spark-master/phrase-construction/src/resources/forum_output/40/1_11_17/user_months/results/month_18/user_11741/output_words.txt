@@ -1,0 +1,61 @@
+Topic 0:
+  trade:2.38
+  coins:2.08
+  localbitcoins:1.70
+  safe:1.46
+  withdrawing:1.46
+  recommend:1.08
+  lot:0.84
+  account:0.84
+  pretty:0.81
+  darknet:0.78
+
+Topic 1:
+  bitcoin:6.18
+  service:3.43
+  launder:1.54
+  market:1.53
+  localbitcoins:1.31
+  helix:1.28
+  recommend:1.22
+  vendor:1.00
+  grams:0.74
+  privacy:0.64
+
+Topic 2:
+  link:1.28
+  referred:1.25
+  dont:1.19
+  helix:1.09
+  blender:0.83
+  grams:0.77
+  coins:0.76
+  btc:0.71
+  coin:0.64
+  users:0.63
+
+Topic 3:
+  referred:2.40
+  link:1.72
+  btc:1.38
+  helix:1.32
+  bonus:1.10
+  users:1.09
+  coin:1.08
+  blender:1.03
+  service:0.94
+  dont:0.88
+
+Topic 4:
+  helix:1.62
+  grams:1.16
+  dont:0.94
+  recommend:0.87
+  service:0.71
+  coins:0.68
+  bitcoin:0.62
+  link:0.57
+  blender:0.57
+  long:0.55
+
+K: 5, Log-Likelihood: -1050.242, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  shipped:3.39
+  marked:3.29
+  august:2.81
+  order:2.72
+  shipping:1.90
+  pack:1.81
+  quote:1.68
+  today:1.44
+  news:1.22
+  times:1.21
+
+Topic 1:
+  shipped:4.59
+  marked:3.04
+  today:2.09
+  august:1.97
+  received:1.71
+  order:1.59
+  pack:1.58
+  quote:1.54
+  news:1.17
+  landing:1.16
+
+Topic 2:
+  august:8.07
+  pmquote:4.40
+  thread:4.07
+  opsec:3.97
+  forums:3.92
+  post:3.90
+  pmthis:3.86
+  board:3.86
+  opinion:3.86
+  buyers:3.84
+
+Topic 3:
+  shipped:3.18
+  marked:3.10
+  received:1.96
+  today:1.87
+  august:1.68
+  news:1.64
+  order:1.46
+  pack:1.44
+  times:1.25
+  quote:1.24
+
+Topic 4:
+  order:4.09
+  shipped:3.64
+  marked:3.39
+  pack:3.02
+  august:2.47
+  shipping:1.97
+  news:1.84
+  recall:1.78
+  location:1.77
+  late:1.73
+
+K: 5, Log-Likelihood: -1883.275, Alpha: 11.000, Beta: 1.100

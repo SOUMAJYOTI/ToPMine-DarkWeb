@@ -1,0 +1,61 @@
+Topic 0:
+  coupon:14.15
+  code:13.49
+  number:5.97
+  gs:5.97
+  family:5.97
+  digits:5.97
+  check:5.29
+  coupons:5.27
+  company:5.26
+  digit:3.97
+
+Topic 1:
+  tv:10.20
+  free:7.93
+  thing:6.85
+  system:6.20
+  eu:4.95
+  great:4.78
+  find:4.72
+  work:4.61
+  advanced:4.11
+  download:3.91
+
+Topic 2:
+  wifi:4.68
+  drivers:3.38
+  kali:2.93
+  adapter:2.86
+  hack:2.82
+  time:2.62
+  find:2.52
+  password:2.47
+  interest:1.99
+  lesson:1.99
+
+Topic 3:
+  server:17.95
+  phone:11.31
+  communication:9.95
+  price:8.95
+  set:6.24
+  service:5.95
+  connection:5.95
+  gb:5.95
+  phones:5.95
+  adroit:4.95
+
+Topic 4:
+  items:10.28
+  expensive:8.57
+  stuff:6.30
+  good:5.54
+  august:5.05
+  quote:4.81
+  root:4.21
+  days:4.05
+  coupon:3.97
+  fake:3.84
+
+K: 5, Log-Likelihood: -6406.035, Alpha: 11.000, Beta: 1.100

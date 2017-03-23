@@ -1,0 +1,61 @@
+Topic 0:
+  transaction:2.47
+  cleared:2.46
+  test:2.45
+  account:2.45
+  pandora:1.38
+  btc:1.11
+  automatic:1.11
+  money:1.11
+  thought:1.11
+  vendors:1.11
+
+Topic 1:
+  customers:2.40
+  pandora:1.36
+  deciding:1.06
+  lost:1.06
+  jack:1.06
+  cautious:1.06
+  buy:1.06
+  complaints:1.06
+  majority:1.06
+  transactions:1.06
+
+Topic 2:
+  legit:0.67
+  auntie:0.66
+  grams:0.66
+  cheap:0.66
+  guyshas:0.66
+  bsm:0.66
+  cocaine:0.66
+  theyve:0.66
+  samples:0.66
+  gear:0.66
+
+Topic 3:
+  order:1.63
+  site:0.69
+  lolsame:0.67
+  prob:0.67
+  place:0.67
+  fishhed:0.67
+  claims:0.67
+  lolanyway:0.67
+  support:0.67
+  disaperead:0.66
+
+Topic 4:
+  hub:1.31
+  monthes:0.57
+  good:0.57
+  rumors:0.57
+  spreading:0.57
+  buddy:0.57
+  thumbs:0.57
+  call:0.57
+  suspend:0.56
+  order:0.49
+
+K: 5, Log-Likelihood: -635.406, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  attack:10.06
+  system:8.89
+  server:5.72
+  site:5.18
+  started:5.13
+  rate:4.91
+  time:4.23
+  dont:4.20
+  attacks:3.99
+  limiting:3.91
+
+Topic 1:
+  business:4.70
+  quote:4.17
+  thread:3.69
+  private:3.15
+  keys:3.00
+  prove:2.93
+  didnt:2.93
+  ad:2.85
+  beef:2.62
+  clearnet:2.54
+
+Topic 2:
+  backend:4.65
+  server:3.90
+  community:3.73
+  provide:3.48
+  shifty:3.47
+  attacks:3.24
+  liar:2.96
+  started:2.95
+  claims:2.60
+  service:2.60
+
+Topic 3:
+  reddit:6.96
+  accounts:3.74
+  place:3.33
+  hacksforcrack:3.19
+  received:2.87
+  abilities:2.53
+  people:2.50
+  market:2.37
+  questions:2.29
+  quote:2.29
+
+Topic 4:
+  reddit:4.63
+  caught:2.75
+  site:2.29
+  market:2.25
+  work:2.15
+  attacks:1.63
+  answer:1.57
+  events:1.55
+  started:1.47
+  care:1.39
+
+K: 5, Log-Likelihood: -5988.664, Alpha: 11.000, Beta: 1.100

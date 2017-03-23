@@ -1,0 +1,61 @@
+Topic 0:
+  cards:2.01
+  bank:1.37
+  answer:1.13
+  prepaid:1.03
+  dust:1.00
+  gold:0.87
+  high:0.83
+  cash:0.81
+  accounts:0.79
+  account:0.78
+
+Topic 1:
+  account:2.35
+  bank:1.55
+  cards:1.37
+  money:1.03
+  card:1.00
+  prepaid:0.96
+  answer:0.83
+  dust:0.77
+  cash:0.75
+  gold:0.72
+
+Topic 2:
+  cards:2.74
+  dust:1.56
+  gold:1.54
+  bank:1.43
+  answer:1.41
+  accounts:1.18
+  money:1.02
+  prepaid:0.92
+  high:0.89
+  december:0.77
+
+Topic 3:
+  cards:1.70
+  prepaid:1.37
+  bank:1.36
+  account:1.04
+  dust:0.95
+  answer:0.93
+  high:0.89
+  gold:0.86
+  cash:0.77
+  card:0.71
+
+Topic 4:
+  cards:2.18
+  gold:2.01
+  accounts:1.79
+  dust:1.72
+  answer:1.70
+  money:1.57
+  bank:1.28
+  december:0.98
+  papa:0.95
+  ebay:0.81
+
+K: 5, Log-Likelihood: -956.553, Alpha: 11.000, Beta: 1.100

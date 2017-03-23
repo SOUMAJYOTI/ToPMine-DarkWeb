@@ -1,0 +1,61 @@
+Topic 0:
+  guessing:2.89
+  coinbase:2.21
+  vendor:1.61
+  watch:1.60
+  didnt:1.39
+  info:1.39
+  sort:1.39
+  guess:1.39
+  leo:1.39
+  busted:1.39
+
+Topic 1:
+  sending:4.40
+  knowledge:2.90
+  market:1.59
+  figured:1.40
+  dn:1.40
+  forum:1.40
+  directly:1.40
+  illegal:1.40
+  lsd:1.40
+  times:1.40
+
+Topic 2:
+  place:1.82
+  mail:1.81
+  spending:1.34
+  report:1.34
+  active:1.34
+  drugs:1.34
+  day:1.34
+  received:1.34
+  authority:1.34
+  places:1.34
+
+Topic 3:
+  luc:1.69
+  vendors:1.60
+  authorities:1.09
+  deals:1.09
+  hand:1.09
+  glove:1.09
+  dont coinbase:1.09
+  guy:1.09
+  paying:1.09
+  cash:1.09
+
+Topic 4:
+  bitcoin:4.55
+  user agreement:4.39
+  coinbase:4.13
+  external:2.89
+  services:2.89
+  bitcoin address:2.89
+  goal:2.89
+  happened:2.89
+  balance:2.89
+  transaction:2.89
+
+K: 5, Log-Likelihood: -1372.747, Alpha: 11.000, Beta: 1.100

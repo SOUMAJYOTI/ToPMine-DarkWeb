@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.56
+  dhl:1.36
+  online:1.25
+  data:0.94
+  signatures:0.81
+  forum:0.80
+  wrong:0.80
+  noticed:0.80
+  deployment:0.80
+  permission:0.80
+
+Topic 1:
+  job:1.81
+  vendor:1.70
+  didnt:1.58
+  order:1.24
+  friends:1.23
+  tails:1.21
+  pm:1.20
+  login:1.18
+  good:0.82
+  keylogger:0.81
+
+Topic 2:
+  market:2.10
+  dhl:1.36
+  log:1.09
+  specific:1.08
+  check:1.08
+  multiply:1.08
+  hours:1.07
+  sigh:1.07
+  ll:1.07
+  dated:1.07
+
+Topic 3:
+  didnt:2.00
+  vendor:1.89
+  job:1.75
+  login:1.45
+  pm:1.43
+  tails:1.42
+  friends:1.41
+  order:1.29
+  paid:0.92
+  option:0.92
+
+Topic 4:
+  order:0.98
+  online:0.54
+  data:0.45
+  glad:0.38
+  place:0.37
+  freddie:0.37
+  cheers:0.37
+  input:0.37
+  luck:0.37
+  job:0.35
+
+K: 5, Log-Likelihood: -1384.001, Alpha: 11.000, Beta: 1.100

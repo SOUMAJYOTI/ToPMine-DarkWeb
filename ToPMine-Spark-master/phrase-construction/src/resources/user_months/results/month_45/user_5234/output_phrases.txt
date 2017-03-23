@@ -1,0 +1,61 @@
+Topic 0:
+  key:2.94
+  browse:2.94
+  create:2.94
+  private:2.94
+  secure:2.94
+  gnupg:2.94
+  send:2.94
+  pm:2.94
+  advise:2.94
+  encrypt:2.94
+
+Topic 1:
+  send encrypted:5.89
+  thread:2.76
+  offers:2.76
+  vendors:2.76
+  board:2.76
+  payment:2.76
+  standard:2.76
+  messages:2.76
+  anthony:2.76
+  order:2.75
+
+Topic 2:
+  quote slarky amthank:3.26
+  appreciated:3.10
+  tor based mail provider:3.06
+  trust:2.57
+  compromised:2.56
+  sigaint:2.56
+  server:2.54
+  problem security:2.35
+  wasn find secure:2.32
+  problem security find secure:2.12
+
+Topic 3:
+  computer:1.17
+  unreliable:1.15
+  sake:1.14
+  nerd:1.12
+  purchasing:1.11
+  god:1.09
+  start:1.08
+  save:1.06
+  long:1.04
+  moto:1.03
+
+Topic 4:
+  usual:1.83
+  god:1.68
+  start:1.67
+  purchasing:1.64
+  nerd:1.62
+  sake:1.61
+  unreliable:1.61
+  computer:1.58
+  aint:0.98
+  ain:0.90
+
+K: 5, Log-Likelihood: -920.823, Alpha: 11.000, Beta: 1.100

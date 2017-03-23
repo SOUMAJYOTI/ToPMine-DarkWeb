@@ -1,0 +1,61 @@
+Topic 0:
+  hub:0.61
+  posts:0.41
+  soo:0.40
+  read:0.40
+  opinion:0.40
+  vault:0.40
+  forums:0.40
+  heard:0.40
+  trusted:0.40
+  dnm:0.40
+
+Topic 1:
+  hub:0.59
+  weird:0.41
+  searching:0.40
+  place:0.40
+  heard:0.40
+  vault:0.40
+  trusted:0.40
+  opinion:0.40
+  dnm:0.40
+  forums:0.40
+
+Topic 2:
+  hub:0.58
+  heard:0.41
+  dnm:0.41
+  forums:0.41
+  vault:0.41
+  trusted:0.41
+  weird:0.40
+  place:0.40
+  searching:0.40
+  opinion:0.40
+
+Topic 3:
+  hub:0.61
+  read:0.40
+  searching:0.40
+  soo:0.40
+  posts:0.40
+  dnm:0.40
+  place:0.40
+  forums:0.40
+  weird:0.40
+  heard:0.40
+
+Topic 4:
+  hub:0.61
+  read:0.41
+  posts:0.40
+  soo:0.40
+  weird:0.40
+  opinion:0.40
+  trusted:0.40
+  forums:0.40
+  place:0.40
+  vault:0.40
+
+K: 5, Log-Likelihood: -100.075, Alpha: 11.000, Beta: 1.100

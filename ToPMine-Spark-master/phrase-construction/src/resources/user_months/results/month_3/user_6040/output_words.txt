@@ -1,0 +1,61 @@
+Topic 0:
+  email:3.66
+  service:2.39
+  pgp:1.60
+  case:1.51
+  trust:0.97
+  darkness:0.96
+  yahoo:0.92
+  easy:0.91
+  tor:0.82
+  set:0.57
+
+Topic 1:
+  email:4.66
+  analysis:3.06
+  pgp:2.10
+  secure:1.45
+  text:1.35
+  blog:1.35
+  big:1.35
+  doesnt:1.35
+  previous:1.35
+  meta:1.35
+
+Topic 2:
+  mail:6.05
+  safe:3.97
+  service:3.91
+  trust:3.62
+  net:3.46
+  easy:1.60
+  darkness:1.55
+  encryption:1.53
+  signup:1.53
+  fast:1.53
+
+Topic 3:
+  email:4.32
+  pgp:2.02
+  service:1.74
+  case:1.08
+  tor:0.98
+  trust:0.73
+  darkness:0.64
+  onion:0.62
+  advantage:0.62
+  accidentally:0.62
+
+Topic 4:
+  email:5.92
+  case:2.48
+  service:1.78
+  pgp:1.25
+  yahoo:1.11
+  wondered:0.90
+  gmail:0.90
+  theory:0.90
+  monitor:0.90
+  practice:0.90
+
+K: 5, Log-Likelihood: -1000.027, Alpha: 11.000, Beta: 1.100

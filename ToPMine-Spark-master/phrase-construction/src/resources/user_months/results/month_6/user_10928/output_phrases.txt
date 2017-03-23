@@ -1,0 +1,61 @@
+Topic 0:
+  security:0.32
+  proofs:0.28
+  february:0.28
+  waiting:0.28
+  quote:0.28
+  flaws:0.28
+  ilovespaghetti:0.28
+  reddit:0.28
+  threads:0.28
+  market:0.22
+
+Topic 1:
+  security:0.32
+  ilovespaghetti:0.31
+  quote:0.31
+  february:0.31
+  flaws:0.31
+  proofs:0.30
+  waiting:0.30
+  threads:0.29
+  reddit:0.29
+  prosecute:0.24
+
+Topic 2:
+  security:0.33
+  threads:0.27
+  reddit:0.27
+  waiting:0.27
+  proofs:0.27
+  flaws:0.27
+  quote:0.27
+  february:0.27
+  ilovespaghetti:0.27
+  dutch:0.23
+
+Topic 3:
+  security:0.33
+  reddit:0.27
+  threads:0.27
+  waiting:0.27
+  proofs:0.27
+  flaws:0.27
+  quote:0.27
+  february:0.27
+  ilovespaghetti:0.27
+  planned:0.23
+
+Topic 4:
+  security:0.33
+  threads:0.27
+  reddit:0.27
+  proofs:0.27
+  waiting:0.27
+  flaws:0.26
+  ilovespaghetti:0.26
+  quote:0.26
+  february:0.26
+  instilling:0.23
+
+K: 5, Log-Likelihood: -209.365, Alpha: 11.000, Beta: 1.100

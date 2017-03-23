@@ -1,0 +1,61 @@
+Topic 0:
+  javascript:2.01
+  java:1.36
+  config:1.30
+  running:1.26
+  set:1.22
+  disabled:1.10
+  enabled:1.05
+  quote:1.01
+  isnt:0.94
+  noscripts:0.93
+
+Topic 1:
+  set:1.61
+  quote:1.30
+  javascript:1.26
+  scripts:1.20
+  april:0.98
+  enabled:0.93
+  disabled:0.92
+  config:0.84
+  onion:0.82
+  running:0.77
+
+Topic 2:
+  scripts:1.64
+  onion:1.28
+  set:1.16
+  quote:1.00
+  exceeded:0.98
+  quota:0.96
+  message:0.83
+  blockchain:0.82
+  thing:0.78
+  find:0.73
+
+Topic 3:
+  javascript:2.70
+  config:1.61
+  running:1.58
+  disabled:1.45
+  enabled:1.44
+  js:1.33
+  set:1.28
+  forget:1.27
+  quote:1.23
+  isnt:1.23
+
+Topic 4:
+  javascript:4.39
+  enabled:1.97
+  disabled:1.97
+  noscripts:1.90
+  running:1.89
+  false:1.89
+  type:1.83
+  fully:1.82
+  config:1.76
+  forget:1.74
+
+K: 5, Log-Likelihood: -1280.383, Alpha: 11.000, Beta: 1.100

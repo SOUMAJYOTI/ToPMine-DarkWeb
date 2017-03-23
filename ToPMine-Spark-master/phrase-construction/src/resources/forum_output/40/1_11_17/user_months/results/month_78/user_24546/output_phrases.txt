@@ -1,0 +1,61 @@
+Topic 0:
+  needle:2.38
+  big:2.32
+  grey goose:1.60
+  lays:1.22
+  lsd:1.21
+  vials:1.21
+  dropper:1.21
+  alternative:1.21
+  dont plan:1.21
+  addition:1.20
+
+Topic 1:
+  alcohol:3.25
+  ethanol:3.24
+  additives:2.69
+  spirits:2.69
+  methyl:2.69
+  denatured alcohol:2.69
+  methylated:2.69
+  ketone:2.69
+  additive:1.31
+  ethyl:1.31
+
+Topic 2:
+  server:5.46
+  mod status module:4.07
+  error:2.69
+  requests:2.69
+  hidden:2.69
+  onion:2.69
+  disable:2.69
+  sensitive:2.69
+  servers:2.69
+  default:2.69
+
+Topic 3:
+  water:1.66
+  grey goose:1.22
+  ethanol:1.00
+  graves:0.81
+  liquid:0.81
+  shot:0.81
+  evaporate:0.81
+  member:0.81
+  proof:0.81
+  response:0.81
+
+Topic 4:
+  gas:2.66
+  glovebox:2.66
+  thing:1.28
+  lasts:1.28
+  reliable:1.28
+  tank:1.28
+  replace:1.28
+  long:1.28
+  cheap:1.28
+  flexible:1.28
+
+K: 5, Log-Likelihood: -1955.258, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  secure:7.67
+  telegram secret:7.67
+  cop:4.64
+  officer:4.64
+  enforcement:4.64
+  crime:4.64
+  law:4.64
+  strong:3.79
+  broken:3.79
+  don:3.79
+
+Topic 1:
+  privnote compromised:4.87
+  prove:4.66
+  compromised:3.84
+  hardware:3.51
+  confirmed:3.38
+  jules winnfield:3.38
+  pgp:2.54
+  telegram:2.51
+  op:2.31
+  adroit:2.31
+
+Topic 2:
+  messages:7.73
+  order:7.05
+  practical thingsprivnote isnt stored:4.88
+  criminal person pgp computer:4.88
+  computerwhat fuck normal:4.88
+  keyservers:4.47
+  message:4.09
+  senseprivnote:3.84
+  place:3.84
+  agora:3.84
+
+Topic 3:
+  tails:5.75
+  pgp software backdoored nsa:5.50
+  quote:4.77
+  enabled:3.79
+  change:3.79
+  javascript:3.79
+  default:3.79
+  tbb tails:3.79
+  scource:3.77
+  snowden nsa:3.77
+
+Topic 4:
+  public nsa:4.66
+  power:4.66
+  xyz:4.66
+  kgb:4.66
+  simple:4.37
+  random:4.37
+  dont:3.77
+  decrypt:3.75
+  snowden pgp:2.97
+  games day search criminals:2.94
+
+K: 5, Log-Likelihood: -5729.675, Alpha: 11.000, Beta: 1.100

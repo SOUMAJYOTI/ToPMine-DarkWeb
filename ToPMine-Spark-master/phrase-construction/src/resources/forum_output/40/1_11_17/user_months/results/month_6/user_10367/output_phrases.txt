@@ -1,0 +1,61 @@
+Topic 0:
+  find:7.54
+  referred link:7.52
+  info:6.52
+  buyer account:6.52
+  bar:6.52
+  pm agora:6.52
+  market click:6.52
+  top:6.52
+  printing:6.51
+  support:6.42
+
+Topic 1:
+  vacation mode:7.96
+  break:6.64
+  vendor:6.64
+  owner:6.49
+  hub:6.41
+  stats:5.71
+  host:5.71
+  edit:5.71
+  quantity click:5.71
+  copy:5.71
+
+Topic 2:
+  btc:9.37
+  printed materials:9.35
+  agora:8.03
+  shop:7.20
+  referred link:6.12
+  account pay:5.69
+  posters:5.69
+  custom:5.69
+  source:5.69
+  flyers:5.69
+
+Topic 3:
+  address:7.67
+  coin:6.57
+  screwed:6.53
+  share:6.53
+  move:6.53
+  wallet:6.53
+  transactions:6.53
+  wallets:6.53
+  tba:6.50
+  hope:5.86
+
+Topic 4:
+  customer service:11.44
+  evo:7.53
+  sales:7.53
+  issues:7.41
+  problem traffic:7.35
+  time:7.25
+  screw:6.48
+  people:6.48
+  started:5.96
+  nice:5.70
+
+K: 5, Log-Likelihood: -12219.186, Alpha: 11.000, Beta: 1.100

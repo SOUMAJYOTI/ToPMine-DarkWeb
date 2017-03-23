@@ -1,0 +1,61 @@
+Topic 0:
+  exposure:3.14
+  represnt:1.54
+  hate:1.54
+  corrupt:1.54
+  position:1.54
+  definition:1.54
+  cold:1.54
+  talk:1.54
+  twist:1.54
+  serving:1.52
+
+Topic 1:
+  protonmail:10.16
+  user:3.68
+  attacker:2.79
+  mass surveillance:2.17
+  data:2.14
+  privacy:2.13
+  security:1.91
+  simply:1.87
+  communication:1.69
+  criminals:1.62
+
+Topic 2:
+  protonmail:10.89
+  attacker:6.83
+  mass surveillance:4.23
+  privacy:3.99
+  user:3.32
+  security:2.96
+  data:2.77
+  time:2.25
+  secure:2.16
+  control:2.04
+
+Topic 3:
+  proton mail:4.74
+  boogie:3.16
+  count:2.34
+  dont:2.34
+  lol:2.34
+  turns:2.34
+  watches:2.34
+  webcam:2.34
+  trap:2.34
+  encrusted:2.34
+
+Topic 4:
+  reply:14.45
+  reply admin:6.41
+  reply admin pm:4.80
+  secure solutions:4.80
+  edward snowden:3.61
+  devices:3.19
+  community:3.19
+  reject:3.19
+  provide:3.19
+  rsa:3.19
+
+K: 5, Log-Likelihood: -6897.306, Alpha: 11.000, Beta: 1.100

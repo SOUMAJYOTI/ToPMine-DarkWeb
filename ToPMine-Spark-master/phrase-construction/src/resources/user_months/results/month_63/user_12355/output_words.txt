@@ -1,0 +1,61 @@
+Topic 0:
+  oli:0.82
+  ett:0.59
+  jotain:0.40
+  kun:0.40
+  vain:0.40
+  silt:0.40
+  ei:0.40
+  mutta:0.40
+  ja:0.40
+  kaveri:0.40
+
+Topic 1:
+  oli:0.78
+  ett:0.59
+  vain:0.40
+  ja:0.40
+  jotain:0.40
+  ei:0.40
+  mutta:0.40
+  eik:0.40
+  tt:0.40
+  kaveri:0.40
+
+Topic 2:
+  oli:0.79
+  ett:0.60
+  kaveri:0.40
+  silt:0.40
+  myyj:0.40
+  eik:0.40
+  mutta:0.40
+  ja:0.40
+  tt:0.40
+  kun:0.40
+
+Topic 3:
+  oli:0.82
+  ett:0.62
+  vain:0.40
+  jotain:0.40
+  myyj:0.40
+  kaveri:0.40
+  ei:0.40
+  tt:0.40
+  silt:0.40
+  kun:0.40
+
+Topic 4:
+  oli:0.79
+  ett:0.59
+  eik:0.41
+  tt:0.40
+  kun:0.40
+  myyj:0.40
+  silt:0.40
+  mutta:0.40
+  ja:0.40
+  kaveri:0.40
+
+K: 5, Log-Likelihood: -453.726, Alpha: 11.000, Beta: 1.100

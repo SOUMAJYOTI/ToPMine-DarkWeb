@@ -1,0 +1,61 @@
+Topic 0:
+  message:6.28
+  key:5.06
+  public:4.95
+  encrypt:4.19
+  messages:3.68
+  decrypt:3.51
+  people:3.41
+  ill:2.95
+  working:2.30
+  ahead:1.72
+
+Topic 1:
+  pgp:3.82
+  meant:3.55
+  message:2.89
+  type:1.81
+  yvsaupq:1.77
+  trmxbrvlffro:1.76
+  mingw:1.76
+  zhm:1.75
+  iwkps:1.75
+  bf:1.74
+
+Topic 2:
+  message:6.94
+  tails:3.72
+  decrypt:3.46
+  encrypt:1.87
+  public:1.85
+  version:1.78
+  key:1.63
+  send:1.30
+  blank:1.29
+  post:1.29
+
+Topic 3:
+  message:6.38
+  decrypt:2.24
+  meant:1.83
+  tails:1.62
+  pgp:1.46
+  version:1.35
+  encrypt:1.29
+  blank:1.23
+  liquid:1.20
+  rklrdro:0.91
+
+Topic 4:
+  message:5.52
+  pgp:2.08
+  meant:1.94
+  decrypt:1.80
+  version:1.47
+  liquid:1.36
+  tails:1.27
+  blank:1.20
+  gnupg:1.13
+  ixsqicrpew:1.10
+
+K: 5, Log-Likelihood: -2064.787, Alpha: 11.000, Beta: 1.100

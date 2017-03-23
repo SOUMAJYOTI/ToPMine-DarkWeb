@@ -1,0 +1,61 @@
+Topic 0:
+  address:0.28
+  order:0.28
+  buy:0.17
+  step:0.14
+  chances:0.14
+  trust:0.14
+  mobile:0.14
+  numero:0.14
+  phone:0.14
+  good:0.14
+
+Topic 1:
+  address:0.28
+  order:0.28
+  buy:0.17
+  complete:0.14
+  key:0.14
+  bundle:0.14
+  privacy:0.14
+  android:0.14
+  things:0.14
+  tor:0.14
+
+Topic 2:
+  order:0.28
+  address:0.28
+  buy:0.17
+  mobile:0.14
+  laptop:0.14
+  chances:0.14
+  stress:0.14
+  adroit:0.14
+  cheap:0.14
+  tablet:0.14
+
+Topic 3:
+  address:0.28
+  order:0.28
+  buy:0.17
+  uno:0.14
+  tails:0.14
+  stress:0.14
+  adroit:0.14
+  phone:0.14
+  trust:0.14
+  laptop:0.14
+
+Topic 4:
+  order:0.28
+  address:0.28
+  buy:0.17
+  mycelium:0.14
+  online:0.14
+  send:0.14
+  greatly:0.14
+  java:0.14
+  loaded:0.14
+  bitcoins:0.14
+
+K: 5, Log-Likelihood: -172.150, Alpha: 11.000, Beta: 1.100

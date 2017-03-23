@@ -1,0 +1,61 @@
+Topic 0:
+  cannabis:0.08
+  extra:0.08
+  orders:0.08
+  stunning:0.08
+  white:0.08
+  today:0.08
+  snow:0.08
+  time:0.08
+  problem:0.08
+  nucleus:0.08
+
+Topic 1:
+  free:0.08
+  orders:0.08
+  nucleus:0.08
+  time:0.08
+  today:0.08
+  extra:0.08
+  problem:0.08
+  cannabis:0.08
+  snow:0.08
+  stunning:0.08
+
+Topic 2:
+  white:0.08
+  cannabis:0.08
+  stunning:0.08
+  snow:0.08
+  nucleus:0.08
+  time:0.08
+  orders:0.08
+  extra:0.08
+  today:0.08
+  problem:0.08
+
+Topic 3:
+  stunning:0.08
+  snow:0.08
+  free:0.08
+  white:0.08
+  problem:0.08
+  today:0.08
+  cannabis:0.08
+  time:0.08
+  extra:0.08
+  nucleus:0.08
+
+Topic 4:
+  problem:0.08
+  nucleus:0.08
+  today:0.08
+  extra:0.08
+  time:0.08
+  free:0.08
+  orders:0.08
+  white:0.08
+  cannabis:0.08
+  snow:0.08
+
+K: 5, Log-Likelihood: -11.122, Alpha: 11.000, Beta: 1.100

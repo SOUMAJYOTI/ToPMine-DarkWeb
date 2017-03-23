@@ -1,0 +1,61 @@
+Topic 0:
+  luotettava:1.60
+  itse yt:1.60
+  kannattaa:1.60
+  mail ei:1.60
+  toimiva:1.60
+  mm:1.60
+  lis:1.60
+  ysin:1.60
+  postipalvelu:1.60
+  jota:1.60
+
+Topic 1:
+  nain:3.34
+  onko:3.34
+  ei:3.34
+  hyv:3.34
+  voi:3.02
+  clearweb:1.64
+  vissiin:1.64
+  firmat:1.64
+  numero:1.64
+  viestej:1.64
+
+Topic 2:
+  ettei:3.34
+  veikkaan:2.16
+  jotain:2.16
+  st:2.10
+  ihan:1.63
+  kuumotu:1.63
+  kyl:1.63
+  iha:1.63
+  itse:1.63
+  seiffi:1.63
+
+Topic 3:
+  ja:6.30
+  kotiin:5.04
+  yt ss:3.91
+  vain:2.99
+  teisell:2.89
+  puhelimen kanssa:2.44
+  tutulta:2.44
+  kun:2.44
+  puhelimeen yt:2.44
+  ristiin:2.44
+
+Topic 4:
+  happoa:3.21
+  man:1.54
+  niinku:1.54
+  ole:1.54
+  katoan:1.53
+  ilman:1.53
+  siell:1.53
+  olemattomiin:1.53
+  tarttisin:1.53
+  fraktaali:1.53
+
+K: 5, Log-Likelihood: -2445.756, Alpha: 11.000, Beta: 1.100

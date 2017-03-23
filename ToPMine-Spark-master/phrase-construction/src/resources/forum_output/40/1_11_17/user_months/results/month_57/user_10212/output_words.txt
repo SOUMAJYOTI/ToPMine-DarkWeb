@@ -1,0 +1,61 @@
+Topic 0:
+  order:7.00
+  marked:4.14
+  shipped:3.84
+  pack:3.46
+  shipping:3.09
+  usual:2.80
+  packs:2.79
+  correctly:2.79
+  pmagora:2.77
+  assume:2.77
+
+Topic 1:
+  august:7.14
+  pmquote:3.67
+  quote:2.78
+  open:2.59
+  buyers:2.57
+  post:2.55
+  failure:2.55
+  opsec:2.54
+  public:2.53
+  nightmaretotally:2.53
+
+Topic 2:
+  august:2.94
+  shipped:2.19
+  marked:2.15
+  quote:1.64
+  times:1.59
+  opsec:1.44
+  thread:1.42
+  pmquote:1.37
+  today:1.14
+  pack:1.09
+
+Topic 3:
+  august:3.19
+  shipped:2.62
+  marked:2.39
+  quote:1.75
+  pmquote:1.67
+  thread:1.55
+  today:1.36
+  opsec:1.30
+  pmthis:1.26
+  board:1.19
+
+Topic 4:
+  shipped:5.72
+  marked:3.73
+  today:3.44
+  received:3.05
+  news:2.44
+  pack:1.80
+  landing:1.71
+  escrow:1.32
+  august:1.27
+  fe:1.19
+
+K: 5, Log-Likelihood: -1896.999, Alpha: 11.000, Beta: 1.100

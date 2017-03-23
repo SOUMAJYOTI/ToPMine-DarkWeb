@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.40
+  security:0.40
+  dont:0.40
+  massively:0.20
+  didnt:0.20
+  trust:0.20
+  fe:0.20
+  force:0.20
+  flaw:0.20
+  theft:0.20
+
+Topic 1:
+  dont:0.40
+  sr:0.40
+  security:0.40
+  transaction:0.20
+  years:0.20
+  rat:0.20
+  hacking:0.20
+  successor:0.20
+  coins:0.20
+  flaw:0.20
+
+Topic 2:
+  dont:0.40
+  security:0.40
+  sr:0.40
+  minded:0.20
+  althought:0.20
+  rat:0.20
+  buyer:0.20
+  shit:0.20
+  kind:0.20
+  transaction:0.20
+
+Topic 3:
+  dont:0.40
+  security:0.40
+  sr:0.40
+  active:0.20
+  didnt:0.20
+  customer:0.20
+  smell:0.20
+  witness:0.20
+  evil:0.20
+  good:0.20
+
+Topic 4:
+  security:0.40
+  sr:0.40
+  dont:0.40
+  dpr:0.20
+  shouldnt:0.20
+  hacking:0.20
+  minded:0.20
+  bitcoin:0.20
+  althought:0.20
+  trust:0.20
+
+K: 5, Log-Likelihood: -157.655, Alpha: 11.000, Beta: 1.100

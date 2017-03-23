@@ -1,0 +1,61 @@
+Topic 0:
+  recommended:27.99
+  earn:26.99
+  product:21.38
+  customer:19.99
+  bought:18.99
+  dr:15.99
+  vendor:13.70
+  market:12.43
+  level:9.99
+  commission:8.99
+
+Topic 1:
+  key:63.62
+  private:46.51
+  buyer:40.50
+  multisig:34.64
+  seller:28.54
+  address:28.47
+  market:13.00
+  public:11.37
+  keys:11.37
+  generated:11.29
+
+Topic 2:
+  love:17.71
+  avengers:16.32
+  marketplace:4.70
+  find:3.94
+  vendors:3.48
+  watch:3.29
+  guy:3.28
+  market:3.11
+  link:2.97
+  forums:2.97
+
+Topic 3:
+  market:13.43
+  alphabet:4.75
+  quote:4.24
+  buy:4.19
+  november:3.97
+  exit:3.59
+  time:3.48
+  long:2.70
+  deepdotweb:2.64
+  finalize:2.53
+
+Topic 4:
+  passport:19.99
+  country:7.99
+  travel:6.99
+  residency:5.99
+  free:5.18
+  vista:4.99
+  years:4.99
+  account:4.13
+  banking:3.99
+  government:3.99
+
+K: 5, Log-Likelihood: -9888.011, Alpha: 11.000, Beta: 1.100

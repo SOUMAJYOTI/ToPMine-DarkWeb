@@ -1,0 +1,498 @@
+connection restarting,0,3
+application tor drop,1,3
+linuxkernel,2,1
+drop traffic superior automatically,3,3
+superior automatically routed tor,4,3
+torsocks wget,5,3
+fin,6,3
+remote,7,3
+properly closes socket,8,3
+guards,9,2
+properly,10,3
+rules tcp close wait,11,3
+quote,12,5
+isolation expose,13,3
+transparent proxying,14,12
+honest,15,1
+fails resends,16,3
+drop traffic superior,17,3
+fin ack completely,18,3
+implementation flaws,19,3
+quote kmf,20,2
+solid,21,2
+applications tor,22,3
+devices,23,3
+transproxied client,24,2
+relies kernel implementation,25,3
+preference,26,2
+cyanogenmod linux,27,2
+personal,28,2
+packet,29,3
+click,30,1
+easy,31,2
+panic,32,2
+proxy,33,4
+applies,34,5
+puppy,35,2
+kernelgenerates,36,1
+proxy case,37,2
+configure application tor,38,3
+client application properly,39,3
+drop traffic,40,3
+devices cyanogenmod,41,3
+bug triggered remote server,42,3
+traffic superior automatically,43,3
+physical isolation expose,44,3
+transparent,45,14
+uid,46,6
+applications socks,47,2
+isolation applications tor circuit,48,3
+behavior,49,2
+close,50,6
+transprots rules tcp,51,2
+set,52,2
+learn,53,1
+kernel,54,20
+isolation applications,55,3
+proxying avoided,56,3
+automatically routed tor,57,3
+flaws pray,58,3
+connection restarting local,59,3
+routed tor,60,3
+tcp close wait sundown,61,3
+site wget,62,1
+applications isolation,63,1
+transparent proxy,64,2
+properly closes,65,3
+wrap,66,1
+shuts completely,67,2
+resolve,68,1
+generates,69,2
+quote discovered,70,2
+isp,71,1
+ack,72,3
+bug transprots connection,73,3
+clientapplication,74,2
+generated,75,3
+transproxied,76,3
+transports transparent proxying,77,3
+bypasses transprots,78,3
+finally,79,3
+proxying discovered,80,1
+completely bypasses transprots rules,81,3
+multiple socksports manually configure,82,3
+socks proxy,83,2
+sane,84,1
+external,85,1
+fact client,86,2
+expose socksports,87,3
+discovered linux kernel,88,3
+uid kernel,89,2
+guys,90,1
+sends packet,91,3
+containers,92,5
+close wait sundown condition,93,3
+virtual,94,3
+blank,95,3
+pray bypasses kernel transparent,96,3
+bypasses kernel transparent,97,3
+timeout,98,1
+random,99,2
+socksports transports transparent,100,3
+torsocks,101,6
+rate,102,2
+circuit socksports reason,103,3
+applications virtual physical isolation,104,3
+kernels,105,3
+site tor,106,1
+client,107,10
+multiple socksports,108,3
+multiply,109,5
+fails,110,3
+application properly closes,111,3
+transparent proxying reason,112,3
+reason stream isolation applications,113,3
+transports transparent proxying reason,114,3
+tcp close,115,3
+multiple,116,3
+transparent proxying reason stream,117,3
+expose,118,3
+installed sends packet uid,119,3
+applications virtual physical,120,3
+pdf,121,1
+transparent proxying avoided,122,3
+reason stream isolation,123,3
+connection restarting local tor,124,3
+triggered,125,5
+program transparent,126,1
+kernel transparent proxying,127,3
+stream isolation,128,9
+sundown condition,129,3
+attempt,130,2
+eavesdropping,131,1
+generic bug triggered remote,132,3
+avoided multiple socksports,133,3
+multiply tor,134,3
+tcp close wait,135,3
+transprots connection,136,3
+cpleimu,137,1
+discovered linux kernel appears,138,3
+isolation,139,15
+sends packet uid,140,3
+stream isolation applications,141,3
+proxying avoided multiple,142,3
+selections,143,1
+transparent proxying avoided multiple,144,3
+ack completely,145,3
+tor additionally transparent proxying,146,3
+transparent proxying relies,147,3
+generic bug triggered,148,3
+pray bypasses,149,3
+closing connection restarting,150,3
+server,151,3
+superior automatically,152,3
+restarting,153,3
+wait,154,4
+socksports transports,155,3
+circuit,156,3
+save,157,1
+applications tor circuit,158,3
+local,159,3
+reason configure application,160,3
+stream,161,9
+bypasses kernel transparent proxying,162,3
+tor,163,24
+proxying relies kernel implementation,164,3
+application connection,165,2
+transproxy,166,1
+virtual physical isolation,167,3
+ubuntu generic bug,168,3
+wget site,169,2
+expose socksports transports transparent,170,3
+question,171,2
+automatically routed tor additionally,172,3
+circuit socksports,173,3
+configure applications virtual,174,3
+close socket,175,3
+bug triggered,176,3
+triggered remote server closing,177,3
+traffic superior automatically routed,178,3
+isolation applications tor,179,3
+rules tcp,180,3
+bypasses kernel,181,3
+return,182,1
+client basically bug,183,3
+closes socket,184,3
+instance,185,1
+track fact,186,3
+virtual physical,187,3
+multiple socksports manually,188,3
+fin ack completely bypasses,189,3
+restarting local tor client,190,3
+pray,191,3
+wait sundown,192,3
+edge,193,2
+blank uid,194,3
+packet uid,195,3
+client basically,196,3
+expose socksports transports,197,3
+application properly closes socket,198,3
+function,199,1
+spoon,200,1
+traffic,201,5
+downcompletely,202,1
+circumstances,203,3
+proxying relies,204,3
+socket exits,205,3
+expense,206,2
+socksports manually configure,207,3
+tor circuit socksports,208,3
+entry,209,3
+triggered remote server,210,3
+discovered linux,211,3
+condition,212,3
+implementation flaws pray bypasses,213,3
+savers,214,2
+flaws,215,3
+socket kernel,216,2
+shuts,217,3
+sundown,218,3
+socksports manually configure applications,219,3
+applications virtual,220,3
+application tor drop traffic,221,3
+proxying quote,222,2
+code,223,2
+relies kernel implementation flaws,224,3
+basically bug transprots,225,3
+careful,226,1
+curcuits,227,2
+technique,228,1
+containers applications,229,1
+appears,230,3
+tor circuits,231,2
+simpler,232,2
+running,233,2
+ack completely bypasses transprots,234,3
+closing connection,235,3
+socksports,236,9
+generic bug,237,3
+transprots,238,8
+physical,239,3
+configure applications,240,3
+attempting,241,1
+isolation stream,242,2
+processes,243,2
+lose track fact,244,3
+configure applications virtual physical,245,3
+cross,246,2
+application,247,10
+applications tor circuit socksports,248,3
+sniffers,249,2
+adroit,250,2
+reason configure,251,3
+avoided multiple,252,3
+interested,253,2
+socket,254,6
+tor additionally,255,3
+stream isolation applications tor,256,3
+finally close,257,3
+reason,258,6
+socksports reason,259,3
+inquestion,260,1
+bug transprots,261,3
+avoided multiple socksports manually,262,3
+convenience,263,2
+completely bypasses transprots,264,3
+concern,265,1
+kernel implementation flaws pray,266,3
+remote server,267,3
+traffic generated,268,2
+physical isolation,269,3
+torsocks transparent,270,1
+app,271,2
+transports transparent,272,3
+apt,273,1
+completely client,274,2
+bypasses,275,6
+dens,276,1
+restarting local tor,277,3
+connection transproxied,278,3
+additionally transparent,279,3
+wait sundown condition,280,3
+tor site,281,1
+proxying reason,282,3
+execute,283,2
+installed sends packet,284,3
+avoided,285,3
+local tor client basically,286,3
+ack completely bypasses,287,3
+local tor client,288,3
+fingerprintable,289,1
+circumstances applies,290,3
+discovered,291,3
+fact,292,3
+tor client basically bug,293,3
+automatically,294,3
+kmf february,295,3
+commonandroid,296,1
+tor drop,297,3
+appears leak,298,3
+workaround,299,2
+configure application tor drop,300,3
+pray bypasses kernel,301,3
+restarting local,302,3
+scenario,303,2
+routed tor additionally transparent,304,3
+tor client basically,305,3
+lose track,306,3
+client application properly closes,307,3
+kernel implementation,308,3
+thankswell,309,1
+proxying avoided multiple socksports,310,3
+transparent proxying relies kernel,311,3
+applies kernels,312,3
+flaws pray bypasses kernel,313,3
+services,314,1
+closes,315,3
+call,316,1
+tor circuit socksports reason,317,3
+bug,318,6
+amquote,319,1
+undercertain,320,1
+agent,321,1
+proxying reason stream isolation,322,3
+bypasses transprots rules,323,3
+client basically bug transprots,324,3
+rules,325,6
+configure application,326,3
+secure,327,2
+inside,328,1
+basically bug transprots connection,329,3
+basically,330,3
+bug transprots connection shuts,331,3
+socksports reason configure application,332,3
+query,333,1
+relies kernel,334,3
+linux kernel,335,5
+suppose,336,2
+isolation expose socksports,337,3
+completely bypasses,338,3
+additionally transparent proxying,339,3
+paths,340,2
+leak applies,341,2
+finally close socket,342,3
+adversary triggered,343,2
+rtfm,344,1
+flaws pray bypasses,345,3
+internet,346,2
+server closing,347,3
+drop,348,3
+virtual physical isolation expose,349,3
+installed,350,3
+closing connection restarting local,351,3
+exits linux,352,1
+kernel lose track fact,353,3
+installed sends,354,3
+fails resends blank,355,3
+recursively,356,1
+linus,357,2
+application properly,358,3
+superior automatically routed,359,3
+life,360,1
+exits,361,3
+common,362,2
+linux,363,6
+proxying relies kernel,364,3
+youhave,365,1
+kernel lose track,366,3
+lieu,367,1
+thoughts,368,2
+tor circuit,369,3
+transprots connection shuts,370,3
+wan,371,1
+apply,372,2
+configure,373,6
+resends blank,374,3
+finally close socket exits,375,3
+generic,376,3
+superior,377,3
+condition circumstances,378,2
+bug triggered remote,379,3
+transprots rules,380,5
+thisseems,381,1
+applies transprots,382,2
+time,383,2
+resends,384,3
+applications,385,11
+resends blank uid,386,3
+additionally transparent proxying relies,387,3
+program,388,3
+hen,389,2
+server closing connection restarting,390,3
+closing,391,3
+problem,392,1
+socksports transports transparent proxying,393,3
+application tor,394,3
+linux kernel appears leak,395,3
+close socket exits,396,3
+tor drop traffic,397,3
+connection,398,10
+physical isolation expose socksports,399,3
+kernel implementation flaws,400,3
+greater,401,2
+case,402,4
+circuits,403,4
+attempts,404,1
+method,405,1
+probability,406,2
+lose,407,3
+kernelitself,408,1
+proxy tor,409,1
+local tor,410,3
+close wait,411,3
+basically bug,412,3
+implementation flaws pray,413,3
+completely,414,5
+remote server closing,415,3
+kmf,416,3
+guard,417,1
+wget,418,7
+requests,419,1
+lot,420,1
+consuming,421,1
+leak,422,3
+multiply entry,423,2
+socksports reason configure,424,3
+manually configure applications virtual,425,3
+place,426,2
+pmyou,427,1
+witnessed,428,2
+kernel ubuntu,429,2
+proxying reason stream,430,3
+isolation expose socksports transports,431,3
+adversary,432,3
+cyanogenmod,433,3
+sends,434,3
+site,435,5
+forcing,436,2
+tor additionally transparent,437,3
+additionally,438,3
+ubuntu generic bug triggered,439,3
+ubuntu generic,440,3
+rules tcp close,441,3
+rules installed,442,2
+socksports manually,443,3
+client application,444,7
+onion,445,1
+tor drop traffic superior,446,3
+circumstances applies kernels,447,3
+server closing connection,448,3
+fails resends blank uid,449,3
+circuit socksports reason configure,450,3
+manually,451,3
+ubuntu,452,3
+tor client,453,3
+socks,454,4
+traffic superior,455,3
+wget socks,456,2
+containers tor,457,2
+kernel transparent,458,3
+dont,459,1
+routed tor additionally,460,3
+note,461,1
+triggered remote,462,3
+reason stream,463,3
+instances,464,1
+reason configure application tor,465,3
+application finally,466,2
+connection shuts,467,3
+itapplies,468,1
+relies,469,3
+manually configure applications,470,3
+february transparent,471,2
+car,472,2
+remote server closing connection,473,3
+triggered kernel,474,2
+manually configure,475,3
+track,476,3
+privoxy,477,2
+tcp,478,3
+routed,479,3
+process,480,2
+kernel appears,481,3
+built,482,2
+implementation,483,3
+february,484,4
+getp,485,1
+kernel appears leak,486,3
+automatically routed,487,3
+applications containers,488,2
+command,489,1
+transports,490,3
+close wait sundown,491,3
+fin ack,492,3
+proxying,493,12
+linux kernel appears,494,3
+kernel lose,495,3
+visit,496,1
+user,497,1

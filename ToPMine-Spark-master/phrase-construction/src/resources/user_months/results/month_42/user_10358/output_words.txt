@@ -1,0 +1,61 @@
+Topic 0:
+  sr:4.56
+  ag:3.14
+  forums:3.05
+  market:2.84
+  forum:2.47
+  find:1.90
+  reddit:1.90
+  personally:1.36
+  stay:1.35
+  business:1.34
+
+Topic 1:
+  forum:4.93
+  security:2.88
+  quote:1.91
+  browser:1.88
+  people:1.88
+  small:1.88
+  told:1.88
+  email:1.88
+  literally:1.88
+  address:1.88
+
+Topic 2:
+  forum:3.12
+  market:2.91
+  sr:2.90
+  forums:2.39
+  ag:1.97
+  find:1.35
+  long:1.34
+  smf:1.33
+  reddit:1.31
+  business:1.23
+
+Topic 3:
+  forum:4.73
+  forums:2.95
+  agora:1.50
+  good:1.44
+  sr:1.13
+  tor:0.87
+  server:0.82
+  market:0.78
+  markets:0.64
+  users:0.64
+
+Topic 4:
+  forums:4.02
+  forum:2.74
+  sr:1.70
+  agora:1.48
+  market:1.42
+  good:1.08
+  site:0.90
+  business:0.86
+  long:0.85
+  smf:0.79
+
+K: 5, Log-Likelihood: -1480.458, Alpha: 11.000, Beta: 1.100

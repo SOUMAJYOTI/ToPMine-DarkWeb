@@ -1,0 +1,61 @@
+Topic 0:
+  called:0.00
+  software:0.00
+  usage:0.00
+  isp:0.00
+  bring:0.00
+  project:0.00
+  advertising:0.00
+  free free:0.00
+  number:0.00
+  high:0.00
+
+Topic 1:
+  called:0.00
+  software:0.00
+  usage:0.00
+  isp:0.00
+  bring:0.00
+  project:0.00
+  advertising:0.00
+  free free:0.00
+  number:0.00
+  high:0.00
+
+Topic 2:
+  called:0.00
+  software:0.00
+  usage:0.00
+  isp:0.00
+  bring:0.00
+  project:0.00
+  advertising:0.00
+  free free:0.00
+  number:0.00
+  high:0.00
+
+Topic 3:
+  called:0.00
+  software:0.00
+  usage:0.00
+  isp:0.00
+  bring:0.00
+  project:0.00
+  advertising:0.00
+  free free:0.00
+  number:0.00
+  high:0.00
+
+Topic 4:
+  called:0.00
+  software:0.00
+  usage:0.00
+  isp:0.00
+  bring:0.00
+  project:0.00
+  advertising:0.00
+  free free:0.00
+  number:0.00
+  high:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

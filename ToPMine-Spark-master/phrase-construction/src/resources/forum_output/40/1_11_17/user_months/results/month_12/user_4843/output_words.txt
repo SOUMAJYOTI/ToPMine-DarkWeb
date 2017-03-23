@@ -1,0 +1,61 @@
+Topic 0:
+  theme:6.37
+  eye:2.43
+  profile:2.40
+  candy:2.36
+  dns:1.67
+  avengers:1.62
+  pretty:1.46
+  love:1.45
+  nice:1.45
+  set:1.12
+
+Topic 1:
+  team:4.46
+  dns:3.25
+  theme:2.43
+  themes:1.73
+  work:1.36
+  forums:1.13
+  community:0.96
+  set:0.92
+  making:0.91
+  change:0.80
+
+Topic 2:
+  theme:2.24
+  love:1.63
+  photoshop:1.42
+  dns:1.41
+  themes:1.19
+  background:1.18
+  change:1.06
+  thread:0.92
+  layout:0.84
+  work:0.67
+
+Topic 3:
+  theme:2.18
+  dns:1.61
+  love:1.22
+  contact:1.19
+  services:1.06
+  net:1.05
+  dark:1.03
+  work:0.99
+  themes:0.94
+  great:0.86
+
+Topic 4:
+  theme:3.78
+  background:2.21
+  love:2.11
+  photoshop:1.97
+  layout:1.50
+  change:1.26
+  dns:1.06
+  themes:1.06
+  choose:0.91
+  donate:0.90
+
+K: 5, Log-Likelihood: -1210.383, Alpha: 11.000, Beta: 1.100

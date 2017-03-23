@@ -1,0 +1,61 @@
+Topic 0:
+  sig:1.00
+  btc:1.00
+  escrow:0.83
+  wallet:0.82
+  xss:0.80
+  multi:0.80
+  site:0.64
+  key:0.62
+  trust:0.61
+  account:0.60
+
+Topic 1:
+  sig:1.07
+  btc:0.94
+  wallet:0.87
+  xss:0.85
+  multi:0.81
+  escrow:0.79
+  market:0.62
+  operator:0.60
+  account:0.59
+  key:0.59
+
+Topic 2:
+  sig:1.12
+  btc:0.94
+  multi:0.80
+  xss:0.79
+  wallet:0.74
+  escrow:0.73
+  account:0.60
+  site:0.60
+  operator:0.60
+  market:0.59
+
+Topic 3:
+  btc:1.11
+  sig:0.91
+  escrow:0.84
+  multi:0.84
+  wallet:0.79
+  xss:0.79
+  trust:0.62
+  operator:0.61
+  site:0.60
+  account:0.60
+
+Topic 4:
+  btc:1.01
+  sig:0.90
+  escrow:0.82
+  wallet:0.78
+  multi:0.76
+  xss:0.76
+  key:0.63
+  market:0.61
+  account:0.60
+  trust:0.60
+
+K: 5, Log-Likelihood: -884.592, Alpha: 11.000, Beta: 1.100

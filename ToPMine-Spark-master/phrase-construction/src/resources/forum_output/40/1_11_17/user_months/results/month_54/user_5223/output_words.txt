@@ -1,0 +1,61 @@
+Topic 0:
+  find:0.20
+  meets:0.20
+  bit:0.20
+  active:0.20
+  forum:0.20
+  generally:0.20
+  vendors:0.20
+  search:0.20
+  nucleus:0.20
+  vendor:0.20
+
+Topic 1:
+  fell:0.20
+  avenue:0.20
+  today:0.20
+  seller:0.20
+  pay:0.20
+  buy:0.20
+  south:0.20
+  island:0.20
+  zealand:0.20
+  lsd:0.20
+
+Topic 2:
+  vendors:0.20
+  find:0.20
+  active:0.20
+  forum:0.20
+  generally:0.20
+  meets:0.20
+  grams:0.20
+  bit:0.20
+  search:0.20
+  thunderjew:0.20
+
+Topic 3:
+  south:0.20
+  zealand:0.20
+  today:0.20
+  lsd:0.20
+  seller:0.20
+  island:0.20
+  buy:0.20
+  pay:0.20
+  avenue:0.20
+  fell:0.20
+
+Topic 4:
+  avenue:0.20
+  south:0.20
+  pay:0.20
+  island:0.20
+  lsd:0.20
+  today:0.20
+  seller:0.20
+  buy:0.20
+  fell:0.20
+  zealand:0.20
+
+K: 5, Log-Likelihood: -68.003, Alpha: 11.000, Beta: 1.100

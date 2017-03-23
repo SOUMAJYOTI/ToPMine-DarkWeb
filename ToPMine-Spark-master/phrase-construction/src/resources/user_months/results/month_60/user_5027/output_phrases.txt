@@ -1,0 +1,61 @@
+Topic 0:
+  ghb:1.74
+  dissociate:1.74
+  caused:1.74
+  friend:1.74
+  vomiting:1.74
+  nausea:1.74
+  high:1.74
+  potentiate:1.74
+  hand:1.74
+  day:1.74
+
+Topic 1:
+  kava:3.46
+  bathtub:2.59
+  slid:2.27
+  case:2.27
+  caused death:2.27
+  passed:2.27
+  drowned:2.26
+  afaik:1.84
+  oxus:1.67
+  stage:1.67
+
+Topic 2:
+  moore:5.25
+  ketamine:3.51
+  winter:3.46
+  died:3.04
+  dissociatives:2.00
+  instance:2.00
+  rare:1.98
+  suddenly:1.98
+  adding:1.98
+  gambling:1.98
+
+Topic 3:
+  mipt:5.18
+  minute:3.42
+  benzo:3.40
+  visuals:3.40
+  intense:3.38
+  hours:3.37
+  dissassociatives:3.37
+  slight:1.65
+  times:1.65
+  beno:1.65
+
+Topic 4:
+  opinions:2.01
+  benzos:2.00
+  curious:1.93
+  mixing pcp:1.73
+  create:1.73
+  cocktail:1.73
+  subject:1.73
+  effects:1.73
+  mixing mixing:1.73
+  sorts:1.73
+
+K: 5, Log-Likelihood: -1843.171, Alpha: 11.000, Beta: 1.100

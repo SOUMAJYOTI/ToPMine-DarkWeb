@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:3.09
+  dark:2.25
+  big:1.56
+  bitcoin:1.45
+  lot:1.37
+  faith:1.32
+  knight:0.86
+  glad:0.86
+  working:0.82
+  tech:0.76
+
+Topic 1:
+  wallet:3.17
+  dark:1.54
+  faith:1.20
+  working:1.16
+  glad:1.06
+  lot:0.99
+  big:0.91
+  bitcoin:0.78
+  knight:0.73
+  web:0.70
+
+Topic 2:
+  wallet:4.02
+  dark:2.07
+  faith:1.35
+  big:1.16
+  lot:1.09
+  bitcoin:0.95
+  glad:0.90
+  working:0.85
+  knight:0.84
+  web:0.66
+
+Topic 3:
+  wallet:3.19
+  dark:1.55
+  glad:1.15
+  working:1.13
+  faith:1.05
+  lot:0.90
+  big:0.82
+  bitcoin:0.76
+  knight:0.72
+  aha:0.70
+
+Topic 4:
+  wallet:3.53
+  lot:1.64
+  dark:1.58
+  big:1.55
+  faith:1.08
+  bitcoin:1.06
+  working:1.03
+  glad:1.03
+  knight:0.85
+  interest:0.72
+
+K: 5, Log-Likelihood: -898.899, Alpha: 11.000, Beta: 1.100

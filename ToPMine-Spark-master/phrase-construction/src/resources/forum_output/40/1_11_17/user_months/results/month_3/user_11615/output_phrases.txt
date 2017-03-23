@@ -1,0 +1,61 @@
+Topic 0:
+  click:2.97
+  view:2.83
+  displayed:1.38
+  cmd:1.38
+  wrong:1.38
+  ctrl:1.38
+  mac:1.38
+  missing:1.38
+  tab:1.38
+  hey:1.38
+
+Topic 1:
+  issues:0.86
+  today:0.85
+  pain:0.85
+  amai:0.85
+  bloody:0.84
+  issue:0.74
+  fails:0.73
+  load:0.71
+  log:0.61
+  quote:0.57
+
+Topic 2:
+  work:0.97
+  days:0.87
+  issue:0.82
+  log:0.77
+  amai:0.66
+  pain:0.65
+  bloody:0.65
+  today:0.64
+  issues:0.64
+  find:0.62
+
+Topic 3:
+  issue:0.91
+  load:0.87
+  fails:0.85
+  days:0.69
+  work:0.68
+  log:0.67
+  bloody:0.61
+  system:0.61
+  havent:0.61
+  simple:0.61
+
+Topic 4:
+  data:3.01
+  basis:1.41
+  terms:1.41
+  big:1.41
+  security:1.41
+  massive:1.41
+  privacy:1.41
+  equal:1.41
+  random:1.41
+  trade:1.41
+
+K: 5, Log-Likelihood: -629.117, Alpha: 11.000, Beta: 1.100

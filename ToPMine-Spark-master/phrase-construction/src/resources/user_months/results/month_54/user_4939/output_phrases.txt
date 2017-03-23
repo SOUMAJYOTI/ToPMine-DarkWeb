@@ -1,0 +1,61 @@
+Topic 0:
+  methods:0.43
+  mixing:0.43
+  transaction:0.43
+  chain:0.43
+  combe:0.43
+  break:0.43
+  air gap official tumbler:0.42
+  shared send safe considered:0.42
+  hey curious:0.42
+  bitcoinfog:0.40
+
+Topic 1:
+  bitcoinfog:0.43
+  air gap official tumbler:0.43
+  hey curious:0.42
+  shared send safe considered:0.42
+  blockchains:0.40
+  break:0.39
+  chain:0.39
+  mixing:0.39
+  transaction:0.39
+  combe:0.39
+
+Topic 2:
+  air gap official tumbler:0.41
+  hey curious:0.41
+  shared send safe considered:0.41
+  bitcoinfog:0.39
+  blockchains:0.39
+  combe:0.38
+  transaction:0.38
+  break:0.38
+  chain:0.38
+  methods:0.37
+
+Topic 3:
+  bitcoinfog:0.42
+  hey curious:0.41
+  air gap official tumbler:0.41
+  shared send safe considered:0.41
+  mixing:0.39
+  transaction:0.39
+  chain:0.39
+  combe:0.39
+  methods:0.39
+  break:0.39
+
+Topic 4:
+  bitcoinfog:0.44
+  shared send safe considered:0.42
+  hey curious:0.42
+  air gap official tumbler:0.42
+  blockchains:0.39
+  combe:0.38
+  chain:0.38
+  mixing:0.38
+  break:0.38
+  transaction:0.38
+
+K: 5, Log-Likelihood: -246.031, Alpha: 11.000, Beta: 1.100

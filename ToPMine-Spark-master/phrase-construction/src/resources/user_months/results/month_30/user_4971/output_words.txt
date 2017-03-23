@@ -1,0 +1,61 @@
+Topic 0:
+  orders:2.34
+  lsd:2.20
+  hope:2.18
+  multiply:1.83
+  bulk:1.77
+  vendors:1.73
+  find:1.70
+  st:1.66
+  hear:1.64
+  good:1.62
+
+Topic 1:
+  orders:4.23
+  good:3.72
+  vendors:3.40
+  lsd:3.28
+  quality:3.08
+  vendor:2.41
+  hear:2.35
+  handful:2.21
+  bulk:2.21
+  sale:2.15
+
+Topic 2:
+  good:2.68
+  lsd:2.45
+  orders:2.31
+  vendors:1.82
+  don:1.54
+  vendor:1.54
+  hope:1.52
+  allot:1.48
+  handful:1.27
+  find:1.25
+
+Topic 3:
+  good:2.38
+  lsd:2.20
+  oil:2.09
+  hope:2.07
+  st:1.89
+  orders:1.61
+  vendors:1.58
+  vendor:1.52
+  number:1.47
+  shop:1.46
+
+Topic 4:
+  lsd:3.87
+  good:3.59
+  orders:3.51
+  vendors:3.48
+  vendor:2.96
+  hope:2.62
+  perforated:2.42
+  quality:2.36
+  sale:2.29
+  multiply:2.21
+
+K: 5, Log-Likelihood: -3233.576, Alpha: 11.000, Beta: 1.100

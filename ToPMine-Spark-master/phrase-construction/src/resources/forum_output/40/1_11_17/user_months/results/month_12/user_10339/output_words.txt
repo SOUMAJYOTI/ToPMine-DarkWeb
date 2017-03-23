@@ -1,0 +1,61 @@
+Topic 0:
+  pin:1.93
+  message:1.75
+  error:1.60
+  top:0.95
+  small:0.70
+  quote:0.64
+  process:0.63
+  bitcoin:0.48
+  fails:0.46
+  kind:0.46
+
+Topic 1:
+  message:1.84
+  error:1.53
+  pin:1.10
+  top:0.91
+  small:0.70
+  quote:0.66
+  bitcoin:0.60
+  process:0.49
+  remove:0.47
+  balance:0.47
+
+Topic 2:
+  message:1.87
+  place:1.26
+  error:1.13
+  bitcoin:0.94
+  pin:0.81
+  road:0.74
+  silk:0.73
+  sr:0.70
+  month:0.70
+  dont:0.66
+
+Topic 3:
+  pin:1.55
+  error:1.35
+  message:1.19
+  top:0.79
+  quote:0.72
+  process:0.64
+  june:0.62
+  dinged:0.62
+  small:0.57
+  negative:0.54
+
+Topic 4:
+  pin:2.62
+  error:1.40
+  message:1.35
+  process:0.93
+  top:0.90
+  small:0.65
+  quote:0.61
+  change:0.55
+  account:0.51
+  withdraw:0.51
+
+K: 5, Log-Likelihood: -850.269, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  torbrowser:0.28
+  onion:0.28
+  service:0.14
+  meaning:0.14
+  watching:0.14
+  problems:0.14
+  good:0.14
+  secured:0.14
+  avoid:0.14
+  working:0.14
+
+Topic 1:
+  onion:0.28
+  torbrowser:0.28
+  browsing:0.14
+  proxy proxy:0.14
+  party:0.14
+  risk:0.14
+  bundle:0.14
+  site:0.14
+  recommend:0.14
+  secured:0.14
+
+Topic 2:
+  onion:0.28
+  torbrowser:0.28
+  risk:0.14
+  bundle:0.14
+  browsing:0.14
+  proxy proxy:0.14
+  party:0.14
+  recommend:0.14
+  site:0.14
+  piqued:0.14
+
+Topic 3:
+  onion:0.28
+  torbrowser:0.28
+  lot:0.14
+  sides:0.14
+  ve:0.14
+  safe:0.14
+  unknown:0.14
+  bereit:0.14
+  remain:0.14
+  save:0.14
+
+Topic 4:
+  torbrowser:0.28
+  onion:0.28
+  working:0.14
+  watching:0.14
+  service:0.14
+  good:0.14
+  problems:0.14
+  meaning:0.14
+  secured:0.14
+  avoid:0.14
+
+K: 5, Log-Likelihood: -125.210, Alpha: 11.000, Beta: 1.100

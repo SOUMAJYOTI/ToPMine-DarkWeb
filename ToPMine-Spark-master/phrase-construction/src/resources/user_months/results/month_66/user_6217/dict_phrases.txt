@@ -1,0 +1,44 @@
+mycelium,0,1
+reason,1,1
+helixsend,2,2
+persistance,3,2
+direct deals,4,4
+blockchainwalletsend,5,2
+direct,6,4
+squire,7,2
+solved,8,1
+recommend,9,2
+login,10,2
+btc,11,2
+final wallet,12,2
+accessing,13,2
+logout,14,2
+tumbling,15,2
+tor,16,1
+helix,17,2
+sending,18,2
+gb,19,1
+vendors,20,2
+wallet direct deals,21,4
+mine,22,2
+electrum,23,7
+walletsend,24,2
+wallet,25,8
+solid,26,2
+method,27,2
+coins,28,2
+wallet final,29,2
+tail,30,2
+safest,31,2
+wallets,32,2
+uncomfortable,33,2
+suppose,34,2
+wallet direct,35,4
+market,36,2
+system,37,2
+tails,38,2
+deals,39,4
+safe,40,2
+final,41,4
+electrum wallet,42,2
+problems,43,1

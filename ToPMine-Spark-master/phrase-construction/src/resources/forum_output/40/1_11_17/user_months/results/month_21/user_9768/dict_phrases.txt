@@ -1,0 +1,53 @@
+version pidgin,0,2
+yeah,1,1
+good,2,4
+pray,3,4
+number,4,2
+quote,5,2
+pray settings,6,2
+late,7,2
+compile,8,2
+tab,9,2
+stuck,10,2
+settings tor,11,2
+settings,12,8
+pre,13,2
+work,14,2
+socks,15,4
+pmok,16,2
+version,17,4
+port,18,4
+changed,19,2
+option,20,2
+weeks,21,2
+socks socks,22,2
+tor browser,23,4
+pidgin version,24,2
+browser pray,25,2
+running,26,2
+compiled,27,2
+settings connect,28,2
+good good,29,2
+tor,30,6
+browser,31,4
+actively,32,2
+connect,33,4
+latest,34,2
+os,35,4
+looping,36,2
+noticed,37,2
+tor socks,38,2
+piggin,39,2
+port tor,40,2
+great,41,2
+nice,42,1
+releases,43,2
+browser settings,44,2
+modify,45,2
+june,46,2
+pidgin,47,6
+response,48,4
+unfix,49,2
+sillywabbit,50,2
+setup,51,1
+pidgin os,52,4

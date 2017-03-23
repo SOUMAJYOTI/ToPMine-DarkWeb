@@ -1,0 +1,61 @@
+Topic 0:
+  fuck:0.08
+  main:0.08
+  market:0.08
+  miserable:0.08
+  ya:0.08
+  sad:0.08
+  hope:0.08
+  abraxas:0.08
+  helps:0.08
+  mate:0.08
+
+Topic 1:
+  market:0.08
+  helps:0.08
+  sad:0.08
+  mate:0.08
+  miserable:0.08
+  hope:0.08
+  fuck:0.08
+  main:0.08
+  abraxas:0.08
+  ya:0.08
+
+Topic 2:
+  return:0.08
+  mate:0.08
+  ya:0.08
+  turning:0.08
+  abraxas:0.08
+  hope:0.08
+  sad:0.08
+  helps:0.08
+  main:0.08
+  miserable:0.08
+
+Topic 3:
+  abraxas:0.08
+  helps:0.08
+  turning:0.08
+  return:0.08
+  mate:0.08
+  sad:0.08
+  ya:0.08
+  hope:0.08
+  miserable:0.08
+  fuck:0.08
+
+Topic 4:
+  market:0.08
+  fuck:0.08
+  main:0.08
+  miserable:0.08
+  turning:0.08
+  hope:0.08
+  ya:0.08
+  return:0.08
+  sad:0.08
+  helps:0.08
+
+K: 5, Log-Likelihood: -12.309, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,31 @@
+Topic 0:
+  fanatic:0.20
+  occasional:0.20
+  ltc:0.20
+  takes:0.20
+
+Topic 1:
+  ltc:0.20
+  takes:0.20
+  occasional:0.20
+  fanatic:0.20
+
+Topic 2:
+  ltc:0.20
+  occasional:0.20
+  fanatic:0.20
+  takes:0.20
+
+Topic 3:
+  ltc:0.20
+  takes:0.20
+  occasional:0.20
+  fanatic:0.20
+
+Topic 4:
+  takes:0.20
+  fanatic:0.20
+  ltc:0.20
+  occasional:0.20
+
+K: 5, Log-Likelihood: -5.545, Alpha: 11.000, Beta: 1.100

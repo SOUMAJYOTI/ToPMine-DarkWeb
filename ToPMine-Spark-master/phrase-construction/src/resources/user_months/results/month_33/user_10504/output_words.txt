@@ -1,0 +1,61 @@
+Topic 0:
+  tor:2.89
+  feds:1.80
+  flipmode:0.96
+  tails:0.90
+  troll:0.84
+  coming:0.83
+  vpn:0.83
+  local:0.80
+  guy:0.78
+  le:0.78
+
+Topic 1:
+  tor:3.08
+  feds:1.56
+  flipmode:0.97
+  troll:0.90
+  tails:0.88
+  local:0.83
+  wrong:0.78
+  damn:0.78
+  understanding:0.78
+  vpn:0.77
+
+Topic 2:
+  tor:3.00
+  feds:1.69
+  le:1.13
+  coming:1.09
+  pretty:1.00
+  damn:0.99
+  understanding:0.99
+  andyone:0.99
+  safe:0.98
+  vpns:0.98
+
+Topic 3:
+  tails:2.28
+  tor:2.28
+  vpn:0.98
+  local:0.96
+  troll:0.92
+  dont:0.75
+  flipmode:0.72
+  january:0.71
+  quote:0.70
+  feds:0.70
+
+Topic 4:
+  tails:3.32
+  work:2.83
+  dont:2.74
+  security:2.14
+  passed:1.18
+  ppl:1.18
+  subject:1.17
+  didnt:1.17
+  point:1.17
+  hell:1.17
+
+K: 5, Log-Likelihood: -777.683, Alpha: 11.000, Beta: 1.100

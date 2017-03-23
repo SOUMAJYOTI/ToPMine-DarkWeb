@@ -1,0 +1,61 @@
+Topic 0:
+  exit:1.43
+  tor:1.13
+  track:1.11
+  packages:1.01
+  time:0.79
+  stuff:0.78
+  le:0.77
+  short:0.77
+  simplified:0.77
+  safety:0.77
+
+Topic 1:
+  exit:1.87
+  encrypted:1.07
+  purpose:0.88
+  good:0.88
+  link:0.87
+  catch:0.87
+  advise:0.86
+  traffic:0.86
+  hosts:0.86
+  pm:0.86
+
+Topic 2:
+  attack:2.23
+  sal:2.23
+  conduct:2.23
+  control:2.23
+  enforcement:2.23
+  law:2.23
+  single:2.23
+  tracking:2.23
+  determined:2.23
+  browsers:2.23
+
+Topic 3:
+  free wifi:1.65
+  mac address:1.39
+  log public wifi:1.38
+  track:0.91
+  tor:0.90
+  quote humblebumble september:0.84
+  tails:0.84
+  starbucks:0.64
+  pack:0.64
+  cheers:0.63
+
+Topic 4:
+  package:6.97
+  check package:4.51
+  expecting package:4.50
+  drugs:4.38
+  po:2.02
+  sending:2.02
+  testifying:2.02
+  ssshhh:2.02
+  locations:2.02
+  fucked:2.02
+
+K: 5, Log-Likelihood: -1199.199, Alpha: 11.000, Beta: 1.100

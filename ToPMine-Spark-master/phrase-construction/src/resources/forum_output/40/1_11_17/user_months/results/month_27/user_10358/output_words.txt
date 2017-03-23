@@ -1,0 +1,21 @@
+Topic 0:
+  noticed:0.20
+  havent:0.20
+
+Topic 1:
+  noticed:0.20
+  havent:0.20
+
+Topic 2:
+  havent:0.20
+  noticed:0.20
+
+Topic 3:
+  havent:0.20
+  noticed:0.20
+
+Topic 4:
+  havent:0.20
+  noticed:0.20
+
+K: 5, Log-Likelihood: -1.386, Alpha: 11.000, Beta: 1.100

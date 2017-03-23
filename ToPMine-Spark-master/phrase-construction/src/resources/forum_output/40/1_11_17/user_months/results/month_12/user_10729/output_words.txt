@@ -1,0 +1,61 @@
+Topic 0:
+  rules:4.94
+  addresses:3.03
+  tap:2.94
+  bridge:2.55
+  bridges:2.30
+  emails:2.01
+  match:2.01
+  fiber:1.94
+  harder:1.94
+  fpgas:1.94
+
+Topic 1:
+  bridges:1.79
+  servers:1.22
+  tor:1.15
+  bridge:0.60
+  start:0.49
+  focusing:0.45
+  good:0.40
+  analysis:0.40
+  org:0.32
+  state:0.31
+
+Topic 2:
+  tor:31.43
+  onion:21.26
+  tails:11.15
+  definition:11.13
+  address:10.84
+  fingerprint:10.61
+  anonymizer:9.28
+  directory:8.24
+  string:7.11
+  scheme:6.75
+
+Topic 3:
+  tor:7.43
+  scheme:5.05
+  bridges:4.37
+  start:4.17
+  bridge:2.97
+  port:2.78
+  definition:2.70
+  anonymizer:2.54
+  fingerprint:2.22
+  iter:2.13
+
+Topic 4:
+  firelight:2.86
+  suppose:1.95
+  didnt:1.86
+  question:1.86
+  upstream:1.86
+  amdo:1.86
+  nsa:1.86
+  logging:1.86
+  answer:1.86
+  june:1.86
+
+K: 5, Log-Likelihood: -3295.243, Alpha: 11.000, Beta: 1.100

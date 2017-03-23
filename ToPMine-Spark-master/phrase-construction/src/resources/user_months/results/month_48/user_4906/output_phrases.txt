@@ -1,0 +1,61 @@
+Topic 0:
+  links:2.37
+  tor browser:1.92
+  view:1.39
+  marketplace:1.15
+  tree:1.15
+  filesharing:1.15
+  purchasing:1.15
+  pc:1.15
+  reccomend:1.15
+  ideas:1.15
+
+Topic 1:
+  disallow:3.87
+  complicated:1.71
+  secure:1.71
+  daystep:1.71
+  points:1.70
+  clicking:1.70
+  route:1.70
+  fairly:1.69
+  sounds:1.69
+  extraction:1.69
+
+Topic 2:
+  opens:4.61
+  download:4.39
+  recieved:3.80
+  java:2.21
+  june:2.21
+  takes:2.21
+  appears:2.21
+  pleroma:2.21
+  safe:2.21
+  response:2.21
+
+Topic 3:
+  tails:9.34
+  document viewer:6.97
+  view pdf files:6.94
+  wired tireless:4.56
+  internet tor:4.56
+  connect:4.56
+  reboot tails:4.54
+  view:2.88
+  safest:2.29
+  forward:2.18
+
+Topic 4:
+  illegal:2.18
+  time:2.18
+  extremely:2.18
+  unsafe:2.18
+  block:2.18
+  unloading:2.18
+  cashout:2.18
+  download tor:2.18
+  ip:2.18
+  amount:2.18
+
+K: 5, Log-Likelihood: -1871.946, Alpha: 11.000, Beta: 1.100

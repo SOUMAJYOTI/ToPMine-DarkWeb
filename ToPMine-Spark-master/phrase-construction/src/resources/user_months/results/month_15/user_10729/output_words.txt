@@ -1,0 +1,61 @@
+Topic 0:
+  rules:4.96
+  gb:3.71
+  addresses:3.12
+  tor:3.00
+  tap:2.97
+  bridges:2.94
+  bridge:2.73
+  location:2.63
+  doubt:2.46
+  list:2.03
+
+Topic 1:
+  open:2.88
+  system:2.71
+  nodes:2.15
+  time:1.92
+  privacy:1.80
+  hidden:1.76
+  operation:1.56
+  service:1.48
+  agencies:1.40
+  intelligence:1.37
+
+Topic 2:
+  tor:42.36
+  onion:26.85
+  definition:13.98
+  tails:12.98
+  fingerprint:12.98
+  address:12.25
+  scheme:11.98
+  anonymizer:11.98
+  bridges:11.96
+  directory:9.98
+
+Topic 3:
+  quote:4.65
+  countries:3.98
+  firelight:2.84
+  nsa:2.73
+  didnt:2.72
+  servers:2.49
+  country:2.11
+  excludenodes:2.10
+  reckon:2.09
+  requests:1.84
+
+Topic 4:
+  tor:8.30
+  fbi:7.88
+  child:5.89
+  hidden:5.07
+  sites:4.90
+  services:4.88
+  web:3.96
+  users:3.96
+  obi:3.91
+  agents:3.91
+
+K: 5, Log-Likelihood: -7177.568, Alpha: 11.000, Beta: 1.100

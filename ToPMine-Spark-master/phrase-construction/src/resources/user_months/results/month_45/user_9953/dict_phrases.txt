@@ -1,0 +1,10 @@
+cucus,0,1
+find,1,1
+bake,2,1
+buy,3,1
+farm,4,1
+grain,5,1
+uruguay,6,1
+mix,7,1
+sterilize,8,1
+local,9,1

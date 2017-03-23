@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.09
+  markets:0.20
+  built:0.20
+  browse:0.20
+  outlaw:0.20
+  foundation:0.20
+  long:0.20
+  stay:0.20
+  cut:0.20
+  march:0.20
+
+Topic 1:
+  market:1.12
+  great:0.20
+  wanting:0.20
+  darkweb:0.20
+  people:0.20
+  activity:0.20
+  framework:0.20
+  built:0.20
+  long:0.20
+  imo:0.20
+
+Topic 2:
+  market:1.01
+  software:0.20
+  wanting:0.20
+  paste:0.20
+  execution:0.20
+  frameworks:0.20
+  problems:0.20
+  concept:0.20
+  agree:0.20
+  quote:0.20
+
+Topic 3:
+  market:0.90
+  defunct:0.20
+  awkward:0.20
+  inheriting:0.20
+  execution:0.20
+  layout:0.20
+  activity:0.20
+  ground:0.20
+  modules:0.20
+  darkweb:0.20
+
+Topic 4:
+  market:0.88
+  defunct:0.21
+  lack:0.20
+  layout:0.20
+  stay:0.20
+  open:0.20
+  source:0.20
+  missy:0.20
+  markets:0.20
+  agree:0.20
+
+K: 5, Log-Likelihood: -168.268, Alpha: 11.000, Beta: 1.100

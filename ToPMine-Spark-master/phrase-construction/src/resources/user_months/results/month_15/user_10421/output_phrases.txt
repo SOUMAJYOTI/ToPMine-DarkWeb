@@ -1,0 +1,61 @@
+Topic 0:
+  machines:0.16
+  check:0.16
+  bad motherfuckers:0.16
+  ms:0.16
+  things:0.16
+  extension:0.16
+  coming:0.16
+  find:0.16
+  bsm:0.16
+  vincentvega:0.08
+
+Topic 1:
+  bsm:0.16
+  extension:0.16
+  find:0.16
+  check:0.16
+  machines:0.16
+  bad motherfuckers:0.16
+  coming:0.16
+  things:0.16
+  ms:0.16
+  yo:0.08
+
+Topic 2:
+  bsm:0.16
+  coming:0.16
+  machines:0.16
+  check:0.16
+  things:0.16
+  find:0.16
+  ms:0.16
+  extension:0.16
+  bad motherfuckers:0.16
+  people:0.08
+
+Topic 3:
+  bsm:0.16
+  things:0.16
+  extension:0.16
+  find:0.16
+  ms:0.16
+  bad motherfuckers:0.16
+  check:0.16
+  coming:0.16
+  machines:0.16
+  markets:0.08
+
+Topic 4:
+  bad motherfuckers:0.16
+  coming:0.16
+  ms:0.16
+  find:0.16
+  things:0.16
+  machines:0.16
+  check:0.16
+  extension:0.16
+  bsm:0.16
+  gracious:0.08
+
+K: 5, Log-Likelihood: -291.416, Alpha: 11.000, Beta: 1.100

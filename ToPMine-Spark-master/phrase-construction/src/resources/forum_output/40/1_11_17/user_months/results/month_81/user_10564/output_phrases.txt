@@ -1,0 +1,61 @@
+Topic 0:
+  total bitcoins:0.46
+  bitcoin inflation:0.38
+  miners:0.38
+  day:0.30
+  time:0.30
+  blocks:0.30
+  bitcoin:0.30
+  mined:0.22
+  decreasing:0.22
+  annum:0.22
+
+Topic 1:
+  total bitcoins:0.92
+  bitcoin inflation:0.67
+  miners:0.67
+  blocks:0.50
+  bitcoin:0.50
+  time:0.50
+  day:0.49
+  price:0.32
+  annum:0.32
+  current:0.32
+
+Topic 2:
+  total bitcoins:0.70
+  miners:0.61
+  bitcoin inflation:0.59
+  bitcoin:0.44
+  time:0.44
+  day:0.44
+  blocks:0.44
+  decreasing:0.29
+  production:0.29
+  bitcoin block:0.29
+
+Topic 3:
+  total bitcoins:0.61
+  miners:0.51
+  bitcoin inflation:0.50
+  time:0.40
+  day:0.40
+  bitcoin:0.39
+  blocks:0.39
+  amount:0.27
+  rise:0.27
+  mined:0.27
+
+Topic 4:
+  total bitcoins:0.78
+  bitcoin inflation:0.62
+  miners:0.59
+  day:0.46
+  blocks:0.45
+  time:0.45
+  bitcoin:0.45
+  yield:0.30
+  mine:0.30
+  generated:0.30
+
+K: 5, Log-Likelihood: -614.034, Alpha: 11.000, Beta: 1.100

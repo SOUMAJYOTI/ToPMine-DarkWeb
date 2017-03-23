@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:4.84
+  bitcoind blockchain:3.22
+  mufti sig:3.22
+  multi sig address:3.18
+  electric:1.75
+  space:1.75
+  time:1.75
+  server link:1.75
+  convenient:1.75
+  data addresses:1.75
+
+Topic 1:
+  assume system secure data:3.04
+  require users blockchain:3.04
+  lost rely nodes provide:3.04
+  wallets armory electrum:3.04
+  backed careful web wallets:3.04
+  reason:2.60
+  pmsecurity:2.60
+  small:2.60
+  armoury secure:2.60
+  web wallet:2.60
+
+Topic 2:
+  february:5.23
+  quote:4.87
+  program:3.52
+  version:3.52
+  online:3.52
+  cold storage:3.02
+  blockchain:2.80
+  pretty:2.30
+  multi sig address:2.29
+  computer:2.23
+
+Topic 3:
+  bitin:3.50
+  wallet:1.88
+  albert dont:1.72
+  drive:1.72
+  rots:1.72
+  personally:1.72
+  hard:1.72
+  web based:1.72
+  qt:1.72
+  connect:1.69
+
+Topic 4:
+  org:3.40
+  users:2.70
+  auto:2.67
+  totally:2.67
+  prefer client:2.67
+  thatd:2.67
+  drop:2.67
+  set:1.74
+  implementation:1.74
+  clients support:1.74
+
+K: 5, Log-Likelihood: -3460.260, Alpha: 11.000, Beta: 1.100

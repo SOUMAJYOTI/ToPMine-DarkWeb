@@ -1,0 +1,61 @@
+Topic 0:
+  government:6.13
+  understand:5.72
+  quote:5.35
+  october:5.34
+  dont:4.49
+  don:4.40
+  sense:3.86
+  trust:3.49
+  man:3.48
+  worse:3.46
+
+Topic 1:
+  bios:15.76
+  system:11.73
+  computer:8.76
+  owned:5.95
+  firmware:5.87
+  flash:5.26
+  mode:4.31
+  works:4.10
+  write:3.95
+  instructions:3.95
+
+Topic 2:
+  bios:6.57
+  free:5.31
+  source:4.78
+  avoid:4.55
+  software:4.01
+  private:3.71
+  bits:3.70
+  allot:3.67
+  good:3.55
+  flash:3.51
+
+Topic 3:
+  drug:6.12
+  suppose:5.94
+  privacy:5.90
+  thought:5.54
+  nsa:4.65
+  guy:3.95
+  transparency:3.95
+  humans:3.95
+  system:3.50
+  web:2.95
+
+Topic 4:
+  bios:9.11
+  hardware:4.31
+  happen:3.95
+  thing:3.95
+  scaring:3.41
+  wabbit:3.41
+  unclean:3.28
+  info:3.27
+  quote:3.24
+  october:3.22
+
+K: 5, Log-Likelihood: -5773.513, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  darkcoin:4.86
+  bitcoin:3.75
+  diabolus:3.01
+  order:2.98
+  servers:2.27
+  users:2.23
+  open:2.10
+  independently:1.96
+  checkout:1.96
+  full:1.96
+
+Topic 1:
+  market:28.89
+  openbazaar:19.91
+  users:9.29
+  order:8.35
+  store:7.92
+  dht:7.91
+  website:7.91
+  buyer:7.91
+  vendor:7.90
+  ob:5.94
+
+Topic 2:
+  escrow:12.97
+  commissions:5.91
+  traditional:5.89
+  model:5.29
+  fees:3.90
+  diabolus:3.58
+  high:3.10
+  business:2.92
+  attractive:2.88
+  future:2.88
+
+Topic 3:
+  market:12.28
+  cannabis:6.63
+  multi:5.02
+  sir:4.96
+  markets:4.40
+  lot:4.07
+  idea:3.74
+  drugs:3.43
+  personally:3.31
+  dont:3.17
+
+Topic 4:
+  listings:6.13
+  order:4.56
+  dont:4.05
+  vendor:4.03
+  check:3.47
+  sort:3.44
+  moment:3.15
+  darkcoin:2.67
+  hard:2.26
+  filters:2.12
+
+K: 5, Log-Likelihood: -4829.229, Alpha: 11.000, Beta: 1.100

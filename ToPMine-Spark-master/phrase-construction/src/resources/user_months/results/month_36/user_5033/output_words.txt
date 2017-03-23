@@ -1,0 +1,61 @@
+Topic 0:
+  bv:4.74
+  market:3.89
+  scam:3.84
+  people:3.60
+  lost:3.03
+  shit:2.97
+  trust:2.50
+  money:2.33
+  time:2.31
+  site:2.16
+
+Topic 1:
+  evolution:6.54
+  thing:5.90
+  situation:4.72
+  money:4.63
+  reddit:4.21
+  order:3.90
+  greeted:3.90
+  weed:3.90
+  scamming:3.87
+  hxxp:3.83
+
+Topic 2:
+  bv:8.81
+  people:7.82
+  immoral:6.49
+  posted:6.43
+  step:6.42
+  outcome:6.23
+  marketplace:6.21
+  time:5.47
+  trust:4.16
+  love:4.04
+
+Topic 3:
+  people:3.70
+  market:3.41
+  lost:3.02
+  trust:2.85
+  scam:2.58
+  hope:2.45
+  bv:2.39
+  time:2.05
+  stealing:1.91
+  customers:1.83
+
+Topic 4:
+  evo:6.13
+  vendors:5.46
+  damn:5.44
+  hope:4.69
+  reddit:4.41
+  shame:3.92
+  sucks:2.80
+  day:2.79
+  bad:2.75
+  don:2.48
+
+K: 5, Log-Likelihood: -5240.654, Alpha: 11.000, Beta: 1.100

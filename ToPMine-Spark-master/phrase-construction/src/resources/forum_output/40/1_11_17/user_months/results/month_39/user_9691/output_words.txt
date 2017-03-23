@@ -1,0 +1,61 @@
+Topic 0:
+  changa:0.59
+  btc:0.56
+  coin:0.44
+  spare:0.43
+  thread:0.43
+  dxuutx:0.42
+  edit:0.39
+  add:0.38
+  edited:0.38
+  place:0.38
+
+Topic 1:
+  btc:0.59
+  changa:0.58
+  thread:0.45
+  coin:0.45
+  spare:0.44
+  dxuutx:0.43
+  add:0.39
+  edited:0.39
+  edit:0.37
+  order:0.37
+
+Topic 2:
+  changa:0.63
+  btc:0.62
+  happy:0.54
+  pay:0.54
+  place:0.46
+  bitcoin:0.45
+  order:0.45
+  edit:0.45
+  edited:0.42
+  add:0.42
+
+Topic 3:
+  btc:0.64
+  changa:0.59
+  pay:0.43
+  happy:0.43
+  order:0.42
+  bitcoin:0.42
+  place:0.41
+  add:0.41
+  edited:0.41
+  edit:0.40
+
+Topic 4:
+  changa:0.60
+  btc:0.60
+  dxuutx:0.42
+  spare:0.42
+  thread:0.42
+  coin:0.41
+  edited:0.40
+  edit:0.39
+  add:0.39
+  place:0.39
+
+K: 5, Log-Likelihood: -448.749, Alpha: 11.000, Beta: 1.100

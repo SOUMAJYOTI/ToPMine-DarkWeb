@@ -1,0 +1,61 @@
+Topic 0:
+  boneskoopa:14.78
+  forum:12.73
+  order:10.25
+  account:9.44
+  key:7.74
+  lot:5.80
+  vendors:5.61
+  started:5.47
+  post:5.45
+  shit:5.22
+
+Topic 1:
+  forum:14.61
+  september:9.29
+  making:8.89
+  dont:8.69
+  mac:7.80
+  quote:7.31
+  nucleus:7.05
+  accounts:6.94
+  time:6.29
+  captcha:5.93
+
+Topic 2:
+  bots:21.21
+  forums:21.14
+  server:12.80
+  september:11.27
+  time:8.76
+  thread:7.47
+  link:7.25
+  referred:6.91
+  quote:6.88
+  referrer:6.84
+
+Topic 3:
+  system:47.94
+  delivery:44.99
+  tek:42.99
+  abraxas:38.31
+  quantum:35.99
+  agora:27.38
+  abraham:13.44
+  quartus:8.99
+  top:3.30
+  marketplaces:3.12
+
+Topic 4:
+  set:6.60
+  market:6.16
+  hub:6.12
+  quote:5.90
+  link:5.68
+  july:4.53
+  hrs:4.25
+  links:4.24
+  sites:4.23
+  feel:4.19
+
+K: 5, Log-Likelihood: -14179.045, Alpha: 11.000, Beta: 1.100

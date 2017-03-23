@@ -1,0 +1,61 @@
+Topic 0:
+  keyserver:7.89
+  vendor:6.96
+  pgp:5.61
+  key:5.49
+  fingerprint:3.89
+  links:3.89
+  farmer:3.89
+  baf:3.89
+  eyeseeker:3.66
+  quote:3.13
+
+Topic 1:
+  worry:7.29
+  idea:5.21
+  ordered:4.64
+  trusted:4.34
+  worried:3.73
+  hard:3.14
+  cannabis:3.06
+  quote:2.89
+  buy:2.68
+  coming:2.59
+
+Topic 2:
+  drug:5.97
+  court:5.53
+  gon:4.01
+  sign:3.84
+  ll:3.75
+  cd:3.69
+  stuff:3.67
+  computer:3.66
+  shut:3.65
+  mouth:3.64
+
+Topic 3:
+  gon:3.64
+  vendor:3.43
+  package:3.37
+  trusted:2.20
+  cannabis:2.10
+  buy:1.88
+  worried:1.48
+  shit:1.28
+  find:1.23
+  sign:1.20
+
+Topic 4:
+  drugs:2.83
+  worried:2.32
+  vendor:2.16
+  cannabis:2.08
+  package:2.05
+  worry:1.96
+  ordered:1.87
+  trusted:1.76
+  gon:1.63
+  place:1.47
+
+K: 5, Log-Likelihood: -2680.550, Alpha: 11.000, Beta: 1.100

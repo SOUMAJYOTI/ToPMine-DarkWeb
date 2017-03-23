@@ -1,0 +1,61 @@
+Topic 0:
+  darkcoin:1.75
+  anonymous:1.54
+  article:1.38
+  call:0.79
+  case:0.74
+  relay:0.73
+  hope:0.62
+  match:0.60
+  guess:0.59
+  implementation:0.55
+
+Topic 1:
+  onionaddnode:6.90
+  dash:4.60
+  careful:1.58
+  addnode:1.22
+  px:0.91
+  sf:0.91
+  jovw:0.91
+  xdsqphkef:0.91
+  crossposted:0.91
+  aqmdzilaqayzjb:0.91
+
+Topic 2:
+  anonymity:18.58
+  anonymization:12.98
+  cryptocurrency:11.67
+  darkcoin:11.05
+  users:10.26
+  number:9.87
+  transactions:9.68
+  network:9.39
+  level:7.99
+  mixer:7.74
+
+Topic 3:
+  tor:27.93
+  onion:18.92
+  proxy:11.98
+  darkcoin:11.86
+  addresses:10.27
+  port:7.98
+  socks:7.98
+  ipv:6.98
+  default:5.98
+  hidden:5.12
+
+Topic 4:
+  bitcoin:19.41
+  anonymity:15.34
+  darkcoin:11.20
+  level:9.93
+  anonymization:8.95
+  mixer:6.19
+  provision:4.99
+  money:4.88
+  users:4.67
+  control:4.56
+
+K: 5, Log-Likelihood: -10452.544, Alpha: 11.000, Beta: 1.100

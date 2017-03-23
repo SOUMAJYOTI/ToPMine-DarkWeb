@@ -1,0 +1,61 @@
+Topic 0:
+  script:6.84
+  stuff:5.71
+  year:4.69
+  set:4.61
+  iv:3.97
+  lists:3.80
+  xmas:3.66
+  rush:3.65
+  lot:3.60
+  tor:3.59
+
+Topic 1:
+  private:14.64
+  november:12.05
+  key:11.79
+  find:11.08
+  aes:9.87
+  decrypt:9.85
+  fatherted:8.26
+  correlation:7.84
+  theresident:7.06
+  crypt:6.91
+
+Topic 2:
+  sigaint:10.33
+  tor:8.14
+  mail:7.14
+  email:6.91
+  quote:6.78
+  blocking:6.64
+  worth:4.06
+  find:3.19
+  thx:3.04
+  site:3.02
+
+Topic 3:
+  aethon:23.73
+  october:23.64
+  worry:21.81
+  pmquote:16.61
+  service:14.66
+  pops:13.32
+  assume:10.00
+  quote:8.92
+  cheers:8.88
+  job:7.59
+
+Topic 4:
+  screen:9.96
+  top:8.94
+  browser:8.73
+  settings:8.43
+  tor:8.24
+  security:7.34
+  time:6.93
+  script:6.64
+  slider:5.91
+  start:5.75
+
+K: 5, Log-Likelihood: -7617.552, Alpha: 11.000, Beta: 1.100

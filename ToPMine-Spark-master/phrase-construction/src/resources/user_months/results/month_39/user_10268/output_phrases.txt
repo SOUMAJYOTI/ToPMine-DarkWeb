@@ -1,0 +1,61 @@
+Topic 0:
+  addresses:0.28
+  diddnt:0.28
+  nucleus:0.27
+  person:0.14
+  money:0.14
+  bad:0.14
+  taint:0.14
+  mayby:0.14
+  igolder:0.14
+  idiots:0.14
+
+Topic 1:
+  nucleus:0.28
+  diddnt:0.27
+  addresses:0.27
+  real:0.14
+  thing:0.14
+  evo:0.14
+  long:0.14
+  jusr:0.14
+  half:0.14
+  knowing:0.14
+
+Topic 2:
+  nucleus:0.28
+  addresses:0.27
+  diddnt:0.27
+  didst:0.14
+  assured:0.14
+  set:0.14
+  account:0.14
+  agora:0.14
+  ordered:0.14
+  pmd:0.14
+
+Topic 3:
+  diddnt:0.29
+  addresses:0.29
+  nucleus:0.27
+  uknd:0.14
+  disabled:0.14
+  medicine:0.14
+  orders:0.14
+  yeahcheersthe:0.14
+  encryption:0.14
+  good:0.14
+
+Topic 4:
+  nucleus:0.28
+  diddnt:0.28
+  addresses:0.28
+  lots:0.14
+  verify:0.14
+  cunt:0.14
+  max:0.14
+  unprofessional:0.14
+  buy:0.14
+  clever:0.14
+
+K: 5, Log-Likelihood: -226.460, Alpha: 11.000, Beta: 1.100

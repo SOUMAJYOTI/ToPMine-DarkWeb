@@ -1,0 +1,61 @@
+Topic 0:
+  forums:3.11
+  markets:2.91
+  bungee:2.65
+  agora:2.65
+  great:2.55
+  pretty:2.41
+  sr:2.32
+  havent:2.23
+  years:1.76
+  big:1.74
+
+Topic 1:
+  june:9.33
+  chav:6.70
+  burberry:5.83
+  quote:4.93
+  aint:4.83
+  wardrobe:4.82
+  fuck:4.69
+  ron:4.51
+  bit:4.36
+  swanson:4.34
+
+Topic 2:
+  system:5.55
+  pretty:4.34
+  apple:4.11
+  love:3.59
+  drive:2.93
+  veracrypt:2.87
+  encryption:2.85
+  account:2.81
+  option:2.81
+  mention:2.80
+
+Topic 3:
+  encryption:15.97
+  filevault:12.00
+  source:9.23
+  apple:7.68
+  open:7.27
+  disk:5.97
+  tails:5.78
+  quote:5.62
+  recommend:5.47
+  claptrap:4.68
+
+Topic 4:
+  june:7.07
+  claptrap:5.85
+  heard:4.10
+  pm:3.90
+  blowjob:3.70
+  mate:3.65
+  ill:3.50
+  quote:3.19
+  mindset:2.91
+  pmquote:2.83
+
+K: 5, Log-Likelihood: -4471.529, Alpha: 11.000, Beta: 1.100

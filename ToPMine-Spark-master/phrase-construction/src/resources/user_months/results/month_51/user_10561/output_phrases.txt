@@ -1,0 +1,61 @@
+Topic 0:
+  selling:4.31
+  scenario:4.31
+  concerns:4.23
+  properly:4.23
+  security:4.23
+  set:4.23
+  mixing coins:3.19
+  market:2.12
+  small:2.12
+  coinffein:2.12
+
+Topic 1:
+  coinffeine:12.48
+  btc:12.48
+  bankiter:7.10
+  decided:7.10
+  financial corporations:7.10
+  formed:3.52
+  great:3.52
+  hope:3.52
+  capital:3.52
+  firm:3.52
+
+Topic 2:
+  june:5.84
+  quote:4.37
+  tambourine:4.31
+  easy completely websites making:4.27
+  cash bank deposit ire:4.17
+  netbook mcdonalds coffee wifi:4.16
+  login paypal credit card:3.36
+  pmquote:3.36
+  number anon:3.36
+  kharon:3.36
+
+Topic 3:
+  good luck:5.42
+  tor:5.23
+  setup:5.22
+  items:3.44
+  topics:3.44
+  considered:3.44
+  design:3.44
+  permitted:3.44
+  promotion:3.44
+  limited:3.44
+
+Topic 4:
+  account:5.04
+  cashout:4.35
+  buy:3.22
+  secure:2.37
+  friend hardjam:2.23
+  big:2.16
+  single:2.16
+  bought:2.16
+  transaction:2.16
+  asap:2.16
+
+K: 5, Log-Likelihood: -3838.956, Alpha: 11.000, Beta: 1.100

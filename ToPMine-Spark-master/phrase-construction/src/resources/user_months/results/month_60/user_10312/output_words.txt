@@ -1,0 +1,61 @@
+Topic 0:
+  road:1.64
+  silk:1.49
+  bridges:0.99
+  ulbricht:0.86
+  admitted:0.81
+  federal:0.81
+  laundering:0.62
+  member:0.61
+  force:0.60
+  money:0.60
+
+Topic 1:
+  silk:1.40
+  road:1.35
+  bridges:1.02
+  admitted:0.81
+  ulbricht:0.75
+  federal:0.73
+  guilty:0.62
+  agent:0.61
+  force:0.61
+  money:0.60
+
+Topic 2:
+  road:1.22
+  silk:1.17
+  bridges:1.04
+  ulbricht:0.87
+  admitted:0.76
+  federal:0.75
+  guilty:0.63
+  agent:0.62
+  member:0.60
+  money:0.60
+
+Topic 3:
+  road:1.35
+  silk:1.34
+  bridges:1.00
+  federal:0.85
+  admitted:0.82
+  ulbricht:0.79
+  laundering:0.62
+  money:0.60
+  member:0.59
+  agent:0.59
+
+Topic 4:
+  silk:1.59
+  road:1.43
+  bridges:0.95
+  federal:0.85
+  admitted:0.79
+  ulbricht:0.73
+  force:0.62
+  member:0.60
+  money:0.60
+  agent:0.60
+
+K: 5, Log-Likelihood: -602.899, Alpha: 11.000, Beta: 1.100

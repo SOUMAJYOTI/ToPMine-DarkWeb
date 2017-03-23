@@ -1,0 +1,61 @@
+Topic 0:
+  country:1.17
+  shipping:1.13
+  delivery:0.97
+  orders:0.94
+  single:0.77
+  ratings:0.77
+  shoponline:0.76
+  days:0.76
+  day:0.75
+  reship:0.75
+
+Topic 1:
+  great:1.04
+  lemon:0.53
+  super:0.50
+  listing:0.48
+  online:0.48
+  good:0.44
+  haze:0.38
+  silver:0.35
+  thc:0.34
+  skunk:0.33
+
+Topic 2:
+  super:4.38
+  lemon:4.35
+  haze:3.50
+  high:1.55
+  skunk:1.55
+  thc:1.55
+  silver:1.54
+  black:0.67
+  intense:0.67
+  indica:0.67
+
+Topic 3:
+  good:1.27
+  delivery:0.91
+  orders:0.88
+  prices:0.71
+  weed:0.71
+  fast:0.71
+  stealth:0.70
+  shipping:0.56
+  country:0.53
+  verified:0.42
+
+Topic 4:
+  shipping:1.21
+  country:1.20
+  orders:0.96
+  delivery:0.90
+  europe:0.77
+  deals:0.76
+  abrax:0.75
+  verified:0.75
+  agra:0.75
+  reship:0.75
+
+K: 5, Log-Likelihood: -777.874, Alpha: 11.000, Beta: 1.100

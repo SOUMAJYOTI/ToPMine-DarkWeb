@@ -1,0 +1,61 @@
+Topic 0:
+  coin:6.87
+  sr:6.77
+  site:5.23
+  bring:3.86
+  con:3.69
+  millions:3.56
+  definetly:2.58
+  job:2.58
+  month:2.29
+  pass:2.29
+
+Topic 1:
+  fucking:3.70
+  people:3.47
+  mod:2.93
+  shit:2.76
+  road:1.82
+  negative:1.47
+  users:1.39
+  silk:1.35
+  dont:1.09
+  clu:1.09
+
+Topic 2:
+  grand:3.87
+  credit:3.87
+  wizard:3.87
+  work:3.87
+  doctor:2.10
+  piss:2.02
+  forums:2.02
+  leg:2.02
+  doctorclu:2.02
+  bond:2.02
+
+Topic 3:
+  complaints:6.85
+  didnt:5.59
+  weeks:3.90
+  sr:3.42
+  constant:2.77
+  returned:2.77
+  whitedreams:2.77
+  time:2.77
+  protect:2.77
+  hundreds:1.90
+
+Topic 4:
+  money:3.87
+  big:2.78
+  road:2.45
+  issue:2.12
+  problem:1.81
+  february:1.67
+  quote:1.59
+  trust:1.39
+  vendors:1.19
+  bstring:1.04
+
+K: 5, Log-Likelihood: -2473.838, Alpha: 11.000, Beta: 1.100

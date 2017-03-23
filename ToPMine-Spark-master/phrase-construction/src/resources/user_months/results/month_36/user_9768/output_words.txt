@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:0.54
+  wordpress:0.51
+  quote:0.50
+  payment:0.49
+  honestcocaine:0.46
+  wallet:0.46
+  public:0.45
+  things:0.40
+  site:0.39
+  quit:0.37
+
+Topic 1:
+  wordpress:0.91
+  bitcoin:0.75
+  module:0.59
+  server:0.58
+  problem:0.58
+  crashing:0.56
+  wallet:0.40
+  public:0.40
+  honestcocaine:0.40
+  reading:0.37
+
+Topic 2:
+  crashing:0.98
+  bitcoin:0.97
+  problem:0.97
+  server:0.96
+  module:0.94
+  wordpress:0.63
+  public:0.43
+  wallet:0.43
+  honestcocaine:0.43
+  understand:0.40
+
+Topic 3:
+  site:1.27
+  things:1.26
+  payment:0.60
+  quote:0.60
+  familiar:0.50
+  hold:0.50
+  setup:0.50
+  seeking:0.50
+  pm:0.50
+  close:0.50
+
+Topic 4:
+  wordpress:1.73
+  worth:1.08
+  jump:0.83
+  reading:0.83
+  quit:0.82
+  payment:0.50
+  quote:0.50
+  steal:0.42
+  find:0.42
+  sites:0.42
+
+K: 5, Log-Likelihood: -492.610, Alpha: 11.000, Beta: 1.100

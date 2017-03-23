@@ -1,0 +1,61 @@
+Topic 0:
+  avengers:0.40
+  clearnet:0.40
+  love:0.40
+  heads:0.40
+  post:0.40
+  scammer:0.40
+  blotter:0.40
+  reddit:0.40
+  uri:0.20
+  market:0.20
+
+Topic 1:
+  reddit:0.40
+  avengers:0.40
+  post:0.40
+  love:0.40
+  heads:0.40
+  clearnet:0.40
+  scammer:0.40
+  blotter:0.40
+  market:0.20
+  uri:0.20
+
+Topic 2:
+  scammer:0.40
+  blotter:0.40
+  post:0.40
+  heads:0.40
+  reddit:0.40
+  clearnet:0.40
+  avengers:0.40
+  love:0.39
+  hansa:0.20
+  url:0.20
+
+Topic 3:
+  heads:0.40
+  love:0.40
+  scammer:0.40
+  blotter:0.40
+  clearnet:0.40
+  reddit:0.40
+  post:0.40
+  avengers:0.40
+  url:0.20
+  hansa:0.20
+
+Topic 4:
+  avengers:0.40
+  reddit:0.40
+  love:0.40
+  blotter:0.40
+  post:0.40
+  clearnet:0.40
+  scammer:0.40
+  heads:0.40
+  market:0.20
+  uri:0.20
+
+K: 5, Log-Likelihood: -48.879, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  fe:0.60
+  thatoneguy:0.41
+  coin:0.41
+  money:0.41
+  supportde:0.41
+  alice:0.41
+  escrow:0.41
+  days:0.41
+  people:0.40
+  support:0.39
+
+Topic 1:
+  fe:0.67
+  alice:0.43
+  escrow:0.43
+  supportde:0.43
+  coin:0.43
+  money:0.43
+  days:0.43
+  thatoneguy:0.43
+  people:0.39
+  pandora:0.38
+
+Topic 2:
+  fe:0.51
+  support:0.43
+  pandora:0.43
+  people:0.42
+  days:0.35
+  escrow:0.35
+  money:0.35
+  supportde:0.35
+  thatoneguy:0.35
+  coin:0.35
+
+Topic 3:
+  fe:0.58
+  people:0.41
+  pandora:0.41
+  support:0.40
+  days:0.38
+  money:0.38
+  supportde:0.38
+  alice:0.38
+  coin:0.38
+  escrow:0.38
+
+Topic 4:
+  fe:0.64
+  thatoneguy:0.43
+  days:0.43
+  escrow:0.43
+  coin:0.42
+  alice:0.42
+  supportde:0.42
+  money:0.42
+  support:0.39
+  pandora:0.39
+
+K: 5, Log-Likelihood: -551.800, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  shop:0.51
+  funds:0.41
+  albions:0.37
+  abraxas:0.31
+  albion:0.31
+  albion shop:0.31
+  gpg:0.20
+  reasons:0.20
+  escrow:0.20
+  pgp:0.20
+
+Topic 1:
+  shop:0.51
+  funds:0.41
+  albions:0.37
+  abraxas:0.31
+  albion:0.31
+  albion shop:0.31
+  directly:0.20
+  wallet:0.20
+  early:0.20
+  works:0.20
+
+Topic 2:
+  shop:0.51
+  funds:0.41
+  albions:0.36
+  abraxas:0.31
+  albion shop:0.31
+  albion:0.31
+  trustworthy:0.20
+  works:0.20
+  finalize:0.20
+  wallet:0.20
+
+Topic 3:
+  shop:0.51
+  funds:0.41
+  albions:0.37
+  abraxas:0.31
+  albion:0.31
+  albion shop:0.31
+  imo:0.20
+  time:0.20
+  commission:0.20
+  early:0.20
+
+Topic 4:
+  shop:0.52
+  funds:0.40
+  albions:0.37
+  abraxas:0.31
+  albion shop:0.31
+  albion:0.31
+  transaction:0.20
+  fees:0.20
+  create:0.20
+  working:0.20
+
+K: 5, Log-Likelihood: -151.606, Alpha: 11.000, Beta: 1.100

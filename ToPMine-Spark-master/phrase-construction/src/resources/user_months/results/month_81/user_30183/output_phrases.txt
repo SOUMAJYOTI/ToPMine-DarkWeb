@@ -1,0 +1,61 @@
+Topic 0:
+  routers:4.68
+  pcs:4.68
+  privacy:4.68
+  hack:4.68
+  nsa:4.68
+  network:4.68
+  controversy:4.68
+  conference:3.78
+  built:3.41
+  shipping:3.41
+
+Topic 1:
+  toby naruto:5.68
+  finally:4.68
+  spirals:4.68
+  software:4.68
+  posting:4.68
+  computer:4.68
+  reverse:4.68
+  le:4.68
+  bastards:4.68
+  online:4.68
+
+Topic 2:
+  fucked:7.03
+  mobile phone:4.70
+  leaks phones:4.68
+  baseband:4.68
+  metadata:4.68
+  sensitive:4.68
+  sifted:4.68
+  signal:4.68
+  backdoor:4.68
+  snowdon:4.68
+
+Topic 3:
+  current situation:5.78
+  making:5.78
+  speaking generally:5.78
+  prioritize convenience ease security:5.49
+  privacy people:5.49
+  reddit crowd bloody ridiculous:5.49
+  cinched sucking knot thinking:5.18
+  dark net:4.90
+  months:4.90
+  people succumb convenience ease:4.85
+
+Topic 4:
+  dw:4.63
+  secure:3.83
+  seconds:3.82
+  talking:3.82
+  remember:3.82
+  ass:3.82
+  mans:3.82
+  exists:3.82
+  discussed:3.82
+  antenna:3.82
+
+K: 5, Log-Likelihood: -6261.220, Alpha: 11.000, Beta: 1.100

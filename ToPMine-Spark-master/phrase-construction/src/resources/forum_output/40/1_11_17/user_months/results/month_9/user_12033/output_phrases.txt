@@ -1,0 +1,61 @@
+Topic 0:
+  forums:0.08
+  login:0.08
+  problems:0.08
+  evening:0.08
+  open:0.08
+  order:0.08
+  finalize:0.08
+  users:0.08
+  logic:0.08
+  absolutely:0.08
+
+Topic 1:
+  finalize:0.08
+  absolutely:0.08
+  problems:0.08
+  today:0.08
+  logic:0.08
+  users:0.08
+  forums:0.08
+  open:0.08
+  order:0.08
+  evening:0.08
+
+Topic 2:
+  users:0.08
+  forums:0.08
+  posted:0.08
+  uri:0.08
+  info:0.08
+  problems:0.08
+  absolutely:0.08
+  open:0.08
+  login:0.08
+  logic:0.08
+
+Topic 3:
+  info:0.08
+  posted:0.08
+  today:0.08
+  order:0.08
+  evening:0.08
+  users:0.08
+  login:0.08
+  logic:0.08
+  open:0.08
+  uri:0.08
+
+Topic 4:
+  uri:0.08
+  order:0.08
+  logic:0.08
+  evening:0.08
+  open:0.08
+  login:0.08
+  posted:0.08
+  today:0.08
+  finalize:0.08
+  info:0.08
+
+K: 5, Log-Likelihood: -15.412, Alpha: 11.000, Beta: 1.100

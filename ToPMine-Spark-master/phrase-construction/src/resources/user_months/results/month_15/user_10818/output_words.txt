@@ -1,0 +1,36 @@
+Topic 0:
+  pigeon:0.40
+  site:0.40
+  flown:0.20
+  time:0.20
+  coupe:0.20
+
+Topic 1:
+  pigeon:0.40
+  site:0.40
+  time:0.20
+  coupe:0.20
+  flown:0.20
+
+Topic 2:
+  site:0.40
+  pigeon:0.40
+  flown:0.20
+  time:0.20
+  coupe:0.20
+
+Topic 3:
+  site:0.40
+  pigeon:0.40
+  coupe:0.20
+  time:0.20
+  flown:0.20
+
+Topic 4:
+  site:0.40
+  pigeon:0.40
+  flown:0.20
+  time:0.20
+  coupe:0.20
+
+K: 5, Log-Likelihood: -10.877, Alpha: 11.000, Beta: 1.100

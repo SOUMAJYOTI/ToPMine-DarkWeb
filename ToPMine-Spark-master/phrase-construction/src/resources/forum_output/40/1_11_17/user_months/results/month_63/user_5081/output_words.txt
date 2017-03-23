@@ -1,0 +1,61 @@
+Topic 0:
+  address:7.34
+  correct:5.27
+  changed:4.64
+  uri:3.07
+  site:2.67
+  pushing:2.23
+  post:2.05
+  url:1.93
+  taboo:1.66
+  change:1.50
+
+Topic 1:
+  tor:5.84
+  browser:4.18
+  pinto:2.59
+  address:2.01
+  forum:1.96
+  clearnet:1.91
+  onion:1.79
+  accessing:1.76
+  gateway:1.74
+  november:1.47
+
+Topic 2:
+  address:6.20
+  message:5.62
+  people:4.66
+  pin:2.87
+  confirm:2.65
+  forum:2.52
+  top:2.25
+  numerous:1.68
+  follow:1.68
+  send:1.68
+
+Topic 3:
+  address:5.96
+  pushikk:5.85
+  didn:4.69
+  computer:3.94
+  malware:3.28
+  figured:2.91
+  gg:2.75
+  soo:2.63
+  realize:2.62
+  believed:2.61
+
+Topic 4:
+  address:4.49
+  tor:4.32
+  browser:2.36
+  pinto:2.13
+  onion:1.94
+  forum:1.81
+  change:1.59
+  correct:1.34
+  gateway:1.33
+  accessing:1.29
+
+K: 5, Log-Likelihood: -2040.356, Alpha: 11.000, Beta: 1.100

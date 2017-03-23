@@ -1,0 +1,61 @@
+Topic 0:
+  november:7.56
+  shoving:7.31
+  quote:6.66
+  butt:6.66
+  encrypt:6.23
+  data:5.97
+  sensitive:5.65
+  love:5.63
+  imo:5.36
+  pms:5.34
+
+Topic 1:
+  helpful:15.84
+  thing:11.83
+  responsibility:9.59
+  forums:7.88
+  idiotic:7.84
+  people:7.84
+  bit:6.57
+  safe:5.91
+  es:5.87
+  november:5.19
+
+Topic 2:
+  quote:7.09
+  november:6.67
+  lsd:6.49
+  encrypt:6.08
+  love:5.53
+  butt:4.97
+  conversation:4.57
+  care:4.37
+  pms:4.35
+  shoving:4.30
+
+Topic 3:
+  le:10.79
+  deny:9.88
+  find:8.63
+  net:7.88
+  logs:7.88
+  activity:5.14
+  hacked:5.14
+  place:4.89
+  user:4.57
+  clear:4.56
+
+Topic 4:
+  encrypt:13.52
+  pms:11.14
+  pip:7.70
+  easy:5.81
+  auto:5.80
+  remind:5.61
+  keys:5.60
+  wanted:5.57
+  registration:4.73
+  implementation:3.78
+
+K: 5, Log-Likelihood: -4417.835, Alpha: 11.000, Beta: 1.100

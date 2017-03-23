@@ -1,0 +1,61 @@
+Topic 0:
+  unstick:0.08
+  fine:0.08
+  thewse:0.08
+  mguys:0.08
+  launched:0.08
+  proceed:0.08
+  security:0.08
+  site:0.08
+  caution:0.08
+  pgp:0.08
+
+Topic 1:
+  mguys:0.08
+  fine:0.08
+  thewse:0.08
+  security:0.08
+  seraphic:0.08
+  outlaw outlaw:0.08
+  market:0.08
+  unstick:0.08
+  caution:0.08
+  hacked:0.08
+
+Topic 2:
+  issues:0.08
+  site:0.08
+  appears:0.08
+  outlaw outlaw:0.08
+  outlaw:0.08
+  hacked:0.08
+  security:0.08
+  proceed:0.08
+  market:0.08
+  seraphic:0.08
+
+Topic 3:
+  version:0.08
+  pgp:0.08
+  appears:0.08
+  caution:0.08
+  issues:0.08
+  outlaw:0.08
+  hacked:0.08
+  site:0.08
+  proceed:0.08
+  outlaw outlaw:0.08
+
+Topic 4:
+  market:0.08
+  seraphic:0.08
+  launched:0.08
+  version:0.08
+  unstick:0.08
+  thewse:0.08
+  fine:0.08
+  hacked:0.08
+  mguys:0.08
+  proceed:0.08
+
+K: 5, Log-Likelihood: -21.316, Alpha: 11.000, Beta: 1.100

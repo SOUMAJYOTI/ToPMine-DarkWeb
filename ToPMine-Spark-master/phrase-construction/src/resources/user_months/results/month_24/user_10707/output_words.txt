@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:9.53
+  market:7.63
+  forum:5.91
+  days:5.83
+  coins:5.31
+  pending:4.60
+  site:4.33
+  white:4.29
+  withdraw:4.15
+  yjhzeedl:3.88
+
+Topic 1:
+  vendor:5.12
+  order:4.30
+  nbome:3.97
+  time:3.77
+  tpm:3.24
+  agra:3.00
+  active:2.82
+  bad:2.44
+  posting:2.42
+  orders:2.19
+
+Topic 2:
+  free:5.06
+  feedback:4.85
+  refunded:4.78
+  agora:4.62
+  order:4.50
+  sold:3.68
+  passport:3.63
+  tho:3.62
+  invites:3.59
+  check:3.15
+
+Topic 3:
+  funds:5.94
+  btc:5.71
+  withdrawal:5.41
+  orders:5.18
+  account:4.73
+  things:4.47
+  dont:4.46
+  bad:4.29
+  quote:4.28
+  admins:4.27
+
+Topic 4:
+  vendor:14.04
+  pandora:10.49
+  coins:9.31
+  amsterdamngood:6.79
+  wallet:6.32
+  pirate:5.71
+  listing:4.88
+  market:4.45
+  empty:3.97
+  login:3.95
+
+K: 5, Log-Likelihood: -7937.745, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  youll:0.37
+  ll:0.37
+  admins:0.20
+  trustworthy:0.20
+  money:0.20
+  vendor:0.20
+  front:0.20
+  forum:0.20
+  orders:0.20
+  offers:0.20
+
+Topic 1:
+  youll:0.37
+  ll:0.36
+  market:0.20
+  offers:0.20
+  escrow:0.20
+  orders:0.20
+  vendors:0.20
+  reviews:0.20
+  money:0.20
+  trustworthy:0.20
+
+Topic 2:
+  ll:0.37
+  youll:0.36
+  admins:0.20
+  escrow:0.20
+  reviews:0.20
+  steal:0.20
+  active vendors:0.20
+  find:0.20
+  reliable:0.20
+  forum:0.20
+
+Topic 3:
+  youll:0.37
+  ll:0.37
+  steal:0.21
+  active vendors:0.21
+  pay:0.21
+  post:0.21
+  directly:0.21
+  money:0.21
+  vendor:0.21
+  contact:0.21
+
+Topic 4:
+  youll:0.36
+  ll:0.36
+  market:0.21
+  involved:0.20
+  forum:0.20
+  reliable:0.20
+  front:0.20
+  post:0.20
+  decide:0.20
+  orders:0.20
+
+K: 5, Log-Likelihood: -150.292, Alpha: 11.000, Beta: 1.100

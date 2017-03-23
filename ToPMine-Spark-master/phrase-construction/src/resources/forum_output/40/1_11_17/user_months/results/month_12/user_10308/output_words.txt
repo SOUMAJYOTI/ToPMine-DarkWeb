@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.00
+  agora:0.91
+  evolution:0.75
+  listings:0.49
+  spent:0.49
+  popular:0.49
+  flawed:0.48
+  btc:0.48
+  sr:0.37
+  jewelry:0.23
+
+Topic 1:
+  market:1.95
+  agora:0.72
+  popular:0.67
+  listings:0.64
+  evolution:0.45
+  sr:0.45
+  daily:0.40
+  traffic:0.39
+  weekly:0.39
+  flawed:0.39
+
+Topic 2:
+  market:1.10
+  agora:0.91
+  evolution:0.76
+  popular:0.49
+  listings:0.48
+  btc:0.48
+  spent:0.48
+  flawed:0.44
+  sr:0.35
+  bitcoins:0.24
+
+Topic 3:
+  market:3.10
+  weekly:0.97
+  traffic:0.96
+  daily:0.96
+  listings:0.93
+  popular:0.89
+  sr:0.50
+  agora:0.47
+  misleading:0.37
+  popularity:0.37
+
+Topic 4:
+  agora:0.99
+  market:0.85
+  evolution:0.83
+  btc:0.51
+  spent:0.51
+  popular:0.46
+  flawed:0.46
+  listings:0.45
+  sr:0.33
+  agra:0.26
+
+K: 5, Log-Likelihood: -330.354, Alpha: 11.000, Beta: 1.100

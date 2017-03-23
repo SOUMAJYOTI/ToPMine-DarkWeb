@@ -1,0 +1,61 @@
+Topic 0:
+  encamped:1.77
+  email client:1.76
+  works:1.76
+  sending:1.75
+  grips:1.75
+  appreciated:1.75
+  reply:1.74
+  computer based:1.74
+  safely:1.74
+  thunderbird:1.73
+
+Topic 1:
+  don:3.23
+  dont:2.40
+  based hardened gentoo:2.23
+  hardened gentoo:2.20
+  quote magicflight february amyou:2.17
+  grsecurity tresor kernel patches:2.17
+  major vendor:2.16
+  wallets places adventurous roll:2.15
+  computer air gapped:2.14
+  fedora odd choice base:2.13
+
+Topic 2:
+  dont:2.68
+  wrong:1.38
+  qubes:1.31
+  isnt:1.28
+  installed tor truecrypt pgp:1.08
+  set fresh copy partition:1.08
+  security measures:1.00
+  gateway virtual machines:0.89
+  isolate apps offline:0.89
+  computer air gapped pgp:0.89
+
+Topic 3:
+  send:2.59
+  encrypted:2.59
+  money:2.59
+  android:2.59
+  road:2.59
+  silk:2.59
+  receive:2.59
+  website:2.59
+  market:2.59
+  couple:2.59
+
+Topic 4:
+  key:5.18
+  import:2.46
+  nevermind:2.46
+  edit:2.46
+  pming:2.46
+  signature:2.46
+  pm:2.45
+  practice:2.45
+  encrusted:2.45
+  encrypting:2.45
+
+K: 5, Log-Likelihood: -1269.269, Alpha: 11.000, Beta: 1.100

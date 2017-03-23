@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:0.54
+  earlier:0.48
+  heard:0.48
+  seeking:0.48
+  chance:0.48
+  hold:0.48
+  host:0.48
+  vendors:0.44
+  site:0.43
+  things:0.43
+
+Topic 1:
+  set:0.85
+  sites:0.84
+  bitcoin:0.52
+  wordpress:0.45
+  crashing:0.39
+  server:0.39
+  problem:0.39
+  module:0.39
+  vendors:0.38
+  small:0.33
+
+Topic 2:
+  things:0.93
+  site:0.92
+  hold:0.65
+  heard:0.64
+  chance:0.64
+  host:0.64
+  seeking:0.64
+  earlier:0.63
+  vendors:0.52
+  bitcoin:0.44
+
+Topic 3:
+  module:1.06
+  server:1.05
+  problem:1.05
+  crashing:1.04
+  bitcoin:1.02
+  wordpress:0.64
+  wallet:0.46
+  honestcocaine:0.45
+  public:0.45
+  updated:0.43
+
+Topic 4:
+  vendors:0.49
+  bitcoin:0.48
+  earlier:0.46
+  seeking:0.46
+  host:0.46
+  chance:0.45
+  hold:0.45
+  heard:0.45
+  sites:0.44
+  set:0.43
+
+K: 5, Log-Likelihood: -531.321, Alpha: 11.000, Beta: 1.100

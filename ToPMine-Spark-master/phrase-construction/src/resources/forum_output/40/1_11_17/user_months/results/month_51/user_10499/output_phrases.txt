@@ -1,0 +1,61 @@
+Topic 0:
+  clear:1.28
+  offers:1.28
+  understanding:1.28
+  things:1.28
+  nasty:1.28
+  curves:1.28
+  answer:1.28
+  doesn:1.28
+  understanding elpaal:1.28
+  sound:1.28
+
+Topic 1:
+  clipper chip:5.48
+  government:5.48
+  key escrow:5.48
+  crypto war:4.09
+  concerns:2.71
+  privacy:2.71
+  strong:2.71
+  schemes:2.71
+  cryptographic:2.71
+  bruce:2.71
+
+Topic 2:
+  fpga:2.65
+  june:2.06
+  milkymist:1.58
+  claptrap:1.58
+  amif:1.58
+  labs:1.58
+  check:1.58
+  descriptions:1.26
+  websites:1.26
+  sigaint:1.26
+
+Topic 3:
+  rsa:5.49
+  numbers:4.10
+  asa:2.71
+  public key:2.71
+  subkey:2.71
+  pgp:2.71
+  large:2.71
+  keys:2.71
+  algorithms:2.71
+  curve:2.71
+
+Topic 4:
+  firmware:3.78
+  hardware:2.75
+  modern:1.83
+  hardware software:1.83
+  sba:1.83
+  mention:1.83
+  transition:1.83
+  processors:1.83
+  discussing:1.83
+  aggressive:1.83
+
+K: 5, Log-Likelihood: -2783.677, Alpha: 11.000, Beta: 1.100

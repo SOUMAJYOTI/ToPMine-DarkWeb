@@ -1,0 +1,61 @@
+Topic 0:
+  xmpp:8.05
+  group chat:7.72
+  riseup require admit activation:5.80
+  xmpp option:5.80
+  xmpp accomidate group chat:5.80
+  accounts alternatively invitations people:5.80
+  gamesome:5.28
+  clients:4.46
+  built:4.46
+  history:4.46
+
+Topic 1:
+  chat:9.66
+  enjoy hanging:8.96
+  bit:5.35
+  tossed:4.43
+  time time:4.43
+  hub:4.43
+  wondering:4.43
+  personally:4.43
+  tmg server:4.43
+  awesome:4.43
+
+Topic 2:
+  don:5.38
+  love:5.33
+  mentioned:4.43
+  hear:4.43
+  load:4.43
+  site time:4.43
+  logging:4.43
+  user:4.43
+  issues:4.43
+  gamma:4.43
+
+Topic 3:
+  map client supports:6.80
+  encryption find suitable server:6.80
+  irc xmpp suited:6.80
+  includes pidgin:6.80
+  host open:6.80
+  good:4.45
+  setting:4.45
+  torwell:4.45
+  irc xmpp server:4.45
+  ruddy:4.45
+
+Topic 4:
+  server:12.59
+  onion routing:9.01
+  invited moderator calyx institute:6.84
+  account registration works directly:6.84
+  servers:6.84
+  servers riseup great public:6.84
+  ssl warning case hidden:6.84
+  map registration moderated public:6.84
+  called xmppomfg work import:6.84
+  certificate connect:6.84
+
+K: 5, Log-Likelihood: -3908.086, Alpha: 11.000, Beta: 1.100

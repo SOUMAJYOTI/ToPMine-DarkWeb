@@ -1,0 +1,30 @@
+server,0,1
+buy,1,1
+issues,2,1
+long,3,1
+bitcoins receive,4,2
+decided,5,1
+yesterday,6,1
+vendor,7,1
+price,8,1
+busy,9,1
+kinda,10,1
+useless,11,1
+host,12,1
+crashed,13,1
+profit,14,2
+day,15,2
+hardware,16,1
+receive,17,4
+product,18,1
+upgrade,19,1
+change,20,1
+felt,21,1
+invited,22,2
+bitcoins,23,4
+system,24,1
+receive bitcoins,25,2
+time,26,2
+user,27,2
+referred,28,1
+problems,29,1

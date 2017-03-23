@@ -1,0 +1,61 @@
+Topic 0:
+  vacation:3.25
+  mode:3.23
+  ugh:1.43
+  site:1.43
+  enabled:1.43
+  js:1.43
+  asap:1.43
+  supposed:1.43
+  condoning:1.43
+  check:1.43
+
+Topic 1:
+  markets:4.07
+  stranger:3.85
+  good:3.85
+  sticking:2.73
+  keeping:1.85
+  blackbank:1.85
+  deep:1.85
+  years:1.85
+  garnered:1.85
+  scumbag:1.85
+
+Topic 2:
+  black:1.56
+  bank:1.50
+  bad:1.48
+  money:1.34
+  time:0.90
+  sells:0.84
+  direct:0.84
+  start:0.83
+  figure:0.83
+  starting:0.83
+
+Topic 3:
+  funds:3.60
+  withdraw:3.41
+  admins:2.74
+  url:2.31
+  vendors:2.15
+  time:1.90
+  knocked:1.54
+  greedy:1.53
+  root:1.53
+  happening:1.53
+
+Topic 4:
+  funds:7.31
+  admins:4.32
+  withdraw:3.58
+  vendors:2.99
+  url:2.84
+  crashing:1.97
+  complaints:1.95
+  quote:1.92
+  middle:1.92
+  interested:1.91
+
+K: 5, Log-Likelihood: -1734.761, Alpha: 11.000, Beta: 1.100

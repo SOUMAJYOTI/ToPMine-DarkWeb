@@ -1,0 +1,61 @@
+Topic 0:
+  truecrypt:0.54
+  programs:0.37
+  truecrypt veracrypt:0.28
+  devs:0.28
+  based:0.28
+  auditing:0.28
+  mi:0.26
+  basically:0.14
+  version:0.14
+  perfectly:0.14
+
+Topic 1:
+  truecrypt:1.07
+  auditing:0.42
+  based:0.41
+  devs:0.41
+  truecrypt veracrypt:0.25
+  programs:0.25
+  mi:0.19
+  explanation:0.18
+  specific:0.18
+  feels:0.18
+
+Topic 2:
+  programs:0.45
+  truecrypt:0.41
+  mi:0.30
+  truecrypt veracrypt:0.29
+  devs:0.24
+  based:0.24
+  auditing:0.24
+  offering:0.15
+  english:0.15
+  absolute:0.15
+
+Topic 3:
+  programs:0.46
+  truecrypt:0.41
+  mi:0.30
+  truecrypt veracrypt:0.28
+  devs:0.24
+  based:0.24
+  auditing:0.24
+  advance:0.15
+  bad:0.15
+  malicious:0.15
+
+Topic 4:
+  programs:0.54
+  truecrypt:0.35
+  mi:0.34
+  truecrypt veracrypt:0.28
+  devs:0.22
+  based:0.22
+  auditing:0.22
+  outset:0.16
+  asa:0.16
+  time:0.16
+
+K: 5, Log-Likelihood: -314.451, Alpha: 11.000, Beta: 1.100

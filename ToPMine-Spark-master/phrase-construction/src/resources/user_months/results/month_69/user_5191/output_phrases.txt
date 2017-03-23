@@ -1,0 +1,61 @@
+Topic 0:
+  find:1.31
+  sad:1.31
+  state:1.31
+  rhodium:1.31
+  chemistry:1.31
+  parts:1.31
+  sooty:1.31
+  sharing:1.31
+  comparing:1.31
+  images:1.31
+
+Topic 1:
+  site:2.79
+  host:1.44
+  question:1.44
+  hosting:1.33
+  pming:1.31
+  change:1.31
+  illiterate:1.31
+  host server:1.31
+  set:1.31
+  place:1.31
+
+Topic 2:
+  idea:2.11
+  agree:1.38
+  money:1.38
+  rolling:1.38
+  onion:1.38
+  throwing:1.38
+  covers:1.38
+  pm:1.38
+  figured:1.38
+  job:1.38
+
+Topic 3:
+  private:2.81
+  join:1.72
+  endeavor:1.72
+  community feel:1.72
+  setting:1.72
+  outward:1.71
+  facing:1.71
+  support:1.71
+  server:1.71
+  carry:1.71
+
+Topic 4:
+  contact:1.75
+  net:1.27
+  services:1.27
+  dark:1.26
+  dont:0.82
+  decent:0.82
+  sadly:0.82
+  feel:0.82
+  comfortable:0.82
+  googling:0.82
+
+K: 5, Log-Likelihood: -1033.469, Alpha: 11.000, Beta: 1.100

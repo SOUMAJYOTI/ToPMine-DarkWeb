@@ -1,0 +1,61 @@
+Topic 0:
+  works:5.73
+  wifi:5.46
+  access:5.40
+  min:5.40
+  house:5.40
+  interest:5.40
+  router:5.40
+  link:5.40
+  move:5.40
+  lesson:4.62
+
+Topic 1:
+  family code:13.53
+  digits:10.82
+  number:10.82
+  gs:8.11
+  coupon codes:6.36
+  assigned:5.41
+  coupon regular:5.41
+  company number:5.41
+  barcode:5.41
+  digit:5.41
+
+Topic 2:
+  tv:13.78
+  august pmi:9.03
+  save:7.11
+  expensive supplements worth select:6.46
+  steal razors sincere items:6.34
+  cheap incorporate greed good:6.32
+  items:6.30
+  stuff:5.69
+  tv live:4.57
+  computer:4.57
+
+Topic 3:
+  server:23.00
+  price:11.17
+  monitor mode:10.76
+  server set:9.19
+  gb:9.19
+  communication otr:9.19
+  communication:9.19
+  phone service:9.19
+  encryption:9.19
+  sim cards:9.19
+
+Topic 4:
+  thing:7.09
+  check hacker forums places:6.20
+  system expensive items advanced:6.19
+  eu changed bar code:6.19
+  kali:5.99
+  great methods work eu:5.89
+  live:5.84
+  adapter:5.36
+  quote:5.25
+  august:5.25
+
+K: 5, Log-Likelihood: -11757.333, Alpha: 11.000, Beta: 1.100

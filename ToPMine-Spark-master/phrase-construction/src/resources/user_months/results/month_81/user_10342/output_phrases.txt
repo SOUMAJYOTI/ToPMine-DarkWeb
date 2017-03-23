@@ -1,0 +1,61 @@
+Topic 0:
+  quote:5.89
+  time hear access:5.61
+  tor:5.38
+  issue:5.18
+  html:4.93
+  exit:4.37
+  requested:4.36
+  errordocument:4.36
+  llist:4.36
+  marketplaces:4.36
+
+Topic 1:
+  trait:6.55
+  work:6.53
+  jigsaw:5.18
+  puzzle:5.18
+  bit:5.09
+  market:5.03
+  albeit:4.35
+  loss:4.35
+  community:4.35
+  market admins:4.35
+
+Topic 2:
+  orders:11.72
+  solution:11.67
+  time:8.69
+  public key block:8.09
+  pgp key:8.02
+  ox:7.96
+  ic:7.91
+  ai:7.91
+  market office:7.80
+  resources:7.66
+
+Topic 3:
+  uri:15.60
+  uri forum:15.60
+  market:9.39
+  url:6.42
+  developed:5.19
+  uri forums:5.19
+  marketplace:5.19
+  shops:4.26
+  bad:4.25
+  forum:4.22
+
+Topic 4:
+  time:12.28
+  lucky:5.16
+  gon:5.16
+  idea:5.16
+  em:5.16
+  retire:5.16
+  money:2.56
+  sufficient:2.56
+  suspect:2.56
+  hacker:2.56
+
+K: 5, Log-Likelihood: -22665.556, Alpha: 11.000, Beta: 1.100

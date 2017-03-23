@@ -1,0 +1,61 @@
+Topic 0:
+  banks:0.40
+  control:0.38
+  gold:0.38
+  money:0.38
+  shit:0.21
+  anonymous:0.21
+  mobile:0.21
+  btms:0.21
+  code:0.21
+  wether:0.21
+
+Topic 1:
+  money:0.40
+  gold:0.40
+  banks:0.40
+  control:0.40
+  portugal:0.20
+  imploding:0.20
+  started:0.20
+  scary:0.20
+  crap:0.20
+  surprising:0.20
+
+Topic 2:
+  control:0.42
+  gold:0.42
+  money:0.41
+  banks:0.41
+  plan:0.20
+  plans:0.20
+  evasion:0.20
+  safe:0.20
+  lead:0.20
+  corporations:0.20
+
+Topic 3:
+  banks:0.40
+  gold:0.37
+  money:0.37
+  control:0.37
+  device:0.22
+  printed:0.22
+  canada:0.22
+  computer:0.22
+  wether:0.22
+  code:0.22
+
+Topic 4:
+  money:0.43
+  control:0.43
+  gold:0.43
+  banks:0.40
+  takes:0.21
+  revolting:0.21
+  lead:0.21
+  pigs:0.21
+  connection:0.21
+  tax:0.21
+
+K: 5, Log-Likelihood: -240.210, Alpha: 11.000, Beta: 1.100

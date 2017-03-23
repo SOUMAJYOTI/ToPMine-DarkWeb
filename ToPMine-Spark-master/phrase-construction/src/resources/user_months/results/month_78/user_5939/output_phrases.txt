@@ -1,0 +1,61 @@
+Topic 0:
+  multiply transactions extra:0.71
+  helix:0.71
+  missing felix light rate:0.70
+  electrum market:0.69
+  walletsome:0.69
+  exchange electric:0.68
+  vendor:0.68
+  overkill:0.68
+  dtdp march:0.67
+  wallets kill personal buy:0.66
+
+Topic 1:
+  missing felix light rate:0.76
+  multiply transactions extra:0.76
+  pmi paysheild transaction:0.74
+  wallets kill personal buy:0.74
+  dtdp march:0.73
+  small amounts safe:0.72
+  quote:0.71
+  helix:0.66
+  feel:0.64
+  damn:0.58
+
+Topic 2:
+  quote swisscrystal:1.00
+  small amounts safe:0.96
+  march:0.95
+  helix:0.95
+  wallets kill personal buy:0.94
+  dtdp march:0.94
+  pmi paysheild transaction:0.94
+  payshield:0.94
+  lost:0.94
+  damn:0.93
+
+Topic 3:
+  question:2.90
+  service:1.34
+  accounts:1.34
+  great:1.34
+  noticed:1.34
+  preferable:1.34
+  exchange:1.34
+  basically:1.34
+  pathway:1.33
+  closures:1.33
+
+Topic 4:
+  coins:2.88
+  sending:2.87
+  onion:1.32
+  tor:1.31
+  paying:1.31
+  middlemanning:1.31
+  blank:1.31
+  electrum electrum:1.31
+  servicebut:1.31
+  business:1.31
+
+K: 5, Log-Likelihood: -672.734, Alpha: 11.000, Beta: 1.100

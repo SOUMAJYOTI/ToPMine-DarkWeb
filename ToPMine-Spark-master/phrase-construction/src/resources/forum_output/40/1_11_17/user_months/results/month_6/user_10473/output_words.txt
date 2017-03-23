@@ -1,0 +1,61 @@
+Topic 0:
+  traffic:3.31
+  router:2.06
+  pretty:1.66
+  ip:1.59
+  dont:1.46
+  high:1.42
+  harder:1.06
+  routes:1.04
+  vpn:1.04
+  online:1.02
+
+Topic 1:
+  vps:13.31
+  router:8.32
+  local:5.35
+  traffic:3.89
+  content:2.66
+  blind:2.66
+  bandwidth:2.31
+  instance:2.09
+  high:1.94
+  dont:1.70
+
+Topic 2:
+  traffic:4.00
+  dont:1.56
+  high:1.44
+  bandwidth:1.26
+  routing:1.02
+  running:0.90
+  hidden:0.89
+  instance:0.71
+  ip:0.70
+  pretty:0.65
+
+Topic 3:
+  tor:15.87
+  relays:7.06
+  traffic:5.63
+  network:5.52
+  clients:5.38
+  client:4.59
+  hidden:4.42
+  connect:3.92
+  services:3.49
+  people:2.66
+
+Topic 4:
+  traffic:6.17
+  tor:4.95
+  hidden:2.81
+  bandwidth:2.61
+  clients:2.45
+  services:2.34
+  network:2.31
+  connect:2.21
+  relays:1.78
+  dont:1.59
+
+K: 5, Log-Likelihood: -2755.444, Alpha: 11.000, Beta: 1.100

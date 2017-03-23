@@ -1,0 +1,61 @@
+Topic 0:
+  nsa:17.62
+  data:13.97
+  asa document:7.31
+  encryption:6.93
+  internet:6.40
+  program:6.32
+  systems:6.20
+  called:5.12
+  service:4.35
+  connections:4.30
+
+Topic 1:
+  username password:4.12
+  password:2.72
+  email:2.45
+  story:2.16
+  crypto pgp:2.16
+  coworker:2.16
+  fuck:2.16
+  account:2.16
+  ash:2.15
+  weak:2.15
+
+Topic 2:
+  nsa:1.48
+  classification guide:0.89
+  systems:0.86
+  data:0.81
+  encryption:0.79
+  internet:0.72
+  communications:0.72
+  asa document:0.69
+  people:0.69
+  program:0.63
+
+Topic 3:
+  nsa:1.69
+  called:0.79
+  encryption:0.78
+  people:0.77
+  asa document:0.71
+  classification guide:0.67
+  program:0.66
+  asa presentation:0.66
+  encrypted:0.61
+  programs:0.59
+
+Topic 4:
+  bug:3.25
+  private keys:2.16
+  random:2.16
+  design:2.16
+  doesnt:2.16
+  generator:2.16
+  asa:2.15
+  number:2.08
+  publically:1.06
+  pointed:1.06
+
+K: 5, Log-Likelihood: -13889.915, Alpha: 11.000, Beta: 1.100

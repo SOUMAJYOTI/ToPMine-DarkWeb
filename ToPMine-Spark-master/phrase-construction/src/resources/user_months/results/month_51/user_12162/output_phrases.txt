@@ -1,0 +1,46 @@
+Topic 0:
+  pmthat:0.08
+  tambourine:0.08
+  mix:0.08
+  baffle:0.08
+  quote:0.08
+  glad:0.08
+  lol:0.08
+
+Topic 1:
+  tambourine:0.08
+  pmthat:0.08
+  baffle:0.08
+  lol:0.08
+  quote:0.08
+  mix:0.08
+  glad:0.08
+
+Topic 2:
+  lol:0.08
+  glad:0.08
+  quote:0.08
+  baffle:0.08
+  mix:0.08
+  pmthat:0.08
+  tambourine:0.08
+
+Topic 3:
+  glad:0.08
+  mix:0.08
+  quote:0.08
+  lol:0.08
+  tambourine:0.08
+  pmthat:0.08
+  baffle:0.08
+
+Topic 4:
+  glad:0.08
+  quote:0.08
+  lol:0.08
+  baffle:0.08
+  mix:0.08
+  pmthat:0.08
+  tambourine:0.08
+
+K: 5, Log-Likelihood: -5.523, Alpha: 11.000, Beta: 1.100

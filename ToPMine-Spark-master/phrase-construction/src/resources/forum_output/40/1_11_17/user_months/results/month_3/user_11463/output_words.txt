@@ -1,0 +1,61 @@
+Topic 0:
+  people:3.83
+  customers:2.95
+  life:2.85
+  february:2.84
+  quote:2.78
+  risk:2.75
+  biggest:2.44
+  kinds:2.44
+  scammed:2.31
+  innocent:1.95
+
+Topic 1:
+  blackbank:8.82
+  vendor:7.37
+  buyer:6.15
+  funds:5.31
+  le:5.01
+  key:3.94
+  finalize:3.94
+  time:3.03
+  keys:2.94
+  escrow:2.82
+
+Topic 2:
+  dont:7.09
+  turtletime:5.93
+  forums:5.63
+  sales:4.28
+  february:4.11
+  mdparity:4.10
+  face:3.90
+  response:3.90
+  pitch:3.67
+  didnt:3.65
+
+Topic 3:
+  market:7.34
+  feedback:4.80
+  negative:4.19
+  february:4.17
+  reviews:4.02
+  theabsolutefinest:3.92
+  budsy:3.92
+  free:3.75
+  rest:3.72
+  doxx:3.35
+
+Topic 4:
+  february:6.40
+  quote:5.87
+  pretty:3.89
+  pmi:3.69
+  concerned:3.38
+  doxx:2.73
+  publically:2.67
+  scarey:2.67
+  buying:2.67
+  address:2.66
+
+K: 5, Log-Likelihood: -4004.376, Alpha: 11.000, Beta: 1.100

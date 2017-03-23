@@ -1,0 +1,61 @@
+Topic 0:
+  daysthe:1.53
+  called:1.53
+  talk:1.53
+  tshirt:1.53
+  cops:1.53
+  somethingi:1.53
+  shorts:1.53
+  thinking:1.53
+  bit:1.53
+  stoned:1.53
+
+Topic 1:
+  market:2.28
+  order:2.26
+  vendor:1.88
+  nospace:1.21
+  difyeqm:1.18
+  scale:1.17
+  onion:1.17
+  gspot:1.17
+  contactmember:1.16
+  support:1.16
+
+Topic 2:
+  usai:1.96
+  trapped:1.96
+  prove:1.96
+  canadian:1.95
+  eh:1.94
+  cold:1.37
+  quote:1.36
+  freaking:1.36
+  weather:1.36
+  digitaldong:1.36
+
+Topic 3:
+  order:2.69
+  market:2.66
+  vendor:1.79
+  canada:1.30
+  grams:1.30
+  ram:1.29
+  sign:1.28
+  purchased:1.28
+  enjoy:1.27
+  limited:1.26
+
+Topic 4:
+  signed message:2.07
+  pick key paste newly:2.06
+  message checking box someones:2.04
+  encrypt click drop message:2.03
+  quote planetaryalignment:1.91
+  pmin:1.91
+  notice uncropt button sign:1.90
+  tails highlight message encrypt:1.88
+  encrypt steps encrypting:1.88
+  sign message:1.88
+
+K: 5, Log-Likelihood: -1012.489, Alpha: 11.000, Beta: 1.100

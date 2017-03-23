@@ -1,0 +1,61 @@
+Topic 0:
+  giftcards:0.23
+  package:0.23
+  big:0.17
+  january:0.14
+  sending:0.14
+  amquote:0.14
+  nemesis:0.14
+  success:0.14
+  packs:0.14
+  vendor:0.14
+
+Topic 1:
+  package:0.23
+  giftcards:0.23
+  big:0.17
+  traces:0.14
+  person:0.14
+  fingerprint:0.14
+  correct:0.14
+  buying:0.14
+  leave:0.14
+  nemesis:0.14
+
+Topic 2:
+  giftcards:0.23
+  package:0.23
+  big:0.17
+  packs:0.14
+  nemesis:0.14
+  amquote:0.14
+  january:0.14
+  sending:0.14
+  success:0.14
+  vendor:0.14
+
+Topic 3:
+  giftcards:0.23
+  package:0.23
+  big:0.17
+  buying:0.14
+  leave:0.14
+  fingerprint:0.14
+  person:0.14
+  correct:0.14
+  traces:0.14
+  vendor:0.14
+
+Topic 4:
+  package:0.23
+  giftcards:0.23
+  big:0.17
+  leave:0.14
+  correct:0.14
+  buying:0.14
+  person:0.14
+  traces:0.14
+  vendor:0.14
+  packs:0.14
+
+K: 5, Log-Likelihood: -127.180, Alpha: 11.000, Beta: 1.100

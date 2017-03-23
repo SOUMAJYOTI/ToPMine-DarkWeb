@@ -1,0 +1,61 @@
+Topic 0:
+  scallion:0.24
+  pgp:0.24
+  signature:0.16
+  nice:0.08
+  bitch:0.08
+  exe:0.08
+  small:0.08
+  shorten:0.08
+  job:0.08
+  great:0.08
+
+Topic 1:
+  scallion:0.24
+  pgp:0.24
+  signature:0.16
+  basically:0.08
+  depending:0.08
+  runscallion:0.08
+  seraphic:0.08
+  great:0.08
+  command:0.08
+  characters:0.08
+
+Topic 2:
+  pgp:0.24
+  scallion:0.24
+  signature:0.16
+  zukjaksf:0.08
+  english:0.08
+  iqqh:0.08
+  pcoyxawqdr:0.08
+  tfezjhd:0.08
+  ejbojrzt:0.08
+  uhqopasx:0.08
+
+Topic 3:
+  scallion:0.24
+  pgp:0.24
+  signature:0.16
+  service:0.08
+  ss:0.08
+  basically:0.08
+  domain:0.08
+  bitch:0.08
+  onion:0.08
+  tough:0.08
+
+Topic 4:
+  pgp:0.24
+  scallion:0.24
+  signature:0.16
+  amrzmqnb:0.08
+  hkzbxvn:0.08
+  uthai:0.08
+  zdt:0.08
+  myknnmj:0.08
+  tsudlluulor:0.08
+  zaqmevtjcc:0.08
+
+K: 5, Log-Likelihood: -267.913, Alpha: 11.000, Beta: 1.100

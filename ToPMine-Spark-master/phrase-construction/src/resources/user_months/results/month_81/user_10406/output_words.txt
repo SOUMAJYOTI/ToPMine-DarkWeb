@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:3.79
+  servers:3.43
+  dash:3.14
+  clients:2.99
+  tails:2.97
+  tor:2.63
+  running:1.87
+  sense:1.42
+  malicious:1.41
+  dev:1.41
+
+Topic 1:
+  tails:4.18
+  dash:4.00
+  electrum:1.92
+  good:1.49
+  install:1.23
+  servers:1.18
+  find:1.13
+  security:1.12
+  ignite:1.08
+  rocket:1.08
+
+Topic 2:
+  electrum:5.59
+  tails:4.34
+  servers:3.40
+  dash:2.68
+  wallet:1.20
+  running:1.09
+  good:1.07
+  hope:0.95
+  tor:0.90
+  bit:0.89
+
+Topic 3:
+  electrum:6.33
+  tails:4.70
+  dash:2.61
+  servers:1.88
+  wallet:1.37
+  good:1.18
+  quote:0.90
+  bit:0.89
+  security:0.84
+  hope:0.79
+
+Topic 4:
+  security:4.96
+  tails:4.81
+  guys:3.84
+  darksend:2.87
+  stock:2.78
+  safe:2.70
+  electrum:2.37
+  caring:2.36
+  convenience:2.36
+  blog:2.36
+
+K: 5, Log-Likelihood: -2458.095, Alpha: 11.000, Beta: 1.100

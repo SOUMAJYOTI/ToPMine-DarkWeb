@@ -1,0 +1,61 @@
+Topic 0:
+  days:5.04
+  works:4.57
+  fake:3.89
+  program:3.56
+  gamesome:3.47
+  good:2.85
+  adapter:2.84
+  amazing:2.79
+  kali:2.71
+  save:2.36
+
+Topic 1:
+  items:10.97
+  tv:10.18
+  expensive:9.23
+  free:7.87
+  stuff:6.31
+  system:6.05
+  quote:5.47
+  august:5.44
+  download:3.89
+  pmi:3.85
+
+Topic 2:
+  server:17.96
+  phone:11.38
+  communication:9.96
+  price:9.25
+  set:6.50
+  gb:5.96
+  service:5.96
+  phones:5.96
+  connection:5.96
+  adroit:5.17
+
+Topic 3:
+  wifi:5.77
+  eu:4.99
+  work:4.58
+  advanced:4.05
+  system:4.04
+  find:4.00
+  monitor:3.89
+  mode:3.89
+  password:2.91
+  change:2.89
+
+Topic 4:
+  coupon:16.10
+  code:13.38
+  coupons:6.13
+  gs:5.97
+  digits:5.97
+  family:5.97
+  number:5.97
+  company:5.22
+  check:5.13
+  digit:3.98
+
+K: 5, Log-Likelihood: -6404.332, Alpha: 11.000, Beta: 1.100

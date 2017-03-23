@@ -1,0 +1,61 @@
+Topic 0:
+  browser:6.26
+  connect:6.16
+  connection:4.34
+  tor:3.29
+  open:2.60
+  close:2.45
+  unsafe:2.29
+  allowed:1.10
+  cafes:1.09
+  window:1.09
+
+Topic 1:
+  browser:2.78
+  tor:2.43
+  terms:2.13
+  accept:1.47
+  library:1.29
+  unsafe:1.13
+  mac:1.06
+  connect:0.98
+  tails:0.97
+  access:0.89
+
+Topic 2:
+  mac:2.59
+  browser:2.13
+  library:2.02
+  tor:1.85
+  unsafe:1.33
+  logon:1.22
+  terms:1.10
+  member:0.98
+  number:0.96
+  accept:0.85
+
+Topic 3:
+  tor:5.07
+  network:2.94
+  connect:2.93
+  tails:1.54
+  accept:1.47
+  public:1.20
+  isnt:1.20
+  browser:1.14
+  library:1.09
+  mac:0.89
+
+Topic 4:
+  tor:8.37
+  connect:4.20
+  browser:3.69
+  connection:1.76
+  network:1.64
+  close:1.59
+  open:1.57
+  accept:1.22
+  terms:1.10
+  unsafe:0.94
+
+K: 5, Log-Likelihood: -1155.064, Alpha: 11.000, Beta: 1.100

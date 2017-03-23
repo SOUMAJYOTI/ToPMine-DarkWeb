@@ -1,0 +1,61 @@
+Topic 0:
+  luck:1.61
+  bar:0.71
+  competition:0.71
+  rewared:0.71
+  benefiting:0.71
+  april:0.71
+  commission:0.71
+  good:0.71
+  ive:0.71
+  pigeon pigeon:0.71
+
+Topic 1:
+  servers:0.63
+  big:0.61
+  full:0.61
+  server:0.58
+  web server:0.57
+  site:0.47
+  expect:0.41
+  dedicated:0.41
+  data:0.41
+  users:0.41
+
+Topic 2:
+  server:0.84
+  web server:0.82
+  big:0.79
+  servers:0.78
+  full:0.75
+  mufti:0.50
+  simple:0.50
+  sell:0.50
+  users:0.50
+  board:0.50
+
+Topic 3:
+  full:0.65
+  web server:0.64
+  server:0.64
+  big:0.62
+  servers:0.62
+  site:0.48
+  sales:0.43
+  feedback:0.43
+  data:0.43
+  hidden:0.43
+
+Topic 4:
+  full:0.66
+  big:0.65
+  web server:0.63
+  servers:0.63
+  server:0.61
+  site:0.47
+  mufti:0.43
+  dedicated:0.43
+  expect:0.43
+  sell:0.43
+
+K: 5, Log-Likelihood: -767.914, Alpha: 11.000, Beta: 1.100

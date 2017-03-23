@@ -1,0 +1,61 @@
+Topic 0:
+  le:18.23
+  suspect:9.71
+  hack:7.60
+  december:6.29
+  dont:5.78
+  quote:5.61
+  godofwar:4.52
+  confirmed:2.60
+  pmi:2.37
+  time:1.96
+
+Topic 1:
+  agora:5.08
+  place:2.49
+  seized:2.31
+  market:2.29
+  btc:1.96
+  site:1.76
+  message:1.68
+  trouble:1.66
+  le:1.66
+  fixing:1.66
+
+Topic 2:
+  site:3.12
+  le:3.06
+  agora:2.62
+  message:2.37
+  hope:2.03
+  november:1.95
+  sr:1.56
+  quote:1.42
+  scam:1.39
+  signed:1.39
+
+Topic 3:
+  agora:4.89
+  good:3.78
+  le:3.48
+  lot:3.41
+  people:3.40
+  playing:1.77
+  btc:1.76
+  day:1.61
+  withdrawals:1.59
+  guyver:1.59
+
+Topic 4:
+  agora:5.22
+  le:4.57
+  quote:2.18
+  november:1.72
+  site:1.58
+  btc:1.42
+  place:1.27
+  message:1.22
+  fixing:1.14
+  arrived:1.11
+
+K: 5, Log-Likelihood: -2411.409, Alpha: 11.000, Beta: 1.100

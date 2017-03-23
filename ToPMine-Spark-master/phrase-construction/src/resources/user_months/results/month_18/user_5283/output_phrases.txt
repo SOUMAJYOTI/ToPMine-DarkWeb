@@ -1,0 +1,61 @@
+Topic 0:
+  long time:3.74
+  dont:3.07
+  powers:2.89
+  suffering:2.89
+  stands:2.89
+  personal life:2.89
+  topic:2.89
+  emptying:2.89
+  pretty:2.89
+  raise:2.89
+
+Topic 1:
+  smoking:8.76
+  cancer:5.83
+  drug:3.99
+  mckenna:2.89
+  natural drugs:2.89
+  brain:2.89
+  eat:2.89
+  safe:2.89
+  defeat:2.89
+  toxics body:2.89
+
+Topic 2:
+  time:5.83
+  lsd:5.83
+  system:5.83
+  effects:3.87
+  headaches:2.89
+  relatives:2.89
+  lsd benefits:2.89
+  harm:2.89
+  addition serotonin:2.89
+  cannabis:2.89
+
+Topic 3:
+  based:8.76
+  order protect property:5.83
+  order:5.83
+  philosophical:5.83
+  consent:5.83
+  tacit consent:5.83
+  government:4.36
+  leave:2.90
+  hold real:2.90
+  legitimacy:2.90
+
+Topic 4:
+  die perfect health:5.82
+  mda:4.36
+  health:3.93
+  mdma mda:3.93
+  vape:2.89
+  draw:2.89
+  worse:2.89
+  ridiculous:2.89
+  scars:2.89
+  word:2.89
+
+K: 5, Log-Likelihood: -6001.821, Alpha: 11.000, Beta: 1.100

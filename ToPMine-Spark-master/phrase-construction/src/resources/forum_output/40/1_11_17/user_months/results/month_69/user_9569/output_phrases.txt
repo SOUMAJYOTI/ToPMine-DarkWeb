@@ -1,0 +1,61 @@
+Topic 0:
+  server:0.00
+  works:0.00
+  refused:0.00
+  log:0.00
+  work:0.00
+  provided:0.00
+  work bridges:0.00
+  bridges:0.00
+  windows:0.00
+  error:0.00
+
+Topic 1:
+  server:0.00
+  works:0.00
+  refused:0.00
+  log:0.00
+  work:0.00
+  provided:0.00
+  work bridges:0.00
+  bridges:0.00
+  windows:0.00
+  error:0.00
+
+Topic 2:
+  server:0.00
+  works:0.00
+  refused:0.00
+  log:0.00
+  work:0.00
+  provided:0.00
+  work bridges:0.00
+  bridges:0.00
+  windows:0.00
+  error:0.00
+
+Topic 3:
+  server:0.00
+  works:0.00
+  refused:0.00
+  log:0.00
+  work:0.00
+  provided:0.00
+  work bridges:0.00
+  bridges:0.00
+  windows:0.00
+  error:0.00
+
+Topic 4:
+  server:0.00
+  works:0.00
+  refused:0.00
+  log:0.00
+  work:0.00
+  provided:0.00
+  work bridges:0.00
+  bridges:0.00
+  windows:0.00
+  error:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

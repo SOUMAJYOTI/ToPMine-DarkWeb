@@ -1,0 +1,61 @@
+Topic 0:
+  command:8.25
+  tails:4.83
+  hours:3.68
+  install:3.04
+  screen:3.02
+  macbook:2.93
+  drive:2.39
+  refit:2.21
+  instructions:2.17
+  refind:2.08
+
+Topic 1:
+  tails:12.04
+  add:7.50
+  march:6.31
+  pro:5.44
+  lot:4.17
+  usb:4.13
+  command:4.01
+  evilgrin:3.77
+  didnt:3.76
+  suds:3.65
+
+Topic 2:
+  disk:26.69
+  dev:6.57
+  iso:6.39
+  size:4.97
+  gb:4.97
+  thumbdrive:4.97
+  apple:4.67
+  file:4.49
+  desktop:3.97
+  ll:3.97
+
+Topic 3:
+  file:13.91
+  dont:12.03
+  key:8.65
+  point:8.17
+  iso:7.57
+  download:6.87
+  mirage:5.93
+  february:4.67
+  terminal:4.57
+  ill:4.55
+
+Topic 4:
+  dvd:4.87
+  work:3.73
+  ill:3.12
+  barely:2.59
+  drive:2.57
+  iso:2.44
+  disc:2.13
+  quote:2.10
+  step:1.86
+  mirage:1.79
+
+K: 5, Log-Likelihood: -4982.670, Alpha: 11.000, Beta: 1.100

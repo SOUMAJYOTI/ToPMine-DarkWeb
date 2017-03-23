@@ -1,0 +1,61 @@
+Topic 0:
+  middle:14.64
+  system:13.53
+  box:12.94
+  traffic:10.88
+  pi:10.00
+  network:9.87
+  socks:7.98
+  ideally:7.90
+  private:7.90
+  tor:7.68
+
+Topic 1:
+  computer:22.49
+  website:11.23
+  address:9.54
+  user:8.15
+  network:8.09
+  type:7.61
+  internet:7.07
+  warrant:6.99
+  activating:6.99
+  nit:6.99
+
+Topic 2:
+  fh:13.88
+  exploit:13.87
+  high:7.91
+  april:7.48
+  site:6.09
+  dont:5.30
+  days:5.25
+  le:4.85
+  js:4.77
+  people:4.56
+
+Topic 3:
+  quote:15.50
+  presidente:8.56
+  el:7.50
+  tor:4.42
+  april:4.19
+  motherfuckers:3.88
+  resource:3.83
+  gamesome:3.83
+  bad:3.74
+  cloudflare:3.25
+
+Topic 4:
+  isolation:9.77
+  virtual:7.44
+  attack:5.79
+  address:5.35
+  physical:4.91
+  requires:4.87
+  protect:4.87
+  firewalls:4.13
+  technique:4.07
+  amnesia:3.98
+
+K: 5, Log-Likelihood: -11177.255, Alpha: 11.000, Beta: 1.100

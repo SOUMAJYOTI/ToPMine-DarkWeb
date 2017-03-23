@@ -1,0 +1,61 @@
+Topic 0:
+  strong:2.74
+  stand:2.61
+  great:2.25
+  attack:2.09
+  customer:1.62
+  vendor:1.61
+  hey:1.57
+  stay:1.46
+  slammed:1.45
+  homes:1.45
+
+Topic 1:
+  market:2.35
+  find:1.71
+  move:1.67
+  marketplace:1.66
+  trust:1.65
+  moving:1.60
+  position:1.55
+  vendors:1.47
+  stressful:1.31
+  air:1.31
+
+Topic 2:
+  agora:9.51
+  today:4.72
+  hope:4.09
+  logged:3.90
+  orders:3.66
+  unable:2.90
+  long:2.80
+  shipped:2.57
+  asap:1.90
+  access:1.90
+
+Topic 3:
+  stand:2.47
+  long:1.62
+  stay:1.38
+  market:1.28
+  move:1.11
+  good:1.04
+  rc:1.00
+  position:0.97
+  trust:0.93
+  moving:0.92
+
+Topic 4:
+  agora:3.87
+  vendor:2.35
+  long:1.39
+  forward:1.36
+  dont:1.14
+  people:1.05
+  ago:0.96
+  sad:0.95
+  hit:0.85
+  community:0.84
+
+K: 5, Log-Likelihood: -2386.290, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tarbells:0.08
+  tarbell:0.08
+  don:0.08
+  dont:0.08
+  salu:0.00
+  idea:0.00
+  rasberry:0.00
+  chained:0.00
+  mental:0.00
+  cheetos:0.00
+
+Topic 1:
+  dont:0.08
+  tarbells:0.08
+  don:0.08
+  tarbell:0.08
+  salu:0.00
+  idea:0.00
+  rasberry:0.00
+  chained:0.00
+  mental:0.00
+  cheetos:0.00
+
+Topic 2:
+  don:0.08
+  dont:0.08
+  tarbells:0.08
+  tarbell:0.08
+  salu:0.00
+  idea:0.00
+  rasberry:0.00
+  chained:0.00
+  mental:0.00
+  cheetos:0.00
+
+Topic 3:
+  tarbell:0.08
+  don:0.08
+  tarbells:0.08
+  dont:0.08
+  salu:0.00
+  idea:0.00
+  rasberry:0.00
+  chained:0.00
+  mental:0.00
+  cheetos:0.00
+
+Topic 4:
+  don:0.08
+  dont:0.08
+  tarbells:0.08
+  tarbell:0.08
+  salu:0.00
+  idea:0.00
+  rasberry:0.00
+  chained:0.00
+  mental:0.00
+  cheetos:0.00
+
+K: 5, Log-Likelihood: -4.068, Alpha: 11.000, Beta: 1.100

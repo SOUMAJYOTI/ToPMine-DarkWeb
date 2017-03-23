@@ -1,0 +1,61 @@
+Topic 0:
+  scallion:0.62
+  customed:0.20
+  fee:0.20
+  bitch:0.20
+  basically:0.20
+  job:0.20
+  nice:0.20
+  tough:0.20
+  seraphic:0.20
+  prefix:0.20
+
+Topic 1:
+  scallion:0.59
+  card:0.20
+  domain:0.20
+  bitch:0.20
+  nice:0.20
+  tough:0.20
+  job:0.20
+  command:0.20
+  create:0.20
+  seraphic:0.20
+
+Topic 2:
+  scallion:0.59
+  depending:0.20
+  runscallion:0.20
+  prefix:0.20
+  ss:0.20
+  domain:0.20
+  late:0.20
+  shorten:0.20
+  exe:0.20
+  service:0.20
+
+Topic 3:
+  scallion:0.60
+  basically:0.20
+  small:0.20
+  card:0.20
+  swissshopfrom:0.20
+  working:0.20
+  os:0.20
+  late:0.20
+  command:0.20
+  pretty:0.20
+
+Topic 4:
+  scallion:0.59
+  runscallion:0.20
+  exe:0.20
+  late:0.20
+  great:0.20
+  create:0.20
+  working:0.20
+  pretty:0.20
+  shorten:0.20
+  ss:0.20
+
+K: 5, Log-Likelihood: -103.238, Alpha: 11.000, Beta: 1.100

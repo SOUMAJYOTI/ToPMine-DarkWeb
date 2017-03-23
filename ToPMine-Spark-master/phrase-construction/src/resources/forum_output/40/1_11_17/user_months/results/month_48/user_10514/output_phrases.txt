@@ -1,0 +1,61 @@
+Topic 0:
+  sigaint:3.17
+  architecture:2.05
+  diverse:2.05
+  setting relay:2.05
+  feel:2.05
+  distro:2.05
+  ears mixing architectures:2.05
+  dust powerpcs spare ladies:2.05
+  yelling tor relay monoculture:2.05
+  pmfunny:2.05
+
+Topic 1:
+  tor:2.21
+  operating:1.85
+  community:1.66
+  bsd:1.66
+  tor project:1.62
+  browser:1.62
+  anonymity:1.56
+  monocultures:1.53
+  software:1.52
+  project:1.52
+
+Topic 2:
+  blah:2.94
+  dead:1.44
+  scheme:1.44
+  protocols:1.44
+  cracking:1.44
+  read:1.44
+  interesting:1.44
+  sake:1.44
+  camel:1.44
+  torn:1.44
+
+Topic 3:
+  bsd:2.85
+  operating:2.60
+  tor:2.31
+  single:1.61
+  open source:1.60
+  focused:1.60
+  tor relays:1.58
+  layer:1.56
+  system:1.56
+  tdp:1.55
+
+Topic 4:
+  open mind:3.16
+  app:2.05
+  graphics:2.05
+  ill:2.05
+  money:2.05
+  branding:2.05
+  market:2.05
+  presentation:2.05
+  sick:2.05
+  wary:2.05
+
+K: 5, Log-Likelihood: -2201.655, Alpha: 11.000, Beta: 1.100

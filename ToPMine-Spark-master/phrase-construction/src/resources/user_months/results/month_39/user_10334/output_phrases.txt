@@ -1,0 +1,61 @@
+Topic 0:
+  time:3.41
+  set:3.41
+  dont:2.93
+  pdf:2.93
+  setting:2.93
+  markets:2.93
+  source:2.93
+  onionshop:2.93
+  code:2.93
+  emphasize:1.42
+
+Topic 1:
+  downloading:1.34
+  sandboxed:1.34
+  download:1.34
+  nono:1.34
+  minded:1.34
+  pdfs:1.34
+  security:1.33
+  wait:1.10
+  big:1.07
+  tor:0.82
+
+Topic 2:
+  asks:4.18
+  server:3.12
+  input:3.11
+  march:2.88
+  quote:2.20
+  login:1.99
+  problem:1.99
+  error:1.99
+  tor advice:1.99
+  ddos:1.99
+
+Topic 3:
+  text:2.91
+  post:2.91
+  docs:1.41
+  safe:1.41
+  scarf:1.41
+  plain:1.41
+  sites:1.41
+  barry:1.41
+  paranoid:1.41
+  rightly:1.41
+
+Topic 4:
+  connections tor:4.18
+  tor:2.99
+  set hidden service:1.99
+  hidden server:1.99
+  allowed:1.99
+  scanning:1.99
+  attack:1.99
+  recommended:1.99
+  slow:1.99
+  relays:1.99
+
+K: 5, Log-Likelihood: -2085.122, Alpha: 11.000, Beta: 1.100

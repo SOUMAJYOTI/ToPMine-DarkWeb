@@ -1,0 +1,61 @@
+Topic 0:
+  server:0.70
+  bit:0.50
+  grsec:0.45
+  dont:0.45
+  compromise:0.45
+  web:0.45
+  isolation:0.44
+  virtual:0.44
+  apache:0.21
+  nginx:0.21
+
+Topic 1:
+  server:0.64
+  bit:0.53
+  web:0.43
+  compromise:0.43
+  virtual:0.43
+  isolation:0.43
+  grsec:0.42
+  dont:0.42
+  machines:0.21
+  host:0.21
+
+Topic 2:
+  bit:0.62
+  server:0.58
+  virtual:0.40
+  dont:0.39
+  isolation:0.39
+  compromise:0.39
+  web:0.39
+  grsec:0.39
+  forum:0.20
+  coming:0.20
+
+Topic 3:
+  server:0.62
+  bit:0.58
+  isolation:0.41
+  grsec:0.41
+  dont:0.41
+  web:0.41
+  virtual:0.41
+  compromise:0.41
+  unthinkable:0.20
+  hs:0.20
+
+Topic 4:
+  bit:0.77
+  server:0.46
+  virtual:0.33
+  isolation:0.33
+  grsec:0.33
+  compromise:0.33
+  web:0.33
+  dont:0.33
+  nice:0.25
+  life:0.25
+
+K: 5, Log-Likelihood: -246.234, Alpha: 11.000, Beta: 1.100

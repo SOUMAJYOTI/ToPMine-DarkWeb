@@ -1,0 +1,61 @@
+Topic 0:
+  samalla:0.46
+  kainuun:0.30
+  haistaa:0.30
+  maistaa:0.30
+  bitcoinin:0.30
+  het:0.30
+  se:0.30
+  ekana:0.30
+  netmy:0.30
+  tililleni:0.30
+
+Topic 1:
+  mailia:0.32
+  olisi:0.32
+  samalla:0.31
+  tuotteita:0.29
+  laatu:0.29
+  sovitaan:0.29
+  tuote:0.29
+  sit:0.29
+  tehokasta:0.29
+  teh:0.29
+
+Topic 2:
+  samalla:0.37
+  mailia:0.29
+  olisi:0.29
+  niin:0.28
+  onnistuu:0.26
+  mutta:0.26
+  mieluummin:0.26
+  sampleja:0.26
+  netmy:0.26
+  ekana:0.26
+
+Topic 3:
+  samalla:0.43
+  mieluummin:0.28
+  tililleni:0.28
+  voi:0.28
+  maistaa:0.28
+  ja:0.28
+  laittas:0.28
+  onnistuu:0.28
+  het:0.28
+  himaastosta:0.28
+
+Topic 4:
+  samalla:0.51
+  email:0.32
+  muutaman:0.32
+  sampleja:0.32
+  mutta:0.32
+  het:0.32
+  ekana:0.32
+  netmy:0.32
+  bitcoinin:0.32
+  himaastosta:0.32
+
+K: 5, Log-Likelihood: -447.911, Alpha: 11.000, Beta: 1.100

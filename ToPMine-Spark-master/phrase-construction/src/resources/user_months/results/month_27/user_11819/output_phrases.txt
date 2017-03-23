@@ -1,0 +1,61 @@
+Topic 0:
+  stay:0.16
+  team:0.16
+  site:0.16
+  marketplace:0.16
+  easy:0.16
+  place:0.16
+  patient:0.16
+  layout:0.16
+  reason:0.08
+  programming:0.08
+
+Topic 1:
+  marketplace:0.16
+  easy:0.16
+  team:0.16
+  layout:0.16
+  place:0.16
+  stay:0.16
+  site:0.16
+  patient:0.16
+  weeks:0.08
+  ready:0.08
+
+Topic 2:
+  patient:0.16
+  layout:0.16
+  stay:0.16
+  place:0.16
+  site:0.16
+  team:0.16
+  easy:0.16
+  marketplace:0.16
+  humble:0.08
+  long:0.08
+
+Topic 3:
+  site:0.16
+  patient:0.16
+  place:0.16
+  stay:0.16
+  layout:0.16
+  easy:0.16
+  team:0.16
+  marketplace:0.16
+  dick:0.08
+  overlay:0.08
+
+Topic 4:
+  marketplace:0.16
+  easy:0.16
+  team:0.16
+  place:0.16
+  stay:0.16
+  layout:0.16
+  site:0.16
+  patient:0.16
+  hereurl:0.08
+  weeks:0.08
+
+K: 5, Log-Likelihood: -174.815, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,46 @@
+Topic 0:
+  dropped:0.08
+  brother:0.08
+  anytime:0.08
+  ounce:0.08
+  low:0.08
+  prices:0.08
+  coming:0.00
+
+Topic 1:
+  anytime:0.08
+  brother:0.08
+  prices:0.08
+  low:0.08
+  dropped:0.08
+  ounce:0.08
+  coming:0.00
+
+Topic 2:
+  brother:0.08
+  prices:0.08
+  low:0.08
+  anytime:0.08
+  ounce:0.08
+  dropped:0.08
+  coming:0.00
+
+Topic 3:
+  low:0.08
+  prices:0.08
+  ounce:0.08
+  dropped:0.08
+  anytime:0.08
+  brother:0.08
+  coming:0.00
+
+Topic 4:
+  ounce:0.08
+  brother:0.08
+  prices:0.08
+  dropped:0.08
+  low:0.08
+  anytime:0.08
+  coming:0.00
+
+K: 5, Log-Likelihood: -4.573, Alpha: 11.000, Beta: 1.100

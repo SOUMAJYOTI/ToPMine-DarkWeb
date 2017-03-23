@@ -1,0 +1,61 @@
+Topic 0:
+  localbitcoins:0.61
+  paypal:0.58
+  btc:0.56
+  waay:0.43
+  bet:0.43
+  normal:0.42
+  pay:0.42
+  prepared:0.42
+  bank:0.40
+  papa:0.40
+
+Topic 1:
+  btc:0.64
+  paypal:0.64
+  localbitcoins:0.58
+  papa:0.39
+  bank:0.39
+  prepared:0.39
+  normal:0.39
+  pay:0.39
+  bet:0.39
+  cash:0.39
+
+Topic 2:
+  paypal:0.62
+  btc:0.60
+  localbitcoins:0.59
+  bet:0.41
+  pay:0.41
+  normal:0.41
+  waay:0.41
+  prepared:0.40
+  papa:0.40
+  bank:0.39
+
+Topic 3:
+  localbitcoins:0.61
+  btc:0.59
+  paypal:0.59
+  cash:0.42
+  bank:0.41
+  papa:0.41
+  prepared:0.40
+  pay:0.40
+  normal:0.39
+  waay:0.39
+
+Topic 4:
+  btc:0.62
+  localbitcoins:0.61
+  paypal:0.57
+  cash:0.44
+  papa:0.40
+  bank:0.40
+  prepared:0.39
+  normal:0.38
+  waay:0.38
+  pay:0.38
+
+K: 5, Log-Likelihood: -277.115, Alpha: 11.000, Beta: 1.100

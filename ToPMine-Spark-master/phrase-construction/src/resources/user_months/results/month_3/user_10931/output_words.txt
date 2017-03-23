@@ -1,0 +1,61 @@
+Topic 0:
+  load:4.26
+  unusual:3.63
+  investigate:2.84
+  server:2.54
+  site:1.85
+  update:1.85
+  offline:1.85
+  plate:1.85
+  today:1.85
+  issue:1.85
+
+Topic 1:
+  gpg:1.65
+  usb:1.37
+  container:1.05
+  thunderbird:1.05
+  inside:1.00
+  truecrypt:0.93
+  staff:0.67
+  btc:0.64
+  pandora:0.60
+  agora:0.60
+
+Topic 2:
+  keys:1.31
+  truecrypt:0.96
+  usb:0.86
+  tails:0.71
+  gpg:0.67
+  windows:0.61
+  agora:0.58
+  pandora:0.57
+  btc:0.56
+  customers:0.50
+
+Topic 3:
+  file:7.79
+  decrypt:2.81
+  truecrypt:2.56
+  encrypted:2.34
+  pgp:2.13
+  keys:1.90
+  place:1.81
+  program:1.81
+  stored:1.16
+  drive:1.09
+
+Topic 4:
+  keys:2.43
+  private:1.45
+  time:1.44
+  customers:1.00
+  good:1.00
+  hey:1.00
+  guys:0.99
+  manage:0.93
+  windows:0.88
+  ways:0.60
+
+K: 5, Log-Likelihood: -1005.256, Alpha: 11.000, Beta: 1.100

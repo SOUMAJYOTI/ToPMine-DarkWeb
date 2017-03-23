@@ -1,0 +1,61 @@
+Topic 0:
+  lbc:1.22
+  deal:0.99
+  meet:0.96
+  btc:0.66
+  started:0.45
+  circle:0.45
+  offline:0.45
+  trust:0.45
+  luc:0.44
+  standard:0.44
+
+Topic 1:
+  lbc:1.08
+  meet:0.84
+  btc:0.84
+  deal:0.83
+  directly:0.42
+  met:0.42
+  personally:0.42
+  cash:0.42
+  coinbase:0.42
+  atms:0.42
+
+Topic 2:
+  btc:1.01
+  lbc:0.97
+  meet:0.80
+  deal:0.79
+  person:0.40
+  personally:0.40
+  coinbase:0.40
+  worked:0.40
+  offline:0.40
+  sellers:0.40
+
+Topic 3:
+  btc:1.32
+  lbc:0.79
+  deal:0.68
+  meet:0.67
+  luc:0.36
+  friends:0.36
+  coinbase:0.36
+  directly:0.36
+  atms:0.36
+  cash:0.36
+
+Topic 4:
+  btc:1.17
+  lbc:0.93
+  meet:0.73
+  deal:0.71
+  time:0.39
+  person:0.38
+  coinbase:0.38
+  met:0.38
+  sellers:0.38
+  personally:0.38
+
+K: 5, Log-Likelihood: -236.792, Alpha: 11.000, Beta: 1.100

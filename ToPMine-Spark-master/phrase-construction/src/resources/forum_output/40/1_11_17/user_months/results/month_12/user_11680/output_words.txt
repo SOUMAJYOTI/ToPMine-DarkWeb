@@ -1,0 +1,61 @@
+Topic 0:
+  working:1.80
+  news:1.45
+  april:1.37
+  agora:1.32
+  quote:1.02
+  reason:1.00
+  ago:0.87
+  doubt:0.83
+  weeks:0.82
+  fatherted:0.74
+
+Topic 1:
+  message:4.34
+  site:3.30
+  agra:2.97
+  posted:1.65
+  week:1.65
+  dont:1.52
+  forum:1.49
+  hope:1.35
+  update:1.08
+  posting:1.07
+
+Topic 2:
+  weeks:1.07
+  time:0.99
+  working:0.94
+  sr:0.94
+  agora:0.91
+  fatherted:0.91
+  april:0.84
+  reason:0.72
+  news:0.70
+  quote:0.70
+
+Topic 3:
+  reason:3.47
+  doubt:3.14
+  weeks:1.26
+  business:1.25
+  suggesting:0.91
+  word:0.82
+  quote:0.80
+  april:0.77
+  agra:0.71
+  staff:0.65
+
+Topic 4:
+  news:6.36
+  working:2.54
+  agora:1.96
+  ago:1.86
+  april:1.73
+  good:1.72
+  smooth:1.72
+  management:1.69
+  prevents:1.68
+  running:1.67
+
+K: 5, Log-Likelihood: -1186.072, Alpha: 11.000, Beta: 1.100

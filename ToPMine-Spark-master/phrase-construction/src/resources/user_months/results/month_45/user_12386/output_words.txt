@@ -1,0 +1,61 @@
+Topic 0:
+  guide:0.74
+  jack:0.68
+  download:0.57
+  fair:0.39
+  famous:0.39
+  lot:0.39
+  money:0.39
+  decide:0.39
+  piece:0.39
+  puzzle:0.39
+
+Topic 1:
+  guide:0.82
+  download:0.62
+  jack:0.58
+  lot:0.40
+  offer:0.40
+  final:0.40
+  puzzle:0.40
+  famous:0.40
+  work:0.40
+  money:0.40
+
+Topic 2:
+  guide:0.85
+  download:0.62
+  jack:0.54
+  puzzle:0.41
+  decide:0.41
+  final:0.41
+  offer:0.41
+  work:0.41
+  piece:0.41
+  money:0.41
+
+Topic 3:
+  guide:0.83
+  download:0.59
+  jack:0.57
+  easily:0.41
+  order:0.41
+  chance:0.41
+  money:0.40
+  decide:0.40
+  final:0.40
+  work:0.40
+
+Topic 4:
+  guide:0.77
+  jack:0.62
+  download:0.59
+  lot:0.40
+  work:0.40
+  chance:0.40
+  easily:0.40
+  order:0.40
+  offer:0.40
+  final:0.40
+
+K: 5, Log-Likelihood: -200.976, Alpha: 11.000, Beta: 1.100

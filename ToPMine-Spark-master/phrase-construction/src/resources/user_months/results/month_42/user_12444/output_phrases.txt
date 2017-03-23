@@ -1,0 +1,61 @@
+Topic 0:
+  toivottavasti:0.08
+  silkkitie:0.08
+  ss:0.08
+  oon:0.08
+  ois:0.08
+  kaatuu:0.08
+  hunttii:0.08
+  pari:0.08
+  fiilis:0.08
+  sis:0.08
+
+Topic 1:
+  kapteeni:0.08
+  hoitais:0.08
+  taas:0.08
+  pois:0.08
+  rahansiirto:0.08
+  toivotaan:0.08
+  ongelmat:0.08
+  jatkaa:0.08
+  normaalisti:0.08
+  nain:0.08
+
+Topic 2:
+  sis:0.08
+  sellanen:0.08
+  ja:0.08
+  fiilis:0.08
+  ll:0.08
+  oon:0.08
+  ss:0.08
+  pari:0.08
+  niille:0.08
+  hunttii:0.08
+
+Topic 3:
+  ongelmat:0.08
+  voitais:0.08
+  hoitais:0.08
+  normaalisti:0.08
+  toivotaan:0.08
+  nain:0.08
+  silkkitiell:0.08
+  jatkaa:0.08
+  taas:0.08
+  rahansiirto:0.08
+
+Topic 4:
+  ytt:0.08
+  niille:0.08
+  pari:0.08
+  sis:0.08
+  ja:0.08
+  kaatuu:0.08
+  ll:0.08
+  hunttii:0.08
+  ss:0.08
+  ois:0.08
+
+K: 5, Log-Likelihood: -39.594, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  april:0.08
+  guide:0.08
+  pmgreetings:0.08
+  zaphod:0.08
+  muchthere:0.08
+  quote:0.08
+  squidward:0.08
+  technical:0.00
+  searching:0.00
+  turns:0.00
+
+Topic 1:
+  squidward:0.08
+  muchthere:0.08
+  zaphod:0.08
+  guide:0.08
+  april:0.08
+  quote:0.08
+  pmgreetings:0.08
+  technical:0.00
+  searching:0.00
+  turns:0.00
+
+Topic 2:
+  pmgreetings:0.08
+  squidward:0.08
+  zaphod:0.08
+  muchthere:0.08
+  quote:0.08
+  april:0.08
+  guide:0.08
+  technical:0.00
+  searching:0.00
+  turns:0.00
+
+Topic 3:
+  april:0.08
+  guide:0.08
+  muchthere:0.08
+  quote:0.08
+  pmgreetings:0.08
+  zaphod:0.08
+  squidward:0.08
+  technical:0.00
+  searching:0.00
+  turns:0.00
+
+Topic 4:
+  quote:0.08
+  squidward:0.08
+  zaphod:0.08
+  guide:0.08
+  pmgreetings:0.08
+  muchthere:0.08
+  april:0.08
+  technical:0.00
+  searching:0.00
+  turns:0.00
+
+K: 5, Log-Likelihood: -8.296, Alpha: 11.000, Beta: 1.100

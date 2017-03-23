@@ -1,0 +1,61 @@
+Topic 0:
+  november:1.86
+  totally:1.74
+  place loss:1.74
+  safe:1.74
+  animal:1.74
+  exit:1.74
+  pmmy:1.74
+  btc market:1.74
+  market:1.74
+  seized:1.74
+
+Topic 1:
+  time:3.41
+  vendors:2.56
+  alphabay:1.77
+  sip:1.72
+  gsc:1.72
+  resting:1.72
+  peeps:1.72
+  times:1.72
+  quick:1.72
+  yay:1.72
+
+Topic 2:
+  lost:3.67
+  site:2.29
+  running:1.80
+  fed:1.80
+  abraxas:1.80
+  nimble:1.80
+  cunts:1.80
+  verto:1.80
+  days:1.80
+  orders:1.80
+
+Topic 3:
+  lesson good:2.78
+  ll:2.78
+  wise:2.78
+  link:2.78
+  phishing:2.78
+  money:2.78
+  scammers:2.78
+  click:2.78
+  careful:2.78
+  happened:2.78
+
+Topic 4:
+  ab:5.67
+  users:3.63
+  solid:2.74
+  vending:2.74
+  unique:2.74
+  referral:2.74
+  changed:2.74
+  profile:2.74
+  unrolling:2.74
+  dont:2.74
+
+K: 5, Log-Likelihood: -1656.437, Alpha: 11.000, Beta: 1.100

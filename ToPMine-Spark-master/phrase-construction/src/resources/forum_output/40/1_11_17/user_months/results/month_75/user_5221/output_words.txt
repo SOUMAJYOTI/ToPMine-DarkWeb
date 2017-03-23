@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.00
+  history:0.70
+  dont:0.54
+  exit:0.53
+  markets:0.52
+  money:0.41
+  oasis:0.39
+  thinking:0.29
+  retire:0.29
+  bmr:0.29
+
+Topic 1:
+  market:1.12
+  markets:0.46
+  exit:0.46
+  oasis:0.45
+  dont:0.45
+  history:0.43
+  money:0.37
+  trust:0.35
+  marketplace:0.27
+  alphabay:0.22
+
+Topic 2:
+  market:1.22
+  oasis:0.51
+  trust:0.45
+  exit:0.41
+  markets:0.41
+  dont:0.41
+  money:0.36
+  history:0.33
+  marketplace:0.33
+  suitable:0.23
+
+Topic 3:
+  market:0.97
+  trust:0.59
+  marketplace:0.41
+  oasis:0.41
+  money:0.39
+  markets:0.36
+  exit:0.35
+  dont:0.35
+  history:0.30
+  bullet:0.21
+
+Topic 4:
+  trust:1.35
+  marketplace:0.78
+  market:0.70
+  money:0.47
+  nucleus:0.32
+  eventually:0.32
+  someplace:0.32
+  pick:0.32
+  hope:0.32
+  cautious:0.32
+
+K: 5, Log-Likelihood: -421.830, Alpha: 11.000, Beta: 1.100

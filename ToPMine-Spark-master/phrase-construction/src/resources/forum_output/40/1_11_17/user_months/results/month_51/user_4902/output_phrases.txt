@@ -1,0 +1,61 @@
+Topic 0:
+  running:0.00
+  torcurrently:0.00
+  disk:0.00
+  java:0.00
+  encryption:0.00
+  forbidden:0.00
+  options:0.00
+  safest:0.00
+  scripts:0.00
+  layer:0.00
+
+Topic 1:
+  running:0.00
+  torcurrently:0.00
+  disk:0.00
+  java:0.00
+  encryption:0.00
+  forbidden:0.00
+  options:0.00
+  safest:0.00
+  scripts:0.00
+  layer:0.00
+
+Topic 2:
+  running:0.00
+  torcurrently:0.00
+  disk:0.00
+  java:0.00
+  encryption:0.00
+  forbidden:0.00
+  options:0.00
+  safest:0.00
+  scripts:0.00
+  layer:0.00
+
+Topic 3:
+  running:0.00
+  torcurrently:0.00
+  disk:0.00
+  java:0.00
+  encryption:0.00
+  forbidden:0.00
+  options:0.00
+  safest:0.00
+  scripts:0.00
+  layer:0.00
+
+Topic 4:
+  running:0.00
+  torcurrently:0.00
+  disk:0.00
+  java:0.00
+  encryption:0.00
+  forbidden:0.00
+  options:0.00
+  safest:0.00
+  scripts:0.00
+  layer:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

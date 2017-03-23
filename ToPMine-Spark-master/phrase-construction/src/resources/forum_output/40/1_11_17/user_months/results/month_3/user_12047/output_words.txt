@@ -1,0 +1,61 @@
+Topic 0:
+  site:2.71
+  agora:2.55
+  virgin:1.82
+  attention:1.82
+  top:1.69
+  dos:1.66
+  option:1.64
+  dont:1.58
+  online:1.49
+  list:1.48
+
+Topic 1:
+  names:12.11
+  list:9.04
+  march:5.96
+  hack:5.80
+  dump:5.54
+  vendors:5.46
+  users:5.06
+  agra:4.79
+  forum:4.50
+  vendor:3.10
+
+Topic 2:
+  signature:4.76
+  gpg:2.52
+  pgp:1.95
+  sha:1.83
+  signed:1.83
+  key:1.55
+  hash:1.51
+  post:1.49
+  offline:1.45
+  reddit:1.42
+
+Topic 3:
+  list:14.94
+  users:10.25
+  online:9.09
+  march:7.91
+  removed:6.48
+  agora:6.45
+  forums:5.01
+  nevil:4.73
+  simple:4.57
+  pmquote:4.34
+
+Topic 4:
+  list:7.42
+  forum:4.38
+  names:3.09
+  full:2.98
+  agra:2.86
+  dump:2.68
+  member:2.68
+  march:2.59
+  vendors:2.45
+  hack:2.45
+
+K: 5, Log-Likelihood: -3370.599, Alpha: 11.000, Beta: 1.100

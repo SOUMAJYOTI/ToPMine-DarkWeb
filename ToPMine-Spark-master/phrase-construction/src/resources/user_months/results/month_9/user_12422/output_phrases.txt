@@ -1,0 +1,61 @@
+Topic 0:
+  ett:0.27
+  ss:0.23
+  viestin:0.17
+  usk:0.14
+  niin:0.14
+  pmviestien:0.14
+  hidden:0.14
+  allekirjoittaminen:0.14
+  jos:0.14
+  anna:0.14
+
+Topic 1:
+  ett:0.28
+  ss:0.23
+  viestin:0.17
+  olisi:0.14
+  park:0.14
+  se:0.14
+  pit:0.14
+  mutta:0.14
+  yleisesti:0.14
+  ongelma:0.14
+
+Topic 2:
+  ett:0.28
+  ss:0.23
+  viestin:0.17
+  viisasta:0.14
+  ongelma:0.14
+  mainita:0.14
+  sano:0.14
+  yleisesti:0.14
+  pit:0.14
+  mutta:0.14
+
+Topic 3:
+  ett:0.28
+  ss:0.23
+  viestin:0.17
+  en:0.14
+  viisasta:0.14
+  sano:0.14
+  salaamiseen:0.14
+  park:0.14
+  allekirjoittamiseen:0.14
+  avain:0.14
+
+Topic 4:
+  ett:0.28
+  ss:0.23
+  viestin:0.17
+  quote:0.14
+  perusteisiin:0.14
+  tutustu:0.14
+  modet:0.14
+  aarnio:0.14
+  aiheuta:0.14
+  olet:0.14
+
+K: 5, Log-Likelihood: -204.267, Alpha: 11.000, Beta: 1.100

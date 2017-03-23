@@ -1,0 +1,61 @@
+Topic 0:
+  juuri:0.63
+  ytt:0.63
+  douppikauppa:0.63
+  enemm:0.63
+  kovasti:0.59
+  teette:0.59
+  ksi:0.59
+  mit:0.59
+  ihmiset:0.59
+  lsd:0.59
+
+Topic 1:
+  ytt:4.24
+  tor:3.00
+  ji:2.81
+  silkkitie:1.97
+  verkon:1.82
+  sivuston:1.82
+  tahansa:0.84
+  joku:0.84
+  markkinointipalkkion:0.84
+  vuoksi:0.84
+
+Topic 2:
+  huumeita:0.61
+  piti:0.60
+  ytt:0.60
+  mutta:0.60
+  en:0.57
+  silkkitie:0.53
+  ymm:0.47
+  enemm:0.45
+  douppikauppa:0.45
+  juuri:0.45
+
+Topic 3:
+  ja:2.04
+  st:1.88
+  smitten:1.88
+  ymm:1.03
+  hyv:1.00
+  yll:0.89
+  useth:0.89
+  tied:0.89
+  mukaan:0.89
+  joita:0.89
+
+Topic 4:
+  ett:3.67
+  en:2.33
+  tilataan:1.14
+  tehd:1.07
+  sit:1.07
+  aktiivisia:0.86
+  ss:0.86
+  voi:0.86
+  riitt:0.86
+  viel:0.86
+
+K: 5, Log-Likelihood: -1243.058, Alpha: 11.000, Beta: 1.100

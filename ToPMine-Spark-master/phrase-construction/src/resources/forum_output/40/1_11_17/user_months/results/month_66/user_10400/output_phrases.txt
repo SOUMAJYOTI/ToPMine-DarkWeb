@@ -1,0 +1,61 @@
+Topic 0:
+  paying tax:2.41
+  swindled:1.41
+  problem:1.41
+  fake:1.41
+  investigation:1.41
+  ends:1.41
+  bank:1.41
+  blockchain:1.41
+  simply:1.41
+  investigate people:1.41
+
+Topic 1:
+  clean money:5.91
+  network security:4.41
+  mix:2.91
+  implicit:2.91
+  offshore:2.91
+  multiply:2.91
+  bitcoin:2.91
+  casino:2.91
+  property:2.91
+  large:2.91
+
+Topic 2:
+  method:2.25
+  gains:1.82
+  taxs:1.25
+  loss:1.25
+  write:1.25
+  donate:1.25
+  charity:1.25
+  legal:1.25
+  market:1.25
+  donated:1.25
+
+Topic 3:
+  fail:2.90
+  holes:1.40
+  type:1.40
+  organizations:1.40
+  staying:1.40
+  millions:1.40
+  keeping:1.40
+  blip:1.40
+  big:1.40
+  works:1.40
+
+Topic 4:
+  dont:3.05
+  tax:2.53
+  rock:1.97
+  agency:1.97
+  maximum:1.97
+  boat:1.97
+  worry:1.97
+  occurs:1.97
+  gov:1.97
+  protect:1.97
+
+K: 5, Log-Likelihood: -1872.867, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:2.58
+  letters:0.76
+  drive:0.76
+  notepad:0.75
+  goggle:0.73
+  app:0.42
+  import:0.42
+  options:0.40
+  pip:0.40
+  extremely:0.39
+
+Topic 1:
+  wallet:2.45
+  drive:0.80
+  goggle:0.79
+  notepad:0.78
+  letters:0.72
+  app:0.42
+  import:0.41
+  happen:0.40
+  viewed:0.40
+  random:0.40
+
+Topic 2:
+  wallet:1.40
+  goggle:0.87
+  letters:0.86
+  drive:0.85
+  notepad:0.84
+  understand:0.43
+  clicking:0.42
+  restore:0.42
+  looked:0.42
+  long:0.42
+
+Topic 3:
+  wallet:2.39
+  letters:0.83
+  drive:0.81
+  notepad:0.80
+  goggle:0.79
+  import:0.40
+  viewer:0.40
+  app:0.40
+  string:0.40
+  option:0.40
+
+Topic 4:
+  wallet:2.18
+  notepad:0.83
+  letters:0.81
+  goggle:0.81
+  drive:0.78
+  personally:0.41
+  seemingly:0.40
+  pick:0.40
+  string:0.40
+  viewed:0.40
+
+K: 5, Log-Likelihood: -378.686, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  facebook:2.23
+  quote:2.21
+  june:1.91
+  times:1.79
+  changing:1.47
+  implemented:1.47
+  amazing:1.47
+  surprised:1.42
+  zaphod:1.39
+  lives:1.31
+
+Topic 1:
+  people:2.54
+  zaphod:2.34
+  human:1.99
+  june:1.94
+  resist:1.75
+  everyday:1.75
+  amazing:1.72
+  collection:1.68
+  essential:1.67
+  lives:1.65
+
+Topic 2:
+  data:5.95
+  info:3.84
+  government:3.83
+  nsa:2.85
+  heard:2.85
+  key:2.85
+  entire:2.11
+  making:1.89
+  targeting:1.84
+  public:1.84
+
+Topic 3:
+  data:2.56
+  quote:2.41
+  facebook:2.39
+  june:2.00
+  making:1.92
+  times:1.21
+  people:1.03
+  surprised:0.91
+  implemented:0.91
+  changing:0.91
+
+Topic 4:
+  collection:4.99
+  human:3.98
+  amazing:2.80
+  daily:2.47
+  affairs:2.33
+  crypts:2.33
+  encroachment:2.30
+  zaphod:2.30
+  state:2.29
+  academics:2.28
+
+K: 5, Log-Likelihood: -2051.732, Alpha: 11.000, Beta: 1.100

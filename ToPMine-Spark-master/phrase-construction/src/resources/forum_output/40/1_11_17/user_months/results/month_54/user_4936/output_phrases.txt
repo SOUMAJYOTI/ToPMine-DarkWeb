@@ -1,0 +1,61 @@
+Topic 0:
+  communities communities:2.53
+  experience:2.53
+  dance:2.52
+  point point:2.52
+  big:2.52
+  bad:2.52
+  making:2.52
+  real:2.52
+  true:2.52
+  working:2.52
+
+Topic 1:
+  atm:2.51
+  st:2.21
+  captcha:1.89
+  exclusively:1.51
+  agora:1.51
+  tmg:1.51
+  nice:1.51
+  stay:1.51
+  post:1.51
+  snacktime:1.51
+
+Topic 2:
+  drugs:2.45
+  figured:1.21
+  stupidity:1.20
+  killed:1.19
+  reseller:1.19
+  talking:1.18
+  shear:1.18
+  terrible:1.18
+  gs:1.17
+  ecstasy:1.17
+
+Topic 3:
+  drugs:2.90
+  acting:1.52
+  truth:1.51
+  badass:1.50
+  met:1.50
+  posts:1.49
+  ingenious:1.49
+  brain:1.49
+  involvement:1.48
+  felt:1.48
+
+Topic 4:
+  biggest:5.30
+  pmwhich:2.54
+  futher:2.54
+  time agora:2.54
+  rasputin:2.54
+  quote:2.54
+  popular:2.54
+  markets:2.54
+  june:2.54
+  agora cheers dolmio:2.54
+
+K: 5, Log-Likelihood: -1069.076, Alpha: 11.000, Beta: 1.100

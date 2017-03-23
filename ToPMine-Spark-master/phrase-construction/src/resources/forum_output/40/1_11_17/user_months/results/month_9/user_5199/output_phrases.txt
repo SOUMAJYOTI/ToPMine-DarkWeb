@@ -1,0 +1,61 @@
+Topic 0:
+  ticket:0.82
+  business:0.81
+  dissappeared:0.81
+  support:0.78
+  lright:0.62
+  months months:0.62
+  month:0.62
+  sales:0.62
+  quote:0.61
+  pmtrying:0.61
+
+Topic 1:
+  good:0.72
+  answer:0.65
+  support:0.61
+  worry:0.56
+  dont:0.56
+  simple:0.54
+  question:0.54
+  weeks:0.54
+  title:0.54
+  waiting:0.53
+
+Topic 2:
+  market:1.17
+  agora:1.15
+  bsm:1.15
+  traffic:0.78
+  increase:0.76
+  volume:0.54
+  sr:0.54
+  slowly:0.54
+  pandora:0.54
+  picking:0.53
+
+Topic 3:
+  agora:1.47
+  market:1.46
+  bsm:1.16
+  increase:0.70
+  traffic:0.68
+  secondary:0.67
+  io:0.67
+  death:0.66
+  inevitable:0.66
+  picking:0.66
+
+Topic 4:
+  delete:2.72
+  messages:2.71
+  respond:2.71
+  light:1.24
+  matters:1.24
+  change:1.24
+  care:1.24
+  fact:1.23
+  waited:1.23
+  hour:1.23
+
+K: 5, Log-Likelihood: -568.494, Alpha: 11.000, Beta: 1.100

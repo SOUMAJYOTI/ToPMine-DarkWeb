@@ -1,0 +1,61 @@
+Topic 0:
+  tips:2.77
+  eyes:1.74
+  angel:1.73
+  mixing:1.34
+  blender:1.31
+  clarification:1.29
+  apply:1.29
+  telling:1.29
+  possibilities:1.29
+  bitin:1.27
+
+Topic 1:
+  anonymity:5.17
+  bitcoinblender:3.82
+  trail:3.65
+  level:2.40
+  multiple:2.40
+  mix withdraw:2.39
+  locate:2.39
+  interested:2.38
+  transaction btc:2.38
+  watching:2.38
+
+Topic 2:
+  taint analysis:4.21
+  coins address:2.93
+  received:2.93
+  coins:2.52
+  address:2.33
+  claims:1.88
+  looked:1.88
+  address bitcoins:1.43
+  wallet:1.43
+  post:1.43
+
+Topic 3:
+  coins:2.70
+  users receive:2.00
+  clean:2.00
+  receives:2.00
+  users dirty:2.00
+  bitcoins user:2.00
+  doesnt:2.00
+  bitcoins users:2.00
+  bitcoins tumblers:2.00
+  bitcoins:2.00
+
+Topic 4:
+  blender:0.94
+  mixing:0.93
+  trail:0.69
+  anonymity:0.67
+  basin:0.55
+  practice:0.54
+  bitcoin blender:0.53
+  bitcoinblender:0.53
+  service:0.52
+  blockchain:0.52
+
+K: 5, Log-Likelihood: -1978.093, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  november:3.65
+  organix:2.96
+  dream forum:2.95
+  quote:2.71
+  tang:2.65
+  announcement:1.98
+  loads:1.98
+  protection:1.98
+  withdraw:1.98
+  pretty:1.98
+
+Topic 1:
+  posts:4.09
+  forum:3.64
+  team:2.85
+  speedsteppers:2.01
+  market forum:2.01
+  electric:2.01
+  members:2.01
+  appeared:2.01
+  temporarily:2.01
+  message:2.01
+
+Topic 2:
+  nice reviews:8.25
+  feedbacks:3.91
+  abraxas:2.32
+  big:2.01
+  positive:2.01
+  shut:2.01
+  dont:2.01
+  alphabet:2.01
+  kilogram:2.01
+  earth:2.01
+
+Topic 3:
+  server:3.96
+  lol:3.93
+  wait:2.98
+  asked:2.96
+  forum:2.13
+  share:1.89
+  moderator:1.89
+  overloaded:1.89
+  launch:1.89
+  fall:1.89
+
+Topic 4:
+  weed:6.16
+  good:5.08
+  long:2.55
+  time:2.54
+  nowif:2.01
+  smoke:2.01
+  shit:2.01
+  customers:2.01
+  regularly:2.01
+  indoor:2.01
+
+K: 5, Log-Likelihood: -1784.927, Alpha: 11.000, Beta: 1.100

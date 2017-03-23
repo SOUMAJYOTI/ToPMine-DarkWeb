@@ -1,0 +1,61 @@
+Topic 0:
+  chain:5.23
+  network:3.28
+  blocks:3.01
+  transactions:2.96
+  bitcoins:2.67
+  bitcoin:2.56
+  longest:2.52
+  coins:2.47
+  valid:2.45
+  confirmations:1.82
+
+Topic 1:
+  chain:7.84
+  blocks:4.85
+  bitcoin:4.66
+  longest:4.52
+  coins:3.95
+  block:3.72
+  bitcoins:3.30
+  confirmations:3.11
+  network:3.03
+  power:2.47
+
+Topic 2:
+  bitcoins:5.03
+  transactions:2.90
+  chain:2.65
+  block:2.43
+  network:2.25
+  longest:2.19
+  valid:1.98
+  coins:1.95
+  confirmations:1.83
+  blocks:1.69
+
+Topic 3:
+  chain:3.26
+  bitcoins:2.54
+  transactions:2.27
+  bitcoin:2.06
+  blockchain:1.90
+  network:1.77
+  block:1.72
+  valid:1.48
+  coins:1.42
+  blocks:1.30
+
+Topic 4:
+  bitcoins:2.46
+  transactions:1.81
+  network:1.67
+  longest:1.52
+  valid:1.45
+  block:1.44
+  blockchain:1.41
+  confirmations:1.24
+  faked:1.23
+  coins:1.22
+
+K: 5, Log-Likelihood: -2409.605, Alpha: 11.000, Beta: 1.100

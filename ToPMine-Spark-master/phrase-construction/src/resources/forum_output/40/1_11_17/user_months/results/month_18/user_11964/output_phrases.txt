@@ -1,0 +1,61 @@
+Topic 0:
+  register:0.22
+  yesterday:0.22
+  thx:0.22
+  notice:0.22
+  tx:0.22
+  reach:0.22
+  logging:0.22
+  refund:0.22
+  log:0.22
+  problems:0.22
+
+Topic 1:
+  support:0.22
+  day:0.22
+  told:0.22
+  wait:0.22
+  refund:0.22
+  response:0.22
+  pretty:0.22
+  message:0.22
+  deposit:0.22
+  seller:0.22
+
+Topic 2:
+  yep:0.22
+  fixing:0.22
+  notice:0.22
+  tx:0.22
+  problems:0.22
+  reach:0.22
+  logging:0.22
+  fail:0.22
+  yesterday:0.22
+  register:0.22
+
+Topic 3:
+  message:0.22
+  support:0.22
+  wait:0.22
+  fixing:0.22
+  pretty:0.22
+  touch:0.22
+  day:0.22
+  response:0.22
+  log:0.22
+  yep:0.22
+
+Topic 4:
+  day:0.22
+  wait:0.22
+  pretty:0.22
+  thx:0.22
+  btc:0.22
+  message:0.22
+  seller:0.22
+  support:0.22
+  deal:0.22
+  touch:0.22
+
+K: 5, Log-Likelihood: -89.086, Alpha: 11.000, Beta: 1.100

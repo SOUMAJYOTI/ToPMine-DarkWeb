@@ -1,0 +1,61 @@
+Topic 0:
+  myyj:0.40
+  vai:0.40
+  paketointi:0.20
+  paras:0.20
+  ihan:0.20
+  varmaan:0.20
+  maksanut:0.20
+  oli:0.20
+  mietin:0.20
+  inhimillist:0.20
+
+Topic 1:
+  vai:0.40
+  myyj:0.40
+  ytt:0.20
+  palautteita:0.20
+  seuraamaan:0.20
+  ongelmaa:0.20
+  viimeaikoina:0.20
+  onkohan:0.20
+  vain:0.20
+  inhimillist:0.20
+
+Topic 2:
+  myyj:0.41
+  vai:0.39
+  oli:0.20
+  maksanut:0.20
+  ihan:0.20
+  varmaan:0.20
+  paras:0.20
+  paketointi:0.20
+  palautteita:0.20
+  lle:0.20
+
+Topic 3:
+  vai:0.40
+  myyj:0.40
+  ihan:0.20
+  maksanut:0.20
+  oli:0.20
+  varmaan:0.20
+  negatiivisia:0.20
+  seuraamaan:0.20
+  paketointi:0.20
+  kyseiselle:0.20
+
+Topic 4:
+  vai:0.41
+  myyj:0.39
+  kyseess:0.20
+  onkohan:0.20
+  sullen:0.20
+  negatiivisia:0.20
+  setus:0.20
+  lle:0.20
+  kyseiselle:0.20
+  loppuk:0.20
+
+K: 5, Log-Likelihood: -99.318, Alpha: 11.000, Beta: 1.100

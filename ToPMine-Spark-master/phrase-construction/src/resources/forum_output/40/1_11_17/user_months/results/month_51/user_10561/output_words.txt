@@ -1,0 +1,61 @@
+Topic 0:
+  harm:3.83
+  discussion:3.83
+  items:3.82
+  prohibited:1.84
+  promotion:1.84
+  general:1.84
+  considered:1.84
+  permitted:1.84
+  design:1.84
+  endorses:1.84
+
+Topic 1:
+  btc:12.89
+  coinffeine:9.70
+  bankiter:5.89
+  spanish:5.89
+  invest:3.89
+  capital:3.89
+  financial:3.89
+  corporations:3.89
+  decided:3.89
+  hardjam:2.88
+
+Topic 2:
+  account:3.16
+  quote:1.92
+  anonymously:1.63
+  cashout:1.57
+  concerns:1.52
+  set:1.51
+  properly:1.51
+  security:1.51
+  hardjam:1.48
+  money:1.41
+
+Topic 3:
+  june:7.49
+  deposit:6.40
+  bank:6.20
+  pay:5.82
+  needed:5.82
+  hardjam:3.94
+  card:3.93
+  completely:3.87
+  easy:3.71
+  making:3.59
+
+Topic 4:
+  pidgin:3.59
+  tor:3.58
+  setup:3.58
+  exchange:3.12
+  coins:3.10
+  mixing:3.03
+  dont:2.85
+  good:2.63
+  luck:2.61
+  anonymous:2.56
+
+K: 5, Log-Likelihood: -2735.646, Alpha: 11.000, Beta: 1.100

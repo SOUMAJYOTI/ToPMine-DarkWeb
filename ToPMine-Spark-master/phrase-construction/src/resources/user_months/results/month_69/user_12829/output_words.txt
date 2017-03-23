@@ -1,0 +1,61 @@
+Topic 0:
+  market:21.60
+  markets:13.27
+  customer:10.64
+  multi:10.56
+  transaction:10.44
+  multisig:9.41
+  understand:8.25
+  coins:7.41
+  involved:6.92
+  collude:6.88
+
+Topic 1:
+  site:13.89
+  system:10.73
+  buyer:9.68
+  multisig:8.17
+  escrow:6.93
+  keys:5.78
+  vendor:5.77
+  release:5.43
+  money:5.15
+  helps:4.78
+
+Topic 2:
+  multisig:8.94
+  market:5.72
+  funds:5.04
+  site:4.93
+  release:4.90
+  escrow:3.52
+  address:3.42
+  exit:2.88
+  vendors:2.81
+  admins:2.79
+
+Topic 3:
+  buyers:25.11
+  people:20.46
+  vendors:19.13
+  sig:16.36
+  learn:12.90
+  hansa:11.73
+  mufti:11.22
+  market:11.01
+  dont:10.71
+  time:10.54
+
+Topic 4:
+  buyer:23.48
+  process:16.41
+  transaction:15.21
+  multi:13.08
+  hansa:12.91
+  sig:12.88
+  vendor:11.11
+  buyers:7.44
+  parties:5.40
+  isnt:4.71
+
+K: 5, Log-Likelihood: -9329.137, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  account:1.34
+  vendor:1.16
+  deposit:0.78
+  markets:0.74
+  agora:0.59
+  stuff:0.58
+  html:0.58
+  lacbzxobeprssrfx:0.58
+  topic:0.58
+  follow:0.58
+
+Topic 1:
+  account:2.73
+  vendor:1.41
+  markets:0.98
+  deposit:0.76
+  youve:0.62
+  selling:0.62
+  php:0.61
+  follow:0.61
+  topic:0.61
+  stuff:0.61
+
+Topic 2:
+  vendor:2.05
+  account:1.65
+  deposit:0.78
+  markets:0.77
+  selling:0.62
+  youve:0.61
+  onion:0.61
+  stuff:0.61
+  agora:0.60
+  follow:0.60
+
+Topic 3:
+  account:3.43
+  vendor:2.52
+  deposit:0.82
+  markets:0.75
+  lacbzxobeprssrfx:0.64
+  youve:0.62
+  php:0.62
+  html:0.62
+  follow:0.62
+  amount:0.62
+
+Topic 4:
+  vendor:2.85
+  account:2.85
+  deposit:0.86
+  markets:0.76
+  onion:0.64
+  topic:0.63
+  amount:0.63
+  html:0.63
+  agora:0.62
+  stuff:0.62
+
+K: 5, Log-Likelihood: -870.826, Alpha: 11.000, Beta: 1.100

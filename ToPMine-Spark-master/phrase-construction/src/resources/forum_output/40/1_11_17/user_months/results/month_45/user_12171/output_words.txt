@@ -1,0 +1,61 @@
+Topic 0:
+  group:0.81
+  hub:0.60
+  focus:0.58
+  communities:0.40
+  administrators:0.40
+  post:0.40
+  bitcoin:0.40
+  permission:0.40
+  privacy:0.20
+  clearnet:0.20
+
+Topic 1:
+  group:0.79
+  focus:0.60
+  hub:0.60
+  permission:0.40
+  communities:0.40
+  post:0.40
+  bitcoin:0.40
+  administrators:0.40
+  private:0.20
+  depth:0.20
+
+Topic 2:
+  group:0.84
+  focus:0.62
+  hub:0.60
+  administrators:0.40
+  permission:0.40
+  communities:0.40
+  bitcoin:0.40
+  post:0.40
+  pm:0.20
+  find:0.20
+
+Topic 3:
+  group:0.78
+  focus:0.61
+  hub:0.60
+  bitcoin:0.41
+  post:0.40
+  communities:0.40
+  permission:0.40
+  administrators:0.40
+  applying:0.20
+  discussion:0.20
+
+Topic 4:
+  group:0.78
+  hub:0.59
+  focus:0.59
+  administrators:0.40
+  permission:0.40
+  bitcoin:0.40
+  post:0.40
+  communities:0.40
+  plan:0.20
+  bitcoins:0.20
+
+K: 5, Log-Likelihood: -359.291, Alpha: 11.000, Beta: 1.100

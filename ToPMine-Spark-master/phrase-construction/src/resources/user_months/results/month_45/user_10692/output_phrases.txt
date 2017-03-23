@@ -1,0 +1,61 @@
+Topic 0:
+  post:0.08
+  day:0.08
+  hahahahaha:0.08
+  week:0.08
+  server:0.00
+  powered:0.00
+  fuel:0.00
+  ya:0.00
+  constantly:0.00
+  good:0.00
+
+Topic 1:
+  day:0.08
+  hahahahaha:0.08
+  post:0.08
+  week:0.08
+  server:0.00
+  powered:0.00
+  fuel:0.00
+  ya:0.00
+  constantly:0.00
+  good:0.00
+
+Topic 2:
+  week:0.08
+  hahahahaha:0.08
+  day:0.08
+  post:0.08
+  server:0.00
+  powered:0.00
+  fuel:0.00
+  ya:0.00
+  constantly:0.00
+  good:0.00
+
+Topic 3:
+  post:0.08
+  week:0.08
+  day:0.08
+  hahahahaha:0.08
+  server:0.00
+  powered:0.00
+  fuel:0.00
+  ya:0.00
+  constantly:0.00
+  good:0.00
+
+Topic 4:
+  hahahahaha:0.08
+  post:0.08
+  week:0.08
+  day:0.08
+  server:0.00
+  powered:0.00
+  fuel:0.00
+  ya:0.00
+  constantly:0.00
+  good:0.00
+
+K: 5, Log-Likelihood: -4.670, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:5.91
+  sr:2.43
+  ootp:2.41
+  vendor:2.34
+  scamming:2.34
+  markets:2.31
+  fluctuations:1.88
+  government:1.83
+  agencies:1.79
+  bitcoin:1.78
+
+Topic 1:
+  site:7.35
+  april:5.31
+  scidmt:4.90
+  simple:3.94
+  start:3.86
+  ootp:3.84
+  interested:3.80
+  creating:3.77
+  quote:3.61
+  vendor:3.47
+
+Topic 2:
+  markets:4.97
+  ootp:3.72
+  scamming:3.40
+  sr:3.30
+  vendors:3.28
+  good:2.79
+  paranoia:1.92
+  bitcoin:1.90
+  agencies:1.89
+  government:1.85
+
+Topic 3:
+  email:13.02
+  market:12.97
+  direct:12.76
+  vendor:9.29
+  buying:7.94
+  time:7.71
+  site:6.29
+  consuming:5.68
+  storing:5.68
+  thefieldmouse:3.79
+
+Topic 4:
+  vendor:7.23
+  site:6.72
+  scidmt:3.92
+  vendors:3.86
+  ootp:2.96
+  april:2.65
+  quote:1.97
+  advantages:1.88
+  creating:1.62
+  interested:1.57
+
+K: 5, Log-Likelihood: -2565.023, Alpha: 11.000, Beta: 1.100

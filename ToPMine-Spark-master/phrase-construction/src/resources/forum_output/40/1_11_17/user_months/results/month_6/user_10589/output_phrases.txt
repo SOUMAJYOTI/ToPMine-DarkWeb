@@ -1,0 +1,61 @@
+Topic 0:
+  money order:22.52
+  purchase:17.66
+  images:16.86
+  store:15.45
+  person:15.14
+  purchased btc:11.24
+  leo:11.24
+  purchase btc:11.24
+  image:11.24
+  washing coins:11.24
+
+Topic 1:
+  email:21.01
+  free:19.22
+  tor:14.67
+  net:12.87
+  email service:12.87
+  mail service:10.31
+  thunderbird:10.05
+  pop:10.03
+  tails:9.67
+  mail servers located:9.65
+
+Topic 2:
+  safe mail net:35.10
+  israel government:25.75
+  barak net il:12.87
+  israel:12.34
+  review thread:11.18
+  anonymous:10.00
+  services:9.65
+  disclosure:9.65
+  march pmquote:8.38
+  safe mail:8.30
+
+Topic 3:
+  quote:10.50
+  coins:9.92
+  buy sell bitcoin:9.65
+  bitcoin fog:8.99
+  service:8.38
+  metadata:8.32
+  mail:7.25
+  bitcoin:6.46
+  mycelium:6.43
+  localbitcoins:6.43
+
+Topic 4:
+  pgp:18.42
+  subpoena hush:12.87
+  privacy policy:11.22
+  email metadata:11.18
+  flowers april amquote:9.99
+  mail:9.64
+  contact safe mail isnt:9.02
+  email provider irrelevant gog:9.02
+  trolltergeist april pmone drawback:9.02
+  email:8.93
+
+K: 5, Log-Likelihood: -40381.551, Alpha: 11.000, Beta: 1.100

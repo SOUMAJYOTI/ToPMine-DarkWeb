@@ -1,0 +1,61 @@
+Topic 0:
+  accessible:1.76
+  sites:1.75
+  onion site:1.75
+  sorta:1.74
+  disguised:1.73
+  clearnet clearnet:1.73
+  ehhhh:1.73
+  thought:1.69
+  onion:1.15
+  site:1.13
+
+Topic 1:
+  september:1.26
+  quote:1.25
+  saywhat:1.25
+  linkgood:1.24
+  eye:1.23
+  crap:0.75
+  clearnet:0.75
+  googling:0.74
+  browseable:0.73
+  jane:0.72
+
+Topic 2:
+  navigate:1.56
+  store:1.55
+  site tor:1.54
+  searched:1.54
+  google:1.53
+  pushingtabu:1.53
+  gammagoblins:1.52
+  swiss:1.52
+  strange:1.52
+  bliss:1.51
+
+Topic 3:
+  dns:1.90
+  bookmarked:1.90
+  indexing:1.90
+  good:1.89
+  addresses:1.89
+  start:1.89
+  interesting:1.89
+  search:1.89
+  public:1.89
+  forum:1.88
+
+Topic 4:
+  browseable:0.82
+  jane:0.82
+  clearnet:0.81
+  googling:0.80
+  crap:0.80
+  bad:0.73
+  site:0.68
+  onion:0.66
+  eye:0.65
+  september:0.64
+
+K: 5, Log-Likelihood: -593.918, Alpha: 11.000, Beta: 1.100

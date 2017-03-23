@@ -1,0 +1,61 @@
+Topic 0:
+  worth:2.96
+  received:2.96
+  organization:2.96
+  markets:1.84
+  instance:1.46
+  federal:1.46
+  steps:1.46
+  mix:1.46
+  linking:1.46
+  tumbling:1.46
+
+Topic 1:
+  effective:1.19
+  invaluable:1.19
+  darknet users:1.19
+  shy:1.19
+  commodity:1.19
+  service:1.19
+  bitcoin:1.06
+  dont:1.05
+  tempted:0.75
+  idea:0.75
+
+Topic 2:
+  user:4.03
+  key grams:4.03
+  track transactions:3.05
+  bitcoin:2.27
+  dont:2.06
+  needed:1.91
+  servers:1.91
+  transactions helix:1.91
+  track:1.91
+  grams track:1.90
+
+Topic 3:
+  sounds:3.11
+  works:2.93
+  coins:2.42
+  havent:1.69
+  ensure:1.43
+  laundered:1.43
+  interesting:1.43
+  launder:1.43
+  intrigued:1.43
+  realise:1.43
+
+Topic 4:
+  grams:5.58
+  entry fee:4.46
+  helix withdraw:4.46
+  money:4.46
+  helix system:4.46
+  privacy:2.95
+  night:2.95
+  reserve:2.95
+  clients:2.95
+  maximum:2.95
+
+K: 5, Log-Likelihood: -3251.210, Alpha: 11.000, Beta: 1.100

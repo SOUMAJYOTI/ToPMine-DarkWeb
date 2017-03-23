@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:0.81
+  encourage:0.48
+  dn:0.46
+  referred:0.46
+  cola:0.43
+  ve:0.43
+  knowledge:0.23
+  hansa market:0.23
+  exit:0.23
+  people:0.23
+
+Topic 1:
+  vendors:0.54
+  hansa market:0.37
+  knowledge:0.37
+  exit:0.37
+  people:0.37
+  ve:0.36
+  cola:0.36
+  dn:0.33
+  referred:0.33
+  encourage:0.33
+
+Topic 2:
+  vendors:0.90
+  referred:0.52
+  dn:0.52
+  encourage:0.51
+  cola:0.42
+  ve:0.42
+  product:0.24
+  grown:0.24
+  young:0.24
+  waived:0.24
+
+Topic 3:
+  vendors:0.47
+  hansa market:0.43
+  exit:0.43
+  knowledge:0.43
+  people:0.43
+  cola:0.34
+  ve:0.34
+  encourage:0.30
+  referred:0.29
+  dn:0.29
+
+Topic 4:
+  people:0.61
+  exit:0.61
+  knowledge:0.60
+  hansa market:0.60
+  vendors:0.34
+  ve:0.28
+  cola:0.28
+  insures:0.26
+  multisignature:0.26
+  customers:0.26
+
+K: 5, Log-Likelihood: -471.793, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  quote:5.65
+  september:5.63
+  word:5.62
+  ambernie sanders man:4.44
+  painful:4.44
+  campaigning:4.44
+  delusion:4.44
+  perpetuation:4.44
+  fine:4.44
+  chance election:4.44
+
+Topic 1:
+  election:8.86
+  candidates:6.81
+  jeb:6.61
+  affiliation triggering filter struggling:5.21
+  find word naughty:5.20
+  typed curse racial slur:4.61
+  elector:4.39
+  bit:4.39
+  names:4.39
+  honesty:4.39
+
+Topic 2:
+  time:9.78
+  qouted darwin posessed ghosts:5.78
+  neurosurgeon belives creationism:5.78
+  entertainer president material runner:5.78
+  stuff real:5.78
+  donald coarse choose surprising:5.78
+  entertaining thougherly enjoying reading:5.78
+  happening stray politics election:5.78
+  president american feeling:5.78
+  leg:4.43
+
+Topic 3:
+  people:9.01
+  america:8.40
+  win:7.12
+  word post:6.77
+  word allowed forms tit:6.73
+  dr:4.38
+  thumpers:4.38
+  die:4.38
+  ringer:4.38
+  xanax:4.38
+
+Topic 4:
+  bernie sanders:6.68
+  military:4.42
+  bernie:4.42
+  foaming:4.42
+  scare:4.42
+  mouth:4.42
+  rest:4.42
+  hell:4.42
+  war:4.42
+  cnn time:4.42
+
+K: 5, Log-Likelihood: -7918.507, Alpha: 11.000, Beta: 1.100

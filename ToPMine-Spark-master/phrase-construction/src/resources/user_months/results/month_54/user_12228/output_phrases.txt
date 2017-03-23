@@ -1,0 +1,61 @@
+Topic 0:
+  peter:0.60
+  private keys release:0.32
+  ei:0.31
+  mary:0.24
+  tai:0.24
+  signature:0.24
+  suoraan:0.17
+  jne:0.17
+  public:0.16
+  keys:0.16
+
+Topic 1:
+  peter:0.56
+  private keys release:0.31
+  ei:0.30
+  tai:0.23
+  signature:0.23
+  mary:0.23
+  suoraan:0.17
+  jne:0.17
+  saattaa:0.16
+  vaiheessa:0.16
+
+Topic 2:
+  peter:0.76
+  private keys release:0.35
+  ei:0.34
+  mary:0.26
+  signature:0.26
+  tai:0.26
+  osalta:0.17
+  agree:0.17
+  held:0.17
+  sti:0.17
+
+Topic 3:
+  peter:0.74
+  ei:0.34
+  private keys release:0.34
+  mary:0.25
+  tai:0.25
+  signature:0.25
+  sign:0.17
+  silkkitien:0.17
+  kusettajamyyjien:0.17
+  escrow:0.17
+
+Topic 4:
+  peter:0.59
+  ei:0.31
+  private keys release:0.31
+  signature:0.24
+  tai:0.24
+  mary:0.24
+  jne:0.17
+  suoraan:0.17
+  susi:0.16
+  public:0.16
+
+K: 5, Log-Likelihood: -856.036, Alpha: 11.000, Beta: 1.100

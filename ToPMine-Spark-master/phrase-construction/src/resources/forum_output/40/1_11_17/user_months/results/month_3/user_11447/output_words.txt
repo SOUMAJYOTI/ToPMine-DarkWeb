@@ -1,0 +1,61 @@
+Topic 0:
+  key:1.41
+  public:1.36
+  sp:0.88
+  hh:0.87
+  rb:0.86
+  block:0.85
+  pip:0.77
+  vlanbjqs:0.37
+  aj:0.37
+  vxzfrx:0.37
+
+Topic 1:
+  pip:0.45
+  public:0.40
+  key:0.39
+  contact:0.38
+  pm:0.38
+  rb:0.31
+  block:0.30
+  hh:0.30
+  sp:0.30
+  carved:0.27
+
+Topic 2:
+  escrow:4.70
+  pgp:3.90
+  litecoin:3.71
+  promotion:2.94
+  accounts:2.94
+  message:2.89
+  site:2.82
+  transactions:2.72
+  system:2.72
+  tor:2.72
+
+Topic 3:
+  pm:0.54
+  contact:0.53
+  year:0.50
+  ive:0.50
+  cc:0.50
+  account:0.50
+  changed:0.50
+  havent:0.50
+  carved:0.50
+  netflix:0.34
+
+Topic 4:
+  public:0.96
+  key:0.92
+  pip:0.67
+  block:0.62
+  rb:0.61
+  hh:0.61
+  sp:0.60
+  contact:0.36
+  pm:0.36
+  jp:0.32
+
+K: 5, Log-Likelihood: -3181.688, Alpha: 11.000, Beta: 1.100

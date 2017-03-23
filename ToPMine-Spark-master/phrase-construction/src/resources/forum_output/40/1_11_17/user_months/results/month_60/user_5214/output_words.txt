@@ -1,0 +1,61 @@
+Topic 0:
+  tor:10.78
+  people:7.57
+  safe:5.88
+  browse:5.09
+  immagine:5.09
+  tails:4.98
+  learn:4.64
+  crack:3.84
+  good:3.60
+  dn:3.53
+
+Topic 1:
+  vm:12.88
+  subway:7.72
+  helicopter:7.72
+  safe:6.01
+  sector:5.93
+  data:5.93
+  computer:5.17
+  tor:4.91
+  wifi:4.77
+  recommend:4.44
+
+Topic 2:
+  virtual:5.80
+  computer:5.62
+  language:4.37
+  vpn:4.18
+  network:3.29
+  java:3.26
+  javascript:3.22
+  programming:3.15
+  interest:2.90
+  stands:2.83
+
+Topic 3:
+  tails:14.27
+  good:9.61
+  security:8.71
+  usb:8.56
+  shopping:7.80
+  easy:7.22
+  thinkpad:6.51
+  refurbished:6.45
+  offers:5.61
+  laptop:5.11
+
+Topic 4:
+  tails:5.29
+  opsec:4.52
+  vpn:3.88
+  computer:3.15
+  network:2.98
+  javascript:2.59
+  java:2.57
+  virtual:2.39
+  day:2.27
+  trouble:2.15
+
+K: 5, Log-Likelihood: -5563.748, Alpha: 11.000, Beta: 1.100

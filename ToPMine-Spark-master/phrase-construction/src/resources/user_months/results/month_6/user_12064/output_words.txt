@@ -1,0 +1,61 @@
+Topic 0:
+  evolution:0.61
+  admins:0.40
+  testing:0.40
+  curious:0.20
+  utopia:0.20
+  thought:0.20
+  ilovespagetti:0.20
+  arrested:0.20
+  selling:0.20
+  opinion:0.20
+
+Topic 1:
+  evolution:0.58
+  admins:0.41
+  testing:0.40
+  servers:0.20
+  defensive:0.20
+  greedy:0.20
+  depending:0.20
+  programming:0.20
+  shattered:0.20
+  admit:0.20
+
+Topic 2:
+  evolution:0.59
+  testing:0.40
+  admins:0.40
+  market:0.20
+  services:0.20
+  frank:0.20
+  toying:0.20
+  fact:0.20
+  opsec:0.20
+  image:0.20
+
+Topic 3:
+  evolution:0.61
+  testing:0.40
+  admins:0.40
+  dont:0.20
+  total:0.20
+  confront:0.20
+  sell:0.20
+  pen:0.20
+  toying:0.20
+  league:0.20
+
+Topic 4:
+  evolution:0.61
+  admins:0.40
+  testing:0.40
+  number:0.20
+  surface:0.20
+  increases:0.20
+  adversaries:0.20
+  attack:0.20
+  fast:0.20
+  setup:0.20
+
+K: 5, Log-Likelihood: -244.829, Alpha: 11.000, Beta: 1.100

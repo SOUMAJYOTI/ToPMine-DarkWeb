@@ -1,0 +1,61 @@
+Topic 0:
+  pm:1.34
+  albions:1.01
+  vendors:0.98
+  albion:0.95
+  shop:0.91
+  orders:0.82
+  store:0.62
+  november:0.42
+  running:0.42
+  expected:0.42
+
+Topic 1:
+  shop:1.10
+  pm:1.04
+  albion:1.03
+  albions:0.97
+  vendors:0.96
+  orders:0.81
+  store:0.61
+  change:0.43
+  topic:0.43
+  moment:0.43
+
+Topic 2:
+  pm:1.29
+  vendors:1.07
+  albions:1.02
+  shop:1.00
+  albion:0.90
+  orders:0.74
+  store:0.60
+  reachable:0.42
+  suits:0.41
+  find:0.41
+
+Topic 3:
+  pm:1.08
+  shop:1.07
+  albion:1.06
+  albions:1.00
+  vendors:0.94
+  orders:0.84
+  store:0.58
+  days:0.42
+  accept:0.41
+  topic:0.41
+
+Topic 4:
+  pm:1.26
+  albion:1.06
+  vendors:1.05
+  albions:1.01
+  shop:0.92
+  orders:0.79
+  store:0.60
+  provide:0.41
+  accepting:0.41
+  updating:0.41
+
+K: 5, Log-Likelihood: -392.086, Alpha: 11.000, Beta: 1.100

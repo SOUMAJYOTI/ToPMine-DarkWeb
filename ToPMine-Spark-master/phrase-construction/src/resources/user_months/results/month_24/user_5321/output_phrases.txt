@@ -1,0 +1,61 @@
+Topic 0:
+  agora:0.16
+  doesn:0.08
+  cancel:0.08
+  buyers:0.08
+  evolution:0.08
+  staff:0.08
+  find:0.08
+  agra:0.08
+  invite:0.08
+  solve:0.08
+
+Topic 1:
+  agora:0.16
+  yesterday:0.08
+  buyer:0.08
+  german:0.08
+  bug:0.08
+  person:0.08
+  access:0.08
+  topics:0.08
+  accounts:0.08
+  official:0.08
+
+Topic 2:
+  agora:0.16
+  forum:0.08
+  accounts:0.08
+  access:0.08
+  buyer:0.08
+  official:0.08
+  topics:0.08
+  wrote:0.08
+  bug:0.08
+  yesterday:0.08
+
+Topic 3:
+  agora:0.16
+  solve:0.08
+  days:0.08
+  ordered:0.08
+  cancel:0.08
+  business:0.08
+  restart:0.08
+  majestic:0.08
+  find:0.08
+  agra:0.08
+
+Topic 4:
+  agora:0.16
+  find:0.08
+  restart:0.08
+  shop:0.08
+  majestic:0.08
+  evolution:0.08
+  business:0.08
+  hope:0.08
+  open:0.08
+  moment:0.08
+
+K: 5, Log-Likelihood: -44.889, Alpha: 11.000, Beta: 1.100

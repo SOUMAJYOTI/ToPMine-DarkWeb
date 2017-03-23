@@ -1,0 +1,61 @@
+Topic 0:
+  sr:1.73
+  defcon:1.43
+  dox:0.55
+  half:0.50
+  running:0.50
+  care:0.43
+  clu:0.43
+  left:0.43
+  didnt:0.43
+  team:0.42
+
+Topic 1:
+  sr:1.64
+  defcon:1.40
+  dox:0.53
+  half:0.50
+  running:0.50
+  dev:0.44
+  team:0.44
+  care:0.43
+  left:0.43
+  clu:0.43
+
+Topic 2:
+  defcon:1.53
+  sr:1.42
+  dox:0.57
+  running:0.55
+  half:0.53
+  care:0.42
+  staff:0.42
+  left:0.42
+  bit:0.41
+  clu:0.41
+
+Topic 3:
+  half:2.19
+  running:2.18
+  dox:0.99
+  defcon:0.94
+  sites:0.85
+  wrote:0.85
+  single:0.85
+  guy:0.85
+  markets:0.85
+  allegedly:0.85
+
+Topic 4:
+  sr:2.80
+  defcon:1.71
+  bit:0.59
+  didnt:0.58
+  dev:0.57
+  team:0.57
+  clu:0.53
+  left:0.52
+  care:0.50
+  dox:0.36
+
+K: 5, Log-Likelihood: -695.734, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  referred:5.09
+  long:4.45
+  humble:3.97
+  server:3.75
+  custom:3.66
+  quote:3.63
+  materials:3.47
+  link:3.45
+  print:3.02
+  things:3.01
+
+Topic 1:
+  skype:9.81
+  ms:5.91
+  good:5.89
+  pretty:5.62
+  dont:5.32
+  secure:4.67
+  latency:4.54
+  people:4.29
+  clear:3.81
+  application:3.81
+
+Topic 2:
+  btc:9.95
+  coin:5.63
+  transaction:3.89
+  coins:3.80
+  referred:3.08
+  blockchain:2.95
+  address:2.95
+  hours:2.85
+  double:2.74
+  addresses:2.68
+
+Topic 3:
+  voice:15.76
+  people:7.08
+  video:6.88
+  dont:6.87
+  quote:6.40
+  room:5.84
+  encrusted:5.77
+  zrtp:5.19
+  link:5.17
+  ant:4.85
+
+Topic 4:
+  agora:11.02
+  account:10.18
+  market:9.83
+  time:7.78
+  service:6.32
+  referred:4.88
+  sales:4.76
+  evo:4.70
+  info:4.59
+  link:4.58
+
+K: 5, Log-Likelihood: -8194.112, Alpha: 11.000, Beta: 1.100

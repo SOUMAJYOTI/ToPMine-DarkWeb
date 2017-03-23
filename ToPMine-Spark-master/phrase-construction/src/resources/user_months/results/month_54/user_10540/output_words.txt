@@ -1,0 +1,61 @@
+Topic 0:
+  privacy:52.94
+  surveillance:26.65
+  goals:21.86
+  data:13.10
+  organization:9.38
+  individuals:8.86
+  control:7.92
+  social:7.50
+  subject:6.80
+  goal:6.51
+
+Topic 1:
+  public:18.62
+  key:13.98
+  cryptonote:11.15
+  private:10.30
+  senders:9.98
+  keys:9.98
+  sender:9.98
+  transactions:8.92
+  receiver:7.98
+  transaction:7.98
+
+Topic 2:
+  surveillance:89.12
+  data:18.84
+  privacy:18.78
+  control:15.23
+  social:12.49
+  individuals:11.13
+  rules:9.65
+  publicity:9.59
+  involves:9.55
+  personal:9.37
+
+Topic 3:
+  team:39.99
+  hacking:38.99
+  company:15.99
+  fbi:15.15
+  software:13.77
+  enforcement:11.11
+  wrote:9.99
+  law:9.09
+  system:9.08
+  district:7.99
+
+Topic 4:
+  monero:8.94
+  bytecoin:8.32
+  cryptonote:3.82
+  july:3.00
+  worth:2.97
+  bitcoin:2.60
+  btc:1.97
+  intel:1.96
+  isnt:1.96
+  highest:1.94
+
+K: 5, Log-Likelihood: -26470.469, Alpha: 11.000, Beta: 1.100

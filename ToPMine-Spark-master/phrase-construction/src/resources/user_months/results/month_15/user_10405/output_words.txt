@@ -1,0 +1,61 @@
+Topic 0:
+  service:0.61
+  read:0.61
+  anonymous:0.60
+  tor:0.41
+  techniques:0.40
+  person:0.40
+  remember:0.40
+  doesnt:0.40
+  privnote:0.40
+  hosting:0.40
+
+Topic 1:
+  read:0.60
+  anonymous:0.59
+  service:0.59
+  privnote:0.41
+  hosting:0.40
+  add:0.40
+  remember:0.40
+  sharing:0.40
+  services:0.40
+  tor:0.40
+
+Topic 2:
+  read:0.60
+  service:0.60
+  anonymous:0.59
+  techniques:0.40
+  services:0.40
+  person:0.40
+  doesnt:0.40
+  sharing:0.40
+  hosting:0.40
+  add:0.40
+
+Topic 3:
+  service:0.61
+  anonymous:0.60
+  read:0.60
+  hosting:0.40
+  privnote:0.40
+  sharing:0.40
+  person:0.40
+  remember:0.40
+  doesnt:0.40
+  services:0.40
+
+Topic 4:
+  anonymous:0.62
+  read:0.60
+  service:0.60
+  add:0.40
+  services:0.40
+  doesnt:0.40
+  sharing:0.40
+  techniques:0.40
+  remember:0.40
+  tor:0.40
+
+K: 5, Log-Likelihood: -393.021, Alpha: 11.000, Beta: 1.100

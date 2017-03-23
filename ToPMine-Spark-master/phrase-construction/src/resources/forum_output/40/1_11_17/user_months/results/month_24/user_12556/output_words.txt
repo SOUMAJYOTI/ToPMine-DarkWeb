@@ -1,0 +1,61 @@
+Topic 0:
+  blockchain:0.70
+  ja:0.59
+  sanoo:0.43
+  mit:0.43
+  olen:0.42
+  hett:0.35
+  network:0.22
+  transactions:0.22
+  infoa:0.22
+  huonompi:0.22
+
+Topic 1:
+  ja:0.60
+  blockchain:0.53
+  hett:0.46
+  olen:0.38
+  mit:0.37
+  sanoo:0.37
+  osoitteeseen:0.22
+  lompakkooni:0.22
+  lompakko:0.22
+  kokee:0.22
+
+Topic 2:
+  blockchain:0.59
+  ja:0.59
+  hett:0.42
+  sanoo:0.40
+  mit:0.40
+  olen:0.39
+  hitautta:0.20
+  ne:0.20
+  ainoa:0.20
+  tilasin:0.20
+
+Topic 3:
+  ja:0.61
+  blockchain:0.60
+  olen:0.41
+  sanoo:0.41
+  mit:0.41
+  hett:0.37
+  selvinnyt:0.21
+  tt:0.21
+  vika:0.21
+  ei:0.20
+
+Topic 4:
+  ja:0.61
+  blockchain:0.58
+  olen:0.40
+  hett:0.40
+  sanoo:0.39
+  mit:0.39
+  pahoillani:0.20
+  kyseess:0.20
+  ei:0.20
+  ni:0.20
+
+K: 5, Log-Likelihood: -259.418, Alpha: 11.000, Beta: 1.100

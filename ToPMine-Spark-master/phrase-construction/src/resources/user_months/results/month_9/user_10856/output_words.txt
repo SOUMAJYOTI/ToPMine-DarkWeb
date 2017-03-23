@@ -1,0 +1,61 @@
+Topic 0:
+  javascript:8.49
+  whonix:7.07
+  physical:5.13
+  altogether:2.85
+  option:2.85
+  vm:2.33
+  computers:2.32
+  technology:1.83
+  recommended:1.79
+  developers:1.79
+
+Topic 1:
+  machine:3.88
+  running:3.06
+  tor:2.91
+  point:2.66
+  gateway:2.44
+  access:2.14
+  solution:1.87
+  browser:1.86
+  correct:1.84
+  pi:1.82
+
+Topic 2:
+  free:4.81
+  great:3.24
+  security:2.49
+  tor:2.23
+  personally:1.93
+  forums:1.93
+  users:1.93
+  advice:1.93
+  quote:1.62
+  march:1.62
+
+Topic 3:
+  machine:3.05
+  gateway:3.00
+  pi:1.86
+  point:1.79
+  running:1.76
+  tor:1.72
+  javascript:1.68
+  quote:1.03
+  march:1.01
+  vm:0.99
+
+Topic 4:
+  workstation:4.42
+  phoenix:3.83
+  people:2.20
+  firelight:1.87
+  snapshot:1.84
+  fact:1.50
+  time:1.49
+  whonix:1.45
+  visit:1.34
+  isolation:1.32
+
+K: 5, Log-Likelihood: -2134.869, Alpha: 11.000, Beta: 1.100

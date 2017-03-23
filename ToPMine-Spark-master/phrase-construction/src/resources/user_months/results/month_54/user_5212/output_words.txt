@@ -1,0 +1,61 @@
+Topic 0:
+  thread:0.81
+  vendor:0.62
+  selling:0.59
+  throw:0.41
+  stand:0.41
+  hoping:0.41
+  order:0.41
+  day:0.41
+  pgp:0.41
+  mail:0.41
+
+Topic 1:
+  thread:0.77
+  vendor:0.60
+  selling:0.58
+  mail:0.41
+  address:0.41
+  key:0.41
+  pub:0.41
+  pgp:0.41
+  kitties:0.41
+  day:0.41
+
+Topic 2:
+  thread:0.78
+  selling:0.63
+  vendor:0.60
+  markets:0.41
+  aware:0.41
+  work:0.41
+  asked:0.41
+  pleasure:0.41
+  cm:0.41
+  kitties:0.41
+
+Topic 3:
+  thread:0.81
+  selling:0.62
+  vendor:0.58
+  cm:0.41
+  kitties:0.41
+  pleasure:0.41
+  work:0.41
+  markets:0.41
+  aware:0.41
+  asked:0.41
+
+Topic 4:
+  thread:0.82
+  vendor:0.60
+  selling:0.59
+  days:0.41
+  hoping:0.41
+  pgp:0.41
+  pub:0.41
+  order:0.41
+  day:0.41
+  stand:0.41
+
+K: 5, Log-Likelihood: -214.317, Alpha: 11.000, Beta: 1.100

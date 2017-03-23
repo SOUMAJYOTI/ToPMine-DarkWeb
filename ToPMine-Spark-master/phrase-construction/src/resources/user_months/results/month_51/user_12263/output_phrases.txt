@@ -1,0 +1,61 @@
+Topic 0:
+  en:0.28
+  positiivista:0.14
+  joil:0.14
+  palautetta:0.14
+  kadonneet:0.14
+  mutta:0.14
+  tota:0.14
+  myyji:0.14
+  kusetusta:0.14
+  olen:0.14
+
+Topic 1:
+  en:0.28
+  ennenku:0.14
+  negatiivista:0.14
+  tehnytkin:0.14
+  paljon:0.14
+  mutta:0.14
+  siis:0.14
+  positiivista:0.14
+  tota:0.14
+  palautetta:0.14
+
+Topic 2:
+  en:0.28
+  vet:0.14
+  asa:0.14
+  suurin:0.14
+  mik:0.14
+  feidaa:0.14
+  kolmas:0.14
+  yll:0.14
+  luotto:0.14
+  joka:0.14
+
+Topic 3:
+  en:0.28
+  uskalla:0.14
+  nyt:0.14
+  joka:0.14
+  myyjist:0.14
+  mit:0.14
+  asa:0.14
+  juttu:0.14
+  suurin:0.14
+  vet:0.14
+
+Topic 4:
+  en:0.28
+  negatiivista:0.14
+  joil:0.14
+  paljon:0.14
+  kadonneet:0.14
+  kusetusta:0.14
+  siis:0.14
+  palautetta:0.14
+  olen:0.14
+  positiivista:0.14
+
+K: 5, Log-Likelihood: -134.774, Alpha: 11.000, Beta: 1.100

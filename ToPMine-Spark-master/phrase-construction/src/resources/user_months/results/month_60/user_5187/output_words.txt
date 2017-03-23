@@ -1,0 +1,61 @@
+Topic 0:
+  dream:0.83
+  market:0.81
+  avengers:0.73
+  registration:0.72
+  love:0.71
+  invite:0.67
+  biggest:0.60
+  link:0.59
+  abraxas:0.59
+  safeftb:0.43
+
+Topic 1:
+  registration:0.84
+  market:0.81
+  love:0.80
+  dream:0.78
+  avengers:0.75
+  link:0.61
+  abraxas:0.61
+  biggest:0.61
+  invite:0.57
+  recommend:0.41
+
+Topic 2:
+  love:0.91
+  avengers:0.91
+  registration:0.85
+  market:0.80
+  dream:0.76
+  link:0.62
+  biggest:0.60
+  abraxas:0.60
+  invite:0.53
+  time:0.42
+
+Topic 3:
+  avengers:0.92
+  registration:0.89
+  love:0.88
+  market:0.83
+  dream:0.76
+  link:0.62
+  biggest:0.62
+  abraxas:0.61
+  invite:0.51
+  reliable:0.43
+
+Topic 4:
+  dream:0.87
+  market:0.75
+  invite:0.71
+  registration:0.70
+  love:0.70
+  avengers:0.70
+  abraxas:0.59
+  biggest:0.58
+  link:0.56
+  moving:0.46
+
+K: 5, Log-Likelihood: -316.290, Alpha: 11.000, Beta: 1.100

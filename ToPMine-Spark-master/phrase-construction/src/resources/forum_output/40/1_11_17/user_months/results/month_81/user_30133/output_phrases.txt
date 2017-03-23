@@ -1,0 +1,61 @@
+Topic 0:
+  hansa:1.06
+  mariosgramshoppe april pmwe:0.50
+  alternate market coins market:0.47
+  billyking:0.47
+  bill:0.47
+  hearing:0.47
+  april amquote:0.47
+  buyer pays vendor direct:0.47
+  check:0.47
+  honored referred link signature:0.45
+
+Topic 1:
+  hansa:1.16
+  april amquote:0.54
+  buyer pays vendor direct:0.54
+  check:0.54
+  billyking:0.53
+  bill:0.53
+  hearing:0.53
+  alternate market coins market:0.53
+  mariosgramshoppe april pmwe:0.49
+  mariosgramshoppe batch hcl base:0.42
+
+Topic 2:
+  hansa:0.92
+  mariosgramshoppe april pmwe:0.47
+  honored referred link signature:0.46
+  mario:0.44
+  check:0.43
+  hearing:0.43
+  bill:0.43
+  buyer pays vendor direct:0.43
+  alternate market coins market:0.43
+  billyking:0.43
+
+Topic 3:
+  mario:2.26
+  dolls:0.84
+  buy:0.84
+  lil:0.84
+  bucks:0.83
+  irl:0.83
+  cute:0.83
+  pics:0.83
+  mario doll:0.83
+  april:0.64
+
+Topic 4:
+  hansa:0.79
+  mario:0.56
+  honored referred link signature:0.44
+  mariosgramshoppe april pmwe:0.43
+  quote:0.40
+  mariosgramshoppe batch hcl base:0.40
+  april amquote:0.38
+  buyer pays vendor direct:0.37
+  alternate market coins market:0.37
+  billyking:0.37
+
+K: 5, Log-Likelihood: -358.668, Alpha: 11.000, Beta: 1.100

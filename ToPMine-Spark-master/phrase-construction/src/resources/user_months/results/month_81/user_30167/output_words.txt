@@ -1,0 +1,61 @@
+Topic 0:
+  bridges:2.77
+  hidden:0.90
+  service:0.84
+  connect:0.77
+  case:0.62
+  relays:0.61
+  connection:0.40
+  normal:0.40
+  bridge:0.40
+  works:0.40
+
+Topic 1:
+  bridges:2.97
+  hidden:1.00
+  connect:0.76
+  service:0.73
+  relays:0.58
+  case:0.57
+  tor:0.41
+  add:0.40
+  option:0.40
+  works:0.40
+
+Topic 2:
+  bridges:1.93
+  hidden:0.93
+  connect:0.90
+  service:0.73
+  case:0.71
+  relays:0.65
+  normal:0.44
+  bridge:0.44
+  connection:0.44
+  torrc:0.39
+
+Topic 3:
+  bridges:2.94
+  hidden:1.06
+  service:0.92
+  connect:0.80
+  relays:0.58
+  case:0.52
+  torrc:0.41
+  option:0.40
+  add:0.40
+  works:0.40
+
+Topic 4:
+  bridges:2.39
+  hidden:1.12
+  service:0.79
+  connect:0.77
+  relays:0.58
+  case:0.57
+  works:0.41
+  torrc:0.41
+  malicious:0.41
+  tor:0.41
+
+K: 5, Log-Likelihood: -387.341, Alpha: 11.000, Beta: 1.100

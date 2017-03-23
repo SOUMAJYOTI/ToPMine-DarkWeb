@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoinit:0.40
+  sen:0.40
+  miten:0.40
+  siksi:0.40
+  tied:0.40
+  myyj:0.40
+  ihin:0.20
+  en:0.20
+  lompakko:0.20
+  riitt:0.20
+
+Topic 1:
+  myyj:0.41
+  tied:0.40
+  sen:0.40
+  bitcoinit:0.40
+  siksi:0.40
+  miten:0.40
+  senk:0.20
+  pantin:0.20
+  juttuihin:0.20
+  bitcoinien:0.20
+
+Topic 2:
+  siksi:0.40
+  miten:0.40
+  sen:0.40
+  tied:0.40
+  myyj:0.40
+  bitcoinit:0.40
+  ovat:0.20
+  en:0.20
+  osoitteeseeni:0.20
+  noihin:0.20
+
+Topic 3:
+  miten:0.40
+  siksi:0.40
+  bitcoinit:0.40
+  sen:0.40
+  myyj:0.40
+  tied:0.40
+  suhteellisen:0.20
+  kanssa:0.20
+  keen:0.20
+  senk:0.20
+
+Topic 4:
+  tied:0.40
+  bitcoinit:0.40
+  siksi:0.40
+  miten:0.40
+  myyj:0.40
+  sen:0.40
+  viel:0.20
+  suhteellisen:0.20
+  varsinkin:0.20
+  enk:0.20
+
+K: 5, Log-Likelihood: -163.124, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  march:3.03
+  time:2.00
+  february:1.99
+  shifty:1.94
+  trading:1.94
+  health:1.83
+  thurs:1.83
+  closed:1.83
+  suspended:1.83
+  operation:1.83
+
+Topic 1:
+  fuck:3.16
+  swam:2.52
+  bluesky:2.52
+  wait:2.14
+  dont:2.14
+  potmenot march:1.99
+  market:1.90
+  times:1.87
+  becasue:1.87
+  dn:1.87
+
+Topic 2:
+  btc:2.79
+  yeah:2.68
+  start:1.87
+  finalized:1.87
+  responsive:1.87
+  admins:1.87
+  fud:1.87
+  works:1.87
+  fair:1.87
+  spreading:1.87
+
+Topic 3:
+  blue sky:2.74
+  thought:2.36
+  vendor:2.07
+  blue sky market:2.05
+  sr agora:1.89
+  outted scam long time:1.67
+  exchange:1.45
+  thing:1.45
+  bitcoin:1.45
+  listed scam:1.41
+
+Topic 4:
+  bsm scam:3.82
+  traders:2.58
+  market:2.18
+  cuz:1.88
+  sky market:1.88
+  premier:1.88
+  havnt:1.88
+  thread:1.88
+  functions:1.88
+  safest:1.88
+
+K: 5, Log-Likelihood: -1763.340, Alpha: 11.000, Beta: 1.100

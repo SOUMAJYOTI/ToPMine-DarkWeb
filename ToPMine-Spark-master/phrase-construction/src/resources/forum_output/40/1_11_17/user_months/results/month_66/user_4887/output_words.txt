@@ -1,0 +1,61 @@
+Topic 0:
+  dns:1.45
+  hack:1.31
+  vendors:0.97
+  shop:0.93
+  ahold:0.93
+  set:0.92
+  site:0.92
+  thing:0.91
+  sci:0.91
+  passwords:0.91
+
+Topic 1:
+  dns:2.21
+  hack:1.52
+  great:1.12
+  job:1.08
+  plug:1.06
+  ins:1.06
+  multiply:1.05
+  exact:1.03
+  site:1.03
+  easy:1.03
+
+Topic 2:
+  dns:2.11
+  hack:1.34
+  changed:0.98
+  ahold:0.98
+  set:0.95
+  thought:0.95
+  shop:0.95
+  thursday:0.95
+  happen:0.95
+  multiply:0.94
+
+Topic 3:
+  dns:1.98
+  hack:1.62
+  plug:1.05
+  personal:1.03
+  sci:1.01
+  hacked:1.01
+  thought:1.01
+  thing:1.01
+  safe:1.01
+  changed:1.00
+
+Topic 4:
+  coin:1.57
+  users:1.57
+  service:1.57
+  months:1.57
+  ago:1.57
+  wanted:1.57
+  tutorial:1.57
+  donate:1.57
+  interface:1.57
+  instructions:1.57
+
+K: 5, Log-Likelihood: -713.964, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  users:7.73
+  public:7.65
+  address:7.48
+  transaction:7.21
+  multisig:7.11
+  vendor:6.23
+  enter:5.74
+  keys:5.69
+  key:5.59
+  site:4.87
+
+Topic 1:
+  project:1.83
+  escrow:1.49
+  code:1.34
+  early:1.23
+  electrum:1.21
+  distributed:1.12
+  source:1.12
+  transactions:1.04
+  services:0.86
+  github:0.86
+
+Topic 2:
+  key:9.66
+  transaction:7.62
+  tx:6.90
+  vendor:6.63
+  address:6.23
+  code:6.21
+  electrum:5.33
+  site:5.31
+  transactions:4.85
+  order:4.69
+
+Topic 3:
+  electrum:3.22
+  transactions:3.00
+  address:2.62
+  users:2.29
+  site:2.08
+  key:1.84
+  public:1.56
+  multisig:1.52
+  multisignature:1.46
+  blockchain:1.45
+
+Topic 4:
+  electrum:14.08
+  bitcoind:3.47
+  qt:3.23
+  key:3.13
+  transactions:3.07
+  bitwasp:3.03
+  bitcoin:3.01
+  servers:2.90
+  multisignature:2.89
+  site:2.08
+
+K: 5, Log-Likelihood: -4595.621, Alpha: 11.000, Beta: 1.100

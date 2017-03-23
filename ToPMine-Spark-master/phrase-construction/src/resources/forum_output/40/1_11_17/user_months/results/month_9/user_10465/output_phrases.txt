@@ -1,0 +1,61 @@
+Topic 0:
+  didn:3.42
+  pandora:3.02
+  pandora market:2.73
+  understand:2.55
+  loss:2.47
+  money:2.09
+  vendor:1.73
+  truth:1.70
+  time:1.44
+  vendors:1.40
+
+Topic 1:
+  pandora market:5.74
+  pandora:3.94
+  understand:3.21
+  vendor:2.70
+  money:2.22
+  didn:2.08
+  loss:2.01
+  pandora survive:1.74
+  frantic measurements:1.67
+  paid vendors:1.60
+
+Topic 2:
+  money:7.99
+  pandora market:5.52
+  truth:5.49
+  pandora:5.28
+  vendors:4.21
+  loss:4.12
+  vendor:4.11
+  didn:3.13
+  understand:2.90
+  tax:2.80
+
+Topic 3:
+  withdrawal fee:5.52
+  quote:3.00
+  march:3.00
+  site:2.69
+  ill:2.66
+  alice:2.57
+  campare:1.98
+  dont:1.96
+  translate:1.94
+  english:1.92
+
+Topic 4:
+  btc:1.93
+  scammed:1.80
+  begining:1.67
+  speak:1.62
+  dealt:1.61
+  retrieving:1.60
+  good issues:1.60
+  leftover:1.60
+  bought:1.60
+  pandora:1.60
+
+K: 5, Log-Likelihood: -5671.143, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  scam:1.83
+  amir:1.83
+  people:1.43
+  chance:1.27
+  bitcoin:0.99
+  sites:0.74
+  money:0.72
+  shirts:0.61
+  magazine:0.59
+  months:0.58
+
+Topic 1:
+  month:4.85
+  days:3.22
+  received:2.65
+  updates:2.56
+  shirt:2.44
+  email:2.42
+  check:2.41
+  pig:1.79
+  plate:1.78
+  heard:1.77
+
+Topic 2:
+  shirts:1.98
+  scam:1.75
+  delivered:1.14
+  paid:1.14
+  subscriptions:1.14
+  things:1.14
+  magazine:1.10
+  people:1.09
+  months:0.93
+  amir:0.80
+
+Topic 3:
+  month:1.58
+  days:1.30
+  email:1.13
+  check:1.12
+  shirt:1.10
+  updates:0.97
+  received:0.91
+  happening:0.90
+  receive:0.90
+  project:0.89
+
+Topic 4:
+  months:1.07
+  project:0.70
+  magazine:0.65
+  team:0.61
+  posted:0.55
+  update:0.55
+  didnt:0.54
+  bitcoins:0.54
+  quote:0.48
+  month:0.42
+
+K: 5, Log-Likelihood: -1097.749, Alpha: 11.000, Beta: 1.100

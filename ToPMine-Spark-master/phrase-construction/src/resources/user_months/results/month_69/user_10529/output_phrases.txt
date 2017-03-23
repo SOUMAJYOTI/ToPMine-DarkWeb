@@ -1,0 +1,61 @@
+Topic 0:
+  easily:5.10
+  copy:5.08
+  desktop:5.08
+  filename:5.08
+  click:5.08
+  pip message:5.08
+  code:4.64
+  save:4.28
+  denying:4.27
+  certificate:4.27
+
+Topic 1:
+  vpn:9.90
+  tails:8.27
+  security:8.17
+  tor:7.85
+  good:5.11
+  nodes:5.11
+  strong:5.11
+  strong netsec:5.11
+  opsec:5.11
+  netsec:5.11
+
+Topic 2:
+  hang:6.43
+  vpn doesnt logs:4.78
+  quote:4.34
+  identify:4.27
+  tang february:4.27
+  irc:4.27
+  amben:4.27
+  kick:4.27
+  ll:4.27
+  hostile:4.27
+
+Topic 3:
+  message:8.90
+  tor:7.89
+  tails:5.83
+  option route agreed vpn:5.15
+  conjunction tails:5.15
+  option imo os support:5.15
+  vpon service devs designed:5.15
+  secure:5.09
+  set:5.09
+  software:5.09
+
+Topic 4:
+  browser:6.46
+  signature:5.69
+  longer:5.48
+  felt:5.08
+  talking:5.08
+  folder:5.06
+  persistent:4.99
+  tutorial:4.26
+  boot:4.22
+  care:4.16
+
+K: 5, Log-Likelihood: -8599.944, Alpha: 11.000, Beta: 1.100

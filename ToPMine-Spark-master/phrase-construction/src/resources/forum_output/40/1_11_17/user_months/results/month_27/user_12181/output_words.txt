@@ -1,0 +1,61 @@
+Topic 0:
+  links:1.26
+  wary:1.26
+  warning:0.62
+  clear:0.61
+  vendors:0.60
+  net:0.60
+  phishing:0.59
+  verified:0.59
+  october:0.59
+  yeah:0.40
+
+Topic 1:
+  wary:1.15
+  links:1.13
+  net:0.63
+  phishing:0.62
+  vendors:0.61
+  october:0.61
+  clear:0.61
+  verified:0.61
+  warning:0.60
+  quote:0.40
+
+Topic 2:
+  links:1.20
+  wary:1.15
+  october:0.64
+  vendors:0.61
+  phishing:0.60
+  warning:0.60
+  clear:0.60
+  verified:0.60
+  net:0.59
+  droz:0.41
+
+Topic 3:
+  links:1.27
+  wary:1.22
+  verified:0.61
+  net:0.61
+  october:0.60
+  vendors:0.60
+  clear:0.60
+  phishing:0.60
+  warning:0.59
+  yeah:0.40
+
+Topic 4:
+  wary:1.23
+  links:1.13
+  verified:0.59
+  clear:0.59
+  phishing:0.59
+  warning:0.59
+  net:0.58
+  vendors:0.58
+  october:0.56
+  betting:0.46
+
+K: 5, Log-Likelihood: -172.190, Alpha: 11.000, Beta: 1.100

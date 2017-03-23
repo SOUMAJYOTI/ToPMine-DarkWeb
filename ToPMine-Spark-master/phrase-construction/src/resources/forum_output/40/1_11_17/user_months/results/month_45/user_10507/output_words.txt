@@ -1,0 +1,61 @@
+Topic 0:
+  sites:22.79
+  privacy:19.38
+  hidden:11.93
+  truecrypt:11.88
+  wallets:9.99
+  wallet:9.35
+  top:9.08
+  complaint:8.98
+  obpp:7.99
+  ranvier:7.99
+
+Topic 1:
+  site:41.61
+  tor:24.29
+  mccoole:17.98
+  administrator:13.93
+  fbi:12.94
+  argos:12.49
+  children:12.36
+  child:11.98
+  road:11.55
+  silk:11.24
+
+Topic 2:
+  irc:28.87
+  people:28.31
+  identity:24.91
+  june:24.46
+  real:24.17
+  time:17.92
+  amquote:15.90
+  secure:14.75
+  media:14.70
+  nasty:14.58
+
+Topic 3:
+  key:23.71
+  keys:16.99
+  math:14.96
+  kind:13.62
+  hard:12.75
+  ross:11.28
+  women:10.96
+  public:10.49
+  shit:10.19
+  life:10.00
+
+Topic 4:
+  anonymous:65.29
+  members:17.01
+  quote:15.49
+  clearnet:12.57
+  tor:12.04
+  site:11.38
+  dig:9.94
+  warrant:9.93
+  didnt:8.70
+  chat:8.57
+
+K: 5, Log-Likelihood: -38331.157, Alpha: 11.000, Beta: 1.100

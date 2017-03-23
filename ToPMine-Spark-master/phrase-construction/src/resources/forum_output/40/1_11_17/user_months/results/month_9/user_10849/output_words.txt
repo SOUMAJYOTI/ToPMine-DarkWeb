@@ -1,0 +1,61 @@
+Topic 0:
+  disable:2.29
+  disabled:1.03
+  tor:0.86
+  set:0.84
+  browser:0.64
+  install:0.35
+  update:0.34
+  dont:0.31
+  thing:0.30
+  ship:0.30
+
+Topic 1:
+  forbid:5.94
+  click:5.94
+  scripts:5.65
+  version:3.06
+  browser:3.05
+  bundle:3.00
+  tor:2.96
+  box:2.94
+  steps:2.70
+  java:2.70
+
+Topic 2:
+  tor:1.96
+  browser:1.73
+  disable:1.24
+  disabled:0.78
+  install:0.56
+  update:0.52
+  tails:0.51
+  dont:0.48
+  set:0.45
+  bundle:0.41
+
+Topic 3:
+  browser:5.04
+  tails:4.89
+  tor:3.50
+  issues:2.57
+  bug:1.58
+  support:1.32
+  upgrade:1.27
+  user:1.21
+  release:0.97
+  update:0.95
+
+Topic 4:
+  tails:14.42
+  tor:9.72
+  browser:7.54
+  bug:6.85
+  release:5.56
+  support:5.16
+  issues:4.88
+  user:4.33
+  security:3.63
+  upgrade:3.21
+
+K: 5, Log-Likelihood: -3361.690, Alpha: 11.000, Beta: 1.100

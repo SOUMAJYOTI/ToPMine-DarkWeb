@@ -1,0 +1,51 @@
+Topic 0:
+  told:0.20
+  yea:0.20
+  minimum:0.20
+  support:0.20
+  asked:0.20
+  wallet:0.20
+  site:0.20
+  becasue:0.20
+
+Topic 1:
+  asked:0.20
+  becasue:0.20
+  wallet:0.20
+  yea:0.20
+  told:0.20
+  minimum:0.20
+  support:0.20
+  site:0.20
+
+Topic 2:
+  asked:0.20
+  told:0.20
+  site:0.20
+  becasue:0.20
+  minimum:0.20
+  support:0.20
+  wallet:0.20
+  yea:0.20
+
+Topic 3:
+  wallet:0.20
+  support:0.20
+  site:0.20
+  becasue:0.20
+  told:0.20
+  yea:0.20
+  asked:0.20
+  minimum:0.20
+
+Topic 4:
+  minimum:0.20
+  site:0.20
+  becasue:0.20
+  yea:0.20
+  support:0.20
+  asked:0.20
+  wallet:0.20
+  told:0.20
+
+K: 5, Log-Likelihood: -16.636, Alpha: 11.000, Beta: 1.100

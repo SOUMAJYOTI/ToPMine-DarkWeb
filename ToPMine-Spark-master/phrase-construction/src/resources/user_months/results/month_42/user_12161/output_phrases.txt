@@ -1,0 +1,61 @@
+Topic 0:
+  users:14.91
+  anonymity:12.89
+  money:12.87
+  provision anonymity:9.91
+  number:9.29
+  bitcoins:8.52
+  source code:8.29
+  anonymization:8.15
+  transactions:8.00
+  analysis:7.55
+
+Topic 1:
+  dash anonymous careful:3.98
+  pops:3.26
+  explain:3.23
+  guess april:3.22
+  pmdarkcoin:3.22
+  quote:3.22
+  article:2.40
+  markets:2.00
+  hope:2.00
+  utilize:2.00
+
+Topic 2:
+  bitcoin:10.04
+  darkcoin:6.89
+  users:5.86
+  money:5.81
+  anonymity:5.45
+  cryptocurrency:5.18
+  collective transaction:4.76
+  time:4.74
+  provision anonymity:4.62
+  transactions:4.45
+
+Topic 3:
+  recipient:4.14
+  output:4.14
+  multiply:4.14
+  transaction:3.98
+  darkcoin dash:2.31
+  quantities:2.06
+  weakness:2.06
+  idea:2.06
+  vendors:2.06
+  coin:2.06
+
+Topic 4:
+  tor:18.70
+  tor proxy:12.46
+  onion:8.30
+  onion addresses:8.30
+  listen:6.22
+  ssapp tmftyjmjb onion:6.22
+  onion address:6.22
+  externalip:6.22
+  hidden service:6.22
+  addresses:6.22
+
+K: 5, Log-Likelihood: -18979.768, Alpha: 11.000, Beta: 1.100

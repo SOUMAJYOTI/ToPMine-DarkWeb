@@ -1,0 +1,61 @@
+Topic 0:
+  account:0.95
+  contact:0.61
+  admins:0.60
+  password:0.41
+  dont:0.41
+  valhalla:0.40
+  real:0.40
+  problems:0.40
+  forgot:0.20
+  mace:0.20
+
+Topic 1:
+  account:1.07
+  admins:0.60
+  contact:0.59
+  real:0.40
+  problems:0.40
+  password:0.39
+  dont:0.39
+  valhalla:0.39
+  hoof:0.20
+  february:0.20
+
+Topic 2:
+  account:0.96
+  admins:0.62
+  contact:0.60
+  valhalla:0.41
+  problems:0.40
+  dont:0.40
+  real:0.40
+  password:0.40
+  markt:0.20
+  result:0.20
+
+Topic 3:
+  account:1.05
+  contact:0.60
+  admins:0.60
+  real:0.41
+  problems:0.40
+  dont:0.39
+  password:0.39
+  valhalla:0.39
+  quote:0.20
+  hoof:0.20
+
+Topic 4:
+  account:0.98
+  contact:0.60
+  admins:0.59
+  valhalla:0.41
+  password:0.41
+  dont:0.41
+  problems:0.39
+  real:0.39
+  idea:0.20
+  guy:0.20
+
+K: 5, Log-Likelihood: -131.726, Alpha: 11.000, Beta: 1.100

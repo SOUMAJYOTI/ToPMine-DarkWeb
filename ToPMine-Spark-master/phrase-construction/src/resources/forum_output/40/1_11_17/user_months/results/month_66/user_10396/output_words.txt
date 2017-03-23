@@ -1,0 +1,61 @@
+Topic 0:
+  november:2.69
+  safe:2.57
+  scam:2.25
+  exit:2.23
+  quote:1.50
+  confirmed:1.32
+  coming:1.23
+  lost:1.14
+  cryptic:1.14
+  likelihood:1.13
+
+Topic 1:
+  safe:1.88
+  exit:1.66
+  scam:1.63
+  lost:1.51
+  november:1.47
+  quote:1.33
+  coming:1.13
+  good:1.11
+  confirmed:0.97
+  likelihood:0.90
+
+Topic 2:
+  scam:3.22
+  exit:2.91
+  november:2.72
+  quote:1.73
+  good:1.55
+  likelihood:1.41
+  dodongo:1.13
+  lost:1.00
+  safe:0.84
+  louder:0.79
+
+Topic 3:
+  good:3.56
+  november:2.54
+  scam:2.35
+  exit:2.30
+  quote:1.49
+  passes:1.11
+  thizzlewizzard:1.11
+  agree:1.11
+  amit:1.11
+  knowledge:1.10
+
+Topic 4:
+  exit:3.90
+  november:3.58
+  scam:3.54
+  quote:1.95
+  likelihood:1.66
+  safe:1.32
+  dodongo:1.24
+  good:1.06
+  confirmed:0.82
+  movement:0.70
+
+K: 5, Log-Likelihood: -1273.360, Alpha: 11.000, Beta: 1.100

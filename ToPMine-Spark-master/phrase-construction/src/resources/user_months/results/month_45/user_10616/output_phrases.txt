@@ -1,0 +1,61 @@
+Topic 0:
+  idea:0.42
+  classroom:0.35
+  switch:0.35
+  naughty stuff:0.31
+  complex:0.21
+  brand:0.21
+  firewall:0.21
+  aroundand:0.21
+  dont router:0.21
+  slip:0.21
+
+Topic 1:
+  idea:0.40
+  switch:0.38
+  classroom:0.37
+  naughty stuff:0.30
+  start:0.20
+  check:0.20
+  good:0.20
+  firewall:0.20
+  brings:0.20
+  thing:0.20
+
+Topic 2:
+  idea:0.40
+  switch:0.37
+  classroom:0.37
+  naughty stuff:0.30
+  vulnerabilities:0.20
+  general:0.20
+  brand:0.20
+  bit:0.20
+  brings:0.20
+  blocked:0.20
+
+Topic 3:
+  idea:0.40
+  classroom:0.38
+  switch:0.38
+  naughty stuff:0.30
+  start:0.20
+  dont router:0.20
+  firewall hack:0.20
+  vpn vpn:0.20
+  thing:0.20
+  search:0.20
+
+Topic 4:
+  idea:0.42
+  classroom:0.36
+  switch:0.36
+  naughty stuff:0.31
+  blocked:0.21
+  bit:0.21
+  model:0.21
+  firewall hack:0.21
+  messing:0.21
+  start:0.21
+
+K: 5, Log-Likelihood: -231.817, Alpha: 11.000, Beta: 1.100

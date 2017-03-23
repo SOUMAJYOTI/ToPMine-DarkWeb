@@ -1,0 +1,61 @@
+Topic 0:
+  btc:8.88
+  passport:8.84
+  stay:8.75
+  kicking:7.58
+  escrow:6.69
+  cashed:6.68
+  post:6.65
+  quote:6.45
+  august:5.84
+  helps:5.82
+
+Topic 1:
+  day:10.64
+  bad:10.41
+  vendor:8.63
+  locked:7.63
+  order refunded:6.69
+  remove:6.66
+  day cashout:6.61
+  vacation mode:6.07
+  time:6.03
+  admins disappeared:5.89
+
+Topic 2:
+  order:9.76
+  blotters:6.72
+  industries:6.72
+  held:6.72
+  estimates:6.72
+  island:6.72
+  hcl:6.72
+  north:6.72
+  samples:6.72
+  read:6.72
+
+Topic 3:
+  empty:13.46
+  vendor:10.27
+  glabind:8.73
+  amsterdamngood:7.36
+  top:6.73
+  pic:6.73
+  napping:6.73
+  kill:6.73
+  win:6.73
+  profile:6.73
+
+Topic 4:
+  yjhzeedl osagmmr onion:11.80
+  forum:8.85
+  pandora:8.76
+  vendors:7.75
+  coins:7.22
+  homepage:6.68
+  tom:6.57
+  hours:5.89
+  feelings:5.88
+  vendors market:5.88
+
+K: 5, Log-Likelihood: -20242.704, Alpha: 11.000, Beta: 1.100

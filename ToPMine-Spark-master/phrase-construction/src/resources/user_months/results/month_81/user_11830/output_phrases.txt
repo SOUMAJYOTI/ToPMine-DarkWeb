@@ -1,0 +1,51 @@
+Topic 0:
+  transferred:0.00
+  access:0.00
+  sign:0.00
+  darkbay:0.00
+  accounts:0.00
+  darkbay darkbay:0.00
+  account:0.00
+  andromeda:0.00
+
+Topic 1:
+  transferred:0.00
+  access:0.00
+  sign:0.00
+  darkbay:0.00
+  accounts:0.00
+  darkbay darkbay:0.00
+  account:0.00
+  andromeda:0.00
+
+Topic 2:
+  transferred:0.00
+  access:0.00
+  sign:0.00
+  darkbay:0.00
+  accounts:0.00
+  darkbay darkbay:0.00
+  account:0.00
+  andromeda:0.00
+
+Topic 3:
+  transferred:0.00
+  access:0.00
+  sign:0.00
+  darkbay:0.00
+  accounts:0.00
+  darkbay darkbay:0.00
+  account:0.00
+  andromeda:0.00
+
+Topic 4:
+  transferred:0.00
+  access:0.00
+  sign:0.00
+  darkbay:0.00
+  accounts:0.00
+  darkbay darkbay:0.00
+  account:0.00
+  andromeda:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

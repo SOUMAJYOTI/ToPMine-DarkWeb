@@ -1,0 +1,61 @@
+Topic 0:
+  quality:1.14
+  tabs:0.96
+  aktionspreis:0.72
+  speed:0.69
+  paste:0.65
+  refund:0.60
+  germany:0.56
+  germanyhusicaysx:0.47
+  shipping:0.47
+  onion:0.46
+
+Topic 1:
+  cocaine:0.99
+  uncut:0.72
+  market:0.62
+  vendor:0.59
+  tabs:0.59
+  speed:0.58
+  paste:0.57
+  outlaw:0.57
+  quality:0.56
+  bab:0.45
+
+Topic 2:
+  outlaw:2.80
+  cocaine:1.69
+  vendor:1.69
+  market:1.67
+  listing:1.19
+  hq:1.19
+  speedpaste:1.18
+  free:1.17
+  uncut:0.99
+  login:0.49
+
+Topic 3:
+  tabs:0.89
+  cocaine:0.69
+  paste:0.69
+  speed:0.66
+  quality:0.60
+  uncut:0.58
+  german:0.49
+  check:0.48
+  db:0.48
+  dc:0.48
+
+Topic 4:
+  aktionspreis:2.57
+  germany:1.86
+  refund:1.81
+  quality:1.44
+  tabs:1.28
+  tab:1.07
+  article:1.06
+  sehr:1.05
+  tracking:1.05
+  time:1.04
+
+K: 5, Log-Likelihood: -832.314, Alpha: 11.000, Beta: 1.100

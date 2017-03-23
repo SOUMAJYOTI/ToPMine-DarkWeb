@@ -1,0 +1,61 @@
+Topic 0:
+  attachment:0.84
+  problem:0.79
+  unload:0.77
+  avatar:0.76
+  worked:0.64
+  september:0.60
+  bruce:0.42
+  avatars:0.42
+  working:0.42
+  users:0.42
+
+Topic 1:
+  attachment:0.84
+  problem:0.83
+  unload:0.74
+  avatar:0.73
+  worked:0.65
+  september:0.58
+  working:0.43
+  users:0.43
+  option:0.43
+  avatars:0.43
+
+Topic 2:
+  unload:0.83
+  avatar:0.80
+  attachment:0.79
+  problem:0.77
+  september:0.62
+  worked:0.56
+  acknowledgement:0.41
+  forums:0.41
+  solution:0.41
+  message:0.41
+
+Topic 3:
+  problem:0.84
+  avatar:0.80
+  attachment:0.76
+  unload:0.73
+  worked:0.62
+  september:0.62
+  avatars:0.41
+  option:0.41
+  bruce:0.41
+  users:0.41
+
+Topic 4:
+  unload:0.93
+  avatar:0.91
+  problem:0.78
+  attachment:0.77
+  september:0.59
+  worked:0.52
+  saved:0.42
+  confirm:0.42
+  bump:0.42
+  forums:0.42
+
+K: 5, Log-Likelihood: -284.908, Alpha: 11.000, Beta: 1.100

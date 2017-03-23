@@ -1,0 +1,61 @@
+Topic 0:
+  fee:0.55
+  service:0.55
+  expensive:0.55
+  free:0.54
+  single:0.48
+  transaction:0.48
+  mixer:0.42
+  network:0.38
+  work:0.36
+  deducting:0.25
+
+Topic 1:
+  service:0.72
+  mixer:0.60
+  single:0.47
+  transaction:0.46
+  work:0.43
+  network:0.40
+  expensive:0.38
+  free:0.37
+  fee:0.37
+  bitcoin:0.32
+
+Topic 2:
+  service:0.67
+  mixer:0.55
+  transaction:0.44
+  single:0.44
+  free:0.42
+  work:0.41
+  fee:0.41
+  expensive:0.40
+  network:0.40
+  bitcoin:0.30
+
+Topic 3:
+  service:0.63
+  fee:0.51
+  free:0.51
+  expensive:0.50
+  mixer:0.46
+  transaction:0.42
+  single:0.42
+  network:0.40
+  work:0.36
+  bitcoin:0.26
+
+Topic 4:
+  service:1.43
+  mixer:0.96
+  wanted:0.92
+  hidden:0.91
+  bitcoin:0.90
+  work:0.44
+  network:0.42
+  implements:0.35
+  blender:0.35
+  laying:0.35
+
+K: 5, Log-Likelihood: -419.002, Alpha: 11.000, Beta: 1.100

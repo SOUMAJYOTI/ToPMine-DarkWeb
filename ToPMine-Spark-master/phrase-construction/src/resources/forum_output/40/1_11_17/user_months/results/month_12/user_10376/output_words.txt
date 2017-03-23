@@ -1,0 +1,61 @@
+Topic 0:
+  characters:17.24
+  special:15.49
+  passwords:14.18
+  password:9.46
+  pigeon:4.09
+  april:3.92
+  avoid:3.76
+  injection:3.70
+  pmquote:3.66
+  code:3.48
+
+Topic 1:
+  password:8.65
+  pigeon:6.15
+  april:5.12
+  characters:3.52
+  passwords:3.28
+  special:3.04
+  chars:2.90
+  pmquote:2.14
+  link:1.96
+  playground:1.60
+
+Topic 2:
+  april:6.56
+  quote:5.81
+  inbox:4.20
+  pigeon:3.10
+  reports:2.93
+  sunwu:2.74
+  bad:2.73
+  feel:2.69
+  general:2.61
+  link:2.43
+
+Topic 3:
+  pigeon:4.32
+  password:3.73
+  happy:3.22
+  chars:2.08
+  based:2.07
+  behaviour:2.05
+  dont:2.05
+  utf:1.98
+  quote:1.89
+  special:1.89
+
+Topic 4:
+  market:5.42
+  escrow:4.62
+  things:4.50
+  customers:4.23
+  fa:3.96
+  trust:2.93
+  multi:2.59
+  simple:2.59
+  sig:2.58
+  day:2.36
+
+K: 5, Log-Likelihood: -3646.902, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  created:0.63
+  wallet:0.61
+  bitcoin:0.59
+  electrum:0.40
+  primary:0.40
+  escrow:0.40
+  key:0.40
+  public:0.40
+  address:0.40
+  avoid:0.20
+
+Topic 1:
+  created:0.61
+  bitcoin:0.59
+  wallet:0.59
+  key:0.40
+  electrum:0.40
+  escrow:0.40
+  public:0.40
+  primary:0.40
+  address:0.40
+  network:0.20
+
+Topic 2:
+  bitcoin:0.62
+  wallet:0.59
+  created:0.58
+  address:0.40
+  primary:0.40
+  electrum:0.40
+  key:0.40
+  public:0.40
+  escrow:0.40
+  question:0.20
+
+Topic 3:
+  wallet:0.61
+  created:0.59
+  bitcoin:0.58
+  escrow:0.41
+  address:0.40
+  public:0.40
+  primary:0.40
+  key:0.40
+  electrum:0.40
+  appreciated:0.20
+
+Topic 4:
+  bitcoin:0.62
+  wallet:0.59
+  created:0.59
+  primary:0.40
+  public:0.40
+  electrum:0.40
+  key:0.40
+  address:0.40
+  escrow:0.40
+  fees:0.20
+
+K: 5, Log-Likelihood: -125.273, Alpha: 11.000, Beta: 1.100

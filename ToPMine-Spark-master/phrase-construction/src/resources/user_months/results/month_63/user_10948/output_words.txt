@@ -1,0 +1,61 @@
+Topic 0:
+  unshakable:0.68
+  bit:0.62
+  build:0.59
+  developed:0.45
+  dont:0.45
+  applications:0.30
+  network:0.29
+  started:0.26
+  info:0.26
+  assembling:0.26
+
+Topic 1:
+  unshakable:0.70
+  bit:0.70
+  applications:0.50
+  developed:0.41
+  dont:0.41
+  network:0.31
+  build:0.29
+  literally:0.24
+  type:0.24
+  safety:0.24
+
+Topic 2:
+  unshakable:1.13
+  network:0.75
+  bit:0.42
+  build:0.34
+  developed:0.33
+  dont:0.32
+  remotely:0.30
+  wanted:0.30
+  period:0.30
+  connected:0.30
+
+Topic 3:
+  unshakable:0.85
+  build:0.57
+  bit:0.52
+  dont:0.41
+  developed:0.41
+  network:0.38
+  heard:0.26
+  work:0.26
+  interested:0.26
+  supposedly:0.26
+
+Topic 4:
+  bit:0.74
+  applications:0.69
+  unshakable:0.65
+  dont:0.40
+  developed:0.40
+  software:0.29
+  cars:0.29
+  full:0.29
+  pitching:0.29
+  main:0.29
+
+K: 5, Log-Likelihood: -437.646, Alpha: 11.000, Beta: 1.100

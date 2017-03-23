@@ -1,0 +1,61 @@
+Topic 0:
+  gpa:3.95
+  enter:3.95
+  inanna:3.95
+  addresses:3.91
+  key option:1.94
+  edit:1.94
+  names:1.94
+  email:1.94
+  signing:1.94
+  pgp nym:1.94
+
+Topic 1:
+  solutionwould:3.05
+  generate:3.05
+  info:3.05
+  pms:3.04
+  learning:3.04
+  bit:3.04
+  support:3.04
+  security:3.04
+  gun:3.04
+  inannathis:3.04
+
+Topic 2:
+  sell btc:5.16
+  btc:5.16
+  lbc:3.88
+  didnt:3.88
+  remember:3.83
+  walgreens:3.10
+  number:3.10
+  coin:3.10
+  head:3.10
+  minutes:3.10
+
+Topic 3:
+  pgp key:3.96
+  key change:3.67
+  signature:2.98
+  update:2.98
+  removed:2.98
+  linked:2.98
+  gotcha:2.98
+  uid:2.97
+  key:2.46
+  time:2.42
+
+Topic 4:
+  electrum mpk:3.96
+  account:3.96
+  crack:3.96
+  private:3.96
+  extremely:3.91
+  keys:3.12
+  key:2.29
+  public:2.06
+  electrum wallet:1.94
+  extended:1.94
+
+K: 5, Log-Likelihood: -2897.168, Alpha: 11.000, Beta: 1.100

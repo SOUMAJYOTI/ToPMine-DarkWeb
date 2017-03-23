@@ -1,0 +1,61 @@
+Topic 0:
+  good idea:13.78
+  ndiswrapper:9.82
+  tor:8.74
+  vpn:8.21
+  switching motherboard:6.87
+  wife hotspots:6.87
+  wifi:6.63
+  hardware:5.99
+  pops:5.78
+  malware:5.40
+
+Topic 1:
+  based:21.65
+  tails:9.29
+  host pc:8.06
+  planning booting live installing:6.58
+  list:5.40
+  powerpc:5.40
+  machines:5.40
+  architecture:5.40
+  sparc:5.40
+  motherboard:5.40
+
+Topic 2:
+  good:8.25
+  peace mind:5.85
+  whonix:5.64
+  camera mid:5.38
+  restore:5.37
+  lbc:5.30
+  guys:5.30
+  pops july:4.52
+  pmyou:4.52
+  disconnect camera microphone:4.52
+
+Topic 3:
+  block:5.41
+  ax:5.41
+  hrf:5.41
+  wws:5.41
+  ne:5.41
+  rs:5.41
+  key:5.41
+  pgp public:5.41
+  remember:3.68
+  jobthebob:3.68
+
+Topic 4:
+  buy laptop webcam:5.67
+  tails:5.63
+  july:5.60
+  public wifi:5.37
+  obsf:5.37
+  thing:4.68
+  lense:4.56
+  keyboard:4.56
+  mid:4.56
+  drill:4.56
+
+K: 5, Log-Likelihood: -15469.645, Alpha: 11.000, Beta: 1.100

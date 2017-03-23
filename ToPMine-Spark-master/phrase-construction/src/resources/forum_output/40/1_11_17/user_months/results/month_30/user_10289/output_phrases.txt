@@ -1,0 +1,61 @@
+Topic 0:
+  password:3.27
+  register:2.82
+  beta:2.81
+  disable:2.13
+  wondering:1.74
+  incorrect:1.74
+  user:1.74
+  actual:1.74
+  site:1.73
+  forgotten:1.65
+
+Topic 1:
+  phoenix:2.72
+  solution:2.72
+  processes:1.84
+  presentation:1.84
+  web:1.84
+  heard:1.84
+  flashy:1.84
+  browser:1.84
+  attacks:1.84
+  category:1.84
+
+Topic 2:
+  press:3.82
+  scripts:3.82
+  tor:1.91
+  upper:1.88
+  block:1.88
+  dweb:1.88
+  disabled:1.88
+  reveal:1.88
+  hope:1.88
+  button:1.88
+
+Topic 3:
+  websites:2.88
+  break:2.87
+  correct:2.87
+  tails:2.87
+  bruuh:2.87
+  dont:2.87
+  render:2.87
+  started:2.87
+  website:2.87
+  intolerable:2.87
+
+Topic 4:
+  install:3.79
+  tbb:3.79
+  flash silverlight:3.79
+  security:3.79
+  uri:3.79
+  window click:3.79
+  javascript:3.68
+  problems:3.25
+  appears:2.81
+  plugins:1.87
+
+K: 5, Log-Likelihood: -1742.162, Alpha: 11.000, Beta: 1.100

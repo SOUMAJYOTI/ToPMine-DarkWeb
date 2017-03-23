@@ -1,0 +1,61 @@
+Topic 0:
+  email:0.92
+  encryption:0.60
+  server:0.40
+  good:0.40
+  feature:0.40
+  thing:0.40
+  isnt:0.40
+  read:0.20
+  plan:0.20
+  media:0.20
+
+Topic 1:
+  email:1.11
+  encryption:0.59
+  isnt:0.41
+  thing:0.41
+  server:0.41
+  feature:0.40
+  good:0.40
+  works:0.20
+  transit:0.20
+  tis:0.20
+
+Topic 2:
+  email:0.81
+  encryption:0.49
+  good:0.41
+  thing:0.36
+  feature:0.36
+  isnt:0.35
+  server:0.35
+  hard:0.24
+  error:0.24
+  mail:0.24
+
+Topic 3:
+  email:1.04
+  encryption:0.58
+  server:0.41
+  thing:0.41
+  feature:0.40
+  isnt:0.40
+  good:0.40
+  service:0.20
+  assuming:0.20
+  aid:0.20
+
+Topic 4:
+  email:1.12
+  encryption:0.72
+  feature:0.43
+  isnt:0.43
+  server:0.43
+  thing:0.43
+  good:0.39
+  keys:0.21
+  sniff:0.21
+  cleartext:0.21
+
+K: 5, Log-Likelihood: -300.539, Alpha: 11.000, Beta: 1.100

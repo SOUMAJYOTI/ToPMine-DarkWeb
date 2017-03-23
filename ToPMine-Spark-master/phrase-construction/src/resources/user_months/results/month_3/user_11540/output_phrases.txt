@@ -1,0 +1,61 @@
+Topic 0:
+  scam:0.08
+  quote:0.08
+  hosting:0.08
+  netdid:0.08
+  dudes:0.08
+  forum:0.08
+  pmdo:0.08
+  net:0.08
+  february:0.08
+  ccseller:0.00
+
+Topic 1:
+  hosting:0.08
+  forum:0.08
+  quote:0.08
+  net:0.08
+  pmdo:0.08
+  february:0.08
+  dudes:0.08
+  scam:0.08
+  netdid:0.08
+  ccseller:0.00
+
+Topic 2:
+  february:0.08
+  net:0.08
+  netdid:0.08
+  quote:0.08
+  scam:0.08
+  dudes:0.08
+  hosting:0.08
+  forum:0.08
+  pmdo:0.08
+  ccseller:0.00
+
+Topic 3:
+  net:0.08
+  february:0.08
+  dudes:0.08
+  scam:0.08
+  quote:0.08
+  netdid:0.08
+  forum:0.08
+  hosting:0.08
+  pmdo:0.08
+  ccseller:0.00
+
+Topic 4:
+  pmdo:0.08
+  netdid:0.08
+  dudes:0.08
+  hosting:0.08
+  forum:0.08
+  february:0.08
+  scam:0.08
+  quote:0.08
+  net:0.08
+  ccseller:0.00
+
+K: 5, Log-Likelihood: -8.819, Alpha: 11.000, Beta: 1.100

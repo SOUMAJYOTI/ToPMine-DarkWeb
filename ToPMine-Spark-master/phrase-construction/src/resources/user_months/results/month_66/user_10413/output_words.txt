@@ -1,0 +1,61 @@
+Topic 0:
+  forum:4.23
+  password:4.01
+  dhl:2.45
+  quote:2.13
+  market:1.94
+  fa:1.80
+  remember:1.77
+  mind:1.74
+  send:1.72
+  write:1.65
+
+Topic 1:
+  link:17.93
+  server:9.91
+  asked:9.81
+  pin:9.81
+  address:9.59
+  market:6.96
+  alphabet:6.77
+  click:6.77
+  managed:5.90
+  forums:4.29
+
+Topic 2:
+  quote:6.60
+  longer:5.35
+  future:4.57
+  sober:4.50
+  higher:4.49
+  stay:4.44
+  easier:3.66
+  send:2.97
+  key:2.97
+  start:2.93
+
+Topic 3:
+  onion:5.89
+  time:3.87
+  markets:3.78
+  direct:3.42
+  sign:2.83
+  del:2.72
+  foa:2.58
+  au:2.55
+  pul:2.47
+  links:2.19
+
+Topic 4:
+  market:12.00
+  granny:6.91
+  crossed:4.87
+  fingers:4.87
+  site:4.87
+  mirror:4.43
+  time:4.36
+  domingo:3.91
+  love:3.79
+  hope:3.71
+
+K: 5, Log-Likelihood: -5248.659, Alpha: 11.000, Beta: 1.100

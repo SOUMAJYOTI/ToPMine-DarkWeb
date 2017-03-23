@@ -1,0 +1,61 @@
+Topic 0:
+  dash:1.77
+  type:0.96
+  tor:0.85
+  onion:0.75
+  february:0.59
+  quote:0.57
+  boneskoopa:0.56
+  dev:0.51
+  killer:0.44
+  book:0.44
+
+Topic 1:
+  dash:1.84
+  onion:0.87
+  tor:0.78
+  type:0.73
+  dev:0.60
+  quote:0.60
+  february:0.59
+  boneskoopa:0.59
+  wallet:0.41
+  work:0.40
+
+Topic 2:
+  dash:1.61
+  tor:0.81
+  onion:0.76
+  type:0.73
+  dev:0.70
+  boneskoopa:0.66
+  february:0.64
+  quote:0.63
+  wallet:0.43
+  electric:0.42
+
+Topic 3:
+  dash:1.95
+  tor:0.79
+  onion:0.77
+  type:0.74
+  dev:0.63
+  quote:0.62
+  boneskoopa:0.61
+  february:0.59
+  wallet:0.42
+  electric:0.41
+
+Topic 4:
+  dash:1.83
+  onion:0.86
+  type:0.85
+  tor:0.77
+  boneskoopa:0.59
+  february:0.58
+  quote:0.58
+  dev:0.55
+  platform:0.41
+  quartus:0.41
+
+K: 5, Log-Likelihood: -361.661, Alpha: 11.000, Beta: 1.100

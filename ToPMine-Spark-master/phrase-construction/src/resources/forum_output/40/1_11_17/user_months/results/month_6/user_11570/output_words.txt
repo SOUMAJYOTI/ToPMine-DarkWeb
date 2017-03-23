@@ -1,0 +1,61 @@
+Topic 0:
+  programmer:1.32
+  defcon:1.16
+  sr:1.06
+  sight:0.98
+  dej:0.77
+  programmers:0.77
+  kovo:0.51
+  balance:0.51
+  coin:0.51
+  morethere:0.51
+
+Topic 1:
+  defcon:5.56
+  programmer:4.21
+  sight:1.51
+  fired:1.00
+  hasnt:0.99
+  programmers:0.87
+  sr:0.68
+  stealing:0.40
+  working:0.40
+  tricks:0.40
+
+Topic 2:
+  sr:1.01
+  programmer:0.95
+  defcon:0.93
+  sight:0.93
+  dej:0.79
+  programmers:0.78
+  tricks:0.52
+  money:0.52
+  coin:0.52
+  steal:0.52
+
+Topic 3:
+  sr:1.21
+  dej:0.67
+  quote:0.65
+  march:0.63
+  move:0.56
+  losses:0.56
+  owners:0.56
+  swam:0.55
+  hard:0.55
+  lesson:0.55
+
+Topic 4:
+  sr:1.04
+  return:0.97
+  cut:0.95
+  bother:0.95
+  learn:0.95
+  hard:0.95
+  lesson:0.95
+  swam:0.94
+  owners:0.94
+  losses:0.94
+
+K: 5, Log-Likelihood: -425.598, Alpha: 11.000, Beta: 1.100

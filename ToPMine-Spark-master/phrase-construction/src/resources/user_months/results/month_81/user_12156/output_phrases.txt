@@ -1,0 +1,61 @@
+Topic 0:
+  buying:7.01
+  secure:4.66
+  learned:4.66
+  safer:4.66
+  log:4.62
+  safe:3.83
+  js:3.46
+  enable js:3.44
+  tor:3.10
+  innocent:2.31
+
+Topic 1:
+  worse:4.55
+  cloudflare:4.55
+  read:2.30
+  worry:2.30
+  ten:2.30
+  snowden:2.30
+  add:2.30
+  hired:2.30
+  punch:2.30
+  infiltration:2.30
+
+Topic 2:
+  deposit address copy:8.47
+  time valid deposited safely:5.62
+  sniff password tor:4.88
+  tor identity login:4.86
+  text file grab:4.86
+  tor spoiled deposit address:4.83
+  main concern:4.83
+  tor deposit address copy:3.82
+  fa:3.82
+  safely:3.82
+
+Topic 3:
+  lb:5.48
+  quote:4.64
+  security:4.47
+  usual:3.79
+  verify:3.79
+  standard:3.79
+  settings:3.79
+  guys:3.79
+  screen:3.79
+  code:3.79
+
+Topic 4:
+  opsec club:7.68
+  people:6.22
+  generally:5.76
+  clearnet:5.17
+  rule:4.53
+  hard:3.79
+  game:3.79
+  talk:3.79
+  options:3.79
+  answer:3.79
+
+K: 5, Log-Likelihood: -3899.509, Alpha: 11.000, Beta: 1.100

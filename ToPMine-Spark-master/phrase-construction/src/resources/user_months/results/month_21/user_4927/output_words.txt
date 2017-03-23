@@ -1,0 +1,26 @@
+Topic 0:
+  read:0.40
+  good:0.20
+  great:0.20
+
+Topic 1:
+  read:0.40
+  good:0.20
+  great:0.20
+
+Topic 2:
+  read:0.40
+  great:0.20
+  good:0.20
+
+Topic 3:
+  read:0.40
+  great:0.20
+  good:0.20
+
+Topic 4:
+  read:0.40
+  great:0.20
+  good:0.20
+
+K: 5, Log-Likelihood: -4.175, Alpha: 11.000, Beta: 1.100

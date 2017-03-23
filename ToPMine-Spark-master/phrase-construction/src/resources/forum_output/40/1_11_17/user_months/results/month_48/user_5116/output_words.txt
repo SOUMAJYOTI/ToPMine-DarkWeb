@@ -1,0 +1,61 @@
+Topic 0:
+  time:7.50
+  good:7.48
+  vendor:6.70
+  great:6.03
+  keys:4.74
+  shop:4.50
+  service:3.90
+  place:3.88
+  luck:3.73
+  agora:3.34
+
+Topic 1:
+  middle:12.99
+  earth:12.94
+  orders:12.77
+  people:12.58
+  vacation:12.07
+  nucleus:11.63
+  time:10.66
+  withdraw:9.41
+  order:9.39
+  find:8.65
+
+Topic 2:
+  javascript:13.85
+  disable:7.94
+  set:6.52
+  tor:5.86
+  scripts:5.86
+  enabled:5.65
+  middle:4.51
+  false:3.94
+  session:3.94
+  button:3.94
+
+Topic 3:
+  js:39.92
+  earth:13.13
+  middle:12.38
+  vend:12.07
+  enable:11.87
+  log:11.85
+  don:8.62
+  risk:7.85
+  fine:7.85
+  pgp:7.80
+
+Topic 4:
+  grams:15.86
+  key:9.89
+  subject:7.95
+  long:5.91
+  vendors:5.88
+  curious:5.63
+  nice:5.59
+  markets:4.80
+  amvd:4.75
+  ve:4.60
+
+K: 5, Log-Likelihood: -9658.660, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  referred:4.58
+  wallet:4.58
+  online:3.64
+  people:3.64
+  receive funds:3.39
+  dont:2.76
+  time wallet:2.76
+  gathered:2.76
+  addy:2.76
+  connected:2.76
+
+Topic 1:
+  incorporate:7.44
+  ato:5.57
+  feeling:3.70
+  office:3.70
+  tax:3.70
+  tax avoidance:3.70
+  laundering:1.83
+  finding:1.83
+  bill:1.83
+  filed:1.83
+
+Topic 2:
+  btc:4.29
+  thing:3.68
+  farm:3.68
+  created:2.84
+  drug:1.81
+  team:1.81
+  market:1.81
+  gold:1.81
+  admit:1.81
+  google:1.81
+
+Topic 3:
+  published:9.31
+  wright:9.31
+  nakamoto:7.44
+  wired:5.57
+  launch:5.57
+  bitcoin:5.34
+  entrepreneur:3.70
+  january:3.70
+  posts:3.70
+  public:3.70
+
+Topic 4:
+  criminal:2.73
+  tale:2.73
+  nice:2.73
+  collar:2.73
+  swat:2.72
+  white:2.72
+  simple:2.63
+  knock door:2.22
+  operation:2.22
+  quote:1.78
+
+K: 5, Log-Likelihood: -3451.838, Alpha: 11.000, Beta: 1.100

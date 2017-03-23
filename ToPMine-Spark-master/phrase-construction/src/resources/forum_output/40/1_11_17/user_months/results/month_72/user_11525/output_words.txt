@@ -1,0 +1,61 @@
+Topic 0:
+  grams:0.40
+  support:0.40
+  profile:0.39
+  key:0.20
+  week:0.20
+  pgp:0.20
+  verified:0.20
+  message:0.20
+  reply:0.20
+  hansaregardsmrkidx:0.20
+
+Topic 1:
+  profile:0.41
+  grams:0.40
+  support:0.39
+  updated:0.20
+  order:0.20
+  newest:0.20
+  valhallaplease:0.20
+  led:0.20
+  kidx:0.20
+  valhalla:0.20
+
+Topic 2:
+  support:0.40
+  grams:0.40
+  profile:0.40
+  verified:0.20
+  signed:0.20
+  reply:0.20
+  message:0.20
+  hansaregardsmrkidx:0.20
+  week:0.20
+  pgp:0.20
+
+Topic 3:
+  profile:0.40
+  grams:0.40
+  support:0.40
+  site:0.20
+  vendors:0.20
+  beans:0.20
+  ta:0.20
+  batch:0.20
+  replies:0.20
+  ticketspeacelovehugsdrugsmr:0.20
+
+Topic 4:
+  support:0.41
+  grams:0.40
+  profile:0.40
+  key:0.20
+  hansaregardsmrkidx:0.20
+  reply:0.20
+  message:0.20
+  signed:0.20
+  week:0.20
+  verified:0.20
+
+K: 5, Log-Likelihood: -124.927, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.65
+  myyj:0.43
+  ett:0.42
+  mit:0.34
+  mutta:0.22
+  mielest:0.22
+  ytti:0.22
+  luulen:0.22
+  koska:0.22
+  kuullutkaan:0.22
+
+Topic 1:
+  ja:0.80
+  mit:0.45
+  ett:0.41
+  myyj:0.34
+  maksoin:0.22
+  litilille:0.22
+  heti:0.22
+  ettei:0.22
+  ongelmaa:0.22
+  st:0.22
+
+Topic 2:
+  ja:0.76
+  mit:0.40
+  ett:0.39
+  myyj:0.38
+  hyvitti:0.21
+  pantin:0.21
+  tuonne:0.21
+  hein:0.21
+  diana:0.21
+  yll:0.21
+
+Topic 3:
+  ja:1.30
+  mit:0.59
+  ett:0.39
+  myyj:0.26
+  kaikki:0.26
+  vaan:0.26
+  se:0.26
+  kuullut:0.26
+  nose:0.26
+  pantti:0.26
+
+Topic 4:
+  myyj:0.58
+  ja:0.49
+  ett:0.39
+  moni:0.27
+  topicci:0.27
+  tuo:0.27
+  paljon:0.27
+  tuolle:0.27
+  tuosta:0.27
+  hiljaiselta:0.27
+
+K: 5, Log-Likelihood: -416.627, Alpha: 11.000, Beta: 1.100

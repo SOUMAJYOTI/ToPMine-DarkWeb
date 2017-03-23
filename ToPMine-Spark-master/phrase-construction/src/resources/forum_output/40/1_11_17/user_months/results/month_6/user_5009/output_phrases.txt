@@ -1,0 +1,61 @@
+Topic 0:
+  pmsome:0.08
+  assume:0.08
+  create:0.08
+  quote:0.08
+  april:0.08
+  work:0.08
+  santa:0.08
+  changed:0.08
+  faqs:0.08
+  hyperlinked:0.08
+
+Topic 1:
+  guise:0.08
+  migrated:0.08
+  forums:0.08
+  market:0.08
+  find:0.08
+  working:0.08
+  post:0.08
+  work:0.08
+  hyperlinked:0.08
+  links:0.08
+
+Topic 2:
+  good:0.08
+  highlighting:0.08
+  hyperlinked:0.08
+  create:0.08
+  assume:0.08
+  top:0.08
+  changed:0.08
+  links:0.08
+  link:0.08
+  quote:0.08
+
+Topic 3:
+  guise:0.08
+  forums:0.08
+  market:0.08
+  find:0.08
+  migrated:0.08
+  santa:0.08
+  link:0.08
+  april:0.08
+  vendors:0.08
+  quote:0.08
+
+Topic 4:
+  migrated:0.08
+  market:0.08
+  forums:0.08
+  find:0.08
+  guise:0.08
+  faqs:0.08
+  santa:0.08
+  vendors:0.08
+  clicking:0.08
+  top:0.08
+
+K: 5, Log-Likelihood: -31.148, Alpha: 11.000, Beta: 1.100

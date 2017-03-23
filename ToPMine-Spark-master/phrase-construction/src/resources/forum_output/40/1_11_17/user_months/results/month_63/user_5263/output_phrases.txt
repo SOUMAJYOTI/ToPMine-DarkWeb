@@ -1,0 +1,61 @@
+Topic 0:
+  fa:1.13
+  confused:0.90
+  nucleus:0.89
+  pgp:0.78
+  turned:0.76
+  pip message:0.76
+  locked:0.76
+  identification:0.76
+  actor:0.76
+  figure:0.76
+
+Topic 1:
+  fa:0.67
+  account:0.66
+  pip:0.54
+  web:0.53
+  deep:0.52
+  pgp:0.50
+  darknet:0.50
+  iphone:0.50
+  accessing:0.50
+  apps:0.50
+
+Topic 2:
+  apps:0.72
+  web:0.64
+  pip:0.63
+  deep:0.63
+  iphone:0.62
+  darknet:0.60
+  accessing:0.60
+  tool:0.52
+  generating:0.51
+  called:0.51
+
+Topic 3:
+  message:2.74
+  system:2.73
+  random:2.73
+  string:2.73
+  encrypts:1.25
+  supplied:1.25
+  decrypt:1.25
+  result:1.25
+  passphrase:1.25
+  half:1.25
+
+Topic 4:
+  accessing:0.66
+  darknet:0.66
+  iphone:0.63
+  deep:0.60
+  fa:0.60
+  pgp:0.60
+  web:0.59
+  apps:0.55
+  nucleus:0.47
+  placing:0.46
+
+K: 5, Log-Likelihood: -608.749, Alpha: 11.000, Beta: 1.100

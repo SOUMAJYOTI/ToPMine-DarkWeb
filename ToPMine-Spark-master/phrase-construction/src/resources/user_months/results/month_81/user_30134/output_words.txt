@@ -1,0 +1,61 @@
+Topic 0:
+  account:0.70
+  bitcoin:0.63
+  card:0.46
+  papa:0.44
+  credit:0.44
+  trust:0.41
+  site:0.39
+  profit:0.39
+  friend:0.37
+  special:0.36
+
+Topic 1:
+  account:0.57
+  bitcoin:0.56
+  isnt:0.46
+  profit:0.42
+  site:0.42
+  credit:0.38
+  card:0.38
+  papa:0.38
+  trust:0.38
+  friend:0.35
+
+Topic 2:
+  account:0.65
+  bitcoin:0.60
+  trust:0.42
+  credit:0.41
+  card:0.41
+  papa:0.41
+  site:0.40
+  profit:0.40
+  isnt:0.39
+  friend:0.37
+
+Topic 3:
+  bitcoin:0.64
+  special:0.54
+  friend:0.52
+  account:0.49
+  trust:0.40
+  site:0.39
+  profit:0.38
+  papa:0.37
+  credit:0.37
+  isnt:0.37
+
+Topic 4:
+  account:0.59
+  bitcoin:0.58
+  isnt:0.42
+  profit:0.41
+  site:0.40
+  card:0.40
+  papa:0.39
+  credit:0.39
+  trust:0.39
+  friend:0.39
+
+K: 5, Log-Likelihood: -263.616, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bits:10.92
+  diceware:6.34
+  aes:5.71
+  zaphod:5.39
+  ten:3.95
+  january:2.96
+  quote:2.70
+  flashy:2.55
+  keyspace:1.95
+  explain:1.95
+
+Topic 1:
+  bridges:13.82
+  time:7.29
+  hour:4.92
+  work:3.67
+  dash:3.37
+  tor:3.14
+  capcha:2.85
+  didnt:2.83
+  random:2.16
+  filled:1.92
+
+Topic 2:
+  dna:10.97
+  law:7.97
+  ancestry:7.97
+  enforcement:5.97
+  national:4.97
+  security:4.60
+  police:4.55
+  database:3.97
+  requests:3.97
+  obi:3.97
+
+Topic 3:
+  servers:3.87
+  tor:3.71
+  connect:3.58
+  quote:2.93
+  security:2.36
+  good:2.15
+  electrum:1.92
+  tails:1.92
+  glad:1.89
+  tcp:1.84
+
+Topic 4:
+  dice:15.94
+  list:10.74
+  passphrase:10.56
+  diceware:10.47
+  word:8.80
+  roll:7.94
+  encryption:4.77
+  security:4.52
+  computer:4.15
+  groups:4.15
+
+K: 5, Log-Likelihood: -5141.097, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  asetukset:0.40
+  tulee:0.20
+  yritt:0.20
+  kirjautumaan:0.20
+  identiteetin:0.20
+  silkkitie:0.20
+  se:0.20
+  vain:0.20
+  johtuu:0.20
+  en:0.20
+
+Topic 1:
+  asetukset:0.41
+  kunnossa:0.20
+  ett:0.20
+  muut:0.20
+  tor:0.20
+  varmista:0.20
+  tota:0.20
+  uudelleen:0.20
+  hemmin:0.20
+  yrit:0.20
+
+Topic 2:
+  asetukset:0.40
+  mitk:0.20
+  erityisesti:0.20
+  mist:0.20
+  se:0.20
+  fire:0.20
+  javascriptin:0.20
+  jo:0.20
+  vaatiiko:0.20
+  olen:0.20
+
+Topic 3:
+  asetukset:0.39
+  luoda:0.20
+  tulee:0.20
+  olen:0.20
+  johtuu:0.20
+  vain:0.20
+  javascriptin:0.20
+  jo:0.20
+  yms:0.20
+  silkkitielle:0.20
+
+Topic 4:
+  asetukset:0.40
+  tota:0.20
+  varmista:0.20
+  ei:0.20
+  heart:0.20
+  kunnossa:0.20
+  hemmin:0.20
+  ett:0.20
+  tor:0.20
+  yrit:0.20
+
+K: 5, Log-Likelihood: -127.650, Alpha: 11.000, Beta: 1.100

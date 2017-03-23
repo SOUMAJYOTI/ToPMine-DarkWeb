@@ -1,0 +1,61 @@
+Topic 0:
+  quote:2.04
+  december:2.00
+  referrals:1.77
+  convenient:1.71
+  pmthanksyour:0.91
+  justme:0.90
+  dream:0.85
+  yog:0.85
+  visit:0.83
+  sticky:0.78
+
+Topic 1:
+  support:3.93
+  hub:3.93
+  links:3.92
+  scabby cunt:3.92
+  year:3.70
+  happy:3.70
+  markets:1.99
+  yogdont:1.99
+  stays:1.98
+  yogsothoth:1.97
+
+Topic 2:
+  link:1.70
+  dream:1.62
+  signature:1.57
+  drug:1.57
+  generall:1.56
+  marketplace:1.56
+  stuff:1.56
+  plenty:1.56
+  items:1.56
+  certified:1.56
+
+Topic 3:
+  middle:2.65
+  loli:2.65
+  doesnt:2.65
+  code:2.64
+  postto:2.64
+  person:2.64
+  choose:2.63
+  thread:2.63
+  exact:2.62
+  started:2.62
+
+Topic 4:
+  link:5.67
+  vendor:3.24
+  referrals:1.96
+  hey:1.65
+  nowi:1.65
+  posting:1.65
+  ive:1.65
+  dated:1.65
+  aphabay:1.65
+  figured:1.65
+
+K: 5, Log-Likelihood: -961.351, Alpha: 11.000, Beta: 1.100

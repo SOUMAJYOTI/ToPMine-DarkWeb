@@ -1,0 +1,61 @@
+Topic 0:
+  ja:1.87
+  ett:1.77
+  tahansa:1.62
+  smitten:1.00
+  rahanne:0.68
+  unohtui:0.68
+  ainiin:0.68
+  kaikki:0.68
+  problem:0.68
+  mainita:0.68
+
+Topic 1:
+  tai:2.82
+  mit:2.77
+  voisi:2.77
+  siell:2.60
+  ja:2.57
+  joku:2.02
+  kytti:1.78
+  tutkivat:1.78
+  eat:1.78
+  ne:1.78
+
+Topic 2:
+  ja:1.95
+  jos:1.08
+  ett:0.95
+  siell:0.93
+  sen:0.71
+  milloin:0.69
+  postissa:0.68
+  joo:0.60
+  jotain:0.57
+  joku:0.52
+
+Topic 3:
+  ett:1.71
+  ja:1.54
+  tahansa:1.24
+  smitten:1.11
+  varmaan:0.82
+  jotain:0.78
+  osotteen:0.61
+  kulkemaan:0.61
+  siirt:0.61
+  raportin:0.60
+
+Topic 4:
+  ja:2.06
+  ett:1.35
+  tahansa:0.72
+  jos:0.66
+  milloin:0.65
+  sen:0.65
+  postissa:0.64
+  jotain:0.64
+  siell:0.62
+  joo:0.57
+
+K: 5, Log-Likelihood: -952.266, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  mnt:0.60
+  tikku:0.58
+  tuon:0.48
+  tikun:0.43
+  sda:0.39
+  fdisk:0.37
+  kiitos:0.26
+  mutta:0.26
+  kanssa:0.26
+  hardcoretripper:0.26
+
+Topic 1:
+  tikku:3.07
+  mnt:3.04
+  fdisk:1.33
+  sda:1.30
+  usbtikkun:0.54
+  jos:0.54
+  ytt:0.54
+  manuaalisesti:0.54
+  tilalla:0.54
+  ll:0.54
+
+Topic 2:
+  tuon:0.60
+  etta:0.54
+  mutta:0.54
+  hardcoretripper:0.54
+  kiitos:0.54
+  kanssa:0.53
+  tikun:0.38
+  vaivannaostasi:0.30
+  paljon:0.30
+  vahvasti:0.30
+
+Topic 3:
+  neuvoa:1.30
+  muistikortin:1.29
+  jo:1.29
+  tuon:1.03
+  kanssa:0.56
+  hardcoretripper:0.56
+  etta:0.56
+  kiitos:0.55
+  mutta:0.55
+  jaksaa:0.51
+
+Topic 4:
+  mutta:0.56
+  kiitos:0.56
+  etta:0.56
+  kanssa:0.56
+  tuon:0.56
+  hardcoretripper:0.56
+  tikun:0.37
+  kasi:0.32
+  olen:0.32
+  silla:0.32
+
+K: 5, Log-Likelihood: -530.602, Alpha: 11.000, Beta: 1.100

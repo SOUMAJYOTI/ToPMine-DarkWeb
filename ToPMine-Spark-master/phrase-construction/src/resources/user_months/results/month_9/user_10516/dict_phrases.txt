@@ -1,0 +1,16 @@
+reason,0,1
+kind,1,1
+fde,2,1
+loader,3,2
+check,4,2
+ideally,5,1
+good,6,1
+dummies,7,1
+integrity,8,2
+password,9,1
+bootloader,10,1
+reset,11,1
+place,12,1
+boot,13,2
+hash,14,3
+dont,15,1

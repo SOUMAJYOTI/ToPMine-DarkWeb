@@ -1,0 +1,61 @@
+Topic 0:
+  interesting:1.41
+  nice:1.23
+  register:1.20
+  things:1.13
+  links:1.11
+  yeah:0.95
+  stable:0.93
+  time:0.90
+  link:0.85
+  deposit:0.84
+
+Topic 1:
+  recommend:1.30
+  register:1.26
+  deposit:1.20
+  stable:1.12
+  nice:1.06
+  interesting:1.06
+  yeah:0.95
+  agora:0.91
+  links:0.90
+  time:0.89
+
+Topic 2:
+  agora:7.75
+  links:2.02
+  nice:1.71
+  interesting:1.61
+  link:1.55
+  register:0.93
+  pretty:0.92
+  recommend:0.90
+  deposit:0.84
+  yeah:0.77
+
+Topic 3:
+  agora:3.15
+  register:2.20
+  links:1.40
+  nice:1.38
+  interesting:1.35
+  link:1.31
+  time:1.19
+  pretty:1.00
+  stable:0.92
+  yeah:0.89
+
+Topic 4:
+  things:3.35
+  stopped:2.84
+  deepweb:2.78
+  fucked:1.57
+  shit:1.53
+  destroyed:1.19
+  terrific:1.19
+  social:1.19
+  gaped:1.19
+  ya:1.19
+
+K: 5, Log-Likelihood: -1087.385, Alpha: 11.000, Beta: 1.100

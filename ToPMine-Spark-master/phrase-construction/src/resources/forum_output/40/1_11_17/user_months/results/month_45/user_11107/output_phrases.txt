@@ -1,0 +1,61 @@
+Topic 0:
+  understood:2.46
+  freedom:2.45
+  hub:1.35
+  dont:1.12
+  aggression:1.12
+  created:1.12
+  admit love idea:1.12
+  atmosphere:1.12
+  honestly:1.12
+  article:1.12
+
+Topic 1:
+  site:2.66
+  years:2.66
+  fake:2.66
+  scamming:1.58
+  tor:1.28
+  days:1.28
+  house:1.28
+  effort:1.28
+  weapons site:1.28
+  long:1.28
+
+Topic 2:
+  admit love:0.68
+  pallidpallas april amquote:0.64
+  dn robin hood stealing:0.60
+  therapy groups folks traumatized:0.56
+  result identity theft:0.56
+  idea thegreenmachine sort dn:0.53
+  prolly spending tesla:0.52
+  robin hood stealing embark:0.52
+  whooowasat month gon save:0.51
+  justanothernumber march pmquote lock:0.51
+
+Topic 3:
+  pmscammers lowest losers hint:1.24
+  poetic justice scenario admit:1.24
+  march:1.24
+  robin hood stealing embark:1.14
+  idea thegreenmachine sort dn:1.14
+  green machines surprise:0.83
+  career causing strangers:0.83
+  tesla turn:0.83
+  zaphod:0.83
+  love:0.83
+
+Topic 4:
+  hub:2.14
+  idea thegreenmachine sort:0.98
+  embark career causing strangers:0.98
+  folks traumatized result identity:0.98
+  theft prolly spending tesla:0.98
+  dont therapy groups:0.98
+  evo time:0.94
+  dealers:0.94
+  figured:0.94
+  attitude:0.94
+
+K: 5, Log-Likelihood: -1433.732, Alpha: 11.000, Beta: 1.100

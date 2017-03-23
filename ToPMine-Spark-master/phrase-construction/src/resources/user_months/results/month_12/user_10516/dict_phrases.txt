@@ -1,0 +1,281 @@
+exception,0,2
+reason,1,1
+half,2,2
+impersonation,3,1
+bad,4,1
+references,5,1
+year,6,2
+livecd,7,1
+areas,8,2
+urge,9,2
+ssl,10,1
+pmi,11,1
+time certificate,12,2
+professional,13,2
+cover,14,1
+offer,15,1
+integrity,16,3
+password,17,1
+character,18,2
+quote,19,2
+hundreds,20,1
+publishing,21,1
+fully,22,2
+presidente,23,1
+accepting,24,2
+devices,25,1
+excited,26,2
+frustration,27,2
+sexually,28,2
+july,29,3
+google,30,4
+personal,31,1
+completed,32,1
+lacked,33,1
+click,34,1
+frills,35,2
+project coming,36,2
+mission,37,1
+certificates,38,1
+implimented,39,2
+looked attacker,40,1
+domain,41,4
+baked,42,2
+beware,43,2
+bogus,44,1
+activity,45,2
+scanning,46,3
+dead,47,1
+networks,48,5
+manual,49,1
+hotspots,50,3
+wlans,51,3
+grasp,52,1
+attack,53,3
+backbone,54,3
+caution,55,2
+connect,56,3
+pervert,57,2
+scanning domain,58,2
+middle,59,5
+intimate,60,2
+ideally,61,1
+people,62,2
+connected,63,1
+describe,64,1
+nastiness,65,2
+surely,66,1
+tolerant,67,1
+commercial,68,2
+df,69,1
+antenna work,70,2
+loader,71,2
+project,72,4
+good,73,10
+dummies,74,1
+domain connect,75,2
+vulnerable,76,1
+fellows,77,4
+attacks,78,3
+details,79,1
+talk,80,2
+hardened,81,2
+wow,82,1
+area,83,1
+amateurs,84,2
+definite,85,2
+el,86,1
+flashy,87,2
+doubt,88,2
+check,89,2
+connect google,90,2
+downloaded,91,1
+users,92,1
+shelf,93,1
+volume,94,1
+tails,95,2
+obscure,96,2
+leaving,97,1
+supposedely,98,2
+internet,99,2
+full,100,2
+occasion,101,1
+installed,102,1
+distro,103,1
+hidden,104,2
+idea,105,1
+effort,106,2
+training,107,1
+conclusion,108,4
+malicious,109,2
+common,110,2
+disturbing,111,2
+bootloader,112,1
+scope,113,2
+trouble,114,1
+company,115,2
+good fellows,116,3
+boot,117,2
+figure,118,1
+center,119,1
+suspicion,120,1
+man scanning,121,2
+false,122,2
+attacker,123,3
+clarification,124,1
+technology,125,1
+supper,126,2
+undertaking,127,1
+management,128,2
+service,129,1
+villainous,130,2
+tor project,131,2
+step,132,2
+attacks ssid,133,1
+time,134,3
+certificate wondered,135,2
+antenna,136,4
+big,137,1
+smaller,138,1
+frustrated,139,2
+called,140,1
+software,141,3
+reach,142,2
+hs,143,2
+attempt,144,1
+deliverables,145,1
+signatures,146,1
+ordeal,147,2
+pmwhat,148,1
+greater,149,2
+plan,150,1
+case,151,1
+attempts,152,4
+hardware,153,1
+phase,154,2
+integrity hash,155,1
+encrusted,156,3
+large,157,1
+work,158,5
+mitm,159,1
+testing,160,2
+ip,161,2
+deemed,162,2
+tough,163,1
+messaging,164,2
+system,165,4
+spinofthey,166,1
+reached,167,2
+reset,168,1
+hash,169,3
+sexual,170,2
+larger,171,2
+judgement,172,2
+server,173,3
+tampered,174,1
+bundle tor,175,2
+exercise,176,2
+ssid,177,3
+thinking,178,1
+weak,179,2
+instant,180,2
+valid,181,2
+file,182,1
+ways,183,1
+tor,184,4
+verify,185,2
+place,186,2
+man,187,7
+power,188,1
+bundle,189,4
+witnessed,190,1
+kind hash,191,1
+asses,192,1
+fde,193,1
+forward,194,1
+facebook,195,2
+knew,196,1
+spinoff,197,1
+soul coming,198,1
+lead,199,2
+happened,200,2
+lots,201,1
+places,202,1
+attack scanning,203,1
+pmgood,204,1
+instruction,205,1
+fellow,206,3
+juicy,207,2
+located,208,1
+accounts,209,2
+attack man,210,1
+entity,211,2
+good fellow,212,1
+wondered,213,4
+spoof,214,1
+guru,215,1
+networks time,216,2
+perverted,217,2
+google certificate,218,2
+surfing,219,1
+abilities,220,2
+download,221,2
+impersonate,222,2
+earlier,223,1
+fine,224,1
+nasty,225,3
+evilgrin,226,1
+level,227,1
+networks networks,228,2
+kind,229,5
+vigilant,230,1
+conveniently,231,2
+briefcase,232,1
+minutes,233,1
+temporarily,234,2
+man middle,235,4
+opened,236,1
+kind attack,237,1
+gho,238,1
+tbb,239,2
+person,240,1
+magnetron,241,1
+encounter man,242,2
+ghz,243,1
+files,244,2
+omit,245,1
+dont,246,1
+covering,247,2
+tickets,248,1
+soul,249,3
+certificate,250,4
+point,251,5
+network,252,2
+general,253,1
+intended,254,1
+working,255,1
+guts,256,1
+microwave,257,1
+heard,258,2
+direction,259,2
+console,260,2
+system point,261,1
+sucks,262,1
+original,263,1
+looked,264,3
+nature,265,2
+built,266,2
+interesting,267,1
+fault,268,1
+resources,269,2
+good soul,270,1
+control,271,1
+encounter,272,4
+allowing,273,2
+middle point,274,1
+attacking,275,1
+ovens,276,1
+respond,277,1
+sitting,278,2
+coming,279,3
+clumsy,280,2

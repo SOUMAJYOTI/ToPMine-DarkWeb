@@ -1,0 +1,61 @@
+Topic 0:
+  gox:11.41
+  coins:8.84
+  btc:4.53
+  bitcoin:3.79
+  hope:2.78
+  reopen:2.75
+  god:2.71
+  worth:2.49
+  bought:2.48
+  buying:2.22
+
+Topic 1:
+  february:7.56
+  btc:5.41
+  bitcoin:4.64
+  real:4.57
+  buy:4.50
+  hopes:3.95
+  quote:3.85
+  imaginary:3.67
+  evilgrin:3.42
+  withdraws:3.21
+
+Topic 2:
+  mtgox:6.21
+  gox:4.84
+  week:3.94
+  quote:3.73
+  imaginary:3.67
+  security:3.52
+  issue:3.11
+  announcement:2.73
+  february:2.35
+  buy:2.35
+
+Topic 3:
+  money:4.78
+  withdrawls:3.21
+  people:2.89
+  bad:2.59
+  gox:2.54
+  gamble:2.49
+  quote:2.41
+  dont:2.36
+  bitcoin:2.13
+  mtgox:2.08
+
+Topic 4:
+  btc:12.02
+  gox:10.12
+  god:9.25
+  withdrawls:6.65
+  record:6.29
+  track:6.28
+  good:5.92
+  cash:5.82
+  hacked:5.80
+  account:5.19
+
+K: 5, Log-Likelihood: -5040.586, Alpha: 11.000, Beta: 1.100

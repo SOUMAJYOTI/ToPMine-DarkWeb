@@ -1,0 +1,61 @@
+Topic 0:
+  paypal:0.20
+  prepared:0.20
+  localbitcoins:0.20
+  waay:0.20
+  normal:0.20
+  pay:0.20
+  bet:0.20
+  dont:0.18
+  similiar:0.18
+  hey:0.18
+
+Topic 1:
+  bet:0.20
+  pay:0.20
+  normal:0.20
+  localbitcoins:0.20
+  waay:0.20
+  prepared:0.20
+  paypal:0.20
+  quote:0.18
+  pmbest:0.18
+  june:0.18
+
+Topic 2:
+  paypal:0.20
+  bet:0.20
+  prepared:0.20
+  pay:0.20
+  waay:0.20
+  localbitcoins:0.20
+  normal:0.20
+  buy:0.18
+  real:0.18
+  bitstamp:0.18
+
+Topic 3:
+  paypal:0.20
+  normal:0.20
+  waay:0.20
+  pay:0.20
+  prepared:0.20
+  localbitcoins:0.20
+  bet:0.20
+  hey:0.18
+  bitstamp:0.18
+  similiar:0.18
+
+Topic 4:
+  localbitcoins:0.20
+  prepared:0.20
+  bet:0.20
+  waay:0.20
+  pay:0.20
+  normal:0.20
+  paypal:0.20
+  sell:0.18
+  coins:0.18
+  prove:0.18
+
+K: 5, Log-Likelihood: -116.939, Alpha: 11.000, Beta: 1.100

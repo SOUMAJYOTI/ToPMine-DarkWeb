@@ -1,0 +1,61 @@
+Topic 0:
+  keys:36.60
+  bit:28.64
+  vendors:25.45
+  key:21.83
+  bits:16.27
+  public:15.59
+  safe:12.87
+  customers:12.80
+  active:12.77
+  strength:12.13
+
+Topic 1:
+  key:4.89
+  pgp:2.18
+  good:1.66
+  keys:1.37
+  vendors:1.10
+  message:1.02
+  vendor:0.95
+  top:0.79
+  public:0.70
+  update:0.69
+
+Topic 2:
+  update:2.29
+  good:1.98
+  carry:1.81
+  head:1.81
+  asap:1.81
+  top:1.35
+  vendors:1.24
+  upgrade:1.00
+  msgd:0.89
+  amvendors:0.89
+
+Topic 3:
+  sha:11.09
+  key:8.56
+  rsa:5.96
+  bit:5.23
+  isnt:3.80
+  considered:3.66
+  nsa:3.41
+  size:3.15
+  bits:3.05
+  dutchdrugz:2.96
+
+Topic 4:
+  wallet:43.83
+  tails:41.87
+  click:39.89
+  key:28.43
+  bitcoins:27.89
+  address:21.41
+  pgp:20.97
+  vendor:18.37
+  create:16.88
+  dnm:14.89
+
+K: 5, Log-Likelihood: -12812.176, Alpha: 11.000, Beta: 1.100

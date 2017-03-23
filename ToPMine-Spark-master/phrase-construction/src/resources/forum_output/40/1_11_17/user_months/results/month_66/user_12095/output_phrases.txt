@@ -1,0 +1,61 @@
+Topic 0:
+  mining:0.30
+  wondering:0.18
+  info:0.18
+  sites:0.18
+  appreciated:0.18
+  possibility:0.18
+  bitcoin:0.18
+  input:0.18
+  tips:0.18
+  helpful:0.18
+
+Topic 1:
+  mining:0.31
+  money:0.18
+  release:0.18
+  time:0.18
+  wasting:0.18
+  btc:0.18
+  exchange:0.18
+  crypto:0.18
+  trading:0.18
+  day:0.18
+
+Topic 2:
+  mining:0.31
+  crypto:0.18
+  moving:0.18
+  long:0.18
+  genesis:0.18
+  day:0.18
+  dash:0.18
+  reasonable:0.18
+  spitting:0.18
+  rate:0.18
+
+Topic 3:
+  mining:0.31
+  long:0.18
+  moving:0.18
+  night:0.18
+  eth:0.18
+  dash:0.18
+  day:0.18
+  reasonable:0.18
+  trading:0.18
+  rate:0.18
+
+Topic 4:
+  mining:0.30
+  lot:0.18
+  late:0.18
+  free:0.18
+  ship:0.18
+  cost:0.18
+  access:0.18
+  luck:0.18
+  asics:0.18
+  power:0.18
+
+K: 5, Log-Likelihood: -137.326, Alpha: 11.000, Beta: 1.100

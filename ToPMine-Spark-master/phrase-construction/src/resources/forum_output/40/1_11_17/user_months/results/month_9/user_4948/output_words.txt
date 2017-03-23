@@ -1,0 +1,61 @@
+Topic 0:
+  security:7.10
+  pgp:4.90
+  msg:3.50
+  update:3.30
+  hxxp:3.27
+  xkcd:3.24
+  aa:3.12
+  subkey:3.10
+  regularly:3.00
+  ll:2.99
+
+Topic 1:
+  updatedforum:13.31
+  thread:7.68
+  pgp:6.75
+  updated:5.10
+  profile:4.63
+  msg:4.52
+  agora:3.42
+  onion:3.22
+  tk:3.20
+  ll:2.99
+
+Topic 2:
+  profile:0.23
+  updatedforum:0.23
+  updated:0.23
+  thread:0.23
+  ac:0.22
+  link:0.19
+  gardenmarket:0.19
+  updatedsr:0.19
+  updatedthe:0.19
+  footer:0.19
+
+Topic 3:
+  pgp:5.12
+  security:5.00
+  aacgkqspr:4.06
+  expires:3.68
+  ac:3.46
+  key:3.36
+  ao:3.04
+  dy:3.04
+  jesusofrave:3.02
+  cdovl:2.99
+
+Topic 4:
+  key:154.64
+  expires:41.97
+  gpg:34.99
+  encryption:31.99
+  created:28.29
+  ultimate:26.99
+  usage:24.25
+  keys:17.99
+  months:14.99
+  select:14.99
+
+K: 5, Log-Likelihood: -34583.169, Alpha: 11.000, Beta: 1.100

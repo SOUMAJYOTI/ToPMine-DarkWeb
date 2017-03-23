@@ -1,0 +1,61 @@
+Topic 0:
+  encrusted phone:1.12
+  smart:1.00
+  phone:0.90
+  complicated:0.54
+  people:0.54
+  dump:0.54
+  thought:0.53
+  kind:0.53
+  good idea:0.53
+  acquire:0.53
+
+Topic 1:
+  towers:1.81
+  cloud:1.80
+  signal:1.76
+  precisely:1.11
+  day:1.10
+  range:1.09
+  live:1.09
+  period:1.08
+  tower:1.08
+  cell:1.08
+
+Topic 2:
+  encrusted phone:1.28
+  smart:0.94
+  phone:0.80
+  acquire:0.59
+  good idea:0.59
+  kind:0.59
+  thought:0.59
+  dump:0.59
+  people:0.59
+  complicated:0.59
+
+Topic 3:
+  vpn:2.05
+  rooted:2.05
+  tor:2.05
+  sim:2.05
+  smartphone:1.30
+  credentials:0.96
+  irl:0.96
+  online:0.96
+  connect:0.96
+  persona:0.96
+
+Topic 4:
+  signal:1.24
+  cloud:1.20
+  towers:1.19
+  cellphones:0.89
+  pass:0.89
+  neatly:0.88
+  cellar:0.88
+  data:0.87
+  youve:0.86
+  business:0.86
+
+K: 5, Log-Likelihood: -979.600, Alpha: 11.000, Beta: 1.100

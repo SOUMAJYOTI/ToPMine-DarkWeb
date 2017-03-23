@@ -1,0 +1,61 @@
+Topic 0:
+  forum:2.47
+  account:2.47
+  market:2.08
+  register:1.92
+  reward:1.11
+  layout:1.11
+  popped:1.11
+  lookh:1.11
+  markets:1.11
+  reduce:1.11
+
+Topic 1:
+  request:1.15
+  december:1.00
+  amthats:0.56
+  haunt:0.56
+  ill:0.56
+  check:0.56
+  hermes:0.56
+  heard dreammarket:0.56
+  evolutions heard dreammarket:0.50
+  free:0.50
+
+Topic 2:
+  explain:0.72
+  trusted:0.71
+  javascript:0.71
+  association:0.71
+  rid:0.70
+  quote:0.53
+  january:0.50
+  sig:0.50
+  neofeudalist:0.50
+  pmabraxas:0.50
+
+Topic 3:
+  rid:0.60
+  javascript:0.60
+  association:0.60
+  trusted:0.59
+  explain:0.59
+  december:0.56
+  quote:0.54
+  evolutions heard dreammarket:0.50
+  link:0.49
+  agora:0.46
+
+Topic 4:
+  request:0.90
+  december:0.87
+  heard dreammarket:0.53
+  ill:0.52
+  hermes:0.52
+  check:0.52
+  haunt:0.52
+  amthats:0.52
+  evolutions heard dreammarket:0.51
+  quote:0.47
+
+K: 5, Log-Likelihood: -490.726, Alpha: 11.000, Beta: 1.100

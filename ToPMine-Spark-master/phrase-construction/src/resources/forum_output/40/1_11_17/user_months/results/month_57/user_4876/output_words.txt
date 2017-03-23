@@ -1,0 +1,61 @@
+Topic 0:
+  users:0.83
+  figuring:0.40
+  overload:0.40
+  reasons:0.40
+  stealing:0.40
+  user:0.40
+  servers:0.40
+  capabilities:0.40
+  high:0.40
+  safe:0.40
+
+Topic 1:
+  users:0.80
+  allowing:0.40
+  site:0.40
+  completely:0.40
+  deposits:0.40
+  user:0.40
+  capabilities:0.40
+  server:0.40
+  purposely:0.40
+  figuring:0.40
+
+Topic 2:
+  users:0.79
+  expand:0.41
+  volume:0.40
+  server:0.40
+  figuring:0.40
+  stealing:0.40
+  reached:0.40
+  safe:0.40
+  capabilities:0.40
+  completely:0.40
+
+Topic 3:
+  users:0.78
+  thinks:0.40
+  purposely:0.40
+  user:0.40
+  overload:0.40
+  stealing:0.40
+  allowing:0.40
+  server:0.40
+  high:0.40
+  safe:0.40
+
+Topic 4:
+  users:0.80
+  servers:0.40
+  deposits:0.40
+  volume:0.40
+  capabilities:0.40
+  expand:0.40
+  reasons:0.40
+  overload:0.40
+  reached:0.40
+  site:0.40
+
+K: 5, Log-Likelihood: -134.676, Alpha: 11.000, Beta: 1.100

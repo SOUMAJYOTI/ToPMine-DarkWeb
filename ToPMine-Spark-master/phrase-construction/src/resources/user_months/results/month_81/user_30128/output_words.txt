@@ -1,0 +1,61 @@
+Topic 0:
+  april:3.35
+  dont:3.30
+  forum:2.68
+  hell:2.09
+  zaphod:2.00
+  quote:1.87
+  time:1.50
+  invite:1.04
+  key:1.03
+  hacking:0.96
+
+Topic 1:
+  people:6.55
+  security:5.42
+  forum:4.64
+  worth:3.89
+  hell:3.57
+  shit:3.30
+  april:3.20
+  dont:2.91
+  public:2.75
+  couple:2.55
+
+Topic 2:
+  april:3.09
+  hell:2.95
+  forum:2.85
+  time:2.21
+  dont:2.21
+  quote:1.63
+  worth:1.57
+  public:1.51
+  hacking:1.36
+  zaphod:1.35
+
+Topic 3:
+  people:11.85
+  security:9.52
+  shit:8.68
+  toctou:5.29
+  forum:5.06
+  public:4.69
+  amquote:4.11
+  couple:4.04
+  irc:3.93
+  april:3.93
+
+Topic 4:
+  invitation:5.01
+  invite:4.59
+  key:4.58
+  prove:4.13
+  keys:4.09
+  quote:4.06
+  devil:3.14
+  april:2.43
+  impression:2.41
+  blue:2.23
+
+K: 5, Log-Likelihood: -2872.749, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bitrated:7.08
+  arbitrator:5.95
+  transaction:5.57
+  alice:4.78
+  multisig:4.66
+  service:4.07
+  trent:3.38
+  bob:3.31
+  client:3.28
+  transactions:3.21
+
+Topic 1:
+  alice:11.23
+  transaction:11.18
+  service:10.59
+  bob:9.81
+  arbitrator:9.16
+  payment:7.43
+  side:6.51
+  party:5.58
+  fees:5.24
+  server:5.11
+
+Topic 2:
+  club:3.90
+  security:2.89
+  multisig:2.09
+  chime:1.90
+  organizing:1.90
+  minded:1.90
+  swing:1.90
+  legendary:1.90
+  glad:1.90
+  pgp:1.90
+
+Topic 3:
+  bob:9.25
+  transaction:7.72
+  alice:6.14
+  server:5.10
+  bitrated:5.06
+  client:4.13
+  arbitrator:4.03
+  service:3.81
+  party:3.69
+  multisig:3.62
+
+Topic 4:
+  multisig:4.73
+  bitrated:4.02
+  payment:3.58
+  alice:3.40
+  bob:3.28
+  service:3.23
+  transaction:3.20
+  server:2.57
+  side:2.47
+  arbitrator:2.46
+
+K: 5, Log-Likelihood: -6202.086, Alpha: 11.000, Beta: 1.100

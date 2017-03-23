@@ -1,0 +1,61 @@
+Topic 0:
+  sr:7.69
+  dont:7.16
+  target:4.67
+  day day:4.67
+  funds agora:3.64
+  shot:3.64
+  obvious:3.64
+  quote:3.64
+  february alive:3.64
+  rearding:3.64
+
+Topic 1:
+  theory:4.64
+  withdrawals:4.56
+  crazy:4.56
+  missing bitcoins:4.30
+  escrow:3.74
+  finally:3.70
+  storage:2.29
+  bobs:2.29
+  inside:2.29
+  trusted:2.29
+
+Topic 2:
+  mario:4.59
+  alive:3.44
+  wallet:2.80
+  question:2.69
+  prison:2.24
+  truth:2.24
+  joke:2.24
+  sig:2.24
+  ahah:2.20
+  tired:2.20
+
+Topic 3:
+  coins:4.64
+  scared:4.64
+  fucking:4.64
+  large:4.64
+  coin:4.64
+  hour:2.68
+  heard:2.59
+  case:2.29
+  gamesome:2.29
+  side:2.29
+
+Topic 4:
+  agora:7.37
+  agra wallet:5.46
+  showing:4.62
+  complaining:4.62
+  spread:4.53
+  deposits:4.28
+  complaints:3.81
+  ive:3.81
+  marketplace:3.77
+  pandora:3.77
+
+K: 5, Log-Likelihood: -4394.431, Alpha: 11.000, Beta: 1.100

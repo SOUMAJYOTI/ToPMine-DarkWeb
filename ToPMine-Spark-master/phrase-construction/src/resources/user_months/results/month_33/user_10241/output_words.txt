@@ -1,0 +1,61 @@
+Topic 0:
+  market:2.85
+  agora:2.41
+  register:1.69
+  forum:1.22
+  account:1.21
+  markets:1.19
+  abraxas:0.84
+  referred:0.78
+  quote:0.65
+  javascript:0.60
+
+Topic 1:
+  collect:3.26
+  button:3.18
+  site:3.15
+  market:2.84
+  tor:1.42
+  canvas:1.42
+  passwords:1.42
+  honeypot:1.42
+  intentionally:1.42
+  dec:1.42
+
+Topic 2:
+  market:1.75
+  agora:1.39
+  quote:1.10
+  markets:0.96
+  referred:0.70
+  register:0.67
+  site:0.64
+  listings:0.63
+  dreammarket:0.62
+  association:0.61
+
+Topic 3:
+  agora:1.81
+  issues:1.74
+  abraxas:1.35
+  market:1.32
+  abraham:1.24
+  good:1.24
+  agra:1.19
+  continued:0.77
+  downtime:0.77
+  business:0.77
+
+Topic 4:
+  heard:3.87
+  dreammarket:3.70
+  december:2.53
+  evolutions:1.87
+  request:1.75
+  quote:1.46
+  ill:1.45
+  haunt:1.45
+  check:1.44
+  amthats:1.44
+
+K: 5, Log-Likelihood: -1141.484, Alpha: 11.000, Beta: 1.100

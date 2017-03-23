@@ -1,0 +1,61 @@
+Topic 0:
+  limetless:1.04
+  people:0.93
+  point:0.88
+  mod:0.77
+  god:0.76
+  time:0.63
+  lot:0.62
+  lol:0.59
+  le:0.55
+  paid:0.54
+
+Topic 1:
+  people:1.18
+  lot:0.89
+  limetless:0.83
+  lol:0.80
+  time:0.78
+  disappeared:0.62
+  weeks:0.61
+  heroin:0.61
+  heard:0.55
+  god:0.55
+
+Topic 2:
+  limetless:0.91
+  god:0.89
+  point:0.89
+  mod:0.82
+  lol:0.70
+  time:0.68
+  paid:0.63
+  le:0.62
+  people:0.62
+  ross:0.58
+
+Topic 3:
+  people:1.02
+  limetless:0.97
+  lot:0.72
+  mod:0.70
+  point:0.69
+  time:0.63
+  god:0.63
+  lol:0.62
+  le:0.54
+  paid:0.53
+
+Topic 4:
+  info:3.31
+  btc:1.68
+  real:1.68
+  send:1.68
+  posts:0.97
+  limitless:0.97
+  paid:0.87
+  le:0.87
+  year:0.83
+  day:0.72
+
+K: 5, Log-Likelihood: -864.387, Alpha: 11.000, Beta: 1.100

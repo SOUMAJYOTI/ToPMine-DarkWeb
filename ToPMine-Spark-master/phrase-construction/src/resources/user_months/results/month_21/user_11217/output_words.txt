@@ -1,0 +1,61 @@
+Topic 0:
+  sales:0.60
+  alot:0.40
+  reply:0.40
+  hit:0.40
+  long:0.40
+  shouldnt:0.40
+  sale:0.40
+  legacy:0.40
+  moment:0.40
+  apply:0.40
+
+Topic 1:
+  sales:0.61
+  hit:0.40
+  shouldnt:0.40
+  reply:0.40
+  long:0.40
+  sale:0.40
+  moment:0.40
+  legacy:0.40
+  apply:0.40
+  alot:0.40
+
+Topic 2:
+  sales:0.59
+  apply:0.41
+  sale:0.40
+  legacy:0.40
+  long:0.40
+  reply:0.40
+  alot:0.40
+  shouldnt:0.40
+  hit:0.40
+  moment:0.40
+
+Topic 3:
+  sales:0.60
+  moment:0.40
+  shouldnt:0.40
+  legacy:0.40
+  alot:0.40
+  sale:0.40
+  long:0.40
+  apply:0.40
+  reply:0.40
+  hit:0.40
+
+Topic 4:
+  sales:0.60
+  moment:0.40
+  hit:0.40
+  apply:0.40
+  reply:0.40
+  long:0.40
+  alot:0.40
+  shouldnt:0.40
+  legacy:0.40
+  sale:0.40
+
+K: 5, Log-Likelihood: -108.827, Alpha: 11.000, Beta: 1.100

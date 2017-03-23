@@ -1,0 +1,61 @@
+Topic 0:
+  number:0.86
+  order:0.76
+  utopia:0.70
+  attack:0.63
+  hope:0.63
+  adversaries:0.63
+  takes:0.62
+  yeap:0.62
+  increases:0.61
+  surface:0.61
+
+Topic 1:
+  evolution:0.92
+  market:0.90
+  testing:0.88
+  admins:0.83
+  toying:0.44
+  markets:0.44
+  sell:0.43
+  website:0.43
+  administrators:0.43
+  opsec:0.43
+
+Topic 2:
+  number:1.06
+  order:0.98
+  utopia:0.76
+  yh:0.68
+  bulk:0.68
+  cannabis:0.67
+  follow:0.67
+  vendors:0.67
+  speed:0.62
+  black:0.62
+
+Topic 3:
+  utopia:1.00
+  curious:0.76
+  thought:0.76
+  ilovespagetti:0.75
+  arrested:0.75
+  evolution:0.70
+  order:0.69
+  admins:0.65
+  number:0.58
+  selling:0.48
+
+Topic 4:
+  shit:1.23
+  defensive:1.23
+  fact:1.22
+  total:1.22
+  programming:1.22
+  incredibly:1.22
+  bad:1.22
+  services:1.22
+  league:1.21
+  frank:1.21
+
+K: 5, Log-Likelihood: -607.241, Alpha: 11.000, Beta: 1.100

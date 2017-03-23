@@ -1,0 +1,61 @@
+Topic 0:
+  people:4.55
+  time:3.79
+  future:3.37
+  death:3.26
+  lives:3.13
+  return:2.97
+  fuck:2.80
+  long:2.75
+  died:2.74
+  degree:2.43
+
+Topic 1:
+  thing:5.65
+  higher:5.24
+  view:5.18
+  actions:3.61
+  feel:3.38
+  synchronicities:3.36
+  living:3.33
+  ride:3.32
+  created:3.28
+  coincidence:3.27
+
+Topic 2:
+  life:2.13
+  actions:2.11
+  future:2.08
+  born:1.81
+  thing:1.80
+  highest:1.63
+  divine:1.43
+  live:1.38
+  control:1.08
+  story:1.02
+
+Topic 3:
+  people:5.28
+  time:4.04
+  degree:3.40
+  future:3.26
+  fuck:3.03
+  return:2.87
+  died:2.75
+  long:2.74
+  death:2.58
+  lives:2.38
+
+Topic 4:
+  life:2.88
+  future:2.23
+  thing:2.09
+  born:1.96
+  highest:1.96
+  actions:1.71
+  divine:1.51
+  live:1.48
+  love:1.09
+  died:1.04
+
+K: 5, Log-Likelihood: -3974.190, Alpha: 11.000, Beta: 1.100

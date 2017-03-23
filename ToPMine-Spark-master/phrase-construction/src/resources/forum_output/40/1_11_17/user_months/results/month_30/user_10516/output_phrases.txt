@@ -1,0 +1,61 @@
+Topic 0:
+  code select:10.94
+  ng:10.94
+  automatically connect:10.86
+  wpa:9.89
+  evil twin:8.30
+  tor browser bundle:8.17
+  connect evil twin:8.14
+  wifi:7.08
+  good bad:6.92
+  intel:6.88
+
+Topic 1:
+  devices switch:9.31
+  whonix:6.50
+  device:6.11
+  bitcoin:5.73
+  virtual:5.45
+  fail:5.44
+  guess:5.41
+  tor:5.10
+  confident:5.09
+  proxy:4.85
+
+Topic 2:
+  vm:6.99
+  trust:6.78
+  hardware separation:5.47
+  broadcom:5.46
+  raspberry:5.46
+  plugins:5.41
+  pi hardware:5.01
+  video:4.65
+  play:4.65
+  browsing:4.65
+
+Topic 3:
+  whonix qubes:9.32
+  tpm:9.31
+  beaglebone black:8.97
+  system:8.75
+  machine:8.19
+  lenox:6.98
+  couple:6.98
+  evil maid:6.98
+  privacy:6.11
+  volume:5.47
+
+Topic 4:
+  access point:14.00
+  connect:8.61
+  phone number:8.17
+  hotspot:7.18
+  serve phishing:6.99
+  evil twin:6.54
+  probe:5.47
+  jam:5.47
+  public wifi:5.47
+  access points:5.47
+
+K: 5, Log-Likelihood: -23071.248, Alpha: 11.000, Beta: 1.100

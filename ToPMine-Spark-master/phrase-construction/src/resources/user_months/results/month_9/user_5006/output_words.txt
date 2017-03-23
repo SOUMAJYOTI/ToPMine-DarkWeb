@@ -1,0 +1,61 @@
+Topic 0:
+  message:0.84
+  agora:0.80
+  marketplace:0.63
+  bruce:0.63
+  alberthoffman:0.63
+  quote:0.62
+  april:0.62
+  send:0.60
+  order:0.57
+  marketplacequote:0.41
+
+Topic 1:
+  message:0.80
+  agora:0.77
+  order:0.62
+  alberthoffman:0.61
+  send:0.60
+  marketplace:0.58
+  april:0.57
+  quote:0.57
+  bruce:0.57
+  option:0.41
+
+Topic 2:
+  order:0.71
+  message:0.70
+  agora:0.64
+  send:0.52
+  marketplace:0.52
+  alberthoffman:0.52
+  fun:0.51
+  recommend:0.51
+  clean:0.51
+  option:0.51
+
+Topic 3:
+  message:0.80
+  agora:0.73
+  order:0.64
+  send:0.64
+  marketplace:0.61
+  quote:0.59
+  bruce:0.59
+  april:0.58
+  alberthoffman:0.55
+  kick:0.42
+
+Topic 4:
+  agora:1.06
+  message:0.87
+  april:0.72
+  quote:0.72
+  bruce:0.71
+  alberthoffman:0.69
+  marketplace:0.66
+  send:0.64
+  days:0.48
+  day:0.48
+
+K: 5, Log-Likelihood: -375.325, Alpha: 11.000, Beta: 1.100

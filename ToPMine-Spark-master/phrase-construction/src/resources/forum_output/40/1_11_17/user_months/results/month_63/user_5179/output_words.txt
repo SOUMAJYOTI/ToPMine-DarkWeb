@@ -1,0 +1,61 @@
+Topic 0:
+  customer:13.09
+  recommended:12.03
+  bought:8.65
+  earn:6.66
+  dr:5.41
+  product:5.15
+  market:5.12
+  vendor:4.40
+  commission:3.57
+  money:2.87
+
+Topic 1:
+  earn:9.27
+  product:8.49
+  recommended:5.21
+  dr:4.59
+  customer:4.40
+  level:3.97
+  bought:3.74
+  market:2.86
+  commission:2.74
+  money:2.74
+
+Topic 2:
+  earn:15.73
+  customer:10.58
+  recommended:9.90
+  product:8.93
+  bought:8.84
+  dr:8.74
+  level:5.79
+  vendor:5.46
+  money:4.25
+  commission:3.79
+
+Topic 3:
+  recommended:16.55
+  earn:10.42
+  dr:9.55
+  bought:8.60
+  customer:6.15
+  vendor:6.12
+  product:4.43
+  market:4.37
+  level:4.15
+  commission:3.65
+
+Topic 4:
+  recommended:12.31
+  earn:11.92
+  product:9.00
+  bought:8.17
+  customer:6.77
+  market:4.95
+  commission:4.24
+  recommendation:3.76
+  dr:3.71
+  vendor:3.63
+
+K: 5, Log-Likelihood: -2930.397, Alpha: 11.000, Beta: 1.100

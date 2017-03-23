@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:17.87
+  gold:15.97
+  price:14.00
+  silver:12.98
+  bank:10.99
+  legislation:8.99
+  banks:8.99
+  bail:8.99
+  litecoin:8.91
+  market:8.86
+
+Topic 1:
+  keys:46.81
+  file:39.36
+  key:37.15
+  gpg:30.69
+  public:30.25
+  keyserver:22.91
+  dont:15.46
+  txt:15.24
+  original:14.02
+  playground:13.62
+
+Topic 2:
+  gpg:45.14
+  key:42.66
+  files:21.63
+  encrypted:18.14
+  file:16.75
+  solution:13.95
+  machine:13.70
+  myname:13.42
+  command:13.07
+  drive:12.66
+
+Topic 3:
+  windows:44.40
+  files:37.01
+  drive:23.26
+  ccrypt:20.83
+  memory:18.13
+  xp:16.91
+  file:16.76
+  symmetry:15.93
+  quote:15.53
+  day:14.65
+
+Topic 4:
+  btc:268.99
+  ltc:101.00
+  cny:53.99
+  doge:33.00
+  xpm:14.00
+  eur:13.95
+  xrp:9.00
+  coin:6.50
+  ppc:6.00
+  ifc:6.00
+
+K: 5, Log-Likelihood: -36120.733, Alpha: 11.000, Beta: 1.100

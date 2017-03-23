@@ -1,0 +1,61 @@
+Topic 0:
+  grams:0.28
+  dream:0.14
+  marketshould:0.14
+  love:0.14
+  avengersshould:0.14
+  safe:0.14
+  recommend:0.14
+  helix:0.14
+  joel:0.14
+  enufi:0.14
+
+Topic 1:
+  grams:0.28
+  love:0.14
+  marketshould:0.14
+  dream:0.14
+  avengersshould:0.14
+  link:0.14
+  scidmt:0.14
+  joel:0.14
+  mix:0.14
+  enufi:0.14
+
+Topic 2:
+  grams:0.28
+  link:0.14
+  safe:0.14
+  helix:0.14
+  onion:0.14
+  mix:0.14
+  joel:0.14
+  scidmt:0.14
+  enufi:0.14
+  coins:0.14
+
+Topic 3:
+  grams:0.28
+  coins:0.14
+  recommend:0.14
+  enufi:0.14
+  joel:0.14
+  scidmt:0.14
+  onion:0.14
+  mix:0.14
+  helix:0.14
+  link:0.14
+
+Topic 4:
+  grams:0.28
+  avengersshould:0.14
+  love:0.14
+  dream:0.14
+  marketshould:0.14
+  onion:0.14
+  coins:0.14
+  mix:0.14
+  recommend:0.14
+  safe:0.14
+
+K: 5, Log-Likelihood: -41.567, Alpha: 11.000, Beta: 1.100

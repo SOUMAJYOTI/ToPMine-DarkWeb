@@ -1,0 +1,61 @@
+Topic 0:
+  learn:2.77
+  tutorial:2.77
+  messages:2.77
+  dood pgp:2.77
+  read:2.77
+  address:2.77
+  member:2.77
+  keys:2.77
+  download:2.77
+  orders:2.77
+
+Topic 1:
+  stuff:4.90
+  person:2.79
+  questions things:2.79
+  true:2.79
+  safe order:2.79
+  times:2.79
+  ensure:2.79
+  buying:2.79
+  coast:2.79
+  live:2.79
+
+Topic 2:
+  hacking:3.19
+  talks:1.64
+  thing:1.64
+  find:1.64
+  underground:1.64
+  place forum:1.64
+  wondering:1.64
+  site:1.64
+  sounds:1.64
+  stupid:1.64
+
+Topic 3:
+  good:5.67
+  programs:4.21
+  jabber:2.75
+  stand:2.75
+  require:2.75
+  clearweb:2.75
+  totally:2.75
+  pretty:2.75
+  belt:2.75
+  recomend:2.75
+
+Topic 4:
+  earth:2.54
+  check:2.54
+  pip safe:2.54
+  intercepted:2.54
+  mail:2.53
+  lost:2.53
+  bad:2.53
+  selling:2.53
+  questions:2.53
+  nucleus:2.53
+
+K: 5, Log-Likelihood: -1854.226, Alpha: 11.000, Beta: 1.100

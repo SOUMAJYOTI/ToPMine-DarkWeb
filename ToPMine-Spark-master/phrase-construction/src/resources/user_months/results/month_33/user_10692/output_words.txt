@@ -1,0 +1,61 @@
+Topic 0:
+  forums:0.40
+  agora:0.40
+  doctashwartzipushthekushkarmacorpseatbeltmanxandermanreturnsif:0.20
+  happen:0.20
+  friends:0.20
+  shout:0.20
+  hub:0.20
+  checking:0.20
+  forum:0.20
+  list:0.20
+
+Topic 1:
+  agora:0.40
+  forums:0.39
+  add:0.20
+  working:0.20
+  forum:0.20
+  list:0.20
+  btw:0.20
+  pink:0.20
+  moment:0.20
+  deal:0.20
+
+Topic 2:
+  forums:0.40
+  agora:0.40
+  moving:0.20
+  buy:0.20
+  faster:0.20
+  deal:0.20
+  find:0.20
+  evolution:0.20
+  evol:0.20
+  scammers:0.20
+
+Topic 3:
+  agora:0.40
+  forums:0.40
+  find:0.20
+  unstable:0.20
+  evol:0.20
+  faster:0.20
+  evolution:0.20
+  starting:0.20
+  deal:0.20
+  scammers:0.20
+
+Topic 4:
+  agora:0.40
+  forums:0.40
+  unstable:0.20
+  starting:0.20
+  scammers:0.20
+  evolution:0.20
+  deal:0.20
+  buy:0.20
+  evol:0.20
+  find:0.20
+
+K: 5, Log-Likelihood: -86.269, Alpha: 11.000, Beta: 1.100

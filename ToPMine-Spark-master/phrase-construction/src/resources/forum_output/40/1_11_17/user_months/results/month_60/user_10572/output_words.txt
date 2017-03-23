@@ -1,0 +1,61 @@
+Topic 0:
+  xen:1.82
+  bug:1.68
+  vulnerability:1.47
+  project:1.27
+  systems:0.85
+  hypervisor:0.76
+  amazon:0.64
+  managers:0.63
+  patch:0.63
+  wrote:0.63
+
+Topic 1:
+  xen:2.23
+  vulnerability:1.40
+  bug:1.21
+  project:1.14
+  hypervisor:0.88
+  systems:0.76
+  time:0.62
+  guests:0.62
+  services:0.61
+  operating:0.61
+
+Topic 2:
+  xen:1.90
+  bug:1.77
+  vulnerability:1.02
+  project:0.93
+  systems:0.83
+  hypervisor:0.79
+  system:0.62
+  operating:0.62
+  guests:0.62
+  time:0.61
+
+Topic 3:
+  bug:1.76
+  xen:1.70
+  vulnerability:0.96
+  project:0.84
+  hypervisor:0.79
+  systems:0.77
+  researchers:0.61
+  managers:0.60
+  os:0.60
+  sensitive:0.60
+
+Topic 4:
+  bug:1.58
+  xen:1.34
+  vulnerability:1.15
+  project:0.83
+  systems:0.78
+  hypervisor:0.78
+  amazon:0.60
+  patch:0.60
+  men:0.60
+  services:0.59
+
+K: 5, Log-Likelihood: -1245.564, Alpha: 11.000, Beta: 1.100

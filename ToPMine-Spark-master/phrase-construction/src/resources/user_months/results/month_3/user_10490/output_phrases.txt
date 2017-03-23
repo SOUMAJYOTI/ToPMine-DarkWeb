@@ -1,0 +1,61 @@
+Topic 0:
+  wallet btc:1.02
+  admins:0.59
+  button:0.55
+  bluest:0.55
+  market:0.55
+  click:0.55
+  transaction wallet:0.55
+  deposit:0.54
+  cheers:0.54
+  type:0.54
+
+Topic 1:
+  wallet btc:0.86
+  bsm:0.72
+  people:0.68
+  good:0.59
+  admins:0.57
+  mistakes:0.49
+  fixing:0.49
+  overlooked:0.49
+  total:0.49
+  practice:0.49
+
+Topic 2:
+  wallet btc:1.39
+  admins:0.69
+  transaction cheers:0.65
+  explains:0.65
+  market market:0.65
+  contact:0.64
+  good:0.58
+  people:0.53
+  bsm:0.49
+  weed:0.44
+
+Topic 3:
+  account:1.18
+  wtf:1.17
+  hell:1.17
+  intentions:1.17
+  post:1.17
+  add:1.17
+  disappeared:1.17
+  ether:1.17
+  spread:1.17
+  issue:1.17
+
+Topic 4:
+  wallet btc:1.26
+  admins:0.66
+  contact:0.59
+  market market:0.59
+  explains:0.59
+  transaction cheers:0.59
+  bsm:0.54
+  people:0.51
+  good:0.51
+  question:0.39
+
+K: 5, Log-Likelihood: -429.174, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  chat:4.97
+  day:2.65
+  en:2.65
+  luck:2.65
+  dealings:2.65
+  org:2.65
+  wiki:2.65
+  nice:2.65
+  businesspidgin:2.65
+  text:2.65
+
+Topic 1:
+  plugin:9.85
+  tools:3.50
+  private messaging:3.48
+  accounts manage:3.22
+  don:2.00
+  ensures:1.48
+  type:1.48
+  jabber pidgin:1.46
+  point:1.46
+  pidgin plugin:1.46
+
+Topic 2:
+  plugin:2.50
+  accounts manage:1.44
+  tools:1.29
+  private messaging:1.27
+  don:0.95
+  accounts:0.82
+  os install:0.82
+  protocol:0.82
+  encrypts:0.81
+  configure:0.81
+
+Topic 3:
+  msg:3.45
+  site:3.44
+  onion:2.64
+  tails:2.64
+  worth:1.81
+  checking:1.78
+  php:1.66
+  messaging:1.66
+  rec:1.66
+  set:1.66
+
+Topic 4:
+  plugin:1.46
+  idea:0.84
+  accounts manage:0.83
+  private messaging:0.74
+  tools:0.70
+  record messaging:0.69
+  tor:0.68
+  messages:0.67
+  don:0.58
+  checking:0.58
+
+K: 5, Log-Likelihood: -2022.599, Alpha: 11.000, Beta: 1.100

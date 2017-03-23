@@ -1,0 +1,61 @@
+Topic 0:
+  china:3.17
+  illegal:2.18
+  bridges:2.08
+  connections:1.43
+  spoof:1.43
+  encryption software:1.14
+  heard:1.01
+  tor:0.95
+  operating:0.79
+  bringing:0.78
+
+Topic 1:
+  vpn:4.67
+  bridge:4.29
+  hosting:3.44
+  chinese:3.44
+  china:3.15
+  pc:3.14
+  install:3.14
+  solution:3.14
+  listening:3.14
+  private:3.14
+
+Topic 2:
+  radio:3.19
+  phone:3.19
+  minutes:3.19
+  airport:3.19
+  travellers:3.19
+  monitoring:1.58
+  shenanigans:1.58
+  textsecure:1.58
+  compatible:1.58
+  signal:1.58
+
+Topic 3:
+  firmware:4.74
+  start:4.66
+  hardware:3.70
+  names:2.34
+  os:2.34
+  mention:2.34
+  rely:2.34
+  objective:2.34
+  control:2.34
+  backdoors:2.34
+
+Topic 4:
+  government:6.41
+  clipper chip:6.41
+  key escrow:6.41
+  access:4.80
+  crypto war:4.80
+  leaders:3.19
+  bruce:3.19
+  cryptography:3.19
+  communications:3.19
+  economic:3.19
+
+K: 5, Log-Likelihood: -5123.603, Alpha: 11.000, Beta: 1.100

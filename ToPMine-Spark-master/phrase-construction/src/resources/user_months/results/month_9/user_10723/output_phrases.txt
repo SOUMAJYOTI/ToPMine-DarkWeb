@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins wallets:5.10
+  randomized:4.19
+  tumbler service:4.15
+  post:4.13
+  transfer bitcoins:3.37
+  wallet wallet:3.37
+  forwards:3.37
+  deposit bitcoins:3.37
+  blockchain:3.37
+  doesnt:2.76
+
+Topic 1:
+  pirate market:5.45
+  dispute:3.02
+  offer:2.98
+  note:2.09
+  wallet:2.07
+  receiving:2.02
+  works:1.82
+  private:1.79
+  multi sig:1.70
+  payment:1.59
+
+Topic 2:
+  rock scissor paper:8.52
+  game:6.60
+  user:4.30
+  play:4.25
+  url:4.25
+  game gambling:4.25
+  active:4.25
+  games:4.25
+  select:4.25
+  center:4.25
+
+Topic 3:
+  external onion:4.92
+  tumbler:4.18
+  invited:4.12
+  profit:4.12
+  link:3.93
+  receive bitcoins:3.45
+  plate:3.15
+  timothy:3.13
+  leary:3.13
+  connection:3.12
+
+Topic 4:
+  multi sig:5.11
+  market:3.55
+  dispute:3.37
+  multi:3.29
+  transaction:3.10
+  resolve:3.02
+  multisig:2.98
+  buyer:2.88
+  vendor:2.83
+  chat:2.78
+
+K: 5, Log-Likelihood: -3407.073, Alpha: 11.000, Beta: 1.100

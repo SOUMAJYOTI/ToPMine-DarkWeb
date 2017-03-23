@@ -1,0 +1,61 @@
+Topic 0:
+  tips:1.70
+  tails bridge mode:1.19
+  work:1.16
+  network:1.16
+  obfs:1.16
+  alot:1.16
+  directions:1.16
+  tor addresses:1.16
+  addresses boot:1.16
+  reason:1.16
+
+Topic 1:
+  tor:3.79
+  bridge:1.83
+  host:1.14
+  data:1.13
+  obfs bridge:0.95
+  dpi:0.92
+  hit:0.88
+  menu:0.84
+  tails bridge mode:0.83
+  transports:0.83
+
+Topic 2:
+  pgp:2.70
+  amnesic:2.70
+  keys:2.70
+  admin:2.70
+  options:1.33
+  coniure:1.31
+  feautures:1.31
+  tails hit:1.31
+  notable:1.31
+  requires:1.31
+
+Topic 3:
+  bridge:2.15
+  tor:1.22
+  tails bridge mode:1.09
+  problem:0.73
+  sync:0.66
+  bridge mode:0.58
+  open:0.57
+  point:0.57
+  word:0.57
+  add:0.57
+
+Topic 4:
+  tor:7.62
+  obfs bridge:2.76
+  host:2.56
+  data:2.54
+  bridge:1.67
+  smaller:1.64
+  service:1.63
+  pluggable:1.62
+  group:1.62
+  connect tor:1.61
+
+K: 5, Log-Likelihood: -1729.318, Alpha: 11.000, Beta: 1.100

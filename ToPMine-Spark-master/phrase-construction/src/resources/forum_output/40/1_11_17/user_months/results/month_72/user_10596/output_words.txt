@@ -1,0 +1,61 @@
+Topic 0:
+  hansa:0.78
+  market:0.60
+  multisig:0.55
+  eic:0.38
+  traffic:0.21
+  masterpiece:0.21
+  job:0.21
+  crazy:0.21
+  cutting:0.21
+  great:0.21
+
+Topic 1:
+  hansa:0.83
+  multisig:0.73
+  market:0.57
+  eic:0.45
+  check:0.21
+  offer:0.21
+  fingers:0.21
+  everyoe:0.21
+  high:0.21
+  sticky:0.21
+
+Topic 2:
+  hansa:0.84
+  market:0.60
+  multisig:0.57
+  eic:0.39
+  grass:0.20
+  integrated:0.20
+  fully:0.20
+  remember:0.20
+  links:0.20
+  verify:0.20
+
+Topic 3:
+  hansa:0.77
+  multisig:0.61
+  market:0.60
+  eic:0.40
+  find:0.20
+  jump:0.20
+  check:0.20
+  offer:0.20
+  seas:0.20
+  chance:0.20
+
+Topic 4:
+  hansa:0.78
+  market:0.62
+  multisig:0.53
+  eic:0.38
+  edge:0.21
+  great:0.21
+  traffic:0.21
+  cutting:0.21
+  job:0.21
+  masterpiece:0.21
+
+K: 5, Log-Likelihood: -217.558, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  buy:6.81
+  phone number:6.81
+  cash bitcoin:3.35
+  priority:3.35
+  sign:3.35
+  signup:3.35
+  service:3.35
+  understand:3.35
+  anonymously:3.35
+  places:3.35
+
+Topic 1:
+  repaid card:6.81
+  ways:3.35
+  sites:3.35
+  marked:3.35
+  rate:3.35
+  exchange:3.35
+  area:3.35
+  cheapest:3.35
+  card bitcoin:3.35
+  rates:3.35
+
+Topic 2:
+  info:4.16
+  pillar:3.30
+  things:3.30
+  incompetence:3.30
+  throw:3.30
+  walmart:3.30
+  bit:3.30
+  false:3.30
+  require:3.30
+  transfers:3.30
+
+Topic 3:
+  seller:3.29
+  trusted:3.29
+  legal:3.29
+  maximums:3.29
+  amount:3.29
+  atm:3.29
+  love:3.29
+  job:3.29
+  located:3.29
+  philippines:3.29
+
+Topic 4:
+  moneygram:4.41
+  egypt:3.34
+  money:3.34
+  silly:3.34
+  weeks:3.34
+  reason:3.34
+  people:3.34
+  sending:3.34
+  cancelled:3.34
+  flag:3.34
+
+K: 5, Log-Likelihood: -1554.287, Alpha: 11.000, Beta: 1.100

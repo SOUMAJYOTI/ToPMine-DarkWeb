@@ -1,0 +1,61 @@
+Topic 0:
+  silkroad:1.00
+  silk road:0.97
+  post:0.84
+  posted:0.66
+  forum:0.64
+  stexo october:0.56
+  discussion:0.53
+  marketplace:0.53
+  le:0.53
+  join silkroad reasons whypost:0.52
+
+Topic 1:
+  post:1.14
+  silk road:1.09
+  silkroad:0.97
+  forum:0.77
+  posted:0.73
+  marketplace:0.59
+  join silkroad reasons whypost:0.58
+  discussion:0.58
+  le:0.58
+  stexo october:0.57
+
+Topic 2:
+  silk road:1.33
+  post:1.26
+  silkroad:1.09
+  posted:0.82
+  forum:0.77
+  marketplace:0.63
+  discussion:0.62
+  le:0.60
+  stexo october:0.60
+  join silkroad reasons whypost:0.59
+
+Topic 3:
+  scammed:1.67
+  shit:1.64
+  article:1.64
+  oracle:1.32
+  sr dont:0.77
+  intentions:0.77
+  woman:0.77
+  party:0.77
+  man:0.77
+  vent:0.77
+
+Topic 4:
+  silk road:2.96
+  silkroad:2.38
+  post:2.21
+  forum:1.43
+  posted:1.41
+  join silkroad reasons whypost:1.01
+  le:0.99
+  stexo october:0.97
+  discussion:0.97
+  marketplace:0.95
+
+K: 5, Log-Likelihood: -2347.114, Alpha: 11.000, Beta: 1.100

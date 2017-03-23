@@ -1,0 +1,61 @@
+Topic 0:
+  bluesky:0.42
+  bsm:0.40
+  sites:0.39
+  largest:0.20
+  tonight:0.20
+  selling:0.20
+  orders:0.20
+  marketplace:0.20
+  coming:0.20
+  started:0.20
+
+Topic 1:
+  bsm:0.41
+  sites:0.41
+  bluesky:0.38
+  issues:0.20
+  darknet:0.20
+  popular:0.20
+  personally:0.20
+  prompt:0.20
+  lot:0.20
+  ive:0.20
+
+Topic 2:
+  sites:0.42
+  bsm:0.40
+  bluesky:0.38
+  ive:0.20
+  encountered:0.20
+  responses:0.20
+  secure:0.20
+  lot:0.20
+  personally:0.20
+  time:0.20
+
+Topic 3:
+  sites:0.41
+  bsm:0.40
+  bluesky:0.39
+  issues:0.20
+  darknet:0.20
+  personally:0.20
+  time:0.20
+  popular:0.20
+  encountered:0.20
+  lot:0.20
+
+Topic 4:
+  bluesky:0.43
+  bsm:0.39
+  sites:0.38
+  orders:0.21
+  started:0.21
+  coming:0.21
+  tonight:0.21
+  selling:0.21
+  marketplace:0.21
+  largest:0.21
+
+K: 5, Log-Likelihood: -76.385, Alpha: 11.000, Beta: 1.100

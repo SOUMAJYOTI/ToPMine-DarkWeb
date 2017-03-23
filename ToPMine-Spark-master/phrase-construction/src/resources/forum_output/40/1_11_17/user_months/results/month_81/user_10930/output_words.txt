@@ -1,0 +1,61 @@
+Topic 0:
+  torchat:2.02
+  tails:1.22
+  installed:0.93
+  limited:0.60
+  burning:0.29
+  copying:0.29
+  technology:0.29
+  successful:0.29
+  recall:0.29
+  iso:0.29
+
+Topic 1:
+  torchat:2.59
+  python:2.08
+  config:1.11
+  main:1.04
+  wxversion:0.69
+  directory:0.68
+  installed:0.65
+  call:0.31
+  output:0.31
+  cases:0.31
+
+Topic 2:
+  torchat:2.09
+  installed:0.87
+  python:0.77
+  config:0.52
+  main:0.52
+  tails:0.47
+  directory:0.38
+  wxversion:0.38
+  limited:0.24
+  greatly:0.23
+
+Topic 3:
+  torchat:2.45
+  python:1.72
+  main:1.07
+  config:1.00
+  installed:0.67
+  directory:0.65
+  wxversion:0.64
+  arguments:0.29
+  feb:0.29
+  default:0.29
+
+Topic 4:
+  tails:1.90
+  torchat:1.85
+  limited:0.93
+  installed:0.88
+  physically:0.39
+  search:0.39
+  include:0.39
+  idea:0.39
+  achieve:0.39
+  hour:0.39
+
+K: 5, Log-Likelihood: -411.125, Alpha: 11.000, Beta: 1.100

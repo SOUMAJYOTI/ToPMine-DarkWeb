@@ -1,0 +1,61 @@
+Topic 0:
+  coin:1.92
+  markets:1.36
+  anon:0.95
+  fully:0.76
+  darknet:0.60
+  price:0.42
+  contact:0.41
+  coins:0.41
+  traceable:0.39
+  contacting:0.39
+
+Topic 1:
+  coin:2.11
+  markets:1.36
+  anon:0.91
+  fully:0.76
+  darknet:0.60
+  contact:0.41
+  coins:0.40
+  price:0.40
+  cent:0.39
+  break:0.39
+
+Topic 2:
+  coin:1.68
+  anon:1.03
+  markets:1.00
+  fully:0.81
+  darknet:0.61
+  contacting:0.41
+  transfers:0.41
+  bitcoins:0.41
+  invest:0.41
+  break:0.41
+
+Topic 3:
+  coin:1.75
+  markets:1.12
+  anon:1.02
+  fully:0.87
+  darknet:0.60
+  invest:0.41
+  implement:0.41
+  crypts:0.41
+  traceable:0.41
+  payment:0.41
+
+Topic 4:
+  coin:1.54
+  markets:1.16
+  anon:1.08
+  fully:0.79
+  darknet:0.59
+  cent:0.41
+  bank:0.41
+  transfers:0.41
+  payment:0.40
+  break:0.40
+
+K: 5, Log-Likelihood: -390.479, Alpha: 11.000, Beta: 1.100

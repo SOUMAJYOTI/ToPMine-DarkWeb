@@ -1,0 +1,61 @@
+Topic 0:
+  hub:11.05
+  swam site:10.87
+  blue sky:9.46
+  forums:8.34
+  dont:8.00
+  sr forums:7.25
+  bsm forum:7.22
+  bsm:5.60
+  showing:5.42
+  roll:5.42
+
+Topic 1:
+  feel:9.87
+  market:9.09
+  fast smooth:7.25
+  buyer:7.20
+  problems:6.18
+  fud:6.11
+  bsm:5.71
+  growth:5.42
+  scam:5.42
+  admins:5.40
+
+Topic 2:
+  deposit:11.81
+  forced sign:10.86
+  ive:9.98
+  ill randomly signed sign:8.74
+  figure bug big issue:8.74
+  sign times minute session:8.74
+  dont data points:7.24
+  forced signout thinking ta:7.24
+  time:7.17
+  btc:6.41
+
+Topic 3:
+  auto withdraw:8.88
+  order:7.37
+  site:6.29
+  cough:6.24
+  days:6.24
+  features:5.42
+  agra:5.42
+  circumvent:5.36
+  movement:5.36
+  wallets:5.36
+
+Topic 4:
+  sr:10.09
+  coin:9.69
+  march:8.16
+  multiply:6.63
+  pending:6.24
+  good:6.02
+  cool:5.88
+  ass:5.65
+  aquaman:5.42
+  long:5.42
+
+K: 5, Log-Likelihood: -13414.982, Alpha: 11.000, Beta: 1.100

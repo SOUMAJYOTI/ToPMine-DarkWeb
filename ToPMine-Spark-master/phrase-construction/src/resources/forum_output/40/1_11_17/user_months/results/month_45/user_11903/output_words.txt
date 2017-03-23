@@ -1,0 +1,61 @@
+Topic 0:
+  encryption:1.15
+  quote:1.05
+  rational:1.02
+  forced:1.00
+  didnt:0.98
+  listings:0.96
+  kiss:0.91
+  thread:0.81
+  employ:0.77
+  transparent:0.63
+
+Topic 1:
+  herbanlegends:1.92
+  quote:1.04
+  encryption:1.03
+  employ:0.86
+  interface:0.71
+  shipping:0.62
+  forced:0.62
+  mode:0.62
+  month:0.61
+  vacation:0.61
+
+Topic 2:
+  kiss:4.50
+  forum:3.26
+  thread:0.82
+  quote:0.67
+  marketplace:0.60
+  url:0.57
+  alright:0.50
+  link:0.50
+  mod:0.50
+  started:0.50
+
+Topic 3:
+  encryption:1.31
+  quote:1.10
+  didnt:1.03
+  listings:1.00
+  rational:0.97
+  forced:0.95
+  herbanlegends:0.93
+  employ:0.92
+  thread:0.73
+  interface:0.65
+
+Topic 4:
+  marketplace:4.68
+  kiss:2.48
+  vendors:1.98
+  base:1.74
+  dw:1.74
+  great:0.98
+  url:0.89
+  issues:0.82
+  accessibility:0.77
+  number:0.77
+
+K: 5, Log-Likelihood: -851.812, Alpha: 11.000, Beta: 1.100

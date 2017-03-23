@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:4.36
+  previous:3.38
+  june:3.07
+  site:2.85
+  deleted:2.76
+  expert:2.64
+  scam:2.43
+  quote:2.23
+  version:2.03
+  mixer:1.55
+
+Topic 1:
+  fuck:4.13
+  youve:3.56
+  feeding:3.53
+  room:3.51
+  edited:3.50
+  belong:3.48
+  checked:3.46
+  sites:3.45
+  linked:3.40
+  work:3.40
+
+Topic 2:
+  bitcoin:7.20
+  dont:6.21
+  mixers:5.13
+  clients:3.69
+  june:3.63
+  satisfied:3.55
+  swooped:3.18
+  fooled:3.16
+  moderator:3.16
+  sammy:3.11
+
+Topic 3:
+  bitcoin:8.14
+  mixing:5.06
+  services:2.64
+  site:2.23
+  bitcoins:1.98
+  anonymous:1.88
+  wallet:1.88
+  review:1.72
+  mixer:1.49
+  june:1.15
+
+Topic 4:
+  bitcoin:3.48
+  deleted:3.41
+  expert:3.15
+  june:3.03
+  site:2.82
+  previous:2.68
+  quote:2.54
+  version:2.07
+  scam:1.81
+  dont:1.26
+
+K: 5, Log-Likelihood: -2135.711, Alpha: 11.000, Beta: 1.100

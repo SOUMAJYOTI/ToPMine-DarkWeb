@@ -1,0 +1,61 @@
+Topic 0:
+  sphere:33.99
+  homology:25.99
+  numbers:13.42
+  xn:11.99
+  ar:10.37
+  spheres:9.99
+  yn:9.99
+  prime:7.99
+  online:6.63
+  rational:6.02
+
+Topic 1:
+  windows:70.44
+  os:22.99
+  operating:19.85
+  ubuntu:18.25
+  system:16.87
+  vista:10.99
+  games:10.31
+  microsoft:10.13
+  comments:8.99
+  newest:8.99
+
+Topic 2:
+  tor:18.95
+  quote:17.84
+  people:16.90
+  nefarious:15.92
+  things:11.48
+  dont:8.76
+  release:7.90
+  read:7.33
+  activities:6.90
+  tips:6.82
+
+Topic 3:
+  cryptolocker:43.90
+  cryptowall:38.99
+  key:25.65
+  files:20.72
+  malware:20.52
+  ransomware:19.99
+  code:18.22
+  file:17.96
+  dropper:15.99
+  version:12.60
+
+Topic 4:
+  litecoin:18.93
+  june:16.01
+  bitcoin:13.89
+  blockchain:11.97
+  pmi:7.19
+  nasty:6.57
+  honestly:6.06
+  ubuntu:5.52
+  developers:5.15
+  function:4.99
+
+K: 5, Log-Likelihood: -26792.419, Alpha: 11.000, Beta: 1.100

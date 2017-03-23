@@ -1,0 +1,61 @@
+Topic 0:
+  python installed:1.13
+  aware:0.73
+  moment:0.73
+  real:0.72
+  insulting:0.72
+  good:0.71
+  inteligents:0.71
+  people:0.71
+  option:0.70
+  risks:0.70
+
+Topic 1:
+  excusable:1.22
+  lend hand:0.81
+  wallet:0.77
+  ive:0.73
+  file:0.73
+  experience:0.72
+  setting:0.72
+  downloaded:0.72
+  luck:0.72
+  set:0.72
+
+Topic 2:
+  python installed:1.08
+  security:0.74
+  risks:0.73
+  option:0.73
+  people:0.73
+  insulting:0.73
+  gate:0.72
+  good:0.72
+  real:0.72
+  inteligents:0.71
+
+Topic 3:
+  excusable:0.99
+  python installed:0.73
+  wallet:0.69
+  mac:0.67
+  electric:0.66
+  wondering:0.66
+  lend hand:0.65
+  luck:0.65
+  setting:0.65
+  file:0.64
+
+Topic 4:
+  python:4.23
+  precompiled:2.65
+  binary:2.62
+  source:1.16
+  mandatory:1.16
+  install:1.16
+  compiler:1.16
+  written:1.16
+  failing:1.16
+  running:1.13
+
+K: 5, Log-Likelihood: -617.288, Alpha: 11.000, Beta: 1.100

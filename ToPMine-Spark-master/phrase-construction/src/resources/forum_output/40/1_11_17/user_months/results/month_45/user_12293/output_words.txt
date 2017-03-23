@@ -1,0 +1,61 @@
+Topic 0:
+  kun:4.79
+  tulkita:3.82
+  se:3.51
+  ei:2.70
+  niin:2.49
+  palautteet:2.15
+  mit:2.03
+  asiakkaiden:1.91
+  jossain:1.91
+  kannata:1.91
+
+Topic 1:
+  etel:2.86
+  hetykset:2.86
+  ss:2.30
+  tullut:1.93
+  kest:1.81
+  suomesta:1.81
+  saapua:1.81
+  kokeillut:1.81
+  olikos:1.81
+  kauanko:1.81
+
+Topic 2:
+  ja:7.41
+  vaikka:2.95
+  myyj:2.59
+  ll:1.96
+  jos:1.87
+  nimet:1.87
+  asiakkaiden:1.29
+  ett:1.23
+  noita:0.88
+  aikaa:0.88
+
+Topic 3:
+  ja:5.46
+  kun:4.83
+  ei:3.00
+  joku:1.61
+  huora:1.53
+  sea:1.53
+  toistaiseksi:1.52
+  vittuillessaan:1.52
+  douppiluukku:1.50
+  piri:1.50
+
+Topic 4:
+  ja:6.06
+  kun:2.17
+  sekak:2.03
+  ei:1.96
+  ytt:1.93
+  ketamiinia:1.90
+  nain:1.36
+  asiakas:1.33
+  vaatii:1.26
+  malli:1.26
+
+K: 5, Log-Likelihood: -2870.872, Alpha: 11.000, Beta: 1.100

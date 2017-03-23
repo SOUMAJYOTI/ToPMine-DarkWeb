@@ -1,0 +1,144 @@
+big,0,1
+functions,1,1
+software,2,1
+considered,3,1
+tested,4,1
+bip,5,2
+py,6,1
+fair,7,1
+bit,8,3
+issues,9,2
+multi,10,1
+number,11,3
+password,12,2
+dev,13,1
+protected,14,1
+released,15,1
+packaged,16,1
+based,17,3
+sh transaction,18,1
+github,19,1
+issue,20,1
+work,21,2
+testing,22,1
+adresses,23,1
+transaction keys,24,1
+version,25,3
+easy,26,1
+installs,27,1
+push,28,1
+planning,29,1
+input,30,2
+installer,31,3
+redistributables,32,1
+install,33,1
+binary,34,4
+gui,35,1
+keys based,36,1
+discovered,37,1
+works,38,1
+signature,39,1
+automatically,40,3
+deterministic,41,1
+save,42,1
+utility,43,1
+trusting,44,1
+cheersep,45,1
+local,46,1
+long,47,1
+derive,48,1
+file,49,4
+blocked,50,1
+web,51,4
+sh,52,3
+installation,53,1
+dark,54,1
+tracker,55,1
+copy,56,1
+penal,57,1
+key,58,3
+number number,59,1
+chain,60,1
+wallet,61,2
+set,62,1
+address,63,2
+salt,64,1
+pyjamas,65,1
+tarball,66,2
+installer windows,67,1
+nacl,68,1
+windows binary,69,2
+stage,70,1
+la,71,1
+stored,72,1
+tampering,73,1
+owock,74,1
+config,75,1
+signing,76,2
+transaction,77,4
+fashion,78,1
+outputs,79,1
+data,80,1
+correct,81,2
+sign,82,2
+needing,83,1
+tedious,84,1
+secure,85,2
+good,86,1
+features,87,1
+download,88,1
+version sh,89,1
+continue,90,1
+find,91,2
+leave,92,1
+web version,93,1
+create,94,2
+implement,95,1
+generate,96,1
+redeemscripts,97,1
+programming,98,1
+settings,99,2
+pbkdf,100,1
+initials,101,1
+ill,102,1
+published,103,1
+redeemscript,104,1
+tails,105,3
+tails file,106,1
+disc,107,1
+dont,108,1
+party,109,1
+untarring,110,1
+code,111,1
+configuration,112,1
+keys,113,7
+additional,114,1
+untar,115,1
+binary tails,116,1
+choose,117,1
+storage,118,1
+binary installer,119,2
+interface,120,1
+life,121,1
+sig,122,1
+malicious,123,1
+total,124,1
+compiled,125,1
+file binary,126,1
+public,127,1
+keys keys,128,1
+securely,129,1
+browser,130,2
+extra,131,1
+working,132,2
+included,133,1
+rest,134,1
+windows,135,5
+pymultisigtool,136,1
+structure,137,1
+master,138,1
+modify,139,1
+keys web,140,1
+fresh,141,1
+user,142,2
+account,143,1

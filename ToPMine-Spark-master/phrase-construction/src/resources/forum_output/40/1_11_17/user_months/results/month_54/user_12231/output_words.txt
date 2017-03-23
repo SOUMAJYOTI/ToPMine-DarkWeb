@@ -1,0 +1,61 @@
+Topic 0:
+  gramma:0.40
+  ja:0.40
+  palautetta:0.23
+  amfetamiiniamme:0.23
+  toivomme:0.23
+  myyji:0.23
+  asiakkaidemme:0.23
+  sivulla:0.23
+  profiilissa:0.23
+  ensimm:0.23
+
+Topic 1:
+  ja:0.40
+  gramma:0.40
+  pieni:0.20
+  hintaan:0.20
+  setti:0.20
+  vain:0.20
+  kaikille:0.20
+  asiakaspalvelu:0.20
+  lopun:0.20
+  ei:0.20
+
+Topic 2:
+  gramma:0.41
+  ja:0.40
+  ist:0.21
+  jonkinlaista:0.21
+  nopeinta:0.21
+  ll:0.21
+  avajaistarjouksena:0.21
+  kaikista:0.21
+  femme:0.21
+  meid:0.21
+
+Topic 3:
+  ja:0.40
+  gramma:0.40
+  pieni:0.21
+  asiakaspalvelu:0.21
+  karkkikaupan:0.21
+  hitaat:0.21
+  jaossa:0.21
+  vain:0.21
+  hyv:0.21
+  jakoon:0.21
+
+Topic 4:
+  ja:0.40
+  gramma:0.39
+  toivottaa:0.23
+  ostorajoituksia:0.23
+  alennettuun:0.23
+  viikonlopun:0.23
+  piri:0.23
+  lopun:0.23
+  ei:0.23
+  kaikille:0.23
+
+K: 5, Log-Likelihood: -232.695, Alpha: 11.000, Beta: 1.100

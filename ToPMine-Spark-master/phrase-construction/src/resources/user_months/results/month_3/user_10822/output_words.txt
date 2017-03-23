@@ -1,0 +1,61 @@
+Topic 0:
+  march:3.47
+  seagate:2.40
+  hardware:2.40
+  implementing:2.39
+  ssd:2.38
+  front:2.35
+  servers:2.35
+  sniffers:2.33
+  sensors:2.31
+  dell:2.30
+
+Topic 1:
+  intercept:5.35
+  media:2.82
+  organization:2.82
+  website:2.55
+  axolotl:1.99
+  omidyar:1.83
+  pmi:1.78
+  march:1.72
+  pandorahope:1.72
+  quote:1.61
+
+Topic 2:
+  backdoored:4.54
+  march:3.57
+  shit:2.31
+  assume:2.22
+  fucking:2.15
+  amquote:2.08
+  evilgrin:1.55
+  quote:1.38
+  computers:1.36
+  mac:1.28
+
+Topic 3:
+  march:5.99
+  amquote:3.83
+  quote:2.18
+  shit:1.69
+  mac:1.45
+  safe:1.37
+  backdoored:1.30
+  evilgrin:1.28
+  friend:1.28
+  lmao:1.27
+
+Topic 4:
+  march:2.25
+  quote:1.87
+  backdoored:1.53
+  fucking:1.38
+  safe:1.27
+  shit:1.20
+  mac:1.20
+  pandorahope:1.11
+  axolotl:0.98
+  amquote:0.98
+
+K: 5, Log-Likelihood: -1622.741, Alpha: 11.000, Beta: 1.100

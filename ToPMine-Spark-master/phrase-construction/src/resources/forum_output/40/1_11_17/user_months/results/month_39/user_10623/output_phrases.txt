@@ -1,0 +1,61 @@
+Topic 0:
+  love:1.14
+  quote:1.08
+  ace:0.89
+  forgot orphanage hospital:0.88
+  kind hearted person sells:0.87
+  people walks eyes shining:0.87
+  tears compassion:0.84
+  opium:0.83
+  farmers build village bouhouhou:0.81
+  walter march pmprobably:0.81
+
+Topic 1:
+  kind hearted person sells:1.06
+  walter march pmprobably:0.99
+  quote:0.88
+  zaphod:0.87
+  build village bouhouhou ace:0.86
+  zaphod march:0.85
+  amquote:0.85
+  morocco helping poor farmers:0.84
+  gooder:0.83
+  zaphodbloody:0.82
+
+Topic 2:
+  business:1.48
+  tsc:1.47
+  trolling:1.37
+  side:1.37
+  noon:1.37
+  dumb:1.37
+  mob:1.37
+  hard:1.37
+  move:1.37
+  classic:1.37
+
+Topic 3:
+  zaphodbloody:1.04
+  morocco helping poor farmers:1.02
+  gooder:1.02
+  zaphod march:1.01
+  amquote:1.00
+  build village bouhouhou ace:0.99
+  people:0.99
+  love people:0.97
+  walks eyes shining tears:0.97
+  authorities:0.97
+
+Topic 4:
+  barry:1.47
+  fun:1.27
+  gear:1.27
+  safe:1.26
+  vending:1.26
+  stay:1.26
+  worth:1.26
+  spotted:1.26
+  folks:1.26
+  feelings:1.26
+
+K: 5, Log-Likelihood: -859.781, Alpha: 11.000, Beta: 1.100

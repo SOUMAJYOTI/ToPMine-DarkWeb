@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.60
+  ett:0.59
+  arpaa:0.59
+  voitat:0.20
+  huomattava:0.20
+  tunnu:0.20
+  hinnaltaan:0.20
+  pidempi:0.20
+  jokunen:0.20
+  vikojen:0.20
+
+Topic 1:
+  ett:0.62
+  arpaa:0.60
+  ja:0.59
+  jo:0.20
+  palkinnoilla:0.20
+  prosentit:0.20
+  mainittava:0.20
+  subujen:0.20
+  voittaa:0.20
+  eiv:0.20
+
+Topic 2:
+  ja:0.62
+  ett:0.61
+  arpaa:0.59
+  isompi:0.20
+  mutta:0.20
+  tunnu:0.20
+  rjestet:0.20
+  jokunen:0.20
+  se:0.20
+  vikojen:0.20
+
+Topic 3:
+  arpaa:0.62
+  ja:0.59
+  ett:0.58
+  lopulliset:0.20
+  onjo:0.20
+  ei:0.20
+  kunnon:0.20
+  eiv:0.20
+  ksi:0.20
+  mennyt:0.20
+
+Topic 4:
+  ett:0.61
+  arpaa:0.60
+  ja:0.59
+  kunnon:0.20
+  prosentit:0.20
+  joista:0.20
+  lopulliset:0.20
+  ostamalla:0.20
+  mainittava:0.20
+  rjestet:0.20
+
+K: 5, Log-Likelihood: -200.761, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  wary:0.37
+  october:0.36
+  betting:0.36
+  links clear net warning:0.20
+  phishing links verified vendors:0.20
+  quote:0.20
+  droz:0.20
+  yeah:0.20
+  wan:0.20
+  bet:0.20
+
+Topic 1:
+  october:0.38
+  wary:0.36
+  betting:0.36
+  droz:0.21
+  yeah:0.21
+  bet:0.21
+  wan:0.21
+  quote:0.21
+  phishing links verified vendors:0.21
+  links clear net warning:0.20
+
+Topic 2:
+  betting:0.38
+  october:0.37
+  wary:0.36
+  bet:0.20
+  quote:0.20
+  yeah:0.20
+  wan:0.20
+  droz:0.20
+  links clear net warning:0.20
+  phishing links verified vendors:0.20
+
+Topic 3:
+  wary:0.37
+  betting:0.37
+  october:0.36
+  links clear net warning:0.20
+  phishing links verified vendors:0.20
+  wan:0.20
+  bet:0.20
+  droz:0.20
+  yeah:0.20
+  quote:0.20
+
+Topic 4:
+  betting:0.37
+  wary:0.37
+  october:0.36
+  links clear net warning:0.20
+  phishing links verified vendors:0.20
+  wan:0.20
+  bet:0.20
+  quote:0.20
+  yeah:0.20
+  droz:0.20
+
+K: 5, Log-Likelihood: -87.533, Alpha: 11.000, Beta: 1.100

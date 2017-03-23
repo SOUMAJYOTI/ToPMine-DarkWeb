@@ -1,0 +1,61 @@
+Topic 0:
+  law:44.55
+  enforcement:38.39
+  phone:33.27
+  call:24.61
+  bomb:22.89
+  cellar:21.98
+  time:21.27
+  location:21.17
+  base:19.69
+  phones:18.46
+
+Topic 1:
+  phone:27.56
+  vodafone:12.45
+  calls:11.70
+  dont:11.68
+  time:9.67
+  equipment:9.60
+  call:9.08
+  attack:8.22
+  code:8.15
+  data:7.71
+
+Topic 2:
+  app:37.99
+  data:34.78
+  agencies:31.36
+  security:30.89
+  browser:29.46
+  mobile:24.42
+  users:23.50
+  countries:20.84
+  smartphones:20.17
+  eyes:19.99
+
+Topic 3:
+  zaphod:22.44
+  quote:20.92
+  road:19.91
+  june:17.88
+  server:14.43
+  silk:13.85
+  pgp:13.73
+  records:11.82
+  told:10.75
+  security:10.09
+
+Topic 4:
+  software:61.75
+  foreign:31.09
+  system:22.25
+  data:18.65
+  rogue:18.09
+  access:17.91
+  country:17.74
+  athens:17.02
+  vodafone:16.70
+  rcs:15.99
+
+K: 5, Log-Likelihood: -60443.120, Alpha: 11.000, Beta: 1.100

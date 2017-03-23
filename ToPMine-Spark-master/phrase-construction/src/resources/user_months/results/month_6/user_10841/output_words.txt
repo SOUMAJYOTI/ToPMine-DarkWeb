@@ -1,0 +1,61 @@
+Topic 0:
+  sr:3.11
+  silk:2.73
+  road:2.73
+  market:2.12
+  marketplace:2.07
+  happy:1.87
+  site:1.87
+  pay:1.52
+  forum:1.46
+  deacon:1.30
+
+Topic 1:
+  sr:3.86
+  bitcoin:2.14
+  security:1.89
+  dont:1.89
+  lost:1.64
+  didnt:1.20
+  maleability:1.20
+  fe:0.89
+  shouldnt:0.89
+  years:0.89
+
+Topic 2:
+  javascript:8.64
+  preferences:4.38
+  february:2.84
+  option:2.05
+  time:1.90
+  config:1.84
+  content:1.84
+  northwest:1.84
+  nuggets:1.84
+  false:1.84
+
+Topic 3:
+  check:5.80
+  cache:2.89
+  uncheck:1.89
+  clear:1.89
+  defcon:0.90
+  mb:0.90
+  anti:0.90
+  scripts:0.90
+  recommendations:0.90
+  history:0.90
+
+Topic 4:
+  sr:4.72
+  scam:3.37
+  hub:2.27
+  alfred:1.77
+  time:1.65
+  market:1.54
+  understand:1.32
+  silkroad:1.30
+  bitcoin:1.28
+  defunct:1.21
+
+K: 5, Log-Likelihood: -1672.716, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  remote server:19.22
+  tor router:9.62
+  layers isolation:7.91
+  attack:5.77
+  access:5.47
+  people hacker:5.27
+  hacking:5.27
+  networking:5.27
+  physical:5.27
+  routing:5.27
+
+Topic 1:
+  vm:13.39
+  remote server:9.81
+  physically isolated:8.92
+  tor remote desktop:7.90
+  hardware aerial numbers:6.00
+  remote desktop:5.77
+  access points:5.27
+  workstation vm:5.27
+  google:5.27
+  patched:5.27
+
+Topic 2:
+  investigation:10.55
+  law enforcement:8.99
+  traffic:8.52
+  cellphones area:7.91
+  event interest detection:7.91
+  detection apprehension:7.91
+  le:7.91
+  event interest:7.91
+  crowds:7.91
+  exit traffic:7.89
+
+Topic 3:
+  link:11.11
+  records:8.92
+  linked:8.82
+  tape:8.68
+  dice:7.94
+  amount network traffic:7.65
+  traffic:6.95
+  rate:6.66
+  problem case streaming tor:6.49
+  periods time middle transport:6.49
+
+Topic 4:
+  password:64.46
+  bits entropy:52.78
+  passwords:44.66
+  password bits entropy:29.03
+  character set:26.39
+  entropy:22.67
+  word:21.11
+  sha:15.83
+  phrase file word count:15.83
+  attacker:13.97
+
+K: 5, Log-Likelihood: -57636.285, Alpha: 11.000, Beta: 1.100

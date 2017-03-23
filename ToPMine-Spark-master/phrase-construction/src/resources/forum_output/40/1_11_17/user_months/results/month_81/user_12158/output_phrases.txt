@@ -1,0 +1,61 @@
+Topic 0:
+  lose:1.33
+  issue:1.16
+  created wallet:1.14
+  key:1.03
+  bitcoin:1.02
+  save:0.92
+  pgp:0.90
+  private:0.89
+  tails:0.89
+  luck:0.86
+
+Topic 1:
+  private:1.32
+  created wallet:1.26
+  luck:1.25
+  pgp:1.23
+  issue:1.21
+  key:1.17
+  bitcoin:1.12
+  lose:1.11
+  save:1.08
+  tails:1.07
+
+Topic 2:
+  read:1.26
+  pretty:1.15
+  lesson:1.04
+  forget:0.88
+  copy:0.88
+  learned:0.87
+  loose:0.87
+  forgot:0.87
+  thread:0.87
+  day:0.87
+
+Topic 3:
+  wallet:0.82
+  lesson:0.75
+  time:0.73
+  seed:0.70
+  read:0.65
+  pretty:0.64
+  sucks:0.59
+  attention:0.59
+  pay:0.59
+  didnt:0.51
+
+Topic 4:
+  issue:1.42
+  created wallet:1.41
+  tails:0.98
+  lose:0.94
+  save:0.93
+  wallet:0.78
+  luck:0.71
+  pgp:0.69
+  bitcoin:0.68
+  started:0.66
+
+K: 5, Log-Likelihood: -823.677, Alpha: 11.000, Beta: 1.100

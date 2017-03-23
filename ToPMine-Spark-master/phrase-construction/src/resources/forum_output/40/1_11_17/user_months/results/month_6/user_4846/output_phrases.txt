@@ -1,0 +1,61 @@
+Topic 0:
+  pubkey:7.00
+  bitcoin:5.80
+  commands:5.22
+  ll:5.14
+  spend coins participation person:5.12
+  create:5.12
+  pubkeys order confirm address:5.12
+  sense easy betrayed online:5.12
+  client watch funds:5.12
+  escrow agent skillz thurgood:5.12
+
+Topic 1:
+  step people:5.94
+  exchange bitin pubkeys generate:5.94
+  confirm provided escrow agent:5.94
+  pm:5.72
+  isn fake:5.14
+  youve:4.85
+  address:4.52
+  happen:4.04
+  located:4.04
+  eyes:4.04
+
+Topic 2:
+  multisig:5.09
+  interested:4.70
+  sexywax:4.01
+  approved sexywax:4.01
+  pic:4.01
+  gon:4.01
+  quote:4.01
+  agree:4.01
+  amquote:4.01
+  wrong:4.01
+
+Topic 3:
+  transaction:17.37
+  transactions:12.78
+  buyer:9.56
+  arbitrator:9.38
+  private key:6.85
+  process:6.72
+  step:6.65
+  point:6.64
+  buyer seller online simultaneously:6.49
+  coins:6.44
+
+Topic 4:
+  transaction:7.04
+  multisig:4.25
+  buyer seller:3.59
+  transactions:3.48
+  seller:2.85
+  client side:2.82
+  arbitrator:2.81
+  test transactions:2.69
+  buyer:2.64
+  sites:2.27
+
+K: 5, Log-Likelihood: -10070.574, Alpha: 11.000, Beta: 1.100

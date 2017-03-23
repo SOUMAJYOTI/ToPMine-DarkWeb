@@ -1,0 +1,61 @@
+Topic 0:
+  theyve:5.97
+  forenotice:3.94
+  turn:3.94
+  site security:3.94
+  generally:3.94
+  needed:3.94
+  prefer:3.94
+  bit:3.94
+  surprised:3.94
+  communication agora:3.94
+
+Topic 1:
+  vulnerability:5.92
+  address:5.92
+  uri:5.06
+  warning:4.75
+  fuck:4.75
+  shit:4.75
+  hell:4.75
+  thing:4.48
+  foil:3.92
+  responsible:3.92
+
+Topic 2:
+  dont:5.93
+  word:5.05
+  thing:4.76
+  assume:4.75
+  webpage:3.94
+  fine:3.94
+  read:3.91
+  mail:3.91
+  security:3.91
+  chill:3.91
+
+Topic 3:
+  bug:19.16
+  hidden service:11.97
+  attacker:7.17
+  big:7.17
+  tor:7.17
+  version:4.78
+  users:4.78
+  hc:4.78
+  understand:4.78
+  hypothetically:4.78
+
+Topic 4:
+  april element surprise:6.71
+  speak louder:5.90
+  compromised le closing:4.93
+  gtfo quick:4.93
+  action:4.72
+  smartactions:3.90
+  guru:3.90
+  mute:3.90
+  subordinates:3.90
+  cheap:3.90
+
+K: 5, Log-Likelihood: -7762.262, Alpha: 11.000, Beta: 1.100

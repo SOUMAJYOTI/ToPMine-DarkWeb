@@ -1,0 +1,46 @@
+Topic 0:
+  silk:0.00
+  market:0.00
+  road:0.00
+  find:0.00
+  mdma:0.00
+  registration:0.00
+  market market:0.00
+
+Topic 1:
+  silk:0.00
+  market:0.00
+  road:0.00
+  find:0.00
+  mdma:0.00
+  registration:0.00
+  market market:0.00
+
+Topic 2:
+  silk:0.00
+  market:0.00
+  road:0.00
+  find:0.00
+  mdma:0.00
+  registration:0.00
+  market market:0.00
+
+Topic 3:
+  silk:0.00
+  market:0.00
+  road:0.00
+  find:0.00
+  mdma:0.00
+  registration:0.00
+  market market:0.00
+
+Topic 4:
+  silk:0.00
+  market:0.00
+  road:0.00
+  find:0.00
+  mdma:0.00
+  registration:0.00
+  market market:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

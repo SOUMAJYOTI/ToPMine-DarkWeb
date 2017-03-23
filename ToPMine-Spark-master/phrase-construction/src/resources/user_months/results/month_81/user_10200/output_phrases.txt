@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:5.55
+  address created:3.67
+  electrum:3.67
+  primary:3.67
+  public:3.67
+  key:3.67
+  bitin:1.81
+  multisignature:1.81
+  fees:1.81
+  question:1.81
+
+Topic 1:
+  january:4.13
+  india shoulda honestly:3.12
+  straight murked remain west:3.10
+  senses:2.69
+  seedofchaos:2.69
+  wire:2.68
+  amthey:2.68
+  reference:2.68
+  tingling:2.68
+  quote:2.19
+
+Topic 2:
+  theory:3.67
+  coming:3.67
+  tech:3.67
+  side:3.04
+  eic:3.04
+  higher:1.80
+  story:1.80
+  worked:1.80
+  geographically:1.80
+  prepaid:1.80
+
+Topic 3:
+  site:3.60
+  connect:3.60
+  moved:2.41
+  address:1.73
+  happened:1.73
+  hoping:1.73
+  yesterday:1.73
+  hours:1.73
+  didnt:1.73
+  order:1.73
+
+Topic 4:
+  msig:5.54
+  market:5.15
+  scammed:3.67
+  tho:3.67
+  central:3.67
+  years:1.80
+  wise:1.80
+  growth:1.80
+  orders:1.80
+  crow:1.80
+
+K: 5, Log-Likelihood: -1456.423, Alpha: 11.000, Beta: 1.100

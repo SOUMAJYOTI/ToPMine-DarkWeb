@@ -1,0 +1,61 @@
+Topic 0:
+  lsa:1.76
+  lsd:1.04
+  organic:0.83
+  ethan:0.81
+  seeds:0.79
+  chemistry:0.40
+  equipment:0.40
+  macian:0.40
+  good:0.40
+  solvents:0.40
+
+Topic 1:
+  lsa:1.75
+  lsd:1.14
+  seeds:0.85
+  organic:0.79
+  ethan:0.78
+  extracting:0.40
+  kill:0.40
+  solvent:0.40
+  requires:0.40
+  chemistry:0.40
+
+Topic 2:
+  lsa:1.50
+  lsd:1.28
+  organic:0.80
+  ethan:0.78
+  seeds:0.75
+  trip:0.41
+  evaporated:0.41
+  woodrose:0.41
+  close:0.40
+  bliind:0.40
+
+Topic 3:
+  lsa:1.47
+  lsd:1.21
+  seeds:0.81
+  ethan:0.81
+  organic:0.79
+  extract:0.41
+  morning:0.40
+  ingredient:0.40
+  skills:0.40
+  scedule:0.40
+
+Topic 4:
+  lsa:1.52
+  lsd:1.33
+  ethan:0.81
+  seeds:0.79
+  organic:0.78
+  everclear:0.41
+  solvents:0.40
+  work:0.40
+  produce:0.40
+  scedule:0.40
+
+K: 5, Log-Likelihood: -338.337, Alpha: 11.000, Beta: 1.100

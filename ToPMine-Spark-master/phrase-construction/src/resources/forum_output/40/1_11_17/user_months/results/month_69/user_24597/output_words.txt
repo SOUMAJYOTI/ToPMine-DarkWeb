@@ -1,0 +1,61 @@
+Topic 0:
+  truecrypt:2.93
+  veracrypt:2.51
+  devs:1.09
+  based:1.08
+  auditing:1.08
+  code:0.97
+  works:0.57
+  specific:0.43
+  pulled:0.43
+  isnt:0.43
+
+Topic 1:
+  veracrypt:2.34
+  truecrypt:1.36
+  code:0.98
+  works:0.56
+  secure:0.40
+  encryption:0.34
+  happy:0.34
+  open:0.33
+  perfectly:0.33
+  software:0.33
+
+Topic 2:
+  veracrypt:0.92
+  code:0.71
+  secure:0.60
+  happy:0.45
+  encryption:0.45
+  truecrypt:0.42
+  programs:0.34
+  mi:0.30
+  works:0.29
+  basically:0.22
+
+Topic 3:
+  programs:2.36
+  mi:1.42
+  recommended:0.57
+  trusted:0.57
+  interesting:0.57
+  gchq:0.57
+  bad:0.57
+  agencies:0.57
+  mossad:0.57
+  outset:0.57
+
+Topic 4:
+  veracrypt:2.01
+  truecrypt:1.21
+  code:1.04
+  works:0.50
+  happy:0.41
+  encryption:0.41
+  auditing:0.40
+  based:0.40
+  devs:0.39
+  secure:0.33
+
+K: 5, Log-Likelihood: -495.335, Alpha: 11.000, Beta: 1.100

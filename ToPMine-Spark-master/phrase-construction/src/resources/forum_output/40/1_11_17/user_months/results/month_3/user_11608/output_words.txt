@@ -1,0 +1,61 @@
+Topic 0:
+  closed:0.55
+  coins:0.55
+  shutdown:0.42
+  support:0.42
+  temporary:0.42
+  improvements:0.42
+  bitcoins:0.42
+  ideas:0.41
+  throw:0.41
+  month:0.41
+
+Topic 1:
+  coins:0.47
+  closed:0.47
+  bottomless:0.45
+  sr:0.45
+  week:0.44
+  market:0.44
+  af:0.44
+  ideas:0.44
+  throw:0.44
+  pit:0.44
+
+Topic 2:
+  coins:0.71
+  closed:0.69
+  site:0.44
+  yeah:0.44
+  repaidhahah:0.44
+  february:0.41
+  quote:0.41
+  pit:0.37
+  throw:0.37
+  month:0.37
+
+Topic 3:
+  coins:0.70
+  closed:0.69
+  site:0.44
+  repaidhahah:0.44
+  yeah:0.44
+  february:0.41
+  quote:0.41
+  shutdown:0.38
+  market:0.38
+  bottomless:0.38
+
+Topic 4:
+  closed:0.60
+  coins:0.58
+  pit:0.40
+  february:0.40
+  quote:0.40
+  bitcoins:0.40
+  af:0.40
+  throw:0.40
+  temporary:0.40
+  month:0.40
+
+K: 5, Log-Likelihood: -187.988, Alpha: 11.000, Beta: 1.100

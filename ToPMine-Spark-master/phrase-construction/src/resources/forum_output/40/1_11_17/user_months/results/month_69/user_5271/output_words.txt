@@ -1,0 +1,61 @@
+Topic 0:
+  tails:1.61
+  update:1.15
+  download:1.12
+  secure:1.02
+  don:0.54
+  rebuild:0.52
+  complete:0.52
+  persistent:0.52
+  task:0.52
+  cloning:0.52
+
+Topic 1:
+  tails:2.13
+  secure:1.48
+  download:0.67
+  update:0.65
+  running:0.43
+  bandbox:0.43
+  competent:0.43
+  bugs:0.43
+  start:0.43
+  security:0.43
+
+Topic 2:
+  tails:2.27
+  secure:1.47
+  download:0.59
+  update:0.56
+  stick:0.46
+  larger:0.46
+  setup:0.46
+  gb:0.45
+  smarter:0.44
+  team:0.44
+
+Topic 3:
+  tails:2.22
+  secure:2.03
+  update:0.56
+  download:0.53
+  larger:0.47
+  gb:0.47
+  stick:0.47
+  setup:0.47
+  warning:0.44
+  save:0.44
+
+Topic 4:
+  tails:1.77
+  download:1.09
+  update:1.08
+  secure:1.00
+  losing:0.50
+  relationships:0.50
+  vendors:0.50
+  times:0.50
+  persistent:0.50
+  feel:0.50
+
+K: 5, Log-Likelihood: -615.854, Alpha: 11.000, Beta: 1.100

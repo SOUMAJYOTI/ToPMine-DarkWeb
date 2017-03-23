@@ -1,0 +1,61 @@
+Topic 0:
+  worried:0.78
+  destroy:0.68
+  day:0.67
+  national:0.67
+  phone:0.63
+  teh:0.35
+  features:0.35
+  evil:0.35
+  heh:0.35
+  worry:0.35
+
+Topic 1:
+  road:6.53
+  silk:6.48
+  bridges:4.50
+  ulbricht:3.57
+  federal:3.56
+  admitted:3.54
+  guilty:2.59
+  laundering:2.59
+  member:2.59
+  agent:2.58
+
+Topic 2:
+  phone:0.59
+  national:0.58
+  day:0.58
+  destroy:0.57
+  worried:0.46
+  quote:0.28
+  technlogy:0.28
+  august:0.28
+  dogatemyacid:0.28
+  alreadyi:0.28
+
+Topic 3:
+  phone:0.72
+  worried:0.70
+  national:0.68
+  day:0.68
+  destroy:0.68
+  html:0.36
+  atop:0.34
+  smartphone:0.34
+  evil:0.34
+  worry:0.34
+
+Topic 4:
+  battery:7.50
+  websites:4.85
+  internet:3.85
+  users:3.85
+  phones:3.85
+  people:3.85
+  phone:3.02
+  researchers:2.85
+  software:2.85
+  html:1.98
+
+K: 5, Log-Likelihood: -1372.031, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  invitation:0.40
+  valhalla:0.40
+  dont:0.40
+  thread:0.40
+  access:0.20
+  code:0.20
+  nice:0.20
+  worry:0.20
+  general:0.20
+  acc:0.20
+
+Topic 1:
+  invitation:0.41
+  dont:0.41
+  valhalla:0.40
+  thread:0.39
+  parade:0.20
+  silkkitie:0.20
+  upgraded:0.20
+  access:0.20
+  bonus:0.20
+  ur:0.20
+
+Topic 2:
+  thread:0.42
+  valhalla:0.40
+  dont:0.39
+  invitation:0.38
+  original:0.21
+  support:0.21
+  inappropriate:0.21
+  spam:0.21
+  love:0.21
+  market:0.21
+
+Topic 3:
+  dont:0.42
+  invitation:0.42
+  valhalla:0.39
+  thread:0.37
+  worry:0.21
+  purchase:0.21
+  st:0.21
+  silkkitie:0.21
+  nice:0.21
+  bonus:0.21
+
+Topic 4:
+  thread:0.42
+  valhalla:0.41
+  dont:0.39
+  invitation:0.38
+  love:0.21
+  place:0.21
+  support:0.21
+  inappropriate:0.21
+  places:0.21
+  link:0.21
+
+K: 5, Log-Likelihood: -105.452, Alpha: 11.000, Beta: 1.100

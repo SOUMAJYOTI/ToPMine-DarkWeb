@@ -1,0 +1,61 @@
+Topic 0:
+  disc:7.13
+  comp:4.73
+  clue:3.82
+  managed:3.82
+  step:3.82
+  burn iso file:3.82
+  breaking:3.82
+  hold:3.15
+  key:3.14
+  isnt rly ideal dunno:2.57
+
+Topic 1:
+  quote mirage february:5.30
+  mentioned:4.66
+  cd drive:4.65
+  dont:4.32
+  external:4.23
+  dvd:3.68
+  burning:3.67
+  ill:3.62
+  pmwell:3.39
+  february:3.28
+
+Topic 2:
+  dvd drive:3.85
+  day:3.34
+  work:2.87
+  affordable:2.32
+  stuff barely:2.32
+  checked:2.32
+  benefit:2.32
+  suggestions:2.32
+  prices:2.32
+  cuz:2.32
+
+Topic 3:
+  tails:6.23
+  reading realize worked smoothly:5.67
+  restarted hit alt refind:5.67
+  command needed add instructions:5.67
+  great difficulty strings suds:5.67
+  evilgrin march pmyeah:4.94
+  super tiny hardwares age:4.94
+  problems retina display stuff:4.94
+  usb choosing black screen:4.91
+  add lot:4.79
+
+Topic 4:
+  disk:12.29
+  gb disk:11.97
+  disk type size identifier:9.57
+  thumbdrive:9.57
+  desktop:7.17
+  pipe viewer:7.17
+  partition scheme:7.17
+  disk apple:7.17
+  mac:5.33
+  thing:4.78
+
+K: 5, Log-Likelihood: -7216.114, Alpha: 11.000, Beta: 1.100

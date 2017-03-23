@@ -1,0 +1,61 @@
+Topic 0:
+  string:3.53
+  random:3.53
+  system:3.53
+  turn:2.09
+  key:1.74
+  supplied:1.74
+  supposed:1.74
+  result:1.74
+  encrypted message:1.74
+  encrypts:1.74
+
+Topic 1:
+  court documents:4.25
+  canadian:3.52
+  forensics:3.25
+  device:2.92
+  law enforcement:2.85
+  encryption:2.30
+  device protected:2.29
+  decrypt:2.22
+  media relations officer:2.17
+  december:2.07
+
+Topic 2:
+  fa:3.25
+  nucleus:2.66
+  confused:2.66
+  account:2.49
+  deep:2.40
+  web:2.40
+  iphone:2.36
+  pgp:2.08
+  accessing:1.95
+  darknet:1.87
+
+Topic 3:
+  court documents:3.56
+  forensics:3.50
+  law enforcement:3.39
+  device:3.26
+  canadian:2.47
+  techniques:2.40
+  reads:2.37
+  messages:2.36
+  drug trafficking case:2.34
+  crime news:2.24
+
+Topic 4:
+  court documents:3.23
+  canadian:2.27
+  device:2.08
+  law enforcement:2.02
+  forensics:1.51
+  motherboard:1.51
+  crime news:1.46
+  device protected:1.45
+  rcmp:1.42
+  messages:1.42
+
+K: 5, Log-Likelihood: -4056.235, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  news:3.48
+  working:2.21
+  agora:1.63
+  april:1.42
+  hours:1.28
+  ago:1.26
+  cluster:1.05
+  management:1.03
+  silk:1.02
+  style:1.02
+
+Topic 1:
+  reason:1.38
+  doubt:1.12
+  agra:1.10
+  message:1.07
+  sr:1.04
+  april:0.89
+  weeks:0.84
+  working:0.78
+  quote:0.75
+  fatherted:0.72
+
+Topic 2:
+  news:4.28
+  working:2.14
+  agora:1.76
+  ago:1.53
+  april:1.46
+  running:1.32
+  good:1.31
+  aye:1.29
+  fuck:1.28
+  prevents:1.26
+
+Topic 3:
+  message:1.95
+  agra:1.67
+  site:1.35
+  reason:1.22
+  dont:0.90
+  forum:0.88
+  sr:0.87
+  weeks:0.82
+  hope:0.80
+  time:0.77
+
+Topic 4:
+  doubt:2.45
+  reason:2.42
+  message:2.05
+  site:1.44
+  weeks:1.30
+  agra:1.27
+  business:0.94
+  staff:0.82
+  time:0.78
+  hope:0.78
+
+K: 5, Log-Likelihood: -1242.753, Alpha: 11.000, Beta: 1.100

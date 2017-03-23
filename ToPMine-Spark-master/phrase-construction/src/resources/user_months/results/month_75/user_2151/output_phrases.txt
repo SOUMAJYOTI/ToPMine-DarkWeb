@@ -1,0 +1,61 @@
+Topic 0:
+  photos:0.24
+  stock:0.16
+  url:0.16
+  customers:0.16
+  business:0.08
+  alphabay:0.08
+  shop:0.08
+  delivery:0.08
+  rapid:0.08
+  luxury:0.08
+
+Topic 1:
+  photos:0.24
+  stock:0.16
+  customers:0.16
+  url:0.16
+  delivery:0.08
+  luxury:0.08
+  china:0.08
+  expanding:0.08
+  free:0.08
+  sportwear:0.08
+
+Topic 2:
+  photos:0.24
+  customers:0.16
+  stock:0.16
+  url:0.16
+  alphabet:0.08
+  fee:0.08
+  started:0.08
+  australia:0.08
+  feedback:0.08
+  february:0.08
+
+Topic 3:
+  photos:0.24
+  customers:0.16
+  url:0.16
+  stock:0.16
+  darknet:0.08
+  started:0.08
+  sell:0.08
+  applicable:0.08
+  shipping:0.08
+  release:0.08
+
+Topic 4:
+  photos:0.24
+  stock:0.16
+  url:0.16
+  customers:0.16
+  growth:0.08
+  specialized:0.08
+  free:0.08
+  check:0.08
+  alphabay:0.08
+  wholesaler:0.08
+
+K: 5, Log-Likelihood: -71.240, Alpha: 11.000, Beta: 1.100

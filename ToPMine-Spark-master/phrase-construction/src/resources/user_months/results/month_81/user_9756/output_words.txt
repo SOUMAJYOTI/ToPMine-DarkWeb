@@ -1,0 +1,61 @@
+Topic 0:
+  currency:7.62
+  acceptance:3.49
+  government:3.00
+  power:2.81
+  true:2.38
+  crypto:2.12
+  deep:2.07
+  seizures:2.05
+  prolific:2.04
+  hacks:2.04
+
+Topic 1:
+  bitcoin:3.07
+  february:1.69
+  mtgox:1.61
+  hope:1.32
+  quote:1.30
+  stuck:1.22
+  hours:1.19
+  ago:1.18
+  coins:1.12
+  btc:1.09
+
+Topic 2:
+  bitcoin:2.40
+  february:2.03
+  quote:1.83
+  btc:1.11
+  hope:1.10
+  ago:1.10
+  hours:1.09
+  market:1.08
+  mtgox:0.92
+  stuck:0.77
+
+Topic 3:
+  true:2.78
+  february:2.04
+  bitcoin:1.79
+  market:1.68
+  quote:1.66
+  undermine:1.48
+  surprised:1.43
+  threatening:1.43
+  markets:1.41
+  black:1.41
+
+Topic 4:
+  news:7.42
+  bitcoin:6.90
+  bad:6.70
+  mtgox:3.09
+  media:2.83
+  stuck:2.63
+  read:2.60
+  yahoo:2.60
+  suck:2.60
+  people:2.60
+
+K: 5, Log-Likelihood: -1909.084, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  stuff:3.60
+  security:3.59
+  lots:3.57
+  people:2.70
+  cares:1.68
+  waiting:1.68
+  works:1.68
+  mentality:1.68
+  mst:1.68
+  selling:1.68
+
+Topic 1:
+  people:2.86
+  tba:1.25
+  push:1.11
+  market:1.02
+  sr:0.94
+  orders:0.85
+  days:0.75
+  quote:0.72
+  vendors:0.65
+  buyers:0.65
+
+Topic 2:
+  english:4.59
+  quote:3.65
+  language:3.58
+  january:2.52
+  people:2.23
+  tba:1.83
+  perfectscans:1.46
+  forget:1.45
+  usual:1.45
+  continue:1.45
+
+Topic 3:
+  good:2.90
+  market:2.81
+  site:2.51
+  free:1.91
+  time:1.91
+  things:1.91
+  folks:1.91
+  couple:1.91
+  guess:1.91
+  orders:1.31
+
+Topic 4:
+  sites:6.89
+  tba:3.75
+  main:2.89
+  trade:1.90
+  scammers:1.90
+  buyers:1.55
+  vendors:1.54
+  business:1.25
+  site:1.14
+  slow:0.95
+
+K: 5, Log-Likelihood: -1368.720, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bet:0.16
+  month:0.16
+  people:0.16
+  retirement:0.16
+  exit:0.16
+  problems:0.08
+  posts:0.08
+  eyes:0.08
+  operate:0.08
+  hansa:0.08
+
+Topic 1:
+  exit:0.16
+  people:0.16
+  month:0.16
+  bet:0.16
+  retirement:0.16
+  ago:0.08
+  slot:0.08
+  syndrome:0.08
+  shopping:0.08
+  stolen:0.08
+
+Topic 2:
+  retirement:0.16
+  bet:0.16
+  exit:0.16
+  people:0.16
+  month:0.16
+  places:0.08
+  eyes:0.08
+  hear:0.08
+  checked:0.08
+  reading:0.08
+
+Topic 3:
+  exit:0.16
+  month:0.16
+  people:0.16
+  retirement:0.16
+  bet:0.16
+  buts:0.08
+  time:0.08
+  ta:0.08
+  wrong:0.08
+  running:0.08
+
+Topic 4:
+  retirement:0.16
+  people:0.16
+  exit:0.16
+  bet:0.16
+  month:0.16
+  lot:0.08
+  hansa:0.08
+  love:0.08
+  checked:0.08
+  operate:0.08
+
+K: 5, Log-Likelihood: -157.577, Alpha: 11.000, Beta: 1.100

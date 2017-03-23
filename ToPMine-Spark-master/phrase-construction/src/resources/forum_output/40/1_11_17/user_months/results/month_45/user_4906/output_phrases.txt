@@ -1,0 +1,61 @@
+Topic 0:
+  download:4.94
+  opens:4.67
+  recieved:3.98
+  button:2.27
+  quote:2.27
+  java:2.27
+  responding:2.27
+  trouble:2.27
+  downloading pdf files:2.27
+  guessing:2.27
+
+Topic 1:
+  tails:8.80
+  document viewer:6.24
+  view pdf files:6.16
+  reboot tails:4.07
+  internet tor:4.06
+  connect:4.04
+  wired tireless:3.95
+  view:2.38
+  sessions tails:1.90
+  activate:1.89
+
+Topic 2:
+  links:3.05
+  download tor:1.83
+  main:1.83
+  illegal:1.82
+  files:1.82
+  worry:1.82
+  cashout:1.82
+  browser tails:1.82
+  unsafe:1.82
+  mediafire website:1.82
+
+Topic 3:
+  safest:1.45
+  view:1.34
+  won:1.11
+  view pdf files:0.95
+  document viewer:0.88
+  pdf files:0.76
+  files seperate storage device:0.76
+  wired tireless:0.76
+  tails:0.73
+  connect:0.67
+
+Topic 4:
+  disallow:4.66
+  clicking:2.26
+  secure:2.26
+  sounds:2.26
+  canvas:2.26
+  prompt:2.26
+  route:2.26
+  method:2.26
+  extraction:2.26
+  daystep:2.26
+
+K: 5, Log-Likelihood: -1877.725, Alpha: 11.000, Beta: 1.100

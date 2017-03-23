@@ -1,0 +1,61 @@
+Topic 0:
+  heard:3.21
+  internet:2.38
+  news:1.81
+  didnt:1.52
+  btc:1.52
+  misunderstood:1.52
+  catch:1.52
+  light:1.52
+  entire:1.52
+  story:1.52
+
+Topic 1:
+  trust:1.70
+  market:1.64
+  drugs reality people program:1.10
+  havent answers surely work:1.08
+  shared data folder network:1.07
+  solely purchase sale:1.06
+  limewire shared folder:1.06
+  program specific market consensuses:1.01
+  download software computer:1.01
+  itthis vendor buyer download:1.00
+
+Topic 2:
+  quote:1.88
+  bitbybit february pmquote evilgrin:1.35
+  february:1.32
+  trust parties:1.28
+  itthis vendor buyer download:1.28
+  pmthis precisely generation darkent:1.27
+  program specific market consensuses:1.27
+  download software computer:1.25
+  solely purchase sale drugs:1.08
+  reality:1.07
+
+Topic 3:
+  market:3.06
+  trust:2.95
+  people:2.94
+  trusted:2.91
+  sunwu march amquote:1.35
+  work download:1.35
+  load:1.35
+  doesnt:1.34
+  legal:1.34
+  advise:1.34
+
+Topic 4:
+  pmthis:1.60
+  program specific market:1.60
+  wallet:1.60
+  zerocoin:1.60
+  spying:1.60
+  bad:1.60
+  markets data:1.60
+  updates:1.60
+  brain:1.60
+  combines:1.60
+
+K: 5, Log-Likelihood: -1118.606, Alpha: 11.000, Beta: 1.100

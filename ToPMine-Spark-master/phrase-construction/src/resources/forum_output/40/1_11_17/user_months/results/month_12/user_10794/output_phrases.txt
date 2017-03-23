@@ -1,0 +1,61 @@
+Topic 0:
+  sudo apt install:6.29
+  ports:5.78
+  dns:3.82
+  bind:3.81
+  proxy order:3.72
+  protocol ip address port:3.72
+  design repos surprised install:3.72
+  add contrib repos youll:3.72
+  works command:3.08
+  proxychainsreading package:3.08
+
+Topic 1:
+  sources list:5.39
+  proxy set:5.38
+  apt plate:5.19
+  apt apt conf:4.53
+  site:3.99
+  proxychains:3.48
+  forum:2.68
+  chain socks:2.67
+  activate:2.67
+  wanted:2.67
+
+Topic 2:
+  type:3.91
+  suds:3.89
+  great:3.13
+  chain:3.12
+  windows:2.89
+  add:2.38
+  yeah:2.38
+  install:2.24
+  computer:1.95
+  pray dns:1.95
+
+Topic 3:
+  amnesia:4.23
+  proxychains:4.00
+  amelia:4.00
+  deb:4.00
+  deselected:4.00
+  main:4.00
+  kb:4.00
+  selecting:4.00
+  unpacking:4.00
+  setting:4.00
+
+Topic 4:
+  proxy:5.22
+  live:3.98
+  user:3.98
+  conf:3.98
+  http:3.93
+  tails:3.84
+  tor:3.15
+  packets:2.67
+  outbound:2.67
+  dont:2.17
+
+K: 5, Log-Likelihood: -4068.658, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  wu:0.78
+  localbitcoins:0.41
+  situation:0.41
+  call:0.40
+  fraud:0.40
+  phone:0.40
+  sending:0.40
+  money:0.40
+  flagged:0.20
+  pattern:0.20
+
+Topic 1:
+  wu:0.78
+  localbitcoins:0.40
+  money:0.40
+  call:0.40
+  sending:0.40
+  situation:0.40
+  fraud:0.40
+  phone:0.40
+  worried:0.20
+  send:0.20
+
+Topic 2:
+  wu:0.82
+  fraud:0.40
+  sending:0.40
+  money:0.40
+  phone:0.40
+  call:0.40
+  situation:0.40
+  localbitcoins:0.39
+  edit:0.20
+  stated:0.20
+
+Topic 3:
+  wu:0.80
+  situation:0.40
+  money:0.40
+  phone:0.40
+  localbitcoins:0.40
+  call:0.40
+  fraud:0.40
+  sending:0.40
+  justifying:0.20
+  transaction:0.20
+
+Topic 4:
+  wu:0.81
+  sending:0.40
+  fraud:0.40
+  phone:0.40
+  call:0.40
+  localbitcoins:0.40
+  situation:0.40
+  money:0.40
+  transactions:0.20
+  ways:0.20
+
+K: 5, Log-Likelihood: -195.437, Alpha: 11.000, Beta: 1.100

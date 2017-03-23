@@ -1,0 +1,61 @@
+Topic 0:
+  mnt:0.41
+  tikku:0.41
+  neuvoa:0.32
+  muistikortin:0.32
+  jo:0.32
+  fdisk:0.23
+  sda:0.23
+  tuon:0.18
+  loytanyt:0.15
+  tuotteista:0.15
+
+Topic 1:
+  tikku:0.98
+  mnt:0.95
+  sda:0.40
+  fdisk:0.40
+  muistikortin:0.19
+  neuvoa:0.19
+  jo:0.19
+  mkdir:0.18
+  menn:0.18
+  hakemistoon:0.18
+
+Topic 2:
+  mnt:0.57
+  tikku:0.54
+  fdisk:0.28
+  sda:0.28
+  neuvoa:0.26
+  muistikortin:0.26
+  jo:0.26
+  tuon:0.17
+  ksi:0.14
+  kokeilet:0.14
+
+Topic 3:
+  tikku:0.43
+  mnt:0.42
+  jo:0.31
+  muistikortin:0.31
+  neuvoa:0.31
+  sda:0.24
+  fdisk:0.24
+  tuon:0.18
+  vaivannnaosta:0.15
+  kayttojarjestelma:0.15
+
+Topic 4:
+  mnt:0.42
+  tikku:0.41
+  jo:0.32
+  neuvoa:0.31
+  muistikortin:0.31
+  fdisk:0.23
+  sda:0.23
+  tuon:0.18
+  sen:0.15
+  kvg:0.15
+
+K: 5, Log-Likelihood: -355.191, Alpha: 11.000, Beta: 1.100

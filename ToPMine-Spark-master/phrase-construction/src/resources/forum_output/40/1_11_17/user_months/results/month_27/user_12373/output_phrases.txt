@@ -1,0 +1,61 @@
+Topic 0:
+  onko:3.34
+  ei:3.34
+  nain:3.34
+  hyv:3.34
+  voi:3.12
+  eli:1.64
+  kuullut:1.64
+  joku:1.64
+  ollut:1.64
+  selvitt:1.64
+
+Topic 1:
+  tor:1.61
+  kannattaa:1.61
+  luotettava:1.61
+  aina:1.61
+  ysin:1.61
+  mail ei:1.61
+  toimiva:1.61
+  lt:1.61
+  itse yt:1.61
+  jota:1.61
+
+Topic 2:
+  ja:6.28
+  kotiin:5.00
+  yt ss:3.82
+  teisell:2.84
+  vain:2.83
+  ostat:2.41
+  kokeile:2.41
+  jo:2.41
+  voice:2.41
+  yhdist:2.41
+
+Topic 3:
+  ettei:2.83
+  happoa:2.56
+  jotain:1.45
+  veikkaan:1.44
+  katkoksesta:1.31
+  kuumotu:1.31
+  porukka:1.31
+  infoa:1.31
+  sist:1.31
+  kannalta:1.31
+
+Topic 4:
+  ett:1.10
+  toivottavasti:1.10
+  hienoa:1.10
+  ilmoitetaan:1.10
+  nopeasti:1.10
+  pystyss:1.09
+  tekemist:0.95
+  bitcoin:0.94
+  nopeasta:0.94
+  kanssa:0.94
+
+K: 5, Log-Likelihood: -2471.641, Alpha: 11.000, Beta: 1.100

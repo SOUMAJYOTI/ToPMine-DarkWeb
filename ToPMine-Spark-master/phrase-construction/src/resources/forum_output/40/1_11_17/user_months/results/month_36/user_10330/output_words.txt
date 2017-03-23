@@ -1,0 +1,61 @@
+Topic 0:
+  keys:57.26
+  gchq:49.96
+  encryption:43.00
+  communications:41.95
+  gemalto:38.00
+  agencies:34.22
+  security:32.88
+  network:31.98
+  mobile:29.83
+  intelligence:28.00
+
+Topic 1:
+  gnupg:99.00
+  version:28.99
+  key:26.76
+  keys:23.35
+  list:21.10
+  ftp:19.11
+  release:19.00
+  tar:19.00
+  bz:16.09
+  gpg:16.00
+
+Topic 2:
+  vendors:43.98
+  february:32.78
+  people:25.30
+  passwords:21.50
+  zaphod:17.91
+  pmquote:16.82
+  sr:16.65
+  real:15.20
+  dont:14.89
+  sites:14.13
+
+Topic 3:
+  law:12.94
+  evidence:11.98
+  government:11.29
+  user:10.80
+  ago:10.33
+  silk:9.27
+  germany:8.90
+  cases:8.74
+  road:8.22
+  harm:7.93
+
+Topic 4:
+  webrtc:9.38
+  users:8.93
+  vpn:8.76
+  ip:8.71
+  firefox:8.69
+  gc:7.99
+  fn:6.99
+  vulnerability:6.87
+  addresses:6.81
+  chrome:6.71
+
+K: 5, Log-Likelihood: -100455.697, Alpha: 11.000, Beta: 1.100

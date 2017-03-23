@@ -1,0 +1,61 @@
+Topic 0:
+  koch:4.62
+  software:1.91
+  time:1.77
+  encryption:1.69
+  free:1.65
+  security:1.33
+  year:1.14
+  money:1.11
+  email:1.09
+  pay:0.96
+
+Topic 1:
+  koch:3.12
+  free:1.56
+  encryption:1.55
+  software:1.48
+  time:1.41
+  money:1.18
+  security:1.15
+  year:0.99
+  gpg:0.85
+  email:0.83
+
+Topic 2:
+  koch:2.99
+  software:2.60
+  free:2.06
+  money:1.13
+  security:1.13
+  time:1.09
+  encryption:1.07
+  email:0.97
+  year:0.91
+  pgp:0.81
+
+Topic 3:
+  koch:1.79
+  software:1.74
+  time:0.95
+  year:0.94
+  money:0.90
+  free:0.85
+  security:0.83
+  encryption:0.82
+  email:0.63
+  pgp:0.62
+
+Topic 4:
+  software:4.27
+  koch:3.48
+  encryption:2.87
+  year:2.01
+  free:1.88
+  time:1.77
+  money:1.68
+  security:1.56
+  email:1.48
+  programmer:1.10
+
+K: 5, Log-Likelihood: -2477.057, Alpha: 11.000, Beta: 1.100

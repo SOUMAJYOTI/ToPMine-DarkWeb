@@ -1,0 +1,61 @@
+Topic 0:
+  buy:1.33
+  todayif:0.54
+  sad:0.54
+  today:0.54
+  bay:0.54
+  waited:0.54
+  starts:0.54
+  high:0.54
+  months:0.54
+  price:0.53
+
+Topic 1:
+  september:0.55
+  buy:0.53
+  quote:0.50
+  happen:0.42
+  headed:0.42
+  overnight:0.42
+  evilgrin:0.41
+  direction:0.41
+  dont real:0.41
+  pmi:0.41
+
+Topic 2:
+  paypal:0.68
+  wallet:0.60
+  bitcoins:0.59
+  dont:0.45
+  bitcoin:0.45
+  buy:0.39
+  papa:0.35
+  real:0.34
+  september:0.34
+  quote:0.33
+
+Topic 3:
+  bitcoins:1.47
+  wallet:1.45
+  paypal:1.05
+  thing:0.60
+  money bitcoin:0.60
+  market:0.60
+  dont money:0.60
+  sucks:0.60
+  credit:0.60
+  low:0.60
+
+Topic 4:
+  btc:4.68
+  fan:2.18
+  stake:2.18
+  states:0.96
+  bump:0.96
+  government:0.96
+  pr:0.96
+  company:0.96
+  united:0.96
+  silicon:0.96
+
+K: 5, Log-Likelihood: -451.172, Alpha: 11.000, Beta: 1.100

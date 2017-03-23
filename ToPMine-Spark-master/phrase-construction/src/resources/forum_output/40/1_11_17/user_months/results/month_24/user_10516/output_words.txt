@@ -1,0 +1,61 @@
+Topic 0:
+  wpa:6.93
+  inside:6.87
+  years:6.13
+  layers:3.93
+  shit:3.52
+  passwords:2.87
+  brute:2.87
+  random:2.87
+  range:2.86
+  thought:2.79
+
+Topic 1:
+  whonix:12.95
+  vm:6.00
+  running:5.52
+  gateway:5.11
+  workstation:4.74
+  notebook:4.10
+  tor:4.04
+  type:3.23
+  beaglebone:3.02
+  ethernet:2.92
+
+Topic 2:
+  system:9.64
+  qubes:8.92
+  whonix:8.11
+  security:6.88
+  time:3.99
+  high:3.93
+  vt:3.93
+  tpm:3.91
+  ram:3.74
+  fast:3.61
+
+Topic 3:
+  laptops:4.04
+  bitcoin:3.74
+  whonix:2.47
+  signal:2.37
+  fellow:2.23
+  vm:2.19
+  video:2.04
+  thing:2.02
+  router:1.99
+  ram:1.88
+
+Topic 4:
+  good:8.73
+  days:8.02
+  dont:4.84
+  dens:2.94
+  devices:2.90
+  owned:2.79
+  bad:2.79
+  work:2.75
+  internet:2.53
+  quote:1.99
+
+K: 5, Log-Likelihood: -5867.164, Alpha: 11.000, Beta: 1.100

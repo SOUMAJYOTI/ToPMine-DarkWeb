@@ -1,0 +1,61 @@
+Topic 0:
+  computer:4.33
+  blockchain:4.31
+  dont:3.39
+  people:2.66
+  qt:1.93
+  wallet:1.92
+  client:1.68
+  bitin:1.64
+  data:1.29
+  february:1.24
+
+Topic 1:
+  blockchain:5.84
+  quote:4.99
+  february:4.66
+  computer:3.34
+  storage:2.71
+  coinbase:2.61
+  secure:2.59
+  transactions:2.36
+  office:2.34
+  requires:2.30
+
+Topic 2:
+  sig:8.82
+  electrum:7.34
+  multi:5.93
+  verify:5.80
+  bitcoind:5.28
+  address:5.19
+  link:3.41
+  server:2.71
+  mufti:2.71
+  signing:2.71
+
+Topic 3:
+  client:4.28
+  users:2.65
+  clients:2.41
+  bitcoin:1.93
+  multi:1.89
+  prefer:1.86
+  thatd:1.78
+  drop:1.78
+  auto:1.78
+  totally:1.78
+
+Topic 4:
+  bitcoin:11.40
+  secure:9.91
+  blockchain:8.93
+  wallets:7.37
+  web:6.65
+  wallet:6.55
+  armoury:5.19
+  electrum:4.60
+  users:3.56
+  data:3.26
+
+K: 5, Log-Likelihood: -3134.941, Alpha: 11.000, Beta: 1.100

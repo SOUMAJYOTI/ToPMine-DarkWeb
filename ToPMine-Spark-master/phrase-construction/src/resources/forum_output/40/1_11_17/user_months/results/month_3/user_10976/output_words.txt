@@ -1,0 +1,61 @@
+Topic 0:
+  sr:4.78
+  vendor:2.03
+  account:2.02
+  product:1.88
+  agora:1.83
+  great:1.65
+  support:1.65
+  pdxblack:1.65
+  vending:0.95
+  claiming:0.71
+
+Topic 1:
+  invite:0.83
+  market:0.79
+  fuck:0.76
+  invites:0.75
+  posting:0.73
+  sign:0.61
+  benefit:0.60
+  agora:0.57
+  markets:0.54
+  sr:0.53
+
+Topic 2:
+  safe:1.39
+  invite:1.19
+  benefit:1.00
+  sign:0.96
+  sr:0.68
+  agora:0.57
+  vendors:0.54
+  promote:0.54
+  thread:0.54
+  evident:0.54
+
+Topic 3:
+  invite:0.95
+  posting:0.86
+  invites:0.85
+  fuck:0.82
+  market:0.81
+  sign:0.66
+  benefit:0.65
+  push:0.56
+  personal:0.56
+  banned:0.56
+
+Topic 4:
+  invite:0.86
+  fuck:0.84
+  posting:0.83
+  invites:0.80
+  market:0.71
+  sign:0.62
+  benefit:0.61
+  stopped:0.57
+  profit:0.57
+  doesnt:0.57
+
+K: 5, Log-Likelihood: -799.523, Alpha: 11.000, Beta: 1.100

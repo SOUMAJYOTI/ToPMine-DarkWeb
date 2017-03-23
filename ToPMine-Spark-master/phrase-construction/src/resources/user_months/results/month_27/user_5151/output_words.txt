@@ -1,0 +1,61 @@
+Topic 0:
+  smite:7.90
+  safe:7.24
+  reason:5.91
+  agora:5.30
+  time:4.97
+  sr:4.73
+  good:4.67
+  people:4.42
+  rant:3.92
+  stay:3.72
+
+Topic 1:
+  road:11.88
+  shut:11.10
+  benthall:10.84
+  website:10.46
+  silk:9.60
+  times:9.57
+  hsi:9.39
+  criminal:9.28
+  blake:8.80
+  free:7.86
+
+Topic 2:
+  sites:18.49
+  seized:15.48
+  site:9.56
+  hidden:9.46
+  escobar:5.96
+  original:5.92
+  forum:5.89
+  investigator:5.89
+  markets:5.45
+  complaint:5.33
+
+Topic 3:
+  drugs:31.60
+  people:23.97
+  drug:11.31
+  society:8.33
+  issue:7.86
+  folks:7.85
+  number:5.92
+  case:5.89
+  work:5.86
+  truth:5.86
+
+Topic 4:
+  drugs:20.06
+  people:13.50
+  public:12.26
+  war:11.49
+  society:9.52
+  drug:8.39
+  november:8.01
+  lsd:7.39
+  guy:6.72
+  forums:6.55
+
+K: 5, Log-Likelihood: -14707.168, Alpha: 11.000, Beta: 1.100

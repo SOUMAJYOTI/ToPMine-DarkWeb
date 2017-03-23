@@ -1,0 +1,61 @@
+Topic 0:
+  account:7.58
+  attack:6.78
+  system:6.53
+  hot:6.42
+  community:5.20
+  accounts:4.19
+  failure:3.79
+  bitcoin:3.67
+  month:3.65
+  storage:3.52
+
+Topic 1:
+  scam:6.68
+  read:3.93
+  expert:3.83
+  called:3.80
+  sr:2.92
+  pretty:2.90
+  oracle:2.87
+  doxd:2.86
+  deepdotweb:2.86
+  evidence:2.61
+
+Topic 2:
+  market:26.95
+  thought:14.91
+  marketplace:13.92
+  sr:13.41
+  money:12.72
+  people:12.20
+  february:12.19
+  backopy:10.91
+  bmr:9.45
+  dont:9.38
+
+Topic 3:
+  withdrawals:14.52
+  community:14.46
+  storage:14.46
+  staff:10.54
+  time:10.42
+  attacker:8.52
+  coins:7.69
+  transactions:7.25
+  safe:6.64
+  month:6.33
+
+Topic 4:
+  money:3.66
+  dont:3.49
+  secure:2.94
+  option:2.94
+  hacked:2.93
+  site:2.81
+  road:2.79
+  people:2.49
+  high:2.30
+  time:2.25
+
+K: 5, Log-Likelihood: -12903.205, Alpha: 11.000, Beta: 1.100

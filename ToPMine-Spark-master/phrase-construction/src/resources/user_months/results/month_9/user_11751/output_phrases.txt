@@ -1,0 +1,61 @@
+Topic 0:
+  problem:0.53
+  agora:0.48
+  time:0.35
+  darknet:0.34
+  site:0.34
+  thread:0.34
+  close:0.34
+  uptime:0.34
+  find:0.34
+  givin:0.26
+
+Topic 1:
+  problem:0.53
+  agora:0.48
+  time:0.35
+  find:0.34
+  uptime:0.34
+  close:0.34
+  darknet:0.34
+  thread:0.34
+  site:0.34
+  tor:0.26
+
+Topic 2:
+  problem:0.52
+  agora:0.47
+  time:0.34
+  site:0.34
+  uptime:0.34
+  thread:0.34
+  darknet:0.34
+  find:0.34
+  close:0.34
+  accesed:0.26
+
+Topic 3:
+  problem:0.50
+  agora:0.47
+  close:0.34
+  find:0.34
+  darknet:0.34
+  uptime:0.34
+  thread:0.34
+  site:0.34
+  time:0.33
+  directly:0.26
+
+Topic 4:
+  problem:0.48
+  agora:0.47
+  thread:0.34
+  close:0.34
+  darknet:0.34
+  uptime:0.34
+  find:0.34
+  site:0.34
+  time:0.32
+  defcon:0.26
+
+K: 5, Log-Likelihood: -309.761, Alpha: 11.000, Beta: 1.100

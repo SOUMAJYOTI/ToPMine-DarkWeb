@@ -1,0 +1,61 @@
+Topic 0:
+  safe:4.37
+  exit:2.58
+  scam:2.44
+  november:1.93
+  coming:1.87
+  confirmed:1.84
+  coin:1.75
+  oil:1.74
+  patronage:1.71
+  counts:1.71
+
+Topic 1:
+  good:2.73
+  scam:1.99
+  november:1.74
+  exit:1.60
+  lost:1.48
+  quote:1.33
+  louder:1.05
+  find:1.03
+  vendors:1.01
+  grams:1.01
+
+Topic 2:
+  exit:3.79
+  november:3.78
+  scam:3.25
+  quote:1.95
+  good:1.75
+  likelihood:1.57
+  irl:1.53
+  amit:1.50
+  movement:1.49
+  thizzlewizzard:1.49
+
+Topic 3:
+  november:2.73
+  scam:2.59
+  exit:2.39
+  good:1.99
+  quote:1.64
+  likelihood:1.19
+  dodongo:0.94
+  safe:0.90
+  lost:0.88
+  confirmed:0.70
+
+Topic 4:
+  november:2.83
+  scam:2.73
+  exit:2.64
+  quote:1.75
+  lost:1.38
+  good:1.21
+  likelihood:1.16
+  dodongo:1.04
+  funny:0.81
+  louder:0.80
+
+K: 5, Log-Likelihood: -1260.268, Alpha: 11.000, Beta: 1.100

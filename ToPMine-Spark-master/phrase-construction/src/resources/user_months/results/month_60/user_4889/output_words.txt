@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:4.80
+  market:3.46
+  october:1.51
+  abraxas:1.48
+  quote:1.47
+  mind:1.29
+  bullshit:1.07
+  thinking:1.03
+  coins:1.01
+  mymarkethaul:0.95
+
+Topic 1:
+  wallet:4.41
+  abraxas:3.82
+  public:1.46
+  coming:1.06
+  mix:1.02
+  taint:0.99
+  bitstamp:0.94
+  evolution:0.85
+  agora:0.84
+  coins:0.83
+
+Topic 2:
+  wallet:4.60
+  abraxas:3.99
+  coins:1.95
+  market:1.55
+  withdrawals:1.22
+  number:0.99
+  amount:0.98
+  listings:0.97
+  earlier:0.96
+  quote:0.78
+
+Topic 3:
+  public:3.29
+  wallet:2.98
+  identity:2.18
+  btc:2.07
+  real:1.70
+  transactions:1.70
+  bank:1.69
+  abraxas:1.60
+  taint:1.41
+  agora:1.22
+
+Topic 4:
+  wallet:2.22
+  abraxas:2.11
+  coins:1.80
+  market:1.47
+  mymarkethaul:1.35
+  thinking:1.28
+  bullshit:1.21
+  october:1.04
+  quote:1.04
+  taint:0.82
+
+K: 5, Log-Likelihood: -1719.290, Alpha: 11.000, Beta: 1.100

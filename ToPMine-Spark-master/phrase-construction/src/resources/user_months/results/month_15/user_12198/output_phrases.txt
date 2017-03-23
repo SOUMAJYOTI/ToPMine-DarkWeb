@@ -1,0 +1,61 @@
+Topic 0:
+  eri:2.63
+  jos:1.71
+  asiakas:1.71
+  nyt:1.71
+  olla:1.71
+  minne:1.71
+  tullut:1.71
+  kuitenkin:1.71
+  ollut:1.71
+  perille:1.71
+
+Topic 1:
+  myyj:0.30
+  paketti jo:0.30
+  ll:0.30
+  se:0.28
+  ja:0.27
+  joku:0.20
+  sinne:0.20
+  kun:0.20
+  matka:0.20
+  pe:0.20
+
+Topic 2:
+  kyll:1.60
+  sattuu:1.60
+  time:1.60
+  toimitus:1.60
+  katoaa:1.59
+  myyj:1.38
+  ulkomailta:0.73
+  varmuus:0.73
+  niit:0.73
+  turha:0.73
+
+Topic 3:
+  postin:2.60
+  ostajan:1.69
+  postitus:1.69
+  ny:1.69
+  restanteen:0.88
+  ett:0.88
+  sti:0.79
+  en:0.79
+  eik:0.79
+  varmast:0.79
+
+Topic 4:
+  paketti jo:1.44
+  se:0.90
+  tiettyyn:0.63
+  hte:0.63
+  sluokassa:0.63
+  yty:0.63
+  mist:0.63
+  postilaatikkojen:0.63
+  jonain:0.63
+  vai:0.63
+
+K: 5, Log-Likelihood: -1379.364, Alpha: 11.000, Beta: 1.100

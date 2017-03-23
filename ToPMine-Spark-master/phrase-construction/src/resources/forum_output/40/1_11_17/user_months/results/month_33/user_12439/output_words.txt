@@ -1,0 +1,61 @@
+Topic 0:
+  ja:4.46
+  koska:3.09
+  olla:2.79
+  yritt:2.10
+  finlandonlinen:1.94
+  maksimoida:1.92
+  jatkaa:1.92
+  pain:1.92
+  skin:1.92
+  tilausten:1.92
+
+Topic 1:
+  vittu:2.23
+  ja:2.03
+  fe:1.59
+  teksti:1.45
+  ei:1.15
+  kuin:1.08
+  ainiin:0.92
+  juuri:0.91
+  kusettajaksi:0.91
+  ll:0.91
+
+Topic 2:
+  jos:4.58
+  en:3.08
+  jotka:2.11
+  voi:2.03
+  se:1.97
+  ytt:1.97
+  st:1.95
+  mik:1.89
+  ett:1.89
+  mutta:1.88
+
+Topic 3:
+  kseno:1.77
+  kundi:1.77
+  finlandonline:1.40
+  ksenolle:1.39
+  eat:1.19
+  sama:0.99
+  muualta:0.82
+  tulla:0.81
+  rottia:0.81
+  kakolassa:0.81
+
+Topic 4:
+  fe:1.49
+  silkkitiell:1.48
+  vittu:0.75
+  sinun:0.72
+  aika:0.71
+  olen:0.71
+  blottereita:0.71
+  nyky:0.71
+  ne:0.71
+  ihan:0.71
+
+K: 5, Log-Likelihood: -2662.158, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  people:3.52
+  dont:3.30
+  tool:2.95
+  game:2.93
+  bad:2.78
+  yeah:2.61
+  acid:2.34
+  darpa:1.95
+  violent:1.95
+  white:1.95
+
+Topic 1:
+  sillywabbit:5.26
+  key:5.06
+  time:3.97
+  fff:2.97
+  ce:2.97
+  ssb:2.97
+  signed:2.97
+  pgp:1.97
+  bf:1.97
+  keypair:1.97
+
+Topic 2:
+  bm:3.85
+  feel:2.06
+  deep:1.90
+  web:1.84
+  dont:1.52
+  ezenkm:0.93
+  eats:0.93
+  welcomes:0.93
+  doesnt:0.93
+  ppobscsudbv:0.93
+
+Topic 3:
+  key:11.89
+  subkey:5.97
+  created:3.97
+  main:3.97
+  pub:2.97
+  usage:2.97
+  public:2.97
+  expires:2.97
+  keys:2.12
+  ef:2.12
+
+Topic 4:
+  people:11.93
+  lsd:6.61
+  acid:6.53
+  allot:5.75
+  bad:5.15
+  gamesome:3.97
+  led:3.97
+  post:2.97
+  purely:2.97
+  doubt:2.97
+
+K: 5, Log-Likelihood: -4932.524, Alpha: 11.000, Beta: 1.100

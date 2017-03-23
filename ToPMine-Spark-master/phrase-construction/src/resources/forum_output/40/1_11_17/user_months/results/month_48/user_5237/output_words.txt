@@ -1,0 +1,61 @@
+Topic 0:
+  trust:0.78
+  site:0.78
+  deep:0.64
+  web:0.63
+  thought:0.63
+  kinda:0.62
+  btc:0.59
+  agora:0.57
+  recomend:0.53
+  laugh:0.45
+
+Topic 1:
+  site:0.84
+  trust:0.72
+  thought:0.65
+  kinda:0.64
+  web:0.63
+  deep:0.62
+  recomend:0.60
+  agora:0.58
+  btc:0.55
+  lols:0.43
+
+Topic 2:
+  site:0.88
+  trust:0.79
+  deep:0.63
+  kinda:0.63
+  recomend:0.60
+  web:0.60
+  thought:0.60
+  agora:0.59
+  btc:0.56
+  buy:0.45
+
+Topic 3:
+  trust:0.86
+  site:0.79
+  btc:0.66
+  recomend:0.63
+  agora:0.63
+  deep:0.57
+  web:0.57
+  kinda:0.56
+  thought:0.55
+  market:0.42
+
+Topic 4:
+  trust:0.85
+  site:0.71
+  btc:0.65
+  recomend:0.64
+  agora:0.63
+  web:0.57
+  thought:0.57
+  kinda:0.56
+  deep:0.54
+  safe:0.43
+
+K: 5, Log-Likelihood: -363.852, Alpha: 11.000, Beta: 1.100

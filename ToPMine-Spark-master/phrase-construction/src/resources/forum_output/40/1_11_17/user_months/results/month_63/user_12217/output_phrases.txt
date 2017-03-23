@@ -1,0 +1,61 @@
+Topic 0:
+  join:0.54
+  ja:0.44
+  minun linkill:0.34
+  ytt:0.25
+  mukaan:0.25
+  viell:0.25
+  jos olet:0.25
+  laittaa:0.25
+  bobbe october:0.25
+  palkinnon:0.24
+
+Topic 1:
+  minun linkill:0.76
+  ytt:0.46
+  mukaan:0.46
+  viell:0.46
+  ja:0.38
+  jos olet:0.35
+  laittaa:0.35
+  bobbe october:0.35
+  join:0.23
+  quote:0.22
+
+Topic 2:
+  join:0.44
+  ja:0.43
+  minun linkill:0.40
+  mukaan:0.29
+  viell:0.29
+  ytt:0.29
+  bobbe october:0.27
+  laittaa:0.27
+  jos olet:0.27
+  person:0.21
+
+Topic 3:
+  ja:0.42
+  minun linkill:0.42
+  join:0.42
+  mukaan:0.30
+  ytt:0.30
+  viell:0.30
+  bobbe october:0.28
+  laittaa:0.28
+  jos olet:0.28
+  yksityisviestill:0.21
+
+Topic 4:
+  minun linkill:0.83
+  viell:0.54
+  mukaan:0.53
+  ytt:0.53
+  jos olet:0.38
+  laittaa:0.38
+  bobbe october:0.38
+  ja:0.37
+  korkea:0.24
+  suoritetaan:0.24
+
+K: 5, Log-Likelihood: -416.287, Alpha: 11.000, Beta: 1.100

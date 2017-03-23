@@ -1,0 +1,61 @@
+Topic 0:
+  politics:9.06
+  dont:4.90
+  political:3.47
+  doesnt:2.80
+  point:2.78
+  guys:2.54
+  shut:2.36
+  survive:2.35
+  longer:2.35
+  sr:2.29
+
+Topic 1:
+  silk:9.44
+  road:8.17
+  agora:7.68
+  market:5.07
+  markets:4.82
+  takedown:4.24
+  law:4.09
+  fed:3.92
+  dollar:3.92
+  december:3.85
+
+Topic 2:
+  silk:30.56
+  road:28.56
+  users:7.53
+  dark:4.95
+  political:4.48
+  rise:4.32
+  community:4.19
+  net:3.95
+  freedom:3.95
+  idea:3.21
+
+Topic 3:
+  sr:6.24
+  dead:5.67
+  brand:4.77
+  january:3.83
+  road:3.70
+  wait:2.93
+  vendors:2.83
+  people:2.80
+  silk:2.76
+  jerk:2.69
+
+Topic 4:
+  sr:7.57
+  community:7.07
+  site:3.96
+  youll:2.96
+  purchase:2.74
+  staff:2.74
+  offered:2.74
+  private:2.74
+  pip:2.73
+  members:2.21
+
+K: 5, Log-Likelihood: -5778.523, Alpha: 11.000, Beta: 1.100

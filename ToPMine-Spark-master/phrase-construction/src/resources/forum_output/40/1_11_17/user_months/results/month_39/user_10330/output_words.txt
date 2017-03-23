@@ -1,0 +1,61 @@
+Topic 0:
+  passphrase:59.98
+  word:47.31
+  pgp:44.06
+  diceware:39.94
+  quote:34.92
+  march:33.98
+  message:28.40
+  zaphod:27.09
+  key:25.62
+  list:24.81
+
+Topic 1:
+  users:17.10
+  browser:16.60
+  government:15.54
+  law:15.08
+  security:14.55
+  firefox:12.95
+  evidence:11.98
+  address:11.83
+  ago:11.72
+  silk:10.80
+
+Topic 2:
+  gc:8.00
+  fn:7.00
+  bx:6.00
+  cx:6.00
+  da:6.00
+  eb:6.00
+  gm:6.00
+  uz:6.00
+  ee:5.02
+  bk:5.00
+
+Topic 3:
+  keys:56.53
+  gchq:49.97
+  encryption:43.78
+  communications:41.97
+  gemalto:38.00
+  agencies:34.16
+  network:31.79
+  data:30.71
+  mobile:29.97
+  intelligence:28.00
+
+Topic 4:
+  gnupg:98.99
+  vendors:44.94
+  key:33.90
+  version:29.98
+  february:29.39
+  people:27.51
+  release:26.94
+  keys:24.47
+  dont:21.44
+  passwords:20.87
+
+K: 5, Log-Likelihood: -122151.401, Alpha: 11.000, Beta: 1.100

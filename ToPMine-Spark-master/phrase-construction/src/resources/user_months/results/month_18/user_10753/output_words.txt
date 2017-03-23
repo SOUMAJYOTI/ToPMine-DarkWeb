@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:1.44
+  partition:0.91
+  persistent:0.91
+  working:0.67
+  tails:0.63
+  tarball:0.61
+  files:0.61
+  pasting:0.60
+  keys:0.50
+  ago:0.49
+
+Topic 1:
+  amnesia:5.84
+  execute:2.84
+  electrum:2.30
+  permissions:2.12
+  set:2.12
+  rwxr:1.85
+  xr:1.85
+  wrong:0.92
+  file:0.92
+  folder:0.92
+
+Topic 2:
+  electrum:6.31
+  pasting:0.95
+  folder:0.86
+  worked:0.63
+  perfectly:0.62
+  getbash:0.62
+  heyi:0.62
+  rubthank:0.62
+  ckl:0.62
+  localhost:0.62
+
+Topic 3:
+  tails:3.67
+  stick:1.64
+  problem:1.64
+  problems:1.15
+  ago:1.14
+  keys:1.14
+  working:1.00
+  perfectly:0.91
+  worked:0.91
+  days:0.71
+
+Topic 4:
+  persistence:5.40
+  key:5.31
+  partition:4.45
+  storing:3.19
+  messages:2.81
+  dotfiles:1.82
+  encrypting:1.82
+  output:1.82
+  secret:1.81
+  tarball:0.84
+
+K: 5, Log-Likelihood: -934.207, Alpha: 11.000, Beta: 1.100

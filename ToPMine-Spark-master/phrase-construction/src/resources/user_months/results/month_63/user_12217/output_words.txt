@@ -1,0 +1,61 @@
+Topic 0:
+  ja:1.22
+  jos:0.88
+  ytt:0.81
+  luvassa:0.67
+  nain:0.66
+  bobbe:0.66
+  olet:0.65
+  laittaa:0.64
+  october:0.64
+  linkill:0.56
+
+Topic 1:
+  join:1.71
+  ja:1.22
+  link:0.75
+  viestin:0.75
+  someting:0.75
+  arvon:0.75
+  liity:0.75
+  ostoja:0.75
+  nisan:0.75
+  nice:0.75
+
+Topic 2:
+  ja:1.10
+  ytt:0.99
+  minun:0.86
+  linkill:0.83
+  jos:0.81
+  laittaa:0.79
+  olet:0.78
+  october:0.76
+  bobbe:0.76
+  viell:0.55
+
+Topic 3:
+  ja:1.34
+  ytt:1.12
+  minun:0.87
+  linkill:0.85
+  jos:0.84
+  laittaa:0.77
+  october:0.76
+  bobbe:0.76
+  olet:0.76
+  viell:0.55
+
+Topic 4:
+  ja:1.13
+  ytt:0.99
+  jos:0.95
+  october:0.75
+  bobbe:0.73
+  olet:0.72
+  laittaa:0.71
+  linkill:0.70
+  minun:0.66
+  nain:0.60
+
+K: 5, Log-Likelihood: -576.934, Alpha: 11.000, Beta: 1.100

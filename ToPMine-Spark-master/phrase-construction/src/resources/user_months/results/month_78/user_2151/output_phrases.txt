@@ -1,0 +1,61 @@
+Topic 0:
+  photos:0.24
+  stock:0.16
+  url:0.16
+  customers:0.16
+  rechardsport:0.08
+  luxury:0.08
+  expanding:0.08
+  wholesaler:0.08
+  releasing:0.08
+  alphabay:0.08
+
+Topic 1:
+  photos:0.24
+  customers:0.16
+  stock:0.16
+  url:0.16
+  australia:0.08
+  required:0.08
+  applicable:0.08
+  february:0.08
+  started:0.08
+  rayban:0.08
+
+Topic 2:
+  photos:0.24
+  url:0.16
+  customers:0.16
+  stock:0.16
+  sample:0.08
+  fe:0.08
+  alphabet:0.08
+  market:0.08
+  fee:0.08
+  sunglasses:0.08
+
+Topic 3:
+  photos:0.24
+  url:0.16
+  stock:0.16
+  customers:0.16
+  releasing:0.08
+  china:0.08
+  alphabay:0.08
+  confidence:0.08
+  wholesaler:0.08
+  growth:0.08
+
+Topic 4:
+  photos:0.24
+  customers:0.16
+  stock:0.16
+  url:0.16
+  feedback:0.08
+  sell:0.08
+  release:0.08
+  required:0.08
+  february:0.08
+  canada:0.08
+
+K: 5, Log-Likelihood: -71.240, Alpha: 11.000, Beta: 1.100

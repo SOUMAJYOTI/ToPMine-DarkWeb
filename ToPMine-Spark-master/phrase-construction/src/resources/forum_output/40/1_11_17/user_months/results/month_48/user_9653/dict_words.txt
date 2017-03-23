@@ -1,0 +1,48 @@
+trust,0,2
+don,1,1
+mail,2,4
+onion,3,4
+onion providers,4,2
+impossible,5,2
+recommend,6,2
+simple,7,1
+secure,8,2
+sigaint,9,5
+good,10,1
+email onion,11,2
+reccomend,12,1
+servers,13,2
+provider,14,2
+email providers,15,1
+tor,16,4
+encrypt,17,2
+torbox,18,2
+host,19,2
+free,20,2
+email,21,6
+based,22,1
+simplest,23,1
+read,24,2
+address,25,1
+saint,26,1
+mail tor,27,2
+alternative,28,2
+people,29,2
+great,30,2
+javascript,31,2
+apologies,32,1
+searched,33,1
+super,34,1
+node,35,2
+lelantos,36,2
+onion email,37,1
+machine,38,2
+disable,39,2
+vps,40,2
+true,41,2
+guys,42,1
+setup,43,2
+compromised,44,2
+send,45,2
+providers,46,3
+dont,47,1

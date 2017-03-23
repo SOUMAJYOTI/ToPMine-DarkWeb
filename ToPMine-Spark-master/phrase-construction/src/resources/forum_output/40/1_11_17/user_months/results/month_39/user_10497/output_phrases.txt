@@ -1,0 +1,61 @@
+Topic 0:
+  quote claptrap february:2.41
+  weve:1.35
+  library:1.34
+  asses:1.33
+  computer:1.33
+  agree:1.33
+  nabbed:1.33
+  pmdecent:1.32
+  software:1.32
+  works works:1.31
+
+Topic 1:
+  good:1.00
+  quote zaphod february:0.93
+  long:0.90
+  questions:0.89
+  literally:0.89
+  nature:0.89
+  lol:0.85
+  amindeed:0.85
+  bahamas:0.85
+  haha:0.84
+
+Topic 2:
+  pgp:2.57
+  careless:1.39
+  real:1.39
+  natural:1.29
+  technology:1.24
+  ross:1.21
+  rest:1.18
+  security:1.17
+  spend:1.08
+  user people:0.82
+
+Topic 3:
+  good:1.46
+  quote zaphod february:0.83
+  encryption:0.76
+  crowd:0.71
+  haha:0.71
+  lol:0.71
+  bahamas:0.70
+  literally:0.70
+  nature:0.70
+  questions:0.70
+
+Topic 4:
+  pgp:2.10
+  spend:1.78
+  security:1.69
+  rest:1.68
+  technology:1.62
+  natural:1.56
+  ross:1.52
+  real:1.47
+  careless:1.47
+  billion:0.76
+
+K: 5, Log-Likelihood: -1113.178, Alpha: 11.000, Beta: 1.100

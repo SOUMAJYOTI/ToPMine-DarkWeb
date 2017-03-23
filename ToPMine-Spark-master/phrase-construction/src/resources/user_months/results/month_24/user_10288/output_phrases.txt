@@ -1,0 +1,61 @@
+Topic 0:
+  cash:4.73
+  bought:4.13
+  havent:4.13
+  downloading:4.13
+  illicit:4.13
+  leader:4.13
+  ring:4.13
+  materials:4.13
+  years:4.13
+  approach:4.13
+
+Topic 1:
+  traffic:12.41
+  computer:7.44
+  wifi:5.17
+  google:4.96
+  posted:4.96
+  macaddr:4.96
+  vpn:4.96
+  intercept:4.96
+  driven:4.96
+  tor:4.96
+
+Topic 2:
+  evil twin:5.64
+  nasty:5.34
+  wifi:5.03
+  paranoid:4.95
+  sudden:4.95
+  shit:4.95
+  ap:4.95
+  kind:4.89
+  access point:4.16
+  street:3.90
+
+Topic 3:
+  identify:9.92
+  unknowingly:7.44
+  miles:5.97
+  september:5.66
+  avoid:5.33
+  wife networks:4.96
+  radio fingerprint:4.95
+  mobile:4.95
+  powerful:4.95
+  breaking:4.95
+
+Topic 4:
+  carding:8.88
+  convert:4.94
+  steps:4.94
+  money:4.94
+  clearnet:4.94
+  hypothetically:4.91
+  card:4.09
+  virwox:4.09
+  bitcoin:4.04
+  concerned:3.78
+
+K: 5, Log-Likelihood: -11782.517, Alpha: 11.000, Beta: 1.100

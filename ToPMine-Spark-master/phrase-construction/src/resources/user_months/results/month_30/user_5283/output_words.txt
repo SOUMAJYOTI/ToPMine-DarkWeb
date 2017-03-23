@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:13.86
+  compromise:7.27
+  things:6.85
+  life:6.77
+  revealed:5.93
+  lot:5.93
+  mentioned:5.81
+  worry:5.68
+  reason:5.48
+  address:4.80
+
+Topic 1:
+  military:20.39
+  people:13.81
+  join:12.73
+  family:8.51
+  advance:7.79
+  regime:7.54
+  oppressive:7.39
+  wrong:6.79
+  intentions:6.21
+  november:5.40
+
+Topic 2:
+  country:10.72
+  good:7.23
+  service:6.42
+  guys:5.72
+  safe:5.44
+  army:4.70
+  true:4.14
+  bad:3.99
+  supposed:3.91
+  volunteer:3.91
+
+Topic 3:
+  life:8.50
+  find:5.91
+  brain:5.89
+  learn:5.88
+  friends:4.67
+  toxins:3.93
+  choices:3.86
+  tv:3.78
+  rot:3.78
+  food:3.78
+
+Topic 4:
+  people:13.31
+  oppressive:10.48
+  regime:10.33
+  november:8.07
+  quote:7.71
+  army:6.24
+  wrong:6.03
+  join:5.87
+  imprison:5.54
+  position:5.30
+
+K: 5, Log-Likelihood: -7488.515, Alpha: 11.000, Beta: 1.100

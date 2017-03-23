@@ -1,0 +1,61 @@
+Topic 0:
+  marketplace:0.41
+  middle:0.20
+  earth:0.20
+  security:0.20
+  nucleus:0.20
+  tom:0.18
+  cents:0.18
+  markets:0.18
+  evo:0.18
+  features:0.18
+
+Topic 1:
+  marketplace:0.41
+  nucleus:0.20
+  security:0.20
+  middle:0.20
+  earth:0.20
+  dnm:0.18
+  veterans:0.18
+  free:0.18
+  suggestions:0.18
+  feel:0.18
+
+Topic 2:
+  marketplace:0.41
+  security:0.20
+  nucleus:0.20
+  middle:0.20
+  earth:0.20
+  suggestions:0.18
+  add:0.18
+  liven:0.18
+  thread:0.18
+  forums:0.18
+
+Topic 3:
+  marketplace:0.41
+  earth:0.20
+  middle:0.20
+  nucleus:0.20
+  security:0.20
+  response:0.18
+  site:0.18
+  functions:0.18
+  responsive:0.18
+  intuitive:0.18
+
+Topic 4:
+  marketplace:0.41
+  earth:0.20
+  middle:0.20
+  security:0.20
+  nucleus:0.20
+  rise:0.18
+  features:0.18
+  agora:0.18
+  cents:0.18
+  order:0.18
+
+K: 5, Log-Likelihood: -157.964, Alpha: 11.000, Beta: 1.100

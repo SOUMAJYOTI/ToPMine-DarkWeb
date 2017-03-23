@@ -1,0 +1,61 @@
+Topic 0:
+  btc:3.35
+  listings:0.57
+  abraxas:0.56
+  signature:0.28
+  amazon:0.28
+  guy:0.28
+  vendor:0.28
+  count:0.28
+  east:0.28
+  drug:0.28
+
+Topic 1:
+  btc:2.99
+  abraxas:0.57
+  listings:0.55
+  drug:0.28
+  count:0.28
+  total:0.28
+  moving:0.28
+  middle:0.28
+  outlaw:0.28
+  open:0.28
+
+Topic 2:
+  btc:3.68
+  listings:0.56
+  abraxas:0.55
+  registration:0.28
+  outlaw:0.28
+  dhl:0.28
+  sites:0.28
+  india:0.28
+  oxygen:0.28
+  nice:0.28
+
+Topic 3:
+  btc:3.57
+  listings:0.55
+  abraxas:0.55
+  agora:0.28
+  silkkitien:0.28
+  bit:0.28
+  listing:0.28
+  middle:0.28
+  company:0.28
+  vendor:0.28
+
+Topic 4:
+  btc:1.66
+  listings:0.54
+  abraxas:0.54
+  abraxasreferal:0.37
+  wow:0.37
+  account:0.37
+  good:0.37
+  avengers:0.32
+  love:0.32
+  ill:0.28
+
+K: 5, Log-Likelihood: -294.499, Alpha: 11.000, Beta: 1.100

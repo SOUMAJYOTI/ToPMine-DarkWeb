@@ -1,0 +1,61 @@
+Topic 0:
+  file:3.68
+  customers:3.21
+  login screen:3.03
+  fine:2.65
+  basically:2.25
+  general:2.25
+  thing:2.25
+  trust:2.25
+  dark:2.25
+  surprises:2.25
+
+Topic 1:
+  vendor:4.50
+  login:4.05
+  experienced:3.62
+  vendor status:3.23
+  file error:3.07
+  bit:3.04
+  quote:2.26
+  write:2.16
+  keno:2.16
+  word:2.16
+
+Topic 2:
+  slow:3.71
+  agora:3.45
+  login file:2.18
+  login error:2.18
+  message:2.18
+  incorrect:2.18
+  landing:2.18
+  reload:2.18
+  sends:2.18
+  click:2.18
+
+Topic 3:
+  june:5.38
+  site:4.62
+  hours:4.08
+  beforeim:3.73
+  examples:3.73
+  pmits:3.73
+  talking:3.73
+  speedfreak:3.73
+  longest:3.73
+  days:3.73
+
+Topic 4:
+  system:4.59
+  color:4.59
+  attack:3.76
+  forums:3.41
+  explanation:2.24
+  green:2.24
+  seized:2.24
+  status agora:2.24
+  dysfunctional:2.24
+  maintenancered:2.24
+
+K: 5, Log-Likelihood: -1849.536, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  join:0.36
+  ja:0.32
+  jos:0.28
+  luvassa:0.28
+  nain:0.28
+  link:0.27
+  hyv:0.24
+  october:0.24
+  bobbe:0.24
+  quote:0.24
+
+Topic 1:
+  join:0.44
+  ja:0.33
+  link:0.29
+  luvassa:0.28
+  jos:0.28
+  nain:0.28
+  myyntej:0.23
+  viestin:0.23
+  yksityisviestill:0.23
+  kaikkien:0.23
+
+Topic 2:
+  join:0.36
+  ja:0.32
+  nain:0.28
+  jos:0.28
+  luvassa:0.28
+  link:0.27
+  sinuinkin:0.25
+  sit:0.25
+  muistathan:0.25
+  prevent:0.25
+
+Topic 3:
+  join:0.55
+  ja:0.33
+  nice:0.29
+  palkinnon:0.29
+  link:0.29
+  kivaa:0.29
+  arvon:0.29
+  win:0.29
+  tekev:0.29
+  ostoja:0.29
+
+Topic 4:
+  join:0.37
+  ja:0.32
+  nain:0.28
+  luvassa:0.28
+  jos:0.28
+  link:0.27
+  nimesi:0.24
+  visit:0.24
+  olet:0.24
+  saadan:0.24
+
+K: 5, Log-Likelihood: -331.308, Alpha: 11.000, Beta: 1.100

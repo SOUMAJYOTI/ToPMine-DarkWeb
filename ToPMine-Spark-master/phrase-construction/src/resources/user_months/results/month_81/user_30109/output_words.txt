@@ -1,0 +1,61 @@
+Topic 0:
+  dont:2.33
+  valhalla:2.33
+  links:2.27
+  quote:1.36
+  login:1.31
+  fuck:1.12
+  june:1.04
+  check:0.90
+  site:0.84
+  valid:0.83
+
+Topic 1:
+  links:3.14
+  check:2.81
+  dodongo:2.01
+  hoof:1.93
+  fuck:1.71
+  fucking:1.70
+  june:1.69
+  valhalla:1.52
+  bad:1.45
+  dont:1.43
+
+Topic 2:
+  valhalla:6.63
+  link:3.88
+  wallet:3.11
+  contact:2.85
+  yesterday:2.79
+  deposit:2.73
+  confirmations:2.72
+  blockchain:2.72
+  small:2.67
+  guys:2.36
+
+Topic 3:
+  links:2.57
+  check:2.07
+  dont:1.92
+  fucking:1.57
+  login:1.35
+  fuck:1.31
+  hoof:1.31
+  valid:1.23
+  dodongo:1.21
+  quote:1.18
+
+Topic 4:
+  valhalla:3.36
+  address:2.94
+  incoming:2.89
+  transaction:1.99
+  reaches:1.97
+  phising:1.97
+  saved:1.97
+  exact:1.96
+  user:1.95
+  problems:1.95
+
+K: 5, Log-Likelihood: -1660.603, Alpha: 11.000, Beta: 1.100

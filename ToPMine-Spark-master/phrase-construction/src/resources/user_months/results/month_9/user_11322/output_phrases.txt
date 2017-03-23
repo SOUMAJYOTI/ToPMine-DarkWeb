@@ -1,0 +1,61 @@
+Topic 0:
+  listings:0.40
+  guys:0.39
+  market:0.39
+  markets:0.39
+  hey:0.29
+  shortly:0.29
+  trusted:0.29
+  customers:0.29
+  sr:0.29
+  close:0.29
+
+Topic 1:
+  listings:0.39
+  guys:0.39
+  markets:0.39
+  market:0.39
+  original:0.29
+  verified:0.29
+  friend:0.29
+  dead:0.29
+  questioning:0.29
+  supremesmoke:0.29
+
+Topic 2:
+  listings:0.40
+  markets:0.40
+  market:0.39
+  guys:0.39
+  close:0.28
+  sr:0.28
+  recognize:0.28
+  shortly:0.28
+  customers:0.28
+  delayed:0.28
+
+Topic 3:
+  guys:0.40
+  market:0.40
+  markets:0.39
+  listings:0.39
+  coming:0.28
+  shady:0.28
+  good:0.28
+  serve:0.28
+  delayed:0.28
+  reply:0.28
+
+Topic 4:
+  market:0.40
+  markets:0.39
+  guys:0.39
+  listings:0.39
+  stealing:0.28
+  supremesmoke:0.28
+  questioning:0.28
+  hacked:0.28
+  verified:0.28
+  coin:0.28
+
+K: 5, Log-Likelihood: -155.137, Alpha: 11.000, Beta: 1.100

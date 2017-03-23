@@ -1,0 +1,41 @@
+Topic 0:
+  deepweb:0.00
+  scammer:0.00
+  sites:0.00
+  check:0.00
+  xilla:0.00
+  scammers:0.00
+
+Topic 1:
+  deepweb:0.00
+  scammer:0.00
+  sites:0.00
+  check:0.00
+  xilla:0.00
+  scammers:0.00
+
+Topic 2:
+  deepweb:0.00
+  scammer:0.00
+  sites:0.00
+  check:0.00
+  xilla:0.00
+  scammers:0.00
+
+Topic 3:
+  deepweb:0.00
+  scammer:0.00
+  sites:0.00
+  check:0.00
+  xilla:0.00
+  scammers:0.00
+
+Topic 4:
+  deepweb:0.00
+  scammer:0.00
+  sites:0.00
+  check:0.00
+  xilla:0.00
+  scammers:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

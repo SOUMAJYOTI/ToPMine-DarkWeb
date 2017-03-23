@@ -1,0 +1,61 @@
+Topic 0:
+  defcon:5.51
+  orders:3.84
+  sweating:3.84
+  true sr:3.84
+  reserves:3.84
+  community:3.84
+  staff:3.84
+  repay:3.84
+  goodbyes:3.84
+  full:3.84
+
+Topic 1:
+  thomas:5.70
+  street:4.66
+  bitcoins:4.61
+  call:3.75
+  bitcoin:3.75
+  mutually:3.75
+  exclusive:3.75
+  pity:3.75
+  millions:3.75
+  stealing:3.75
+
+Topic 2:
+  wallet:7.61
+  sandwich:5.67
+  wallet addy:5.56
+  captainwhitebeard:3.88
+  holding:3.75
+  add:3.75
+  deacon:3.75
+  evil:3.75
+  ready:3.75
+  story sense:3.75
+
+Topic 3:
+  cahoots proof prove defcon:4.75
+  prove wrong:4.75
+  proof prove defcon:4.74
+  maleability sense prove btc:4.74
+  funny staying topic proof:4.74
+  amount lost btc fiat:4.73
+  thing explanation btc:4.73
+  geat:3.73
+  pmyoure:3.73
+  payroll:3.66
+
+Topic 4:
+  sheep market:7.73
+  jack:5.79
+  withdrawls:4.66
+  familiar:3.84
+  funds:3.84
+  day:3.84
+  stole:3.84
+  admin:3.84
+  limited:3.84
+  called:3.84
+
+K: 5, Log-Likelihood: -4055.217, Alpha: 11.000, Beta: 1.100

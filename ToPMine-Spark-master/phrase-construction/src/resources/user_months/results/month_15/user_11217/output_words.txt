@@ -1,0 +1,61 @@
+Topic 0:
+  account:1.04
+  sales:0.75
+  login:0.66
+  vendor:0.65
+  delay:0.65
+  apply:0.57
+  legacy:0.56
+  register:0.43
+  market:0.43
+  fee:0.43
+
+Topic 1:
+  account:1.17
+  login:0.69
+  sales:0.69
+  vendor:0.68
+  delay:0.65
+  apply:0.57
+  legacy:0.56
+  everytime:0.44
+  happen:0.44
+  tells:0.44
+
+Topic 2:
+  sales:1.02
+  legacy:0.70
+  apply:0.67
+  account:0.62
+  shouldnt:0.53
+  reply:0.53
+  alot:0.53
+  hit:0.53
+  sale:0.53
+  moment:0.53
+
+Topic 3:
+  account:1.27
+  sales:0.75
+  login:0.66
+  vendor:0.65
+  delay:0.62
+  legacy:0.56
+  apply:0.56
+  verify:0.43
+  everytime:0.43
+  tells:0.43
+
+Topic 4:
+  account:0.90
+  sales:0.79
+  apply:0.64
+  legacy:0.62
+  vendor:0.59
+  delay:0.58
+  login:0.55
+  long:0.42
+  sale:0.42
+  alot:0.42
+
+K: 5, Log-Likelihood: -368.056, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  dev ada:0.44
+  user:0.33
+  eli:0.30
+  tmp:0.25
+  permissions:0.25
+  tor:0.25
+  partition:0.23
+  advanced:0.17
+  datadirectory:0.17
+  rc rm:0.17
+
+Topic 1:
+  dev ada:0.48
+  eli:0.32
+  user:0.32
+  partition:0.24
+  tmp:0.24
+  permissions:0.24
+  tor:0.24
+  geli:0.16
+  init:0.16
+  drive:0.16
+
+Topic 2:
+  dev ada:0.42
+  user:0.34
+  eli:0.29
+  tor:0.26
+  permissions:0.26
+  tmp:0.26
+  partition:0.22
+  default:0.17
+  torre:0.17
+  conf:0.17
+
+Topic 3:
+  user:0.38
+  dev ada:0.37
+  tor:0.28
+  permissions:0.28
+  tmp:0.28
+  eli:0.26
+  partition:0.21
+  resolv:0.18
+  tor torrc:0.18
+  cp tmp:0.18
+
+Topic 4:
+  dev ada:0.73
+  eli:0.44
+  partition:0.31
+  user:0.25
+  swap partition:0.20
+  things:0.20
+  geom:0.20
+  encryption:0.20
+  device:0.20
+  sbin:0.20
+
+K: 5, Log-Likelihood: -423.643, Alpha: 11.000, Beta: 1.100

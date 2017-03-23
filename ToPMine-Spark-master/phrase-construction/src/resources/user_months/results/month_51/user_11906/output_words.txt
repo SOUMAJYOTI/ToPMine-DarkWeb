@@ -1,0 +1,61 @@
+Topic 0:
+  thread:0.61
+  comment:0.40
+  business:0.40
+  ad:0.40
+  arguing:0.20
+  weeks:0.20
+  talking:0.20
+  removed:0.20
+  beef:0.20
+  nauseam:0.20
+
+Topic 1:
+  thread:0.58
+  ad:0.40
+  business:0.40
+  comment:0.40
+  learned:0.20
+  anyones:0.20
+  solely:0.20
+  making:0.20
+  term:0.20
+  devoted:0.20
+
+Topic 2:
+  thread:0.62
+  ad:0.40
+  comment:0.40
+  business:0.40
+  coined:0.20
+  good:0.20
+  term:0.20
+  removed:0.20
+  long:0.20
+  pmwhat:0.20
+
+Topic 3:
+  thread:0.58
+  ad:0.40
+  business:0.40
+  comment:0.40
+  fun:0.20
+  ago:0.20
+  weve:0.20
+  beef:0.20
+  dude:0.20
+  pmwhat:0.20
+
+Topic 4:
+  thread:0.61
+  business:0.40
+  comment:0.40
+  ad:0.40
+  real:0.20
+  fidel:0.20
+  making:0.20
+  clearnet:0.20
+  weeks:0.20
+  learned:0.20
+
+K: 5, Log-Likelihood: -183.397, Alpha: 11.000, Beta: 1.100

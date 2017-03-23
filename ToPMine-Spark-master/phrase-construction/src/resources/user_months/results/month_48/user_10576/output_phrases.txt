@@ -1,0 +1,61 @@
+Topic 0:
+  onionshare:6.16
+  long:3.71
+  freedomhosting:3.71
+  hidden service:3.71
+  link:3.71
+  install:3.71
+  computer:3.71
+  apt:3.71
+  server:3.71
+  drag:3.71
+
+Topic 1:
+  anonfiles:4.61
+  files:2.38
+  send:1.75
+  anonymous file:1.70
+  material:1.65
+  info anonfiles:1.53
+  file types:1.51
+  held responsible:1.42
+  mb:1.41
+  terms:1.33
+
+Topic 2:
+  anonfiles:5.01
+  anonymous file:2.57
+  files:2.33
+  file types:1.93
+  mb:1.86
+  held responsible:1.84
+  info anonfiles:1.77
+  send:1.70
+  hosting pdfs energy control:1.55
+  terms:1.52
+
+Topic 3:
+  anonfiles:6.47
+  terms:2.99
+  material:2.73
+  files:2.64
+  held responsible:2.57
+  info anonfiles:2.53
+  hosted:2.52
+  file types:2.39
+  send:2.38
+  upload:2.33
+
+Topic 4:
+  partners:2.76
+  complete:2.76
+  difficult:2.76
+  isnt:2.76
+  control content:2.76
+  idea:2.72
+  hosting:2.14
+  suck:1.78
+  alphabay:1.78
+  hearts:1.78
+
+K: 5, Log-Likelihood: -3702.276, Alpha: 11.000, Beta: 1.100

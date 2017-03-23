@@ -1,0 +1,61 @@
+Topic 0:
+  sun:2.36
+  ostaajaa:1.05
+  kuolla:1.05
+  siviilipuvuissa:1.05
+  odottelemassa:1.05
+  edess:1.05
+  sin:1.05
+  turvallisuus:1.05
+  heh:1.05
+  suussa:1.05
+
+Topic 1:
+  nyt:0.95
+  hyvin:0.89
+  elika:0.89
+  kameran:0.89
+  olette:0.89
+  kuvattavaksi:0.89
+  eik:0.89
+  mielt:0.89
+  postista:0.89
+  aika:0.89
+
+Topic 2:
+  sijaan:1.21
+  turvallisin:1.21
+  viel:1.21
+  cardaajana:1.21
+  kuvitella:1.21
+  tied:1.21
+  ep:1.21
+  todellakin:1.21
+  mit voi:1.21
+  kannalta:1.21
+
+Topic 3:
+  voi:2.58
+  ltt:1.20
+  hetett:1.20
+  tarkistaa:1.20
+  olemalla:1.20
+  hettyvilt:1.20
+  sijainneissa:1.20
+  myyj:1.20
+  toimipisteet:1.20
+  paketti:1.20
+
+Topic 4:
+  kaikki:2.51
+  kin:2.50
+  valittu:1.15
+  kannakin:1.15
+  mutta:1.15
+  maksuksi:1.15
+  tallentumatta:1.15
+  kuin:1.15
+  jo:1.15
+  kortteja:1.15
+
+K: 5, Log-Likelihood: -856.918, Alpha: 11.000, Beta: 1.100

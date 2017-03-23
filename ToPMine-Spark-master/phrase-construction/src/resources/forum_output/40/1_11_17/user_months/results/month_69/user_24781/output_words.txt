@@ -1,0 +1,61 @@
+Topic 0:
+  march:8.16
+  dumbass:4.70
+  lol:3.96
+  honkycracker:3.42
+  quote:3.40
+  amquote:3.16
+  link:2.48
+  advice:1.98
+  fatherted:1.93
+  fa:1.83
+
+Topic 1:
+  order:7.91
+  hotstuff:5.91
+  account:5.55
+  alphabay:5.43
+  log:3.91
+  received:3.91
+  confirm:3.91
+  hit:3.91
+  deposit:3.91
+  message:3.91
+
+Topic 2:
+  dont:5.47
+  smartass:3.90
+  place:3.74
+  dodongo:3.51
+  father:2.71
+  dumbass:2.37
+  jack:2.20
+  slow:2.14
+  quote:2.05
+  majorfame:1.89
+
+Topic 3:
+  march:7.41
+  start:6.96
+  read:6.21
+  post:5.96
+  quote:4.69
+  linked:3.86
+  notice:3.22
+  subject:3.21
+  amwhoe:3.20
+  bullshit:3.19
+
+Topic 4:
+  link:5.61
+  dumbass:4.72
+  march:4.23
+  hope:4.02
+  lol:3.99
+  honkycracker:2.99
+  fa:2.67
+  advice:2.63
+  fatherwhateverthefuckyournameis:2.58
+  situation:2.57
+
+K: 5, Log-Likelihood: -2970.705, Alpha: 11.000, Beta: 1.100

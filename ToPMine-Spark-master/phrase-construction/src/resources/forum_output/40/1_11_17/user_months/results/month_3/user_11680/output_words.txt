@@ -1,0 +1,46 @@
+Topic 0:
+  link:0.20
+  sr:0.20
+  omega:0.20
+  mdma:0.20
+  sample:0.20
+  mandy:0.20
+  forums:0.20
+
+Topic 1:
+  sample:0.20
+  forums:0.20
+  mdma:0.20
+  mandy:0.20
+  link:0.20
+  sr:0.20
+  omega:0.20
+
+Topic 2:
+  sr:0.20
+  mandy:0.20
+  forums:0.20
+  omega:0.20
+  sample:0.20
+  mdma:0.20
+  link:0.20
+
+Topic 3:
+  omega:0.20
+  mdma:0.20
+  sample:0.20
+  link:0.20
+  mandy:0.20
+  forums:0.20
+  sr:0.20
+
+Topic 4:
+  forums:0.20
+  mandy:0.20
+  mdma:0.20
+  link:0.20
+  sr:0.20
+  sample:0.20
+  omega:0.20
+
+K: 5, Log-Likelihood: -13.621, Alpha: 11.000, Beta: 1.100

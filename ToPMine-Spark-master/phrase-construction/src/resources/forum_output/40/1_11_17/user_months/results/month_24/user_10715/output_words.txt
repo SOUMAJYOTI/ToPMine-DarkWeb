@@ -1,0 +1,61 @@
+Topic 0:
+  mate:0.41
+  bunch:0.41
+  files:0.40
+  computer:0.39
+  open:0.38
+  owe:0.20
+  eye:0.20
+  ya:0.20
+  download:0.20
+  chance:0.20
+
+Topic 1:
+  computer:0.40
+  bunch:0.40
+  open:0.40
+  files:0.40
+  mate:0.39
+  digital:0.20
+  unknown:0.20
+  herpes:0.20
+  number:0.20
+  downloads:0.20
+
+Topic 2:
+  mate:0.41
+  bunch:0.41
+  computer:0.40
+  files:0.39
+  open:0.38
+  ill:0.20
+  ya:0.20
+  eye:0.20
+  chance:0.20
+  tomorrow:0.20
+
+Topic 3:
+  open:0.41
+  computer:0.41
+  files:0.40
+  mate:0.39
+  bunch:0.39
+  file:0.20
+  remember:0.20
+  tor:0.20
+  interested:0.20
+  save:0.20
+
+Topic 4:
+  open:0.42
+  files:0.41
+  computer:0.40
+  mate:0.39
+  bunch:0.39
+  remember:0.20
+  save:0.20
+  browser:0.20
+  tor:0.20
+  reading:0.20
+
+K: 5, Log-Likelihood: -131.415, Alpha: 11.000, Beta: 1.100

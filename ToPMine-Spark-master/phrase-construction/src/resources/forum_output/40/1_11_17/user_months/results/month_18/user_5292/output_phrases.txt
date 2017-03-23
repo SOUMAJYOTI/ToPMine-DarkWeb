@@ -1,0 +1,61 @@
+Topic 0:
+  learn:6.96
+  start:5.89
+  people:5.05
+  market:4.67
+  silver gold:4.48
+  comfortable:4.12
+  books:3.24
+  state:3.21
+  lots money:3.07
+  cash:2.76
+
+Topic 1:
+  change:3.53
+  imply:3.39
+  breakdown:3.39
+  society:3.37
+  lifetime:3.36
+  complete:3.35
+  books share find time:2.59
+  interested love:2.34
+  post links downloading:2.31
+  library anarchist spiritual psychedlic:2.26
+
+Topic 2:
+  learn:13.54
+  people:4.16
+  books:3.48
+  start:3.46
+  comfortable:3.31
+  market:2.65
+  cash:2.60
+  silver gold:2.47
+  work friends:2.38
+  time:2.32
+
+Topic 3:
+  learn:8.97
+  cash:5.66
+  people:5.50
+  start:5.36
+  books:4.30
+  silver gold:4.07
+  market:3.70
+  comfortable:3.59
+  time:3.18
+  assumptions:3.14
+
+Topic 4:
+  great:5.04
+  agenda:3.57
+  thread:3.57
+  fulfilling:3.57
+  intent:3.57
+  karma:3.56
+  great read:3.56
+  disagree:3.56
+  gamesome:3.56
+  alternative:3.28
+
+K: 5, Log-Likelihood: -9417.172, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  quantum:7.49
+  computers:4.19
+  aes:3.94
+  power:3.62
+  quartus:3.50
+  pgp:3.39
+  commerce:2.94
+  bit:2.86
+  problem:2.77
+  reduced:2.46
+
+Topic 1:
+  thread:3.31
+  addresses:3.24
+  quote:2.69
+  start:2.47
+  evolution:2.45
+  vendor:2.36
+  topic:2.30
+  server:2.10
+  november:2.02
+  adresses:1.99
+
+Topic 2:
+  quote:4.27
+  onionshop:2.47
+  dont:2.13
+  nsa:1.91
+  time:1.87
+  messages:1.72
+  order:1.68
+  december:1.52
+  crack:1.41
+  quantum:1.40
+
+Topic 3:
+  data:14.78
+  encrypted:5.74
+  time:5.53
+  computers:4.98
+  encryption:4.79
+  future:4.56
+  hardware:4.55
+  le:3.87
+  hackers:3.70
+  form:3.70
+
+Topic 4:
+  november:11.72
+  country:7.62
+  millions:6.32
+  darknet:5.19
+  controlled:5.19
+  substances:5.17
+  start:5.17
+  arresting:5.17
+  ordered:5.15
+  people:4.79
+
+K: 5, Log-Likelihood: -3921.969, Alpha: 11.000, Beta: 1.100

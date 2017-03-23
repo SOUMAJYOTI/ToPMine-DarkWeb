@@ -1,0 +1,61 @@
+Topic 0:
+  imputable:6.57
+  dhl:6.13
+  vendors:5.55
+  find:3.43
+  pickles:3.39
+  pick:3.31
+  transactions:3.26
+  order:3.17
+  shop:3.17
+  dmt:3.14
+
+Topic 1:
+  november:4.64
+  santa:4.56
+  pickles:3.74
+  vendors:3.65
+  bip:3.05
+  signed:3.00
+  keys:2.91
+  join:2.84
+  hoping:2.65
+  quote:2.65
+
+Topic 2:
+  sign:1.95
+  fact:1.94
+  market:1.94
+  pgp:1.85
+  security:1.50
+  work:1.50
+  encryption:1.50
+  opened:1.46
+  vendors:1.19
+  nice:1.09
+
+Topic 3:
+  wallet:3.20
+  forum:2.56
+  interface:2.33
+  vendors:2.31
+  pickles:2.00
+  hoping:1.99
+  send:1.98
+  direct:1.84
+  easy:1.77
+  markets:1.40
+
+Topic 4:
+  vendors:3.31
+  pickles:2.89
+  dhl:2.76
+  account:2.30
+  santa:1.58
+  life:1.43
+  november:1.43
+  opened:1.41
+  quote:1.37
+  join:1.35
+
+K: 5, Log-Likelihood: -2371.449, Alpha: 11.000, Beta: 1.100

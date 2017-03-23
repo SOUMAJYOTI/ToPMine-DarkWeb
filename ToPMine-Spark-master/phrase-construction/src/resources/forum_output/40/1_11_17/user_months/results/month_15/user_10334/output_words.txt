@@ -1,0 +1,61 @@
+Topic 0:
+  password:1.82
+  passwords:1.30
+  safe:1.24
+  manager:0.83
+  randomly:0.73
+  generated:0.69
+  good:0.68
+  main:0.68
+  memorizing:0.44
+  times:0.31
+
+Topic 1:
+  password:1.57
+  passwords:1.05
+  safe:0.74
+  manager:0.63
+  memorizing:0.62
+  randomly:0.57
+  addresses:0.42
+  strong:0.42
+  hacks:0.42
+  onion:0.42
+
+Topic 2:
+  password:1.43
+  passwords:0.82
+  safe:0.66
+  memorizing:0.65
+  randomly:0.53
+  time:0.49
+  manager:0.46
+  account:0.43
+  addresses:0.43
+  strong:0.43
+
+Topic 3:
+  password:1.65
+  passwords:0.91
+  safe:0.71
+  memorizing:0.62
+  randomly:0.59
+  manager:0.57
+  time:0.42
+  times:0.42
+  hacks:0.41
+  strong:0.41
+
+Topic 4:
+  password:1.53
+  passwords:0.92
+  memorizing:0.66
+  safe:0.65
+  randomly:0.58
+  manager:0.51
+  onion:0.44
+  hacks:0.44
+  account:0.44
+  strong:0.44
+
+K: 5, Log-Likelihood: -424.616, Alpha: 11.000, Beta: 1.100

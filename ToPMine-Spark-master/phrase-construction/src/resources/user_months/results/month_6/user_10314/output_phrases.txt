@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:0.41
+  market:0.37
+  bmr:0.36
+  dude:0.30
+  party:0.30
+  february ami:0.30
+  late:0.30
+  psychonaut:0.30
+  free vendor site open:0.29
+  message offer:0.29
+
+Topic 1:
+  bmr:0.54
+  market:0.53
+  vendors:0.36
+  psychonaut:0.28
+  late:0.28
+  february ami:0.28
+  party:0.28
+  dude:0.28
+  message offer:0.28
+  free vendor site open:0.28
+
+Topic 2:
+  vendors:0.50
+  coming:0.30
+  questionable:0.30
+  update:0.30
+  advent:0.30
+  rating:0.30
+  fee:0.30
+  joining:0.30
+  cheers:0.30
+  waiver:0.30
+
+Topic 3:
+  market:0.58
+  bmr:0.58
+  vendors:0.38
+  message offer:0.27
+  free vendor site open:0.27
+  safe:0.27
+  mods:0.27
+  ami:0.27
+  happened:0.27
+  dead:0.27
+
+Topic 4:
+  market:0.44
+  bmr:0.43
+  vendors:0.43
+  free vendor site open:0.28
+  message offer:0.28
+  february ami:0.27
+  psychonaut:0.27
+  late:0.27
+  party:0.27
+  dude:0.27
+
+K: 5, Log-Likelihood: -334.560, Alpha: 11.000, Beta: 1.100

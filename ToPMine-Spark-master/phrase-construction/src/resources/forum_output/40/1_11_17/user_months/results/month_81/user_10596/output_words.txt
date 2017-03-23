@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:13.22
+  verify:9.70
+  market:8.12
+  btc:6.43
+  apple:4.94
+  vendors:4.44
+  red:3.56
+  store:2.99
+  life:2.94
+  sell:2.94
+
+Topic 1:
+  order:20.97
+  market:18.11
+  vendor:10.45
+  key:10.06
+  select:9.97
+  public:6.97
+  funds:5.97
+  option:5.97
+  case:3.97
+  message:3.97
+
+Topic 2:
+  exchange:2.89
+  market:2.07
+  dn:1.81
+  good:1.71
+  referred:1.56
+  dream:1.44
+  sort:1.36
+  opinions:1.36
+  radar:1.36
+  friendly:1.28
+
+Topic 3:
+  onion:18.97
+  accounts:17.64
+  security:16.97
+  bond:16.02
+  time:15.98
+  multisig:15.16
+  allowed:14.97
+  flaws:13.97
+  prior:13.16
+  key:12.88
+
+Topic 4:
+  dream:2.46
+  admin:1.02
+  pick:0.98
+  exchange:0.87
+  bond:0.83
+  link:0.81
+  clearnet:0.80
+  safe:0.71
+  darknet:0.69
+  links:0.68
+
+K: 5, Log-Likelihood: -7742.319, Alpha: 11.000, Beta: 1.100

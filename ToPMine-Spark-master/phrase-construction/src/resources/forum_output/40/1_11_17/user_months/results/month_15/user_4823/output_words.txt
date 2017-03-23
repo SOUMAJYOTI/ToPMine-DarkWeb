@@ -1,0 +1,61 @@
+Topic 0:
+  mixing:3.42
+  coins:2.13
+  paper:1.52
+  bitcoin:1.52
+  pdf:1.52
+  anonymity:1.52
+  ecosystem:1.52
+  inquiry:1.52
+  interested:1.52
+  laundering:1.52
+
+Topic 1:
+  blockchain:1.98
+  wallet:1.96
+  recover:1.71
+  luck:1.70
+  send:1.27
+  vendor:1.11
+  reason:1.05
+  learn:1.03
+  thing:0.99
+  terrible:0.99
+
+Topic 2:
+  recover:2.44
+  wallet:1.85
+  vendor:1.82
+  luck:1.73
+  terrible:1.44
+  learn:1.41
+  reason:1.33
+  thing:1.27
+  fuck:1.23
+  email:1.14
+
+Topic 3:
+  support:4.03
+  blockchain:2.60
+  intermediate:1.67
+  kind:1.65
+  address:1.57
+  fees:1.49
+  managed:1.49
+  stressful:1.49
+  happened:1.49
+  lost:1.49
+
+Topic 4:
+  blockchain:2.23
+  glad:1.52
+  hear:1.51
+  thought:1.38
+  good:1.35
+  lose:1.13
+  emails:1.13
+  scammed:1.13
+  simply:1.12
+  mate:1.12
+
+K: 5, Log-Likelihood: -1519.290, Alpha: 11.000, Beta: 1.100

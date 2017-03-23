@@ -1,0 +1,61 @@
+Topic 0:
+  fa:4.25
+  happy:4.09
+  customers:3.90
+  password:3.87
+  behaviour:3.85
+  utf:3.85
+  pigeon:3.40
+  chars:3.01
+  escrow:2.99
+  implement:2.94
+
+Topic 1:
+  characters:17.64
+  passwords:16.18
+  special:13.85
+  password:11.23
+  april:6.64
+  pigeon:5.60
+  pmquote:5.25
+  injection:4.53
+  avoid:4.51
+  code:4.40
+
+Topic 2:
+  april:6.68
+  quote:6.40
+  inbox:5.55
+  reports:3.83
+  sunwu:3.73
+  bad:3.53
+  pigeon:3.51
+  spamming:3.48
+  including:3.46
+  referred:2.84
+
+Topic 3:
+  market:4.24
+  things:3.38
+  trust:2.95
+  scam:2.63
+  kind:1.95
+  fe:1.95
+  decide:1.95
+  community:1.95
+  escrow:1.93
+  absolutely:1.78
+
+Topic 4:
+  password:8.17
+  pigeon:5.22
+  special:4.63
+  characters:4.27
+  april:3.10
+  quote:1.75
+  passwords:1.72
+  rules:1.56
+  character:1.51
+  easier:1.49
+
+K: 5, Log-Likelihood: -3565.936, Alpha: 11.000, Beta: 1.100

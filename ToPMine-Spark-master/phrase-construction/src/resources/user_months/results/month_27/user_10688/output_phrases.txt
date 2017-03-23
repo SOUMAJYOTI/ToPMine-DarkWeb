@@ -1,0 +1,61 @@
+Topic 0:
+  big deal:5.13
+  coin:3.25
+  dont:2.59
+  hub:2.42
+  services:2.42
+  step:2.42
+  common:2.42
+  panacea:2.42
+  dudeguy:2.42
+  software:2.42
+
+Topic 1:
+  mixer:3.57
+  braveb iyacflzc:3.46
+  onion:3.46
+  started:3.45
+  time:3.45
+  good:3.45
+  mixed:1.68
+  onionafter:1.68
+  workers:1.68
+  blenderi:1.68
+
+Topic 2:
+  fee:2.84
+  entry fee regular mixing:1.58
+  worth:1.47
+  bitmixer io:1.33
+  dont:1.32
+  mix avoiding feebut:1.26
+  people dont:1.25
+  entry fee people dont:1.25
+  big barrier helix:1.24
+  personally:1.21
+
+Topic 3:
+  bunny:2.51
+  phishing:2.51
+  links:2.51
+  brave:2.51
+  collections:2.51
+  claiming:2.51
+  site:2.29
+  link:2.29
+  move:1.69
+  harkness:1.69
+
+Topic 4:
+  fee credited account:1.53
+  bitcoinfog:1.46
+  great:1.01
+  helix:1.01
+  incredibly:1.00
+  quickest:1.00
+  mix helix:0.95
+  vendors:0.95
+  review:0.95
+  love:0.95
+
+K: 5, Log-Likelihood: -1570.034, Alpha: 11.000, Beta: 1.100

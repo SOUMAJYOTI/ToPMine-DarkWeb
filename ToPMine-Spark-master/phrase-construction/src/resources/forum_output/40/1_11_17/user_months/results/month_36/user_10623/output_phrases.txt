@@ -1,0 +1,61 @@
+Topic 0:
+  pizza:0.28
+  free:0.28
+  barry:0.27
+  ace:0.24
+  poor:0.23
+  helping:0.23
+  people:0.23
+  love:0.23
+  bouhouhou:0.23
+  tears:0.23
+
+Topic 1:
+  free:0.28
+  pizza:0.28
+  barry:0.28
+  ace:0.24
+  spots:0.22
+  build:0.22
+  cheers:0.22
+  people:0.22
+  walks:0.22
+  compassion:0.22
+
+Topic 2:
+  pizza:0.28
+  free:0.28
+  barry:0.27
+  ace:0.24
+  person:0.23
+  shining:0.23
+  kind:0.23
+  walks:0.23
+  hearted:0.23
+  love:0.23
+
+Topic 3:
+  barry:0.28
+  pizza:0.28
+  free:0.28
+  ace:0.24
+  gear:0.23
+  safe:0.23
+  fun:0.23
+  stay:0.23
+  spotted:0.23
+  knowing:0.23
+
+Topic 4:
+  barry:0.29
+  free:0.28
+  pizza:0.28
+  ace:0.24
+  knowing:0.23
+  mixed:0.23
+  place:0.23
+  feelings:0.23
+  safe:0.23
+  worth:0.23
+
+K: 5, Log-Likelihood: -176.372, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  forum:1.10
+  ag:1.06
+  hub:1.05
+  time:0.60
+  attacks:0.40
+  rumors:0.40
+  experiencing:0.40
+  markets:0.40
+  aware:0.40
+  survive:0.20
+
+Topic 1:
+  forum:1.23
+  ag:1.10
+  hub:0.97
+  time:0.59
+  experiencing:0.40
+  markets:0.40
+  attacks:0.40
+  aware:0.40
+  rumors:0.40
+  st:0.20
+
+Topic 2:
+  forum:1.29
+  hub:1.05
+  ag:0.88
+  time:0.58
+  aware:0.41
+  markets:0.40
+  attacks:0.40
+  rumors:0.40
+  experiencing:0.40
+  market:0.20
+
+Topic 3:
+  forum:1.21
+  ag:1.04
+  hub:0.97
+  time:0.62
+  experiencing:0.40
+  aware:0.40
+  markets:0.40
+  attacks:0.40
+  rumors:0.40
+  hope:0.20
+
+Topic 4:
+  forum:1.17
+  hub:0.97
+  ag:0.92
+  time:0.61
+  experiencing:0.41
+  rumors:0.40
+  markets:0.40
+  aware:0.40
+  attacks:0.40
+  coralled:0.20
+
+K: 5, Log-Likelihood: -284.240, Alpha: 11.000, Beta: 1.100

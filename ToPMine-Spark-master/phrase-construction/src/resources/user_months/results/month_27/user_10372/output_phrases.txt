@@ -1,0 +1,61 @@
+Topic 0:
+  mac:0.62
+  internal wifi:0.50
+  good:0.49
+  extra mile:0.39
+  swarm:0.39
+  raises:0.39
+  alfa:0.37
+  suspicion:0.37
+  external:0.36
+  onionshop:0.35
+
+Topic 1:
+  internal wifi:0.88
+  good:0.84
+  mac:0.56
+  external:0.50
+  alfa:0.50
+  onionshop:0.47
+  removing:0.44
+  raise:0.44
+  fellows:0.44
+  puts:0.44
+
+Topic 2:
+  mac:0.62
+  internal wifi:0.52
+  good:0.52
+  raises:0.41
+  extra mile:0.41
+  swarm:0.41
+  suspicion:0.38
+  alfa:0.38
+  external:0.38
+  onionshop:0.37
+
+Topic 3:
+  mac:0.62
+  good:0.62
+  internal wifi:0.56
+  swarm:0.46
+  raises:0.46
+  onionshop:0.44
+  extra mile:0.44
+  suspicion:0.42
+  external:0.38
+  alfa:0.38
+
+Topic 4:
+  wired:2.10
+  crime:0.90
+  things:0.90
+  lan:0.90
+  gutmann:0.90
+  nics:0.90
+  wiping:0.90
+  reasons:0.90
+  cidr:0.90
+  dont:0.90
+
+K: 5, Log-Likelihood: -581.645, Alpha: 11.000, Beta: 1.100

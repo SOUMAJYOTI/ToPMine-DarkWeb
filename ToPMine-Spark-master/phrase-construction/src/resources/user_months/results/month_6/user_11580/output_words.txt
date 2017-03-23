@@ -1,0 +1,61 @@
+Topic 0:
+  users:0.91
+  bitcoins:0.45
+  money:0.37
+  feeling:0.21
+  negative:0.21
+  repaid:0.21
+  registration:0.21
+  missing:0.21
+  bug:0.21
+  deal:0.21
+
+Topic 1:
+  users:0.83
+  bitcoins:0.42
+  money:0.42
+  disabled:0.21
+  pending:0.21
+  missing:0.21
+  deal:0.21
+  registration:0.21
+  repaid:0.21
+  balance:0.21
+
+Topic 2:
+  users:0.73
+  money:0.43
+  bitcoins:0.37
+  refresh:0.21
+  reading:0.21
+  accont:0.21
+  hit:0.21
+  attack:0.21
+  coin:0.21
+  people:0.21
+
+Topic 3:
+  users:0.69
+  money:0.40
+  bitcoins:0.37
+  busy:0.21
+  bit:0.21
+  deleting:0.21
+  high:0.21
+  pmthere:0.21
+  permanent:0.21
+  work:0.21
+
+Topic 4:
+  users:0.83
+  bitcoins:0.39
+  money:0.37
+  doctorclu:0.20
+  spam:0.20
+  days:0.20
+  influx:0.20
+  caught:0.20
+  permanent:0.20
+  quote:0.20
+
+K: 5, Log-Likelihood: -177.669, Alpha: 11.000, Beta: 1.100

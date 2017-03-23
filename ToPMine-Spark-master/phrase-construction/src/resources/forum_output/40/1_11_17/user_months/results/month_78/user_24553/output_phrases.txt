@@ -1,0 +1,61 @@
+Topic 0:
+  dream:0.29
+  weak:0.28
+  pmare:0.14
+  thinking:0.14
+  enter:0.14
+  confusion:0.14
+  surname:0.14
+  del:0.14
+  captcha:0.14
+  adminoops:0.14
+
+Topic 1:
+  dream:0.29
+  weak:0.28
+  kind:0.14
+  rational pgp:0.14
+  password:0.14
+  set:0.14
+  realz:0.14
+  pmthey:0.14
+  dont:0.14
+  requested:0.14
+
+Topic 2:
+  dream:0.29
+  weak:0.28
+  kind:0.14
+  dont:0.14
+  requested:0.14
+  password:0.14
+  pmthey:0.14
+  set:0.14
+  rational pgp:0.14
+  fa:0.14
+
+Topic 3:
+  dream:0.29
+  weak:0.28
+  decrypt:0.14
+  enter:0.14
+  confusion:0.14
+  captcha:0.14
+  surname:0.14
+  del:0.14
+  adminoops:0.14
+  pmare:0.14
+
+Topic 4:
+  dream:0.29
+  weak:0.28
+  decrypt:0.14
+  thinking:0.14
+  adminoops:0.14
+  del:0.14
+  captcha:0.14
+  pmare:0.14
+  confusion:0.14
+  surname:0.14
+
+K: 5, Log-Likelihood: -75.513, Alpha: 11.000, Beta: 1.100

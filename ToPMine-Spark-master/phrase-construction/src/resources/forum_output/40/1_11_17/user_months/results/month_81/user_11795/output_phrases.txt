@@ -1,0 +1,61 @@
+Topic 0:
+  spam:0.90
+  place:0.81
+  market:0.64
+  codecode select:0.53
+  december:0.50
+  quote:0.40
+  spamming:0.40
+  forum:0.40
+  continually:0.40
+  stuff:0.40
+
+Topic 1:
+  aflao:1.51
+  codecode select:1.07
+  bitwasp:0.81
+  big:0.81
+  thing:0.78
+  darknet:0.78
+  links:0.46
+  market:0.39
+  accepting:0.38
+  bugs:0.38
+
+Topic 2:
+  aflao:2.88
+  darknet:1.25
+  thing:1.25
+  big:1.22
+  bitwasp:1.21
+  codecode select:0.92
+  problems:0.53
+  left:0.53
+  remnants:0.53
+  pond:0.53
+
+Topic 3:
+  place:1.16
+  spam:1.07
+  market:0.92
+  codecode select:0.50
+  deal:0.48
+  pretty:0.48
+  button:0.48
+  thread:0.48
+  delete:0.48
+  newbie:0.48
+
+Topic 4:
+  accusations:1.61
+  december:0.96
+  walter:0.68
+  amor:0.68
+  troll:0.68
+  thenextbigthing:0.67
+  threads:0.64
+  amquote:0.64
+  pollute:0.64
+  single:0.64
+
+K: 5, Log-Likelihood: -419.322, Alpha: 11.000, Beta: 1.100

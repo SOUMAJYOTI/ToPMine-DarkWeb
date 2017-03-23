@@ -1,0 +1,61 @@
+Topic 0:
+  toi:1.03
+  mutta:0.97
+  euroa:0.95
+  ostajalle:0.95
+  hyv:0.95
+  btc:0.95
+  mut:0.95
+  bitin:0.95
+  europa:0.95
+  mist:0.95
+
+Topic 1:
+  viestitti:0.79
+  silkroadin:0.79
+  ivityksess:0.78
+  minulle:0.78
+  korjattu:0.78
+  kurssin:0.78
+  ei:0.69
+  euron:0.69
+  parin:0.68
+  heitto:0.64
+
+Topic 2:
+  joten:1.15
+  onko:1.13
+  ja kaikki:1.10
+  viesti:0.84
+  pit:0.82
+  ja:0.65
+  kysyt:0.57
+  siirtohistoriasta:0.57
+  osoitteeseeni:0.57
+  viesti ett:0.57
+
+Topic 3:
+  ja kaikki:2.04
+  onko:1.98
+  joten:1.94
+  pit:1.45
+  viesti:1.44
+  osoitteet:0.87
+  st:0.87
+  vinneet:0.87
+  kadonneet:0.87
+  jonnekkin:0.87
+
+Topic 4:
+  se:2.04
+  siis:0.93
+  onhan:0.93
+  mielest:0.92
+  eest:0.92
+  lienee:0.92
+  ni:0.92
+  juttu:0.92
+  myy:0.92
+  vaikka:0.92
+
+K: 5, Log-Likelihood: -1531.346, Alpha: 11.000, Beta: 1.100

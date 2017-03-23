@@ -1,0 +1,61 @@
+Topic 0:
+  spy:3.16
+  deny:3.16
+  link:3.13
+  domestic:2.30
+  outsourced:2.30
+  spying:2.30
+  eye:2.30
+  member:2.30
+  expensive:2.30
+  citizens nsa:2.30
+
+Topic 1:
+  government:13.22
+  national security:5.86
+  bill:4.50
+  provision:3.60
+  program:3.31
+  grand jury:2.84
+  americans:2.77
+  senators:2.66
+  mcconnell:2.62
+  major:2.55
+
+Topic 2:
+  free:4.77
+  country:3.16
+  fuck:3.16
+  live:3.16
+  nsa:2.39
+  snowden:1.83
+  edward:1.83
+  constantly:1.55
+  told:1.55
+  friend:1.55
+
+Topic 3:
+  king:4.77
+  holla boys holla boys:4.77
+  guy fawkes:4.77
+  remember november gunpowder treason:4.23
+  forgot:4.23
+  version:2.37
+  quoteremember:2.37
+  rhyme:2.37
+  englands:2.37
+  older:2.37
+
+Topic 4:
+  records:8.76
+  national security:6.87
+  government:6.36
+  program:6.19
+  bulk collection:5.73
+  provision:4.30
+  patriot:4.18
+  major:3.75
+  mcconnell:3.68
+  senators:3.63
+
+K: 5, Log-Likelihood: -10329.321, Alpha: 11.000, Beta: 1.100

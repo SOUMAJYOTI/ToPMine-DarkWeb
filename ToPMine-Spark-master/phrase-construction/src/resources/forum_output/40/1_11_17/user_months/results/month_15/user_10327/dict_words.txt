@@ -1,0 +1,406 @@
+battery plug,0,2
+hands,1,4
+bad,2,2
+saved,3,1
+assume machine,4,1
+shooting,5,2
+hmm,6,1
+recognized,7,1
+moving hands,8,2
+laptop,9,7
+building,10,1
+quote,11,5
+moving,12,3
+investigated,13,1
+sofa,14,2
+raw,15,1
+july,16,6
+persons,17,1
+charger,18,4
+left,19,1
+turning,20,2
+happening,21,2
+computer le,22,2
+strong,23,1
+dead,24,2
+turn,25,2
+posted,26,1
+bugs,27,1
+switch laptop,28,5
+systems,29,2
+positives,30,1
+override,31,2
+close,32,1
+raids,33,2
+foot,34,11
+computers,35,2
+hand,36,1
+address,37,1
+pulled,38,1
+halt,39,1
+police,40,1
+calls,41,1
+phone moved,42,2
+complicated,43,1
+vicinity,44,1
+decryption,45,2
+moved packets,46,1
+powered,47,2
+evidence,48,1
+moved,49,4
+good,50,2
+leave,51,1
+unmoved,52,1
+avert,53,1
+pedal lol,54,2
+signal,55,1
+swift,56,1
+making,57,2
+test,58,2
+machine phone,59,1
+remove plug,60,1
+wire,61,2
+tails,62,1
+port,63,2
+le memory,64,2
+guys,65,1
+parsed,66,1
+carry,67,1
+charger foot,68,2
+idea killswitch,69,1
+idea unable,70,2
+pinchet,71,2
+sr moved,72,2
+remove,73,4
+prevent,74,6
+alert,75,1
+dumped,76,2
+sampled,77,1
+laptops,78,1
+poetry,79,2
+pinchets,80,2
+afk,81,2
+mobile,82,1
+false,83,1
+toyed,84,1
+killed,85,1
+disk completely,86,1
+moves,87,2
+avoid,88,2
+pocket,89,1
+mumbling,90,1
+triggered,91,1
+called,92,1
+shouldnt,93,1
+attempt,94,2
+experiment,95,1
+lock,96,5
+inspection,97,1
+nas,98,1
+shape,99,1
+altering,100,1
+pressed,101,2
+connection phone,102,1
+ip,103,1
+smoothed,104,1
+script,105,3
+heavy,106,1
+cords,107,1
+physically,108,2
+macs,109,2
+hash,110,1
+earthquake lol,111,1
+circuit,112,2
+works,113,2
+bags,114,1
+fuck,115,1
+foot switch,116,4
+data machine,117,1
+matter,118,1
+shutting,119,2
+local,120,1
+le access,121,1
+ands,122,1
+nuke,123,1
+lol earthquake,124,1
+stream,125,1
+battery remove,126,1
+unable foot,127,2
+time long,128,1
+battery laptop,129,2
+case idea,130,1
+break,131,1
+ross,132,2
+trigger,133,1
+defining,134,1
+everytime,135,2
+bust le,136,1
+machine,137,9
+le,138,11
+rationalehere,139,1
+atop,140,2
+complete,141,2
+move computer,142,2
+lol remove,143,2
+pants,144,1
+usb,145,1
+cop,146,1
+moderator,147,1
+screen,148,6
+main,149,1
+losses,150,1
+employed,151,1
+foot pedal,152,3
+strip,153,2
+lock screen,154,4
+picked,155,1
+find,156,2
+sufficient,157,2
+lan,158,1
+raise,159,2
+time switch,160,1
+presume,161,1
+net,162,1
+locked,163,1
+nasty,164,1
+data phone,165,1
+idea foot,166,2
+including,167,1
+difficult,168,2
+interrupted,169,1
+suspects,170,2
+disk,171,4
+convenient,172,2
+pull plug,173,2
+pmands,174,2
+activate,175,2
+raided,176,1
+sensor,177,3
+shuts,178,3
+plug,179,5
+position,180,1
+sundown,181,2
+initiated,182,1
+keys,183,2
+careful,184,1
+switch machine,185,1
+long computer,186,2
+appears,187,1
+killswitch,188,4
+switch,189,19
+disk encryption,190,2
+running,191,1
+accelerometer,192,2
+loses,193,2
+bust,194,3
+possibility,195,3
+hear,196,1
+pretty,197,1
+nature,198,1
+switch lock,199,2
+confiscating,200,1
+computer power,201,4
+whenusing,202,1
+freezing,203,2
+conduct,204,2
+hands prevent,205,2
+adroit,206,1
+csi,207,1
+laptop pull,208,2
+pmlock,209,1
+interested,210,1
+takes move,211,1
+activated,212,1
+thought,213,1
+granted,214,2
+concern,215,1
+accessing,216,1
+clever,217,1
+stick,218,1
+app,219,1
+based,220,2
+remain,221,1
+vulnerability,222,1
+slow,223,1
+switch charger,224,2
+device,225,4
+move switch,226,1
+plug computer,227,2
+cut,228,1
+access,229,3
+curtains,230,1
+disk killswitch,231,1
+battery,232,6
+bencousins,233,2
+long,234,3
+remember,235,2
+encryption,236,4
+scenario,237,2
+executes,238,1
+takes,239,3
+prevented,240,2
+sr,241,3
+broken,242,1
+bother,243,1
+le time,244,1
+data quote,245,1
+stuffed,246,1
+gyroscope,247,2
+connected,248,1
+pull,249,3
+theyll,250,1
+shit,251,1
+closed,252,1
+amquote,253,1
+thing,254,2
+separate,255,1
+lid,256,1
+buy,257,1
+developing,258,1
+secure,259,1
+shuts machine,260,1
+frequency,261,1
+unable,262,3
+mouse,263,2
+timingif,264,1
+prevent access,265,2
+huge,266,1
+realize,267,2
+imagine,268,1
+worse,269,2
+electrics,270,2
+longer,271,1
+assume memory,272,2
+leads,273,1
+pmhmm,274,1
+onionshop,275,1
+fixed,276,1
+worst,277,1
+assume,278,3
+elects,279,1
+powersupply,280,1
+memory,281,4
+device time,282,1
+idea,283,10
+impossible,284,1
+tcpdump,285,1
+life,286,2
+linux,287,2
+prudent,288,2
+debugging,289,2
+thoughts,290,1
+figure,291,1
+cases,292,1
+appropriately,293,1
+locking,294,2
+reading,295,1
+windows,296,2
+assuming,297,2
+time time,298,3
+initially,299,1
+short,300,1
+time,301,12
+applications,302,1
+software,303,2
+connection lost,304,2
+held,305,2
+dongle,306,1
+hell,307,1
+packets,308,3
+required,309,1
+reliable,310,1
+forums,311,1
+seconds,312,4
+problem,313,2
+lost,314,3
+golden,315,1
+phone machine,316,2
+connection,317,5
+catch,318,1
+long takes,319,1
+case,320,5
+entrace,321,1
+circuits,322,2
+accelerator,323,1
+pmyoure,324,1
+pedal,325,3
+work,326,2
+lose,327,2
+doors,328,1
+filing,329,1
+phone,330,7
+didnt,331,1
+completely,332,3
+love,333,1
+lol,334,4
+direct,335,1
+computer,336,8
+gyroscrope,337,1
+screens,338,2
+wouldve,339,1
+writing,340,2
+anomalous,341,1
+place,342,3
+power,343,6
+event,344,2
+regular,345,1
+cool,346,1
+backdoor,347,2
+happened,348,2
+sends,349,1
+expect,350,1
+tangled,351,1
+laptop charger,352,2
+runs,353,1
+stuff,354,1
+door,355,2
+dick,356,1
+quick,357,2
+data,358,7
+nuking,359,1
+switch le,360,2
+hit,361,2
+create,362,1
+criminal,363,1
+plug lock,364,1
+potential,365,1
+combination,366,2
+kind,367,1
+earthquake,368,6
+published,369,2
+proposed,370,1
+send,371,1
+overdrive,372,1
+shutdown,373,2
+dont,374,5
+option,375,2
+raid,376,2
+methodthere,377,1
+sensor data,378,3
+diesrestarting,379,1
+values,380,1
+logistics,381,1
+imu,382,1
+aware,383,1
+power time,384,1
+exotic,385,2
+seconds takes,386,1
+carried,387,1
+process,388,1
+move,389,5
+paracelsus,390,1
+moving device,391,1
+alternative,392,1
+charging,393,1
+command,394,1
+remove battery,395,3
+bluetooth,396,1
+compliance,397,2
+terrors,398,2
+wireless,399,2
+front,400,1
+depression,401,2
+user,402,1
+slightest,403,1
+account,404,1
+simply,405,1

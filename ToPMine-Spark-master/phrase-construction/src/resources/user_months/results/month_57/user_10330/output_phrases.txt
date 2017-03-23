@@ -1,0 +1,61 @@
+Topic 0:
+  asa:13.50
+  ecliptics curve:13.50
+  ecc:11.25
+  quantum computing:9.51
+  data:9.19
+  green:9.00
+  curves:9.00
+  green wrote:9.00
+  koblitz menezes:9.00
+  advances:9.00
+
+Topic 1:
+  bug:15.02
+  tor browser:11.06
+  bug plate:6.74
+  mac address spoofing:5.80
+  disabled:5.77
+  interface:4.49
+  circuit:4.49
+  september:4.49
+  bundle:4.49
+  tbb:4.49
+
+Topic 2:
+  update packages:7.35
+  tails:6.02
+  quote:5.67
+  net:5.04
+  divorce caused crypto handwringingdivorced:4.53
+  pallidpallas october pmmy:4.53
+  application:4.49
+  weeks:4.49
+  searches:3.66
+  wait:3.66
+
+Topic 3:
+  tor network:13.50
+  notice:13.50
+  directory:11.25
+  notice bootstrapped:11.25
+  connection:9.00
+  vodafone:9.00
+  tor browser:8.06
+  learned directors build circuit:6.75
+  consensus notice:6.75
+  establishing encrusted directory connection:6.75
+
+Topic 4:
+  disable:11.24
+  bug:8.77
+  tor browser:7.56
+  security:6.88
+  uri bar:6.74
+  remove:6.74
+  tor:6.74
+  whitelist:6.74
+  users:6.74
+  isolate:6.74
+
+K: 5, Log-Likelihood: -19242.687, Alpha: 11.000, Beta: 1.100

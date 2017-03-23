@@ -1,0 +1,61 @@
+Topic 0:
+  site:0.44
+  offering:0.43
+  model:0.40
+  referred:0.39
+  idea:0.39
+  intended:0.39
+  business:0.39
+  cryptocoins:0.21
+  bonuses:0.21
+  infinitecoin:0.21
+
+Topic 1:
+  offering:0.41
+  business:0.40
+  idea:0.40
+  referred:0.40
+  model:0.40
+  site:0.40
+  intended:0.40
+  tiered:0.20
+  referrals:0.20
+  free:0.20
+
+Topic 2:
+  model:0.41
+  intended:0.40
+  idea:0.40
+  business:0.40
+  referred:0.40
+  site:0.39
+  offering:0.39
+  type:0.20
+  intro:0.20
+  strategies:0.20
+
+Topic 3:
+  intended:0.41
+  business:0.41
+  referred:0.40
+  model:0.40
+  idea:0.40
+  offering:0.38
+  site:0.38
+  altcoin:0.21
+  grow:0.21
+  system:0.21
+
+Topic 4:
+  referred:0.40
+  idea:0.40
+  intended:0.40
+  business:0.40
+  model:0.40
+  site:0.40
+  offering:0.39
+  type:0.20
+  strategies:0.20
+  ami:0.20
+
+K: 5, Log-Likelihood: -186.052, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  metadata:23.96
+  access:14.96
+  australian:12.80
+  law:11.96
+  data:11.48
+  time:11.07
+  commission:10.96
+  security:10.21
+  government:9.96
+  providers:9.96
+
+Topic 1:
+  security:31.47
+  adviser:14.98
+  foundation:13.35
+  mozilla:12.98
+  tor:12.37
+  design:10.98
+  bug:10.06
+  advisory:8.98
+  tails:8.38
+  browser:7.50
+
+Topic 2:
+  luck:2.74
+  quote:2.26
+  apply:1.89
+  pool:1.88
+  anytime:1.88
+  hope:1.88
+  int:1.88
+  tho:1.88
+  doest:1.88
+  shit:1.88
+
+Topic 3:
+  ransomware:6.97
+  mac:6.89
+  browser:6.42
+  users:6.34
+  attack:4.97
+  researchers:3.97
+  macs:3.97
+  malware:3.97
+  windows:3.71
+  february:3.10
+
+Topic 4:
+  content:2.64
+  australians:2.47
+  astley:2.46
+  site:2.40
+  australia:2.38
+  digital:2.35
+  privacy:2.22
+  australian:2.15
+  matter:2.07
+  abbot:1.96
+
+K: 5, Log-Likelihood: -10778.581, Alpha: 11.000, Beta: 1.100

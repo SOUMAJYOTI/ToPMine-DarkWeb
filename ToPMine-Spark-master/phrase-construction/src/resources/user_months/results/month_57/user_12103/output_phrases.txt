@@ -1,0 +1,61 @@
+Topic 0:
+  onion:2.74
+  coming:2.20
+  site:2.11
+  safe mail:1.93
+  workingour:1.56
+  absolutely:1.56
+  tested:1.56
+  soonmail:1.56
+  net:1.15
+  october:1.09
+
+Topic 1:
+  quote:3.96
+  august:3.30
+  issue:2.13
+  plays:2.13
+  contact:2.13
+  admin:2.13
+  goodbye:2.13
+  fatherteddingtons:2.13
+  buttcoins:2.13
+  pmi:2.13
+
+Topic 2:
+  bitcoin:6.61
+  mixing service:6.61
+  transactions:6.61
+  coins:4.36
+  bitcoins:4.36
+  process:4.36
+  links:4.36
+  people:4.36
+  address:4.36
+  intuitive:4.36
+
+Topic 3:
+  service free october:1.75
+  successful start project decided:1.72
+  mixing:1.51
+  safe mail:1.40
+  statistics:1.10
+  summarize:1.07
+  pleased:1.05
+  total:1.05
+  spasehain:1.05
+  advantage:1.04
+
+Topic 4:
+  mixing:1.41
+  successful start project decided:1.33
+  service free october:1.23
+  safe mail:1.15
+  onion:1.08
+  successful start:0.98
+  mixer decided:0.95
+  spasehain:0.93
+  advantage:0.93
+  total:0.92
+
+K: 5, Log-Likelihood: -2267.164, Alpha: 11.000, Beta: 1.100

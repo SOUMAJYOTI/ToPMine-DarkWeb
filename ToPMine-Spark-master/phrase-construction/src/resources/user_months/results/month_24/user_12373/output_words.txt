@@ -1,0 +1,61 @@
+Topic 0:
+  ei:1.99
+  voi:1.82
+  nain:1.82
+  onko:1.82
+  hyv:1.82
+  itse:0.84
+  mit:0.84
+  sun:0.84
+  kuulemma:0.84
+  viestej:0.84
+
+Topic 1:
+  yt:3.75
+  vain:2.09
+  ss:1.50
+  teisell:1.45
+  prepaid:1.29
+  puhelimen:0.91
+  kotiin:0.77
+  joka:0.72
+  puhelimeen:0.71
+  vaikka:0.70
+
+Topic 2:
+  ja:4.84
+  yt:4.04
+  vain:2.96
+  teisell:2.69
+  kotiin:2.57
+  puhelimen:2.43
+  niin:1.98
+  ll:1.97
+  prepaid:1.71
+  ss:1.56
+
+Topic 3:
+  mail:1.93
+  yt:1.41
+  safe:0.85
+  hk:0.85
+  tietoa:0.85
+  itse:0.84
+  ei:0.72
+  tor:0.70
+  ytt:0.69
+  ysin:0.69
+
+Topic 4:
+  yt:3.30
+  vain:1.15
+  prepaid:1.10
+  ss:1.08
+  teisell:1.02
+  puhelimeen:0.71
+  vaikka:0.70
+  liittym:0.70
+  joka:0.68
+  puhelimen:0.46
+
+K: 5, Log-Likelihood: -1383.310, Alpha: 11.000, Beta: 1.100

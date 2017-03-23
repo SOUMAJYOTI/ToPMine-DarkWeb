@@ -1,0 +1,61 @@
+Topic 0:
+  drop menu:0.71
+  minimum:0.42
+  mobile:0.29
+  supposed:0.28
+  lbc:0.28
+  box:0.28
+  transaction:0.28
+  enter:0.28
+  manually:0.28
+  exploit:0.23
+
+Topic 1:
+  drop menu:0.69
+  minimum:0.41
+  mobile:0.29
+  manually:0.28
+  transaction:0.28
+  supposed:0.28
+  enter:0.28
+  box:0.28
+  lbc:0.28
+  exploit:0.23
+
+Topic 2:
+  drop menu:0.73
+  minimum:0.42
+  mobile:0.29
+  supposed:0.28
+  enter:0.28
+  manually:0.28
+  transaction:0.28
+  box:0.28
+  lbc:0.28
+  exploit:0.23
+
+Topic 3:
+  drop menu:0.66
+  minimum:0.41
+  mobile:0.29
+  box:0.28
+  manually:0.28
+  lbc:0.28
+  transaction:0.28
+  enter:0.28
+  supposed:0.28
+  exploit:0.23
+
+Topic 4:
+  drop menu:0.68
+  minimum:0.42
+  mobile:0.29
+  lbc:0.28
+  enter:0.28
+  transaction:0.28
+  manually:0.28
+  box:0.28
+  supposed:0.28
+  exploit:0.23
+
+K: 5, Log-Likelihood: -352.930, Alpha: 11.000, Beta: 1.100

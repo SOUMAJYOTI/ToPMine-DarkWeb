@@ -1,0 +1,61 @@
+Topic 0:
+  eli:3.17
+  tavallaan:1.56
+  eikait:1.56
+  kummalla:1.56
+  koo:1.56
+  kotietsint:1.56
+  muut:1.56
+  ty:1.56
+  nyt se:1.56
+  nyt:1.56
+
+Topic 1:
+  oli jo:3.14
+  ku:3.14
+  mut:3.14
+  ei:1.54
+  kuuluu:1.53
+  ym:1.53
+  yks:1.53
+  kirjeen:1.53
+  vitun:1.53
+  tsekanneet:1.53
+
+Topic 2:
+  siin:3.17
+  tulliin:3.17
+  miun:3.17
+  varmaan:3.17
+  hdet:1.56
+  neet:1.56
+  european:1.56
+  saatikka:1.56
+  tulliselvitett:1.56
+  tullissa:1.56
+
+Topic 3:
+  tunnustamatta:2.30
+  tt:2.30
+  gramman:2.30
+  suomen:2.30
+  tunnustin:2.30
+  tiwt:2.30
+  tilanneeni:2.30
+  linen:2.30
+  tutkaria:2.30
+  rkee:2.30
+
+Topic 4:
+  sanoa:2.28
+  tuli:2.28
+  onneksi:2.28
+  suomessa:2.28
+  omaan ytt sallittu:2.28
+  st:2.28
+  dopingrikoksesta:2.28
+  tullista:2.28
+  ep:2.28
+  pienin:2.28
+
+K: 5, Log-Likelihood: -2435.321, Alpha: 11.000, Beta: 1.100

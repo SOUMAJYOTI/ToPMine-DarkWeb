@@ -1,0 +1,61 @@
+Topic 0:
+  hope:0.20
+  joking:0.20
+  implied:0.20
+  large:0.20
+  amount:0.20
+  ridiclously:0.20
+  sending:0.20
+  btc:0.20
+  ill:0.20
+  guys:0.20
+
+Topic 1:
+  amount:0.20
+  ill:0.20
+  joke:0.20
+  sending:0.20
+  btc:0.20
+  hope:0.20
+  implied:0.20
+  guys:0.20
+  large:0.20
+  huh:0.20
+
+Topic 2:
+  didn:0.20
+  coming:0.20
+  login:0.20
+  deposited:0.20
+  huh:0.20
+  joke:0.20
+  large:0.20
+  ridiclously:0.20
+  implied:0.20
+  amount:0.20
+
+Topic 3:
+  ill:0.20
+  guys:0.20
+  btc:0.20
+  sending:0.20
+  huh:0.20
+  deposited:0.20
+  didn:0.20
+  joking:0.20
+  login:0.20
+  coming:0.20
+
+Topic 4:
+  ridiclously:0.20
+  joking:0.20
+  implied:0.20
+  amount:0.20
+  hope:0.20
+  large:0.20
+  joke:0.20
+  coming:0.20
+  login:0.20
+  btc:0.20
+
+K: 5, Log-Likelihood: -44.361, Alpha: 11.000, Beta: 1.100

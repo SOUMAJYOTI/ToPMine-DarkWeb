@@ -1,0 +1,61 @@
+Topic 0:
+  price:1.80
+  exploit:1.22
+  vendor:1.16
+  xbox:0.74
+  products:0.74
+  forward:0.73
+  tag:0.73
+  se:0.73
+  market:0.73
+  monitors:0.31
+
+Topic 1:
+  price:0.88
+  exploit:0.73
+  vendor:0.71
+  market:0.49
+  se:0.48
+  tag:0.48
+  products:0.48
+  forward:0.48
+  xbox:0.48
+  message:0.38
+
+Topic 2:
+  price:0.66
+  vendor:0.59
+  exploit:0.53
+  message:0.41
+  forward:0.40
+  market:0.40
+  se:0.40
+  products:0.39
+  tag:0.39
+  xbox:0.39
+
+Topic 3:
+  items:3.67
+  prohibited:2.69
+  harm:2.68
+  design:1.70
+  topics:1.70
+  discussion:1.70
+  general:1.70
+  fraud:1.70
+  limited:1.70
+  category:0.74
+
+Topic 4:
+  price:0.63
+  vendor:0.50
+  exploit:0.50
+  message:0.42
+  xbox:0.37
+  tag:0.37
+  se:0.37
+  market:0.37
+  products:0.37
+  forward:0.36
+
+K: 5, Log-Likelihood: -577.816, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  services:0.36
+  quote:0.20
+  daytime:0.20
+  pmnucleus:0.18
+  phooops:0.18
+  nosnot:0.18
+  tablet:0.18
+  fly:0.18
+  theretardedcynic:0.18
+  dont:0.18
+
+Topic 1:
+  services:0.35
+  quote:0.21
+  daytime:0.21
+  cure:0.19
+  dont:0.19
+  tablet:0.19
+  coat:0.19
+  pmnucleus:0.19
+  work:0.19
+  theretardedcynic:0.19
+
+Topic 2:
+  services:0.37
+  daytime:0.20
+  quote:0.20
+  bought:0.18
+  phishing:0.18
+  coin:0.18
+  cheese:0.18
+  digital:0.18
+  streaming:0.18
+  problem:0.18
+
+Topic 3:
+  services:0.38
+  daytime:0.20
+  quote:0.20
+  fraction:0.19
+  skye:0.19
+  netflix:0.19
+  tiny:0.19
+  reasons:0.19
+  avoided:0.19
+  fraud:0.19
+
+Topic 4:
+  services:0.37
+  daytime:0.20
+  quote:0.20
+  fake:0.18
+  forum:0.18
+  skye:0.18
+  leftover:0.18
+  cheese:0.18
+  avoided:0.18
+  wanted:0.18
+
+K: 5, Log-Likelihood: -159.955, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  site:1.69
+  joke:1.53
+  north korea:1.27
+  check:1.19
+  good:1.08
+  dont real:1.08
+  condone:1.08
+  state sponsored dnm:1.04
+  government:1.04
+  market:0.70
+
+Topic 1:
+  site:2.45
+  joke:2.13
+  condone:1.85
+  dont real:1.63
+  state sponsored dnm:1.54
+  government:1.52
+  good:1.46
+  check:1.43
+  north korea:1.10
+  potential:0.79
+
+Topic 2:
+  fuckers:1.19
+  gon:1.18
+  slaves:1.18
+  beat:1.18
+  couple:1.18
+  admin:1.16
+  luck:1.16
+  hold:1.16
+  korea market:1.16
+  real good:1.15
+
+Topic 3:
+  joke:4.23
+  site:2.62
+  good:1.91
+  government:1.87
+  state sponsored dnm:1.83
+  check:1.79
+  dont real:1.73
+  condone:1.51
+  north korea:1.16
+  develops:0.81
+
+Topic 4:
+  market:3.79
+  market admin:3.14
+  figured:3.07
+  hosted:1.93
+  referred:1.53
+  ideas:1.53
+  havana:1.53
+  death:1.53
+  place:1.53
+  khmer:1.53
+
+K: 5, Log-Likelihood: -2516.075, Alpha: 11.000, Beta: 1.100

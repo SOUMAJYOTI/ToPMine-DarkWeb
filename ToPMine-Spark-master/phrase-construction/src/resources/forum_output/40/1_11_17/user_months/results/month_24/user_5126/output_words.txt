@@ -1,0 +1,21 @@
+Topic 0:
+  sr:0.20
+  find:0.20
+
+Topic 1:
+  sr:0.20
+  find:0.20
+
+Topic 2:
+  find:0.20
+  sr:0.20
+
+Topic 3:
+  sr:0.20
+  find:0.20
+
+Topic 4:
+  find:0.20
+  sr:0.20
+
+K: 5, Log-Likelihood: -1.386, Alpha: 11.000, Beta: 1.100

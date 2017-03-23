@@ -1,0 +1,61 @@
+Topic 0:
+  uri:17.96
+  market:14.05
+  forum:11.87
+  list:8.60
+  url:6.70
+  marketplace:4.84
+  markets:4.16
+  rated:3.78
+  sites:3.49
+  forums:2.89
+
+Topic 1:
+  time:7.92
+  key:7.49
+  pgp:7.11
+  orders:6.35
+  solution:6.04
+  case:4.55
+  signature:4.47
+  require:4.39
+  resources:4.10
+  market:3.49
+
+Topic 2:
+  time:6.45
+  pgp:2.89
+  money:2.61
+  agora:2.48
+  key:2.13
+  market:2.13
+  solution:1.66
+  resources:1.62
+  users:1.58
+  servers:1.54
+
+Topic 3:
+  time:4.03
+  market:2.56
+  agora:2.42
+  sr:1.21
+  dont:1.06
+  hidden:1.05
+  tor:1.04
+  handle:1.03
+  additionally:1.01
+  good:0.93
+
+Topic 4:
+  quote:7.37
+  return:7.10
+  agora:5.19
+  markets:4.17
+  dated:3.99
+  admin:3.91
+  thing:3.91
+  agra:3.90
+  lea:3.90
+  accounts:3.85
+
+K: 5, Log-Likelihood: -11214.743, Alpha: 11.000, Beta: 1.100

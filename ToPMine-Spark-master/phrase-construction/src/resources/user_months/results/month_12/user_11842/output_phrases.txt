@@ -1,0 +1,61 @@
+Topic 0:
+  websites:0.74
+  coat:0.73
+  gold users:0.73
+  dont:0.73
+  nickel:0.73
+  point:0.73
+  verify:0.73
+  real:0.73
+  doubt:0.72
+  trust:0.72
+
+Topic 1:
+  items:2.18
+  sites:2.18
+  times:2.17
+  day:2.17
+  users:2.16
+  guy:2.15
+  illegal:0.92
+  quote:0.92
+  apple:0.92
+  simple:0.92
+
+Topic 2:
+  number:0.55
+  ak:0.55
+  letters:0.55
+  buddy:0.55
+  gold:0.55
+  word:0.55
+  find:0.48
+  shell:0.48
+  link:0.47
+  hidden:0.40
+
+Topic 3:
+  search:2.33
+  reviews:2.33
+  site:2.33
+  thread:1.04
+  everybodywhen:1.04
+  wiki:1.04
+  great:1.04
+  guns:1.04
+  review:1.04
+  verify site:1.04
+
+Topic 4:
+  lol:2.22
+  terrorist:0.95
+  liveleak:0.95
+  afford:0.95
+  motherfucker:0.95
+  shot:0.95
+  wahhabi:0.95
+  good:0.95
+  fairness:0.95
+  video:0.95
+
+K: 5, Log-Likelihood: -578.947, Alpha: 11.000, Beta: 1.100

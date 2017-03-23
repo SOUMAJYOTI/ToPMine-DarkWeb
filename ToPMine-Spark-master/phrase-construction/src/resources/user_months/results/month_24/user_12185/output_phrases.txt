@@ -1,0 +1,61 @@
+Topic 0:
+  wu:1.13
+  phone:1.11
+  fraud:1.06
+  call:1.05
+  money:1.05
+  sending:1.03
+  situation:1.01
+  prompted:0.49
+  add:0.49
+  safer:0.49
+
+Topic 1:
+  wu:1.09
+  situation:1.03
+  sending:1.01
+  money:0.98
+  call:0.98
+  fraud:0.98
+  phone:0.92
+  documents:0.47
+  justifying:0.47
+  fit:0.47
+
+Topic 2:
+  clerk:1.60
+  service:1.60
+  paranoid:1.14
+  louse:0.69
+  good:0.69
+  day:0.69
+  point:0.69
+  intrusion:0.69
+  masterofl:0.69
+  hey:0.69
+
+Topic 3:
+  moneypak:1.99
+  purchase:1.99
+  bitcoins:1.99
+  bitcoin:1.99
+  tape:0.91
+  privilege:0.91
+  anonymous:0.91
+  reputed:0.91
+  bank:0.91
+  fund:0.91
+
+Topic 4:
+  paranoid:0.63
+  drugs:0.49
+  safely:0.49
+  generally:0.49
+  cash:0.49
+  localbitcoins:0.49
+  banking:0.49
+  coinbase moneypak:0.49
+  suspicious:0.49
+  talking:0.49
+
+K: 5, Log-Likelihood: -731.930, Alpha: 11.000, Beta: 1.100

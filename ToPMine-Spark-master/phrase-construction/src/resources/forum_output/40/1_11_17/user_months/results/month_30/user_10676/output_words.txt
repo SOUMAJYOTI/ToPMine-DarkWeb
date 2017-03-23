@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:12.01
+  version:8.58
+  source:8.50
+  versions:6.60
+  software:6.28
+  symantec:5.57
+  open:5.55
+  keys:4.42
+  key:3.64
+  bits:3.62
+
+Topic 1:
+  secure:1.46
+  truecrypt:1.29
+  post:0.79
+  pip:0.78
+  read:0.78
+  quote:0.68
+  win:0.66
+  archivewhat:0.60
+  members:0.60
+  extension:0.60
+
+Topic 2:
+  easily:1.23
+  quote:1.12
+  secure:0.85
+  thereheads:0.77
+  dealt:0.77
+  ideal:0.76
+  cartel:0.76
+  usbs:0.76
+  compliant:0.76
+  thumb:0.75
+
+Topic 3:
+  comment:2.29
+  win:2.18
+  amount:2.10
+  secure:1.55
+  dont:1.40
+  thread:1.39
+  people:1.38
+  tails:1.37
+  read:1.18
+  post:1.18
+
+Topic 4:
+  software:1.34
+  supported:1.00
+  october:0.99
+  keys:0.97
+  pip:0.97
+  lot:0.96
+  trust:0.72
+  truecrypt:0.71
+  copied:0.70
+  evilgrin:0.64
+
+K: 5, Log-Likelihood: -2119.638, Alpha: 11.000, Beta: 1.100

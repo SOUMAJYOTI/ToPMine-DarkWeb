@@ -1,0 +1,61 @@
+Topic 0:
+  computer:0.23
+  boot:0.17
+  zaph:0.14
+  charm:0.14
+  worked:0.14
+  youll:0.14
+  pmhi:0.14
+  turn:0.14
+  bits:0.14
+  left:0.14
+
+Topic 1:
+  computer:0.23
+  boot:0.17
+  pmhi:0.14
+  turn:0.14
+  boot option:0.14
+  turned:0.14
+  youll:0.14
+  bits:0.14
+  left:0.14
+  june:0.14
+
+Topic 2:
+  computer:0.23
+  boot:0.17
+  secure:0.14
+  ziggy:0.14
+  sounds:0.14
+  turn:0.14
+  left:0.14
+  zaphod:0.14
+  boot option:0.14
+  settings:0.14
+
+Topic 3:
+  computer:0.23
+  boot:0.17
+  charm:0.14
+  worked:0.14
+  zaph:0.14
+  cheers:0.14
+  quote:0.14
+  bios:0.14
+  youll:0.14
+  bits:0.14
+
+Topic 4:
+  computer:0.23
+  boot:0.17
+  zaph:0.14
+  ziggy:0.14
+  cheers:0.14
+  bios:0.14
+  quote:0.14
+  turned:0.14
+  june:0.14
+  settings:0.14
+
+K: 5, Log-Likelihood: -124.855, Alpha: 11.000, Beta: 1.100

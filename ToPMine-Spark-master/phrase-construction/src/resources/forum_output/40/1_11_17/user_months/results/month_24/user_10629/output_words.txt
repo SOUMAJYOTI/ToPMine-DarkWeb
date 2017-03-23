@@ -1,0 +1,61 @@
+Topic 0:
+  people:0.83
+  cash:0.65
+  anonymously:0.63
+  circle:0.58
+  cards:0.57
+  localbitcoins:0.45
+  work:0.41
+  card:0.41
+  gift:0.41
+  coinbase:0.40
+
+Topic 1:
+  people:0.74
+  circle:0.66
+  cards:0.64
+  anonymously:0.61
+  cash:0.59
+  access:0.44
+  prepaid:0.43
+  tor:0.43
+  card:0.41
+  gift:0.41
+
+Topic 2:
+  cards:0.73
+  circle:0.70
+  people:0.61
+  tor:0.57
+  prepaid:0.56
+  access:0.56
+  cash:0.55
+  anonymously:0.53
+  buy:0.50
+  btc:0.44
+
+Topic 3:
+  people:0.84
+  anonymously:0.59
+  circle:0.58
+  cards:0.58
+  cash:0.58
+  btc:0.42
+  real:0.41
+  coinbase:0.41
+  buy:0.40
+  work:0.40
+
+Topic 4:
+  people:0.98
+  anonymously:0.64
+  cash:0.62
+  localbitcoins:0.50
+  circle:0.48
+  cards:0.48
+  work:0.46
+  coinbase:0.45
+  real:0.45
+  btc:0.39
+
+K: 5, Log-Likelihood: -339.194, Alpha: 11.000, Beta: 1.100

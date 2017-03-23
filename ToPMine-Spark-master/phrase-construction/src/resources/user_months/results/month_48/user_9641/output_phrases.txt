@@ -1,0 +1,61 @@
+Topic 0:
+  people:2.66
+  spiritual:1.46
+  presented:1.26
+  enlightened:1.26
+  life:1.26
+  homeless:1.26
+  strangers:1.26
+  academics:1.26
+  meant:1.26
+  oppotunists:1.26
+
+Topic 1:
+  douche:2.68
+  shit:2.68
+  people:2.24
+  likeminded:1.29
+  huge:1.29
+  popular:1.29
+  strike:1.29
+  introduced:1.29
+  hippie:1.29
+  yogis:1.29
+
+Topic 2:
+  open:2.49
+  heart:2.47
+  work:1.75
+  green:1.73
+  love:1.71
+  dont:1.19
+  beautiful:1.13
+  enigmaticsmiles:1.13
+  buddhabe:1.13
+  prophetwhen:1.13
+
+Topic 3:
+  feel:2.55
+  find:2.55
+  love:1.64
+  work:1.63
+  green:1.62
+  pass:1.18
+  uncleal:1.18
+  sit:1.18
+  mind:1.18
+  everyday:1.18
+
+Topic 4:
+  experiences:1.07
+  share:0.89
+  june:0.80
+  spiritsimply:0.80
+  attract:0.80
+  lots:0.80
+  class:0.80
+  plenty:0.80
+  spirit:0.80
+  true:0.80
+
+K: 5, Log-Likelihood: -1290.055, Alpha: 11.000, Beta: 1.100

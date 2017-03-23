@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:11.17
+  site:10.25
+  listing:9.37
+  security:6.79
+  markets:6.26
+  secure:5.56
+  audit:5.34
+  drug:5.26
+  drugslist:5.08
+  btc:4.68
+
+Topic 1:
+  tr:29.99
+  derjo:28.99
+  nightmare:24.99
+  frankmatthews:18.99
+  item:13.99
+  ab:13.99
+  eb:12.99
+  bc:11.99
+  righteous:11.92
+  cc:10.99
+
+Topic 2:
+  sr:11.60
+  people:7.94
+  security:6.12
+  great:6.03
+  good:5.29
+  marketplace:5.26
+  ship:4.83
+  work:4.15
+  support:3.58
+  market:3.22
+
+Topic 3:
+  quote:13.10
+  february:11.06
+  deepdotweb:6.05
+  didnt:3.93
+  lol:3.78
+  story:3.44
+  dont:3.17
+  owners:2.91
+  chance:2.74
+  life:2.52
+
+Topic 4:
+  dutch:9.02
+  market:6.17
+  police:4.64
+  quote:3.89
+  prosecution:3.78
+  site:3.37
+  article:3.24
+  february:3.24
+  involved:3.18
+  year:2.96
+
+K: 5, Log-Likelihood: -10584.546, Alpha: 11.000, Beta: 1.100

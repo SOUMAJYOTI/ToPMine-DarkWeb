@@ -1,0 +1,61 @@
+Topic 0:
+  september:0.08
+  bsd:0.08
+  mediumraresteak:0.08
+  pmquote beastie august:0.08
+  pmquote:0.08
+  beastie august pmquote:0.08
+  explain:0.00
+  august pmquote beastie:0.00
+  pmdeepdotweb:0.00
+  link:0.00
+
+Topic 1:
+  pmquote:0.08
+  bsd:0.08
+  mediumraresteak:0.08
+  september:0.08
+  pmquote beastie august:0.08
+  beastie august pmquote:0.08
+  explain:0.00
+  august pmquote beastie:0.00
+  pmdeepdotweb:0.00
+  link:0.00
+
+Topic 2:
+  beastie august pmquote:0.08
+  pmquote beastie august:0.08
+  pmquote:0.08
+  mediumraresteak:0.08
+  september:0.08
+  bsd:0.08
+  explain:0.00
+  august pmquote beastie:0.00
+  pmdeepdotweb:0.00
+  link:0.00
+
+Topic 3:
+  mediumraresteak:0.08
+  pmquote:0.08
+  pmquote beastie august:0.08
+  beastie august pmquote:0.08
+  bsd:0.08
+  september:0.08
+  explain:0.00
+  august pmquote beastie:0.00
+  pmdeepdotweb:0.00
+  link:0.00
+
+Topic 4:
+  beastie august pmquote:0.08
+  bsd:0.08
+  pmquote beastie august:0.08
+  pmquote:0.08
+  september:0.08
+  mediumraresteak:0.08
+  explain:0.00
+  august pmquote beastie:0.00
+  pmdeepdotweb:0.00
+  link:0.00
+
+K: 5, Log-Likelihood: -7.052, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  btc:10.28
+  connect:4.94
+  turn:3.53
+  click:3.53
+  switching:3.53
+  red:3.53
+  takes:3.53
+  servers:3.53
+  port:3.53
+  restart:3.53
+
+Topic 1:
+  bounty:4.40
+  cheers:3.67
+  rhett:3.67
+  gypcu:2.21
+  fine:2.21
+  worked:2.21
+  servers connect:2.21
+  appreciated:2.21
+  impatient:2.21
+  greatly:2.21
+
+Topic 2:
+  wallet:5.45
+  tor:3.53
+  blockchain:3.40
+  electric:3.39
+  connect:2.90
+  armory:2.23
+  superior:2.23
+  sound:2.23
+  tcp servers:2.23
+  outs:2.23
+
+Topic 3:
+  server:3.61
+  working:3.61
+  safe tcp:3.61
+  connect server:3.61
+  ideas:3.61
+  finally connect:3.61
+  earlier:3.61
+  hidden:3.61
+  proxy:3.61
+  won:2.47
+
+Topic 4:
+  april:5.59
+  password:5.21
+  reading:4.48
+  messages:4.48
+  quote:3.84
+  thing:3.37
+  inanna:3.17
+  distribution linux version:3.17
+  version tails:3.16
+  port electrum:3.16
+
+K: 5, Log-Likelihood: -1981.713, Alpha: 11.000, Beta: 1.100

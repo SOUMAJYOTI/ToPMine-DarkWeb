@@ -1,0 +1,61 @@
+Topic 0:
+  time:1.54
+  coins:1.43
+  mixed:1.23
+  mixing:1.21
+  bitcoin:1.20
+  list:1.01
+  wallet:0.83
+  lot:0.81
+  founded:0.69
+  worksalso:0.68
+
+Topic 1:
+  time:1.60
+  coins:1.31
+  mixed:1.25
+  list:1.16
+  mixing:1.16
+  bitcoin:1.15
+  wallet:0.85
+  lot:0.85
+  founded:0.75
+  black:0.74
+
+Topic 2:
+  coins:2.37
+  service:1.31
+  matter:1.09
+  great:1.06
+  track:1.06
+  fight:1.05
+  tumble:1.04
+  fog:0.91
+  time:0.75
+  security:0.72
+
+Topic 3:
+  mixed:3.20
+  list:1.43
+  read:1.43
+  methanks:1.42
+  share:1.42
+  wiki:1.42
+  bad:1.41
+  mixers:1.40
+  mixfirst:1.40
+  marketsi:1.40
+
+Topic 4:
+  coins:2.12
+  service:1.22
+  fog:0.94
+  time:0.88
+  tumble:0.80
+  fight:0.80
+  track:0.78
+  great:0.78
+  matter:0.75
+  security:0.68
+
+K: 5, Log-Likelihood: -856.121, Alpha: 11.000, Beta: 1.100

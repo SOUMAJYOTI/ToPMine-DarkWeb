@@ -1,0 +1,61 @@
+Topic 0:
+  device:0.60
+  iphone:0.57
+  days:0.40
+  mobile:0.40
+  account:0.20
+  iphoneso:0.20
+  september:0.20
+  quote:0.20
+  create:0.20
+  patrik:0.20
+
+Topic 1:
+  iphone:0.61
+  device:0.60
+  days:0.40
+  mobile:0.40
+  iphonethank:0.20
+  raised:0.20
+  break:0.20
+  stuck:0.20
+  varistor:0.20
+  apple:0.20
+
+Topic 2:
+  device:0.61
+  iphone:0.58
+  mobile:0.40
+  days:0.40
+  account:0.20
+  september:0.20
+  create:0.20
+  patrik:0.20
+  quote:0.20
+  iphoneso:0.20
+
+Topic 3:
+  iphone:0.61
+  device:0.61
+  mobile:0.40
+  days:0.40
+  break:0.20
+  version:0.20
+  stuck:0.20
+  wanted:0.20
+  apple:0.20
+  iphonethank:0.20
+
+Topic 4:
+  iphone:0.64
+  device:0.59
+  mobile:0.40
+  days:0.40
+  varistor:0.20
+  stuck:0.20
+  raised:0.20
+  wanted:0.20
+  apple:0.20
+  version:0.20
+
+K: 5, Log-Likelihood: -115.602, Alpha: 11.000, Beta: 1.100

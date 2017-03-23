@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.79
+  kun:0.62
+  ei:0.40
+  escrow:0.20
+  kolaa:0.20
+  vaatii:0.20
+  ketamiinia:0.20
+  malli:0.20
+  niin:0.20
+  tied:0.20
+
+Topic 1:
+  ja:0.83
+  kun:0.58
+  ei:0.40
+  niin:0.20
+  laittanut:0.20
+  douppiluukku:0.20
+  vahvaa:0.20
+  isommat:0.20
+  mars:0.20
+  nain:0.20
+
+Topic 2:
+  ja:0.75
+  kun:0.58
+  ei:0.40
+  asiakas:0.20
+  sekak:0.20
+  paitsi:0.20
+  escrow:0.20
+  customit:0.20
+  toistaiseksi:0.20
+  isommat:0.20
+
+Topic 3:
+  ja:0.84
+  kun:0.62
+  ei:0.40
+  luukuttaa:0.20
+  edit:0.20
+  ss:0.20
+  palautetta:0.20
+  koittaa:0.20
+  postissa:0.20
+  koksua:0.20
+
+Topic 4:
+  ja:0.79
+  kun:0.61
+  ei:0.40
+  vahingossa:0.20
+  mars:0.20
+  nain:0.20
+  asiakas:0.20
+  tuote:0.20
+  paska:0.20
+  ostaneet:0.20
+
+K: 5, Log-Likelihood: -335.544, Alpha: 11.000, Beta: 1.100

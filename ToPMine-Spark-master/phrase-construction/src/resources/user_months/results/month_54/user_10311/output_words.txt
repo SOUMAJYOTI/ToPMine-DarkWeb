@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:17.79
+  barclays:13.89
+  banks:8.25
+  accept:5.71
+  year:4.68
+  major:3.97
+  bank:3.97
+  accepting:2.97
+  read:2.89
+  blockchain:2.77
+
+Topic 1:
+  multisig:9.89
+  august:8.40
+  key:8.18
+  quote:6.98
+  oxygen:4.48
+  shit:4.20
+  true:3.89
+  bip:3.67
+  looked:3.56
+  heard:3.43
+
+Topic 2:
+  july:9.87
+  quote:5.78
+  chka:3.79
+  pretty:3.79
+  cool:3.65
+  fast:3.44
+  market:2.88
+  lol:2.54
+  lack:2.54
+  buttcoins:2.20
+
+Topic 3:
+  electrum:14.86
+  coins:7.49
+  wallet:5.69
+  server:4.95
+  watching:3.95
+  addresses:3.95
+  servers:3.90
+  tails:2.88
+  keys:2.58
+  transaction:2.51
+
+Topic 4:
+  enigma:14.86
+  september:11.75
+  quote:9.37
+  pmquote:8.63
+  guys:8.05
+  advice:4.71
+  bit:4.41
+  spanish:3.86
+  minus:3.86
+  richard:3.86
+
+K: 5, Log-Likelihood: -5580.545, Alpha: 11.000, Beta: 1.100

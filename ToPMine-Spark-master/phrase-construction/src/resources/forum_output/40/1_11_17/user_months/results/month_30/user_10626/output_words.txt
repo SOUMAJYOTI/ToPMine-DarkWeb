@@ -1,0 +1,61 @@
+Topic 0:
+  nucleus:0.89
+  free:0.60
+  couple:0.51
+  list:0.50
+  market:0.48
+  deposit:0.40
+  time:0.38
+  withdrawal:0.36
+  change:0.34
+  site:0.34
+
+Topic 1:
+  nucleus:0.88
+  list:0.69
+  free:0.65
+  vendors:0.52
+  market:0.50
+  site:0.44
+  wait:0.41
+  couple:0.37
+  time:0.36
+  ability:0.29
+
+Topic 2:
+  deposit:2.10
+  spare:1.22
+  change:1.21
+  withdrawal:1.19
+  nucleus:0.72
+  couple:0.63
+  free:0.58
+  unconformed:0.48
+  guess:0.48
+  sat:0.48
+
+Topic 3:
+  vendors:1.32
+  good:1.02
+  ability:1.02
+  list:0.81
+  nucleus:0.67
+  wait:0.63
+  free:0.58
+  site:0.56
+  time:0.42
+  people:0.41
+
+Topic 4:
+  nucleus:0.84
+  list:0.77
+  vendors:0.65
+  free:0.60
+  site:0.50
+  wait:0.47
+  market:0.46
+  ability:0.39
+  good:0.39
+  time:0.36
+
+K: 5, Log-Likelihood: -494.482, Alpha: 11.000, Beta: 1.100

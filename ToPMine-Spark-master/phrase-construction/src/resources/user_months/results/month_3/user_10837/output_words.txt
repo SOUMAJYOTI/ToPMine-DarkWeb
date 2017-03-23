@@ -1,0 +1,61 @@
+Topic 0:
+  client:2.13
+  multibit:1.62
+  wallets:1.36
+  addresses:1.06
+  address:0.96
+  running:0.50
+  separate:0.50
+  blockchain:0.50
+  network:0.50
+  broadcast:0.50
+
+Topic 1:
+  client:2.66
+  multibit:1.76
+  wallets:1.45
+  addresses:1.03
+  address:0.92
+  blockchain:0.50
+  online:0.50
+  network:0.50
+  broadcast:0.50
+  separate:0.49
+
+Topic 2:
+  tx:1.27
+  bloom:1.25
+  wallet:1.07
+  address:0.97
+  tie:0.78
+  bitcoinj:0.78
+  filters:0.78
+  support:0.77
+  push:0.77
+  tor:0.77
+
+Topic 3:
+  wallet:1.11
+  bloom:1.03
+  address:1.00
+  tx:0.99
+  node:0.66
+  tor:0.66
+  push:0.66
+  support:0.65
+  filters:0.65
+  bitcoinj:0.65
+
+Topic 4:
+  address:1.16
+  wallet:1.06
+  addresses:0.75
+  multibit:0.69
+  tx:0.58
+  bloom:0.56
+  tie:0.43
+  support:0.43
+  push:0.43
+  bitcoinj:0.43
+
+K: 5, Log-Likelihood: -623.156, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  sr:11.26
+  coinmixer:10.14
+  agora:9.46
+  customers:7.71
+  btcfogs:6.38
+  btcfog:6.24
+  service:5.62
+  people:5.37
+  commissions:3.04
+  picking:3.03
+
+Topic 1:
+  agora:5.90
+  coins:2.63
+  influx:1.84
+  june:1.69
+  coinmixer:1.62
+  attack:1.59
+  database:1.54
+  user:1.53
+  btcfog:1.52
+  sr:1.51
+
+Topic 2:
+  bf:5.47
+  pin:4.08
+  user:3.71
+  reset:3.66
+  june:3.63
+  case:2.62
+  attack:2.56
+  actual:2.23
+  bot:2.14
+  usernamed:2.07
+
+Topic 3:
+  user:4.43
+  bf:4.34
+  june:3.38
+  pin:3.09
+  reset:2.30
+  attack:2.21
+  coins:2.09
+  usernamed:1.89
+  quote:1.73
+  case:1.43
+
+Topic 4:
+  user:2.90
+  ddos:2.86
+  logic:2.19
+  disconnected:1.87
+  coins:1.86
+  brute:1.76
+  request:1.76
+  pin:1.65
+  reset:0.93
+  bf:0.88
+
+K: 5, Log-Likelihood: -2558.274, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,56 @@
+Topic 0:
+  introduce:0.08
+  garden:0.08
+  hey:0.08
+  servicesoesrry:0.08
+  dont:0.08
+  stopping:0.08
+  involved:0.08
+  kind:0.08
+  doug:0.00
+
+Topic 1:
+  introduce:0.08
+  dont:0.08
+  kind:0.08
+  servicesoesrry:0.08
+  involved:0.08
+  garden:0.08
+  stopping:0.08
+  hey:0.08
+  doug:0.00
+
+Topic 2:
+  introduce:0.08
+  kind:0.08
+  hey:0.08
+  dont:0.08
+  garden:0.08
+  stopping:0.08
+  servicesoesrry:0.08
+  involved:0.08
+  doug:0.00
+
+Topic 3:
+  involved:0.08
+  servicesoesrry:0.08
+  stopping:0.08
+  hey:0.08
+  dont:0.08
+  garden:0.08
+  kind:0.08
+  introduce:0.08
+  doug:0.00
+
+Topic 4:
+  stopping:0.08
+  involved:0.08
+  hey:0.08
+  kind:0.08
+  garden:0.08
+  servicesoesrry:0.08
+  dont:0.08
+  introduce:0.08
+  doug:0.00
+
+K: 5, Log-Likelihood: -6.962, Alpha: 11.000, Beta: 1.100

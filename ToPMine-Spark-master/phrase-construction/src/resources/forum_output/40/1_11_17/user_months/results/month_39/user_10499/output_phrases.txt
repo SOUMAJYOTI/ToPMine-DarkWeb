@@ -1,0 +1,61 @@
+Topic 0:
+  entropy:7.22
+  problem:5.50
+  question:5.50
+  virtual machines:5.50
+  keys:4.01
+  dev urandom:4.00
+  haveged:3.56
+  pool:3.56
+  de random:3.12
+  tails:2.85
+
+Topic 1:
+  havege:7.01
+  high:5.63
+  guys:5.49
+  random number generators:5.49
+  dice:5.47
+  bits entropy:5.47
+  tails developers:5.40
+  unpredictable random number generator:5.35
+  monte carlo simulations:5.35
+  throughput havege:3.56
+
+Topic 2:
+  vpn:4.55
+  listening:3.56
+  install:3.56
+  solution:3.56
+  pc:3.56
+  private:3.56
+  chinese:3.01
+  hosting:3.01
+  stuff:1.77
+  official:1.77
+
+Topic 3:
+  travellers:3.56
+  airport:3.56
+  radio:3.56
+  minutes:3.56
+  fallback:3.52
+  clock:3.52
+  phone:2.91
+  source:2.79
+  airports:1.76
+  messages:1.76
+
+Topic 4:
+  china:6.48
+  bridge:5.32
+  domain:3.55
+  bringing:3.55
+  company:3.55
+  services:3.55
+  surveillance:3.55
+  guy:3.55
+  encryption software:3.55
+  setup:3.53
+
+K: 5, Log-Likelihood: -7523.194, Alpha: 11.000, Beta: 1.100

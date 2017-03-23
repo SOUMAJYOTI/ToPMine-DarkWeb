@@ -1,0 +1,61 @@
+Topic 0:
+  sr:7.33
+  operating:2.79
+  favor:2.78
+  le:2.77
+  hope:2.77
+  sooner:2.76
+  long:2.76
+  servers:2.72
+  thieving:2.72
+  shutdown:2.71
+
+Topic 1:
+  blah:4.01
+  dont:2.57
+  ddos:2.44
+  guys:1.94
+  fk:1.94
+  grandsfrom:1.94
+  fuck:1.94
+  ffs:1.94
+  nonsense:1.94
+  mods:1.94
+
+Topic 2:
+  hub:6.28
+  ross:3.07
+  risk:3.06
+  post:3.06
+  donations:3.06
+  revoke:3.06
+  botnet:3.06
+  vendors sr:3.06
+  buyers:3.06
+  shamed:3.06
+
+Topic 3:
+  shit:3.60
+  attack:2.25
+  lost:2.21
+  moment:1.65
+  worried:1.65
+  carry:1.65
+  titles:1.64
+  thread:1.64
+  alarming:1.64
+  talkers:1.64
+
+Topic 4:
+  actual:3.15
+  hack:3.15
+  sr forums:3.15
+  fud:3.15
+  proof:3.15
+  statements:3.15
+  paranoia:3.15
+  usual:3.15
+  peek:3.15
+  september:2.88
+
+K: 5, Log-Likelihood: -1559.059, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  crashing:0.55
+  module:0.55
+  problem:0.54
+  server:0.54
+  bitcoin:0.35
+  worth:0.32
+  system:0.24
+  charge:0.24
+  pay:0.24
+  key:0.24
+
+Topic 1:
+  things:0.47
+  site:0.47
+  worth:0.36
+  bitcoin:0.28
+  server:0.27
+  crashing:0.27
+  problem:0.27
+  module:0.27
+  quote:0.23
+  payment:0.23
+
+Topic 2:
+  worth:0.38
+  site:0.35
+  things:0.35
+  problem:0.35
+  crashing:0.35
+  module:0.34
+  server:0.34
+  bitcoin:0.30
+  quit:0.21
+  reading:0.21
+
+Topic 3:
+  site:0.50
+  things:0.50
+  worth:0.39
+  bitcoin:0.27
+  server:0.25
+  problem:0.25
+  module:0.25
+  crashing:0.25
+  payment:0.23
+  quote:0.23
+
+Topic 4:
+  server:0.43
+  problem:0.43
+  module:0.43
+  crashing:0.42
+  worth:0.38
+  bitcoin:0.32
+  things:0.28
+  site:0.28
+  wordpress:0.22
+  jump:0.21
+
+K: 5, Log-Likelihood: -424.505, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  public:18.39
+  key:13.94
+  private:10.19
+  cryptonote:9.99
+  keys:9.94
+  sender:9.94
+  senders:9.94
+  transactions:8.76
+  receiver:7.94
+  transaction:7.94
+
+Topic 1:
+  bytecoin:8.48
+  monero:5.08
+  cryptonote:4.14
+  july:3.29
+  worth:2.94
+  bit:2.10
+  quote:2.10
+  currency:2.10
+  reading:2.10
+  appears:2.03
+
+Topic 2:
+  monero:3.85
+  privacy:2.32
+  good:1.94
+  bitcoin:1.93
+  interest:1.93
+  isnt:1.93
+  holding:1.76
+  issues:1.04
+  created:1.04
+  spread:1.04
+
+Topic 3:
+  team:5.18
+  technology:1.59
+  appears:1.42
+  privacy:1.34
+  software:1.15
+  hacking:1.02
+  agency:0.79
+  law:0.77
+  agencies:0.77
+  enforcement:0.75
+
+Topic 4:
+  hacking:37.95
+  team:34.79
+  company:15.30
+  fbi:14.25
+  software:12.25
+  enforcement:10.21
+  wrote:9.48
+  system:8.46
+  law:8.20
+  emails:7.35
+
+K: 5, Log-Likelihood: -8268.738, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  beliefs:8.90
+  people:5.62
+  coures:4.44
+  finds:4.44
+  suffering:4.44
+  snuff:4.44
+  yup:4.44
+  facebook:4.44
+  wouldn:4.44
+  internet people:4.44
+
+Topic 1:
+  real:13.38
+  ideas college:10.28
+  love:5.35
+  dead person:4.44
+  living people:4.44
+  death believed:4.44
+  encountered:4.44
+  bad person:4.44
+  city:4.44
+  names:4.44
+
+Topic 2:
+  chop wood carry water:8.27
+  enlightenment:8.24
+  remembered:8.15
+  meaningless pursuits:8.15
+  actions serving:8.05
+  serving:7.83
+  mystical:7.61
+  gingers:4.50
+  god time:4.43
+  royal:4.22
+
+Topic 3:
+  common people:8.19
+  royalty:8.05
+  question soul:7.08
+  created account post answer:5.69
+  importantly answered question:5.67
+  provide resources minds powers:5.63
+  soul:5.48
+  answer:4.95
+  truth soul:4.41
+  quote:4.41
+
+Topic 4:
+  common person:8.88
+  mind:8.88
+  life death:8.88
+  love:8.44
+  amount grand lie falsify:8.26
+  quote seena january:7.12
+  life:6.97
+  inside live:6.83
+  weird things life:6.83
+  human eyeball perceived errorless:6.83
+
+K: 5, Log-Likelihood: -11967.956, Alpha: 11.000, Beta: 1.100

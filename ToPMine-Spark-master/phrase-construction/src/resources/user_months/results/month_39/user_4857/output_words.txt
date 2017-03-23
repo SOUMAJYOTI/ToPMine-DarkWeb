@@ -1,0 +1,61 @@
+Topic 0:
+  agora:31.59
+  march:18.81
+  wallet:17.27
+  coins:15.67
+  agra:13.62
+  day:12.87
+  worry:11.52
+  vendors:11.49
+  money:10.86
+  access:10.86
+
+Topic 1:
+  withdrawal:9.03
+  doctors:6.75
+  symptoms:5.15
+  longer:4.38
+  time:4.24
+  depression:4.18
+  function:3.91
+  hard:3.90
+  body:3.78
+  negative:3.65
+
+Topic 2:
+  people:11.97
+  meds:9.15
+  anti:7.49
+  doctor:6.75
+  depressants:6.55
+  drugs:6.54
+  feel:5.86
+  problems:5.74
+  good:5.33
+  dont:5.32
+
+Topic 3:
+  psychedelics:10.64
+  ketamine:8.31
+  work:6.82
+  dont:5.61
+  substances:5.46
+  life:4.34
+  people:4.14
+  good:3.94
+  effects:3.86
+  time:3.82
+
+Topic 4:
+  people:8.10
+  friend:7.08
+  months:6.12
+  times:5.75
+  meds:5.58
+  quote:5.44
+  great:5.39
+  good:5.02
+  system:4.18
+  fucking:4.16
+
+K: 5, Log-Likelihood: -13664.001, Alpha: 11.000, Beta: 1.100

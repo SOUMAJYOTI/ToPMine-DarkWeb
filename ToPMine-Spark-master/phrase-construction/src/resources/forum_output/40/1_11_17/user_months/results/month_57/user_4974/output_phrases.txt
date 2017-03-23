@@ -1,0 +1,61 @@
+Topic 0:
+  time:3.99
+  solution:1.58
+  orders:1.42
+  fm:1.23
+  gurantee:1.22
+  pgp:1.22
+  ox:1.11
+  ai:1.11
+  sb:1.09
+  servers:1.08
+
+Topic 1:
+  time:2.29
+  orders:1.63
+  solution:1.47
+  servers:1.05
+  ic:1.04
+  market office:1.01
+  pgp key:1.01
+  gurantee:0.99
+  fm:0.98
+  zj:0.97
+
+Topic 2:
+  good:4.32
+  quote imflyin august pmis:2.32
+  agra thing connected tor:2.32
+  risk ips leaked market:2.32
+  risk ip leaked:2.32
+  experiments:2.13
+  guy:2.13
+  open:2.13
+  hit:2.13
+  safe:2.13
+
+Topic 3:
+  time:2.63
+  solution:1.51
+  orders:1.39
+  zx:1.06
+  public key block:1.05
+  pgp:1.03
+  servers:1.02
+  ic:1.00
+  ox:1.00
+  qdsm:1.00
+
+Topic 4:
+  time:4.22
+  orders:2.11
+  solution:1.99
+  zj:1.44
+  sb:1.40
+  qdsm:1.39
+  ai:1.39
+  zx:1.37
+  market office:1.35
+  public key block:1.35
+
+K: 5, Log-Likelihood: -8742.639, Alpha: 11.000, Beta: 1.100

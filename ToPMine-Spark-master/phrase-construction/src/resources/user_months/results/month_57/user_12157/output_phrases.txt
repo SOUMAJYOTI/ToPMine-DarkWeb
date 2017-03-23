@@ -1,0 +1,61 @@
+Topic 0:
+  thought:6.33
+  post:3.93
+  time:3.92
+  convenience:3.91
+  quote:3.45
+  september:3.44
+  mentioned:3.11
+  told:3.11
+  repeating:3.11
+  coinbase bitcoins:3.11
+
+Topic 1:
+  mixing:4.47
+  accounts:3.98
+  ive:3.98
+  account:3.98
+  closed:3.03
+  tumbler:2.74
+  multiply wallet hops:2.74
+  opposed:2.28
+  sending bitcoins:1.97
+  hell:1.97
+
+Topic 2:
+  cold wallet:7.44
+  wallet:5.93
+  seed:4.00
+  choose:4.00
+  drive:4.00
+  wallets:4.00
+  gaining:4.00
+  access:4.00
+  linking:4.00
+  left:4.00
+
+Topic 3:
+  hop:4.76
+  multiply wallet hops:3.47
+  coinbase account:2.82
+  online:2.79
+  local wallet:2.78
+  market:2.68
+  dont:2.65
+  mix dnm surrogate initials:2.32
+  service coinbase cold:2.28
+  withdrawl avoiding red flags:2.27
+
+Topic 4:
+  acct:6.00
+  hops wallets:5.97
+  partner:3.99
+  weapon:3.99
+  closing:3.99
+  good:3.16
+  shit:3.16
+  info:3.16
+  safely:1.97
+  selling:1.97
+
+K: 5, Log-Likelihood: -4027.283, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  glad:4.47
+  vlad:3.74
+  money:2.93
+  laundering:2.93
+  limitless:2.46
+  members:1.42
+  smileys:1.42
+  tha:1.42
+  arguing:1.42
+  breach:1.42
+
+Topic 1:
+  limetless:1.39
+  vladimir:1.05
+  sr forums:0.88
+  disappeared:0.87
+  remember:0.86
+  site:0.72
+  full:0.72
+  recommend:0.72
+  amazing:0.72
+  checking:0.72
+
+Topic 2:
+  uri:1.35
+  picked:1.35
+  admins:1.35
+  stay:1.35
+  toothbrushes:1.35
+  decades:1.35
+  involved:1.35
+  sell:1.35
+  pack:1.35
+  trade:1.35
+
+Topic 3:
+  backup:3.61
+  rar file:1.93
+  pmfull:1.93
+  forum:1.93
+  february:1.93
+  honeyray:1.93
+  stexo:1.93
+  quote:1.93
+  believed:1.93
+  incomplete:1.93
+
+Topic 4:
+  request:2.90
+  free:2.90
+  forums:2.90
+  foia:2.90
+  copy:2.90
+  quote mirage march:2.16
+  remember:1.96
+  disappeared:1.94
+  sr forums:1.94
+  online:1.89
+
+K: 5, Log-Likelihood: -1859.711, Alpha: 11.000, Beta: 1.100

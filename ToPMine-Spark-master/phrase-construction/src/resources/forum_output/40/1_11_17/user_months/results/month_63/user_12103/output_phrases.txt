@@ -1,0 +1,61 @@
+Topic 0:
+  successful start:1.19
+  decided:1.01
+  october:0.81
+  service:0.64
+  project:0.63
+  free:0.62
+  quote:0.55
+  safe:0.53
+  mail:0.53
+  mixed:0.52
+
+Topic 1:
+  btc:2.49
+  mixing:0.98
+  animal:0.98
+  reduced:0.97
+  amount:0.96
+  update:0.96
+  safe:0.56
+  mail:0.55
+  quote:0.52
+  october:0.44
+
+Topic 2:
+  decided:1.23
+  successful start:1.12
+  october:1.12
+  project:0.70
+  free:0.69
+  service:0.67
+  quote:0.62
+  safe:0.56
+  mail:0.54
+  participants:0.49
+
+Topic 3:
+  october:1.28
+  quote:0.95
+  spacechain:0.68
+  boy:0.67
+  decided:0.67
+  guise:0.67
+  pmafter:0.67
+  deal:0.66
+  successful start:0.66
+  free:0.65
+
+Topic 4:
+  decided:0.93
+  successful start:0.86
+  october:0.75
+  quote:0.65
+  service:0.56
+  project:0.55
+  free:0.54
+  safe:0.53
+  mail:0.53
+  coming:0.40
+
+K: 5, Log-Likelihood: -422.663, Alpha: 11.000, Beta: 1.100

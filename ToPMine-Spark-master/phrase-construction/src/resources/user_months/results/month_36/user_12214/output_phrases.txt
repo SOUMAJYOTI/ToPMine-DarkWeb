@@ -1,0 +1,61 @@
+Topic 0:
+  ett:0.38
+  ja:0.38
+  silkkitie:0.21
+  kun:0.21
+  jos:0.20
+  suomalaiset:0.20
+  ongelmista:0.19
+  evolutionin:0.19
+  toistaiseksi:0.19
+  palaamista:0.19
+
+Topic 1:
+  ett:0.34
+  ja:0.34
+  kun:0.21
+  silkkitie:0.21
+  jos:0.20
+  suomalaiset:0.20
+  todellakaan:0.20
+  tavaroitansa:0.20
+  suomalaisiin:0.20
+  soluttautua:0.20
+
+Topic 2:
+  ja:0.61
+  ett:0.61
+  kapteenille:0.26
+  huolimatta:0.26
+  pitk:0.26
+  perille:0.26
+  jatkamme:0.26
+  sen:0.26
+  kiitokset:0.26
+  myyj:0.26
+
+Topic 3:
+  isiv:0.26
+  korkeampaa:0.26
+  ammiks:0.26
+  brittivendoreita:0.26
+  helkkarin:0.26
+  kapteenihaistavittu:0.26
+  tee:0.26
+  quote:0.26
+  en:0.26
+  kuin:0.26
+
+Topic 4:
+  ja:0.29
+  ett:0.29
+  postita:0.22
+  suomesta:0.22
+  soluttautua:0.22
+  suomalaisiin:0.22
+  vaikkei:0.22
+  tavaroitansa:0.22
+  todellakaan:0.22
+  meihin:0.22
+
+K: 5, Log-Likelihood: -393.377, Alpha: 11.000, Beta: 1.100

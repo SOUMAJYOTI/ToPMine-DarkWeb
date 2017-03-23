@@ -1,0 +1,61 @@
+Topic 0:
+  vpn:1.36
+  wifi:0.96
+  internet:0.64
+  pay:0.64
+  talking:0.64
+  wife:0.48
+  quote:0.48
+  logs:0.41
+  dont:0.41
+  ips:0.41
+
+Topic 1:
+  vpn:1.52
+  wifi:1.01
+  internet:0.66
+  talking:0.59
+  pay:0.54
+  wife:0.50
+  dont:0.48
+  tracked:0.48
+  logs:0.48
+  shared:0.47
+
+Topic 2:
+  vpn:1.87
+  access:1.00
+  point:1.00
+  wifi:0.86
+  nuh:0.85
+  prepaid:0.85
+  public:0.85
+  security:0.85
+  eliminated:0.84
+  good:0.84
+
+Topic 3:
+  tor:3.66
+  quote:1.50
+  browse:1.25
+  isp:1.24
+  knowing:1.24
+  things:1.22
+  bridges:0.92
+  bridge:0.88
+  pay:0.77
+  secure:0.67
+
+Topic 4:
+  tor:2.58
+  quote:1.32
+  knowing:1.02
+  isp:1.02
+  things:1.01
+  browse:0.99
+  pay:0.81
+  bridge:0.71
+  vpn:0.70
+  bridges:0.67
+
+K: 5, Log-Likelihood: -512.313, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  train:0.83
+  people:0.41
+  offers:0.37
+  stream:0.37
+  tor:0.37
+  videos:0.37
+  darknet:0.35
+  surf:0.35
+  public:0.35
+  long:0.35
+
+Topic 1:
+  train:0.67
+  people:0.46
+  surf:0.35
+  connection:0.35
+  long:0.35
+  public:0.35
+  darknet:0.35
+  tor:0.34
+  offers:0.34
+  videos:0.34
+
+Topic 2:
+  people:0.59
+  train:0.59
+  long:0.32
+  public:0.32
+  connection:0.32
+  darknet:0.32
+  surf:0.32
+  videos:0.32
+  tor:0.32
+  stream:0.32
+
+Topic 3:
+  train:0.67
+  people:0.48
+  darknet:0.35
+  public:0.35
+  connection:0.35
+  long:0.35
+  surf:0.35
+  stream:0.34
+  videos:0.34
+  tor:0.34
+
+Topic 4:
+  train:0.62
+  people:0.56
+  surf:0.33
+  public:0.33
+  connection:0.33
+  darknet:0.33
+  long:0.33
+  offers:0.32
+  stream:0.32
+  videos:0.32
+
+K: 5, Log-Likelihood: -128.917, Alpha: 11.000, Beta: 1.100

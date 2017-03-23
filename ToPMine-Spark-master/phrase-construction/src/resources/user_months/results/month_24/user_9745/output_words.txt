@@ -1,0 +1,61 @@
+Topic 0:
+  bag:1.69
+  good:1.66
+  place:1.65
+  plastic:1.61
+  blotters:1.57
+  dessicator:1.46
+  paper:1.33
+  potency:1.32
+  lot:1.30
+  system:1.27
+
+Topic 1:
+  good:2.06
+  plastic:1.89
+  dessicator:1.68
+  blotters:1.55
+  bag:1.51
+  place:1.47
+  lot:1.24
+  paper:1.22
+  system:1.20
+  wax:1.16
+
+Topic 2:
+  good:2.19
+  place:1.87
+  blotters:1.62
+  bag:1.54
+  dessicator:1.53
+  plastic:1.49
+  wax:1.32
+  potency:1.20
+  system:1.18
+  years:1.12
+
+Topic 3:
+  good:2.13
+  bag:1.69
+  dessicator:1.48
+  blotters:1.44
+  plastic:1.44
+  place:1.37
+  potency:1.28
+  lot:1.26
+  years:1.23
+  system:1.22
+
+Topic 4:
+  good:1.96
+  dessicator:1.85
+  blotters:1.82
+  place:1.64
+  plastic:1.58
+  bag:1.57
+  years:1.33
+  paper:1.24
+  wax:1.20
+  system:1.12
+
+K: 5, Log-Likelihood: -1205.999, Alpha: 11.000, Beta: 1.100

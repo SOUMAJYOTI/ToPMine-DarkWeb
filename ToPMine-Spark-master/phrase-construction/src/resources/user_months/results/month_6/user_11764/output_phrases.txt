@@ -1,0 +1,61 @@
+Topic 0:
+  dude:2.42
+  batcomputer:2.42
+  sense:2.41
+  figure:2.41
+  shit:2.41
+  scammer:2.16
+  um:1.36
+  user:1.11
+  vendors fe:1.09
+  background:1.08
+
+Topic 1:
+  forum uri:4.65
+  vendor:4.20
+  post:3.65
+  fb:3.65
+  march:3.43
+  scam scam:3.22
+  feedback:2.68
+  admin mods:2.68
+  sr admin:2.68
+  accounts:2.68
+
+Topic 2:
+  stealth promoting honolulu express:4.64
+  shame dr clu:3.98
+  vending:3.70
+  moving:2.03
+  posts:1.80
+  elegant:1.79
+  thing noticed:1.79
+  topics:1.78
+  mod answer:1.78
+  long:1.77
+
+Topic 3:
+  sniffin:1.75
+  ashore:1.75
+  doctorglue:1.75
+  glue:1.75
+  dctrclu:1.75
+  called:1.75
+  becos:1.75
+  moar:1.75
+  fanbois:1.75
+  sr:1.39
+
+Topic 4:
+  dr clu:8.07
+  honoluluexpress:6.49
+  topic:5.19
+  list:4.53
+  scammer:4.11
+  people:3.81
+  silk road:3.64
+  vendors:3.49
+  shame dr clu:3.38
+  stealth promoting honolulu express:2.72
+
+K: 5, Log-Likelihood: -3386.396, Alpha: 11.000, Beta: 1.100

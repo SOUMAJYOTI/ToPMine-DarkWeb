@@ -1,0 +1,61 @@
+Topic 0:
+  buy tickets:4.30
+  lucy:3.48
+  stuff free:3.48
+  winners:3.48
+  stuff vendors:3.48
+  people:3.48
+  win:3.48
+  vendors donate:3.48
+  free:3.20
+  december:2.43
+
+Topic 1:
+  number:6.55
+  tickets:6.55
+  random number:6.55
+  source:5.59
+  bits:4.36
+  users:4.36
+  consistency:4.36
+  independent:4.36
+  unpredictability:4.36
+  drawing:4.36
+
+Topic 2:
+  maps:5.12
+  organizations:3.26
+  bank:3.26
+  smaller:3.26
+  otu:3.26
+  served:2.13
+  studies:2.13
+  plea:2.13
+  drug:2.13
+  swimming:2.13
+
+Topic 3:
+  member:4.33
+  felt:3.42
+  address risk:3.42
+  idea:3.42
+  obvious:3.42
+  usa:3.42
+  pc:3.42
+  tor:2.89
+  access erowid:2.88
+  erowid:2.25
+
+Topic 4:
+  appreciation:3.44
+  shrooms:3.44
+  happen donate:3.44
+  sign:3.44
+  tmg erowid:3.44
+  pack:3.44
+  fairness:2.14
+  mushbud:2.14
+  busy:2.14
+  contribution:2.14
+
+K: 5, Log-Likelihood: -3253.607, Alpha: 11.000, Beta: 1.100

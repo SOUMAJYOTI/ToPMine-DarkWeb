@@ -1,0 +1,61 @@
+Topic 0:
+  rare:4.14
+  good idea:4.14
+  personally:4.14
+  mistakes:4.10
+  delivered:3.27
+  toy:3.27
+  controller:3.27
+  remote:3.27
+  product:3.27
+  plane:3.27
+
+Topic 1:
+  general location:6.60
+  kind:6.19
+  lot:6.19
+  le:5.46
+  deaddrop:4.87
+  site:4.12
+  sr:4.12
+  distance:4.12
+  relative:4.12
+  country:4.12
+
+Topic 2:
+  time drop:6.22
+  shipping:6.22
+  post offices:4.40
+  random people:4.14
+  walk:4.14
+  time:4.14
+  comfortable:4.14
+  change:4.14
+  hide:4.14
+  po:4.14
+
+Topic 3:
+  coins:8.33
+  coin:8.33
+  services:8.30
+  blocks worth anc:6.22
+  services users:4.14
+  cryptocurrency:4.14
+  invisible web:4.14
+  anoncoin:4.14
+  mixer:4.14
+  operating:4.14
+
+Topic 4:
+  leave:8.33
+  good ideas:4.95
+  send:4.78
+  leaving:4.14
+  items:4.14
+  sign:4.14
+  easier:3.30
+  someplace:3.30
+  difficult:3.30
+  area:3.30
+
+K: 5, Log-Likelihood: -8579.182, Alpha: 11.000, Beta: 1.100

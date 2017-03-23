@@ -1,0 +1,61 @@
+Topic 0:
+  atm:0.29
+  buy btc:0.29
+  coinbase:0.29
+  closeby:0.29
+  ad:0.29
+  opening:0.29
+  worry:0.29
+  find:0.29
+  local bitcoin:0.29
+  year:0.29
+
+Topic 1:
+  worry:0.29
+  btc:0.29
+  eventually:0.29
+  luc:0.29
+  offering:0.29
+  anythign:0.28
+  price:0.28
+  lurking:0.28
+  local bitcoin:0.28
+  meetupsearch:0.28
+
+Topic 2:
+  local bitcoins:0.28
+  option:0.28
+  turn:0.28
+  area:0.28
+  complete:0.28
+  dollars dollars:0.28
+  place:0.28
+  bitcoins buy:0.28
+  result:0.28
+  selling:0.28
+
+Topic 3:
+  loss:0.30
+  ripoff:0.29
+  easy:0.29
+  transaction:0.29
+  face face:0.29
+  area:0.29
+  turn:0.29
+  place:0.29
+  fast:0.29
+  bitcoins buy:0.29
+
+Topic 4:
+  purchase:0.28
+  dollars dollars:0.28
+  local bitcoins:0.28
+  place:0.28
+  complete:0.28
+  option:0.28
+  result:0.28
+  bitcoins buy:0.28
+  fast:0.28
+  selling:0.28
+
+K: 5, Log-Likelihood: -260.633, Alpha: 11.000, Beta: 1.100

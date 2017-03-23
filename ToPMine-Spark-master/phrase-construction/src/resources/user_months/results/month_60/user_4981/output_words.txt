@@ -1,0 +1,61 @@
+Topic 0:
+  btc:2.31
+  phishing:1.32
+  bisbury:1.03
+  sammy:1.00
+  offering:0.99
+  category:0.99
+  type:0.98
+  trading:0.97
+  threads:0.97
+  peppered:0.94
+
+Topic 1:
+  links:1.33
+  phishing:1.25
+  site:1.04
+  fake:0.91
+  posting:0.86
+  real:0.75
+  btc:0.59
+  private:0.47
+  mimicking:0.47
+  lot:0.47
+
+Topic 2:
+  site:4.43
+  links:2.80
+  real:2.76
+  posting:2.64
+  fake:2.59
+  tug:1.15
+  asshole:1.15
+  info:1.15
+  impersonate:1.14
+  steal:1.14
+
+Topic 3:
+  btc:3.15
+  phishing:1.28
+  category:1.20
+  sammy:1.18
+  type:1.18
+  trading:1.17
+  offering:1.16
+  threads:1.15
+  bisbury:1.14
+  peppered:1.14
+
+Topic 4:
+  btc:3.82
+  phishing:1.51
+  peppered:1.43
+  threads:1.38
+  trading:1.36
+  type:1.34
+  offering:1.34
+  bisbury:1.34
+  sammy:1.32
+  category:1.32
+
+K: 5, Log-Likelihood: -680.080, Alpha: 11.000, Beta: 1.100

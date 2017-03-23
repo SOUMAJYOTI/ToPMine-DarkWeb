@@ -1,0 +1,61 @@
+Topic 0:
+  javascript:2.81
+  running:1.86
+  config:1.72
+  set:1.33
+  false:1.29
+  noscripts:1.25
+  disabled:1.25
+  js:1.23
+  type:1.22
+  isnt:1.20
+
+Topic 1:
+  java:2.17
+  script:1.32
+  completely:1.30
+  javascript:1.29
+  config:1.04
+  running:0.95
+  tails:0.85
+  set:0.79
+  dont:0.75
+  scripts:0.63
+
+Topic 2:
+  javascript:4.37
+  set:1.92
+  forget:1.78
+  js:1.73
+  enabled:1.70
+  fully:1.67
+  noscripts:1.66
+  isnt:1.65
+  type:1.65
+  disabled:1.61
+
+Topic 3:
+  set:1.76
+  javascript:1.59
+  enabled:1.39
+  april:1.21
+  quote:1.11
+  config:1.10
+  isnt:1.03
+  running:1.01
+  fully:1.00
+  type:1.00
+
+Topic 4:
+  scripts:1.64
+  enabled:1.21
+  set:1.19
+  blockchain:1.07
+  javascript:0.94
+  quote:0.94
+  april:0.91
+  electrum:0.89
+  fully:0.70
+  false:0.70
+
+K: 5, Log-Likelihood: -923.850, Alpha: 11.000, Beta: 1.100

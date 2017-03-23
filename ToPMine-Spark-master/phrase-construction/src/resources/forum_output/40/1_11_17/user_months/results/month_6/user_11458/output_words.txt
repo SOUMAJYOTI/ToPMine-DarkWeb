@@ -1,0 +1,61 @@
+Topic 0:
+  fraud:1.35
+  physical:1.22
+  guides:1.18
+  method:0.83
+  consultation:0.58
+  hand:0.58
+  direct:0.58
+  developed:0.58
+  cashout:0.58
+  btc:0.58
+
+Topic 1:
+  fraud:1.31
+  guides:1.17
+  physical:0.96
+  method:0.83
+  btc:0.62
+  direct:0.62
+  developed:0.60
+  consultation:0.59
+  hand:0.59
+  cashout:0.57
+
+Topic 2:
+  physical:1.37
+  guides:1.26
+  fraud:1.09
+  method:0.80
+  developed:0.65
+  btc:0.63
+  cashout:0.63
+  consultation:0.61
+  direct:0.59
+  hand:0.59
+
+Topic 3:
+  fraud:1.94
+  guides:1.24
+  physical:1.14
+  method:0.74
+  hand:0.64
+  cashout:0.63
+  consultation:0.62
+  direct:0.62
+  btc:0.60
+  developed:0.60
+
+Topic 4:
+  physical:1.32
+  fraud:1.31
+  guides:1.15
+  method:0.80
+  hand:0.60
+  consultation:0.59
+  cashout:0.59
+  direct:0.58
+  developed:0.57
+  btc:0.57
+
+K: 5, Log-Likelihood: -903.364, Alpha: 11.000, Beta: 1.100

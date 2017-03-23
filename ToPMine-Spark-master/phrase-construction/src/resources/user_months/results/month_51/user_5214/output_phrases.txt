@@ -1,0 +1,61 @@
+Topic 0:
+  vpn:7.68
+  logos:3.60
+  download:3.60
+  tor:3.60
+  application:3.60
+  anonymous:3.60
+  deal:3.60
+  software:3.60
+  hereusing:3.60
+  cracking:3.60
+
+Topic 1:
+  shared coins:7.32
+  normal:7.32
+  wait hrs:7.32
+  coins:4.36
+  press:3.63
+  choice:3.63
+  markets:3.63
+  choose:3.63
+  long waiting:3.63
+  coin:3.63
+
+Topic 2:
+  tails encryption:4.14
+  pc:4.12
+  proxys:3.49
+  fact:3.49
+  provider:3.49
+  concerned:3.49
+  finding:3.48
+  hide:3.48
+  vpns:3.48
+  service:3.48
+
+Topic 3:
+  blockchain:4.78
+  send:4.50
+  working:3.62
+  light:3.62
+  sprinkle:3.62
+  support:3.62
+  hours:3.62
+  contact:3.62
+  couple:3.62
+  fan:3.62
+
+Topic 4:
+  order:8.86
+  time:4.26
+  bet:3.62
+  chill:3.62
+  countries:3.62
+  start:3.62
+  large:3.62
+  track:3.62
+  friend:3.62
+  case:3.62
+
+K: 5, Log-Likelihood: -2998.711, Alpha: 11.000, Beta: 1.100

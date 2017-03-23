@@ -1,0 +1,61 @@
+Topic 0:
+  host:1.06
+  quality:0.74
+  high:0.63
+  actual:0.63
+  expect:0.63
+  free:0.63
+  kidding:0.63
+  virginia:0.62
+  sigaint:0.62
+  angle:0.62
+
+Topic 1:
+  ecatel:2.75
+  servers:2.75
+  hosts:2.75
+  dedicated servers:2.75
+  secure:1.27
+  dedicated:1.27
+  hosts hosts:1.27
+  spotty:1.27
+  websites:1.27
+  avoid:1.27
+
+Topic 2:
+  provider:2.73
+  hosting:2.73
+  familiar:1.25
+  tza:1.25
+  recommended:1.25
+  configuration:1.25
+  choice:1.25
+  hostie:1.25
+  real:1.25
+  cxwr:1.25
+
+Topic 3:
+  customer:0.96
+  project:0.96
+  isps:0.96
+  relay:0.96
+  list:0.96
+  consult:0.96
+  running:0.96
+  published:0.96
+  select:0.96
+  hypothetically:0.95
+
+Topic 4:
+  mention:2.81
+  operate:1.32
+  services:1.32
+  wrong:1.32
+  leas:1.32
+  operating:1.32
+  clear:1.32
+  concern:1.32
+  xanax:1.32
+  fashion:1.32
+
+K: 5, Log-Likelihood: -661.475, Alpha: 11.000, Beta: 1.100

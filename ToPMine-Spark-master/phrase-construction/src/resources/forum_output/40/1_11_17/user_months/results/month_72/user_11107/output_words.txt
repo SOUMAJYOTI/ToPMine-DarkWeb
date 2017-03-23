@@ -1,0 +1,61 @@
+Topic 0:
+  forums:0.62
+  sell:0.47
+  deep:0.34
+  sites:0.34
+  scammers:0.34
+  time:0.34
+  web:0.33
+  full:0.33
+  comments:0.26
+  shit:0.26
+
+Topic 1:
+  sell:0.61
+  deep:0.41
+  scammers:0.41
+  full:0.41
+  sites:0.41
+  web:0.41
+  time:0.41
+  forums:0.36
+  crads:0.20
+  dubious:0.20
+
+Topic 2:
+  sell:0.68
+  web:0.43
+  time:0.42
+  full:0.42
+  sites:0.42
+  scammers:0.42
+  deep:0.42
+  forums:0.33
+  years:0.21
+  eventually:0.21
+
+Topic 3:
+  sell:0.63
+  full:0.43
+  deep:0.43
+  time:0.43
+  scammers:0.43
+  sites:0.42
+  web:0.42
+  forums:0.33
+  noob:0.21
+  people:0.21
+
+Topic 4:
+  sell:0.61
+  sites:0.41
+  time:0.41
+  web:0.41
+  scammers:0.41
+  full:0.41
+  deep:0.40
+  forums:0.36
+  cos:0.20
+  job:0.20
+
+K: 5, Log-Likelihood: -172.950, Alpha: 11.000, Beta: 1.100

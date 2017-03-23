@@ -1,0 +1,61 @@
+Topic 0:
+  image:0.60
+  matrix:0.59
+  hub:0.40
+  images:0.40
+  link:0.40
+  tails:0.40
+  immer:0.20
+  pictures:0.20
+  find:0.20
+  stoned:0.20
+
+Topic 1:
+  image:0.62
+  matrix:0.60
+  tails:0.41
+  images:0.40
+  link:0.40
+  hub:0.39
+  feature:0.20
+  sort:0.20
+  permission:0.20
+  topic:0.20
+
+Topic 2:
+  matrix:0.60
+  image:0.59
+  hub:0.41
+  link:0.40
+  images:0.39
+  tails:0.39
+  people:0.20
+  wondering:0.20
+  upload:0.20
+  safely:0.20
+
+Topic 3:
+  image:0.59
+  matrix:0.58
+  hub:0.41
+  tails:0.39
+  link:0.39
+  images:0.39
+  websites:0.21
+  mayb:0.21
+  upload:0.21
+  thread:0.21
+
+Topic 4:
+  matrix:0.63
+  image:0.61
+  images:0.41
+  link:0.41
+  tails:0.41
+  hub:0.39
+  hide:0.20
+  directly:0.20
+  data:0.20
+  week:0.20
+
+K: 5, Log-Likelihood: -275.034, Alpha: 11.000, Beta: 1.100

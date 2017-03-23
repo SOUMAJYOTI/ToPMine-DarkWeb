@@ -1,0 +1,61 @@
+Topic 0:
+  lurks:4.51
+  development:3.83
+  projects:3.83
+  audited:3.32
+  linux:2.95
+  luks bit:2.95
+  unified:2.95
+  wondering:2.95
+  alternatives veracrypt:2.95
+  cut:2.95
+
+Topic 1:
+  perfect file container easily:2.54
+  honest convinced wrong tc:1.80
+  august amtruecrypt:1.77
+  luks difficult impossible:1.76
+  explanation:1.69
+  developers:1.66
+  code auditors havent issues:1.41
+  pulled pin major issue:1.40
+  quote:1.39
+  nan:1.06
+
+Topic 2:
+  audit:9.70
+  truecrypt:6.62
+  software:3.86
+  april:3.86
+  announcement:3.86
+  organization:3.86
+  ii:3.86
+  evidence:3.86
+  backdoors:3.86
+  foundation:3.86
+
+Topic 3:
+  encrypt files:5.79
+  random string:5.79
+  randomly:5.79
+  file:4.56
+  files:4.56
+  named:3.85
+  passphrase:3.85
+  seconds:3.85
+  cpt:3.85
+  type:3.85
+
+Topic 4:
+  years:7.63
+  time:6.20
+  good:5.68
+  food:5.66
+  table:3.75
+  long:3.75
+  work:3.75
+  society:3.75
+  spent:3.75
+  choose:3.75
+
+K: 5, Log-Likelihood: -6592.737, Alpha: 11.000, Beta: 1.100

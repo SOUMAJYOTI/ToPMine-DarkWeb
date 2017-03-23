@@ -1,0 +1,61 @@
+Topic 0:
+  proamfetamineregardsproamfetamineplease:0.08
+  jack:0.08
+  goods:0.08
+  link:0.08
+  advertise:0.08
+  marketplace:0.08
+  links:0.08
+  captain:0.08
+  verification:0.08
+  thread:0.08
+
+Topic 1:
+  link:0.08
+  jack:0.08
+  advertise:0.08
+  marketplace:0.08
+  captain:0.08
+  proamfetamineregardsproamfetamineplease:0.08
+  goods:0.08
+  verification:0.08
+  links:0.08
+  thread:0.08
+
+Topic 2:
+  proamfetamineregardsproamfetamineplease:0.08
+  thread:0.08
+  goods:0.08
+  captain:0.08
+  marketplace:0.08
+  link:0.08
+  links:0.08
+  verification:0.08
+  jack:0.08
+  advertise:0.08
+
+Topic 3:
+  captain:0.08
+  marketplace:0.08
+  verification:0.08
+  links:0.08
+  link:0.08
+  thread:0.08
+  advertise:0.08
+  proamfetamineregardsproamfetamineplease:0.08
+  goods:0.08
+  jack:0.08
+
+Topic 4:
+  thread:0.08
+  links:0.08
+  verification:0.08
+  advertise:0.08
+  jack:0.08
+  goods:0.08
+  proamfetamineregardsproamfetamineplease:0.08
+  marketplace:0.08
+  captain:0.08
+  link:0.08
+
+K: 5, Log-Likelihood: -9.761, Alpha: 11.000, Beta: 1.100

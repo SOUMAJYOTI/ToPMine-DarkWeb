@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:1.66
+  wallet:1.22
+  folder:1.10
+  disk:1.03
+  tails:0.84
+  secret:0.83
+  terminal:0.59
+  app:0.59
+  create:0.59
+  type:0.40
+
+Topic 1:
+  folder:1.19
+  electrum:1.13
+  wallet:1.04
+  disk:0.90
+  tails:0.78
+  secret:0.70
+  terminal:0.56
+  app:0.54
+  create:0.53
+  command:0.38
+
+Topic 2:
+  electrum:2.63
+  wallet:1.33
+  folder:1.25
+  tails:1.07
+  disk:0.98
+  secret:0.82
+  create:0.65
+  app:0.63
+  terminal:0.60
+  save:0.42
+
+Topic 3:
+  electrum:2.03
+  folder:1.45
+  tails:1.21
+  wallet:1.14
+  disk:1.04
+  secret:0.79
+  terminal:0.64
+  app:0.63
+  create:0.63
+  version:0.43
+
+Topic 4:
+  electrum:1.55
+  wallet:1.28
+  tails:1.10
+  disk:1.05
+  folder:1.01
+  secret:0.87
+  app:0.60
+  terminal:0.60
+  create:0.60
+  type:0.40
+
+K: 5, Log-Likelihood: -559.088, Alpha: 11.000, Beta: 1.100

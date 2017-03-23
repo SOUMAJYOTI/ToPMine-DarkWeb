@@ -1,0 +1,61 @@
+Topic 0:
+  scripts:4.55
+  login:2.89
+  tails:2.40
+  tor:2.40
+  check:2.40
+  browser:2.25
+  agora:2.25
+  preferences:2.25
+  registrations:2.25
+  set:2.25
+
+Topic 1:
+  order:13.18
+  addguy:7.50
+  middle earth:4.87
+  java script:4.52
+  btc:3.71
+  checking:3.71
+  dnm:3.71
+  communicative:3.71
+  smooth:3.71
+  issues:3.71
+
+Topic 2:
+  guy:4.49
+  asia:3.62
+  quicker:3.62
+  ago:3.62
+  ordered:3.62
+  couple:3.62
+  smoother:3.62
+  marked:3.62
+  js:3.61
+  forward:3.61
+
+Topic 3:
+  asia stal:7.50
+  ug:7.50
+  night:7.50
+  offf:3.71
+  gamesome:3.71
+  coming:3.71
+  fingertps:3.71
+  pasued:3.71
+  time:3.71
+  series:3.71
+
+Topic 4:
+  post:3.55
+  good:3.55
+  javascript:3.55
+  market:3.55
+  sceptical:3.55
+  bad:3.55
+  provide:3.55
+  wondering:3.55
+  bit:3.55
+  javascript disabled:3.46
+
+K: 5, Log-Likelihood: -2767.050, Alpha: 11.000, Beta: 1.100

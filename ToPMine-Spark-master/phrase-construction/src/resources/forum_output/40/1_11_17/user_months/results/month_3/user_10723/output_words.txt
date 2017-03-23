@@ -1,0 +1,61 @@
+Topic 0:
+  market:3.90
+  silkroad:2.48
+  pirate:2.46
+  long:1.67
+  statement:1.65
+  january:1.65
+  original:1.64
+  powerful:1.59
+  site:1.58
+  pmhow:1.26
+
+Topic 1:
+  bitcoins:8.44
+  link:3.98
+  tumbler:3.88
+  image:3.37
+  wallets:2.88
+  send:2.68
+  work:2.68
+  service:2.62
+  market:2.53
+  pirate:2.33
+
+Topic 2:
+  pirate:3.16
+  market:2.83
+  january:2.08
+  site:2.00
+  post:1.47
+  powerful:1.35
+  original:1.29
+  long:1.28
+  statement:1.27
+  quote:1.26
+
+Topic 3:
+  market:6.47
+  multi:4.93
+  bitcoins:4.15
+  offer:3.93
+  currency:3.93
+  vendor:3.72
+  fast:3.65
+  function:2.93
+  mode:2.93
+  pirate:2.72
+
+Topic 4:
+  failed:4.28
+  quote:3.67
+  allowed:3.58
+  february:2.78
+  hope:2.78
+  dont:2.44
+  sign:2.26
+  reg:2.23
+  sharing:2.17
+  change:2.13
+
+K: 5, Log-Likelihood: -2611.259, Alpha: 11.000, Beta: 1.100

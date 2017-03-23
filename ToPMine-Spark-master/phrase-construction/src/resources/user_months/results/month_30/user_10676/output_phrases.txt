@@ -1,0 +1,61 @@
+Topic 0:
+  open source:1.22
+  pgp:0.91
+  key bits:0.84
+  symantec:0.80
+  versions pgp:0.77
+  version:0.77
+  lot:0.72
+  software supported:0.72
+  october:0.71
+  keys:0.71
+
+Topic 1:
+  required:1.20
+  lips:1.20
+  fair:1.20
+  usbs:1.20
+  biometric:1.20
+  finger:1.20
+  thereheads:1.20
+  severed:1.20
+  notable:1.20
+  runi:1.20
+
+Topic 2:
+  archivewhat:0.97
+  passwordwhen:0.97
+  extension:0.97
+  pmalso:0.97
+  making:0.97
+  jetico:0.97
+  moving:0.97
+  mounting:0.97
+  bcarchive:0.97
+  archive:0.97
+
+Topic 3:
+  comment:3.67
+  pip win:2.42
+  post:2.42
+  tails:2.42
+  dont:2.42
+  people:2.42
+  thread:2.42
+  read:1.70
+  change:1.17
+  novelty:1.17
+
+Topic 4:
+  open source:6.18
+  version bcpg:3.03
+  version:2.89
+  versions pgp:2.88
+  symantec:2.85
+  key bits:2.81
+  pgp:2.73
+  company:1.83
+  american:1.82
+  source:1.82
+
+K: 5, Log-Likelihood: -2198.027, Alpha: 11.000, Beta: 1.100

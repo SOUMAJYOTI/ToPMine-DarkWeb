@@ -1,0 +1,61 @@
+Topic 0:
+  couple times:2.88
+  dislike:2.73
+  express:1.89
+  dislike krebs:1.89
+  hominem:1.89
+  liar:1.89
+  advocating:1.89
+  freely:1.89
+  criticism:1.89
+  flowing:1.89
+
+Topic 1:
+  dna:12.51
+  secret service:7.66
+  computers:6.48
+  investigators:4.98
+  encryption:4.73
+  computing power:3.76
+  hard drive:3.60
+  word lists:3.58
+  crack:3.51
+  secret services:3.49
+
+Topic 2:
+  cards:2.72
+  stuff:2.72
+  fast:2.64
+  june:2.01
+  shortcuts making:1.92
+  involve drugs weapons:1.92
+  cc:1.89
+  againhave:1.78
+  thesilent:1.78
+  pmare:1.78
+
+Topic 3:
+  secret service:4.26
+  encryption:1.63
+  investigators:1.61
+  computers:1.60
+  suspects:1.48
+  dna:1.10
+  secret services:1.07
+  crack:0.99
+  years ago:0.95
+  advice:0.93
+
+Topic 4:
+  suspects:1.93
+  encryption:1.92
+  investigators:1.69
+  secret service:1.63
+  dna:1.60
+  computers:1.59
+  word lists:1.04
+  crack:1.01
+  computing power:1.00
+  hard drive:0.99
+
+K: 5, Log-Likelihood: -8272.493, Alpha: 11.000, Beta: 1.100

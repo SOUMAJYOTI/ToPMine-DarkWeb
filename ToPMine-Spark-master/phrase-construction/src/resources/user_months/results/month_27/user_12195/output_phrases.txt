@@ -1,0 +1,61 @@
+Topic 0:
+  silkkitie:0.41
+  posts:0.16
+  backup:0.16
+  sr:0.16
+  forbidden:0.16
+  happen:0.08
+  targeted:0.08
+  caused:0.08
+  restored:0.08
+  security:0.08
+
+Topic 1:
+  silkkitie:0.41
+  forbidden:0.16
+  sr:0.16
+  backup:0.16
+  posts:0.16
+  data:0.08
+  violent:0.08
+  work:0.08
+  continues:0.08
+  disappeared:0.08
+
+Topic 2:
+  silkkitie:0.41
+  forbidden:0.16
+  sr:0.16
+  backup:0.16
+  posts:0.16
+  child:0.08
+  address:0.08
+  silkkitiehdg:0.08
+  usual:0.08
+  packaging:0.08
+
+Topic 3:
+  silkkitie:0.40
+  posts:0.16
+  backup:0.16
+  sr:0.16
+  forbidden:0.16
+  web:0.08
+  servers:0.08
+  retained:0.08
+  hosts:0.08
+  longer:0.08
+
+Topic 4:
+  silkkitie:0.41
+  forbidden:0.16
+  sr:0.16
+  posts:0.16
+  backup:0.16
+  onionunoffical:0.08
+  skt:0.08
+  marketplace:0.08
+  usual:0.08
+  onion:0.08
+
+K: 5, Log-Likelihood: -99.089, Alpha: 11.000, Beta: 1.100

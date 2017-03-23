@@ -1,0 +1,41 @@
+Topic 0:
+  eu:0.00
+  cards:0.00
+  identity:0.00
+  term:0.00
+  long:0.00
+  cooperation:0.00
+
+Topic 1:
+  eu:0.00
+  cards:0.00
+  identity:0.00
+  term:0.00
+  long:0.00
+  cooperation:0.00
+
+Topic 2:
+  eu:0.00
+  cards:0.00
+  identity:0.00
+  term:0.00
+  long:0.00
+  cooperation:0.00
+
+Topic 3:
+  eu:0.00
+  cards:0.00
+  identity:0.00
+  term:0.00
+  long:0.00
+  cooperation:0.00
+
+Topic 4:
+  eu:0.00
+  cards:0.00
+  identity:0.00
+  term:0.00
+  long:0.00
+  cooperation:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

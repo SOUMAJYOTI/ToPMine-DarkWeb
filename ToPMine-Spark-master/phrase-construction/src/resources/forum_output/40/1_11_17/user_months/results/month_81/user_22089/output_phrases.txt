@@ -1,0 +1,61 @@
+Topic 0:
+  key:1.36
+  vendor:1.25
+  pgp:0.91
+  vendors:0.84
+  search:0.76
+  good:0.74
+  message:0.67
+  update:0.57
+  safe:0.35
+  technical:0.29
+
+Topic 1:
+  click:34.02
+  tails:27.97
+  wallet:25.96
+  guide:19.59
+  buy bitcoins:13.79
+  transfer bitcoins:11.88
+  dnm:11.86
+  create account:9.86
+  keys:9.86
+  computer:9.85
+
+Topic 2:
+  sha:10.02
+  generate key pair bits:8.52
+  keys bits strength:7.50
+  key size bits:5.99
+  safe:5.31
+  stronger pip public key:4.19
+  bit strength higher attention:4.19
+  ditching gpa gpg free:4.19
+  extraordinarily high number:4.19
+  vendors bit keys size:4.18
+
+Topic 3:
+  key:2.23
+  pgp:1.05
+  message:1.00
+  vendor:0.90
+  good:0.74
+  search:0.59
+  vendors:0.54
+  update:0.48
+  safe:0.38
+  technical:0.27
+
+Topic 4:
+  carry:3.05
+  head:3.05
+  vendors top:3.05
+  asap:3.05
+  upgrade:2.82
+  quote:2.46
+  potential:1.94
+  pmvery:1.94
+  customers safety:1.94
+  jeapordy:1.94
+
+K: 5, Log-Likelihood: -17441.787, Alpha: 11.000, Beta: 1.100

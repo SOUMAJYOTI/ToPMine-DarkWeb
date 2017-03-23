@@ -1,0 +1,61 @@
+Topic 0:
+  sheet:8.69
+  contacted:4.93
+  market:4.34
+  blotters:3.94
+  stopped:3.87
+  ve:3.35
+  order:3.12
+  drop:3.03
+  vendor:3.02
+  sheets:2.84
+
+Topic 1:
+  order:5.46
+  market:3.36
+  stopped:2.71
+  love:2.50
+  alphabay:2.39
+  days:2.30
+  avengers:2.26
+  quote:2.10
+  november:1.80
+  abraham:1.78
+
+Topic 2:
+  sheet:10.85
+  vendor:8.56
+  blotters:7.63
+  abraxas:6.92
+  ordered:5.10
+  tabs:5.02
+  sheets:4.80
+  drop:4.59
+  happened:4.18
+  ve:4.15
+
+Topic 3:
+  email:9.72
+  day:5.22
+  order:4.17
+  november:4.12
+  posts:3.86
+  placing:3.82
+  contemplating:3.70
+  foolish:3.66
+  dude:3.44
+  hope:3.34
+
+Topic 4:
+  order:5.83
+  avengers:4.36
+  love:4.09
+  november:3.51
+  quote:2.93
+  sucks:2.50
+  alphabay:2.22
+  wanting:2.21
+  thread:2.21
+  hope:2.19
+
+K: 5, Log-Likelihood: -3240.370, Alpha: 11.000, Beta: 1.100

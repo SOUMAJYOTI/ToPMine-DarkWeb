@@ -1,0 +1,61 @@
+Topic 0:
+  times:0.63
+  pains:0.62
+  market:0.62
+  bit:0.62
+  irritating:0.62
+  growing:0.62
+  trees faith:0.61
+  week:0.59
+  xanex:0.49
+  uri:0.49
+
+Topic 1:
+  growing:0.63
+  trees faith:0.63
+  irritating:0.63
+  bit:0.62
+  pains:0.62
+  market:0.62
+  times:0.61
+  week:0.60
+  happy:0.53
+  xanex:0.52
+
+Topic 2:
+  bucks doesnt hurt:0.76
+  site:0.52
+  ll:0.51
+  faith:0.51
+  people:0.51
+  relax:0.51
+  couple:0.51
+  year:0.51
+  attack:0.51
+  wait:0.50
+
+Topic 3:
+  bucks doesnt hurt:1.34
+  wait:0.72
+  relax:0.71
+  people:0.71
+  attack:0.71
+  site:0.71
+  ll:0.71
+  faith:0.70
+  quote:0.64
+  mtgox:0.56
+
+Topic 4:
+  agora:0.69
+  yeah:0.66
+  theyve:0.66
+  silkroad:0.66
+  missing:0.66
+  keepin:0.66
+  localbitcoins:0.66
+  loose:0.66
+  stuff:0.66
+  weeks:0.66
+
+K: 5, Log-Likelihood: -571.477, Alpha: 11.000, Beta: 1.100

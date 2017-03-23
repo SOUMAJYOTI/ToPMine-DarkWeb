@@ -1,0 +1,61 @@
+Topic 0:
+  pills:0.24
+  profile:0.16
+  thread:0.16
+  online:0.16
+  pandora:0.16
+  markets:0.16
+  bitcoin:0.16
+  samples:0.08
+  bump:0.08
+  hurry:0.08
+
+Topic 1:
+  pills:0.24
+  thread:0.16
+  pandora:0.16
+  online:0.16
+  markets:0.16
+  bitcoin:0.16
+  profile:0.16
+  listings:0.08
+  blue:0.08
+  order:0.08
+
+Topic 2:
+  pills:0.24
+  bitcoin:0.16
+  online:0.16
+  profile:0.16
+  markets:0.16
+  pandora:0.16
+  thread:0.16
+  left:0.08
+  bump:0.08
+  hurry:0.08
+
+Topic 3:
+  pills:0.24
+  pandora:0.16
+  markets:0.16
+  bitcoin:0.16
+  online:0.16
+  profile:0.16
+  thread:0.16
+  check:0.08
+  android:0.08
+  adroit:0.08
+
+Topic 4:
+  pills:0.24
+  profile:0.16
+  markets:0.16
+  bitcoin:0.16
+  online:0.16
+  thread:0.16
+  pandora:0.16
+  remember:0.08
+  official:0.08
+  sample:0.08
+
+K: 5, Log-Likelihood: -76.853, Alpha: 11.000, Beta: 1.100

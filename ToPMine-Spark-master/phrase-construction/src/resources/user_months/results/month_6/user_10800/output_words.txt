@@ -1,0 +1,61 @@
+Topic 0:
+  alpha:0.59
+  stealth:0.41
+  coinjoin:0.40
+  support:0.40
+  tor:0.39
+  features:0.20
+  reaches:0.20
+  integrationthis:0.20
+  amount:0.20
+  beta:0.20
+
+Topic 1:
+  alpha:0.60
+  coinjoin:0.40
+  tor:0.40
+  stealth:0.40
+  support:0.40
+  steps:0.20
+  routes:0.20
+  whonix:0.20
+  isolating:0.20
+  fine:0.20
+
+Topic 2:
+  alpha:0.61
+  tor:0.41
+  coinjoin:0.40
+  stealth:0.40
+  support:0.39
+  addresses:0.20
+  forward:0.20
+  isolating:0.20
+  huge:0.20
+  fine:0.20
+
+Topic 3:
+  alpha:0.60
+  support:0.41
+  tor:0.40
+  coinjoin:0.40
+  stealth:0.40
+  investors:0.20
+  basically:0.20
+  atm:0.20
+  extension:0.20
+  rushed:0.20
+
+Topic 4:
+  alpha:0.60
+  support:0.41
+  stealth:0.40
+  coinjoin:0.40
+  tor:0.39
+  bitcoin:0.20
+  btc:0.20
+  web:0.20
+  software:0.20
+  integrationthis:0.20
+
+K: 5, Log-Likelihood: -167.443, Alpha: 11.000, Beta: 1.100

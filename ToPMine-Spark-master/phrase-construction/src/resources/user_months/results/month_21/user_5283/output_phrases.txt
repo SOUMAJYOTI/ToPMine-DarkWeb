@@ -1,0 +1,61 @@
+Topic 0:
+  natural:9.70
+  dose:7.77
+  lead death:7.77
+  careful:6.10
+  side effects:5.86
+  black:3.87
+  ago:3.87
+  substances effects:3.87
+  undesirable:3.87
+  physical:3.87
+
+Topic 1:
+  die perfect health:7.77
+  mdma mda:6.13
+  mda:5.82
+  prevention:3.87
+  mescaline safe:3.87
+  forum:3.87
+  dom:3.87
+  supplementing:3.87
+  question enjoy:3.87
+  worry worry:3.87
+
+Topic 2:
+  based:11.62
+  system:7.75
+  time:7.75
+  order:7.73
+  philosophical:7.73
+  order protect property:7.73
+  tacit consent:7.73
+  government:5.79
+  effects:5.65
+  posses:3.86
+
+Topic 3:
+  topic:5.68
+  peace:5.67
+  good time:5.62
+  personal philosophy long time:5.62
+  life:5.47
+  quote:5.27
+  philosophy:3.84
+  life army:3.84
+  powers:3.84
+  suffering:3.84
+
+Topic 4:
+  military:7.75
+  smoking:7.74
+  drug:5.84
+  body:4.34
+  patriotic:3.86
+  caused war:3.86
+  service people:3.86
+  mortar:3.86
+  diplomacy:3.86
+  dimebags:3.86
+
+K: 5, Log-Likelihood: -12939.742, Alpha: 11.000, Beta: 1.100

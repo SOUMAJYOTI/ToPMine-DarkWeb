@@ -1,0 +1,61 @@
+Topic 0:
+  cold storage:17.17
+  hidden partition:9.40
+  wallet keys:7.05
+  random files:7.05
+  drive:7.05
+  online:5.79
+  create:5.50
+  prison:4.70
+  dll find:4.70
+  named:4.70
+
+Topic 1:
+  key:8.43
+  public key:7.72
+  public private key:6.67
+  blockchain:5.01
+  vendor buyer:4.90
+  pair:4.67
+  signs:4.67
+  problem:4.67
+  order finalized:4.51
+  electrum:4.31
+
+Topic 2:
+  multi sig:9.39
+  wallets:7.76
+  vendor:7.70
+  truecrypt container:7.68
+  armory electrum:7.03
+  time:6.59
+  bitcoin:6.15
+  signed transaction:6.04
+  private keys:5.99
+  multiply:5.82
+
+Topic 3:
+  seller:23.33
+  buyer:20.85
+  cost trade:11.66
+  address seller:11.66
+  people:8.60
+  address:8.38
+  bitcoins:8.27
+  puts bitcoin:7.76
+  confidence:7.76
+  small:7.76
+
+Topic 4:
+  fc cd ab fbab:23.51
+  bd aac fbc cb:23.51
+  fa fad edbfb fa:23.51
+  cab cef aa dac:23.51
+  fe bf:23.51
+  ef cb ccffef ec:23.51
+  fb bfa eb db:18.80
+  bbbce bf dc:18.80
+  db db aed bbed:14.10
+  db dbf fab af:11.75
+
+K: 5, Log-Likelihood: -20726.216, Alpha: 11.000, Beta: 1.100

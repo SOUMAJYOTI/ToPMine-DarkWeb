@@ -1,0 +1,61 @@
+Topic 0:
+  lelantos:3.14
+  lelantoss:2.01
+  securely:1.88
+  sites:1.88
+  connect:1.88
+  bcnwbv:1.87
+  onion:1.87
+  certificate:1.86
+  warning:1.34
+  secure:0.89
+
+Topic 1:
+  pgp:1.44
+  key:1.33
+  format:0.70
+  abandoned:0.70
+  kq:0.48
+  bcpg:0.48
+  block:0.48
+  fe:0.48
+  unsafe:0.48
+  public:0.48
+
+Topic 2:
+  key:3.37
+  pgp:1.72
+  format:0.90
+  abandoned:0.83
+  expires:0.58
+  public:0.58
+  years:0.57
+  fe:0.57
+  kq:0.57
+  unsafe:0.56
+
+Topic 3:
+  key:1.04
+  pgp:0.74
+  warning:0.55
+  wise:0.53
+  stay:0.53
+  abandoned:0.51
+  format:0.50
+  bcpg:0.38
+  fe:0.38
+  years:0.38
+
+Topic 4:
+  key:3.23
+  pgp:2.06
+  abandoned:0.93
+  format:0.87
+  ur:0.57
+  block:0.56
+  unsafe:0.56
+  bcpg:0.55
+  years:0.55
+  kq:0.55
+
+K: 5, Log-Likelihood: -2225.582, Alpha: 11.000, Beta: 1.100

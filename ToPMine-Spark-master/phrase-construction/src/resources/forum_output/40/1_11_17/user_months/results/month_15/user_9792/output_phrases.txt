@@ -1,0 +1,61 @@
+Topic 0:
+  culture fracturing centuries postmodern:1.20
+  link rich connected governed:1.20
+  side post postmodern:1.19
+  shocking juxtapositions pastiche coming:1.19
+  stand brink bridled power:1.19
+  earth natural forces hand:1.19
+  guess:1.17
+  time edge era hand:1.17
+  pmi:1.17
+  infuse control:1.17
+
+Topic 1:
+  experiences:1.55
+  ve:0.78
+  connect earth:0.70
+  native:0.69
+  great experiences:0.69
+  experiments perception walk:0.69
+  linked:0.69
+  land:0.69
+  plants:0.69
+  coming:0.69
+
+Topic 2:
+  mushrooms oak woodlands northern:0.63
+  california forward reading:0.63
+  walk ocean:0.63
+  experiments perception:0.63
+  ve:0.51
+  elses:0.46
+  ive:0.46
+  ayahuasca small family group:0.45
+  deep amazon:0.44
+  experiences psychedelics years san:0.44
+
+Topic 3:
+  experiences:0.73
+  ve:0.59
+  ive:0.44
+  elses:0.44
+  great supporting community:0.42
+  ayahuasca small family group:0.42
+  connections:0.38
+  compounds:0.38
+  amhi:0.38
+  standing:0.38
+
+Topic 4:
+  experiences:1.17
+  ve:0.82
+  experience:0.58
+  weird:0.58
+  community:0.57
+  funny:0.57
+  round:0.57
+  forums:0.57
+  earth:0.57
+  love:0.57
+
+K: 5, Log-Likelihood: -943.042, Alpha: 11.000, Beta: 1.100

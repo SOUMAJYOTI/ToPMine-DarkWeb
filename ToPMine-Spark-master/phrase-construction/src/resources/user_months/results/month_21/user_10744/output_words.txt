@@ -1,0 +1,61 @@
+Topic 0:
+  credit:0.65
+  card:0.64
+  buying:0.58
+  safe:0.51
+  cash:0.44
+  dont:0.43
+  localbitcoins:0.43
+  btc:0.33
+  bank:0.33
+  coins:0.27
+
+Topic 1:
+  cash:1.00
+  btc:0.60
+  bank:0.59
+  card:0.59
+  credit:0.58
+  buying:0.39
+  safe:0.35
+  localbitcoins:0.29
+  dont:0.29
+  safer:0.27
+
+Topic 2:
+  card:0.64
+  credit:0.63
+  cash:0.61
+  buying:0.54
+  safe:0.46
+  bank:0.41
+  btc:0.41
+  dont:0.37
+  localbitcoins:0.37
+  coins:0.27
+
+Topic 3:
+  buying:2.07
+  safe:1.28
+  coins:1.03
+  localbitcoins:0.58
+  dont:0.58
+  credit:0.52
+  card:0.51
+  kilos:0.38
+  amounts:0.38
+  side:0.38
+
+Topic 4:
+  cash:0.78
+  card:0.63
+  credit:0.62
+  bank:0.53
+  btc:0.52
+  buying:0.42
+  safe:0.39
+  dont:0.32
+  localbitcoins:0.32
+  trail:0.25
+
+K: 5, Log-Likelihood: -319.175, Alpha: 11.000, Beta: 1.100

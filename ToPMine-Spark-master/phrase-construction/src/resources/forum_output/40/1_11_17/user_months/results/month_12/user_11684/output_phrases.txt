@@ -1,0 +1,61 @@
+Topic 0:
+  days:2.06
+  ive:1.97
+  buy:1.94
+  sr:1.89
+  market:0.96
+  ordered:0.87
+  field:0.87
+  easiest:0.87
+  fun:0.87
+  crow:0.87
+
+Topic 1:
+  listings:1.80
+  quote:1.34
+  yoshi june pmchoose:1.33
+  evolution sr thriving stick:1.29
+  bitcoins credited account trasfered:1.28
+  ashamed:1.22
+  mirror:1.22
+  amquote:0.82
+  lol:0.82
+  june:0.82
+
+Topic 2:
+  btc:2.93
+  btc address:2.93
+  market:1.69
+  transfer:1.36
+  account:1.36
+  exchange:1.36
+  lose:1.36
+  open:1.36
+  tons:1.36
+  market sr:1.36
+
+Topic 3:
+  sr:1.16
+  market:0.95
+  bitcoins credited account trasfered:0.94
+  evolution sr thriving stick:0.92
+  yoshi june pmchoose:0.91
+  quote:0.90
+  listings:0.87
+  evolution:0.78
+  mirror:0.73
+  ashamed:0.73
+
+Topic 4:
+  sr:1.69
+  buy:1.06
+  ive:1.03
+  days:0.94
+  market:0.86
+  pandora:0.69
+  evolution:0.67
+  years:0.56
+  question:0.56
+  infact:0.56
+
+K: 5, Log-Likelihood: -791.682, Alpha: 11.000, Beta: 1.100

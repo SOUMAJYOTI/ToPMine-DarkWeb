@@ -1,0 +1,61 @@
+Topic 0:
+  miksi:5.16
+  edes:5.16
+  mit kansainv:4.23
+  kiinnostaisi:4.18
+  tarkoittaa:4.13
+  route:2.56
+  nkaltaista:2.56
+  attention:2.56
+  worth:2.56
+  nime:2.56
+
+Topic 1:
+  sh:7.25
+  pakko:5.18
+  myyj:5.18
+  maksutavan:5.18
+  hyv:5.18
+  maksut:4.33
+  lle:4.33
+  ytt:4.05
+  vault:3.70
+  ja:3.19
+
+Topic 2:
+  ja:6.64
+  road:5.60
+  marketthe:5.15
+  market:5.15
+  kpl:5.12
+  vaikka:5.11
+  hyi:5.08
+  ym:4.21
+  kunnioituksella:4.21
+  poliisit:4.21
+
+Topic 3:
+  tai:6.16
+  barn:5.10
+  sage:4.89
+  mukaan:4.27
+  voisi:4.21
+  susi:4.19
+  pelkk:4.19
+  juttuvinkkikilpailun:2.51
+  kossu:2.51
+  kilpailun:2.51
+
+Topic 4:
+  aina:5.17
+  se:5.17
+  asia:4.35
+  tulee:4.01
+  kyll:3.85
+  ss:3.82
+  mik:2.67
+  ja mit:2.57
+  isomman:2.57
+  kasvaa:2.57
+
+K: 5, Log-Likelihood: -7010.494, Alpha: 11.000, Beta: 1.100

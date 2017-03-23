@@ -1,0 +1,61 @@
+Topic 0:
+  read:0.38
+  time:0.38
+  btc:0.35
+  transaction:0.35
+  wallet:0.20
+  competent:0.19
+  guides:0.19
+  wait:0.19
+  dude:0.19
+  insane:0.19
+
+Topic 1:
+  read:0.38
+  time:0.38
+  transaction:0.36
+  btc:0.35
+  wallet:0.20
+  dude:0.19
+  darknet:0.19
+  bit:0.19
+  competent:0.19
+  absorb:0.19
+
+Topic 2:
+  time:0.37
+  read:0.37
+  transaction:0.36
+  btc:0.36
+  wallet:0.20
+  advice:0.18
+  bit:0.18
+  security:0.18
+  darknet:0.18
+  bitin:0.18
+
+Topic 3:
+  time:0.39
+  read:0.38
+  transaction:0.35
+  btc:0.35
+  wallet:0.20
+  eventually:0.19
+  bitin:0.19
+  questions:0.19
+  general:0.19
+  guides:0.19
+
+Topic 4:
+  btc:0.41
+  transaction:0.41
+  time:0.32
+  read:0.32
+  wallet:0.20
+  zzszzcwwaxfb:0.20
+  send:0.20
+  kind:0.20
+  wtf:0.20
+  fnu:0.20
+
+K: 5, Log-Likelihood: -147.976, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  onion:4.33
+  facebook implemented times changing:3.85
+  good:3.48
+  nasty:3.36
+  boneskoopa:3.29
+  facebook:2.84
+  day:2.78
+  making:2.71
+  june:2.32
+  amazing isnt crypts human:2.20
+
+Topic 1:
+  surveillance:10.70
+  system:6.40
+  abroad:6.39
+  years:6.37
+  french intelligence agency:6.37
+  mass surveillance:6.27
+  syria:4.21
+  committee:4.20
+  internet:4.20
+  espionage:4.20
+
+Topic 2:
+  data:5.25
+  law:3.88
+  bill:2.99
+  canada:2.73
+  parliament:2.67
+  globe:1.91
+  article:1.84
+  interesting:1.42
+  absolutely:1.34
+  yesterday:1.24
+
+Topic 3:
+  zaphod:5.69
+  people:5.41
+  pgp:4.35
+  afraid stopping declaring collection:4.31
+  illegal push lower radar:4.30
+  data collection uncontrollable cryptography:4.29
+  human lifetime province:4.16
+  encroachment daily affairs:4.13
+  june amquote walter pmim:4.13
+  hide:3.50
+
+Topic 4:
+  info:7.11
+  nsa:5.32
+  surprised:4.20
+  revealing:3.52
+  send:3.52
+  havent:3.52
+  public:3.52
+  data making:3.52
+  data interest:3.52
+  ownership:3.52
+
+K: 5, Log-Likelihood: -6641.078, Alpha: 11.000, Beta: 1.100

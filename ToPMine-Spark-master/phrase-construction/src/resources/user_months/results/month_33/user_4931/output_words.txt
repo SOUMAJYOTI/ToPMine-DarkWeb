@@ -1,0 +1,61 @@
+Topic 0:
+  windows:17.95
+  sillywabbit:17.72
+  key:15.14
+  partition:11.95
+  diskcryptor:9.95
+  time:9.70
+  spitfire:9.18
+  pgp:7.00
+  ce:5.99
+  ssb:5.99
+
+Topic 1:
+  people:32.47
+  key:22.63
+  real:15.60
+  subkey:11.95
+  life:10.34
+  bad:9.61
+  drugs:9.17
+  public:8.21
+  main:7.95
+  created:7.95
+
+Topic 2:
+  people:35.50
+  lsd:19.22
+  acid:18.21
+  allot:13.67
+  bad:13.64
+  good:12.61
+  mind:8.66
+  happy:8.52
+  yeah:8.42
+  time:7.98
+
+Topic 3:
+  safe:19.77
+  tor:18.84
+  mail:15.88
+  email:14.21
+  security:13.96
+  access:12.49
+  google:10.86
+  people:9.48
+  messages:9.46
+  account:8.85
+
+Topic 4:
+  encryption:35.49
+  password:20.05
+  encrypt:19.83
+  encrypted:17.73
+  messages:16.58
+  computers:11.96
+  party:10.91
+  bitmessage:10.45
+  crypto:9.96
+  code:9.93
+
+K: 5, Log-Likelihood: -29930.671, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  dmt:3.91
+  smoking:3.91
+  key:3.91
+  handy:3.91
+  interested:2.26
+  guys:2.23
+  gods:2.23
+  fiction:2.18
+  read:1.98
+  version:1.91
+
+Topic 1:
+  book:16.48
+  reading:12.39
+  physical:9.82
+  platform:9.46
+  rate:9.34
+  people:8.79
+  good:7.31
+  copy:6.72
+  post:5.96
+  sickens:5.91
+
+Topic 2:
+  books:18.44
+  read:8.73
+  vote:7.54
+  genre:5.22
+  guess:3.78
+  rotate:3.78
+  informed:3.78
+  hazard:3.78
+  stick:3.77
+  list:3.77
+
+Topic 3:
+  book:20.09
+  reading:11.19
+  week:7.43
+  people:5.76
+  sense:5.22
+  pace:4.61
+  club:4.37
+  idea:4.28
+  quote:3.84
+  digital:3.78
+
+Topic 4:
+  reading:8.85
+  idea:7.89
+  book:5.06
+  kindle:4.88
+  good:4.66
+  mind:3.60
+  great:3.27
+  rate:3.21
+  club:3.15
+  books:2.95
+
+K: 5, Log-Likelihood: -4776.188, Alpha: 11.000, Beta: 1.100

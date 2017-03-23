@@ -1,0 +1,46 @@
+Topic 0:
+  life:0.20
+  portion:0.20
+  click:0.20
+  access:0.20
+  highlight:0.20
+  bottom:0.20
+  agora:0.20
+
+Topic 1:
+  access:0.20
+  bottom:0.20
+  portion:0.20
+  click:0.20
+  agora:0.20
+  life:0.20
+  highlight:0.20
+
+Topic 2:
+  life:0.20
+  agora:0.20
+  highlight:0.20
+  click:0.20
+  bottom:0.20
+  access:0.20
+  portion:0.20
+
+Topic 3:
+  highlight:0.20
+  portion:0.20
+  click:0.20
+  agora:0.20
+  bottom:0.20
+  access:0.20
+  life:0.20
+
+Topic 4:
+  bottom:0.20
+  agora:0.20
+  access:0.20
+  highlight:0.20
+  click:0.20
+  portion:0.20
+  life:0.20
+
+K: 5, Log-Likelihood: -13.621, Alpha: 11.000, Beta: 1.100

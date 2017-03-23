@@ -1,0 +1,61 @@
+Topic 0:
+  sending:1.91
+  btc:1.91
+  dont:1.09
+  opinion:0.85
+  caught:0.85
+  vary:0.85
+  law:0.85
+  safe:0.85
+  buyer:0.85
+  mixing:0.85
+
+Topic 1:
+  contact:0.84
+  november:0.83
+  work:0.52
+  tho:0.51
+  advert:0.51
+  phone:0.51
+  vendors:0.51
+  boneskoopa:0.51
+  bunch:0.51
+  deal:0.51
+
+Topic 2:
+  november:0.83
+  contact:0.82
+  username:0.52
+  quote:0.52
+  ami:0.52
+  luc:0.52
+  directly:0.52
+  forum:0.52
+  searching:0.52
+  feedback:0.52
+
+Topic 3:
+  buy:0.44
+  limits:0.36
+  personal:0.36
+  coinbase:0.35
+  dont:0.30
+  markets:0.28
+  account:0.28
+  person:0.26
+  contact:0.25
+  november:0.25
+
+Topic 4:
+  buy:2.62
+  coinbase:1.64
+  personal:1.63
+  limits:1.63
+  scan:0.70
+  depositing:0.70
+  ive:0.70
+  researched:0.70
+  pieces:0.70
+  convenience:0.70
+
+K: 5, Log-Likelihood: -801.482, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  send:0.34
+  si:0.34
+  invite:0.27
+  week:0.25
+  deem:0.25
+  free:0.25
+  deserving:0.25
+  invites:0.25
+  personal:0.25
+  request:0.25
+
+Topic 1:
+  send:0.34
+  si:0.34
+  invite:0.27
+  extra:0.25
+  rc:0.25
+  forum:0.25
+  scene:0.25
+  greatly:0.25
+  heard:0.25
+  gamesome:0.25
+
+Topic 2:
+  si:0.34
+  send:0.34
+  invite:0.27
+  check:0.25
+  mind:0.25
+  gamesome:0.25
+  heard:0.25
+  btc:0.25
+  sell:0.25
+  pm:0.25
+
+Topic 3:
+  send:0.34
+  si:0.34
+  invite:0.27
+  message:0.25
+  deserving:0.25
+  request:0.25
+  free:0.25
+  invites:0.25
+  personal:0.25
+  deem:0.25
+
+Topic 4:
+  si:0.34
+  send:0.34
+  invite:0.27
+  sell:0.25
+  btc:0.25
+  thinking:0.25
+  codes:0.25
+  extra:0.25
+  pm:0.25
+  forum:0.25
+
+K: 5, Log-Likelihood: -104.195, Alpha: 11.000, Beta: 1.100

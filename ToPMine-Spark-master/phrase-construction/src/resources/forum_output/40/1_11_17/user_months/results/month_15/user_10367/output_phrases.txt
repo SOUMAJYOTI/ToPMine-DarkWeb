@@ -1,0 +1,61 @@
+Topic 0:
+  skype:16.04
+  ms:11.16
+  application:8.60
+  silent circle:8.20
+  phones:6.92
+  zfone:5.46
+  swiss:5.46
+  bay:5.46
+  calls:5.46
+  prior:5.46
+
+Topic 1:
+  call:9.30
+  encrypt voice video:9.30
+  voice chat:7.76
+  teamviewer doesnt support:5.98
+  pgp:5.92
+  securely:4.63
+  developer:4.63
+  doubt:4.63
+  keys:4.63
+  longer:4.63
+
+Topic 2:
+  real:5.45
+  latency:5.00
+  location:4.63
+  factor:4.63
+  located:4.63
+  clear anonymity:4.63
+  messages:4.63
+  thing:4.63
+  animal:4.63
+  sofar:4.63
+
+Topic 3:
+  site:7.87
+  hidden service:5.58
+  humble server:5.51
+  owockeznan:5.42
+  signup:5.23
+  log:5.16
+  thatd:4.53
+  zrtp supports:4.53
+  transports:4.53
+  humble pretty:4.52
+
+Topic 4:
+  people link join inand:6.06
+  account kind tinychat sense:6.06
+  room ant risgreat:6.06
+  voice video:6.06
+  situation:6.06
+  text turn camera voice:6.06
+  quote ant:4.61
+  ami:4.61
+  service ive awhile friendsthey:4.59
+  subject open source:4.59
+
+K: 5, Log-Likelihood: -7106.002, Alpha: 11.000, Beta: 1.100

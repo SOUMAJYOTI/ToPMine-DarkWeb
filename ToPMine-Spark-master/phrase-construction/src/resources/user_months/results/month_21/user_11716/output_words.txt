@@ -1,0 +1,61 @@
+Topic 0:
+  respect:0.38
+  asked:0.21
+  mouth:0.21
+  keeping:0.21
+  irrelevant:0.21
+  preventing:0.21
+  shop:0.21
+  obvious:0.21
+  tremendously:0.21
+  intentionally:0.21
+
+Topic 1:
+  respect:0.42
+  dont:0.21
+  thread:0.21
+  evo:0.21
+  hilarity:0.21
+  assured:0.21
+  attention:0.21
+  acknowledge:0.21
+  personally:0.21
+  day:0.21
+
+Topic 2:
+  respect:0.39
+  entices:0.20
+  asked:0.20
+  shop:0.20
+  intentionally:0.20
+  hacker:0.20
+  leaders:0.20
+  preventing:0.20
+  pretty:0.20
+  dick:0.20
+
+Topic 3:
+  respect:0.39
+  mouth:0.20
+  tremendously:0.20
+  obvious:0.20
+  preventing:0.20
+  dick:0.20
+  keeping:0.20
+  pretty:0.20
+  intentionally:0.20
+  leaders:0.20
+
+Topic 4:
+  respect:0.41
+  learned:0.20
+  deleting:0.20
+  read:0.20
+  dont:0.20
+  single:0.20
+  personally:0.20
+  havent:0.20
+  subforum:0.20
+  thread:0.20
+
+K: 5, Log-Likelihood: -150.895, Alpha: 11.000, Beta: 1.100

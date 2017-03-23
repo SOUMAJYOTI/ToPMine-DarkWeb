@@ -1,0 +1,61 @@
+Topic 0:
+  site:1.13
+  dont:0.85
+  vendors:0.78
+  scam:0.60
+  deepdotweb:0.60
+  find:0.43
+  thread:0.42
+  link:0.42
+  unknown:0.42
+  drugmarket:0.40
+
+Topic 1:
+  site:1.02
+  dont:0.78
+  vendors:0.74
+  deepdotweb:0.60
+  scam:0.58
+  drugmarket:0.48
+  find:0.47
+  link:0.43
+  thread:0.42
+  unknown:0.40
+
+Topic 2:
+  dont:1.01
+  site:0.93
+  vendors:0.78
+  scam:0.62
+  deepdotweb:0.62
+  market:0.49
+  reddit:0.49
+  link:0.44
+  thread:0.44
+  drugmarket:0.40
+
+Topic 3:
+  dont:1.35
+  site:0.94
+  vendors:0.90
+  scam:0.60
+  deepdotweb:0.57
+  wiki:0.50
+  forums:0.49
+  hidden:0.49
+  reddit:0.40
+  unknown:0.39
+
+Topic 4:
+  dont:1.00
+  site:0.99
+  vendors:0.81
+  deepdotweb:0.61
+  scam:0.59
+  forums:0.45
+  wiki:0.45
+  hidden:0.45
+  unknown:0.42
+  find:0.38
+
+K: 5, Log-Likelihood: -459.505, Alpha: 11.000, Beta: 1.100

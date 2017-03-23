@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:6.20
+  key:5.57
+  tj:4.13
+  transaction:4.11
+  buyers:4.10
+  registration:4.08
+  create:4.04
+  mufti:4.01
+  side:4.01
+  fp:3.98
+
+Topic 1:
+  multi sig:3.85
+  onionforums:3.17
+  cofejesta:3.16
+  usxavgyri:3.11
+  uri:3.11
+  indyslug:3.11
+  onionhavana:3.11
+  forum:3.08
+  uri havana:3.07
+  havana:2.75
+
+Topic 2:
+  web:9.86
+  similarities:7.76
+  alpaca cr:5.82
+  havana:4.84
+  duck:4.68
+  explanation:3.87
+  talking:3.87
+  havana market:3.87
+  beta vend:3.87
+  multisig market:3.87
+
+Topic 3:
+  market:6.36
+  absolem:4.97
+  application:4.67
+  absalom:4.67
+  url absolem:4.66
+  accusations:4.66
+  left:3.86
+  screens:3.82
+  login:3.82
+  heard:3.82
+
+Topic 4:
+  dont:5.79
+  business:5.17
+  marijuana:4.68
+  markets:4.68
+  risk:4.68
+  foolish:4.68
+  scam:4.68
+  decision:4.68
+  posts:3.85
+  people:3.84
+
+K: 5, Log-Likelihood: -12980.767, Alpha: 11.000, Beta: 1.100

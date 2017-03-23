@@ -1,0 +1,61 @@
+Topic 0:
+  exit:1.19
+  encrypted:1.07
+  good:0.87
+  tor:0.84
+  node:0.83
+  mac:0.82
+  ssl:0.82
+  proxy:0.81
+  server:0.58
+  surveillance:0.58
+
+Topic 1:
+  exit:1.35
+  link:0.94
+  encrypted:0.92
+  stuff:0.91
+  node:0.82
+  good:0.82
+  nodes:0.66
+  ssl:0.50
+  mac:0.50
+  proxy:0.50
+
+Topic 2:
+  exit:1.50
+  encrypted:1.01
+  stuff:1.00
+  link:1.00
+  node:0.78
+  good:0.76
+  nodes:0.68
+  time:0.49
+  advise:0.48
+  arrival:0.48
+
+Topic 3:
+  exit:1.47
+  stuff:1.05
+  link:0.99
+  encrypted:0.97
+  good:0.77
+  node:0.77
+  nodes:0.65
+  ssl:0.48
+  catches:0.48
+  fucked:0.48
+
+Topic 4:
+  exit:1.49
+  encrypted:1.04
+  node:0.80
+  good:0.78
+  proxy:0.77
+  ssl:0.75
+  tor:0.75
+  mac:0.75
+  link:0.59
+  stuff:0.56
+
+K: 5, Log-Likelihood: -548.309, Alpha: 11.000, Beta: 1.100

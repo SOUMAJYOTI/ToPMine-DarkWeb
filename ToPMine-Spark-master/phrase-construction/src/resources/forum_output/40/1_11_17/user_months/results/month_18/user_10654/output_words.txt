@@ -1,0 +1,61 @@
+Topic 0:
+  site:3.46
+  online:2.73
+  server:2.55
+  sr:2.39
+  fbi:1.96
+  ips:1.91
+  backups:1.91
+  configured:1.66
+  login:1.55
+  confirm:1.54
+
+Topic 1:
+  account:11.55
+  pandora:7.33
+  buyer:5.48
+  vendor:5.19
+  log:4.14
+  forum:2.89
+  email:2.33
+  public:1.98
+  block:1.97
+  key:1.97
+
+Topic 2:
+  road:18.62
+  silk:18.17
+  address:13.60
+  captcha:12.70
+  ip:9.41
+  tor:8.77
+  login:6.91
+  server:6.85
+  fbi:6.84
+  computer:6.29
+
+Topic 3:
+  ip:10.08
+  tor:8.03
+  address:7.25
+  fbi:5.98
+  packets:5.95
+  packet:5.86
+  header:5.12
+  agent:4.94
+  source:4.00
+  server:3.52
+
+Topic 4:
+  september:7.42
+  sr:5.86
+  hijacked:5.52
+  quote:5.32
+  jack:4.79
+  account:4.78
+  people:4.63
+  vendor:4.05
+  assuming:3.83
+  hoff:3.79
+
+K: 5, Log-Likelihood: -6500.161, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  mozilla:0.52
+  judge:0.51
+  hack:0.34
+  vendor:0.28
+  uncertain:0.28
+  wrote:0.23
+  security risk:0.23
+  vulnerability:0.23
+  prosecutors:0.23
+  disclose vulnerability:0.23
+
+Topic 1:
+  judge:0.52
+  mozilla:0.52
+  hack:0.35
+  uncertain:0.28
+  vendor:0.28
+  brian:0.23
+  vulnerability:0.23
+  wrote:0.23
+  fbi track:0.23
+  security risk:0.23
+
+Topic 2:
+  mozilla:0.53
+  judge:0.52
+  hack:0.35
+  uncertain:0.28
+  vendor:0.27
+  disclose vulnerability:0.23
+  security risk:0.23
+  fbi track:0.23
+  vulnerability:0.23
+  wrote:0.23
+
+Topic 3:
+  judge:0.51
+  mozilla:0.50
+  hack:0.34
+  vendor:0.28
+  uncertain:0.28
+  prosecutors:0.23
+  disclose vulnerability:0.23
+  fbi track:0.23
+  wrote:0.23
+  brian:0.23
+
+Topic 4:
+  mozilla:0.52
+  judge:0.52
+  hack:0.35
+  uncertain:0.28
+  vendor:0.27
+  prosecutors:0.23
+  brian:0.23
+  fbi track:0.23
+  disclose vulnerability:0.23
+  vulnerability:0.23
+
+K: 5, Log-Likelihood: -544.221, Alpha: 11.000, Beta: 1.100

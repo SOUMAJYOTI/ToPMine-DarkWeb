@@ -1,0 +1,61 @@
+Topic 0:
+  proxy:0.58
+  username password:0.49
+  onions:0.49
+  address:0.48
+  onion:0.47
+  accessing:0.42
+  fake:0.29
+  active:0.29
+  good:0.28
+  passwords:0.28
+
+Topic 1:
+  username password:0.69
+  proxy:0.50
+  accessing:0.47
+  onion:0.34
+  address:0.34
+  onions:0.34
+  site:0.32
+  passwords:0.28
+  good:0.28
+  fake:0.26
+
+Topic 2:
+  proxy:0.62
+  address:0.57
+  onions:0.56
+  onion:0.56
+  username password:0.42
+  accessing:0.39
+  fake:0.29
+  active:0.29
+  passwords:0.27
+  good:0.27
+
+Topic 3:
+  username password:0.71
+  proxy:0.47
+  accessing:0.42
+  onion:0.35
+  onions:0.35
+  address:0.35
+  site:0.32
+  good:0.29
+  passwords:0.29
+  pgp:0.27
+
+Topic 4:
+  proxy:0.61
+  accessing:0.49
+  onion:0.47
+  address:0.47
+  onions:0.46
+  username password:0.46
+  active:0.29
+  fake:0.28
+  passwords:0.27
+  good:0.27
+
+K: 5, Log-Likelihood: -330.013, Alpha: 11.000, Beta: 1.100

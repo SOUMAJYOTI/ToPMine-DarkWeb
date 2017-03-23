@@ -1,0 +1,26 @@
+Topic 0:
+  tor:0.00
+  exchanger:0.00
+  anonymous:0.00
+
+Topic 1:
+  tor:0.00
+  exchanger:0.00
+  anonymous:0.00
+
+Topic 2:
+  tor:0.00
+  exchanger:0.00
+  anonymous:0.00
+
+Topic 3:
+  tor:0.00
+  exchanger:0.00
+  anonymous:0.00
+
+Topic 4:
+  tor:0.00
+  exchanger:0.00
+  anonymous:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

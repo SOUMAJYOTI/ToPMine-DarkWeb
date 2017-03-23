@@ -1,0 +1,61 @@
+Topic 0:
+  blockchain:3.23
+  send:3.22
+  donation:2.94
+  hd:2.94
+  dust:2.94
+  love:2.94
+  deposit:2.94
+  charitable:2.94
+  changed:2.94
+  contact:2.94
+
+Topic 1:
+  pc:2.34
+  tails encryption:2.31
+  hali:1.87
+  crack:1.87
+  access:1.87
+  good:1.87
+  point:1.87
+  mix:1.87
+  immagine:1.87
+  changing:1.87
+
+Topic 2:
+  vpn:5.27
+  wrong:2.95
+  understand:2.95
+  wrong hoping:2.95
+  deal:2.95
+  movies:2.95
+  logos:2.95
+  isp:2.95
+  unclean:2.95
+  open:2.95
+
+Topic 3:
+  fine:2.79
+  finding:2.79
+  service:2.79
+  vpns:2.79
+  proxys:2.79
+  concerned:2.79
+  hide:2.79
+  fact:2.79
+  provider:2.78
+  machine:2.40
+
+Topic 4:
+  normal:6.02
+  wait hrs:6.02
+  shared coins:6.02
+  coins:3.03
+  walletreading:2.95
+  fast:2.95
+  button:2.95
+  superiorsomeone:2.95
+  waiting:2.95
+  coin:2.95
+
+K: 5, Log-Likelihood: -1638.703, Alpha: 11.000, Beta: 1.100

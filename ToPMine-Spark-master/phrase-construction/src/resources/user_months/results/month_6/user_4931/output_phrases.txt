@@ -1,0 +1,61 @@
+Topic 0:
+  send:5.14
+  donation:3.58
+  magnets:2.59
+  deaths:2.55
+  glass:2.54
+  cool:2.52
+  terrible:2.50
+  imagine:2.46
+  erowid:2.46
+  molecules:2.44
+
+Topic 1:
+  site:7.44
+  place:3.86
+  love:3.86
+  play:3.86
+  happen:3.86
+  minds:3.86
+  thankful love:3.86
+  admins:3.86
+  gpg:3.86
+  encyption:3.86
+
+Topic 2:
+  market:4.79
+  fees:3.87
+  bonds:3.87
+  business:3.87
+  agora:3.87
+  coming:3.87
+  hell:3.87
+  longer:3.87
+  start:3.87
+  godawful:3.87
+
+Topic 3:
+  site great future:4.15
+  start donation order:4.14
+  jc:3.51
+  spirit:3.44
+  rhettbutler:3.43
+  quote:3.42
+  pmgoing:3.41
+  april:3.40
+  agree:2.89
+  pardon:2.88
+
+Topic 4:
+  send:2.71
+  donate:2.17
+  offered:2.08
+  bump:2.08
+  wanted:2.08
+  thread:2.08
+  love site:2.08
+  community:2.08
+  org:2.07
+  coins:2.07
+
+K: 5, Log-Likelihood: -1854.088, Alpha: 11.000, Beta: 1.100

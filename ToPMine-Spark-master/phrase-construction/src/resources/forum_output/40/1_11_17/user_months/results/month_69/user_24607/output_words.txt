@@ -1,0 +1,61 @@
+Topic 0:
+  details:4.68
+  stolen:3.55
+  brah:1.60
+  nilly:1.60
+  stupid:1.60
+  place:1.60
+  cc:1.60
+  willy:1.60
+  rent:1.60
+  companies:1.60
+
+Topic 1:
+  phone:4.83
+  tor:4.12
+  access:2.39
+  libertyx:2.37
+  smart:1.68
+  coinify:1.63
+  gon:1.45
+  limited:1.34
+  connectionslol:1.34
+  functionality:1.34
+
+Topic 2:
+  verification:4.91
+  card:3.93
+  number:3.77
+  credit:3.75
+  bitcoins:2.30
+  goin:2.30
+  scan:2.29
+  website:2.28
+  phone:2.28
+  websites:2.25
+
+Topic 3:
+  tang:2.64
+  wife:2.06
+  ken:2.01
+  february:1.79
+  verification:1.49
+  hurt:1.48
+  quote:1.37
+  number:1.08
+  credit:1.08
+  persons:1.04
+
+Topic 4:
+  phone:3.04
+  quote:1.44
+  february:1.40
+  access:1.24
+  fucker:1.03
+  dont:1.01
+  buy:0.98
+  wise:0.87
+  beard:0.81
+  verification:0.79
+
+K: 5, Log-Likelihood: -1224.199, Alpha: 11.000, Beta: 1.100

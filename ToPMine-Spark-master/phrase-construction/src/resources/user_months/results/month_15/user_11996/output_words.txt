@@ -1,0 +1,61 @@
+Topic 0:
+  agora:0.81
+  time:0.69
+  point:0.54
+  coins:0.53
+  annoyance:0.53
+  hours:0.53
+  dog:0.53
+  major:0.53
+  moved:0.53
+  good:0.52
+
+Topic 1:
+  market:1.20
+  article:1.11
+  bit:0.68
+  time:0.45
+  occurred:0.30
+  fiascoes:0.30
+  system:0.30
+  doesnt:0.30
+  read:0.30
+  creators:0.30
+
+Topic 2:
+  agora:0.99
+  time:0.71
+  timing:0.61
+  ready:0.61
+  annoyance:0.61
+  wallet:0.61
+  tired:0.60
+  moved:0.60
+  dog:0.60
+  major:0.60
+
+Topic 3:
+  agora:0.70
+  time:0.67
+  good:0.47
+  major:0.47
+  tired:0.47
+  wallet:0.47
+  hours:0.47
+  coins:0.46
+  moved:0.46
+  point:0.46
+
+Topic 4:
+  article:0.97
+  market:0.88
+  bit:0.61
+  time:0.48
+  agora:0.28
+  source:0.27
+  sr:0.27
+  hard:0.27
+  grow:0.27
+  popular:0.27
+
+K: 5, Log-Likelihood: -360.063, Alpha: 11.000, Beta: 1.100

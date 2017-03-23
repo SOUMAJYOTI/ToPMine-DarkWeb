@@ -1,0 +1,61 @@
+Topic 0:
+  weed:1.41
+  seal:0.88
+  bag:0.75
+  clothes:0.68
+  gloves:0.67
+  car:0.58
+  year:0.53
+  iron:0.53
+  sealed:0.49
+  great:0.48
+
+Topic 1:
+  seal:1.02
+  weed:0.93
+  iron:0.91
+  car:0.81
+  places:0.65
+  year:0.64
+  heat:0.60
+  great:0.57
+  sealed:0.57
+  clothes:0.55
+
+Topic 2:
+  seal:1.11
+  iron:0.98
+  car:0.94
+  weed:0.92
+  year:0.67
+  places:0.67
+  heat:0.65
+  great:0.62
+  clothes:0.61
+  sealed:0.59
+
+Topic 3:
+  iron:1.22
+  seal:1.13
+  car:1.09
+  weed:0.96
+  clothes:0.70
+  sealed:0.67
+  great:0.65
+  year:0.64
+  places:0.58
+  heat:0.56
+
+Topic 4:
+  iron:2.36
+  car:1.58
+  heat:0.89
+  seal:0.86
+  weed:0.79
+  places:0.75
+  scroat:0.75
+  sealed:0.68
+  great:0.67
+  remove:0.63
+
+K: 5, Log-Likelihood: -710.617, Alpha: 11.000, Beta: 1.100

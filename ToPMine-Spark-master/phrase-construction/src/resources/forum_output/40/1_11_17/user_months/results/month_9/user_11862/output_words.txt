@@ -1,0 +1,61 @@
+Topic 0:
+  capcha:0.65
+  expired:0.65
+  type:0.43
+  matter:0.43
+  telling:0.43
+  fast:0.43
+  register:0.39
+  posting:0.36
+  uri:0.36
+  april:0.21
+
+Topic 1:
+  expired:0.57
+  capcha:0.53
+  posting:0.44
+  uri:0.44
+  register:0.42
+  telling:0.37
+  type:0.37
+  matter:0.37
+  fast:0.37
+  guys:0.21
+
+Topic 2:
+  capcha:0.59
+  expired:0.58
+  posting:0.41
+  uri:0.41
+  register:0.40
+  type:0.40
+  matter:0.40
+  telling:0.39
+  fast:0.39
+  didn:0.20
+
+Topic 3:
+  capcha:0.62
+  expired:0.59
+  telling:0.41
+  matter:0.41
+  fast:0.41
+  type:0.40
+  uri:0.40
+  register:0.39
+  posting:0.39
+  guru:0.20
+
+Topic 4:
+  capcha:0.60
+  expired:0.60
+  fast:0.40
+  posting:0.40
+  telling:0.40
+  type:0.40
+  matter:0.40
+  uri:0.40
+  register:0.39
+  marketplace:0.20
+
+K: 5, Log-Likelihood: -175.000, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  buying:3.04
+  coins:2.93
+  bit:2.06
+  cash:1.84
+  cashing:1.55
+  wanted:1.54
+  start:1.53
+  ccs:1.43
+  talking:1.37
+  budget:1.37
+
+Topic 1:
+  friend:2.56
+  coins:2.19
+  tcf:2.14
+  learn:1.86
+  free:1.82
+  making:1.65
+  bitcoin:1.64
+  ccs:1.60
+  read:1.59
+  stolen:1.52
+
+Topic 2:
+  buy:1.90
+  step:1.73
+  coins:1.71
+  bitcoins:1.54
+  advice:1.33
+  ccs:1.32
+  real:1.21
+  markets:0.99
+  site:0.97
+  cc:0.92
+
+Topic 3:
+  markets:1.88
+  cc:1.62
+  step:1.42
+  ccs:1.19
+  real:1.18
+  bitcoins:1.18
+  buy:1.13
+  advice:1.11
+  coins:1.05
+  money:1.04
+
+Topic 4:
+  cc:7.49
+  scam:5.01
+  vendors:4.97
+  remember:3.76
+  offer:3.75
+  safe:3.74
+  hidden:3.73
+  august:2.78
+  seller:2.62
+  swam:2.59
+
+K: 5, Log-Likelihood: -2435.861, Alpha: 11.000, Beta: 1.100

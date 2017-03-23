@@ -1,0 +1,61 @@
+Topic 0:
+  gifs:1.19
+  images:0.77
+  dnm forums:0.74
+  poster:0.73
+  images gifs:0.72
+  view:0.71
+  gif images:0.69
+  java:0.68
+  impact complete:0.68
+  victim:0.51
+
+Topic 1:
+  metadata:2.11
+  javascript:2.11
+  png file:2.11
+  malware:2.11
+  peter:1.02
+  monday:1.02
+  obfuscated:1.02
+  findings:1.02
+  virus:1.02
+  avoid:1.02
+
+Topic 2:
+  impact complete:2.03
+  java:2.03
+  gif images:1.97
+  references:1.23
+  environment:1.22
+  execute:1.22
+  score:1.22
+  access:1.22
+  attacker:1.22
+  runtime:1.21
+
+Topic 3:
+  gifs:0.92
+  forum:0.92
+  view:0.68
+  images gifs:0.67
+  dnm forums:0.66
+  poster:0.65
+  images:0.64
+  post:0.46
+  bad:0.45
+  browser:0.45
+
+Topic 4:
+  gifs:1.32
+  view:0.84
+  poster:0.84
+  dnm forums:0.83
+  images gifs:0.82
+  images:0.82
+  forum:0.66
+  post:0.50
+  security risk:0.42
+  write:0.39
+
+K: 5, Log-Likelihood: -1472.998, Alpha: 11.000, Beta: 1.100

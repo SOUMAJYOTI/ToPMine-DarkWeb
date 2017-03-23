@@ -1,0 +1,46 @@
+Topic 0:
+  english:0.20
+  bad:0.20
+  iphone:0.20
+  dollars:0.20
+  spent:0.20
+  bought:0.20
+  swam:0.20
+
+Topic 1:
+  swam:0.20
+  dollars:0.20
+  spent:0.20
+  bad:0.20
+  english:0.20
+  iphone:0.20
+  bought:0.20
+
+Topic 2:
+  swam:0.20
+  iphone:0.20
+  bad:0.20
+  dollars:0.20
+  english:0.20
+  bought:0.20
+  spent:0.20
+
+Topic 3:
+  bought:0.20
+  iphone:0.20
+  english:0.20
+  spent:0.20
+  bad:0.20
+  swam:0.20
+  dollars:0.20
+
+Topic 4:
+  spent:0.20
+  dollars:0.20
+  swam:0.20
+  bad:0.20
+  english:0.20
+  iphone:0.20
+  bought:0.20
+
+K: 5, Log-Likelihood: -13.621, Alpha: 11.000, Beta: 1.100

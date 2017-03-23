@@ -1,0 +1,61 @@
+Topic 0:
+  revealed:14.70
+  life:11.70
+  lot:9.79
+  military service:9.78
+  country:9.78
+  met:7.50
+  months:4.87
+  time:4.87
+  serving:4.87
+  hobbies:4.87
+
+Topic 1:
+  feel:7.71
+  reason worry thing conversations:7.55
+  ya mmm:7.55
+  conversation encryption ordered personal:7.55
+  address reportedly compromise vendors:7.55
+  vendors mentioned country:7.55
+  love:6.10
+  agree:5.13
+  traits:4.86
+  sociopathic:4.86
+
+Topic 2:
+  toxins:9.79
+  find:8.27
+  enlist sociopaths sociopath job:7.66
+  agree advance brainwashed:7.66
+  join military good intentions:7.66
+  military family labelled outcast:7.66
+  fucked head literally:7.66
+  tv ingesting food rot:7.63
+  friends watch:7.63
+  fartbomber november pmwhat army:6.29
+
+Topic 3:
+  violence:9.79
+  order:9.79
+  clean house:9.79
+  perpetuates:4.88
+  history:4.88
+  true:4.88
+  choose:4.88
+  evil:4.88
+  actions:4.88
+  result:4.88
+
+Topic 4:
+  army:10.77
+  people wrong advance helping:7.72
+  position kill imprison:7.68
+  quote:5.68
+  police sign voluntarily stooge:5.18
+  oppressive regime:5.12
+  oppressive regime morally unjustifiable:5.12
+  duress mere victims compassion:5.07
+  people join:5.07
+  warmongers:4.88
+
+K: 5, Log-Likelihood: -11275.686, Alpha: 11.000, Beta: 1.100

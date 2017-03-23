@@ -1,0 +1,61 @@
+Topic 0:
+  touchpad:16.76
+  tails:12.67
+  mouse:9.72
+  works:8.73
+  hp:8.19
+  settings:7.61
+  running:6.15
+  chrome:5.96
+  thing:4.94
+  file:4.72
+
+Topic 1:
+  le:11.81
+  cares:10.61
+  february:9.95
+  majorfame:8.82
+  hub:6.90
+  tails:6.80
+  amquote:6.54
+  thread:5.93
+  dont:5.92
+  print:5.72
+
+Topic 2:
+  tails:13.97
+  printers:10.89
+  printer:7.83
+  click:5.54
+  applications:5.54
+  linux:5.24
+  configure:3.93
+  configuration:3.93
+  save:3.93
+  future:3.93
+
+Topic 3:
+  tails:10.45
+  chromebook:7.30
+  ubuntu:5.68
+  chromebooks:5.66
+  linus:4.72
+  linux:4.45
+  info:4.31
+  running:4.31
+  issues:4.28
+  option:4.05
+
+Topic 4:
+  quote:10.81
+  tang:8.71
+  tails:6.11
+  tambourine:5.16
+  today:5.11
+  wrong:4.60
+  doe:4.34
+  mouse:3.82
+  february:2.67
+  burner:2.61
+
+K: 5, Log-Likelihood: -4634.831, Alpha: 11.000, Beta: 1.100

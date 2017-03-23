@@ -1,0 +1,61 @@
+Topic 0:
+  message:0.74
+  long:0.60
+  text:0.60
+  editor:0.59
+  openoffice:0.41
+  kleopatra:0.40
+  write:0.20
+  formatting:0.20
+  problem:0.20
+  assist:0.20
+
+Topic 1:
+  message:0.79
+  long:0.61
+  text:0.61
+  editor:0.61
+  openoffice:0.40
+  kleopatra:0.40
+  quote:0.20
+  file:0.20
+  office:0.20
+  spitfire:0.20
+
+Topic 2:
+  message:0.85
+  editor:0.60
+  long:0.58
+  text:0.58
+  kleopatra:0.40
+  openoffice:0.40
+  asc:0.20
+  codes:0.20
+  built:0.20
+  gog:0.20
+
+Topic 3:
+  message:0.81
+  editor:0.61
+  text:0.59
+  long:0.59
+  kleopatra:0.40
+  openoffice:0.40
+  boot:0.20
+  read:0.20
+  ordinary:0.20
+  public:0.20
+
+Topic 4:
+  message:0.81
+  text:0.62
+  long:0.61
+  editor:0.59
+  openoffice:0.40
+  kleopatra:0.40
+  ordinary:0.20
+  office:0.20
+  public:0.20
+  quote:0.20
+
+K: 5, Log-Likelihood: -203.606, Alpha: 11.000, Beta: 1.100

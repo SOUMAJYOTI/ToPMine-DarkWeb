@@ -1,0 +1,61 @@
+Topic 0:
+  school:11.33
+  steve:11.30
+  anonymity:9.78
+  tor:9.58
+  pay cash:9.06
+  quotesteve yeah:8.02
+  tor nodes:7.86
+  traffic:7.20
+  dont:6.11
+  geographically dispersed:5.91
+
+Topic 1:
+  sort:10.08
+  anonymity:10.03
+  tor:8.55
+  years ago:8.02
+  silkroad:8.02
+  vendor:7.18
+  hidden services:6.86
+  traffic:6.85
+  straight days explanation outage:5.69
+  false alarm days:5.69
+
+Topic 2:
+  grugq:16.04
+  security:14.26
+  operation:10.39
+  internet:8.03
+  risk assessment:8.02
+  paranoia:8.02
+  operate clandestinely:8.02
+  security researcher:8.02
+  adversary:7.36
+  list:7.33
+
+Topic 3:
+  data:13.60
+  bitmessage ch:13.58
+  darknet:13.36
+  deep web:13.36
+  sites:10.69
+  search engine:10.69
+  starts:9.05
+  active attacks:9.05
+  admin bitmessage ch:9.05
+  mail:8.93
+
+Topic 4:
+  hackers:27.29
+  covert organisation:19.75
+  hacker community:18.71
+  cover:11.34
+  protip:11.24
+  hacker culture:10.69
+  security:10.65
+  individual:9.87
+  knowledge:9.07
+  onion service:8.97
+
+K: 5, Log-Likelihood: -65636.698, Alpha: 11.000, Beta: 1.100

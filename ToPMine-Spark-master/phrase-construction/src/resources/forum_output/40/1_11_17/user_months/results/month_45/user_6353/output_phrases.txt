@@ -1,0 +1,61 @@
+Topic 0:
+  nwnuggets:0.70
+  love avengers:0.50
+  agora blackbank middle earth:0.45
+  public key block:0.45
+  alphabay markets:0.42
+  auctions:0.27
+  listing:0.23
+  php:0.23
+  vend:0.22
+  checked:0.22
+
+Topic 1:
+  love avengers:1.28
+  auctions:0.83
+  php:0.79
+  listing:0.79
+  nwnuggets:0.45
+  offering:0.34
+  sell:0.34
+  promotion:0.34
+  feedback:0.34
+  ship:0.34
+
+Topic 2:
+  nwnuggets:0.69
+  love avengers:0.54
+  agora blackbank middle earth:0.44
+  public key block:0.44
+  alphabay markets:0.40
+  auctions:0.27
+  listing:0.24
+  php:0.23
+  eit:0.22
+  fn:0.22
+
+Topic 3:
+  love avengers:0.62
+  nwnuggets:0.61
+  agora blackbank middle earth:0.42
+  public key block:0.42
+  alphabay markets:0.37
+  auctions:0.34
+  php:0.29
+  listing:0.29
+  sigaint:0.21
+  hdiwt:0.21
+
+Topic 4:
+  nwnuggets:0.63
+  love avengers:0.62
+  public key block:0.42
+  agora blackbank middle earth:0.42
+  alphabay markets:0.37
+  auctions:0.34
+  listing:0.29
+  php:0.29
+  gzvopd:0.21
+  roxye:0.21
+
+K: 5, Log-Likelihood: -2606.574, Alpha: 11.000, Beta: 1.100

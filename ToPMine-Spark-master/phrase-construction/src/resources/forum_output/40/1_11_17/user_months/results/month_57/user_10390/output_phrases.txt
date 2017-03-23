@@ -1,0 +1,61 @@
+Topic 0:
+  marketplace:0.16
+  listings:0.16
+  drug:0.16
+  busiest:0.08
+  vend:0.08
+  markets:0.08
+  abraxas:0.08
+  agree:0.08
+  anonymous:0.08
+  forum:0.08
+
+Topic 1:
+  listings:0.16
+  marketplace:0.16
+  drug:0.16
+  isnt:0.08
+  established:0.08
+  survived:0.08
+  operation:0.08
+  forum:0.08
+  anonymous:0.08
+  agree:0.08
+
+Topic 2:
+  marketplace:0.16
+  drug:0.16
+  listings:0.16
+  abraxas:0.08
+  busiest:0.08
+  vend:0.08
+  markets:0.08
+  agree:0.08
+  anonymous:0.08
+  operation:0.08
+
+Topic 3:
+  drug:0.16
+  listings:0.16
+  marketplace:0.16
+  isnt:0.08
+  operation:0.08
+  established:0.08
+  forum:0.08
+  survived:0.08
+  anonymous:0.08
+  markets:0.08
+
+Topic 4:
+  drug:0.16
+  marketplace:0.16
+  listings:0.16
+  busiest:0.08
+  agree:0.08
+  vend:0.08
+  markets:0.08
+  abraxas:0.08
+  established:0.08
+  survived:0.08
+
+K: 5, Log-Likelihood: -18.401, Alpha: 11.000, Beta: 1.100

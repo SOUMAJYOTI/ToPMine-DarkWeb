@@ -1,0 +1,61 @@
+Topic 0:
+  access:0.40
+  site:0.40
+  time:0.20
+  post:0.20
+  gateway:0.20
+  working:0.20
+  multiply:0.20
+  link:0.20
+  links:0.20
+  outlaw:0.20
+
+Topic 1:
+  site:0.40
+  access:0.40
+  gateway:0.20
+  working:0.20
+  time:0.20
+  post:0.20
+  main:0.20
+  multiply:0.20
+  link:0.20
+  links:0.20
+
+Topic 2:
+  access:0.40
+  site:0.40
+  outlaw:0.20
+  links:0.20
+  main:0.20
+  link:0.20
+  multiply:0.20
+  time:0.20
+  post:0.20
+  gateway:0.20
+
+Topic 3:
+  site:0.40
+  access:0.40
+  main:0.20
+  outlaw:0.20
+  links:0.20
+  link:0.20
+  post:0.20
+  multiply:0.20
+  time:0.20
+  gateway:0.20
+
+Topic 4:
+  access:0.40
+  site:0.40
+  working:0.20
+  gateway:0.20
+  time:0.20
+  post:0.20
+  link:0.20
+  links:0.20
+  multiply:0.20
+  outlaw:0.20
+
+K: 5, Log-Likelihood: -30.617, Alpha: 11.000, Beta: 1.100

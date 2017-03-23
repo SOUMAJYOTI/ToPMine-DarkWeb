@@ -1,0 +1,61 @@
+Topic 0:
+  tor:2.20
+  host:2.20
+  interesting:2.20
+  system:2.20
+  secure:1.64
+  isolation:1.00
+  didnt:1.00
+  online:1.00
+  blog:1.00
+  web:1.00
+
+Topic 1:
+  completely anonymous:1.28
+  layer:1.04
+  onion sites:0.62
+  pick:0.57
+  server:0.56
+  cat site:0.55
+  reading:0.55
+  php:0.48
+  drugs:0.48
+  matter:0.48
+
+Topic 2:
+  completely anonymous:1.33
+  layer:1.09
+  onion sites:0.63
+  onion:0.63
+  pick:0.62
+  reading:0.59
+  cat site:0.59
+  software:0.51
+  secure onion:0.51
+  operation:0.51
+
+Topic 3:
+  pick:1.13
+  completely anonymous:0.61
+  server:0.58
+  skip:0.51
+  securing:0.51
+  step:0.51
+  studying:0.51
+  squimish:0.51
+  good:0.51
+  book:0.51
+
+Topic 4:
+  tutorials:2.29
+  question:2.29
+  expert:2.29
+  bitcoins:1.06
+  weaknesses:1.06
+  therealdeal:1.06
+  ops:1.06
+  smallest:1.06
+  hackers:1.06
+  concern:1.06
+
+K: 5, Log-Likelihood: -970.827, Alpha: 11.000, Beta: 1.100

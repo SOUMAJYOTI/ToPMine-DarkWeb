@@ -1,0 +1,61 @@
+Topic 0:
+  lot:0.64
+  link:0.64
+  lsd:0.54
+  tripsit:0.43
+  drug:0.42
+  good:0.39
+  lithium:0.37
+  wiki:0.21
+  wives:0.21
+  case:0.21
+
+Topic 1:
+  lsd:0.61
+  link:0.59
+  lot:0.59
+  good:0.41
+  lithium:0.40
+  tripsit:0.38
+  drug:0.38
+  common:0.20
+  discovered:0.20
+  prepared:0.20
+
+Topic 2:
+  lot:0.72
+  link:0.71
+  drug:0.52
+  tripsit:0.52
+  lsd:0.43
+  good:0.36
+  lithium:0.31
+  hxxp:0.23
+  dated:0.23
+  clearnet:0.23
+
+Topic 3:
+  lsd:0.69
+  lot:0.54
+  link:0.54
+  lithium:0.46
+  good:0.42
+  drug:0.34
+  tripsit:0.33
+  led:0.22
+  isnt:0.22
+  knowledge:0.22
+
+Topic 4:
+  lsd:0.73
+  link:0.53
+  lot:0.52
+  lithium:0.46
+  good:0.42
+  drug:0.34
+  tripsit:0.33
+  dangers:0.22
+  varying:0.22
+  intersted:0.22
+
+K: 5, Log-Likelihood: -200.500, Alpha: 11.000, Beta: 1.100

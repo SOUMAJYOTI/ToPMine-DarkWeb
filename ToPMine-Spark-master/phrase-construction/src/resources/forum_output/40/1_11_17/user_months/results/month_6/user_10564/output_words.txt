@@ -1,0 +1,61 @@
+Topic 0:
+  buyer:0.57
+  support:0.47
+  learn:0.44
+  bitcoins:0.41
+  resolved:0.34
+  release:0.22
+  response:0.22
+  inexpensive:0.22
+  sheep:0.22
+  receive:0.22
+
+Topic 1:
+  buyer:0.57
+  support:0.48
+  learn:0.43
+  bitcoins:0.40
+  resolved:0.35
+  sr:0.21
+  inexpensive:0.21
+  withdrawal:0.21
+  held:0.21
+  grabbed:0.21
+
+Topic 2:
+  buyer:0.55
+  learn:0.49
+  support:0.41
+  bitcoins:0.40
+  resolved:0.30
+  policy:0.23
+  escrow:0.23
+  fe:0.23
+  grabbed:0.23
+  asked:0.23
+
+Topic 3:
+  support:0.65
+  buyer:0.61
+  resolved:0.43
+  bitcoins:0.40
+  learn:0.36
+  small:0.21
+  market:0.21
+  issue:0.21
+  experience:0.21
+  emailing:0.21
+
+Topic 4:
+  support:0.99
+  buyer:0.70
+  resolved:0.57
+  bitcoins:0.39
+  learn:0.28
+  day:0.25
+  transaction:0.25
+  practices:0.25
+  received:0.25
+  percent:0.25
+
+K: 5, Log-Likelihood: -302.340, Alpha: 11.000, Beta: 1.100

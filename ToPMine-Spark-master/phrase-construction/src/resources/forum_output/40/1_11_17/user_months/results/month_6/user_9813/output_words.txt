@@ -1,0 +1,61 @@
+Topic 0:
+  talk:0.80
+  find:0.41
+  lsd:0.40
+  market:0.40
+  moving:0.39
+  sort:0.39
+  darknet:0.20
+  link:0.20
+  forum:0.20
+  return:0.20
+
+Topic 1:
+  talk:0.73
+  find:0.40
+  moving:0.39
+  lsd:0.39
+  market:0.39
+  sort:0.39
+  register:0.21
+  account:0.21
+  accounts:0.21
+  forgot:0.21
+
+Topic 2:
+  talk:0.79
+  sort:0.41
+  market:0.40
+  lsd:0.40
+  find:0.40
+  moving:0.40
+  time:0.20
+  personal:0.20
+  post:0.20
+  holy:0.20
+
+Topic 3:
+  talk:0.84
+  moving:0.41
+  market:0.41
+  lsd:0.41
+  sort:0.41
+  find:0.39
+  dmt:0.20
+  william:0.20
+  law:0.20
+  thinking:0.20
+
+Topic 4:
+  talk:0.84
+  sort:0.41
+  moving:0.40
+  lsd:0.40
+  find:0.40
+  market:0.40
+  message:0.20
+  fumes:0.20
+  works:0.20
+  causing:0.20
+
+K: 5, Log-Likelihood: -279.929, Alpha: 11.000, Beta: 1.100

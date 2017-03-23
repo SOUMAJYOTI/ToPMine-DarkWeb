@@ -1,0 +1,61 @@
+Topic 0:
+  tor:4.20
+  router:2.78
+  transport:1.48
+  prevent:1.18
+  good:0.70
+  front:0.59
+  coming:0.58
+  transparent:0.58
+  internet:0.58
+  developers:0.58
+
+Topic 1:
+  apt:5.38
+  tor:4.39
+  sources:2.48
+  wily:1.99
+  build:1.69
+  transport:1.63
+  sudo:1.62
+  list:1.17
+  repos:1.07
+  service:1.02
+
+Topic 2:
+  apt:3.66
+  tor:3.40
+  transport:1.72
+  sources:1.58
+  wily:1.18
+  build:1.01
+  sudo:0.95
+  repos:0.81
+  service:0.79
+  list:0.77
+
+Topic 3:
+  tor:5.55
+  apt:4.05
+  sources:1.75
+  wily:1.64
+  transport:1.45
+  sudo:1.25
+  build:1.12
+  service:1.02
+  repos:0.94
+  list:0.89
+
+Topic 4:
+  tor:6.45
+  transport:1.73
+  router:1.03
+  good:0.79
+  prevent:0.60
+  apt:0.59
+  youll:0.54
+  http:0.52
+  default:0.52
+  exit:0.51
+
+K: 5, Log-Likelihood: -900.793, Alpha: 11.000, Beta: 1.100

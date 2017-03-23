@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.40
+  forum:0.40
+  bsm:0.40
+  opens:0.20
+  shop:0.20
+  darknet:0.20
+  canaris:0.20
+  wellhit:0.20
+  opened:0.20
+  weed:0.20
+
+Topic 1:
+  market:0.40
+  bsm:0.40
+  forum:0.40
+  intended:0.20
+  opens:0.20
+  shop:0.20
+  dont:0.20
+  jab:0.20
+  blueskyi:0.20
+  wellhit:0.20
+
+Topic 2:
+  bsm:0.40
+  forum:0.40
+  market:0.40
+  bother:0.20
+  family:0.20
+  jab:0.20
+  intended:0.20
+  luck:0.20
+  dont:0.20
+  man:0.20
+
+Topic 3:
+  market:0.40
+  bsm:0.40
+  forum:0.40
+  road:0.20
+  blueskyi:0.20
+  weed:0.20
+  canaris:0.20
+  wellhit:0.20
+  shop:0.20
+  opened:0.20
+
+Topic 4:
+  forum:0.40
+  bsm:0.40
+  market:0.40
+  aare:0.20
+  vets:0.20
+  pretty:0.20
+  post:0.20
+  features:0.20
+  questions:0.20
+  rc:0.20
+
+K: 5, Log-Likelihood: -93.569, Alpha: 11.000, Beta: 1.100

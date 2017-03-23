@@ -1,0 +1,61 @@
+Topic 0:
+  march:10.10
+  sigaint:8.63
+  quote:7.54
+  tang:6.40
+  won:5.58
+  buy:5.55
+  long:3.84
+  real:3.61
+  true:3.49
+  tesladriver:3.35
+
+Topic 1:
+  bitcoin:10.29
+  march:5.23
+  hope:4.32
+  sigaint:4.27
+  quote:3.66
+  replaced:3.18
+  mixers:2.79
+  war:2.54
+  civil:2.53
+  saint:2.24
+
+Topic 2:
+  btc:4.25
+  classic:4.14
+  long:4.05
+  txs:3.96
+  anonymous:3.28
+  people:3.05
+  coin:2.81
+  fee:2.62
+  blocks:2.49
+  team:2.22
+
+Topic 3:
+  bitcoin:11.68
+  transactions:11.54
+  core:8.23
+  longer:4.49
+  classic:4.30
+  limit:2.96
+  amount:2.96
+  moment:2.96
+  price:2.89
+  long:2.55
+
+Topic 4:
+  btc:12.08
+  guys:5.93
+  fork:5.93
+  fear:4.93
+  attack:4.01
+  hit:4.00
+  code:3.94
+  corp:3.93
+  goal:3.93
+  clear:3.93
+
+K: 5, Log-Likelihood: -4568.540, Alpha: 11.000, Beta: 1.100

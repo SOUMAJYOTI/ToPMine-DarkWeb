@@ -1,0 +1,61 @@
+Topic 0:
+  order:7.11
+  vendors:5.67
+  coins sr:4.26
+  esrcow:4.26
+  trust:4.26
+  february:4.11
+  stay:4.01
+  sr forums:4.00
+  quote:4.00
+  market:3.98
+
+Topic 1:
+  pending:7.80
+  btc:5.13
+  trail:5.13
+  send:5.08
+  bitcoinfog:4.34
+  site:4.33
+  link:4.29
+  mdparity:4.29
+  curious:4.29
+  heard:4.29
+
+Topic 2:
+  place order:11.55
+  bitcoins:6.77
+  times:5.94
+  agora:5.86
+  deal:5.22
+  hours:5.19
+  servers:5.19
+  full:5.08
+  payed:5.08
+  waiting:4.40
+
+Topic 3:
+  mixing:7.89
+  silk:7.89
+  bitcoins sr:5.73
+  adresses:5.25
+  works:5.25
+  road:5.25
+  dont:3.85
+  safe:3.84
+  service:3.61
+  blockchain:3.60
+
+Topic 4:
+  hope:6.15
+  sr:5.18
+  havent:4.37
+  pandora:4.37
+  sorted:4.27
+  desperate:4.23
+  rule:4.22
+  markets:4.22
+  working fine:4.21
+  ordering:4.21
+
+K: 5, Log-Likelihood: -4549.773, Alpha: 11.000, Beta: 1.100

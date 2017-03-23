@@ -1,0 +1,61 @@
+Topic 0:
+  didnt:2.94
+  vendor:2.92
+  job:2.86
+  pm:2.10
+  login:2.00
+  tails:1.99
+  friends:1.97
+  order:1.25
+  click:1.24
+  good:1.24
+
+Topic 1:
+  market:1.18
+  online:1.18
+  order:0.81
+  freddie:0.78
+  luck:0.78
+  cheers:0.78
+  glad:0.78
+  input:0.78
+  place:0.77
+  data:0.45
+
+Topic 2:
+  online:1.18
+  market:1.04
+  order:0.82
+  place:0.78
+  cheers:0.77
+  glad:0.77
+  input:0.77
+  freddie:0.77
+  luck:0.76
+  data:0.45
+
+Topic 3:
+  order:1.21
+  job:0.79
+  vendor:0.74
+  didnt:0.72
+  friends:0.69
+  tails:0.67
+  login:0.66
+  pm:0.57
+  method:0.49
+  option:0.48
+
+Topic 4:
+  market:2.54
+  dhl:2.16
+  ll:1.70
+  log:1.69
+  hrs:1.69
+  wrong:1.69
+  hours:1.69
+  maximum:1.69
+  yeah:1.69
+  system:1.69
+
+K: 5, Log-Likelihood: -1401.304, Alpha: 11.000, Beta: 1.100

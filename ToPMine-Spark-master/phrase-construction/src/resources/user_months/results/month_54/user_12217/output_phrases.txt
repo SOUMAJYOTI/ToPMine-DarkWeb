@@ -1,0 +1,61 @@
+Topic 0:
+  earn:0.08
+  join:0.08
+  linkki:0.08
+  ja:0.08
+  link:0.08
+  rekister:0.08
+  tuotteita:0.08
+  hyvi:0.08
+  tilatessanne:0.08
+  pit:0.08
+
+Topic 1:
+  pit:0.08
+  klikkaa:0.08
+  tuotteita:0.08
+  idy:0.08
+  click:0.08
+  register:0.08
+  fun:0.08
+  linkki:0.08
+  tervetuloa:0.08
+  join:0.08
+
+Topic 2:
+  klikkaa:0.08
+  hyvi:0.08
+  tervetuloa:0.08
+  click:0.08
+  tuotteita:0.08
+  idy:0.08
+  rekister:0.08
+  silkkitielle:0.08
+  fun:0.08
+  silkkitie:0.08
+
+Topic 3:
+  silkkitielle:0.08
+  ja:0.08
+  pit:0.08
+  tervetuloa:0.08
+  hauskaa:0.08
+  tilatessanne:0.08
+  register:0.08
+  link:0.08
+  linkki:0.08
+  click:0.08
+
+Topic 4:
+  join:0.08
+  earn:0.08
+  silkkitie:0.08
+  hauskaa:0.08
+  hyvi:0.08
+  fun:0.08
+  link:0.08
+  idy:0.08
+  rekister:0.08
+  ja:0.08
+
+K: 5, Log-Likelihood: -22.683, Alpha: 11.000, Beta: 1.100

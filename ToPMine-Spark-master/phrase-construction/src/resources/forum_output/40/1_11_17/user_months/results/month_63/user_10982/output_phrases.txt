@@ -1,0 +1,61 @@
+Topic 0:
+  mine:0.00
+  multisig:0.00
+  growing:0.00
+  hub:0.00
+  allowed:0.00
+  link:0.00
+  optionally:0.00
+  supports:0.00
+  invite:0.00
+  fa:0.00
+
+Topic 1:
+  mine:0.00
+  multisig:0.00
+  growing:0.00
+  hub:0.00
+  allowed:0.00
+  link:0.00
+  optionally:0.00
+  supports:0.00
+  invite:0.00
+  fa:0.00
+
+Topic 2:
+  mine:0.00
+  multisig:0.00
+  growing:0.00
+  hub:0.00
+  allowed:0.00
+  link:0.00
+  optionally:0.00
+  supports:0.00
+  invite:0.00
+  fa:0.00
+
+Topic 3:
+  mine:0.00
+  multisig:0.00
+  growing:0.00
+  hub:0.00
+  allowed:0.00
+  link:0.00
+  optionally:0.00
+  supports:0.00
+  invite:0.00
+  fa:0.00
+
+Topic 4:
+  mine:0.00
+  multisig:0.00
+  growing:0.00
+  hub:0.00
+  allowed:0.00
+  link:0.00
+  optionally:0.00
+  supports:0.00
+  invite:0.00
+  fa:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

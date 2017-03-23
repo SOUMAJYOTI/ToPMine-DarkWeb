@@ -1,0 +1,61 @@
+Topic 0:
+  swiss:0.20
+  march amquote:0.20
+  supremely honored love garden:0.20
+  friends villain:0.20
+  turns:0.20
+  touch:0.20
+  swisscrystal:0.20
+  password account email si:0.20
+  password account email:0.18
+  rainbowsaint:0.18
+
+Topic 1:
+  swisscrystal:0.20
+  turns:0.20
+  password account email si:0.20
+  march amquote:0.20
+  swiss:0.20
+  touch:0.20
+  supremely honored love garden:0.20
+  friends villain:0.20
+  love garden friends villain:0.18
+  access invite supremely honored:0.18
+
+Topic 2:
+  supremely honored love garden:0.20
+  friends villain:0.20
+  touch:0.20
+  turns:0.20
+  swiss:0.20
+  swisscrystal:0.20
+  march amquote:0.20
+  password account email si:0.20
+  truth:0.18
+  rainbowsaint:0.18
+
+Topic 3:
+  password account email si:0.20
+  swiss:0.20
+  swisscrystal:0.20
+  touch:0.20
+  march amquote:0.20
+  friends villain:0.20
+  turns:0.20
+  supremely honored love garden:0.20
+  access invite supremely honored:0.18
+  rainbows:0.18
+
+Topic 4:
+  password account email si:0.20
+  touch:0.20
+  swisscrystal:0.20
+  march amquote:0.20
+  friends villain:0.20
+  turns:0.20
+  swiss:0.20
+  supremely honored love garden:0.20
+  unfortunate event forgetting:0.18
+  si access invite supremely:0.18
+
+K: 5, Log-Likelihood: -91.685, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  crypto:0.42
+  albert:0.41
+  tumbling:0.33
+  support:0.27
+  bit:0.27
+  accepting:0.27
+  good:0.27
+  community:0.27
+  plans:0.27
+  start:0.27
+
+Topic 1:
+  tumbling:0.74
+  coins:0.47
+  bazaar:0.46
+  crypto:0.39
+  albert:0.39
+  cost:0.23
+  add:0.23
+  safe:0.23
+  transactions:0.23
+  folks:0.23
+
+Topic 2:
+  tumbling:0.61
+  albert:0.41
+  coins:0.40
+  bazaar:0.40
+  crypto:0.40
+  carry:0.21
+  darkcoin:0.21
+  layer:0.21
+  stable:0.21
+  note:0.21
+
+Topic 3:
+  albert:0.42
+  crypto:0.41
+  tumbling:0.40
+  coins:0.29
+  bazaar:0.29
+  development:0.24
+  dams:0.24
+  bamaonce:0.24
+  surely:0.24
+  demand:0.24
+
+Topic 4:
+  tumbling:0.92
+  bazaar:0.60
+  coins:0.58
+  crypto:0.37
+  albert:0.37
+  prices:0.26
+  provide:0.26
+  anonimity:0.26
+  process:0.26
+  long:0.26
+
+K: 5, Log-Likelihood: -246.426, Alpha: 11.000, Beta: 1.100

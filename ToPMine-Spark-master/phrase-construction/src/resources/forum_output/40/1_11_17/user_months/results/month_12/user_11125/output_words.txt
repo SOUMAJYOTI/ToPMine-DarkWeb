@@ -1,0 +1,61 @@
+Topic 0:
+  message:0.20
+  imposter:0.20
+  hey:0.20
+  man:0.20
+  pay:0.20
+  evolution:0.20
+  scammed:0.20
+  guess:0.20
+  fast:0.20
+  sorted:0.20
+
+Topic 1:
+  guess:0.20
+  post:0.20
+  successful:0.20
+  message:0.20
+  price:0.20
+  reputation:0.20
+  cool:0.20
+  sorted:0.20
+  imposter:0.20
+  pay:0.20
+
+Topic 2:
+  cool:0.20
+  man:0.20
+  reputation:0.20
+  post:0.20
+  sorted:0.20
+  price:0.20
+  imposter:0.20
+  fast:0.20
+  message:0.20
+  pay:0.20
+
+Topic 3:
+  price:0.20
+  pay:0.20
+  evolution:0.20
+  hey:0.20
+  scammed:0.20
+  reputation:0.20
+  successful:0.20
+  post:0.20
+  fast:0.20
+  sorted:0.20
+
+Topic 4:
+  successful:0.20
+  fast:0.20
+  scammed:0.20
+  man:0.20
+  imposter:0.20
+  sorted:0.20
+  hey:0.20
+  evolution:0.20
+  price:0.20
+  post:0.20
+
+K: 5, Log-Likelihood: -40.621, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ddos:2.62
+  road:2.35
+  pgp:2.32
+  signed:2.17
+  didnt:2.04
+  message:1.88
+  spam:1.62
+  silk:1.60
+  cp:1.57
+  hell:1.46
+
+Topic 1:
+  sr:6.96
+  site:6.31
+  clu:6.17
+  good:3.66
+  dpr:3.25
+  accounts:2.65
+  agora:2.06
+  banned:2.03
+  proof:1.99
+  file:1.86
+
+Topic 2:
+  market:6.70
+  attack:3.69
+  agora:2.79
+  sr:2.13
+  url:1.86
+  clu:1.73
+  control:1.53
+  botnet:1.51
+  dpr:1.46
+  running:1.43
+
+Topic 3:
+  signature:8.37
+  pgp:7.05
+  hell:5.12
+  key:5.05
+  mq:3.56
+  gq:3.53
+  pip:3.46
+  pm:3.42
+  doctorclu:3.31
+  simply:2.98
+
+Topic 4:
+  sr:7.57
+  site:2.42
+  april:1.88
+  clu:1.87
+  quote:1.79
+  listings:1.47
+  swam:1.33
+  market:1.28
+  lol:1.16
+  botnet:1.15
+
+K: 5, Log-Likelihood: -6989.130, Alpha: 11.000, Beta: 1.100

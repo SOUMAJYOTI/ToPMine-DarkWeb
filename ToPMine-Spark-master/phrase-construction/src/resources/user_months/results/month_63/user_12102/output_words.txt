@@ -1,0 +1,61 @@
+Topic 0:
+  tails:26.84
+  volume:12.44
+  browsing:9.83
+  persistent:9.06
+  store:8.19
+  flash:6.98
+  dont:5.16
+  encrypted:5.12
+  time:4.92
+  passwords:4.85
+
+Topic 1:
+  great:3.21
+  forum:3.03
+  amen:2.80
+  jigsaw:2.55
+  correct:2.14
+  stick:1.83
+  job:1.81
+  card:1.80
+  tails:1.79
+  kind:1.77
+
+Topic 2:
+  wallet:43.78
+  electrum:18.31
+  tails:12.45
+  btc:10.51
+  addresses:10.36
+  device:9.94
+  existing:8.91
+  seed:7.91
+  persistence:7.18
+  funds:5.91
+
+Topic 3:
+  time:6.75
+  tails:6.02
+  thing:4.05
+  card:3.71
+  jigsaw:3.64
+  website:2.31
+  forum:2.31
+  plugged:2.28
+  kind:2.17
+  stick:2.11
+
+Topic 4:
+  tails:8.90
+  quote:3.37
+  time:2.29
+  persistent:2.13
+  btc:1.92
+  volume:1.72
+  dont:1.65
+  wallet:1.45
+  encrypted:1.23
+  device:1.14
+
+K: 5, Log-Likelihood: -6074.052, Alpha: 11.000, Beta: 1.100

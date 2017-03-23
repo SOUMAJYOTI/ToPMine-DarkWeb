@@ -1,0 +1,61 @@
+Topic 0:
+  tor package installed:8.31
+  tor browser bundle updated:6.17
+  server tcp enabled:6.15
+  ckl obj gypcu onion:6.15
+  work port electrum:6.14
+  default security expert:6.11
+  tails:5.90
+  btc:5.60
+  set port:5.39
+  standalone:5.15
+
+Topic 1:
+  tor tails pretty accidentally:8.13
+  connect clearnet:8.13
+  quote:6.29
+  wallet:5.66
+  cheers rhett:5.38
+  set:5.10
+  server thing:5.09
+  normal:5.09
+  june:5.09
+  tediousdark:5.09
+
+Topic 2:
+  running time:12.19
+  wallet program:10.40
+  connect specific server:7.02
+  bounty:5.88
+  localhost:5.18
+  sync:5.18
+  electric exe:5.18
+  file:5.18
+  appears takes:5.18
+  exe socks:5.18
+
+Topic 3:
+  april:8.78
+  password:7.06
+  tub runs port standard:6.56
+  port:6.52
+  reading:5.96
+  messages:5.96
+  sense:5.79
+  restart:5.13
+  periodically:5.13
+  network:5.13
+
+Topic 4:
+  coins:10.41
+  electrum:6.23
+  sold:5.18
+  easiest:5.18
+  ukash:5.18
+  method:5.18
+  site:5.18
+  wash:5.18
+  code:5.18
+  buyer:5.18
+
+K: 5, Log-Likelihood: -6732.248, Alpha: 11.000, Beta: 1.100

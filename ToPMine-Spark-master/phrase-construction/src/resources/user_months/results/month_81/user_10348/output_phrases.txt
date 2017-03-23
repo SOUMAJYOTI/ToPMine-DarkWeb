@@ -1,0 +1,61 @@
+Topic 0:
+  live:2.83
+  lol:1.41
+  yard:1.27
+  bitcoins:1.22
+  area:1.21
+  muthafukka:1.21
+  drugs:1.21
+  sales:1.21
+  yuppie:1.20
+  bitcoin:1.17
+
+Topic 1:
+  bitcoin:1.16
+  send bitcoin:1.04
+  sale:1.03
+  people:1.02
+  qr:0.95
+  code:0.94
+  cash:0.89
+  advance:0.73
+  accept:0.73
+  scan:0.73
+
+Topic 2:
+  bitcoin:1.04
+  code:0.91
+  quote:0.89
+  qr:0.88
+  keyop btw export private:0.88
+  pmi bring pgp:0.76
+  key os avatar:0.75
+  ronin january:0.72
+  captainwhitebeard january pmquote:0.70
+  bit distracting:0.68
+
+Topic 3:
+  cash:1.62
+  bit distracting:1.29
+  captainwhitebeard january pmquote:1.23
+  quote ronin january:1.15
+  avatar:1.09
+  bitcoin:0.88
+  keyop btw export private:0.88
+  quote:0.86
+  great:0.85
+  export private key os:0.85
+
+Topic 4:
+  pgp:5.23
+  linux:3.44
+  version:3.44
+  windows:3.44
+  members:1.65
+  navvy:1.65
+  switch:1.65
+  based:1.65
+  linus:1.65
+  folks:1.65
+
+K: 5, Log-Likelihood: -786.267, Alpha: 11.000, Beta: 1.100

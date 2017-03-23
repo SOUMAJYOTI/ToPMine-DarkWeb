@@ -1,0 +1,61 @@
+Topic 0:
+  fitlet:20.81
+  fitlet fitlet:13.01
+  compulab:10.40
+  pc:8.78
+  fillet:7.80
+  storage:7.80
+  mintbox mini:7.80
+  machine:6.51
+  tdp:5.20
+  size:5.20
+
+Topic 1:
+  code select:10.40
+  ng:10.40
+  wpa:7.26
+  connect:6.10
+  evil twin:5.38
+  pi hardware:5.31
+  wi:5.19
+  mon:5.19
+  fi:5.19
+  output:5.19
+
+Topic 2:
+  access point:13.15
+  hotspot:9.51
+  automatically connect:9.06
+  devices switch:8.24
+  evil twin:8.07
+  connected:7.60
+  mac address:7.45
+  wifi:7.31
+  serve phishing:6.56
+  router:5.69
+
+Topic 3:
+  distro:10.40
+  work:8.60
+  whonix:5.39
+  software handy:5.20
+  organizer:5.20
+  mind:5.20
+  form:5.20
+  good tails:5.20
+  isolated:5.20
+  installation:5.20
+
+Topic 4:
+  tor browser bundle:8.22
+  phone number:7.76
+  traffic:6.56
+  good bad:6.56
+  nasty wifi:5.68
+  firefox:5.18
+  tor router:5.18
+  case:5.16
+  account:5.16
+  holders:5.16
+
+K: 5, Log-Likelihood: -22123.981, Alpha: 11.000, Beta: 1.100

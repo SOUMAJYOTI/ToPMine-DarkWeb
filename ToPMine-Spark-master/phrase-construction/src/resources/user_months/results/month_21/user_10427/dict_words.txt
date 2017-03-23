@@ -1,0 +1,15 @@
+screen,0,2
+bluesky,1,1
+login,2,2
+loading,3,1
+long,4,1
+encountered,5,2
+unable,6,1
+problem,7,1
+fine,8,1
+today,9,1
+fyi,10,1
+working,11,1
+time,12,1
+dont,13,1
+connect,14,1

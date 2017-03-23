@@ -1,0 +1,61 @@
+Topic 0:
+  war:5.96
+  good:5.91
+  army:5.86
+  country:5.49
+  damage:5.38
+  service:3.96
+  futile:3.96
+  military:3.96
+  forced:3.89
+  mango:3.86
+
+Topic 1:
+  consent:11.95
+  order:11.53
+  property:9.95
+  body:9.14
+  government:8.95
+  smoking:8.42
+  based:7.95
+  acid:7.93
+  majority:5.95
+  protect:5.95
+
+Topic 2:
+  health:10.97
+  personal:10.69
+  good:9.58
+  worry:9.54
+  life:8.89
+  mda:8.24
+  mdma:8.02
+  worth:6.52
+  long:5.61
+  smoke:5.42
+
+Topic 3:
+  natural:12.79
+  effects:10.72
+  substances:9.81
+  cancer:9.21
+  drugs:8.50
+  safe:6.89
+  peace:5.86
+  damage:5.63
+  buying:5.48
+  vendors:5.04
+
+Topic 4:
+  time:11.35
+  lsd:9.58
+  effects:6.57
+  drugs:5.72
+  body:5.38
+  real:4.63
+  long:3.97
+  function:3.97
+  blood:3.97
+  system:3.97
+
+K: 5, Log-Likelihood: -9653.338, Alpha: 11.000, Beta: 1.100

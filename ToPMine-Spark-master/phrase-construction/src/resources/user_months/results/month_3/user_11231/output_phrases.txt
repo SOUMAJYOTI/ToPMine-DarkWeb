@@ -1,0 +1,61 @@
+Topic 0:
+  dutch:17.00
+  story:10.16
+  lol:9.77
+  checks:9.72
+  article:9.21
+  february:9.00
+  public prosecution document:8.83
+  small:8.63
+  january:7.52
+  prosecutors:7.34
+
+Topic 1:
+  drug markets:22.05
+  security:13.08
+  secure:11.02
+  drugslist:11.02
+  site:9.50
+  week:8.59
+  marketplace:7.79
+  admin:7.70
+  website:7.50
+  entire:7.35
+
+Topic 2:
+  tr derjo:106.61
+  item:36.76
+  frankmatthews:33.08
+  nightmare:25.73
+  attacker:22.05
+  slkhkk:14.70
+  ab:11.02
+  ba:11.02
+  bc:11.02
+  cd:11.02
+
+Topic 3:
+  sr:22.99
+  people:13.07
+  ship:11.84
+  market:9.00
+  ross:7.34
+  war:7.34
+  obvious:7.33
+  advice:7.33
+  guys:7.32
+  outlaw:7.32
+
+Topic 4:
+  edit listing:13.05
+  access control:13.05
+  vendors listings:13.05
+  dont:10.55
+  quote:9.43
+  vendor:9.40
+  listing:8.80
+  didnt chance:8.78
+  stay:7.31
+  modification:6.51
+
+K: 5, Log-Likelihood: -30037.851, Alpha: 11.000, Beta: 1.100

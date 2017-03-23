@@ -1,0 +1,61 @@
+Topic 0:
+  days:0.41
+  market:0.39
+  signed:0.21
+  suport:0.21
+  day:0.21
+  start:0.21
+  administrators:0.21
+  message:0.21
+  wrote:0.21
+  good:0.21
+
+Topic 1:
+  days:0.41
+  market:0.40
+  acces:0.20
+  code:0.20
+  telling:0.20
+  wrong:0.20
+  verification:0.20
+  human:0.20
+  administrators:0.20
+  ago:0.20
+
+Topic 2:
+  market:0.40
+  days:0.39
+  properly:0.20
+  work:0.20
+  hours:0.20
+  reading:0.20
+  problem:0.20
+  username:0.20
+  captain:0.20
+  luck:0.20
+
+Topic 3:
+  days:0.40
+  market:0.40
+  respnse:0.20
+  start:0.20
+  vending:0.20
+  wrote:0.20
+  good:0.20
+  suport:0.20
+  message:0.20
+  ago:0.20
+
+Topic 4:
+  market:0.41
+  days:0.38
+  deposit:0.21
+  site:0.21
+  point:0.21
+  hours:0.21
+  deposits:0.21
+  luck:0.21
+  consecutive:0.21
+  problem:0.21
+
+K: 5, Log-Likelihood: -159.014, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  mit:0.76
+  ja:0.65
+  voit:0.57
+  jos:0.49
+  eli:0.40
+  yst:0.40
+  nuuskan:0.40
+  rizloja:0.39
+  nyt:0.33
+  lleenmyyntiin:0.27
+
+Topic 1:
+  mit:1.08
+  rizloja:0.67
+  ja:0.50
+  voit:0.45
+  jos:0.40
+  eli:0.34
+  yst:0.34
+  nuuskan:0.33
+  hk:0.33
+  ajalla:0.33
+
+Topic 2:
+  ytt:2.52
+  henkil:2.51
+  kirjautunut:2.51
+  kutsulinkki:2.50
+  minun:2.49
+  ja:2.08
+  ne:1.55
+  nain:1.55
+  sit:1.55
+  jotka:1.55
+
+Topic 3:
+  mit:0.73
+  jos:0.63
+  rizloja:0.60
+  nyt:0.50
+  voit:0.48
+  ja:0.46
+  hk:0.44
+  ajalla:0.44
+  viikon:0.44
+  nuuskaa:0.43
+
+Topic 4:
+  vain:4.11
+  jos:2.30
+  tarpeeksi:1.55
+  tilauksia:1.55
+  nuuskaa:0.96
+  viikon:0.95
+  ajalla:0.94
+  hk:0.94
+  nyt:0.81
+  saa:0.65
+
+K: 5, Log-Likelihood: -870.813, Alpha: 11.000, Beta: 1.100

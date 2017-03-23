@@ -1,0 +1,61 @@
+Topic 0:
+  coins:5.36
+  shared:5.23
+  normal:3.51
+  choose:3.48
+  wait:3.47
+  hrs:3.46
+  long:1.76
+  good:1.58
+  told:1.58
+  markets:1.58
+
+Topic 1:
+  vpn:6.12
+  wrong:3.07
+  tor:3.06
+  hide:1.94
+  btc:1.56
+  wife:1.56
+  movies:1.41
+  paing:1.40
+  torrents:1.40
+  pay:1.40
+
+Topic 2:
+  send:5.18
+  blockchain:2.33
+  hope:2.13
+  address:1.81
+  couple:1.75
+  love:1.75
+  dust:1.75
+  taint:1.75
+  mind:1.75
+  changed:1.75
+
+Topic 3:
+  vpn:1.48
+  hide:1.45
+  service:1.35
+  pc:1.30
+  tails:1.29
+  encryption:1.26
+  small:1.24
+  wife:1.05
+  btc:1.05
+  safe:0.92
+
+Topic 4:
+  shared:2.32
+  safe:2.25
+  send:1.49
+  coins:1.32
+  small:0.96
+  encryption:0.95
+  tails:0.91
+  pc:0.90
+  good:0.88
+  service:0.88
+
+K: 5, Log-Likelihood: -1272.525, Alpha: 11.000, Beta: 1.100

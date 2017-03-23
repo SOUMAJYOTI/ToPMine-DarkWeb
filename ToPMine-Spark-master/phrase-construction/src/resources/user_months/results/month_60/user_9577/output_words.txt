@@ -1,0 +1,61 @@
+Topic 0:
+  key:19.34
+  public:17.21
+  message:15.31
+  pgp:9.59
+  email:8.61
+  decrypt:7.87
+  pip:6.38
+  keys:6.29
+  gpg:4.26
+  gog:4.11
+
+Topic 1:
+  key:16.17
+  encrypt:5.06
+  people:4.28
+  private:3.96
+  buying:3.91
+  pretty:3.91
+  plan:3.91
+  lot:3.80
+  pgp:3.65
+  encryption:3.36
+
+Topic 2:
+  pgp:6.18
+  vendors:5.01
+  le:4.37
+  message:3.57
+  find:2.70
+  encrypt:2.56
+  key:2.35
+  shut:1.74
+  pip:1.60
+  gpg:1.48
+
+Topic 3:
+  abraxas:8.26
+  thing:5.43
+  learned:3.88
+  yeah:3.59
+  mentioned:3.59
+  guess:3.50
+  vendors:3.32
+  understand:2.94
+  tmg:2.92
+  vendor:2.89
+
+Topic 4:
+  market:14.39
+  good:6.30
+  btc:5.75
+  love:5.28
+  vendors:4.60
+  trustworthy:3.74
+  amounts:3.74
+  moving:3.74
+  longest:3.74
+  large:3.74
+
+K: 5, Log-Likelihood: -4645.964, Alpha: 11.000, Beta: 1.100

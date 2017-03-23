@@ -1,0 +1,61 @@
+Topic 0:
+  defcon:2.20
+  programmer:0.91
+  fired:0.51
+  hasnt:0.51
+  programmers:0.44
+  working:0.28
+  coin:0.28
+  missing:0.28
+  steal:0.28
+  negative:0.28
+
+Topic 1:
+  programmer:0.44
+  defcon:0.43
+  quote:0.42
+  march:0.42
+  bother:0.42
+  cut:0.42
+  swam:0.42
+  return:0.42
+  move:0.42
+  lesson:0.42
+
+Topic 2:
+  defcon:2.63
+  programmer:1.06
+  hasnt:0.56
+  fired:0.55
+  programmers:0.46
+  balance:0.28
+  tricks:0.28
+  steal:0.28
+  missing:0.28
+  sight dej:0.28
+
+Topic 3:
+  defcon:1.11
+  programmer:0.72
+  programmers:0.41
+  hasnt:0.37
+  fired:0.37
+  quote:0.30
+  march:0.30
+  learn:0.30
+  owners:0.30
+  lesson:0.30
+
+Topic 4:
+  defcon:2.42
+  programmer:1.03
+  fired:0.54
+  hasnt:0.53
+  programmers:0.45
+  money:0.28
+  sight dej:0.28
+  stealing:0.28
+  opened:0.28
+  morethere:0.28
+
+K: 5, Log-Likelihood: -350.551, Alpha: 11.000, Beta: 1.100

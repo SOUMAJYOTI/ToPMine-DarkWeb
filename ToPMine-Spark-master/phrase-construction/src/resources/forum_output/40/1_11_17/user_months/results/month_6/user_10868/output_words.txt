@@ -1,0 +1,61 @@
+Topic 0:
+  login:3.68
+  private:1.89
+  time:1.88
+  market:1.65
+  forums:1.61
+  server:1.39
+  accounts:1.39
+  agora:1.35
+  load:1.32
+  localhost:1.29
+
+Topic 1:
+  ip:22.14
+  address:11.02
+  real:7.53
+  hub:7.44
+  post:5.37
+  forums:4.90
+  posts:4.21
+  local:3.85
+  localhost:3.78
+  torbrowser:3.64
+
+Topic 2:
+  log:2.14
+  agora:1.95
+  time:1.91
+  login:1.41
+  logged:1.40
+  server:1.35
+  link:1.20
+  attack:1.12
+  private:1.08
+  error:1.06
+
+Topic 3:
+  login:3.56
+  time:3.30
+  agora:1.95
+  forums:1.31
+  hours:1.27
+  market:1.26
+  logged:1.23
+  load:1.07
+  log:1.06
+  link:0.98
+
+Topic 4:
+  agora:3.57
+  log:2.64
+  link:2.01
+  logged:1.64
+  error:1.49
+  server:1.35
+  forums:1.35
+  login:1.25
+  attack:1.17
+  hope:1.03
+
+K: 5, Log-Likelihood: -2883.087, Alpha: 11.000, Beta: 1.100

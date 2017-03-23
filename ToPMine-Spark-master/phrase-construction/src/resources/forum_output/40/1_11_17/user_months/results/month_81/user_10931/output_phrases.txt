@@ -1,0 +1,61 @@
+Topic 0:
+  place:1.15
+  decrypt file:1.14
+  program:1.13
+  file:1.13
+  encrypted file:1.11
+  truecrypt file:0.46
+  state:0.46
+  symbolic:0.46
+  machine:0.46
+  create:0.46
+
+Topic 1:
+  time:0.92
+  private:0.90
+  tails:0.45
+  keys:0.39
+  thunderbird:0.39
+  manage:0.38
+  windows:0.38
+  truecrypt:0.38
+  container:0.38
+  deleting:0.38
+
+Topic 2:
+  private:0.60
+  time:0.59
+  tails:0.45
+  thunderbird:0.42
+  truecrypt:0.41
+  container:0.41
+  keys:0.37
+  windows:0.34
+  manage:0.34
+  ass:0.29
+
+Topic 3:
+  thunderbird:0.58
+  container:0.58
+  truecrypt:0.54
+  tails:0.49
+  gpg:0.35
+  inside:0.34
+  usb:0.33
+  private:0.30
+  time:0.30
+  keys:0.30
+
+Topic 4:
+  container:0.58
+  thunderbird:0.57
+  truecrypt:0.50
+  tails:0.46
+  encrypted file:0.44
+  file:0.43
+  program:0.43
+  decrypt file:0.43
+  place:0.41
+  drive:0.34
+
+K: 5, Log-Likelihood: -511.037, Alpha: 11.000, Beta: 1.100

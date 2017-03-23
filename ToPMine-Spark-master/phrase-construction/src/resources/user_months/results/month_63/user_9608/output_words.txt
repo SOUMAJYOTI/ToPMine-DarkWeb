@@ -1,0 +1,61 @@
+Topic 0:
+  tor:4.00
+  bridge:2.80
+  bridges:2.62
+  link:1.82
+  firewall:1.39
+  deal:1.33
+  obsfu:1.33
+  massive:1.33
+  country:1.30
+  send:1.28
+
+Topic 1:
+  link:4.15
+  phinshing:4.08
+  site:3.18
+  account:2.91
+  mirror:2.78
+  password:1.81
+  tho:1.76
+  suspected:1.31
+  verified:1.30
+  bridge:1.08
+
+Topic 2:
+  link:13.64
+  site:12.57
+  account:6.79
+  visit:5.80
+  sigaint:4.70
+  phishing:4.59
+  pm:4.56
+  email:4.55
+  december:4.09
+  clearnet:3.80
+
+Topic 3:
+  link:5.36
+  tor:2.07
+  man:1.67
+  phinshing:1.58
+  account:1.37
+  bridge:1.27
+  swiss:1.17
+  site:1.07
+  mirror:0.89
+  bridges:0.88
+
+Topic 4:
+  tor:8.01
+  bridge:4.81
+  bridges:3.93
+  obsfu:2.42
+  difference:1.90
+  ur:1.86
+  western:1.84
+  details:1.83
+  open:1.83
+  mate:1.83
+
+K: 5, Log-Likelihood: -2045.446, Alpha: 11.000, Beta: 1.100

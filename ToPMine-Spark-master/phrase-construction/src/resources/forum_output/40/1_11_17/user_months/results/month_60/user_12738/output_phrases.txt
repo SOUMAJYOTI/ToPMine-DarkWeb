@@ -1,0 +1,61 @@
+Topic 0:
+  support:0.14
+  luck:0.14
+  october:0.14
+  muumi:0.14
+  send:0.14
+  msg:0.14
+  youll:0.14
+  referred:0.14
+  account:0.14
+  temporary:0.14
+
+Topic 1:
+  silkkitie:0.14
+  jep:0.14
+  adminn:0.14
+  speek:0.14
+  market:0.14
+  lose:0.14
+  bitcoins:0.14
+  accound:0.14
+  user:0.14
+  wher:0.14
+
+Topic 2:
+  referred:0.14
+  temporary:0.14
+  quote:0.14
+  msg:0.14
+  muumi:0.14
+  youll:0.14
+  luck:0.14
+  account:0.14
+  october:0.14
+  send:0.14
+
+Topic 3:
+  user:0.14
+  wher:0.14
+  hey:0.14
+  bitcoins:0.14
+  dont:0.14
+  speek:0.14
+  lose:0.14
+  adminn:0.14
+  jep:0.14
+  market:0.14
+
+Topic 4:
+  user:0.14
+  hey:0.14
+  speek:0.14
+  silkkitie:0.14
+  bitcoins:0.14
+  accound:0.14
+  lose:0.14
+  dont:0.14
+  wher:0.14
+  jep:0.14
+
+K: 5, Log-Likelihood: -64.320, Alpha: 11.000, Beta: 1.100

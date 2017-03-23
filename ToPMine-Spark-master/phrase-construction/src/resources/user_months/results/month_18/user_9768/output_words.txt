@@ -1,0 +1,61 @@
+Topic 0:
+  tor:7.16
+  port:6.73
+  connect:5.64
+  pray:3.44
+  server:3.01
+  pidgin:2.84
+  tab:2.11
+  sillywabbit:2.03
+  settings:1.91
+  browser:1.90
+
+Topic 1:
+  irc:6.36
+  cost:5.64
+  server:4.43
+  stuff:4.14
+  site:4.07
+  missed:3.59
+  traveling:3.57
+  thread:3.57
+  stores:3.57
+  start:3.55
+
+Topic 2:
+  settings:12.66
+  tor:11.43
+  port:7.29
+  browser:6.57
+  pidgin:6.22
+  connect:5.37
+  version:5.07
+  pray:5.03
+  socks:4.24
+  os:3.37
+
+Topic 3:
+  password:10.32
+  port:8.55
+  sillywabbit:7.32
+  onion:6.98
+  jsga:6.98
+  surname:6.90
+  gaf:6.89
+  rm:6.85
+  account:6.83
+  service:6.82
+
+Topic 4:
+  settings:4.83
+  connect:3.73
+  tor:3.07
+  port:3.02
+  browser:2.97
+  pray:2.76
+  pidgin:2.57
+  good:2.52
+  response:2.02
+  quote:1.49
+
+K: 5, Log-Likelihood: -2835.674, Alpha: 11.000, Beta: 1.100

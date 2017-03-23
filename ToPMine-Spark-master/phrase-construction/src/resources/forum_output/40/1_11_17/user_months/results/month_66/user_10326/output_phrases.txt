@@ -1,0 +1,61 @@
+Topic 0:
+  vpn:0.28
+  kinds:0.28
+  tor:0.23
+  dont:0.14
+  node:0.14
+  complicated:0.14
+  open:0.14
+  great:0.14
+  encrypted:0.14
+  options:0.14
+
+Topic 1:
+  kinds:0.28
+  vpn:0.28
+  tor:0.23
+  combinations:0.14
+  depends:0.14
+  opinions:0.14
+  threat:0.14
+  afterall:0.14
+  approaches:0.14
+  model:0.14
+
+Topic 2:
+  vpn:0.28
+  kinds:0.28
+  tor:0.23
+  work:0.14
+  totally:0.14
+  type:0.14
+  throuh:0.14
+  wrong:0.14
+  thought:0.14
+  fully:0.14
+
+Topic 3:
+  kinds:0.28
+  vpn:0.28
+  tor:0.23
+  good:0.14
+  opinions:0.14
+  points:0.14
+  afterall:0.14
+  model:0.14
+  bad:0.14
+  approaches:0.14
+
+Topic 4:
+  vpn:0.28
+  kinds:0.28
+  tor:0.23
+  totally:0.14
+  work:0.14
+  great:0.14
+  traffic:0.14
+  scenario:0.14
+  type:0.14
+  ideal:0.14
+
+K: 5, Log-Likelihood: -110.505, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  machine:18.55
+  boot:15.23
+  os:14.39
+  main:9.13
+  write:8.60
+  sdb:7.80
+  march:7.08
+  secure:6.97
+  writeblocker:6.87
+  encrypted:6.47
+
+Topic 1:
+  tor:15.67
+  tails:10.41
+  dont:9.74
+  safe:9.51
+  os:7.93
+  tracking:7.90
+  installation:7.76
+  parameters:7.57
+  installer:7.57
+  good:6.90
+
+Topic 2:
+  boot:22.00
+  fde:14.16
+  partition:6.77
+  key:6.12
+  case:5.82
+  files:5.51
+  wondering:5.42
+  plug:5.26
+  bit:5.21
+  laptop:4.82
+
+Topic 3:
+  thing:12.18
+  good:10.28
+  ethernet:9.90
+  mac:9.88
+  wifi:9.62
+  dont:9.57
+  nice:8.14
+  hardware:7.51
+  nasty:7.39
+  stuff:7.06
+
+Topic 4:
+  random:12.79
+  default:12.71
+  luks:10.25
+  time:10.10
+  problem:9.34
+  aes:8.76
+  vpn:8.47
+  point:8.23
+  amd:8.22
+  option:7.92
+
+K: 5, Log-Likelihood: -23165.732, Alpha: 11.000, Beta: 1.100

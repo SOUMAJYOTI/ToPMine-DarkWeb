@@ -1,0 +1,61 @@
+Topic 0:
+  send encrypted:1.26
+  active:0.56
+  hesitate:0.56
+  questions:0.55
+  thread:0.55
+  anthony:0.55
+  vendor:0.55
+  payment:0.55
+  order:0.55
+  vendors:0.55
+
+Topic 1:
+  send encrypted:0.87
+  nerd:0.43
+  computer:0.43
+  sake:0.43
+  purchasing:0.42
+  standard:0.42
+  read:0.42
+  vendor:0.42
+  offers:0.42
+  unreliable:0.42
+
+Topic 2:
+  advise:0.85
+  create:0.85
+  bit:0.84
+  private:0.84
+  learn:0.84
+  send:0.84
+  secure:0.84
+  darknet:0.84
+  gnupg:0.84
+  key:0.84
+
+Topic 3:
+  send encrypted:0.81
+  purchasing:0.45
+  sake:0.45
+  god:0.45
+  unreliable:0.45
+  nerd:0.45
+  computer:0.44
+  messages:0.42
+  read:0.42
+  board:0.42
+
+Topic 4:
+  send encrypted:0.76
+  computer:0.47
+  unreliable:0.47
+  god:0.47
+  nerd:0.47
+  purchasing:0.47
+  sake:0.47
+  usual:0.42
+  start:0.42
+  messages:0.41
+
+K: 5, Log-Likelihood: -396.242, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  mining:1.19
+  set:0.54
+  market:0.54
+  money:0.53
+  power:0.40
+  trading:0.38
+  btc:0.38
+  profitable:0.32
+  cpu:0.27
+  sports:0.25
+
+Topic 1:
+  mining:1.14
+  profitable:0.42
+  cpu:0.42
+  power:0.42
+  btc:0.41
+  trading:0.38
+  market:0.37
+  money:0.37
+  set:0.37
+  idea:0.21
+
+Topic 2:
+  mining:1.17
+  btc:0.41
+  trading:0.41
+  power:0.40
+  profitable:0.40
+  market:0.39
+  set:0.39
+  money:0.39
+  cpu:0.36
+  mine:0.20
+
+Topic 3:
+  mining:1.21
+  money:0.47
+  set:0.47
+  market:0.46
+  trading:0.41
+  btc:0.41
+  power:0.39
+  profitable:0.35
+  cpu:0.29
+  fortune:0.22
+
+Topic 4:
+  mining:1.30
+  cpu:0.66
+  profitable:0.51
+  trading:0.43
+  power:0.40
+  btc:0.40
+  altcoins:0.28
+  free:0.28
+  bytecoins:0.28
+  dollar:0.28
+
+K: 5, Log-Likelihood: -443.993, Alpha: 11.000, Beta: 1.100

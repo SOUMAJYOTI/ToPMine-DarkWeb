@@ -1,0 +1,61 @@
+Topic 0:
+  invitation:0.16
+  dont:0.16
+  thread:0.16
+  st:0.08
+  silkkitie:0.08
+  nice:0.08
+  ur:0.08
+  parade:0.08
+  bonus:0.08
+  code:0.08
+
+Topic 1:
+  thread:0.16
+  invitation:0.16
+  dont:0.16
+  inappropriate:0.08
+  imho:0.08
+  love:0.08
+  place:0.08
+  market:0.08
+  places:0.08
+  spam:0.08
+
+Topic 2:
+  thread:0.16
+  dont:0.16
+  invitation:0.16
+  link:0.08
+  imho:0.08
+  market:0.08
+  original:0.08
+  spam:0.08
+  support:0.08
+  love:0.08
+
+Topic 3:
+  invitation:0.16
+  dont:0.16
+  thread:0.16
+  access:0.08
+  years:0.08
+  purchase:0.08
+  ur:0.08
+  parade:0.08
+  upgraded:0.08
+  general:0.08
+
+Topic 4:
+  dont:0.16
+  thread:0.16
+  invitation:0.16
+  market:0.08
+  places:0.08
+  support:0.08
+  original:0.08
+  spam:0.08
+  link:0.08
+  love:0.08
+
+K: 5, Log-Likelihood: -40.016, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  markets:11.77
+  sr:10.22
+  good:10.17
+  dont:7.83
+  trusted:5.86
+  orders:5.85
+  market:4.94
+  grow:4.33
+  minutes:4.23
+  site:3.79
+
+Topic 1:
+  option:8.42
+  impressed:8.29
+  bsm:7.89
+  partial:6.82
+  release:4.69
+  time:4.23
+  deposit:3.71
+  escrow:3.34
+  order:3.25
+  yea:3.06
+
+Topic 2:
+  release:14.60
+  escrow:10.57
+  partial:8.82
+  funds:5.92
+  order:5.51
+  rest:5.01
+  product:4.77
+  yea:4.73
+  vendors:4.50
+  bsm:4.18
+
+Topic 3:
+  time:6.36
+  payment:4.78
+  support:4.38
+  bsm:3.68
+  site:3.67
+  system:3.56
+  auto:2.90
+  march:2.63
+  tumbling:2.50
+  security:2.03
+
+Topic 4:
+  fe:20.81
+  escrow:18.47
+  trust:18.40
+  vendor:17.68
+  buyer:7.58
+  market:7.43
+  risks:7.35
+  buyers:7.23
+  road:6.65
+  silk:6.65
+
+K: 5, Log-Likelihood: -6010.922, Alpha: 11.000, Beta: 1.100

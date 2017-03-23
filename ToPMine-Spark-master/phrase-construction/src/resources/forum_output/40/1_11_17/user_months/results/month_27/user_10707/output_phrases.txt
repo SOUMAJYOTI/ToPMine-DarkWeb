@@ -1,0 +1,61 @@
+Topic 0:
+  person:0.37
+  passport:0.20
+  alive:0.18
+  deal:0.18
+  parties:0.18
+  patience:0.18
+  licence:0.18
+  worth:0.18
+  obtaining:0.18
+  considerable:0.18
+
+Topic 1:
+  person:0.36
+  passport:0.20
+  find:0.18
+  hard:0.18
+  motherfuckers:0.18
+  good:0.18
+  offer:0.18
+  quality:0.18
+  offline:0.18
+  finally:0.18
+
+Topic 2:
+  person:0.37
+  passport:0.20
+  childhood:0.18
+  deal:0.18
+  coordinate:0.18
+  uncontrolled:0.18
+  money:0.18
+  fail:0.18
+  independent:0.18
+  situation:0.18
+
+Topic 3:
+  person:0.36
+  passport:0.20
+  good:0.18
+  hard:0.18
+  offer:0.18
+  motherfuckers:0.18
+  quality:0.18
+  find:0.18
+  offline:0.18
+  finally:0.18
+
+Topic 4:
+  person:0.37
+  passport:0.20
+  impossible:0.18
+  neurological:0.18
+  seizures:0.18
+  identity:0.18
+  considerable:0.18
+  money:0.18
+  pay:0.18
+  elses:0.18
+
+K: 5, Log-Likelihood: -138.983, Alpha: 11.000, Beta: 1.100

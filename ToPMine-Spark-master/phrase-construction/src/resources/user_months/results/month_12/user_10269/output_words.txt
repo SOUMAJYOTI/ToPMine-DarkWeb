@@ -1,0 +1,61 @@
+Topic 0:
+  weight:6.09
+  water:4.62
+  monday:4.38
+  eat:3.75
+  fat:3.37
+  people:3.32
+  lose:3.04
+  loss:2.70
+  sibutramine:2.65
+  mcg:2.40
+
+Topic 1:
+  weight:9.05
+  day:8.32
+  eat:5.01
+  nuts:3.82
+  mcg:3.50
+  fat:3.41
+  monday:3.31
+  sibutramine:3.17
+  water:3.11
+  loss:3.06
+
+Topic 2:
+  thread:3.71
+  quote:1.80
+  flaxceed:1.79
+  grand:1.79
+  stickied:1.78
+  traffic:1.78
+  feeling:1.78
+  buyers:1.69
+  real:1.68
+  dr:1.68
+
+Topic 3:
+  flax:30.96
+  capsules:6.96
+  appetite:6.18
+  testosterone:5.96
+  pill:4.10
+  cycle:4.07
+  anti:3.96
+  weight:3.45
+  size:3.05
+  aromatize:2.96
+
+Topic 4:
+  house:1.15
+  people:0.71
+  lose:0.45
+  loss:0.39
+  sibutramine:0.38
+  weight:0.37
+  time:0.34
+  clenbuterol:0.34
+  mcg:0.32
+  day:0.31
+
+K: 5, Log-Likelihood: -4778.085, Alpha: 11.000, Beta: 1.100

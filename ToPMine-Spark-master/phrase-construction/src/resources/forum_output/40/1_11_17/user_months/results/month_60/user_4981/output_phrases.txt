@@ -1,0 +1,61 @@
+Topic 0:
+  real site:1.81
+  links:0.98
+  phishers:0.93
+  person:0.92
+  sites:0.92
+  steal:0.91
+  posting links:0.91
+  mimicking:0.90
+  creates:0.90
+  posting fake:0.90
+
+Topic 1:
+  sammy offering btc type:0.97
+  btc trading:0.97
+  speaking:0.96
+  hmm:0.95
+  links:0.93
+  address:0.84
+  dnstats:0.82
+  phishing:0.77
+  sidebar:0.72
+  reddit:0.72
+
+Topic 2:
+  real site:2.81
+  private:1.23
+  lot:1.23
+  asshole:1.22
+  bitcoins:1.21
+  markets:1.21
+  posted:1.21
+  times:1.20
+  banned:1.20
+  careful:1.20
+
+Topic 3:
+  finding:1.58
+  double:1.58
+  imputable:1.58
+  nucleus:1.58
+  happened:1.58
+  ag:1.58
+  user:1.58
+  learn:1.58
+  lesson:1.58
+  dollars:1.58
+
+Topic 4:
+  cmon:2.28
+  amspeaking:2.28
+  saint:2.28
+  quote:2.28
+  type btc trading:2.28
+  scam:2.27
+  btc dollars:2.27
+  november:2.27
+  circumstance:2.26
+  sammy offering btc:2.26
+
+K: 5, Log-Likelihood: -718.707, Alpha: 11.000, Beta: 1.100

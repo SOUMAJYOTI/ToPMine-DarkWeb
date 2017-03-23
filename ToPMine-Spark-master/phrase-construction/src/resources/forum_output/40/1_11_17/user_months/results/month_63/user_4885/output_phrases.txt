@@ -1,0 +1,61 @@
+Topic 0:
+  network:0.28
+  materials:0.28
+  tracking:0.28
+  read:0.28
+  system:0.23
+  tools:0.17
+  programs:0.17
+  services:0.17
+  platform:0.14
+  addition:0.14
+
+Topic 1:
+  network:0.29
+  tracking:0.27
+  materials:0.27
+  read:0.27
+  system:0.23
+  tools:0.17
+  programs:0.17
+  services:0.17
+  dedicated:0.14
+  created:0.14
+
+Topic 2:
+  network:0.28
+  tracking:0.28
+  materials:0.28
+  read:0.28
+  system:0.23
+  tools:0.17
+  services:0.17
+  programs:0.17
+  anonymisation:0.14
+  sid:0.14
+
+Topic 3:
+  read:0.28
+  materials:0.28
+  tracking:0.28
+  network:0.27
+  system:0.23
+  services:0.17
+  programs:0.17
+  tools:0.17
+  questions remove:0.14
+  hidden:0.14
+
+Topic 4:
+  read:0.28
+  tracking:0.28
+  materials:0.28
+  network:0.27
+  system:0.23
+  programs:0.17
+  services:0.17
+  tools:0.17
+  web:0.14
+  danced:0.14
+
+K: 5, Log-Likelihood: -228.526, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  good:8.66
+  tmg:6.35
+  send:5.30
+  atm:4.95
+  directly:4.52
+  trace:3.94
+  dhl:3.94
+  vendors:3.94
+  time:3.06
+  blond:2.84
+
+Topic 1:
+  bitcoin:12.67
+  business:9.26
+  coins:7.69
+  money:5.85
+  legitimate:5.14
+  addresses:3.69
+  real:3.21
+  send:3.08
+  move:3.06
+  love:2.98
+
+Topic 2:
+  matt:14.70
+  chuck:11.98
+  judge:9.30
+  jim:6.98
+  email:6.16
+  jeff:5.88
+  officers:5.14
+  jeffs:4.98
+  place:4.64
+  story:4.11
+
+Topic 3:
+  super:5.89
+  type:4.90
+  march:4.56
+  quote:4.55
+  lazy:3.89
+  drugs:3.86
+  purchases:3.76
+  knowing:3.67
+  good:3.50
+  amazing:3.40
+
+Topic 4:
+  mail:19.76
+  le:7.18
+  contraband:5.16
+  package:4.95
+  place:4.41
+  delivery:4.06
+  local:4.06
+  politely:3.97
+  carrier:3.97
+  clean:3.19
+
+K: 5, Log-Likelihood: -8153.394, Alpha: 11.000, Beta: 1.100

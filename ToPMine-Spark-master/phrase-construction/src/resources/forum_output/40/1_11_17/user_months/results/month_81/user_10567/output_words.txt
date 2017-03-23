@@ -1,0 +1,61 @@
+Topic 0:
+  smart:16.60
+  funds:15.86
+  customer:15.86
+  contract:12.20
+  moderators:11.87
+  market:8.02
+  based:7.88
+  contracts:7.88
+  deposits:7.87
+  vendor:7.87
+
+Topic 1:
+  dont:2.85
+  crypto:1.88
+  experiment:1.88
+  fuck:1.88
+  ethereum:1.75
+  heard:1.64
+  price:1.61
+  bitcoin:1.54
+  great:1.54
+  coin:1.28
+
+Topic 2:
+  bitcoin:6.34
+  price:4.12
+  gas:2.95
+  solidity:2.95
+  etherium:2.95
+  ethers:1.95
+  language:1.95
+  programming:1.95
+  cryptocurrencies:1.95
+  apps:1.79
+
+Topic 3:
+  ether:10.65
+  dao:7.44
+  issues:5.86
+  btc:5.23
+  things:4.87
+  mine:4.36
+  profitable:4.34
+  bitcoins:3.90
+  quote:3.71
+  profit:3.68
+
+Topic 4:
+  eth:15.22
+  btc:10.34
+  stay:5.84
+  bitcoin:5.37
+  long:4.61
+  june:4.02
+  working:2.93
+  care:2.85
+  advanced:2.85
+  focused:2.85
+
+K: 5, Log-Likelihood: -5916.457, Alpha: 11.000, Beta: 1.100

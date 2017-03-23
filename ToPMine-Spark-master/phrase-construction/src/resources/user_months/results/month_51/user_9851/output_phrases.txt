@@ -1,0 +1,41 @@
+Topic 0:
+  hollandonline:0.00
+  police:0.00
+  probability:0.00
+  good:0.00
+  cashed:0.00
+  coin:0.00
+
+Topic 1:
+  hollandonline:0.00
+  police:0.00
+  probability:0.00
+  good:0.00
+  cashed:0.00
+  coin:0.00
+
+Topic 2:
+  hollandonline:0.00
+  police:0.00
+  probability:0.00
+  good:0.00
+  cashed:0.00
+  coin:0.00
+
+Topic 3:
+  hollandonline:0.00
+  police:0.00
+  probability:0.00
+  good:0.00
+  cashed:0.00
+  coin:0.00
+
+Topic 4:
+  hollandonline:0.00
+  police:0.00
+  probability:0.00
+  good:0.00
+  cashed:0.00
+  coin:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

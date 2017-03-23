@@ -1,0 +1,61 @@
+Topic 0:
+  driver:0.08
+  issue:0.08
+  model:0.08
+  stmore:0.08
+  printer:0.08
+  amso:0.08
+  quote:0.08
+  snacktime:0.08
+  mentioned:0.08
+  reading:0.08
+
+Topic 1:
+  st:0.08
+  amso:0.08
+  mentioned:0.08
+  reading:0.08
+  quote:0.08
+  issue:0.08
+  snacktime:0.08
+  driver:0.08
+  stmore:0.08
+  model:0.08
+
+Topic 2:
+  st:0.08
+  july:0.08
+  issue:0.08
+  snacktime:0.08
+  quote:0.08
+  reading:0.08
+  stmore:0.08
+  mentioned:0.08
+  printer:0.08
+  model:0.08
+
+Topic 3:
+  driver:0.08
+  printer:0.08
+  amso:0.08
+  snacktime:0.08
+  stmore:0.08
+  july:0.08
+  issue:0.08
+  quote:0.08
+  mentioned:0.08
+  model:0.08
+
+Topic 4:
+  model:0.08
+  reading:0.08
+  july:0.08
+  mentioned:0.08
+  snacktime:0.08
+  printer:0.08
+  stmore:0.08
+  quote:0.08
+  driver:0.08
+  st:0.08
+
+K: 5, Log-Likelihood: -15.816, Alpha: 11.000, Beta: 1.100

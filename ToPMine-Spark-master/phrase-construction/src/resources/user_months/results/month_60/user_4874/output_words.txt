@@ -1,0 +1,61 @@
+Topic 0:
+  order:6.66
+  dont:5.72
+  tails:5.49
+  tor:4.71
+  ordering:3.97
+  heard:3.64
+  worry:3.64
+  plan:3.34
+  vb:2.94
+  pgp:2.94
+
+Topic 1:
+  wallet:20.74
+  cash:18.19
+  account:15.88
+  paul:12.27
+  november:12.15
+  deposit:11.83
+  downloaded:11.35
+  bofa:11.22
+  btc:10.31
+  dont:8.98
+
+Topic 2:
+  tor:6.64
+  confused:5.86
+  chrome:5.86
+  bitcoins:5.42
+  feel:4.54
+  coins:4.32
+  dont:4.15
+  bit:3.95
+  coinbase:3.28
+  store:3.26
+
+Topic 3:
+  wallet:15.58
+  good:11.31
+  online:9.33
+  safety:7.86
+  blockchain:7.13
+  question:4.66
+  feel:4.42
+  free:3.86
+  search:3.86
+  happy:3.86
+
+Topic 4:
+  buy:17.85
+  tor:16.40
+  coinbase:11.51
+  transfer:9.96
+  account:8.96
+  bank:7.89
+  bitcoins:6.83
+  wallet:6.07
+  browser:5.89
+  bitin:5.89
+
+K: 5, Log-Likelihood: -4920.397, Alpha: 11.000, Beta: 1.100

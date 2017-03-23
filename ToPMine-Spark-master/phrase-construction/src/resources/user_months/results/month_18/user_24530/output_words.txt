@@ -1,0 +1,61 @@
+Topic 0:
+  timezone:1.13
+  time:1.12
+  vibes:0.99
+  positive:0.99
+  est:0.81
+  hand:0.75
+  quote:0.70
+  sillywabbit:0.68
+  love:0.62
+  set:0.62
+
+Topic 1:
+  clock:4.24
+  forum:3.77
+  time:2.63
+  july:2.19
+  settings:1.41
+  offset:1.39
+  awhile:1.31
+  sync:1.30
+  header:1.30
+  modified:1.29
+
+Topic 2:
+  remember:2.90
+  life:2.90
+  light:2.13
+  man:1.90
+  lsd:1.90
+  stick:1.90
+  worth:1.90
+  people:1.31
+  times:0.95
+  great:0.95
+
+Topic 3:
+  love:5.84
+  healing:4.72
+  ootp:3.22
+  brother:1.86
+  prayers:1.49
+  send:1.44
+  sunday:1.44
+  pm:1.44
+  evening:1.43
+  suggesting:1.43
+
+Topic 4:
+  est:2.63
+  time:2.59
+  set:1.32
+  july:1.31
+  clock:1.31
+  profile:1.27
+  quote:1.18
+  sillywabbit:1.15
+  offset:1.12
+  settings:1.10
+
+K: 5, Log-Likelihood: -1246.511, Alpha: 11.000, Beta: 1.100

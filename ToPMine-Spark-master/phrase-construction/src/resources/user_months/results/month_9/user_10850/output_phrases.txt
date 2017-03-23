@@ -1,0 +1,61 @@
+Topic 0:
+  dev ada:0.58
+  eli:0.37
+  user:0.28
+  partition:0.27
+  tor:0.22
+  tmp:0.22
+  permissions:0.22
+  things:0.18
+  geli:0.18
+  drive:0.18
+
+Topic 1:
+  dev ada:0.61
+  eli:0.38
+  partition:0.28
+  user:0.28
+  permissions:0.21
+  tmp:0.21
+  tor:0.21
+  encrypt:0.18
+  lines:0.18
+  encryption:0.18
+
+Topic 2:
+  dev ada:0.44
+  user:0.34
+  eli:0.30
+  permissions:0.25
+  tmp:0.25
+  tor:0.25
+  partition:0.23
+  cp tmp:0.17
+  torre:0.17
+  chmod:0.17
+
+Topic 3:
+  dev ada:0.44
+  user:0.34
+  eli:0.30
+  tmp:0.25
+  tor:0.25
+  permissions:0.25
+  partition:0.23
+  torre:0.17
+  default:0.17
+  libevent:0.17
+
+Topic 4:
+  user:0.38
+  dev ada:0.36
+  tor:0.28
+  permissions:0.28
+  tmp:0.28
+  eli:0.26
+  partition:0.20
+  install:0.18
+  write:0.18
+  tor torrc:0.18
+
+K: 5, Log-Likelihood: -423.711, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  btc:4.23
+  change:2.03
+  stimulate:1.97
+  permit:1.97
+  opinion:1.97
+  trade:1.97
+  offering:1.97
+  find:1.97
+  abraham:1.97
+  didn:1.97
+
+Topic 1:
+  decentralized:4.10
+  network:4.10
+  masternode:4.10
+  cash:4.10
+  hope people transactions safely:3.70
+  mixing capabilities network:3.69
+  cost centralization worth risk:3.68
+  dash adds special bitcoin:3.68
+  pops july pmquote:3.68
+  dash endless list features:3.68
+
+Topic 2:
+  galaxy:2.68
+  hidden:2.00
+  digitalcash:2.00
+  dash darkcoin:2.00
+  rule:2.00
+  general:2.00
+  media:2.00
+  interested:2.00
+  wiki:2.00
+  homework:2.00
+
+Topic 3:
+  easily tor taint coins:3.70
+  learned exchange fine question:3.69
+  wrong:3.08
+  thread:3.08
+  vendor:2.89
+  quote:2.84
+  ignore:1.99
+  darksand:1.99
+  noon:1.99
+  offer:1.99
+
+Topic 4:
+  monero:13.00
+  masternodes:12.32
+  privacy:10.25
+  issues:8.16
+  zkp:6.10
+  ring signature:6.10
+  academy:6.08
+  ring:6.07
+  time:6.07
+  large:6.07
+
+K: 5, Log-Likelihood: -7787.678, Alpha: 11.000, Beta: 1.100

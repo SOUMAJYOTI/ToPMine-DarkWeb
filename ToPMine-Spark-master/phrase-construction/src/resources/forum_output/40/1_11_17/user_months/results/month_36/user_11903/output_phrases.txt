@@ -1,0 +1,61 @@
+Topic 0:
+  wait:1.95
+  house:1.94
+  pmi:1.94
+  isnt:1.94
+  gregory:1.93
+  march:1.76
+  quote:1.53
+  marketplace:1.52
+  ssshhhhhhhhhhhhhh:1.38
+  places lol:1.38
+
+Topic 1:
+  vendor search:5.03
+  vendor:3.32
+  post:3.32
+  evolution:3.32
+  el:1.62
+  suffice:1.62
+  exit:1.62
+  presidentes:1.62
+  verified:1.62
+  scamming:1.62
+
+Topic 2:
+  le:7.24
+  hub:3.43
+  heavily:2.21
+  mod:2.21
+  directly:2.20
+  biggest:2.20
+  abandon:2.20
+  aka:2.20
+  shame:2.20
+  idiots:2.20
+
+Topic 3:
+  march:1.92
+  genuinely starting people:1.20
+  market places lol:1.19
+  quote:1.14
+  marketplace:0.83
+  focused:0.77
+  drugs:0.76
+  great:0.70
+  hub:0.64
+  alfred dark net:0.59
+
+Topic 4:
+  forum:3.91
+  market:3.32
+  register:3.32
+  answer:3.32
+  invited:3.32
+  free:3.32
+  account:3.32
+  key:3.32
+  messages:3.32
+  encrypt:3.32
+
+K: 5, Log-Likelihood: -1583.410, Alpha: 11.000, Beta: 1.100

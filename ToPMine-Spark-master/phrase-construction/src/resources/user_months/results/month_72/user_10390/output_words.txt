@@ -1,0 +1,61 @@
+Topic 0:
+  fuck:1.94
+  markets:1.76
+  hill:1.74
+  place:1.66
+  january:1.25
+  tang:1.16
+  avon:1.11
+  quote:1.07
+  amquote:0.89
+  twat:0.84
+
+Topic 1:
+  people:2.27
+  phishing:2.04
+  link:1.96
+  january:1.73
+  quote:1.34
+  avon:1.33
+  amthe:1.07
+  jaxx:0.69
+  curiousity:0.68
+  hill:0.60
+
+Topic 2:
+  hill:1.97
+  place:1.86
+  markets:1.77
+  fuck:1.53
+  january:1.16
+  tang:1.15
+  quote:1.01
+  avon:0.96
+  amquote:0.86
+  pmi:0.84
+
+Topic 3:
+  quote:1.29
+  january:1.28
+  people:1.24
+  avon:1.22
+  place:1.08
+  fuck:1.03
+  markets:1.00
+  phishing:0.91
+  hill:0.91
+  link:0.90
+
+Topic 4:
+  january:1.58
+  people:1.48
+  avon:1.37
+  quote:1.29
+  link:1.24
+  phishing:1.18
+  fuck:0.93
+  markets:0.92
+  place:0.83
+  hill:0.78
+
+K: 5, Log-Likelihood: -735.267, Alpha: 11.000, Beta: 1.100

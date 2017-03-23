@@ -1,0 +1,31 @@
+Topic 0:
+  cardersbay:0.20
+  prettysure:0.20
+  scammers:0.20
+  ru:0.20
+
+Topic 1:
+  cardersbay:0.20
+  scammers:0.20
+  prettysure:0.20
+  ru:0.20
+
+Topic 2:
+  ru:0.20
+  scammers:0.20
+  cardersbay:0.20
+  prettysure:0.20
+
+Topic 3:
+  ru:0.20
+  prettysure:0.20
+  scammers:0.20
+  cardersbay:0.20
+
+Topic 4:
+  scammers:0.20
+  prettysure:0.20
+  cardersbay:0.20
+  ru:0.20
+
+K: 5, Log-Likelihood: -5.545, Alpha: 11.000, Beta: 1.100

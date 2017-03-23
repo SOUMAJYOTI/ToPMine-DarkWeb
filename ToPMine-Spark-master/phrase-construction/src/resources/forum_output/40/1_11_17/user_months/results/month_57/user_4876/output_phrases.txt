@@ -1,0 +1,61 @@
+Topic 0:
+  shouldn:0.08
+  shouldnt:0.08
+  server:0.00
+  capabilities:0.00
+  reasons:0.00
+  allowing:0.00
+  users:0.00
+  overload:0.00
+  figuring:0.00
+  stealing:0.00
+
+Topic 1:
+  shouldnt:0.08
+  shouldn:0.08
+  server:0.00
+  capabilities:0.00
+  reasons:0.00
+  allowing:0.00
+  users:0.00
+  overload:0.00
+  figuring:0.00
+  stealing:0.00
+
+Topic 2:
+  shouldn:0.08
+  shouldnt:0.08
+  server:0.00
+  capabilities:0.00
+  reasons:0.00
+  allowing:0.00
+  users:0.00
+  overload:0.00
+  figuring:0.00
+  stealing:0.00
+
+Topic 3:
+  shouldn:0.08
+  shouldnt:0.08
+  server:0.00
+  capabilities:0.00
+  reasons:0.00
+  allowing:0.00
+  users:0.00
+  overload:0.00
+  figuring:0.00
+  stealing:0.00
+
+Topic 4:
+  shouldnt:0.08
+  shouldn:0.08
+  server:0.00
+  capabilities:0.00
+  reasons:0.00
+  allowing:0.00
+  users:0.00
+  overload:0.00
+  figuring:0.00
+  stealing:0.00
+
+K: 5, Log-Likelihood: -2.083, Alpha: 11.000, Beta: 1.100

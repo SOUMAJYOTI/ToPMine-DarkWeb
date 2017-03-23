@@ -1,0 +1,61 @@
+Topic 0:
+  levels:0.69
+  advice:0.67
+  send:0.59
+  tumbler:0.48
+  coin:0.41
+  thoughts:0.38
+  putting:0.38
+  guide:0.38
+  btc:0.38
+  points:0.38
+
+Topic 1:
+  levels:0.78
+  advice:0.78
+  tumbler:0.55
+  send:0.54
+  coin:0.39
+  question:0.37
+  grasp:0.37
+  differ:0.37
+  fully:0.37
+  ways people:0.37
+
+Topic 2:
+  levels:0.73
+  advice:0.73
+  send:0.63
+  tumbler:0.54
+  coin:0.43
+  idea:0.36
+  security:0.36
+  hard:0.36
+  sort:0.36
+  ease:0.36
+
+Topic 3:
+  send:0.83
+  coin:0.67
+  advice:0.55
+  levels:0.53
+  tumbler:0.50
+  blockchain:0.38
+  guide:0.34
+  anonymity:0.34
+  points:0.34
+  consideration:0.34
+
+Topic 4:
+  send:0.80
+  advice:0.67
+  levels:0.65
+  coin:0.60
+  tumbler:0.44
+  blockchain:0.35
+  tech:0.33
+  sort:0.33
+  ways people:0.33
+  idea:0.33
+
+K: 5, Log-Likelihood: -358.507, Alpha: 11.000, Beta: 1.100

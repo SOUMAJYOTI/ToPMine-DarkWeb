@@ -1,0 +1,61 @@
+Topic 0:
+  oikein:1.62
+  kun:1.55
+  hoiti:0.72
+  tuli:0.72
+  alkuun:0.72
+  lamb:0.72
+  minulla:0.72
+  sama:0.72
+  coinit:0.72
+  vaikka:0.72
+
+Topic 1:
+  kun:0.77
+  oikein:0.71
+  saa:0.67
+  mutta:0.43
+  clos vai:0.43
+  btc:0.43
+  etsinyt:0.41
+  siirto:0.41
+  voisiko:0.41
+  thehub:0.41
+
+Topic 2:
+  rahojen:2.29
+  tarkoittaa:1.05
+  mccl:1.05
+  sullen:1.05
+  piti:1.05
+  jolla:1.05
+  toimi:1.05
+  sanansa:1.05
+  lupasin:1.05
+  kuitata:1.05
+
+Topic 3:
+  osa:2.08
+  summan:0.89
+  eiv:0.89
+  silkkitielt:0.89
+  siirt:0.89
+  rahoja:0.89
+  pieni:0.89
+  kuin:0.89
+  tapahtunut:0.89
+  ei viel:0.89
+
+Topic 4:
+  osa:0.92
+  tulossa:0.51
+  asiakkaista:0.51
+  saanut:0.51
+  yll:0.51
+  koska:0.51
+  tein:0.51
+  tililleen:0.51
+  kin:0.51
+  siirt clos:0.51
+
+K: 5, Log-Likelihood: -1045.345, Alpha: 11.000, Beta: 1.100

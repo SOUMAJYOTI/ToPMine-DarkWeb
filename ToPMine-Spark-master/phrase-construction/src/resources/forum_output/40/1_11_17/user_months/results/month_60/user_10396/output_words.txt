@@ -1,0 +1,61 @@
+Topic 0:
+  safe:2.74
+  exit:2.48
+  scam:2.18
+  november:1.95
+  quote:1.41
+  confirmed:1.32
+  coming:1.28
+  likelihood:1.22
+  coin:1.06
+  heavily:1.05
+
+Topic 1:
+  good:2.99
+  exit:1.56
+  november:1.47
+  scam:1.45
+  find:1.44
+  grams:1.43
+  vendors:1.43
+  quote:1.09
+  lost:1.04
+  direct:0.76
+
+Topic 2:
+  november:3.76
+  exit:3.03
+  scam:3.02
+  good:1.76
+  quote:1.62
+  likelihood:1.41
+  dodongo:1.16
+  everyday:1.04
+  diminishes:1.01
+  irl:1.01
+
+Topic 3:
+  scam:3.97
+  exit:3.57
+  november:3.27
+  quote:2.08
+  safe:1.84
+  likelihood:1.61
+  dodongo:1.17
+  confirmed:0.97
+  coming:0.95
+  counts:0.81
+
+Topic 4:
+  november:2.55
+  scam:2.38
+  exit:2.36
+  quote:1.80
+  good:1.61
+  lost:1.54
+  likelihood:1.11
+  dodongo:1.05
+  louder:1.01
+  funny:0.94
+
+K: 5, Log-Likelihood: -1271.010, Alpha: 11.000, Beta: 1.100

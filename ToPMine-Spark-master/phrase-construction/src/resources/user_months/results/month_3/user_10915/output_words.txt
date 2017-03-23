@@ -1,0 +1,61 @@
+Topic 0:
+  posts:2.11
+  paid:0.85
+  reddit:0.79
+  post:0.58
+  suddenly:0.57
+  longer:0.57
+  mods:0.57
+  hell:0.57
+  tmps:0.57
+  mutlsig:0.57
+
+Topic 1:
+  whyusheep:2.82
+  post:2.68
+  spreading:1.82
+  reddit:1.33
+  sound:0.87
+  details:0.84
+  conspiracy:0.84
+  fud:0.84
+  theory:0.84
+  false:0.84
+
+Topic 2:
+  btc:1.32
+  sig:1.20
+  multi:1.17
+  escrow:1.07
+  xss:0.97
+  wallet:0.97
+  market:0.88
+  trust:0.87
+  operator:0.87
+  account:0.85
+
+Topic 3:
+  listed:0.64
+  reddit:0.45
+  sig:0.43
+  paid:0.43
+  btc:0.43
+  wallet:0.43
+  xss:0.42
+  multi:0.41
+  escrow:0.41
+  site:0.38
+
+Topic 4:
+  sig:3.13
+  btc:3.01
+  xss:2.39
+  wallet:2.37
+  escrow:2.29
+  multi:2.19
+  key:1.58
+  site:1.57
+  account:1.57
+  operator:1.55
+
+K: 5, Log-Likelihood: -1124.089, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  apt:2.44
+  committed:2.44
+  matter:2.44
+  things:2.44
+  arrest:2.44
+  drugs:2.44
+  lot:2.44
+  house:2.44
+  evidence:2.44
+  allowed:2.44
+
+Topic 1:
+  sick:2.40
+  user:2.40
+  town:2.40
+  le:1.28
+  undercover:1.15
+  gain:1.15
+  problems:1.15
+  called:1.15
+  offer:1.15
+  trust:1.15
+
+Topic 2:
+  people:3.09
+  emmet:2.98
+  jabber:1.89
+  forum:1.88
+  august:1.87
+  post:1.87
+  discussion:1.84
+  visit:1.83
+  posting:1.83
+  hosted:1.82
+
+Topic 3:
+  people:1.87
+  hub:0.81
+  dont:0.73
+  emmet:0.73
+  law:0.69
+  logged:0.67
+  pmquote:0.66
+  reddit:0.65
+  hosted:0.63
+  posting:0.63
+
+Topic 4:
+  sign:3.69
+  cops bust:2.44
+  friend:2.44
+  buy:2.44
+  years:1.90
+  customers:1.34
+  informers:1.34
+  cooperate:1.19
+  introduce:1.19
+  meet:1.19
+
+K: 5, Log-Likelihood: -1849.915, Alpha: 11.000, Beta: 1.100

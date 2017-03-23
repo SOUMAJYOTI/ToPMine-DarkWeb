@@ -1,0 +1,61 @@
+Topic 0:
+  goods:0.20
+  link:0.20
+  finally:0.20
+  advertise:0.20
+  verified:0.20
+  jack:0.20
+  captain:0.20
+  marketplace:0.20
+  wait:0.20
+  vendor:0.20
+
+Topic 1:
+  goods:0.20
+  jack:0.20
+  vendor:0.20
+  captain:0.20
+  verified:0.20
+  marketplace:0.20
+  wait:0.20
+  finally:0.20
+  advertise:0.20
+  link:0.20
+
+Topic 2:
+  advertise:0.20
+  captain:0.20
+  wait:0.20
+  verified:0.20
+  link:0.20
+  vendor:0.20
+  marketplace:0.20
+  finally:0.20
+  jack:0.20
+  goods:0.20
+
+Topic 3:
+  finally:0.20
+  link:0.20
+  marketplace:0.20
+  jack:0.20
+  goods:0.20
+  wait:0.20
+  verified:0.20
+  vendor:0.20
+  advertise:0.20
+  captain:0.20
+
+Topic 4:
+  vendor:0.20
+  wait:0.20
+  advertise:0.20
+  captain:0.20
+  verified:0.20
+  marketplace:0.20
+  finally:0.20
+  link:0.20
+  goods:0.20
+  jack:0.20
+
+K: 5, Log-Likelihood: -23.026, Alpha: 11.000, Beta: 1.100

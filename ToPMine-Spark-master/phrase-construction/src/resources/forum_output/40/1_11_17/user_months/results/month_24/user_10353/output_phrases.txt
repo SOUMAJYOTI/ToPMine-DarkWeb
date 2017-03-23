@@ -1,0 +1,61 @@
+Topic 0:
+  pirate market:3.57
+  deepweb:1.61
+  thread:1.61
+  real:1.61
+  dont:1.61
+  purchasing:1.61
+  good:1.61
+  talk:1.61
+  wishes:1.61
+  lol:1.61
+
+Topic 1:
+  correct:1.94
+  agora:1.80
+  scammed:1.72
+  mistake:1.54
+  yep:1.54
+  impatience:1.54
+  stupid:1.54
+  costly:1.54
+  live:1.54
+  guess:1.54
+
+Topic 2:
+  btc:2.13
+  market:2.06
+  thing:1.66
+  happened:1.61
+  pmhey:1.38
+  shifty:1.38
+  sr link:1.38
+  september:1.38
+  adamnev:1.38
+  quote:1.37
+
+Topic 3:
+  btc:3.25
+  incorrect:1.65
+  hidden:1.61
+  edit:1.60
+  knew:1.59
+  assuming:1.59
+  sites:1.59
+  pissed:1.58
+  hadnt:1.58
+  btc silkroad:1.58
+
+Topic 4:
+  links:3.83
+  legitimate:3.47
+  check:2.25
+  hub:2.25
+  careful:2.25
+  paying:2.21
+  attention:2.21
+  learn:1.68
+  doesnt:1.68
+  hard:1.68
+
+K: 5, Log-Likelihood: -1282.791, Alpha: 11.000, Beta: 1.100

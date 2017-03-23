@@ -1,0 +1,61 @@
+Topic 0:
+  talk:0.41
+  lsd:0.38
+  moving:0.37
+  market:0.37
+  sort:0.37
+  find:0.20
+  personal:0.18
+  kilos:0.18
+  disturbance:0.18
+  works:0.18
+
+Topic 1:
+  talk:0.41
+  moving:0.36
+  lsd:0.36
+  market:0.36
+  sort:0.36
+  find:0.21
+  accounts:0.19
+  password:0.19
+  forgot:0.19
+  return:0.19
+
+Topic 2:
+  talk:0.41
+  moving:0.37
+  sort:0.37
+  market:0.37
+  lsd:0.37
+  find:0.20
+  country:0.18
+  holy:0.18
+  time:0.18
+  student:0.18
+
+Topic 3:
+  talk:0.41
+  market:0.37
+  sort:0.37
+  moving:0.37
+  lsd:0.36
+  find:0.20
+  law:0.18
+  read:0.18
+  ergotamine:0.18
+  curious:0.18
+
+Topic 4:
+  talk:0.41
+  sort:0.37
+  market:0.37
+  moving:0.37
+  lsd:0.37
+  find:0.20
+  things:0.18
+  curious:0.18
+  long:0.18
+  student:0.18
+
+K: 5, Log-Likelihood: -248.330, Alpha: 11.000, Beta: 1.100

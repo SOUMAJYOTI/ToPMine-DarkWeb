@@ -1,0 +1,61 @@
+Topic 0:
+  nick:0.44
+  turn:0.28
+  ross:0.28
+  find:0.28
+  culprits:0.28
+  amai:0.28
+  responsible:0.28
+  roll:0.28
+  process:0.28
+  piece:0.28
+
+Topic 1:
+  nick:0.42
+  culprit:0.28
+  amai:0.27
+  culprits:0.27
+  quote:0.27
+  february:0.27
+  piece:0.27
+  ross:0.27
+  responsible:0.27
+  lawyer:0.27
+
+Topic 2:
+  nick:0.45
+  true:0.28
+  identities:0.28
+  word:0.28
+  shits:0.28
+  process:0.28
+  deal:0.28
+  february:0.28
+  roll:0.28
+  admin:0.28
+
+Topic 3:
+  nick:0.45
+  shits:0.28
+  identities:0.28
+  true:0.28
+  admin:0.28
+  find:0.28
+  process:0.28
+  ross:0.28
+  roll:0.28
+  word:0.28
+
+Topic 4:
+  nick:0.44
+  shits:0.28
+  turn:0.28
+  admin:0.28
+  roll:0.28
+  deal:0.28
+  word:0.28
+  piece:0.28
+  find:0.28
+  lawyer:0.28
+
+K: 5, Log-Likelihood: -180.456, Alpha: 11.000, Beta: 1.100

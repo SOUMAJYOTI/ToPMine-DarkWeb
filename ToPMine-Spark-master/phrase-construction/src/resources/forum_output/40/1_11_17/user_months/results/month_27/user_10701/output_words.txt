@@ -1,0 +1,21 @@
+Topic 0:
+  dumb:0.20
+  phone:0.20
+
+Topic 1:
+  phone:0.20
+  dumb:0.20
+
+Topic 2:
+  phone:0.20
+  dumb:0.20
+
+Topic 3:
+  dumb:0.20
+  phone:0.20
+
+Topic 4:
+  dumb:0.20
+  phone:0.20
+
+K: 5, Log-Likelihood: -1.386, Alpha: 11.000, Beta: 1.100

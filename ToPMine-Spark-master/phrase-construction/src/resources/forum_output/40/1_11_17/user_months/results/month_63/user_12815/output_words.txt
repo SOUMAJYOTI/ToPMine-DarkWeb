@@ -1,0 +1,61 @@
+Topic 0:
+  products:1.54
+  market:1.28
+  full:0.88
+  quality:0.80
+  refund:0.79
+  escrow:0.78
+  ship:0.76
+  prices:0.73
+  low:0.59
+  english:0.59
+
+Topic 1:
+  market:2.78
+  products:1.92
+  full:0.95
+  refund:0.84
+  ship:0.84
+  quality:0.82
+  prices:0.81
+  escrow:0.80
+  low:0.65
+  option:0.63
+
+Topic 2:
+  products:2.44
+  market:1.76
+  full:1.06
+  escrow:0.81
+  ship:0.80
+  prices:0.76
+  quality:0.76
+  refund:0.73
+  german:0.62
+  user:0.61
+
+Topic 3:
+  products:2.43
+  market:2.04
+  full:1.01
+  refund:0.84
+  quality:0.82
+  escrow:0.79
+  prices:0.77
+  ship:0.73
+  user:0.62
+  germany:0.61
+
+Topic 4:
+  market:3.14
+  products:2.68
+  full:1.09
+  prices:0.93
+  ship:0.87
+  escrow:0.82
+  quality:0.80
+  refund:0.80
+  offer:0.65
+  note:0.65
+
+K: 5, Log-Likelihood: -1437.905, Alpha: 11.000, Beta: 1.100

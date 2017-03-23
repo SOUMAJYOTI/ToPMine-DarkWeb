@@ -1,0 +1,61 @@
+Topic 0:
+  ways:0.73
+  assuming people:0.69
+  people:0.68
+  hope:0.35
+  totally:0.35
+  things:0.35
+  harm:0.35
+  sense:0.35
+  dark:0.35
+  rule:0.35
+
+Topic 1:
+  assuming people:0.64
+  ways:0.63
+  people:0.63
+  quote:0.36
+  pmwow:0.36
+  rhett:0.36
+  good:0.36
+  cheer:0.36
+  expert:0.36
+  feel:0.36
+
+Topic 2:
+  assuming people:0.72
+  people:0.69
+  ways:0.66
+  revenge:0.35
+  person:0.35
+  primary:0.35
+  opinion:0.35
+  wondering:0.35
+  doxxbin:0.35
+  shocking:0.35
+
+Topic 3:
+  people:0.90
+  ways:0.88
+  assuming people:0.85
+  missed:0.40
+  website:0.40
+  sociopaths:0.40
+  guess:0.40
+  life:0.40
+  harm:0.40
+  post:0.40
+
+Topic 4:
+  assuming people:0.50
+  ways:0.50
+  people:0.50
+  free:0.47
+  ton:0.47
+  spaceyourface:0.47
+  read:0.47
+  cheer:0.47
+  work:0.47
+  tips:0.47
+
+K: 5, Log-Likelihood: -530.345, Alpha: 11.000, Beta: 1.100

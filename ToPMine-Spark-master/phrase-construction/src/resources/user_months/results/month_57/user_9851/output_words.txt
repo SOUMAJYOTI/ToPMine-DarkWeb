@@ -1,0 +1,61 @@
+Topic 0:
+  ho:2.32
+  caught:1.55
+  time:1.24
+  bit:1.17
+  account:1.07
+  coins:0.88
+  car:0.84
+  drugs:0.83
+  suspicious:0.83
+  bags:0.82
+
+Topic 1:
+  ho:3.06
+  caught:1.55
+  bit:1.28
+  time:1.20
+  account:0.98
+  vendor:0.85
+  cars:0.84
+  pills:0.84
+  officer:0.83
+  lawyer:0.83
+
+Topic 2:
+  ho:2.39
+  caught:1.28
+  bit:1.24
+  time:1.21
+  account:0.92
+  led:0.82
+  drugs:0.81
+  vendor:0.81
+  police:0.81
+  cash:0.80
+
+Topic 3:
+  ho:3.35
+  caught:1.44
+  time:1.14
+  bit:1.12
+  account:0.98
+  money:0.86
+  car:0.86
+  au:0.85
+  point:0.84
+  led:0.83
+
+Topic 4:
+  ho:2.88
+  time:1.22
+  bit:1.20
+  caught:1.19
+  account:1.05
+  list:0.88
+  house:0.88
+  cash:0.85
+  police:0.83
+  suspicious:0.82
+
+K: 5, Log-Likelihood: -1685.578, Alpha: 11.000, Beta: 1.100

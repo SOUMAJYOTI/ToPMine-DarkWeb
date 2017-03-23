@@ -1,0 +1,61 @@
+Topic 0:
+  february:0.68
+  thread:0.64
+  weedim:0.63
+  time:0.63
+  mind:0.62
+  read:0.62
+  aethon:0.43
+  walt:0.43
+  pmhi:0.43
+  quote:0.43
+
+Topic 1:
+  thread:0.63
+  mind:0.62
+  time:0.61
+  weedim:0.61
+  read:0.61
+  february:0.58
+  walter:0.40
+  walt:0.40
+  quote:0.40
+  pmhi:0.40
+
+Topic 2:
+  read:0.62
+  weedim:0.61
+  time:0.61
+  mind:0.60
+  thread:0.59
+  february:0.57
+  market:0.40
+  wan:0.40
+  aethon:0.40
+  quote:0.40
+
+Topic 3:
+  weedim:0.57
+  read:0.57
+  mind:0.57
+  time:0.56
+  thread:0.56
+  february:0.55
+  peoples:0.46
+  wan:0.46
+  market:0.46
+  walter:0.38
+
+Topic 4:
+  february:0.62
+  mind:0.59
+  read:0.59
+  time:0.59
+  thread:0.59
+  weedim:0.58
+  peoples:0.40
+  market:0.40
+  aethon:0.40
+  wan:0.40
+
+K: 5, Log-Likelihood: -144.031, Alpha: 11.000, Beta: 1.100

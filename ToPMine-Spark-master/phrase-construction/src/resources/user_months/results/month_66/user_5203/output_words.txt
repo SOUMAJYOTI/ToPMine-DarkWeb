@@ -1,0 +1,61 @@
+Topic 0:
+  markets:6.01
+  list:3.89
+  november:2.93
+  people:2.78
+  market:2.68
+  vendors:2.48
+  grams:2.39
+  reviews:2.26
+  sell:2.25
+  stating:2.24
+
+Topic 1:
+  markets:7.98
+  dont:6.18
+  vendor:6.11
+  direct:5.87
+  vendors:5.65
+  sit:5.54
+  deals:3.62
+  relationship:3.61
+  trust:3.22
+  fact:3.11
+
+Topic 2:
+  vendors:3.83
+  time:3.50
+  markets:3.30
+  vendor:2.24
+  market:1.78
+  direct:1.63
+  email:1.57
+  people:1.52
+  fe:1.44
+  dont:1.28
+
+Topic 3:
+  market:6.99
+  dream:6.03
+  good:4.42
+  nucleus:3.75
+  link:2.94
+  forum:2.94
+  quote:1.84
+  november:1.70
+  markets:1.60
+  guess:1.32
+
+Topic 4:
+  dream:4.97
+  abraxas:4.14
+  market:3.72
+  alpha:3.67
+  november:3.13
+  markets:2.10
+  suspect:2.08
+  simply:2.06
+  longevity:2.04
+  destination:2.03
+
+K: 5, Log-Likelihood: -3470.466, Alpha: 11.000, Beta: 1.100

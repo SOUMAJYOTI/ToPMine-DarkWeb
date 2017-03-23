@@ -12,6 +12,8 @@ import org.apache.spark.mllib.linalg.Matrix;
 import org.apache.spark.mllib.linalg.Vector;
 import org.apache.spark.mllib.linalg.Vectors;
 
+import scala.Tuple2;
+
 import java.io.*;
 import java.util.*;
 
@@ -20,8 +22,8 @@ import java.util.*;
  */
 public final class SparkJob {
     private static final int MAX_LEN_PHRASE = 5;
-    private static final int NUM_TOPICS = 15;
-    private static final int NUM_WORDS_TO_SHOW_FOR_EACH_TOPIC = 50;
+    private static final int NUM_TOPICS = 20;
+    private static final int NUM_WORDS_TO_SHOW_FOR_EACH_TOPIC = 20;
     private static final double LDA_ALPHA = 50/NUM_TOPICS + 1;
     private static final double LDA_BETA = 1.1;
 
@@ -60,19 +62,19 @@ public final class SparkJob {
     }
 
     // SparkJob.runBagOfWordsLDA(javaSparkContext, CORPUS_FILE_PATH, OUTPUT_FILE_PATH + "_words", DICT_FILE_PATH + "_words", STOP_WORDS_FILE_PATH);
-    public static void runBagOfWordsLDA(JavaSparkContext javaSparkContext, String corpusFilePath, String outputFilePath,
-                                        String dictFilePath, String stopWordsFilePath) throws PhraseConstructionException, IOException {
-
-        JavaRDD<String> corpus = javaSparkContext.textFile(corpusFilePath); // TODO: assumption: each line is a document; need to split into sentences
-        Set<String> stopWordsSet = Utility.buildStopWordsSet(stopWordsFilePath);
-        PhraseDictionary phraseDictionary = constructPhraseDictionary(javaSparkContext, new PhraseMiner(stopWordsSet), corpusFilePath);
-        Utility.writeToFile(phraseDictionary, dictFilePath);
-        BagOfWordsConstructor bagOfWordsConstructor = new BagOfWordsConstructor(phraseDictionary, stopWordsSet);
-        JavaRDD<String> bagOfWordsSparseVecStrs = corpus.map(line -> bagOfWordsConstructor.convertDocumentToSparseVecStr(line));
-        bagOfWordsSparseVecStrs = bagOfWordsSparseVecStrs.filter(line -> line.length()>0); // filter out empty sparse vec str
-        JavaRDD<Vector> bagOfWordsSparseVecObjs = bagOfWordsSparseVecStrs.map(line -> convertToSparseVecObj(line, phraseDictionary.getSize()));
-        ldaModeling(bagOfWordsSparseVecObjs, outputFilePath, phraseDictionary);
-    }
+//    public static void runBagOfWordsLDA(JavaSparkContext javaSparkContext, String corpusFilePath, String outputFilePath,
+//                                        String dictFilePath, String stopWordsFilePath) throws PhraseConstructionException, IOException {
+//
+//        JavaRDD<String> corpus = javaSparkContext.textFile(corpusFilePath); // TODO: assumption: each line is a document; need to split into sentences
+//        Set<String> stopWordsSet = Utility.buildStopWordsSet(stopWordsFilePath);
+//        PhraseDictionary phraseDictionary = constructPhraseDictionary(javaSparkContext, new PhraseMiner(stopWordsSet), corpusFilePath);
+//        Utility.writeToFile(phraseDictionary, dictFilePath);
+//        BagOfWordsConstructor bagOfWordsConstructor = new BagOfWordsConstructor(phraseDictionary, stopWordsSet);
+//        JavaRDD<String> bagOfWordsSparseVecStrs = corpus.map(line -> bagOfWordsConstructor.convertDocumentToSparseVecStr(line));
+//        bagOfWordsSparseVecStrs = bagOfWordsSparseVecStrs.filter(line -> line.length()>0); // filter out empty sparse vec str
+//        JavaRDD<Vector> bagOfWordsSparseVecObjs = bagOfWordsSparseVecStrs.map(line -> convertToSparseVecObj(line, phraseDictionary.getSize()));
+//        ldaModeling(bagOfWordsSparseVecObjs, outputFilePath, phraseDictionary);
+//    }
 
     // main method
     public static void runPhraseMining(JavaSparkContext javaSparkContext, String corpusFilePath, String outputFilePath,
@@ -121,9 +123,10 @@ public final class SparkJob {
             // get indices of all length-N (=curr length) phrases
             JavaRDD<Map<Long, List<Integer>>> sentenceIdxToIndicesOfCandidatePhraseCurrLength =
                     idxAndSentence.map(tuple -> phraseMiner.findIndicesOfCandidatePhraseLengthN_ForSentenceIdxS(tuple._2(), tuple._1(), N, sentenceIdxToIndicesOfPhrasePrevLengthTemp, phraseToCountTemp));
-            final Map<Long, List<Integer>> mergedSentenceIdxToIndicesOfCandidatePhraseCurrLength = sentenceIdxToIndicesOfCandidatePhraseCurrLength.reduce((map1, map2) -> mergeIdxMaps(map1, map2));
-
-            // filter out sentences with an empty candidate list
+            
+            	final Map<Long, List<Integer>> mergedSentenceIdxToIndicesOfCandidatePhraseCurrLength = sentenceIdxToIndicesOfCandidatePhraseCurrLength.reduce((map1, map2) -> mergeIdxMaps(map1, map2));
+   
+	            // filter out sentences with an empty candidate list
             idxAndSentence = idxAndSentence.filter(tuple -> mergedSentenceIdxToIndicesOfCandidatePhraseCurrLength.get(tuple._1()).size() > 0);
             if(idxAndSentence.count() == 0) {
                 break;
@@ -138,6 +141,8 @@ public final class SparkJob {
             // update sentenceIdToIndicesOfPhrase
             sentenceIdxToIndicesOfPhrasePrevLength = mergedSentenceIdxToIndicesOfCandidatePhraseCurrLength;
 //            System.out.println(phraseToCount);
+           
+            
         }
 
         return new PhraseDictionary(phraseToCount);
@@ -165,8 +170,17 @@ public final class SparkJob {
         // prepare corpus
         JavaPairRDD<Long, Vector> vectorizedCorpusWithIdx = vectorizedCorpus.zipWithIndex().mapToPair(tuple -> tuple.swap());
         vectorizedCorpusWithIdx.cache(); // persist in memory for iterative process of lda
+//        System.out.println(vectorizedCorpusWithIdx);
+//        
+//        for (Tuple2<Long, Vector> test :vectorizedCorpusWithIdx.collect())
+//        {
+//        	System.out.println("p1");
+//            System.out.println(test._1);
+//            System.out.println("p2");
+//            System.out.println(test._2);
+//       }
 
-        // run lda
+//        // run lda
         DistributedLDAModel ldaModel = (DistributedLDAModel) new LDA().setK(NUM_TOPICS).setAlpha(LDA_ALPHA).setBeta(LDA_BETA).run(vectorizedCorpusWithIdx);
         Matrix topics = ldaModel.topicsMatrix();
 

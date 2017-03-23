@@ -1,0 +1,61 @@
+Topic 0:
+  comment:0.14
+  thread:0.14
+  gods:0.14
+  gdf:0.14
+  goto:0.14
+  noticed:0.14
+  feel:0.14
+  recommend:0.14
+  gd:0.14
+  vendor:0.14
+
+Topic 1:
+  cyclonewatson:0.14
+  blotter:0.14
+  free:0.14
+  goto:0.14
+  vendor:0.14
+  recommend:0.14
+  amis:0.14
+  march:0.14
+  limited:0.14
+  awhile:0.14
+
+Topic 2:
+  amis:0.14
+  membership:0.14
+  quote:0.14
+  march:0.14
+  tells:0.14
+  cyclonewatson:0.14
+  deleted:0.14
+  sad:0.14
+  rules:0.14
+  experience:0.14
+
+Topic 3:
+  free:0.14
+  feel:0.14
+  gd:0.14
+  limited:0.14
+  noticed:0.14
+  delete:0.14
+  awhile:0.14
+  domestic:0.14
+  comment:0.14
+  goto:0.14
+
+Topic 4:
+  tells:0.14
+  blotter:0.14
+  deleted:0.14
+  sad:0.14
+  gdf:0.14
+  vendor:0.14
+  types:0.14
+  thread:0.14
+  awhile:0.14
+  feel:0.14
+
+K: 5, Log-Likelihood: -67.570, Alpha: 11.000, Beta: 1.100

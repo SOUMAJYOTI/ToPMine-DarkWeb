@@ -1,0 +1,61 @@
+Topic 0:
+  dash:0.98
+  january:0.86
+  coin:0.72
+  quote:0.71
+  moon:0.52
+  seedofchaos:0.49
+  eyes:0.46
+  wanted:0.46
+  worthy:0.46
+  coins:0.46
+
+Topic 1:
+  dash:0.91
+  january:0.90
+  quote:0.75
+  coin:0.66
+  moon:0.58
+  seedofchaos:0.54
+  eyes:0.52
+  cryptocurrency:0.44
+  tails:0.44
+  room:0.44
+
+Topic 2:
+  january:1.04
+  moon:1.04
+  quote:0.85
+  eyes:0.69
+  dash:0.68
+  seedofchaos:0.67
+  coin:0.53
+  tang:0.48
+  hodling:0.47
+  paycoins:0.46
+
+Topic 3:
+  january:1.17
+  moon:0.91
+  quote:0.89
+  dash:0.70
+  eyes:0.68
+  seedofchaos:0.63
+  coin:0.54
+  tang:0.47
+  paycoins:0.45
+  hodling:0.45
+
+Topic 4:
+  january:1.03
+  moon:0.94
+  quote:0.80
+  dash:0.73
+  seedofchaos:0.67
+  eyes:0.65
+  coin:0.55
+  tang:0.44
+  paycoins:0.43
+  hodling:0.43
+
+K: 5, Log-Likelihood: -418.516, Alpha: 11.000, Beta: 1.100

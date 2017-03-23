@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:3.37
+  mufti:2.11
+  number:1.82
+  working:1.52
+  copy:1.07
+  doesnt:1.05
+  problem:0.97
+  signature:0.91
+  transaction:0.86
+  signatures:0.84
+
+Topic 1:
+  sign:5.99
+  multisig:3.31
+  client:3.00
+  wallets:2.82
+  bitcoin:2.39
+  transactions:2.25
+  address:2.15
+  addresses:2.15
+  users:2.12
+  transaction:1.88
+
+Topic 2:
+  client:1.55
+  transaction:1.54
+  wallets:1.43
+  sign:1.37
+  multisig:1.32
+  transactions:1.17
+  addresses:1.11
+  address:1.10
+  bitcoin:1.09
+  signature:1.08
+
+Topic 3:
+  sign:3.61
+  wallets:2.88
+  client:2.64
+  multisig:2.49
+  users:2.08
+  addresses:2.02
+  address:2.00
+  transactions:1.89
+  transaction:1.87
+  bitcoin:1.80
+
+Topic 4:
+  wallet:1.40
+  market:1.11
+  transaction:0.85
+  sign:0.83
+  secure:0.79
+  sig:0.78
+  prefer:0.78
+  escrows:0.78
+  standard:0.77
+  signature:0.76
+
+K: 5, Log-Likelihood: -2003.815, Alpha: 11.000, Beta: 1.100

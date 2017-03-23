@@ -1,0 +1,61 @@
+Topic 0:
+  messages:0.98
+  logged:0.61
+  fine:0.54
+  customer:0.47
+  aggravating:0.47
+  long:0.47
+  ugh:0.47
+  hope:0.47
+  market:0.47
+  answer:0.47
+
+Topic 1:
+  ip:0.63
+  messages:0.56
+  local:0.56
+  address:0.40
+  fine:0.40
+  posts:0.39
+  network:0.39
+  computer:0.39
+  torbrowser:0.38
+  logged:0.38
+
+Topic 2:
+  ip:2.90
+  local:1.81
+  torbrowser:1.19
+  computer:1.19
+  network:1.16
+  posts:1.15
+  address:1.14
+  fuck:0.50
+  ip real:0.50
+  post:0.50
+
+Topic 3:
+  ip:1.18
+  local:1.09
+  address:0.72
+  posts:0.71
+  network:0.70
+  torbrowser:0.68
+  computer:0.67
+  navudenas:0.34
+  hub forums:0.34
+  dont:0.34
+
+Topic 4:
+  link:3.29
+  error:0.86
+  fee:0.86
+  agora:0.86
+  referred:0.86
+  purchases:0.86
+  registering:0.86
+  captcha:0.86
+  commision:0.86
+  trick:0.86
+
+K: 5, Log-Likelihood: -480.878, Alpha: 11.000, Beta: 1.100

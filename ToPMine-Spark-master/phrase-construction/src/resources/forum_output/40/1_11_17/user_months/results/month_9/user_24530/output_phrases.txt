@@ -1,0 +1,61 @@
+Topic 0:
+  site:2.37
+  order:2.00
+  jc:1.33
+  donate:1.08
+  threw:0.99
+  amazing:0.95
+  rolling:0.94
+  helping:0.94
+  keeping:0.81
+  promise:0.81
+
+Topic 1:
+  market:2.44
+  agora:1.93
+  orders:1.93
+  coin:1.93
+  fees:1.93
+  coming:1.93
+  business:1.93
+  vendor:1.93
+  paying:1.93
+  godawful:1.93
+
+Topic 2:
+  send:4.05
+  donation:2.75
+  erowid:2.62
+  glass:1.98
+  poetry:1.98
+  good:1.98
+  imagine:1.98
+  prevented:1.98
+  trips:1.98
+  deaths:1.98
+
+Topic 3:
+  love:3.78
+  thankful:3.72
+  site:2.82
+  happen:1.83
+  layers:1.83
+  technology:1.83
+  manifested:1.83
+  toss:1.83
+  grand:1.82
+  brilliant:1.82
+
+Topic 4:
+  site great:1.87
+  future:1.84
+  start donation:1.82
+  offered:1.73
+  thread:1.73
+  wanted:1.73
+  bump:1.73
+  community:1.73
+  love site:1.73
+  great:1.23
+
+K: 5, Log-Likelihood: -1095.839, Alpha: 11.000, Beta: 1.100

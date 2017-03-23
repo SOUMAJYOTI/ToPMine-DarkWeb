@@ -1,0 +1,61 @@
+Topic 0:
+  agora:9.65
+  evo:7.87
+  number:3.50
+  real:2.82
+  isuckmydadsdick:2.82
+  vendor:2.32
+  marketplace:2.31
+  time:2.12
+  reason:1.89
+  dont:1.83
+
+Topic 1:
+  agora:2.55
+  evolution:2.49
+  starting:2.31
+  escrow:2.21
+  evo:2.18
+  support:1.77
+  dont:1.77
+  time:1.64
+  business:1.46
+  start:1.43
+
+Topic 2:
+  requests:8.52
+  people:7.59
+  good:4.69
+  neglected:2.95
+  popular:2.87
+  understand:2.34
+  market:1.88
+  types:1.87
+  darknet:1.87
+  users:1.68
+
+Topic 3:
+  reply:4.68
+  ideas:4.05
+  understand:3.24
+  requests:2.87
+  afghan:2.87
+  text:2.86
+  suggestion:2.80
+  june:2.71
+  nimble:2.63
+  happy:2.14
+
+Topic 4:
+  buyers:6.06
+  sr:5.05
+  markets:4.39
+  liable:3.80
+  takes:2.86
+  evolution:2.80
+  yoshi:2.76
+  majority:2.62
+  agora:2.61
+  dont:2.48
+
+K: 5, Log-Likelihood: -2624.352, Alpha: 11.000, Beta: 1.100

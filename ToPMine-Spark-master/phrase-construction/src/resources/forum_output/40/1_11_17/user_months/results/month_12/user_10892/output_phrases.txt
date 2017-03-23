@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:1.98
+  registrations:1.97
+  tbb:1.97
+  ready:0.90
+  exclusive:0.90
+  launch:0.90
+  days:0.90
+  multisig bazaar:0.90
+  updates:0.90
+  office:0.90
+
+Topic 1:
+  multisig:0.70
+  admit:0.49
+  explanation:0.49
+  markets:0.49
+  read:0.49
+  issues:0.49
+  sir:0.49
+  daunting:0.49
+  multi:0.49
+  claim:0.49
+
+Topic 2:
+  coins:1.94
+  prices:0.87
+  week:0.87
+  add:0.87
+  experimenting:0.87
+  note:0.87
+  tumbling process:0.87
+  cost:0.87
+  encrypting:0.87
+  diligence:0.87
+
+Topic 3:
+  people:1.61
+  process:1.60
+  info:1.60
+  installed:1.60
+  dumpsterbaby:1.60
+  multisig:1.46
+  chose:0.68
+  bitcoinqt:0.68
+  developments:0.68
+  console:0.68
+
+Topic 4:
+  albertquote:0.73
+  acceptance:0.73
+  currency:0.73
+  bamaonce:0.73
+  cryptos:0.73
+  start:0.73
+  monitoring:0.73
+  future:0.73
+  bit:0.73
+  yeah:0.73
+
+K: 5, Log-Likelihood: -948.462, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  stream isolation:6.26
+  kernel:6.11
+  client application:4.38
+  tor:3.33
+  multiply tor:3.03
+  isolation:3.03
+  guards:2.81
+  multiply entry:2.81
+  transparent proxying:1.94
+  witnessed:1.91
+
+Topic 1:
+  time:1.11
+  function:1.02
+  save:1.02
+  consuming:1.02
+  wan:1.02
+  return:1.02
+  pdf:1.02
+  site wget:1.02
+  tor site:1.02
+  click:1.02
+
+Topic 2:
+  torsocks:4.43
+  transparent proxy:2.93
+  internet:2.93
+  random:2.93
+  set:2.93
+  wget site:1.49
+  dens:1.43
+  attempting:1.43
+  spoon:1.43
+  note:1.43
+
+Topic 3:
+  savers:2.02
+  socks:1.34
+  proxy case:0.95
+  life:0.95
+  pmyou:0.95
+  time:0.90
+  hen:0.84
+  car:0.83
+  puppy:0.83
+  learn:0.77
+
+Topic 4:
+  clientapplication:2.89
+  traffic superior automatically routed:1.49
+  application tor drop:1.49
+  transparent proxying avoided multiple:1.49
+  tor:1.43
+  youhave:1.39
+  apt:1.39
+  kernelgenerates:1.39
+  commonandroid:1.39
+  inquestion:1.39
+
+K: 5, Log-Likelihood: -2035.820, Alpha: 11.000, Beta: 1.100

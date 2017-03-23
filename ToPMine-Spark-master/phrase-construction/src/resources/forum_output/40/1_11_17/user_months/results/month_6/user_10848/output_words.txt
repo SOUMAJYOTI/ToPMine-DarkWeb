@@ -1,0 +1,61 @@
+Topic 0:
+  command:9.72
+  tails:7.59
+  add:6.81
+  march:5.35
+  screen:5.05
+  lot:4.57
+  pro:4.37
+  refind:4.26
+  instructions:4.23
+  imac:4.22
+
+Topic 1:
+  site:3.30
+  doesnt:3.02
+  faith:2.97
+  drive:2.67
+  hours:2.64
+  bucks:2.59
+  hurt:2.58
+  install:2.30
+  work:2.15
+  missing:2.01
+
+Topic 2:
+  tails:8.54
+  dvd:4.25
+  stuff:3.48
+  quote:2.79
+  work:2.67
+  usb:2.30
+  didnt:2.05
+  works:1.91
+  ill:1.90
+  drive:1.83
+
+Topic 3:
+  disk:26.76
+  iso:6.82
+  dev:6.78
+  ll:5.25
+  gb:4.97
+  size:4.97
+  thumbdrive:4.97
+  apple:4.90
+  file:4.66
+  mac:4.19
+
+Topic 4:
+  file:13.69
+  dont:11.56
+  key:8.64
+  point:8.08
+  iso:7.34
+  download:6.72
+  mirage:6.40
+  ill:5.34
+  february:4.90
+  work:4.52
+
+K: 5, Log-Likelihood: -5792.946, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bandwidth:0.39
+  works:0.38
+  tails:0.35
+  isolatedestaddr:0.35
+  web:0.35
+  isolatedestport:0.35
+  onion:0.21
+  tor:0.21
+  socks:0.21
+  question:0.20
+
+Topic 1:
+  isolatedestport:0.44
+  web:0.44
+  isolatedestaddr:0.44
+  tails:0.44
+  works:0.30
+  bandwidth:0.30
+  question:0.21
+  copy:0.20
+  polipo:0.20
+  setting:0.20
+
+Topic 2:
+  isolatedestaddr:0.37
+  web:0.37
+  isolatedestport:0.37
+  tails:0.37
+  works:0.35
+  bandwidth:0.35
+  question:0.21
+  tor:0.20
+  socks:0.20
+  onion:0.20
+
+Topic 3:
+  tails:0.37
+  isolatedestport:0.37
+  isolatedestaddr:0.36
+  web:0.36
+  works:0.36
+  bandwidth:0.36
+  question:0.21
+  socks:0.20
+  tor:0.20
+  onion:0.20
+
+Topic 4:
+  bandwidth:0.44
+  works:0.44
+  web:0.31
+  isolatedestaddr:0.30
+  tails:0.30
+  isolatedestport:0.30
+  onion:0.22
+  tor:0.20
+  socks:0.20
+  generate:0.20
+
+K: 5, Log-Likelihood: -250.557, Alpha: 11.000, Beta: 1.100

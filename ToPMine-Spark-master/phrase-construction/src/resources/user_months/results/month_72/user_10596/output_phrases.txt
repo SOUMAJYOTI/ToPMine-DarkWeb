@@ -1,0 +1,61 @@
+Topic 0:
+  multisig:2.03
+  eic:1.14
+  supporting:0.49
+  hansa hansa:0.49
+  jump:0.49
+  everyoe:0.48
+  admins:0.48
+  find:0.48
+  board:0.48
+  good:0.48
+
+Topic 1:
+  hansa:0.79
+  market:0.50
+  opinions:0.41
+  radar:0.41
+  business:0.41
+  vendor:0.41
+  sort:0.41
+  remember:0.40
+  clearnet:0.40
+  links:0.40
+
+Topic 2:
+  hansa:0.81
+  market:0.55
+  job:0.48
+  edge:0.48
+  cutting:0.47
+  great:0.47
+  traffic:0.47
+  masterpiece:0.47
+  crazy:0.47
+  atm:0.47
+
+Topic 3:
+  multisig:1.49
+  eic:1.05
+  reason:0.48
+  seas:0.48
+  offering:0.48
+  central:0.48
+  chance:0.48
+  introduced:0.48
+  fingers:0.48
+  escrow:0.48
+
+Topic 4:
+  hansa:0.83
+  market:0.51
+  integrated:0.39
+  fully:0.39
+  grass:0.38
+  clearnet:0.38
+  dnstats:0.38
+  remember:0.38
+  verify:0.38
+  links:0.38
+
+K: 5, Log-Likelihood: -314.699, Alpha: 11.000, Beta: 1.100

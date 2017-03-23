@@ -1,0 +1,61 @@
+Topic 0:
+  number:4.74
+  log:3.45
+  transaction:2.35
+  idea:2.35
+  redeemscript:2.35
+  tx:2.35
+  gap:2.35
+  couting:2.35
+  magic:2.35
+  problem electrum:2.35
+
+Topic 1:
+  lend hand:4.24
+  set mac:3.83
+  ive:3.83
+  luck:3.83
+  wondering:3.83
+  downloaded:3.83
+  electric:3.83
+  excusable:3.83
+  experience:3.83
+  file:3.83
+
+Topic 2:
+  python installed:6.65
+  moment:4.86
+  aware:3.89
+  security:3.89
+  insulting:3.89
+  people:3.89
+  risks:3.89
+  inteligents:3.89
+  real:3.89
+  option:3.89
+
+Topic 3:
+  precompiled:4.71
+  binary:4.71
+  running:3.55
+  market:2.50
+  failing:2.31
+  written:2.31
+  install:2.31
+  source:2.31
+  python python:2.31
+  mandatory:2.31
+
+Topic 4:
+  sign:19.82
+  wallets:11.85
+  addresses:7.87
+  multisignature transactions:7.87
+  users:7.87
+  client supports:7.87
+  bitcoin core:7.87
+  box:3.88
+  light:3.88
+  site:3.88
+
+K: 5, Log-Likelihood: -4345.220, Alpha: 11.000, Beta: 1.100

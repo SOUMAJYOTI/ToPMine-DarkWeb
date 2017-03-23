@@ -1,0 +1,61 @@
+Topic 0:
+  anonymity:9.30
+  users:7.34
+  money:6.75
+  anonymization:5.39
+  provision anonymity:4.28
+  bitcoins:3.93
+  people:3.88
+  number:3.85
+  transactions:3.80
+  collective transaction:3.72
+
+Topic 1:
+  tor:11.25
+  tor proxy:9.65
+  onion addresses:6.43
+  onion:5.65
+  externalip:4.82
+  ssapp tmftyjmjb onion:4.82
+  onion address:4.82
+  listen:4.82
+  hidden service:4.82
+  addresses:4.82
+
+Topic 2:
+  provision anonymity:5.38
+  users:5.19
+  transactions:4.07
+  bitcoins:3.42
+  anonymity:3.32
+  bitcoin:3.22
+  cryptocurrency:3.13
+  money:2.96
+  collective transaction:2.84
+  darkcoin:2.79
+
+Topic 3:
+  anonymity:4.95
+  money:4.55
+  users:3.44
+  darkcoin:3.17
+  bitcoin:2.62
+  bitcoins:2.15
+  people:2.09
+  source code:2.05
+  control:2.01
+  analysis:1.82
+
+Topic 4:
+  onionaddnode:11.21
+  bitcoin:2.94
+  bad:1.61
+  community:1.61
+  state:1.61
+  philosophy:1.61
+  public:1.61
+  ghp:1.56
+  wtcw:1.56
+  wwniwxrykmk:1.56
+
+K: 5, Log-Likelihood: -14330.432, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  arch linux:0.42
+  secure:0.36
+  security:0.33
+  custom:0.32
+  time:0.32
+  snooping:0.32
+  onionland:0.32
+  personal preference:0.32
+  whonix:0.32
+  worried:0.29
+
+Topic 1:
+  os:3.38
+  security isolation:2.48
+  tails os:2.48
+  traffic:2.47
+  exploited:1.59
+  amnesic:1.59
+  pushed:1.59
+  forensics:1.59
+  cops:1.59
+  white:1.59
+
+Topic 2:
+  ssh:1.77
+  requests:1.77
+  isolating:1.77
+  http:1.77
+  port:1.64
+  andslow:0.85
+  hosts:0.85
+  webpage:0.85
+  good idea:0.85
+  logical:0.85
+
+Topic 3:
+  local includes:2.68
+  local includes tor:2.68
+  enableddedicated socksport:2.68
+  configured:1.77
+  isolatedestaddr:1.77
+  confin:1.77
+  isolatedestport:1.77
+  browser:1.77
+  bin:1.77
+  chroot:1.77
+
+Topic 4:
+  dns:2.68
+  skew:1.76
+  expert:1.76
+  clock:1.76
+  select:1.76
+  homer:1.76
+  wrote:1.76
+  leaks:1.76
+  ip:1.76
+  sat:1.76
+
+K: 5, Log-Likelihood: -2627.326, Alpha: 11.000, Beta: 1.100

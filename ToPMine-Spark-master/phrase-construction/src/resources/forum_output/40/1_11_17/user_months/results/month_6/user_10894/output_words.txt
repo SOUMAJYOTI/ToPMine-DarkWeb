@@ -1,0 +1,61 @@
+Topic 0:
+  shared:5.09
+  coin:4.85
+  coinjoin:1.75
+  coins:1.60
+  bitcoin:1.25
+  february:0.83
+  info:0.80
+  quote:0.79
+  privacy:0.71
+  send:0.59
+
+Topic 1:
+  shared:3.16
+  bitcoin:3.12
+  fog:2.80
+  send:2.67
+  quote:1.46
+  analysis:1.35
+  taint:1.34
+  couple:1.34
+  address:1.34
+  mixing:1.03
+
+Topic 2:
+  shared:4.75
+  quote:3.67
+  february:3.35
+  info:2.65
+  bitcoin:2.51
+  send:2.19
+  fog:1.57
+  coinjoin:1.50
+  mixer:1.43
+  coin:1.41
+
+Topic 3:
+  coins:4.90
+  coin:2.99
+  shared:2.29
+  privacy:1.93
+  chance:1.57
+  core:1.56
+  maxwell:1.56
+  transactions:1.56
+  mixing:1.17
+  bitcoin:1.06
+
+Topic 4:
+  fog:2.80
+  january:2.76
+  dont:2.51
+  guide:1.84
+  anonymously:1.28
+  bitcoins:1.28
+  combination:1.28
+  roger:1.28
+  receiving:1.28
+  story:1.28
+
+K: 5, Log-Likelihood: -1274.396, Alpha: 11.000, Beta: 1.100

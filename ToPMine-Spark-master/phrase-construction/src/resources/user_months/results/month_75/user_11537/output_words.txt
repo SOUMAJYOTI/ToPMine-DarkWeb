@@ -1,0 +1,61 @@
+Topic 0:
+  join:1.73
+  march:1.63
+  quote:1.29
+  market:1.24
+  creating:1.19
+  volume:1.07
+  business:1.06
+  sense:1.05
+  find:1.04
+  interest:1.00
+
+Topic 1:
+  market:1.54
+  good:1.45
+  products:1.11
+  march:1.05
+  invite:1.03
+  creating:0.89
+  quote:0.87
+  hard:0.76
+  joined:0.75
+  hype:0.74
+
+Topic 2:
+  join:2.13
+  march:1.51
+  market:1.48
+  find:1.34
+  quote:1.19
+  restricting:1.00
+  membership:0.99
+  people:0.99
+  club:0.99
+  sort:0.98
+
+Topic 3:
+  good:1.39
+  days:1.32
+  market:1.23
+  invite:1.10
+  creating:1.09
+  vendors:1.00
+  hype:0.97
+  hard:0.94
+  doesnt:0.86
+  march:0.85
+
+Topic 4:
+  good:1.54
+  market:1.51
+  invite:1.01
+  products:0.97
+  march:0.95
+  creating:0.91
+  join:0.83
+  quote:0.82
+  hype:0.78
+  joined:0.74
+
+K: 5, Log-Likelihood: -1051.492, Alpha: 11.000, Beta: 1.100

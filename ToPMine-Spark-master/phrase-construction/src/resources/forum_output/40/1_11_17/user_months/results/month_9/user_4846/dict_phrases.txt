@@ -1,0 +1,9 @@
+multisig,0,2
+note,1,1
+site,2,1
+separate,3,1
+tor,4,2
+testing,5,1
+alpha,6,1
+bazaar,7,2
+beta,8,2

@@ -1,0 +1,61 @@
+Topic 0:
+  overloading bandwidth:6.51
+  user:6.48
+  behaviour:4.66
+  rational logical:4.66
+  database:4.64
+  bruteforce:4.64
+  disconnected:4.64
+  check file:4.64
+  attack:4.55
+  people share poor hungry:3.52
+
+Topic 1:
+  market:5.82
+  good:5.56
+  tor baazar:4.90
+  option:4.60
+  read:4.60
+  vibes:4.54
+  thing:3.83
+  guess:3.83
+  market theyve:3.83
+  office:3.83
+
+Topic 2:
+  access:6.91
+  admin:4.62
+  inaccessible:3.79
+  attack:3.65
+  market:3.18
+  guys:2.91
+  stops repeatedly clicking refresh:2.57
+  quote evilgrin june pmprotip:2.42
+  agora sooner:2.42
+  ll:2.28
+
+Topic 3:
+  agora:5.54
+  markets:5.46
+  share poor hungry homeless:3.08
+  gon happen:3.04
+  wait:2.97
+  ddos attacks:2.62
+  multiply:2.33
+  single:2.33
+  team:2.33
+  higher:2.33
+
+Topic 4:
+  cloud:7.55
+  order:5.77
+  forum sr close repaying:4.80
+  speed leg repayment process:4.80
+  commissions pretty reasonable idea:4.80
+  liable interesting theory post:4.80
+  agora order divert customers:4.80
+  customers lost funds dosing:4.80
+  time:4.52
+  drive:3.81
+
+K: 5, Log-Likelihood: -5755.495, Alpha: 11.000, Beta: 1.100

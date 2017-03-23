@@ -1,0 +1,61 @@
+Topic 0:
+  rival organization decrypting messages:0.35
+  eyes government:0.35
+  usual depends spouse boss:0.35
+  march:0.33
+  quote:0.33
+  top:0.30
+  priority:0.30
+  convenience:0.30
+  phones:0.30
+  topic:0.30
+
+Topic 1:
+  secure:0.35
+  usual depends spouse boss:0.34
+  eyes government:0.34
+  rival organization decrypting messages:0.34
+  march:0.31
+  quote:0.31
+  bugs import key:0.31
+  file ways love fact:0.31
+  support pgp keys party:0.31
+  symmetrically encrypt files phoneunfortunately:0.31
+
+Topic 2:
+  quote:0.37
+  march:0.37
+  rival organization decrypting messages:0.35
+  usual depends spouse boss:0.35
+  government:0.35
+  making:0.35
+  mix:0.35
+  drugs:0.35
+  convenience:0.35
+  eyes government:0.35
+
+Topic 3:
+  eyes government:0.35
+  rival organization decrypting messages:0.35
+  usual depends spouse boss:0.35
+  quote:0.33
+  march:0.33
+  phones:0.29
+  ami:0.29
+  priority:0.29
+  bunny:0.29
+  agency:0.29
+
+Topic 4:
+  secure:1.11
+  rsa:0.45
+  checked:0.45
+  family:0.45
+  hub:0.45
+  refreshing:0.45
+  apg adroit:0.45
+  safe:0.45
+  find:0.45
+  curious:0.45
+
+K: 5, Log-Likelihood: -555.339, Alpha: 11.000, Beta: 1.100

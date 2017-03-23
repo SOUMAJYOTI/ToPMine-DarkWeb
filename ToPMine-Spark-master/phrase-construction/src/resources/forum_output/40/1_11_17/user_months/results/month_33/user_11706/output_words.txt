@@ -1,0 +1,61 @@
+Topic 0:
+  communication:1.43
+  vamonosdab:1.10
+  messages:0.95
+  bm:0.93
+  good:0.78
+  dont:0.73
+  order:0.72
+  time:0.70
+  message:0.60
+  hope:0.58
+
+Topic 1:
+  communication:1.95
+  messages:1.39
+  vamonosdab:1.07
+  bm:0.93
+  time:0.78
+  order:0.78
+  dont:0.77
+  good:0.72
+  fair:0.64
+  pgp:0.62
+
+Topic 2:
+  communication:1.38
+  vamonosdab:1.10
+  bm:0.94
+  messages:0.94
+  order:0.81
+  dont:0.79
+  time:0.74
+  good:0.73
+  quick:0.60
+  answering:0.59
+
+Topic 3:
+  communication:2.47
+  vamonosdab:1.68
+  messages:1.54
+  bm:1.25
+  time:1.06
+  dont:1.00
+  good:0.96
+  order:0.85
+  answering:0.67
+  customers:0.67
+
+Topic 4:
+  communication:1.76
+  messages:1.18
+  vamonosdab:1.05
+  bm:0.96
+  order:0.84
+  good:0.81
+  time:0.71
+  dont:0.71
+  quick:0.60
+  pgp:0.60
+
+K: 5, Log-Likelihood: -2448.810, Alpha: 11.000, Beta: 1.100

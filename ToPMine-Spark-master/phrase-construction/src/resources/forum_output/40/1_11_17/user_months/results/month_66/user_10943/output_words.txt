@@ -1,0 +1,51 @@
+Topic 0:
+  correspondents:0.20
+  plan:0.20
+  encrypt:0.20
+  records:0.20
+  adversaries:0.20
+  bet:0.20
+  assuming:0.20
+  shared:0.20
+
+Topic 1:
+  encrypt:0.20
+  records:0.20
+  adversaries:0.20
+  correspondents:0.20
+  shared:0.20
+  bet:0.20
+  plan:0.20
+  assuming:0.20
+
+Topic 2:
+  shared:0.20
+  bet:0.20
+  assuming:0.20
+  adversaries:0.20
+  encrypt:0.20
+  records:0.20
+  correspondents:0.20
+  plan:0.20
+
+Topic 3:
+  plan:0.20
+  bet:0.20
+  assuming:0.20
+  correspondents:0.20
+  adversaries:0.20
+  shared:0.20
+  records:0.20
+  encrypt:0.20
+
+Topic 4:
+  records:0.20
+  assuming:0.20
+  correspondents:0.20
+  shared:0.20
+  adversaries:0.20
+  plan:0.20
+  encrypt:0.20
+  bet:0.20
+
+K: 5, Log-Likelihood: -16.636, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  user:4.27
+  key grams:4.27
+  track transactions:3.18
+  bitcoin:3.02
+  dont:2.57
+  somehting:2.07
+  worry:2.07
+  authorities:2.07
+  word:2.07
+  collect:2.07
+
+Topic 1:
+  worth:2.96
+  received:2.96
+  organization:2.96
+  markets:1.80
+  form:1.45
+  user account:1.45
+  ways:1.45
+  centimes:1.45
+  reduced:1.45
+  search:1.45
+
+Topic 2:
+  havent:1.83
+  didnt:1.35
+  entire:1.35
+  deebweb:1.35
+  gon:1.35
+  mined:1.35
+  bit:1.35
+  ahead:1.35
+  op:1.35
+  mining:1.35
+
+Topic 3:
+  grams:5.57
+  helix withdraw:4.45
+  entry fee:4.45
+  helix system:4.45
+  money:4.45
+  withdrawal:2.95
+  delay:2.95
+  built:2.95
+  privacy:2.95
+  process:2.95
+
+Topic 4:
+  sounds:3.10
+  works:2.94
+  coins:1.96
+  interesting:1.44
+  swapping:1.44
+  dark:1.44
+  lower:1.44
+  immense:1.44
+  space:1.44
+  analysis:1.44
+
+K: 5, Log-Likelihood: -3236.669, Alpha: 11.000, Beta: 1.100

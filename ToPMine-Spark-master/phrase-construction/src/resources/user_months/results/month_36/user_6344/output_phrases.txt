@@ -1,0 +1,61 @@
+Topic 0:
+  dose:1.31
+  expecting:1.30
+  wise:1.30
+  lama:1.30
+  orange:1.30
+  big:1.30
+  godself:1.30
+  territory:1.30
+  view:1.30
+  ale grey:1.30
+
+Topic 1:
+  garden:0.58
+  albert:0.58
+  products:0.58
+  majestic:0.58
+  service:0.58
+  guys:0.58
+  check:0.58
+  nope:0.58
+  vendor glad:0.58
+  love:0.57
+
+Topic 2:
+  recommended:0.75
+  guys:0.75
+  hey:0.75
+  favorite:0.75
+  products:0.75
+  business:0.75
+  albert:0.75
+  highly:0.75
+  vendor glad:0.74
+  evo:0.74
+
+Topic 3:
+  lsd:2.44
+  sales:1.04
+  personally:1.04
+  positive:1.04
+  quality:1.03
+  onion:1.03
+  passionate:1.03
+  shop:1.03
+  offer:1.03
+  crystals:1.03
+
+Topic 4:
+  service:0.62
+  evo:0.62
+  majestic:0.61
+  highly:0.61
+  check:0.61
+  recommended:0.61
+  love:0.61
+  favorite:0.61
+  hey:0.61
+  vendor glad:0.61
+
+K: 5, Log-Likelihood: -459.287, Alpha: 11.000, Beta: 1.100

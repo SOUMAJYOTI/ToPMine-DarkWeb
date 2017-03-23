@@ -1,0 +1,61 @@
+Topic 0:
+  fee:10.16
+  low:6.87
+  randomized:6.68
+  analysis:4.61
+  fees:4.47
+  transactions:3.08
+  coins:2.45
+  coin:2.11
+  interested:2.08
+  affordable:2.07
+
+Topic 1:
+  lbc:6.75
+  tumbling:4.96
+  cost:4.70
+  buy:3.86
+  method:3.86
+  agree:2.58
+  effective:2.58
+  option:2.58
+  amounts:2.31
+  long:2.25
+
+Topic 2:
+  coins:2.72
+  blockchain:1.84
+  remember:1.63
+  link:1.23
+  fee:0.99
+  helix:0.95
+  bought:0.88
+  service:0.87
+  tumbled:0.87
+  account:0.86
+
+Topic 3:
+  fee:4.62
+  randomized:4.32
+  low:4.09
+  coins:3.72
+  fees:2.75
+  analysis:2.68
+  transactions:2.32
+  account:2.00
+  address:1.95
+  service:1.67
+
+Topic 4:
+  helix:6.68
+  link:2.42
+  experience:2.31
+  problem:2.21
+  reports:2.19
+  releasing:2.18
+  remember:2.04
+  coins:2.03
+  find:1.45
+  works:1.44
+
+K: 5, Log-Likelihood: -1849.266, Alpha: 11.000, Beta: 1.100

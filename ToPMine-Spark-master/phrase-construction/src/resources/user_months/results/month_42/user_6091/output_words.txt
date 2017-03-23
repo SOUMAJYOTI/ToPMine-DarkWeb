@@ -1,0 +1,61 @@
+Topic 0:
+  pellet:4.78
+  tattoo:3.87
+  paintball:3.87
+  shops:3.87
+  valves:3.87
+  member:3.35
+  dunno:3.22
+  power:3.14
+  hose:2.69
+  years:2.69
+
+Topic 1:
+  water:3.49
+  dry:2.96
+  ice:2.78
+  good:2.57
+  liquid:1.96
+  heat:1.90
+  avoid:1.43
+  happen:1.42
+  vapor:1.42
+  cold:1.42
+
+Topic 2:
+  solution:9.41
+  oxygen:5.27
+  chlorine:3.93
+  water:3.71
+  pure:3.60
+  lsd:3.60
+  decay:2.93
+  add:2.69
+  gas:2.39
+  conditions:1.93
+
+Topic 3:
+  storage:2.91
+  needle:2.33
+  degradation:2.32
+  input:2.21
+  unnoticeable:2.19
+  sunlight:2.17
+  lifetime:2.16
+  appreciated:2.15
+  assuming:2.13
+  glass:2.13
+
+Topic 4:
+  ice:1.90
+  venting:1.84
+  dry:1.79
+  seal:1.73
+  needle:1.53
+  water:1.46
+  syringe:1.19
+  vial:1.08
+  remove:1.05
+  heat:1.00
+
+K: 5, Log-Likelihood: -2440.255, Alpha: 11.000, Beta: 1.100

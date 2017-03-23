@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:6.94
+  nl:3.36
+  biggest:3.36
+  thread:3.36
+  mdma:3.36
+  reliable:3.36
+  place:3.36
+  happened albertheijn:3.36
+  pills:3.36
+  prices:3.36
+
+Topic 1:
+  answer:3.25
+  spying:3.25
+  hard:3.25
+  flaw:3.25
+  parallel:3.24
+  seizure:3.24
+  construction:3.24
+  truth:3.24
+  packages:3.24
+  people:2.10
+
+Topic 2:
+  pmon:3.35
+  quote:3.35
+  contrary arrests caused:3.35
+  tortrip:3.35
+  april:3.35
+  arrested love:3.35
+  mentioned:2.58
+  names:2.56
+  arrest:2.56
+  wrong:2.54
+
+Topic 3:
+  dealer things police finding:3.40
+  kind real mistake happen:3.36
+  pick suspects imagined safe:3.22
+  buy:3.22
+  removed:3.21
+  deanonymize contrary arrests caused:3.21
+  police judiciary managed:3.21
+  list:3.21
+  bitcoin:3.21
+  hollandonline arrested:3.20
+
+Topic 4:
+  driver:4.34
+  man:4.34
+  suspicious:4.34
+  mercedes:4.34
+  amsterdam:2.14
+  cop:2.14
+  december:2.14
+  article:2.14
+  witnessed:2.14
+  hard drugs:2.14
+
+K: 5, Log-Likelihood: -1763.463, Alpha: 11.000, Beta: 1.100

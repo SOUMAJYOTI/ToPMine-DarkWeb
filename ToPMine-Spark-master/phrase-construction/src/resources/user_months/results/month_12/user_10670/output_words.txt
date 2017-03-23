@@ -1,0 +1,61 @@
+Topic 0:
+  doesnt:2.34
+  le:2.18
+  huge:1.97
+  people:1.29
+  time:1.26
+  online:1.26
+  vendor:1.15
+  users:1.05
+  good:0.93
+  pop:0.90
+
+Topic 1:
+  people:17.49
+  horrible:10.72
+  opsec:9.14
+  popped:8.23
+  blah:7.68
+  takedown:7.43
+  big:7.24
+  deal:6.98
+  users:6.69
+  time:6.51
+
+Topic 2:
+  people:24.23
+  opsec:19.22
+  herd:17.84
+  horrible:15.80
+  dw:14.95
+  open:14.91
+  time:13.24
+  careless:12.96
+  technical:12.47
+  knowledge:11.20
+
+Topic 3:
+  online:20.98
+  buyers:13.83
+  dealers:10.81
+  drug:9.69
+  leo:8.91
+  market:8.91
+  illegal:7.69
+  work:7.16
+  time:6.87
+  actions:5.91
+
+Topic 4:
+  point:10.00
+  dw:8.90
+  marketplaces:4.95
+  tipping:4.35
+  le:4.26
+  isnt:3.95
+  type:2.97
+  remailers:2.97
+  development:2.97
+  prey:2.53
+
+K: 5, Log-Likelihood: -11794.532, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  site:0.89
+  deposits:0.82
+  recommend:0.79
+  agora:0.77
+  full:0.74
+  speed:0.71
+  register:0.54
+  safe:0.52
+  shit:0.43
+  agra:0.42
+
+Topic 1:
+  deposits:0.93
+  site:0.89
+  safe:0.65
+  full:0.63
+  speed:0.61
+  recommend:0.61
+  agora:0.59
+  register:0.56
+  users:0.47
+  deposit:0.36
+
+Topic 2:
+  agora:1.51
+  recommend:1.50
+  speed:0.78
+  full:0.74
+  site:0.71
+  deposits:0.68
+  days:0.64
+  running:0.64
+  figured:0.64
+  ami:0.64
+
+Topic 3:
+  users:2.73
+  safe:1.18
+  thinks:1.06
+  figuring:1.06
+  completely:1.06
+  user:1.06
+  servers:1.06
+  overload:1.06
+  volume:1.06
+  reached:1.06
+
+Topic 4:
+  agora:1.00
+  recommend:0.98
+  deposits:0.88
+  site:0.82
+  speed:0.75
+  full:0.74
+  peoples:0.50
+  britneystoke:0.50
+  quote:0.50
+  showing:0.50
+
+K: 5, Log-Likelihood: -438.586, Alpha: 11.000, Beta: 1.100

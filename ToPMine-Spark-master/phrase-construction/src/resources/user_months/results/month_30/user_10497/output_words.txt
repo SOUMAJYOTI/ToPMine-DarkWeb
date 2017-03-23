@@ -1,0 +1,61 @@
+Topic 0:
+  encryption:26.08
+  nsa:20.06
+  internet:15.35
+  data:13.83
+  program:12.40
+  document:10.52
+  connections:9.76
+  asa:8.66
+  intelligence:8.47
+  called:7.93
+
+Topic 1:
+  keys:5.44
+  attacks:3.40
+  private:3.19
+  bug:2.96
+  certificate:2.39
+  ssl:2.25
+  case:2.13
+  brute:2.12
+  rsa:2.12
+  hidden:2.12
+
+Topic 2:
+  email:11.79
+  password:10.66
+  pgp:6.83
+  text:6.30
+  username:5.97
+  client:4.39
+  reply:3.96
+  security:3.72
+  mail:3.12
+  unencrypted:2.97
+
+Topic 3:
+  attacks:2.53
+  source:1.82
+  services:1.72
+  connections:1.71
+  encryption:1.70
+  tor:1.67
+  ssl:1.63
+  traffic:1.36
+  gchq:1.21
+  break:1.20
+
+Topic 4:
+  asa:24.53
+  encryption:17.86
+  nsa:12.87
+  data:11.00
+  systems:9.96
+  program:8.99
+  document:8.18
+  internet:7.77
+  security:7.38
+  vpn:6.57
+
+K: 5, Log-Likelihood: -14972.198, Alpha: 11.000, Beta: 1.100

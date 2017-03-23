@@ -1,0 +1,61 @@
+Topic 0:
+  integrity:2.31
+  hash:2.25
+  kind:1.64
+  check:1.42
+  verify:1.40
+  files:1.39
+  good:1.37
+  boot:1.29
+  loader:1.29
+  software:1.23
+
+Topic 1:
+  man:4.63
+  fellows:3.22
+  attempts:3.21
+  wondered:3.20
+  domain:3.20
+  work:3.17
+  conclusion:3.16
+  certificate:3.15
+  encounter:3.15
+  google:3.06
+
+Topic 2:
+  good:2.60
+  kind:1.75
+  man:1.75
+  middle:1.34
+  work:1.28
+  networks:0.96
+  antenna:0.92
+  soul:0.87
+  google:0.72
+  software:0.65
+
+Topic 3:
+  bundle:3.82
+  tor:3.74
+  project:3.71
+  system:3.32
+  server:2.81
+  coming:2.69
+  point:2.25
+  fellow:2.24
+  encrusted:2.03
+  july:1.95
+
+Topic 4:
+  good:2.73
+  hotspots:2.23
+  attacker:1.82
+  attack:1.74
+  resources:1.54
+  attacks:1.51
+  wlans:1.38
+  nasty:1.14
+  company:1.14
+  commercial:1.13
+
+K: 5, Log-Likelihood: -2341.127, Alpha: 11.000, Beta: 1.100

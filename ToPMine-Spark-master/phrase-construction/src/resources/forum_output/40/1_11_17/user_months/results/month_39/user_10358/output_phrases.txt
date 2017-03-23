@@ -1,0 +1,61 @@
+Topic 0:
+  forum:3.55
+  agora forums:2.46
+  log:2.42
+  dont:2.31
+  market forum:2.16
+  version:1.88
+  read:1.44
+  problems smf:1.40
+  ags:1.40
+  server:1.29
+
+Topic 1:
+  market:13.30
+  target:4.35
+  good:2.75
+  market forum:2.63
+  forum problems:2.16
+  indirect:2.16
+  historically:2.16
+  takes:2.16
+  functioning:2.16
+  rarer:2.16
+
+Topic 2:
+  patch:14.97
+  security patches:8.38
+  package manager:8.37
+  oldiesmann:8.22
+  version:6.50
+  released:6.30
+  support:6.29
+  smf:6.26
+  simple machines:5.32
+  aware:4.18
+
+Topic 3:
+  hacking forum accounts:5.32
+  security:5.03
+  told:4.36
+  february:4.36
+  address:4.36
+  pms:4.36
+  email:4.36
+  speedfreak:4.36
+  clearnet:4.36
+  literally:4.36
+
+Topic 4:
+  business:4.92
+  agora:4.81
+  forums:4.71
+  ag long thehub reddit:4.37
+  troublesome experience markets kill:4.37
+  site replicated sr:4.37
+  method weed shills:4.37
+  order users communicating sheep:4.37
+  forums understand forum:4.37
+  feedback:4.30
+
+K: 5, Log-Likelihood: -5520.633, Alpha: 11.000, Beta: 1.100

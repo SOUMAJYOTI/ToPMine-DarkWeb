@@ -1,0 +1,61 @@
+Topic 0:
+  ir lights:2.72
+  halo head:2.67
+  hide:1.57
+  draw:1.57
+  camels:1.56
+  police:1.56
+  places security:1.56
+  question:1.56
+  quote:1.24
+  hunting:1.24
+
+Topic 1:
+  dont:0.91
+  leds:0.69
+  wait:0.63
+  guess:0.63
+  christmas:0.63
+  unnoticed:0.62
+  tree:0.62
+  wondering:0.55
+  thing:0.55
+  answer:0.55
+
+Topic 2:
+  care:1.36
+  thinking:1.36
+  modified:1.36
+  homemade:1.36
+  problem:1.36
+  excellent:1.36
+  long:1.36
+  device:1.36
+  nice:1.36
+  compact:1.36
+
+Topic 3:
+  leds:1.88
+  security:1.57
+  baseball cap:1.56
+  attract:0.98
+  watching:0.98
+  eye:0.98
+  net:0.98
+  designs:0.98
+  human:0.98
+  notable:0.98
+
+Topic 4:
+  researchers:7.38
+  racial recognition systems:7.38
+  glasses:4.55
+  racial recognition:4.38
+  tech:2.88
+  nii:2.88
+  material:2.88
+  protect:2.88
+  people:2.88
+  visor:2.88
+
+K: 5, Log-Likelihood: -1730.047, Alpha: 11.000, Beta: 1.100

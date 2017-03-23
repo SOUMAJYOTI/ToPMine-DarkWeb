@@ -1,0 +1,61 @@
+Topic 0:
+  loyalty:6.34
+  members:4.74
+  normal:3.96
+  ted yoshi:3.12
+  prepared:3.12
+  drug:3.12
+  blind:3.12
+  hascomplete:3.12
+  silk:3.12
+  father:3.12
+
+Topic 1:
+  good:3.98
+  idea:3.08
+  spend time:2.71
+  imo:2.37
+  lot:2.12
+  shop:1.97
+  reading:1.97
+  shark:1.97
+  sticking:1.97
+  vendors:1.97
+
+Topic 2:
+  mods:3.92
+  shifty forum:3.75
+  acounts:2.90
+  posting:2.87
+  shill:2.87
+  trolltergeist june ami happier:2.66
+  dirty smear dw sooner:2.02
+  sr dying people:2.02
+  agree sr forum place:2.01
+  bencousins:2.01
+
+Topic 3:
+  decision:4.76
+  months ago:4.76
+  web:3.98
+  dark:3.98
+  basically:3.14
+  ultimately:3.14
+  safer:3.14
+  left:3.14
+  confuse:3.14
+  peace:3.14
+
+Topic 4:
+  escrow:7.03
+  market:4.76
+  sr:4.52
+  markets:3.97
+  connect directly trusted:3.45
+  sr literally coin sending:3.44
+  vendor fuckin:3.44
+  vendors work save:3.43
+  updates:3.14
+  shit escrow:3.14
+
+K: 5, Log-Likelihood: -3483.223, Alpha: 11.000, Beta: 1.100

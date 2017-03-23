@@ -1,0 +1,61 @@
+Topic 0:
+  effort:1.84
+  plan:1.84
+  lot:1.84
+  vps:0.85
+  server:0.85
+  checks:0.85
+  aware:0.85
+  costs:0.85
+  feature:0.85
+  notices:0.85
+
+Topic 1:
+  onionshop:0.71
+  signature:0.54
+  pgp:0.54
+  work:0.54
+  shop:0.49
+  register:0.49
+  message:0.48
+  working:0.37
+  asap:0.36
+  visit:0.36
+
+Topic 2:
+  pgp:0.78
+  signature:0.78
+  onionshop:0.61
+  work:0.50
+  message:0.50
+  big:0.36
+  szaxkywx:0.35
+  fgcz:0.35
+  sknasxnmssyitt:0.35
+  jarvcpbqxiddcwfffhwkjbaljvezoeh:0.35
+
+Topic 3:
+  onionshop:0.76
+  shop:0.60
+  register:0.58
+  work:0.55
+  message:0.48
+  working:0.44
+  signature:0.44
+  pgp:0.44
+  visit:0.43
+  asap:0.42
+
+Topic 4:
+  register:1.45
+  shop:1.42
+  asap:0.85
+  visit:0.84
+  onionshop:0.83
+  working:0.78
+  work:0.59
+  message:0.48
+  pmshit:0.38
+  fine:0.38
+
+K: 5, Log-Likelihood: -948.487, Alpha: 11.000, Beta: 1.100

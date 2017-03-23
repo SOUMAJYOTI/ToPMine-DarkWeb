@@ -1,0 +1,61 @@
+Topic 0:
+  sativa:0.46
+  real:0.40
+  find happiness:0.37
+  care:0.37
+  profil:0.37
+  nice:0.36
+  sell:0.36
+  feel free:0.36
+  find:0.34
+  hacking:0.32
+
+Topic 1:
+  store:1.46
+  market:1.39
+  natural:0.61
+  native:0.61
+  strain:0.61
+  merchandise:0.61
+  alphabay:0.61
+  middle:0.61
+  powerful:0.61
+  great:0.61
+
+Topic 2:
+  real:1.34
+  feedback:0.61
+  wan:0.61
+  find happiness:0.60
+  stoners:0.53
+  perfect:0.53
+  weed:0.53
+  high:0.53
+  happiness:0.53
+  alphabay profil:0.53
+
+Topic 3:
+  market:0.53
+  store:0.49
+  find:0.47
+  grow:0.47
+  earth:0.47
+  weed price:0.46
+  pesticide:0.46
+  message:0.46
+  powerful:0.46
+  find darknet:0.46
+
+Topic 4:
+  time:2.03
+  good:2.03
+  democritewe:0.87
+  thing:0.87
+  worked:0.87
+  delivery:0.87
+  writing:0.87
+  deepweb:0.87
+  comment:0.87
+  price deepweb:0.87
+
+K: 5, Log-Likelihood: -600.135, Alpha: 11.000, Beta: 1.100

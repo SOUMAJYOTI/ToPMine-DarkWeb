@@ -1,0 +1,175 @@
+gateway interest,0,1
+machine interest,1,1
+bad,2,3
+nic,3,2
+ssh,4,1
+packets,5,2
+gateway protected,6,1
+properly,7,1
+fit,8,1
+companies,9,1
+connects,10,2
+bind,11,1
+quote,12,1
+protected,13,4
+hackers,14,2
+stuck,15,1
+setup dont,16,1
+case,17,1
+hardware,18,3
+xen,19,4
+nat,20,2
+boxes,21,2
+method,22,2
+hosting secure,23,3
+havent,24,1
+setup bad,25,2
+tunneling,26,1
+protected machine,27,1
+easy,28,1
+bad setup,29,1
+system,30,1
+route,31,1
+hardware setup,32,1
+setup host,33,1
+completely,34,2
+bridge,35,1
+detail,36,1
+compromised,37,1
+access machine,38,1
+isnt,39,2
+average,40,4
+works,41,2
+access,42,4
+dom,43,1
+colocation,44,1
+hosting,45,3
+isolated,46,2
+guy,47,1
+xens,48,1
+enemy,49,1
+networks,50,1
+computer gateway,51,1
+wan xen,52,1
+lot,53,1
+routing,54,5
+computer,55,5
+stripping,56,1
+systems,57,1
+tor,58,3
+responcibility,59,1
+attack,60,1
+computer protected,61,1
+national,62,2
+protect,63,2
+interest access,64,3
+whonix,65,2
+set,66,2
+honestly,67,2
+kernel,68,1
+familiar,69,1
+services,70,1
+nice,71,1
+connected,72,3
+site,73,2
+june,74,1
+answer,75,2
+machine,76,7
+describe,77,1
+complete,78,1
+grab,79,1
+config,80,1
+thing,81,1
+configuation,82,1
+correct,83,1
+dont secure,84,1
+annoyance,85,1
+pinged,86,1
+subsystem,87,1
+main,88,4
+networking,89,1
+secure,90,5
+connected protected,91,1
+routing routing,92,1
+solution,93,2
+find,94,1
+host,95,3
+create,96,1
+implement,97,1
+hardened,98,1
+connections,99,1
+bridging,100,1
+traffic,101,1
+info,102,1
+worry,103,1
+incoming,104,1
+adam,105,2
+virtualization,106,1
+ill,107,1
+bridges,108,1
+routing box,109,4
+finding,110,1
+vectors,111,1
+xen network,112,1
+access gateway,113,2
+failure,114,1
+forces,115,1
+vm,116,1
+absolutely,117,1
+solve,118,1
+guys,119,3
+containers,120,1
+internet,121,1
+dont,122,3
+option,123,1
+full,124,1
+iptables,125,1
+virtual,126,1
+private,127,1
+reasons,128,1
+cards,129,1
+technical,130,1
+hidden,131,2
+idea,132,2
+main machine,133,2
+box,134,5
+interface,135,2
+mmm,136,1
+content,137,2
+network,138,4
+security,139,2
+total,140,1
+interest,141,3
+silghtly,142,1
+torvm,143,1
+define,144,1
+machine dont,145,1
+physical,146,2
+protected computer,147,3
+normal,148,1
+interfaces,149,1
+figure,150,2
+hours,151,1
+pretty,152,1
+rack,153,1
+capabilities,154,1
+os,155,1
+wan,156,3
+succesfully,157,1
+interesting,158,1
+attacker,159,1
+wan machine,160,1
+control,161,3
+pmmmm,162,1
+main computer,163,1
+machine connected,164,1
+phoenix,165,1
+gateway machine,166,1
+tubes,167,1
+service,168,1
+setup,169,9
+machine network,170,1
+arguments,171,1
+machines,172,1
+interested,173,2
+gateway,174,5

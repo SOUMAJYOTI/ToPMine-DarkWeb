@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.63
+  address:0.59
+  user:0.39
+  bitcoin:0.39
+  familiar:0.20
+  backbone:0.20
+  form:0.20
+  scripts:0.20
+  things:0.20
+  callback:0.20
+
+Topic 1:
+  market:0.62
+  address:0.57
+  user:0.40
+  bitcoin:0.39
+  things:0.20
+  familiar:0.20
+  scripts:0.20
+  form:0.20
+  backbone:0.20
+  forward:0.20
+
+Topic 2:
+  address:0.62
+  market:0.58
+  bitcoin:0.41
+  user:0.40
+  software:0.20
+  bitcoins:0.20
+  generates:0.20
+  correct:0.20
+  google:0.20
+  script:0.20
+
+Topic 3:
+  market:0.62
+  address:0.57
+  bitcoin:0.40
+  user:0.40
+  backbone:0.20
+  things:0.20
+  familiar:0.20
+  form:0.20
+  scripts:0.20
+  clearnet:0.20
+
+Topic 4:
+  address:0.65
+  market:0.55
+  bitcoin:0.41
+  user:0.41
+  paid:0.20
+  payment:0.20
+  darknet:0.20
+  coins:0.20
+  send:0.20
+  small:0.20
+
+K: 5, Log-Likelihood: -115.249, Alpha: 11.000, Beta: 1.100

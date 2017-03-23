@@ -1,0 +1,61 @@
+Topic 0:
+  aurora:0.80
+  period:0.60
+  weed:0.59
+  start:0.40
+  marketplace:0.40
+  called:0.40
+  extreme:0.40
+  development:0.40
+  place:0.20
+  community:0.20
+
+Topic 1:
+  aurora:0.80
+  weed:0.61
+  period:0.60
+  start:0.40
+  extreme:0.40
+  marketplace:0.40
+  called:0.40
+  development:0.39
+  xdqjhq:0.20
+  hosted:0.20
+
+Topic 2:
+  aurora:0.78
+  weed:0.61
+  period:0.60
+  development:0.41
+  marketplace:0.40
+  called:0.40
+  extreme:0.40
+  start:0.40
+  torchat:0.20
+  community:0.20
+
+Topic 3:
+  aurora:0.87
+  weed:0.59
+  period:0.59
+  marketplace:0.40
+  development:0.40
+  called:0.40
+  extreme:0.39
+  start:0.39
+  longer:0.20
+  wonderful:0.20
+
+Topic 4:
+  aurora:0.75
+  period:0.61
+  weed:0.60
+  start:0.40
+  extreme:0.40
+  called:0.40
+  development:0.40
+  marketplace:0.40
+  pupdate:0.20
+  hosted:0.20
+
+K: 5, Log-Likelihood: -110.553, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  security:7.41
+  ip:4.94
+  time:4.60
+  linux:4.43
+  start:4.07
+  opsec:4.02
+  thought:3.95
+  wrote:3.94
+  dns:3.94
+  forward:3.42
+
+Topic 1:
+  compiling:15.08
+  systemd:14.23
+  binaries:11.53
+  arch:10.73
+  backdoored:8.92
+  verify:8.88
+  december:8.82
+  philosophy:8.53
+  people:8.08
+  quote:7.92
+
+Topic 2:
+  port:3.63
+  idea:2.57
+  requests:2.26
+  ssh:1.97
+  http:1.97
+  isolating:1.97
+  topics:1.75
+  hear:1.74
+  discussion:1.62
+  people:1.41
+
+Topic 3:
+  os:11.66
+  tor:11.08
+  whonix:7.36
+  security:6.89
+  design:5.75
+  isolation:5.31
+  tails:5.28
+  arch:5.03
+  traffic:4.98
+  gateway:4.67
+
+Topic 4:
+  local:7.96
+  includes:5.92
+  systemd:4.66
+  plunderinpete:4.32
+  december:4.06
+  people:4.02
+  build:3.99
+  socksport:3.92
+  system:3.14
+  tor:3.13
+
+K: 5, Log-Likelihood: -9165.882, Alpha: 11.000, Beta: 1.100

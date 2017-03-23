@@ -1,0 +1,61 @@
+Topic 0:
+  included:15.38
+  key ring:14.85
+  key:14.67
+  hardware:13.66
+  software encryption:11.88
+  hardware encryption:11.88
+  freedom freedom:11.86
+  free software:11.86
+  windows certified:8.91
+  banks:8.91
+
+Topic 1:
+  patch:7.62
+  security:7.26
+  dont:7.25
+  pretty:7.12
+  quote:6.54
+  decades:6.46
+  pcs:5.91
+  obscure:5.91
+  ram:5.91
+  trigger:5.91
+
+Topic 2:
+  qubes:16.22
+  vm:12.77
+  tor:9.70
+  ensure:9.08
+  firewall rules:8.88
+  phoenix gateway:8.88
+  gb:7.68
+  core:7.66
+  answer:7.65
+  disk space:7.65
+
+Topic 3:
+  technologies:8.90
+  package:8.56
+  offer:8.16
+  zaphod:8.09
+  win:7.64
+  theo de:7.64
+  systems:7.24
+  problem:6.81
+  packages:6.80
+  write:6.78
+
+Topic 4:
+  regenerate ssh host keys:32.67
+  ssh ssh host:17.82
+  init:14.84
+  ssh host keys:14.84
+  dsa:11.87
+  ssh keygen:11.87
+  code select:11.87
+  key ash keygen:11.87
+  ssh:11.87
+  sh:11.87
+
+K: 5, Log-Likelihood: -37626.821, Alpha: 11.000, Beta: 1.100

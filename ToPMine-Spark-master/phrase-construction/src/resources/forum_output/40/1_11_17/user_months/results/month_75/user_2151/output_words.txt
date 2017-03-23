@@ -1,0 +1,61 @@
+Topic 0:
+  photos:0.79
+  customers:0.59
+  stock:0.41
+  merchandise:0.40
+  samples:0.40
+  url:0.40
+  rapid:0.20
+  confidence:0.20
+  releasing:0.20
+  shop:0.20
+
+Topic 1:
+  photos:1.13
+  customers:0.50
+  url:0.50
+  stock:0.49
+  merchandise:0.38
+  samples:0.38
+  sportwear:0.23
+  professional:0.23
+  shop:0.23
+  luxury:0.23
+
+Topic 2:
+  photos:0.66
+  customers:0.65
+  samples:0.41
+  merchandise:0.41
+  stock:0.36
+  url:0.36
+  australia:0.22
+  feedback:0.22
+  required:0.22
+  rayban:0.22
+
+Topic 3:
+  photos:0.91
+  customers:0.56
+  stock:0.43
+  url:0.43
+  samples:0.40
+  merchandise:0.39
+  delivery:0.21
+  growth:0.21
+  luxury:0.21
+  business:0.21
+
+Topic 4:
+  customers:0.70
+  photos:0.51
+  merchandise:0.41
+  samples:0.41
+  stock:0.32
+  url:0.31
+  sell:0.24
+  applied:0.24
+  started:0.24
+  canada:0.24
+
+K: 5, Log-Likelihood: -191.883, Alpha: 11.000, Beta: 1.100

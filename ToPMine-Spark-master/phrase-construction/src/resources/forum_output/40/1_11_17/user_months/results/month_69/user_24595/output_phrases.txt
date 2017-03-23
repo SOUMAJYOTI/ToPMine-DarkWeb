@@ -1,0 +1,61 @@
+Topic 0:
+  clientapplication:2.87
+  linuxkernel:1.38
+  rules tcp close:1.38
+  transproxy:1.38
+  youhave:1.38
+  thisseems:1.38
+  undercertain:1.38
+  commonandroid:1.38
+  wait sundown condition:1.38
+  apt:1.38
+
+Topic 1:
+  kernel:5.44
+  stream isolation:5.38
+  client application:3.68
+  tor:2.96
+  multiply tor:2.66
+  isolation:2.62
+  multiply entry:2.54
+  guards:2.53
+  transparent proxying:1.69
+  easy:1.59
+
+Topic 2:
+  torsocks:4.44
+  set:2.94
+  transparent proxy:2.94
+  random:2.94
+  internet:2.94
+  torsocks wget:1.64
+  wget site:1.55
+  cpleimu:1.44
+  dens:1.44
+  spoon:1.44
+
+Topic 3:
+  client application:1.15
+  tor:1.06
+  kernel:1.05
+  stream isolation:0.86
+  quote:0.75
+  kmf february:0.75
+  transparent proxying:0.57
+  car:0.54
+  hen:0.53
+  puppy:0.53
+
+Topic 4:
+  savers:2.12
+  socks:1.19
+  puppy:1.04
+  hen:1.02
+  car:1.02
+  proxy case:0.93
+  pmyou:0.92
+  life:0.92
+  kmf february:0.78
+  quote:0.77
+
+K: 5, Log-Likelihood: -2057.372, Alpha: 11.000, Beta: 1.100

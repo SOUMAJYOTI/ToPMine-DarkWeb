@@ -1,0 +1,61 @@
+Topic 0:
+  account:16.63
+  tor:16.37
+  fingerprint:7.45
+  contact:6.09
+  online:5.86
+  pluto:4.85
+  chat:4.68
+  encrypted:4.06
+  romeo:3.91
+  encryption:3.89
+
+Topic 1:
+  account:18.51
+  contact:10.57
+  chat:5.22
+  conversation:5.04
+  jabber:4.75
+  encryption:4.73
+  juliet:4.60
+  choose:4.44
+  accounts:3.86
+  encrypted:3.47
+
+Topic 2:
+  tor:49.44
+  jabber:48.52
+  fingerprint:35.70
+  chat:32.90
+  secret:30.36
+  identity:23.51
+  romeo:23.12
+  server:22.53
+  account:19.61
+  pluto:18.65
+
+Topic 3:
+  chat:12.59
+  fingerprint:7.59
+  contact:7.55
+  account:4.71
+  key:3.96
+  pluto:3.63
+  online:3.07
+  conversation:2.98
+  accounts:2.98
+  jabber:2.80
+
+Topic 4:
+  account:21.54
+  tor:11.26
+  contact:9.75
+  online:7.52
+  juliet:6.13
+  conversation:6.04
+  choose:5.79
+  anonymous:5.37
+  accounts:5.29
+  encryption:5.09
+
+K: 5, Log-Likelihood: -18915.382, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  hos:28.79
+  enforcement:17.26
+  insignificant:16.77
+  law:16.39
+  reviews:15.35
+  reddit:14.01
+  thereon:13.19
+  people:12.60
+  discussion:10.42
+  clearnet:10.25
+
+Topic 1:
+  insignificant:13.67
+  people:11.00
+  thereon:7.96
+  honeypot:6.03
+  speak:4.31
+  double:3.83
+  reddit:3.83
+  sense:3.83
+  obscure:3.72
+  january:3.54
+
+Topic 2:
+  english:27.89
+  double:11.91
+  negative:8.80
+  phrase:4.81
+  lysergic:4.57
+  doses:4.50
+  january:4.29
+  dxuutx:4.04
+  quote:3.98
+  significance:3.90
+
+Topic 3:
+  english:16.57
+  insignificant:16.50
+  negative:14.12
+  double:13.28
+  meaning:12.91
+  phrase:12.84
+  litotes:11.94
+  dxuutx:11.79
+  post:9.74
+  common:9.36
+
+Topic 4:
+  meaning:20.15
+  language:19.41
+  word:12.67
+  culture:7.92
+  failed:5.81
+  equivalent:5.79
+  thing:5.70
+  double:5.55
+  speech:5.29
+  dont:5.02
+
+K: 5, Log-Likelihood: -10618.849, Alpha: 11.000, Beta: 1.100

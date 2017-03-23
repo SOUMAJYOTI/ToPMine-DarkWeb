@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.40
+  gramma:0.40
+  tarjouksista:0.26
+  myyji:0.26
+  profiilissa:0.26
+  antavan:0.26
+  norm:0.26
+  asiakkaidemme:0.26
+  ll:0.26
+  sivulla:0.26
+
+Topic 1:
+  gramma:0.40
+  ja:0.40
+  nopeat:0.21
+  piri:0.21
+  hitaat:0.21
+  sy:0.21
+  grammaa:0.21
+  karkkikaupan:0.21
+  toivottaa:0.21
+  ei:0.21
+
+Topic 2:
+  ja:0.40
+  gramma:0.40
+  vain:0.21
+  jaossa:0.21
+  viikonloppua:0.21
+  hyv:0.21
+  setti:0.21
+  hintaan:0.21
+  karkkikaupan:0.21
+  pistet:0.21
+
+Topic 3:
+  gramma:0.41
+  ja:0.40
+  ensimm:0.20
+  silkkitiell:0.20
+  jonkinlaista:0.20
+  ajankohtaisista:0.20
+  sek:0.20
+  meid:0.20
+  toivomme:0.20
+  music:0.20
+
+Topic 4:
+  gramma:0.39
+  ja:0.39
+  asiakaspalvelu:0.23
+  mutta:0.23
+  alennettuun:0.23
+  viikonlopun:0.23
+  tuotetta:0.23
+  hitaat:0.23
+  se:0.23
+  lopun:0.23
+
+K: 5, Log-Likelihood: -232.536, Alpha: 11.000, Beta: 1.100

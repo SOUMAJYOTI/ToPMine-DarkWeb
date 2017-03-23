@@ -1,0 +1,61 @@
+Topic 0:
+  admin:0.60
+  community:0.40
+  outlaw:0.40
+  members:0.20
+  forum:0.20
+  seugceklfnn:0.20
+  message:0.20
+  vendor:0.20
+  communication:0.20
+  xe:0.20
+
+Topic 1:
+  admin:0.58
+  community:0.40
+  outlaw:0.40
+  cv:0.20
+  communicate:0.20
+  torchat:0.20
+  prn:0.20
+  single:0.20
+  based:0.20
+  niels:0.20
+
+Topic 2:
+  admin:0.61
+  community:0.40
+  outlaw:0.40
+  bm:0.20
+  shop:0.20
+  dedicated:0.20
+  xvoutlaw:0.20
+  communication:0.20
+  vendor:0.20
+  nnoutlaw:0.20
+
+Topic 3:
+  admin:0.59
+  outlaw:0.41
+  community:0.40
+  contacted:0.20
+  messaging:0.20
+  admit:0.20
+  serve:0.20
+  teccztdayagxbh:0.20
+  members:0.20
+  dedicated:0.20
+
+Topic 4:
+  admin:0.61
+  community:0.40
+  outlaw:0.40
+  prn:0.20
+  single:0.20
+  promote:0.20
+  seugceklfnn:0.20
+  teccztdayagxbh:0.20
+  outlaws:0.20
+  shop:0.20
+
+K: 5, Log-Likelihood: -136.937, Alpha: 11.000, Beta: 1.100

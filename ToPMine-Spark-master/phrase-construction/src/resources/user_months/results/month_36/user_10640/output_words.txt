@@ -1,0 +1,61 @@
+Topic 0:
+  browser:0.64
+  log:0.61
+  link:0.58
+  moment:0.55
+  links:0.41
+  tor:0.41
+  thing:0.41
+  configured:0.41
+  direct:0.41
+  improperly:0.41
+
+Topic 1:
+  moment:0.77
+  log:0.64
+  link:0.59
+  login:0.54
+  browser:0.52
+  registration:0.46
+  cleared:0.45
+  redirected:0.45
+  fields:0.45
+  form:0.44
+
+Topic 2:
+  link:0.62
+  browser:0.61
+  log:0.55
+  moment:0.55
+  tor:0.42
+  links:0.42
+  configured:0.41
+  forums:0.41
+  mirror:0.41
+  improperly:0.41
+
+Topic 3:
+  browser:0.62
+  link:0.62
+  log:0.60
+  moment:0.58
+  happened:0.42
+  direct:0.42
+  improperly:0.42
+  mirror:0.42
+  forums:0.42
+  configured:0.42
+
+Topic 4:
+  browser:0.61
+  link:0.60
+  log:0.59
+  moment:0.55
+  links:0.42
+  interfering:0.42
+  forums:0.41
+  configured:0.41
+  direct:0.41
+  improperly:0.41
+
+K: 5, Log-Likelihood: -468.357, Alpha: 11.000, Beta: 1.100

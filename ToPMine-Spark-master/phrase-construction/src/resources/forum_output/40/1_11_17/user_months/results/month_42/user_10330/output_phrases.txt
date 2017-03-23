@@ -1,0 +1,61 @@
+Topic 0:
+  passphrase:57.47
+  spy agencies:31.35
+  data:26.57
+  citizen lab:25.08
+  cbc news:25.08
+  word passphrase:24.78
+  browser:21.94
+  national security:21.25
+  servers:19.93
+  canada:18.81
+
+Topic 1:
+  gnupg:50.16
+  gnupg tar bz:35.41
+  keys:31.87
+  version gnupg:28.33
+  ftp gnupg org gcrypt:24.78
+  ftp:24.78
+  check:18.68
+  release signing keys:17.70
+  bug:17.70
+  key:17.27
+
+Topic 2:
+  private key:12.80
+  support clear:12.52
+  freely:12.51
+  signature confused sign message:12.17
+  coldstorage march:12.17
+  pgp signed message hash:10.70
+  sha abraxas market compromised:10.70
+  abraxas pgp key pip:10.70
+  support access:10.70
+  free day:10.66
+
+Topic 3:
+  threat:13.92
+  time:13.36
+  open shut case:12.53
+  government simply:12.53
+  law:12.53
+  pgp signed message:11.38
+  support:10.52
+  approach:10.49
+  ip address leak:10.42
+  day evo leak worried:9.92
+
+Topic 4:
+  tor browser:18.79
+  brute force:17.69
+  word diceware passphrase:15.81
+  smartphone:13.92
+  companies special:12.52
+  firefox esr:10.60
+  zaphod:10.04
+  diceware:9.43
+  service:9.39
+  tor browser tor browser:9.39
+
+K: 5, Log-Likelihood: -104932.250, Alpha: 11.000, Beta: 1.100

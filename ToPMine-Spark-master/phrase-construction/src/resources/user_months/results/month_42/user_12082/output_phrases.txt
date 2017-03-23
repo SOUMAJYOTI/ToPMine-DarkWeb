@@ -1,0 +1,61 @@
+Topic 0:
+  deposit:0.28
+  marketplace:0.28
+  ag:0.27
+  day:0.14
+  wait:0.14
+  situation:0.14
+  causing:0.14
+  thread:0.14
+  safe:0.14
+  account:0.14
+
+Topic 1:
+  ag:0.28
+  deposit:0.28
+  marketplace:0.27
+  ago:0.14
+  intoxicated:0.14
+  mm:0.14
+  humboldtfarms:0.14
+  system:0.14
+  running:0.14
+  double:0.14
+
+Topic 2:
+  ag:0.28
+  deposit:0.28
+  marketplace:0.27
+  spike:0.14
+  level:0.14
+  ago:0.14
+  till:0.14
+  butter:0.14
+  brain:0.14
+  caused:0.14
+
+Topic 3:
+  marketplace:0.28
+  ag:0.28
+  deposit:0.27
+  confirming:0.14
+  coming:0.14
+  expecting:0.14
+  reddit:0.14
+  posted:0.14
+  admins:0.14
+  delays:0.14
+
+Topic 4:
+  deposit:0.28
+  marketplace:0.28
+  ag:0.28
+  plate:0.14
+  funds:0.14
+  withdrawals:0.14
+  address:0.14
+  created:0.14
+  half:0.14
+  working:0.14
+
+K: 5, Log-Likelihood: -286.987, Alpha: 11.000, Beta: 1.100

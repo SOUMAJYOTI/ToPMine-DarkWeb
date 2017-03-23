@@ -1,0 +1,61 @@
+Topic 0:
+  trolls shills:0.40
+  process:0.29
+  bitcointalk:0.27
+  clearnet:0.27
+  darknet:0.27
+  mixers:0.27
+  blockchain:0.14
+  transaction:0.14
+  blender:0.14
+  observed:0.14
+
+Topic 1:
+  trolls shills:0.43
+  clearnet:0.28
+  bitcointalk:0.28
+  darknet:0.28
+  mixers:0.28
+  process:0.27
+  mixer:0.14
+  accusations:0.14
+  created:0.14
+  year:0.14
+
+Topic 2:
+  trolls shills:0.42
+  mixers:0.28
+  darknet:0.28
+  clearnet:0.28
+  bitcointalk:0.28
+  process:0.28
+  sorrymario:0.14
+  accusations:0.14
+  swam:0.14
+  pmtheir:0.14
+
+Topic 3:
+  trolls shills:0.41
+  process:0.28
+  darknet:0.28
+  bitcointalk:0.28
+  mixers:0.28
+  clearnet:0.28
+  observe:0.14
+  transaction:0.14
+  coins:0.14
+  blockchain:0.14
+
+Topic 4:
+  trolls shills:0.42
+  mixers:0.28
+  bitcointalk:0.28
+  clearnet:0.28
+  darknet:0.28
+  process:0.27
+  accounts:0.14
+  started:0.14
+  created:0.14
+  learned:0.14
+
+K: 5, Log-Likelihood: -152.997, Alpha: 11.000, Beta: 1.100

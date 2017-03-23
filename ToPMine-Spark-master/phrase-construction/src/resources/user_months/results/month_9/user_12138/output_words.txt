@@ -1,0 +1,61 @@
+Topic 0:
+  coin:2.80
+  shared:2.49
+  time:1.59
+  blockchain:1.36
+  bitcoin:1.21
+  service:1.13
+  fog:1.01
+  coins:1.01
+  hours:0.96
+  bitblender:0.91
+
+Topic 1:
+  site:8.92
+  laundering:7.77
+  easy:6.04
+  fee:5.69
+  time:4.06
+  slow:3.84
+  tested:3.78
+  hr:3.78
+  options:3.26
+  launder:3.26
+
+Topic 2:
+  btc:4.00
+  bitblender:2.02
+  coins:1.21
+  coin:1.10
+  ltc:1.09
+  time:1.05
+  blockchain:0.90
+  link:0.85
+  shared:0.81
+  trustworthy:0.80
+
+Topic 3:
+  coins:1.95
+  hours:1.71
+  time:1.40
+  service:1.38
+  bitblender:1.33
+  takes:1.25
+  shared:0.94
+  trustworthy:0.89
+  blockchain:0.86
+  bitcoin:0.83
+
+Topic 4:
+  shared:3.66
+  mixer:2.94
+  service:2.92
+  fog:2.64
+  bitcoin:2.34
+  time:1.89
+  blockchain:1.77
+  hours:1.68
+  coin:1.43
+  shouldnt:1.36
+
+K: 5, Log-Likelihood: -1859.146, Alpha: 11.000, Beta: 1.100

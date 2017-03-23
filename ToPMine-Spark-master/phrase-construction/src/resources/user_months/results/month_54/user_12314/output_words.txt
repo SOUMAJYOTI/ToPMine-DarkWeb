@@ -1,0 +1,61 @@
+Topic 0:
+  siis:0.83
+  ei:0.61
+  toimii:0.41
+  muut:0.40
+  tarvitsisi:0.40
+  numerosarjat:0.40
+  pankkitunnuksia:0.40
+  tt:0.40
+  sy:0.40
+  kortin:0.40
+
+Topic 1:
+  siis:0.79
+  ei:0.58
+  sen:0.41
+  mutta:0.41
+  ensimm:0.41
+  pankkitunnuksia:0.40
+  sy:0.40
+  kortin:0.40
+  muut:0.40
+  sun:0.40
+
+Topic 2:
+  siis:0.83
+  ei:0.59
+  sun:0.41
+  kortin:0.41
+  ensimm:0.40
+  mutta:0.40
+  muut:0.40
+  tt:0.40
+  pankkitunnuksia:0.40
+  numerosarjat:0.40
+
+Topic 3:
+  siis:0.74
+  ei:0.63
+  sen:0.41
+  ensimm:0.40
+  toimii:0.40
+  tt:0.40
+  mutta:0.40
+  tarvitsisi:0.40
+  numerosarjat:0.40
+  sy:0.40
+
+Topic 4:
+  siis:0.81
+  ei:0.59
+  mutta:0.41
+  ensimm:0.41
+  sen:0.40
+  numerosarjat:0.40
+  kortin:0.40
+  sun:0.40
+  sy:0.40
+  pankkitunnuksia:0.40
+
+K: 5, Log-Likelihood: -336.636, Alpha: 11.000, Beta: 1.100

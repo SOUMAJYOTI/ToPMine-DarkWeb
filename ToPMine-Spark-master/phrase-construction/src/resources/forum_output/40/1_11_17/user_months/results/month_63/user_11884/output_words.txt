@@ -1,0 +1,21 @@
+Topic 0:
+  site:0.20
+  vending:0.20
+
+Topic 1:
+  site:0.20
+  vending:0.20
+
+Topic 2:
+  vending:0.20
+  site:0.20
+
+Topic 3:
+  vending:0.20
+  site:0.20
+
+Topic 4:
+  site:0.20
+  vending:0.20
+
+K: 5, Log-Likelihood: -1.386, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ctrl:3.85
+  key work:3.85
+  click:3.85
+  checkbox:3.85
+  keyssince:3.85
+  holding:3.85
+  work encrypt multiply:3.83
+  pmio work encrypt multiply:3.27
+  cards:2.83
+  ddint:2.29
+
+Topic 1:
+  code select:4.77
+  armor:4.08
+  file:3.88
+  select gpg:3.88
+  becode:3.88
+  alice:3.88
+  command:3.88
+  bob:3.88
+  harkness:2.33
+  jack:2.33
+
+Topic 2:
+  symmetry key:9.72
+  message:7.85
+  recipients:7.28
+  decrypt:4.83
+  key:4.83
+  encrypt:4.83
+  recipients gpg:2.39
+  private:2.39
+  public:2.39
+  actual:2.39
+
+Topic 3:
+  web:7.27
+  values:4.83
+  character:4.83
+  mangled:4.83
+  ascii:4.83
+  data:4.11
+  linewhat:3.75
+  gpa checkboxes:3.75
+  dont command:3.75
+  keysi:3.75
+
+Topic 4:
+  clearnet:7.22
+  multisig:4.73
+  escrow:4.73
+  process:3.60
+  works:3.56
+  keysyou:3.07
+  gpgtools:2.34
+  gnupg:2.34
+  systems:2.34
+  win:2.34
+
+K: 5, Log-Likelihood: -2258.654, Alpha: 11.000, Beta: 1.100

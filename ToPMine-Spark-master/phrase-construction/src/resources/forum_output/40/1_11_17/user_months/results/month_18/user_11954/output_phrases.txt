@@ -1,0 +1,51 @@
+Topic 0:
+  bucket:0.00
+  settings:0.00
+  system:0.00
+  data:0.00
+  idea:0.00
+  achieve:0.00
+  kicked:0.00
+  support:0.00
+
+Topic 1:
+  bucket:0.00
+  settings:0.00
+  system:0.00
+  data:0.00
+  idea:0.00
+  achieve:0.00
+  kicked:0.00
+  support:0.00
+
+Topic 2:
+  bucket:0.00
+  settings:0.00
+  system:0.00
+  data:0.00
+  idea:0.00
+  achieve:0.00
+  kicked:0.00
+  support:0.00
+
+Topic 3:
+  bucket:0.00
+  settings:0.00
+  system:0.00
+  data:0.00
+  idea:0.00
+  achieve:0.00
+  kicked:0.00
+  support:0.00
+
+Topic 4:
+  bucket:0.00
+  settings:0.00
+  system:0.00
+  data:0.00
+  idea:0.00
+  achieve:0.00
+  kicked:0.00
+  support:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

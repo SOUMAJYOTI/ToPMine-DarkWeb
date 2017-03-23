@@ -1,0 +1,61 @@
+Topic 0:
+  great:0.48
+  bitcoin bitcoin:0.47
+  sound:0.47
+  fact:0.47
+  evolution:0.47
+  biggest:0.47
+  security:0.47
+  threads:0.47
+  places:0.47
+  lots:0.47
+
+Topic 1:
+  quality:0.58
+  reposted:0.58
+  top:0.58
+  dig:0.58
+  subforums:0.58
+  reason:0.58
+  bitcoins:0.58
+  learn:0.58
+  info security:0.58
+  larger:0.58
+
+Topic 2:
+  youll:0.42
+  ll:0.42
+  time tails:0.41
+  opsec:0.41
+  orderofthephoenix:0.41
+  opsec pgp:0.41
+  extra:0.41
+  system:0.41
+  pgp opsec:0.41
+  learning:0.41
+
+Topic 3:
+  good:2.28
+  wondering:2.28
+  sort:1.04
+  chances:1.04
+  middle:1.04
+  slowly:1.04
+  net:1.04
+  buy:1.04
+  handle:1.04
+  earth:1.04
+
+Topic 4:
+  find:0.73
+  lucy:0.72
+  time:0.72
+  security good:0.72
+  sloppy:0.72
+  operating:0.72
+  system:0.72
+  contact:0.72
+  extra:0.72
+  slow:0.72
+
+K: 5, Log-Likelihood: -686.255, Alpha: 11.000, Beta: 1.100

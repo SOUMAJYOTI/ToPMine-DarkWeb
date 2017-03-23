@@ -1,0 +1,61 @@
+Topic 0:
+  tor:14.27
+  users:10.45
+  law:9.64
+  enforcement:9.64
+  people:6.72
+  child:4.96
+  pornography:4.96
+  site:4.96
+  security:4.43
+  data:3.96
+
+Topic 1:
+  tor:9.69
+  vpn:8.75
+  anonymous:3.43
+  advice:2.32
+  linux:2.30
+  live:1.76
+  distro:1.60
+  bonus:1.53
+  beta:1.53
+  bridge:1.53
+
+Topic 2:
+  quote:10.72
+  april:6.64
+  dont:6.10
+  mistake:5.90
+  people:5.86
+  tor:4.92
+  tyson:3.85
+  pm:3.82
+  practice:3.82
+  kilpatrick:3.55
+
+Topic 3:
+  vpn:4.97
+  live:4.25
+  browsing:4.13
+  distro:3.97
+  great:3.39
+  os:2.96
+  main:2.96
+  running:2.96
+  find:2.93
+  time:2.42
+
+Topic 4:
+  tor:6.35
+  anonymous:3.04
+  vpn:2.24
+  network:2.03
+  find:1.56
+  visiting:1.34
+  anonymously:1.28
+  isnt:1.22
+  speed:1.20
+  setup:1.09
+
+K: 5, Log-Likelihood: -5584.576, Alpha: 11.000, Beta: 1.100

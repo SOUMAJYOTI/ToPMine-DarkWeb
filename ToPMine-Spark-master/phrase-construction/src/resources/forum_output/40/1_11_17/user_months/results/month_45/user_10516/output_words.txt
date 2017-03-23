@@ -1,0 +1,61 @@
+Topic 0:
+  firmware:19.37
+  rootkits:17.42
+  bios:17.25
+  os:14.75
+  tor:12.38
+  case:12.04
+  malware:10.48
+  picked:8.94
+  write:8.11
+  tracking:7.90
+
+Topic 1:
+  dont:12.38
+  thing:11.98
+  mac:10.90
+  wifi:10.32
+  good:9.87
+  ethernet:8.92
+  april:7.69
+  library:6.92
+  wired:6.28
+  idea:6.27
+
+Topic 2:
+  tails:17.55
+  hard:16.90
+  drives:10.43
+  firmware:10.15
+  place:8.99
+  vpn:8.67
+  plug:8.29
+  camera:7.84
+  shit:7.14
+  roll:6.81
+
+Topic 3:
+  random:7.69
+  firmware:6.27
+  code:5.73
+  system:5.30
+  marek:4.96
+  amd:4.96
+  de:4.92
+  entropy:4.77
+  linux:4.68
+  solution:4.55
+
+Topic 4:
+  secure:15.82
+  fde:10.56
+  boot:10.42
+  truecrypt:9.18
+  aes:8.62
+  luks:8.46
+  cryptsetup:7.82
+  key:7.73
+  installer:7.52
+  disk:7.22
+
+K: 5, Log-Likelihood: -21838.846, Alpha: 11.000, Beta: 1.100

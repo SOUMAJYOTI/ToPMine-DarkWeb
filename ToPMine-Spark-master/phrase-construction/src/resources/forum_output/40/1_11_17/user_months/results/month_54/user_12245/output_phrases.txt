@@ -1,0 +1,61 @@
+Topic 0:
+  oli jo:0.28
+  ku:0.28
+  mut:0.28
+  tahansa:0.27
+  kannata:0.27
+  kin:0.27
+  jo:0.27
+  himaan:0.27
+  vaiheessa:0.27
+  sulle:0.27
+
+Topic 1:
+  sulle:0.28
+  himaan:0.28
+  kannata:0.28
+  vaiheessa:0.28
+  tahansa:0.28
+  jo:0.28
+  kin:0.28
+  ku:0.27
+  mut:0.27
+  oli jo:0.27
+
+Topic 2:
+  kin:0.30
+  tahansa:0.30
+  jo:0.30
+  vaiheessa:0.30
+  kannata:0.30
+  sulle:0.30
+  himaan:0.30
+  mut:0.25
+  ku:0.25
+  oli jo:0.25
+
+Topic 3:
+  himaan:0.28
+  kin:0.28
+  vaiheessa:0.28
+  sulle:0.28
+  jo:0.28
+  tahansa:0.28
+  kannata:0.28
+  mut:0.27
+  ku:0.27
+  oli jo:0.27
+
+Topic 4:
+  mut:0.31
+  oli jo:0.31
+  ku:0.31
+  vaiheessa:0.25
+  jo:0.25
+  kannata:0.25
+  himaan:0.25
+  tahansa:0.25
+  kin:0.25
+  sulle:0.25
+
+K: 5, Log-Likelihood: -425.157, Alpha: 11.000, Beta: 1.100

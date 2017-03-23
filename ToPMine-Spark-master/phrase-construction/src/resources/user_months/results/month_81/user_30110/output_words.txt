@@ -1,0 +1,61 @@
+Topic 0:
+  problem:1.46
+  people:1.12
+  dont:1.11
+  money:1.07
+  exit:0.87
+  balance:0.67
+  coins:0.67
+  site:0.63
+  alert:0.60
+  happened:0.56
+
+Topic 1:
+  problem:1.58
+  site:0.92
+  coins:0.89
+  june:0.75
+  people:0.73
+  exit:0.73
+  quote:0.72
+  temporary:0.66
+  sig:0.65
+  happened:0.64
+
+Topic 2:
+  problem:1.41
+  dont:0.97
+  people:0.86
+  exit:0.78
+  money:0.76
+  coins:0.75
+  site:0.72
+  alert:0.64
+  sig:0.62
+  balance:0.62
+
+Topic 3:
+  problem:2.36
+  people:1.49
+  coins:0.90
+  money:0.88
+  site:0.87
+  exit:0.81
+  problems:0.72
+  temporary:0.71
+  balance:0.58
+  happened:0.57
+
+Topic 4:
+  problem:1.20
+  site:0.87
+  exit:0.81
+  people:0.79
+  coins:0.79
+  dont:0.75
+  quote:0.73
+  sig:0.71
+  june:0.70
+  money:0.69
+
+K: 5, Log-Likelihood: -1025.959, Alpha: 11.000, Beta: 1.100

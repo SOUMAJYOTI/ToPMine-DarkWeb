@@ -1,0 +1,61 @@
+Topic 0:
+  funds:2.53
+  customers:1.61
+  galindoi:1.53
+  depositing:1.46
+  system:1.30
+  finalized:1.28
+  transfer:1.27
+  easily:1.26
+  buyer:1.26
+  transactions:1.24
+
+Topic 1:
+  agora:3.04
+  direct:2.81
+  deals:2.44
+  people:1.62
+  business:1.45
+  galindoi:1.42
+  customers:1.42
+  flow:1.28
+  bulk:1.27
+  ebb:1.25
+
+Topic 2:
+  depositing:1.63
+  customers:1.63
+  galindoi:1.54
+  funds:1.50
+  agora:1.45
+  activity:0.87
+  easily:0.86
+  crickets:0.85
+  light:0.84
+  finalized:0.84
+
+Topic 3:
+  deals:3.99
+  direct:3.57
+  agora:3.26
+  people:1.96
+  customers:1.86
+  galindoi:1.80
+  moving:1.76
+  order:1.74
+  ebb:1.71
+  flow:1.68
+
+Topic 4:
+  funds:3.13
+  galindoi:1.70
+  depositing:1.61
+  ve:1.54
+  experience:1.48
+  customers:1.47
+  lot:1.44
+  light:1.42
+  grain:1.42
+  dollars:1.42
+
+K: 5, Log-Likelihood: -1059.189, Alpha: 11.000, Beta: 1.100

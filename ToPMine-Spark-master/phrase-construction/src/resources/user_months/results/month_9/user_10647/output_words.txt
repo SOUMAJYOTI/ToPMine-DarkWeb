@@ -1,0 +1,61 @@
+Topic 0:
+  version:4.53
+  openssl:2.39
+  pythons:1.76
+  based:1.71
+  whichever:1.69
+  bug:1.60
+  distro:1.52
+  electrum:1.50
+  updated:1.46
+  ldd:1.45
+
+Topic 1:
+  vulnerable:12.97
+  tor:5.19
+  server:4.23
+  openssl:3.73
+  irc:2.85
+  version:2.25
+  ssl:2.15
+  library:2.13
+  hidden:2.02
+  service:1.96
+
+Topic 2:
+  torchat:2.93
+  community:2.08
+  list:1.95
+  goals:1.94
+  ve:1.94
+  implementation:1.94
+  torsion:1.94
+  interested:1.94
+  tor:1.56
+  client:1.06
+
+Topic 3:
+  openssl:10.14
+  system:5.30
+  electrum:5.24
+  built:4.92
+  vulnerable:4.56
+  binaries:3.55
+  opens:3.40
+  applications:2.93
+  source:2.49
+  tails:2.43
+
+Topic 4:
+  vulnerable:7.99
+  openssl:3.68
+  encryption:3.32
+  version:3.16
+  windows:2.40
+  opens:1.51
+  linus:1.12
+  hidden:0.87
+  gcrypt:0.86
+  ssh:0.85
+
+K: 5, Log-Likelihood: -2245.791, Alpha: 11.000, Beta: 1.100

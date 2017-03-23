@@ -1,0 +1,61 @@
+Topic 0:
+  tor hidden services:15.16
+  tor network:12.98
+  tor hidden service:12.81
+  code:12.01
+  users:10.46
+  nodes hsdirs:10.25
+  nodes:10.25
+  tor users:10.25
+  exit relays:10.25
+  virtual machine:10.25
+
+Topic 1:
+  time:10.76
+  tor instance system:8.61
+  quote el presidente april:7.68
+  mechwarrior april:7.67
+  clock:7.63
+  clock nap:6.46
+  interesting:6.46
+  work:6.46
+  attacker:5.97
+  host isn:5.12
+
+Topic 2:
+  keys:8.78
+  graham:7.69
+  encryption:6.59
+  tor:6.40
+  internet:5.36
+  dh:5.12
+  ecdhe:5.12
+  version:5.12
+  snowdon:5.12
+  surveillance:5.12
+
+Topic 3:
+  quote real sigaint april:10.25
+  domains:6.53
+  webserver:5.12
+  stub domains:5.12
+  jem:5.12
+  qubes:5.12
+  os:5.12
+  suggestions:4.99
+  ntp:4.65
+  time synchronization:4.58
+
+Topic 4:
+  researchers:17.54
+  export:12.82
+  mail:10.99
+  differ hellman:10.87
+  mail servers:10.25
+  attackers:8.77
+  data needed attack:7.69
+  encrusted connections:7.69
+  documents:7.69
+  called:7.69
+
+K: 5, Log-Likelihood: -30326.907, Alpha: 11.000, Beta: 1.100

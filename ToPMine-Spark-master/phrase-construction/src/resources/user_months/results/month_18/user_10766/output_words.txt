@@ -1,0 +1,61 @@
+Topic 0:
+  attacks:3.19
+  attack:3.03
+  vulnerable:1.55
+  hidden:1.40
+  services:1.26
+  flood:1.09
+  tor:1.01
+  service:0.97
+  doesnt:0.92
+  ip:0.85
+
+Topic 1:
+  attacks:3.76
+  attack:2.88
+  vulnerable:1.87
+  tor:1.73
+  hidden:1.72
+  services:1.47
+  icmp:1.05
+  denial:1.03
+  addressing:1.02
+  peer:1.02
+
+Topic 2:
+  egress:2.59
+  filtering:2.58
+  public:1.63
+  term:1.62
+  filter:1.62
+  target:1.62
+  legitimate:1.62
+  aimed:1.62
+  attacks:0.98
+  ip:0.78
+
+Topic 3:
+  address:1.55
+  ip:1.28
+  service:1.07
+  attacks:0.94
+  box:0.91
+  coming:0.91
+  hidden:0.86
+  attack:0.53
+  system:0.34
+  work:0.34
+
+Topic 4:
+  service:1.90
+  hidden:1.82
+  attack:1.39
+  ip:1.31
+  attacks:1.13
+  address:0.92
+  list:0.70
+  packets:0.69
+  flood:0.64
+  knowing:0.48
+
+K: 5, Log-Likelihood: -874.945, Alpha: 11.000, Beta: 1.100

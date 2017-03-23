@@ -1,0 +1,61 @@
+Topic 0:
+  hub:0.58
+  image:0.46
+  matrix:0.46
+  link:0.38
+  images:0.38
+  pictures:0.37
+  thread:0.37
+  safely:0.37
+  people:0.37
+  find:0.37
+
+Topic 1:
+  matrix:0.51
+  image:0.51
+  hub:0.44
+  images:0.43
+  link:0.42
+  tambourine:0.35
+  pm:0.35
+  quote:0.35
+  march:0.35
+  tor:0.34
+
+Topic 2:
+  image:0.53
+  matrix:0.52
+  hub:0.50
+  link:0.48
+  images:0.48
+  nasty:0.46
+  week:0.46
+  surprises:0.46
+  doesnt:0.46
+  time:0.46
+
+Topic 3:
+  hub:0.49
+  immer:0.44
+  stoned:0.44
+  websites:0.44
+  mayb:0.44
+  wondering:0.44
+  find:0.44
+  matrix:0.44
+  method:0.44
+  people:0.44
+
+Topic 4:
+  tails:2.01
+  question:0.78
+  feature:0.78
+  dialouge:0.78
+  dont:0.78
+  difficulty:0.78
+  window:0.78
+  security:0.78
+  suggestions:0.78
+  open:0.78
+
+K: 5, Log-Likelihood: -371.244, Alpha: 11.000, Beta: 1.100

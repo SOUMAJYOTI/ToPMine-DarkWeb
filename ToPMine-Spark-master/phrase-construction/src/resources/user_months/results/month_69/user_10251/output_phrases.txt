@@ -1,0 +1,61 @@
+Topic 0:
+  move forum:3.08
+  sign:3.07
+  banned tmg:3.07
+  reestablish:3.07
+  ill:3.07
+  reasons:3.07
+  unknown:3.07
+  advised:3.06
+  connection:3.06
+  law:2.82
+
+Topic 1:
+  counts seizure:8.26
+  package:6.18
+  seizures:4.10
+  tmg:4.10
+  good:3.45
+  territories:2.03
+  extensively:2.03
+  ways:2.03
+  love:2.03
+  message:2.03
+
+Topic 2:
+  heard:4.07
+  contact:3.08
+  link:2.84
+  worry:1.99
+  advise:1.99
+  strangehope:1.99
+  starting:1.99
+  messages:1.99
+  email address:1.99
+  haven:1.99
+
+Topic 3:
+  worth:4.90
+  marked vendor:3.79
+  enigma:3.22
+  lucy cult:3.22
+  reputation:3.22
+  ban:3.21
+  loads:3.21
+  implacable:3.21
+  issue:3.21
+  reporting:3.21
+
+Topic 4:
+  lucy:4.74
+  mails:3.22
+  good hear:3.22
+  asap:3.22
+  sorted:3.22
+  normal:3.22
+  week:3.22
+  days:3.22
+  order:3.22
+  check:3.22
+
+K: 5, Log-Likelihood: -2570.367, Alpha: 11.000, Beta: 1.100

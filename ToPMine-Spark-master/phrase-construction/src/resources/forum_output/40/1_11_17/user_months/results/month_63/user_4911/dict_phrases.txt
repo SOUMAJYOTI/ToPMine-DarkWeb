@@ -1,0 +1,13 @@
+website,0,1
+org,2,1
+link,5,1
+menu,8,1
+sample,10,1
+left,1,1
+energycontrol,3,2
+english,4,2
+international,6,2
+reply,7,1
+send,9,1
+email,11,1
+hand,12,1

@@ -1,0 +1,61 @@
+Topic 0:
+  btc:0.68
+  fake:0.57
+  addresses:0.49
+  wrong:0.46
+  login:0.45
+  support:0.45
+  password:0.45
+  troubles:0.45
+  time:0.44
+  hey:0.43
+
+Topic 1:
+  btc:0.73
+  fake:0.60
+  addresses:0.52
+  login:0.43
+  password:0.43
+  wrong:0.43
+  troubles:0.43
+  time:0.42
+  glad:0.42
+  hey:0.42
+
+Topic 2:
+  btc:0.78
+  fake:0.62
+  addresses:0.61
+  glad:0.40
+  onionshop:0.40
+  troubles:0.40
+  hey:0.40
+  support:0.40
+  wrong:0.40
+  add:0.40
+
+Topic 3:
+  btc:0.90
+  addresses:0.62
+  fake:0.60
+  onionshop:0.41
+  add:0.41
+  hey:0.40
+  glad:0.40
+  support:0.39
+  troubles:0.39
+  time:0.38
+
+Topic 4:
+  btc:0.91
+  addresses:0.75
+  fake:0.61
+  add:0.54
+  onionshop:0.43
+  time:0.36
+  hey:0.36
+  glad:0.36
+  login:0.35
+  password:0.34
+
+K: 5, Log-Likelihood: -325.235, Alpha: 11.000, Beta: 1.100

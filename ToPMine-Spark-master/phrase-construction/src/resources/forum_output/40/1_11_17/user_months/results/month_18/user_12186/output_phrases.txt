@@ -1,0 +1,61 @@
+Topic 0:
+  onion:0.39
+  wallet:0.35
+  server:0.21
+  quote:0.21
+  persistent electrum:0.20
+  restore:0.20
+  amnesia:0.20
+  seed:0.20
+  localhost:0.20
+  socks:0.20
+
+Topic 1:
+  onion:0.38
+  wallet:0.35
+  server:0.21
+  quote:0.20
+  seed:0.20
+  restore:0.20
+  persistent electrum:0.20
+  localhost:0.20
+  text:0.20
+  amnesia:0.20
+
+Topic 2:
+  wallet:0.40
+  onion:0.34
+  text:0.21
+  amnesia:0.21
+  persistent electrum:0.21
+  localhost:0.21
+  socks:0.21
+  seed:0.21
+  restore:0.21
+  quote:0.20
+
+Topic 3:
+  wallet:0.36
+  onion:0.36
+  socks:0.21
+  seed:0.21
+  localhost:0.21
+  amnesia:0.21
+  text:0.21
+  restore:0.21
+  persistent electrum:0.21
+  server:0.20
+
+Topic 4:
+  wallet:0.37
+  onion:0.36
+  restore:0.21
+  socks:0.21
+  text:0.21
+  persistent electrum:0.21
+  localhost:0.21
+  amnesia:0.21
+  seed:0.21
+  quote:0.20
+
+K: 5, Log-Likelihood: -204.367, Alpha: 11.000, Beta: 1.100

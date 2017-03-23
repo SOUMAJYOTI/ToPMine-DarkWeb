@@ -1,0 +1,61 @@
+Topic 0:
+  default:0.37
+  fingerprint:0.20
+  users:0.18
+  advisable:0.18
+  stand:0.18
+  browser:0.18
+  changing:0.18
+  restarting:0.18
+  friend:0.18
+  fatal:0.18
+
+Topic 1:
+  default:0.36
+  fingerprint:0.20
+  leave:0.18
+  identifying:0.18
+  blends:0.18
+  share:0.18
+  bits:0.18
+  reset:0.18
+  find:0.18
+  session:0.18
+
+Topic 2:
+  default:0.37
+  fingerprint:0.20
+  advisable:0.18
+  change:0.18
+  depends:0.18
+  browser:0.18
+  crowd:0.18
+  changing:0.18
+  friend:0.18
+  stand:0.18
+
+Topic 3:
+  default:0.36
+  fingerprint:0.20
+  susceptible:0.18
+  reset:0.18
+  tor:0.18
+  session:0.18
+  doxxing:0.18
+  sesion:0.18
+  find:0.18
+  blends:0.18
+
+Topic 4:
+  default:0.37
+  fingerprint:0.20
+  tails:0.18
+  restore:0.18
+  depends:0.18
+  stand:0.18
+  fatal:0.18
+  change:0.18
+  changing:0.18
+  restarting:0.18
+
+K: 5, Log-Likelihood: -89.867, Alpha: 11.000, Beta: 1.100

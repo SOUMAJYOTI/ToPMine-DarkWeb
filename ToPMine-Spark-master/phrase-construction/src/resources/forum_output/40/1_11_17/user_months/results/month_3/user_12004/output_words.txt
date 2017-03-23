@@ -1,0 +1,61 @@
+Topic 0:
+  stuck:0.85
+  today:0.84
+  bitcoins:0.84
+  rate:0.60
+  agora:0.56
+  move:0.46
+  gox:0.45
+  good:0.44
+  exchange:0.37
+  frozen:0.37
+
+Topic 1:
+  rate:0.90
+  move:0.65
+  good:0.59
+  exchange:0.52
+  frozen:0.52
+  check:0.51
+  bitstamp:0.47
+  agora:0.46
+  today:0.36
+  bitcoins:0.35
+
+Topic 2:
+  move:1.40
+  rebound:1.25
+  customers:1.24
+  btc:1.23
+  good:0.74
+  rate:0.67
+  gox:0.48
+  happened:0.47
+  fall:0.47
+  vendors:0.47
+
+Topic 3:
+  rate:0.97
+  move:0.75
+  good:0.63
+  bitstamp:0.53
+  check:0.52
+  frozen:0.48
+  exchange:0.48
+  agora:0.41
+  gox:0.34
+  today:0.30
+
+Topic 4:
+  rate:0.86
+  move:0.74
+  good:0.61
+  bitstamp:0.44
+  frozen:0.44
+  check:0.43
+  exchange:0.43
+  agora:0.41
+  gox:0.39
+  bitcoins:0.38
+
+K: 5, Log-Likelihood: -453.168, Alpha: 11.000, Beta: 1.100

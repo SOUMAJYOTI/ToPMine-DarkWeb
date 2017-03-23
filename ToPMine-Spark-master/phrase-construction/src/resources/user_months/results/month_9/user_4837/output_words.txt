@@ -1,0 +1,61 @@
+Topic 0:
+  key:1.07
+  pgp:0.62
+  keys:0.42
+  bit:0.41
+  gpg:0.41
+  email:0.41
+  messages:0.41
+  remove:0.41
+  conf:0.41
+  solution:0.34
+
+Topic 1:
+  key:1.25
+  pgp:0.64
+  email:0.45
+  conf:0.45
+  remove:0.45
+  messages:0.45
+  keys:0.45
+  bit:0.45
+  gpg:0.45
+  solution:0.27
+
+Topic 2:
+  good:0.71
+  solution:0.71
+  key:0.67
+  pgp:0.48
+  remove:0.30
+  bit:0.30
+  gpg:0.30
+  email:0.30
+  messages:0.30
+  keys:0.30
+
+Topic 3:
+  key:0.90
+  pgp:0.58
+  good:0.42
+  solution:0.42
+  remove:0.38
+  conf:0.38
+  bit:0.38
+  keys:0.38
+  messages:0.38
+  email:0.38
+
+Topic 4:
+  key:1.10
+  pgp:0.67
+  gpg:0.47
+  keys:0.46
+  conf:0.46
+  messages:0.46
+  bit:0.46
+  email:0.46
+  remove:0.45
+  solution:0.27
+
+K: 5, Log-Likelihood: -232.385, Alpha: 11.000, Beta: 1.100

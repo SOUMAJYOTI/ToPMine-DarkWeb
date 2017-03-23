@@ -1,0 +1,61 @@
+Topic 0:
+  files:1.33
+  encrypted:1.28
+  dont:1.27
+  encryption:1.09
+  desperately:0.79
+  security:0.78
+  bridge:0.76
+  tails:0.70
+  private:0.69
+  passphrase:0.66
+
+Topic 1:
+  server:3.74
+  tails:3.11
+  pidgin:2.78
+  otr:2.78
+  jabber:2.47
+  authenticated:1.82
+  good:1.76
+  icq:1.76
+  inactive:1.76
+  account:1.76
+
+Topic 2:
+  cipher:1.80
+  dont:1.75
+  files:1.69
+  rc:1.38
+  passphrase:1.28
+  sha:1.22
+  encrypted:1.19
+  encryption:1.16
+  bridge:0.95
+  quote:0.91
+
+Topic 3:
+  dont:3.41
+  encryption:3.16
+  encrypted:2.98
+  files:2.78
+  security:1.94
+  desperately:1.88
+  bridge:1.85
+  sha:1.73
+  passphrase:1.65
+  rc:1.56
+
+Topic 4:
+  program:1.54
+  files:1.08
+  knowledge:1.08
+  follow:0.91
+  advice:0.91
+  liability:0.65
+  boards:0.65
+  people:0.65
+  lazy:0.65
+  knew:0.65
+
+K: 5, Log-Likelihood: -1341.794, Alpha: 11.000, Beta: 1.100

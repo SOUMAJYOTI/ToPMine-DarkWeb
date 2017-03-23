@@ -1,0 +1,61 @@
+Topic 0:
+  password:4.97
+  pin protection:4.74
+  btc:3.52
+  additional:3.11
+  info:3.11
+  check:3.09
+  month:3.09
+  send:3.06
+  password protection:3.06
+  deal:3.05
+
+Topic 1:
+  dumpsterbaby:3.33
+  troltergeist:2.30
+  offering:1.63
+  standing:1.63
+  victim:1.63
+  options:1.63
+  accept:1.63
+  unlimited:1.63
+  call:1.63
+  lifetime:1.63
+
+Topic 2:
+  password:2.31
+  forget:1.65
+  forget passwords:1.64
+  ill:1.46
+  account:1.04
+  ppl:1.04
+  fail:0.89
+  managed:0.88
+  began:0.88
+  havent:0.88
+
+Topic 3:
+  bob:3.30
+  good:3.30
+  bitchin:3.30
+  alarm bells:2.56
+  ringing:2.55
+  trolltergeist offer:2.37
+  afford:2.37
+  brings:2.37
+  flashbacks:2.37
+  priceses:2.37
+
+Topic 4:
+  trust:5.03
+  alfred:5.03
+  easily reached:3.74
+  period:2.43
+  short:2.43
+  bed:2.43
+  forgotten:2.43
+  lots:2.43
+  hub:2.43
+  quickness:2.43
+
+K: 5, Log-Likelihood: -1780.153, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  reminder:0.00
+  marketplace:0.00
+  steal:0.00
+  occur:0.00
+  adapt:0.00
+  weekend:0.00
+  black:0.00
+  evolution:0.00
+  market:0.00
+  skywalker:0.00
+
+Topic 1:
+  reminder:0.00
+  marketplace:0.00
+  steal:0.00
+  occur:0.00
+  adapt:0.00
+  weekend:0.00
+  black:0.00
+  evolution:0.00
+  market:0.00
+  skywalker:0.00
+
+Topic 2:
+  reminder:0.00
+  marketplace:0.00
+  steal:0.00
+  occur:0.00
+  adapt:0.00
+  weekend:0.00
+  black:0.00
+  evolution:0.00
+  market:0.00
+  skywalker:0.00
+
+Topic 3:
+  reminder:0.00
+  marketplace:0.00
+  steal:0.00
+  occur:0.00
+  adapt:0.00
+  weekend:0.00
+  black:0.00
+  evolution:0.00
+  market:0.00
+  skywalker:0.00
+
+Topic 4:
+  reminder:0.00
+  marketplace:0.00
+  steal:0.00
+  occur:0.00
+  adapt:0.00
+  weekend:0.00
+  black:0.00
+  evolution:0.00
+  market:0.00
+  skywalker:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

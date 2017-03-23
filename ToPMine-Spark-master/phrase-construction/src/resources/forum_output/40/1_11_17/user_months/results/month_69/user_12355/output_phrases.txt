@@ -1,0 +1,61 @@
+Topic 0:
+  tt:0.00
+  ll:0.00
+  hyv:0.00
+  halvalla:0.00
+  negaa:0.00
+  myyj:0.00
+  susi:0.00
+  mutta:0.00
+  saanut:0.00
+  isyysj:0.00
+
+Topic 1:
+  tt:0.00
+  ll:0.00
+  hyv:0.00
+  halvalla:0.00
+  negaa:0.00
+  myyj:0.00
+  susi:0.00
+  mutta:0.00
+  saanut:0.00
+  isyysj:0.00
+
+Topic 2:
+  tt:0.00
+  ll:0.00
+  hyv:0.00
+  halvalla:0.00
+  negaa:0.00
+  myyj:0.00
+  susi:0.00
+  mutta:0.00
+  saanut:0.00
+  isyysj:0.00
+
+Topic 3:
+  tt:0.00
+  ll:0.00
+  hyv:0.00
+  halvalla:0.00
+  negaa:0.00
+  myyj:0.00
+  susi:0.00
+  mutta:0.00
+  saanut:0.00
+  isyysj:0.00
+
+Topic 4:
+  tt:0.00
+  ll:0.00
+  hyv:0.00
+  halvalla:0.00
+  negaa:0.00
+  myyj:0.00
+  susi:0.00
+  mutta:0.00
+  saanut:0.00
+  isyysj:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

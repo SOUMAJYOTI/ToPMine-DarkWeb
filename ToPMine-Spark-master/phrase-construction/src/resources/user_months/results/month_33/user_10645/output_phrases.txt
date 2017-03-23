@@ -1,0 +1,61 @@
+Topic 0:
+  darknet:0.63
+  markets:0.55
+  test purchases:0.53
+  test purchase:0.53
+  groups:0.37
+  collection:0.36
+  internet:0.36
+  goods:0.36
+  team:0.36
+  services:0.36
+
+Topic 1:
+  darknet:0.61
+  test purchases:0.58
+  markets:0.57
+  test purchase:0.56
+  receive:0.38
+  investigation:0.38
+  services:0.38
+  collection:0.38
+  activity:0.38
+  experienced:0.38
+
+Topic 2:
+  test purchase:0.62
+  darknet:0.61
+  test purchases:0.59
+  markets:0.58
+  data:0.39
+  centient:0.39
+  internet:0.39
+  service:0.39
+  required:0.39
+  monthly:0.39
+
+Topic 3:
+  darknet:0.61
+  markets:0.52
+  test purchase:0.51
+  test purchases:0.51
+  specialists:0.35
+  activity:0.35
+  team:0.35
+  regular:0.35
+  experienced:0.35
+  required:0.35
+
+Topic 4:
+  darknet:0.61
+  test purchases:0.54
+  markets:0.53
+  test purchase:0.52
+  specialists:0.36
+  goods:0.36
+  centient:0.36
+  monthly:0.36
+  services:0.36
+  investigation:0.35
+
+K: 5, Log-Likelihood: -1060.953, Alpha: 11.000, Beta: 1.100

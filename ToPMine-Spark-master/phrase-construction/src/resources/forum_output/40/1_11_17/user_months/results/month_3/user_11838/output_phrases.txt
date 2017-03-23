@@ -1,0 +1,61 @@
+Topic 0:
+  forum:0.00
+  german:0.00
+  marketplace:0.00
+  talking:0.00
+  customers:0.00
+  interested:0.00
+  mentioned:0.00
+  ppl:0.00
+  vendors:0.00
+  local:0.00
+
+Topic 1:
+  forum:0.00
+  german:0.00
+  marketplace:0.00
+  talking:0.00
+  customers:0.00
+  interested:0.00
+  mentioned:0.00
+  ppl:0.00
+  vendors:0.00
+  local:0.00
+
+Topic 2:
+  forum:0.00
+  german:0.00
+  marketplace:0.00
+  talking:0.00
+  customers:0.00
+  interested:0.00
+  mentioned:0.00
+  ppl:0.00
+  vendors:0.00
+  local:0.00
+
+Topic 3:
+  forum:0.00
+  german:0.00
+  marketplace:0.00
+  talking:0.00
+  customers:0.00
+  interested:0.00
+  mentioned:0.00
+  ppl:0.00
+  vendors:0.00
+  local:0.00
+
+Topic 4:
+  forum:0.00
+  german:0.00
+  marketplace:0.00
+  talking:0.00
+  customers:0.00
+  interested:0.00
+  mentioned:0.00
+  ppl:0.00
+  vendors:0.00
+  local:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

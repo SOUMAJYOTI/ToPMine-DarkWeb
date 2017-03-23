@@ -1,0 +1,61 @@
+Topic 0:
+  february:7.75
+  market:5.72
+  btc:4.91
+  floydy:3.39
+  imaginary:3.22
+  real:2.82
+  buy:2.81
+  hopes:2.77
+  quote:2.74
+  dollars:2.71
+
+Topic 1:
+  mtgox:7.54
+  gox:6.42
+  quote:4.30
+  week:3.95
+  imaginary:3.75
+  issue:3.74
+  security:3.63
+  gamble:3.26
+  coins:2.96
+  announcement:2.87
+
+Topic 2:
+  gox:15.08
+  god:10.11
+  btc:9.26
+  track:5.20
+  record:4.94
+  theyve:3.99
+  verified:3.93
+  account:3.92
+  trust:3.85
+  speculation:3.81
+
+Topic 3:
+  bitcoin:6.74
+  bad:3.61
+  money:3.43
+  coins:3.35
+  february:3.06
+  dont:2.98
+  quote:2.64
+  evilgrin:2.61
+  didnt:2.23
+  lol:2.22
+
+Topic 4:
+  withdrawls:10.73
+  btc:8.24
+  gox:5.90
+  buy:4.51
+  good:4.01
+  hopes:3.93
+  cash:3.52
+  chances:3.35
+  hacked:3.34
+  side:3.32
+
+K: 5, Log-Likelihood: -5080.087, Alpha: 11.000, Beta: 1.100

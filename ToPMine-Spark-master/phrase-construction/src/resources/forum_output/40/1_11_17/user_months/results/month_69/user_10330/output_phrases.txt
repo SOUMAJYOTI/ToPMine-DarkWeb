@@ -1,0 +1,61 @@
+Topic 0:
+  microsoft:41.64
+  recovery key:31.23
+  microsoft account:28.63
+  disk encryption:23.42
+  computer:17.65
+  encryption:15.61
+  disk:15.61
+  device encryption:15.61
+  pro enterprise:13.01
+  recovery key microsoft:13.01
+
+Topic 1:
+  quote:8.40
+  hand sr infiltrated le:6.67
+  tor browser:5.82
+  apply:5.69
+  hey man cirrus support:5.68
+  tickets tomorrow long live:5.68
+  start effort needed bring:5.68
+  cirrus:5.68
+  shit:5.67
+  ross dumbass period:5.64
+
+Topic 2:
+  alford:52.05
+  silk road:44.24
+  agents:23.42
+  dread pirate roberts:18.22
+  investigation:18.22
+  turner:13.01
+  case:12.73
+  ross ulbricht:10.41
+  san francisco:10.41
+  ulbricht:10.41
+
+Topic 3:
+  bug:29.06
+  tor browser:26.18
+  tails:14.26
+  tor:13.17
+  gnome shell:10.41
+  support:9.00
+  firefox:8.78
+  hardened:8.74
+  change notes:7.80
+  bug plate:7.80
+
+Topic 4:
+  metadata:31.23
+  industry:13.01
+  service providers:13.01
+  told fairfax media:13.01
+  access metadata:13.01
+  privacy:12.48
+  australian:11.87
+  national security:11.03
+  services:10.41
+  web browsing history:10.41
+
+K: 5, Log-Likelihood: -50305.244, Alpha: 11.000, Beta: 1.100

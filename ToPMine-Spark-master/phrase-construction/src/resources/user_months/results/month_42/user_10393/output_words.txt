@@ -1,0 +1,61 @@
+Topic 0:
+  cable:21.73
+  southern:13.39
+  cross:13.39
+  network:10.95
+  cut:10.07
+  zealand:6.99
+  foot:5.99
+  interception:4.74
+  service:4.62
+  documents:4.33
+
+Topic 1:
+  point:7.29
+  html:6.89
+  tor:6.67
+  tails:6.18
+  attacker:4.94
+  computer:4.91
+  add:4.24
+  hdd:4.21
+  data:4.18
+  parts:3.94
+
+Topic 2:
+  time:33.24
+  drive:21.84
+  april:18.85
+  firmware:15.93
+  hardware:14.91
+  software:11.71
+  man:11.58
+  hard:10.60
+  thing:10.22
+  pallidpallas:10.16
+
+Topic 3:
+  font:6.99
+  bots:5.99
+  site:5.66
+  majesty:4.99
+  human:4.99
+  privacy:4.76
+  communications:4.49
+  online:3.82
+  internet:3.42
+  type:3.15
+
+Topic 4:
+  security:8.59
+  quote:4.69
+  kiss:4.49
+  whonix:4.41
+  tongue:4.13
+  nsa:3.81
+  tor:3.76
+  load:3.69
+  inconvenienced:3.65
+  times:3.44
+
+K: 5, Log-Likelihood: -11940.426, Alpha: 11.000, Beta: 1.100

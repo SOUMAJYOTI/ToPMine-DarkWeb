@@ -1,0 +1,61 @@
+Topic 0:
+  application:3.75
+  service:3.75
+  geeezus:3.75
+  amount:3.75
+  submit:3.75
+  hope abraxas:3.75
+  escrow market:3.75
+  tied:3.75
+  good:3.75
+  st:3.28
+
+Topic 1:
+  market:8.92
+  mail:7.40
+  system:7.37
+  security:7.35
+  running:7.27
+  forum links:5.40
+  server:3.55
+  improved:3.55
+  und:3.55
+  increase:3.54
+
+Topic 2:
+  love avengers:4.07
+  market:2.24
+  dream:1.94
+  abraxas:1.48
+  great:1.30
+  hear:1.17
+  positive:1.16
+  response:1.14
+  support market:1.01
+  fully:1.00
+
+Topic 3:
+  love market:3.72
+  store:3.72
+  opened:3.72
+  users:3.72
+  care:3.72
+  open:3.72
+  account:3.72
+  eye:3.72
+  share:3.72
+  helloi:3.72
+
+Topic 4:
+  abraxas:4.06
+  dont:3.74
+  hereas:3.74
+  transfer:3.74
+  alot:3.74
+  life:3.74
+  thoughtabraxas:3.74
+  complete:3.74
+  sign:3.74
+  abraxas abraxas:3.74
+
+K: 5, Log-Likelihood: -3683.005, Alpha: 11.000, Beta: 1.100

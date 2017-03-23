@@ -1,0 +1,61 @@
+Topic 0:
+  mails:4.73
+  mail:3.45
+  settings:3.13
+  claws:2.21
+  decrypt:1.52
+  encrypt:1.52
+  signatures:1.52
+  integrates:1.52
+  sends:1.52
+  tails:1.52
+
+Topic 1:
+  email:2.13
+  server:1.84
+  encryption:1.76
+  isnt:1.74
+  thing:1.24
+  yep:1.22
+  ramdisk:0.90
+  cleartext:0.89
+  december:0.89
+  starttls:0.89
+
+Topic 2:
+  service:4.13
+  gold standard:3.30
+  stored:3.05
+  case:3.05
+  point:1.97
+  assailable:1.97
+  providers:1.97
+  fail:1.97
+  assailable transit:1.97
+  benefit:1.97
+
+Topic 3:
+  key:4.75
+  hushmail:3.14
+  generated:3.14
+  situation:3.14
+  details:3.14
+  encrypt emails:2.01
+  deepweb:2.01
+  email provider:2.01
+  automatically:2.01
+  provision:2.01
+
+Topic 4:
+  isnt:1.41
+  encryption:1.37
+  server:1.31
+  media:1.15
+  read:1.14
+  machine:1.08
+  email:0.83
+  good:0.71
+  plan:0.71
+  bobby:0.71
+
+K: 5, Log-Likelihood: -1594.598, Alpha: 11.000, Beta: 1.100

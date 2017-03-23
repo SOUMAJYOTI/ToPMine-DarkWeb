@@ -1,0 +1,61 @@
+Topic 0:
+  samalla:0.81
+  nain:0.78
+  jos:0.69
+  mail:0.61
+  tukipaketti:0.61
+  safe:0.60
+  ett:0.52
+  laittas:0.51
+  ekana:0.50
+  sampleja:0.50
+
+Topic 1:
+  nain:0.79
+  jos:0.64
+  tukipaketti:0.62
+  samalla:0.61
+  safe:0.60
+  mail:0.60
+  ett:0.60
+  mutta:0.41
+  ja:0.41
+  het:0.41
+
+Topic 2:
+  nain:0.78
+  ett:0.68
+  tukipaketti:0.59
+  mail:0.59
+  safe:0.58
+  mailia:0.56
+  olisi:0.55
+  niin:0.45
+  jos:0.44
+  samalla:0.37
+
+Topic 3:
+  nain:0.83
+  ett:0.63
+  safe:0.61
+  jos:0.60
+  tukipaketti:0.59
+  mail:0.58
+  samalla:0.56
+  olisi:0.42
+  mailia:0.41
+  niin:0.40
+
+Topic 4:
+  nain:0.82
+  samalla:0.66
+  jos:0.63
+  mail:0.62
+  safe:0.61
+  tukipaketti:0.59
+  ett:0.57
+  kainuun:0.45
+  email:0.44
+  sampleja:0.44
+
+K: 5, Log-Likelihood: -548.200, Alpha: 11.000, Beta: 1.100

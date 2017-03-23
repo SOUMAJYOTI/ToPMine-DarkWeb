@@ -1,0 +1,61 @@
+Topic 0:
+  anonfiles:15.21
+  files:5.86
+  material:5.22
+  terms:5.18
+  send:5.15
+  held responsible:5.12
+  file types:5.02
+  info anonfiles:4.96
+  upload:3.57
+  mb:3.44
+
+Topic 1:
+  onionshare:6.18
+  freedomhosting:3.69
+  long:3.69
+  hidden service:3.69
+  problems:3.69
+  fuckyou:3.69
+  download:3.69
+  link:3.69
+  install:3.69
+  server:3.69
+
+Topic 2:
+  isnt:2.78
+  partners:2.78
+  complete:2.78
+  control content:2.78
+  difficult:2.78
+  idea:2.44
+  hosting:2.38
+  pay:1.80
+  btc:1.80
+  payment:1.80
+
+Topic 3:
+  anonymous file:3.63
+  hosting services ectf:2.20
+  hosting pdfs energy control:2.16
+  elmo july pmdoes:1.82
+  site:1.37
+  quote:1.32
+  mb:1.29
+  files:1.22
+  anonfiles:0.83
+  info anonfiles:0.81
+
+Topic 4:
+  work:1.62
+  eye:1.62
+  perfect:1.62
+  looked:1.62
+  times:1.59
+  cost:1.59
+  suck:1.59
+  hidden:1.58
+  forums:1.58
+  books:1.58
+
+K: 5, Log-Likelihood: -3664.282, Alpha: 11.000, Beta: 1.100

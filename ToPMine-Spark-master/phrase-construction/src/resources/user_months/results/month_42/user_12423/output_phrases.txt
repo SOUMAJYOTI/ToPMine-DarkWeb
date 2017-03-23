@@ -1,0 +1,61 @@
+Topic 0:
+  marketplace:0.00
+  rondo:0.00
+  rondoplease:0.00
+  link:0.00
+  verified:0.00
+  goods:0.00
+  captain:0.00
+  jack:0.00
+  dutch:0.00
+  vendor:0.00
+
+Topic 1:
+  marketplace:0.00
+  rondo:0.00
+  rondoplease:0.00
+  link:0.00
+  verified:0.00
+  goods:0.00
+  captain:0.00
+  jack:0.00
+  dutch:0.00
+  vendor:0.00
+
+Topic 2:
+  marketplace:0.00
+  rondo:0.00
+  rondoplease:0.00
+  link:0.00
+  verified:0.00
+  goods:0.00
+  captain:0.00
+  jack:0.00
+  dutch:0.00
+  vendor:0.00
+
+Topic 3:
+  marketplace:0.00
+  rondo:0.00
+  rondoplease:0.00
+  link:0.00
+  verified:0.00
+  goods:0.00
+  captain:0.00
+  jack:0.00
+  dutch:0.00
+  vendor:0.00
+
+Topic 4:
+  marketplace:0.00
+  rondo:0.00
+  rondoplease:0.00
+  link:0.00
+  verified:0.00
+  goods:0.00
+  captain:0.00
+  jack:0.00
+  dutch:0.00
+  vendor:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

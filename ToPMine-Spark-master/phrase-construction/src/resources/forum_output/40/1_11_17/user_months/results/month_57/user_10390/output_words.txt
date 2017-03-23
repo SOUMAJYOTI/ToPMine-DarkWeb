@@ -1,0 +1,61 @@
+Topic 0:
+  middle:0.40
+  earth:0.40
+  drug:0.40
+  marketplace:0.40
+  listings:0.40
+  vend:0.20
+  agree:0.20
+  busiest:0.20
+  markets:0.20
+  abraxas:0.20
+
+Topic 1:
+  marketplace:0.41
+  listings:0.40
+  drug:0.40
+  earth:0.40
+  middle:0.40
+  anonymous:0.20
+  operation:0.20
+  isnt:0.20
+  survived:0.20
+  established:0.20
+
+Topic 2:
+  listings:0.40
+  drug:0.40
+  marketplace:0.40
+  middle:0.40
+  earth:0.40
+  anonymous:0.20
+  survived:0.20
+  established:0.20
+  operation:0.20
+  isnt:0.20
+
+Topic 3:
+  middle:0.40
+  earth:0.40
+  listings:0.40
+  marketplace:0.40
+  drug:0.40
+  busiest:0.20
+  agree:0.20
+  abraxas:0.20
+  vend:0.20
+  markets:0.20
+
+Topic 4:
+  drug:0.40
+  middle:0.40
+  earth:0.40
+  marketplace:0.40
+  listings:0.40
+  vend:0.20
+  markets:0.20
+  abraxas:0.20
+  busiest:0.20
+  agree:0.20
+
+K: 5, Log-Likelihood: -57.090, Alpha: 11.000, Beta: 1.100

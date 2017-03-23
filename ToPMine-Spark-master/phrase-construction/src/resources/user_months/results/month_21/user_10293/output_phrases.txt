@@ -1,0 +1,61 @@
+Topic 0:
+  posts:0.28
+  reason:0.28
+  isnt:0.28
+  thing:0.14
+  bots:0.14
+  swam:0.14
+  noobville:0.14
+  user:0.14
+  karma:0.14
+  noon:0.14
+
+Topic 1:
+  posts:0.28
+  reason:0.27
+  isnt:0.27
+  captcha:0.14
+  karma:0.14
+  user:0.14
+  registered:0.14
+  noon:0.14
+  swam:0.14
+  disable:0.14
+
+Topic 2:
+  reason:0.28
+  isnt:0.28
+  posts:0.27
+  typically:0.14
+  soliticting:0.14
+  edit:0.14
+  link:0.14
+  product:0.14
+  leos:0.14
+  case:0.14
+
+Topic 3:
+  posts:0.28
+  isnt:0.28
+  reason:0.28
+  option:0.14
+  signed:0.14
+  find:0.14
+  thread:0.14
+  doesnt:0.14
+  signing:0.14
+  havent:0.14
+
+Topic 4:
+  isnt:0.28
+  reason:0.28
+  posts:0.27
+  cleanstream:0.14
+  bad:0.14
+  offered:0.14
+  idea:0.14
+  requires:0.14
+  lube:0.14
+  provider:0.14
+
+K: 5, Log-Likelihood: -152.795, Alpha: 11.000, Beta: 1.100

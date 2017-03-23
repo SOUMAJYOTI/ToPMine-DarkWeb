@@ -1,0 +1,61 @@
+Topic 0:
+  lucy:1.80
+  cult:1.67
+  vendor:1.56
+  worth:0.98
+  vendors:0.98
+  marked:0.78
+  record:0.72
+  understand:0.71
+  reporting:0.66
+  enigma:0.65
+
+Topic 1:
+  lucy:1.90
+  cult:1.72
+  vendor:1.41
+  heard:0.94
+  worth:0.93
+  vendors:0.93
+  thing:0.80
+  marked:0.75
+  email:0.70
+  understand:0.65
+
+Topic 2:
+  banned:1.68
+  vendor:1.66
+  cult:1.36
+  marked:1.27
+  law:1.17
+  lucy:1.08
+  reestablish:0.93
+  connection:0.92
+  reasons:0.92
+  unknown:0.92
+
+Topic 3:
+  seizure:3.41
+  counts:3.30
+  email:2.81
+  package:2.60
+  franko:1.58
+  tmg:1.57
+  good:1.56
+  seizures:1.56
+  lucy:0.98
+  cmadeline:0.79
+
+Topic 4:
+  email:2.25
+  tmg:1.32
+  lucy:1.25
+  good:1.19
+  kiosk:1.17
+  package:0.95
+  move:0.81
+  forum:0.79
+  cmadeline:0.70
+  coins:0.67
+
+K: 5, Log-Likelihood: -1373.883, Alpha: 11.000, Beta: 1.100

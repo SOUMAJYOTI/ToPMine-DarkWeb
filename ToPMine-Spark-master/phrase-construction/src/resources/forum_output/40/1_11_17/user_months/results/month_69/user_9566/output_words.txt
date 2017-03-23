@@ -1,0 +1,61 @@
+Topic 0:
+  source:1.32
+  javascript:1.30
+  forums:0.83
+  website:0.80
+  post:0.59
+  view:0.40
+  click:0.40
+  web:0.40
+  included:0.40
+  developer:0.40
+
+Topic 1:
+  javascript:1.29
+  source:1.26
+  website:0.85
+  forums:0.79
+  post:0.59
+  developer:0.41
+  hub:0.41
+  safe:0.41
+  markets:0.40
+  lot:0.40
+
+Topic 2:
+  javascript:1.51
+  source:1.22
+  forums:0.80
+  website:0.77
+  post:0.58
+  hit:0.40
+  people:0.40
+  max:0.40
+  lot:0.40
+  click:0.40
+
+Topic 3:
+  javascript:1.45
+  source:1.04
+  website:0.80
+  forums:0.79
+  post:0.63
+  safe:0.40
+  web:0.40
+  settings:0.40
+  view:0.40
+  tor:0.40
+
+Topic 4:
+  javascript:1.45
+  source:1.16
+  forums:0.79
+  website:0.78
+  post:0.61
+  dmnavengers:0.40
+  people:0.40
+  lot:0.40
+  markets:0.40
+  hit:0.40
+
+K: 5, Log-Likelihood: -193.121, Alpha: 11.000, Beta: 1.100

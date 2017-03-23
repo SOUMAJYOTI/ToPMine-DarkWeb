@@ -1,0 +1,61 @@
+Topic 0:
+  security:3.99
+  tails:3.97
+  quote:2.64
+  usb:2.31
+  recommend:2.23
+  september:1.95
+  buy:1.90
+  shopping:1.63
+  equal:1.28
+  atop:1.27
+
+Topic 1:
+  vm:4.54
+  computer:3.57
+  sector:3.43
+  data:3.19
+  drive:2.33
+  bytes:2.25
+  delete:2.23
+  helicopter:2.22
+  wifi:2.22
+  hard:2.22
+
+Topic 2:
+  thinkpad:6.38
+  refurbished:6.32
+  good:4.73
+  arm:3.08
+  november:2.42
+  tails:2.32
+  quote:1.65
+  free:1.43
+  find:1.42
+  nordicwhite:1.42
+
+Topic 3:
+  shopping:5.31
+  tails:4.24
+  usb:3.20
+  dvd:2.26
+  burner:2.20
+  darknetmarket:2.19
+  laptop:2.19
+  plan:2.19
+  large:2.15
+  vending:2.12
+
+Topic 4:
+  vm:3.31
+  data:2.67
+  sector:2.42
+  computer:2.28
+  disk:1.95
+  file:1.91
+  write:1.81
+  recommend:1.79
+  os:1.77
+  subway:1.70
+
+K: 5, Log-Likelihood: -2268.326, Alpha: 11.000, Beta: 1.100

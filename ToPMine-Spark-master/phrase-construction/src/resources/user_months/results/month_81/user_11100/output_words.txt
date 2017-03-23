@@ -1,0 +1,61 @@
+Topic 0:
+  court:3.19
+  lavabit:1.56
+  encryption:1.51
+  legal:1.29
+  email:1.21
+  service:1.12
+  company:1.08
+  keys:1.03
+  government:1.00
+  riseup:0.99
+
+Topic 1:
+  court:4.58
+  lavabit:3.93
+  government:2.70
+  legal:2.54
+  company:2.53
+  encryption:2.46
+  privacy:1.91
+  agents:1.88
+  business:1.81
+  keys:1.50
+
+Topic 2:
+  court:3.22
+  lavabit:2.66
+  company:1.86
+  encryption:1.63
+  government:1.45
+  legal:1.45
+  attorney:1.20
+  privacy:1.20
+  keys:1.19
+  service:1.19
+
+Topic 3:
+  court:2.58
+  privacy:1.56
+  government:1.51
+  lavabit:1.42
+  legal:1.42
+  service:1.18
+  company:1.12
+  attorney:1.10
+  business:1.10
+  riseup:1.06
+
+Topic 4:
+  icedove:3.42
+  sigaint:2.74
+  email:1.59
+  onion:1.37
+  stick:1.37
+  link:1.37
+  quote:1.37
+  bit:0.97
+  read:0.94
+  dodge:0.76
+
+K: 5, Log-Likelihood: -4305.035, Alpha: 11.000, Beta: 1.100

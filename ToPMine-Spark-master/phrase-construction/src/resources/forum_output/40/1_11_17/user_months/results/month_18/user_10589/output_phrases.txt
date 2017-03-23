@@ -1,0 +1,61 @@
+Topic 0:
+  half:0.00
+  truecrypt:0.00
+  package:0.00
+  waiting:0.00
+  disks:0.00
+  called:0.00
+  dmcryptgnome:0.00
+  crypt:0.00
+  utility:0.00
+  jjj:0.00
+
+Topic 1:
+  half:0.00
+  truecrypt:0.00
+  package:0.00
+  waiting:0.00
+  disks:0.00
+  called:0.00
+  dmcryptgnome:0.00
+  crypt:0.00
+  utility:0.00
+  jjj:0.00
+
+Topic 2:
+  half:0.00
+  truecrypt:0.00
+  package:0.00
+  waiting:0.00
+  disks:0.00
+  called:0.00
+  dmcryptgnome:0.00
+  crypt:0.00
+  utility:0.00
+  jjj:0.00
+
+Topic 3:
+  half:0.00
+  truecrypt:0.00
+  package:0.00
+  waiting:0.00
+  disks:0.00
+  called:0.00
+  dmcryptgnome:0.00
+  crypt:0.00
+  utility:0.00
+  jjj:0.00
+
+Topic 4:
+  half:0.00
+  truecrypt:0.00
+  package:0.00
+  waiting:0.00
+  disks:0.00
+  called:0.00
+  dmcryptgnome:0.00
+  crypt:0.00
+  utility:0.00
+  jjj:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

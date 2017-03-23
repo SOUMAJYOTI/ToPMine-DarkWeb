@@ -1,0 +1,61 @@
+Topic 0:
+  hansa:2.61
+  easy:1.50
+  escrow:1.39
+  good:1.30
+  transactions:1.26
+  pretty:1.22
+  smooth:1.20
+  faster:1.03
+  december:1.00
+  quote:0.97
+
+Topic 1:
+  hansa:3.51
+  easy:1.57
+  good:1.35
+  escrow:1.27
+  listings:1.05
+  smooth:1.00
+  transactions:0.96
+  pretty:0.95
+  faster:0.81
+  jaxx:0.79
+
+Topic 2:
+  listings:3.17
+  option:2.88
+  picture:2.88
+  vendors:2.46
+  view:1.89
+  post:1.89
+  ive:1.89
+  markets:1.54
+  site:1.42
+  hansa:1.15
+
+Topic 3:
+  market:7.89
+  support:3.01
+  vendor:3.00
+  exit:2.52
+  good:2.37
+  vendors:2.10
+  buyers:2.00
+  hansa:1.94
+  sig:1.88
+  multi:1.88
+
+Topic 4:
+  hansa:3.79
+  faster:1.72
+  cheers:1.21
+  jaxx:1.07
+  quote:1.00
+  december:0.99
+  easy:0.87
+  good:0.85
+  tang:0.81
+  throwing:0.81
+
+K: 5, Log-Likelihood: -1435.529, Alpha: 11.000, Beta: 1.100

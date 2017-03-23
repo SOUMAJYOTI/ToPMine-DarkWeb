@@ -1,0 +1,61 @@
+Topic 0:
+  recommend:3.93
+  machine:3.74
+  bitin:2.99
+  signing:2.71
+  air:2.65
+  quote:2.42
+  transaction:2.31
+  dont:2.26
+  june:2.20
+  matter:2.14
+
+Topic 1:
+  june:12.79
+  pmquote:7.65
+  recommend:6.41
+  zaphod:5.80
+  appreciated:4.77
+  btc:4.57
+  sole:4.50
+  qt:4.49
+  purpose:4.46
+  curious:4.45
+
+Topic 2:
+  june:2.63
+  folder:2.63
+  transactions:2.54
+  dont:2.53
+  transaction:2.53
+  quote:2.40
+  zaphod:2.37
+  bitin:2.33
+  wallet:2.09
+  air:1.99
+
+Topic 3:
+  wallet:17.16
+  tails:9.31
+  tor:7.59
+  electrum:6.25
+  browser:5.15
+  dont:4.27
+  transactions:4.22
+  torification:2.79
+  wireshark:2.79
+  agora:1.94
+
+Topic 4:
+  bitcoin:16.87
+  address:10.08
+  transactions:9.28
+  thin:8.64
+  clients:7.73
+  addresses:7.73
+  server:7.55
+  science:5.95
+  blockchain:5.78
+  multibit:5.58
+
+K: 5, Log-Likelihood: -4930.823, Alpha: 11.000, Beta: 1.100

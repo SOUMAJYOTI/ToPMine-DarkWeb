@@ -1,0 +1,61 @@
+Topic 0:
+  email:5.70
+  analysis:4.66
+  providers:2.15
+  advertising:2.14
+  meta:2.14
+  majority:2.14
+  darknet:2.14
+  shared:2.14
+  garbled:2.14
+  playing:2.14
+
+Topic 1:
+  safe mail net:2.12
+  srsly:1.06
+  interface:1.05
+  encryption:1.05
+  fast:1.04
+  point:1.03
+  signup:1.03
+  secret:1.02
+  fastbut:1.02
+  javascript:1.01
+
+Topic 2:
+  email service:3.03
+  worst:2.07
+  operators:2.07
+  monitored:2.06
+  wondered:2.06
+  yahoo:2.06
+  site:2.06
+  hidden:2.06
+  scenario:2.06
+  assume:2.06
+
+Topic 3:
+  email:1.37
+  accidentally:1.06
+  advantage:1.04
+  pgp:1.03
+  retrieve:1.03
+  onion:1.03
+  email tor:1.03
+  send:1.01
+  case:0.81
+  imo:0.62
+
+Topic 4:
+  safe mail net:2.59
+  sums:1.22
+  service:1.21
+  service trust:1.21
+  personal:1.21
+  javascript:1.20
+  darkness mail:1.20
+  fastbut:1.19
+  secret:1.19
+  point:1.18
+
+K: 5, Log-Likelihood: -1150.529, Alpha: 11.000, Beta: 1.100

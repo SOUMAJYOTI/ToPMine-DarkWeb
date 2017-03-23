@@ -1,0 +1,61 @@
+Topic 0:
+  package:0.80
+  labels:0.78
+  giftcards:0.76
+  drop:0.75
+  stamps:0.61
+  big:0.58
+  idea:0.40
+  register:0.39
+  pmstamps:0.39
+  november:0.39
+
+Topic 1:
+  package:0.78
+  giftcards:0.77
+  drop:0.77
+  labels:0.77
+  stamps:0.59
+  big:0.58
+  info:0.40
+  purpose:0.39
+  javascript:0.39
+  tracking:0.39
+
+Topic 2:
+  drop:0.90
+  package:0.84
+  labels:0.81
+  giftcards:0.80
+  stamps:0.61
+  big:0.60
+  simon:0.41
+  dont:0.41
+  area:0.41
+  kind:0.41
+
+Topic 3:
+  labels:0.82
+  giftcards:0.79
+  package:0.75
+  drop:0.74
+  big:0.60
+  stamps:0.59
+  defeats:0.39
+  profiled:0.39
+  tracking:0.39
+  cc:0.39
+
+Topic 4:
+  giftcards:0.88
+  drop:0.84
+  package:0.83
+  labels:0.82
+  big:0.64
+  stamps:0.60
+  quote:0.42
+  burn:0.42
+  psychedelicacywhat:0.42
+  register:0.42
+
+K: 5, Log-Likelihood: -479.584, Alpha: 11.000, Beta: 1.100

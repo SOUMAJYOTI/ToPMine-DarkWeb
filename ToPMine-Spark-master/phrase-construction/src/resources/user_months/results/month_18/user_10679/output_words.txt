@@ -1,0 +1,61 @@
+Topic 0:
+  evolution:8.25
+  ill:6.03
+  market:5.85
+  markets:4.31
+  hope:2.95
+  star:2.90
+  left:2.87
+  sr:2.82
+  users:2.59
+  time:2.51
+
+Topic 1:
+  quote:6.87
+  friend:4.04
+  theme:3.94
+  great:3.50
+  design:3.33
+  august:3.20
+  surprised:3.09
+  ya:3.00
+  notice:2.94
+  nimble:2.86
+
+Topic 2:
+  great:6.16
+  troll:5.78
+  september:4.24
+  quote:4.07
+  trolltergeist:4.05
+  post:3.96
+  threads:3.90
+  people:3.79
+  vendor:3.72
+  promise:3.65
+
+Topic 3:
+  helix:7.93
+  evolution:6.67
+  evo:5.83
+  market:5.59
+  listing:5.38
+  wait:5.24
+  eve:4.79
+  features:4.23
+  boogie:4.09
+  account:3.62
+
+Topic 4:
+  contest:10.84
+  prediction:10.77
+  bitcoin:8.71
+  place:7.78
+  sept:5.97
+  discussion:5.00
+  predictions:4.97
+  final:3.97
+  good:3.96
+  post:3.91
+
+K: 5, Log-Likelihood: -6669.765, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tor:7.53
+  tmp:6.54
+  torrc:4.55
+  user:4.54
+  rc:2.92
+  echo:2.57
+  exit:2.57
+  rm:2.57
+  resolv:2.57
+  permissions:2.57
+
+Topic 1:
+  file:0.66
+  machine:0.59
+  swap:0.58
+  root:0.54
+  script:0.53
+  rc:0.52
+  required:0.43
+  freed:0.43
+  encrypted:0.43
+  dev:0.19
+
+Topic 2:
+  rc:0.93
+  script:0.70
+  root:0.68
+  swap:0.44
+  machine:0.43
+  freed:0.42
+  required:0.42
+  encrypted:0.42
+  file:0.40
+  tor:0.25
+
+Topic 3:
+  file:0.88
+  machine:0.71
+  swap:0.71
+  dev:0.48
+  script:0.45
+  root:0.44
+  ada:0.43
+  required:0.42
+  encrypted:0.42
+  freed:0.42
+
+Topic 4:
+  ada:6.29
+  dev:5.25
+  partition:4.37
+  eli:3.38
+  file:1.89
+  encryption:1.51
+  init:1.51
+  change:1.50
+  sbin:1.50
+  boot:1.50
+
+K: 5, Log-Likelihood: -1117.472, Alpha: 11.000, Beta: 1.100

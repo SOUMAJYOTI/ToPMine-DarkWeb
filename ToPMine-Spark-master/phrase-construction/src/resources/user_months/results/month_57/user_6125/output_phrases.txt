@@ -1,0 +1,61 @@
+Topic 0:
+  nelson muntz:0.22
+  magic mdma lsd:0.20
+  weve:0.20
+  hadnt:0.20
+  bitcoin:0.20
+  fog feet chucking famous:0.20
+  confirmed:0.18
+  key:0.18
+  saved:0.18
+  ive:0.18
+
+Topic 1:
+  nelson muntz:0.22
+  fog feet chucking famous:0.20
+  bitcoin:0.20
+  magic mdma lsd:0.20
+  weve:0.20
+  hadnt:0.20
+  public:0.18
+  key:0.18
+  ive:0.18
+  saved:0.18
+
+Topic 2:
+  nelson muntz:0.22
+  hadnt:0.20
+  weve:0.20
+  bitcoin:0.20
+  fog feet chucking famous:0.20
+  magic mdma lsd:0.20
+  chucking famous magic mdma:0.18
+  fog feet:0.18
+  lsd nelson muntz:0.18
+  blond:0.18
+
+Topic 3:
+  nelson muntz:0.22
+  magic mdma lsd:0.20
+  hadnt:0.20
+  bitcoin:0.20
+  fog feet chucking famous:0.20
+  weve:0.20
+  blond:0.18
+  chucking famous magic mdma:0.18
+  hadn:0.18
+  wig:0.18
+
+Topic 4:
+  nelson muntz:0.22
+  fog feet chucking famous:0.20
+  bitcoin:0.20
+  magic mdma lsd:0.20
+  weve:0.20
+  hadnt:0.20
+  hadn:0.18
+  ve:0.18
+  wig:0.18
+  fog feet:0.18
+
+K: 5, Log-Likelihood: -69.420, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  listings:0.47
+  fe:0.47
+  trust:0.35
+  agora:0.35
+  exited:0.35
+  vote:0.35
+  anymarket:0.35
+  quick quick:0.35
+  evo:0.35
+  prob:0.35
+
+Topic 1:
+  listings:0.46
+  fe:0.46
+  quick quick:0.35
+  vote:0.35
+  evo:0.35
+  prob:0.35
+  agora:0.35
+  exited:0.35
+  trust:0.35
+  anymarket:0.35
+
+Topic 2:
+  fe:0.52
+  listings:0.51
+  prob:0.34
+  anymarket:0.34
+  exited:0.34
+  trust:0.33
+  quick quick:0.33
+  evo:0.33
+  agora:0.33
+  vote:0.33
+
+Topic 3:
+  fe:0.55
+  listings:0.53
+  trust:0.33
+  exited:0.33
+  prob:0.33
+  quick quick:0.33
+  evo:0.33
+  agora:0.33
+  vote:0.33
+  anymarket:0.33
+
+Topic 4:
+  listings:0.53
+  fe:0.50
+  anymarket:0.34
+  prob:0.34
+  evo:0.34
+  vote:0.34
+  agora:0.34
+  exited:0.33
+  trust:0.33
+  quick quick:0.33
+
+K: 5, Log-Likelihood: -142.047, Alpha: 11.000, Beta: 1.100

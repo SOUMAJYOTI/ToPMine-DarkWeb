@@ -1,0 +1,61 @@
+Topic 0:
+  tor:1.39
+  curl:0.87
+  asap:0.57
+  packages:0.57
+  released version:0.57
+  developers:0.57
+  update:0.57
+  advised:0.57
+  project:0.57
+  tails:0.57
+
+Topic 1:
+  gnupg:3.63
+  key:1.23
+  regression:1.06
+  support:0.71
+  snug:0.68
+  data:0.65
+  generation:0.45
+  gpg:0.44
+  elpaal:0.44
+  koch:0.44
+
+Topic 2:
+  gnupg:4.39
+  key:1.32
+  regression:1.21
+  data:0.72
+  snug:0.69
+  support:0.69
+  releasedwerner:0.46
+  cest:0.46
+  elpaal:0.46
+  introducedwith:0.46
+
+Topic 3:
+  gnupg:4.50
+  regression:1.37
+  key:1.16
+  data:0.75
+  snug:0.73
+  support:0.71
+  terms:0.47
+  signatures:0.47
+  encrypt:0.47
+  license:0.47
+
+Topic 4:
+  gnupg:0.85
+  regression:0.65
+  key:0.57
+  curl:0.48
+  snug:0.42
+  support:0.41
+  data:0.41
+  version:0.34
+  zaphod:0.31
+  privacy:0.30
+
+K: 5, Log-Likelihood: -1244.430, Alpha: 11.000, Beta: 1.100

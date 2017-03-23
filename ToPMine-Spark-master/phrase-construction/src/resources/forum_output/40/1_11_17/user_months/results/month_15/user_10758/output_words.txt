@@ -1,0 +1,61 @@
+Topic 0:
+  resolution:1.96
+  car:1.58
+  dimensions:1.20
+  magnets:1.20
+  higher:1.19
+  shit:0.96
+  images:0.92
+  dont:0.90
+  appreciated:0.84
+  manufacturers:0.83
+
+Topic 1:
+  sell:8.68
+  ebay:6.50
+  june:5.72
+  playground:4.71
+  story:3.53
+  model:3.46
+  obi:3.39
+  teenager:3.39
+  popular:3.38
+  type:3.38
+
+Topic 2:
+  find:3.66
+  device:3.33
+  unit:2.72
+  extract:2.58
+  ordinates:1.91
+  configuration:1.91
+  sms:1.91
+  location:1.91
+  car:1.50
+  lucky:1.49
+
+Topic 3:
+  car:1.82
+  magnets:1.22
+  tracking:0.85
+  dont:0.85
+  cheating:0.83
+  drivers:0.76
+  shit:0.74
+  presidente:0.73
+  el:0.70
+  vendor:0.69
+
+Topic 4:
+  hookup:3.60
+  presidente:2.29
+  magnets:2.14
+  shit:2.05
+  sealed:2.03
+  attached:2.01
+  link:1.66
+  rock:1.65
+  shortly:1.64
+  assume:1.64
+
+K: 5, Log-Likelihood: -2358.352, Alpha: 11.000, Beta: 1.100

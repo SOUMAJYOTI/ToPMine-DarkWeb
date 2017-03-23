@@ -1,0 +1,61 @@
+Topic 0:
+  antenna:5.64
+  identify:4.97
+  point:4.45
+  high:4.00
+  cell:3.97
+  miles:3.94
+  address:3.21
+  mac:3.04
+  card:3.00
+  wifi:2.99
+
+Topic 1:
+  ideas:3.92
+  nasty:2.92
+  internet:2.85
+  untraceable:2.75
+  find:2.66
+  bought:2.62
+  level:2.57
+  good:2.40
+  target:2.17
+  forums:2.11
+
+Topic 2:
+  traffic:8.85
+  wifi:4.30
+  pentesting:4.21
+  tools:3.97
+  computer:3.97
+  ssl:3.21
+  time:3.13
+  tor:3.06
+  kali:2.97
+  work:2.97
+
+Topic 3:
+  wifi:8.79
+  ap:4.10
+  connected:3.74
+  people:3.53
+  paranoid:2.93
+  shit:2.93
+  evil:2.69
+  twin:2.68
+  point:2.03
+  youve:1.99
+
+Topic 4:
+  carding:5.80
+  btc:2.66
+  convert:1.93
+  money:1.93
+  clearnet:1.93
+  steps:1.93
+  find:1.90
+  virwox:1.82
+  bitcoin:1.77
+  card:1.72
+
+K: 5, Log-Likelihood: -5811.461, Alpha: 11.000, Beta: 1.100

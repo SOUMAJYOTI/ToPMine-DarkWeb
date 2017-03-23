@@ -1,0 +1,61 @@
+Topic 0:
+  link:1.00
+  captain:0.72
+  advertise:0.72
+  jack:0.72
+  vendor:0.71
+  verified:0.70
+  goods:0.70
+  redacted:0.70
+  marketplace:0.68
+  stock:0.51
+
+Topic 1:
+  link:1.04
+  goods:0.82
+  advertise:0.79
+  jack:0.78
+  redacted:0.78
+  marketplace:0.78
+  captain:0.77
+  vendor:0.77
+  verified:0.75
+  shopping:0.55
+
+Topic 2:
+  link:0.95
+  advertise:0.74
+  jack:0.73
+  captain:0.73
+  marketplace:0.72
+  goods:0.72
+  vendor:0.71
+  redacted:0.71
+  verified:0.70
+  agra:0.49
+
+Topic 3:
+  link:1.05
+  advertise:0.80
+  verified:0.80
+  jack:0.79
+  redacted:0.78
+  vendor:0.78
+  captain:0.78
+  marketplace:0.77
+  goods:0.76
+  happy:0.53
+
+Topic 4:
+  happy:1.05
+  marketplace:1.05
+  verified:1.05
+  redacted:1.04
+  vendor:1.03
+  shopping:1.03
+  captain:1.00
+  goods:1.00
+  jack:0.98
+  link:0.96
+
+K: 5, Log-Likelihood: -469.012, Alpha: 11.000, Beta: 1.100

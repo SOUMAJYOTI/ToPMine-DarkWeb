@@ -1,0 +1,61 @@
+Topic 0:
+  sr:7.20
+  market:3.96
+  problems:3.51
+  hacking:3.51
+  popular:3.51
+  foot:3.51
+  easier:3.51
+  pole:3.51
+  publicity:3.51
+  pandora agora:3.51
+
+Topic 1:
+  server:2.78
+  sites:2.09
+  vendors:2.09
+  bazaar:2.09
+  dominant:2.09
+  lot:2.09
+  blackbank:2.09
+  eve:2.09
+  tor:2.09
+  buyers:2.09
+
+Topic 2:
+  thread:4.36
+  forum:3.44
+  load:2.35
+  agra:2.33
+  identity:2.11
+  absent:2.11
+  tools:2.11
+  posting:2.11
+  reply:2.11
+  correct:2.11
+
+Topic 3:
+  point:4.34
+  ddos:4.02
+  slow:3.33
+  multiply:2.10
+  order:2.10
+  competent:2.10
+  rep:2.10
+  ability:2.10
+  administrators:2.10
+  evolution layout:2.10
+
+Topic 4:
+  quote:2.59
+  vendor:2.59
+  users:2.59
+  established:2.58
+  evo:2.58
+  requirements:2.58
+  account:2.58
+  fe:2.57
+  steep:2.57
+  sir:2.16
+
+K: 5, Log-Likelihood: -1534.136, Alpha: 11.000, Beta: 1.100

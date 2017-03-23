@@ -1,0 +1,61 @@
+Topic 0:
+  people:0.85
+  tool:0.59
+  dont:0.59
+  bad:0.59
+  guy:0.41
+  allot:0.41
+  violent:0.41
+  white:0.41
+  love:0.40
+  game:0.40
+
+Topic 1:
+  people:1.02
+  tool:0.77
+  bad:0.76
+  dont:0.55
+  violent:0.49
+  game:0.48
+  darpa:0.48
+  dan:0.48
+  guy:0.48
+  love:0.48
+
+Topic 2:
+  web:1.08
+  deep:1.06
+  dont:0.68
+  things:0.57
+  deanonymize:0.43
+  system:0.43
+  phone:0.43
+  expose:0.43
+  traveling:0.43
+  cracked:0.43
+
+Topic 3:
+  people:0.92
+  tool:0.70
+  bad:0.67
+  dont:0.59
+  white:0.45
+  dan:0.45
+  love:0.45
+  allot:0.45
+  darpa:0.44
+  guy:0.44
+
+Topic 4:
+  people:0.80
+  bad:0.64
+  tool:0.61
+  dont:0.60
+  game:0.43
+  darpa:0.42
+  allot:0.42
+  love:0.42
+  guy:0.42
+  violent:0.42
+
+K: 5, Log-Likelihood: -670.901, Alpha: 11.000, Beta: 1.100

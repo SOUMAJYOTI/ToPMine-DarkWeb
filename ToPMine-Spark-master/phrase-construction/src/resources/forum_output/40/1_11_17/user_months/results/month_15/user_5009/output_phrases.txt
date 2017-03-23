@@ -1,0 +1,61 @@
+Topic 0:
+  thinking deeply seperation mind:4.95
+  decisions:3.52
+  june:3.49
+  body seperation:3.49
+  quote:3.49
+  dankbank:3.49
+  wind:3.46
+  dust:3.46
+  galaxy:3.46
+  guide:3.46
+
+Topic 1:
+  earth:12.59
+  life:6.29
+  light:5.28
+  creation:4.89
+  human:4.87
+  source consciousness:4.83
+  aware breath:4.36
+  idealistic:4.34
+  love:3.83
+  consciousness:3.80
+
+Topic 2:
+  earth:8.22
+  life:5.77
+  identity:5.64
+  source consciousness:5.14
+  light:4.19
+  human:4.12
+  idealistic:3.63
+  consciousness:3.62
+  creation:3.56
+  love:3.05
+
+Topic 3:
+  relationships:10.73
+  circuits:7.14
+  mckenna:6.97
+  liberating:3.56
+  enabled:3.56
+  length:3.56
+  relate:3.56
+  circuits state:3.56
+  foundation:3.56
+  response:3.56
+
+Topic 4:
+  light:17.25
+  life:11.30
+  earth:5.94
+  eternal:5.24
+  identity:5.24
+  consciousness:4.61
+  creation:4.60
+  source consciousness:4.28
+  human:4.06
+  aware breath:3.98
+
+K: 5, Log-Likelihood: -19666.895, Alpha: 11.000, Beta: 1.100

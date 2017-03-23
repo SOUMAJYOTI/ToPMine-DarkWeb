@@ -1,0 +1,36 @@
+Topic 0:
+  bump:0.40
+  marketplaces:0.20
+  strong:0.20
+  order:0.20
+  tpe:0.20
+
+Topic 1:
+  bump:0.40
+  tpe:0.20
+  order:0.20
+  marketplaces:0.20
+  strong:0.20
+
+Topic 2:
+  bump:0.40
+  tpe:0.20
+  order:0.20
+  strong:0.20
+  marketplaces:0.20
+
+Topic 3:
+  bump:0.40
+  strong:0.20
+  order:0.20
+  marketplaces:0.20
+  tpe:0.20
+
+Topic 4:
+  bump:0.40
+  marketplaces:0.20
+  strong:0.20
+  order:0.20
+  tpe:0.20
+
+K: 5, Log-Likelihood: -9.386, Alpha: 11.000, Beta: 1.100

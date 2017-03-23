@@ -1,0 +1,61 @@
+Topic 0:
+  tor:0.89
+  captcha:0.85
+  temporarily:0.79
+  enabling:0.62
+  javascript:0.61
+  order:0.58
+  lbc:0.51
+  sites:0.49
+  cloudflare:0.43
+  site:0.42
+
+Topic 1:
+  tor:0.93
+  captcha:0.82
+  temporarily:0.80
+  javascript:0.74
+  enabling:0.61
+  lbc:0.59
+  sites:0.59
+  order:0.59
+  java:0.41
+  anonymize:0.41
+
+Topic 2:
+  tor:1.06
+  temporarily:0.87
+  captcha:0.83
+  javascript:0.78
+  sites:0.63
+  lbc:0.61
+  order:0.60
+  enabling:0.59
+  de:0.41
+  noscript:0.41
+
+Topic 3:
+  tor:0.85
+  captcha:0.82
+  temporarily:0.82
+  javascript:0.73
+  order:0.62
+  enabling:0.58
+  sites:0.56
+  lbc:0.53
+  site:0.42
+  cloudflare:0.41
+
+Topic 4:
+  tor:1.27
+  javascript:1.15
+  lbc:0.76
+  sites:0.73
+  temporarily:0.71
+  captcha:0.69
+  order:0.61
+  enabling:0.60
+  accessing:0.48
+  worked:0.48
+
+K: 5, Log-Likelihood: -438.271, Alpha: 11.000, Beta: 1.100

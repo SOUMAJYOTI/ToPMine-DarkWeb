@@ -1,0 +1,61 @@
+Topic 0:
+  lose:3.52
+  vouch:2.61
+  helix:2.60
+  payshield:2.60
+  meant:1.73
+  hack:1.73
+  blender blender:1.73
+  blender:1.73
+  fog:1.73
+  trust:1.73
+
+Topic 1:
+  transaction:5.32
+  timestamp:3.53
+  amountout:3.53
+  api:3.53
+  history:3.53
+  shapeshift io:3.34
+  dash:2.32
+  btc:2.22
+  hiding:2.17
+  practices:2.17
+
+Topic 2:
+  quote:4.07
+  recommend appreciated:2.98
+  kekhello hang hemm recommend:2.83
+  bitcoin blender:2.77
+  tang november man:2.41
+  november amquote:2.40
+  tang november:2.40
+  buying:1.63
+  methods:1.63
+  tech:1.63
+
+Topic 3:
+  shapeshift io:4.49
+  longer:3.68
+  bitcoins:3.42
+  btc:2.95
+  bitcoin:2.30
+  cash btc:1.88
+  purchase:1.79
+  exchange:1.79
+  send:1.79
+  programs:1.79
+
+Topic 4:
+  quote fuu october:10.66
+  anonymity quote fuu october:5.28
+  bitcoins:4.81
+  vpn:4.55
+  bitcoin:4.05
+  tor:3.89
+  anonymity mixing:3.49
+  network:3.49
+  wallet:3.49
+  strong:3.49
+
+K: 5, Log-Likelihood: -2903.813, Alpha: 11.000, Beta: 1.100

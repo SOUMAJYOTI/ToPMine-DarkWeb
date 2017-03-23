@@ -1,0 +1,61 @@
+Topic 0:
+  chat:3.54
+  idea:3.09
+  find:3.04
+  tmg:2.87
+  time:2.56
+  people:2.44
+  gamesome:2.26
+  enjoy:2.24
+  server:2.17
+  agree:2.16
+
+Topic 1:
+  time:2.59
+  map:2.58
+  xmpp:2.16
+  love:2.10
+  server:2.09
+  site:1.99
+  chat:1.94
+  idea:1.72
+  irc:1.64
+  riseup:1.58
+
+Topic 2:
+  server:6.99
+  xmpp:3.42
+  riseup:3.17
+  map:3.08
+  pidgin:2.53
+  ira:2.51
+  tor:2.37
+  client:2.10
+  onion:1.97
+  irc:1.96
+
+Topic 3:
+  public:11.11
+  server:8.45
+  onion:8.36
+  registration:7.33
+  servers:7.26
+  riseup:6.42
+  certificate:5.50
+  ssl:5.47
+  ira:3.81
+  routing:3.73
+
+Topic 4:
+  xmpp:16.17
+  chat:13.68
+  group:10.29
+  activation:4.77
+  option:4.77
+  admit:4.77
+  irc:4.01
+  zoxeebee:3.73
+  people:3.63
+  good:3.29
+
+K: 5, Log-Likelihood: -3049.542, Alpha: 11.000, Beta: 1.100

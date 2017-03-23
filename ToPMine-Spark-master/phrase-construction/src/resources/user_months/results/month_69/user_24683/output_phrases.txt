@@ -1,0 +1,61 @@
+Topic 0:
+  coinbase:1.18
+  coins:0.92
+  luc:0.87
+  vendors:0.80
+  business:0.67
+  guy:0.62
+  hand:0.62
+  country:0.62
+  cash:0.62
+  deals:0.62
+
+Topic 1:
+  sending:4.37
+  knowledge:2.87
+  connected:1.37
+  scarf:1.37
+  heard:1.37
+  address:1.37
+  happening:1.37
+  figured:1.37
+  directly:1.37
+  times:1.37
+
+Topic 2:
+  mail:1.73
+  place:1.73
+  monitored:1.29
+  drugs:1.29
+  active:1.29
+  spending:1.29
+  purchase:1.29
+  authority:1.29
+  purchasing:1.29
+  day:1.29
+
+Topic 3:
+  bitcoin:4.59
+  user agreement:4.39
+  coinbase:4.37
+  bitcoin address:2.88
+  review:2.88
+  happened:2.88
+  external:2.88
+  transaction:2.88
+  balance:2.88
+  goal:2.88
+
+Topic 4:
+  guessing:2.04
+  vendor:1.24
+  vendors:0.92
+  busted:0.90
+  watch btc:0.89
+  btc:0.89
+  vendor btc:0.89
+  leo:0.89
+  blacklisted:0.89
+  list:0.89
+
+K: 5, Log-Likelihood: -1397.403, Alpha: 11.000, Beta: 1.100

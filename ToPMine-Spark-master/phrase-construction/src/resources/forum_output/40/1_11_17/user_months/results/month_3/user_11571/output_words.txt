@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.41
+  money:0.40
+  coins:0.39
+  today:0.20
+  waiting:0.20
+  hours:0.20
+  crazy:0.20
+  account:0.20
+  stilln:0.20
+  mugged:0.20
+
+Topic 1:
+  coins:0.40
+  sr:0.40
+  money:0.39
+  admin:0.20
+  putting:0.20
+  btc:0.20
+  stilln:0.20
+  sign:0.20
+  account:0.20
+  waiting:0.20
+
+Topic 2:
+  coins:0.42
+  sr:0.40
+  money:0.39
+  putting:0.20
+  admin:0.20
+  spamming:0.20
+  check:0.20
+  button:0.20
+  deposits:0.20
+  account:0.20
+
+Topic 3:
+  coins:0.41
+  money:0.40
+  sr:0.40
+  admin:0.20
+  putting:0.20
+  spamming:0.20
+  deposits:0.20
+  check:0.20
+  button:0.20
+  buys:0.20
+
+Topic 4:
+  money:0.41
+  sr:0.40
+  coins:0.39
+  buttons:0.20
+  refresh:0.20
+  fast:0.20
+  buys:0.20
+  shrugthere:0.20
+  deposits:0.20
+  check:0.20
+
+K: 5, Log-Likelihood: -80.626, Alpha: 11.000, Beta: 1.100

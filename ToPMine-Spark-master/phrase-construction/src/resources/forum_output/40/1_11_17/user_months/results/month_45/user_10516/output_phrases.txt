@@ -1,0 +1,61 @@
+Topic 0:
+  camera:24.49
+  plug:15.06
+  april:13.51
+  hard disk:12.43
+  cryptsetup:11.12
+  mac:11.12
+  device:10.72
+  wifi:10.44
+  notebook:9.54
+  privacy point order:9.00
+
+Topic 1:
+  thing:20.54
+  tails:9.80
+  vpn:9.74
+  time:9.71
+  encrusted volume:7.94
+  good passphrase:7.42
+  connections:7.41
+  logs:7.41
+  tunnel:7.41
+  metadata:7.41
+
+Topic 2:
+  marek:18.56
+  truecrypt:15.45
+  amd:13.22
+  secure:12.69
+  cache:11.12
+  solution:10.25
+  de random:10.02
+  problem:8.41
+  entropy:8.05
+  bits aes:7.42
+
+Topic 3:
+  os:18.38
+  dont:14.47
+  tracking users:13.20
+  sense tracking:13.20
+  capabilities:13.13
+  malicious actors:11.13
+  firmware:8.62
+  quote:7.93
+  tor anonymity:7.41
+  tor exit nodes:7.41
+
+Topic 4:
+  hard drives firmware:13.21
+  hard drives:13.21
+  truecrypt team:13.21
+  time:10.61
+  point:9.30
+  project:9.01
+  longer:9.01
+  burn:8.41
+  remove hd:8.38
+  difficult:7.40
+
+K: 5, Log-Likelihood: -53598.241, Alpha: 11.000, Beta: 1.100

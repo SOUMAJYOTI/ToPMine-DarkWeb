@@ -1,0 +1,61 @@
+Topic 0:
+  browser:0.56
+  shooting:0.55
+  glad:0.55
+  administrator:0.55
+  btc:0.55
+  link:0.55
+  send:0.55
+  craziness:0.55
+  contact:0.55
+  price:0.55
+
+Topic 1:
+  dialog:0.88
+  instantly:0.88
+  watched:0.88
+  closed:0.88
+  purchase:0.88
+  log:0.88
+  passwordthe:0.88
+  opened:0.88
+  funds:0.88
+  unexpectedly:0.88
+
+Topic 2:
+  quote:0.58
+  february:0.58
+  fact write issue support:0.57
+  amthe:0.53
+  ilovespaghetti:0.52
+  implemented forum:0.51
+  balance:0.44
+  tor:0.44
+  download:0.42
+  today:0.42
+
+Topic 3:
+  spamm:0.74
+  theyve:0.74
+  key:0.74
+  reason:0.74
+  things:0.74
+  fed:0.74
+  great:0.74
+  jlaw:0.74
+  stay:0.74
+  time:0.74
+
+Topic 4:
+  fact write issue support:0.57
+  quote:0.57
+  february:0.56
+  utopia:0.55
+  shoot:0.55
+  amthe:0.51
+  ilovespaghetti:0.50
+  implemented forum:0.48
+  tor:0.44
+  balance:0.44
+
+K: 5, Log-Likelihood: -539.453, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  money:0.64
+  multisig address:0.51
+  rat things:0.36
+  account:0.30
+  transaction:0.30
+  guard:0.21
+  accounts:0.19
+  finalizing:0.19
+  party:0.19
+  item:0.19
+
+Topic 1:
+  money:0.63
+  multisig address:0.52
+  rat things:0.36
+  transaction:0.30
+  account:0.30
+  guard:0.21
+  thing:0.19
+  community:0.19
+  multisig:0.19
+  pays:0.19
+
+Topic 2:
+  rat things:1.06
+  guard:0.41
+  money:0.30
+  running:0.30
+  multisig address:0.26
+  system:0.20
+  cybernetic:0.20
+  autonomous:0.20
+  fins:0.20
+  cooling:0.20
+
+Topic 3:
+  rat things:1.93
+  guard:0.59
+  running:0.41
+  metaverse:0.25
+  dogs:0.25
+  cooled:0.25
+  fins:0.25
+  autonomous:0.25
+  cybernetic:0.25
+  cooling:0.25
+
+Topic 4:
+  money:0.65
+  multisig address:0.54
+  rat things:0.34
+  transaction:0.31
+  account:0.31
+  guard:0.20
+  locked:0.20
+  items:0.20
+  require:0.20
+  key:0.20
+
+K: 5, Log-Likelihood: -645.511, Alpha: 11.000, Beta: 1.100

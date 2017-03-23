@@ -1,0 +1,61 @@
+Topic 0:
+  key:1.08
+  public:0.98
+  pgp:0.96
+  block:0.76
+  practice:0.59
+  windows:0.39
+  linux:0.39
+  thread:0.39
+  os:0.39
+  users:0.39
+
+Topic 1:
+  pgp:1.82
+  public:1.01
+  key:0.95
+  block:0.87
+  practice:0.65
+  pip:0.42
+  message:0.42
+  users:0.42
+  fj:0.42
+  ld:0.42
+
+Topic 2:
+  pgp:1.31
+  key:1.03
+  public:1.03
+  block:0.85
+  practice:0.61
+  linux:0.41
+  um:0.41
+  messages:0.41
+  ld:0.41
+  post:0.41
+
+Topic 3:
+  key:1.06
+  pgp:1.01
+  public:0.99
+  block:0.80
+  practice:0.60
+  message:0.40
+  os:0.40
+  windows:0.40
+  pip:0.40
+  fj:0.40
+
+Topic 4:
+  public:0.99
+  pgp:0.90
+  key:0.88
+  block:0.73
+  practice:0.55
+  post:0.39
+  um:0.39
+  messages:0.39
+  os:0.39
+  users:0.39
+
+K: 5, Log-Likelihood: -2658.501, Alpha: 11.000, Beta: 1.100

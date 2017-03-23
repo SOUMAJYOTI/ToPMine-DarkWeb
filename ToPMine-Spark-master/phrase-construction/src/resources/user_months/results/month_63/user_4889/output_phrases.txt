@@ -1,0 +1,61 @@
+Topic 0:
+  taint:4.03
+  wallet:3.45
+  public:3.06
+  pretty:2.75
+  clearnet:2.47
+  btc:1.73
+  fucked:1.71
+  hey:1.63
+  uhh:1.61
+  ehehehehe:1.61
+
+Topic 1:
+  deposit:4.23
+  deposited:4.23
+  withdrew:4.23
+  knowing:4.04
+  net:2.38
+  bitstamp:2.38
+  ukcoinjar:2.09
+  coins abraxas:2.09
+  combitbay:2.09
+  bitcoinwallet:2.09
+
+Topic 2:
+  transactions:3.44
+  btc:3.33
+  real:3.22
+  bank:3.16
+  identity:2.89
+  wallet:2.41
+  purse:1.97
+  phished:1.97
+  claim:1.97
+  tumbles:1.97
+
+Topic 3:
+  public wallet:6.17
+  earlier:4.22
+  listings:4.22
+  amount:4.22
+  number:4.22
+  agora:4.04
+  market wallet:3.44
+  coins:3.24
+  viewable:3.05
+  publicly:3.05
+
+Topic 4:
+  wallet abraxas:4.10
+  abraxas:3.37
+  call:3.28
+  named:3.28
+  bullshit:3.28
+  victim:3.28
+  fallen:3.28
+  mymarkethaul mind:3.28
+  thinking:3.28
+  trolling:3.28
+
+K: 5, Log-Likelihood: -2902.266, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  trading:1.55
+  profits:1.10
+  trading mining:1.10
+  instant:1.10
+  hike:1.10
+  hear:1.10
+  compensate:1.10
+  effort:1.10
+  plan:1.10
+  price:1.10
+
+Topic 1:
+  cpu:3.06
+  profitable:1.48
+  dollar:1.46
+  maximum:1.46
+  laptops:1.46
+  hours:1.46
+  damn:1.46
+  altcoins:1.46
+  software:1.46
+  bytecoins:1.46
+
+Topic 2:
+  appreciated:0.87
+  genesis:0.77
+  mining:0.73
+  exchange:0.69
+  asics:0.59
+  hurt:0.56
+  helpful:0.56
+  replies:0.56
+  check:0.56
+  bitcoin:0.56
+
+Topic 3:
+  market:3.07
+  set:3.07
+  process:1.47
+  prove:1.47
+  money power:1.47
+  expensive:1.47
+  stock:1.47
+  burn:1.47
+  waste:1.47
+  pays:1.47
+
+Topic 4:
+  asics:1.23
+  appreciated:0.93
+  luck:0.83
+  late:0.83
+  access:0.83
+  cost:0.82
+  ton:0.82
+  ship:0.82
+  yeah:0.82
+  piss:0.82
+
+K: 5, Log-Likelihood: -903.846, Alpha: 11.000, Beta: 1.100

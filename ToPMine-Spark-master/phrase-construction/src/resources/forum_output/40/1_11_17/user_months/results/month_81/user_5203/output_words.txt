@@ -1,0 +1,61 @@
+Topic 0:
+  dream:3.38
+  forum:2.43
+  hub:2.10
+  march:1.17
+  market:1.07
+  time:1.00
+  threads:0.97
+  link:0.85
+  longest:0.78
+  agreed:0.76
+
+Topic 1:
+  vendor:11.84
+  verify:8.92
+  bond:5.71
+  dream:3.35
+  market:3.33
+  status:2.92
+  black:2.92
+  link:1.94
+  abraham:1.92
+  bank:1.92
+
+Topic 2:
+  dream:2.73
+  market:1.51
+  hub:1.38
+  vendors:1.31
+  quote:0.94
+  markets:0.92
+  forum:0.73
+  link:0.70
+  longest:0.64
+  november:0.64
+
+Topic 3:
+  btc:3.79
+  url:2.89
+  forums:2.76
+  users:2.76
+  mixers:2.75
+  post:2.29
+  mixer:1.89
+  difficulties:1.67
+  prey:1.67
+  user:1.66
+
+Topic 4:
+  markets:3.80
+  november:3.12
+  market:2.94
+  dream:2.57
+  vendors:2.09
+  alpha:1.47
+  amquote:1.38
+  fatherted:1.37
+  people:1.37
+  figure:1.37
+
+K: 5, Log-Likelihood: -1927.158, Alpha: 11.000, Beta: 1.100

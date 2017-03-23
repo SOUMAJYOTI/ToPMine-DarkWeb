@@ -1,0 +1,61 @@
+Topic 0:
+  people:25.80
+  safe mail:20.44
+  party drugs:14.09
+  concern:14.09
+  ketamine dose:14.09
+  type:14.09
+  cryptoanalyst decrypt:14.08
+  message:14.08
+  safe mail tor:14.04
+  access:14.04
+
+Topic 1:
+  person:19.27
+  small:17.47
+  markets:14.98
+  find:14.87
+  drugs:14.85
+  work:14.76
+  buyers vendors:14.08
+  sr:13.09
+  time:13.08
+  agora evo:12.29
+
+Topic 2:
+  vendors:18.36
+  le:14.19
+  tmg:14.10
+  weed enemies:14.10
+  ag:14.10
+  general public:14.10
+  law:14.09
+  sites:13.08
+  thread days guess workarounds:11.97
+  access google account tor:11.97
+
+Topic 3:
+  tor:26.02
+  brute forcing:14.09
+  brute force:14.09
+  character password:14.09
+  assuming password:14.09
+  quartus computers crypto:14.09
+  password length complexity bearing:14.09
+  network system:14.06
+  trusted vendors:14.05
+  traffic analysis:13.28
+
+Topic 4:
+  servers:21.14
+  tor:18.82
+  love:18.51
+  acid:18.08
+  vendors:17.71
+  data:16.57
+  party:14.10
+  stay safe:12.65
+  yeah:12.37
+  long:12.05
+
+K: 5, Log-Likelihood: -103295.512, Alpha: 11.000, Beta: 1.100

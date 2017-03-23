@@ -1,0 +1,61 @@
+Topic 0:
+  system:5.34
+  isolation:3.94
+  dont:3.75
+  tails:3.60
+  dvd:3.18
+  tor:2.94
+  opsec:2.90
+  disk:2.51
+  good:2.06
+  files:2.06
+
+Topic 1:
+  tails:5.86
+  things:2.75
+  separate:1.94
+  cell:1.94
+  card:1.94
+  phone:1.94
+  thing:1.94
+  install:1.94
+  persistent:1.94
+  friend:1.27
+
+Topic 2:
+  email:8.95
+  estrangeddesperado:7.79
+  sigaint:5.53
+  write:4.21
+  org:3.87
+  sigaintevyh:3.62
+  onion:3.21
+  ways:2.40
+  providers:2.26
+  user:2.18
+
+Topic 3:
+  estrangeddesperado:12.05
+  sigaint:12.01
+  email:9.56
+  write:6.17
+  onion:5.81
+  address:5.38
+  sigaintevyh:5.24
+  org:4.86
+  rzvw:4.12
+  june:3.55
+
+Topic 4:
+  sigaint:2.29
+  work:2.11
+  estrangeddesperado:1.98
+  ive:1.93
+  drive:1.82
+  installed:1.81
+  atop:1.58
+  linux:1.53
+  computer:1.52
+  write:1.44
+
+K: 5, Log-Likelihood: -1994.623, Alpha: 11.000, Beta: 1.100

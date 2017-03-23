@@ -1,0 +1,61 @@
+Topic 0:
+  address:3.27
+  kind:2.23
+  activities:1.83
+  computer:1.83
+  windows:1.78
+  stupid:1.54
+  abusing:1.53
+  shit:1.49
+  pms:1.27
+  christmas:1.15
+
+Topic 1:
+  vendor:13.19
+  btc:10.41
+  address:8.25
+  friend:7.48
+  change:4.07
+  pmed:3.88
+  messages:3.71
+  luck:3.70
+  sort:3.68
+  language:3.68
+
+Topic 2:
+  metta:5.81
+  christmas:4.55
+  money:3.34
+  friend:3.23
+  coins:3.05
+  acid:2.75
+  ve:2.18
+  address:2.01
+  time:1.92
+  brother:1.83
+
+Topic 3:
+  address:6.47
+  christmas:2.34
+  bitcoin:2.19
+  fucked:2.19
+  shit:2.14
+  checked:2.07
+  windows:1.95
+  td:1.71
+  machine:1.71
+  weeks:1.71
+
+Topic 4:
+  money:7.71
+  pasted:7.25
+  copy:7.24
+  human:6.73
+  happened:6.28
+  hallucinating:5.60
+  message:5.09
+  confused:5.07
+  private:4.74
+  general:3.59
+
+K: 5, Log-Likelihood: -3057.241, Alpha: 11.000, Beta: 1.100

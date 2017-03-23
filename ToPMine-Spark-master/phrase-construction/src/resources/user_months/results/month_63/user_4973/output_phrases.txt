@@ -1,0 +1,61 @@
+Topic 0:
+  input:0.44
+  freddie:0.43
+  glad:0.43
+  online:0.43
+  cheers:0.43
+  luck:0.43
+  place:0.42
+  job:0.41
+  didnt:0.38
+  dhl online:0.38
+
+Topic 1:
+  place:1.03
+  cheers:1.03
+  glad:1.02
+  freddie:1.02
+  input:1.02
+  online:1.02
+  luck:1.02
+  careful:0.82
+  links:0.82
+  phishing:0.82
+
+Topic 2:
+  job:2.38
+  didnt:2.20
+  pm:1.78
+  vendor:1.75
+  tails:1.73
+  login:1.46
+  friends:1.17
+  option:1.16
+  apologize:1.12
+  love:1.12
+
+Topic 3:
+  ll:2.60
+  permission:1.78
+  avoid:1.78
+  hrs:1.78
+  shipped:1.78
+  message:1.78
+  check:1.78
+  yeah:1.78
+  maximum:1.78
+  sigh:1.78
+
+Topic 4:
+  didnt:2.77
+  job:2.55
+  login:2.16
+  tails:1.88
+  vendor:1.85
+  pm:1.85
+  method:1.32
+  paid:1.26
+  passwords:1.25
+  keylogger:1.25
+
+K: 5, Log-Likelihood: -1743.304, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  havana:7.65
+  multisig:6.71
+  market:4.67
+  cr:4.35
+  absolem:4.33
+  april:3.64
+  markets:3.08
+  quote:2.99
+  talking:2.21
+  jackblue:2.11
+
+Topic 1:
+  absolem:5.41
+  havana:4.69
+  market:4.67
+  quote:1.40
+  april:1.38
+  released:1.22
+  absalom:1.21
+  application:1.21
+  ava:1.18
+  url:1.16
+
+Topic 2:
+  market:4.46
+  vendors:3.79
+  darknet:2.74
+  dont:2.07
+  foolish:1.94
+  decision:1.94
+  risk:1.94
+  marijuana:1.94
+  scam:1.94
+  test:1.75
+
+Topic 3:
+  alpaca:14.30
+  havana:11.27
+  similarities:9.37
+  question:8.07
+  cr:7.55
+  web:6.46
+  april:5.83
+  alpacas:5.70
+  walter:4.09
+  official:4.01
+
+Topic 4:
+  vendor:7.44
+  sig:5.39
+  havana:3.34
+  market:3.11
+  time:2.98
+  absolem:2.88
+  key:2.87
+  uri:2.87
+  transaction:2.87
+  probablefire:2.83
+
+K: 5, Log-Likelihood: -6513.729, Alpha: 11.000, Beta: 1.100

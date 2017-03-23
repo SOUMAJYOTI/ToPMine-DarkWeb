@@ -1,0 +1,61 @@
+Topic 0:
+  instructions:0.20
+  yup:0.20
+  work:0.20
+  great:0.20
+  set:0.20
+  tails:0.20
+  night:0.20
+  fantastic:0.20
+  guide:0.20
+  hour:0.20
+
+Topic 1:
+  great:0.20
+  hour:0.20
+  guide:0.20
+  yup:0.20
+  night:0.20
+  instructions:0.20
+  work:0.20
+  tails:0.20
+  set:0.20
+  fantastic:0.20
+
+Topic 2:
+  fantastic:0.20
+  night:0.20
+  hour:0.20
+  guide:0.20
+  tails:0.20
+  set:0.20
+  great:0.20
+  work:0.20
+  yup:0.20
+  instructions:0.20
+
+Topic 3:
+  instructions:0.20
+  work:0.20
+  hour:0.20
+  fantastic:0.20
+  night:0.20
+  yup:0.20
+  set:0.20
+  tails:0.20
+  guide:0.20
+  great:0.20
+
+Topic 4:
+  guide:0.20
+  tails:0.20
+  set:0.20
+  fantastic:0.20
+  hour:0.20
+  night:0.20
+  work:0.20
+  yup:0.20
+  great:0.20
+  instructions:0.20
+
+K: 5, Log-Likelihood: -23.026, Alpha: 11.000, Beta: 1.100

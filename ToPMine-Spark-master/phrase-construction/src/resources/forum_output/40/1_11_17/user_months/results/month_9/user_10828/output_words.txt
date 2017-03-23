@@ -1,0 +1,61 @@
+Topic 0:
+  sky:3.08
+  scam:2.88
+  market:2.39
+  blue:2.22
+  listed:2.00
+  march:1.91
+  sr:1.63
+  time:1.40
+  quote:1.22
+  ago:1.15
+
+Topic 1:
+  scam:3.72
+  market:3.56
+  sky:2.80
+  blue:1.58
+  march:1.52
+  listed:1.43
+  sr:1.19
+  time:1.10
+  alfred:1.07
+  long:1.07
+
+Topic 2:
+  market:2.43
+  sky:2.15
+  blue:2.00
+  scam:1.98
+  time:1.28
+  quote:1.11
+  listed:1.07
+  march:0.98
+  sr:0.87
+  bluesky:0.80
+
+Topic 3:
+  market:3.64
+  sky:2.47
+  scam:2.15
+  blue:1.61
+  march:1.10
+  time:0.96
+  bluesky:0.96
+  listed:0.90
+  bsm:0.90
+  sr:0.80
+
+Topic 4:
+  market:1.98
+  blue:1.59
+  sky:1.51
+  scam:1.27
+  time:1.26
+  quote:1.03
+  bsm:0.86
+  bluesky:0.85
+  traders:0.75
+  february:0.74
+
+K: 5, Log-Likelihood: -1396.979, Alpha: 11.000, Beta: 1.100

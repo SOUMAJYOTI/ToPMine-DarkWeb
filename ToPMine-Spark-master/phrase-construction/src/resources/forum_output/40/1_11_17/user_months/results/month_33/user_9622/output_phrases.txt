@@ -1,0 +1,61 @@
+Topic 0:
+  beliefs:8.90
+  people:5.56
+  clear:4.44
+  internet people:4.44
+  wouldn:4.44
+  matter:4.44
+  sort:4.44
+  guess:4.44
+  thing:4.44
+  sbut:4.44
+
+Topic 1:
+  people souls:7.36
+  soul:7.20
+  gingers:5.11
+  soul people:5.01
+  seekers:4.43
+  country:4.43
+  real special:4.43
+  convinced:4.43
+  primary:4.43
+  microbiology:4.43
+
+Topic 2:
+  enlightenment:8.91
+  mystical:8.91
+  actions serving:8.91
+  meaningless pursuits:8.91
+  remembered:8.91
+  serving:8.91
+  chop wood carry water:8.91
+  royalty:7.22
+  souls:4.91
+  aquire:4.45
+
+Topic 3:
+  answer:7.10
+  ideas college:6.55
+  quote seena january:6.25
+  question soul:6.13
+  seena:5.97
+  importantly answered question:5.82
+  provide resources minds powers:5.80
+  family:5.75
+  created account post answer:5.61
+  common people:4.80
+
+Topic 4:
+  real:13.37
+  love:12.76
+  common person:8.87
+  mind:8.87
+  life death:8.87
+  discover:4.44
+  clean:4.44
+  lead:4.44
+  god time talk:4.44
+  contained:4.44
+
+K: 5, Log-Likelihood: -11963.820, Alpha: 11.000, Beta: 1.100

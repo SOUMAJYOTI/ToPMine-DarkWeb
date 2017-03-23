@@ -1,0 +1,61 @@
+Topic 0:
+  fa:0.74
+  pgp key:0.73
+  username:0.45
+  login:0.45
+  pasting:0.45
+  true:0.45
+  turning:0.45
+  invalid:0.45
+  market:0.35
+  crypto:0.27
+
+Topic 1:
+  pgp key:0.43
+  fa:0.43
+  market:0.33
+  crypto:0.32
+  turning:0.29
+  pasting:0.29
+  true:0.29
+  invalid:0.29
+  login:0.29
+  username:0.29
+
+Topic 2:
+  pgp key:0.54
+  fa:0.53
+  invalid:0.35
+  turning:0.35
+  true:0.35
+  login:0.35
+  username:0.35
+  pasting:0.35
+  market:0.35
+  crypto:0.31
+
+Topic 3:
+  crypto market:3.21
+  vendors:0.74
+  rosakovo:0.74
+  open:0.74
+  comrades:0.74
+  general:0.74
+  references:0.29
+  free:0.29
+  drugs:0.29
+  bond:0.29
+
+Topic 4:
+  crypto market:0.36
+  crypto:0.33
+  market:0.30
+  fa:0.29
+  pgp key:0.29
+  general:0.22
+  comrades:0.22
+  open:0.22
+  rosakovo:0.22
+  turning:0.22
+
+K: 5, Log-Likelihood: -469.192, Alpha: 11.000, Beta: 1.100

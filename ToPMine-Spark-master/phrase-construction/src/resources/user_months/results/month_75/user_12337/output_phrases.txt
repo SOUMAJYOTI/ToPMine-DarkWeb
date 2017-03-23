@@ -1,0 +1,61 @@
+Topic 0:
+  apple market:4.83
+  ladies:2.49
+  life:2.27
+  signature:1.92
+  change:1.80
+  negotiate:1.68
+  ding:1.65
+  iphones ipads:1.64
+  pgp:1.57
+  gentlemen:1.56
+
+Topic 1:
+  dont:3.85
+  users:3.83
+  product:3.19
+  facility:3.13
+  names:3.13
+  vendors doesnt:3.13
+  grams:3.13
+  time:3.13
+  filters:3.13
+  rating:3.13
+
+Topic 2:
+  apple market:3.17
+  guys:2.69
+  vendor:2.52
+  fee:1.73
+  buyers:1.73
+  luck:1.73
+  drop:1.73
+  called:1.61
+  interested:1.61
+  asked:1.38
+
+Topic 3:
+  pgp:4.26
+  life:3.50
+  ladies:3.31
+  jobs:2.56
+  sell:2.54
+  profitable:2.46
+  accounts:2.44
+  rest:2.41
+  universe:2.38
+  escrow:2.36
+
+Topic 4:
+  ui:4.65
+  feel:3.88
+  people:3.88
+  good luck:3.78
+  apples:3.77
+  markets:3.69
+  market:3.10
+  dream:2.99
+  bars:2.99
+  nucleus:2.99
+
+K: 5, Log-Likelihood: -4885.881, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  newbie:1.71
+  accounts:0.85
+  informed:0.75
+  solicitation:0.75
+  offers:0.75
+  spam:0.74
+  subforum:0.60
+  posted:0.48
+  june:0.47
+  regularly:0.47
+
+Topic 1:
+  newbie:1.06
+  subforum:0.97
+  informed:0.85
+  spam:0.82
+  offers:0.79
+  solicitation:0.77
+  suggestion:0.56
+  love:0.56
+  incidents:0.47
+  actions:0.47
+
+Topic 2:
+  newbie:1.99
+  spam:0.80
+  solicitation:0.80
+  informed:0.78
+  offers:0.77
+  accounts:0.72
+  subforum:0.62
+  june:0.46
+  regularly:0.46
+  visited:0.45
+
+Topic 3:
+  newbie:1.05
+  subforum:0.92
+  solicitation:0.85
+  offers:0.83
+  spam:0.82
+  informed:0.78
+  love:0.51
+  suggestion:0.51
+  eliminated:0.47
+  incidents:0.47
+
+Topic 4:
+  newbie:1.19
+  subforum:0.89
+  offers:0.87
+  solicitation:0.84
+  informed:0.84
+  spam:0.81
+  accounts:0.52
+  incidents:0.43
+  actions:0.43
+  love:0.43
+
+K: 5, Log-Likelihood: -391.155, Alpha: 11.000, Beta: 1.100

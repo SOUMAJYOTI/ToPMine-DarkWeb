@@ -1,0 +1,51 @@
+Topic 0:
+  hang:0.00
+  site:0.00
+  guess:0.00
+  customers:0.00
+  mrouid:0.00
+  body:0.00
+  good:0.00
+  happened:0.00
+
+Topic 1:
+  hang:0.00
+  site:0.00
+  guess:0.00
+  customers:0.00
+  mrouid:0.00
+  body:0.00
+  good:0.00
+  happened:0.00
+
+Topic 2:
+  hang:0.00
+  site:0.00
+  guess:0.00
+  customers:0.00
+  mrouid:0.00
+  body:0.00
+  good:0.00
+  happened:0.00
+
+Topic 3:
+  hang:0.00
+  site:0.00
+  guess:0.00
+  customers:0.00
+  mrouid:0.00
+  body:0.00
+  good:0.00
+  happened:0.00
+
+Topic 4:
+  hang:0.00
+  site:0.00
+  guess:0.00
+  customers:0.00
+  mrouid:0.00
+  body:0.00
+  good:0.00
+  happened:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

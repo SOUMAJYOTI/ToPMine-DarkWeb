@@ -1,0 +1,61 @@
+Topic 0:
+  user:0.20
+  wait:0.20
+  limit:0.20
+  link:0.20
+  error:0.20
+  time:0.20
+  days:0.18
+  forum:0.18
+  register:0.18
+  agora:0.18
+
+Topic 1:
+  error:0.20
+  link:0.20
+  time:0.20
+  wait:0.20
+  limit:0.20
+  user:0.20
+  site:0.18
+  inconvenient:0.18
+  temporary:0.18
+  suspect:0.18
+
+Topic 2:
+  error:0.20
+  link:0.20
+  time:0.20
+  limit:0.20
+  wait:0.20
+  user:0.20
+  verified:0.18
+  inconvenient:0.18
+  referred:0.18
+  temporary:0.18
+
+Topic 3:
+  user:0.20
+  wait:0.20
+  limit:0.20
+  time:0.20
+  link:0.20
+  error:0.20
+  general:0.18
+  posted:0.18
+  clicked:0.18
+  reached:0.18
+
+Topic 4:
+  time:0.20
+  error:0.20
+  link:0.20
+  wait:0.20
+  limit:0.20
+  user:0.20
+  verified:0.18
+  referred:0.18
+  experiencing:0.18
+  inconvenient:0.18
+
+K: 5, Log-Likelihood: -79.656, Alpha: 11.000, Beta: 1.100

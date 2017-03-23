@@ -1,0 +1,61 @@
+Topic 0:
+  post:1.02
+  dhl:0.70
+  stealthbomber:0.69
+  cp:0.60
+  investigating:0.50
+  bit:0.50
+  leaks:0.50
+  suspicious:0.50
+  lab:0.50
+  busted:0.50
+
+Topic 1:
+  dhl:1.15
+  lotswhats:0.93
+  reading:0.93
+  amfind:0.93
+  cyclonewatson:0.93
+  times:0.93
+  things:0.93
+  average:0.92
+  shipping:0.92
+  turn:0.92
+
+Topic 2:
+  point bust:0.94
+  ive:0.92
+  people:0.92
+  units:0.92
+  atleast:0.91
+  long:0.90
+  pill:0.90
+  orders:0.90
+  days:0.89
+  order:0.88
+
+Topic 3:
+  post:1.87
+  cops:0.80
+  organization:0.80
+  place:0.80
+  busted:0.80
+  leaks:0.80
+  lab:0.80
+  bit:0.79
+  suspicious:0.79
+  investigating:0.79
+
+Topic 4:
+  ago stealth:1.03
+  days:1.02
+  pressing:1.02
+  order:1.01
+  orders:1.00
+  safe:1.00
+  pill:0.99
+  long:0.99
+  atleast:0.97
+  units:0.97
+
+K: 5, Log-Likelihood: -589.107, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  money:2.32
+  tax:1.75
+  pay:1.55
+  method:1.48
+  cash:0.75
+  thing:0.55
+  amount:0.50
+  gains:0.45
+  making:0.43
+  job:0.42
+
+Topic 1:
+  tax:2.06
+  cash:1.39
+  amount:0.86
+  gains:0.79
+  thing:0.62
+  dont:0.58
+  charity:0.46
+  pretty:0.46
+  taxs:0.46
+  loss:0.46
+
+Topic 2:
+  money:1.97
+  tax:1.59
+  method:1.41
+  pay:1.22
+  cash:0.86
+  gains:0.62
+  amount:0.55
+  thing:0.54
+  job:0.39
+  quote:0.39
+
+Topic 3:
+  money:14.19
+  accounts:3.61
+  clean:3.61
+  multiply:2.62
+  security:2.62
+  chips:2.62
+  business:2.62
+  network:2.62
+  method:1.76
+  piece:1.64
+
+Topic 4:
+  dont:3.10
+  amount:2.92
+  occurs:1.32
+  worry:1.32
+  bother:1.32
+  stick:1.31
+  sore:1.31
+  agency:1.31
+  thousands:1.31
+  sorts:1.31
+
+K: 5, Log-Likelihood: -1209.827, Alpha: 11.000, Beta: 1.100

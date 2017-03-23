@@ -1,0 +1,61 @@
+Topic 0:
+  wallet file:13.60
+  wallet private key:10.88
+  guess passpharses phrase song:9.88
+  seed work strong passphrase:9.88
+  seed people constantly:9.88
+  seed deterministic move coins:9.88
+  password:9.06
+  quote orderofthephoenix pmis brainwallet:9.06
+  strong passphrase:9.06
+  random wallet generator:9.06
+
+Topic 1:
+  blockchain info:18.14
+  online computer:18.14
+  wallet:14.10
+  public key:13.74
+  text box:13.60
+  private key:10.07
+  receive btc:9.07
+  generate wallets:9.07
+  transaction history:9.07
+  offline computer:9.07
+
+Topic 2:
+  pressure cooker:26.64
+  mycelium:17.22
+  seed culture:15.52
+  small:11.65
+  carboy:11.29
+  jars:11.14
+  hole:11.01
+  pump:10.75
+  quart jars:9.91
+  buy:9.80
+
+Topic 3:
+  key:13.82
+  bitcoin wallet:9.04
+  services key:9.03
+  signed message:9.03
+  official bitcoin protocol:8.96
+  change address:7.88
+  deterministic wallet:7.85
+  coins lost:6.97
+  change:6.73
+  verification:5.91
+
+Topic 4:
+  vendor:8.54
+  small:6.49
+  mycelium:5.46
+  pressure cooker:5.11
+  buy:4.84
+  lid:4.81
+  ph:4.66
+  test:4.49
+  longer:4.48
+  sales:4.12
+
+K: 5, Log-Likelihood: -38578.282, Alpha: 11.000, Beta: 1.100

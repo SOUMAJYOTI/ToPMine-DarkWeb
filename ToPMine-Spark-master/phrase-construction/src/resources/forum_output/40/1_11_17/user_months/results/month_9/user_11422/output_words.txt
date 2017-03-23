@@ -1,0 +1,61 @@
+Topic 0:
+  money:0.40
+  system:0.36
+  escrow:0.36
+  alice:0.36
+  disappear:0.21
+  support:0.21
+  people:0.21
+  tickets:0.21
+  moment:0.21
+  forumseems:0.21
+
+Topic 1:
+  money:0.40
+  alice:0.40
+  system:0.40
+  escrow:0.40
+  transfer:0.20
+  thisyou:0.20
+  admin:0.20
+  chance:0.20
+  confirm:0.20
+  fuck:0.20
+
+Topic 2:
+  alice:0.41
+  escrow:0.41
+  system:0.41
+  money:0.40
+  btc:0.20
+  vendor:0.20
+  chance:0.20
+  admin:0.20
+  fuck:0.20
+  clientsso:0.20
+
+Topic 3:
+  money:0.40
+  system:0.37
+  alice:0.37
+  escrow:0.37
+  atm:0.21
+  aware:0.21
+  guysas:0.21
+  forumseems:0.21
+  time:0.21
+  people:0.21
+
+Topic 4:
+  escrow:0.46
+  alice:0.46
+  system:0.45
+  money:0.39
+  scammed:0.22
+  xdthink:0.22
+  access:0.22
+  thisyou:0.22
+  clientsso:0.22
+  confirm:0.22
+
+K: 5, Log-Likelihood: -132.763, Alpha: 11.000, Beta: 1.100

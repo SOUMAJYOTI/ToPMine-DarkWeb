@@ -1,0 +1,61 @@
+Topic 0:
+  quote:5.88
+  resource:4.56
+  motherfuckers:3.81
+  bad:3.81
+  presidente:3.76
+  community:3.71
+  gamesome:3.67
+  january:3.07
+  february:2.88
+  contribution:2.81
+
+Topic 1:
+  vendors:7.91
+  agora:5.00
+  vendor:3.98
+  scrape:3.10
+  agra:2.92
+  registered:2.88
+  note:2.54
+  busy:2.52
+  data:2.26
+  start:1.98
+
+Topic 2:
+  feedback:5.87
+  vendors:5.48
+  provide:2.82
+  markets:2.20
+  scores:2.04
+  hard:1.80
+  hope:1.68
+  current:1.45
+  accounts:1.32
+  ratings:1.25
+
+Topic 3:
+  vendor:12.52
+  pgp:11.37
+  server:6.95
+  directory:6.57
+  key:4.97
+  vendors:3.81
+  markets:3.75
+  market:3.22
+  message:3.20
+  keys:3.18
+
+Topic 4:
+  key:11.81
+  vendor:7.15
+  market:7.14
+  el:4.21
+  keys:3.98
+  presidente:3.89
+  directory:3.13
+  intend:2.94
+  pgp:1.99
+  single:1.94
+
+K: 5, Log-Likelihood: -3541.588, Alpha: 11.000, Beta: 1.100

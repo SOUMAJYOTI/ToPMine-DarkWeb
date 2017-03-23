@@ -1,0 +1,61 @@
+Topic 0:
+  downtime:1.19
+  eve:0.86
+  quote:0.65
+  running:0.60
+  started:0.60
+  location:0.60
+  shocked:0.60
+  dnm:0.60
+  blackbank:0.53
+  posted:0.51
+
+Topic 1:
+  iirc:2.16
+  isnt:2.15
+  verses:1.61
+  didnt:1.61
+  kinda evo:1.61
+  death:1.61
+  announced:1.61
+  days:1.61
+  birth:1.61
+  leading:1.61
+
+Topic 2:
+  coming:1.60
+  runs:1.60
+  split:1.60
+  promising:1.60
+  smoothly:1.60
+  laid:1.60
+  clad:1.60
+  solid:1.60
+  year:1.60
+  iron:1.60
+
+Topic 3:
+  market:2.83
+  ironclad:1.84
+  zaphod:1.39
+  reason:1.39
+  weeks:1.39
+  removed:1.39
+  unknown:1.39
+  clearnet:1.39
+  source:1.39
+  quote:1.12
+
+Topic 4:
+  downtime:3.29
+  drives:2.10
+  activity:2.10
+  vendor:2.09
+  waiting:2.09
+  orders:2.09
+  fucking:2.09
+  crazy:2.08
+  big:2.08
+  marketplace runs:2.08
+
+K: 5, Log-Likelihood: -1037.287, Alpha: 11.000, Beta: 1.100

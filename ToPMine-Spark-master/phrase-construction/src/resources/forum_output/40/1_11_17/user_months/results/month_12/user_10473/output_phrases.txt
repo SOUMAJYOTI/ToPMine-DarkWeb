@@ -1,0 +1,61 @@
+Topic 0:
+  june:0.31
+  click:0.31
+  link:0.31
+  work:0.20
+  guarenteed:0.20
+  doesnt:0.20
+  whiteboywasted:0.20
+  hub:0.20
+  referred link:0.20
+  official:0.20
+
+Topic 1:
+  june:0.31
+  click:0.31
+  link:0.31
+  market:0.20
+  thread:0.20
+  amand:0.20
+  official:0.20
+  whiteboywasted:0.20
+  guarenteed:0.20
+  work:0.20
+
+Topic 2:
+  click:0.31
+  link:0.31
+  june:0.31
+  hub:0.20
+  sticking:0.20
+  referred link:0.20
+  whiteboywasted:0.20
+  thread:0.20
+  amand:0.20
+  guarenteed:0.20
+
+Topic 3:
+  june:0.31
+  link:0.31
+  click:0.31
+  market:0.20
+  quote:0.20
+  sticking:0.20
+  amand:0.20
+  doesnt:0.20
+  official:0.20
+  whiteboywasted:0.20
+
+Topic 4:
+  link:0.31
+  click:0.31
+  june:0.31
+  hub:0.20
+  doesnt:0.20
+  referred link:0.20
+  thread:0.20
+  quote:0.20
+  work:0.20
+  guarenteed:0.20
+
+K: 5, Log-Likelihood: -139.102, Alpha: 11.000, Beta: 1.100

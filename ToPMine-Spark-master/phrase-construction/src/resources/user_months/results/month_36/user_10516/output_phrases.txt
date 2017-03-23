@@ -1,0 +1,61 @@
+Topic 0:
+  tor:14.85
+  whonix:12.70
+  devices switch:11.75
+  traffic:10.58
+  eliminate:9.91
+  easy:9.77
+  tor browser bundle:9.70
+  device switch:9.69
+  os:9.07
+  write:9.06
+
+Topic 1:
+  fitlet:23.44
+  fitlet fitlet:16.74
+  boot:14.03
+  compulab:13.39
+  fde:12.51
+  boot partition:12.36
+  storage:11.76
+  soc:11.76
+  requires:10.59
+  supports:10.04
+
+Topic 2:
+  cru:13.39
+  storage devices:10.04
+  writeblocker:10.04
+  march:8.16
+  main machine:7.93
+  sda boot:7.93
+  reader avoid checksumming md:7.93
+  sda main machine sdb:7.93
+  machine teensy hooked card:7.93
+  microsds retailer encrypted os:7.93
+
+Topic 3:
+  tails whonix:11.76
+  browser:9.48
+  zaphod:8.74
+  good:8.09
+  order online:7.90
+  tor middlebox:7.86
+  astors:6.68
+  tpm:6.68
+  codes:6.64
+  corrupted:6.64
+
+Topic 4:
+  nasty:12.79
+  work:12.70
+  distro:10.04
+  bit:9.73
+  nice:8.81
+  organizer:6.69
+  isolated:6.69
+  software handy:6.69
+  form:6.69
+  good tails:6.69
+
+K: 5, Log-Likelihood: -37913.120, Alpha: 11.000, Beta: 1.100

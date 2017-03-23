@@ -1,0 +1,61 @@
+Topic 0:
+  info:7.71
+  market:6.51
+  simple:5.01
+  amcould picked true markets:4.63
+  nimbussy november:4.63
+  ancient greek roman names:4.63
+  ron swanson november:4.10
+  answered info:3.82
+  onion:3.82
+  coming:3.82
+
+Topic 1:
+  site:9.39
+  acropolis:7.03
+  deep:4.68
+  security:4.68
+  fee:4.68
+  signature:4.68
+  transactions:4.68
+  markets:4.68
+  web:4.68
+  acropolis market:4.68
+
+Topic 2:
+  ira:4.38
+  tied:3.77
+  people:3.69
+  ago:3.25
+  months:3.23
+  met:3.22
+  coins:3.21
+  hot:3.19
+  quote jalape happy november:2.45
+  lolits:2.29
+
+Topic 3:
+  block:4.68
+  fq:4.68
+  zt:4.68
+  key:4.68
+  olk:4.68
+  public:4.68
+  xy:4.68
+  es:4.68
+  pgp:3.84
+  zifwjjqjb:2.33
+
+Topic 4:
+  running windows machine:5.75
+  vulnerable exploits clicks imagine:5.64
+  nginx server happen nginx:5.64
+  mind replies comments:4.88
+  news updates regardsacropolis:4.81
+  roll humbled response posted:4.81
+  november:3.82
+  fatherted november amquote:3.82
+  pmquote:3.82
+  onioncola:3.82
+
+K: 5, Log-Likelihood: -9802.272, Alpha: 11.000, Beta: 1.100

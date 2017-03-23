@@ -1,0 +1,61 @@
+Topic 0:
+  login password option login:0.66
+  fa result lot people:0.66
+  vendor fee withdrawal password:0.65
+  great:0.61
+  early:0.57
+  option contact support site:0.57
+  spaghetti things sun:0.57
+  resolution centre impressions released:0.57
+  account confirmed pgp pay:0.57
+  phished:0.57
+
+Topic 1:
+  great:1.84
+  login password option login:0.73
+  fa result lot people:0.72
+  vendor fee withdrawal password:0.72
+  guys:0.70
+  ils:0.69
+  job:0.69
+  stellar:0.69
+  gh:0.69
+  amhi:0.62
+
+Topic 2:
+  checking message:1.46
+  quote ilovespaghetti:1.46
+  good:1.46
+  pmhello:1.44
+  vendor pay:1.30
+  thread:1.30
+  official:1.30
+  forums:1.30
+  money:1.30
+  market:1.30
+
+Topic 3:
+  request:1.54
+  attempting:1.54
+  error:1.53
+  register:1.53
+  blackholed:1.53
+  timer:1.28
+  theory:1.28
+  worked:1.28
+  black:1.28
+  margarita:1.28
+
+Topic 4:
+  centre impressions released early:1.07
+  contact support site resolution:1.06
+  phished option:1.06
+  amhi:1.06
+  sunwu:1.05
+  vendor fee withdrawal password:0.97
+  fa result lot people:0.95
+  login password option login:0.94
+  message:0.80
+  support:0.80
+
+K: 5, Log-Likelihood: -697.949, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bitblender january pmquote:1.55
+  reference hack:1.09
+  quote:1.05
+  bitstamp sweating:1.04
+  sleep customers repaid sweat:1.04
+  pmim sweating write sucks:1.03
+  evilgrin january:1.02
+  remember:0.99
+  walter:0.99
+  january pmquote:0.98
+
+Topic 1:
+  bitstamp:2.26
+  customer:0.91
+  honored:0.90
+  issued:0.90
+  addresses:0.87
+  security:0.86
+  maintains:0.85
+  reserves:0.83
+  service:0.81
+  deposits:0.81
+
+Topic 2:
+  bitstamp:1.18
+  addresses:0.76
+  january:0.52
+  maintains:0.52
+  honored:0.52
+  issued:0.51
+  service:0.51
+  customer:0.50
+  utc:0.50
+  deposits:0.50
+
+Topic 3:
+  bitcoins:1.76
+  email:1.20
+  hot:1.20
+  received:1.20
+  lose:1.20
+  bitcoins bitstamp:1.20
+  cold:1.20
+  stolen:1.20
+  safe:1.20
+  customers:1.20
+
+Topic 4:
+  bitstamp:3.73
+  utc:1.52
+  deposits:1.52
+  reserves:1.51
+  service:1.50
+  january:1.49
+  security:1.47
+  maintains:1.45
+  issued:1.41
+  honored:1.40
+
+K: 5, Log-Likelihood: -672.693, Alpha: 11.000, Beta: 1.100

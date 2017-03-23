@@ -1,0 +1,61 @@
+Topic 0:
+  stay:0.41
+  drugs:0.41
+  continue:0.41
+  things:0.41
+  safe:0.40
+  week:0.33
+  luck:0.29
+  ordering:0.29
+  good:0.29
+  arriving:0.28
+
+Topic 1:
+  week:1.09
+  half:0.43
+  happened:0.42
+  inside:0.42
+  obviosuly:0.42
+  worried:0.42
+  fine:0.42
+  bill:0.42
+  alert:0.42
+  torn:0.42
+
+Topic 2:
+  stay:0.57
+  safe:0.57
+  drugs:0.57
+  continue:0.57
+  things:0.56
+  good:0.30
+  arriving:0.30
+  luck:0.29
+  ordering:0.29
+  building:0.26
+
+Topic 3:
+  continue:0.54
+  things:0.53
+  safe:0.53
+  drugs:0.53
+  stay:0.52
+  arriving:0.30
+  good:0.30
+  luck:0.29
+  ordering:0.29
+  week:0.27
+
+Topic 4:
+  things:0.50
+  safe:0.50
+  stay:0.50
+  drugs:0.50
+  continue:0.49
+  ordering:0.30
+  luck:0.30
+  good:0.29
+  arriving:0.29
+  week:0.26
+
+K: 5, Log-Likelihood: -375.237, Alpha: 11.000, Beta: 1.100

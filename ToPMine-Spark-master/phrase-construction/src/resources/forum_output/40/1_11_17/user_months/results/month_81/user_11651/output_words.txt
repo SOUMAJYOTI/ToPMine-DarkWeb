@@ -1,0 +1,61 @@
+Topic 0:
+  catch:4.26
+  fall:4.06
+  good:3.34
+  march:3.31
+  gamesome:2.30
+  support:2.25
+  running:2.18
+  shit:2.18
+  listening:2.14
+  msgs:2.11
+
+Topic 1:
+  fall:2.70
+  catch:2.60
+  march:2.47
+  aethon:1.84
+  quote:1.66
+  support:1.65
+  love:1.64
+  good:1.56
+  posted:1.51
+  scammers:1.47
+
+Topic 2:
+  good:2.85
+  catch:2.85
+  fall:2.80
+  march:2.45
+  aethon:2.26
+  love:2.18
+  quote:1.85
+  support:1.85
+  dont:1.84
+  scammers:1.84
+
+Topic 3:
+  deposit:6.85
+  balance:2.93
+  temporary:2.93
+  issue:2.93
+  security:2.61
+  deposits:1.93
+  unique:1.93
+  message:1.93
+  wallet:1.93
+  address:1.93
+
+Topic 4:
+  fruit:5.72
+  low:4.68
+  hanging:4.67
+  people:3.51
+  day:2.84
+  money:2.18
+  safe:2.05
+  hand:1.90
+  ensure:1.81
+  ready:1.81
+
+K: 5, Log-Likelihood: -1810.079, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  check:0.97
+  file:0.75
+  bitcoin:0.55
+  enter:0.50
+  money:0.47
+  normal:0.46
+  agora:0.46
+  country:0.46
+  moved:0.41
+  places:0.29
+
+Topic 1:
+  bitcoin:1.63
+  money:1.00
+  country:1.00
+  places:0.75
+  check:0.39
+  moved:0.36
+  europe:0.31
+  difficult:0.31
+  live:0.31
+  points:0.31
+
+Topic 2:
+  check:0.77
+  bitcoin:0.67
+  file:0.62
+  country:0.56
+  money:0.55
+  agora:0.41
+  normal:0.41
+  moved:0.40
+  enter:0.39
+  places:0.35
+
+Topic 3:
+  check:0.77
+  bitcoin:0.65
+  file:0.64
+  country:0.53
+  money:0.52
+  normal:0.43
+  agora:0.43
+  enter:0.42
+  moved:0.41
+  places:0.33
+
+Topic 4:
+  check:1.11
+  file:0.72
+  enter:0.52
+  bitcoin:0.51
+  agora:0.47
+  normal:0.47
+  money:0.46
+  country:0.45
+  moved:0.42
+  places:0.29
+
+K: 5, Log-Likelihood: -323.338, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  feel free:0.69
+  pm:0.67
+  anah:0.66
+  vendor:0.55
+  bro:0.35
+  customers:0.34
+  contact:0.34
+  listings:0.34
+  thehub:0.34
+  dealing:0.34
+
+Topic 1:
+  pm:0.69
+  anah:0.64
+  feel free:0.64
+  vendor:0.57
+  bro:0.34
+  privately:0.34
+  rules:0.34
+  shoot:0.34
+  respond:0.34
+  uri:0.34
+
+Topic 2:
+  feel free:0.75
+  anah:0.72
+  pm:0.69
+  vendor:0.55
+  general:0.34
+  calmed:0.34
+  questions:0.34
+  msg:0.34
+  remember:0.34
+  established:0.34
+
+Topic 3:
+  anah:0.66
+  pm:0.66
+  feel free:0.65
+  vendor:0.57
+  bro:0.35
+  roxies:0.34
+  dont:0.34
+  deals:0.34
+  peace:0.34
+  absolutely:0.34
+
+Topic 4:
+  anah:0.70
+  pm:0.68
+  feel free:0.66
+  vendor:0.56
+  calmed:0.34
+  costco:0.34
+  find:0.34
+  guys:0.34
+  pgp:0.34
+  dealing:0.34
+
+K: 5, Log-Likelihood: -405.437, Alpha: 11.000, Beta: 1.100

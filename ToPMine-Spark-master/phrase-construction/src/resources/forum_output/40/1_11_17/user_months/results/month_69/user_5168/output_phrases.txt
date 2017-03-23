@@ -1,0 +1,61 @@
+Topic 0:
+  warm water:3.42
+  pmatomicloves:1.35
+  holyghost:1.35
+  mold:1.00
+  notes boiling water:1.00
+  nervous:1.00
+  wanted:1.00
+  tek:1.00
+  dose:1.00
+  diy works perfectly follow:1.00
+
+Topic 1:
+  gel:1.27
+  hot:1.26
+  tabs:1.24
+  water:1.22
+  good idea:1.22
+  idea tabs:1.22
+  protects:1.22
+  inside:1.22
+  recipes:1.22
+  hey:1.22
+
+Topic 2:
+  good:1.14
+  love:1.04
+  market:1.01
+  people:1.01
+  entire community:0.98
+  ll:0.90
+  don:0.85
+  quote:0.83
+  december:0.79
+  stuff:0.73
+
+Topic 3:
+  people:1.72
+  entire community:1.72
+  good:1.55
+  market:1.25
+  stuff:1.25
+  love:1.23
+  dont:1.20
+  don:0.97
+  ll:0.92
+  believer:0.76
+
+Topic 4:
+  good:1.39
+  entire community:1.39
+  people:1.35
+  market:1.26
+  love:1.24
+  stuff:1.04
+  dont:0.92
+  ll:0.91
+  don:0.90
+  december:0.82
+
+K: 5, Log-Likelihood: -1607.020, Alpha: 11.000, Beta: 1.100

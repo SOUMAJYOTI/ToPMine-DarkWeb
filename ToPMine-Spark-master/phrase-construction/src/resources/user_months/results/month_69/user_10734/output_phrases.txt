@@ -1,0 +1,61 @@
+Topic 0:
+  correct wrong connected tor:6.40
+  wrong booting tails:6.32
+  sd regular computer:6.32
+  tailsyoure:4.77
+  amquote sprayandwipe february amplease:4.77
+  wrong wrong wrong:4.77
+  long time:4.71
+  ltns:3.56
+  idiot idiot:2.75
+  lila february:2.75
+
+Topic 1:
+  tails:6.25
+  nope wrong sprayandwipe:6.22
+  operation:4.84
+  loaded:4.84
+  topic:4.84
+  play:4.84
+  thread:4.84
+  issue check:4.84
+  iso:4.84
+  dragged:4.84
+
+Topic 2:
+  stick:6.04
+  quote:5.13
+  good:4.77
+  lip:4.72
+  point:4.71
+  realised:4.71
+  tone:4.71
+  google:4.43
+  hold:4.13
+  tails installer clone upgrade:3.61
+
+Topic 3:
+  quote lila february:5.57
+  luck:5.42
+  error:4.47
+  message:4.45
+  amso:4.35
+  tor:4.32
+  arcane february:4.28
+  arcane february ami:4.16
+  idk:4.15
+  gb sd card issues:4.15
+
+Topic 4:
+  install:5.74
+  macs:5.74
+  wifi:5.74
+  tails:5.68
+  running tails:4.63
+  memory wipe big issue:4.06
+  boot tails:3.61
+  connect shutdown tails:3.12
+  amim:3.12
+  connect tor pray:2.85
+
+K: 5, Log-Likelihood: -3567.150, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  site:4.08
+  north:2.05
+  real:1.76
+  legit:1.65
+  korea:1.42
+  joke:1.36
+  state:1.36
+  dont:1.34
+  chinese:1.31
+  good:1.28
+
+Topic 1:
+  site:5.91
+  legit:2.53
+  north:2.28
+  joke:2.17
+  dont:2.09
+  dnm:1.89
+  real:1.78
+  chinese:1.73
+  market:1.69
+  good:1.29
+
+Topic 2:
+  real:1.80
+  north:1.76
+  market:1.73
+  korea:1.68
+  legit:1.60
+  site:1.44
+  april:1.31
+  chinese:1.20
+  good:1.16
+  dnm:1.15
+
+Topic 3:
+  market:10.19
+  admin:2.80
+  hosted:2.44
+  figured:1.70
+  link:1.12
+  markets:1.07
+  note:0.91
+  russia:0.91
+  deutschlanduberalles:0.91
+  cambodiathird:0.91
+
+Topic 4:
+  site:4.50
+  north:2.76
+  joke:2.37
+  legit:2.15
+  chinese:1.69
+  dnm:1.67
+  real:1.54
+  dont:1.54
+  korea:1.41
+  market:1.18
+
+K: 5, Log-Likelihood: -2257.106, Alpha: 11.000, Beta: 1.100

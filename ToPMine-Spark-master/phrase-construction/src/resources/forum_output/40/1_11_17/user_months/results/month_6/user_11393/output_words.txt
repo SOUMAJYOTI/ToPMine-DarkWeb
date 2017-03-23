@@ -1,0 +1,61 @@
+Topic 0:
+  ideal:0.20
+  pillsplease:0.20
+  jack:0.20
+  advertise:0.20
+  hoping:0.20
+  verified:0.20
+  marketplace:0.20
+  link:0.20
+  goods:0.20
+  hey:0.20
+
+Topic 1:
+  goods:0.20
+  hoping:0.20
+  pillsplease:0.20
+  hey:0.20
+  vendor:0.20
+  verified:0.20
+  hear:0.20
+  captain:0.20
+  link:0.20
+  jack:0.20
+
+Topic 2:
+  jack:0.20
+  goods:0.20
+  link:0.20
+  soonregards:0.20
+  advertise:0.20
+  hear:0.20
+  ideal:0.20
+  hey:0.20
+  verified:0.20
+  marketplace:0.20
+
+Topic 3:
+  soonregards:0.20
+  captain:0.20
+  link:0.20
+  marketplace:0.20
+  vendor:0.20
+  ideal:0.20
+  advertise:0.20
+  pillsplease:0.20
+  verified:0.20
+  goods:0.20
+
+Topic 4:
+  hear:0.20
+  hey:0.20
+  captain:0.20
+  hoping:0.20
+  verified:0.20
+  vendor:0.20
+  advertise:0.20
+  marketplace:0.20
+  jack:0.20
+  soonregards:0.20
+
+K: 5, Log-Likelihood: -36.947, Alpha: 11.000, Beta: 1.100

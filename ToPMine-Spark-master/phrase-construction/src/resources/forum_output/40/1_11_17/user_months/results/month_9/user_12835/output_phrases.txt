@@ -1,0 +1,61 @@
+Topic 0:
+  topic:0.94
+  fuck:0.90
+  people:0.70
+  burn:0.53
+  sick:0.53
+  connection:0.51
+  trust:0.51
+  brother:0.51
+  prove:0.51
+  active:0.51
+
+Topic 1:
+  topic:1.21
+  fuck:1.08
+  delete:0.90
+  post:0.90
+  holy:0.90
+  making:0.90
+  forget:0.90
+  thought:0.89
+  btc:0.89
+  stupid:0.89
+
+Topic 2:
+  arrested:1.80
+  users:1.38
+  february:1.38
+  kinda:1.38
+  names:1.38
+  swim:1.38
+  sister:1.38
+  setup:1.38
+  lecontog:1.38
+  things:1.38
+
+Topic 3:
+  donate:1.33
+  word:0.89
+  quote:0.87
+  wasting:0.87
+  served:0.86
+  helping:0.86
+  time:0.85
+  shame:0.85
+  fucking:0.84
+  arrested:0.75
+
+Topic 4:
+  donate:1.67
+  fucking:1.08
+  time:1.08
+  shame:1.07
+  helping:1.06
+  served:1.05
+  wasting:1.04
+  quote:0.90
+  word:0.84
+  april:0.79
+
+K: 5, Log-Likelihood: -533.893, Alpha: 11.000, Beta: 1.100

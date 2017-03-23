@@ -1,0 +1,61 @@
+Topic 0:
+  school:5.60
+  learn:5.60
+  curls:3.73
+  series:3.73
+  post:3.73
+  covering:3.73
+  wanted:3.73
+  password:3.73
+  compromise:3.73
+  mail:3.73
+
+Topic 1:
+  systemd:6.14
+  arch kiss philosophy:5.85
+  doesnt easy:5.82
+  point:4.72
+  compiling:4.53
+  pax rbac:3.75
+  source isnt backdoored prior:3.49
+  software source compiled binaries:3.49
+  binaries backdoored:3.49
+  binary backdoored knowledge worry:3.49
+
+Topic 2:
+  enableddedicated socksport:5.58
+  local includes:5.58
+  local includes tor:5.58
+  configured:4.37
+  systemd:4.34
+  dont answer:4.09
+  trefoil hat:3.88
+  offering:3.88
+  iso:3.72
+  build script:3.72
+
+Topic 3:
+  tails os:5.60
+  os:5.60
+  security isolation:5.60
+  port:4.43
+  exploited:3.73
+  jeans:3.73
+  cops:3.73
+  torvm:3.73
+  isolate:3.73
+  break:3.73
+
+Topic 4:
+  dns:5.60
+  select:3.73
+  working:3.73
+  wrote:3.73
+  leaks:3.73
+  clock:3.73
+  expert:3.73
+  homer:3.73
+  skew:3.73
+  server:3.73
+
+K: 5, Log-Likelihood: -11522.551, Alpha: 11.000, Beta: 1.100

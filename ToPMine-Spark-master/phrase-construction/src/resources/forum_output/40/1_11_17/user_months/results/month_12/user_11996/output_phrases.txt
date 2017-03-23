@@ -1,0 +1,61 @@
+Topic 0:
+  multi:4.18
+  vendors:4.10
+  load:3.45
+  forum:2.71
+  weed:2.45
+  great:2.45
+  road:2.45
+  imho:2.45
+  sig:2.45
+  cannabis:2.45
+
+Topic 1:
+  article:5.09
+  bit:5.09
+  market:4.41
+  signature:4.01
+  markets:4.01
+  site:3.92
+  marketplace:3.54
+  correct:3.18
+  creators:2.53
+  sheep:2.53
+
+Topic 2:
+  sr:6.93
+  fe steep established:5.43
+  account evo requirements users:5.43
+  vendor:5.43
+  quote:4.17
+  donkeysausage:4.17
+  hacking:4.11
+  padding:4.11
+  sir:4.11
+  security:4.11
+
+Topic 3:
+  time:4.23
+  tired:4.23
+  wallet:4.23
+  hours:4.23
+  timing:4.23
+  annoyance:4.23
+  major:4.23
+  dog:4.23
+  coins:4.23
+  agora good:4.23
+
+Topic 4:
+  server:4.83
+  thread:4.46
+  agra:4.13
+  ddos:4.02
+  market:3.83
+  point:3.32
+  good:2.95
+  place:2.91
+  order:2.49
+  multiply:2.47
+
+K: 5, Log-Likelihood: -3054.561, Alpha: 11.000, Beta: 1.100

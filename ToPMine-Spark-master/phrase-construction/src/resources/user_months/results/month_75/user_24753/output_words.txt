@@ -1,0 +1,61 @@
+Topic 0:
+  image:0.60
+  matrix:0.60
+  tails:0.41
+  images:0.40
+  link:0.40
+  hub:0.39
+  security:0.20
+  suggestions:0.20
+  profile:0.20
+  feature:0.20
+
+Topic 1:
+  image:0.60
+  matrix:0.59
+  hub:0.40
+  tails:0.40
+  link:0.40
+  images:0.39
+  method:0.20
+  thread:0.20
+  safely:0.20
+  ll:0.20
+
+Topic 2:
+  matrix:0.61
+  image:0.60
+  hub:0.42
+  images:0.40
+  link:0.40
+  tails:0.38
+  directly:0.21
+  week:0.21
+  retention:0.21
+  exif:0.21
+
+Topic 3:
+  image:0.60
+  matrix:0.60
+  tails:0.42
+  link:0.40
+  images:0.40
+  hub:0.39
+  dialouge:0.20
+  security:0.20
+  dont:0.20
+  feature:0.20
+
+Topic 4:
+  image:0.60
+  matrix:0.60
+  images:0.40
+  hub:0.40
+  link:0.40
+  tails:0.40
+  inline:0.20
+  clears:0.20
+  surprises:0.20
+  doesnt:0.20
+
+K: 5, Log-Likelihood: -275.034, Alpha: 11.000, Beta: 1.100

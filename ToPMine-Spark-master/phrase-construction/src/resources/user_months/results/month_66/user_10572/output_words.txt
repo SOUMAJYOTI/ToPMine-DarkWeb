@@ -1,0 +1,61 @@
+Topic 0:
+  monero:12.55
+  bitcoin:5.98
+  privacy:5.86
+  sigaint:4.76
+  blockchain:4.28
+  code:3.98
+  bitcoins:3.98
+  curves:3.85
+  built:3.61
+  good:3.54
+
+Topic 1:
+  vulnerability:7.86
+  opens:7.83
+  hellman:4.97
+  libressl:4.62
+  openssl:4.50
+  based:3.97
+  key:3.97
+  january:3.97
+  researcher:3.87
+  maintainers:3.87
+
+Topic 2:
+  january:5.29
+  exchange:4.71
+  quote:4.14
+  sigaint:3.17
+  crypto:3.13
+  appears:2.51
+  bugs:2.49
+  avoided:2.49
+  code:1.83
+  released:1.82
+
+Topic 3:
+  tang:10.44
+  local:8.78
+  mixing:8.15
+  dash:7.91
+  troll:7.77
+  dont:7.56
+  monero:7.14
+  quote:6.94
+  coins:6.84
+  january:6.43
+
+Topic 4:
+  dash:25.48
+  bitcoin:10.57
+  market:6.67
+  cap:5.98
+  time:4.79
+  trade:3.98
+  bots:3.98
+  day:3.50
+  community:3.15
+  rise:2.98
+
+K: 5, Log-Likelihood: -6848.153, Alpha: 11.000, Beta: 1.100

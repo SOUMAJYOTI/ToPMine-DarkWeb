@@ -1,0 +1,61 @@
+Topic 0:
+  google:1.74
+  st:1.59
+  tails:1.13
+  find:1.13
+  problem:0.79
+  working:0.75
+  search:0.75
+  laptop:0.75
+  bet:0.75
+  learned:0.74
+
+Topic 1:
+  st:1.84
+  dymo:0.80
+  google:0.77
+  problem:0.72
+  extract:0.71
+  tar:0.68
+  gz:0.64
+  find:0.63
+  tails:0.63
+  persistant:0.57
+
+Topic 2:
+  st:1.86
+  google:1.00
+  problem:0.82
+  tails:0.77
+  find:0.77
+  dymo:0.70
+  extract:0.54
+  gz:0.53
+  problems:0.52
+  step:0.52
+
+Topic 3:
+  extract:2.84
+  option:2.13
+  gz:1.86
+  tar:1.81
+  persistant:1.37
+  december:1.06
+  dymo:1.01
+  cheers:0.90
+  downloaded:0.89
+  cups:0.89
+
+Topic 4:
+  extract:2.56
+  option:1.74
+  tar:1.64
+  gz:1.59
+  persistant:1.26
+  december:1.06
+  dymo:0.98
+  st:0.88
+  cups:0.87
+  unable:0.87
+
+K: 5, Log-Likelihood: -578.328, Alpha: 11.000, Beta: 1.100

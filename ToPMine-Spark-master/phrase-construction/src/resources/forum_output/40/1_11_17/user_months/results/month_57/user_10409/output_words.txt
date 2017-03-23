@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:50.48
+  clearnet:25.91
+  tor:22.79
+  tails:18.86
+  send:18.81
+  open:14.94
+  coin:12.54
+  coins:12.48
+  purchases:11.93
+  dont:10.06
+
+Topic 1:
+  money:4.64
+  agora:3.97
+  cash:3.62
+  moving:3.60
+  time:3.52
+  issue:3.42
+  grind:2.97
+  blockchain:2.91
+  identity:2.85
+  account:2.58
+
+Topic 2:
+  pause:28.84
+  business:25.43
+  market:24.95
+  august:23.18
+  people:22.54
+  days:18.23
+  trust:14.88
+  pmquote:11.78
+  agora:11.77
+  read:10.05
+
+Topic 3:
+  agora:29.11
+  site:16.70
+  sites:13.82
+  people:10.34
+  market:9.87
+  darknet:8.31
+  dont:8.24
+  time:8.01
+  customers:7.94
+  theories:7.77
+
+Topic 4:
+  agora:7.79
+  issue:7.33
+  blockchain:5.94
+  markets:4.85
+  agra:4.38
+  globe:3.95
+  issues:3.81
+  electrum:3.59
+  august:3.10
+  good:3.09
+
+K: 5, Log-Likelihood: -12945.589, Alpha: 11.000, Beta: 1.100

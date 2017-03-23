@@ -1,0 +1,61 @@
+Topic 0:
+  markets:0.81
+  problem:0.37
+  blue:0.36
+  curious:0.36
+  sky:0.36
+  common:0.36
+  luckily:0.33
+  factor:0.33
+  didnt:0.33
+  coin:0.33
+
+Topic 1:
+  markets:0.42
+  problem:0.38
+  times:0.37
+  log:0.36
+  encountered:0.36
+  password:0.36
+  log account:0.29
+  resolved:0.29
+  waiting:0.29
+  common:0.29
+
+Topic 2:
+  markets:0.44
+  problem:0.39
+  times:0.32
+  encountered:0.32
+  log:0.32
+  password:0.32
+  resolved:0.31
+  log account:0.31
+  waiting:0.31
+  curious:0.31
+
+Topic 3:
+  times:0.49
+  encountered:0.48
+  password:0.48
+  log:0.47
+  problem:0.37
+  markets:0.32
+  hey:0.30
+  waiting:0.28
+  resolved:0.28
+  log account:0.28
+
+Topic 4:
+  password:0.82
+  log:0.82
+  encountered:0.81
+  times:0.79
+  multiple:0.34
+  multiply:0.34
+  experienced:0.34
+  surname:0.34
+  popping:0.34
+  automatically:0.34
+
+K: 5, Log-Likelihood: -329.087, Alpha: 11.000, Beta: 1.100

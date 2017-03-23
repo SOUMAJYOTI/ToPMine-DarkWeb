@@ -1,0 +1,61 @@
+Topic 0:
+  vpn:8.08
+  choice os:2.76
+  snooping:2.36
+  running:2.30
+  snoop:2.25
+  compared:2.25
+  irrelevant:2.24
+  internet vpon:2.23
+  online:2.23
+  service:2.23
+
+Topic 1:
+  linux:7.39
+  linus:4.48
+  mac:4.25
+  design:4.25
+  arch:4.25
+  recommend:4.25
+  beginner:4.25
+  ubuntu:4.05
+  windows:3.82
+  usb:2.11
+
+Topic 2:
+  beginners:6.80
+  days:3.33
+  ideal:3.33
+  easy:3.33
+  offer:3.33
+  thinks:3.33
+  nice:3.33
+  distros:3.33
+  major:3.33
+  ways:3.33
+
+Topic 3:
+  vpn:4.85
+  stuff:3.39
+  multi:3.38
+  eyes:3.18
+  vpn tor:3.15
+  farewell:3.12
+  software:3.01
+  assume:2.82
+  hardware:2.68
+  choice os:2.40
+
+Topic 4:
+  tails:14.24
+  persistent data partition:6.85
+  keys:6.85
+  torrents tor:6.66
+  time:5.67
+  opened:4.19
+  scripts:4.19
+  download:4.19
+  key:3.78
+  secret key public key:3.47
+
+K: 5, Log-Likelihood: -4764.331, Alpha: 11.000, Beta: 1.100

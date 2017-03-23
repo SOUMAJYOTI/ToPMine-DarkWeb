@@ -1,0 +1,26 @@
+Topic 0:
+  explanation:0.20
+  video:0.20
+  summed:0.20
+
+Topic 1:
+  explanation:0.20
+  summed:0.20
+  video:0.20
+
+Topic 2:
+  summed:0.20
+  video:0.20
+  explanation:0.20
+
+Topic 3:
+  summed:0.20
+  explanation:0.20
+  video:0.20
+
+Topic 4:
+  video:0.20
+  explanation:0.20
+  summed:0.20
+
+K: 5, Log-Likelihood: -3.296, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  btc:5.42
+  tormarket:3.55
+  weeks:2.18
+  systems:2.18
+  disappeared:2.18
+  litecoin find:2.18
+  stability:2.18
+  gaining:2.18
+  coming:2.18
+  chance:2.18
+
+Topic 1:
+  market:4.84
+  people:4.57
+  sites:4.18
+  litecoins:3.57
+  rich:3.57
+  thought:3.57
+  fact:3.57
+  tor:3.57
+  implement:3.57
+  dead:3.57
+
+Topic 2:
+  big:4.44
+  question:4.23
+  time thought:3.58
+  discussed:3.58
+  personally:3.58
+  accepts:3.58
+  didnt:3.58
+  market havent:3.58
+  marketplace tormarket:3.58
+  yeesh:3.58
+
+Topic 3:
+  provide:2.90
+  list:2.88
+  blackmarket:2.82
+  august amquote:2.69
+  cut:2.32
+  link hub:2.01
+  appearances:2.01
+  simpleton:2.01
+  bunch:2.01
+  market forum:2.00
+
+Topic 4:
+  people:3.55
+  cut:3.11
+  pathetic:2.82
+  dont:2.82
+  troll find:2.79
+  runnin:2.79
+  days:2.78
+  simple:2.77
+  troll:2.76
+  likes:2.76
+
+K: 5, Log-Likelihood: -2450.355, Alpha: 11.000, Beta: 1.100

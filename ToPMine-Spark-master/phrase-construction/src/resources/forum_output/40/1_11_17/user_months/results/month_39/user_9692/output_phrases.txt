@@ -1,0 +1,61 @@
+Topic 0:
+  money:0.16
+  send:0.16
+  mixing:0.08
+  forum:0.08
+  member:0.08
+  steal:0.08
+  fake:0.08
+  marketplace:0.08
+  verify:0.08
+  posts:0.08
+
+Topic 1:
+  money:0.16
+  send:0.16
+  service:0.08
+  forum:0.08
+  verify:0.08
+  posts:0.08
+  spoof:0.08
+  bitcoin:0.08
+  member:0.08
+  site:0.08
+
+Topic 2:
+  send:0.16
+  money:0.16
+  site site:0.08
+  posts:0.08
+  spoof:0.08
+  designed:0.08
+  site:0.08
+  service:0.08
+  bits:0.08
+  fake:0.08
+
+Topic 3:
+  send:0.16
+  money:0.16
+  warning:0.08
+  site site:0.08
+  mixing:0.08
+  site:0.08
+  service:0.08
+  marketplace:0.08
+  bits:0.08
+  bitcoin:0.08
+
+Topic 4:
+  send:0.16
+  money:0.16
+  warning:0.08
+  steal:0.08
+  fake:0.08
+  designed:0.08
+  bits:0.08
+  bitcoin:0.08
+  spoof:0.08
+  marketplace:0.08
+
+K: 5, Log-Likelihood: -23.914, Alpha: 11.000, Beta: 1.100

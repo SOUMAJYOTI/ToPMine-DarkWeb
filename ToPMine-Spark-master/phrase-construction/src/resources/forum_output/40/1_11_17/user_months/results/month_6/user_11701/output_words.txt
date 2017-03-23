@@ -1,0 +1,61 @@
+Topic 0:
+  pandora:1.02
+  working:0.83
+  time:0.69
+  problem:0.65
+  site:0.64
+  loading:0.62
+  downtime:0.52
+  technical:0.52
+  alice:0.51
+  hour:0.51
+
+Topic 1:
+  problem:1.04
+  working:0.77
+  pandora:0.57
+  day:0.56
+  loading:0.56
+  site:0.53
+  mods:0.50
+  admit:0.50
+  earlier:0.48
+  hope:0.46
+
+Topic 2:
+  working:0.82
+  problem:0.77
+  pandora:0.71
+  site:0.61
+  loading:0.61
+  time:0.56
+  earlier:0.41
+  hope:0.41
+  post:0.41
+  order:0.41
+
+Topic 3:
+  problem:0.89
+  pandora:0.75
+  working:0.75
+  site:0.59
+  loading:0.59
+  time:0.54
+  hope:0.43
+  forum:0.43
+  post:0.43
+  admit:0.42
+
+Topic 4:
+  pandora:0.95
+  working:0.83
+  time:0.77
+  problem:0.65
+  site:0.63
+  loading:0.63
+  hour:0.58
+  alice:0.57
+  downtime:0.56
+  technical:0.56
+
+K: 5, Log-Likelihood: -631.476, Alpha: 11.000, Beta: 1.100

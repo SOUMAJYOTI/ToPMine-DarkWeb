@@ -1,0 +1,61 @@
+Topic 0:
+  site:0.59
+  drive:0.20
+  quick:0.20
+  finance:0.20
+  capture:0.20
+  impertinent:0.20
+  vertical:0.20
+  traffic:0.20
+  provide:0.20
+  buyersthis:0.20
+
+Topic 1:
+  site:0.60
+  respective:0.20
+  dont:0.20
+  quick:0.20
+  buyersthis:0.20
+  vertical:0.20
+  impertinent:0.20
+  market:0.20
+  overview:0.20
+  scam:0.20
+
+Topic 2:
+  site:0.60
+  carding:0.20
+  finance:0.20
+  traffic:0.20
+  market:0.20
+  impertinent:0.20
+  respective:0.20
+  provide:0.20
+  drive:0.20
+  buyersthis:0.20
+
+Topic 3:
+  site:0.60
+  scam:0.20
+  dont:0.20
+  market:0.20
+  provide:0.20
+  carding:0.20
+  quick:0.20
+  capture:0.20
+  drive:0.20
+  traffic:0.20
+
+Topic 4:
+  site:0.60
+  scam:0.20
+  dont:0.20
+  overview:0.20
+  capture:0.20
+  buyersthis:0.20
+  respective:0.20
+  carding:0.20
+  traffic:0.20
+  provide:0.20
+
+K: 5, Log-Likelihood: -48.805, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,56 @@
+Topic 0:
+  pay:0.20
+  marketplaces:0.20
+  vendor:0.20
+  dont:0.20
+  services:0.20
+  escrow:0.20
+  suggestions:0.20
+  sites:0.20
+  chance:0.20
+
+Topic 1:
+  vendor:0.20
+  dont:0.20
+  marketplaces:0.20
+  pay:0.20
+  chance:0.20
+  sites:0.20
+  suggestions:0.20
+  services:0.20
+  escrow:0.20
+
+Topic 2:
+  escrow:0.20
+  suggestions:0.20
+  chance:0.20
+  sites:0.20
+  services:0.20
+  pay:0.20
+  marketplaces:0.20
+  dont:0.20
+  vendor:0.20
+
+Topic 3:
+  chance:0.20
+  escrow:0.20
+  sites:0.20
+  services:0.20
+  suggestions:0.20
+  pay:0.20
+  marketplaces:0.20
+  dont:0.20
+  vendor:0.20
+
+Topic 4:
+  dont:0.20
+  vendor:0.20
+  marketplaces:0.20
+  pay:0.20
+  suggestions:0.20
+  sites:0.20
+  services:0.20
+  chance:0.20
+  escrow:0.20
+
+K: 5, Log-Likelihood: -19.775, Alpha: 11.000, Beta: 1.100

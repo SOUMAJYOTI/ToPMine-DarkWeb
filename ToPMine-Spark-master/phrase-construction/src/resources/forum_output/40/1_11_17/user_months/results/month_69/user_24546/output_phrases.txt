@@ -1,0 +1,61 @@
+Topic 0:
+  group:22.45
+  members:14.96
+  child abuse content:11.22
+  enterprise:9.35
+  content:9.35
+  rules:9.35
+  security rules:9.35
+  child abuse:7.48
+  operation activities:7.48
+  group members:5.61
+
+Topic 1:
+  inert gas:11.22
+  transfer:9.35
+  long term storage:7.47
+  septum:7.47
+  bottle vial:7.47
+  security camera:7.44
+  needle:5.60
+  xtal:5.60
+  vials:5.60
+  solution:5.60
+
+Topic 2:
+  coir:5.60
+  gallon bucket:5.60
+  great:3.73
+  lid:3.73
+  minutes:3.73
+  manure:3.73
+  sit:3.73
+  bulk:3.73
+  pour:3.73
+  boiling:3.73
+
+Topic 3:
+  tor:10.50
+  bridge:9.35
+  tor network:5.60
+  internet service provider:5.60
+  tor browser:4.49
+  connect:4.37
+  bridges:3.85
+  thing:3.73
+  configuration:3.73
+  default:3.73
+
+Topic 4:
+  bob:9.35
+  alice:9.35
+  vm:9.35
+  spooks:5.61
+  don:5.61
+  compartmenting:5.61
+  crack:5.61
+  machine:5.61
+  adversary:4.44
+  counterintelligence:3.73
+
+K: 5, Log-Likelihood: -16262.374, Alpha: 11.000, Beta: 1.100

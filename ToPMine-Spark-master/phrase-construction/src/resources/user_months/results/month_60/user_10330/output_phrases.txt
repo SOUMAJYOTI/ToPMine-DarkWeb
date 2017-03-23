@@ -1,0 +1,61 @@
+Topic 0:
+  bug:20.57
+  tor browser:14.96
+  tails:5.60
+  disabled:5.60
+  mac address spoofing:5.60
+  bug plate:5.60
+  network:4.51
+  firefox esr:3.73
+  updates bug:3.73
+  os:3.73
+
+Topic 1:
+  protonmail:9.33
+  israel:5.59
+  dont:3.72
+  proxied:3.72
+  network net:3.72
+  habarzel:3.72
+  cogentco:3.72
+  enetwork:3.72
+  traffic:3.72
+  bynet:3.72
+
+Topic 2:
+  quantum computing:4.13
+  ecc:2.86
+  paper:2.25
+  bad:1.30
+  fact:1.30
+  quartus computing:1.28
+  october:0.92
+  post:0.71
+  handwringing:0.62
+  computer:0.60
+
+Topic 3:
+  asa:10.87
+  ecliptics curve:10.87
+  advances:8.89
+  ecdlp:7.17
+  nsa:7.16
+  green wrote:7.12
+  koblitz menezes:7.12
+  curves:7.06
+  agency:5.39
+  solution:5.34
+
+Topic 4:
+  quartus encryption:3.66
+  advent:3.66
+  pallidpallas october:3.27
+  quote:2.89
+  computers:2.83
+  concidence:2.75
+  talk:2.75
+  terrorists protonmail:2.75
+  attacked:2.75
+  pmquote:2.75
+
+K: 5, Log-Likelihood: -8598.048, Alpha: 11.000, Beta: 1.100

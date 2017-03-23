@@ -1,0 +1,61 @@
+Topic 0:
+  avengers:1.87
+  love:1.66
+  marketplace:1.65
+  site:1.33
+  word:1.22
+  original:0.99
+  link:0.91
+  spamming:0.78
+  thing:0.74
+  don:0.68
+
+Topic 1:
+  word:1.85
+  avengers:1.22
+  love:1.15
+  replaced:1.00
+  marketplace:0.95
+  site:0.93
+  original:0.89
+  dont:0.86
+  attempt:0.77
+  message:0.75
+
+Topic 2:
+  avengers:2.46
+  love:1.98
+  site:1.82
+  marketplace:1.46
+  word:1.09
+  link:0.90
+  original:0.89
+  thing:0.83
+  scam:0.76
+  spamming:0.76
+
+Topic 3:
+  avengers:1.84
+  love:1.64
+  marketplace:1.46
+  word:1.28
+  link:1.10
+  site:1.09
+  original:0.78
+  dont:0.77
+  don:0.72
+  scam:0.67
+
+Topic 4:
+  dont:3.28
+  word:1.55
+  post:1.49
+  long:1.49
+  mention:1.22
+  spamming:1.13
+  fundamental:0.99
+  policy:0.99
+  missing:0.98
+  tmg:0.98
+
+K: 5, Log-Likelihood: -892.073, Alpha: 11.000, Beta: 1.100

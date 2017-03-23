@@ -1,0 +1,61 @@
+Topic 0:
+  history:0.08
+  confirm:0.08
+  majesticvibrations:0.08
+  google:0.08
+  xtalnoix:0.08
+  peace:0.08
+  ago:0.08
+  weeks:0.08
+  recall:0.08
+  org:0.08
+
+Topic 1:
+  working:0.08
+  issue:0.08
+  weeks:0.08
+  isnt:0.08
+  recall:0.08
+  ago:0.08
+  xtalnoix:0.08
+  org:0.08
+  google:0.08
+  confirm:0.08
+
+Topic 2:
+  peace:0.08
+  history:0.08
+  xtalnoix:0.08
+  confirm:0.08
+  google:0.08
+  majesticvibrations:0.08
+  isnt:0.08
+  org:0.08
+  working:0.08
+  ago:0.08
+
+Topic 3:
+  weeks:0.08
+  recall:0.08
+  org:0.08
+  issue:0.08
+  isnt:0.08
+  working:0.08
+  ago:0.08
+  majesticvibrations:0.08
+  peace:0.08
+  xtalnoix:0.08
+
+Topic 4:
+  ago:0.08
+  isnt:0.08
+  working:0.08
+  org:0.08
+  issue:0.08
+  recall:0.08
+  weeks:0.08
+  google:0.08
+  majesticvibrations:0.08
+  confirm:0.08
+
+K: 5, Log-Likelihood: -13.739, Alpha: 11.000, Beta: 1.100

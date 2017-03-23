@@ -1,0 +1,61 @@
+Topic 0:
+  key:16.51
+  message:5.59
+  decrypt:5.34
+  private:4.50
+  password:3.91
+  public:3.43
+  keys:2.67
+  pgp:2.10
+  messages:1.59
+  addition:1.53
+
+Topic 1:
+  key:14.41
+  message:9.91
+  gpg:9.63
+  encrypted:8.61
+  data:6.93
+  packet:5.93
+  asa:4.93
+  ab:4.93
+  gog:4.93
+  bit:4.93
+
+Topic 2:
+  agora:9.68
+  forums:5.29
+  pandora:4.48
+  vendors:3.77
+  markets:3.62
+  quote:3.22
+  market:3.15
+  vendor:3.01
+  march:2.97
+  withdrawal:2.79
+
+Topic 3:
+  private:3.47
+  public:3.25
+  messages:3.13
+  key:2.92
+  message:2.19
+  good:1.76
+  password:1.72
+  decrypt:1.70
+  luck:1.68
+  guys:1.62
+
+Topic 4:
+  support:14.25
+  people:4.69
+  admins:4.55
+  market:4.29
+  messages:3.63
+  lot:3.40
+  send:3.17
+  reply:2.99
+  site:2.67
+  days:2.67
+
+K: 5, Log-Likelihood: -6635.625, Alpha: 11.000, Beta: 1.100

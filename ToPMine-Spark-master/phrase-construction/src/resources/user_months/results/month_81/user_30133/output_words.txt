@@ -1,0 +1,61 @@
+Topic 0:
+  mariosgramshoppe:2.10
+  hansa:2.07
+  april:1.73
+  market:1.56
+  batch:1.00
+  hcl:0.95
+  base:0.92
+  amquote:0.83
+  quote:0.79
+  buyer:0.75
+
+Topic 1:
+  mario:1.93
+  april:1.25
+  mariosgramshoppe:1.22
+  hansa:0.99
+  doll:0.85
+  quote:0.83
+  market:0.76
+  base:0.70
+  hcl:0.68
+  batch:0.67
+
+Topic 2:
+  mario:2.35
+  april:1.27
+  doll:1.09
+  mariosgramshoppe:0.91
+  market:0.81
+  hansa:0.79
+  quote:0.78
+  dolls:0.67
+  cute:0.67
+  lil:0.66
+
+Topic 3:
+  mariosgramshoppe:2.15
+  hansa:1.93
+  market:1.80
+  april:1.54
+  base:0.94
+  hcl:0.92
+  batch:0.91
+  direct:0.82
+  link:0.80
+  loss:0.79
+
+Topic 4:
+  mariosgramshoppe:1.62
+  hansa:1.21
+  april:1.20
+  mario:1.10
+  market:1.07
+  base:0.82
+  quote:0.81
+  hcl:0.80
+  batch:0.79
+  doll:0.61
+
+K: 5, Log-Likelihood: -573.893, Alpha: 11.000, Beta: 1.100

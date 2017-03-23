@@ -1,0 +1,61 @@
+Topic 0:
+  customers:2.63
+  contact:2.48
+  fungi:2.03
+  places:1.25
+  matches:1.25
+  confronted:1.25
+  evolution:1.25
+  safe:1.25
+  hmm:1.25
+  wiki:1.25
+
+Topic 1:
+  threats:0.94
+  mrfungi:0.94
+  threatening:0.94
+  view:0.94
+  quote:0.94
+  hub:0.94
+  pmim:0.94
+  dim:0.94
+  pay friend:0.83
+  regret:0.82
+
+Topic 2:
+  bitch:2.30
+  buy:1.08
+  scammed:1.06
+  scammer:1.06
+  dumb:1.05
+  lie:1.05
+  asshat:1.05
+  faced:1.05
+  pussy:1.05
+  spread:1.05
+
+Topic 3:
+  post:2.64
+  wanted:2.64
+  guys:2.64
+  paper:1.26
+  vendor:1.26
+  opinion:1.26
+  sell:1.26
+  bought:1.26
+  feel:1.26
+  heard:1.26
+
+Topic 4:
+  site:2.63
+  ccs:1.25
+  yeah:1.25
+  markets:1.25
+  simple:1.25
+  friend:1.25
+  curious:1.25
+  ripper:1.25
+  operates:1.25
+  helps:1.25
+
+K: 5, Log-Likelihood: -936.563, Alpha: 11.000, Beta: 1.100

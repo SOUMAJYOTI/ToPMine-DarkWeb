@@ -1,0 +1,61 @@
+Topic 0:
+  support:2.06
+  ship:1.26
+  time:1.26
+  scenes:1.26
+  person:1.26
+  point:1.25
+  yea:1.22
+  ill:1.22
+  stand:1.21
+  shots:1.20
+
+Topic 1:
+  sr:3.34
+  market:3.34
+  blue:1.83
+  change title:1.74
+  thread:1.74
+  needlessly:1.64
+  forums:1.64
+  bsm:1.64
+  hands:1.64
+  mods:1.64
+
+Topic 2:
+  ive:2.30
+  responsive:2.30
+  coins support:2.30
+  markets:2.30
+  worked:2.30
+  hours bsm:2.30
+  steal:2.30
+  wrong:1.68
+  dont:1.66
+  sky market:1.56
+
+Topic 3:
+  account:4.99
+  change password:3.33
+  screen:1.92
+  wrong password:1.63
+  fact:1.63
+  inactivated:1.63
+  procedure:1.63
+  deactivated:1.63
+  shot:1.63
+  captcha:1.63
+
+Topic 4:
+  support ticket:4.98
+  delete account:4.98
+  bluest:4.98
+  password username exist:4.98
+  ten days:4.98
+  cocaine:4.98
+  option:4.98
+  net:4.98
+  private key:3.66
+  account:2.61
+
+K: 5, Log-Likelihood: -2495.186, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  message:0.20
+  thread:0.20
+  weed:0.20
+  asa:0.20
+  leave:0.20
+  forums:0.20
+  purchasing:0.20
+  order:0.20
+  pay:0.20
+  offerconditions:0.20
+
+Topic 1:
+  asa:0.20
+  review:0.20
+  leave:0.20
+  time:0.20
+  offerconditions:0.20
+  customer:0.20
+  purchase:0.20
+  purchasing:0.20
+  arrives:0.20
+  order:0.20
+
+Topic 2:
+  post:0.20
+  arrives:0.20
+  time:0.20
+  weed:0.20
+  purchasing:0.20
+  offerconditions:0.20
+  forums:0.20
+  thread:0.20
+  customer:0.20
+  pay:0.20
+
+Topic 3:
+  purchase:0.20
+  forums:0.20
+  thread:0.20
+  time:0.20
+  arrives:0.20
+  purchasing:0.20
+  customer:0.20
+  offerconditions:0.20
+  post:0.20
+  message:0.20
+
+Topic 4:
+  pay:0.20
+  review:0.20
+  order:0.20
+  customer:0.20
+  leave:0.20
+  forums:0.20
+  thread:0.20
+  arrives:0.20
+  purchase:0.20
+  post:0.20
+
+K: 5, Log-Likelihood: -44.361, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  markets:4.09
+  market:2.78
+  unfortunate:1.78
+  major:1.74
+  experiencing:0.81
+  late:0.80
+  escrow:0.80
+  posts:0.80
+  minutes:0.80
+  sincere:0.80
+
+Topic 1:
+  sll:1.11
+  registering:1.11
+  reliable:1.11
+  anytime:1.11
+  market:1.11
+  rebranded:1.11
+  assumption:1.11
+  op:1.11
+  satisfied:1.10
+  site:1.10
+
+Topic 2:
+  markets:3.52
+  market:2.31
+  major:1.60
+  unfortunate:1.53
+  time:0.77
+  hope:0.73
+  sake:0.72
+  addressed:0.72
+  trapped:0.72
+  issues:0.72
+
+Topic 3:
+  methylamine:1.13
+  fishy:1.12
+  ago:1.12
+  timing:1.11
+  smell:1.11
+  holy:1.11
+  damn:1.11
+  fuck:1.10
+  wtf:1.10
+  roughly:1.10
+
+Topic 4:
+  market:1.75
+  markets:1.08
+  hope:0.92
+  time:0.90
+  dont:0.45
+  don:0.45
+  roughly:0.40
+  hours:0.40
+  wtf:0.40
+  announced:0.40
+
+K: 5, Log-Likelihood: -847.198, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  guide:3.69
+  find:3.52
+  pip:3.48
+  thread:2.63
+  topic:2.63
+  program:2.49
+  cool:1.82
+  google:1.82
+  find computer:1.82
+  test:1.82
+
+Topic 1:
+  rates:3.64
+  day:2.58
+  reliable:2.58
+  pope:2.50
+  time:1.78
+  key send:1.78
+  encryption:1.78
+  lost:1.78
+  email:1.78
+  thing:1.78
+
+Topic 2:
+  software:3.69
+  message:3.09
+  built:2.22
+  doesnt:1.82
+  public:1.82
+  gobbledygook:1.82
+  simplest:1.82
+  mouse:1.82
+  instructions:1.82
+  wih:1.82
+
+Topic 3:
+  good:2.97
+  based:2.90
+  kidding:2.82
+  atm:2.82
+  bitcointalk:2.82
+  suprised:2.82
+  popping:2.82
+  trade:2.82
+  nowcoinbase:2.82
+  guys:2.82
+
+Topic 4:
+  wallet:5.78
+  bank:5.78
+  blond:3.66
+  wired:2.85
+  lame:2.85
+  states:2.85
+  kind:2.85
+  services:2.85
+  account kidding:2.85
+  deposit bank:2.85
+
+K: 5, Log-Likelihood: -2754.293, Alpha: 11.000, Beta: 1.100

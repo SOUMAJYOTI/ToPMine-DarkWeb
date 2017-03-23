@@ -1,0 +1,61 @@
+Topic 0:
+  person claiming:6.02
+  market:4.92
+  owner:2.94
+  hack:2.94
+  public forums:2.94
+  fixing:2.94
+  target:2.94
+  create:2.94
+  hacking:2.94
+  hopes:2.94
+
+Topic 1:
+  site:5.31
+  weak:2.89
+  front:2.89
+  forums:2.89
+  names market:2.89
+  bag:2.89
+  service:2.89
+  extort:2.89
+  realize:2.89
+  wallet wallet:2.89
+
+Topic 2:
+  users:2.94
+  spam:2.94
+  risk:2.94
+  fact:2.94
+  donations:2.94
+  messages:2.94
+  lol:2.94
+  claiming site:2.94
+  attack:2.94
+  kid:2.94
+
+Topic 3:
+  hope:2.79
+  extorts markets:1.78
+  names:1.77
+  nose time parson markets:1.76
+  data:1.75
+  ids:1.75
+  user:1.75
+  database:1.75
+  assume:1.75
+  compromised:1.75
+
+Topic 4:
+  hacks:5.73
+  vj:4.66
+  trd shut helping markets:3.44
+  ip alphabet soup hacks:3.43
+  pentest plays sides law:3.42
+  secure:3.42
+  person handle:3.41
+  pop big tap honorably:3.41
+  ve:3.34
+  quote:2.90
+
+K: 5, Log-Likelihood: -1613.525, Alpha: 11.000, Beta: 1.100

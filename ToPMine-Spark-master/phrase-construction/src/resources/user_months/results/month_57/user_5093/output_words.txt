@@ -1,0 +1,61 @@
+Topic 0:
+  direct:10.48
+  vendors:7.24
+  august:6.19
+  market:5.51
+  tmg:4.33
+  forum:4.11
+  kind:3.99
+  coin:3.83
+  vendor:3.83
+  boutique:3.83
+
+Topic 1:
+  abraham:3.25
+  days:3.16
+  hope:2.41
+  btc:2.35
+  middle:1.95
+  lose:1.80
+  dont:1.74
+  active:1.61
+  picking:1.58
+  reliable:1.58
+
+Topic 2:
+  ross:23.91
+  people:16.08
+  company:11.91
+  individual:11.91
+  bulger:5.91
+  corporations:5.91
+  years:5.91
+  drug:5.91
+  lived:5.91
+  bit:5.91
+
+Topic 3:
+  markets:5.60
+  halfpint:4.38
+  canada:4.35
+  love:4.34
+  quote:4.16
+  agora:3.71
+  specific:3.69
+  switching:3.69
+  weary:3.69
+  sounds:3.69
+
+Topic 4:
+  markets:5.73
+  ago:5.62
+  agra:5.01
+  safe:3.91
+  idk:3.91
+  things:3.91
+  news:3.91
+  guess:3.91
+  deals:3.47
+  agora:2.83
+
+K: 5, Log-Likelihood: -5405.031, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ag:0.86
+  users:0.41
+  backlog:0.39
+  delayed:0.39
+  engine:0.34
+  putting:0.34
+  support:0.34
+  ago:0.34
+  buyers:0.34
+  abraxas:0.34
+
+Topic 1:
+  users:0.67
+  deposit:0.56
+  deposits:0.53
+  update:0.53
+  agra:0.52
+  marketplace:0.49
+  backlog:0.41
+  delayed:0.41
+  expect:0.26
+  hours:0.26
+
+Topic 2:
+  users:0.66
+  deposit:0.51
+  agra:0.48
+  deposits:0.48
+  update:0.48
+  marketplace:0.44
+  delayed:0.42
+  backlog:0.41
+  ag:0.27
+  withdrawals:0.24
+
+Topic 3:
+  users:0.62
+  marketplace:0.46
+  agra:0.41
+  deposits:0.41
+  update:0.41
+  backlog:0.39
+  delayed:0.39
+  deposit:0.36
+  ag:0.32
+  posted:0.22
+
+Topic 4:
+  users:0.64
+  marketplace:0.44
+  agra:0.43
+  update:0.42
+  deposits:0.42
+  deposit:0.40
+  delayed:0.40
+  backlog:0.40
+  ag:0.31
+  accounts:0.22
+
+K: 5, Log-Likelihood: -449.611, Alpha: 11.000, Beta: 1.100

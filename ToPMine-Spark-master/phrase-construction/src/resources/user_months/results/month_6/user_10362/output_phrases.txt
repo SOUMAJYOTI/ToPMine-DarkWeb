@@ -1,0 +1,61 @@
+Topic 0:
+  beliefs:4.61
+  share:4.61
+  hey:4.60
+  yesterday:4.59
+  vendor:4.44
+  order:3.78
+  buddy:3.78
+  blackwing:3.78
+  people:3.68
+  held:2.26
+
+Topic 1:
+  slammed:3.80
+  homes:3.80
+  robbed:3.80
+  stand stand:3.80
+  united:3.80
+  rc good:3.80
+  driven:3.80
+  stay strong:3.80
+  great:3.45
+  attack:3.12
+
+Topic 2:
+  sad:4.67
+  ago:4.67
+  agora:4.25
+  glad:3.77
+  hit:3.40
+  reliable:2.32
+  nice:2.32
+  primitive:2.32
+  alternate:2.32
+  fall:2.32
+
+Topic 3:
+  today:7.19
+  agora:5.42
+  asap:4.67
+  access:4.67
+  gain:4.67
+  life:4.67
+  orders shipped:4.67
+  time:3.76
+  process:3.76
+  listings:3.76
+
+Topic 4:
+  safe:4.66
+  marketplace:3.96
+  aware:3.90
+  hope move:3.82
+  stressful:3.82
+  town:3.82
+  friendly:3.82
+  open:3.82
+  market stand:3.82
+  air:3.82
+
+K: 5, Log-Likelihood: -4337.289, Alpha: 11.000, Beta: 1.100

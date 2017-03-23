@@ -1,0 +1,61 @@
+Topic 0:
+  jackblue:0.59
+  crumble:0.41
+  jacks:0.41
+  private:0.41
+  heard:0.40
+  site:0.40
+  couple:0.40
+  tastiest:0.20
+  led:0.20
+  grams:0.20
+
+Topic 1:
+  jackblue:0.58
+  heard:0.42
+  private:0.41
+  site:0.41
+  crumble:0.41
+  jacks:0.41
+  couple:0.39
+  favorite:0.21
+  point:0.21
+  grateful:0.21
+
+Topic 2:
+  jackblue:0.61
+  couple:0.41
+  jacks:0.40
+  crumble:0.40
+  private:0.39
+  site:0.39
+  heard:0.39
+  ugh:0.20
+  direct:0.20
+  ordered:0.20
+
+Topic 3:
+  jackblue:0.63
+  couple:0.41
+  site:0.39
+  private:0.39
+  heard:0.38
+  crumble:0.38
+  jacks:0.38
+  review:0.21
+  reddits:0.21
+  email:0.21
+
+Topic 4:
+  jackblue:0.59
+  couple:0.40
+  site:0.40
+  heard:0.40
+  jacks:0.40
+  crumble:0.40
+  private:0.40
+  bad:0.20
+  deal:0.20
+  front:0.20
+
+K: 5, Log-Likelihood: -286.000, Alpha: 11.000, Beta: 1.100

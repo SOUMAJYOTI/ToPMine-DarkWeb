@@ -1,0 +1,61 @@
+Topic 0:
+  kratom:9.41
+  thing:8.40
+  ibogaine:6.81
+  heroin:6.22
+  bitcoin:5.38
+  noumena:5.24
+  january:4.92
+  symptoms:4.57
+  great:4.50
+  things:4.29
+
+Topic 1:
+  work:22.87
+  time:14.19
+  bitcoin:13.69
+  orders:11.78
+  imagine:10.79
+  vendors:10.27
+  customer:9.70
+  alot:7.93
+  implement:7.93
+  order:7.72
+
+Topic 2:
+  people:22.75
+  ibogaine:10.00
+  friends:8.72
+  option:6.65
+  real:6.64
+  clearnet:6.49
+  idea:5.21
+  email:5.03
+  evil:4.92
+  feel:4.82
+
+Topic 3:
+  email:21.52
+  thread:20.35
+  quote:16.01
+  november:13.65
+  direct:12.94
+  vendors:12.84
+  list:12.24
+  prices:10.64
+  forum:10.09
+  price:8.63
+
+Topic 4:
+  wallet:36.70
+  market:27.40
+  vendors:24.05
+  transaction:21.85
+  public:21.01
+  master:19.81
+  share:17.77
+  file:15.98
+  multisig:15.60
+  vendor:14.92
+
+K: 5, Log-Likelihood: -16935.905, Alpha: 11.000, Beta: 1.100

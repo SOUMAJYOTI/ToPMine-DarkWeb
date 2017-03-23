@@ -1,0 +1,61 @@
+Topic 0:
+  time:7.45
+  avengers:3.24
+  love:2.89
+  marketplace:2.01
+  nucleus:1.95
+  side:1.74
+  haven:1.65
+  link:1.19
+  agora:1.15
+  note:1.12
+
+Topic 1:
+  alternate:9.33
+  ag:7.68
+  markets:6.78
+  isn:3.73
+  hope:3.69
+  addresses:3.69
+  question:3.69
+  initially:3.69
+  overlooked:3.69
+  silly:3.69
+
+Topic 2:
+  onion:44.83
+  time:40.87
+  market:8.00
+  uptime:6.07
+  invite:5.26
+  join:5.21
+  link:3.42
+  tochka:3.34
+  ramp:3.31
+  havana:3.29
+
+Topic 3:
+  coins:7.89
+  support:5.89
+  agora:5.13
+  account:3.89
+  abraxas:3.10
+  love:2.97
+  resolvedi:1.89
+  loved:1.89
+  check:1.89
+  deposited:1.89
+
+Topic 4:
+  time:12.49
+  link:2.96
+  onion:2.57
+  nucleus:2.32
+  haven:1.72
+  side:1.64
+  avengers:1.59
+  love:1.51
+  marketplace:1.35
+  agora:1.27
+
+K: 5, Log-Likelihood: -2322.537, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  mukana arvonnassa:0.45
+  viesti:0.35
+  st:0.35
+  arvotaan:0.35
+  vahvaa:0.35
+  olet:0.35
+  palkintoja:0.34
+  eritt:0.34
+  ja:0.29
+  jos:0.29
+
+Topic 1:
+  mukana arvonnassa:1.49
+  eritt:0.88
+  olet:0.87
+  palkintoja:0.87
+  viesti:0.87
+  st:0.86
+  vahvaa:0.86
+  arvotaan:0.85
+  lappuja:0.36
+  koineja st:0.36
+
+Topic 2:
+  mukana arvonnassa:0.52
+  arvotaan:0.38
+  vahvaa:0.38
+  eritt:0.38
+  st:0.37
+  viesti:0.37
+  olet:0.37
+  palkintoja:0.37
+  ja:0.29
+  hyvi:0.29
+
+Topic 3:
+  tulossa:0.51
+  katsomassa:0.51
+  yk:0.51
+  silkkitiell:0.51
+  silkkitie:0.51
+  halvat:0.51
+  slim:0.41
+  alkuun:0.41
+  toimintamme:0.41
+  ihmeess:0.41
+
+Topic 4:
+  mukana arvonnassa:0.68
+  arvotaan:0.48
+  palkintoja:0.48
+  vahvaa:0.48
+  st:0.47
+  olet:0.47
+  viesti:0.47
+  eritt:0.46
+  ja:0.29
+  koineja nain:0.28
+
+K: 5, Log-Likelihood: -477.937, Alpha: 11.000, Beta: 1.100

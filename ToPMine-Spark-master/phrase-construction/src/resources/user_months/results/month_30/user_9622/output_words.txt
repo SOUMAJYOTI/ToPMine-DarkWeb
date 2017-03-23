@@ -1,0 +1,61 @@
+Topic 0:
+  souls:10.30
+  people:9.71
+  royalty:8.22
+  simply:7.97
+  serving:7.96
+  vanity:7.96
+  remembered:7.36
+  years:7.17
+  enlightenment:5.97
+  service:5.97
+
+Topic 1:
+  life:22.09
+  souls:21.35
+  time:14.93
+  god:13.68
+  names:13.44
+  lives:13.14
+  soul:12.50
+  men:9.06
+  inside:9.05
+  invisible:7.92
+
+Topic 2:
+  love:15.73
+  seena:11.21
+  life:10.44
+  january:7.90
+  quote:7.85
+  common:7.79
+  college:6.84
+  truth:6.76
+  person:6.59
+  mind:5.93
+
+Topic 3:
+  people:12.70
+  souls:8.97
+  real:7.77
+  special:7.76
+  talk:7.56
+  god:5.51
+  ideas:4.23
+  beliefs:3.93
+  reality:3.93
+  finding:3.92
+
+Topic 4:
+  soul:17.21
+  people:11.60
+  question:9.70
+  created:7.48
+  answer:6.26
+  account:5.63
+  minds:5.58
+  speak:3.75
+  post:3.55
+  oasis:3.55
+
+K: 5, Log-Likelihood: -8610.551, Alpha: 11.000, Beta: 1.100

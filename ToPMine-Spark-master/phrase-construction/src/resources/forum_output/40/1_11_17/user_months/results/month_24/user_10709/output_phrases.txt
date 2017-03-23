@@ -1,0 +1,61 @@
+Topic 0:
+  data:0.78
+  recognised:0.48
+  dont:0.39
+  drive:0.39
+  card:0.36
+  baggiesput:0.34
+  working:0.34
+  state:0.34
+  inside:0.34
+  hourstake:0.34
+
+Topic 1:
+  recognised:0.68
+  data:0.59
+  card:0.40
+  backup:0.35
+  drive:0.34
+  dont:0.34
+  key:0.31
+  stored:0.31
+  persistent:0.31
+  worked:0.31
+
+Topic 2:
+  switch:1.69
+  read:1.69
+  defects:1.69
+  adapter:1.68
+  flash drive:1.67
+  pmis:0.70
+  write:0.70
+  tend:0.70
+  recommend:0.70
+  quote:0.70
+
+Topic 3:
+  data:0.47
+  card:0.42
+  recognised:0.33
+  dont:0.32
+  drive:0.32
+  backup:0.30
+  sd:0.29
+  cards:0.29
+  guess:0.29
+  hurts:0.29
+
+Topic 4:
+  recognised:0.61
+  card:0.50
+  backup:0.34
+  recover:0.32
+  micro sd:0.32
+  device:0.32
+  stupid:0.32
+  smetimes:0.29
+  perfectly:0.29
+  setup:0.29
+
+K: 5, Log-Likelihood: -647.054, Alpha: 11.000, Beta: 1.100

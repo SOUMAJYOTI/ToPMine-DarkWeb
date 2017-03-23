@@ -1,0 +1,61 @@
+Topic 0:
+  good:0.29
+  legitimate:0.29
+  dirty:0.29
+  marketplaces:0.29
+  fraction:0.29
+  drugs:0.29
+  people:0.29
+  huge:0.29
+  interested:0.29
+  imo:0.29
+
+Topic 1:
+  time:0.28
+  directed:0.28
+  quit:0.28
+  turned:0.28
+  sour:0.28
+  love:0.28
+  decided:0.28
+  place interested:0.28
+  tor:0.28
+  reddit:0.28
+
+Topic 2:
+  sale:0.28
+  happy:0.28
+  love:0.28
+  tone:0.28
+  set:0.28
+  positive:0.28
+  spreading:0.28
+  time:0.28
+  realized:0.28
+  shot:0.28
+
+Topic 3:
+  care:0.28
+  case:0.28
+  interested:0.28
+  hard:0.28
+  marketplaces:0.28
+  find:0.28
+  reason:0.28
+  point:0.28
+  drugs:0.28
+  huge:0.28
+
+Topic 4:
+  long:0.29
+  positive:0.29
+  reddit:0.29
+  shot:0.29
+  sour:0.29
+  decided:0.29
+  vibes:0.29
+  spreading:0.29
+  turned:0.29
+  quit:0.29
+
+K: 5, Log-Likelihood: -308.071, Alpha: 11.000, Beta: 1.100

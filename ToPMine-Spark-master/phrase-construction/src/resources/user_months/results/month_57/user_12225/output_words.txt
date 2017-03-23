@@ -1,0 +1,61 @@
+Topic 0:
+  nain:0.61
+  kin:0.51
+  kaikki:0.51
+  kamera:0.42
+  peitt:0.42
+  ei:0.42
+  ett:0.42
+  ja:0.42
+  kyll:0.42
+  sun:0.36
+
+Topic 1:
+  voi:0.76
+  nain:0.51
+  kyll:0.41
+  ei:0.41
+  peitt:0.40
+  ett:0.40
+  kamera:0.40
+  ja:0.40
+  kukaan:0.32
+  postia:0.32
+
+Topic 2:
+  kin:0.64
+  kaikki:0.64
+  nain:0.61
+  ett:0.44
+  ja:0.43
+  kyll:0.43
+  ei:0.43
+  kamera:0.43
+  peitt:0.43
+  sun:0.33
+
+Topic 3:
+  voi:0.58
+  nain:0.55
+  kamera:0.41
+  ja:0.41
+  peitt:0.41
+  ei:0.40
+  kyll:0.40
+  ett:0.40
+  sun:0.29
+  tarkistaa:0.27
+
+Topic 4:
+  sun:0.77
+  nain:0.72
+  kaikki:0.47
+  kin:0.47
+  ett:0.34
+  peitt:0.34
+  ei:0.34
+  kyll:0.34
+  ja:0.34
+  kamera:0.34
+
+K: 5, Log-Likelihood: -474.124, Alpha: 11.000, Beta: 1.100

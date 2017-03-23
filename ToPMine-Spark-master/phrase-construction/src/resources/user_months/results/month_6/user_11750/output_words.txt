@@ -1,0 +1,61 @@
+Topic 0:
+  deposit:1.32
+  night:0.40
+  hacked:0.40
+  happen:0.20
+  attack:0.20
+  time:0.20
+  bitcoin:0.20
+  short:0.20
+  didnt:0.20
+  incompetence:0.20
+
+Topic 1:
+  deposit:1.53
+  hacked:0.40
+  night:0.39
+  long:0.20
+  hasnt:0.20
+  purchase:0.20
+  full:0.20
+  bed:0.20
+  days:0.20
+  changed:0.20
+
+Topic 2:
+  deposit:1.43
+  night:0.40
+  hacked:0.40
+  mtgox:0.20
+  checked:0.20
+  btc:0.20
+  forever:0.20
+  sr:0.20
+  wtf:0.20
+  making:0.20
+
+Topic 3:
+  deposit:1.14
+  night:0.41
+  hacked:0.41
+  account:0.20
+  short:0.20
+  refreshed:0.20
+  wtf:0.20
+  sr:0.20
+  reported:0.20
+  people:0.20
+
+Topic 4:
+  deposit:1.58
+  night:0.39
+  hacked:0.39
+  wednesday:0.20
+  trnsferred:0.20
+  enter:0.20
+  hasnt:0.20
+  bitcoin:0.20
+  incompetence:0.20
+  transferred:0.20
+
+K: 5, Log-Likelihood: -179.552, Alpha: 11.000, Beta: 1.100

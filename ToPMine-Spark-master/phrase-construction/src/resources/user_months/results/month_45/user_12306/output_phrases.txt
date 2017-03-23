@@ -1,0 +1,61 @@
+Topic 0:
+  answer:0.16
+  hands:0.08
+  full:0.08
+  wednesday:0.08
+  heard:0.08
+  slow:0.08
+  unread:0.08
+  work:0.08
+  bit:0.08
+  momenthow:0.08
+
+Topic 1:
+  answer:0.16
+  bit:0.08
+  unread:0.08
+  full:0.08
+  slow:0.08
+  heard:0.08
+  work:0.08
+  wednesday:0.08
+  hands:0.08
+  start:0.08
+
+Topic 2:
+  answer:0.16
+  momenthow:0.08
+  takes:0.08
+  guys:0.08
+  silkkitie:0.08
+  long:0.08
+  didnt:0.08
+  pgp:0.08
+  signed:0.08
+  sell:0.08
+
+Topic 3:
+  answer:0.16
+  work:0.08
+  slow:0.08
+  hands:0.08
+  full:0.08
+  wednesday:0.08
+  unread:0.08
+  heard:0.08
+  bit:0.08
+  signed:0.08
+
+Topic 4:
+  answer:0.16
+  signed:0.08
+  pgp:0.08
+  guys:0.08
+  start:0.08
+  didnt:0.08
+  silkkitie:0.08
+  sell:0.08
+  takes:0.08
+  momenthow:0.08
+
+K: 5, Log-Likelihood: -24.214, Alpha: 11.000, Beta: 1.100

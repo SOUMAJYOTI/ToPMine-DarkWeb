@@ -1,0 +1,61 @@
+Topic 0:
+  message:1.33
+  ilovespaghetti:1.29
+  forum:1.27
+  key:1.24
+  pip:1.23
+  checking:1.22
+  find:1.19
+  encryption:1.19
+  topic:1.19
+  quote:1.15
+
+Topic 1:
+  option:1.21
+  february:1.14
+  password:1.11
+  login:1.02
+  quote:0.99
+  site:0.98
+  vendor:0.85
+  pay:0.73
+  message:0.72
+  support:0.69
+
+Topic 2:
+  password:2.40
+  login:1.90
+  option:1.69
+  vendor:1.32
+  support:1.28
+  withdrawal:1.28
+  site:1.14
+  pay:0.98
+  sun:0.90
+  confirmed:0.89
+
+Topic 3:
+  quote:1.21
+  february:1.07
+  password:1.04
+  site:1.01
+  option:0.97
+  forum:0.94
+  login:0.92
+  message:0.85
+  vendor:0.85
+  pay:0.79
+
+Topic 4:
+  password:1.97
+  login:1.70
+  option:1.65
+  vendor:1.27
+  withdrawal:1.11
+  support:1.07
+  site:1.05
+  pay:0.89
+  february:0.87
+  quote:0.86
+
+K: 5, Log-Likelihood: -881.243, Alpha: 11.000, Beta: 1.100

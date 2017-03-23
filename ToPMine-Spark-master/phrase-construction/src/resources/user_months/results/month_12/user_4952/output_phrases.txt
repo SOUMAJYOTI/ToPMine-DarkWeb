@@ -1,0 +1,61 @@
+Topic 0:
+  case hope:0.42
+  june:0.42
+  hope:0.42
+  good feed paranoia fact:0.42
+  thier wallets:0.42
+  party payment risk:0.42
+  market:0.42
+  reguraly:0.42
+  real:0.42
+  vendors:0.42
+
+Topic 1:
+  send:2.52
+  coin:2.09
+  buy:2.08
+  localbitcoinsdotcom:0.90
+  clearnet:0.90
+  opened:0.90
+  recommendations:0.90
+  signed:0.90
+  ways:0.90
+  pmnow:0.90
+
+Topic 2:
+  send:0.53
+  vendor address:0.39
+  vendor compromise:0.39
+  boat paranoid appeals tmg:0.39
+  paranoia fact party payment:0.39
+  matter tumble big question:0.39
+  risk money establish relationship:0.39
+  oly things interested tmg:0.39
+  progress practices guide:0.39
+  vendor trust long:0.39
+
+Topic 3:
+  trust long oly:0.41
+  thier:0.41
+  dont:0.40
+  adds:0.40
+  tired:0.40
+  smart:0.40
+  progress practices guide boat:0.40
+  money establish relationship vendor:0.40
+  money vendors:0.40
+  reguraly:0.40
+
+Topic 4:
+  change:0.47
+  paranoid appeals tmg:0.47
+  matters:0.47
+  things interested tmg vendor:0.47
+  market:0.47
+  scammers:0.47
+  tired:0.47
+  progress practices guide boat:0.47
+  money establish relationship vendor:0.47
+  vendor compromise matter:0.47
+
+K: 5, Log-Likelihood: -598.839, Alpha: 11.000, Beta: 1.100

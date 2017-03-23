@@ -1,0 +1,61 @@
+Topic 0:
+  price:0.61
+  jor:0.38
+  perfectly calibrated:0.34
+  bruv:0.34
+  hits:0.34
+  perfectly:0.34
+  good:0.34
+  fill:0.32
+  market:0.32
+  january:0.28
+
+Topic 1:
+  price:0.51
+  jor:0.39
+  fill:0.36
+  market:0.36
+  perfectly:0.32
+  good:0.32
+  bruv:0.32
+  hits:0.32
+  perfectly calibrated:0.32
+  time:0.27
+
+Topic 2:
+  fill:0.48
+  market:0.47
+  jor:0.43
+  price:0.37
+  time:0.28
+  hits:0.25
+  good:0.25
+  bruv:0.25
+  perfectly calibrated:0.25
+  perfectly:0.25
+
+Topic 3:
+  market:0.49
+  fill:0.49
+  jor:0.43
+  price:0.37
+  time:0.28
+  perfectly calibrated:0.24
+  good:0.24
+  perfectly:0.24
+  hits:0.24
+  bruv:0.24
+
+Topic 4:
+  market:0.55
+  fill:0.54
+  jor:0.44
+  price:0.34
+  time:0.28
+  hg:0.25
+  adding:0.25
+  soil:0.25
+  tom:0.25
+  comer:0.25
+
+K: 5, Log-Likelihood: -404.936, Alpha: 11.000, Beta: 1.100

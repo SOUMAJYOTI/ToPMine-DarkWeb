@@ -1,0 +1,61 @@
+Topic 0:
+  lelantos:0.54
+  emails sigaint:0.34
+  ends:0.34
+  trust:0.34
+  multiple:0.34
+  post:0.34
+  accounts:0.34
+  longer:0.34
+  mins:0.34
+  tho:0.34
+
+Topic 1:
+  lelantos:0.55
+  accounts:0.34
+  mins:0.34
+  longer:0.34
+  recieved:0.34
+  tho:0.34
+  dardush april pmhey:0.34
+  guys problems receiving:0.34
+  ends:0.34
+  success:0.34
+
+Topic 2:
+  lelantos:0.52
+  problems receiving:0.35
+  dardush april pmhey guys:0.35
+  quote:0.35
+  sigaint speak si:0.35
+  pmhey guys problems receiving:0.35
+  friend:0.35
+  dardush april:0.34
+  haven receiving emails hasn:0.34
+  havent receiving emails hasnt:0.34
+
+Topic 3:
+  lelantos:0.54
+  dardush april pmhey:0.34
+  recieved:0.34
+  mins:0.34
+  trust:0.34
+  success:0.34
+  post:0.34
+  guys problems receiving:0.34
+  working:0.34
+  accounts:0.34
+
+Topic 4:
+  lelantos:0.54
+  quote:0.35
+  sigaint speak si:0.35
+  dardush april pmhey guys:0.35
+  problems receiving:0.34
+  friend:0.34
+  dardush april:0.34
+  pmhey guys problems receiving:0.34
+  havent receiving emails hasnt:0.34
+  haven receiving emails hasn:0.34
+
+K: 5, Log-Likelihood: -211.317, Alpha: 11.000, Beta: 1.100

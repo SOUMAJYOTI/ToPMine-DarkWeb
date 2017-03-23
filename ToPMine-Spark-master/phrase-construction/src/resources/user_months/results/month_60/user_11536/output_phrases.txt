@@ -1,0 +1,61 @@
+Topic 0:
+  hansa market team:0.54
+  pgp:0.37
+  dear:0.37
+  market:0.37
+  profile:0.36
+  loves:0.34
+  grandma:0.34
+  hansa:0.30
+  good:0.30
+  link:0.30
+
+Topic 1:
+  pgp:0.73
+  signature:0.52
+  hansa market team:0.29
+  ytsty:0.26
+  mdhs:0.26
+  ks:0.26
+  tgeddn:0.26
+  jfgvnobhtnq:0.26
+  yxkr:0.26
+  ycofuqd:0.26
+
+Topic 2:
+  pgp:1.42
+  signature:0.80
+  zbygoajsfcnf:0.33
+  ve:0.33
+  bsqedx:0.33
+  jkeqawifvgi:0.33
+  mmef:0.33
+  hash:0.33
+  fbxx:0.33
+  yord:0.33
+
+Topic 3:
+  hansa market team:0.53
+  pgp:0.40
+  market:0.35
+  dear:0.35
+  profile:0.34
+  loves:0.34
+  grandma:0.33
+  signature:0.30
+  feedback:0.27
+  luck:0.27
+
+Topic 4:
+  hansa market team:0.54
+  pgp:0.37
+  market:0.36
+  dear:0.36
+  profile:0.36
+  loves:0.34
+  grandma:0.34
+  grandma market:0.29
+  hit:0.29
+  beloved:0.29
+
+K: 5, Log-Likelihood: -622.774, Alpha: 11.000, Beta: 1.100

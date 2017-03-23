@@ -1,0 +1,41 @@
+Topic 0:
+  seller:0.00
+  site:0.00
+  buyers:0.00
+  concept:0.00
+  profile:0.00
+  tochka:0.00
+
+Topic 1:
+  seller:0.00
+  site:0.00
+  buyers:0.00
+  concept:0.00
+  profile:0.00
+  tochka:0.00
+
+Topic 2:
+  seller:0.00
+  site:0.00
+  buyers:0.00
+  concept:0.00
+  profile:0.00
+  tochka:0.00
+
+Topic 3:
+  seller:0.00
+  site:0.00
+  buyers:0.00
+  concept:0.00
+  profile:0.00
+  tochka:0.00
+
+Topic 4:
+  seller:0.00
+  site:0.00
+  buyers:0.00
+  concept:0.00
+  profile:0.00
+  tochka:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

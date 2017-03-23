@@ -1,0 +1,61 @@
+Topic 0:
+  order:3.73
+  offer:3.16
+  perfect:3.10
+  didnt:2.93
+  guess:2.27
+  mate:2.27
+  offers:2.27
+  delivery:2.27
+  catch:2.27
+  shoot:2.27
+
+Topic 1:
+  changa:5.72
+  vendors:3.82
+  signed:3.79
+  peace:3.50
+  legendary:3.02
+  cheers:2.39
+  agora:2.35
+  checking:2.29
+  hey lyoung:2.29
+  sell:2.29
+
+Topic 2:
+  time common:5.80
+  lost:4.68
+  mp escrow:3.84
+  biggest:3.84
+  vendor fe:3.84
+  exception:3.84
+  views:3.84
+  sites future:3.84
+  scars:3.84
+  muti:3.84
+
+Topic 3:
+  dmt:7.74
+  people prefer:7.74
+  commission:4.50
+  long:4.06
+  literally:3.85
+  preferred:3.85
+  cappi:3.85
+  easily:3.85
+  lyoung extraction:3.85
+  types:3.85
+
+Topic 4:
+  pgp public key:7.03
+  post:4.68
+  profile:4.68
+  marketplaces:4.68
+  agora referred link:4.68
+  thread:4.68
+  block:4.68
+  shy:2.33
+  inpm:2.33
+  nsdwedaegjdjrxqxj:2.33
+
+K: 5, Log-Likelihood: -10340.088, Alpha: 11.000, Beta: 1.100

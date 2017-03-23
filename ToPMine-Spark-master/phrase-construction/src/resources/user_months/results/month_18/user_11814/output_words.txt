@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.64
+  euros:0.39
+  forum:0.39
+  buy:0.39
+  read:0.20
+  user:0.20
+  list:0.20
+  pro:0.20
+  inside:0.20
+  escrow:0.20
+
+Topic 1:
+  market:0.59
+  euros:0.40
+  buy:0.40
+  forum:0.40
+  guide:0.20
+  sell:0.20
+  security:0.20
+  escrow:0.20
+  fake:0.20
+  evo:0.20
+
+Topic 2:
+  market:0.59
+  buy:0.40
+  forum:0.40
+  euros:0.40
+  cripter:0.20
+  interesting:0.20
+  efficient:0.20
+  drugs:0.20
+  expensive:0.20
+  cc:0.20
+
+Topic 3:
+  market:0.58
+  euros:0.41
+  forum:0.41
+  buy:0.40
+  free:0.20
+  cripter:0.20
+  escrow:0.20
+  cc:0.20
+  expensive:0.20
+  scammer:0.20
+
+Topic 4:
+  market:0.60
+  forum:0.40
+  buy:0.40
+  euros:0.40
+  pay:0.20
+  keylogger:0.20
+  good:0.20
+  exploit:0.20
+  efficient:0.20
+  drugs:0.20
+
+K: 5, Log-Likelihood: -103.585, Alpha: 11.000, Beta: 1.100

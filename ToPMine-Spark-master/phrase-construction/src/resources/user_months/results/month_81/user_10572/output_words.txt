@@ -1,0 +1,61 @@
+Topic 0:
+  tang:18.08
+  quote:16.53
+  monero:16.15
+  dash:11.32
+  dont:11.30
+  january:9.85
+  mixing:9.75
+  local:8.94
+  problem:8.18
+  troll:7.93
+
+Topic 1:
+  bitcoin:21.24
+  april:18.41
+  typewriters:17.88
+  transactions:12.86
+  pmquote:9.56
+  core:8.95
+  zaphod:8.89
+  ava:7.92
+  leaned:6.80
+  machine:6.77
+
+Topic 2:
+  dash:22.56
+  time:20.93
+  clock:18.81
+  tor:16.33
+  bitcoin:11.75
+  ntp:11.22
+  running:10.86
+  real:9.28
+  hidden:8.81
+  sigaint:8.51
+
+Topic 3:
+  btc:17.37
+  sigaint:15.29
+  march:13.98
+  long:9.72
+  people:8.30
+  fork:6.90
+  thing:6.79
+  classic:6.69
+  code:6.61
+  anonymous:6.50
+
+Topic 4:
+  system:12.43
+  quote:9.38
+  time:7.96
+  clock:7.12
+  host:5.98
+  tor:5.93
+  hosting:5.48
+  interesting:5.44
+  hs:4.99
+  service:4.64
+
+K: 5, Log-Likelihood: -18310.474, Alpha: 11.000, Beta: 1.100

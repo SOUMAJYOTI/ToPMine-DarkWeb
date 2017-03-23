@@ -1,0 +1,61 @@
+Topic 0:
+  tikku:0.39
+  mnt:0.38
+  jo:0.30
+  neuvoa:0.30
+  muistikortin:0.30
+  sda:0.23
+  fdisk:0.23
+  tuon:0.18
+  loytamisen:0.15
+  kautta:0.15
+
+Topic 1:
+  tikku:0.61
+  mnt:0.61
+  sda:0.30
+  fdisk:0.30
+  muistikortin:0.23
+  neuvoa:0.23
+  jo:0.23
+  tuon:0.17
+  katsotaan:0.15
+  ll:0.15
+
+Topic 2:
+  tikku:0.35
+  mnt:0.34
+  jo:0.33
+  muistikortin:0.33
+  neuvoa:0.33
+  sda:0.21
+  fdisk:0.21
+  tuon:0.18
+  ja:0.16
+  jaksaa:0.16
+
+Topic 3:
+  muistikortin:0.38
+  neuvoa:0.37
+  jo:0.37
+  tikku:0.30
+  mnt:0.29
+  sda:0.19
+  fdisk:0.19
+  tuon:0.19
+  teilta:0.17
+  en:0.17
+
+Topic 4:
+  mnt:1.15
+  tikku:1.12
+  fdisk:0.45
+  sda:0.45
+  men:0.19
+  usbtikkun:0.19
+  ytt:0.19
+  nimell:0.19
+  mountata:0.19
+  ett:0.19
+
+K: 5, Log-Likelihood: -354.656, Alpha: 11.000, Beta: 1.100

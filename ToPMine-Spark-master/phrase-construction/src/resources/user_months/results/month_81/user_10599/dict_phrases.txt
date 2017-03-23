@@ -1,0 +1,9 @@
+chance,0,1
+vendor,1,1
+marketplaces,2,1
+pay,3,1
+escrow,4,1
+suggestions,5,1
+sites,6,1
+services,7,1
+dont,8,1

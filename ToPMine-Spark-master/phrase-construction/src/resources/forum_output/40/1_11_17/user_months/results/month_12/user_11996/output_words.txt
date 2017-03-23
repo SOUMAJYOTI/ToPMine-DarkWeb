@@ -1,0 +1,61 @@
+Topic 0:
+  agora:2.06
+  good:1.79
+  point:1.41
+  market:1.19
+  quote:1.18
+  fe:1.02
+  sr:0.84
+  ddos:0.81
+  forum:0.79
+  today:0.73
+
+Topic 1:
+  sr:3.81
+  pandora:3.42
+  vendor:3.14
+  agora:1.89
+  lot:1.82
+  people:1.80
+  layout:1.80
+  evolution:1.78
+  market:1.63
+  good:1.63
+
+Topic 2:
+  point:3.02
+  good:2.41
+  fe:2.22
+  quote:1.86
+  agora:1.47
+  requirements:0.97
+  sir:0.96
+  evo:0.96
+  guess:0.96
+  users:0.95
+
+Topic 3:
+  market:4.26
+  article:2.20
+  time:1.61
+  bit:1.38
+  signature:0.98
+  markets:0.97
+  correct:0.95
+  marketplace:0.95
+  site:0.95
+  escrow:0.94
+
+Topic 4:
+  market:3.15
+  time:0.97
+  agora:0.96
+  sr:0.91
+  forum:0.73
+  escrow:0.72
+  good:0.70
+  today:0.68
+  ddos:0.68
+  point:0.66
+
+K: 5, Log-Likelihood: -1655.727, Alpha: 11.000, Beta: 1.100

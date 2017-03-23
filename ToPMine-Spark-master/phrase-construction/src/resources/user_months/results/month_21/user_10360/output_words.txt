@@ -1,0 +1,61 @@
+Topic 0:
+  btc:3.67
+  stake:1.69
+  fan:1.69
+  people:1.39
+  real:1.31
+  papa:1.10
+  finance:0.72
+  valley:0.72
+  bump:0.72
+  company:0.72
+
+Topic 1:
+  buy:2.04
+  dont:1.54
+  real:0.94
+  paypal:0.83
+  bitcoin:0.79
+  quote:0.77
+  today:0.76
+  vendor:0.74
+  papa:0.72
+  forum:0.68
+
+Topic 2:
+  buy:3.35
+  dont:1.28
+  today:1.13
+  papa:0.87
+  bay:0.85
+  smiling:0.84
+  starts:0.84
+  months:0.84
+  price:0.84
+  quote:0.83
+
+Topic 3:
+  dont:1.89
+  paypal:1.40
+  real:1.30
+  bitcoin:1.24
+  money:0.92
+  buy:0.76
+  thing:0.71
+  market:0.70
+  agora:0.70
+  forum:0.69
+
+Topic 4:
+  money:3.01
+  bitcoin:2.11
+  paypal:1.96
+  real:1.87
+  dont:1.84
+  bitcoins:1.23
+  wallet:1.23
+  thing:1.03
+  market:1.02
+  link:0.81
+
+K: 5, Log-Likelihood: -902.756, Alpha: 11.000, Beta: 1.100

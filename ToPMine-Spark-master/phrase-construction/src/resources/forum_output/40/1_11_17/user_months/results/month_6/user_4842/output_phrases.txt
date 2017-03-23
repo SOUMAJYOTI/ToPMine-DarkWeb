@@ -1,0 +1,61 @@
+Topic 0:
+  openssl:0.82
+  private key:0.58
+  change:0.42
+  servers:0.28
+  blog:0.28
+  server:0.28
+  pre generated:0.28
+  locations:0.28
+  tor problem:0.28
+  hack:0.28
+
+Topic 1:
+  openssl:0.91
+  private key:0.55
+  change:0.45
+  chances:0.28
+  connect:0.28
+  default:0.28
+  identified:0.28
+  hidden:0.28
+  meant:0.28
+  connection:0.28
+
+Topic 2:
+  openssl:0.88
+  private key:0.59
+  change:0.40
+  link:0.29
+  unsafe:0.29
+  understanding:0.29
+  identified:0.29
+  tor problem:0.29
+  compromised:0.29
+  happening:0.29
+
+Topic 3:
+  openssl:0.71
+  private key:0.51
+  change:0.43
+  hard:0.31
+  onion:0.31
+  people:0.30
+  sites:0.30
+  unaffected:0.30
+  hassle:0.30
+  domain:0.30
+
+Topic 4:
+  openssl:0.82
+  private key:0.55
+  change:0.49
+  opens:0.28
+  tor:0.28
+  node:0.28
+  hands:0.28
+  directly:0.28
+  work:0.28
+  attacker:0.28
+
+K: 5, Log-Likelihood: -458.858, Alpha: 11.000, Beta: 1.100

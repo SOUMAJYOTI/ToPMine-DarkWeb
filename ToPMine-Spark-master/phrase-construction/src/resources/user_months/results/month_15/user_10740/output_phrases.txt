@@ -1,0 +1,61 @@
+Topic 0:
+  grams:5.63
+  helix withdraw:4.45
+  helix system:4.45
+  money:4.45
+  entry fee:4.45
+  applied:2.95
+  account:2.95
+  reserve:2.95
+  paper:2.95
+  night:2.95
+
+Topic 1:
+  sounds:2.98
+  works:2.95
+  coins:2.15
+  immense:1.44
+  swap:1.44
+  laundered:1.44
+  analysis:1.44
+  interesting:1.44
+  haven:1.44
+  space:1.44
+
+Topic 2:
+  havent:2.03
+  mining:1.40
+  ahead:1.40
+  bit:1.40
+  gon:1.40
+  deebweb:1.40
+  didnt:1.40
+  op:1.40
+  mined:1.40
+  tired:1.40
+
+Topic 3:
+  worth:2.96
+  organization:2.96
+  received:2.96
+  markets:1.81
+  including:1.45
+  reduces:1.45
+  agora:1.45
+  mind:1.45
+  federal:1.45
+  mixers:1.45
+
+Topic 4:
+  user:4.27
+  key grams:4.27
+  track transactions:3.18
+  bitcoin:3.05
+  dont:2.55
+  delete manually:2.08
+  worries:2.08
+  searches:2.08
+  encrypted:2.08
+  deleted days:2.08
+
+K: 5, Log-Likelihood: -3233.455, Alpha: 11.000, Beta: 1.100

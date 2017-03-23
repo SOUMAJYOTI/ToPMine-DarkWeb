@@ -1,0 +1,61 @@
+Topic 0:
+  leave:8.28
+  lot:6.63
+  city:4.99
+  portal office:4.23
+  sr:4.13
+  site:4.13
+  country:4.13
+  distance:4.13
+  relative:4.13
+  market:4.13
+
+Topic 1:
+  good ideas:5.18
+  rare:4.13
+  personally:4.13
+  good idea:4.13
+  transactions:4.12
+  answers:4.07
+  man:4.07
+  thinking:3.29
+  delivered:3.24
+  controller:3.24
+
+Topic 2:
+  general location:6.66
+  kind:6.22
+  deaddrop:4.97
+  person:4.12
+  gps coordinates:3.30
+  buy stamps:3.30
+  barrel:3.30
+  top:3.30
+  stand:3.30
+  trash:3.30
+
+Topic 3:
+  services:8.30
+  blocks worth anc:6.22
+  coin:5.52
+  coins:5.52
+  services users:4.14
+  clearnet:4.14
+  cryptocurrency:4.14
+  numbers:4.14
+  strength:4.14
+  traced:4.14
+
+Topic 4:
+  shipping:6.22
+  time drop:6.22
+  post offices:4.78
+  walk:4.14
+  frequently:4.14
+  hat:4.14
+  runs:4.14
+  plain:4.14
+  random people:4.14
+  change:4.14
+
+K: 5, Log-Likelihood: -8511.101, Alpha: 11.000, Beta: 1.100

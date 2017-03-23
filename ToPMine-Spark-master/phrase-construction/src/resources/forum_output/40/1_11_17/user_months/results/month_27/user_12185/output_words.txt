@@ -1,0 +1,61 @@
+Topic 0:
+  months:1.18
+  paranoid:1.14
+  clerk:0.89
+  service:0.88
+  coinbase:0.76
+  account:0.74
+  moneypak:0.71
+  talking:0.70
+  generally:0.69
+  banking:0.69
+
+Topic 1:
+  moneypak:1.82
+  account:1.75
+  moneygram:1.59
+  bitcoins:1.58
+  purchase:1.58
+  bitcoin:1.58
+  coinbase:0.75
+  reputed:0.67
+  purchasing:0.67
+  percentage:0.67
+
+Topic 2:
+  paranoid:0.94
+  months:0.92
+  localbitcoins:0.87
+  coinbase:0.63
+  wu:0.61
+  drugs:0.60
+  service:0.59
+  clerk:0.58
+  banking:0.58
+  safely:0.58
+
+Topic 3:
+  wu:4.19
+  sending:1.77
+  money:1.77
+  fraud:1.77
+  situation:1.77
+  call:1.77
+  phone:1.77
+  localbitcoins:1.74
+  titbits:0.79
+  pointers:0.79
+
+Topic 4:
+  account:0.86
+  moneypak:0.84
+  coinbase:0.79
+  paranoid:0.70
+  months:0.68
+  localbitcoins:0.59
+  safely:0.52
+  cash:0.51
+  drugs:0.51
+  depositing:0.51
+
+K: 5, Log-Likelihood: -762.631, Alpha: 11.000, Beta: 1.100

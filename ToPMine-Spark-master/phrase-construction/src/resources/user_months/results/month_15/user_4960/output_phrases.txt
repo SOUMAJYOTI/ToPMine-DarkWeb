@@ -1,0 +1,61 @@
+Topic 0:
+  assuming people:0.66
+  ways:0.66
+  people:0.65
+  protect:0.34
+  post:0.34
+  wondering:0.34
+  harm:0.34
+  stumbled:0.34
+  net:0.34
+  hope:0.34
+
+Topic 1:
+  people:0.81
+  ways:0.81
+  assuming people:0.80
+  happened:0.39
+  internet:0.39
+  primary:0.39
+  dark:0.39
+  doomed:0.39
+  person:0.39
+  guess:0.39
+
+Topic 2:
+  quote:0.74
+  rhett:0.73
+  problem:0.73
+  spaceyourface:0.73
+  throughly:0.73
+  expert:0.73
+  pm:0.73
+  free:0.73
+  cheer:0.73
+  tips:0.73
+
+Topic 3:
+  assuming people:0.80
+  ways:0.77
+  people:0.75
+  sociopaths:0.38
+  common:0.38
+  horrible:0.38
+  sense:0.38
+  opinion:0.38
+  hope:0.38
+  life:0.38
+
+Topic 4:
+  people:0.89
+  ways:0.86
+  assuming people:0.83
+  real:0.40
+  missed:0.40
+  post:0.40
+  exploitation:0.40
+  evil:0.40
+  rule:0.40
+  protecting:0.40
+
+K: 5, Log-Likelihood: -527.718, Alpha: 11.000, Beta: 1.100

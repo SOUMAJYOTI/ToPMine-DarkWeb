@@ -1,0 +1,61 @@
+Topic 0:
+  key:7.38
+  message:4.68
+  public:2.79
+  encrypted:2.73
+  create:2.13
+  myoldfriend:2.03
+  forum:1.91
+  friend:1.74
+  venue:1.66
+  signed:1.58
+
+Topic 1:
+  key:5.13
+  message:3.92
+  public:2.35
+  myoldfriend:2.01
+  forum:1.93
+  venue:1.66
+  friend:1.60
+  create:1.55
+  encrypted:1.50
+  send:1.45
+
+Topic 2:
+  key:3.94
+  message:3.05
+  forum:1.91
+  myoldfriend:1.74
+  create:1.74
+  send:1.58
+  public:1.57
+  encrypted:1.51
+  account:1.46
+  signed:1.28
+
+Topic 3:
+  message:4.13
+  key:4.00
+  encrypted:2.56
+  create:2.43
+  forum:2.37
+  public:2.35
+  send:1.87
+  friend:1.73
+  conversation:1.73
+  venue:1.66
+
+Topic 4:
+  key:1.55
+  message:1.22
+  create:1.15
+  keys:1.09
+  public:0.93
+  forum:0.88
+  post:0.78
+  set:0.78
+  myoldfriend:0.77
+  venue:0.77
+
+K: 5, Log-Likelihood: -2007.552, Alpha: 11.000, Beta: 1.100

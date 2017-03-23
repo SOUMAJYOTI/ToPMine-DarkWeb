@@ -1,0 +1,61 @@
+Topic 0:
+  understand:4.89
+  pandora:3.56
+  evolution:3.21
+  simple:3.21
+  fuck:3.21
+  quiete:3.21
+  explaination:3.21
+  interested:3.21
+  good fast:3.21
+  working:3.21
+
+Topic 1:
+  support:3.11
+  vendor:3.00
+  jack:3.00
+  advertise:3.00
+  verified:3.00
+  marketplace:3.00
+  link:3.00
+  goods:3.00
+  captain:2.99
+  dont:2.48
+
+Topic 2:
+  administration:6.17
+  feedbacks:4.09
+  job:4.09
+  agora:3.78
+  account:3.15
+  lost:2.55
+  matter:2.55
+  check:2.13
+  hai:2.01
+  fast:2.01
+
+Topic 3:
+  market redacted:2.39
+  opened:2.37
+  activity:2.35
+  guys inform:2.33
+  custumers:2.14
+  visit:2.09
+  shop:2.08
+  fucked:1.80
+  feedbacks pandora:1.78
+  guys dont:1.77
+
+Topic 4:
+  hope:3.12
+  coins:2.95
+  agora evolution:2.77
+  canot:2.32
+  busy:1.97
+  dab:1.97
+  wax:1.97
+  starting:1.97
+  place:1.97
+  story:1.97
+
+K: 5, Log-Likelihood: -1765.621, Alpha: 11.000, Beta: 1.100

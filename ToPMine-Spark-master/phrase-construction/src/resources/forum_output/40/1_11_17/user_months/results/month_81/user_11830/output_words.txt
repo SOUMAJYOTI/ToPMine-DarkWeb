@@ -1,0 +1,51 @@
+Topic 0:
+  darkbay:0.82
+  account:0.40
+  access:0.39
+  andromeda:0.39
+  transferred:0.20
+  sign:0.20
+  accounts:0.20
+  darkbay darkbay:0.00
+
+Topic 1:
+  darkbay:0.77
+  account:0.41
+  access:0.41
+  andromeda:0.41
+  sign:0.20
+  accounts:0.20
+  transferred:0.20
+  darkbay darkbay:0.00
+
+Topic 2:
+  darkbay:0.83
+  andromeda:0.40
+  access:0.39
+  account:0.39
+  sign:0.20
+  transferred:0.20
+  accounts:0.20
+  darkbay darkbay:0.00
+
+Topic 3:
+  darkbay:0.80
+  andromeda:0.40
+  account:0.40
+  access:0.40
+  accounts:0.20
+  transferred:0.20
+  sign:0.20
+  darkbay darkbay:0.00
+
+Topic 4:
+  darkbay:0.79
+  access:0.41
+  andromeda:0.40
+  account:0.40
+  transferred:0.20
+  accounts:0.20
+  sign:0.20
+  darkbay darkbay:0.00
+
+K: 5, Log-Likelihood: -24.101, Alpha: 11.000, Beta: 1.100

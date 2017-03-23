@@ -1,0 +1,61 @@
+Topic 0:
+  shit:3.70
+  btc:3.51
+  create:2.91
+  quote:2.79
+  gmail:2.35
+  account:2.13
+  buy:1.95
+  dumb:1.73
+  rent:1.73
+  dumbass:1.73
+
+Topic 1:
+  account:7.43
+  create:6.08
+  tor:4.47
+  wallet:4.07
+  bushytop:2.87
+  question:2.72
+  march:2.59
+  voice:2.49
+  goggle:2.35
+  gmail:2.08
+
+Topic 2:
+  clearnet:25.30
+  tor:15.27
+  wallet:12.31
+  bitcoin:11.59
+  dnm:10.70
+  mix:9.37
+  network:7.70
+  send:6.98
+  coins:5.69
+  account:5.18
+
+Topic 3:
+  number:5.49
+  gmail:5.21
+  bitcoins:3.78
+  cash:3.61
+  create:3.29
+  bank:3.15
+  actual:2.57
+  workaround:2.57
+  figured:2.56
+  guidance:2.56
+
+Topic 4:
+  account:10.03
+  wifi:6.21
+  prob:4.72
+  mix:4.52
+  march:4.09
+  tang:3.43
+  create:2.91
+  traced:2.67
+  public:2.61
+  wallet:2.51
+
+K: 5, Log-Likelihood: -3248.401, Alpha: 11.000, Beta: 1.100

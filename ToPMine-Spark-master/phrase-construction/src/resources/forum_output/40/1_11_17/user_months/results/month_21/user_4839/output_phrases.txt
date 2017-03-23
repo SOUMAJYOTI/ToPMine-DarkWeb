@@ -1,0 +1,61 @@
+Topic 0:
+  escrow:0.54
+  system:0.49
+  thing:0.29
+  pandora:0.29
+  normal:0.29
+  site:0.29
+  putting:0.29
+  trustbased:0.29
+  trading:0.29
+  browsing:0.29
+
+Topic 1:
+  system:0.53
+  escrow:0.43
+  pandorajodqp:0.29
+  site:0.29
+  onion hacked:0.29
+  direct:0.29
+  cautious:0.29
+  trustbased:0.29
+  zrr:0.29
+  money:0.29
+
+Topic 2:
+  system:0.62
+  escrow:0.40
+  failure:0.29
+  online:0.29
+  nailed:0.29
+  lsdaacid:0.29
+  database:0.29
+  relays:0.29
+  plague:0.29
+  hit:0.29
+
+Topic 3:
+  system:0.55
+  escrow:0.46
+  keeping:0.28
+  online:0.28
+  dark:0.28
+  ag:0.28
+  theft:0.28
+  stay:0.28
+  safe:0.28
+  lsdaacid:0.28
+
+Topic 4:
+  system:0.58
+  escrow:0.37
+  hacking:0.29
+  balance:0.29
+  balances:0.29
+  result:0.29
+  marketplace:0.29
+  stay:0.29
+  shop:0.29
+  warning:0.29
+
+K: 5, Log-Likelihood: -344.130, Alpha: 11.000, Beta: 1.100

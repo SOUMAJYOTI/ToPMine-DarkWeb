@@ -1,0 +1,61 @@
+Topic 0:
+  deleted:3.16
+  market:2.53
+  alfred:2.52
+  eleftheria:2.44
+  admin:1.59
+  moved:1.29
+  warning:1.18
+  man:1.18
+  boned:1.18
+  letshug:1.18
+
+Topic 1:
+  site:3.79
+  claim:3.59
+  august:2.42
+  log:2.00
+  remove:1.93
+  prove:1.69
+  pmif:1.63
+  link:1.56
+  quote:1.41
+  evilgrin:1.32
+
+Topic 2:
+  eleftheria:2.00
+  site:1.85
+  link:1.72
+  quote:1.32
+  august:1.19
+  phishing:0.89
+  moved:0.83
+  dont:0.81
+  log:0.78
+  url:0.65
+
+Topic 3:
+  site:3.20
+  log:2.25
+  link:2.08
+  august:1.37
+  eleftheria:1.24
+  quote:1.21
+  phishing:1.07
+  built:0.84
+  steal:0.84
+  user:0.83
+
+Topic 4:
+  site:3.61
+  big:2.34
+  cock:2.32
+  disclaimer:2.32
+  uri:1.82
+  click:1.58
+  boogie:1.55
+  ya:1.53
+  thought:1.30
+  bottom:1.30
+
+K: 5, Log-Likelihood: -1090.671, Alpha: 11.000, Beta: 1.100

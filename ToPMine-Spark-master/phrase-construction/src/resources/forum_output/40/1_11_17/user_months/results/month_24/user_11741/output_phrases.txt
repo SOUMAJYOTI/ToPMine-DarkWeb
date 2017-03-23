@@ -1,0 +1,61 @@
+Topic 0:
+  helix:0.49
+  grams:0.43
+  hella:0.43
+  lot:0.42
+  september:0.42
+  quote:0.41
+  service:0.41
+  problems:0.40
+  shgdekwalet:0.37
+  mix:0.37
+
+Topic 1:
+  helix:0.49
+  grams:0.46
+  september:0.45
+  quote:0.44
+  lot:0.44
+  service:0.44
+  hella:0.44
+  problems:0.43
+  pmif:0.31
+  um:0.31
+
+Topic 2:
+  helix:0.51
+  quote:0.51
+  september:0.50
+  hella:0.49
+  lot:0.49
+  grams:0.46
+  problems:0.41
+  service:0.40
+  pm:0.34
+  favorites:0.34
+
+Topic 3:
+  problems:0.49
+  service:0.49
+  helix:0.48
+  hella:0.43
+  lot:0.43
+  quote:0.43
+  september:0.42
+  grams:0.42
+  bitcoinfog:0.34
+  weeks:0.34
+
+Topic 4:
+  problems:0.47
+  service:0.46
+  helix:0.46
+  grams:0.42
+  lot:0.42
+  hella:0.41
+  quote:0.41
+  september:0.40
+  note:0.34
+  site:0.34
+
+K: 5, Log-Likelihood: -301.199, Alpha: 11.000, Beta: 1.100

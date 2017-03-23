@@ -1,0 +1,61 @@
+Topic 0:
+  hour:4.53
+  check:4.52
+  troll:4.51
+  uri blue warm feeling:2.91
+  btc:2.22
+  wait:2.22
+  eventually:2.22
+  lucky:2.22
+  scammed:2.22
+  wifedown:2.22
+
+Topic 1:
+  place:4.57
+  market:3.70
+  yeah:3.22
+  attacks:2.28
+  prime:2.27
+  daily:2.27
+  profit:2.27
+  strife:2.27
+  service:2.27
+  periods:2.27
+
+Topic 2:
+  wife:5.31
+  agora:4.83
+  irregularly:3.66
+  basis:3.66
+  alive:3.66
+  kicking:3.66
+  regular:3.66
+  slowly:3.66
+  suffering:3.66
+  moment:3.66
+
+Topic 3:
+  rumors:4.57
+  aware:4.57
+  hub ag:4.57
+  experiencing:4.57
+  hub forum:4.57
+  ag:4.57
+  markets:4.19
+  forum:3.90
+  time:3.43
+  threads:2.27
+
+Topic 4:
+  charmer:5.55
+  quote:4.45
+  time agora love:3.98
+  pleases notice worry cheating:3.97
+  love market agora enjoy:3.93
+  thread:3.64
+  answer:3.64
+  bust:3.64
+  girlfriend:3.64
+  question:3.64
+
+K: 5, Log-Likelihood: -2862.912, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  market:5.61
+  apple:2.63
+  vendors:1.85
+  escrow:1.44
+  central:1.29
+  pgp:1.26
+  scammed:0.94
+  fucking:0.77
+  operator:0.77
+  trust:0.77
+
+Topic 1:
+  market:4.13
+  apple:3.13
+  pgp:2.59
+  escrow:2.07
+  vendor:1.55
+  vendors:1.00
+  choice:0.92
+  signed:0.91
+  accounts:0.90
+  central:0.89
+
+Topic 2:
+  apple:8.73
+  vendor:6.54
+  market:5.19
+  commission:4.79
+  sell:4.73
+  ladies:4.55
+  negotiate:4.55
+  life:4.54
+  store:4.40
+  pgp:3.92
+
+Topic 3:
+  vendors:19.54
+  bond:9.00
+  market:8.93
+  ur:8.82
+  time:8.82
+  central:8.34
+  escrow:7.50
+  apple:5.96
+  hansa:5.84
+  invite:5.83
+
+Topic 4:
+  market:4.12
+  apple:3.54
+  vendor:3.07
+  pgp:3.07
+  escrow:2.34
+  vendors:1.69
+  accounts:1.39
+  store:1.16
+  negotiate:1.09
+  ladies:1.06
+
+K: 5, Log-Likelihood: -5458.296, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ei:1.70
+  ja:1.45
+  tai:1.11
+  peter:0.79
+  ss:0.71
+  jos:0.69
+  isi:0.63
+  useth:0.58
+  keys:0.56
+  escrow:0.52
+
+Topic 1:
+  peter:3.79
+  keys:1.58
+  ja:1.48
+  ei:1.43
+  escrow:1.36
+  release:1.35
+  tai:1.26
+  mary:1.25
+  signature:1.23
+  jos:1.14
+
+Topic 2:
+  peter:7.44
+  payment:4.90
+  keys:3.27
+  signature:2.80
+  mary:2.80
+  release:2.67
+  escrow:2.52
+  private:2.13
+  jos:1.75
+  ja:1.68
+
+Topic 3:
+  ja:3.37
+  koskaan:2.94
+  touhu:2.04
+  tullut:2.04
+  myyj:1.94
+  suoraan:1.92
+  jne:1.92
+  nain:1.81
+  pit:1.70
+  tehd:1.59
+
+Topic 4:
+  ei:1.62
+  tai:1.08
+  ja:1.01
+  peter:0.96
+  jos:0.85
+  ss:0.78
+  escrow:0.58
+  keys:0.58
+  ett:0.57
+  useth:0.56
+
+K: 5, Log-Likelihood: -2810.457, Alpha: 11.000, Beta: 1.100

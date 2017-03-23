@@ -1,0 +1,61 @@
+Topic 0:
+  real url market:0.96
+  days ago lost address:0.93
+  market:0.89
+  jimihendrix:0.88
+  blog:0.87
+  serve:0.87
+  site:0.87
+  pmi:0.87
+  longer:0.86
+  thought real connect:0.86
+
+Topic 1:
+  december:1.28
+  quote:1.25
+  days ago lost address:1.12
+  real url market:1.08
+  correct:0.98
+  purpose:0.98
+  url:0.97
+  serve:0.96
+  longer:0.96
+  thought real connect:0.96
+
+Topic 2:
+  deep:1.31
+  market:1.05
+  address:0.91
+  goblins:0.90
+  listing:0.90
+  gamma:0.89
+  find:0.88
+  listed:0.88
+  dot:0.87
+  site thought:0.86
+
+Topic 3:
+  find link:0.93
+  web:0.89
+  dot:0.89
+  find:0.89
+  gamma:0.89
+  listed:0.89
+  market:0.88
+  site thought:0.88
+  listing:0.87
+  goblins:0.87
+
+Topic 4:
+  love:4.11
+  advengers:2.94
+  wtf:1.50
+  avengersedit:1.46
+  dream:1.44
+  post:1.31
+  tq:1.28
+  connect:1.28
+  fuck:1.26
+  yea:1.26
+
+K: 5, Log-Likelihood: -662.032, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  agora:2.05
+  dos:0.43
+  dont:0.42
+  forums:0.39
+  markets:0.39
+  attack:0.39
+  peeps:0.21
+  regardswad:0.21
+  stick:0.21
+  support:0.21
+
+Topic 1:
+  agora:1.51
+  forums:0.41
+  attack:0.41
+  markets:0.40
+  dont:0.37
+  dos:0.37
+  solid:0.21
+  leaving:0.21
+  consistent:0.21
+  eddy:0.21
+
+Topic 2:
+  agora:1.75
+  forums:0.41
+  attack:0.41
+  markets:0.39
+  dont:0.38
+  dos:0.37
+  forum:0.21
+  year:0.21
+  early:0.21
+  leaving:0.21
+
+Topic 3:
+  agora:1.83
+  dont:0.42
+  dos:0.42
+  markets:0.42
+  attack:0.39
+  forums:0.39
+  coins:0.21
+  random:0.21
+  attacks:0.21
+  continue:0.21
+
+Topic 4:
+  agora:1.85
+  dos:0.41
+  dont:0.40
+  markets:0.40
+  forums:0.39
+  attack:0.39
+  affect:0.20
+  threats:0.20
+  trade:0.20
+  random:0.20
+
+K: 5, Log-Likelihood: -286.993, Alpha: 11.000, Beta: 1.100

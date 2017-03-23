@@ -1,0 +1,61 @@
+Topic 0:
+  keys:2.99
+  rsa:1.84
+  key:1.35
+  quote:1.20
+  encryption:0.89
+  nightcrawler:0.87
+  gpg:0.80
+  usb:0.79
+  spitfire:0.71
+  bit:0.57
+
+Topic 1:
+  security:1.78
+  spitfire:0.89
+  nightcrawler:0.80
+  docs:0.80
+  longer:0.80
+  knowledge:0.80
+  extensive:0.80
+  lost:0.80
+  hacker:0.80
+  respected:0.80
+
+Topic 2:
+  keys:5.07
+  bit:2.07
+  years:1.27
+  ecc:1.10
+  safe:1.10
+  expected:1.10
+  key:0.96
+  quote:0.81
+  spitfire:0.60
+  april:0.59
+
+Topic 3:
+  keys:2.05
+  rsa:1.48
+  key:1.44
+  quote:1.27
+  encryption:1.06
+  nightcrawler:1.00
+  usb:0.91
+  gpg:0.89
+  spitfire:0.70
+  generates:0.48
+
+Topic 4:
+  piece:1.75
+  good:1.74
+  solution:1.74
+  dead:1.74
+  caught:1.74
+  software:1.74
+  keys:1.60
+  april:0.87
+  secure:0.87
+  years:0.82
+
+K: 5, Log-Likelihood: -732.815, Alpha: 11.000, Beta: 1.100

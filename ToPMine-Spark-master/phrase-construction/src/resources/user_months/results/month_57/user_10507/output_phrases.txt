@@ -1,0 +1,61 @@
+Topic 0:
+  avoid:4.24
+  flaw:4.24
+  pc:4.24
+  running:4.24
+  darknet:4.24
+  operating:4.24
+  info:4.17
+  users:3.58
+  system:3.56
+  aware:3.31
+
+Topic 1:
+  desktop:4.24
+  create:4.24
+  item:4.24
+  work:4.24
+  images:4.22
+  suspect:4.22
+  neat:3.24
+  trick:3.24
+  stego:2.53
+  thing:2.17
+
+Topic 2:
+  windows:4.94
+  useing:4.23
+  sqrl:4.14
+  oppailover september:3.85
+  passwords:3.63
+  designed:3.41
+  appearances:3.41
+  box infected:3.41
+  lot:3.41
+  steal:3.41
+
+Topic 3:
+  truecrypt:9.02
+  security:8.06
+  program:6.39
+  windows:6.33
+  veracrypt:5.28
+  vulnerabilities:5.28
+  system:4.60
+  critical:4.25
+  flaws:4.25
+  code:4.25
+
+Topic 4:
+  communications:3.40
+  trust encryption:3.40
+  hide stego:3.40
+  asa:3.40
+  nsa:3.40
+  detect stego:3.40
+  stego program:3.40
+  encryption system:3.40
+  detection:3.40
+  established:3.40
+
+K: 5, Log-Likelihood: -5667.180, Alpha: 11.000, Beta: 1.100

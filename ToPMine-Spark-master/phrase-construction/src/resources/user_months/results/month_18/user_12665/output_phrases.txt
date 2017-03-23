@@ -1,0 +1,61 @@
+Topic 0:
+  myyj:7.02
+  varma ett:5.79
+  rehellisi:4.67
+  ett se:4.67
+  kuinka:4.67
+  joo:4.66
+  eli:4.63
+  ja:4.60
+  fe:3.92
+  ksi:3.86
+
+Topic 1:
+  nain:6.60
+  koska:6.33
+  kommentti:4.69
+  ihmisten:4.69
+  sis:4.69
+  kyll:4.69
+  tule:4.69
+  eip:3.32
+  sinne meni:2.96
+  olisi:2.85
+
+Topic 2:
+  mm st:3.82
+  etuk jos:3.82
+  tuo maksun:3.82
+  taas:3.82
+  kapteenin:3.82
+  ajaa:3.82
+  homam:3.82
+  poistaa:3.82
+  parempi:3.82
+  alas:3.82
+
+Topic 3:
+  toki:4.93
+  se yksi:3.85
+  pip:3.85
+  muuten:3.85
+  menisi:3.85
+  harvoin:3.85
+  ett menee:3.85
+  frendeill:3.85
+  olisi luokan:3.85
+  normaalin:3.85
+
+Topic 4:
+  odottaa:7.71
+  kuin iv saapua:4.86
+  itselt koskaan:4.86
+  ett harvinaista jos:4.86
+  tilausta eip tullut mieleenk:4.86
+  aiemmin yht hetyst tulematta:4.86
+  tilauksia takana noin sata:4.86
+  postin ty ntekij tied:4.86
+  vaadittu ll kin kauppiaalla:4.86
+  vaikka fe:4.86
+
+K: 5, Log-Likelihood: -10470.429, Alpha: 11.000, Beta: 1.100

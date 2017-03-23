@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:19.34
+  wallet:19.29
+  lot:16.75
+  people:16.12
+  coins:15.92
+  silk:13.89
+  site:13.89
+  road:13.89
+  coin:12.92
+  buy:11.44
+
+Topic 1:
+  country:10.42
+  find:5.76
+  vendor:5.63
+  mail:5.48
+  code:5.36
+  guess:5.19
+  request:5.14
+  email:3.77
+  snug:3.63
+  send:3.58
+
+Topic 2:
+  long:6.53
+  freezer:5.85
+  dont:4.21
+  lsd:3.93
+  good:3.27
+  newbie:2.16
+  fucking:1.93
+  condition:1.93
+  btw:1.93
+  hints:1.93
+
+Topic 3:
+  key:11.32
+  public:11.11
+  vendor:10.28
+  august:9.15
+  rg:8.73
+  send:8.29
+  people:7.58
+  country:7.49
+  pretty:5.53
+  guide:5.47
+
+Topic 4:
+  good:10.65
+  plastic:8.77
+  place:7.91
+  dessicator:7.91
+  blotters:7.91
+  bag:7.91
+  years:6.45
+  system:6.33
+  potency:5.92
+  wax:5.92
+
+K: 5, Log-Likelihood: -7154.188, Alpha: 11.000, Beta: 1.100

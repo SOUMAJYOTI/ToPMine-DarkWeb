@@ -1,0 +1,61 @@
+Topic 0:
+  agora:5.12
+  fun:4.23
+  join:4.23
+  register:4.23
+  forums:4.23
+  evolution:4.12
+  takes majority buyers:3.61
+  markets evo:3.33
+  liable markets:3.33
+  liable sr:3.33
+
+Topic 1:
+  people:9.92
+  good market:4.23
+  good popular:4.23
+  darknet:4.23
+  types:4.23
+  fed:3.41
+  completely:3.41
+  doesnt:2.95
+  support:2.77
+  popularity:2.58
+
+Topic 2:
+  requests neglected:7.10
+  official:4.23
+  ideas analyze requests evo:4.14
+  understand:4.07
+  group:3.40
+  requests forum:3.40
+  hours:3.40
+  gain users:3.40
+  bunch:3.40
+  response:3.40
+
+Topic 3:
+  agora:7.11
+  evo:5.61
+  number:5.08
+  real:5.08
+  reason:4.23
+  love:3.99
+  top:3.32
+  stims:3.26
+  products:3.26
+  demand:3.26
+
+Topic 4:
+  query:4.24
+  afghan text:4.24
+  category:4.24
+  ill:3.41
+  note:3.41
+  reply question:3.41
+  discuss:3.41
+  suggestion:3.41
+  mental:3.41
+  asked:3.41
+
+K: 5, Log-Likelihood: -3852.420, Alpha: 11.000, Beta: 1.100

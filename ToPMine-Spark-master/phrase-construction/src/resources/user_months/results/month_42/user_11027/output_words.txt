@@ -1,0 +1,61 @@
+Topic 0:
+  angel:2.14
+  eyes:1.99
+  bitcoinfog:1.68
+  store:1.57
+  storage:1.57
+  blockchain:1.41
+  coins:1.40
+  cold:1.40
+  darknet:1.36
+  wallet:1.21
+
+Topic 1:
+  eyes:2.17
+  angel:2.06
+  wallet:1.47
+  bitcoinfog:1.45
+  cold:1.32
+  worked:1.20
+  storage:1.16
+  store:1.09
+  quote:1.03
+  blockchain:1.00
+
+Topic 2:
+  wallet:1.99
+  eyes:1.66
+  angel:1.58
+  bitcoinfog:1.21
+  bitblender:1.20
+  quote:1.15
+  worked:1.13
+  cold:1.04
+  pmbitblender:1.00
+  storage:0.99
+
+Topic 3:
+  wallet:2.22
+  eyes:1.76
+  angel:1.73
+  bitcoinfog:1.29
+  worked:1.13
+  store:1.13
+  quote:1.08
+  bitblender:1.07
+  storage:1.02
+  cold:0.99
+
+Topic 4:
+  wallet:6.10
+  shadow:3.89
+  mentioned:1.96
+  user:1.18
+  quote:0.90
+  bitblender:0.80
+  site:0.73
+  worked:0.55
+  running:0.54
+  keeping:0.54
+
+K: 5, Log-Likelihood: -826.774, Alpha: 11.000, Beta: 1.100

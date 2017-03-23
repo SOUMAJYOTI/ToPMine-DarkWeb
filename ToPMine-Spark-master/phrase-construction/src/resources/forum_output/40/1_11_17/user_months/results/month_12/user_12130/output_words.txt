@@ -1,0 +1,61 @@
+Topic 0:
+  quote:4.56
+  problem:2.72
+  galou:2.61
+  tone:2.60
+  error:1.63
+  open:1.16
+  hope:1.16
+  monday:1.16
+  jebusite:1.15
+  site:1.15
+
+Topic 1:
+  bitcoins:5.64
+  tumbler:3.69
+  multi:3.66
+  wallets:2.69
+  random:2.01
+  transfer:1.72
+  wallet:1.71
+  hours:0.99
+  receiving:0.76
+  security:0.76
+
+Topic 2:
+  grams:2.34
+  market:2.22
+  pirate:1.83
+  items:0.79
+  days:0.71
+  multiply:0.58
+  coming:0.58
+  drug:0.58
+  customers:0.58
+  listings:0.58
+
+Topic 3:
+  account:2.90
+  market:2.76
+  vacation:2.64
+  mode:2.64
+  vendor:1.67
+  vendors:1.67
+  pirate:1.64
+  days:1.15
+  time:0.88
+  items:0.79
+
+Topic 4:
+  days:0.72
+  problem:0.69
+  time:0.61
+  random:0.57
+  market:0.52
+  hours:0.50
+  amount:0.49
+  site:0.41
+  hope:0.40
+  jebusite:0.40
+
+K: 5, Log-Likelihood: -665.520, Alpha: 11.000, Beta: 1.100

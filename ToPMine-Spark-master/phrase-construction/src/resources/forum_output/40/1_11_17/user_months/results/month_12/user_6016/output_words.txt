@@ -1,0 +1,61 @@
+Topic 0:
+  darkness:1.29
+  cinema:0.90
+  reported:0.67
+  time:0.43
+  form:0.43
+  prisoners:0.43
+  light:0.43
+  lights:0.43
+  phenomena:0.39
+  total:0.39
+
+Topic 1:
+  darkness:1.36
+  cinema:0.96
+  reported:0.66
+  lights:0.44
+  prisoners:0.44
+  form:0.44
+  light:0.44
+  time:0.43
+  total:0.38
+  link:0.38
+
+Topic 2:
+  darkness:1.01
+  remember:0.65
+  people:0.62
+  cinema:0.51
+  total:0.45
+  experience:0.44
+  interesting:0.44
+  phenomena:0.44
+  link:0.44
+  reported:0.42
+
+Topic 3:
+  darkness:1.14
+  cinema:0.66
+  reported:0.54
+  people:0.43
+  interesting:0.42
+  link:0.42
+  remember:0.42
+  phenomena:0.42
+  experience:0.42
+  total:0.41
+
+Topic 4:
+  darkness:1.20
+  cinema:0.97
+  reported:0.71
+  time:0.45
+  lights:0.45
+  light:0.44
+  form:0.44
+  prisoners:0.44
+  phenomena:0.39
+  interesting:0.38
+
+K: 5, Log-Likelihood: -498.281, Alpha: 11.000, Beta: 1.100

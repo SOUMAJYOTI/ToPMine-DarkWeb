@@ -1,0 +1,61 @@
+Topic 0:
+  share:4.94
+  onionshare:4.34
+  site:3.69
+  files:3.44
+  recommend:3.28
+  server:3.28
+  apt:2.94
+  install:2.94
+  hidden:2.54
+  links:2.53
+
+Topic 1:
+  hosting:4.00
+  file:3.94
+  files:3.16
+  pdfs:2.33
+  anonymous:1.88
+  elmo:1.79
+  services:1.72
+  energy:1.68
+  ectf:1.68
+  control:1.68
+
+Topic 2:
+  hosting:4.42
+  control:2.65
+  complete:1.75
+  difficult:1.75
+  isnt:1.74
+  partners:1.74
+  idea:1.65
+  pay:0.84
+  life:0.84
+  lot:0.84
+
+Topic 3:
+  anonfiles:5.00
+  files:2.68
+  file:2.68
+  hosting:2.53
+  content:2.48
+  quote:2.34
+  anonymous:2.14
+  july:1.62
+  mb:1.58
+  upload:1.49
+
+Topic 4:
+  anonfiles:14.37
+  files:6.57
+  upload:4.68
+  illegal:4.22
+  terms:4.21
+  unloaded:4.18
+  responsible:3.63
+  file:3.50
+  held:2.59
+  removed:2.53
+
+K: 5, Log-Likelihood: -2788.891, Alpha: 11.000, Beta: 1.100

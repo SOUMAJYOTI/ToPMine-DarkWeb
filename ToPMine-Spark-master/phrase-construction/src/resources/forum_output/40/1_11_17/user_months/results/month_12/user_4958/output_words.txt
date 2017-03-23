@@ -1,0 +1,61 @@
+Topic 0:
+  message:3.64
+  pgp:1.63
+  pip:1.32
+  encrypt:1.29
+  system:1.10
+  public:1.08
+  ive:1.04
+  pm:0.99
+  ob:0.99
+  sbuiwkhle:0.97
+
+Topic 1:
+  captain:5.64
+  thread:3.39
+  messages:3.28
+  open:2.93
+  friend:2.92
+  vendors:2.91
+  post:2.79
+  time:2.76
+  key:2.53
+  gpg:1.93
+
+Topic 2:
+  pgp:10.63
+  key:5.03
+  mac:2.97
+  java:2.97
+  program:2.97
+  people:2.83
+  encryption:2.80
+  secure:2.78
+  online:2.29
+  security:2.28
+
+Topic 3:
+  key:15.02
+  message:12.17
+  public:7.93
+  pgp:5.19
+  send:5.01
+  decrypt:4.70
+  private:3.93
+  understanding:3.78
+  pip:3.73
+  asa:2.93
+
+Topic 4:
+  key:7.80
+  pgp:5.46
+  public:3.75
+  send:2.42
+  block:2.17
+  questions:1.97
+  forums:1.40
+  thread:1.31
+  offer:1.10
+  pip:1.10
+
+K: 5, Log-Likelihood: -4988.381, Alpha: 11.000, Beta: 1.100

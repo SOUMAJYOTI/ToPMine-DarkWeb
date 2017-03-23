@@ -1,0 +1,61 @@
+Topic 0:
+  bloom:1.17
+  tx:1.13
+  wallet:1.11
+  address:1.01
+  tor:0.70
+  bitcoinj:0.69
+  node:0.69
+  tie:0.68
+  push:0.68
+  filters:0.68
+
+Topic 1:
+  address:1.13
+  wallet:1.03
+  tx:0.97
+  bloom:0.90
+  support:0.64
+  tie:0.63
+  push:0.63
+  node:0.63
+  filters:0.63
+  bitcoinj:0.63
+
+Topic 2:
+  client:3.44
+  wallets:2.09
+  multibit:2.07
+  addresses:1.02
+  address:0.89
+  start:0.54
+  reside:0.54
+  syncs:0.54
+  downloaded:0.54
+  questions:0.54
+
+Topic 3:
+  client:1.32
+  multibit:1.24
+  addresses:1.08
+  address:1.04
+  wallets:0.69
+  running:0.50
+  network:0.49
+  wallet:0.49
+  online:0.49
+  separate:0.49
+
+Topic 4:
+  wallet:1.02
+  address:0.93
+  bloom:0.72
+  addresses:0.69
+  tx:0.69
+  multibit:0.66
+  filters:0.50
+  support:0.50
+  push:0.50
+  tie:0.50
+
+K: 5, Log-Likelihood: -624.384, Alpha: 11.000, Beta: 1.100

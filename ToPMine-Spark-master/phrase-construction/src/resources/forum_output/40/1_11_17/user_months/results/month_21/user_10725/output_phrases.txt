@@ -1,0 +1,61 @@
+Topic 0:
+  attack:4.10
+  coming:2.71
+  server:2.71
+  sr:2.71
+  real:2.71
+  servers:2.71
+  insignificant:1.33
+  identified:1.33
+  relay:1.33
+  safest:1.33
+
+Topic 1:
+  btc fog address:3.79
+  catching market orders:3.79
+  send:2.82
+  catch:1.83
+  vendor:1.83
+  changed:1.83
+  coins straight good:1.83
+  coins traced clean wallet:1.83
+  time send:1.83
+  funds:1.83
+
+Topic 2:
+  methods:2.71
+  idea:2.71
+  people:2.71
+  cash:2.71
+  transactions:2.71
+  watching:2.71
+  guides:2.71
+  knowledge:1.33
+  involves:1.33
+  isnt:1.33
+
+Topic 3:
+  blockchain analysis:2.82
+  time:2.01
+  lesson:1.84
+  drugs:1.84
+  army:1.84
+  medium:1.84
+  judge dont:1.84
+  small:1.84
+  evilgrin:1.84
+  safe:1.84
+
+Topic 4:
+  thread:2.71
+  options:2.71
+  matter:1.60
+  rogers:1.32
+  times:1.32
+  send dirty wallet:1.32
+  discussing:1.32
+  expand:1.32
+  create:1.32
+  differently:1.32
+
+K: 5, Log-Likelihood: -1928.299, Alpha: 11.000, Beta: 1.100

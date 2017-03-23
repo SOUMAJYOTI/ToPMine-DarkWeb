@@ -1,0 +1,61 @@
+Topic 0:
+  transaction malleability:6.36
+  move:4.60
+  bitcoin:4.46
+  protocol:4.46
+  fall:4.46
+  process:3.62
+  empty:3.62
+  coins:3.06
+  stealth:2.90
+  played:2.37
+
+Topic 1:
+  happened:5.48
+  things:5.27
+  features:4.48
+  background:4.03
+  lot:3.75
+  sr:3.67
+  easy:3.61
+  con:3.46
+  amount:2.27
+  lose:2.23
+
+Topic 2:
+  february:6.85
+  long time:4.58
+  hit:4.47
+  amazing:4.47
+  pmthe:4.45
+  stay:3.64
+  market:3.64
+  coding:3.58
+  realize:3.58
+  ago:3.58
+
+Topic 3:
+  place:5.02
+  defcon:3.92
+  silk road:3.77
+  time:3.16
+  hub:2.62
+  money:2.56
+  inefficient:2.42
+  shifty:2.27
+  person:2.05
+  mods:2.04
+
+Topic 4:
+  oracle:6.28
+  start:6.19
+  watched:6.08
+  time:4.66
+  times:4.29
+  le:4.04
+  folks:4.02
+  incidentally:4.02
+  email:4.00
+  amquote:4.00
+
+K: 5, Log-Likelihood: -11627.640, Alpha: 11.000, Beta: 1.100

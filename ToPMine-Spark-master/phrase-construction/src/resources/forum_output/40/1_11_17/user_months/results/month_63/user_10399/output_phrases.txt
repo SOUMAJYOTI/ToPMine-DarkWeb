@@ -1,0 +1,61 @@
+Topic 0:
+  bar:11.14
+  screen:11.14
+  settings:11.14
+  top screen:11.14
+  automatic upgrade:9.52
+  upgrade:9.52
+  switch noscript block slide:7.38
+  tor browser tails:7.38
+  time start darn thing:7.38
+  priviacy security setting slider:7.38
+
+Topic 1:
+  email:15.23
+  thoughts electrum jigsaw:9.97
+  quote:9.74
+  client:9.58
+  electrum pretty damn good:7.44
+  byanonymousguy chat sr helped:7.44
+  ya man:7.44
+  ago remember:7.44
+  stuff interested:7.44
+  things shoot pm bro:7.44
+
+Topic 2:
+  script:11.63
+  read:9.83
+  sigaint servers blocking:8.27
+  tor:8.10
+  sign transactions wallet download:7.18
+  configured:6.38
+  turning:6.38
+  applications:6.38
+  software:6.38
+  control:6.35
+
+Topic 3:
+  pops october pmquote:13.53
+  aethon october pmquote:13.53
+  edit thought dammed posts:13.21
+  job assume people stand:13.21
+  service cheers aethon:13.21
+  sigaint pro:11.45
+  service encrypt safe popsdont:11.45
+  decrypt:11.13
+  theresident october amgreat:10.30
+  dont worry resident ill:8.96
+
+Topic 4:
+  blocking mail:11.08
+  tor browser:8.57
+  things:8.35
+  keeping grand:7.40
+  copy:6.35
+  folder:6.35
+  year ill:5.56
+  earlier:5.56
+  leave:5.56
+  telling:5.56
+
+K: 5, Log-Likelihood: -16382.568, Alpha: 11.000, Beta: 1.100

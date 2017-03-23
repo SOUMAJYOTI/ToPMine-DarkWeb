@@ -1,0 +1,61 @@
+Topic 0:
+  cash:3.85
+  clearnet:1.54
+  site:1.50
+  accessible:1.49
+  school:1.39
+  mail:1.34
+  high:1.27
+  hoffman:1.23
+  sample:1.14
+  january:1.10
+
+Topic 1:
+  money:5.56
+  sell:5.37
+  express:3.76
+  people:3.57
+  send:3.28
+  person:2.88
+  lbc:2.78
+  large:2.62
+  seal:2.62
+  good:2.49
+
+Topic 2:
+  cash:5.89
+  mail:5.37
+  sending:2.89
+  transfer:2.85
+  transfers:1.65
+  paper:1.28
+  bh:1.28
+  vendors:1.28
+  trail:1.28
+  moneygram:1.28
+
+Topic 3:
+  url:5.77
+  onion:5.28
+  accessible:4.96
+  site:4.82
+  clearnet:4.77
+  january:4.04
+  tor:4.03
+  school:3.83
+  quote:3.34
+  free:2.87
+
+Topic 4:
+  january:3.03
+  accessible:2.49
+  site:2.41
+  clearnet:2.35
+  quote:1.88
+  cash:1.87
+  school:1.72
+  confused:1.66
+  onion:1.62
+  sample:1.39
+
+K: 5, Log-Likelihood: -2368.375, Alpha: 11.000, Beta: 1.100

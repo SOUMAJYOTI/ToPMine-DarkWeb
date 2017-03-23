@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:8.47
+  market:3.47
+  place:3.33
+  time:2.39
+  people:2.21
+  lsd:2.20
+  site:2.19
+  forum:2.12
+  dont:1.82
+  nucleus:1.80
+
+Topic 1:
+  vendors:5.14
+  market:4.09
+  people:2.75
+  lsd:2.61
+  place:2.54
+  forum:2.34
+  site:2.18
+  kind:2.07
+  dont:2.00
+  threads:1.91
+
+Topic 2:
+  vendors:2.59
+  market:1.91
+  place:1.85
+  people:1.50
+  time:1.37
+  lsd:1.37
+  site:1.32
+  post:1.27
+  darknet:1.16
+  threads:1.12
+
+Topic 3:
+  market:2.27
+  vendors:2.24
+  post:1.70
+  place:1.56
+  people:1.26
+  site:1.15
+  kind:1.09
+  dont:1.06
+  forum:1.06
+  lsd:1.02
+
+Topic 4:
+  vendors:14.56
+  market:10.26
+  kind:6.07
+  dont:6.04
+  place:5.72
+  time:5.38
+  forum:5.37
+  site:5.16
+  lsd:4.80
+  escrow:4.38
+
+K: 5, Log-Likelihood: -4235.985, Alpha: 11.000, Beta: 1.100

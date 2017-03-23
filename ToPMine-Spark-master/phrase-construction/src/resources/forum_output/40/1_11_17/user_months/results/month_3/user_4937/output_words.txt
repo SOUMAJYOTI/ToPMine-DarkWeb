@@ -1,0 +1,61 @@
+Topic 0:
+  amazing:0.49
+  implications:0.48
+  astounding:0.48
+  read:0.47
+  tripping:0.20
+  ti:0.19
+  pmquite:0.19
+  pinkfloyd:0.19
+  february:0.19
+  check:0.19
+
+Topic 1:
+  read:1.47
+  astounding:1.46
+  implications:1.46
+  amazing:1.45
+  ooooooooooo:0.77
+  fullllllllll:0.76
+  beauuu:0.76
+  quote:0.76
+  artists:0.76
+  rendition:0.76
+
+Topic 2:
+  key:25.94
+  pgp:21.94
+  vendor:13.94
+  directory:7.94
+  markets:7.94
+  find:5.99
+  anonymous:5.94
+  listed:5.94
+  signed:5.94
+  public:5.94
+
+Topic 3:
+  diagrams:21.63
+  particles:18.79
+  theory:18.27
+  time:16.79
+  scattering:15.52
+  particle:15.49
+  feynman:15.43
+  space:15.12
+  amplituhedron:14.97
+  arkani:14.23
+
+Topic 4:
+  space:2.83
+  time:1.85
+  unitarity:1.76
+  amplitude:1.51
+  scattering:1.43
+  gravity:1.40
+  interactions:1.33
+  diagrams:1.31
+  work:1.18
+  particles:1.15
+
+K: 5, Log-Likelihood: -10791.458, Alpha: 11.000, Beta: 1.100

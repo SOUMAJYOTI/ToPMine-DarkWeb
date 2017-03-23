@@ -1,0 +1,61 @@
+Topic 0:
+  guid general area english:0.59
+  mind:0.59
+  june:0.59
+  educational:0.59
+  read:0.59
+  zingo:0.59
+  learn:0.59
+  strong side:0.59
+  thanksno:0.59
+  guys understand site drugs:0.59
+
+Topic 1:
+  order:0.42
+  mushrooms:0.41
+  dmt:0.41
+  check:0.41
+  recommend:0.41
+  place:0.41
+  members:0.41
+  mda:0.41
+  work:0.41
+  garden:0.41
+
+Topic 2:
+  recommend:0.47
+  members:0.47
+  hey:0.47
+  links:0.47
+  mama:0.47
+  mushrooms:0.47
+  site:0.47
+  cannabis:0.47
+  psychedelic:0.47
+  lsd:0.47
+
+Topic 3:
+  work:0.43
+  dmt:0.42
+  masculine:0.42
+  mda:0.42
+  garden:0.42
+  psychedelic:0.42
+  readme:0.42
+  check:0.42
+  lsd:0.42
+  members:0.42
+
+Topic 4:
+  english strong side:0.41
+  drugs guid general area:0.41
+  readme:0.40
+  mda:0.40
+  lsd:0.40
+  place:0.40
+  hey:0.40
+  order:0.40
+  masculine:0.40
+  cannabis:0.40
+
+K: 5, Log-Likelihood: -260.103, Alpha: 11.000, Beta: 1.100

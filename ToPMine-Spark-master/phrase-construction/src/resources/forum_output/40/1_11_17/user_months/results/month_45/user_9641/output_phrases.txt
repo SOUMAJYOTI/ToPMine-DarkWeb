@@ -1,0 +1,61 @@
+Topic 0:
+  shit:2.67
+  douche:2.67
+  people:2.18
+  music:1.29
+  likeminded:1.29
+  hipsters:1.29
+  cool:1.29
+  mountain:1.29
+  popular:1.29
+  introduced:1.29
+
+Topic 1:
+  experiences:1.00
+  truth:0.84
+  attract:0.84
+  spiritsimply:0.84
+  true:0.84
+  people life:0.83
+  body:0.83
+  embody:0.83
+  spirit:0.83
+  people:0.79
+
+Topic 2:
+  people:2.04
+  experience:1.15
+  youll:1.15
+  travelers:1.15
+  shopkeepers:1.15
+  meant:1.15
+  strangers:1.15
+  worst:1.15
+  academics:1.14
+  recommend:1.14
+
+Topic 3:
+  love:2.79
+  green:2.75
+  work:2.75
+  heart:2.47
+  open:2.47
+  dont:1.51
+  brown:1.17
+  fields:1.16
+  difference:1.16
+  reach:1.16
+
+Topic 4:
+  find:1.97
+  feel:1.96
+  high:0.85
+  uncleal:0.85
+  trust:0.85
+  assholes:0.85
+  fake:0.85
+  sit:0.85
+  eating:0.85
+  glance:0.85
+
+K: 5, Log-Likelihood: -1306.154, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  fleeced:8.91
+  coin:8.91
+  scam missy:8.91
+  people panacea:8.91
+  repeatedly:8.91
+  members:8.91
+  public key:8.87
+  key:8.72
+  market:6.68
+  panacea:6.68
+
+Topic 1:
+  tor:12.54
+  relays:10.55
+  kobeissi:10.55
+  lizard squad:10.55
+  earlier:6.74
+  posted:5.27
+  today:5.27
+  twitter:5.27
+  group:5.27
+  year:5.27
+
+Topic 2:
+  kaspersky:13.19
+  nsa:11.16
+  drives:10.97
+  software deep hard drives:7.91
+  hard:5.27
+  surveillance:5.27
+  china:5.27
+  monday:5.27
+  infected:5.27
+  infect:5.27
+
+Topic 3:
+  coinbase:16.24
+  laws office:10.55
+  state:10.55
+  financial services:7.91
+  bitin exchange:7.91
+  lawsky:7.91
+  company:6.94
+  bitcoin:6.85
+  planning:5.27
+  licenses:5.27
+
+Topic 4:
+  search engine:8.78
+  bitcoin:6.54
+  largest:5.26
+  goal:5.26
+  bring:5.26
+  gamer:5.22
+  snowdon:5.15
+  thinking:5.10
+  article:4.95
+  creepy:4.90
+
+K: 5, Log-Likelihood: -17036.376, Alpha: 11.000, Beta: 1.100

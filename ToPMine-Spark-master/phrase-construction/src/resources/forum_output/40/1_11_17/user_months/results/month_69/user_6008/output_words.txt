@@ -1,0 +1,61 @@
+Topic 0:
+  problems:9.91
+  sigaint:9.36
+  time:6.89
+  site:5.92
+  lelantos:4.23
+  address:4.19
+  mdirect:3.91
+  wrong:3.91
+  worked:3.91
+  mail:3.91
+
+Topic 1:
+  lelantos:2.26
+  messages:2.17
+  pgp:1.24
+  email:1.16
+  contact:1.15
+  address:0.97
+  message:0.58
+  signature:0.57
+  key:0.45
+  signed:0.40
+
+Topic 2:
+  pgp:6.83
+  key:5.55
+  block:2.54
+  fv:2.47
+  send:2.40
+  lr:2.35
+  public:2.26
+  gs:2.25
+  message:2.07
+  signature:1.85
+
+Topic 3:
+  pgp:4.30
+  key:1.97
+  signature:1.49
+  message:1.43
+  gs:1.36
+  public:1.36
+  lr:1.29
+  send:1.22
+  fv:1.16
+  lelantos:1.14
+
+Topic 4:
+  signature:4.04
+  td:3.96
+  security:3.96
+  pgp:3.58
+  sigaint:3.53
+  sha:1.99
+  pip:1.99
+  sign:1.99
+  fixed:1.99
+  signed:1.99
+
+K: 5, Log-Likelihood: -8266.923, Alpha: 11.000, Beta: 1.100

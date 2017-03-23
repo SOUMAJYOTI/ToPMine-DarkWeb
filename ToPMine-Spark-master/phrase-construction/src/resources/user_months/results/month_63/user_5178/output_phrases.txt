@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins:0.76
+  love avengers:0.44
+  site staff:0.44
+  deserves:0.41
+  attention:0.41
+  gains:0.41
+  hope:0.41
+  bitcoin address:0.36
+  buyers main features distinguish:0.32
+  system refund address buyer:0.32
+
+Topic 1:
+  site staff:0.67
+  bitcoins:0.59
+  hope:0.42
+  attention:0.42
+  gains:0.42
+  deserves:0.41
+  hansa:0.38
+  payment system impossible vendors:0.35
+  vendors:0.35
+  hansa darknet:0.35
+
+Topic 2:
+  love avengers:2.30
+  love:1.97
+  rr:1.96
+  avengersmkt:1.95
+  onion:1.95
+  bitcoins:1.21
+  coinbase:0.82
+  don:0.82
+  impossible bitcoin:0.82
+  vendors love:0.82
+
+Topic 3:
+  site staff:0.71
+  bitcoins:0.59
+  deserves:0.41
+  gains:0.41
+  attention:0.41
+  hope:0.41
+  hansa:0.38
+  coinbases:0.36
+  dont:0.36
+  vendors:0.36
+
+Topic 4:
+  blond:4.22
+  wig:1.83
+  wigs:1.82
+  site staff:1.42
+  address:0.72
+  market main focus restless:0.61
+  coinbases:0.61
+  uptimehansa:0.61
+  bitpays:0.60
+  hansa darknet:0.60
+
+K: 5, Log-Likelihood: -653.086, Alpha: 11.000, Beta: 1.100

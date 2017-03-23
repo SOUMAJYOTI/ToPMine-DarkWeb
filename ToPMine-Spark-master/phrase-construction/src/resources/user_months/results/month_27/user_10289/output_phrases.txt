@@ -1,0 +1,61 @@
+Topic 0:
+  site:2.53
+  market:1.60
+  settings:1.60
+  enable:1.60
+  java:1.60
+  enabled dont:1.60
+  disable javascript:1.60
+  tor browser:1.60
+  today:1.60
+  place:1.60
+
+Topic 1:
+  disable:2.13
+  plugins:1.35
+  script:1.12
+  ami:0.94
+  logo:0.85
+  top:0.84
+  onion:0.84
+  javascript:0.80
+  true:0.79
+  appears:0.78
+
+Topic 2:
+  noscript:2.31
+  websites:2.30
+  intolerable:2.30
+  tails:2.30
+  break:2.30
+  disabling:2.30
+  javascript completely:2.29
+  dont:2.29
+  correct:2.29
+  website:2.29
+
+Topic 3:
+  javascript:4.61
+  tbb:3.41
+  install:3.39
+  flash silverlight:3.37
+  uri:3.36
+  window click:3.35
+  security:3.33
+  blocks:1.62
+  instance:1.62
+  text:1.62
+
+Topic 4:
+  press:3.62
+  scripts:3.62
+  problems:3.53
+  note:1.75
+  dweb:1.75
+  hope:1.75
+  button:1.75
+  flash disable:1.75
+  reb:1.75
+  identity:1.75
+
+K: 5, Log-Likelihood: -1679.423, Alpha: 11.000, Beta: 1.100

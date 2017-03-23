@@ -1,0 +1,61 @@
+Topic 0:
+  security:1.43
+  find:1.40
+  messages:1.38
+  quote:0.95
+  government:0.93
+  adroit:0.91
+  long:0.84
+  march:0.84
+  key:0.83
+  app:0.81
+
+Topic 1:
+  messages:3.12
+  government:1.87
+  bugs:1.68
+  long:1.65
+  app:1.58
+  eyes:1.52
+  usual:1.37
+  spouse:1.34
+  organization:1.32
+  rival:1.31
+
+Topic 2:
+  security:1.46
+  find:1.37
+  messages:1.26
+  quote:0.98
+  government:0.88
+  apg:0.85
+  adroit:0.85
+  key:0.84
+  app:0.83
+  long:0.83
+
+Topic 3:
+  messages:1.52
+  find:1.24
+  security:1.16
+  adroit:0.93
+  app:0.92
+  quote:0.89
+  long:0.88
+  key:0.87
+  government:0.82
+  boss:0.77
+
+Topic 4:
+  messages:3.72
+  government:2.50
+  bugs:2.03
+  app:1.85
+  long:1.79
+  depends:1.63
+  organization:1.62
+  decrypting:1.62
+  boss:1.61
+  usual:1.59
+
+K: 5, Log-Likelihood: -1215.444, Alpha: 11.000, Beta: 1.100

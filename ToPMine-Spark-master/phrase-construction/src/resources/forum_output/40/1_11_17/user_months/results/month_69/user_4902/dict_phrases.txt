@@ -1,0 +1,12 @@
+lot,0,1
+small,1,1
+postage,2,2
+freaked,3,1
+package,4,1
+cents,5,1
+brave,6,1
+collected,7,1
+yeah,8,1
+dont,9,1
+wow,10,1
+woulda,11,1

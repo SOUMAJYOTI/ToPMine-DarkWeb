@@ -1,0 +1,61 @@
+Topic 0:
+  bug:15.04
+  tor:13.20
+  browser:12.25
+  release:11.29
+  disable:9.20
+  update:6.75
+  firefox:6.38
+  users:6.19
+  updates:5.97
+  whitelist:5.10
+
+Topic 1:
+  notice:14.99
+  tor:14.10
+  xxx:11.99
+  network:9.52
+  directory:8.56
+  connection:8.25
+  bridges:6.99
+  browser:5.95
+  download:5.94
+  warn:4.99
+
+Topic 2:
+  tails:15.13
+  data:6.06
+  update:5.93
+  october:5.51
+  tablets:5.22
+  time:4.96
+  persistent:4.86
+  quote:4.82
+  packages:3.92
+  simply:3.92
+
+Topic 3:
+  bug:20.75
+  browser:8.78
+  tor:8.63
+  tails:5.24
+  firefox:4.58
+  mac:4.40
+  plate:4.14
+  esr:3.87
+  version:3.52
+  address:3.22
+
+Topic 4:
+  ecc:13.97
+  asa:9.99
+  computing:8.87
+  green:7.99
+  nsa:7.99
+  curve:7.99
+  ecliptics:7.99
+  quantum:7.92
+  advances:6.97
+  quartus:6.58
+
+K: 5, Log-Likelihood: -10919.404, Alpha: 11.000, Beta: 1.100

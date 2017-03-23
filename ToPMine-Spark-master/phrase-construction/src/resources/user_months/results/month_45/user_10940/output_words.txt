@@ -1,0 +1,61 @@
+Topic 0:
+  malware:9.85
+  tor:8.35
+  node:7.44
+  hidden:5.55
+  exit:5.06
+  nodes:4.34
+  urls:4.28
+  visiting:4.15
+  request:4.11
+  browser:3.95
+
+Topic 1:
+  sites:4.01
+  bit:3.87
+  days:2.89
+  nasty:2.89
+  teach:2.88
+  hard:2.79
+  point:2.68
+  good:2.33
+  security:1.91
+  guess:1.91
+
+Topic 2:
+  tsc:4.35
+  quote:2.68
+  mother:2.54
+  cryptostorm:2.53
+  based:2.40
+  fud:2.32
+  exit:1.81
+  april:1.71
+  zaphod:1.63
+  sound:1.60
+
+Topic 3:
+  users:10.76
+  download:9.88
+  agora:8.80
+  time:5.94
+  phones:5.94
+  file:5.17
+  error:4.74
+  people:4.60
+  server:4.24
+  throwing:3.94
+
+Topic 4:
+  machine:6.97
+  disk:5.97
+  tor:4.22
+  windows:3.88
+  machines:3.80
+  drive:3.17
+  tails:2.97
+  behaviour:2.97
+  strange:2.97
+  written:2.97
+
+K: 5, Log-Likelihood: -4850.064, Alpha: 11.000, Beta: 1.100

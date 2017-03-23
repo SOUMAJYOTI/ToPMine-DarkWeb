@@ -1,0 +1,61 @@
+Topic 0:
+  lb:4.91
+  quote:4.75
+  circuit ip havent flagged:4.51
+  javascript continually refresh tor:4.51
+  cloudflare:4.25
+  worse:4.22
+  gaia:3.76
+  settings:3.72
+  robot:3.72
+  standard:3.72
+
+Topic 1:
+  deposit address copy:8.39
+  time valid deposited safely:5.39
+  main concern:4.81
+  tor spoiled deposit address:4.81
+  sniff password tor:4.39
+  text file grab:4.25
+  tor identity login:4.22
+  log completely separate tor:3.75
+  circuits find address:3.75
+  issues login normal tor:3.75
+
+Topic 2:
+  future:2.93
+  history:2.31
+  asa:2.31
+  ten:2.31
+  weaken:2.31
+  moles:2.31
+  product:2.31
+  snowden:2.31
+  herbanlegends:2.31
+  lbtc:2.31
+
+Topic 3:
+  buying:7.01
+  safer:4.66
+  learned:4.66
+  secure:4.66
+  enable js:3.34
+  js:3.31
+  tor deposit address copy:2.49
+  tor circuits find address:2.47
+  amquote:2.45
+  double:2.44
+
+Topic 4:
+  people:5.78
+  clearnet:5.73
+  generally:4.87
+  opsec club:4.84
+  log:4.38
+  bitcoin:3.76
+  rule:2.67
+  quote herbanlegends october:2.67
+  dangerous:2.39
+  options:2.39
+
+K: 5, Log-Likelihood: -4006.306, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:2.91
+  coins:1.95
+  send:1.65
+  local:1.52
+  bitcoins:1.17
+  bitcoin:1.15
+  coin:1.02
+  tor:0.99
+  email:0.77
+  read:0.70
+
+Topic 1:
+  btc:3.65
+  dirty:1.71
+  buy:1.71
+  year:1.71
+  cats:1.71
+  libertyx:1.71
+  lbc:1.57
+  satoshis:0.76
+  joints:0.76
+  offer:0.76
+
+Topic 2:
+  wallet:5.93
+  bitcoins:3.40
+  send:3.13
+  local:2.60
+  coins:2.29
+  bitcoin:2.06
+  email:1.42
+  coin:0.94
+  tor:0.82
+  looked:0.69
+
+Topic 3:
+  mixer:1.16
+  btc:1.13
+  lbc:0.66
+  exit:0.63
+  plenty:0.63
+  taint:0.63
+  logins:0.63
+  nodes:0.63
+  free:0.63
+  lbtc:0.63
+
+Topic 4:
+  wallet:5.97
+  send:4.04
+  local:3.69
+  bitcoins:3.24
+  bitcoin:2.62
+  coins:2.09
+  email:1.65
+  coin:1.14
+  likelihood:0.73
+  today:0.72
+
+K: 5, Log-Likelihood: -895.890, Alpha: 11.000, Beta: 1.100

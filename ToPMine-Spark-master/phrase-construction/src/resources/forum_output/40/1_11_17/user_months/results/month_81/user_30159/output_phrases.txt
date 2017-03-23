@@ -1,0 +1,61 @@
+Topic 0:
+  potency:0.00
+  medical:0.00
+  tested:0.00
+  prepared:0.00
+  marketplaces:0.00
+  darknet:0.00
+  experience:0.00
+  years:0.00
+  required:0.00
+  reliable:0.00
+
+Topic 1:
+  potency:0.00
+  medical:0.00
+  tested:0.00
+  prepared:0.00
+  marketplaces:0.00
+  darknet:0.00
+  experience:0.00
+  years:0.00
+  required:0.00
+  reliable:0.00
+
+Topic 2:
+  potency:0.00
+  medical:0.00
+  tested:0.00
+  prepared:0.00
+  marketplaces:0.00
+  darknet:0.00
+  experience:0.00
+  years:0.00
+  required:0.00
+  reliable:0.00
+
+Topic 3:
+  potency:0.00
+  medical:0.00
+  tested:0.00
+  prepared:0.00
+  marketplaces:0.00
+  darknet:0.00
+  experience:0.00
+  years:0.00
+  required:0.00
+  reliable:0.00
+
+Topic 4:
+  potency:0.00
+  medical:0.00
+  tested:0.00
+  prepared:0.00
+  marketplaces:0.00
+  darknet:0.00
+  experience:0.00
+  years:0.00
+  required:0.00
+  reliable:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

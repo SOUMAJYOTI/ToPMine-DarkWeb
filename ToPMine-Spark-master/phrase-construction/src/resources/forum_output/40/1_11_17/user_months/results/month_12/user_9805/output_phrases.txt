@@ -1,0 +1,61 @@
+Topic 0:
+  benzo:0.24
+  time:0.16
+  effects:0.16
+  side:0.16
+  traumas:0.16
+  lsd:0.16
+  valium:0.16
+  xanax:0.16
+  stomach:0.16
+  talking:0.08
+
+Topic 1:
+  benzo:0.24
+  xanax:0.16
+  stomach:0.16
+  valium:0.16
+  traumas:0.16
+  lsd:0.16
+  effects:0.16
+  time:0.16
+  side:0.16
+  trips:0.08
+
+Topic 2:
+  benzo:0.24
+  valium:0.16
+  stomach:0.16
+  xanax:0.16
+  side:0.16
+  lsd:0.16
+  effects:0.16
+  traumas:0.16
+  time:0.16
+  acid:0.08
+
+Topic 3:
+  benzo:0.24
+  stomach:0.16
+  xanax:0.16
+  valium:0.16
+  side:0.16
+  time:0.16
+  lsd:0.16
+  effects:0.16
+  traumas:0.16
+  literature:0.08
+
+Topic 4:
+  benzo:0.24
+  traumas:0.16
+  lsd:0.16
+  effects:0.16
+  time:0.16
+  side:0.16
+  valium:0.16
+  xanax:0.16
+  stomach:0.16
+  molecular:0.08
+
+K: 5, Log-Likelihood: -162.582, Alpha: 11.000, Beta: 1.100

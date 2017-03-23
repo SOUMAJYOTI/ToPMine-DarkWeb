@@ -1,0 +1,61 @@
+Topic 0:
+  os:0.66
+  great:0.55
+  box:0.50
+  vm:0.41
+  contacts:0.40
+  spawn:0.40
+  buy:0.40
+  maintaining:0.38
+  options:0.38
+  systems:0.38
+
+Topic 1:
+  great:0.86
+  options:0.57
+  people:0.51
+  security:0.50
+  secure:0.50
+  os:0.46
+  set:0.42
+  maintaining:0.39
+  systems:0.39
+  box:0.35
+
+Topic 2:
+  buy:1.15
+  spawn:1.15
+  contacts:1.14
+  vm:1.14
+  os:0.97
+  box:0.49
+  cash:0.46
+  easy:0.46
+  private:0.46
+  designed:0.46
+
+Topic 3:
+  great:0.88
+  options:0.57
+  os:0.50
+  box:0.49
+  systems:0.35
+  maintaining:0.35
+  secure:0.33
+  security:0.32
+  people:0.31
+  vpns:0.28
+
+Topic 4:
+  set:2.23
+  people:0.84
+  secure:0.84
+  security:0.84
+  factors:0.55
+  vulnerable:0.55
+  vitally:0.55
+  implement:0.55
+  youve:0.55
+  day:0.55
+
+K: 5, Log-Likelihood: -650.280, Alpha: 11.000, Beta: 1.100

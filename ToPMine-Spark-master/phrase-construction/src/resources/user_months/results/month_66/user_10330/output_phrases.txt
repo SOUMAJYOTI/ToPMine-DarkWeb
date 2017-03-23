@@ -1,0 +1,61 @@
+Topic 0:
+  protonmail:12.21
+  network:7.32
+  quote:7.29
+  israel firm:6.93
+  tickets tomorrow long live:5.11
+  cirrus:5.11
+  tel:4.88
+  address:4.88
+  habarzel:4.88
+  rwhois:4.88
+
+Topic 1:
+  javascript:4.87
+  crash:4.87
+  exploitable:4.87
+  high security:4.87
+  quartus:4.85
+  tor browser:4.74
+  tails:4.32
+  tor browser tor browser:4.13
+  level:4.12
+  numerous:4.05
+
+Topic 2:
+  alford:53.73
+  silk road:41.51
+  agents:24.42
+  dread pirate roberts:17.09
+  investigation:17.09
+  turner:12.21
+  case:11.65
+  ross ulbricht:9.76
+  san francisco:9.76
+  ulbricht:9.76
+
+Topic 3:
+  bug:30.46
+  tor browser:24.99
+  tor:14.24
+  tails:11.37
+  gnome shell:9.76
+  font:9.76
+  system fonts:7.32
+  bug plate:7.32
+  bug add:7.32
+  desktop environment:7.32
+
+Topic 4:
+  microsoft:46.40
+  recovery key:29.30
+  microsoft account:26.86
+  disk encryption:24.42
+  encryption:17.09
+  disk:14.65
+  device encryption:14.65
+  computer:14.32
+  pro enterprise:12.21
+  recovery key microsoft:12.21
+
+K: 5, Log-Likelihood: -34068.777, Alpha: 11.000, Beta: 1.100

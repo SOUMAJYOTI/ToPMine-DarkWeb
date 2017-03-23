@@ -1,0 +1,61 @@
+Topic 0:
+  physical isolation:0.46
+  virtual machines:0.41
+  transparent proxying:0.41
+  vulnerability:0.41
+  virtual isolation:0.34
+  tor:0.34
+  virtual machine:0.34
+  dont:0.29
+  raspberry:0.28
+  applications:0.28
+
+Topic 1:
+  physical isolation:0.47
+  transparent proxying:0.43
+  vulnerability:0.43
+  virtual machines:0.42
+  virtual machine:0.35
+  virtual isolation:0.35
+  tor:0.35
+  rotating:0.28
+  patched:0.28
+  boxes:0.28
+
+Topic 2:
+  physical isolation:0.46
+  virtual machines:0.43
+  transparent proxying:0.43
+  vulnerability:0.42
+  tor:0.35
+  virtual machine:0.35
+  virtual isolation:0.35
+  patched:0.28
+  door:0.28
+  application:0.28
+
+Topic 3:
+  physical isolation:0.46
+  vulnerability:0.41
+  virtual machines:0.41
+  transparent proxying:0.40
+  virtual isolation:0.34
+  virtual machine:0.34
+  tor:0.34
+  dont:0.29
+  computer:0.27
+  reason:0.27
+
+Topic 4:
+  physical isolation:0.46
+  vulnerability:0.42
+  transparent proxying:0.41
+  virtual machines:0.41
+  tor:0.35
+  virtual machine:0.35
+  virtual isolation:0.34
+  traffic:0.28
+  doesnt:0.28
+  time:0.28
+
+K: 5, Log-Likelihood: -556.363, Alpha: 11.000, Beta: 1.100

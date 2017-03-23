@@ -1,0 +1,61 @@
+Topic 0:
+  windows:3.93
+  running:3.93
+  understanding vm:3.93
+  reason trust:3.93
+  free:3.93
+  safe tails:3.93
+  question isp:3.93
+  watching:3.93
+  doesnt:3.93
+  backdoors:3.93
+
+Topic 1:
+  interest:7.91
+  programming language:7.91
+  poor:3.93
+  provider:3.93
+  explanation:3.93
+  programs:3.93
+  condone:3.93
+  hides:3.93
+  cracking:3.93
+  hidden:3.93
+
+Topic 2:
+  safe:8.73
+  crack wifi:6.72
+  browse dn:5.76
+  burning:3.87
+  immagine people:3.87
+  access:3.87
+  step:3.87
+  mac:3.87
+  purchases:3.87
+  point:3.87
+
+Topic 3:
+  order:5.93
+  coins:4.87
+  buy:4.17
+  ulbricht:3.94
+  grabbed:3.94
+  ordering:3.94
+  burner:3.94
+  watched:3.94
+  leaving:3.94
+  dreadfully:3.94
+
+Topic 4:
+  tor:6.05
+  easy:4.77
+  identifying:3.92
+  discriminating:3.92
+  spoofing:3.92
+  security send:3.92
+  board:3.92
+  default:3.92
+  dn tails usb:3.92
+  worried:3.92
+
+K: 5, Log-Likelihood: -5724.843, Alpha: 11.000, Beta: 1.100

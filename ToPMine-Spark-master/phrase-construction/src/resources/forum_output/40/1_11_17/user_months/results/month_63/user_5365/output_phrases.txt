@@ -1,0 +1,61 @@
+Topic 0:
+  seller:0.00
+  internal:0.00
+  deposited:0.00
+  onion:0.00
+  frequent:0.00
+  qrdpvonwwqnic:0.00
+  darknet:0.00
+  protection:0.00
+  platform:0.00
+  products:0.00
+
+Topic 1:
+  seller:0.00
+  internal:0.00
+  deposited:0.00
+  onion:0.00
+  frequent:0.00
+  qrdpvonwwqnic:0.00
+  darknet:0.00
+  protection:0.00
+  platform:0.00
+  products:0.00
+
+Topic 2:
+  seller:0.00
+  internal:0.00
+  deposited:0.00
+  onion:0.00
+  frequent:0.00
+  qrdpvonwwqnic:0.00
+  darknet:0.00
+  protection:0.00
+  platform:0.00
+  products:0.00
+
+Topic 3:
+  seller:0.00
+  internal:0.00
+  deposited:0.00
+  onion:0.00
+  frequent:0.00
+  qrdpvonwwqnic:0.00
+  darknet:0.00
+  protection:0.00
+  platform:0.00
+  products:0.00
+
+Topic 4:
+  seller:0.00
+  internal:0.00
+  deposited:0.00
+  onion:0.00
+  frequent:0.00
+  qrdpvonwwqnic:0.00
+  darknet:0.00
+  protection:0.00
+  platform:0.00
+  products:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

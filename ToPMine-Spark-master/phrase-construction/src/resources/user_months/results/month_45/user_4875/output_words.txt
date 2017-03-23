@@ -1,0 +1,61 @@
+Topic 0:
+  pay:3.30
+  shield:2.47
+  darknet:2.01
+  address:1.41
+  coins:1.39
+  mixed:0.96
+  luc:0.92
+  sigaint:0.82
+  amount:0.79
+  service:0.77
+
+Topic 1:
+  sigaint:8.25
+  signed:5.52
+  email:5.52
+  signature:5.49
+  pgp:5.45
+  service:5.18
+  pay:4.82
+  darknet:4.72
+  ll:3.65
+  shield:3.29
+
+Topic 2:
+  send:9.08
+  pay:6.51
+  coins:6.12
+  amount:5.83
+  helix:4.97
+  version:4.97
+  bitblender:4.73
+  btc:4.38
+  fee:4.34
+  light:3.97
+
+Topic 3:
+  pay:29.65
+  shield:23.74
+  btc:23.67
+  vendor:8.93
+  send:6.68
+  address:6.03
+  refresh:5.93
+  status:5.51
+  told:5.51
+  minutes:3.99
+
+Topic 4:
+  pay:7.72
+  shield:7.49
+  address:7.48
+  coins:5.89
+  wallet:3.95
+  time:3.80
+  mix:3.75
+  mixed:3.74
+  read:2.78
+  problems:2.40
+
+K: 5, Log-Likelihood: -5574.429, Alpha: 11.000, Beta: 1.100

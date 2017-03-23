@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:3.93
+  address:3.60
+  links:2.64
+  account:2.14
+  money:2.08
+  abraxas:1.99
+  deposit:1.87
+  phishing:1.69
+  blockchain:1.58
+  strange:1.34
+
+Topic 1:
+  wallet:5.84
+  referred:3.01
+  funds:2.94
+  time:1.82
+  receive:1.75
+  people:1.72
+  online:1.72
+  terms:1.37
+  laban:1.36
+  change:1.36
+
+Topic 2:
+  wallet:1.94
+  address:1.56
+  links:1.37
+  abraxas:1.20
+  coin:1.14
+  dont:1.13
+  favor:1.13
+  addy:1.13
+  gathered:1.13
+  connects:1.13
+
+Topic 3:
+  links:4.52
+  wallet:4.24
+  address:3.55
+  money:3.44
+  account:3.08
+  blockchain:2.50
+  deposit:2.49
+  september:2.31
+  abraxas:1.76
+  strange:1.58
+
+Topic 4:
+  links:4.88
+  address:4.24
+  wallet:4.06
+  blockchain:3.53
+  money:2.84
+  account:2.73
+  september:2.19
+  deposit:1.97
+  billyking:1.70
+  abraxas:1.51
+
+K: 5, Log-Likelihood: -1544.782, Alpha: 11.000, Beta: 1.100

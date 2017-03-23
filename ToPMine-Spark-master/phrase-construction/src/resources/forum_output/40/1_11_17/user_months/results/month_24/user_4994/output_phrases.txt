@@ -1,0 +1,61 @@
+Topic 0:
+  sample:0.28
+  weekly:0.14
+  find:0.14
+  qp:0.14
+  guys:0.14
+  lot:0.14
+  wanted:0.14
+  people:0.14
+  deal:0.14
+  eve:0.14
+
+Topic 1:
+  sample:0.28
+  white:0.14
+  yellow:0.14
+  markets:0.14
+  find:0.14
+  hey:0.14
+  wanted:0.14
+  hand:0.14
+  oz:0.14
+  pm:0.14
+
+Topic 2:
+  sample:0.28
+  store:0.14
+  great:0.14
+  people:0.14
+  guys:0.14
+  oz:0.14
+  hand:0.14
+  deal:0.14
+  hey:0.14
+  eve:0.14
+
+Topic 3:
+  sample:0.28
+  white:0.14
+  yellow:0.14
+  markets:0.14
+  love:0.14
+  basis:0.14
+  pm:0.14
+  lot:0.14
+  guys:0.14
+  weekly:0.14
+
+Topic 4:
+  sample:0.28
+  wanted:0.14
+  basis:0.14
+  love:0.14
+  store:0.14
+  hey:0.14
+  qp:0.14
+  people:0.14
+  pm:0.14
+  lot:0.14
+
+K: 5, Log-Likelihood: -46.501, Alpha: 11.000, Beta: 1.100

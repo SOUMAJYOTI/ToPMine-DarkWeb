@@ -1,0 +1,20 @@
+private,0,1
+keys,1,1
+keynameto,2,1
+secret,3,1
+command,4,1
+keynamespitfire,5,1
+gpg export,6,3
+key gpg,7,2
+asc,8,2
+extract,9,1
+armor,10,1
+file,11,2
+applies,12,1
+public,13,1
+easiest,14,1
+versions,15,1
+pgp,16,1
+export,17,4
+key,18,3
+gpg,19,3

@@ -1,0 +1,61 @@
+Topic 0:
+  respect:0.16
+  shop:0.08
+  irrelevant:0.08
+  preventing:0.08
+  intentionally:0.08
+  mouth:0.08
+  keeping:0.08
+  leaders:0.08
+  pretty:0.08
+  tremendously:0.08
+
+Topic 1:
+  respect:0.16
+  botnets:0.08
+  thread:0.08
+  subforum:0.08
+  rest:0.08
+  single:0.08
+  lesson:0.08
+  hilarity:0.08
+  post:0.08
+  deleting:0.08
+
+Topic 2:
+  respect:0.16
+  evo:0.08
+  discouraged:0.08
+  learned:0.08
+  personally:0.08
+  read:0.08
+  acknowledge:0.08
+  lesson:0.08
+  evolution:0.08
+  single:0.08
+
+Topic 3:
+  respect:0.16
+  obvious:0.08
+  dick:0.08
+  entices:0.08
+  keeping:0.08
+  preventing:0.08
+  pretty:0.08
+  asked:0.08
+  shop:0.08
+  intentionally:0.08
+
+Topic 4:
+  respect:0.16
+  single:0.08
+  assured:0.08
+  trolling:0.08
+  totally:0.08
+  learned:0.08
+  post:0.08
+  posts:0.08
+  havent:0.08
+  hilarity:0.08
+
+K: 5, Log-Likelihood: -61.209, Alpha: 11.000, Beta: 1.100

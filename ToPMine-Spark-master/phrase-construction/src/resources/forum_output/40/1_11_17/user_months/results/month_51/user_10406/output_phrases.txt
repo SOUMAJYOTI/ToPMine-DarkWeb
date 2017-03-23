@@ -1,0 +1,61 @@
+Topic 0:
+  grateful:5.50
+  hivemind:3.59
+  august:3.33
+  club night told:3.05
+  tor browser bundle tails:3.04
+  gentleman literally notebook started:3.04
+  write:2.73
+  pallidpallas:2.69
+  mind:2.69
+  teeheeand:2.69
+
+Topic 1:
+  windows:2.70
+  data:1.47
+  os:1.45
+  traffic:1.40
+  footprintpredict:1.37
+  ms:1.18
+  cortana:1.18
+  microsoft:1.09
+  comi services social microsoft:0.92
+  text:0.91
+
+Topic 2:
+  windows:2.22
+  os:2.02
+  microsoft:1.86
+  keylogger:1.31
+  turned:0.99
+  collection:0.86
+  pops:0.83
+  dont:0.81
+  traffic:0.67
+  thought mindblowing civilian:0.63
+
+Topic 3:
+  telemetry microsoft:14.03
+  footprintpredict:5.98
+  data:5.89
+  comoca telemetry microsoft nsatc:4.83
+  netvortex sandbox data microsoft:4.76
+  purpose:4.69
+  telemetry:4.64
+  comreports wes:4.59
+  comi services social microsoft:4.56
+  traffic:3.05
+
+Topic 4:
+  settings:2.87
+  sending data:2.38
+  supposed prevented disabling settings:2.35
+  keylogging meant controlled send:2.32
+  info write improve typing:2.30
+  writing future option opt:2.28
+  dn:1.79
+  eye:1.73
+  flowing:1.73
+  average:1.73
+
+K: 5, Log-Likelihood: -3825.591, Alpha: 11.000, Beta: 1.100

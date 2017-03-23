@@ -1,0 +1,61 @@
+Topic 0:
+  dont:0.23
+  lsd:0.14
+  avengers:0.14
+  forums:0.14
+  list:0.14
+  bad:0.14
+  sections:0.14
+  trustworthy:0.14
+  btci:0.12
+  moneypaktobitcoin:0.12
+
+Topic 1:
+  dont:0.23
+  sections:0.14
+  forums:0.14
+  trustworthy:0.14
+  bad:0.14
+  lsd:0.14
+  list:0.14
+  avengers:0.14
+  things:0.12
+  problem:0.12
+
+Topic 2:
+  dont:0.23
+  avengers:0.14
+  lsd:0.14
+  list:0.14
+  sections:0.14
+  bad:0.14
+  forums:0.14
+  trustworthy:0.14
+  peoples:0.12
+  easy:0.12
+
+Topic 3:
+  dont:0.23
+  trustworthy:0.14
+  sections:0.14
+  bad:0.14
+  forums:0.14
+  avengers:0.14
+  list:0.14
+  lsd:0.14
+  talk:0.12
+  prepaid:0.12
+
+Topic 4:
+  dont:0.23
+  list:0.14
+  forums:0.14
+  bad:0.14
+  trustworthy:0.14
+  lsd:0.14
+  sections:0.14
+  avengers:0.14
+  true:0.12
+  smartest:0.12
+
+K: 5, Log-Likelihood: -66.125, Alpha: 11.000, Beta: 1.100

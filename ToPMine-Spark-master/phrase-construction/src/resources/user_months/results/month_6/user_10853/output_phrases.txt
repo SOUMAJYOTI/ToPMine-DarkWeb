@@ -1,0 +1,61 @@
+Topic 0:
+  brands:3.13
+  ram:2.66
+  keys:2.61
+  variance:1.52
+  laptops:1.52
+  choose:1.52
+  dump:1.52
+  stores:1.52
+  modern:1.52
+  registers:1.52
+
+Topic 1:
+  physical:3.15
+  random:3.15
+  breaking encryption mathematical route:1.71
+  pmi:1.71
+  modern crypto extremely secure:1.71
+  thing:1.55
+  attackers:1.55
+  public:1.55
+  force:1.55
+  wifi:1.55
+
+Topic 2:
+  computer shut:3.37
+  cold boot:3.37
+  em:2.92
+  usb:2.13
+  mounted:2.13
+  features:2.13
+  backups:2.13
+  removed:2.13
+  nicer:2.13
+  dvd:2.13
+
+Topic 3:
+  enabled:1.55
+  reference:1.55
+  shouldnt:1.55
+  dig:1.55
+  heartbeat:1.55
+  write:1.55
+  storage:1.55
+  control:1.55
+  concerned:1.55
+  damage:1.55
+
+Topic 4:
+  full disk encryption:3.48
+  linus:2.80
+  everyonei:2.26
+  le:2.26
+  provided:2.26
+  encrypted:2.26
+  tool:2.26
+  surely:2.26
+  havent:2.26
+  linus encryption:2.26
+
+K: 5, Log-Likelihood: -1790.107, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  captain:0.14
+  reading:0.14
+  work:0.14
+  consecutive:0.14
+  balance:0.14
+  deposits:0.14
+  sake:0.14
+  worked:0.14
+  luck:0.14
+  point:0.14
+
+Topic 1:
+  administrators:0.14
+  good:0.14
+  start:0.14
+  vending:0.14
+  signed:0.14
+  suport:0.14
+  day:0.14
+  ago:0.14
+  respnse:0.14
+  wrote:0.14
+
+Topic 2:
+  stuck:0.14
+  today:0.14
+  problem:0.14
+  point:0.14
+  kaptini:0.14
+  deposit:0.14
+  fixing:0.14
+  unconformed:0.14
+  reading:0.14
+  deposits:0.14
+
+Topic 3:
+  suport:0.14
+  message:0.14
+  wrote:0.14
+  start:0.14
+  day:0.14
+  good:0.14
+  vending:0.14
+  respnse:0.14
+  administrators:0.14
+  ago:0.14
+
+Topic 4:
+  signed:0.14
+  respnse:0.14
+  wrote:0.14
+  ago:0.14
+  day:0.14
+  good:0.14
+  vending:0.14
+  start:0.14
+  administrators:0.14
+  message:0.14
+
+K: 5, Log-Likelihood: -104.645, Alpha: 11.000, Beta: 1.100

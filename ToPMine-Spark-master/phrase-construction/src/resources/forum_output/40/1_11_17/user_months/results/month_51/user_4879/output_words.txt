@@ -1,0 +1,61 @@
+Topic 0:
+  hope:0.70
+  nucleus:0.58
+  btc:0.51
+  account:0.51
+  funds:0.50
+  balance:0.50
+  wallet:0.50
+  july:0.34
+  stating:0.34
+  dardush:0.34
+
+Topic 1:
+  hope:0.96
+  nucleus:0.60
+  update:0.47
+  server:0.47
+  quote:0.47
+  turned:0.47
+  problem:0.47
+  dardush:0.47
+  resolve:0.47
+  arc:0.47
+
+Topic 2:
+  hope:0.70
+  nucleus:0.59
+  account:0.49
+  balance:0.49
+  wallet:0.48
+  funds:0.48
+  btc:0.48
+  july:0.35
+  investigating:0.35
+  admin:0.35
+
+Topic 3:
+  hope:0.87
+  nucleus:0.62
+  temporarily:0.46
+  responded:0.46
+  admin:0.46
+  investigating:0.46
+  problem:0.46
+  july:0.46
+  server:0.46
+  quote:0.46
+
+Topic 4:
+  hope:0.76
+  nucleus:0.61
+  wallet:0.42
+  funds:0.41
+  balance:0.41
+  btc:0.41
+  account:0.41
+  responded:0.39
+  dardush:0.39
+  resolve:0.39
+
+K: 5, Log-Likelihood: -230.962, Alpha: 11.000, Beta: 1.100

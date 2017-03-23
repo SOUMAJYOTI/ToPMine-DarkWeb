@@ -1,0 +1,61 @@
+Topic 0:
+  judge:1.81
+  fbi:1.75
+  vulnerability:1.51
+  mozilla:1.41
+  case:1.29
+  hack:1.19
+  michaud:0.96
+  government:0.78
+  issue:0.75
+  users:0.75
+
+Topic 1:
+  mozilla:2.70
+  vulnerability:2.21
+  judge:2.03
+  case:1.59
+  fbi:1.34
+  hack:1.31
+  michaud:0.88
+  bryan:0.86
+  prosecutors:0.84
+  wrote:0.82
+
+Topic 2:
+  judge:3.38
+  mozilla:2.89
+  vulnerability:2.36
+  fbi:2.18
+  case:1.84
+  hack:1.80
+  michaud:1.03
+  security:0.93
+  disclose:0.92
+  bryan:0.91
+
+Topic 3:
+  judge:2.46
+  fbi:1.86
+  case:1.85
+  vulnerability:1.65
+  mozilla:1.64
+  hack:1.39
+  michaud:1.17
+  evidence:0.87
+  child:0.83
+  brian:0.80
+
+Topic 4:
+  mozilla:2.36
+  judge:2.33
+  vulnerability:2.27
+  fbi:1.86
+  case:1.43
+  hack:1.30
+  michaud:0.96
+  code:0.90
+  prosecutors:0.89
+  obi:0.89
+
+K: 5, Log-Likelihood: -1700.588, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  continuity character:0.38
+  useless:0.26
+  seller:0.26
+  changing:0.26
+  operation:0.26
+  weeks:0.26
+  years:0.26
+  trust:0.26
+  finding:0.26
+  reputation:0.26
+
+Topic 1:
+  continuity character:0.45
+  identity:0.29
+  seller:0.29
+  operation:0.29
+  changing:0.29
+  trust:0.29
+  buyers:0.29
+  reputation:0.29
+  years:0.29
+  useless:0.29
+
+Topic 2:
+  continuity character:0.43
+  buyers:0.28
+  reputation:0.28
+  changing:0.28
+  weeks:0.28
+  finding:0.28
+  trust:0.28
+  operation:0.28
+  years:0.28
+  seller:0.28
+
+Topic 3:
+  continuity character:0.41
+  reputation:0.28
+  finding:0.28
+  identity:0.28
+  trust:0.28
+  years:0.28
+  buyers:0.28
+  operation:0.27
+  seller:0.27
+  weeks:0.27
+
+Topic 4:
+  continuity character:0.41
+  weeks:0.28
+  years:0.28
+  identity:0.28
+  finding:0.28
+  useless:0.28
+  trust:0.28
+  changing:0.28
+  seller:0.28
+  operation:0.28
+
+K: 5, Log-Likelihood: -462.589, Alpha: 11.000, Beta: 1.100

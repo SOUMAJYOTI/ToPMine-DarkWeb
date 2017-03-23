@@ -1,0 +1,61 @@
+Topic 0:
+  post:0.08
+  aare:0.08
+  vets:0.08
+  features:0.08
+  man:0.08
+  pretty:0.08
+  questions:0.08
+  family:0.08
+  luck:0.08
+  bother:0.08
+
+Topic 1:
+  questions:0.08
+  vets:0.08
+  features:0.08
+  pretty:0.08
+  rc:0.08
+  post:0.08
+  aare:0.08
+  dont:0.08
+  bother:0.08
+  jab:0.08
+
+Topic 2:
+  market:0.08
+  family:0.08
+  bother:0.08
+  intended:0.08
+  jab:0.08
+  dont:0.08
+  post:0.08
+  pretty:0.08
+  questions:0.08
+  luck:0.08
+
+Topic 3:
+  rc:0.08
+  vets:0.08
+  questions:0.08
+  features:0.08
+  aare:0.08
+  post:0.08
+  pretty:0.08
+  dont:0.08
+  luck:0.08
+  man:0.08
+
+Topic 4:
+  market:0.08
+  family:0.08
+  jab:0.08
+  luck:0.08
+  man:0.08
+  bother:0.08
+  intended:0.08
+  dont:0.08
+  aare:0.08
+  rc:0.08
+
+K: 5, Log-Likelihood: -16.902, Alpha: 11.000, Beta: 1.100

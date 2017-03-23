@@ -1,0 +1,61 @@
+Topic 0:
+  secure:0.35
+  le:0.35
+  hidden:0.35
+  february:0.32
+  topic:0.21
+  ilovespaghetti:0.21
+  code:0.21
+  sell:0.21
+  plan:0.21
+  quote:0.21
+
+Topic 1:
+  secure:0.37
+  le:0.37
+  hidden:0.37
+  february:0.31
+  clearnet forum account:0.20
+  human errors ross:0.20
+  quote:0.20
+  code:0.20
+  release:0.20
+  topic team investigation:0.20
+
+Topic 2:
+  le:0.37
+  secure:0.36
+  hidden:0.36
+  february:0.31
+  release:0.20
+  pmlets:0.20
+  sell:0.20
+  source:0.20
+  topic team investigation:0.20
+  quote:0.20
+
+Topic 3:
+  hidden:0.38
+  secure:0.38
+  le:0.38
+  february:0.30
+  clearnet forum account:0.20
+  human errors ross:0.20
+  topic team investigation:0.20
+  quote:0.20
+  plan:0.20
+  source:0.20
+
+Topic 4:
+  le:0.38
+  hidden:0.38
+  secure:0.37
+  february:0.30
+  clearnet forum account:0.20
+  human errors ross:0.20
+  topic team investigation:0.20
+  ilovespaghetti:0.20
+  source:0.20
+  release:0.20
+
+K: 5, Log-Likelihood: -142.603, Alpha: 11.000, Beta: 1.100

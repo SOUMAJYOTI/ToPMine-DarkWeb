@@ -1,0 +1,61 @@
+Topic 0:
+  crypto:2.92
+  market:2.79
+  general:1.77
+  rosakovo:0.76
+  comrades:0.74
+  open:0.74
+  vendors:0.72
+  escrow:0.53
+  days:0.38
+  messages:0.38
+
+Topic 1:
+  crypto:3.01
+  market:2.74
+  general:1.71
+  vendors:0.92
+  comrades:0.91
+  open:0.90
+  rosakovo:0.88
+  escrow:0.49
+  cryptomarket:0.40
+  destructive:0.40
+
+Topic 2:
+  pgp:1.93
+  fa:1.32
+  key:1.28
+  turning:0.94
+  username:0.91
+  invalid:0.89
+  login:0.89
+  pasting:0.87
+  true:0.86
+  market:0.53
+
+Topic 3:
+  pgp:1.93
+  key:1.59
+  fa:1.54
+  true:1.01
+  pasting:1.00
+  login:0.98
+  invalid:0.98
+  username:0.96
+  turning:0.93
+  market:0.53
+
+Topic 4:
+  market:4.41
+  crypto:1.91
+  escrow:0.80
+  stealing:0.55
+  developer:0.55
+  darknetmarkets:0.55
+  reconsider:0.55
+  canaris:0.55
+  involved:0.55
+  people:0.55
+
+K: 5, Log-Likelihood: -703.318, Alpha: 11.000, Beta: 1.100

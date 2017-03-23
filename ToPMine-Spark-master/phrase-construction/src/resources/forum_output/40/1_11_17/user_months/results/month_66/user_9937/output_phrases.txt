@@ -1,0 +1,61 @@
+Topic 0:
+  orange:0.28
+  tea:0.28
+  people:0.28
+  add:0.17
+  juice concentrate:0.17
+  frozen:0.14
+  quicker:0.14
+  acting:0.14
+  making:0.14
+  side:0.14
+
+Topic 1:
+  people:0.28
+  tea:0.28
+  orange:0.28
+  juice concentrate:0.17
+  add:0.17
+  lookup:0.14
+  prefer:0.14
+  stringer:0.14
+  effects:0.14
+  wondering:0.14
+
+Topic 2:
+  people:0.28
+  orange:0.28
+  tea:0.28
+  juice concentrate:0.17
+  add:0.17
+  quicker:0.14
+  bunch:0.14
+  juice:0.14
+  powder:0.14
+  acting:0.14
+
+Topic 3:
+  people:0.28
+  tea:0.28
+  orange:0.28
+  juice concentrate:0.17
+  add:0.17
+  great:0.14
+  filtering:0.14
+  tastes:0.14
+  works:0.14
+  lemontek:0.14
+
+Topic 4:
+  orange:0.28
+  tea:0.28
+  people:0.28
+  add:0.17
+  juice concentrate:0.17
+  great:0.14
+  filtering:0.14
+  works:0.14
+  tastes:0.14
+  lookup:0.14
+
+K: 5, Log-Likelihood: -93.649, Alpha: 11.000, Beta: 1.100

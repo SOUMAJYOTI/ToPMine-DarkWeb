@@ -1,0 +1,61 @@
+Topic 0:
+  country:1.09
+  dish:0.46
+  enter:0.43
+  acid:0.43
+  reason:0.43
+  answered:0.43
+  easy:0.43
+  hiddenwiki:0.43
+  small:0.43
+  lot:0.43
+
+Topic 1:
+  solution:0.78
+  dish:0.53
+  pour:0.52
+  beaker:0.38
+  dip:0.38
+  question:0.38
+  input:0.38
+  buddy:0.38
+  thread:0.38
+  wrong:0.38
+
+Topic 2:
+  solution:0.76
+  dish:0.55
+  pour:0.53
+  beaker:0.38
+  dip:0.38
+  question:0.38
+  wrong:0.38
+  buddy:0.38
+  thread:0.38
+  input:0.38
+
+Topic 3:
+  solution:0.68
+  dish:0.66
+  pour:0.57
+  lay:0.38
+  country:0.37
+  pyrex:0.37
+  dip:0.34
+  beaker:0.34
+  input:0.33
+  thread:0.33
+
+Topic 4:
+  solution:0.74
+  dish:0.59
+  pour:0.56
+  country:0.43
+  lay:0.36
+  pyrex:0.35
+  beaker:0.34
+  dip:0.34
+  input:0.33
+  thread:0.33
+
+K: 5, Log-Likelihood: -345.854, Alpha: 11.000, Beta: 1.100

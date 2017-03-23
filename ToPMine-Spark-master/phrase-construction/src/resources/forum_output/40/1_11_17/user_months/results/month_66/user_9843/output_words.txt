@@ -1,0 +1,61 @@
+Topic 0:
+  lbc:18.62
+  fees:4.63
+  btc:4.33
+  time:3.58
+  btm:3.11
+  coinbase:2.75
+  deal:2.71
+  bank:2.04
+  cash:2.03
+  fee:1.89
+
+Topic 1:
+  btc:26.28
+  seller:17.46
+  lbc:16.73
+  cash:10.68
+  large:5.94
+  things:4.17
+  deposit:4.13
+  receipt:3.94
+  dealer:3.94
+  police:3.94
+
+Topic 2:
+  lbc:9.34
+  atm:8.40
+  fees:7.78
+  sounds:5.90
+  tumbling:4.76
+  depending:4.76
+  percent:4.76
+  combined:4.76
+  bitcoin:4.67
+  trust:4.66
+
+Topic 3:
+  circle:11.76
+  helix:11.29
+  electrum:10.11
+  account:10.08
+  grams:7.32
+  link:5.93
+  coins:5.93
+  btc:5.43
+  luc:5.24
+  pay:4.90
+
+Topic 4:
+  buy:11.92
+  coinbase:7.02
+  bank:6.84
+  bitcoins:6.28
+  bitcoin:6.19
+  day:5.92
+  shit:5.92
+  hassle:5.92
+  linked:5.92
+  absurd:5.92
+
+K: 5, Log-Likelihood: -5077.890, Alpha: 11.000, Beta: 1.100

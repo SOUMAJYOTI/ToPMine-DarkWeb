@@ -1,0 +1,61 @@
+Topic 0:
+  kapteeni:12.08
+  olisi:8.26
+  ett:8.20
+  kun:6.49
+  ja:6.14
+  ss:4.78
+  nain:4.45
+  ne:4.03
+  huolissaan:3.91
+  asiasta:3.89
+
+Topic 1:
+  ja:6.65
+  ei:6.35
+  ett:2.83
+  jo:2.29
+  itsell:2.08
+  jos:2.02
+  jumissa:1.86
+  asiakaspalvelu:1.76
+  iv:1.57
+  rahat:1.53
+
+Topic 2:
+  jos:6.67
+  ei:5.96
+  jo:4.11
+  ja:4.05
+  ongelma:3.53
+  ett:2.56
+  iv:2.52
+  jumissa:1.95
+  finland:1.91
+  ytt:1.87
+
+Topic 3:
+  silkkitie:8.70
+  li:2.83
+  ja:2.80
+  rahat:2.72
+  ei:2.25
+  ihan:1.98
+  vaan:1.96
+  mutta:1.86
+  mik:1.84
+  sr:1.75
+
+Topic 4:
+  kaikki:5.52
+  ja:5.35
+  boston:4.45
+  perille:3.71
+  tehdyt:3.46
+  pv:3.29
+  ei:2.15
+  sis:1.93
+  jos:1.63
+  listaukset:1.57
+
+K: 5, Log-Likelihood: -6695.355, Alpha: 11.000, Beta: 1.100

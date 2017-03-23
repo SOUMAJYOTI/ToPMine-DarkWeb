@@ -1,0 +1,61 @@
+Topic 0:
+  myy:1.02
+  viikkoon:1.02
+  eip:1.02
+  kirjautuneena:1.02
+  tuntuu:1.02
+  eik:1.02
+  hippiespace:1.02
+  yli:1.02
+  kukaan:1.02
+  miinusta:1.02
+
+Topic 1:
+  ja:0.71
+  pulverinoita:0.51
+  sek:0.43
+  ku:0.42
+  viel:0.41
+  tulossa:0.41
+  kautta:0.41
+  ei:0.39
+  iv:0.39
+  euroa:0.38
+
+Topic 2:
+  netin:1.05
+  myyt:1.04
+  kertaa:1.04
+  varma:1.04
+  mutta ll:1.04
+  vapautus:1.04
+  ll viikolla:1.04
+  en:1.04
+  hankittu:1.04
+  ksi lis:1.04
+
+Topic 3:
+  silkkitien:2.04
+  euroa:2.04
+  iv:2.03
+  ei:2.02
+  ku:1.99
+  ja:1.97
+  asiakkaitten:0.90
+  emme:0.90
+  rahaa:0.90
+  perjantaina:0.90
+
+Topic 4:
+  pit:1.23
+  kattelin:1.15
+  rip:1.15
+  kans:1.15
+  tarvi:1.15
+  keen:1.15
+  gramman:1.15
+  joo:1.15
+  reilummin:1.15
+  suurkuluttaja:1.15
+
+K: 5, Log-Likelihood: -1285.570, Alpha: 11.000, Beta: 1.100

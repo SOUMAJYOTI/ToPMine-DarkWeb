@@ -1,0 +1,61 @@
+Topic 0:
+  people:2.63
+  future:2.60
+  time:2.59
+  return:1.08
+  purity:1.08
+  died:1.08
+  highest degree:1.07
+  death:1.07
+  book:1.07
+  work:1.07
+
+Topic 1:
+  synchronicities:0.37
+  higher created:0.36
+  soulder:0.23
+  highest living:0.23
+  monogamous:0.23
+  judge:0.23
+  polygamous:0.23
+  passive:0.23
+  earthly:0.23
+  story feel:0.23
+
+Topic 2:
+  higher created:1.51
+  synchronicities:1.50
+  sway:0.65
+  twisted:0.65
+  loving:0.65
+  person:0.65
+  ale:0.65
+  future question:0.65
+  programmable:0.65
+  cheney:0.65
+
+Topic 3:
+  future:0.71
+  time:0.71
+  people:0.68
+  book:0.43
+  work:0.43
+  highest degree:0.43
+  death:0.43
+  died:0.42
+  return:0.42
+  purity:0.42
+
+Topic 4:
+  time:0.59
+  people:0.58
+  future:0.58
+  work:0.38
+  death:0.38
+  book:0.38
+  highest degree:0.38
+  purity:0.38
+  return:0.37
+  died:0.37
+
+K: 5, Log-Likelihood: -1781.517, Alpha: 11.000, Beta: 1.100

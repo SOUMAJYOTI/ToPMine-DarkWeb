@@ -1,0 +1,61 @@
+Topic 0:
+  vpn:16.51
+  speed:11.18
+  find:9.80
+  anonymous:6.90
+  security:6.24
+  distro:5.08
+  live:4.98
+  tor:4.77
+  connection:4.64
+  setups:4.60
+
+Topic 1:
+  quote:11.69
+  dont:7.09
+  people:6.07
+  april:6.03
+  mistake:5.50
+  person:4.23
+  money:4.06
+  zaphod:3.85
+  tor:3.83
+  tyson:3.77
+
+Topic 2:
+  tor:9.17
+  quote:4.82
+  dont:3.24
+  advice:1.81
+  bonus:1.79
+  beta:1.79
+  bridge:1.79
+  winning:1.79
+  points:1.79
+  wise:1.71
+
+Topic 3:
+  tor:16.58
+  users:11.06
+  law:10.63
+  enforcement:10.62
+  people:7.43
+  child:5.54
+  security:4.98
+  pornography:4.97
+  site:4.97
+  identities:3.97
+
+Topic 4:
+  tor:9.66
+  privacy:5.80
+  time:4.77
+  kids:4.67
+  pedos:4.66
+  niggers:4.64
+  hattin:4.61
+  reason:4.15
+  money:3.95
+  techniques:3.84
+
+K: 5, Log-Likelihood: -7368.923, Alpha: 11.000, Beta: 1.100

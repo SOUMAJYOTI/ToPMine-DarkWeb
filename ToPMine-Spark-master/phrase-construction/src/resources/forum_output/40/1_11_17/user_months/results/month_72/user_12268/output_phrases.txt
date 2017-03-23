@@ -1,0 +1,61 @@
+Topic 0:
+  mit:0.16
+  vaihtopalvelu:0.08
+  ilmoittavat:0.08
+  ll:0.08
+  veroparatiisi:0.08
+  suosittelisitte:0.08
+  nain:0.08
+  ydy:0.08
+  paikan:0.08
+  ettei:0.08
+
+Topic 1:
+  mit:0.16
+  ilman:0.08
+  paikan:0.08
+  sanottu:0.08
+  ilmoittavat:0.08
+  euroiksi:0.08
+  ll:0.08
+  ett:0.08
+  nain:0.08
+  ja:0.08
+
+Topic 2:
+  mit:0.16
+  maassa:0.08
+  tilin:0.08
+  paikan:0.08
+  jotka:0.08
+  ilman:0.08
+  sanottu:0.08
+  yd:0.08
+  nain:0.08
+  euroiksi:0.08
+
+Topic 3:
+  mit:0.16
+  tied:0.08
+  oli:0.08
+  ei:0.08
+  veroparatiisi:0.08
+  ulkomailta:0.08
+  eurooppalaisten:0.08
+  pankkeja:0.08
+  jotka:0.08
+  ettei:0.08
+
+Topic 4:
+  mit:0.16
+  mielest:0.08
+  tilille:0.08
+  paljon:0.08
+  oli:0.08
+  mutta:0.08
+  en:0.08
+  kseen:0.08
+  mun:0.08
+  kun:0.08
+
+K: 5, Log-Likelihood: -83.231, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  nodes:13.75
+  clearnet:13.05
+  service:10.14
+  hidden:9.35
+  connected:6.11
+  le:5.68
+  site:5.16
+  quote:3.58
+  july:3.57
+  sites:3.45
+
+Topic 1:
+  tor:12.83
+  address:5.57
+  users:4.19
+  network:3.12
+  hidden:3.01
+  browser:2.92
+  ip:2.92
+  nsa:2.92
+  road:2.92
+  silk:2.92
+
+Topic 2:
+  books:5.94
+  time:3.84
+  read:3.78
+  dw:3.43
+  le:2.58
+  clearnet:2.17
+  stuff:2.04
+  dont:2.03
+  evilgrin:2.02
+  life:1.94
+
+Topic 3:
+  hidden:6.86
+  tor:6.83
+  onion:3.78
+  address:2.75
+  services:2.10
+  sites:1.65
+  clearnet:1.29
+  site:1.13
+  nodes:1.05
+  hard:1.00
+
+Topic 4:
+  tor:13.72
+  node:9.61
+  relay:7.44
+  data:4.94
+  exit:4.73
+  site:4.00
+  encrypted:2.94
+  services:2.71
+  hidden:2.56
+  unencrypted:1.94
+
+K: 5, Log-Likelihood: -3422.397, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  people:6.27
+  post:5.38
+  place:4.25
+  find:4.08
+  plenty:3.88
+  dnm:3.78
+  posts:2.99
+  subreddit:2.76
+  stuff:2.70
+  trolls:2.20
+
+Topic 1:
+  link:10.63
+  url:7.73
+  market:6.52
+  agora:5.58
+  escrow:4.87
+  agra:4.68
+  add:3.62
+  pishing:3.62
+  ooh:3.58
+  dos:2.88
+
+Topic 2:
+  reddit:11.13
+  people:5.95
+  read:5.03
+  incorporate:3.96
+  decent:3.96
+  media:3.96
+  sites:3.96
+  couple:3.96
+  good:3.39
+  don:3.26
+
+Topic 3:
+  reddit:14.76
+  glad:11.85
+  le:11.85
+  directly:9.86
+  ass:7.71
+  community:7.48
+  drugs:7.38
+  fucking:6.73
+  vendor:6.47
+  place:6.45
+
+Topic 4:
+  time:57.73
+  onion:54.96
+  market:11.67
+  link:7.89
+  uptime:6.96
+  invite:5.96
+  join:5.96
+  register:5.24
+  avengers:3.99
+  havana:3.96
+
+K: 5, Log-Likelihood: -6459.501, Alpha: 11.000, Beta: 1.100

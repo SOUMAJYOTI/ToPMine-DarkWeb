@@ -1,0 +1,61 @@
+Topic 0:
+  hope:0.34
+  things:0.34
+  great:0.33
+  echoes:0.33
+  time:0.33
+  long:0.33
+  brother:0.33
+  convenience:0.27
+  events:0.27
+  packages:0.27
+
+Topic 1:
+  mind:0.30
+  tripping:0.27
+  sad:0.27
+  barretts:0.27
+  trips:0.27
+  purely:0.27
+  flood:0.27
+  experience:0.27
+  interactive:0.27
+  intimate:0.27
+
+Topic 2:
+  mind:0.29
+  things:0.27
+  hope:0.27
+  echoes:0.27
+  great:0.27
+  brother:0.27
+  time:0.27
+  long:0.27
+  pink floyd:0.25
+  pinkfloyd:0.23
+
+Topic 3:
+  long:0.37
+  brother:0.37
+  time:0.37
+  things:0.37
+  hope:0.37
+  echoes:0.37
+  great:0.36
+  sending:0.33
+  clients:0.33
+  precaution:0.33
+
+Topic 4:
+  mind:0.31
+  absorbed:0.31
+  internet:0.31
+  broadcast:0.31
+  matter:0.30
+  glad:0.30
+  station:0.30
+  responding:0.30
+  surname:0.30
+  music:0.30
+
+K: 5, Log-Likelihood: -365.168, Alpha: 11.000, Beta: 1.100

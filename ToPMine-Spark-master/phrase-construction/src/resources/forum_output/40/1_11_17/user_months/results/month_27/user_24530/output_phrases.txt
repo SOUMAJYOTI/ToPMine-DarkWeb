@@ -1,0 +1,61 @@
+Topic 0:
+  tor:28.47
+  safe mail:16.07
+  traffic:13.53
+  traffic analysis:12.72
+  traffic analysis attacks:10.15
+  tor clients:10.15
+  tor dont:8.03
+  google account tor:7.94
+  de:7.82
+  achieve:6.76
+
+Topic 1:
+  drugs:25.04
+  password:16.91
+  lsd:13.72
+  people:12.19
+  society:10.83
+  dont lsd:10.15
+  website:10.15
+  effects:10.15
+  brute:10.14
+  quartus computers:10.14
+
+Topic 2:
+  yeah:10.15
+  vendors:9.97
+  shit:9.94
+  acid:8.92
+  quote:8.01
+  security:7.80
+  stay safe:7.59
+  cozy:6.76
+  wait:6.76
+  buyer:6.76
+
+Topic 3:
+  doubt:12.83
+  tmg:11.99
+  bad:11.94
+  people:11.69
+  allot:10.15
+  shops:10.15
+  ag:10.15
+  link:9.37
+  led:8.97
+  lack:8.93
+
+Topic 4:
+  work:13.34
+  blue:11.90
+  letters:10.32
+  servers:10.13
+  find:9.90
+  le:9.06
+  good opsec:8.92
+  type:8.80
+  needed:7.80
+  good:7.65
+
+K: 5, Log-Likelihood: -64879.991, Alpha: 11.000, Beta: 1.100

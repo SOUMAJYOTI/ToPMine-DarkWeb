@@ -1,0 +1,46 @@
+Topic 0:
+  god:0.20
+  damn:0.20
+  ghost:0.20
+  hansa:0.20
+  patience:0.20
+  plate:0.20
+  online:0.20
+
+Topic 1:
+  hansa:0.20
+  online:0.20
+  patience:0.20
+  plate:0.20
+  ghost:0.20
+  god:0.20
+  damn:0.20
+
+Topic 2:
+  ghost:0.20
+  damn:0.20
+  god:0.20
+  patience:0.20
+  hansa:0.20
+  plate:0.20
+  online:0.20
+
+Topic 3:
+  online:0.20
+  plate:0.20
+  patience:0.20
+  hansa:0.20
+  god:0.20
+  damn:0.20
+  ghost:0.20
+
+Topic 4:
+  plate:0.20
+  online:0.20
+  damn:0.20
+  god:0.20
+  patience:0.20
+  hansa:0.20
+  ghost:0.20
+
+K: 5, Log-Likelihood: -13.621, Alpha: 11.000, Beta: 1.100

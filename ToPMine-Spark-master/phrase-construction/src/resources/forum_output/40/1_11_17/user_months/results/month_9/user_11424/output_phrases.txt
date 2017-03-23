@@ -1,0 +1,61 @@
+Topic 0:
+  site:9.05
+  listings:2.73
+  requires:2.72
+  people:2.72
+  meant:2.71
+  impressed:2.71
+  checked:2.71
+  freedom:2.70
+  responsive:2.69
+  idea:1.85
+
+Topic 1:
+  heard feedback:2.93
+  updated:2.92
+  pm:2.92
+  bit:2.92
+  easier:2.92
+  navigate search:2.92
+  disappeared:1.83
+  term:1.83
+  thoughts:1.83
+  couple:1.83
+
+Topic 2:
+  fact:1.67
+  listened:1.67
+  feature:1.67
+  implemented:1.67
+  startling:1.66
+  requested:1.66
+  jack:1.42
+  captain:1.42
+  marketplace:1.41
+  goods:1.41
+
+Topic 3:
+  vendor:3.62
+  store:1.77
+  evolution:1.70
+  portal:1.69
+  edit:1.69
+  deepify:1.69
+  load:1.69
+  yesterday:1.68
+  slow:0.77
+  sounds:0.76
+
+Topic 4:
+  till:2.82
+  lag:2.82
+  minutes:2.82
+  search good:2.82
+  launched:2.82
+  feedback idea:2.82
+  publishing:2.82
+  updates:2.82
+  directory:2.52
+  respective:1.89
+
+K: 5, Log-Likelihood: -1228.885, Alpha: 11.000, Beta: 1.100

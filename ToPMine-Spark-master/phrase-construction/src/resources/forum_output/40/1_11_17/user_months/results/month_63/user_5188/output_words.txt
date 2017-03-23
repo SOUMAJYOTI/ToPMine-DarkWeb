@@ -1,0 +1,61 @@
+Topic 0:
+  misspelled:3.91
+  word:2.91
+  check:2.69
+  evil:1.66
+  genius:1.66
+  hard:1.37
+  opiods:0.92
+  bad:0.92
+  professional:0.92
+  steriods:0.92
+
+Topic 1:
+  acas:4.02
+  market:3.79
+  vendors:3.37
+  users:2.14
+  darknet:1.97
+  security:1.83
+  user:1.52
+  support:1.51
+  invite:1.51
+  pgp:1.39
+
+Topic 2:
+  acas:11.94
+  vendors:4.63
+  darknet:4.19
+  market:3.54
+  users:2.44
+  invite:2.20
+  security:1.99
+  support:1.93
+  user:1.87
+  friendly:1.54
+
+Topic 3:
+  acas:7.54
+  vendors:4.85
+  market:4.06
+  darknet:3.11
+  users:2.73
+  invite:2.27
+  user:2.23
+  support:2.05
+  security:1.91
+  acts:1.70
+
+Topic 4:
+  acas:16.29
+  darknet:6.57
+  vendors:4.97
+  market:4.43
+  users:2.55
+  support:2.38
+  user:2.24
+  security:2.13
+  customer:1.90
+  invite:1.89
+
+K: 5, Log-Likelihood: -2627.387, Alpha: 11.000, Beta: 1.100

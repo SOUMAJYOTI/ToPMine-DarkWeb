@@ -1,0 +1,61 @@
+Topic 0:
+  messages:0.16
+  check:0.16
+  time update marketplaces:0.16
+  version:0.16
+  avoid hxxp xkcd:0.16
+  hxxp xkcd time update:0.08
+  roll pgp subkey avoid:0.08
+  marketplaces pip:0.08
+  msg msg regularly:0.08
+  update marketplaces:0.08
+
+Topic 1:
+  version:0.17
+  time update marketplaces:0.17
+  check:0.17
+  avoid hxxp xkcd:0.17
+  messages:0.17
+  seized:0.08
+  zkndqqdq:0.08
+  frxo:0.08
+  wd:0.08
+  kw:0.08
+
+Topic 2:
+  avoid hxxp xkcd:0.16
+  check:0.16
+  time update marketplaces:0.16
+  messages:0.16
+  version:0.16
+  qmktsmj:0.08
+  gshnse:0.08
+  pub:0.08
+  azagnhgmbpdyuodbx:0.08
+  encrypted:0.08
+
+Topic 3:
+  avoid hxxp xkcd:0.16
+  messages:0.16
+  version:0.16
+  time update marketplaces:0.16
+  check:0.16
+  fwoznef:0.08
+  xwlienbm:0.08
+  fjehyg:0.08
+  enifoep:0.08
+  pub:0.08
+
+Topic 4:
+  messages:0.16
+  check:0.16
+  avoid hxxp xkcd:0.16
+  version:0.16
+  time update marketplaces:0.16
+  sucked:0.08
+  reimport:0.08
+  msg msg regularly:0.08
+  ac:0.08
+  avoid hxxp xkcd time:0.08
+
+K: 5, Log-Likelihood: -595.372, Alpha: 11.000, Beta: 1.100

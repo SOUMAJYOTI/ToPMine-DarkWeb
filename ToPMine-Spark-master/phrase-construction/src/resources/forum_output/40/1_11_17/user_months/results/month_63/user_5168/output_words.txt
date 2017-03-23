@@ -1,0 +1,61 @@
+Topic 0:
+  market:16.96
+  site:9.72
+  post:7.72
+  good:4.61
+  time:4.11
+  vendors:4.00
+  quote:3.92
+  balance:3.70
+  love:3.46
+  product:2.87
+
+Topic 1:
+  system:45.39
+  vendors:37.63
+  wallet:36.53
+  bitchain:29.93
+  site:24.30
+  backup:20.93
+  time:20.23
+  text:17.93
+  website:17.93
+  darknet:17.50
+
+Topic 2:
+  site:27.85
+  vendors:24.31
+  vendor:21.98
+  crypto:11.85
+  weeks:11.82
+  work:10.04
+  mediate:9.90
+  people:9.75
+  trusted:9.63
+  working:8.14
+
+Topic 3:
+  community:11.63
+  lsd:10.86
+  quote:9.11
+  good:8.95
+  vendor:8.69
+  money:8.68
+  water:8.60
+  idea:7.82
+  love:7.79
+  interested:7.72
+
+Topic 4:
+  vendor:57.90
+  system:20.80
+  november:14.89
+  private:12.66
+  nature:12.57
+  based:12.34
+  user:12.26
+  security:12.15
+  ill:12.05
+  ll:11.67
+
+K: 5, Log-Likelihood: -26155.995, Alpha: 11.000, Beta: 1.100

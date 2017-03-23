@@ -1,0 +1,61 @@
+Topic 0:
+  email:1.24
+  account:0.98
+  mp:0.87
+  market:0.85
+  forum:0.45
+  key:0.45
+  find:0.45
+  enter:0.44
+  lol:0.43
+  forumkey:0.43
+
+Topic 1:
+  email:1.39
+  account:1.10
+  mp:1.02
+  market:0.78
+  lol:0.41
+  forumkey:0.41
+  bat:0.41
+  baseball:0.41
+  enter:0.40
+  find:0.40
+
+Topic 2:
+  email:1.51
+  mp:1.09
+  account:0.97
+  market:0.82
+  password:0.53
+  backup:0.53
+  place:0.45
+  signed:0.45
+  lost:0.44
+  problem:0.44
+
+Topic 3:
+  email:1.68
+  mp:1.05
+  account:0.94
+  market:0.75
+  signed:0.41
+  lol:0.41
+  bat:0.40
+  baseball:0.40
+  forumkey:0.40
+  forum:0.40
+
+Topic 4:
+  email:1.18
+  account:1.01
+  mp:0.98
+  market:0.81
+  details:0.42
+  baseball:0.41
+  backup:0.41
+  bat:0.41
+  problem:0.41
+  lost:0.41
+
+K: 5, Log-Likelihood: -566.912, Alpha: 11.000, Beta: 1.100

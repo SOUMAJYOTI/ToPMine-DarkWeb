@@ -1,0 +1,61 @@
+Topic 0:
+  books:2.70
+  gods:1.36
+  genre:1.27
+  fiction:1.20
+  reading:1.10
+  vote:1.04
+  idea:0.97
+  read:0.72
+  list:0.71
+  chime:0.71
+
+Topic 1:
+  books:3.01
+  genre:1.37
+  reading:1.36
+  vote:1.09
+  list:0.86
+  stick:0.86
+  idea:0.85
+  guess:0.84
+  hazard:0.83
+  read:0.83
+
+Topic 2:
+  books:2.50
+  vote:1.22
+  genre:1.13
+  reading:0.91
+  fiction:0.88
+  idea:0.82
+  gods:0.82
+  rotate:0.77
+  chime:0.76
+  list:0.75
+
+Topic 3:
+  books:3.89
+  vote:1.41
+  reading:1.37
+  genre:1.15
+  chime:0.91
+  informed:0.90
+  guess:0.90
+  rotate:0.88
+  hazard:0.87
+  read:0.86
+
+Topic 4:
+  books:3.89
+  reading:1.26
+  vote:1.23
+  genre:1.08
+  hazard:0.88
+  stick:0.86
+  read:0.85
+  informed:0.85
+  rotate:0.84
+  guess:0.84
+
+K: 5, Log-Likelihood: -819.042, Alpha: 11.000, Beta: 1.100

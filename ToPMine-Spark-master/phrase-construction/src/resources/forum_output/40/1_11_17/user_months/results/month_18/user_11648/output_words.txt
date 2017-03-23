@@ -1,0 +1,61 @@
+Topic 0:
+  ya:2.71
+  dont:2.58
+  lol:2.05
+  safe:1.62
+  conspiracy:1.62
+  wit:1.62
+  august:1.55
+  sr:1.49
+  trolltergeist:0.91
+  hey:0.91
+
+Topic 1:
+  sr:1.73
+  august:1.44
+  quote:1.42
+  lol:1.21
+  alfred:1.12
+  conjuntion:0.75
+  mods:0.71
+  hub:0.68
+  pull:0.63
+  pmhub:0.59
+
+Topic 2:
+  sr:2.81
+  mods:1.50
+  quote:1.38
+  reply:1.29
+  hub:1.06
+  forums:1.04
+  block:1.02
+  market:0.84
+  post:0.69
+  months:0.69
+
+Topic 3:
+  mods:2.06
+  sr:1.91
+  reply:1.82
+  quote:1.70
+  block:1.35
+  forums:1.32
+  hub:1.01
+  doesnt:0.98
+  forum:0.98
+  happen:0.97
+
+Topic 4:
+  sr:2.06
+  quote:2.01
+  mods:1.60
+  alfred:1.18
+  august:1.02
+  hub:0.81
+  active:0.72
+  reply:0.58
+  conjuntion:0.55
+  post:0.55
+
+K: 5, Log-Likelihood: -883.253, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ncz:0.16
+  ya:0.08
+  good:0.08
+  oct:0.08
+  vendors:0.08
+  dark:0.08
+  scammed:0.08
+  dont:0.08
+  markets:0.08
+  dealt:0.08
+
+Topic 1:
+  ncz:0.16
+  ya:0.08
+  good:0.08
+  discounts:0.08
+  scammed:0.08
+  dark:0.08
+  nov:0.08
+  purchase:0.08
+  connoisseur:0.08
+  people:0.08
+
+Topic 2:
+  ncz:0.16
+  sheep:0.08
+  dealt:0.08
+  professionalism:0.08
+  slammed:0.08
+  hub:0.08
+  nov:0.08
+  markets:0.08
+  cheers:0.08
+  purchase:0.08
+
+Topic 3:
+  ncz:0.16
+  good:0.08
+  ya:0.08
+  hub:0.08
+  dealt:0.08
+  dark:0.08
+  happier:0.08
+  professionalism:0.08
+  sheep:0.08
+  cheers:0.08
+
+Topic 4:
+  ncz:0.16
+  discounts:0.08
+  slammed:0.08
+  oct:0.08
+  scammed:0.08
+  dont:0.08
+  nov:0.08
+  connoisseur:0.08
+  cheers:0.08
+  professionalism:0.08
+
+K: 5, Log-Likelihood: -27.046, Alpha: 11.000, Beta: 1.100

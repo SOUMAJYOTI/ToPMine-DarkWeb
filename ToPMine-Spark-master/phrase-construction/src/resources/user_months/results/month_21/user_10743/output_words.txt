@@ -1,0 +1,61 @@
+Topic 0:
+  security:1.33
+  install:0.73
+  google:0.72
+  books:0.58
+  basics:0.42
+  read:0.33
+  search:0.32
+  interest:0.31
+  live:0.30
+  alchohol:0.30
+
+Topic 1:
+  books:1.55
+  security:1.11
+  check:0.95
+  hacking:0.94
+  read:0.49
+  sells:0.37
+  visit:0.37
+  category:0.37
+  categories:0.37
+  exposed:0.37
+
+Topic 2:
+  security:0.94
+  books:0.59
+  read:0.34
+  google:0.33
+  install:0.33
+  highlighted:0.32
+  rob:0.32
+  bernstein:0.32
+  boxes:0.32
+  bruce:0.32
+
+Topic 3:
+  security:1.38
+  books:0.69
+  google:0.49
+  install:0.49
+  read:0.43
+  basics:0.41
+  search:0.39
+  interest:0.39
+  hacking:0.31
+  check:0.31
+
+Topic 4:
+  understand:2.26
+  read:1.41
+  tor:1.35
+  guide:1.35
+  feel:1.35
+  learn:1.34
+  security:1.24
+  interest:0.66
+  search:0.66
+  basics:0.61
+
+K: 5, Log-Likelihood: -603.518, Alpha: 11.000, Beta: 1.100

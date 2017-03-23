@@ -1,0 +1,61 @@
+Topic 0:
+  shipping:0.39
+  country:0.39
+  days:0.29
+  europe:0.29
+  delivery:0.29
+  day:0.29
+  abrax:0.29
+  ratings:0.29
+  verified:0.28
+  deals:0.28
+
+Topic 1:
+  super:0.36
+  silver:0.26
+  skunk:0.26
+  high:0.26
+  super lemon:0.26
+  thc:0.26
+  haze:0.26
+  haze lemon:0.25
+  shipping:0.25
+  country:0.25
+
+Topic 2:
+  super:0.66
+  haze:0.43
+  haze lemon:0.42
+  thc:0.42
+  high:0.42
+  silver:0.42
+  super lemon:0.42
+  skunk:0.42
+  reminds:0.20
+  info:0.20
+
+Topic 3:
+  country:1.15
+  shipping:1.15
+  agra:0.66
+  shoponline:0.66
+  reship:0.66
+  verified:0.66
+  orders:0.66
+  single:0.66
+  deals:0.66
+  ratings:0.66
+
+Topic 4:
+  super:0.77
+  super lemon:0.47
+  haze lemon:0.47
+  skunk:0.47
+  thc:0.47
+  haze:0.47
+  high:0.47
+  silver:0.47
+  ensuring:0.21
+  smokingso:0.21
+
+K: 5, Log-Likelihood: -525.587, Alpha: 11.000, Beta: 1.100

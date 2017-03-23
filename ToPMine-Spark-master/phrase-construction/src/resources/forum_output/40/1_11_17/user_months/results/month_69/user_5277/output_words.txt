@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:1.36
+  key:0.74
+  easiest:0.40
+  complex:0.40
+  stuff:0.40
+  generate:0.39
+  easier:0.39
+  wow:0.20
+  generating:0.20
+  videos:0.20
+
+Topic 1:
+  pgp:1.04
+  key:0.86
+  easier:0.41
+  complex:0.40
+  stuff:0.40
+  generate:0.40
+  easiest:0.40
+  quote:0.20
+  pmwow:0.20
+  messages:0.20
+
+Topic 2:
+  pgp:1.11
+  key:0.82
+  stuff:0.41
+  easiest:0.40
+  easier:0.40
+  generate:0.40
+  complex:0.40
+  gpg:0.20
+  encypt:0.20
+  hard:0.20
+
+Topic 3:
+  pgp:1.23
+  key:0.79
+  generate:0.40
+  easiest:0.40
+  stuff:0.40
+  complex:0.40
+  easier:0.40
+  wow:0.20
+  forge:0.20
+  eventually:0.20
+
+Topic 4:
+  pgp:1.26
+  key:0.78
+  complex:0.40
+  easier:0.40
+  generate:0.40
+  easiest:0.40
+  stuff:0.39
+  wow:0.20
+  wayi:0.20
+  persistence:0.20
+
+K: 5, Log-Likelihood: -158.476, Alpha: 11.000, Beta: 1.100

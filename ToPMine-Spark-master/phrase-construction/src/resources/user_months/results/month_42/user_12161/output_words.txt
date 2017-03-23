@@ -1,0 +1,61 @@
+Topic 0:
+  darkcoin:2.95
+  anonymous:2.02
+  article:2.00
+  technological:0.95
+  case:0.94
+  match:0.93
+  hope:0.88
+  call:0.79
+  relay:0.78
+  called:0.63
+
+Topic 1:
+  anonymity:7.99
+  darkcoin:7.07
+  anonymization:4.41
+  transaction:4.37
+  services:3.64
+  security:2.45
+  bitcoin:2.38
+  number:1.63
+  anonymous:1.49
+  article:1.48
+
+Topic 2:
+  tor:26.96
+  onion:17.98
+  proxy:11.98
+  darkcoin:11.61
+  addresses:10.27
+  socks:7.98
+  port:7.98
+  ipv:6.98
+  default:5.98
+  hidden:5.12
+
+Topic 3:
+  dash:6.76
+  quote:2.86
+  april:2.80
+  careful:2.73
+  transaction:2.49
+  coinjoin:2.01
+  multiply:1.96
+  recipient:1.96
+  output:1.96
+  pops:1.80
+
+Topic 4:
+  anonymity:27.29
+  bitcoin:19.36
+  anonymization:17.17
+  level:16.67
+  darkcoin:14.09
+  users:13.82
+  mixer:13.14
+  cryptocurrency:13.08
+  transactions:11.34
+  network:10.91
+
+K: 5, Log-Likelihood: -10630.867, Alpha: 11.000, Beta: 1.100

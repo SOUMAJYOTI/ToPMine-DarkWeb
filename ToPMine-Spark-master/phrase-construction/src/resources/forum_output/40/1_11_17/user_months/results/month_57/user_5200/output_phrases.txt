@@ -1,0 +1,61 @@
+Topic 0:
+  love avengers:0.33
+  register:0.16
+  onion:0.16
+  market love avengers market:0.16
+  market love:0.16
+  aff:0.08
+  silkkitie:0.08
+  avengersmkt:0.08
+  market doctor:0.08
+  avengersxmn:0.08
+
+Topic 1:
+  love avengers:0.32
+  register:0.16
+  onion:0.16
+  market love:0.16
+  market love avengers market:0.16
+  market silkkitie:0.08
+  market market market:0.08
+  rent:0.08
+  ds:0.08
+  market market:0.08
+
+Topic 2:
+  love avengers:0.33
+  onion:0.16
+  market love avengers market:0.16
+  market love:0.16
+  register:0.16
+  dr:0.08
+  market doctor:0.08
+  buyer account:0.08
+  rr:0.08
+  avengersxmn:0.08
+
+Topic 3:
+  love avengers:0.32
+  market love avengers market:0.16
+  market love:0.16
+  register:0.16
+  onion:0.16
+  link buyer:0.08
+  market market market:0.08
+  ds:0.08
+  rent:0.08
+  market market:0.08
+
+Topic 4:
+  love avengers:0.32
+  market love:0.16
+  market love avengers market:0.16
+  onion:0.16
+  register:0.16
+  account buyer:0.08
+  rent:0.08
+  market silkkitie:0.08
+  market market:0.08
+  ds:0.08
+
+K: 5, Log-Likelihood: -57.642, Alpha: 11.000, Beta: 1.100

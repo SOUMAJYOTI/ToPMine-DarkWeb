@@ -1,0 +1,61 @@
+Topic 0:
+  april:9.98
+  google:9.30
+  quote:8.34
+  search:6.04
+  js:5.72
+  engines:5.08
+  threekings:4.35
+  pmdont:4.34
+  guess:3.73
+  clearnet:3.59
+
+Topic 1:
+  april:13.41
+  quote:11.98
+  version:9.90
+  release:6.96
+  beta:5.91
+  download:5.69
+  tails:4.62
+  updates:4.19
+  developers:3.95
+  stable:3.88
+
+Topic 2:
+  tor:18.57
+  relays:10.86
+  hidden:10.85
+  security:5.93
+  service:5.82
+  image:5.09
+  traffic:4.98
+  services:4.92
+  people:4.77
+  pretty:4.28
+
+Topic 3:
+  worth:17.85
+  bitcoin:14.57
+  ltc:11.89
+  truecrypt:11.54
+  bitcoins:9.78
+  btc:9.69
+  audit:8.88
+  litecoin:8.86
+  pmquote:8.57
+  vixty:8.32
+
+Topic 4:
+  bug:108.99
+  tor:41.83
+  browser:20.74
+  security:16.26
+  circuit:16.00
+  disable:15.69
+  update:14.33
+  default:12.11
+  windows:11.99
+  users:9.98
+
+K: 5, Log-Likelihood: -15590.654, Alpha: 11.000, Beta: 1.100

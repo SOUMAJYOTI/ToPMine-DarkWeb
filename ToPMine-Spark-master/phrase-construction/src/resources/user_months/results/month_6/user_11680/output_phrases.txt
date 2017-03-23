@@ -1,0 +1,61 @@
+Topic 0:
+  forums:3.55
+  thread:3.15
+  hear:2.28
+  clu:2.28
+  admin:2.28
+  trash:2.28
+  quick:2.28
+  average:2.28
+  mouth:2.28
+  subject:2.28
+
+Topic 1:
+  message:5.45
+  posted:4.64
+  week:4.64
+  hope:4.45
+  update:3.60
+  posting:2.97
+  site:2.29
+  sight:2.29
+  agra forum:2.29
+  meant:2.29
+
+Topic 2:
+  working:7.53
+  prevents cluster fuck aye:4.37
+  april:4.18
+  fine:3.66
+  trc:3.64
+  style news good news:3.64
+  news hours ago agora:3.64
+  isnt:3.64
+  running smooth silk management:3.64
+  amin:3.64
+
+Topic 3:
+  sr:6.30
+  fucking:4.44
+  cp:3.62
+  dont agra:3.31
+  message forum:3.31
+  disappeared:3.31
+  days:3.28
+  fed:2.17
+  mind:2.15
+  swam:2.15
+
+Topic 4:
+  reason doubt:5.63
+  weeks:5.39
+  business:4.63
+  doubt:3.59
+  reason:2.99
+  quote:2.57
+  april:2.31
+  idiot:2.28
+  money:2.28
+  suggesting:2.28
+
+K: 5, Log-Likelihood: -1949.231, Alpha: 11.000, Beta: 1.100

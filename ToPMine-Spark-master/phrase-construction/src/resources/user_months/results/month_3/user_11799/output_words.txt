@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:0.61
+  market:0.58
+  free:0.40
+  coming:0.40
+  cheap:0.40
+  behalf:0.20
+  grandstanding:0.20
+  established:0.20
+  poo:0.20
+  directory:0.20
+
+Topic 1:
+  market:0.61
+  vendor:0.60
+  coming:0.40
+  free:0.40
+  cheap:0.40
+  aggregate:0.20
+  leadership:0.20
+  onion:0.20
+  adults:0.20
+  interesting:0.20
+
+Topic 2:
+  market:0.63
+  vendor:0.60
+  free:0.40
+  coming:0.40
+  cheap:0.40
+  literally:0.20
+  loving:0.20
+  adults:0.20
+  wholesome:0.20
+  norm:0.20
+
+Topic 3:
+  market:0.59
+  vendor:0.59
+  cheap:0.40
+  free:0.40
+  coming:0.40
+  commission:0.20
+  leadership:0.20
+  poo:0.20
+  spurned:0.20
+  aggregate:0.20
+
+Topic 4:
+  market:0.60
+  vendor:0.60
+  coming:0.40
+  free:0.40
+  cheap:0.40
+  mature:0.20
+  consenting:0.20
+  week:0.20
+  grandstanding:0.20
+  piratey:0.20
+
+K: 5, Log-Likelihood: -175.626, Alpha: 11.000, Beta: 1.100

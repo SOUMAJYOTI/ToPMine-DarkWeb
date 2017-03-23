@@ -1,0 +1,61 @@
+Topic 0:
+  opiates:0.38
+  kava:0.34
+  mixing:0.29
+  benzos:0.29
+  opinions:0.29
+  etizolam:0.29
+  create:0.29
+  curious:0.29
+  opiates oxycodone:0.29
+  subject:0.29
+
+Topic 1:
+  kava:0.37
+  opiates:0.29
+  doses:0.21
+  good:0.21
+  meo:0.21
+  combination:0.21
+  mipt:0.20
+  amnesia:0.20
+  bethel:0.20
+  doesnt:0.20
+
+Topic 2:
+  kava:0.36
+  opiates:0.28
+  combination:0.22
+  doses:0.21
+  good:0.21
+  meo:0.21
+  mipt:0.20
+  depressants:0.20
+  unexpected:0.20
+  hand:0.20
+
+Topic 3:
+  kava:0.35
+  opiates:0.27
+  combination:0.22
+  meo:0.22
+  good:0.22
+  doses:0.22
+  potentiate:0.21
+  move:0.21
+  sum:0.21
+  bethel:0.21
+
+Topic 4:
+  kava:0.41
+  opiates:0.31
+  meo:0.21
+  doses:0.21
+  good:0.21
+  combination:0.21
+  mipt:0.20
+  relaxed:0.20
+  higher:0.20
+  combo:0.20
+
+K: 5, Log-Likelihood: -509.243, Alpha: 11.000, Beta: 1.100

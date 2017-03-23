@@ -1,0 +1,61 @@
+Topic 0:
+  captcha:1.40
+  issue:0.62
+  view:0.51
+  data:0.43
+  load:0.42
+  fails:0.42
+  time:0.42
+  couple:0.42
+  log:0.41
+  days:0.41
+
+Topic 1:
+  captcha:1.45
+  view:0.66
+  issue:0.63
+  click:0.43
+  correctly:0.42
+  image:0.42
+  load:0.41
+  fails:0.41
+  log:0.41
+  days:0.40
+
+Topic 2:
+  captcha:1.49
+  issue:0.60
+  view:0.54
+  data:0.43
+  time:0.41
+  couple:0.41
+  amai:0.41
+  today:0.41
+  issues:0.41
+  bloody:0.40
+
+Topic 3:
+  captcha:1.42
+  issue:0.59
+  view:0.55
+  data:0.43
+  today:0.42
+  issues:0.42
+  couple:0.42
+  pain:0.42
+  bloody:0.42
+  amai:0.41
+
+Topic 4:
+  captcha:1.25
+  view:0.73
+  issue:0.57
+  click:0.48
+  image:0.45
+  correctly:0.43
+  work:0.41
+  days:0.39
+  log:0.39
+  amai:0.38
+
+K: 5, Log-Likelihood: -475.278, Alpha: 11.000, Beta: 1.100

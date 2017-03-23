@@ -1,0 +1,61 @@
+Topic 0:
+  globe dns:4.54
+  tor:3.55
+  onion:3.43
+  unique slds:2.77
+  onion traffic:2.46
+  dns:2.24
+  tor project:2.13
+  users:2.11
+  slds:2.10
+  table:2.04
+
+Topic 1:
+  onion:6.63
+  tor:5.04
+  globe dns:3.48
+  users:3.45
+  tor project:3.34
+  dns:3.23
+  globe events:2.92
+  traffic:2.69
+  onion traffic:2.60
+  slds:2.56
+
+Topic 2:
+  onion:2.74
+  tor:2.04
+  slds:1.56
+  globe dns:1.40
+  root:1.22
+  users:1.16
+  dns:1.13
+  globe events:1.02
+  period time:0.99
+  servers:0.97
+
+Topic 3:
+  drug:2.13
+  organizations:2.11
+  info:2.00
+  paper:1.93
+  requests:1.67
+  upstream:1.31
+  nsa:1.31
+  add:1.21
+  interesting:1.21
+  dogs:1.03
+
+Topic 4:
+  onion:6.74
+  globe dns:3.60
+  slds:2.42
+  dns:2.36
+  tor:2.28
+  unique slds:2.14
+  traffic:2.00
+  users:1.93
+  period time:1.84
+  globe events:1.84
+
+K: 5, Log-Likelihood: -11162.772, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  middle card:4.46
+  envelope:3.99
+  scotch tape:3.52
+  extra:3.20
+  marijuana:3.18
+  front cover inside:3.17
+  place:3.02
+  good:2.78
+  write:2.50
+  article card:2.29
+
+Topic 1:
+  opposed business:6.38
+  return address:6.38
+  random:3.53
+  presidential address:3.53
+  questions:3.43
+  bogs:3.16
+  greatly:3.16
+  friend sending:3.16
+  address random real address:3.16
+  foolish:3.16
+
+Topic 2:
+  middle card:4.50
+  envelope:4.22
+  write:3.58
+  good:3.19
+  place:2.91
+  extra:2.80
+  marijuana:2.75
+  front cover inside:2.74
+  scotch tape:2.48
+  gloves:2.40
+
+Topic 3:
+  method pretty:3.14
+  love handwriting:2.40
+  nice send:2.36
+  protect:2.36
+  honestly:2.34
+  fine blotter:2.33
+  identity:2.33
+  matter:2.33
+  odd:2.32
+  sending note:2.32
+
+Topic 4:
+  letter:4.77
+  paper:4.60
+  safe:3.80
+  sending:3.76
+  disguise:3.16
+  nice birthday:3.16
+  making:3.16
+  inside envelope:3.16
+  fine:3.16
+  sticked:3.16
+
+K: 5, Log-Likelihood: -4747.302, Alpha: 11.000, Beta: 1.100

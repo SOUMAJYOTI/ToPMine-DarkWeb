@@ -1,0 +1,61 @@
+Topic 0:
+  cash:8.95
+  bank:8.43
+  problem:7.68
+  wallet:4.64
+  btc:4.58
+  transfer:3.91
+  time:3.90
+  deposit:3.55
+  quote:3.03
+  buying:2.82
+
+Topic 1:
+  cash:3.58
+  bank:3.17
+  directly:2.52
+  interesting:2.48
+  localbitcoins:2.37
+  elaborate:2.28
+  wallet:2.15
+  time:2.09
+  pm:2.01
+  transfers:1.93
+
+Topic 2:
+  guy:7.22
+  bitcointalk:6.29
+  escrow:5.65
+  sell:5.59
+  account:4.02
+  sig:3.75
+  rating:3.73
+  trust:3.71
+  multi:3.70
+  mail:2.48
+
+Topic 3:
+  face:6.11
+  buy:4.37
+  bitcoin:3.88
+  coin:3.71
+  feel:3.61
+  don:3.42
+  vendors:3.29
+  dont:2.99
+  comfortable:2.84
+  imputable:2.82
+
+Topic 4:
+  buy:2.91
+  account:2.57
+  guys:2.25
+  transactions:2.25
+  time:1.84
+  mail:1.75
+  multiply:1.72
+  anon:1.70
+  guy:1.48
+  bitcointalk:1.22
+
+K: 5, Log-Likelihood: -2999.382, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tho:0.20
+  ddos:0.20
+  silly:0.20
+  sr:0.20
+  reason:0.20
+  attacking:0.20
+  le:0.20
+  fucking:0.20
+  market:0.20
+  hell:0.20
+
+Topic 1:
+  order:0.20
+  hours:0.20
+  ago:0.20
+  yea:0.20
+  hope:0.20
+  lost:0.20
+  place:0.20
+  luck:0.20
+  deposit:0.20
+  agra:0.20
+
+Topic 2:
+  wallet:0.20
+  today:0.20
+  yea:0.20
+  huge:0.20
+  luck:0.20
+  lost:0.20
+  hours:0.20
+  deposit:0.20
+  ago:0.20
+  agra:0.20
+
+Topic 3:
+  sr:0.20
+  attacking:0.20
+  hell:0.20
+  market:0.20
+  le:0.20
+  reason:0.20
+  fucking:0.20
+  silly:0.20
+  tho:0.20
+  ddos:0.20
+
+Topic 4:
+  hell:0.20
+  attacking:0.20
+  silly:0.20
+  le:0.20
+  fucking:0.20
+  ddos:0.20
+  tho:0.20
+  reason:0.20
+  market:0.20
+  sr:0.20
+
+K: 5, Log-Likelihood: -88.987, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  times:1.64
+  quote:1.25
+  rule agora log agora:1.12
+  times dont find refresh:1.09
+  difficult site afraid log:1.07
+  pmquote feesh july pmthe:1.04
+  majority time hold support:1.04
+  customers locked extra traffic:0.78
+  overflow:0.78
+  feesh july:0.78
+
+Topic 1:
+  gasp:1.50
+  marketscan:1.50
+  backopy:1.50
+  ag:1.50
+  large:1.50
+  tor:1.50
+  reason:1.50
+  suited:1.50
+  remember:1.50
+  forum:1.10
+
+Topic 2:
+  feedback:3.09
+  times:2.71
+  kwikeemart:1.33
+  completely:1.33
+  response:1.32
+  starting:1.31
+  faster:1.31
+  refresh couple:1.31
+  hours:1.30
+  support:1.30
+
+Topic 3:
+  pretty:3.28
+  evo:3.28
+  pays:1.58
+  feel:1.58
+  quick:1.58
+  interface:1.58
+  sick:1.58
+  shifted:1.58
+  business:1.58
+  effing:1.58
+
+Topic 4:
+  times:1.47
+  feedback:1.22
+  pmquote feesh july pmthe:0.99
+  majority time hold support:0.99
+  difficult site afraid log:0.97
+  quote:0.95
+  times dont find refresh:0.94
+  rule agora log agora:0.93
+  hitting:0.72
+  issue hours:0.72
+
+K: 5, Log-Likelihood: -870.257, Alpha: 11.000, Beta: 1.100

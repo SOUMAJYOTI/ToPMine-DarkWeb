@@ -1,0 +1,61 @@
+Topic 0:
+  wiki:0.80
+  fungi:0.79
+  cards:0.78
+  site:0.70
+  contact:0.70
+  dont:0.57
+  stick:0.52
+  hidden:0.51
+  machine:0.51
+  house:0.51
+
+Topic 1:
+  site:0.87
+  friend:0.83
+  pay:0.79
+  dont:0.62
+  money:0.58
+  swam:0.58
+  send:0.58
+  bitch:0.57
+  visit:0.50
+  regret:0.49
+
+Topic 2:
+  pay:0.77
+  friend:0.77
+  bitch:0.64
+  dont:0.63
+  visit:0.57
+  regret:0.57
+  site:0.51
+  send:0.49
+  money:0.48
+  swam:0.48
+
+Topic 3:
+  contact:1.16
+  cards:1.13
+  fungi:1.13
+  wiki:1.10
+  customers:0.98
+  dont:0.56
+  green:0.56
+  tor:0.56
+  hidden:0.56
+  house:0.55
+
+Topic 4:
+  pay:0.72
+  friend:0.68
+  dont:0.61
+  site:0.56
+  regret:0.49
+  visit:0.48
+  contact:0.46
+  bitch:0.44
+  swam:0.43
+  money:0.43
+
+K: 5, Log-Likelihood: -638.597, Alpha: 11.000, Beta: 1.100

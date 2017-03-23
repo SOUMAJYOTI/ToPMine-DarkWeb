@@ -1,0 +1,61 @@
+Topic 0:
+  lsd:7.05
+  care:5.80
+  wasn:5.29
+  tmg:4.88
+  live avengers:4.70
+  scam:4.47
+  chemical:4.47
+  good:4.47
+  honestly:4.47
+  thing:4.47
+
+Topic 1:
+  people:12.98
+  paranoia:9.05
+  tmg:8.51
+  wondering:4.51
+  energy:4.51
+  happy:4.51
+  trees:4.51
+  service:4.51
+  life people:4.51
+  reviews:4.51
+
+Topic 2:
+  led:9.02
+  majestic garden bigger:9.02
+  began break:4.49
+  widespread discovery lsd:4.49
+  bold:4.49
+  party:4.49
+  circles:4.49
+  distribution:4.49
+  realized:4.49
+  historical:4.49
+
+Topic 3:
+  love:6.75
+  members:5.33
+  payment:5.27
+  tails:3.94
+  post:2.97
+  tmz eh tmz:2.87
+  admin:2.65
+  asked:2.65
+  tired:2.65
+  incognito:2.65
+
+Topic 4:
+  times melancholy years:10.44
+  written thread:8.97
+  ve written thread:8.96
+  quote cryptosporidium july:7.73
+  holy unbelievable live dream:6.93
+  repeat moment question:6.93
+  errors understand wrong:6.93
+  magic situation real:6.93
+  chance ri starting:6.93
+  pmi majestic garden bigger:6.93
+
+K: 5, Log-Likelihood: -9095.804, Alpha: 11.000, Beta: 1.100

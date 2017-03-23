@@ -1,0 +1,61 @@
+Topic 0:
+  apple market:1.05
+  central escrow:0.52
+  pgp signature:0.42
+  rest life change:0.41
+  store:0.41
+  vendor accounts:0.41
+  ladies gentlemen:0.41
+  sell:0.41
+  commission negotiate:0.41
+  iphones ipads:0.41
+
+Topic 1:
+  apple market:0.98
+  central escrow:0.52
+  vendor accounts:0.41
+  vendors:0.40
+  iphones ipads:0.40
+  sell:0.40
+  escrow multisignature:0.40
+  commission negotiate:0.40
+  pgp signature:0.40
+  store:0.40
+
+Topic 2:
+  apple market:1.00
+  price:0.46
+  central escrow:0.46
+  steve jobs:0.40
+  vendors:0.40
+  commission negotiate:0.39
+  store:0.39
+  sell:0.39
+  escrow multisignature:0.39
+  vendor accounts:0.39
+
+Topic 3:
+  apple market:0.99
+  central escrow:0.73
+  multisig:0.43
+  risk:0.43
+  buyer:0.43
+  rest life change:0.42
+  pgp signature:0.42
+  steve jobs:0.42
+  ladies gentlemen:0.42
+  store:0.42
+
+Topic 4:
+  apple market:1.08
+  central escrow:0.52
+  iphones ipads:0.42
+  escrow multisignature:0.42
+  commission negotiate:0.42
+  ladies gentlemen:0.42
+  steve jobs:0.42
+  vendors:0.42
+  sell:0.42
+  store:0.42
+
+K: 5, Log-Likelihood: -1754.210, Alpha: 11.000, Beta: 1.100

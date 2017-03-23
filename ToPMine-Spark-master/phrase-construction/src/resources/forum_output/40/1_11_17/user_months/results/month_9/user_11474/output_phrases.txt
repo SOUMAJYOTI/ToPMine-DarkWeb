@@ -1,0 +1,61 @@
+Topic 0:
+  money:0.16
+  direct:0.16
+  week:0.08
+  italian:0.08
+  wallet:0.08
+  girls:0.08
+  boys:0.08
+  referall:0.08
+  tot:0.08
+  sisters:0.08
+
+Topic 1:
+  direct:0.16
+  money:0.16
+  purpose:0.08
+  link:0.08
+  trade:0.08
+  system:0.08
+  email:0.08
+  message:0.08
+  captain:0.08
+  marketplace:0.08
+
+Topic 2:
+  money:0.16
+  direct:0.16
+  enroll:0.08
+  brothers:0.08
+  referall:0.08
+  pick:0.08
+  sisters:0.08
+  answer:0.08
+  gain:0.08
+  boys:0.08
+
+Topic 3:
+  money:0.16
+  direct:0.16
+  answer:0.08
+  italian:0.08
+  english:0.08
+  pick:0.08
+  gain:0.08
+  agora:0.08
+  wallet:0.08
+  apply:0.08
+
+Topic 4:
+  direct:0.16
+  money:0.16
+  jack:0.08
+  advertise:0.08
+  system:0.08
+  link:0.08
+  goods:0.08
+  captain:0.08
+  verified:0.08
+  message:0.08
+
+K: 5, Log-Likelihood: -49.629, Alpha: 11.000, Beta: 1.100

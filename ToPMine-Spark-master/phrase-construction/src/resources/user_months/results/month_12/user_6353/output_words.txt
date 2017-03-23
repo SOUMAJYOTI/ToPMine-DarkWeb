@@ -1,0 +1,61 @@
+Topic 0:
+  good:0.41
+  uplier:0.40
+  freedom:0.40
+  amsterdam:0.40
+  united:0.20
+  bmr:0.20
+  future:0.20
+  choice:0.20
+  late:0.20
+  le:0.20
+
+Topic 1:
+  uplier:0.40
+  freedom:0.40
+  amsterdam:0.40
+  good:0.40
+  le:0.20
+  bmr:0.20
+  choice:0.20
+  amin:0.20
+  january:0.20
+  markets:0.20
+
+Topic 2:
+  freedom:0.40
+  good:0.40
+  uplier:0.40
+  amsterdam:0.40
+  agree:0.20
+  january:0.20
+  united:0.20
+  learned:0.20
+  amin:0.20
+  original:0.20
+
+Topic 3:
+  amsterdam:0.40
+  freedom:0.40
+  uplier:0.40
+  good:0.40
+  communities:0.20
+  markets:0.20
+  le:0.20
+  illegal:0.20
+  keeping:0.20
+  stand:0.20
+
+Topic 4:
+  amsterdam:0.40
+  freedom:0.40
+  good:0.40
+  uplier:0.40
+  quote:0.20
+  stand:0.20
+  goods:0.20
+  illegal:0.20
+  enjoying:0.20
+  privacy:0.20
+
+K: 5, Log-Likelihood: -114.449, Alpha: 11.000, Beta: 1.100

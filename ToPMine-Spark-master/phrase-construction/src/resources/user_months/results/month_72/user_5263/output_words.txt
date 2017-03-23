@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:1.72
+  blackberrys:1.57
+  messages:1.52
+  court:1.47
+  rcmp:1.40
+  protected:1.25
+  seized:1.24
+  device:1.20
+  forensics:1.18
+  encryption:1.16
+
+Topic 1:
+  pgp:3.19
+  documents:2.59
+  rcmp:1.94
+  device:1.93
+  messages:1.89
+  blackberrys:1.84
+  court:1.75
+  forensics:1.68
+  encryption:1.57
+  protected:1.50
+
+Topic 2:
+  documents:3.01
+  messages:2.64
+  pgp:2.61
+  court:2.61
+  device:2.50
+  blackberrys:2.46
+  case:1.98
+  rcmp:1.98
+  encryption:1.91
+  protected:1.67
+
+Topic 3:
+  pgp:3.41
+  documents:2.60
+  court:2.44
+  blackberrys:2.22
+  rcmp:2.14
+  messages:1.91
+  encryption:1.86
+  seized:1.83
+  forensics:1.77
+  protected:1.63
+
+Topic 4:
+  documents:4.64
+  pgp:3.07
+  device:2.80
+  rcmp:2.53
+  messages:2.05
+  forensics:2.02
+  protected:1.96
+  blackberrys:1.91
+  seized:1.90
+  case:1.87
+
+K: 5, Log-Likelihood: -2854.950, Alpha: 11.000, Beta: 1.100

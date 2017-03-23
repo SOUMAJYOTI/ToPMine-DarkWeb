@@ -1,0 +1,380 @@
+nobodys,0,1
+equivalent,1,1
+running tor,2,1
+farther,3,1
+hasnt,4,1
+analyse,5,1
+ssh,6,1
+clients clients,7,2
+network harder,8,1
+building,9,1
+routing traffic,10,1
+path,11,1
+suffer,12,2
+quote,13,3
+freeze,14,1
+differently,15,1
+cake,16,1
+geography,17,1
+fire,18,2
+adversaries,19,2
+dont vps,20,2
+router local,21,2
+closely,22,1
+services running,23,1
+fairly,24,2
+deniability,25,2
+received,26,2
+hop tor,27,1
+ips,28,1
+hidden services,29,5
+figuring,30,1
+traffic vps,31,1
+node,32,2
+planning,33,1
+route,34,4
+left,35,1
+clients dont,36,2
+bridge,37,1
+goin,38,1
+isnt,39,3
+religious,40,1
+access,41,2
+argued,42,1
+perfectly,43,1
+work model,44,1
+router dont,45,2
+client performance,46,1
+ip isnt,47,2
+relays,48,9
+hop,49,3
+turn,50,1
+talking,51,1
+scrutiny,52,1
+plausible,53,2
+tradeoff,54,1
+long,55,1
+posted,56,1
+result,57,1
+increases,58,1
+routing,59,5
+scenario,60,1
+attack,61,2
+vendor,62,1
+perspective,63,2
+free,64,2
+connect,65,7
+router instance,66,3
+participants,67,1
+hidden mode,68,3
+address,69,1
+content vps,70,1
+occurred,71,1
+bandwidth,72,9
+beating,73,1
+stracing,74,1
+services,75,6
+eepsites,76,1
+people,77,4
+stay,78,1
+closer,79,1
+connected,80,1
+nodes hidden,81,1
+advantages,82,1
+content traffic,83,2
+complicated,84,1
+vast,85,2
+dont route,86,1
+servers work,87,1
+connect hidden,88,1
+relays online,89,1
+routes traffic,90,1
+bandwidth basically,91,1
+local router,92,4
+agreeing,93,1
+good,94,2
+client relay,95,1
+high bandwidth,96,2
+analyses,97,1
+vpn vps,98,1
+relays advertised,99,1
+route traffic,100,3
+paying,101,1
+attacks,102,2
+generated,103,2
+leave,104,2
+intersection,105,3
+basically,106,4
+work vpn,107,1
+talk,108,1
+protocols,109,1
+criticism,110,1
+relays servers,111,1
+tor relays,112,3
+blind content,113,3
+doesn,114,2
+dedicated,115,1
+stray,116,1
+visibility,117,1
+complaints,118,1
+pay,119,1
+bridges,120,2
+deanonymizing,121,1
+traffic routing,122,1
+publicly,123,1
+list,124,1
+worse,125,1
+contributes,126,1
+volume,127,2
+technologies,128,1
+local ip,129,2
+final,130,1
+people internet,131,1
+helps,132,1
+internet,133,3
+vps blind,134,2
+blind,135,3
+rough,136,1
+traffic client,137,1
+hidden,138,9
+needed,139,1
+idea,140,1
+owockeznan,141,1
+destination,142,1
+impossible,143,1
+description,144,1
+admin,145,1
+title,146,1
+papers,147,1
+relay relays,148,1
+life,149,1
+speed,150,1
+timeout,151,2
+content,152,3
+ip addresses,153,1
+provider,154,1
+ends,155,2
+relays relay,156,1
+client,157,6
+anonymous dont,158,1
+hours,159,2
+relay,160,3
+start,161,1
+instance traffic,162,1
+provide anonymous,163,1
+versus,164,1
+router vps,165,2
+target,166,1
+provide bandwidth,167,1
+nodes,168,3
+model client,169,1
+vpn,170,3
+clients relays,171,1
+restricted,172,1
+vps,173,14
+location,174,1
+battles,175,1
+time,176,3
+forever,177,1
+advertise,178,1
+tunnel,179,1
+instance blind,180,1
+vps hop,181,2
+disconnect,182,1
+big,183,1
+decade,184,1
+called,185,1
+vps traffic,186,2
+peers,187,1
+entire,188,1
+hope,189,1
+hell,190,1
+doesnt,191,1
+number,192,2
+reliable,193,1
+problem,194,1
+connectivity,195,1
+disadvantages,196,2
+model,197,4
+majority,198,2
+hate,199,1
+vpn running,200,1
+torchat,201,1
+relays time,202,1
+large,203,1
+work,204,3
+ip,205,4
+handle,206,1
+bandwidth tor,207,2
+clearnet,208,1
+focusing,209,1
+agree,210,1
+exit,211,1
+provide,212,3
+rely,213,1
+routing clients,214,1
+opens,215,1
+nsa,216,1
+bandwidth router,217,2
+hop local,218,2
+tor instance,219,1
+primary,220,1
+local router instance,221,2
+server,222,2
+clients,223,8
+works,224,2
+traffic relays,225,1
+differences,226,1
+guard,227,1
+relaying,228,2
+lol,229,1
+traffic people,230,2
+secret,231,1
+openvz,232,1
+vps instance,233,1
+local,234,6
+amthe,235,1
+people hop,236,1
+harder online,237,2
+ways,238,2
+tor,239,21
+advertised,240,4
+peer,241,2
+sending,242,1
+srfv,243,1
+ability,244,1
+tor clients,245,2
+academy,246,1
+regular,247,1
+architecture,248,1
+meant,249,2
+haul,250,2
+uptimes,251,2
+servers servers,252,1
+advertised tor,253,1
+cheap,254,1
+adversary,255,2
+great,256,1
+bore,257,1
+sends,258,1
+expect,259,1
+site,260,2
+hide,261,2
+anonymously,262,1
+january,263,1
+anonymous,264,3
+located,265,1
+hops,266,2
+pmdo,267,1
+icing,268,1
+levels,269,1
+addresses,270,3
+quick,271,1
+isnt advertised,272,2
+instance,273,6
+perfect,274,2
+onion,275,1
+nodes high,276,2
+rehash,277,1
+internet tor,278,1
+mode,279,3
+stands,280,1
+bandwidth high,281,2
+routes,282,3
+high,283,7
+router,284,11
+hit,285,1
+pin,286,2
+client hidden,287,1
+relay advertised,288,1
+tor people,289,1
+performance connect,290,1
+seattle,291,1
+tor network,292,4
+directly,293,1
+net,294,1
+day,295,1
+traffic routes,296,3
+traffic,297,23
+overkill,298,1
+development,299,1
+package,300,1
+read,301,1
+marketplace,302,1
+level,303,1
+tor client,304,2
+ill,305,1
+dirt,306,1
+real,307,2
+basis,308,1
+mode tor,309,1
+online vps,310,1
+clients connect,311,1
+entry,312,1
+network clients,313,1
+forget,314,1
+ama,315,1
+lists,316,1
+belongs,317,1
+true,318,1
+rarely,319,1
+relays provide,320,1
+running nodes,321,2
+dont,322,8
+errors,323,2
+time intersection,324,1
+vps router,325,1
+purpose,326,1
+instances,327,1
+harvests,328,1
+latency,329,1
+advertised vps,330,2
+contribute,331,1
+vpn pretty,332,1
+decent,333,1
+network,334,8
+running,335,4
+basically relay,336,1
+effective,337,1
+ball,338,1
+times,339,2
+security,340,1
+servers,341,3
+public,342,1
+intended,343,1
+tor hidden services,344,3
+harder,345,3
+mentioned,346,1
+designed,347,2
+mesh,348,1
+pretty,349,4
+processes,350,1
+cost,351,1
+built,352,2
+looked,353,1
+advantage,354,1
+interesting,355,1
+decides,356,1
+february,357,2
+clear,358,1
+connect servers,359,1
+resources,360,1
+contributing,361,1
+academics,362,1
+transport,363,2
+specific,364,2
+super,365,2
+addresses connect,366,1
+worthless,367,1
+performance people,368,1
+performance,369,5
+encrypted,370,2
+traffic pretty,371,2
+instance hidden,372,2
+build,373,1
+easier,374,2
+online,375,3
+tor hidden,376,3
+time connect,377,1
+user,378,1
+coming,379,2

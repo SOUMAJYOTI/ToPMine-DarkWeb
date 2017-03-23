@@ -1,0 +1,61 @@
+Topic 0:
+  quote:0.40
+  dream:0.40
+  works:0.40
+  fine:0.40
+  sloth:0.20
+  pmdream:0.20
+  january:0.20
+  herenew:0.20
+  noticed:0.20
+  december:0.20
+
+Topic 1:
+  works:0.40
+  dream:0.40
+  quote:0.40
+  fine:0.40
+  correct:0.20
+  contact:0.20
+  support:0.20
+  logon:0.20
+  password:0.20
+  december:0.20
+
+Topic 2:
+  dream:0.41
+  quote:0.40
+  works:0.39
+  fine:0.39
+  amwell:0.20
+  link:0.20
+  xandz:0.20
+  psychedelics:0.20
+  referrals:0.20
+  canaris:0.20
+
+Topic 3:
+  quote:0.40
+  fine:0.40
+  works:0.40
+  dream:0.40
+  january:0.20
+  pmdream:0.20
+  sloth:0.20
+  correct:0.20
+  support:0.20
+  password:0.20
+
+Topic 4:
+  fine:0.41
+  works:0.41
+  quote:0.40
+  dream:0.39
+  sloth:0.20
+  january:0.20
+  pmdream:0.20
+  contact:0.20
+  correct:0.20
+  logon:0.20
+
+K: 5, Log-Likelihood: -87.849, Alpha: 11.000, Beta: 1.100

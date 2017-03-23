@@ -1,0 +1,61 @@
+Topic 0:
+  latency:4.68
+  clear:3.90
+  services:3.78
+  dont:2.79
+  long:2.77
+  time:2.75
+  secure:2.45
+  pgp:2.43
+  anonymity:2.33
+  privacy:1.93
+
+Topic 1:
+  humble:4.42
+  server:4.38
+  pretty:2.71
+  supports:2.70
+  party:2.41
+  servers:2.36
+  site:2.20
+  quote:1.90
+  zrtp:1.88
+  hidden:1.81
+
+Topic 2:
+  skype:9.50
+  ms:5.84
+  application:3.71
+  apps:3.52
+  good:3.47
+  circle:2.95
+  calls:2.95
+  provide:2.95
+  silent:2.95
+  pretty:2.95
+
+Topic 3:
+  room:5.82
+  dont:5.68
+  ant:4.83
+  voice:4.74
+  link:4.33
+  service:3.95
+  situation:3.58
+  open:3.50
+  source:3.50
+  encrusted:3.03
+
+Topic 4:
+  voice:10.85
+  video:4.93
+  chat:4.88
+  encrypt:4.81
+  jitsi:4.62
+  call:3.91
+  keys:3.91
+  market:3.35
+  works:2.91
+  zaphod:2.78
+
+K: 5, Log-Likelihood: -3773.299, Alpha: 11.000, Beta: 1.100

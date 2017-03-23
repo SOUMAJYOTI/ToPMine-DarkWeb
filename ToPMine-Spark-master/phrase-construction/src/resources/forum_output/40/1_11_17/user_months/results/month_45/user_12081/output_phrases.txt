@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:0.44
+  places:0.44
+  money:0.44
+  enter:0.37
+  check file:0.37
+  bitcoin country:0.29
+  check:0.28
+  moved:0.28
+  agora:0.27
+  normal:0.27
+
+Topic 1:
+  check file:0.74
+  enter:0.71
+  agora:0.34
+  normal:0.34
+  heard:0.31
+  jump:0.31
+  renamed:0.31
+  happening:0.31
+  errors:0.31
+  site:0.31
+
+Topic 2:
+  bitcoin:0.72
+  places:0.70
+  money:0.55
+  bitcoin country:0.32
+  bticoin:0.30
+  left:0.30
+  europe:0.30
+  markets:0.30
+  problem:0.30
+  havens:0.30
+
+Topic 3:
+  enter:0.41
+  check file:0.41
+  money:0.41
+  places:0.40
+  bitcoin:0.40
+  bitcoin country:0.28
+  normal:0.28
+  agora:0.28
+  check:0.28
+  moved:0.28
+
+Topic 4:
+  enter:0.46
+  check file:0.44
+  money:0.39
+  places:0.39
+  bitcoin:0.38
+  normal:0.29
+  agora:0.29
+  moved:0.28
+  check:0.28
+  bitcoin country:0.27
+
+K: 5, Log-Likelihood: -324.564, Alpha: 11.000, Beta: 1.100

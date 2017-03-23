@@ -1,0 +1,61 @@
+Topic 0:
+  ja viel:4.69
+  kk:4.69
+  eri:3.97
+  syytt tt:3.86
+  hemmin:3.86
+  nain:3.06
+  ei:2.98
+  ja:2.87
+  asiansa:2.65
+  tt:2.53
+
+Topic 1:
+  ja:7.09
+  kirje:5.03
+  hetkell:4.67
+  kotietsinn:4.67
+  hetykset:4.67
+  kuten:4.67
+  rahat:4.67
+  kenelle:4.67
+  join:4.60
+  mahdollisuudella:4.60
+
+Topic 2:
+  kuin:7.76
+  lill:5.82
+  olet:5.81
+  kin:5.00
+  toisinaan:4.68
+  ja:4.03
+  kiinnostavat:3.87
+  mitk:3.87
+  kertoa:3.87
+  kannattaako:3.87
+
+Topic 3:
+  vaikka:7.07
+  odotellessa:5.79
+  myyj:5.67
+  huh:4.66
+  edes myyj:3.84
+  vikin:3.84
+  boikotoimaan:3.84
+  tekem:3.84
+  heikkimarin:3.84
+  ns:3.84
+
+Topic 4:
+  nain selv huijaus sensitivity:5.66
+  tarvinnut poliiseja pel kun:5.66
+  nnyt ihmettelen miten nyt:5.66
+  kiinni paska ihi mulla:5.66
+  paras mihin olen rm:5.66
+  taaskin luottomyyj ja:5.66
+  oli:5.06
+  kans sensitivityn maanantaina:4.98
+  toss vaikee olo:4.87
+  hampaat kolisee yhteen:4.87
+
+K: 5, Log-Likelihood: -11675.976, Alpha: 11.000, Beta: 1.100

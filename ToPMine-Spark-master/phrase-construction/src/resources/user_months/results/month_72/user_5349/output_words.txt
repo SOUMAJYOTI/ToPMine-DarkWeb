@@ -1,0 +1,61 @@
+Topic 0:
+  love:0.60
+  advengers:0.40
+  quote:0.20
+  market:0.20
+  december:0.20
+  fuck:0.20
+  tq:0.20
+  dream:0.20
+  post:0.20
+  uri:0.20
+
+Topic 1:
+  love:0.60
+  advengers:0.40
+  wtf:0.20
+  yea:0.20
+  uri:0.20
+  xph:0.20
+  dream:0.20
+  connect:0.20
+  december:0.20
+  pmhi:0.20
+
+Topic 2:
+  love:0.60
+  advengers:0.40
+  good:0.20
+  december:0.20
+  pmhi:0.20
+  avengersedit:0.20
+  market:0.20
+  quote:0.20
+  post:0.20
+  wtf:0.20
+
+Topic 3:
+  love:0.60
+  advengers:0.40
+  yea:0.20
+  connect:0.20
+  tq:0.20
+  post:0.20
+  avengersedit:0.20
+  market:0.20
+  fuck:0.20
+  wtf:0.20
+
+Topic 4:
+  love:0.60
+  advengers:0.40
+  tq:0.20
+  quote:0.20
+  dream:0.20
+  uri:0.20
+  good:0.20
+  post:0.20
+  market:0.20
+  fuck:0.20
+
+K: 5, Log-Likelihood: -55.325, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  silk:10.62
+  extradition:10.29
+  road:9.61
+  nash:8.59
+  ssbd:5.79
+  conduct:4.93
+  charge:4.59
+  offence:4.02
+  indictment:3.51
+  evidence:3.45
+
+Topic 1:
+  extradition:12.75
+  road:7.63
+  ssbd:7.03
+  silk:6.65
+  offence:5.93
+  person:5.09
+  conduct:5.02
+  evidence:4.51
+  site:4.06
+  indictment:3.74
+
+Topic 2:
+  protected:3.47
+  password:3.44
+  ssbd:2.81
+  court:2.37
+  people:2.29
+  wednesday:1.75
+  article:1.75
+  sitting:1.52
+  read:1.41
+  jail:1.39
+
+Topic 3:
+  nash:16.67
+  road:8.62
+  silk:8.60
+  prison:7.01
+  conspiracy:5.90
+  drug:5.02
+  allegedly:4.95
+  australian:4.19
+  federal:4.02
+  paid:3.98
+
+Topic 4:
+  bunch:4.80
+  february:4.58
+  paper:3.91
+  hand:3.91
+  tractor:3.91
+  computer:3.62
+  quote:3.32
+  court:3.00
+  lolmodfags:2.84
+  remember:2.71
+
+K: 5, Log-Likelihood: -7776.591, Alpha: 11.000, Beta: 1.100

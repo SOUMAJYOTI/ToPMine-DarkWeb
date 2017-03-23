@@ -1,0 +1,61 @@
+Topic 0:
+  invite:0.08
+  bad:0.08
+  days:0.08
+  code:0.08
+  direct:0.08
+  reddit:0.08
+  huh:0.08
+  asked:0.08
+  news:0.08
+  email:0.08
+
+Topic 1:
+  personal:0.08
+  sign:0.08
+  invite:0.08
+  site:0.08
+  code:0.08
+  good:0.08
+  news:0.08
+  front:0.08
+  ordered:0.08
+  ugh:0.08
+
+Topic 2:
+  post:0.08
+  reddits:0.08
+  customers:0.08
+  wrote:0.08
+  deal:0.08
+  huh:0.08
+  asked:0.08
+  ordered:0.08
+  direct:0.08
+  mind:0.08
+
+Topic 3:
+  reddit:0.08
+  wrote:0.08
+  mind:0.08
+  asked:0.08
+  good:0.08
+  couple:0.08
+  customers:0.08
+  email:0.08
+  ugh:0.08
+  days:0.08
+
+Topic 4:
+  invite:0.08
+  code:0.08
+  sign:0.08
+  personal:0.08
+  site:0.08
+  contacted:0.08
+  mind:0.08
+  review:0.08
+  front:0.08
+  news:0.08
+
+K: 5, Log-Likelihood: -34.569, Alpha: 11.000, Beta: 1.100

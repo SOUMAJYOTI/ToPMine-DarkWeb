@@ -1,0 +1,15 @@
+sadly,0,1
+unlock,1,1
+bad,2,1
+told,3,1
+vending,4,1
+vouched,5,1
+goods,6,1
+buyer,7,2
+post,8,1
+scammer,9,1
+true,10,1
+customers,11,2
+account,12,1
+heard,13,1
+evo,14,2

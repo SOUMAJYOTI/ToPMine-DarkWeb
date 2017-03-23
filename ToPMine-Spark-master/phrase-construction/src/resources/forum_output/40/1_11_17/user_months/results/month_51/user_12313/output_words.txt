@@ -1,0 +1,61 @@
+Topic 0:
+  finnish:0.40
+  engineering:0.20
+  pay:0.20
+  simple:0.20
+  message:0.20
+  social:0.20
+  translate:0.20
+  translated:0.20
+  messages:0.20
+  finish:0.20
+
+Topic 1:
+  finnish:0.40
+  pm:0.20
+  feel:0.20
+  speak:0.20
+  free:0.20
+  promt:0.20
+  messages:0.20
+  finish:0.20
+  translate:0.20
+  engineering:0.20
+
+Topic 2:
+  finnish:0.40
+  simple:0.20
+  social:0.20
+  finish:0.20
+  pay:0.20
+  messages:0.20
+  message:0.20
+  translate:0.20
+  translated:0.20
+  speak:0.20
+
+Topic 3:
+  finnish:0.40
+  free:0.20
+  feel:0.20
+  pm:0.20
+  speak:0.20
+  promt:0.20
+  translated:0.20
+  message:0.20
+  simple:0.20
+  translate:0.20
+
+Topic 4:
+  finnish:0.40
+  feel:0.20
+  promt:0.20
+  pm:0.20
+  free:0.20
+  speak:0.20
+  engineering:0.20
+  translate:0.20
+  translated:0.20
+  finish:0.20
+
+K: 5, Log-Likelihood: -43.003, Alpha: 11.000, Beta: 1.100

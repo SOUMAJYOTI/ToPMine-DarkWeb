@@ -1,0 +1,61 @@
+Topic 0:
+  kiss:4.73
+  encrypt:4.68
+  register:4.68
+  messages:4.68
+  market:4.68
+  public:4.68
+  free:4.68
+  invited:4.68
+  answer:4.68
+  account:4.68
+
+Topic 1:
+  vendor search:6.98
+  kiss marketplace:6.67
+  base:4.66
+  dw:4.66
+  vendor:4.63
+  post:3.83
+  vendors:3.71
+  marketplace:3.12
+  forum:3.04
+  invitation:2.31
+
+Topic 2:
+  le:11.61
+  guppys:3.83
+  directly:3.83
+  fish:3.83
+  petty:3.83
+  ruddy:3.83
+  interacting:3.83
+  heavily:3.83
+  biggest:3.83
+  abandon:3.83
+
+Topic 3:
+  rational forced encryption:5.60
+  employ:4.81
+  shipping:3.81
+  month:3.81
+  vacation:3.81
+  mode:3.81
+  listings:3.68
+  nature:3.61
+  transparent:3.61
+  didnt:3.61
+
+Topic 4:
+  kiss forum:9.32
+  march:5.22
+  house:3.72
+  gregory:3.72
+  wait:3.71
+  pmi:3.71
+  isnt:3.71
+  market places lol:3.57
+  alfred dark net:3.56
+  genuinely starting people:3.55
+
+K: 5, Log-Likelihood: -3973.000, Alpha: 11.000, Beta: 1.100

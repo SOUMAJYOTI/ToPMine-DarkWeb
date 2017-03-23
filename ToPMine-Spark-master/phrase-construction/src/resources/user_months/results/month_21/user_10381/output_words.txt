@@ -1,0 +1,61 @@
+Topic 0:
+  forum:2.67
+  market:1.16
+  forums:0.75
+  agra:0.61
+  time:0.60
+  august:0.59
+  markets:0.55
+  hub:0.44
+  day:0.43
+  luck:0.41
+
+Topic 1:
+  forum:2.27
+  market:1.13
+  forums:0.86
+  markets:0.76
+  august:0.55
+  agra:0.55
+  time:0.54
+  agora:0.46
+  working:0.44
+  hub:0.41
+
+Topic 2:
+  forum:2.93
+  market:1.06
+  forums:0.83
+  august:0.68
+  time:0.66
+  agra:0.63
+  markets:0.58
+  working:0.42
+  running:0.41
+  luck:0.40
+
+Topic 3:
+  forum:2.90
+  market:1.21
+  forums:0.79
+  time:0.63
+  august:0.63
+  agra:0.62
+  markets:0.59
+  working:0.40
+  luck:0.40
+  running:0.39
+
+Topic 4:
+  forum:3.23
+  market:1.44
+  forums:0.77
+  agra:0.58
+  time:0.57
+  august:0.54
+  markets:0.53
+  luck:0.41
+  running:0.40
+  day:0.38
+
+K: 5, Log-Likelihood: -550.053, Alpha: 11.000, Beta: 1.100

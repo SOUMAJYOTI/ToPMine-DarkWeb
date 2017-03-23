@@ -1,0 +1,61 @@
+Topic 0:
+  quote:3.56
+  september:3.54
+  listings:3.41
+  digitaldong:1.68
+  place:1.58
+  checked:1.58
+  decent:1.58
+  bad:1.58
+  today:1.58
+  abraxesi:1.51
+
+Topic 1:
+  onion:3.95
+  profile:2.03
+  shop:1.92
+  list:1.92
+  signature:1.82
+  pgp:1.72
+  nucleus:1.33
+  dream:1.33
+  oxymonster:1.29
+  market:1.19
+
+Topic 2:
+  signature:2.23
+  pgp:2.18
+  mp:1.10
+  hash:1.10
+  sha:1.10
+  message:1.09
+  version:1.09
+  signed:1.09
+  gnupg:1.09
+  pip:1.00
+
+Topic 3:
+  pgp:2.98
+  signature:1.77
+  xx:0.94
+  dw:0.94
+  tes:0.94
+  boxes:0.94
+  exbl:0.94
+  qi:0.94
+  ltdrnui:0.94
+  mwaaojehnhangj:0.94
+
+Topic 4:
+  signature:2.01
+  list:1.99
+  shop:1.99
+  pgp:1.91
+  dream:1.61
+  oxymonster:1.56
+  market:1.36
+  mp:1.00
+  version:1.00
+  sha:1.00
+
+K: 5, Log-Likelihood: -3014.005, Alpha: 11.000, Beta: 1.100

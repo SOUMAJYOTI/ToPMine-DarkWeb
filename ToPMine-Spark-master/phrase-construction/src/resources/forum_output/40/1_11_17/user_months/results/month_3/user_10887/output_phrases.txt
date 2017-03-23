@@ -1,0 +1,61 @@
+Topic 0:
+  public key:9.01
+  public keys:6.23
+  addresses:5.78
+  javascript required:5.28
+  community:4.94
+  mdparity february:4.89
+  transaction simple figure:4.68
+  correct terminology:4.68
+  funds cases multi sir:4.68
+  keys unlock access:4.68
+
+Topic 1:
+  javascript:7.03
+  seller:5.23
+  cryptography:4.68
+  solution:4.68
+  work:4.68
+  implemented:4.68
+  task:4.68
+  marketplace:3.80
+  multsig:3.80
+  tmp:3.80
+
+Topic 2:
+  market:12.56
+  markets:12.02
+  quote jolly roger:8.18
+  february pmquote:8.18
+  incompetent:7.03
+  people:5.18
+  multisignature address:4.95
+  ronin february pm:4.68
+  developers:4.68
+  ronin february pmi:4.68
+
+Topic 3:
+  imply javascript:5.77
+  imply:5.77
+  bad recommend electrum bitcoind:5.77
+  effort verify:4.74
+  js:4.67
+  guarantee:4.62
+  electrum bitcoind:3.83
+  free open sourced:3.82
+  locally:3.78
+  machine:3.78
+
+Topic 4:
+  market:13.99
+  buyer seller:7.95
+  market fees:7.92
+  markets:5.46
+  multisignature address:5.42
+  market choice:4.68
+  ability close deal:4.68
+  quote ronin february pm:4.68
+  deal:4.67
+  trust point multisig addresses:4.48
+
+K: 5, Log-Likelihood: -11871.627, Alpha: 11.000, Beta: 1.100

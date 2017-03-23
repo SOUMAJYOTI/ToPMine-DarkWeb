@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.37
+  mit:0.30
+  myyj:0.23
+  kuun:0.21
+  diana:0.21
+  pahoitteli:0.21
+  lankaan:0.21
+  reilun:0.21
+  tuonne:0.21
+  hein:0.21
+
+Topic 1:
+  ja:0.39
+  mit:0.33
+  myyj:0.21
+  ett:0.20
+  ruuhkaa:0.19
+  hein:0.19
+  yll:0.19
+  syntynytt:0.19
+  reilun:0.19
+  vahvisti:0.19
+
+Topic 2:
+  ja:0.45
+  mit:0.43
+  ett:0.20
+  nyt:0.20
+  aloittaa:0.20
+  tess:0.20
+  se:0.20
+  hti:0.20
+  kuullut:0.20
+  nose:0.20
+
+Topic 3:
+  ja:0.38
+  mit:0.33
+  myyj:0.21
+  ett:0.21
+  moni:0.20
+  yl:0.20
+  mielest:0.20
+  paljon:0.20
+  ytt:0.20
+  topicci:0.20
+
+Topic 4:
+  ja:0.45
+  mit:0.43
+  ett:0.21
+  quote:0.20
+  itsell:0.20
+  pantti:0.20
+  oli:0.20
+  litilille:0.20
+  tess:0.20
+  hippiespace:0.20
+
+K: 5, Log-Likelihood: -370.200, Alpha: 11.000, Beta: 1.100

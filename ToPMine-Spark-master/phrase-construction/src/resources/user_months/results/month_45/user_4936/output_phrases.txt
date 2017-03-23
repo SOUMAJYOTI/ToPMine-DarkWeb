@@ -1,0 +1,61 @@
+Topic 0:
+  clear net:10.18
+  dnm:10.16
+  markets:9.09
+  trolls:7.93
+  people:5.86
+  dont:5.43
+  don:5.43
+  unaware:5.05
+  communities:5.05
+  welcoming:5.05
+
+Topic 1:
+  quote:10.16
+  glad place assoicate:9.69
+  reddit waste fucking time:9.66
+  sucking question throwaway called:9.65
+  vendor replies le reddit:8.10
+  directly contradict bringing nonsense:8.09
+  people vendors directly obscure:8.09
+  ass answers bullshit drugs:8.09
+  glad community talk:8.09
+  eyeseeker pmseriously:8.09
+
+Topic 2:
+  onion time:100.01
+  onion uptime:17.93
+  invite link join time:15.37
+  onion register:10.24
+  um onion time:10.24
+  market:9.13
+  love avengers:7.57
+  kiss:5.11
+  zave:5.11
+  bm:5.11
+
+Topic 3:
+  sites:10.24
+  decent:10.24
+  read:10.24
+  reddit:9.19
+  people:8.29
+  post:5.94
+  dothat:5.11
+  voices:5.11
+  journalists:5.11
+  provide:5.11
+
+Topic 4:
+  love avengers:6.21
+  upabout:5.92
+  escrow:5.92
+  sig:5.06
+  check:4.98
+  link:4.98
+  vendors directly:4.83
+  glad community talk people:4.82
+  drugs vendor replies le:4.81
+  obscure ass answers bullshit:4.80
+
+K: 5, Log-Likelihood: -11545.147, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  profile:0.42
+  post:0.14
+  forum:0.14
+  signature:0.14
+  modify:0.14
+  ve:0.14
+  advance:0.11
+  profiles:0.11
+  key:0.11
+  posts:0.11
+
+Topic 1:
+  profile:0.42
+  forum:0.14
+  signature:0.14
+  modify:0.14
+  post:0.14
+  ve:0.14
+  pgp:0.12
+  bottom:0.12
+  posts:0.12
+  key:0.12
+
+Topic 2:
+  profile:0.42
+  modify:0.14
+  signature:0.14
+  forum:0.14
+  post:0.14
+  ve:0.14
+  bottom:0.12
+  advance:0.12
+  key:0.12
+  posts:0.12
+
+Topic 3:
+  profile:0.41
+  ve:0.14
+  post:0.14
+  modify:0.14
+  forum:0.14
+  signature:0.14
+  profiles:0.12
+  pgp:0.12
+  advance:0.12
+  bottom:0.12
+
+Topic 4:
+  profile:0.41
+  ve:0.14
+  signature:0.14
+  modify:0.14
+  post:0.14
+  forum:0.14
+  posts:0.12
+  key:0.12
+  bottom:0.12
+  pgp:0.12
+
+K: 5, Log-Likelihood: -21.826, Alpha: 11.000, Beta: 1.100

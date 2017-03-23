@@ -1,0 +1,61 @@
+Topic 0:
+  coinit:0.85
+  mutta:0.83
+  lompakossa:0.40
+  normaalisti:0.40
+  mukaan:0.40
+  oval:0.40
+  jumissa:0.40
+  ei:0.40
+  ongelmia:0.40
+  mit:0.40
+
+Topic 1:
+  coinit:0.87
+  mutta:0.76
+  lompakossa:0.40
+  sen:0.40
+  mit:0.40
+  siirtyneet:0.40
+  mukaan:0.40
+  ne:0.40
+  ei:0.40
+  oval:0.40
+
+Topic 2:
+  mutta:0.86
+  coinit:0.75
+  jumissa:0.40
+  ja:0.40
+  normaalisti:0.40
+  sen:0.40
+  ne:0.40
+  lompakossa:0.40
+  ongelmia:0.40
+  oval:0.40
+
+Topic 3:
+  mutta:0.75
+  coinit:0.74
+  ongelmia:0.41
+  mukaan:0.41
+  oval:0.40
+  siirtyneet:0.40
+  sen:0.40
+  ei:0.40
+  ne:0.40
+  mit:0.40
+
+Topic 4:
+  mutta:0.81
+  coinit:0.79
+  ja:0.40
+  ne:0.40
+  mit:0.40
+  sen:0.40
+  ei:0.40
+  jumissa:0.40
+  siirtyneet:0.40
+  mukaan:0.40
+
+K: 5, Log-Likelihood: -312.531, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:0.81
+  version:0.62
+  trust:0.60
+  source:0.56
+  versions:0.56
+  software:0.55
+  open:0.51
+  symantec:0.50
+  bits:0.49
+  bit:0.47
+
+Topic 1:
+  thereheads:1.82
+  thumb:1.82
+  secure:1.82
+  amazon:1.82
+  drives:1.82
+  severed:1.82
+  dealt:1.82
+  required:1.82
+  biometric:1.82
+  usbs:1.82
+
+Topic 2:
+  trust:0.62
+  easily:0.49
+  quote:0.37
+  statements:0.37
+  versions:0.36
+  source:0.35
+  software:0.34
+  version:0.34
+  pgp:0.33
+  open:0.31
+
+Topic 3:
+  pgp:9.30
+  source:5.85
+  version:5.34
+  versions:4.19
+  symantec:4.00
+  software:3.75
+  open:3.70
+  keys:2.83
+  bit:2.26
+  crypto:2.23
+
+Topic 4:
+  version:2.68
+  software:2.34
+  source:2.22
+  versions:1.87
+  pgp:1.54
+  open:1.46
+  keys:1.39
+  key:1.21
+  symantec:1.17
+  bits:1.04
+
+K: 5, Log-Likelihood: -1638.856, Alpha: 11.000, Beta: 1.100

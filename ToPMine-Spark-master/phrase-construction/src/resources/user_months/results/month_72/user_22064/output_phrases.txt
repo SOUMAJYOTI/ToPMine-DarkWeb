@@ -1,0 +1,61 @@
+Topic 0:
+  source:5.81
+  documentation:4.53
+  signal:4.40
+  mix:3.87
+  code:3.87
+  thwart:3.87
+  assume:3.87
+  signals:3.87
+  link:2.95
+  understand:2.95
+
+Topic 1:
+  physically:5.87
+  voip:5.86
+  mixed bitcoin:5.85
+  vpn:5.28
+  call:3.34
+  adroit:3.14
+  tor:2.91
+  company:2.85
+  phone:2.85
+  reason chain:2.85
+
+Topic 2:
+  imei:7.74
+  flag:5.80
+  red:3.85
+  imsi:3.85
+  cycle:3.85
+  swapping:2.95
+  quote el presidente january:2.01
+  high:1.91
+  cheap:1.91
+  contract:1.91
+
+Topic 3:
+  tor:7.18
+  onion sip:6.01
+  hidden service:6.01
+  call:5.10
+  cellar:3.47
+  enjoyed:2.94
+  server:2.94
+  sip:2.94
+  directly relay:2.94
+  create:2.94
+
+Topic 4:
+  satellite phones:9.16
+  worth:3.00
+  satellite phone:3.00
+  bother:3.00
+  sensitive:3.00
+  tasks:3.00
+  disabled:3.00
+  category:3.00
+  communicating:3.00
+  correct:3.00
+
+K: 5, Log-Likelihood: -5116.538, Alpha: 11.000, Beta: 1.100

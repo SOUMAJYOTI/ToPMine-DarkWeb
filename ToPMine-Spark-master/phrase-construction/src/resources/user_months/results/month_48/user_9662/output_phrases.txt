@@ -1,0 +1,61 @@
+Topic 0:
+  synchronicities:1.49
+  higher created:1.49
+  meaningful:0.64
+  beings:0.64
+  life coincidence:0.64
+  life live:0.64
+  easily:0.64
+  planes:0.64
+  programmable:0.64
+  silver:0.64
+
+Topic 1:
+  time:2.19
+  future:2.16
+  people:2.00
+  return:0.93
+  died:0.92
+  death:0.92
+  highest degree:0.92
+  purity:0.92
+  work:0.91
+  book:0.91
+
+Topic 2:
+  higher created:0.32
+  synchronicities:0.32
+  time:0.22
+  people:0.22
+  future:0.22
+  higher:0.20
+  start:0.20
+  daughter:0.20
+  experience:0.20
+  bush:0.20
+
+Topic 3:
+  time:0.43
+  people:0.43
+  future:0.43
+  death:0.28
+  book:0.28
+  highest degree:0.28
+  purity:0.28
+  died:0.28
+  work:0.28
+  return:0.28
+
+Topic 4:
+  people:1.38
+  future:1.23
+  time:1.19
+  work:0.64
+  book:0.64
+  died:0.64
+  purity:0.64
+  highest degree:0.63
+  death:0.63
+  return:0.62
+
+K: 5, Log-Likelihood: -1785.865, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  messages:5.24
+  fan:4.82
+  deniability:4.80
+  double:4.72
+  plausible:4.70
+  posting:4.69
+  trend:4.62
+  send:4.58
+  big:4.56
+  wrapping:4.50
+
+Topic 1:
+  works:3.74
+  message:3.65
+  key:3.35
+  pip:3.21
+  sr:2.73
+  trusted:1.96
+  forum:1.81
+  phrases:1.81
+  phrase:1.81
+  friends:1.81
+
+Topic 2:
+  february:10.74
+  enigmaticsmile:7.55
+  real:5.69
+  deal:5.65
+  dont:5.18
+  smart:3.66
+  sending:3.60
+  true:3.60
+  fellow:3.60
+  resurrection:3.60
+
+Topic 3:
+  pgp:14.25
+  key:7.98
+  sr:7.22
+  vendors:4.52
+  hard:4.51
+  signing:4.36
+  created:3.91
+  sandra:3.91
+  bob:3.91
+  tmg:3.91
+
+Topic 4:
+  key:27.64
+  pip:10.04
+  winpt:3.92
+  privacy:3.92
+  public:3.92
+  gnu:3.92
+  comment:3.92
+  download:3.92
+  gnupg:3.91
+  mingw:3.91
+
+K: 5, Log-Likelihood: -3468.665, Alpha: 11.000, Beta: 1.100

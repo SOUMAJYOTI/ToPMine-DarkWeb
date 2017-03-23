@@ -1,0 +1,61 @@
+Topic 0:
+  cartridge gram:0.32
+  open:0.16
+  busy:0.08
+  point:0.08
+  hub:0.08
+  order:0.08
+  verge:0.08
+  autocancellation:0.08
+  spamming:0.08
+  eve:0.08
+
+Topic 1:
+  cartridge gram:0.32
+  open:0.16
+  sativa:0.08
+  horrid:0.08
+  indica:0.08
+  point:0.08
+  eve:0.08
+  verge:0.08
+  hub:0.08
+  autocancellation:0.08
+
+Topic 2:
+  cartridge gram:0.32
+  open:0.16
+  horrid:0.08
+  indica:0.08
+  sativa:0.08
+  spamming:0.08
+  autocancellation:0.08
+  verge:0.08
+  order:0.08
+  busy:0.08
+
+Topic 3:
+  cartridge gram:0.32
+  open:0.16
+  indica:0.08
+  sativa:0.08
+  horrid:0.08
+  eve:0.08
+  verge:0.08
+  order:0.08
+  point:0.08
+  autocancellation:0.08
+
+Topic 4:
+  cartridge gram:0.32
+  open:0.16
+  sativa:0.08
+  indica:0.08
+  horrid:0.08
+  spamming:0.08
+  hub:0.08
+  autocancellation:0.08
+  eve:0.08
+  busy:0.08
+
+K: 5, Log-Likelihood: -17.385, Alpha: 11.000, Beta: 1.100

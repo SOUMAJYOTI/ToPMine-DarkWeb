@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:11.42
+  buyers:9.24
+  scenario:7.57
+  fact:7.57
+  estimate hours:7.57
+  strategy:7.57
+  orders:7.55
+  market:6.50
+  vendors withdraw:5.26
+  stuff:3.70
+
+Topic 1:
+  deposited:3.73
+  hours ago:2.27
+  doubt:2.27
+  fingers:2.27
+  gut:2.27
+  kinda:2.27
+  hopes:2.27
+  keeping:2.27
+  showing:2.27
+  ill:2.27
+
+Topic 2:
+  people:4.67
+  reply:4.66
+  bullshit:4.66
+  moment:4.63
+  send deposits:4.63
+  morning:3.49
+  worried:2.31
+  absolutely:2.31
+  backlog transactions:2.31
+  st:2.31
+
+Topic 3:
+  bet btc:4.31
+  deposit:3.44
+  mine:2.71
+  properly:2.30
+  wtf:2.30
+  top:2.30
+  isnt:2.30
+  hitting:2.30
+  deposit button:2.30
+  payment:2.30
+
+Topic 4:
+  btc:5.78
+  worry:4.66
+  inputs:4.66
+  heyday:4.61
+  tomorrow:4.61
+  happy:4.61
+  trust:3.83
+  order:3.22
+  money fact:2.31
+  scam deposit:2.31
+
+K: 5, Log-Likelihood: -5340.994, Alpha: 11.000, Beta: 1.100

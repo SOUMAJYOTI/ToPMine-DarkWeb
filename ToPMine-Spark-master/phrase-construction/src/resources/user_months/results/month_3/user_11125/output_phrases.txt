@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:0.48
+  agora:0.16
+  signature:0.16
+  account:0.16
+  pgp:0.16
+  sr:0.16
+  market:0.16
+  created:0.16
+  big:0.08
+  minutes:0.08
+
+Topic 1:
+  vendor:0.49
+  market:0.16
+  signature:0.16
+  created:0.16
+  sr:0.16
+  account:0.16
+  agora:0.16
+  pgp:0.16
+  nxzq:0.08
+  vgvhmlt:0.08
+
+Topic 2:
+  vendor:0.50
+  pgp:0.16
+  signature:0.16
+  created:0.16
+  sr:0.16
+  account:0.16
+  agora:0.16
+  market:0.16
+  bmqe:0.08
+  linking:0.08
+
+Topic 3:
+  vendor:0.48
+  market:0.16
+  account:0.16
+  created:0.16
+  agora:0.16
+  pgp:0.16
+  signature:0.16
+  sr:0.16
+  sorted:0.08
+  big:0.08
+
+Topic 4:
+  vendor:0.48
+  sr:0.16
+  account:0.16
+  agora:0.16
+  pgp:0.16
+  created:0.16
+  signature:0.16
+  market:0.16
+  minutes:0.08
+  sorted:0.08
+
+K: 5, Log-Likelihood: -292.867, Alpha: 11.000, Beta: 1.100

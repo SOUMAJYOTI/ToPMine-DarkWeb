@@ -1,0 +1,61 @@
+Topic 0:
+  site:3.72
+  wallet:2.81
+  funds:1.81
+  market:1.63
+  people:1.40
+  leave:0.83
+  link:0.83
+  decide:0.83
+  profile:0.83
+  orders:0.83
+
+Topic 1:
+  sheep:3.90
+  advice:3.10
+  bad:2.28
+  shooting:2.10
+  quote:1.25
+  bitcoins:1.18
+  black:1.18
+  logo:1.17
+  services:1.17
+  bank:1.17
+
+Topic 2:
+  persistence:3.73
+  pgp:3.45
+  tails:3.37
+  newest:2.31
+  version:2.17
+  advice:1.91
+  march:1.66
+  good:1.36
+  mount:1.11
+  files:1.06
+
+Topic 3:
+  pgp:2.26
+  tails:2.11
+  advice:2.09
+  persistence:1.93
+  version:1.51
+  newest:1.38
+  good:1.33
+  march:1.29
+  quote:1.20
+  mount:1.06
+
+Topic 4:
+  tails:3.81
+  pgp:2.71
+  persistence:2.66
+  advice:2.38
+  version:1.89
+  newest:1.86
+  good:1.37
+  march:1.29
+  quote:1.15
+  mount:1.03
+
+K: 5, Log-Likelihood: -1157.759, Alpha: 11.000, Beta: 1.100

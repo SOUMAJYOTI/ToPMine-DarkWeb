@@ -1,0 +1,61 @@
+Topic 0:
+  stealth:0.40
+  ranks:0.20
+  consistent:0.20
+  fall:0.20
+  evo:0.20
+  customers:0.20
+  star:0.20
+  moved:0.20
+  mile:0.20
+  reports:0.20
+
+Topic 1:
+  stealth:0.40
+  customer:0.20
+  extra:0.20
+  mile:0.20
+  shining:0.20
+  top:0.20
+  great:0.20
+  reviews:0.20
+  service:0.20
+  product:0.20
+
+Topic 2:
+  stealth:0.40
+  fall:0.20
+  shining:0.20
+  star:0.20
+  ranks:0.20
+  consistent:0.20
+  customers:0.20
+  service:0.20
+  sr:0.20
+  bomber:0.20
+
+Topic 3:
+  stealth:0.40
+  product:0.20
+  bomber:0.20
+  great:0.20
+  moved:0.20
+  sr:0.20
+  extra:0.20
+  service:0.20
+  boost:0.20
+  reports:0.20
+
+Topic 4:
+  stealth:0.40
+  top:0.20
+  reviews:0.20
+  deserves:0.20
+  evo:0.20
+  boost:0.20
+  product:0.20
+  sr:0.20
+  great:0.20
+  customer:0.20
+
+K: 5, Log-Likelihood: -70.759, Alpha: 11.000, Beta: 1.100

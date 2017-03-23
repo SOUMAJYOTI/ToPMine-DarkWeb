@@ -1,0 +1,61 @@
+Topic 0:
+  month:7.33
+  receive:2.79
+  updates:2.73
+  check pig:2.68
+  days agonever received:2.62
+  shirt:2.60
+  days:1.69
+  backerkit:1.69
+  haven:1.67
+  forward:1.67
+
+Topic 1:
+  money:1.28
+  sites:0.88
+  delivered:0.79
+  months scam:0.79
+  things:0.79
+  subscriptions:0.79
+  shirts magazine:0.78
+  paid:0.78
+  people:0.72
+  amir:0.62
+
+Topic 2:
+  chance:2.12
+  bitcoin:1.03
+  money:1.02
+  amir:1.02
+  people:0.99
+  cody:0.93
+  late:0.93
+  good:0.93
+  communication:0.93
+  big:0.93
+
+Topic 3:
+  month:1.78
+  days agonever received:1.06
+  shirt:1.04
+  check pig:0.99
+  updates:0.96
+  receive:0.89
+  project:0.87
+  jesse:0.80
+  happening team:0.77
+  didn:0.76
+
+Topic 4:
+  project:0.72
+  posted:0.55
+  update:0.54
+  didnt:0.51
+  bitcoins:0.51
+  quote:0.46
+  month:0.46
+  shirt:0.39
+  check pig:0.36
+  days agonever received:0.35
+
+K: 5, Log-Likelihood: -1332.246, Alpha: 11.000, Beta: 1.100

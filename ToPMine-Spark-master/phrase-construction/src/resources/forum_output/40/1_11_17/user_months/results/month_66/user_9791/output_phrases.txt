@@ -1,0 +1,61 @@
+Topic 0:
+  order:0.28
+  address:0.28
+  buy:0.17
+  uno:0.14
+  mobile:0.14
+  stress:0.14
+  adroit:0.14
+  cheap:0.14
+  digging:0.14
+  shit:0.14
+
+Topic 1:
+  order:0.28
+  address:0.28
+  buy:0.17
+  videos:0.14
+  vendors:0.14
+  things:0.14
+  mailman:0.14
+  complete:0.14
+  loaded:0.14
+  private:0.14
+
+Topic 2:
+  address:0.28
+  order:0.28
+  buy:0.17
+  service:0.14
+  bitin:0.14
+  bundle:0.14
+  explain:0.14
+  privacy:0.14
+  tor:0.14
+  cookies:0.14
+
+Topic 3:
+  address:0.27
+  order:0.27
+  buy:0.17
+  tails:0.14
+  phone:0.14
+  os:0.14
+  tablet:0.14
+  mobile:0.14
+  shit:0.14
+  chances:0.14
+
+Topic 4:
+  order:0.28
+  address:0.28
+  buy:0.17
+  android:0.14
+  java:0.14
+  greatly:0.14
+  mycelium:0.14
+  cookies:0.14
+  complete:0.14
+  bitin:0.14
+
+K: 5, Log-Likelihood: -172.150, Alpha: 11.000, Beta: 1.100

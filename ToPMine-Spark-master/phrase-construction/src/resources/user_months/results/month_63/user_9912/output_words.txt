@@ -1,0 +1,61 @@
+Topic 0:
+  avengers:0.81
+  love:0.76
+  market:0.62
+  abraham:0.20
+  alphabay:0.20
+  ai:0.20
+  aff:0.20
+  affiliate:0.20
+  abraxas:0.20
+  pip:0.20
+
+Topic 1:
+  avengers:0.79
+  love:0.76
+  market:0.63
+  abraham:0.20
+  alphabay:0.20
+  aff:0.20
+  affiliate:0.20
+  abraxas:0.20
+  ai:0.20
+  pip:0.20
+
+Topic 2:
+  love:0.84
+  avengers:0.74
+  market:0.61
+  alphabay:0.20
+  abraham:0.20
+  pip:0.20
+  abraxas:0.20
+  affiliate:0.20
+  ai:0.20
+  aff:0.20
+
+Topic 3:
+  avengers:0.84
+  love:0.82
+  market:0.57
+  affiliate:0.20
+  ai:0.20
+  pip:0.20
+  abraxas:0.20
+  aff:0.20
+  abraham:0.20
+  alphabay:0.20
+
+Topic 4:
+  avengers:0.83
+  love:0.81
+  market:0.57
+  abraxas:0.20
+  pip:0.20
+  aff:0.20
+  ai:0.20
+  affiliate:0.20
+  abraham:0.20
+  alphabay:0.20
+
+K: 5, Log-Likelihood: -39.310, Alpha: 11.000, Beta: 1.100

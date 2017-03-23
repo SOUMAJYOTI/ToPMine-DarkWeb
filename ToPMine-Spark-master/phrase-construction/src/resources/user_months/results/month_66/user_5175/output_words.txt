@@ -1,0 +1,61 @@
+Topic 0:
+  links:13.88
+  site:12.20
+  list:11.75
+  alpha:8.39
+  net:6.15
+  nice:5.78
+  odd:5.78
+  keen:5.78
+  prefer:5.78
+  instants:5.78
+
+Topic 1:
+  coins:13.33
+  escrow:10.88
+  market:8.81
+  vendors:6.25
+  orders:5.89
+  risk:4.85
+  constantly:3.89
+  losing:3.40
+  exit:3.40
+  struggle:3.37
+
+Topic 2:
+  escrow:6.72
+  imo:4.83
+  time:4.31
+  multisig:4.19
+  reteat:3.90
+  effort:3.90
+  vendors:3.73
+  abraxas:3.29
+  losing:2.79
+  call:2.76
+
+Topic 3:
+  exit:8.81
+  market:8.22
+  abraxas:5.90
+  admins:4.33
+  address:4.22
+  dead:3.57
+  moving:3.55
+  btc:3.44
+  scams:3.04
+  reports:2.43
+
+Topic 4:
+  market:11.52
+  system:9.95
+  love:7.85
+  avengers:6.77
+  dream:5.62
+  forum:4.76
+  security:3.95
+  faster:3.95
+  running:3.95
+  respond:3.95
+
+K: 5, Log-Likelihood: -5400.582, Alpha: 11.000, Beta: 1.100

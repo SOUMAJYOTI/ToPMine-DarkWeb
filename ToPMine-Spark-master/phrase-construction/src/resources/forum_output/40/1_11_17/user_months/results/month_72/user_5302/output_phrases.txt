@@ -1,0 +1,61 @@
+Topic 0:
+  meet:0.99
+  satcitananda:0.75
+  great:0.66
+  explanation:0.65
+  post glad:0.65
+  amazing:0.64
+  stickied:0.64
+  excellent:0.63
+  sticked:0.62
+  writing:0.62
+
+Topic 1:
+  meet:0.98
+  satcitananda:0.82
+  nice:0.65
+  sticked:0.64
+  stickied:0.64
+  post glad:0.64
+  amazing:0.63
+  excellent:0.63
+  garden:0.62
+  jor:0.61
+
+Topic 2:
+  post:1.51
+  friendly:1.44
+  frienda:1.44
+  check:1.44
+  listings:1.44
+  preferred:1.44
+  lessthanthree:1.44
+  onenucleus:1.44
+  dhl:1.44
+  newcombers:1.44
+
+Topic 3:
+  vendors:7.73
+  dont:2.91
+  based:2.87
+  quote:1.58
+  kind place kind:1.58
+  escrow market:1.58
+  threads dedicated:1.58
+  forums:1.58
+  peruse threads review:1.58
+  board people:1.58
+
+Topic 4:
+  vendors:5.10
+  based:2.91
+  dont:2.87
+  expect treat escrow market:2.32
+  peruse:2.32
+  kind place:2.32
+  kind people roll:2.32
+  place pointers public:2.32
+  secret listed:2.32
+  people:2.32
+
+K: 5, Log-Likelihood: -1672.606, Alpha: 11.000, Beta: 1.100

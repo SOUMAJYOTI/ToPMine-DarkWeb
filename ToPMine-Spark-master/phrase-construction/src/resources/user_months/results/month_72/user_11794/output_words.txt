@@ -1,0 +1,61 @@
+Topic 0:
+  dash:10.57
+  social:7.94
+  media:4.94
+  wallet:4.52
+  blockchain:4.05
+  masternodes:3.94
+  tier:3.94
+  news:3.94
+  wiki:3.49
+  system:3.37
+
+Topic 1:
+  dash:22.38
+  electrum:9.31
+  trezor:4.94
+  wallet:4.77
+  electric:4.09
+  installer:3.94
+  popular:2.94
+  install:2.94
+  users:2.94
+  release:2.94
+
+Topic 2:
+  dash:3.69
+  booth:1.31
+  miami:1.16
+  pic:1.08
+  tor:1.06
+  quote:1.04
+  dashpay:0.94
+  speech:0.89
+  onion:0.82
+  dev:0.76
+
+Topic 3:
+  dash:3.05
+  quote:2.51
+  tor:2.06
+  work:1.71
+  onion:1.20
+  dev:1.19
+  boneskoopa:0.95
+  february:0.94
+  pic:0.90
+  speech:0.76
+
+Topic 4:
+  type:3.20
+  onion:2.90
+  tor:2.78
+  quote:2.35
+  wild:1.42
+  quartus:1.42
+  black:1.41
+  platform:1.41
+  tek:1.41
+  killer:1.41
+
+K: 5, Log-Likelihood: -2983.318, Alpha: 11.000, Beta: 1.100

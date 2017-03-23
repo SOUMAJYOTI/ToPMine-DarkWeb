@@ -1,0 +1,61 @@
+Topic 0:
+  problem:0.40
+  takes:0.20
+  performance:0.20
+  hang:0.20
+  correct:0.20
+  point:0.20
+  alfred:0.20
+  longer:0.20
+  occasionlly:0.20
+  things:0.20
+
+Topic 1:
+  problem:0.40
+  onion:0.20
+  agorahooawayyfoe:0.20
+  catchpa:0.20
+  load:0.20
+  longer:0.20
+  performance:0.20
+  things:0.20
+  correct:0.20
+  hang:0.20
+
+Topic 2:
+  problem:0.40
+  agora:0.20
+  terrorist:0.20
+  methanks:0.20
+  answer:0.20
+  forgib:0.20
+  top:0.20
+  idea:0.20
+  image:0.20
+  captcha:0.20
+
+Topic 3:
+  problem:0.40
+  unusual:0.20
+  occasionlly:0.20
+  reaso:0.20
+  load:0.20
+  agra:0.20
+  longer:0.20
+  point:0.20
+  address:0.20
+  temporary:0.20
+
+Topic 4:
+  problem:0.40
+  forgib:0.20
+  image:0.20
+  plz:0.20
+  captcha:0.20
+  top:0.20
+  logging:0.20
+  idea:0.20
+  methanks:0.20
+  answer:0.20
+
+K: 5, Log-Likelihood: -114.028, Alpha: 11.000, Beta: 1.100

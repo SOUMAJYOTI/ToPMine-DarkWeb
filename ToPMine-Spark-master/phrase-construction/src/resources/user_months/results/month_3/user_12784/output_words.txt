@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.53
+  coin:0.42
+  hey:0.40
+  great:0.39
+  subs:0.20
+  profile:0.20
+  gear:0.20
+  things:0.20
+  didnt:0.20
+  multi:0.20
+
+Topic 1:
+  market:0.45
+  coin:0.44
+  great:0.39
+  hey:0.39
+  idea:0.21
+  listings:0.21
+  curious:0.21
+  today:0.21
+  checked:0.21
+  signed:0.21
+
+Topic 2:
+  market:0.49
+  coin:0.43
+  great:0.39
+  hey:0.39
+  meaning:0.21
+  place:0.21
+  profile:0.21
+  subs:0.21
+  advance:0.21
+  ready:0.21
+
+Topic 3:
+  market:0.79
+  hey:0.41
+  great:0.41
+  coin:0.35
+  crap:0.22
+  pandora:0.22
+  vendors:0.22
+  bank:0.22
+  amazing:0.22
+  black:0.22
+
+Topic 4:
+  market:0.74
+  hey:0.41
+  great:0.41
+  coin:0.36
+  black:0.22
+  bank:0.22
+  crap:0.22
+  amazing:0.22
+  vendors:0.22
+  pandora:0.22
+
+K: 5, Log-Likelihood: -145.258, Alpha: 11.000, Beta: 1.100

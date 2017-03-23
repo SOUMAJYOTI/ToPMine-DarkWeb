@@ -1,0 +1,61 @@
+Topic 0:
+  encryption:1.86
+  service:1.83
+  case:1.82
+  email:1.75
+  stored:1.74
+  gold standard:1.26
+  senders computer:0.78
+  assailable transit:0.78
+  point:0.78
+  webmail:0.78
+
+Topic 1:
+  encryption:1.01
+  service:1.00
+  gold standard:0.71
+  stored:0.55
+  email:0.53
+  arriving:0.53
+  webmail service:0.53
+  transit email:0.53
+  assailable:0.53
+  fail:0.53
+
+Topic 2:
+  machine:1.75
+  transfer:0.77
+  airgapped:0.77
+  committing:0.77
+  network:0.77
+  requirement:0.77
+  decryption:0.77
+  ymmv:0.77
+  internet:0.77
+  facing:0.77
+
+Topic 3:
+  mails:3.61
+  mail:2.36
+  settings:2.36
+  fro:1.11
+  semi:1.11
+  mime:1.11
+  encrypt:1.11
+  signatures:1.11
+  allowing:1.11
+  account:1.11
+
+Topic 4:
+  key:3.56
+  situation:2.32
+  generated:2.32
+  hushmail:2.32
+  details:2.32
+  search:1.08
+  devil:1.08
+  worms:1.08
+  countermail:1.08
+  emails thing:1.08
+
+K: 5, Log-Likelihood: -856.757, Alpha: 11.000, Beta: 1.100

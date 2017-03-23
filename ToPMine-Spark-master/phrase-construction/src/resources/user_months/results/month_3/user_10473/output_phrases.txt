@@ -1,0 +1,61 @@
+Topic 0:
+  topic:8.44
+  good:5.95
+  cosanostra:5.70
+  amount:5.64
+  happened:5.59
+  ive:4.88
+  offering:4.88
+  isnt:4.86
+  forum:4.79
+  vending:4.75
+
+Topic 1:
+  vps:8.38
+  authentication:5.71
+  tor:5.58
+  slowing:4.88
+  employing:4.88
+  thinking:4.88
+  worry:4.88
+  issue:4.88
+  icweasel:4.88
+  router tor:4.88
+
+Topic 2:
+  route traffic:14.72
+  tor network:14.72
+  tor relays:14.72
+  network:14.72
+  client:14.72
+  tor hidden services:14.72
+  plausible deniability traffic:9.81
+  tor bridges:9.81
+  connect:9.81
+  tor clients:9.81
+
+Topic 3:
+  vps:14.94
+  blind content:7.33
+  bmr:7.06
+  quote:6.80
+  stuff bmr:6.25
+  safe darkweb dark times:6.25
+  guy:6.05
+  high hopes:5.85
+  january:5.49
+  router:5.21
+
+Topic 4:
+  tor:15.52
+  connection:9.80
+  tor software:7.35
+  times:5.78
+  united:5.71
+  tor project:5.71
+  organization:5.71
+  states:5.71
+  government:5.71
+  december:5.71
+
+K: 5, Log-Likelihood: -16723.960, Alpha: 11.000, Beta: 1.100

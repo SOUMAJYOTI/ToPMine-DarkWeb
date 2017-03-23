@@ -1,0 +1,61 @@
+Topic 0:
+  android:1.24
+  good:1.07
+  free:1.04
+  open:0.95
+  apps:0.95
+  audited:0.95
+  fye:0.95
+  grab:0.94
+  textsecure:0.94
+  fill:0.94
+
+Topic 1:
+  talk:3.21
+  android:1.85
+  business:1.41
+  services:1.40
+  messaged:1.40
+  people:1.40
+  messaging:1.40
+  meet:1.39
+  ect:1.39
+  kik:1.39
+
+Topic 2:
+  person:2.35
+  local:1.59
+  time:1.56
+  talking:1.42
+  code:1.33
+  eat:0.93
+  le:0.93
+  location:0.92
+  fruit:0.92
+  category:0.91
+
+Topic 3:
+  code:1.32
+  person:1.27
+  talking:1.23
+  time:1.09
+  local:1.06
+  meal:0.81
+  class:0.81
+  thing:0.80
+  work:0.79
+  items:0.79
+
+Topic 4:
+  free:1.29
+  good:1.03
+  android:0.76
+  redphone:0.63
+  source:0.63
+  burner:0.63
+  fill:0.62
+  textsecure:0.62
+  fye:0.61
+  grab:0.61
+
+K: 5, Log-Likelihood: -907.516, Alpha: 11.000, Beta: 1.100

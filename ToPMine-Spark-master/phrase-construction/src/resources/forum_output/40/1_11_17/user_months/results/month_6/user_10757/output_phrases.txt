@@ -1,0 +1,61 @@
+Topic 0:
+  good:1.27
+  market:0.68
+  small:0.56
+  pirate:0.55
+  people:0.55
+  praise:0.55
+  competition:0.25
+  respect:0.25
+  discredit:0.25
+  benifits:0.25
+
+Topic 1:
+  good:0.47
+  market:0.41
+  support:0.38
+  pirate:0.29
+  people:0.29
+  praise:0.29
+  small:0.29
+  vendor:0.22
+  long:0.21
+  large:0.21
+
+Topic 2:
+  support:0.51
+  good:0.32
+  market:0.32
+  vendor:0.24
+  handled:0.23
+  day:0.23
+  mindset:0.23
+  improvements:0.23
+  term:0.23
+  ui:0.23
+
+Topic 3:
+  good:1.30
+  market:0.74
+  praise:0.57
+  people:0.57
+  small:0.56
+  pirate:0.56
+  helps:0.25
+  acknowledgment:0.25
+  doesnt:0.25
+  check:0.25
+
+Topic 4:
+  support:0.53
+  market:0.31
+  good:0.30
+  business:0.24
+  personal:0.24
+  underrated:0.24
+  ship:0.24
+  hope:0.24
+  base:0.24
+  apu:0.24
+
+K: 5, Log-Likelihood: -321.895, Alpha: 11.000, Beta: 1.100

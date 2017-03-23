@@ -1,0 +1,61 @@
+Topic 0:
+  didnt:3.22
+  quote:2.24
+  love:2.21
+  march:2.09
+  culling:2.03
+  fuckoffs:2.03
+  assholes:2.03
+  good:2.03
+  captcha:2.03
+  asks:2.02
+
+Topic 1:
+  traffic:4.78
+  issues:4.13
+  fog:4.13
+  dark:4.12
+  sites:4.12
+  day:3.32
+  ddos:3.27
+  intermittently:2.99
+  guess:2.99
+  agora attack:2.99
+
+Topic 2:
+  missing:4.21
+  server:4.21
+  time:4.21
+  attack:2.08
+  shutdown:2.07
+  money:2.07
+  confirm:2.07
+  possibility:2.07
+  case:2.07
+  handling:2.07
+
+Topic 3:
+  whyusheep:3.10
+  week:2.03
+  luck:2.03
+  included:2.03
+  bitcoinfog:2.03
+  heard:2.03
+  noticed:2.03
+  peoples:2.03
+  ago agora:2.03
+  deposits:2.03
+
+Topic 4:
+  list:5.20
+  leak:3.36
+  owners:3.36
+  informationabout:3.36
+  database:3.36
+  shop:3.36
+  agoras:3.36
+  stupid:3.36
+  ahcked:3.36
+  grab:3.36
+
+K: 5, Log-Likelihood: -2688.413, Alpha: 11.000, Beta: 1.100

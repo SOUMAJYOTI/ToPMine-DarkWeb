@@ -1,0 +1,61 @@
+Topic 0:
+  support:1.02
+  hours:0.76
+  noticed:0.41
+  handled:0.41
+  stressing:0.41
+  long:0.40
+  opened:0.40
+  withdrawl:0.40
+  asap:0.40
+  anubody:0.40
+
+Topic 1:
+  support:1.01
+  hours:0.85
+  dealt:0.40
+  anubody:0.40
+  long:0.40
+  handled:0.40
+  asap:0.40
+  manually:0.40
+  ticket:0.40
+  verifying:0.40
+
+Topic 2:
+  support:1.03
+  hours:0.78
+  verifying:0.41
+  asap:0.40
+  manually:0.40
+  long:0.40
+  opened:0.40
+  ticket:0.40
+  stressing:0.40
+  dealt:0.40
+
+Topic 3:
+  support:0.92
+  hours:0.81
+  manually:0.40
+  stressing:0.40
+  withdrawl:0.40
+  noticed:0.40
+  handled:0.40
+  long:0.40
+  anubody:0.40
+  ticket:0.40
+
+Topic 4:
+  support:1.01
+  hours:0.80
+  ticket:0.41
+  dealt:0.40
+  withdrawl:0.40
+  asap:0.40
+  opened:0.40
+  anubody:0.40
+  manually:0.40
+  noticed:0.40
+
+K: 5, Log-Likelihood: -180.907, Alpha: 11.000, Beta: 1.100

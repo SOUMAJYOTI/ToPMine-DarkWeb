@@ -1,0 +1,61 @@
+Topic 0:
+  file:4.55
+  security:2.82
+  issue:2.82
+  text:1.87
+  dozens:1.83
+  deleted:1.83
+  versions:1.83
+  change:0.84
+  money:0.84
+  feature:0.84
+
+Topic 1:
+  files:5.08
+  randomly:2.68
+  wipe:2.43
+  encrypt:2.08
+  string:1.87
+  command:1.84
+  ccrypt:1.80
+  random:1.80
+  type:1.09
+  passphrase:1.07
+
+Topic 2:
+  files:4.75
+  wipe:1.56
+  encrypt:1.52
+  file:1.23
+  partition:1.21
+  randomly:0.93
+  mounted:0.93
+  deletion:0.93
+  september:0.92
+  option:0.88
+
+Topic 3:
+  file:3.00
+  partition:2.49
+  method:2.15
+  truecrypt:1.01
+  delete:0.98
+  testdisk:0.97
+  txt:0.97
+  files:0.80
+  deletion:0.70
+  elf:0.38
+
+Topic 4:
+  partition:3.25
+  method:2.12
+  deletion:1.47
+  file:1.33
+  truecrypt:0.94
+  files:0.90
+  option:0.82
+  securely:0.80
+  september:0.80
+  regular:0.80
+
+K: 5, Log-Likelihood: -1009.168, Alpha: 11.000, Beta: 1.100

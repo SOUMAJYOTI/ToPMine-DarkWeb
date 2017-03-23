@@ -1,0 +1,61 @@
+Topic 0:
+  openbazaar:10.24
+  market website:8.23
+  openbazaar client:6.08
+  market:4.84
+  order:4.75
+  openbazaar dht:4.04
+  market web:4.04
+  directly vendor dht:4.04
+  users:2.39
+  takes:2.34
+
+Topic 1:
+  high:4.34
+  commissions:3.71
+  dnms:3.71
+  quality:3.62
+  secret:3.62
+  escrow funds future:3.44
+  jack:3.44
+  fact:2.86
+  luck:2.86
+  themself:2.86
+
+Topic 2:
+  multi sir:5.59
+  market:4.59
+  easier:3.72
+  sir:3.72
+  transaction:3.72
+  cannabis market:3.72
+  personally:3.72
+  mufti:3.72
+  works:3.72
+  market niche:3.72
+
+Topic 3:
+  ob:5.55
+  market:4.69
+  open:4.43
+  openbazaar:4.39
+  data:3.68
+  software:3.68
+  db:3.68
+  community:3.68
+  bazaar:3.68
+  business:3.68
+
+Topic 4:
+  listings:4.34
+  independently:3.72
+  full:3.72
+  bitcoin darkcoin:3.72
+  checkout:3.72
+  deletion:3.72
+  diabolus:3.37
+  country:3.08
+  darkcoin bitcoin:3.03
+  filters:2.95
+
+K: 5, Log-Likelihood: -6504.826, Alpha: 11.000, Beta: 1.100

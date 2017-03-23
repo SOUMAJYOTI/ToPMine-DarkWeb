@@ -1,0 +1,16 @@
+marketplace,0,1
+purpose,1,1
+direct,2,2
+link,3,1
+verified,4,1
+goods,5,1
+captain,6,1
+message,7,1
+people,8,1
+jack,9,1
+system,10,1
+trade,11,1
+vendor,12,1
+pm,13,1
+email,14,1
+advertise,15,1

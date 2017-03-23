@@ -1,0 +1,61 @@
+Topic 0:
+  shop:1.25
+  dream:1.02
+  love:0.98
+  avengers:0.98
+  outlet:0.76
+  friends:0.40
+  community:0.40
+  marketplace:0.40
+  dnm:0.40
+  join:0.40
+
+Topic 1:
+  shop:1.29
+  dream:1.23
+  outlet:0.86
+  avengers:0.83
+  love:0.79
+  called:0.41
+  find:0.41
+  disappeared:0.41
+  link:0.41
+  order:0.41
+
+Topic 2:
+  dream:1.26
+  shop:1.13
+  love:0.96
+  avengers:0.93
+  outlet:0.81
+  dnm:0.40
+  temporarily:0.40
+  southpole:0.40
+  onion:0.40
+  weekend:0.40
+
+Topic 3:
+  dream:1.14
+  shop:1.08
+  outlet:0.78
+  avengers:0.64
+  love:0.61
+  interesting:0.50
+  talk:0.49
+  post:0.49
+  registered:0.48
+  read:0.48
+
+Topic 4:
+  dream:1.35
+  shop:1.25
+  outlet:0.79
+  love:0.66
+  avengers:0.62
+  alphabay:0.46
+  lsd:0.41
+  marketplace:0.41
+  onion:0.41
+  place:0.41
+
+K: 5, Log-Likelihood: -325.674, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  mobile:1.07
+  seller:1.03
+  btc:0.94
+  menu:0.93
+  drop:0.83
+  exploit:0.75
+  box:0.65
+  thought:0.64
+  worth:0.62
+  hours:0.62
+
+Topic 1:
+  drop:2.82
+  mobile:1.99
+  menu:1.80
+  box:1.72
+  btc:1.52
+  manually:1.10
+  amount:1.04
+  minimum:1.02
+  exploit:0.93
+  seller:0.75
+
+Topic 2:
+  mobile:1.13
+  seller:1.08
+  btc:0.92
+  drop:0.92
+  menu:0.80
+  exploit:0.75
+  hours:0.61
+  thought:0.60
+  box:0.60
+  worth:0.59
+
+Topic 3:
+  seller:1.01
+  mobile:0.92
+  hours:0.78
+  btc:0.78
+  exploit:0.72
+  menu:0.65
+  drop:0.59
+  worth:0.58
+  thought:0.57
+  box:0.46
+
+Topic 4:
+  seller:1.13
+  mobile:0.90
+  exploit:0.84
+  drop:0.83
+  btc:0.83
+  menu:0.82
+  hours:0.63
+  thought:0.62
+  worth:0.62
+  box:0.57
+
+K: 5, Log-Likelihood: -746.668, Alpha: 11.000, Beta: 1.100

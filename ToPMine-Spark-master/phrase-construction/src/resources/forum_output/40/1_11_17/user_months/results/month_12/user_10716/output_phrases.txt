@@ -1,0 +1,61 @@
+Topic 0:
+  swam:0.34
+  week:0.34
+  onion:0.21
+  address:0.21
+  clearnet:0.21
+  ive:0.21
+  bitblender:0.21
+  thread:0.20
+  issues:0.20
+  taint:0.19
+
+Topic 1:
+  week:0.37
+  swam:0.37
+  thread:0.21
+  issues:0.21
+  bitblender:0.20
+  ive:0.20
+  address:0.20
+  onion:0.20
+  clearnet:0.20
+  ago:0.19
+
+Topic 2:
+  week:0.36
+  swam:0.36
+  clearnet:0.21
+  onion:0.21
+  address:0.21
+  bitblender:0.20
+  ive:0.20
+  thread:0.20
+  issues:0.20
+  auto:0.18
+
+Topic 3:
+  swam:0.39
+  week:0.39
+  thread:0.21
+  issues:0.21
+  bitblender:0.20
+  ive:0.20
+  onion:0.20
+  address:0.20
+  clearnet:0.20
+  withdrawals:0.19
+
+Topic 4:
+  week:0.37
+  swam:0.36
+  clearnet:0.20
+  address:0.20
+  onion:0.20
+  bitblender:0.20
+  ive:0.20
+  issues:0.20
+  thread:0.20
+  amount:0.18
+
+K: 5, Log-Likelihood: -216.169, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  lot:0.73
+  applies:0.72
+  surf:0.72
+  laugh:0.72
+  pretty:0.71
+  lols:0.70
+  funny:0.70
+  thought:0.69
+  teach:0.69
+  site:0.68
+
+Topic 1:
+  btc:0.80
+  thread:0.59
+  order:0.58
+  santa:0.58
+  market:0.58
+  safe:0.53
+  trust:0.53
+  trusted:0.53
+  trust agora:0.52
+  dark:0.52
+
+Topic 2:
+  recomend agora:0.77
+  safe:0.76
+  june:0.61
+  marketplace:0.61
+  revies:0.60
+  xtronlasd:0.60
+  quote:0.60
+  ratings:0.60
+  vendors:0.60
+  pgp:0.60
+
+Topic 3:
+  buy:2.06
+  people:0.81
+  abit:0.81
+  torsupermarket:0.81
+  minimise:0.81
+  site recomend:0.81
+  promising:0.81
+  guys:0.81
+  risks:0.80
+  experienced:0.80
+
+Topic 4:
+  kinda:0.65
+  deep web:0.64
+  thought:0.63
+  site:0.63
+  teach:0.59
+  lols:0.59
+  pretty:0.59
+  funny:0.59
+  surf:0.58
+  trust:0.58
+
+K: 5, Log-Likelihood: -444.852, Alpha: 11.000, Beta: 1.100

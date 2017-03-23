@@ -1,0 +1,61 @@
+Topic 0:
+  predictions:2.70
+  bitcoin:2.67
+  day:1.77
+  software:1.64
+  prediction:1.56
+  error:1.41
+  accurate:1.31
+  prices:1.10
+  margin:1.01
+  events:0.85
+
+Topic 1:
+  bitcoin:2.98
+  predictions:2.56
+  prediction:2.31
+  day:2.00
+  software:1.59
+  accurate:1.25
+  margin:1.13
+  error:1.10
+  prices:1.09
+  transactions:0.83
+
+Topic 2:
+  predictions:3.21
+  bitcoin:2.57
+  day:2.05
+  prediction:1.80
+  software:1.33
+  error:1.32
+  margin:1.30
+  accurate:1.17
+  prices:1.10
+  data:0.83
+
+Topic 3:
+  prediction:2.35
+  bitcoin:2.19
+  day:2.07
+  predictions:1.92
+  software:1.87
+  margin:1.39
+  prices:1.36
+  accurate:1.11
+  error:1.03
+  affect:0.88
+
+Topic 4:
+  predictions:3.60
+  bitcoin:2.59
+  day:2.12
+  prediction:1.97
+  software:1.57
+  prices:1.35
+  margin:1.17
+  accurate:1.15
+  error:1.14
+  hour:0.81
+
+K: 5, Log-Likelihood: -887.039, Alpha: 11.000, Beta: 1.100

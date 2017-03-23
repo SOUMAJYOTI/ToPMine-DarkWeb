@@ -1,0 +1,61 @@
+Topic 0:
+  blockchain:0.88
+  tor:0.67
+  wallet:0.51
+  read:0.48
+  tails:0.44
+  bitcoins:0.36
+  send:0.36
+  locally:0.36
+  multiply:0.36
+  downtime:0.36
+
+Topic 1:
+  blockchain:0.83
+  tor:0.81
+  wallet:0.63
+  read:0.63
+  generally:0.41
+  alternative:0.41
+  unable:0.41
+  create:0.41
+  easy:0.41
+  wallets:0.41
+
+Topic 2:
+  tor:0.86
+  blockchain:0.78
+  wallet:0.64
+  read:0.62
+  happy:0.42
+  downtime:0.42
+  require:0.42
+  locally:0.41
+  easy:0.41
+  bitcoins:0.41
+
+Topic 3:
+  tor:0.87
+  blockchain:0.76
+  read:0.67
+  wallet:0.63
+  buy:0.42
+  alternative:0.42
+  multiply:0.42
+  email:0.42
+  wallets:0.42
+  create:0.42
+
+Topic 4:
+  tor:0.79
+  blockchain:0.75
+  read:0.61
+  wallet:0.59
+  tails:0.41
+  send:0.40
+  good:0.40
+  happy:0.40
+  unable:0.40
+  multiply:0.40
+
+K: 5, Log-Likelihood: -321.966, Alpha: 11.000, Beta: 1.100

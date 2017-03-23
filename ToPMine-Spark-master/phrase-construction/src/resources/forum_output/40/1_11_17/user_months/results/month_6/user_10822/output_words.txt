@@ -1,0 +1,61 @@
+Topic 0:
+  march:3.30
+  sniffers:2.64
+  ssd:2.64
+  implementing:2.59
+  front:2.59
+  drives:2.58
+  dell:2.55
+  servers:2.52
+  sensors:2.49
+  quote:2.48
+
+Topic 1:
+  fuck:6.86
+  patriot:5.46
+  pretty:4.38
+  evilgrin:3.12
+  shit:2.37
+  backdoored:2.36
+  um:1.87
+  computers:1.82
+  stick:1.78
+  mirages:1.67
+
+Topic 2:
+  march:11.64
+  amquote:5.54
+  quote:3.10
+  shit:2.87
+  safe:2.04
+  backdoored:1.99
+  mac:1.98
+  lmao:1.78
+  computers:1.76
+  friend:1.75
+
+Topic 3:
+  fucking:5.82
+  backdoored:5.40
+  assume:4.40
+  calcium:2.84
+  jesus:2.83
+  buying:2.83
+  christian:2.83
+  sposed:2.83
+  perfect:2.83
+  time:2.83
+
+Topic 4:
+  intercept:5.77
+  website:3.54
+  axolotl:3.33
+  pmi:3.20
+  pandorahope:3.19
+  organization:2.91
+  media:2.91
+  quote:2.40
+  march:2.32
+  read:2.26
+
+K: 5, Log-Likelihood: -2682.677, Alpha: 11.000, Beta: 1.100

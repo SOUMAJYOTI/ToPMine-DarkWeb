@@ -1,0 +1,61 @@
+Topic 0:
+  leaks:0.83
+  light:0.40
+  bub:0.40
+  tnx:0.40
+  sites:0.40
+  dry:0.40
+  good:0.40
+  ship:0.20
+  ships:0.20
+  darknetanyone:0.20
+
+Topic 1:
+  leaks:0.76
+  sites:0.41
+  light:0.40
+  good:0.40
+  bub:0.40
+  dry:0.40
+  tnx:0.40
+  find:0.20
+  clearnet:0.20
+  send:0.20
+
+Topic 2:
+  leaks:0.81
+  dry:0.41
+  light:0.40
+  bub:0.40
+  tnx:0.39
+  good:0.39
+  sites:0.39
+  ship:0.20
+  ships:0.20
+  find:0.20
+
+Topic 3:
+  leaks:0.80
+  sites:0.41
+  tnx:0.41
+  good:0.41
+  dry:0.39
+  light:0.39
+  bub:0.39
+  hilooking:0.20
+  hiim:0.20
+  darknetanyone:0.20
+
+Topic 4:
+  leaks:0.80
+  dry:0.40
+  bub:0.40
+  tnx:0.40
+  good:0.40
+  light:0.40
+  sites:0.40
+  btc:0.20
+  leonhart:0.20
+  send:0.20
+
+K: 5, Log-Likelihood: -79.604, Alpha: 11.000, Beta: 1.100

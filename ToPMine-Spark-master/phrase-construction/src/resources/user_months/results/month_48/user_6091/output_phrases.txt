@@ -1,0 +1,61 @@
+Topic 0:
+  ampules:1.12
+  decades:1.12
+  degradation:1.12
+  distilled:1.11
+  unnoticeable:1.11
+  animal:1.11
+  advice:1.11
+  sunlight:1.11
+  suspended:1.11
+  good:1.11
+
+Topic 1:
+  valves:3.68
+  tattoo:3.68
+  cartridges:1.73
+  paintball shops:1.73
+  fit:1.73
+  sell:1.73
+  guns:1.73
+  regulator:1.73
+  yeah:1.73
+  pellet:1.73
+
+Topic 2:
+  input:0.92
+  gas:0.71
+  amwill:0.70
+  greatly:0.70
+  sandoz:0.69
+  fluctuating:0.68
+  ethanol:0.68
+  assuming:0.68
+  compressed:0.67
+  mix:0.67
+
+Topic 3:
+  ideal:2.32
+  community:1.38
+  tank:1.08
+  happy:1.08
+  excellent:1.08
+  member:1.08
+  method:1.08
+  seal:1.08
+  venting:1.08
+  perfect:1.08
+
+Topic 4:
+  solution:8.21
+  oxygen chlorine:4.05
+  water:4.05
+  draw:2.67
+  decay:2.67
+  data:2.67
+  pure:2.67
+  exposed:2.67
+  solubility:2.67
+  conditions:2.67
+
+K: 5, Log-Likelihood: -1520.535, Alpha: 11.000, Beta: 1.100

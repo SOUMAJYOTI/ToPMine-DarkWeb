@@ -1,0 +1,61 @@
+Topic 0:
+  solution:0.60
+  dish:0.53
+  country:0.46
+  pour:0.41
+  thread:0.37
+  input:0.37
+  question:0.37
+  wrong:0.37
+  buddy:0.37
+  beaker:0.35
+
+Topic 1:
+  solution:0.56
+  country:0.54
+  dish:0.52
+  pour:0.37
+  input:0.36
+  buddy:0.36
+  question:0.36
+  thread:0.36
+  wrong:0.36
+  pyrex:0.34
+
+Topic 2:
+  country:0.66
+  dish:0.53
+  solution:0.53
+  pour:0.38
+  pyrex:0.34
+  buddy:0.34
+  wrong:0.34
+  question:0.34
+  input:0.33
+  thread:0.33
+
+Topic 3:
+  solution:0.91
+  pour:0.79
+  dish:0.60
+  country:0.41
+  lay:0.40
+  beaker:0.36
+  dip:0.36
+  pyrex:0.34
+  seperately:0.33
+  mixed:0.33
+
+Topic 4:
+  solution:0.78
+  dish:0.61
+  pour:0.55
+  country:0.43
+  lay:0.37
+  dip:0.35
+  beaker:0.35
+  pyrex:0.35
+  wrong:0.33
+  buddy:0.33
+
+K: 5, Log-Likelihood: -346.370, Alpha: 11.000, Beta: 1.100

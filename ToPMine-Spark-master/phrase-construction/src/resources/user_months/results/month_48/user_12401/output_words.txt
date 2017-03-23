@@ -1,0 +1,61 @@
+Topic 0:
+  kuin:0.44
+  toimi:0.41
+  agora:0.40
+  se:0.40
+  ei:0.37
+  ik:0.21
+  agoraan:0.21
+  kolmonen:0.21
+  enenm:0.21
+  smitten:0.21
+
+Topic 1:
+  ei:0.43
+  se:0.40
+  agora:0.40
+  toimi:0.39
+  kuin:0.36
+  rahojen:0.21
+  siin:0.21
+  evolutionissa:0.21
+  tymisest:0.21
+  vain:0.21
+
+Topic 2:
+  se:0.41
+  agora:0.40
+  toimi:0.40
+  ei:0.40
+  kuin:0.40
+  st:0.20
+  ep:0.20
+  mulla:0.20
+  luotettava:0.20
+  puoli:0.20
+
+Topic 3:
+  ei:0.41
+  toimi:0.40
+  agora:0.40
+  se:0.40
+  kuin:0.39
+  jos:0.20
+  koettakaa:0.20
+  linkki:0.20
+  yll:0.20
+  oleva:0.20
+
+Topic 4:
+  kuin:0.41
+  toimi:0.40
+  agora:0.40
+  se:0.40
+  ei:0.40
+  silkkitie:0.20
+  smitten:0.20
+  todella:0.20
+  pain:0.20
+  vaikea:0.20
+
+K: 5, Log-Likelihood: -280.116, Alpha: 11.000, Beta: 1.100

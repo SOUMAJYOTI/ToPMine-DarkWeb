@@ -1,0 +1,61 @@
+Topic 0:
+  moreau:9.26
+  april:7.63
+  quote:5.10
+  amgame:2.29
+  orderofthephoenix:2.20
+  average:2.16
+  gg:2.16
+  net:2.13
+  rules:2.13
+  komi:2.11
+
+Topic 1:
+  play:8.50
+  torrent:5.89
+  games:4.04
+  collection:3.89
+  saved:3.89
+  file:3.89
+  captaininvisible:3.13
+  dude:2.62
+  quote:2.24
+  number:1.90
+
+Topic 2:
+  april:15.02
+  moreau:8.56
+  orderofthephoenix:7.33
+  quote:5.28
+  pmquote:3.73
+  amgame:3.06
+  amquote:2.68
+  game:1.97
+  move:1.96
+  history:1.87
+
+Topic 3:
+  game:10.86
+  games:8.54
+  skill:5.78
+  free:5.78
+  handicap:5.77
+  feel:5.77
+  long:4.79
+  play:4.38
+  years:3.81
+  lsd:2.87
+
+Topic 4:
+  game:5.07
+  black:2.87
+  quote:2.82
+  room:2.31
+  friend:2.15
+  started:2.12
+  figure:2.11
+  ago:2.11
+  april:2.09
+  balls:2.08
+
+K: 5, Log-Likelihood: -2540.264, Alpha: 11.000, Beta: 1.100

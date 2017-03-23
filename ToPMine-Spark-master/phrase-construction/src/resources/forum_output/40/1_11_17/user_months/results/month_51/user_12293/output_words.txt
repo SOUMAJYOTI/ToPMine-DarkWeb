@@ -1,0 +1,61 @@
+Topic 0:
+  ja:3.70
+  ei:1.21
+  linen:0.83
+  vaaka:0.83
+  hd:0.83
+  kerron:0.83
+  timantti:0.83
+  vahvuuden:0.83
+  ainakaa:0.83
+  kokemusta:0.83
+
+Topic 1:
+  ja:2.18
+  se:1.06
+  pettynyt:0.77
+  rehellisesti:0.77
+  sitten:0.77
+  ollu:0.76
+  onneksi:0.76
+  testerit:0.76
+  kokemusta:0.76
+  tavaraan:0.76
+
+Topic 2:
+  ja:3.65
+  kun:2.16
+  ketamiinia:1.28
+  ytt:1.27
+  ei:1.26
+  sekak:1.25
+  herkkua:0.62
+  jo:0.58
+  sea:0.55
+  harvinaista:0.55
+
+Topic 3:
+  ja:2.81
+  ei:0.95
+  kun:0.93
+  jo:0.66
+  herkkua:0.59
+  quote:0.57
+  sekak:0.48
+  ytt:0.46
+  ketamiinia:0.46
+  itse:0.37
+
+Topic 4:
+  ss:1.89
+  hetykset:1.85
+  tullut:1.85
+  etel:1.85
+  joo:1.17
+  tuota:1.06
+  se:0.92
+  jo:0.89
+  nyt:0.86
+  palautteen:0.86
+
+K: 5, Log-Likelihood: -1285.896, Alpha: 11.000, Beta: 1.100

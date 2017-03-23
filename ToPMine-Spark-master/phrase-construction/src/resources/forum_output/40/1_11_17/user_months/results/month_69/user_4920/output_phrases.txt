@@ -1,0 +1,61 @@
+Topic 0:
+  dont:0.28
+  address:0.28
+  addresses:0.28
+  confident:0.14
+  post:0.14
+  tough:0.14
+  thier:0.14
+  creating:0.14
+  order:0.14
+  encrypt:0.14
+
+Topic 1:
+  addresses:0.28
+  address:0.28
+  dont:0.28
+  collecting:0.14
+  created:0.14
+  pedophile:0.14
+  ip:0.14
+  fbi:0.14
+  users:0.14
+  ended:0.14
+
+Topic 2:
+  address:0.28
+  dont:0.28
+  addresses:0.28
+  bother:0.14
+  opsec:0.14
+  clearnet:0.14
+  order:0.14
+  creating:0.14
+  encrypt:0.14
+  confident:0.14
+
+Topic 3:
+  dont:0.28
+  address:0.28
+  addresses:0.28
+  tough:0.14
+  encrypt:0.14
+  thier:0.14
+  post:0.14
+  creating:0.14
+  clearnet:0.14
+  bother:0.14
+
+Topic 4:
+  addresses:0.28
+  dont:0.28
+  address:0.28
+  follow:0.14
+  scarf:0.14
+  busted:0.14
+  moment:0.14
+  common:0.14
+  site:0.14
+  control:0.14
+
+K: 5, Log-Likelihood: -138.213, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  config:0.59
+  read:0.51
+  config file:0.39
+  problem:0.30
+  work:0.30
+  ioerror:0.26
+  simple:0.26
+  amnesia:0.26
+  user:0.26
+  clearnet:0.26
+
+Topic 1:
+  config:0.61
+  read:0.50
+  config file:0.39
+  work:0.30
+  problem:0.30
+  amnesia:0.27
+  ioerror:0.27
+  persistent:0.27
+  py:0.27
+  clearnet:0.26
+
+Topic 2:
+  config:0.73
+  read:0.54
+  config file:0.42
+  lib:0.28
+  clearnet:0.28
+  py:0.28
+  amnesia:0.28
+  persistent:0.28
+  simple:0.28
+  user:0.28
+
+Topic 3:
+  config:0.79
+  read:0.61
+  config file:0.44
+  user:0.29
+  simple:0.29
+  py:0.29
+  clearnet:0.29
+  lib:0.29
+  ioerror:0.29
+  amnesia:0.29
+
+Topic 4:
+  config:0.75
+  read:0.61
+  config file:0.44
+  persistent:0.29
+  ioerror:0.29
+  user:0.29
+  lib:0.29
+  clearnet:0.29
+  simple:0.29
+  py:0.29
+
+K: 5, Log-Likelihood: -233.191, Alpha: 11.000, Beta: 1.100

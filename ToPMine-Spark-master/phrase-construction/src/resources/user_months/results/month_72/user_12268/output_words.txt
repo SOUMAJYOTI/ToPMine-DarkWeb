@@ -1,0 +1,61 @@
+Topic 0:
+  verottajalle:0.40
+  bitcoin:0.40
+  mit:0.35
+  tilille:0.21
+  ilmoita:0.21
+  eurooppalaisten:0.21
+  ulkomailta:0.21
+  kseen:0.21
+  mielest:0.21
+  ytin:0.21
+
+Topic 1:
+  bitcoin:0.40
+  verottajalle:0.40
+  mit:0.33
+  kun:0.22
+  tulee:0.22
+  en:0.22
+  mielest:0.22
+  ilmoita:0.22
+  joku:0.22
+  rahaa:0.22
+
+Topic 2:
+  mit:0.42
+  verottajalle:0.40
+  bitcoin:0.40
+  ydy:0.21
+  maassa:0.21
+  ett:0.21
+  ilmoittavat:0.21
+  yd:0.21
+  avaamassa:0.21
+  suosittelisitte:0.21
+
+Topic 3:
+  mit:0.60
+  verottajalle:0.40
+  bitcoin:0.40
+  vaihtopalvelu:0.25
+  sanottu:0.25
+  ilman:0.25
+  veroparatiisi:0.25
+  euroiksi:0.25
+  avaamassa:0.25
+  tilin:0.25
+
+Topic 4:
+  bitcoin:0.40
+  verottajalle:0.39
+  mit:0.30
+  detilisiirtona:0.23
+  kukaan:0.23
+  joku:0.23
+  ei:0.23
+  ihan:0.23
+  kansas:0.23
+  oli:0.23
+
+K: 5, Log-Likelihood: -221.114, Alpha: 11.000, Beta: 1.100

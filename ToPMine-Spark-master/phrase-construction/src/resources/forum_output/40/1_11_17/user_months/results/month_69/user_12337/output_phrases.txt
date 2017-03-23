@@ -1,0 +1,61 @@
+Topic 0:
+  apple market:4.57
+  life:1.74
+  ladies:1.73
+  pgp:1.32
+  steve:1.32
+  commission:1.29
+  vendor:1.29
+  signature:1.26
+  jobs:1.17
+  change:1.16
+
+Topic 1:
+  apples:3.44
+  trusted:2.59
+  pays:2.59
+  adds:2.59
+  prices:2.59
+  buyer:2.59
+  market vendor:2.59
+  ends:2.59
+  straight pay:2.59
+  paying:2.59
+
+Topic 2:
+  pgp:4.00
+  apple market:3.95
+  ladies:3.60
+  life:3.58
+  gentlemen:2.55
+  vendors:2.52
+  ding:2.52
+  rest:2.47
+  iphones ipads:2.46
+  universe:2.46
+
+Topic 3:
+  users:3.49
+  guys:2.32
+  dropped:1.70
+  commission vendors:1.70
+  charge:1.70
+  special:1.70
+  place:1.70
+  ruduced:1.70
+  march:1.70
+  join:1.70
+
+Topic 4:
+  ui:4.06
+  search:2.99
+  forward:2.65
+  alphabay:2.65
+  heareth:2.65
+  newer:2.65
+  design:2.65
+  bars:2.65
+  nucleus:2.65
+  ugly straight:2.65
+
+K: 5, Log-Likelihood: -3686.190, Alpha: 11.000, Beta: 1.100

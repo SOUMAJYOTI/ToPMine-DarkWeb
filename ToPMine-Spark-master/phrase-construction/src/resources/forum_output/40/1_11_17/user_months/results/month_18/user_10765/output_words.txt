@@ -1,0 +1,61 @@
+Topic 0:
+  wi:2.95
+  fi:2.08
+  free:1.44
+  hotspots:1.34
+  users:1.17
+  report:1.15
+  connection:1.08
+  security:0.75
+  threat:0.64
+  ars:0.63
+
+Topic 1:
+  fi:2.09
+  free:1.68
+  hotspots:1.31
+  users:1.26
+  wi:1.25
+  connection:1.02
+  report:0.91
+  security:0.86
+  connect:0.61
+  technica:0.60
+
+Topic 2:
+  fi:2.43
+  wi:2.02
+  free:1.76
+  hotspots:1.62
+  users:1.37
+  connection:1.03
+  report:0.97
+  security:0.76
+  services:0.64
+  writes:0.63
+
+Topic 3:
+  fi:1.97
+  wi:1.76
+  hotspots:1.73
+  free:1.71
+  report:1.05
+  users:0.97
+  connection:0.92
+  security:0.83
+  hotspot:0.63
+  connections:0.62
+
+Topic 4:
+  wi:2.01
+  hotspots:2.01
+  fi:1.42
+  free:1.41
+  users:1.23
+  connection:0.95
+  report:0.93
+  security:0.79
+  public:0.60
+  threat:0.60
+
+K: 5, Log-Likelihood: -1296.622, Alpha: 11.000, Beta: 1.100

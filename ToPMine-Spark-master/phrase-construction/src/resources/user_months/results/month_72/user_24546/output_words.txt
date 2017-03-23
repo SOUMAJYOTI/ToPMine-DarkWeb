@@ -1,0 +1,61 @@
+Topic 0:
+  coir:13.34
+  place:11.42
+  water:9.92
+  mix:9.91
+  lid:8.92
+  strawnet:8.27
+  bin:8.15
+  substrate:8.10
+  minutes:7.98
+  seal:7.94
+
+Topic 1:
+  bob:12.99
+  alice:11.99
+  activity:9.15
+  machine:8.99
+  risk:7.98
+  alcohol:7.20
+  server:7.08
+  contact:6.99
+  ethanol:6.94
+  adversary:6.12
+
+Topic 2:
+  group:28.99
+  tor:21.81
+  security:13.61
+  content:12.16
+  members:11.99
+  member:11.84
+  operation:10.99
+  child:10.99
+  rules:10.14
+  abuse:9.99
+
+Topic 3:
+  bridges:11.79
+  tails:7.96
+  time:7.32
+  connect:7.01
+  camera:5.97
+  dont:5.00
+  iphone:3.97
+  quote:3.95
+  great:3.56
+  torproject:3.44
+
+Topic 4:
+  straw:35.99
+  mix:29.01
+  casing:20.99
+  dung:17.99
+  spawn:16.25
+  turkey:15.09
+  air:13.19
+  tek:12.22
+  water:11.84
+  chamber:11.11
+
+K: 5, Log-Likelihood: -25130.475, Alpha: 11.000, Beta: 1.100

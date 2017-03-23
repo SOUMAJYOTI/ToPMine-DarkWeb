@@ -1,0 +1,56 @@
+Topic 0:
+  neighborhood:0.20
+  tagthanks:0.20
+  friendly:0.20
+  brittney:0.20
+  head:0.20
+  vendors:0.20
+  read:0.20
+  squad:0.20
+  mod:0.20
+
+Topic 1:
+  squad:0.20
+  mod:0.20
+  friendly:0.20
+  tagthanks:0.20
+  read:0.20
+  vendors:0.20
+  head:0.20
+  neighborhood:0.20
+  brittney:0.20
+
+Topic 2:
+  read:0.20
+  brittney:0.20
+  vendors:0.20
+  squad:0.20
+  head:0.20
+  neighborhood:0.20
+  tagthanks:0.20
+  mod:0.20
+  friendly:0.20
+
+Topic 3:
+  tagthanks:0.20
+  mod:0.20
+  neighborhood:0.20
+  friendly:0.20
+  head:0.20
+  vendors:0.20
+  brittney:0.20
+  squad:0.20
+  read:0.20
+
+Topic 4:
+  read:0.20
+  mod:0.20
+  friendly:0.20
+  brittney:0.20
+  vendors:0.20
+  neighborhood:0.20
+  head:0.20
+  tagthanks:0.20
+  squad:0.20
+
+K: 5, Log-Likelihood: -19.775, Alpha: 11.000, Beta: 1.100

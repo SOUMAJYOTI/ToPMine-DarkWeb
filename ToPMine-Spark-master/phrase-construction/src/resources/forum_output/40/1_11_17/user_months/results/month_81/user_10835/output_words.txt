@@ -1,0 +1,61 @@
+Topic 0:
+  crypto:1.33
+  transactions:1.21
+  coins:0.98
+  coin:0.98
+  list:0.97
+  nodes:0.62
+  send:0.54
+  randomly:0.54
+  peoples:0.54
+  pass:0.54
+
+Topic 1:
+  services:2.33
+  coin:2.27
+  coins:2.03
+  blocks:1.17
+  features:0.93
+  invisible:0.91
+  web:0.91
+  users:0.89
+  worth:0.89
+  anc:0.87
+
+Topic 2:
+  services:3.82
+  coins:2.18
+  coin:1.77
+  blocks:1.43
+  invisible:1.08
+  anc:1.06
+  users:1.06
+  web:1.05
+  worth:1.03
+  features:1.02
+
+Topic 3:
+  services:2.53
+  coin:1.67
+  coins:1.62
+  blocks:1.14
+  worth:0.84
+  anc:0.83
+  users:0.81
+  features:0.80
+  web:0.80
+  invisible:0.77
+
+Topic 4:
+  coin:1.31
+  crypto:1.20
+  coins:1.19
+  list:0.74
+  transactions:0.65
+  nodes:0.54
+  chance:0.38
+  things:0.34
+  honestly:0.34
+  diced:0.34
+
+K: 5, Log-Likelihood: -826.664, Alpha: 11.000, Beta: 1.100

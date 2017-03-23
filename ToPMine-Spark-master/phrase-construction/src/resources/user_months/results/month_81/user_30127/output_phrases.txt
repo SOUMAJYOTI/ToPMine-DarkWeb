@@ -1,0 +1,61 @@
+Topic 0:
+  coin:5.04
+  safe:5.04
+  haven:3.34
+  lbc:2.96
+  keeping:1.64
+  labeling:1.64
+  handed:1.64
+  large:1.64
+  fact:1.64
+  chain:1.64
+
+Topic 1:
+  wodering multiply accounts:0.96
+  cell phone:0.90
+  quote:0.89
+  irl identity assuming concerned:0.88
+  localbitcoin account linked:0.86
+  tumble coins computer phone:0.80
+  failure meet vendor deal:0.80
+  buying transferring coin point:0.79
+  buying bitcoins localbitcoins illegal:0.78
+  site lbc monitoring activity:0.78
+
+Topic 2:
+  account everytime safe opsec:1.23
+  monitors vendor advise:1.21
+  monitored wallet safer site:1.18
+  wodering multiply accounts:1.10
+  quote arcane:0.91
+  fewillupdate amquote arcane pmquote:0.90
+  buying:0.89
+  buying bitcoins illegal assume:0.88
+  site lbc monitoring activity:0.87
+  vendor:0.87
+
+Topic 3:
+  majority buyers:4.35
+  guys:2.01
+  accounts:2.00
+  dont:2.00
+  karma:2.00
+  stuff:2.00
+  bad:1.99
+  question:1.99
+  good:1.99
+  direct deals:1.99
+
+Topic 4:
+  quote:1.37
+  phone:1.35
+  amwhilst:1.27
+  cell phone:1.25
+  localbitcoin account linked:1.24
+  irl identity assuming concerned:1.24
+  buying bitcoins localbitcoins illegal:1.02
+  encrypted:1.00
+  motherfucking:0.84
+  amquote arcane:0.84
+
+K: 5, Log-Likelihood: -1533.718, Alpha: 11.000, Beta: 1.100

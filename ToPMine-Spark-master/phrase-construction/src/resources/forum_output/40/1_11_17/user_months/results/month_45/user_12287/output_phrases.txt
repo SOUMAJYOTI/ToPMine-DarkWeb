@@ -1,0 +1,61 @@
+Topic 0:
+  ollut:0.00
+  oo:0.00
+  viikkoon:0.00
+  pitk:0.00
+  suomessa:0.00
+  hippiespace:0.00
+  elk:0.00
+  eik:0.00
+  joka:0.00
+  myy:0.00
+
+Topic 1:
+  ollut:0.00
+  oo:0.00
+  viikkoon:0.00
+  pitk:0.00
+  suomessa:0.00
+  hippiespace:0.00
+  elk:0.00
+  eik:0.00
+  joka:0.00
+  myy:0.00
+
+Topic 2:
+  ollut:0.00
+  oo:0.00
+  viikkoon:0.00
+  pitk:0.00
+  suomessa:0.00
+  hippiespace:0.00
+  elk:0.00
+  eik:0.00
+  joka:0.00
+  myy:0.00
+
+Topic 3:
+  ollut:0.00
+  oo:0.00
+  viikkoon:0.00
+  pitk:0.00
+  suomessa:0.00
+  hippiespace:0.00
+  elk:0.00
+  eik:0.00
+  joka:0.00
+  myy:0.00
+
+Topic 4:
+  ollut:0.00
+  oo:0.00
+  viikkoon:0.00
+  pitk:0.00
+  suomessa:0.00
+  hippiespace:0.00
+  elk:0.00
+  eik:0.00
+  joka:0.00
+  myy:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

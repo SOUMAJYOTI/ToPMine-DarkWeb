@@ -1,0 +1,61 @@
+Topic 0:
+  verified:1.70
+  vendor:1.62
+  redacted:1.57
+  link:1.51
+  happy:1.40
+  advertise:1.30
+  jack:1.29
+  marketplace:1.23
+  captain:1.20
+  goods:1.18
+
+Topic 1:
+  vendor:1.09
+  redacted:1.08
+  verified:1.06
+  captain:0.98
+  marketplace:0.97
+  jack:0.95
+  advertise:0.91
+  goods:0.90
+  area:0.88
+  link:0.85
+
+Topic 2:
+  agra:1.61
+  stock:1.60
+  link:1.53
+  product:0.88
+  insidethewhaleplease:0.83
+  check:0.83
+  supplier:0.82
+  verified:0.77
+  redacted:0.76
+  vendor:0.76
+
+Topic 3:
+  redacted:1.08
+  verified:1.08
+  vendor:1.06
+  goods:0.95
+  marketplace:0.95
+  area:0.94
+  workers:0.88
+  jack:0.87
+  people:0.87
+  captain:0.87
+
+Topic 4:
+  redacted:1.50
+  vendor:1.48
+  verified:1.39
+  link:1.31
+  captain:1.26
+  goods:1.25
+  advertise:1.23
+  happy:1.15
+  jack:1.13
+  marketplace:1.13
+
+K: 5, Log-Likelihood: -902.162, Alpha: 11.000, Beta: 1.100

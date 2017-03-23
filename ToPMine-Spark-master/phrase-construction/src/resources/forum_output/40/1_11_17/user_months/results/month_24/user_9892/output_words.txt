@@ -1,0 +1,61 @@
+Topic 0:
+  long:0.84
+  blond:0.40
+  helix:0.40
+  day:0.40
+  mixers:0.40
+  good:0.40
+  timeso:0.40
+  brave:0.40
+  bunny:0.40
+  advise:0.40
+
+Topic 1:
+  long:0.81
+  light:0.40
+  helix:0.40
+  timeso:0.40
+  brave:0.40
+  money:0.40
+  time:0.40
+  advise:0.40
+  day:0.40
+  good:0.40
+
+Topic 2:
+  long:0.78
+  bunny:0.41
+  blond:0.40
+  laundering:0.40
+  money:0.40
+  good:0.40
+  light:0.40
+  time:0.40
+  services:0.40
+  advise:0.40
+
+Topic 3:
+  long:0.79
+  mixers:0.41
+  timeso:0.40
+  trusted:0.40
+  services:0.40
+  brave:0.40
+  bunny:0.40
+  day:0.40
+  advise:0.40
+  laundering:0.40
+
+Topic 4:
+  long:0.78
+  blond:0.40
+  trusted:0.40
+  laundering:0.40
+  services:0.40
+  time:0.40
+  advise:0.40
+  good:0.40
+  brave:0.40
+  light:0.40
+
+K: 5, Log-Likelihood: -121.335, Alpha: 11.000, Beta: 1.100

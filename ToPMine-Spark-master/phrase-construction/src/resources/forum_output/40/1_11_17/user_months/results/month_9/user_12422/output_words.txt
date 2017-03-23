@@ -1,0 +1,61 @@
+Topic 0:
+  ss:0.75
+  viestin:0.57
+  oli:0.42
+  ett:0.40
+  viel:0.40
+  suositeltavaa:0.40
+  lt:0.40
+  allekirjoittamien:0.40
+  salakirjoitusavaimelle:0.40
+  viestien:0.40
+
+Topic 1:
+  ss:0.85
+  viestin:0.58
+  ett:0.45
+  oli:0.42
+  tunnettu:0.40
+  tietoturvan:0.40
+  allekirjoittamien:0.40
+  kannalta:0.40
+  tapauksessa:0.40
+  suositeltavaa:0.40
+
+Topic 2:
+  ss:0.75
+  viestin:0.62
+  tapauksessa:0.40
+  omalla:0.40
+  tietoturvan:0.40
+  lt:0.40
+  kannalta:0.40
+  viestien:0.40
+  salakirjoitusavaimelle:0.40
+  suositeltavaa:0.40
+
+Topic 3:
+  ss:0.80
+  viestin:0.65
+  sis:0.41
+  allekirjoittamien:0.41
+  kannalta:0.40
+  tunnettu:0.40
+  lt:0.40
+  tietoturvan:0.40
+  ja:0.40
+  viestien:0.40
+
+Topic 4:
+  ss:0.86
+  viestin:0.58
+  ett:0.43
+  oli:0.41
+  omalla:0.41
+  ja:0.41
+  sis:0.40
+  viel:0.40
+  salakirjoitusavaimelle:0.40
+  viestien:0.40
+
+K: 5, Log-Likelihood: -375.768, Alpha: 11.000, Beta: 1.100

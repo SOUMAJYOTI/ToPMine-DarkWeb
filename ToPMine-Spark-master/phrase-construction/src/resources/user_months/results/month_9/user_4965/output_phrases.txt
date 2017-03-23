@@ -1,0 +1,61 @@
+Topic 0:
+  hope:0.28
+  message long:0.28
+  message:0.17
+  app:0.14
+  decrypt:0.14
+  password:0.14
+  open message:0.14
+  prompted:0.14
+  pgp:0.14
+  instructions:0.14
+
+Topic 1:
+  hope:0.28
+  message long:0.28
+  message:0.17
+  mate:0.14
+  type:0.14
+  open message:0.14
+  password:0.14
+  encryption:0.14
+  helps:0.14
+  app:0.14
+
+Topic 2:
+  message long:0.28
+  hope:0.28
+  message:0.17
+  forum:0.14
+  grateful:0.14
+  send:0.14
+  write:0.14
+  private:0.14
+  kleopatra:0.14
+  pip:0.14
+
+Topic 3:
+  message long:0.28
+  hope:0.28
+  message:0.17
+  write:0.14
+  post:0.14
+  problem:0.14
+  pip:0.14
+  public:0.14
+  read:0.14
+  send:0.14
+
+Topic 4:
+  message long:0.28
+  hope:0.28
+  message:0.17
+  send:0.14
+  asc:0.14
+  office:0.14
+  read:0.14
+  assist:0.14
+  kleopatra:0.14
+  including:0.14
+
+K: 5, Log-Likelihood: -168.512, Alpha: 11.000, Beta: 1.100

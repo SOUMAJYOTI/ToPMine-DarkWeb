@@ -1,0 +1,61 @@
+Topic 0:
+  password:2.88
+  heard:1.67
+  electrum:1.67
+  functionality:1.67
+  office:1.67
+  online:1.67
+  posting:1.67
+  pmyou:1.67
+  owockeznan:1.67
+  mentioned:1.66
+
+Topic 1:
+  btc mixing:1.92
+  service:1.91
+  hold:1.91
+  dont:1.91
+  fog:1.91
+  move:1.91
+  fully:1.91
+  transfer:1.91
+  yeah:1.91
+  market:1.91
+
+Topic 2:
+  alpha:1.42
+  forward:1.33
+  huge:1.33
+  coinjoin stealth:1.33
+  whonix:1.33
+  isolating:1.33
+  fine:1.33
+  built:1.33
+  properly:1.33
+  routes:1.33
+
+Topic 3:
+  bitcoin:1.55
+  wallets:1.09
+  beta:1.09
+  payments:1.09
+  multisignature:1.08
+  software:1.08
+  amount:1.08
+  real:1.08
+  integrationthis:1.08
+  coinjoin mixing:1.08
+
+Topic 4:
+  chromium:3.12
+  bit:3.12
+  runs:3.12
+  plans:1.52
+  pays:1.52
+  assed:1.52
+  socks:1.52
+  purely:1.52
+  drive:1.52
+  thing:1.52
+
+K: 5, Log-Likelihood: -1299.484, Alpha: 11.000, Beta: 1.100

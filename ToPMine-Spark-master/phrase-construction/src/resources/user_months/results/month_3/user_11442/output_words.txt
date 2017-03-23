@@ -1,0 +1,61 @@
+Topic 0:
+  issues:5.74
+  time:4.76
+  quote:4.02
+  people:3.93
+  week:3.90
+  hell:3.82
+  january:3.42
+  list:3.39
+  good:3.15
+  dont:3.10
+
+Topic 1:
+  sr:8.20
+  forums:5.98
+  people:5.71
+  place:4.11
+  today:3.87
+  questions:3.39
+  register:3.01
+  february:2.81
+  problem:2.73
+  business:2.54
+
+Topic 2:
+  forums:4.27
+  post:3.27
+  feel:2.71
+  pandora:2.29
+  frustrated:2.28
+  making:2.20
+  set:2.17
+  small:2.01
+  sr:1.88
+  call:1.88
+
+Topic 3:
+  people:10.33
+  thread:6.48
+  bond:4.33
+  venders:3.96
+  problem:3.85
+  button:3.63
+  sr:3.62
+  vendor:3.35
+  site:3.17
+  doctorclu:2.96
+
+Topic 4:
+  site:7.86
+  trouble:4.98
+  forum:4.96
+  log:4.66
+  party:4.29
+  vendor:3.84
+  outlaw:3.77
+  vendors:3.61
+  january:3.46
+  quote:3.16
+
+K: 5, Log-Likelihood: -5194.039, Alpha: 11.000, Beta: 1.100

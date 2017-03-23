@@ -1,0 +1,61 @@
+Topic 0:
+  evolution:0.40
+  set:0.20
+  dark:0.20
+  market:0.20
+  goods:0.20
+  advertise:0.20
+  captain:0.20
+  dominant:0.20
+  rest:0.20
+  redacted:0.20
+
+Topic 1:
+  evolution:0.40
+  redacted:0.20
+  advertise:0.20
+  buzz:0.20
+  dear:0.20
+  captain:0.20
+  marketplace:0.20
+  feel:0.20
+  september:0.20
+  rest:0.20
+
+Topic 2:
+  evolution:0.40
+  sale:0.20
+  generate:0.20
+  jack:0.20
+  feel:0.20
+  market:0.20
+  dominant:0.20
+  net:0.20
+  goods:0.20
+  link:0.20
+
+Topic 3:
+  evolution:0.40
+  link:0.20
+  buzz:0.20
+  sale:0.20
+  jack:0.20
+  dark:0.20
+  marketplace:0.20
+  generate:0.20
+  vendor:0.20
+  dominant:0.20
+
+Topic 4:
+  evolution:0.40
+  vendor:0.20
+  september:0.20
+  verified:0.20
+  dear:0.20
+  rest:0.20
+  net:0.20
+  market:0.20
+  goods:0.20
+  marketplace:0.20
+
+K: 5, Log-Likelihood: -74.916, Alpha: 11.000, Beta: 1.100

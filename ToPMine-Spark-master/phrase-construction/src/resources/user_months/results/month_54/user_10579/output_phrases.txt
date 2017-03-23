@@ -1,0 +1,61 @@
+Topic 0:
+  social:2.67
+  anxiety:2.67
+  depression:2.67
+  severe:2.67
+  pain:2.67
+  quote cocaine june pmquote:1.89
+  bit:1.77
+  markets:1.77
+  tonight:1.77
+  feel:1.77
+
+Topic 1:
+  eh:2.33
+  claptrap june pm:2.28
+  recovery older hdds backup:2.21
+  future:1.68
+  nah heard read:1.68
+  june pmquote:1.68
+  quote claptrap:1.68
+  personal touch mate:1.68
+  system existent claptrap:1.68
+  mate:1.68
+
+Topic 2:
+  encryption:7.41
+  open source:5.54
+  operating:3.67
+  full:3.67
+  dont:3.67
+  filevault:3.67
+  encrypt:3.67
+  apple:3.67
+  system drive:3.67
+  backdoored:3.67
+
+Topic 3:
+  system existent:1.89
+  claptrap personal touch mate:1.88
+  devastating data:1.88
+  nah heard read filevault:1.87
+  chav lingo:1.61
+  quote:1.42
+  bloody:1.33
+  dooz:1.33
+  loss:1.33
+  fair:1.32
+
+Topic 4:
+  zaphod:3.38
+  blowjob:3.37
+  pmboot chav lingo:2.35
+  aint burberry:2.35
+  wardrobe mate:2.34
+  lurking:2.33
+  aint staff burberry wardrobe:2.13
+  rockport:1.73
+  ysl:1.73
+  burberry:1.73
+
+K: 5, Log-Likelihood: -1728.920, Alpha: 11.000, Beta: 1.100

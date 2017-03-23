@@ -1,0 +1,61 @@
+Topic 0:
+  agora:1.17
+  guys:0.90
+  pretty:0.82
+  vendors:0.61
+  love:0.58
+  acct:0.57
+  access:0.57
+  lucy:0.57
+  nice:0.57
+  place:0.57
+
+Topic 1:
+  agora:1.43
+  pretty:0.87
+  guys:0.85
+  referral:0.65
+  suggestion:0.64
+  day:0.64
+  locate:0.64
+  happened:0.64
+  thankspeace:0.64
+  forums:0.64
+
+Topic 2:
+  vendors:1.83
+  sr:1.20
+  deals:1.20
+  escrow:1.20
+  popular:1.20
+  glad:1.20
+  dardush:1.20
+  work:1.20
+  direct:1.20
+  feeling:1.19
+
+Topic 3:
+  garden:2.58
+  reddit:1.71
+  hook:1.29
+  vendors:1.24
+  pretty:1.08
+  clearnet:1.00
+  heaps:1.00
+  superlistedit:1.00
+  wiki:1.00
+  warning:0.99
+
+Topic 4:
+  agora:0.95
+  pretty:0.94
+  guys:0.80
+  vendors:0.79
+  hook:0.56
+  garden:0.51
+  shop:0.48
+  dnm:0.48
+  question:0.48
+  loose:0.48
+
+K: 5, Log-Likelihood: -507.223, Alpha: 11.000, Beta: 1.100

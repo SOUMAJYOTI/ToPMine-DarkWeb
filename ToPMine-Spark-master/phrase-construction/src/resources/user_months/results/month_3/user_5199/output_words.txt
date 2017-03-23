@@ -1,0 +1,61 @@
+Topic 0:
+  sr:1.34
+  profile:1.26
+  llama:1.09
+  socks:0.96
+  thread:0.77
+  tor:0.77
+  vendor:0.57
+  mdma:0.56
+  support:0.56
+  good:0.53
+
+Topic 1:
+  llama:1.30
+  socks:0.86
+  support:0.74
+  good:0.71
+  variation:0.45
+  post:0.45
+  pics:0.45
+  profile:0.44
+  bsm:0.43
+  sr:0.41
+
+Topic 2:
+  llama:1.22
+  support:1.17
+  delete:0.87
+  messages:0.87
+  respond:0.86
+  dont:0.61
+  worry:0.61
+  answer:0.60
+  good:0.51
+  socks:0.44
+
+Topic 3:
+  llama:1.10
+  socks:1.05
+  profile:0.78
+  sr:0.74
+  support:0.62
+  good:0.62
+  tor:0.50
+  thread:0.50
+  mdma:0.49
+  vendor:0.48
+
+Topic 4:
+  llama:1.29
+  support:0.91
+  socks:0.68
+  good:0.63
+  worry:0.46
+  dont:0.46
+  answer:0.45
+  bsm:0.44
+  messages:0.43
+  delete:0.43
+
+K: 5, Log-Likelihood: -534.211, Alpha: 11.000, Beta: 1.100

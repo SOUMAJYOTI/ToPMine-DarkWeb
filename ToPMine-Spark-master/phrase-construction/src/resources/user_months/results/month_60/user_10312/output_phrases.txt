@@ -1,0 +1,61 @@
+Topic 0:
+  baltimore:0.00
+  years:0.00
+  laundering member:0.00
+  appeared:0.00
+  road:0.00
+  prison:0.00
+  investigated:0.00
+  extortion:0.00
+  based:0.00
+  investigating:0.00
+
+Topic 1:
+  baltimore:0.00
+  years:0.00
+  laundering member:0.00
+  appeared:0.00
+  road:0.00
+  prison:0.00
+  investigated:0.00
+  extortion:0.00
+  based:0.00
+  investigating:0.00
+
+Topic 2:
+  baltimore:0.00
+  years:0.00
+  laundering member:0.00
+  appeared:0.00
+  road:0.00
+  prison:0.00
+  investigated:0.00
+  extortion:0.00
+  based:0.00
+  investigating:0.00
+
+Topic 3:
+  baltimore:0.00
+  years:0.00
+  laundering member:0.00
+  appeared:0.00
+  road:0.00
+  prison:0.00
+  investigated:0.00
+  extortion:0.00
+  based:0.00
+  investigating:0.00
+
+Topic 4:
+  baltimore:0.00
+  years:0.00
+  laundering member:0.00
+  appeared:0.00
+  road:0.00
+  prison:0.00
+  investigated:0.00
+  extortion:0.00
+  based:0.00
+  investigating:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  filters:1.31
+  doesnt:1.15
+  ends:1.15
+  simple:1.15
+  missing:1.15
+  impossible:1.15
+  software:1.15
+  forum:1.15
+  experience:1.15
+  terp:1.15
+
+Topic 1:
+  supposed:2.59
+  ing:2.58
+  blah:2.57
+  sr:2.57
+  dr:1.22
+  trade:1.22
+  reported:1.22
+  late:1.22
+  stage:1.22
+  block:1.22
+
+Topic 2:
+  paranoid:2.32
+  sense:1.34
+  stay:1.32
+  point:1.31
+  posts:1.31
+  deleted:1.31
+  theft:1.31
+  safer:1.31
+  warning:1.31
+  posting:1.31
+
+Topic 3:
+  pgp:0.67
+  forums:0.66
+  account:0.66
+  sound:0.66
+  guess:0.66
+  returning:0.66
+  le dont:0.66
+  explanation:0.59
+  sense:0.58
+  sr forums:0.50
+
+Topic 4:
+  word post:4.00
+  message:3.31
+  post:2.62
+  shit:1.24
+  underneath:1.24
+  info:1.24
+  clues:1.24
+  strange:1.24
+  forget:1.24
+  dont:1.24
+
+K: 5, Log-Likelihood: -960.242, Alpha: 11.000, Beta: 1.100

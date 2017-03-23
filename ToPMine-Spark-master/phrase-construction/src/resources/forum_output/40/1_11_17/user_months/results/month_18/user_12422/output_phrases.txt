@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.47
+  mit:0.46
+  myymisen:0.21
+  btc:0.21
+  itsell:0.21
+  ollut:0.21
+  pidemminkin:0.21
+  nyt:0.21
+  july:0.21
+  tess:0.21
+
+Topic 1:
+  ja:0.35
+  mit:0.28
+  myyj:0.23
+  koska:0.21
+  myyjien:0.21
+  ytt:0.21
+  yl:0.21
+  paljon:0.21
+  kuullutkaan:0.21
+  topicci:0.21
+
+Topic 2:
+  ja:0.42
+  mit:0.39
+  ett:0.21
+  myyj:0.20
+  heti:0.19
+  kaikki:0.19
+  nose:0.19
+  kulunut:0.19
+  sain:0.19
+  thirty:0.19
+
+Topic 3:
+  ja:0.40
+  mit:0.34
+  myyj:0.21
+  ett:0.20
+  silkkitien:0.19
+  edit:0.19
+  diana:0.19
+  pito:0.19
+  lankaan:0.19
+  vahvisti:0.19
+
+Topic 4:
+  ja:0.41
+  mit:0.36
+  myyj:0.20
+  ett:0.20
+  tunnuksen:0.19
+  silkkitien:0.19
+  pahoitteli:0.19
+  parin:0.19
+  yll:0.19
+  viikon:0.19
+
+K: 5, Log-Likelihood: -370.162, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  road:0.66
+  nash:0.65
+  silk:0.62
+  prison:0.52
+  money:0.38
+  extradition:0.38
+  drug:0.38
+  forensic:0.38
+  australian:0.38
+  brisbane:0.38
+
+Topic 1:
+  nash:0.63
+  road:0.61
+  silk:0.56
+  prison:0.50
+  site:0.37
+  face:0.36
+  ahead:0.36
+  extradition:0.36
+  queensland:0.36
+  charges:0.36
+
+Topic 2:
+  protected:1.67
+  password:1.67
+  courts:0.73
+  repost:0.73
+  february:0.73
+  arguing:0.73
+  hidden:0.73
+  onion:0.73
+  enterthematrix:0.73
+  hear:0.73
+
+Topic 3:
+  nash:0.79
+  silk:0.79
+  road:0.76
+  prison:0.63
+  charged:0.45
+  extradition:0.45
+  queensland:0.45
+  disability:0.45
+  forensic:0.45
+  service:0.44
+
+Topic 4:
+  silk:1.94
+  road:1.88
+  nash:1.84
+  prison:1.26
+  prosecutors:0.76
+  launder:0.76
+  employed:0.76
+  conspiracy:0.75
+  australian:0.75
+  service:0.75
+
+K: 5, Log-Likelihood: -721.039, Alpha: 11.000, Beta: 1.100

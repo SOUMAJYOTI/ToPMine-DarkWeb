@@ -1,0 +1,61 @@
+Topic 0:
+  direct:0.40
+  people:0.40
+  trade:0.20
+  english:0.20
+  goods:0.20
+  captain:0.20
+  jack:0.20
+  system:0.20
+  software:0.20
+  selling:0.20
+
+Topic 1:
+  people:0.40
+  direct:0.40
+  purpose:0.20
+  selling:0.20
+  works:0.20
+  link:0.20
+  forget:0.20
+  system:0.20
+  chipso:0.20
+  seller:0.20
+
+Topic 2:
+  people:0.40
+  direct:0.40
+  works:0.20
+  versionnow:0.20
+  work:0.20
+  softwares:0.20
+  verified:0.20
+  captain:0.20
+  finished:0.20
+  seller:0.20
+
+Topic 3:
+  direct:0.40
+  people:0.40
+  pm:0.20
+  goods:0.20
+  system:0.20
+  work:0.20
+  link:0.20
+  advertise:0.20
+  guy:0.20
+  marketplace:0.20
+
+Topic 4:
+  people:0.40
+  direct:0.40
+  software:0.20
+  purpose:0.20
+  tested:0.20
+  soccorio:0.20
+  handles:0.20
+  advertise:0.20
+  verified:0.20
+  guy:0.20
+
+K: 5, Log-Likelihood: -112.668, Alpha: 11.000, Beta: 1.100

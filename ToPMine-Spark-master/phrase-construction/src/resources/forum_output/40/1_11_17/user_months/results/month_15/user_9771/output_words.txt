@@ -1,0 +1,61 @@
+Topic 0:
+  drugs:1.67
+  site:1.14
+  guys:0.73
+  side:0.73
+  area:0.69
+  english:0.69
+  guid:0.68
+  understand:0.68
+  strong:0.68
+  general:0.67
+
+Topic 1:
+  drugs:1.71
+  site:1.27
+  understand:0.90
+  english:0.88
+  guid:0.88
+  general:0.88
+  strong:0.86
+  side:0.86
+  area:0.85
+  guys:0.83
+
+Topic 2:
+  drugs:1.59
+  site:1.20
+  area:1.05
+  guys:1.00
+  understand:0.98
+  general:0.97
+  side:0.96
+  strong:0.96
+  guid:0.95
+  english:0.95
+
+Topic 3:
+  drugs:1.39
+  site:1.18
+  side:0.60
+  understand:0.60
+  strong:0.59
+  guys:0.59
+  guid:0.59
+  garden:0.58
+  check:0.58
+  cannabis:0.58
+
+Topic 4:
+  drugs:1.63
+  site:1.21
+  general:0.93
+  english:0.92
+  strong:0.91
+  guid:0.90
+  side:0.85
+  guys:0.85
+  understand:0.85
+  area:0.84
+
+K: 5, Log-Likelihood: -375.852, Alpha: 11.000, Beta: 1.100

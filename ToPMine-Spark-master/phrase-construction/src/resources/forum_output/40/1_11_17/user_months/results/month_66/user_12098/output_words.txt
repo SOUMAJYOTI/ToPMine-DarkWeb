@@ -1,0 +1,61 @@
+Topic 0:
+  btc:3.43
+  deposit:2.57
+  cash:2.21
+  dont:1.95
+  sending:1.86
+  offer:1.78
+  mail:1.78
+  service:1.78
+  account:1.59
+  bank:1.54
+
+Topic 1:
+  site:5.41
+  money:4.85
+  coins:4.19
+  btc:3.72
+  time:3.71
+  days:2.94
+  sr:2.94
+  charge:2.48
+  local:2.24
+  good:2.24
+
+Topic 2:
+  buy:3.37
+  dont:2.80
+  fucking:2.08
+  deals:2.01
+  person:1.54
+  markets:1.51
+  account:1.48
+  quote:0.96
+  personal:0.90
+  november:0.80
+
+Topic 3:
+  vendors:4.78
+  lbc:4.78
+  november:3.25
+  contact:2.86
+  record:2.75
+  tx:2.75
+  burned:2.75
+  sign:2.75
+  prefer:2.74
+  learned:2.74
+
+Topic 4:
+  buy:8.66
+  coinbase:6.19
+  limits:5.34
+  markets:5.02
+  personal:4.98
+  ive:4.29
+  dicks:2.45
+  scanning:2.45
+  suck:2.45
+  doesn:2.44
+
+K: 5, Log-Likelihood: -2521.824, Alpha: 11.000, Beta: 1.100

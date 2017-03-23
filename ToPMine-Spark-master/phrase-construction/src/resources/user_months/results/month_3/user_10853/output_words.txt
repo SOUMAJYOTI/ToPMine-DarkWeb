@@ -1,0 +1,61 @@
+Topic 0:
+  encryption:6.95
+  linus:5.45
+  disk:2.82
+  full:2.82
+  truecrypt:2.05
+  cases:1.80
+  harddrive:1.80
+  written:1.80
+  encrypted:1.80
+  le:1.80
+
+Topic 1:
+  ram:2.33
+  keys:1.77
+  brands:1.72
+  freeze:1.16
+  modern:0.97
+  march:0.78
+  choose:0.77
+  true:0.77
+  debug:0.77
+  variance:0.77
+
+Topic 2:
+  extremely:2.08
+  keylogging:2.07
+  methods:2.06
+  level:2.05
+  route:2.05
+  rubber:2.05
+  broken:2.05
+  brute:2.04
+  secure:2.04
+  corrosive:2.04
+
+Topic 3:
+  computer:3.79
+  cold:3.52
+  shut:2.62
+  boot:2.61
+  drive:2.50
+  attacks:1.61
+  security:1.60
+  features:1.60
+  wipe:1.60
+  tails:1.60
+
+Topic 4:
+  march:1.25
+  quote:1.21
+  breaking:1.09
+  math:1.08
+  modern:1.01
+  feasible:0.98
+  encryption:0.92
+  em:0.91
+  encrusted:0.85
+  crypt:0.85
+
+K: 5, Log-Likelihood: -1715.015, Alpha: 11.000, Beta: 1.100

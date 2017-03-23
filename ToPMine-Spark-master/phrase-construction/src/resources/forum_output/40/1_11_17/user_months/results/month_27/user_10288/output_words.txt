@@ -1,0 +1,61 @@
+Topic 0:
+  traffic:3.78
+  pentesting:2.17
+  tools:2.03
+  computer:1.83
+  wifi:1.62
+  time:1.45
+  work:1.42
+  data:1.39
+  macaddr:1.37
+  kali:1.36
+
+Topic 1:
+  cash:3.45
+  pull:1.39
+  bitcoins:1.38
+  carding:1.17
+  posts:1.04
+  reading:1.04
+  darcyweed:1.03
+  dont:1.03
+  person:0.81
+  buy:0.65
+
+Topic 2:
+  nasty:3.49
+  common:1.82
+  kind:1.82
+  days:1.71
+  pull:1.28
+  position:0.84
+  cases:0.84
+  hackers:0.84
+  amateurs:0.84
+  attack:0.84
+
+Topic 3:
+  wifi:5.88
+  ap:4.28
+  people:3.38
+  paranoid:2.94
+  connected:2.94
+  shit:2.94
+  twin:2.68
+  evil:2.68
+  matter:2.08
+  youve:2.08
+
+Topic 4:
+  traffic:4.45
+  computer:1.95
+  wifi:1.80
+  tools:1.76
+  pentesting:1.76
+  ssl:1.51
+  tor:1.50
+  real:1.47
+  trace:1.47
+  kali:1.44
+
+K: 5, Log-Likelihood: -2837.483, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  medium:31.93
+  culture:24.79
+  pressure:17.94
+  jars:17.93
+  tube:17.93
+  box:15.97
+  cooker:15.95
+  small:14.68
+  mycelium:13.94
+  production:13.94
+
+Topic 1:
+  message:10.17
+  signed:6.67
+  services:6.27
+  banana:4.35
+  sr:3.91
+  pgp:3.91
+  jack:2.63
+  verification:2.62
+  pretty:2.06
+  pip:1.87
+
+Topic 2:
+  wallet:35.19
+  passphrase:28.84
+  private:22.59
+  seed:21.60
+  key:21.01
+  brainwallet:16.14
+  bitcoin:13.75
+  deterministic:12.78
+  save:12.32
+  file:10.40
+
+Topic 3:
+  wallet:45.68
+  key:37.17
+  private:23.30
+  text:21.07
+  blockchain:18.92
+  online:16.22
+  transaction:15.98
+  computer:15.45
+  address:15.03
+  public:14.93
+
+Topic 4:
+  vendor:5.80
+  chem:3.02
+  rated:2.78
+  custom:2.44
+  consulting:2.41
+  sr:2.39
+  lot:2.31
+  work:2.21
+  sold:2.03
+  link:1.90
+
+K: 5, Log-Likelihood: -23480.561, Alpha: 11.000, Beta: 1.100

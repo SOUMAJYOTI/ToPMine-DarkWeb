@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:0.60
+  drive:0.40
+  notepad:0.40
+  letters:0.40
+  goggle:0.40
+  info:0.20
+  long:0.20
+  pip:0.20
+  dont:0.20
+  view:0.20
+
+Topic 1:
+  wallet:0.61
+  notepad:0.40
+  letters:0.40
+  goggle:0.40
+  drive:0.40
+  info:0.20
+  random:0.20
+  looked:0.20
+  videos:0.20
+  viewer:0.20
+
+Topic 2:
+  wallet:0.60
+  goggle:0.40
+  letters:0.40
+  drive:0.40
+  notepad:0.40
+  options:0.20
+  happen:0.20
+  understand:0.20
+  string:0.20
+  entry:0.20
+
+Topic 3:
+  wallet:0.60
+  goggle:0.40
+  letters:0.40
+  notepad:0.40
+  drive:0.40
+  backup:0.20
+  seemingly:0.20
+  site:0.20
+  key:0.20
+  dont:0.20
+
+Topic 4:
+  wallet:0.59
+  drive:0.40
+  letters:0.40
+  notepad:0.40
+  goggle:0.40
+  extremely:0.20
+  random:0.20
+  viewer:0.20
+  option:0.20
+  pick:0.20
+
+K: 5, Log-Likelihood: -129.545, Alpha: 11.000, Beta: 1.100

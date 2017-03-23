@@ -1,0 +1,61 @@
+Topic 0:
+  legal:1.41
+  random:1.41
+  advice:1.41
+  druggies:1.41
+  internet:1.41
+  op:1.41
+  good:1.36
+  source:1.36
+  ssn:1.36
+  domestic:1.36
+
+Topic 1:
+  llc:5.03
+  btc:3.32
+  taxed:3.32
+  structure:3.32
+  payments:3.32
+  forming:3.32
+  purchases:3.32
+  require:3.32
+  state:3.32
+  money:3.32
+
+Topic 2:
+  march:3.32
+  numerous:2.10
+  partner:2.09
+  terrible:2.09
+  deposits accounts:2.09
+  trolltergeist:2.09
+  shell:2.09
+  idea:2.09
+  mix:2.08
+  reasons:2.08
+
+Topic 3:
+  putting:3.31
+  reporting:3.31
+  limit:3.31
+  obvious:2.37
+  pretty:2.37
+  series:1.61
+  amounts account:1.61
+  sooner:1.61
+  constantly:1.61
+  lots:1.61
+
+Topic 4:
+  year:3.32
+  time:3.32
+  opening:3.32
+  open:1.93
+  bank account:1.93
+  fake:1.76
+  tax:1.62
+  ditch:1.62
+  working:1.62
+  llcs:1.62
+
+K: 5, Log-Likelihood: -1970.699, Alpha: 11.000, Beta: 1.100

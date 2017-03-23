@@ -1,0 +1,61 @@
+Topic 0:
+  people:4.88
+  services:3.38
+  withdraw:3.22
+  scam:2.97
+  coins:1.92
+  dont:1.79
+  bitcoin:1.62
+  detective:1.32
+  fog:1.30
+  stay:1.30
+
+Topic 1:
+  coins:1.75
+  bitblender:1.62
+  good:1.21
+  wan:0.99
+  set:0.98
+  order:0.93
+  random:0.74
+  instantly:0.74
+  process:0.71
+  mixers:0.70
+
+Topic 2:
+  coins:2.44
+  people:2.25
+  scam:1.48
+  withdraw:1.40
+  set:1.28
+  bitcoin:1.23
+  services:1.21
+  random:1.14
+  dont:1.09
+  instantly:1.03
+
+Topic 3:
+  coins:1.88
+  good:1.30
+  instantly:1.16
+  random:1.11
+  set:1.03
+  order:0.82
+  people:0.81
+  wan:0.78
+  scam:0.71
+  services:0.63
+
+Topic 4:
+  good:2.97
+  coins:2.02
+  bitblender:1.30
+  instantly:1.08
+  random:1.08
+  time:0.85
+  option:0.84
+  delay:0.84
+  offers:0.84
+  mixed:0.84
+
+K: 5, Log-Likelihood: -887.335, Alpha: 11.000, Beta: 1.100

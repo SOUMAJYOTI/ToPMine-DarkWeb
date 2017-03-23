@@ -1,0 +1,61 @@
+Topic 0:
+  persistent volume:1.25
+  system:0.97
+  drive:0.96
+  computer:0.85
+  click:0.84
+  tor:0.82
+  security:0.80
+  pass phrase:0.73
+  copy tails:0.65
+  browser:0.65
+
+Topic 1:
+  browser:0.86
+  drive:0.67
+  persistent volume:0.66
+  system:0.58
+  pre installed:0.56
+  tor:0.55
+  security:0.53
+  pass phrase:0.51
+  click:0.51
+  computer:0.51
+
+Topic 2:
+  drive:1.20
+  persistent volume:0.86
+  tor:0.78
+  browser:0.77
+  click:0.74
+  system:0.74
+  security:0.67
+  pass phrase:0.65
+  computer:0.64
+  menu highlight:0.57
+
+Topic 3:
+  persistent volume:6.20
+  drive:3.98
+  click:2.76
+  system:2.48
+  pass phrase:1.97
+  computer:1.86
+  security:1.85
+  tor:1.64
+  boot:1.33
+  save:1.29
+
+Topic 4:
+  persistent volume:0.92
+  drive:0.88
+  system:0.72
+  browser:0.71
+  click:0.64
+  tor:0.60
+  pre installed:0.55
+  security:0.54
+  pass phrase:0.54
+  computer:0.54
+
+K: 5, Log-Likelihood: -3184.268, Alpha: 11.000, Beta: 1.100

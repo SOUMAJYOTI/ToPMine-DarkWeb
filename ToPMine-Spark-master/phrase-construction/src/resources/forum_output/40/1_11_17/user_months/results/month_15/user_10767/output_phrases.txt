@@ -1,0 +1,61 @@
+Topic 0:
+  routing box:7.17
+  setup:6.12
+  protected computer:5.81
+  gateway:5.81
+  interest access:5.81
+  connected:4.57
+  set:3.87
+  guys:3.87
+  nat:3.87
+  works:3.87
+
+Topic 1:
+  deepdotweb:5.82
+  tor:5.05
+  browser:3.87
+  microsoft security:3.87
+  named:3.87
+  light:3.87
+  microsoft:3.87
+  version:3.87
+  revealed:3.87
+  article:2.71
+
+Topic 2:
+  article:6.71
+  average user:6.11
+  theyll:6.11
+  sites:6.11
+  onion:3.03
+  plenty:3.03
+  yeah:3.03
+  tor browser script completely:3.03
+  front:3.03
+  visit:3.03
+
+Topic 3:
+  hidden services:7.77
+  search terms:5.82
+  private companies leo:5.82
+  intelligence:3.87
+  greater:3.87
+  purposes:3.87
+  behalf:3.87
+  hidden:3.87
+  months:3.87
+  exit:3.87
+
+Topic 4:
+  control:5.81
+  hosting secure:4.57
+  solution:3.87
+  physical:3.87
+  boxes:3.87
+  national:3.01
+  average site:3.01
+  idea:3.01
+  honestly:3.01
+  interested:3.01
+
+K: 5, Log-Likelihood: -6742.092, Alpha: 11.000, Beta: 1.100

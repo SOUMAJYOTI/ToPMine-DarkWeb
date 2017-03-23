@@ -1,0 +1,61 @@
+Topic 0:
+  cartridge:1.10
+  gram:1.08
+  open:0.47
+  indica:0.22
+  sativa:0.22
+  horrid:0.22
+  hub:0.17
+  eve:0.17
+  autocancellation:0.17
+  order:0.17
+
+Topic 1:
+  gram:0.79
+  cartridge:0.74
+  open:0.39
+  order:0.20
+  point:0.20
+  autocancellation:0.20
+  eve:0.20
+  hub:0.20
+  spamming:0.20
+  verge:0.20
+
+Topic 2:
+  cartridge:0.70
+  gram:0.65
+  open:0.37
+  advertise:0.21
+  link:0.21
+  captain:0.21
+  jack:0.21
+  verified:0.21
+  marketplace:0.21
+  goods:0.21
+
+Topic 3:
+  cartridge:0.83
+  gram:0.83
+  open:0.40
+  sativa:0.20
+  indica:0.20
+  horrid:0.20
+  hub:0.20
+  eve:0.20
+  verge:0.20
+  busy:0.20
+
+Topic 4:
+  gram:0.65
+  cartridge:0.63
+  open:0.36
+  spamming:0.22
+  busy:0.22
+  eve:0.22
+  point:0.22
+  verge:0.22
+  autocancellation:0.22
+  hub:0.22
+
+K: 5, Log-Likelihood: -85.717, Alpha: 11.000, Beta: 1.100

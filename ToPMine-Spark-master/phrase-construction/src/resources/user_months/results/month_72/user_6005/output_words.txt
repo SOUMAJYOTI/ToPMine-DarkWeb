@@ -1,0 +1,61 @@
+Topic 0:
+  mail:6.97
+  cash:6.07
+  money:4.76
+  sell:4.02
+  express:3.28
+  send:2.78
+  seal:2.23
+  large:2.18
+  people:2.03
+  transfer:1.82
+
+Topic 1:
+  url:7.70
+  onion:7.68
+  january:7.09
+  tor:5.69
+  confused:5.02
+  accessible:4.58
+  site:4.57
+  clearnet:4.44
+  quote:4.39
+  bombheadie:3.71
+
+Topic 2:
+  school:7.72
+  hoffman:5.75
+  free:5.75
+  sample:5.74
+  high:4.24
+  eaten:3.73
+  darknet:3.73
+  times:3.73
+  brightness:3.73
+  greeted:3.73
+
+Topic 3:
+  people:2.51
+  cash:2.27
+  lbc:1.65
+  person:1.46
+  sell:1.45
+  thread:1.26
+  express:1.09
+  mail:1.08
+  wrong:1.07
+  money:0.92
+
+Topic 4:
+  cash:5.36
+  mail:1.77
+  sending:1.65
+  transfer:1.62
+  transfers:1.56
+  wrong:1.40
+  thread:1.35
+  people:1.24
+  clearnet:1.16
+  site:1.11
+
+K: 5, Log-Likelihood: -2396.310, Alpha: 11.000, Beta: 1.100

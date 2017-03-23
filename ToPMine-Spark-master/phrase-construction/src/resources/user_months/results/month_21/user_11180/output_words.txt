@@ -1,0 +1,61 @@
+Topic 0:
+  evolution:1.58
+  pandora:1.38
+  vendor:1.36
+  agora:1.33
+  redacted:1.25
+  guys:0.99
+  good:0.97
+  inform:0.93
+  opened:0.93
+  dont:0.92
+
+Topic 1:
+  evolution:2.20
+  time:1.60
+  pandora:1.59
+  good:1.30
+  main:1.16
+  market:0.92
+  agora:0.88
+  alice:0.88
+  fast:0.84
+  understand:0.78
+
+Topic 2:
+  agora:2.07
+  account:1.59
+  evolution:1.51
+  pandora:1.36
+  market:1.29
+  redacted:0.94
+  vendor:0.90
+  time:0.88
+  good:0.86
+  guys:0.72
+
+Topic 3:
+  evolution:2.15
+  good:1.53
+  understand:1.45
+  time:1.37
+  pandora:1.36
+  main:1.28
+  reached:1.07
+  money:1.04
+  fast:1.04
+  alice:1.03
+
+Topic 4:
+  account:4.18
+  agora:4.02
+  administration:2.69
+  feedbacks:2.22
+  job:1.70
+  pandora:1.32
+  market:1.32
+  check:1.08
+  matter:1.07
+  lost:1.06
+
+K: 5, Log-Likelihood: -1157.050, Alpha: 11.000, Beta: 1.100

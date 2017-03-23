@@ -1,0 +1,61 @@
+Topic 0:
+  ono:0.08
+  mahdollistaa:0.08
+  sill:0.08
+  saa:0.08
+  mul:0.08
+  bitcoinia:0.08
+  hinnan:0.08
+  paljon:0.08
+  homma:0.08
+  laity:0.08
+
+Topic 1:
+  homma:0.08
+  ono:0.08
+  mul:0.08
+  laity:0.08
+  bitcoineina:0.08
+  sill:0.08
+  saa:0.08
+  bitcoinia:0.08
+  mahdollistaa:0.08
+  iso:0.08
+
+Topic 2:
+  minun:0.08
+  olla:0.08
+  selke:0.08
+  jos:0.08
+  valita:0.08
+  mbtc:0.08
+  hahmottaa:0.08
+  jotenkin:0.08
+  bitcoinejen:0.08
+  saisi:0.08
+
+Topic 3:
+  mpi:0.08
+  joka:0.08
+  asetuksista:0.08
+  voisi:0.08
+  hd:0.08
+  kannakin:0.08
+  valita:0.08
+  ett:0.08
+  olla:0.08
+  sijasta:0.08
+
+Topic 4:
+  mietin:0.08
+  hyv:0.08
+  mielest:0.08
+  haluaako:0.08
+  hahmottaa:0.08
+  kannakin:0.08
+  sijasta:0.08
+  mpi:0.08
+  voisi:0.08
+  saisi:0.08
+
+K: 5, Log-Likelihood: -52.308, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  cheers:0.82
+  join:0.76
+  nym:0.65
+  registered:0.61
+  figure:0.50
+  posted:0.49
+  pgp:0.48
+  key:0.48
+  url:0.45
+  nfin:0.45
+
+Topic 1:
+  join:1.28
+  cheers:1.15
+  registered:0.89
+  nym:0.65
+  time:0.57
+  type:0.56
+  guide:0.56
+  nam:0.56
+  register:0.55
+  password:0.55
+
+Topic 2:
+  pip:1.65
+  pgp:1.14
+  key:1.11
+  lot:0.97
+  client:0.96
+  add:0.96
+  comment:0.96
+  keys:0.96
+  slows:0.95
+  communicating:0.94
+
+Topic 3:
+  join:1.32
+  cheers:1.27
+  registered:0.97
+  nym:0.63
+  register:0.62
+  nam:0.62
+  password:0.62
+  guide:0.61
+  type:0.61
+  posted:0.56
+
+Topic 4:
+  key:0.83
+  pgp:0.80
+  pip:0.72
+  nym:0.58
+  communicating:0.53
+  slows:0.52
+  keys:0.52
+  message:0.51
+  comment:0.51
+  add:0.51
+
+K: 5, Log-Likelihood: -465.611, Alpha: 11.000, Beta: 1.100

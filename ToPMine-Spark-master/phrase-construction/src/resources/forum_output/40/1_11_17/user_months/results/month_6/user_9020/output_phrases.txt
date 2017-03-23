@@ -1,0 +1,61 @@
+Topic 0:
+  fundamental:3.87
+  support:3.87
+  connection:3.66
+  speed:3.65
+  technology:3.47
+  tor project:3.14
+  spot:1.92
+  sad:1.92
+  services:1.92
+  wiki:1.92
+
+Topic 1:
+  running:5.82
+  great:3.94
+  main os:3.87
+  habits:3.87
+  click:3.87
+  key:3.87
+  illegal:3.87
+  dvd:3.87
+  windows:3.87
+  live distro:3.87
+
+Topic 2:
+  child pornography:9.71
+  data:7.76
+  law enforcement officials:7.76
+  law enforcement:6.24
+  site:5.82
+  homeland security:5.82
+  operation round table:5.82
+  users:5.82
+  tor:4.34
+  making:3.87
+
+Topic 3:
+  practice:4.75
+  mistake view money quote:3.50
+  people:3.01
+  quote tyson april pm:2.96
+  tor:2.87
+  dont discipline mistake kilpatrick:2.86
+  average person worried business:2.86
+  wise advice:2.83
+  points:2.83
+  bridge:2.83
+
+Topic 4:
+  anonymous network:5.82
+  vpn:4.73
+  sites:3.87
+  connecting:3.87
+  day:3.87
+  find:3.61
+  vpn tor:3.22
+  anonymously:3.21
+  visiting:3.17
+  log:3.14
+
+K: 5, Log-Likelihood: -8083.604, Alpha: 11.000, Beta: 1.100

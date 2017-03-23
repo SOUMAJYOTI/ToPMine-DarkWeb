@@ -1,0 +1,61 @@
+Topic 0:
+  onion:0.97
+  quietforest:0.88
+  thread:0.73
+  issue:0.73
+  appreciated:0.64
+  connection:0.64
+  bitcointalk:0.57
+  dont:0.54
+  add:0.54
+  jollyroger:0.54
+
+Topic 1:
+  onion:1.12
+  thread:0.83
+  applications menu:0.77
+  quietforest:0.76
+  socks:0.73
+  localhost:0.72
+  server:0.71
+  drp:0.68
+  rwpmjwjfocguylj onion:0.68
+  electrum tails:0.67
+
+Topic 2:
+  post:2.47
+  applications menu:2.12
+  onlyone:1.06
+  evo:1.06
+  select:1.06
+  network option:1.06
+  rwpmjwjfocguylj:1.06
+  march:1.05
+  quote:1.05
+  usb:1.05
+
+Topic 3:
+  dont:1.42
+  person:1.17
+  worry:1.17
+  proxy:1.17
+  org tails:1.17
+  tcp:1.16
+  pray:1.16
+  ignore:1.16
+  port:1.16
+  tails protocol:1.16
+
+Topic 4:
+  tails:4.03
+  connects:1.50
+  effort:1.47
+  network onion:1.47
+  goods:1.47
+  annonymously:1.47
+  option option:1.47
+  tweaking:1.47
+  coinsit:1.47
+  data:1.47
+
+K: 5, Log-Likelihood: -909.340, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  dont:0.79
+  coins:0.60
+  account:0.40
+  leave:0.40
+  purchase:0.40
+  talk:0.20
+  raygun:0.20
+  links:0.20
+  mixing:0.20
+  bit:0.20
+
+Topic 1:
+  dont:0.89
+  coins:0.57
+  purchase:0.40
+  leave:0.39
+  account:0.39
+  start:0.20
+  understand:0.20
+  appreciated:0.20
+  trail:0.20
+  raygun:0.20
+
+Topic 2:
+  dont:0.77
+  coins:0.62
+  leave:0.40
+  purchase:0.40
+  account:0.40
+  basically:0.20
+  talk:0.20
+  appreciated:0.20
+  difference:0.20
+  items:0.20
+
+Topic 3:
+  dont:0.74
+  coins:0.62
+  leave:0.40
+  purchase:0.40
+  account:0.40
+  appreciated:0.20
+  ways:0.20
+  clue:0.20
+  bitcoin:0.20
+  advice:0.20
+
+Topic 4:
+  dont:0.80
+  coins:0.60
+  account:0.40
+  purchase:0.40
+  leave:0.40
+  address:0.20
+  items:0.20
+  clue:0.20
+  mixing:0.20
+  links:0.20
+
+K: 5, Log-Likelihood: -112.021, Alpha: 11.000, Beta: 1.100

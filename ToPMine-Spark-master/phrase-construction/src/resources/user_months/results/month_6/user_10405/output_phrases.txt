@@ -1,0 +1,61 @@
+Topic 0:
+  middle box:17.08
+  socks proxy:14.30
+  system:12.60
+  private network:11.44
+  system configured:8.58
+  secure box:8.58
+  pi middle box:7.23
+  ideally:5.79
+  guest:5.72
+  private interface:5.72
+
+Topic 1:
+  sort attack:11.44
+  requires:9.65
+  physical isolation:8.92
+  virtual isolation:8.58
+  technique:7.46
+  firewalls:7.46
+  security:7.00
+  controls:5.72
+  forum:5.72
+  called:5.72
+
+Topic 2:
+  quote:9.29
+  el presidente:9.09
+  cloudflare:8.52
+  bad motherfuckers:8.22
+  blockchain info:7.94
+  site:7.55
+  resource:6.41
+  js:6.19
+  days:6.16
+  april:6.08
+
+Topic 3:
+  warrant:17.17
+  activating computer:17.17
+  computer:17.17
+  mac address:12.35
+  internet:12.26
+  judge:11.44
+  nit:11.44
+  district:11.44
+  pi:11.23
+  website:9.86
+
+Topic 4:
+  fh exploit:13.47
+  fh:12.01
+  document describing:8.56
+  physical isolation:8.41
+  dont:7.25
+  virtual free:7.24
+  exploit:7.23
+  hanging fruit:6.49
+  browser:6.17
+  admins:5.70
+
+K: 5, Log-Likelihood: -25099.200, Alpha: 11.000, Beta: 1.100

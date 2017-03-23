@@ -1,0 +1,61 @@
+Topic 0:
+  service:2.93
+  mail:2.93
+  offer:2.93
+  time:2.32
+  recommend:1.82
+  bitcoin:1.81
+  america:1.43
+  photo:1.43
+  throwing:1.43
+  bank:1.43
+
+Topic 1:
+  contact:3.17
+  november:3.17
+  prefer tx record burned:2.13
+  learned lbc dont:2.13
+  sign cash deals vendors:2.13
+  fucking reload packs:2.13
+  phone:2.06
+  lbc forum:2.06
+  work:2.06
+  username:2.06
+
+Topic 2:
+  markets:2.98
+  personal:2.84
+  limits:2.84
+  coinbase:2.84
+  dont:2.75
+  sending:2.14
+  buy:1.85
+  concern:1.35
+  daily:1.35
+  alternative:1.35
+
+Topic 3:
+  buy:1.47
+  easy:1.13
+  hands:1.13
+  fast:1.13
+  working:1.13
+  anonymous:1.13
+  wellsuper:1.13
+  problemor:1.13
+  private:1.13
+  atmsthat:1.13
+
+Topic 4:
+  money:4.44
+  site:3.70
+  yea:2.94
+  wanted:2.94
+  ol:2.94
+  didnt:2.94
+  remember:2.94
+  print:2.94
+  great:2.94
+  good:2.94
+
+K: 5, Log-Likelihood: -2004.805, Alpha: 11.000, Beta: 1.100

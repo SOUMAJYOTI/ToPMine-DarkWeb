@@ -1,0 +1,61 @@
+Topic 0:
+  isnt:7.30
+  sldk april pmquote:6.77
+  nand:6.09
+  ssds:5.77
+  ssd supports opal fde:5.14
+  key:5.09
+  key encrypt data changing:5.08
+  opal compliant ssd change:4.92
+  controller:4.86
+  directly:4.86
+
+Topic 1:
+  ssd:9.38
+  standard disk utility:5.99
+  linux:5.03
+  secure:4.85
+  erased:4.85
+  bios:4.85
+  gnu:3.93
+  additionally:3.93
+  works:3.93
+  article:3.91
+
+Topic 2:
+  output:4.83
+  hdd:4.83
+  password:4.83
+  dd:4.77
+  news:4.00
+  wipe data:3.96
+  ep:3.83
+  trim:3.48
+  grimforecast:3.45
+  hdparm:2.40
+
+Topic 3:
+  security erase enhanced option:6.02
+  nsa:6.01
+  method:3.98
+  recoverable:3.98
+  min:3.98
+  enhanced erase:3.98
+  security erase:3.98
+  designed:3.98
+  full wear:3.98
+  full key:3.98
+
+Topic 4:
+  secure erase:4.86
+  storage:4.86
+  suds:4.86
+  block:4.86
+  bad blocks:4.32
+  nand:4.05
+  data:3.95
+  level:3.34
+  key set factory retain:2.86
+  factory advise assume:2.78
+
+K: 5, Log-Likelihood: -6666.705, Alpha: 11.000, Beta: 1.100

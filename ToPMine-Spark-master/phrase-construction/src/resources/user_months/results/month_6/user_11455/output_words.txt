@@ -1,0 +1,61 @@
+Topic 0:
+  long:4.25
+  community:3.12
+  february:2.70
+  move:2.23
+  journalist:1.83
+  pmthe:1.81
+  team:1.80
+  insults:1.76
+  directed:1.76
+  uncalled:1.76
+
+Topic 1:
+  time:6.14
+  hope:3.37
+  good:3.05
+  development:2.95
+  big:2.91
+  things:2.76
+  happened:2.75
+  background:2.73
+  lot:2.72
+  thing:2.70
+
+Topic 2:
+  time:4.90
+  february:4.71
+  deleted:4.65
+  forums:4.56
+  oracle:4.44
+  watched:3.73
+  people:3.71
+  december:3.70
+  sr:3.32
+  question:2.79
+
+Topic 3:
+  time:3.19
+  place:2.88
+  defcon:2.56
+  good:2.51
+  sr:1.83
+  road:1.78
+  watch:1.76
+  silk:1.52
+  times:1.43
+  february:1.39
+
+Topic 4:
+  transaction:4.74
+  malleability:4.74
+  stealth:3.10
+  scam:2.39
+  talking:2.21
+  protocol:1.95
+  bitcoin:1.95
+  empty:1.78
+  coins:1.67
+  expertise:1.52
+
+K: 5, Log-Likelihood: -6012.826, Alpha: 11.000, Beta: 1.100

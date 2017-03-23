@@ -1,0 +1,61 @@
+Topic 0:
+  continuity:1.18
+  character:1.17
+  vendor:1.04
+  identity:0.88
+  changing:0.85
+  years:0.82
+  trust:0.82
+  finding:0.82
+  operation:0.81
+  buyers:0.81
+
+Topic 1:
+  virtual:1.01
+  time:0.94
+  buyer:0.82
+  names:0.82
+  keys:0.76
+  linked:0.76
+  vendor:0.75
+  happen:0.59
+  volume:0.58
+  oversea:0.58
+
+Topic 2:
+  character:1.70
+  continuity:1.69
+  useless:1.09
+  weeks:1.09
+  seller:1.07
+  reputation:1.07
+  buyers:1.07
+  operation:1.07
+  finding:1.06
+  trust:1.06
+
+Topic 3:
+  virtual:1.02
+  time:0.92
+  keys:0.82
+  linked:0.82
+  names:0.78
+  vendor:0.75
+  buyer:0.75
+  volume:0.56
+  machine:0.56
+  connect:0.56
+
+Topic 4:
+  time:2.04
+  virtual:1.86
+  buyer:1.34
+  names:1.31
+  remailers:0.80
+  real:0.80
+  problem:0.80
+  longer:0.80
+  truecrypt:0.80
+  mundane:0.80
+
+K: 5, Log-Likelihood: -903.088, Alpha: 11.000, Beta: 1.100

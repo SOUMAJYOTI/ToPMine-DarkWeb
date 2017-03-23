@@ -1,0 +1,61 @@
+Topic 0:
+  marketplace:0.65
+  post:0.42
+  agora:0.42
+  marketplaces:0.42
+  sr:0.41
+  coke:0.28
+  charge:0.28
+  vacation:0.28
+  pricing:0.28
+  link:0.28
+
+Topic 1:
+  marketplace:0.56
+  sr:0.40
+  marketplaces:0.40
+  agora:0.39
+  post:0.38
+  vacation:0.30
+  charge:0.29
+  coke:0.29
+  onion:0.28
+  users:0.28
+
+Topic 2:
+  marketplace:0.60
+  post:0.42
+  agora:0.42
+  sr:0.42
+  marketplaces:0.41
+  vacation:0.29
+  charge:0.28
+  coke:0.28
+  trevorphilipsenterprises:0.28
+  silkroad:0.28
+
+Topic 3:
+  marketplace:0.84
+  agora:0.54
+  post:0.54
+  marketplaces:0.45
+  sr:0.43
+  vendor:0.29
+  link:0.28
+  pricing:0.28
+  ownowfk:0.27
+  cocaine:0.27
+
+Topic 4:
+  marketplace:0.65
+  post:0.43
+  agora:0.42
+  sr:0.42
+  marketplaces:0.41
+  cocaine:0.28
+  ownowfk:0.28
+  trevorphilipsenterprises:0.28
+  sr agora:0.28
+  onion:0.28
+
+K: 5, Log-Likelihood: -444.240, Alpha: 11.000, Beta: 1.100

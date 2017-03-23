@@ -1,0 +1,61 @@
+Topic 0:
+  november:3.55
+  quote:3.33
+  happy:2.63
+  market:2.44
+  feel:1.74
+  jalape:1.60
+  swanson:1.52
+  ron:1.49
+  luck:1.43
+  salsa:1.43
+
+Topic 1:
+  market:7.86
+  site:5.20
+  acropolis:4.97
+  markets:2.72
+  vendors:2.59
+  security:2.47
+  pgp:2.00
+  transactions:1.97
+  deep:1.97
+  fee:1.97
+
+Topic 2:
+  olk:1.97
+  es:1.97
+  xy:1.97
+  block:1.97
+  key:1.97
+  zt:1.97
+  fq:1.97
+  public:1.97
+  pgp:1.95
+  tlnnztsdgawpcfoya:0.97
+
+Topic 3:
+  november:3.59
+  quote:3.12
+  happy:2.52
+  market:2.51
+  jalape:1.76
+  sundays:1.48
+  good:1.45
+  salsa:1.44
+  luck:1.43
+  ron:1.40
+
+Topic 4:
+  november:11.76
+  nginx:7.27
+  info:5.70
+  fatherted:5.45
+  news:5.21
+  simple:4.55
+  machine:4.44
+  running:4.43
+  windows:4.40
+  amquote:4.15
+
+K: 5, Log-Likelihood: -5469.817, Alpha: 11.000, Beta: 1.100

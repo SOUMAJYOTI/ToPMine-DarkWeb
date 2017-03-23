@@ -1,0 +1,61 @@
+Topic 0:
+  logs:1.34
+  members:1.34
+  ago:1.34
+  plugin:1.34
+  private source:1.34
+  forum:1.34
+  small:1.33
+  years:1.33
+  convenient:1.33
+  tug:1.33
+
+Topic 1:
+  pidgin:4.46
+  xmpp:3.24
+  client:3.24
+  chat:1.56
+  authenticate:1.54
+  shared:1.54
+  send:1.54
+  answer:1.54
+  de:1.54
+  fingerprint:1.54
+
+Topic 2:
+  otr:0.94
+  easier:0.88
+  private tor:0.88
+  rare:0.88
+  days:0.87
+  trust:0.87
+  service:0.87
+  email:0.87
+  ip jabber:0.87
+  lot:0.86
+
+Topic 3:
+  email:1.05
+  private tor:1.05
+  days:1.05
+  ip jabber:1.05
+  jabber people:1.04
+  service:1.04
+  trust:1.03
+  rare:1.03
+  easier:1.01
+  lot:1.01
+
+Topic 4:
+  doesnt:2.75
+  doesn:2.68
+  otr:2.33
+  pmeven:1.96
+  quote:1.96
+  swirlybird:1.96
+  tie:1.96
+  communication:1.95
+  place:1.95
+  encrypts:1.95
+
+K: 5, Log-Likelihood: -739.231, Alpha: 11.000, Beta: 1.100

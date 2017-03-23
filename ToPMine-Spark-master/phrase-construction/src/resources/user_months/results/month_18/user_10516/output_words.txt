@@ -1,0 +1,61 @@
+Topic 0:
+  man:6.58
+  good:4.71
+  middle:4.44
+  google:4.37
+  work:4.00
+  networks:3.95
+  antenna:3.89
+  fellows:3.88
+  domain:3.88
+  certificate:3.88
+
+Topic 1:
+  software:2.70
+  kind:2.15
+  block:1.39
+  scripts:1.30
+  disabled:1.28
+  verify:1.27
+  files:1.27
+  ways:1.15
+  point:1.09
+  system:1.08
+
+Topic 2:
+  browser:8.35
+  tor:4.13
+  proxy:2.94
+  javascript:2.94
+  http:2.76
+  user:2.75
+  agent:2.75
+  work:2.55
+  idea:2.42
+  fingerprint:1.94
+
+Topic 3:
+  bundle:3.53
+  project:3.16
+  tor:2.95
+  system:2.50
+  server:2.45
+  coming:2.15
+  july:1.59
+  encrusted:1.56
+  tbb:1.56
+  hardened:1.56
+
+Topic 4:
+  good:3.11
+  attack:2.77
+  attacker:2.69
+  hotspots:2.32
+  point:1.97
+  resources:1.93
+  attacks:1.67
+  fellow:1.52
+  big:1.47
+  commercial:1.11
+
+K: 5, Log-Likelihood: -2981.255, Alpha: 11.000, Beta: 1.100

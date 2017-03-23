@@ -1,0 +1,61 @@
+Topic 0:
+  thread:0.40
+  move:0.40
+  hour:0.40
+  correct:0.40
+  wrong:0.20
+  agora:0.20
+  forums:0.20
+  reposting:0.20
+  realize:0.20
+  info:0.20
+
+Topic 1:
+  hour:0.40
+  move:0.40
+  thread:0.40
+  correct:0.40
+  spend:0.20
+  whichever:0.20
+  info:0.20
+  forums:0.20
+  chose:0.20
+  stupidly:0.20
+
+Topic 2:
+  correct:0.40
+  thread:0.40
+  move:0.40
+  hour:0.40
+  favor:0.20
+  pasting:0.20
+  place:0.20
+  load:0.20
+  huge:0.20
+  stupidly:0.20
+
+Topic 3:
+  correct:0.40
+  move:0.40
+  hour:0.40
+  thread:0.40
+  spent:0.20
+  huge:0.20
+  pasting:0.20
+  place:0.20
+  wrong:0.20
+  whichever:0.20
+
+Topic 4:
+  hour:0.40
+  correct:0.40
+  thread:0.40
+  move:0.40
+  lovetrust:0.20
+  copying:0.20
+  youmuch:0.20
+  spend:0.20
+  ag:0.20
+  reviews:0.20
+
+K: 5, Log-Likelihood: -92.200, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  january:8.12
+  thought:5.68
+  order:5.13
+  coins:4.92
+  times:4.77
+  quote:4.71
+  web:4.33
+  mary:3.77
+  bitstamp:3.59
+  localbitcoin:3.59
+
+Topic 1:
+  shrem:17.91
+  bitcoin:14.68
+  silk:10.50
+  road:10.49
+  faiella:9.92
+  bitinstant:8.92
+  btcking:5.92
+  money:5.58
+  bitcoins:4.40
+  security:4.23
+
+Topic 2:
+  money:3.28
+  illegal:3.12
+  bitcoins:2.81
+  vendor:2.75
+  time:2.00
+  btc:1.55
+  laundering:1.55
+  vendors:1.48
+  income:1.47
+  owners:1.46
+
+Topic 3:
+  laundering:5.79
+  federal:4.69
+  safety:3.82
+  people:3.59
+  ross:3.46
+  ulbricht:3.45
+  operate:3.37
+  fog:2.89
+  sha:2.66
+  time:1.99
+
+Topic 4:
+  road:2.77
+  silk:2.58
+  bitcoins:2.47
+  business:2.41
+  arrest:1.58
+  accused:1.58
+  money:1.58
+  illegal:1.57
+  bitcoin:1.43
+  vendor:1.35
+
+K: 5, Log-Likelihood: -5390.461, Alpha: 11.000, Beta: 1.100

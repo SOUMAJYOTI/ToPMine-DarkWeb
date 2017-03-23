@@ -1,0 +1,61 @@
+Topic 0:
+  netflix:1.35
+  kpl:0.62
+  tunnuksia:0.60
+  account:0.59
+  ytt:0.58
+  accounts:0.40
+  ett:0.40
+  henkil:0.20
+  klinikka:0.20
+  easier:0.20
+
+Topic 1:
+  netflix:1.44
+  ytt:0.62
+  account:0.61
+  kpl:0.60
+  tunnuksia:0.59
+  accounts:0.40
+  ett:0.40
+  premium:0.20
+  sill:0.20
+  ehk:0.20
+
+Topic 2:
+  netflix:1.29
+  tunnuksia:0.64
+  ytt:0.61
+  account:0.59
+  kpl:0.59
+  ett:0.40
+  accounts:0.40
+  selling:0.20
+  silkkitie:0.20
+  tuotteellamme:0.20
+
+Topic 3:
+  netflix:1.51
+  tunnuksia:0.59
+  ytt:0.59
+  account:0.59
+  kpl:0.58
+  ett:0.40
+  accounts:0.40
+  kautta:0.20
+  silkkitiell:0.20
+  tuotteellamme:0.20
+
+Topic 4:
+  netflix:1.41
+  account:0.62
+  kpl:0.60
+  ytt:0.60
+  tunnuksia:0.58
+  ett:0.40
+  accounts:0.40
+  haluamme:0.20
+  tunnukset:0.20
+  katsomassa:0.20
+
+K: 5, Log-Likelihood: -255.863, Alpha: 11.000, Beta: 1.100

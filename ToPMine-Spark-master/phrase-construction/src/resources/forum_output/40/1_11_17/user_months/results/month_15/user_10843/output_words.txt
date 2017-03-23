@@ -1,0 +1,61 @@
+Topic 0:
+  attack:7.13
+  customers:6.89
+  dosing:6.71
+  good:6.37
+  process:5.89
+  sr:4.67
+  login:4.48
+  read:4.36
+  dont:3.37
+  escrow:3.29
+
+Topic 1:
+  market:19.59
+  multisig:5.02
+  evo:4.03
+  move:3.94
+  theyve:3.90
+  week:2.85
+  baazar:2.80
+  tor:2.80
+  orders:2.63
+  forums:2.63
+
+Topic 2:
+  agora:5.46
+  markets:3.88
+  ddos:3.81
+  file:3.19
+  access:2.92
+  attacks:2.80
+  market:2.71
+  longer:2.58
+  user:2.00
+  database:1.88
+
+Topic 3:
+  june:17.99
+  quote:12.99
+  people:8.03
+  repeatedly:7.72
+  guru:6.16
+  evilgrin:5.80
+  refresh:5.63
+  stops:5.63
+  clicking:5.63
+  sooner:5.63
+
+Topic 4:
+  agora:11.24
+  order:8.57
+  time:6.42
+  cloud:5.75
+  totally:3.70
+  log:3.63
+  havent:2.91
+  vendors:2.75
+  find:2.67
+  dont:2.39
+
+K: 5, Log-Likelihood: -4307.780, Alpha: 11.000, Beta: 1.100

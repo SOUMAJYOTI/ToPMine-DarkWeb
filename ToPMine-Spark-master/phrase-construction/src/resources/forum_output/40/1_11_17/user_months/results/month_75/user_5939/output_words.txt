@@ -1,0 +1,61 @@
+Topic 0:
+  persistent:2.24
+  saved:1.58
+  electrum:1.39
+  tails:1.38
+  storage:1.28
+  quote:1.19
+  february:1.18
+  helix:1.14
+  feel:1.12
+  folder:1.07
+
+Topic 1:
+  helix:2.32
+  transaction:1.67
+  quote:1.63
+  march:1.39
+  wallets:1.35
+  paysheild:1.27
+  extra:1.25
+  rate:1.23
+  multiply:1.23
+  kill:1.21
+
+Topic 2:
+  lightnlove:3.47
+  dhl:2.80
+  market:1.90
+  clock:1.80
+  marked:1.80
+  order:1.80
+  countdown:1.80
+  private:1.80
+  accepted:1.80
+  quote:1.58
+
+Topic 3:
+  helix:1.81
+  quote:1.15
+  exchange:1.08
+  persistent:1.07
+  feel:1.04
+  march:1.03
+  electrum:0.99
+  wallets:0.96
+  tails:0.95
+  saved:0.89
+
+Topic 4:
+  transaction:2.73
+  helix:2.09
+  march:1.78
+  wallets:1.69
+  small:1.53
+  light:1.53
+  safe:1.51
+  buy:1.46
+  transactions:1.45
+  rate:1.45
+
+K: 5, Log-Likelihood: -1376.702, Alpha: 11.000, Beta: 1.100

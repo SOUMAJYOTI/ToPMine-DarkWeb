@@ -1,0 +1,61 @@
+Topic 0:
+  postage:1.49
+  st:1.49
+  black:0.92
+  penny:0.91
+  print:0.91
+  stamp:0.91
+  printing:0.89
+  counterfeit:0.86
+  thought:0.86
+  easy:0.80
+
+Topic 1:
+  stamps:6.78
+  databases:2.88
+  peoples:2.87
+  post:2.09
+  offices:2.09
+  accounts:1.28
+  gamesome:1.28
+  generally:1.28
+  leave:1.28
+  marketing:1.28
+
+Topic 2:
+  trouble:2.46
+  email:2.40
+  agora:1.29
+  ive:1.17
+  print:1.10
+  read:1.08
+  discuss:1.06
+  buisness:1.05
+  tmg:1.05
+  establishing:1.05
+
+Topic 3:
+  stamps:2.24
+  counterfeit:1.47
+  st:1.10
+  postage:1.08
+  thought:1.00
+  print:0.97
+  printer:0.96
+  printing:0.88
+  peoples:0.82
+  databases:0.80
+
+Topic 4:
+  ive:1.28
+  email:1.24
+  print:1.22
+  trouble:1.19
+  st:1.11
+  agora:1.08
+  printer:0.68
+  labelwriter:0.68
+  rough:0.68
+  security:0.68
+
+K: 5, Log-Likelihood: -1093.329, Alpha: 11.000, Beta: 1.100

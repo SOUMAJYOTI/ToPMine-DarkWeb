@@ -1,0 +1,61 @@
+Topic 0:
+  account:11.89
+  bank:5.78
+  linking:5.56
+  linked:4.55
+  coinbase:3.98
+  dont:3.48
+  current:3.08
+  kind:3.01
+  praises:3.01
+  experience:2.96
+
+Topic 1:
+  coinbase:5.54
+  online:3.62
+  tails:3.46
+  wallets:3.41
+  secure:3.21
+  hive:3.12
+  blockchain:3.06
+  account:2.90
+  bitcoin:2.51
+  linking:2.22
+
+Topic 2:
+  cash:6.13
+  account:5.72
+  good:4.94
+  fake:3.91
+  docs:3.91
+  local:3.91
+  love:3.91
+  trade:3.91
+  perfect:2.87
+  markup:2.84
+
+Topic 3:
+  wallet:9.27
+  info:4.44
+  drive:3.56
+  computer:3.52
+  places:3.51
+  purchase:3.44
+  coins:3.40
+  wallets:3.18
+  easy:3.15
+  tails:3.13
+
+Topic 4:
+  btc:4.60
+  buy:2.75
+  bitcoin:2.19
+  instant:1.80
+  agora:1.80
+  banks:1.80
+  methods:1.80
+  easiest:1.80
+  allowing:1.80
+  quoted:1.80
+
+K: 5, Log-Likelihood: -3016.679, Alpha: 11.000, Beta: 1.100

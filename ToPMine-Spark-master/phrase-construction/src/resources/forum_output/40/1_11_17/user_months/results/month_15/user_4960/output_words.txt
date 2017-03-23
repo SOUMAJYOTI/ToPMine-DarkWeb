@@ -1,0 +1,61 @@
+Topic 0:
+  question:1.06
+  tons:0.86
+  linking:0.83
+  people:0.61
+  read:0.52
+  good:0.51
+  rhett:0.51
+  pmwow:0.51
+  expert:0.50
+  problem:0.50
+
+Topic 1:
+  people:1.74
+  ways:1.03
+  assuming:1.01
+  question:0.70
+  hope:0.52
+  dark:0.52
+  exploitation:0.52
+  doomed:0.52
+  real:0.51
+  sociopaths:0.51
+
+Topic 2:
+  people:3.56
+  assuming:1.54
+  ways:1.44
+  protect:0.63
+  website:0.62
+  protecting:0.62
+  life:0.62
+  shocking:0.62
+  wondering:0.62
+  happened:0.62
+
+Topic 3:
+  people:1.86
+  ways:0.95
+  assuming:0.86
+  question:0.70
+  missed:0.49
+  guess:0.48
+  sociopaths:0.48
+  evil:0.48
+  opinion:0.48
+  harm:0.48
+
+Topic 4:
+  tons:1.44
+  linking:1.43
+  throughly:1.10
+  tips:1.09
+  quote:1.09
+  free:1.09
+  ton:1.09
+  pm:1.09
+  feel:1.09
+  work:1.09
+
+K: 5, Log-Likelihood: -612.766, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  dhl:2.44
+  site:1.90
+  market:1.59
+  names:1.47
+  person:1.36
+  info:1.15
+  hope:1.07
+  hacked:1.04
+  forums:1.01
+  people:0.99
+
+Topic 1:
+  market:7.37
+  dhl:6.30
+  people:4.40
+  hacked:4.40
+  site:4.17
+  wallet:3.72
+  names:3.51
+  public:2.15
+  forums:2.06
+  assume:2.04
+
+Topic 2:
+  markets:6.44
+  hacks:4.39
+  tap:2.08
+  pop:2.07
+  honorably:2.05
+  ip:2.04
+  soup:2.00
+  secure:1.99
+  vj:1.96
+  law:1.96
+
+Topic 3:
+  claiming:4.75
+  person:2.76
+  list:1.39
+  spam:1.39
+  risk:1.38
+  insecurity:1.38
+  attack:1.38
+  donations:1.38
+  kid:1.38
+  messages:1.38
+
+Topic 4:
+  hacks:5.31
+  markets:5.24
+  person:2.16
+  extorts:1.98
+  big:1.96
+  trd:1.90
+  sides:1.89
+  nose:1.85
+  handle:1.81
+  time:1.81
+
+K: 5, Log-Likelihood: -1564.691, Alpha: 11.000, Beta: 1.100

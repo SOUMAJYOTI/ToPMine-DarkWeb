@@ -1,0 +1,61 @@
+Topic 0:
+  great:1.22
+  control:0.66
+  earned:0.40
+  bump:0.40
+  shine:0.40
+  bonobo:0.40
+  moving:0.40
+  mentioned:0.40
+  weekly:0.40
+  data:0.40
+
+Topic 1:
+  super:2.20
+  test:1.52
+  great:0.53
+  reduced:0.51
+  avengers:0.51
+  spare:0.51
+  helpful:0.51
+  left:0.51
+  fake:0.51
+  idk:0.51
+
+Topic 2:
+  raffle:0.85
+  guys:0.82
+  times:0.57
+  mission:0.57
+  send:0.57
+  sending:0.56
+  greedy:0.56
+  saved:0.56
+  work:0.56
+  verify:0.56
+
+Topic 3:
+  guys:0.66
+  raffle:0.64
+  great:0.50
+  test:0.48
+  donations:0.43
+  greedy:0.43
+  amazing:0.43
+  fucking:0.43
+  send:0.42
+  righteous:0.42
+
+Topic 4:
+  guys:0.85
+  raffle:0.82
+  needed:0.59
+  finds:0.59
+  info:0.59
+  verify:0.59
+  sending:0.59
+  fucking:0.59
+  righteous:0.59
+  time:0.59
+
+K: 5, Log-Likelihood: -507.531, Alpha: 11.000, Beta: 1.100

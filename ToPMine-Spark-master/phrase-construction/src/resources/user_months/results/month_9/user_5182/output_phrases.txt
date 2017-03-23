@@ -1,0 +1,61 @@
+Topic 0:
+  santa:1.68
+  vendor:1.66
+  great:1.17
+  place:1.15
+  verified:1.14
+  bowie:1.14
+  congratulate:1.14
+  buy:1.13
+  star:1.13
+  eyes:1.13
+
+Topic 1:
+  washed:1.23
+  saint:0.97
+  mdma:0.93
+  acetone:0.91
+  directly:0.87
+  wash:0.86
+  tested:0.77
+  nice:0.64
+  nic:0.58
+  hey:0.47
+
+Topic 2:
+  washed:3.18
+  tested:1.95
+  directly:1.91
+  wash:1.88
+  mdma:1.82
+  acetone:1.82
+  rocks:0.82
+  landed:0.82
+  order:0.82
+  hands:0.82
+
+Topic 3:
+  saint:1.00
+  nice:0.72
+  nic:0.58
+  washed:0.55
+  tested:0.55
+  acetone:0.54
+  wash:0.52
+  mdma:0.51
+  directly:0.49
+  great:0.35
+
+Topic 4:
+  congrats:1.01
+  santa:0.94
+  saint:0.87
+  place:0.81
+  great:0.78
+  earned:0.69
+  congratulations:0.68
+  title:0.68
+  round:0.68
+  year:0.68
+
+K: 5, Log-Likelihood: -1052.974, Alpha: 11.000, Beta: 1.100

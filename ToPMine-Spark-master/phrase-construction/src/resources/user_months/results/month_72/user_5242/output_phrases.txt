@@ -1,0 +1,61 @@
+Topic 0:
+  including dashes:6.62
+  statements pgp:6.62
+  copied clipboard:6.62
+  pick formatting errors:6.62
+  window pop:5.83
+  create persistent volume:5.53
+  drive:4.89
+  public key clipboard:4.33
+  menu bar window:4.33
+  public key:4.32
+
+Topic 1:
+  issue command:10.39
+  file:9.71
+  secret keys:7.79
+  left:7.79
+  public keys:7.52
+  text:7.21
+  click:5.88
+  copy:5.39
+  cupboard:5.19
+  box:5.19
+
+Topic 2:
+  key:10.29
+  pgp key:8.92
+  passwords keys window:8.75
+  selected left pane window:5.20
+  manage keys gnupg keys:5.20
+  enter passphrase protect secret:4.44
+  configure persistent volume:4.42
+  error key:4.35
+  size:4.35
+  expand:4.35
+
+Topic 3:
+  message:16.81
+  type ctrl:9.40
+  paste encrusted message:8.75
+  check mark:8.75
+  sign encrypt clipboard:5.65
+  text editor:5.54
+  applications accessories gedit:5.46
+  gedit window:5.45
+  messagestart:4.36
+  paste day:4.36
+
+Topic 4:
+  step:5.14
+  good:4.27
+  tails:4.24
+  file desktop:4.02
+  yeah:3.88
+  boot cd:3.82
+  dvd usb booted drive:3.79
+  guide:3.73
+  text:3.71
+  file:3.41
+
+K: 5, Log-Likelihood: -7889.319, Alpha: 11.000, Beta: 1.100

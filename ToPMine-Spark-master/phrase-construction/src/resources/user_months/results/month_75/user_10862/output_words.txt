@@ -1,0 +1,61 @@
+Topic 0:
+  correct:1.18
+  host:0.86
+  mitm:0.85
+  onion:0.81
+  browser:0.78
+  encoded:0.71
+  phishing:0.62
+  user:0.61
+  javascript:0.56
+  signature:0.43
+
+Topic 1:
+  correct:1.22
+  host:1.20
+  encoded:0.95
+  browser:0.93
+  mitm:0.80
+  onion:0.80
+  javascript:0.70
+  user:0.58
+  phishing:0.57
+  window:0.45
+
+Topic 2:
+  correct:1.30
+  host:1.21
+  encoded:0.95
+  browser:0.93
+  mitm:0.80
+  onion:0.79
+  javascript:0.70
+  user:0.56
+  phishing:0.56
+  location:0.45
+
+Topic 3:
+  correct:1.32
+  host:0.95
+  onion:0.82
+  mitm:0.79
+  encoded:0.78
+  browser:0.77
+  user:0.62
+  phishing:0.62
+  javascript:0.57
+  proxy:0.40
+
+Topic 4:
+  correct:0.99
+  onion:0.78
+  host:0.77
+  mitm:0.75
+  signature:0.63
+  phishing:0.63
+  user:0.62
+  encoded:0.61
+  browser:0.59
+  javascript:0.47
+
+K: 5, Log-Likelihood: -463.013, Alpha: 11.000, Beta: 1.100

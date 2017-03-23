@@ -1,0 +1,61 @@
+Topic 0:
+  command:31.40
+  message:25.21
+  text:15.17
+  key:14.68
+  shift:14.67
+  file:14.33
+  textedit:13.69
+  import:13.05
+  pgp:11.27
+  encrypt:10.97
+
+Topic 1:
+  quote:8.44
+  knuckles:7.70
+  january:7.19
+  vendor:6.52
+  recommend:5.52
+  learn:5.43
+  time:4.71
+  bitcoins:4.63
+  pgpmixing:4.63
+  shipping:4.63
+
+Topic 2:
+  pgp:5.63
+  good:3.68
+  mac:3.56
+  pip:3.17
+  key:3.13
+  find:3.10
+  people:2.31
+  guide:2.02
+  quote:1.84
+  spitfire:1.71
+
+Topic 3:
+  reddit:20.55
+  info:16.03
+  january:15.78
+  buy:7.49
+  wrong:7.16
+  forums:7.03
+  bad:5.88
+  amquote:5.88
+  posting:5.80
+  clearnet:5.80
+
+Topic 4:
+  key:11.96
+  command:8.37
+  pgp:7.78
+  textedit:6.04
+  shift:5.10
+  guide:4.66
+  list:3.52
+  file:3.48
+  pip:3.40
+  gpg:3.25
+
+K: 5, Log-Likelihood: -6146.898, Alpha: 11.000, Beta: 1.100

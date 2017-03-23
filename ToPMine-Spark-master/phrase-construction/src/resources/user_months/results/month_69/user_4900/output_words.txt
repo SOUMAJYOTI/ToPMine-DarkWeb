@@ -1,0 +1,61 @@
+Topic 0:
+  tor:1.05
+  open:0.49
+  link:0.43
+  links:0.42
+  clearnet:0.42
+  ve:0.40
+  don:0.37
+  security:0.33
+  people:0.23
+  learned:0.23
+
+Topic 1:
+  tor:0.69
+  security:0.42
+  don:0.41
+  ve:0.40
+  link:0.40
+  clearnet:0.39
+  links:0.39
+  open:0.38
+  abreast:0.21
+  side:0.21
+
+Topic 2:
+  tor:0.78
+  don:0.42
+  links:0.40
+  clearnet:0.40
+  link:0.40
+  ve:0.39
+  security:0.38
+  open:0.38
+  lot:0.21
+  start:0.21
+
+Topic 3:
+  tor:0.65
+  security:0.49
+  ve:0.41
+  don:0.40
+  link:0.37
+  clearnet:0.37
+  links:0.37
+  open:0.34
+  issues:0.23
+  things:0.23
+
+Topic 4:
+  tor:0.83
+  clearnet:0.41
+  links:0.41
+  open:0.41
+  don:0.40
+  link:0.40
+  ve:0.39
+  security:0.37
+  shouldn:0.20
+  compromise:0.20
+
+K: 5, Log-Likelihood: -287.625, Alpha: 11.000, Beta: 1.100

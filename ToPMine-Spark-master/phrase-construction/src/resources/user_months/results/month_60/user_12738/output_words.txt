@@ -1,0 +1,61 @@
+Topic 0:
+  password:1.54
+  user:1.05
+  change:0.60
+  dont:0.60
+  wrong:0.40
+  link:0.40
+  restart:0.40
+  temporary:0.20
+  october:0.20
+  luck:0.20
+
+Topic 1:
+  password:1.69
+  user:1.02
+  change:0.59
+  dont:0.58
+  restart:0.40
+  wrong:0.40
+  link:0.39
+  send:0.20
+  referred:0.20
+  msg:0.20
+
+Topic 2:
+  password:1.52
+  user:1.01
+  change:0.61
+  dont:0.60
+  wrong:0.41
+  link:0.40
+  restart:0.40
+  quote:0.20
+  account:0.20
+  support:0.20
+
+Topic 3:
+  password:1.64
+  user:1.02
+  dont:0.61
+  change:0.59
+  restart:0.40
+  wrong:0.40
+  link:0.39
+  hey:0.20
+  silkkitie:0.20
+  accound:0.20
+
+Topic 4:
+  password:1.61
+  user:0.91
+  change:0.61
+  dont:0.61
+  link:0.41
+  wrong:0.40
+  restart:0.40
+  jep:0.20
+  speek:0.20
+  bitcoins:0.20
+
+K: 5, Log-Likelihood: -143.411, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  thread:7.17
+  sr:5.70
+  link:4.09
+  scam:3.82
+  forum:3.30
+  post:2.85
+  market:2.21
+  scammers:2.11
+  place:2.11
+  people:1.95
+
+Topic 1:
+  sky:3.73
+  keeping:3.51
+  blue:3.30
+  quote:3.09
+  feedback:2.51
+  january:2.28
+  nice:2.15
+  punted:1.76
+  informed:1.76
+  fe:1.76
+
+Topic 2:
+  sr:8.71
+  scam:5.90
+  market:5.41
+  thread:4.38
+  pgp:3.43
+  scammers:3.41
+  banned:3.19
+  signature:3.10
+  pirate:3.02
+  list:2.95
+
+Topic 3:
+  key:5.66
+  ss:3.84
+  supplyshack:3.43
+  list:3.28
+  match:2.93
+  scam:2.79
+  sr:2.66
+  toocoolforschool:1.93
+  handle:1.93
+  scammed:1.93
+
+Topic 4:
+  project:6.74
+  pandora:6.59
+  scammer:5.34
+  order:4.71
+  road:3.74
+  vendor:3.74
+  dont:2.88
+  days:2.73
+  feel:2.49
+  hope:2.23
+
+K: 5, Log-Likelihood: -3572.297, Alpha: 11.000, Beta: 1.100

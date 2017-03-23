@@ -1,0 +1,61 @@
+Topic 0:
+  people:13.69
+  life:8.15
+  doctors:7.77
+  meds:7.62
+  friend:6.82
+  months:6.70
+  psychedelics:6.35
+  dont:6.18
+  depression:4.95
+  work:4.88
+
+Topic 1:
+  people:7.39
+  drugs:7.10
+  doctor:7.01
+  withdrawal:6.93
+  doctors:5.15
+  time:4.51
+  function:3.92
+  symptoms:3.84
+  things:3.63
+  anti:3.61
+
+Topic 2:
+  good:11.76
+  substances:8.90
+  ketamine:8.81
+  negative:5.49
+  work:5.38
+  psychedelics:4.48
+  anti:4.37
+  thought:3.63
+  tapering:3.56
+  start:3.53
+
+Topic 3:
+  agora:31.37
+  march:20.75
+  wallet:19.52
+  coins:17.77
+  agra:13.64
+  day:13.49
+  money:12.98
+  evolution:12.20
+  influx:12.07
+  vendors:11.78
+
+Topic 4:
+  friends:8.93
+  dont:6.71
+  days:6.68
+  time:4.76
+  meds:4.61
+  started:3.83
+  depressants:3.76
+  people:3.70
+  work:3.45
+  brain:3.43
+
+K: 5, Log-Likelihood: -13597.331, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  infiltrate:0.00
+  network branches:0.00
+  agent:0.00
+  united:0.00
+  feel:0.00
+  accross:0.00
+  body:0.00
+  roger:0.00
+  states:0.00
+  network:0.00
+
+Topic 1:
+  infiltrate:0.00
+  network branches:0.00
+  agent:0.00
+  united:0.00
+  feel:0.00
+  accross:0.00
+  body:0.00
+  roger:0.00
+  states:0.00
+  network:0.00
+
+Topic 2:
+  infiltrate:0.00
+  network branches:0.00
+  agent:0.00
+  united:0.00
+  feel:0.00
+  accross:0.00
+  body:0.00
+  roger:0.00
+  states:0.00
+  network:0.00
+
+Topic 3:
+  infiltrate:0.00
+  network branches:0.00
+  agent:0.00
+  united:0.00
+  feel:0.00
+  accross:0.00
+  body:0.00
+  roger:0.00
+  states:0.00
+  network:0.00
+
+Topic 4:
+  infiltrate:0.00
+  network branches:0.00
+  agent:0.00
+  united:0.00
+  feel:0.00
+  accross:0.00
+  body:0.00
+  roger:0.00
+  states:0.00
+  network:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

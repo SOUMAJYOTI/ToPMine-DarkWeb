@@ -1,0 +1,61 @@
+Topic 0:
+  forum:2.81
+  luck:2.26
+  thought:1.43
+  market forum:1.43
+  log:1.43
+  regular:1.43
+  light:1.42
+  usage:1.42
+  inaccessible:1.24
+  ddosed:1.23
+
+Topic 1:
+  forums:5.56
+  running:3.03
+  wrong:2.14
+  bit:2.14
+  friend:2.14
+  avoided:2.14
+  scammed:2.14
+  coin:2.14
+  fair:2.14
+  essential:1.75
+
+Topic 2:
+  agora:3.08
+  markets:2.87
+  working:2.78
+  noticing:2.24
+  pandora:2.24
+  differences:2.24
+  bitcoin:2.24
+  bluesky:2.24
+  fine:2.24
+  mentioning:2.24
+
+Topic 3:
+  day:2.90
+  hub:2.70
+  stay:2.19
+  report:2.19
+  periodically:2.19
+  uptime:2.19
+  travels:2.19
+  yup:2.19
+  late:2.19
+  darknet:2.19
+
+Topic 4:
+  forum market:3.12
+  vendors:2.08
+  customers:2.08
+  fixed:2.08
+  incidents:2.08
+  scare:2.08
+  eventually:2.08
+  time forum:1.78
+  forum:1.74
+  august agra:1.64
+
+K: 5, Log-Likelihood: -1037.314, Alpha: 11.000, Beta: 1.100

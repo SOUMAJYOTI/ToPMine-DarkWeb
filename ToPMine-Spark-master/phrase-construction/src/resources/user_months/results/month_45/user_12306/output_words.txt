@@ -1,0 +1,61 @@
+Topic 0:
+  support:0.59
+  answer:0.41
+  message:0.40
+  didnt:0.20
+  long:0.20
+  momenthow:0.20
+  silkkitie:0.20
+  guys:0.20
+  start:0.20
+  pgp:0.20
+
+Topic 1:
+  support:0.62
+  message:0.40
+  answer:0.39
+  slow:0.20
+  hands:0.20
+  work:0.20
+  wednesday:0.20
+  heard:0.20
+  unread:0.20
+  bit:0.20
+
+Topic 2:
+  support:0.61
+  message:0.40
+  answer:0.39
+  full:0.20
+  hands:0.20
+  unread:0.20
+  bit:0.20
+  work:0.20
+  heard:0.20
+  slow:0.20
+
+Topic 3:
+  support:0.58
+  answer:0.41
+  message:0.40
+  sell:0.20
+  takes:0.20
+  guys:0.20
+  pgp:0.20
+  long:0.20
+  momenthow:0.20
+  start:0.20
+
+Topic 4:
+  support:0.60
+  message:0.40
+  answer:0.39
+  heard:0.20
+  bit:0.20
+  wednesday:0.20
+  full:0.20
+  work:0.20
+  unread:0.20
+  slow:0.20
+
+K: 5, Log-Likelihood: -74.516, Alpha: 11.000, Beta: 1.100

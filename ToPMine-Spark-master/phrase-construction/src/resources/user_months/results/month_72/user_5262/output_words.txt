@@ -1,0 +1,61 @@
+Topic 0:
+  usb:2.06
+  windows:1.71
+  gpg:1.60
+  quote:1.43
+  january:1.28
+  spitfire:1.03
+  people:1.02
+  tails:0.58
+  anycase:0.55
+  portable:0.55
+
+Topic 1:
+  gpg:4.61
+  set:3.12
+  pgp:2.59
+  message:2.18
+  email:2.06
+  site:1.84
+  figure:1.82
+  good:1.79
+  vendors:1.49
+  encryption:1.13
+
+Topic 2:
+  gpg:4.00
+  message:3.50
+  set:2.57
+  email:2.28
+  vendors:2.22
+  good:1.92
+  figure:1.88
+  site:1.87
+  pgp:1.78
+  encryption:1.12
+
+Topic 3:
+  usb:2.09
+  tails:1.87
+  quote:1.75
+  january:1.68
+  windows:1.26
+  version:1.22
+  order:1.20
+  making:1.19
+  pgpwin:1.19
+  traces:1.19
+
+Topic 4:
+  silk:2.82
+  solution:2.62
+  bonobo:2.49
+  road:2.44
+  tails:2.41
+  january:1.98
+  usb:1.89
+  quote:1.80
+  portable:1.19
+  single:1.17
+
+K: 5, Log-Likelihood: -1065.519, Alpha: 11.000, Beta: 1.100

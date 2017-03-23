@@ -1,0 +1,61 @@
+Topic 0:
+  paper:1.07
+  stuff:0.60
+  dont:0.60
+  nz:0.59
+  cool:0.58
+  quote:0.58
+  concentrate:0.41
+  electrical:0.40
+  years:0.40
+  morning:0.40
+
+Topic 1:
+  paper:0.92
+  quote:0.75
+  stuff:0.72
+  cool:0.70
+  dont:0.61
+  concentrate:0.54
+  trolltergeist:0.53
+  nz:0.50
+  supermarket:0.35
+  joke:0.35
+
+Topic 2:
+  paper:0.97
+  nz:0.63
+  dont:0.60
+  cool:0.57
+  stuff:0.54
+  quote:0.53
+  sounds:0.43
+  jump:0.43
+  swing:0.43
+  high:0.43
+
+Topic 3:
+  paper:1.08
+  nz:0.65
+  dont:0.59
+  quote:0.54
+  stuff:0.53
+  cool:0.52
+  links:0.43
+  christchurch:0.43
+  group:0.43
+  ago:0.43
+
+Topic 4:
+  paper:0.96
+  nz:0.63
+  cool:0.63
+  stuff:0.61
+  dont:0.60
+  quote:0.60
+  zealand:0.41
+  vegemite:0.41
+  sounds:0.41
+  high:0.41
+
+K: 5, Log-Likelihood: -363.739, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  trait:2.49
+  jigsaw:2.47
+  puzzle:2.47
+  august:2.47
+  quote:2.41
+  work:1.97
+  admin thing:1.64
+  result:1.64
+  temporary:1.64
+  migration:1.64
+
+Topic 1:
+  time:1.77
+  orders:1.75
+  advice:1.18
+  market office:1.15
+  ai:1.12
+  zx:1.12
+  sb:1.09
+  ox:1.08
+  resources:1.07
+  ic:1.07
+
+Topic 2:
+  time:2.44
+  orders:2.05
+  pgp key:1.46
+  qdsm:1.42
+  resources:1.42
+  zj:1.42
+  solution:1.40
+  public key block:1.39
+  fm:1.39
+  ox:1.37
+
+Topic 3:
+  time:1.45
+  orders:1.24
+  sb:0.94
+  ic:0.94
+  fm:0.94
+  market office:0.93
+  solution:0.92
+  zj:0.92
+  public key block:0.90
+  ox:0.90
+
+Topic 4:
+  retire:3.72
+  gon:2.47
+  idea:2.47
+  lucky:2.47
+  em:2.47
+  lea:2.47
+  agora admins:1.22
+  days:1.22
+  close:1.22
+  wondering:1.22
+
+K: 5, Log-Likelihood: -7469.297, Alpha: 11.000, Beta: 1.100

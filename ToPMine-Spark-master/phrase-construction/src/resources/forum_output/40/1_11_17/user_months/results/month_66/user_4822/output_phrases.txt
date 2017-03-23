@@ -1,0 +1,61 @@
+Topic 0:
+  key:0.69
+  expired:0.44
+  august:0.28
+  quote:0.28
+  started:0.28
+  figured:0.22
+  pgp:0.22
+  messages:0.22
+  encrypt:0.22
+  problem:0.22
+
+Topic 1:
+  key:0.69
+  expired:0.44
+  started:0.28
+  quote:0.28
+  august:0.28
+  pmbecause:0.22
+  place:0.22
+  thread:0.22
+  augustand:0.22
+  running:0.22
+
+Topic 2:
+  key:0.69
+  expired:0.43
+  started:0.28
+  quote:0.28
+  august:0.28
+  main:0.22
+  alternate:0.22
+  people:0.22
+  trouble:0.22
+  jor:0.22
+
+Topic 3:
+  key:0.70
+  expired:0.44
+  august:0.28
+  quote:0.28
+  started:0.28
+  main:0.22
+  jor:0.22
+  issue:0.22
+  people:0.22
+  alternate:0.22
+
+Topic 4:
+  key:0.70
+  expired:0.45
+  quote:0.28
+  august:0.28
+  started:0.28
+  keys:0.22
+  spitfire:0.22
+  pmit:0.22
+  problem:0.22
+  encrypt:0.22
+
+K: 5, Log-Likelihood: -120.808, Alpha: 11.000, Beta: 1.100

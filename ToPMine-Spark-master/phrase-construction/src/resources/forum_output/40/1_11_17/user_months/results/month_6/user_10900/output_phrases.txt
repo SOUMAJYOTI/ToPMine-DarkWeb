@@ -1,0 +1,61 @@
+Topic 0:
+  email:1.80
+  mp:1.00
+  email account:0.71
+  tor:0.59
+  addyso:0.59
+  default:0.59
+  case:0.59
+  sit:0.59
+  meant:0.59
+  happenedbut:0.59
+
+Topic 1:
+  email:0.95
+  mp:0.81
+  baseball:0.53
+  bat:0.53
+  email account:0.46
+  account:0.45
+  details:0.45
+  market:0.43
+  place:0.43
+  signed:0.41
+
+Topic 2:
+  email:0.84
+  mp:0.70
+  bat:0.66
+  baseball:0.66
+  email account:0.51
+  mail:0.44
+  check:0.44
+  memory:0.44
+  wonders:0.44
+  head:0.44
+
+Topic 3:
+  email:0.89
+  mp:0.76
+  password:0.62
+  backup:0.58
+  account:0.52
+  details:0.51
+  market:0.50
+  place:0.50
+  signed:0.43
+  baseball:0.40
+
+Topic 4:
+  backup:1.68
+  password:1.62
+  email:1.02
+  mp:0.78
+  response:0.68
+  message:0.68
+  forgotten:0.68
+  unusual:0.68
+  problem:0.68
+  created:0.68
+
+K: 5, Log-Likelihood: -460.477, Alpha: 11.000, Beta: 1.100

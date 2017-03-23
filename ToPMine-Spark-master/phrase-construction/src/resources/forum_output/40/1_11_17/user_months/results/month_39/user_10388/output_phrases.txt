@@ -1,0 +1,61 @@
+Topic 0:
+  deep:0.00
+  read:0.00
+  oxymonster:0.00
+  notified:0.00
+  deserves:0.00
+  messaged:0.00
+  dn:0.00
+  thread:0.00
+  history:0.00
+  check:0.00
+
+Topic 1:
+  deep:0.00
+  read:0.00
+  oxymonster:0.00
+  notified:0.00
+  deserves:0.00
+  messaged:0.00
+  dn:0.00
+  thread:0.00
+  history:0.00
+  check:0.00
+
+Topic 2:
+  deep:0.00
+  read:0.00
+  oxymonster:0.00
+  notified:0.00
+  deserves:0.00
+  messaged:0.00
+  dn:0.00
+  thread:0.00
+  history:0.00
+  check:0.00
+
+Topic 3:
+  deep:0.00
+  read:0.00
+  oxymonster:0.00
+  notified:0.00
+  deserves:0.00
+  messaged:0.00
+  dn:0.00
+  thread:0.00
+  history:0.00
+  check:0.00
+
+Topic 4:
+  deep:0.00
+  read:0.00
+  oxymonster:0.00
+  notified:0.00
+  deserves:0.00
+  messaged:0.00
+  dn:0.00
+  thread:0.00
+  history:0.00
+  check:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

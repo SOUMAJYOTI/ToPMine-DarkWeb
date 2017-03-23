@@ -1,0 +1,61 @@
+Topic 0:
+  foot switch:8.27
+  switch:8.08
+  lock screen:7.10
+  computer power:7.10
+  dont:6.79
+  door:6.10
+  set:5.88
+  le:5.63
+  windows:5.32
+  power:5.27
+
+Topic 1:
+  claws:4.93
+  configure:4.93
+  client:4.93
+  error:4.92
+  tor openvpn:4.92
+  worked:4.92
+  offer:4.91
+  pi:4.11
+  facebook:4.11
+  middlebox:4.11
+
+Topic 2:
+  secure:8.21
+  service:4.95
+  pray:4.95
+  state:4.95
+  stuffs:4.95
+  facebookwhich:4.95
+  socks:4.95
+  browser:4.95
+  dynamic:4.95
+  tor:4.95
+
+Topic 3:
+  earthquake:8.80
+  seconds:6.19
+  july:5.69
+  lights strobe crazy door:5.29
+  lou reed dangerous volumes:5.29
+  high powered:5.29
+  override:4.94
+  quote:4.86
+  sensor data:4.11
+  connection:4.11
+
+Topic 4:
+  packets:7.44
+  script:6.21
+  gyroscope:4.96
+  machine:4.96
+  phone moved:4.96
+  accelerometer:4.96
+  bust:4.96
+  port:4.96
+  disk encryption:4.96
+  phone:4.96
+
+K: 5, Log-Likelihood: -11754.628, Alpha: 11.000, Beta: 1.100

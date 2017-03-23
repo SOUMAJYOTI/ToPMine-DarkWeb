@@ -1,0 +1,61 @@
+Topic 0:
+  hidden:4.43
+  real:4.04
+  clearnet:3.68
+  services:3.16
+  ssh:2.91
+  likes:2.39
+  ip:2.30
+  opinions:2.25
+  management:2.00
+  hosting:1.93
+
+Topic 1:
+  vps:22.35
+  traffic:15.18
+  tor:14.97
+  box:10.53
+  provider:9.54
+  hypervisor:8.73
+  server:7.65
+  hidden:5.54
+  instance:5.53
+  service:5.28
+
+Topic 2:
+  tor:12.66
+  torvm:11.75
+  service:7.91
+  management:7.51
+  traffic:6.74
+  hidden:6.29
+  interface:6.03
+  servervm:5.06
+  services:4.97
+  virtual:4.92
+
+Topic 3:
+  vpn:17.52
+  february:11.30
+  service:10.86
+  hidden:9.84
+  quote:7.54
+  host:6.85
+  solution:6.75
+  access:6.47
+  safe:6.28
+  communication:5.81
+
+Topic 4:
+  hosting:11.97
+  provider:6.07
+  private:3.89
+  isolation:3.44
+  people:3.37
+  deanonymized:2.95
+  fairly:2.46
+  servers:2.31
+  vps:2.20
+  environment:2.06
+
+K: 5, Log-Likelihood: -6531.587, Alpha: 11.000, Beta: 1.100

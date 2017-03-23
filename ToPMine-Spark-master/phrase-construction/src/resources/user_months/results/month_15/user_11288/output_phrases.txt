@@ -1,0 +1,61 @@
+Topic 0:
+  email:0.08
+  advertisments:0.08
+  spam:0.08
+  verified:0.08
+  link:0.08
+  profile:0.08
+  listings:0.08
+  direct:0.08
+  people:0.08
+  marketplace:0.08
+
+Topic 1:
+  allowed:0.08
+  direct:0.08
+  listings:0.08
+  marketplace:0.08
+  verified:0.08
+  advertisments:0.08
+  spam:0.08
+  gmail:0.08
+  people:0.08
+  link:0.08
+
+Topic 2:
+  listings:0.08
+  allowed:0.08
+  profile:0.08
+  verified:0.08
+  spam:0.08
+  people:0.08
+  gmail:0.08
+  marketplace:0.08
+  direct:0.08
+  link:0.08
+
+Topic 3:
+  advertising:0.08
+  services:0.08
+  vendor:0.08
+  verify:0.08
+  forum:0.08
+  status:0.08
+  products:0.08
+  marketplace:0.08
+  advertisments:0.08
+  gmail:0.08
+
+Topic 4:
+  products:0.08
+  forum:0.08
+  vendor:0.08
+  verify:0.08
+  advertising:0.08
+  status:0.08
+  services:0.08
+  link:0.08
+  people:0.08
+  gmail:0.08
+
+K: 5, Log-Likelihood: -22.683, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  explain:0.00
+  prepare:0.00
+  software:0.00
+  called:0.00
+  told:0.00
+  safer:0.00
+  mom:0.00
+  cure:0.00
+  program:0.00
+  bit:0.00
+
+Topic 1:
+  explain:0.00
+  prepare:0.00
+  software:0.00
+  called:0.00
+  told:0.00
+  safer:0.00
+  mom:0.00
+  cure:0.00
+  program:0.00
+  bit:0.00
+
+Topic 2:
+  explain:0.00
+  prepare:0.00
+  software:0.00
+  called:0.00
+  told:0.00
+  safer:0.00
+  mom:0.00
+  cure:0.00
+  program:0.00
+  bit:0.00
+
+Topic 3:
+  explain:0.00
+  prepare:0.00
+  software:0.00
+  called:0.00
+  told:0.00
+  safer:0.00
+  mom:0.00
+  cure:0.00
+  program:0.00
+  bit:0.00
+
+Topic 4:
+  explain:0.00
+  prepare:0.00
+  software:0.00
+  called:0.00
+  told:0.00
+  safer:0.00
+  mom:0.00
+  cure:0.00
+  program:0.00
+  bit:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

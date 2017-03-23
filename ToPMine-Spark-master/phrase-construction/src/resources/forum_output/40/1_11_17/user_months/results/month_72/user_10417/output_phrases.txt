@@ -1,0 +1,61 @@
+Topic 0:
+  admin:3.85
+  therealdeal:3.85
+  december:3.85
+  today:3.85
+  search:3.85
+  evo:3.85
+  main:3.85
+  broken:3.85
+  system:3.85
+  market:3.12
+
+Topic 1:
+  trust:3.85
+  hard:3.85
+  payments:3.85
+  wallet:3.85
+  escrow:3.85
+  coded:3.85
+  hansa:3.85
+  functionality:3.18
+  stick:2.82
+  till:2.82
+
+Topic 2:
+  aflao:3.81
+  purple exit scam:3.43
+  admin activity hours:3.42
+  title:2.96
+  quote agito:2.85
+  pmupdated:2.85
+  january:1.90
+  acts:1.87
+  acas:1.87
+  atm:1.87
+
+Topic 3:
+  cut:3.88
+  cut coke:3.79
+  sell:3.77
+  pitty didnt selling:2.38
+  admin joined:2.26
+  scams phished accounts lack:2.26
+  banned account deleted messages:2.22
+  phishing attempt reported scam:2.22
+  admin dont care:2.17
+  sell confine issue:2.11
+
+Topic 4:
+  fatherted january pmquote:3.34
+  message inbox admin:3.15
+  threads account:3.12
+  admit administrator active wishing:3.10
+  joined majority threads:3.00
+  pmabm problems days site:2.87
+  cokecut january:2.84
+  sell:2.32
+  cut coke:2.23
+  cut:2.21
+
+K: 5, Log-Likelihood: -2717.161, Alpha: 11.000, Beta: 1.100

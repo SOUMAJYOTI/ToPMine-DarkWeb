@@ -1,0 +1,61 @@
+Topic 0:
+  st:1.83
+  print:0.90
+  today:0.81
+  cheers:0.75
+  agora:0.70
+  ive:0.62
+  printer:0.58
+  printing:0.46
+  postage:0.46
+  stamps:0.46
+
+Topic 1:
+  st:1.43
+  stamps:0.89
+  print:0.86
+  peoples:0.70
+  printer:0.64
+  databases:0.64
+  today:0.56
+  cheers:0.56
+  printing:0.54
+  postage:0.54
+
+Topic 2:
+  stamps:1.72
+  st:0.99
+  peoples:0.95
+  print:0.84
+  databases:0.81
+  printer:0.73
+  post:0.70
+  offices:0.69
+  printing:0.52
+  postage:0.51
+
+Topic 3:
+  email:3.35
+  trouble:3.33
+  agora:1.52
+  fantasticcheers:1.45
+  walk:1.45
+  lelantos:1.45
+  slacking:1.45
+  discuss:1.44
+  labelwriter:1.44
+  tails:1.44
+
+Topic 4:
+  stamps:4.87
+  databases:2.15
+  peoples:1.92
+  post:1.44
+  offices:1.43
+  setting:0.87
+  market:0.87
+  generally:0.86
+  leaving:0.86
+  thatd:0.86
+
+K: 5, Log-Likelihood: -803.169, Alpha: 11.000, Beta: 1.100

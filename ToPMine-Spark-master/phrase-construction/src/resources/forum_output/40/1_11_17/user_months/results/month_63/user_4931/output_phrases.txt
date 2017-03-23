@@ -1,0 +1,61 @@
+Topic 0:
+  revolt:5.44
+  shit:4.19
+  thisi:4.19
+  matters:4.19
+  picture:4.19
+  founding:4.19
+  participate:4.19
+  dicks:4.19
+  amendment:4.19
+  justice:4.19
+
+Topic 1:
+  allot people:8.45
+  ship:6.07
+  free open source software:5.43
+  flash chip directly:5.43
+  firmware require disassembly wiring:5.43
+  machine replace bios:5.43
+  free software:5.43
+  reward trouble atop runs:5.43
+  malware:5.02
+  quote:4.84
+
+Topic 2:
+  bios:6.51
+  avoid bios problems:5.19
+  dban removing hd alltogether:5.19
+  scaring wabbit:4.79
+  evil:4.21
+  criminal:4.21
+  evidence:4.21
+  halloween:4.21
+  analysis:4.21
+  find:4.21
+
+Topic 3:
+  transparency:8.44
+  suppose:8.44
+  system management mode:6.38
+  operating:4.20
+  adversely:4.20
+  choices:4.20
+  site:4.20
+  built:4.20
+  custom:4.20
+  affect:4.20
+
+Topic 4:
+  system:6.02
+  tor works trust:4.38
+  booting:4.20
+  sounds:4.20
+  avoid bits:4.20
+  person:4.20
+  nsa break:4.20
+  bios source:4.20
+  bother:4.20
+  massive:4.20
+
+K: 5, Log-Likelihood: -10094.131, Alpha: 11.000, Beta: 1.100

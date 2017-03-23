@@ -1,0 +1,61 @@
+Topic 0:
+  tom:0.80
+  safe:0.41
+  market:0.40
+  ago:0.40
+  find:0.39
+  links:0.39
+  advantages:0.38
+  agora:0.38
+  marketplace:0.38
+  load:0.21
+
+Topic 1:
+  tom:0.77
+  agora:0.41
+  advantages:0.41
+  find:0.41
+  marketplace:0.41
+  links:0.40
+  ago:0.40
+  market:0.40
+  safe:0.40
+  received:0.20
+
+Topic 2:
+  tom:0.82
+  links:0.41
+  advantages:0.41
+  marketplace:0.41
+  find:0.40
+  agora:0.40
+  market:0.40
+  ago:0.40
+  safe:0.40
+  opened:0.20
+
+Topic 3:
+  tom:0.82
+  marketplace:0.42
+  links:0.42
+  agora:0.42
+  find:0.42
+  advantages:0.41
+  ago:0.40
+  market:0.40
+  safe:0.39
+  post:0.20
+
+Topic 4:
+  tom:0.79
+  ago:0.40
+  safe:0.40
+  market:0.40
+  advantages:0.39
+  find:0.39
+  agora:0.39
+  links:0.38
+  marketplace:0.38
+  bootstrap:0.21
+
+K: 5, Log-Likelihood: -214.091, Alpha: 11.000, Beta: 1.100

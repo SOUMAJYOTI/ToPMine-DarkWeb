@@ -1,0 +1,61 @@
+Topic 0:
+  site:1.88
+  joke:1.65
+  state sponsored dnm:1.32
+  good:1.31
+  dont real:1.28
+  government:1.28
+  condone:1.26
+  north korea:1.24
+  check:1.23
+  rhino horns:0.78
+
+Topic 1:
+  figured:3.14
+  reddit:1.53
+  meetup:1.53
+  angle:1.53
+  absurd:1.53
+  jokes:1.53
+  st:1.53
+  spawned:1.53
+  fell:1.53
+  swam:1.53
+
+Topic 2:
+  joke:4.40
+  site:3.39
+  government:2.25
+  dont real:2.25
+  condone:2.20
+  state sponsored dnm:2.14
+  good:2.11
+  check:1.87
+  north korea:1.22
+  russians:0.95
+
+Topic 3:
+  joke:2.27
+  site:1.84
+  check:1.60
+  good:1.28
+  condone:1.25
+  state sponsored dnm:1.24
+  dont real:1.18
+  government:1.17
+  north korea:1.04
+  rhino horns:0.80
+
+Topic 4:
+  market:3.78
+  market admin:3.16
+  hosted:2.23
+  death:1.55
+  note:1.55
+  weapons:1.55
+  pol:1.55
+  place:1.55
+  khmer:1.55
+  rich:1.55
+
+K: 5, Log-Likelihood: -2492.390, Alpha: 11.000, Beta: 1.100

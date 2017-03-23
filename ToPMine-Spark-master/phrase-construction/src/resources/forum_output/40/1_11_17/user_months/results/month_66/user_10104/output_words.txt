@@ -1,0 +1,61 @@
+Topic 0:
+  cm:0.56
+  thread:0.42
+  contact:0.42
+  cult:0.42
+  dont:0.40
+  time:0.37
+  premium:0.37
+  touch:0.37
+  forward:0.37
+  link:0.21
+
+Topic 1:
+  cm:0.56
+  thread:0.45
+  contact:0.44
+  cult:0.42
+  dont:0.39
+  touch:0.36
+  premium:0.36
+  time:0.36
+  forward:0.35
+  info:0.22
+
+Topic 2:
+  cm:0.70
+  premium:0.51
+  time:0.51
+  forward:0.51
+  touch:0.51
+  dont:0.41
+  cult:0.32
+  contact:0.31
+  thread:0.30
+  services:0.23
+
+Topic 3:
+  cm:0.53
+  thread:0.48
+  cult:0.47
+  contact:0.47
+  dont:0.39
+  time:0.32
+  touch:0.32
+  premium:0.32
+  forward:0.32
+  link:0.23
+
+Topic 4:
+  cm:0.65
+  forward:0.45
+  touch:0.44
+  premium:0.44
+  time:0.44
+  dont:0.40
+  cult:0.37
+  contact:0.36
+  thread:0.35
+  replies:0.21
+
+K: 5, Log-Likelihood: -357.886, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  peer:0.73
+  sr:0.61
+  market:0.61
+  high:0.41
+  outdoor:0.41
+  network:0.40
+  vending:0.40
+  started:0.40
+  connect:0.40
+  buyers:0.40
+
+Topic 1:
+  peer:0.78
+  sr:0.66
+  market:0.59
+  vending:0.42
+  high:0.40
+  outdoor:0.40
+  kaliforniaproducts:0.40
+  network:0.39
+  buyers:0.39
+  familiar:0.39
+
+Topic 2:
+  peer:0.81
+  market:0.61
+  sr:0.58
+  kind:0.40
+  started:0.40
+  familiar:0.40
+  buyers:0.40
+  kaliforniaproducts:0.40
+  network:0.40
+  connect:0.40
+
+Topic 3:
+  peer:0.88
+  market:0.59
+  sr:0.57
+  buyers:0.41
+  started:0.41
+  network:0.41
+  kind:0.40
+  connect:0.40
+  familiar:0.40
+  kaliforniaproducts:0.40
+
+Topic 4:
+  peer:0.80
+  market:0.61
+  sr:0.57
+  outdoor:0.41
+  connect:0.40
+  kind:0.40
+  high:0.40
+  familiar:0.40
+  kaliforniaproducts:0.40
+  started:0.40
+
+K: 5, Log-Likelihood: -314.958, Alpha: 11.000, Beta: 1.100

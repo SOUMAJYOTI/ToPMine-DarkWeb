@@ -1,0 +1,61 @@
+Topic 0:
+  deposit:3.88
+  change:2.50
+  spare:2.50
+  withdrawal:2.50
+  ill:1.14
+  havent:1.14
+  fun:1.14
+  sending:1.14
+  data:1.14
+  worked:1.14
+
+Topic 1:
+  market:1.02
+  nucleus:0.52
+  list:0.52
+  free:0.49
+  wait:0.49
+  forums:0.47
+  marketplace:0.47
+  site:0.47
+  case:0.46
+  izq:0.46
+
+Topic 2:
+  market:0.89
+  eve:0.60
+  feature:0.59
+  vendors list:0.59
+  menu:0.59
+  dropdown:0.59
+  item:0.59
+  forum:0.59
+  free:0.57
+  nucleus:0.53
+
+Topic 3:
+  ability:2.46
+  good:2.46
+  vendors:2.46
+  posing:1.11
+  items:1.11
+  interactions:1.11
+  promote:1.11
+  honestcocaine:1.11
+  stated:1.11
+  established:1.10
+
+Topic 4:
+  cool:0.83
+  putting:0.83
+  hoping:0.83
+  markets:0.83
+  patient:0.83
+  intrusted:0.83
+  dams:0.83
+  bit:0.83
+  hc:0.83
+  listings:0.83
+
+K: 5, Log-Likelihood: -603.158, Alpha: 11.000, Beta: 1.100

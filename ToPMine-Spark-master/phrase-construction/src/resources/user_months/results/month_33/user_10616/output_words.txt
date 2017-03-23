@@ -1,0 +1,61 @@
+Topic 0:
+  coins:1.56
+  mixing:1.04
+  wallets:0.60
+  ccc:0.41
+  admin:0.41
+  service:0.40
+  bitcoin:0.40
+  receive:0.40
+  transfer:0.40
+  url:0.20
+
+Topic 1:
+  coins:1.58
+  mixing:0.98
+  wallets:0.59
+  admin:0.41
+  ccc:0.41
+  bitcoin:0.41
+  receive:0.40
+  transfer:0.40
+  service:0.40
+  contacted:0.20
+
+Topic 2:
+  coins:1.76
+  mixing:0.97
+  wallets:0.60
+  receive:0.40
+  bitcoin:0.40
+  ccc:0.40
+  admin:0.40
+  service:0.40
+  transfer:0.40
+  xhydra:0.20
+
+Topic 3:
+  coins:1.84
+  mixing:1.01
+  wallets:0.60
+  bitcoin:0.40
+  transfer:0.40
+  receive:0.40
+  service:0.39
+  ccc:0.39
+  admin:0.39
+  short:0.20
+
+Topic 4:
+  coins:1.25
+  mixing:1.00
+  wallets:0.60
+  transfer:0.40
+  service:0.40
+  admin:0.40
+  receive:0.40
+  ccc:0.40
+  bitcoin:0.40
+  bought:0.22
+
+K: 5, Log-Likelihood: -210.659, Alpha: 11.000, Beta: 1.100

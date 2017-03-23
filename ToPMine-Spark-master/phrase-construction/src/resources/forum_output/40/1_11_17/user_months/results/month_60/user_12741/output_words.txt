@@ -1,0 +1,61 @@
+Topic 0:
+  arvonnassa:1.00
+  jos:0.90
+  st:0.72
+  olet:0.69
+  mukana:0.68
+  koineja:0.67
+  nain:0.66
+  palkintoja:0.48
+  vahvaa:0.48
+  arvotaan:0.47
+
+Topic 1:
+  finmarket:1.35
+  halvat:1.00
+  silkkitiell:1.00
+  silkkitie:1.00
+  katsomassa:0.94
+  tulossa:0.94
+  yk:0.94
+  profiilini:0.39
+  tavaraa:0.39
+  hinnat:0.39
+
+Topic 2:
+  arvonnassa:0.86
+  jos:0.83
+  nain:0.66
+  koineja:0.64
+  st:0.60
+  olet:0.59
+  mukana:0.59
+  finmarket:0.48
+  hyvi:0.43
+  ja:0.42
+
+Topic 3:
+  jos:1.05
+  arvonnassa:0.98
+  olet:0.83
+  mukana:0.80
+  st:0.77
+  nain:0.71
+  koineja:0.70
+  vahvaa:0.51
+  eritt:0.50
+  palkintoja:0.50
+
+Topic 4:
+  arvonnassa:1.02
+  jos:0.96
+  mukana:0.81
+  st:0.79
+  olet:0.76
+  koineja:0.70
+  nain:0.69
+  viesti:0.51
+  arvotaan:0.51
+  palkintoja:0.51
+
+K: 5, Log-Likelihood: -501.095, Alpha: 11.000, Beta: 1.100

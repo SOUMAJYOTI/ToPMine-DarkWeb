@@ -1,0 +1,61 @@
+Topic 0:
+  coin:0.16
+  checked:0.08
+  listings:0.08
+  info:0.08
+  bb:0.08
+  plan:0.08
+  curious:0.08
+  didnt:0.08
+  multi:0.08
+  supping:0.08
+
+Topic 1:
+  coin:0.16
+  crap:0.08
+  amazing:0.08
+  vendors:0.08
+  bank:0.08
+  black:0.08
+  market:0.08
+  pandora:0.08
+  market market:0.08
+  order:0.08
+
+Topic 2:
+  coin:0.16
+  today:0.08
+  advance:0.08
+  subs:0.08
+  things:0.08
+  idea:0.08
+  curious:0.08
+  plan:0.08
+  supping:0.08
+  meaning:0.08
+
+Topic 3:
+  coin:0.16
+  signed:0.08
+  ready:0.08
+  youll:0.08
+  multi:0.08
+  advance:0.08
+  listings:0.08
+  didnt:0.08
+  things:0.08
+  read:0.08
+
+Topic 4:
+  coin:0.16
+  bank:0.08
+  pandora:0.08
+  vendors:0.08
+  black:0.08
+  market:0.08
+  market market:0.08
+  crap:0.08
+  amazing:0.08
+  profile:0.08
+
+K: 5, Log-Likelihood: -52.230, Alpha: 11.000, Beta: 1.100

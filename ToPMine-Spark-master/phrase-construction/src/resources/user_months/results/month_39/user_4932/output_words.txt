@@ -1,0 +1,61 @@
+Topic 0:
+  effects:2.65
+  lsd:1.50
+  youve:1.47
+  hits:1.31
+  lol:1.31
+  mixed:1.29
+  acid:1.27
+  dont:1.10
+  tabs:1.08
+  headspace:1.00
+
+Topic 1:
+  ergotamine:5.73
+  difference:3.89
+  acid:2.34
+  led:2.33
+  grow:1.86
+  ergot:1.86
+  lysergic:1.76
+  complicated:1.76
+  produced:1.76
+  worldwide:1.76
+
+Topic 2:
+  tabs:4.01
+  making:2.90
+  feel:2.52
+  acid:1.89
+  hearing:1.84
+  great:1.71
+  xtals:1.43
+  sounds:1.37
+  fulfilling:1.37
+  triangular:1.36
+
+Topic 3:
+  lad:4.79
+  al:4.77
+  hours:3.10
+  felt:2.59
+  time:2.42
+  trip:1.93
+  february:1.74
+  quote:1.73
+  faster:1.63
+  shorter:1.63
+
+Topic 4:
+  lsd:6.34
+  ago:3.01
+  dont:2.95
+  years:2.91
+  time:2.59
+  experiencing:1.91
+  alive:1.91
+  tree:1.91
+  todays:1.91
+  blotter:1.91
+
+K: 5, Log-Likelihood: -1957.437, Alpha: 11.000, Beta: 1.100

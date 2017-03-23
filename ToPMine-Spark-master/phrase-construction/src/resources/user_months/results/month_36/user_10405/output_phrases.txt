@@ -1,0 +1,61 @@
+Topic 0:
+  news:7.31
+  steady:4.87
+  move:4.87
+  simply:4.87
+  large:4.87
+  cycle:4.87
+  wikileaks:4.87
+  stories:4.87
+  greenwald:4.87
+  company:4.87
+
+Topic 1:
+  cookies effective mass distribution:5.17
+  hidden services publicly distribute:5.14
+  isn public:5.14
+  wrong aware isnt concern:5.14
+  lower potential traffic analysis:5.14
+  el presidente:4.88
+  great small:4.01
+  scout:4.01
+  cookies:4.01
+  february pmquote:4.01
+
+Topic 2:
+  dont:8.08
+  oft:7.31
+  onion:7.29
+  onions:7.29
+  sldk february:6.47
+  account:6.03
+  coffin february pmquote:5.96
+  meant otr record messaging:5.96
+  amchat map oft torwhat:5.83
+  linux windows pidgin:5.15
+
+Topic 3:
+  saving:8.08
+  good:7.81
+  pgp:6.82
+  record keeping:6.06
+  things:6.06
+  tor:5.88
+  person:4.86
+  encryption:4.86
+  thought:4.86
+  kleopatra:4.86
+
+Topic 4:
+  torchat:12.19
+  hidden service:7.31
+  file:7.31
+  thing:5.95
+  transfer:4.86
+  computer:4.86
+  ram:4.86
+  comment:4.86
+  attacks:4.65
+  protocol:4.03
+
+K: 5, Log-Likelihood: -8466.708, Alpha: 11.000, Beta: 1.100

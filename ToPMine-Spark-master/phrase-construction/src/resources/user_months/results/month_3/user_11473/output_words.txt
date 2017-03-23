@@ -1,0 +1,61 @@
+Topic 0:
+  market:10.38
+  main:7.90
+  vendors:6.05
+  agora:5.11
+  forums:4.79
+  point:4.14
+  referrals:3.90
+  couple:3.90
+  forum:2.62
+  big:2.62
+
+Topic 1:
+  escrow:4.41
+  quote:3.91
+  february:3.89
+  tor:2.16
+  bazaar:2.08
+  fees:2.01
+  good:1.96
+  forum:1.90
+  gamesome:1.60
+  awesome:1.60
+
+Topic 2:
+  escrow:4.39
+  ages:3.17
+  days:3.13
+  quote:2.83
+  february:2.55
+  sr:2.45
+  bug:2.30
+  bazaar:1.61
+  testers:1.56
+  tor:1.53
+
+Topic 3:
+  sr:9.03
+  trust:3.19
+  today:2.91
+  smaller:2.91
+  bad:2.49
+  secure:2.48
+  time:2.12
+  spamming:1.93
+  agra:1.93
+  evolution:1.89
+
+Topic 4:
+  sr:6.85
+  markets:5.88
+  escrow:4.73
+  interests:3.45
+  crow:2.88
+  february:2.86
+  quote:2.66
+  wallets:2.61
+  push:2.61
+  signature:2.61
+
+K: 5, Log-Likelihood: -3500.883, Alpha: 11.000, Beta: 1.100

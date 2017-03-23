@@ -1,0 +1,61 @@
+Topic 0:
+  government:0.62
+  branches:0.60
+  network:0.59
+  tor:0.59
+  people:0.40
+  connection:0.20
+  system:0.20
+  gov:0.20
+  states:0.20
+  direction:0.20
+
+Topic 1:
+  branches:0.62
+  network:0.61
+  government:0.60
+  tor:0.60
+  people:0.40
+  feel:0.20
+  actively:0.20
+  cia:0.20
+  helps:0.20
+  simply:0.20
+
+Topic 2:
+  tor:0.62
+  government:0.58
+  network:0.58
+  branches:0.58
+  people:0.41
+  direction:0.20
+  activities:0.20
+  agent:0.20
+  hate:0.20
+  time:0.20
+
+Topic 3:
+  branches:0.63
+  network:0.60
+  government:0.60
+  tor:0.59
+  people:0.40
+  sheds:0.20
+  hide:0.20
+  including:0.20
+  accross:0.20
+  noise:0.20
+
+Topic 4:
+  network:0.61
+  tor:0.60
+  government:0.60
+  branches:0.58
+  people:0.40
+  roger:0.20
+  body:0.20
+  anonymity:0.20
+  activities:0.20
+  gov:0.20
+
+K: 5, Log-Likelihood: -192.581, Alpha: 11.000, Beta: 1.100

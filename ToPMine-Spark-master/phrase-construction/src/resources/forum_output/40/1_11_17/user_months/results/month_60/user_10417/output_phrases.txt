@@ -1,0 +1,61 @@
+Topic 0:
+  drugs:18.05
+  uk:13.98
+  criminals:10.09
+  cannabis:7.93
+  organised crime:7.69
+  unit:7.67
+  major:7.53
+  cocaine:7.37
+  cases:7.35
+  cutting agents:6.87
+
+Topic 1:
+  scam admin activity hours:6.56
+  announced maintenancepurple exit:6.54
+  account:6.31
+  exit:5.21
+  bare forums green:5.14
+  color system determine status:5.14
+  running fully functionalyellow dysfunctional:5.13
+  clone agora status:5.10
+  article relates topic title:5.08
+  unloading:4.95
+
+Topic 2:
+  forum:16.60
+  site:8.27
+  alphabay:6.23
+  url:5.64
+  market explanation color system:5.35
+  lack:4.95
+  handle:4.95
+  isnt:4.95
+  issues:4.95
+  quote:4.92
+
+Topic 3:
+  drugs:3.84
+  uk:2.64
+  unit:2.05
+  online:1.33
+  cutting agents:1.32
+  updated:1.22
+  substances:1.21
+  major:1.20
+  enforcement:1.16
+  distribution:1.16
+
+Topic 4:
+  uk:3.25
+  drugs:2.95
+  unit:2.70
+  enforcement:2.30
+  cutting agents:1.75
+  netherlands:1.65
+  time:1.56
+  increase:1.54
+  cocaine:1.44
+  distribution:1.43
+
+K: 5, Log-Likelihood: -14868.849, Alpha: 11.000, Beta: 1.100

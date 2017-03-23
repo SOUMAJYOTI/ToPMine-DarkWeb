@@ -1,0 +1,61 @@
+Topic 0:
+  real time chat:6.61
+  site:6.13
+  log:6.13
+  skills takes dumb word:4.59
+  hackerjon:3.86
+  stay:3.05
+  http:3.05
+  instance:3.05
+  missing:3.05
+  doxing:3.05
+
+Topic 1:
+  knowledge:3.88
+  don:3.88
+  surname:3.88
+  access:3.88
+  privacy:3.88
+  bothered:3.88
+  agree:3.88
+  completely:3.88
+  care:3.88
+  time:2.44
+
+Topic 2:
+  create:6.10
+  chatroom:6.10
+  chat anonymously:6.10
+  web based:4.56
+  share:4.56
+  create chat room:4.02
+  exploit:3.83
+  vulnerable:3.83
+  decrypting:3.82
+  trust:3.82
+
+Topic 3:
+  version:9.21
+  gpg usb:7.38
+  snug:6.13
+  werner:5.81
+  quote brahman july:5.13
+  latest:4.59
+  reccommend:4.59
+  gnupg:4.58
+  program:4.57
+  replace:3.87
+
+Topic 4:
+  scripts:3.86
+  visited:3.86
+  key:3.36
+  question:3.02
+  answer:3.02
+  tails reccommend:3.02
+  gnupg ill:3.02
+  concerns:3.02
+  preference:3.02
+  reassuring reccommend:3.02
+
+K: 5, Log-Likelihood: -7917.118, Alpha: 11.000, Beta: 1.100

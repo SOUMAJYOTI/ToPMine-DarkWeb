@@ -1,0 +1,61 @@
+Topic 0:
+  deposit:1.02
+  happen:0.44
+  admin:0.44
+  hacked:0.37
+  night:0.37
+  shortly:0.23
+  history:0.23
+  mustve:0.23
+  suspect:0.23
+  deleted:0.23
+
+Topic 1:
+  deposit:1.67
+  night:0.41
+  hacked:0.41
+  admin:0.38
+  happen:0.38
+  incompetence:0.20
+  purchase:0.20
+  morning:0.20
+  log:0.20
+  account:0.20
+
+Topic 2:
+  deposit:1.10
+  happen:0.42
+  admin:0.42
+  night:0.39
+  hacked:0.39
+  noticed:0.22
+  transaction:0.22
+  suspect:0.22
+  shortly:0.22
+  deleted:0.22
+
+Topic 3:
+  deposit:1.62
+  hacked:0.41
+  night:0.41
+  admin:0.38
+  happen:0.38
+  long:0.20
+  attack:0.20
+  mtgox:0.20
+  making:0.20
+  checked:0.20
+
+Topic 4:
+  deposit:1.60
+  night:0.42
+  hacked:0.42
+  admin:0.38
+  happen:0.38
+  wednesday:0.20
+  sr:0.20
+  wtf:0.20
+  short:0.20
+  checked:0.20
+
+K: 5, Log-Likelihood: -231.948, Alpha: 11.000, Beta: 1.100

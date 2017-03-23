@@ -1,0 +1,61 @@
+Topic 0:
+  paid:4.66
+  btc:3.48
+  cash:3.42
+  amount:2.85
+  scammed:2.85
+  trade:2.80
+  local:2.41
+  bitcoins:2.40
+  ends:2.39
+  luckily:2.38
+
+Topic 1:
+  updating:3.49
+  alternative:2.86
+  nyms:2.52
+  good:2.45
+  login:2.41
+  wait:2.40
+  front:2.39
+  quantities:2.39
+  bad:2.37
+  address:2.37
+
+Topic 2:
+  day:2.17
+  love:1.84
+  paid:1.69
+  good:1.60
+  small:1.54
+  lot:1.22
+  cash:1.18
+  btc:1.13
+  paypal:0.88
+  trade:0.87
+
+Topic 3:
+  alternative:5.92
+  good:4.83
+  june:4.65
+  valley:2.90
+  bowl:2.88
+  quote:2.88
+  popping:2.88
+  fruits:2.86
+  forming:2.86
+  bud:2.86
+
+Topic 4:
+  updating:1.77
+  agora:1.35
+  day:1.34
+  coin:1.12
+  follow:1.11
+  rules:1.11
+  good:1.10
+  escrow:1.10
+  lbc:1.10
+  paypal:1.01
+
+K: 5, Log-Likelihood: -2645.733, Alpha: 11.000, Beta: 1.100

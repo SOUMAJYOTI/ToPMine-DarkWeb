@@ -1,0 +1,61 @@
+Topic 0:
+  november:14.38
+  private:14.22
+  key:11.77
+  coinb:10.16
+  decrypt:9.82
+  aes:9.80
+  fatherted:9.29
+  correlation:7.79
+  crypt:6.88
+  password:6.81
+
+Topic 1:
+  mail:9.63
+  sigaint:8.22
+  email:7.63
+  tor:7.38
+  folder:7.30
+  find:6.93
+  script:6.46
+  blocking:5.99
+  org:5.66
+  thx:5.28
+
+Topic 2:
+  aethon:23.88
+  october:23.85
+  worry:21.89
+  pmquote:18.93
+  service:15.63
+  pops:13.69
+  assume:10.34
+  cheers:9.90
+  theresident:9.38
+  sigaint:9.31
+
+Topic 3:
+  electrum:9.94
+  wallet:8.83
+  quote:8.65
+  download:6.66
+  client:5.96
+  coins:5.93
+  hey:4.92
+  good:4.75
+  jigsaw:4.71
+  remember:3.98
+
+Topic 4:
+  browser:10.67
+  screen:9.96
+  tor:9.50
+  top:8.95
+  settings:8.66
+  security:7.77
+  tails:7.48
+  time:7.46
+  script:7.20
+  start:6.78
+
+K: 5, Log-Likelihood: -9117.331, Alpha: 11.000, Beta: 1.100

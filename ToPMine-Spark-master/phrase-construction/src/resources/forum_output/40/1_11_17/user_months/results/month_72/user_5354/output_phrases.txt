@@ -1,0 +1,61 @@
+Topic 0:
+  super:4.73
+  test:2.48
+  great:1.76
+  left:1.52
+  ill:1.52
+  spare:1.52
+  partnership:1.52
+  didnt:1.52
+  idk:1.52
+  winner:1.52
+
+Topic 1:
+  awareness:3.05
+  tests:3.05
+  safety:1.47
+  pelican:1.47
+  awl:1.47
+  winners:1.47
+  tickets raffle:1.47
+  tickets:1.47
+  tested:1.47
+  drug:1.47
+
+Topic 2:
+  lock:3.12
+  wallet:3.12
+  bond:3.12
+  ticket market:3.12
+  couple tickets:2.02
+  ill buy:2.01
+  money bond:2.01
+  deposited:2.01
+  hadnt:2.01
+  worthy:2.01
+
+Topic 3:
+  raffle:1.11
+  control:1.10
+  guys:1.08
+  money:0.90
+  bought:0.80
+  fully:0.80
+  reimbursed:0.80
+  energy:0.80
+  close:0.78
+  dnma:0.69
+
+Topic 4:
+  time:1.92
+  verify:1.91
+  amazing:1.91
+  righteous:1.91
+  sending:1.91
+  saved:1.91
+  times:1.91
+  work:1.91
+  finds:1.90
+  send:1.90
+
+K: 5, Log-Likelihood: -1316.741, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.59
+  forums:0.40
+  hub:0.40
+  vendors:0.40
+  ddos:0.40
+  pay:0.20
+  start:0.20
+  ross:0.20
+  putting:0.20
+  legacy:0.20
+
+Topic 1:
+  sr:0.61
+  vendors:0.40
+  ddos:0.40
+  forums:0.40
+  hub:0.40
+  risk:0.20
+  named:0.20
+  mods:0.20
+  cunts:0.20
+  forum:0.20
+
+Topic 2:
+  sr:0.61
+  forums:0.40
+  vendors:0.40
+  ddos:0.40
+  hub:0.40
+  dont:0.20
+  named:0.20
+  pissing:0.20
+  august:0.20
+  clusterfuck:0.20
+
+Topic 3:
+  sr:0.58
+  hub:0.40
+  ddos:0.40
+  vendors:0.40
+  forums:0.40
+  reddit:0.20
+  buyers:0.20
+  dont:0.20
+  warning:0.20
+  accounts:0.20
+
+Topic 4:
+  sr:0.62
+  ddos:0.40
+  hub:0.40
+  forums:0.40
+  vendors:0.40
+  drugz:0.20
+  revoke:0.20
+  dumb:0.20
+  forum:0.20
+  cunts:0.20
+
+K: 5, Log-Likelihood: -167.444, Alpha: 11.000, Beta: 1.100

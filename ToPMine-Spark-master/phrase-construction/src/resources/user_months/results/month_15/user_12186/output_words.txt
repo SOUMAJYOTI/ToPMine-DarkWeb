@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:1.65
+  onion:0.99
+  localhost:0.73
+  socks:0.72
+  tails:0.70
+  ckl:0.67
+  gypcu:0.66
+  obj:0.65
+  tor:0.46
+  terminal:0.43
+
+Topic 1:
+  onion:1.83
+  electrum:1.61
+  ckl:0.93
+  obj:0.93
+  gypcu:0.91
+  tails:0.89
+  work:0.85
+  problem:0.84
+  socks:0.75
+  localhost:0.72
+
+Topic 2:
+  config:5.91
+  file:3.30
+  read:2.42
+  electrum:1.58
+  persistent:1.01
+  simple:0.99
+  lib:0.99
+  amnesia:0.99
+  user:0.98
+  ioerror:0.98
+
+Topic 3:
+  electrum:1.93
+  onion:1.51
+  gypcu:0.81
+  obj:0.80
+  ckl:0.78
+  tails:0.78
+  localhost:0.74
+  socks:0.71
+  problem:0.59
+  work:0.58
+
+Topic 4:
+  electrum:2.23
+  config:1.26
+  file:1.00
+  read:0.90
+  socks:0.53
+  localhost:0.52
+  tor:0.51
+  clearnet:0.51
+  py:0.50
+  user:0.49
+
+K: 5, Log-Likelihood: -446.157, Alpha: 11.000, Beta: 1.100

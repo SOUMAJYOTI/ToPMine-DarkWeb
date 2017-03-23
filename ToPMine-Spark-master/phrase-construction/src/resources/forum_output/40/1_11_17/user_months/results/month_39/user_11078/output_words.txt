@@ -1,0 +1,61 @@
+Topic 0:
+  drawing:0.62
+  ticket:0.59
+  provably:0.40
+  fair:0.40
+  tickets:0.40
+  numbers:0.40
+  additionally:0.40
+  odds:0.20
+  impossible:0.20
+  daily:0.20
+
+Topic 1:
+  ticket:0.61
+  drawing:0.61
+  additionally:0.40
+  tickets:0.40
+  numbers:0.40
+  fair:0.40
+  provably:0.40
+  selling:0.20
+  scam:0.20
+  address:0.20
+
+Topic 2:
+  ticket:0.61
+  drawing:0.58
+  provably:0.40
+  fair:0.40
+  numbers:0.40
+  tickets:0.40
+  additionally:0.40
+  knowing:0.20
+  forgot:0.20
+  discount:0.20
+
+Topic 3:
+  drawing:0.61
+  ticket:0.58
+  numbers:0.40
+  fair:0.40
+  additionally:0.40
+  tickets:0.40
+  provably:0.40
+  lose:0.20
+  established:0.20
+  bitmia:0.20
+
+Topic 4:
+  ticket:0.61
+  drawing:0.58
+  provably:0.40
+  additionally:0.40
+  tickets:0.40
+  fair:0.40
+  numbers:0.40
+  addresses:0.20
+  accounts:0.20
+  guessing:0.20
+
+K: 5, Log-Likelihood: -430.508, Alpha: 11.000, Beta: 1.100

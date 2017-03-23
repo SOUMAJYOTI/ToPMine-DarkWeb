@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:10.59
+  device:3.74
+  tails:2.98
+  addresses:2.75
+  seed:2.75
+  btc:2.75
+  existing:2.75
+  card:1.76
+  restore:1.76
+  idea:1.76
+
+Topic 1:
+  electrum:2.97
+  wallet:2.32
+  tails:1.64
+  create:1.04
+  save:0.77
+  persistence:0.74
+  store:0.67
+  version:0.66
+  disk:0.52
+  secret:0.48
+
+Topic 2:
+  electrum:1.66
+  wallet:1.59
+  tails:1.33
+  create:0.74
+  persistence:0.67
+  save:0.65
+  topic:0.57
+  hub:0.57
+  link:0.57
+  interested:0.57
+
+Topic 3:
+  electrum:3.58
+  tails:2.34
+  wallet:1.68
+  create:1.10
+  persistence:0.71
+  save:0.70
+  version:0.69
+  store:0.65
+  disk:0.49
+  folder:0.48
+
+Topic 4:
+  folder:4.97
+  electrum:4.24
+  disk:3.86
+  secret:2.91
+  terminal:2.07
+  app:1.98
+  wallet:1.82
+  tails:1.71
+  create:1.31
+  ll:1.24
+
+K: 5, Log-Likelihood: -1165.345, Alpha: 11.000, Beta: 1.100

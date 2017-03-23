@@ -1,0 +1,441 @@
+Topic 0:
+  money:149.77
+  marketplace:91.40
+  czech:84.86
+  police:84.86
+  ikovsk:77.78
+  house:70.71
+  sheep:70.71
+  vendor:66.24
+  bank:49.50
+  officers:49.50
+  note:45.51
+  dirty:42.42
+  bitcoins:42.26
+  real:39.03
+  granddad:35.35
+  crowns:35.35
+  email:35.21
+  havana:0.03
+  market:0.03
+  hidden services:0.02
+
+Topic 1:
+  qubes:20.59
+  data:19.63
+  opal:19.63
+  hidden services:0.03
+  signed message:0.03
+  middle earth:0.02
+  download:0.02
+  silk road:0.02
+  default:0.02
+  system:0.02
+  hidden service:0.02
+  vendor:0.01
+  boot:0.01
+  forums:0.01
+  pine:0.01
+  marek:0.01
+  debian:0.01
+  abraxas:0.01
+  market:0.01
+  thing:0.01
+
+Topic 2:
+  middle earth:66.08
+  firmware:35.29
+  forums:35.16
+  intel:27.54
+  donations:27.52
+  chipset:19.65
+  address:19.63
+  drive:19.61
+  hidden services:0.03
+  signed message:0.03
+  download:0.02
+  silk road:0.02
+  default:0.02
+  system:0.02
+  hidden service:0.02
+  vendor:0.01
+  boot:0.01
+  pine:0.01
+  marek:0.01
+  debian:0.01
+
+Topic 3:
+  boot:51.77
+  system:40.02
+  multiple:39.39
+  trail:35.25
+  mixing:27.57
+  deposit:19.68
+  coins:17.55
+  transaction:17.50
+  addresses:17.23
+  host:0.04
+  hidden services:0.03
+  signed message:0.02
+  middle earth:0.02
+  download:0.02
+  silk road:0.02
+  default:0.02
+  hidden service:0.02
+  clock:0.01
+  vendor:0.01
+  forums:0.01
+
+Topic 4:
+  onion:70.94
+  proxy:60.18
+  addresses:35.78
+  wallet:35.37
+  darkcoin:35.17
+  socks:31.52
+  port:28.29
+  default:27.82
+  externalip:19.70
+  listen:19.70
+  darkcoind:19.70
+  pine:19.51
+  hidden service:11.19
+  hidden services:0.03
+  signed message:0.02
+  silk road:0.02
+  middle earth:0.02
+  download:0.02
+  system:0.01
+  vendor:0.01
+
+Topic 5:
+  clock:71.37
+  host:23.53
+  sigaint:19.62
+  malware:19.57
+  pmquote:19.53
+  thing:19.53
+  hidden service:15.66
+  system:1.78
+  hidden services:0.04
+  silk road:0.03
+  signed message:0.03
+  middle earth:0.02
+  download:0.02
+  default:0.02
+  vendor:0.01
+  boot:0.01
+  forums:0.01
+  pine:0.01
+  marek:0.01
+  debian:0.01
+
+Topic 6:
+  havana:58.29
+  alpaca:38.81
+  abraxas:38.71
+  problem:35.18
+  font:27.55
+  bots:23.61
+  amnesty:19.67
+  human:19.67
+  entropy:12.63
+  vendor:0.07
+  market:0.03
+  hidden services:0.03
+  signed message:0.02
+  middle earth:0.02
+  download:0.02
+  silk road:0.02
+  default:0.02
+  system:0.02
+  hidden service:0.02
+  boot:0.01
+
+Topic 7:
+  tails:67.49
+  network:58.33
+  bridges:55.17
+  shadow:51.19
+  silk road:35.95
+  click:31.52
+  connecting:23.63
+  obfs:20.97
+  enter:19.69
+  marketplace:9.25
+  hidden service:0.10
+  hidden services:0.06
+  signed message:0.02
+  middle earth:0.02
+  download:0.02
+  default:0.02
+  system:0.02
+  vendor:0.01
+  boot:0.01
+  forums:0.01
+
+Topic 8:
+  hidden services:0.03
+  signed message:0.03
+  middle earth:0.02
+  download:0.02
+  silk road:0.02
+  default:0.02
+  system:0.02
+  hidden service:0.02
+  vendor:0.01
+  boot:0.01
+  forums:0.01
+  pine:0.01
+  marek:0.01
+  debian:0.01
+  abraxas:0.01
+  thing:0.01
+  pmquote:0.01
+  market:0.01
+  escrow:0.01
+  free create:0.01
+
+Topic 9:
+  currency:23.51
+  default:9.68
+  hidden services:0.03
+  signed message:0.03
+  middle earth:0.02
+  download:0.02
+  silk road:0.02
+  system:0.02
+  hidden service:0.02
+  vendor:0.01
+  boot:0.01
+  forums:0.01
+  pine:0.01
+  marek:0.01
+  debian:0.01
+  abraxas:0.01
+  thing:0.01
+  pmquote:0.01
+  market:0.01
+  escrow:0.01
+
+Topic 10:
+  isolation:81.41
+  virtual:51.23
+  bios:47.28
+  advantages:39.41
+  physical:39.41
+  membership:35.46
+  concealment:35.46
+  kovah:35.46
+  implant:35.46
+  encryption:35.41
+  tested:31.52
+  solution:27.43
+  tails:26.87
+  kallenberg:23.63
+  code:22.63
+  qubes:21.69
+  system:21.47
+  full:19.70
+  access:19.69
+  disk:18.34
+
+Topic 11:
+  passphrase:183.83
+  word:141.38
+  anonymity:134.01
+  diceware:109.42
+  bitcoin:94.59
+  darkcoin:81.51
+  passphrases:78.83
+  level:70.94
+  number:55.72
+  mixer:55.18
+  entropy:52.06
+  list:49.50
+  provision:47.29
+  secure:47.29
+  random:44.71
+  memorize:39.41
+  guess:39.41
+  network:39.09
+  money:38.62
+  funds:35.47
+
+Topic 12:
+  signed message:22.39
+  china:19.54
+  ding:19.54
+  hidden services:0.03
+  middle earth:0.02
+  download:0.02
+  silk road:0.02
+  default:0.02
+  system:0.02
+  hidden service:0.02
+  vendor:0.01
+  boot:0.01
+  forums:0.01
+  pine:0.01
+  marek:0.01
+  debian:0.01
+  abraxas:0.01
+  market:0.01
+  thing:0.01
+  pmquote:0.01
+
+Topic 13:
+  market:87.91
+  crypto:39.37
+  electrum:39.37
+  signature:23.80
+  brute:23.54
+  vendors:20.98
+  select:19.66
+  force:19.59
+  seconds:19.59
+  years:19.59
+  marek:19.52
+  diceware:0.17
+  vendor:0.06
+  word:0.04
+  havana:0.04
+  passphrase:0.03
+  hidden services:0.03
+  signed message:0.02
+  middle earth:0.02
+  download:0.02
+
+Topic 14:
+  update:91.89
+  browser:90.86
+  random:59.12
+  disable:55.18
+  circuit:55.18
+  windows:47.29
+  security:45.68
+  obfs:42.66
+  default:40.88
+  havege:39.39
+  number:35.21
+  entropy:32.62
+  isolation:31.73
+  menu:31.53
+  series:31.53
+  jondonym:31.49
+  party:28.30
+  window:27.59
+  slider:27.59
+  linux:27.59
+
+Topic 15:
+  hidden services:37.77
+  absolem:23.51
+  traffic:19.59
+  kiss:19.54
+  hidden service:0.06
+  silk road:0.04
+  signed message:0.03
+  middle earth:0.02
+  download:0.02
+  default:0.02
+  system:0.02
+  vendor:0.01
+  boot:0.01
+  forums:0.01
+  pine:0.01
+  marek:0.01
+  debian:0.01
+  abraxas:0.01
+  market:0.01
+  thing:0.01
+
+Topic 16:
+  machine:27.52
+  agora:23.51
+  disk:20.48
+  doctors:19.54
+  hidden services:0.03
+  signed message:0.03
+  middle earth:0.02
+  download:0.02
+  silk road:0.02
+  default:0.02
+  system:0.02
+  hidden service:0.02
+  vendor:0.01
+  boot:0.01
+  forums:0.01
+  pine:0.01
+  marek:0.01
+  debian:0.01
+  abraxas:0.01
+  market:0.01
+
+Topic 17:
+  company:43.33
+  india:39.39
+  east:35.45
+  merchants:19.68
+  escrow:19.54
+  hidden services:0.03
+  signed message:0.03
+  middle earth:0.02
+  download:0.02
+  silk road:0.02
+  default:0.02
+  system:0.02
+  hidden service:0.02
+  vendor:0.01
+  boot:0.01
+  forums:0.01
+  pine:0.01
+  marek:0.01
+  debian:0.01
+  abraxas:0.01
+
+Topic 18:
+  gnupg:374.82
+  message:116.93
+  version:109.59
+  release:100.51
+  keys:98.97
+  public:84.44
+  forum:77.86
+  encrypted:70.70
+  free create:60.33
+  myoldfriend:56.56
+  signature:50.41
+  friend:49.48
+  send:49.48
+  venue:49.48
+  signing:47.29
+  command:43.35
+  account:42.41
+  fingerprint:39.41
+  verify:39.41
+  file:39.41
+
+Topic 19:
+  site:51.58
+  legit:35.28
+  luks:19.54
+  cryptsetup:19.54
+  hidden services:0.03
+  signed message:0.03
+  middle earth:0.02
+  download:0.02
+  silk road:0.02
+  default:0.02
+  system:0.02
+  hidden service:0.02
+  vendor:0.01
+  boot:0.01
+  forums:0.01
+  pine:0.01
+  marek:0.01
+  debian:0.01
+  abraxas:0.01
+  market:0.01
+
+K: 20, Log-Likelihood: -48937.943, Alpha: 3.000, Beta: 1.100

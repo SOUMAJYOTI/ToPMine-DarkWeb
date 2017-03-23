@@ -1,0 +1,61 @@
+Topic 0:
+  scam:9.16
+  december:4.77
+  quote:3.81
+  activity:3.80
+  purple:3.28
+  site:3.09
+  exit:3.06
+  pics:2.93
+  hours:2.90
+  written:1.92
+
+Topic 1:
+  admin:20.45
+  january:12.49
+  dont:11.60
+  account:10.43
+  cut:9.91
+  threads:9.87
+  joined:9.87
+  coke:7.91
+  pmquote:7.01
+  sell:6.92
+
+Topic 2:
+  support:7.66
+  scam:5.22
+  exit:4.46
+  december:3.84
+  hours:3.73
+  ddos:2.90
+  evidence:2.71
+  hard:2.70
+  quote:2.66
+  reply:2.62
+
+Topic 3:
+  forum:12.24
+  site:11.41
+  market:8.40
+  nucleus:5.20
+  pops:3.72
+  working:3.52
+  quote:3.47
+  vendor:3.40
+  lack:3.23
+  time:3.17
+
+Topic 4:
+  market:11.89
+  tutorial:7.30
+  evolution:7.10
+  quote:6.97
+  evo:5.84
+  system:5.40
+  admin:5.01
+  code:4.93
+  main:4.75
+  broken:3.93
+
+K: 5, Log-Likelihood: -6940.522, Alpha: 11.000, Beta: 1.100

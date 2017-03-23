@@ -1,0 +1,61 @@
+Topic 0:
+  hacker:4.83
+  orders:3.96
+  database:3.83
+  files:2.83
+  set:2.83
+  pool:2.83
+  site:2.07
+  access:1.84
+  replaced:1.84
+  farmer:1.84
+
+Topic 1:
+  onion:1.72
+  poll:1.50
+  market:1.40
+  worth:1.26
+  months:0.85
+  deleted:0.83
+  shop:0.83
+  post:0.83
+  issues:0.83
+  care:0.83
+
+Topic 2:
+  site:2.02
+  months:0.94
+  dont:0.76
+  vendors:0.70
+  security:0.67
+  pay:0.65
+  attention:0.65
+  address:0.59
+  time:0.56
+  os:0.52
+
+Topic 3:
+  hours:4.30
+  changed:2.04
+  reopened:1.76
+  site:1.48
+  server:1.43
+  vendors:1.22
+  security:1.06
+  shut:1.02
+  noticed:0.89
+  release:0.89
+
+Topic 4:
+  onionshop:5.73
+  btc:5.31
+  check:3.89
+  os:3.76
+  server:2.70
+  time:1.23
+  site:1.11
+  address:1.02
+  order:0.97
+  thx:0.97
+
+K: 5, Log-Likelihood: -1862.122, Alpha: 11.000, Beta: 1.100

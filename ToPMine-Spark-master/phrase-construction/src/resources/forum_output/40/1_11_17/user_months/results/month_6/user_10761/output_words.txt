@@ -1,0 +1,61 @@
+Topic 0:
+  file:34.13
+  ccrypt:26.87
+  keyserver:22.84
+  files:19.91
+  symmetry:15.93
+  encryption:14.83
+  txt:14.09
+  gpg:12.94
+  encrypt:12.83
+  original:12.71
+
+Topic 1:
+  btc:268.97
+  ltc:100.99
+  cny:53.97
+  doge:32.99
+  xpm:13.99
+  eur:13.90
+  xrp:8.99
+  coin:6.18
+  pairings:5.99
+  ppc:5.99
+
+Topic 2:
+  key:70.11
+  gpg:62.69
+  keys:46.79
+  myname:25.96
+  public:24.43
+  file:24.16
+  recipient:20.88
+  encrypted:20.26
+  output:19.92
+  encryption:17.75
+
+Topic 3:
+  price:12.76
+  namecoin:8.82
+  domain:7.82
+  system:6.22
+  post:5.76
+  day:5.75
+  pdf:5.70
+  notice:4.95
+  easy:4.52
+  bit:4.36
+
+Topic 4:
+  windows:26.28
+  files:20.53
+  memory:17.18
+  machine:13.36
+  playground:12.61
+  quote:9.09
+  nice:8.83
+  day:8.15
+  siblings:7.75
+  linux:7.13
+
+K: 5, Log-Likelihood: -28875.234, Alpha: 11.000, Beta: 1.100

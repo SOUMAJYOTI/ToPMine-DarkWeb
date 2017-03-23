@@ -1,0 +1,70 @@
+explain,0,1
+onion,1,2
+scarf,2,1
+tmg username,3,2
+simple,4,1
+bandboxes,5,1
+explanation,6,1
+good,7,2
+tmg,8,4
+number,9,1
+accessing,10,2
+password,11,4
+quote,12,1
+attacks,13,1
+passwords,14,2
+legit,15,1
+consequences,16,1
+pastebin,17,1
+injecting,18,1
+pmfake,19,1
+logs,20,1
+info,21,1
+registrations,22,1
+mitm,23,1
+havent,24,1
+understand,25,1
+active,26,2
+real,27,1
+check,28,1
+sensitive,29,1
+list,30,3
+monitoring,31,1
+easy,32,1
+username password,33,4
+users,34,1
+proxy,35,6
+cloned,36,1
+knowing,37,1
+guess,38,1
+tmg list,39,1
+compromised,40,1
+admins,41,1
+server,42,1
+code,43,1
+investigate,44,1
+password username,45,2
+collecting,46,1
+transparent,47,1
+september,48,1
+proxy tmg,49,1
+tor,50,1
+pgp,51,1
+address proxy,52,1
+onions,53,2
+address,54,3
+scroat,55,1
+change,56,1
+great,57,1
+people,58,1
+produce,59,1
+list proxy,60,1
+site,61,2
+environment,62,1
+conduct,63,1
+fake,64,2
+accounts,65,1
+user,66,1
+board,67,1
+story,68,1
+username,69,4

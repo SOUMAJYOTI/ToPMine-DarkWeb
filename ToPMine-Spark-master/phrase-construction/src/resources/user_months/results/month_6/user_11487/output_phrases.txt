@@ -1,0 +1,36 @@
+Topic 0:
+  agora:0.08
+  bmr:0.08
+  profile:0.00
+  enki:0.00
+  email:0.00
+
+Topic 1:
+  bmr:0.08
+  agora:0.08
+  profile:0.00
+  enki:0.00
+  email:0.00
+
+Topic 2:
+  agora:0.08
+  bmr:0.08
+  profile:0.00
+  enki:0.00
+  email:0.00
+
+Topic 3:
+  bmr:0.08
+  agora:0.08
+  profile:0.00
+  enki:0.00
+  email:0.00
+
+Topic 4:
+  agora:0.08
+  bmr:0.08
+  profile:0.00
+  enki:0.00
+  email:0.00
+
+K: 5, Log-Likelihood: -1.051, Alpha: 11.000, Beta: 1.100

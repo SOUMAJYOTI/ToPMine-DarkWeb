@@ -1,0 +1,61 @@
+Topic 0:
+  started:2.73
+  sweat:2.73
+  share:2.73
+  hanging:2.73
+  tor:2.73
+  fair:2.73
+  address:2.73
+  dark:2.73
+  ip:2.73
+  years:2.73
+
+Topic 1:
+  worried:5.47
+  nbome sold:2.55
+  speak:2.55
+  wondering:2.55
+  tested:2.55
+  legitimacy:2.55
+  tests:2.55
+  truth:2.55
+  telling:2.55
+  big:1.90
+
+Topic 2:
+  people:3.42
+  bad:2.63
+  trip:2.63
+  drug:2.63
+  reactions:2.63
+  numerous:2.63
+  physical:2.62
+  studied:2.62
+  horrible:2.62
+  deaths:2.62
+
+Topic 3:
+  dont:4.72
+  people:2.81
+  bring:2.65
+  reagent:2.65
+  shit:2.65
+  test nbomes:2.65
+  business:2.65
+  reports:2.65
+  check:2.65
+  worth:2.65
+
+Topic 4:
+  send:3.65
+  common:1.78
+  abidan:1.78
+  message normal:1.78
+  experience:1.78
+  message message:1.78
+  login:1.78
+  hey:1.78
+  tails:1.78
+  message:1.78
+
+K: 5, Log-Likelihood: -1244.065, Alpha: 11.000, Beta: 1.100

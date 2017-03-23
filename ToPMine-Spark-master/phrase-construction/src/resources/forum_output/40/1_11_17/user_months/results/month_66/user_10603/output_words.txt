@@ -1,0 +1,61 @@
+Topic 0:
+  security:2.14
+  connect:1.77
+  cards:1.69
+  card:1.68
+  airtime:1.65
+  good:1.64
+  cell:1.35
+  dont:1.35
+  things:1.30
+  os:1.29
+
+Topic 1:
+  port:3.21
+  firewire:2.63
+  info:2.38
+  direct:2.17
+  things:2.14
+  curious:1.96
+  type:1.93
+  laptop:1.73
+  ram:1.73
+  android:1.66
+
+Topic 2:
+  helix:3.77
+  error:2.87
+  firewire:2.84
+  js:2.73
+  security:2.47
+  light:1.87
+  address:1.76
+  enable:1.65
+  tor:1.51
+  info:1.44
+
+Topic 3:
+  hotspot:10.69
+  device:8.18
+  dongle:6.79
+  machine:6.73
+  turn:6.64
+  operations:6.51
+  buy:4.40
+  wifi:4.40
+  phone:4.15
+  dont:4.15
+
+Topic 4:
+  tails:6.06
+  hot:5.34
+  access:4.14
+  spots:3.41
+  spot:2.72
+  idea:2.55
+  easy:2.50
+  security:2.16
+  root:1.93
+  blacklisting:1.93
+
+K: 5, Log-Likelihood: -4512.009, Alpha: 11.000, Beta: 1.100

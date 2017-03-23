@@ -1,0 +1,61 @@
+Topic 0:
+  logo:2.40
+  graphic:1.06
+  agora:0.91
+  forum:0.88
+  quote:0.70
+  documents:0.67
+  sucks:0.66
+  good:0.65
+  snowdon:0.65
+  tor:0.65
+
+Topic 1:
+  graphic:2.07
+  logo:1.91
+  agora:1.44
+  market:1.42
+  waste:0.97
+  good:0.97
+  snowdon:0.97
+  tor:0.95
+  slides:0.94
+  nsa:0.92
+
+Topic 2:
+  logo:2.37
+  graphic:1.99
+  agora:1.39
+  sucks:1.01
+  nsa:1.01
+  documents:0.99
+  tor:0.96
+  slides:0.94
+  waste:0.93
+  good:0.92
+
+Topic 3:
+  logo:2.56
+  graphic:1.34
+  agora:1.06
+  forum:1.00
+  quote:0.82
+  good:0.71
+  slides:0.71
+  documents:0.70
+  tor:0.70
+  snowdon:0.70
+
+Topic 4:
+  logo:2.76
+  graphic:1.55
+  agora:1.20
+  quote:0.79
+  snowdon:0.79
+  waste:0.78
+  nsa:0.77
+  slides:0.76
+  forum:0.74
+  good:0.74
+
+K: 5, Log-Likelihood: -1013.198, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  luck:2.58
+  yeah:1.73
+  ship:1.73
+  checked:1.72
+  tails:1.54
+  told:0.96
+  long:0.88
+  lucy:0.86
+  quote:0.86
+  times:0.86
+
+Topic 1:
+  tails:2.22
+  adviser:2.17
+  tor:1.97
+  security:1.70
+  update:1.56
+  advisory:1.54
+  mozilla:1.12
+  browser:0.94
+  design:0.77
+  march:0.72
+
+Topic 2:
+  tails:1.50
+  update:1.21
+  yup:0.51
+  rebel:0.47
+  sue:0.47
+  updating:0.47
+  march:0.38
+  justice:0.38
+  bothers:0.38
+  fags:0.38
+
+Topic 3:
+  ransomware:6.91
+  mac:6.67
+  users:5.11
+  attack:4.92
+  macs:3.92
+  malware:3.92
+  researchers:3.92
+  apple:2.92
+  app:2.92
+  computer:2.92
+
+Topic 4:
+  security:28.69
+  adviser:12.69
+  foundation:12.15
+  mozilla:11.75
+  design:10.10
+  advisory:7.32
+  tor:6.40
+  bug:6.30
+  browser:5.12
+  tails:3.72
+
+K: 5, Log-Likelihood: -2472.621, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  trust:0.00
+  implicit:0.00
+  making:0.00
+  wallet:0.00
+  activity:0.00
+  concept:0.00
+  marketplaces:0.00
+  dead:0.00
+  competition:0.00
+  list:0.00
+
+Topic 1:
+  trust:0.00
+  implicit:0.00
+  making:0.00
+  wallet:0.00
+  activity:0.00
+  concept:0.00
+  marketplaces:0.00
+  dead:0.00
+  competition:0.00
+  list:0.00
+
+Topic 2:
+  trust:0.00
+  implicit:0.00
+  making:0.00
+  wallet:0.00
+  activity:0.00
+  concept:0.00
+  marketplaces:0.00
+  dead:0.00
+  competition:0.00
+  list:0.00
+
+Topic 3:
+  trust:0.00
+  implicit:0.00
+  making:0.00
+  wallet:0.00
+  activity:0.00
+  concept:0.00
+  marketplaces:0.00
+  dead:0.00
+  competition:0.00
+  list:0.00
+
+Topic 4:
+  trust:0.00
+  implicit:0.00
+  making:0.00
+  wallet:0.00
+  activity:0.00
+  concept:0.00
+  marketplaces:0.00
+  dead:0.00
+  competition:0.00
+  list:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

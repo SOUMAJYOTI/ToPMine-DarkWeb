@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.46
+  markets:0.45
+  codecode:0.41
+  select:0.41
+  moderators:0.22
+  official:0.22
+  links:0.22
+  stickied:0.22
+  bay:0.20
+  referrals:0.20
+
+Topic 1:
+  market:1.68
+  markets:0.41
+  select:0.40
+  codecode:0.40
+  stickied:0.21
+  official:0.21
+  links:0.21
+  moderators:0.21
+  india:0.20
+  acropolis:0.20
+
+Topic 2:
+  market:1.91
+  codecode:0.40
+  select:0.40
+  markets:0.39
+  league:0.20
+  heroes:0.20
+  company:0.20
+  india:0.20
+  russian:0.20
+  bay:0.20
+
+Topic 3:
+  market:2.01
+  select:0.40
+  codecode:0.39
+  markets:0.37
+  referrals:0.20
+  acropolis:0.20
+  russian:0.20
+  free:0.20
+  silkkitie:0.20
+  alphabay:0.20
+
+Topic 4:
+  market:1.94
+  codecode:0.40
+  select:0.39
+  markets:0.38
+  league:0.20
+  free:0.20
+  company:0.20
+  russian:0.20
+  alphabay:0.20
+  heroes:0.20
+
+K: 5, Log-Likelihood: -79.560, Alpha: 11.000, Beta: 1.100

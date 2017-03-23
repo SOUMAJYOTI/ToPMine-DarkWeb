@@ -1,0 +1,61 @@
+Topic 0:
+  bed:0.00
+  transferred:0.00
+  log:0.00
+  hasnt:0.00
+  admin:0.00
+  long:0.00
+  btc:0.00
+  balance:0.00
+  incompetence:0.00
+  attack:0.00
+
+Topic 1:
+  bed:0.00
+  transferred:0.00
+  log:0.00
+  hasnt:0.00
+  admin:0.00
+  long:0.00
+  btc:0.00
+  balance:0.00
+  incompetence:0.00
+  attack:0.00
+
+Topic 2:
+  bed:0.00
+  transferred:0.00
+  log:0.00
+  hasnt:0.00
+  admin:0.00
+  long:0.00
+  btc:0.00
+  balance:0.00
+  incompetence:0.00
+  attack:0.00
+
+Topic 3:
+  bed:0.00
+  transferred:0.00
+  log:0.00
+  hasnt:0.00
+  admin:0.00
+  long:0.00
+  btc:0.00
+  balance:0.00
+  incompetence:0.00
+  attack:0.00
+
+Topic 4:
+  bed:0.00
+  transferred:0.00
+  log:0.00
+  hasnt:0.00
+  admin:0.00
+  long:0.00
+  btc:0.00
+  balance:0.00
+  incompetence:0.00
+  attack:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  nsa:1.89
+  government:1.33
+  order:1.00
+  current:0.87
+  june:0.78
+  communications:0.74
+  freedom:0.58
+  thing:0.57
+  authorities:0.55
+  phone:0.49
+
+Topic 1:
+  gunpowder:9.92
+  treason:8.91
+  holla:7.94
+  boys:7.94
+  november:7.92
+  remember:7.92
+  forgot:4.92
+  guy:3.94
+  fawkes:3.94
+  king:3.94
+
+Topic 2:
+  government:20.22
+  records:11.54
+  surveillance:11.49
+  program:10.84
+  patriot:8.55
+  intelligence:7.25
+  phone:7.14
+  powers:6.57
+  security:6.42
+  collection:6.34
+
+Topic 3:
+  government:6.09
+  nsa:2.99
+  phone:2.34
+  security:2.20
+  surveillance:2.10
+  records:2.07
+  national:1.73
+  americans:1.69
+  bulk:1.41
+  asa:1.40
+
+Topic 4:
+  nsa:2.94
+  spy:2.93
+  citizens:2.90
+  deny:1.93
+  member:1.91
+  eye:1.88
+  expensive:1.88
+  domestic:1.88
+  outsourced:1.88
+  spying:1.88
+
+K: 5, Log-Likelihood: -7689.783, Alpha: 11.000, Beta: 1.100

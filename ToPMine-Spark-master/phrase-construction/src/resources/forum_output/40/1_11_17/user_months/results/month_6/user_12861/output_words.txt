@@ -1,0 +1,61 @@
+Topic 0:
+  february:0.62
+  quote:0.58
+  ilovespaghetti:0.40
+  issue:0.40
+  write:0.40
+  support:0.40
+  implemented:0.40
+  fact:0.40
+  amthe:0.40
+  forum:0.40
+
+Topic 1:
+  quote:0.63
+  february:0.59
+  fact:0.40
+  forum:0.40
+  amthe:0.40
+  support:0.40
+  issue:0.40
+  ilovespaghetti:0.40
+  write:0.39
+  implemented:0.39
+
+Topic 2:
+  february:0.60
+  quote:0.59
+  amthe:0.40
+  issue:0.40
+  write:0.40
+  fact:0.40
+  support:0.40
+  forum:0.40
+  implemented:0.40
+  ilovespaghetti:0.40
+
+Topic 3:
+  quote:0.61
+  february:0.59
+  implemented:0.41
+  support:0.40
+  ilovespaghetti:0.40
+  write:0.40
+  forum:0.40
+  issue:0.40
+  amthe:0.40
+  fact:0.40
+
+Topic 4:
+  february:0.60
+  quote:0.59
+  forum:0.40
+  write:0.40
+  implemented:0.40
+  fact:0.40
+  support:0.40
+  amthe:0.40
+  ilovespaghetti:0.40
+  issue:0.40
+
+K: 5, Log-Likelihood: -71.401, Alpha: 11.000, Beta: 1.100

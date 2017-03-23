@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:8.12
+  send:4.80
+  bitcoins:4.12
+  bitcoin:3.11
+  coins:2.81
+  local:2.65
+  email:1.81
+  coin:1.19
+  meaning:0.81
+  blockchain:0.81
+
+Topic 1:
+  btc:2.77
+  dirty:1.37
+  buy:1.37
+  cats:1.37
+  libertyx:1.35
+  year:1.34
+  lbc:1.29
+  lol:0.60
+  ppl:0.60
+  phone:0.60
+
+Topic 2:
+  coins:1.57
+  tor:1.38
+  local:1.07
+  wallet:1.02
+  bitcoins:1.01
+  send:0.93
+  coin:0.83
+  bitcoin:0.65
+  read:0.64
+  email:0.60
+
+Topic 3:
+  wallet:5.73
+  local:4.14
+  send:3.14
+  bitcoins:2.75
+  bitcoin:2.11
+  coins:2.05
+  email:1.46
+  coin:1.11
+  tor:0.74
+  built:0.74
+
+Topic 4:
+  btc:1.99
+  mixer:0.99
+  lbc:0.98
+  year:0.56
+  libertyx:0.54
+  read:0.54
+  cats:0.53
+  buy:0.53
+  dirty:0.52
+  coin:0.49
+
+K: 5, Log-Likelihood: -898.660, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:0.61
+  deal:0.42
+  mrfungi:0.40
+  forums:0.38
+  reddit:0.38
+  ideas:0.20
+  haii:0.20
+  english:0.20
+  surf:0.20
+  scamper:0.20
+
+Topic 1:
+  vendor:0.61
+  reddit:0.43
+  forums:0.42
+  mrfungi:0.40
+  deal:0.38
+  goggle:0.21
+  nickname:0.21
+  stores:0.21
+  site:0.21
+  search:0.21
+
+Topic 2:
+  vendor:0.59
+  deal:0.40
+  mrfungi:0.40
+  forums:0.40
+  reddit:0.40
+  green:0.20
+  bt:0.20
+  machine:0.20
+  scamper:0.20
+  ideas:0.20
+
+Topic 3:
+  vendor:0.59
+  forums:0.42
+  reddit:0.41
+  mrfungi:0.40
+  deal:0.39
+  search:0.20
+  site:0.20
+  goggle:0.20
+  nickname:0.20
+  stores:0.20
+
+Topic 4:
+  vendor:0.60
+  deal:0.41
+  mrfungi:0.40
+  reddit:0.39
+  forums:0.38
+  bad:0.20
+  green:0.20
+  bt:0.20
+  haii:0.20
+  english:0.20
+
+K: 5, Log-Likelihood: -97.756, Alpha: 11.000, Beta: 1.100

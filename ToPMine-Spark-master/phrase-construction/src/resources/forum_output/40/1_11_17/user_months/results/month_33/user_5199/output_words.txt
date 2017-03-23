@@ -1,0 +1,61 @@
+Topic 0:
+  solely:0.20
+  evolution:0.20
+  led:0.20
+  address:0.20
+  inventory:0.20
+  signature:0.20
+  stock:0.20
+  mdma:0.20
+  vend:0.20
+  profile:0.20
+
+Topic 1:
+  inventory:0.20
+  vend:0.20
+  profile:0.20
+  evolution:0.20
+  stock:0.20
+  address:0.20
+  solely:0.20
+  signature:0.20
+  mdma:0.20
+  led:0.20
+
+Topic 2:
+  led:0.20
+  stock:0.20
+  mdma:0.20
+  address:0.20
+  profile:0.20
+  signature:0.20
+  evolution:0.20
+  solely:0.20
+  vend:0.20
+  inventory:0.20
+
+Topic 3:
+  vend:0.20
+  led:0.20
+  mdma:0.20
+  stock:0.20
+  evolution:0.20
+  signature:0.20
+  profile:0.20
+  address:0.20
+  solely:0.20
+  inventory:0.20
+
+Topic 4:
+  solely:0.20
+  inventory:0.20
+  mdma:0.20
+  signature:0.20
+  profile:0.20
+  vend:0.20
+  stock:0.20
+  address:0.20
+  evolution:0.20
+  led:0.20
+
+K: 5, Log-Likelihood: -23.026, Alpha: 11.000, Beta: 1.100

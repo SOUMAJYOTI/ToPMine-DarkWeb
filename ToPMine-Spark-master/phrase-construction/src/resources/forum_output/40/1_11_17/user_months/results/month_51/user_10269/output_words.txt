@@ -1,0 +1,61 @@
+Topic 0:
+  fa:0.63
+  period:0.42
+  daytime:0.42
+  quote:0.41
+  services:0.39
+  pm:0.20
+  true:0.20
+  oxymonster:0.20
+  dont:0.20
+  phooops:0.20
+
+Topic 1:
+  fa:0.59
+  quote:0.41
+  daytime:0.40
+  period:0.40
+  services:0.40
+  theretardedcynic:0.20
+  nosnot:0.20
+  phooops:0.20
+  coat:0.20
+  called:0.20
+
+Topic 2:
+  fa:0.61
+  services:0.43
+  period:0.39
+  daytime:0.38
+  quote:0.38
+  coin:0.21
+  streaming:0.21
+  netflix:0.21
+  avoided:0.21
+  wanted:0.21
+
+Topic 3:
+  fa:0.58
+  services:0.41
+  quote:0.40
+  daytime:0.39
+  period:0.39
+  attempt:0.20
+  problem:0.20
+  spotify:0.20
+  cheese:0.20
+  reasons:0.20
+
+Topic 4:
+  fa:0.59
+  quote:0.41
+  period:0.41
+  daytime:0.41
+  services:0.38
+  tablet:0.21
+  pmnucleus:0.21
+  cure:0.21
+  fly:0.21
+  cold:0.21
+
+K: 5, Log-Likelihood: -191.849, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  message:2.07
+  assuming:0.83
+  messages:0.80
+  agora:0.79
+  atm:0.73
+  al:0.59
+  response:0.58
+  confirmed:0.41
+  eventually:0.41
+  failed:0.41
+
+Topic 1:
+  message:1.64
+  messages:1.22
+  assuming:0.91
+  atm:0.74
+  agora:0.74
+  response:0.55
+  al:0.54
+  odd:0.50
+  folder:0.50
+  eventually:0.50
+
+Topic 2:
+  message:2.29
+  assuming:0.80
+  agora:0.75
+  messages:0.73
+  atm:0.69
+  al:0.64
+  response:0.56
+  bubble:0.43
+  private:0.43
+  account:0.43
+
+Topic 3:
+  message:2.00
+  atm:0.95
+  agora:0.86
+  assuming:0.73
+  response:0.68
+  messages:0.64
+  al:0.59
+  mode:0.45
+  hope:0.45
+  day:0.45
+
+Topic 4:
+  message:2.00
+  atm:0.88
+  agora:0.86
+  assuming:0.74
+  al:0.64
+  response:0.63
+  messages:0.61
+  clean:0.43
+  hope:0.43
+  day:0.43
+
+K: 5, Log-Likelihood: -426.720, Alpha: 11.000, Beta: 1.100

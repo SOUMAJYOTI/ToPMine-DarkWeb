@@ -1,0 +1,61 @@
+Topic 0:
+  flawless:3.56
+  candies:3.56
+  shuttin:3.56
+  problems:3.55
+  hope:3.55
+  havent:3.55
+  wistful:2.16
+  close:2.16
+  suicide:2.16
+  commit:2.16
+
+Topic 1:
+  work:4.57
+  unwillingness:4.57
+  scam:3.72
+  clicked:3.72
+  knew:3.72
+  point sr:3.72
+  lost:3.72
+  profiting:3.72
+  double:3.72
+  button:3.72
+
+Topic 2:
+  daily basis result policies:5.52
+  order sr:5.20
+  dont fe scammed marketplace:5.20
+  sr expect standard money:5.19
+  holding gun head making:5.19
+  nice refusing implement escrow:5.19
+  kindly fuck quit bothering:5.19
+  escrow market sr dont:4.71
+  mentality blaming victim:4.71
+  order sr lesson learned:4.71
+
+Topic 3:
+  dr paradise:9.20
+  sr:9.11
+  negative feedback:6.87
+  package:4.57
+  leave:4.57
+  vendor:4.26
+  hub:3.03
+  lesson:2.71
+  support customer:2.71
+  arrived:2.66
+
+Topic 4:
+  feel:4.88
+  fact:4.54
+  silk road:4.53
+  transaction:4.28
+  offer:3.64
+  market commission:3.64
+  compensation:3.64
+  scams:3.64
+  source:3.64
+  funds thought:3.64
+
+K: 5, Log-Likelihood: -4046.612, Alpha: 11.000, Beta: 1.100

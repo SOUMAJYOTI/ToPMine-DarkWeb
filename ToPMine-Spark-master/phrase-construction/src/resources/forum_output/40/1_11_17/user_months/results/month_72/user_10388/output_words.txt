@@ -1,0 +1,61 @@
+Topic 0:
+  dream:1.21
+  fine:0.40
+  vendors:0.39
+  days:0.20
+  eve:0.20
+  oxymonster:0.20
+  evo:0.20
+  cos:0.20
+  bitch:0.20
+  nimble:0.20
+
+Topic 1:
+  dream:1.18
+  fine:0.40
+  vendors:0.40
+  vendor:0.20
+  listing:0.20
+  loving:0.20
+  today:0.20
+  fast:0.20
+  day:0.20
+  threw:0.20
+
+Topic 2:
+  dream:1.20
+  fine:0.40
+  vendors:0.40
+  work:0.20
+  count:0.20
+  doubled:0.20
+  alike:0.20
+  word:0.20
+  isn:0.20
+  behalf:0.20
+
+Topic 3:
+  dream:1.21
+  vendors:0.41
+  fine:0.40
+  clients:0.20
+  crossed:0.20
+  isn:0.20
+  behalf:0.20
+  count:0.20
+  good:0.20
+  doubled:0.20
+
+Topic 4:
+  dream:1.19
+  fine:0.40
+  vendors:0.40
+  threw:0.20
+  active:0.20
+  waiving:0.20
+  vendor:0.20
+  day:0.20
+  bond:0.20
+  listing:0.20
+
+K: 5, Log-Likelihood: -242.662, Alpha: 11.000, Beta: 1.100

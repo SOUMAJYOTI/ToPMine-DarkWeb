@@ -1,0 +1,61 @@
+Topic 0:
+  pandora:6.15
+  site:2.65
+  days:1.77
+  community:1.73
+  gamesome:1.16
+  vendors:1.13
+  people:1.05
+  issues:1.02
+  problems:0.90
+  support:0.80
+
+Topic 1:
+  pandora:3.32
+  issues:1.82
+  alice:1.33
+  warning:0.95
+  hub:0.95
+  quote:0.85
+  july:0.84
+  forum:0.84
+  site:0.78
+  people:0.77
+
+Topic 2:
+  pandora:2.02
+  issues:1.72
+  alice:1.71
+  hub:1.40
+  warning:1.40
+  forum:1.13
+  people:0.96
+  noobs:0.82
+  nice:0.82
+  quote:0.82
+
+Topic 3:
+  fees:3.30
+  withdrawals:2.84
+  withdraw:2.63
+  jacked:2.63
+  disabled:1.84
+  month:1.84
+  money:1.84
+  add:1.51
+  explaining:1.50
+  withdrawal:1.41
+
+Topic 4:
+  pandora:7.97
+  site:1.93
+  days:1.80
+  community:1.59
+  vendors:1.58
+  gamesome:1.55
+  issues:1.28
+  people:1.08
+  problems:1.04
+  supporteu:0.98
+
+K: 5, Log-Likelihood: -1301.469, Alpha: 11.000, Beta: 1.100

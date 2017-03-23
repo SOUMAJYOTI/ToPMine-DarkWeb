@@ -1,0 +1,61 @@
+Topic 0:
+  contact:3.60
+  forum:2.29
+  everafterglow:2.21
+  hath:2.00
+  september:1.99
+  quote:1.89
+  oil:1.86
+  mdma:1.81
+  direct:1.66
+  dafunkfuzz:1.37
+
+Topic 1:
+  contact:3.16
+  forum:2.58
+  hath:2.05
+  oil:2.03
+  september:2.01
+  everafterglow:1.94
+  mdma:1.81
+  direct:1.70
+  quote:1.56
+  dafunkfuzz:1.29
+
+Topic 2:
+  contact:3.99
+  forum:2.47
+  everafterglow:2.15
+  oil:2.12
+  hath:1.89
+  direct:1.78
+  mdma:1.75
+  quote:1.49
+  september:1.43
+  dafunkfuzz:1.19
+
+Topic 3:
+  bit:3.65
+  forum:2.40
+  scared:1.88
+  theme:1.79
+  vacation:1.74
+  contact:1.66
+  happened:1.61
+  thread:1.57
+  open:1.55
+  hallowed:1.55
+
+Topic 4:
+  contact:3.60
+  forum:2.25
+  oil:2.07
+  hath:2.06
+  direct:1.92
+  quote:1.75
+  mdma:1.72
+  september:1.70
+  everafterglow:1.60
+  dafunkfuzz:1.48
+
+K: 5, Log-Likelihood: -902.042, Alpha: 11.000, Beta: 1.100

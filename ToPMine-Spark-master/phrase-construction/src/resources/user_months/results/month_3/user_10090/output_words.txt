@@ -1,0 +1,61 @@
+Topic 0:
+  sr:3.08
+  love:2.75
+  february:2.15
+  road:1.44
+  quote:1.35
+  thankful:1.26
+  site:1.25
+  silk:1.22
+  hate:1.01
+  disappeared:0.99
+
+Topic 1:
+  hope:3.21
+  dont:3.07
+  road:3.01
+  people:2.12
+  fuck:2.00
+  site:1.79
+  silk:1.74
+  sr:1.55
+  population:1.28
+  speed:1.28
+
+Topic 2:
+  sr:5.27
+  february:3.50
+  thankful:2.80
+  love:2.27
+  road:1.84
+  silk:1.60
+  quote:1.60
+  market:1.40
+  biased:1.24
+  post:1.04
+
+Topic 3:
+  sr:3.12
+  love:2.40
+  february:1.49
+  site:1.29
+  thankful:1.23
+  quote:1.07
+  road:1.05
+  eye:1.00
+  october:0.99
+  dark:0.99
+
+Topic 4:
+  sr:4.98
+  thankful:3.67
+  february:2.32
+  market:1.98
+  road:1.66
+  silk:1.46
+  biased:1.35
+  quote:1.31
+  love:1.29
+  post:1.13
+
+K: 5, Log-Likelihood: -1619.811, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,78 @@
+instructions,0,1
+addresses,1,1
+luck,2,1
+correct,3,1
+lib,4,2
+ckl,5,3
+onion,6,5
+ago,7,1
+py,8,2
+sites,9,1
+simple,10,2
+experience,11,1
+simpleconfig,12,1
+problem,13,2
+config file,14,3
+options,15,2
+raise,16,1
+connection,17,1
+persistent,18,2
+traceback,19,1
+guide,20,1
+synchronize,21,1
+localhost,22,3
+cavir,23,1
+init,24,1
+read,25,4
+socks localhost,26,2
+work,27,2
+kind,28,1
+socks,29,3
+clearnet,30,2
+establish,31,1
+file electrum,32,2
+ckl obj gypcu onion,33,3
+localhost socks,34,1
+tails,35,3
+failure,36,1
+read config,37,2
+electrum ckl,38,1
+typing,39,1
+files,40,1
+gypcu onion,41,3
+starting,42,1
+ioerror,43,2
+server,44,1
+components,45,1
+access,46,1
+directory,47,1
+obj gypcu onion,48,3
+file,49,5
+gypcu,50,3
+tor,51,2
+root,52,1
+connect,53,1
+deepdotweb,54,1
+electrum,55,9
+ckl obj gypcu,56,3
+wallet,57,1
+honestly,58,1
+onion socks,59,2
+electric,60,1
+start,61,1
+navigating,62,1
+terminal,63,2
+configure,64,1
+opening,65,1
+electrum config,66,1
+command,67,1
+call,68,1
+amnesia,69,2
+deleting,70,1
+obj gypcu,71,3
+obj,72,3
+ckl obj,73,3
+connecting,74,1
+user,75,2
+config,76,8
+open,77,1

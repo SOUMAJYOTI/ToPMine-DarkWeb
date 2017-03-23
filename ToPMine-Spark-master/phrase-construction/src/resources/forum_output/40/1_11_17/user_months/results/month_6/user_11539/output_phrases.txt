@@ -1,0 +1,61 @@
+Topic 0:
+  tier:0.08
+  shit:0.08
+  gamesome:0.08
+  wanted:0.08
+  order:0.08
+  hash:0.08
+  hard:0.08
+  overpriced:0.08
+  shippment:0.08
+  germany:0.08
+
+Topic 1:
+  germany:0.08
+  overpriced:0.08
+  order:0.08
+  shippment:0.08
+  products:0.08
+  hard:0.08
+  wanted:0.08
+  hash:0.08
+  gamesome:0.08
+  tier:0.08
+
+Topic 2:
+  shippment:0.08
+  overpriced:0.08
+  products:0.08
+  tier:0.08
+  germany:0.08
+  order:0.08
+  hash:0.08
+  gamesome:0.08
+  wanted:0.08
+  shit:0.08
+
+Topic 3:
+  wanted:0.08
+  hard:0.08
+  hash:0.08
+  tier:0.08
+  gamesome:0.08
+  shit:0.08
+  order:0.08
+  overpriced:0.08
+  germany:0.08
+  shippment:0.08
+
+Topic 4:
+  products:0.08
+  shippment:0.08
+  germany:0.08
+  shit:0.08
+  hard:0.08
+  hash:0.08
+  gamesome:0.08
+  order:0.08
+  overpriced:0.08
+  wanted:0.08
+
+K: 5, Log-Likelihood: -11.321, Alpha: 11.000, Beta: 1.100

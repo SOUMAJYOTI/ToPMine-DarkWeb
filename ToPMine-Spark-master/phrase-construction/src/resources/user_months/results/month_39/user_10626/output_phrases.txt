@@ -1,0 +1,61 @@
+Topic 0:
+  angeleyes:3.80
+  reserving:1.86
+  created:1.86
+  log:1.86
+  guess:1.86
+  names:1.86
+  vendors nice:1.86
+  user:1.86
+  searched:1.86
+  dummy:1.86
+
+Topic 1:
+  key:5.76
+  vendor:4.94
+  pgp:3.81
+  set:2.61
+  vend:2.43
+  quote:2.42
+  issue:1.87
+  pretend:1.87
+  el:1.87
+  interactions:1.87
+
+Topic 2:
+  vendors:4.84
+  marketplace:3.81
+  escrow:3.81
+  dont:3.81
+  transactions:3.81
+  market:3.81
+  marketplaces:3.12
+  testing:2.17
+  coin:2.16
+  good:1.98
+
+Topic 3:
+  free:3.41
+  march:2.64
+  great:2.37
+  place:2.36
+  hopefull:2.36
+  nice set:2.36
+  trust nucleus:2.23
+  left:2.20
+  huff:2.17
+  wade:2.17
+
+Topic 4:
+  nucleus:2.45
+  min:1.87
+  time:1.87
+  intuitive:1.87
+  packages:1.87
+  mdma:1.87
+  grams:1.87
+  gamesome:1.87
+  mda:1.87
+  validate:1.87
+
+K: 5, Log-Likelihood: -1657.190, Alpha: 11.000, Beta: 1.100

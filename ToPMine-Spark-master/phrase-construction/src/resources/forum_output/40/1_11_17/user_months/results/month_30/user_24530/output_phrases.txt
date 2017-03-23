@@ -1,0 +1,61 @@
+Topic 0:
+  work:13.38
+  yeah:12.68
+  le:12.55
+  servers:10.69
+  lead:9.47
+  shut:9.44
+  tor:9.33
+  vendors:9.06
+  worried:8.61
+  acid:8.33
+
+Topic 1:
+  real people:12.64
+  substances:11.61
+  tor:9.75
+  people:9.55
+  code:9.46
+  tor dont:8.58
+  google account tor:8.20
+  quote:7.80
+  secret:7.13
+  agencies:7.13
+
+Topic 2:
+  tor:22.93
+  password:16.18
+  tmg:14.67
+  traffic:14.27
+  traffic analysis:13.17
+  de:11.32
+  traffic analysis attacks:10.70
+  adversary:10.70
+  tor clients:10.70
+  ag:10.70
+
+Topic 3:
+  sillywabbit:15.03
+  bad:12.96
+  people:11.85
+  doubt:11.48
+  letters:11.38
+  ce fff:10.70
+  link:9.91
+  led:9.57
+  messages:8.56
+  background:8.23
+
+Topic 4:
+  safe mail:18.63
+  subkey:17.84
+  windows partition:14.26
+  created expires usage:10.70
+  main key:10.70
+  blue:10.13
+  keys:8.62
+  vendors:7.86
+  set:7.58
+  pack:7.13
+
+K: 5, Log-Likelihood: -84179.845, Alpha: 11.000, Beta: 1.100

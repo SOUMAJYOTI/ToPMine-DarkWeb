@@ -1,0 +1,61 @@
+Topic 0:
+  himor:0.08
+  november:0.08
+  onionshop:0.08
+  silk:0.08
+  potential:0.08
+  freckled:0.08
+  year:0.08
+  quote:0.08
+  road:0.08
+  pmask:0.08
+
+Topic 1:
+  quote:0.08
+  potential:0.08
+  pmask:0.08
+  year:0.08
+  freckled:0.08
+  onionshop:0.08
+  silk:0.08
+  road:0.08
+  november:0.08
+  himor:0.08
+
+Topic 2:
+  himor:0.08
+  pmask:0.08
+  november:0.08
+  onionshop:0.08
+  year:0.08
+  road:0.08
+  freckled:0.08
+  potential:0.08
+  silk:0.08
+  quote:0.08
+
+Topic 3:
+  road:0.08
+  quote:0.08
+  year:0.08
+  onionshop:0.08
+  pmask:0.08
+  potential:0.08
+  silk:0.08
+  himor:0.08
+  freckled:0.08
+  november:0.08
+
+Topic 4:
+  silk:0.08
+  freckled:0.08
+  potential:0.08
+  road:0.08
+  november:0.08
+  year:0.08
+  quote:0.08
+  pmask:0.08
+  himor:0.08
+  onionshop:0.08
+
+K: 5, Log-Likelihood: -10.145, Alpha: 11.000, Beta: 1.100

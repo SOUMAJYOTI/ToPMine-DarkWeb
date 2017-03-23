@@ -1,0 +1,61 @@
+Topic 0:
+  customer:0.28
+  day:0.28
+  forum:0.23
+  august:0.14
+  site:0.14
+  internal:0.14
+  ami:0.14
+  client:0.14
+  main:0.14
+  care:0.14
+
+Topic 1:
+  customer:0.28
+  day:0.28
+  forum:0.23
+  forgotten:0.14
+  finish:0.14
+  main:0.14
+  police:0.14
+  broadcasts:0.14
+  august:0.14
+  quote:0.14
+
+Topic 2:
+  day:0.28
+  customer:0.28
+  forum:0.23
+  vittuilla:0.14
+  ei:0.14
+  kiinnostaa:0.14
+  ihan:0.14
+  mitenk:0.14
+  keksitk:0.14
+  itse:0.14
+
+Topic 3:
+  day:0.28
+  customer:0.28
+  forum:0.23
+  vaan:0.14
+  ono:0.14
+  ihan:0.14
+  vittuilla:0.14
+  jotain:0.14
+  vai:0.14
+  sun:0.14
+
+Topic 4:
+  customer:0.28
+  day:0.28
+  forum:0.23
+  captains:0.14
+  years:0.14
+  care:0.14
+  forgotten:0.14
+  afraid:0.14
+  internal:0.14
+  client:0.14
+
+K: 5, Log-Likelihood: -158.864, Alpha: 11.000, Beta: 1.100

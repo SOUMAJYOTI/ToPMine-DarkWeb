@@ -1,0 +1,61 @@
+Topic 0:
+  big characters:0.85
+  font:0.82
+  big:0.43
+  dont find:0.41
+  dont:0.39
+  appearing:0.38
+  posts:0.38
+  definately:0.38
+  size:0.38
+  find:0.38
+
+Topic 1:
+  font:0.93
+  big characters:0.86
+  big:0.43
+  dont find:0.41
+  sizes:0.40
+  change:0.40
+  definately:0.40
+  introduce:0.40
+  find:0.40
+  forums:0.40
+
+Topic 2:
+  big:0.48
+  parody:0.47
+  satire:0.46
+  potential:0.46
+  dont find:0.46
+  agora:0.46
+  big characters:0.45
+  font:0.45
+  hate:0.32
+  shithead:0.32
+
+Topic 3:
+  agora:0.60
+  parody:0.59
+  potential:0.59
+  satire:0.59
+  road:0.46
+  coachella:0.46
+  dont find:0.46
+  beg:0.46
+  create:0.46
+  markets:0.46
+
+Topic 4:
+  big characters:0.58
+  font:0.54
+  dont find:0.46
+  big:0.45
+  satire:0.45
+  potential:0.45
+  agora:0.44
+  parody:0.44
+  person:0.31
+  suppose:0.31
+
+K: 5, Log-Likelihood: -381.089, Alpha: 11.000, Beta: 1.100

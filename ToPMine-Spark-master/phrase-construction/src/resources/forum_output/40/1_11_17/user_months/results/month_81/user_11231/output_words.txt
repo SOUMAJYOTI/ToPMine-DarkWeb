@@ -1,0 +1,61 @@
+Topic 0:
+  february:0.93
+  quote:0.69
+  list:0.64
+  marketplaces:0.55
+  dead:0.53
+  markets:0.48
+  market:0.47
+  lol:0.46
+  life:0.44
+  signiture:0.44
+
+Topic 1:
+  list:0.81
+  february:0.74
+  market:0.66
+  marketplaces:0.64
+  markets:0.62
+  dead:0.62
+  quote:0.57
+  matter:0.40
+  life:0.40
+  signiture:0.40
+
+Topic 2:
+  list:0.85
+  february:0.80
+  market:0.65
+  marketplaces:0.64
+  markets:0.62
+  dead:0.61
+  quote:0.57
+  interest:0.40
+  site:0.40
+  lack:0.39
+
+Topic 3:
+  february:0.92
+  list:0.67
+  quote:0.65
+  dead:0.56
+  market:0.55
+  marketplaces:0.53
+  markets:0.53
+  day:0.45
+  didnt:0.45
+  earn:0.45
+
+Topic 4:
+  list:1.03
+  markets:0.76
+  dead:0.68
+  market:0.67
+  marketplaces:0.65
+  february:0.61
+  quote:0.52
+  bad:0.39
+  counting:0.39
+  owner:0.38
+
+K: 5, Log-Likelihood: -445.396, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:5.78
+  bank:5.78
+  blond:3.66
+  bummed:2.85
+  account buy:2.85
+  exchange:2.85
+  direct:2.85
+  bad:2.85
+  wire:2.85
+  downfall:2.85
+
+Topic 1:
+  software:3.70
+  message:3.16
+  encrypt:2.17
+  easy:2.08
+  stuff:1.83
+  private:1.83
+  likewise:1.83
+  gog:1.83
+  usb:1.83
+  gpg:1.83
+
+Topic 2:
+  built:3.59
+  rates:3.58
+  day:2.73
+  reliable:2.73
+  questions:1.73
+  amd:1.73
+  thing:1.73
+  lost:1.73
+  encryption:1.73
+  answer:1.73
+
+Topic 3:
+  good:3.25
+  cash:2.85
+  org:2.85
+  atm:2.85
+  map:2.85
+  weather:2.85
+  suprised:2.85
+  forum:2.85
+  kidding:2.85
+  dusty:2.85
+
+Topic 4:
+  find:3.86
+  pip:3.74
+  guide:3.70
+  topic:2.67
+  thread:2.67
+  program:2.59
+  pretty:1.95
+  type:1.83
+  find computer:1.83
+  people:1.83
+
+K: 5, Log-Likelihood: -2735.851, Alpha: 11.000, Beta: 1.100

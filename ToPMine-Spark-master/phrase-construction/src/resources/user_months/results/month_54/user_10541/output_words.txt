@@ -1,0 +1,61 @@
+Topic 0:
+  tor:1.94
+  link:1.90
+  quote:1.86
+  apopularvendor:1.54
+  tutorial:1.21
+  running:1.09
+  sock:1.09
+  dedicated:1.08
+  folder:1.02
+  image:0.99
+
+Topic 1:
+  july:3.56
+  folder:2.47
+  image:2.41
+  listings:1.42
+  message:1.39
+  sale:1.37
+  agra:1.37
+  pops:1.35
+  click:1.35
+  denied:1.34
+
+Topic 2:
+  august:7.43
+  tutorial:6.49
+  pmquote:5.02
+  linux:4.69
+  beastie:4.67
+  good:2.91
+  illiterate:2.78
+  explain:2.75
+  pmdeepdotweb:2.73
+  technologically:2.64
+
+Topic 3:
+  july:2.24
+  image:1.83
+  images:1.55
+  quote:1.53
+  upload:1.52
+  apopularvendor:1.51
+  matrix:1.51
+  infotomb:1.50
+  button:1.49
+  rebooting:1.47
+
+Topic 4:
+  folder:2.84
+  quote:2.12
+  tor:1.76
+  link:1.74
+  image:1.49
+  apopularvendor:1.44
+  browser:1.33
+  july:1.24
+  issues:0.99
+  copy:0.98
+
+K: 5, Log-Likelihood: -1318.340, Alpha: 11.000, Beta: 1.100

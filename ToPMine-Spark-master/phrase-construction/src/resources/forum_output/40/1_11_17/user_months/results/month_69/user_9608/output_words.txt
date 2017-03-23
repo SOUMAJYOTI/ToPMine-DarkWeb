@@ -1,0 +1,61 @@
+Topic 0:
+  link:3.64
+  sitedo:1.61
+  bull:1.60
+  fake:1.60
+  shit:1.60
+  swiss:1.52
+  man:1.45
+  phishing:1.04
+  bookmarked:1.02
+  diffrence:0.79
+
+Topic 1:
+  link:9.85
+  site:8.40
+  account:7.85
+  phinshing:7.00
+  mirror:5.04
+  password:3.68
+  tho:3.61
+  thing:2.26
+  brand:2.17
+  fine:2.16
+
+Topic 2:
+  link:9.85
+  site:8.40
+  visit:5.71
+  sigaint:4.42
+  phishing:4.27
+  email:4.27
+  pm:4.25
+  december:4.05
+  clearnet:3.74
+  account:3.46
+
+Topic 3:
+  tor:13.88
+  bridge:7.67
+  bridges:7.31
+  obsfu:4.20
+  difference:3.72
+  firewall:3.51
+  western:3.50
+  barred:3.50
+  deal:3.49
+  mate:3.49
+
+Topic 4:
+  link:2.57
+  man:2.26
+  bridge:1.50
+  hide:1.24
+  swiss:1.24
+  wow:1.03
+  mistake:1.02
+  huge:1.01
+  dude:1.00
+  diffrence:1.00
+
+K: 5, Log-Likelihood: -1987.968, Alpha: 11.000, Beta: 1.100

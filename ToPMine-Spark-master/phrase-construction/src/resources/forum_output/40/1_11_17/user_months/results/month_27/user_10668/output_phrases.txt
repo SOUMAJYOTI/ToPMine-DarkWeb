@@ -1,0 +1,61 @@
+Topic 0:
+  tails:4.12
+  continue:2.73
+  verify:2.73
+  boot:2.73
+  version:2.73
+  modified:2.73
+  internal:2.73
+  crime:2.73
+  correlation:2.73
+  long:2.73
+
+Topic 1:
+  fuck:2.67
+  passphrase:2.03
+  clear:1.88
+  extreme:1.32
+  partition:1.32
+  ascertain:1.32
+  random:1.32
+  ay:1.32
+  encrypted:1.32
+  poor:1.32
+
+Topic 2:
+  windows:6.89
+  linux:6.78
+  file:2.73
+  files:2.73
+  forbidden:2.73
+  systems:2.73
+  anti:2.73
+  packages:2.73
+  permitted:2.73
+  virus:2.73
+
+Topic 3:
+  quote leapfrog december pm:8.28
+  keylogger:4.12
+  black bag job:4.12
+  surveillance:3.36
+  sort threat:2.73
+  victim:2.73
+  depends:2.73
+  installed:2.73
+  software:2.73
+  considered:2.73
+
+Topic 4:
+  os:4.12
+  attacked:2.73
+  persistent storage:1.35
+  dreaded:1.35
+  echo:1.35
+  vulnerabilities:1.35
+  didnt:1.35
+  surprised:1.35
+  depending:1.35
+  time real:1.35
+
+K: 5, Log-Likelihood: -3053.655, Alpha: 11.000, Beta: 1.100

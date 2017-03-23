@@ -1,0 +1,61 @@
+Topic 0:
+  hyv:3.03
+  olla:2.99
+  taas:2.63
+  kapteeni:2.36
+  ei:1.87
+  kaatuilut:1.87
+  evo:1.87
+  laiskat:1.87
+  parhaitten:1.87
+  marketti:1.87
+
+Topic 1:
+  se:3.97
+  joskus:3.97
+  silkkitien:2.46
+  mutta:2.34
+  jotain:2.26
+  tulossa:2.09
+  siell:1.96
+  lauantaisin:1.96
+  ivityksi:1.96
+  pyrkii:1.96
+
+Topic 2:
+  kyll:3.95
+  ll:3.28
+  ss:3.00
+  joo:1.93
+  max:1.93
+  eli:1.93
+  ennalta:1.93
+  vapautettu:1.93
+  saisi:1.93
+  herkut:1.93
+
+Topic 3:
+  juuri:3.95
+  ja:3.14
+  vaan:2.55
+  pystyss:2.52
+  btc:2.47
+  toivotaan:2.10
+  sitka:1.94
+  hajonnut:1.94
+  liaikainen:1.94
+  kolmenumeroinen:1.94
+
+Topic 4:
+  meid:2.92
+  silkkitie:2.89
+  toimi:2.19
+  kaatuneena:1.93
+  cloud:1.93
+  aktiivisesti:1.93
+  takia:1.93
+  kaatumisen:1.93
+  hinnoilla:1.93
+  pysyy:1.93
+
+K: 5, Log-Likelihood: -2258.420, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  msig:0.39
+  coming:0.29
+  tech:0.29
+  theory:0.29
+  central:0.27
+  tho:0.27
+  scammed:0.27
+  eic:0.17
+  side:0.17
+  worked:0.14
+
+Topic 1:
+  msig:0.48
+  tho:0.31
+  scammed:0.31
+  central:0.31
+  theory:0.24
+  tech:0.24
+  coming:0.24
+  side:0.17
+  eic:0.17
+  growth:0.15
+
+Topic 2:
+  msig:0.45
+  central:0.30
+  scammed:0.29
+  tho:0.29
+  coming:0.26
+  theory:0.26
+  tech:0.26
+  eic:0.17
+  side:0.17
+  recovery:0.14
+
+Topic 3:
+  msig:0.33
+  tech:0.32
+  theory:0.32
+  coming:0.32
+  tho:0.24
+  central:0.24
+  scammed:0.24
+  side:0.18
+  eic:0.18
+  died:0.15
+
+Topic 4:
+  msig:0.42
+  scammed:0.28
+  central:0.28
+  tho:0.28
+  theory:0.28
+  coming:0.28
+  tech:0.28
+  eic:0.17
+  side:0.17
+  ack:0.14
+
+K: 5, Log-Likelihood: -289.439, Alpha: 11.000, Beta: 1.100

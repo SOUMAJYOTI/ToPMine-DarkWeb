@@ -1,0 +1,61 @@
+Topic 0:
+  ei:1.53
+  jo:0.81
+  jotain:0.73
+  sulle:0.44
+  kin:0.43
+  tahansa:0.43
+  kannata:0.43
+  vaiheessa:0.43
+  himaan:0.43
+  mit:0.42
+
+Topic 1:
+  oli:2.71
+  mut:1.72
+  ku:1.72
+  jo:1.45
+  ja:0.76
+  kuuluu:0.75
+  melkein:0.75
+  oman:0.75
+  palanut:0.75
+  olivet:0.75
+
+Topic 2:
+  ei:1.96
+  jotain:0.68
+  kannata:0.66
+  tahansa:0.66
+  sulle:0.65
+  himaan:0.65
+  vaiheessa:0.65
+  kin:0.64
+  jo:0.59
+  jos:0.52
+
+Topic 3:
+  ei:1.54
+  jotain:0.82
+  kin:0.75
+  vaiheessa:0.74
+  himaan:0.74
+  jo:0.74
+  tahansa:0.73
+  kannata:0.73
+  sulle:0.73
+  kotietsinn:0.45
+
+Topic 4:
+  ja:0.72
+  ei:0.69
+  joo:0.55
+  mukanaan:0.55
+  picnics:0.55
+  eih:0.55
+  kii:0.55
+  toi:0.55
+  kist:0.55
+  sen:0.55
+
+K: 5, Log-Likelihood: -671.675, Alpha: 11.000, Beta: 1.100

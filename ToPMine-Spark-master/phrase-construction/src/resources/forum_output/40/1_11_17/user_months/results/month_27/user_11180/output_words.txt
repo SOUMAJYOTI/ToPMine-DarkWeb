@@ -1,0 +1,61 @@
+Topic 0:
+  account:3.31
+  money:2.48
+  evolution:2.47
+  custumers:2.16
+  agora:1.45
+  support:1.44
+  vendor:1.42
+  feedback:1.08
+  hope:0.92
+  padding:0.92
+
+Topic 1:
+  custumers:3.08
+  feedbacks:3.06
+  account:2.40
+  don:2.22
+  real:1.71
+  case:1.71
+  buy:1.55
+  evolution:1.52
+  kind:1.42
+  padding:1.29
+
+Topic 2:
+  understand:3.20
+  evolution:3.08
+  time:2.67
+  main:2.65
+  fast:2.54
+  kind:2.26
+  pandora:1.93
+  cheers:1.63
+  situation:1.63
+  statement:1.63
+
+Topic 3:
+  good:5.19
+  vacation:4.83
+  mode:4.83
+  account:4.37
+  link:3.69
+  change:2.78
+  feedback:1.93
+  deblocked:1.90
+  click:1.90
+  fact:1.72
+
+Topic 4:
+  agora:6.35
+  account:4.15
+  money:3.25
+  administration:2.63
+  custumer:2.02
+  custumers:2.02
+  feedbacks:1.95
+  job:1.65
+  hai:1.59
+  agra:1.58
+
+K: 5, Log-Likelihood: -1793.392, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  gnupg:2.80
+  regression:1.00
+  key:0.97
+  snug:0.63
+  data:0.61
+  support:0.61
+  release version:0.41
+  smaller:0.41
+  pleased:0.41
+  encrypt:0.41
+
+Topic 1:
+  gnupg:5.37
+  key:1.48
+  regression:1.34
+  support:0.73
+  data:0.73
+  snug:0.71
+  recv:0.48
+  gpg:0.48
+  unattended:0.48
+  shell:0.48
+
+Topic 2:
+  gnupg:3.45
+  regression:1.08
+  key:0.98
+  data:0.69
+  support:0.66
+  snug:0.63
+  management:0.44
+  releasedwerner:0.44
+  secure:0.43
+  availability:0.43
+
+Topic 3:
+  tor:1.57
+  curl:1.21
+  asap:0.68
+  browser:0.68
+  tbb:0.68
+  software:0.68
+  packages:0.68
+  tails:0.68
+  project:0.68
+  developers:0.68
+
+Topic 4:
+  gnupg:1.87
+  key:0.97
+  regression:0.96
+  snug:0.62
+  support:0.59
+  data:0.57
+  stable:0.40
+  privacy:0.40
+  build:0.40
+  koch:0.40
+
+K: 5, Log-Likelihood: -1240.930, Alpha: 11.000, Beta: 1.100

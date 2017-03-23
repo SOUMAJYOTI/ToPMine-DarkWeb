@@ -1,0 +1,36 @@
+Topic 0:
+  btc:0.40
+  curious:0.20
+  domains:0.20
+  onion:0.20
+  exchanges:0.20
+
+Topic 1:
+  btc:0.40
+  exchanges:0.20
+  curious:0.20
+  domains:0.20
+  onion:0.20
+
+Topic 2:
+  btc:0.40
+  domains:0.20
+  curious:0.20
+  exchanges:0.20
+  onion:0.20
+
+Topic 3:
+  btc:0.40
+  onion:0.20
+  curious:0.20
+  exchanges:0.20
+  domains:0.20
+
+Topic 4:
+  btc:0.40
+  onion:0.20
+  domains:0.20
+  exchanges:0.20
+  curious:0.20
+
+K: 5, Log-Likelihood: -9.386, Alpha: 11.000, Beta: 1.100

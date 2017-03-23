@@ -1,0 +1,61 @@
+Topic 0:
+  washing:0.40
+  faygo:0.40
+  chained:0.40
+  mental:0.40
+  desk:0.40
+  ve:0.40
+  rasberry:0.40
+  salu:0.40
+  idea:0.40
+  picture:0.40
+
+Topic 1:
+  sabu:0.40
+  rasberry:0.40
+  desk:0.40
+  picture:0.40
+  computer:0.40
+  mention:0.40
+  washing:0.40
+  salu:0.40
+  ve:0.40
+  cheetos:0.40
+
+Topic 2:
+  salu:0.40
+  computer:0.40
+  desk:0.40
+  ear:0.40
+  idea:0.40
+  mention:0.40
+  cheetos:0.40
+  rasberry:0.40
+  chained:0.40
+  ve:0.40
+
+Topic 3:
+  sabu:0.40
+  mental:0.40
+  ve:0.40
+  faygo:0.40
+  cheetos:0.40
+  idea:0.40
+  picture:0.40
+  mention:0.40
+  ear:0.40
+  chained:0.40
+
+Topic 4:
+  washing:0.40
+  chained:0.40
+  picture:0.40
+  ear:0.40
+  faygo:0.40
+  idea:0.40
+  salu:0.40
+  rasberry:0.40
+  cheetos:0.40
+  mental:0.40
+
+K: 5, Log-Likelihood: -99.163, Alpha: 11.000, Beta: 1.100

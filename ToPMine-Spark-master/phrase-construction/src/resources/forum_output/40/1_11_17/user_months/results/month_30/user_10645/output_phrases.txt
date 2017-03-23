@@ -1,0 +1,61 @@
+Topic 0:
+  reason:0.00
+  leading:0.00
+  discount:0.00
+  determination:0.00
+  required:0.00
+  number:0.00
+  forums:0.00
+  differently:0.00
+  road:0.00
+  supplies:0.00
+
+Topic 1:
+  reason:0.00
+  leading:0.00
+  discount:0.00
+  determination:0.00
+  required:0.00
+  number:0.00
+  forums:0.00
+  differently:0.00
+  road:0.00
+  supplies:0.00
+
+Topic 2:
+  reason:0.00
+  leading:0.00
+  discount:0.00
+  determination:0.00
+  required:0.00
+  number:0.00
+  forums:0.00
+  differently:0.00
+  road:0.00
+  supplies:0.00
+
+Topic 3:
+  reason:0.00
+  leading:0.00
+  discount:0.00
+  determination:0.00
+  required:0.00
+  number:0.00
+  forums:0.00
+  differently:0.00
+  road:0.00
+  supplies:0.00
+
+Topic 4:
+  reason:0.00
+  leading:0.00
+  discount:0.00
+  determination:0.00
+  required:0.00
+  number:0.00
+  forums:0.00
+  differently:0.00
+  road:0.00
+  supplies:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

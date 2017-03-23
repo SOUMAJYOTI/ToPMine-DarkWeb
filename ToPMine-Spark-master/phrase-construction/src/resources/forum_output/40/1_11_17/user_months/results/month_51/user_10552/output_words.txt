@@ -1,0 +1,61 @@
+Topic 0:
+  racial:3.07
+  glasses:1.92
+  recognition:1.84
+  researchers:1.61
+  systems:1.45
+  time:1.03
+  visor:0.97
+  tech:0.94
+  people:0.68
+  privacy:0.67
+
+Topic 1:
+  recognition:6.03
+  racial:5.80
+  researchers:4.26
+  systems:3.42
+  glasses:2.66
+  tech:1.93
+  visor:1.91
+  nii:1.26
+  surveillance:1.25
+  protect:1.25
+
+Topic 2:
+  leds:3.04
+  security:2.11
+  cap:1.81
+  baseball:1.79
+  ir:1.70
+  dont:1.12
+  attention:0.87
+  vision:0.72
+  aged:0.72
+  daylight:0.72
+
+Topic 3:
+  good:1.38
+  lights:1.00
+  hat:0.86
+  places:0.80
+  attention:0.72
+  leds:0.72
+  halo:0.64
+  security:0.63
+  ir:0.62
+  head:0.59
+
+Topic 4:
+  lights:1.81
+  head:1.73
+  halo:1.65
+  ir:1.57
+  hat:1.48
+  attention:1.28
+  good:1.27
+  security:1.14
+  hide:1.03
+  police:1.02
+
+K: 5, Log-Likelihood: -1368.871, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  marketplaces:6.69
+  pgp key:6.69
+  hub:5.34
+  marketplace:4.44
+  marketplace vend:4.44
+  public:4.44
+  state:4.44
+  step:4.44
+  sign:4.44
+  verify seller:4.28
+
+Topic 1:
+  staff member investigation promoting:4.43
+  email market:4.43
+  post time:4.43
+  tradingyou facilitate trades hub:4.43
+  tagc attempt promote trade:4.43
+  official marketplace vendor profile:4.43
+  products sell link:4.43
+  vend action sharing love:4.43
+  users warned suspended deleted:3.58
+  rules:3.58
+
+Topic 2:
+  redacted:4.22
+  guys:4.04
+  agora market:3.43
+  inform opened:3.42
+  activity:3.42
+  redacted selling pandora market:3.25
+  reaceived load brown sugar:3.21
+  reached:3.01
+  advertise goods link marketplace:2.38
+  shop:2.32
+
+Topic 3:
+  misanderstanding:3.38
+  menu:3.38
+  publicity:3.38
+  wanted:3.38
+  satisfaction:3.38
+  deals:3.38
+  market selling:3.37
+  inform product:3.37
+  finished:3.37
+  guys advices:3.37
+
+Topic 4:
+  time:2.92
+  verify seller:2.92
+  thing:2.16
+  vendor:1.91
+  guys:1.74
+  rule users warned suspended:1.61
+  deleted depending:1.59
+  rule:1.59
+  circumstances spotted report violation:1.58
+  pm system exceptions:1.58
+
+K: 5, Log-Likelihood: -2890.867, Alpha: 11.000, Beta: 1.100

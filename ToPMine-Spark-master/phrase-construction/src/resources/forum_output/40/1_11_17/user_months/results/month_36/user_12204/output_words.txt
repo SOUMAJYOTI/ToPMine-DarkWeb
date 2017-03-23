@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.39
+  lle:0.20
+  sama:0.20
+  sis:0.20
+  sitten:0.20
+  viimeisin:0.20
+  testy:0.20
+  kuukausi:0.20
+  vaikka:0.20
+  ll:0.20
+
+Topic 1:
+  ja:0.41
+  message:0.20
+  send:0.20
+  asiakaspalveluun:0.20
+  ostokset:0.20
+  nice:0.20
+  ratkaisemaan:0.20
+  viety:0.20
+  autamme:0.20
+  ss:0.20
+
+Topic 2:
+  ja:0.39
+  sama:0.20
+  ll:0.20
+  reilu:0.20
+  sis:0.20
+  viimeisin:0.20
+  siirto:0.20
+  sitten:0.20
+  testy:0.20
+  kuukausi:0.20
+
+Topic 3:
+  ja:0.39
+  kuukausi:0.20
+  vaikka:0.20
+  reilu:0.20
+  siirto:0.20
+  testy:0.20
+  sis:0.20
+  viimeisin:0.20
+  sama:0.20
+  sitten:0.20
+
+Topic 4:
+  ja:0.41
+  autamme:0.20
+  niin:0.20
+  het:0.20
+  lompakosta:0.20
+  message:0.20
+  send:0.20
+  asiakaspalveluun:0.20
+  viesti:0.20
+  rekem:0.20
+
+K: 5, Log-Likelihood: -155.625, Alpha: 11.000, Beta: 1.100

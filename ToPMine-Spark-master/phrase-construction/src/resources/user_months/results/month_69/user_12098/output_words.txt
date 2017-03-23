@@ -1,0 +1,61 @@
+Topic 0:
+  btc:1.25
+  time:1.01
+  easy:0.97
+  fast:0.97
+  buy:0.77
+  localbitcoin:0.76
+  account:0.68
+  bitcoin:0.66
+  recommend:0.65
+  deposit:0.51
+
+Topic 1:
+  buy:3.45
+  account:0.87
+  good:0.79
+  local:0.78
+  coinbase:0.77
+  personal:0.71
+  btc:0.69
+  markets:0.69
+  limits:0.66
+  ive:0.63
+
+Topic 2:
+  money:4.57
+  site:4.24
+  coins:3.11
+  days:2.87
+  sr:2.87
+  btc:2.09
+  local:1.90
+  good:1.90
+  yea:1.87
+  didnt:1.87
+
+Topic 3:
+  buy:4.23
+  coinbase:3.97
+  ive:3.11
+  limits:3.09
+  markets:3.06
+  personal:3.04
+  dont:2.22
+  deepdotweb:1.33
+  researched:1.32
+  daily:1.32
+
+Topic 4:
+  time:2.22
+  deposit:1.84
+  offer:1.54
+  service:1.53
+  mail:1.53
+  localbitcoin:1.42
+  recommend:1.15
+  bitcoin:1.14
+  bank:0.80
+  hour:0.80
+
+K: 5, Log-Likelihood: -1384.310, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  alice:32.08
+  observing party:26.73
+  party:16.03
+  mac keys:16.03
+  key exchange:16.03
+  message:15.93
+  bob:13.36
+  trusted party:13.36
+  mac key:13.36
+  trust:11.49
+
+Topic 1:
+  tor:5.61
+  info:5.32
+  dont:5.06
+  hackerjon:4.51
+  quote:4.50
+  luck:4.49
+  havent:4.49
+  wall:4.49
+  life sucks:4.49
+  update:4.49
+
+Topic 2:
+  item:7.99
+  stego:6.14
+  desktop:5.32
+  work:5.32
+  tunneling:5.26
+  vpn:5.20
+  firewall:5.20
+  hide:5.17
+  stego program:4.47
+  nsa:4.47
+
+Topic 3:
+  file:20.15
+  steganography:16.03
+  image file:13.36
+  hidden message:10.69
+  secret message:10.69
+  hali linux:8.01
+  images:8.01
+  create text file:8.01
+  attack lab:8.01
+  steghide:8.01
+
+Topic 4:
+  su root account:8.98
+  distros:8.98
+  security:7.31
+  july:7.09
+  september:6.76
+  apt install steghide:5.65
+  suds apt install steghide:5.65
+  oppailover september:5.47
+  useing:5.31
+  suspect:5.26
+
+K: 5, Log-Likelihood: -20518.406, Alpha: 11.000, Beta: 1.100

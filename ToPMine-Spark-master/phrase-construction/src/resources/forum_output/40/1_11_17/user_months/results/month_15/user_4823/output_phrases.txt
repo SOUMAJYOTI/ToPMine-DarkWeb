@@ -1,0 +1,61 @@
+Topic 0:
+  subject:3.90
+  pretty:3.90
+  reply:3.90
+  case:3.90
+  sake:3.90
+  someones:3.90
+  emails:3.90
+  glad:3.90
+  good hear:3.90
+  cool:3.90
+
+Topic 1:
+  search:3.90
+  ecosystem:3.90
+  paper:3.90
+  interesting:3.90
+  mixing:3.90
+  interested:3.90
+  scientific:3.90
+  pdf:3.90
+  laundering:3.90
+  aware:3.90
+
+Topic 2:
+  transaction:3.90
+  stressful:3.90
+  wow:3.90
+  blockchain support:3.90
+  careless:3.90
+  plate:3.90
+  happened:3.90
+  btc:3.90
+  managed:3.90
+  track:3.90
+
+Topic 3:
+  man:4.60
+  double:3.86
+  bummer:3.86
+  eventually:3.86
+  save:3.85
+  editing:3.85
+  button:3.85
+  good luck:3.85
+  locate:3.85
+  vendor send:3.85
+
+Topic 4:
+  fuck terrible reason learn:4.81
+  yeah:3.90
+  addresses:3.90
+  email recover:3.90
+  additional:3.90
+  address:3.90
+  wanted:3.90
+  scroat:3.90
+  stuck:3.90
+  layer:3.90
+
+K: 5, Log-Likelihood: -2374.074, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  site:2.32
+  reviews:1.40
+  search:1.37
+  verify:0.65
+  grams:0.55
+  pops:0.55
+  great:0.55
+  products:0.55
+  everybodywhen:0.55
+  grateful:0.55
+
+Topic 1:
+  lol:0.68
+  gold:0.61
+  verify:0.61
+  search:0.52
+  users:0.44
+  market:0.37
+  hidden:0.37
+  doubt:0.35
+  point:0.35
+  dont:0.35
+
+Topic 2:
+  users:1.88
+  items:1.67
+  guy:0.97
+  day:0.96
+  sites:0.95
+  times:0.95
+  gold:0.63
+  websites:0.57
+  nickel:0.57
+  point:0.56
+
+Topic 3:
+  gold:0.70
+  users:0.65
+  verify:0.64
+  lol:0.52
+  real:0.43
+  point:0.43
+  trust:0.43
+  doubt:0.43
+  search:0.43
+  coat:0.43
+
+Topic 4:
+  users:0.86
+  gold:0.81
+  verify:0.61
+  items:0.58
+  real:0.51
+  nickel:0.51
+  coat:0.50
+  dont:0.50
+  trust:0.50
+  doubt:0.50
+
+K: 5, Log-Likelihood: -482.207, Alpha: 11.000, Beta: 1.100

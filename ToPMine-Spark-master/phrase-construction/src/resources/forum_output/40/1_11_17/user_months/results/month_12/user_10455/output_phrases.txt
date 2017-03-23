@@ -1,0 +1,61 @@
+Topic 0:
+  money:3.97
+  good:2.48
+  mouth:1.90
+  mark:1.90
+  cred:1.90
+  question:1.90
+  albums:1.90
+  fifty:1.90
+  street:1.90
+  buying:1.90
+
+Topic 1:
+  day:4.04
+  scanners scrapers:3.64
+  prevent bots automated:3.63
+  booted:3.11
+  pmits:3.11
+  test:3.11
+  simple:1.96
+  normal:1.96
+  boots:1.96
+  pitchy:1.96
+
+Topic 2:
+  music:4.05
+  support:2.77
+  album marketing sense bitcoin:2.71
+  dont fifty cent buy:2.25
+  trc:2.24
+  ami:2.22
+  business:1.97
+  buy:1.97
+  small:1.97
+  pockets:1.97
+
+Topic 3:
+  pmhahaha god ribs cent:3.56
+  ant june:3.56
+  unit:2.84
+  bitcoin:2.83
+  lmao:2.82
+  bi bi bi:2.82
+  full credit bravest:2.51
+  light revelation decided edit:2.42
+  btc coming:2.35
+  album:2.12
+
+Topic 4:
+  giant:3.12
+  blinged:3.12
+  medallion:3.12
+  bitin:3.12
+  neck:3.12
+  wear:3.11
+  boogie:2.20
+  pmhell:1.90
+  oxymoron:1.90
+  blinged btc:1.90
+
+K: 5, Log-Likelihood: -1326.951, Alpha: 11.000, Beta: 1.100

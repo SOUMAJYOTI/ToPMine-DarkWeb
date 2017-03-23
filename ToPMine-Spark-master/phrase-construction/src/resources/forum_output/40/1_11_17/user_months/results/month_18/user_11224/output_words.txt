@@ -1,0 +1,61 @@
+Topic 0:
+  evo:0.40
+  buyer:0.40
+  customers:0.40
+  vouched:0.20
+  goods:0.20
+  heard:0.20
+  told:0.20
+  scammer:0.20
+  bad:0.20
+  sadly:0.20
+
+Topic 1:
+  customers:0.40
+  buyer:0.40
+  evo:0.40
+  goods:0.20
+  vending:0.20
+  true:0.20
+  post:0.20
+  account:0.20
+  vouched:0.20
+  sadly:0.20
+
+Topic 2:
+  buyer:0.40
+  evo:0.40
+  customers:0.40
+  vouched:0.20
+  told:0.20
+  sadly:0.20
+  unlock:0.20
+  account:0.20
+  heard:0.20
+  post:0.20
+
+Topic 3:
+  customers:0.40
+  evo:0.40
+  buyer:0.40
+  scammer:0.20
+  sadly:0.20
+  told:0.20
+  post:0.20
+  unlock:0.20
+  account:0.20
+  true:0.20
+
+Topic 4:
+  buyer:0.40
+  evo:0.40
+  customers:0.40
+  unlock:0.20
+  scammer:0.20
+  bad:0.20
+  vending:0.20
+  account:0.20
+  true:0.20
+  heard:0.20
+
+K: 5, Log-Likelihood: -47.933, Alpha: 11.000, Beta: 1.100

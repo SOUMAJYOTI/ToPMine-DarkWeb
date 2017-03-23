@@ -1,0 +1,61 @@
+Topic 0:
+  people:22.41
+  good:11.15
+  high:9.19
+  debt:9.14
+  schools:9.13
+  great:7.70
+  harvard:7.51
+  authority:6.30
+  school:6.29
+  things:5.64
+
+Topic 1:
+  live:9.11
+  find:8.45
+  mentality:5.96
+  anarchism:5.82
+  type:5.60
+  political:4.40
+  man:4.17
+  ideal:4.02
+  radical:3.97
+  groups:3.97
+
+Topic 2:
+  money:21.52
+  school:12.42
+  shit:12.28
+  truck:11.97
+  people:11.43
+  job:11.37
+  stuff:10.83
+  smart:10.06
+  fuck:7.00
+  remember:6.12
+
+Topic 3:
+  college:30.44
+  system:10.21
+  time:9.98
+  teachers:9.08
+  people:8.44
+  kids:7.57
+  education:7.37
+  debt:6.26
+  learn:5.97
+  dont:5.73
+
+Topic 4:
+  theories:17.97
+  people:16.82
+  education:13.77
+  general:9.20
+  dont:8.64
+  don:8.47
+  psychedelic:7.97
+  anarchist:7.97
+  society:7.92
+  movement:7.32
+
+K: 5, Log-Likelihood: -14509.842, Alpha: 11.000, Beta: 1.100

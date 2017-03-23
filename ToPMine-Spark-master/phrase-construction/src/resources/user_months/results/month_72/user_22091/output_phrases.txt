@@ -1,0 +1,61 @@
+Topic 0:
+  invite:3.51
+  bonus:3.51
+  ad:3.51
+  earn:3.51
+  increase:3.51
+  find:1.72
+  friends:1.72
+  blogs:1.72
+  inviting:1.72
+  percentage:1.72
+
+Topic 1:
+  markets:3.51
+  market market:2.34
+  true:2.34
+  generous:2.34
+  issues:2.34
+  secured:2.34
+  quotevalhalla:2.34
+  bug:2.34
+  thread clean:2.34
+  bounty:2.34
+
+Topic 2:
+  silkkitie valhalla:3.46
+  noticed:1.83
+  puts:1.67
+  english:1.67
+  kind:1.67
+  largest:1.67
+  opinions:1.67
+  changed:1.67
+  english market:1.67
+  agree:1.67
+
+Topic 3:
+  market:1.57
+  deepdotweb:1.45
+  valhalla:1.09
+  reminds:0.98
+  place:0.98
+  reaped:0.98
+  bmr:0.98
+  guys:0.85
+  idea:0.85
+  markets:0.85
+
+Topic 4:
+  ve:8.89
+  admin:3.51
+  lot:3.51
+  great:2.04
+  responsive:1.72
+  input:1.72
+  forward:1.72
+  extremely:1.72
+  haven:1.72
+  aid:1.72
+
+K: 5, Log-Likelihood: -2042.740, Alpha: 11.000, Beta: 1.100

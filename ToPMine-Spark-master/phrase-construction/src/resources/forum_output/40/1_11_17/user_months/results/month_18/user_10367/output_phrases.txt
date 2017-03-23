@@ -1,0 +1,61 @@
+Topic 0:
+  rc:3.24
+  time:3.21
+  business:2.94
+  downtime:2.23
+  struggling:2.09
+  command:2.09
+  list:2.09
+  log:2.09
+  agra market:2.09
+  order:2.09
+
+Topic 1:
+  markets:5.64
+  buyers:4.21
+  vendors:4.21
+  long:4.21
+  performance:4.21
+  spread:4.21
+  evo:4.21
+  vend:4.09
+  sales:4.09
+  sr:3.20
+
+Topic 2:
+  orders:4.16
+  days:3.40
+  agora:3.10
+  market:3.05
+  sr:2.57
+  pmyou:2.40
+  realize sr ddosing agora:2.35
+  quote evilgrin august:2.25
+  lot:2.07
+  period:2.07
+
+Topic 3:
+  cover:3.37
+  word:3.37
+  cya:3.37
+  buy drugs:3.37
+  fact:3.37
+  purposes:3.37
+  enterprise:3.37
+  properly:3.37
+  online:3.37
+  people:3.37
+
+Topic 4:
+  august pmquote:5.13
+  onion:5.13
+  tor users host:4.17
+  tor launched year:4.17
+  worry red article:4.17
+  link memories remember extension:4.17
+  month ago talking application:4.17
+  quote:3.82
+  problem:3.39
+  setting:3.39
+
+K: 5, Log-Likelihood: -3118.566, Alpha: 11.000, Beta: 1.100

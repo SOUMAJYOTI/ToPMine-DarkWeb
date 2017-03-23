@@ -1,0 +1,61 @@
+Topic 0:
+  worth:0.41
+  wordpress:0.40
+  sites:0.20
+  payment:0.20
+  hacking:0.20
+  amim:0.20
+  lost:0.20
+  plunderinpete:0.20
+  quit:0.20
+  bitcoins:0.20
+
+Topic 1:
+  wordpress:0.40
+  worth:0.40
+  sites:0.20
+  customers:0.20
+  quit:0.20
+  quote:0.20
+  base:0.20
+  reading:0.20
+  bitcoins:0.20
+  january:0.20
+
+Topic 2:
+  wordpress:0.40
+  worth:0.40
+  hacking:0.20
+  customers:0.20
+  amim:0.20
+  steal:0.20
+  find:0.20
+  plunderinpete:0.20
+  reading:0.20
+  lost:0.20
+
+Topic 3:
+  worth:0.40
+  wordpress:0.40
+  payment:0.20
+  quote:0.20
+  jump:0.20
+  find:0.20
+  steal:0.20
+  reading:0.20
+  amim:0.20
+  january:0.20
+
+Topic 4:
+  wordpress:0.40
+  worth:0.40
+  quit:0.20
+  base:0.20
+  jump:0.20
+  lost:0.20
+  plunderinpete:0.20
+  find:0.20
+  hacking:0.20
+  bitcoins:0.20
+
+K: 5, Log-Likelihood: -57.193, Alpha: 11.000, Beta: 1.100

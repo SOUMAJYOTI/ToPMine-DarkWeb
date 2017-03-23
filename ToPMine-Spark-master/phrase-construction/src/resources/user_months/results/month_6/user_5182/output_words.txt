@@ -1,0 +1,61 @@
+Topic 0:
+  key:3.16
+  fez:2.87
+  lrf:2.81
+  pgp:2.04
+  cul:1.72
+  af:1.63
+  note:1.63
+  hash:1.02
+  pip:1.01
+  esm:1.01
+
+Topic 1:
+  santa:3.85
+  vendor:2.14
+  don:1.29
+  place:1.27
+  congrats:1.25
+  good:1.21
+  great:1.18
+  nic:0.95
+  saint:0.80
+  confidence:0.61
+
+Topic 2:
+  lrf:1.68
+  fez:1.63
+  pgp:1.46
+  key:1.37
+  af:0.94
+  note:0.94
+  cul:0.87
+  mdma:0.70
+  usk:0.66
+  hcxitt:0.66
+
+Topic 3:
+  vendor:0.97
+  thread:0.55
+  lsd:0.54
+  santa:0.54
+  lrf:0.41
+  pgp:0.40
+  fez:0.40
+  key:0.37
+  great:0.36
+  mdma:0.35
+
+Topic 4:
+  saint:4.88
+  washed:2.95
+  nic:2.69
+  nice:2.37
+  mdma:2.02
+  wash:1.95
+  acetone:1.95
+  tested:1.95
+  directly:1.95
+  products:1.72
+
+K: 5, Log-Likelihood: -3741.793, Alpha: 11.000, Beta: 1.100

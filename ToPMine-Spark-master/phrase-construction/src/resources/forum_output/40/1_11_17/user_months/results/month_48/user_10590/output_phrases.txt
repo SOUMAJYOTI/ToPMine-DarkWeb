@@ -1,0 +1,61 @@
+Topic 0:
+  layer:2.21
+  matter:1.00
+  decloaking:1.00
+  doesnt:1.00
+  php:1.00
+  secure onion:1.00
+  exploited:1.00
+  perl:1.00
+  experiment:1.00
+  bottom:1.00
+
+Topic 1:
+  pick:2.21
+  squimish:0.99
+  good:0.99
+  considered:0.99
+  choice:0.99
+  server isnt:0.99
+  apache:0.99
+  securing:0.99
+  skip:0.99
+  step:0.99
+
+Topic 2:
+  tor:2.34
+  host:2.34
+  interesting:2.34
+  system:2.34
+  secure:1.90
+  overkill:1.09
+  process:1.09
+  find:1.09
+  online:1.09
+  open:1.09
+
+Topic 3:
+  tutorials:2.34
+  expert:2.34
+  question:2.34
+  ira:1.09
+  smallest:1.09
+  market:1.09
+  ops:1.09
+  settings:1.09
+  hacker:1.09
+  sites:1.09
+
+Topic 4:
+  completely anonymous:2.03
+  create:0.77
+  dont:0.77
+  wan:0.77
+  answers:0.76
+  curious:0.76
+  jebusite:0.76
+  thought:0.76
+  making:0.76
+  onion sites:0.62
+
+K: 5, Log-Likelihood: -947.906, Alpha: 11.000, Beta: 1.100

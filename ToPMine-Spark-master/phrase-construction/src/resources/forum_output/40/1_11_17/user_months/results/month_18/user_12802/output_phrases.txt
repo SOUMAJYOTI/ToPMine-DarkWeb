@@ -1,0 +1,61 @@
+Topic 0:
+  pirate market:0.64
+  problem:0.37
+  market:0.36
+  hours:0.36
+  enter:0.31
+  moredq:0.31
+  busy:0.31
+  hope:0.31
+  doesnt:0.31
+  problems:0.31
+
+Topic 1:
+  pirate market:0.59
+  hours:0.40
+  problem:0.40
+  market:0.38
+  quote:0.29
+  pmsorry:0.29
+  june:0.29
+  update:0.28
+  status:0.28
+  handy:0.28
+
+Topic 2:
+  pirate market:0.57
+  hours:0.41
+  problem:0.40
+  market:0.38
+  update:0.29
+  pmsorry:0.29
+  june:0.29
+  quote:0.29
+  tool:0.29
+  deepdotweb:0.29
+
+Topic 3:
+  pirate market:0.60
+  problem:0.40
+  hours:0.39
+  market:0.38
+  quote:0.28
+  june:0.28
+  pmsorry:0.28
+  borring:0.28
+  update:0.28
+  days:0.28
+
+Topic 4:
+  pirate market:0.56
+  problem:0.40
+  hours:0.39
+  market:0.38
+  dont:0.29
+  recall:0.29
+  downtime:0.29
+  announcement:0.29
+  wait:0.29
+  deepdotweb:0.28
+
+K: 5, Log-Likelihood: -164.402, Alpha: 11.000, Beta: 1.100

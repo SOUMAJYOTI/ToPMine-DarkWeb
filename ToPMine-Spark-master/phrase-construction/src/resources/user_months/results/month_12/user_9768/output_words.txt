@@ -1,0 +1,61 @@
+Topic 0:
+  set:12.21
+  community:8.82
+  irc:7.86
+  account:7.48
+  time:6.33
+  service:6.02
+  proxy:4.95
+  users:4.89
+  dark:4.89
+  free:4.73
+
+Topic 1:
+  tor:7.19
+  settings:6.51
+  june:6.32
+  site:5.11
+  browser:4.89
+  port:3.90
+  service:3.83
+  stuff:3.62
+  server:3.22
+  quote:2.91
+
+Topic 2:
+  quote:9.20
+  servers:8.69
+  wallet:7.90
+  site:7.66
+  hosting:6.87
+  promise:3.93
+  federal:3.92
+  stops:3.92
+  honestcocaine:3.18
+  company:3.16
+
+Topic 3:
+  tor:21.81
+  port:17.95
+  connect:13.45
+  server:12.18
+  password:12.18
+  sillywabbit:9.77
+  gaf:9.03
+  onion:9.03
+  drv:8.98
+  rm:8.95
+
+Topic 4:
+  email:10.69
+  address:7.60
+  check:5.46
+  find:4.71
+  site:4.29
+  dont:3.74
+  mail:3.52
+  java:2.90
+  trolltergeist:2.62
+  register:2.37
+
+K: 5, Log-Likelihood: -6860.022, Alpha: 11.000, Beta: 1.100

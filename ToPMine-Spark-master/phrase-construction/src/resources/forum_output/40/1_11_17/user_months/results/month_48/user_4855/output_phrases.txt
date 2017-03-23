@@ -1,0 +1,61 @@
+Topic 0:
+  lawyer:15.86
+  moderators:8.31
+  vendors:6.23
+  ross:4.21
+  advises:4.15
+  accused:4.15
+  fund:4.15
+  paid:4.15
+  attitude:4.15
+  emergency:4.15
+
+Topic 1:
+  personal key:12.47
+  vpn:11.53
+  key:10.39
+  pip public key:10.39
+  click:8.52
+  public key:8.38
+  tor vpn:8.33
+  virtual machine:8.31
+  exif data:8.27
+  exit node:8.23
+
+Topic 2:
+  exit node:18.53
+  private key:11.10
+  public key:11.01
+  live operating system:10.38
+  entry node:10.38
+  operating system:8.41
+  virtual box:8.35
+  hard drive:8.35
+  curtis green:8.31
+  fake ids:8.31
+
+Topic 3:
+  vpn:11.89
+  meta data:7.64
+  providers:6.86
+  tor:6.84
+  connected vpn:6.23
+  public wifi:6.23
+  tor vpn:5.05
+  javascript enabled:5.01
+  disable javascript:5.01
+  javascript:4.21
+
+Topic 4:
+  file shredding:12.18
+  tracking cookies:10.38
+  times:8.31
+  message:6.93
+  disk encryption:6.93
+  vulnerability:6.23
+  goggle ads:6.22
+  cookies:6.22
+  google:4.28
+  full:4.15
+
+K: 5, Log-Likelihood: -44056.538, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  hsi:11.22
+  silk road:9.36
+  benthall:8.62
+  trust:8.62
+  alleged:8.61
+  smite:8.47
+  undercover:4.98
+  interact:4.30
+  place shut:4.30
+  admins trust:4.30
+
+Topic 1:
+  people:5.19
+  safe:3.61
+  lsd:2.80
+  ahead:2.54
+  ireland:2.54
+  influx:2.54
+  release:2.54
+  credit discussion:2.54
+  press:2.54
+  guess agora:2.54
+
+Topic 2:
+  sites:15.24
+  escobar:12.93
+  hidden:8.61
+  cloud:8.61
+  forum:8.54
+  undercover investigator:8.54
+  site:7.75
+  staff:6.42
+  bulgarian hosting:6.21
+  closed btc escrow order:5.88
+
+Topic 3:
+  drugs:34.50
+  people:13.42
+  drug:13.22
+  caused:8.60
+  lives:8.60
+  bunch:8.60
+  problem:8.60
+  public:8.60
+  illicit drugs:8.60
+  big:8.60
+
+Topic 4:
+  quote sillywabbit november:8.60
+  deal:8.60
+  nomenclature:8.60
+  won:6.44
+  stay safe:6.27
+  lsd:5.46
+  drug:4.92
+  funny:4.28
+  libertarianism:4.28
+  word:4.28
+
+K: 5, Log-Likelihood: -22098.288, Alpha: 11.000, Beta: 1.100

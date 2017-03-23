@@ -1,0 +1,61 @@
+Topic 0:
+  keys:1.59
+  vendor:1.13
+  pgp:0.93
+  market:0.90
+  virtual:0.75
+  security:0.68
+  time:0.65
+  linked:0.65
+  buyer:0.55
+  names:0.55
+
+Topic 1:
+  time:2.77
+  virtual:2.62
+  names:1.94
+  buyer:1.94
+  access:1.17
+  real:1.17
+  side:1.17
+  problem:1.17
+  things:1.17
+  email:1.17
+
+Topic 2:
+  keys:2.02
+  market:1.16
+  pgp:1.12
+  vendor:0.98
+  security:0.88
+  thought:0.55
+  max:0.55
+  key:0.55
+  suppose:0.55
+  trusted:0.55
+
+Topic 3:
+  reputation:1.30
+  vendor:1.25
+  character:1.22
+  continuity:1.07
+  years:0.82
+  buyers:0.82
+  operation:0.81
+  useless:0.80
+  seller:0.80
+  changing:0.80
+
+Topic 4:
+  continuity:1.82
+  character:1.67
+  reputation:1.17
+  identity:1.15
+  finding:1.13
+  trust:1.12
+  weeks:1.11
+  changing:1.10
+  seller:1.10
+  useless:1.09
+
+K: 5, Log-Likelihood: -1072.377, Alpha: 11.000, Beta: 1.100

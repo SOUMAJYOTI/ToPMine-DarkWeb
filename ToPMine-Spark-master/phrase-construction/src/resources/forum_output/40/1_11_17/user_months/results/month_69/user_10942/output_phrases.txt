@@ -1,0 +1,61 @@
+Topic 0:
+  server:0.24
+  dont:0.16
+  virtual:0.16
+  isolation:0.16
+  grsec:0.16
+  web:0.16
+  compromise:0.16
+  absolute:0.08
+  learning:0.08
+  nginx:0.08
+
+Topic 1:
+  server:0.24
+  web:0.16
+  dont:0.16
+  compromise:0.16
+  virtual:0.16
+  isolation:0.16
+  grsec:0.16
+  life:0.08
+  posts:0.08
+  point:0.08
+
+Topic 2:
+  server:0.24
+  compromise:0.16
+  dont:0.16
+  web:0.16
+  grsec:0.16
+  isolation:0.16
+  virtual:0.16
+  works:0.08
+  machines:0.08
+  system:0.08
+
+Topic 3:
+  server:0.24
+  virtual:0.16
+  compromise:0.16
+  isolation:0.16
+  grsec:0.16
+  dont:0.16
+  web:0.16
+  point:0.08
+  coming:0.08
+  scene:0.08
+
+Topic 4:
+  server:0.24
+  grsec:0.16
+  web:0.16
+  isolation:0.16
+  virtual:0.16
+  compromise:0.16
+  dont:0.16
+  drugs:0.08
+  life:0.08
+  happened:0.08
+
+K: 5, Log-Likelihood: -95.408, Alpha: 11.000, Beta: 1.100

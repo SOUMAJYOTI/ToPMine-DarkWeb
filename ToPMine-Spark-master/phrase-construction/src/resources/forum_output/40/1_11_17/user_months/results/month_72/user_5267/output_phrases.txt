@@ -1,0 +1,61 @@
+Topic 0:
+  western union:3.74
+  flag:3.59
+  reason:3.59
+  sending:3.59
+  send:3.59
+  cancelled:3.59
+  people:3.59
+  payments:3.59
+  money moneygram:3.59
+  tendency:3.59
+
+Topic 1:
+  repaid card:7.13
+  cash:4.58
+  pick:4.39
+  libertyx:3.45
+  higher:3.45
+  exchanges:3.45
+  card bitcoin:3.45
+  rate:3.45
+  gift:3.45
+  cheapest:3.45
+
+Topic 2:
+  cash deposits:4.16
+  localbitcoins:3.41
+  coins:2.17
+  january:2.17
+  account number:2.17
+  deeper detail unsure sort:2.17
+  pmim:2.17
+  needed:2.17
+  quote:2.17
+  hofmannite:2.17
+
+Topic 3:
+  buy:7.25
+  phone number:7.24
+  places:3.56
+  signup:3.56
+  phone:3.56
+  asks:3.56
+  address:3.56
+  anonymity:3.56
+  understand:3.56
+  liberty:3.56
+
+Topic 4:
+  info:4.36
+  throw:3.55
+  things:3.55
+  incompetence:3.55
+  require:3.55
+  pillar:3.55
+  walmart:3.55
+  towering:3.55
+  bit:3.55
+  false:3.55
+
+K: 5, Log-Likelihood: -2043.237, Alpha: 11.000, Beta: 1.100

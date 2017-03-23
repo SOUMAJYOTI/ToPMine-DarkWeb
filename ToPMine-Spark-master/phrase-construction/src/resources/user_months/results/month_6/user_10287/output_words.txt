@@ -1,0 +1,61 @@
+Topic 0:
+  kansainv:2.49
+  ja:1.71
+  market:1.66
+  marketthe:1.65
+  road:1.50
+  tulee:1.50
+  tai:1.31
+  edes:1.28
+  mit:0.99
+  jos:0.85
+
+Topic 1:
+  tulee:2.83
+  ja:2.65
+  varmasti:2.43
+  tai:2.07
+  kpl:1.37
+  jos:1.34
+  joku:1.08
+  sen:1.07
+  ss:1.06
+  mit:0.89
+
+Topic 2:
+  tai:4.53
+  hope:2.81
+  pit:2.62
+  ja:2.15
+  voisi:1.88
+  kun:1.76
+  aina:1.76
+  se:1.75
+  vaikka:1.66
+  mit:1.42
+
+Topic 3:
+  ja:6.74
+  ihan:2.01
+  douppikaupan:1.86
+  koskien:1.86
+  st:1.51
+  black:1.41
+  tulee:1.06
+  heti:0.97
+  marketissa:0.87
+  joka:0.87
+
+Topic 4:
+  ja:7.75
+  sh:4.70
+  myyj:3.94
+  hyv:3.40
+  ll:3.18
+  maksutavan:1.94
+  pakko:1.94
+  ytt:1.88
+  vain:1.77
+  lle:1.72
+
+K: 5, Log-Likelihood: -3516.260, Alpha: 11.000, Beta: 1.100

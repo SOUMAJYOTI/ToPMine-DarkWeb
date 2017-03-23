@@ -1,0 +1,61 @@
+Topic 0:
+  authors:1.85
+  alpha:1.05
+  money:0.88
+  chromium:0.79
+  contacting:0.79
+  ignore:0.79
+  version:0.79
+  download:0.79
+  amount:0.79
+  zaphodp:0.79
+
+Topic 1:
+  car:0.98
+  service:0.97
+  bridge:0.93
+  clearnet:0.48
+  change:0.48
+  middle:0.48
+  bitblendervrfkzr:0.48
+  maggiethatcher:0.48
+  posts:0.48
+  activities:0.48
+
+Topic 2:
+  pull:0.65
+  confirmations:0.65
+  dont:0.65
+  wallet dont:0.65
+  problem:0.65
+  forum:0.65
+  complaining:0.65
+  gatewy:0.65
+  told:0.65
+  money:0.49
+
+Topic 3:
+  money:0.69
+  forum:0.58
+  complaining:0.58
+  told:0.58
+  gatewy:0.57
+  wallet dont:0.57
+  problem:0.57
+  dont:0.57
+  pull:0.57
+  confirmations:0.57
+
+Topic 4:
+  bridge:1.33
+  service:1.29
+  car:1.27
+  mixers:0.58
+  stated:0.58
+  today:0.58
+  point car:0.58
+  feel:0.58
+  cruise:0.58
+  mind:0.58
+
+K: 5, Log-Likelihood: -724.214, Alpha: 11.000, Beta: 1.100

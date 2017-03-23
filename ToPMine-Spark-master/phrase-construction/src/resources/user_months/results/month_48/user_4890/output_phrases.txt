@@ -1,0 +1,61 @@
+Topic 0:
+  btc:0.64
+  exchange:0.61
+  site:0.60
+  place:0.56
+  agora:0.52
+  learned:0.48
+  hido:0.48
+  currencies:0.48
+  trusted:0.48
+  fine:0.48
+
+Topic 1:
+  place:0.61
+  agora:0.60
+  btc:0.58
+  friends:0.56
+  exchange:0.53
+  site:0.52
+  fiat:0.47
+  market:0.39
+  atm:0.39
+  aprt:0.39
+
+Topic 2:
+  agora:0.63
+  fixed:0.58
+  hidid:0.57
+  problem:0.57
+  founds:0.57
+  send:0.57
+  weeks:0.57
+  heard:0.56
+  claim:0.56
+  work:0.56
+
+Topic 3:
+  btc:0.58
+  agora:0.58
+  fiat:0.52
+  site:0.50
+  claim:0.50
+  problem:0.50
+  fixed:0.50
+  work:0.50
+  heard:0.50
+  founds:0.50
+
+Topic 4:
+  agora:0.73
+  heard:0.56
+  send:0.56
+  weeks:0.56
+  hidid:0.56
+  founds:0.56
+  work:0.55
+  claim:0.55
+  problem:0.55
+  friends:0.55
+
+K: 5, Log-Likelihood: -390.741, Alpha: 11.000, Beta: 1.100

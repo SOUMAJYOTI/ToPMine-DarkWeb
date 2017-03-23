@@ -1,0 +1,56 @@
+Topic 0:
+  op:0.00
+  mail:0.00
+  replace:0.00
+  safe:0.00
+  recommendation:0.00
+  net:0.00
+  sigaint:0.00
+  email:0.00
+  javascript:0.00
+
+Topic 1:
+  op:0.00
+  mail:0.00
+  replace:0.00
+  safe:0.00
+  recommendation:0.00
+  net:0.00
+  sigaint:0.00
+  email:0.00
+  javascript:0.00
+
+Topic 2:
+  op:0.00
+  mail:0.00
+  replace:0.00
+  safe:0.00
+  recommendation:0.00
+  net:0.00
+  sigaint:0.00
+  email:0.00
+  javascript:0.00
+
+Topic 3:
+  op:0.00
+  mail:0.00
+  replace:0.00
+  safe:0.00
+  recommendation:0.00
+  net:0.00
+  sigaint:0.00
+  email:0.00
+  javascript:0.00
+
+Topic 4:
+  op:0.00
+  mail:0.00
+  replace:0.00
+  safe:0.00
+  recommendation:0.00
+  net:0.00
+  sigaint:0.00
+  email:0.00
+  javascript:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

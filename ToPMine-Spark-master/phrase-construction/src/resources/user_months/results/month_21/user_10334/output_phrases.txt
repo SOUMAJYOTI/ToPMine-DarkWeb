@@ -1,0 +1,61 @@
+Topic 0:
+  passwords:7.21
+  admins shrug shoulders deem:6.42
+  market hacked:6.42
+  ship market:6.42
+  onionshop:5.96
+  hole:5.11
+  hardcoded:5.11
+  monitoring:5.11
+  prevented:5.11
+  addresses:5.10
+
+Topic 1:
+  onionshop:8.83
+  access db:7.69
+  btc:7.69
+  orders:7.69
+  vulnerability:6.65
+  time:6.30
+  code:5.92
+  unload script:5.12
+  pool:5.12
+  version:5.12
+
+Topic 2:
+  august:7.37
+  young man:6.41
+  wrong imaginations man passwords:5.48
+  stored gray matter ears:5.48
+  quote:5.32
+  computers:5.11
+  users:5.11
+  risks:5.11
+  pw:5.07
+  sites:5.07
+
+Topic 3:
+  attacker:10.59
+  sha:8.77
+  random english sentence:7.69
+  bits entropy:7.69
+  plain crypt:5.12
+  cryptsetup:5.12
+  passphrase entropy:5.12
+  element:5.12
+  default:5.12
+  chars:5.12
+
+Topic 4:
+  zoedhqlxemmgs:2.56
+  zrj:2.56
+  kbjlor:2.56
+  bintq:2.56
+  ronvvalyh:2.56
+  bsce:2.56
+  rbjcs:2.56
+  rcs:2.56
+  lmyl:2.56
+  zdlsttyfv:2.56
+
+K: 5, Log-Likelihood: -16856.398, Alpha: 11.000, Beta: 1.100

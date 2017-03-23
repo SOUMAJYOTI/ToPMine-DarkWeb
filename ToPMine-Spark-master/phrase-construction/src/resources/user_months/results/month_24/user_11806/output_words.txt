@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:0.69
+  signature:0.48
+  dmuyhiraamp:0.24
+  xsk:0.24
+  jhdz:0.24
+  hfnsqs:0.24
+  amrzmqnb:0.24
+  aufnjcvclf:0.24
+  vujiga:0.24
+  xx:0.24
+
+Topic 1:
+  pgp:0.79
+  signature:0.49
+  bkrputoehgqkffobuw:0.24
+  oa:0.24
+  mx:0.24
+  efq:0.24
+  kuwcxceqaei:0.24
+  thixhbsr:0.24
+  qqzegby:0.24
+  vnxftal:0.24
+
+Topic 2:
+  pgp:0.71
+  signature:0.48
+  aaojeexovwculh:0.24
+  jsghzkukqmfu:0.24
+  hash:0.24
+  ejbojrzt:0.24
+  ltim:0.24
+  sleq:0.24
+  mixz:0.24
+  hkzbxvn:0.24
+
+Topic 3:
+  pgp:0.76
+  signature:0.50
+  ylnmu:0.24
+  cerxao:0.24
+  vvxqmyy:0.24
+  wir:0.24
+  nykolsv:0.24
+  jg:0.24
+  unseen:0.24
+  gnupg:0.24
+
+Topic 4:
+  scallion:2.80
+  tough:0.82
+  domain:0.82
+  pretty:0.82
+  seraphic:0.82
+  onion:0.82
+  working:0.82
+  command:0.82
+  runscallion:0.82
+  late:0.82
+
+K: 5, Log-Likelihood: -636.761, Alpha: 11.000, Beta: 1.100

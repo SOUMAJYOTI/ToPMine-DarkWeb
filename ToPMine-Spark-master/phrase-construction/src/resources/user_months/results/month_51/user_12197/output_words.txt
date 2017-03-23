@@ -1,0 +1,61 @@
+Topic 0:
+  ytt:7.83
+  mutta:4.87
+  ett:3.63
+  benjomarket:2.91
+  olevan:2.88
+  quote:1.87
+  vain:1.87
+  vastaa:1.87
+  varokaahan:1.87
+  kusettaa:1.87
+
+Topic 1:
+  refund:4.16
+  forum:2.60
+  case:2.21
+  btc:1.95
+  benjomarket:1.92
+  suspend:1.55
+  solve:1.52
+  care:1.48
+  moderators:1.44
+  evidence:1.43
+
+Topic 2:
+  kapteeni:8.41
+  btc:5.25
+  log:5.21
+  snik:4.97
+  august:4.64
+  chat:3.68
+  wrong:2.87
+  read:2.78
+  asiakaspalvelu:2.74
+  suspend:2.58
+
+Topic 3:
+  read:7.95
+  kapteeni:5.97
+  btc:4.20
+  log:3.70
+  chat:3.53
+  package:3.39
+  send:2.95
+  contact:2.41
+  august:2.17
+  benjomarket:2.00
+
+Topic 4:
+  btc:4.37
+  kapteeni:3.98
+  forum:2.97
+  august:2.89
+  case:2.29
+  log:2.15
+  benjomarket:1.95
+  suspend:1.75
+  agora:1.72
+  chat:1.68
+
+K: 5, Log-Likelihood: -2755.336, Alpha: 11.000, Beta: 1.100

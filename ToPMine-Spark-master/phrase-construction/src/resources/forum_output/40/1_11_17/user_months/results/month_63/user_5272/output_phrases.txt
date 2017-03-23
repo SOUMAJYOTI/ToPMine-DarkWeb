@@ -1,0 +1,61 @@
+Topic 0:
+  address:6.30
+  virtual:3.83
+  steam:3.83
+  bitcoin:3.83
+  dealings:3.83
+  eur:3.83
+  sbbfn:3.83
+  tor:3.83
+  xb:3.83
+  till:3.83
+
+Topic 1:
+  number private message:5.49
+  money money checked friend:5.49
+  hallucinating copy pasted:5.49
+  human confused happened told:5.49
+  albion trustworthy general gamesome:5.49
+  admins techwizards bitcoinmessiahs:5.49
+  human error:5.22
+  happened:4.81
+  strange:3.76
+  hereyou:3.76
+
+Topic 2:
+  computer:4.67
+  activities:4.67
+  kind:3.76
+  fucking address:3.08
+  hurts:3.02
+  acct:2.96
+  logged:2.95
+  ass:2.94
+  attack:2.93
+  left:2.92
+
+Topic 3:
+  friend:7.71
+  angry worst:4.98
+  shit luck change content:4.97
+  supposed worth acid christmas:4.96
+  btc address faker:4.95
+  friend coarse language:4.95
+  private messages infected sort:4.93
+  received payment check:4.80
+  pmed earlier vendor:4.80
+  night btc vendor address:4.80
+
+Topic 4:
+  coins:5.60
+  christmas:4.06
+  guy:3.76
+  acid friend:3.76
+  damn:3.76
+  brother:3.76
+  tricky:3.76
+  facts:3.76
+  love:3.76
+  score:3.76
+
+K: 5, Log-Likelihood: -3517.001, Alpha: 11.000, Beta: 1.100

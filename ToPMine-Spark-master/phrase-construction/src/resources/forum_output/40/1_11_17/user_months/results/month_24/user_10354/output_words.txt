@@ -1,0 +1,61 @@
+Topic 0:
+  system:1.32
+  good:1.22
+  built:0.66
+  youll:0.65
+  vm:0.64
+  users:0.64
+  whonix:0.62
+  based:0.55
+  design:0.55
+  check:0.39
+
+Topic 1:
+  system:1.22
+  good:1.10
+  users:0.74
+  youll:0.74
+  vm:0.73
+  built:0.72
+  whonix:0.59
+  design:0.58
+  based:0.57
+  phoenix:0.43
+
+Topic 2:
+  whonix:1.34
+  tails:0.97
+  secure:0.85
+  computers:0.85
+  pretty:0.77
+  systems:0.71
+  opinion:0.70
+  guys:0.69
+  time:0.55
+  good:0.54
+
+Topic 3:
+  system:1.07
+  good:1.00
+  whonix:0.73
+  design:0.50
+  based:0.49
+  vm:0.45
+  users:0.45
+  youll:0.45
+  built:0.44
+  secure:0.42
+
+Topic 4:
+  time:1.93
+  whonix:1.72
+  host:1.57
+  os:1.56
+  tails:1.10
+  secure:1.09
+  recommend:0.94
+  curve:0.66
+  malware:0.66
+  shouldnt:0.66
+
+K: 5, Log-Likelihood: -723.200, Alpha: 11.000, Beta: 1.100

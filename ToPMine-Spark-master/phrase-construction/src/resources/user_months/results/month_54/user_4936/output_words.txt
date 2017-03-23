@@ -1,0 +1,61 @@
+Topic 0:
+  agora:2.44
+  biggest:1.68
+  dolmio:1.54
+  cheers:1.35
+  time:1.29
+  communities:0.86
+  point:0.84
+  popular:0.76
+  pmwhich:0.76
+  quote:0.76
+
+Topic 1:
+  agora:1.55
+  cheers:1.01
+  biggest:1.01
+  dolmio:0.98
+  atm:0.77
+  enjoy:0.75
+  reading:0.72
+  time:0.71
+  drugs:0.62
+  st:0.52
+
+Topic 2:
+  drugs:1.46
+  enjoy:1.02
+  reading:0.99
+  gs:0.71
+  sum:0.71
+  rubbed:0.70
+  ecstasy:0.70
+  validates:0.70
+  acting:0.70
+  redditors:0.70
+
+Topic 3:
+  drugs:1.70
+  reading:0.91
+  enjoy:0.88
+  number:0.79
+  laughable:0.79
+  bulk:0.79
+  shear:0.79
+  ingenious:0.79
+  pass:0.79
+  met:0.79
+
+Topic 4:
+  communities:2.56
+  point:2.56
+  true:1.09
+  visiting:1.08
+  making:1.08
+  friends:1.08
+  crossed:1.08
+  thing:1.08
+  working:1.08
+  energy:1.07
+
+K: 5, Log-Likelihood: -872.577, Alpha: 11.000, Beta: 1.100

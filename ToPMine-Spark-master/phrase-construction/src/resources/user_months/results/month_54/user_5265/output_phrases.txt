@@ -1,0 +1,61 @@
+Topic 0:
+  access attachments unload path:0.87
+  attach:0.81
+  file:0.80
+  error message:0.79
+  images:0.79
+  permissions:0.78
+  destructive:0.77
+  server:0.77
+  posts:0.75
+  working:0.72
+
+Topic 1:
+  problem:0.70
+  avatar saved:0.67
+  directory suitable attachment:0.67
+  message attachments unload:0.67
+  avatar disappeared:0.66
+  access attachments unload path:0.61
+  upload:0.57
+  report:0.57
+  post pics:0.56
+  pics:0.55
+
+Topic 2:
+  deteriorate:1.05
+  good:1.05
+  forums:1.04
+  expecting:1.03
+  unload original:1.03
+  bump:1.03
+  experience:1.03
+  read:1.03
+  market:1.03
+  solution:1.02
+
+Topic 3:
+  avatar disappeared:0.65
+  problem:0.65
+  directory suitable attachment:0.64
+  message attachments unload:0.64
+  avatar saved:0.64
+  access attachments unload path:0.61
+  images:0.54
+  posts:0.54
+  forum:0.53
+  destructive:0.53
+
+Topic 4:
+  access attachments unload path:0.74
+  edit:0.67
+  post:0.67
+  refers:0.67
+  magicted:0.67
+  majestic:0.67
+  garden:0.67
+  info:0.66
+  original post:0.66
+  attachment:0.61
+
+K: 5, Log-Likelihood: -526.179, Alpha: 11.000, Beta: 1.100

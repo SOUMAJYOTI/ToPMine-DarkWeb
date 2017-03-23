@@ -1,0 +1,61 @@
+Topic 0:
+  agora:1.34
+  load:0.81
+  working:0.62
+  problem:0.61
+  loading:0.41
+  fog:0.41
+  time:0.40
+  log:0.40
+  fine:0.40
+  started:0.40
+
+Topic 1:
+  agora:1.52
+  load:0.76
+  working:0.59
+  problem:0.58
+  started:0.42
+  lot:0.41
+  managed:0.40
+  traffic:0.40
+  guess:0.40
+  fine:0.40
+
+Topic 2:
+  agora:1.44
+  load:0.82
+  problem:0.59
+  working:0.58
+  managed:0.41
+  traffic:0.41
+  started:0.41
+  guess:0.41
+  lot:0.40
+  time:0.40
+
+Topic 3:
+  agora:1.28
+  load:0.79
+  working:0.64
+  problem:0.63
+  guess:0.42
+  fog:0.41
+  fine:0.41
+  log:0.41
+  loading:0.40
+  time:0.40
+
+Topic 4:
+  agora:1.42
+  load:0.82
+  problem:0.58
+  working:0.57
+  loading:0.43
+  fog:0.43
+  lot:0.41
+  managed:0.40
+  time:0.40
+  traffic:0.40
+
+K: 5, Log-Likelihood: -455.397, Alpha: 11.000, Beta: 1.100

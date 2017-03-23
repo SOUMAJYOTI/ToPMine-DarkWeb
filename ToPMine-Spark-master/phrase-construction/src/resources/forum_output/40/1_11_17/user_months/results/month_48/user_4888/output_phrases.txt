@@ -1,0 +1,61 @@
+Topic 0:
+  mail:0.24
+  express:0.16
+  registered mail:0.16
+  safe:0.16
+  customs:0.16
+  letter:0.16
+  postman:0.16
+  country:0.08
+  workers:0.08
+  safer:0.08
+
+Topic 1:
+  mail:0.24
+  postman:0.16
+  letter:0.16
+  customs:0.16
+  registered mail:0.16
+  safe:0.16
+  express:0.16
+  knew:0.08
+  addition:0.08
+  release:0.08
+
+Topic 2:
+  mail:0.24
+  registered mail:0.16
+  safe:0.16
+  customs:0.16
+  express:0.16
+  letter:0.16
+  postman:0.16
+  er:0.08
+  green:0.08
+  didnt:0.08
+
+Topic 3:
+  mail:0.24
+  safe:0.16
+  express:0.16
+  registered mail:0.16
+  customs:0.16
+  postman:0.16
+  letter:0.16
+  job:0.08
+  sweat:0.08
+  tape:0.08
+
+Topic 4:
+  mail:0.24
+  letter:0.16
+  postman:0.16
+  customs:0.16
+  express:0.16
+  safe:0.16
+  registered mail:0.16
+  risk:0.08
+  police:0.08
+  problem:0.08
+
+K: 5, Log-Likelihood: -131.899, Alpha: 11.000, Beta: 1.100

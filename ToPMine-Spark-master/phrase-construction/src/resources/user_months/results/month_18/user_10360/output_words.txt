@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:1.05
+  buy:0.87
+  place:0.80
+  dont:0.64
+  businesses:0.53
+  called:0.52
+  forum:0.51
+  paypal:0.45
+  vendor:0.44
+  payment:0.44
+
+Topic 1:
+  buy:0.88
+  bitcoin:0.87
+  forum:0.57
+  place:0.57
+  dont:0.56
+  vendor:0.51
+  agora:0.45
+  payment:0.45
+  papa:0.45
+  coin:0.44
+
+Topic 2:
+  agora:0.95
+  vendor:0.89
+  forum:0.73
+  slow:0.63
+  buy:0.63
+  thing:0.56
+  dont:0.55
+  market:0.53
+  today:0.52
+  money:0.49
+
+Topic 3:
+  agora:0.84
+  vendor:0.74
+  buy:0.73
+  forum:0.71
+  dont:0.68
+  slow:0.54
+  bitcoin:0.53
+  thing:0.51
+  today:0.50
+  money:0.50
+
+Topic 4:
+  bitcoin:1.07
+  buy:0.90
+  place:0.69
+  businesses:0.62
+  called:0.62
+  dont:0.56
+  coin:0.49
+  papa:0.49
+  payment:0.49
+  forum:0.48
+
+K: 5, Log-Likelihood: -641.999, Alpha: 11.000, Beta: 1.100

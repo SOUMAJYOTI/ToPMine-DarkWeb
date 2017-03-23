@@ -1,0 +1,61 @@
+Topic 0:
+  cash:5.47
+  btc:3.44
+  purchase:2.88
+  bank:1.99
+  seller:1.66
+  deposit:1.27
+  vanilla:1.19
+  account:1.15
+  tumble:1.11
+  cvs:1.10
+
+Topic 1:
+  bank:6.68
+  deposit:6.13
+  wallet:4.34
+  fill:4.11
+  tumble:3.62
+  coins:3.54
+  cash:3.46
+  purchase:2.55
+  choice:1.81
+  creation:1.78
+
+Topic 2:
+  btc:6.42
+  cash:3.56
+  purchase:1.61
+  vanilla:1.56
+  trouble:1.39
+  buy:1.24
+  account:0.94
+  reload:0.90
+  member:0.86
+  info:0.80
+
+Topic 3:
+  btc:9.39
+  card:7.43
+  moneypak:3.86
+  reload:2.63
+  buy:2.18
+  trust:1.86
+  rate:1.86
+  stores:1.86
+  phone:1.86
+  greendot:1.86
+
+Topic 4:
+  bank:7.51
+  deposit:4.10
+  cash:3.84
+  coins:3.20
+  purchase:2.86
+  tumble:2.83
+  fill:2.39
+  wallet:2.37
+  long:1.62
+  charged:1.50
+
+K: 5, Log-Likelihood: -1987.512, Alpha: 11.000, Beta: 1.100

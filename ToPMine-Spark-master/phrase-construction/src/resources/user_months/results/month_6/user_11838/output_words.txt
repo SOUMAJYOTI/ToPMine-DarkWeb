@@ -1,0 +1,61 @@
+Topic 0:
+  mentioned:0.20
+  interested:0.20
+  customers:0.20
+  ppl:0.20
+  forum:0.20
+  marketplace:0.20
+  german:0.20
+  talking:0.20
+  local:0.20
+  vendors:0.20
+
+Topic 1:
+  forum:0.20
+  marketplace:0.20
+  ppl:0.20
+  customers:0.20
+  vendors:0.20
+  interested:0.20
+  mentioned:0.20
+  talking:0.20
+  local:0.20
+  german:0.20
+
+Topic 2:
+  german:0.20
+  local:0.20
+  vendors:0.20
+  ppl:0.20
+  marketplace:0.20
+  forum:0.20
+  interested:0.20
+  customers:0.20
+  talking:0.20
+  mentioned:0.20
+
+Topic 3:
+  vendors:0.20
+  talking:0.20
+  mentioned:0.20
+  german:0.20
+  interested:0.20
+  forum:0.20
+  marketplace:0.20
+  customers:0.20
+  local:0.20
+  ppl:0.20
+
+Topic 4:
+  local:0.20
+  talking:0.20
+  german:0.20
+  customers:0.20
+  interested:0.20
+  ppl:0.20
+  marketplace:0.20
+  forum:0.20
+  vendors:0.20
+  mentioned:0.20
+
+K: 5, Log-Likelihood: -23.026, Alpha: 11.000, Beta: 1.100

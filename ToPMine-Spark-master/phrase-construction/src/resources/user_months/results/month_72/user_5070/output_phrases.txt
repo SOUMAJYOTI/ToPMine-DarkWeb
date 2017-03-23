@@ -1,0 +1,61 @@
+Topic 0:
+  dont:5.23
+  people:2.96
+  check:2.47
+  bring:2.47
+  test nbomes:2.47
+  reports:2.47
+  conclude:2.47
+  tripping:2.47
+  neurotic:2.47
+  reagent:2.47
+
+Topic 1:
+  people:1.44
+  tabs:1.25
+  tongue:0.84
+  webs:0.84
+  remember:0.84
+  knowledge:0.84
+  confirm:0.83
+  swallow:0.83
+  holding:0.83
+  reading:0.83
+
+Topic 2:
+  telling:2.35
+  legitimacy:2.35
+  truth:2.35
+  tests:2.34
+  tested:2.34
+  speak:2.34
+  worried:2.34
+  wondering:2.33
+  sold worried:2.33
+  nbome:1.52
+
+Topic 3:
+  big:2.21
+  cheap:2.11
+  time:1.65
+  pink:1.65
+  blotter:1.65
+  bigger:1.65
+  gon:1.65
+  thousands:1.65
+  guess:1.65
+  paper:1.65
+
+Topic 4:
+  deaths:2.14
+  trip:2.14
+  drug:2.14
+  bad:2.13
+  studied:2.13
+  numerous:2.13
+  reactions:2.12
+  horrible:2.12
+  hospitalizations:2.12
+  physical:2.10
+
+K: 5, Log-Likelihood: -1035.963, Alpha: 11.000, Beta: 1.100

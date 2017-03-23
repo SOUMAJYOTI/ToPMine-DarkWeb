@@ -1,0 +1,46 @@
+Topic 0:
+  outdoor:0.20
+  limited:0.20
+  blackbank:0.20
+  high:0.20
+  samples:0.20
+  time:0.20
+  offering:0.20
+
+Topic 1:
+  outdoor:0.20
+  samples:0.20
+  limited:0.20
+  time:0.20
+  offering:0.20
+  high:0.20
+  blackbank:0.20
+
+Topic 2:
+  high:0.20
+  outdoor:0.20
+  limited:0.20
+  blackbank:0.20
+  samples:0.20
+  offering:0.20
+  time:0.20
+
+Topic 3:
+  blackbank:0.20
+  offering:0.20
+  time:0.20
+  samples:0.20
+  outdoor:0.20
+  limited:0.20
+  high:0.20
+
+Topic 4:
+  high:0.20
+  time:0.20
+  offering:0.20
+  limited:0.20
+  blackbank:0.20
+  samples:0.20
+  outdoor:0.20
+
+K: 5, Log-Likelihood: -13.621, Alpha: 11.000, Beta: 1.100

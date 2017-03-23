@@ -1,0 +1,61 @@
+Topic 0:
+  ett:5.93
+  jos:4.48
+  en:3.19
+  olisi:2.91
+  sek:2.75
+  tai:2.71
+  voi:1.76
+  kiist:1.75
+  myyj:1.62
+  silkkitien:1.61
+
+Topic 1:
+  october:10.26
+  maanantaina:6.98
+  nyt:5.87
+  miten:5.07
+  quote:5.02
+  pel:4.90
+  sinfil:4.90
+  luottomyyj:4.90
+  nihilist:4.90
+  nain:4.86
+
+Topic 2:
+  ja:15.21
+  sis:5.21
+  tt:4.39
+  todella:3.81
+  ll:3.50
+  lt:3.30
+  yleens:2.75
+  syytt:2.68
+  kiinni:2.50
+  oli:2.36
+
+Topic 3:
+  ei:7.25
+  kuin:6.43
+  mit:5.84
+  ja:5.81
+  nain:5.67
+  jos:4.54
+  mutta:4.44
+  kin:4.15
+  siit:3.85
+  tai:3.10
+
+Topic 4:
+  myyj:8.25
+  ja:7.15
+  ss:4.64
+  vaikka:4.19
+  kirje:3.84
+  tullut:3.23
+  siis:3.00
+  jos:2.99
+  odotellessa:2.86
+  tehd:2.82
+
+K: 5, Log-Likelihood: -7180.168, Alpha: 11.000, Beta: 1.100

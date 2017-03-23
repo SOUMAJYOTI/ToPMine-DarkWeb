@@ -1,0 +1,61 @@
+Topic 0:
+  lsa:1.73
+  lsd:1.14
+  seeds:0.88
+  organic:0.76
+  ethan:0.75
+  skills:0.41
+  damn:0.40
+  solvent:0.40
+  morning:0.40
+  extract:0.40
+
+Topic 1:
+  lsa:1.80
+  lsd:1.22
+  organic:0.79
+  seeds:0.78
+  ethan:0.76
+  experience:0.40
+  evaporated:0.40
+  poison:0.40
+  experteise:0.40
+  work:0.40
+
+Topic 2:
+  lsa:1.58
+  lsd:1.25
+  organic:0.82
+  ethan:0.80
+  seeds:0.79
+  chemistry:0.40
+  produce:0.40
+  kill:0.40
+  lot:0.40
+  evaporated:0.40
+
+Topic 3:
+  lsa:1.35
+  lsd:1.26
+  ethan:0.88
+  organic:0.81
+  seeds:0.78
+  baby:0.40
+  solvent:0.40
+  amount:0.40
+  trip:0.40
+  scedule:0.40
+
+Topic 4:
+  lsa:1.54
+  lsd:1.13
+  organic:0.82
+  ethan:0.81
+  seeds:0.77
+  scedule:0.41
+  ingredient:0.41
+  glory:0.41
+  requires:0.41
+  trip:0.40
+
+K: 5, Log-Likelihood: -338.337, Alpha: 11.000, Beta: 1.100

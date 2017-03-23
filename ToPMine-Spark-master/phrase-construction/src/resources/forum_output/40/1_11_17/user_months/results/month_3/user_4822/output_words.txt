@@ -1,0 +1,61 @@
+Topic 0:
+  coins:22.17
+  exchange:8.90
+  mix:6.75
+  le:6.24
+  online:5.90
+  share:5.90
+  buy:5.90
+  option:5.89
+  fresh:4.03
+  good:3.81
+
+Topic 1:
+  good:4.03
+  long:3.71
+  mixing:3.67
+  service:3.60
+  link:2.75
+  coins:2.74
+  worry:1.85
+  marketplace:1.85
+  recieving:1.85
+  addresses:1.85
+
+Topic 2:
+  analysis:1.96
+  substances:1.68
+  key:1.66
+  public:1.59
+  dv:1.37
+  send:1.34
+  eur:1.28
+  block:1.22
+  price:1.20
+  standard:1.19
+
+Topic 3:
+  key:2.49
+  analysis:2.35
+  public:1.91
+  substances:1.82
+  pgp:1.62
+  ew:1.56
+  price:1.49
+  standard:1.49
+  quantification:1.47
+  block:1.47
+
+Topic 4:
+  key:1.82
+  analysis:1.66
+  send:1.58
+  azs:1.43
+  substances:1.34
+  public:1.31
+  quantification:1.31
+  standard:1.28
+  block:1.28
+  price:1.28
+
+K: 5, Log-Likelihood: -6569.834, Alpha: 11.000, Beta: 1.100

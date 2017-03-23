@@ -1,0 +1,61 @@
+Topic 0:
+  order:3.77
+  times:1.78
+  double:1.78
+  didnt:1.33
+  money:1.14
+  amount:0.90
+  couple:0.90
+  ready:0.80
+  row:0.80
+  days:0.80
+
+Topic 1:
+  experience:2.74
+  christmas:2.70
+  fucking:2.69
+  trip:2.32
+  ucg:1.75
+  tolerance:1.74
+  visual:1.74
+  things:1.39
+  hows:1.37
+  merry:1.36
+
+Topic 2:
+  january:1.18
+  site:0.95
+  merry:0.78
+  hows:0.78
+  things:0.76
+  quote:0.70
+  fucking:0.63
+  christmas:0.62
+  agora:0.59
+  love:0.50
+
+Topic 3:
+  jizz:1.35
+  rep:0.85
+  gunmetal:0.83
+  january:0.81
+  aint:0.72
+  young:0.71
+  pounds:0.71
+  fuckin:0.71
+  niggasi:0.71
+  cash:0.71
+
+Topic 4:
+  jizz:1.30
+  gunmetal:0.86
+  rep:0.84
+  january:0.81
+  plugif:0.72
+  cash:0.71
+  money:0.71
+  young:0.70
+  niggasi:0.70
+  fuckin:0.70
+
+K: 5, Log-Likelihood: -873.988, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  dardush:0.28
+  regs:0.28
+  quote:0.28
+  amthanks:0.28
+  close:0.28
+  sig:0.28
+  account:0.28
+  site:0.28
+  sillywabbit chance invite code:0.24
+  appealing:0.22
+
+Topic 1:
+  site:0.28
+  sig:0.28
+  account:0.28
+  quote:0.27
+  amthanks:0.27
+  dardush:0.27
+  close:0.27
+  regs:0.27
+  sillywabbit chance invite code:0.24
+  reddit:0.23
+
+Topic 2:
+  amthanks:0.28
+  dardush:0.28
+  close:0.28
+  quote:0.28
+  regs:0.28
+  account:0.28
+  site:0.28
+  sig:0.28
+  sillywabbit chance invite code:0.24
+  pmquote:0.22
+
+Topic 3:
+  account:0.28
+  site:0.28
+  sig:0.28
+  close:0.28
+  quote:0.28
+  regs:0.28
+  dardush:0.28
+  amthanks:0.28
+  sillywabbit chance invite code:0.24
+  encourage:0.22
+
+Topic 4:
+  regs:0.28
+  quote:0.28
+  close:0.28
+  amthanks:0.28
+  dardush:0.28
+  sig:0.28
+  site:0.28
+  account:0.28
+  sillywabbit chance invite code:0.24
+  yep:0.22
+
+K: 5, Log-Likelihood: -142.768, Alpha: 11.000, Beta: 1.100

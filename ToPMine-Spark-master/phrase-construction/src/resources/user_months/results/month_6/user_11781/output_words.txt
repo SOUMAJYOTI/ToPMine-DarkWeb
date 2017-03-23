@@ -1,0 +1,61 @@
+Topic 0:
+  money:1.32
+  addresses:0.77
+  week:0.59
+  happen:0.40
+  hasnt:0.40
+  transferred:0.40
+  repaid:0.40
+  ago:0.40
+  silkroad:0.40
+  disappear:0.40
+
+Topic 1:
+  money:1.24
+  addresses:0.79
+  week:0.61
+  sr:0.41
+  check:0.41
+  hasnt:0.40
+  transfer:0.40
+  bitcoin:0.40
+  transferred:0.40
+  silkroad:0.40
+
+Topic 2:
+  money:1.02
+  addresses:0.86
+  week:0.62
+  deposit:0.42
+  check:0.40
+  sr:0.40
+  ago:0.40
+  disappear:0.40
+  happen:0.40
+  bitcoin:0.40
+
+Topic 3:
+  money:1.25
+  addresses:0.77
+  week:0.59
+  transferred:0.40
+  ago:0.40
+  transfer:0.40
+  repaid:0.40
+  silkroad:0.40
+  bitcoin:0.40
+  hasnt:0.40
+
+Topic 4:
+  money:1.17
+  addresses:0.81
+  week:0.59
+  deposit:0.41
+  transfer:0.40
+  disappear:0.40
+  check:0.40
+  repaid:0.40
+  bitcoin:0.40
+  silkroad:0.40
+
+K: 5, Log-Likelihood: -200.050, Alpha: 11.000, Beta: 1.100

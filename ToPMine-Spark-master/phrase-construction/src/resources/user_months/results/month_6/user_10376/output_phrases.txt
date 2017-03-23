@@ -1,0 +1,61 @@
+Topic 0:
+  community:4.00
+  kind:4.00
+  decide:4.00
+  fe:4.00
+  built:1.98
+  huge:1.98
+  le:1.98
+  paranoia:1.98
+  thought:1.98
+  thing:1.98
+
+Topic 1:
+  pyrbax april pmsign:3.86
+  pigeon dodge password rules:3.86
+  implemented policythat forbids:3.25
+  find unsettling deterring isnt:3.25
+  special characters passwords:3.25
+  special characters passwords passwords:3.25
+  dollar signs naively imagine:3.25
+  special characters secure harder:3.25
+  restricted character set passwordsmakes:3.25
+  easier crack hey knowingly:3.25
+
+Topic 2:
+  password:6.33
+  sensitive:3.99
+  break:3.99
+  case:3.99
+  letters:3.99
+  playground april pmquote:3.02
+  special chars:2.89
+  processing code password punctuation:2.14
+  worry:1.98
+  corporations:1.98
+
+Topic 3:
+  spamming including inbox bad:3.94
+  signed users:3.70
+  quote sunwu april pmpigeon:3.70
+  reports:3.10
+  reports general:3.10
+  useless:3.10
+  pmi:3.10
+  sign site:3.10
+  feel:3.10
+  mind:3.10
+
+Topic 4:
+  escrow:6.01
+  implement:6.01
+  fa:4.89
+  behaviour:4.67
+  passed:3.99
+  planning:3.99
+  money:3.99
+  steal:3.99
+  tested:3.99
+  password:3.87
+
+K: 5, Log-Likelihood: -3745.916, Alpha: 11.000, Beta: 1.100

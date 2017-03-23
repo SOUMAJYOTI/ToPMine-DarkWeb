@@ -1,0 +1,61 @@
+Topic 0:
+  yoshi:0.41
+  secretly:0.41
+  drinks:0.41
+  hobbits:0.41
+  call:0.40
+  white:0.40
+  whizzer:0.40
+  gandalf:0.40
+  ale:0.40
+  pmwhat:0.20
+
+Topic 1:
+  ale:0.40
+  whizzer:0.40
+  hobbits:0.40
+  white:0.40
+  drinks:0.40
+  gandalf:0.40
+  secretly:0.40
+  call:0.40
+  yoshi:0.39
+  middle:0.20
+
+Topic 2:
+  drinks:0.40
+  gandalf:0.40
+  ale:0.40
+  secretly:0.40
+  whizzer:0.40
+  white:0.40
+  call:0.40
+  yoshi:0.40
+  hobbits:0.40
+  nice:0.20
+
+Topic 3:
+  white:0.41
+  call:0.41
+  hobbits:0.41
+  whizzer:0.40
+  gandalf:0.40
+  secretly:0.40
+  ale:0.40
+  yoshi:0.40
+  drinks:0.40
+  july:0.20
+
+Topic 4:
+  yoshi:0.40
+  call:0.39
+  drinks:0.39
+  secretly:0.39
+  gandalf:0.39
+  ale:0.39
+  hobbits:0.39
+  whizzer:0.39
+  white:0.39
+  fun:0.21
+
+K: 5, Log-Likelihood: -163.819, Alpha: 11.000, Beta: 1.100

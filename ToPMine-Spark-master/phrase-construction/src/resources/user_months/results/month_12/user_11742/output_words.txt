@@ -1,0 +1,61 @@
+Topic 0:
+  reply:4.39
+  text:2.92
+  afghan:2.92
+  suggestion:2.89
+  happy:2.63
+  question:2.62
+  nimble:2.10
+  understand:1.97
+  ideas:1.94
+  query:1.92
+
+Topic 1:
+  requests:11.84
+  neglected:4.83
+  june:3.59
+  users:3.50
+  understand:3.19
+  time:3.11
+  problem:2.81
+  momentum:2.81
+  features:2.81
+  gain:2.81
+
+Topic 2:
+  agora:11.61
+  evo:8.15
+  number:3.71
+  isuckmydadsdick:2.88
+  real:2.88
+  vendor:2.64
+  marketplace:2.64
+  dont:2.34
+  enjoy:2.17
+  reason:1.91
+
+Topic 3:
+  evolution:3.69
+  agora:2.51
+  starting:2.47
+  buyers:2.20
+  liable:2.15
+  yoshi:1.96
+  escrow:1.89
+  majority:1.87
+  dont:1.78
+  evo:1.56
+
+Topic 4:
+  people:7.70
+  sr:5.84
+  good:4.79
+  buyers:4.40
+  markets:3.95
+  popular:2.90
+  takes:2.85
+  market:2.80
+  dont:2.64
+  types:1.91
+
+K: 5, Log-Likelihood: -2572.530, Alpha: 11.000, Beta: 1.100

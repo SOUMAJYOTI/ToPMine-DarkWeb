@@ -1,0 +1,61 @@
+Topic 0:
+  payed:0.61
+  transaction:0.35
+  info:0.20
+  address:0.20
+  send:0.20
+  hey:0.20
+  vendor:0.20
+  deposit:0.20
+  asked:0.20
+  bitcoin confirmation:0.20
+
+Topic 1:
+  payed:0.52
+  transaction:0.37
+  deposit:0.21
+  vendor:0.21
+  hey:0.21
+  asked:0.21
+  bitcoin confirmation:0.21
+  send:0.21
+  address:0.20
+  info:0.20
+
+Topic 2:
+  payed:0.53
+  transaction:0.37
+  address:0.20
+  info:0.20
+  deposit:0.20
+  asked:0.20
+  bitcoin confirmation:0.20
+  send:0.20
+  hey:0.20
+  vendor:0.20
+
+Topic 3:
+  payed:0.57
+  transaction:0.36
+  info:0.20
+  address:0.20
+  send:0.20
+  asked:0.20
+  bitcoin confirmation:0.20
+  vendor:0.20
+  deposit:0.20
+  hey:0.20
+
+Topic 4:
+  payed:0.51
+  transaction:0.38
+  bitcoin confirmation:0.21
+  hey:0.21
+  send:0.21
+  asked:0.21
+  vendor:0.21
+  deposit:0.21
+  address:0.20
+  info:0.20
+
+K: 5, Log-Likelihood: -116.750, Alpha: 11.000, Beta: 1.100

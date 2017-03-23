@@ -1,0 +1,61 @@
+Topic 0:
+  scidmt:7.39
+  ootp:6.94
+  april:6.25
+  interested:5.09
+  simple:5.08
+  start:5.07
+  creating:5.02
+  vendor:4.44
+  site:3.74
+  quote:3.68
+
+Topic 1:
+  site:7.57
+  direct:7.11
+  vendor:5.32
+  buying:5.25
+  vendors:5.19
+  market:5.10
+  email:4.26
+  time:3.21
+  advantages:3.11
+  verses:2.49
+
+Topic 2:
+  vendors:5.80
+  site:5.58
+  vendor:4.53
+  ootp:2.74
+  advantages:2.35
+  positive:1.87
+  services:1.53
+  ago:1.35
+  months:1.35
+  top:1.34
+
+Topic 3:
+  email:9.09
+  vendor:8.99
+  market:7.97
+  direct:7.50
+  site:5.92
+  buying:5.23
+  time:4.52
+  storing:3.34
+  consuming:3.26
+  vendors:2.82
+
+Topic 4:
+  markets:6.83
+  sr:5.70
+  scamming:5.70
+  good:3.75
+  paranoia:3.56
+  fluctuations:3.56
+  government:3.56
+  bitcoin:3.56
+  agencies:3.56
+  ootp:2.81
+
+K: 5, Log-Likelihood: -2556.365, Alpha: 11.000, Beta: 1.100

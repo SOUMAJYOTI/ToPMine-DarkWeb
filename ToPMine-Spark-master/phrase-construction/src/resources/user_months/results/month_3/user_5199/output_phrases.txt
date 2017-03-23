@@ -1,0 +1,61 @@
+Topic 0:
+  good:0.89
+  delivery:0.83
+  smooth:0.83
+  decent:0.83
+  extra:0.83
+  day:0.83
+  weight:0.83
+  packages:0.83
+  spot:0.83
+  ls:0.82
+
+Topic 1:
+  post:0.90
+  pics:0.89
+  variation:0.88
+  support:0.78
+  bsm:0.65
+  quote:0.65
+  pleaseno:0.65
+  february:0.65
+  cooked:0.65
+  powder:0.65
+
+Topic 2:
+  delete:2.78
+  messages:2.78
+  respond:2.78
+  manually:1.30
+  llama:1.30
+  months:1.30
+  llama support:1.30
+  matters:1.30
+  strange:1.30
+  waited:1.30
+
+Topic 3:
+  sr:4.31
+  tor:2.81
+  thread:2.81
+  vend:1.32
+  profile:1.32
+  escrow:1.32
+  announcement:1.32
+  bazaar:1.32
+  uk:1.32
+  profile profile:1.32
+
+Topic 4:
+  support:0.83
+  bsm:0.81
+  good:0.78
+  variation:0.60
+  llama socks:0.60
+  pics:0.59
+  post:0.59
+  person:0.57
+  fair:0.57
+  join:0.57
+
+K: 5, Log-Likelihood: -661.418, Alpha: 11.000, Beta: 1.100

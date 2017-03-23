@@ -1,0 +1,61 @@
+Topic 0:
+  tor:2.91
+  relays:1.98
+  network:1.93
+  lizard:1.50
+  kobeissi:1.29
+  twitter:0.98
+  squad:0.88
+  earlier:0.74
+  gaming:0.74
+  service:0.72
+
+Topic 1:
+  tor:2.90
+  relays:1.76
+  network:1.42
+  kobeissi:0.76
+  gaming:0.76
+  squad:0.71
+  lizard:0.69
+  twitter:0.65
+  kids:0.58
+  day:0.57
+
+Topic 2:
+  tor:4.05
+  relay:1.94
+  isnt:1.94
+  point:1.90
+  setup:1.90
+  data:1.77
+  exploit:1.37
+  day:1.00
+  wan:0.91
+  oldest:0.91
+
+Topic 3:
+  lizard:3.19
+  relays:3.08
+  tor:2.76
+  kobeissi:2.23
+  network:2.00
+  squad:1.83
+  twitter:1.82
+  service:1.34
+  earlier:1.31
+  squads:0.81
+
+Topic 4:
+  tor:2.38
+  relays:1.38
+  network:1.34
+  kids:0.83
+  gaming:0.74
+  kobeissi:0.70
+  day:0.63
+  lizard:0.61
+  christmas:0.60
+  squad:0.56
+
+K: 5, Log-Likelihood: -1503.823, Alpha: 11.000, Beta: 1.100

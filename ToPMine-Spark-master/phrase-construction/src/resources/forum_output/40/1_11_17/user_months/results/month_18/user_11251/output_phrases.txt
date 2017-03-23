@@ -1,0 +1,61 @@
+Topic 0:
+  month:0.48
+  lotuss:0.48
+  private forum:0.43
+  coupon:0.43
+  info:0.28
+  packs:0.28
+  retired:0.27
+  good:0.27
+  guess:0.23
+  silkroad:0.23
+
+Topic 1:
+  month:0.49
+  lotuss:0.49
+  coupon:0.44
+  private forum:0.44
+  packs:0.28
+  info:0.28
+  retired:0.27
+  good:0.26
+  status:0.24
+  community:0.24
+
+Topic 2:
+  month:0.42
+  lotuss:0.42
+  private forum:0.41
+  coupon:0.41
+  good:0.29
+  retired:0.28
+  info:0.28
+  packs:0.28
+  guess:0.25
+  read:0.23
+
+Topic 3:
+  lotuss:0.42
+  month:0.42
+  private forum:0.40
+  coupon:0.40
+  good:0.28
+  retired:0.28
+  packs:0.27
+  info:0.27
+  guess:0.25
+  speculation:0.23
+
+Topic 4:
+  coupon:0.40
+  private forum:0.40
+  lotuss:0.39
+  month:0.39
+  good:0.29
+  retired:0.29
+  info:0.28
+  packs:0.27
+  guess:0.26
+  guy:0.23
+
+K: 5, Log-Likelihood: -257.628, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  blockchain:0.78
+  regular helix:0.65
+  online:0.50
+  wallets:0.47
+  helix:0.46
+  light:0.45
+  dont:0.44
+  coins:0.43
+  store:0.43
+  blockchain onion:0.42
+
+Topic 1:
+  light:1.26
+  helix:1.24
+  regular helix:0.66
+  blockchain:0.62
+  point:0.51
+  safe dont:0.51
+  sing:0.51
+  pay:0.51
+  things:0.51
+  regular:0.51
+
+Topic 2:
+  blockchain:1.71
+  clearnet:0.70
+  trusted:0.70
+  safe wallet:0.69
+  scam:0.69
+  site:0.69
+  thing:0.69
+  wallet onion:0.68
+  blockchain onion:0.68
+  coins:0.60
+
+Topic 3:
+  btc:3.63
+  regular helix:2.75
+  wasted:0.97
+  auto:0.96
+  cleaning:0.96
+  grass:0.96
+  money:0.96
+  markets:0.96
+  todays:0.96
+  bitcoin:0.96
+
+Topic 4:
+  blockchain:0.68
+  helix:0.59
+  light:0.59
+  regular helix:0.55
+  online:0.55
+  wallets:0.52
+  store:0.45
+  coins:0.44
+  dont:0.44
+  blockchain onion:0.40
+
+K: 5, Log-Likelihood: -471.134, Alpha: 11.000, Beta: 1.100

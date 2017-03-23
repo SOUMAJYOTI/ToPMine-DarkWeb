@@ -1,0 +1,61 @@
+Topic 0:
+  torchat:14.16
+  hidden service:8.49
+  file:7.50
+  computer:7.21
+  js:7.09
+  thing:6.19
+  ram:5.66
+  comment:5.66
+  quote:5.47
+  attacks:5.03
+
+Topic 1:
+  exit relays:11.31
+  traffic:9.63
+  clear net:7.15
+  address:7.12
+  access blockchain:6.30
+  onion address:6.29
+  moved coin:6.29
+  havent connect electrum tor:6.29
+  servers operation anonymous began:6.29
+  access considered immeditley havent:6.29
+
+Topic 2:
+  saving:9.66
+  oft:8.95
+  onions:8.45
+  chat:8.45
+  sldk february:8.33
+  pgp:8.19
+  point:7.61
+  account:7.58
+  coffin february pmquote:7.48
+  meant otr record messaging:7.48
+
+Topic 3:
+  news:8.48
+  cookies effective mass distribution:6.35
+  wrong aware isnt concern:6.33
+  staff access service lower:6.33
+  hidden services publicly distribute:6.33
+  potential traffic analysis attacks:6.33
+  isn public:6.33
+  move:5.64
+  wikileaks:5.64
+  stories:5.64
+
+Topic 4:
+  tor:10.53
+  network:10.50
+  exit nodes:7.72
+  users:5.65
+  peer:5.65
+  users transactions:5.65
+  blocks:5.65
+  attacker:5.65
+  connect bitcoin:5.65
+  low:5.65
+
+K: 5, Log-Likelihood: -14959.710, Alpha: 11.000, Beta: 1.100

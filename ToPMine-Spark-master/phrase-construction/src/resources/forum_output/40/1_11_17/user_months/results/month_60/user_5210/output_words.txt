@@ -1,0 +1,61 @@
+Topic 0:
+  shop:3.29
+  albion:2.38
+  albions:1.59
+  abraxas:0.91
+  vendors:0.87
+  pm:0.70
+  orders:0.68
+  funds:0.53
+  dont:0.46
+  store:0.46
+
+Topic 1:
+  shop:5.12
+  abraxas:4.73
+  albion:2.78
+  funds:2.66
+  finalize:1.08
+  reasons:1.08
+  early:1.07
+  working:1.07
+  pgp:1.07
+  escrow:1.07
+
+Topic 2:
+  pm:1.89
+  albions:1.64
+  albion:1.41
+  orders:1.33
+  store:1.28
+  vendors:1.15
+  shop:0.97
+  provide:0.88
+  accepting:0.63
+  longer:0.63
+
+Topic 3:
+  albion:1.96
+  vendors:1.92
+  shop:1.89
+  albions:1.71
+  pm:0.93
+  orders:0.79
+  reading:0.64
+  store:0.64
+  find:0.63
+  suits:0.63
+
+Topic 4:
+  albion:2.47
+  pm:2.35
+  shop:1.73
+  albions:1.31
+  orders:1.04
+  vendors:0.85
+  thread:0.63
+  expected:0.63
+  quote:0.62
+  updating:0.62
+
+K: 5, Log-Likelihood: -772.706, Alpha: 11.000, Beta: 1.100

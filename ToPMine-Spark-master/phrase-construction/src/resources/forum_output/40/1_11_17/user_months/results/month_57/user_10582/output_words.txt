@@ -1,0 +1,61 @@
+Topic 0:
+  card:4.42
+  btc:3.43
+  sites:3.37
+  major:2.72
+  people:2.56
+  retain:1.74
+  deal:1.74
+  gift:1.74
+  mail:1.50
+  business:1.49
+
+Topic 1:
+  digitaldong:1.45
+  btc:1.40
+  september:1.34
+  quote:1.31
+  tang:1.00
+  days:0.91
+  flagellates:0.63
+  fluctuates:0.63
+  buttcoins:0.63
+  thought:0.63
+
+Topic 2:
+  btc:2.13
+  digitaldong:1.26
+  september:1.24
+  quote:1.22
+  days:1.11
+  tang:0.78
+  buy:0.63
+  buyer:0.59
+  bitcoin:0.59
+  rate:0.59
+
+Topic 3:
+  tang:2.40
+  point:1.67
+  quote:1.63
+  september:1.53
+  digitaldong:1.47
+  thread:1.16
+  hours:0.85
+  diarrhea:0.74
+  oral:0.74
+  divergent:0.73
+
+Topic 4:
+  tang:1.70
+  point:1.64
+  september:1.45
+  quote:1.38
+  digitaldong:1.37
+  thread:1.27
+  unconscious:0.77
+  prudent:0.76
+  bullshit:0.76
+  pls:0.76
+
+K: 5, Log-Likelihood: -1214.980, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  check:3.59
+  cannabis:2.66
+  type:1.67
+  listings moment:1.67
+  hard:1.67
+  simplicity:1.67
+  address:1.67
+  wanted:1.67
+  filter:1.67
+  options:1.67
+
+Topic 1:
+  independently:2.69
+  bitcoin darkcoin:2.69
+  deletion:2.69
+  servers:2.69
+  open:2.69
+  full:2.69
+  checkout:2.69
+  users:1.98
+  order:1.53
+  diabolus:1.30
+
+Topic 2:
+  dnms:2.64
+  high:2.40
+  designed:1.26
+  feedbacks:1.26
+  side:1.26
+  regrettable:1.26
+  rectify:1.26
+  understand:1.26
+  evilgrinas:1.26
+  footnote:1.26
+
+Topic 3:
+  order:3.14
+  darkcoin bitcoin:2.67
+  country:2.67
+  vendor:2.67
+  filters:2.14
+  highest:1.29
+  ill:1.29
+  accept:1.29
+  moment:1.29
+  process:1.29
+
+Topic 4:
+  free terms commissions:0.99
+  reason offering attractive:0.99
+  escrow funds future:0.88
+  fees business model steal:0.87
+  jack:0.87
+  service:0.65
+  dont:0.59
+  october:0.54
+  suspicious:0.54
+  good:0.54
+
+K: 5, Log-Likelihood: -1766.133, Alpha: 11.000, Beta: 1.100

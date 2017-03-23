@@ -1,0 +1,61 @@
+Topic 0:
+  bitcurex:5.01
+  konta:1.94
+  send:1.79
+  order:1.73
+  account:1.72
+  digital:1.63
+  future:1.30
+  message:1.30
+  prosimy:1.15
+  behalf:1.14
+
+Topic 1:
+  bitcurex:5.89
+  order:2.74
+  future:2.61
+  digital:2.28
+  send:2.11
+  konta:1.96
+  serwisie:1.91
+  documents:1.84
+  team:1.82
+  behalf:1.76
+
+Topic 2:
+  june:10.96
+  boogie:9.49
+  pdf:7.40
+  amquote:5.68
+  offshore:4.89
+  ant:4.59
+  good:4.38
+  brilliant:4.28
+  ago:4.28
+  uploaded:4.27
+
+Topic 3:
+  bank:3.37
+  anonymous:3.30
+  accounts:2.79
+  account:1.59
+  counterfeit:0.92
+  exist:0.92
+  datas:0.90
+  quote:0.78
+  photoshop:0.76
+  mrdoe:0.68
+
+Topic 4:
+  bank:5.10
+  quote:2.62
+  mrdoe:2.11
+  accounts:1.52
+  offshore:1.44
+  ridicolously:1.30
+  low:1.29
+  choose:1.12
+  anonymous:1.05
+  photoshop:1.02
+
+K: 5, Log-Likelihood: -2122.444, Alpha: 11.000, Beta: 1.100

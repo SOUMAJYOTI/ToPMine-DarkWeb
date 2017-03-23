@@ -1,0 +1,61 @@
+Topic 0:
+  quote slarky amthank:0.54
+  sigaint:0.53
+  server:0.53
+  compromised:0.52
+  trust:0.48
+  based mail provider appreciated:0.47
+  free:0.47
+  problem security:0.46
+  wasn find secure tor:0.46
+  find secure tor based:0.46
+
+Topic 1:
+  trust:0.47
+  moto:0.47
+  easy:0.46
+  ass:0.46
+  term:0.46
+  long:0.46
+  learn:0.46
+  encrypt:0.46
+  save:0.45
+  pgp:0.45
+
+Topic 2:
+  learn:0.51
+  encrypt:0.50
+  pgp:0.50
+  long:0.50
+  ass:0.50
+  term:0.50
+  save:0.49
+  moto:0.49
+  easy:0.49
+  trust:0.45
+
+Topic 3:
+  quote slarky amthank:0.50
+  problem security:0.49
+  mail provider appreciated:0.49
+  free:0.49
+  find secure tor based:0.48
+  wasn find secure tor:0.47
+  trust:0.47
+  based mail provider appreciated:0.47
+  compromised:0.47
+  sigaint:0.46
+
+Topic 4:
+  trust:0.48
+  quote slarky amthank:0.47
+  based mail provider appreciated:0.45
+  server:0.45
+  wasn find secure tor:0.45
+  pgp:0.44
+  compromised:0.44
+  sigaint:0.44
+  long:0.44
+  free:0.44
+
+K: 5, Log-Likelihood: -272.040, Alpha: 11.000, Beta: 1.100

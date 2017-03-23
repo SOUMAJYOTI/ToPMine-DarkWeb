@@ -1,0 +1,61 @@
+Topic 0:
+  facts:1.50
+  bitcoin:1.50
+  arrive:1.50
+  crowd:1.50
+  drug:1.50
+  vast:1.50
+  intact:1.50
+  anonymously:1.50
+  multidisciplinary:1.50
+  donations:1.50
+
+Topic 1:
+  maps:2.44
+  december:1.87
+  bank:1.22
+  smaller:1.22
+  otu:1.21
+  organizations:1.21
+  vendors donate:1.15
+  technology:1.12
+  game:1.12
+  candidates:1.12
+
+Topic 2:
+  member:2.84
+  tor address:1.48
+  felt:1.47
+  obvious:1.47
+  pc:1.46
+  risk:1.46
+  usa:1.44
+  idea:1.43
+  comment:1.33
+  trusted:1.33
+
+Topic 3:
+  bruce:1.89
+  win:1.05
+  stuff vendors:1.03
+  buy:1.03
+  stuff free:1.03
+  lucy:1.02
+  people:1.02
+  winners:0.99
+  tickets:0.98
+  vendors donate:0.94
+
+Topic 4:
+  tmg:1.15
+  opinion:0.94
+  love:0.94
+  harmony:0.94
+  lsd:0.93
+  running:0.93
+  donate:0.93
+  doesnt:0.93
+  donated:0.93
+  smoothtrip:0.93
+
+K: 5, Log-Likelihood: -1100.009, Alpha: 11.000, Beta: 1.100

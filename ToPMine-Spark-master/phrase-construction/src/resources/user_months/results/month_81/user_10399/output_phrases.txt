@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:9.56
+  work:9.55
+  good:8.34
+  server:7.18
+  thoughts electrum jigsaw:7.16
+  hey:7.11
+  vulnerability:6.52
+  dnm:6.12
+  entire:5.59
+  clients:5.59
+
+Topic 1:
+  encrypted private keys:9.50
+  find:7.12
+  strange coinb:7.12
+  markets:7.11
+  layed table great azores:6.26
+  resources lower expected case:6.26
+  assume vulnerabilities apply equally:6.26
+  interested:6.26
+  happy contiue trading amount:6.26
+  running markets:6.26
+
+Topic 2:
+  hidden services:9.35
+  decrypt:8.32
+  axis mundi project:7.55
+  spread load ovrr multiple:6.85
+  significance gentlemen prepared contingency:6.85
+  august ami love vulnerabilities:6.26
+  pip public key:6.12
+  advance answer pathfinder:6.12
+  passphrase click log:6.12
+  send net clear dn:6.12
+
+Topic 3:
+  hidden services:8.60
+  coinb:8.32
+  read:6.97
+  le:6.36
+  tor nodes:6.27
+  wallet:5.82
+  article:5.59
+  anonymizing:5.59
+  exploitable:5.59
+  issues:5.59
+
+Topic 4:
+  market:10.21
+  product:5.59
+  markets days:5.59
+  find vendor:5.59
+  feedback:5.59
+  fall:5.59
+  rush:5.55
+  xmas:5.55
+  year:5.55
+  transactions:4.87
+
+K: 5, Log-Likelihood: -18028.927, Alpha: 11.000, Beta: 1.100

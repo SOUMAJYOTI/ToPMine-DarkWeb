@@ -1,0 +1,61 @@
+Topic 0:
+  topic:1.01
+  team:0.62
+  ross:0.61
+  sr:0.60
+  forum:0.60
+  clearnet:0.60
+  account:0.60
+  human:0.60
+  february:0.60
+  investigation:0.60
+
+Topic 1:
+  topic:1.13
+  human:0.64
+  promoting:0.64
+  investigation:0.64
+  february:0.64
+  forum:0.63
+  account:0.63
+  ross:0.63
+  team:0.62
+  sr:0.62
+
+Topic 2:
+  topic:0.76
+  le:0.65
+  secure:0.65
+  hidden:0.65
+  promoting:0.52
+  clearnet:0.52
+  ross:0.51
+  errors:0.51
+  sr:0.51
+  investigation:0.51
+
+Topic 3:
+  topic:1.12
+  february:0.70
+  errors:0.66
+  clearnet:0.66
+  account:0.66
+  sr:0.66
+  team:0.66
+  investigation:0.65
+  human:0.65
+  ross:0.65
+
+Topic 4:
+  topic:0.98
+  forum:0.62
+  promoting:0.62
+  errors:0.61
+  account:0.61
+  clearnet:0.61
+  sr:0.61
+  human:0.61
+  investigation:0.61
+  team:0.60
+
+K: 5, Log-Likelihood: -274.395, Alpha: 11.000, Beta: 1.100

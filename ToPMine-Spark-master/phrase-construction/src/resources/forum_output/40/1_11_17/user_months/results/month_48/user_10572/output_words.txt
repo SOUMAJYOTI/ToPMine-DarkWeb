@@ -1,0 +1,61 @@
+Topic 0:
+  mail:13.98
+  hellman:11.23
+  connections:10.33
+  researchers:9.89
+  time:9.70
+  system:9.22
+  web:8.98
+  servers:8.97
+  key:8.64
+  attack:8.41
+
+Topic 1:
+  tor:44.40
+  hidden:31.75
+  users:21.65
+  services:19.33
+  service:16.13
+  nodes:15.95
+  traffic:11.31
+  attack:10.48
+  internet:9.94
+  relays:9.76
+
+Topic 2:
+  bug:9.87
+  security:7.74
+  virtual:7.23
+  software:7.10
+  flaw:6.99
+  geffner:5.98
+  code:5.89
+  machine:5.67
+  companies:5.49
+  systems:5.20
+
+Topic 3:
+  tor:14.62
+  encryption:6.32
+  nsa:6.25
+  keys:5.99
+  guards:5.80
+  domains:5.05
+  internet:5.00
+  people:4.09
+  crack:3.98
+  graham:3.98
+
+Topic 4:
+  time:16.99
+  quote:11.91
+  clock:10.89
+  sigaint:9.29
+  april:8.95
+  servers:8.42
+  running:8.11
+  ntp:7.75
+  real:5.39
+  random:5.10
+
+K: 5, Log-Likelihood: -15608.916, Alpha: 11.000, Beta: 1.100

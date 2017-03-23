@@ -1,0 +1,61 @@
+Topic 0:
+  community:3.86
+  time:3.30
+  people:3.00
+  senior:2.69
+  psychoanalyst:2.56
+  garden:2.55
+  george:2.55
+  orwell:2.49
+  place:2.49
+  stevemba:2.43
+
+Topic 1:
+  people:1.61
+  dont:1.52
+  regardsstevemba:1.44
+  forbidden:1.22
+  forum:1.14
+  free:1.04
+  opinions:0.95
+  post:0.93
+  expecially:0.92
+  stevemba:0.67
+
+Topic 2:
+  people:1.87
+  forbidden:1.51
+  forum:1.24
+  dont:1.10
+  post:0.98
+  free:0.94
+  stevemba:0.93
+  regardsstevemba:0.92
+  psychiatrist:0.71
+  expecially:0.63
+
+Topic 3:
+  forum:1.84
+  free:1.40
+  dont:1.27
+  regardsstevemba:1.17
+  expecially:1.15
+  people:1.14
+  forbidden:1.12
+  opinions:1.05
+  post:0.71
+  spam:0.63
+
+Topic 4:
+  forum:3.72
+  advertising:2.12
+  rules:1.64
+  tmg:1.21
+  admins:1.21
+  censorship:1.20
+  free:1.17
+  posting:1.11
+  forbidden:1.08
+  psychiatrist:0.93
+
+K: 5, Log-Likelihood: -1646.708, Alpha: 11.000, Beta: 1.100

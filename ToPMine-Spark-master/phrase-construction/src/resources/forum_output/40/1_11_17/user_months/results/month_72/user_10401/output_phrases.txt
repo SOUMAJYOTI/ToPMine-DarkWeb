@@ -1,0 +1,61 @@
+Topic 0:
+  portable solution:0.79
+  openpgp:0.64
+  pinentry dialog box:0.61
+  keepassx type password:0.52
+  mac:0.52
+  icedove:0.37
+  copy paste:0.37
+  autotype:0.37
+  appears:0.37
+  applet:0.37
+
+Topic 1:
+  portable solution:0.71
+  mac:0.47
+  openpgp:0.44
+  pinentry dialog box:0.41
+  keepassx type password:0.37
+  copy paste:0.32
+  pinentry:0.32
+  keepassx:0.30
+  clipboard:0.29
+  enter:0.28
+
+Topic 2:
+  pinentry dialog box:2.42
+  openpgp:2.35
+  keepassx type password:1.63
+  portable solution:1.06
+  entry:1.01
+  feature:1.00
+  password:1.00
+  appears:1.00
+  enter:1.00
+  icedove:0.99
+
+Topic 3:
+  clipboard:0.48
+  portable solution:0.41
+  mac:0.30
+  primary:0.29
+  clicking:0.29
+  mouse:0.29
+  middle:0.29
+  text:0.28
+  highlight text:0.28
+  control:0.28
+
+Topic 4:
+  clipboard:1.37
+  control:1.26
+  highlight text:1.26
+  text:1.26
+  middle:1.26
+  mouse:1.25
+  clicking:1.25
+  primary:1.25
+  iirc:0.52
+  org:0.52
+
+K: 5, Log-Likelihood: -734.664, Alpha: 11.000, Beta: 1.100

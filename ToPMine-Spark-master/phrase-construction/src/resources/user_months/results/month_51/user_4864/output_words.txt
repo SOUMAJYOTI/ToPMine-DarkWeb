@@ -1,0 +1,61 @@
+Topic 0:
+  library:7.93
+  archive:5.93
+  wiki:5.93
+  chan:5.93
+  mystery:3.93
+  sky:3.93
+  finish:3.93
+  torflix:3.93
+  slavic:3.93
+  confessions:3.93
+
+Topic 1:
+  tails:4.68
+  things:2.70
+  phone:1.94
+  card:1.94
+  persistent:1.94
+  thing:1.94
+  install:1.94
+  cell:1.94
+  separate:1.94
+  unclean:1.87
+
+Topic 2:
+  estrangeddesperado:20.98
+  sigaint:19.28
+  email:19.01
+  write:11.22
+  onion:10.05
+  sigaintevyh:9.50
+  org:9.45
+  address:7.68
+  rzvw:6.55
+  providers:5.50
+
+Topic 3:
+  cool:3.74
+  sites:2.73
+  drive:1.90
+  installed:1.90
+  start:1.86
+  computer:1.80
+  atop:1.79
+  linux:1.75
+  net:1.71
+  stubb:1.71
+
+Topic 4:
+  system:5.06
+  tails:4.64
+  isolation:3.96
+  dont:3.81
+  dvd:3.48
+  opsec:3.26
+  tor:3.23
+  good:2.57
+  disk:2.43
+  files:2.31
+
+K: 5, Log-Likelihood: -3575.300, Alpha: 11.000, Beta: 1.100

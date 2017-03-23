@@ -1,0 +1,61 @@
+Topic 0:
+  half:2.06
+  running:2.05
+  dox:0.94
+  defcon:0.90
+  single:0.82
+  sites:0.82
+  internet:0.82
+  hub:0.82
+  correct:0.82
+  allegedly:0.82
+
+Topic 1:
+  defcon:1.33
+  sr:1.10
+  half:0.77
+  running:0.75
+  dox:0.68
+  btctumbler:0.42
+  recall:0.42
+  list:0.42
+  included:0.42
+  wrote:0.42
+
+Topic 2:
+  defcon:1.40
+  sr:1.36
+  running:0.62
+  dox:0.60
+  half:0.60
+  care:0.42
+  left:0.41
+  clu:0.41
+  team:0.41
+  dev:0.40
+
+Topic 3:
+  sr:2.74
+  defcon:1.51
+  dev:0.63
+  team:0.63
+  didnt:0.63
+  clu:0.54
+  left:0.54
+  care:0.53
+  bit:0.51
+  dox:0.41
+
+Topic 4:
+  sr:2.39
+  defcon:1.87
+  bit:0.63
+  left:0.46
+  clu:0.46
+  care:0.45
+  didnt:0.45
+  staff:0.43
+  dev:0.42
+  team:0.42
+
+K: 5, Log-Likelihood: -695.081, Alpha: 11.000, Beta: 1.100

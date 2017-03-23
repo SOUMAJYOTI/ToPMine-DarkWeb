@@ -1,0 +1,61 @@
+Topic 0:
+  yesterday:0.83
+  today:0.79
+  address:0.79
+  coins:0.77
+  deposit:0.61
+  scrambled:0.40
+  withdrew:0.40
+  community:0.40
+  quick:0.40
+  set:0.40
+
+Topic 1:
+  address:0.83
+  yesterday:0.82
+  today:0.77
+  coins:0.76
+  deposit:0.59
+  sorted:0.41
+  fucked:0.40
+  blender:0.40
+  knowing:0.40
+  haven:0.40
+
+Topic 2:
+  coins:0.82
+  yesterday:0.82
+  today:0.78
+  address:0.77
+  deposit:0.60
+  withdraws:0.41
+  delay:0.40
+  withdraw:0.40
+  community:0.40
+  scrambled:0.40
+
+Topic 3:
+  today:0.85
+  address:0.82
+  coins:0.80
+  yesterday:0.80
+  deposit:0.60
+  decided:0.40
+  quick:0.40
+  hey:0.40
+  community:0.40
+  fucked:0.40
+
+Topic 4:
+  coins:0.85
+  today:0.80
+  address:0.79
+  yesterday:0.74
+  deposit:0.59
+  sorted:0.41
+  withdrew:0.41
+  decided:0.40
+  hey:0.40
+  haven:0.40
+
+K: 5, Log-Likelihood: -235.197, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  onion market:3.21
+  friendly:1.86
+  dont:1.51
+  advertising:1.51
+  working:1.51
+  people:1.51
+  transactions:1.51
+  shallot:1.51
+  pmonionshop:1.51
+  onionshop market:1.51
+
+Topic 1:
+  shop:3.32
+  day:3.32
+  vendor:3.32
+  order:2.46
+  posted:2.07
+  gripe:1.62
+  find:1.62
+  simple:1.62
+  continue:1.62
+  site good:1.62
+
+Topic 2:
+  good:2.06
+  prayer:1.43
+  loot:1.42
+  marketplace:1.42
+  haul:1.42
+  unfortunate:1.42
+  built:1.42
+  hope:1.42
+  sites:1.42
+  check:1.42
+
+Topic 3:
+  cost:3.28
+  onionshop:3.21
+  adverts:2.11
+  onion server:2.11
+  meaning:2.10
+  segregate:2.10
+  shops:2.10
+  thing:1.58
+  money:1.58
+  holes:1.58
+
+Topic 4:
+  payment:3.31
+  system:3.31
+  vendors:3.19
+  interface:1.81
+  clean:1.80
+  customers:1.65
+  usability:1.61
+  users:1.61
+  efficient:1.61
+  bonus:1.61
+
+K: 5, Log-Likelihood: -1268.021, Alpha: 11.000, Beta: 1.100

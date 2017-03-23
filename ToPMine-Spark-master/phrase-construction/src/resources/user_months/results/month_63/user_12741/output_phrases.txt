@@ -1,0 +1,61 @@
+Topic 0:
+  mukana arvonnassa:0.40
+  palkintoja:0.27
+  olet:0.27
+  viesti:0.27
+  vahvaa:0.27
+  st:0.27
+  eritt:0.27
+  arvotaan:0.27
+  tuotteita:0.14
+  finmarket:0.14
+
+Topic 1:
+  mukana arvonnassa:0.42
+  eritt:0.28
+  viesti:0.28
+  arvotaan:0.28
+  st:0.28
+  olet:0.28
+  vahvaa:0.28
+  palkintoja:0.28
+  laitamme:0.14
+  lahjoituksella:0.14
+
+Topic 2:
+  mukana arvonnassa:0.40
+  viesti:0.27
+  olet:0.27
+  vahvaa:0.27
+  eritt:0.27
+  palkintoja:0.27
+  arvotaan:0.27
+  st:0.27
+  alkuun:0.14
+  slim:0.14
+
+Topic 3:
+  mukana arvonnassa:0.44
+  arvotaan:0.28
+  st:0.28
+  vahvaa:0.28
+  palkintoja:0.28
+  eritt:0.28
+  olet:0.28
+  viesti:0.28
+  nimesi:0.14
+  laittakaa:0.14
+
+Topic 4:
+  mukana arvonnassa:0.41
+  st:0.28
+  arvotaan:0.28
+  eritt:0.28
+  palkintoja:0.28
+  vahvaa:0.28
+  olet:0.28
+  viesti:0.28
+  toimintamme:0.14
+  tuotteita:0.14
+
+K: 5, Log-Likelihood: -271.878, Alpha: 11.000, Beta: 1.100

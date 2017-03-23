@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:3.94
+  matter:1.88
+  tmg:1.78
+  money:1.59
+  risk:1.23
+  thier:1.16
+  hope:1.15
+  payment:1.15
+  address:1.11
+  vendors:1.06
+
+Topic 1:
+  vendor:4.56
+  tmg:2.42
+  matter:2.14
+  money:1.64
+  address:1.32
+  payment:1.15
+  risk:1.08
+  establish:1.08
+  direct:1.07
+  paranoid:1.06
+
+Topic 2:
+  vendor:2.87
+  matter:1.78
+  tmg:1.75
+  money:1.21
+  payment:1.18
+  risk:1.16
+  address:1.07
+  posts:0.92
+  tumble:0.91
+  big:0.90
+
+Topic 3:
+  vendor:2.98
+  matter:1.79
+  tmg:1.67
+  money:1.28
+  risk:1.13
+  payment:1.13
+  address:1.13
+  vendors:0.96
+  good:0.96
+  thier:0.93
+
+Topic 4:
+  send:6.16
+  buy:1.83
+  coin:1.83
+  wallet:1.37
+  wallets:1.18
+  quote:1.17
+  people:0.85
+  cost:0.85
+  stupid:0.85
+  tor:0.85
+
+K: 5, Log-Likelihood: -1167.145, Alpha: 11.000, Beta: 1.100

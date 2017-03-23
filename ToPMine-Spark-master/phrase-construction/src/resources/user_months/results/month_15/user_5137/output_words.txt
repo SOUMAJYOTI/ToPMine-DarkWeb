@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:2.13
+  account:1.82
+  item:1.43
+  bitcoins:1.35
+  tmg:1.32
+  transfer:1.24
+  thing:0.95
+  find:0.95
+  order:0.95
+  send:0.92
+
+Topic 1:
+  time:1.97
+  account:1.33
+  find:1.20
+  protectedone:1.18
+  vendor:0.93
+  transfer:0.89
+  tmg:0.83
+  bitcoins:0.83
+  info:0.82
+  intersting:0.82
+
+Topic 2:
+  vendor:2.04
+  account:1.57
+  transfer:1.42
+  tmg:1.41
+  bitcoins:1.37
+  item:1.36
+  thing:1.22
+  send:1.20
+  order:1.13
+  purchase:0.83
+
+Topic 3:
+  account:1.60
+  vendor:1.46
+  bitcoins:1.24
+  item:1.23
+  transfer:1.20
+  time:1.18
+  tmg:1.17
+  find:1.08
+  protectedone:0.88
+  purchase:0.88
+
+Topic 4:
+  account:1.68
+  vendor:1.43
+  tmg:1.28
+  item:1.25
+  transfer:1.25
+  time:1.24
+  bitcoins:1.21
+  find:0.99
+  couldn:0.85
+  sr:0.84
+
+K: 5, Log-Likelihood: -787.310, Alpha: 11.000, Beta: 1.100

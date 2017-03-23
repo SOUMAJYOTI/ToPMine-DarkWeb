@@ -1,0 +1,51 @@
+Topic 0:
+  isnt:0.14
+  linked:0.14
+  sites:0.14
+  marketplaces:0.14
+  legit:0.14
+  service:0.14
+  escrow:0.12
+  black:0.00
+
+Topic 1:
+  marketplaces:0.14
+  service:0.14
+  legit:0.14
+  isnt:0.14
+  sites:0.14
+  linked:0.14
+  escrow:0.12
+  black:0.00
+
+Topic 2:
+  linked:0.14
+  legit:0.14
+  isnt:0.14
+  service:0.14
+  sites:0.14
+  marketplaces:0.14
+  escrow:0.12
+  black:0.00
+
+Topic 3:
+  legit:0.14
+  service:0.14
+  sites:0.14
+  marketplaces:0.14
+  linked:0.14
+  isnt:0.14
+  escrow:0.12
+  black:0.00
+
+Topic 4:
+  sites:0.14
+  service:0.14
+  legit:0.14
+  marketplaces:0.14
+  linked:0.14
+  isnt:0.14
+  escrow:0.12
+  black:0.00
+
+K: 5, Log-Likelihood: -9.484, Alpha: 11.000, Beta: 1.100

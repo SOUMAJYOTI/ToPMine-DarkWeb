@@ -1,0 +1,61 @@
+Topic 0:
+  contact:0.58
+  vendor:0.45
+  november:0.42
+  pmtmg:0.28
+  hub:0.28
+  note:0.28
+  vendors:0.28
+  addresses:0.28
+  trade:0.28
+  doesnt sale dissociatives:0.28
+
+Topic 1:
+  contact:0.56
+  vendor:0.44
+  november:0.41
+  contact trades:0.28
+  email annoying frequent buyers:0.28
+  tmg:0.28
+  quote:0.28
+  post:0.28
+  benzos find place sell:0.28
+  purpose:0.28
+
+Topic 2:
+  contact:0.54
+  vendor:0.44
+  november:0.42
+  addresses:0.28
+  doesnt sale dissociatives:0.28
+  quote:0.28
+  purpose:0.28
+  email true trading manually:0.28
+  vendors:0.28
+  email annoying frequent buyers:0.28
+
+Topic 3:
+  contact:0.55
+  vendor:0.44
+  november:0.42
+  benzos find place sell:0.28
+  trade:0.28
+  larson:0.28
+  purpose:0.28
+  doesnt sale dissociatives:0.28
+  post:0.28
+  note:0.28
+
+Topic 4:
+  contact:0.54
+  vendor:0.43
+  november:0.41
+  email true trading manually:0.28
+  contact trades:0.28
+  email annoying frequent buyers:0.28
+  tmg:0.28
+  hub:0.28
+  trade:0.28
+  post:0.28
+
+K: 5, Log-Likelihood: -294.735, Alpha: 11.000, Beta: 1.100

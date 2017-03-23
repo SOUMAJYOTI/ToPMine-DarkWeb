@@ -1,0 +1,61 @@
+Topic 0:
+  qubes:7.12
+  vms:4.73
+  guy:4.73
+  secure:4.54
+  vm:3.58
+  security:3.40
+  anonymized:3.06
+  de:3.02
+  application:3.01
+  functions:3.01
+
+Topic 1:
+  interesting:3.56
+  person:3.18
+  pine:2.74
+  intriguing:2.35
+  occasionally:2.35
+  boundaries:2.35
+  character:2.35
+  threads:2.35
+  seemingly:2.35
+  guilty:2.35
+
+Topic 2:
+  virtual isolation applications:10.31
+  tested:8.69
+  disadvantages physical isolation:8.62
+  os advantages:6.87
+  full disk encryption:6.69
+  membership concealment:6.36
+  virtual isolation:5.68
+  physical isolation tor applications:5.53
+  membership concealment vpn:4.19
+  disadvantages:4.18
+
+Topic 3:
+  donations:6.41
+  charity:3.19
+  signed:3.19
+  pocket:3.19
+  putting:3.19
+  site:3.19
+  work:3.19
+  simply:3.19
+  hub:3.19
+  address donations:3.19
+
+Topic 4:
+  membership concealment:1.67
+  full disk encryption:1.35
+  os advantages:1.17
+  disadvantages physical isolation:1.03
+  tested:0.95
+  virtual isolation applications:0.94
+  physical isolation tor applications:0.89
+  security:0.77
+  windows:0.75
+  virtual isolation:0.74
+
+K: 5, Log-Likelihood: -6114.498, Alpha: 11.000, Beta: 1.100

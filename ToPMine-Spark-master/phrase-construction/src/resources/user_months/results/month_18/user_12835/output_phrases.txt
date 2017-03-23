@@ -1,0 +1,61 @@
+Topic 0:
+  day:0.24
+  real:0.24
+  welcomed:0.24
+  dumbasses:0.24
+  deserved:0.24
+  coinsif:0.24
+  stupidvending:0.24
+  lubes:0.24
+  single:0.24
+  whorehouse:0.24
+
+Topic 1:
+  knowledge:0.31
+  bmr:0.30
+  care:0.30
+  defendants:0.30
+  depending:0.21
+  themselvesthey:0.21
+  thereyou:0.21
+  takecare:0.21
+  busted:0.21
+  pussy:0.21
+
+Topic 2:
+  care:0.38
+  defendants:0.38
+  knowledge:0.38
+  bmr:0.38
+  opened:0.20
+  idiots:0.20
+  utopia:0.20
+  pussy:0.20
+  send:0.20
+  market:0.20
+
+Topic 3:
+  bmr:0.57
+  defendants:0.57
+  care:0.57
+  knowledge:0.57
+  btc:0.25
+  gentleman:0.25
+  facility:0.25
+  mailing:0.25
+  type:0.25
+  long:0.25
+
+Topic 4:
+  knowledge:0.35
+  care:0.34
+  defendants:0.34
+  bmr:0.34
+  idiots:0.21
+  jail:0.21
+  send:0.21
+  ass:0.21
+  themselvesthey:0.21
+  cocks:0.21
+
+K: 5, Log-Likelihood: -488.945, Alpha: 11.000, Beta: 1.100

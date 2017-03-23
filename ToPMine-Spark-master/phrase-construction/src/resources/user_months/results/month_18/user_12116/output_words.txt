@@ -1,0 +1,61 @@
+Topic 0:
+  ahead:1.23
+  cloak:1.09
+  light:0.83
+  years:0.80
+  whitepaper:0.69
+  call:0.51
+  coin:0.49
+  darkcoin:0.49
+  dark:0.40
+  currency:0.35
+
+Topic 1:
+  cloak:1.28
+  ahead:1.23
+  whitepaper:0.82
+  light:0.78
+  years:0.77
+  call:0.69
+  homework:0.44
+  wrong:0.44
+  monero:0.44
+  explain:0.44
+
+Topic 2:
+  ahead:1.29
+  cloak:1.21
+  years:0.83
+  light:0.82
+  whitepaper:0.76
+  call:0.56
+  dark:0.41
+  darkcoin:0.40
+  coin:0.40
+  true:0.39
+
+Topic 3:
+  cloak:1.04
+  ahead:1.04
+  whitepaper:0.85
+  light:0.80
+  years:0.77
+  call:0.57
+  coin:0.44
+  darkcoin:0.44
+  dark:0.40
+  currency:0.39
+
+Topic 4:
+  cloak:1.38
+  ahead:1.21
+  whitepaper:0.87
+  years:0.82
+  light:0.78
+  call:0.68
+  notice:0.44
+  explain:0.44
+  claim:0.44
+  true:0.44
+
+K: 5, Log-Likelihood: -561.557, Alpha: 11.000, Beta: 1.100

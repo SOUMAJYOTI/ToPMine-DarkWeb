@@ -1,0 +1,61 @@
+Topic 0:
+  time:0.41
+  port:0.20
+  network:0.20
+  unavoidable:0.20
+  follow:0.20
+  donate:0.20
+  nginx:0.20
+  site:0.20
+  fairly:0.20
+  missing:0.20
+
+Topic 1:
+  time:0.40
+  torrc:0.20
+  site:0.20
+  service:0.20
+  definately:0.20
+  day:0.20
+  hidden:0.20
+  unavoidable:0.20
+  port:0.20
+  simple:0.20
+
+Topic 2:
+  time:0.40
+  newbie:0.20
+  viewable:0.20
+  torrc:0.20
+  follow:0.20
+  day:0.20
+  tells:0.20
+  ive:0.20
+  tor:0.20
+  file:0.20
+
+Topic 3:
+  time:0.40
+  instructions:0.20
+  nginx:0.20
+  apache:0.20
+  simple:0.20
+  directed:0.20
+  bitcoin:0.20
+  hidden:0.20
+  service:0.20
+  listen:0.20
+
+Topic 4:
+  time:0.40
+  chosen:0.20
+  darknet:0.20
+  definately:0.20
+  bitcoin:0.20
+  site:0.20
+  service:0.20
+  directed:0.20
+  opened:0.20
+  nginx:0.20
+
+K: 5, Log-Likelihood: -105.097, Alpha: 11.000, Beta: 1.100

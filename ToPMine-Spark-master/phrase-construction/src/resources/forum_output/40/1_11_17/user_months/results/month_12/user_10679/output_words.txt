@@ -1,0 +1,61 @@
+Topic 0:
+  click:88.59
+  password:80.98
+  file:60.56
+  volume:60.55
+  truecrypt:50.95
+  files:42.39
+  drive:40.32
+  hidden:34.90
+  quote:28.64
+  choose:23.66
+
+Topic 1:
+  network:37.93
+  browser:24.73
+  false:22.57
+  socks:21.97
+  address:19.68
+  set:16.31
+  tor:14.72
+  add:14.11
+  proxychains:13.97
+  true:13.29
+
+Topic 2:
+  click:116.27
+  enter:76.99
+  select:73.19
+  tor:59.25
+  button:54.75
+  start:53.31
+  whonix:51.63
+  file:42.41
+  window:42.00
+  xubuntu:41.00
+
+Topic 3:
+  boogie:32.84
+  quote:31.55
+  sales:25.22
+  great:24.20
+  june:20.55
+  market:18.72
+  friend:18.45
+  good:15.96
+  multisig:15.40
+  multi:13.23
+
+Topic 4:
+  market:34.46
+  escrow:31.05
+  vendor:27.88
+  vendors:23.77
+  evolution:23.02
+  site:22.91
+  staff:21.80
+  order:20.97
+  time:19.36
+  feedback:18.93
+
+K: 5, Log-Likelihood: -67619.860, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  contribute:0.08
+  amnice:0.08
+  quote:0.08
+  dreamforums:0.08
+  referred:0.08
+  fuck:0.08
+  trolls:0.08
+  nice:0.08
+  february:0.08
+  spammers:0.08
+
+Topic 1:
+  spammers:0.08
+  amnice:0.08
+  nice:0.08
+  trolls:0.08
+  february:0.08
+  dreamforums:0.08
+  fuck:0.08
+  referred:0.08
+  quote:0.08
+  contribute:0.08
+
+Topic 2:
+  february:0.08
+  dreamforums:0.08
+  nice:0.08
+  fuck:0.08
+  contribute:0.08
+  referred:0.08
+  trolls:0.08
+  spammers:0.08
+  quote:0.08
+  amnice:0.08
+
+Topic 3:
+  spammers:0.08
+  trolls:0.08
+  nice:0.08
+  quote:0.08
+  referred:0.08
+  fuck:0.08
+  amnice:0.08
+  dreamforums:0.08
+  february:0.08
+  contribute:0.08
+
+Topic 4:
+  quote:0.08
+  contribute:0.08
+  amnice:0.08
+  february:0.08
+  referred:0.08
+  dreamforums:0.08
+  fuck:0.08
+  spammers:0.08
+  nice:0.08
+  trolls:0.08
+
+K: 5, Log-Likelihood: -10.145, Alpha: 11.000, Beta: 1.100

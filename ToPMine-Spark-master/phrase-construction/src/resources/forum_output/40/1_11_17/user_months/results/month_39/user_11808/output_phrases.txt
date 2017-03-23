@@ -1,0 +1,61 @@
+Topic 0:
+  silk road:1.97
+  market:1.80
+  markets:1.46
+  agora:1.24
+  site:1.24
+  marketplace:1.19
+  reviews multisig trusted:1.05
+  marketplace uri:0.97
+  dark net markets:0.97
+  escrow marketplacesmarketplace uri:0.94
+
+Topic 1:
+  market:3.46
+  agora:3.29
+  silk road:2.83
+  reviews multisig trusted:1.63
+  site:1.61
+  dark net market:1.44
+  markets:1.28
+  marketplace:1.26
+  dark net markets:1.24
+  vendor:1.14
+
+Topic 2:
+  market:2.21
+  agora:2.07
+  silk road:2.00
+  site:1.52
+  markets:1.42
+  dark net markets:1.32
+  reviews multisig trusted:1.17
+  dark net market:1.17
+  marketplace:0.98
+  forum uri reddit:0.97
+
+Topic 3:
+  silk road:1.49
+  market:1.20
+  markets:1.03
+  full:0.99
+  agora:0.95
+  site:0.89
+  marketplace:0.81
+  established:0.80
+  dark net markets:0.78
+  dark net market:0.74
+
+Topic 4:
+  agora:2.33
+  silk road:1.59
+  site:1.34
+  marketplace:1.25
+  market:1.21
+  dark net market:1.20
+  dark net markets:1.17
+  markets:1.06
+  reviews multisig trusted:0.95
+  escrow marketplacesmarketplace uri:0.89
+
+K: 5, Log-Likelihood: -3662.089, Alpha: 11.000, Beta: 1.100

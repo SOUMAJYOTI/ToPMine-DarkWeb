@@ -1,0 +1,61 @@
+Topic 0:
+  hours:0.64
+  btc:0.59
+  shortly:0.43
+  delete:0.35
+  watering:0.32
+  ganja:0.32
+  mouth:0.32
+  wallet:0.28
+  cheers:0.28
+  maximum:0.28
+
+Topic 1:
+  btc:0.75
+  shortly:0.54
+  hours:0.45
+  ganja:0.34
+  mouth:0.34
+  watering:0.34
+  delete:0.33
+  posted:0.26
+  couple:0.26
+  opened:0.26
+
+Topic 2:
+  btc:0.61
+  shortly:0.48
+  hours:0.47
+  watering:0.35
+  mouth:0.35
+  ganja:0.35
+  delete:0.35
+  quote:0.27
+  good:0.27
+  view:0.27
+
+Topic 3:
+  btc:0.65
+  hours:0.51
+  shortly:0.49
+  ganja:0.34
+  mouth:0.34
+  watering:0.34
+  delete:0.34
+  quote:0.26
+  winnfield:0.26
+  pmyour:0.26
+
+Topic 4:
+  btc:0.79
+  shortly:0.57
+  hours:0.44
+  watering:0.34
+  mouth:0.34
+  ganja:0.34
+  delete:0.33
+  moved:0.27
+  exchanges:0.27
+  opened:0.27
+
+K: 5, Log-Likelihood: -188.909, Alpha: 11.000, Beta: 1.100

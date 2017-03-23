@@ -1,0 +1,61 @@
+Topic 0:
+  coin:5.09
+  transaction:3.83
+  address:3.80
+  coins:3.61
+  referred:3.44
+  btc:3.12
+  blockchain:2.93
+  double:2.57
+  link:2.56
+  hours:2.53
+
+Topic 1:
+  service:6.51
+  evo:6.07
+  time:5.82
+  sales:4.73
+  customer:3.90
+  problem:3.47
+  bsm:2.80
+  traffic:2.75
+  issues:2.73
+  pandora:2.73
+
+Topic 2:
+  referred:5.22
+  link:3.80
+  find:3.72
+  long:2.53
+  great:2.42
+  vendors:2.06
+  open:1.94
+  hope:1.83
+  market:1.58
+  marketplace:1.56
+
+Topic 3:
+  market:10.45
+  account:7.44
+  agora:7.11
+  click:6.85
+  vendor:5.97
+  good:4.13
+  buyers:4.12
+  listing:4.05
+  link:3.87
+  quantity:3.86
+
+Topic 4:
+  btc:9.10
+  materials:4.27
+  printing:3.77
+  company:3.70
+  print:3.67
+  things:3.66
+  accepts:3.66
+  custom:3.62
+  links:3.24
+  business:3.22
+
+K: 5, Log-Likelihood: -5086.288, Alpha: 11.000, Beta: 1.100

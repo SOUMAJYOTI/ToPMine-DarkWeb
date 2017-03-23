@@ -1,0 +1,51 @@
+Topic 0:
+  marketplace:0.40
+  choice:0.20
+  decided:0.20
+  branch:0.20
+  rings:0.20
+  onion:0.20
+  earth:0.20
+  middle:0.20
+
+Topic 1:
+  marketplace:0.40
+  onion:0.20
+  earth:0.20
+  decided:0.20
+  branch:0.20
+  choice:0.20
+  middle:0.20
+  rings:0.20
+
+Topic 2:
+  marketplace:0.40
+  onion:0.20
+  middle:0.20
+  earth:0.20
+  branch:0.20
+  rings:0.20
+  choice:0.20
+  decided:0.20
+
+Topic 3:
+  marketplace:0.40
+  middle:0.20
+  rings:0.20
+  choice:0.20
+  earth:0.20
+  decided:0.20
+  branch:0.20
+  onion:0.20
+
+Topic 4:
+  marketplace:0.40
+  choice:0.20
+  branch:0.20
+  rings:0.20
+  onion:0.20
+  earth:0.20
+  decided:0.20
+  middle:0.20
+
+K: 5, Log-Likelihood: -18.414, Alpha: 11.000, Beta: 1.100

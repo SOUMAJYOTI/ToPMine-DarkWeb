@@ -1,0 +1,61 @@
+Topic 0:
+  prepared:0.40
+  localbitcoins:0.40
+  pay:0.40
+  bet:0.40
+  waay:0.40
+  paypal:0.40
+  normal:0.40
+  roughly:0.20
+  seller:0.20
+  prove:0.20
+
+Topic 1:
+  normal:0.40
+  localbitcoins:0.40
+  prepared:0.40
+  waay:0.40
+  bet:0.40
+  pay:0.40
+  paypal:0.40
+  btc:0.20
+  buy:0.20
+  high:0.20
+
+Topic 2:
+  pay:0.40
+  paypal:0.40
+  normal:0.40
+  localbitcoins:0.40
+  bet:0.40
+  prepared:0.40
+  waay:0.40
+  papa:0.20
+  basically:0.20
+  time:0.20
+
+Topic 3:
+  bet:0.40
+  localbitcoins:0.40
+  waay:0.40
+  paypal:0.40
+  prepared:0.40
+  normal:0.40
+  pay:0.40
+  real:0.20
+  buy:0.20
+  similiar:0.20
+
+Topic 4:
+  waay:0.40
+  pay:0.40
+  normal:0.40
+  paypal:0.40
+  prepared:0.40
+  bet:0.40
+  localbitcoins:0.40
+  prove:0.20
+  hassle:0.20
+  seller:0.20
+
+K: 5, Log-Likelihood: -152.181, Alpha: 11.000, Beta: 1.100

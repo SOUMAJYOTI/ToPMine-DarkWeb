@@ -1,0 +1,61 @@
+Topic 0:
+  send:4.05
+  delays:2.82
+  deposit:2.80
+  btc:2.66
+  deposits:2.38
+  evo:2.24
+  stuff:2.21
+  tomorrow:1.90
+  happy:1.90
+  heyday:1.90
+
+Topic 1:
+  vendors:8.43
+  buyers:6.70
+  market:5.15
+  strategy:4.36
+  scenario:4.27
+  days:3.95
+  orders:3.38
+  agora:3.04
+  incentive:2.82
+  continue:2.76
+
+Topic 2:
+  agora:3.76
+  market:3.49
+  days:2.59
+  vendors:2.39
+  hours:2.20
+  buyers:2.13
+  btc:2.02
+  order:1.64
+  scenario:1.56
+  withdrawals:1.55
+
+Topic 3:
+  scam:4.34
+  withdrawals:4.05
+  btc:3.03
+  bet:2.41
+  huge:2.30
+  inputs:1.94
+  worry:1.94
+  people:1.83
+  deposit:1.83
+  week:1.52
+
+Topic 4:
+  days:2.98
+  people:2.61
+  waiting:2.53
+  agora:2.37
+  deposits:2.30
+  deposit:2.14
+  backlog:2.08
+  transactions:2.06
+  hours:1.97
+  withdraw:1.89
+
+K: 5, Log-Likelihood: -3047.204, Alpha: 11.000, Beta: 1.100

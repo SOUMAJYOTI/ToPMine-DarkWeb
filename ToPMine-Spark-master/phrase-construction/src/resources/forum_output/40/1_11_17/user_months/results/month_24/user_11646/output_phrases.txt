@@ -1,0 +1,61 @@
+Topic 0:
+  sr:1.22
+  wall:0.69
+  kitten:0.66
+  lost:0.62
+  scam:0.57
+  time:0.50
+  swam:0.50
+  read:0.47
+  setting:0.47
+  noobs:0.47
+
+Topic 1:
+  sr:1.06
+  lost:1.05
+  wall:0.88
+  comming:0.72
+  coins:0.72
+  stolen:0.72
+  warned:0.72
+  dl:0.72
+  sympathise:0.72
+  money:0.72
+
+Topic 2:
+  scam:1.80
+  happened:1.16
+  pointps:1.16
+  pandorasr:1.15
+  long:1.15
+  security:1.15
+  empty:1.15
+  admin:1.15
+  ma:1.15
+  greedy:1.15
+
+Topic 3:
+  fk:2.81
+  vendor:2.81
+  fuck:2.81
+  ffs:2.81
+  common:1.32
+  al:1.32
+  falling:1.32
+  registration:1.32
+  owe:1.32
+  team:1.32
+
+Topic 4:
+  sr:1.53
+  removed:1.06
+  bunch:1.06
+  post:1.06
+  fucks:1.06
+  lack:1.06
+  managed:1.06
+  dumb:1.06
+  round:1.06
+  stexos:1.06
+
+K: 5, Log-Likelihood: -656.446, Alpha: 11.000, Beta: 1.100

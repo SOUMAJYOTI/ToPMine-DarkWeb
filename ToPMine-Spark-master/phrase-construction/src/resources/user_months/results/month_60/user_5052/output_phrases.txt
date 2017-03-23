@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.01
+  markets:0.83
+  time:0.50
+  dont:0.48
+  don:0.46
+  legit:0.42
+  obvious:0.42
+  realized:0.41
+  posted:0.41
+  yeah:0.41
+
+Topic 1:
+  site:1.83
+  big:1.83
+  source:1.83
+  exit:1.83
+  anytime:1.83
+  rebranded:1.83
+  scamming:1.83
+  speculated:1.83
+  op:1.83
+  market hope:1.83
+
+Topic 2:
+  market:1.07
+  markets:0.92
+  time:0.51
+  dont:0.49
+  don:0.47
+  sig:0.46
+  losses:0.46
+  assuaged:0.46
+  minutes:0.46
+  planned:0.45
+
+Topic 3:
+  market:2.87
+  sincere:1.14
+  unfortunate major:1.14
+  day:1.14
+  reply:1.14
+  unfortunate:1.14
+  experiencing:1.14
+  hub:1.14
+  previous:1.14
+  trapped:1.13
+
+Topic 4:
+  wtf:1.34
+  hours:1.34
+  smell:1.34
+  timing:1.34
+  damn:1.33
+  ago:1.33
+  roughly:1.33
+  fuck:1.33
+  methylamine:1.33
+  fishy:1.33
+
+K: 5, Log-Likelihood: -887.055, Alpha: 11.000, Beta: 1.100

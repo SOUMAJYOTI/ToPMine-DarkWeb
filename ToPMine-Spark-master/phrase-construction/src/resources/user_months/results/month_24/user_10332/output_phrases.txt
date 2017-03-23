@@ -1,0 +1,61 @@
+Topic 0:
+  copyright:0.00
+  wait:0.00
+  memory:0.00
+  regret:0.00
+  balls:0.00
+  invest:0.00
+  fuck:0.00
+  admin:0.00
+  ddos:0.00
+  protection:0.00
+
+Topic 1:
+  copyright:0.00
+  wait:0.00
+  memory:0.00
+  regret:0.00
+  balls:0.00
+  invest:0.00
+  fuck:0.00
+  admin:0.00
+  ddos:0.00
+  protection:0.00
+
+Topic 2:
+  copyright:0.00
+  wait:0.00
+  memory:0.00
+  regret:0.00
+  balls:0.00
+  invest:0.00
+  fuck:0.00
+  admin:0.00
+  ddos:0.00
+  protection:0.00
+
+Topic 3:
+  copyright:0.00
+  wait:0.00
+  memory:0.00
+  regret:0.00
+  balls:0.00
+  invest:0.00
+  fuck:0.00
+  admin:0.00
+  ddos:0.00
+  protection:0.00
+
+Topic 4:
+  copyright:0.00
+  wait:0.00
+  memory:0.00
+  regret:0.00
+  balls:0.00
+  invest:0.00
+  fuck:0.00
+  admin:0.00
+  ddos:0.00
+  protection:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

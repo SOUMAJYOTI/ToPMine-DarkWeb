@@ -1,0 +1,61 @@
+Topic 0:
+  time:23.25
+  drive:21.71
+  firmware:15.33
+  hardware:14.83
+  software:11.37
+  thing:10.43
+  hard:10.36
+  man:9.43
+  april:9.33
+  zaphod:8.71
+
+Topic 1:
+  point:6.35
+  attacker:4.34
+  impossible:4.17
+  whonix:4.13
+  data:3.98
+  parts:3.94
+  mitigations:3.94
+  target:3.94
+  installed:3.82
+  add:3.82
+
+Topic 2:
+  tor:10.47
+  html:6.90
+  tails:6.23
+  java:3.93
+  attacks:3.93
+  interesting:3.91
+  image:3.86
+  computer:2.93
+  pasted:2.91
+  site:2.53
+
+Topic 3:
+  font:6.98
+  bots:5.98
+  majesty:4.98
+  human:4.98
+  privacy:4.58
+  communications:3.98
+  site:3.79
+  internet:3.31
+  international:2.98
+  email:2.98
+
+Topic 4:
+  april:12.20
+  time:10.29
+  security:8.51
+  quote:5.17
+  pallidpallas:5.02
+  times:4.42
+  inconvenienced:3.93
+  forums:3.86
+  load:3.40
+  service:2.93
+
+K: 5, Log-Likelihood: -8187.674, Alpha: 11.000, Beta: 1.100

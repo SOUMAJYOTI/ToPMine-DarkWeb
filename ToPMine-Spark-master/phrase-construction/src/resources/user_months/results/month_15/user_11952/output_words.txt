@@ -1,0 +1,61 @@
+Topic 0:
+  attack:0.82
+  agora:0.40
+  answer:0.40
+  silkroad:0.20
+  trouble:0.20
+  minutes:0.20
+  havent:0.20
+  login:0.20
+  yup:0.20
+  road:0.20
+
+Topic 1:
+  attack:0.80
+  answer:0.40
+  agora:0.40
+  feds:0.20
+  trouble:0.20
+  people:0.20
+  grow:0.20
+  site:0.20
+  assume:0.20
+  benefits:0.20
+
+Topic 2:
+  attack:0.82
+  agora:0.40
+  answer:0.40
+  silkroad:0.20
+  pmsilkroad:0.20
+  people:0.20
+  hoping:0.20
+  quote:0.20
+  involved:0.20
+  july:0.20
+
+Topic 3:
+  attack:0.76
+  answer:0.41
+  agora:0.40
+  party:0.20
+  hoping:0.20
+  pmsilkroad:0.20
+  sites:0.20
+  july:0.20
+  site:0.20
+  assume:0.20
+
+Topic 4:
+  attack:0.80
+  agora:0.40
+  answer:0.39
+  silk:0.20
+  road:0.20
+  silkroad:0.20
+  login:0.20
+  havent:0.20
+  minutes:0.20
+  trouble:0.20
+
+K: 5, Log-Likelihood: -98.653, Alpha: 11.000, Beta: 1.100

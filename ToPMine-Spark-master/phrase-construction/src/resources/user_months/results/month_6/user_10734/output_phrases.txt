@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins:6.30
+  idea:5.24
+  wallet btc:5.24
+  seperated:5.24
+  pennys:5.24
+  break:5.24
+  btc:5.24
+  broken:5.24
+  truecrypt:4.91
+  sell:4.36
+
+Topic 1:
+  virtual cd dvd:7.89
+  install truecrypt:6.52
+  backup:5.25
+  free:5.25
+  windows:5.25
+  header:5.25
+  windows vm:5.25
+  true:5.18
+  thumb:5.17
+  encrypted:5.17
+
+Topic 2:
+  tor:13.77
+  airvpn:10.54
+  tor exit node:7.90
+  option:7.90
+  configuration:7.90
+  tor exit:5.26
+  connect:5.26
+  sites:5.26
+  client:5.26
+  bundle:5.26
+
+Topic 3:
+  longer chain:7.89
+  processing power:7.70
+  transaction:6.66
+  fake bitin transaction:6.65
+  secret:5.25
+  attack:5.25
+  note:5.20
+  busted:5.02
+  process:4.41
+  understanding:4.41
+
+Topic 4:
+  coins:10.54
+  alice:9.54
+  send coins:7.90
+  bitcoin network:7.90
+  accepted:7.90
+  wins:5.26
+  carol:5.26
+  block blockchain:5.26
+  coins bob:5.26
+  longest:5.26
+
+K: 5, Log-Likelihood: -7441.792, Alpha: 11.000, Beta: 1.100

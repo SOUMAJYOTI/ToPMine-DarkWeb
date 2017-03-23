@@ -1,0 +1,61 @@
+Topic 0:
+  finger:1.09
+  hold:1.09
+  pending:1.09
+  unitedamsterdam:1.09
+  operation:1.09
+  theheineken:1.09
+  sea:1.09
+  news:1.09
+  detained:1.09
+  point:1.09
+
+Topic 1:
+  silk road:3.24
+  international:2.34
+  online marketplaces:1.45
+  drug trafficking:1.41
+  hidden:1.39
+  dutch police:1.38
+  vendors:1.37
+  ecstasy pills:1.34
+  years:1.33
+  man years:1.33
+
+Topic 2:
+  silk road:1.34
+  international:1.05
+  united states:0.80
+  vendors:0.76
+  cash bitcoins:0.76
+  ecstasy pills:0.75
+  online marketplaces:0.74
+  underground market places:0.74
+  years:0.73
+  man years:0.73
+
+Topic 3:
+  silk road:2.43
+  international:1.81
+  market place:1.39
+  underground market places:1.37
+  man years:1.35
+  hidden:1.31
+  years:1.31
+  ecstasy pills:1.30
+  cash bitcoins:1.29
+  dutch police:1.29
+
+Topic 4:
+  business:1.07
+  order:1.07
+  running:1.07
+  suspicious:1.07
+  users:1.06
+  catch:1.06
+  happened:0.82
+  arrests:0.82
+  june:0.82
+  open:0.82
+
+K: 5, Log-Likelihood: -1803.263, Alpha: 11.000, Beta: 1.100

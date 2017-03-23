@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:17.58
+  account:11.00
+  cash:6.96
+  paul:6.70
+  november:5.02
+  deposit:4.89
+  blockchain:4.27
+  quote:3.93
+  dollar:3.60
+  btc:3.57
+
+Topic 1:
+  tor:7.41
+  coins:6.24
+  feel:6.13
+  confused:5.92
+  chrome:5.92
+  coinbase:5.60
+  bitcoins:5.38
+  bit:4.76
+  helix:3.78
+  don:3.55
+
+Topic 2:
+  wallet:16.27
+  good:10.45
+  online:9.28
+  blockchain:8.64
+  safety:7.84
+  question:5.86
+  pack:4.36
+  search:3.84
+  topic:3.84
+  download:3.84
+
+Topic 3:
+  buy:16.90
+  tor:16.25
+  transfer:13.67
+  bank:9.75
+  account:9.56
+  coinbase:9.27
+  bitcoins:6.25
+  wallet:6.01
+  bitin:5.89
+  browser:5.89
+
+Topic 4:
+  dont:13.65
+  cash:12.27
+  downloaded:10.75
+  bofa:8.88
+  november:8.61
+  btc:8.08
+  paul:7.91
+  account:7.81
+  wallet:7.73
+  deposit:7.50
+
+K: 5, Log-Likelihood: -5180.550, Alpha: 11.000, Beta: 1.100

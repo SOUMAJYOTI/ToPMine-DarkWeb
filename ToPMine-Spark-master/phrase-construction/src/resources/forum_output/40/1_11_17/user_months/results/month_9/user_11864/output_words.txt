@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:2.95
+  market:2.95
+  message:2.04
+  wow:1.95
+  signature:1.95
+  note:1.95
+  impressed:1.95
+  darkness:1.04
+  piratey:1.02
+  peyvioyhj:0.95
+
+Topic 1:
+  middle:5.06
+  earth:4.95
+  site:2.69
+  secure:1.85
+  constructed:1.77
+  open:1.07
+  marketplace:1.05
+  place:1.02
+  super:1.01
+  april:0.75
+
+Topic 2:
+  april:7.71
+  site:4.42
+  marketplace:4.38
+  middle:3.42
+  earth:2.98
+  fuck:2.52
+  encrypted:2.50
+  constructed:2.12
+  secure:2.10
+  full:1.85
+
+Topic 3:
+  earth:4.37
+  middle:3.85
+  marketplace:3.48
+  site:3.26
+  april:2.38
+  constructed:2.38
+  secure:2.33
+  open:1.26
+  place:1.24
+  super:1.23
+
+Topic 4:
+  earth:5.63
+  middle:5.60
+  post:3.87
+  analysis:3.80
+  message:3.69
+  fine:2.83
+  subtle:2.83
+  underscore:2.83
+  security:2.27
+  hobbits:2.07
+
+K: 5, Log-Likelihood: -2347.574, Alpha: 11.000, Beta: 1.100

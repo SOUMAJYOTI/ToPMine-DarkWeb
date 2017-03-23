@@ -1,0 +1,56 @@
+Topic 0:
+  tulkaa:0.00
+  kamaa:0.00
+  ja:0.00
+  tuli:0.00
+  reilusti:0.00
+  oy:0.00
+  pois:0.00
+  viek:0.00
+  rehtutukku:0.00
+
+Topic 1:
+  tulkaa:0.00
+  kamaa:0.00
+  ja:0.00
+  tuli:0.00
+  reilusti:0.00
+  oy:0.00
+  pois:0.00
+  viek:0.00
+  rehtutukku:0.00
+
+Topic 2:
+  tulkaa:0.00
+  kamaa:0.00
+  ja:0.00
+  tuli:0.00
+  reilusti:0.00
+  oy:0.00
+  pois:0.00
+  viek:0.00
+  rehtutukku:0.00
+
+Topic 3:
+  tulkaa:0.00
+  kamaa:0.00
+  ja:0.00
+  tuli:0.00
+  reilusti:0.00
+  oy:0.00
+  pois:0.00
+  viek:0.00
+  rehtutukku:0.00
+
+Topic 4:
+  tulkaa:0.00
+  kamaa:0.00
+  ja:0.00
+  tuli:0.00
+  reilusti:0.00
+  oy:0.00
+  pois:0.00
+  viek:0.00
+  rehtutukku:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

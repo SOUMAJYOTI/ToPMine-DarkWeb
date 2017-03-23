@@ -1,0 +1,61 @@
+Topic 0:
+  pahimmista:0.00
+  ll:0.00
+  ostako:0.00
+  kusettajia:0.00
+  kauppoja:0.00
+  alla:0.00
+  evolla:0.00
+  markkinarako:0.00
+  negatiivista:0.00
+  tuotteista:0.00
+
+Topic 1:
+  pahimmista:0.00
+  ll:0.00
+  ostako:0.00
+  kusettajia:0.00
+  kauppoja:0.00
+  alla:0.00
+  evolla:0.00
+  markkinarako:0.00
+  negatiivista:0.00
+  tuotteista:0.00
+
+Topic 2:
+  pahimmista:0.00
+  ll:0.00
+  ostako:0.00
+  kusettajia:0.00
+  kauppoja:0.00
+  alla:0.00
+  evolla:0.00
+  markkinarako:0.00
+  negatiivista:0.00
+  tuotteista:0.00
+
+Topic 3:
+  pahimmista:0.00
+  ll:0.00
+  ostako:0.00
+  kusettajia:0.00
+  kauppoja:0.00
+  alla:0.00
+  evolla:0.00
+  markkinarako:0.00
+  negatiivista:0.00
+  tuotteista:0.00
+
+Topic 4:
+  pahimmista:0.00
+  ll:0.00
+  ostako:0.00
+  kusettajia:0.00
+  kauppoja:0.00
+  alla:0.00
+  evolla:0.00
+  markkinarako:0.00
+  negatiivista:0.00
+  tuotteista:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  guy:1.31
+  feel:1.01
+  matter:1.01
+  pointless:1.01
+  lol:1.01
+  find:1.01
+  search:1.01
+  yep:0.81
+  tv:0.81
+  wrong:0.80
+
+Topic 1:
+  death:3.70
+  ceo:3.70
+  teach:2.45
+  autumn radtke:2.45
+  mt:2.45
+  saddened:2.45
+  news:2.45
+  bitcoin exchange:2.45
+  radtkes:2.45
+  february:2.45
+
+Topic 2:
+  bitcoin:5.73
+  nakamoto:3.90
+  newsweek:3.29
+  code:2.46
+  satoshi nakamoto:2.43
+  story:2.32
+  called:2.22
+  foundation:1.47
+  involved:1.44
+  los:1.43
+
+Topic 3:
+  bitcoin:0.79
+  nakamoto:0.61
+  year:0.53
+  called:0.41
+  newsweek:0.39
+  currency:0.38
+  financial:0.37
+  satoshi nakamoto:0.36
+  story:0.35
+  code:0.33
+
+Topic 4:
+  bitcoin:2.17
+  nakamoto:1.56
+  newsweek:1.17
+  called:0.96
+  story:0.93
+  year:0.86
+  satoshi nakamoto:0.82
+  code:0.81
+  nakamotos:0.73
+  streak:0.71
+
+K: 5, Log-Likelihood: -2935.191, Alpha: 11.000, Beta: 1.100

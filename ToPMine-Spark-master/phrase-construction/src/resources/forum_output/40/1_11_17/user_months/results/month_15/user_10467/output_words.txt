@@ -1,0 +1,61 @@
+Topic 0:
+  problem:2.05
+  account:1.63
+  log:1.57
+  hey:0.61
+  hours:0.60
+  message:0.58
+  sky:0.41
+  common:0.41
+  markets:0.41
+  blue:0.41
+
+Topic 1:
+  problem:2.79
+  account:1.59
+  log:1.44
+  hours:0.67
+  hey:0.59
+  message:0.49
+  waiting:0.45
+  common:0.45
+  blue:0.45
+  curious:0.45
+
+Topic 2:
+  problem:2.40
+  log:1.88
+  account:1.40
+  hours:0.64
+  hey:0.61
+  message:0.58
+  resolved:0.42
+  waiting:0.42
+  curious:0.40
+  sky:0.40
+
+Topic 3:
+  problem:2.25
+  account:1.52
+  log:1.21
+  message:0.60
+  hours:0.58
+  hey:0.57
+  markets:0.51
+  blue:0.45
+  curious:0.45
+  sky:0.45
+
+Topic 4:
+  log:1.90
+  account:1.86
+  problem:1.52
+  message:0.75
+  times:0.65
+  encountered:0.65
+  password:0.64
+  hey:0.62
+  hours:0.51
+  popped:0.42
+
+K: 5, Log-Likelihood: -390.613, Alpha: 11.000, Beta: 1.100

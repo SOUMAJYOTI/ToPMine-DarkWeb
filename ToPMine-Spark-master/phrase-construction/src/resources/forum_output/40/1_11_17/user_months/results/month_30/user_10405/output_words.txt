@@ -1,0 +1,61 @@
+Topic 0:
+  tor:13.35
+  potential:3.16
+  read:2.40
+  users:2.24
+  security:2.06
+  document:1.95
+  overview:1.95
+  deanonymise:1.95
+  services:1.95
+  work:1.95
+
+Topic 1:
+  traffic:7.12
+  havent:6.48
+  block:5.79
+  chain:5.79
+  anonymous:4.84
+  weeks:4.10
+  november:2.98
+  moved:2.81
+  considered:2.81
+  began:2.81
+
+Topic 2:
+  blockchain:10.39
+  exit:7.43
+  address:6.21
+  access:5.41
+  onion:4.07
+  relays:3.95
+  number:3.20
+  traffic:2.13
+  reduced:2.09
+  mindful:2.09
+
+Topic 3:
+  bitcoin:9.95
+  users:7.72
+  tor:7.40
+  network:6.32
+  nodes:3.56
+  exit:3.50
+  paper:2.96
+  accessing:2.96
+  transactions:2.96
+  connect:2.36
+
+Topic 4:
+  news:4.90
+  drip:3.94
+  bit:3.80
+  keys:2.56
+  docs:2.26
+  dump:2.09
+  company:1.95
+  simply:1.95
+  move:1.95
+  stories:1.95
+
+K: 5, Log-Likelihood: -3613.439, Alpha: 11.000, Beta: 1.100

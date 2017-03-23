@@ -1,0 +1,61 @@
+Topic 0:
+  family:3.79
+  good:2.22
+  place:1.80
+  participant:1.80
+  enlighten:1.80
+  movement:1.80
+  bye:1.80
+  enjoy:1.80
+  aid:1.80
+  sorts:1.80
+
+Topic 1:
+  market:8.16
+  hansa:3.99
+  dream:3.05
+  address:2.96
+  wanted:1.84
+  opinions:1.83
+  january:1.83
+  thing:1.83
+  finally:1.83
+  kind:1.82
+
+Topic 2:
+  pgp:3.58
+  bought:2.66
+  cool:2.65
+  markets:2.43
+  yeah:1.77
+  stuff:1.58
+  day:1.58
+  quote:1.36
+  january:1.35
+  good:1.34
+
+Topic 3:
+  january:2.62
+  dudes:1.77
+  alpha:1.63
+  fatherted:1.54
+  market:1.53
+  pgp:1.39
+  quote:1.27
+  applicable:1.18
+  nucleus:1.07
+  pmquote:1.06
+
+Topic 4:
+  mistakes:3.75
+  place:3.64
+  february:3.41
+  love:2.40
+  dudes:2.01
+  spend:1.76
+  time:1.76
+  exploring:1.76
+  versed:1.76
+  order:1.76
+
+K: 5, Log-Likelihood: -1391.484, Alpha: 11.000, Beta: 1.100

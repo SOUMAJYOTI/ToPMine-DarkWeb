@@ -1,0 +1,61 @@
+Topic 0:
+  big:1.31
+  servers:1.21
+  full:1.17
+  web server:1.09
+  server:1.09
+  hidden:0.77
+  dedicated:0.76
+  feedback:0.76
+  sales:0.76
+  board:0.76
+
+Topic 1:
+  luck:2.39
+  good good:1.14
+  markets:1.14
+  high:1.14
+  pmquotereferral:1.14
+  competition:1.14
+  quote:1.14
+  raised:1.14
+  commissions:1.14
+  april:1.14
+
+Topic 2:
+  big:0.76
+  servers:0.75
+  web server:0.74
+  server:0.73
+  site:0.69
+  full:0.69
+  data:0.55
+  expect:0.54
+  sales:0.54
+  mufti:0.53
+
+Topic 3:
+  site:0.81
+  server:0.56
+  pigeon:0.52
+  time:0.52
+  big:0.51
+  full:0.50
+  servers:0.50
+  web server:0.50
+  flown:0.43
+  coupe:0.43
+
+Topic 4:
+  web server:1.38
+  full:1.36
+  server:1.33
+  servers:1.26
+  big:1.13
+  simple:0.82
+  mufti:0.81
+  dedicated:0.80
+  users:0.80
+  system:0.80
+
+K: 5, Log-Likelihood: -1068.773, Alpha: 11.000, Beta: 1.100

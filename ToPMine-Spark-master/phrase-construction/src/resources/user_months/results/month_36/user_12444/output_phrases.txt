@@ -1,0 +1,61 @@
+Topic 0:
+  ll:2.90
+  sis:1.49
+  jatkamme:1.26
+  ongelma:1.26
+  sama:1.26
+  tilini:1.26
+  blockchain:1.26
+  floating:1.16
+  fixed:1.16
+  transaction:1.16
+
+Topic 1:
+  viel:1.59
+  kun:1.06
+  kapteeni:0.84
+  siirsin:0.78
+  taas:0.76
+  evolutioniin:0.72
+  mars:0.72
+  riitt:0.71
+  usk:0.71
+  mutta:0.65
+
+Topic 2:
+  ja:3.48
+  tilille:1.74
+  tapahtu:1.73
+  tililt:1.73
+  saapunu:1.72
+  oo:1.72
+  ostaja:1.72
+  jossain:1.72
+  myyj:1.72
+  eik coinit:1.72
+
+Topic 3:
+  jatkaa:1.33
+  voitais:1.33
+  pois:1.33
+  normaalisti:1.33
+  toivotaan:1.33
+  ongelmat:1.33
+  silkkitiell:1.33
+  rahansiirto:1.33
+  hoitais:1.33
+  ll ja:1.21
+
+Topic 4:
+  osaavat:1.59
+  illalla:1.59
+  kommentoinut:1.59
+  joka:1.59
+  yli:1.59
+  coinia:1.59
+  varsin:1.59
+  pit:1.59
+  toistaiseksi:1.59
+  skt:1.59
+
+K: 5, Log-Likelihood: -1365.318, Alpha: 11.000, Beta: 1.100

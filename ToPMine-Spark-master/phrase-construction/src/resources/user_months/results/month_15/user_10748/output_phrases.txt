@@ -1,0 +1,61 @@
+Topic 0:
+  correct:0.30
+  input:0.30
+  address:0.30
+  create:0.30
+  find:0.30
+  working:0.30
+  bip:0.30
+  secure:0.30
+  sh:0.30
+  user:0.30
+
+Topic 1:
+  address:0.30
+  work:0.30
+  create:0.30
+  sh:0.30
+  working:0.30
+  input:0.30
+  find:0.30
+  bip:0.30
+  secure:0.30
+  user:0.30
+
+Topic 2:
+  issues:0.50
+  settings:0.50
+  tarball:0.50
+  tails:0.50
+  windows:0.25
+  transaction keys:0.21
+  windows binary:0.21
+  version sh:0.21
+  github:0.21
+  compiled:0.21
+
+Topic 3:
+  secure:0.33
+  correct:0.32
+  work:0.32
+  find:0.32
+  sh:0.32
+  user:0.32
+  input:0.32
+  create:0.32
+  working:0.32
+  address:0.32
+
+Topic 4:
+  user:0.30
+  bip:0.30
+  sh:0.30
+  working:0.30
+  create:0.30
+  input:0.30
+  address:0.30
+  work:0.29
+  find:0.29
+  secure:0.29
+
+K: 5, Log-Likelihood: -527.970, Alpha: 11.000, Beta: 1.100

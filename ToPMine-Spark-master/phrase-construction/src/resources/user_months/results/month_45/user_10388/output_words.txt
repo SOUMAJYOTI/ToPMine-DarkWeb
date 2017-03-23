@@ -1,0 +1,61 @@
+Topic 0:
+  dont:3.14
+  signature:1.92
+  pgp:1.92
+  ox:1.77
+  message:1.36
+  reviews:1.05
+  quote:1.02
+  market:1.00
+  buy:0.97
+  hjmpusaok:0.97
+
+Topic 1:
+  fe:10.90
+  customer:4.50
+  times:3.88
+  support:3.70
+  nucleus:3.62
+  good:3.33
+  problems:3.11
+  buy:2.96
+  offer:2.89
+  veteran:2.87
+
+Topic 2:
+  javascript:16.72
+  code:13.54
+  safe:10.68
+  cookie:7.77
+  disable:7.76
+  load:6.02
+  login:5.72
+  literally:5.69
+  looked:5.69
+  encrypt:5.68
+
+Topic 3:
+  tor:10.57
+  web:7.77
+  read:5.86
+  vpn:5.71
+  oxymonster:5.31
+  quote:5.23
+  alternative:3.73
+  log:3.73
+  vm:3.73
+  market:3.40
+
+Topic 4:
+  market:6.98
+  pgp:4.03
+  signature:4.03
+  sr:3.96
+  links:3.35
+  messages:3.03
+  mem:2.74
+  ll:2.72
+  weve:2.72
+  india:2.71
+
+K: 5, Log-Likelihood: -6553.168, Alpha: 11.000, Beta: 1.100

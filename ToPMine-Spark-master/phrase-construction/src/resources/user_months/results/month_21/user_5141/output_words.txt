@@ -1,0 +1,61 @@
+Topic 0:
+  active:0.40
+  vendors:0.40
+  admin:0.20
+  confirm:0.20
+  clarify:0.20
+  europe:0.20
+  grateful:0.20
+  uk:0.20
+  logged:0.20
+  domestic:0.20
+
+Topic 1:
+  active:0.40
+  vendors:0.40
+  dont:0.20
+  understand:0.20
+  find:0.20
+  uk:0.20
+  domestic:0.20
+  logged:0.20
+  europe:0.20
+  admin:0.20
+
+Topic 2:
+  vendors:0.40
+  active:0.40
+  find:0.20
+  dont:0.20
+  understand:0.20
+  admin:0.20
+  grateful:0.20
+  clarify:0.20
+  logged:0.20
+  uk:0.20
+
+Topic 3:
+  active:0.40
+  vendors:0.40
+  domestic:0.20
+  uk:0.20
+  logged:0.20
+  confirm:0.20
+  grateful:0.20
+  europe:0.20
+  clarify:0.20
+  find:0.20
+
+Topic 4:
+  vendors:0.40
+  active:0.40
+  find:0.20
+  europe:0.20
+  confirm:0.20
+  clarify:0.20
+  logged:0.20
+  grateful:0.20
+  domestic:0.20
+  admin:0.20
+
+K: 5, Log-Likelihood: -37.896, Alpha: 11.000, Beta: 1.100

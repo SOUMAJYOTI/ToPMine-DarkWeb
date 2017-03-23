@@ -1,0 +1,61 @@
+Topic 0:
+  qubes:11.78
+  freedom:11.77
+  firewall:7.88
+  vm:6.87
+  gb:6.80
+  dont:6.79
+  things:6.78
+  work:6.17
+  implemented:4.93
+  cpu:4.68
+
+Topic 1:
+  hardware:20.79
+  encryption:14.48
+  key:14.10
+  linux:13.46
+  software:13.13
+  secure:11.53
+  security:11.34
+  left:9.96
+  intel:9.61
+  windows:8.43
+
+Topic 2:
+  os:14.43
+  quote:8.46
+  security:6.98
+  linus:6.53
+  december:6.18
+  community:5.97
+  holes:5.90
+  write:5.89
+  open:5.03
+  tor:4.96
+
+Topic 3:
+  intel:27.31
+  firmware:23.42
+  pc:11.85
+  application:11.44
+  memory:11.16
+  systems:10.50
+  access:9.72
+  boot:9.56
+  key:9.19
+  management:8.77
+
+Topic 4:
+  ssh:42.99
+  host:28.85
+  keys:20.72
+  start:12.68
+  regenerate:11.99
+  keygen:9.99
+  systems:8.80
+  key:8.69
+  log:7.99
+  init:6.99
+
+K: 5, Log-Likelihood: -18573.196, Alpha: 11.000, Beta: 1.100

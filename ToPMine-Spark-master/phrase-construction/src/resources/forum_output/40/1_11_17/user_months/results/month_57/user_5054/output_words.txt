@@ -1,0 +1,61 @@
+Topic 0:
+  trust:0.78
+  vendors:0.40
+  dnm:0.40
+  saferscam:0.40
+  road:0.40
+  lot:0.40
+  scamlogs:0.40
+  manifesto:0.40
+  silk:0.40
+  products:0.40
+
+Topic 1:
+  trust:0.83
+  contacting:0.40
+  le:0.40
+  discuss:0.40
+  circle:0.40
+  called:0.40
+  asked:0.40
+  change:0.40
+  reviews:0.40
+  black:0.40
+
+Topic 2:
+  trust:0.79
+  shutdown:0.40
+  main:0.40
+  thing:0.40
+  mention:0.40
+  lot:0.40
+  vendors:0.40
+  black:0.40
+  open:0.40
+  amatuers:0.40
+
+Topic 3:
+  trust:0.82
+  upset:0.40
+  wise:0.40
+  black:0.40
+  nick:0.40
+  market:0.40
+  lam:0.40
+  stuff:0.40
+  realize:0.40
+  inception:0.40
+
+Topic 4:
+  trust:0.78
+  service:0.40
+  contact:0.40
+  products:0.40
+  discuss:0.40
+  lam:0.40
+  shutdown:0.40
+  open:0.40
+  ultimate:0.40
+  main:0.40
+
+K: 5, Log-Likelihood: -339.848, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  key:1.31
+  signature:1.28
+  electrum tar gz:1.16
+  germinal:0.92
+  persistence:0.91
+  code select:0.90
+  folder:0.57
+  tails:0.57
+  input:0.56
+  download:0.56
+
+Topic 1:
+  electrum tar gz:0.66
+  key:0.61
+  signature:0.59
+  electrum:0.55
+  tails:0.53
+  persistence:0.51
+  germinal:0.51
+  code select:0.51
+  thinking tails:0.37
+  de:0.36
+
+Topic 2:
+  electrum tar gz:0.82
+  key:0.80
+  signature:0.75
+  persistence:0.61
+  code select:0.58
+  germinal:0.57
+  tails:0.57
+  electrum:0.54
+  navigate:0.42
+  tarball:0.41
+
+Topic 3:
+  electrum tar gz:0.90
+  signature:0.84
+  key:0.84
+  germinal:0.66
+  code select:0.63
+  persistence:0.62
+  electrum:0.57
+  tails:0.56
+  amnesia:0.44
+  type:0.44
+
+Topic 4:
+  signature:0.93
+  electrum tar gz:0.85
+  key:0.84
+  code select:0.68
+  persistence:0.65
+  germinal:0.63
+  electrum:0.56
+  tails:0.55
+  asa:0.46
+  verify:0.45
+
+K: 5, Log-Likelihood: -1392.111, Alpha: 11.000, Beta: 1.100

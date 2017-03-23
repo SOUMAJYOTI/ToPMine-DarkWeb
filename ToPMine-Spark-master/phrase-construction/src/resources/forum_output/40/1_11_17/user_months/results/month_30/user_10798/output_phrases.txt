@@ -1,0 +1,61 @@
+Topic 0:
+  agora:1.92
+  work:1.84
+  address:1.58
+  falling:1.34
+  test deposit:1.34
+  transactions:1.34
+  happier:1.34
+  disturbing:1.34
+  personally:1.34
+  clear:1.34
+
+Topic 1:
+  bbe ae:0.69
+  key:0.67
+  zaphod:0.62
+  time:0.51
+  sig sig:0.47
+  bitcoin fog:0.46
+  phishing:0.42
+  db:0.40
+  tn:0.40
+  hj:0.39
+
+Topic 2:
+  key:4.99
+  bbe ae:3.11
+  bitcoin fog:2.22
+  sig sig:1.79
+  hx:1.37
+  qu:1.33
+  service:1.31
+  yx:1.30
+  pgp signature:1.30
+  zgtsu:1.29
+
+Topic 3:
+  market:4.13
+  days:4.13
+  months:4.13
+  darknet:2.75
+  foggeddriztrcar:2.75
+  vendors:2.75
+  cloud:2.75
+  raped:2.75
+  test:2.75
+  trust:2.75
+
+Topic 4:
+  key:4.00
+  bbe ae:3.09
+  sig sig:1.86
+  bitcoin fog:1.44
+  time:1.21
+  tn:1.18
+  hj:1.17
+  pgp:1.17
+  gpg:1.16
+  eddiebastard:1.16
+
+K: 5, Log-Likelihood: -7321.243, Alpha: 11.000, Beta: 1.100

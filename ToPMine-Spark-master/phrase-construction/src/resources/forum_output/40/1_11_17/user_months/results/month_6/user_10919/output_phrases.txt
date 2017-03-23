@@ -1,0 +1,61 @@
+Topic 0:
+  worry:3.09
+  route:3.08
+  moneypak:3.08
+  quick:3.08
+  buying:1.60
+  wu:1.48
+  sellers:1.48
+  percentage:1.48
+  account sellers:1.48
+  light:1.48
+
+Topic 1:
+  find:5.27
+  mycelium:3.06
+  built:3.06
+  person:3.06
+  local:3.05
+  coins:2.74
+  coins anonymously:1.73
+  leads:1.73
+  dam:1.73
+  bitcoin:1.73
+
+Topic 2:
+  money:2.49
+  deposit:1.73
+  prepaid:1.12
+  virwox:1.09
+  convert:1.09
+  bankcause:1.09
+  luck:1.09
+  walletand:1.09
+  speaking:1.09
+  banks:1.09
+
+Topic 3:
+  bitstamp:1.44
+  coins:1.07
+  fast:0.99
+  good:0.99
+  cheap:0.98
+  mixing:0.98
+  everythings:0.98
+  fine:0.98
+  prepaid:0.82
+  visa:0.80
+
+Topic 4:
+  cards:3.10
+  evoluton:3.10
+  store:3.10
+  debit:1.59
+  account:1.59
+  open:1.49
+  pre:1.49
+  anonymously:1.49
+  paid:1.49
+  sell:1.49
+
+K: 5, Log-Likelihood: -1089.131, Alpha: 11.000, Beta: 1.100

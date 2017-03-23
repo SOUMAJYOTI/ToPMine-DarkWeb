@@ -1,0 +1,61 @@
+Topic 0:
+  blockchain:1.19
+  helix:0.92
+  regular:0.73
+  wallet:0.69
+  onion:0.69
+  online:0.64
+  dont:0.61
+  safe:0.47
+  btc:0.44
+  wallets:0.44
+
+Topic 1:
+  helix:1.55
+  regular:1.20
+  btc:0.88
+  dont:0.78
+  online:0.54
+  blockchain:0.43
+  difference:0.43
+  wallets:0.37
+  light:0.35
+  safe:0.35
+
+Topic 2:
+  helix:1.49
+  regular:1.15
+  dont:0.81
+  online:0.63
+  blockchain:0.55
+  btc:0.51
+  safe:0.42
+  light:0.41
+  wallets:0.41
+  difference:0.40
+
+Topic 3:
+  regular:1.24
+  helix:1.10
+  dont:0.88
+  online:0.69
+  btc:0.61
+  blockchain:0.44
+  wallets:0.44
+  difference:0.40
+  light:0.40
+  safe:0.37
+
+Topic 4:
+  helix:1.94
+  regular:1.69
+  dont:0.92
+  btc:0.55
+  light:0.52
+  online:0.50
+  difference:0.46
+  safe:0.40
+  blockchain:0.38
+  wallets:0.35
+
+K: 5, Log-Likelihood: -330.906, Alpha: 11.000, Beta: 1.100

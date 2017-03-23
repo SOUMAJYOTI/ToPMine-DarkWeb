@@ -1,0 +1,61 @@
+Topic 0:
+  feel:4.96
+  hearing:4.84
+  felt:4.83
+  al lad:4.14
+  eyes:4.03
+  hour:4.03
+  visions:3.89
+  shorter:3.89
+  euphoric:3.89
+  faster:3.89
+
+Topic 1:
+  lsd:7.57
+  alive:4.86
+  experiencing:4.86
+  tree:4.86
+  blotter:4.86
+  todays:4.86
+  hey:3.92
+  friend:3.82
+  shape:2.62
+  things:2.43
+
+Topic 2:
+  ergotamine:12.17
+  ergot:4.85
+  grow:4.85
+  acid:4.02
+  led:4.02
+  chemists:4.02
+  easier:4.02
+  synthetically:4.02
+  produced:4.02
+  synthesis:4.02
+
+Topic 3:
+  effects:6.74
+  trust luck:5.29
+  pc clean guess:5.23
+  detailed answer house:5.21
+  acid youve:5.14
+  al lad:4.85
+  headspace:4.76
+  ct:3.98
+  stal:3.98
+  mixed:3.98
+
+Topic 4:
+  post:8.10
+  evidence:8.10
+  small:8.10
+  order:7.55
+  perfect:4.19
+  lack:4.02
+  luck:4.02
+  policy:4.02
+  amounts:4.02
+  resources:4.02
+
+K: 5, Log-Likelihood: -6270.444, Alpha: 11.000, Beta: 1.100

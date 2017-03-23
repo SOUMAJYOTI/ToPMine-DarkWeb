@@ -1,0 +1,61 @@
+Topic 0:
+  size:1.00
+  screen:0.97
+  default:0.41
+  fingerprint:0.40
+  fatal:0.20
+  browser:0.20
+  users:0.20
+  change:0.20
+  tails:0.20
+  crowd:0.20
+
+Topic 1:
+  screen:1.00
+  size:0.98
+  default:0.41
+  fingerprint:0.41
+  fatal:0.20
+  restarting:0.20
+  crowd:0.20
+  users:0.20
+  browser:0.20
+  restore:0.20
+
+Topic 2:
+  size:1.03
+  screen:0.99
+  default:0.40
+  fingerprint:0.39
+  reset:0.20
+  doxxing:0.20
+  tor:0.20
+  susceptible:0.20
+  session:0.20
+  find:0.20
+
+Topic 3:
+  size:1.04
+  screen:0.97
+  fingerprint:0.40
+  default:0.39
+  sesion:0.20
+  susceptible:0.20
+  session:0.20
+  tor:0.20
+  reset:0.20
+  doxxing:0.20
+
+Topic 4:
+  screen:1.07
+  size:0.95
+  fingerprint:0.40
+  default:0.40
+  find:0.20
+  reset:0.20
+  tor:0.20
+  doxxing:0.20
+  sesion:0.20
+  session:0.20
+
+K: 5, Log-Likelihood: -134.105, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ytt:0.61
+  minun:0.60
+  linkill:0.60
+  ja:0.58
+  olet:0.40
+  jos:0.40
+  mukaan:0.40
+  october:0.40
+  viell:0.40
+  bobbe:0.40
+
+Topic 1:
+  ytt:0.60
+  linkill:0.60
+  ja:0.59
+  minun:0.59
+  laittaa:0.41
+  bobbe:0.41
+  october:0.40
+  olet:0.40
+  mukaan:0.40
+  jos:0.40
+
+Topic 2:
+  minun:0.62
+  linkill:0.60
+  ja:0.60
+  ytt:0.59
+  mukaan:0.40
+  bobbe:0.40
+  laittaa:0.40
+  jos:0.40
+  viell:0.40
+  olet:0.40
+
+Topic 3:
+  ja:0.64
+  linkill:0.60
+  minun:0.60
+  ytt:0.58
+  october:0.40
+  jos:0.40
+  olet:0.40
+  laittaa:0.40
+  viell:0.40
+  bobbe:0.40
+
+Topic 4:
+  ytt:0.62
+  linkill:0.59
+  ja:0.59
+  minun:0.58
+  viell:0.41
+  mukaan:0.40
+  olet:0.40
+  bobbe:0.40
+  october:0.40
+  jos:0.40
+
+K: 5, Log-Likelihood: -307.355, Alpha: 11.000, Beta: 1.100

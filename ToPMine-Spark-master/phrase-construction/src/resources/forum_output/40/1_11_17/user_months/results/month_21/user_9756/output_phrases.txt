@@ -1,0 +1,61 @@
+Topic 0:
+  site days:1.30
+  missing:1.29
+  forum:1.28
+  dont:1.28
+  mods:1.27
+  isthe:1.27
+  vendor:1.04
+  funds:1.04
+  person:1.04
+  business:1.04
+
+Topic 1:
+  withdrawals:4.39
+  money:2.89
+  disabled:2.89
+  month:2.89
+  nailing:1.39
+  change:1.39
+  spend:1.39
+  indefinitely:1.39
+  pandora problems:1.39
+  purchase:1.39
+
+Topic 2:
+  charging:1.40
+  hub:1.40
+  plenty:1.40
+  posts:1.40
+  goings:1.40
+  stopped:1.40
+  bad:1.40
+  guys:1.40
+  scamming:1.40
+  rundown:1.40
+
+Topic 3:
+  link:1.69
+  issues:1.69
+  months:1.69
+  hub warning:1.68
+  noobs:1.68
+  nice:1.68
+  warn:1.68
+  pandora issues:1.37
+  pothead:1.33
+  roguethat:1.23
+
+Topic 4:
+  supporteu:2.89
+  darknet:2.89
+  open:2.89
+  openmarket:2.89
+  days:2.89
+  experience:2.89
+  continue:2.89
+  journey:2.89
+  support:2.89
+  people pandora:1.40
+
+K: 5, Log-Likelihood: -1537.728, Alpha: 11.000, Beta: 1.100

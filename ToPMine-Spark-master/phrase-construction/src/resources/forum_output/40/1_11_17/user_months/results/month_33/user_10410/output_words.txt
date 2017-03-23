@@ -1,0 +1,61 @@
+Topic 0:
+  immoral:6.84
+  prostitution:6.55
+  person:4.89
+  urinating:4.81
+  money:3.79
+  strangers:3.79
+  sexually:3.79
+  niche:3.42
+  morality:2.91
+  psychologically:2.90
+
+Topic 1:
+  metadata:6.62
+  exiftool:4.81
+  mat:3.81
+  path:3.81
+  bit:3.61
+  image:3.25
+  weird:3.08
+  question:2.76
+  cos:2.53
+  considered:2.19
+
+Topic 2:
+  rich:8.34
+  fast:7.46
+  paracelsus:4.80
+  good:4.61
+  quote:4.35
+  december:4.25
+  walter:3.77
+  guys:3.53
+  real:3.52
+  lot:3.51
+
+Topic 3:
+  data:9.38
+  download:5.84
+  picture:5.75
+  image:4.88
+  exit:4.74
+  exif:4.50
+  computer:3.76
+  upload:3.64
+  tracing:2.84
+  program:2.74
+
+Topic 4:
+  info:3.60
+  data:3.27
+  linus:3.22
+  metadata:2.90
+  agent:2.79
+  user:2.79
+  quote:2.68
+  december:2.48
+  clearnet:1.96
+  exif:1.95
+
+K: 5, Log-Likelihood: -3441.447, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,10 @@
+wait,0,1
+marketplace,1,1
+vendor,2,1
+finally,3,1
+link,4,1
+verified,5,1
+goods,6,1
+captain,7,1
+advertise,8,1
+jack,9,1

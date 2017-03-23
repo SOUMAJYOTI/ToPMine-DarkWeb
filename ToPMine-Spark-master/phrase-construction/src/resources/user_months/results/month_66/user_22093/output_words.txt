@@ -1,0 +1,61 @@
+Topic 0:
+  shipping:3.79
+  days:2.35
+  orders:2.29
+  delivery:2.12
+  country:2.03
+  single:1.96
+  day:1.92
+  europe:1.89
+  verified:1.82
+  abrax:1.76
+
+Topic 1:
+  country:3.31
+  shipping:2.81
+  orders:2.72
+  day:2.13
+  single:1.93
+  europe:1.92
+  delivery:1.85
+  days:1.80
+  deals:1.76
+  reship:1.66
+
+Topic 2:
+  shipping:3.51
+  country:2.82
+  orders:2.31
+  delivery:2.21
+  days:2.04
+  day:2.03
+  europe:1.93
+  single:1.85
+  agra:1.75
+  reship:1.73
+
+Topic 3:
+  country:3.11
+  orders:2.40
+  shipping:2.13
+  day:2.11
+  single:2.09
+  europe:2.08
+  reship:2.00
+  days:1.92
+  delivery:1.70
+  ratings:1.58
+
+Topic 4:
+  country:3.74
+  shipping:2.75
+  orders:2.29
+  europe:2.18
+  single:2.17
+  delivery:2.13
+  reship:1.93
+  days:1.90
+  deals:1.85
+  agra:1.84
+
+K: 5, Log-Likelihood: -2117.402, Alpha: 11.000, Beta: 1.100

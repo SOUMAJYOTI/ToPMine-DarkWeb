@@ -1,0 +1,61 @@
+Topic 0:
+  offer:0.64
+  scams:0.36
+  reserve:0.36
+  broke:0.36
+  hip:0.36
+  liberty:0.36
+  bringing:0.31
+  earn:0.31
+  options:0.31
+  load:0.31
+
+Topic 1:
+  offer:1.56
+  features:0.54
+  site:0.54
+  btc return:0.54
+  sunni:0.54
+  strategies:0.54
+  hourly:0.54
+  shorting:0.54
+  stumbled:0.54
+  hourly interest:0.54
+
+Topic 2:
+  coin:2.16
+  sounds:0.82
+  coins:0.61
+  process:0.61
+  chip:0.61
+  short term:0.61
+  head:0.61
+  set:0.61
+  stuff:0.61
+  learn:0.61
+
+Topic 3:
+  offer:1.15
+  hard:0.45
+  tor:0.45
+  affiliate:0.45
+  interest:0.45
+  deposits:0.45
+  ltc:0.45
+  invest btc:0.45
+  options:0.45
+  cryptos:0.45
+
+Topic 4:
+  coin:1.68
+  sounds:0.76
+  ponzi ponzi:0.54
+  money early:0.54
+  bullion:0.54
+  idea:0.53
+  edification:0.53
+  term:0.53
+  draining:0.53
+  investment buy:0.53
+
+K: 5, Log-Likelihood: -1077.223, Alpha: 11.000, Beta: 1.100

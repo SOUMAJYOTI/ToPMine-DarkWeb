@@ -1,0 +1,61 @@
+Topic 0:
+  site:0.44
+  coming:0.31
+  didn:0.31
+  deposited:0.31
+  login:0.30
+  huh:0.30
+  onion:0.30
+  guys:0.30
+  ill:0.30
+  sending:0.30
+
+Topic 1:
+  site:0.43
+  coming:0.31
+  login:0.31
+  huh:0.31
+  deposited:0.31
+  didn:0.31
+  amount:0.30
+  implied:0.30
+  hope:0.30
+  ridiclously:0.30
+
+Topic 2:
+  site:0.43
+  joke:0.31
+  hope:0.31
+  ridiclously:0.31
+  implied:0.31
+  large:0.31
+  amount:0.31
+  russian:0.31
+  reports:0.31
+  language:0.31
+
+Topic 3:
+  site:0.46
+  info:0.31
+  months:0.31
+  works:0.31
+  check:0.31
+  btc:0.31
+  guys:0.31
+  sending:0.31
+  ill:0.31
+  business:0.30
+
+Topic 4:
+  site:0.43
+  didn:0.31
+  login:0.31
+  huh:0.31
+  deposited:0.31
+  coming:0.30
+  btc:0.30
+  ill:0.30
+  implied:0.30
+  joking:0.30
+
+K: 5, Log-Likelihood: -156.074, Alpha: 11.000, Beta: 1.100

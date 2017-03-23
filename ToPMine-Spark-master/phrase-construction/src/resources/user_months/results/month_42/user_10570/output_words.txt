@@ -1,0 +1,61 @@
+Topic 0:
+  javascript:4.15
+  disabled:1.93
+  forget:1.86
+  type:1.86
+  false:1.85
+  js:1.85
+  enabled:1.85
+  isnt:1.83
+  config:1.83
+  running:1.81
+
+Topic 1:
+  scripts:1.40
+  javascript:1.17
+  set:1.15
+  blockchain:0.84
+  thing:0.80
+  enabled:0.77
+  quote:0.74
+  running:0.74
+  java:0.73
+  april:0.71
+
+Topic 2:
+  java:1.90
+  javascript:1.09
+  set:1.03
+  scripts:0.89
+  running:0.85
+  config:0.84
+  completely:0.84
+  script:0.82
+  disabled:0.76
+  enabled:0.73
+
+Topic 3:
+  javascript:1.61
+  set:1.56
+  config:1.10
+  running:1.08
+  quote:1.05
+  scripts:1.05
+  april:1.05
+  enabled:0.96
+  disabled:0.93
+  isnt:0.80
+
+Topic 4:
+  javascript:2.98
+  enabled:1.69
+  disabled:1.69
+  set:1.65
+  running:1.53
+  config:1.52
+  fully:1.46
+  noscripts:1.44
+  js:1.39
+  type:1.34
+
+K: 5, Log-Likelihood: -960.442, Alpha: 11.000, Beta: 1.100

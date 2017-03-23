@@ -1,0 +1,61 @@
+Topic 0:
+  ayr:0.08
+  gog:0.08
+  junk:0.08
+  gpa:0.08
+  april:0.08
+  quote:0.08
+  pm:0.08
+  explain:0.00
+  replace:0.00
+  windows:0.00
+
+Topic 1:
+  gpa:0.08
+  ayr:0.08
+  pm:0.08
+  quote:0.08
+  april:0.08
+  gog:0.08
+  junk:0.08
+  explain:0.00
+  replace:0.00
+  windows:0.00
+
+Topic 2:
+  pm:0.08
+  junk:0.08
+  april:0.08
+  quote:0.08
+  gpa:0.08
+  gog:0.08
+  ayr:0.08
+  explain:0.00
+  replace:0.00
+  windows:0.00
+
+Topic 3:
+  gpa:0.08
+  gog:0.08
+  pm:0.08
+  april:0.08
+  quote:0.08
+  junk:0.08
+  ayr:0.08
+  explain:0.00
+  replace:0.00
+  windows:0.00
+
+Topic 4:
+  quote:0.08
+  junk:0.08
+  gog:0.08
+  april:0.08
+  pm:0.08
+  ayr:0.08
+  gpa:0.08
+  explain:0.00
+  replace:0.00
+  windows:0.00
+
+K: 5, Log-Likelihood: -7.046, Alpha: 11.000, Beta: 1.100

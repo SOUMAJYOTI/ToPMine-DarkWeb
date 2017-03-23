@@ -1,0 +1,61 @@
+Topic 0:
+  fair:0.14
+  point:0.14
+  likewise:0.14
+  amsterdam:0.14
+  uplier:0.14
+  implemented:0.12
+  issue:0.12
+  fact:0.12
+  amthe:0.12
+  ilovespaghetti:0.12
+
+Topic 1:
+  point:0.14
+  fair:0.14
+  amsterdam:0.14
+  likewise:0.14
+  uplier:0.14
+  issue:0.12
+  fact:0.12
+  ilovespaghetti:0.12
+  write:0.12
+  forum:0.12
+
+Topic 2:
+  likewise:0.14
+  point:0.14
+  amsterdam:0.14
+  uplier:0.14
+  fair:0.14
+  write:0.12
+  support:0.12
+  implemented:0.12
+  ilovespaghetti:0.12
+  fact:0.12
+
+Topic 3:
+  uplier:0.14
+  likewise:0.14
+  amsterdam:0.14
+  point:0.14
+  fair:0.14
+  ilovespaghetti:0.12
+  amthe:0.12
+  implemented:0.12
+  forum:0.12
+  support:0.12
+
+Topic 4:
+  uplier:0.14
+  amsterdam:0.14
+  likewise:0.14
+  fair:0.14
+  point:0.14
+  forum:0.12
+  amthe:0.12
+  support:0.12
+  write:0.12
+  issue:0.12
+
+K: 5, Log-Likelihood: -21.204, Alpha: 11.000, Beta: 1.100

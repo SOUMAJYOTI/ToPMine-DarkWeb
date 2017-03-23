@@ -1,0 +1,61 @@
+Topic 0:
+  love avengers:0.81
+  love:0.41
+  find:0.28
+  vendors:0.28
+  list:0.28
+  link:0.28
+  market:0.28
+  community:0.28
+  forums:0.28
+  send:0.28
+
+Topic 1:
+  love avengers:0.78
+  love:0.42
+  list:0.28
+  community:0.28
+  vendors:0.28
+  link:0.28
+  find:0.28
+  send:0.28
+  marketplace:0.28
+  vendor:0.28
+
+Topic 2:
+  love avengers:0.84
+  love:0.42
+  links:0.28
+  send:0.28
+  market:0.28
+  buyers:0.28
+  forums:0.28
+  phishing:0.28
+  marketplace:0.28
+  community:0.28
+
+Topic 3:
+  love avengers:0.87
+  love:0.41
+  links:0.28
+  marketplace:0.28
+  market:0.28
+  vendor:0.28
+  community:0.28
+  send:0.28
+  link:0.28
+  forums:0.28
+
+Topic 4:
+  love avengers:0.86
+  love:0.42
+  vendor:0.28
+  phishing:0.28
+  buyers:0.28
+  list:0.28
+  link:0.28
+  vendors:0.28
+  market:0.28
+  marketplace:0.28
+
+K: 5, Log-Likelihood: -343.749, Alpha: 11.000, Beta: 1.100

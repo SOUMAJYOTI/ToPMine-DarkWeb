@@ -1,0 +1,61 @@
+Topic 0:
+  june:2.80
+  site:2.78
+  previous:2.68
+  version:2.66
+  deleted:2.65
+  expert:2.46
+  scam:2.43
+  quote:2.29
+  checked:2.29
+  fuck:2.22
+
+Topic 1:
+  bitcoin:6.31
+  june:3.70
+  deleted:2.92
+  previous:2.90
+  expert:2.79
+  dont:2.55
+  site:2.39
+  mixers:2.22
+  quote:2.15
+  satisfied:1.99
+
+Topic 2:
+  bitcoin:8.95
+  dont:5.67
+  mixers:4.16
+  clients:3.40
+  satisfied:3.18
+  mixing:2.97
+  bitcoins:2.93
+  review:2.86
+  lose:2.86
+  guise:2.83
+
+Topic 3:
+  bitcoin:5.74
+  mixing:2.69
+  site:2.46
+  services:1.92
+  june:1.89
+  mixer:1.81
+  deleted:1.73
+  previous:1.72
+  wallet:1.70
+  anonymous:1.70
+
+Topic 4:
+  fuck:3.63
+  enterprise:3.15
+  room:3.04
+  post:3.02
+  linked:2.98
+  parasites:2.98
+  called:2.94
+  doesnt:2.92
+  swam:2.91
+  scam:2.91
+
+K: 5, Log-Likelihood: -2143.565, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  sr:1.94
+  btc:1.82
+  long:1.65
+  good:1.16
+  feedback:1.15
+  site:1.13
+  disputes:1.12
+  theyve:1.11
+  vendor:1.04
+  lot:0.59
+
+Topic 1:
+  place:1.15
+  vendor:0.82
+  link:0.62
+  referred:0.61
+  scamming:0.59
+  beauty:0.59
+  product:0.59
+  tastes:0.59
+  great:0.59
+  people:0.59
+
+Topic 2:
+  pgp:3.78
+  kush:2.79
+  message:1.93
+  ill:1.90
+  vendors:1.89
+  fixed:1.79
+  key:1.79
+  agora:1.07
+  scroat:0.93
+  acidcat:0.81
+
+Topic 3:
+  btc:1.36
+  vendor:1.07
+  long:1.04
+  sr:0.76
+  referred:0.75
+  link:0.72
+  theyve:0.61
+  disputes:0.61
+  lot:0.61
+  site:0.60
+
+Topic 4:
+  referred:1.00
+  link:0.99
+  vendor:0.99
+  agra:0.75
+  message:0.71
+  stay:0.54
+  place:0.52
+  btc:0.52
+  lot:0.46
+  active:0.43
+
+K: 5, Log-Likelihood: -693.684, Alpha: 11.000, Beta: 1.100

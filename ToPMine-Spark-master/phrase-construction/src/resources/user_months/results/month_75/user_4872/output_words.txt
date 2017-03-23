@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:1.07
+  onion:0.92
+  connect:0.79
+  wallet:0.63
+  electric:0.58
+  bitcoin:0.41
+  addresses:0.41
+  tor:0.40
+  servers:0.40
+  depends:0.40
+
+Topic 1:
+  electrum:1.59
+  onion:1.07
+  connect:0.77
+  wallet:0.58
+  electric:0.58
+  tor:0.40
+  bitcoin:0.40
+  servers:0.40
+  depends:0.40
+  addresses:0.40
+
+Topic 2:
+  electrum:1.56
+  onion:0.87
+  connect:0.82
+  electric:0.62
+  wallet:0.62
+  depends:0.40
+  servers:0.40
+  addresses:0.40
+  tor:0.40
+  bitcoin:0.40
+
+Topic 3:
+  electrum:1.15
+  onion:1.10
+  connect:0.82
+  electric:0.61
+  wallet:0.59
+  depends:0.40
+  addresses:0.40
+  servers:0.40
+  bitcoin:0.40
+  tor:0.40
+
+Topic 4:
+  electrum:1.62
+  onion:1.04
+  connect:0.79
+  electric:0.61
+  wallet:0.58
+  depends:0.40
+  bitcoin:0.40
+  servers:0.40
+  tor:0.40
+  addresses:0.40
+
+K: 5, Log-Likelihood: -361.640, Alpha: 11.000, Beta: 1.100

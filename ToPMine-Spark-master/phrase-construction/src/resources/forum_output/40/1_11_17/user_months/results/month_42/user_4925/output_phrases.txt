@@ -1,0 +1,61 @@
+Topic 0:
+  box:2.17
+  bob:1.27
+  mail:1.19
+  boxes:1.18
+  good:0.88
+  people:0.84
+  don:0.76
+  thing:0.59
+  annually:0.59
+  fuck:0.59
+
+Topic 1:
+  people:0.84
+  dont ship:0.83
+  good:0.81
+  tips:0.78
+  parcel:0.78
+  close:0.77
+  alli:0.77
+  access:0.77
+  night:0.77
+  nest:0.77
+
+Topic 2:
+  address:3.78
+  mailbox:3.78
+  successful:1.83
+  people small:1.83
+  building:1.83
+  holidays:1.83
+  family:1.83
+  crap:1.83
+  abandoned:1.83
+  complicated:1.83
+
+Topic 3:
+  box:1.64
+  bob:1.21
+  mail:1.19
+  boxes:1.14
+  don:0.98
+  people:0.85
+  good:0.84
+  key:0.56
+  forget:0.56
+  high:0.56
+
+Topic 4:
+  box:1.36
+  boxes:1.05
+  mail:0.99
+  bob:0.91
+  people:0.87
+  good:0.87
+  don:0.62
+  bunch:0.50
+  month:0.50
+  shit:0.50
+
+K: 5, Log-Likelihood: -1730.710, Alpha: 11.000, Beta: 1.100

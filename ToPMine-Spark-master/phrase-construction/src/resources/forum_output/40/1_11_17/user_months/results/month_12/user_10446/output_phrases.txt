@@ -1,0 +1,61 @@
+Topic 0:
+  fast:4.67
+  trade:4.67
+  heard:4.67
+  argued:4.67
+  noobs:4.67
+  sr:4.63
+  blue sky:4.48
+  full scams:4.48
+  op:3.68
+  market sr:3.68
+
+Topic 1:
+  explanations:4.68
+  sr ideology:4.35
+  happening beloved agora:3.80
+  fact thar sr:3.78
+  dont cop heartbleed bug:3.77
+  missing plot realizing sr:3.35
+  luck dude:3.35
+  ignorant blind plenty explanations:3.35
+  guess perspective teach guru:3.12
+  trolltergeist june pmdrugs selling:3.12
+
+Topic 2:
+  people:8.93
+  hate:5.62
+  trolly:5.28
+  arguments:4.68
+  yells:4.68
+  feel:4.68
+  facts:4.68
+  dont:4.21
+  troll:3.82
+  yeah:3.82
+
+Topic 3:
+  safer escrow:7.69
+  escrow:6.05
+  buyer:5.75
+  post:5.53
+  market:5.26
+  ha:4.64
+  markets:4.60
+  explain:4.43
+  correct:3.80
+  crow:3.80
+
+Topic 4:
+  guess:4.64
+  didnt:3.84
+  reality:3.84
+  sites:3.76
+  dude:3.57
+  perspective teach guru read:3.43
+  drugs:3.40
+  small:3.40
+  sr:3.35
+  check:3.31
+
+K: 5, Log-Likelihood: -5961.231, Alpha: 11.000, Beta: 1.100

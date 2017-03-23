@@ -1,0 +1,398 @@
+original developers,0,1
+users switch,1,1
+cve flaw,2,1
+beasts,3,1
+plague,4,1
+path,5,1
+introduced,6,1
+box infected,7,2
+quote,8,5
+finds,9,1
+complex,10,1
+neat,11,1
+abusing,12,2
+accepting,13,2
+announcement,14,2
+addition,15,1
+researcher flaws,16,1
+truecrypt,17,20
+solid,18,1
+caspian,19,1
+engineers,20,1
+require,21,1
+google,22,2
+easy,23,1
+version,24,1
+subsidiary,25,1
+domain,26,1
+drive,27,2
+project veracrypt,28,1
+independent,29,1
+audit truecrypt,30,2
+including windows,31,1
+unsafe,32,2
+choosing,33,1
+posted,34,1
+bugs,35,4
+zaphod september,36,1
+adoption,37,1
+systems,38,1
+underway,39,1
+elevated,40,1
+jpeg,41,1
+sep,42,1
+windows switch,43,1
+gibson,44,2
+weird,45,1
+pops,46,1
+spin,47,1
+days,48,1
+reports,49,1
+evidence,50,1
+stego,51,2
+testf,52,1
+good,53,1
+painfully,54,2
+discovered vulnerabilities,55,1
+won,56,1
+switch veracrypt,57,1
+warning,58,1
+security audits,59,2
+flaws forshaw,60,1
+info,61,2
+image,62,1
+ef,63,1
+finally,64,2
+remained,65,1
+cryptography,66,1
+remedy,67,1
+recentlyif,68,1
+article,69,2
+users,70,7
+security audit,71,1
+exploited,72,2
+parts,73,1
+quote zaphod,74,1
+pmdoes,75,1
+trust,76,1
+sources,77,1
+linux users,78,1
+software discovered,79,1
+capable,80,1
+system compromise,81,1
+truecrypt flaw,82,1
+program security,83,1
+zaphod,84,4
+offs,85,1
+desktop,86,2
+intentionally,87,1
+grc,88,1
+company,89,1
+hard,90,2
+laptops,91,1
+digital,92,1
+perform,93,1
+attacker,94,1
+truecrypt source,95,2
+vpn,96,1
+royalties,97,1
+service,98,1
+hackerjon,99,1
+handling,100,2
+developer,101,1
+avoid,102,2
+ludicrous,103,2
+txtit,104,1
+called,105,1
+crowd,106,1
+entire,107,1
+newly,108,1
+quote oppailover,109,2
+truecrypt veracrypt,110,1
+pcworld,111,2
+lurks,112,1
+lock,113,1
+text,114,2
+pmwell,115,1
+researcher discovered,116,1
+period,117,1
+hasn,118,1
+researchers,119,1
+audited,120,1
+sqrl,121,2
+system,122,7
+driver,123,4
+drives,124,1
+asks,125,1
+authors,126,1
+login,127,2
+local,128,1
+ncc,129,1
+windows driver,130,1
+file,131,1
+honesty,132,1
+member,133,1
+steve,134,1
+program truecrypt,135,1
+implementations,136,1
+windows system,137,1
+infected,138,5
+kali,139,1
+driver critical,140,1
+missed,141,1
+attackers,142,1
+truecrypt switch,143,1
+discovered critical,144,1
+hide,145,1
+trusted,146,1
+amits,147,1
+improvements,148,1
+compromise security,149,1
+possibilities,150,2
+download,151,1
+high,152,1
+earlier,153,1
+passwords,154,4
+find,155,2
+publication,156,2
+directly,157,1
+maintained,158,2
+including,159,3
+critical flaws,160,1
+source code,161,2
+steps,162,1
+license,163,1
+disk,164,1
+improve,165,1
+flaws,166,6
+windows box,167,2
+october,168,1
+unix,169,1
+code,170,7
+veracrypt encryption,171,1
+box,172,4
+switch,173,3
+driver code,174,1
+security researcher,175,1
+running,176,2
+flagged,177,1
+explanations,178,1
+consumer,179,1
+declared,180,2
+elevation,181,2
+blunt,182,2
+amwindows,183,1
+cve bugs,184,1
+editions,185,1
+pc,186,2
+interested,187,1
+writes,188,1
+sitting,189,1
+oppailover september,190,3
+veracrypt,191,5
+intentional,192,1
+fucking,193,1
+timecode,194,1
+professional,195,2
+cover,196,1
+patch,197,1
+integrity,198,1
+bitlocker,199,2
+released,200,2
+based,201,1
+hosts,202,1
+apv,203,1
+remain,204,1
+night,205,1
+patches,206,2
+backdoors,207,1
+picks,208,1
+steghide,209,1
+completed,210,1
+forshaw,211,3
+appreciated,212,1
+patched,213,1
+letter,214,2
+programs,215,1
+saturday,216,1
+discovered,217,3
+code audits,218,1
+access,219,1
+truecrypt developers,220,2
+document,221,1
+predecessor,222,1
+bases,223,1
+truecrypt driver,224,1
+oppailover,225,3
+releasing,226,1
+partition,227,2
+cve,228,3
+encryption,229,4
+audit,230,3
+encrypt,231,2
+actively,232,1
+operating,233,2
+free,234,2
+holes,235,1
+latest,236,1
+constantinidg,237,1
+analyzed,238,1
+team,239,1
+program code,240,1
+exploiting,241,1
+code windows,242,1
+bug,243,1
+partners,244,1
+thing,245,1
+open,246,3
+privileges,247,2
+arstechnica,248,2
+vulnerabilities driver,249,1
+project,250,4
+encrypting,251,1
+remains,252,1
+source,253,3
+microsoft,254,2
+unable,255,1
+regularly,256,1
+flaws truecrypt,257,1
+paying,258,1
+continue,259,1
+funded,260,1
+things,261,1
+basically,262,1
+details,263,1
+pre,264,1
+finding,265,1
+assurance,266,1
+longer,267,2
+playing,268,1
+fixed,269,2
+including security,270,2
+discovered forshaw,271,1
+internet,272,1
+full,273,2
+installed,274,1
+needed,275,1
+unfixed,276,1
+keysince,277,1
+impossible,278,1
+effort,279,1
+useing,280,2
+open source,281,1
+linux,282,3
+news,283,3
+severity,284,1
+original project,285,1
+wide,286,1
+technology,287,1
+windows,288,13
+advised,289,1
+genius,290,1
+zaphod windows,291,1
+specificly,292,1
+lucian,293,1
+paid,294,1
+vulnerabilities,295,4
+risk,296,2
+time,297,1
+compromise,298,3
+driver truecrypt,299,2
+software,300,3
+developers,301,4
+program,302,7
+issues,303,2
+mor,304,1
+twitter,305,1
+problem,306,2
+identified,307,1
+abruptly,308,1
+flaw critical,309,1
+auditors,310,1
+options,311,2
+embed,312,1
+abandoned,313,1
+dmcrypt,314,1
+zip,315,1
+phase,316,2
+item,317,3
+researcher,318,3
+worm,319,2
+waits,320,1
+work,321,2
+installs,322,1
+versions,323,1
+rely,324,1
+word,325,1
+drivers,326,1
+librecrypt,327,1
+truecrypt code,328,1
+james,329,1
+privilege,330,1
+appearances,331,2
+lot,332,2
+unwise,333,2
+computer,334,1
+flaw,335,4
+feature,336,1
+continues,337,2
+usernames,338,1
+place,339,2
+licensing,340,1
+vulnerabilities software,341,1
+bugs program,342,1
+great,343,1
+performed,344,1
+site,345,1
+audits bugs,346,1
+developers september,347,2
+anonymous,348,1
+cve cve,349,1
+shut,350,1
+open item,351,1
+simple,352,1
+darknet,353,2
+september news,354,2
+create,355,2
+flaws discovered,356,1
+group,357,1
+infected box,358,2
+users truecrypt,359,2
+pmquote,360,1
+covered,361,1
+files,362,1
+replacement,363,1
+flaws program,364,2
+covering,365,2
+disks,366,1
+critical,367,3
+steal,368,2
+advice,369,2
+statements,370,1
+imo,371,1
+encryption software,372,1
+error,373,1
+point,374,2
+aware,375,2
+general,376,2
+security,377,11
+september,378,6
+public,379,1
+audit project,380,1
+designed,381,2
+audits,382,3
+undiscovered,383,1
+original,384,5
+aims,385,1
+disclosed,386,1
+limited,387,1
+alternative,388,1
+source program,389,1
+terminal,390,1
+discontinued,391,1
+allowing,392,1
+command,393,1
+veracrypt open,394,1
+user,395,3
+truecrypt audit,396,1
+account,397,1

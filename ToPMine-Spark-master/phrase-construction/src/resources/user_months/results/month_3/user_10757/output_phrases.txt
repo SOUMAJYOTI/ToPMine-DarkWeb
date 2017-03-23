@@ -1,0 +1,61 @@
+Topic 0:
+  support:0.61
+  underrated:0.26
+  handled:0.26
+  day:0.26
+  messages:0.26
+  pr:0.26
+  personal:0.26
+  term:0.26
+  forward:0.26
+  respond:0.26
+
+Topic 1:
+  good:0.70
+  market:0.57
+  small:0.40
+  people:0.40
+  pirate:0.40
+  praise:0.40
+  support:0.24
+  large:0.21
+  markets:0.21
+  long:0.21
+
+Topic 2:
+  good:2.18
+  market:1.00
+  praise:0.87
+  pirate:0.86
+  people:0.86
+  small:0.85
+  check:0.34
+  hidden:0.34
+  respect:0.34
+  admins:0.34
+
+Topic 3:
+  support:0.49
+  market:0.29
+  good:0.25
+  vendor:0.24
+  mindset:0.23
+  consumer:0.23
+  owner:0.23
+  partner:0.23
+  fast:0.23
+  current:0.23
+
+Topic 4:
+  support:0.38
+  market:0.36
+  good:0.34
+  small:0.24
+  people:0.24
+  pirate:0.24
+  praise:0.23
+  vendor:0.23
+  long:0.21
+  large:0.21
+
+K: 5, Log-Likelihood: -320.079, Alpha: 11.000, Beta: 1.100

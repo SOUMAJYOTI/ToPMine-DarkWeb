@@ -1,0 +1,61 @@
+Topic 0:
+  hub posts:4.78
+  corner:4.78
+  ip post:4.78
+  moderator:4.78
+  evilgrin:4.78
+  lower:4.78
+  serving:4.78
+  report:4.78
+  private address post:4.78
+  hand:4.78
+
+Topic 1:
+  real:7.15
+  log:6.74
+  service:5.61
+  hidden:5.61
+  mins:4.56
+  high:3.93
+  ip address:3.30
+  dont:3.25
+  ip torbrowser:3.16
+  morning:2.85
+
+Topic 2:
+  agora:10.72
+  link:9.58
+  ip torbrowser:6.32
+  computer:5.57
+  account:4.75
+  referred:4.74
+  talking:4.74
+  error:4.70
+  telling:4.70
+  occured:4.70
+
+Topic 3:
+  market:7.21
+  accounts:7.21
+  bad:6.27
+  site:5.63
+  working:5.63
+  creaps:4.77
+  load:4.77
+  kinda:4.77
+  feeling:4.77
+  praying:4.77
+
+Topic 4:
+  messages:7.00
+  time:6.72
+  early:5.61
+  space:5.55
+  moment:4.73
+  hrs:4.73
+  thought:4.73
+  thoughts:4.73
+  login:4.73
+  quietest:4.73
+
+K: 5, Log-Likelihood: -6110.199, Alpha: 11.000, Beta: 1.100

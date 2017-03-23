@@ -1,0 +1,61 @@
+Topic 0:
+  tool:4.80
+  bad:3.63
+  people:3.41
+  violent:3.19
+  guy:3.19
+  dan:3.19
+  white:3.19
+  darpa:3.19
+  feel:3.07
+  dont:2.14
+
+Topic 1:
+  truth:3.20
+  acid:2.00
+  bm:1.62
+  yeah:1.60
+  lucid:1.59
+  scroat:1.59
+  trip:1.59
+  lead:1.59
+  mental:1.59
+  sun:1.59
+
+Topic 2:
+  subkey:8.02
+  created expires usage:4.80
+  main key:4.80
+  public key:3.19
+  set:3.19
+  subkeys:3.19
+  ultimate:3.19
+  ef:3.19
+  delete:3.19
+  web:3.08
+
+Topic 3:
+  people:9.80
+  lsd:4.88
+  led:4.81
+  bad:3.56
+  gamesome:3.20
+  healthy:3.20
+  purely:3.20
+  web link:3.20
+  video:3.20
+  laugh:3.20
+
+Topic 4:
+  sillywabbit:4.88
+  ce fff:4.81
+  ssb:4.81
+  posted:3.20
+  keypair:3.20
+  updated:3.20
+  bf:3.20
+  signature:3.20
+  dfb:3.20
+  master key:3.20
+
+K: 5, Log-Likelihood: -7135.134, Alpha: 11.000, Beta: 1.100

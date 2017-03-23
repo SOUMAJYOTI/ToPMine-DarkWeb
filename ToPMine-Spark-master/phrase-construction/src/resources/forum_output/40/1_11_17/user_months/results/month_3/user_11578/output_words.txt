@@ -1,0 +1,61 @@
+Topic 0:
+  silk:0.73
+  road:0.72
+  users:0.70
+  vendors:0.53
+  state:0.47
+  staff:0.43
+  market:0.43
+  customer:0.31
+  buyers:0.31
+  support:0.31
+
+Topic 1:
+  vendors:0.84
+  road:0.82
+  silk:0.79
+  market:0.63
+  staff:0.59
+  buyers:0.41
+  support:0.41
+  customer:0.41
+  escrow:0.41
+  removed:0.41
+
+Topic 2:
+  vendors:0.89
+  silk:0.88
+  road:0.84
+  staff:0.73
+  market:0.67
+  escrow:0.45
+  support:0.44
+  removed:0.44
+  buyers:0.44
+  customer:0.44
+
+Topic 3:
+  road:0.81
+  silk:0.79
+  vendors:0.76
+  market:0.62
+  staff:0.57
+  state:0.40
+  customer:0.40
+  removed:0.40
+  escrow:0.40
+  buyers:0.40
+
+Topic 4:
+  vendors:0.98
+  road:0.81
+  silk:0.81
+  staff:0.67
+  market:0.65
+  support:0.44
+  removed:0.44
+  buyers:0.44
+  customer:0.44
+  escrow:0.44
+
+K: 5, Log-Likelihood: -318.899, Alpha: 11.000, Beta: 1.100

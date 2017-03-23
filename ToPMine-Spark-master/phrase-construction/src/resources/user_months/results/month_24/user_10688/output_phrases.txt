@@ -1,0 +1,61 @@
+Topic 0:
+  big deal:4.28
+  coin:2.48
+  dont:2.06
+  barely:1.91
+  october pmquote:1.91
+  hosting:1.90
+  dudeguy:1.90
+  automated:1.90
+  software:1.90
+  entry fee:1.90
+
+Topic 1:
+  mixer:3.85
+  braveb iyacflzc:3.84
+  onion:3.84
+  started:3.50
+  good:3.50
+  time:3.50
+  fast:2.05
+  blender:1.89
+  grams:1.89
+  amount:1.71
+
+Topic 2:
+  fee:1.36
+  dont:1.07
+  entry fee regular mixing:1.06
+  bitcoinfog:1.03
+  entry fee people dont:1.00
+  big barrier helix:0.97
+  mix avoiding feebut:0.97
+  bitmixer io:0.96
+  onionshop october pmah:0.92
+  worth:0.89
+
+Topic 3:
+  bitcoinfog:1.17
+  fee:1.17
+  worth:0.96
+  entry fee regular mixing:0.89
+  dont:0.88
+  bitmixer io:0.80
+  fee credited account:0.80
+  quickest:0.73
+  incredibly:0.73
+  helix:0.73
+
+Topic 4:
+  fee:1.78
+  phishing:1.53
+  bunny:1.53
+  links:1.53
+  brave:1.53
+  collections:1.53
+  claiming:1.52
+  site:1.42
+  link:1.40
+  phishing link:1.25
+
+K: 5, Log-Likelihood: -1612.657, Alpha: 11.000, Beta: 1.100

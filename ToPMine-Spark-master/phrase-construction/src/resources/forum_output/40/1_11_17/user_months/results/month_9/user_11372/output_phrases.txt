@@ -1,0 +1,61 @@
+Topic 0:
+  real:0.08
+  good:0.08
+  website:0.08
+  hard:0.08
+  jesus:0.08
+  true:0.08
+  christ:0.08
+  vendor:0.08
+  scam:0.08
+  bro:0.08
+
+Topic 1:
+  bro:0.08
+  jesus:0.08
+  christ:0.08
+  scam:0.08
+  true:0.08
+  website:0.08
+  good:0.08
+  vendor:0.08
+  hard:0.08
+  real:0.08
+
+Topic 2:
+  scam:0.08
+  jesus:0.08
+  christ:0.08
+  bro:0.08
+  real:0.08
+  website:0.08
+  true:0.08
+  good:0.08
+  vendor:0.08
+  hard:0.08
+
+Topic 3:
+  bro:0.08
+  christ:0.08
+  scam:0.08
+  jesus:0.08
+  hard:0.08
+  real:0.08
+  vendor:0.08
+  website:0.08
+  good:0.08
+  true:0.08
+
+Topic 4:
+  vendor:0.08
+  good:0.08
+  true:0.08
+  hard:0.08
+  website:0.08
+  real:0.08
+  scam:0.08
+  jesus:0.08
+  christ:0.08
+  bro:0.08
+
+K: 5, Log-Likelihood: -9.336, Alpha: 11.000, Beta: 1.100

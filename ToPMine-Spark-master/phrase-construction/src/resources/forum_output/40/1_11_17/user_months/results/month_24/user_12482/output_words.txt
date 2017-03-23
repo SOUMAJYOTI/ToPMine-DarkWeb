@@ -1,0 +1,61 @@
+Topic 0:
+  ja:1.74
+  ll:0.62
+  paremmin:0.62
+  kuljetetaan:0.41
+  joku:0.41
+  rjestelm:0.41
+  postinumerot:0.41
+  olla:0.41
+  tarkemmin:0.40
+  asiasta:0.40
+
+Topic 1:
+  ja:1.14
+  paremmin:0.61
+  ll:0.60
+  lotan:0.40
+  ksi:0.40
+  lentopostia:0.40
+  tarkemmin:0.40
+  sek:0.40
+  tellen:0.40
+  postinumerot:0.40
+
+Topic 2:
+  ja:1.13
+  ll:0.59
+  paremmin:0.58
+  kaikki:0.40
+  kuljetetaan:0.40
+  asiasta:0.40
+  posti:0.40
+  suomen:0.40
+  oulun:0.40
+  lt:0.40
+
+Topic 3:
+  ja:1.20
+  ll:0.59
+  paremmin:0.58
+  ksi:0.40
+  lt:0.40
+  kaikki:0.40
+  postinumerot:0.40
+  suomen:0.40
+  tarkemmin:0.40
+  olla:0.40
+
+Topic 4:
+  ja:1.80
+  ll:0.60
+  paremmin:0.60
+  lentopostia:0.40
+  sek:0.40
+  lt:0.40
+  oulun:0.40
+  rjestelm:0.40
+  asiasta:0.40
+  tellen:0.40
+
+K: 5, Log-Likelihood: -781.213, Alpha: 11.000, Beta: 1.100

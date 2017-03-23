@@ -1,0 +1,61 @@
+Topic 0:
+  decrypting:0.59
+  november:0.57
+  problem:0.50
+  encrypting:0.43
+  state pgp:0.42
+  applet attempting hone skills:0.42
+  quote:0.42
+  messeges:0.40
+  pmcould:0.40
+  gpg:0.40
+
+Topic 1:
+  decrypting:0.61
+  november:0.55
+  encrypting:0.45
+  applet attempting hone skills:0.44
+  state pgp:0.44
+  problem:0.43
+  send:0.42
+  humdrum:0.42
+  keychain:0.42
+  difficulty:0.42
+
+Topic 2:
+  decrypting:0.81
+  november:0.63
+  key:0.48
+  pub:0.48
+  difficulty:0.48
+  keychain:0.48
+  messeges:0.48
+  created:0.48
+  gpg:0.48
+  pmcould:0.48
+
+Topic 3:
+  problem:0.59
+  november:0.54
+  decrypting:0.53
+  quote:0.42
+  ive:0.41
+  forums:0.41
+  properly:0.41
+  trouble:0.41
+  time:0.41
+  looked:0.41
+
+Topic 4:
+  problem:0.91
+  trouble:0.54
+  pgp:0.54
+  looked:0.53
+  properly:0.53
+  forums:0.53
+  confuses:0.53
+  ive:0.53
+  time:0.53
+  november:0.49
+
+K: 5, Log-Likelihood: -434.825, Alpha: 11.000, Beta: 1.100

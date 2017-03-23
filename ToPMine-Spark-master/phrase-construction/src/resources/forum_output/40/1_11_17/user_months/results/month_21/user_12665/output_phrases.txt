@@ -1,0 +1,61 @@
+Topic 0:
+  nain:6.25
+  koska:6.13
+  kommentti:4.69
+  ihmisten:4.69
+  sis:4.69
+  kyll:4.69
+  tule:4.69
+  eip:2.98
+  olisi:2.82
+  en:2.82
+
+Topic 1:
+  odottaa:7.73
+  vapauttaa maksua etuk:4.85
+  en mit:4.85
+  olisi:4.26
+  halvimmat:3.84
+  heitellyt:3.84
+  hiaikoina:3.84
+  myyj lt:3.84
+  virheist:3.84
+  kurssi:3.84
+
+Topic 2:
+  aiemmin yht hetyst tulematta:4.90
+  vain positiivisia palautteita ennen:4.90
+  vaadittu ll kin kauppiaalla:4.90
+  kuin iv saapua:4.90
+  luokan kirjeell kest kauemmin:4.90
+  vaikka fe:4.90
+  postin ty ntekij tied:4.90
+  ett harvinaista jos:4.90
+  tilausta eip tullut mieleenk:4.90
+  tilauksia takana noin sata:4.90
+
+Topic 3:
+  iv:5.83
+  aikaa:5.52
+  varma ett:5.48
+  joo:4.68
+  fe:3.95
+  bertha:3.82
+  iv mutta:3.82
+  vastaanotettu:3.82
+  se yksi:3.82
+  frendeill:3.82
+
+Topic 4:
+  myyj:7.03
+  rehellisi:4.68
+  kuinka:4.68
+  ett se:4.68
+  eli:4.57
+  ja:3.87
+  voisi:3.86
+  itsell:3.83
+  vapautusta:3.35
+  jo:3.02
+
+K: 5, Log-Likelihood: -10473.697, Alpha: 11.000, Beta: 1.100

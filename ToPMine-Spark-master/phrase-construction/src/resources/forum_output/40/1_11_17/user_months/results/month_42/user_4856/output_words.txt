@@ -1,0 +1,46 @@
+Topic 0:
+  tinted:0.20
+  stamp:0.20
+  raw:0.20
+  dark:0.20
+  elastic:0.20
+  bag:0.20
+  baggie:0.20
+
+Topic 1:
+  elastic:0.20
+  dark:0.20
+  baggie:0.20
+  bag:0.20
+  raw:0.20
+  tinted:0.20
+  stamp:0.20
+
+Topic 2:
+  baggie:0.20
+  elastic:0.20
+  bag:0.20
+  stamp:0.20
+  raw:0.20
+  dark:0.20
+  tinted:0.20
+
+Topic 3:
+  bag:0.20
+  stamp:0.20
+  dark:0.20
+  baggie:0.20
+  raw:0.20
+  tinted:0.20
+  elastic:0.20
+
+Topic 4:
+  tinted:0.20
+  elastic:0.20
+  raw:0.20
+  baggie:0.20
+  stamp:0.20
+  dark:0.20
+  bag:0.20
+
+K: 5, Log-Likelihood: -13.621, Alpha: 11.000, Beta: 1.100

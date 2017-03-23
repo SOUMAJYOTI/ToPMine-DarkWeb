@@ -1,0 +1,61 @@
+Topic 0:
+  glad:0.68
+  start:0.62
+  topics:0.62
+  reason people:0.61
+  staff:0.45
+  dream:0.45
+  imo:0.45
+  people:0.44
+  contribute:0.44
+  quote:0.44
+
+Topic 1:
+  glad:0.65
+  topics:0.57
+  start:0.57
+  reason people:0.57
+  imo:0.54
+  dream:0.51
+  staff:0.49
+  spammers:0.37
+  february:0.37
+  trolls:0.37
+
+Topic 2:
+  glad:0.73
+  reason people:0.56
+  start:0.55
+  topics:0.54
+  dream:0.50
+  staff:0.50
+  imo:0.47
+  dreamforums:0.38
+  amnice:0.38
+  contribute:0.38
+
+Topic 3:
+  glad:0.77
+  imo:0.57
+  dream:0.55
+  staff:0.53
+  topics:0.48
+  start:0.47
+  reason people:0.47
+  eve:0.39
+  alpha:0.39
+  chance:0.39
+
+Topic 4:
+  glad:1.07
+  staff:0.63
+  dream:0.59
+  imo:0.57
+  quick:0.41
+  support:0.41
+  board:0.41
+  extremely:0.41
+  smoothly:0.41
+  topics:0.39
+
+K: 5, Log-Likelihood: -302.070, Alpha: 11.000, Beta: 1.100

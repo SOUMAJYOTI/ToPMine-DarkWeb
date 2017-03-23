@@ -1,0 +1,61 @@
+Topic 0:
+  february:1.29
+  quote:0.97
+  seams:0.82
+  proceed:0.81
+  lol:0.81
+  idea:0.79
+  vendors:0.79
+  caution:0.78
+  couple:0.62
+  cooked:0.53
+
+Topic 1:
+  february:1.21
+  quote:0.99
+  lol:0.71
+  idea:0.71
+  caution:0.70
+  vendors:0.69
+  seams:0.69
+  proceed:0.67
+  couple:0.58
+  afkabboy:0.46
+
+Topic 2:
+  open:1.19
+  site:1.19
+  freebay:0.65
+  vendor:0.64
+  couple:0.58
+  working:0.46
+  glad:0.46
+  attack:0.46
+  built:0.46
+  latest:0.46
+
+Topic 3:
+  february:0.96
+  quote:0.80
+  couple:0.58
+  vendors:0.58
+  proceed:0.57
+  idea:0.56
+  caution:0.55
+  seams:0.55
+  lol:0.55
+  reasonable:0.46
+
+Topic 4:
+  february:1.21
+  quote:0.93
+  caution:0.71
+  vendors:0.69
+  idea:0.69
+  proceed:0.69
+  seams:0.68
+  lol:0.68
+  couple:0.62
+  amthese:0.46
+
+K: 5, Log-Likelihood: -489.345, Alpha: 11.000, Beta: 1.100

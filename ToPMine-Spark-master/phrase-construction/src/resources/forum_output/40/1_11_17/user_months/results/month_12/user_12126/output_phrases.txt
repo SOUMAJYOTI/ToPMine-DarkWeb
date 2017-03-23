@@ -1,0 +1,61 @@
+Topic 0:
+  photoshop:3.32
+  bank account:2.88
+  quote mrdoe:2.47
+  ridicolously:2.34
+  low:2.29
+  anonymous bank accounts:2.20
+  datas:1.97
+  exist:1.95
+  counterfeit:1.91
+  june:1.86
+
+Topic 1:
+  order:1.77
+  card:1.76
+  personally:1.45
+  anonymous:1.42
+  trading:1.38
+  anonymous bank accounts:1.17
+  advance:0.74
+  guys:0.73
+  bitcurex:0.44
+  konta:0.42
+
+Topic 2:
+  boogie:6.00
+  june amquote:4.47
+  long ago brilliant offshore:3.85
+  uploaded pdf:3.84
+  pmour good friend boogie:3.82
+  bankingthank recognition:3.81
+  june amquote ant june:3.53
+  pdf care share:3.53
+  love:2.93
+  karloz:2.93
+
+Topic 3:
+  konta:4.43
+  digital future:4.26
+  bitcurex:4.17
+  serwisie bitcurex:3.10
+  send:3.07
+  prosimy:3.01
+  order:2.93
+  wyp:2.18
+  email:2.16
+  documents:2.16
+
+Topic 4:
+  bitcurex:5.08
+  digital future:3.13
+  konta:2.90
+  order:2.78
+  prosimy:2.45
+  send:2.40
+  serwisie bitcurex:2.33
+  post:1.89
+  number:1.84
+  care team:1.82
+
+K: 5, Log-Likelihood: -3151.724, Alpha: 11.000, Beta: 1.100

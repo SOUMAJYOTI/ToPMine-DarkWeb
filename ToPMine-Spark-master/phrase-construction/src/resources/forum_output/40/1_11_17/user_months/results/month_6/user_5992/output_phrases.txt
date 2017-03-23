@@ -1,0 +1,61 @@
+Topic 0:
+  test kits:3.38
+  item:1.80
+  reading:1.46
+  approved:1.44
+  correctly:1.44
+  listed:1.37
+  guardian:1.36
+  quote:1.01
+  clear:1.01
+  march:1.00
+
+Topic 1:
+  people:4.24
+  days:4.12
+  shipping:2.41
+  experiencing:1.84
+  sense:1.83
+  customer:1.83
+  finesse:1.82
+  running:1.82
+  falls:1.82
+  break:1.81
+
+Topic 2:
+  test kits:1.96
+  hand:1.69
+  amphs:1.67
+  absolutely:1.65
+  reagent:1.65
+  factory:1.65
+  tests:1.65
+  directions:1.65
+  sold:1.65
+  follow:1.65
+
+Topic 3:
+  shipping:2.01
+  time:1.32
+  days:1.06
+  guardian:0.97
+  stay safe:0.97
+  people:0.94
+  test:0.94
+  item:0.89
+  vendors:0.89
+  experience:0.84
+
+Topic 4:
+  dark:3.51
+  items:3.51
+  market:3.51
+  offers:3.51
+  future:3.51
+  test:1.96
+  products:1.72
+  needlesguardian:1.72
+  amphetamines:1.72
+  account:1.72
+
+K: 5, Log-Likelihood: -1817.368, Alpha: 11.000, Beta: 1.100

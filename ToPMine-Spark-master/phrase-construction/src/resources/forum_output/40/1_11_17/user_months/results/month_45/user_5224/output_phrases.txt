@@ -1,0 +1,61 @@
+Topic 0:
+  find:8.23
+  biggest:5.08
+  crawling:4.07
+  women:4.07
+  fbi:4.07
+  blue:4.07
+  geeks:4.07
+  cops:4.07
+  knewits:4.07
+  alamo:4.07
+
+Topic 1:
+  stress test:5.77
+  hours ago:4.31
+  eu:3.93
+  conducting:3.93
+  company:3.93
+  system:3.93
+  transfer:3.92
+  slow:3.92
+  bitcoin:3.92
+  read:3.92
+
+Topic 2:
+  deposit:9.52
+  blockchain:8.24
+  enter:4.92
+  url:4.92
+  check:4.72
+  yesterday:4.51
+  reads confirmations:4.11
+  middle earth wallet:4.11
+  isnt:4.05
+  posting:4.05
+
+Topic 3:
+  time:9.18
+  deposits:5.67
+  reason:4.08
+  fixed issue:4.08
+  generated:4.08
+  helps:4.08
+  shutting:4.08
+  refreshes:4.08
+  guess:4.08
+  generate:4.08
+
+Topic 4:
+  problem:4.02
+  agra deposit:3.49
+  bit worried:2.92
+  guys:2.57
+  thread:2.56
+  forums:2.45
+  problem happened:2.39
+  simultaneously:2.39
+  funds:2.39
+  withdrew:2.39
+
+K: 5, Log-Likelihood: -3027.921, Alpha: 11.000, Beta: 1.100

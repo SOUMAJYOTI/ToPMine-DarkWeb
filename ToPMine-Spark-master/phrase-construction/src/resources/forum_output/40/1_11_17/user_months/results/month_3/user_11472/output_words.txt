@@ -1,0 +1,61 @@
+Topic 0:
+  pharma:1.33
+  vendor:1.28
+  names:1.03
+  agora:0.81
+  space:0.79
+  feedback:0.78
+  seller:0.78
+  ukpharma:0.72
+  knew:0.50
+  admins:0.50
+
+Topic 1:
+  vendor:1.02
+  pip:0.77
+  safe:0.68
+  names:0.66
+  eventually:0.64
+  users:0.63
+  phishing:0.63
+  key:0.63
+  happen:0.63
+  public:0.63
+
+Topic 2:
+  srv:5.64
+  bmr:2.71
+  messages:2.67
+  sheep:2.67
+  top:1.69
+  websites:1.69
+  copied:1.68
+  perfect:1.68
+  score:1.68
+  kindest:0.76
+
+Topic 3:
+  vendor:0.92
+  pip:0.74
+  names:0.70
+  confirm:0.53
+  phishing:0.53
+  knew:0.53
+  key:0.53
+  eventually:0.53
+  public:0.53
+  admins:0.53
+
+Topic 4:
+  ukpharma:1.11
+  pharma:1.00
+  vendor:0.70
+  seller:0.68
+  feedback:0.68
+  space:0.67
+  agora:0.65
+  buyers:0.54
+  names:0.54
+  read:0.54
+
+K: 5, Log-Likelihood: -737.626, Alpha: 11.000, Beta: 1.100

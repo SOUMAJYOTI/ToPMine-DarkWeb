@@ -1,0 +1,61 @@
+Topic 0:
+  vip:0.70
+  socks:0.45
+  tor:0.45
+  dunno:0.27
+  pretty:0.27
+  die:0.27
+  painfully:0.27
+  stuff:0.22
+  ill:0.22
+  illegal:0.22
+
+Topic 1:
+  vip:0.63
+  socks:0.44
+  tor:0.43
+  painfully:0.28
+  die:0.28
+  pretty:0.28
+  dunno:0.28
+  scared:0.22
+  day:0.22
+  pain:0.22
+
+Topic 2:
+  vip:0.64
+  socks:0.44
+  tor:0.44
+  painfully:0.28
+  die:0.28
+  dunno:0.28
+  pretty:0.28
+  guns:0.22
+  day:0.22
+  bad:0.22
+
+Topic 3:
+  vip:0.71
+  tor:0.45
+  socks:0.44
+  pretty:0.27
+  dunno:0.27
+  die:0.27
+  painfully:0.27
+  node:0.22
+  kind:0.22
+  ill:0.22
+
+Topic 4:
+  vip:0.61
+  socks:0.43
+  tor:0.43
+  painfully:0.29
+  die:0.28
+  dunno:0.28
+  pretty:0.28
+  bad:0.23
+  guns:0.23
+  pain:0.23
+
+K: 5, Log-Likelihood: -180.608, Alpha: 11.000, Beta: 1.100

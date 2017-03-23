@@ -1,0 +1,61 @@
+Topic 0:
+  agora:3.98
+  months:3.97
+  market:3.97
+  message:3.04
+  fogs:2.97
+  darknet:2.97
+  days:2.97
+  markets:2.97
+  arrived:2.97
+  good:2.55
+
+Topic 1:
+  key:1.89
+  bbe:1.44
+  sig:1.40
+  url:1.40
+  pgp:1.28
+  ae:1.17
+  signature:0.96
+  fog:0.95
+  time:0.89
+  bitcoin:0.71
+
+Topic 2:
+  key:6.53
+  sig:5.04
+  signature:3.38
+  ae:3.31
+  pgp:3.11
+  url:2.95
+  bbe:2.86
+  bitcoin:1.84
+  time:1.65
+  fog:1.61
+
+Topic 3:
+  address:3.00
+  sm:1.91
+  bcf:1.91
+  nervous:1.91
+  work:1.90
+  deposit:1.72
+  phishing:1.07
+  great:1.03
+  verify:0.92
+  real:0.92
+
+Topic 4:
+  url:0.79
+  bbe:0.65
+  zaphod:0.63
+  signature:0.61
+  pgp:0.56
+  key:0.53
+  sig:0.50
+  time:0.50
+  fog:0.49
+  ae:0.47
+
+K: 5, Log-Likelihood: -5501.949, Alpha: 11.000, Beta: 1.100

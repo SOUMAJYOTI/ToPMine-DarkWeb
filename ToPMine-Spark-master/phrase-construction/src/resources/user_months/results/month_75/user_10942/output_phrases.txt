@@ -1,0 +1,61 @@
+Topic 0:
+  server:0.24
+  web:0.16
+  virtual:0.16
+  grsec:0.16
+  dont:0.16
+  compromise:0.16
+  isolation:0.16
+  mode:0.08
+  absolute:0.08
+  lightweight:0.08
+
+Topic 1:
+  server:0.24
+  isolation:0.16
+  compromise:0.16
+  virtual:0.16
+  web:0.16
+  dont:0.16
+  grsec:0.16
+  drugs:0.08
+  decided:0.08
+  point:0.08
+
+Topic 2:
+  server:0.24
+  virtual:0.16
+  grsec:0.16
+  isolation:0.16
+  dont:0.16
+  web:0.16
+  compromise:0.16
+  happened:0.08
+  forum:0.08
+  interested:0.08
+
+Topic 3:
+  server:0.24
+  isolation:0.16
+  dont:0.16
+  compromise:0.16
+  virtual:0.16
+  web:0.16
+  grsec:0.16
+  hs:0.08
+  paid:0.08
+  os:0.08
+
+Topic 4:
+  server:0.24
+  compromise:0.16
+  grsec:0.16
+  isolation:0.16
+  dont:0.16
+  web:0.16
+  virtual:0.16
+  life:0.08
+  support:0.08
+  security:0.08
+
+K: 5, Log-Likelihood: -95.408, Alpha: 11.000, Beta: 1.100

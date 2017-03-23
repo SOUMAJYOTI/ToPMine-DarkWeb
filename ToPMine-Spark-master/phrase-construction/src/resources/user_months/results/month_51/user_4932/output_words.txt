@@ -1,0 +1,61 @@
+Topic 0:
+  receiving:3.89
+  lelantos:3.60
+  emails:1.62
+  trust:1.62
+  sigaint:1.60
+  problems:1.27
+  mails:1.25
+  pmhey:1.21
+  quote:1.21
+  sending:1.20
+
+Topic 1:
+  receiving:3.97
+  lelantos:3.02
+  sigaint:1.86
+  emails:1.74
+  trust:1.45
+  day:1.29
+  dardush:1.24
+  si:1.22
+  customers:1.20
+  quote:1.20
+
+Topic 2:
+  lelantos:3.86
+  receiving:3.19
+  trust:1.72
+  sigaint:1.63
+  emails:1.62
+  posted:1.28
+  forum:1.25
+  guys:1.23
+  mails:1.22
+  pmhey:1.21
+
+Topic 3:
+  receiving:3.93
+  lelantos:2.81
+  trust:1.53
+  sigaint:1.48
+  emails:1.46
+  customers:1.30
+  switching:1.29
+  april:1.27
+  sending:1.27
+  forum:1.27
+
+Topic 4:
+  receiving:3.02
+  lelantos:2.72
+  trust:1.68
+  emails:1.56
+  sigaint:1.43
+  dardush:1.40
+  agora:1.37
+  customers:1.29
+  speak:1.28
+  day:1.28
+
+K: 5, Log-Likelihood: -778.696, Alpha: 11.000, Beta: 1.100

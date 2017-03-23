@@ -1,0 +1,61 @@
+Topic 0:
+  crowdfunding:0.48
+  services:0.33
+  people:0.32
+  users:0.32
+  hidden service:0.32
+  feature:0.24
+  post:0.24
+  hidden services tor:0.24
+  large:0.24
+  performance:0.24
+
+Topic 1:
+  crowdfunding:0.50
+  hidden service:0.33
+  services:0.33
+  people:0.33
+  users:0.32
+  feature:0.24
+  hidden services tor:0.24
+  torproject:0.24
+  large:0.24
+  post:0.24
+
+Topic 2:
+  crowdfunding:0.47
+  people:0.32
+  services:0.32
+  hidden service:0.32
+  users:0.32
+  performance:0.24
+  post:0.24
+  projects:0.24
+  torproject:0.24
+  large:0.24
+
+Topic 3:
+  crowdfunding:0.53
+  users:0.34
+  hidden service:0.34
+  services:0.34
+  people:0.34
+  tors:0.25
+  technology:0.25
+  community:0.25
+  hidden services tor:0.25
+  projects:0.25
+
+Topic 4:
+  crowdfunding:0.46
+  people:0.31
+  hidden service:0.31
+  users:0.31
+  services:0.31
+  technology:0.24
+  feature:0.24
+  performance:0.24
+  projects:0.24
+  torproject:0.24
+
+K: 5, Log-Likelihood: -1098.557, Alpha: 11.000, Beta: 1.100

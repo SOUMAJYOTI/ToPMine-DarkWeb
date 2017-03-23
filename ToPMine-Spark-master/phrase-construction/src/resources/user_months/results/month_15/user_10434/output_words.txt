@@ -1,0 +1,61 @@
+Topic 0:
+  weed:0.95
+  markets:0.72
+  forums:0.58
+  afrikansun:0.58
+  vendor:0.58
+  customers:0.57
+  leave:0.57
+  dagda:0.43
+  couple:0.43
+  africa:0.32
+
+Topic 1:
+  weed:0.88
+  markets:0.75
+  customers:0.51
+  leave:0.51
+  vendor:0.51
+  forums:0.51
+  afrikansun:0.50
+  dagda:0.44
+  couple:0.44
+  prices:0.34
+
+Topic 2:
+  good:0.78
+  weed:0.64
+  prices:0.50
+  africa:0.50
+  markets:0.42
+  surprised:0.34
+  skin:0.34
+  south:0.34
+  fruit:0.34
+  hardship:0.34
+
+Topic 3:
+  good:0.68
+  weed:0.65
+  africa:0.48
+  prices:0.48
+  markets:0.43
+  couple:0.35
+  dagda:0.35
+  guys:0.31
+  sativa:0.31
+  stealth:0.31
+
+Topic 4:
+  weed:0.87
+  markets:0.67
+  leave:0.45
+  afrikansun:0.45
+  couple:0.44
+  vendor:0.44
+  forums:0.44
+  customers:0.44
+  dagda:0.44
+  africa:0.37
+
+K: 5, Log-Likelihood: -435.492, Alpha: 11.000, Beta: 1.100

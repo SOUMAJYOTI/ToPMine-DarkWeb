@@ -1,0 +1,61 @@
+Topic 0:
+  dont:6.24
+  key:4.76
+  group:3.70
+  keys tab:3.70
+  copy paste:3.67
+  keys:2.98
+  personal key:2.87
+  public key:2.14
+  reading:1.83
+  window:1.83
+
+Topic 1:
+  check:3.67
+  buying btc:3.67
+  tor:3.60
+  buying:3.58
+  cash:2.82
+  startpage:2.59
+  sounds:2.57
+  geo locator wifi location:1.84
+  scripts:1.81
+  org:1.80
+
+Topic 2:
+  tor:6.58
+  downloaded:3.71
+  sites:3.71
+  usb:3.71
+  time:3.71
+  tails:3.71
+  tv:3.71
+  googled:3.71
+  reset:3.71
+  didnt:3.71
+
+Topic 3:
+  mbr:3.70
+  carpemundi:2.84
+  quote:2.84
+  september:2.84
+  ccleaner:2.69
+  karma:2.63
+  fo:2.63
+  spec:2.63
+  lazy:2.63
+  lothe:2.63
+
+Topic 4:
+  amnesia gpg:7.46
+  file:7.46
+  message:7.46
+  nano temp:5.58
+  press:5.58
+  temp:5.58
+  code select amelia amnesia:5.58
+  code select amnesia amnesia:5.58
+  temp txt:5.58
+  ctrl enter:5.58
+
+K: 5, Log-Likelihood: -4141.797, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  system:1.00
+  hacked:0.75
+  onion:0.74
+  people:0.64
+  balances:0.48
+  plague:0.48
+  shop:0.48
+  canaris:0.48
+  relays:0.47
+  keeping:0.47
+
+Topic 1:
+  onion:0.94
+  hacked:0.88
+  cautious:0.57
+  future:0.57
+  thing:0.57
+  trustbased:0.57
+  putting:0.57
+  money:0.57
+  direct:0.57
+  zrr:0.57
+
+Topic 2:
+  hacked:0.86
+  onion:0.83
+  system:0.58
+  people:0.53
+  pandora:0.51
+  browsing:0.51
+  pandorajodqp:0.51
+  trading:0.51
+  putting:0.51
+  thing:0.51
+
+Topic 3:
+  system:0.92
+  hacked:0.71
+  onion:0.71
+  people:0.70
+  escrow:0.46
+  failure:0.45
+  balances:0.45
+  hit:0.45
+  marketplace:0.45
+  result:0.45
+
+Topic 4:
+  system:0.95
+  hacked:0.79
+  onion:0.77
+  people:0.65
+  balance:0.46
+  nailed:0.45
+  dark:0.45
+  stay:0.45
+  online:0.45
+  result:0.45
+
+K: 5, Log-Likelihood: -461.491, Alpha: 11.000, Beta: 1.100

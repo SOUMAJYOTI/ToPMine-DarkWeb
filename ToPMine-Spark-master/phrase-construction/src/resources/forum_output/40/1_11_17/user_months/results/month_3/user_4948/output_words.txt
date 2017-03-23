@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:21.03
+  escrow:18.13
+  repaid:11.98
+  community:8.81
+  balances:7.98
+  buyers:7.98
+  pending:7.98
+  support:7.98
+  lost:7.14
+  purchase:6.84
+
+Topic 1:
+  key:159.72
+  expires:41.30
+  gpg:35.00
+  encryption:32.99
+  created:28.28
+  ultimate:27.00
+  usage:24.24
+  keys:18.98
+  months:15.00
+  select:15.00
+
+Topic 2:
+  pgp:5.96
+  security:5.00
+  aacgkqspr:4.00
+  ac:3.68
+  expires:3.68
+  jesusofrave:3.57
+  key:3.46
+  dy:3.04
+  ao:3.00
+  fq:3.00
+
+Topic 3:
+  community:30.94
+  staff:19.81
+  storage:17.99
+  withdrawals:17.99
+  time:15.38
+  account:14.22
+  attack:13.99
+  system:13.50
+  security:11.99
+  attacker:11.99
+
+Topic 4:
+  sr:16.12
+  vendors:14.24
+  vendor:11.85
+  market:8.74
+  buy:8.14
+  scammers:6.96
+  people:6.95
+  forums:6.92
+  trades:6.92
+  forum:6.91
+
+K: 5, Log-Likelihood: -43054.528, Alpha: 11.000, Beta: 1.100

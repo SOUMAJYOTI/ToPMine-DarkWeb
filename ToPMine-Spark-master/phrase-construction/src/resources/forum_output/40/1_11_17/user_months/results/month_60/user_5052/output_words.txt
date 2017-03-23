@@ -1,0 +1,61 @@
+Topic 0:
+  market:2.11
+  markets:1.75
+  time:0.89
+  hope:0.83
+  major:0.70
+  unfortunate:0.67
+  dont:0.42
+  don:0.42
+  funds:0.40
+  play:0.40
+
+Topic 1:
+  fishy:0.94
+  wtf:0.94
+  holy:0.93
+  announced:0.93
+  damn:0.93
+  timing:0.93
+  hours:0.93
+  roughly:0.92
+  smell:0.92
+  fuck:0.92
+
+Topic 2:
+  markets:2.32
+  market:2.23
+  hope:0.95
+  time:0.91
+  unfortunate:0.78
+  major:0.70
+  don:0.45
+  dont:0.45
+  previous:0.42
+  months:0.42
+
+Topic 3:
+  market:1.67
+  markets:1.54
+  time:0.88
+  hope:0.85
+  major:0.47
+  unfortunate:0.47
+  assumption:0.45
+  site:0.45
+  lsd:0.45
+  reliable:0.45
+
+Topic 4:
+  markets:3.91
+  market:2.12
+  major:1.97
+  unfortunate:1.93
+  sake:0.79
+  members:0.79
+  pure:0.78
+  directly:0.78
+  experiencing:0.78
+  sig:0.78
+
+K: 5, Log-Likelihood: -859.583, Alpha: 11.000, Beta: 1.100

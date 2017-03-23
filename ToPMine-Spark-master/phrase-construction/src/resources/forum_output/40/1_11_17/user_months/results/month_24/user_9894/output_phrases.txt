@@ -1,0 +1,61 @@
+Topic 0:
+  jamaiza:0.73
+  stay:0.65
+  listed:0.65
+  careful:0.64
+  scam:0.63
+  sites:0.63
+  mixers:0.61
+  links redacted:0.59
+  august:0.50
+  quote:0.49
+
+Topic 1:
+  evilgrin:2.66
+  hand:1.57
+  websites:1.56
+  random:1.56
+  forum:1.56
+  hope:1.56
+  linked:1.55
+  money:1.55
+  amlinks:1.17
+  saved:1.17
+
+Topic 2:
+  swam:2.94
+  list:1.43
+  recommend:1.35
+  banned:1.35
+  clearnet:1.35
+  quotesame:1.35
+  bravebunny:1.35
+  promise:1.35
+  compare:1.35
+  garden:1.35
+
+Topic 3:
+  forums:2.48
+  jamaiza:1.51
+  read:1.06
+  bitcoinshuffle:1.06
+  real:1.06
+  op:1.06
+  pm:1.06
+  reviews:1.06
+  bitcoin:1.06
+  douche:1.06
+
+Topic 4:
+  jamaiza:0.75
+  scam:0.74
+  mixers:0.70
+  listed:0.68
+  sites:0.68
+  careful:0.67
+  stay:0.67
+  links redacted:0.58
+  poz:0.50
+  coin:0.50
+
+K: 5, Log-Likelihood: -708.411, Alpha: 11.000, Beta: 1.100

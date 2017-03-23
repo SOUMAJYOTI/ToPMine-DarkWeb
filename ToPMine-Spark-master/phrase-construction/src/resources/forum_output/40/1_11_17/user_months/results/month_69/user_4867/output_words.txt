@@ -1,0 +1,61 @@
+Topic 0:
+  key:2.80
+  multisig:2.13
+  public:1.80
+  keypair:1.80
+  create:1.80
+  works:1.23
+  supports:0.82
+  bottom:0.82
+  find:0.82
+  explanation:0.82
+
+Topic 1:
+  vendors:2.80
+  great:1.94
+  abx:1.88
+  issue:1.27
+  problem:0.98
+  moment:0.98
+  supports:0.86
+  trust:0.80
+  searching:0.80
+  exit:0.80
+
+Topic 2:
+  vendors:1.94
+  great:1.48
+  issue:1.07
+  abx:1.06
+  invite:0.98
+  problem:0.84
+  february:0.83
+  moment:0.81
+  supports:0.60
+  shponglestarship:0.59
+
+Topic 3:
+  february:2.63
+  invite:2.04
+  shponglestarship:1.75
+  pmquote:1.28
+  quote:1.17
+  sssssspmed:1.14
+  pmanyone:1.14
+  received:0.77
+  pm:0.77
+  havent:0.77
+
+Topic 4:
+  invite:1.74
+  february:1.64
+  vendors:1.36
+  shponglestarship:0.98
+  great:0.93
+  issue:0.80
+  pmquote:0.79
+  sssssspmed:0.76
+  pmanyone:0.76
+  quote:0.75
+
+K: 5, Log-Likelihood: -879.924, Alpha: 11.000, Beta: 1.100

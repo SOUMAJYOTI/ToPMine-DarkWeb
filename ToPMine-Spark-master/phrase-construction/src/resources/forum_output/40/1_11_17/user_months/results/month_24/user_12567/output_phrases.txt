@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.94
+  se:0.84
+  tarkkanaen:0.84
+  tosin:0.84
+  smitten tulip:0.84
+  siirron:0.83
+  pienemm:0.83
+  siirsin:0.83
+  ensimm:0.83
+  nyt:0.82
+
+Topic 1:
+  viikkoja:1.17
+  asia:1.17
+  viel:1.17
+  olevan:1.17
+  ll:1.17
+  luultavasti:1.17
+  olleet:1.17
+  smitten:1.17
+  tuntuu:1.17
+  tiedot:1.17
+
+Topic 2:
+  nollaa tietoturvaongelmia sivussa vai:0.97
+  kyy blockchainissa siirto mutta:0.93
+  balanssi ytt:0.93
+  bitcoineja multibitist silkkitielle:0.92
+  kuumotus vitutus rahojen puolesta:0.85
+  mit oikein:0.85
+  tulip siirretty:0.78
+  mrsuboxone:0.78
+  harmillista:0.77
+  rahat edes litilill:0.77
+
+Topic 3:
+  amterve eilen tulip siirretty:1.13
+  katos:1.12
+  ei:1.12
+  amquote:1.12
+  sanaton october:1.11
+  kun:1.11
+  ostosta:1.11
+  ensign:1.11
+  rahaa:1.11
+  marten:1.10
+
+Topic 4:
+  hei:1.31
+  sat:1.31
+  siirrosta:1.31
+  minulle:1.31
+  lopulta:1.31
+  miksi:1.31
+  het:1.31
+  rahasi:1.31
+  kyll:1.31
+  voi:1.31
+
+K: 5, Log-Likelihood: -1119.530, Alpha: 11.000, Beta: 1.100

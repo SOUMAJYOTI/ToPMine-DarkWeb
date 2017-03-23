@@ -1,0 +1,61 @@
+Topic 0:
+  software:59.62
+  phone:29.45
+  vodafone:26.00
+  system:23.44
+  rogue:21.00
+  network:20.54
+  code:19.03
+  data:18.98
+  athens:18.00
+  greek:16.96
+
+Topic 1:
+  zaphod:40.61
+  quote:32.43
+  june:24.89
+  pgp:23.73
+  bomb:22.94
+  road:21.97
+  silk:16.97
+  server:14.84
+  records:13.23
+  hiroshima:12.92
+
+Topic 2:
+  passphrase:58.80
+  word:46.56
+  diceware:39.70
+  app:37.99
+  security:33.93
+  data:32.82
+  agencies:28.70
+  browser:25.91
+  users:24.94
+  mobile:24.42
+
+Topic 3:
+  law:46.31
+  enforcement:37.31
+  phone:35.91
+  pgp:31.52
+  message:30.77
+  time:29.32
+  access:27.29
+  support:25.77
+  call:25.16
+  cellar:21.98
+
+Topic 4:
+  tor:21.71
+  browser:11.07
+  companies:10.51
+  zaphod:9.21
+  bug:8.98
+  drug:8.66
+  darknet:8.49
+  release:8.01
+  update:7.02
+  ordered:6.31
+
+K: 5, Log-Likelihood: -72607.180, Alpha: 11.000, Beta: 1.100

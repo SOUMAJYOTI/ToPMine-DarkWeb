@@ -1,0 +1,41 @@
+Topic 0:
+  site:0.00
+  profiles:0.00
+  vendors:0.00
+  watching:0.00
+  sellers:0.00
+  policy:0.00
+
+Topic 1:
+  site:0.00
+  profiles:0.00
+  vendors:0.00
+  watching:0.00
+  sellers:0.00
+  policy:0.00
+
+Topic 2:
+  site:0.00
+  profiles:0.00
+  vendors:0.00
+  watching:0.00
+  sellers:0.00
+  policy:0.00
+
+Topic 3:
+  site:0.00
+  profiles:0.00
+  vendors:0.00
+  watching:0.00
+  sellers:0.00
+  policy:0.00
+
+Topic 4:
+  site:0.00
+  profiles:0.00
+  vendors:0.00
+  watching:0.00
+  sellers:0.00
+  policy:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

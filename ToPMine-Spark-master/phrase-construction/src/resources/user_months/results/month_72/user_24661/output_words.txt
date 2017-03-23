@@ -1,0 +1,61 @@
+Topic 0:
+  gpg:2.29
+  working:1.53
+  key:1.13
+  multiply:0.79
+  public:0.73
+  correct:0.68
+  downloading:0.68
+  create:0.68
+  features:0.68
+  finally:0.68
+
+Topic 1:
+  key:5.77
+  pgp:4.43
+  decrypt:4.16
+  public:3.95
+  vendor:2.53
+  private:2.16
+  people:1.87
+  encrypt:1.75
+  keys:1.49
+  gpg:0.86
+
+Topic 2:
+  message:3.57
+  gpg:2.39
+  decrypt:1.19
+  armor:1.18
+  recepient:1.06
+  txt:1.00
+  people:0.89
+  encrypt:0.85
+  export:0.79
+  file:0.78
+
+Topic 3:
+  message:6.50
+  recepient:4.78
+  txt:2.85
+  gpg:2.27
+  gog:2.13
+  file:2.08
+  export:2.06
+  armor:2.00
+  list:1.34
+  site:1.34
+
+Topic 4:
+  key:6.92
+  pgp:3.84
+  vendor:2.73
+  decrypt:2.40
+  public:2.11
+  private:1.68
+  encrypt:1.30
+  gpg:1.19
+  people:1.17
+  keys:1.09
+
+K: 5, Log-Likelihood: -1137.815, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  january:0.20
+  break cc bin:0.20
+  thing numbers card:0.20
+  thanxthis:0.20
+  man:0.20
+  nebimusa:0.20
+  place:0.20
+  quote:0.20
+  direction:0.18
+  point:0.18
+
+Topic 1:
+  quote:0.20
+  man:0.20
+  thanxthis:0.20
+  thing numbers card:0.20
+  january:0.20
+  nebimusa:0.20
+  place:0.20
+  break cc bin:0.20
+  isnt:0.18
+  isn:0.18
+
+Topic 2:
+  thanxthis:0.20
+  man:0.20
+  thing numbers card:0.20
+  place:0.20
+  nebimusa:0.20
+  break cc bin:0.20
+  january:0.20
+  quote:0.20
+  direction:0.18
+  point:0.18
+
+Topic 3:
+  thanxthis:0.20
+  break cc bin:0.20
+  thing numbers card:0.20
+  man:0.20
+  quote:0.20
+  place:0.20
+  nebimusa:0.20
+  january:0.20
+  isn:0.18
+  numbers card:0.18
+
+Topic 4:
+  place:0.20
+  january:0.20
+  nebimusa:0.20
+  break cc bin:0.20
+  quote:0.20
+  thing numbers card:0.20
+  man:0.20
+  thanxthis:0.20
+  isn:0.18
+  numbers card:0.18
+
+K: 5, Log-Likelihood: -42.759, Alpha: 11.000, Beta: 1.100

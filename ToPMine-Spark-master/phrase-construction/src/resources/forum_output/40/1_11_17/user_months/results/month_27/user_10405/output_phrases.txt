@@ -1,0 +1,61 @@
+Topic 0:
+  server:4.22
+  design:4.22
+  ubuntu:4.22
+  vulnerable:4.22
+  running:3.37
+  bug:3.37
+  js:3.03
+  bash:2.94
+  vulnerability:2.11
+  ago:2.08
+
+Topic 1:
+  weeks:6.86
+  traffic:5.31
+  november:4.49
+  havent connect electrum tor:4.15
+  servers operation anonymous began:4.15
+  users coins block chain:4.07
+  issues deposits withdrawals:4.07
+  quotei:3.39
+  couple:3.39
+  addresses:3.39
+
+Topic 2:
+  users:6.38
+  bitcoin:6.38
+  exit nodes:5.25
+  network:5.25
+  tor:4.75
+  paper:4.24
+  peer:4.24
+  set:4.24
+  blocks:4.24
+  attack:4.24
+
+Topic 3:
+  ep:3.29
+  catch:3.19
+  blockchain:2.38
+  friend:2.00
+  onion:2.00
+  excellent:2.00
+  safe:2.00
+  hashed:2.00
+  contained:2.00
+  posts:1.99
+
+Topic 4:
+  exit relays:8.52
+  address:4.87
+  access blockchain:4.63
+  onion address:4.63
+  number:4.24
+  large:4.24
+  vpn:4.24
+  aware:4.24
+  blockchain tor:2.84
+  great:2.21
+
+K: 5, Log-Likelihood: -3782.198, Alpha: 11.000, Beta: 1.100

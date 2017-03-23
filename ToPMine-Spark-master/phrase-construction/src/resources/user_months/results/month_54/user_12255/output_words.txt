@@ -1,0 +1,61 @@
+Topic 0:
+  market:5.10
+  pgp:5.05
+  signature:2.23
+  key:2.16
+  dream:2.14
+  eurobird:2.04
+  link:1.96
+  bird:1.30
+  post:1.14
+  dyuypttcvtrdc:0.99
+
+Topic 1:
+  bird:4.19
+  market:3.70
+  post:2.81
+  link:1.28
+  quote:0.88
+  earth:0.83
+  selling:0.77
+  august:0.73
+  pgp:0.63
+  newbie:0.61
+
+Topic 2:
+  august:4.64
+  read:4.37
+  quote:3.46
+  jack:2.41
+  thread:2.36
+  bird:2.22
+  vendor:1.84
+  threads:1.83
+  harkness:1.70
+  verification:1.25
+
+Topic 3:
+  market:4.61
+  bird:2.65
+  pgp:2.20
+  post:1.79
+  link:1.79
+  eurobird:1.40
+  dream:1.28
+  key:1.24
+  signature:1.23
+  selling:0.93
+
+Topic 4:
+  august:3.17
+  quote:3.15
+  vendor:2.68
+  bird:2.63
+  read:2.19
+  verification:1.96
+  thread:1.48
+  post:1.46
+  mate:1.30
+  jack:1.29
+
+K: 5, Log-Likelihood: -1885.478, Alpha: 11.000, Beta: 1.100

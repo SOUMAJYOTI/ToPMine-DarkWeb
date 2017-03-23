@@ -1,0 +1,61 @@
+Topic 0:
+  account:2.40
+  virwox:2.39
+  quote:1.05
+  depends:1.05
+  localbitcoins:1.05
+  pmi:1.05
+  bitstamp:1.05
+  depending:1.05
+  day:1.05
+  solution:1.05
+
+Topic 1:
+  coinbase:0.89
+  address:0.82
+  drugs:0.63
+  person:0.60
+  coins:0.53
+  bought:0.52
+  warning:0.46
+  stuff:0.46
+  cb:0.46
+  searches:0.46
+
+Topic 2:
+  person:1.42
+  coinbase:0.96
+  address:0.80
+  bought:0.71
+  drugs:0.62
+  great:0.57
+  direct:0.57
+  info:0.56
+  random:0.56
+  helping:0.56
+
+Topic 3:
+  le:1.90
+  searching:1.85
+  send coins:1.49
+  vendor:1.33
+  drugs:1.01
+  chosen:0.78
+  doesnt:0.78
+  illegal:0.77
+  pretty:0.77
+  educational:0.77
+
+Topic 4:
+  coinbase:0.61
+  drugs:0.59
+  send coins:0.57
+  vendor:0.56
+  address:0.55
+  buy:0.53
+  coins:0.46
+  buy btc:0.43
+  dont:0.42
+  live:0.42
+
+K: 5, Log-Likelihood: -585.975, Alpha: 11.000, Beta: 1.100

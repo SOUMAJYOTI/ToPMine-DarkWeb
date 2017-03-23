@@ -1,0 +1,345 @@
+handles,0,1
+ssl library,1,1
+torchat built,2,1
+curl,3,1
+thought,4,1
+depend,5,1
+functions,6,1
+plugins,7,1
+ssh,8,2
+encryption libraries,9,1
+gcrypt,10,2
+ssl,11,4
+branch,12,1
+uncertain,13,1
+concern,14,1
+dynamite,15,1
+opens vulnerable,16,4
+fire,17,1
+persistent,18,1
+safely,19,1
+goals,20,2
+ram,21,1
+prime,22,1
+based,23,4
+maintainers,24,1
+system windows,25,1
+audience,26,1
+github,27,1
+qt,28,1
+upgrade,29,2
+pass,30,1
+documentation,31,1
+havent,32,1
+source version,33,1
+whichever,34,2
+community,35,3
+packages,36,1
+version,37,12
+substantial,38,1
+guess,39,1
+baked,40,1
+reality,41,1
+simultaneously,42,1
+adium,43,1
+community torchat,44,1
+updatedtorchat,45,1
+version ssl,46,1
+jsj,47,1
+rs,48,1
+version system,49,1
+components,50,1
+exploitable,51,1
+openssl client,52,1
+proving,53,1
+fixes,54,1
+vulnerable dynamically,55,1
+cookies,56,1
+moment,57,2
+current,58,1
+encryption,59,5
+filezilla,60,1
+systems,61,1
+irc,62,3
+operating,63,1
+free,64,1
+popular,65,1
+validitie,66,1
+email,67,1
+latest,68,1
+linked,69,1
+electrum,70,7
+ce,71,1
+executabletorchat,72,1
+website,73,1
+decision,74,1
+server applications,75,1
+services,76,1
+people,77,2
+integrate,78,1
+deanonymize,79,1
+connected,80,1
+meet,81,1
+answer,82,1
+bug,83,2
+linus version,84,1
+wizard,85,1
+exploit,86,2
+vulnerable version,87,1
+thing,88,1
+discuss,89,1
+ass,90,1
+de,91,1
+instructions,92,1
+server openssl,93,1
+couple,94,1
+vulnerable opens,95,2
+server encryption,96,1
+reasonable,97,1
+questions,98,1
+official,99,1
+sites,100,1
+version openssl,101,4
+source,102,3
+secure,103,1
+loaded,104,1
+unable,105,1
+vulnerable,106,26
+compile,107,2
+post,108,1
+contact,109,1
+won,110,1
+service irc,111,2
+talk,112,1
+details,113,1
+tails real,114,1
+ogfw,115,1
+add,116,2
+libpurple,117,2
+searches,118,1
+pre,119,2
+wrote,120,1
+check,121,1
+list,122,4
+users,123,1
+ve,124,2
+oftc,125,1
+tails,126,3
+nefarious,127,1
+torsion,128,2
+exploited,129,1
+library ssl,130,1
+fixed,131,2
+server ssl,132,1
+updated,133,2
+irc server,134,2
+trust,135,1
+installed,136,2
+distro,137,2
+private,138,1
+memory,139,1
+hidden,140,4
+session,141,1
+concept,142,1
+buildaccording,143,1
+update,144,1
+endless,145,1
+linus,146,3
+pythons,147,2
+compiled,148,1
+encryption vulnerable,149,1
+client,150,3
+exposed,151,1
+anonymity,152,2
+hard,153,1
+thomas,154,1
+openssl version,155,1
+openvpn,156,2
+voegtlin,157,1
+previous,158,1
+source dynamically,159,1
+libraries,160,3
+attacker,161,2
+improvement,162,1
+windows,163,6
+libraries encryption,164,1
+special,165,1
+forum,166,1
+vulnerable electrum,167,1
+service,168,3
+assuming,169,1
+venerable,170,1
+openssl system,171,1
+tails electrum,172,1
+window,173,1
+milestones,174,1
+appealing,175,1
+mirc,176,1
+bitcoin,177,1
+applications,178,3
+software,179,1
+heartbeat,180,1
+developers,181,1
+happy,182,1
+repository,183,1
+issues,184,1
+doesnt,185,1
+openssl based,186,1
+upgraded,187,1
+logged,188,1
+built binaries,189,1
+broad,190,1
+xchat,191,1
+nap,192,1
+plan,193,1
+binaries electrum,194,1
+torchat,195,4
+case,196,1
+built openssl,197,2
+fear,198,1
+python,199,2
+goal,200,1
+encrusted,201,1
+issue,202,1
+work,203,1
+libssl,204,1
+ip,205,1
+clearnet,206,2
+opens libraries,207,2
+otr,208,1
+dynamically,209,3
+list server,210,1
+messaging,211,1
+system,212,6
+versions,213,2
+openssl,214,20
+binary,215,1
+opens,216,7
+ssl vulnerable,217,1
+primary,218,1
+broadcast,219,1
+server,220,7
+server based,221,1
+prebuilt,222,1
+binaries vulnerable,223,1
+wget,224,1
+client vulnerable,225,1
+requests,226,1
+mailing,227,1
+goggle,228,1
+enabled,229,1
+instant,230,1
+nss,231,2
+windows binaries,232,1
+library,233,4
+tor,234,7
+identity,235,1
+version windows,236,1
+vulnerable tor,237,1
+mozillas,238,1
+user hidden,239,1
+hidden service,240,3
+built vulnerable,241,1
+bigger,242,1
+tor vulnerable,243,2
+sshd,244,1
+ntp,245,1
+continuously,246,1
+pidgin,247,1
+libraries torchat,248,1
+chat,249,1
+future,250,1
+binaries dynamically,251,1
+bitmessage,252,2
+anonymous,253,1
+logic,254,1
+connecting,255,1
+transaction,256,1
+habits,257,1
+heartbleed,258,1
+data,259,1
+openssl tails,260,1
+firefox,261,2
+feel,262,1
+darknet,263,1
+electrum built,264,1
+points,265,1
+applications vulnerable,266,1
+protocol,267,1
+updating,268,1
+solution,269,1
+major,270,2
+find,271,1
+system opens,272,1
+documented,273,1
+checked,274,1
+links,275,2
+communication,276,2
+directly,277,2
+openssl encryption,278,1
+including,279,2
+intrigue,280,1
+read,281,1
+package,282,1
+client server,283,1
+coins,284,1
+ideas,285,1
+real,286,3
+windows os,287,1
+messengers,288,1
+market,289,1
+tbb,290,1
+putty,291,1
+person,292,2
+improve,293,1
+squeezes,294,1
+binaries,295,4
+applications server,296,1
+ascertain,297,1
+openssl library,298,1
+configuration,299,1
+regret,300,1
+steal,301,1
+keys,302,1
+link,303,2
+winscp,304,1
+dangerous,305,1
+reveals,306,1
+media,307,1
+point,308,1
+libel,309,1
+aware,310,1
+running,311,1
+based openssl,312,1
+general,313,1
+servers,314,1
+git,315,1
+public,316,1
+restarted,317,1
+ready,318,1
+design,319,1
+browser,320,2
+mentioned,321,1
+os tails,322,1
+met,323,1
+electrum binaries,324,1
+sal,325,1
+openssl vulnerable,326,7
+os,327,3
+built,328,5
+implementation,329,2
+electric,330,2
+specific,331,2
+ldd,332,2
+implementiation,333,1
+application,334,2
+compilation,335,1
+build,336,1
+windows version,337,1
+responsive,338,1
+vulnerable system,339,1
+interested,340,2
+visit,341,1
+intend,342,1
+user,343,3
+vulnerable linus,344,1

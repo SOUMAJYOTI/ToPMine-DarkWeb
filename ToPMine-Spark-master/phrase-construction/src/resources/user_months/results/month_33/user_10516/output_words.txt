@@ -1,0 +1,61 @@
+Topic 0:
+  connect:24.13
+  twin:13.93
+  access:12.38
+  wifi:12.04
+  wpa:10.84
+  ssid:10.17
+  evil:9.15
+  key:6.95
+  point:6.60
+  open:6.37
+
+Topic 1:
+  tor:22.27
+  device:10.90
+  switch:9.90
+  pi:9.36
+  set:8.85
+  beaglebone:6.90
+  traffic:6.88
+  browser:6.87
+  proxy:5.89
+  network:5.04
+
+Topic 2:
+  good:13.61
+  nasty:8.43
+  thing:6.23
+  distro:5.98
+  software:5.75
+  hardware:5.12
+  work:5.11
+  tails:4.88
+  number:4.32
+  nice:4.11
+
+Topic 3:
+  fitlet:23.99
+  pc:8.35
+  ports:5.51
+  mini:4.99
+  compulab:4.99
+  bit:4.57
+  fillet:3.99
+  storage:3.99
+  design:3.80
+  soc:3.80
+
+Topic 4:
+  connect:20.32
+  evil:19.77
+  wifi:17.72
+  twin:16.99
+  router:16.17
+  captive:8.95
+  users:7.45
+  wps:7.07
+  wpa:7.06
+  automatically:6.87
+
+K: 5, Log-Likelihood: -12575.320, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  time:17.52
+  agora:16.47
+  javascript:14.37
+  set:10.46
+  disable:7.93
+  updated:6.58
+  tor:5.83
+  scripts:5.83
+  good:5.80
+  amvd:5.80
+
+Topic 1:
+  middle:24.25
+  earth:21.43
+  js:20.91
+  enabled:10.50
+  pgp:8.91
+  message:8.29
+  people:7.89
+  profile:7.31
+  comfortable:6.90
+  trust:6.88
+
+Topic 2:
+  orders:11.94
+  grams:11.26
+  vacation:10.58
+  key:9.89
+  vendors:9.00
+  subject:7.95
+  markets:6.98
+  june:6.64
+  curious:6.42
+  add:6.24
+
+Topic 3:
+  nucleus:22.69
+  people:13.68
+  middle:12.43
+  earth:12.37
+  find:9.67
+  time:9.30
+  withdraw:9.01
+  blackbank:8.67
+  favorite:8.66
+  interface:8.35
+
+Topic 4:
+  js:20.94
+  log:13.82
+  risk:13.76
+  tmg:13.45
+  vend:12.18
+  quote:11.74
+  enable:10.30
+  don:7.92
+  fine:7.90
+  screen:7.77
+
+K: 5, Log-Likelihood: -13352.992, Alpha: 11.000, Beta: 1.100

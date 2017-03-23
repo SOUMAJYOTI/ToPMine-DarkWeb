@@ -1,0 +1,61 @@
+Topic 0:
+  free:4.15
+  wallet:2.67
+  months:2.56
+  paying:2.49
+  problem:2.44
+  april:2.26
+  paid:2.26
+  quote:2.13
+  link:1.97
+  limbo:1.76
+
+Topic 1:
+  potential:32.83
+  agora:27.30
+  evolution:26.66
+  le:23.97
+  market:23.73
+  actual:19.22
+  share:19.08
+  exit:14.98
+  growth:11.90
+  reached:11.90
+
+Topic 2:
+  quote:3.86
+  boogiemonster:3.49
+  lelantos:3.27
+  sigaint:2.28
+  problems:2.26
+  april:1.97
+  good:1.91
+  link:1.76
+  free:1.68
+  incase:1.62
+
+Topic 3:
+  dnm:11.57
+  agora:10.89
+  le:7.97
+  competition:7.58
+  public:7.13
+  quote:6.61
+  scidmt:6.14
+  difference:5.88
+  nucleus:4.72
+  bb:4.71
+
+Topic 4:
+  market:18.56
+  share:13.32
+  scam:9.78
+  exit:9.76
+  dnm:8.62
+  administrators:7.17
+  based:7.14
+  btc:6.67
+  evolution:6.54
+  risk:6.21
+
+K: 5, Log-Likelihood: -6332.825, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  twitter:0.08
+  market:0.00
+  faster:0.00
+  high:0.00
+  purchases:0.00
+  comfortable:0.00
+  volumes:0.00
+  link:0.00
+  working:0.00
+  official:0.00
+
+Topic 1:
+  twitter:0.08
+  market:0.00
+  faster:0.00
+  high:0.00
+  purchases:0.00
+  comfortable:0.00
+  volumes:0.00
+  link:0.00
+  working:0.00
+  official:0.00
+
+Topic 2:
+  twitter:0.08
+  market:0.00
+  faster:0.00
+  high:0.00
+  purchases:0.00
+  comfortable:0.00
+  volumes:0.00
+  link:0.00
+  working:0.00
+  official:0.00
+
+Topic 3:
+  twitter:0.08
+  market:0.00
+  faster:0.00
+  high:0.00
+  purchases:0.00
+  comfortable:0.00
+  volumes:0.00
+  link:0.00
+  working:0.00
+  official:0.00
+
+Topic 4:
+  twitter:0.08
+  market:0.00
+  faster:0.00
+  high:0.00
+  purchases:0.00
+  comfortable:0.00
+  volumes:0.00
+  link:0.00
+  working:0.00
+  official:0.00
+
+K: 5, Log-Likelihood: -0.793, Alpha: 11.000, Beta: 1.100

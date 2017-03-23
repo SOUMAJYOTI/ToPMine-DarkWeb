@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:10.25
+  verify:8.97
+  bond:3.84
+  status:2.97
+  black:2.97
+  account:2.15
+  nucleus:2.10
+  reloaded:1.97
+  bank:1.97
+  agra:1.97
+
+Topic 1:
+  onion:18.98
+  accounts:17.37
+  security:16.98
+  time:15.42
+  multisig:15.16
+  bond:15.12
+  allowed:14.98
+  flaws:13.98
+  prior:13.17
+  key:12.89
+
+Topic 2:
+  order:20.97
+  market:15.57
+  key:10.06
+  select:9.97
+  vendor:8.70
+  public:6.97
+  funds:5.97
+  option:5.97
+  pool:3.98
+  check:3.98
+
+Topic 3:
+  referred:2.71
+  randomized:2.38
+  invoice:1.90
+  dn:1.88
+  dhl:1.86
+  withdraw:1.78
+  gramsflow:1.70
+  thread:1.62
+  post:1.32
+  pay:1.13
+
+Topic 4:
+  send:8.91
+  pay:8.79
+  amount:6.67
+  coins:6.19
+  version:4.97
+  helix:4.97
+  btc:4.97
+  shield:4.71
+  address:4.11
+  fee:3.97
+
+K: 5, Log-Likelihood: -7872.401, Alpha: 11.000, Beta: 1.100

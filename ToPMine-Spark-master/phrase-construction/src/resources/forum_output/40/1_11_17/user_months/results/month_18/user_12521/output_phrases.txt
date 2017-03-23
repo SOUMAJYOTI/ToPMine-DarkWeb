@@ -1,0 +1,61 @@
+Topic 0:
+  mit:8.28
+  ll:5.78
+  ei:5.26
+  rahat:4.68
+  jo:4.68
+  men:4.68
+  minun:4.68
+  oval:4.62
+  rahoja:4.60
+  kuulunut:4.20
+
+Topic 1:
+  btc:5.03
+  niit:4.81
+  satsia:4.68
+  oli:3.84
+  kuin:3.43
+  hei:3.31
+  voisi:3.28
+  samaa:2.77
+  en:2.72
+  tilaukset:2.61
+
+Topic 2:
+  tili:4.84
+  ongelmista:4.64
+  clos:4.63
+  rahaa:4.63
+  kolikoita:4.62
+  osa:3.81
+  kaikki:3.81
+  aikaan:3.81
+  st:3.79
+  tiimiin:3.74
+
+Topic 3:
+  myynniss:4.97
+  tuo:4.93
+  jossain:4.67
+  euron:4.67
+  sit:4.66
+  ak:3.86
+  taisi:3.84
+  hyvin:3.84
+  massia:3.84
+  critical:3.84
+
+Topic 4:
+  minen:7.04
+  kun:5.76
+  kuin:5.43
+  ett:5.42
+  voitte:4.69
+  auki:4.69
+  asia:4.69
+  suoraan yhteytt:4.69
+  jolla:4.69
+  sivuston:4.69
+
+K: 5, Log-Likelihood: -9867.172, Alpha: 11.000, Beta: 1.100

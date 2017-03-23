@@ -1,0 +1,61 @@
+Topic 0:
+  account:13.79
+  february:13.30
+  chat:13.08
+  instructions:11.92
+  oft:11.67
+  map:8.85
+  pmquote:7.50
+  record:7.43
+  dont:6.92
+  otr:6.86
+
+Topic 1:
+  onion:14.39
+  cookies:8.89
+  cookie:8.88
+  small:4.90
+  mass:4.90
+  distribution:4.90
+  service:4.49
+  february:4.40
+  alfred:3.91
+  distribute:3.89
+
+Topic 2:
+  torchat:7.94
+  hidden:6.77
+  quote:4.73
+  service:4.41
+  file:3.97
+  transfer:3.97
+  attacks:3.76
+  thing:3.11
+  ram:2.97
+  computer:2.97
+
+Topic 3:
+  tor:10.42
+  potential:3.57
+  technique:2.93
+  onions:2.88
+  docs:2.68
+  users:2.64
+  services:2.24
+  work:2.23
+  documents:2.08
+  document:1.94
+
+Topic 4:
+  ross:6.73
+  good:5.42
+  zaphod:5.21
+  keys:5.21
+  pgp:4.86
+  chat:4.75
+  news:4.63
+  logs:4.38
+  evidence:4.36
+  didnt:3.93
+
+K: 5, Log-Likelihood: -5939.971, Alpha: 11.000, Beta: 1.100

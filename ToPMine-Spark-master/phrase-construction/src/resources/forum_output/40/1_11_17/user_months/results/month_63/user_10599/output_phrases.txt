@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:1.25
+  cash:1.18
+  rate:1.13
+  admin:1.13
+  types:1.12
+  scammers:1.12
+  beware:1.12
+  high:1.12
+  markets:1.11
+  experience:1.11
+
+Topic 1:
+  money:3.79
+  free:3.00
+  ebay:2.98
+  sell:2.98
+  method:2.97
+  december:1.94
+  slang:1.39
+  accounts papa:1.39
+  paid:1.39
+  people:1.39
+
+Topic 2:
+  securely:1.10
+  cash:0.91
+  purchased:0.91
+  funds:0.91
+  prepaid:0.90
+  basically:0.90
+  balance:0.90
+  acct:0.90
+  correct:0.90
+  transfer:0.90
+
+Topic 3:
+  bank account:3.06
+  routed:2.05
+  tor:2.04
+  repaid:2.04
+  thoughts:1.39
+  proxy:1.39
+  papa account:1.39
+  prepaid card:1.39
+  route:1.39
+  card:1.39
+
+Topic 4:
+  cards daily:1.71
+  high opsec max cashout:1.71
+  online bank naming accounts:1.69
+  answer gold dust lines:1.67
+  prepaid cards:1.67
+  posted drop hacked internet:1.65
+  december:1.62
+  pmthe:1.42
+  explain:1.40
+  fatherted:1.39
+
+K: 5, Log-Likelihood: -1042.215, Alpha: 11.000, Beta: 1.100

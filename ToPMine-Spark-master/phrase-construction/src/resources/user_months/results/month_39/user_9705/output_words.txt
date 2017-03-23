@@ -1,0 +1,61 @@
+Topic 0:
+  security:1.56
+  sr:0.98
+  quality:0.97
+  bitcoin:0.95
+  hub:0.93
+  vendors:0.91
+  pgp:0.91
+  tails:0.90
+  info:0.88
+  forum:0.82
+
+Topic 1:
+  bitcoin:1.79
+  sr:1.76
+  info:1.75
+  hub:1.73
+  security:1.71
+  agra:1.26
+  utilize:0.78
+  cd:0.78
+  notch:0.78
+  lsd:0.78
+
+Topic 2:
+  good:4.04
+  pgp:1.96
+  wondering:1.50
+  quality:1.22
+  opsec:1.15
+  time:0.78
+  buy:0.62
+  sort:0.62
+  slowly:0.62
+  trip:0.62
+
+Topic 3:
+  security:1.57
+  info:1.18
+  hub:1.15
+  bitcoin:1.07
+  sr:1.07
+  quality:0.87
+  agra:0.86
+  marketplace:0.84
+  forum:0.84
+  comfortable:0.83
+
+Topic 4:
+  opsec:4.48
+  pgp:2.95
+  time:2.87
+  good:2.46
+  ll:1.35
+  quality:1.32
+  sloppy:1.27
+  extra:1.27
+  find:1.26
+  luck:1.26
+
+K: 5, Log-Likelihood: -832.724, Alpha: 11.000, Beta: 1.100

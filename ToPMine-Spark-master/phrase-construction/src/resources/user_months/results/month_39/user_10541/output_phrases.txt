@@ -1,0 +1,61 @@
+Topic 0:
+  tor traffic:7.06
+  local surveillance:5.52
+  suspect:5.52
+  encrypted key:5.51
+  text files:5.51
+  key:5.51
+  ill claim:5.51
+  nugz:5.51
+  thread:5.51
+  nw:5.51
+
+Topic 1:
+  bridges:16.63
+  tails:14.67
+  persistent folder:11.08
+  click:10.23
+  tor bridges:9.63
+  connecting tor network:8.31
+  session tails:8.31
+  network configuration:8.31
+  screen:7.22
+  keyboard:5.54
+
+Topic 2:
+  operators:11.08
+  users:11.08
+  mix cascades:11.08
+  wallet:11.06
+  jondos gmbh:8.31
+  mixes cascade:8.31
+  countries:8.31
+  quote fredgarvin maleprostitute april:7.06
+  find:6.25
+  continues:5.53
+
+Topic 3:
+  currency:9.44
+  emerge btc worthless superseded:8.19
+  donate gwfgdy yqghrdx nsmns:8.19
+  sldk march amby time:7.34
+  years:7.08
+  superseded forum earlier:6.78
+  hear logic disagree people:6.18
+  apopularvendor march amquote:6.18
+  coin bitcoin add things:6.18
+  popular exposure happened richer:6.18
+
+Topic 4:
+  modified:5.52
+  identifier:5.51
+  tails:5.43
+  prison:5.05
+  time:4.84
+  obis bridges tor:4.68
+  paste:4.68
+  list:4.68
+  master:4.68
+  paying:4.68
+
+K: 5, Log-Likelihood: -19744.320, Alpha: 11.000, Beta: 1.100

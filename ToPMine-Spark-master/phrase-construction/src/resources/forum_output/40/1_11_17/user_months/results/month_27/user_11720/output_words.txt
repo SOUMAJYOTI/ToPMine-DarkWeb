@@ -1,0 +1,61 @@
+Topic 0:
+  single:0.41
+  account:0.40
+  pimpin:0.39
+  individually:0.20
+  precise:0.20
+  find:0.20
+  sells:0.20
+  ebay:0.20
+  person:0.20
+  watches:0.20
+
+Topic 1:
+  pimpin:0.41
+  account:0.40
+  single:0.39
+  refunds:0.20
+  market:0.20
+  forums:0.20
+  bay:0.20
+  amazon:0.20
+  evolution:0.20
+  subforum:0.20
+
+Topic 2:
+  account:0.40
+  single:0.40
+  pimpin:0.40
+  registered:0.20
+  forum:0.20
+  response:0.20
+  answer:0.20
+  question:0.20
+  evo:0.20
+  long:0.20
+
+Topic 3:
+  single:0.41
+  pimpin:0.40
+  account:0.40
+  carder:0.20
+  total:0.20
+  amount:0.20
+  purchased:0.20
+  precise:0.20
+  find:0.20
+  ebay:0.20
+
+Topic 4:
+  pimpin:0.40
+  account:0.40
+  single:0.39
+  evolution:0.20
+  refunds:0.20
+  subforum:0.20
+  forums:0.20
+  market:0.20
+  bay:0.20
+  amazon:0.20
+
+K: 5, Log-Likelihood: -138.800, Alpha: 11.000, Beta: 1.100

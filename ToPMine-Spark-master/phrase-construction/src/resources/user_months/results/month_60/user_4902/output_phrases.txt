@@ -1,0 +1,61 @@
+Topic 0:
+  frowned:0.49
+  november:0.49
+  post office:0.48
+  normal:0.47
+  package:0.47
+  unpaid sender:0.42
+  remaining:0.42
+  postage stamp:0.41
+  left:0.41
+  sender:0.41
+
+Topic 1:
+  realized:0.55
+  stamp:0.54
+  affix:0.54
+  balance:0.54
+  unpaid postage:0.54
+  seizure:0.54
+  forgetting:0.54
+  sign:0.54
+  search:0.54
+  house:0.54
+
+Topic 2:
+  frowned:0.55
+  november:0.54
+  post office:0.53
+  normal:0.52
+  package:0.48
+  bit worried moment:0.41
+  concerned:0.39
+  open:0.39
+  validate:0.39
+  realized:0.39
+
+Topic 3:
+  normal:1.10
+  post office:1.10
+  november:1.08
+  frowned:1.07
+  occurence:0.64
+  finally:0.64
+  pso:0.64
+  quote:0.64
+  happened:0.64
+  darcm:0.64
+
+Topic 4:
+  normal:0.59
+  post office:0.59
+  november:0.59
+  frowned:0.58
+  package:0.45
+  bit worried moment:0.43
+  happened:0.40
+  ameverything:0.40
+  quote:0.40
+  vendor:0.40
+
+K: 5, Log-Likelihood: -517.976, Alpha: 11.000, Beta: 1.100

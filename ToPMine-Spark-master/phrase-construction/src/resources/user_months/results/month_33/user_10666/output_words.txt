@@ -1,0 +1,61 @@
+Topic 0:
+  legal:9.04
+  years:6.65
+  people:6.55
+  perfectly:6.20
+  law:6.05
+  december:5.86
+  didnt:5.73
+  illegal:5.25
+  laws:5.15
+  months:4.77
+
+Topic 1:
+  december:6.64
+  years:5.77
+  months:5.26
+  illegal:5.09
+  legal:4.73
+  law:4.48
+  perfectly:4.29
+  people:4.24
+  didnt:4.05
+  year:3.61
+
+Topic 2:
+  december:6.45
+  quote:4.18
+  illegal:3.22
+  ami:2.37
+  months:2.19
+  year:2.18
+  today:1.69
+  legal:1.36
+  people:1.05
+  forum:1.04
+
+Topic 3:
+  quote:11.08
+  dont:9.34
+  safe:8.33
+  mind:6.89
+  mail:6.39
+  princesocapuyo:5.03
+  web:4.87
+  leave:4.84
+  dark:4.61
+  havent:4.16
+
+Topic 4:
+  december:4.77
+  quote:3.57
+  illegal:2.83
+  ami:1.96
+  year:1.67
+  question:1.67
+  months:1.54
+  story:1.45
+  forum:1.43
+  today:1.40
+
+K: 5, Log-Likelihood: -4417.031, Alpha: 11.000, Beta: 1.100

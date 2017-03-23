@@ -1,0 +1,61 @@
+Topic 0:
+  join:0.98
+  time:0.98
+  onionthought:0.79
+  url:0.79
+  server:0.79
+  nfin:0.78
+  onionirc:0.78
+  public:0.74
+  cheers:0.67
+  registered nym:0.62
+
+Topic 1:
+  time:1.54
+  join:1.50
+  public:0.84
+  onionirc:0.73
+  server:0.72
+  nfin:0.72
+  url:0.71
+  onionthought:0.71
+  guest:0.66
+  registered:0.66
+
+Topic 2:
+  guide:1.07
+  register:1.07
+  nam:1.06
+  type:1.06
+  password:1.06
+  join cheers:1.06
+  registered nym:1.04
+  cheers:0.76
+  won:0.66
+  didn:0.66
+
+Topic 3:
+  figure:2.97
+  posted:2.95
+  germinal:1.31
+  thread:1.31
+  sulution:1.30
+  hos:1.30
+  cheers:0.48
+  join:0.47
+  time:0.46
+  nfin:0.46
+
+Topic 4:
+  pip:4.82
+  comment:3.12
+  lot:3.12
+  add:3.12
+  slows:3.12
+  communicating:3.12
+  client:3.12
+  keys:3.12
+  pgp:1.43
+  motivated:1.43
+
+K: 5, Log-Likelihood: -669.502, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  assume:5.56
+  market:4.76
+  reliable:4.76
+  markets:4.45
+  vendors:4.43
+  things:4.37
+  havent:3.95
+  big:2.94
+  stuck:2.77
+  stores:2.77
+
+Topic 1:
+  sr:7.13
+  claptrap personal touch mate:6.16
+  chinwag:4.68
+  decent:4.68
+  tambourine:4.68
+  bothered:4.68
+  reason havent:4.68
+  forums mindset:4.68
+  em:4.68
+  june pm:4.68
+
+Topic 2:
+  apple:16.83
+  filevault:12.96
+  open source:12.43
+  quote claptrap june:11.56
+  fde:5.57
+  cloud:5.52
+  option:5.52
+  security:5.52
+  encryption:5.44
+  read:5.32
+
+Topic 3:
+  pretty:9.39
+  open source:6.52
+  encryption:6.28
+  system drive:5.59
+  operating:5.59
+  full disk encryption:5.10
+  backdoored mention:4.75
+  coreboot:4.75
+  pity:4.75
+  veracrypt apple:4.75
+
+Topic 4:
+  ron swanson june:8.35
+  haharhyming slang bit degenerated:6.09
+  aint staff burberry wardrobe:6.09
+  pmboot chav lingo:6.09
+  fuck man chav:6.09
+  step:5.48
+  yosemite:5.43
+  ta:5.28
+  tails:5.05
+  birds:4.69
+
+K: 5, Log-Likelihood: -7760.123, Alpha: 11.000, Beta: 1.100

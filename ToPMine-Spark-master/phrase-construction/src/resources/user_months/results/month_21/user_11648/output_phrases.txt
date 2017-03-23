@@ -1,0 +1,61 @@
+Topic 0:
+  realized:0.77
+  didnt:0.77
+  wtf:0.76
+  months forums:0.76
+  reply quote:0.76
+  wanted:0.76
+  today:0.76
+  create:0.76
+  loged:0.76
+  days:0.76
+
+Topic 1:
+  ya:3.07
+  conspiracy:2.76
+  wit:2.76
+  dont:2.76
+  safe:2.76
+  sr:1.55
+  involved:1.28
+  nikon:1.28
+  dont sr:1.28
+  friend:1.28
+
+Topic 2:
+  august:1.00
+  conjuntion lol:0.97
+  trolly:0.96
+  hey:0.96
+  pmhub:0.95
+  trolltergeist:0.95
+  lol:0.82
+  sr:0.80
+  quote:0.66
+  ya:0.55
+
+Topic 3:
+  alfred:2.21
+  active:1.43
+  ass:1.31
+  cheapestpills:1.31
+  pmsr:1.31
+  head:1.31
+  positive:1.31
+  unfortunate:1.31
+  safer:1.31
+  lead:1.31
+
+Topic 4:
+  forum:2.78
+  happen:2.78
+  doesnt:2.78
+  block:2.31
+  market:1.90
+  sr:1.60
+  willy:1.29
+  lmao:1.29
+  times:1.29
+  unique:1.29
+
+K: 5, Log-Likelihood: -1022.996, Alpha: 11.000, Beta: 1.100

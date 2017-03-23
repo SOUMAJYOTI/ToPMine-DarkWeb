@@ -1,0 +1,61 @@
+Topic 0:
+  ve:0.40
+  berkeley:0.39
+  radical:0.39
+  anarchism:0.39
+  society:0.39
+  guys:0.21
+  google:0.21
+  question:0.21
+  allucination:0.21
+  general:0.21
+
+Topic 1:
+  anarchism:0.43
+  society:0.43
+  berkeley:0.43
+  radical:0.43
+  ve:0.33
+  leaderless:0.21
+  group:0.21
+  doses:0.21
+  crap:0.21
+  essentially:0.21
+
+Topic 2:
+  anarchism:0.43
+  berkeley:0.43
+  society:0.43
+  radical:0.43
+  ve:0.32
+  stateless:0.21
+  sacramento:0.21
+  students:0.21
+  futurists punk:0.21
+  free:0.21
+
+Topic 3:
+  radical:0.42
+  society:0.42
+  berkeley:0.41
+  anarchism:0.41
+  ve:0.35
+  cub:0.21
+  punk:0.21
+  belief:0.21
+  operated:0.21
+  eternal:0.21
+
+Topic 4:
+  ve:0.43
+  society:0.38
+  radical:0.38
+  berkeley:0.37
+  anarchism:0.37
+  panopticono:0.23
+  hope:0.23
+  general:0.23
+  internet:0.23
+  finished:0.23
+
+K: 5, Log-Likelihood: -643.409, Alpha: 11.000, Beta: 1.100

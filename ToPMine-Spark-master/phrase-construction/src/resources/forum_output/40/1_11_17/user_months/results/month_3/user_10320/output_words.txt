@@ -1,0 +1,61 @@
+Topic 0:
+  february:1.72
+  read:1.62
+  quote:1.60
+  theft:1.55
+  coin:1.55
+  bug:1.36
+  bugs:1.29
+  btc:1.29
+  defcon:1.18
+  site:1.17
+
+Topic 1:
+  coin:1.83
+  bug:1.66
+  theft:1.60
+  read:1.59
+  quote:1.52
+  february:1.42
+  stole:1.40
+  staff:1.39
+  bugs:1.31
+  site:1.21
+
+Topic 2:
+  events:1.62
+  site:1.40
+  find:1.37
+  admin:1.27
+  defcon:1.19
+  forum:1.07
+  btc:1.02
+  french:0.98
+  theft:0.95
+  future:0.95
+
+Topic 3:
+  february:2.77
+  find:2.54
+  guns:1.86
+  server:1.86
+  drugs:1.86
+  hardware:1.85
+  arrests:1.84
+  case:1.84
+  cops:1.83
+  sending:1.83
+
+Topic 4:
+  coin:2.49
+  bug:1.59
+  boat:1.49
+  read:1.46
+  stole:1.40
+  theft:1.35
+  staff:1.33
+  quote:1.33
+  geesh:1.17
+  february:1.15
+
+K: 5, Log-Likelihood: -2313.735, Alpha: 11.000, Beta: 1.100

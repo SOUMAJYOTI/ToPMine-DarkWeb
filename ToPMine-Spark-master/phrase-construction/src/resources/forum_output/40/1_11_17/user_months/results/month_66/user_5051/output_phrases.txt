@@ -1,0 +1,61 @@
+Topic 0:
+  nice:1.50
+  interest:1.50
+  forgotten:1.50
+  withdrawals working:1.50
+  nicely:1.50
+  small:1.49
+  change:1.49
+  returned:1.49
+  popcorn:1.36
+  explanation:1.29
+
+Topic 1:
+  agreed:2.87
+  january:2.84
+  sketch:2.84
+  gleeful:2.83
+  pmstay:2.82
+  luck:2.82
+  quote:2.80
+  avoid:2.74
+  left helm days pops:2.10
+  log site:1.88
+
+Topic 2:
+  explanation:2.39
+  downtime:2.37
+  kids:2.26
+  reddit:2.25
+  lips:2.24
+  yanks:2.24
+  sleeping:2.24
+  closed:2.24
+  strengthening:2.23
+  harm:2.22
+
+Topic 3:
+  stay:2.41
+  log site:1.98
+  fedora:1.97
+  eating:1.97
+  unpleasant:1.94
+  duty:1.93
+  good:1.93
+  left helm days pops:1.78
+  coins:1.78
+  wouldn:1.42
+
+Topic 4:
+  site:6.24
+  working:3.17
+  responsive:3.17
+  clean:3.16
+  puzzling:3.16
+  life:3.15
+  withdrawals:3.15
+  deposits:3.15
+  cautiously:3.15
+  admins:3.15
+
+K: 5, Log-Likelihood: -1259.702, Alpha: 11.000, Beta: 1.100

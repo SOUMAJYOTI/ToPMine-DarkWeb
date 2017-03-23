@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:3.32
+  coke:3.00
+  tguk:2.97
+  darknetmarkets:1.62
+  sticking:1.62
+  quotein:1.62
+  good:1.62
+  review coke:1.62
+  offered:1.62
+  quotesnappytom:1.62
+
+Topic 1:
+  year:1.65
+  tedanzing:1.15
+  misterreplicator:1.14
+  privacy:1.14
+  fakeids:1.14
+  encryption:1.13
+  opposed:1.12
+  lukewarm:1.12
+  things:1.12
+  messed:1.12
+
+Topic 2:
+  send coins:1.53
+  people making:1.47
+  generally:1.46
+  reason:1.45
+  reddit good:1.43
+  assume:1.42
+  release:1.17
+  coins:1.17
+  jor:1.17
+  dox:1.17
+
+Topic 3:
+  attitude:3.70
+  gear:3.64
+  dnms:3.26
+  drugs:3.07
+  product:3.06
+  surname:2.38
+  cars:2.38
+  integrity:2.38
+  pride:2.38
+  largest:2.38
+
+Topic 4:
+  vendor:4.06
+  rating:3.31
+  real:3.31
+  operation:3.31
+  sucks:3.31
+  leave:3.31
+  life:3.31
+  market:3.31
+  vendors:3.31
+  amount:3.31
+
+K: 5, Log-Likelihood: -2273.869, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  admin:0.36
+  ccc:0.36
+  mixing coins:0.22
+  transfer:0.20
+  receive:0.20
+  service:0.20
+  bitcoin:0.20
+  net:0.19
+  bought:0.19
+  market:0.19
+
+Topic 1:
+  ccc:0.37
+  admin:0.37
+  mixing coins:0.22
+  service:0.20
+  receive:0.20
+  bitcoin:0.20
+  transfer:0.20
+  reviews:0.18
+  personally:0.18
+  bitblender:0.18
+
+Topic 2:
+  ccc:0.37
+  admin:0.37
+  mixing coins:0.22
+  receive:0.20
+  bitcoin:0.20
+  transfer:0.20
+  service:0.20
+  recommend:0.18
+  worked:0.18
+  reviews:0.18
+
+Topic 3:
+  admin:0.36
+  ccc:0.36
+  mixing coins:0.22
+  bitcoin:0.20
+  service:0.20
+  transfer:0.20
+  receive:0.20
+  market:0.18
+  find:0.18
+  question:0.18
+
+Topic 4:
+  admin:0.37
+  ccc:0.37
+  mixing coins:0.22
+  bitcoin:0.20
+  transfer:0.20
+  receive:0.20
+  service:0.20
+  caught:0.18
+  passing:0.18
+  mitigate:0.18
+
+K: 5, Log-Likelihood: -143.665, Alpha: 11.000, Beta: 1.100

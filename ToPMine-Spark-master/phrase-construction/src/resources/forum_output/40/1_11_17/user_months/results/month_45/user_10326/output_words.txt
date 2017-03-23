@@ -1,0 +1,61 @@
+Topic 0:
+  vm:0.93
+  contacts:0.93
+  spawn:0.93
+  buy:0.93
+  os:0.70
+  server:0.36
+  cash:0.36
+  arm:0.36
+  keeping:0.36
+  factor:0.36
+
+Topic 1:
+  os:0.62
+  systems:0.42
+  maintaining:0.41
+  people:0.37
+  security:0.37
+  spawn:0.30
+  contacts:0.30
+  vm:0.30
+  buy:0.30
+  set:0.26
+
+Topic 2:
+  os:0.60
+  systems:0.42
+  maintaining:0.42
+  security:0.40
+  people:0.40
+  set:0.30
+  buy:0.28
+  spawn:0.28
+  contacts:0.28
+  vm:0.28
+
+Topic 3:
+  set:2.21
+  people:0.85
+  security:0.85
+  read:0.55
+  isolation:0.55
+  variety:0.55
+  vulnerable:0.55
+  choose:0.55
+  imo:0.55
+  creating:0.55
+
+Topic 4:
+  os:0.67
+  buy:0.41
+  contacts:0.41
+  vm:0.41
+  spawn:0.41
+  maintaining:0.39
+  systems:0.39
+  security:0.27
+  people:0.27
+  gnupg:0.22
+
+K: 5, Log-Likelihood: -511.002, Alpha: 11.000, Beta: 1.100

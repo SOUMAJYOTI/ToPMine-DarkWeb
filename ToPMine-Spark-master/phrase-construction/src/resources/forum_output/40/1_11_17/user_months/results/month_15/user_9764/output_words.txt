@@ -1,0 +1,51 @@
+Topic 0:
+  competition:0.40
+  great:0.40
+  folks:0.40
+  hub:0.40
+  close:0.40
+  despicable:0.40
+  day:0.40
+  forums:0.40
+
+Topic 1:
+  close:0.41
+  despicable:0.40
+  great:0.40
+  hub:0.40
+  forums:0.40
+  folks:0.40
+  competition:0.40
+  day:0.40
+
+Topic 2:
+  folks:0.40
+  day:0.40
+  despicable:0.40
+  close:0.40
+  forums:0.40
+  competition:0.40
+  hub:0.40
+  great:0.40
+
+Topic 3:
+  forums:0.40
+  day:0.40
+  despicable:0.40
+  competition:0.40
+  folks:0.40
+  great:0.40
+  hub:0.40
+  close:0.40
+
+Topic 4:
+  hub:0.40
+  competition:0.40
+  day:0.40
+  great:0.40
+  forums:0.40
+  folks:0.40
+  close:0.40
+  despicable:0.40
+
+K: 5, Log-Likelihood: -33.271, Alpha: 11.000, Beta: 1.100

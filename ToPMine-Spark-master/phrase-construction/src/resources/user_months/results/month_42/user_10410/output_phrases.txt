@@ -1,0 +1,61 @@
+Topic 0:
+  data:1.59
+  phone:1.19
+  surveillance:1.10
+  years:0.88
+  mass surveillance:0.88
+  french intelligence agency:0.87
+  system:0.84
+  abroad:0.83
+  french:0.83
+  set:0.58
+
+Topic 1:
+  afraid:0.79
+  illegal:0.79
+  day:0.69
+  data:0.65
+  imo:0.58
+  radar:0.58
+  stopping:0.58
+  lower:0.58
+  uncontrollable:0.58
+  declaring:0.58
+
+Topic 2:
+  data:2.08
+  surveillance:1.05
+  phone:1.01
+  abroad:0.74
+  system:0.72
+  french intelligence agency:0.70
+  years:0.68
+  mass surveillance:0.68
+  french:0.68
+  telecommunications:0.51
+
+Topic 3:
+  data:3.42
+  surveillance:2.42
+  phone:1.58
+  years:1.24
+  mass surveillance:1.19
+  french:1.18
+  abroad:1.15
+  system:1.14
+  french intelligence agency:1.08
+  espionage:0.76
+
+Topic 4:
+  surveillance:1.14
+  data:1.03
+  phone:0.76
+  french intelligence agency:0.70
+  french:0.69
+  system:0.65
+  abroad:0.65
+  mass surveillance:0.64
+  years:0.59
+  bill:0.52
+
+K: 5, Log-Likelihood: -2515.188, Alpha: 11.000, Beta: 1.100

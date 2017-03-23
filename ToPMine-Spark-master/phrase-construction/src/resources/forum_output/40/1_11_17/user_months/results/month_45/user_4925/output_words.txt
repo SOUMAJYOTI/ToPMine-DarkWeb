@@ -1,0 +1,61 @@
+Topic 0:
+  box:4.21
+  po:3.99
+  order:2.84
+  mail:2.34
+  open:2.06
+  dont:1.86
+  thing:1.50
+  don:1.42
+  bob:1.41
+  good:1.39
+
+Topic 1:
+  order:2.63
+  box:1.82
+  people:1.72
+  po:1.69
+  dont:1.45
+  good:0.92
+  ship:0.84
+  orders:0.74
+  send:0.74
+  open:0.72
+
+Topic 2:
+  days:4.23
+  mailbox:3.85
+  address:3.85
+  holidays:3.85
+  drop:2.60
+  register:2.59
+  small:2.58
+  house:1.86
+  point:1.86
+  complicated:1.86
+
+Topic 3:
+  order:2.56
+  box:2.29
+  po:1.94
+  people:1.57
+  dont:1.45
+  good:1.12
+  mail:1.07
+  open:1.00
+  ship:0.84
+  send:0.82
+
+Topic 4:
+  box:4.62
+  po:3.32
+  order:2.89
+  open:2.19
+  mail:1.90
+  good:1.50
+  don:1.33
+  boxes:1.31
+  pay:1.28
+  bob:1.21
+
+K: 5, Log-Likelihood: -1842.918, Alpha: 11.000, Beta: 1.100

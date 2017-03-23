@@ -1,0 +1,61 @@
+Topic 0:
+  quote penderecki november:5.24
+  libreboot seabios good:4.54
+  locking machine lenovo code:4.54
+  burning fuses cpu:4.54
+  version electrum:4.38
+  decide:3.58
+  firmware:3.58
+  public:3.58
+  freedom:3.58
+  control:3.58
+
+Topic 1:
+  boot:5.16
+  signed:4.46
+  burned:4.46
+  key:4.46
+  coreboot:4.46
+  series:4.46
+  open:3.55
+  stallman:3.55
+  sort:3.55
+  bios thinkpads:3.55
+
+Topic 2:
+  works:3.53
+  survey:2.20
+  options:2.20
+  machine lenovo code:2.20
+  state:2.20
+  amt:2.20
+  platform:2.20
+  choice:2.20
+  purely:2.20
+  decision:2.20
+
+Topic 3:
+  select:11.23
+  file manager:8.98
+  click electrum tar gz:6.73
+  tor browser:6.73
+  double click electrum:6.73
+  click:6.73
+  electrum:6.73
+  folder:4.48
+  persistent:4.48
+  procedure:4.48
+
+Topic 4:
+  amd:5.36
+  intel:5.26
+  developer mode:5.13
+  provided:4.45
+  backdoors:4.45
+  prefer:4.45
+  tho:4.38
+  software:3.80
+  infoso:3.50
+  mind:3.50
+
+K: 5, Log-Likelihood: -4247.445, Alpha: 11.000, Beta: 1.100

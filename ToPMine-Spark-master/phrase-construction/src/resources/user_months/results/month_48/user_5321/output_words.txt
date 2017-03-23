@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:0.78
+  tullista:0.76
+  suomen:0.76
+  pi:0.75
+  changa:0.48
+  edibles:0.48
+  active:0.39
+  sites:0.39
+  quote:0.36
+  tumult:0.36
+
+Topic 1:
+  key:0.64
+  vendor:0.47
+  pgp:0.45
+  block:0.45
+  public:0.45
+  tullista:0.35
+  suomen:0.35
+  pi:0.35
+  sites:0.33
+  active:0.33
+
+Topic 2:
+  key:1.47
+  block:0.88
+  public:0.88
+  pgp:0.87
+  zbvpydzg:0.37
+  kkpbbd:0.37
+  lj:0.37
+  mqenbfacy:0.37
+  yg:0.37
+  gibdwylcqghawigfqgccqolbbycawechgecf:0.37
+
+Topic 3:
+  changa:2.19
+  dmt:1.65
+  sell:1.64
+  edibles:1.14
+  vendor:0.92
+  thread:0.72
+  sr:0.72
+  started:0.72
+  thof:0.72
+  reviews:0.72
+
+Topic 4:
+  key:0.66
+  vendor:0.48
+  pgp:0.48
+  public:0.47
+  block:0.47
+  sites:0.33
+  active:0.33
+  pi:0.32
+  tullista:0.32
+  suomen:0.32
+
+K: 5, Log-Likelihood: -835.275, Alpha: 11.000, Beta: 1.100

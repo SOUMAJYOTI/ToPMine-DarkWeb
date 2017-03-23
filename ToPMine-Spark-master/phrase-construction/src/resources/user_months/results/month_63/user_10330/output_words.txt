@@ -1,0 +1,61 @@
+Topic 0:
+  quartus:7.70
+  people:6.13
+  october:5.79
+  quote:5.35
+  crypto:3.92
+  pallidpallas:3.88
+  pretty:3.84
+  caused:3.83
+  divorce:3.49
+  lol:3.26
+
+Topic 1:
+  protonmail:8.88
+  december:7.58
+  israel:6.83
+  cirrus:5.90
+  network:4.98
+  period:4.83
+  firm:4.67
+  quote:4.56
+  start:4.04
+  emmet:3.90
+
+Topic 2:
+  ecc:14.76
+  asa:9.99
+  computing:8.29
+  green:8.14
+  ecliptics:7.99
+  nsa:7.99
+  curve:7.99
+  quantum:7.64
+  advances:6.86
+  koblitz:5.99
+
+Topic 3:
+  alford:54.99
+  ulbricht:21.99
+  road:16.99
+  silk:16.99
+  case:13.96
+  agents:12.99
+  agent:10.99
+  roberts:9.99
+  dread:9.99
+  pirate:9.99
+
+Topic 4:
+  microsoft:44.99
+  key:40.94
+  encryption:34.82
+  recovery:32.99
+  windows:29.62
+  disk:24.99
+  bitlocker:18.99
+  account:16.99
+  computer:14.91
+  device:13.99
+
+K: 5, Log-Likelihood: -16265.116, Alpha: 11.000, Beta: 1.100

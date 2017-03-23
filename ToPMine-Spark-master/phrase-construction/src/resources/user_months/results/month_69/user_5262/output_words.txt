@@ -1,0 +1,61 @@
+Topic 0:
+  gpg:4.80
+  set:3.31
+  pgp:2.99
+  message:2.98
+  vendors:2.76
+  site:2.45
+  email:2.44
+  figure:2.34
+  good:2.10
+  encryption:1.53
+
+Topic 1:
+  usb:2.45
+  january:2.24
+  quote:2.09
+  windows:1.77
+  tails:1.73
+  road:1.35
+  portable:1.34
+  version:1.32
+  solution:1.29
+  making:1.29
+
+Topic 2:
+  message:6.01
+  set:5.47
+  gpg:4.20
+  email:3.60
+  figure:3.39
+  site:3.38
+  pgp:3.36
+  vendors:2.97
+  secured:1.65
+  decode:1.60
+
+Topic 3:
+  gpg:4.63
+  set:3.02
+  message:2.81
+  email:2.72
+  pgp:2.40
+  vendors:2.09
+  figure:2.08
+  site:1.99
+  encryption:1.70
+  good:1.57
+
+Topic 4:
+  usb:3.50
+  tails:3.09
+  quote:2.89
+  bonobo:2.83
+  january:2.74
+  silk:2.62
+  solution:2.58
+  road:2.52
+  anycase:1.68
+  order:1.66
+
+K: 5, Log-Likelihood: -1450.324, Alpha: 11.000, Beta: 1.100

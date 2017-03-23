@@ -1,0 +1,61 @@
+Topic 0:
+  tails:0.68
+  distribution:0.68
+  truecrypt:0.53
+  linux:0.49
+  weird:0.48
+  alternatives:0.35
+  bugs:0.32
+  windows:0.32
+  didnt:0.32
+  audit:0.32
+
+Topic 1:
+  truecrypt:0.63
+  weird:0.62
+  alternatives:0.41
+  true:0.41
+  bugs:0.41
+  secure:0.41
+  didnt:0.41
+  audit:0.40
+  find:0.40
+  story:0.40
+
+Topic 2:
+  weird:0.63
+  truecrypt:0.60
+  find:0.44
+  critical:0.44
+  audit:0.44
+  true:0.43
+  story:0.43
+  windows:0.43
+  crypt:0.43
+  didnt:0.43
+
+Topic 3:
+  weird:0.64
+  truecrypt:0.59
+  crypt:0.43
+  secure:0.43
+  story:0.43
+  didnt:0.43
+  audit:0.43
+  critical:0.43
+  windows:0.43
+  true:0.43
+
+Topic 4:
+  truecrypt:0.65
+  weird:0.63
+  alternatives:0.41
+  crypt:0.41
+  secure:0.41
+  windows:0.41
+  bugs:0.41
+  critical:0.41
+  find:0.41
+  didnt:0.41
+
+K: 5, Log-Likelihood: -362.648, Alpha: 11.000, Beta: 1.100

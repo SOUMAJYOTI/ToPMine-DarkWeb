@@ -1,0 +1,61 @@
+Topic 0:
+  shop:0.47
+  forum:0.40
+  agra:0.39
+  vendors:0.39
+  great:0.38
+  time:0.30
+  agora:0.28
+  running:0.28
+  lot:0.23
+  decided:0.23
+
+Topic 1:
+  shop:0.47
+  forum:0.40
+  vendors:0.40
+  agra:0.39
+  great:0.39
+  time:0.30
+  agora:0.28
+  running:0.28
+  complain:0.23
+  kuklinski:0.23
+
+Topic 2:
+  great:0.65
+  agra:0.64
+  vendors:0.63
+  forum:0.47
+  running:0.29
+  usual:0.28
+  word:0.28
+  rolling:0.28
+  worst:0.28
+  severe:0.28
+
+Topic 3:
+  shop:0.59
+  forum:0.38
+  agra:0.35
+  vendors:0.35
+  great:0.35
+  time:0.32
+  agora:0.29
+  running:0.27
+  setting:0.27
+  interested:0.27
+
+Topic 4:
+  vendors:0.43
+  great:0.43
+  agra:0.42
+  forum:0.42
+  shop:0.41
+  running:0.28
+  agora:0.28
+  time:0.27
+  earlier:0.22
+  spammers:0.22
+
+K: 5, Log-Likelihood: -363.120, Alpha: 11.000, Beta: 1.100

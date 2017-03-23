@@ -1,0 +1,61 @@
+Topic 0:
+  coding:3.03
+  hold:1.49
+  payment:1.49
+  setting:1.49
+  css:1.49
+  forum:1.49
+  start:1.49
+  graphics:1.49
+  experience:1.49
+  accepted:1.49
+
+Topic 1:
+  du er:5.32
+  apache:2.84
+  gr:2.84
+  adgangskode:2.84
+  trist:2.84
+  verdes:2.84
+  administration:2.84
+  markedspladser:2.84
+  kasse:2.84
+  nok tte:2.84
+
+Topic 2:
+  key block:3.71
+  risk:3.71
+  pip:3.71
+  bitcointalk:3.71
+  public:3.71
+  check:3.71
+  anoncoin:2.96
+  coding:2.74
+  tqbljnzksvihg:1.84
+  kud:1.84
+
+Topic 3:
+  din web applikationer er:3.42
+  egne begr nsninger du:3.42
+  skal opm rksom vi:3.42
+  evil ende angel det:3.42
+  kender din server placering:3.42
+  er vigtigt dine:3.42
+  ikke forgive mere om:3.42
+  dine brugere:3.42
+  din server hedder getthefockout:3.42
+  din server:3.42
+
+Topic 4:
+  din:5.79
+  quote abyss march:4.15
+  virkelig:2.86
+  igen:2.86
+  pmi:2.86
+  volumen:2.86
+  pr:2.86
+  yde:2.86
+  pmill:2.86
+  senere:2.86
+
+K: 5, Log-Likelihood: -5071.799, Alpha: 11.000, Beta: 1.100

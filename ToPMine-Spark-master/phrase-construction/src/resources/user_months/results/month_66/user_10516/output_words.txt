@@ -1,0 +1,61 @@
+Topic 0:
+  hardware:18.77
+  software:15.22
+  key:14.98
+  encryption:13.89
+  linux:12.28
+  os:11.37
+  left:9.39
+  intel:7.04
+  windows:6.34
+  open:6.08
+
+Topic 1:
+  qubes:11.73
+  dont:9.91
+  gb:6.93
+  offer:6.32
+  thing:6.05
+  nasty:5.94
+  core:5.93
+  work:5.64
+  os:5.49
+  pretty:4.91
+
+Topic 2:
+  ssh:42.99
+  host:28.81
+  keys:20.24
+  start:12.06
+  regenerate:11.99
+  freedom:11.93
+  keygen:9.99
+  key:9.92
+  log:7.99
+  init:6.99
+
+Topic 3:
+  firewall:7.85
+  linux:7.68
+  systems:7.39
+  assange:6.92
+  vm:6.84
+  ram:6.16
+  encryption:6.00
+  tor:5.80
+  system:5.11
+  address:4.98
+
+Topic 4:
+  security:22.07
+  quote:12.93
+  systems:9.45
+  secure:8.47
+  december:7.30
+  intel:6.67
+  holes:5.89
+  write:5.75
+  boot:5.49
+  good:5.10
+
+K: 5, Log-Likelihood: -17039.911, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  drugs:0.57
+  cops:0.45
+  sell:0.40
+  apt:0.40
+  matter:0.40
+  house:0.40
+  cop:0.40
+  warrant:0.40
+  lot:0.40
+  illegal:0.40
+
+Topic 1:
+  people:1.53
+  post:0.63
+  jabber:0.63
+  emmet:0.63
+  posting:0.63
+  discussion:0.63
+  august:0.63
+  hub:0.63
+  logged:0.63
+  visit:0.63
+
+Topic 2:
+  drugs:1.31
+  arrest:0.81
+  court:0.81
+  deal:0.81
+  allowed:0.81
+  evidence:0.81
+  burglar:0.81
+  things:0.81
+  illegal:0.81
+  lot:0.81
+
+Topic 3:
+  people:0.47
+  forum:0.29
+  reddit:0.29
+  pmquote:0.29
+  logged:0.29
+  august:0.29
+  discussion:0.28
+  visit:0.28
+  dont:0.28
+  hosted:0.28
+
+Topic 4:
+  people:0.63
+  dont:0.35
+  hosted:0.35
+  pmquote:0.35
+  hub:0.35
+  visit:0.35
+  posting:0.35
+  discussion:0.35
+  august:0.35
+  reddit:0.35
+
+K: 5, Log-Likelihood: -734.485, Alpha: 11.000, Beta: 1.100

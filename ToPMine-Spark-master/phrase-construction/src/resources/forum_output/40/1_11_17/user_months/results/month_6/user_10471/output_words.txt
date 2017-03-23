@@ -1,0 +1,61 @@
+Topic 0:
+  cocaine:0.20
+  auscokes:0.20
+  gear:0.20
+  cheerssc:0.20
+  samples:0.20
+  bsm:0.20
+  cheap:0.20
+  guyshas:0.20
+  theyve:0.20
+  grams:0.20
+
+Topic 1:
+  wondering:0.20
+  cheap:0.20
+  gear:0.20
+  guyshas:0.20
+  cheerssc:0.20
+  legit:0.20
+  samples:0.20
+  theyve:0.20
+  auntie:0.20
+  grams:0.20
+
+Topic 2:
+  legit:0.20
+  cocaine:0.20
+  theyve:0.20
+  cheap:0.20
+  guyshas:0.20
+  wondering:0.20
+  auscokes:0.20
+  grams:0.20
+  bsm:0.20
+  gear:0.20
+
+Topic 3:
+  grams:0.20
+  auscokes:0.20
+  bsm:0.20
+  cheerssc:0.20
+  legit:0.20
+  cocaine:0.20
+  theyve:0.20
+  guyshas:0.20
+  samples:0.20
+  gear:0.20
+
+Topic 4:
+  auntie:0.20
+  samples:0.20
+  bsm:0.20
+  theyve:0.20
+  cheap:0.20
+  gear:0.20
+  wondering:0.20
+  cheerssc:0.20
+  guyshas:0.20
+  legit:0.20
+
+K: 5, Log-Likelihood: -33.344, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  botnets:2.74
+  site:2.41
+  mon:1.76
+  leave:1.63
+  tor:1.52
+  adlyd:1.45
+  september:1.35
+  quote:1.20
+  long:1.18
+  break:0.99
+
+Topic 1:
+  site:6.81
+  time:5.31
+  easy:3.75
+  cloudflare:3.54
+  tor:3.25
+  attack:2.84
+  servers:2.79
+  money:2.44
+  protection:1.92
+  talk:1.92
+
+Topic 2:
+  site:5.12
+  perform:3.74
+  btc:3.38
+  attack:3.36
+  tor:3.07
+  botnets:2.49
+  burn:2.08
+  backbone:1.77
+  compatible:1.76
+  counter:1.76
+
+Topic 3:
+  post:4.63
+  offline:2.67
+  quote:2.20
+  september:2.12
+  staff:1.49
+  understand:1.49
+  eve:1.49
+  types:1.49
+  claims:1.49
+  environment:1.49
+
+Topic 4:
+  onionshop:3.22
+  prevent:2.77
+  botnets:2.46
+  attacking:2.30
+  node:1.89
+  break:1.87
+  tor:1.78
+  quote:1.52
+  september:1.51
+  adlyd:1.48
+
+K: 5, Log-Likelihood: -2726.023, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  kin:0.29
+  kaikki:0.29
+  sun:0.28
+  voi:0.27
+  suomessa:0.14
+  mutta:0.14
+  oma:0.14
+  tallentumatta:0.14
+  vain:0.14
+  kortteja:0.14
+
+Topic 1:
+  voi:0.29
+  sun:0.28
+  kaikki:0.27
+  kin:0.26
+  tarkistaa:0.14
+  selville:0.14
+  myyj:0.14
+  automaatissa:0.14
+  nalkkiin:0.14
+  postia:0.14
+
+Topic 2:
+  voi:0.29
+  sun:0.28
+  kin:0.27
+  kaikki:0.27
+  joten:0.14
+  sellaisissa:0.14
+  nalkkiin:0.14
+  nyt:0.14
+  vastatkaa:0.14
+  july:0.14
+
+Topic 3:
+  kaikki:0.28
+  kin:0.28
+  sun:0.28
+  voi:0.27
+  vain:0.14
+  kotimaisia:0.14
+  paikat:0.14
+  olla:0.14
+  kannakin:0.14
+  valittu:0.14
+
+Topic 4:
+  kin:0.29
+  kaikki:0.29
+  sun:0.28
+  voi:0.27
+  jo:0.14
+  mihink:0.14
+  hommaan:0.14
+  tutkittua:0.14
+  tullut:0.14
+  tallentumatta:0.14
+
+K: 5, Log-Likelihood: -300.883, Alpha: 11.000, Beta: 1.100

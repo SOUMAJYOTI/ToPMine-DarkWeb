@@ -1,0 +1,61 @@
+Topic 0:
+  pillerit:0.20
+  aikoinaan:0.20
+  toimi:0.20
+  hyvin:0.20
+  ja:0.20
+  aina:0.20
+  kaupat:0.20
+  tilasin:0.20
+  lt:0.20
+  luottomyyj:0.20
+
+Topic 1:
+  kaupat:0.20
+  toimi:0.20
+  aikoinaan:0.20
+  aina:0.20
+  tilasin:0.20
+  hyvin:0.20
+  lt:0.20
+  ja:0.20
+  pillerit:0.20
+  luottomyyj:0.20
+
+Topic 2:
+  turhaan:0.20
+  kuumottelet:0.20
+  luottomyyj:0.20
+  tilasin:0.20
+  pillerit:0.20
+  lt:0.20
+  aina:0.20
+  ja:0.20
+  aikoinaan:0.20
+  hyvin:0.20
+
+Topic 3:
+  hyvin:0.20
+  lt:0.20
+  tilasin:0.20
+  pillerit:0.20
+  ja:0.20
+  toimi:0.20
+  aina:0.20
+  aikoinaan:0.20
+  kaupat:0.20
+  luottomyyj:0.20
+
+Topic 4:
+  kaupat:0.20
+  aina:0.20
+  aikoinaan:0.20
+  ja:0.20
+  lt:0.20
+  pillerit:0.20
+  tilasin:0.20
+  hyvin:0.20
+  toimi:0.20
+  turhaan:0.20
+
+K: 5, Log-Likelihood: -29.819, Alpha: 11.000, Beta: 1.100

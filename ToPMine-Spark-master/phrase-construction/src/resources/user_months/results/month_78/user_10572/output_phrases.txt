@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:5.83
+  sigaint:5.41
+  civil war:4.83
+  quote tang march:4.34
+  saint:3.85
+  surname:3.70
+  implying:3.69
+  kewl:3.69
+  block size:3.55
+  drive:3.53
+
+Topic 1:
+  quote real sigaint march:5.85
+  pmquote:5.57
+  march:4.98
+  hate police:4.59
+  cia wanted ya:4.58
+  long buy drugs btc:4.08
+  won:3.93
+  buy sell regulation pseudo:3.86
+  band:3.79
+  offers:3.79
+
+Topic 2:
+  btc:11.38
+  fear:9.69
+  black mail panic guys:7.74
+  corp:7.74
+  code:4.67
+  business:4.67
+  begining:3.85
+  crypto:3.85
+  latest:3.85
+  opposite:3.85
+
+Topic 3:
+  impossible:4.69
+  team:4.69
+  txs:4.69
+  satoshi:4.69
+  anonymous:3.85
+  core:3.76
+  classic:3.50
+  long:3.10
+  fee:2.78
+  delays:2.33
+
+Topic 4:
+  core:7.88
+  bitcoin:6.92
+  transactions:4.68
+  job:4.68
+  amount transactions:4.68
+  healthy:4.68
+  teams:4.68
+  poor:4.68
+  week:4.68
+  competing:4.68
+
+K: 5, Log-Likelihood: -7332.770, Alpha: 11.000, Beta: 1.100

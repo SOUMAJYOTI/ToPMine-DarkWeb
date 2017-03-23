@@ -1,0 +1,41 @@
+Topic 0:
+  file:0.40
+  message:0.20
+  directory:0.20
+  desktop:0.20
+  import:0.20
+  hey:0.20
+
+Topic 1:
+  file:0.40
+  import:0.20
+  desktop:0.20
+  hey:0.20
+  directory:0.20
+  message:0.20
+
+Topic 2:
+  file:0.40
+  directory:0.20
+  hey:0.20
+  desktop:0.20
+  import:0.20
+  message:0.20
+
+Topic 3:
+  file:0.40
+  message:0.20
+  hey:0.20
+  directory:0.20
+  desktop:0.20
+  import:0.20
+
+Topic 4:
+  file:0.40
+  import:0.20
+  desktop:0.20
+  hey:0.20
+  message:0.20
+  directory:0.20
+
+K: 5, Log-Likelihood: -12.258, Alpha: 11.000, Beta: 1.100

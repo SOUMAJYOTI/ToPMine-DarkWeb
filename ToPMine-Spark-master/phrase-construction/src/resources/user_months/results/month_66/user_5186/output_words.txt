@@ -1,0 +1,61 @@
+Topic 0:
+  avengers:0.58
+  love:0.56
+  market:0.42
+  dream:0.41
+  link:0.41
+  listed:0.40
+  products:0.40
+  pretty:0.40
+  stable:0.40
+  registration:0.40
+
+Topic 1:
+  avengers:0.68
+  love:0.65
+  stable:0.39
+  products:0.39
+  link:0.39
+  registration:0.39
+  pretty:0.39
+  listed:0.39
+  dream:0.37
+  market:0.37
+
+Topic 2:
+  love:0.58
+  avengers:0.57
+  market:0.41
+  dream:0.41
+  registration:0.41
+  link:0.41
+  listed:0.40
+  products:0.40
+  stable:0.40
+  pretty:0.40
+
+Topic 3:
+  love:0.61
+  avengers:0.60
+  pretty:0.40
+  registration:0.40
+  products:0.40
+  market:0.40
+  dream:0.40
+  listed:0.40
+  link:0.40
+  stable:0.40
+
+Topic 4:
+  love:0.60
+  avengers:0.57
+  dream:0.41
+  stable:0.40
+  listed:0.40
+  pretty:0.40
+  registration:0.40
+  market:0.40
+  products:0.40
+  link:0.40
+
+K: 5, Log-Likelihood: -59.035, Alpha: 11.000, Beta: 1.100

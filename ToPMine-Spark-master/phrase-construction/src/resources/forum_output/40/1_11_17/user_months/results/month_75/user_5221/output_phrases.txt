@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.44
+  oasis:0.39
+  history:0.37
+  marketplace:0.32
+  trust:0.32
+  markets:0.21
+  exit:0.21
+  dont:0.21
+  money:0.20
+  eve:0.19
+
+Topic 1:
+  market:0.41
+  history:0.41
+  oasis:0.36
+  marketplace:0.33
+  trust:0.32
+  dont:0.21
+  markets:0.21
+  exit:0.21
+  money:0.21
+  thing:0.20
+
+Topic 2:
+  trust:0.53
+  marketplace:0.53
+  market:0.32
+  history:0.31
+  oasis:0.28
+  comms:0.23
+  eventually:0.23
+  moving:0.23
+  pick:0.23
+  market trust:0.23
+
+Topic 3:
+  market:0.46
+  oasis:0.42
+  history:0.39
+  trust:0.30
+  marketplace:0.30
+  dont:0.22
+  markets:0.22
+  exit:0.22
+  alphabay:0.20
+  suspect:0.20
+
+Topic 4:
+  market:0.42
+  oasis:0.38
+  history:0.35
+  trust:0.35
+  marketplace:0.35
+  exit:0.20
+  dont:0.20
+  markets:0.20
+  money:0.20
+  reply:0.19
+
+K: 5, Log-Likelihood: -367.358, Alpha: 11.000, Beta: 1.100

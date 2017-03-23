@@ -1,0 +1,61 @@
+Topic 0:
+  anonymity:1.77
+  people:1.77
+  american:1.77
+  lunatic:1.77
+  violence:1.77
+  justice:1.77
+  threaten:1.77
+  acts:1.77
+  geometry:1.77
+  dis:1.77
+
+Topic 1:
+  logo:2.21
+  agoras:1.78
+  weirdos:1.78
+  someplace:1.78
+  safety:1.78
+  bearded:1.78
+  gun:1.78
+  media:1.78
+  wondering:1.78
+  sort:1.78
+
+Topic 2:
+  lotus:3.62
+  hire:1.75
+  bloom:1.75
+  sight:1.75
+  screne:1.75
+  login:1.75
+  fuck:1.75
+  em:1.75
+  catch:1.75
+  full:1.75
+
+Topic 3:
+  market:7.37
+  agora:1.93
+  call:1.76
+  maket:1.76
+  mormon:1.76
+  buddah:1.76
+  lead:1.76
+  stc:1.76
+  eveyone:1.76
+  jesus:1.76
+
+Topic 4:
+  butt ugly:2.89
+  bads:2.59
+  fucked:2.59
+  forum forum:2.58
+  trouble:2.58
+  ripped:2.58
+  reason:2.58
+  breaking:2.58
+  fixed:1.68
+  spammersas:1.68
+
+K: 5, Log-Likelihood: -1225.080, Alpha: 11.000, Beta: 1.100

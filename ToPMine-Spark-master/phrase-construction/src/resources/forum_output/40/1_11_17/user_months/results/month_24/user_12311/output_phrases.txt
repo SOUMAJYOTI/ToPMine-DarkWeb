@@ -1,0 +1,61 @@
+Topic 0:
+  viikonlopun:0.28
+  laskenu:0.14
+  keskiviikkona:0.14
+  emm:0.14
+  tasaseen:0.14
+  vaan:0.14
+  jostain:0.14
+  kuulunu:0.14
+  seilorista:0.14
+  tulla:0.14
+
+Topic 1:
+  viikonlopun:0.28
+  tossa:0.14
+  tilaukseenmiss:0.14
+  st:0.14
+  ytt:0.14
+  ylim:0.14
+  ettei:0.14
+  tilata:0.14
+  muka:0.14
+  helkkarissa:0.14
+
+Topic 2:
+  viikonlopun:0.28
+  tilata:0.14
+  silkkitie:0.14
+  ylim:0.14
+  coinei:0.14
+  koitan:0.14
+  ettei:0.14
+  tilasin:0.14
+  niin:0.14
+  vaikka:0.14
+
+Topic 3:
+  viikonlopun:0.28
+  vika:0.14
+  silkkitie:0.14
+  ettei:0.14
+  vaikka:0.14
+  tilata:0.14
+  coinei:0.14
+  lompakossa:0.14
+  oikeaa:0.14
+  helkkarissa:0.14
+
+Topic 4:
+  viikonlopun:0.28
+  doubit:0.14
+  kuulema:0.14
+  seilorista:0.14
+  toisenkin:0.14
+  ajalla:0.14
+  tilille:0.14
+  kuulunu:0.14
+  pystyy:0.14
+  ll:0.14
+
+K: 5, Log-Likelihood: -172.196, Alpha: 11.000, Beta: 1.100

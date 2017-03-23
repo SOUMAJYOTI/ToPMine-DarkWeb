@@ -1,0 +1,61 @@
+Topic 0:
+  tor:0.53
+  update:0.47
+  pops:0.43
+  time:0.41
+  notice warning icon updating:0.39
+  trolltergeist delete folders installing:0.39
+  amquote trolltergeist:0.39
+  quote boogie june:0.38
+  update learned hard writing:0.37
+  plate tor:0.37
+
+Topic 1:
+  time:1.26
+  update learned hard writing:0.62
+  update:0.56
+  quote boogie june:0.49
+  trolltergeist delete folders installing:0.49
+  amquote trolltergeist:0.49
+  issues:0.49
+  worked:0.49
+  create:0.49
+  notice warning icon updating:0.49
+
+Topic 2:
+  tor:0.63
+  guys:0.50
+  talking:0.50
+  helps:0.50
+  pedantic:0.50
+  ensure:0.50
+  bundle:0.50
+  torrc:0.50
+  hidden:0.50
+  service:0.50
+
+Topic 3:
+  update:0.50
+  tor:0.48
+  time:0.46
+  pops:0.44
+  trolltergeist delete folders installing:0.42
+  notice warning icon updating:0.42
+  amquote trolltergeist:0.42
+  quote boogie june:0.42
+  update learned hard writing:0.40
+  dont:0.40
+
+Topic 4:
+  dont:1.52
+  overwriting:0.61
+  strictly:0.61
+  version:0.61
+  delete folders:0.61
+  learned hard writing update:0.61
+  older:0.61
+  baked:0.61
+  software:0.61
+  overwritten:0.61
+
+K: 5, Log-Likelihood: -479.654, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.74
+  forum:0.58
+  site:0.52
+  march:0.50
+  quote:0.50
+  evolution:0.49
+  forums:0.48
+  security:0.47
+  takes:0.40
+  drug:0.40
+
+Topic 1:
+  interesting:0.93
+  button:0.93
+  wanted:0.93
+  nice:0.93
+  interface:0.93
+  read:0.92
+  favorites:0.92
+  add:0.92
+  theomen:0.63
+  amlike:0.63
+
+Topic 2:
+  scheme:5.12
+  people:2.38
+  running:2.38
+  owned:2.37
+  place:2.37
+  months:2.37
+  question:2.37
+  days:2.36
+  underground:1.04
+  heads:1.04
+
+Topic 3:
+  evo:0.84
+  close:0.72
+  fee:0.72
+  missed:0.72
+  members:0.72
+  didn:0.72
+  messed:0.72
+  stem:0.72
+  created:0.72
+  secure:0.72
+
+Topic 4:
+  market:2.87
+  fast:1.02
+  clean:1.02
+  eve:1.02
+  growing:1.02
+  pmi:1.02
+  fraud:1.02
+  find:1.02
+  emerging:1.02
+  lot:1.02
+
+K: 5, Log-Likelihood: -726.770, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tai:6.38
+  vaikka:5.30
+  mit kansainv:4.39
+  voisi olla:4.34
+  tarkoittaa:4.28
+  vault:3.74
+  sage:3.70
+  route:2.64
+  listymiseen:2.64
+  organized:2.64
+
+Topic 1:
+  se:5.30
+  aina:5.30
+  asia:4.50
+  toisaalta:4.50
+  sit:4.06
+  kun:4.06
+  ett:3.98
+  eat:3.64
+  kyll:3.55
+  ja:3.33
+
+Topic 2:
+  ja:6.41
+  kpl:5.30
+  saa:4.48
+  ty:4.48
+  kiinnostaisi:3.50
+  varten:2.63
+  menn:2.63
+  iset:2.63
+  suomalaisten:2.63
+  sairaalaan:2.63
+
+Topic 3:
+  koskien:5.31
+  douppikaupan:5.31
+  hyi:5.29
+  ll:4.47
+  kuumotukset:4.46
+  heti:4.46
+  ni:4.46
+  kaikella:4.46
+  kunnioituksella:4.46
+  poliisit:4.46
+
+Topic 4:
+  ytt ji:8.00
+  tor:7.17
+  verkon:5.33
+  sivuston:5.33
+  silkkitie:5.33
+  marketthe:5.31
+  market:5.31
+  jien:4.51
+  ytt:4.46
+  ja:3.91
+
+K: 5, Log-Likelihood: -9216.572, Alpha: 11.000, Beta: 1.100

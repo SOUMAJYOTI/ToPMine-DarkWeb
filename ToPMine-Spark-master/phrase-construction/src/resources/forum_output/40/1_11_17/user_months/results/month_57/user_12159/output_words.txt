@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:4.39
+  send:2.84
+  local:2.41
+  bitcoins:2.30
+  coins:2.27
+  bitcoin:1.85
+  email:1.13
+  coin:0.93
+  tor:0.67
+  read:0.63
+
+Topic 1:
+  wallet:5.99
+  send:2.57
+  bitcoins:2.30
+  local:2.22
+  bitcoin:1.90
+  coins:1.86
+  email:1.18
+  coin:0.94
+  tor:0.69
+  read:0.61
+
+Topic 2:
+  wallet:1.24
+  coins:1.04
+  bitcoins:0.89
+  send:0.85
+  coin:0.82
+  tor:0.82
+  local:0.81
+  read:0.65
+  mixer:0.64
+  bitcoin:0.61
+
+Topic 3:
+  btc:4.41
+  buy:1.83
+  year:1.83
+  libertyx:1.83
+  cats:1.83
+  dirty:1.83
+  lbc:1.81
+  mixer:0.91
+  pay:0.85
+  pretty:0.85
+
+Topic 4:
+  wallet:3.34
+  send:2.70
+  local:2.53
+  bitcoins:2.48
+  coins:1.66
+  bitcoin:1.61
+  email:1.18
+  coin:0.96
+  tor:0.78
+  read:0.61
+
+K: 5, Log-Likelihood: -897.558, Alpha: 11.000, Beta: 1.100

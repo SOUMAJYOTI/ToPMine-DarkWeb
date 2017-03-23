@@ -1,0 +1,61 @@
+Topic 0:
+  persistent storage:1.21
+  saved:0.96
+  february:0.87
+  save files access:0.79
+  create persistent storage:0.78
+  quote:0.71
+  tor:0.60
+  onion:0.58
+  created:0.58
+  shut:0.58
+
+Topic 1:
+  saved:3.01
+  persistent storage:2.74
+  february:1.69
+  amyou:1.28
+  restarted:1.27
+  bonobo:1.26
+  saving:1.26
+  shut:1.26
+  addresses:1.26
+  created:1.25
+
+Topic 2:
+  clock:2.82
+  countdown:2.82
+  marked:2.82
+  private:2.82
+  order:2.82
+  accepted:2.82
+  dhl:2.82
+  limited:1.33
+  invites:1.33
+  guess:1.33
+
+Topic 3:
+  tor:1.59
+  tails lightnlove:1.00
+  disappear:0.92
+  permanently:0.92
+  content:0.91
+  restart:0.91
+  subfolders:0.91
+  saved files:0.91
+  left:0.91
+  persistent folder:0.91
+
+Topic 4:
+  thread:2.43
+  feels:1.21
+  figured:1.20
+  good:1.20
+  discussion:1.19
+  excited:1.06
+  turning:1.06
+  garden:1.06
+  tails edit:1.06
+  learned:1.06
+
+K: 5, Log-Likelihood: -679.198, Alpha: 11.000, Beta: 1.100

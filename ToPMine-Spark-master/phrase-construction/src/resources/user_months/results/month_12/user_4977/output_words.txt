@@ -1,0 +1,61 @@
+Topic 0:
+  tails:6.70
+  drive:3.60
+  persistent:2.77
+  volume:2.68
+  select:2.47
+  click:2.31
+  boot:2.23
+  bios:2.11
+  computer:1.68
+  menu:1.66
+
+Topic 1:
+  tails:12.94
+  boot:4.33
+  click:4.04
+  system:3.81
+  persistent:3.28
+  drive:2.98
+  select:2.94
+  pre:2.23
+  volume:2.21
+  menu:2.16
+
+Topic 2:
+  iceweasel:3.53
+  shortcut:2.19
+  browser:2.02
+  quote:1.87
+  automatically:1.83
+  knew:1.79
+  ill:1.79
+  guide:1.79
+  heard:1.79
+  vidalia:0.98
+
+Topic 3:
+  tails:9.18
+  drive:5.09
+  click:2.66
+  persistent:2.64
+  system:2.42
+  volume:2.39
+  boot:2.20
+  pre:1.56
+  pass:1.55
+  bios:1.39
+
+Topic 4:
+  tails:7.39
+  drive:3.25
+  click:1.92
+  volume:1.65
+  menu:1.33
+  pre:1.24
+  persistent:1.24
+  select:1.24
+  system:1.21
+  boot:1.18
+
+K: 5, Log-Likelihood: -3423.810, Alpha: 11.000, Beta: 1.100

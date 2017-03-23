@@ -1,0 +1,61 @@
+Topic 0:
+  ur:7.03
+  remove camera mid:5.60
+  gap:4.68
+  air:4.68
+  tha:4.68
+  extra:3.59
+  internal:3.59
+  atop:2.69
+  safe:2.65
+  quote flashy:2.34
+
+Topic 1:
+  pretty safe:4.89
+  le:4.67
+  phone:4.67
+  proxy thoughts atm buy:4.58
+  safe:4.33
+  pmi wondering good method:4.15
+  places:3.83
+  sell:3.78
+  money money:3.78
+  invest:3.78
+
+Topic 2:
+  lot:6.13
+  reputation:5.80
+  rainbow tables dedicated:5.59
+  gpusi gb lists thankfully:4.89
+  collage serve farm man:4.89
+  january amthat sounds hetty:4.89
+  work time power access:4.89
+  hub:4.67
+  quote seedofchaos january:4.08
+  people:4.00
+
+Topic 3:
+  mac spoofing:5.76
+  general:4.68
+  badly:4.68
+  working:4.68
+  doesnt:4.68
+  vpn:4.68
+  work sysadmin talking:4.56
+  public wifis time connect:3.79
+  downsides:3.78
+  amanyone:3.78
+
+Topic 4:
+  hardware:4.89
+  wifi:4.72
+  crack wpa:4.64
+  december:4.15
+  wpa secure:3.84
+  odds:3.84
+  linked:3.84
+  dont wrong:3.84
+  depending:3.84
+  thing:3.84
+
+K: 5, Log-Likelihood: -6766.878, Alpha: 11.000, Beta: 1.100

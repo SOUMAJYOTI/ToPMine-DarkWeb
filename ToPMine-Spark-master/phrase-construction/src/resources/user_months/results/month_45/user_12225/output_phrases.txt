@@ -1,0 +1,61 @@
+Topic 0:
+  onko:5.37
+  pohjalta:3.82
+  jouluna:3.82
+  si:3.82
+  palate:3.82
+  kuljetuksia:3.82
+  totuus:3.82
+  katoaa:3.82
+  kaupan:3.82
+  tehd:3.82
+
+Topic 1:
+  ei:5.67
+  sama:4.63
+  kun:3.83
+  kameroita:3.66
+  kamera ongelma:3.66
+  onha:3.66
+  ei kii:3.65
+  joka:3.65
+  kaupungillaki:3.65
+  paikas:3.65
+
+Topic 2:
+  ratkaisu:5.76
+  enimm:4.65
+  iskoko:4.65
+  hetykset:4.59
+  ovat:4.59
+  vast:3.82
+  pikana:3.82
+  ytyy:3.82
+  seurantakoodikirjattukirje:3.82
+  ottoman:3.82
+
+Topic 3:
+  mit:5.56
+  ja:4.27
+  kanssa:3.80
+  sis:3.33
+  joku:3.33
+  ratsioita:2.57
+  menness:2.31
+  sadoista:2.31
+  tracking:2.31
+  ll:2.31
+
+Topic 4:
+  hetyst:4.65
+  posti:4.65
+  kaksi:3.84
+  noin:3.62
+  nyt:3.52
+  viikolla:3.44
+  paketti:3.44
+  iv:3.39
+  postin:2.66
+  ss:2.38
+
+K: 5, Log-Likelihood: -4488.856, Alpha: 11.000, Beta: 1.100

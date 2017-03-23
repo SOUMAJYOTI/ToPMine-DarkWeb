@@ -1,0 +1,61 @@
+Topic 0:
+  shadow:1.45
+  casino:0.93
+  system:0.57
+  stealth addresses:0.48
+  network:0.37
+  process:0.37
+  bills:0.37
+  amount:0.37
+  shadow sdc:0.37
+  shadow network:0.37
+
+Topic 1:
+  shadow:0.81
+  casino:0.66
+  system:0.44
+  stealth addresses:0.37
+  shadow network:0.30
+  network:0.30
+  financial privacy:0.30
+  amount:0.30
+  bills:0.30
+  process:0.30
+
+Topic 2:
+  shadow:0.92
+  casino:0.67
+  system:0.47
+  stealth addresses:0.39
+  financial privacy:0.32
+  amount:0.32
+  shadow sdc:0.32
+  shadow network:0.32
+  bills:0.32
+  network:0.32
+
+Topic 3:
+  shadow:0.86
+  casino:0.70
+  system:0.48
+  stealth addresses:0.40
+  shadow sdc:0.32
+  process:0.32
+  bills:0.32
+  financial privacy:0.32
+  shadow network:0.32
+  network:0.32
+
+Topic 4:
+  shadow:0.82
+  casino:0.69
+  system:0.47
+  stealth addresses:0.39
+  shadow sdc:0.31
+  process:0.31
+  shadow network:0.31
+  amount:0.31
+  financial privacy:0.31
+  bills:0.31
+
+K: 5, Log-Likelihood: -1585.421, Alpha: 11.000, Beta: 1.100

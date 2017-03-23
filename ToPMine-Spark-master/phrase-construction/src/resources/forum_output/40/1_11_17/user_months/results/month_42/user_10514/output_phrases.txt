@@ -1,0 +1,61 @@
+Topic 0:
+  shadow:16.63
+  administrators:7.22
+  shadow network:5.40
+  sebsebastian told:5.40
+  items:5.39
+  decentralised:5.36
+  project:5.35
+  theoretically:3.55
+  law:3.55
+  function:3.55
+
+Topic 1:
+  tor:6.32
+  bsd:5.02
+  layer:3.71
+  browser:3.71
+  including:3.71
+  vulnerabilities:3.71
+  system:3.71
+  bsd software:3.71
+  forward:3.71
+  linux:3.71
+
+Topic 2:
+  open mind:4.28
+  blah:3.66
+  wary:2.81
+  touting:2.81
+  branding:2.81
+  sick:2.81
+  altcoin:2.81
+  app:2.81
+  forward market:2.81
+  presentation:2.81
+
+Topic 3:
+  decentralized:2.25
+  market:2.21
+  people:1.29
+  mutually:1.20
+  multisig:1.20
+  ideas:1.20
+  exclusive:1.19
+  gamesome:0.88
+  currency:0.87
+  bitcoins:0.85
+
+Topic 4:
+  sigaint:4.32
+  mufti:3.59
+  escrow:3.59
+  years ago fell deaf:2.84
+  pmfunny:2.84
+  distro:2.84
+  diverse:2.84
+  dust powerpcs spare ladies:2.84
+  feel:2.84
+  ears mixing architectures:2.84
+
+K: 5, Log-Likelihood: -5600.289, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bob:4.35
+  good:2.85
+  bitchin:2.85
+  reading:1.75
+  brings:1.74
+  afford:1.74
+  priceses:1.74
+  trolltergeist offer:1.74
+  psd:1.74
+  flashbacks:1.74
+
+Topic 1:
+  matethe:0.59
+  thing:0.59
+  patience:0.59
+  occassions:0.58
+  ill:0.56
+  ppl:0.48
+  alarm bells:0.47
+  ringing:0.47
+  offer secure:0.47
+  password:0.39
+
+Topic 2:
+  password:3.20
+  remained:1.11
+  surname:1.11
+  times:1.11
+  today:1.11
+  reset:1.11
+  logged:1.11
+  multiply:1.11
+  incorrect:1.11
+  youve:1.04
+
+Topic 3:
+  pin protection:4.39
+  btc:4.39
+  password protection:2.89
+  info:2.89
+  months:2.89
+  deal:2.89
+  additional:2.89
+  month:2.89
+  check:2.89
+  send:2.89
+
+Topic 4:
+  trust:3.89
+  alfred:3.88
+  easily reached:2.87
+  wrong:1.76
+  work:1.75
+  quickness:1.75
+  wrong ill:1.75
+  lots:1.75
+  password pins:1.75
+  keys:1.75
+
+K: 5, Log-Likelihood: -1389.780, Alpha: 11.000, Beta: 1.100

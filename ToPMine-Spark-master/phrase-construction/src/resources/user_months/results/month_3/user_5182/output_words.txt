@@ -1,0 +1,61 @@
+Topic 0:
+  fez:3.15
+  key:2.88
+  lrf:2.80
+  pgp:2.06
+  cul:1.68
+  note:1.66
+  af:1.66
+  focus:1.05
+  markets:1.03
+  morroccan:1.03
+
+Topic 1:
+  lrf:1.44
+  pgp:1.23
+  key:1.23
+  fez:1.13
+  af:0.81
+  note:0.80
+  cul:0.78
+  mdma:0.61
+  public:0.58
+  pm:0.57
+
+Topic 2:
+  key:0.85
+  lrf:0.71
+  fez:0.67
+  pgp:0.67
+  vendor:0.65
+  thread:0.58
+  lsd:0.55
+  note:0.50
+  cul:0.50
+  af:0.49
+
+Topic 3:
+  saint:3.79
+  washed:2.95
+  mdma:2.03
+  nice:1.99
+  tested:1.95
+  directly:1.95
+  acetone:1.95
+  wash:1.95
+  nic:1.83
+  products:1.64
+
+Topic 4:
+  santa:4.57
+  vendor:2.46
+  saint:2.01
+  nic:1.98
+  don:1.63
+  congrats:1.63
+  place:1.58
+  good:1.56
+  great:1.51
+  nice:0.81
+
+K: 5, Log-Likelihood: -3725.405, Alpha: 11.000, Beta: 1.100

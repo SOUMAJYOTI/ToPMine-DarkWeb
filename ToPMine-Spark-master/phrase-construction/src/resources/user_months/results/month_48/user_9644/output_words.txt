@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:4.24
+  wallet:3.92
+  tumbler:1.74
+  tails:1.64
+  electrum:1.12
+  transfer:1.10
+  anonymous:0.90
+  confidentiality:0.81
+  tmg:0.80
+  acquiring:0.80
+
+Topic 1:
+  wallet:4.39
+  pay:1.56
+  electrum:1.54
+  tails:1.51
+  anonymous:1.08
+  transfer:1.04
+  btc:0.97
+  tumbler:0.78
+  automatically:0.67
+  notable:0.67
+
+Topic 2:
+  btc:10.43
+  mixer:2.15
+  send:2.11
+  shield:1.56
+  blond:1.39
+  pay:1.30
+  wallet:1.12
+  anonymous:0.86
+  traceable:0.82
+  reliable:0.82
+
+Topic 3:
+  wallet:5.47
+  tails:1.61
+  btc:1.35
+  electrum:1.35
+  pay:1.13
+  transfer:0.90
+  send:0.82
+  mixer:0.76
+  anonymous:0.75
+  drive:0.68
+
+Topic 4:
+  bitcoin:2.64
+  tumbler:2.61
+  anonymous:2.41
+  confidentiality:1.67
+  electrum:1.58
+  pay:1.50
+  wallet:1.09
+  shield:1.06
+  transfer:0.79
+  tails:0.76
+
+K: 5, Log-Likelihood: -641.003, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  server:4.32
+  otr:2.84
+  pidgin:2.84
+  great:2.72
+  jabber:2.71
+  set:2.66
+  tails:2.63
+  good:2.52
+  authenticated:1.87
+  guess:1.83
+
+Topic 1:
+  virtual:15.06
+  isolation:14.66
+  tor:11.22
+  physical:8.06
+  machine:6.41
+  hardware:5.13
+  vulnerability:4.97
+  pi:4.70
+  middle:4.46
+  exploit:4.17
+
+Topic 2:
+  security:3.26
+  tor:3.05
+  dont:1.77
+  box:1.68
+  vpn:1.65
+  vpon:1.55
+  people:1.46
+  great:1.08
+  threads:1.05
+  options:1.02
+
+Topic 3:
+  isolation:35.10
+  encryption:21.76
+  tor:17.05
+  virtual:16.81
+  applications:15.18
+  physical:14.54
+  code:11.13
+  membership:9.96
+  concealment:9.96
+  advantages:9.96
+
+Topic 4:
+  dont:9.73
+  files:6.79
+  encrypted:6.42
+  encryption:5.11
+  security:4.32
+  cipher:3.95
+  sha:3.94
+  rc:3.94
+  passphrase:3.94
+  bridge:3.93
+
+K: 5, Log-Likelihood: -9119.552, Alpha: 11.000, Beta: 1.100

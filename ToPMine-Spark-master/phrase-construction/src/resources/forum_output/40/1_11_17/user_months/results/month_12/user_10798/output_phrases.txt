@@ -1,0 +1,61 @@
+Topic 0:
+  hidden service:0.77
+  bug:0.71
+  time:0.55
+  pgp signed message:0.51
+  tor:0.48
+  attacker:0.46
+  big:0.44
+  post:0.38
+  confirmed:0.38
+  release:0.38
+
+Topic 1:
+  bug:1.65
+  hidden service:0.97
+  tor:0.76
+  big:0.63
+  attacker:0.63
+  time:0.57
+  pgp signed message:0.56
+  keys:0.45
+  understand:0.44
+  access:0.44
+
+Topic 2:
+  hidden service:3.35
+  bug:2.73
+  tor:1.80
+  attacker:1.30
+  big:1.16
+  week:0.84
+  network:0.83
+  servers:0.83
+  market:0.83
+  signature:0.82
+
+Topic 3:
+  hit:1.29
+  ready:1.29
+  refresh:1.29
+  days:1.29
+  post:1.19
+  heads:1.13
+  market online:0.94
+  lol:0.94
+  quote:0.94
+  passed:0.94
+
+Topic 4:
+  bug:4.87
+  hidden service:3.62
+  tor:1.91
+  big:1.47
+  attacker:1.32
+  users:0.93
+  openssl:0.91
+  opens:0.91
+  reveal:0.91
+  bundle:0.90
+
+K: 5, Log-Likelihood: -2182.931, Alpha: 11.000, Beta: 1.100

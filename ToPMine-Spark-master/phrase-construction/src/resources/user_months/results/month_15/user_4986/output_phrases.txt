@@ -1,0 +1,61 @@
+Topic 0:
+  return address:6.36
+  opposed business:6.36
+  imagine:3.14
+  personal mailing:3.14
+  things prints:3.14
+  legitimate:3.14
+  blotter:3.14
+  checking:3.14
+  blue:3.14
+  domestic:3.14
+
+Topic 1:
+  method pretty:3.60
+  suggested:3.10
+  honestly:3.10
+  matter:3.10
+  love handwriting:3.10
+  fine blotter:3.10
+  protect:3.10
+  typed:3.10
+  sending note:3.10
+  agree:3.10
+
+Topic 2:
+  letter:4.75
+  paper:4.69
+  sending:3.24
+  safe:3.16
+  origami:3.14
+  disguise:3.14
+  creative:3.14
+  imagination:3.14
+  foldable:3.14
+  friends happy:3.14
+
+Topic 3:
+  professional:1.93
+  works fine:1.93
+  um:1.93
+  find:1.93
+  buisness:1.93
+  ta:1.93
+  case:1.93
+  friend:1.93
+  someway:1.56
+  solid:1.55
+
+Topic 4:
+  middle card:9.58
+  envelope:8.55
+  scotch tape:6.36
+  place:6.36
+  extra:6.36
+  front cover inside:6.36
+  good:6.36
+  write:6.36
+  marijuana:6.36
+  bon:3.15
+
+K: 5, Log-Likelihood: -4577.616, Alpha: 11.000, Beta: 1.100

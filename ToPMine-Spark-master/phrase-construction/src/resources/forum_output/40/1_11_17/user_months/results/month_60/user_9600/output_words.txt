@@ -1,0 +1,61 @@
+Topic 0:
+  provide:0.81
+  ideas:0.79
+  yoga:0.41
+  avenues:0.40
+  falling:0.40
+  figure:0.40
+  kind:0.40
+  directly:0.40
+  psychedelics:0.40
+  quote:0.40
+
+Topic 1:
+  provide:0.80
+  ideas:0.80
+  idea:0.40
+  chances:0.40
+  narratives:0.40
+  prevents:0.40
+  abstract:0.40
+  meditation:0.40
+  falling:0.40
+  influenced:0.40
+
+Topic 2:
+  provide:0.80
+  ideas:0.77
+  brimming:0.40
+  happily:0.40
+  prevents:0.40
+  psychedelic:0.40
+  discounts:0.40
+  provided:0.40
+  objects:0.40
+  directly:0.40
+
+Topic 3:
+  ideas:0.82
+  provide:0.80
+  sounds:0.41
+  feelings:0.41
+  bit:0.40
+  pm:0.40
+  figure:0.40
+  reflection:0.40
+  deep:0.40
+  meditation:0.40
+
+Topic 4:
+  ideas:0.82
+  provide:0.79
+  possess:0.40
+  lead:0.40
+  trap:0.40
+  knowing:0.40
+  culture:0.40
+  sex:0.40
+  happen:0.40
+  greater:0.40
+
+K: 5, Log-Likelihood: -596.671, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  talk:1.01
+  business:0.83
+  internet:0.83
+  streets:0.83
+  ect:0.83
+  people:0.83
+  meet:0.83
+  android phone:0.83
+  messaged:0.83
+  twitter:0.83
+
+Topic 1:
+  talk:0.43
+  local:0.35
+  time:0.35
+  code:0.35
+  person:0.34
+  talking:0.34
+  grab:0.33
+  open:0.33
+  apps:0.33
+  textsecure:0.33
+
+Topic 2:
+  local:0.90
+  code:0.89
+  time:0.84
+  person:0.83
+  talking:0.81
+  easily:0.60
+  xxxxx:0.60
+  work:0.60
+  thing:0.59
+  terms:0.59
+
+Topic 3:
+  person:1.20
+  talking:1.19
+  local:1.19
+  code:1.18
+  time:1.17
+  le:0.72
+  eating:0.72
+  class:0.72
+  location:0.71
+  fruit:0.71
+
+Topic 4:
+  talking:0.87
+  time:0.85
+  person:0.83
+  code:0.78
+  local:0.76
+  items:0.57
+  meal:0.57
+  work:0.56
+  category:0.56
+  xxxxx:0.56
+
+K: 5, Log-Likelihood: -885.284, Alpha: 11.000, Beta: 1.100

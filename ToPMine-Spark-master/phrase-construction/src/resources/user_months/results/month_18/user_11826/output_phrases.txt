@@ -1,0 +1,61 @@
+Topic 0:
+  alfred:2.56
+  eleftheria:1.95
+  admin:1.61
+  market:1.55
+  trolltergeist:1.20
+  link:1.05
+  source:1.01
+  boned:1.00
+  warning:1.00
+  man:0.98
+
+Topic 1:
+  big cock:3.82
+  boogie:3.37
+  uri disclaimer:2.37
+  thought:2.36
+  lmao:2.36
+  bottom:2.35
+  url click:1.59
+  times:1.59
+  ami:1.59
+  ya disclaimer:1.59
+
+Topic 2:
+  alfred:2.73
+  market:1.95
+  admin:1.88
+  suspicious:1.64
+  basically:1.64
+  letshug:1.63
+  eleftheria:1.63
+  posts:1.62
+  ive:1.62
+  moved deleted:1.62
+
+Topic 3:
+  prove claim remove link:2.63
+  fail:2.55
+  obvious:2.55
+  icon:2.55
+  sketchier:2.54
+  post:2.54
+  lot:2.54
+  fact:2.54
+  register:2.54
+  voice:2.54
+
+Topic 4:
+  phishing site:3.28
+  good:1.78
+  hub:1.77
+  lol:1.77
+  posted:1.76
+  markets:1.76
+  ahead:1.75
+  works:1.75
+  dont click:1.74
+  shouldnt:1.74
+
+K: 5, Log-Likelihood: -1312.258, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  events:0.24
+  connect:0.16
+  lots:0.16
+  guys:0.16
+  hey:0.16
+  login:0.16
+  safe:0.08
+  long:0.08
+  pf:0.08
+  happened:0.08
+
+Topic 1:
+  events:0.24
+  lots:0.16
+  hey:0.16
+  guys:0.16
+  connect:0.16
+  login:0.16
+  crazy:0.08
+  computers:0.08
+  experiences:0.08
+  imho:0.08
+
+Topic 2:
+  events:0.24
+  hey:0.16
+  guys:0.16
+  login:0.16
+  connect:0.16
+  lots:0.16
+  bowie:0.08
+  david:0.08
+  imho:0.08
+  hope:0.08
+
+Topic 3:
+  events:0.24
+  login:0.16
+  lots:0.16
+  hey:0.16
+  connect:0.16
+  guys:0.16
+  glad:0.08
+  sucks:0.08
+  safe:0.08
+  long:0.08
+
+Topic 4:
+  events:0.24
+  guys:0.16
+  connect:0.16
+  login:0.16
+  lots:0.16
+  hey:0.16
+  pf:0.08
+  happened:0.08
+  sucks:0.08
+  glad:0.08
+
+K: 5, Log-Likelihood: -63.837, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  aacgkqspr:9.27
+  fq:8.12
+  cdovl:8.12
+  ao:6.95
+  email:6.02
+  vm:5.41
+  pgp signature:5.41
+  tz:5.41
+  tac:5.41
+  nt:5.41
+
+Topic 1:
+  staff:30.22
+  withdrawals:18.42
+  time:18.42
+  community:14.65
+  cold storage hot storage:13.81
+  move forward:13.81
+  lynch mob:13.81
+  security:13.81
+  transaction malleability:13.81
+  hot storage:13.81
+
+Topic 2:
+  encryption key:43.32
+  key expires:32.49
+  key:25.95
+  pub created expires usage:24.37
+  rollf keyz ein rollfz:21.66
+  trust ultimate validity ultimate:18.95
+  dd:13.83
+  mein key gpg:13.54
+  xxxxxxxxx xxxxxxxxx pip keyid:13.54
+  created expires usage ultimate:13.54
+
+Topic 3:
+  pgp key:6.53
+  afalmxlnkfcwkibwmffqojcasffgidaqaacgkqspr:5.41
+  jajceewecacecgwmchgecf:5.41
+  udgfjdcb:5.41
+  cp:5.41
+  dz:5.41
+  rpyybhyxjkzw:5.41
+  gx:5.41
+  rg:5.41
+  sh:5.41
+
+Topic 4:
+  vendors:18.32
+  community:11.53
+  approach:10.85
+  sr:9.50
+  shipped orders:9.21
+  market centralized escrow:9.21
+  huge target:9.21
+  moving forward:9.21
+  pending balance:9.21
+  support:9.21
+
+K: 5, Log-Likelihood: -106549.065, Alpha: 11.000, Beta: 1.100

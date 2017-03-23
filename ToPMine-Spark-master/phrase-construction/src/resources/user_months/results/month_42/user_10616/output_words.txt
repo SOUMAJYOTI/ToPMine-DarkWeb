@@ -1,0 +1,61 @@
+Topic 0:
+  router:1.36
+  vpn:1.00
+  firewall:0.92
+  connection:0.80
+  idea:0.77
+  network:0.63
+  dont:0.61
+  hack:0.58
+  stuff:0.57
+  naughty:0.55
+
+Topic 1:
+  vpn:1.15
+  firewall:1.07
+  idea:1.00
+  router:0.76
+  stuff:0.74
+  hack:0.74
+  naughty:0.72
+  dont:0.69
+  connection:0.61
+  check:0.49
+
+Topic 2:
+  firewall:1.13
+  vpn:1.03
+  idea:0.99
+  router:0.84
+  naughty:0.76
+  hack:0.75
+  stuff:0.74
+  dont:0.65
+  connection:0.63
+  good:0.47
+
+Topic 3:
+  router:1.13
+  vpn:1.04
+  firewall:1.03
+  connection:0.82
+  idea:0.80
+  naughty:0.63
+  dont:0.63
+  stuff:0.60
+  hack:0.60
+  network:0.55
+
+Topic 4:
+  router:1.90
+  connection:1.14
+  network:1.00
+  classroom:0.94
+  switch:0.93
+  firewall:0.86
+  vpn:0.77
+  idea:0.44
+  dont:0.42
+  interest:0.37
+
+K: 5, Log-Likelihood: -391.323, Alpha: 11.000, Beta: 1.100

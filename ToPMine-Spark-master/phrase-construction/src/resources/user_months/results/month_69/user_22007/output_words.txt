@@ -1,0 +1,61 @@
+Topic 0:
+  invite:0.60
+  si:0.40
+  btc:0.20
+  sell:0.20
+  thinking:0.20
+  check:0.20
+  mind:0.20
+  message:0.20
+  week:0.20
+  invites:0.20
+
+Topic 1:
+  invite:0.60
+  si:0.39
+  send:0.20
+  deserving:0.20
+  free:0.20
+  request:0.20
+  personal:0.20
+  invites:0.20
+  deem:0.20
+  message:0.20
+
+Topic 2:
+  invite:0.60
+  si:0.40
+  btc:0.20
+  sell:0.20
+  thinking:0.20
+  check:0.20
+  mind:0.20
+  message:0.20
+  invites:0.20
+  week:0.20
+
+Topic 3:
+  invite:0.60
+  si:0.40
+  mind:0.20
+  check:0.20
+  thinking:0.20
+  sell:0.20
+  btc:0.20
+  free:0.20
+  request:0.20
+  personal:0.20
+
+Topic 4:
+  invite:0.60
+  si:0.40
+  mind:0.20
+  thinking:0.20
+  sell:0.20
+  check:0.20
+  btc:0.20
+  deem:0.20
+  personal:0.20
+  week:0.20
+
+K: 5, Log-Likelihood: -51.354, Alpha: 11.000, Beta: 1.100

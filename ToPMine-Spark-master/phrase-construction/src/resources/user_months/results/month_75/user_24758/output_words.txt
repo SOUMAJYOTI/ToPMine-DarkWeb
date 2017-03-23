@@ -1,0 +1,56 @@
+Topic 0:
+  encrusted:0.20
+  keys:0.20
+  folder:0.20
+  safe:0.20
+  save:0.20
+  pgp:0.20
+  archive:0.20
+  user:0.20
+  stick:0.20
+
+Topic 1:
+  save:0.20
+  folder:0.20
+  encrusted:0.20
+  pgp:0.20
+  archive:0.20
+  stick:0.20
+  safe:0.20
+  user:0.20
+  keys:0.20
+
+Topic 2:
+  keys:0.20
+  stick:0.20
+  encrusted:0.20
+  safe:0.20
+  save:0.20
+  user:0.20
+  folder:0.20
+  archive:0.20
+  pgp:0.20
+
+Topic 3:
+  pgp:0.20
+  user:0.20
+  stick:0.20
+  keys:0.20
+  folder:0.20
+  save:0.20
+  archive:0.20
+  encrusted:0.20
+  safe:0.20
+
+Topic 4:
+  archive:0.20
+  safe:0.20
+  encrusted:0.20
+  folder:0.20
+  save:0.20
+  user:0.20
+  stick:0.20
+  pgp:0.20
+  keys:0.20
+
+K: 5, Log-Likelihood: -19.775, Alpha: 11.000, Beta: 1.100

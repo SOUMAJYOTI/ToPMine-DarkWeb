@@ -1,0 +1,61 @@
+Topic 0:
+  arrested:0.76
+  topic:0.65
+  people:0.58
+  fuck:0.43
+  guys:0.42
+  quote:0.39
+  word:0.38
+  helping:0.37
+  time:0.37
+  served:0.37
+
+Topic 1:
+  arrested:0.83
+  topic:0.60
+  people:0.58
+  guys:0.41
+  fuck:0.40
+  word:0.40
+  quote:0.40
+  helping:0.39
+  fucking:0.39
+  shame:0.39
+
+Topic 2:
+  arrested:0.94
+  topic:0.56
+  people:0.53
+  guys:0.46
+  fuck:0.39
+  quote:0.36
+  word:0.36
+  helping:0.36
+  fucking:0.35
+  time:0.35
+
+Topic 3:
+  arrested:0.77
+  people:0.63
+  topic:0.59
+  donate:0.44
+  wasting:0.43
+  shame:0.43
+  served:0.43
+  fucking:0.43
+  helping:0.42
+  quote:0.42
+
+Topic 4:
+  arrested:0.71
+  people:0.68
+  topic:0.59
+  donate:0.49
+  time:0.46
+  served:0.46
+  shame:0.46
+  fucking:0.45
+  wasting:0.45
+  helping:0.45
+
+K: 5, Log-Likelihood: -361.507, Alpha: 11.000, Beta: 1.100

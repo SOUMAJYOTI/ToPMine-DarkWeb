@@ -1,0 +1,61 @@
+Topic 0:
+  unload:0.54
+  bruce:0.45
+  option:0.28
+  avatars:0.28
+  users:0.28
+  attachment:0.28
+  working:0.28
+  directory:0.28
+  original:0.28
+  confirm:0.28
+
+Topic 1:
+  unload:0.58
+  bruce:0.41
+  staff:0.28
+  support:0.28
+  avatar:0.28
+  solution:0.28
+  expecting:0.28
+  acknowledgement:0.28
+  attachment avatar:0.28
+  confirm:0.28
+
+Topic 2:
+  unload:0.58
+  bruce:0.42
+  attachments:0.28
+  forums:0.28
+  read:0.28
+  bump:0.28
+  expecting:0.28
+  forum:0.28
+  disappeared:0.28
+  deteriorate:0.28
+
+Topic 3:
+  unload:0.55
+  bruce:0.45
+  working:0.28
+  option:0.28
+  avatars:0.28
+  users:0.28
+  attachment:0.28
+  original:0.28
+  market:0.28
+  avatar:0.28
+
+Topic 4:
+  unload:0.53
+  bruce:0.46
+  working:0.28
+  users:0.28
+  attachment:0.28
+  avatars:0.28
+  option:0.28
+  profile:0.27
+  suitable:0.27
+  acknowledgement:0.27
+
+K: 5, Log-Likelihood: -190.797, Alpha: 11.000, Beta: 1.100

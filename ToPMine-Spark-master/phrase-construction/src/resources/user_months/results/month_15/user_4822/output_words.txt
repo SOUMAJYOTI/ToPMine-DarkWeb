@@ -1,0 +1,61 @@
+Topic 0:
+  tor:5.26
+  network:4.84
+  branches:2.93
+  government:2.93
+  people:2.80
+  connection:1.41
+  anonymity:1.02
+  agent:0.94
+  illusion:0.94
+  helps:0.94
+
+Topic 1:
+  server:12.80
+  country:8.60
+  vpn:6.65
+  traffic:6.22
+  europe:5.23
+  bittorrent:4.05
+  set:4.05
+  analysis:3.48
+  western:3.46
+  contact:3.41
+
+Topic 2:
+  vpon:2.23
+  server:1.90
+  clearnet:1.36
+  couple:1.27
+  clarification:1.27
+  lapse:1.27
+  pia:1.27
+  interesting:1.27
+  topic:1.27
+  ago:1.27
+
+Topic 3:
+  entry:11.86
+  guard:5.87
+  guards:3.88
+  attacker:3.88
+  nodes:3.88
+  exit:3.88
+  matter:3.88
+  tor:3.67
+  bitcointalk:2.43
+  agencies:1.91
+
+Topic 4:
+  countries:8.54
+  eyes:8.22
+  bandwidth:3.84
+  set:3.29
+  bittorrent:3.25
+  vpn:2.44
+  vpon:2.28
+  assuming:1.85
+  inside:1.85
+  combined:1.85
+
+K: 5, Log-Likelihood: -2452.396, Alpha: 11.000, Beta: 1.100

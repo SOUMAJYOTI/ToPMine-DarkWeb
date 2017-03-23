@@ -1,0 +1,61 @@
+Topic 0:
+  vpn:8.26
+  software:4.25
+  eyes:4.25
+  stuff:4.25
+  multi:4.25
+  farewell:4.25
+  assume:4.25
+  hardware:4.25
+  vpn tor:4.25
+  choice os:3.93
+
+Topic 1:
+  torrents tor:6.75
+  linux:5.98
+  beginner:4.23
+  arch:4.23
+  design:4.23
+  mac:4.23
+  recommend:4.23
+  download:4.21
+  opened:4.21
+  scripts:4.21
+
+Topic 2:
+  beginners:6.86
+  ideal:3.40
+  nice:3.40
+  easy:3.40
+  offer:3.40
+  major:3.40
+  ways:3.40
+  thinks:3.40
+  distros:3.40
+  days:3.40
+
+Topic 3:
+  tails:14.31
+  persistent data partition:6.88
+  keys:6.88
+  time:5.93
+  key:4.03
+  windows gnupg error plz:3.79
+  secret key public key:3.79
+  exception:3.42
+  system:3.42
+  error secret key:3.42
+
+Topic 4:
+  vpn:4.65
+  sytem:2.93
+  browse:2.91
+  op:2.90
+  tor:2.55
+  downloading torrents:2.08
+  suited:2.08
+  exploring:2.08
+  traffic:2.08
+  bitcoin:2.08
+
+K: 5, Log-Likelihood: -4647.581, Alpha: 11.000, Beta: 1.100

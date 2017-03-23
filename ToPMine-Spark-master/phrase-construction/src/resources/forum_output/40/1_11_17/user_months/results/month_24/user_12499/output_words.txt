@@ -1,0 +1,61 @@
+Topic 0:
+  onion:0.40
+  bitcoin:0.40
+  favorite:0.20
+  bitblendervrfkzr:0.20
+  tui:0.20
+  ov:0.20
+  mikseri:0.20
+  fog:0.20
+  suosituimpiafogcore:0.20
+  lienee:0.20
+
+Topic 1:
+  bitcoin:0.41
+  onion:0.40
+  favorite:0.20
+  suosituimpiafogcore:0.20
+  mikseri:0.20
+  tui:0.20
+  bitblendervrfkzr:0.20
+  fog:0.20
+  lienee:0.20
+  ov:0.20
+
+Topic 2:
+  bitcoin:0.40
+  onion:0.40
+  hope:0.20
+  people:0.20
+  repaid:0.20
+  shit:0.20
+  fixed:0.20
+  toimii:0.20
+  voisiko:0.20
+  miten:0.20
+
+Topic 3:
+  onion:0.40
+  bitcoin:0.39
+  ss:0.20
+  ja:0.20
+  semmoinen:0.20
+  miten:0.20
+  joku:0.20
+  valaista:0.20
+  yt:0.20
+  voisiko:0.20
+
+Topic 4:
+  onion:0.40
+  bitcoin:0.40
+  fixed:0.20
+  yt:0.20
+  ss:0.20
+  se:0.20
+  toimii:0.20
+  repaid:0.20
+  people:0.20
+  valaista:0.20
+
+K: 5, Log-Likelihood: -90.584, Alpha: 11.000, Beta: 1.100

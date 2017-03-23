@@ -1,0 +1,61 @@
+Topic 0:
+  hope:0.68
+  brother:0.65
+  things:0.44
+  time:0.44
+  long:0.43
+  pink:0.40
+  floyd:0.40
+  mind:0.38
+  forward:0.22
+  events:0.22
+
+Topic 1:
+  hope:0.59
+  brother:0.56
+  mind:0.41
+  pink:0.40
+  floyd:0.40
+  things:0.39
+  long:0.39
+  time:0.38
+  soul:0.20
+  posts:0.20
+
+Topic 2:
+  brother:0.67
+  hope:0.63
+  time:0.42
+  long:0.42
+  things:0.41
+  pink:0.40
+  floyd:0.40
+  mind:0.39
+  great:0.21
+  stealth:0.21
+
+Topic 3:
+  brother:0.53
+  hope:0.49
+  mind:0.42
+  floyd:0.40
+  pink:0.39
+  time:0.34
+  long:0.34
+  things:0.34
+  interactive:0.23
+  radio:0.23
+
+Topic 4:
+  hope:0.61
+  brother:0.60
+  long:0.41
+  things:0.41
+  time:0.41
+  pink:0.41
+  floyd:0.40
+  mind:0.39
+  clients:0.21
+  seniordingdong:0.21
+
+K: 5, Log-Likelihood: -352.373, Alpha: 11.000, Beta: 1.100

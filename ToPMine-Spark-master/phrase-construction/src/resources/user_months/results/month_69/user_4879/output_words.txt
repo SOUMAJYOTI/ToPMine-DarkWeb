@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:2.04
+  tails:0.76
+  persistence:0.65
+  christmas:0.43
+  issues:0.43
+  work:0.43
+  year:0.43
+  internet:0.43
+  today:0.43
+  friends:0.43
+
+Topic 1:
+  wallet:2.06
+  persistence:1.05
+  tails:0.82
+  case:0.47
+  fine:0.47
+  working:0.47
+  os:0.47
+  install:0.46
+  electric:0.36
+  goal:0.36
+
+Topic 2:
+  wallet:1.98
+  tails:0.83
+  persistence:0.69
+  connect:0.42
+  work:0.42
+  year:0.42
+  happy:0.42
+  issues:0.42
+  wondering:0.41
+  direction:0.41
+
+Topic 3:
+  wallet:2.14
+  persistence:0.78
+  tails:0.77
+  friends:0.40
+  goal:0.40
+  electric:0.40
+  wondering:0.40
+  merry:0.40
+  coin:0.40
+  work:0.40
+
+Topic 4:
+  wallet:1.78
+  tails:0.83
+  persistence:0.83
+  point:0.41
+  direction:0.41
+  electric:0.41
+  client:0.41
+  internet:0.41
+  happy:0.41
+  today:0.41
+
+K: 5, Log-Likelihood: -232.031, Alpha: 11.000, Beta: 1.100

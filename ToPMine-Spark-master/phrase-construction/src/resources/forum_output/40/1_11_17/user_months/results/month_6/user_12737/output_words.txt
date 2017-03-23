@@ -1,0 +1,61 @@
+Topic 0:
+  mutta:0.65
+  rm:0.42
+  siihen:0.41
+  linkki:0.41
+  miten:0.35
+  thorlaudalta:0.21
+  yritt:0.21
+  kuluihin:0.21
+  joo:0.21
+  kyselly:0.21
+
+Topic 1:
+  mutta:0.55
+  miten:0.42
+  siihen:0.42
+  rm:0.41
+  linkki:0.40
+  mulla:0.21
+  keen:0.21
+  paysafecard:0.21
+  jeps:0.21
+  btc:0.21
+
+Topic 2:
+  mutta:0.57
+  miten:0.43
+  linkki:0.39
+  rm:0.38
+  siihen:0.38
+  satan:0.21
+  ohjeita:0.21
+  kunnon:0.21
+  timid:0.21
+  psc:0.21
+
+Topic 3:
+  mutta:0.57
+  miten:0.45
+  linkki:0.38
+  siihen:0.36
+  rm:0.36
+  jeps:0.21
+  satan:0.21
+  ohjeita:0.21
+  kukaan:0.21
+  btc:0.21
+
+Topic 4:
+  mutta:0.66
+  rm:0.43
+  siihen:0.43
+  linkki:0.41
+  miten:0.35
+  amlaitas:0.21
+  eik:0.21
+  march:0.21
+  joskus:0.21
+  niin:0.21
+
+K: 5, Log-Likelihood: -252.331, Alpha: 11.000, Beta: 1.100

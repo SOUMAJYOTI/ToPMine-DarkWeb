@@ -1,0 +1,61 @@
+Topic 0:
+  bullshit:2.18
+  mymarkethaul:2.13
+  thinking:2.13
+  market:2.06
+  wallet:1.74
+  october:1.52
+  quote:1.50
+  mind:1.33
+  coins:1.28
+  trolling:1.23
+
+Topic 1:
+  wallet:5.93
+  market:3.89
+  abraxas:2.46
+  coins:1.97
+  earlier:1.83
+  listings:1.83
+  number:1.83
+  amount:1.83
+  balances:1.38
+  latest:1.38
+
+Topic 2:
+  public:4.95
+  wallet:3.60
+  abraxas:3.03
+  agora:2.70
+  evolution:2.70
+  withdrawals:1.71
+  coming:1.33
+  markets:1.28
+  wallets:1.26
+  dont:1.20
+
+Topic 3:
+  abraxas:5.17
+  wallet:3.38
+  coins:2.21
+  mix:1.43
+  withdrew:1.15
+  deposit:1.15
+  deposited:1.13
+  bitstamp:1.11
+  withdrawal:1.07
+  walletexplorer:1.07
+
+Topic 4:
+  wallet:4.36
+  btc:2.42
+  identity:2.14
+  transactions:1.80
+  real:1.79
+  bank:1.79
+  taint:1.51
+  making:1.32
+  cash:1.26
+  abraxas:1.20
+
+K: 5, Log-Likelihood: -1669.280, Alpha: 11.000, Beta: 1.100

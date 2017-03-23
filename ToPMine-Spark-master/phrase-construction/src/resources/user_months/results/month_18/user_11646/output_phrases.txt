@@ -1,0 +1,61 @@
+Topic 0:
+  scam:2.04
+  poor:1.21
+  improvement:1.21
+  security:1.21
+  admin:1.21
+  ma:1.21
+  freedombeware:1.21
+  coz:1.21
+  long:1.21
+  stars:1.21
+
+Topic 1:
+  vendor:2.78
+  fuck:2.78
+  ffs:2.78
+  fk:2.78
+  sites:1.29
+  month:1.29
+  expert:1.29
+  sense:1.29
+  net:1.29
+  guru:1.29
+
+Topic 2:
+  sr:0.97
+  wall:0.97
+  lost:0.95
+  dont:0.76
+  read:0.65
+  coin:0.65
+  didnt:0.65
+  writing:0.59
+  dl:0.58
+  coins:0.58
+
+Topic 3:
+  sr:2.04
+  lack:1.24
+  backup:1.24
+  fucks:1.24
+  main:1.24
+  market:1.24
+  removed:1.24
+  post:1.24
+  owners:1.24
+  managed:1.24
+
+Topic 4:
+  lost:0.82
+  sr:0.81
+  time:0.76
+  wall:0.69
+  sympathise:0.63
+  money:0.63
+  comming:0.63
+  kitten:0.63
+  warned:0.63
+  stolen:0.63
+
+K: 5, Log-Likelihood: -652.273, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  evo:0.40
+  yeah:0.20
+  theif:0.20
+  fucking:0.20
+  carder:0.20
+  site:0.20
+  retarded:0.20
+  compliments:0.20
+  evolution:0.20
+  ll:0.20
+
+Topic 1:
+  evo:0.40
+  created:0.20
+  forums:0.20
+  messed:0.20
+  secure:0.20
+  trolltergeist:0.20
+  fee:0.20
+  stem:0.20
+  members:0.20
+  missed:0.20
+
+Topic 2:
+  evo:0.40
+  site:0.20
+  yeah:0.20
+  security:0.20
+  retarded:0.20
+  theif:0.20
+  carder:0.20
+  fucking:0.20
+  forums:0.20
+  missed:0.20
+
+Topic 3:
+  evo:0.40
+  carding:0.20
+  fucking:0.20
+  messed:0.20
+  fee:0.20
+  members:0.20
+  created:0.20
+  site:0.20
+  retarded:0.20
+  missed:0.20
+
+Topic 4:
+  evo:0.40
+  ll:0.20
+  compliments:0.20
+  trolltergeist:0.20
+  theif:0.20
+  carder:0.20
+  retarded:0.20
+  fucking:0.20
+  yeah:0.20
+  site:0.20
+
+K: 5, Log-Likelihood: -74.916, Alpha: 11.000, Beta: 1.100

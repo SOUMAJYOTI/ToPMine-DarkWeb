@@ -1,0 +1,61 @@
+Topic 0:
+  acct:0.60
+  weapon:0.40
+  partner:0.40
+  closing:0.40
+  piece:0.20
+  btc:0.20
+  lots:0.20
+  satanic:0.20
+  avoid:0.20
+  tide:0.20
+
+Topic 1:
+  acct:0.62
+  weapon:0.40
+  partner:0.40
+  closing:0.40
+  shit:0.20
+  field:0.20
+  revolutionary:0.20
+  lifetime:0.20
+  real:0.20
+  powerful:0.20
+
+Topic 2:
+  acct:0.59
+  partner:0.40
+  closing:0.40
+  weapon:0.40
+  contract:0.20
+  finally:0.20
+  evil:0.20
+  info:0.20
+  revolutionary:0.20
+  breach:0.20
+
+Topic 3:
+  acct:0.60
+  closing:0.40
+  partner:0.40
+  weapon:0.40
+  good:0.20
+  finally:0.20
+  tide:0.20
+  game:0.20
+  breach:0.20
+  opening:0.20
+
+Topic 4:
+  acct:0.60
+  closing:0.40
+  weapon:0.40
+  partner:0.40
+  btc:0.20
+  ways:0.20
+  chance:0.20
+  lifetime:0.20
+  selling:0.20
+  called:0.20
+
+K: 5, Log-Likelihood: -183.397, Alpha: 11.000, Beta: 1.100

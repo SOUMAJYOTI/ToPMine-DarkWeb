@@ -1,0 +1,61 @@
+Topic 0:
+  agora:2.22
+  login:1.34
+  vendor:1.29
+  file:1.25
+  june:1.20
+  quote:0.93
+  error:0.69
+  status:0.66
+  hours:0.61
+  previous:0.61
+
+Topic 1:
+  agora:2.19
+  login:1.85
+  file:1.80
+  error:0.92
+  june:0.79
+  quote:0.67
+  vendor:0.66
+  screen:0.63
+  hst:0.60
+  running:0.59
+
+Topic 2:
+  agora:2.17
+  login:1.48
+  file:1.25
+  june:1.07
+  quote:0.84
+  vendor:0.77
+  error:0.75
+  hours:0.65
+  returned:0.65
+  previous:0.64
+
+Topic 3:
+  agora:2.16
+  login:1.57
+  file:1.38
+  june:0.93
+  error:0.79
+  quote:0.73
+  vendor:0.69
+  status:0.67
+  running:0.66
+  hst:0.58
+
+Topic 4:
+  agora:2.26
+  login:1.76
+  file:1.32
+  june:1.01
+  error:0.86
+  quote:0.84
+  returned:0.68
+  previous:0.68
+  screen:0.63
+  hours:0.63
+
+K: 5, Log-Likelihood: -1034.836, Alpha: 11.000, Beta: 1.100

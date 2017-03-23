@@ -1,0 +1,61 @@
+Topic 0:
+  agora profile find:0.40
+  banksyshepard:0.40
+  mile strong sense loyalty:0.40
+  cheersi:0.40
+  agora agra downtime dont:0.40
+  market greatly appreciated:0.40
+  pmsb:0.40
+  jump lost alot evo:0.40
+  vendor dealt period extra:0.40
+  hesitant market:0.40
+
+Topic 1:
+  vendor dealt period extra:0.42
+  cheersi:0.42
+  hesitant market:0.42
+  pmsb:0.42
+  jump lost alot evo:0.42
+  agora agra downtime dont:0.42
+  mile strong sense loyalty:0.42
+  market greatly appreciated:0.42
+  banksyshepard:0.42
+  agora profile find:0.42
+
+Topic 2:
+  stealthbomber account created thread:0.40
+  damn:0.40
+  yeah:0.40
+  pmfyi:0.40
+  amdm:0.40
+  respond:0.40
+  mdma:0.40
+  pm:0.39
+  agora agra downtime dont:0.37
+  market greatly appreciated:0.37
+
+Topic 3:
+  amdm:0.41
+  pm:0.41
+  pmfyi:0.41
+  yeah:0.41
+  respond:0.41
+  mdma:0.41
+  stealthbomber account created thread:0.41
+  damn:0.41
+  banksyshepard:0.38
+  hesitant market:0.38
+
+Topic 4:
+  mile strong sense loyalty:0.39
+  jump lost alot evo:0.39
+  pmsb:0.39
+  market greatly appreciated:0.39
+  vendor dealt period extra:0.39
+  agora agra downtime dont:0.39
+  agora profile find:0.39
+  hesitant market:0.39
+  banksyshepard:0.39
+  cheersi:0.39
+
+K: 5, Log-Likelihood: -229.723, Alpha: 11.000, Beta: 1.100

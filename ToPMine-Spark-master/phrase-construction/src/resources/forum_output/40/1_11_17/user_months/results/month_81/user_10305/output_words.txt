@@ -1,0 +1,61 @@
+Topic 0:
+  coins:6.73
+  feds:5.26
+  stolen:4.46
+  btc:3.38
+  february:3.24
+  suprise:2.69
+  man:2.60
+  implemented:2.60
+  ahand:2.59
+  didnt:2.58
+
+Topic 1:
+  coins:2.46
+  feds:2.32
+  gox:2.24
+  btc:1.99
+  stolen:1.56
+  quote:1.43
+  february:1.26
+  legal:1.24
+  bad:1.16
+  involved:1.11
+
+Topic 2:
+  coins:2.94
+  btc:2.62
+  gox:1.84
+  february:1.68
+  quote:1.55
+  pay:1.50
+  stolen:1.50
+  legal:1.44
+  feds:1.35
+  sitting:0.83
+
+Topic 3:
+  gox:2.05
+  email:2.00
+  dont:1.88
+  today:1.46
+  market:1.40
+  mt:1.38
+  online:1.07
+  easy:1.00
+  exchange:0.95
+  security:0.91
+
+Topic 4:
+  pay:3.76
+  btc:3.11
+  legal:1.73
+  gox:1.67
+  bank:1.66
+  quote:1.50
+  providing:1.38
+  reimbursement:1.38
+  tax:1.38
+  aduty:1.38
+
+K: 5, Log-Likelihood: -1851.376, Alpha: 11.000, Beta: 1.100

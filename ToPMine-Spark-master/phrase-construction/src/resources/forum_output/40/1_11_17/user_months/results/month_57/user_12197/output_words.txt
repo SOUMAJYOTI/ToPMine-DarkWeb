@@ -1,0 +1,61 @@
+Topic 0:
+  benjomarket:9.53
+  btc:9.01
+  forum:8.48
+  asiak:5.62
+  kapteeni:4.75
+  screenshot:4.72
+  vendor:3.51
+  pay:3.39
+  vendors:3.27
+  scam:3.10
+
+Topic 1:
+  ytt:7.74
+  mutta:4.85
+  benjomarket:3.37
+  dont:3.21
+  ett:2.92
+  olevan:2.86
+  send:2.58
+  kaupoissa:1.85
+  eik:1.85
+  isommissa:1.85
+
+Topic 2:
+  customers:4.46
+  case:4.13
+  forum:3.84
+  btc:2.73
+  money:2.64
+  solve:2.58
+  kapteeni:2.51
+  refund:2.02
+  august:1.88
+  agora:1.87
+
+Topic 3:
+  refund:5.07
+  care:4.49
+  forum:3.42
+  kapteeni:3.28
+  vendors:2.34
+  btc:2.28
+  real:2.10
+  month:2.02
+  safe:1.98
+  account:1.86
+
+Topic 4:
+  kapteeni:16.55
+  read:11.19
+  log:9.96
+  btc:8.64
+  snik:8.42
+  august:7.84
+  chat:6.56
+  package:6.18
+  asiakaspalvelu:5.57
+  recipient:4.80
+
+K: 5, Log-Likelihood: -4051.894, Alpha: 11.000, Beta: 1.100

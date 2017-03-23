@@ -1,0 +1,61 @@
+Topic 0:
+  address post:1.07
+  donate:0.95
+  wealth:0.92
+  visible:0.91
+  place running:0.90
+  dear:0.90
+  resort:0.90
+  btc address:0.90
+  successful:0.90
+  mods:0.89
+
+Topic 1:
+  psychedelic:1.73
+  approach:1.30
+  deserve:1.29
+  admins:1.28
+  transactions:1.26
+  dim:1.25
+  users:1.25
+  market:1.25
+  site:1.25
+  distribution:1.24
+
+Topic 2:
+  keeping:1.69
+  magical:1.19
+  nice:1.19
+  involved:1.19
+  forum:1.19
+  love:1.19
+  running:1.19
+  bitcoin:1.19
+  answer:1.19
+  root:1.18
+
+Topic 3:
+  pmvjhfrjvqlv:1.41
+  lost:1.41
+  happy:1.41
+  cost:1.40
+  tp:1.40
+  place:1.40
+  members community:1.40
+  leftover:1.40
+  cqmsjyg:1.40
+  server:1.40
+
+Topic 4:
+  members vendors:3.45
+  experience:2.11
+  share:2.11
+  knowledge:2.11
+  gammagoblin:2.06
+  bringing:1.66
+  mind:1.66
+  support:1.66
+  enhance:1.66
+  personal:1.66
+
+K: 5, Log-Likelihood: -907.515, Alpha: 11.000, Beta: 1.100

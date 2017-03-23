@@ -1,0 +1,61 @@
+Topic 0:
+  premium users:4.59
+  safe mail net:4.36
+  safe mail:3.27
+  safe mail net system:3.21
+  system:2.91
+  service:2.54
+  registration:2.51
+  users:2.34
+  system months:2.10
+  version:2.02
+
+Topic 1:
+  system:10.22
+  crash:9.74
+  operating system:5.93
+  premium users:5.43
+  users:4.84
+  safe mail net system:4.65
+  registration:4.19
+  safe mail:3.88
+  crashed storage:3.73
+  users data:3.67
+
+Topic 2:
+  crash:5.93
+  system:4.19
+  safe mail net:4.14
+  premium users:3.83
+  registration:3.69
+  service:3.66
+  users:3.21
+  operating system:2.78
+  safe mail net system:2.53
+  time:2.49
+
+Topic 3:
+  tor:6.77
+  aethon november pmquote:5.67
+  site:5.18
+  shouldnt continue idea message:4.75
+  sites identity verified connect:4.71
+  account time months tor:4.70
+  message connection untrustedyou asked:4.69
+  suddenly started issues trusted:4.69
+  attempted access safe mail:4.69
+  trusted identification prove place:4.69
+
+Topic 4:
+  recover:6.86
+  safe mail months:4.73
+  signant called warning:4.73
+  tor wondering changed drastically:4.73
+  amits encrypted messages:4.25
+  greg:4.21
+  security:4.21
+  account:3.97
+  questionable:3.39
+  news:3.39
+
+K: 5, Log-Likelihood: -6671.451, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  require:1.51
+  text:1.04
+  started:1.03
+  order:1.03
+  process:1.03
+  cell:1.03
+  bastards:1.02
+  phone:1.01
+  moment:1.01
+  huge:1.01
+
+Topic 1:
+  blond wig:3.19
+  deposit:1.36
+  le:1.00
+  obfuscating:0.98
+  great:0.98
+  luc:0.98
+  dont country:0.98
+  sounds:0.98
+  step:0.98
+  starting:0.97
+
+Topic 2:
+  bitcoin atms:1.98
+  set:1.96
+  anonymous:1.96
+  local:1.96
+  good:1.96
+  mind:1.95
+  wondering:1.95
+  safeis:1.94
+  thought:1.93
+  bitcoin:1.87
+
+Topic 3:
+  lasts:1.24
+  round:1.22
+  heat:1.22
+  kicks:1.21
+  withdraw:1.21
+  trail:1.20
+  bet:1.20
+  safest:1.20
+  mixer:1.20
+  long:1.20
+
+Topic 4:
+  require:1.99
+  code:1.26
+  scan:1.25
+  fucking:1.24
+  cash:1.23
+  cut:1.23
+  moment:1.23
+  confirmation:1.22
+  huge:1.22
+  bastards:1.21
+
+K: 5, Log-Likelihood: -920.399, Alpha: 11.000, Beta: 1.100

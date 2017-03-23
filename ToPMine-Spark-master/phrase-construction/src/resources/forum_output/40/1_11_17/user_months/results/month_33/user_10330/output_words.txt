@@ -1,0 +1,61 @@
+Topic 0:
+  users:16.40
+  security:10.90
+  webrtc:9.98
+  windows:9.74
+  vpn:8.99
+  ip:8.99
+  firefox:8.99
+  germany:8.90
+  continue:8.80
+  address:8.69
+
+Topic 1:
+  gc:8.00
+  fn:7.00
+  gm:6.00
+  bx:6.00
+  da:6.00
+  eb:6.00
+  uz:6.00
+  cx:6.00
+  ee:5.00
+  bk:5.00
+
+Topic 2:
+  law:17.78
+  tor:16.23
+  things:15.19
+  children:14.96
+  government:14.58
+  evidence:13.98
+  people:13.66
+  court:13.05
+  police:12.98
+  silk:12.27
+
+Topic 3:
+  vendors:43.98
+  people:27.44
+  february:26.64
+  zaphod:24.08
+  passwords:19.96
+  dont:16.80
+  sr:16.04
+  pmquote:15.79
+  sites:15.32
+  site:14.04
+
+Topic 4:
+  keys:57.21
+  gchq:48.35
+  encryption:45.16
+  communications:40.11
+  gemalto:38.00
+  network:32.40
+  mobile:30.56
+  intelligence:28.79
+  agencies:28.67
+  data:26.33
+
+K: 5, Log-Likelihood: -100064.802, Alpha: 11.000, Beta: 1.100

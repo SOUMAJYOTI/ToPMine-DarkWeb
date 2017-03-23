@@ -1,0 +1,61 @@
+Topic 0:
+  adding noise signal:4.52
+  enjoyable:2.96
+  thought:2.96
+  les:2.96
+  smart:2.96
+  time:2.96
+  wasting:2.96
+  personally:2.96
+  identifiers:2.96
+  intended:2.96
+
+Topic 1:
+  buyers potential buyers:4.53
+  send:3.27
+  purpose:2.98
+  reply:2.98
+  defeats:2.98
+  making:2.98
+  encrypting:2.98
+  encrypted:2.98
+  original:2.98
+  message:2.98
+
+Topic 2:
+  members:5.90
+  start:3.06
+  profiles:2.97
+  hard:2.97
+  thirty:2.97
+  posted:2.97
+  today:2.97
+  protect:2.97
+  keypgp:2.97
+  vendors keys:2.97
+
+Topic 3:
+  trust infrastructure:4.52
+  real:3.83
+  reason:2.96
+  talking forum:2.96
+  telling:2.96
+  compromising:2.96
+  attack:2.96
+  verify:2.96
+  talking le:2.96
+  credentials:2.96
+
+Topic 4:
+  key forum:5.78
+  main:5.63
+  opsec:3.66
+  misunderstood:3.50
+  absolutely:2.78
+  created:2.78
+  compartmentalization:2.76
+  clarification:2.76
+  sense:2.73
+  purposes:2.03
+
+K: 5, Log-Likelihood: -2270.223, Alpha: 11.000, Beta: 1.100

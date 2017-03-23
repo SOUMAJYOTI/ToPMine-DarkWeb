@@ -1,0 +1,61 @@
+Topic 0:
+  koska:4.23
+  skin:3.54
+  mahdollisuus:3.54
+  loppuu:3.54
+  tilausten:3.54
+  kusetusta:3.54
+  jatkaa:3.54
+  ill:3.54
+  pain:3.54
+  maksimoida:3.54
+
+Topic 1:
+  kseno:3.55
+  kundi:3.55
+  ksenolle:2.58
+  itsekin:1.75
+  pesiytyy:1.75
+  tulla:1.75
+  jouduin:1.75
+  silt:1.75
+  privana:1.75
+  tilin:1.75
+
+Topic 2:
+  st:3.54
+  luottamaan:3.54
+  kauppiaisiin:3.54
+  tunnusmerkit:3.54
+  mit:3.54
+  ep:3.54
+  rehellinen:3.54
+  hoida:3.54
+  mik:3.54
+  jos:2.96
+
+Topic 3:
+  silkkitiell:3.51
+  teksti:3.50
+  rekist:1.72
+  sea:1.72
+  peruuttanut:1.72
+  halpoja:1.72
+  oval:1.72
+  marraskuussa:1.72
+  tilini:1.72
+  kaupan:1.72
+
+Topic 4:
+  kusettaja:1.71
+  ksenolta:1.71
+  taas:1.71
+  kopioitu:1.71
+  typeryyden:1.71
+  ihmisten:1.71
+  lk:1.71
+  tuotteet:1.71
+  menko:1.71
+  voi vittu:1.71
+
+K: 5, Log-Likelihood: -3934.233, Alpha: 11.000, Beta: 1.100

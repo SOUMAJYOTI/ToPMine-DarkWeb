@@ -1,0 +1,61 @@
+Topic 0:
+  concentrating:0.00
+  politics:0.00
+  prove:0.00
+  majoring:0.00
+  association:0.00
+  changing:0.00
+  experience:0.00
+  life:0.00
+  drug:0.00
+  offer:0.00
+
+Topic 1:
+  concentrating:0.00
+  politics:0.00
+  prove:0.00
+  majoring:0.00
+  association:0.00
+  changing:0.00
+  experience:0.00
+  life:0.00
+  drug:0.00
+  offer:0.00
+
+Topic 2:
+  concentrating:0.00
+  politics:0.00
+  prove:0.00
+  majoring:0.00
+  association:0.00
+  changing:0.00
+  experience:0.00
+  life:0.00
+  drug:0.00
+  offer:0.00
+
+Topic 3:
+  concentrating:0.00
+  politics:0.00
+  prove:0.00
+  majoring:0.00
+  association:0.00
+  changing:0.00
+  experience:0.00
+  life:0.00
+  drug:0.00
+  offer:0.00
+
+Topic 4:
+  concentrating:0.00
+  politics:0.00
+  prove:0.00
+  majoring:0.00
+  association:0.00
+  changing:0.00
+  experience:0.00
+  life:0.00
+  drug:0.00
+  offer:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

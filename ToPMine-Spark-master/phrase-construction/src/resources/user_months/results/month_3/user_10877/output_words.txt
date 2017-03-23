@@ -1,0 +1,61 @@
+Topic 0:
+  bridge:7.11
+  tor:2.17
+  bridges:2.08
+  mode:1.67
+  tails:1.58
+  obfs:1.41
+  connect:0.94
+  time:0.84
+  automatically:0.80
+  boot:0.71
+
+Topic 1:
+  tails:5.80
+  keys:1.87
+  admin:1.87
+  pgp:1.87
+  amnesic:1.87
+  system:1.60
+  boot:1.58
+  clock:1.56
+  options:1.40
+  set:1.32
+
+Topic 2:
+  tor:12.71
+  bridge:7.62
+  obfs:3.31
+  data:2.89
+  bridges:2.74
+  host:2.11
+  time:1.96
+  hit:1.81
+  transports:1.29
+  number:1.28
+
+Topic 3:
+  tails:3.05
+  bridge:2.00
+  bridges:1.76
+  mode:1.52
+  obfs:1.49
+  boot:1.30
+  tor:1.00
+  clock:0.92
+  system:0.90
+  addresses:0.87
+
+Topic 4:
+  bridge:3.06
+  mode:2.46
+  tails:1.82
+  obfs:1.64
+  bridges:1.64
+  boot:1.15
+  tor:1.05
+  connect:1.03
+  addresses:0.98
+  tips:0.71
+
+K: 5, Log-Likelihood: -1523.594, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  daily:2.91
+  traffic:2.91
+  weekly:2.90
+  market:2.10
+  misleading:1.36
+  figures:1.36
+  market listings:1.36
+  understand:1.36
+  case:1.36
+  quoted:1.36
+
+Topic 1:
+  sr:1.98
+  flawed:1.31
+  voted:1.29
+  market:1.18
+  accounts:0.86
+  bad:0.86
+  yoshills:0.86
+  votes:0.85
+  agora:0.81
+  kind:0.80
+
+Topic 2:
+  promoting:3.09
+  people:3.09
+  asshole:3.09
+  risk peoples:3.09
+  community:1.48
+  markets:1.48
+  game:1.48
+  darknet:1.48
+  doxxes:1.48
+  gain:1.48
+
+Topic 3:
+  monkey:3.00
+  lol:1.81
+  flawed:1.52
+  ftw:1.40
+  man:1.40
+  hahahaha:1.40
+  selection:1.40
+  guess:1.40
+  luck:1.40
+  yoshill:1.40
+
+Topic 4:
+  easy:1.45
+  bitcoins:1.45
+  crow:1.45
+  paraphernalia:1.45
+  data:1.45
+  offer:1.45
+  weapons:1.45
+  drugs:1.45
+  tobacco:1.45
+  agora evolution:1.45
+
+K: 5, Log-Likelihood: -839.183, Alpha: 11.000, Beta: 1.100

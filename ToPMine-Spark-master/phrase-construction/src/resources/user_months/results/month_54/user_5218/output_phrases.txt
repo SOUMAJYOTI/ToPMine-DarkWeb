@@ -1,0 +1,61 @@
+Topic 0:
+  told:2.16
+  click:2.13
+  wondering lot:2.13
+  place agora:2.11
+  invite:2.10
+  website:2.10
+  working:2.07
+  terribly:2.06
+  ended:2.05
+  link:1.94
+
+Topic 1:
+  good:5.61
+  programs:4.15
+  hacking:2.78
+  install:2.70
+  definately:2.70
+  privacy good:2.70
+  encryption:2.70
+  lot:2.70
+  learn privacy:2.70
+  options:2.70
+
+Topic 2:
+  hacking:2.08
+  encrypt messages:1.61
+  pgp:1.55
+  lost:1.27
+  check:1.26
+  bad:1.26
+  vendor:1.26
+  nucleus:1.26
+  garden:1.25
+  selling:1.25
+
+Topic 3:
+  learn:1.47
+  talks:1.46
+  wondering:1.46
+  place forum:1.46
+  stupid:1.46
+  underground:1.46
+  thing:1.46
+  find:1.46
+  site:1.46
+  sounds:1.45
+
+Topic 4:
+  stuff:4.75
+  questions things:2.74
+  order address:2.74
+  place:2.74
+  buying:2.74
+  hmm:2.74
+  ensure:2.74
+  true:2.74
+  times:2.74
+  heard:2.73
+
+K: 5, Log-Likelihood: -1902.351, Alpha: 11.000, Beta: 1.100

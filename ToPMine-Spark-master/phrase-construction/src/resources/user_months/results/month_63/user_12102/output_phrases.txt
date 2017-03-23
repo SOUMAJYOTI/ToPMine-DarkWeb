@@ -1,0 +1,61 @@
+Topic 0:
+  flash:4.68
+  answer:3.74
+  computer browsing tails question:2.80
+  pgp keys:2.80
+  storing btc wallet card:2.80
+  device lifetime plug time:2.78
+  tails auto plate:2.77
+  dnm addresses:2.74
+  mind impossible remember passwords:2.71
+  written plain paper find:2.71
+
+Topic 1:
+  wallet:5.15
+  send funds wallet btc:3.84
+  dont enable persistence launch:3.84
+  keys storage device:3.84
+  step tails tells electrum:3.84
+  saving wallet:3.84
+  st question electrum:3.84
+  wallet seed export private:3.84
+  file save copy save:3.84
+  fee btc:3.84
+
+Topic 2:
+  forum:5.21
+  people:3.85
+  tails:2.93
+  job kind:2.54
+  true:2.54
+  lazziness:2.54
+  reading:2.54
+  break:2.54
+  time correct:2.54
+  boum:2.54
+
+Topic 3:
+  tails usb:4.84
+  tails:4.73
+  persistent volume tails:4.68
+  latest:3.19
+  encrusted:3.19
+  mate:3.17
+  dvd:3.17
+  original:3.17
+  strong:3.17
+  passphrases:3.17
+
+Topic 4:
+  person:2.50
+  turn:2.50
+  bro:2.50
+  glade:2.50
+  things:2.50
+  october:1.64
+  quarter:1.64
+  post:1.64
+  lower:1.64
+  fingers:1.64
+
+K: 5, Log-Likelihood: -5911.058, Alpha: 11.000, Beta: 1.100

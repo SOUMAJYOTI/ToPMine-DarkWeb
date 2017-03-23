@@ -1,0 +1,61 @@
+Topic 0:
+  keyboard:0.48
+  interesting:0.42
+  learning:0.37
+  attack:0.35
+  keys:0.31
+  character:0.31
+  paper:0.31
+  sounds:0.30
+  generated:0.30
+  typing english:0.30
+
+Topic 1:
+  attack:2.81
+  learning:2.79
+  random:1.78
+  passwords:1.78
+  labelled:1.78
+  figure:1.78
+  attempts:1.78
+  text:1.78
+  fewer:1.77
+  machine:1.77
+
+Topic 2:
+  people listening:0.46
+  increases:0.45
+  paranoia worry:0.45
+  typing public:0.45
+  interesting:0.45
+  dont:0.40
+  type:0.40
+  ll:0.40
+  entire:0.37
+  thread:0.37
+
+Topic 3:
+  phone:6.46
+  keystrokes:4.26
+  sound:3.16
+  phones:3.16
+  cellphone:2.07
+  phones pickup:2.07
+  application:2.07
+  screen:2.07
+  vibrations:2.07
+  orientation:2.07
+
+Topic 4:
+  typing public:0.75
+  paranoia worry:0.75
+  increases:0.75
+  people listening:0.74
+  lolyou:0.69
+  target:0.69
+  anonymity:0.69
+  public:0.69
+  needn:0.69
+  pax:0.69
+
+K: 5, Log-Likelihood: -1502.390, Alpha: 11.000, Beta: 1.100

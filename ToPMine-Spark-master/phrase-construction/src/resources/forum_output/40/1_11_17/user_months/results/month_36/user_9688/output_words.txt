@@ -1,0 +1,61 @@
+Topic 0:
+  vps:3.17
+  hidden:2.99
+  silk:2.49
+  host:2.45
+  hosting:2.16
+  road:1.94
+  hosted:1.93
+  ip:1.32
+  server:1.31
+  service:1.30
+
+Topic 1:
+  silk:2.19
+  hidden:2.13
+  host:2.09
+  vps:1.60
+  road:1.41
+  hosted:1.41
+  hosting:1.25
+  image:1.14
+  running:1.13
+  service:1.05
+
+Topic 2:
+  dim:2.52
+  find:2.27
+  divulging:2.23
+  proabably:2.22
+  accidentaly:2.20
+  secrets:2.16
+  beneficial:1.59
+  scroat:1.59
+  march:1.59
+  future:1.59
+
+Topic 3:
+  host:2.68
+  silk:2.53
+  vps:2.41
+  hidden:2.07
+  hosting:1.96
+  hosted:1.93
+  road:1.89
+  people:1.28
+  real:1.24
+  leaked:1.21
+
+Topic 4:
+  forum:0.81
+  vps:0.71
+  hidden:0.69
+  silk:0.68
+  host:0.67
+  road:0.66
+  hosted:0.63
+  secrets:0.58
+  hosting:0.54
+  accidentaly:0.54
+
+K: 5, Log-Likelihood: -955.551, Alpha: 11.000, Beta: 1.100

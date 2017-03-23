@@ -1,0 +1,61 @@
+Topic 0:
+  profile:0.55
+  kb:0.54
+  avatar:0.28
+  downsizes:0.28
+  sizes:0.28
+  scroat:0.28
+  finally:0.28
+  tweak:0.28
+  images:0.28
+  requirement:0.28
+
+Topic 1:
+  profile:0.58
+  kb:0.56
+  large:0.28
+  understand:0.28
+  file:0.28
+  capable:0.28
+  profile avatar:0.28
+  image:0.28
+  wrong:0.28
+  appreciated:0.28
+
+Topic 2:
+  kb:0.56
+  profile:0.54
+  requirement:0.28
+  ta:0.28
+  website:0.28
+  avatar:0.28
+  images:0.28
+  tweak:0.28
+  sizes:0.28
+  input:0.28
+
+Topic 3:
+  profile:0.54
+  kb:0.53
+  yea:0.28
+  scroat:0.28
+  finally:0.28
+  ta:0.28
+  images:0.28
+  guess:0.28
+  sizes:0.28
+  input:0.28
+
+Topic 4:
+  kb:0.58
+  profile:0.57
+  image:0.28
+  tells:0.28
+  upload:0.28
+  wrong:0.28
+  small:0.28
+  decided:0.28
+  file:0.28
+  tmg:0.28
+
+K: 5, Log-Likelihood: -181.404, Alpha: 11.000, Beta: 1.100

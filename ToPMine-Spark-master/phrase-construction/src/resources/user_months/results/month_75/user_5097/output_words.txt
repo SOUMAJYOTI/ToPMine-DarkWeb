@@ -1,0 +1,61 @@
+Topic 0:
+  tracking:1.37
+  code:0.66
+  address:0.58
+  pgp:0.58
+  sending:0.53
+  meaning:0.21
+  knowledge:0.21
+  subject:0.21
+  flaw:0.21
+  hold:0.21
+
+Topic 1:
+  tracking:1.19
+  code:0.62
+  address:0.61
+  pgp:0.60
+  sending:0.58
+  pm:0.20
+  dont:0.20
+  major:0.20
+  le:0.20
+  flaw:0.20
+
+Topic 2:
+  tracking:1.08
+  sending:0.64
+  address:0.60
+  pgp:0.60
+  code:0.57
+  pip:0.21
+  basically:0.21
+  big:0.21
+  bad:0.21
+  fuck:0.21
+
+Topic 3:
+  tracking:0.98
+  sending:0.70
+  pgp:0.64
+  address:0.59
+  code:0.54
+  vendor:0.22
+  number:0.22
+  bad:0.22
+  equivalent:0.22
+  fuck:0.22
+
+Topic 4:
+  tracking:1.37
+  code:0.62
+  address:0.61
+  pgp:0.58
+  sending:0.54
+  platform:0.20
+  pack:0.20
+  knowledge:0.20
+  encrypted:0.20
+  portal:0.20
+
+K: 5, Log-Likelihood: -173.525, Alpha: 11.000, Beta: 1.100

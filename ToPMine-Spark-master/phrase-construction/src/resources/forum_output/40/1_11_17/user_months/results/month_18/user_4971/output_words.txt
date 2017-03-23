@@ -1,0 +1,61 @@
+Topic 0:
+  contact:3.83
+  oil:2.85
+  hath:2.77
+  mdma:2.29
+  everafterglow:2.27
+  direct:2.14
+  forum:1.91
+  recommend:1.67
+  hos:1.36
+  dafunkfuzz:1.27
+
+Topic 1:
+  contact:6.17
+  everafterglow:3.08
+  hath:2.76
+  oil:2.69
+  direct:2.58
+  mdma:2.49
+  forum:2.37
+  september:1.99
+  quote:1.90
+  dafunkfuzz:1.82
+
+Topic 2:
+  software:1.29
+  download:1.27
+  guide:1.07
+  read:0.74
+  gpg:0.73
+  human:0.73
+  website:0.73
+  win:0.71
+  won:0.70
+  encrypt:0.69
+
+Topic 3:
+  forum:1.74
+  contact:1.68
+  recommend:1.48
+  everafterglow:1.32
+  hath:1.19
+  oil:1.17
+  direct:1.01
+  mdma:0.93
+  hos:0.76
+  dafunkfuzz:0.68
+
+Topic 4:
+  download:2.53
+  software:2.52
+  guide:1.75
+  encrypt:1.14
+  won:1.13
+  win:1.12
+  website:1.10
+  human:1.10
+  gpg:1.09
+  read:1.09
+
+K: 5, Log-Likelihood: -981.313, Alpha: 11.000, Beta: 1.100

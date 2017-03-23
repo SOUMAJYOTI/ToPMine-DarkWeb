@@ -1,0 +1,61 @@
+Topic 0:
+  version:1.13
+  zaphod:0.86
+  software:0.83
+  running:0.78
+  february:0.61
+  latest:0.61
+  thread:0.60
+  flaws:0.60
+  patches:0.60
+  noticed:0.60
+
+Topic 1:
+  version:1.25
+  running:0.81
+  zaphod:0.78
+  software:0.74
+  thread:0.61
+  smf:0.61
+  agora:0.61
+  number:0.60
+  patches:0.60
+  post:0.60
+
+Topic 2:
+  version:1.27
+  software:0.82
+  running:0.80
+  zaphod:0.75
+  february:0.61
+  patches:0.61
+  number:0.60
+  noticed:0.60
+  security:0.60
+  smf:0.60
+
+Topic 3:
+  version:1.16
+  zaphod:0.82
+  software:0.82
+  running:0.79
+  security:0.62
+  noticed:0.61
+  post:0.61
+  flaws:0.61
+  agora:0.60
+  february:0.60
+
+Topic 4:
+  version:1.19
+  running:0.83
+  zaphod:0.79
+  software:0.79
+  post:0.61
+  security:0.61
+  number:0.61
+  agora:0.61
+  patches:0.61
+  latest:0.61
+
+K: 5, Log-Likelihood: -256.124, Alpha: 11.000, Beta: 1.100

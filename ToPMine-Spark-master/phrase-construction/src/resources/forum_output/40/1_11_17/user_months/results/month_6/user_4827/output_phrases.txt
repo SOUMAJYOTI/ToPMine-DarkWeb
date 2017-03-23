@@ -1,0 +1,61 @@
+Topic 0:
+  pgp key:7.18
+  great:5.00
+  message pgp key:4.85
+  bob:4.66
+  tmg:4.64
+  created:4.64
+  quotefor:2.47
+  prove:2.43
+  shouldn:2.43
+  tread:2.42
+
+Topic 1:
+  drive:3.13
+  works:3.13
+  song:3.13
+  remarkably:3.13
+  bits works:3.13
+  disappear:3.13
+  friends:3.13
+  phrase:3.13
+  pop:3.13
+  attacker:3.13
+
+Topic 2:
+  hard:2.82
+  pgp key:2.43
+  created:1.75
+  tmg:1.75
+  bob:1.73
+  private:1.63
+  message pgp key:1.54
+  great:1.39
+  sr:1.24
+  pretended:0.99
+
+Topic 3:
+  key:22.46
+  cf bc:6.37
+  privacy toolscomment download pip:6.37
+  key xa:6.37
+  highly:3.15
+  version gnupg mingw winpt:3.15
+  sitesquotepub:3.15
+  hash:3.15
+  list:3.15
+  pip public key block:3.15
+
+Topic 4:
+  enigmaticsmile:6.39
+  discussion fancy sending pm:4.06
+  real deal resurrection almighty:4.06
+  february amquote delysid february:4.06
+  don:3.95
+  smart dont true move:3.25
+  february:3.14
+  nym:3.14
+  vendor list:3.14
+  forums removes plausible deniability:3.14
+
+K: 5, Log-Likelihood: -3310.456, Alpha: 11.000, Beta: 1.100

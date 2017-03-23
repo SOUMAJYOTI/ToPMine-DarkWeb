@@ -1,0 +1,26 @@
+Topic 0:
+  vanha:0.20
+  tuolla:0.20
+  keskustelu:0.20
+
+Topic 1:
+  tuolla:0.20
+  keskustelu:0.20
+  vanha:0.20
+
+Topic 2:
+  keskustelu:0.20
+  vanha:0.20
+  tuolla:0.20
+
+Topic 3:
+  tuolla:0.20
+  keskustelu:0.20
+  vanha:0.20
+
+Topic 4:
+  vanha:0.20
+  tuolla:0.20
+  keskustelu:0.20
+
+K: 5, Log-Likelihood: -3.296, Alpha: 11.000, Beta: 1.100

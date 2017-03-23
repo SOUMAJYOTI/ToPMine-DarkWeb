@@ -1,0 +1,61 @@
+Topic 0:
+  drop:0.84
+  package:0.81
+  labels:0.80
+  giftcards:0.77
+  big:0.59
+  stamps:0.59
+  defeats:0.40
+  pmstamps:0.40
+  shipnik:0.40
+  quote:0.40
+
+Topic 1:
+  labels:0.83
+  package:0.81
+  drop:0.77
+  giftcards:0.75
+  big:0.60
+  stamps:0.60
+  customers:0.40
+  dont:0.40
+  feel:0.40
+  save:0.40
+
+Topic 2:
+  drop:0.83
+  giftcards:0.83
+  labels:0.80
+  package:0.80
+  stamps:0.61
+  big:0.61
+  site:0.40
+  customers:0.40
+  defeats:0.40
+  javascript:0.40
+
+Topic 3:
+  giftcards:0.83
+  package:0.80
+  labels:0.76
+  drop:0.73
+  stamps:0.61
+  big:0.60
+  profiled:0.40
+  burn:0.40
+  send:0.40
+  quote:0.40
+
+Topic 4:
+  drop:0.82
+  giftcards:0.82
+  labels:0.80
+  package:0.78
+  big:0.60
+  stamps:0.59
+  florence:0.40
+  tracking:0.40
+  counter:0.40
+  purpose:0.40
+
+K: 5, Log-Likelihood: -382.902, Alpha: 11.000, Beta: 1.100

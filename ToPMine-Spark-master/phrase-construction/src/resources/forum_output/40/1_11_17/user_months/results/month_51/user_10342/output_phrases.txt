@@ -1,0 +1,61 @@
+Topic 0:
+  time:1.59
+  orders:1.46
+  public key block:1.07
+  ai:1.03
+  ox:1.03
+  zx:1.03
+  market office:1.02
+  ic:1.02
+  zj:1.02
+  qdsm:1.02
+
+Topic 1:
+  retire:3.26
+  em:2.16
+  gon:2.16
+  lea:2.16
+  idea:2.16
+  lucky:2.16
+  disappear:1.07
+  days:1.07
+  wall:1.07
+  hacker:1.07
+
+Topic 2:
+  jigsaw:2.14
+  august:2.14
+  puzzle:2.14
+  quote:2.14
+  trait:2.00
+  decision:1.29
+  users accounts:1.29
+  knowing:1.29
+  risk:1.29
+  reality:1.29
+
+Topic 3:
+  time:0.76
+  orders:0.71
+  solution:0.54
+  ox:0.54
+  ic:0.53
+  sb:0.53
+  zx:0.53
+  zj:0.53
+  public key block:0.53
+  ai:0.53
+
+Topic 4:
+  orders:1.91
+  time:1.69
+  fm:1.21
+  resources:1.19
+  advice:1.17
+  sb:1.17
+  pgp key:1.16
+  market office:1.16
+  qdsm:1.15
+  zj:1.15
+
+K: 5, Log-Likelihood: -6049.890, Alpha: 11.000, Beta: 1.100

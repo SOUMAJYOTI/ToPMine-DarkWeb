@@ -1,0 +1,61 @@
+Topic 0:
+  border:4.26
+  guns:3.01
+  legal:2.40
+  portion:1.88
+  walked:1.88
+  hoops:1.88
+  completely:1.88
+  jump:1.88
+  rcmp:1.88
+  north:1.88
+
+Topic 1:
+  times:3.83
+  buy firearm:3.83
+  years:3.83
+  age:3.83
+  sites:3.83
+  boogie:2.63
+  buy gun:2.08
+  dealer:1.89
+  thing:1.89
+  laptop:1.89
+
+Topic 2:
+  paying:3.54
+  site:2.90
+  ship:2.77
+  gun pieces:2.77
+  firearm:1.71
+  pieces buying:1.71
+  guns allowed:1.71
+  ship guns:1.71
+  brain:1.71
+  allowed buying:1.71
+
+Topic 3:
+  links:3.60
+  hell:2.58
+  big:2.58
+  tor:2.28
+  guns:2.15
+  resource:1.86
+  hard:1.86
+  weapon:1.86
+  live:1.86
+  knowing:1.86
+
+Topic 4:
+  ya:3.83
+  find:3.83
+  gun:3.65
+  dont:2.15
+  classifieds:2.14
+  markets:1.94
+  web:1.93
+  ordering:1.89
+  magazines:1.89
+  hate:1.89
+
+K: 5, Log-Likelihood: -2005.412, Alpha: 11.000, Beta: 1.100

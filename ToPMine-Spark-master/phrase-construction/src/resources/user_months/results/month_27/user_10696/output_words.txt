@@ -1,0 +1,61 @@
+Topic 0:
+  ssd:1.08
+  fde:0.84
+  trim:0.58
+  cell:0.41
+  drive:0.41
+  implement:0.41
+  memory:0.41
+  command:0.40
+  secure:0.40
+  wondering:0.40
+
+Topic 1:
+  ssd:1.38
+  fde:0.74
+  trim:0.60
+  encrypted:0.40
+  wondering:0.40
+  flash:0.40
+  cell:0.40
+  implement:0.40
+  memory:0.40
+  secure:0.39
+
+Topic 2:
+  ssd:1.24
+  fde:0.82
+  trim:0.61
+  secure:0.41
+  wondering:0.40
+  memory:0.40
+  command:0.40
+  implement:0.40
+  drive:0.40
+  cell:0.40
+
+Topic 3:
+  ssd:1.25
+  fde:0.82
+  trim:0.61
+  command:0.40
+  memory:0.40
+  cell:0.40
+  implement:0.40
+  drive:0.40
+  secure:0.40
+  wondering:0.40
+
+Topic 4:
+  ssd:1.04
+  fde:0.79
+  trim:0.59
+  flash:0.42
+  encrypted:0.41
+  drive:0.40
+  command:0.40
+  secure:0.40
+  wondering:0.40
+  cell:0.40
+
+K: 5, Log-Likelihood: -363.219, Alpha: 11.000, Beta: 1.100

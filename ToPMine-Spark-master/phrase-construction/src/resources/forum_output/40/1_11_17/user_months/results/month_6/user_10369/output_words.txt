@@ -1,0 +1,61 @@
+Topic 0:
+  sr:11.70
+  april:4.88
+  problems:3.98
+  donkeysausage:3.09
+  amquote:2.99
+  side:2.58
+  quote:2.47
+  evilgrin:2.42
+  good:2.14
+  continue:1.98
+
+Topic 1:
+  agora:6.75
+  silk:4.80
+  users:2.19
+  earn:1.86
+  universal:1.86
+  access:1.86
+  running:1.55
+  work:1.40
+  fuck:1.37
+  urls:1.24
+
+Topic 2:
+  sr:9.57
+  april:8.17
+  changing:7.62
+  quote:7.28
+  arrogant:3.72
+  problems:3.69
+  evilgrin:3.65
+  bazaar:3.39
+  susceptible:3.37
+  exploit:3.37
+
+Topic 3:
+  bug:4.83
+  tor:4.78
+  market:4.73
+  design:3.71
+  server:3.21
+  heartbleed:2.97
+  network:2.94
+  services:2.94
+  hidden:2.94
+  servers:2.94
+
+Topic 4:
+  changed:3.53
+  agora:3.07
+  curls:3.06
+  click:2.23
+  items:2.17
+  changing:2.04
+  quote:1.95
+  stupid:1.52
+  urls:1.48
+  finally:1.44
+
+K: 5, Log-Likelihood: -2867.013, Alpha: 11.000, Beta: 1.100

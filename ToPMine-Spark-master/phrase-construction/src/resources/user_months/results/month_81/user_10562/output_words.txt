@@ -1,0 +1,61 @@
+Topic 0:
+  masternodes:3.43
+  monero:3.34
+  ring:2.91
+  issue:2.85
+  issues:2.79
+  lot:2.70
+  privacy:2.44
+  zkp:2.21
+  shadowcash:2.08
+  money:1.99
+
+Topic 1:
+  dash:2.87
+  monero:2.80
+  bitcoin:2.35
+  coins:1.71
+  darkcoin:1.66
+  btc:1.61
+  cryptonote:1.25
+  easily:1.02
+  exchange:1.00
+  play:0.80
+
+Topic 2:
+  dash:4.71
+  btc:2.85
+  coins:1.93
+  fine:1.89
+  taint:1.87
+  question:1.86
+  learned:1.86
+  monero:1.72
+  tor:1.53
+  exchange:1.52
+
+Topic 3:
+  dash:18.66
+  nodes:10.82
+  tor:9.52
+  july:8.86
+  features:7.79
+  centralized:7.79
+  rebrand:7.78
+  code:7.78
+  base:7.29
+  monero:7.22
+
+Topic 4:
+  masternodes:10.12
+  monero:6.92
+  lot:3.87
+  issues:2.85
+  cryptonote:2.85
+  issue:2.67
+  money:2.66
+  ring:2.65
+  bitcoin:2.63
+  competition:2.47
+
+K: 5, Log-Likelihood: -5760.786, Alpha: 11.000, Beta: 1.100

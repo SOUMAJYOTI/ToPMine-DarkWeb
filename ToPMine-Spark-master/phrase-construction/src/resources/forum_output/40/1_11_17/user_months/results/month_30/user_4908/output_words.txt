@@ -1,0 +1,61 @@
+Topic 0:
+  plugin:9.59
+  accounts:5.46
+  add:3.87
+  pidgin:3.63
+  settings:3.35
+  button:2.40
+  password:2.37
+  tools:2.37
+  tor:2.37
+  manage:2.36
+
+Topic 1:
+  jabber:2.88
+  record:2.82
+  chat:2.25
+  otr:1.36
+  messaging:1.31
+  os:0.99
+  messages:0.98
+  great:0.91
+  response:0.90
+  apps:0.89
+
+Topic 2:
+  plugin:3.07
+  messaging:2.80
+  tor:2.47
+  accounts:1.58
+  pidgin:1.54
+  settings:1.52
+  check:1.22
+  add:1.14
+  default:1.12
+  private:1.09
+
+Topic 3:
+  record:2.63
+  chat:2.55
+  jabber:2.37
+  otr:1.39
+  messages:1.06
+  os:1.06
+  waiting:1.02
+  dealings:1.01
+  luck:1.00
+  day:1.00
+
+Topic 4:
+  messaging:3.15
+  tor:2.00
+  jabber:1.52
+  plugin:1.23
+  set:1.05
+  hxxp:1.03
+  settings:1.01
+  install:0.88
+  add:0.88
+  accounts:0.85
+
+K: 5, Log-Likelihood: -1701.734, Alpha: 11.000, Beta: 1.100

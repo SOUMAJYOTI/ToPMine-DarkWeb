@@ -1,0 +1,61 @@
+Topic 0:
+  helix:1.99
+  march:1.10
+  feel:0.93
+  quote:0.93
+  transaction:0.92
+  wallets:0.90
+  electric:0.85
+  swisscrystal:0.84
+  exchange:0.82
+  personal:0.79
+
+Topic 1:
+  transaction:1.88
+  helix:1.64
+  march:1.18
+  multiply:1.17
+  safe:1.17
+  small:1.16
+  buy:1.16
+  amounts:1.15
+  extra:1.13
+  wallets:1.13
+
+Topic 2:
+  helix:1.65
+  exchange:1.53
+  feel:1.18
+  electrum:1.06
+  question:0.92
+  electric:0.88
+  wallets:0.87
+  market:0.84
+  swisscrystal:0.72
+  quote:0.63
+
+Topic 3:
+  electrum:1.59
+  helix:1.29
+  feel:1.15
+  coins:1.02
+  sending:1.01
+  wallets:0.82
+  exchange:0.79
+  transaction:0.74
+  march:0.68
+  market:0.62
+
+Topic 4:
+  transaction:1.88
+  helix:1.43
+  march:1.41
+  wallets:1.27
+  missing:1.21
+  transactions:1.17
+  kill:1.17
+  rate:1.17
+  light:1.15
+  small:1.14
+
+K: 5, Log-Likelihood: -779.903, Alpha: 11.000, Beta: 1.100

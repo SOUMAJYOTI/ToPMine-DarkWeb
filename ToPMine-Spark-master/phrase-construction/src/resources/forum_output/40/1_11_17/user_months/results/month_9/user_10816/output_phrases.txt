@@ -1,0 +1,61 @@
+Topic 0:
+  people listening:0.45
+  increases:0.45
+  paranoia worry:0.45
+  typing public:0.45
+  holy:0.44
+  shit:0.44
+  entire:0.44
+  thread:0.44
+  paranoia:0.44
+  level:0.44
+
+Topic 1:
+  interesting:0.43
+  paranoia worry:0.41
+  people listening:0.41
+  increases:0.41
+  typing public:0.41
+  ll:0.36
+  level:0.36
+  thread:0.36
+  entire:0.36
+  paranoia:0.36
+
+Topic 2:
+  phone:6.41
+  keystrokes:4.22
+  phones:3.12
+  sound:3.12
+  modern:2.03
+  surveilance:2.03
+  cellphone:2.03
+  vibrations:2.03
+  application:2.03
+  phones pickup:2.03
+
+Topic 3:
+  learning:3.12
+  attack:3.12
+  fewer:2.02
+  figure:2.02
+  random:2.02
+  passwords:2.02
+  typing english:2.02
+  machine:2.02
+  sounds:2.02
+  character:2.02
+
+Topic 4:
+  typing public:0.48
+  increases:0.47
+  paranoia worry:0.47
+  people listening:0.47
+  needn:0.47
+  zaphod:0.47
+  public:0.47
+  defense:0.47
+  pax:0.47
+  powered:0.47
+
+K: 5, Log-Likelihood: -1500.575, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  click:89.81
+  password:79.99
+  volume:59.99
+  file:57.99
+  truecrypt:50.97
+  files:41.99
+  drive:39.99
+  hidden:32.29
+  quote:24.92
+  choose:23.60
+
+Topic 1:
+  escrow:20.33
+  sites:18.05
+  site:17.01
+  feedback:13.96
+  vendor:13.06
+  lot:10.42
+  markets:9.06
+  market:8.29
+  coin:7.40
+  deal:7.38
+
+Topic 2:
+  market:22.90
+  multisig:18.82
+  address:17.59
+  evolution:17.03
+  wallet:16.51
+  multi:11.90
+  sig:10.90
+  quote:10.82
+  boogie:10.26
+  coins:9.58
+
+Topic 3:
+  buyer:11.89
+  staff:10.85
+  security:8.18
+  good:7.87
+  friend:7.63
+  buyers:7.47
+  great:6.88
+  report:5.95
+  stuff:5.88
+  tutorials:5.87
+
+Topic 4:
+  mm:16.99
+  network:15.89
+  mail:14.97
+  browser:11.97
+  country:10.99
+  false:10.21
+  set:10.14
+  sorting:9.99
+  socks:9.97
+  address:8.33
+
+K: 5, Log-Likelihood: -35340.458, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  people:25.64
+  irc:22.85
+  june:22.50
+  identity:21.65
+  real:18.09
+  time:15.83
+  amquote:14.79
+  media:13.04
+  social:12.76
+  chatting:11.85
+
+Topic 1:
+  site:35.92
+  file:27.89
+  message:19.97
+  mccoole:17.97
+  administrator:12.97
+  secret:12.87
+  argos:12.48
+  children:12.31
+  steganography:10.98
+  image:10.98
+
+Topic 2:
+  quote:12.60
+  warrant:9.56
+  zaphod:8.42
+  stego:7.74
+  account:6.63
+  hit:6.09
+  apt:5.71
+  announcing:5.69
+  site:5.69
+  vpn:5.68
+
+Topic 3:
+  party:27.99
+  key:23.03
+  keys:18.97
+  mac:17.99
+  alice:16.99
+  messages:13.72
+  conversation:12.99
+  otr:11.99
+  observing:11.99
+  message:11.78
+
+Topic 4:
+  sites:28.25
+  tor:13.26
+  complaint:8.99
+  operation:6.03
+  seized:5.99
+  real:5.95
+  road:5.48
+  silk:4.99
+  market:4.99
+  fbi:4.89
+
+K: 5, Log-Likelihood: -27041.694, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  post:5.75
+  discussion:1.93
+  agree:1.93
+  figured:1.93
+  entire:1.81
+  thread:1.71
+  marketplace:1.26
+  users:1.14
+  gandalf:1.14
+  july:1.09
+
+Topic 1:
+  site:3.09
+  people:2.77
+  js:1.82
+  yoshi:0.99
+  experience:0.98
+  programmers:0.98
+  java:0.96
+  marketplace:0.96
+  xss:0.89
+  defend:0.88
+
+Topic 2:
+  market:2.38
+  posting:1.87
+  marketplaces:1.64
+  hacks:1.40
+  defend:1.34
+  xss:1.32
+  js:0.99
+  youve:0.99
+  times:0.99
+  entire:0.94
+
+Topic 3:
+  earth:13.72
+  middle:13.18
+  agora:5.92
+  migrate:4.92
+  site:4.81
+  speeds:3.92
+  community:3.92
+  vendors:3.92
+  security:3.20
+  slow:2.92
+
+Topic 4:
+  compromised:6.57
+  server:5.66
+  dpr:3.75
+  js:3.64
+  script:3.52
+  earth:2.98
+  programming:2.98
+  things:2.98
+  freedom:2.71
+  claim:2.71
+
+K: 5, Log-Likelihood: -2654.124, Alpha: 11.000, Beta: 1.100

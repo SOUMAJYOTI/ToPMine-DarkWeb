@@ -1,0 +1,61 @@
+Topic 0:
+  alternative:2.86
+  good:2.57
+  updating:2.20
+  wait:2.06
+  front:1.94
+  quantities:1.93
+  login:1.90
+  bad:1.84
+  compromised:1.83
+  scenes:1.82
+
+Topic 1:
+  cash:3.83
+  amount:3.68
+  trade:3.68
+  scammed:3.68
+  btc:3.62
+  paid:3.53
+  small:2.91
+  true:2.76
+  guy:2.76
+  time:2.76
+
+Topic 2:
+  alternative:4.81
+  good:3.63
+  june:3.43
+  gg:2.62
+  order:2.61
+  connection:2.52
+  sr:2.52
+  ddos:2.48
+  passwords:2.46
+  logic:2.46
+
+Topic 3:
+  good:3.11
+  updating:2.32
+  alternative:2.09
+  wanted:1.73
+  login:1.67
+  nyms:1.64
+  stuff:1.61
+  log:1.59
+  theories:1.57
+  address:1.56
+
+Topic 4:
+  day:5.36
+  lot:3.67
+  paid:3.02
+  paypal:2.40
+  orders:1.70
+  warning:1.70
+  late:1.70
+  pissed:1.70
+  customers:1.70
+  hos:1.70
+
+K: 5, Log-Likelihood: -2625.764, Alpha: 11.000, Beta: 1.100

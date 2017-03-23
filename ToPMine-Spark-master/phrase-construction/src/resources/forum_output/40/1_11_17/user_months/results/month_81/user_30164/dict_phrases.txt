@@ -1,0 +1,45 @@
+isnt,0,2
+country,1,1
+tails regular,2,1
+obfuscating,3,2
+cards,4,1
+buy,5,3
+isp,6,2
+regular internet cable,7,3
+registered,8,1
+main,9,1
+pmi,10,1
+mac,11,1
+concern,12,1
+spoofs,13,1
+number,14,1
+quote,15,1
+sim,16,2
+modem,17,3
+connection,18,2
+cable,19,3
+regular,20,3
+live,21,2
+tambourine,22,1
+hand,23,1
+linked,24,1
+internet cable,25,3
+address,26,1
+question,27,1
+obfuscate,28,2
+ip,29,1
+start,30,1
+hsould,31,1
+imri,32,1
+real,33,1
+bridges,34,2
+buy modem,35,1
+buy card,36,2
+tails,37,3
+spoofed,38,1
+cable tails,39,1
+anonymous,40,1
+regular internet,41,3
+comment,42,2
+internet,43,3
+card,44,4

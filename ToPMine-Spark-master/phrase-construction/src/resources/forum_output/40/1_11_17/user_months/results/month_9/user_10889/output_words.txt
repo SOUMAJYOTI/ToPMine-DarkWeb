@@ -1,0 +1,61 @@
+Topic 0:
+  site:0.82
+  coming:0.40
+  darkness:0.40
+  nation:0.40
+  log:0.40
+  people:0.20
+  clearnet:0.20
+  pgp:0.20
+  onion:0.20
+  quote:0.20
+
+Topic 1:
+  site:0.84
+  log:0.40
+  darkness:0.39
+  coming:0.39
+  nation:0.39
+  zaphod:0.20
+  authorities:0.20
+  sites:0.20
+  marketplace:0.20
+  real:0.20
+
+Topic 2:
+  site:0.76
+  coming:0.41
+  nation:0.41
+  darkness:0.41
+  log:0.41
+  indicators:0.20
+  dude:0.20
+  people:0.20
+  loss:0.20
+  se:0.20
+
+Topic 3:
+  site:0.80
+  log:0.40
+  darkness:0.40
+  coming:0.40
+  nation:0.40
+  numbered:0.20
+  loss:0.20
+  clue:0.20
+  javascript:0.20
+  dude:0.20
+
+Topic 4:
+  site:0.78
+  nation:0.41
+  darkness:0.40
+  log:0.40
+  coming:0.40
+  real:0.20
+  clearnet:0.20
+  key:0.20
+  profile:0.20
+  ill:0.20
+
+K: 5, Log-Likelihood: -155.626, Alpha: 11.000, Beta: 1.100

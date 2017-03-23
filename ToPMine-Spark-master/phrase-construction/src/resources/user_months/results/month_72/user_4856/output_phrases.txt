@@ -1,0 +1,61 @@
+Topic 0:
+  work:9.45
+  things:6.04
+  wanted:5.30
+  worked:5.30
+  friends:4.76
+  time:4.50
+  doesnt:4.46
+  dh:4.36
+  feel:3.47
+  hope:3.02
+
+Topic 1:
+  people:6.34
+  ibogaine:5.81
+  evil shit:5.33
+  years:5.33
+  moment:5.33
+  people junk:5.33
+  predicament:4.34
+  highly:4.34
+  masks:4.34
+  spoken:4.34
+
+Topic 2:
+  today effin sshould variants:7.88
+  bitcoin:7.81
+  black block list terrible:6.85
+  thikalphikal january amthey:6.85
+  bitcoin bitcoin blocklist add:6.85
+  ban:5.88
+  quote:5.68
+  tiresome:4.48
+  message:4.48
+  thread post:4.48
+
+Topic 3:
+  scams:5.29
+  takes:5.26
+  sources:5.25
+  option:5.25
+  bad:4.87
+  garden:4.44
+  understand:3.81
+  dafunkfuzz:2.69
+  english:2.62
+  imagine:2.62
+
+Topic 4:
+  kratom:9.43
+  great:7.68
+  pretty:6.81
+  ibogaine:6.40
+  flood dose:5.87
+  withdrawal symptoms:5.87
+  friend:5.66
+  people:5.31
+  ibogaine work:4.87
+  doses thing:4.48
+
+K: 5, Log-Likelihood: -7395.813, Alpha: 11.000, Beta: 1.100

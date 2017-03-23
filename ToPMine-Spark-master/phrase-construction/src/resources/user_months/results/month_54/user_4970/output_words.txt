@@ -1,0 +1,61 @@
+Topic 0:
+  site:4.78
+  middle:2.03
+  earth:1.87
+  huge:1.34
+  dhl:1.33
+  running:1.33
+  abram:1.33
+  fuck:1.33
+  require:1.33
+  lot:1.33
+
+Topic 1:
+  vendor:9.18
+  escrow:7.52
+  impossible:6.40
+  system:6.40
+  order:6.05
+  market:5.96
+  staff:5.76
+  vendors:5.65
+  buyer:4.46
+  accessed:4.35
+
+Topic 2:
+  link:8.73
+  love:7.66
+  referred:5.55
+  avengers:4.48
+  bitcoins:2.91
+  buyers:2.26
+  sites:1.83
+  invite:1.83
+  sellers:1.83
+  drug:1.83
+
+Topic 3:
+  market:5.78
+  escrow:4.23
+  site:4.02
+  vendors:3.41
+  vendor:3.37
+  link:3.31
+  system:3.05
+  staff:2.99
+  order:2.70
+  buyers:2.54
+
+Topic 4:
+  earth:4.92
+  middle:4.76
+  site:2.87
+  thumbs:2.15
+  gob:2.12
+  quote:1.50
+  atm:1.50
+  good:1.49
+  stay:1.49
+  abraxas:1.49
+
+K: 5, Log-Likelihood: -2528.377, Alpha: 11.000, Beta: 1.100

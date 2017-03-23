@@ -1,0 +1,61 @@
+Topic 0:
+  december:0.40
+  scams:0.28
+  find legit people:0.28
+  darknet card electronics:0.28
+  fatherted:0.27
+  amyou:0.27
+  burger:0.27
+  quote:0.27
+  ergh:0.27
+  whip:0.27
+
+Topic 1:
+  december:0.39
+  scams:0.29
+  darknet card electronics:0.27
+  find legit people:0.27
+  quote:0.27
+  teddington:0.27
+  ergh:0.27
+  burger:0.27
+  fatherted:0.27
+  whip:0.27
+
+Topic 2:
+  december:0.44
+  fatherted:0.29
+  teddington:0.29
+  hungrycould:0.29
+  burger:0.29
+  whip:0.29
+  amyou:0.29
+  ergh:0.29
+  quote:0.28
+  darknet card electronics:0.28
+
+Topic 3:
+  december:0.44
+  hungrycould:0.29
+  ergh:0.29
+  quote:0.29
+  whip:0.29
+  amyou:0.29
+  teddington:0.29
+  burger:0.29
+  fatherted:0.29
+  find legit people:0.28
+
+Topic 4:
+  december:0.40
+  scams:0.28
+  find legit people:0.28
+  darknet card electronics:0.28
+  whip:0.27
+  amyou:0.27
+  fatherted:0.27
+  quote:0.27
+  hungrycould:0.27
+  ergh:0.27
+
+K: 5, Log-Likelihood: -176.033, Alpha: 11.000, Beta: 1.100

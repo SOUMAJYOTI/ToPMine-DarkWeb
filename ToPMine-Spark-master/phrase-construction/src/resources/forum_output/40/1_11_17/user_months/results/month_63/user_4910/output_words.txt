@@ -1,0 +1,61 @@
+Topic 0:
+  love:1.90
+  avengers:1.43
+  links:0.92
+  vendor:0.89
+  vendors:0.65
+  forums:0.63
+  link:0.63
+  account:0.63
+  community:0.43
+  list:0.43
+
+Topic 1:
+  love:0.85
+  avengers:0.82
+  dream:0.77
+  st:0.77
+  itcurrently:0.76
+  tmgcheers:0.76
+  vendor:0.57
+  links:0.57
+  vendors:0.47
+  link:0.46
+
+Topic 2:
+  avengers:1.25
+  love:1.07
+  vendor:0.76
+  links:0.75
+  link:0.60
+  forums:0.56
+  vendors:0.55
+  account:0.55
+  tmgcheers:0.43
+  itcurrently:0.43
+
+Topic 3:
+  love:2.59
+  avengers:1.31
+  vendor:0.91
+  links:0.91
+  account:0.69
+  vendors:0.68
+  link:0.68
+  forums:0.66
+  community:0.44
+  send:0.44
+
+Topic 4:
+  love:2.58
+  avengers:1.18
+  vendor:0.86
+  links:0.86
+  account:0.68
+  forums:0.68
+  vendors:0.64
+  link:0.62
+  buyers:0.43
+  marketplace:0.43
+
+K: 5, Log-Likelihood: -547.374, Alpha: 11.000, Beta: 1.100

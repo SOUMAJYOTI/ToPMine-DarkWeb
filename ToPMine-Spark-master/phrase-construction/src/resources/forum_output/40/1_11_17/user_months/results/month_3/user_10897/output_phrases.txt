@@ -1,0 +1,61 @@
+Topic 0:
+  gpa:0.79
+  youself:0.79
+  easier:0.79
+  gog:0.79
+  favor:0.78
+  usb:0.78
+  mate:0.78
+  messege:0.74
+  quote:0.58
+  pmdo:0.58
+
+Topic 1:
+  public key:1.03
+  ht:0.88
+  message:0.65
+  rf:0.60
+  block:0.60
+  aqhw:0.59
+  kbl:0.58
+  mingw:0.32
+  wz:0.32
+  wqc:0.32
+
+Topic 2:
+  key:4.92
+  keys:2.43
+  encrusted message:2.43
+  address:2.40
+  messege:1.60
+  clipboard:1.18
+  sign:1.18
+  owner:1.18
+  underneath:1.18
+  send:1.18
+
+Topic 3:
+  public key:3.39
+  ht:1.64
+  kbl:1.04
+  aqhw:1.01
+  block:0.98
+  rf:0.97
+  message:0.95
+  bwuhnysxos:0.43
+  qdkdxvk:0.43
+  tfp:0.43
+
+Topic 4:
+  public key:1.61
+  ht:1.03
+  rf:0.75
+  block:0.73
+  message:0.71
+  aqhw:0.71
+  kbl:0.70
+  sy:0.36
+  adqz:0.36
+  ymtv:0.36
+
+K: 5, Log-Likelihood: -3226.585, Alpha: 11.000, Beta: 1.100

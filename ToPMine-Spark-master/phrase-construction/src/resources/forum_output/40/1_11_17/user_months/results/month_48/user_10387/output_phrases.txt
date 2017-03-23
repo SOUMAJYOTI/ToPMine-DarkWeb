@@ -1,0 +1,61 @@
+Topic 0:
+  april:0.17
+  running:0.14
+  vixty:0.14
+  fall:0.14
+  access:0.14
+  amquote:0.14
+  chat:0.14
+  network:0.14
+  completely:0.14
+  yeah:0.14
+
+Topic 1:
+  april:0.17
+  amquote:0.14
+  tor:0.14
+  security:0.14
+  access:0.14
+  fall:0.14
+  network:0.14
+  evolution:0.14
+  vixty:0.14
+  yeah:0.14
+
+Topic 2:
+  april:0.17
+  yeah:0.14
+  device:0.14
+  tor:0.14
+  money:0.14
+  chat:0.14
+  security:0.14
+  dnms:0.14
+  shut:0.14
+  freedom:0.14
+
+Topic 3:
+  april:0.17
+  kasier:0.14
+  sose:0.14
+  matter:0.14
+  freedom:0.14
+  shut:0.14
+  money:0.14
+  dnms:0.14
+  chat:0.14
+  evolution:0.14
+
+Topic 4:
+  april:0.17
+  money:0.14
+  dnms:0.14
+  shut:0.14
+  sose:0.14
+  matter:0.14
+  kasier:0.14
+  freedom:0.14
+  completely:0.14
+  device:0.14
+
+K: 5, Log-Likelihood: -52.244, Alpha: 11.000, Beta: 1.100

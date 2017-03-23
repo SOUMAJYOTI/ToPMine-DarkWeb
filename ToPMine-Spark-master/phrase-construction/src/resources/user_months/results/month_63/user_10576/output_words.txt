@@ -1,0 +1,61 @@
+Topic 0:
+  bp:0.85
+  price:0.67
+  download:0.61
+  elegant:0.56
+  reports:0.53
+  named:0.51
+  registration:0.51
+  hosting:0.51
+  expensive:0.40
+  server:0.40
+
+Topic 1:
+  reports:0.63
+  elegant:0.61
+  download:0.61
+  price:0.56
+  bp:0.50
+  onion:0.49
+  site:0.48
+  pdf:0.48
+  ec:0.40
+  gun:0.40
+
+Topic 2:
+  download:0.64
+  elegant:0.60
+  reports:0.59
+  price:0.55
+  onion:0.54
+  site:0.54
+  pdf:0.54
+  bp:0.48
+  euros:0.39
+  lab:0.39
+
+Topic 3:
+  bp:0.66
+  price:0.65
+  elegant:0.62
+  reports:0.61
+  download:0.56
+  named:0.44
+  hosting:0.43
+  registration:0.43
+  ordering:0.42
+  terrible:0.42
+
+Topic 4:
+  reports:0.65
+  elegant:0.61
+  download:0.59
+  price:0.56
+  bp:0.51
+  pdf:0.42
+  site:0.42
+  onion:0.42
+  disappeared:0.41
+  smoking:0.41
+
+K: 5, Log-Likelihood: -563.054, Alpha: 11.000, Beta: 1.100

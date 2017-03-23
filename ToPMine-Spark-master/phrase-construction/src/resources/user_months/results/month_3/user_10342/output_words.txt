@@ -1,0 +1,61 @@
+Topic 0:
+  list:1.91
+  markets:1.47
+  sites:1.38
+  quote:1.16
+  dated:1.15
+  access:0.98
+  time:0.92
+  deepdotweb:0.92
+  march:0.92
+  tor:0.81
+
+Topic 1:
+  markets:2.29
+  list:2.27
+  sites:1.30
+  rated:1.25
+  dated:1.16
+  quote:1.07
+  deepdotweb:0.92
+  access:0.87
+  time:0.86
+  top:0.86
+
+Topic 2:
+  list:1.61
+  quote:1.35
+  markets:1.21
+  deepdotweb:1.16
+  access:1.11
+  time:1.11
+  march:1.10
+  rated:1.05
+  dated:1.04
+  tor:0.94
+
+Topic 3:
+  list:2.54
+  markets:1.92
+  dated:1.58
+  quote:1.34
+  march:1.14
+  time:1.04
+  access:0.96
+  deepdotweb:0.94
+  rated:0.85
+  tor:0.84
+
+Topic 4:
+  uri:17.91
+  forum:11.39
+  market:10.66
+  url:5.30
+  marketplace:4.36
+  forums:2.55
+  developed:1.91
+  shops:1.47
+  bad:1.32
+  road:1.26
+
+K: 5, Log-Likelihood: -1645.035, Alpha: 11.000, Beta: 1.100

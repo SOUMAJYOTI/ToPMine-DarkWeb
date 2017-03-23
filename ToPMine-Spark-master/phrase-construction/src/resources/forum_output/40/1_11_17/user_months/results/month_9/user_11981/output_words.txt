@@ -1,0 +1,61 @@
+Topic 0:
+  agora:5.88
+  account:3.25
+  posts:3.05
+  discussion:2.05
+  forums:2.01
+  blocked:1.84
+  newbie:1.78
+  pm:1.74
+  goosehash:1.21
+  threads:1.21
+
+Topic 1:
+  market:5.18
+  agora:4.98
+  covering:3.95
+  dont:2.64
+  accused:2.34
+  single:2.28
+  merging:2.27
+  june:2.26
+  stay:2.22
+  telling:2.22
+
+Topic 2:
+  account:6.24
+  agora:3.81
+  blocked:3.11
+  contact:2.99
+  support:2.21
+  stole:2.15
+  notice:1.70
+  coin:1.68
+  posts:1.44
+  pm:1.19
+
+Topic 3:
+  agora:4.18
+  hub:2.95
+  covering:2.83
+  market:2.60
+  sr:2.56
+  june:2.55
+  dont:2.16
+  pro:2.16
+  hic:2.11
+  deleting:1.65
+
+Topic 4:
+  account:7.39
+  days:4.52
+  admin:3.35
+  agora:3.14
+  forum:3.14
+  time:2.91
+  word:2.69
+  bad:2.19
+  feedback:2.00
+  blocked:1.92
+
+K: 5, Log-Likelihood: -1875.773, Alpha: 11.000, Beta: 1.100

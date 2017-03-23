@@ -1,0 +1,61 @@
+Topic 0:
+  friends:0.14
+  starting:0.14
+  shout:0.14
+  happen:0.14
+  hub:0.14
+  checking:0.14
+  scammers:0.14
+  faster:0.14
+  doctashwartzipushthekushkarmacorpseatbeltmanxandermanreturnsif:0.14
+  buy:0.14
+
+Topic 1:
+  working:0.14
+  moment:0.14
+  pink:0.14
+  btw:0.14
+  forum:0.14
+  list:0.14
+  add:0.14
+  buy:0.14
+  evolution:0.14
+  unstable:0.14
+
+Topic 2:
+  scammers:0.14
+  find:0.14
+  evol:0.14
+  faster:0.14
+  evolution:0.14
+  unstable:0.14
+  moving:0.14
+  starting:0.14
+  deal:0.14
+  buy:0.14
+
+Topic 3:
+  checking:0.14
+  happen:0.14
+  friends:0.14
+  shout:0.14
+  doctashwartzipushthekushkarmacorpseatbeltmanxandermanreturnsif:0.14
+  hub:0.14
+  moment:0.14
+  pink:0.14
+  add:0.14
+  list:0.14
+
+Topic 4:
+  add:0.14
+  forum:0.14
+  list:0.14
+  working:0.14
+  btw:0.14
+  pink:0.14
+  moment:0.14
+  unstable:0.14
+  find:0.14
+  evol:0.14
+
+K: 5, Log-Likelihood: -55.005, Alpha: 11.000, Beta: 1.100

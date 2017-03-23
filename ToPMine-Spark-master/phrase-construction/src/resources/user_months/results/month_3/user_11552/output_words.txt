@@ -1,0 +1,61 @@
+Topic 0:
+  markets:1.13
+  vendor:0.70
+  january:0.60
+  quote:0.60
+  whitest:0.50
+  candy:0.50
+  soothes:0.50
+  rotting:0.50
+  blowwhich:0.50
+  purest:0.50
+
+Topic 1:
+  markets:1.05
+  vendor:0.73
+  january:0.57
+  quote:0.56
+  good:0.52
+  souloh:0.48
+  knowwhich:0.48
+  lo:0.48
+  winter:0.48
+  sky:0.48
+
+Topic 2:
+  markets:0.79
+  january:0.62
+  quote:0.61
+  vendor:0.61
+  good:0.57
+  blow:0.52
+  great:0.42
+  poem:0.42
+  hey:0.41
+  whitest:0.41
+
+Topic 3:
+  blow:0.86
+  good:0.73
+  quote:0.64
+  january:0.62
+  connections:0.52
+  comment:0.52
+  quality:0.52
+  affordable:0.52
+  markets:0.52
+  order:0.51
+
+Topic 4:
+  blow:0.75
+  good:0.69
+  quote:0.59
+  january:0.58
+  markets:0.52
+  vendor:0.50
+  quality:0.47
+  order:0.47
+  cocaine:0.47
+  connections:0.47
+
+K: 5, Log-Likelihood: -504.751, Alpha: 11.000, Beta: 1.100

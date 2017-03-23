@@ -1,0 +1,61 @@
+Topic 0:
+  opsec:0.00
+  small:0.00
+  elaborate:0.00
+  acceptable:0.00
+  mixing:0.00
+  scale:0.00
+  wigs:0.00
+  mixed:0.00
+  blond:0.00
+  matter:0.00
+
+Topic 1:
+  opsec:0.00
+  small:0.00
+  elaborate:0.00
+  acceptable:0.00
+  mixing:0.00
+  scale:0.00
+  wigs:0.00
+  mixed:0.00
+  blond:0.00
+  matter:0.00
+
+Topic 2:
+  opsec:0.00
+  small:0.00
+  elaborate:0.00
+  acceptable:0.00
+  mixing:0.00
+  scale:0.00
+  wigs:0.00
+  mixed:0.00
+  blond:0.00
+  matter:0.00
+
+Topic 3:
+  opsec:0.00
+  small:0.00
+  elaborate:0.00
+  acceptable:0.00
+  mixing:0.00
+  scale:0.00
+  wigs:0.00
+  mixed:0.00
+  blond:0.00
+  matter:0.00
+
+Topic 4:
+  opsec:0.00
+  small:0.00
+  elaborate:0.00
+  acceptable:0.00
+  mixing:0.00
+  scale:0.00
+  wigs:0.00
+  mixed:0.00
+  blond:0.00
+  matter:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

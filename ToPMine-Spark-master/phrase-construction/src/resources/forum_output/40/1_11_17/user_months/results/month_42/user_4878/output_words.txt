@@ -1,0 +1,61 @@
+Topic 0:
+  agora:11.97
+  vendors:6.14
+  real:5.18
+  people:5.11
+  deposit:4.28
+  open:3.81
+  market:3.69
+  thing:3.49
+  scidmt:2.83
+  logged:2.68
+
+Topic 1:
+  agora:17.16
+  hope:15.20
+  account:11.90
+  order:9.54
+  deposits:9.49
+  deposit:7.90
+  sit:7.90
+  respond:7.90
+  messages:7.89
+  btc:7.73
+
+Topic 2:
+  friends:22.86
+  dont:15.82
+  don:12.68
+  buy:11.91
+  amount:11.90
+  bud:11.90
+  close:10.65
+  unit:8.64
+  sense:8.24
+  vendor:7.99
+
+Topic 3:
+  luck:13.64
+  time:12.14
+  bit:7.90
+  wait:7.90
+  days:5.17
+  fuck:4.66
+  comfortable:4.49
+  easily:4.47
+  bad:4.13
+  dnm:4.00
+
+Topic 4:
+  money:25.39
+  dnm:10.38
+  close:7.23
+  transaction:5.81
+  things:4.96
+  trust:4.79
+  life:4.73
+  dealers:4.70
+  people:4.36
+  real:4.26
+
+K: 5, Log-Likelihood: -8801.517, Alpha: 11.000, Beta: 1.100

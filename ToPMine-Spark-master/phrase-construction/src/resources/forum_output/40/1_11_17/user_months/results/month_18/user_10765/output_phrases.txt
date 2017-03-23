@@ -1,0 +1,61 @@
+Topic 0:
+  hotspots:0.40
+  free wi fi:0.40
+  wi fi:0.40
+  connection:0.32
+  ars technica:0.24
+  users:0.24
+  report:0.24
+  networks:0.16
+  network:0.16
+  email:0.16
+
+Topic 1:
+  free wi fi:0.41
+  hotspots:0.41
+  wi fi:0.40
+  connection:0.32
+  ars technica:0.24
+  report:0.24
+  users:0.24
+  fake:0.16
+  networks:0.16
+  europe:0.16
+
+Topic 2:
+  free wi fi:0.41
+  wi fi:0.41
+  hotspots:0.40
+  connection:0.32
+  report:0.24
+  ars technica:0.24
+  users:0.24
+  describes:0.16
+  email:0.16
+  phones:0.16
+
+Topic 3:
+  hotspots:0.41
+  free wi fi:0.41
+  wi fi:0.41
+  connection:0.33
+  users:0.24
+  report:0.24
+  ars technica:0.24
+  advantage:0.16
+  smartphones:0.16
+  connections:0.16
+
+Topic 4:
+  wi fi:0.41
+  hotspots:0.40
+  free wi fi:0.40
+  connection:0.32
+  users:0.24
+  ars technica:0.24
+  report:0.24
+  xfinity:0.16
+  fake:0.16
+  europe:0.16
+
+K: 5, Log-Likelihood: -484.479, Alpha: 11.000, Beta: 1.100

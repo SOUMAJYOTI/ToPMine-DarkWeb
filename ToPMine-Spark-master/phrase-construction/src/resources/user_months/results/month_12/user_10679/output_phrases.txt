@@ -1,0 +1,61 @@
+Topic 0:
+  customers:19.61
+  negative feedback:19.61
+  great:18.99
+  buyer:17.16
+  quote:16.84
+  june:15.62
+  vendor:14.69
+  evolution:14.45
+  tutorial:13.99
+  people:13.39
+
+Topic 1:
+  click:69.44
+  select:45.07
+  enter:39.22
+  start:38.68
+  window:35.30
+  window select:35.30
+  press enter:35.30
+  system:33.71
+  tor:32.63
+  whonix desktop:31.37
+
+Topic 2:
+  hidden volume:56.26
+  truecrypt:35.48
+  drive letter:35.16
+  selected:35.16
+  outer volume:35.16
+  click:32.74
+  file:31.69
+  random txt:28.13
+  password:25.85
+  hard disk:21.10
+
+Topic 3:
+  mail:30.36
+  mm mm:23.53
+  mm:19.61
+  country:17.60
+  bleach:15.69
+  manually sorted:15.69
+  ensure:15.69
+  boogie:13.70
+  automatic sorting machine:11.76
+  drug detection dog:11.76
+
+Topic 4:
+  mac address:28.10
+  browser:24.99
+  site:21.75
+  enabled false:21.09
+  deep web:15.68
+  escrow:15.51
+  feel free:15.47
+  network network:14.06
+  false network protocol handler:14.06
+  tools options privacy:14.06
+
+K: 5, Log-Likelihood: -174735.702, Alpha: 11.000, Beta: 1.100

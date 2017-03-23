@@ -1,0 +1,61 @@
+Topic 0:
+  email:0.59
+  guide:0.42
+  check:0.42
+  providers:0.41
+  thread:0.41
+  read:0.40
+  time:0.39
+  mentioned:0.39
+  safe:0.38
+  bud:0.20
+
+Topic 1:
+  email:0.58
+  safe:0.45
+  mentioned:0.41
+  check:0.39
+  guide:0.39
+  read:0.38
+  providers:0.38
+  thread:0.38
+  time:0.37
+  gratefully:0.21
+
+Topic 2:
+  email:0.62
+  time:0.45
+  providers:0.42
+  read:0.42
+  thread:0.42
+  mentioned:0.41
+  guide:0.39
+  check:0.39
+  safe:0.37
+  change:0.21
+
+Topic 3:
+  email:0.60
+  guide:0.40
+  check:0.40
+  time:0.40
+  thread:0.40
+  providers:0.40
+  read:0.40
+  mentioned:0.40
+  safe:0.40
+  nail:0.20
+
+Topic 4:
+  email:0.60
+  safe:0.40
+  check:0.40
+  thread:0.40
+  guide:0.40
+  read:0.40
+  providers:0.40
+  mentioned:0.40
+  time:0.39
+  suggestions:0.20
+
+K: 5, Log-Likelihood: -186.354, Alpha: 11.000, Beta: 1.100

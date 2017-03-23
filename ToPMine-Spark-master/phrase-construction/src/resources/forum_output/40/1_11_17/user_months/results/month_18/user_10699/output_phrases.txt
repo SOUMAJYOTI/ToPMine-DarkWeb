@@ -1,0 +1,61 @@
+Topic 0:
+  tor:2.78
+  check:2.66
+  startpage:1.53
+  blahuse:1.28
+  org:1.28
+  turn:1.28
+  boxes:1.28
+  false:1.28
+  tor delete:1.28
+  torproject:1.28
+
+Topic 1:
+  mbr:2.67
+  ccleaner:1.39
+  rebuilding:1.29
+  fresh:1.29
+  survive:1.29
+  data:1.29
+  identify:1.29
+  experienced:1.29
+  tdsskiller:1.29
+  boot:1.29
+
+Topic 2:
+  tor:1.57
+  tails:1.18
+  read:1.14
+  movies:1.13
+  tv:1.13
+  usb:1.10
+  born:1.09
+  computer:1.03
+  sites:1.02
+  googled:1.01
+
+Topic 3:
+  tor:2.40
+  time:1.74
+  didnt:1.71
+  downloaded:1.70
+  googled:1.68
+  sites:1.67
+  computer:1.66
+  born:1.60
+  usb:1.60
+  tv:1.56
+
+Topic 4:
+  buying:2.61
+  lothe:1.49
+  lazy:1.49
+  karma:1.49
+  inform:1.49
+  fo:1.49
+  spec:1.49
+  atop:1.23
+  imagined:1.23
+  cash:1.23
+
+K: 5, Log-Likelihood: -1275.615, Alpha: 11.000, Beta: 1.100

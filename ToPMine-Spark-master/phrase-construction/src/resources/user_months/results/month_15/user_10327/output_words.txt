@@ -1,0 +1,61 @@
+Topic 0:
+  computer:7.70
+  switch:6.88
+  le:6.19
+  prevent:5.63
+  screen:4.93
+  lock:4.54
+  dont:4.37
+  foot:4.28
+  hands:3.86
+  memory:3.86
+
+Topic 1:
+  switch:9.38
+  foot:6.12
+  laptop:5.35
+  time:4.40
+  charger:3.89
+  move:3.56
+  battery:3.25
+  takes:2.92
+  power:2.40
+  sofa:1.92
+
+Topic 2:
+  idea:6.13
+  remove:3.16
+  plug:3.12
+  time:2.97
+  battery:2.27
+  mouse:1.74
+  good:1.74
+  switch:1.34
+  case:1.26
+  lost:1.26
+
+Topic 3:
+  earthquake:5.69
+  connection:3.87
+  data:3.19
+  seconds:3.11
+  july:2.92
+  case:2.15
+  quote:2.04
+  possibility:2.00
+  sensor:2.00
+  problem:1.93
+
+Topic 4:
+  machine:7.91
+  phone:6.62
+  device:3.95
+  le:3.56
+  data:3.40
+  disk:3.31
+  packets:2.95
+  bust:2.95
+  encryption:2.45
+  script:2.33
+
+K: 5, Log-Likelihood: -3255.062, Alpha: 11.000, Beta: 1.100

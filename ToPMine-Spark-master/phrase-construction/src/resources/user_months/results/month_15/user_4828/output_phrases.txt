@@ -1,0 +1,61 @@
+Topic 0:
+  center:0.55
+  party:0.55
+  trade:0.55
+  bmr:0.55
+  money:0.55
+  trusted vendor:0.55
+  mpak:0.55
+  hope:0.55
+  highly:0.55
+  protect:0.55
+
+Topic 1:
+  addresses:1.02
+  pgp:0.48
+  verify:0.48
+  commerce:0.48
+  deterministic wallet:0.48
+  signed:0.48
+  script:0.48
+  onionshop:0.48
+  manually:0.48
+  working:0.47
+
+Topic 2:
+  didnt:2.12
+  lbc:2.12
+  mp:1.00
+  method buy:1.00
+  head:1.00
+  seller:1.00
+  buy:1.00
+  quote:1.00
+  minutes:1.00
+  times:1.00
+
+Topic 3:
+  crack:2.25
+  electrum mpk:2.24
+  key:2.23
+  private:2.23
+  shouldnt:1.02
+  library:1.02
+  entire:1.02
+  helpful:1.02
+  wallet:1.02
+  produces:1.02
+
+Topic 4:
+  addresses:1.01
+  verify:0.63
+  onionshop:0.63
+  manually:0.62
+  signed:0.62
+  commerce:0.62
+  script:0.62
+  deterministic wallet:0.62
+  pgp:0.62
+  create:0.45
+
+K: 5, Log-Likelihood: -953.139, Alpha: 11.000, Beta: 1.100

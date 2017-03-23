@@ -1,0 +1,61 @@
+Topic 0:
+  pit:3.13
+  tai:3.13
+  random:3.13
+  mit:2.45
+  vaikea:1.52
+  luovuttaa:1.52
+  ellei:1.52
+  suoraan:1.52
+  edullinen:1.52
+  siirtyy:1.52
+
+Topic 1:
+  ensin:1.51
+  turvalliselle:1.51
+  turvallisin:1.51
+  suojautunut:1.51
+  josta:1.51
+  mik:1.51
+  kolikoit:1.51
+  mikseriin:1.51
+  tie:1.51
+  meneek:1.51
+
+Topic 2:
+  en:3.08
+  ja:2.20
+  ei:1.94
+  liikett:1.58
+  kiinni:1.58
+  kiiinni:1.58
+  kuumotella:1.58
+  jokaista:1.58
+  menee:1.58
+  mukaan:1.52
+
+Topic 3:
+  helposti:1.49
+  tuo:1.32
+  nain:1.30
+  kautta:1.25
+  jos:1.24
+  systeemin:1.24
+  seurattavat:1.24
+  maksamaan:1.24
+  hint:1.24
+  tiskille:1.23
+
+Topic 4:
+  se:1.26
+  tuo:0.87
+  automaattia:0.87
+  kisit:0.86
+  hell:0.86
+  ll:0.86
+  ostaminen:0.86
+  omalta:0.85
+  riski:0.85
+  till:0.85
+
+K: 5, Log-Likelihood: -1722.597, Alpha: 11.000, Beta: 1.100

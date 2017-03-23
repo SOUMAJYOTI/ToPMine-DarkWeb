@@ -1,0 +1,61 @@
+Topic 0:
+  read good:2.92
+  fed:2.92
+  fish:2.92
+  man:2.45
+  search:1.55
+  find:1.55
+  intel:1.42
+  happily:1.42
+  things:1.42
+  case:1.42
+
+Topic 1:
+  matthew:1.42
+  pmwhat:1.42
+  ian:1.42
+  jansen:1.42
+  danezis:1.42
+  syverson:1.42
+  schneier:1.42
+  bernstein:1.42
+  goldberg:1.42
+  roger:1.42
+
+Topic 2:
+  guide:2.91
+  read:2.87
+  interest:1.85
+  covers:1.41
+  start:1.41
+  dont:1.41
+  reads:1.41
+  onion:1.41
+  learn security:1.41
+  havent:1.41
+
+Topic 3:
+  agora:2.90
+  hacking:1.79
+  check:1.74
+  security:1.72
+  helpful:1.54
+  technical:1.40
+  pretty computer:1.40
+  lifting:1.40
+  drive:1.40
+  pretty good:1.40
+
+Topic 4:
+  install:2.87
+  google:2.87
+  beverage:1.37
+  unsearchable:1.37
+  baiscs:1.37
+  encryption:1.37
+  pip:1.37
+  program:1.37
+  alchohol:1.37
+  appletini:1.37
+
+K: 5, Log-Likelihood: -1374.163, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  converting:2.51
+  biggest:2.51
+  luxury:2.51
+  cz:2.51
+  launder:2.51
+  fake:2.51
+  exit:2.51
+  archiv:2.51
+  stolen money:2.51
+  scam:2.51
+
+Topic 1:
+  served:2.42
+  verto:2.42
+  earlier:2.42
+  yea:2.42
+  people:2.42
+  article:2.42
+  hand:2.42
+  nimble:2.42
+  pains:2.42
+  incident:2.42
+
+Topic 2:
+  ji ikovsk:6.99
+  marketplace tom hacker stole:5.62
+  real estate:4.50
+  bitcoins:4.36
+  house:3.24
+  details sheep marketplace scam:2.75
+  hn short news hospod:2.75
+  currecy damage operators marketplace:2.75
+  thought error system:2.75
+  catch red area investigated:2.75
+
+Topic 3:
+  money:1.85
+  bitcoins laundered millions abroad:0.93
+  today buy:0.88
+  drug selling people:0.88
+  role stealing money:0.88
+  allowed called webhosting meaning:0.87
+  money big paragraph:0.87
+  marketplace called legalization procceeds:0.87
+  expert fruit production:0.86
+  yeat professor works renowned:0.86
+
+Topic 4:
+  spin:0.53
+  mind:0.53
+  melt:0.53
+  hours:0.53
+  face:0.53
+  tab:0.53
+  logik:0.52
+  money:0.30
+  sheep marketplace:0.16
+  ji ikovsk:0.13
+
+K: 5, Log-Likelihood: -4374.042, Alpha: 11.000, Beta: 1.100

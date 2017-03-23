@@ -1,0 +1,61 @@
+Topic 0:
+  bitmessage:21.94
+  email:10.53
+  address:9.91
+  sending:8.58
+  web:7.91
+  messages:7.70
+  private:6.59
+  audit:6.48
+  keys:6.29
+  team:5.91
+
+Topic 1:
+  encryption:4.21
+  system:3.74
+  bitmessage:3.72
+  completely:3.56
+  users:2.86
+  pgp:2.82
+  things:2.43
+  agree:2.33
+  quote:2.14
+  march:1.94
+
+Topic 2:
+  march:10.63
+  people:10.40
+  quote:6.87
+  axolotl:5.72
+  feeble:4.16
+  works:3.83
+  privacy:3.79
+  axa:3.26
+  pmbefore:3.23
+  resource:3.17
+
+Topic 3:
+  bitmessage:16.84
+  good:3.48
+  pgp:2.78
+  client:2.50
+  email:2.48
+  true:2.45
+  messages:2.26
+  security:2.09
+  send:2.08
+  encrypted:2.07
+
+Topic 4:
+  bitmessage:15.75
+  messages:9.33
+  bitcoin:7.75
+  security:7.55
+  march:6.61
+  quote:5.75
+  pgp:5.39
+  feeble:4.97
+  analysis:4.70
+  hog:4.46
+
+K: 5, Log-Likelihood: -5766.309, Alpha: 11.000, Beta: 1.100

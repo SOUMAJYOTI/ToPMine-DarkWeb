@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.62
+  abraxas:0.58
+  guess:0.46
+  love:0.40
+  good:0.38
+  visited:0.38
+  markets:0.38
+  concerned:0.38
+  friendly:0.38
+  big:0.38
+
+Topic 1:
+  market:0.60
+  abraxas:0.59
+  guess:0.42
+  love:0.39
+  markets:0.39
+  weird:0.39
+  terms:0.39
+  carding:0.39
+  perspective:0.39
+  usability:0.39
+
+Topic 2:
+  abraxas:0.61
+  market:0.60
+  weird:0.42
+  minutiae:0.41
+  user:0.41
+  vendor:0.41
+  concerned:0.41
+  big:0.41
+  visited:0.41
+  carding:0.41
+
+Topic 3:
+  abraxas:0.59
+  market:0.59
+  carding:0.42
+  dream:0.42
+  operation:0.41
+  minutiae:0.41
+  usability:0.41
+  friendly:0.41
+  good:0.41
+  user:0.41
+
+Topic 4:
+  abraxas:0.62
+  market:0.58
+  perspective:0.41
+  vendor:0.41
+  operation:0.41
+  markets:0.41
+  terms:0.41
+  friendly:0.41
+  usability:0.41
+  good:0.41
+
+K: 5, Log-Likelihood: -224.590, Alpha: 11.000, Beta: 1.100

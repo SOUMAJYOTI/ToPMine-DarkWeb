@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.32
+  cannabis:0.40
+  relaunch:0.40
+  pgp:0.40
+  lu:0.40
+  signature:0.40
+  fzsh:0.20
+  chxamx:0.20
+  writing:0.20
+  breaks:0.20
+
+Topic 1:
+  market:1.44
+  signature:0.40
+  pgp:0.40
+  relaunch:0.40
+  lu:0.40
+  cannabis:0.40
+  nifewgo:0.20
+  hash:0.20
+  pz:0.20
+  ntnrwpmrswr:0.20
+
+Topic 2:
+  market:1.55
+  lu:0.40
+  pgp:0.40
+  signature:0.40
+  cannabis:0.40
+  relaunch:0.40
+  xjgu:0.20
+  htn:0.20
+  sha:0.20
+  xt:0.20
+
+Topic 3:
+  market:1.43
+  cannabis:0.40
+  signature:0.40
+  relaunch:0.40
+  lu:0.40
+  pgp:0.40
+  testing:0.20
+  classic:0.20
+  hhgaprvehuq:0.20
+  eo:0.20
+
+Topic 4:
+  market:1.26
+  relaunch:0.40
+  lu:0.40
+  pgp:0.40
+  cannabis:0.40
+  signature:0.40
+  zag:0.20
+  gi:0.20
+  efgyap:0.20
+  fkfeswkskckjqnttyu:0.20
+
+K: 5, Log-Likelihood: -677.686, Alpha: 11.000, Beta: 1.100

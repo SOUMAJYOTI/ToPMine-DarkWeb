@@ -1,0 +1,61 @@
+Topic 0:
+  litecoin:18.71
+  blockchain:11.89
+  bitcoin:10.50
+  function:4.98
+  ltc:4.68
+  algorithm:4.68
+  produce:3.98
+  dklen:3.98
+  geometrical:3.98
+  series:3.98
+
+Topic 1:
+  open:3.72
+  dont:3.56
+  quote:3.32
+  torrenting:3.22
+  chain:2.82
+  source:2.76
+  centralized:2.75
+  doesnt:2.47
+  anonymity:2.42
+  massive:2.18
+
+Topic 2:
+  shit:4.75
+  bitcoin:3.34
+  quote:3.10
+  order:2.93
+  blah:2.90
+  classified:2.89
+  web:2.89
+  isnt:2.89
+  dude:2.63
+  title:2.58
+
+Topic 3:
+  sphere:33.96
+  homology:25.96
+  numbers:13.04
+  xn:11.96
+  ar:10.09
+  yn:9.96
+  spheres:9.96
+  prime:7.96
+  sequences:5.96
+  rational:5.96
+
+Topic 4:
+  tor:8.50
+  tips:6.85
+  people:4.61
+  true:3.94
+  nsa:2.89
+  anonymity:2.14
+  good:2.14
+  anon:2.10
+  quote:2.01
+  theory:1.94
+
+K: 5, Log-Likelihood: -6926.407, Alpha: 11.000, Beta: 1.100

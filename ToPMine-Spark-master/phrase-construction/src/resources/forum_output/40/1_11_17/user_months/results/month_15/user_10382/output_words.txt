@@ -1,0 +1,61 @@
+Topic 0:
+  gun:2.02
+  guns:1.18
+  pieces:0.96
+  ship:0.92
+  border:0.72
+  buying:0.58
+  allowed:0.58
+  legal:0.54
+  classifieds:0.43
+  boogie:0.38
+
+Topic 1:
+  buy:3.87
+  firearm:2.71
+  buying:2.16
+  years:1.46
+  age:1.46
+  times:1.46
+  sites:1.45
+  gun:0.88
+  guns:0.75
+  boogie:0.74
+
+Topic 2:
+  find:1.59
+  ya:1.59
+  gun:1.38
+  large:0.81
+  classifieds:0.81
+  south:0.67
+  sof:0.67
+  foreign:0.67
+  dont:0.67
+  understand:0.67
+
+Topic 3:
+  guns:1.76
+  gun:1.47
+  border:1.34
+  ship:0.97
+  pieces:0.95
+  legal:0.75
+  allowed:0.58
+  buying:0.48
+  people:0.43
+  large:0.42
+
+Topic 4:
+  gun:1.26
+  guns:1.09
+  buying:0.66
+  firearm:0.63
+  ship:0.56
+  buy:0.56
+  border:0.56
+  pieces:0.55
+  people:0.50
+  boogie:0.44
+
+K: 5, Log-Likelihood: -706.275, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  covert organisation:12.89
+  cover:8.46
+  drug:8.31
+  protip:7.48
+  delivery service:6.23
+  social network:6.23
+  agents:6.23
+  network:5.58
+  social:5.07
+  operation:4.85
+
+Topic 1:
+  hackers:20.24
+  hacker community:14.55
+  security:8.93
+  law enforcement:8.43
+  hacker culture:8.31
+  technology:6.73
+  knowledge:6.72
+  dulles:6.23
+  community:6.23
+  learning:6.23
+
+Topic 2:
+  security:14.58
+  ve:10.38
+  grugq:10.08
+  internet:10.07
+  paranoia:8.31
+  time:6.71
+  active attacks:6.41
+  admin bitmessage ch:6.41
+  starts:6.41
+  risk assessment:6.23
+
+Topic 3:
+  users:4.13
+  january:4.04
+  days explanation outage:3.29
+  swiss:3.29
+  expected:3.29
+  police longer:3.29
+  image:3.29
+  false alarm days straight:3.29
+  traffic:3.06
+  encrypted:3.06
+
+Topic 4:
+  led arrest:6.65
+  onion service:6.65
+  bitmessage ch:6.23
+  problems:5.47
+  sold sr:4.98
+  sr:4.98
+  records:4.77
+  december:4.13
+  days:4.09
+  add:3.32
+
+K: 5, Log-Likelihood: -29328.294, Alpha: 11.000, Beta: 1.100

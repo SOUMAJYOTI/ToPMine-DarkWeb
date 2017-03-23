@@ -1,0 +1,61 @@
+Topic 0:
+  helix:2.54
+  problems:2.26
+  bitcoin blender:1.70
+  grass:1.69
+  active:1.69
+  reddit:1.69
+  customer:1.69
+  service:1.57
+  quote:1.54
+  dont link:1.50
+
+Topic 1:
+  bitcoin:6.15
+  market bitcoin:3.94
+  launder service:3.94
+  vendor:2.35
+  service localbitcoins:1.93
+  procedure:1.93
+  additional:1.93
+  thought:1.93
+  wallets:1.93
+  laundering:1.93
+
+Topic 2:
+  referred:5.96
+  coin:3.95
+  users:3.95
+  bonus:3.95
+  btc:3.37
+  trust:2.07
+  earn:1.94
+  sense:1.94
+  offer:1.94
+  deal:1.94
+
+Topic 3:
+  mixer:2.25
+  long:1.74
+  helix grams:1.73
+  bitin:1.55
+  bitmixer:1.55
+  io:1.55
+  bitlaundry:1.54
+  quote:1.50
+  dont link:1.44
+  blender:1.26
+
+Topic 4:
+  withdrawing:3.96
+  safe:3.96
+  trade coins:3.96
+  lot:2.30
+  account:2.00
+  cheap:1.94
+  constantly:1.94
+  closer:1.94
+  permanent:1.94
+  deposit:1.94
+
+K: 5, Log-Likelihood: -1690.179, Alpha: 11.000, Beta: 1.100

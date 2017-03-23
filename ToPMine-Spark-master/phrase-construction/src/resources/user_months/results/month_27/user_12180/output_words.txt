@@ -1,0 +1,61 @@
+Topic 0:
+  helix:1.36
+  bitcoinfog:1.33
+  problems:0.84
+  coins:0.83
+  havent:0.72
+  bitcoin:0.67
+  grams:0.55
+  dont:0.55
+  fog:0.54
+  time:0.46
+
+Topic 1:
+  helix:1.41
+  bitcoinfog:1.11
+  havent:0.80
+  problems:0.79
+  bitcoin:0.71
+  coins:0.65
+  dont:0.62
+  grams:0.58
+  fog:0.58
+  time:0.43
+
+Topic 2:
+  helix:2.03
+  havent:0.91
+  bitcoinfog:0.74
+  bitcoin:0.74
+  problems:0.69
+  grams:0.69
+  dont:0.67
+  fog:0.59
+  quote:0.47
+  tacos:0.47
+
+Topic 3:
+  helix:1.99
+  bitcoinfog:0.92
+  bitcoin:0.77
+  problems:0.73
+  havent:0.72
+  grams:0.64
+  dont:0.63
+  fog:0.58
+  coins:0.58
+  tacos:0.44
+
+Topic 4:
+  helix:1.21
+  bitcoin:1.12
+  problems:0.95
+  bitcoinfog:0.89
+  havent:0.85
+  fog:0.71
+  dont:0.54
+  grams:0.53
+  coins:0.52
+  hours:0.52
+
+K: 5, Log-Likelihood: -592.825, Alpha: 11.000, Beta: 1.100

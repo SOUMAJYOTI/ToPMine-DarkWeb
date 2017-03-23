@@ -1,0 +1,61 @@
+Topic 0:
+  message:1.50
+  agora:1.07
+  bubble:0.96
+  profile:0.95
+  account:0.93
+  karma:0.92
+  open:0.92
+  private:0.91
+  assuming:0.73
+  love:0.70
+
+Topic 1:
+  atm:4.95
+  response agora:2.22
+  clean:2.21
+  vendors:2.20
+  mode:2.19
+  amazing:2.19
+  hope:2.19
+  vacation:2.18
+  day:2.16
+  batch:2.16
+
+Topic 2:
+  messages:5.07
+  confirmed:2.29
+  failed:2.28
+  eventually:2.27
+  times:2.26
+  tab:2.26
+  odd:2.26
+  folder:2.24
+  load:2.23
+  don:1.28
+
+Topic 3:
+  reason:2.03
+  posts:2.02
+  user:2.00
+  access:2.00
+  denied:2.00
+  message al:1.99
+  amount:1.98
+  messaging:1.96
+  assuming:1.06
+  message:0.84
+
+Topic 4:
+  message:1.75
+  open:0.99
+  account:0.95
+  private:0.93
+  bubble:0.93
+  profile:0.92
+  karma:0.92
+  assuming:0.83
+  agora:0.78
+  face:0.59
+
+K: 5, Log-Likelihood: -606.291, Alpha: 11.000, Beta: 1.100

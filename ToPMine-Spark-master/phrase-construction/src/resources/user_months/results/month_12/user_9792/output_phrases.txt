@@ -1,0 +1,61 @@
+Topic 0:
+  experiences:1.39
+  ve:0.81
+  round:0.65
+  slowly technology:0.64
+  grassroots:0.64
+  community:0.64
+  emphasis:0.64
+  hearing:0.64
+  connect things:0.64
+  lot:0.64
+
+Topic 1:
+  culture fracturing centuries postmodern:1.09
+  earth natural forces hand:1.09
+  stand brink bridled power:1.09
+  shocking juxtapositions pastiche coming:1.08
+  side post postmodern:1.07
+  link rich connected governed:1.07
+  wonderful possibilities emerging interesting:1.00
+  agree traditional connections terroir:1.00
+  pmi:1.00
+  guess:1.00
+
+Topic 2:
+  experiences:1.05
+  ve:0.72
+  environment:0.53
+  slowly:0.53
+  backyard:0.53
+  lost:0.53
+  mail:0.53
+  psychedelics years san pedro:0.53
+  love:0.53
+  linked:0.53
+
+Topic 3:
+  experiments perception:0.56
+  california forward reading:0.55
+  mushrooms oak woodlands northern:0.55
+  walk ocean:0.55
+  side post postmodern:0.51
+  link rich connected governed:0.51
+  shocking juxtapositions pastiche coming:0.51
+  culture stitching united milieu:0.50
+  stand brink bridled power:0.50
+  earth natural forces hand:0.50
+
+Topic 4:
+  experiences:1.06
+  ve:0.72
+  compounds:0.51
+  weird:0.51
+  local:0.51
+  earth:0.51
+  native:0.51
+  experience:0.51
+  teach:0.51
+  great experiences:0.51
+
+K: 5, Log-Likelihood: -944.069, Alpha: 11.000, Beta: 1.100

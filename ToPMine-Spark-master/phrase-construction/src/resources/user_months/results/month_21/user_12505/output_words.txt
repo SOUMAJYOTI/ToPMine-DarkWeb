@@ -1,0 +1,61 @@
+Topic 0:
+  ett:5.58
+  sek:2.84
+  jos:2.53
+  olisi:2.08
+  join:1.81
+  mahdollisuudella:1.81
+  en:1.78
+  tilaus:1.76
+  ja:1.69
+  koira:1.68
+
+Topic 1:
+  mit:6.84
+  ei:6.59
+  kuin:6.58
+  ja:6.13
+  jos:5.38
+  nain:5.37
+  mutta:4.42
+  kin:4.21
+  st:3.84
+  tai:3.82
+
+Topic 2:
+  october:10.26
+  maanantaina:6.59
+  nyt:5.74
+  miten:5.17
+  nain:5.13
+  quote:5.00
+  sinfil:4.90
+  luottomyyj:4.90
+  pel:4.90
+  nihilist:4.90
+
+Topic 3:
+  myyj:8.10
+  ja:6.88
+  ss:4.49
+  vaikka:3.92
+  jos:3.83
+  kirje:3.68
+  en:3.36
+  tullut:3.22
+  siis:2.97
+  kaikki:2.97
+
+Topic 4:
+  ja:14.77
+  sis:5.15
+  tt:4.11
+  todella:3.54
+  ll:3.50
+  lt:3.27
+  yleens:2.74
+  tai:2.72
+  syytt:2.54
+  kiinni:2.31
+
+K: 5, Log-Likelihood: -7149.934, Alpha: 11.000, Beta: 1.100

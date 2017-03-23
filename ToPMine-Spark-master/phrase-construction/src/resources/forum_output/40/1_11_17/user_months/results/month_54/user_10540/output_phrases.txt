@@ -1,0 +1,61 @@
+Topic 0:
+  btc:3.36
+  july:2.53
+  bytecoin cryptonote currencies:2.48
+  kharon:2.48
+  developer:2.48
+  base:2.48
+  afaik:2.48
+  trading:2.48
+  pmafter:2.48
+  highest:2.48
+
+Topic 1:
+  surveillance:45.76
+  goals:17.49
+  privacy:14.35
+  individuals:11.69
+  control:10.84
+  forms:10.62
+  data:10.12
+  rules:8.95
+  surveillance privacy:8.45
+  settings:7.53
+
+Topic 2:
+  surveillance:11.76
+  privacy surveillance:7.66
+  goals:7.33
+  privacy:6.20
+  subject:4.96
+  rules:4.12
+  control:3.84
+  social:3.23
+  surveillance privacy:3.12
+  forms:2.74
+
+Topic 3:
+  hacking team:54.55
+  fbi:17.04
+  company:15.34
+  wrote:13.63
+  law enforcement:13.63
+  remote control system:8.52
+  san bernardino:8.52
+  district attorney:6.81
+  velasco:6.81
+  cicom:6.81
+
+Topic 4:
+  sender:7.78
+  public key:7.78
+  private key:7.78
+  public keys:7.78
+  transaction:7.78
+  users:6.11
+  built:5.18
+  public address:5.18
+  receiver:5.18
+  groups senders:5.18
+
+K: 5, Log-Likelihood: -37327.495, Alpha: 11.000, Beta: 1.100

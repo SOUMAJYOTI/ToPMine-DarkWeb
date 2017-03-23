@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.51
+  agora:1.43
+  period:0.75
+  dont:0.74
+  hesitant:0.74
+  vendor:0.74
+  loyalty:0.74
+  mile:0.74
+  alot:0.73
+  dealt:0.73
+
+Topic 1:
+  agora:1.43
+  market:1.33
+  quote:0.73
+  downtime:0.67
+  extra:0.67
+  greatly:0.66
+  agra:0.66
+  sense:0.66
+  evo:0.66
+  dont:0.65
+
+Topic 2:
+  quote:0.97
+  account:0.90
+  thread:0.90
+  agora:0.90
+  stealthbomber:0.88
+  created:0.87
+  mdma:0.86
+  market:0.83
+  pmfyi:0.59
+  amdm:0.59
+
+Topic 3:
+  market:1.31
+  agora:1.21
+  quote:0.77
+  extra:0.62
+  vendor:0.62
+  profile:0.61
+  strong:0.61
+  hesitant:0.61
+  find:0.61
+  loyalty:0.61
+
+Topic 4:
+  agora:1.03
+  market:1.02
+  quote:0.87
+  mdma:0.73
+  created:0.72
+  account:0.70
+  stealthbomber:0.69
+  thread:0.69
+  evo:0.56
+  alot:0.55
+
+K: 5, Log-Likelihood: -456.918, Alpha: 11.000, Beta: 1.100

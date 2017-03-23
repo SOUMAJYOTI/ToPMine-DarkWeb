@@ -1,0 +1,61 @@
+Topic 0:
+  server:3.87
+  encrusted:3.38
+  system:3.38
+  july:3.33
+  talk:2.96
+  heard:2.96
+  built:2.96
+  year:2.96
+  messaging:2.96
+  instant:2.96
+
+Topic 1:
+  man middle:4.55
+  conclusion:4.52
+  encounter:4.35
+  wondered:4.15
+  attempts:3.88
+  good fellows:3.25
+  antenna:2.83
+  direction:2.82
+  testing:2.14
+  definite:2.14
+
+Topic 2:
+  resources:3.84
+  project:3.32
+  hotspots:3.28
+  good:2.50
+  control:1.90
+  attacks ssid:1.90
+  grasp:1.90
+  good fellow:1.90
+  looked attacker:1.90
+  connected:1.90
+
+Topic 3:
+  check:3.61
+  software:3.48
+  integrity:2.97
+  files:2.89
+  verify:2.88
+  boot:2.83
+  loader:2.82
+  place:2.69
+  downloaded:1.87
+  mitm:1.87
+
+Topic 4:
+  attempts:2.22
+  work:2.02
+  wondered:1.95
+  kind:1.88
+  encounter:1.75
+  man:1.62
+  conclusion:1.58
+  man middle:1.55
+  good:1.42
+  full:1.39
+
+K: 5, Log-Likelihood: -3481.972, Alpha: 11.000, Beta: 1.100

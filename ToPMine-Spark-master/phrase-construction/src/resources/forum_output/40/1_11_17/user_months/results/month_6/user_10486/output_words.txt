@@ -1,0 +1,61 @@
+Topic 0:
+  key:4.98
+  keys:1.61
+  nightcrawler:1.61
+  pgp:1.20
+  decrypt:0.75
+  text:0.75
+  structure:0.75
+  changed:0.75
+  meaning:0.75
+  works:0.75
+
+Topic 1:
+  key:2.53
+  block:0.70
+  ar:0.67
+  pgp:0.67
+  public:0.66
+  hzr:0.60
+  eo:0.53
+  version:0.47
+  echyuws:0.42
+  ipfc:0.42
+
+Topic 2:
+  public:1.69
+  ar:1.54
+  block:1.45
+  hzr:1.36
+  key:1.32
+  eo:0.99
+  lnxis:0.72
+  dx:0.72
+  tk:0.71
+  rqsbbvf:0.71
+
+Topic 3:
+  key:7.09
+  len:4.95
+  amnesia:3.95
+  created:3.95
+  digest:3.95
+  file:3.95
+  version:2.07
+  packets:1.95
+  submit:1.95
+  pgpkey:1.95
+
+Topic 4:
+  hzr:1.89
+  block:1.69
+  ar:1.63
+  public:1.49
+  eo:1.33
+  key:1.08
+  soqvfjx:0.80
+  kquezxi:0.80
+  zevnxcflhptmfbyek:0.80
+  rfyp:0.79
+
+K: 5, Log-Likelihood: -3255.429, Alpha: 11.000, Beta: 1.100

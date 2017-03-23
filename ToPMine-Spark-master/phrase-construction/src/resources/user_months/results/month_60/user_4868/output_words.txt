@@ -1,0 +1,61 @@
+Topic 0:
+  government:6.60
+  fake:5.47
+  encryption:5.19
+  rights:5.06
+  worried:4.88
+  latest:4.05
+  rest:3.77
+  assured:3.77
+  incidents:3.74
+  thing:3.35
+
+Topic 1:
+  cards:11.84
+  draft:9.32
+  anonymous:8.99
+  pre:8.89
+  paid:8.88
+  virtual:8.87
+  payments:8.87
+  paris:7.13
+  meeting:6.46
+  document:6.28
+
+Topic 2:
+  encryption:7.50
+  communications:6.71
+  situation:3.93
+  matter:3.93
+  encrypted:3.62
+  hey:3.58
+  security:3.52
+  war:3.23
+  terror:3.22
+  government:3.03
+
+Topic 3:
+  darknet:6.14
+  money:5.29
+  software:4.98
+  post:4.98
+  dont:4.24
+  pgp:3.98
+  social:3.71
+  aware:2.98
+  wash:2.98
+  links:2.98
+
+Topic 4:
+  encryption:5.13
+  quote:3.01
+  november:2.67
+  people:2.52
+  goods:2.22
+  small:1.90
+  ministers:1.89
+  peoples:1.79
+  boogeyman:1.75
+  agenda:1.74
+
+K: 5, Log-Likelihood: -6956.877, Alpha: 11.000, Beta: 1.100

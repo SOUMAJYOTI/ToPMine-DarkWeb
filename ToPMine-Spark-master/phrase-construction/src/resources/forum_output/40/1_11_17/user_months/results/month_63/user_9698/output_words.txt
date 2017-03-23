@@ -1,0 +1,61 @@
+Topic 0:
+  password:1.53
+  pgp:1.23
+  signature:0.82
+  email:0.81
+  remember:0.80
+  ago:0.80
+  feature:0.79
+  recovery:0.79
+  access:0.74
+  thinking:0.73
+
+Topic 1:
+  password:1.76
+  pgp:1.34
+  remember:0.81
+  feature:0.81
+  recovery:0.81
+  signature:0.80
+  access:0.78
+  thinking:0.77
+  ago:0.77
+  email:0.76
+
+Topic 2:
+  password:1.59
+  pgp:1.15
+  access:0.89
+  thinking:0.84
+  remember:0.84
+  email:0.83
+  ago:0.81
+  signature:0.81
+  recovery:0.80
+  feature:0.76
+
+Topic 3:
+  password:1.83
+  pgp:1.10
+  thinking:0.83
+  access:0.81
+  email:0.81
+  signature:0.80
+  feature:0.80
+  remember:0.79
+  recovery:0.78
+  ago:0.78
+
+Topic 4:
+  password:1.30
+  pgp:1.18
+  feature:0.84
+  thinking:0.83
+  ago:0.83
+  recovery:0.82
+  email:0.80
+  access:0.78
+  signature:0.77
+  remember:0.75
+
+K: 5, Log-Likelihood: -1468.569, Alpha: 11.000, Beta: 1.100

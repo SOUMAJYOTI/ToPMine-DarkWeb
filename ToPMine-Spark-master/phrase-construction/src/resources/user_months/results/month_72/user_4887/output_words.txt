@@ -1,0 +1,61 @@
+Topic 0:
+  users:0.41
+  interface:0.40
+  flexibility:0.40
+  coin:0.40
+  setup:0.40
+  hidden:0.40
+  instructions:0.40
+  scallion:0.40
+  ago:0.40
+  follow:0.40
+
+Topic 1:
+  service:0.40
+  users:0.40
+  lachesis:0.40
+  donate:0.40
+  follow:0.40
+  specific:0.40
+  wanted:0.40
+  tutorial:0.40
+  coin:0.40
+  hidden:0.40
+
+Topic 2:
+  instructions:0.40
+  flexibility:0.40
+  ago:0.40
+  wanted:0.40
+  interface:0.40
+  worked:0.40
+  months:0.40
+  setup:0.40
+  lachesis:0.40
+  warned:0.40
+
+Topic 3:
+  people:0.41
+  donate:0.40
+  specific:0.40
+  wanted:0.40
+  tutorial:0.40
+  warned:0.40
+  scallion:0.40
+  hidden:0.40
+  lachesis:0.40
+  service:0.40
+
+Topic 4:
+  months:0.40
+  warned:0.40
+  follow:0.40
+  service:0.40
+  lachesis:0.40
+  worked:0.40
+  people:0.40
+  ago:0.40
+  coin:0.40
+  interface:0.40
+
+K: 5, Log-Likelihood: -138.842, Alpha: 11.000, Beta: 1.100

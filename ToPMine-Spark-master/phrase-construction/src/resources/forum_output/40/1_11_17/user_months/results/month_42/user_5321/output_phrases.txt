@@ -1,0 +1,61 @@
+Topic 0:
+  key:0.24
+  sell:0.16
+  changa:0.16
+  dmt:0.16
+  pgp:0.16
+  public:0.16
+  block:0.16
+  bmr:0.08
+  link:0.08
+  sheep:0.08
+
+Topic 1:
+  key:0.24
+  dmt:0.16
+  changa:0.16
+  sell:0.16
+  public:0.16
+  block:0.16
+  pgp:0.16
+  psilocybin:0.08
+  focused:0.08
+  march:0.08
+
+Topic 2:
+  key:0.24
+  block:0.16
+  public:0.16
+  pgp:0.16
+  dmt:0.16
+  changa:0.16
+  sell:0.16
+  yg:0.08
+  lbf:0.08
+  vdgqhxmiprvdbj:0.08
+
+Topic 3:
+  key:0.24
+  sell:0.16
+  dmt:0.16
+  changa:0.16
+  block:0.16
+  public:0.16
+  pgp:0.16
+  nucleus:0.08
+  started:0.08
+  tormarket:0.08
+
+Topic 4:
+  key:0.24
+  pgp:0.16
+  block:0.16
+  public:0.16
+  changa:0.16
+  dmt:0.16
+  sell:0.16
+  te:0.08
+  kkpbbd:0.08
+  pz:0.08
+
+K: 5, Log-Likelihood: -279.214, Alpha: 11.000, Beta: 1.100

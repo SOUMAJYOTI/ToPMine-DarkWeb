@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.60
+  viikonlopun:0.43
+  coineja:0.39
+  oo:0.39
+  kiva:0.21
+  pystyy:0.21
+  ois:0.21
+  saamatta:0.21
+  keskiviikkona:0.21
+  emm:0.21
+
+Topic 1:
+  ja:0.57
+  viikonlopun:0.46
+  coineja:0.39
+  oo:0.39
+  mun:0.22
+  jeesaan:0.22
+  arvo:0.22
+  smitten:0.22
+  kun:0.22
+  viime:0.22
+
+Topic 2:
+  ja:0.57
+  viikonlopun:0.47
+  coineja:0.39
+  oo:0.38
+  doubit:0.22
+  jostain:0.22
+  jo:0.22
+  mit:0.22
+  keskiviikkona:0.22
+  mullekkin:0.22
+
+Topic 3:
+  ja:0.64
+  oo:0.42
+  coineja:0.42
+  viikonlopun:0.30
+  muka:0.25
+  st:0.25
+  ytt:0.25
+  oikeaa:0.25
+  silkkitie:0.25
+  tilata:0.25
+
+Topic 4:
+  ja:0.63
+  oo:0.41
+  coineja:0.41
+  viikonlopun:0.34
+  helkkarissa:0.22
+  vika:0.22
+  ettei:0.22
+  vaikka:0.22
+  tilaukseenmiss:0.22
+  reilusti:0.22
+
+K: 5, Log-Likelihood: -269.005, Alpha: 11.000, Beta: 1.100

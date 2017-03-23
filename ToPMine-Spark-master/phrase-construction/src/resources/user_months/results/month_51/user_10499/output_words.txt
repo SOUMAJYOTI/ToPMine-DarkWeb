@@ -1,0 +1,61 @@
+Topic 0:
+  escrow:2.02
+  system:1.97
+  technology:1.93
+  key:1.84
+  government:1.74
+  clipper:1.73
+  chip:1.57
+  crypto:1.45
+  communications:1.37
+  war:1.29
+
+Topic 1:
+  key:4.49
+  crypto:3.51
+  chip:2.39
+  clipper:2.23
+  government:2.22
+  escrow:1.94
+  access:1.70
+  war:1.67
+  communications:1.59
+  technology:1.52
+
+Topic 2:
+  start:5.70
+  open:5.01
+  cpus:4.71
+  source:3.79
+  june:3.79
+  fpga:2.89
+  concept:2.73
+  fails:2.73
+  loading:2.73
+  quote:2.73
+
+Topic 3:
+  hardware:6.04
+  software:3.91
+  focus:3.80
+  firmware:3.80
+  processors:1.84
+  rely:1.84
+  kind:1.84
+  surveillance:1.84
+  identity:1.84
+  connecting:1.84
+
+Topic 4:
+  rsa:3.95
+  bit:3.95
+  understanding:3.83
+  keys:3.15
+  elgamal:2.95
+  numbers:2.95
+  dsa:2.95
+  ecliptics:2.88
+  elpaal:2.88
+  security:2.71
+
+K: 5, Log-Likelihood: -2659.325, Alpha: 11.000, Beta: 1.100

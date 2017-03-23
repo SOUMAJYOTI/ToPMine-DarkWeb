@@ -1,0 +1,61 @@
+Topic 0:
+  html:3.74
+  farmer:3.35
+  forum:2.55
+  marketplace:2.54
+  reliable:2.06
+  pro:2.06
+  top:2.06
+  thumbs:2.06
+  notch:2.06
+  dealt:2.06
+
+Topic 1:
+  list:7.04
+  february:4.92
+  sr:3.46
+  top rated:3.46
+  druglist:3.46
+  rated:3.46
+  read:3.46
+  agora:3.46
+  listed:3.46
+  dot:3.03
+
+Topic 2:
+  tor:5.26
+  issue:4.30
+  time hear access:3.99
+  quotenot:3.45
+  days:3.45
+  marketplaces:3.45
+  encountered:3.45
+  llist:3.45
+  exit:3.45
+  url dated:3.45
+
+Topic 3:
+  bit:4.30
+  day:4.25
+  looked:3.46
+  logo:2.84
+  mdparity:2.10
+  pretty:2.10
+  attention:2.10
+  freebay:2.10
+  camel:2.10
+  noticed:2.10
+
+Topic 4:
+  dated list:4.87
+  sites:4.27
+  ddw:3.07
+  checked:3.06
+  site:3.05
+  happened:3.04
+  websites:2.07
+  awful:2.07
+  lolout:2.07
+  road:2.07
+
+K: 5, Log-Likelihood: -1815.132, Alpha: 11.000, Beta: 1.100

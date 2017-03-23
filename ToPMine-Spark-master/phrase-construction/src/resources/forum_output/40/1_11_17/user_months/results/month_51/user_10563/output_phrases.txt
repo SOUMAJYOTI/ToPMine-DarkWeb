@@ -1,0 +1,61 @@
+Topic 0:
+  icacls exe atmfd dll:16.21
+  armed dll:8.09
+  exe atmfd dll:8.09
+  grant administrators recame:8.09
+  save atmfd acl:8.09
+  atmfd dll:6.68
+  laugh demise mail:5.92
+  interviews consulting earn hefty:5.92
+  hacking morons good:5.92
+  books write promoting essays:5.92
+
+Topic 1:
+  company:18.97
+  vincenzetti:18.84
+  program:16.24
+  hacking team:14.28
+  italian:13.53
+  security:9.07
+  systems:8.12
+  security professional:8.12
+  records:8.12
+  mails:7.04
+
+Topic 2:
+  tor browser:27.62
+  proposed attack:13.80
+  remote:9.19
+  weakest link:9.19
+  local:9.19
+  dont exploit tor:9.19
+  requires:9.19
+  tor client:9.19
+  target user:9.19
+  hardware local network:9.19
+
+Topic 3:
+  vulnerability:10.29
+  security update:8.11
+  fonts:6.71
+  article:6.16
+  knowledge:5.41
+  blah:5.41
+  install:5.41
+  base:5.41
+  updating:5.41
+  opentype:5.41
+
+Topic 4:
+  amur jelly hax rs:8.46
+  sldk july amquote july:7.87
+  mad jesus sort:7.87
+  year idiot:7.87
+  quote:7.23
+  patched:6.00
+  ur:5.83
+  image:5.38
+  pops:5.28
+  rename:5.25
+
+K: 5, Log-Likelihood: -20789.684, Alpha: 11.000, Beta: 1.100

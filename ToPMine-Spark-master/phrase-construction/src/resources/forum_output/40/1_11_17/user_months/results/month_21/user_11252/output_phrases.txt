@@ -1,0 +1,61 @@
+Topic 0:
+  free:0.44
+  markets:0.44
+  registration:0.42
+  sticky:0.42
+  interested:0.42
+  worth:0.41
+  ing:0.41
+  list free vendor:0.41
+  register:0.37
+  pmim:0.30
+
+Topic 1:
+  free:0.77
+  register:0.44
+  markets:0.38
+  interested:0.35
+  list free vendor:0.35
+  sticky:0.35
+  ing:0.35
+  registration:0.35
+  worth:0.35
+  marketplacesthanks:0.34
+
+Topic 2:
+  free:0.53
+  markets:0.42
+  ing:0.40
+  list free vendor:0.40
+  registration:0.40
+  interested:0.40
+  worth:0.40
+  sticky:0.40
+  register:0.38
+  comparison:0.29
+
+Topic 3:
+  free:0.55
+  markets:0.42
+  register:0.39
+  worth:0.39
+  list free vendor:0.39
+  ing:0.39
+  sticky:0.39
+  registration:0.39
+  interested:0.39
+  offer:0.28
+
+Topic 4:
+  free:0.48
+  markets:0.43
+  worth:0.41
+  sticky:0.41
+  interested:0.41
+  registration:0.41
+  ing:0.40
+  list free vendor:0.40
+  register:0.38
+  august:0.29
+
+K: 5, Log-Likelihood: -226.723, Alpha: 11.000, Beta: 1.100

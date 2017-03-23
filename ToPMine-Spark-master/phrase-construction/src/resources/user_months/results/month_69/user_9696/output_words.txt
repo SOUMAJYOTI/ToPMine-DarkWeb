@@ -1,0 +1,61 @@
+Topic 0:
+  account:0.93
+  tryptam:0.82
+  problem:0.41
+  bruce:0.41
+  delete:0.40
+  log:0.40
+  big:0.20
+  contact:0.20
+  password:0.20
+  lotterie:0.20
+
+Topic 1:
+  account:1.08
+  tryptam:0.77
+  delete:0.40
+  log:0.40
+  bruce:0.39
+  problem:0.38
+  profile:0.20
+  disappear:0.20
+  lol:0.20
+  actions:0.20
+
+Topic 2:
+  account:1.07
+  tryptam:0.77
+  delete:0.40
+  log:0.40
+  bruce:0.39
+  problem:0.39
+  settings:0.20
+  glad:0.20
+  disappear:0.20
+  profile:0.20
+
+Topic 3:
+  account:0.89
+  tryptam:0.84
+  problem:0.42
+  bruce:0.41
+  log:0.40
+  delete:0.39
+  verifie:0.21
+  bycicleday:0.21
+  original:0.21
+  changed:0.21
+
+Topic 4:
+  account:1.03
+  tryptam:0.80
+  problem:0.40
+  log:0.40
+  delete:0.40
+  bruce:0.40
+  sorted:0.20
+  lol:0.20
+  disappear:0.20
+  actions:0.20
+
+K: 5, Log-Likelihood: -129.095, Alpha: 11.000, Beta: 1.100

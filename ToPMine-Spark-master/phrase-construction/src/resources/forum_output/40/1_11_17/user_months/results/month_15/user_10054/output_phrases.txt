@@ -1,0 +1,61 @@
+Topic 0:
+  pm:0.28
+  marketplace:0.28
+  hanging:0.28
+  spotty:0.28
+  ootp:0.28
+  site:0.28
+  month:0.28
+  deals:0.28
+  prescence:0.28
+  thebrotherhood:0.28
+
+Topic 1:
+  active:0.28
+  month:0.28
+  marketplace:0.28
+  site:0.28
+  thebrotherhood:0.28
+  deals:0.28
+  pm:0.28
+  ootp:0.28
+  prescence:0.28
+  hanging:0.28
+
+Topic 2:
+  left:0.28
+  spotty:0.28
+  ootp:0.28
+  hanging:0.28
+  prescence:0.28
+  thebrotherhood:0.28
+  marketplace:0.28
+  deals:0.28
+  month:0.28
+  pm:0.28
+
+Topic 3:
+  left:0.28
+  spotty:0.28
+  prescence:0.28
+  hanging:0.28
+  ootp:0.28
+  site:0.28
+  active:0.28
+  pm:0.28
+  marketplace:0.28
+  month:0.28
+
+Topic 4:
+  thebrotherhood:0.28
+  deals:0.28
+  active:0.28
+  month:0.28
+  site:0.28
+  marketplace:0.28
+  pm:0.28
+  prescence:0.28
+  spotty:0.28
+  hanging:0.28
+
+K: 5, Log-Likelihood: -59.271, Alpha: 11.000, Beta: 1.100

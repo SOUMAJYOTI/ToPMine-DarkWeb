@@ -1,0 +1,61 @@
+Topic 0:
+  time:1.09
+  feedback:0.66
+  listening:0.66
+  middle:0.59
+  earth:0.56
+  js:0.51
+  tor:0.37
+  number:0.34
+  acting:0.34
+  javascript:0.34
+
+Topic 1:
+  middle:3.77
+  earth:3.68
+  javascript:2.61
+  version:2.53
+  marketplace:1.58
+  choose:1.58
+  requests:0.66
+  screen:0.66
+  support:0.66
+  october:0.66
+
+Topic 2:
+  js:2.54
+  dnm:1.61
+  quote:1.61
+  remember:1.61
+  safe:1.61
+  full:1.61
+  inherently:0.67
+  accuse:0.67
+  perfectly:0.67
+  haters:0.67
+
+Topic 3:
+  earth:1.34
+  middle:1.21
+  time:0.67
+  javascript:0.65
+  feedback:0.53
+  listening:0.53
+  js:0.46
+  number:0.42
+  acting:0.31
+  respect:0.28
+
+Topic 4:
+  pandora:1.61
+  agra:1.61
+  evolution:1.61
+  acting:1.17
+  tor:0.74
+  dead:0.67
+  bazar:0.67
+  sellers:0.67
+  opinion:0.67
+  weird:0.67
+
+K: 5, Log-Likelihood: -633.690, Alpha: 11.000, Beta: 1.100

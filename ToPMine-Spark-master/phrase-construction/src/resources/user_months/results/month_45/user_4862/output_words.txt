@@ -1,0 +1,61 @@
+Topic 0:
+  donate:1.25
+  community:1.04
+  address:0.96
+  psychedelic:0.94
+  running:0.86
+  vendors:0.70
+  keeping:0.69
+  place:0.65
+  members:0.64
+  post:0.63
+
+Topic 1:
+  address:1.73
+  donate:1.36
+  running:1.03
+  psychedelic:0.96
+  post:0.86
+  place:0.75
+  people:0.67
+  community:0.67
+  btc:0.66
+  users:0.60
+
+Topic 2:
+  community:1.91
+  members:1.31
+  vendors:1.19
+  donate:0.99
+  experience:0.96
+  tmg:0.73
+  running:0.60
+  keeping:0.60
+  psychedelic:0.55
+  knowledge:0.55
+
+Topic 3:
+  community:1.44
+  donate:1.14
+  members:0.96
+  vendors:0.93
+  experience:0.81
+  tmg:0.73
+  running:0.67
+  address:0.66
+  psychedelic:0.65
+  keeping:0.59
+
+Topic 4:
+  donate:1.26
+  address:1.11
+  community:0.94
+  psychedelic:0.90
+  running:0.85
+  place:0.68
+  vendors:0.68
+  btc:0.67
+  post:0.66
+  people:0.66
+
+K: 5, Log-Likelihood: -695.990, Alpha: 11.000, Beta: 1.100

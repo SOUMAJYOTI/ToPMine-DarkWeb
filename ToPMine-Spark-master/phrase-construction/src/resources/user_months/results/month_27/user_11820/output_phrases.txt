@@ -1,0 +1,61 @@
+Topic 0:
+  safe:0.08
+  pointing:0.08
+  evidence:0.08
+  announcement:0.08
+  web:0.08
+  comments:0.08
+  didnt:0.08
+  rippers:0.08
+  check:0.08
+  hope:0.08
+
+Topic 1:
+  deep:0.08
+  web:0.08
+  comments:0.08
+  evidence:0.08
+  thread:0.08
+  safe:0.08
+  pointing:0.08
+  good:0.08
+  knew:0.08
+  didnt:0.08
+
+Topic 2:
+  rippers:0.08
+  check:0.08
+  safe:0.08
+  didnt:0.08
+  questions:0.08
+  hope:0.08
+  reply:0.08
+  web:0.08
+  careful:0.08
+  announcement:0.08
+
+Topic 3:
+  careful:0.08
+  reply:0.08
+  knew:0.08
+  questions:0.08
+  check:0.08
+  rippers:0.08
+  evidence:0.08
+  thread:0.08
+  good:0.08
+  didnt:0.08
+
+Topic 4:
+  deep:0.08
+  good:0.08
+  hope:0.08
+  announcement:0.08
+  comments:0.08
+  thread:0.08
+  careful:0.08
+  knew:0.08
+  pointing:0.08
+  web:0.08
+
+K: 5, Log-Likelihood: -19.529, Alpha: 11.000, Beta: 1.100

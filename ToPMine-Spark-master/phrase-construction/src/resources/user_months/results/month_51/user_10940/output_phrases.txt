@@ -1,0 +1,61 @@
+Topic 0:
+  godofwar:0.08
+  quote:0.08
+  plays:0.08
+  doxxers:0.08
+  pmit:0.08
+  bed:0.00
+  pissed:0.00
+  tsc:0.00
+  sound:0.00
+  banning:0.00
+
+Topic 1:
+  doxxers:0.08
+  quote:0.08
+  pmit:0.08
+  godofwar:0.08
+  plays:0.08
+  bed:0.00
+  pissed:0.00
+  tsc:0.00
+  sound:0.00
+  banning:0.00
+
+Topic 2:
+  plays:0.08
+  pmit:0.08
+  doxxers:0.08
+  godofwar:0.08
+  quote:0.08
+  bed:0.00
+  pissed:0.00
+  tsc:0.00
+  sound:0.00
+  banning:0.00
+
+Topic 3:
+  doxxers:0.08
+  pmit:0.08
+  plays:0.08
+  godofwar:0.08
+  quote:0.08
+  bed:0.00
+  pissed:0.00
+  tsc:0.00
+  sound:0.00
+  banning:0.00
+
+Topic 4:
+  plays:0.08
+  pmit:0.08
+  godofwar:0.08
+  quote:0.08
+  doxxers:0.08
+  bed:0.00
+  pissed:0.00
+  tsc:0.00
+  sound:0.00
+  banning:0.00
+
+K: 5, Log-Likelihood: -4.771, Alpha: 11.000, Beta: 1.100

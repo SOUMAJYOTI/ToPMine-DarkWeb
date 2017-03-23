@@ -1,0 +1,4 @@
+kysyn teilta viisaammilta etta miten esimerkiksi tuotteen kuvaan lisaaminen onnistuu tikun kautta onnistuin sina jo pariin otteeseen mutta kayttojarjestelma jotenkin piilottanut tuon muistikortin enka saa millaan kuvia tuotteista eli tarvis neuvoa tuon muistikortin loytamisen kanssa kvg noh sen jo tein ja en loytanyt mitaan ratkaisevaa kiitos vaivannnaosta sille kuka jaksaa neuvoa hardcoretripper.
+ epailen vahvasti etta suoriudun tehtavasta silla olen tays kasi koneiden kanssa mutta yritetaan kiitos paljon vaivannaostasi hardcoretripper.
+ mit jos kokeilet manuaalisesti mountata tuon tikun menn ytt ksi sut ll katsotaan ett mill nimell tikku fdisk lsitten men mnt hakemistoon cd mnt tehd tikulle hakemisto mkdir usbtikkusitten mountataan tikku sda tilalla pit olla fdisk ytynyt tikku mount dev sda mnt usbtikkun unmountataan tikku umount mnt usbtikkutoivottavasti saat kuvat lis tty.
+ 

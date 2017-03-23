@@ -1,0 +1,61 @@
+Topic 0:
+  love:5.12
+  market:4.11
+  links:3.11
+  avengers:1.98
+  phishers:1.27
+  fraudsters:0.98
+  operating:0.96
+  identified:0.95
+  verify:0.95
+  real:0.93
+
+Topic 1:
+  links:5.36
+  market:3.42
+  phishers:1.82
+  deepdotweb:0.85
+  dream:0.84
+  click:0.84
+  lot:0.83
+  family:0.83
+  days:0.82
+  markets:0.80
+
+Topic 2:
+  links:4.55
+  avengers:2.40
+  market:2.36
+  love:2.34
+  phishers:1.37
+  checking:0.94
+  protection:0.91
+  real:0.90
+  operating:0.90
+  verify:0.88
+
+Topic 3:
+  love:12.94
+  avengers:11.61
+  register:2.42
+  market:2.04
+  links:1.81
+  affiliate:1.52
+  onion:1.43
+  phishers:0.77
+  identified:0.75
+  verify:0.74
+
+Topic 4:
+  love:11.15
+  avengers:10.65
+  links:2.18
+  market:2.07
+  register:1.89
+  onion:1.43
+  affiliate:1.26
+  site:0.78
+  phishers:0.76
+  protection:0.76
+
+K: 5, Log-Likelihood: -773.417, Alpha: 11.000, Beta: 1.100

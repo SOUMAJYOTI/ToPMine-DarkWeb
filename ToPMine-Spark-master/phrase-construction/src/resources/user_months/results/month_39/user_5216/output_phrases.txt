@@ -1,0 +1,61 @@
+Topic 0:
+  post:0.20
+  message:0.20
+  menu:0.20
+  worry:0.20
+  making:0.20
+  icon:0.20
+  march:0.20
+  face:0.20
+  drop:0.20
+  kidding:0.20
+
+Topic 1:
+  falconthat:0.20
+  face:0.20
+  march:0.20
+  thumb:0.20
+  kidding:0.20
+  quote:0.20
+  falcon:0.20
+  tmg:0.20
+  stuck:0.20
+  icon:0.20
+
+Topic 2:
+  tmg:0.20
+  menu:0.20
+  clicked:0.20
+  bulb:0.20
+  drop:0.20
+  message:0.20
+  kidding:0.20
+  falcon:0.20
+  post:0.20
+  worry:0.20
+
+Topic 3:
+  stuck:0.20
+  quote:0.20
+  falcon:0.20
+  worry:0.20
+  clicked:0.20
+  post:0.20
+  message:0.20
+  icon:0.20
+  small:0.20
+  tmg:0.20
+
+Topic 4:
+  making:0.20
+  bulb:0.20
+  bruce:0.20
+  small:0.20
+  march:0.20
+  clicked:0.20
+  stuck:0.20
+  thumb:0.20
+  menu:0.20
+  falconthat:0.20
+
+K: 5, Log-Likelihood: -73.342, Alpha: 11.000, Beta: 1.100

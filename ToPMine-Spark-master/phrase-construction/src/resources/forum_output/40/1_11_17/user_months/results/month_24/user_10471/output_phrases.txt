@@ -1,0 +1,31 @@
+Topic 0:
+  pandora:0.00
+  vox:0.00
+  populi:0.00
+  deii:0.00
+
+Topic 1:
+  pandora:0.00
+  vox:0.00
+  populi:0.00
+  deii:0.00
+
+Topic 2:
+  pandora:0.00
+  vox:0.00
+  populi:0.00
+  deii:0.00
+
+Topic 3:
+  pandora:0.00
+  vox:0.00
+  populi:0.00
+  deii:0.00
+
+Topic 4:
+  pandora:0.00
+  vox:0.00
+  populi:0.00
+  deii:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  filters:3.78
+  darkcoin bitcoin:3.70
+  country:3.70
+  quality:3.70
+  secret:3.70
+  vendor:2.88
+  order:2.22
+  onionshop:1.91
+  categories:1.91
+  top:1.83
+
+Topic 1:
+  listings:4.59
+  checkout:3.71
+  deletion:3.71
+  independently:3.71
+  bitcoin darkcoin:3.71
+  full:3.71
+  diabolus:3.45
+  open:2.92
+  address:2.73
+  hard check:2.73
+
+Topic 2:
+  multi sir:5.59
+  market:4.99
+  transaction:3.72
+  easier:3.72
+  cannabis market:3.72
+  works:3.72
+  sir:3.72
+  personally:3.72
+  mufti:3.72
+  market niche:3.72
+
+Topic 3:
+  high:4.34
+  dnms:3.71
+  commissions:3.71
+  jack:3.43
+  escrow funds future:3.43
+  putting:2.86
+  suspicious:2.86
+  themself:2.86
+  risk:2.86
+  neurons:2.86
+
+Topic 4:
+  openbazaar:14.60
+  market website:11.67
+  market:9.09
+  openbazaar client:8.74
+  order:6.53
+  directly vendor dht:5.80
+  openbazaar dht:5.80
+  market web:5.80
+  ob:5.58
+  system:4.35
+
+K: 5, Log-Likelihood: -6421.616, Alpha: 11.000, Beta: 1.100

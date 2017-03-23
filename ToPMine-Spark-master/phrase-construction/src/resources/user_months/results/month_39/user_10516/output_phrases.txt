@@ -1,0 +1,61 @@
+Topic 0:
+  good:14.36
+  nasty:12.91
+  firmware:10.93
+  encrusted volume:10.43
+  good tails:10.31
+  card:9.40
+  bit:9.03
+  hardware error:8.86
+  work:8.34
+  device:7.74
+
+Topic 1:
+  problem keysize:13.76
+  hash sha:13.76
+  default luks:13.76
+  vpn:12.08
+  secure:11.56
+  cru:11.54
+  storage devices:11.54
+  writeblocker:11.54
+  time:11.43
+  work:10.90
+
+Topic 2:
+  luks:15.39
+  april:11.72
+  problem:10.21
+  files:10.13
+  thing:9.92
+  place full:9.41
+  atop hands:9.41
+  linked ethernet hardware:9.41
+  camels staff agents grab:9.41
+  library terrible idea:9.41
+
+Topic 3:
+  camera:14.59
+  tails whonix:13.75
+  de random:12.73
+  os:10.45
+  quote:9.61
+  version:9.45
+  browser:9.44
+  making:9.41
+  tor middlebox:9.34
+  dont remember:9.08
+
+Topic 4:
+  fitlet:26.95
+  fitlet fitlet:19.24
+  boot partition:15.72
+  compulab:15.39
+  amd:14.49
+  case:13.77
+  wifi:13.04
+  requires:11.87
+  supports:11.54
+  storage:11.54
+
+K: 5, Log-Likelihood: -67487.512, Alpha: 11.000, Beta: 1.100

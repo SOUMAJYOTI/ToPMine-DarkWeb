@@ -1,0 +1,61 @@
+Topic 0:
+  scam missy:8.29
+  members:8.29
+  people panacea:8.29
+  repeatedly:8.29
+  fleeced:8.29
+  coin:8.29
+  market:6.22
+  panacea:6.22
+  sig:4.95
+  cannabis:4.95
+
+Topic 1:
+  kaspersky:12.41
+  nsa:12.04
+  drives:10.02
+  software deep hard drives:7.44
+  code:6.20
+  hard:4.96
+  surveillance:4.96
+  china:4.96
+  monday:4.96
+  infected:4.96
+
+Topic 2:
+  coinbase:8.13
+  search engine:8.12
+  bitcoin:6.20
+  offered:4.95
+  largest:4.95
+  goal:4.95
+  service:4.95
+  bring:4.95
+  exchange:4.20
+  digital currency:4.20
+
+Topic 3:
+  key:10.58
+  public key:8.26
+  tor:8.23
+  pip:6.17
+  import:6.17
+  block:4.94
+  indentation:4.94
+  spaces:4.94
+  maintain:4.08
+  opsec:4.08
+
+Topic 4:
+  coinbase:12.64
+  state:9.93
+  laws office:9.93
+  work:8.70
+  bitin exchange:7.44
+  lawsky:7.44
+  financial services:7.44
+  company:6.38
+  bitcoin:6.25
+  industry:4.96
+
+K: 5, Log-Likelihood: -12066.905, Alpha: 11.000, Beta: 1.100

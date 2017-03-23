@@ -1,0 +1,61 @@
+Topic 0:
+  huora vittuillessaan laittanut:1.51
+  joku porilainen piri:1.51
+  asiakas:1.47
+  jo:1.45
+  nain:1.42
+  kuha:1.20
+  tulis:1.20
+  postiss:1.20
+  douppiluukku:1.20
+  testit:1.19
+
+Topic 1:
+  nimet:3.70
+  jos:3.70
+  mieless:1.82
+  noita:1.82
+  jotka:1.82
+  tai:1.82
+  uudellen:1.82
+  salattuna:1.82
+  asiakkaan:1.82
+  tehd:1.82
+
+Topic 2:
+  sekak ytt:3.97
+  escrow:2.26
+  kaupan:2.25
+  paitsi:2.25
+  mahdolliset:2.24
+  tuote:2.24
+  luukuttaa:2.24
+  malli:2.24
+  myyn:2.24
+  pi:2.24
+
+Topic 3:
+  kun:4.40
+  kannata:3.70
+  jossain:3.70
+  palautteet:2.80
+  ilyt:2.80
+  sinne:2.80
+  kahvittelemassa:2.80
+  pit:2.80
+  pm:2.80
+  jahka:2.80
+
+Topic 4:
+  hetykset:4.25
+  tullut:3.69
+  hyv etel:2.72
+  kest:2.72
+  suomesta:2.72
+  laatikkoon:2.72
+  kauanko:2.72
+  kokeillut:2.72
+  sit kolaa:2.72
+  olikos:2.72
+
+K: 5, Log-Likelihood: -4166.727, Alpha: 11.000, Beta: 1.100

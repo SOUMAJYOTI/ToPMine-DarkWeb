@@ -1,0 +1,61 @@
+Topic 0:
+  rsa:1.81
+  keys:1.67
+  usb:1.07
+  encryption:1.07
+  gpg:1.02
+  key:0.98
+  quote:0.48
+  pgp:0.47
+  recommended:0.44
+  generates:0.44
+
+Topic 1:
+  keys:1.59
+  key:1.54
+  gpg:1.14
+  pgp:0.79
+  rsa:0.68
+  encryption:0.50
+  usb:0.49
+  quote:0.45
+  solution:0.38
+  good:0.38
+
+Topic 2:
+  key:1.83
+  pgp:1.57
+  gpg:0.96
+  conf:0.85
+  messages:0.83
+  keys:0.81
+  email:0.54
+  bit:0.54
+  remove:0.54
+  test:0.53
+
+Topic 3:
+  key:1.63
+  pgp:1.35
+  keys:1.00
+  gpg:0.96
+  conf:0.67
+  messages:0.66
+  good:0.52
+  solution:0.52
+  chain:0.45
+  anonymized:0.45
+
+Topic 4:
+  key:2.02
+  pgp:1.83
+  messages:0.98
+  keys:0.93
+  conf:0.93
+  gpg:0.92
+  bit:0.66
+  email:0.66
+  remove:0.65
+  scrappy:0.58
+
+K: 5, Log-Likelihood: -561.865, Alpha: 11.000, Beta: 1.100

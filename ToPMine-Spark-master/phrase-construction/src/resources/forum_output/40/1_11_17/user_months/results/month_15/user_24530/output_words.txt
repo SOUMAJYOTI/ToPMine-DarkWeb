@@ -1,0 +1,61 @@
+Topic 0:
+  healing:4.15
+  love:3.53
+  ootp:2.30
+  brother:1.56
+  time:1.47
+  send:1.05
+  evening:1.04
+  sunday:1.03
+  pm:1.03
+  suggesting:1.03
+
+Topic 1:
+  time:0.77
+  est:0.64
+  keeping:0.59
+  people:0.57
+  love:0.54
+  timezone:0.53
+  light:0.53
+  sillywabbit:0.48
+  set:0.48
+  positive:0.48
+
+Topic 2:
+  est:2.01
+  time:1.87
+  love:1.21
+  profile:0.93
+  quote:0.87
+  set:0.86
+  sillywabbit:0.85
+  ootp:0.80
+  pct:0.79
+  read:0.78
+
+Topic 3:
+  life:2.48
+  remember:2.45
+  light:1.83
+  lsd:1.56
+  man:1.55
+  stick:1.54
+  worth:1.54
+  keeping:0.95
+  people:0.92
+  great:0.82
+
+Topic 4:
+  clock:4.97
+  forum:4.14
+  july:2.67
+  time:2.62
+  settings:1.68
+  offset:1.67
+  modified:1.39
+  header:1.39
+  account:1.39
+  amwtf:1.39
+
+K: 5, Log-Likelihood: -1262.520, Alpha: 11.000, Beta: 1.100

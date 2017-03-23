@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.56
+  forum:0.56
+  acropolis:0.42
+  check:0.39
+  marketplace:0.39
+  vendor:0.39
+  referred:0.21
+  weve:0.21
+  loving:0.21
+  plate:0.21
+
+Topic 1:
+  forum:0.64
+  market:0.62
+  vendor:0.41
+  check:0.41
+  marketplace:0.41
+  acropolis:0.39
+  time:0.20
+  vendors:0.20
+  damage:0.20
+  buyers:0.20
+
+Topic 2:
+  market:0.65
+  forum:0.61
+  check:0.41
+  marketplace:0.40
+  vendor:0.40
+  acropolis:0.39
+  league:0.20
+  banned:0.20
+  muert:0.20
+  people:0.20
+
+Topic 3:
+  forum:0.57
+  market:0.56
+  acropolis:0.41
+  marketplace:0.40
+  vendor:0.39
+  check:0.39
+  url:0.21
+  plate:0.21
+  referred:0.21
+  loving:0.21
+
+Topic 4:
+  forum:0.62
+  market:0.61
+  vendor:0.41
+  check:0.41
+  marketplace:0.41
+  acropolis:0.39
+  dark:0.20
+  cola:0.20
+  banned:0.20
+  kicked:0.20
+
+K: 5, Log-Likelihood: -169.037, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  hash:0.65
+  top:0.41
+  bad:0.28
+  selling:0.28
+  fake:0.28
+  deals:0.28
+  onion:0.14
+  read:0.14
+  php:0.14
+  black:0.14
+
+Topic 1:
+  hash:0.71
+  top:0.42
+  selling:0.28
+  deals:0.28
+  bad:0.28
+  fake:0.28
+  idea:0.14
+  thing:0.14
+  dude:0.14
+  dodge:0.14
+
+Topic 2:
+  hash:0.73
+  top:0.42
+  bad:0.28
+  deals:0.28
+  fake:0.28
+  selling:0.28
+  smoking:0.14
+  bmr:0.14
+  kids:0.14
+  prolly:0.14
+
+Topic 3:
+  hash:0.71
+  top:0.41
+  fake:0.28
+  selling:0.28
+  deals:0.28
+  bad:0.28
+  stone:0.14
+  thing:0.14
+  messages:0.14
+  prolly:0.14
+
+Topic 4:
+  hash:0.66
+  top:0.42
+  deals:0.28
+  fake:0.28
+  bad:0.28
+  selling:0.28
+  topic:0.14
+  black:0.14
+  onion:0.14
+  taluhwidx:0.14
+
+K: 5, Log-Likelihood: -182.963, Alpha: 11.000, Beta: 1.100

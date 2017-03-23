@@ -1,0 +1,61 @@
+Topic 0:
+  mods:0.83
+  sr mods:0.80
+  active:0.68
+  amlolbest:0.66
+  hotpants:0.66
+  september:0.66
+  bump:0.66
+  august:0.65
+  quote:0.63
+  hub:0.54
+
+Topic 1:
+  links:0.80
+  days:0.80
+  reply post:0.80
+  today:0.80
+  wanted:0.80
+  reply quote:0.80
+  loged:0.79
+  realized:0.79
+  thread:0.79
+  create:0.79
+
+Topic 2:
+  ya:3.23
+  safe:2.82
+  wit:2.82
+  dont:2.82
+  conspiracy:2.82
+  sr:1.75
+  warning:1.33
+  good:1.33
+  doctorclu:1.33
+  buries:1.33
+
+Topic 3:
+  doesnt:2.71
+  forum:2.71
+  happen:2.70
+  block:2.12
+  market:1.75
+  sr:1.57
+  member:1.24
+  willy:1.24
+  blocked:1.24
+  choices:1.24
+
+Topic 4:
+  alfred:2.19
+  active:1.16
+  unfortunate:1.12
+  positive:1.12
+  ass:1.12
+  safer:1.12
+  pmsr:1.12
+  cheapestpills:1.12
+  direction:1.12
+  faith:1.12
+
+K: 5, Log-Likelihood: -1026.745, Alpha: 11.000, Beta: 1.100

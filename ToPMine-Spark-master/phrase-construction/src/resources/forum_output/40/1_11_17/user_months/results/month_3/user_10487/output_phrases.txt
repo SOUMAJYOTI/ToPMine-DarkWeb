@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:0.48
+  ships:0.41
+  canada:0.28
+  understand:0.27
+  sign:0.24
+  dope:0.23
+  shit:0.23
+  yep:0.23
+  escrow:0.23
+  days:0.23
+
+Topic 1:
+  vendor:0.44
+  ships:0.42
+  canada:0.28
+  understand:0.28
+  sign:0.24
+  escrow:0.22
+  clockwork:0.22
+  house:0.22
+  everytime:0.22
+  top:0.22
+
+Topic 2:
+  ships:0.43
+  vendor:0.41
+  understand:0.28
+  canada:0.28
+  sign:0.24
+  confirmed:0.23
+  people:0.23
+  read:0.23
+  orders:0.23
+  received:0.23
+
+Topic 3:
+  vendor:0.48
+  ships:0.41
+  canada:0.28
+  understand:0.27
+  sign:0.24
+  fuck:0.23
+  hands:0.23
+  word:0.23
+  everytime:0.23
+  fast:0.23
+
+Topic 4:
+  ships:0.42
+  vendor:0.38
+  understand:0.28
+  canada:0.27
+  plata:0.24
+  experience:0.24
+  info:0.24
+  bsm:0.24
+  thinking:0.24
+  heard:0.24
+
+K: 5, Log-Likelihood: -235.931, Alpha: 11.000, Beta: 1.100

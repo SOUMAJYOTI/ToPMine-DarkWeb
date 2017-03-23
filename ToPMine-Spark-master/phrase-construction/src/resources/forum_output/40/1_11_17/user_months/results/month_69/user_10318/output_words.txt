@@ -1,0 +1,51 @@
+Topic 0:
+  coinb:0.40
+  inoh:0.20
+  december:0.20
+  quote:0.20
+  pmuse:0.20
+  jaxx:0.20
+  slow:0.20
+  eli:0.20
+
+Topic 1:
+  coinb:0.40
+  slow:0.20
+  quote:0.20
+  december:0.20
+  jaxx:0.20
+  pmuse:0.20
+  inoh:0.20
+  eli:0.20
+
+Topic 2:
+  coinb:0.40
+  jaxx:0.20
+  december:0.20
+  inoh:0.20
+  eli:0.20
+  quote:0.20
+  pmuse:0.20
+  slow:0.20
+
+Topic 3:
+  coinb:0.40
+  pmuse:0.20
+  jaxx:0.20
+  inoh:0.20
+  december:0.20
+  eli:0.20
+  quote:0.20
+  slow:0.20
+
+Topic 4:
+  coinb:0.40
+  eli:0.20
+  slow:0.20
+  quote:0.20
+  inoh:0.20
+  pmuse:0.20
+  jaxx:0.20
+  december:0.20
+
+K: 5, Log-Likelihood: -18.414, Alpha: 11.000, Beta: 1.100

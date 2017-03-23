@@ -1,0 +1,61 @@
+Topic 0:
+  imei:5.88
+  phones:3.75
+  flag:2.93
+  swapping:2.82
+  things:2.14
+  imsi:1.93
+  red:1.93
+  cycle:1.93
+  low:1.23
+  technical:1.23
+
+Topic 1:
+  real:3.02
+  tor:2.91
+  quote:2.31
+  onion:2.30
+  works:2.09
+  sigaint:2.07
+  january:2.06
+  onioncat:1.91
+  call:1.61
+  things:1.52
+
+Topic 2:
+  voip:9.80
+  tor:9.46
+  vpn:8.45
+  phone:7.78
+  call:5.14
+  leaks:3.99
+  chain:3.84
+  build:3.84
+  physically:3.84
+  nsa:3.84
+
+Topic 3:
+  satellite:7.71
+  phones:5.82
+  onion:4.79
+  january:4.05
+  quote:3.85
+  sip:3.43
+  works:2.52
+  receive:2.40
+  presidente:2.37
+  el:2.37
+
+Topic 4:
+  signal:6.14
+  source:2.95
+  baseband:2.89
+  documentation:2.85
+  elaborate:2.85
+  metadata:2.45
+  targeted:2.19
+  dont:2.18
+  leaks:2.01
+  call:1.96
+
+K: 5, Log-Likelihood: -3872.246, Alpha: 11.000, Beta: 1.100

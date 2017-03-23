@@ -1,0 +1,61 @@
+Topic 0:
+  transaction:5.31
+  private key:5.31
+  december pmquote:4.06
+  enter:3.52
+  updated easy set:2.96
+  hit head lump wood:2.72
+  sort:2.66
+  ms:2.66
+  fatherted:2.66
+  ted:2.66
+
+Topic 1:
+  version:12.06
+  electrum:9.75
+  electrum tails:3.46
+  direct link:3.37
+  acropolis market:3.36
+  mufti sir transactions:3.29
+  check hashes:3.26
+  tails electrum:3.04
+  download:2.95
+  hash:2.65
+
+Topic 2:
+  electrum:4.52
+  version:2.24
+  multisig:1.48
+  tails electrum:1.31
+  download:1.26
+  electrums:1.14
+  amnesia persistent electrum:1.06
+  check hashes:1.00
+  acropolis market:0.99
+  mufti sir transactions:0.97
+
+Topic 3:
+  quote:1.96
+  coinb:1.76
+  inoh:1.58
+  december:1.58
+  jaxx:1.58
+  pmuse:1.58
+  set mufti sig alphabay:1.54
+  ps father:1.54
+  updated easy:1.54
+  start sky limit cheers:1.54
+
+Topic 4:
+  electrum:3.84
+  version:2.11
+  multisig:1.39
+  electrums:1.26
+  download:1.16
+  mufti sir transactions:1.12
+  check hashes:1.11
+  direct link:1.10
+  public keys:1.08
+  code select exec:1.07
+
+K: 5, Log-Likelihood: -3244.255, Alpha: 11.000, Beta: 1.100

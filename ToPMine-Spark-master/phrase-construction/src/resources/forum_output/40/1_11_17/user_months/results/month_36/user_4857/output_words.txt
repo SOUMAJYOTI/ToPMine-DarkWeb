@@ -1,0 +1,61 @@
+Topic 0:
+  influx:0.56
+  users:0.56
+  registration:0.42
+  bet:0.42
+  agora:0.42
+  links:0.42
+  account:0.42
+  public:0.41
+  advise:0.41
+  wait:0.41
+
+Topic 1:
+  users:0.59
+  influx:0.58
+  links:0.41
+  wait:0.41
+  money:0.41
+  advise:0.41
+  public:0.41
+  inactive:0.40
+  bet:0.40
+  account:0.40
+
+Topic 2:
+  users:0.60
+  influx:0.60
+  advise:0.40
+  agora:0.40
+  money:0.40
+  registration:0.40
+  evolution:0.40
+  account:0.40
+  start:0.40
+  inactive:0.40
+
+Topic 3:
+  influx:0.63
+  users:0.62
+  stressing:0.41
+  evolution:0.41
+  start:0.41
+  migrating:0.40
+  money:0.39
+  inactive:0.39
+  wait:0.39
+  public:0.39
+
+Topic 4:
+  influx:0.63
+  users:0.63
+  migrating:0.41
+  stressing:0.41
+  evolution:0.41
+  start:0.41
+  inactive:0.39
+  registration:0.39
+  public:0.39
+  advise:0.39
+
+K: 5, Log-Likelihood: -122.055, Alpha: 11.000, Beta: 1.100

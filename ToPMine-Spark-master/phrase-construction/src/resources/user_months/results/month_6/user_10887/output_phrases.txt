@@ -1,0 +1,61 @@
+Topic 0:
+  market:18.86
+  markets:13.34
+  multisignature address:9.81
+  buyer seller:8.53
+  redeemscript:7.25
+  verify buyer seller:7.22
+  ability unlock funds:7.19
+  trust market:7.18
+  escrow system:7.17
+  people:7.06
+
+Topic 1:
+  transaction:6.33
+  systems easier buyer vendor:4.94
+  happy vendors buyers finalize:4.94
+  takes commission starting crow:4.94
+  issues ive offering advice:4.94
+  community growing safe secure:4.94
+  buyer vendor prioritize verifying:4.94
+  blackbanks system:4.94
+  mutually beneficial financial gain:4.94
+  transaction single output blackbank:4.94
+
+Topic 2:
+  free open sourced:7.08
+  effort verify:6.55
+  imply:5.78
+  imply javascript:5.78
+  bad recommend electrum bitcoind:5.78
+  javascript required:5.75
+  market fees:5.43
+  outlined bitcoin improvement protocol:4.85
+  funds cases multi sir:4.85
+  site continuing:4.85
+
+Topic 3:
+  quote jolly roger:9.07
+  february pmquote:8.93
+  incompetent:6.75
+  market:6.23
+  disagree:4.54
+  ronin february pm:4.51
+  buyer vendor:4.47
+  benefits:4.47
+  developers:4.46
+  ronin february pmi:4.45
+
+Topic 4:
+  public key:11.08
+  javascript:7.02
+  addresses:6.34
+  seller:4.76
+  task:4.66
+  work:4.66
+  cryptography:4.66
+  implemented:4.66
+  solution:4.66
+  public keys:4.06
+
+K: 5, Log-Likelihood: -11855.116, Alpha: 11.000, Beta: 1.100

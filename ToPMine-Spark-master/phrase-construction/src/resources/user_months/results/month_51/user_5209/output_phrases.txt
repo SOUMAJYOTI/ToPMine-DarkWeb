@@ -1,0 +1,61 @@
+Topic 0:
+  disappointed:1.54
+  market:1.53
+  picks:1.53
+  abraxas:1.52
+  solid:1.52
+  markets:1.52
+  big:1.51
+  business:1.41
+  agora:0.98
+  youll:0.85
+
+Topic 1:
+  light transactions:1.37
+  respond buyer:1.32
+  galindoi:1.15
+  ive:1.11
+  quote galindoi july:1.01
+  dont:1.00
+  grain salt:0.96
+  crickets lot activity mushrooms:0.95
+  dollars system:0.95
+  experience depositing funds seller:0.94
+
+Topic 2:
+  btc:0.93
+  don:0.81
+  experience depositing funds:0.76
+  agora:0.72
+  mushrooms ve:0.72
+  customers order people moving:0.71
+  light transactions:0.70
+  seller crickets lot activity:0.69
+  direct deals agora:0.69
+  respond buyer:0.68
+
+Topic 3:
+  dollars system wallets easily:1.28
+  sales:1.28
+  pmi:1.26
+  occur:1.25
+  galindoiis:1.23
+  experience depositing funds:1.22
+  hassle grain salt:1.19
+  agora:1.09
+  respond buyer:1.08
+  light transactions:1.05
+
+Topic 4:
+  btc:2.40
+  threads:1.47
+  forums:1.44
+  great:1.44
+  banned:1.44
+  acid:1.44
+  person:1.43
+  depositing:1.42
+  trust:1.41
+  sheets:1.41
+
+K: 5, Log-Likelihood: -864.924, Alpha: 11.000, Beta: 1.100

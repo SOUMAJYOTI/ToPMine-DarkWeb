@@ -1,0 +1,61 @@
+Topic 0:
+  tor:8.18
+  hidden:6.26
+  client:5.15
+  service:4.85
+  surname:3.05
+  password:3.03
+  key:2.89
+  attack:2.80
+  middle:2.79
+  based:2.13
+
+Topic 1:
+  mail:8.06
+  encryption:2.92
+  ssl:2.92
+  claws:2.55
+  imap:2.17
+  service:2.14
+  network:1.90
+  tails:1.85
+  server:1.73
+  configure:1.62
+
+Topic 2:
+  bitmessage:31.16
+  secure:6.77
+  messages:5.42
+  gateway:3.88
+  encrypt:3.86
+  pgp:3.86
+  zaphod:3.32
+  sending:3.02
+  ch:2.64
+  communicate:2.63
+
+Topic 3:
+  ssl:3.84
+  tails:3.07
+  quote:2.07
+  usb:1.81
+  sites:1.79
+  unaffected:1.79
+  bug:1.79
+  systems:1.79
+  mail:1.67
+  april:1.51
+
+Topic 4:
+  tails:5.73
+  step:3.66
+  persistent:3.35
+  design:2.89
+  volume:2.85
+  gedit:1.89
+  wheezy:1.89
+  editor:1.89
+  managing:1.71
+  guide:1.71
+
+K: 5, Log-Likelihood: -2377.729, Alpha: 11.000, Beta: 1.100

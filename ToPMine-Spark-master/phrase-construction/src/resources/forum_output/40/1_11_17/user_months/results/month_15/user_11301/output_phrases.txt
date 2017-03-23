@@ -1,0 +1,61 @@
+Topic 0:
+  site:0.45
+  bitch:0.26
+  ccs:0.14
+  wiki:0.14
+  seams:0.14
+  cloned:0.14
+  products:0.14
+  sites:0.14
+  talk:0.14
+  linked:0.14
+
+Topic 1:
+  site:0.39
+  bitch:0.29
+  pussy:0.14
+  scammed:0.14
+  spread:0.14
+  ahead:0.14
+  problem:0.14
+  faced:0.14
+  bullshit:0.14
+  pretty:0.14
+
+Topic 2:
+  site:0.41
+  bitch:0.28
+  pmim:0.14
+  quote:0.14
+  view:0.14
+  hub:0.14
+  dim:0.14
+  threatening:0.14
+  threats:0.14
+  mrfungi:0.14
+
+Topic 3:
+  site:0.40
+  bitch:0.28
+  jump:0.14
+  bullshit:0.14
+  faced:0.14
+  asshat:0.14
+  hearsay:0.14
+  spread:0.14
+  fucking:0.14
+  buy:0.14
+
+Topic 4:
+  site:0.42
+  bitch:0.28
+  cloned:0.14
+  laughs:0.14
+  pay:0.14
+  youll:0.14
+  markets:0.14
+  apple:0.14
+  operates:0.14
+  hope:0.14
+
+K: 5, Log-Likelihood: -243.667, Alpha: 11.000, Beta: 1.100

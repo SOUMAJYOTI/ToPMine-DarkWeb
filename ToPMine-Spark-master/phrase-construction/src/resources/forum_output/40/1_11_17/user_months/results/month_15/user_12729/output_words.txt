@@ -1,0 +1,61 @@
+Topic 0:
+  ja:1.26
+  kannattaa:0.77
+  luotettavan:0.65
+  sitten:0.56
+  kun:0.55
+  tilauksia:0.40
+  mulle:0.40
+  tarvisin:0.39
+  asun:0.39
+  kaverin:0.39
+
+Topic 1:
+  ja:1.02
+  kannattaa:0.79
+  luotettavan:0.60
+  kun:0.58
+  sitten:0.58
+  btc:0.40
+  harmi:0.40
+  isompia:0.40
+  vain:0.40
+  tuollainen:0.40
+
+Topic 2:
+  ja:0.91
+  kannattaa:0.75
+  sitten:0.62
+  kun:0.62
+  luotettavan:0.59
+  tampereella:0.40
+  parinkympin:0.40
+  harmi:0.40
+  kuin:0.40
+  ulkomailta:0.40
+
+Topic 3:
+  ja:0.90
+  kannattaa:0.80
+  kun:0.62
+  sitten:0.62
+  luotettavan:0.58
+  pi:0.41
+  maksaa:0.41
+  ett:0.41
+  tilata:0.41
+  kuukausi:0.41
+
+Topic 4:
+  ja:0.91
+  kannattaa:0.89
+  kun:0.62
+  sitten:0.62
+  luotettavan:0.57
+  itse:0.41
+  tilata:0.41
+  isompia:0.41
+  parinkympin:0.41
+  ulkomailta:0.41
+
+K: 5, Log-Likelihood: -616.012, Alpha: 11.000, Beta: 1.100

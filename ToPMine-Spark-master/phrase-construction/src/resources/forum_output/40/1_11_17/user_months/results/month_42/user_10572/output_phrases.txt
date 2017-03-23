@@ -1,0 +1,61 @@
+Topic 0:
+  quote real sigaint april:13.68
+  clock:13.03
+  tor:12.08
+  time synchronization:10.64
+  webserver:10.49
+  mechwarrior april:9.19
+  security:8.65
+  ntp:7.98
+  reveals clock:7.38
+  running hidden service:7.38
+
+Topic 1:
+  researchers:30.68
+  mail:18.40
+  export:15.33
+  attackers:15.33
+  differ hellman:13.43
+  mail servers:12.27
+  data needed attack:9.20
+  called:9.20
+  key:9.20
+  encrusted connections:9.20
+
+Topic 2:
+  code:15.84
+  virtual machine:12.27
+  security:9.59
+  virtualbox:9.20
+  access:9.11
+  vulnerability:8.07
+  relays hidden services compromised:6.93
+  year:6.51
+  hacks:6.13
+  entire:6.13
+
+Topic 3:
+  tor instance system:10.63
+  persistent storage:10.58
+  quote el presidente april:9.19
+  attacker:8.68
+  onion address:8.05
+  clock nap:7.97
+  domains:7.96
+  april:6.83
+  thing:6.69
+  work:6.60
+
+Topic 4:
+  tor:14.71
+  graham:9.20
+  sigaint org:8.35
+  china shop find china:8.35
+  solid steel changed tactics:8.34
+  internet:8.14
+  encryption:8.05
+  messaging providers:7.92
+  exit nodes:7.08
+  network:7.06
+
+K: 5, Log-Likelihood: -39057.093, Alpha: 11.000, Beta: 1.100

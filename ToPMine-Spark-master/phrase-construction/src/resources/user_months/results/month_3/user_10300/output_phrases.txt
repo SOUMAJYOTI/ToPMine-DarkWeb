@@ -1,0 +1,61 @@
+Topic 0:
+  transaction:0.57
+  withdrawal:0.36
+  escrow:0.35
+  auto withdraw:0.35
+  concerned:0.35
+  minimum:0.34
+  btc:0.33
+  find:0.32
+  support:0.32
+  havent:0.27
+
+Topic 1:
+  transaction:0.55
+  auto withdraw:0.35
+  concerned:0.35
+  withdrawal:0.34
+  escrow:0.34
+  btc:0.33
+  minimum:0.33
+  support:0.33
+  find:0.33
+  auto:0.27
+
+Topic 2:
+  transaction:0.44
+  find:0.35
+  support:0.35
+  btc:0.35
+  minimum:0.34
+  escrow:0.33
+  auto withdraw:0.33
+  concerned:0.33
+  withdrawal:0.33
+  auto:0.27
+
+Topic 3:
+  transaction:0.45
+  find:0.35
+  btc:0.35
+  support:0.34
+  escrow:0.34
+  concerned:0.34
+  auto withdraw:0.34
+  minimum:0.33
+  withdrawal:0.33
+  auto:0.27
+
+Topic 4:
+  transaction:0.49
+  support:0.35
+  minimum:0.34
+  btc:0.34
+  withdrawal:0.34
+  find:0.34
+  concerned:0.34
+  auto withdraw:0.33
+  escrow:0.33
+  auto:0.27
+
+K: 5, Log-Likelihood: -226.203, Alpha: 11.000, Beta: 1.100

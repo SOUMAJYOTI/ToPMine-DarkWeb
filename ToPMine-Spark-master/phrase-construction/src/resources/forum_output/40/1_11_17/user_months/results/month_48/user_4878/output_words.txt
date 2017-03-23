@@ -1,0 +1,61 @@
+Topic 0:
+  money:5.73
+  bad:5.66
+  transaction:5.49
+  close:5.35
+  don:5.14
+  ve:4.20
+  dnm:4.00
+  quote:3.44
+  easily:3.28
+  comfortable:3.18
+
+Topic 1:
+  money:16.94
+  dnm:8.22
+  transaction:4.79
+  close:4.68
+  quote:4.64
+  bad:3.20
+  things:3.17
+  ve:3.00
+  trust:3.00
+  comfortable:2.99
+
+Topic 2:
+  agora:20.07
+  hope:15.81
+  luck:12.72
+  account:11.81
+  time:10.00
+  days:9.96
+  deposits:9.82
+  order:9.16
+  respond:7.82
+  sit:7.82
+
+Topic 3:
+  friends:20.84
+  dont:14.84
+  buy:11.62
+  amount:11.50
+  bud:10.96
+  don:10.42
+  sense:8.22
+  close:7.83
+  vendor:7.79
+  molly:7.72
+
+Topic 4:
+  agora:9.70
+  deposit:7.05
+  people:6.64
+  real:6.64
+  money:6.30
+  vendors:5.39
+  irl:5.16
+  life:4.63
+  trust:4.59
+  open:3.58
+
+K: 5, Log-Likelihood: -9055.015, Alpha: 11.000, Beta: 1.100

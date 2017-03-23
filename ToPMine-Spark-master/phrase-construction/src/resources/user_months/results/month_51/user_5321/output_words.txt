@@ -1,0 +1,61 @@
+Topic 0:
+  foxtrotone:0.20
+  understand:0.20
+  times:0.20
+  tullista:0.20
+  problem:0.20
+  suomen:0.20
+  amonko:0.20
+  answer:0.20
+  tumult:0.20
+  pi:0.20
+
+Topic 1:
+  times:0.20
+  tullista:0.20
+  amonko:0.20
+  foxtrotone:0.20
+  problem:0.20
+  message:0.20
+  correctly:0.20
+  tumult:0.20
+  understand:0.20
+  answer:0.20
+
+Topic 2:
+  quote:0.20
+  pi:0.20
+  understand:0.20
+  correctly:0.20
+  suomen:0.20
+  tullista:0.20
+  amonko:0.20
+  tumult:0.20
+  message:0.20
+  foxtrotone:0.20
+
+Topic 3:
+  problem:0.20
+  correctly:0.20
+  message:0.20
+  suomen:0.20
+  quote:0.20
+  foxtrotone:0.20
+  answer:0.20
+  amonko:0.20
+  tumult:0.20
+  tullista:0.20
+
+Topic 4:
+  answer:0.20
+  pi:0.20
+  tumult:0.20
+  suomen:0.20
+  understand:0.20
+  message:0.20
+  quote:0.20
+  times:0.20
+  problem:0.20
+  amonko:0.20
+
+K: 5, Log-Likelihood: -33.344, Alpha: 11.000, Beta: 1.100

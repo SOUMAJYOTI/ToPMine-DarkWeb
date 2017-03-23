@@ -1,0 +1,61 @@
+Topic 0:
+  coupon:0.67
+  forum:0.66
+  private:0.65
+  guess:0.49
+  lotuss:0.48
+  month:0.46
+  info:0.42
+  packs:0.42
+  retired:0.37
+  good:0.36
+
+Topic 1:
+  guess:0.74
+  forum:0.52
+  coupon:0.52
+  private:0.51
+  good:0.46
+  retired:0.43
+  info:0.38
+  packs:0.38
+  month:0.32
+  lotuss:0.32
+
+Topic 2:
+  guess:0.69
+  private:0.54
+  forum:0.54
+  coupon:0.53
+  good:0.44
+  retired:0.43
+  info:0.39
+  packs:0.38
+  month:0.34
+  lotuss:0.34
+
+Topic 3:
+  guess:0.61
+  private:0.59
+  forum:0.57
+  coupon:0.57
+  retired:0.41
+  good:0.41
+  packs:0.40
+  info:0.39
+  month:0.38
+  lotuss:0.37
+
+Topic 4:
+  coupon:0.72
+  private:0.70
+  forum:0.70
+  month:0.50
+  lotuss:0.48
+  guess:0.47
+  info:0.42
+  packs:0.42
+  retired:0.36
+  good:0.34
+
+K: 5, Log-Likelihood: -271.250, Alpha: 11.000, Beta: 1.100

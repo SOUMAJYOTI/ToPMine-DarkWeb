@@ -1,0 +1,61 @@
+Topic 0:
+  faiella:0.64
+  silk road:0.33
+  money:0.32
+  judge:0.24
+  business:0.24
+  activity:0.16
+  drug:0.16
+  york:0.16
+  years prison:0.16
+  sentenced:0.16
+
+Topic 1:
+  faiella:0.65
+  money:0.32
+  silk road:0.32
+  business:0.24
+  judge:0.24
+  btc:0.16
+  man:0.16
+  shut:0.16
+  activity:0.16
+  prosecutors:0.16
+
+Topic 2:
+  faiella:0.67
+  money:0.33
+  silk road:0.33
+  business:0.24
+  judge:0.24
+  years prison:0.16
+  admitted:0.16
+  bitin:0.16
+  florida:0.16
+  currency:0.16
+
+Topic 3:
+  faiella:0.65
+  money:0.32
+  silk road:0.32
+  business:0.24
+  judge:0.24
+  btc:0.16
+  shut:0.16
+  pleaded:0.16
+  website:0.16
+  sentence:0.16
+
+Topic 4:
+  faiella:0.63
+  money:0.32
+  silk road:0.32
+  judge:0.24
+  business:0.24
+  btc:0.16
+  unlicensed:0.16
+  case:0.16
+  bitin:0.16
+  drug:0.16
+
+K: 5, Log-Likelihood: -384.158, Alpha: 11.000, Beta: 1.100

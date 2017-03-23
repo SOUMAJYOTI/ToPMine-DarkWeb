@@ -1,0 +1,61 @@
+Topic 0:
+  eic:0.40
+  side:0.40
+  tech:0.40
+  coming:0.40
+  theory:0.40
+  issues:0.20
+  hard:0.20
+  guys:0.20
+  separate:0.20
+  team:0.20
+
+Topic 1:
+  tech:0.40
+  eic:0.40
+  side:0.40
+  coming:0.40
+  theory:0.40
+  geographically:0.20
+  guys:0.20
+  late:0.20
+  keys:0.20
+  fucked:0.20
+
+Topic 2:
+  theory:0.40
+  side:0.40
+  tech:0.40
+  coming:0.40
+  eic:0.40
+  charity:0.20
+  keys:0.20
+  separate:0.20
+  team:0.20
+  hard:0.20
+
+Topic 3:
+  coming:0.40
+  theory:0.40
+  tech:0.40
+  side:0.40
+  eic:0.40
+  online:0.20
+  december:0.20
+  sort:0.20
+  teach:0.20
+  illegal:0.20
+
+Topic 4:
+  theory:0.40
+  coming:0.40
+  eic:0.40
+  tech:0.40
+  side:0.40
+  profit:0.20
+  geographically:0.20
+  pussied:0.20
+  game:0.20
+  december:0.20
+
+K: 5, Log-Likelihood: -193.720, Alpha: 11.000, Beta: 1.100

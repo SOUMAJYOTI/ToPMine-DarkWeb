@@ -1,0 +1,61 @@
+Topic 0:
+  asia:1.78
+  fdt:1.78
+  researching:1.77
+  america:1.77
+  type:1.76
+  advise:1.76
+  conversion:1.76
+  south:1.76
+  middle:1.75
+  countries:1.75
+
+Topic 1:
+  good:1.70
+  hacks:0.89
+  hasted:0.88
+  doesn:0.87
+  electrum:0.87
+  pretty:0.86
+  wallet:0.86
+  coins:0.86
+  download:0.86
+  info wallet:0.85
+
+Topic 2:
+  good:2.42
+  recommend:1.38
+  vulnerable:1.38
+  standard:1.35
+  install:1.35
+  safety:1.35
+  blockchain:1.34
+  highly:1.33
+  info wallet:1.32
+  idea:1.32
+
+Topic 3:
+  deposits withdraws:4.58
+  low:2.06
+  care:2.06
+  info:2.06
+  recommendations:2.06
+  cost:2.06
+  takes:2.06
+  narrow:2.05
+  safely:2.05
+  happen:2.05
+
+Topic 4:
+  valuable:0.98
+  happy:0.98
+  trails:0.96
+  safe:0.86
+  electrom:0.86
+  tremor:0.86
+  long:0.86
+  devise:0.86
+  cool:0.86
+  absolute:0.85
+
+K: 5, Log-Likelihood: -623.183, Alpha: 11.000, Beta: 1.100

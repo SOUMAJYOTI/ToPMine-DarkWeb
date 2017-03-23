@@ -1,0 +1,61 @@
+Topic 0:
+  april:25.67
+  typewriters:17.92
+  zaphod:10.84
+  ava:10.33
+  interesting:9.93
+  pmquote:9.21
+  machine:8.47
+  quote:8.29
+  leaned:7.80
+  maggie:6.69
+
+Topic 1:
+  tor:19.82
+  system:13.53
+  security:12.72
+  software:10.90
+  bug:9.82
+  network:7.90
+  virtual:7.65
+  nsa:7.08
+  host:6.77
+  encryption:6.69
+
+Topic 2:
+  onion:14.80
+  address:11.93
+  sigaint:11.58
+  tails:8.88
+  find:7.32
+  exit:5.94
+  dont:4.98
+  org:4.94
+  password:4.92
+  saved:4.87
+
+Topic 3:
+  time:26.48
+  clock:25.87
+  tor:20.51
+  quote:14.21
+  april:12.33
+  servers:12.06
+  real:11.95
+  ntp:11.93
+  running:11.82
+  hidden:11.38
+
+Topic 4:
+  mail:13.87
+  hellman:12.62
+  connections:11.35
+  researchers:9.99
+  attack:9.73
+  key:9.11
+  data:8.28
+  vulnerable:7.81
+  attacks:7.77
+  export:6.99
+
+K: 5, Log-Likelihood: -18840.004, Alpha: 11.000, Beta: 1.100

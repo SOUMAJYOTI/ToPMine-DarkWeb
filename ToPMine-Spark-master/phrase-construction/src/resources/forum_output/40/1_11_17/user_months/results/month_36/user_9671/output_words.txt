@@ -1,0 +1,61 @@
+Topic 0:
+  book:2.17
+  great:1.37
+  club:1.07
+  reading:1.03
+  idea:1.03
+  read:0.91
+  guys:0.88
+  time:0.53
+  computers:0.53
+  hard:0.53
+
+Topic 1:
+  dmt:1.99
+  smoking:1.99
+  key:1.88
+  handy:1.82
+  chemicals:0.88
+  toyed:0.88
+  forums:0.88
+  remove:0.88
+  properly:0.87
+  pipes:0.87
+
+Topic 2:
+  handy:1.78
+  key:1.72
+  dmt:1.61
+  smoking:1.61
+  version:0.83
+  high:0.82
+  machine:0.82
+  cost:0.82
+  surprised:0.82
+  pretty:0.82
+
+Topic 3:
+  book:2.09
+  reading:1.58
+  great:1.46
+  idea:1.21
+  club:1.08
+  post:0.75
+  kindle:0.75
+  dots:0.75
+  apps:0.75
+  thing:0.75
+
+Topic 4:
+  book:2.86
+  great:1.37
+  read:1.35
+  guys:1.34
+  club:1.28
+  idea:1.16
+  reading:1.08
+  vote:0.61
+  monthly:0.61
+  pace:0.61
+
+K: 5, Log-Likelihood: -809.749, Alpha: 11.000, Beta: 1.100

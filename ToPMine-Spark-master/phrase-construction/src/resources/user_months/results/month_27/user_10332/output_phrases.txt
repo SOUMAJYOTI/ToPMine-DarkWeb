@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.42
+  multi:0.14
+  wait:0.14
+  including:0.14
+  community:0.14
+  balls:0.14
+  sig:0.14
+  forum:0.14
+  protection:0.14
+  launch:0.14
+
+Topic 1:
+  sr:0.41
+  pmask:0.14
+  freckled:0.14
+  potential:0.14
+  quote:0.14
+  year:0.14
+  onionshop:0.14
+  november:0.14
+  himor:0.14
+  memory:0.14
+
+Topic 2:
+  sr:0.41
+  potential:0.14
+  november:0.14
+  pmask:0.14
+  quote:0.14
+  onionshop:0.14
+  freckled:0.14
+  himor:0.14
+  year:0.14
+  marketplace:0.14
+
+Topic 3:
+  sr:0.41
+  himor:0.14
+  onionshop:0.14
+  freckled:0.14
+  pmask:0.14
+  year:0.14
+  november:0.14
+  quote:0.14
+  potential:0.14
+  solid:0.14
+
+Topic 4:
+  sr:0.42
+  copyright:0.14
+  richard:0.14
+  librarian:0.14
+  including:0.14
+  speech:0.14
+  features:0.14
+  balls:0.14
+  launch:0.14
+  ddos:0.14
+
+K: 5, Log-Likelihood: -107.958, Alpha: 11.000, Beta: 1.100

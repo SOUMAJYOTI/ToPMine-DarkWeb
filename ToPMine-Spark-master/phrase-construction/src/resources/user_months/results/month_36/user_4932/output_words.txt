@@ -1,0 +1,61 @@
+Topic 0:
+  order:3.32
+  time:2.66
+  perfect:2.07
+  hey:1.82
+  hits:1.81
+  quote:1.80
+  guess:1.77
+  trust:1.71
+  pc:1.71
+  answer:1.68
+
+Topic 1:
+  tabs:5.65
+  acid:3.84
+  feel:2.81
+  making:2.48
+  great:2.34
+  shape:2.00
+  hearing:1.92
+  super:1.79
+  lsd:1.76
+  triangular:1.75
+
+Topic 2:
+  drugs:5.91
+  house:5.05
+  time:4.05
+  evidence:3.91
+  busts:3.91
+  thay:3.91
+  recipiant:3.91
+  trial:3.91
+  small:3.91
+  post:3.91
+
+Topic 3:
+  clean:2.38
+  time:2.38
+  luck:2.35
+  effects:2.25
+  house:1.99
+  guess:1.92
+  detailed:1.85
+  answer:1.84
+  trust:1.81
+  pc:1.80
+
+Topic 4:
+  lsd:5.39
+  ergotamine:5.25
+  dont:4.31
+  hours:3.79
+  lad:3.62
+  al:3.52
+  difference:2.72
+  time:2.62
+  years:2.56
+  understand:2.43
+
+K: 5, Log-Likelihood: -3574.152, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ancestry:3.60
+  law:3.23
+  dna:2.96
+  enforcement:2.58
+  national:2.20
+  database:1.54
+  security:1.54
+  states:1.53
+  requests:1.52
+  received:1.48
+
+Topic 1:
+  dna:3.94
+  law:1.67
+  ancestry:1.38
+  police:1.16
+  enforcement:0.97
+  national:0.93
+  requests:0.90
+  obi:0.88
+  security:0.83
+  database:0.80
+
+Topic 2:
+  dna:2.47
+  law:1.49
+  enforcement:1.13
+  ancestry:1.11
+  police:0.98
+  received:0.79
+  obi:0.79
+  database:0.78
+  national:0.77
+  states:0.76
+
+Topic 3:
+  ancestry:1.75
+  law:1.44
+  dna:1.42
+  enforcement:1.18
+  police:0.97
+  national:0.97
+  obi:0.86
+  received:0.85
+  states:0.83
+  security:0.79
+
+Topic 4:
+  good:2.36
+  dash:1.69
+  quote:1.65
+  nuff:1.29
+  fuels:0.74
+  tesla:0.74
+  mining:0.74
+  constantly:0.74
+  choice:0.74
+  hope:0.74
+
+K: 5, Log-Likelihood: -2111.266, Alpha: 11.000, Beta: 1.100

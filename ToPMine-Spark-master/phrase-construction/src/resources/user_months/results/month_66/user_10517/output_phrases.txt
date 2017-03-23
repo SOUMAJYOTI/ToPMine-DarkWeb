@@ -1,0 +1,61 @@
+Topic 0:
+  le:1.51
+  fuck:1.13
+  investigation:1.13
+  force:1.13
+  taught:1.13
+  safe:1.13
+  dirty:1.13
+  pretty:1.13
+  revelations:1.13
+  police:1.13
+
+Topic 1:
+  people:4.93
+  emmet:3.68
+  jabber:2.43
+  discussion:2.43
+  visit:2.43
+  reddit:2.43
+  forum:2.43
+  pmquote:2.43
+  post:2.43
+  posting:2.43
+
+Topic 2:
+  sign:3.68
+  buy:2.43
+  friend:2.43
+  cops bust:2.43
+  years:1.73
+  address:1.18
+  leniency:1.18
+  vendor:1.18
+  walk:1.18
+  meet:1.18
+
+Topic 3:
+  user:2.42
+  town:2.42
+  sick:2.42
+  score:1.18
+  long:1.18
+  couple:1.18
+  whistleblowers:1.18
+  period:1.18
+  ireland:1.18
+  number:1.18
+
+Topic 4:
+  drugs:2.42
+  committed:2.42
+  lot:2.42
+  court:2.42
+  house:2.41
+  apt:2.41
+  burglar:2.41
+  evidence:2.41
+  warrant:2.41
+  things:2.41
+
+K: 5, Log-Likelihood: -1814.027, Alpha: 11.000, Beta: 1.100

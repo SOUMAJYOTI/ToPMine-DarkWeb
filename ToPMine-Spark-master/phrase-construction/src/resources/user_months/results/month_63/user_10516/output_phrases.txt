@@ -1,0 +1,61 @@
+Topic 0:
+  key ring:13.54
+  hardware:12.64
+  included:12.58
+  key:12.33
+  software encryption:10.83
+  hardware encryption:10.83
+  windows certified:8.12
+  banks:8.12
+  intel xeon processors:8.12
+  red hat linux:8.12
+
+Topic 1:
+  pc:16.51
+  firmware:16.24
+  vm:13.74
+  intel hardware:10.83
+  source code:10.83
+  intel:10.39
+  key:10.09
+  intel management engine:9.43
+  boot rom:8.12
+  libreboot:8.12
+
+Topic 2:
+  freedom freedom:10.81
+  free software:10.81
+  linux:10.18
+  red hat:9.29
+  assange:9.20
+  hosting:8.12
+  address:8.12
+  freedom:6.77
+  encryption:6.49
+  things:5.62
+
+Topic 3:
+  core:8.77
+  technologies:8.11
+  systems:7.37
+  pretty:7.34
+  december:7.09
+  finally:6.89
+  theo de:6.82
+  win:6.82
+  patch:6.82
+  security holes turn suddenly:5.97
+
+Topic 4:
+  regenerate ssh host keys:29.78
+  ssh ssh host:16.24
+  ssh:16.24
+  init:13.53
+  ssh host keys:13.53
+  dsa:10.82
+  ssh keygen:10.82
+  code select:10.82
+  key ash keygen:10.82
+  sh:10.82
+
+K: 5, Log-Likelihood: -37712.376, Alpha: 11.000, Beta: 1.100

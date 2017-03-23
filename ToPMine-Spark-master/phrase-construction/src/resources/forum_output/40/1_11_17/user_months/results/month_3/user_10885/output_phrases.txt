@@ -1,0 +1,61 @@
+Topic 0:
+  reputation:0.54
+  continuity character:0.50
+  multiply:0.40
+  keys:0.40
+  people:0.40
+  weeks:0.36
+  buyers:0.36
+  finding:0.35
+  years:0.35
+  trust:0.35
+
+Topic 1:
+  continuity character:1.20
+  identity:0.77
+  seller:0.77
+  buyers:0.76
+  changing:0.76
+  useless:0.76
+  years:0.75
+  operation:0.75
+  finding:0.74
+  weeks:0.74
+
+Topic 2:
+  volume:0.66
+  remailers:0.66
+  longer:0.66
+  wtf:0.66
+  access:0.66
+  addresses:0.66
+  damn:0.66
+  mundane:0.66
+  resources:0.66
+  hands:0.66
+
+Topic 3:
+  continuity character:1.51
+  trust:1.04
+  finding:1.02
+  weeks:1.01
+  operation:1.01
+  useless:1.01
+  years:1.01
+  seller:1.01
+  changing:1.00
+  buyers:1.00
+
+Topic 4:
+  time buyer:0.49
+  virtual:0.49
+  small:0.49
+  machine:0.49
+  happen:0.49
+  things:0.49
+  responses:0.49
+  time:0.49
+  hate:0.49
+  names market:0.49
+
+K: 5, Log-Likelihood: -947.240, Alpha: 11.000, Beta: 1.100

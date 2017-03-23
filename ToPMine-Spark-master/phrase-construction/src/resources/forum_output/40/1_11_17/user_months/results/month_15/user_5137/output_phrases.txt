@@ -1,0 +1,61 @@
+Topic 0:
+  po:0.61
+  wonderful:0.60
+  site:0.60
+  thing:0.60
+  account:0.59
+  solve issue:0.59
+  question purchase item vendor:0.58
+  quote protectedone:0.51
+  dont transfer bitcoins account:0.50
+  tmg couldn find sr:0.50
+
+Topic 1:
+  thing:0.90
+  dont transfer bitcoins account:0.54
+  tmg couldn find sr:0.53
+  market:0.50
+  based:0.50
+  order order:0.50
+  vendor send:0.50
+  tmg:0.50
+  pay:0.50
+  trustworthy:0.50
+
+Topic 2:
+  thing:1.41
+  forum:0.61
+  thanxthe:0.61
+  note:0.61
+  bitstamp:0.60
+  test:0.60
+  markets:0.60
+  account question purchase item:0.60
+  send bitcoins:0.60
+  finale:0.60
+
+Topic 3:
+  thing:1.23
+  funds:0.61
+  centralized:0.60
+  pay:0.60
+  jebusite:0.60
+  pm:0.60
+  ordering:0.60
+  vendor send:0.60
+  front:0.60
+  item:0.60
+
+Topic 4:
+  guys:1.18
+  info:1.18
+  intersting:1.17
+  share:1.17
+  sounds:1.17
+  feel:0.92
+  lsda:0.92
+  pmhey:0.92
+  cheerswelcome:0.92
+  find:0.92
+
+K: 5, Log-Likelihood: -626.482, Alpha: 11.000, Beta: 1.100

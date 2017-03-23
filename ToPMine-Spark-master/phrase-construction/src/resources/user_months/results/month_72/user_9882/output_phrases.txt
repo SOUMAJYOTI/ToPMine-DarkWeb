@@ -1,0 +1,61 @@
+Topic 0:
+  carding:1.18
+  wrong:0.39
+  knowledge:0.39
+  darknet:0.38
+  pocket:0.38
+  activities:0.38
+  brought:0.38
+  immoral:0.38
+  illegal:0.37
+  explained:0.32
+
+Topic 1:
+  carding:1.51
+  ebay:0.34
+  interest:0.34
+  credit:0.34
+  tutorialcarding:0.34
+  cards:0.34
+  edition:0.34
+  accounts:0.34
+  antifraud:0.34
+  complete:0.34
+
+Topic 2:
+  carding:1.48
+  ksend:0.35
+  ebook:0.35
+  cvv carding:0.35
+  tutorial:0.35
+  share:0.35
+  moneygramtransaction:0.35
+  required:0.35
+  paypalebay:0.35
+  guides:0.35
+
+Topic 3:
+  carding:1.29
+  ebook:0.34
+  mmorpg:0.34
+  carding papa:0.34
+  interest:0.34
+  cards:0.34
+  cvv:0.34
+  response:0.34
+  option:0.34
+  required:0.34
+
+Topic 4:
+  carding:1.32
+  amazon:0.35
+  tutorialpaypal:0.35
+  codehow:0.35
+  safety:0.35
+  tutorial:0.35
+  authoriazation:0.35
+  response:0.35
+  tmg:0.35
+  tutorialverify:0.35
+
+K: 5, Log-Likelihood: -384.641, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  coins:1.22
+  cash:1.17
+  bitcoin:1.09
+  anonymously:0.88
+  bitcoins:0.72
+  find:0.61
+  sellers:0.55
+  bitstamp:0.51
+  service:0.50
+  buy:0.44
+
+Topic 1:
+  coins:4.86
+  local:4.25
+  find:3.89
+  built:1.55
+  mycelium:1.55
+  person:1.55
+  bitcoin:1.42
+  cash:1.34
+  hunt:1.17
+  area:1.17
+
+Topic 2:
+  money:1.22
+  account:0.97
+  debit:0.87
+  prepaid:0.85
+  btc:0.85
+  deposit:0.84
+  anonymously:0.72
+  cash:0.58
+  bitstamp:0.53
+  cards:0.52
+
+Topic 3:
+  anonymously:1.37
+  evoluton:1.02
+  store:1.02
+  cards:1.02
+  cash:0.99
+  bitcoin:0.79
+  account:0.74
+  bitcoins:0.66
+  debit:0.63
+  buy:0.51
+
+Topic 4:
+  sellers:1.89
+  quick:1.71
+  moneypak:1.70
+  route:1.70
+  worry:1.70
+  btc:1.11
+  buying:1.11
+  bank:1.05
+  cash:0.93
+  account:0.85
+
+K: 5, Log-Likelihood: -826.761, Alpha: 11.000, Beta: 1.100

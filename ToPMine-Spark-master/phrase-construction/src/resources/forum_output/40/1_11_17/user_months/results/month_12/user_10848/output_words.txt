@@ -1,0 +1,61 @@
+Topic 0:
+  faith:0.77
+  trees:0.59
+  hurt:0.51
+  doesnt:0.50
+  bucks:0.50
+  uri:0.43
+  agora:0.42
+  growing:0.42
+  happy:0.42
+  xanex:0.42
+
+Topic 1:
+  faith:0.80
+  trees:0.61
+  hurt:0.50
+  bucks:0.49
+  doesnt:0.48
+  pains:0.45
+  times:0.45
+  irritating:0.45
+  market:0.44
+  bit:0.44
+
+Topic 2:
+  bucks:0.87
+  doesnt:0.86
+  faith:0.84
+  hurt:0.84
+  trees:0.59
+  ll:0.50
+  relax:0.50
+  wait:0.50
+  attack:0.49
+  site:0.49
+
+Topic 3:
+  faith:0.86
+  hurt:0.66
+  doesnt:0.64
+  bucks:0.64
+  trees:0.63
+  people:0.43
+  attack:0.42
+  wait:0.42
+  site:0.42
+  ll:0.42
+
+Topic 4:
+  faith:0.74
+  trees:0.59
+  doesnt:0.51
+  bucks:0.50
+  hurt:0.49
+  uri:0.44
+  xanex:0.43
+  week:0.43
+  happy:0.42
+  agora:0.42
+
+K: 5, Log-Likelihood: -466.742, Alpha: 11.000, Beta: 1.100

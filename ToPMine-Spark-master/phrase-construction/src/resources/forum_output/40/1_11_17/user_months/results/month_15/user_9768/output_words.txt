@@ -1,0 +1,61 @@
+Topic 0:
+  port:24.18
+  tor:23.77
+  settings:18.62
+  connect:18.48
+  pray:13.00
+  pidgin:12.49
+  browser:11.03
+  sillywabbit:10.91
+  password:10.43
+  tab:9.16
+
+Topic 1:
+  site:15.55
+  quote:8.92
+  hosting:8.32
+  june:7.24
+  set:6.82
+  wallet:6.75
+  server:6.42
+  address:4.85
+  month:4.81
+  store:4.16
+
+Topic 2:
+  tor:10.40
+  account:7.87
+  server:6.60
+  service:5.88
+  proxy:4.91
+  work:4.65
+  jsga:4.52
+  stuff:4.15
+  rm:3.96
+  xmpp:3.95
+
+Topic 3:
+  servers:8.34
+  email:7.08
+  address:4.63
+  community:4.48
+  account:4.04
+  promise:3.92
+  federal:3.90
+  stops:3.90
+  lot:3.78
+  quote:3.74
+
+Topic 4:
+  service:5.49
+  community:4.13
+  free:4.09
+  customers:3.80
+  vendors:3.79
+  sites:3.78
+  users:3.17
+  response:3.06
+  dark:2.99
+  start:2.98
+
+K: 5, Log-Likelihood: -7508.630, Alpha: 11.000, Beta: 1.100

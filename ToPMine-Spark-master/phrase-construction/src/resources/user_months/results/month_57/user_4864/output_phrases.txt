@@ -1,0 +1,61 @@
+Topic 0:
+  library:1.11
+  archive:0.84
+  massive:0.57
+  hidden wiki:0.56
+  strange:0.56
+  anonymous confessions:0.56
+  slavic news:0.55
+  finish chan:0.55
+  torflix:0.55
+  tor directory:0.55
+
+Topic 1:
+  library:1.11
+  archive:0.83
+  sky:0.57
+  mystery:0.56
+  slavic news:0.56
+  strange:0.55
+  anonymous confessions:0.55
+  hidden wiki:0.55
+  massive:0.55
+  tor directory:0.55
+
+Topic 2:
+  library:1.22
+  archive:0.78
+  finish chan:0.57
+  tor directory:0.57
+  torflix:0.56
+  slavic news:0.56
+  strange:0.56
+  massive:0.56
+  anonymous confessions:0.56
+  hidden wiki:0.56
+
+Topic 3:
+  library:1.00
+  archive:0.84
+  torflix:0.57
+  finish chan:0.56
+  tor directory:0.56
+  hidden wiki:0.55
+  mystery:0.55
+  anonymous confessions:0.55
+  massive:0.55
+  sky:0.55
+
+Topic 4:
+  library:1.12
+  archive:0.86
+  sky:0.57
+  slavic news:0.56
+  mystery:0.56
+  strange:0.56
+  torflix:0.56
+  hidden wiki:0.55
+  anonymous confessions:0.55
+  massive:0.55
+
+K: 5, Log-Likelihood: -843.336, Alpha: 11.000, Beta: 1.100

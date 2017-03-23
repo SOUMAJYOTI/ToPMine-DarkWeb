@@ -1,0 +1,61 @@
+Topic 0:
+  click:2.99
+  view:2.89
+  image:1.40
+  tab:1.39
+  hey:1.39
+  imagehope:1.39
+  ctrl:1.39
+  bar:1.39
+  helps:1.39
+  supposed:1.39
+
+Topic 1:
+  load:1.09
+  fails:1.09
+  issue:1.05
+  simple:0.98
+  trouble:0.98
+  struggle:0.98
+  azores:0.98
+  characters:0.98
+  system:0.98
+  havent:0.98
+
+Topic 2:
+  pain:1.16
+  today:1.15
+  bloody:1.15
+  amai:1.14
+  issues:1.12
+  days:0.86
+  work:0.79
+  march:0.77
+  quote:0.77
+  amain:0.77
+
+Topic 3:
+  data:2.45
+  basis:1.10
+  repeat:1.10
+  privacy:1.10
+  trade:1.10
+  atthe:1.10
+  captchas:1.10
+  isnt:1.10
+  random:1.10
+  things:1.10
+
+Topic 4:
+  time:0.79
+  couple:0.75
+  log:0.65
+  days:0.60
+  issue:0.58
+  data:0.55
+  issues:0.49
+  load:0.49
+  fails:0.48
+  amai:0.48
+
+K: 5, Log-Likelihood: -634.532, Alpha: 11.000, Beta: 1.100

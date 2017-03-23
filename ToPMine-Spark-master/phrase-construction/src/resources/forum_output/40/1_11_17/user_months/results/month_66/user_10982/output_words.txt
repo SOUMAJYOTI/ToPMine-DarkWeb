@@ -1,0 +1,61 @@
+Topic 0:
+  link:0.40
+  ta:0.20
+  havent:0.20
+  marketplace:0.20
+  lot:0.20
+  slowly:0.20
+  mine:0.20
+  invite:0.20
+  supports:0.20
+  fa:0.20
+
+Topic 1:
+  link:0.40
+  lot:0.20
+  supports:0.20
+  marketplace:0.20
+  good:0.20
+  growing:0.20
+  fe:0.20
+  multisig:0.20
+  mine:0.20
+  slowly:0.20
+
+Topic 2:
+  link:0.40
+  havent:0.20
+  fa:0.20
+  good:0.20
+  allowed:0.20
+  slowly:0.20
+  invite:0.20
+  growing:0.20
+  hub:0.20
+  fe:0.20
+
+Topic 3:
+  link:0.40
+  allowed:0.20
+  hub:0.20
+  optionally:0.20
+  supports:0.20
+  fe:0.20
+  invite:0.20
+  mine:0.20
+  multisig:0.20
+  slowly:0.20
+
+Topic 4:
+  link:0.40
+  growing:0.20
+  hub:0.20
+  optionally:0.20
+  mine:0.20
+  invite:0.20
+  multisig:0.20
+  good:0.20
+  allowed:0.20
+  fa:0.20
+
+K: 5, Log-Likelihood: -50.669, Alpha: 11.000, Beta: 1.100

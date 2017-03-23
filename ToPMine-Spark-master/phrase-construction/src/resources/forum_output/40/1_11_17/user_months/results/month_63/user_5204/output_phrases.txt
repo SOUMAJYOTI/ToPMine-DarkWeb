@@ -1,0 +1,61 @@
+Topic 0:
+  love avengers:2.40
+  staff members:0.35
+  vendor:0.30
+  alphabay:0.30
+  topic:0.23
+  forums account:0.23
+  features:0.23
+  front:0.23
+  phishing links:0.23
+  offer:0.23
+
+Topic 1:
+  alphabay:0.53
+  love avengers:0.51
+  staff members:0.34
+  vendor:0.27
+  phishing links:0.23
+  features:0.23
+  marketplace forums:0.23
+  forums account:0.23
+  offer:0.23
+  contracts:0.23
+
+Topic 2:
+  love avengers:0.54
+  alphabay:0.52
+  staff members:0.34
+  vendor:0.27
+  contracts:0.23
+  security:0.23
+  phishing links:0.23
+  offer:0.23
+  features:0.23
+  forums account:0.23
+
+Topic 3:
+  love avengers:3.54
+  staff members:0.35
+  vendor:0.31
+  alphabay:0.26
+  topic:0.23
+  offer:0.23
+  marketplace forums:0.23
+  phishing links:0.23
+  security:0.23
+  front:0.23
+
+Topic 4:
+  love avengers:0.64
+  alphabay:0.48
+  staff members:0.34
+  vendor:0.28
+  marketplace forums:0.23
+  security:0.23
+  front:0.23
+  contracts:0.23
+  topic:0.23
+  forums account:0.23
+
+K: 5, Log-Likelihood: -657.914, Alpha: 11.000, Beta: 1.100

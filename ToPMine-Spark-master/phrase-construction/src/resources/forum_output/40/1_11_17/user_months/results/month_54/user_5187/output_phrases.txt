@@ -1,0 +1,61 @@
+Topic 0:
+  mine:0.08
+  join:0.08
+  active:0.08
+  link:0.08
+  listing:0.08
+  cheers:0.08
+  referred:0.08
+  users:0.08
+  lead:0.08
+  wondering:0.08
+
+Topic 1:
+  join:0.08
+  link:0.08
+  abraxas:0.08
+  biggest:0.08
+  invite:0.08
+  mine:0.08
+  active:0.08
+  users:0.08
+  referred:0.08
+  cheers:0.08
+
+Topic 2:
+  invite:0.08
+  referred:0.08
+  dolmio:0.08
+  hey:0.08
+  biggest:0.08
+  amount:0.08
+  lead:0.08
+  users:0.08
+  mine:0.08
+  cheers:0.08
+
+Topic 3:
+  listing:0.08
+  dolmio:0.08
+  amount:0.08
+  hey:0.08
+  wondering:0.08
+  cheers:0.08
+  lead:0.08
+  users:0.08
+  abraxas:0.08
+  mine:0.08
+
+Topic 4:
+  biggest:0.08
+  active:0.08
+  abraxas:0.08
+  referred:0.08
+  link:0.08
+  invite:0.08
+  lead:0.08
+  join:0.08
+  mine:0.08
+  amount:0.08
+
+K: 5, Log-Likelihood: -18.420, Alpha: 11.000, Beta: 1.100

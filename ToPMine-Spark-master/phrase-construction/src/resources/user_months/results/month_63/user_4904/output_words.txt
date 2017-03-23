@@ -1,0 +1,61 @@
+Topic 0:
+  dmt:3.33
+  email:3.13
+  yesterday:3.12
+  funny:3.12
+  onion:2.74
+  set:1.88
+  guess:1.81
+  psi:1.76
+  ll:1.63
+  ill:1.58
+
+Topic 1:
+  email:2.14
+  nucleus:1.93
+  direct:1.64
+  onion:1.52
+  starting:1.44
+  quote:1.37
+  deals:1.36
+  bay:1.36
+  alpha:1.34
+  msg:1.33
+
+Topic 2:
+  nucleus:1.91
+  msg:1.90
+  direct:1.84
+  responded:1.64
+  week:1.61
+  alpha:1.60
+  vending:1.54
+  bay:1.53
+  deals:1.50
+  starting:1.47
+
+Topic 3:
+  email:2.79
+  nucleus:1.92
+  onion:1.77
+  quote:1.34
+  direct:1.10
+  address:1.05
+  dtrh:0.92
+  namaste:0.91
+  psi:0.90
+  market:0.89
+
+Topic 4:
+  email:9.60
+  onion:6.59
+  market:4.14
+  emails:2.92
+  reply:2.87
+  dtrh:2.53
+  received:2.29
+  replied:2.28
+  response:2.27
+  contacting:2.24
+
+K: 5, Log-Likelihood: -1306.004, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  btc:11.56
+  black mail panic guys:10.45
+  corp:10.45
+  code:8.73
+  fear:7.83
+  read:7.44
+  thing:6.47
+  business:6.03
+  block size:5.38
+  quote:5.22
+
+Topic 1:
+  bitcoin:10.41
+  core:9.22
+  dont:8.27
+  quote tang march:7.75
+  week:7.44
+  mixing collude privacy:6.93
+  bitcoin local monero:6.93
+  site creative ways cash:6.93
+  problem cashing coins local:6.93
+  technical differences top coins:6.93
+
+Topic 2:
+  monero:7.97
+  core:7.05
+  anonymous:6.80
+  bitcoins:6.44
+  appears avoided bugs:6.17
+  team:6.03
+  txs:6.03
+  impossible:6.03
+  satoshi:6.03
+  great:6.03
+
+Topic 3:
+  dash:33.92
+  market cap:18.11
+  bitcoin:12.62
+  vulnerability:8.39
+  january:7.30
+  true long people:6.78
+  buy sell regulation pseudo:6.78
+  price:6.73
+  civil war:6.68
+  won:6.56
+
+Topic 4:
+  diffie hellman:9.05
+  vulnerability:7.82
+  quote tang january:7.76
+  openssl:7.67
+  quote tang january ami:6.86
+  reuse:6.03
+  ciphersuite:6.03
+  exponents:6.03
+  sanso:6.03
+  opens:6.03
+
+K: 5, Log-Likelihood: -25187.312, Alpha: 11.000, Beta: 1.100

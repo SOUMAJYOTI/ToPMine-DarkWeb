@@ -1,0 +1,61 @@
+Topic 0:
+  longeryou:0.00
+  firec:0.00
+  batch:0.00
+  enjoy:0.00
+  sample:0.00
+  samples:0.00
+  summer:0.00
+  products:0.00
+  straight:0.00
+  offer:0.00
+
+Topic 1:
+  longeryou:0.00
+  firec:0.00
+  batch:0.00
+  enjoy:0.00
+  sample:0.00
+  samples:0.00
+  summer:0.00
+  products:0.00
+  straight:0.00
+  offer:0.00
+
+Topic 2:
+  longeryou:0.00
+  firec:0.00
+  batch:0.00
+  enjoy:0.00
+  sample:0.00
+  samples:0.00
+  summer:0.00
+  products:0.00
+  straight:0.00
+  offer:0.00
+
+Topic 3:
+  longeryou:0.00
+  firec:0.00
+  batch:0.00
+  enjoy:0.00
+  sample:0.00
+  samples:0.00
+  summer:0.00
+  products:0.00
+  straight:0.00
+  offer:0.00
+
+Topic 4:
+  longeryou:0.00
+  firec:0.00
+  batch:0.00
+  enjoy:0.00
+  sample:0.00
+  samples:0.00
+  summer:0.00
+  products:0.00
+  straight:0.00
+  offer:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

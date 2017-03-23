@@ -1,0 +1,61 @@
+Topic 0:
+  market:19.52
+  order:9.16
+  working:9.16
+  infrastructure:9.16
+  outlaw:8.96
+  won:7.30
+  income:4.55
+  marketplace:4.55
+  users:4.55
+  secret:4.55
+
+Topic 1:
+  guess fine drunkenness pays:6.62
+  ago:5.87
+  ya sell:5.78
+  sold:4.46
+  word:4.46
+  profit bond:4.46
+  profit:4.46
+  euros:4.46
+  leaves:4.46
+  item:4.46
+
+Topic 2:
+  interviews:6.79
+  phil:5.35
+  msg:5.34
+  owners:4.46
+  shortly:4.46
+  busted:4.46
+  yeah:4.42
+  waste:4.42
+  drunk:4.42
+  cool:4.41
+
+Topic 3:
+  admin:7.45
+  post:4.54
+  forum admin thehobbit:4.54
+  amhmmmmmm:4.54
+  markets thehobbit:4.54
+  april:4.54
+  odd gandalf:4.54
+  gollum gandalf:4.54
+  onioncola:4.54
+  proprietor:4.54
+
+Topic 4:
+  drsnerd october amquote herbanlegends:13.68
+  drunk excuse:8.40
+  october amquote:7.91
+  september amyeah drunk:7.69
+  waste judge told:7.69
+  judge shuuuuuut hiccup lawyer:6.94
+  university gam top class:5.87
+  bought days sales kind:5.67
+  stuff:5.25
+  worse:4.75
+
+K: 5, Log-Likelihood: -4915.233, Alpha: 11.000, Beta: 1.100

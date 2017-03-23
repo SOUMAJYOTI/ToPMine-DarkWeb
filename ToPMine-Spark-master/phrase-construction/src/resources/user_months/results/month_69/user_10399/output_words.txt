@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:4.92
+  client:4.76
+  coins:2.77
+  armory:2.76
+  clients:2.76
+  desktop:2.76
+  wallet:2.76
+  bitcoin:2.76
+  blockchain:2.75
+  stored:1.78
+
+Topic 1:
+  upgrade:5.89
+  automatic:2.90
+  slower:1.90
+  hour:1.90
+  upgrades:1.90
+  manual:1.66
+  storage:1.03
+  security:1.03
+  tails:0.97
+  apply:0.91
+
+Topic 2:
+  sr:2.35
+  remember:2.30
+  man:2.29
+  electrum:2.25
+  ya:2.22
+  ago:2.16
+  dnm:1.42
+  chat:1.42
+  good:1.38
+  interested:1.38
+
+Topic 3:
+  electrum:2.62
+  hey:1.37
+  ago:1.36
+  thoughts:1.34
+  ya:1.29
+  jigsaw:1.28
+  remember:1.23
+  man:1.23
+  good:1.18
+  sr:1.16
+
+Topic 4:
+  folder:5.88
+  tor:1.89
+  browser:1.89
+  copy:1.89
+  time:1.04
+  minutes:0.97
+  tails:0.91
+  start:0.90
+  prefs:0.90
+  default:0.90
+
+K: 5, Log-Likelihood: -1401.379, Alpha: 11.000, Beta: 1.100

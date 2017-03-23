@@ -1,0 +1,61 @@
+Topic 0:
+  key:8.98
+  dont:4.56
+  keys:4.47
+  tab:2.93
+  public:2.73
+  version:2.72
+  group:1.93
+  personal:1.71
+  pip:1.05
+  helpful:0.97
+
+Topic 1:
+  amnesia:16.95
+  code:12.86
+  select:11.95
+  temp:10.95
+  ctrl:8.95
+  key:8.70
+  message:6.95
+  file:4.95
+  amelia:4.95
+  gpg:4.95
+
+Topic 2:
+  wifi:2.13
+  location:2.11
+  scripts:2.10
+  geo:2.09
+  locator:2.08
+  ill:2.04
+  spec:1.58
+  fo:1.58
+  karma:1.58
+  lothe:1.58
+
+Topic 3:
+  tor:8.59
+  malware:3.42
+  tails:3.22
+  reset:2.77
+  time:2.49
+  read:2.49
+  place:2.37
+  tv:1.94
+  born:1.94
+  movies:1.94
+
+Topic 4:
+  btc:2.73
+  good:2.67
+  buying:2.44
+  search:2.31
+  wipe:2.16
+  mbr:1.89
+  thing:1.87
+  ccleaner:1.54
+  malware:1.45
+  carpemundi:1.43
+
+K: 5, Log-Likelihood: -2808.721, Alpha: 11.000, Beta: 1.100

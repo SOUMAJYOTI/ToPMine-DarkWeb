@@ -1,0 +1,61 @@
+Topic 0:
+  people:1.93
+  bout:1.62
+  host:1.62
+  cat:1.62
+  talking:1.31
+  cats:1.16
+  guys:1.10
+  raspberry:1.08
+  pi:1.08
+  hidden:1.05
+
+Topic 1:
+  server:1.69
+  organized:0.89
+  good:0.86
+  cats:0.75
+  idea:0.70
+  running:0.68
+  plan:0.64
+  criminal:0.61
+  crew:0.61
+  caught:0.61
+
+Topic 2:
+  money:5.29
+  good:1.94
+  idea:1.20
+  case:1.19
+  busted:1.16
+  things:1.05
+  dpr:1.02
+  seized:1.00
+  happen:1.00
+  car:1.00
+
+Topic 3:
+  good:0.97
+  server:0.91
+  organized:0.90
+  catland:0.89
+  nicely:0.88
+  newb:0.88
+  password:0.88
+  shells:0.88
+  rise:0.88
+  tangs:0.88
+
+Topic 4:
+  money:2.28
+  good:1.78
+  things:1.32
+  dpr:1.08
+  idea:1.01
+  busted:0.96
+  case:0.94
+  operation:0.71
+  house:0.70
+  warrant:0.70
+
+K: 5, Log-Likelihood: -1178.021, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  post:5.71
+  trial:5.54
+  recipiant:5.24
+  drugs:4.51
+  hurt:2.64
+  drug:2.61
+  qp:2.60
+  doubt:2.60
+  prior:2.59
+  sets:2.59
+
+Topic 1:
+  order:6.84
+  hey:3.81
+  place:3.37
+  bothering:3.37
+  weeks:3.37
+  perfect:3.37
+  odds:3.37
+  month:3.37
+  step:3.37
+  carefull:3.37
+
+Topic 2:
+  lsd:4.94
+  alive:4.24
+  todays:4.24
+  blotter:4.24
+  ago:4.24
+  experiencing:4.24
+  tree:4.24
+  half:3.01
+  friend:3.01
+  things:2.13
+
+Topic 3:
+  pc clean guess:4.50
+  trust luck:4.50
+  detailed answer house:4.50
+  payed:4.05
+  payment confirmation:3.69
+  usb:3.29
+  pmthanks:3.29
+  encrypted:3.29
+  quote:3.29
+  january:3.29
+
+Topic 4:
+  drugs:2.37
+  time:2.22
+  bitcoin:1.94
+  recipiant:1.64
+  trial:1.34
+  post:1.17
+  shipment:1.11
+  police thay:1.09
+  gov:1.09
+  proven:1.08
+
+K: 5, Log-Likelihood: -3110.215, Alpha: 11.000, Beta: 1.100

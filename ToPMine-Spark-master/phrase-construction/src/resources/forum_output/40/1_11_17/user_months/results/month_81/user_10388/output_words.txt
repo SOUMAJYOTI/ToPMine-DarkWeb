@@ -1,0 +1,61 @@
+Topic 0:
+  june:3.58
+  quote:2.59
+  ron:2.48
+  swanson:2.41
+  amquote:2.21
+  people:2.09
+  dream:1.93
+  ladyv:1.84
+  hours:1.74
+  massy:1.73
+
+Topic 1:
+  dream:2.82
+  quote:2.30
+  june:2.23
+  swanson:1.79
+  oxymonster:1.75
+  people:1.69
+  amquote:1.49
+  ron:1.26
+  sassy:1.24
+  ladyv:1.22
+
+Topic 2:
+  quote:2.71
+  dream:2.47
+  june:2.06
+  oxymonster:1.96
+  people:1.71
+  ron:1.39
+  swanson:1.34
+  listings:1.25
+  vendors:1.16
+  amquote:1.14
+
+Topic 3:
+  dream:2.89
+  quote:2.74
+  june:2.56
+  ron:2.31
+  swanson:2.06
+  people:1.66
+  fox:1.58
+  amquote:1.51
+  mulder:1.48
+  mulders:1.31
+
+Topic 4:
+  june:4.58
+  quote:2.65
+  amquote:2.65
+  ron:2.56
+  swanson:2.42
+  round:1.91
+  dream:1.89
+  mulders:1.89
+  sassy:1.88
+  people:1.85
+
+K: 5, Log-Likelihood: -2185.399, Alpha: 11.000, Beta: 1.100

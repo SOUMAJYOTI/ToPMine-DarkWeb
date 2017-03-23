@@ -1,0 +1,61 @@
+Topic 0:
+  virtual:3.33
+  tor:2.31
+  isolation:1.94
+  physical:1.76
+  machine:1.32
+  hardware:1.16
+  hypervisor:0.95
+  vulnerability:0.95
+  exploit:0.85
+  system:0.84
+
+Topic 1:
+  isolation:2.92
+  physical:1.31
+  dont:1.24
+  tor:1.23
+  virtual:1.08
+  hardware:0.84
+  aerial:0.79
+  numbers:0.77
+  system:0.76
+  superior:0.71
+
+Topic 2:
+  virtual:4.25
+  isolation:3.47
+  vulnerability:2.05
+  machine:1.74
+  physical:1.67
+  tor:1.59
+  exploit:1.27
+  hypervisor:1.14
+  hardware:0.99
+  middle:0.98
+
+Topic 3:
+  virtual:4.48
+  isolation:2.74
+  tor:1.68
+  physical:1.35
+  machine:1.13
+  hardware:1.07
+  pi:0.85
+  middle:0.84
+  hypervisor:0.81
+  vulnerability:0.81
+
+Topic 4:
+  isolation:3.93
+  tor:2.19
+  physical:1.92
+  virtual:1.86
+  machine:1.13
+  hardware:0.94
+  system:0.84
+  aerial:0.81
+  numbers:0.80
+  middle:0.74
+
+K: 5, Log-Likelihood: -1144.006, Alpha: 11.000, Beta: 1.100

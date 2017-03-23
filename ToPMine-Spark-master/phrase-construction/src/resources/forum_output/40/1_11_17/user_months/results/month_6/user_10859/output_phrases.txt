@@ -1,0 +1,61 @@
+Topic 0:
+  tor browser en:0.42
+  tor browser:0.42
+  random:0.38
+  firelight:0.37
+  platforms:0.37
+  tor:0.36
+  setup:0.33
+  firefox:0.33
+  secure:0.33
+  box:0.31
+
+Topic 1:
+  tor browser:0.42
+  tor browser en:0.42
+  platforms:0.38
+  random:0.38
+  firelight:0.38
+  tor:0.36
+  firefox:0.33
+  setup:0.33
+  secure:0.33
+  box:0.31
+
+Topic 2:
+  tor browser en:0.43
+  tor browser:0.43
+  firelight:0.41
+  platforms:0.41
+  random:0.41
+  tor:0.35
+  hardware:0.33
+  box:0.33
+  firefox:0.29
+  setup:0.29
+
+Topic 3:
+  secure:0.55
+  setup:0.54
+  firefox:0.54
+  advice:0.40
+  tor browser en:0.36
+  tor browser:0.36
+  tor:0.36
+  firelight:0.29
+  random:0.29
+  platforms:0.29
+
+Topic 4:
+  tor browser:0.41
+  tor browser en:0.41
+  platforms:0.38
+  firelight:0.37
+  random:0.37
+  tor:0.36
+  firefox:0.35
+  secure:0.34
+  setup:0.34
+  box:0.31
+
+K: 5, Log-Likelihood: -458.257, Alpha: 11.000, Beta: 1.100

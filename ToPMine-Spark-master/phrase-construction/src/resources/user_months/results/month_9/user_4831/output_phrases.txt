@@ -1,0 +1,61 @@
+Topic 0:
+  records:1.45
+  needed:1.45
+  de:1.44
+  camera:1.44
+  caveat:1.44
+  longer:1.43
+  quote:1.43
+  forgotten:1.43
+  ways:1.43
+  april:1.42
+
+Topic 1:
+  card:1.94
+  trust:1.35
+  caution:1.35
+  info btc:1.34
+  greendot:1.33
+  member:1.33
+  talk:1.33
+  rate:1.33
+  debit:1.33
+  senior:1.33
+
+Topic 2:
+  btc seller:0.86
+  cash teller deposit account:0.86
+  post purchase local bitcoins:0.86
+  tumble coins intermediate wallet:0.85
+  online methods listings offer:0.85
+  branch choice fill state:0.85
+  accessed tor quick creation:0.85
+  bank:0.84
+  add:0.84
+  cryptocurrency remember:0.84
+
+Topic 3:
+  card:1.83
+  couple:0.87
+  bitcointalk:0.86
+  phone:0.86
+  stuff:0.86
+  hub:0.86
+  convience:0.85
+  proceed:0.85
+  buy moneypak:0.85
+  dollars:0.85
+
+Topic 4:
+  purchase:1.67
+  trouble:1.65
+  btc:1.11
+  killing:1.10
+  service:1.10
+  order:1.10
+  anonymous:1.10
+  unable:1.09
+  ll:1.09
+  slowly:1.09
+
+K: 5, Log-Likelihood: -1302.109, Alpha: 11.000, Beta: 1.100

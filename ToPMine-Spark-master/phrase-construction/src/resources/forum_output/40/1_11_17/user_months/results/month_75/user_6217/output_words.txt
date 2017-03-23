@@ -1,0 +1,61 @@
+Topic 0:
+  mescaline:1.33
+  experience:0.93
+  key:0.76
+  cross:0.73
+  february:0.71
+  quote:0.64
+  vendor:0.60
+  assuming:0.57
+  change:0.53
+  pgp:0.51
+
+Topic 1:
+  mescaline:1.21
+  cross:1.01
+  experience:0.96
+  quote:0.74
+  february:0.71
+  assuming:0.59
+  vendor:0.59
+  key:0.55
+  agonists:0.48
+  change:0.46
+
+Topic 2:
+  mescaline:1.26
+  experience:1.09
+  cross:0.89
+  key:0.85
+  vendor:0.71
+  assuming:0.68
+  change:0.55
+  pgp:0.51
+  quote:0.48
+  good:0.47
+
+Topic 3:
+  experience:1.41
+  mescaline:1.23
+  cross:0.97
+  days:0.71
+  february:0.65
+  quote:0.64
+  assuming:0.60
+  vendor:0.60
+  masculine:0.55
+  led:0.55
+
+Topic 4:
+  key:2.50
+  pgp:1.33
+  change:1.15
+  mescaline:0.97
+  normal:0.92
+  changing:0.92
+  expired:0.91
+  keys:0.73
+  public:0.73
+  messages:0.73
+
+K: 5, Log-Likelihood: -915.864, Alpha: 11.000, Beta: 1.100

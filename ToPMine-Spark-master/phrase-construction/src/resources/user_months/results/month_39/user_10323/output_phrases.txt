@@ -1,0 +1,61 @@
+Topic 0:
+  duckduckgo:8.24
+  quote:7.98
+  recommend tor browser:6.58
+  replace google search engines:6.34
+  suddenly:6.29
+  btc:6.29
+  tho:6.28
+  april:6.07
+  yeah:5.70
+  threekings april pmdont:5.46
+
+Topic 1:
+  phase ii audit:11.07
+  full report:11.07
+  error:11.07
+  fail:5.89
+  truecrypt:5.55
+  properly:5.53
+  pool:5.53
+  throw:5.53
+  initialize:5.53
+  volume:5.53
+
+Topic 2:
+  beta version:9.50
+  software:9.04
+  release:8.17
+  tor browser:8.13
+  version:7.99
+  bitcoin:7.38
+  quote threekings april pmdont:7.19
+  stable regular:7.10
+  product:6.32
+  users download:6.32
+
+Topic 3:
+  bitcoins:5.99
+  enable:5.49
+  script:5.49
+  functionality:5.49
+  config:5.49
+  shouldnt:5.49
+  update things:5.49
+  js lots:5.49
+  js:5.49
+  disable:5.49
+
+Topic 4:
+  tor:23.41
+  hidden services:9.52
+  cover traffic:9.52
+  people:8.01
+  network:7.01
+  pretty:6.74
+  security:6.69
+  competent:6.35
+  days:6.35
+  improvement:6.35
+
+K: 5, Log-Likelihood: -13784.061, Alpha: 11.000, Beta: 1.100

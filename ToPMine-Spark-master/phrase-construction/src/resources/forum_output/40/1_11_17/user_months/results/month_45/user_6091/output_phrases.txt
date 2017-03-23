@@ -1,0 +1,61 @@
+Topic 0:
+  extreme:2.71
+  liquid:1.74
+  jar:1.74
+  place:1.74
+  vacuum:1.74
+  dark:1.74
+  bit:1.74
+  info:1.70
+  gamesome:1.70
+  knowledge:1.70
+
+Topic 1:
+  ideal:3.81
+  community:2.49
+  seal:2.42
+  vapor:2.37
+  stable:2.37
+  cold:2.37
+  avoid:2.37
+  liquid good:2.35
+  idea:2.31
+  happen:2.30
+
+Topic 2:
+  tattoo:6.00
+  valves:6.00
+  quote hambone april:3.12
+  paintball:2.92
+  paintball shops:2.92
+  things:2.92
+  larger:2.92
+  supply:2.92
+  amperhaps:2.92
+  guns:2.92
+
+Topic 3:
+  solution:7.03
+  oxygen chlorine:5.78
+  draw:3.84
+  conditions:3.84
+  alcohol:3.84
+  established:3.84
+  solubility:3.84
+  work:3.84
+  exposed:3.84
+  data:3.84
+
+Topic 4:
+  insert:3.85
+  beaker:3.85
+  inside:3.85
+  add:3.85
+  needle remove:3.85
+  rubber:3.85
+  syringe:3.20
+  degradation:2.24
+  remove oxygen:1.90
+  needle syringe:1.90
+
+K: 5, Log-Likelihood: -3044.163, Alpha: 11.000, Beta: 1.100

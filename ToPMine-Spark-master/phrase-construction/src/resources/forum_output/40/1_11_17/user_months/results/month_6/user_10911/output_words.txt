@@ -1,0 +1,61 @@
+Topic 0:
+  mail:1.05
+  trades:0.90
+  people:0.76
+  hub:0.62
+  pm:0.57
+  pooper:0.44
+  party:0.44
+  conducting:0.42
+  pgp:0.41
+  security:0.39
+
+Topic 1:
+  mail:1.19
+  people:0.77
+  trades:0.75
+  pm:0.62
+  hub:0.59
+  party:0.41
+  contact:0.41
+  long:0.41
+  signing:0.40
+  pip:0.40
+
+Topic 2:
+  mail:1.21
+  trades:0.80
+  people:0.79
+  pm:0.61
+  hub:0.61
+  day:0.40
+  long:0.40
+  pip:0.40
+  address:0.40
+  convenience:0.40
+
+Topic 3:
+  mail:1.37
+  people:0.90
+  trades:0.68
+  pm:0.61
+  hub:0.58
+  contact:0.42
+  security:0.41
+  convenient:0.41
+  day:0.41
+  long:0.41
+
+Topic 4:
+  mail:1.18
+  trades:0.88
+  people:0.78
+  hub:0.60
+  pm:0.59
+  pooper:0.41
+  pgp:0.40
+  party:0.40
+  conducting:0.40
+  convenience:0.40
+
+K: 5, Log-Likelihood: -245.526, Alpha: 11.000, Beta: 1.100

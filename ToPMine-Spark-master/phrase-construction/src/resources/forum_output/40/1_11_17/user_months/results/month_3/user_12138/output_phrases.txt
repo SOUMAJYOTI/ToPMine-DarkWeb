@@ -1,0 +1,61 @@
+Topic 0:
+  tested hr laundering time:7.49
+  worked:4.53
+  options:3.94
+  launder:3.94
+  learned site fee:3.94
+  site:3.76
+  option:3.70
+  looked:3.70
+  place:3.70
+  bitcoinlaundry:3.70
+
+Topic 1:
+  shared coin:5.90
+  blockchain:3.86
+  currency:3.69
+  fog:3.28
+  bitblender:2.21
+  market:2.21
+  reason:2.21
+  reasons:2.21
+  transferring:2.21
+  buying:2.21
+
+Topic 2:
+  mixer:7.33
+  time:5.36
+  shouldnt:4.56
+  services:3.68
+  btcer:3.49
+  service:3.31
+  wallet:3.16
+  bitcoin fog:3.03
+  send:2.92
+  mixing:2.56
+
+Topic 3:
+  btc:4.58
+  ltc:4.41
+  posted:3.60
+  analysis:3.48
+  taint:3.48
+  bitcoinfog:3.10
+  post:2.98
+  thread:2.97
+  mentioned:2.93
+  bitblender:2.36
+
+Topic 4:
+  coins:5.80
+  anonymity:4.50
+  coinjoin:4.43
+  anonymous:3.66
+  bitcoin fog:2.52
+  fail:2.20
+  issues:2.20
+  mix:2.20
+  io:2.20
+  fee trustworthy:2.20
+
+K: 5, Log-Likelihood: -3130.510, Alpha: 11.000, Beta: 1.100

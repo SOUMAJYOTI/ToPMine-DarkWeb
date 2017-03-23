@@ -1,0 +1,61 @@
+Topic 0:
+  prices:0.70
+  community:0.70
+  people:0.69
+  product:0.69
+  subutex:0.68
+  step:0.68
+  customers:0.67
+  vendor:0.35
+  understand:0.32
+  deal:0.31
+
+Topic 1:
+  customers:0.80
+  step:0.79
+  subutex:0.79
+  product:0.78
+  people:0.78
+  prices:0.77
+  community:0.76
+  guysim:0.34
+  escrow:0.34
+  goods:0.34
+
+Topic 2:
+  post:0.53
+  access:0.52
+  offer newbie:0.35
+  bro:0.34
+  break:0.34
+  didnt:0.34
+  gon:0.34
+  activated:0.34
+  ago:0.34
+  account:0.34
+
+Topic 3:
+  post:0.40
+  access:0.40
+  vendor:0.34
+  community:0.33
+  step:0.33
+  prices:0.33
+  subutex:0.33
+  product:0.32
+  customers:0.32
+  people:0.32
+
+Topic 4:
+  access:0.95
+  post:0.94
+  june:0.47
+  quote:0.47
+  days:0.41
+  vendor powsub:0.41
+  moment:0.40
+  activated:0.40
+  rules:0.40
+  registered:0.40
+
+K: 5, Log-Likelihood: -496.603, Alpha: 11.000, Beta: 1.100

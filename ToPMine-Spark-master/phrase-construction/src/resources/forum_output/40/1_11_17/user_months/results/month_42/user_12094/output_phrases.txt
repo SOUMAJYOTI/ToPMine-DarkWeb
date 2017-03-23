@@ -1,0 +1,51 @@
+Topic 0:
+  double:0.14
+  chicagojocoin:0.14
+  anon:0.14
+  encrusted:0.14
+  coin:0.14
+  encryption:0.14
+  accept:0.14
+  thoughts:0.14
+
+Topic 1:
+  encrusted:0.14
+  double:0.14
+  thoughts:0.14
+  coin:0.14
+  anon:0.14
+  encryption:0.14
+  accept:0.14
+  chicagojocoin:0.14
+
+Topic 2:
+  coin:0.14
+  chicagojocoin:0.14
+  accept:0.14
+  encrusted:0.14
+  thoughts:0.14
+  double:0.14
+  anon:0.14
+  encryption:0.14
+
+Topic 3:
+  accept:0.14
+  chicagojocoin:0.14
+  encryption:0.14
+  anon:0.14
+  double:0.14
+  encrusted:0.14
+  thoughts:0.14
+  coin:0.14
+
+Topic 4:
+  encryption:0.14
+  thoughts:0.14
+  anon:0.14
+  coin:0.14
+  double:0.14
+  encrusted:0.14
+  accept:0.14
+  chicagojocoin:0.14
+
+K: 5, Log-Likelihood: -11.531, Alpha: 11.000, Beta: 1.100

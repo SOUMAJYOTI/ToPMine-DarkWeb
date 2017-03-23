@@ -1,0 +1,61 @@
+Topic 0:
+  jotka:0.16
+  kusettaa:0.16
+  ksenon:0.16
+  vittu:0.16
+  yli:0.16
+  sai:0.16
+  ruvennu:0.16
+  sit:0.16
+  tempun:0.08
+  en:0.08
+
+Topic 1:
+  ruvennu:0.16
+  sai:0.16
+  ksenon:0.16
+  kusettaa:0.16
+  jotka:0.16
+  vittu:0.16
+  sit:0.16
+  yli:0.16
+  seuraava:0.08
+  edes:0.08
+
+Topic 2:
+  sit:0.16
+  sai:0.16
+  vittu:0.16
+  jotka:0.16
+  ksenon:0.16
+  kusettaa:0.16
+  ruvennu:0.16
+  yli:0.16
+  seuraava:0.08
+  mietin:0.08
+
+Topic 3:
+  yli:0.16
+  kusettaa:0.16
+  vittu:0.16
+  sit:0.16
+  sai:0.16
+  ksenon:0.16
+  ruvennu:0.16
+  jotka:0.16
+  seuraava:0.08
+  kapteeni:0.08
+
+Topic 4:
+  sit:0.16
+  yli:0.16
+  ruvennu:0.16
+  ksenon:0.16
+  vittu:0.16
+  kusettaa:0.16
+  jotka:0.16
+  sai:0.16
+  homma:0.08
+  lipsuun:0.08
+
+K: 5, Log-Likelihood: -164.674, Alpha: 11.000, Beta: 1.100

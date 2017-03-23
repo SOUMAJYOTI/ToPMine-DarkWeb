@@ -1,0 +1,61 @@
+Topic 0:
+  server:1.19
+  forum:0.83
+  plenty:0.62
+  powered:0.61
+  technology:0.61
+  swift:0.60
+  times:0.60
+  problem:0.60
+  caroline:0.60
+  starts:0.60
+
+Topic 1:
+  server:1.14
+  forum:0.79
+  constantly:0.61
+  good:0.60
+  swift:0.60
+  market:0.60
+  kick:0.60
+  problem:0.60
+  starts:0.60
+  forums:0.59
+
+Topic 2:
+  server:1.21
+  forum:0.75
+  ve:0.63
+  plenty:0.62
+  problems:0.62
+  market:0.61
+  good:0.61
+  powered:0.61
+  starts:0.61
+  fold:0.61
+
+Topic 3:
+  server:1.17
+  forum:0.84
+  ya:0.61
+  fold:0.61
+  kick:0.61
+  problem:0.61
+  refueling:0.61
+  constantly:0.61
+  fuel:0.61
+  times:0.61
+
+Topic 4:
+  server:1.28
+  forum:0.79
+  fuel:0.61
+  caroline:0.61
+  refueling:0.61
+  swift:0.61
+  forums:0.61
+  constantly:0.61
+  fold:0.61
+  ya:0.61
+
+K: 5, Log-Likelihood: -342.679, Alpha: 11.000, Beta: 1.100

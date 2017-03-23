@@ -1,0 +1,61 @@
+Topic 0:
+  mobile:0.89
+  provide:0.82
+  number:0.73
+  uk:0.61
+  messages:0.41
+  numbers:0.41
+  person:0.41
+  sold:0.41
+  anonymous:0.40
+  supposedly:0.40
+
+Topic 1:
+  number:0.86
+  provide:0.80
+  mobile:0.79
+  uk:0.61
+  family:0.41
+  service:0.41
+  dealing:0.41
+  calling:0.41
+  hoping:0.41
+  longer:0.40
+
+Topic 2:
+  number:0.84
+  provide:0.83
+  mobile:0.82
+  uk:0.62
+  person:0.42
+  numbers:0.42
+  sold:0.41
+  messages:0.41
+  issue:0.41
+  longer:0.41
+
+Topic 3:
+  mobile:0.80
+  provide:0.77
+  number:0.77
+  uk:0.59
+  call:0.42
+  quote:0.41
+  february:0.41
+  sold:0.41
+  numbers:0.40
+  person:0.40
+
+Topic 4:
+  number:0.80
+  provide:0.77
+  mobile:0.70
+  uk:0.57
+  call:0.45
+  quote:0.42
+  february:0.42
+  friends:0.40
+  hoping:0.40
+  provided:0.40
+
+K: 5, Log-Likelihood: -332.965, Alpha: 11.000, Beta: 1.100

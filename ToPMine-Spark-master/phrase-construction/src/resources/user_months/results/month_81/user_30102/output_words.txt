@@ -1,0 +1,61 @@
+Topic 0:
+  agora:4.13
+  market:3.21
+  problem:3.18
+  time:2.86
+  captcha:2.56
+  forums:1.80
+  dont:1.78
+  long:1.64
+  buying:1.09
+  growing:1.08
+
+Topic 1:
+  deposit:5.89
+  agora:3.70
+  blockchain:2.99
+  confirmations:2.36
+  transaction:1.97
+  address:1.59
+  btc:1.46
+  today:1.36
+  yesterday:1.15
+  withdrawl:1.14
+
+Topic 2:
+  deposit:3.80
+  agora:3.13
+  blockchain:2.69
+  confirmations:1.93
+  transaction:1.76
+  wallet:1.67
+  check:1.35
+  withdrawl:1.31
+  yesterday:1.29
+  address:1.06
+
+Topic 3:
+  ag:7.91
+  marketplace:6.70
+  ab:4.91
+  min:4.86
+  wallet:3.30
+  hrs:2.97
+  unconformed:2.13
+  move:2.13
+  block:1.91
+  satoshi:1.91
+
+Topic 4:
+  agora:4.93
+  time:1.69
+  today:1.68
+  ago:1.31
+  agra:1.30
+  problem:1.21
+  deposit:1.21
+  captcha:0.97
+  forums:0.91
+  hours:0.82
+
+K: 5, Log-Likelihood: -2014.364, Alpha: 11.000, Beta: 1.100

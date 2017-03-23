@@ -1,0 +1,413 @@
+warning case hidden,0,4
+host open,1,4
+hmm,2,2
+owners,3,2
+client supports,4,4
+setting,5,4
+quote,6,6
+time enjoy,7,2
+riseup require,8,3
+host open irc xmpp,9,4
+public tor xmpp,10,4
+find suitable server,11,4
+require,12,3
+tmg gamesome,13,2
+connect ssl warning,14,4
+nice onion,15,2
+retroshare,16,1
+institute,17,4
+work import certificate connect,18,4
+xmpp option,19,3
+xmpp option riseup,20,3
+hidden servers,21,4
+setup tails,22,2
+open irc,23,4
+account registration,24,4
+option riseup require admit,25,3
+zoxeebee xmpp,26,3
+group chat xmpp option,27,3
+ira client,28,2
+ira,29,8
+irc,30,10
+connect,31,4
+account registration works directly,32,4
+certificate connect ssl warning,33,4
+servers account,34,4
+awesome,35,2
+includes pidgin map,36,4
+moderated public server,37,4
+meet,38,1
+directly pidgin,39,4
+scarf,40,2
+servers account registration works,41,4
+alternatively invitations,42,3
+calyx institute riseup,43,4
+good,44,4
+calyx institute,45,4
+riseup great,46,4
+zoxeebee xmpp accomidate group,47,3
+tor online,48,2
+warning,49,4
+quote zoxeebee,50,4
+map client,51,4
+conversation,52,2
+add,53,2
+xmppomfg work import,54,4
+activation accounts,55,3
+import certificate connect,56,4
+group chat,57,11
+ruddy,58,2
+list,59,2
+tails,60,4
+site time,61,2
+guys,62,3
+xmpp option riseup require,63,3
+activation,64,5
+moderated public server called,65,4
+jabber,66,1
+guys bit,67,2
+technical,68,2
+chat xmpp option,69,3
+server called,70,4
+activation accounts alternatively,71,3
+load,72,2
+map registration,73,4
+trouble,74,2
+client,75,6
+onion server,76,2
+find suitable,77,4
+map client supports,78,4
+pidgin map client supports,79,4
+riseup map registration,80,4
+work import certificate,81,4
+hippie,82,2
+cjw,83,1
+existing,84,2
+hub,85,2
+service,86,1
+setup,87,3
+suitable,88,4
+riseup require admit,89,3
+big,90,2
+accounts alternatively invitations people,91,3
+xmpp servers,92,4
+called,93,4
+pidgin map,94,4
+invoke,95,2
+bit,96,4
+tmg,97,5
+xmpp accomidate group,98,3
+admit activation accounts,99,3
+liberatory,100,1
+xmpp group,101,2
+xmppomfg work,102,4
+includes pidgin map client,103,4
+admit activation,104,5
+zoxee,105,2
+public invited moderator,106,4
+handle,107,2
+accomidate group,108,3
+option riseup,109,3
+agree idea,110,2
+open irc xmpp suited,111,4
+public invited,112,4
+messages,113,2
+activation xmpp,114,2
+server,115,20
+tails includes,116,2
+don,117,4
+chat guys,118,2
+clients,119,4
+works,120,4
+xmppomfg,121,4
+irc xmpp suited,122,4
+import certificate,123,4
+majestic,124,2
+thinking,125,2
+invited moderator,126,4
+tor,127,9
+host open irc,128,4
+map,129,10
+warning case,130,4
+change,131,1
+chat encryption find,132,4
+generally,133,2
+map registration moderated public,134,4
+gamesome,135,5
+evening,136,2
+pidgin map client,137,4
+ll,138,1
+mods,139,2
+connect ssl warning case,140,4
+moderator,141,4
+traction,142,2
+office,143,1
+server called xmppomfg work,144,4
+group chat encryption,145,4
+rejoin,146,2
+fine,147,1
+chat xmpp option riseup,148,3
+find,149,6
+host,150,4
+activation accounts alternatively invitations,151,3
+communication,152,1
+directly,153,4
+great public invited moderator,154,4
+ira clients,155,2
+chat clients,156,2
+realtime,157,2
+xmpp suited,158,4
+certificate connect,159,4
+includes,160,4
+registration moderated,161,4
+accounts alternatively,162,3
+cwpeaeppfqz,163,1
+onion xmpp,164,2
+xmpp servers riseup great,165,4
+xmppomfg work import certificate,166,4
+problems,167,2
+enjoy hanging,168,4
+shame,169,2
+riseup map,170,4
+certificate,171,6
+chat encryption,172,4
+running,173,2
+case hidden servers account,174,4
+chat encryption find suitable,175,4
+imported,176,2
+working,177,2
+looked public tor,178,4
+noobs,179,2
+hear,180,2
+zoxeebee xmpp accomidate,181,3
+haven,182,1
+pretty,183,2
+social,184,1
+looked,185,4
+looked public,186,4
+thread,187,2
+suitable server,188,4
+online,189,3
+invitations people,190,3
+server host open,191,4
+people xmpp,192,2
+ssl,193,6
+pmi,194,2
+server host open irc,195,4
+riseup great public invited,196,4
+impo,197,2
+encryption find suitable,198,4
+setting irc,199,2
+setting ira,200,2
+invited moderator calyx,201,4
+warning case hidden servers,202,4
+gamesome ira,203,1
+public server,204,4
+based,205,2
+require admit activation accounts,206,3
+havent,207,1
+xmpp accomidate,208,3
+called xmppomfg,209,4
+client supports group chat,210,4
+xmpp servers riseup,211,4
+client supports group,212,4
+creating,213,1
+public server called,214,4
+ssl warning,215,4
+public tor,216,4
+ports,217,1
+long,218,2
+worth,219,2
+offline,220,1
+routing,221,4
+default,222,2
+encryption,223,4
+hidden xmpp,224,1
+tmg server,225,2
+supports,226,4
+surprised,227,2
+account registration works,228,4
+certificate connect ssl,229,4
+alternatively,230,3
+chat xmpp,231,3
+people,232,8
+work import,233,4
+servers riseup,234,4
+zoxeebee,235,7
+registration moderated public server,236,4
+suited tor,237,2
+gamma,238,2
+open,239,4
+group chat xmpp,240,3
+ira onion,241,2
+tor xmpp,242,4
+hanging tmg,243,2
+group chat encryption find,244,4
+accomidate group chat xmpp,245,3
+xmpp good,246,2
+institute riseup map registration,247,4
+registration works directly,248,4
+workig,249,1
+encryption find,250,4
+chat great,251,1
+regularly,252,2
+find people,253,2
+ssl warning case,254,4
+zoxeebee september,255,4
+great public,256,4
+details,257,2
+registration works directly pidgin,258,4
+torwell,259,2
+server called xmppomfg,260,4
+definite,261,2
+encryption find suitable server,262,4
+moderator calyx institute riseup,263,4
+registration moderated public,264,4
+invited,265,4
+ve,266,1
+suited,267,4
+hidden servers account,268,4
+amtails,269,2
+support,270,2
+irc server,271,2
+hidden,272,5
+import,273,4
+idea,274,6
+needed,275,2
+calyx,276,4
+looked public tor xmpp,277,4
+tor xmpp servers,278,4
+admit,279,5
+anonymity,280,2
+vote,281,2
+thoughts,282,2
+accounts alternatively invitations,283,3
+figure,284,2
+riseup online,285,1
+people chat,286,2
+option tor,287,2
+admit activation accounts alternatively,288,3
+accomidate,289,3
+time time,290,2
+time,291,7
+rewarding,292,2
+happy,293,2
+invited moderator calyx institute,294,4
+issues,295,2
+irc xmpp server,296,2
+piano,297,2
+enable,298,2
+case,299,4
+option riseup require,300,3
+cons,301,2
+work,302,4
+agree,303,4
+clearnet,304,2
+tor xmpp servers riseup,305,4
+server host,306,4
+institute riseup map,307,4
+pleroma,308,2
+suitable server host open,309,4
+servers riseup great public,310,4
+map registration moderated,311,4
+ssl warning case hidden,312,4
+accomidate group chat,313,3
+servers account registration,314,4
+good option,315,2
+logging,316,2
+registration,317,8
+require admit activation,318,3
+care,319,2
+love,320,4
+map servers,321,2
+moderated,322,4
+works directly pidgin,323,4
+find suitable server host,324,4
+enjoy,325,4
+time guys,326,1
+tools,327,1
+hanging time,328,2
+pros,329,2
+noon,330,2
+invitations,331,3
+web,332,2
+identity,333,1
+servers riseup great,334,4
+called xmppomfg work,335,4
+xmpp accomidate group chat,336,3
+map client supports group,337,4
+great,338,5
+nice,339,3
+supports group,340,4
+site,341,4
+september zoxeebee,342,2
+includes pidgin,343,4
+pidgin,344,8
+public invited moderator calyx,345,4
+chat,346,20
+irc xmpp,347,6
+open irc xmpp,348,4
+garden,349,2
+accounts,350,3
+connect ssl,351,4
+forgot,352,2
+hanging,353,4
+runs,354,1
+moderator calyx,355,4
+onion routing,356,4
+supports group chat,357,4
+onion,358,11
+friendly,359,2
+public tor xmpp servers,360,4
+experience,361,2
+guys nice,362,1
+xmpp,363,25
+wondering,364,2
+protocol,365,2
+people tmg,366,2
+case hidden,367,4
+called xmppomfg work import,368,4
+require admit,369,3
+group,370,11
+riseup,371,13
+supports group chat encryption,372,4
+ill,373,1
+import certificate connect ssl,374,4
+history,375,2
+crypto,376,2
+personally,377,2
+xmpp server,378,4
+hidden servers account registration,379,4
+public server called xmppomfg,380,4
+calyx institute riseup map,381,4
+riseup require admit activation,382,3
+dont,383,2
+tossed,384,2
+moderated public,385,4
+option,386,5
+works directly,387,4
+case hidden servers,388,4
+suitable server host,389,4
+riseup map registration moderated,390,4
+network,391,1
+alternatively invitations people,392,3
+candidate,393,2
+great public invited,394,4
+september,395,6
+servers,396,10
+public,397,12
+sounds,398,2
+mentioned,399,2
+institute riseup,400,4
+moderator calyx institute,401,4
+riseup great public,402,4
+quote zoxeebee september,403,4
+onion irc,404,2
+built,405,2
+limited,406,2
+registration works,407,4
+groups,408,1
+tricky,409,2
+user,410,2
+fitting,411,1
+account,412,4

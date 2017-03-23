@@ -1,0 +1,61 @@
+Topic 0:
+  sharing:1.68
+  seasoned:1.67
+  people:1.65
+  invites:1.51
+  quote:1.37
+  accountsi:1.37
+  guess:1.37
+  quantumaffinity:1.37
+  lurking:1.37
+  pmunfortunately:1.37
+
+Topic 1:
+  invite:1.46
+  kindly:0.83
+  invites:0.73
+  register:0.59
+  great:0.59
+  purchase:0.58
+  dhl:0.58
+  invites pm:0.54
+  response:0.53
+  love invite:0.52
+
+Topic 2:
+  invite:3.12
+  peace:1.23
+  consumer:1.22
+  friendly:1.22
+  worth:1.22
+  bb:1.22
+  bubbly:1.22
+  happen:1.21
+  love:1.21
+  purchase:0.55
+
+Topic 3:
+  things:2.65
+  dont:1.15
+  hear:1.14
+  grate:1.14
+  day:1.14
+  fun:1.14
+  party:1.14
+  grateful:1.14
+  selling:1.13
+  good:1.13
+
+Topic 4:
+  kindly:0.84
+  invite:0.75
+  invites:0.67
+  things:0.57
+  spots:0.56
+  inquire:0.55
+  response:0.54
+  invites pm:0.54
+  love invite:0.52
+  invite pm:0.52
+
+K: 5, Log-Likelihood: -373.070, Alpha: 11.000, Beta: 1.100

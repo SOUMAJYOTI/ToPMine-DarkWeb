@@ -1,0 +1,61 @@
+Topic 0:
+  type:1.08
+  setting:1.08
+  carry:1.07
+  collaborating:1.07
+  community feel:1.07
+  support:1.07
+  consult:1.07
+  fully:1.06
+  facing:1.06
+  outward:1.05
+
+Topic 1:
+  site:2.85
+  question:1.60
+  host:1.60
+  hosting:1.54
+  pming:1.36
+  illiterate:1.36
+  lol:1.36
+  bunch:1.36
+  helping:1.36
+  ill:1.36
+
+Topic 2:
+  idea:1.62
+  hosted:1.32
+  pgp:1.32
+  throwing:1.32
+  users:1.32
+  onion:1.32
+  job:1.32
+  ball:1.32
+  completely:1.32
+  long:1.32
+
+Topic 3:
+  private:2.19
+  endeavor:0.99
+  provide:0.98
+  people:0.98
+  security:0.97
+  hesitant:0.97
+  web:0.97
+  join:0.96
+  server:0.95
+  versed:0.95
+
+Topic 4:
+  images:1.35
+  knew:1.35
+  sharing:1.35
+  rely:1.35
+  sad:1.35
+  open:1.35
+  chemistry:1.35
+  sciencemadness:1.35
+  sooty:1.35
+  science:1.35
+
+K: 5, Log-Likelihood: -1048.577, Alpha: 11.000, Beta: 1.100

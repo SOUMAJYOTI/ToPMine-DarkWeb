@@ -1,0 +1,61 @@
+Topic 0:
+  small:0.00
+  undeniable:0.00
+  addresses:0.00
+  numbers:0.00
+  questions:0.00
+  reputation:0.00
+  discount:0.00
+  fair:0.00
+  launched:0.00
+  good:0.00
+
+Topic 1:
+  small:0.00
+  undeniable:0.00
+  addresses:0.00
+  numbers:0.00
+  questions:0.00
+  reputation:0.00
+  discount:0.00
+  fair:0.00
+  launched:0.00
+  good:0.00
+
+Topic 2:
+  small:0.00
+  undeniable:0.00
+  addresses:0.00
+  numbers:0.00
+  questions:0.00
+  reputation:0.00
+  discount:0.00
+  fair:0.00
+  launched:0.00
+  good:0.00
+
+Topic 3:
+  small:0.00
+  undeniable:0.00
+  addresses:0.00
+  numbers:0.00
+  questions:0.00
+  reputation:0.00
+  discount:0.00
+  fair:0.00
+  launched:0.00
+  good:0.00
+
+Topic 4:
+  small:0.00
+  undeniable:0.00
+  addresses:0.00
+  numbers:0.00
+  questions:0.00
+  reputation:0.00
+  discount:0.00
+  fair:0.00
+  launched:0.00
+  good:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

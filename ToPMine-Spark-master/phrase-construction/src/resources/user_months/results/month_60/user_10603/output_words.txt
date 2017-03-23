@@ -1,0 +1,61 @@
+Topic 0:
+  type:1.31
+  connect:1.30
+  idea:1.28
+  phone:1.28
+  good:1.01
+  method:0.96
+  prepaid:0.90
+  experience:0.88
+  hot:0.88
+  things:0.87
+
+Topic 1:
+  firewire:5.52
+  info:2.93
+  card:2.24
+  good:2.01
+  connection:1.77
+  machine:1.73
+  curious:1.66
+  slot:1.65
+  caroline:1.65
+  understand:1.64
+
+Topic 2:
+  access:2.46
+  port:2.34
+  direct:2.14
+  laptop:1.82
+  ram:1.81
+  based:1.55
+  tails:1.42
+  dongles:1.35
+  lots:1.35
+  things:1.15
+
+Topic 3:
+  type:1.44
+  tails:1.40
+  phone:1.29
+  snooping:1.18
+  connect:1.05
+  gps:1.03
+  cell:1.02
+  talking:0.94
+  address:0.94
+  things:0.93
+
+Topic 4:
+  hotspot:5.57
+  device:3.92
+  dongle:3.52
+  operations:3.16
+  machine:3.02
+  turn:2.92
+  buy:2.24
+  dont:2.19
+  wifi:2.18
+  tor:2.16
+
+K: 5, Log-Likelihood: -2548.620, Alpha: 11.000, Beta: 1.100

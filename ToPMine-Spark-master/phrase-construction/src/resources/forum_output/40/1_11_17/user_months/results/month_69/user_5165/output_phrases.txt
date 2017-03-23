@@ -1,0 +1,61 @@
+Topic 0:
+  thread:2.16
+  email:0.95
+  learning:0.84
+  discussion:0.84
+  difficulty:0.84
+  people pgp:0.84
+  obvious:0.84
+  creates:0.84
+  key:0.77
+  send:0.77
+
+Topic 1:
+  vendors:1.22
+  assume:1.11
+  small:1.11
+  address:1.11
+  minutes:1.11
+  feel:1.11
+  collect:1.11
+  dont:1.11
+  takes:1.11
+  correct:1.10
+
+Topic 2:
+  february:0.73
+  myname:0.71
+  vendors:0.59
+  email addresses:0.58
+  pgp fill random nonsense:0.58
+  bit frustrated username issue:0.58
+  secure email time trading:0.58
+  email address didnt:0.57
+  vendors people whove public:0.57
+  kinda guilty started:0.57
+
+Topic 3:
+  february:1.24
+  email address didnt:0.71
+  poor:0.70
+  quote:0.70
+  kinda guilty started:0.70
+  hard:0.70
+  vendors people whove public:0.70
+  bit frustrated username issue:0.70
+  secure email time trading:0.69
+  email addresses:0.69
+
+Topic 4:
+  february:0.75
+  myname:0.74
+  vendors:0.61
+  secure email time trading:0.59
+  vendors people whove public:0.59
+  kinda guilty started:0.59
+  pgp fill random nonsense:0.58
+  email addresses:0.58
+  bit frustrated username issue:0.58
+  email address didnt:0.58
+
+K: 5, Log-Likelihood: -600.324, Alpha: 11.000, Beta: 1.100

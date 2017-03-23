@@ -1,0 +1,61 @@
+Topic 0:
+  proof:0.16
+  method:0.16
+  verification:0.08
+  reaching:0.08
+  anonymously:0.08
+  bank:0.08
+  wanting:0.08
+  methods:0.08
+  picture:0.08
+  requiring:0.08
+
+Topic 1:
+  proof:0.16
+  method:0.16
+  vendors:0.08
+  policy:0.08
+  profiles:0.08
+  watching:0.08
+  site:0.08
+  ive:0.08
+  btc:0.08
+  lbc:0.08
+
+Topic 2:
+  proof:0.16
+  method:0.16
+  site:0.08
+  policy:0.08
+  profiles:0.08
+  watching:0.08
+  vendors:0.08
+  methods:0.08
+  uk:0.08
+  thanksj:0.08
+
+Topic 3:
+  method:0.16
+  proof:0.16
+  picture:0.08
+  lot:0.08
+  localbitcoins:0.08
+  anonymously:0.08
+  verification:0.08
+  uk:0.08
+  btc:0.08
+  bank:0.08
+
+Topic 4:
+  method:0.16
+  proof:0.16
+  vendors:0.08
+  watching:0.08
+  profiles:0.08
+  site:0.08
+  policy:0.08
+  opsec:0.08
+  sms:0.08
+  lot:0.08
+
+K: 5, Log-Likelihood: -45.959, Alpha: 11.000, Beta: 1.100

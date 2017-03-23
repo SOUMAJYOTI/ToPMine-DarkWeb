@@ -1,0 +1,61 @@
+Topic 0:
+  bank:2.22
+  june:2.16
+  boogie:1.57
+  quote:1.43
+  offshore:1.39
+  pdf:1.20
+  amquote:1.09
+  brilliant:0.97
+  ant:0.91
+  friend:0.90
+
+Topic 1:
+  june:2.57
+  boogie:2.26
+  pdf:1.78
+  offshore:1.53
+  quote:1.45
+  amquote:1.36
+  long:1.19
+  bank:1.17
+  good:1.13
+  brilliant:1.12
+
+Topic 2:
+  june:2.86
+  boogie:2.01
+  pdf:1.75
+  offshore:1.60
+  quote:1.38
+  bank:1.34
+  amquote:1.25
+  uploaded:1.11
+  ago:1.09
+  ant:1.06
+
+Topic 3:
+  bank:2.14
+  boogie:1.72
+  june:1.68
+  quote:1.38
+  pdf:1.38
+  accounts:1.14
+  offshore:1.14
+  anonymous:1.10
+  amquote:0.91
+  friend:0.91
+
+Topic 4:
+  june:2.74
+  boogie:2.45
+  pdf:1.89
+  amquote:1.39
+  quote:1.36
+  offshore:1.35
+  ant:1.15
+  bank:1.13
+  ago:1.12
+  long:1.07
+
+K: 5, Log-Likelihood: -695.410, Alpha: 11.000, Beta: 1.100

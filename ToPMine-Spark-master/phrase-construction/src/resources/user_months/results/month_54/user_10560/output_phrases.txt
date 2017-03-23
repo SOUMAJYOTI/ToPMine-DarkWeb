@@ -1,0 +1,61 @@
+Topic 0:
+  torrents tor:6.75
+  tor:5.61
+  opened:4.22
+  download:4.22
+  scripts:4.22
+  torrent:3.41
+  handle:3.41
+  tor dont:3.30
+  thumbdriv:3.30
+  downlod:3.29
+
+Topic 1:
+  vpn:5.88
+  op:2.34
+  browse:2.31
+  sytem:2.27
+  clipboard press decrypt:2.03
+  hub:2.03
+  popsyou:2.03
+  experts:2.03
+  helpif:2.03
+  inform:2.03
+
+Topic 2:
+  vpn:7.05
+  multi:4.24
+  hardware:4.24
+  vpn tor:4.24
+  eyes:4.24
+  assume:4.24
+  farewell:4.24
+  stuff:4.24
+  software:4.24
+  choice os:3.48
+
+Topic 3:
+  beginners:6.87
+  ubuntu:3.44
+  thinks:3.40
+  ways:3.40
+  nice:3.40
+  offer:3.40
+  days:3.40
+  major:3.40
+  distros:3.40
+  easy:3.40
+
+Topic 4:
+  tails:14.12
+  linux:7.49
+  persistent data partition:6.83
+  keys:6.83
+  time:5.70
+  windows:5.45
+  operating:4.24
+  arch:4.19
+  beginner:4.19
+  design:4.19
+
+K: 5, Log-Likelihood: -4695.181, Alpha: 11.000, Beta: 1.100

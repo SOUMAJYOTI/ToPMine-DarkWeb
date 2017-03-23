@@ -1,0 +1,61 @@
+Topic 0:
+  security:28.13
+  subgraph:20.81
+  people:14.73
+  march:13.48
+  tails:11.79
+  kmf:8.18
+  whonix:7.88
+  sounds:5.96
+  illegal:5.94
+  listen:5.94
+
+Topic 1:
+  march:5.46
+  quote:4.63
+  steroids:3.62
+  os:2.98
+  downloading:2.69
+  persistence:2.69
+  ta:2.69
+  asap:2.68
+  box:2.66
+  alpha:2.61
+
+Topic 2:
+  system:16.57
+  grsec:10.12
+  memory:9.96
+  quantum:9.94
+  rbac:7.87
+  computer:7.04
+  bit:6.95
+  learning:6.16
+  atom:5.94
+  mode:5.15
+
+Topic 3:
+  tails:13.21
+  subgraph:6.36
+  whonix:5.87
+  tubes:4.49
+  kind:4.47
+  steroids:4.43
+  massively:4.40
+  pretty:4.34
+  hardened:4.33
+  edge:4.29
+
+Topic 4:
+  contacts:4.96
+  tor:4.51
+  ricochet:3.96
+  address:3.30
+  clearnet:2.75
+  send:2.18
+  list:1.96
+  servers:1.96
+  network:1.96
+  read:1.85
+
+K: 5, Log-Likelihood: -8432.122, Alpha: 11.000, Beta: 1.100

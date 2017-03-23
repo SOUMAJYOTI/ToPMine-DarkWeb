@@ -1,0 +1,61 @@
+Topic 0:
+  english:10.47
+  language:9.60
+  quote:7.78
+  market:7.39
+  january:5.93
+  usual:4.14
+  forget:4.12
+  precaution:4.07
+  continue:4.04
+  perfectscans:3.23
+
+Topic 1:
+  sites:9.69
+  tba:6.82
+  vendors:3.78
+  people:3.12
+  site:2.99
+  main:2.90
+  buyers:2.88
+  days:2.77
+  sell:2.47
+  trade:1.90
+
+Topic 2:
+  good:10.74
+  time:4.35
+  market:3.78
+  marketplace:3.30
+  site:3.29
+  free:2.74
+  takes:2.71
+  trust:2.69
+  drug:2.22
+  support:2.00
+
+Topic 3:
+  fog:9.66
+  people:7.34
+  site:7.19
+  linked:6.87
+  feel:5.75
+  agora:5.16
+  bitcoin:5.08
+  coin:4.66
+  january:4.51
+  le:3.94
+
+Topic 4:
+  people:5.09
+  security:4.36
+  lots:3.61
+  stuff:3.54
+  market:3.25
+  quote:3.10
+  buying:1.68
+  mst:1.68
+  waiting:1.68
+  cares:1.68
+
+K: 5, Log-Likelihood: -4216.381, Alpha: 11.000, Beta: 1.100

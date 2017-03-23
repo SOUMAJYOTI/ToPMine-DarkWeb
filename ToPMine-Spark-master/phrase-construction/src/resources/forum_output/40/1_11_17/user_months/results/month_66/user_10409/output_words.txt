@@ -1,0 +1,61 @@
+Topic 0:
+  abraham:0.79
+  vendor:0.77
+  igottheblues:0.63
+  oxycodone:0.40
+  agora:0.40
+  waited:0.40
+  place:0.40
+  named:0.40
+  post:0.40
+  wrong:0.40
+
+Topic 1:
+  abraham:0.83
+  vendor:0.80
+  igottheblues:0.60
+  waited:0.40
+  post:0.40
+  finalized:0.40
+  pills:0.40
+  knowledge:0.40
+  abraxas:0.40
+  agora:0.40
+
+Topic 2:
+  vendor:0.81
+  abraham:0.80
+  igottheblues:0.58
+  experience:0.41
+  shout:0.40
+  week:0.40
+  post:0.40
+  find:0.40
+  named:0.40
+  wrong:0.40
+
+Topic 3:
+  abraham:0.82
+  vendor:0.77
+  igottheblues:0.60
+  abraxas:0.41
+  knowledge:0.40
+  debacle:0.40
+  oxycodone:0.40
+  find:0.40
+  experience:0.40
+  pills:0.40
+
+Topic 4:
+  vendor:0.86
+  abraham:0.77
+  igottheblues:0.59
+  place:0.40
+  finalized:0.40
+  named:0.40
+  pills:0.40
+  shout:0.40
+  week:0.40
+  debacle:0.40
+
+K: 5, Log-Likelihood: -235.121, Alpha: 11.000, Beta: 1.100

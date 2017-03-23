@@ -1,0 +1,61 @@
+Topic 0:
+  curious:2.24
+  create:1.73
+  danger:1.73
+  etizolam:1.73
+  dangerous:1.73
+  cocktail:1.73
+  oxycodone mipt:1.73
+  helpful:1.73
+  reduction:1.73
+  sense:1.73
+
+Topic 1:
+  good:1.90
+  doses:1.90
+  unexpected:1.74
+  muscle:1.74
+  suffocation:1.74
+  death:1.74
+  caused:1.74
+  sedation:1.74
+  dissociate:1.74
+  relaxation:1.74
+
+Topic 2:
+  mipt:5.31
+  visuals:3.52
+  intense:3.52
+  hours:3.52
+  benzo:3.52
+  minute:3.52
+  dissassociatives:3.52
+  combo:1.78
+  traveling:1.73
+  success:1.73
+
+Topic 3:
+  kava:2.86
+  passed:2.23
+  drowned:2.23
+  case:2.22
+  slid:2.22
+  bathtub:2.21
+  caused death:2.21
+  quote:1.72
+  author:1.48
+  turner:1.46
+
+Topic 4:
+  moore:5.22
+  winter:3.43
+  ketamine:2.79
+  died:2.72
+  afaik:2.33
+  remains:1.65
+  woods:1.65
+  unconscious:1.65
+  years:1.65
+  forest:1.65
+
+K: 5, Log-Likelihood: -1845.240, Alpha: 11.000, Beta: 1.100

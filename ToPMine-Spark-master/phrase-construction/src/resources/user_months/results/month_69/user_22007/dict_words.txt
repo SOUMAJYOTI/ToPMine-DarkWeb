@@ -1,0 +1,16 @@
+mind,0,1
+request,1,1
+week,2,1
+sell,3,1
+deem,4,1
+personal,5,1
+check,6,1
+message,7,1
+thinking,8,1
+btc,9,1
+si,10,2
+invites,11,1
+invite,12,3
+free,13,1
+send,14,1
+deserving,15,1

@@ -1,0 +1,61 @@
+Topic 0:
+  btc:3.32
+  abraxas:0.81
+  listings:0.76
+  good:0.50
+  wow:0.50
+  abraxasreferal:0.50
+  account:0.50
+  avengers:0.44
+  love:0.44
+  total:0.40
+
+Topic 1:
+  btc:4.98
+  listings:0.90
+  abraxas:0.79
+  silkkitien:0.41
+  vendor:0.41
+  oxygen:0.41
+  dhl:0.41
+  guy:0.41
+  earth:0.41
+  agora:0.41
+
+Topic 2:
+  btc:4.48
+  abraxas:0.83
+  listings:0.81
+  total:0.41
+  nice:0.41
+  figured:0.41
+  bit:0.41
+  fee:0.40
+  free:0.40
+  earth:0.40
+
+Topic 3:
+  btc:4.28
+  abraxas:0.82
+  listings:0.75
+  account:0.42
+  abraxasreferal:0.42
+  wow:0.42
+  good:0.42
+  love:0.41
+  avengers:0.41
+  outlaw:0.40
+
+Topic 4:
+  btc:4.94
+  listings:0.79
+  abraxas:0.75
+  drug:0.41
+  ag:0.41
+  sites:0.41
+  bit:0.41
+  moving:0.40
+  dream:0.40
+  registration:0.40
+
+K: 5, Log-Likelihood: -413.806, Alpha: 11.000, Beta: 1.100

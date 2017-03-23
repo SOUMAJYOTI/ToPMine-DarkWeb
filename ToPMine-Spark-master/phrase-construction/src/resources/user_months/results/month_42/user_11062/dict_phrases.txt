@@ -1,0 +1,6 @@
+market,0,1
+detailed,1,1
+review,2,1
+ill,3,1
+write,4,1
+order,5,1

@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:0.48
+  blockchain:0.48
+  tumbler:0.48
+  questions:0.48
+  heroes:0.30
+  sceptical:0.30
+  respected:0.30
+  called:0.30
+  market:0.30
+  agora:0.30
+
+Topic 1:
+  darknet:0.44
+  respected:0.44
+  posted:0.44
+  heard:0.44
+  profile:0.44
+  bit:0.44
+  league:0.44
+  called:0.44
+  hey:0.44
+  sceptical:0.44
+
+Topic 2:
+  url:0.52
+  market:0.51
+  vendors:0.51
+  sceptical:0.51
+  sign:0.51
+  heroes:0.51
+  darknet:0.51
+  agora:0.51
+  link:0.51
+  heard:0.51
+
+Topic 3:
+  wallet:0.78
+  questions:0.78
+  blockchain:0.77
+  tumbler:0.77
+  services:0.32
+  coins:0.32
+  tumbling:0.32
+  address:0.32
+  tumble:0.32
+  sending:0.32
+
+Topic 4:
+  hey:0.57
+  sign:0.57
+  agora:0.57
+  link:0.57
+  league:0.57
+  bit:0.57
+  profile:0.57
+  called:0.57
+  posted:0.57
+  heroes:0.57
+
+K: 5, Log-Likelihood: -308.402, Alpha: 11.000, Beta: 1.100

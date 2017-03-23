@@ -1,0 +1,61 @@
+Topic 0:
+  safe mail:15.03
+  bm:8.81
+  tor:7.49
+  passwords:5.83
+  concern:5.83
+  popped:5.83
+  online:5.83
+  meth:5.83
+  party drugs:5.83
+  kids:5.83
+
+Topic 1:
+  bad:8.89
+  tool:8.74
+  people:7.72
+  trip:7.52
+  dont:6.58
+  medical:5.82
+  staff:5.82
+  cell:5.82
+  sacraments:5.82
+  drugs bad:5.82
+
+Topic 2:
+  password:12.54
+  windows partition:11.64
+  subkey:11.63
+  people:9.07
+  bad:8.89
+  led:8.74
+  brute:8.74
+  main key:8.71
+  created expires usage:8.71
+  lsd:7.68
+
+Topic 3:
+  google account:8.83
+  encryption:7.81
+  real people:7.75
+  wanted:6.62
+  clearnet email:6.22
+  working:6.02
+  secret:5.82
+  modern:5.82
+  cryptoanalyst decrypt:5.81
+  compromised:5.81
+
+Topic 4:
+  sillywabbit:11.67
+  ce fff:8.75
+  dfb:5.83
+  master key:5.83
+  keypair:5.83
+  posted:5.83
+  updated key:5.83
+  bf:5.83
+  db:5.83
+  ssb:5.83
+
+K: 5, Log-Likelihood: -35882.278, Alpha: 11.000, Beta: 1.100

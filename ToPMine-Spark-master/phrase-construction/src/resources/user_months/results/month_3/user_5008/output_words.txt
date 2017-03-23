@@ -1,0 +1,61 @@
+Topic 0:
+  key:1.99
+  time:1.25
+  private:0.94
+  passphrase:0.90
+  temp:0.89
+  sensitive:0.89
+  keys:0.88
+  send:0.87
+  copy:0.87
+  properly:0.83
+
+Topic 1:
+  key:2.41
+  time:1.68
+  properly:1.14
+  send:1.11
+  keys:1.05
+  passphrase:1.04
+  public:1.04
+  temp:1.01
+  copy:1.00
+  private:0.99
+
+Topic 2:
+  dave:2.10
+  dont:1.64
+  pgp:1.59
+  version:1.47
+  download:1.47
+  aquire:1.46
+  greatly:1.46
+  success:1.46
+  appreciated:1.46
+  computer:1.46
+
+Topic 3:
+  key:1.98
+  time:1.24
+  public:0.90
+  keys:0.89
+  temp:0.87
+  private:0.85
+  sensitive:0.84
+  properly:0.83
+  copy:0.83
+  passphrase:0.83
+
+Topic 4:
+  key:3.23
+  time:1.49
+  copy:1.07
+  sensitive:1.03
+  public:1.01
+  passphrase:0.97
+  temp:0.97
+  properly:0.96
+  private:0.95
+  send:0.94
+
+K: 5, Log-Likelihood: -990.887, Alpha: 11.000, Beta: 1.100

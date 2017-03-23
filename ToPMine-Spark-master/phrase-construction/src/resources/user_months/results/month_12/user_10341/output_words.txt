@@ -1,0 +1,61 @@
+Topic 0:
+  sr:1.00
+  team:0.87
+  technohippy:0.80
+  customers:0.68
+  great:0.61
+  forward:0.38
+  evolution:0.38
+  moved:0.38
+  stagnant:0.38
+  options:0.38
+
+Topic 1:
+  team:0.95
+  technohippy:0.94
+  customers:0.87
+  sr:0.85
+  great:0.59
+  happy:0.34
+  forward:0.34
+  tor:0.34
+  day:0.34
+  stay:0.34
+
+Topic 2:
+  sr:1.10
+  technohippy:0.76
+  team:0.68
+  great:0.58
+  hear:0.45
+  cheers:0.45
+  tor:0.45
+  andromeda:0.45
+  moved:0.45
+  moving:0.45
+
+Topic 3:
+  sr:0.91
+  technohippy:0.83
+  team:0.80
+  customers:0.68
+  great:0.63
+  options:0.39
+  stagnant:0.38
+  moving:0.38
+  cheers:0.38
+  bazaar:0.38
+
+Topic 4:
+  sr:1.13
+  team:0.70
+  technohippy:0.67
+  great:0.58
+  didn:0.46
+  stay:0.46
+  happy:0.46
+  forward:0.46
+  evolution:0.46
+  bazaar:0.46
+
+K: 5, Log-Likelihood: -246.998, Alpha: 11.000, Beta: 1.100

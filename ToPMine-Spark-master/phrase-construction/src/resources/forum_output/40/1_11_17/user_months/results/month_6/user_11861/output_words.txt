@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:2.41
+  escrow:2.08
+  ur:1.74
+  months:1.28
+  javascript:1.11
+  super:1.05
+  work:0.85
+  readin:0.73
+  secure:0.73
+  serverwasted:0.73
+
+Topic 1:
+  escrow:4.36
+  simple:3.70
+  multisig:3.45
+  site:3.44
+  vendor:2.96
+  based:1.74
+  automatic:1.74
+  process:1.74
+  additional:1.74
+  notice:1.73
+
+Topic 2:
+  js:7.75
+  windows:4.95
+  javascript:4.74
+  dnm:2.95
+  users:2.95
+  tor:2.64
+  market:2.30
+  time:2.10
+  arguments:2.03
+  year:1.95
+
+Topic 3:
+  virtualpath:15.95
+  web:12.70
+  system:12.29
+  woolen:10.95
+  compilation:6.95
+  boolean:6.95
+  string:5.95
+  buildmanager:5.95
+  ensureisuptodate:4.95
+  context:3.95
+
+Topic 4:
+  system:3.60
+  private:3.54
+  key:2.94
+  work:2.17
+  shit:2.05
+  smart:1.94
+  doesnt:1.94
+  calls:1.94
+  database:1.94
+  front:1.94
+
+K: 5, Log-Likelihood: -3158.634, Alpha: 11.000, Beta: 1.100

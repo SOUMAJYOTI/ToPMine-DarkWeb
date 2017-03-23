@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:3.50
+  signature:2.62
+  key:2.58
+  bd:2.55
+  gpg:2.27
+  select:1.72
+  gz:1.49
+  germinal:1.44
+  tar:1.41
+  save:1.32
+
+Topic 1:
+  electrum:3.07
+  signature:2.22
+  bd:2.20
+  gz:1.78
+  key:1.78
+  gpg:1.77
+  tar:1.72
+  select:1.55
+  save:1.18
+  germinal:1.03
+
+Topic 2:
+  electrum:1.80
+  tails:1.76
+  bd:0.97
+  info:0.93
+  signature:0.91
+  gpg:0.76
+  tar:0.74
+  gz:0.71
+  select:0.67
+  key:0.64
+
+Topic 3:
+  tails:1.78
+  electrum:1.16
+  thinking:1.04
+  info:0.97
+  sig:0.68
+  bd:0.65
+  signature:0.57
+  select:0.54
+  gpg:0.53
+  tar:0.52
+
+Topic 4:
+  tails:1.57
+  electrum:1.47
+  thinking:1.02
+  info:1.01
+  signature:0.68
+  gpg:0.67
+  bd:0.63
+  sig:0.62
+  tar:0.61
+  gz:0.56
+
+K: 5, Log-Likelihood: -1384.360, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  key:0.82
+  copy:0.40
+  fixed:0.40
+  program:0.40
+  pgp:0.40
+  public:0.40
+  keys:0.40
+  version:0.39
+  system:0.20
+  latest:0.20
+
+Topic 1:
+  key:0.80
+  public:0.40
+  pgp:0.40
+  keys:0.40
+  version:0.40
+  program:0.40
+  fixed:0.40
+  copy:0.40
+  works:0.20
+  passwords:0.20
+
+Topic 2:
+  key:0.79
+  version:0.41
+  copy:0.40
+  pgp:0.40
+  keys:0.40
+  public:0.40
+  fixed:0.40
+  program:0.40
+  block:0.20
+  tails:0.20
+
+Topic 3:
+  key:0.76
+  public:0.41
+  fixed:0.40
+  version:0.40
+  keys:0.40
+  program:0.40
+  copy:0.40
+  pgp:0.40
+  edit:0.20
+  gnupg:0.20
+
+Topic 4:
+  key:0.83
+  pgp:0.40
+  program:0.40
+  keys:0.40
+  version:0.40
+  public:0.40
+  fixed:0.40
+  copy:0.39
+  latest:0.20
+  system:0.20
+
+K: 5, Log-Likelihood: -113.963, Alpha: 11.000, Beta: 1.100

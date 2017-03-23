@@ -1,0 +1,61 @@
+Topic 0:
+  market:10.68
+  dhl:9.23
+  site:6.30
+  people:5.80
+  hacked:5.27
+  wallet:4.24
+  names:4.02
+  info:3.45
+  forums:3.34
+  public:3.24
+
+Topic 1:
+  markets:12.65
+  hacks:11.32
+  ve:4.71
+  time:4.27
+  ip:3.67
+  trd:3.66
+  secure:3.66
+  law:3.65
+  handle:3.65
+  parson:3.65
+
+Topic 2:
+  thing:6.41
+  stories:5.92
+  guy:5.92
+  vj:4.33
+  ve:3.80
+  access:3.45
+  identity:3.14
+  multiply:2.92
+  cashing:2.82
+  extorting:2.82
+
+Topic 3:
+  person:4.58
+  claiming:3.19
+  dhl:2.32
+  market:2.13
+  names:2.08
+  big:1.39
+  owner:1.33
+  vulnerability:1.33
+  pay:1.33
+  fud:1.33
+
+Topic 4:
+  btc:11.93
+  coins:5.93
+  users:5.16
+  lol:5.16
+  spam:5.15
+  true:4.09
+  attacker:3.93
+  confuse:3.93
+  security:3.93
+  measures:3.93
+
+K: 5, Log-Likelihood: -4163.342, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  btc:3.02
+  energy:2.69
+  price:2.24
+  dump:1.93
+  pump:1.91
+  stake:1.86
+  ur:1.79
+  safe:1.75
+  concept:1.75
+  confirm:1.75
+
+Topic 1:
+  development:2.32
+  pos:2.26
+  bitcoin:2.18
+  decred:2.01
+  decree:1.67
+  coins:1.62
+  stake:1.37
+  system:1.34
+  project:1.33
+  developers:1.33
+
+Topic 2:
+  decree:4.65
+  pos:4.21
+  mining:3.88
+  miner:3.73
+  price:3.44
+  pow:3.40
+  decred:2.80
+  seller:2.39
+  btc:2.32
+  btcd:1.97
+
+Topic 3:
+  decred:3.35
+  decree:1.95
+  pos:1.51
+  bitcoin:1.35
+  pow:1.30
+  btcd:1.26
+  proof:1.21
+  development:1.12
+  mining:1.12
+  stake:1.10
+
+Topic 4:
+  btcd:20.86
+  coins:17.38
+  bitcoin:13.18
+  project:12.97
+  airdrop:11.11
+  alpha:10.32
+  development:10.25
+  developers:9.24
+  system:8.81
+  btcsuite:8.37
+
+K: 5, Log-Likelihood: -7492.614, Alpha: 11.000, Beta: 1.100

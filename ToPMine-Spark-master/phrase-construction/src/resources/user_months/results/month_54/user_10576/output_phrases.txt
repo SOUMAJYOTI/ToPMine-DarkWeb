@@ -1,0 +1,61 @@
+Topic 0:
+  onionshare:6.18
+  link:3.70
+  drag:3.70
+  computer:3.70
+  download:3.70
+  problems:3.70
+  freedomhosting:3.70
+  server:3.70
+  apt:3.70
+  long:3.70
+
+Topic 1:
+  anonymous file:2.50
+  hosting services ectf:1.80
+  anonfiles:1.78
+  hosting pdfs energy control:1.77
+  mb:1.48
+  elmo july pmdoes:1.43
+  files:1.28
+  site:1.14
+  quote:0.99
+  send:0.92
+
+Topic 2:
+  mb:2.36
+  quote:1.92
+  july:1.56
+  anonymous file:1.53
+  hosting pdfs energy control:1.16
+  hosting services ectf:1.15
+  elmo july pmdoes:1.02
+  anonfiles:0.97
+  site:0.80
+  files:0.79
+
+Topic 3:
+  idea:2.19
+  complete:2.14
+  control content:2.13
+  isnt:2.12
+  partners:2.11
+  difficult:2.10
+  hearts:1.78
+  hidden:1.78
+  infrastructure:1.78
+  thing links:1.78
+
+Topic 4:
+  anonfiles:13.34
+  files:5.18
+  material:4.57
+  file types:4.52
+  send:4.44
+  held responsible:4.38
+  info anonfiles:4.37
+  terms:4.36
+  upload:3.40
+  hosted:2.97
+
+K: 5, Log-Likelihood: -3703.244, Alpha: 11.000, Beta: 1.100

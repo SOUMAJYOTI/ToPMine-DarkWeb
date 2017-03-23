@@ -1,0 +1,61 @@
+Topic 0:
+  general:3.13
+  comrades:3.01
+  strong:1.51
+  traffic:1.18
+  remain:1.17
+  high:1.15
+  free:1.14
+  attack:0.82
+  normal:0.82
+  week:0.82
+
+Topic 1:
+  general:3.00
+  comrades:1.94
+  strong:1.10
+  rosakovo:0.94
+  vendor:0.90
+  crypto:0.87
+  high:0.82
+  free:0.81
+  fe:0.80
+  remain:0.80
+
+Topic 2:
+  general:2.10
+  vendor:1.59
+  crypto:1.22
+  rosakovo:1.13
+  market:1.05
+  buy:0.53
+  crypts:0.52
+  controls:0.52
+  fe:0.50
+  comrades:0.49
+
+Topic 3:
+  general:2.76
+  comrades:1.34
+  vendor:1.09
+  rosakovo:1.00
+  crypto:0.96
+  fe:0.82
+  strong:0.81
+  market:0.73
+  free:0.60
+  traffic:0.59
+
+Topic 4:
+  vendor:1.76
+  market:1.41
+  thing:1.20
+  comrade:1.20
+  check:1.20
+  bitcoin:1.19
+  crypto:1.18
+  logged:1.18
+  rosakovo:1.13
+  general:1.00
+
+K: 5, Log-Likelihood: -715.939, Alpha: 11.000, Beta: 1.100

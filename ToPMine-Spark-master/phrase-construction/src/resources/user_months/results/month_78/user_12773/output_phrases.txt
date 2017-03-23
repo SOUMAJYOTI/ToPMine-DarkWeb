@@ -1,0 +1,61 @@
+Topic 0:
+  march:0.31
+  loads:0.20
+  market:0.20
+  alpha:0.20
+  fine:0.20
+  seamless:0.18
+  quote:0.18
+  moment:0.18
+  hours:0.18
+  day:0.18
+
+Topic 1:
+  march:0.31
+  fine:0.20
+  loads:0.20
+  market:0.20
+  alpha:0.20
+  hours:0.18
+  amand:0.18
+  day:0.18
+  redeye:0.18
+  quote:0.18
+
+Topic 2:
+  march:0.31
+  fine:0.20
+  alpha:0.20
+  loads:0.20
+  market:0.20
+  coin:0.18
+  invest:0.18
+  btc:0.18
+  org:0.18
+  double:0.18
+
+Topic 3:
+  march:0.31
+  market:0.20
+  fine:0.20
+  alpha:0.20
+  loads:0.20
+  day:0.18
+  hours:0.18
+  quote:0.18
+  redeye:0.18
+  amand:0.18
+
+Topic 4:
+  march:0.31
+  alpha:0.20
+  loads:0.20
+  fine:0.20
+  market:0.20
+  moment:0.18
+  work:0.18
+  seamless:0.18
+  syscoin:0.18
+  double:0.18
+
+K: 5, Log-Likelihood: -57.785, Alpha: 11.000, Beta: 1.100

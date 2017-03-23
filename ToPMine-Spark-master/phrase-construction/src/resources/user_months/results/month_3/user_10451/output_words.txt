@@ -1,0 +1,61 @@
+Topic 0:
+  min:0.40
+  watch:0.40
+  youtube:0.40
+  bitcoin:0.40
+  playing:0.20
+  laundering:0.20
+  making:0.20
+  exchange:0.20
+  qhuzoteqfun:0.20
+  money:0.20
+
+Topic 1:
+  watch:0.40
+  min:0.40
+  youtube:0.40
+  bitcoin:0.40
+  fbowaqms:0.20
+  drug:0.20
+  playing:0.20
+  bitin:0.20
+  rt:0.20
+  qhuzoteqfun:0.20
+
+Topic 2:
+  bitcoin:0.41
+  youtube:0.40
+  min:0.40
+  watch:0.40
+  brain:0.20
+  qyyour:0.20
+  bitin:0.20
+  rt:0.20
+  wallets:0.20
+  money:0.20
+
+Topic 3:
+  bitcoin:0.40
+  youtube:0.40
+  watch:0.40
+  min:0.40
+  network:0.20
+  drug:0.20
+  fbowaqms:0.20
+  laundering:0.20
+  ceo:0.20
+  rt:0.20
+
+Topic 4:
+  watch:0.40
+  min:0.40
+  bitcoin:0.40
+  youtube:0.40
+  security:0.20
+  charges:0.20
+  exchange:0.20
+  arrested:0.20
+  wallets:0.20
+  ceo:0.20
+
+K: 5, Log-Likelihood: -83.534, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  drugs:4.53
+  vendors:3.05
+  days:2.87
+  link:2.85
+  vendor:2.48
+  action:2.33
+  listings:2.32
+  including:2.17
+  abraxas:2.13
+  services:2.09
+
+Topic 1:
+  round markets open tight:7.12
+  market happy year find:7.09
+  agora annoying bugs vendors:7.07
+  fear feds original markets:7.02
+  exit scan coming hole:7.02
+  decent coder onion shop:7.01
+  buyers pretty quick facets:7.00
+  russian good luck closing:6.98
+  thought exit scam:6.94
+  displays aud accepts dash:6.22
+
+Topic 2:
+  market love interface:4.78
+  trust told idea wallets:4.77
+  tact clues lend scam:4.66
+  quote dimitri coolbreeze november:4.39
+  abraxas:3.59
+  admins fast efficient time:3.09
+  exit scam:3.09
+  multisig set:3.04
+  expect drop customer service:2.99
+  admins:2.98
+
+Topic 3:
+  quote:7.92
+  vendor fee moment waive:7.83
+  established vendors btc:6.60
+  llama socks october:6.60
+  established vendors:6.26
+  swam judging rampant scamming:4.52
+  october amquote:4.32
+  vendorsyeah:4.32
+  vendor fee:4.32
+  messaged:4.32
+
+Topic 4:
+  fee:12.06
+  pgp:11.24
+  services:11.07
+  drugs:8.62
+  digital goods:7.47
+  category:7.42
+  orders:7.39
+  abraxas marketplace:7.38
+  amount:7.37
+  vendor buyer:7.19
+
+K: 5, Log-Likelihood: -10116.393, Alpha: 11.000, Beta: 1.100

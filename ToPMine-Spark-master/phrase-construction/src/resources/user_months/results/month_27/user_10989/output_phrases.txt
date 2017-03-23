@@ -1,0 +1,61 @@
+Topic 0:
+  withdrawals:1.58
+  moved:1.42
+  reckon:1.42
+  coin:1.41
+  slow:1.41
+  yeah:1.41
+  days:1.41
+  add:1.33
+  released:1.31
+  scam:1.31
+
+Topic 1:
+  agra wallet:2.62
+  november:2.09
+  quote:2.08
+  scream:1.55
+  funds:1.54
+  banner:1.54
+  night:1.53
+  worried deposits:1.52
+  rent:1.52
+  blockchain:1.51
+
+Topic 2:
+  agra wallet:4.39
+  agora:2.27
+  deposited:1.74
+  unreliable:1.74
+  populated:1.74
+  cool:1.74
+  bad:1.74
+  denizens:1.74
+  confirm:1.74
+  hit:1.74
+
+Topic 3:
+  hope:2.12
+  issue:1.71
+  hoping pretty:1.65
+  payments:1.65
+  niaive:1.65
+  dont:1.65
+  efforts:1.65
+  hopelessly:1.65
+  turn:1.65
+  confident:1.65
+
+Topic 4:
+  security:3.68
+  availability:3.68
+  couple:3.68
+  time:3.68
+  hours:1.98
+  delays:1.98
+  future:1.81
+  problem:1.81
+  solving:1.81
+  lack:1.81
+
+K: 5, Log-Likelihood: -1833.359, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.41
+  pit:0.16
+  kaikki:0.16
+  myyj:0.16
+  subua:0.08
+  het:0.08
+  sit:0.08
+  dorkia:0.08
+  lotot:0.08
+  rist:0.08
+
+Topic 1:
+  ja:0.40
+  kaikki:0.16
+  myyj:0.16
+  pit:0.16
+  vinneet:0.08
+  saharaan:0.08
+  kuin:0.08
+  pier:0.08
+  ovat:0.08
+  rottia:0.08
+
+Topic 2:
+  ja:0.41
+  kaikki:0.16
+  pit:0.16
+  myyj:0.16
+  tk:0.08
+  touhutuote:0.08
+  crown:0.08
+  het:0.08
+  kielt:0.08
+  dy:0.08
+
+Topic 3:
+  ja:0.40
+  myyj:0.16
+  pit:0.16
+  kaikki:0.16
+  ovat:0.08
+  pier:0.08
+  saharaan:0.08
+  kuin:0.08
+  vinneet:0.08
+  subunmyyj:0.08
+
+Topic 4:
+  ja:0.40
+  myyj:0.16
+  kaikki:0.16
+  pit:0.16
+  kuin:0.08
+  pier:0.08
+  ovat:0.08
+  saharaan:0.08
+  vinneet:0.08
+  touhutuote:0.08
+
+K: 5, Log-Likelihood: -92.942, Alpha: 11.000, Beta: 1.100

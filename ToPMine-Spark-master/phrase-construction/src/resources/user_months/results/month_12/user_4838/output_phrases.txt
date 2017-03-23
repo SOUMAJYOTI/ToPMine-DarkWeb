@@ -1,0 +1,61 @@
+Topic 0:
+  play:9.18
+  mb:4.08
+  file torrent:4.08
+  torrent:4.08
+  called:4.07
+  book:4.07
+  saved games:4.07
+  networks:4.07
+  collection:4.07
+  baduk:4.07
+
+Topic 1:
+  quote moreau april:5.01
+  format move history:3.63
+  orderofthephoenix april amgame moreau:3.26
+  black komi gg:2.97
+  don:2.59
+  hf:2.47
+  quote moreau april pmquote:2.47
+  quote:2.45
+  dont:2.43
+  average lifetime dark net:2.42
+
+Topic 2:
+  amquote moreau april pmquote:4.72
+  skydiamonds:4.66
+  orderofthephoenix april:4.30
+  person:3.99
+  wee:3.99
+  find:3.99
+  time lsd:3.99
+  round:3.99
+  love:3.99
+  bit:3.99
+
+Topic 3:
+  feel free:7.00
+  games:5.41
+  challenger real interest offer:5.23
+  game black considerable advantage:5.23
+  played tend stretch long:5.23
+  handicap favor start:5.23
+  prize lsd future games:5.23
+  interesting starting format play:5.23
+  game:5.14
+  excellent:4.54
+
+Topic 4:
+  pma:4.07
+  playing:4.07
+  bots:4.07
+  including:4.07
+  room:4.07
+  kgs:4.07
+  tutorials:4.07
+  strengths:4.07
+  game room:4.07
+  chat:4.07
+
+K: 5, Log-Likelihood: -2713.761, Alpha: 11.000, Beta: 1.100

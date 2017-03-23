@@ -1,0 +1,61 @@
+Topic 0:
+  blockchain:4.31
+  trouble:3.60
+  dont:2.35
+  questions:2.32
+  sending:2.31
+  site:2.31
+  bitcoinfog:1.94
+  straw:1.93
+  difficult:1.93
+  facts:1.93
+
+Topic 1:
+  ill:2.60
+  campbx:2.53
+  spreading:1.79
+  posts:1.79
+  story:1.79
+  bitcointalk:1.79
+  man:1.79
+  mind:1.78
+  time:1.75
+  convinced:1.74
+
+Topic 2:
+  swam:3.87
+  lost:3.86
+  coins:3.47
+  clean:2.65
+  proving:1.89
+  campbx trouble:1.89
+  site guess:1.89
+  transaction:1.89
+  imagine:1.89
+  fairly:1.89
+
+Topic 3:
+  service:6.32
+  company:6.32
+  registered:4.72
+  funds untraceable:4.72
+  address:4.09
+  longer:3.10
+  operated:3.10
+  bitcoins:3.10
+  point:3.10
+  georgia:3.10
+
+Topic 4:
+  bitcoin:2.91
+  warning loss:2.60
+  warning:2.56
+  bud:2.56
+  guess:2.54
+  camp:2.54
+  ship:2.53
+  thing:2.53
+  rating:2.53
+  hope:2.52
+
+K: 5, Log-Likelihood: -2435.565, Alpha: 11.000, Beta: 1.100

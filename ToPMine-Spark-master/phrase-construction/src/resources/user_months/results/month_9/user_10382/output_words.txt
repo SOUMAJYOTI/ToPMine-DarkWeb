@@ -1,0 +1,61 @@
+Topic 0:
+  buy:3.02
+  firearm:2.32
+  buying:2.18
+  gun:1.58
+  guns:1.43
+  years:1.15
+  sites:1.15
+  times:1.15
+  age:1.14
+  pieces:0.83
+
+Topic 1:
+  guns:1.77
+  buying:1.11
+  buy:0.85
+  gun:0.84
+  site:0.76
+  allowed:0.70
+  firearm:0.70
+  people:0.63
+  ship:0.62
+  pieces:0.61
+
+Topic 2:
+  gun:2.14
+  find:1.19
+  ya:1.16
+  markets:0.91
+  le:0.89
+  methods:0.89
+  decades:0.89
+  dont:0.71
+  classifieds:0.70
+  nuts:0.66
+
+Topic 3:
+  gun:2.72
+  markets:1.03
+  site:0.88
+  web:0.76
+  allowed:0.70
+  classifieds:0.68
+  dont:0.67
+  links:0.65
+  ship:0.63
+  pieces:0.60
+
+Topic 4:
+  guns:2.73
+  border:1.79
+  people:1.11
+  legal:0.88
+  buying:0.76
+  gun:0.72
+  pass:0.58
+  completely:0.58
+  rcmp:0.58
+  canadian:0.58
+
+K: 5, Log-Likelihood: -1287.323, Alpha: 11.000, Beta: 1.100

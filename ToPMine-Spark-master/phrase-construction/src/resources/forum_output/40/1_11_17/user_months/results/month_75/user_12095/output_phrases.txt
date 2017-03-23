@@ -1,0 +1,61 @@
+Topic 0:
+  cpu:0.48
+  trading:0.46
+  btc:0.46
+  profitable:0.31
+  power:0.28
+  maximum:0.24
+  dollar:0.24
+  bcn:0.24
+  altcoins:0.24
+  elegant:0.24
+
+Topic 1:
+  trading:0.70
+  btc:0.60
+  cpu:0.42
+  profitable:0.32
+  effort:0.31
+  hear:0.31
+  investigation:0.31
+  price:0.31
+  hike:0.31
+  accelerate:0.31
+
+Topic 2:
+  money:1.15
+  set:1.15
+  market:1.14
+  prove:0.46
+  speculating:0.46
+  weed:0.46
+  sucks:0.46
+  hunt:0.46
+  doubt:0.46
+  store:0.46
+
+Topic 3:
+  cpu:0.91
+  btc:0.45
+  trading:0.44
+  profitable:0.39
+  bytecoins:0.38
+  bytecoin:0.38
+  cool:0.38
+  yea:0.38
+  theory:0.38
+  idea:0.38
+
+Topic 4:
+  market:0.47
+  set:0.47
+  money:0.47
+  btc:0.41
+  trading:0.38
+  power:0.29
+  cpu:0.26
+  machine:0.25
+  wrong:0.25
+  burn:0.25
+
+K: 5, Log-Likelihood: -451.121, Alpha: 11.000, Beta: 1.100

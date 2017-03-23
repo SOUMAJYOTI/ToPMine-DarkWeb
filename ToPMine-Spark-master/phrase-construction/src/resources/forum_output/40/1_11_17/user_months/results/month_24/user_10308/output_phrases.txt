@@ -1,0 +1,61 @@
+Topic 0:
+  sr:0.52
+  risk peoples:0.51
+  people:0.51
+  promoting:0.51
+  asshole:0.50
+  monkey:0.42
+  voted:0.34
+  lol:0.32
+  yoshi:0.26
+  lives:0.26
+
+Topic 1:
+  promoting:0.51
+  risk peoples:0.51
+  sr:0.49
+  asshole:0.49
+  people:0.48
+  monkey:0.47
+  voted:0.34
+  lol:0.33
+  kind:0.25
+  voting:0.25
+
+Topic 2:
+  people:0.76
+  asshole:0.75
+  promoting:0.73
+  risk peoples:0.72
+  sr:0.35
+  market:0.32
+  game:0.32
+  humor:0.32
+  peoples:0.32
+  humorous:0.32
+
+Topic 3:
+  monkey:0.79
+  sr:0.61
+  lol:0.44
+  voted:0.38
+  asshole:0.34
+  ftw:0.34
+  ripped:0.34
+  kill:0.34
+  guess:0.34
+  hahahaha:0.34
+
+Topic 4:
+  sr:0.57
+  monkey:0.55
+  asshole:0.43
+  risk peoples:0.43
+  people:0.42
+  promoting:0.41
+  lol:0.38
+  voted:0.37
+  accounts:0.28
+  yoshills:0.28
+
+K: 5, Log-Likelihood: -268.756, Alpha: 11.000, Beta: 1.100

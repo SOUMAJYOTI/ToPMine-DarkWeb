@@ -1,0 +1,61 @@
+Topic 0:
+  people:0.99
+  thread:0.83
+  trip reports:0.63
+  things:0.41
+  ect:0.41
+  video games:0.41
+  community:0.41
+  communicate:0.41
+  fingers:0.21
+  unrealated:0.21
+
+Topic 1:
+  people:1.13
+  thread:0.90
+  trip reports:0.64
+  ect:0.43
+  community:0.42
+  things:0.42
+  communicate:0.42
+  video games:0.42
+  close:0.21
+  opinion:0.21
+
+Topic 2:
+  people:0.95
+  thread:0.75
+  trip reports:0.57
+  communicate:0.40
+  community:0.40
+  ect:0.39
+  video games:0.39
+  things:0.39
+  topic:0.22
+  stopping:0.22
+
+Topic 3:
+  people:1.05
+  thread:0.82
+  trip reports:0.64
+  communicate:0.42
+  video games:0.42
+  community:0.42
+  things:0.41
+  ect:0.41
+  ontop:0.21
+  tools:0.21
+
+Topic 4:
+  people:0.98
+  thread:0.79
+  trip reports:0.59
+  video games:0.40
+  ect:0.40
+  things:0.40
+  communicate:0.40
+  community:0.40
+  stuff:0.21
+  downright:0.21
+
+K: 5, Log-Likelihood: -383.726, Alpha: 11.000, Beta: 1.100

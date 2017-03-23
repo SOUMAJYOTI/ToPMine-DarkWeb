@@ -1,0 +1,61 @@
+Topic 0:
+  news:6.73
+  wikileaks:4.48
+  stories:4.48
+  cycle:4.48
+  move:4.48
+  large dump:4.48
+  company:4.48
+  greenwald:4.48
+  simply:4.48
+  steady:4.48
+
+Topic 1:
+  exit relays:8.98
+  address:5.36
+  access blockchain:4.72
+  onion address:4.70
+  aware:4.48
+  vpn:4.48
+  blockchain tor:3.37
+  network:2.47
+  large:2.22
+  november blockchain:2.22
+
+Topic 2:
+  potential:5.59
+  traffic:5.21
+  interesting:4.60
+  november:4.52
+  services:4.46
+  technique:4.46
+  deanonymise:4.46
+  overview:4.46
+  document:4.46
+  work:4.46
+
+Topic 3:
+  js:5.29
+  highly:2.21
+  protocol:2.21
+  negotiation:2.21
+  software:2.21
+  ike:2.21
+  keys documents:2.21
+  cross:2.21
+  vpon:2.21
+  properly:2.21
+
+Topic 4:
+  users:6.73
+  exit nodes:5.72
+  connect bitcoin:4.48
+  created:4.48
+  blocks:4.48
+  level:4.48
+  low:4.48
+  users transactions:4.48
+  control:4.48
+  attacker:4.48
+
+K: 5, Log-Likelihood: -5981.000, Alpha: 11.000, Beta: 1.100

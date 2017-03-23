@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:6.05
+  abraxas:4.01
+  fee:3.04
+  pgp:2.58
+  link:2.27
+  account:1.63
+  drugs:1.42
+  marketplace:1.12
+  products:1.11
+  listings:1.09
+
+Topic 1:
+  vendor:5.55
+  fee:3.02
+  pgp:2.91
+  abraxas:2.54
+  account:2.19
+  link:2.10
+  drugs:1.70
+  products:1.48
+  marketplace:1.48
+  cancel:1.29
+
+Topic 2:
+  link:5.31
+  vendor:4.75
+  drugs:4.00
+  abraxas:3.85
+  goods:3.26
+  pgp:3.08
+  referred:3.07
+  marketplace:2.44
+  products:2.33
+  account:2.17
+
+Topic 3:
+  established:9.81
+  vendors:8.23
+  waive:7.81
+  fee:6.82
+  vendor:6.55
+  october:5.87
+  btc:5.87
+  moment:5.78
+  llama:3.86
+  socks:3.86
+
+Topic 4:
+  vendor:5.10
+  link:4.30
+  account:3.98
+  abraxas:3.89
+  products:3.04
+  marketplace:2.93
+  drugs:2.85
+  referred:2.84
+  pgp:2.74
+  goods:2.53
+
+K: 5, Log-Likelihood: -3884.737, Alpha: 11.000, Beta: 1.100

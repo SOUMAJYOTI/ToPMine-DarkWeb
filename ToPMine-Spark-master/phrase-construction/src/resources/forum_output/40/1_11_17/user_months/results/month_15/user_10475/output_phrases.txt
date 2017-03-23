@@ -1,0 +1,61 @@
+Topic 0:
+  times:2.72
+  feedback:2.21
+  bug:1.28
+  feedback reason:1.26
+  customers locked:1.26
+  july pmquote:1.26
+  message:1.26
+  ago:1.26
+  jimlahey:1.26
+  receive:1.26
+
+Topic 1:
+  large:1.38
+  reason:1.38
+  tor:1.38
+  ag:1.38
+  backopy:1.38
+  gasp:1.38
+  marketscan:1.38
+  suited:1.38
+  remember:1.38
+  forum:0.81
+
+Topic 2:
+  times:2.55
+  feedback:2.55
+  times dont find refresh:1.19
+  difficult site afraid log:1.17
+  majority time hold support:1.13
+  pmquote feesh july pmthe:1.12
+  traffic overflow:1.09
+  customers locked extra:1.08
+  faster:1.07
+  completely:1.07
+
+Topic 3:
+  evo:3.21
+  pretty:3.20
+  scale:1.53
+  comfortable:1.53
+  hand:1.53
+  feel:1.53
+  effing:1.53
+  good:1.53
+  shifted:1.53
+  ass:1.53
+
+Topic 4:
+  rule agora log agora:0.94
+  quote:0.82
+  feesh july pmthe:0.77
+  couple hours:0.77
+  times dont:0.77
+  worry:0.77
+  customers locked extra traffic:0.75
+  overflow:0.75
+  feesh july:0.75
+  site hours:0.75
+
+K: 5, Log-Likelihood: -870.217, Alpha: 11.000, Beta: 1.100

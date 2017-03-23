@@ -1,0 +1,61 @@
+Topic 0:
+  wallet:0.40
+  phone:0.40
+  camera:0.40
+  atm:0.40
+  require:0.40
+  vendor:0.40
+  btc:0.40
+  complete:0.40
+  send:0.40
+  cell:0.40
+
+Topic 1:
+  send:0.41
+  cell:0.40
+  btc:0.40
+  require:0.40
+  atm:0.40
+  wallet:0.40
+  vendor:0.40
+  phone:0.40
+  camera:0.40
+  complete:0.40
+
+Topic 2:
+  btc:0.41
+  wallet:0.40
+  send:0.40
+  complete:0.40
+  cell:0.40
+  phone:0.40
+  vendor:0.40
+  require:0.40
+  atm:0.40
+  camera:0.40
+
+Topic 3:
+  camera:0.40
+  vendor:0.40
+  complete:0.40
+  cell:0.40
+  phone:0.40
+  atm:0.40
+  btc:0.40
+  require:0.40
+  wallet:0.40
+  send:0.40
+
+Topic 4:
+  complete:0.40
+  require:0.40
+  atm:0.40
+  camera:0.40
+  vendor:0.40
+  phone:0.40
+  send:0.40
+  cell:0.40
+  wallet:0.40
+  btc:0.40
+
+K: 5, Log-Likelihood: -237.119, Alpha: 11.000, Beta: 1.100

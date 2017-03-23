@@ -1,0 +1,61 @@
+Topic 0:
+  february:1.81
+  shponglestarship:0.93
+  invite:0.89
+  pmquote:0.70
+  quote:0.69
+  sssssspmed:0.69
+  pmanyone:0.68
+  guys:0.62
+  fire:0.60
+  great:0.55
+
+Topic 1:
+  key:1.38
+  create:0.86
+  public:0.86
+  multisig:0.85
+  keypair:0.85
+  february:0.83
+  invite:0.60
+  shponglestarship:0.55
+  find:0.51
+  quote:0.45
+
+Topic 2:
+  february:1.80
+  shponglestarship:1.00
+  invite:0.97
+  pmquote:0.76
+  pmanyone:0.74
+  quote:0.73
+  sssssspmed:0.72
+  received:0.49
+  pm:0.49
+  havent:0.49
+
+Topic 3:
+  key:1.19
+  february:1.03
+  keypair:0.77
+  multisig:0.77
+  public:0.76
+  create:0.76
+  invite:0.66
+  shponglestarship:0.65
+  pmquote:0.52
+  quote:0.51
+
+Topic 4:
+  february:1.53
+  invite:0.87
+  shponglestarship:0.87
+  fire:0.67
+  guys:0.65
+  sssssspmed:0.64
+  pmanyone:0.63
+  quote:0.62
+  pmquote:0.61
+  missed:0.58
+
+K: 5, Log-Likelihood: -628.134, Alpha: 11.000, Beta: 1.100

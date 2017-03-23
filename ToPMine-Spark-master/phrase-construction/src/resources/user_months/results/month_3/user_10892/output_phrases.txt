@@ -1,0 +1,61 @@
+Topic 0:
+  quote:17.96
+  february:12.80
+  llama socks:11.80
+  january:10.57
+  hub:9.87
+  albert:9.23
+  explain referred program:8.81
+  reasonable agora spend time:8.81
+  dont mind:7.33
+  bazaar accounts:7.33
+
+Topic 1:
+  vendor:19.73
+  users:18.35
+  step:16.58
+  buyer:15.81
+  multisignature transactions:14.70
+  leave feedback:14.70
+  order:14.49
+  escrow:13.25
+  market:12.34
+  sign broadcast:11.02
+
+Topic 2:
+  bonus:17.13
+  client:12.11
+  transaction:11.89
+  referred link:11.61
+  vendor:11.12
+  accounts:11.02
+  multisig address:9.80
+  order:8.44
+  address:7.73
+  pretty:7.72
+
+Topic 3:
+  hidden service:18.38
+  attacker:14.70
+  tor:11.82
+  relay identity key:11.02
+  relays bridges:11.02
+  leak:11.02
+  opens package:11.02
+  long term:11.02
+  buyers pay:11.01
+  april:9.64
+
+Topic 4:
+  transactions ensure:13.07
+  users:11.81
+  implemented:10.91
+  tor bazaar:9.45
+  verify:9.35
+  offline online:8.94
+  online:8.94
+  post:8.39
+  based:8.26
+  multi sir:8.22
+
+K: 5, Log-Likelihood: -55398.676, Alpha: 11.000, Beta: 1.100

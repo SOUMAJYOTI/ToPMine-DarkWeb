@@ -1,0 +1,61 @@
+Topic 0:
+  movement:7.99
+  berkeley:7.70
+  lsd:7.27
+  society:5.23
+  anarchism:4.98
+  radical:4.42
+  groups:4.42
+  anarchist:4.31
+  time:3.96
+  futurists:3.96
+
+Topic 1:
+  people:14.47
+  education:7.13
+  find:5.81
+  live:5.48
+  work:5.38
+  mentality:4.29
+  man:4.15
+  type:3.94
+  power:3.94
+  libertarians:3.94
+
+Topic 2:
+  live:3.89
+  find:3.84
+  don:3.61
+  dont:3.29
+  view:2.55
+  ideal:2.50
+  acid:2.05
+  book:2.01
+  ve:1.91
+  panopticono:1.90
+
+Topic 3:
+  people:6.87
+  schools:6.76
+  yeah:5.76
+  minds:5.70
+  great:5.70
+  job:5.30
+  interesting:5.28
+  good:4.80
+  slave:3.95
+  money:3.58
+
+Topic 4:
+  theories:17.96
+  general:9.12
+  anarchist:8.96
+  people:8.88
+  psychedelic:8.40
+  don:7.35
+  dont:7.19
+  anarchism:6.75
+  movement:6.54
+  changing:5.96
+
+K: 5, Log-Likelihood: -8770.208, Alpha: 11.000, Beta: 1.100

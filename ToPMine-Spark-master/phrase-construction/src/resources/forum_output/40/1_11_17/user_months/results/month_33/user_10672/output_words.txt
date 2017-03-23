@@ -1,0 +1,61 @@
+Topic 0:
+  camera:0.62
+  running:0.46
+  bad:0.45
+  happen:0.45
+  assume:0.45
+  things:0.45
+  noticed:0.45
+  malware:0.45
+  machine:0.45
+  happened:0.40
+
+Topic 1:
+  camera:0.59
+  assume:0.44
+  malware:0.44
+  noticed:0.44
+  things:0.44
+  machine:0.44
+  bad:0.44
+  happen:0.44
+  running:0.43
+  happened:0.40
+
+Topic 2:
+  camera:0.58
+  bad:0.41
+  happen:0.41
+  malware:0.41
+  happened:0.41
+  machine:0.41
+  noticed:0.41
+  things:0.41
+  running:0.41
+  assume:0.41
+
+Topic 3:
+  camera:0.59
+  network:0.54
+  light:0.43
+  tor:0.43
+  happened:0.39
+  noticed:0.33
+  machine:0.33
+  assume:0.33
+  malware:0.33
+  bad:0.33
+
+Topic 4:
+  camera:0.62
+  network:0.45
+  light:0.42
+  tor:0.41
+  happened:0.39
+  running:0.37
+  happen:0.37
+  things:0.37
+  assume:0.37
+  machine:0.37
+
+K: 5, Log-Likelihood: -363.306, Alpha: 11.000, Beta: 1.100

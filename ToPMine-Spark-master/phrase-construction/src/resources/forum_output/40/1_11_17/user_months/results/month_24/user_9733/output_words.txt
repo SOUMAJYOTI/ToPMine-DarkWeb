@@ -1,0 +1,61 @@
+Topic 0:
+  mixers:0.84
+  long:0.82
+  post:0.60
+  services:0.59
+  money:0.41
+  timeso:0.40
+  good:0.40
+  day:0.40
+  advise:0.40
+  person:0.40
+
+Topic 1:
+  long:0.80
+  mixers:0.73
+  services:0.61
+  post:0.60
+  wary:0.41
+  good:0.40
+  day:0.40
+  laundering:0.40
+  coin:0.40
+  person:0.40
+
+Topic 2:
+  mixers:0.80
+  long:0.80
+  post:0.61
+  services:0.60
+  wary:0.40
+  money:0.40
+  laundering:0.40
+  coin:0.40
+  trusted:0.40
+  advise:0.40
+
+Topic 3:
+  mixers:0.81
+  long:0.79
+  post:0.60
+  services:0.60
+  coin:0.40
+  trusted:0.40
+  wary:0.40
+  timeso:0.40
+  laundering:0.40
+  money:0.40
+
+Topic 4:
+  mixers:0.82
+  long:0.79
+  services:0.60
+  post:0.59
+  advise:0.40
+  person:0.40
+  trusted:0.40
+  wary:0.40
+  day:0.40
+  laundering:0.40
+
+K: 5, Log-Likelihood: -131.180, Alpha: 11.000, Beta: 1.100

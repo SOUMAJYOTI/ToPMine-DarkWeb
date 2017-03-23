@@ -1,0 +1,61 @@
+Topic 0:
+  package:7.43
+  address:3.99
+  drugs:2.94
+  check:2.61
+  attached:1.83
+  mac:1.76
+  expecting:1.76
+  location:1.73
+  wifi:1.68
+  scenario:0.96
+
+Topic 1:
+  track:2.89
+  tor:2.84
+  exit:1.74
+  tails:1.38
+  packages:1.12
+  tracking:0.86
+  traffic:0.78
+  hosts:0.78
+  arrival:0.78
+  catches:0.78
+
+Topic 2:
+  encrypted:5.10
+  sites:2.60
+  slap:2.59
+  forehead:2.59
+  assumption:2.59
+  guess:2.59
+  ssl:2.59
+  single:1.78
+  browsers:1.78
+  authority:1.78
+
+Topic 3:
+  package:3.98
+  address:2.41
+  check:2.03
+  wifi:1.90
+  mac:1.51
+  drugs:1.47
+  browser:1.22
+  tails:1.18
+  location:1.09
+  expecting:1.02
+
+Topic 4:
+  package:3.36
+  address:3.15
+  check:2.09
+  wifi:1.99
+  mac:1.49
+  drugs:1.44
+  browser:1.13
+  tails:1.10
+  expecting:1.08
+  attached:1.05
+
+K: 5, Log-Likelihood: -1300.458, Alpha: 11.000, Beta: 1.100

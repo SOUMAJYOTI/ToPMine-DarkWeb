@@ -1,0 +1,61 @@
+Topic 0:
+  posting:0.48
+  uri:0.46
+  register:0.28
+  telling:0.27
+  type:0.27
+  capcha expired:0.27
+  matter:0.27
+  fast:0.27
+  steal:0.23
+  credentials:0.23
+
+Topic 1:
+  uri:0.43
+  posting:0.43
+  capcha expired:0.28
+  fast:0.28
+  matter:0.28
+  type:0.28
+  telling:0.28
+  register:0.28
+  guru:0.22
+  april:0.22
+
+Topic 2:
+  uri:0.48
+  posting:0.47
+  register:0.28
+  telling:0.26
+  type:0.26
+  matter:0.26
+  fast:0.26
+  capcha expired:0.26
+  guy:0.23
+  state:0.23
+
+Topic 3:
+  uri:0.42
+  posting:0.42
+  fast:0.29
+  telling:0.28
+  type:0.28
+  matter:0.28
+  capcha expired:0.28
+  register:0.28
+  guru:0.23
+  capcha:0.23
+
+Topic 4:
+  uri:0.41
+  posting:0.40
+  matter:0.29
+  telling:0.29
+  capcha expired:0.29
+  type:0.29
+  fast:0.29
+  register:0.28
+  quote:0.23
+  amkeeps:0.23
+
+K: 5, Log-Likelihood: -165.657, Alpha: 11.000, Beta: 1.100

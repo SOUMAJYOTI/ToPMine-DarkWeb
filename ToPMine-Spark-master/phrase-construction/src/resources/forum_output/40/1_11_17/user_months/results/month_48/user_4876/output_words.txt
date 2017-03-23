@@ -1,0 +1,61 @@
+Topic 0:
+  agora:3.58
+  register:3.19
+  links:1.43
+  link:1.34
+  full:1.31
+  time:1.18
+  shit:1.07
+  interesting:1.03
+  deposit:1.01
+  nice:0.99
+
+Topic 1:
+  agora:2.30
+  interesting:2.22
+  links:2.07
+  nice:1.84
+  deposit:1.37
+  link:1.31
+  stable:1.27
+  pretty:1.24
+  yeah:1.19
+  register:1.19
+
+Topic 2:
+  agora:8.78
+  recommend:5.10
+  deposit:2.46
+  agra:2.25
+  site:2.24
+  till:2.23
+  peoples:2.23
+  figured:2.22
+  reply:2.19
+  lot:2.19
+
+Topic 3:
+  things:4.73
+  deepweb:3.54
+  stopped:3.52
+  fucked:2.45
+  terrific:1.60
+  selfie:1.60
+  ago:1.60
+  destroyed:1.60
+  anus:1.60
+  btw:1.60
+
+Topic 4:
+  register:2.69
+  agora:1.99
+  links:1.90
+  nice:1.64
+  interesting:1.49
+  full:1.29
+  link:1.28
+  time:1.16
+  pretty:1.06
+  shit:0.99
+
+K: 5, Log-Likelihood: -1410.741, Alpha: 11.000, Beta: 1.100

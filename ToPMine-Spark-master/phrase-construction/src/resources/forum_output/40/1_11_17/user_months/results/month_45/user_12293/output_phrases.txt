@@ -1,0 +1,61 @@
+Topic 0:
+  sekak ytt:3.82
+  ostoksille:2.52
+  jengii:2.52
+  mars:2.52
+  vahvaa:2.52
+  negaa:2.52
+  vaatii:2.52
+  alkaa:2.52
+  purkua:2.52
+  isommat:2.52
+
+Topic 1:
+  hetykset:3.79
+  tullut:3.37
+  suomesta:2.45
+  laatikkoon:2.45
+  hyv etel:2.45
+  kauanko:2.45
+  kokeillut:2.45
+  sit kolaa:2.45
+  kest:2.45
+  olikos:2.45
+
+Topic 2:
+  nimet:3.37
+  jos:3.37
+  ynyt:1.67
+  sadoittain:1.67
+  kusetusluukut:1.67
+  vaikka myyj:1.67
+  tahtoo:1.67
+  joskus:1.67
+  tehd:1.67
+  hetyksi:1.67
+
+Topic 3:
+  ainakaa:1.61
+  tavaraan:1.61
+  pettynyt:1.61
+  sitten:1.61
+  vahvuuden:1.61
+  testerit:1.61
+  ollu:1.61
+  hd:1.61
+  rehellisesti:1.61
+  perjantaina:1.61
+
+Topic 4:
+  kun:4.33
+  kannata:3.36
+  jossain:3.36
+  ym:2.45
+  asti:2.45
+  jahka:2.45
+  siis:2.45
+  negatiiviset:2.45
+  kahvittelemassa:2.45
+  tulkita niin:2.45
+
+K: 5, Log-Likelihood: -3457.212, Alpha: 11.000, Beta: 1.100

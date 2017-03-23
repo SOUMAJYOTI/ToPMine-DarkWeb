@@ -1,0 +1,61 @@
+Topic 0:
+  handy:3.57
+  devices:1.56
+  pretty:1.56
+  browsing:1.56
+  machine:1.56
+  surprised:1.55
+  apparatus:1.55
+  cost:1.55
+  key dmt:1.55
+  extra:1.55
+
+Topic 1:
+  guys:2.69
+  discuss:1.16
+  week:1.16
+  book read:1.15
+  agree:1.15
+  pace:1.15
+  read:1.14
+  monthly:1.14
+  thread:1.14
+  tmg:1.14
+
+Topic 2:
+  great idea:0.71
+  joining:0.70
+  guys:0.66
+  book club:0.59
+  great:0.47
+  herpiusderpius:0.46
+  feedback:0.46
+  quote:0.46
+  march:0.46
+  pmi:0.46
+
+Topic 3:
+  reading:3.62
+  platform:1.58
+  rate:1.58
+  cash:1.58
+  snowden:1.58
+  periods:1.58
+  metadata:1.58
+  book:1.58
+  concern:1.58
+  books:1.57
+
+Topic 4:
+  guys:0.86
+  joining:0.67
+  great idea:0.58
+  book club:0.56
+  tmg:0.50
+  plan:0.50
+  decide:0.50
+  vote:0.50
+  thread:0.50
+  monthly:0.50
+
+K: 5, Log-Likelihood: -811.632, Alpha: 11.000, Beta: 1.100

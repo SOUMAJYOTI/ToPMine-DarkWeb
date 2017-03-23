@@ -1,0 +1,61 @@
+Topic 0:
+  rm:0.39
+  siihen:0.39
+  miten:0.34
+  mutta:0.31
+  linkki:0.21
+  kiinnostas:0.19
+  sin:0.19
+  jos:0.19
+  ehtii:0.19
+  en:0.19
+
+Topic 1:
+  miten:0.40
+  siihen:0.36
+  rm:0.36
+  mutta:0.30
+  linkki:0.20
+  mulla:0.19
+  kukaan:0.19
+  timid:0.19
+  keen:0.19
+  kunnon:0.19
+
+Topic 2:
+  miten:0.36
+  siihen:0.36
+  rm:0.36
+  mutta:0.31
+  linkki:0.20
+  asiakaspalvelusta:0.19
+  oon:0.19
+  jonkunlaisen:0.19
+  ohjeen:0.19
+  googlailla:0.19
+
+Topic 3:
+  miten:0.39
+  rm:0.33
+  siihen:0.33
+  mutta:0.31
+  linkki:0.20
+  ohjeen:0.19
+  eli:0.19
+  itekki:0.19
+  ysin:0.19
+  vihdoin:0.19
+
+Topic 4:
+  rm:0.39
+  siihen:0.39
+  miten:0.35
+  mutta:0.31
+  linkki:0.21
+  march:0.19
+  sitte:0.19
+  quote:0.19
+  jeesus:0.19
+  eik:0.19
+
+K: 5, Log-Likelihood: -224.158, Alpha: 11.000, Beta: 1.100

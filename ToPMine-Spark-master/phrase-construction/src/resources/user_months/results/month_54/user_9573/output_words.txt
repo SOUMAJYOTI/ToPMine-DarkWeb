@@ -1,0 +1,61 @@
+Topic 0:
+  good:1.17
+  wallet:0.98
+  info:0.89
+  deposits:0.68
+  btc:0.66
+  withdraws:0.62
+  pretty:0.48
+  vulnerable:0.48
+  standard:0.47
+  blockchain:0.47
+
+Topic 1:
+  good:1.73
+  wallet:1.45
+  info:0.78
+  safety:0.63
+  idea:0.63
+  electrum:0.63
+  doesn:0.62
+  highly:0.62
+  install:0.62
+  download:0.62
+
+Topic 2:
+  btc:1.03
+  deposits:0.68
+  withdraws:0.67
+  good:0.66
+  info:0.66
+  middle:0.59
+  asia:0.58
+  researching:0.58
+  east:0.58
+  america:0.58
+
+Topic 3:
+  withdraws:1.48
+  deposits:1.29
+  info:0.91
+  btc:0.91
+  good:0.72
+  cost:0.58
+  low:0.58
+  recommendations:0.58
+  store:0.58
+  narrow:0.58
+
+Topic 4:
+  deposits:0.96
+  btc:0.89
+  withdraws:0.86
+  info:0.76
+  good:0.71
+  wallet:0.56
+  care:0.46
+  low:0.45
+  happen:0.45
+  narrow:0.45
+
+K: 5, Log-Likelihood: -514.652, Alpha: 11.000, Beta: 1.100

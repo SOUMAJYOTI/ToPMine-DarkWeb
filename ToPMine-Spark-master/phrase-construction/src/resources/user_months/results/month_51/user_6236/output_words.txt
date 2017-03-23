@@ -1,0 +1,61 @@
+Topic 0:
+  tor:0.40
+  track:0.40
+  starbucks:0.20
+  check:0.20
+  wifi:0.20
+  free:0.20
+  pack:0.20
+  cheers:0.20
+  st:0.20
+  tails:0.20
+
+Topic 1:
+  track:0.40
+  tor:0.40
+  cheers:0.20
+  wifi:0.20
+  st:0.20
+  check:0.20
+  free:0.20
+  pack:0.20
+  starbucks:0.20
+  globe:0.20
+
+Topic 2:
+  tor:0.40
+  track:0.40
+  globe:0.20
+  browser:0.20
+  thx:0.20
+  javascript:0.20
+  system:0.20
+  ad:0.20
+  wondering:0.20
+  tracking:0.20
+
+Topic 3:
+  track:0.40
+  tor:0.40
+  st:0.20
+  pack:0.20
+  check:0.20
+  starbucks:0.20
+  free:0.20
+  wifi:0.20
+  cheers:0.20
+  system:0.20
+
+Topic 4:
+  tor:0.40
+  track:0.40
+  package:0.20
+  turned:0.20
+  tails:0.20
+  tracking:0.20
+  browser:0.20
+  thx:0.20
+  scripts:0.20
+  javascript:0.20
+
+K: 5, Log-Likelihood: -69.397, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  year:1.32
+  money:1.22
+  sachs:1.21
+  months:1.08
+  credit card:1.02
+  welch:0.99
+  john harrison:0.91
+  bunce:0.89
+  identity theft:0.89
+  work:0.87
+
+Topic 1:
+  menthol january pmquote:3.00
+  question:2.29
+  er dont:2.13
+  penguin forum youve isn:2.13
+  jokes ways idk club:2.13
+  january pmquote:2.00
+  damn:2.00
+  tang:2.00
+  ron swanson january pmno:1.95
+  quote:1.95
+
+Topic 2:
+  identity theft:4.23
+  bunce:4.22
+  welch:4.03
+  months:3.91
+  sachs:3.66
+  money:3.54
+  year:3.45
+  blood:2.96
+  wachovia:2.94
+  john:2.93
+
+Topic 3:
+  rules:1.33
+  beginer:1.23
+  victimless:0.88
+  doubt:0.88
+  dead:0.86
+  stickies:0.68
+  sticky:0.68
+  birth certificate:0.68
+  mocking:0.68
+  thieves:0.68
+
+Topic 4:
+  beginer:2.18
+  rules:2.02
+  doubt:1.21
+  dead:1.19
+  victimless:1.17
+  heat:0.89
+  rules fraud:0.88
+  dmv:0.88
+  impossible:0.88
+  needless:0.88
+
+K: 5, Log-Likelihood: -5918.833, Alpha: 11.000, Beta: 1.100

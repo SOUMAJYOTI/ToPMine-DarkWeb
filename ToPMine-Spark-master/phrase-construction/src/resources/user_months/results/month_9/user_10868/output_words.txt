@@ -1,0 +1,61 @@
+Topic 0:
+  link:0.84
+  messages:0.63
+  forums:0.47
+  fine:0.46
+  talking:0.46
+  logged:0.44
+  error:0.26
+  fee:0.26
+  commision:0.26
+  captcha:0.26
+
+Topic 1:
+  link:1.08
+  messages:0.82
+  fine:0.55
+  logged:0.55
+  talking:0.39
+  forums:0.34
+  purchases:0.30
+  trick:0.30
+  linkare:0.30
+  agora:0.30
+
+Topic 2:
+  messages:1.08
+  link:0.72
+  logged:0.64
+  fine:0.57
+  forums:0.35
+  talking:0.33
+  customer:0.30
+  support:0.30
+  market:0.30
+  loving:0.30
+
+Topic 3:
+  ip:6.86
+  real:2.99
+  local:2.94
+  hub:2.10
+  address:1.25
+  computer:1.25
+  torbrowser:1.25
+  network:1.24
+  posts:1.23
+  forums:1.00
+
+Topic 4:
+  forums:0.83
+  ip:0.65
+  local:0.59
+  real:0.54
+  talking:0.46
+  hub:0.46
+  messages:0.39
+  posts:0.37
+  network:0.36
+  torbrowser:0.35
+
+K: 5, Log-Likelihood: -405.305, Alpha: 11.000, Beta: 1.100

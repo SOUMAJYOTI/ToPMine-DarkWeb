@@ -1,0 +1,61 @@
+Topic 0:
+  agora:0.61
+  message:0.61
+  file:0.41
+  error:0.37
+  displayed:0.37
+  download:0.37
+  dont:0.37
+  greets:0.20
+  obvious:0.20
+  long:0.20
+
+Topic 1:
+  message:0.55
+  agora:0.55
+  error:0.47
+  file:0.41
+  download:0.30
+  dont:0.30
+  displayed:0.30
+  strange:0.23
+  normal:0.23
+  greets:0.23
+
+Topic 2:
+  agora:0.72
+  message:0.69
+  displayed:0.64
+  download:0.63
+  dont:0.63
+  file:0.38
+  today:0.27
+  phone:0.27
+  browser:0.27
+  decline:0.27
+
+Topic 3:
+  message:0.68
+  agora:0.66
+  dont:0.48
+  download:0.47
+  displayed:0.46
+  file:0.40
+  error:0.29
+  ideas:0.23
+  tor:0.23
+  display:0.23
+
+Topic 4:
+  error:0.65
+  message:0.47
+  agora:0.46
+  file:0.40
+  meassage:0.27
+  stay:0.27
+  access:0.27
+  find:0.27
+  mp:0.27
+  knock:0.27
+
+K: 5, Log-Likelihood: -221.490, Alpha: 11.000, Beta: 1.100

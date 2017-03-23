@@ -1,0 +1,61 @@
+Topic 0:
+  coins:1.71
+  lost:1.44
+  silk:1.14
+  road:1.12
+  modernlove:0.90
+  blast:0.86
+  people:0.84
+  opinion:0.82
+  safe:0.82
+  stay:0.77
+
+Topic 1:
+  coins:1.26
+  safe:1.08
+  road:0.98
+  silk:0.95
+  scam:0.93
+  modernlove:0.79
+  lost:0.76
+  big:0.72
+  time:0.70
+  secure:0.70
+
+Topic 2:
+  coins:1.78
+  lost:1.16
+  silk:1.10
+  road:1.01
+  safe:0.87
+  modernlove:0.77
+  stay:0.71
+  scam:0.71
+  opinion:0.68
+  sr:0.67
+
+Topic 3:
+  sr:1.24
+  safe:1.22
+  coins:1.10
+  escrow:0.89
+  scam:0.88
+  road:0.86
+  silk:0.83
+  lost:0.72
+  modernlove:0.69
+  secure:0.64
+
+Topic 4:
+  coins:1.14
+  road:1.04
+  safe:1.01
+  silk:0.98
+  lost:0.92
+  modernlove:0.84
+  scam:0.81
+  sr:0.77
+  big:0.64
+  time:0.64
+
+K: 5, Log-Likelihood: -658.396, Alpha: 11.000, Beta: 1.100

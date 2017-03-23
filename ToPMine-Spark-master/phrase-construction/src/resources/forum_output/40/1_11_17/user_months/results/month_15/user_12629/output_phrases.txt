@@ -1,0 +1,61 @@
+Topic 0:
+  tilattu:1.75
+  silt:1.23
+  sama:1.23
+  ja:1.23
+  ono:1.23
+  kyseess:1.23
+  juttu:1.23
+  tanssittaja:1.23
+  mulla:1.23
+  riitauttamiseen:1.22
+
+Topic 1:
+  ei:1.63
+  tai:1.63
+  oo:1.49
+  paljon:1.35
+  sit:1.30
+  ll:1.29
+  sen:1.28
+  ees:1.21
+  en:1.16
+  myyj:1.02
+
+Topic 2:
+  tai:2.20
+  ees:1.72
+  en:1.72
+  sen:1.66
+  ll:1.64
+  sit:1.63
+  paljon:1.58
+  ei:1.49
+  oo:1.44
+  myyj:0.96
+
+Topic 3:
+  sis:1.54
+  eli pit:1.42
+  sitte:1.42
+  luke:1.42
+  edes:1.42
+  isk:1.42
+  sinulle:1.42
+  mun:1.42
+  vapauttaa:1.42
+  siis:1.42
+
+Topic 4:
+  sinun:2.83
+  miten:2.31
+  tapauksessa:1.86
+  pit:1.34
+  vapautumisesta:1.34
+  tuote:1.34
+  kopioituna:1.34
+  muussa:1.34
+  tuo:1.34
+  suoraan:1.34
+
+K: 5, Log-Likelihood: -1448.710, Alpha: 11.000, Beta: 1.100

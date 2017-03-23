@@ -1,0 +1,61 @@
+Topic 0:
+  site:0.86
+  ive:0.49
+  ticket:0.44
+  listings:0.43
+  compares:0.40
+  slowed:0.40
+  crawl:0.40
+  nice:0.40
+  orders:0.40
+  deserves:0.40
+
+Topic 1:
+  ticket:0.81
+  support:0.49
+  site:0.48
+  vendor:0.44
+  listings:0.41
+  multisig:0.38
+  order:0.35
+  crazy:0.35
+  service:0.35
+  great:0.35
+
+Topic 2:
+  ticket:0.51
+  site:0.49
+  multisig:0.41
+  ive:0.36
+  support:0.36
+  simple:0.35
+  markets:0.35
+  vendor:0.33
+  listings:0.33
+  explained:0.32
+
+Topic 3:
+  good:0.94
+  simple:0.43
+  markets:0.43
+  growing:0.41
+  smartly:0.41
+  lot:0.41
+  boggy:0.41
+  work:0.41
+  sig:0.41
+  whatsoever:0.41
+
+Topic 4:
+  good:0.89
+  ticket:0.43
+  markets:0.43
+  simple:0.43
+  mufti:0.39
+  escrow:0.39
+  minimalistic:0.39
+  dont:0.39
+  people:0.39
+  majority:0.39
+
+K: 5, Log-Likelihood: -561.504, Alpha: 11.000, Beta: 1.100

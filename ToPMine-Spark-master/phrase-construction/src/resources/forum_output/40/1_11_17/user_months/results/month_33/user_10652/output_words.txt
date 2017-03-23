@@ -1,0 +1,61 @@
+Topic 0:
+  faiella:2.28
+  silk:0.92
+  road:0.90
+  money:0.89
+  judge:0.66
+  prison:0.64
+  shrem:0.64
+  business:0.62
+  activity:0.62
+  years:0.56
+
+Topic 1:
+  faiella:2.41
+  money:1.06
+  silk:0.95
+  road:0.94
+  prison:0.72
+  activity:0.71
+  business:0.70
+  shrem:0.70
+  judge:0.68
+  years:0.52
+
+Topic 2:
+  faiella:0.98
+  btc:0.75
+  years:0.70
+  road:0.65
+  silk:0.62
+  money:0.61
+  business:0.49
+  shrem:0.49
+  judge:0.49
+  prison:0.48
+
+Topic 3:
+  faiella:2.58
+  silk:0.87
+  road:0.84
+  money:0.80
+  shrem:0.67
+  judge:0.66
+  business:0.66
+  activity:0.66
+  prison:0.64
+  years:0.56
+
+Topic 4:
+  faiella:1.76
+  road:0.67
+  years:0.65
+  silk:0.64
+  money:0.64
+  activity:0.54
+  business:0.53
+  judge:0.52
+  prison:0.51
+  btc:0.51
+
+K: 5, Log-Likelihood: -973.750, Alpha: 11.000, Beta: 1.100

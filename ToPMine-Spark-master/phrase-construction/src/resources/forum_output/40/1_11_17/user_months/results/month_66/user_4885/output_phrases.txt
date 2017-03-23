@@ -1,0 +1,61 @@
+Topic 0:
+  services:0.16
+  programs:0.16
+  network:0.16
+  tools:0.16
+  system:0.16
+  kill:0.08
+  advanced:0.08
+  anonymization:0.08
+  person:0.08
+  blocking:0.08
+
+Topic 1:
+  tools:0.16
+  services:0.16
+  network:0.16
+  programs:0.16
+  system:0.16
+  rogers:0.08
+  place:0.08
+  beginners:0.08
+  start:0.08
+  good:0.08
+
+Topic 2:
+  system:0.16
+  programs:0.16
+  services:0.16
+  tools:0.16
+  network:0.16
+  thread:0.08
+  good:0.08
+  start:0.08
+  doubts:0.08
+  jolly:0.08
+
+Topic 3:
+  system:0.16
+  network:0.16
+  tools:0.16
+  programs:0.16
+  services:0.16
+  beginners:0.08
+  good:0.08
+  doubts:0.08
+  jolly:0.08
+  start:0.08
+
+Topic 4:
+  network:0.16
+  services:0.16
+  tools:0.16
+  programs:0.16
+  system:0.16
+  removal:0.08
+  advanced:0.08
+  addition:0.08
+  block:0.08
+  anonymisation:0.08
+
+K: 5, Log-Likelihood: -74.669, Alpha: 11.000, Beta: 1.100

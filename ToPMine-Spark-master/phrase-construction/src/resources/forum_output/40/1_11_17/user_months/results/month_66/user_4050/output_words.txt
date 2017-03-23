@@ -1,0 +1,61 @@
+Topic 0:
+  acropolis:0.40
+  signature:0.40
+  pgp:0.40
+  yuvp:0.20
+  bmniopm:0.20
+  iqicbaebcgagbqjwww:0.20
+  ck:0.20
+  wqfsx:0.20
+  jdhktmiffnqodymk:0.20
+  yptvannbtdfw:0.20
+
+Topic 1:
+  acropolis:0.40
+  pgp:0.40
+  signature:0.40
+  joh:0.20
+  patience:0.20
+  iwte:0.20
+  team:0.20
+  aeznm:0.20
+  understanding:0.20
+  cvg:0.20
+
+Topic 2:
+  acropolis:0.40
+  pgp:0.40
+  signature:0.40
+  yrhhxqxehhdnnu:0.20
+  en:0.20
+  message:0.20
+  hiimlwuh:0.20
+  knwyhtzphit:0.20
+  xbjrkzbo:0.20
+  kind:0.20
+
+Topic 3:
+  pgp:0.40
+  acropolis:0.40
+  signature:0.40
+  qgaaw:0.20
+  hours:0.20
+  jo:0.20
+  joh:0.20
+  sgrnd:0.20
+  patience:0.20
+  liezrqdpntx:0.20
+
+Topic 4:
+  signature:0.41
+  pgp:0.40
+  acropolis:0.40
+  nbqgbmshjilu:0.20
+  blb:0.20
+  jo:0.20
+  cnaggrnba:0.20
+  gnupg:0.20
+  jyjwvgjgc:0.20
+  hash:0.20
+
+K: 5, Log-Likelihood: -518.688, Alpha: 11.000, Beta: 1.100

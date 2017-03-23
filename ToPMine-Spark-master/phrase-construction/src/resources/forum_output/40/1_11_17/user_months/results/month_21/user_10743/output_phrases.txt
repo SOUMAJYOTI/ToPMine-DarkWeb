@@ -1,0 +1,61 @@
+Topic 0:
+  install:1.26
+  google:1.26
+  security:0.55
+  encryption:0.53
+  alchohol:0.53
+  program:0.53
+  man:0.53
+  unsearchable:0.53
+  flavored:0.53
+  apple:0.53
+
+Topic 1:
+  rob:1.05
+  pmwhat:1.05
+  computing:1.05
+  bernstein:1.05
+  nicholas:1.05
+  ian:1.05
+  sassaman:1.05
+  len:1.05
+  boxes:1.05
+  green:1.05
+
+Topic 2:
+  check:0.94
+  hacking:0.92
+  books:0.67
+  google:0.53
+  install:0.52
+  security:0.47
+  read:0.44
+  online:0.42
+  visit:0.42
+  bookshop:0.42
+
+Topic 3:
+  hacking:0.83
+  check:0.80
+  books:0.65
+  read:0.47
+  security:0.47
+  install:0.45
+  google:0.45
+  search:0.39
+  interest:0.39
+  matter:0.39
+
+Topic 4:
+  understand:3.01
+  feel:1.94
+  guide:1.91
+  learn:1.91
+  tor:1.89
+  read:1.19
+  transmits:0.81
+  havent:0.81
+  couple:0.81
+  depends:0.81
+
+K: 5, Log-Likelihood: -673.594, Alpha: 11.000, Beta: 1.100

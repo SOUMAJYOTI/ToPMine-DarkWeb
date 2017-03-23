@@ -1,0 +1,61 @@
+Topic 0:
+  multi sig:0.45
+  xss:0.44
+  escrow account:0.35
+  key:0.35
+  market operator:0.35
+  posts:0.31
+  spreading:0.29
+  whyusheep:0.29
+  irl:0.24
+  wallets:0.24
+
+Topic 1:
+  multi sig:0.66
+  xss:0.66
+  key:0.49
+  market operator:0.49
+  escrow account:0.48
+  wallet:0.32
+  doesnt:0.32
+  misleading:0.32
+  directly:0.32
+  address:0.32
+
+Topic 2:
+  whyusheep:0.56
+  spreading:0.55
+  posts:0.47
+  multi sig:0.28
+  xss:0.28
+  key:0.24
+  market operator:0.24
+  escrow account:0.24
+  conspiracy:0.23
+  reasons:0.23
+
+Topic 3:
+  xss:0.74
+  multi sig:0.69
+  market operator:0.52
+  key:0.52
+  escrow account:0.51
+  irl:0.33
+  site:0.33
+  external:0.33
+  misleading:0.33
+  bitcoins:0.33
+
+Topic 4:
+  multi sig:0.68
+  xss:0.65
+  escrow account:0.49
+  market operator:0.49
+  key:0.48
+  scam:0.32
+  unc:0.32
+  external:0.32
+  wallets:0.32
+  uvc:0.32
+
+K: 5, Log-Likelihood: -739.917, Alpha: 11.000, Beta: 1.100

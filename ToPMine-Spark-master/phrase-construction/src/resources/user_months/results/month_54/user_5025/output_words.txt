@@ -1,0 +1,61 @@
+Topic 0:
+  enabled:1.60
+  study:1.06
+  buddy:1.02
+  quicker:0.86
+  forward:0.85
+  xtal:0.85
+  js:0.85
+  ago:0.84
+  couple:0.84
+  smoother:0.84
+
+Topic 1:
+  order:9.00
+  addguy:5.58
+  middle:2.17
+  earth:2.14
+  java:2.04
+  script:2.03
+  ordered:1.85
+  enabled:1.79
+  checking:1.64
+  smooth:1.64
+
+Topic 2:
+  enabled:1.24
+  place:1.17
+  buddy:1.07
+  asia:1.03
+  study:1.01
+  order:0.95
+  great:0.72
+  ordered:0.66
+  earth:0.61
+  vendor:0.59
+
+Topic 3:
+  night:5.67
+  stal:3.68
+  ug:3.68
+  asia:3.59
+  baseline:1.70
+  red:1.70
+  gamesome:1.70
+  highly:1.70
+  colors:1.70
+  music:1.70
+
+Topic 4:
+  enabled:2.31
+  order:1.23
+  scripts:1.16
+  agora:0.87
+  earth:0.70
+  middle:0.70
+  ordered:0.65
+  javascript:0.58
+  love:0.58
+  diable:0.58
+
+K: 5, Log-Likelihood: -1381.015, Alpha: 11.000, Beta: 1.100

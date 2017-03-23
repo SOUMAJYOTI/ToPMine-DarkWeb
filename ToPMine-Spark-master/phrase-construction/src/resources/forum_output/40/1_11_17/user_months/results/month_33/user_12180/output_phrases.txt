@@ -1,0 +1,61 @@
+Topic 0:
+  tickets:0.08
+  respond:0.08
+  read:0.08
+  dont:0.08
+  time:0.08
+  coin:0.08
+  matter:0.08
+  plan:0.08
+  impatience:0.08
+  ahead:0.08
+
+Topic 1:
+  good:0.08
+  customer:0.08
+  fog:0.08
+  grams:0.08
+  funds:0.08
+  top:0.08
+  helix:0.08
+  stolen:0.08
+  impatience:0.08
+  matter:0.08
+
+Topic 2:
+  dont:0.08
+  matter:0.08
+  ahead:0.08
+  coin:0.08
+  impatience:0.08
+  tickets:0.08
+  plan:0.08
+  respect:0.08
+  time:0.08
+  respond:0.08
+
+Topic 3:
+  choice:0.08
+  hc:0.08
+  fog:0.08
+  respect:0.08
+  ahead:0.08
+  read:0.08
+  stolen:0.08
+  top:0.08
+  helix:0.08
+  funds:0.08
+
+Topic 4:
+  choice:0.08
+  customer:0.08
+  helix:0.08
+  funds:0.08
+  grams:0.08
+  top:0.08
+  community:0.08
+  stolen:0.08
+  fog:0.08
+  respect:0.08
+
+K: 5, Log-Likelihood: -27.573, Alpha: 11.000, Beta: 1.100

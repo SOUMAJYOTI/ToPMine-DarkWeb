@@ -1,0 +1,61 @@
+Topic 0:
+  dash:7.68
+  providing improved financial anonymity:5.78
+  pmthank teammates hard work:5.60
+  quote innovation december:5.57
+  humankind respect:5.56
+  official:4.77
+  working:4.77
+  chat galaxy:4.74
+  tx:4.74
+  tor onion:4.71
+
+Topic 1:
+  black book:5.02
+  guess:4.78
+  type platform:4.78
+  localbitcoins:4.78
+  ads:4.78
+  quartus:4.78
+  lbc:4.78
+  type system:4.78
+  tek:4.78
+  onion dash:4.78
+
+Topic 2:
+  electrum:14.15
+  wallet:11.32
+  dash:11.20
+  electric dash:10.16
+  trezor:8.49
+  secure:5.65
+  instructions:5.65
+  testing:5.65
+  extremely:5.65
+  development:5.65
+
+Topic 3:
+  speech:5.60
+  dev:5.55
+  onion:5.54
+  scripts:5.50
+  quote:4.96
+  booth:4.76
+  december:4.56
+  nucleus:4.51
+  move:4.44
+  code:3.28
+
+Topic 4:
+  social media:11.09
+  system:8.48
+  publishing news:8.48
+  social:8.48
+  chinese:8.48
+  dash:7.89
+  pic:7.54
+  network:5.65
+  adstranslation:5.65
+  giveawayextended:5.65
+
+K: 5, Log-Likelihood: -9019.332, Alpha: 11.000, Beta: 1.100

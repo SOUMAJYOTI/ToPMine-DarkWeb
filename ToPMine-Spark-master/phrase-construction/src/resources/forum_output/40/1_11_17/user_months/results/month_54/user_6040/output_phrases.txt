@@ -1,0 +1,61 @@
+Topic 0:
+  email service:0.23
+  ive:0.14
+  lelantos:0.14
+  encryption:0.14
+  theyll:0.14
+  ll:0.14
+  ve:0.14
+  gmail:0.12
+  scroat:0.12
+  operators:0.12
+
+Topic 1:
+  email service:0.23
+  theyll:0.14
+  encryption:0.14
+  lelantos:0.14
+  ve:0.14
+  ive:0.14
+  ll:0.14
+  site:0.12
+  things:0.12
+  flag:0.12
+
+Topic 2:
+  email service:0.23
+  ll:0.14
+  ve:0.14
+  ive:0.14
+  theyll:0.14
+  encryption:0.14
+  lelantos:0.14
+  march:0.12
+  tabs:0.12
+  monitor:0.12
+
+Topic 3:
+  email service:0.23
+  encryption:0.14
+  ve:0.14
+  lelantos:0.14
+  theyll:0.14
+  ive:0.14
+  ll:0.14
+  malicious:0.12
+  wondered:0.12
+  comms:0.12
+
+Topic 4:
+  email service:0.23
+  lelantos:0.14
+  encryption:0.14
+  ll:0.14
+  theyll:0.14
+  ve:0.14
+  ive:0.14
+  hmmm:0.12
+  pgp:0.12
+  yahoo:0.12
+
+K: 5, Log-Likelihood: -89.688, Alpha: 11.000, Beta: 1.100

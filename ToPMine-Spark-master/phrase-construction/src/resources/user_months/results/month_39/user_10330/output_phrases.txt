@@ -1,0 +1,61 @@
+Topic 0:
+  gnupg:42.75
+  gnupg tar bz:37.73
+  keys:30.35
+  version gnupg:30.18
+  ftp gnupg org gcrypt:26.41
+  ftp:20.24
+  key:20.22
+  release signing keys:18.86
+  gpg:18.56
+  security hole:17.06
+
+Topic 1:
+  passphrase:51.78
+  word passphrase:26.41
+  word list:21.48
+  bits entropy:18.86
+  passphrases:18.86
+  guess:18.86
+  trillion guesses:18.86
+  ll:16.65
+  security flaw:15.08
+  password:13.89
+
+Topic 2:
+  gc:24.08
+  fn:18.79
+  xm:17.31
+  gm:17.27
+  uz:17.09
+  bx:16.97
+  er:16.46
+  eb:15.72
+  dr:15.32
+  zaphod february pmquote:15.21
+
+Topic 3:
+  encryption keys:90.55
+  gchq:60.36
+  intelligence agencies:52.82
+  gemalto:49.04
+  sim cards:45.27
+  wireless network providers:33.95
+  keys:32.32
+  data:31.11
+  security:30.91
+  key theft:30.18
+
+Topic 4:
+  quote:20.78
+  zaphod:19.20
+  order:17.51
+  pgp signed message hash:14.96
+  abraxas pgp key pip:14.96
+  support access:14.96
+  sha abraxas market compromised:14.96
+  user list:13.46
+  support clear:13.45
+  signature confused sign message:13.34
+
+K: 5, Log-Likelihood: -369292.339, Alpha: 11.000, Beta: 1.100

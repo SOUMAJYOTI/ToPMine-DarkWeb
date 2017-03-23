@@ -1,0 +1,61 @@
+Topic 0:
+  tor:0.40
+  spread load:0.39
+  market:0.34
+  vendors:0.32
+  markets:0.29
+  day:0.21
+  check:0.20
+  orders:0.20
+  work:0.20
+  idea:0.20
+
+Topic 1:
+  spread load:0.41
+  tor:0.36
+  market:0.36
+  vendors:0.31
+  markets:0.31
+  day:0.21
+  work:0.20
+  idea:0.20
+  orders:0.20
+  check:0.20
+
+Topic 2:
+  spread load:0.42
+  market:0.38
+  tor:0.35
+  markets:0.31
+  vendors:0.30
+  idea:0.21
+  work:0.21
+  check:0.21
+  orders:0.21
+  day:0.20
+
+Topic 3:
+  spread load:0.42
+  market:0.39
+  tor:0.35
+  markets:0.32
+  vendors:0.29
+  work:0.21
+  idea:0.21
+  orders:0.21
+  check:0.21
+  day:0.20
+
+Topic 4:
+  spread load:0.41
+  tor:0.37
+  market:0.36
+  vendors:0.31
+  markets:0.30
+  day:0.21
+  idea:0.20
+  work:0.20
+  orders:0.20
+  check:0.20
+
+K: 5, Log-Likelihood: -317.076, Alpha: 11.000, Beta: 1.100

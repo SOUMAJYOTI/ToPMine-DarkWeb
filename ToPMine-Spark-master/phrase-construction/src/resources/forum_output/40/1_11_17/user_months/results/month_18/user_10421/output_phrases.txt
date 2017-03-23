@@ -1,0 +1,61 @@
+Topic 0:
+  machines:0.28
+  cheap:0.28
+  extension:0.28
+  bad motherfuckers:0.28
+  coming:0.28
+  things:0.28
+  find:0.28
+  ms:0.28
+  check:0.17
+  charm:0.14
+
+Topic 1:
+  cheap:0.28
+  find:0.28
+  coming:0.28
+  ms:0.28
+  machines:0.28
+  extension:0.28
+  bad motherfuckers:0.28
+  things:0.28
+  check:0.17
+  solution:0.14
+
+Topic 2:
+  things:0.28
+  bad motherfuckers:0.28
+  cheap:0.28
+  ms:0.28
+  extension:0.28
+  machines:0.28
+  find:0.28
+  coming:0.28
+  check:0.17
+  update:0.14
+
+Topic 3:
+  cheap:0.28
+  ms:0.28
+  find:0.28
+  coming:0.27
+  machines:0.27
+  bad motherfuckers:0.27
+  things:0.27
+  extension:0.27
+  check:0.17
+  tested:0.14
+
+Topic 4:
+  things:0.28
+  extension:0.28
+  coming:0.28
+  bad motherfuckers:0.28
+  ms:0.28
+  find:0.28
+  machines:0.28
+  cheap:0.27
+  check:0.17
+  contest:0.14
+
+K: 5, Log-Likelihood: -455.329, Alpha: 11.000, Beta: 1.100

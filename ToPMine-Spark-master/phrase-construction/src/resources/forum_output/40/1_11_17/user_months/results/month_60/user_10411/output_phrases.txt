@@ -1,0 +1,61 @@
+Topic 0:
+  bug:9.33
+  xen:7.46
+  operating system:7.46
+  systems:5.59
+  vulnerability:5.59
+  xen project:5.59
+  guests:5.59
+  hypervisor:5.59
+  services:4.81
+  wrote:3.72
+
+Topic 1:
+  carnegie mellon:2.92
+  fbi:2.42
+  tor:1.67
+  offered:1.43
+  tor users:1.39
+  anonymity:1.39
+  tor network:1.38
+  year:1.33
+  tor project:1.01
+  attack:0.85
+
+Topic 2:
+  secret:3.90
+  avon:3.56
+  thier:3.51
+  tang:3.41
+  drug mkt:3.30
+  work goal deanonymise:3.30
+  guy nice amount hours:3.30
+  users tor users general:3.29
+  november pm:3.26
+  joking:2.69
+
+Topic 3:
+  dont:5.80
+  quick:3.71
+  aethon:3.71
+  mate:3.71
+  answer:2.84
+  wait:2.84
+  tubes:2.38
+  hey:1.84
+  west:1.84
+  pmbeat:1.84
+
+Topic 4:
+  tor:11.36
+  attack:10.36
+  law enforcement:8.95
+  tor project:6.45
+  security:5.27
+  dingledine writes:5.27
+  wired:5.26
+  silk road:5.23
+  privacy:5.21
+  evidence:5.14
+
+K: 5, Log-Likelihood: -6761.581, Alpha: 11.000, Beta: 1.100

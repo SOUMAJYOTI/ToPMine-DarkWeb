@@ -1,0 +1,175 @@
+multisig,0,1
+germinal,1,4
+select,2,5
+conf,3,1
+bd gpg,4,1
+type,5,2
+required,6,1
+edits,7,1
+options,8,1
+fingerprint,9,2
+enter,10,2
+text,11,2
+ascelectrum,12,1
+persistent,13,3
+hath,14,1
+navigate,15,2
+aa,16,1
+bd save,17,1
+ae,18,1
+double,19,1
+gpg signature,20,2
+clearnet,21,1
+gedit,22,1
+version,23,1
+click,24,1
+code select,25,3
+javascript,26,2
+input,27,2
+proxy,28,1
+tar gz,29,5
+folder,30,2
+electrum tar gz,31,4
+applies,32,1
+exact,33,1
+indication,34,1
+primary,35,1
+server,36,1
+utcgpg,37,2
+bd,38,7
+bf,39,1
+signature,40,7
+save select,41,1
+rwpmjwjfocguylj,42,1
+save,43,4
+sun,44,2
+select gpg,45,2
+unknown,46,1
+current,47,1
+file,48,1
+ways,49,1
+verify,50,2
+certified,51,1
+copy,52,1
+electrum save,53,1
+free,54,1
+close,55,1
+key,56,6
+connect,57,1
+elegant,58,1
+mar,59,2
+enabling,60,1
+electrum,61,10
+editor,62,1
+cd,63,2
+restart,64,1
+accessories,65,1
+change,66,1
+tired,67,1
+tarball,68,2
+persistent electrum,69,1
+asa,70,2
+booting,71,1
+newer,72,1
+asc,73,2
+amnesia,74,2
+preinstalled,75,1
+electrum tails,76,1
+trusted,77,1
+keybind,78,1
+persistence,79,3
+germinal gpg,80,1
+open,81,3
+gog,82,1
+symbol,83,1
+de,84,2
+df,85,1
+feb,86,1
+auto,87,1
+folders,88,1
+disregard,89,1
+onion,90,1
+feel,91,1
+good,92,2
+unlocked,93,1
+hit,94,2
+download,95,2
+protocol,96,1
+signature gpg,97,1
+post,98,1
+warning,99,1
+checked,100,1
+finish,101,1
+booted,102,1
+eb,103,1
+ascoutput,104,1
+info,105,2
+gpg,106,6
+add,107,2
+ee,108,2
+settings,109,1
+link electrum,110,1
+gz electrum,111,1
+tar,112,5
+wrote,113,1
+nautilus,114,1
+check,115,1
+list,116,1
+steps,117,2
+sha,118,1
+er,119,1
+users,120,1
+volume,121,1
+tails,122,4
+extract,123,1
+port,124,1
+belongs,125,1
+files,126,1
+playing,127,1
+passphrase,128,2
+support,129,1
+fe,130,1
+note,131,2
+save link,132,1
+code,133,3
+import,134,2
+needed,135,1
+link,136,3
+nonethere,137,1
+choose,138,1
+paste,139,1
+network,140,1
+sig,141,2
+administrator,142,1
+desktop,143,1
+bd open,144,1
+root,145,1
+checksum,146,1
+thomas,147,1
+boot,148,1
+tailsdata,149,1
+mentioned,150,1
+live,151,1
+owner,152,1
+tcp,153,1
+normal,154,1
+temp,155,1
+pretty,156,1
+original,157,1
+electrum tar,158,4
+thomasv,159,2
+reading,160,1
+windows,161,1
+follow,162,1
+posting,163,1
+selfsig,164,1
+command,165,1
+gz,166,5
+easier,167,1
+signature code,168,1
+interested,169,1
+time,170,1
+pub,171,1
+pm,172,2
+key bd,173,2
+applications,174,1

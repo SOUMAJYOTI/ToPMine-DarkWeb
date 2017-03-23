@@ -1,0 +1,61 @@
+Topic 0:
+  quote:1.04
+  socks:0.88
+  text:0.87
+  restore:0.87
+  seed:0.87
+  localhost:0.87
+  addresses:0.87
+  electric:0.87
+  searching:0.87
+  list:0.87
+
+Topic 1:
+  electrum:0.52
+  click:0.49
+  onion:0.44
+  amnesia persistent electrum electrum:0.43
+  port:0.40
+  connect:0.37
+  auto:0.37
+  server:0.37
+  folder:0.36
+  add:0.36
+
+Topic 2:
+  file:1.49
+  electrum:1.40
+  select:1.39
+  click:0.84
+  amnesia persistent electrum:0.74
+  onion:0.66
+  input:0.53
+  desktop:0.53
+  accessories:0.53
+  gz:0.53
+
+Topic 3:
+  select:2.33
+  file:1.68
+  electrum:1.45
+  amnesia persistent electrum:0.94
+  click:0.91
+  onion:0.66
+  find:0.63
+  services:0.62
+  input:0.62
+  hidden:0.62
+
+Topic 4:
+  select:3.61
+  file:3.10
+  electrum:2.00
+  amnesia persistent electrum:1.35
+  click:1.07
+  choose:0.88
+  download:0.87
+  administrator:0.85
+  link:0.85
+  applications:0.85
+
+K: 5, Log-Likelihood: -1377.733, Alpha: 11.000, Beta: 1.100

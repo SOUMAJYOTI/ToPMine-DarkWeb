@@ -1,0 +1,61 @@
+Topic 0:
+  evoluton:3.08
+  store:3.08
+  cards:3.08
+  amount:1.48
+  list:1.48
+  sell:1.48
+  anonymously:1.48
+  fees:1.48
+  pay:1.48
+  paid:1.48
+
+Topic 1:
+  find:5.45
+  mycelium:3.07
+  local:3.07
+  built:3.07
+  person:3.07
+  coins:3.01
+  leads:1.86
+  ive:1.86
+  hard:1.85
+  dam:1.85
+
+Topic 2:
+  money:3.04
+  deposit:2.01
+  prepaid:1.67
+  doget:1.44
+  virwox:1.44
+  viola:1.44
+  convert:1.44
+  speaking:1.44
+  banks:1.44
+  walletand:1.44
+
+Topic 3:
+  bitstamp:1.54
+  coins:1.05
+  markets:0.99
+  visa:0.99
+  bets:0.99
+  luc:0.99
+  cheap:0.98
+  mixing:0.98
+  fast:0.98
+  fine:0.98
+
+Topic 4:
+  route:3.10
+  worry:3.10
+  quick:3.10
+  moneypak:3.10
+  buying:1.57
+  selling:1.49
+  accept:1.49
+  vender:1.49
+  sellers:1.49
+  vanilla:1.49
+
+K: 5, Log-Likelihood: -1079.256, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:4.87
+  coinbase:3.71
+  agreement:2.91
+  user:1.81
+  account:1.78
+  happened:1.77
+  longer:1.18
+  address:1.16
+  dont:1.15
+  interest:1.15
+
+Topic 1:
+  coinbase:1.02
+  account:0.85
+  coins:0.79
+  wallet:0.76
+  place:0.67
+  luc:0.57
+  bitcoin:0.55
+  vendors:0.55
+  longer:0.51
+  dont:0.50
+
+Topic 2:
+  coinbase:2.52
+  bitcoin:2.41
+  agreement:1.76
+  account:1.71
+  dont:1.07
+  longer:0.99
+  happened:0.96
+  user:0.93
+  address:0.84
+  goal:0.67
+
+Topic 3:
+  btc:1.71
+  vendor:1.61
+  watch:1.59
+  place:1.53
+  guessing:1.11
+  mail:0.95
+  wallet:0.85
+  luc:0.83
+  vendors:0.82
+  coins:0.76
+
+Topic 4:
+  sending:2.79
+  knowledge:1.79
+  time:1.39
+  market:1.35
+  bitcoins:1.28
+  online:1.28
+  interesting:0.81
+  fuck:0.81
+  admitted:0.81
+  dn:0.81
+
+K: 5, Log-Likelihood: -1090.285, Alpha: 11.000, Beta: 1.100

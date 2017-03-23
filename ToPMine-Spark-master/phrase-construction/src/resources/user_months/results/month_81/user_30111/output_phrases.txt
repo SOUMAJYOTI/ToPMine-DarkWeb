@@ -1,0 +1,61 @@
+Topic 0:
+  critical kush:0.24
+  kush:0.16
+  gbp:0.16
+  strain:0.16
+  mass:0.16
+  critical:0.16
+  og:0.16
+  fine:0.08
+  barney:0.08
+  altar:0.08
+
+Topic 1:
+  critical kush:0.24
+  og:0.16
+  strain:0.16
+  mass:0.16
+  gbp:0.16
+  kush:0.16
+  critical:0.16
+  load:0.08
+  left:0.08
+  insomnia:0.08
+
+Topic 2:
+  critical kush:0.24
+  critical:0.16
+  mass:0.16
+  gbp:0.16
+  og:0.16
+  kush:0.16
+  strain:0.16
+  calming:0.08
+  dose:0.08
+  pairs:0.08
+
+Topic 3:
+  critical kush:0.24
+  og:0.16
+  critical:0.16
+  strain:0.16
+  kush:0.16
+  mass:0.16
+  gbp:0.16
+  left:0.08
+  load:0.08
+  calming:0.08
+
+Topic 4:
+  critical kush:0.24
+  critical:0.16
+  mass:0.16
+  gbp:0.16
+  kush:0.16
+  strain:0.16
+  og:0.16
+  earthiness:0.08
+  gram:0.08
+  mind:0.08
+
+K: 5, Log-Likelihood: -111.908, Alpha: 11.000, Beta: 1.100

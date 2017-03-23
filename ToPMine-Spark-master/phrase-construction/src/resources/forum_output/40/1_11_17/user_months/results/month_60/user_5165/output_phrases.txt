@@ -1,0 +1,61 @@
+Topic 0:
+  significance:4.41
+  army:4.41
+  capitalism:4.41
+  dunno:4.41
+  cunt:4.41
+  accomplish:4.41
+  responsible:4.41
+  campaign:4.41
+  painful:4.41
+  energy:4.41
+
+Topic 1:
+  election:8.89
+  long:6.82
+  concept:4.42
+  goals:4.42
+  turn:4.42
+  atm:4.42
+  honesty:4.42
+  policies:4.42
+  factor:4.42
+  names:4.42
+
+Topic 2:
+  people:9.36
+  word allowed forms tit:7.10
+  word post:7.10
+  donald trump:6.79
+  quote albion september:6.69
+  win:6.25
+  time:6.23
+  america:5.68
+  donald coarse choose surprising:5.33
+  president american feeling:5.33
+
+Topic 3:
+  typed curse racial slur:6.77
+  political:5.89
+  find word naughty:5.74
+  affiliation triggering filter struggling:5.74
+  website:4.97
+  america:4.53
+  polish:4.41
+  call:4.41
+  nsa:4.41
+  servers:4.41
+
+Topic 4:
+  jeb:6.67
+  don:5.51
+  time:4.46
+  thankfully:4.43
+  gop:4.43
+  embroiled:4.43
+  candidate personally:4.43
+  appeal:4.43
+  pasach:4.43
+  shine:4.43
+
+K: 5, Log-Likelihood: -7906.300, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tails:4.14
+  card:3.51
+  persistent:3.51
+  install:3.51
+  separate:3.51
+  phone:3.51
+  cell:3.51
+  thing:3.51
+  things:2.96
+  destroy:1.72
+
+Topic 1:
+  installed:3.52
+  drive:3.52
+  computer:2.98
+  linux:2.25
+  atop:1.86
+  simple:1.73
+  sundown:1.73
+  machine:1.73
+  pulled:1.73
+  grabs:1.73
+
+Topic 2:
+  estrangeddesperado:3.20
+  unclean june pmwhen:2.49
+  accounts sigaintevyh rzvw onion:2.48
+  email provider error message:2.47
+  address send email address:2.45
+  sigaint:2.44
+  estrangeddesperado sigaint org work:2.40
+  onion ve:2.10
+  estrangeddesperado sigaintevyh row:2.08
+  friend:2.07
+
+Topic 3:
+  tor:5.31
+  isolation:5.31
+  dont:4.72
+  software:3.52
+  clean:3.52
+  wifi:3.52
+  connection:3.52
+  attacker:3.52
+  setup:3.52
+  pretty:3.52
+
+Topic 4:
+  estrangeddesperado:1.41
+  degrading:1.39
+  fi:1.39
+  gon:1.38
+  public:1.38
+  option:1.38
+  wi:1.38
+  ill:1.37
+  quote:1.22
+  sigaintevyh rzvw onion ive:1.03
+
+K: 5, Log-Likelihood: -2136.559, Alpha: 11.000, Beta: 1.100

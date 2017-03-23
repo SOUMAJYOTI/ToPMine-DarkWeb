@@ -1,0 +1,61 @@
+Topic 0:
+  aware people:4.67
+  postage anonymously:4.67
+  complicated:4.67
+  accounts:4.66
+  postage:4.21
+  stamps:3.85
+  anonymous:3.85
+  vouch:3.64
+  service safepostage:3.64
+  established:3.64
+
+Topic 1:
+  le:4.89
+  issue:4.66
+  pr:4.66
+  guy:4.66
+  problem:4.66
+  service:4.37
+  buying:3.90
+  extort:3.82
+  stamps risk:3.82
+  stretch:3.82
+
+Topic 2:
+  business:7.03
+  fresh:4.68
+  post office:3.80
+  le:3.50
+  pay:3.11
+  privacy:3.10
+  services:2.83
+  delete:2.56
+  records:2.56
+  asked:2.44
+
+Topic 3:
+  people:10.41
+  send bitcoin:4.61
+  numerous:4.55
+  post office:4.45
+  safepostage:4.07
+  noobs:3.82
+  addresses:3.82
+  admit:3.82
+  onion service:3.82
+  great idea:3.82
+
+Topic 4:
+  shared send:5.53
+  great:4.88
+  party:4.73
+  email:4.64
+  sites:4.62
+  vendors:4.49
+  dont problems:3.79
+  dont le:3.79
+  drugs case:3.79
+  illegal:3.79
+
+K: 5, Log-Likelihood: -6564.676, Alpha: 11.000, Beta: 1.100

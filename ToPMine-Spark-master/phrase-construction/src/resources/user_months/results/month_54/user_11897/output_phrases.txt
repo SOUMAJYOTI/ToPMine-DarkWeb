@@ -1,0 +1,61 @@
+Topic 0:
+  shop:0.08
+  open:0.08
+  porn:0.08
+  pay:0.08
+  lowered:0.08
+  markets:0.08
+  meth:0.08
+  check:0.08
+  shards:0.08
+  sick:0.08
+
+Topic 1:
+  fuck:0.08
+  order:0.08
+  confidence:0.08
+  yeah:0.08
+  ship:0.08
+  guys:0.08
+  sell:0.08
+  shop:0.08
+  prices:0.08
+  porn:0.08
+
+Topic 2:
+  prices:0.08
+  dont:0.08
+  tired:0.08
+  guys:0.08
+  sick:0.08
+  markets:0.08
+  lowered:0.08
+  porn:0.08
+  pay:0.08
+  check:0.08
+
+Topic 3:
+  money:0.08
+  yeah:0.08
+  fuck:0.08
+  commission:0.08
+  ship:0.08
+  dont:0.08
+  tired:0.08
+  sell:0.08
+  sick:0.08
+  prices:0.08
+
+Topic 4:
+  decided:0.08
+  markets:0.08
+  shards:0.08
+  pay:0.08
+  open:0.08
+  check:0.08
+  meth:0.08
+  lowered:0.08
+  commission:0.08
+  sick:0.08
+
+K: 5, Log-Likelihood: -29.241, Alpha: 11.000, Beta: 1.100

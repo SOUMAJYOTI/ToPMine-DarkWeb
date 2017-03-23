@@ -1,0 +1,61 @@
+Topic 0:
+  key:3.84
+  messages:3.19
+  private:2.58
+  message:1.92
+  meerkovo:1.91
+  public:1.61
+  keys:1.36
+  agora:1.27
+  decrypt:1.15
+  send:1.11
+
+Topic 1:
+  key:18.06
+  message:11.01
+  gpg:9.69
+  encrypted:8.87
+  data:6.95
+  packet:5.95
+  asa:4.95
+  created:4.95
+  gog:4.95
+  ab:4.95
+
+Topic 2:
+  key:6.07
+  decrypt:3.64
+  public:3.58
+  private:3.09
+  password:2.86
+  message:2.67
+  meerkovo:1.63
+  good:1.63
+  messages:1.42
+  pgp:1.23
+
+Topic 3:
+  key:5.94
+  message:1.95
+  agora:1.85
+  private:1.79
+  meerkovo:1.62
+  good:1.48
+  messages:1.39
+  password:1.36
+  decrypt:1.27
+  public:1.22
+
+Topic 4:
+  support:9.89
+  people:5.32
+  forums:4.08
+  quote:4.07
+  march:4.07
+  agora:3.76
+  pandora:3.69
+  market:3.16
+  vendors:3.12
+  users:2.88
+
+K: 5, Log-Likelihood: -6137.793, Alpha: 11.000, Beta: 1.100

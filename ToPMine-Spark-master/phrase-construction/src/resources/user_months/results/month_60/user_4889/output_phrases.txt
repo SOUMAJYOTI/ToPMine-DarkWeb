@@ -1,0 +1,61 @@
+Topic 0:
+  btc:4.53
+  bank:4.20
+  transactions:4.20
+  real:4.20
+  identity:3.28
+  good:2.86
+  call:2.86
+  bullshit:2.85
+  named:2.85
+  taint:2.85
+
+Topic 1:
+  deposit:4.24
+  withdrew:4.24
+  deposited:4.24
+  de:2.10
+  directly:2.10
+  youll:2.10
+  oldnitrogensports:2.10
+  tying:2.10
+  btcthis:2.10
+  coins abraxas:2.10
+
+Topic 2:
+  public wallet:6.36
+  agora:4.22
+  dont:3.31
+  markets:3.29
+  public:3.17
+  pretty:2.44
+  wallets:2.38
+  clearnet:2.26
+  defunct:2.08
+  abraxas evolution:2.08
+
+Topic 3:
+  abraxas:5.29
+  wallet:5.13
+  wallet abraxas:4.21
+  knowing:4.12
+  cashing:3.19
+  mix coming:2.07
+  mixing:2.07
+  exchanges:2.07
+  typing:2.07
+  receiving:2.07
+
+Topic 4:
+  market wallet:5.17
+  number:4.23
+  amount:4.23
+  earlier:4.23
+  listings:4.23
+  coins:3.46
+  btcnucleus:3.24
+  bitcoinfog:3.24
+  btcmiddleearth:3.24
+  balances:3.24
+
+K: 5, Log-Likelihood: -2861.721, Alpha: 11.000, Beta: 1.100

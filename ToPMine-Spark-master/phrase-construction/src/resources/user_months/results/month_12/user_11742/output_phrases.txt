@@ -1,0 +1,61 @@
+Topic 0:
+  category:4.24
+  query:4.24
+  afghan text:4.24
+  ideas:3.41
+  jabber:3.41
+  read:3.41
+  discuss:3.41
+  reply question:3.41
+  suggestion:3.41
+  staff:3.41
+
+Topic 1:
+  agora:8.51
+  number:5.14
+  real:5.14
+  evo:4.92
+  reason:4.24
+  vend:3.39
+  isuckmydadsdick:3.39
+  reasons:3.39
+  gon:3.39
+  haha:3.39
+
+Topic 2:
+  register:4.24
+  forums:4.24
+  fun:4.24
+  join:4.24
+  love:4.06
+  takes majority buyers:4.04
+  agora:3.61
+  community:3.35
+  markets evo:3.35
+  rest:3.35
+
+Topic 3:
+  people:9.93
+  good market:4.23
+  good popular:4.23
+  darknet:4.23
+  types:4.23
+  fed:3.41
+  completely:3.41
+  doesnt:3.04
+  support:2.91
+  starting:2.67
+
+Topic 4:
+  requests neglected:7.11
+  official:4.22
+  ideas analyze requests evo:4.18
+  understand:3.88
+  response:3.38
+  requests forum:3.38
+  prouter june:3.38
+  threads:3.38
+  waited:3.38
+  bunch:3.38
+
+K: 5, Log-Likelihood: -3847.213, Alpha: 11.000, Beta: 1.100

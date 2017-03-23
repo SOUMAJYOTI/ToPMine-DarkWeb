@@ -1,0 +1,61 @@
+Topic 0:
+  invite:1.51
+  bubbly:0.82
+  peace:0.82
+  love:0.82
+  worth:0.81
+  bb:0.81
+  happen:0.81
+  consumer:0.81
+  friendly:0.81
+  invites:0.73
+
+Topic 1:
+  things:1.26
+  invites:0.69
+  invite:0.60
+  dont:0.59
+  good:0.59
+  hear:0.59
+  day:0.59
+  selling:0.59
+  reg:0.58
+  nmp:0.58
+
+Topic 2:
+  invite:2.18
+  invites:0.64
+  kindly:0.63
+  dhl:0.56
+  purchase:0.56
+  register:0.56
+  great:0.56
+  people:0.52
+  sharing:0.52
+  seasoned:0.51
+
+Topic 3:
+  invites:1.00
+  seasoned:0.96
+  sharing:0.96
+  people:0.92
+  invite:0.76
+  kindly:0.74
+  guess:0.65
+  february:0.65
+  lurking:0.65
+  quote:0.65
+
+Topic 4:
+  things:1.80
+  invite:0.81
+  invitation:0.78
+  grate:0.78
+  fun:0.78
+  party:0.78
+  grateful:0.77
+  reg:0.77
+  nmp:0.77
+  selling:0.77
+
+K: 5, Log-Likelihood: -384.544, Alpha: 11.000, Beta: 1.100

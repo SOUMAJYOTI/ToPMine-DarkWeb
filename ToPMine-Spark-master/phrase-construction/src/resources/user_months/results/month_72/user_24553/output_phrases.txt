@@ -1,0 +1,61 @@
+Topic 0:
+  dream:0.92
+  dream pgp:0.55
+  reply:0.54
+  asked:0.53
+  nuc:0.53
+  rational:0.53
+  talking:0.53
+  nucleus:0.53
+  required:0.53
+  login:0.51
+
+Topic 1:
+  dream:0.64
+  fa:0.60
+  login:0.49
+  login set login password:0.48
+  pgp kind weak:0.48
+  dont fa requested rational:0.48
+  quote organix march:0.48
+  nuc:0.44
+  reply:0.44
+  asked:0.43
+
+Topic 2:
+  fa:0.99
+  dream:0.52
+  login:0.51
+  dont fa requested rational:0.48
+  pgp kind weak:0.47
+  login set login password:0.46
+  quote organix march:0.44
+  pmthey:0.42
+  trouble:0.42
+  worked:0.42
+
+Topic 3:
+  fa:0.58
+  login set login password:0.56
+  dont fa requested rational:0.56
+  pgp kind weak:0.55
+  dream:0.53
+  pmthey:0.51
+  quote organix march:0.51
+  login:0.46
+  enter:0.44
+  pgp:0.42
+
+Topic 4:
+  dream:0.69
+  quote organix march:0.51
+  pgp kind weak:0.51
+  login set login password:0.50
+  dont fa requested rational:0.50
+  login:0.48
+  nucleus:0.47
+  required:0.47
+  talking:0.46
+  rational:0.46
+
+K: 5, Log-Likelihood: -350.070, Alpha: 11.000, Beta: 1.100

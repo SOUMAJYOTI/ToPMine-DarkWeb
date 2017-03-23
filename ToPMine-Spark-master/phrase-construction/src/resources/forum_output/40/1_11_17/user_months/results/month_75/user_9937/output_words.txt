@@ -1,0 +1,61 @@
+Topic 0:
+  juice:1.36
+  mix:0.88
+  concentrates:0.80
+  good:0.58
+  extract:0.57
+  ratio:0.51
+  love:0.50
+  thick:0.50
+  needed:0.49
+  type:0.48
+
+Topic 1:
+  juice:0.86
+  concentrates:0.69
+  mix:0.64
+  good:0.57
+  extract:0.53
+  simmer:0.49
+  tea:0.48
+  needed:0.45
+  love:0.44
+  thick:0.44
+
+Topic 2:
+  juice:2.66
+  concentrates:2.01
+  mix:1.77
+  extract:1.73
+  needed:1.13
+  love:1.12
+  type:1.11
+  ratio:1.10
+  thick:1.09
+  good:0.68
+
+Topic 3:
+  juice:0.74
+  mix:0.64
+  simmer:0.57
+  good:0.54
+  tea:0.54
+  concentrates:0.52
+  atomizer:0.45
+  extract:0.45
+  product:0.42
+  concentrate:0.41
+
+Topic 4:
+  juice:1.37
+  mix:1.06
+  concentrates:0.98
+  extract:0.72
+  good:0.63
+  type:0.61
+  thick:0.60
+  ratio:0.59
+  love:0.58
+  needed:0.57
+
+K: 5, Log-Likelihood: -700.166, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  quote:1.92
+  key:1.90
+  june:1.70
+  digitaldong:1.66
+  gpg:1.44
+  private:1.38
+  public:1.18
+  zaphod:1.14
+  usb:1.03
+  win:0.83
+
+Topic 1:
+  key:3.33
+  gpg:2.69
+  private:2.31
+  keys:2.20
+  usb:2.13
+  gog:1.65
+  digitaldong:1.55
+  account:1.45
+  manage:1.37
+  quote:1.36
+
+Topic 2:
+  zaphod:11.27
+  june:8.85
+  hell:4.00
+  photo:3.97
+  series:3.76
+  pmquote:3.67
+  beeblebrox:3.48
+  pmbtw:3.48
+  guide:3.48
+  tv:3.48
+
+Topic 3:
+  keys:10.74
+  private:9.16
+  manage:6.72
+  account:6.45
+  key:5.64
+  export:4.88
+  gpg:4.75
+  gog:4.48
+  pvt:3.76
+  usb:3.70
+
+Topic 4:
+  key:2.08
+  gpg:2.07
+  public:1.90
+  digitaldong:1.20
+  quote:1.14
+  private:1.11
+  usb:1.08
+  june:1.07
+  win:1.02
+  zaphod:1.01
+
+K: 5, Log-Likelihood: -1698.781, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tor:0.23
+  blockchain wallet:0.17
+  mycelium:0.14
+  bad:0.14
+  bassunit:0.14
+  october:0.14
+  shit:0.14
+  idea:0.14
+  read:0.14
+  couple:0.14
+
+Topic 1:
+  tor:0.23
+  blockchain wallet:0.17
+  money:0.14
+  chief:0.14
+  electric:0.14
+  tweeted:0.14
+  shiz:0.14
+  blockchain:0.14
+  virus:0.14
+  info:0.14
+
+Topic 2:
+  tor:0.23
+  blockchain wallet:0.17
+  links:0.14
+  shit:0.14
+  phone:0.14
+  red:0.14
+  clearnet:0.14
+  limb:0.14
+  idea:0.14
+  electrum:0.14
+
+Topic 3:
+  tor:0.23
+  blockchain wallet:0.17
+  guess:0.14
+  read:0.14
+  electrum:0.14
+  quote:0.14
+  clearnet:0.14
+  bad:0.14
+  october:0.14
+  read read:0.14
+
+Topic 4:
+  tor:0.23
+  blockchain wallet:0.17
+  blockchain:0.14
+  tweeted:0.14
+  bugs:0.14
+  shiz:0.14
+  virus:0.14
+  info:0.14
+  link:0.14
+  customer:0.14
+
+K: 5, Log-Likelihood: -151.313, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  wait:0.20
+  temporarily:0.20
+  start:0.20
+  vending:0.20
+  noticed:0.20
+  online:0.20
+  xxx:0.20
+  wanted:0.20
+  agora:0.20
+  market:0.20
+
+Topic 1:
+  start:0.20
+  xxx:0.20
+  online:0.20
+  agora:0.20
+  market:0.20
+  temporarily:0.20
+  vending:0.20
+  wanted:0.20
+  noticed:0.20
+  wait:0.20
+
+Topic 2:
+  wanted:0.20
+  vending:0.20
+  agora:0.20
+  xxx:0.20
+  temporarily:0.20
+  market:0.20
+  start:0.20
+  wait:0.20
+  noticed:0.20
+  online:0.20
+
+Topic 3:
+  noticed:0.20
+  online:0.20
+  agora:0.20
+  wait:0.20
+  temporarily:0.20
+  xxx:0.20
+  start:0.20
+  vending:0.20
+  wanted:0.20
+  market:0.20
+
+Topic 4:
+  market:0.20
+  wanted:0.20
+  wait:0.20
+  noticed:0.20
+  vending:0.20
+  agora:0.20
+  online:0.20
+  xxx:0.20
+  start:0.20
+  temporarily:0.20
+
+K: 5, Log-Likelihood: -23.026, Alpha: 11.000, Beta: 1.100

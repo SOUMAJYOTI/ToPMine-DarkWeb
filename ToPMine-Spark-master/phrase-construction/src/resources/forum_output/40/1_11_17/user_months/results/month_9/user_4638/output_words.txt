@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.22
+  vendors:0.48
+  people:0.43
+  markets:0.38
+  software:0.34
+  party:0.34
+  open:0.34
+  totally:0.34
+  modules:0.34
+  source:0.34
+
+Topic 1:
+  market:1.83
+  ground:0.41
+  frameworks:0.41
+  source:0.41
+  open:0.41
+  party:0.41
+  agree:0.40
+  modules:0.40
+  totally:0.40
+  built:0.40
+
+Topic 2:
+  market:2.08
+  totally:0.43
+  built:0.43
+  ground:0.42
+  modules:0.42
+  agree:0.42
+  frameworks:0.42
+  open:0.42
+  source:0.42
+  party:0.42
+
+Topic 3:
+  market:2.12
+  party:0.43
+  modules:0.43
+  software:0.43
+  source:0.43
+  open:0.43
+  frameworks:0.43
+  built:0.43
+  agree:0.43
+  totally:0.43
+
+Topic 4:
+  market:1.74
+  vendors:0.40
+  agree:0.40
+  markets:0.40
+  software:0.40
+  party:0.40
+  ground:0.40
+  open:0.40
+  totally:0.40
+  source:0.40
+
+K: 5, Log-Likelihood: -445.676, Alpha: 11.000, Beta: 1.100

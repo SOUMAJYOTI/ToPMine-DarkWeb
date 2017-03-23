@@ -1,0 +1,61 @@
+Topic 0:
+  registration:2.00
+  drugs:1.97
+  fee:1.88
+  abraxas:1.83
+  action:1.52
+  category:1.45
+  listings:1.43
+  weapons:1.43
+  including:1.42
+  services:1.40
+
+Topic 1:
+  btc:3.91
+  vendor fee:2.47
+  llama socks october:2.46
+  quote:2.46
+  lobster:2.27
+  feedbacks:2.27
+  vendorsyeah:2.27
+  provide:2.27
+  signed:2.27
+  abraxas waive:2.27
+
+Topic 2:
+  abraxas:1.34
+  drugs:1.26
+  fee:1.26
+  pgp:1.18
+  registration:1.13
+  vendor buyer:0.90
+  amount:0.84
+  vendor bond:0.84
+  services:0.82
+  orders:0.82
+
+Topic 3:
+  drugs:3.30
+  fee:2.30
+  registration:2.21
+  abraxas marketplace:1.42
+  abraxas:1.40
+  orders:1.38
+  vendor bond:1.37
+  category:1.34
+  listings:1.34
+  amount:1.33
+
+Topic 4:
+  drugs:2.89
+  registration:1.70
+  fee:1.58
+  abraxas:1.49
+  vendor buyer:1.24
+  weapons:1.24
+  services:1.22
+  vendor bond:1.21
+  digital goods:1.20
+  including:1.17
+
+K: 5, Log-Likelihood: -4046.705, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  vacation mode:5.29
+  account:4.60
+  vendors:3.50
+  vendor:3.50
+  normal:2.24
+  eliminates:1.71
+  spent:1.71
+  puts:1.71
+  hides:1.71
+  disable:1.71
+
+Topic 1:
+  multi tumbler:7.08
+  bitcoins:5.07
+  random:3.50
+  transfer:3.50
+  bitcoins wallets:3.50
+  blockchain:1.71
+  minutes:1.71
+  youll:1.71
+  logs:1.71
+  wallets:1.71
+
+Topic 2:
+  staff:2.11
+  short:2.10
+  days:2.05
+  market:1.66
+  breaks:1.45
+  small random:1.45
+  broken:1.45
+  chunks:1.45
+  btcfog:1.45
+  payments:1.45
+
+Topic 3:
+  grams:5.19
+  pirate market:2.26
+  items:1.91
+  bonus:1.62
+  multiply:1.62
+  coming:1.62
+  forward:1.62
+  happy:1.62
+  google:1.62
+  drug:1.62
+
+Topic 4:
+  win:3.49
+  spare:3.49
+  bet bitcoins:3.49
+  game:3.49
+  amount:2.09
+  small:1.96
+  cash:1.81
+  bet:1.70
+  ratio:1.70
+  amount bet:1.70
+
+K: 5, Log-Likelihood: -1211.071, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  feedback valhalla:0.28
+  reddit:0.28
+  samples:0.28
+  check:0.23
+  topic:0.14
+  reviews:0.14
+  today:0.14
+  store:0.14
+  created:0.14
+  joined:0.14
+
+Topic 1:
+  samples:0.28
+  reddit:0.28
+  feedback valhalla:0.28
+  check:0.23
+  interesting:0.14
+  censored:0.14
+  blocksize:0.14
+  miner:0.14
+  debate:0.14
+  find:0.14
+
+Topic 2:
+  feedback valhalla:0.28
+  samples:0.28
+  reddit:0.28
+  check:0.23
+  customer:0.14
+  gain:0.14
+  sample:0.14
+  trust:0.14
+  order:0.14
+  market:0.14
+
+Topic 3:
+  samples:0.28
+  feedback valhalla:0.28
+  reddit:0.28
+  check:0.23
+  sample:0.14
+  gain:0.14
+  customer:0.14
+  trust:0.14
+  market:0.14
+  order:0.14
+
+Topic 4:
+  reddit:0.28
+  samples:0.28
+  feedback valhalla:0.28
+  check:0.23
+  btcif:0.14
+  miner:0.14
+  interesting:0.14
+  core:0.14
+  opinion:0.14
+  censored:0.14
+
+K: 5, Log-Likelihood: -107.473, Alpha: 11.000, Beta: 1.100

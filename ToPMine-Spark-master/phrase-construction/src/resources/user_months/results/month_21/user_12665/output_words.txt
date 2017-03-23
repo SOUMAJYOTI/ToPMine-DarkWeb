@@ -1,0 +1,61 @@
+Topic 0:
+  iv:12.65
+  ett:10.34
+  tullut:6.70
+  kuin:6.41
+  ll:5.06
+  fe:5.04
+  vaikka:4.80
+  postin:4.74
+  kin:4.54
+  eip:4.22
+
+Topic 1:
+  iv:10.67
+  nain:6.67
+  ei:5.48
+  mennyt:4.54
+  ja:4.51
+  mutta:3.94
+  pidemp:3.90
+  muuten:3.83
+  se:3.51
+  luokan:3.40
+
+Topic 2:
+  ja:9.47
+  ett:6.79
+  ei:6.76
+  eli:4.76
+  tuote:4.55
+  tai:4.38
+  myyj:3.56
+  pit:3.35
+  olla:3.32
+  ennen:3.05
+
+Topic 3:
+  meni:5.78
+  negatiivista:5.61
+  palautetta:5.61
+  en:5.34
+  mutta:4.69
+  mit:4.04
+  voinut:3.82
+  odottaa:3.81
+  pablolta:3.67
+  ja:2.95
+
+Topic 4:
+  ja:5.76
+  en:5.10
+  st:3.99
+  olisi:3.96
+  etuk:3.50
+  maksun:3.43
+  kun:3.24
+  jos:3.17
+  tuo:2.39
+  mm:2.39
+
+K: 5, Log-Likelihood: -6704.799, Alpha: 11.000, Beta: 1.100

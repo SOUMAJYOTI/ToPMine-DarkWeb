@@ -1,0 +1,4 @@
+deepdotweb,0,1
+read,1,1
+vending,2,1
+quit,3,1

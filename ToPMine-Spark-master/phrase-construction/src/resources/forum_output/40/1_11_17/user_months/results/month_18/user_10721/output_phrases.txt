@@ -1,0 +1,61 @@
+Topic 0:
+  browser:5.19
+  firefox:2.82
+  set:2.78
+  enabled:2.77
+  tools options:2.76
+  enable:2.64
+  disable:2.60
+  iso:1.73
+  protocol:1.72
+  true:1.72
+
+Topic 1:
+  vpn server:6.17
+  solution:3.66
+  eyes:2.41
+  western:2.41
+  technical:2.41
+  bittorrent:2.41
+  tor:2.41
+  country:2.41
+  computer:1.17
+  shitty:1.17
+
+Topic 2:
+  vpn:0.79
+  tails:0.65
+  big:0.61
+  small:0.60
+  services:0.60
+  service:0.60
+  operating:0.55
+  pre:0.55
+  dongle:0.55
+  top:0.55
+
+Topic 3:
+  vpn:1.10
+  service:0.92
+  services:0.92
+  small:0.92
+  big:0.91
+  tails:0.90
+  longer:0.72
+  market:0.72
+  july:0.72
+  pmtry:0.72
+
+Topic 4:
+  network:0.88
+  disable:0.88
+  enable:0.84
+  browser:0.80
+  tools options:0.73
+  enabled:0.73
+  set:0.71
+  firefox:0.68
+  add:0.61
+  plugins:0.60
+
+K: 5, Log-Likelihood: -1670.387, Alpha: 11.000, Beta: 1.100

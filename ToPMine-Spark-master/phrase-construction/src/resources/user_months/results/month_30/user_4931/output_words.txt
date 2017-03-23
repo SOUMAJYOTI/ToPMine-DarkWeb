@@ -1,0 +1,61 @@
+Topic 0:
+  tor:20.96
+  time:18.68
+  dont:17.74
+  safe:15.95
+  people:15.83
+  small:14.02
+  don:13.00
+  work:11.99
+  good:11.18
+  data:10.38
+
+Topic 1:
+  vendors:52.68
+  encryption:31.95
+  tmg:25.58
+  le:20.25
+  ag:19.66
+  encrypt:18.01
+  safe:17.81
+  case:17.76
+  bitmessage:15.97
+  public:12.13
+
+Topic 2:
+  people:28.05
+  markets:18.74
+  sr:14.00
+  find:12.75
+  real:12.66
+  server:12.55
+  time:12.43
+  agora:12.17
+  evo:11.39
+  doubt:8.93
+
+Topic 3:
+  tor:54.39
+  access:16.09
+  traffic:14.82
+  safe:11.74
+  account:11.51
+  le:11.40
+  analysis:10.71
+  vendors:10.08
+  kind:9.79
+  stay:9.24
+
+Topic 4:
+  password:19.74
+  vendor:16.72
+  good:15.08
+  work:13.49
+  security:13.36
+  quote:13.35
+  vendors:12.86
+  drugs:12.65
+  le:12.21
+  november:12.09
+
+K: 5, Log-Likelihood: -43147.781, Alpha: 11.000, Beta: 1.100

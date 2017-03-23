@@ -1,0 +1,61 @@
+Topic 0:
+  time:32.43
+  drive:21.86
+  april:18.32
+  firmware:16.81
+  hardware:14.91
+  software:12.20
+  man:11.61
+  hard:10.73
+  thing:10.70
+  pallidpallas:10.59
+
+Topic 1:
+  security:8.45
+  nsa:5.67
+  tails:5.34
+  quote:4.60
+  whonix:4.38
+  society:2.97
+  fast:2.82
+  service:2.76
+  assure:2.33
+  running:2.20
+
+Topic 2:
+  point:7.77
+  tor:7.71
+  html:6.84
+  attacker:4.92
+  computer:4.88
+  times:4.74
+  mitigations:3.92
+  target:3.92
+  parts:3.92
+  java:3.90
+
+Topic 3:
+  font:6.98
+  bots:5.98
+  site:5.02
+  human:4.98
+  majesty:4.98
+  privacy:4.77
+  communications:4.29
+  internet:3.48
+  online:3.42
+  type:3.21
+
+Topic 4:
+  cable:20.92
+  cross:11.80
+  southern:11.80
+  cut:10.14
+  network:9.93
+  zealand:6.98
+  foot:5.98
+  service:4.36
+  documents:4.32
+  interception:4.26
+
+K: 5, Log-Likelihood: -12054.067, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  phone:1.59
+  smartphone:1.03
+  burner:0.91
+  conduct:0.73
+  rooted:0.71
+  sim:0.69
+  tor:0.69
+  vpn:0.68
+  idea:0.64
+  work:0.47
+
+Topic 1:
+  phone:5.88
+  encrusted:2.38
+  idea:1.51
+  good:1.46
+  smart:1.29
+  thought:1.07
+  complicated:1.07
+  dump:1.07
+  people:1.06
+  acquire:1.06
+
+Topic 2:
+  phone:2.75
+  idea:1.04
+  encrusted:0.89
+  work:0.85
+  good:0.70
+  conduct:0.65
+  burner:0.62
+  acquire:0.45
+  kind:0.45
+  people:0.44
+
+Topic 3:
+  phones:4.76
+  signal:2.73
+  towers:2.73
+  cellar:2.73
+  cloud:2.73
+  business:2.67
+  work:2.35
+  period:1.74
+  youve:1.74
+  cellphones:1.74
+
+Topic 4:
+  phone:1.57
+  smartphone:1.09
+  burner:1.06
+  vpn:1.01
+  tor:1.01
+  sim:1.00
+  rooted:0.98
+  conduct:0.71
+  idea:0.52
+  personal:0.44
+
+K: 5, Log-Likelihood: -1008.996, Alpha: 11.000, Beta: 1.100

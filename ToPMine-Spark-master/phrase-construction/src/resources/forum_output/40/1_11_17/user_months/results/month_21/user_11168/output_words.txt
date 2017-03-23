@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.33
+  good:1.30
+  markets:0.89
+  evolution:0.46
+  scam:0.46
+  onion:0.45
+  shiny:0.38
+  flakes:0.37
+  email:0.37
+  cloud:0.37
+
+Topic 1:
+  market:2.01
+  good:0.90
+  markets:0.73
+  dont:0.55
+  flakes:0.52
+  shiny:0.51
+  scam:0.48
+  evolution:0.42
+  french:0.40
+  onion:0.38
+
+Topic 2:
+  market:2.15
+  good:1.78
+  create:0.46
+  fake:0.46
+  cloud:0.46
+  email:0.46
+  french:0.42
+  onion:0.38
+  markets:0.37
+  flakes:0.36
+
+Topic 3:
+  market:1.62
+  good:1.35
+  markets:0.61
+  evolution:0.42
+  scam:0.41
+  onion:0.41
+  flakes:0.40
+  shiny:0.39
+  fake:0.39
+  cloud:0.39
+
+Topic 4:
+  market:1.88
+  good:1.68
+  email:0.46
+  create:0.46
+  cloud:0.45
+  fake:0.45
+  french:0.43
+  markets:0.40
+  onion:0.39
+  shiny:0.36
+
+K: 5, Log-Likelihood: -466.366, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tor:0.41
+  version:0.40
+  released:0.40
+  curl:0.39
+  browser:0.20
+  software:0.20
+  asap:0.20
+  users:0.20
+  packages:0.20
+  developers:0.20
+
+Topic 1:
+  version:0.40
+  tor:0.40
+  curl:0.40
+  released:0.40
+  silent:0.20
+  check:0.20
+  command:0.20
+  latest:0.20
+  aint:0.20
+  thing:0.20
+
+Topic 2:
+  curl:0.40
+  version:0.40
+  released:0.40
+  tor:0.40
+  thing:0.20
+  blinkin:0.20
+  aint:0.20
+  check:0.20
+  latest:0.20
+  command:0.20
+
+Topic 3:
+  released:0.41
+  tor:0.41
+  version:0.40
+  curl:0.39
+  packages:0.20
+  zaphod:0.20
+  asap:0.20
+  project:0.20
+  advised:0.20
+  tbb:0.20
+
+Topic 4:
+  curl:0.42
+  version:0.40
+  released:0.40
+  tor:0.39
+  latest:0.20
+  check:0.20
+  command:0.20
+  silent:0.20
+  blinkin:0.20
+  aint:0.20
+
+K: 5, Log-Likelihood: -83.533, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  isolation:9.08
+  virtual:6.92
+  site:6.30
+  attack:5.57
+  address:5.12
+  requires:4.82
+  protect:4.80
+  physical:4.49
+  firewalls:4.07
+  technique:4.04
+
+Topic 1:
+  middle:14.33
+  system:13.74
+  box:12.90
+  traffic:10.77
+  network:9.85
+  socks:7.98
+  private:7.79
+  ideally:7.79
+  configured:7.29
+  pi:6.89
+
+Topic 2:
+  computer:22.47
+  website:11.29
+  address:9.60
+  user:8.13
+  network:8.10
+  type:7.58
+  warrant:6.98
+  activating:6.98
+  nit:6.98
+  users:6.92
+
+Topic 3:
+  tor:11.74
+  quote:6.00
+  info:5.19
+  blockchain:5.06
+  cloudflare:5.06
+  pi:4.99
+  el:3.45
+  presidente:3.04
+  april:3.00
+  workstation:2.94
+
+Topic 4:
+  exploit:13.80
+  fh:13.65
+  april:8.81
+  high:7.90
+  quote:6.76
+  js:5.37
+  days:5.16
+  le:4.88
+  people:4.84
+  dont:4.00
+
+K: 5, Log-Likelihood: -10337.071, Alpha: 11.000, Beta: 1.100

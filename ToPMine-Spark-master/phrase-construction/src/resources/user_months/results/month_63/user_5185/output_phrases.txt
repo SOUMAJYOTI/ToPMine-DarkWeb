@@ -1,0 +1,61 @@
+Topic 0:
+  work:4.82
+  connected:4.82
+  set:3.89
+  unsafe:3.89
+  guess:3.89
+  reason:3.89
+  bridge:3.89
+  downloaded:3.89
+  delia:3.89
+  sp:3.89
+
+Topic 1:
+  wifi devices inside computers:5.25
+  connected wife dongle compatible:5.24
+  compatible newer macbook models:5.24
+  device computer model buy:5.24
+  drivers searching design driver:5.23
+  tails case negative sides:5.23
+  design install missing driver:5.23
+  tails based compatible:5.23
+  wife:5.19
+  heard great:3.75
+
+Topic 2:
+  phoenix vm:4.45
+  isn:3.88
+  lucidmotif suggested:3.88
+  early:3.88
+  dimitri:3.88
+  kind:3.88
+  coolbreeze:3.88
+  thought:3.88
+  lmao:3.88
+  suggested computer:3.88
+
+Topic 3:
+  tor:7.32
+  download tails:4.41
+  bitcoin:3.84
+  transferring:3.84
+  readable:3.84
+  download:3.84
+  wondering:3.84
+  gpg:3.84
+  suggestions:3.84
+  advance:3.84
+
+Topic 4:
+  enter wifi password:7.88
+  wifi:4.23
+  network:3.89
+  remembers:3.89
+  persistent:3.89
+  menu:3.89
+  time start:3.89
+  icon:3.89
+  stuff:3.89
+  correctly tor:3.89
+
+K: 5, Log-Likelihood: -2634.229, Alpha: 11.000, Beta: 1.100

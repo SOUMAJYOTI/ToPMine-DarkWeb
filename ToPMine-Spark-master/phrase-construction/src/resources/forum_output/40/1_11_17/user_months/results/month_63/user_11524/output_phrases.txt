@@ -1,0 +1,61 @@
+Topic 0:
+  dry speed gbp:2.61
+  shipping:1.50
+  free:1.39
+  frontin alprazolam:1.29
+  pharmacutical:0.62
+  drop:0.62
+  google:0.61
+  xanax tablets:0.61
+  dry speed:0.61
+  powder:0.61
+
+Topic 1:
+  frontin alprazolam:1.08
+  dry speed gbp:0.73
+  free:0.61
+  shipping:0.56
+  european:0.53
+  xanax:0.52
+  genuine:0.52
+  tablets:0.52
+  moment:0.52
+  version:0.52
+
+Topic 2:
+  frontin alprazolam:0.94
+  dry speed gbp:0.54
+  dont:0.53
+  valhalla:0.50
+  free:0.47
+  alphabay lhoursopenvalhalla:0.47
+  listings:0.45
+  moment:0.45
+  price:0.45
+  grade:0.45
+
+Topic 3:
+  valhalla:0.72
+  good:0.72
+  alphabay valhalla:0.57
+  allhoursopen:0.57
+  uk:0.57
+  big:0.57
+  dream:0.57
+  vendor:0.57
+  sulphate:0.57
+  growing:0.57
+
+Topic 4:
+  frontin alprazolam:0.62
+  valhalla:0.60
+  good:0.56
+  alphabay lhoursopenvalhalla:0.53
+  dont:0.48
+  amphetamine:0.41
+  links:0.41
+  market:0.41
+  including:0.41
+  big:0.41
+
+K: 5, Log-Likelihood: -425.256, Alpha: 11.000, Beta: 1.100

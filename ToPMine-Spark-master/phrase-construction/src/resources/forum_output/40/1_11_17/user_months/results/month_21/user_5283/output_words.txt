@@ -1,0 +1,61 @@
+Topic 0:
+  consent:11.97
+  property:9.97
+  government:8.97
+  order:7.97
+  based:7.97
+  protect:5.97
+  majority:5.97
+  people:4.65
+  question:4.62
+  life:4.08
+
+Topic 1:
+  health:10.00
+  good:9.23
+  mda:8.09
+  life:7.71
+  mdma:7.60
+  personal:7.60
+  long:6.57
+  worth:6.07
+  smoke:5.86
+  topic:5.67
+
+Topic 2:
+  lsd:9.35
+  time:8.78
+  effects:6.51
+  drugs:5.21
+  body:5.18
+  real:4.51
+  overcome:3.97
+  system:3.97
+  consumption:3.97
+  properties:3.97
+
+Topic 3:
+  natural:13.67
+  effects:12.87
+  drugs:11.36
+  cancer:10.59
+  substances:9.78
+  safe:7.39
+  drug:6.89
+  damage:6.36
+  dmt:5.55
+  enjoy:5.43
+
+Topic 4:
+  body:9.15
+  smoking:8.80
+  acid:7.91
+  war:5.94
+  army:5.40
+  don:5.23
+  mango:4.98
+  times:4.19
+  weed:4.19
+  dont:4.16
+
+K: 5, Log-Likelihood: -8641.133, Alpha: 11.000, Beta: 1.100

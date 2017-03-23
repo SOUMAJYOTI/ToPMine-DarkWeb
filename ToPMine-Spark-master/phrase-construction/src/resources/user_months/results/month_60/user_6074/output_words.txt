@@ -1,0 +1,61 @@
+Topic 0:
+  marketplace:0.40
+  industrial:0.40
+  suggestion:0.40
+  operation:0.40
+  mahinery:0.40
+  offered:0.40
+  manuals:0.40
+  detract:0.20
+  find:0.20
+  machine:0.20
+
+Topic 1:
+  industrial:0.40
+  operation:0.40
+  manuals:0.40
+  mahinery:0.40
+  offered:0.40
+  marketplace:0.40
+  suggestion:0.40
+  find:0.20
+  company:0.20
+  arthur:0.20
+
+Topic 2:
+  offered:0.41
+  operation:0.41
+  suggestion:0.41
+  mahinery:0.40
+  industrial:0.40
+  marketplace:0.40
+  manuals:0.40
+  arthur:0.20
+  colton:0.20
+  mi:0.20
+
+Topic 3:
+  manuals:0.40
+  industrial:0.40
+  marketplace:0.40
+  mahinery:0.40
+  offered:0.40
+  suggestion:0.40
+  operation:0.40
+  triturate:0.20
+  making:0.20
+  microdots:0.20
+
+Topic 4:
+  manuals:0.40
+  suggestion:0.40
+  marketplace:0.40
+  mahinery:0.40
+  offered:0.40
+  operation:0.39
+  industrial:0.39
+  power:0.20
+  machine:0.20
+  microdots:0.20
+
+K: 5, Log-Likelihood: -75.114, Alpha: 11.000, Beta: 1.100

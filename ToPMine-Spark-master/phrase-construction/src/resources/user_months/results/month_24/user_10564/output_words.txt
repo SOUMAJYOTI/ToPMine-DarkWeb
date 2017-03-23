@@ -1,0 +1,61 @@
+Topic 0:
+  tor:17.07
+  browser:8.90
+  release:4.89
+  update:4.06
+  bug:3.92
+  tbb:3.90
+  plate:2.92
+  firefox:2.91
+  security:1.92
+  distribution:1.90
+
+Topic 1:
+  online:8.93
+  marketplaces:7.06
+  itom:6.18
+  illegal:5.86
+  project:4.98
+  dutch:4.53
+  deep:4.13
+  silk:3.95
+  government:3.88
+  trade:3.85
+
+Topic 2:
+  project:2.86
+  marketplaces:1.89
+  european:1.83
+  itom:1.77
+  online:1.70
+  dutch:1.43
+  web:1.29
+  road:1.29
+  document:1.16
+  trade:1.11
+
+Topic 3:
+  people:6.25
+  bitcoin:4.97
+  economy:4.85
+  good:2.91
+  currency:1.87
+  invest:1.85
+  find:1.85
+  start:1.85
+  move:1.85
+  solution:1.85
+
+Topic 4:
+  bitcoins:4.29
+  money:3.50
+  problems:2.86
+  version:2.10
+  ways:1.93
+  anon:1.93
+  harder:1.93
+  october:1.92
+  latest:1.90
+  solve:1.81
+
+K: 5, Log-Likelihood: -3199.397, Alpha: 11.000, Beta: 1.100

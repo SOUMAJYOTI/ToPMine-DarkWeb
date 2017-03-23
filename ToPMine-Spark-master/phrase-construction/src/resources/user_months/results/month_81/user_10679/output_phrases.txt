@@ -1,0 +1,61 @@
+Topic 0:
+  surprised:2.63
+  design:2.43
+  tub:2.41
+  atrocity:1.15
+  long:1.15
+  seraphic design:1.15
+  lasted:1.15
+  didnt:1.14
+  jury:1.14
+  place:1.14
+
+Topic 1:
+  check:1.30
+  forum:1.30
+  surprised:0.92
+  posted:0.90
+  trickedwe:0.90
+  todayoutlaw:0.90
+  improve:0.90
+  online:0.90
+  software:0.90
+  hackedplease:0.76
+
+Topic 2:
+  shout:1.23
+  friend:1.23
+  mine:1.23
+  weeks:1.23
+  strange:1.23
+  gov:1.23
+  websites:1.23
+  difficult:1.23
+  shits:1.23
+  onion:1.23
+
+Topic 3:
+  market:2.63
+  secured:1.92
+  markets:1.84
+  break:1.82
+  security:1.77
+  biggest:1.77
+  sr:1.76
+  robbers:0.84
+  hackers:0.84
+  um:0.84
+
+Topic 4:
+  market:2.97
+  sr:0.89
+  biggest:0.88
+  security:0.87
+  break:0.83
+  markets:0.81
+  secured:0.73
+  week:0.47
+  group:0.46
+  vulnerabilities:0.45
+
+K: 5, Log-Likelihood: -787.878, Alpha: 11.000, Beta: 1.100

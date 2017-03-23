@@ -1,0 +1,61 @@
+Topic 0:
+  online:6.14
+  cop block:6.14
+  protocol:6.14
+  bought cash:6.14
+  create:5.64
+  officer:4.26
+  method call hr departments:3.89
+  voicemail message:3.70
+  police offices order learn:3.70
+  phone records catch:3.52
+
+Topic 1:
+  quote fork november:12.85
+  read:9.89
+  dont:8.35
+  open:7.12
+  sr:5.98
+  drug:5.98
+  silent:5.03
+  sounds great:5.03
+  real email:4.90
+  straight:4.75
+
+Topic 2:
+  quote fork november:18.26
+  forums:5.22
+  pmwe:2.44
+  dont:2.42
+  read:2.41
+  le:2.30
+  lea:2.17
+  fuck:2.11
+  open:2.10
+  pmi:2.02
+
+Topic 3:
+  forums:8.29
+  drug interdiction:6.14
+  law:6.14
+  hr department:6.14
+  tor:6.14
+  officernon sworn:6.14
+  forum account:6.14
+  law enforcement:5.07
+  badge number:4.36
+  clearnet:3.06
+
+Topic 4:
+  cop:4.12
+  calling:3.88
+  list:3.88
+  master:3.88
+  connected:3.88
+  resources:3.88
+  full:3.11
+  real cop:3.02
+  curious:3.02
+  call hr department:3.02
+
+K: 5, Log-Likelihood: -13881.725, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  valhalla:0.16
+  vmware:0.08
+  buy:0.08
+  investigation:0.08
+  hacking:0.08
+  mobile:0.08
+  shop:0.08
+  listings store:0.08
+  edition:0.08
+  cryptography:0.08
+
+Topic 1:
+  valhalla:0.16
+  stour:0.08
+  hansa:0.08
+  sale:0.08
+  hans:0.08
+  current:0.08
+  forensics:0.08
+  cryptovirology:0.08
+  blockchain:0.08
+  security:0.08
+
+Topic 2:
+  valhalla:0.16
+  sale:0.08
+  hansa:0.08
+  hans:0.08
+  stour:0.08
+  listings store:0.08
+  hacking:0.08
+  cryptocurrency:0.08
+  special:0.08
+  offerings:0.08
+
+Topic 3:
+  valhalla:0.16
+  buy:0.08
+  exposing:0.08
+  penetration:0.08
+  anarchist:0.08
+  investigation:0.08
+  stcheck:0.08
+  analysis:0.08
+  cryptocurrency:0.08
+  top:0.08
+
+Topic 4:
+  valhalla:0.16
+  hans:0.08
+  stour:0.08
+  hansa:0.08
+  sale:0.08
+  shop:0.08
+  anarchist:0.08
+  guide:0.08
+  book:0.08
+  exposing:0.08
+
+K: 5, Log-Likelihood: -57.264, Alpha: 11.000, Beta: 1.100

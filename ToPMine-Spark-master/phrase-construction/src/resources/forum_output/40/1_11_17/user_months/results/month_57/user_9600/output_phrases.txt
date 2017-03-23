@@ -1,0 +1,61 @@
+Topic 0:
+  women:12.98
+  marriage:12.44
+  men:8.44
+  women fuck prostitutes:7.93
+  seduce:7.93
+  promote technologies:7.93
+  destroy feminism forever:7.93
+  wife:7.93
+  virtual reality:7.93
+  artificial wombs:7.93
+
+Topic 1:
+  ideas:7.93
+  kind:3.95
+  narratives:3.95
+  preconceived:3.95
+  impatient:3.95
+  reflection:3.95
+  feelings:3.95
+  psychotherapy:3.95
+  abstract:3.95
+  idea:3.95
+
+Topic 2:
+  sounds:5.04
+  married:4.66
+  pretty narrow:3.94
+  married legally:3.94
+  sided:3.94
+  process:3.94
+  involves:3.94
+  fellow:3.94
+  point view:3.94
+  courts:3.94
+
+Topic 3:
+  dropped:7.92
+  dont:5.02
+  wrong:4.72
+  innocent:3.94
+  death:3.94
+  lsd:3.94
+  acid:3.94
+  wives:3.94
+  ceremony:3.94
+  communication:3.94
+
+Topic 4:
+  love:4.61
+  people don:4.60
+  don:4.59
+  people dont:4.56
+  collection:3.93
+  compelled:3.93
+  outdated:3.93
+  legal:3.93
+  othrr:3.93
+  robot:3.93
+
+K: 5, Log-Likelihood: -6955.765, Alpha: 11.000, Beta: 1.100

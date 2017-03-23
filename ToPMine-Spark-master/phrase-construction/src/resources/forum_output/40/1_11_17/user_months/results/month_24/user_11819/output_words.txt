@@ -1,0 +1,61 @@
+Topic 0:
+  stay:0.93
+  layout:0.93
+  site:0.92
+  place:0.92
+  patient:0.92
+  markets:0.78
+  market:0.48
+  millions:0.37
+  determined:0.37
+  simplicity:0.37
+
+Topic 1:
+  market:1.30
+  marketplace:0.74
+  team:0.73
+  easy:0.72
+  markets:0.47
+  hey:0.43
+  hub:0.43
+  compared:0.43
+  developed:0.43
+  publish:0.33
+
+Topic 2:
+  market:0.86
+  markets:0.68
+  place:0.45
+  patient:0.44
+  site:0.44
+  layout:0.44
+  stay:0.43
+  hey:0.40
+  developed:0.40
+  hub:0.40
+
+Topic 3:
+  market:0.94
+  markets:0.63
+  compared:0.41
+  developed:0.41
+  hub:0.41
+  hey:0.41
+  patient:0.36
+  stay:0.36
+  layout:0.36
+  site:0.36
+
+Topic 4:
+  market:1.43
+  easy:0.77
+  team:0.76
+  marketplace:0.76
+  markets:0.45
+  developed:0.43
+  hub:0.43
+  hey:0.43
+  compared:0.43
+  small:0.34
+
+K: 5, Log-Likelihood: -491.937, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bit:1.26
+  scam:1.24
+  worth:1.24
+  huge:1.23
+  infrastructure:1.23
+  bond:1.23
+  doxxed:1.22
+  ami:1.22
+  markets:1.22
+  metadpr:1.21
+
+Topic 1:
+  february:1.13
+  pseudo:0.89
+  lost:0.88
+  market:0.88
+  expertise:0.88
+  experience:0.87
+  current:0.86
+  time:0.86
+  btc:0.86
+  question:0.86
+
+Topic 2:
+  doomed:0.96
+  shit user:0.96
+  claiming:0.95
+  dox:0.94
+  making:0.94
+  knew:0.92
+  user:0.89
+  bluffing:0.89
+  spoke:0.88
+  amwas:0.88
+
+Topic 3:
+  knew:1.09
+  making:1.07
+  dox:1.07
+  claiming:1.06
+  shit user:1.05
+  doomed:1.04
+  weeks:1.04
+  lasted:1.03
+  transaction received:1.03
+  product:1.03
+
+Topic 4:
+  order:3.02
+  vendor:1.79
+  flag:1.78
+  black:1.78
+  project:1.42
+  transaction:1.42
+  money:1.42
+  site:1.42
+  escrow:1.42
+  paid:1.42
+
+K: 5, Log-Likelihood: -836.813, Alpha: 11.000, Beta: 1.100

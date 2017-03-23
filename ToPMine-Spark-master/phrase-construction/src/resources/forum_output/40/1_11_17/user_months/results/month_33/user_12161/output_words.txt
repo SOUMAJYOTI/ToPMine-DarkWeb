@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:0.41
+  nodes:0.39
+  rate:0.20
+  state:0.20
+  collude:0.20
+  long:0.20
+  vessel:0.20
+  public:0.20
+  minds:0.20
+  exercise:0.20
+
+Topic 1:
+  bitcoin:0.40
+  nodes:0.40
+  crypto:0.20
+  faith:0.20
+  philosophy:0.20
+  quotethis:0.20
+  embarrassing:0.20
+  spirit:0.20
+  missing:0.20
+  rate:0.20
+
+Topic 2:
+  nodes:0.41
+  bitcoin:0.40
+  darkcoin:0.20
+  cheerselan:0.20
+  flag:0.20
+  onlynet:0.20
+  tor:0.20
+  true:0.20
+  community:0.20
+  bad:0.20
+
+Topic 3:
+  bitcoin:0.41
+  nodes:0.38
+  anarchic:0.20
+  philosophy:0.20
+  vessel:0.20
+  bad:0.20
+  state:0.20
+  faith:0.20
+  missing:0.20
+  embarrassing:0.20
+
+Topic 4:
+  nodes:0.43
+  bitcoin:0.39
+  flag:0.21
+  cheerselan:0.21
+  onlynet:0.21
+  darkcoin:0.21
+  tor:0.21
+  missing:0.20
+  embarrassing:0.20
+  foundationwas:0.20
+
+K: 5, Log-Likelihood: -99.318, Alpha: 11.000, Beta: 1.100

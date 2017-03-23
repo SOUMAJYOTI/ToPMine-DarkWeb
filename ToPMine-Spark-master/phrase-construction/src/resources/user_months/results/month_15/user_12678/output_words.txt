@@ -1,0 +1,61 @@
+Topic 0:
+  ja:2.96
+  sit:1.22
+  ett:0.98
+  mutta:0.91
+  se:0.87
+  mitaan:0.76
+  odota:0.68
+  ei:0.67
+  laittanut:0.66
+  keen:0.60
+
+Topic 1:
+  ja:2.95
+  mutta:1.11
+  ett:1.06
+  sit:0.93
+  ei:0.91
+  myyj:0.76
+  se:0.74
+  kun:0.72
+  keskiviikkona:0.67
+  mit:0.60
+
+Topic 2:
+  mutta:2.87
+  mit:2.49
+  ett:2.02
+  nyt:1.56
+  tapahtui:1.55
+  silti:1.55
+  takaisin:1.54
+  kun:1.48
+  keskiviikkona:1.37
+  ei:1.11
+
+Topic 3:
+  ja:2.20
+  mutta:0.98
+  mitaan:0.92
+  sit:0.84
+  ei:0.83
+  ett:0.79
+  sanoi:0.79
+  tulee:0.67
+  mut:0.61
+  kun:0.59
+
+Topic 4:
+  mut:3.49
+  en:2.90
+  torstaina:2.52
+  mitaan:2.50
+  sanoi:1.93
+  koska:1.33
+  viikko:1.33
+  postittaneensa:1.33
+  nain:1.13
+  tulee:1.09
+
+K: 5, Log-Likelihood: -1410.050, Alpha: 11.000, Beta: 1.100

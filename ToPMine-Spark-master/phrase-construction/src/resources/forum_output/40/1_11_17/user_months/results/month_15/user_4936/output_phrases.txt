@@ -1,0 +1,61 @@
+Topic 0:
+  sig:0.28
+  pgp:0.28
+  link:0.28
+  profile:0.28
+  key:0.28
+  setting:0.28
+  default:0.28
+  reasoning:0.28
+  janesmith:0.22
+  quote:0.22
+
+Topic 1:
+  default:0.28
+  setting:0.28
+  link:0.28
+  key:0.28
+  profile:0.28
+  pgp:0.28
+  reasoning:0.28
+  sig:0.28
+  havent:0.22
+  pmhow:0.22
+
+Topic 2:
+  setting:0.28
+  reasoning:0.28
+  default:0.28
+  key:0.28
+  pgp:0.28
+  profile:0.28
+  sig:0.28
+  link:0.28
+  haven:0.22
+  heads:0.22
+
+Topic 3:
+  key:0.28
+  link:0.28
+  pgp:0.28
+  profile:0.28
+  reasoning:0.28
+  setting:0.28
+  default:0.28
+  sig:0.28
+  pmhow:0.22
+  quote:0.22
+
+Topic 4:
+  reasoning:0.28
+  default:0.28
+  setting:0.28
+  profile:0.28
+  key:0.28
+  sig:0.28
+  link:0.28
+  pgp:0.28
+  havent:0.22
+  haven:0.22
+
+K: 5, Log-Likelihood: -46.559, Alpha: 11.000, Beta: 1.100

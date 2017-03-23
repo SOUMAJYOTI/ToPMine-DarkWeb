@@ -1,0 +1,61 @@
+Topic 0:
+  loading:4.26
+  fog:4.26
+  agora:3.48
+  place:2.06
+  work:2.06
+  hosted:2.06
+  stopped:2.06
+  wouldn:2.06
+  slow:2.06
+  bitin:2.06
+
+Topic 1:
+  guess:2.87
+  patient:2.06
+  evening:2.06
+  happening:2.06
+  times:2.06
+  wait:2.06
+  peak:2.06
+  refreshes:2.06
+  day:2.06
+  days:2.06
+
+Topic 2:
+  sr:2.04
+  good:2.04
+  runner:2.04
+  features:2.04
+  pitty:2.04
+  rally:2.04
+  marketplace:2.04
+  witch:2.04
+  nice:2.04
+  missing:2.04
+
+Topic 3:
+  managed:2.81
+  traffic:2.80
+  agora:2.48
+  lot:2.37
+  doesnt:2.05
+  tm:2.05
+  earlier:2.05
+  turned:2.05
+  forums:2.05
+  half:2.05
+
+Topic 4:
+  problem:2.81
+  fine:2.48
+  working:2.35
+  log:2.21
+  time:2.04
+  worked:1.53
+  users:1.53
+  today:1.52
+  tithe:1.46
+  constantly:1.45
+
+K: 5, Log-Likelihood: -800.371, Alpha: 11.000, Beta: 1.100

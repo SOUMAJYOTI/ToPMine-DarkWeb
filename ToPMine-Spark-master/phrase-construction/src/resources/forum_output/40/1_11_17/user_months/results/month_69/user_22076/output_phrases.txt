@@ -1,0 +1,61 @@
+Topic 0:
+  scams:0.37
+  finding:0.37
+  real:0.30
+  hope:0.20
+  youi:0.20
+  affordabledo:0.20
+  desperately:0.18
+  pot:0.18
+  people:0.18
+  quote:0.18
+
+Topic 1:
+  finding:0.37
+  scams:0.37
+  real:0.30
+  hope:0.20
+  affordabledo:0.20
+  youi:0.20
+  gold:0.18
+  amok:0.18
+  rainbow:0.18
+  desperately:0.18
+
+Topic 2:
+  scams:0.36
+  finding:0.36
+  real:0.31
+  affordabledo:0.20
+  hope:0.20
+  youi:0.20
+  identity:0.19
+  passport:0.19
+  inserted:0.19
+  paper:0.19
+
+Topic 3:
+  finding:0.36
+  scams:0.36
+  real:0.31
+  youi:0.20
+  affordabledo:0.20
+  hope:0.20
+  physical:0.19
+  onion:0.19
+  inserted:0.19
+  matter:0.19
+
+Topic 4:
+  scams:0.37
+  finding:0.37
+  real:0.30
+  affordabledo:0.20
+  hope:0.20
+  youi:0.20
+  vendor:0.18
+  fucking:0.18
+  legitmate:0.18
+  chance:0.18
+
+K: 5, Log-Likelihood: -118.312, Alpha: 11.000, Beta: 1.100

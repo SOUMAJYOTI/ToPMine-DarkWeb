@@ -1,0 +1,61 @@
+Topic 0:
+  guy:0.46
+  guess:0.40
+  deep:0.40
+  web:0.39
+  lowest:0.35
+  losers:0.35
+  hood:0.33
+  idea:0.33
+  quote:0.33
+  poetic:0.33
+
+Topic 1:
+  guy:0.49
+  web:0.43
+  guess:0.43
+  deep:0.43
+  losers:0.36
+  lowest:0.35
+  profits:0.30
+  distress:0.30
+  justice:0.30
+  love:0.30
+
+Topic 2:
+  vendors:2.73
+  lowest:0.95
+  losers:0.95
+  feedback:0.77
+  forum:0.77
+  hit:0.77
+  pattern:0.77
+  thinking:0.77
+  agora:0.77
+  day:0.77
+
+Topic 3:
+  guy:0.56
+  web:0.47
+  deep:0.47
+  guess:0.47
+  site:0.37
+  post:0.32
+  lowest:0.29
+  losers:0.29
+  money:0.26
+  quick:0.26
+
+Topic 4:
+  site:3.07
+  post:2.15
+  guy:1.38
+  months:1.31
+  called:1.31
+  check:1.31
+  btc:1.30
+  money:1.30
+  btw:1.30
+  deep:0.57
+
+K: 5, Log-Likelihood: -713.983, Alpha: 11.000, Beta: 1.100

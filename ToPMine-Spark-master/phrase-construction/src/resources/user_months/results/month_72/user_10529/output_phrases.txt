@@ -1,0 +1,61 @@
+Topic 0:
+  vpn:6.79
+  hang:4.85
+  tor:4.72
+  set:4.35
+  secure:4.35
+  incorporate:4.35
+  isolation:4.35
+  software:4.35
+  connection:3.59
+  build:3.49
+
+Topic 1:
+  talking:4.36
+  felt:4.36
+  burner connect:4.13
+  router mb fire tails:4.13
+  router middlebox usual access:4.10
+  router dedicated middlebox set:4.10
+  point good vpn:3.87
+  tambourine january pmwhat vpon:3.84
+  find:3.50
+  longer:3.50
+
+Topic 2:
+  vpn:8.28
+  tails:7.12
+  tor:6.66
+  security:6.57
+  good:4.37
+  exit:4.37
+  nodes:4.37
+  strong:4.37
+  trustworthy:4.37
+  habits:4.37
+
+Topic 3:
+  file:6.55
+  browser:6.55
+  settings:4.35
+  folder:4.35
+  agreed vpn conjunction tails:2.24
+  amnesia:2.16
+  liking:2.16
+  profile:2.16
+  safer:2.16
+  entire:2.16
+
+Topic 4:
+  message:8.77
+  signature:4.37
+  pgp:4.37
+  service:2.17
+  select:2.17
+  gmfcvoslxpzc:2.17
+  xnk:2.17
+  kulz:2.17
+  bc:2.17
+  xhjfzjipgyh:2.17
+
+K: 5, Log-Likelihood: -5343.058, Alpha: 11.000, Beta: 1.100

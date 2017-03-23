@@ -1,0 +1,61 @@
+Topic 0:
+  post:0.61
+  topic:0.61
+  forum:0.59
+  click:0.41
+  newbie:0.40
+  login:0.40
+  agora:0.40
+  registering:0.40
+  working:0.39
+  posts:0.20
+
+Topic 1:
+  forum:0.61
+  post:0.59
+  topic:0.57
+  working:0.41
+  login:0.40
+  registering:0.40
+  agora:0.40
+  click:0.39
+  newbie:0.39
+  fine:0.20
+
+Topic 2:
+  post:0.60
+  forum:0.60
+  topic:0.60
+  agora:0.40
+  newbie:0.40
+  login:0.40
+  registering:0.40
+  working:0.40
+  click:0.40
+  threads:0.20
+
+Topic 3:
+  forum:0.62
+  topic:0.60
+  post:0.60
+  registering:0.40
+  login:0.40
+  newbie:0.40
+  agora:0.40
+  working:0.40
+  click:0.39
+  pots:0.20
+
+Topic 4:
+  topic:0.62
+  post:0.59
+  forum:0.58
+  click:0.41
+  newbie:0.41
+  agora:0.40
+  registering:0.40
+  login:0.40
+  working:0.40
+  karma:0.20
+
+K: 5, Log-Likelihood: -121.347, Alpha: 11.000, Beta: 1.100

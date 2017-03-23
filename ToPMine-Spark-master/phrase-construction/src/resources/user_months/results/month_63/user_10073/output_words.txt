@@ -1,0 +1,61 @@
+Topic 0:
+  sucks:5.49
+  feel:3.90
+  vendors:3.88
+  huge:3.87
+  abraham:2.55
+  order:2.52
+  scenarios:1.88
+  greatfullydeadicated:1.88
+  transactions:1.88
+  amount:1.88
+
+Topic 1:
+  order:8.45
+  love:5.06
+  avengers:4.39
+  alphabay:3.18
+  quote:3.07
+  post:2.44
+  work:2.42
+  wanting:2.41
+  november:2.39
+  hope:2.20
+
+Topic 2:
+  email:21.19
+  november:10.89
+  day:9.23
+  nucleus:8.13
+  messages:7.41
+  amquote:5.69
+  gratefullydeadicated:5.65
+  establish:5.07
+  needless:5.06
+  couple:5.03
+
+Topic 3:
+  sheet:19.76
+  vendor:12.46
+  blotters:11.78
+  contacted:8.22
+  abraxas:7.83
+  ve:7.78
+  tabs:7.78
+  drop:7.78
+  ordered:7.78
+  sheets:7.78
+
+Topic 4:
+  order:9.20
+  love:3.53
+  stopped:3.14
+  avengers:2.94
+  quote:2.60
+  hope:2.53
+  alphabay:2.48
+  sucks:2.37
+  days:2.29
+  times:2.27
+
+K: 5, Log-Likelihood: -4588.678, Alpha: 11.000, Beta: 1.100

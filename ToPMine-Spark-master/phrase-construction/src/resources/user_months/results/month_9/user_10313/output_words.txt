@@ -1,0 +1,61 @@
+Topic 0:
+  learning:1.39
+  start:1.32
+  server:1.27
+  years:1.27
+  market:1.26
+  good:0.93
+  php:0.69
+  learn:0.61
+  secure:0.59
+  things:0.55
+
+Topic 1:
+  php:1.33
+  good:0.91
+  start:0.89
+  learning:0.84
+  things:0.77
+  learn:0.57
+  secure:0.57
+  check:0.50
+  years:0.32
+  market:0.32
+
+Topic 2:
+  php:2.24
+  databases:1.81
+  sql:1.73
+  things:1.33
+  alert:1.09
+  cross:0.77
+  login:0.76
+  stuff:0.76
+  plenty:0.76
+  mind:0.76
+
+Topic 3:
+  good:1.01
+  php:0.98
+  start:0.84
+  learning:0.81
+  things:0.73
+  secure:0.60
+  learn:0.57
+  check:0.48
+  sql:0.32
+  databases:0.32
+
+Topic 4:
+  php:2.77
+  things:1.62
+  sql:1.51
+  databases:1.43
+  alert:1.24
+  script:0.71
+  eat:0.71
+  types:0.71
+  steal:0.71
+  tutorials:0.70
+
+K: 5, Log-Likelihood: -630.013, Alpha: 11.000, Beta: 1.100

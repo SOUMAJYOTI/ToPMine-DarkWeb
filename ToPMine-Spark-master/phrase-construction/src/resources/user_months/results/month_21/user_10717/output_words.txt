@@ -1,0 +1,61 @@
+Topic 0:
+  tor:1.24
+  proxy:0.70
+  browser:0.62
+  torbrowser:0.38
+  sites:0.38
+  access:0.38
+  onion:0.37
+  le:0.21
+  territorygr:0.21
+  totally:0.21
+
+Topic 1:
+  tor:1.13
+  proxy:0.82
+  browser:0.60
+  torbrowser:0.41
+  sites:0.41
+  onion:0.40
+  access:0.40
+  secured:0.20
+  meaning:0.20
+  avoid:0.20
+
+Topic 2:
+  tor:1.14
+  proxy:0.75
+  browser:0.66
+  onion:0.40
+  access:0.38
+  sites:0.37
+  torbrowser:0.36
+  save:0.21
+  remain:0.21
+  lot:0.21
+
+Topic 3:
+  tor:1.28
+  proxy:0.83
+  browser:0.54
+  torbrowser:0.45
+  access:0.43
+  sites:0.42
+  onion:0.40
+  good:0.21
+  avoid:0.21
+  service:0.21
+
+Topic 4:
+  tor:1.22
+  proxy:0.89
+  browser:0.57
+  onion:0.43
+  sites:0.42
+  access:0.42
+  torbrowser:0.40
+  party:0.21
+  site:0.21
+  bundle:0.21
+
+K: 5, Log-Likelihood: -212.230, Alpha: 11.000, Beta: 1.100

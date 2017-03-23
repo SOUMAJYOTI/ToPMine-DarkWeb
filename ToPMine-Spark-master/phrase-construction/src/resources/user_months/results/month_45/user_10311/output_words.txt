@@ -1,0 +1,61 @@
+Topic 0:
+  pmquote:3.26
+  enigma:2.46
+  lord:2.39
+  rings:2.26
+  professional:2.23
+  tor:1.99
+  quote:1.77
+  week:1.71
+  good:1.50
+  lol:1.49
+
+Topic 1:
+  gollum:5.35
+  gandalf:4.82
+  enigma:3.56
+  pmquote:3.13
+  quote:2.96
+  fact:2.90
+  usual:2.88
+  withdraw:2.88
+  problems:2.83
+  admins:2.78
+
+Topic 2:
+  quote:3.25
+  earth:2.91
+  middle:2.69
+  rings:2.60
+  lord:2.54
+  pmquote:2.47
+  professional:2.33
+  enigma:2.05
+  vixty:1.57
+  pi:1.49
+
+Topic 3:
+  quote:3.20
+  rings:3.03
+  pmquote:3.02
+  lord:2.90
+  professional:2.17
+  middle:1.98
+  javascript:1.90
+  enigma:1.80
+  earth:1.74
+  dnm:1.36
+
+Topic 4:
+  market:11.06
+  ddos:5.56
+  attacks:3.87
+  application:3.87
+  level:3.87
+  time:3.31
+  nucleus:3.23
+  le:3.07
+  markets:3.01
+  number:2.63
+
+K: 5, Log-Likelihood: -2627.980, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  wasn:0.08
+  times:0.00
+  vendor:0.00
+  service:0.00
+  kind:0.00
+  humbleservant:0.00
+  multiply:0.00
+  experience:0.00
+  good:0.00
+  nice:0.00
+
+Topic 1:
+  wasn:0.08
+  times:0.00
+  vendor:0.00
+  service:0.00
+  kind:0.00
+  humbleservant:0.00
+  multiply:0.00
+  experience:0.00
+  good:0.00
+  nice:0.00
+
+Topic 2:
+  wasn:0.08
+  times:0.00
+  vendor:0.00
+  service:0.00
+  kind:0.00
+  humbleservant:0.00
+  multiply:0.00
+  experience:0.00
+  good:0.00
+  nice:0.00
+
+Topic 3:
+  wasn:0.08
+  times:0.00
+  vendor:0.00
+  service:0.00
+  kind:0.00
+  humbleservant:0.00
+  multiply:0.00
+  experience:0.00
+  good:0.00
+  nice:0.00
+
+Topic 4:
+  wasn:0.08
+  times:0.00
+  vendor:0.00
+  service:0.00
+  kind:0.00
+  humbleservant:0.00
+  multiply:0.00
+  experience:0.00
+  good:0.00
+  nice:0.00
+
+K: 5, Log-Likelihood: -0.824, Alpha: 11.000, Beta: 1.100

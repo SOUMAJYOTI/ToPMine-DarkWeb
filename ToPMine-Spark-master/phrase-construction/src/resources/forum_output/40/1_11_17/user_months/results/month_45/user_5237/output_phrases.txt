@@ -1,0 +1,61 @@
+Topic 0:
+  buy:0.55
+  kinda:0.34
+  thought:0.34
+  site:0.34
+  deep web:0.34
+  lols:0.33
+  applies:0.33
+  surf:0.33
+  teach:0.33
+  lot:0.33
+
+Topic 1:
+  buy:0.57
+  kinda:0.34
+  site:0.34
+  deep web:0.34
+  thought:0.34
+  lot:0.33
+  applies:0.33
+  surf:0.33
+  laugh:0.33
+  pretty:0.33
+
+Topic 2:
+  buy:0.49
+  funny:0.34
+  teach:0.34
+  laugh:0.34
+  lot:0.34
+  pretty:0.34
+  applies:0.34
+  surf:0.34
+  lols:0.34
+  deep web:0.34
+
+Topic 3:
+  buy:0.44
+  agora:0.36
+  marketplace:0.36
+  safe:0.36
+  recomend:0.36
+  teach:0.35
+  lols:0.34
+  pretty:0.34
+  funny:0.34
+  laugh:0.34
+
+Topic 4:
+  buy:0.45
+  surf:0.35
+  safe:0.35
+  laugh:0.35
+  recomend:0.35
+  pretty:0.35
+  applies:0.35
+  lols:0.35
+  agora:0.35
+  marketplace:0.35
+
+K: 5, Log-Likelihood: -233.831, Alpha: 11.000, Beta: 1.100

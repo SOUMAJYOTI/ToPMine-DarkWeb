@@ -1,0 +1,61 @@
+Topic 0:
+  remember:5.78
+  worth:3.84
+  stick:3.84
+  life:3.84
+  man:3.84
+  lsd:3.84
+  people:1.94
+  legend:1.89
+  light life:1.89
+  dont:1.89
+
+Topic 1:
+  est:4.43
+  profile:3.79
+  timezone:3.70
+  hand:2.94
+  pct:2.83
+  set:2.83
+  hey:2.83
+  read:2.83
+  settings:1.85
+  west:1.85
+
+Topic 2:
+  forum clock:5.72
+  july:3.53
+  time:2.83
+  amwtf:2.74
+  dateforum:2.74
+  awhile:2.74
+  account:2.74
+  adjust:2.73
+  header:2.72
+  naggin:2.72
+
+Topic 3:
+  positive:2.29
+  vibes:2.25
+  support:1.80
+  type:1.80
+  hang:1.80
+  bud:1.80
+  spiritual:1.80
+  recovery:1.80
+  spirit:1.80
+  recognize:1.80
+
+Topic 4:
+  healing:4.26
+  healing love:3.82
+  brother:3.82
+  ootp:3.64
+  love:2.63
+  evening:2.60
+  sunday:2.60
+  suggesting:2.59
+  pm:2.59
+  prayers:2.59
+
+K: 5, Log-Likelihood: -1948.818, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  customers:0.76
+  photos:0.43
+  samples:0.42
+  merchandise:0.41
+  stock:0.28
+  url:0.28
+  shipping:0.26
+  release:0.26
+  australia:0.26
+  sell:0.26
+
+Topic 1:
+  customers:0.69
+  photos:0.53
+  samples:0.41
+  merchandise:0.41
+  url:0.31
+  stock:0.31
+  feedback:0.24
+  fee:0.24
+  february:0.24
+  rayban:0.24
+
+Topic 2:
+  photos:0.96
+  customers:0.52
+  stock:0.47
+  url:0.46
+  samples:0.39
+  merchandise:0.39
+  specialized:0.22
+  rapid:0.22
+  sportwear:0.22
+  wholesaler:0.22
+
+Topic 3:
+  photos:1.18
+  url:0.52
+  stock:0.51
+  customers:0.47
+  samples:0.38
+  merchandise:0.38
+  professional:0.24
+  china:0.24
+  confidence:0.24
+  delivery:0.24
+
+Topic 4:
+  photos:0.90
+  customers:0.55
+  stock:0.43
+  url:0.43
+  merchandise:0.40
+  samples:0.40
+  expanding:0.21
+  free:0.21
+  growth:0.21
+  business:0.21
+
+K: 5, Log-Likelihood: -191.677, Alpha: 11.000, Beta: 1.100

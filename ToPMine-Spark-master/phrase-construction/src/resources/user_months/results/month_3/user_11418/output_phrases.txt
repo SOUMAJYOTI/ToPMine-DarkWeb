@@ -1,0 +1,61 @@
+Topic 0:
+  markets:3.76
+  small:2.40
+  charity:2.16
+  fe:1.95
+  notion:1.82
+  funds:1.82
+  diffuse:1.82
+  contributing:1.82
+  hurt:1.82
+  traffic:1.82
+
+Topic 1:
+  board:2.49
+  cloud:2.38
+  good:2.02
+  homepage:1.81
+  active:1.81
+  bunch:1.81
+  feel:1.81
+  contact:1.81
+  mind:1.81
+  hey:1.81
+
+Topic 2:
+  store:2.53
+  associate:1.82
+  darkweb:1.82
+  pleasant:1.82
+  women:1.82
+  close:1.82
+  asshole:1.82
+  basically:1.82
+  tone:1.82
+  profanity:1.82
+
+Topic 3:
+  bootstrap:4.07
+  market:2.41
+  february:2.35
+  mdparity:1.83
+  exploits:1.83
+  bugs:1.83
+  putting:1.83
+  karma:1.83
+  irl:1.83
+  effort:1.83
+
+Topic 4:
+  store:5.10
+  vendors:4.14
+  sig:3.64
+  fe:3.40
+  update:2.77
+  customers:2.77
+  search:2.22
+  easier:1.72
+  fee:1.72
+  profits:1.72
+
+K: 5, Log-Likelihood: -1727.678, Alpha: 11.000, Beta: 1.100

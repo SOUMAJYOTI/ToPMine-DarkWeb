@@ -1,0 +1,61 @@
+Topic 0:
+  stick:3.55
+  man:3.55
+  worth:3.55
+  remember:3.55
+  timezone:3.37
+  vibes:2.37
+  life:2.32
+  feed:1.76
+  troubled:1.76
+  struck:1.76
+
+Topic 1:
+  founded:3.55
+  dont:2.90
+  write:1.80
+  outright:1.80
+  general:1.80
+  dont organization:1.80
+  organization:1.80
+  free:1.80
+  time:1.78
+  turns:1.76
+
+Topic 2:
+  healing:3.87
+  brother:3.54
+  healing love:3.54
+  pm:2.40
+  suggesting:2.40
+  sunday:2.40
+  evening:2.39
+  prayers:2.26
+  universe:2.21
+  schedule:2.21
+
+Topic 3:
+  drugs:13.51
+  people:9.48
+  exists:5.25
+  powerful:5.24
+  website:5.20
+  dont lsd:5.18
+  drug:5.04
+  benefit:3.46
+  today:3.46
+  learn:3.46
+
+Topic 4:
+  people:5.50
+  allot:5.35
+  link:5.35
+  led:4.25
+  bad:4.20
+  lsd:3.58
+  ride:3.56
+  post:3.56
+  dunno:3.56
+  grandparents:3.56
+
+K: 5, Log-Likelihood: -8721.719, Alpha: 11.000, Beta: 1.100

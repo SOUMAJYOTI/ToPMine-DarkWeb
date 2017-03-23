@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:0.84
+  places:0.83
+  money:0.57
+  problem:0.34
+  secrets:0.34
+  united:0.34
+  send:0.34
+  anonymously:0.34
+  hard:0.34
+  store:0.34
+
+Topic 1:
+  money:0.44
+  places:0.40
+  bitcoin:0.40
+  check file:0.37
+  enter:0.37
+  bitcoin country:0.30
+  normal:0.27
+  agora:0.27
+  moved:0.27
+  check:0.27
+
+Topic 2:
+  enter:0.49
+  check file:0.49
+  money:0.37
+  places:0.36
+  bitcoin:0.35
+  agora:0.30
+  normal:0.30
+  check:0.28
+  moved:0.28
+  bitcoin country:0.26
+
+Topic 3:
+  check file:0.60
+  enter:0.60
+  money:0.34
+  agora:0.32
+  normal:0.32
+  places:0.29
+  bitcoin:0.29
+  moved:0.28
+  check:0.28
+  triiying:0.27
+
+Topic 4:
+  enter:0.53
+  check file:0.53
+  money:0.36
+  bitcoin:0.32
+  places:0.32
+  agora:0.31
+  normal:0.31
+  check:0.28
+  moved:0.28
+  bitcoin country:0.26
+
+K: 5, Log-Likelihood: -324.351, Alpha: 11.000, Beta: 1.100

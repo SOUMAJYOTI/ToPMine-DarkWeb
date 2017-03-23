@@ -1,0 +1,61 @@
+Topic 0:
+  coins:21.44
+  exchange:8.91
+  buy:6.79
+  le:6.33
+  online:5.91
+  share:5.91
+  mix:5.91
+  option:5.91
+  good:5.24
+  btc:4.19
+
+Topic 1:
+  trade:8.88
+  trust:5.94
+  service:4.33
+  proceed:3.94
+  risk:3.94
+  moneypak:3.94
+  publicly:3.94
+  escrow:3.94
+  interested:3.48
+  pretty:3.33
+
+Topic 2:
+  pgp:1.46
+  international:1.23
+  required:1.06
+  send:1.03
+  contact:0.63
+  le:0.56
+  analysis:0.42
+  standard:0.39
+  ew:0.37
+  dv:0.37
+
+Topic 3:
+  key:5.56
+  analysis:5.51
+  public:3.58
+  block:3.58
+  eur:3.58
+  substances:3.57
+  quantification:3.57
+  price:3.57
+  azs:3.56
+  dv:3.56
+
+Topic 4:
+  link:2.58
+  people:2.52
+  tor:2.43
+  markup:1.67
+  localbitcoins:1.63
+  direct:1.61
+  great:1.60
+  guys:1.54
+  check:1.54
+  mdma:1.49
+
+K: 5, Log-Likelihood: -7078.470, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  subgraph:28.15
+  people:16.94
+  security:8.96
+  safe switch:8.46
+  community guys:8.46
+  security people:8.46
+  quote kmf march:7.41
+  kmf march:6.18
+  clean:5.03
+  squeaky:5.03
+
+Topic 1:
+  crypt:4.99
+  dns:4.99
+  quote:4.51
+  eyes:4.19
+  cool:4.19
+  incriminating:4.19
+  ill:4.19
+  lot:4.19
+  feels:4.19
+  independently:4.19
+
+Topic 2:
+  contacts:10.07
+  time:6.26
+  subgraph os:6.16
+  rbac pax:5.40
+  wait:5.31
+  router:5.02
+  configuring:5.02
+  manual:5.02
+  network:5.02
+  ricochet:5.02
+
+Topic 3:
+  memory:15.14
+  system:15.01
+  learning mode:12.62
+  rbac:10.09
+  grsec:9.37
+  access controls:7.57
+  protection:7.57
+  tor:5.27
+  user:5.13
+  grsec called:5.04
+
+Topic 4:
+  atom quantum computer:10.09
+  atoms:7.57
+  number:7.57
+  quartus:5.04
+  computer:5.04
+  scientists:5.04
+  computers:5.04
+  today:5.04
+  traditional encryption:5.04
+  trap:5.04
+
+K: 5, Log-Likelihood: -13949.768, Alpha: 11.000, Beta: 1.100

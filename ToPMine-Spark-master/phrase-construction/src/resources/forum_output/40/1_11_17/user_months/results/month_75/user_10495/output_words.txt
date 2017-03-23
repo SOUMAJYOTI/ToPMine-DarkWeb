@@ -1,0 +1,61 @@
+Topic 0:
+  retirement:2.67
+  bet:2.53
+  month:2.43
+  exit:2.34
+  ago:1.89
+  market:1.71
+  gut:1.67
+  nucleus:1.56
+  wrong:1.24
+  cliff:1.23
+
+Topic 1:
+  market:2.43
+  month:2.25
+  bet:2.11
+  retirement:2.07
+  nucleus:1.81
+  exit:1.59
+  gut:1.30
+  ago:1.19
+  wrong:1.07
+  running:1.03
+
+Topic 2:
+  market:2.65
+  nucleus:1.49
+  dont:1.15
+  hope:1.11
+  quote:1.08
+  wrong:1.04
+  bet:0.94
+  month:0.89
+  retirement:0.85
+  february:0.71
+
+Topic 3:
+  market:2.28
+  quote:1.69
+  dont:1.35
+  alphabay:1.29
+  wrong:1.24
+  hope:1.23
+  amnucleus:1.21
+  central:1.21
+  wracking:1.21
+  january:1.21
+
+Topic 4:
+  article:1.79
+  email:1.79
+  dont:1.44
+  reading:1.33
+  market:0.93
+  people:0.82
+  hacker:0.81
+  wide:0.81
+  read:0.81
+  passwords:0.81
+
+K: 5, Log-Likelihood: -1403.307, Alpha: 11.000, Beta: 1.100

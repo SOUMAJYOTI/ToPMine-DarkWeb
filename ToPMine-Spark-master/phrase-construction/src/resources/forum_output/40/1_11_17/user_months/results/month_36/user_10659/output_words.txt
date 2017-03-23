@@ -1,0 +1,61 @@
+Topic 0:
+  tails:1.99
+  upgrade:1.16
+  clone:0.80
+  flashdrive:0.65
+  version:0.63
+  iso:0.61
+  select:0.58
+  drive:0.41
+  inthen:0.41
+  device:0.41
+
+Topic 1:
+  tails:3.90
+  upgrade:1.13
+  clone:0.81
+  version:0.60
+  flashdrive:0.60
+  select:0.59
+  iso:0.58
+  choose:0.40
+  drive:0.40
+  installerwhen:0.40
+
+Topic 2:
+  tails:3.12
+  upgrade:1.25
+  clone:0.82
+  select:0.60
+  flashdrive:0.59
+  version:0.58
+  iso:0.58
+  released:0.41
+  boot:0.40
+  device:0.40
+
+Topic 3:
+  tails:2.40
+  upgrade:1.29
+  clone:0.76
+  iso:0.65
+  select:0.61
+  version:0.61
+  flashdrive:0.59
+  certificate:0.41
+  applications:0.41
+  inthen:0.40
+
+Topic 4:
+  tails:3.59
+  upgrade:1.17
+  clone:0.80
+  select:0.61
+  iso:0.58
+  version:0.58
+  flashdrive:0.57
+  january:0.40
+  boot:0.40
+  flash:0.40
+
+K: 5, Log-Likelihood: -446.399, Alpha: 11.000, Beta: 1.100

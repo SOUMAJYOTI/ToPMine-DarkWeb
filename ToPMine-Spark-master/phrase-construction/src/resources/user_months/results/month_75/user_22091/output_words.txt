@@ -1,0 +1,61 @@
+Topic 0:
+  valhalla:1.92
+  earn:1.68
+  invite:1.68
+  bonus:1.67
+  ad:1.67
+  increase:1.67
+  market:1.33
+  find:1.28
+  users:1.28
+  vendors:1.07
+
+Topic 1:
+  valhalla:3.02
+  market:2.69
+  silkkitie:1.99
+  english:1.86
+  markets:1.04
+  multisig:0.81
+  discussion:0.81
+  forum:0.80
+  top:0.76
+  noticed:0.65
+
+Topic 2:
+  ve:4.87
+  markets:2.90
+  vendors:2.37
+  buyers:2.34
+  admin:1.88
+  lot:1.88
+  valhalla:1.64
+  great:1.41
+  find:1.32
+  site:1.12
+
+Topic 3:
+  market:3.19
+  valhalla:2.68
+  silkkitie:2.60
+  markets:2.06
+  discussion:1.75
+  english:1.60
+  top:1.19
+  thread:1.07
+  security:1.04
+  forum:1.00
+
+Topic 4:
+  market:3.19
+  established:2.48
+  markets:2.48
+  security:2.43
+  thread:2.40
+  discussion:2.16
+  silkkitie:1.75
+  valhalla:1.75
+  top:1.73
+  large:1.07
+
+K: 5, Log-Likelihood: -1552.608, Alpha: 11.000, Beta: 1.100

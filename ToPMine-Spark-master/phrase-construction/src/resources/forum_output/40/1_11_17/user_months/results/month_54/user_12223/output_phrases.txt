@@ -1,0 +1,61 @@
+Topic 0:
+  kamaa:0.08
+  reilusti:0.08
+  tulkaa:0.08
+  rehtutukku:0.08
+  pois:0.08
+  tuli:0.08
+  oy:0.08
+  viek:0.08
+  ostoksille:0.08
+  rehellist:0.08
+
+Topic 1:
+  pmeik:0.08
+  quote:0.08
+  rehellist:0.08
+  varmoja:0.08
+  dy:0.08
+  rehtitukku:0.08
+  ytyv:0.08
+  st:0.08
+  tosiaan:0.08
+  suomenmaasta:0.08
+
+Topic 2:
+  rehtutukku:0.08
+  tulkaa:0.08
+  oy:0.08
+  tuli:0.08
+  pois:0.08
+  kamaa:0.08
+  reilusti:0.08
+  viek:0.08
+  april:0.08
+  dy:0.08
+
+Topic 3:
+  tuli:0.08
+  viek:0.08
+  tulkaa:0.08
+  reilusti:0.08
+  rehtutukku:0.08
+  pois:0.08
+  oy:0.08
+  ostoksille:0.08
+  subua:0.08
+  kamaa:0.08
+
+Topic 4:
+  pmeik:0.08
+  tervetuloa:0.08
+  quote:0.08
+  tosiaan:0.08
+  suomenmaasta:0.08
+  ytyv:0.08
+  ostoksille:0.08
+  kyll:0.08
+  rehtitukkku:0.08
+  vendoreita:0.08
+
+K: 5, Log-Likelihood: -34.569, Alpha: 11.000, Beta: 1.100

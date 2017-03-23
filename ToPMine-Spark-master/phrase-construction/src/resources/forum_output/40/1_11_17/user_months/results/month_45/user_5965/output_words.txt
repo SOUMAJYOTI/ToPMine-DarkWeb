@@ -1,0 +1,61 @@
+Topic 0:
+  find:1.48
+  sigaint:1.30
+  lelantos:1.10
+  mail:1.02
+  email:0.80
+  service:0.78
+  good:0.74
+  safe:0.70
+  riseup:0.53
+  choice:0.53
+
+Topic 1:
+  guys:1.48
+  sigaint:1.46
+  thread:1.43
+  mail:1.10
+  find:1.09
+  lelantos:0.96
+  safe:0.88
+  good:0.87
+  delete:0.84
+  beginners:0.62
+
+Topic 2:
+  sigaint:1.38
+  find:1.18
+  lelantos:1.14
+  guys:0.99
+  mail:0.98
+  thread:0.97
+  safe:0.83
+  good:0.79
+  delete:0.74
+  email:0.55
+
+Topic 3:
+  mail:1.64
+  service:1.63
+  email:1.62
+  lelantos:1.56
+  find:0.97
+  safe:0.80
+  good:0.79
+  tor:0.69
+  time:0.68
+  month:0.68
+
+Topic 4:
+  find:1.29
+  mail:1.26
+  lelantos:1.24
+  sigaint:1.23
+  good:0.81
+  safe:0.79
+  thread:0.77
+  guys:0.72
+  service:0.67
+  email:0.64
+
+K: 5, Log-Likelihood: -488.112, Alpha: 11.000, Beta: 1.100

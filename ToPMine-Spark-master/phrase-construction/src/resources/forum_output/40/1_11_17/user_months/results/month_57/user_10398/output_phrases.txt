@@ -1,0 +1,61 @@
+Topic 0:
+  edibles:0.81
+  infused:0.61
+  markets:0.55
+  listed:0.42
+  rso:0.41
+  quality:0.41
+  pack:0.41
+  punch:0.41
+  oil:0.41
+  pure:0.41
+
+Topic 1:
+  edibles:0.65
+  markets:0.48
+  infused:0.46
+  pack:0.33
+  oil:0.33
+  cannabutter:0.33
+  pure:0.33
+  market:0.33
+  items:0.33
+  listed:0.33
+
+Topic 2:
+  edibles:0.65
+  markets:0.47
+  infused:0.47
+  pack:0.33
+  pure:0.33
+  cannabutter:0.33
+  items:0.33
+  listed:0.32
+  oil:0.32
+  punch:0.32
+
+Topic 3:
+  edibles:0.90
+  infused:0.80
+  markets:0.61
+  market:0.49
+  quality:0.48
+  punch:0.48
+  items:0.48
+  rso:0.48
+  cannabutter:0.48
+  oil:0.48
+
+Topic 4:
+  edibles:0.56
+  markets:0.45
+  infused:0.40
+  pure:0.29
+  listed:0.29
+  rso:0.29
+  pack:0.29
+  oil:0.29
+  cannabutter:0.29
+  quality:0.29
+
+K: 5, Log-Likelihood: -596.366, Alpha: 11.000, Beta: 1.100

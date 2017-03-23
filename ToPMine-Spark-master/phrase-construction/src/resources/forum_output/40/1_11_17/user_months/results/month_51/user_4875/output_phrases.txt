@@ -1,0 +1,61 @@
+Topic 0:
+  btc:14.66
+  refresh order status:8.28
+  send vendor:8.28
+  pay shield:6.63
+  failure:4.12
+  confirmations received:4.12
+  time pay:4.12
+  statute:4.12
+  payshield:4.12
+  power:4.12
+
+Topic 1:
+  jean luc:5.16
+  problem:4.93
+  young:4.93
+  money:4.93
+  hacked:4.91
+  time:4.55
+  trust:4.11
+  interested:3.97
+  feedback:3.97
+  javascript:3.97
+
+Topic 2:
+  pay shield:6.82
+  work:5.33
+  small amounts:4.74
+  wallet sending:4.73
+  address:4.28
+  captcha arrived:4.11
+  yesterday mix:4.11
+  fine read:4.11
+  showing:4.11
+  online:4.11
+
+Topic 3:
+  method:7.44
+  light version:7.44
+  amount:5.59
+  exchanges:4.95
+  version:4.95
+  transaction:4.95
+  btchelix:4.95
+  withdrawal:4.95
+  deposits:4.95
+  user:4.95
+
+Topic 4:
+  list:5.24
+  url signed declaration proof:4.44
+  ability pay:4.44
+  great tool enhance privacy:4.44
+  sigaint email address:4.43
+  bq xypji owzsgliydk tznqkekn:4.43
+  lineage features pay shield:4.43
+  email pgp signed message:4.42
+  latest sigaint service:4.42
+  launching introductory rate official:4.41
+
+K: 5, Log-Likelihood: -8181.287, Alpha: 11.000, Beta: 1.100

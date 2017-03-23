@@ -1,0 +1,61 @@
+Topic 0:
+  isolation:33.99
+  encryption:20.99
+  virtual:16.99
+  tor:16.28
+  applications:15.39
+  physical:13.99
+  english:13.70
+  step:12.40
+  translations:12.14
+  code:11.53
+
+Topic 1:
+  stylometry:48.37
+  writing:26.93
+  adversaries:23.58
+  style:19.95
+  work:17.10
+  methods:14.75
+  authors:12.40
+  authorship:11.76
+  techniques:10.42
+  field:8.97
+
+Topic 2:
+  writing:22.27
+  author:21.94
+  style:15.89
+  english:14.98
+  brennan:12.71
+  passages:12.40
+  participants:12.35
+  machine:11.60
+  greenstadt:11.60
+  corpus:11.50
+
+Topic 3:
+  stylometry:14.09
+  privacy:8.83
+  style:7.57
+  writing:7.39
+  sentences:6.30
+  bob:5.99
+  company:5.99
+  shorter:5.96
+  alice:5.31
+  participants:5.25
+
+Topic 4:
+  approach:30.25
+  set:27.63
+  authors:25.97
+  writeprints:22.01
+  feature:21.30
+  passages:18.88
+  precision:13.95
+  features:12.89
+  methods:12.21
+  state:11.92
+
+K: 5, Log-Likelihood: -32277.943, Alpha: 11.000, Beta: 1.100

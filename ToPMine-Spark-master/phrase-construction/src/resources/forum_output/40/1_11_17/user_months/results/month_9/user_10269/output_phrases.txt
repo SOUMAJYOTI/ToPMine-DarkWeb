@@ -1,0 +1,61 @@
+Topic 0:
+  thread:2.59
+  grand:2.29
+  feeling:2.25
+  stickied:2.25
+  traffic:2.24
+  quote:2.24
+  buyers:1.74
+  lair:1.62
+  finest:1.62
+  torrent:1.62
+
+Topic 1:
+  flaxceed:1.33
+  house:1.11
+  dr:1.07
+  wizard:0.84
+  buyers:0.77
+  real:0.60
+  pmare:0.60
+  yep:0.59
+  thread:0.49
+  offers:0.31
+
+Topic 2:
+  eat:8.82
+  brazil nuts:7.52
+  day mcgday:5.37
+  drink:4.83
+  walk:4.22
+  body:4.11
+  lose weight:4.11
+  watermelon:4.05
+  helps feel:4.03
+  metabolism:4.00
+
+Topic 3:
+  drink:1.95
+  day mcgday:1.41
+  weight loss:1.38
+  eat:1.37
+  people:1.35
+  fat free:1.26
+  losing weight:1.25
+  full:1.17
+  find:1.13
+  lose weight:1.11
+
+Topic 4:
+  flax:20.37
+  capsules:8.41
+  appetite:6.75
+  flax testosterone:6.74
+  flax generic:5.04
+  anti estrogen:5.04
+  size pill:3.86
+  cycle flax:3.34
+  flax clenbuterol:3.34
+  popular:3.34
+
+K: 5, Log-Likelihood: -6995.372, Alpha: 11.000, Beta: 1.100

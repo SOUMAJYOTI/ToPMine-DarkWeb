@@ -1,0 +1,61 @@
+Topic 0:
+  tx:1.71
+  redditnever:1.47
+  heyare:1.46
+  work hidden:1.46
+  alive:1.46
+  ideas:1.46
+  book:1.46
+  black:1.46
+  log:1.46
+  bitcointalk:1.46
+
+Topic 1:
+  darknet:2.31
+  move:2.30
+  dont:2.30
+  login:2.30
+  understand:2.30
+  facebook:2.30
+  turned:2.29
+  wise:2.29
+  hear:1.95
+  crazy:1.60
+
+Topic 2:
+  reddit code:2.53
+  funny:2.53
+  sortening:2.53
+  clones:2.53
+  bothered:2.53
+  redditthose:2.53
+  brain:2.53
+  js:2.53
+  features:2.53
+  teddit:2.53
+
+Topic 3:
+  teammates hard work:1.38
+  humankind respect:1.37
+  pmthank:1.37
+  providing improved financial anonymity:1.36
+  innovation:1.34
+  december:1.16
+  quote:1.14
+  happy:0.86
+  love:0.85
+  nice:0.85
+
+Topic 4:
+  dash:5.06
+  thread:3.47
+  updates:3.47
+  wiki:3.47
+  tor:1.91
+  official:1.91
+  working:1.91
+  chat galaxy:1.72
+  works:1.70
+  dn:1.70
+
+K: 5, Log-Likelihood: -1176.298, Alpha: 11.000, Beta: 1.100

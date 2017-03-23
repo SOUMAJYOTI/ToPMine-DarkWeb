@@ -1,0 +1,61 @@
+Topic 0:
+  north korea:1.10
+  peoples:0.90
+  republicdread:0.90
+  robertscoincidence:0.90
+  democratic:0.89
+  pirate:0.89
+  rhino horns:0.82
+  beat:0.78
+  slaves:0.78
+  fuckers:0.78
+
+Topic 1:
+  market:3.77
+  market admin:3.14
+  figured:3.01
+  hosted:1.94
+  ideas:1.53
+  death:1.53
+  deutschlanduberalles:1.53
+  squad:1.53
+  rich:1.53
+  place:1.53
+
+Topic 2:
+  joke:4.06
+  site:2.34
+  dont real:1.89
+  good:1.82
+  condone:1.78
+  check:1.73
+  government:1.73
+  state sponsored dnm:1.66
+  north korea:0.95
+  realpolitik:0.83
+
+Topic 3:
+  site:2.39
+  joke:1.70
+  check:1.24
+  condone:1.23
+  dont real:1.20
+  government:1.19
+  state sponsored dnm:1.08
+  good:1.06
+  north korea:1.00
+  rhino horns:0.70
+
+Topic 4:
+  joke:2.05
+  site:1.70
+  state sponsored dnm:1.52
+  government:1.40
+  good:1.38
+  north korea:1.30
+  check:1.30
+  condone:1.27
+  dont real:1.23
+  wouldn:0.66
+
+K: 5, Log-Likelihood: -2524.997, Alpha: 11.000, Beta: 1.100

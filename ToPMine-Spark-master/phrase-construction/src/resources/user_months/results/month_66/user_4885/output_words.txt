@@ -1,0 +1,61 @@
+Topic 0:
+  programs:0.63
+  tools:0.60
+  network:0.41
+  services:0.40
+  system:0.40
+  advanced:0.20
+  newsid:0.20
+  exorburn:0.20
+  addition:0.20
+  kill:0.20
+
+Topic 1:
+  tools:0.60
+  programs:0.58
+  system:0.40
+  services:0.40
+  network:0.39
+  beginners:0.20
+  rogers:0.20
+  good:0.20
+  security:0.20
+  jolly:0.20
+
+Topic 2:
+  tools:0.57
+  programs:0.57
+  system:0.39
+  services:0.38
+  network:0.38
+  start:0.21
+  doubts:0.21
+  place:0.21
+  good:0.21
+  rogers:0.21
+
+Topic 3:
+  programs:0.65
+  tools:0.64
+  network:0.42
+  services:0.41
+  system:0.41
+  perform:0.20
+  change:0.20
+  blocking:0.20
+  install:0.20
+  surveillance:0.20
+
+Topic 4:
+  tools:0.60
+  programs:0.58
+  system:0.40
+  services:0.40
+  network:0.40
+  place:0.20
+  jolly:0.20
+  thread:0.20
+  security:0.20
+  good:0.20
+
+K: 5, Log-Likelihood: -185.407, Alpha: 11.000, Beta: 1.100

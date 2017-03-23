@@ -1,0 +1,61 @@
+Topic 0:
+  host:0.77
+  tor:0.58
+  mention:0.57
+  provider:0.55
+  hosting:0.54
+  commercial:0.52
+  onion:0.34
+  quality:0.31
+  thoughts:0.26
+  leas:0.26
+
+Topic 1:
+  host:0.83
+  mention:0.58
+  tor:0.54
+  commercial:0.52
+  hosting:0.43
+  provider:0.42
+  quality:0.33
+  onion:0.33
+  king:0.27
+  xanax:0.27
+
+Topic 2:
+  host:0.86
+  servers:0.78
+  tor:0.64
+  hosts:0.62
+  dedicated:0.58
+  quality:0.46
+  onion:0.43
+  ecatel:0.40
+  hosting:0.34
+  provider:0.34
+
+Topic 3:
+  hosts:2.66
+  servers:2.45
+  dedicated:1.78
+  ecatel:1.06
+  host:0.73
+  tor:0.60
+  quality:0.55
+  onion:0.54
+  cheap:0.43
+  doesnt:0.43
+
+Topic 4:
+  host:0.80
+  tor:0.64
+  provider:0.50
+  hosting:0.50
+  commercial:0.46
+  mention:0.45
+  onion:0.37
+  quality:0.35
+  servers:0.29
+  hosts:0.27
+
+K: 5, Log-Likelihood: -513.321, Alpha: 11.000, Beta: 1.100

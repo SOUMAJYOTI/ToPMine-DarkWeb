@@ -1,0 +1,61 @@
+Topic 0:
+  thing:0.62
+  info:0.62
+  day:0.60
+  cc:0.60
+  teacher:0.60
+  basically:0.60
+  break:0.60
+  bin:0.60
+  card:0.59
+  numbers:0.59
+
+Topic 1:
+  basically:0.61
+  thing:0.61
+  numbers:0.60
+  break:0.60
+  info:0.60
+  day:0.60
+  bin:0.60
+  teacher:0.60
+  card:0.59
+  cc:0.58
+
+Topic 2:
+  day:0.61
+  card:0.61
+  break:0.61
+  teacher:0.60
+  thing:0.60
+  cc:0.60
+  numbers:0.60
+  bin:0.59
+  basically:0.59
+  info:0.59
+
+Topic 3:
+  cc:0.62
+  bin:0.61
+  teacher:0.61
+  info:0.60
+  break:0.60
+  card:0.59
+  day:0.59
+  basically:0.59
+  numbers:0.59
+  thing:0.58
+
+Topic 4:
+  numbers:0.62
+  card:0.62
+  basically:0.61
+  cc:0.60
+  bin:0.60
+  day:0.60
+  break:0.60
+  info:0.60
+  teacher:0.59
+  thing:0.58
+
+K: 5, Log-Likelihood: -143.897, Alpha: 11.000, Beta: 1.100

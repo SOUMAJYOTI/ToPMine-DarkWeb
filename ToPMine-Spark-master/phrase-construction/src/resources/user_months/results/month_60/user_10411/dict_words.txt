@@ -1,0 +1,610 @@
+year,0,2
+allowed,1,3
+innocent,2,2
+hasnt,3,1
+shakes,4,2
+yeah,5,1
+plague,6,1
+sensitive work,7,1
+quote,8,5
+felons,9,1
+unmask amount,10,1
+knowledge,11,1
+researchers paid,12,1
+xen hypervisor,13,1
+bug researchers,14,1
+july,15,1
+require,16,1
+personal,17,2
+project managers,18,2
+writes researchers,19,1
+analysis,20,2
+community,21,2
+version,22,1
+hidden services,23,2
+canceled,24,1
+services users,25,1
+redesign,26,1
+left,27,1
+guest,28,2
+institute,29,2
+telling,30,1
+compare,31,1
+providing,32,1
+weeks,33,2
+independent,34,1
+alleged,35,1
+subsequently,36,1
+road drug,37,1
+result,38,1
+guy nice,39,3
+coding,40,1
+accusing,41,1
+systems,42,4
+offered,43,2
+civil,44,1
+wednesday,45,2
+guests break,46,1
+network attack,47,1
+customers,48,1
+computers,49,1
+hand,50,1
+lurking,51,1
+sweep,52,1
+unmask users,53,1
+website,54,2
+kvm,55,1
+sets,56,1
+dots,57,1
+fastest,58,1
+pulled,59,1
+majorfame,60,2
+thursday,61,2
+carnegie mellon attack,62,2
+violating,63,1
+practices,64,1
+researchers qubes,65,1
+road statement,66,1
+subtle,67,1
+police,68,1
+answer,69,2
+invasion,70,2
+precedent,71,1
+qubes operating,72,1
+concludes,73,1
+exploit,74,1
+paravirtualization,75,2
+opsec,76,1
+november,77,4
+de,78,1
+evidence,79,3
+ethics,80,1
+gov,81,1
+bet,82,1
+implacable,83,1
+tor users,84,5
+legal,85,1
+markets tor,86,1
+talk,87,1
+work vulnerability,88,1
+info,89,1
+richard,90,1
+wrote,91,3
+finally,92,1
+motherboard,93,1
+enforcement,94,5
+pay,95,1
+consent,96,1
+users,97,14
+critical researchers,98,1
+lack,99,1
+exploited,100,1
+piece,101,1
+outsourcing,102,2
+europol,103,1
+parts,104,1
+exchange,105,1
+shocking,106,2
+software amazon,107,1
+trust,108,1
+virtual,109,2
+confined,110,1
+technique paid,111,1
+additional,112,1
+origin,113,1
+endless,114,1
+veneer,115,1
+deanonymise drug mkt users,116,3
+tang,117,2
+desktop,118,1
+flows,119,1
+fbi unmask,120,1
+confirms,121,1
+secret fbi,122,1
+confines,123,1
+live,124,1
+responded,125,1
+deanonymise drug mkt,126,3
+identify,127,1
+software network,128,1
+paid carnegie,129,1
+multiple,130,1
+agencies,131,1
+unmask,132,3
+prosecutors,133,1
+schedule,134,1
+hub,135,1
+university based,136,1
+tubes,137,3
+service,138,1
+vulnerability allowed,139,2
+detected,140,1
+avon,141,2
+unmask tor,142,1
+vulnerability amazon,143,1
+explain,144,1
+select,145,1
+triggered,146,1
+ago,147,1
+bit,148,2
+entire,149,1
+hope,150,2
+approach,151,1
+crosses,152,1
+years,153,2
+doesnt,154,1
+substantiation,155,1
+thursdays,156,1
+revealed,157,2
+guidelines,158,2
+action,159,2
+hate,160,1
+block,161,1
+mellon guy nice amount,162,3
+endangering,163,1
+advisory,164,1
+researchers,165,6
+director,166,1
+lower,167,1
+sense,168,1
+sensitive,169,3
+underlying,170,2
+fbi attack,171,1
+intel,172,1
+system,173,5
+attack law,174,1
+install,175,1
+farrell,176,4
+reached,177,1
+warned,178,1
+crazy,179,1
+mellon unmask,180,1
+legitimate,181,1
+privacy tor,182,1
+compromised,183,1
+mkt users tor,184,3
+managers,185,3
+larger,186,1
+web drug,187,1
+wait,188,2
+based black,189,1
+nice amount,190,3
+accusations,191,2
+guy,192,3
+operated,193,1
+plate,194,1
+matter,195,1
+asked,196,1
+native,197,1
+tor,198,26
+amount hours work goal,199,3
+carnage mellon attack,200,1
+law enforcement,201,5
+sadly,202,1
+break,203,4
+drugs,204,2
+lover,205,2
+staffer,206,1
+users general,207,3
+attackers,208,1
+draw,209,1
+ethical,210,1
+joking,211,2
+critical vulnerability,212,1
+picture,213,1
+agents,214,1
+thier,215,2
+century,216,1
+hacker,217,1
+system qubes,218,1
+servers researchers,219,1
+machine,220,1
+future,221,1
+prisons,222,1
+attorneys,223,1
+report,224,1
+emerges,225,1
+logic,226,1
+ll,227,1
+instance,228,1
+qubes,229,3
+nice amount hours work,230,3
+political,231,1
+lab,232,1
+roger,233,1
+users researchers,234,1
+platforms,235,1
+anonymization,236,1
+sift,237,1
+high,238,1
+find,239,1
+members,240,2
+west,241,1
+claim,242,1
+mkt users tor users,243,3
+brian,244,3
+directly,245,1
+administrators,246,2
+feds,247,1
+months,248,1
+read,249,2
+including,250,2
+law,251,5
+virtualization,252,2
+paravirtualized,253,1
+tor users general,254,3
+paid fbi,255,1
+real,256,1
+basin,257,1
+fill,258,1
+strangers,259,1
+wired statement,260,1
+friends,261,1
+amazon,262,3
+amazon web,263,1
+handsomely,264,1
+markets,265,3
+boggy,266,1
+arrests,267,1
+drug markets,268,1
+violation,269,1
+flaws,270,1
+users carnegie,271,1
+october,272,2
+bunch,273,1
+allowed guests,274,1
+silk road,275,3
+dozens,276,1
+code,277,1
+tor statement,278,1
+university,279,3
+stalking,280,1
+drug mkt,281,3
+responds,282,1
+technique,283,3
+amount hours work,284,3
+running,285,2
+unwatched,286,1
+nice amount hours,287,3
+men,288,2
+threats,289,1
+department,290,1
+guy nice amount,291,3
+nothin,292,1
+highly,293,1
+keyboard,294,1
+pm carnegie,295,2
+os,296,2
+liberties,297,1
+questioned,298,1
+allowed bug,299,1
+relying,300,1
+users tor users,301,3
+control,302,1
+super,303,1
+anonymous network,304,1
+tor dingledine,305,2
+fbi carnegie,306,1
+university software,307,1
+mere,308,1
+machines,309,1
+tor hidden,310,2
+writes,311,3
+pm,312,3
+silently,313,1
+pv,314,1
+lea,315,1
+led,316,1
+users attack,317,1
+supply,318,1
+users tor,319,4
+patch,320,2
+software tor,321,1
+extremely,322,1
+hows,323,1
+hackers,324,1
+dragnet,325,1
+adviser,326,1
+breaking,327,1
+based,328,4
+deny,329,1
+work goal deanonymise drug,330,3
+havent,331,1
+received,332,1
+mkt users,333,3
+vulnerability,334,7
+cracking,335,1
+quality,336,1
+morning,337,1
+horse,338,1
+pointed,339,1
+patched,340,1
+mellon attack,341,3
+aethon,342,2
+brian farrell,343,2
+advisories,344,1
+paid unmask,345,1
+accuse,346,1
+access,347,2
+uncloak,348,1
+conference,349,2
+frequently,350,1
+experiments,351,1
+hours work goal,352,3
+fist,353,2
+handed,354,1
+long,355,1
+pop,356,1
+xen project,357,3
+referring,358,1
+payment dingledine,359,1
+cve,360,1
+carnage mellon,361,4
+defense,362,1
+desautels,363,1
+attack,364,9
+network silk,365,1
+persist,366,1
+operating,367,5
+arm,368,1
+popular,369,1
+dingledine,370,7
+situation,371,1
+silk,372,3
+goal deanonymise drug mkt,373,3
+st,374,1
+vice,375,1
+invade,376,1
+black,377,3
+services,378,6
+vulnerability public,379,1
+people,380,2
+stay,381,1
+call,382,2
+bug,383,9
+shit,384,1
+takedowns,385,1
+black markets,386,1
+dealer,387,1
+amquote,388,1
+relations,389,1
+operation,390,2
+open,391,1
+pmbeat,392,1
+story,393,1
+qsb,394,1
+circumvent,395,1
+carnegie mellon guy nice,396,3
+excoriates,397,1
+documents,398,2
+qemu,399,1
+project,400,9
+based university,401,1
+rules,402,1
+source,403,1
+users break,404,1
+secure,405,1
+presentation,406,1
+features,407,1
+late,408,1
+funded,409,1
+mkt,410,3
+hat,411,2
+anonymous users,412,1
+notifying,413,1
+crimes,414,1
+researchers wrote,415,1
+guy nice amount hours,416,3
+engineering,417,1
+network university,418,1
+carnage,419,4
+troubling,420,1
+privileged,421,1
+qubes researchers,422,1
+obscure,423,1
+ethically,424,1
+linode,425,1
+worst,426,2
+updated,427,1
+support,428,2
+internet,429,1
+full,430,1
+wired,431,4
+color,432,1
+hidden,433,3
+update,434,1
+privacy,435,3
+admittedly,436,1
+purge,437,1
+updates,438,1
+malicious,439,1
+statement,440,4
+yipee,441,1
+anonymity,442,2
+deanonymise drug,443,3
+users tor users general,444,3
+severity,445,1
+news,446,1
+hours,447,3
+teach,448,1
+suspicion,449,1
+critical bug,450,1
+money,451,1
+security sensitive,452,1
+tor project,453,4
+paid,454,4
+comment,455,2
+time,456,2
+endanger,457,1
+statement tor,458,2
+web services,459,1
+software,460,4
+developers,461,1
+ya,462,1
+competition,463,1
+fair,464,1
+fingers,465,1
+required,466,2
+spotted,467,1
+identified,468,1
+goal deanonymise drug,469,3
+universities,470,1
+road,471,3
+goal deanonymise,472,3
+justify,473,1
+abruptly,474,1
+broad,475,1
+payment,476,3
+hey,477,1
+tenet,478,1
+hardware,479,1
+xen,480,10
+goal,481,4
+russian,482,1
+indexed,483,1
+work,484,5
+operating systems,485,1
+amount hours,486,3
+fbi,487,6
+rumored,488,1
+susceptible,489,1
+november pm,490,3
+mellon,491,14
+mate,492,2
+bug critical,493,1
+system bug,494,1
+work goal,495,3
+love,496,1
+enterprise,497,1
+isolated,498,1
+lol,499,1
+privilege,500,2
+secret,501,4
+drug mkt users,502,3
+carnegie,503,12
+mellon guy,504,3
+academy security,505,1
+mellon servers,506,1
+wholesale,507,1
+mcgraw,508,1
+fall,509,1
+believes,510,2
+web,511,3
+assert,512,1
+dark,513,2
+deanonymise,514,3
+leas,515,1
+criticized,516,1
+anomalous,517,1
+academy,518,3
+include,519,1
+dispute,520,1
+disclosure,521,1
+chain,522,1
+agency,523,1
+restart,524,1
+bigger,525,1
+nice,526,4
+opinion,527,1
+indiscriminately,528,1
+lots,529,1
+xen security,530,2
+site,531,1
+carnegie mellon,532,10
+amount tor,533,1
+fellow,534,2
+anonymous,535,3
+accounts,536,1
+connecting,537,1
+quick,538,2
+lawyers,539,1
+data,540,1
+managers wrote,541,1
+system xen,542,2
+blog,543,1
+escalate,544,1
+hours work goal deanonymise,545,3
+drug,546,6
+cloud,547,2
+reference,548,1
+hit,549,1
+beat,550,1
+disappeared,551,1
+create,552,1
+tor network,553,2
+mechanisms,554,2
+attack technique,555,1
+group,556,1
+development,557,1
+hours work,558,3
+published,559,1
+mails,560,1
+core,561,2
+efforts,562,1
+mellon guy nice,563,3
+safe,564,1
+pinpointing,565,1
+dont,566,4
+contacted,567,1
+critical,568,3
+instances,569,2
+globally,570,1
+crucial,571,1
+investigations,572,1
+work goal deanonymise,573,3
+carnegie mellon guy,574,3
+network,575,5
+aware,576,1
+general,577,3
+dingledine writes,578,3
+security,579,6
+computing,580,2
+declining,581,1
+servers,582,4
+public,583,3
+hypervisor,584,4
+privately,585,1
+profit,586,1
+reboot,587,2
+didn,588,1
+carried,589,1
+attack hidden,590,1
+process,591,1
+stating,592,1
+amount,593,4
+drug mkt users tor,594,3
+disclosed,595,1
+operating system,596,4
+predisclosure,597,1
+resources,598,1
+allowing,599,1
+rethink,600,1
+seeking,601,1
+afternoon,602,1
+contained,603,1
+tor based,604,1
+stolen,605,2
+response,606,1
+guests,607,4
+investigation,608,1
+providers,609,1

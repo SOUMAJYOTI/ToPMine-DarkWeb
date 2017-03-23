@@ -1,0 +1,61 @@
+Topic 0:
+  kiss forum:6.58
+  thread:2.44
+  rational forced encryption:1.88
+  started:1.49
+  mod:1.49
+  simple:1.49
+  logging:1.49
+  link:1.49
+  explain:1.49
+  alright:1.49
+
+Topic 1:
+  kiss marketplace:3.17
+  base:2.74
+  vendors:2.71
+  dw:2.67
+  invitation:1.26
+  forward:1.26
+  reached:1.26
+  number:1.26
+  steadily:1.26
+  user:1.26
+
+Topic 2:
+  march:2.18
+  pretty:2.11
+  dead:2.11
+  quote:1.94
+  ill:1.88
+  reply:1.87
+  jayishere:1.46
+  pmseems:1.46
+  yup:1.46
+  opined:1.46
+
+Topic 3:
+  kiss marketplace:1.62
+  great:1.36
+  marketplace:1.30
+  url:0.78
+  issues:0.75
+  interface:0.68
+  dw:0.66
+  vendors:0.63
+  base:0.60
+  shy:0.41
+
+Topic 4:
+  month:2.20
+  vacation:2.20
+  shipping:2.20
+  mode:2.20
+  employ:2.09
+  rational forced encryption:1.55
+  hope:1.47
+  encryption:1.47
+  biggy:1.47
+  rectified:1.47
+
+K: 5, Log-Likelihood: -1160.839, Alpha: 11.000, Beta: 1.100

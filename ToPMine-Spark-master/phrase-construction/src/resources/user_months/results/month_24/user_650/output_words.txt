@@ -1,0 +1,61 @@
+Topic 0:
+  issue:0.56
+  runner:0.41
+  dont:0.41
+  agora:0.39
+  time:0.38
+  forum:0.29
+  havent:0.28
+  heat:0.25
+  theft:0.25
+  surface:0.25
+
+Topic 1:
+  time:0.64
+  agora:0.58
+  havent:0.42
+  dont:0.41
+  runner:0.39
+  forum:0.38
+  issue:0.37
+  evolution:0.21
+  weird:0.21
+  long:0.21
+
+Topic 2:
+  agora:0.79
+  time:0.73
+  forum:0.52
+  havent:0.46
+  runner:0.40
+  dont:0.38
+  issue:0.30
+  days:0.24
+  ill:0.24
+  totally:0.24
+
+Topic 3:
+  issue:0.48
+  agora:0.46
+  time:0.44
+  runner:0.42
+  dont:0.40
+  forum:0.35
+  havent:0.31
+  reddit:0.23
+  waiting:0.23
+  corners:0.23
+
+Topic 4:
+  time:0.81
+  agora:0.77
+  havent:0.54
+  forum:0.47
+  dont:0.40
+  runner:0.37
+  issue:0.29
+  communicate:0.24
+  hearing:0.24
+  kind:0.24
+
+K: 5, Log-Likelihood: -294.175, Alpha: 11.000, Beta: 1.100

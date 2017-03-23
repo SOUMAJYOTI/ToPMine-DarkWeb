@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:1.44
+  file:1.23
+  persistent:1.12
+  amnesia:0.96
+  select:0.96
+  desktop:0.94
+  click:0.87
+  onion:0.80
+  open:0.77
+  gedit:0.56
+
+Topic 1:
+  electrum:7.21
+  persistent:2.02
+  file:2.00
+  select:1.72
+  amnesia:1.54
+  desktop:1.28
+  click:1.18
+  onion:1.12
+  open:0.83
+  gedit:0.65
+
+Topic 2:
+  electrum:1.85
+  persistent:1.52
+  file:1.41
+  desktop:1.21
+  amnesia:1.18
+  select:1.16
+  click:0.97
+  onion:0.94
+  open:0.82
+  close:0.60
+
+Topic 3:
+  electrum:2.62
+  persistent:1.76
+  select:1.59
+  file:1.55
+  amnesia:1.41
+  desktop:1.13
+  onion:1.04
+  click:1.02
+  open:0.75
+  gedit:0.62
+
+Topic 4:
+  electrum:4.88
+  amnesia:1.90
+  file:1.80
+  persistent:1.58
+  select:1.57
+  desktop:1.44
+  onion:1.11
+  click:0.96
+  open:0.82
+  close:0.63
+
+K: 5, Log-Likelihood: -1112.178, Alpha: 11.000, Beta: 1.100

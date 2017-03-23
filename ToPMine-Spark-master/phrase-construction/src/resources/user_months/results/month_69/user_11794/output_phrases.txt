@@ -1,0 +1,61 @@
+Topic 0:
+  dash:8.99
+  tor:7.13
+  shit:5.53
+  black book:5.32
+  tek:4.84
+  killer:4.84
+  quartus:4.84
+  localbitcoins:4.84
+  wild:4.84
+  ldsh:4.84
+
+Topic 1:
+  social media:11.62
+  chinese:8.57
+  publishing news:8.57
+  social:8.57
+  system:8.57
+  dash:8.21
+  pic:8.16
+  english:5.71
+  decentralized:5.71
+  languages:5.71
+
+Topic 2:
+  scripts:7.71
+  dev:5.62
+  move:5.42
+  quote:5.17
+  december:4.87
+  features:4.86
+  poor:4.86
+  requires js:4.86
+  dont code:4.86
+  js hear:4.86
+
+Topic 3:
+  electrum:14.30
+  wallet:11.44
+  dash:11.26
+  electric dash:10.26
+  trezor:8.57
+  instructions:5.71
+  development:5.71
+  visit:5.71
+  team:5.71
+  people:5.71
+
+Topic 4:
+  quote innovation december:6.31
+  pmthank teammates hard work:6.31
+  providing improved financial anonymity:6.31
+  humankind respect:6.31
+  speech:5.67
+  onion:5.43
+  works:4.99
+  booth:4.83
+  tx:4.79
+  january:4.78
+
+K: 5, Log-Likelihood: -9129.467, Alpha: 11.000, Beta: 1.100

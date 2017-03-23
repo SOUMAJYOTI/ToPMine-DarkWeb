@@ -1,0 +1,61 @@
+Topic 0:
+  dream:1.45
+  vendors:0.42
+  fine:0.40
+  day:0.38
+  clients:0.37
+  work:0.21
+  count:0.21
+  doubled:0.21
+  isn:0.21
+  team:0.21
+
+Topic 1:
+  dream:1.14
+  clients:0.41
+  day:0.41
+  fine:0.39
+  vendors:0.39
+  provided:0.21
+  hub:0.21
+  aspects:0.21
+  long:0.21
+  promoted:0.21
+
+Topic 2:
+  dream:1.18
+  clients:0.40
+  fine:0.40
+  day:0.40
+  vendors:0.40
+  oxymonster:0.20
+  aspects:0.20
+  roger:0.20
+  provided:0.20
+  minimized:0.20
+
+Topic 3:
+  dream:1.07
+  clients:0.42
+  day:0.41
+  fine:0.40
+  vendors:0.39
+  hitting:0.21
+  focusing:0.21
+  admit:0.21
+  nice:0.21
+  role:0.21
+
+Topic 4:
+  dream:1.15
+  day:0.41
+  fine:0.41
+  vendors:0.40
+  clients:0.39
+  active:0.20
+  threw:0.20
+  bond:0.20
+  fast:0.20
+  loving:0.20
+
+K: 5, Log-Likelihood: -281.429, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  january:2.02
+  bitcoin:1.75
+  os:1.25
+  ronin:1.23
+  pgp:1.16
+  export:1.01
+  avatar:1.00
+  quote:0.99
+  key:0.99
+  bring:0.97
+
+Topic 1:
+  bitcoin:2.14
+  january:1.55
+  pgp:1.09
+  ronin:1.03
+  os:0.96
+  private:0.94
+  btw:0.92
+  keyop:0.91
+  bring:0.88
+  quote:0.88
+
+Topic 2:
+  pgp:1.92
+  bitcoin:1.62
+  os:1.37
+  january:1.12
+  ronin:1.01
+  btw:0.86
+  bring:0.86
+  private:0.86
+  quote:0.85
+  export:0.84
+
+Topic 3:
+  pgp:3.16
+  os:1.95
+  january:1.56
+  export:1.06
+  avatar:1.04
+  btw:1.03
+  ronin:1.03
+  key:1.02
+  keyop:1.02
+  bring:1.00
+
+Topic 4:
+  january:2.76
+  ronin:1.71
+  pgp:1.67
+  os:1.48
+  avatar:1.40
+  keyop:1.38
+  private:1.36
+  quote:1.33
+  bring:1.29
+  key:1.29
+
+K: 5, Log-Likelihood: -720.262, Alpha: 11.000, Beta: 1.100

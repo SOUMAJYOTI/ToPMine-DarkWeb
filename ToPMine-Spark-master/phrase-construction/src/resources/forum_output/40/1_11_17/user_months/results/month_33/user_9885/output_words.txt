@@ -1,0 +1,61 @@
+Topic 0:
+  long:2.15
+  scan:1.98
+  phone:1.80
+  enter:1.61
+  number:1.29
+  tumble:1.25
+  palm:0.95
+  real:0.81
+  camera:0.80
+  atm:0.77
+
+Topic 1:
+  safe:4.00
+  phone:3.22
+  guys:1.63
+  verification:1.63
+  youwant:1.63
+  vacation:1.63
+  appreciated:1.63
+  highly:1.63
+  cheap:1.63
+  machine:1.63
+
+Topic 2:
+  bank:3.22
+  long:1.85
+  atm:1.72
+  real:1.69
+  camera:1.63
+  duh:1.46
+  deposit:1.45
+  coinbase:1.45
+  anon:1.45
+  vehicle:1.45
+
+Topic 3:
+  code:9.07
+  scan:4.28
+  receive:4.26
+  wallet:4.21
+  qr:4.12
+  bitcoins:3.43
+  enter:3.40
+  doesnt:2.07
+  mobile:1.85
+  cell:1.85
+
+Topic 4:
+  scan:5.04
+  code:2.27
+  enter:1.92
+  palm:1.80
+  doesnt:1.70
+  long:1.53
+  qr:1.31
+  coins:1.29
+  wallet:1.24
+  receive:1.20
+
+K: 5, Log-Likelihood: -1128.798, Alpha: 11.000, Beta: 1.100

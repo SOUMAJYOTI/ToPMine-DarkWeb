@@ -1,0 +1,61 @@
+Topic 0:
+  invite:1.76
+  link:1.48
+  stolen:1.48
+  neat:1.48
+  rate:1.48
+  dealsvh:1.48
+  coins:1.48
+  register:1.48
+  ab:1.48
+  qau:1.48
+
+Topic 1:
+  vendors:2.52
+  abx:2.26
+  ve:1.59
+  ive:1.44
+  stable:1.13
+  place:1.12
+  personally:1.11
+  searching:1.10
+  overlay:1.10
+  options:1.10
+
+Topic 2:
+  abx:1.79
+  vendors:1.61
+  ive:1.10
+  ve:1.05
+  great:0.94
+  exit:0.85
+  bought:0.85
+  market:0.84
+  kittenhuffer:0.83
+  multisig:0.83
+
+Topic 3:
+  abx:0.88
+  issue:0.87
+  problem:0.80
+  vendors:0.80
+  great:0.80
+  ive:0.62
+  ve:0.53
+  pretty:0.52
+  node:0.51
+  straight:0.51
+
+Topic 4:
+  bad:1.46
+  worked:1.46
+  local:1.46
+  starting:1.45
+  straight:1.43
+  node:1.43
+  onion:0.92
+  machine:0.92
+  times:0.92
+  works:0.92
+
+K: 5, Log-Likelihood: -644.100, Alpha: 11.000, Beta: 1.100

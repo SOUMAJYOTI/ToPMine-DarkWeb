@@ -1,0 +1,61 @@
+Topic 0:
+  time:6.10
+  tails:5.45
+  service:3.76
+  dont:3.75
+  tor:3.26
+  enabled:3.07
+  safe:2.24
+  care:2.17
+  pgp:2.12
+  agree:2.10
+
+Topic 1:
+  chat:20.63
+  chatroom:7.95
+  create:6.97
+  platform:5.95
+  web:5.19
+  hack:4.58
+  room:4.51
+  absolutely:3.95
+  sign:3.95
+  share:3.95
+
+Topic 2:
+  time:6.34
+  offers:3.93
+  protection:3.93
+  key:3.46
+  messages:3.08
+  machine:2.94
+  good:2.85
+  encrypting:2.07
+  ill:2.02
+  people:2.01
+
+Topic 3:
+  chat:11.94
+  site:9.73
+  real:9.04
+  anonymous:8.38
+  time:6.83
+  conversation:6.36
+  irc:5.95
+  opsec:5.19
+  ping:4.95
+  javascript:4.76
+
+Topic 4:
+  program:9.82
+  version:7.95
+  gnupg:7.77
+  tails:7.33
+  gpg:6.89
+  reccommend:6.69
+  released:5.95
+  usb:5.88
+  releases:4.96
+  latest:4.96
+
+K: 5, Log-Likelihood: -6043.112, Alpha: 11.000, Beta: 1.100

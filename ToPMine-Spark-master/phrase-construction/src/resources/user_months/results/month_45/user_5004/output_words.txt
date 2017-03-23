@@ -1,0 +1,61 @@
+Topic 0:
+  good:8.39
+  darknet:7.70
+  markets:4.64
+  people:4.62
+  trust:4.47
+  place:4.29
+  stranger:3.85
+  sticking:3.33
+  wallet:3.17
+  ootp:2.99
+
+Topic 1:
+  markets:10.39
+  ootp:8.81
+  vendors:7.91
+  sr:6.90
+  scamming:6.68
+  vendor:4.14
+  feel:4.02
+  bitcoin:3.81
+  fluctuations:3.81
+  paranoia:3.81
+
+Topic 2:
+  vendors:20.31
+  money:8.69
+  blackbank:5.74
+  scam:3.95
+  honest:3.95
+  bills:3.95
+  afraid:3.95
+  thing:3.95
+  mdparity:3.95
+  black:3.62
+
+Topic 3:
+  funds:17.89
+  admins:12.44
+  withdraw:11.89
+  interested:10.10
+  url:7.89
+  people:6.84
+  orders:6.29
+  knew:5.89
+  hacker:5.89
+  hobbits:5.89
+
+Topic 4:
+  vendor:24.05
+  site:21.26
+  direct:16.66
+  market:15.97
+  email:13.76
+  buying:11.01
+  time:10.11
+  scidmt:7.48
+  april:6.93
+  advantages:6.25
+
+K: 5, Log-Likelihood: -7284.905, Alpha: 11.000, Beta: 1.100

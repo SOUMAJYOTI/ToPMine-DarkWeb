@@ -1,0 +1,61 @@
+Topic 0:
+  family code:15.88
+  number:12.70
+  digits:12.70
+  gs:9.52
+  contact:7.96
+  coupons:7.24
+  cool:7.21
+  list:6.35
+  company prefix:6.35
+  called:6.35
+
+Topic 1:
+  server:27.71
+  server set:11.07
+  phone service:11.07
+  gb:11.07
+  communication:11.07
+  encryption:11.07
+  communication otr:11.07
+  sim cards:11.07
+  price:9.39
+  internet:9.00
+
+Topic 2:
+  tv:11.06
+  huge:7.43
+  house:6.34
+  lesson:6.34
+  move:6.34
+  access:6.34
+  interest:6.34
+  router:6.34
+  live:5.79
+  free:5.51
+
+Topic 3:
+  eye candy:11.03
+  august pmi:11.03
+  team dns:11.03
+  expensive supplements worth select:8.90
+  cheap incorporate greed good:8.90
+  items:8.90
+  steal razors sincere items:8.90
+  stuff:7.55
+  coupon codes:6.99
+  theme:6.65
+
+Topic 4:
+  monitor mode:12.69
+  drivers:10.66
+  great methods work eu:7.35
+  thing:7.21
+  august:7.19
+  tools:6.34
+  text:6.24
+  quote:5.77
+  wifi:5.60
+  eu changed bar code:5.52
+
+K: 5, Log-Likelihood: -17710.754, Alpha: 11.000, Beta: 1.100

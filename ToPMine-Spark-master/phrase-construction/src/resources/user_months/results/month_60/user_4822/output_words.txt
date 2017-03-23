@@ -1,0 +1,61 @@
+Topic 0:
+  key:1.61
+  problem:0.40
+  causing:0.40
+  figured:0.40
+  expired:0.40
+  august:0.39
+  quote:0.38
+  thread:0.37
+  started:0.37
+  issue:0.20
+
+Topic 1:
+  key:1.43
+  expired:0.40
+  causing:0.40
+  problem:0.40
+  figured:0.40
+  august:0.40
+  thread:0.40
+  quote:0.40
+  started:0.40
+  spitfire:0.20
+
+Topic 2:
+  key:1.45
+  figured:0.40
+  causing:0.40
+  expired:0.40
+  problem:0.40
+  august:0.40
+  quote:0.39
+  thread:0.39
+  started:0.39
+  main:0.20
+
+Topic 3:
+  key:1.30
+  started:0.43
+  thread:0.42
+  quote:0.41
+  august:0.40
+  problem:0.40
+  causing:0.39
+  figured:0.39
+  expired:0.38
+  facepalm:0.21
+
+Topic 4:
+  key:1.22
+  quote:0.42
+  august:0.42
+  expired:0.41
+  thread:0.41
+  started:0.41
+  problem:0.40
+  causing:0.40
+  figured:0.40
+  pmbecause:0.21
+
+K: 5, Log-Likelihood: -142.501, Alpha: 11.000, Beta: 1.100

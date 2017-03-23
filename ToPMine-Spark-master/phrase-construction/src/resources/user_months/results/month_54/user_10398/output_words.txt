@@ -1,0 +1,61 @@
+Topic 0:
+  links:0.62
+  markets:0.57
+  signature:0.41
+  updated:0.20
+  agra:0.20
+  registration:0.20
+  time:0.20
+  migrated:0.20
+  require:0.20
+  redecide:0.20
+
+Topic 1:
+  markets:0.60
+  links:0.59
+  signature:0.40
+  announcement:0.20
+  year:0.20
+  agra:0.20
+  redecide:0.20
+  abraxasnucleusdream:0.20
+  registration:0.20
+  time:0.20
+
+Topic 2:
+  markets:0.61
+  links:0.59
+  signature:0.40
+  policies:0.20
+  require:0.20
+  marketsilkkitieprofile:0.20
+  registration:0.20
+  time:0.20
+  year:0.20
+  crow:0.20
+
+Topic 3:
+  markets:0.60
+  links:0.60
+  signature:0.40
+  fe:0.20
+  policies:0.20
+  require:0.20
+  migrated:0.20
+  crow:0.20
+  redecide:0.20
+  abraxasnucleusdream:0.20
+
+Topic 4:
+  markets:0.62
+  links:0.60
+  signature:0.39
+  abraxasnucleusdream:0.20
+  crow:0.20
+  marketsilkkitieprofile:0.20
+  migrated:0.20
+  redecide:0.20
+  announcement:0.20
+  fe:0.20
+
+K: 5, Log-Likelihood: -60.522, Alpha: 11.000, Beta: 1.100

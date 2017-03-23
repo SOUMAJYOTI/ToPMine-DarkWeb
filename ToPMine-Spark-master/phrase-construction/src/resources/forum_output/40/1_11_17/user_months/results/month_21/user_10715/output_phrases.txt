@@ -1,0 +1,61 @@
+Topic 0:
+  guide:0.68
+  computer:0.58
+  dont:0.56
+  link:0.49
+  download:0.47
+  bunch:0.44
+  tor:0.40
+  open:0.40
+  interested:0.40
+  browser:0.40
+
+Topic 1:
+  mate:0.73
+  guide:0.61
+  bunch:0.59
+  download:0.56
+  computer:0.51
+  dont:0.50
+  link:0.46
+  owe:0.37
+  eye:0.37
+  files:0.37
+
+Topic 2:
+  guide:0.67
+  computer:0.57
+  link:0.55
+  dont:0.55
+  bunch:0.45
+  download:0.43
+  mate:0.41
+  herpes:0.38
+  downloads:0.38
+  cleaning:0.38
+
+Topic 3:
+  link:0.67
+  guide:0.65
+  dont:0.55
+  computer:0.52
+  download:0.43
+  paypal:0.43
+  accountredacted:0.43
+  ccv:0.43
+  autoshop:0.43
+  onion:0.43
+
+Topic 4:
+  mate:1.48
+  download:0.71
+  bunch:0.69
+  chance:0.58
+  ill:0.58
+  tomorrow:0.58
+  ya:0.58
+  files:0.58
+  eye:0.58
+  owe:0.58
+
+K: 5, Log-Likelihood: -421.931, Alpha: 11.000, Beta: 1.100

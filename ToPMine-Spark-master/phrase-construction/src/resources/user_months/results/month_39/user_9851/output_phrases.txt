@@ -1,0 +1,61 @@
+Topic 0:
+  hollandonline:0.56
+  good:0.42
+  buy:0.39
+  vendor:0.39
+  removed:0.39
+  arrested:0.39
+  attempt:0.39
+  avengers:0.39
+  customers:0.39
+  police:0.39
+
+Topic 1:
+  hollandonline:0.99
+  list:0.58
+  avengers:0.57
+  attempt:0.57
+  arrested:0.57
+  customers:0.57
+  police:0.57
+  removed:0.56
+  buy:0.56
+  dutch:0.56
+
+Topic 2:
+  prison:0.52
+  ho:0.52
+  tolerant:0.52
+  site:0.52
+  couple:0.52
+  sucks:0.52
+  sad:0.52
+  deleted:0.52
+  country:0.52
+  blog:0.52
+
+Topic 3:
+  hollandonline:0.58
+  vendor:0.47
+  drugs:0.46
+  prices:0.46
+  vendor ho:0.46
+  place:0.46
+  albertheijn:0.46
+  mdma:0.46
+  multi:0.46
+  pills:0.46
+
+Topic 4:
+  hollandonline:0.50
+  biggest:0.49
+  multi:0.49
+  nl:0.49
+  prices:0.49
+  disappeared:0.49
+  happened:0.49
+  albertheijn:0.49
+  vendor ho:0.49
+  thread:0.48
+
+K: 5, Log-Likelihood: -374.377, Alpha: 11.000, Beta: 1.100

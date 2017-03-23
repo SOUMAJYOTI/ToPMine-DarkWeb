@@ -1,0 +1,61 @@
+Topic 0:
+  leak:5.05
+  long:3.30
+  sooner:3.30
+  markets:3.30
+  tolerated:3.29
+  personal amounts:3.29
+  pharmacy:3.29
+  reason ordering:3.29
+  stuff:3.29
+  country:3.29
+
+Topic 1:
+  diskcryptor:4.90
+  cards:2.09
+  system:1.97
+  michael:1.69
+  moriarty:1.69
+  contact:1.68
+  debit:1.68
+  form:1.67
+  legit:1.67
+  bitcoins:1.67
+
+Topic 2:
+  escrow:3.87
+  multisig:3.72
+  reason:1.82
+  explains:1.81
+  animal:1.80
+  process:1.80
+  article:1.80
+  types:1.80
+  alpaca:1.80
+  works:1.31
+
+Topic 3:
+  windows:4.98
+  dont:3.15
+  luks:3.15
+  operating:3.14
+  partition:2.96
+  works:2.50
+  popular:2.05
+  linux:2.05
+  virtualbox:2.05
+  encryption:2.05
+
+Topic 4:
+  tc:10.11
+  fork:6.27
+  started:4.13
+  left:4.13
+  primary:4.09
+  volume:4.09
+  working:3.08
+  encrypt:2.98
+  boot:2.00
+  approve:1.99
+
+K: 5, Log-Likelihood: -1546.420, Alpha: 11.000, Beta: 1.100

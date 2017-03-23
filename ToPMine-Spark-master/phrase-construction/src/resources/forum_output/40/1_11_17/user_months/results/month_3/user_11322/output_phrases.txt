@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.00
+  markets:0.00
+  shit:0.00
+  nervous:0.00
+  cool:0.00
+  guys:0.00
+  buying:0.00
+  hacked:0.00
+  stealing:0.00
+  coin:0.00
+
+Topic 1:
+  market:0.00
+  markets:0.00
+  shit:0.00
+  nervous:0.00
+  cool:0.00
+  guys:0.00
+  buying:0.00
+  hacked:0.00
+  stealing:0.00
+  coin:0.00
+
+Topic 2:
+  market:0.00
+  markets:0.00
+  shit:0.00
+  nervous:0.00
+  cool:0.00
+  guys:0.00
+  buying:0.00
+  hacked:0.00
+  stealing:0.00
+  coin:0.00
+
+Topic 3:
+  market:0.00
+  markets:0.00
+  shit:0.00
+  nervous:0.00
+  cool:0.00
+  guys:0.00
+  buying:0.00
+  hacked:0.00
+  stealing:0.00
+  coin:0.00
+
+Topic 4:
+  market:0.00
+  markets:0.00
+  shit:0.00
+  nervous:0.00
+  cool:0.00
+  guys:0.00
+  buying:0.00
+  hacked:0.00
+  stealing:0.00
+  coin:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

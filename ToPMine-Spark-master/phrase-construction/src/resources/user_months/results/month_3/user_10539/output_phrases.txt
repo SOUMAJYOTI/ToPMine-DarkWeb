@@ -1,0 +1,61 @@
+Topic 0:
+  message:5.34
+  send messages specific address:5.25
+  messages impossible watching:5.25
+  principles hide sender receiver:5.25
+  axolotl march pmquote:4.24
+  quote feeble march:4.16
+  org interesting bitcoin:3.93
+  subscribe sailing list proof:3.92
+  security analysis bitmessage:3.88
+  belt:3.85
+
+Topic 1:
+  people:8.73
+  axolotl:5.36
+  ease:4.67
+  torchat:4.58
+  quote feeble march:4.12
+  service:3.88
+  software:3.82
+  developer:3.82
+  speaking:3.82
+  imagine:3.82
+
+Topic 2:
+  sending:10.93
+  forum:7.75
+  web based implementation bitmessage:7.75
+  security audit performed:7.75
+  private keys:7.75
+  bm address:7.75
+  problem:5.91
+  email address:5.80
+  playground:5.80
+  email:5.74
+
+Topic 3:
+  pmbefore making claims bitmessage:5.17
+  axa march:5.15
+  quote:5.08
+  march:4.59
+  true point:3.89
+  things:3.19
+  horribly inefficient:2.81
+  resource hog download client:2.76
+  adoption:2.53
+  sends:2.49
+
+Topic 4:
+  encryption:6.14
+  data:4.24
+  system:3.91
+  totally:3.82
+  meta:3.82
+  standard:3.82
+  users tor:3.82
+  precautions:3.82
+  avoid:3.82
+  provide:3.82
+
+K: 5, Log-Likelihood: -8061.916, Alpha: 11.000, Beta: 1.100

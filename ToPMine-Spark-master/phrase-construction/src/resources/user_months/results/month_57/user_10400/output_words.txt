@@ -1,0 +1,61 @@
+Topic 0:
+  pay:14.31
+  cash:12.32
+  taxes:9.90
+  site:8.70
+  donation:8.68
+  work:7.90
+  year:7.90
+  dont:6.36
+  tax:6.33
+  business:5.99
+
+Topic 1:
+  money:24.43
+  accounts:12.24
+  clean:8.09
+  property:7.40
+  multiply:4.89
+  piece:4.44
+  offshore:4.15
+  buy:4.09
+  casino:3.97
+  business:3.91
+
+Topic 2:
+  money:43.94
+  august:11.66
+  method:10.32
+  multiply:10.13
+  mix:8.79
+  launder:8.38
+  ways:8.22
+  dirty:8.09
+  clean:7.87
+  purchase:7.29
+
+Topic 3:
+  money:22.01
+  accounts:9.22
+  clean:6.90
+  business:5.90
+  method:5.14
+  multiply:4.63
+  chips:4.21
+  property:4.12
+  buy:4.03
+  offshore:3.98
+
+Topic 4:
+  money:9.08
+  buy:6.87
+  offshore:6.70
+  clean:6.58
+  pay:5.79
+  business:4.66
+  people:4.64
+  cash:4.10
+  accounts:2.87
+  large:2.77
+
+K: 5, Log-Likelihood: -5645.356, Alpha: 11.000, Beta: 1.100

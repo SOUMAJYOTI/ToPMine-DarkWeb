@@ -1,0 +1,61 @@
+Topic 0:
+  listing:4.93
+  market:4.89
+  boogie:4.77
+  man:4.22
+  features:3.69
+  great:3.61
+  find:3.19
+  customers:3.16
+  quote:3.07
+  markets:2.88
+
+Topic 1:
+  great:11.15
+  quote:7.27
+  june:7.10
+  community:6.90
+  friend:5.29
+  business:4.41
+  news:4.25
+  boogie:4.19
+  thought:3.88
+  ui:3.87
+
+Topic 2:
+  sales:21.52
+  june:10.87
+  quote:9.19
+  limit:8.79
+  tor:6.12
+  maximum:4.68
+  guys:4.29
+  hub:4.24
+  forum:3.83
+  file:3.68
+
+Topic 3:
+  evolution:10.29
+  market:9.86
+  vendors:8.82
+  vendor:7.20
+  donation:5.79
+  order:5.19
+  people:5.18
+  message:4.85
+  security:4.49
+  stay:4.09
+
+Topic 4:
+  evo:8.33
+  helix:7.95
+  btc:7.41
+  address:7.23
+  boogie:4.19
+  eve:3.95
+  grams:3.81
+  work:3.37
+  troll:3.30
+  wait:3.07
+
+K: 5, Log-Likelihood: -6869.528, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  ja:3.40
+  bitcoin:2.92
+  coins:1.92
+  ett:1.91
+  problem:1.87
+  message:1.78
+  jo:1.62
+  confirmed:1.37
+  ll:1.27
+  olemassa:1.01
+
+Topic 1:
+  dont:3.63
+  btc:3.11
+  read:2.94
+  send:2.94
+  log:1.94
+  benjomarket:1.94
+  witch:1.94
+  private:1.94
+  chat:1.94
+  package:1.94
+
+Topic 2:
+  onion:4.19
+  silkkitie:4.03
+  oli:3.95
+  silkkitiehdg:3.15
+  osoitetta:2.95
+  sivun:2.65
+  net:2.64
+  kanssa:1.95
+  eik:1.95
+  sivuston:1.95
+
+Topic 3:
+  ja:5.63
+  smite:3.71
+  silkkitie:3.53
+  webin:2.95
+  clear:2.95
+  tor:2.60
+  silkkitielle:2.60
+  mit:2.35
+  joka:2.07
+  silkkitien:2.01
+
+Topic 4:
+  btc:4.74
+  wallet:3.95
+  exit:3.53
+  empty:2.89
+  checked:1.90
+  adress:1.90
+  hour:1.77
+  number:1.77
+  support:1.77
+  scam:1.77
+
+K: 5, Log-Likelihood: -2816.333, Alpha: 11.000, Beta: 1.100

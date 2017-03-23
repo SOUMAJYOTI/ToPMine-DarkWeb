@@ -1,0 +1,61 @@
+Topic 0:
+  silk road:6.70
+  bitcoin:4.64
+  illegal:4.34
+  bitcoins:3.49
+  exchange:1.74
+  time:1.65
+  year:1.50
+  vendor:1.48
+  quote:1.43
+  security:1.40
+
+Topic 1:
+  bitcoin:17.10
+  faiella:13.41
+  shrem:13.09
+  silk road:12.29
+  bitinstant:10.64
+  btcking:8.78
+  bank:6.50
+  kashmir hill:6.46
+  payment processor:6.44
+  forces:6.42
+
+Topic 2:
+  sha:6.86
+  deep web:6.33
+  dont:4.76
+  complex:4.56
+  hash:4.56
+  send message:4.12
+  personas:3.70
+  clear:3.70
+  separate:3.70
+  web:3.70
+
+Topic 3:
+  operate:5.80
+  laundering illegal:5.63
+  bitcoin fog:4.53
+  federal:4.02
+  ross ulbricht:3.98
+  intent:3.73
+  sr:3.73
+  charges:3.73
+  tumbler:3.73
+  federal indictment:3.73
+
+Topic 4:
+  mary january:6.12
+  site bitstamp localbitcoin accounts:4.72
+  time vendor:4.53
+  income:4.51
+  owners:4.51
+  marketplace:4.51
+  vendors:4.51
+  supplier:4.45
+  bitcoins person coins order:4.44
+  ami thought sell:4.44
+
+K: 5, Log-Likelihood: -9818.540, Alpha: 11.000, Beta: 1.100

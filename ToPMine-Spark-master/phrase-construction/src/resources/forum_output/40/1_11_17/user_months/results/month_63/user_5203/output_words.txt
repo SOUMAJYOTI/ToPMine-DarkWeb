@@ -1,0 +1,61 @@
+Topic 0:
+  markets:8.76
+  vendors:7.26
+  vendor:6.82
+  dont:6.66
+  direct:6.41
+  market:6.01
+  sit:5.54
+  people:3.90
+  relationship:3.54
+  deals:3.53
+
+Topic 1:
+  dream:6.75
+  markets:6.07
+  november:5.58
+  market:4.39
+  alpha:3.72
+  quote:3.62
+  married:2.61
+  good:2.61
+  list:2.59
+  people:2.37
+
+Topic 2:
+  forum:5.78
+  post:4.96
+  forums:4.30
+  btc:3.91
+  dream:3.39
+  links:3.01
+  url:2.93
+  users:2.90
+  mixers:2.90
+  imo:2.66
+
+Topic 3:
+  markets:5.55
+  market:4.57
+  vendors:3.50
+  dream:3.31
+  good:3.10
+  hub:2.70
+  quote:2.66
+  forum:2.61
+  nucleus:2.56
+  time:2.42
+
+Topic 4:
+  link:23.53
+  invite:14.86
+  market:9.69
+  referred:7.89
+  dream:6.94
+  darknet:6.65
+  abraxas:5.80
+  love:4.91
+  longest:4.47
+  links:4.11
+
+K: 5, Log-Likelihood: -5336.605, Alpha: 11.000, Beta: 1.100

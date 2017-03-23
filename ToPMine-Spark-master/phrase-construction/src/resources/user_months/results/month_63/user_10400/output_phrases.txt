@@ -1,0 +1,61 @@
+Topic 0:
+  network security:5.31
+  clean money:4.57
+  money:4.41
+  casino:3.52
+  multiply:3.52
+  trade:3.52
+  property:3.52
+  week:3.52
+  purchase:3.52
+  money method:3.52
+
+Topic 1:
+  method:3.18
+  gains:2.57
+  money:1.91
+  capital:1.67
+  market donate:1.67
+  write:1.67
+  legal:1.67
+  loss:1.67
+  donated:1.67
+  lost:1.67
+
+Topic 2:
+  fail:3.25
+  dont:2.97
+  income:2.58
+  topic:2.55
+  thing amount:2.55
+  thousands:2.55
+  laundering money:2.55
+  sorts:2.55
+  stick:2.55
+  month:2.55
+
+Topic 3:
+  year:8.80
+  pay taxes:8.12
+  work:5.35
+  large amounts:5.35
+  send:5.35
+  business donation site:5.35
+  buy house:5.34
+  pay:4.74
+  clean cash:4.06
+  people:2.98
+
+Topic 4:
+  cash:2.26
+  donation site:2.23
+  organix:2.15
+  idea:2.15
+  tax:1.60
+  wonderful:1.45
+  thought:1.45
+  amount:1.11
+  dont:1.07
+  pay:1.05
+
+K: 5, Log-Likelihood: -4510.737, Alpha: 11.000, Beta: 1.100

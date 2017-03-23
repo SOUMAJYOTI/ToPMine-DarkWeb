@@ -1,0 +1,61 @@
+Topic 0:
+  west:0.76
+  address:0.56
+  honestly:0.56
+  shoulda:0.56
+  india:0.56
+  murked:0.56
+  remain:0.55
+  straight:0.55
+  january:0.50
+  connect:0.49
+
+Topic 1:
+  wallet:2.09
+  created:2.09
+  bitcoin:2.06
+  address:1.34
+  public:1.25
+  escrow:1.24
+  primary:1.24
+  key:1.24
+  electrum:1.24
+  fees:0.50
+
+Topic 2:
+  west:0.94
+  straight:0.77
+  january:0.75
+  india:0.74
+  murked:0.72
+  shoulda:0.72
+  honestly:0.70
+  remain:0.70
+  wire:0.48
+  seedofchaos:0.48
+
+Topic 3:
+  west:0.95
+  honestly:0.68
+  remain:0.66
+  india:0.65
+  straight:0.65
+  shoulda:0.64
+  murked:0.62
+  january:0.61
+  address:0.44
+  moved:0.44
+
+Topic 4:
+  west:1.07
+  january:0.96
+  murked:0.90
+  remain:0.88
+  shoulda:0.87
+  honestly:0.84
+  india:0.84
+  straight:0.83
+  amthey:0.59
+  senses:0.58
+
+K: 5, Log-Likelihood: -479.434, Alpha: 11.000, Beta: 1.100

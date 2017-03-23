@@ -1,0 +1,61 @@
+Topic 0:
+  learn:0.14
+  interested:0.14
+  small:0.14
+  fee:0.14
+  easily:0.14
+  blond:0.14
+  wig:0.14
+  bitcoin:0.14
+  exchanging:0.12
+  nubits:0.12
+
+Topic 1:
+  blond:0.14
+  bitcoin:0.14
+  wig:0.14
+  easily:0.14
+  fee:0.14
+  interested:0.14
+  learn:0.14
+  small:0.14
+  charging:0.12
+  blackcoin:0.12
+
+Topic 2:
+  wig:0.14
+  fee:0.14
+  blond:0.14
+  small:0.14
+  interested:0.14
+  easily:0.14
+  bitcoin:0.14
+  learn:0.14
+  mining:0.12
+  litecoin:0.12
+
+Topic 3:
+  easily:0.14
+  small:0.14
+  interested:0.14
+  learn:0.14
+  fee:0.14
+  wig:0.14
+  bitcoin:0.14
+  blond:0.14
+  litecoin:0.12
+  starting:0.12
+
+Topic 4:
+  bitcoin:0.14
+  learn:0.14
+  fee:0.14
+  wig:0.14
+  blond:0.14
+  interested:0.14
+  small:0.14
+  easily:0.14
+  dogecoin:0.12
+  clean:0.12
+
+K: 5, Log-Likelihood: -51.760, Alpha: 11.000, Beta: 1.100

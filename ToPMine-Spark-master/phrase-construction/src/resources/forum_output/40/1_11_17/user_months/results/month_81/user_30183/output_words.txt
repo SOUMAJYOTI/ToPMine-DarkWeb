@@ -1,0 +1,61 @@
+Topic 0:
+  phone:7.58
+  people:7.20
+  june:6.80
+  mulder:4.15
+  fox:4.12
+  ease:3.45
+  hearted:3.42
+  hoof:3.32
+  convenience:3.25
+  tor:3.24
+
+Topic 1:
+  people:10.66
+  june:5.16
+  fox:4.58
+  talking:3.95
+  mulder:3.86
+  fuck:3.81
+  convenience:3.62
+  hoof:3.58
+  pretty:3.52
+  hearted:3.47
+
+Topic 2:
+  faces:3.96
+  time:3.29
+  memory:2.99
+  covering:2.96
+  spirals:2.96
+  toby:2.88
+  naruto:2.88
+  face:2.76
+  quote:2.15
+  computer:1.96
+
+Topic 3:
+  mobile:12.52
+  phone:10.26
+  fucked:3.92
+  leaks:3.92
+  phones:3.89
+  quote:3.77
+  browsing:2.62
+  info:2.58
+  device:2.03
+  news:2.00
+
+Topic 4:
+  tor:3.90
+  conference:3.89
+  device:3.14
+  years:2.87
+  ago:2.87
+  anonymity:2.81
+  system:2.30
+  privacy:2.24
+  time:2.09
+  quote:2.04
+
+K: 5, Log-Likelihood: -4719.648, Alpha: 11.000, Beta: 1.100

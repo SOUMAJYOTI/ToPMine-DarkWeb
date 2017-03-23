@@ -1,0 +1,61 @@
+Topic 0:
+  move:0.00
+  correct:0.00
+  ag:0.00
+  spent:0.00
+  whichever:0.00
+  thread:0.00
+  wrong:0.00
+  reposting:0.00
+  forums:0.00
+  youmuch:0.00
+
+Topic 1:
+  move:0.00
+  correct:0.00
+  ag:0.00
+  spent:0.00
+  whichever:0.00
+  thread:0.00
+  wrong:0.00
+  reposting:0.00
+  forums:0.00
+  youmuch:0.00
+
+Topic 2:
+  move:0.00
+  correct:0.00
+  ag:0.00
+  spent:0.00
+  whichever:0.00
+  thread:0.00
+  wrong:0.00
+  reposting:0.00
+  forums:0.00
+  youmuch:0.00
+
+Topic 3:
+  move:0.00
+  correct:0.00
+  ag:0.00
+  spent:0.00
+  whichever:0.00
+  thread:0.00
+  wrong:0.00
+  reposting:0.00
+  forums:0.00
+  youmuch:0.00
+
+Topic 4:
+  move:0.00
+  correct:0.00
+  ag:0.00
+  spent:0.00
+  whichever:0.00
+  thread:0.00
+  wrong:0.00
+  reposting:0.00
+  forums:0.00
+  youmuch:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

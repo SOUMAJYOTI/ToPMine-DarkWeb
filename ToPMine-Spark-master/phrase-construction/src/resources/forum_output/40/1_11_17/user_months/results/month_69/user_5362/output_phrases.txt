@@ -1,0 +1,61 @@
+Topic 0:
+  price:0.71
+  jor:0.39
+  good:0.34
+  perfectly calibrated:0.34
+  hits:0.34
+  perfectly:0.34
+  bruv:0.34
+  fill:0.30
+  market:0.30
+  meet:0.30
+
+Topic 1:
+  fill:0.60
+  market:0.59
+  jor:0.45
+  time:0.29
+  price:0.29
+  comer:0.27
+  soil:0.27
+  admit:0.27
+  exceedingly:0.27
+  adding:0.27
+
+Topic 2:
+  price:0.52
+  jor:0.39
+  perfectly:0.34
+  bruv:0.34
+  hits:0.34
+  good:0.34
+  perfectly calibrated:0.34
+  market:0.33
+  fill:0.33
+  druids:0.27
+
+Topic 3:
+  market:0.50
+  fill:0.49
+  jor:0.43
+  price:0.34
+  time:0.29
+  perfectly:0.24
+  perfectly calibrated:0.24
+  bruv:0.24
+  good:0.24
+  hits:0.24
+
+Topic 4:
+  market:0.48
+  fill:0.47
+  jor:0.42
+  price:0.34
+  time:0.28
+  hits:0.25
+  bruv:0.25
+  good:0.25
+  perfectly calibrated:0.25
+  perfectly:0.25
+
+K: 5, Log-Likelihood: -404.705, Alpha: 11.000, Beta: 1.100

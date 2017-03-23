@@ -1,0 +1,61 @@
+Topic 0:
+  jabber:3.47
+  record:1.65
+  site:1.44
+  tails:1.38
+  onion:1.38
+  messaging:1.29
+  msg:1.29
+  idea:1.06
+  heard:1.05
+  checking:1.02
+
+Topic 1:
+  chat:3.99
+  record:3.75
+  otr:2.07
+  jabber:2.01
+  businesspidgin:1.66
+  burnershxxps:1.65
+  chatsecure:1.65
+  nice:1.65
+  text:1.65
+  waiting:1.65
+
+Topic 2:
+  messaging:2.85
+  plugin:2.73
+  tor:2.31
+  accounts:1.25
+  jabber:1.08
+  add:1.05
+  pidgin:0.96
+  settings:0.90
+  hxxp:0.88
+  set:0.87
+
+Topic 3:
+  plugin:7.82
+  accounts:5.18
+  settings:3.89
+  pidgin:3.77
+  add:3.52
+  tor:2.64
+  checked:2.35
+  tools:2.33
+  correctly:2.30
+  box:2.30
+
+Topic 4:
+  plugin:3.30
+  messaging:2.89
+  tor:1.76
+  accounts:1.43
+  add:1.30
+  pidgin:1.13
+  jabber:1.13
+  settings:1.07
+  password:0.99
+  private:0.97
+
+K: 5, Log-Likelihood: -1688.949, Alpha: 11.000, Beta: 1.100

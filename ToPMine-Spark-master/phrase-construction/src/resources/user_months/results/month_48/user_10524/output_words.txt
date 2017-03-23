@@ -1,0 +1,61 @@
+Topic 0:
+  astoria:3.22
+  tor:2.58
+  client:0.94
+  network:0.91
+  circuits:0.90
+  attacks:0.86
+  researchers:0.82
+  user:0.76
+  called:0.76
+  security:0.75
+
+Topic 1:
+  tor:2.48
+  astoria:2.02
+  network:1.37
+  circuits:1.25
+  attacks:1.22
+  security:1.06
+  client:1.01
+  researchers:0.97
+  users:0.93
+  designed:0.85
+
+Topic 2:
+  tor:7.37
+  astoria:2.91
+  attacks:2.85
+  network:1.97
+  client:1.95
+  designed:1.80
+  security:1.72
+  researchers:1.65
+  circuits:1.37
+  user:1.25
+
+Topic 3:
+  tor:6.56
+  network:2.70
+  astoria:2.70
+  researchers:2.25
+  client:2.07
+  circuits:1.87
+  attacks:1.83
+  designed:1.64
+  security:1.43
+  called:1.33
+
+Topic 4:
+  tor:5.01
+  astoria:2.16
+  network:2.06
+  circuits:1.60
+  researchers:1.30
+  attacks:1.24
+  security:1.04
+  client:1.02
+  user:1.00
+  users:0.99
+
+K: 5, Log-Likelihood: -2063.832, Alpha: 11.000, Beta: 1.100

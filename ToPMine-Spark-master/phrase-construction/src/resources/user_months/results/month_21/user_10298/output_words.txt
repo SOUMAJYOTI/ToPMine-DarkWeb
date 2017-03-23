@@ -1,0 +1,61 @@
+Topic 0:
+  alice:6.44
+  site:3.54
+  july:2.24
+  time:1.97
+  usual:1.59
+  mods:1.43
+  btc:1.33
+  june:0.99
+  happened:0.98
+  administratordate:0.98
+
+Topic 1:
+  site:2.69
+  alice:2.39
+  time:1.88
+  quote:1.25
+  pandora:0.99
+  july:0.95
+  forum:0.85
+  forums:0.85
+  decided:0.81
+  scam:0.66
+
+Topic 2:
+  pandora:5.01
+  people:3.60
+  decent:3.60
+  quote:2.85
+  care:2.69
+  support:2.05
+  forums:2.03
+  emails:1.81
+  lady:1.65
+  leave:1.65
+
+Topic 3:
+  alice:8.29
+  site:3.46
+  july:2.57
+  mods:2.31
+  usual:2.15
+  btc:1.95
+  time:1.80
+  amquote:1.58
+  funds:1.28
+  active:1.11
+
+Topic 4:
+  site:2.98
+  alice:2.56
+  time:1.71
+  forum:1.36
+  july:0.98
+  scam:0.97
+  usual:0.76
+  mods:0.75
+  forums:0.72
+  quote:0.68
+
+K: 5, Log-Likelihood: -1472.698, Alpha: 11.000, Beta: 1.100

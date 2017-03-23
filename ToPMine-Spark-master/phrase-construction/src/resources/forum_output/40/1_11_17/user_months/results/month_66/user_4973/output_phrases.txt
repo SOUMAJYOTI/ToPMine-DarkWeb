@@ -1,0 +1,61 @@
+Topic 0:
+  didnt:3.54
+  job:2.87
+  pm:2.17
+  vendor:2.09
+  tails:1.96
+  login:1.86
+  option:1.40
+  method:1.39
+  passwords:1.31
+  grateful:1.31
+
+Topic 1:
+  tails:1.15
+  job:1.06
+  login:0.99
+  vendor:0.89
+  pm:0.85
+  didnt:0.80
+  paid:0.68
+  apologize:0.68
+  pay:0.68
+  passwords:0.67
+
+Topic 2:
+  glad:1.93
+  place:1.93
+  freddie:1.93
+  input:1.93
+  online:1.92
+  cheers:1.92
+  luck:1.92
+  ve:1.27
+  careful:1.23
+  phishing:1.22
+
+Topic 3:
+  job:2.00
+  didnt:1.59
+  login:1.57
+  vendor:1.44
+  pm:1.40
+  tails:1.31
+  top:1.09
+  friends:1.06
+  love:1.05
+  paid:1.05
+
+Topic 4:
+  ll:2.87
+  log:2.06
+  corruption:2.06
+  dated:2.06
+  permission:2.06
+  signatures:2.06
+  message:2.06
+  shipped:2.06
+  system:2.06
+  specific:2.06
+
+K: 5, Log-Likelihood: -1906.951, Alpha: 11.000, Beta: 1.100

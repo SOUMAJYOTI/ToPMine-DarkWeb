@@ -1,0 +1,61 @@
+Topic 0:
+  message:17.99
+  type ctrl:9.10
+  paste encrusted message:8.59
+  check mark:8.59
+  sign encrypt clipboard public:5.40
+  applications accessories gedit:4.93
+  gedit window:4.92
+  text editor:4.49
+  hide:4.27
+  copy message clipboard:4.27
+
+Topic 1:
+  passwords keys window:8.57
+  pgp key:8.42
+  key:7.84
+  enter passphrase protect secret:6.45
+  keys gnupg keys:4.38
+  selected left pane window:4.38
+  top:4.37
+  window hit:4.25
+  comment:4.25
+  hit create:4.25
+
+Topic 2:
+  step:5.05
+  tails:5.05
+  tails installer install cloning:4.22
+  good:4.21
+  drive configure persistent volume:4.17
+  guide:4.05
+  boot cd dvd usb:3.80
+  booted drive create drive:3.78
+  yeah:3.77
+  encrusted message:3.76
+
+Topic 3:
+  create persistent volume:7.80
+  update:6.41
+  drive:6.26
+  pgp:5.54
+  desktop:5.04
+  file:5.04
+  configring:4.25
+  drop:4.25
+  appreciated:4.25
+  navigate:4.25
+
+Topic 4:
+  key:6.62
+  statements pgp:5.89
+  including dashes:5.87
+  copied clipboard:5.87
+  pick formatting errors:5.87
+  window pop:5.86
+  public key clipboard:5.04
+  menu bar window:5.04
+  public key:5.03
+  snug:4.27
+
+K: 5, Log-Likelihood: -5036.279, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  onion:11.85
+  sigaint:11.08
+  rzvw:11.07
+  sigaintevyh:10.96
+  address:8.67
+  org:8.26
+  send:6.93
+  stupidity:4.35
+  message:4.26
+  account:4.21
+
+Topic 1:
+  february:3.56
+  tails:2.99
+  theequalizer:2.69
+  quote:2.63
+  smartcard:2.37
+  zaphod:2.23
+  support:1.99
+  key:1.89
+  tests:1.75
+  openpgp:1.72
+
+Topic 2:
+  accounts:8.71
+  aware:5.74
+  anonymous:5.74
+  clearnet:5.05
+  torbirdy:4.76
+  enigma:4.75
+  enigmail:2.79
+  decrypt:2.75
+  fucking:2.75
+  compel:2.75
+
+Topic 3:
+  hosted:8.10
+  provider:6.53
+  service:5.75
+  sending:3.65
+  onion:3.64
+  february:3.48
+  reached:3.38
+  zaphod:3.36
+  hidden:3.36
+  ill:3.08
+
+Topic 4:
+  nano:3.60
+  yubikey:3.47
+  tests:3.15
+  february:3.13
+  zaphod:3.01
+  quote:2.79
+  openpgp:2.65
+  tails:2.64
+  supports:2.35
+  ill:2.28
+
+K: 5, Log-Likelihood: -2690.133, Alpha: 11.000, Beta: 1.100

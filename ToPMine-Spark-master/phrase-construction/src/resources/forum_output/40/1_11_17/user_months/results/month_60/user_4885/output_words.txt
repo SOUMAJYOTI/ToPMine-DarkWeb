@@ -1,0 +1,61 @@
+Topic 0:
+  remove:1.19
+  programs:1.06
+  system:0.86
+  services:0.71
+  questions:0.70
+  materials:0.61
+  read:0.60
+  tracking:0.60
+  tools:0.49
+  welcomei:0.39
+
+Topic 1:
+  programs:1.30
+  tools:1.26
+  services:0.82
+  system:0.76
+  network:0.69
+  remove:0.48
+  questions:0.47
+  surveillance:0.41
+  anonymity:0.41
+  exorburn:0.40
+
+Topic 2:
+  programs:1.07
+  tools:1.05
+  system:0.86
+  services:0.83
+  remove:0.62
+  network:0.54
+  questions:0.51
+  exorburn:0.41
+  surveillance:0.41
+  block:0.41
+
+Topic 3:
+  programs:1.16
+  remove:0.88
+  services:0.83
+  system:0.78
+  questions:0.66
+  tools:0.58
+  read:0.48
+  tracking:0.48
+  materials:0.48
+  welcomei:0.40
+
+Topic 4:
+  programs:1.42
+  remove:0.83
+  services:0.81
+  system:0.75
+  questions:0.65
+  tools:0.62
+  tracking:0.45
+  read:0.45
+  materials:0.45
+  anonymity:0.40
+
+K: 5, Log-Likelihood: -396.001, Alpha: 11.000, Beta: 1.100

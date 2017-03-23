@@ -1,0 +1,41 @@
+Topic 0:
+  buy:0.20
+  suggestions:0.20
+  localbitcoin:0.20
+  find:0.20
+  dont:0.20
+  aged:0.20
+
+Topic 1:
+  aged:0.20
+  suggestions:0.20
+  find:0.20
+  localbitcoin:0.20
+  buy:0.20
+  dont:0.20
+
+Topic 2:
+  aged:0.20
+  dont:0.20
+  suggestions:0.20
+  find:0.20
+  localbitcoin:0.20
+  buy:0.20
+
+Topic 3:
+  dont:0.20
+  localbitcoin:0.20
+  buy:0.20
+  aged:0.20
+  suggestions:0.20
+  find:0.20
+
+Topic 4:
+  buy:0.20
+  dont:0.20
+  find:0.20
+  localbitcoin:0.20
+  suggestions:0.20
+  aged:0.20
+
+K: 5, Log-Likelihood: -10.751, Alpha: 11.000, Beta: 1.100

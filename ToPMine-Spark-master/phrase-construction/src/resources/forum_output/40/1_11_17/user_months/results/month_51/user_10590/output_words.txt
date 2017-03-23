@@ -1,0 +1,61 @@
+Topic 0:
+  onion:3.44
+  anonymous:3.05
+  completely:2.85
+  sites:1.20
+  layer:0.79
+  things:0.51
+  wan:0.48
+  curious:0.48
+  answers:0.48
+  jebusite:0.48
+
+Topic 1:
+  onion:1.59
+  question:0.83
+  expert:0.83
+  tutorials:0.82
+  anonymous:0.71
+  things:0.70
+  sites:0.67
+  site:0.54
+  isnt:0.53
+  personal:0.46
+
+Topic 2:
+  server:1.93
+  isnt:1.64
+  pick:1.44
+  onion:1.18
+  site:1.15
+  cat:1.06
+  reading:0.99
+  apache:0.58
+  choice:0.58
+  skip:0.58
+
+Topic 3:
+  find:2.80
+  secure:2.37
+  site:2.13
+  host:1.81
+  tor:1.81
+  system:1.81
+  interesting:1.81
+  server:1.76
+  idea:1.17
+  lemp:1.17
+
+Topic 4:
+  onion:1.48
+  things:0.76
+  tutorials:0.71
+  expert:0.71
+  question:0.70
+  site:0.69
+  sites:0.65
+  anonymous:0.63
+  isnt:0.52
+  server:0.50
+
+K: 5, Log-Likelihood: -908.616, Alpha: 11.000, Beta: 1.100

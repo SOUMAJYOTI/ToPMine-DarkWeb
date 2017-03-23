@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.98
+  abraxas:1.54
+  love:0.96
+  referred:0.80
+  darknet:0.75
+  avengers:0.72
+  link:0.69
+  dream:0.55
+  perspective:0.55
+  terms:0.55
+
+Topic 1:
+  link:2.77
+  love:2.68
+  market:2.13
+  abraxas:1.81
+  avengers:1.81
+  referred:1.72
+  listings:1.15
+  drug:1.10
+  agora:1.09
+  abraham:1.05
+
+Topic 2:
+  link:4.63
+  referred:2.40
+  abraxas:2.02
+  market:2.01
+  love:1.78
+  agora:1.45
+  abraham:1.40
+  drug:1.38
+  listings:1.27
+  avengers:1.24
+
+Topic 3:
+  abraxas:2.61
+  market:2.02
+  link:1.39
+  referred:1.36
+  love:0.91
+  darknet:0.84
+  listings:0.83
+  abraham:0.81
+  alphabay:0.76
+  agora:0.75
+
+Topic 4:
+  market:1.86
+  abraxas:1.01
+  good:0.74
+  minutiae:0.73
+  big:0.73
+  vendor:0.73
+  usability:0.73
+  friendly:0.73
+  markets:0.73
+  user:0.73
+
+K: 5, Log-Likelihood: -660.456, Alpha: 11.000, Beta: 1.100

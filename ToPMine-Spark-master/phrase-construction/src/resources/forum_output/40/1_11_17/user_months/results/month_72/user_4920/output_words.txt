@@ -1,0 +1,61 @@
+Topic 0:
+  addresses:0.42
+  people:0.39
+  pgp:0.39
+  forum:0.39
+  address:0.36
+  dont:0.36
+  collecting:0.20
+  ip:0.20
+  follow:0.20
+  thread:0.20
+
+Topic 1:
+  dont:0.41
+  address:0.40
+  pgp:0.40
+  forum:0.40
+  people:0.40
+  addresses:0.39
+  encrypted:0.20
+  hours:0.20
+  info:0.20
+  time:0.20
+
+Topic 2:
+  dont:0.48
+  address:0.48
+  people:0.40
+  pgp:0.40
+  forum:0.40
+  addresses:0.34
+  encrypt:0.22
+  bother:0.22
+  post:0.22
+  order:0.22
+
+Topic 3:
+  addresses:0.42
+  forum:0.41
+  pgp:0.40
+  people:0.40
+  address:0.38
+  dont:0.38
+  goodness:0.21
+  site:0.21
+  control:0.21
+  account:0.21
+
+Topic 4:
+  addresses:0.44
+  pgp:0.41
+  forum:0.41
+  people:0.41
+  address:0.37
+  dont:0.37
+  sense:0.21
+  scarf:0.21
+  logged:0.21
+  pedophile:0.21
+
+K: 5, Log-Likelihood: -212.211, Alpha: 11.000, Beta: 1.100

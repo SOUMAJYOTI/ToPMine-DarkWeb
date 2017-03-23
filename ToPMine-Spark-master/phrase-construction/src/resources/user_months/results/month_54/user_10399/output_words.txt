@@ -1,0 +1,61 @@
+Topic 0:
+  service:7.88
+  august:6.04
+  onions:5.62
+  hidden:5.57
+  services:5.16
+  passphrase:4.68
+  vulnerabilities:4.00
+  provide:3.77
+  things:3.57
+  public:3.40
+
+Topic 1:
+  markets:13.00
+  users:8.74
+  risk:7.59
+  agora:7.51
+  operators:7.03
+  smaller:6.61
+  traffic:6.02
+  illegal:5.37
+  resources:4.75
+  services:3.87
+
+Topic 2:
+  hidden:13.85
+  tor:10.26
+  services:9.28
+  le:4.44
+  point:4.14
+  servers:4.11
+  agora:3.92
+  read:3.19
+  issues:2.96
+  plug:2.83
+
+Topic 3:
+  passphrase:12.27
+  axis:8.16
+  mundi:6.55
+  key:6.44
+  august:6.32
+  provide:6.17
+  log:5.85
+  decrypt:5.07
+  onions:4.27
+  services:4.12
+
+Topic 4:
+  market:16.83
+  markets:10.55
+  good:5.38
+  agora:4.40
+  assume:4.10
+  escrow:3.90
+  interested:3.86
+  find:3.76
+  happy:3.71
+  parties:3.57
+
+K: 5, Log-Likelihood: -7462.999, Alpha: 11.000, Beta: 1.100

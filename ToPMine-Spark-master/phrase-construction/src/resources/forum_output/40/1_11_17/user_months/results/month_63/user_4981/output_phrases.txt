@@ -1,0 +1,61 @@
+Topic 0:
+  real site:6.96
+  fake site:3.38
+  staff:3.38
+  sites:3.38
+  asshole:3.38
+  phishers:3.38
+  private:3.38
+  info:3.38
+  links:3.38
+  bitcoins:3.38
+
+Topic 1:
+  address:1.97
+  dnstats:1.95
+  hmm:1.95
+  speaking:1.92
+  btc trading:1.90
+  type btc trading scam:1.72
+  sammy offering btc:1.65
+  phishing:1.63
+  category peppered bisbury threads:1.52
+  register:1.26
+
+Topic 2:
+  life:6.92
+  learned:3.35
+  drug:3.35
+  good:3.35
+  pmquote:3.35
+  btc trading scam:3.35
+  november:3.35
+  areas:3.35
+  applies:3.35
+  robbed:3.35
+
+Topic 3:
+  learn:2.08
+  stumbling:2.08
+  check:2.08
+  ag:2.08
+  user:2.08
+  closed:2.08
+  link:2.08
+  dollars:2.08
+  happened:2.08
+  double:2.08
+
+Topic 4:
+  distinguish genuine websites fake:3.65
+  papa nama december pmhow:3.64
+  quote:3.00
+  url uri:2.59
+  bits:2.57
+  pat:2.52
+  remember:1.78
+  persistent:1.73
+  volume:1.73
+  tails:1.73
+
+K: 5, Log-Likelihood: -1280.061, Alpha: 11.000, Beta: 1.100

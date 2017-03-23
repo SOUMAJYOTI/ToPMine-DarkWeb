@@ -1,0 +1,61 @@
+Topic 0:
+  market:29.33
+  large:11.04
+  exit:7.10
+  scams:6.91
+  markets:6.55
+  support:6.16
+  centralized:3.43
+  funny:3.42
+  exceptions:3.42
+  pattern:3.42
+
+Topic 1:
+  markets:9.17
+  multisig:7.49
+  market:6.20
+  support:5.18
+  learn:4.14
+  scams:3.28
+  good:3.26
+  link:2.40
+  exit:2.40
+  thing:2.30
+
+Topic 2:
+  vendors:4.58
+  trust:3.67
+  point:3.67
+  market:3.65
+  links:3.25
+  supporting:2.92
+  link:2.64
+  markets:2.01
+  exist:1.72
+  model:1.72
+
+Topic 3:
+  market:9.00
+  links:8.67
+  markets:2.09
+  link:2.04
+  love:1.99
+  phishers:1.88
+  future:1.17
+  referred:1.07
+  dream:0.98
+  deepdotweb:0.96
+
+Topic 4:
+  love:39.62
+  avengers:32.22
+  links:7.13
+  register:6.95
+  onion:5.28
+  market:4.83
+  affiliate:4.57
+  identified:2.70
+  avengersmkt:2.70
+  verify:2.69
+
+K: 5, Log-Likelihood: -2989.563, Alpha: 11.000, Beta: 1.100

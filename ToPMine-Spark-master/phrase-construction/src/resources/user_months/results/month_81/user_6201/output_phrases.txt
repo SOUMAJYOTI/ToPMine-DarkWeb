@@ -1,0 +1,61 @@
+Topic 0:
+  viewer:0.00
+  backup:0.00
+  string:0.00
+  notepad:0.00
+  videos:0.00
+  goggle:0.00
+  long:0.00
+  seemingly:0.00
+  random:0.00
+  view:0.00
+
+Topic 1:
+  viewer:0.00
+  backup:0.00
+  string:0.00
+  notepad:0.00
+  videos:0.00
+  goggle:0.00
+  long:0.00
+  seemingly:0.00
+  random:0.00
+  view:0.00
+
+Topic 2:
+  viewer:0.00
+  backup:0.00
+  string:0.00
+  notepad:0.00
+  videos:0.00
+  goggle:0.00
+  long:0.00
+  seemingly:0.00
+  random:0.00
+  view:0.00
+
+Topic 3:
+  viewer:0.00
+  backup:0.00
+  string:0.00
+  notepad:0.00
+  videos:0.00
+  goggle:0.00
+  long:0.00
+  seemingly:0.00
+  random:0.00
+  view:0.00
+
+Topic 4:
+  viewer:0.00
+  backup:0.00
+  string:0.00
+  notepad:0.00
+  videos:0.00
+  goggle:0.00
+  long:0.00
+  seemingly:0.00
+  random:0.00
+  view:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

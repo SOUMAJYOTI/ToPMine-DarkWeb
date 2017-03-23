@@ -1,0 +1,61 @@
+Topic 0:
+  traffic:5.53
+  computer:4.04
+  wifi:3.64
+  real:2.75
+  time:2.17
+  intercept:2.13
+  shut:2.12
+  tracked:2.10
+  google:2.10
+  built:2.06
+
+Topic 1:
+  nasty:3.45
+  kind:3.36
+  days:2.80
+  tireless:1.66
+  dangerous:1.66
+  convenient:1.66
+  realized:1.66
+  protection:1.66
+  purposes:1.66
+  amateurs:1.66
+
+Topic 2:
+  wifi:5.34
+  sudden:3.37
+  mac:3.37
+  ap:3.37
+  shit:3.37
+  point:3.37
+  paranoid:3.37
+  evil twin:3.05
+  access:2.65
+  people:1.92
+
+Topic 3:
+  traffic:2.95
+  computer:2.73
+  real:2.32
+  data:1.79
+  network:1.79
+  posted:1.76
+  time:1.76
+  wrong:1.73
+  frequency:1.72
+  theory:1.70
+
+Topic 4:
+  cash:6.63
+  carding:3.00
+  pull:2.72
+  bitcoins:2.38
+  dont:2.17
+  reading:2.16
+  posts:2.16
+  darcyweed:2.15
+  sites:1.57
+  poetic:1.57
+
+K: 5, Log-Likelihood: -4334.188, Alpha: 11.000, Beta: 1.100

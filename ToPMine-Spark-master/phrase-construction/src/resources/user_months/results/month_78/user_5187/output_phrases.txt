@@ -1,0 +1,41 @@
+Topic 0:
+  dhl:0.08
+  pool:0.08
+  vendor:0.08
+  del:0.08
+  smaller:0.08
+  happy:0.08
+
+Topic 1:
+  smaller:0.08
+  del:0.08
+  vendor:0.08
+  pool:0.08
+  happy:0.08
+  dhl:0.08
+
+Topic 2:
+  pool:0.08
+  del:0.08
+  dhl:0.08
+  happy:0.08
+  smaller:0.08
+  vendor:0.08
+
+Topic 3:
+  happy:0.08
+  vendor:0.08
+  smaller:0.08
+  del:0.08
+  dhl:0.08
+  pool:0.08
+
+Topic 4:
+  happy:0.08
+  vendor:0.08
+  pool:0.08
+  smaller:0.08
+  dhl:0.08
+  del:0.08
+
+K: 5, Log-Likelihood: -4.359, Alpha: 11.000, Beta: 1.100

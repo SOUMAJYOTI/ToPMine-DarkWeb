@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:0.41
+  problem:0.41
+  months:0.41
+  helps:0.20
+  based:0.20
+  reviewing:0.20
+  contact:0.20
+  closed:0.20
+  discussions:0.20
+  harm:0.20
+
+Topic 1:
+  vendors:0.41
+  problem:0.41
+  months:0.40
+  purchasing:0.21
+  helps:0.21
+  find:0.21
+  market market:0.21
+  based:0.21
+  reduction:0.21
+  closed:0.21
+
+Topic 2:
+  months:0.41
+  vendors:0.41
+  problem:0.41
+  user:0.20
+  times:0.20
+  jebusite:0.20
+  upgrade:0.20
+  log:0.20
+  incorrect:0.20
+  register:0.20
+
+Topic 3:
+  months:0.41
+  problem:0.41
+  vendors:0.40
+  jebusite:0.20
+  curious:0.20
+  incorrect:0.20
+  change:0.20
+  logging:0.20
+  passwords:0.20
+  times:0.20
+
+Topic 4:
+  months:0.41
+  problem:0.41
+  vendors:0.41
+  curious:0.20
+  referring:0.20
+  change:0.20
+  telling:0.20
+  reduction:0.20
+  user:0.20
+  log:0.20
+
+K: 5, Log-Likelihood: -114.024, Alpha: 11.000, Beta: 1.100

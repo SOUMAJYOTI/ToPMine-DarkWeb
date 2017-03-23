@@ -1,0 +1,61 @@
+Topic 0:
+  link:1.22
+  agora:0.81
+  post:0.68
+  quote:0.66
+  september:0.66
+  jack:0.56
+  thread:0.54
+  changed:0.54
+  markets:0.54
+  original:0.54
+
+Topic 1:
+  link:1.04
+  agora:0.74
+  september:0.66
+  quote:0.66
+  post:0.59
+  months:0.55
+  heads:0.49
+  isnt:0.49
+  official:0.49
+  guessing:0.49
+
+Topic 2:
+  months:1.17
+  post:0.57
+  september:0.53
+  quote:0.53
+  thailand:0.53
+  dont:0.53
+  week:0.53
+  missent:0.52
+  weeks:0.52
+  asked:0.52
+
+Topic 3:
+  months:0.81
+  link:0.71
+  quote:0.60
+  september:0.60
+  post:0.58
+  agora:0.57
+  reship:0.42
+  ordered:0.41
+  bud:0.41
+  ago:0.41
+
+Topic 4:
+  months:1.05
+  post:0.59
+  link:0.58
+  september:0.55
+  quote:0.55
+  stamp:0.48
+  doesnt:0.48
+  ordered:0.48
+  guy:0.48
+  weeks:0.48
+
+K: 5, Log-Likelihood: -383.356, Alpha: 11.000, Beta: 1.100

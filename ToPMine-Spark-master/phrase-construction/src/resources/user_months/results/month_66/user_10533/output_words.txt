@@ -1,0 +1,61 @@
+Topic 0:
+  wifi:7.21
+  wpa:3.70
+  wrong:3.58
+  wps:3.32
+  ur:2.91
+  air:2.91
+  secure:2.80
+  days:2.57
+  public:2.31
+  hardware:2.21
+
+Topic 1:
+  vpn:6.88
+  mac:6.37
+  tor:6.06
+  network:4.69
+  seedofchaos:4.38
+  spoofing:3.87
+  quote:3.72
+  good:3.26
+  idea:3.20
+  doesnt:2.83
+
+Topic 2:
+  january:7.22
+  power:4.45
+  lot:4.12
+  quote:4.03
+  hetty:3.86
+  dedicated:3.79
+  rainbow:3.79
+  sounds:3.79
+  tables:3.79
+  hide:3.69
+
+Topic 3:
+  dont:5.04
+  talking:4.84
+  networks:4.56
+  wifis:3.59
+  pretty:3.49
+  public:3.47
+  time:3.13
+  activity:2.67
+  safe:2.58
+  work:2.25
+
+Topic 4:
+  buy:9.50
+  laptop:8.22
+  tor:7.55
+  safe:5.71
+  december:5.66
+  public:4.98
+  pretty:4.28
+  connect:4.28
+  good:4.25
+  socks:4.22
+
+K: 5, Log-Likelihood: -4633.007, Alpha: 11.000, Beta: 1.100

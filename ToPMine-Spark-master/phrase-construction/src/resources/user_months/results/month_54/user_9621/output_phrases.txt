@@ -1,0 +1,61 @@
+Topic 0:
+  coin:0.89
+  sounds:0.50
+  stocks:0.33
+  drama:0.33
+  guaranteeing:0.33
+  time:0.33
+  spend time:0.33
+  legitimate:0.33
+  trade:0.33
+  fund:0.33
+
+Topic 1:
+  coin:1.42
+  sounds:0.63
+  money early:0.44
+  legitimate:0.44
+  long:0.44
+  boring:0.44
+  bullion:0.44
+  term:0.44
+  idea:0.44
+  period:0.44
+
+Topic 2:
+  offer:1.56
+  tornet:0.56
+  paying:0.56
+  hard:0.56
+  hourly investors:0.56
+  cryptos:0.56
+  cheerio:0.56
+  guys:0.56
+  stumbled:0.56
+  promoting:0.56
+
+Topic 3:
+  coin:1.61
+  sounds:0.65
+  investment:0.46
+  forget:0.46
+  day:0.46
+  scheme:0.46
+  pay:0.46
+  precious:0.46
+  lot:0.46
+  closely:0.46
+
+Topic 4:
+  offer:1.49
+  red:0.54
+  support:0.54
+  supporttalked:0.54
+  accepts:0.53
+  invest btc:0.53
+  sites:0.53
+  hourly interest:0.53
+  invest affiliate:0.53
+  post:0.53
+
+K: 5, Log-Likelihood: -1084.805, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  fees:0.00
+  week:0.00
+  access:0.00
+  wholesome:0.00
+  mature:0.00
+  onion:0.00
+  adults:0.00
+  rating:0.00
+  behalf:0.00
+  directory:0.00
+
+Topic 1:
+  fees:0.00
+  week:0.00
+  access:0.00
+  wholesome:0.00
+  mature:0.00
+  onion:0.00
+  adults:0.00
+  rating:0.00
+  behalf:0.00
+  directory:0.00
+
+Topic 2:
+  fees:0.00
+  week:0.00
+  access:0.00
+  wholesome:0.00
+  mature:0.00
+  onion:0.00
+  adults:0.00
+  rating:0.00
+  behalf:0.00
+  directory:0.00
+
+Topic 3:
+  fees:0.00
+  week:0.00
+  access:0.00
+  wholesome:0.00
+  mature:0.00
+  onion:0.00
+  adults:0.00
+  rating:0.00
+  behalf:0.00
+  directory:0.00
+
+Topic 4:
+  fees:0.00
+  week:0.00
+  access:0.00
+  wholesome:0.00
+  mature:0.00
+  onion:0.00
+  adults:0.00
+  rating:0.00
+  behalf:0.00
+  directory:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

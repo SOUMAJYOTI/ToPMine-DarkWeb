@@ -1,0 +1,61 @@
+Topic 0:
+  single:0.28
+  individually:0.14
+  amount:0.14
+  find:0.14
+  sells:0.14
+  wife:0.14
+  person:0.14
+  ebay:0.14
+  sold:0.14
+  carder:0.14
+
+Topic 1:
+  single:0.28
+  carder:0.14
+  watches:0.14
+  sold:0.14
+  hope:0.14
+  total:0.14
+  offer:0.14
+  precise:0.14
+  wife:0.14
+  person:0.14
+
+Topic 2:
+  single:0.28
+  bay:0.14
+  refunds:0.14
+  evolution:0.14
+  market:0.14
+  subforum:0.14
+  forums:0.14
+  amazon:0.14
+  evo:0.14
+  question:0.14
+
+Topic 3:
+  single:0.28
+  sells:0.14
+  purchased:0.14
+  precise:0.14
+  wife:0.14
+  ebay:0.14
+  individually:0.14
+  find:0.14
+  amount:0.14
+  total:0.14
+
+Topic 4:
+  single:0.28
+  response:0.14
+  bay:0.14
+  evolution:0.14
+  amazon:0.14
+  registered:0.14
+  market:0.14
+  evo:0.14
+  question:0.14
+  forums:0.14
+
+K: 5, Log-Likelihood: -75.529, Alpha: 11.000, Beta: 1.100

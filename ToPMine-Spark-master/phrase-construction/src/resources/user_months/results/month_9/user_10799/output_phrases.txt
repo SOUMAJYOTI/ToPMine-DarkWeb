@@ -1,0 +1,61 @@
+Topic 0:
+  boogie:2.68
+  proton mail:2.62
+  quote:2.12
+  wonderful:2.12
+  laughed:2.12
+  humor:2.11
+  mins:2.11
+  sense:2.10
+  good:1.74
+  dont:1.55
+
+Topic 1:
+  exposure:3.08
+  proton mail:2.15
+  journalist:1.89
+  talk:1.49
+  cold:1.49
+  hate:1.49
+  twist:1.49
+  position:1.49
+  represnt:1.49
+  corrupt:1.49
+
+Topic 2:
+  protonmail:11.70
+  attacker:8.23
+  mass surveillance:5.13
+  user:3.87
+  data:3.61
+  privacy:3.52
+  security:3.30
+  keys:2.41
+  secure system:2.38
+  service:2.38
+
+Topic 3:
+  reply:14.45
+  reply admin:6.41
+  secure solutions:4.80
+  reply admin pm:4.80
+  edward snowden:3.60
+  reject:3.19
+  pm:3.19
+  government:3.19
+  ron:3.19
+  forward:3.19
+
+Topic 4:
+  protonmail:9.40
+  user:3.33
+  privacy:2.61
+  time:1.93
+  security:1.57
+  attacker:1.40
+  simply:1.39
+  code:1.31
+  data:1.29
+  mass surveillance:1.28
+
+K: 5, Log-Likelihood: -6925.487, Alpha: 11.000, Beta: 1.100

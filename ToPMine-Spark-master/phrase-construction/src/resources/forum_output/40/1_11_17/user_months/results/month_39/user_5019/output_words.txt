@@ -1,0 +1,61 @@
+Topic 0:
+  money:26.15
+  sheep:9.44
+  marketplace:9.17
+  house:8.32
+  police:7.89
+  catch:6.31
+  ji:6.21
+  officers:5.46
+  ikovsk:5.23
+  note:5.13
+
+Topic 1:
+  pgp:7.61
+  justice:3.84
+  post:3.67
+  received:3.64
+  site:3.63
+  guys:3.63
+  replies:3.63
+  reponses:3.63
+  frustration:3.62
+  grips:3.60
+
+Topic 2:
+  money:10.13
+  house:7.58
+  marketplace:7.11
+  sheep:7.03
+  ji:6.94
+  ikovsk:6.13
+  bank:4.07
+  officers:3.72
+  bitcoins:3.71
+  catch:3.53
+
+Topic 3:
+  tmg:3.81
+  place:3.80
+  link:3.24
+  forum:2.23
+  people:1.98
+  purchasing:1.90
+  net:1.90
+  clearnet:1.90
+  converting:1.90
+  extremely:1.90
+
+Topic 4:
+  money:38.48
+  marketplace:26.47
+  police:24.59
+  ji:21.70
+  ikovsk:20.47
+  sheep:17.14
+  house:15.93
+  catch:14.13
+  note:13.65
+  bank:12.57
+
+K: 5, Log-Likelihood: -11305.580, Alpha: 11.000, Beta: 1.100

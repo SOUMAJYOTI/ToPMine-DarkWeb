@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:1.85
+  site:0.96
+  replies:0.96
+  guys:0.95
+  frustration:0.95
+  received:0.94
+  wrong:0.93
+  reponses:0.93
+  grips:0.92
+  post:0.88
+
+Topic 1:
+  pgp:2.00
+  guys:1.10
+  replies:1.08
+  wrong:1.08
+  received:1.07
+  grips:1.06
+  reponses:1.06
+  site:1.05
+  frustration:1.03
+  post:0.87
+
+Topic 2:
+  pgp:2.19
+  grips:1.02
+  frustration:0.99
+  wrong:0.99
+  received:0.99
+  replies:0.98
+  reponses:0.94
+  guys:0.94
+  site:0.94
+  post:0.93
+
+Topic 3:
+  place:2.87
+  tmg:2.86
+  web:1.16
+  sense:1.16
+  thumbs:1.15
+  people:1.15
+  developer:1.15
+  acid:1.15
+  india:1.15
+  team:1.15
+
+Topic 4:
+  pgp:1.69
+  post:1.12
+  forum:0.90
+  reponses:0.87
+  site:0.84
+  frustration:0.82
+  guys:0.81
+  received:0.80
+  wrong:0.79
+  grips:0.79
+
+K: 5, Log-Likelihood: -470.049, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  services:0.59
+  coins:0.45
+  blocks worth anc:0.37
+  transactions:0.31
+  coin:0.29
+  tor:0.26
+  cryptocurrency:0.26
+  mixer:0.26
+  features:0.26
+  anoncoin:0.26
+
+Topic 1:
+  services:0.58
+  coins:0.45
+  blocks worth anc:0.38
+  transactions:0.31
+  coin:0.29
+  cryptocurrency:0.26
+  strength:0.26
+  services users:0.26
+  service:0.26
+  clearnet:0.26
+
+Topic 2:
+  services:0.98
+  blocks worth anc:0.52
+  coins:0.48
+  anoncoin:0.33
+  operating:0.33
+  numbers:0.33
+  service:0.33
+  clearnet:0.33
+  traced:0.33
+  invisible web:0.33
+
+Topic 3:
+  services:0.55
+  coins:0.45
+  blocks worth anc:0.37
+  transactions:0.32
+  coin:0.29
+  invisible web:0.25
+  strength:0.25
+  numbers:0.25
+  features:0.25
+  traced:0.25
+
+Topic 4:
+  services:0.77
+  coins:0.47
+  blocks worth anc:0.44
+  features:0.29
+  services coin:0.29
+  traced:0.29
+  services users:0.29
+  clearnet:0.29
+  mixer:0.29
+  tor:0.29
+
+K: 5, Log-Likelihood: -520.871, Alpha: 11.000, Beta: 1.100

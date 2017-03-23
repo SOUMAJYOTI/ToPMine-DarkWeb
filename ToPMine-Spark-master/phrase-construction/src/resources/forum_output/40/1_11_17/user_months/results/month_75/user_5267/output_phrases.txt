@@ -1,0 +1,61 @@
+Topic 0:
+  bank:0.16
+  account:0.16
+  pick:0.16
+  money:0.16
+  pmim:0.08
+  wallet:0.08
+  hofmannite:0.08
+  sort:0.08
+  unsure:0.08
+  coins:0.08
+
+Topic 1:
+  pick:0.16
+  money:0.16
+  bank:0.16
+  account:0.16
+  person:0.08
+  receiver:0.08
+  deposit:0.08
+  transfer:0.08
+  bitcoins:0.08
+  refuses:0.08
+
+Topic 2:
+  money:0.16
+  pick:0.16
+  account:0.16
+  bank:0.16
+  deal:0.08
+  failed:0.08
+  lose:0.08
+  dont:0.08
+  transaction:0.08
+  refuses:0.08
+
+Topic 3:
+  bank:0.16
+  account:0.16
+  pick:0.16
+  money:0.16
+  method:0.08
+  listing:0.08
+  deeper:0.08
+  vendor:0.08
+  deposits:0.08
+  teller:0.08
+
+Topic 4:
+  money:0.16
+  pick:0.16
+  account:0.16
+  bank:0.16
+  info:0.08
+  deal:0.08
+  choice:0.08
+  problem:0.08
+  wrong:0.08
+  receiver:0.08
+
+K: 5, Log-Likelihood: -83.437, Alpha: 11.000, Beta: 1.100

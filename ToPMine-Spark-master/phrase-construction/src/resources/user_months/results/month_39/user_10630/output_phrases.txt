@@ -1,0 +1,61 @@
+Topic 0:
+  month:0.28
+  trust:0.28
+  retired:0.28
+  wallet:0.28
+  point:0.14
+  pull:0.14
+  transactions:0.14
+  fear:0.14
+  key:0.14
+  ready:0.14
+
+Topic 1:
+  retired:0.28
+  trust:0.28
+  wallet:0.28
+  month:0.28
+  times:0.14
+  drugs:0.14
+  arrives:0.14
+  market:0.14
+  lost:0.14
+  ordering:0.14
+
+Topic 2:
+  wallet:0.28
+  trust:0.28
+  month:0.28
+  retired:0.28
+  slow:0.14
+  question:0.14
+  man:0.14
+  contacting:0.14
+  wondering:0.14
+  week:0.14
+
+Topic 3:
+  wallet:0.28
+  retired:0.28
+  trust:0.28
+  month:0.28
+  confirm:0.14
+  weeks:0.14
+  time:0.14
+  mdma:0.14
+  europe:0.14
+  order:0.14
+
+Topic 4:
+  month:0.28
+  trust:0.28
+  wallet:0.28
+  retired:0.28
+  hey:0.14
+  agora:0.14
+  week:0.14
+  man:0.14
+  contacting:0.14
+  question:0.14
+
+K: 5, Log-Likelihood: -161.574, Alpha: 11.000, Beta: 1.100

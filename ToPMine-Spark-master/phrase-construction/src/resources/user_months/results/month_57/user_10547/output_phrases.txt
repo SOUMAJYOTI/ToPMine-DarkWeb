@@ -1,0 +1,61 @@
+Topic 0:
+  type:8.00
+  subkeys:6.39
+  secret subkey:6.39
+  files:6.39
+  machine key:6.39
+  passphrase:6.39
+  commands:6.39
+  key:5.90
+  secret:4.78
+  secret key:4.78
+
+Topic 1:
+  bit encryption key:3.52
+  hacked programs bit:3.52
+  computing power:3.52
+  cracked:3.16
+  bit:2.83
+  quote fatherted august:2.42
+  mate half brain copy:2.42
+  follow ill care sarcasm:2.42
+  buzzing:2.31
+  follow:2.31
+
+Topic 2:
+  key:3.11
+  sigaints:1.35
+  generated:1.35
+  regular:1.35
+  wondering:1.35
+  public pgp:1.35
+  key longer:1.35
+  pasted:1.09
+  chose:0.87
+  administration:0.87
+
+Topic 3:
+  keys:3.33
+  encoded:3.18
+  caught:3.18
+  trust:3.18
+  long:3.18
+  content:3.18
+  public key:3.16
+  public:2.46
+  addresses:1.68
+  pip:1.67
+
+Topic 4:
+  key length:4.77
+  vendors:3.30
+  bit:3.29
+  bit keys:3.29
+  rsa cracked:3.17
+  remember:3.17
+  alway:1.91
+  size:1.90
+  curious:1.90
+  mind:1.90
+
+K: 5, Log-Likelihood: -4726.582, Alpha: 11.000, Beta: 1.100

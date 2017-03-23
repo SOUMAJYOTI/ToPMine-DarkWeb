@@ -1,0 +1,61 @@
+Topic 0:
+  implement:6.01
+  escrow:6.01
+  fa:4.90
+  behaviour:4.67
+  passed:3.99
+  tested:3.99
+  planning:3.99
+  money:3.99
+  steal:3.99
+  password:3.80
+
+Topic 1:
+  spamming including inbox bad:4.07
+  signed users:3.80
+  quote sunwu april pmpigeon:3.80
+  referrals:3.14
+  useless:3.14
+  sr:3.14
+  pmi:3.14
+  referral:3.14
+  reports general:3.14
+  referred link:3.14
+
+Topic 2:
+  characters:3.48
+  pigeon dodge password rules:2.98
+  pigeon:2.96
+  pyrbax april pmsign:2.95
+  consciously oversight front:2.64
+  yourprospective:1.96
+  imposing:1.96
+  happy:1.96
+  password character:1.96
+  password rules:1.96
+
+Topic 3:
+  password:6.24
+  playground april pmquote:4.95
+  letters:3.99
+  break:3.99
+  case:3.99
+  sensitive:3.99
+  feel free register general:3.38
+  link lol:3.37
+  passwords:3.32
+  special characters passwords:3.09
+
+Topic 4:
+  decide:4.00
+  kind:4.00
+  fe:4.00
+  community:4.00
+  huge:1.98
+  user:1.98
+  seller:1.98
+  measures:1.98
+  personal:1.98
+  offensive:1.98
+
+K: 5, Log-Likelihood: -3766.392, Alpha: 11.000, Beta: 1.100

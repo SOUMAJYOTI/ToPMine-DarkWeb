@@ -1,0 +1,61 @@
+Topic 0:
+  evolution:19.32
+  negative feedback:15.99
+  buyer:13.74
+  vendor:10.05
+  market:9.29
+  srf:8.20
+  business:8.16
+  big deal:8.15
+  staff:8.06
+  product:7.92
+
+Topic 1:
+  site:16.12
+  sites:14.15
+  public key:12.50
+  deep web:12.02
+  escrow:11.87
+  funding tx:11.14
+  hope:9.97
+  coin:9.83
+  remember:9.62
+  accept escrow:9.59
+
+Topic 2:
+  hidden volume:44.69
+  truecrypt:34.23
+  drive letter:27.93
+  file:27.93
+  outer volume:27.93
+  click:25.28
+  selected:25.13
+  flash drive:22.34
+  random txt:22.34
+  quote click:22.34
+
+Topic 3:
+  multi sig:18.84
+  socks:11.63
+  ample scope loss coins:9.99
+  quote:9.74
+  proxifier:9.59
+  address port:9.59
+  fact:8.63
+  exit:7.56
+  transaction books expect payment:7.47
+  market hack scamming admins:7.47
+
+Topic 4:
+  country:19.19
+  mm mm:19.19
+  mail:17.71
+  mm:15.99
+  browser:13.98
+  manually sorted:12.79
+  bleach:12.79
+  true network:12.78
+  scammers:9.89
+  sh address:9.60
+
+K: 5, Log-Likelihood: -76653.912, Alpha: 11.000, Beta: 1.100

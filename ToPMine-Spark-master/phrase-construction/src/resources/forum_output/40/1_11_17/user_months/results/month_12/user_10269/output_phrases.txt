@@ -1,0 +1,61 @@
+Topic 0:
+  flax:20.42
+  capsules:8.48
+  appetite:6.78
+  flax testosterone:6.78
+  flax generic:5.08
+  anti estrogen:5.08
+  size pill:3.93
+  primobolan:3.37
+  capsule:3.37
+  phentermine:3.37
+
+Topic 1:
+  people:1.03
+  weight loss:0.61
+  lose weight:0.50
+  eat:0.49
+  full:0.43
+  great:0.42
+  time:0.41
+  fast weight loss:0.41
+  stack:0.40
+  mcg:0.40
+
+Topic 2:
+  house:1.39
+  dr:1.32
+  wizard:1.15
+  buyers:0.84
+  real:0.74
+  yep:0.74
+  pmare:0.72
+  grand:0.69
+  thread:0.58
+  flaxceed:0.42
+
+Topic 3:
+  thread:2.43
+  traffic:2.14
+  stickied:2.13
+  feeling:2.13
+  quote:2.13
+  grand:1.80
+  buyers:1.61
+  flaxceed:1.56
+  clonotrils:1.55
+  mister:1.55
+
+Topic 4:
+  eat:9.68
+  brazil nuts:8.17
+  drink:6.46
+  day mcgday:6.45
+  water:4.81
+  metabolism:4.80
+  day:4.80
+  fat free:4.80
+  watermelon:4.80
+  body:4.79
+
+K: 5, Log-Likelihood: -6990.624, Alpha: 11.000, Beta: 1.100

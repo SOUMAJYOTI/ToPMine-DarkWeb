@@ -1,0 +1,61 @@
+Topic 0:
+  coins:6.72
+  bitcoins:3.89
+  helix:2.11
+  users:2.03
+  tumblers:1.17
+  user:1.17
+  source:0.91
+  pool:0.90
+  receive:0.89
+  dirty:0.85
+
+Topic 1:
+  good:1.68
+  mixing:1.60
+  mix:1.41
+  blender:1.32
+  extra:1.13
+  bitin:1.12
+  bitcoin:1.04
+  buy:1.00
+  addresses:0.68
+  tips:0.59
+
+Topic 2:
+  users:6.50
+  bitcoins:4.21
+  coins:4.19
+  user:3.11
+  tumblers:2.64
+  helix:2.00
+  dirty:1.99
+  source:1.93
+  receives:1.22
+  doesnt:1.20
+
+Topic 3:
+  coins:13.32
+  address:5.38
+  taint:3.73
+  analysis:3.72
+  mining:2.87
+  helix:2.73
+  transactions:2.04
+  received:1.87
+  bitcoins:1.77
+  claims:1.53
+
+Topic 4:
+  mix:6.46
+  btc:5.45
+  trail:4.53
+  mixing:4.18
+  transaction:3.57
+  deposit:3.50
+  anonymity:3.49
+  blender:3.41
+  bitcoin:3.26
+  withdraw:2.61
+
+K: 5, Log-Likelihood: -1651.996, Alpha: 11.000, Beta: 1.100

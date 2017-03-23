@@ -1,0 +1,41 @@
+Topic 0:
+  understand:0.40
+  sign:0.40
+  march:0.20
+  amnever:0.20
+  aquaman:0.20
+  quote:0.20
+
+Topic 1:
+  understand:0.40
+  sign:0.40
+  march:0.20
+  quote:0.20
+  amnever:0.20
+  aquaman:0.20
+
+Topic 2:
+  sign:0.40
+  understand:0.40
+  aquaman:0.20
+  amnever:0.20
+  march:0.20
+  quote:0.20
+
+Topic 3:
+  understand:0.40
+  sign:0.40
+  quote:0.20
+  march:0.20
+  aquaman:0.20
+  amnever:0.20
+
+Topic 4:
+  sign:0.40
+  understand:0.40
+  amnever:0.20
+  quote:0.20
+  aquaman:0.20
+  march:0.20
+
+K: 5, Log-Likelihood: -13.896, Alpha: 11.000, Beta: 1.100

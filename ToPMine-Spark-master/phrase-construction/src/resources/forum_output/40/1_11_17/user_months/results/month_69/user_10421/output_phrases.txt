@@ -1,0 +1,61 @@
+Topic 0:
+  quote jules winnfield february:3.96
+  electrum hansa:3.79
+  multi sig:3.34
+  sign transaction:2.67
+  amdoes:2.28
+  instructions:2.28
+  electrum care:2.23
+  word:2.23
+  explain:2.22
+  standard protocol:2.22
+
+Topic 1:
+  wow:3.90
+  waiting:3.79
+  hans:2.42
+  check:2.35
+  lsd:2.34
+  wraps:2.34
+  weed:2.34
+  zag:2.34
+  mexican:2.34
+  dmt:2.34
+
+Topic 2:
+  public key:18.69
+  multisignature address:12.71
+  redeem script:10.99
+  market:10.18
+  multisignature escrow:9.16
+  timelock transaction:8.25
+  merchant:8.18
+  bitcoin address:7.25
+  bitcoin public key:6.76
+  bitcoin addresses:6.75
+
+Topic 3:
+  multisignature address:18.42
+  redeem script:12.95
+  sign transaction:8.01
+  customer:7.71
+  public key:7.65
+  multisignature escrow:7.59
+  market:6.05
+  master public key:5.85
+  address:5.18
+  bitcoin address:4.70
+
+Topic 4:
+  central escrow markets:7.16
+  hansa:5.97
+  weve:5.84
+  busiest:4.76
+  remain:4.76
+  surprise:4.76
+  easy:4.76
+  experience:4.76
+  simple:4.76
+  escrow system:4.02
+
+K: 5, Log-Likelihood: -12000.680, Alpha: 11.000, Beta: 1.100

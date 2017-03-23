@@ -1,0 +1,61 @@
+Topic 0:
+  mutta:0.28
+  ensimm:0.28
+  sen:0.28
+  olemassa:0.14
+  vain:0.14
+  tollasta:0.14
+  olla:0.14
+  teisell:0.14
+  vaihtoehtoa:0.14
+  eip:0.14
+
+Topic 1:
+  sen:0.28
+  mutta:0.28
+  ensimm:0.28
+  bittimaatti:0.14
+  vain:0.14
+  taida:0.14
+  tollasta:0.14
+  olla:0.14
+  vaihtoehtoa:0.14
+  eip:0.14
+
+Topic 2:
+  ensimm:0.28
+  sen:0.28
+  mutta:0.28
+  july:0.14
+  ei:0.14
+  bittirahalla:0.14
+  keen:0.14
+  aija:0.14
+  bittirahakin:0.14
+  ostossa:0.14
+
+Topic 3:
+  sen:0.28
+  ensimm:0.28
+  mutta:0.28
+  rahojen:0.14
+  bittirahalla:0.14
+  sittelev:0.14
+  menee:0.14
+  siirrossa:0.14
+  esim:0.14
+  sittely:0.14
+
+Topic 4:
+  mutta:0.28
+  sen:0.28
+  ensimm:0.28
+  olla:0.14
+  teisell:0.14
+  taida:0.14
+  olemassa:0.14
+  vaihtoehtoa:0.14
+  eip:0.14
+  tollasta:0.14
+
+K: 5, Log-Likelihood: -194.165, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  problem:2.72
+  blockchain:1.36
+  fact:1.36
+  address:1.36
+  bitcoin:1.36
+  withdrew:1.36
+  week:1.36
+  withdrawal:1.36
+  sitting:1.36
+  checked:1.36
+
+Topic 1:
+  dick:3.22
+  bitching:3.22
+  pop:1.53
+  griping:1.53
+  annoying:1.53
+  forums:1.53
+  piss:1.53
+  jolly:1.53
+  assure:1.53
+  thatll:1.53
+
+Topic 2:
+  money:3.15
+  start:1.47
+  move:1.47
+  peoples:1.47
+  free:1.47
+  stealing:1.47
+  dont:1.47
+  collect:1.47
+  smart:1.47
+  reputation:1.47
+
+Topic 3:
+  good:3.37
+  hours:3.20
+  luck:1.51
+  pretty:1.51
+  longer:1.51
+  complete:1.51
+  posted:1.51
+  update:1.51
+  ticket:1.51
+  arrived:1.51
+
+Topic 4:
+  arrive:1.48
+  btc:1.43
+  fog time:1.41
+  scami:1.40
+  don:1.40
+  detective:1.39
+  fog:1.04
+  phishing:0.96
+  ichbinderking:0.96
+  wernt:0.96
+
+K: 5, Log-Likelihood: -950.497, Alpha: 11.000, Beta: 1.100

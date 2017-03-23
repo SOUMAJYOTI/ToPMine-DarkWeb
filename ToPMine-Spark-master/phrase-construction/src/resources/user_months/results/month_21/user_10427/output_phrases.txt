@@ -1,0 +1,61 @@
+Topic 0:
+  screen:0.37
+  encountered:0.20
+  login:0.20
+  problem:0.18
+  loading:0.18
+  connect:0.18
+  time:0.18
+  working:0.18
+  dont:0.18
+  fyi:0.18
+
+Topic 1:
+  screen:0.37
+  encountered:0.20
+  login:0.20
+  problem:0.18
+  loading:0.18
+  time:0.18
+  dont:0.18
+  unable:0.18
+  connect:0.18
+  fyi:0.18
+
+Topic 2:
+  screen:0.37
+  login:0.20
+  encountered:0.20
+  loading:0.18
+  problem:0.18
+  unable:0.18
+  dont:0.18
+  connect:0.18
+  time:0.18
+  bluesky:0.18
+
+Topic 3:
+  screen:0.36
+  login:0.20
+  encountered:0.20
+  fyi:0.18
+  fine:0.18
+  long:0.18
+  working:0.18
+  bluesky:0.18
+  connect:0.18
+  time:0.18
+
+Topic 4:
+  screen:0.36
+  encountered:0.20
+  login:0.20
+  unable:0.18
+  dont:0.18
+  connect:0.18
+  time:0.18
+  long:0.18
+  working:0.18
+  bluesky:0.18
+
+K: 5, Log-Likelihood: -36.868, Alpha: 11.000, Beta: 1.100

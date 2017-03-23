@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:1.96
+  reading:0.86
+  reachable:0.85
+  find:0.85
+  board:0.84
+  suits:0.84
+  active:0.84
+  shop:0.82
+  moment:0.66
+  days:0.66
+
+Topic 1:
+  provide:2.57
+  vendors:1.27
+  fellow:1.11
+  btw:1.11
+  gardeners:1.11
+  store:1.11
+  albions store:1.10
+  mdma:1.10
+  led:1.10
+  happened:1.10
+
+Topic 2:
+  pm:1.04
+  albion:0.91
+  vendors:0.89
+  albions:0.69
+  reachable:0.66
+  suits:0.65
+  find:0.65
+  active:0.65
+  board:0.65
+  reading:0.64
+
+Topic 3:
+  pm:2.74
+  albion:1.46
+  quote:1.21
+  vendor:1.20
+  updating:1.18
+  november:1.17
+  site:1.17
+  trouble:1.16
+  accepting:1.16
+  running:1.16
+
+Topic 4:
+  albion:1.08
+  pm:0.99
+  change:0.85
+  albions:0.84
+  orders:0.83
+  read:0.83
+  shop:0.82
+  topic:0.82
+  days:0.82
+  moment:0.81
+
+K: 5, Log-Likelihood: -509.451, Alpha: 11.000, Beta: 1.100

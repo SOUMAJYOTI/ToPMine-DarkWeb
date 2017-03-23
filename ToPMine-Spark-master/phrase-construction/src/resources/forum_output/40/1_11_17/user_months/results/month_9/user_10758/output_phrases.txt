@@ -1,0 +1,61 @@
+Topic 0:
+  cheating:3.74
+  find:2.46
+  data:2.30
+  spreading:2.30
+  lose:2.30
+  sinister:2.30
+  chains:2.30
+  guess:2.30
+  slaves:2.30
+  defending:2.30
+
+Topic 1:
+  drivers:4.56
+  appreciated:3.65
+  manufacturers:3.65
+  undercarriage:2.27
+  powerful:2.27
+  point:2.27
+  cell:2.27
+  provider:2.27
+  inx:2.27
+  magnets attached:2.27
+
+Topic 2:
+  ordinates:4.67
+  device:4.67
+  sms:4.67
+  unit:4.67
+  configuration:4.67
+  location:4.67
+  find:4.47
+  extract:4.16
+  lucky:3.11
+  gps:2.95
+
+Topic 3:
+  hookup:7.65
+  resolution:6.95
+  dimensions:4.60
+  higher:4.60
+  vendor:4.33
+  photos:3.80
+  update:3.77
+  direct:3.77
+  frame:3.77
+  rock:3.77
+
+Topic 4:
+  shit:7.28
+  june pmquote:5.70
+  car:5.10
+  el presidente:4.92
+  peek nice day happy:4.70
+  sell ebay superb idea:4.70
+  amun june pmlooks:4.68
+  quote:4.57
+  guy sold ebay sugest:3.89
+  exact type model obi:3.83
+
+K: 5, Log-Likelihood: -3436.772, Alpha: 11.000, Beta: 1.100

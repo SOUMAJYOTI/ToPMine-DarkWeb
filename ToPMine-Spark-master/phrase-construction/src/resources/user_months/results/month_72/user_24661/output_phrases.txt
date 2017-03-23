@@ -1,0 +1,61 @@
+Topic 0:
+  message txt:1.23
+  unencrypted:0.72
+  site:0.72
+  export armor:0.71
+  case:0.71
+  directory:0.69
+  copy:0.68
+  list:0.68
+  message file:0.67
+  accounts:0.65
+
+Topic 1:
+  chime:0.56
+  newb:0.56
+  friendly:0.56
+  recommend:0.56
+  set:0.55
+  manage:0.55
+  pgp keys:0.55
+  software:0.55
+  public key:0.46
+  decrypt:0.44
+
+Topic 2:
+  message txt:2.89
+  accounts:1.33
+  message file:1.31
+  copy:1.30
+  list:1.30
+  directory:1.29
+  case:1.27
+  export armor:1.26
+  unencrypted:1.26
+  site:1.26
+
+Topic 3:
+  working:2.03
+  vendor:1.45
+  pgp:1.42
+  asked:0.94
+  setting:0.94
+  log:0.94
+  gpg public:0.94
+  yall:0.94
+  tails:0.94
+  wallets:0.94
+
+Topic 4:
+  decrypt private key:3.13
+  public key:2.62
+  encrypt:2.04
+  pgp pgp:2.04
+  pgp:1.07
+  decrypt:1.05
+  messages:0.95
+  owner:0.95
+  purchased:0.95
+  text:0.95
+
+K: 5, Log-Likelihood: -1023.981, Alpha: 11.000, Beta: 1.100

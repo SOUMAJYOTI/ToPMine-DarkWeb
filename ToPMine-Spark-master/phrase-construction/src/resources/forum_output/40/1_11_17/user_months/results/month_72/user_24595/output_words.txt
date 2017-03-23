@@ -1,0 +1,61 @@
+Topic 0:
+  kernel:13.15
+  tor:11.22
+  isolation:10.48
+  proxying:6.38
+  applications:6.20
+  client:5.73
+  stream:5.33
+  application:5.04
+  transparent:4.31
+  socksports:4.24
+
+Topic 1:
+  wget:6.05
+  site:4.76
+  torsocks:3.10
+  proxy:2.30
+  time:1.76
+  savers:1.62
+  case:1.25
+  socks:1.24
+  tor:0.98
+  honest:0.85
+
+Topic 2:
+  torsocks:2.80
+  transparent:2.79
+  proxy:1.57
+  wait:1.36
+  random:1.32
+  internet:1.30
+  set:1.28
+  connection:1.24
+  generated:1.02
+  program:1.02
+
+Topic 3:
+  tor:3.77
+  transparent:3.20
+  connection:2.59
+  application:2.56
+  proxying:2.48
+  socksports:2.22
+  kernel:2.18
+  isolation:2.11
+  client:2.10
+  transprots:2.03
+
+Topic 4:
+  tor:7.18
+  kernel:4.38
+  transparent:3.19
+  proxying:2.80
+  applications:2.79
+  connection:2.62
+  socksports:2.23
+  isolation:2.18
+  application:2.15
+  stream:1.95
+
+K: 5, Log-Likelihood: -3136.693, Alpha: 11.000, Beta: 1.100

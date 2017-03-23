@@ -1,0 +1,61 @@
+Topic 0:
+  logging:0.08
+  image:0.08
+  terrorist:0.08
+  top:0.08
+  idea:0.08
+  plz:0.08
+  forgib:0.08
+  methanks:0.08
+  captcha:0.08
+  answer:0.08
+
+Topic 1:
+  temporary:0.08
+  load:0.08
+  unusual:0.08
+  correct:0.08
+  longer:0.08
+  address:0.08
+  onion:0.08
+  occasionlly:0.08
+  performance:0.08
+  things:0.08
+
+Topic 2:
+  methanks:0.08
+  plz:0.08
+  forgib:0.08
+  top:0.08
+  image:0.08
+  idea:0.08
+  captcha:0.08
+  logging:0.08
+  terrorist:0.08
+  answer:0.08
+
+Topic 3:
+  hang:0.08
+  unusual:0.08
+  confirms:0.08
+  catchpa:0.08
+  agorahooawayyfoe:0.08
+  performance:0.08
+  reaso:0.08
+  slow:0.08
+  agra:0.08
+  address:0.08
+
+Topic 4:
+  answer:0.08
+  methanks:0.08
+  forgib:0.08
+  image:0.08
+  top:0.08
+  captcha:0.08
+  idea:0.08
+  agora:0.08
+  plz:0.08
+  terrorist:0.08
+
+K: 5, Log-Likelihood: -43.385, Alpha: 11.000, Beta: 1.100

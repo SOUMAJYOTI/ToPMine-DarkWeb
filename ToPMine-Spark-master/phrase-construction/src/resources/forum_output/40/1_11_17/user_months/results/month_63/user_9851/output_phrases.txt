@@ -1,0 +1,61 @@
+Topic 0:
+  ho:0.78
+  bit:0.51
+  caught:0.41
+  money:0.41
+  house:0.41
+  point:0.41
+  kilos:0.37
+  ve:0.36
+  time:0.31
+  chatted:0.20
+
+Topic 1:
+  ho:0.75
+  bit:0.51
+  point:0.41
+  house:0.41
+  caught:0.41
+  money:0.40
+  kilos:0.37
+  ve:0.36
+  time:0.30
+  bags cars:0.20
+
+Topic 2:
+  ho:0.81
+  bit:0.52
+  point:0.41
+  money:0.41
+  house:0.41
+  caught:0.41
+  ve:0.37
+  kilos:0.36
+  time:0.31
+  shit:0.20
+
+Topic 3:
+  ho:0.88
+  bit:0.51
+  money:0.41
+  caught:0.41
+  house:0.41
+  point:0.41
+  ve:0.37
+  kilos:0.37
+  time:0.31
+  poor:0.20
+
+Topic 4:
+  ho:0.87
+  bit:0.52
+  point:0.41
+  house:0.41
+  caught:0.41
+  money:0.41
+  ve:0.38
+  kilos:0.36
+  time:0.31
+  judge:0.20
+
+K: 5, Log-Likelihood: -832.426, Alpha: 11.000, Beta: 1.100

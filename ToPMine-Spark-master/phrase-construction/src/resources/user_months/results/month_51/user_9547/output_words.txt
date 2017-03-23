@@ -1,0 +1,61 @@
+Topic 0:
+  nucleus:0.41
+  surprise:0.40
+  top:0.40
+  mrpickles:0.40
+  uk:0.40
+  da:0.40
+  connect:0.40
+  gear:0.40
+  unpleasant:0.40
+  morning:0.40
+
+Topic 1:
+  surprise:0.42
+  agora:0.42
+  lsdmania:0.42
+  bad:0.41
+  connect:0.41
+  da:0.41
+  translation:0.41
+  mrpickles:0.41
+  urgent:0.41
+  english:0.41
+
+Topic 2:
+  answer:0.42
+  pm:0.41
+  pickles:0.41
+  contact:0.41
+  contacting:0.41
+  doubt:0.41
+  gear:0.40
+  urgent:0.40
+  touch:0.40
+  uk:0.40
+
+Topic 3:
+  doubt:0.42
+  contact:0.42
+  contacting:0.41
+  pm:0.41
+  pickles:0.41
+  answer:0.41
+  unpleasant:0.40
+  translation:0.40
+  morning:0.40
+  urgent:0.40
+
+Topic 4:
+  doubt:0.41
+  answer:0.41
+  pickles:0.41
+  pm:0.41
+  contacting:0.41
+  contact:0.41
+  english:0.40
+  mrpickles:0.40
+  top:0.40
+  lsdmania:0.40
+
+K: 5, Log-Likelihood: -162.360, Alpha: 11.000, Beta: 1.100

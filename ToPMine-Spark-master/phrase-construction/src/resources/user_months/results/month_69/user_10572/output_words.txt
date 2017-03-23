@@ -1,0 +1,61 @@
+Topic 0:
+  dash:8.94
+  mixing:6.47
+  coins:6.02
+  nodes:5.40
+  master:5.31
+  local:5.04
+  nest:4.34
+  problem:4.30
+  monero:4.08
+  troll:4.07
+
+Topic 1:
+  dash:24.72
+  bitcoin:11.89
+  market:6.69
+  cap:5.98
+  time:4.85
+  trade:3.98
+  bots:3.98
+  day:3.81
+  community:3.45
+  dhl:3.34
+
+Topic 2:
+  opens:7.72
+  vulnerability:5.49
+  hellman:4.98
+  openssl:4.49
+  key:3.98
+  based:3.98
+  applications:2.98
+  differ:2.98
+  server:2.98
+  attackers:2.98
+
+Topic 3:
+  january:5.73
+  exchange:4.70
+  quote:4.04
+  security:3.63
+  libressl:3.46
+  crypto:2.89
+  running:2.87
+  appears:2.71
+  bugs:2.71
+  avoided:2.71
+
+Topic 4:
+  monero:15.78
+  tang:9.66
+  january:7.95
+  quote:7.94
+  sigaint:6.79
+  privacy:6.68
+  bitcoins:5.30
+  dont:5.00
+  curves:4.83
+  soggy:4.18
+
+K: 5, Log-Likelihood: -6864.187, Alpha: 11.000, Beta: 1.100

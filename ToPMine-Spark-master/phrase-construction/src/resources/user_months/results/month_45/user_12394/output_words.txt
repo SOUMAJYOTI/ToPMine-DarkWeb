@@ -1,0 +1,61 @@
+Topic 0:
+  money:0.20
+  jack:0.20
+  captain:0.20
+  marketplace:0.20
+  guide:0.20
+  lot:0.20
+  famous:0.20
+  link:0.20
+  chance:0.20
+  verified:0.20
+
+Topic 1:
+  lot:0.20
+  vendor:0.20
+  marketplace:0.20
+  guide:0.20
+  famous:0.20
+  fair:0.20
+  easily:0.20
+  free:0.20
+  advertise:0.20
+  chance:0.20
+
+Topic 2:
+  easily:0.20
+  guide:0.20
+  lot:0.20
+  free:0.20
+  advertise:0.20
+  fair:0.20
+  verified:0.20
+  jack:0.20
+  chance:0.20
+  goods:0.20
+
+Topic 3:
+  link:0.20
+  goods:0.20
+  vendor:0.20
+  captain:0.20
+  jack:0.20
+  chance:0.20
+  advertise:0.20
+  money:0.20
+  famous:0.20
+  free:0.20
+
+Topic 4:
+  verified:0.20
+  goods:0.20
+  link:0.20
+  famous:0.20
+  marketplace:0.20
+  free:0.20
+  advertise:0.20
+  easily:0.20
+  fair:0.20
+  chance:0.20
+
+K: 5, Log-Likelihood: -44.361, Alpha: 11.000, Beta: 1.100

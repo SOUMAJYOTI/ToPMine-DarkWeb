@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin:4.07
+  problems:3.00
+  solves:1.94
+  bitin:1.94
+  work:1.90
+  spring:1.77
+  check:1.43
+  nice:1.30
+  cryptocurrencies:0.98
+  dont:0.97
+
+Topic 1:
+  worth:17.14
+  ltc:12.25
+  bitcoin:10.74
+  litecoin:9.30
+  bitcoins:7.88
+  math:6.89
+  btc:6.74
+  pmquote:6.41
+  money:6.40
+  fake:5.91
+
+Topic 2:
+  relays:7.89
+  hidden:6.92
+  image:5.70
+  service:3.94
+  circuit:3.71
+  button:2.91
+  sldk:2.90
+  onion:2.84
+  link:2.80
+  hoster:2.80
+
+Topic 3:
+  bug:108.98
+  tor:36.73
+  browser:15.98
+  circuit:14.22
+  disable:13.98
+  security:13.98
+  windows:11.98
+  update:10.98
+  default:9.98
+  users:8.98
+
+Topic 4:
+  btc:7.14
+  free:4.52
+  governments:3.97
+  time:3.86
+  dash:2.97
+  marketing:2.97
+  worth:2.75
+  money:2.38
+  currency:2.30
+  stock:2.29
+
+K: 5, Log-Likelihood: -9782.225, Alpha: 11.000, Beta: 1.100

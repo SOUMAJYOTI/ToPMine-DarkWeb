@@ -1,0 +1,61 @@
+Topic 0:
+  ja:2.07
+  rehtitukku:1.15
+  ytt:0.78
+  sun:0.74
+  kaikki:0.74
+  muukin:0.46
+  ett:0.46
+  sielt:0.45
+  kannattaa:0.45
+  hoitaa:0.45
+
+Topic 1:
+  ja:2.29
+  rehtitukku:0.98
+  ytt:0.70
+  kaikki:0.59
+  olla:0.50
+  sun:0.47
+  samaa:0.47
+  ett:0.46
+  hoitaa:0.43
+  sielt:0.43
+
+Topic 2:
+  ja:1.31
+  rehtitukku:1.11
+  sun:0.88
+  kaikki:0.65
+  ytt:0.56
+  kun:0.55
+  kyll:0.46
+  ett:0.40
+  olla:0.39
+  noita:0.39
+
+Topic 3:
+  ja:1.81
+  rehtitukku:0.79
+  ytt:0.56
+  sun:0.54
+  kaikki:0.54
+  ei:0.49
+  noita:0.48
+  rehtitukkku:0.47
+  yll:0.45
+  olla:0.40
+
+Topic 4:
+  ja:2.52
+  rehtitukku:0.97
+  ei:0.81
+  rehtitukkku:0.58
+  yll:0.55
+  kaikki:0.48
+  noita:0.48
+  ytt:0.39
+  subut:0.39
+  muukin:0.39
+
+K: 5, Log-Likelihood: -948.550, Alpha: 11.000, Beta: 1.100

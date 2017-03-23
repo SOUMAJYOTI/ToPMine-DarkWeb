@@ -1,0 +1,61 @@
+Topic 0:
+  police:36.04
+  suspect:22.17
+  accused:19.40
+  undercover cop:16.63
+  cops:16.00
+  lauchlan:13.85
+  hart:11.08
+  undercover:11.08
+  confession:11.08
+  operation:11.08
+
+Topic 1:
+  sex day:9.44
+  shifty:7.07
+  ubuntu:6.92
+  msdos windows:6.12
+  awkward offend true honestly:6.12
+  atop built desktop games:6.08
+  jokes:5.53
+  technology:5.53
+  sexual:5.53
+  crew:4.70
+
+Topic 2:
+  operating system:33.12
+  windows:21.47
+  os:13.85
+  windows windows:11.08
+  mac os:11.08
+  microsoft:11.08
+  osx:11.08
+  os microsoft:11.08
+  great:11.08
+  android:8.31
+
+Topic 3:
+  release:8.30
+  key:8.30
+  cornelius june pmi windows:7.06
+  windows:6.88
+  honestly find improvement:6.08
+  gpg:5.53
+  keyserver:5.53
+  usb:5.53
+  keydb:5.53
+  additionally:5.53
+
+Topic 4:
+  august le freuent forum:9.38
+  solov august pmquote:8.26
+  enigma august pmquote emmet:8.26
+  quote:8.03
+  le liars hard:7.35
+  forum claimed active member:7.35
+  forum member:7.35
+  dn community sr post:7.35
+  time remembering story true:7.35
+  nefarious activities people:7.31
+
+K: 5, Log-Likelihood: -30257.555, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  transparent tor proxies:5.42
+  vpn:4.97
+  access hide fact tor:4.92
+  clear net websites:4.92
+  block tor:4.92
+  length time require project:4.03
+  socat loopback forwarder:4.03
+  tumble mix coins pay:4.03
+  connected tor:4.03
+  mullvad doesnt chain mullvad:4.03
+
+Topic 1:
+  step step guide:4.05
+  vm:4.04
+  vpn tails os:3.22
+  turns:3.22
+  searching:3.22
+  connect tor:3.22
+  solution:3.22
+  laymen:3.22
+  technical:3.22
+  problem:3.22
+
+Topic 2:
+  clearnet sites:9.17
+  op:4.12
+  darknet:4.12
+  visit:4.12
+  accessing:4.12
+  worried:4.12
+  clearnet:3.44
+  access:3.34
+  tails:2.97
+  real jigsaw puzzle pmhave:2.29
+
+Topic 3:
+  bridge users:6.20
+  quote:4.78
+  source:4.12
+  torrc:4.12
+  directory:4.12
+  bridge:4.12
+  add:4.12
+  guards:4.12
+  relays:4.12
+  amquote:3.51
+
+Topic 4:
+  quote squidward:6.07
+  test:4.13
+  openvpn:4.13
+  dont:4.13
+  download mullvad software:3.46
+  tor:2.72
+  wrong:2.27
+  socks settings:2.13
+  configure transparent tor proxies:2.13
+  setup:2.05
+
+K: 5, Log-Likelihood: -4423.053, Alpha: 11.000, Beta: 1.100

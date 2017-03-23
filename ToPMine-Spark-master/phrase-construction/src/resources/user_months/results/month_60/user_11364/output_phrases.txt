@@ -1,0 +1,61 @@
+Topic 0:
+  nice reviews:7.97
+  feedbacks:3.94
+  abraxas:2.59
+  wholesaler:1.93
+  care:1.93
+  grass:1.93
+  speak:1.93
+  shop:1.93
+  dhl:1.93
+  amount:1.93
+
+Topic 1:
+  lol:2.63
+  red:2.31
+  withdrawals:2.28
+  flag:2.28
+  busy:2.27
+  work:2.24
+  forum:1.85
+  asked:1.85
+  happen:1.41
+  nucleus:1.30
+
+Topic 2:
+  posts:3.88
+  good:2.07
+  version:1.89
+  software:1.89
+  ready:1.89
+  removed:1.89
+  unavoidable:1.89
+  spam:1.89
+  temporarily:1.89
+  speedsteppers:1.89
+
+Topic 3:
+  tang:3.78
+  server:3.27
+  ffs:2.59
+  dev:2.58
+  working:2.55
+  wait:1.80
+  response:1.77
+  hang:1.77
+  robotic:1.77
+  times:1.77
+
+Topic 4:
+  dream:2.80
+  organix:2.62
+  november:2.23
+  ill:1.92
+  slowly:1.92
+  pretty:1.92
+  protection:1.92
+  chance:1.92
+  market:1.92
+  bringing:1.92
+
+K: 5, Log-Likelihood: -1272.527, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  key:7.53
+  pirate market:6.33
+  list:5.96
+  toocoolforschool:4.79
+  handle:4.79
+  exit:4.14
+  nucleus:4.08
+  suspended:3.90
+  supplyshack:3.24
+  mrdynamite:3.12
+
+Topic 1:
+  blue sky:8.08
+  link:4.81
+  refunding:4.00
+  circles:4.00
+  false:4.00
+  fe:4.00
+  unexpected:4.00
+  admin:4.00
+  btw:4.00
+  informed:4.00
+
+Topic 2:
+  keeping:6.01
+  post:4.85
+  asked:4.85
+  escrow:4.82
+  order:4.33
+  popped:3.95
+  eyes:3.95
+  scammed people:3.95
+  pans:3.95
+  ears:3.95
+
+Topic 3:
+  project:8.11
+  scammer:6.07
+  scam:5.39
+  ago:4.03
+  scammer hope:4.03
+  answers:4.03
+  honesty:4.03
+  sheep:4.03
+  popular:4.03
+  darknet:4.03
+
+Topic 4:
+  sr:7.66
+  thread:7.00
+  post link:4.52
+  scammers:4.32
+  banned:3.26
+  border warrior:2.80
+  time:2.80
+  avoid:2.73
+  pandora:1.97
+  remember:1.95
+
+K: 5, Log-Likelihood: -6345.627, Alpha: 11.000, Beta: 1.100

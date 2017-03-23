@@ -1,0 +1,61 @@
+Topic 0:
+  message:2.08
+  atm:0.85
+  messages:0.78
+  assuming:0.78
+  agora:0.76
+  response:0.61
+  al:0.56
+  karma:0.41
+  profile:0.41
+  bubble:0.41
+
+Topic 1:
+  message:1.67
+  atm:1.10
+  agora:0.97
+  response:0.72
+  messages:0.66
+  assuming:0.66
+  al:0.54
+  amazing:0.50
+  clean:0.50
+  vacation:0.50
+
+Topic 2:
+  message:2.12
+  messages:0.88
+  assuming:0.81
+  agora:0.78
+  atm:0.71
+  response:0.57
+  al:0.57
+  failed:0.43
+  load:0.43
+  tab:0.42
+
+Topic 3:
+  message:2.20
+  messages:1.10
+  assuming:0.97
+  agora:0.63
+  al:0.61
+  atm:0.55
+  response:0.49
+  eventually:0.49
+  odd:0.48
+  tab:0.48
+
+Topic 4:
+  message:1.93
+  agora:0.87
+  atm:0.79
+  assuming:0.78
+  al:0.72
+  response:0.61
+  messages:0.57
+  user:0.46
+  messaging:0.46
+  reason:0.45
+
+K: 5, Log-Likelihood: -426.633, Alpha: 11.000, Beta: 1.100

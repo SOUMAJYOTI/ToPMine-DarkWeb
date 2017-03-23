@@ -1,0 +1,61 @@
+Topic 0:
+  business:0.00
+  remain:0.00
+  confident:0.00
+  mistakes:0.00
+  jail:0.00
+  lead:0.00
+  stay:0.00
+  remember:0.00
+  head:0.00
+  things:0.00
+
+Topic 1:
+  business:0.00
+  remain:0.00
+  confident:0.00
+  mistakes:0.00
+  jail:0.00
+  lead:0.00
+  stay:0.00
+  remember:0.00
+  head:0.00
+  things:0.00
+
+Topic 2:
+  business:0.00
+  remain:0.00
+  confident:0.00
+  mistakes:0.00
+  jail:0.00
+  lead:0.00
+  stay:0.00
+  remember:0.00
+  head:0.00
+  things:0.00
+
+Topic 3:
+  business:0.00
+  remain:0.00
+  confident:0.00
+  mistakes:0.00
+  jail:0.00
+  lead:0.00
+  stay:0.00
+  remember:0.00
+  head:0.00
+  things:0.00
+
+Topic 4:
+  business:0.00
+  remain:0.00
+  confident:0.00
+  mistakes:0.00
+  jail:0.00
+  lead:0.00
+  stay:0.00
+  remember:0.00
+  head:0.00
+  things:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

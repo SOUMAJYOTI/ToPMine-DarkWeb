@@ -1,0 +1,61 @@
+Topic 0:
+  tickets:7.19
+  bought:1.61
+  raffle:1.34
+  garden:1.03
+  confirmed:0.91
+  june:0.87
+  quote:0.83
+  magicblues:0.81
+  pay:0.74
+  buying:0.72
+
+Topic 1:
+  tickets:7.41
+  bought:2.42
+  quote:2.08
+  june:1.81
+  confirmed:1.80
+  left:1.18
+  pay:1.14
+  buying:1.11
+  garden:0.94
+  pmjust:0.88
+
+Topic 2:
+  tickets:3.06
+  bought:1.99
+  confirmed:1.55
+  june:1.51
+  quote:1.18
+  left:1.00
+  buying:0.89
+  pay:0.84
+  raffle:0.71
+  pmjust:0.68
+
+Topic 3:
+  tickets:4.88
+  bought:1.94
+  quote:1.89
+  june:1.77
+  confirmed:1.71
+  pay:1.25
+  buying:1.24
+  garden:1.20
+  left:1.09
+  raffle:1.04
+
+Topic 4:
+  prize:8.78
+  ticket:4.79
+  number:4.79
+  prizes:3.79
+  vendors:2.79
+  winners:2.79
+  thread:2.79
+  amount:2.79
+  time:2.76
+  raffle:2.12
+
+K: 5, Log-Likelihood: -1388.244, Alpha: 11.000, Beta: 1.100

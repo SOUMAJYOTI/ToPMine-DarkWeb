@@ -1,0 +1,61 @@
+Topic 0:
+  time:0.61
+  evolution:0.40
+  week:0.40
+  loading:0.20
+  problem:0.20
+  connect:0.20
+  check:0.20
+  people:0.20
+  lot:0.20
+  issue:0.20
+
+Topic 1:
+  time:0.61
+  week:0.40
+  evolution:0.40
+  connection:0.20
+  happening:0.20
+  people:0.20
+  issue:0.20
+  check:0.20
+  loading:0.20
+  connect:0.20
+
+Topic 2:
+  time:0.61
+  week:0.40
+  evolution:0.39
+  lot:0.20
+  happening:0.20
+  connect:0.20
+  problem:0.20
+  check:0.20
+  issue:0.20
+  connection:0.20
+
+Topic 3:
+  time:0.59
+  evolution:0.40
+  week:0.40
+  issue:0.20
+  people:0.20
+  loading:0.20
+  problem:0.20
+  connection:0.20
+  check:0.20
+  connect:0.20
+
+Topic 4:
+  time:0.58
+  evolution:0.41
+  week:0.40
+  happening:0.20
+  connect:0.20
+  check:0.20
+  problem:0.20
+  lot:0.20
+  loading:0.20
+  people:0.20
+
+K: 5, Log-Likelihood: -38.384, Alpha: 11.000, Beta: 1.100

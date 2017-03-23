@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:3.05
+  wallet:2.43
+  mufti:2.42
+  quote:2.18
+  set:1.47
+  public:1.43
+  transactions:1.32
+  market:1.17
+  version:1.17
+  november:1.17
+
+Topic 1:
+  mufti:2.80
+  set:2.75
+  quote:2.75
+  coinb:2.49
+  electrum:1.41
+  ms:1.39
+  wallet:1.35
+  november:1.23
+  sig:1.17
+  public:1.15
+
+Topic 2:
+  electrum:15.79
+  version:12.88
+  tails:7.21
+  select:5.21
+  download:3.85
+  client:3.74
+  shortcut:3.47
+  transactions:3.21
+  open:3.19
+  hashes:3.14
+
+Topic 3:
+  key:7.87
+  father:5.77
+  transaction:3.90
+  ziggy:3.76
+  limit:3.73
+  alphabay:3.73
+  easy:3.73
+  start:3.73
+  sky:3.73
+  ps:3.73
+
+Topic 4:
+  electrum:17.68
+  tails:8.10
+  version:3.62
+  download:2.99
+  transactions:2.82
+  multisig:2.46
+  tutorial:2.46
+  shortcut:2.43
+  select:2.41
+  persistence:2.39
+
+K: 5, Log-Likelihood: -3205.029, Alpha: 11.000, Beta: 1.100

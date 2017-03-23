@@ -1,0 +1,61 @@
+Topic 0:
+  coinjoin:0.46
+  coin:0.27
+  heard:0.27
+  called:0.27
+  alt:0.27
+  talking:0.27
+  darkwallet:0.27
+  march:0.27
+  quote:0.27
+  darkcoin:0.24
+
+Topic 1:
+  coinjoin:0.45
+  darkwallet:0.28
+  called:0.28
+  heard:0.28
+  alt:0.28
+  talking:0.28
+  coin:0.28
+  quote:0.27
+  march:0.27
+  darkcoin:0.24
+
+Topic 2:
+  coinjoin:0.43
+  march:0.28
+  quote:0.28
+  darkwallet:0.28
+  alt:0.28
+  talking:0.28
+  called:0.28
+  heard:0.28
+  coin:0.28
+  darkcoin:0.25
+
+Topic 3:
+  coinjoin:0.44
+  alt:0.28
+  talking:0.28
+  coin:0.28
+  heard:0.28
+  darkwallet:0.28
+  called:0.28
+  quote:0.28
+  march:0.28
+  darkcoin:0.24
+
+Topic 4:
+  coinjoin:0.43
+  march:0.28
+  quote:0.28
+  talking:0.28
+  called:0.28
+  darkwallet:0.28
+  heard:0.28
+  alt:0.28
+  coin:0.28
+  darkcoin:0.25
+
+K: 5, Log-Likelihood: -138.911, Alpha: 11.000, Beta: 1.100

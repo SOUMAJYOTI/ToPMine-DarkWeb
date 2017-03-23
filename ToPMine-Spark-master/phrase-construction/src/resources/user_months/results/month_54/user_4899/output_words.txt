@@ -1,0 +1,61 @@
+Topic 0:
+  sigaint:1.11
+  pretty:1.10
+  reliable:1.08
+  lelantos:1.07
+  good:0.96
+  free:0.78
+  messages:0.77
+  ny:0.60
+  mailchuck:0.50
+  coming:0.50
+
+Topic 1:
+  ny:0.93
+  altcoins:0.71
+  good:0.66
+  reliable:0.64
+  sigaint:0.64
+  pretty:0.59
+  lelantos:0.55
+  free:0.52
+  messages:0.50
+  accept:0.48
+
+Topic 2:
+  ny:0.93
+  altcoins:0.78
+  good:0.66
+  tap:0.58
+  broaden:0.58
+  concept:0.58
+  currency:0.58
+  convert:0.58
+  methods:0.57
+  list:0.57
+
+Topic 3:
+  ny:0.98
+  altcoins:0.76
+  good:0.64
+  lelantos:0.61
+  pretty:0.58
+  reliable:0.56
+  sigaint:0.54
+  intelligent:0.54
+  long:0.54
+  market:0.54
+
+Topic 4:
+  lelantos:1.26
+  pretty:1.19
+  reliable:1.18
+  sigaint:1.16
+  good:1.08
+  messages:0.83
+  free:0.76
+  mailchuck:0.58
+  coming:0.56
+  ny:0.55
+
+K: 5, Log-Likelihood: -832.519, Alpha: 11.000, Beta: 1.100

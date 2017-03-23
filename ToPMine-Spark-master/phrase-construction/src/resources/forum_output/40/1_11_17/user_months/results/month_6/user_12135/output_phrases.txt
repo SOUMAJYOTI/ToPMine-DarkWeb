@@ -1,0 +1,61 @@
+Topic 0:
+  service:1.08
+  excellent:1.00
+  morelike:0.98
+  feature:0.97
+  read:0.97
+  autowithdrawal:0.97
+  delays:0.96
+  host:0.96
+  moving servers:0.95
+  fucking:0.95
+
+Topic 1:
+  hours:0.87
+  bitcoin:0.78
+  fog:0.77
+  site:0.76
+  access:0.65
+  sit:0.65
+  bitblender site:0.64
+  fine:0.63
+  worries:0.63
+  havent:0.60
+
+Topic 2:
+  long:1.27
+  bitblender:1.26
+  moved:1.26
+  bitcoinfog:1.26
+  service:1.26
+  dreamt:1.25
+  started:1.25
+  moving servers:1.25
+  fucking:1.24
+  host:1.23
+
+Topic 3:
+  backup:3.05
+  hosting:1.41
+  inaccessible:1.41
+  suspicious:1.41
+  seized:1.41
+  prevent:1.41
+  encryption:1.41
+  works:1.41
+  scam:1.41
+  torsearch:1.41
+
+Topic 4:
+  extra:1.52
+  storage:1.52
+  store:1.52
+  virtual:1.52
+  box:1.52
+  protection:1.52
+  addys:1.52
+  cold:1.52
+  personally:1.52
+  worth:1.52
+
+K: 5, Log-Likelihood: -797.457, Alpha: 11.000, Beta: 1.100

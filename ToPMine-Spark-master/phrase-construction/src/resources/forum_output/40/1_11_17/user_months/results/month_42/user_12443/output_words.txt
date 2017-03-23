@@ -1,0 +1,61 @@
+Topic 0:
+  ett:0.40
+  olemassa:0.20
+  rkeet:0.20
+  lis:0.20
+  jotka:0.20
+  eiv:0.20
+  jo:0.20
+  evossa:0.20
+  pelk:0.20
+  tai:0.20
+
+Topic 1:
+  ett:0.40
+  hulluutta:0.20
+  markkinat:0.20
+  siit:0.20
+  lis:0.20
+  st:0.20
+  toimitustapana:0.20
+  tk:0.20
+  tilaukseen:0.20
+  tai:0.20
+
+Topic 2:
+  ett:0.41
+  st:0.20
+  ylihintaa:0.20
+  ajatus:0.20
+  vierasta:0.20
+  maastok:0.20
+  mutta:0.20
+  myyj:0.20
+  tilaamisesta:0.20
+  kysyisin:0.20
+
+Topic 3:
+  ett:0.40
+  rr:0.20
+  ymm:0.20
+  kotiosoitteeseen:0.20
+  pelk:0.20
+  jotka:0.20
+  tilaukseen:0.20
+  onko:0.20
+  ajatus:0.20
+  mutta:0.20
+
+Topic 4:
+  ett:0.40
+  omaan:0.20
+  tk:0.20
+  myyj:0.20
+  kotiosoitteeseen:0.20
+  moikka:0.20
+  peri:0.20
+  rr:0.20
+  kyseess:0.20
+  rkeet:0.20
+
+K: 5, Log-Likelihood: -141.522, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bitblender:1.57
+  people:0.79
+  wigfog:0.69
+  blond:0.68
+  amounts:0.53
+  small:0.51
+  quote:0.51
+  deposit:0.50
+  pleroma:0.50
+  wallet:0.50
+
+Topic 1:
+  bitblender:0.94
+  people:0.90
+  taint:0.82
+  localbitcoins:0.81
+  mixer:0.81
+  charge:0.66
+  list:0.63
+  javascript:0.59
+  interested:0.59
+  order:0.59
+
+Topic 2:
+  small:2.21
+  amounts:2.19
+  sophisticated:1.35
+  work:1.32
+  bitblender:0.96
+  wallet:0.67
+  technical:0.56
+  blockchain:0.56
+  played:0.56
+  shield:0.56
+
+Topic 3:
+  bitblender:1.18
+  list:1.08
+  people:0.93
+  wigfog:0.66
+  blond:0.65
+  removed:0.57
+  message:0.56
+  scam:0.56
+  dont:0.55
+  snippet:0.55
+
+Topic 4:
+  list:1.81
+  bitblender:1.35
+  people:0.83
+  hope:0.73
+  wilderness:0.73
+  trustworthy:0.73
+  mind:0.73
+  ive:0.73
+  message:0.73
+  lot:0.73
+
+K: 5, Log-Likelihood: -671.051, Alpha: 11.000, Beta: 1.100

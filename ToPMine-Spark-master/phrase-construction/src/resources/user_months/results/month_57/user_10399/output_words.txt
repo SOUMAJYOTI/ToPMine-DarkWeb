@@ -1,0 +1,61 @@
+Topic 0:
+  aethon:23.89
+  october:23.87
+  worry:21.90
+  pmquote:17.35
+  service:14.24
+  pops:11.91
+  people:9.49
+  quote:8.84
+  assume:8.83
+  sigaint:8.72
+
+Topic 1:
+  passphrase:16.93
+  august:10.84
+  provide:9.92
+  axis:9.36
+  onions:9.10
+  key:8.93
+  services:8.15
+  mundi:8.09
+  hidden:7.98
+  log:6.93
+
+Topic 2:
+  market:9.96
+  hidden:8.39
+  services:6.09
+  markets:5.73
+  tor:5.46
+  le:5.39
+  agora:4.34
+  point:3.87
+  find:3.80
+  escrow:3.21
+
+Topic 3:
+  tor:7.15
+  hidden:5.57
+  service:5.15
+  work:3.90
+  good:3.85
+  running:3.28
+  services:3.03
+  vulnerability:2.88
+  market:2.80
+  long:2.79
+
+Topic 4:
+  markets:20.13
+  agora:10.92
+  users:9.61
+  operators:9.52
+  risk:8.85
+  resources:7.52
+  traffic:6.94
+  smaller:6.94
+  interested:6.14
+  illegal:5.94
+
+K: 5, Log-Likelihood: -9012.196, Alpha: 11.000, Beta: 1.100

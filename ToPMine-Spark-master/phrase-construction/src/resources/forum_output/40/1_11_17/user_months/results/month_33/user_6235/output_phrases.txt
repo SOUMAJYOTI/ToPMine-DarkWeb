@@ -1,0 +1,61 @@
+Topic 0:
+  debt:5.99
+  time:4.12
+  classes:3.95
+  college:3.94
+  documentary:3.86
+  sense:1.90
+  voiceover:1.90
+  saddled:1.89
+  movement:1.89
+  sad:1.89
+
+Topic 1:
+  money:5.32
+  invest smart long term:2.58
+  live dividends fuck man:2.58
+  fuck job truck driver:2.58
+  rebuilt goddamn car lol:2.58
+  plumber truck driver warehouseman:2.58
+  guess truck driving:2.58
+  psilocy knew fixing cars:2.58
+  family businesses started stay:2.58
+  eat dick intrinsically worthless:2.58
+
+Topic 2:
+  debt:1.15
+  kids:0.98
+  documentary:0.87
+  college:0.79
+  classes:0.79
+  education system:0.68
+  november:0.68
+  quote:0.67
+  time:0.62
+  education:0.56
+
+Topic 3:
+  year:2.29
+  dafunkfuzz:2.29
+  system:2.29
+  john:2.29
+  healthcare:2.29
+  gatto:2.29
+  appalling:2.29
+  schooling:2.29
+  things:2.29
+  actual:2.29
+
+Topic 4:
+  remember time:4.70
+  high school:4.70
+  concept:2.30
+  training:2.30
+  bringing:2.30
+  type:2.30
+  tech:2.30
+  days:2.30
+  letting:2.30
+  live:2.30
+
+K: 5, Log-Likelihood: -2041.539, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  decide:4.00
+  community:4.00
+  kind:4.00
+  fe:4.00
+  scam:2.02
+  absolutely:2.02
+  scammers:2.02
+  plans:1.98
+  worries:1.98
+  todo:1.98
+
+Topic 1:
+  pyrbax april pmsign:3.85
+  pigeon dodge password rules:3.85
+  dollar signs naively imagine:3.57
+  special characters passwords passwords:3.57
+  special characters secure harder:3.57
+  easier crack hey knowingly:3.57
+  restricted character set passwordsmakes:3.57
+  special characters passwords:3.57
+  implemented policythat forbids:3.57
+  find unsettling deterring isnt:3.57
+
+Topic 2:
+  password:6.29
+  sensitive:3.97
+  break:3.97
+  letters:3.97
+  case:3.97
+  characters:3.78
+  competitor:3.13
+  accept:3.13
+  special chars:2.70
+  playground april pmquote:2.52
+
+Topic 3:
+  spamming including inbox bad:4.16
+  signed users:3.82
+  quote sunwu april pmpigeon:3.82
+  sr:3.15
+  sign site:3.15
+  problem:3.15
+  inbox:3.15
+  reports:3.15
+  mind:3.15
+  reports general:3.15
+
+Topic 4:
+  escrow:6.01
+  implement:6.01
+  fa:4.89
+  behaviour:4.66
+  tested:3.99
+  steal:3.99
+  planning:3.99
+  money:3.99
+  passed:3.99
+  password:3.88
+
+K: 5, Log-Likelihood: -3760.128, Alpha: 11.000, Beta: 1.100

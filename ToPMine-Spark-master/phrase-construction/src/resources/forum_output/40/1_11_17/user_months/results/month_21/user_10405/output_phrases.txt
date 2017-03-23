@@ -1,0 +1,61 @@
+Topic 0:
+  vulnerable:0.43
+  server:0.43
+  ubuntu:0.42
+  design:0.42
+  catch:0.28
+  bug:0.28
+  running:0.28
+  vulnerability:0.28
+  bash:0.28
+  darknet:0.23
+
+Topic 1:
+  design:0.46
+  ubuntu:0.46
+  server:0.45
+  vulnerable:0.45
+  vulnerability:0.28
+  bash:0.28
+  running:0.28
+  bug:0.28
+  catch:0.27
+  system:0.22
+
+Topic 2:
+  server:0.42
+  vulnerable:0.42
+  design:0.41
+  ubuntu:0.41
+  catch:0.29
+  bug:0.28
+  running:0.28
+  bash:0.27
+  vulnerability:0.27
+  impression:0.23
+
+Topic 3:
+  vulnerable:0.45
+  ubuntu:0.45
+  design:0.45
+  server:0.44
+  vulnerability:0.28
+  bash:0.28
+  running:0.28
+  bug:0.28
+  catch:0.27
+  hours:0.22
+
+Topic 4:
+  design:0.46
+  ubuntu:0.46
+  vulnerable:0.46
+  server:0.46
+  bash:0.28
+  vulnerability:0.28
+  running:0.28
+  bug:0.28
+  catch:0.27
+  instances:0.23
+
+K: 5, Log-Likelihood: -236.237, Alpha: 11.000, Beta: 1.100

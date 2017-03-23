@@ -1,0 +1,61 @@
+Topic 0:
+  amazing:3.45
+  wait:3.45
+  hard:3.45
+  play chess:3.45
+  figure:3.45
+  darknet:3.45
+  pmquote ya april:3.34
+  quote nordicshrooms april:2.35
+  april pmquote ya april:2.34
+  pme pe pd pd:2.33
+
+Topic 1:
+  move:13.03
+  piece:10.78
+  pawn:8.87
+  destination square:5.27
+  square:4.18
+  rank:4.13
+  move square:3.94
+  squares called:3.84
+  en passant:3.80
+  pawn moves:3.65
+
+Topic 2:
+  letter piece case pe:3.34
+  pmcool idea challenge cool:3.23
+  pmquote ya april:3.20
+  quote:3.06
+  april:3.02
+  leave:2.97
+  wikipedia:2.93
+  nf:2.89
+  quote ya april:2.78
+  idea:2.23
+
+Topic 3:
+  standard notation:1.80
+  bg:1.58
+  pmwell:1.54
+  pmquote ya april:1.48
+  black:1.38
+  pme pe pd pd:1.38
+  notation:1.16
+  knight move:1.15
+  quote nordicshrooms april:1.13
+  thread:1.08
+
+Topic 4:
+  move:8.92
+  piece:7.50
+  rank:6.76
+  square:6.71
+  pawn:5.70
+  destination square:5.63
+  identical pieces:4.52
+  captures piece:4.26
+  pawns identified uppercase letter:4.20
+  pawn moves:3.56
+
+K: 5, Log-Likelihood: -4633.425, Alpha: 11.000, Beta: 1.100

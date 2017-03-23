@@ -1,0 +1,61 @@
+Topic 0:
+  mempo:0.16
+  devs:0.16
+  rest:0.08
+  project:0.08
+  coming:0.08
+  invited:0.08
+  asked:0.08
+  tuesday:0.08
+  chat:0.08
+  nym:0.08
+
+Topic 1:
+  mempo:0.16
+  devs:0.16
+  chat:0.08
+  irc:0.08
+  pablo:0.08
+  person:0.08
+  nym:0.08
+  tuesday:0.08
+  project:0.08
+  coming:0.08
+
+Topic 2:
+  devs:0.16
+  mempo:0.16
+  nym:0.08
+  invited:0.08
+  person:0.08
+  pablo:0.08
+  coming:0.08
+  tuesday:0.08
+  project:0.08
+  asked:0.08
+
+Topic 3:
+  mempo:0.16
+  devs:0.16
+  irc:0.08
+  invited:0.08
+  asked:0.08
+  chat:0.08
+  person:0.08
+  project:0.08
+  pablo:0.08
+  coming:0.08
+
+Topic 4:
+  devs:0.16
+  mempo:0.16
+  asked:0.08
+  rest:0.08
+  coming:0.08
+  tuesday:0.08
+  pablo:0.08
+  project:0.08
+  nym:0.08
+  irc:0.08
+
+K: 5, Log-Likelihood: -15.870, Alpha: 11.000, Beta: 1.100

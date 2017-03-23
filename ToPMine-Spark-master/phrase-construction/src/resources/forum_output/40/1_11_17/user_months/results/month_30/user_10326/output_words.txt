@@ -1,0 +1,61 @@
+Topic 0:
+  stylometry:52.18
+  brennan:15.85
+  work:15.83
+  writing:15.81
+  corpus:15.18
+  greenstadt:14.75
+  authors:14.29
+  adversaries:13.63
+  style:13.16
+  writeprints:11.85
+
+Topic 1:
+  english:17.02
+  translation:16.26
+  step:14.83
+  translations:12.78
+  japanese:11.99
+  german:9.80
+  effective:9.75
+  method:9.10
+  bing:8.61
+  accuracy:8.51
+
+Topic 2:
+  isolation:33.99
+  encryption:20.99
+  tor:17.86
+  virtual:16.99
+  applications:15.71
+  physical:13.99
+  code:11.69
+  concealment:9.99
+  advantages:9.99
+  disadvantages:9.99
+
+Topic 3:
+  writing:34.68
+  style:27.96
+  feature:23.53
+  author:20.96
+  passages:18.95
+  participants:17.25
+  study:15.10
+  machine:14.52
+  text:13.73
+  obfuscation:12.60
+
+Topic 4:
+  authors:28.05
+  approach:24.22
+  passages:14.03
+  methods:12.81
+  precision:12.76
+  writeprints:12.01
+  adversaries:11.99
+  imitation:11.85
+  set:11.12
+  author:11.00
+
+K: 5, Log-Likelihood: -32394.706, Alpha: 11.000, Beta: 1.100

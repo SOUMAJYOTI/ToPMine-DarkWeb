@@ -1,0 +1,61 @@
+Topic 0:
+  weed marijuana indoor aa:0.49
+  aa:0.32
+  marijuana mazar kush haze:0.32
+  kush ssh ww mazar:0.24
+  kush ssh mazar:0.24
+  processing:0.08
+  escrow:0.08
+  links:0.08
+  clearnet:0.08
+  trackntrace:0.08
+
+Topic 1:
+  weed marijuana indoor aa:0.48
+  marijuana mazar kush haze:0.32
+  aa:0.32
+  kush ssh mazar:0.24
+  kush ssh ww mazar:0.24
+  check:0.08
+  days:0.08
+  rates:0.08
+  fixes:0.08
+  evolutionyours:0.08
+
+Topic 2:
+  weed marijuana indoor aa:0.49
+  marijuana mazar kush haze:0.33
+  aa:0.33
+  kush ssh ww mazar:0.24
+  kush ssh mazar:0.24
+  trackntrace:0.08
+  marketpandora:0.08
+  blackbank:0.08
+  feedback feedback:0.08
+  links:0.08
+
+Topic 3:
+  weed marijuana indoor aa:0.48
+  aa:0.32
+  marijuana mazar kush haze:0.32
+  kush ssh ww mazar:0.24
+  kush ssh mazar:0.24
+  mistake:0.08
+  raised:0.08
+  customers:0.08
+  marketplace:0.08
+  meet:0.08
+
+Topic 4:
+  weed marijuana indoor aa:0.48
+  aa:0.32
+  marijuana mazar kush haze:0.32
+  kush ssh mazar:0.24
+  kush ssh ww mazar:0.24
+  built:0.08
+  business:0.08
+  agora:0.08
+  find:0.08
+  feedback:0.08
+
+K: 5, Log-Likelihood: -109.353, Alpha: 11.000, Beta: 1.100

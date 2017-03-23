@@ -1,0 +1,61 @@
+Topic 0:
+  family code:13.69
+  digits:10.95
+  number:10.95
+  gs:8.21
+  coupons:5.52
+  assigned:5.47
+  coupon regular:5.47
+  company number:5.47
+  barcode:5.47
+  digit:5.47
+
+Topic 1:
+  tv:13.96
+  great methods work eu:5.71
+  adapter:5.32
+  source:4.62
+  handle:4.62
+  xbmc:4.62
+  thing device:4.62
+  install:4.62
+  ensure:4.62
+  food:4.62
+
+Topic 2:
+  monitor mode:10.94
+  drivers:7.69
+  text:6.04
+  tools:5.46
+  wifi:5.16
+  days fake:4.62
+  ago:4.62
+  amazing save:4.62
+  honestly:4.62
+  clue:4.62
+
+Topic 3:
+  server:23.32
+  price:11.42
+  server set:9.31
+  gb:9.31
+  sim cards:9.31
+  communication otr:9.31
+  phone service:9.31
+  encryption:9.31
+  communication:9.31
+  internet:7.48
+
+Topic 4:
+  august pmi:9.29
+  expensive supplements worth select:7.18
+  steal razors sincere items:7.18
+  items:7.18
+  cheap incorporate greed good:7.18
+  stuff:6.36
+  live:6.04
+  works:5.74
+  coupon codes:5.61
+  quote root:4.62
+
+K: 5, Log-Likelihood: -12042.488, Alpha: 11.000, Beta: 1.100

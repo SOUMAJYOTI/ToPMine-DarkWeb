@@ -1,0 +1,61 @@
+Topic 0:
+  bsm:0.40
+  agora:0.40
+  market:0.39
+  quick:0.20
+  experience:0.20
+  days:0.20
+  lightning:0.20
+  support:0.20
+  resolution:0.20
+  questions:0.20
+
+Topic 1:
+  market:0.41
+  agora:0.41
+  bsm:0.40
+  picking:0.20
+  increase:0.20
+  inevitable:0.20
+  death:0.20
+  secondary:0.20
+  io:0.20
+  slowly:0.20
+
+Topic 2:
+  agora:0.41
+  bsm:0.41
+  market:0.41
+  picking:0.20
+  increase:0.20
+  traffic:0.20
+  secondary:0.20
+  slowly:0.20
+  sr:0.20
+  pandora:0.20
+
+Topic 3:
+  bsm:0.39
+  market:0.39
+  agora:0.39
+  support:0.20
+  reliable:0.20
+  resolution:0.20
+  days:0.20
+  answered:0.20
+  questions:0.20
+  quick:0.20
+
+Topic 4:
+  market:0.39
+  agora:0.39
+  bsm:0.39
+  questions:0.20
+  resolution:0.20
+  experience:0.20
+  support:0.20
+  lightning:0.20
+  reliable:0.20
+  answered:0.20
+
+K: 5, Log-Likelihood: -84.903, Alpha: 11.000, Beta: 1.100

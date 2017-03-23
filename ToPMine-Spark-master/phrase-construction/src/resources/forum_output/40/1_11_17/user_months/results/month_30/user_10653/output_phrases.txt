@@ -1,0 +1,61 @@
+Topic 0:
+  stable:0.48
+  authors:0.47
+  alpha:0.47
+  money:0.32
+  amdo:0.28
+  confirmations:0.25
+  gatewy:0.25
+  problem:0.25
+  dont:0.25
+  wallet dont:0.25
+
+Topic 1:
+  pull:0.37
+  forum:0.37
+  dont:0.36
+  wallet dont:0.36
+  complaining:0.36
+  problem:0.36
+  told:0.36
+  gatewy:0.36
+  confirmations:0.36
+  money:0.33
+
+Topic 2:
+  stable:0.45
+  alpha:0.45
+  authors:0.45
+  money:0.32
+  amdo:0.28
+  complaining:0.27
+  told:0.26
+  gatewy:0.26
+  pull:0.26
+  confirmations:0.26
+
+Topic 3:
+  authors:0.49
+  stable:0.49
+  alpha:0.48
+  money:0.32
+  amdo:0.28
+  gatewy:0.25
+  wallet dont:0.25
+  confirmations:0.25
+  dont:0.25
+  told:0.25
+
+Topic 4:
+  alpha:0.48
+  authors:0.47
+  stable:0.47
+  money:0.32
+  amdo:0.28
+  confirmations:0.26
+  told:0.26
+  dont:0.26
+  problem:0.26
+  gatewy:0.26
+
+K: 5, Log-Likelihood: -284.021, Alpha: 11.000, Beta: 1.100

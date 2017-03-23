@@ -1,0 +1,61 @@
+Topic 0:
+  vacation mode:3.08
+  good:2.34
+  link:2.01
+  click:2.01
+  listings:0.92
+  avoid:0.92
+  create:0.92
+  quote:0.92
+  october:0.92
+  pony:0.92
+
+Topic 1:
+  money:2.59
+  custumer:2.56
+  blocqued:1.63
+  booming:1.62
+  question:1.62
+  trust:1.60
+  reason:1.60
+  custumers:1.46
+  agora:1.02
+  btc:0.72
+
+Topic 2:
+  real:2.05
+  don:2.05
+  kind:2.05
+  case:2.05
+  custumers:1.82
+  isn:0.96
+  god:0.96
+  sutch:0.96
+  fe:0.96
+  ourself:0.96
+
+Topic 3:
+  feedback:1.39
+  forums:0.86
+  gon:0.86
+  solve:0.86
+  half:0.86
+  agora link:0.86
+  pm:0.86
+  usernamemaybe:0.86
+  problemyou:0.86
+  padding feedback:0.86
+
+Topic 4:
+  agora:0.74
+  custumers:0.67
+  custumer:0.62
+  money:0.58
+  reason:0.48
+  trust:0.48
+  question:0.46
+  booming:0.46
+  blocqued:0.45
+  evolution:0.40
+
+K: 5, Log-Likelihood: -886.759, Alpha: 11.000, Beta: 1.100

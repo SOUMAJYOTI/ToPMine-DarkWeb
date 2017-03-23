@@ -1,0 +1,61 @@
+Topic 0:
+  carding:8.11
+  miles:5.00
+  cash:4.83
+  concerned:4.06
+  bitcoins:4.03
+  dont:3.99
+  posts:3.99
+  pull:3.99
+  reading:3.99
+  darcyweed:3.99
+
+Topic 1:
+  evil twin:5.35
+  wifi:5.31
+  sudden:4.95
+  paranoid:4.95
+  shit:4.95
+  ap:4.95
+  hypothetically:4.88
+  access point:4.17
+  area:4.11
+  people:2.95
+
+Topic 2:
+  identify:9.93
+  unknowingly:7.44
+  avoid:5.65
+  september:5.21
+  sim card:5.08
+  radio fingerprint:4.96
+  mobile:4.96
+  cell:4.96
+  powerful:4.96
+  le:4.96
+
+Topic 3:
+  traffic:12.41
+  computer:7.44
+  wifi:5.02
+  tor:4.96
+  arp:4.96
+  posted:4.96
+  everyday:4.96
+  google:4.96
+  intercept:4.96
+  fakeap:4.96
+
+Topic 4:
+  nasty:6.16
+  kind:4.90
+  buying:4.13
+  laden:4.13
+  untraceable:4.13
+  copyright:4.13
+  scale:4.13
+  public:4.13
+  cp:4.13
+  materials:4.13
+
+K: 5, Log-Likelihood: -11818.302, Alpha: 11.000, Beta: 1.100

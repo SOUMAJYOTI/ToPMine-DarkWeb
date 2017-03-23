@@ -1,0 +1,31 @@
+Topic 0:
+  sik:0.20
+  sad:0.20
+  road:0.20
+  expecting:0.20
+
+Topic 1:
+  expecting:0.20
+  road:0.20
+  sad:0.20
+  sik:0.20
+
+Topic 2:
+  expecting:0.20
+  road:0.20
+  sad:0.20
+  sik:0.20
+
+Topic 3:
+  expecting:0.20
+  sik:0.20
+  road:0.20
+  sad:0.20
+
+Topic 4:
+  sik:0.20
+  sad:0.20
+  road:0.20
+  expecting:0.20
+
+K: 5, Log-Likelihood: -5.545, Alpha: 11.000, Beta: 1.100

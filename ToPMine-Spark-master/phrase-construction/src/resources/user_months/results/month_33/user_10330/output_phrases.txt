@@ -1,0 +1,61 @@
+Topic 0:
+  encryption keys:73.63
+  gchq:48.02
+  gemalto:39.88
+  intelligence agencies:37.36
+  sim cards:36.82
+  wireless network providers:27.61
+  company:24.54
+  intelligence agency:21.48
+  key theft:21.48
+  nsa gchq:21.48
+
+Topic 1:
+  gc:16.76
+  fn:15.81
+  eb:14.34
+  xm:14.32
+  uz:13.65
+  jr:13.34
+  bx:13.23
+  gm:11.83
+  zw:11.50
+  cx:11.09
+
+Topic 2:
+  usernames passwords:18.63
+  silk road:17.22
+  vendors:17.20
+  germany:14.49
+  mail tor:13.28
+  zaphod february pmquote:12.90
+  evidence:12.49
+  site longer exists:11.70
+  quote:10.96
+  modernlove february amsorry:10.85
+
+Topic 3:
+  dark net:33.75
+  police:18.86
+  cameron:18.41
+  child:15.34
+  security hole:14.02
+  online:13.31
+  supreme court:12.27
+  court:9.66
+  law enforcement:9.63
+  tor:9.20
+
+Topic 4:
+  original list:9.17
+  surveillance:9.06
+  ep:7.55
+  privacy:7.46
+  putting zaphod read article:7.04
+  minutes sink realise zaphods:7.04
+  things bad good:7.04
+  remind orwell simply set:7.04
+  reading things:7.04
+  early called scares shocks:7.04
+
+K: 5, Log-Likelihood: -259530.723, Alpha: 11.000, Beta: 1.100

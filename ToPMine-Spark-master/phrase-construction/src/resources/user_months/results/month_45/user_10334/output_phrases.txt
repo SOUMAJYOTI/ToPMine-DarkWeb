@@ -1,0 +1,61 @@
+Topic 0:
+  connections tor:3.21
+  attack:1.39
+  file:1.39
+  set hidden:1.39
+  custom:1.39
+  scanning:1.39
+  mark:1.39
+  set:1.39
+  port:1.39
+  ash:1.39
+
+Topic 1:
+  post:2.59
+  text:2.59
+  stay:1.22
+  paranoid:1.22
+  safe:1.22
+  format:1.22
+  forum:1.22
+  plain:1.22
+  directly:1.22
+  tutorial:1.22
+
+Topic 2:
+  server:0.91
+  minded:0.79
+  download:0.79
+  big:0.79
+  sandboxed:0.79
+  downloading:0.79
+  pdfs:0.78
+  nono:0.78
+  security:0.78
+  wait:0.56
+
+Topic 3:
+  server:1.17
+  tor:0.69
+  guide:0.55
+  quote:0.48
+  connections tor:0.45
+  wait:0.38
+  recommended:0.35
+  failed:0.35
+  adversary:0.35
+  onion:0.35
+
+Topic 4:
+  asks:3.06
+  march:2.50
+  input:2.42
+  dead:1.93
+  quote:1.61
+  error:1.35
+  window frozen:1.34
+  provided:1.34
+  connection:1.34
+  window:1.34
+
+K: 5, Log-Likelihood: -1215.758, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  problem:0.79
+  hope:0.41
+  site:0.41
+  loading:0.40
+  mods:0.39
+  admit:0.39
+  day:0.38
+  bs:0.20
+  agora:0.20
+  secret:0.20
+
+Topic 1:
+  problem:0.83
+  day:0.44
+  admit:0.42
+  mods:0.42
+  loading:0.40
+  site:0.39
+  hope:0.38
+  limbo:0.21
+  suppose:0.21
+  price:0.21
+
+Topic 2:
+  problem:0.78
+  hope:0.40
+  site:0.40
+  loading:0.40
+  mods:0.40
+  admit:0.39
+  day:0.39
+  forums:0.20
+  claims:0.20
+  didnt:0.20
+
+Topic 3:
+  problem:0.81
+  hope:0.41
+  site:0.41
+  loading:0.40
+  admit:0.39
+  mods:0.39
+  day:0.38
+  proof:0.20
+  twat:0.20
+  seized:0.20
+
+Topic 4:
+  problem:0.79
+  admit:0.40
+  mods:0.40
+  day:0.40
+  loading:0.40
+  site:0.40
+  hope:0.40
+  pay:0.20
+  time:0.20
+  stuck:0.20
+
+K: 5, Log-Likelihood: -191.848, Alpha: 11.000, Beta: 1.100

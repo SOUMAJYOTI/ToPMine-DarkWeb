@@ -1,0 +1,61 @@
+Topic 0:
+  ip address:4.79
+  browser:4.79
+  silk road:4.79
+  tor:3.87
+  network:3.18
+  hops:3.18
+  called:3.18
+  online:3.18
+  firefox:3.18
+  approach:3.18
+
+Topic 1:
+  connected nodes:4.51
+  hidden service:3.55
+  mentioned:3.16
+  book:3.16
+  books:3.16
+  life:3.16
+  real:3.16
+  time:2.72
+  dont tor:2.59
+  nodes:2.40
+
+Topic 2:
+  connected:3.54
+  connect dw:2.33
+  plug:2.33
+  hotels:2.33
+  private:2.33
+  involved:2.33
+  open:2.33
+  jacks:2.33
+  crack:2.33
+  safe ethernet:2.33
+
+Topic 3:
+  exit node:6.40
+  tor relay:4.79
+  data:4.79
+  connection:3.19
+  tor relay node:3.19
+  unencrypted:3.19
+  state:3.19
+  comprised:3.19
+  hidden services:1.79
+  accessing:1.61
+
+Topic 4:
+  clearnet sites:5.87
+  hidden services:3.88
+  involve:3.18
+  connections:3.18
+  watch:3.18
+  ends:3.18
+  visiting:3.18
+  malicious:3.18
+  guards:3.18
+  scripts:3.18
+
+K: 5, Log-Likelihood: -3902.966, Alpha: 11.000, Beta: 1.100

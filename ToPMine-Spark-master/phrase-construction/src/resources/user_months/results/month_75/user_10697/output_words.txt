@@ -1,0 +1,61 @@
+Topic 0:
+  xandz:0.20
+  amwell:0.20
+  noticed:0.20
+  quote:0.20
+  smoker:0.20
+  herenew:0.20
+  post:0.20
+  canaris:0.20
+  market:0.20
+  dream:0.20
+
+Topic 1:
+  herenew:0.20
+  canaris:0.20
+  psychedelics:0.20
+  link:0.20
+  dream:0.20
+  referrals:0.20
+  market:0.20
+  quote:0.20
+  noticed:0.20
+  december:0.20
+
+Topic 2:
+  xandz:0.20
+  referrals:0.20
+  post:0.20
+  quote:0.20
+  psychedelics:0.20
+  smoker:0.20
+  canaris:0.20
+  december:0.20
+  dream:0.20
+  amwell:0.20
+
+Topic 3:
+  dream:0.20
+  herenew:0.20
+  post:0.20
+  amwell:0.20
+  market:0.20
+  noticed:0.20
+  link:0.20
+  referrals:0.20
+  smoker:0.20
+  december:0.20
+
+Topic 4:
+  december:0.20
+  market:0.20
+  link:0.20
+  psychedelics:0.20
+  canaris:0.20
+  noticed:0.20
+  smoker:0.20
+  referrals:0.20
+  xandz:0.20
+  amwell:0.20
+
+K: 5, Log-Likelihood: -36.947, Alpha: 11.000, Beta: 1.100

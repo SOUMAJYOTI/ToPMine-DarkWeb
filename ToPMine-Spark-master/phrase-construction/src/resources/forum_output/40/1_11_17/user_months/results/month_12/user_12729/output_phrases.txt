@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.29
+  luotettavan:0.17
+  asianajotoimistolla:0.14
+  kiinte:0.14
+  tai:0.14
+  postipaikka:0.14
+  baldis:0.14
+  listalla:0.14
+  mutta:0.14
+  mustalla:0.14
+
+Topic 1:
+  ja:0.29
+  luotettavan:0.17
+  tt:0.14
+  tullit:0.14
+  sitten:0.14
+  tehd:0.14
+  valvotun:0.14
+  pilaskun:0.14
+  ent:0.14
+  nain:0.14
+
+Topic 2:
+  ja:0.29
+  luotettavan:0.17
+  tullit:0.14
+  ent:0.14
+  pilaskun:0.14
+  valvotun:0.14
+  tt:0.14
+  nain:0.14
+  tehd:0.14
+  sitten:0.14
+
+Topic 3:
+  ja:0.29
+  luotettavan:0.17
+  hetyspalvelu:0.14
+  ep:0.14
+  july:0.14
+  isommassa:0.14
+  lis:0.14
+  unohda:0.14
+  ns:0.14
+  ehk:0.14
+
+Topic 4:
+  ja:0.29
+  luotettavan:0.17
+  sitten:0.14
+  tehd:0.14
+  pojat:0.14
+  nain:0.14
+  pilaskun:0.14
+  ent:0.14
+  valvotun:0.14
+  tullit:0.14
+
+K: 5, Log-Likelihood: -286.651, Alpha: 11.000, Beta: 1.100

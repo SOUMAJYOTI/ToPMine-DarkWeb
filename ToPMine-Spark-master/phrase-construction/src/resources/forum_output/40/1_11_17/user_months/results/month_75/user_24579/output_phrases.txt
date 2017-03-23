@@ -1,0 +1,61 @@
+Topic 0:
+  crashing:0.55
+  tails:0.50
+  virus:0.49
+  crash:0.31
+  bsod:0.29
+  computer:0.29
+  bios:0.29
+  unit:0.28
+  cd:0.25
+  process:0.25
+
+Topic 1:
+  crash:1.79
+  drivers:1.02
+  minidump:0.69
+  bluescreenview:0.69
+  file:0.68
+  pane:0.68
+  screen:0.68
+  blue:0.68
+  details:0.68
+  check:0.68
+
+Topic 2:
+  virus:0.90
+  tails:0.88
+  crashing:0.54
+  thought:0.37
+  sucessfuly:0.37
+  suggestions:0.37
+  bits:0.37
+  booted:0.37
+  find:0.37
+  bluescreen:0.37
+
+Topic 3:
+  crash:1.66
+  drivers:1.12
+  filename:0.67
+  displayed:0.67
+  displays:0.66
+  check:0.66
+  caused:0.66
+  pane:0.66
+  blue:0.66
+  screen:0.66
+
+Topic 4:
+  crash:0.64
+  crashing:0.41
+  drivers:0.32
+  crashes:0.31
+  displays:0.25
+  caused:0.25
+  details:0.25
+  check:0.25
+  file:0.25
+  displayed:0.25
+
+K: 5, Log-Likelihood: -493.836, Alpha: 11.000, Beta: 1.100

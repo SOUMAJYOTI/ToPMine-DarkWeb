@@ -1,0 +1,61 @@
+Topic 0:
+  python:1.10
+  torchat:0.55
+  config main:0.54
+  directory:0.34
+  wxversion:0.34
+  installed:0.22
+  tails:0.21
+  limited:0.21
+  suitable:0.16
+  file:0.16
+
+Topic 1:
+  python:0.48
+  torchat:0.48
+  limited:0.34
+  tails:0.34
+  config main:0.33
+  installed:0.24
+  directory:0.23
+  wxversion:0.23
+  concluding:0.16
+  memory:0.16
+
+Topic 2:
+  python:0.64
+  torchat:0.52
+  config main:0.40
+  limited:0.28
+  tails:0.28
+  wxversion:0.27
+  directory:0.27
+  installed:0.23
+  install:0.14
+  appreciated:0.14
+
+Topic 3:
+  python:0.63
+  torchat:0.53
+  config main:0.41
+  wxversion:0.28
+  directory:0.28
+  tails:0.27
+  limited:0.27
+  installed:0.23
+  appreciated:0.14
+  xyzuvw:0.14
+
+Topic 4:
+  python:0.61
+  torchat:0.51
+  config main:0.39
+  tails:0.29
+  limited:0.28
+  wxversion:0.27
+  directory:0.27
+  installed:0.23
+  successful:0.14
+  type:0.14
+
+K: 5, Log-Likelihood: -260.600, Alpha: 11.000, Beta: 1.100

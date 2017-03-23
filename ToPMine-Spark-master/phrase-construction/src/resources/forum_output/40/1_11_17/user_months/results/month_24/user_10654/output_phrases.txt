@@ -1,0 +1,61 @@
+Topic 0:
+  pandora:8.36
+  money:5.20
+  correct:5.19
+  forum:5.14
+  hijacking:4.95
+  orders:4.56
+  hours:4.39
+  access:4.27
+  confirm:4.19
+  good:3.61
+
+Topic 1:
+  september:6.10
+  jack hoff:4.67
+  lock:4.43
+  people sr:4.43
+  guess sr:4.43
+  configured:4.43
+  number:4.43
+  vulnerabilities add:4.43
+  teach:4.43
+  pmlet:4.43
+
+Topic 2:
+  log:9.46
+  buyer account:8.52
+  vendor account hijacked:6.51
+  inside job:5.41
+  people:5.16
+  vendor account:4.92
+  september:4.91
+  quote:4.40
+  pmanother:4.36
+  complicated:4.36
+
+Topic 3:
+  silk road:27.93
+  captcha:13.02
+  ip address:11.39
+  tor:9.82
+  fbi:9.74
+  agents:7.90
+  packet sniffer:7.90
+  cubrilovic:7.90
+  security:7.90
+  hosted:7.90
+
+Topic 4:
+  agent:10.53
+  ip:8.78
+  ip address:8.68
+  fbi:8.29
+  packet:6.62
+  public:5.70
+  leaks:5.25
+  full:5.25
+  error:5.25
+  easy:5.25
+
+K: 5, Log-Likelihood: -13695.319, Alpha: 11.000, Beta: 1.100

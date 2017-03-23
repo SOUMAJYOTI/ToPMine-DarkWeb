@@ -1,0 +1,61 @@
+Topic 0:
+  control:4.65
+  understand:4.63
+  open:4.63
+  windows xp:4.16
+  helphave:3.83
+  money:3.66
+  water:2.40
+  iso image:2.30
+  thewindows:2.30
+  imagine:2.30
+
+Topic 1:
+  poetical drive:7.73
+  load:7.66
+  file:7.66
+  recommend:5.79
+  mount:5.78
+  method:3.84
+  installing:3.84
+  windows program:3.84
+  installed notable:3.84
+  image files:3.84
+
+Topic 2:
+  windows xp:12.33
+  flash drive:7.72
+  vm:7.72
+  iso file:5.23
+  correct:4.62
+  soros:4.62
+  reboot:3.83
+  pretty:3.83
+  screens:3.83
+  installed os:3.83
+
+Topic 3:
+  great:3.57
+  playground:3.56
+  siblings:3.02
+  knowledge:2.66
+  keiser:2.42
+  good:2.42
+  max:2.40
+  javascript:2.27
+  skills:2.27
+  speak:2.27
+
+Topic 4:
+  legislation:18.75
+  bitcoin:14.06
+  banks:12.06
+  price:8.00
+  gold:7.93
+  money:7.86
+  cyprus:7.01
+  bank deposits:7.01
+  bank:7.01
+  litecoin:7.01
+
+K: 5, Log-Likelihood: -10233.769, Alpha: 11.000, Beta: 1.100

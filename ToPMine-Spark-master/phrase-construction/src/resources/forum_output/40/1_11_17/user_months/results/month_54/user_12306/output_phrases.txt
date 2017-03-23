@@ -1,0 +1,61 @@
+Topic 0:
+  quote:0.16
+  powsub:0.08
+  admins:0.08
+  browser:0.08
+  file:0.08
+  july:0.08
+  report:0.08
+  people:0.08
+  ignore:0.08
+  amhi:0.08
+
+Topic 1:
+  quote:0.16
+  open:0.08
+  people:0.08
+  admins:0.08
+  paste:0.08
+  file:0.08
+  amhi:0.08
+  link:0.08
+  report:0.08
+  pm:0.08
+
+Topic 2:
+  quote:0.16
+  link:0.08
+  stranger:0.08
+  ignore:0.08
+  copy:0.08
+  pm:0.08
+  people:0.08
+  amhi:0.08
+  file:0.08
+  report:0.08
+
+Topic 3:
+  quote:0.16
+  copy:0.08
+  browser:0.08
+  powsub:0.08
+  open:0.08
+  july:0.08
+  stranger:0.08
+  file:0.08
+  link:0.08
+  pm:0.08
+
+Topic 4:
+  quote:0.16
+  july:0.08
+  amhi:0.08
+  ignore:0.08
+  stranger:0.08
+  pm:0.08
+  paste:0.08
+  report:0.08
+  powsub:0.08
+  open:0.08
+
+K: 5, Log-Likelihood: -26.047, Alpha: 11.000, Beta: 1.100

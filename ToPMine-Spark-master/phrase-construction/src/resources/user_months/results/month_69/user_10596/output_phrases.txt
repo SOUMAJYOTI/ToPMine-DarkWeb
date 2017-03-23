@@ -1,0 +1,61 @@
+Topic 0:
+  hansa:6.33
+  eic:4.65
+  dn:4.63
+  withdraw:4.62
+  multisig:3.91
+  good:3.83
+  thread:3.18
+  multisig find:2.30
+  introduced:2.30
+  offering:2.30
+
+Topic 1:
+  onion:32.91
+  accounts:23.50
+  key:21.60
+  onioncreated time multisig:16.45
+  onionreddit accounts:14.09
+  yesfe allowed yesvendor bond:11.74
+  invite required nocategories:11.74
+  guides tutorials:11.74
+  prior security flaws nosubreddit:11.74
+  onioncreated time multisig nofe:11.74
+
+Topic 2:
+  invoice:4.68
+  randomized:4.68
+  wallet pay:2.33
+  december:2.33
+  quote:2.33
+  paying:2.33
+  amfee:2.33
+  party:2.33
+  arrive:2.33
+  coins:2.33
+
+Topic 3:
+  amount:11.43
+  send:11.18
+  pay shield:8.13
+  light version:7.04
+  send btc:7.04
+  address:4.69
+  tumblers:4.69
+  user:4.69
+  sigaint:4.69
+  links:4.69
+
+Topic 4:
+  order:23.50
+  public key:11.74
+  select:11.74
+  market:10.24
+  listing:9.39
+  vendor:9.34
+  verify:9.33
+  acropolis market:7.04
+  redeem script:7.04
+  dispute:7.04
+
+K: 5, Log-Likelihood: -15371.984, Alpha: 11.000, Beta: 1.100

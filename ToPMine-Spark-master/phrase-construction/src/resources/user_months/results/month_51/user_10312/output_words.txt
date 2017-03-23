@@ -1,0 +1,61 @@
+Topic 0:
+  battery:2.57
+  websites:1.76
+  internet:1.39
+  phones:1.36
+  users:1.31
+  people:1.20
+  researchers:0.92
+  phone:0.91
+  software:0.86
+  html:0.62
+
+Topic 1:
+  battery:1.60
+  phone:1.03
+  websites:0.97
+  users:0.79
+  internet:0.78
+  phones:0.74
+  people:0.71
+  html:0.68
+  software:0.61
+  researchers:0.58
+
+Topic 2:
+  national:1.39
+  destroy:1.39
+  day:1.39
+  worried:1.17
+  phone:1.01
+  quote:0.67
+  die:0.67
+  agree:0.67
+  pmwe:0.67
+  time:0.67
+
+Topic 3:
+  battery:1.72
+  websites:1.07
+  people:1.06
+  phone:1.05
+  users:0.86
+  phones:0.82
+  internet:0.80
+  software:0.68
+  html:0.68
+  researchers:0.68
+
+Topic 4:
+  battery:1.85
+  websites:1.07
+  phone:1.00
+  phones:0.97
+  users:0.93
+  internet:0.91
+  people:0.91
+  software:0.73
+  researchers:0.71
+  html:0.67
+
+K: 5, Log-Likelihood: -694.222, Alpha: 11.000, Beta: 1.100

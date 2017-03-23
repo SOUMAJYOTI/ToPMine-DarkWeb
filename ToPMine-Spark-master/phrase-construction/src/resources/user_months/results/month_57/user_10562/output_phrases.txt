@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin fork couple extra:0.96
+  dash safe btc:0.96
+  nodes tor cryptonote:0.96
+  features centralized master:0.96
+  pops:0.96
+  monero:0.77
+  cryptonote:0.69
+  people:0.58
+  data:0.57
+  dumb lazy head advice:0.52
+
+Topic 1:
+  javascript:4.45
+  user:4.04
+  attacker:2.95
+  fancy:2.95
+  project:2.95
+  fucked:2.95
+  require:2.95
+  encrypted:2.95
+  onion:2.95
+  users:2.75
+
+Topic 2:
+  privacy:2.15
+  masternodes:2.13
+  monero:1.99
+  zkp:1.72
+  ring signature:1.55
+  issues:1.48
+  academy:1.30
+  issue:1.28
+  ring:1.23
+  darkcoin:1.13
+
+Topic 3:
+  physical control:4.31
+  ross:3.22
+  case:3.12
+  server:3.06
+  sr:2.94
+  automatically:2.12
+  asshole:2.12
+  worried:2.12
+  board:2.12
+  renting:2.12
+
+Topic 4:
+  masternodes:6.00
+  privacy:4.78
+  issues:4.03
+  monero:4.03
+  zkp:3.71
+  shadowcash:3.25
+  darkcoin:2.98
+  ring:2.87
+  issue:2.84
+  academy:2.76
+
+K: 5, Log-Likelihood: -6779.018, Alpha: 11.000, Beta: 1.100

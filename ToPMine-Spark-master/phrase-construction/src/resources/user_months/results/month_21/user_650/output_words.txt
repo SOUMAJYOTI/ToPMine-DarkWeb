@@ -1,0 +1,61 @@
+Topic 0:
+  agora:1.87
+  time:0.98
+  dont:0.57
+  long:0.51
+  kind:0.51
+  evolution:0.50
+  market:0.49
+  btc:0.44
+  havent:0.42
+  forum:0.39
+
+Topic 1:
+  issue:1.19
+  runner:0.72
+  dont:0.70
+  accounting:0.53
+  glitch:0.53
+  outright:0.53
+  address:0.53
+  theft:0.53
+  forums:0.53
+  agra:0.53
+
+Topic 2:
+  agora:1.67
+  btc:1.03
+  time:0.62
+  market:0.52
+  long:0.52
+  kind:0.52
+  evolution:0.51
+  dont:0.46
+  people:0.41
+  profile:0.41
+
+Topic 3:
+  time:0.82
+  agora:0.79
+  dont:0.62
+  forum:0.55
+  runner:0.53
+  havent:0.45
+  address:0.39
+  forums:0.39
+  glitch:0.39
+  agra:0.39
+
+Topic 4:
+  agora:1.25
+  time:1.12
+  dont:0.66
+  havent:0.61
+  forum:0.52
+  evolution:0.45
+  long:0.44
+  kind:0.44
+  market:0.42
+  runner:0.36
+
+K: 5, Log-Likelihood: -736.351, Alpha: 11.000, Beta: 1.100

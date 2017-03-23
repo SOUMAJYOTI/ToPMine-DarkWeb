@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:17.82
+  link:14.89
+  abraxas:11.17
+  pgp:10.85
+  account:10.64
+  drugs:9.94
+  referred:8.39
+  products:7.94
+  marketplace:7.94
+  goods:7.94
+
+Topic 1:
+  vendors:10.28
+  exit:7.74
+  market:7.74
+  abraxas:5.26
+  november:4.36
+  coolbreeze:4.18
+  dimitri:3.84
+  time:3.23
+  scam:3.13
+  quote:2.85
+
+Topic 2:
+  vendor:11.36
+  abraxas:10.03
+  link:7.12
+  fee:6.72
+  vendors:4.31
+  market:3.35
+  abraxasmarket:1.79
+  reddit:1.75
+  scraped:1.72
+  confirm:1.71
+
+Topic 3:
+  scam:14.74
+  exit:11.21
+  markets:10.25
+  agora:9.85
+  good:8.42
+  coming:8.36
+  market:7.89
+  vendors:6.65
+  multisig:6.55
+  admins:6.43
+
+Topic 4:
+  established:8.56
+  vendors:8.48
+  quote:7.39
+  october:7.38
+  waive:7.01
+  btc:5.51
+  moment:4.81
+  abraxas:4.18
+  llama:3.53
+  socks:3.52
+
+K: 5, Log-Likelihood: -8258.378, Alpha: 11.000, Beta: 1.100

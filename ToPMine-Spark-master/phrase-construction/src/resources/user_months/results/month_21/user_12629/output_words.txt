@@ -1,0 +1,61 @@
+Topic 0:
+  ei:2.34
+  ja:1.87
+  iv:1.65
+  myyj:1.36
+  tilausta:1.27
+  pit:1.14
+  jos:1.07
+  takasin:1.04
+  se:0.99
+  riitauttaa:0.93
+
+Topic 1:
+  ne:1.96
+  kans:1.93
+  mit:1.76
+  iv:1.55
+  tullu:1.52
+  ei:1.38
+  sis:1.30
+  coinit:1.30
+  sit:1.24
+  ekstaasikauppa:1.22
+
+Topic 2:
+  tai:4.69
+  ei:3.56
+  ll:3.05
+  jos:2.61
+  en:2.56
+  myyj:2.52
+  riitauttaa:2.35
+  oo:2.31
+  sen:2.26
+  sit:2.18
+
+Topic 3:
+  iv:4.43
+  oo:3.44
+  ei:3.40
+  kiinni:2.70
+  vai:2.27
+  kaveri:2.18
+  coinit:2.08
+  ja:1.88
+  kadonnut:1.68
+  miin:1.68
+
+Topic 4:
+  ei:4.33
+  maksu:2.30
+  eli:2.18
+  riitauttaa:2.16
+  ja:1.89
+  pit:1.89
+  se:1.71
+  ett:1.58
+  myyj:1.49
+  iv:1.27
+
+K: 5, Log-Likelihood: -2491.027, Alpha: 11.000, Beta: 1.100

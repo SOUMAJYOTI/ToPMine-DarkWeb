@@ -1,0 +1,61 @@
+Topic 0:
+  fed:0.00
+  feel:0.00
+  rumors:0.00
+  darknet:0.00
+  hope:0.00
+  doesnt:0.00
+  intricate:0.00
+  experiencing:0.00
+  forums:0.00
+  forumers:0.00
+
+Topic 1:
+  fed:0.00
+  feel:0.00
+  rumors:0.00
+  darknet:0.00
+  hope:0.00
+  doesnt:0.00
+  intricate:0.00
+  experiencing:0.00
+  forums:0.00
+  forumers:0.00
+
+Topic 2:
+  fed:0.00
+  feel:0.00
+  rumors:0.00
+  darknet:0.00
+  hope:0.00
+  doesnt:0.00
+  intricate:0.00
+  experiencing:0.00
+  forums:0.00
+  forumers:0.00
+
+Topic 3:
+  fed:0.00
+  feel:0.00
+  rumors:0.00
+  darknet:0.00
+  hope:0.00
+  doesnt:0.00
+  intricate:0.00
+  experiencing:0.00
+  forums:0.00
+  forumers:0.00
+
+Topic 4:
+  fed:0.00
+  feel:0.00
+  rumors:0.00
+  darknet:0.00
+  hope:0.00
+  doesnt:0.00
+  intricate:0.00
+  experiencing:0.00
+  forums:0.00
+  forumers:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

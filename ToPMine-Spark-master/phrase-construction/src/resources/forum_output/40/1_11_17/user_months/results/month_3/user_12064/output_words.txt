@@ -1,0 +1,61 @@
+Topic 0:
+  evolution:0.63
+  testing:0.41
+  admins:0.41
+  market:0.41
+  utopia:0.39
+  order:0.38
+  number:0.38
+  website:0.21
+  shit:0.21
+  fact:0.21
+
+Topic 1:
+  evolution:0.58
+  utopia:0.43
+  order:0.42
+  number:0.42
+  admins:0.39
+  market:0.39
+  testing:0.39
+  bulk:0.21
+  vendors:0.21
+  follow:0.21
+
+Topic 2:
+  evolution:0.61
+  testing:0.42
+  market:0.41
+  admins:0.40
+  number:0.39
+  utopia:0.38
+  order:0.38
+  opsec:0.21
+  depending:0.21
+  confront:0.21
+
+Topic 3:
+  evolution:0.59
+  market:0.40
+  admins:0.40
+  testing:0.40
+  order:0.40
+  utopia:0.39
+  number:0.39
+  assholes:0.20
+  servers:0.20
+  dont:0.20
+
+Topic 4:
+  evolution:0.59
+  number:0.42
+  order:0.42
+  utopia:0.41
+  admins:0.39
+  market:0.39
+  testing:0.39
+  yh:0.21
+  cannabis:0.21
+  follow:0.21
+
+K: 5, Log-Likelihood: -349.953, Alpha: 11.000, Beta: 1.100

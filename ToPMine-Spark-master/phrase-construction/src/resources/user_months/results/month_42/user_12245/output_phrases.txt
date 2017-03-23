@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.45
+  tullin:0.45
+  puheluun:0.29
+  niin:0.29
+  ett:0.26
+  oli:0.26
+  kirjeess:0.26
+  jos:0.18
+  kaikki:0.14
+  kotisi:0.14
+
+Topic 1:
+  tullin:0.54
+  ja:0.44
+  puheluun:0.34
+  niin:0.28
+  kirjeess:0.23
+  ett:0.23
+  oli:0.23
+  jos:0.18
+  ll:0.16
+  sinful:0.16
+
+Topic 2:
+  ja:0.49
+  tullin:0.33
+  oli:0.33
+  kirjeess:0.33
+  ett:0.33
+  niin:0.25
+  puheluun:0.23
+  jos:0.16
+  kysymys:0.15
+  soittopyynt:0.15
+
+Topic 3:
+  ja:0.44
+  tullin:0.41
+  niin:0.30
+  puheluun:0.28
+  ett:0.26
+  kirjeess:0.26
+  oli:0.26
+  jos:0.18
+  tullu:0.14
+  kiinni:0.14
+
+Topic 4:
+  ja:0.48
+  tullin:0.36
+  ett:0.30
+  kirjeess:0.30
+  oli:0.30
+  niin:0.27
+  puheluun:0.25
+  jos:0.17
+  lt:0.15
+  tullilta:0.15
+
+K: 5, Log-Likelihood: -452.668, Alpha: 11.000, Beta: 1.100

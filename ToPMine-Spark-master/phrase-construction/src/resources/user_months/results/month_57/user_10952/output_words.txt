@@ -1,0 +1,61 @@
+Topic 0:
+  key:0.64
+  pgp:0.62
+  pm:0.48
+  set:0.47
+  ju:0.37
+  block:0.37
+  public:0.37
+  ty:0.37
+  tor:0.23
+  address:0.23
+
+Topic 1:
+  pgp:0.59
+  key:0.58
+  ty:0.44
+  public:0.44
+  block:0.44
+  ju:0.44
+  set:0.31
+  pm:0.31
+  qz:0.21
+  iaal:0.21
+
+Topic 2:
+  key:0.60
+  pgp:0.59
+  ju:0.42
+  ty:0.42
+  public:0.42
+  block:0.41
+  set:0.35
+  pm:0.35
+  gu:0.21
+  jk:0.21
+
+Topic 3:
+  key:0.60
+  pgp:0.59
+  set:0.44
+  pm:0.44
+  block:0.39
+  ju:0.38
+  public:0.38
+  ty:0.38
+  host:0.21
+  tor:0.21
+
+Topic 4:
+  pgp:0.60
+  key:0.59
+  set:0.43
+  pm:0.42
+  ju:0.39
+  block:0.39
+  ty:0.39
+  public:0.38
+  imputable:0.21
+  basin:0.21
+
+K: 5, Log-Likelihood: -1070.599, Alpha: 11.000, Beta: 1.100

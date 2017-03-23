@@ -1,0 +1,61 @@
+Topic 0:
+  acct:0.39
+  fair:0.39
+  confirm:0.39
+  golden:0.36
+  heroin:0.28
+  black:0.27
+  black tar heroin:0.27
+  hard:0.21
+  public:0.21
+  product:0.21
+
+Topic 1:
+  golden:2.16
+  black tar heroin:1.12
+  black:1.11
+  heroin:1.10
+  verify:0.66
+  form:0.66
+  find:0.66
+  good:0.66
+  common:0.66
+  powder:0.66
+
+Topic 2:
+  golden:0.67
+  heroin:0.46
+  black tar heroin:0.46
+  black:0.46
+  magical:0.32
+  opium:0.32
+  block:0.32
+  public:0.32
+  coming:0.32
+  hard:0.32
+
+Topic 3:
+  message:1.03
+  qxocbemi:0.43
+  hgbostrq:0.43
+  dneyormgpoov:0.43
+  thief:0.43
+  ekknfgljkrjplmdgztvmnvzyemq:0.43
+  nnmjff:0.43
+  qi:0.43
+  cabsykvkc:0.43
+  mingw:0.43
+
+Topic 4:
+  fair:0.44
+  acct:0.44
+  confirm:0.44
+  golden:0.22
+  control:0.20
+  relinquish:0.20
+  satisfying:0.20
+  question:0.20
+  result:0.20
+  op:0.20
+
+K: 5, Log-Likelihood: -842.030, Alpha: 11.000, Beta: 1.100

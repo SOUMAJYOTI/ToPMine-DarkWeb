@@ -1,0 +1,61 @@
+Topic 0:
+  spotty:1.65
+  target:1.65
+  ago:1.65
+  full:1.65
+  issue:1.65
+  experience:1.65
+  late:1.65
+  bouncing:1.65
+  spam:1.65
+  days:1.65
+
+Topic 1:
+  good:1.95
+  method:1.58
+  applies:1.57
+  godspeed:1.57
+  individuals:1.54
+  pretty:1.53
+  sell:1.53
+  businesses:1.53
+  cryptocurrencies:1.52
+  luck:1.52
+
+Topic 2:
+  btc:3.72
+  ny:1.91
+  legislation:1.78
+  rules:1.78
+  simply:1.78
+  shapeshift:1.78
+  apply:1.78
+  people:1.78
+  coin:1.78
+  altcoins:1.37
+
+Topic 3:
+  lelantos:3.38
+  mailchuck:3.31
+  address:1.71
+  onion:1.68
+  free:1.66
+  impossible:1.66
+  find:1.65
+  openmailbox:1.65
+  account:1.65
+  reliable:1.63
+
+Topic 4:
+  alternative:2.87
+  payment:2.87
+  happen:2.87
+  currency:2.87
+  coast:2.87
+  concept:2.87
+  tap:2.87
+  single:2.87
+  liquid:2.87
+  pondering:2.87
+
+K: 5, Log-Likelihood: -1228.540, Alpha: 11.000, Beta: 1.100

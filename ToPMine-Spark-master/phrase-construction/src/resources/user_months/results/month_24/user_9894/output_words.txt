@@ -1,0 +1,61 @@
+Topic 0:
+  bravebunny:1.08
+  jamaiza:0.99
+  mixers:0.98
+  redacted:0.64
+  swam:0.63
+  forum:0.58
+  links:0.53
+  avoiding:0.50
+  list:0.49
+  forums:0.39
+
+Topic 1:
+  redacted:0.86
+  mixers:0.80
+  jamaiza:0.78
+  links:0.64
+  forum:0.55
+  careful:0.43
+  listed:0.43
+  scam:0.43
+  stay:0.43
+  sites:0.43
+
+Topic 2:
+  redacted:0.81
+  forum:0.74
+  mixers:0.67
+  bravebunny:0.65
+  jamaiza:0.56
+  links:0.56
+  evilgrin:0.49
+  websites:0.48
+  hope:0.47
+  linked:0.47
+
+Topic 3:
+  jamaiza:1.11
+  mixers:0.92
+  redacted:0.75
+  links:0.64
+  forums:0.58
+  careful:0.47
+  scam:0.47
+  stay:0.47
+  sites:0.47
+  listed:0.47
+
+Topic 4:
+  redacted:0.94
+  forum:0.66
+  mixers:0.64
+  links:0.63
+  jamaiza:0.56
+  evilgrin:0.54
+  money:0.51
+  hand:0.51
+  websites:0.51
+  linked:0.50
+
+K: 5, Log-Likelihood: -524.883, Alpha: 11.000, Beta: 1.100

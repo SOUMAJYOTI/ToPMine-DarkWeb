@@ -1,0 +1,61 @@
+Topic 0:
+  involved:1.41
+  info:1.39
+  guys bitcoin:1.39
+  bitcoin:1.38
+  mail:1.38
+  expecting:1.38
+  work:1.38
+  sock:1.38
+  idea:1.37
+  union:1.37
+
+Topic 1:
+  condom:0.75
+  foolish:0.74
+  blockchain:0.74
+  recieving:0.74
+  scratch:0.73
+  ripped:0.73
+  vendors:0.72
+  problems:0.72
+  western:0.72
+  risk:0.72
+
+Topic 2:
+  drugs online:1.27
+  buy bitcoins:0.83
+  bitcoins:0.72
+  wallet:0.71
+  reply:0.71
+  turnsout:0.70
+  paying:0.70
+  buy:0.69
+  buying:0.69
+  lost:0.68
+
+Topic 3:
+  drugs online:3.18
+  scam:1.38
+  wallet bitcoins:1.37
+  wondering:1.35
+  lost:1.35
+  buy:1.35
+  buying:1.35
+  paying:1.32
+  turnsout:1.32
+  reply:1.32
+
+Topic 4:
+  hippie:1.85
+  slipped:1.85
+  shit:1.85
+  nasty:1.84
+  bit:1.84
+  traveling:1.84
+  stank:1.84
+  mildewey:1.84
+  spit:1.83
+  boots:1.83
+
+K: 5, Log-Likelihood: -643.665, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  phoenix vm:3.55
+  tails:2.41
+  electric:2.32
+  write:2.32
+  boum:2.32
+  burner:2.32
+  computer:2.32
+  secure:2.32
+  wallet great:2.32
+  image:2.32
+
+Topic 1:
+  connected:4.79
+  work:4.79
+  yousnow:4.75
+  days:3.90
+  reason:3.90
+  blue:3.90
+  bridge:3.90
+  internet:3.90
+  onion:3.90
+  browser:3.90
+
+Topic 2:
+  tails case negative sides:5.65
+  compatible newer macbook models:5.65
+  design install missing driver:5.65
+  wifi devices inside computers:5.65
+  device computer model buy:5.65
+  wife:5.65
+  tails based compatible:5.65
+  drivers searching design driver:5.65
+  connected wife dongle compatible:5.65
+  lucidmotif:3.83
+
+Topic 3:
+  enter wifi password:7.88
+  stuff:3.89
+  persistent:3.89
+  drop:3.89
+  upper:3.89
+  icon:3.89
+  enter password:3.89
+  click:3.89
+  passwords:3.89
+  corner:3.89
+
+Topic 4:
+  tor:7.51
+  account:3.85
+  gpg:3.85
+  download:3.85
+  bank:3.85
+  readable:3.85
+  advance:3.85
+  suggestions:3.85
+  transferring:3.85
+  wondering:3.85
+
+K: 5, Log-Likelihood: -2622.811, Alpha: 11.000, Beta: 1.100

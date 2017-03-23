@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.19
+  easy:0.52
+  marketplace:0.52
+  markets:0.51
+  team:0.51
+  hub:0.44
+  compared:0.43
+  hey:0.43
+  developed:0.43
+  greetingscurse:0.26
+
+Topic 1:
+  markets:0.78
+  patient:0.76
+  site:0.76
+  layout:0.75
+  stay:0.74
+  place:0.74
+  market:0.58
+  compared:0.35
+  hub:0.35
+  hey:0.35
+
+Topic 2:
+  market:1.24
+  team:0.67
+  marketplace:0.66
+  easy:0.66
+  markets:0.48
+  developed:0.44
+  hub:0.43
+  compared:0.43
+  hey:0.43
+  curse:0.31
+
+Topic 3:
+  market:1.37
+  team:0.64
+  easy:0.63
+  marketplace:0.63
+  markets:0.50
+  hey:0.43
+  developed:0.43
+  compared:0.43
+  hub:0.43
+  programming:0.30
+
+Topic 4:
+  place:0.78
+  stay:0.77
+  layout:0.77
+  site:0.76
+  patient:0.75
+  markets:0.73
+  market:0.61
+  hey:0.35
+  developed:0.35
+  compared:0.35
+
+K: 5, Log-Likelihood: -491.406, Alpha: 11.000, Beta: 1.100

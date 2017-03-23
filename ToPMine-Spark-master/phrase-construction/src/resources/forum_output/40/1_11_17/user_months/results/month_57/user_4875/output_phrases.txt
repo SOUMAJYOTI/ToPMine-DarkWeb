@@ -1,0 +1,61 @@
+Topic 0:
+  easywallet:0.00
+  wait:0.00
+  move:0.00
+  fees:0.00
+  charge:0.00
+  wallet:0.00
+  org:0.00
+  built:0.00
+  walletthe:0.00
+  localbitcoins:0.00
+
+Topic 1:
+  easywallet:0.00
+  wait:0.00
+  move:0.00
+  fees:0.00
+  charge:0.00
+  wallet:0.00
+  org:0.00
+  built:0.00
+  walletthe:0.00
+  localbitcoins:0.00
+
+Topic 2:
+  easywallet:0.00
+  wait:0.00
+  move:0.00
+  fees:0.00
+  charge:0.00
+  wallet:0.00
+  org:0.00
+  built:0.00
+  walletthe:0.00
+  localbitcoins:0.00
+
+Topic 3:
+  easywallet:0.00
+  wait:0.00
+  move:0.00
+  fees:0.00
+  charge:0.00
+  wallet:0.00
+  org:0.00
+  built:0.00
+  walletthe:0.00
+  localbitcoins:0.00
+
+Topic 4:
+  easywallet:0.00
+  wait:0.00
+  move:0.00
+  fees:0.00
+  charge:0.00
+  wallet:0.00
+  org:0.00
+  built:0.00
+  walletthe:0.00
+  localbitcoins:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

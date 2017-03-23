@@ -1,0 +1,61 @@
+Topic 0:
+  silk road:0.24
+  programming language:0.24
+  programmed php:0.24
+  website:0.16
+  tor:0.16
+  websites:0.16
+  idea:0.08
+  setting:0.08
+  php:0.08
+  awful:0.08
+
+Topic 1:
+  programmed php:0.24
+  silk road:0.24
+  programming language:0.24
+  websites:0.16
+  tor:0.16
+  website:0.16
+  darkness:0.08
+  agra:0.08
+  browser:0.08
+  knowledge:0.08
+
+Topic 2:
+  programming language:0.24
+  programmed php:0.24
+  silk road:0.24
+  websites:0.16
+  tor:0.16
+  website:0.16
+  marketplaces:0.08
+  knowledge:0.08
+  computer:0.08
+  programmed:0.08
+
+Topic 3:
+  programming language:0.24
+  silk road:0.24
+  programmed php:0.24
+  website:0.16
+  tor:0.16
+  websites:0.16
+  computer:0.08
+  darkness:0.08
+  extensive:0.08
+  answer:0.08
+
+Topic 4:
+  programmed php:0.24
+  silk road:0.24
+  programming language:0.24
+  websites:0.16
+  website:0.16
+  tor:0.16
+  avoid:0.08
+  huh:0.08
+  ill:0.08
+  planning:0.08
+
+K: 5, Log-Likelihood: -76.075, Alpha: 11.000, Beta: 1.100

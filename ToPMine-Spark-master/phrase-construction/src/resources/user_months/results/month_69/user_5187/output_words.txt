@@ -1,0 +1,61 @@
+Topic 0:
+  list:1.20
+  february:0.82
+  quote:0.60
+  del:0.60
+  nucleus:0.59
+  dream:0.59
+  lightnlove:0.40
+  bonobo:0.40
+  army:0.40
+  country:0.40
+
+Topic 1:
+  list:1.11
+  february:0.78
+  quote:0.60
+  dream:0.59
+  del:0.58
+  nucleus:0.58
+  country:0.42
+  army:0.39
+  bonobo:0.39
+  lightnlove:0.39
+
+Topic 2:
+  list:1.19
+  february:0.83
+  nucleus:0.61
+  quote:0.61
+  del:0.60
+  dream:0.60
+  army:0.41
+  bonobo:0.40
+  lightnlove:0.40
+  country:0.40
+
+Topic 3:
+  list:1.11
+  february:0.82
+  dream:0.61
+  del:0.61
+  nucleus:0.60
+  quote:0.59
+  country:0.41
+  lightnlove:0.40
+  army:0.40
+  bonobo:0.40
+
+Topic 4:
+  list:1.39
+  february:0.76
+  dream:0.61
+  nucleus:0.61
+  del:0.61
+  quote:0.60
+  bonobo:0.41
+  lightnlove:0.41
+  army:0.41
+  country:0.38
+
+K: 5, Log-Likelihood: -213.713, Alpha: 11.000, Beta: 1.100

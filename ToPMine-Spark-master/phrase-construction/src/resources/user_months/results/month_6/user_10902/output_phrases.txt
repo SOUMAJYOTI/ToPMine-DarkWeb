@@ -1,0 +1,61 @@
+Topic 0:
+  safe:3.33
+  great:2.52
+  long:2.01
+  term:1.63
+  storage:1.63
+  purchases:1.63
+  transfer:1.63
+  tumble wallets:1.63
+  curious:1.63
+  services:1.63
+
+Topic 1:
+  perfectly:3.36
+  bitcoins:3.36
+  tumble coins:3.12
+  allowing:1.66
+  credit:1.66
+  find:1.66
+  directly:1.66
+  drugs:1.66
+  bank:1.66
+  fine:1.66
+
+Topic 2:
+  market:6.05
+  coins:2.47
+  coins market:2.45
+  fiat:2.45
+  washing:2.45
+  intent:2.45
+  sending:2.45
+  coins exchange:2.45
+  exchange coins:2.45
+  depositing:2.45
+
+Topic 3:
+  address:4.88
+  cold storage:4.55
+  wallet:4.09
+  computer:3.05
+  distantimporter february:2.28
+  wallet computer transaction send:2.28
+  pmin terms desktop wallet:2.28
+  bitcoin wallet receiving address:2.27
+  thanksif talking transferring coins:2.27
+  client addresses:1.67
+
+Topic 4:
+  cold storage:13.56
+  office wallet:12.44
+  bitcoin:12.30
+  computer:8.56
+  wallet:6.81
+  private keys:6.74
+  wallets:6.74
+  signed transaction:6.74
+  armory electrum:5.04
+  transactions:5.04
+
+K: 5, Log-Likelihood: -3850.326, Alpha: 11.000, Beta: 1.100

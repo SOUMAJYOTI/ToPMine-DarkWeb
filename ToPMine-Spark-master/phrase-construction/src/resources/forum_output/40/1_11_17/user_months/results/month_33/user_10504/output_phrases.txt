@@ -1,0 +1,61 @@
+Topic 0:
+  tails tor:1.80
+  security:1.62
+  reasonable:0.86
+  stealing:0.86
+  deniability:0.86
+  steps:0.86
+  great:0.86
+  damage:0.86
+  doubt:0.86
+  yesterday:0.86
+
+Topic 1:
+  tor:1.21
+  feds coming:0.69
+  corner:0.65
+  troll:0.50
+  vendor:0.46
+  alot:0.46
+  buying:0.46
+  hide:0.46
+  people:0.46
+  buyer:0.45
+
+Topic 2:
+  tor:0.75
+  feds coming:0.48
+  troll:0.47
+  tails tor:0.41
+  corner:0.40
+  andyone wrong guy:0.38
+  understanding tor tails:0.38
+  pretty damn safe vpns:0.38
+  buyer:0.37
+  vpon:0.37
+
+Topic 3:
+  tor:1.75
+  corner:1.13
+  feds coming:1.00
+  feds vpn:0.56
+  bulk:0.56
+  years:0.56
+  reading:0.56
+  thing:0.56
+  selling:0.56
+  shit:0.56
+
+Topic 4:
+  tails tor:0.71
+  troll:0.48
+  tor:0.45
+  lol:0.39
+  ll:0.39
+  local:0.38
+  bad:0.37
+  isnt:0.37
+  ppl:0.37
+  work:0.37
+
+K: 5, Log-Likelihood: -615.771, Alpha: 11.000, Beta: 1.100

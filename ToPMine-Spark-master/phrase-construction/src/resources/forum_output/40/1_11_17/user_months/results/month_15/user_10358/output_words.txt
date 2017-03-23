@@ -1,0 +1,61 @@
+Topic 0:
+  sr:12.16
+  escrow:12.12
+  vendors:7.18
+  july:5.68
+  market:5.10
+  quote:4.89
+  work:4.55
+  vendor:4.13
+  forward:3.76
+  striving:3.76
+
+Topic 1:
+  sr:12.48
+  market:11.89
+  finding:6.43
+  capable:5.61
+  dying:4.50
+  markets:4.27
+  forum:4.01
+  volume:3.96
+  june:3.40
+  user:3.37
+
+Topic 2:
+  sr:8.15
+  people:6.59
+  forum:4.60
+  market:3.80
+  ted:3.75
+  loyalty:3.74
+  members:3.52
+  yoshi:3.26
+  drug:2.84
+  time:2.46
+
+Topic 3:
+  forum:15.13
+  sr:7.73
+  agora:5.30
+  markets:4.54
+  market:3.33
+  check:2.57
+  service:2.53
+  hub:2.18
+  forums:1.96
+  customers:1.93
+
+Topic 4:
+  months:3.23
+  decision:2.93
+  genuine:2.93
+  ago:2.93
+  hub:2.76
+  common:2.68
+  hard:2.68
+  sense:2.68
+  forum:2.63
+  forums:2.59
+
+K: 5, Log-Likelihood: -5585.321, Alpha: 11.000, Beta: 1.100

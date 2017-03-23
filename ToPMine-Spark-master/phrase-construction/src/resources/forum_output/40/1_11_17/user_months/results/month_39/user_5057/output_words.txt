@@ -1,0 +1,61 @@
+Topic 0:
+  march:10.19
+  drugs:8.15
+  pmquote:7.27
+  armed:7.20
+  war:6.10
+  vacation:5.61
+  experiencing:5.51
+  withdraw:5.49
+  awhile:5.49
+  shelter:5.49
+
+Topic 1:
+  hub:7.11
+  zaphod:4.78
+  law:3.46
+  services:3.39
+  talking:3.24
+  dont:2.68
+  criminal:2.58
+  conspiracy:2.40
+  march:2.33
+  hidden:2.20
+
+Topic 2:
+  march:13.98
+  war:8.77
+  fuck:7.60
+  cop:6.46
+  pmquote:6.22
+  quote:5.59
+  kill:4.61
+  godofwar:4.45
+  families:3.67
+  idea:3.66
+
+Topic 3:
+  hub:6.60
+  hidden:5.70
+  services:5.48
+  criminal:5.35
+  law:3.99
+  zaphod:3.28
+  dont:3.26
+  market:3.18
+  talking:3.12
+  exploit:3.03
+
+Topic 4:
+  days:10.93
+  icss:8.93
+  anonymous:8.93
+  weeks:8.93
+  held:8.93
+  find:6.82
+  ago:6.35
+  conference:5.93
+  circuit:5.93
+  congress:5.93
+
+K: 5, Log-Likelihood: -5639.994, Alpha: 11.000, Beta: 1.100

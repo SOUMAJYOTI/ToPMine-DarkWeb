@@ -1,0 +1,61 @@
+Topic 0:
+  dash:1.24
+  quote:0.95
+  considered:0.84
+  zaphod:0.84
+  march:0.84
+  amnot:0.84
+  glad:0.84
+  nuttery:0.84
+  fiction:0.84
+  state:0.84
+
+Topic 1:
+  dash:0.67
+  dna:0.57
+  police:0.44
+  law enforcement:0.43
+  connect:0.33
+  servers:0.33
+  electrumdash:0.33
+  tor:0.33
+  happening:0.33
+  link:0.33
+
+Topic 2:
+  law enforcement:1.05
+  dna:0.95
+  obi:0.66
+  national security:0.60
+  article:0.58
+  united states:0.57
+  companies:0.57
+  ancestry:0.55
+  police:0.55
+  usry:0.52
+
+Topic 3:
+  law enforcement:3.56
+  dna:2.67
+  obi:2.08
+  united states:1.45
+  usry:1.43
+  ancestry:1.38
+  companies:1.36
+  article:1.33
+  national security:1.33
+  databases:0.90
+
+Topic 4:
+  dna:2.25
+  law enforcement:1.41
+  obi:1.21
+  companies:0.96
+  article:0.95
+  national security:0.95
+  ancestry:0.94
+  usry:0.94
+  united states:0.86
+  legal:0.63
+
+K: 5, Log-Likelihood: -2125.740, Alpha: 11.000, Beta: 1.100

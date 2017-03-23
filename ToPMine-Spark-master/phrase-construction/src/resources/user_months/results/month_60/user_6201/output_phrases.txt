@@ -1,0 +1,61 @@
+Topic 0:
+  import:0.16
+  app:0.16
+  download:0.08
+  ami:0.08
+  clue:0.08
+  bitin:0.08
+  quote:0.08
+  android:0.08
+  open:0.08
+  computer:0.08
+
+Topic 1:
+  import:0.16
+  app:0.16
+  sort:0.08
+  select:0.08
+  clue:0.08
+  download:0.08
+  november:0.08
+  apply:0.08
+  rules:0.08
+  android:0.08
+
+Topic 2:
+  app:0.16
+  import:0.16
+  bitin:0.08
+  apply:0.08
+  havent:0.08
+  lifeisinthemind:0.08
+  multibit:0.08
+  quote:0.08
+  open:0.08
+  sort:0.08
+
+Topic 3:
+  import:0.16
+  app:0.16
+  multibit:0.08
+  lifeisinthemind:0.08
+  november:0.08
+  bitin:0.08
+  clue:0.08
+  android:0.08
+  download:0.08
+  computer:0.08
+
+Topic 4:
+  app:0.16
+  import:0.16
+  ami:0.08
+  open:0.08
+  select:0.08
+  rules:0.08
+  apply:0.08
+  havent:0.08
+  quote:0.08
+  computer:0.08
+
+K: 5, Log-Likelihood: -28.827, Alpha: 11.000, Beta: 1.100

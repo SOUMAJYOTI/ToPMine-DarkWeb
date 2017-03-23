@@ -1,0 +1,61 @@
+Topic 0:
+  list:9.90
+  site:6.82
+  links:5.10
+  alpha:4.83
+  grams:3.45
+  keen:3.44
+  instants:3.40
+  flow:3.39
+  nice:3.36
+  net:3.35
+
+Topic 1:
+  market:11.73
+  love:5.25
+  avengers:3.63
+  abraxas:2.58
+  links:2.27
+  dream:1.45
+  peace:1.44
+  open:1.30
+  escrow:1.22
+  mind:1.00
+
+Topic 2:
+  abraxas:6.32
+  site:3.05
+  links:2.87
+  quote:1.53
+  link:1.52
+  address:1.51
+  asked:1.41
+  dead:1.41
+  wallet:1.41
+  dont:1.41
+
+Topic 3:
+  system:9.76
+  market:4.92
+  forum:4.14
+  dream:4.11
+  respond:3.81
+  registration:3.81
+  running:3.81
+  increase:3.81
+  faster:3.81
+  security:3.81
+
+Topic 4:
+  links:5.61
+  market:3.32
+  site:2.60
+  abraxas:1.97
+  quote:1.61
+  good:1.61
+  alpha:1.50
+  guess:1.42
+  odd:1.38
+  keen:1.35
+
+K: 5, Log-Likelihood: -3249.868, Alpha: 11.000, Beta: 1.100

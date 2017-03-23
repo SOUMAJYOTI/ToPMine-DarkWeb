@@ -1,0 +1,61 @@
+Topic 0:
+  open:6.71
+  source:6.71
+  software:4.70
+  supported:2.92
+  lesson:1.87
+  digs:1.48
+  king:1.48
+  political:1.48
+  view:1.48
+  john:1.48
+
+Topic 1:
+  secure:1.33
+  tails:1.04
+  truecrypt:0.90
+  windows:0.87
+  distribution:0.84
+  weird:0.71
+  linux:0.65
+  warning:0.58
+  encrypt:0.56
+  read:0.54
+
+Topic 2:
+  truecrypt:1.86
+  weird:1.19
+  secure:1.17
+  encryption:0.95
+  porn:0.94
+  critical:0.85
+  crypt:0.85
+  true:0.85
+  bugs:0.84
+  audit:0.84
+
+Topic 3:
+  win:2.61
+  comment:2.59
+  tails:2.31
+  read:1.99
+  dont:1.67
+  pip:1.66
+  thread:1.66
+  people:1.65
+  post:1.65
+  long:1.02
+
+Topic 4:
+  truecrypt:2.65
+  secure:1.39
+  weird:0.78
+  program:0.62
+  alternatives:0.59
+  normal:0.58
+  windows:0.55
+  warning:0.55
+  quote:0.54
+  encrypt:0.53
+
+K: 5, Log-Likelihood: -1404.626, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  call:6.22
+  physically:6.10
+  mixed bitcoin:6.10
+  voip:6.10
+  tor:6.01
+  vpn:5.65
+  adroit:4.24
+  cellar:3.83
+  zrtp:3.72
+  memory sifted baseband backdoor:3.02
+
+Topic 1:
+  satellite phones:9.17
+  antenna:3.01
+  worth:3.01
+  trouble:3.01
+  satellite phone:3.01
+  correct:3.01
+  disabled:3.01
+  bother:3.01
+  highly:3.01
+  opinions:3.01
+
+Topic 2:
+  source:5.81
+  signal:4.67
+  documentation:4.51
+  mix:3.86
+  code:3.86
+  signals:3.86
+  assume:3.86
+  thwart:3.86
+  elaborate:2.92
+  doubt:2.92
+
+Topic 3:
+  quote el presidente january:4.52
+  tor:4.05
+  hidden service:3.59
+  onion sip:3.59
+  send:2.17
+  receive rtp:2.16
+  works:2.16
+  udp:2.16
+  route:2.15
+  call:2.09
+
+Topic 4:
+  imei:7.75
+  flag:5.80
+  cycle:3.86
+  imsi:3.86
+  red:3.86
+  swapping:2.15
+  swap:1.91
+  power:1.91
+  big:1.91
+  sins:1.91
+
+K: 5, Log-Likelihood: -5103.983, Alpha: 11.000, Beta: 1.100

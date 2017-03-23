@@ -1,0 +1,61 @@
+Topic 0:
+  lowest:2.95
+  vendors:2.86
+  losers:2.80
+  scamming:1.54
+  march:1.30
+  report:1.11
+  agora:1.10
+  lock:1.08
+  quote:1.08
+  robin:1.06
+
+Topic 1:
+  march:5.54
+  tesla:3.60
+  distress:2.85
+  pmscammers:2.84
+  pouring:2.83
+  dn:2.82
+  therapy:2.82
+  traumatized:2.80
+  stealing:2.79
+  causing:2.79
+
+Topic 2:
+  site:7.84
+  post:3.92
+  money:3.76
+  years:2.86
+  people:2.86
+  guy:2.83
+  months:2.52
+  check:1.95
+  btw:1.95
+  btc:1.95
+
+Topic 3:
+  april:7.21
+  hub:6.69
+  scam:6.10
+  sweet:6.06
+  amquote:5.82
+  evo:5.66
+  time:4.11
+  carders:3.68
+  forums:3.68
+  scammers:3.61
+
+Topic 4:
+  march:2.44
+  tesla:1.99
+  love:1.90
+  losers:1.87
+  dont:1.87
+  career:1.68
+  justice:1.67
+  folks:1.66
+  idea:1.66
+  sort:1.62
+
+K: 5, Log-Likelihood: -3296.483, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  topic:0.28
+  media:0.14
+  prize:0.14
+  rumours:0.14
+  agency:0.14
+  secure:0.14
+  bring:0.14
+  drugs:0.14
+  logically:0.14
+  evolution:0.14
+
+Topic 1:
+  topic:0.28
+  listen:0.14
+  fud:0.14
+  sold:0.14
+  agency:0.14
+  le:0.14
+  cash:0.14
+  logic:0.14
+  evidence:0.14
+  honeypot:0.14
+
+Topic 2:
+  topic:0.28
+  sold:0.14
+  honeypot:0.14
+  dont:0.14
+  evolution:0.14
+  logic:0.14
+  long:0.14
+  imagine:0.14
+  allowed:0.14
+  fud:0.14
+
+Topic 3:
+  topic:0.28
+  millions:0.14
+  prize:0.14
+  media:0.14
+  honestly:0.14
+  understand:0.14
+  cash:0.14
+  random:0.14
+  fell:0.14
+  imagine:0.14
+
+Topic 4:
+  topic:0.28
+  pain:0.14
+  shut:0.14
+  months:0.14
+  personal:0.14
+  lost:0.14
+  encryption:0.14
+  plunge:0.14
+  time:0.14
+  money:0.14
+
+K: 5, Log-Likelihood: -131.256, Alpha: 11.000, Beta: 1.100

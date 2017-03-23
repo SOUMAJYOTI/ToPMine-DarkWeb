@@ -1,0 +1,61 @@
+Topic 0:
+  compatible:10.10
+  design:7.77
+  driver:6.43
+  wife:6.35
+  tails:4.66
+  based:3.01
+  buy:2.99
+  computers:2.99
+  devices:2.98
+  heard:2.98
+
+Topic 1:
+  wifi:5.53
+  password:4.08
+  enter:3.86
+  tails:2.93
+  start:2.26
+  tor:2.16
+  connect:1.61
+  time:1.56
+  correctly:1.52
+  passwords:1.21
+
+Topic 2:
+  tor:3.16
+  dont:2.67
+  don:2.58
+  work:2.57
+  download:2.46
+  yousnow:2.42
+  tails:1.88
+  connected:1.78
+  wallet:1.55
+  unspoofing:1.54
+
+Topic 3:
+  tor:3.75
+  wifi:3.35
+  tails:3.22
+  enter:1.90
+  connect:1.72
+  password:1.68
+  download:1.13
+  start:1.10
+  time:1.06
+  wallet:1.00
+
+Topic 4:
+  tails:4.30
+  computer:2.60
+  macbook:2.19
+  connected:2.19
+  design:1.74
+  suggested:1.55
+  lucidmotif:1.52
+  compatible:1.45
+  wife:1.23
+  driver:1.14
+
+K: 5, Log-Likelihood: -2049.000, Alpha: 11.000, Beta: 1.100

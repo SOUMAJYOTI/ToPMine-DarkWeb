@@ -1,0 +1,61 @@
+Topic 0:
+  things:5.14
+  happened:4.85
+  sr:4.79
+  features:4.48
+  background:4.05
+  lot:3.80
+  weve:3.65
+  con:3.42
+  deposit:2.23
+  fixes:2.23
+
+Topic 1:
+  place:3.36
+  insults:2.61
+  uncalled:2.61
+  community:2.61
+  directed:2.61
+  incendiary:2.60
+  atop:2.21
+  beneath:2.21
+  drama:2.21
+  good journalist:2.21
+
+Topic 2:
+  time:7.05
+  start:6.73
+  watched:6.73
+  oracle:6.73
+  defcon:5.68
+  times:5.64
+  february:4.71
+  noobs:4.48
+  folks:4.48
+  account:4.48
+
+Topic 3:
+  stealth:4.62
+  hit:4.47
+  amazing:4.47
+  move:3.25
+  transaction malleability:3.02
+  silk road:2.88
+  takes:2.22
+  attitude:2.22
+  react:2.22
+  insulted:2.22
+
+Topic 4:
+  february:7.62
+  transaction malleability:4.70
+  bitcoin:4.46
+  protocol:4.46
+  fall:4.45
+  pmthe:4.38
+  options:3.61
+  analysing:3.61
+  decentralised:3.61
+  played:3.50
+
+K: 5, Log-Likelihood: -11436.799, Alpha: 11.000, Beta: 1.100

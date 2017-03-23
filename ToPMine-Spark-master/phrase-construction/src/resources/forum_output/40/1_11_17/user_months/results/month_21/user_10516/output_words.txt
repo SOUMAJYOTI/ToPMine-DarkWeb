@@ -1,0 +1,61 @@
+Topic 0:
+  browser:8.58
+  tor:4.02
+  proxy:2.95
+  javascript:2.95
+  agent:2.79
+  user:2.79
+  http:2.79
+  work:2.60
+  fingerprint:1.95
+  squid:1.95
+
+Topic 1:
+  inside:6.68
+  wpa:5.79
+  years:5.11
+  layers:3.90
+  brute:2.67
+  passwords:2.66
+  random:2.66
+  shit:2.61
+  thought:2.48
+  security:2.45
+
+Topic 2:
+  days:7.53
+  good:6.46
+  bad:3.26
+  devices:3.20
+  dens:2.90
+  owned:2.68
+  dont:2.58
+  signal:2.31
+  internet:1.94
+  install:1.91
+
+Topic 3:
+  bitcoin:1.79
+  block:1.52
+  software:1.43
+  cookies:1.33
+  canvas:1.33
+  scripts:1.33
+  disabled:1.32
+  ways:1.29
+  dont:1.17
+  transactions:0.81
+
+Topic 4:
+  whonix:6.82
+  laptops:4.49
+  laptop:2.80
+  tor:2.75
+  tails:2.43
+  works:2.05
+  ram:1.83
+  animal:1.83
+  older:1.83
+  router:1.80
+
+K: 5, Log-Likelihood: -2793.977, Alpha: 11.000, Beta: 1.100

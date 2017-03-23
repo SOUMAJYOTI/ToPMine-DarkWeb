@@ -1,0 +1,61 @@
+Topic 0:
+  sain:0.43
+  joten:0.43
+  onko:0.42
+  ja kaikki:0.42
+  silkkitien:0.38
+  iri:0.33
+  viesti:0.32
+  pit:0.32
+  osoitteeseen:0.32
+  ja:0.22
+
+Topic 1:
+  joten:0.40
+  onko:0.40
+  ja kaikki:0.40
+  sain:0.40
+  iri:0.38
+  silkkitien:0.35
+  pit:0.30
+  viesti:0.30
+  osoitteeseen:0.30
+  ja:0.22
+
+Topic 2:
+  ja kaikki:0.44
+  onko:0.44
+  sain:0.43
+  joten:0.43
+  silkkitien:0.40
+  osoitteeseen:0.32
+  pit:0.32
+  viesti:0.32
+  iri:0.30
+  ja:0.22
+
+Topic 3:
+  iri:0.46
+  ja kaikki:0.38
+  joten:0.38
+  onko:0.38
+  sain:0.38
+  silkkitien:0.33
+  osoitteeseen:0.28
+  pit:0.28
+  viesti:0.28
+  kurssi:0.23
+
+Topic 4:
+  onko:0.41
+  ja kaikki:0.41
+  sain:0.41
+  joten:0.40
+  iri:0.37
+  silkkitien:0.37
+  viesti:0.31
+  osoitteeseen:0.31
+  pit:0.31
+  ja:0.22
+
+K: 5, Log-Likelihood: -675.464, Alpha: 11.000, Beta: 1.100

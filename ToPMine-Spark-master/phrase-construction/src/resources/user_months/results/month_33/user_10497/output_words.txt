@@ -1,0 +1,61 @@
+Topic 0:
+  encryption:32.57
+  nsa:32.53
+  asa:31.80
+  internet:21.63
+  program:21.04
+  data:20.66
+  document:18.01
+  connections:13.79
+  vpn:12.83
+  intelligence:12.78
+
+Topic 1:
+  learn:9.84
+  february:9.08
+  zaphod:7.80
+  quote:7.04
+  people:6.56
+  ross:5.79
+  software:4.28
+  pgp:4.16
+  works:3.90
+  user:3.27
+
+Topic 2:
+  pgp:15.97
+  email:12.45
+  password:11.41
+  text:6.17
+  username:5.96
+  security:5.63
+  client:4.48
+  reply:3.95
+  good:3.73
+  fucked:3.22
+
+Topic 3:
+  encryption:14.80
+  systems:6.92
+  data:4.76
+  presentation:3.18
+  attack:2.89
+  secret:2.89
+  number:2.82
+  asa:2.55
+  pgp:2.46
+  ssl:2.37
+
+Topic 4:
+  attacks:6.26
+  keys:4.14
+  isnt:3.37
+  tor:3.28
+  encryption:3.16
+  broken:3.14
+  ssh:3.13
+  hidden:2.67
+  ssl:2.47
+  open:2.23
+
+K: 5, Log-Likelihood: -16590.041, Alpha: 11.000, Beta: 1.100

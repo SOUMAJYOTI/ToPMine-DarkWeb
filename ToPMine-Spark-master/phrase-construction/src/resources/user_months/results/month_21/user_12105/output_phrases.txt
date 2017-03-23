@@ -1,0 +1,61 @@
+Topic 0:
+  fraud:0.28
+  card:0.28
+  funding:0.28
+  credit:0.28
+  doublin:0.14
+  scams:0.14
+  exploit:0.14
+  year:0.14
+  ago:0.14
+  swam:0.14
+
+Topic 1:
+  credit:0.28
+  card:0.28
+  funding:0.28
+  fraud:0.28
+  hic:0.14
+  scheme:0.14
+  people:0.14
+  fail fail:0.14
+  books:0.14
+  bad:0.14
+
+Topic 2:
+  funding:0.28
+  card:0.28
+  fraud:0.28
+  credit:0.28
+  replys:0.14
+  scams:0.14
+  ago:0.14
+  swam:0.14
+  doublin:0.14
+  year:0.14
+
+Topic 3:
+  credit:0.28
+  fraud:0.28
+  funding:0.28
+  card:0.28
+  replys:0.14
+  year:0.14
+  doublin:0.14
+  ago:0.14
+  swam:0.14
+  exploit:0.14
+
+Topic 4:
+  credit:0.28
+  card:0.28
+  funding:0.28
+  fraud:0.28
+  work:0.14
+  reasons:0.14
+  fact:0.14
+  bit:0.14
+  schemes:0.14
+  sending:0.14
+
+K: 5, Log-Likelihood: -125.077, Alpha: 11.000, Beta: 1.100

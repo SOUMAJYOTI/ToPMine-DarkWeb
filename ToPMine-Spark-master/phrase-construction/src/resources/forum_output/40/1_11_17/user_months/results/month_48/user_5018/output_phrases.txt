@@ -1,0 +1,61 @@
+Topic 0:
+  type:0.44
+  financial:0.44
+  backing:0.44
+  tuned:0.44
+  dos:0.44
+  majestic:0.44
+  admin:0.44
+  decided:0.44
+  sake:0.44
+  crazy:0.44
+
+Topic 1:
+  hope:0.34
+  banter:0.34
+  love:0.34
+  great:0.34
+  question:0.34
+  reddit:0.34
+  time:0.34
+  dnm forums:0.34
+  days:0.34
+  feel:0.34
+
+Topic 2:
+  btc:2.81
+  hacker:2.80
+  paying:1.73
+  people:1.73
+  things:1.73
+  anonymous:1.73
+  loyalty:1.73
+  reason:1.73
+  vendors:0.71
+  pay:0.71
+
+Topic 3:
+  sour:0.35
+  feel:0.35
+  days:0.35
+  great:0.35
+  hope:0.35
+  reddit:0.35
+  question:0.35
+  hypothetically:0.35
+  love:0.35
+  banter:0.35
+
+Topic 4:
+  time:0.35
+  hypothetically:0.35
+  enjoying:0.35
+  banter:0.35
+  dnm forums:0.35
+  love:0.35
+  question:0.35
+  feel:0.35
+  reddit:0.35
+  days:0.35
+
+K: 5, Log-Likelihood: -546.430, Alpha: 11.000, Beta: 1.100

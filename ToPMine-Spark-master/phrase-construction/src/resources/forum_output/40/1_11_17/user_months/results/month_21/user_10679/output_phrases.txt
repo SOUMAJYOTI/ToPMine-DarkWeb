@@ -1,0 +1,61 @@
+Topic 0:
+  helix:13.84
+  eve:11.74
+  august:7.81
+  evo:7.02
+  boogie:5.96
+  great:5.79
+  deposit:5.52
+  cryptogramssupport:5.52
+  light:5.52
+  shared:5.52
+
+Topic 1:
+  evolution:9.61
+  folder:5.50
+  star:5.50
+  starred:5.50
+  message:5.50
+  design:5.48
+  tub:5.48
+  long:5.14
+  time:4.69
+  magic:4.68
+
+Topic 2:
+  notice:8.30
+  theme:8.30
+  areas:5.53
+  smile:5.53
+  questions:4.32
+  join:4.18
+  evos:4.15
+  forum:3.98
+  check:3.94
+  friend:3.23
+
+Topic 3:
+  market:14.45
+  post:9.14
+  top:6.20
+  sounds great:6.11
+  people troll tags participate:6.11
+  asked:5.52
+  biggest:5.52
+  security:5.52
+  secured:5.52
+  markets:5.32
+
+Topic 4:
+  prediction:14.07
+  contest:9.83
+  sept final:8.30
+  predictions:8.30
+  bitcoin:5.53
+  allowed:5.53
+  rules:5.53
+  chosen:5.53
+  determined:5.53
+  decide:5.53
+
+K: 5, Log-Likelihood: -11870.965, Alpha: 11.000, Beta: 1.100

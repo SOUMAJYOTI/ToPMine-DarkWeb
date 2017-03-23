@@ -1,0 +1,61 @@
+Topic 0:
+  gif:4.12
+  images:4.03
+  code:2.71
+  gifs:2.54
+  java:2.25
+  impact:2.24
+  complete:2.21
+  system:2.21
+  level:1.36
+  runtime:1.36
+
+Topic 1:
+  gifs:6.77
+  images:6.36
+  forums:5.01
+  explain:1.97
+  comment:1.96
+  dnm:1.96
+  poster:1.94
+  view:1.90
+  security:1.78
+  post:1.62
+
+Topic 2:
+  forum:1.48
+  risk:1.11
+  images:0.99
+  browser:0.92
+  gifs:0.87
+  site:0.80
+  malicious:0.79
+  warning:0.79
+  clearnet:0.79
+  post:0.77
+
+Topic 3:
+  file:3.34
+  png:2.92
+  malware:2.77
+  metadata:1.92
+  javascript:1.92
+  image:0.93
+  frame:0.93
+  researcher:0.93
+  iframe:0.93
+  obfuscated:0.93
+
+Topic 4:
+  gifs:1.76
+  forum:1.63
+  images:1.56
+  forums:1.11
+  post:1.10
+  risk:1.03
+  browser:1.01
+  warning:0.98
+  clearnet:0.96
+  security:0.81
+
+K: 5, Log-Likelihood: -1767.488, Alpha: 11.000, Beta: 1.100

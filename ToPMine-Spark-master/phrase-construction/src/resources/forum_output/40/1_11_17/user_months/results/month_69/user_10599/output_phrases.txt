@@ -1,0 +1,61 @@
+Topic 0:
+  bank account:2.44
+  routed:1.55
+  tor:1.54
+  repaid:1.50
+  vendor:1.11
+  asked:0.91
+  deposit:0.90
+  money account:0.90
+  traced:0.90
+  legitimate:0.90
+
+Topic 1:
+  december:1.40
+  prepaid cards:1.35
+  high opsec max cashout:1.34
+  posted drop hacked internet:1.34
+  answer gold dust lines:1.33
+  online bank naming accounts:1.32
+  cards daily:1.30
+  money:1.25
+  fatherted:1.19
+  gold dust:1.17
+
+Topic 2:
+  money:3.37
+  sell:2.91
+  ebay:2.87
+  free:2.86
+  method:2.72
+  december:2.11
+  happened:1.32
+  mindfulshaman:1.32
+  signing:1.32
+  paid:1.32
+
+Topic 3:
+  cash:2.05
+  securely:1.94
+  purchased:1.53
+  imagine:1.53
+  balance:1.53
+  correct:1.53
+  basically:1.53
+  transfer:1.53
+  funds:1.53
+  acct:1.53
+
+Topic 4:
+  vendor:0.96
+  bank account:0.91
+  cards:0.85
+  sites:0.71
+  services:0.71
+  suggestions:0.71
+  escrow:0.71
+  repaid:0.69
+  cash card:0.67
+  easier:0.67
+
+K: 5, Log-Likelihood: -1044.122, Alpha: 11.000, Beta: 1.100

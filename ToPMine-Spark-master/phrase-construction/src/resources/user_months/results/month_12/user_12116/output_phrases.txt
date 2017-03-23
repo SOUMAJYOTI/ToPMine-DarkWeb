@@ -1,0 +1,61 @@
+Topic 0:
+  anonymous:0.63
+  news:0.63
+  account:0.61
+  darkcoin:0.59
+  coin:0.38
+  deposit:0.30
+  booming:0.30
+  silk:0.30
+  bitcoins:0.30
+  coins:0.30
+
+Topic 1:
+  darkcoin:0.57
+  account:0.50
+  anonymous:0.50
+  news:0.49
+  coin:0.40
+  build:0.30
+  hype:0.30
+  laundering:0.30
+  drk:0.30
+  yesterday:0.30
+
+Topic 2:
+  darkcoin:0.59
+  account:0.56
+  anonymous:0.56
+  news:0.55
+  coin:0.39
+  month:0.28
+  fold:0.28
+  send:0.28
+  buy:0.28
+  coins:0.28
+
+Topic 3:
+  darkcoin:0.62
+  account:0.57
+  anonymous:0.57
+  news:0.55
+  coin:0.39
+  produced:0.28
+  bitcoin:0.28
+  purchase:0.28
+  sell:0.28
+  overthroned:0.28
+
+Topic 4:
+  darkcoin:0.58
+  news:0.55
+  account:0.53
+  anonymous:0.51
+  coin:0.39
+  bought:0.29
+  yesterday:0.29
+  hype:0.29
+  drk:0.29
+  laundering:0.29
+
+K: 5, Log-Likelihood: -239.539, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  inches:5.78
+  individual:1.66
+  ruler:1.41
+  sheet:1.34
+  measure:1.27
+  pencil:1.26
+  entire:1.25
+  hit:1.25
+  blue:0.93
+  dream:0.90
+
+Topic 1:
+  pencil:1.95
+  individual:1.71
+  inches:1.22
+  perforated:1.15
+  ruler:1.12
+  sheet:1.08
+  lines:0.92
+  blotter:0.90
+  people:0.90
+  dream:0.85
+
+Topic 2:
+  pencil:1.98
+  individual:1.64
+  perforated:1.41
+  lines:1.13
+  ruler:1.06
+  inches:1.02
+  sheet:1.01
+  paper:0.89
+  blotter:0.88
+  people:0.86
+
+Topic 3:
+  perforated:1.83
+  inches:1.45
+  pencil:1.41
+  individual:1.35
+  sheet:1.14
+  ruler:1.12
+  blotter:1.02
+  people:0.96
+  blue:0.82
+  lines:0.82
+
+Topic 4:
+  inches:2.54
+  individual:1.65
+  sheet:1.43
+  pencil:1.41
+  ruler:1.28
+  perforated:1.06
+  entire:0.95
+  measure:0.93
+  hit:0.91
+  dream:0.86
+
+K: 5, Log-Likelihood: -722.277, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  silkkitie:6.49
+  market:1.94
+  forbidden:1.87
+  sr:1.87
+  details:1.47
+  address:1.41
+  work:1.40
+  connection:1.37
+  hub:1.29
+  services:1.29
+
+Topic 1:
+  btc:4.96
+  wallet:3.50
+  empty:2.82
+  deposit:2.43
+  adress:1.82
+  checked:1.82
+  number:1.57
+  hour:1.57
+  support:1.47
+  exit:1.47
+
+Topic 2:
+  backup:1.53
+  posts:1.53
+  finland:1.25
+  deposits:1.22
+  high:1.21
+  dont:1.13
+  december:0.92
+  german:0.90
+  prices:0.89
+  quality:0.89
+
+Topic 3:
+  dont:2.52
+  finland:1.73
+  high:1.47
+  deposits:1.42
+  december:1.28
+  deposit:1.22
+  language:1.17
+  prices:1.17
+  quality:1.15
+  german:1.14
+
+Topic 4:
+  dont:4.32
+  send:2.89
+  read:2.89
+  btc:2.24
+  kapteeni:1.96
+  log:1.89
+  private:1.89
+  witch:1.89
+  benjomarket:1.89
+  chat:1.89
+
+K: 5, Log-Likelihood: -1687.643, Alpha: 11.000, Beta: 1.100

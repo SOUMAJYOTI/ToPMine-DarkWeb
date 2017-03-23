@@ -1,0 +1,61 @@
+Topic 0:
+  good:5.02
+  nuff:4.08
+  people:3.28
+  glad:2.61
+  nice:2.61
+  quote:2.52
+  remember:2.46
+  stuff:2.46
+  fuck:2.46
+  worst:2.46
+
+Topic 1:
+  bits:12.38
+  bridges:7.10
+  zaphod:6.08
+  quote flashy january:5.30
+  solution:4.94
+  ten diceware:4.94
+  quantum:4.94
+  explain:4.94
+  half:4.94
+  searching:4.94
+
+Topic 2:
+  law enforcement:14.89
+  dna:12.41
+  obi:9.92
+  national security:7.44
+  united states:7.44
+  usry:7.44
+  article:7.44
+  police:6.26
+  cases:4.95
+  issue:4.95
+
+Topic 3:
+  roll dice:12.45
+  diceware list:12.45
+  dice:8.29
+  computer:7.42
+  security:5.71
+  passphrases:4.94
+  creating:4.94
+  set:4.63
+  hobby:4.13
+  high:4.13
+
+Topic 4:
+  hour:9.88
+  tor:8.78
+  dash:8.13
+  time bridges:6.06
+  servers:6.06
+  random bridges:4.91
+  filled:4.91
+  tails:4.91
+  electrum:4.91
+  tcp:4.84
+
+K: 5, Log-Likelihood: -10310.838, Alpha: 11.000, Beta: 1.100

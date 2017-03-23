@@ -1,0 +1,61 @@
+Topic 0:
+  markets:2.84
+  market:2.49
+  major:1.40
+  unfortunate:1.34
+  time:0.79
+  hope:0.74
+  experienced:0.62
+  planned:0.62
+  combined:0.61
+  mitigate:0.61
+
+Topic 1:
+  markets:2.80
+  market:2.35
+  unfortunate:1.13
+  major:1.04
+  hope:0.78
+  time:0.76
+  november:0.54
+  months:0.54
+  coincidental:0.54
+  members:0.54
+
+Topic 2:
+  markets:2.37
+  market:1.83
+  major:0.95
+  unfortunate:0.94
+  hope:0.72
+  time:0.72
+  issues:0.48
+  anxiety:0.48
+  day:0.48
+  assuaged:0.47
+
+Topic 3:
+  market:1.47
+  markets:1.27
+  roughly:0.75
+  timing:0.74
+  hours:0.74
+  damn:0.74
+  fuck:0.74
+  wtf:0.74
+  methylamine:0.74
+  holy:0.74
+
+Topic 4:
+  assumption:1.16
+  satisfied:1.16
+  op:1.16
+  lsd:1.16
+  site:1.16
+  speculated:1.16
+  big:1.16
+  rebranded:1.16
+  registering:1.16
+  exit:1.16
+
+K: 5, Log-Likelihood: -857.805, Alpha: 11.000, Beta: 1.100

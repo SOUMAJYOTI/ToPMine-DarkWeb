@@ -1,0 +1,61 @@
+Topic 0:
+  web:14.76
+  sites:13.99
+  address:11.68
+  memex:9.98
+  content:9.41
+  hidden:8.29
+  white:7.99
+  search:7.99
+  data:7.99
+  services:7.26
+
+Topic 1:
+  tor:25.37
+  dont:21.52
+  anonymity:12.58
+  real:12.26
+  leo:11.98
+  internet:10.35
+  school:8.97
+  steve:8.94
+  anonymous:8.34
+  traffic:7.14
+
+Topic 2:
+  security:26.20
+  clandestine:15.27
+  operation:11.56
+  good:9.71
+  grugq:9.23
+  activity:8.48
+  internet:7.45
+  high:7.40
+  time:7.37
+  opsec:7.22
+
+Topic 3:
+  tor:44.57
+  service:16.21
+  onion:15.72
+  ch:13.94
+  bitmessage:13.94
+  anonymity:12.40
+  address:11.49
+  network:10.50
+  people:10.09
+  attacks:9.04
+
+Topic 4:
+  security:32.47
+  hackers:26.76
+  organisation:18.81
+  covert:17.68
+  hacker:14.24
+  community:14.19
+  operation:12.41
+  opsec:11.50
+  good:11.25
+  drug:10.13
+
+K: 5, Log-Likelihood: -33414.550, Alpha: 11.000, Beta: 1.100

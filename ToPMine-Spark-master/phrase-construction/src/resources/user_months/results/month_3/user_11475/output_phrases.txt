@@ -1,0 +1,61 @@
+Topic 0:
+  dude:0.08
+  sample:0.08
+  yesterday:0.08
+  pop:0.08
+  fire:0.08
+  jump:0.08
+  wanted:0.08
+  blacked:0.08
+  recieved:0.08
+  vouche:0.08
+
+Topic 1:
+  markets:0.08
+  potent:0.08
+  market:0.08
+  profile:0.08
+  tar:0.08
+  black:0.08
+  thread:0.08
+  delicious:0.08
+  coming:0.08
+  agra:0.08
+
+Topic 2:
+  reviews:0.08
+  vendor:0.08
+  cheap:0.08
+  delicious:0.08
+  start:0.08
+  tar:0.08
+  thread:0.08
+  black:0.08
+  markets:0.08
+  supplying:0.08
+
+Topic 3:
+  shits:0.08
+  sample:0.08
+  generous:0.08
+  fire:0.08
+  jump:0.08
+  recieved:0.08
+  vouche:0.08
+  wanted:0.08
+  pop:0.08
+  dude:0.08
+
+Topic 4:
+  agra:0.08
+  cheap:0.08
+  supplying:0.08
+  profile:0.08
+  coming:0.08
+  black:0.08
+  start:0.08
+  market:0.08
+  delicious:0.08
+  thread:0.08
+
+K: 5, Log-Likelihood: -36.081, Alpha: 11.000, Beta: 1.100

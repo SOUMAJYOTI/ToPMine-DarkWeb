@@ -1,0 +1,61 @@
+Topic 0:
+  chemcat:7.83
+  road:5.80
+  dont:5.36
+  mark:5.08
+  quote:4.96
+  february:4.64
+  fine:4.57
+  amsr:4.10
+  cyber:4.09
+  silk:3.83
+
+Topic 1:
+  scam:7.60
+  sr:5.89
+  february:5.18
+  quote:4.47
+  prove:3.90
+  pass:3.73
+  swam:3.73
+  forum:3.23
+  market:3.06
+  marketplace:2.90
+
+Topic 2:
+  bitcoin:9.92
+  news:7.42
+  bad:6.54
+  mtgox:5.03
+  february:4.76
+  stuck:4.17
+  quote:3.53
+  people:3.44
+  media:3.30
+  hate:3.13
+
+Topic 3:
+  currency:8.84
+  true:5.85
+  bitcoin:5.15
+  acceptance:4.87
+  black:4.73
+  market:4.55
+  markets:4.50
+  february:4.34
+  government:3.90
+  undermine:3.86
+
+Topic 4:
+  vendors:6.27
+  hackers:5.90
+  bro:5.76
+  site:5.63
+  february:5.08
+  bit:4.83
+  character:4.33
+  turtletime:3.83
+  posted:3.79
+  quote:3.70
+
+K: 5, Log-Likelihood: -5428.726, Alpha: 11.000, Beta: 1.100

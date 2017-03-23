@@ -1,0 +1,61 @@
+Topic 0:
+  otr:3.08
+  chat:1.61
+  pidgin:1.22
+  years:1.09
+  ip:1.06
+  emails:1.02
+  police:1.00
+  chats:0.95
+  office:0.95
+  jabber:0.94
+
+Topic 1:
+  pidgin:3.37
+  chat:2.12
+  source:2.04
+  jabber:2.01
+  client:1.55
+  xmpp:1.55
+  logged:0.64
+  term:0.63
+  question:0.63
+  answer:0.63
+
+Topic 2:
+  otr:2.62
+  chat:1.40
+  ip:1.30
+  years:1.21
+  jabber:1.09
+  police:1.05
+  office:1.05
+  chats:1.04
+  emails:1.01
+  pidgin:1.01
+
+Topic 3:
+  otr:1.93
+  jabber:1.61
+  chat:1.43
+  pidgin:1.34
+  ip:1.12
+  years:1.06
+  office:0.81
+  police:0.81
+  emails:0.80
+  chats:0.79
+
+Topic 4:
+  otr:1.83
+  chat:1.44
+  jabber:1.34
+  years:1.29
+  ip:1.16
+  pidgin:1.06
+  chats:0.96
+  office:0.93
+  emails:0.92
+  police:0.88
+
+K: 5, Log-Likelihood: -687.972, Alpha: 11.000, Beta: 1.100

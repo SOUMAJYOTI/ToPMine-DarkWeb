@@ -1,0 +1,61 @@
+Topic 0:
+  method:0.85
+  pay:0.58
+  clean money:0.57
+  pay tax:0.56
+  network security:0.48
+  money:0.47
+  hacking:0.40
+  people:0.40
+  casino:0.40
+  offshore:0.40
+
+Topic 1:
+  clean money:1.42
+  network security:1.14
+  buy:0.89
+  people:0.85
+  mix:0.84
+  business:0.83
+  paying:0.82
+  purchase:0.81
+  accounts:0.80
+  ways:0.80
+
+Topic 2:
+  dont:3.00
+  tax:1.52
+  bother:1.36
+  rock:1.36
+  laundering:1.36
+  thumb:1.36
+  boat:1.36
+  stick:1.36
+  gov:1.36
+  maximum:1.36
+
+Topic 3:
+  gains:1.32
+  legal:1.03
+  lost:1.03
+  loss:1.03
+  write:1.03
+  capital:1.03
+  donated:1.03
+  donate:1.03
+  pretty:1.03
+  charity:1.03
+
+Topic 4:
+  clean money:2.94
+  network security:2.06
+  piece:1.29
+  trade:1.29
+  launder:1.28
+  property:1.28
+  coins:1.26
+  implicit:1.26
+  chips:1.26
+  casino:1.26
+
+K: 5, Log-Likelihood: -1249.943, Alpha: 11.000, Beta: 1.100

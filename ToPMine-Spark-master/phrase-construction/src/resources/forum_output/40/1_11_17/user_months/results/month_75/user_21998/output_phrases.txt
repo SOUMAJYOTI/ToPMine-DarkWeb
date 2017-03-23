@@ -1,0 +1,61 @@
+Topic 0:
+  tails developers:0.78
+  key:0.52
+  expires key fingerprint:0.41
+  db:0.28
+  aa:0.28
+  perfectly:0.28
+  long:0.28
+  file:0.28
+  identity:0.28
+  evoked:0.28
+
+Topic 1:
+  tails developers:0.95
+  key:0.52
+  expires key fingerprint:0.42
+  signature:0.28
+  ac:0.28
+  key gpg:0.28
+  ba:0.28
+  evoked:0.28
+  perfectly:0.28
+  db:0.28
+
+Topic 2:
+  tails developers:0.85
+  key:0.52
+  expires key fingerprint:0.42
+  aa:0.28
+  file:0.28
+  verify iso:0.28
+  ac:0.28
+  perfectly:0.28
+  term:0.28
+  ba:0.28
+
+Topic 3:
+  tails developers:0.82
+  key:0.52
+  expires key fingerprint:0.42
+  term:0.28
+  verify:0.28
+  offline:0.28
+  db:0.28
+  key gpg:0.28
+  works:0.28
+  ba:0.28
+
+Topic 4:
+  tails developers:0.76
+  key:0.52
+  expires key fingerprint:0.41
+  identity:0.28
+  verify:0.28
+  long:0.28
+  evoked:0.28
+  ac:0.28
+  file:0.28
+  perfectly:0.28
+
+K: 5, Log-Likelihood: -321.951, Alpha: 11.000, Beta: 1.100

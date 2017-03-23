@@ -1,0 +1,61 @@
+Topic 0:
+  si:1.67
+  march:1.21
+  unfortunate:0.84
+  love:0.83
+  event:0.82
+  invite:0.81
+  access:0.81
+  email:0.80
+  honored:0.80
+  garden:0.80
+
+Topic 1:
+  si:1.81
+  march:1.09
+  account:0.84
+  friends:0.83
+  invite:0.83
+  password:0.81
+  love:0.80
+  event:0.80
+  unfortunate:0.79
+  honored:0.79
+
+Topic 2:
+  si:1.37
+  march:1.30
+  lysergicvillain:0.83
+  email:0.82
+  honored:0.82
+  unfortunate:0.81
+  garden:0.81
+  supremely:0.80
+  access:0.80
+  password:0.79
+
+Topic 3:
+  si:1.67
+  march:1.19
+  account:0.84
+  forgetting:0.83
+  love:0.82
+  supremely:0.82
+  password:0.82
+  access:0.82
+  garden:0.81
+  friends:0.80
+
+Topic 4:
+  si:1.48
+  march:1.22
+  lysergicvillain:0.90
+  supremely:0.82
+  forgetting:0.82
+  email:0.81
+  event:0.80
+  garden:0.80
+  account:0.80
+  honored:0.80
+
+K: 5, Log-Likelihood: -330.425, Alpha: 11.000, Beta: 1.100

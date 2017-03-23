@@ -1,0 +1,61 @@
+Topic 0:
+  good:2.36
+  chromebook:2.34
+  ratsalad:1.74
+  lenovo:1.70
+  november:1.60
+  quote:1.48
+  tho:1.47
+  choice:1.34
+  infoso:1.33
+  sound:1.33
+
+Topic 1:
+  bios:4.49
+  cpu:3.07
+  boot:2.53
+  thinkpads:2.32
+  fuses:2.14
+  coreboot:2.07
+  signed:1.65
+  series:1.64
+  burned:1.64
+  key:1.64
+
+Topic 2:
+  intel:4.21
+  amd:3.95
+  software:3.29
+  iam:2.80
+  ubuntu:2.53
+  mode:2.33
+  chromebooks:2.30
+  developer:2.29
+  boot:2.25
+  provided:1.90
+
+Topic 3:
+  electrum:18.81
+  click:8.95
+  select:5.95
+  file:5.95
+  tails:5.38
+  double:3.95
+  manager:3.95
+  tor:3.95
+  menu:3.70
+  upgrade:3.20
+
+Topic 4:
+  cpu:4.15
+  november:3.61
+  seabios:3.31
+  quote:3.24
+  lenovo:3.09
+  fuses:3.03
+  good:2.83
+  bad:2.79
+  code:2.78
+  machine:2.77
+
+K: 5, Log-Likelihood: -2629.466, Alpha: 11.000, Beta: 1.100

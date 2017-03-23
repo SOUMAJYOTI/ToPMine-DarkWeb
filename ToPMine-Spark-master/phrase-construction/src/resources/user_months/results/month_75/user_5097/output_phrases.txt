@@ -1,0 +1,61 @@
+Topic 0:
+  tracking code:0.24
+  address:0.16
+  basically:0.08
+  bad:0.08
+  big:0.08
+  pip:0.08
+  number:0.08
+  equivalent:0.08
+  sending address:0.08
+  fuck:0.08
+
+Topic 1:
+  tracking code:0.24
+  address:0.16
+  sending address:0.08
+  fuck:0.08
+  number:0.08
+  bad:0.08
+  basically:0.08
+  pip:0.08
+  vendor:0.08
+  big:0.08
+
+Topic 2:
+  tracking code:0.24
+  address:0.16
+  coupled:0.08
+  knowledge:0.08
+  encrypted:0.08
+  trough:0.08
+  compromised:0.08
+  le:0.08
+  opsec:0.08
+  meaning:0.08
+
+Topic 3:
+  tracking code:0.24
+  address:0.16
+  tracking:0.08
+  pack:0.08
+  hold:0.08
+  portal:0.08
+  opsec:0.08
+  determine:0.08
+  major:0.08
+  subject:0.08
+
+Topic 4:
+  tracking code:0.24
+  address:0.16
+  insight:0.08
+  platform:0.08
+  knowledge:0.08
+  received:0.08
+  system:0.08
+  tracking:0.08
+  le:0.08
+  hold:0.08
+
+K: 5, Log-Likelihood: -57.296, Alpha: 11.000, Beta: 1.100

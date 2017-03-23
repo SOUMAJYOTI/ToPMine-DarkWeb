@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.65
+  orders:0.65
+  drugs:0.52
+  agora:0.51
+  fight:0.41
+  war:0.40
+  toyotateam:0.37
+  claims:0.37
+  nucleus:0.36
+  attempts:0.35
+
+Topic 1:
+  attempts:0.56
+  nucleus:0.48
+  toyotateam:0.48
+  claims:0.48
+  war:0.44
+  fight:0.44
+  agora:0.35
+  drugs:0.34
+  market:0.31
+  orders:0.31
+
+Topic 2:
+  war:0.44
+  fight:0.44
+  attempts:0.43
+  claims:0.43
+  nucleus:0.43
+  toyotateam:0.43
+  orders:0.43
+  market:0.42
+  drugs:0.41
+  agora:0.41
+
+Topic 3:
+  war:0.51
+  fight:0.50
+  toyotateam:0.50
+  claims:0.49
+  nucleus:0.49
+  attempts:0.43
+  drugs:0.35
+  agora:0.35
+  orders:0.32
+  market:0.32
+
+Topic 4:
+  orders:0.50
+  market:0.49
+  agora:0.46
+  drugs:0.45
+  nucleus:0.44
+  claims:0.43
+  attempts:0.43
+  toyotateam:0.42
+  fight:0.41
+  war:0.41
+
+K: 5, Log-Likelihood: -329.110, Alpha: 11.000, Beta: 1.100

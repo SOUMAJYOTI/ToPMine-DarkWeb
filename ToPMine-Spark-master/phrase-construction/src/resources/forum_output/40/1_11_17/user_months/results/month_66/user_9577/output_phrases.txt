@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:5.52
+  mentioned good:4.32
+  lot guys:4.32
+  trip:4.32
+  sites:4.32
+  yeah sense:4.32
+  trust:4.32
+  drugs:4.32
+  enigmatic:4.32
+  smoke:4.31
+
+Topic 1:
+  plan buying:8.74
+  pgp:7.00
+  key:7.00
+  lot:6.64
+  texts:4.35
+  hell:4.35
+  understanding:4.35
+  security:4.35
+  pm:4.35
+  safety:4.35
+
+Topic 2:
+  message:13.13
+  public key block:8.74
+  explain:8.74
+  password:8.74
+  public key:6.80
+  ll:5.17
+  ill:5.01
+  checked:4.35
+  full:4.35
+  tied:4.35
+
+Topic 3:
+  abraxas:9.69
+  setting:4.35
+  grateful:4.35
+  website:4.35
+  videos:4.35
+  receive:4.35
+  message post:4.35
+  forums:4.35
+  account:4.35
+  bitcoin:4.35
+
+Topic 4:
+  market:10.06
+  technical:8.71
+  post:8.71
+  love avengers:8.49
+  trustworthy imo longest running:6.26
+  needed join:6.26
+  market spend invite link:5.42
+  market le:5.25
+  good vendors moving abraxas:4.93
+  looked:4.32
+
+K: 5, Log-Likelihood: -7485.806, Alpha: 11.000, Beta: 1.100

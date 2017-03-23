@@ -1,0 +1,61 @@
+Topic 0:
+  message:1.67
+  signature:0.83
+  pgp:0.81
+  site:0.36
+  cvmjn:0.36
+  olrnt:0.36
+  np:0.36
+  weeks:0.36
+  pip:0.36
+  pxerdc:0.36
+
+Topic 1:
+  released:1.15
+  asshole:1.12
+  cream:1.11
+  dairy:1.11
+  ice:1.10
+  trump:1.09
+  tang:1.09
+  jerrys:1.07
+  hang:1.03
+  february:0.98
+
+Topic 2:
+  message:1.72
+  pgp:0.74
+  signature:0.72
+  ha:0.35
+  xhjfzjipgyh:0.35
+  sha:0.35
+  hjf:0.35
+  awlbjfyskbt:0.35
+  yecye:0.35
+  iqecbaebcgagbqjwv:0.35
+
+Topic 3:
+  february:1.51
+  hang:1.46
+  tang:1.38
+  trump:1.21
+  jerrys:1.21
+  ice:1.18
+  cream:1.18
+  dairy:1.18
+  asshole:1.17
+  released:1.14
+
+Topic 4:
+  message:0.47
+  jerrys:0.41
+  ice:0.41
+  asshole:0.41
+  released:0.40
+  dairy:0.40
+  cream:0.40
+  trump:0.40
+  pgp:0.32
+  signature:0.32
+
+K: 5, Log-Likelihood: -545.940, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  sillywabbit:0.78
+  chance:0.61
+  code:0.60
+  invite:0.59
+  sig:0.40
+  site:0.40
+  account:0.40
+  amthanks:0.40
+  dardush:0.40
+  close:0.40
+
+Topic 1:
+  sillywabbit:0.78
+  code:0.60
+  invite:0.59
+  chance:0.59
+  account:0.41
+  site:0.41
+  sig:0.40
+  close:0.40
+  regs:0.40
+  amthanks:0.40
+
+Topic 2:
+  sillywabbit:0.81
+  chance:0.61
+  code:0.60
+  invite:0.58
+  account:0.40
+  sig:0.40
+  site:0.40
+  dardush:0.40
+  regs:0.40
+  quote:0.40
+
+Topic 3:
+  sillywabbit:0.84
+  invite:0.65
+  code:0.63
+  chance:0.61
+  quote:0.42
+  close:0.41
+  regs:0.41
+  dardush:0.41
+  amthanks:0.41
+  site:0.38
+
+Topic 4:
+  sillywabbit:0.79
+  invite:0.59
+  chance:0.58
+  code:0.58
+  sig:0.41
+  account:0.41
+  site:0.41
+  dardush:0.39
+  close:0.39
+  amthanks:0.39
+
+K: 5, Log-Likelihood: -186.430, Alpha: 11.000, Beta: 1.100

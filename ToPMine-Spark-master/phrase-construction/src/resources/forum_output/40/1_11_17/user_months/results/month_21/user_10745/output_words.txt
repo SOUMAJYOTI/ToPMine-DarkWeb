@@ -1,0 +1,61 @@
+Topic 0:
+  time:0.40
+  subject:0.20
+  good:0.20
+  things:0.20
+  read:0.20
+  change:0.20
+  remember:0.20
+  email:0.20
+  providers:0.20
+  thread:0.20
+
+Topic 1:
+  time:0.40
+  thread:0.20
+  revisited:0.20
+  things:0.20
+  change:0.20
+  read:0.20
+  mentioned:0.20
+  email:0.20
+  providers:0.20
+  subject:0.20
+
+Topic 2:
+  time:0.40
+  email:0.20
+  mentioned:0.20
+  change:0.20
+  good:0.20
+  remember:0.20
+  thread:0.20
+  read:0.20
+  subject:0.20
+  revisited:0.20
+
+Topic 3:
+  time:0.40
+  providers:0.20
+  mentioned:0.20
+  remember:0.20
+  email:0.20
+  subject:0.20
+  things:0.20
+  read:0.20
+  revisited:0.20
+  good:0.20
+
+Topic 4:
+  time:0.40
+  revisited:0.20
+  providers:0.20
+  subject:0.20
+  read:0.20
+  good:0.20
+  things:0.20
+  remember:0.20
+  thread:0.20
+  mentioned:0.20
+
+K: 5, Log-Likelihood: -31.985, Alpha: 11.000, Beta: 1.100

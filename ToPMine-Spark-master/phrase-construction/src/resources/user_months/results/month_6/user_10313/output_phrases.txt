@@ -1,0 +1,61 @@
+Topic 0:
+  alert:3.99
+  sql:2.61
+  php tutorials:2.61
+  attacks:2.61
+  secure start:2.61
+  login:2.61
+  injection:2.61
+  forgery:2.61
+  session:2.61
+  youtube:2.61
+
+Topic 1:
+  post:0.64
+  learn:0.63
+  good:0.60
+  check:0.59
+  deal:0.59
+  links:0.59
+  practice:0.59
+  planning:0.59
+  info:0.59
+  lot:0.58
+
+Topic 2:
+  pretty:0.73
+  codeacademy:0.73
+  creating:0.73
+  courses:0.73
+  functions:0.73
+  scripts:0.73
+  common:0.73
+  java php:0.66
+  alot:0.65
+  bit:0.65
+
+Topic 3:
+  tutorials:2.63
+  program:2.63
+  online:2.63
+  man:2.63
+  python:2.63
+  books:2.05
+  yeah:1.25
+  costomize:1.25
+  basin:1.25
+  sound:1.25
+
+Topic 4:
+  market:2.62
+  years:2.62
+  server:2.62
+  start learning:2.62
+  host:1.24
+  starting:1.24
+  learn secure:1.24
+  great:1.24
+  windows:1.24
+  essentially:1.24
+
+K: 5, Log-Likelihood: -1281.492, Alpha: 11.000, Beta: 1.100

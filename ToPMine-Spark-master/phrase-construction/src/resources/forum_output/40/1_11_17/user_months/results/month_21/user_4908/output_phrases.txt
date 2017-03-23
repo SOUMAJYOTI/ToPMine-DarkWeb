@@ -1,0 +1,61 @@
+Topic 0:
+  paid:1.01
+  btc:0.64
+  loads:0.63
+  reverse:0.63
+  stating:0.63
+  paypal:0.63
+  transaction:0.63
+  message:0.63
+  recieved:0.62
+  people:0.62
+
+Topic 1:
+  rules:2.73
+  lbc:2.73
+  follow:2.73
+  escrow:2.73
+  coin:2.73
+  complete:1.24
+  scammed:1.24
+  set:1.24
+  times:1.24
+  amount:1.24
+
+Topic 2:
+  paid:0.77
+  family wild west love:0.58
+  called rapmens luckily small:0.58
+  error good true ends:0.58
+  offering btc cheap hmmm:0.58
+  scammed guy:0.57
+  stick:0.57
+  amount cash paid trough:0.57
+  day:0.57
+  careful:0.57
+
+Topic 3:
+  paid:0.72
+  called rapmens luckily small:0.60
+  careful:0.59
+  time trade local bitcoins:0.59
+  scammed guy:0.59
+  amount cash paid trough:0.59
+  offering btc cheap hmmm:0.58
+  error good true ends:0.58
+  family wild west love:0.58
+  vendors:0.56
+
+Topic 4:
+  paid:0.69
+  imputable:0.59
+  vendors:0.58
+  cash:0.58
+  day:0.58
+  deposits:0.58
+  bank:0.58
+  trades:0.58
+  stick:0.58
+  scammed guy:0.56
+
+K: 5, Log-Likelihood: -439.954, Alpha: 11.000, Beta: 1.100

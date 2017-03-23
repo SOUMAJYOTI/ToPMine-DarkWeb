@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins:0.55
+  club:0.39
+  wire:0.39
+  bank:0.39
+  lbc:0.38
+  wire money:0.38
+  amounts:0.38
+  send:0.37
+  capital:0.20
+  service:0.20
+
+Topic 1:
+  amounts:0.46
+  bank:0.46
+  wire money:0.46
+  wire:0.46
+  lbc:0.45
+  bitcoins:0.40
+  club:0.39
+  send:0.29
+  deposit:0.21
+  transfers:0.21
+
+Topic 2:
+  bitcoins:0.68
+  send:0.42
+  club:0.39
+  lbc:0.33
+  bank:0.33
+  wire:0.33
+  amounts:0.33
+  wire money:0.33
+  work:0.20
+  sell:0.20
+
+Topic 3:
+  bitcoins:0.69
+  send:0.44
+  club:0.41
+  wire money:0.30
+  lbc:0.30
+  bank:0.30
+  amounts:0.30
+  wire:0.30
+  gained:0.21
+  fake:0.21
+
+Topic 4:
+  club:0.46
+  bitcoins:0.42
+  amounts:0.36
+  wire money:0.36
+  lbc:0.36
+  wire:0.36
+  bank:0.36
+  send:0.30
+  transactions trust:0.22
+  helpfullthanks:0.22
+
+K: 5, Log-Likelihood: -400.041, Alpha: 11.000, Beta: 1.100

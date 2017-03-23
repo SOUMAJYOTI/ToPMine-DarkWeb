@@ -1,0 +1,61 @@
+Topic 0:
+  lost:0.20
+  feel:0.20
+  valhalla:0.20
+  duke:0.20
+  shame:0.20
+  lol:0.20
+  lonely:0.20
+  find:0.20
+  moon:0.20
+  friend:0.20
+
+Topic 1:
+  promised:0.20
+  uk:0.20
+  free:0.20
+  established:0.20
+  join:0.20
+  clever:0.20
+  hansa:0.20
+  move:0.20
+  nucleus:0.20
+  moon:0.20
+
+Topic 2:
+  hansa:0.20
+  move:0.20
+  join:0.20
+  clever:0.20
+  established:0.20
+  nucleus:0.20
+  promised:0.20
+  uk:0.20
+  free:0.20
+  friend:0.20
+
+Topic 3:
+  lost:0.20
+  shame:0.20
+  friend:0.20
+  duke:0.20
+  valhalla:0.20
+  find:0.20
+  lonely:0.20
+  moon:0.20
+  lol:0.20
+  feel:0.20
+
+Topic 4:
+  nucleus:0.20
+  clever:0.20
+  join:0.20
+  find:0.20
+  established:0.20
+  moon:0.20
+  move:0.20
+  feel:0.20
+  hansa:0.20
+  friend:0.20
+
+K: 5, Log-Likelihood: -55.944, Alpha: 11.000, Beta: 1.100

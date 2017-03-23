@@ -1,0 +1,61 @@
+Topic 0:
+  reports:0.00
+  product:0.00
+  star:0.00
+  bomber:0.00
+  mile:0.00
+  moved:0.00
+  deserves:0.00
+  consistent:0.00
+  great:0.00
+  ranks:0.00
+
+Topic 1:
+  reports:0.00
+  product:0.00
+  star:0.00
+  bomber:0.00
+  mile:0.00
+  moved:0.00
+  deserves:0.00
+  consistent:0.00
+  great:0.00
+  ranks:0.00
+
+Topic 2:
+  reports:0.00
+  product:0.00
+  star:0.00
+  bomber:0.00
+  mile:0.00
+  moved:0.00
+  deserves:0.00
+  consistent:0.00
+  great:0.00
+  ranks:0.00
+
+Topic 3:
+  reports:0.00
+  product:0.00
+  star:0.00
+  bomber:0.00
+  mile:0.00
+  moved:0.00
+  deserves:0.00
+  consistent:0.00
+  great:0.00
+  ranks:0.00
+
+Topic 4:
+  reports:0.00
+  product:0.00
+  star:0.00
+  bomber:0.00
+  mile:0.00
+  moved:0.00
+  deserves:0.00
+  consistent:0.00
+  great:0.00
+  ranks:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

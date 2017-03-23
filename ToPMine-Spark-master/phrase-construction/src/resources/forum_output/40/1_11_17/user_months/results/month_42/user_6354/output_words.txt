@@ -1,0 +1,61 @@
+Topic 0:
+  key:0.40
+  zy:0.40
+  marketplace:0.40
+  block:0.40
+  public:0.40
+  rnqz:0.20
+  curls:0.20
+  fq:0.20
+  vce:0.20
+  sgt:0.20
+
+Topic 1:
+  block:0.40
+  public:0.40
+  marketplace:0.40
+  zy:0.40
+  key:0.40
+  zuzm:0.20
+  oihm:0.20
+  weed:0.20
+  vce:0.20
+  igi:0.20
+
+Topic 2:
+  key:0.41
+  zy:0.40
+  public:0.40
+  marketplace:0.40
+  block:0.40
+  purchase:0.20
+  wym:0.20
+  gnupg:0.20
+  fjlamu:0.20
+  version:0.20
+
+Topic 3:
+  zy:0.40
+  public:0.40
+  marketplace:0.40
+  block:0.40
+  key:0.40
+  pdnsv:0.20
+  igi:0.20
+  ac:0.20
+  seller:0.20
+  pip:0.20
+
+Topic 4:
+  block:0.40
+  marketplace:0.40
+  public:0.40
+  zy:0.40
+  key:0.40
+  xxmqq:0.20
+  hhownxryn:0.20
+  axkgstswoirqzrnggsx:0.20
+  xfzhsomc:0.20
+  dr:0.20
+
+K: 5, Log-Likelihood: -585.112, Alpha: 11.000, Beta: 1.100

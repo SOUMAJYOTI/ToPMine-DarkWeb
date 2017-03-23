@@ -1,0 +1,56 @@
+Topic 0:
+  redacted:0.20
+  picture:0.20
+  product:0.20
+  reddit:0.20
+  insidethewhale:0.20
+  gamesome:0.20
+  service:0.20
+  review:0.20
+  happy:0.20
+
+Topic 1:
+  service:0.20
+  gamesome:0.20
+  reddit:0.20
+  redacted:0.20
+  review:0.20
+  insidethewhale:0.20
+  picture:0.20
+  product:0.20
+  happy:0.20
+
+Topic 2:
+  review:0.20
+  service:0.20
+  reddit:0.20
+  gamesome:0.20
+  product:0.20
+  redacted:0.20
+  insidethewhale:0.20
+  picture:0.20
+  happy:0.20
+
+Topic 3:
+  happy:0.20
+  picture:0.20
+  insidethewhale:0.20
+  product:0.20
+  gamesome:0.20
+  redacted:0.20
+  service:0.20
+  reddit:0.20
+  review:0.20
+
+Topic 4:
+  happy:0.20
+  insidethewhale:0.20
+  gamesome:0.20
+  picture:0.20
+  product:0.20
+  redacted:0.20
+  service:0.20
+  reddit:0.20
+  review:0.20
+
+K: 5, Log-Likelihood: -19.775, Alpha: 11.000, Beta: 1.100

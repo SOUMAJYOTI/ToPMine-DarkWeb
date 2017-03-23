@@ -1,0 +1,61 @@
+Topic 0:
+  february:1.26
+  quote:0.89
+  expertise:0.72
+  time:0.72
+  thinking:0.72
+  experience:0.72
+  orchestrate:0.71
+  huge:0.71
+  infrastructure:0.71
+  metadpr:0.71
+
+Topic 1:
+  making:1.99
+  dox:1.99
+  knew:1.99
+  claiming:1.99
+  shit user:1.99
+  doomed:1.98
+  bullshit:1.34
+  middle:1.34
+  muddy:1.34
+  throwing:1.34
+
+Topic 2:
+  weeks:1.21
+  lasted:1.21
+  product:1.20
+  successful:1.20
+  transaction received:1.19
+  long:1.19
+  amdid:0.79
+  dustination:0.79
+  february:0.77
+  market open:0.76
+
+Topic 3:
+  agree:1.41
+  scam:1.40
+  pseudo:1.40
+  market:1.39
+  markets:1.39
+  question:1.39
+  losttemple:1.39
+  amount:1.38
+  bit:1.38
+  opinion:1.38
+
+Topic 4:
+  order:2.92
+  flag:1.87
+  black:1.86
+  vendor:1.41
+  release:1.34
+  escrow:1.34
+  transaction:1.34
+  paid:1.34
+  transit:1.34
+  site:1.34
+
+K: 5, Log-Likelihood: -828.349, Alpha: 11.000, Beta: 1.100

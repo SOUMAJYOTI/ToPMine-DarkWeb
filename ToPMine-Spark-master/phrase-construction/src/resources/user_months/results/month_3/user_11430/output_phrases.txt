@@ -1,0 +1,61 @@
+Topic 0:
+  guy agora:2.13
+  himalayanblues:1.33
+  imposter:1.19
+  amthe:0.81
+  march:0.81
+  quote:0.81
+  vodka:0.79
+  order:0.76
+  bitbybit:0.72
+  rocks:0.66
+
+Topic 1:
+  guy agora:1.61
+  himalayanblues:1.15
+  imposter:1.14
+  order:0.76
+  bitbybit:0.74
+  vodka:0.71
+  post:0.70
+  quote:0.68
+  march:0.68
+  amthe:0.68
+
+Topic 2:
+  vendor himalayanblues:2.52
+  indian:1.51
+  markets:1.38
+  vending:1.28
+  hope:0.91
+  shit:0.77
+  feedback:0.76
+  tarshish:0.76
+  rubbed:0.76
+  evolution:0.76
+
+Topic 3:
+  post:1.45
+  bitbybit:1.22
+  order:1.17
+  poppypower:0.88
+  cryngie:0.88
+  eatsleepraverepeat:0.88
+  warm:0.86
+  fyi:0.84
+  spamming:0.84
+  posting:0.83
+
+Topic 4:
+  vendor himalayanblues:2.90
+  vending:2.28
+  markets:2.18
+  indian:2.04
+  heroin:1.00
+  links:1.00
+  contacts:0.99
+  trades:0.99
+  opium:0.98
+  backbluesky:0.98
+
+K: 5, Log-Likelihood: -580.268, Alpha: 11.000, Beta: 1.100

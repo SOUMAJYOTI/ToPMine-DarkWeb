@@ -1,0 +1,61 @@
+Topic 0:
+  tor router:17.52
+  unsafe stack:16.74
+  stack:15.65
+  nginx box:13.39
+  safe stack:13.39
+  pretty:12.56
+  memory:12.21
+  safestack:11.93
+  server:11.59
+  hidden service:11.51
+
+Topic 1:
+  device:14.89
+  raspberry pi:13.40
+  ramdisk:13.40
+  encrypted ramdisk:13.40
+  power:12.52
+  application layer:11.96
+  nsa:11.75
+  hidden service:11.04
+  decrypt:10.05
+  encrusted ramdisk:10.05
+
+Topic 2:
+  nginx box tor router:14.59
+  tor router:11.81
+  patterns bugs:11.76
+  quote real sigaint:10.27
+  dictionary:10.04
+  arbitrary code:9.70
+  aerial numbers physical isolation:9.21
+  quote:9.05
+  quote kmf april ami:8.96
+  execution:8.82
+
+Topic 3:
+  quote kmf april:19.40
+  hosting company:13.39
+  kernel:13.00
+  trinity:12.05
+  cutting edge:11.70
+  iommu:10.75
+  dont:10.58
+  secure hidden services:10.42
+  hidden service:10.06
+  remote attestation:10.04
+
+Topic 4:
+  memory:17.41
+  return:15.08
+  void:13.39
+  printf error:13.39
+  external ip address:13.39
+  hidden service:10.17
+  bytesize:10.05
+  requiredpages bytesize:10.05
+  compliance:10.05
+  passed void:10.05
+
+K: 5, Log-Likelihood: -81297.994, Alpha: 11.000, Beta: 1.100

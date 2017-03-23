@@ -1,0 +1,76 @@
+correct,0,6
+onion,1,4
+onion host,2,1
+simple,3,1
+sites,4,1
+inside,5,2
+good,6,1
+blender,7,1
+character,8,1
+hostname,9,2
+captcha,10,1
+host,11,5
+html,12,2
+host correct,13,1
+written,14,1
+vbmlvbg,15,2
+phishers,16,1
+investigated,17,1
+mitm phishing,18,3
+cloner,19,2
+phishing,20,3
+encouraging,21,1
+image,22,1
+mitm,23,4
+work,24,1
+decodes,25,1
+browsers,26,1
+users,27,1
+javascript,28,3
+proxy,29,2
+checks,30,1
+meta,31,2
+activate,32,1
+arms,33,1
+updated,34,1
+encoded,35,4
+visiting,36,1
+rewrites,37,1
+string,38,1
+signature,39,2
+link,40,1
+detect,41,1
+trick,42,1
+long,43,1
+correct host,44,2
+characters,45,1
+phishing onion,46,1
+browser,47,4
+rewritten,48,1
+ive,49,1
+decoded,50,1
+yml,51,2
+proxys,52,1
+onion user,53,1
+redirect,54,2
+user correct,55,1
+side,56,1
+race,57,1
+countermeasure,58,1
+ci,59,2
+refresh,60,2
+bitblendervrfkzr,61,1
+atob,62,2
+wrong,63,1
+site,64,1
+ymxlbmrlcnzyzmt,65,2
+redirects,66,1
+bitblender,67,1
+location,68,2
+time,69,1
+window,70,2
+user,71,3
+runs,72,1
+bitcoin,73,1
+base,74,2
+activated,75,1

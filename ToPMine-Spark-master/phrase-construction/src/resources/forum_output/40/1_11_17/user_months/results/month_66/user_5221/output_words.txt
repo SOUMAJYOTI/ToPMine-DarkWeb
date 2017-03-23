@@ -1,0 +1,61 @@
+Topic 0:
+  money:13.62
+  account:13.00
+  pin:9.54
+  ab:6.39
+  times:4.73
+  working:4.33
+  resolved:4.31
+  correct:4.27
+  threads:3.90
+  stealing:3.66
+
+Topic 1:
+  market:10.20
+  january:9.35
+  reddit:7.82
+  quote:7.17
+  password:5.79
+  find:5.64
+  orders:5.03
+  ab:4.82
+  guy:4.71
+  steal:4.62
+
+Topic 2:
+  market:10.93
+  ab:7.63
+  trust:6.92
+  fucking:6.51
+  link:5.49
+  carders:5.29
+  bunch:3.72
+  crew:3.72
+  crooks:3.09
+  lose:3.07
+
+Topic 3:
+  dhl:12.21
+  direct:10.65
+  withdrawals:9.96
+  wallet:9.48
+  ab:5.63
+  escrow:4.98
+  automatic:4.96
+  didnt:4.75
+  withdrawal:4.74
+  hours:3.96
+
+Topic 4:
+  ab:14.53
+  vendor:11.87
+  accounts:9.29
+  dispute:6.86
+  account:4.77
+  phished:4.71
+  customer:4.00
+  coins:3.78
+  fuck:3.31
+  access:3.09
+
+K: 5, Log-Likelihood: -6158.586, Alpha: 11.000, Beta: 1.100

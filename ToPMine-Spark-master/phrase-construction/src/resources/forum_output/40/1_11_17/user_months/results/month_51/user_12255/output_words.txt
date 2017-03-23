@@ -1,0 +1,61 @@
+Topic 0:
+  bird:2.97
+  market:2.13
+  post:1.91
+  quote:1.72
+  august:1.66
+  verification:1.29
+  link:1.09
+  mate:0.93
+  thread:0.85
+  button:0.65
+
+Topic 1:
+  bird:3.76
+  market:3.51
+  post:2.38
+  link:1.40
+  pgp:1.28
+  earth:0.78
+  quote:0.77
+  selling:0.76
+  august:0.73
+  key:0.66
+
+Topic 2:
+  bird:3.78
+  market:2.09
+  post:1.69
+  quote:1.25
+  link:1.20
+  august:1.12
+  verification:0.98
+  mate:0.75
+  pgp:0.70
+  selling:0.66
+
+Topic 3:
+  read:5.74
+  august:5.33
+  quote:4.10
+  vendor:3.72
+  jack:3.41
+  thread:2.80
+  harkness:2.45
+  threads:1.91
+  da:1.72
+  bird:1.43
+
+Topic 4:
+  market:6.10
+  pgp:5.61
+  dream:2.77
+  signature:2.73
+  eurobird:2.73
+  key:2.63
+  link:1.86
+  post:1.23
+  qhts:1.15
+  ekllbzohabt:1.15
+
+K: 5, Log-Likelihood: -1889.191, Alpha: 11.000, Beta: 1.100

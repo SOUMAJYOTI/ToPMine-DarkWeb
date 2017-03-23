@@ -1,0 +1,61 @@
+Topic 0:
+  sr:12.98
+  finding:6.27
+  capable:5.73
+  markets:5.27
+  market:4.46
+  volume:4.28
+  times:3.31
+  net:3.30
+  dying:3.27
+  user:3.24
+
+Topic 1:
+  forum:7.13
+  sr:2.16
+  hub:1.87
+  customers:1.76
+  markets:1.65
+  market:1.52
+  forums:1.33
+  agora:1.31
+  service:1.24
+  neutral:1.19
+
+Topic 2:
+  market:3.98
+  agora:2.26
+  forum:1.92
+  listings:1.52
+  measure:1.51
+  slow:1.21
+  drug:1.08
+  havent:1.01
+  sr:0.93
+  fine:0.88
+
+Topic 3:
+  market:5.29
+  forum:3.46
+  agora:1.32
+  sr:1.18
+  slow:1.06
+  hub:1.05
+  forums:0.96
+  day:0.91
+  markets:0.91
+  attack:0.90
+
+Topic 4:
+  forum:4.38
+  market:3.75
+  agora:1.43
+  hub:1.17
+  log:1.13
+  forums:1.10
+  slow:1.03
+  attack:0.97
+  bit:0.93
+  day:0.89
+
+K: 5, Log-Likelihood: -2457.562, Alpha: 11.000, Beta: 1.100

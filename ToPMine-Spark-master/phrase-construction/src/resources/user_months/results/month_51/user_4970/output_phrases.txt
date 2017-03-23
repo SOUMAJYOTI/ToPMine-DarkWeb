@@ -1,0 +1,61 @@
+Topic 0:
+  love avengers:0.68
+  referred link:0.66
+  disappeared:0.35
+  announced:0.35
+  sellers:0.34
+  notice:0.34
+  shutting:0.34
+  bitcoins:0.34
+  agora:0.34
+  withdraw:0.34
+
+Topic 1:
+  referred link:0.68
+  love avengers:0.65
+  disappeared:0.35
+  announced:0.35
+  link:0.34
+  drug:0.34
+  breach:0.34
+  stable:0.34
+  security:0.34
+  withdraw:0.34
+
+Topic 2:
+  love avengers:0.82
+  referred link:0.69
+  sellers:0.34
+  sites:0.34
+  operations:0.34
+  buyers:0.34
+  security:0.34
+  agora:0.34
+  withdraw:0.34
+  drug:0.34
+
+Topic 3:
+  love avengers:0.79
+  referred link:0.67
+  announced:0.34
+  drug:0.34
+  buyers:0.34
+  alternative:0.34
+  breach:0.34
+  bitcoins:0.34
+  security:0.34
+  shutting:0.34
+
+Topic 4:
+  love avengers:0.82
+  referred link:0.69
+  link:0.34
+  buyers:0.34
+  bitcoins:0.34
+  invite:0.34
+  breach:0.34
+  agora:0.34
+  alternative:0.34
+  sites:0.34
+
+K: 5, Log-Likelihood: -182.614, Alpha: 11.000, Beta: 1.100

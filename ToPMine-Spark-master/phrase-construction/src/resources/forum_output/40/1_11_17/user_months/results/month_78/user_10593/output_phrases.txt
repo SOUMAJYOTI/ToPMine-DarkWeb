@@ -1,0 +1,61 @@
+Topic 0:
+  services:3.93
+  company:3.93
+  book:3.93
+  toxen:3.93
+  attackers:3.93
+  claims:3.93
+  coming:3.09
+  tables:1.92
+  drop:1.92
+  cracker:1.92
+
+Topic 1:
+  instructions:3.91
+  ip apple sentinel dont:3.65
+  mac reported offending url:3.65
+  amim:3.05
+  mac told apple blackhole:3.05
+  ip address:2.75
+  quote chilltweaker march:2.44
+  silently:1.90
+  shit:1.90
+  idiots:1.90
+
+Topic 2:
+  march pmquote:4.36
+  snitch:3.92
+  zaphod:2.92
+  pm direction good catch:2.83
+  zaphodresponded:2.67
+  em:2.23
+  quote:2.19
+  snitch blackhole:1.91
+  good:1.91
+  years:1.91
+
+Topic 3:
+  constant:1.89
+  white:1.89
+  figured:1.89
+  utility:1.89
+  guest:1.89
+  network:1.89
+  infinite:1.89
+  pings:1.89
+  sending:1.88
+  ip url:1.88
+
+Topic 4:
+  problem:3.07
+  software:3.07
+  decrypting:3.07
+  talked:3.07
+  zaphod pm:3.07
+  working:3.07
+  ago:3.07
+  couple:3.07
+  developer:3.07
+  weeks:3.07
+
+K: 5, Log-Likelihood: -1896.082, Alpha: 11.000, Beta: 1.100

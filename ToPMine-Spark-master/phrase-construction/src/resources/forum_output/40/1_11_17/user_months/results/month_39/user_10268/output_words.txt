@@ -1,0 +1,61 @@
+Topic 0:
+  nucleus:0.43
+  names:0.40
+  fake:0.40
+  fuck:0.40
+  post:0.40
+  diddnt:0.40
+  addresses:0.40
+  guy:0.37
+  ordered:0.21
+  agora:0.21
+
+Topic 1:
+  guy:0.48
+  names:0.41
+  post:0.41
+  fuck:0.40
+  fake:0.40
+  nucleus:0.37
+  real:0.27
+  didnt:0.27
+  clever:0.27
+  evo:0.27
+
+Topic 2:
+  nucleus:0.46
+  guy:0.43
+  fuck:0.39
+  fake:0.39
+  post:0.39
+  names:0.39
+  diddnt:0.31
+  addresses:0.31
+  confused:0.22
+  fucking:0.22
+
+Topic 3:
+  guy:0.48
+  nucleus:0.47
+  fuck:0.39
+  names:0.39
+  post:0.39
+  fake:0.39
+  diddnt:0.26
+  addresses:0.26
+  long:0.23
+  buy:0.23
+
+Topic 4:
+  addresses:0.81
+  diddnt:0.81
+  fake:0.42
+  post:0.42
+  fuck:0.41
+  names:0.41
+  bad:0.32
+  shoutout:0.32
+  uknd:0.32
+  good:0.32
+
+K: 5, Log-Likelihood: -349.047, Alpha: 11.000, Beta: 1.100

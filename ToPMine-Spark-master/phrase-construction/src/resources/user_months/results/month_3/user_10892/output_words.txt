@@ -1,0 +1,61 @@
+Topic 0:
+  market:23.13
+  albert:18.43
+  wallets:14.63
+  secure:14.33
+  blockchain:13.10
+  coins:12.48
+  vendors:12.02
+  february:10.83
+  bitcoin:9.57
+  quote:8.86
+
+Topic 1:
+  order:35.98
+  users:25.20
+  vendor:23.00
+  buyer:22.36
+  transaction:16.38
+  address:16.22
+  step:15.95
+  sign:10.79
+  escrow:10.26
+  client:10.06
+
+Topic 2:
+  forum:18.58
+  bazaar:18.45
+  users:17.20
+  blockchain:10.83
+  support:10.77
+  address:9.49
+  vendor:9.01
+  transaction:8.17
+  public:8.02
+  client:6.94
+
+Topic 3:
+  key:15.17
+  tor:12.25
+  good:11.39
+  keys:10.45
+  clients:7.38
+  relay:6.98
+  identity:6.98
+  hidden:6.98
+  account:6.37
+  long:6.18
+
+Topic 4:
+  quote:18.89
+  referred:13.73
+  bonus:12.94
+  link:12.04
+  markets:11.89
+  pretty:10.60
+  sig:9.78
+  dont:8.72
+  hub:7.60
+  check:7.10
+
+K: 5, Log-Likelihood: -22880.629, Alpha: 11.000, Beta: 1.100

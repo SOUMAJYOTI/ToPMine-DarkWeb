@@ -1,0 +1,61 @@
+Topic 0:
+  fog:0.16
+  waffle:0.08
+  mix:0.08
+  heard:0.08
+  bitblender:0.08
+  blender:0.08
+  bitcoin:0.08
+  bitquick:0.08
+  luc:0.08
+  input:0.08
+
+Topic 1:
+  fog:0.16
+  bitblender:0.08
+  positive:0.08
+  break:0.08
+  troubles:0.08
+  luc:0.08
+  people:0.08
+  input:0.08
+  bitquick:0.08
+  activities:0.08
+
+Topic 2:
+  fog:0.16
+  mix:0.08
+  waffle:0.08
+  people:0.08
+  troubles:0.08
+  luc:0.08
+  heard:0.08
+  experiences:0.08
+  bitcoin:0.08
+  blender:0.08
+
+Topic 3:
+  fog:0.16
+  activities:0.08
+  negative:0.08
+  break:0.08
+  troubles:0.08
+  wondering:0.08
+  experiences:0.08
+  bitquick:0.08
+  input:0.08
+  bitcoin:0.08
+
+Topic 4:
+  fog:0.16
+  people:0.08
+  positive:0.08
+  negative:0.08
+  input:0.08
+  heard:0.08
+  activities:0.08
+  experiences:0.08
+  bitcoin:0.08
+  wondering:0.08
+
+K: 5, Log-Likelihood: -22.156, Alpha: 11.000, Beta: 1.100

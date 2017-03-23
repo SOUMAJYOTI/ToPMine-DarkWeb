@@ -1,0 +1,61 @@
+Topic 0:
+  upgrade:0.84
+  people:0.52
+  side:0.52
+  files:0.51
+  witch:0.51
+  windows ubuntu:0.51
+  save:0.29
+  script:0.29
+  cd:0.24
+  tails stick:0.24
+
+Topic 1:
+  upgrade:0.69
+  side:0.45
+  files:0.44
+  people:0.44
+  windows ubuntu:0.44
+  witch:0.44
+  save:0.30
+  script:0.30
+  tails stick:0.29
+  cd:0.29
+
+Topic 2:
+  tails stick:0.62
+  cd:0.61
+  script:0.51
+  save:0.50
+  tails:0.27
+  solution:0.26
+  tailsinstaller:0.26
+  device:0.26
+  burn:0.26
+  good:0.26
+
+Topic 3:
+  save:0.42
+  upgrade:0.42
+  script:0.41
+  cd:0.37
+  tails stick:0.37
+  witch:0.30
+  windows ubuntu:0.30
+  files:0.30
+  side:0.30
+  people:0.30
+
+Topic 4:
+  upgrade:0.56
+  windows ubuntu:0.39
+  witch:0.39
+  files:0.39
+  side:0.38
+  people:0.38
+  cd:0.32
+  save:0.32
+  script:0.32
+  tails stick:0.32
+
+K: 5, Log-Likelihood: -370.170, Alpha: 11.000, Beta: 1.100

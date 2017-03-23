@@ -1,0 +1,61 @@
+Topic 0:
+  april:2.11
+  competition:1.13
+  grand:1.13
+  await:1.13
+  marketplace remember years:1.13
+  vendor registration opens april:1.13
+  anxiously:1.13
+  deep:1.13
+  marketplace:1.13
+  open public april:1.13
+
+Topic 1:
+  analysis:3.72
+  fine:2.77
+  underscore:2.77
+  security:2.65
+  middle earth:1.88
+  text:1.77
+  original:1.77
+  subtle message:1.77
+  longer:1.77
+  communications:1.77
+
+Topic 2:
+  market:1.11
+  pgp:1.03
+  impressed:0.83
+  signature:0.79
+  wow:0.73
+  note:0.72
+  message:0.70
+  darkness:0.45
+  piratey:0.45
+  zppxytmzeedqeq:0.45
+
+Topic 3:
+  pgp:3.06
+  market:2.98
+  note:1.99
+  wow:1.98
+  signature:1.92
+  impressed:1.88
+  message:0.90
+  vusaentbvqg:0.90
+  chain:0.90
+  mkct:0.90
+
+Topic 4:
+  marketplace remember:1.49
+  april vendor registration opens:1.49
+  april open public april:1.49
+  years ago full features:1.49
+  battle middle earth:1.16
+  news forum escrow messaging:1.15
+  user friendly design enjoy:1.15
+  begun pigs thehobbit:1.14
+  noobs learn url published:1.14
+  marketplace super site:1.14
+
+K: 5, Log-Likelihood: -1945.439, Alpha: 11.000, Beta: 1.100

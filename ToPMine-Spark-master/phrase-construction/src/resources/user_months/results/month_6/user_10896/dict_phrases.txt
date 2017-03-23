@@ -1,0 +1,11 @@
+youll,0,1
+anonymously,1,1
+communicate,2,1
+icq,3,2
+sign,4,1
+transport,5,1
+secure,6,2
+otr,7,2
+map,8,1
+instant,9,1
+messaging,10,2

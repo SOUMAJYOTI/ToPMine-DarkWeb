@@ -1,0 +1,61 @@
+Topic 0:
+  key:17.41
+  pgp:15.16
+  public:6.24
+  bit:4.25
+  ht:3.96
+  block:3.96
+  figure:3.77
+  actual:3.47
+  puts:3.47
+  odd:3.47
+
+Topic 1:
+  vendor:17.07
+  order:15.13
+  market:12.00
+  place:11.37
+  marketplace:11.32
+  lost:9.82
+  environment:8.52
+  relaxed:8.47
+  bitcoin:8.44
+  march:8.06
+
+Topic 2:
+  spaces:10.12
+  keys:7.80
+  pgp:7.49
+  low:5.90
+  pass:5.84
+  password:4.83
+  phrase:3.90
+  recomend:3.81
+  minimum:3.81
+  code:3.73
+
+Topic 3:
+  price:14.40
+  today:6.68
+  bitcoin:5.19
+  amount:5.18
+  nature:4.69
+  time:4.13
+  vendors:4.10
+  buy:3.84
+  big:3.71
+  lost:3.57
+
+Topic 4:
+  lost:10.15
+  play:8.81
+  rise:7.87
+  enigmaticsmile:5.88
+  fuck:5.88
+  april:5.78
+  quote:5.32
+  hope:4.77
+  pmquote:3.91
+  drop:3.91
+
+K: 5, Log-Likelihood: -8058.762, Alpha: 11.000, Beta: 1.100

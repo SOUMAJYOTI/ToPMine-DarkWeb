@@ -1,0 +1,61 @@
+Topic 0:
+  coins:1.71
+  great:1.47
+  fight:1.47
+  matter:1.45
+  track:1.41
+  tumble:1.30
+  opinion:0.65
+  standards:0.65
+  archived:0.65
+  visted:0.65
+
+Topic 1:
+  trustworthy:1.14
+  hide:1.14
+  anonymously:1.14
+  faster:1.14
+  localbitcoins:1.14
+  good:1.14
+  source:1.14
+  mine:1.14
+  helps:1.14
+  questions:1.14
+
+Topic 2:
+  coins:1.26
+  tumble:1.23
+  track:1.13
+  matter:1.09
+  fight:1.07
+  great:1.07
+  wallet:0.55
+  reasonable:0.55
+  coin:0.55
+  worth:0.55
+
+Topic 3:
+  bitcoinfog:0.67
+  wallet mixed worksalso list:0.67
+  mixers share methanks attention:0.67
+  mixed min receiving coins:0.67
+  started bitcoin:0.67
+  mixing services founded wiki:0.67
+  bad decided mixfirst time:0.65
+  read lot:0.63
+  buying stuff black marketsi:0.62
+  test:0.48
+
+Topic 4:
+  bad decided mixfirst time:1.03
+  mixing services founded wiki:1.01
+  started bitcoin:1.01
+  mixers share methanks attention:1.01
+  wallet mixed worksalso list:1.01
+  mixed min receiving coins:1.01
+  buying stuff black marketsi:0.94
+  read lot:0.93
+  bitcoinfog:0.82
+  didn:0.62
+
+K: 5, Log-Likelihood: -703.698, Alpha: 11.000, Beta: 1.100

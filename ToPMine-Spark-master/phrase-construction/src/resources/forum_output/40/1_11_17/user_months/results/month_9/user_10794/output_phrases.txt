@@ -1,0 +1,61 @@
+Topic 0:
+  ports:5.96
+  amnesia:4.32
+  selecting:3.98
+  installed:3.98
+  squeeze:3.98
+  installed libproxychains:3.98
+  amelia:3.98
+  packages:3.98
+  deselected:3.98
+  main:3.98
+
+Topic 1:
+  proxy:4.68
+  tails:4.11
+  live:3.98
+  conf:3.98
+  user:3.98
+  http:3.91
+  tor:3.14
+  pray:1.97
+  tails firewall:1.97
+  send:1.97
+
+Topic 2:
+  suds:3.94
+  connect:3.70
+  proxychains:3.63
+  work:2.35
+  haboba:2.20
+  downloaded:1.93
+  download:1.93
+  working:1.93
+  dir:1.93
+  proxychainsthen:1.93
+
+Topic 3:
+  proxy set:6.34
+  sources list:6.34
+  apt plate:5.47
+  sudo apt install:4.96
+  apt apt conf:4.75
+  site:3.98
+  doesnt add:3.13
+  check:3.13
+  ubuntuforums:3.13
+  network:3.13
+
+Topic 4:
+  type:3.93
+  great:3.14
+  windows:3.00
+  saving:1.96
+  option:1.96
+  computer:1.96
+  fyi:1.96
+  solution:1.96
+  good:1.96
+  work whonix:1.96
+
+K: 5, Log-Likelihood: -4098.982, Alpha: 11.000, Beta: 1.100

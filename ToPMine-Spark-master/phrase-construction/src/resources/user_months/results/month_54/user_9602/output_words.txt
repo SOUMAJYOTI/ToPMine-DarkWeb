@@ -1,0 +1,61 @@
+Topic 0:
+  days:3.17
+  happy:2.81
+  agora:2.76
+  btc:1.19
+  afford:1.19
+  answer:1.19
+  man:1.19
+  sort:1.19
+  period:1.19
+  communication:1.19
+
+Topic 1:
+  waiting:6.82
+  ag:1.81
+  withdraw:1.81
+  wallet:1.69
+  btc:1.38
+  coin:1.14
+  safe:1.10
+  didnt:0.92
+  days:0.84
+  good:0.75
+
+Topic 2:
+  waiting:3.70
+  ag:1.93
+  days:1.38
+  support:1.26
+  btc:1.18
+  safe:1.04
+  good:1.04
+  coin:1.02
+  wallet:0.80
+  weeks:0.77
+
+Topic 3:
+  ag:3.72
+  waiting:3.41
+  support:1.55
+  good:1.20
+  time:1.09
+  response:1.06
+  dont:1.02
+  days:0.87
+  btc:0.84
+  week:0.80
+
+Topic 4:
+  waiting:2.99
+  days:1.74
+  btc:1.41
+  support:1.32
+  ag:1.28
+  dnm:0.97
+  weeks:0.91
+  coin:0.87
+  safe:0.86
+  time:0.80
+
+K: 5, Log-Likelihood: -931.545, Alpha: 11.000, Beta: 1.100

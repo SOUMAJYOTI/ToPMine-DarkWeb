@@ -1,0 +1,15 @@
+ll,0,1
+youll,1,1
+js,2,1
+thread,3,2
+version,4,1
+pgp key,5,2
+stickied,6,2
+public,7,2
+find,8,2
+pgp,9,4
+comment,10,1
+openpgp,11,1
+block,12,2
+key,13,4
+board,14,2

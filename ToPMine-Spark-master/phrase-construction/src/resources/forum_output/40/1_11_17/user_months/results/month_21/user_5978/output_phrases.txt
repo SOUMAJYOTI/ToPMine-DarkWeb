@@ -1,0 +1,61 @@
+Topic 0:
+  ban:4.62
+  lizardlabs:1.51
+  wrote:1.42
+  batch:1.42
+  yeah:1.42
+  lizardlabs ship:1.42
+  proposed:1.42
+  newest:1.42
+  usa:1.42
+  sadly:1.42
+
+Topic 1:
+  free:2.71
+  box:1.50
+  toes:1.50
+  account dont:1.50
+  leave:1.50
+  fair:1.50
+  paid:1.50
+  blank:1.50
+  code:1.50
+  ops:1.50
+
+Topic 2:
+  drug:3.10
+  lsz:2.37
+  acmd:1.54
+  harm:1.49
+  openly:1.49
+  misuse:1.49
+  drugs:1.49
+  net:1.49
+  clear:1.49
+  named:1.49
+
+Topic 3:
+  prices:4.22
+  cheaper:2.76
+  payment:2.75
+  tab:2.75
+  guys:2.74
+  account:2.72
+  order:2.72
+  single:2.72
+  dont:2.72
+  crystal:2.67
+
+Topic 4:
+  al lad:2.13
+  tabs:1.37
+  orders:1.35
+  small:1.34
+  labs:1.25
+  lizard:1.25
+  lsz:1.17
+  trade:0.83
+  invite:0.59
+  prices:0.52
+
+K: 5, Log-Likelihood: -1458.434, Alpha: 11.000, Beta: 1.100

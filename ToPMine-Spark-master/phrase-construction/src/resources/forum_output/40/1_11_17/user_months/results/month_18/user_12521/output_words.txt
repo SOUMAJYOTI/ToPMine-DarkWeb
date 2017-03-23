@@ -1,0 +1,61 @@
+Topic 0:
+  vain:5.06
+  oli:4.56
+  mutta:4.40
+  jotain:4.09
+  myynniss:2.75
+  myyj:2.49
+  kapteenia:2.34
+  hyv:2.19
+  nain:2.15
+  olisi:2.12
+
+Topic 1:
+  ei:5.87
+  ett:5.53
+  kun:4.79
+  jos:4.26
+  ja:4.02
+  tilanne:3.97
+  kuin:3.89
+  kaikki:2.97
+  minen:2.97
+  sivuston:2.97
+
+Topic 2:
+  ja:10.44
+  mit:4.92
+  ei:4.17
+  ll:4.07
+  mutta:4.01
+  viesteihin:3.14
+  ett:2.98
+  jo:2.92
+  hyv:2.76
+  kuin:2.71
+
+Topic 3:
+  ei:4.63
+  en:2.52
+  vastaa:2.26
+  joko:1.67
+  kolikoita:1.66
+  rahoja:1.58
+  eik:1.57
+  tai:1.54
+  ja:1.52
+  oval:1.42
+
+Topic 4:
+  en:3.07
+  itse:2.96
+  tilaukset:2.74
+  niit:2.73
+  btc:2.71
+  oli:2.45
+  hei:2.16
+  kaikki:2.12
+  voisi:1.68
+  hiaikoina:1.58
+
+K: 5, Log-Likelihood: -5262.461, Alpha: 11.000, Beta: 1.100

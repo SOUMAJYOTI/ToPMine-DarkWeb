@@ -1,0 +1,61 @@
+Topic 0:
+  email:1.55
+  send:1.50
+  great:1.45
+  time:1.35
+  thing:1.05
+  order:1.04
+  wallet:1.03
+  bank:1.03
+  anx:0.96
+  deposit:0.90
+
+Topic 1:
+  find:4.80
+  cash:3.85
+  good:2.49
+  based:2.38
+  big:2.20
+  pretty:2.12
+  bitcoin:1.92
+  guys:1.85
+  fuck:1.85
+  win:1.85
+
+Topic 2:
+  key:4.00
+  public:2.76
+  message:2.76
+  find:2.69
+  pip:2.52
+  pgp:2.45
+  guide:1.86
+  encrusted:1.80
+  simple:1.80
+  software:1.70
+
+Topic 3:
+  built:1.34
+  email:1.21
+  pope:1.01
+  send:1.00
+  time:0.90
+  great:0.87
+  order:0.72
+  thing:0.71
+  kidding:0.68
+  tails:0.58
+
+Topic 4:
+  bank:4.42
+  service:2.67
+  time:2.66
+  services:2.65
+  account:2.63
+  deposit:2.62
+  great:2.58
+  anx:2.55
+  wallet:2.51
+  blond:1.25
+
+K: 5, Log-Likelihood: -1807.341, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  market:4.39
+  scam:3.18
+  sky:2.98
+  blue:2.21
+  listed:1.90
+  quote:1.71
+  march:1.51
+  time:1.50
+  sr:1.47
+  outted:1.32
+
+Topic 1:
+  blue:2.78
+  time:2.62
+  link:2.53
+  trading:2.44
+  citing:1.77
+  wondereing:1.77
+  operation:1.77
+  florida:1.77
+  btking:1.77
+  health:1.77
+
+Topic 2:
+  market:3.01
+  bsm:2.51
+  scam:1.98
+  markets:1.86
+  sky:1.44
+  traders:1.37
+  auto:1.18
+  guys:1.05
+  agora:0.92
+  blue:0.89
+
+Topic 3:
+  market:2.72
+  sky:2.63
+  scam:2.43
+  blue:1.92
+  bluesky:1.22
+  sr:1.13
+  quote:1.11
+  time:1.09
+  listed:0.85
+  goblin:0.82
+
+Topic 4:
+  scam:5.09
+  sky:4.55
+  market:4.55
+  march:3.34
+  listed:2.69
+  sr:2.41
+  blue:2.20
+  shifty:2.00
+  long:1.68
+  likes:1.64
+
+K: 5, Log-Likelihood: -1713.709, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  good:0.20
+  site:0.20
+  glad:0.20
+  board:0.20
+  valhalla:0.20
+  fast:0.20
+  wonderful:0.20
+  multi:0.20
+  sig:0.20
+  growing:0.20
+
+Topic 1:
+  link:0.20
+  security:0.20
+  glad:0.20
+  board:0.20
+  valhalla:0.20
+  tired:0.20
+  fast:0.20
+  growing:0.20
+  blanket:0.20
+  fe:0.20
+
+Topic 2:
+  board:0.20
+  link:0.20
+  hansa:0.20
+  glad:0.20
+  valhalla:0.20
+  site:0.20
+  good:0.20
+  tired:0.20
+  sig:0.20
+  fast:0.20
+
+Topic 3:
+  fe:0.20
+  people:0.20
+  sig:0.20
+  scammed:0.20
+  multi:0.20
+  wonderful:0.20
+  growing:0.20
+  security:0.20
+  blanket:0.20
+  fast:0.20
+
+Topic 4:
+  good:0.20
+  site:0.20
+  scammed:0.20
+  growing:0.20
+  wonderful:0.20
+  blanket:0.20
+  people:0.20
+  fe:0.20
+  security:0.20
+  tired:0.20
+
+K: 5, Log-Likelihood: -52.027, Alpha: 11.000, Beta: 1.100

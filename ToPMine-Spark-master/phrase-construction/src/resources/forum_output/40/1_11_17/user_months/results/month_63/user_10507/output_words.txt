@@ -1,0 +1,61 @@
+Topic 0:
+  users:1.99
+  system:1.22
+  encryption:1.06
+  flaw:0.99
+  user:0.93
+  compromise:0.92
+  windows:0.83
+  possibilities:0.66
+  publication:0.65
+  aware:0.65
+
+Topic 1:
+  users:1.63
+  avoid:1.47
+  pc:1.47
+  darknet:1.45
+  running:1.45
+  linux:1.45
+  operating:1.44
+  flaw:1.40
+  encryption:1.34
+  general:1.19
+
+Topic 2:
+  truecrypt:6.09
+  code:5.07
+  program:4.78
+  flaws:4.31
+  security:4.25
+  bugs:2.51
+  windows:2.50
+  project:2.49
+  veracrypt:1.91
+  cve:1.85
+
+Topic 3:
+  truecrypt:6.03
+  windows:2.16
+  program:1.41
+  system:1.33
+  users:1.18
+  code:1.12
+  security:1.06
+  veracrypt:1.05
+  flaws:0.96
+  vulnerabilities:0.91
+
+Topic 4:
+  truecrypt:4.05
+  windows:1.52
+  system:1.30
+  users:1.19
+  veracrypt:1.15
+  vulnerabilities:0.90
+  driver:0.87
+  code:0.70
+  program:0.69
+  flaws:0.63
+
+K: 5, Log-Likelihood: -1744.939, Alpha: 11.000, Beta: 1.100

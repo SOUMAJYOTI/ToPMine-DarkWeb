@@ -1,0 +1,61 @@
+Topic 0:
+  keys:8.48
+  public:6.08
+  time:4.70
+  cryptographic:3.95
+  trust:3.31
+  pgp:2.65
+  long:2.42
+  caught:2.16
+  encoded:1.95
+  content:1.95
+
+Topic 1:
+  bit:7.03
+  chose:3.17
+  length:2.92
+  vendors:2.81
+  longer:2.47
+  key:2.29
+  rsa:2.12
+  cracked:2.02
+  security:1.98
+  remember:1.92
+
+Topic 2:
+  key:18.22
+  keys:2.88
+  chose:1.40
+  cool:0.98
+  public:0.69
+  sigaints:0.47
+  generated:0.47
+  regular:0.47
+  wondering:0.47
+  time:0.39
+
+Topic 3:
+  bit:10.72
+  august:9.49
+  mate:7.83
+  pmquote:5.91
+  solov:5.86
+  fatherted:5.86
+  copy:5.80
+  follow:4.85
+  pgp:4.09
+  source:3.90
+
+Topic 4:
+  key:35.80
+  secret:16.88
+  machine:6.89
+  subkey:6.86
+  user:5.00
+  primary:4.99
+  list:4.90
+  files:4.90
+  gnupg:4.90
+  type:4.90
+
+K: 5, Log-Likelihood: -3817.459, Alpha: 11.000, Beta: 1.100

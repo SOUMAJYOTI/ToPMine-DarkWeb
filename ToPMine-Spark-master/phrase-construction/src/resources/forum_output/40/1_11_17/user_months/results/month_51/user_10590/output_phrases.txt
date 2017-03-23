@@ -1,0 +1,61 @@
+Topic 0:
+  expert:2.34
+  question:2.34
+  tutorials:2.34
+  ira:1.10
+  expose:1.10
+  shit:1.10
+  tools:1.10
+  difficult:1.10
+  simple:1.10
+  ton:1.10
+
+Topic 1:
+  completely anonymous:0.88
+  easy:0.55
+  idea:0.52
+  lemp:0.52
+  configure:0.51
+  lamp:0.51
+  onion site:0.51
+  wan:0.47
+  making:0.47
+  answers:0.47
+
+Topic 2:
+  pick:1.84
+  completely anonymous:1.35
+  skip:0.79
+  considered:0.79
+  step:0.79
+  server isnt:0.79
+  mind:0.79
+  studying:0.79
+  book:0.79
+  apache:0.79
+
+Topic 3:
+  tor:2.31
+  interesting:2.31
+  host:2.31
+  system:2.31
+  secure:1.77
+  hurt:1.07
+  open:1.07
+  xen:1.07
+  network:1.07
+  cat:1.07
+
+Topic 4:
+  layer:2.28
+  completely anonymous:1.05
+  secure onion:1.05
+  teh:1.05
+  drugs:1.05
+  decloaking:1.05
+  start:1.05
+  bottom:1.05
+  nice:1.05
+  basin:1.04
+
+K: 5, Log-Likelihood: -951.655, Alpha: 11.000, Beta: 1.100

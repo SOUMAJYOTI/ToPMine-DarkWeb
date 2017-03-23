@@ -1,0 +1,61 @@
+Topic 0:
+  quote:2.81
+  guide:2.52
+  heard:2.52
+  ill:2.52
+  knew:2.52
+  tails:2.48
+  schuldig:2.14
+  pmit:1.76
+  iceweasel:1.76
+  opened:1.76
+
+Topic 1:
+  client side:20.46
+  bitrated:18.99
+  alice:14.59
+  service:14.59
+  transaction:14.59
+  arbitrator:11.66
+  bob:11.66
+  bob alice:11.66
+  public key:8.73
+  multisig:8.73
+
+Topic 2:
+  urge:2.82
+  pgp club:2.82
+  legendary:2.82
+  swing:2.82
+  folks:2.82
+  multisig club:2.82
+  organizing:2.82
+  sr:2.82
+  glad:2.82
+  bitcents:2.82
+
+Topic 3:
+  good:2.55
+  full:1.78
+  hands:1.78
+  read:1.78
+  confidence:1.78
+  vendors:1.78
+  interesting:1.78
+  concept:1.78
+  personally:1.78
+  trusted:1.78
+
+Topic 4:
+  persistent volume:16.81
+  tails:16.11
+  computer:9.32
+  system:9.32
+  drive:9.32
+  pass phrase:7.45
+  tor:7.45
+  select tails:5.58
+  latest version:5.58
+  save:5.58
+
+K: 5, Log-Likelihood: -12324.877, Alpha: 11.000, Beta: 1.100

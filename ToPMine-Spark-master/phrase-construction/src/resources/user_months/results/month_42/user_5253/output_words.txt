@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:0.74
+  find:0.62
+  active:0.61
+  forum:0.61
+  market:0.60
+  ll:0.40
+  admins:0.40
+  reliable:0.40
+  decide:0.40
+  post:0.40
+
+Topic 1:
+  vendors:0.87
+  forum:0.59
+  active:0.59
+  find:0.59
+  market:0.51
+  ll:0.42
+  money:0.42
+  trustworthy:0.42
+  directly:0.42
+  post:0.42
+
+Topic 2:
+  vendors:0.84
+  active:0.61
+  forum:0.60
+  find:0.58
+  market:0.56
+  youll:0.42
+  involved:0.41
+  reviews:0.41
+  front:0.41
+  directly:0.41
+
+Topic 3:
+  vendors:0.75
+  market:0.72
+  find:0.61
+  forum:0.60
+  active:0.60
+  ll:0.38
+  post:0.38
+  front:0.38
+  vendor:0.38
+  pay:0.38
+
+Topic 4:
+  vendors:0.79
+  market:0.60
+  forum:0.60
+  find:0.60
+  active:0.59
+  contact:0.41
+  youll:0.41
+  decide:0.40
+  reliable:0.40
+  involved:0.40
+
+K: 5, Log-Likelihood: -243.285, Alpha: 11.000, Beta: 1.100

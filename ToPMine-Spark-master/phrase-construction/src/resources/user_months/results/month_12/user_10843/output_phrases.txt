@@ -1,0 +1,61 @@
+Topic 0:
+  access:6.97
+  admin:4.65
+  vibes:4.63
+  good:4.33
+  yeah:3.81
+  people:3.08
+  agora:3.02
+  share poor hungry homeless:3.00
+  gon happen:2.92
+  buyers:2.30
+
+Topic 1:
+  agora:5.21
+  bruteforce:4.66
+  disconnected:4.66
+  database:4.66
+  check file:4.66
+  markets:4.31
+  user:3.79
+  competitor:2.31
+  solution:2.31
+  worse:2.31
+
+Topic 2:
+  forum sr close repaying:4.87
+  customers lost funds dosing:4.87
+  liable interesting theory post:4.87
+  commissions pretty reasonable idea:4.87
+  agora order divert customers:4.87
+  speed leg repayment process:4.87
+  june ami:3.81
+  dos attack exact uri:3.81
+  dont attack:3.81
+  logic fine click login:3.81
+
+Topic 3:
+  market:6.60
+  tor baazar:4.91
+  read:4.62
+  option:4.62
+  entire:3.84
+  pissing:3.84
+  months:3.84
+  sky:3.84
+  time move:3.84
+  dealing:3.84
+
+Topic 4:
+  overloading bandwidth:7.68
+  cloud:7.02
+  attack:6.84
+  order:5.74
+  glass half empty positivity:4.78
+  offline equivalent gop support:4.67
+  government healthcare quote trees:4.67
+  behaviour:4.64
+  rational logical:4.64
+  quote evilgrin june pmprotip:4.32
+
+K: 5, Log-Likelihood: -5730.745, Alpha: 11.000, Beta: 1.100

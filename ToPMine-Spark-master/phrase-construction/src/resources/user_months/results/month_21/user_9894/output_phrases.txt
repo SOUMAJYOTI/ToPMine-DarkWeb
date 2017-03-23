@@ -1,0 +1,61 @@
+Topic 0:
+  cash:12.71
+  ip:10.50
+  tor:9.92
+  email address:7.99
+  access tor:7.99
+  blockchain wallet tor:7.98
+  onion:6.01
+  cleaner:6.01
+  exploitable:5.23
+  buy bitcoin:5.23
+
+Topic 1:
+  wallet:13.92
+  activities:10.54
+  money:5.80
+  keeping:5.26
+  sale:5.26
+  putting:5.26
+  ditch:5.26
+  time wallet:5.26
+  realized:5.26
+  bitin security:5.26
+
+Topic 2:
+  public:10.51
+  jamaiza:7.01
+  quote jamaiza july:6.87
+  clearnet mixers:6.75
+  forums:6.05
+  anonymous personally:5.23
+  question:5.23
+  gusty:5.23
+  hiring:5.23
+  bitin:5.23
+
+Topic 3:
+  don:12.88
+  wallets:10.65
+  identity:10.52
+  safe:9.11
+  dont:7.50
+  wallet:7.32
+  time mixing:6.90
+  lot:5.24
+  find:5.24
+  balance:5.24
+
+Topic 4:
+  list:8.36
+  clearnet:7.92
+  swam:6.03
+  evilgrin:6.01
+  wouldn risk:6.00
+  saved:5.19
+  scoping:5.18
+  safest:5.18
+  true:5.18
+  thing:5.18
+
+K: 5, Log-Likelihood: -11660.932, Alpha: 11.000, Beta: 1.100

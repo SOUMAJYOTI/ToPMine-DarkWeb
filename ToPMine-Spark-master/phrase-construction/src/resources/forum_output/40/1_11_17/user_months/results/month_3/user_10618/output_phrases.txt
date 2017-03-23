@@ -1,0 +1,61 @@
+Topic 0:
+  ssbd:5.49
+  extradition offence:5.16
+  silk road:4.69
+  dread pirate roberts:4.22
+  extradition:3.93
+  moderator silk road discussion:3.75
+  extradition treaty:3.16
+  conduct:3.05
+  financial transactions:2.77
+  sex:2.62
+
+Topic 1:
+  silk road:12.26
+  nash:10.15
+  conduct:10.13
+  extradition:7.01
+  australia:6.37
+  extradition offence:5.81
+  administration:5.40
+  moderator silk road discussion:5.03
+  forums:5.00
+  dread pirate roberts:4.56
+
+Topic 2:
+  silk road:5.45
+  employed:4.38
+  service:4.38
+  launder:4.38
+  court wednesday:4.07
+  prison forensic disability:3.62
+  brisbane:3.53
+  december:3.16
+  ssbd:2.73
+  prosecutors:2.18
+
+Topic 3:
+  tractor paper:7.12
+  february:5.39
+  courts:4.46
+  barge:3.54
+  wave:3.54
+  file:3.54
+  citizen:3.54
+  nonsense:3.54
+  remember:3.54
+  justice:3.54
+
+Topic 4:
+  nash:14.25
+  silk road:9.18
+  courier mail:6.58
+  named:4.38
+  unit:4.38
+  allegedly:4.38
+  arrest:4.38
+  understands:4.38
+  senior:4.38
+  servant:4.38
+
+K: 5, Log-Likelihood: -13060.893, Alpha: 11.000, Beta: 1.100

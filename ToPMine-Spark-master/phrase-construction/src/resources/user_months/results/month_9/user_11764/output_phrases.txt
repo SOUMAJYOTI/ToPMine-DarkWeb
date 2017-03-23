@@ -1,0 +1,61 @@
+Topic 0:
+  uri:0.24
+  forum:0.16
+  scam:0.16
+  recommended:0.08
+  christmas:0.08
+  access:0.08
+  swam:0.08
+  quote:0.08
+  le:0.08
+  bitcoins:0.08
+
+Topic 1:
+  uri:0.24
+  forum:0.16
+  scam:0.16
+  warning:0.08
+  march:0.08
+  reddit:0.08
+  hacked:0.08
+  gained:0.08
+  marketplacesmarketplace:0.08
+  pmsilk:0.08
+
+Topic 2:
+  uri:0.24
+  scam:0.16
+  forum:0.16
+  dont:0.08
+  comprised:0.08
+  mods:0.08
+  stolen:0.08
+  recommended:0.08
+  reddit:0.08
+  ou:0.08
+
+Topic 3:
+  uri:0.24
+  scam:0.16
+  forum:0.16
+  site:0.08
+  hacked:0.08
+  quote:0.08
+  march:0.08
+  gained:0.08
+  allsite:0.08
+  warning:0.08
+
+Topic 4:
+  uri:0.24
+  forum:0.16
+  scam:0.16
+  mods:0.08
+  comprised:0.08
+  dont:0.08
+  christmas:0.08
+  marketplacesmarketplace:0.08
+  site:0.08
+  road:0.08
+
+K: 5, Log-Likelihood: -37.990, Alpha: 11.000, Beta: 1.100

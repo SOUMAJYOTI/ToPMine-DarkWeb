@@ -1,0 +1,61 @@
+Topic 0:
+  pit:1.22
+  mutta:1.11
+  seaman:0.76
+  bilhan:0.76
+  keen:0.76
+  aikalailla:0.76
+  uudestaan:0.76
+  kerralla:0.76
+  suurkuluttaja:0.76
+  kohtuu:0.76
+
+Topic 1:
+  ja:3.66
+  ei:1.90
+  euroa:1.64
+  ku:1.64
+  iv:1.64
+  silkkitien:1.64
+  kautta:1.26
+  tapahtui:0.71
+  sanoa:0.71
+  iltap:0.71
+
+Topic 2:
+  ll:2.62
+  lis:2.50
+  viikolla:1.12
+  ksi:1.12
+  tulossa:1.11
+  viel:1.10
+  niin:1.09
+  kertaa:1.08
+  maksun:1.08
+  tyy:1.08
+
+Topic 3:
+  mutta:0.66
+  sek:0.61
+  ll:0.57
+  vaihtoehtona:0.54
+  eik:0.54
+  elk:0.54
+  miinusta:0.54
+  yli:0.54
+  muka:0.54
+  ollut:0.54
+
+Topic 4:
+  ll:1.12
+  kautta:1.05
+  mutta:0.83
+  viel:0.77
+  ksi:0.75
+  tulossa:0.75
+  viikolla:0.74
+  lis:0.63
+  ja:0.54
+  pulverinoita:0.49
+
+K: 5, Log-Likelihood: -1211.722, Alpha: 11.000, Beta: 1.100

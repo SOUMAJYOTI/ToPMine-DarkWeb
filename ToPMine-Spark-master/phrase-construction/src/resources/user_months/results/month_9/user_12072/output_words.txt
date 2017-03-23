@@ -1,0 +1,61 @@
+Topic 0:
+  sites:6.87
+  main:2.88
+  tba:2.65
+  scammers:1.88
+  trade:1.88
+  buyers:1.13
+  vendors:1.11
+  business:0.98
+  site:0.97
+  slow:0.93
+
+Topic 1:
+  people:2.83
+  lots:1.40
+  security:1.37
+  stuff:1.33
+  push:1.19
+  mst:0.73
+  computer:0.73
+  peoples:0.72
+  heads:0.72
+  hard:0.72
+
+Topic 2:
+  good:2.88
+  site:2.31
+  market:2.07
+  folks:1.88
+  time:1.88
+  free:1.88
+  couple:1.88
+  things:1.88
+  guess:1.88
+  forum:0.89
+
+Topic 3:
+  tba:3.95
+  days:1.77
+  vendors:1.64
+  buyers:1.63
+  orders:1.63
+  sr:1.45
+  people:1.02
+  agora:0.92
+  months:0.92
+  links:0.81
+
+Topic 4:
+  stuff:2.50
+  security:2.46
+  lots:2.43
+  people:1.99
+  agra:1.16
+  buying:1.15
+  bazzar:1.15
+  smart:1.15
+  listings:1.15
+  works:1.15
+
+K: 5, Log-Likelihood: -1077.325, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  shadow wallet:2.82
+  site:1.86
+  mentioned:1.82
+  allways:1.67
+  check:1.67
+  helix helix:1.67
+  youll:1.67
+  tumblers:1.67
+  fast:1.67
+  coins darknet:1.67
+
+Topic 1:
+  store coins:4.30
+  cold storage:2.87
+  longer:1.84
+  year:1.83
+  indefinitely:1.83
+  bitcoinfog:1.81
+  impossible:1.81
+  helps:1.80
+  create:1.80
+  address:1.80
+
+Topic 2:
+  cold storage:1.80
+  angel eyes pmbitblender worked:1.43
+  seve wallet tumbler:1.30
+  bitblender:1.23
+  store coins:1.20
+  bitcoinfog original angel eyes:1.19
+  quote:1.16
+  hope:1.12
+  wallet:1.01
+  steal:0.84
+
+Topic 3:
+  shadow wallet:2.64
+  local:2.28
+  trust:2.27
+  coin:2.26
+  client:2.26
+  user:1.77
+  stored:1.68
+  interested:1.68
+  surprising:1.68
+  pmwhy:1.68
+
+Topic 4:
+  cold storage:1.40
+  quote:1.35
+  angel eyes pmbitblender worked:1.24
+  bitblender:0.96
+  wallet:0.91
+  hope:0.88
+  bitcoinfog original angel eyes:0.88
+  seve wallet tumbler:0.86
+  armory:0.74
+  offers:0.73
+
+K: 5, Log-Likelihood: -1161.817, Alpha: 11.000, Beta: 1.100

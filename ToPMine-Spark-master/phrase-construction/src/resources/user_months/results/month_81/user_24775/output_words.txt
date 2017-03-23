@@ -1,0 +1,61 @@
+Topic 0:
+  telegram:21.72
+  signal:8.90
+  people:3.93
+  quote:3.64
+  card:3.36
+  owned:2.94
+  moxie:2.94
+  open:2.94
+  ill:2.72
+  systems:2.44
+
+Topic 1:
+  qubes:9.00
+  usb:6.76
+  good:5.73
+  whonix:4.28
+  vpowerr:4.25
+  boot:4.00
+  quote:3.64
+  live:3.57
+  os:3.21
+  tails:3.07
+
+Topic 2:
+  lbc:13.80
+  tor:8.69
+  set:4.98
+  account:4.75
+  mentions:3.63
+  quote:3.62
+  meet:3.49
+  card:3.17
+  vpn:3.13
+  media:3.11
+
+Topic 3:
+  qubes:10.68
+  install:8.43
+  drive:7.23
+  flash:6.81
+  screen:5.90
+  recommended:3.96
+  hardware:3.96
+  gb:3.90
+  trouble:3.90
+  blue:3.90
+
+Topic 4:
+  qubes:26.17
+  download:15.59
+  notable:11.88
+  downloading:8.68
+  usb:6.48
+  site:6.08
+  drive:5.12
+  step:5.03
+  verifying:4.45
+  torrent:4.43
+
+K: 5, Log-Likelihood: -5919.192, Alpha: 11.000, Beta: 1.100

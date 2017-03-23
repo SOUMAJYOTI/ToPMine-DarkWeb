@@ -1,0 +1,61 @@
+Topic 0:
+  area:0.68
+  people:0.54
+  marketplace verified vendor:0.48
+  advertise goods link:0.48
+  captain jack:0.47
+  thousands:0.47
+  workers:0.44
+  great:0.40
+  crazyness:0.32
+  post:0.32
+
+Topic 1:
+  check:0.81
+  insidethewhaleplease:0.79
+  supplier:0.71
+  marketplace verified vendor:0.50
+  advertise goods link:0.50
+  captain jack:0.50
+  agra:0.40
+  stock:0.37
+  happy shopping:0.36
+  great:0.35
+
+Topic 2:
+  workers:2.19
+  thousands:2.16
+  people:2.09
+  area:1.33
+  perpetrators:0.96
+  emigrant:0.96
+  production:0.96
+  brings:0.96
+  drug:0.96
+  gdp:0.96
+
+Topic 3:
+  happy shopping:1.28
+  advertise goods link marketplace:1.19
+  questions:1.18
+  verified vendor captain jack:1.18
+  reliable:0.85
+  postage:0.85
+  professional:0.84
+  steroid:0.84
+  special:0.79
+  fe:0.79
+
+Topic 4:
+  stock:2.28
+  agra:2.24
+  wewould:0.99
+  albania:0.99
+  response:0.99
+  express:0.99
+  government:0.99
+  untouchable:0.99
+  existing:0.99
+  remaining:0.99
+
+K: 5, Log-Likelihood: -881.873, Alpha: 11.000, Beta: 1.100

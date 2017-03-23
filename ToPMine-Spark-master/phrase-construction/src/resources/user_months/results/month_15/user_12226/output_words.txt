@@ -1,0 +1,61 @@
+Topic 0:
+  ja:11.43
+  fe:7.77
+  oli:5.54
+  kun:4.71
+  rahat:4.20
+  miten:3.91
+  toki:3.90
+  kaikki:3.69
+  aiheesta:3.03
+  olla:2.97
+
+Topic 1:
+  siell:2.67
+  ett:2.08
+  se:1.89
+  joskus:1.89
+  tms:1.78
+  kapteeni:1.76
+  ei:1.63
+  tulossa:1.54
+  jotain:1.54
+  silkkitien:1.52
+
+Topic 2:
+  jos:2.42
+  ei:1.88
+  aiheesta:1.33
+  uutisia:1.22
+  yht:1.22
+  music:1.22
+  kumota:1.22
+  eip:1.21
+  ss:1.13
+  silkkitie:1.11
+
+Topic 3:
+  ja:6.97
+  ei:2.96
+  kaikki:2.41
+  ll:1.84
+  ett:1.48
+  hyv:1.25
+  mit:1.14
+  jo:1.14
+  meid:1.12
+  mutta:1.11
+
+Topic 4:
+  ja:7.06
+  nain:2.85
+  kaikki:2.75
+  kyll:2.53
+  mik:2.53
+  itse:2.47
+  tied:2.46
+  ei:2.42
+  jo:2.26
+  mutta:2.22
+
+K: 5, Log-Likelihood: -3623.636, Alpha: 11.000, Beta: 1.100

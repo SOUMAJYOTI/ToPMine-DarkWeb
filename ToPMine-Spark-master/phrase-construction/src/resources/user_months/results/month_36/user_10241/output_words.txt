@@ -1,0 +1,61 @@
+Topic 0:
+  agora:2.73
+  market:1.64
+  register:1.25
+  abraxas:1.16
+  account:0.88
+  forum:0.87
+  heard:0.87
+  dreammarket:0.86
+  referred:0.82
+  markets:0.65
+
+Topic 1:
+  market:2.39
+  site:1.14
+  markets:1.07
+  agora:0.90
+  quote:0.89
+  heard:0.86
+  dreammarket:0.82
+  button:0.78
+  collect:0.75
+  forums:0.71
+
+Topic 2:
+  agora:1.45
+  issues:1.39
+  heard:1.21
+  dreammarket:1.12
+  time:1.03
+  market:0.92
+  good:0.90
+  abraham:0.90
+  agra:0.88
+  abraxas:0.86
+
+Topic 3:
+  market:2.02
+  dreammarket:1.80
+  heard:1.66
+  agora:1.65
+  quote:1.16
+  december:1.05
+  referred:0.98
+  evolutions:0.93
+  register:0.85
+  markets:0.82
+
+Topic 4:
+  collect:2.77
+  button:2.73
+  site:2.67
+  market:2.03
+  listings:1.28
+  forums:1.27
+  exercise:1.21
+  youve:1.21
+  datathis:1.21
+  hoping:1.21
+
+K: 5, Log-Likelihood: -1177.423, Alpha: 11.000, Beta: 1.100

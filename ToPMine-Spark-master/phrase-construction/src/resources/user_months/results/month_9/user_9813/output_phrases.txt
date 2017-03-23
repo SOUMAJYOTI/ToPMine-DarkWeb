@@ -1,0 +1,61 @@
+Topic 0:
+  talk:0.41
+  sort:0.37
+  moving:0.37
+  lsd:0.37
+  market:0.36
+  find:0.20
+  return:0.18
+  offer:0.18
+  account:0.18
+  accounts:0.18
+
+Topic 1:
+  talk:0.41
+  market:0.37
+  moving:0.37
+  sort:0.37
+  lsd:0.37
+  find:0.20
+  leave:0.18
+  fumes:0.18
+  producing:0.18
+  mescaline:0.18
+
+Topic 2:
+  talk:0.41
+  sort:0.37
+  lsd:0.37
+  moving:0.37
+  market:0.37
+  find:0.20
+  black:0.18
+  mescaline:0.18
+  disturbance:0.18
+  opinion:0.18
+
+Topic 3:
+  talk:0.41
+  moving:0.36
+  market:0.36
+  lsd:0.36
+  sort:0.36
+  find:0.20
+  register:0.19
+  offer:0.19
+  accounts:0.19
+  password:0.19
+
+Topic 4:
+  talk:0.41
+  market:0.37
+  lsd:0.37
+  moving:0.37
+  sort:0.37
+  find:0.20
+  password:0.18
+  darknet:0.18
+  forgot:0.18
+  link:0.18
+
+K: 5, Log-Likelihood: -248.330, Alpha: 11.000, Beta: 1.100

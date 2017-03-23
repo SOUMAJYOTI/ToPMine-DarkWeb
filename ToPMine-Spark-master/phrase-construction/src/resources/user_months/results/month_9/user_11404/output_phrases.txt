@@ -1,0 +1,61 @@
+Topic 0:
+  cut:0.00
+  bad:0.00
+  bmr:0.00
+  idea:0.00
+  fuck:0.00
+  bragging:0.00
+  vegetable:0.00
+  good:0.00
+  manali:0.00
+  remember:0.00
+
+Topic 1:
+  cut:0.00
+  bad:0.00
+  bmr:0.00
+  idea:0.00
+  fuck:0.00
+  bragging:0.00
+  vegetable:0.00
+  good:0.00
+  manali:0.00
+  remember:0.00
+
+Topic 2:
+  cut:0.00
+  bad:0.00
+  bmr:0.00
+  idea:0.00
+  fuck:0.00
+  bragging:0.00
+  vegetable:0.00
+  good:0.00
+  manali:0.00
+  remember:0.00
+
+Topic 3:
+  cut:0.00
+  bad:0.00
+  bmr:0.00
+  idea:0.00
+  fuck:0.00
+  bragging:0.00
+  vegetable:0.00
+  good:0.00
+  manali:0.00
+  remember:0.00
+
+Topic 4:
+  cut:0.00
+  bad:0.00
+  bmr:0.00
+  idea:0.00
+  fuck:0.00
+  bragging:0.00
+  vegetable:0.00
+  good:0.00
+  manali:0.00
+  remember:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

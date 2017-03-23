@@ -1,0 +1,61 @@
+Topic 0:
+  bust:3.24
+  sign:2.89
+  cops:2.82
+  dealer:2.55
+  years:2.46
+  offer:2.46
+  time:2.08
+  deal:1.91
+  friend:1.89
+  buy:1.89
+
+Topic 1:
+  le:1.81
+  law:0.83
+  scene:0.55
+  technique:0.55
+  dangerous:0.55
+  organixinformers:0.55
+  officers:0.55
+  vendors:0.55
+  tool:0.55
+  helped:0.55
+
+Topic 2:
+  people:4.89
+  emmet:4.89
+  august:2.89
+  hub:1.95
+  dont:1.93
+  reddit:1.89
+  pmquote:1.89
+  logged:1.89
+  jabber:1.89
+  discussion:1.89
+
+Topic 3:
+  cops:5.41
+  things:3.16
+  evidence:2.90
+  drugs:2.90
+  break:2.31
+  sell:2.07
+  cop:2.07
+  doesnt:2.04
+  lot:1.90
+  illegal:1.90
+
+Topic 4:
+  cops:2.33
+  user:1.69
+  sick:1.69
+  town:1.68
+  free:0.84
+  users:0.76
+  score:0.76
+  long:0.76
+  gain:0.76
+  undercover:0.76
+
+K: 5, Log-Likelihood: -1646.486, Alpha: 11.000, Beta: 1.100

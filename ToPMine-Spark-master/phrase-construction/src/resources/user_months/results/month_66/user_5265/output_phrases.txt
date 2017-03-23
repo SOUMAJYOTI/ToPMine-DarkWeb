@@ -1,0 +1,61 @@
+Topic 0:
+  shrooms:3.03
+  appreciation:3.03
+  happen donate:3.03
+  sign:3.03
+  tmg erowid:3.03
+  pack:3.03
+  running:2.51
+  busy:1.94
+  actual:1.94
+  guaranteed:1.94
+
+Topic 1:
+  free:3.71
+  maps:3.10
+  verify:3.08
+  buy tickets:2.95
+  december:2.94
+  people:2.87
+  win:2.87
+  vendors donate:2.87
+  stuff vendors:2.87
+  winners:2.87
+
+Topic 2:
+  number:5.02
+  tickets:4.42
+  random number:4.33
+  source:4.00
+  autonomy:3.42
+  winning:3.39
+  bits:3.34
+  unpredictability:3.26
+  drawing:3.25
+  consistency:3.24
+
+Topic 3:
+  service:1.96
+  random number:1.69
+  technology:1.68
+  tickets:1.59
+  source:1.47
+  public:1.10
+  blockchain:1.03
+  numbers:1.01
+  number:1.00
+  fair:0.88
+
+Topic 4:
+  member:3.97
+  pc:3.08
+  usa:3.08
+  idea:3.08
+  felt:3.08
+  obvious:3.08
+  tor address:3.08
+  risk:3.08
+  access erowid:3.03
+  erowid:2.48
+
+K: 5, Log-Likelihood: -2794.414, Alpha: 11.000, Beta: 1.100

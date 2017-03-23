@@ -1,0 +1,61 @@
+Topic 0:
+  quote penderecki november:5.43
+  locking machine lenovo code:4.49
+  libreboot seabios good:4.49
+  burning fuses cpu:4.49
+  version electrum:4.38
+  freedom:3.59
+  firmware:3.59
+  decide:3.59
+  prevent:3.59
+  control:3.59
+
+Topic 1:
+  models:3.48
+  amd:2.45
+  purely:2.21
+  lenovos:2.21
+  asshole:2.21
+  burn:2.21
+  chromebooks coreboot:2.21
+  state:2.21
+  depends:2.21
+  amt:2.21
+
+Topic 2:
+  boot:5.17
+  coreboot:4.45
+  series:4.45
+  key:4.45
+  burned:4.45
+  signed:4.45
+  tho:4.37
+  afaik:3.61
+  chromebook:3.57
+  open:3.53
+
+Topic 3:
+  select:11.23
+  file manager:8.98
+  electrum:6.73
+  click:6.73
+  tor browser:6.73
+  click electrum tar gz:6.73
+  double click electrum:6.73
+  quit:4.48
+  persistent:4.48
+  file:4.48
+
+Topic 4:
+  intel:5.29
+  backdoors:4.46
+  prefer:4.46
+  provided:4.46
+  software:3.54
+  android:3.49
+  manage:3.49
+  nasty:3.49
+  runs:3.49
+  iam chromebooks:3.49
+
+K: 5, Log-Likelihood: -4259.129, Alpha: 11.000, Beta: 1.100

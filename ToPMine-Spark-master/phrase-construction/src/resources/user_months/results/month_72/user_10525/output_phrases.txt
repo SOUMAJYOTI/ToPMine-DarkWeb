@@ -1,0 +1,61 @@
+Topic 0:
+  weeks:1.99
+  question:1.93
+  account:1.52
+  fake ids:1.41
+  cards:1.41
+  laminate:1.41
+  sh:1.41
+  havent:1.41
+  professional:1.41
+  making:1.41
+
+Topic 1:
+  bunce:2.65
+  identity theft:2.45
+  sachs:2.41
+  money:2.29
+  months:2.12
+  welch:2.10
+  job:1.94
+  year:1.86
+  dcfs:1.84
+  jerry phillips:1.82
+
+Topic 2:
+  beginer:3.19
+  rules:3.13
+  dead:1.62
+  victimless:1.61
+  doubt:1.60
+  babies:1.43
+  real state:1.43
+  mail:1.43
+  real fake:1.43
+  dont hub:1.43
+
+Topic 3:
+  year:1.16
+  bunce:1.14
+  money:1.09
+  months:1.07
+  identity theft:1.05
+  quote tambourine january:1.04
+  blood:1.01
+  welch:0.91
+  john harrison:0.91
+  agents:0.89
+
+Topic 4:
+  year:2.39
+  welch:2.36
+  months:2.23
+  sachs:2.21
+  money:2.01
+  identity theft:1.92
+  bunce:1.68
+  wachovia:1.56
+  credit card:1.50
+  identity:1.47
+
+K: 5, Log-Likelihood: -5951.364, Alpha: 11.000, Beta: 1.100

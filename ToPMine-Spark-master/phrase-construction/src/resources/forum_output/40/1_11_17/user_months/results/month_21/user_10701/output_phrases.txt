@@ -1,0 +1,61 @@
+Topic 0:
+  device:0.51
+  days:0.34
+  mobile:0.34
+  create:0.25
+  quote:0.25
+  patrik:0.25
+  amvery:0.25
+  iphoneso:0.25
+  account:0.25
+  september:0.25
+
+Topic 1:
+  device:0.51
+  days:0.34
+  mobile:0.34
+  completely:0.25
+  youll:0.25
+  impossible:0.25
+  os:0.25
+  reinstall:0.25
+  reformat:0.25
+  phone:0.25
+
+Topic 2:
+  device:0.51
+  mobile:0.34
+  days:0.34
+  iphoneso:0.25
+  amvery:0.25
+  account:0.25
+  september:0.25
+  create:0.25
+  quote:0.25
+  patrik:0.25
+
+Topic 3:
+  device:0.51
+  days:0.34
+  mobile:0.34
+  reformat:0.25
+  completely:0.25
+  os:0.25
+  version:0.25
+  impossible:0.25
+  reinstall:0.25
+  apple:0.25
+
+Topic 4:
+  device:0.51
+  days:0.34
+  mobile:0.34
+  quote:0.25
+  patrik:0.25
+  amvery:0.25
+  account:0.25
+  iphoneso:0.25
+  september:0.25
+  create:0.25
+
+K: 5, Log-Likelihood: -134.663, Alpha: 11.000, Beta: 1.100

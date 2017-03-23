@@ -1,0 +1,61 @@
+Topic 0:
+  ss:0.47
+  esim:0.47
+  prepaid:0.31
+  siirr:0.31
+  bitcoin lompakkoon:0.31
+  virkavalta:0.31
+  kuin:0.31
+  ja:0.31
+  ett:0.31
+  silkkitien:0.31
+
+Topic 1:
+  esim:0.50
+  ss:0.50
+  miten:0.33
+  rahaliikennett:0.33
+  ja:0.33
+  silkkitien:0.33
+  ett:0.33
+  st:0.33
+  siirr:0.33
+  prepaid:0.32
+
+Topic 2:
+  kautta:0.95
+  suoraan:0.55
+  saan:0.39
+  siirretty:0.39
+  bitcoin:0.26
+  ss:0.23
+  esim:0.23
+  semi:0.22
+  konstia:0.22
+  pankkitunnuksillasi:0.22
+
+Topic 3:
+  esim:0.52
+  ss:0.51
+  bitcoin lompakkoon:0.33
+  st:0.33
+  virkavalta:0.33
+  silkkitien:0.33
+  ett:0.33
+  ja:0.33
+  kuin:0.33
+  prepaid:0.33
+
+Topic 4:
+  kautta:0.37
+  ss:0.37
+  esim:0.36
+  siirretty:0.31
+  saan:0.31
+  suoraan:0.26
+  siirr:0.25
+  kuin:0.25
+  st:0.25
+  virkavalta:0.25
+
+K: 5, Log-Likelihood: -825.358, Alpha: 11.000, Beta: 1.100

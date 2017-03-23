@@ -1,0 +1,46 @@
+Topic 0:
+  guys:0.20
+  bought:0.20
+  escrow:0.20
+  ludes:0.20
+  evo:0.20
+  ad:0.20
+  offer:0.20
+
+Topic 1:
+  offer:0.20
+  evo:0.20
+  ludes:0.20
+  escrow:0.20
+  bought:0.20
+  ad:0.20
+  guys:0.20
+
+Topic 2:
+  ludes:0.20
+  escrow:0.20
+  offer:0.20
+  bought:0.20
+  ad:0.20
+  guys:0.20
+  evo:0.20
+
+Topic 3:
+  ad:0.20
+  bought:0.20
+  ludes:0.20
+  guys:0.20
+  evo:0.20
+  offer:0.20
+  escrow:0.20
+
+Topic 4:
+  evo:0.20
+  escrow:0.20
+  ad:0.20
+  offer:0.20
+  ludes:0.20
+  guys:0.20
+  bought:0.20
+
+K: 5, Log-Likelihood: -13.621, Alpha: 11.000, Beta: 1.100

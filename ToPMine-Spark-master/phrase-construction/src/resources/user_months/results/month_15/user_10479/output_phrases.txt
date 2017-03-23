@@ -1,0 +1,51 @@
+Topic 0:
+  spamming:0.00
+  hub:0.00
+  eve:0.00
+  busy:0.00
+  point:0.00
+  autocancellation:0.00
+  order:0.00
+  verge:0.00
+
+Topic 1:
+  spamming:0.00
+  hub:0.00
+  eve:0.00
+  busy:0.00
+  point:0.00
+  autocancellation:0.00
+  order:0.00
+  verge:0.00
+
+Topic 2:
+  spamming:0.00
+  hub:0.00
+  eve:0.00
+  busy:0.00
+  point:0.00
+  autocancellation:0.00
+  order:0.00
+  verge:0.00
+
+Topic 3:
+  spamming:0.00
+  hub:0.00
+  eve:0.00
+  busy:0.00
+  point:0.00
+  autocancellation:0.00
+  order:0.00
+  verge:0.00
+
+Topic 4:
+  spamming:0.00
+  hub:0.00
+  eve:0.00
+  busy:0.00
+  point:0.00
+  autocancellation:0.00
+  order:0.00
+  verge:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

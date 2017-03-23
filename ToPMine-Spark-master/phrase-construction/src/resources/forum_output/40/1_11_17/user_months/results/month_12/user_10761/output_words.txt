@@ -1,0 +1,61 @@
+Topic 0:
+  memory:17.28
+  xp:10.05
+  installed:8.76
+  load:7.86
+  swapfile:7.66
+  siblings:6.92
+  playground:5.98
+  quote:5.96
+  log:5.76
+  gig:5.76
+
+Topic 1:
+  file:36.29
+  ccrypt:26.91
+  symmetry:15.94
+  gpg:15.73
+  files:15.25
+  encryption:14.76
+  txt:14.71
+  encrypt:13.78
+  decrypt:11.66
+  original:10.69
+
+Topic 2:
+  files:11.61
+  pdf:9.43
+  day:7.10
+  happyplayground:7.02
+  postscript:7.00
+  quote:6.93
+  nice:6.32
+  documents:5.48
+  playground:5.44
+  access:5.31
+
+Topic 3:
+  gold:16.44
+  bitcoin:13.90
+  silver:12.96
+  banks:10.93
+  bank:9.99
+  legislation:8.99
+  bail:8.99
+  litecoin:8.97
+  money:8.94
+  price:8.92
+
+Topic 4:
+  windows:39.03
+  drive:35.63
+  files:30.99
+  program:14.15
+  machine:13.89
+  key:11.89
+  iso:11.47
+  disk:10.75
+  notable:10.54
+  flash:9.55
+
+K: 5, Log-Likelihood: -15921.852, Alpha: 11.000, Beta: 1.100

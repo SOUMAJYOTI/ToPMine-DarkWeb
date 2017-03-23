@@ -1,0 +1,61 @@
+Topic 0:
+  posted:0.18
+  scam:0.18
+  loss:0.18
+  subforum:0.18
+  opinion:0.18
+  full:0.18
+  scammers:0.18
+  care:0.18
+  darknet:0.18
+  web:0.18
+
+Topic 1:
+  full:0.18
+  care:0.18
+  scammers:0.18
+  darknet:0.18
+  check:0.18
+  announcement:0.18
+  evidence:0.18
+  good:0.18
+  questions:0.18
+  safe:0.18
+
+Topic 2:
+  check:0.18
+  pointing:0.18
+  thread:0.18
+  didnt:0.18
+  reply:0.18
+  safe:0.18
+  announcement:0.18
+  hope:0.18
+  evidence:0.18
+  careful:0.18
+
+Topic 3:
+  comments:0.18
+  knew:0.18
+  announcement:0.18
+  good:0.18
+  questions:0.18
+  evidence:0.18
+  reply:0.18
+  rippers:0.18
+  pointing:0.18
+  didnt:0.18
+
+Topic 4:
+  deep:0.18
+  careful:0.18
+  didnt:0.18
+  rippers:0.18
+  safe:0.18
+  hope:0.18
+  thread:0.18
+  questions:0.18
+  reply:0.18
+  pointing:0.18
+
+K: 5, Log-Likelihood: -77.619, Alpha: 11.000, Beta: 1.100

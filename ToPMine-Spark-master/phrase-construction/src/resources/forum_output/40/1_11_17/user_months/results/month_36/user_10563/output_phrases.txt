@@ -1,0 +1,61 @@
+Topic 0:
+  insider:1.34
+  case:1.34
+  edward:1.34
+  fugitive:1.34
+  snowden:1.34
+  stealing:1.34
+  asa:1.34
+  hack:1.34
+  officials:1.34
+  result:1.34
+
+Topic 1:
+  news:1.21
+  sources:0.82
+  consequential:0.82
+  believed:0.81
+  anonymous:0.81
+  story:0.81
+  leaks:0.81
+  lies lies:0.81
+  dishonest:0.80
+  investigation:0.80
+
+Topic 2:
+  quote:2.62
+  nsa:1.92
+  bits:1.23
+  delivered:1.22
+  pr:1.22
+  agency:1.22
+  click:1.22
+  campaigns:1.22
+  tid:1.22
+  leaked:1.21
+
+Topic 3:
+  dd:2.75
+  ssd:2.06
+  trim:1.76
+  wipe data:1.75
+  grimforecast:1.68
+  unencrypted:1.26
+  enlightenment:1.26
+  dev:1.26
+  consult:1.26
+  mind:1.26
+
+Topic 4:
+  suds:2.91
+  blocks:2.91
+  bad:2.91
+  nand:2.91
+  storage:2.91
+  block:2.91
+  data:2.91
+  erase:1.45
+  secure:1.45
+  recover:1.41
+
+K: 5, Log-Likelihood: -1273.605, Alpha: 11.000, Beta: 1.100

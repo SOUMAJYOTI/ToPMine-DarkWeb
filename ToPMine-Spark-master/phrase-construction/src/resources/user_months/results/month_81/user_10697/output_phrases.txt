@@ -1,0 +1,61 @@
+Topic 0:
+  link:8.98
+  vendor:4.42
+  official:3.24
+  real:2.12
+  phishing:2.12
+  careful:2.12
+  dream market:1.78
+  noticed:1.65
+  post referrals:1.54
+  amwell:1.04
+
+Topic 1:
+  dream:4.39
+  referrals:4.11
+  figured:2.11
+  aphabay:2.11
+  consolidate:2.11
+  hey:2.11
+  nowi:2.11
+  dated:2.10
+  ive:2.10
+  posting:2.10
+
+Topic 2:
+  referred:4.24
+  person:3.59
+  middle:3.59
+  exact:3.59
+  started:3.58
+  code:3.58
+  loli:3.58
+  doesnt:3.58
+  choose:3.58
+  thread:3.58
+
+Topic 3:
+  quote:3.25
+  dream market:2.26
+  december:2.26
+  post referrals:1.71
+  noticed:1.60
+  logon:1.51
+  contact:1.51
+  password:1.50
+  sloth:1.48
+  fine:1.47
+
+Topic 4:
+  support:4.80
+  links:4.51
+  cunt:4.51
+  happy:4.51
+  year:4.51
+  scabby:4.51
+  december:2.96
+  convenient:2.43
+  correct:2.29
+  ted:2.21
+
+K: 5, Log-Likelihood: -1350.199, Alpha: 11.000, Beta: 1.100

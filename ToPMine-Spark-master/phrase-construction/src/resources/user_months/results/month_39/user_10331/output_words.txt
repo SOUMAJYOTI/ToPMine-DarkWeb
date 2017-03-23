@@ -1,0 +1,61 @@
+Topic 0:
+  good:3.99
+  quote:3.86
+  dad:2.83
+  tor:2.75
+  attack:2.56
+  break:2.06
+  introduce:2.00
+  expert:1.96
+  read:1.96
+  cop:1.90
+
+Topic 1:
+  sites:13.95
+  memex:9.00
+  content:8.98
+  address:8.95
+  hidden:8.18
+  white:7.98
+  search:7.92
+  data:7.78
+  web:7.27
+  services:7.17
+
+Topic 2:
+  tor:18.35
+  dont:16.71
+  real:10.57
+  leo:10.32
+  school:8.96
+  steve:8.93
+  anonymity:7.98
+  anonymous:7.75
+  internet:6.24
+  traffic:6.10
+
+Topic 3:
+  openwall:4.96
+  linux:4.96
+  glibc:4.95
+  security:4.93
+  quotesteve:4.03
+  regin:3.96
+  vulnerability:3.96
+  called:3.41
+  talk:3.18
+  yeah:3.04
+
+Topic 4:
+  tor:35.21
+  anonymity:14.41
+  sort:9.13
+  internet:8.89
+  web:8.61
+  network:8.26
+  traffic:8.09
+  adversary:6.98
+  people:6.93
+  time:6.09
+
+K: 5, Log-Likelihood: -12318.947, Alpha: 11.000, Beta: 1.100

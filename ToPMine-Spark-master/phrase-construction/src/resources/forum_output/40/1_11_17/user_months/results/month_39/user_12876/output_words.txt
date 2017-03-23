@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.40
+  onionoutlaw:0.40
+  outlaw:0.40
+  gateways:0.40
+  ddos:0.40
+  public:0.40
+  jwcztwbpd:0.20
+  lot:0.20
+  managed:0.20
+  bqfp:0.20
+
+Topic 1:
+  outlaw:0.40
+  ddos:0.40
+  onionoutlaw:0.40
+  gateways:0.40
+  public:0.40
+  market:0.40
+  unc:0.20
+  full:0.20
+  lot:0.20
+  running:0.20
+
+Topic 2:
+  public:0.40
+  onionoutlaw:0.40
+  gateways:0.40
+  market:0.40
+  ddos:0.40
+  outlaw:0.40
+  services:0.20
+  youll:0.20
+  speed:0.20
+  unc:0.20
+
+Topic 3:
+  ddos:0.40
+  public:0.40
+  market:0.40
+  gateways:0.40
+  outlaw:0.40
+  onionoutlaw:0.40
+  current:0.20
+  message:0.20
+  bqfp:0.20
+  kp:0.20
+
+Topic 4:
+  gateways:0.40
+  market:0.40
+  outlaw:0.40
+  onionoutlaw:0.40
+  public:0.40
+  ddos:0.40
+  attacks:0.20
+  bitmessage:0.20
+  kyxddkuqc:0.20
+  bookmark:0.20
+
+K: 5, Log-Likelihood: -192.353, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,23 @@
+whonix,0,1
+rest,1,1
+margin,2,1
+pablo,3,1
+nym,4,1
+attend,5,1
+org,6,1
+link,7,1
+invited,8,1
+project,9,1
+clearnet,10,1
+boxen,11,1
+devs,12,2
+tempt,13,1
+tuesday,14,1
+asked,15,1
+mempo mempo,16,1
+chat,17,1
+person,18,1
+mempo,19,3
+irc,20,1
+meeting,21,2
+coming,22,1

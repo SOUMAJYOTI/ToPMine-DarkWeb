@@ -1,0 +1,61 @@
+Topic 0:
+  escrow:0.37
+  vox:0.36
+  coins:0.20
+  site:0.20
+  allot:0.18
+  staff:0.18
+  week:0.18
+  systeems:0.18
+  questions:0.18
+  market:0.18
+
+Topic 1:
+  escrow:0.37
+  vox:0.37
+  coins:0.20
+  site:0.20
+  quote:0.18
+  suprise:0.18
+  monthswhat:0.18
+  problems:0.18
+  lost:0.18
+  amthere:0.18
+
+Topic 2:
+  escrow:0.37
+  vox:0.36
+  coins:0.20
+  site:0.20
+  market:0.18
+  answers:0.18
+  staff:0.18
+  allot:0.18
+  questions:0.18
+  times:0.18
+
+Topic 3:
+  vox:0.37
+  escrow:0.36
+  site:0.21
+  coins:0.20
+  mess:0.18
+  moved:0.18
+  time:0.18
+  occasional:0.18
+  quit:0.18
+  stay:0.18
+
+Topic 4:
+  vox:0.37
+  escrow:0.37
+  coins:0.20
+  site:0.20
+  populi:0.18
+  deii:0.18
+  pandora:0.18
+  staff:0.18
+  market:0.18
+  systeems:0.18
+
+K: 5, Log-Likelihood: -116.469, Alpha: 11.000, Beta: 1.100

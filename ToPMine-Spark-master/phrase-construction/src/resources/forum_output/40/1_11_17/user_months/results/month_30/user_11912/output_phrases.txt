@@ -1,0 +1,61 @@
+Topic 0:
+  law enforcement:5.50
+  agora:5.32
+  eber valid point:4.75
+  seized:4.48
+  public:3.79
+  obvious:3.64
+  fed fed:3.64
+  front:3.64
+  concentrating:3.64
+  size:3.64
+
+Topic 1:
+  silk road:9.93
+  users:9.62
+  dark net:8.82
+  freedom:8.79
+  political:7.73
+  law enforcements:5.38
+  discontent:4.38
+  medical:4.38
+  joy:4.38
+  speak:4.38
+
+Topic 2:
+  silk road:7.66
+  dead brand:5.44
+  january:4.67
+  community:3.94
+  support:3.60
+  srv:3.60
+  majority:3.60
+  brand dead:3.60
+  agreed:3.60
+  enamoured:3.55
+
+Topic 3:
+  site:6.73
+  sr:6.18
+  userbase:4.48
+  fail:4.48
+  posted:4.48
+  time:4.48
+  biggest:4.48
+  youll:4.48
+  order:4.48
+  jerk:4.26
+
+Topic 4:
+  politics:9.79
+  political:6.90
+  dont:5.39
+  survive:4.75
+  espouse:4.49
+  post:4.49
+  auto:4.49
+  agora:3.44
+  bother:3.43
+  remain:3.43
+
+K: 5, Log-Likelihood: -9932.089, Alpha: 11.000, Beta: 1.100

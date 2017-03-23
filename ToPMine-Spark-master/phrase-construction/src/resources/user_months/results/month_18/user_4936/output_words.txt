@@ -1,0 +1,36 @@
+Topic 0:
+  setting:0.40
+  default:0.40
+  reasoning:0.40
+  havent:0.20
+  haven:0.20
+
+Topic 1:
+  default:0.40
+  reasoning:0.40
+  setting:0.40
+  havent:0.20
+  haven:0.20
+
+Topic 2:
+  reasoning:0.40
+  default:0.40
+  setting:0.40
+  haven:0.20
+  havent:0.20
+
+Topic 3:
+  reasoning:0.40
+  default:0.40
+  setting:0.40
+  haven:0.20
+  havent:0.20
+
+Topic 4:
+  setting:0.40
+  default:0.40
+  reasoning:0.40
+  haven:0.20
+  havent:0.20
+
+K: 5, Log-Likelihood: -12.502, Alpha: 11.000, Beta: 1.100

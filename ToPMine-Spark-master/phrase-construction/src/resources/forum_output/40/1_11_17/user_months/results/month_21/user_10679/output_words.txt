@@ -1,0 +1,61 @@
+Topic 0:
+  theme:3.96
+  quote:3.73
+  nimble:3.43
+  questions:3.16
+  notice:2.96
+  great:2.17
+  health:2.16
+  decided:2.12
+  areas:1.96
+  smile:1.96
+
+Topic 1:
+  ill:5.63
+  troll:5.52
+  september:4.57
+  people:4.49
+  vendor:3.92
+  threads:3.82
+  contest:3.37
+  post:3.37
+  quote:3.27
+  promise:3.17
+
+Topic 2:
+  evolution:10.82
+  helix:7.96
+  evo:5.07
+  eve:4.87
+  users:3.70
+  hope:3.13
+  marketplace:2.96
+  grams:2.96
+  btc:2.96
+  address:2.96
+
+Topic 3:
+  prediction:10.59
+  bitcoin:8.54
+  contest:8.44
+  place:7.75
+  sept:5.97
+  discussion:5.26
+  predictions:4.97
+  post:4.38
+  final:3.97
+  thread:3.71
+
+Topic 4:
+  market:12.49
+  great:4.25
+  ya:3.70
+  friend:3.70
+  sr:3.55
+  august:3.11
+  good:3.02
+  bring:2.79
+  didnt:2.68
+  system:2.65
+
+K: 5, Log-Likelihood: -5509.700, Alpha: 11.000, Beta: 1.100

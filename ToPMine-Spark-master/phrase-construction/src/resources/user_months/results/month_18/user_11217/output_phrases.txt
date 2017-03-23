@@ -1,0 +1,61 @@
+Topic 0:
+  market:0.29
+  everytime:0.29
+  fee:0.29
+  login account:0.29
+  happen:0.29
+  tells:0.29
+  vendor:0.29
+  verify:0.29
+  delay account:0.29
+  register:0.29
+
+Topic 1:
+  fee:0.28
+  verify:0.28
+  register:0.28
+  happen:0.28
+  everytime:0.28
+  market:0.28
+  tells:0.28
+  vendor:0.28
+  login account:0.28
+  delay account:0.28
+
+Topic 2:
+  delay account:0.29
+  vendor:0.29
+  happen:0.29
+  register:0.29
+  login account:0.29
+  tells:0.29
+  everytime:0.29
+  fee:0.29
+  verify:0.29
+  market:0.29
+
+Topic 3:
+  sale:0.29
+  moment:0.29
+  shouldnt:0.29
+  long:0.29
+  hit:0.29
+  alot:0.29
+  reply:0.29
+  friend:0.28
+  july:0.28
+  quote:0.28
+
+Topic 4:
+  alot:0.29
+  reply:0.29
+  shouldnt:0.29
+  hit:0.29
+  moment:0.29
+  sale:0.29
+  long:0.29
+  callmejoe:0.28
+  business:0.28
+  quote:0.28
+
+K: 5, Log-Likelihood: -286.562, Alpha: 11.000, Beta: 1.100

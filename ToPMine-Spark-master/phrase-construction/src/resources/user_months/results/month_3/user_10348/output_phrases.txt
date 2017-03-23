@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:5.32
+  windows:3.52
+  version:3.51
+  linux:3.48
+  os:1.68
+  current:1.68
+  linus:1.68
+  os pgp:1.68
+  navvy:1.68
+  members:1.67
+
+Topic 1:
+  link:2.75
+  advance:2.75
+  password:2.75
+  mailtor log:2.75
+  thunderbird thunderbird:2.75
+  problem:2.75
+  created mailtor:2.75
+  creating:2.75
+  notice:2.75
+  log:2.75
+
+Topic 2:
+  helpful:3.53
+  nightcrawler:3.51
+  guide:1.69
+  responses:1.69
+  disappeared:1.69
+  forums:1.69
+  peruse:1.69
+  vielen:1.69
+  looked:1.69
+  confess:1.69
+
+Topic 3:
+  thunderbird:5.65
+  paper:2.72
+  regular:2.72
+  details:2.72
+  icedove:2.72
+  claws:2.72
+  read:2.72
+  leaks:2.72
+  email security:2.72
+  desire:2.72
+
+Topic 4:
+  captainwhitebeard january pmquote:2.06
+  bit distracting:2.06
+  avatar:1.89
+  quote ronin january:1.81
+  keyop btw export private:1.45
+  bring pgp keyop btw:1.38
+  ronin january pmi:1.37
+  great:1.37
+  pmquote:1.37
+  export private key os:1.37
+
+K: 5, Log-Likelihood: -1391.301, Alpha: 11.000, Beta: 1.100

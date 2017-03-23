@@ -1,0 +1,61 @@
+Topic 0:
+  onion:11.49
+  root:5.19
+  requests:4.78
+  tor:3.13
+  dns:3.11
+  traffic:2.89
+  slds:2.35
+  servers:2.00
+  globe:1.86
+  services:1.76
+
+Topic 1:
+  onion:18.79
+  tor:8.48
+  globe:7.14
+  traffic:4.96
+  slds:4.36
+  dns:3.45
+  leakage:3.33
+  root:3.13
+  hidden:3.05
+  services:2.85
+
+Topic 2:
+  dns:34.61
+  onion:27.84
+  tor:25.11
+  traffic:24.81
+  globe:20.98
+  requests:17.53
+  root:16.15
+  slds:12.90
+  domain:11.49
+  leakage:11.30
+
+Topic 3:
+  root:3.22
+  info:2.92
+  paper:2.85
+  requests:2.81
+  systems:2.64
+  specific:2.44
+  servers:2.28
+  interesting:2.15
+  drug:1.93
+  upstream:1.92
+
+Topic 4:
+  dns:4.48
+  root:4.31
+  requests:3.49
+  tor:3.11
+  onion:2.53
+  servers:1.88
+  globe:1.80
+  services:1.52
+  tlds:1.47
+  slds:1.21
+
+K: 5, Log-Likelihood: -11754.110, Alpha: 11.000, Beta: 1.100

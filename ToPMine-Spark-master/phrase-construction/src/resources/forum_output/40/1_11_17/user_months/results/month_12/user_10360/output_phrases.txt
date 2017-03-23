@@ -1,0 +1,61 @@
+Topic 0:
+  called:0.16
+  bitcoin:0.16
+  businesses:0.16
+  hold:0.08
+  stash:0.08
+  buy:0.08
+  providing:0.08
+  systems:0.08
+  coming:0.08
+  transmit:0.08
+
+Topic 1:
+  bitcoin:0.16
+  businesses:0.16
+  called:0.16
+  bowl:0.08
+  game:0.08
+  laddies:0.08
+  big:0.08
+  afford:0.08
+  easy:0.08
+  hold:0.08
+
+Topic 2:
+  called:0.16
+  businesses:0.16
+  bitcoin:0.16
+  game:0.08
+  bowl:0.08
+  place:0.08
+  bitpay:0.08
+  stash:0.08
+  inexpensive:0.08
+  coin:0.08
+
+Topic 3:
+  businesses:0.16
+  called:0.16
+  bitcoin:0.16
+  bowl:0.08
+  game:0.08
+  services:0.08
+  buy:0.08
+  place:0.08
+  detractors:0.08
+  papa:0.08
+
+Topic 4:
+  bitcoin:0.16
+  businesses:0.16
+  called:0.16
+  easy:0.08
+  paypig:0.08
+  expedia:0.08
+  goods:0.08
+  bitpay:0.08
+  start:0.08
+  bitcoins:0.08
+
+K: 5, Log-Likelihood: -66.158, Alpha: 11.000, Beta: 1.100

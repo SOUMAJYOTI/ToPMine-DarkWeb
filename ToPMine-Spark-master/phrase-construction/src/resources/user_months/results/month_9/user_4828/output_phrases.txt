@@ -1,0 +1,61 @@
+Topic 0:
+  extremely:3.95
+  inanna:3.95
+  gpa:3.95
+  enter:3.95
+  tmg:3.14
+  comment:3.14
+  nym:3.14
+  easy:3.14
+  change:3.14
+  public:2.87
+
+Topic 1:
+  btc:4.45
+  sell btc:4.43
+  didnt:3.96
+  lbc:3.96
+  number:3.10
+  compeople:3.10
+  seller:3.10
+  method buy:3.10
+  mp:3.10
+  moneypak:3.10
+
+Topic 2:
+  electrum mpk:3.94
+  account:3.94
+  crack:3.94
+  private:3.94
+  addresses:3.87
+  signed:3.08
+  onionshop:3.08
+  deterministic wallet:3.08
+  verify:3.08
+  commerce:3.08
+
+Topic 3:
+  pgp key:3.92
+  transfer:2.35
+  hope:2.35
+  money:2.35
+  hold:2.35
+  trade:2.34
+  trusted:2.34
+  personal:2.33
+  pak:2.33
+  bank:2.33
+
+Topic 4:
+  key:6.23
+  sign:3.74
+  privacy:3.14
+  bit:3.14
+  correct:3.14
+  posting:3.14
+  info:3.14
+  solutionwould:3.14
+  inannathis:3.14
+  thread:3.14
+
+K: 5, Log-Likelihood: -2903.479, Alpha: 11.000, Beta: 1.100

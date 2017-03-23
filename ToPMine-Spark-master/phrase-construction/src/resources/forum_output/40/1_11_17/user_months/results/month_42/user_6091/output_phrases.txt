@@ -1,0 +1,61 @@
+Topic 0:
+  water:2.93
+  crystal:2.33
+  extreme:1.90
+  water dry ice:1.76
+  form:1.55
+  everclear:1.45
+  contribute:1.45
+  worth:1.37
+  mind:1.37
+  peace:1.37
+
+Topic 1:
+  valves:6.08
+  tattoo:6.08
+  update years passed:3.29
+  rifles attach hose dunno:3.29
+  member haha:3.29
+  puncture cartridge power pellet:3.29
+  amperhaps:3.00
+  shops:3.00
+  fit:3.00
+  trip:3.00
+
+Topic 2:
+  solution:6.30
+  oxygen chlorine:5.67
+  conditions:3.71
+  exposed:3.70
+  work:3.69
+  decay:3.66
+  data:3.66
+  established:3.65
+  alcohol:3.64
+  draw:3.63
+
+Topic 3:
+  rubber:3.85
+  beaker:3.85
+  add:3.85
+  needle remove:3.85
+  inside:3.85
+  insert:3.85
+  syringe:3.19
+  degradation:2.41
+  mm:1.90
+  cap:1.90
+
+Topic 4:
+  ideal:3.65
+  dry ice:3.54
+  ago:2.87
+  distilled:2.87
+  process:2.87
+  producers:2.87
+  suspended:2.87
+  sealed bit:2.87
+  produced:2.87
+  ampules:2.87
+
+K: 5, Log-Likelihood: -3055.040, Alpha: 11.000, Beta: 1.100

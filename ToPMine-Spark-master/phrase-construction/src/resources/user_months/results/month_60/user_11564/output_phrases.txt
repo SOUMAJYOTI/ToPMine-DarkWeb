@@ -1,0 +1,61 @@
+Topic 0:
+  buyer seller:1.00
+  choose tx:0.60
+  transaction:0.55
+  characters:0.52
+  ids:0.51
+  identify:0.51
+  store:0.50
+  shop main:0.50
+  purchase:0.50
+  good:0.50
+
+Topic 1:
+  buyer seller:0.92
+  choose tx:0.56
+  ids:0.56
+  characters:0.55
+  transaction:0.54
+  amazon:0.49
+  randomly:0.46
+  vendors:0.45
+  sr:0.45
+  buyers:0.45
+
+Topic 2:
+  buyer seller:0.90
+  transaction:0.55
+  choose tx:0.53
+  amazon:0.49
+  scrutinibble:0.48
+  generated:0.48
+  store:0.48
+  tx transaction:0.48
+  result:0.48
+  sr:0.48
+
+Topic 3:
+  buyer seller:1.06
+  transaction:0.54
+  choose tx:0.53
+  casino:0.53
+  problem:0.53
+  publicly visible:0.52
+  paid:0.52
+  lucky:0.52
+  setup:0.52
+  things:0.52
+
+Topic 4:
+  buyer seller:0.94
+  transaction:0.59
+  amazon:0.52
+  choose tx:0.52
+  reliable:0.48
+  staff:0.48
+  draw:0.48
+  setup:0.48
+  win:0.48
+  result:0.48
+
+K: 5, Log-Likelihood: -666.571, Alpha: 11.000, Beta: 1.100

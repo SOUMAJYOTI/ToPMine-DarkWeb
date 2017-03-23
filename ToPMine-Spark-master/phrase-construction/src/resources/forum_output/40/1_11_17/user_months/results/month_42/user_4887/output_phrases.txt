@@ -1,0 +1,61 @@
+Topic 0:
+  gpg:0.23
+  created:0.14
+  wrong:0.14
+  reason:0.14
+  appreciated:0.14
+  interested:0.14
+  lot:0.14
+  awhile:0.14
+  ago:0.14
+  encrypting:0.14
+
+Topic 1:
+  gpg:0.23
+  buyers:0.14
+  change:0.14
+  user:0.14
+  encrypting:0.14
+  lot:0.14
+  wrong:0.14
+  reason:0.14
+  interested:0.14
+  ago:0.14
+
+Topic 2:
+  gpg:0.23
+  el:0.14
+  worked:0.14
+  april:0.14
+  quote:0.14
+  ton:0.14
+  clear:0.14
+  pmyes:0.14
+  perfectly:0.14
+  presidente:0.14
+
+Topic 3:
+  gpg:0.23
+  perfectly:0.14
+  quote:0.14
+  worked:0.14
+  ton:0.14
+  presidente:0.14
+  el:0.14
+  pmyes:0.14
+  april:0.14
+  clear:0.14
+
+Topic 4:
+  gpg:0.23
+  customers:0.14
+  pmyes:0.14
+  presidente:0.14
+  el:0.14
+  april:0.14
+  worked:0.14
+  quote:0.14
+  ton:0.14
+  perfectly:0.14
+
+K: 5, Log-Likelihood: -114.682, Alpha: 11.000, Beta: 1.100

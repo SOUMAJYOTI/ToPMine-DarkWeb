@@ -1,0 +1,61 @@
+Topic 0:
+  ei:5.70
+  kapteeni:3.70
+  saa:1.81
+  edes:1.39
+  siell:1.37
+  tilannetta:0.93
+  vanhojen:0.82
+  melkoinen:0.82
+  kuulema:0.82
+  auki:0.82
+
+Topic 1:
+  dont:1.89
+  kapteeni:1.28
+  en:1.17
+  deposit:1.09
+  hope:0.88
+  ytt:0.88
+  wrong:0.75
+  ket:0.73
+  problem:0.71
+  deposits:0.71
+
+Topic 2:
+  ja:10.10
+  rahat:7.68
+  kaikki:4.50
+  takaisin:4.46
+  kaikkien:3.84
+  ss:3.84
+  voi:3.84
+  ett:3.62
+  jumissa:2.39
+  nain:2.25
+
+Topic 3:
+  ja:2.82
+  rahat:1.45
+  ett:1.33
+  kapteeni:0.97
+  jumissa:0.82
+  dont:0.68
+  en:0.66
+  lill:0.61
+  joo:0.60
+  kun:0.58
+
+Topic 4:
+  kapteeni:3.75
+  ei:2.25
+  ytt:1.94
+  tor:1.81
+  haavoittuvuus:1.81
+  verkosta:1.80
+  silkkitie:1.80
+  aikaa:1.30
+  ja:1.19
+  kun:0.88
+
+K: 5, Log-Likelihood: -2586.832, Alpha: 11.000, Beta: 1.100

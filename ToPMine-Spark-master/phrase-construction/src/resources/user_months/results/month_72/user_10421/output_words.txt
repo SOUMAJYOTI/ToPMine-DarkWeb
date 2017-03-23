@@ -1,0 +1,61 @@
+Topic 0:
+  hansa:4.93
+  traffic:1.83
+  shop:1.09
+  waiting:1.04
+  multi:1.02
+  jules:1.00
+  helpful:0.90
+  wow:0.89
+  hans:0.83
+  check:0.76
+
+Topic 1:
+  escrow:7.17
+  central:3.93
+  hansa:3.89
+  markets:3.75
+  msig:2.93
+  weve:2.66
+  system:2.03
+  easy:1.93
+  simple:1.93
+  remain:1.93
+
+Topic 2:
+  lb:2.91
+  hans:2.85
+  shatter:2.76
+  tracking:1.69
+  priority:1.68
+  domestic:1.68
+  crack:1.68
+  marketplace:1.68
+  exclusively:1.66
+  tuned:1.66
+
+Topic 3:
+  transaction:33.42
+  address:29.92
+  market:27.38
+  multisignature:22.92
+  key:21.92
+  public:21.92
+  bitcoin:20.92
+  wallet:14.92
+  customer:13.92
+  order:13.46
+
+Topic 4:
+  electrum:2.60
+  sig:2.57
+  jules:1.74
+  multi:1.69
+  quote:1.64
+  standard:1.48
+  protocol:1.47
+  sign:1.44
+  vendor:1.37
+  february:1.34
+
+K: 5, Log-Likelihood: -6526.496, Alpha: 11.000, Beta: 1.100

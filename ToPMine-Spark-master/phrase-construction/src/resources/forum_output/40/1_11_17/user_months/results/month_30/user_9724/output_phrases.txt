@@ -1,0 +1,61 @@
+Topic 0:
+  good:0.28
+  king:0.14
+  hope:0.14
+  prescription:0.14
+  agora:0.14
+  pharmacy:0.14
+  admin:0.14
+  reviews:0.14
+  ready:0.14
+  members:0.14
+
+Topic 1:
+  good:0.28
+  frequently:0.14
+  lsd:0.14
+  free:0.14
+  exit:0.14
+  tool:0.14
+  tmg:0.14
+  post:0.14
+  business:0.14
+  strategy:0.14
+
+Topic 2:
+  good:0.28
+  forum:0.14
+  offers:0.14
+  business:0.14
+  open:0.14
+  leading:0.14
+  members:0.14
+  conduct:0.14
+  tool:0.14
+  brother:0.14
+
+Topic 3:
+  good:0.28
+  hope:0.14
+  prescription:0.14
+  agora:0.14
+  open:0.14
+  tmg:0.14
+  king:0.14
+  brother:0.14
+  lsd:0.14
+  pharmacy:0.14
+
+Topic 4:
+  good:0.28
+  prescription:0.14
+  king:0.14
+  pharmacy:0.14
+  agora:0.14
+  hope:0.14
+  admin:0.14
+  feel:0.14
+  listing:0.14
+  offers:0.14
+
+K: 5, Log-Likelihood: -87.205, Alpha: 11.000, Beta: 1.100

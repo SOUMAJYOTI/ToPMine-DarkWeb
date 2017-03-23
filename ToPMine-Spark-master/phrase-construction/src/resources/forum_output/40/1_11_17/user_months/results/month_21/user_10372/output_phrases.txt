@@ -1,0 +1,61 @@
+Topic 0:
+  wired:2.14
+  dns:0.94
+  dont:0.94
+  spoof:0.94
+  proxy:0.93
+  blocks:0.93
+  things:0.93
+  adapters:0.93
+  macaddr:0.93
+  cidr:0.93
+
+Topic 1:
+  internal wifi:1.43
+  good:1.00
+  mac:0.86
+  alfa:0.75
+  external:0.75
+  puts:0.66
+  fellows:0.66
+  macchanger:0.66
+  tradeoff:0.66
+  antenna:0.66
+
+Topic 2:
+  security:0.89
+  quote:0.89
+  area:0.89
+  adding:0.89
+  work:0.89
+  idea:0.89
+  bombs:0.89
+  leave:0.89
+  sense:0.89
+  pmsometimes:0.89
+
+Topic 3:
+  mac:0.58
+  adapter:0.44
+  webcam:0.44
+  number:0.40
+  aerial:0.40
+  hostname:0.40
+  changing:0.40
+  speaking:0.40
+  extra mile:0.40
+  internal wifi:0.38
+
+Topic 4:
+  mac:0.82
+  internal wifi:0.51
+  good:0.44
+  external:0.42
+  alfa:0.42
+  webcam:0.41
+  adapter:0.41
+  cut:0.40
+  speakers:0.40
+  wires:0.40
+
+K: 5, Log-Likelihood: -571.527, Alpha: 11.000, Beta: 1.100

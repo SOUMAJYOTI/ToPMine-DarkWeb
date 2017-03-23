@@ -1,0 +1,61 @@
+Topic 0:
+  company:19.29
+  vincenzetti:18.59
+  program:16.24
+  hacking team:14.27
+  italian:13.53
+  security:9.13
+  security professional:8.11
+  records:8.11
+  systems:8.11
+  mails:6.93
+
+Topic 1:
+  bitcoin:5.40
+  kinds:5.40
+  currency:5.40
+  darknet:5.40
+  anonymity:5.40
+  image:5.38
+  virtual:4.58
+  money:3.96
+  dont:3.72
+  patch:3.12
+
+Topic 2:
+  tor browser:27.60
+  icacls exe atmfd dll:16.17
+  proposed attack:13.79
+  local:9.18
+  weakest link:9.18
+  tor client:9.18
+  remote:9.18
+  requires:9.18
+  hardware local network:9.18
+  good news:9.18
+
+Topic 3:
+  rename:6.38
+  hack attack:4.57
+  add:4.57
+  infection:4.57
+  heartbleed:4.57
+  delete:4.57
+  tool:4.57
+  mechanism:4.57
+  workaround useless:4.57
+  shellshock:4.57
+
+Topic 4:
+  mad jesus sort:7.36
+  year idiot:7.32
+  sldk july amquote july:7.29
+  amur jelly hax rs:6.89
+  quote:6.67
+  laugh demise mail:5.95
+  books write promoting essays:5.95
+  hacking morons good:5.95
+  interviews consulting earn hefty:5.95
+  overflow:5.36
+
+K: 5, Log-Likelihood: -21004.154, Alpha: 11.000, Beta: 1.100

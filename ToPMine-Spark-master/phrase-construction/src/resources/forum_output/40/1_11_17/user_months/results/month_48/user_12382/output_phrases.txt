@@ -1,0 +1,61 @@
+Topic 0:
+  people:0.47
+  subutex:0.46
+  step:0.46
+  customers:0.46
+  product:0.46
+  prices:0.46
+  community:0.46
+  vendor:0.36
+  verified:0.31
+  understand:0.31
+
+Topic 1:
+  access:1.62
+  post:1.61
+  replies:0.64
+  impossible:0.64
+  forum:0.64
+  forums:0.64
+  asked:0.64
+  acta:0.64
+  thread:0.64
+  pmhe:0.64
+
+Topic 2:
+  people:0.39
+  step:0.39
+  community:0.39
+  prices:0.39
+  customers:0.38
+  product:0.38
+  subutex:0.38
+  vendor:0.36
+  offer newbie:0.32
+  break:0.32
+
+Topic 3:
+  subutex:0.73
+  prices:0.72
+  customers:0.72
+  community:0.71
+  product:0.71
+  step:0.70
+  people:0.70
+  vendor:0.34
+  understand:0.32
+  special:0.32
+
+Topic 4:
+  product:0.55
+  community:0.54
+  people:0.54
+  step:0.54
+  prices:0.54
+  customers:0.54
+  subutex:0.53
+  vendor:0.36
+  understand:0.31
+  verified:0.30
+
+K: 5, Log-Likelihood: -494.661, Alpha: 11.000, Beta: 1.100

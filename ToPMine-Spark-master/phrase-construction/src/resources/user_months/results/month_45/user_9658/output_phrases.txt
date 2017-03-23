@@ -1,0 +1,61 @@
+Topic 0:
+  cash:0.94
+  localbitcoins:0.70
+  libertyx:0.69
+  deposit:0.64
+  deposits:0.63
+  safe long coins tumbler:0.61
+  wigs:0.61
+  tied bank acct imagine:0.60
+  anonymous time wallet:0.60
+  lucky friends buy btc:0.59
+
+Topic 1:
+  coinbase:4.74
+  clean:3.06
+  read:3.04
+  walletbasically:1.39
+  prevent:1.39
+  dnm:1.39
+  lead:1.39
+  wallet tumbler:1.39
+  wallet:1.39
+  coinbase tumbler:1.39
+
+Topic 2:
+  cash:1.50
+  deposits:0.86
+  localbitcoins:0.77
+  deposit:0.76
+  libertyx:0.60
+  safe long coins tumbler:0.60
+  lucky friends buy btc:0.59
+  anonymous time wallet:0.59
+  tied bank acct imagine:0.58
+  wigs:0.56
+
+Topic 3:
+  cash:0.77
+  localbitcoins:0.66
+  libertyx:0.62
+  deposit:0.57
+  safe long coins tumbler:0.56
+  wigs:0.55
+  lucky friends buy btc:0.55
+  tied bank acct imagine:0.55
+  anonymous time wallet:0.55
+  deposits:0.53
+
+Topic 4:
+  tied bank acct imagine:1.18
+  lucky friends buy btc:1.18
+  anonymous time wallet:1.17
+  safe long coins tumbler:1.14
+  random people heard avoid:0.93
+  coinbase dim dealings:0.90
+  weird meeting:0.90
+  localbitcoins:0.88
+  wigs:0.73
+  cash:0.69
+
+K: 5, Log-Likelihood: -446.572, Alpha: 11.000, Beta: 1.100

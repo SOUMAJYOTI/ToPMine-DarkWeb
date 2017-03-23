@@ -1,0 +1,61 @@
+Topic 0:
+  meth:1.05
+  market:0.48
+  grams:0.42
+  alphabay:0.41
+  exit:0.35
+  problems:0.31
+  set:0.31
+  offering:0.31
+  shop:0.31
+  samples:0.31
+
+Topic 1:
+  grams:1.46
+  alphabay:1.46
+  point:0.84
+  shipping:0.84
+  shop:0.83
+  offering:0.83
+  samples:0.83
+  problems:0.82
+  set:0.82
+  priority:0.34
+
+Topic 2:
+  meth:0.85
+  market:0.59
+  alphabay:0.44
+  grams:0.43
+  exit:0.39
+  problems:0.33
+  offering:0.33
+  samples:0.32
+  set:0.32
+  shop:0.32
+
+Topic 3:
+  meth:0.79
+  market:0.67
+  exit:0.45
+  grams:0.42
+  alphabay:0.42
+  set:0.32
+  problems:0.32
+  samples:0.32
+  point:0.32
+  shop:0.31
+
+Topic 4:
+  market:1.05
+  meth:0.97
+  exit:0.64
+  coins:0.28
+  hanza:0.28
+  losing:0.28
+  avoid:0.28
+  missjessica:0.28
+  scam:0.28
+  scams:0.28
+
+K: 5, Log-Likelihood: -398.528, Alpha: 11.000, Beta: 1.100

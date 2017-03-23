@@ -1,0 +1,61 @@
+Topic 0:
+  javascript:1.90
+  browser:1.69
+  disable:1.08
+  true:0.87
+  tbb:0.85
+  tor:0.84
+  enabled:0.81
+  disabled:0.72
+  quote:0.69
+  captcha:0.67
+
+Topic 1:
+  javascript:6.84
+  completely:2.88
+  true:2.76
+  websites:2.13
+  dont:2.10
+  tbb:1.75
+  enabled:1.28
+  website:1.17
+  list:1.17
+  entries:1.17
+
+Topic 2:
+  javascript:3.30
+  disable:0.98
+  disabled:0.96
+  browser:0.96
+  tor:0.90
+  true:0.88
+  dont:0.84
+  enabled:0.80
+  completely:0.78
+  tbb:0.76
+
+Topic 3:
+  javascript:4.48
+  window:3.05
+  install:2.96
+  click:2.91
+  tbb:2.45
+  flash:2.24
+  silverlight:2.07
+  type:2.00
+  security:1.64
+  uri:1.64
+
+Topic 4:
+  disable:1.61
+  tor:1.43
+  captcha:1.23
+  scripts:1.16
+  press:1.14
+  problems:1.13
+  password:0.92
+  thought:0.81
+  phoenix:0.81
+  solution:0.80
+
+K: 5, Log-Likelihood: -1272.497, Alpha: 11.000, Beta: 1.100

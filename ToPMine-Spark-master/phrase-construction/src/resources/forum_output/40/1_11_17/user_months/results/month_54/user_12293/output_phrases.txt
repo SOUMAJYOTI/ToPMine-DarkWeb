@@ -1,0 +1,46 @@
+Topic 0:
+  kuha:0.00
+  jo:0.00
+  ne:0.00
+  postiss:0.00
+  testit:0.00
+  joo:0.00
+  tulis:0.00
+
+Topic 1:
+  kuha:0.00
+  jo:0.00
+  ne:0.00
+  postiss:0.00
+  testit:0.00
+  joo:0.00
+  tulis:0.00
+
+Topic 2:
+  kuha:0.00
+  jo:0.00
+  ne:0.00
+  postiss:0.00
+  testit:0.00
+  joo:0.00
+  tulis:0.00
+
+Topic 3:
+  kuha:0.00
+  jo:0.00
+  ne:0.00
+  postiss:0.00
+  testit:0.00
+  joo:0.00
+  tulis:0.00
+
+Topic 4:
+  kuha:0.00
+  jo:0.00
+  ne:0.00
+  postiss:0.00
+  testit:0.00
+  joo:0.00
+  tulis:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

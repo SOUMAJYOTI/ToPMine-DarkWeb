@@ -1,0 +1,61 @@
+Topic 0:
+  room:4.07
+  strengths:4.07
+  library:4.07
+  bots:4.07
+  beginners:4.07
+  pma:4.07
+  server:4.07
+  busiest:4.07
+  english:4.07
+  game room:4.07
+
+Topic 1:
+  quote moreau april:6.38
+  black komi gg:5.63
+  skydiamonds:4.61
+  net markets japanese rules:3.82
+  game moreau:3.82
+  game average lifetime dark:3.82
+  format move history:3.46
+  orderofthephoenix april amgame moreau:3.23
+  hf:2.81
+  markets japanese rules:2.77
+
+Topic 2:
+  play:8.80
+  torrent:4.08
+  programs:4.08
+  emule:4.08
+  torrent collection:4.08
+  weiqithere:4.08
+  mb:4.08
+  number:4.08
+  large:4.08
+  book:4.08
+
+Topic 3:
+  feel free:6.32
+  prize lsd future games:5.08
+  played tend stretch long:5.08
+  handicap favor start:5.08
+  game black considerable advantage:5.08
+  interesting starting format play:5.07
+  challenger real interest offer:5.07
+  game:5.00
+  excellent:4.80
+  games:4.64
+
+Topic 4:
+  wee:4.03
+  time lsd:4.03
+  head:4.03
+  find:4.03
+  person:4.03
+  love:4.03
+  face face:4.03
+  bit:4.03
+  round:4.03
+  involved:4.03
+
+K: 5, Log-Likelihood: -2714.199, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  support:1.17
+  message:1.13
+  file:0.82
+  open:0.80
+  pmd:0.79
+  answer:0.78
+  site:0.70
+  didnt:0.70
+  guys:0.69
+  zip:0.68
+
+Topic 1:
+  pmd:1.34
+  open:1.27
+  file:1.26
+  site:1.08
+  link:1.04
+  zip:0.97
+  dont:0.94
+  message:0.73
+  sucking:0.63
+  heard:0.61
+
+Topic 2:
+  pmd:1.30
+  file:1.16
+  open:1.15
+  zip:1.13
+  site:1.12
+  link:1.10
+  dont:1.07
+  message:0.73
+  sucking:0.62
+  signed:0.60
+
+Topic 3:
+  open:1.72
+  file:1.66
+  dont:1.48
+  pmd:1.41
+  zip:1.35
+  link:1.29
+  site:1.18
+  sucking:0.74
+  message:0.55
+  heard:0.53
+
+Topic 4:
+  pmd:1.16
+  file:1.11
+  open:1.06
+  link:0.91
+  site:0.91
+  zip:0.87
+  message:0.86
+  dont:0.84
+  didnt:0.64
+  signed:0.63
+
+K: 5, Log-Likelihood: -614.678, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  people:62.84
+  lsd:37.37
+  drugs:33.82
+  drug:26.79
+  bad:17.72
+  good:17.03
+  allot:13.32
+  don:13.12
+  society:12.83
+  acid:11.79
+
+Topic 1:
+  good:24.81
+  vendors:19.95
+  vendor:18.40
+  safe:17.97
+  le:14.37
+  blue:13.91
+  root:13.40
+  mail:12.94
+  work:12.83
+  find:12.12
+
+Topic 2:
+  vendors:47.65
+  encryption:33.25
+  tmg:25.04
+  encrypt:19.89
+  le:19.00
+  ag:17.19
+  bitmessage:16.96
+  messages:16.77
+  password:15.97
+  encrypted:15.29
+
+Topic 3:
+  tor:61.55
+  traffic:14.88
+  kind:12.89
+  stay:10.95
+  email:10.76
+  analysis:9.33
+  network:8.96
+  anonymous:8.69
+  service:7.83
+  quote:7.73
+
+Topic 4:
+  agora:22.47
+  sr:21.10
+  markets:19.37
+  safe:16.04
+  don:15.82
+  evo:15.53
+  tor:15.35
+  dont:14.57
+  time:14.10
+  account:13.29
+
+K: 5, Log-Likelihood: -45658.235, Alpha: 11.000, Beta: 1.100

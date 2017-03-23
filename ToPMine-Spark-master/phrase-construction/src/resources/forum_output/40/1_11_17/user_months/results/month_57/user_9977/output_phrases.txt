@@ -1,0 +1,61 @@
+Topic 0:
+  tail os:0.43
+  computer:0.43
+  manage keys:0.43
+  key pair:0.43
+  localbitcoin:0.43
+  step:0.26
+  good:0.26
+  vendor:0.25
+  send:0.25
+  lsd:0.23
+
+Topic 1:
+  tail os:0.43
+  key pair:0.43
+  localbitcoin:0.43
+  manage keys:0.43
+  computer:0.43
+  good:0.26
+  step:0.26
+  send:0.26
+  vendor:0.25
+  lsd:0.23
+
+Topic 2:
+  key pair:0.48
+  manage keys:0.48
+  computer:0.48
+  tail os:0.48
+  localbitcoin:0.48
+  lsd:0.24
+  cosmic:0.23
+  hand:0.23
+  starts:0.23
+  advanced:0.23
+
+Topic 3:
+  localbitcoin:0.46
+  computer:0.46
+  tail os:0.45
+  manage keys:0.45
+  key pair:0.45
+  lsd:0.24
+  hold:0.22
+  create:0.22
+  arrange:0.22
+  clipboard:0.22
+
+Topic 4:
+  vendor:0.91
+  send:0.91
+  step:0.90
+  good:0.90
+  kidding:0.36
+  vendors:0.36
+  great:0.36
+  forum:0.36
+  buy:0.36
+  members:0.36
+
+K: 5, Log-Likelihood: -524.492, Alpha: 11.000, Beta: 1.100

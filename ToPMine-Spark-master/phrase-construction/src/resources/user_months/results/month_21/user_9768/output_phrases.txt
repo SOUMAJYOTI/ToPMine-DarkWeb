@@ -1,0 +1,61 @@
+Topic 0:
+  pidgin os:0.56
+  port:0.56
+  tor browser:0.55
+  work:0.28
+  good good:0.28
+  weeks:0.28
+  great:0.28
+  settings:0.28
+  option:0.28
+  modify:0.28
+
+Topic 1:
+  tor browser:0.55
+  port:0.54
+  pidgin os:0.54
+  work:0.28
+  great:0.28
+  good good:0.28
+  weeks:0.28
+  settings tor:0.28
+  pray settings:0.28
+  pidgin version:0.28
+
+Topic 2:
+  port:0.56
+  pidgin os:0.56
+  tor browser:0.55
+  great:0.28
+  good good:0.28
+  weeks:0.28
+  work:0.28
+  pray:0.28
+  releases:0.28
+  quote:0.28
+
+Topic 3:
+  pidgin os:0.56
+  tor browser:0.56
+  port:0.55
+  compiled:0.28
+  unfix:0.28
+  pmok:0.28
+  noticed:0.28
+  version:0.28
+  number:0.28
+  settings:0.28
+
+Topic 4:
+  port:0.56
+  tor browser:0.56
+  pidgin os:0.55
+  piggin:0.28
+  latest:0.28
+  changed:0.28
+  stuck:0.28
+  pre:0.28
+  looping:0.28
+  quote:0.28
+
+K: 5, Log-Likelihood: -224.561, Alpha: 11.000, Beta: 1.100

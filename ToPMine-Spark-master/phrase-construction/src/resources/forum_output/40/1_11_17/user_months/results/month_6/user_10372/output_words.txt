@@ -1,0 +1,61 @@
+Topic 0:
+  ocsp:0.64
+  tails:0.58
+  network:0.54
+  geotrust:0.42
+  gtglobal:0.41
+  google:0.41
+  iceweasel:0.40
+  map:0.38
+  worries:0.21
+  mickeyclients:0.21
+
+Topic 1:
+  network:0.65
+  tails:0.64
+  ocsp:0.55
+  map:0.42
+  iceweasel:0.40
+  geotrust:0.38
+  google:0.38
+  gtglobal:0.37
+  verified:0.21
+  newest:0.21
+
+Topic 2:
+  ocsp:0.69
+  tails:0.54
+  network:0.47
+  gtglobal:0.45
+  google:0.45
+  geotrust:0.45
+  iceweasel:0.40
+  map:0.34
+  bug:0.22
+  worries:0.22
+
+Topic 3:
+  network:0.78
+  tails:0.64
+  ocsp:0.49
+  map:0.48
+  iceweasel:0.40
+  gtglobal:0.35
+  geotrust:0.35
+  google:0.35
+  black:0.22
+  connections:0.22
+
+Topic 4:
+  ocsp:0.63
+  tails:0.59
+  network:0.55
+  gtglobal:0.41
+  google:0.41
+  geotrust:0.41
+  iceweasel:0.40
+  map:0.38
+  component:0.20
+  htts:0.20
+
+K: 5, Log-Likelihood: -164.359, Alpha: 11.000, Beta: 1.100

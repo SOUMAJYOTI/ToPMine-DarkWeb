@@ -1,0 +1,61 @@
+Topic 0:
+  command:1.31
+  god:0.75
+  love:0.40
+  smaller:0.40
+  boundless:0.40
+  prevent:0.40
+  meant:0.40
+  goodness:0.40
+  energy:0.40
+  dazzling:0.40
+
+Topic 1:
+  command:1.22
+  god:0.79
+  mirror:0.40
+  scale:0.40
+  energy:0.40
+  immortal:0.40
+  quotes:0.40
+  resurrecting:0.40
+  idealistic:0.40
+  choose:0.40
+
+Topic 2:
+  command:1.17
+  god:0.79
+  parts:0.40
+  process:0.40
+  creatures:0.40
+  immortal:0.40
+  goddess:0.40
+  mind:0.40
+  wisdom:0.40
+  stainless:0.40
+
+Topic 3:
+  command:1.13
+  god:0.81
+  imagine:0.41
+  filthiest:0.40
+  good:0.40
+  radiant:0.40
+  delight:0.40
+  impossible:0.40
+  meant:0.40
+  gas:0.40
+
+Topic 4:
+  command:1.17
+  god:0.86
+  impossible:0.40
+  bright:0.40
+  perfectly:0.40
+  feeblest:0.40
+  pulsating:0.40
+  power:0.40
+  scale:0.40
+  long:0.40
+
+K: 5, Log-Likelihood: -393.181, Alpha: 11.000, Beta: 1.100

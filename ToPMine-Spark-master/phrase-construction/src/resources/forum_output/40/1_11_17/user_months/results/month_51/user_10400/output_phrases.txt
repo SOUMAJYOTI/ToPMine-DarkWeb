@@ -1,0 +1,61 @@
+Topic 0:
+  item case coins valuable:1.25
+  complete:1.25
+  didnt:1.25
+  practice requires hire:1.24
+  august pmquote:1.24
+  drugs learn launder money:1.24
+  thx:1.24
+  sarcasm man:1.24
+  artifacts resell money method:1.24
+  enigma august pmquote solov:1.24
+
+Topic 1:
+  dirty money clean money:0.61
+  multiply small deposit multiply:0.61
+  quote:0.56
+  offshore accounts:0.54
+  accounts:0.54
+  large business grocery store:0.53
+  business expecting large amount:0.53
+  enigma august pmquote:0.53
+  buy:0.53
+  money method:0.52
+
+Topic 2:
+  purchase item case coins:1.26
+  valuable artifacts resell:1.25
+  money method offshore accounts:1.23
+  selling drugs learn:1.23
+  buy large:1.23
+  business grocery store business:1.22
+  expecting large amount money:1.21
+  multiply:1.05
+  ways people launder money:1.05
+  offshore accounts shell company:1.05
+
+Topic 3:
+  tax:2.67
+  method:2.67
+  chunk:1.20
+  corp:1.20
+  pay:1.20
+  buy property:1.20
+  earnings:1.20
+  identity:1.20
+  revealing:1.20
+  country:1.20
+
+Topic 4:
+  quoteyou:2.46
+  explain:2.45
+  quotemethod:1.10
+  money buy:1.10
+  lol lol:1.10
+  understand:1.10
+  thin:1.10
+  dont:1.10
+  air:1.10
+  property:1.10
+
+K: 5, Log-Likelihood: -1198.211, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tails:11.34
+  time:2.11
+  card:1.96
+  encrypted:1.29
+  volume:1.29
+  dont:1.12
+  bit:1.06
+  quote:1.06
+  find:1.02
+  btc:1.01
+
+Topic 1:
+  tails:24.75
+  volume:11.87
+  browsing:9.45
+  persistent:9.26
+  store:7.67
+  flash:6.03
+  time:5.53
+  dont:5.22
+  pgp:4.74
+  encrusted:4.73
+
+Topic 2:
+  wallet:44.36
+  electrum:17.79
+  tails:13.83
+  addresses:10.54
+  btc:10.54
+  device:10.26
+  existing:8.91
+  seed:7.91
+  persistence:7.13
+  copy:5.98
+
+Topic 3:
+  card:2.39
+  time:2.23
+  tails:2.20
+  encrypted:1.37
+  post:1.19
+  bit:1.11
+  find:0.92
+  october:0.85
+  flash:0.77
+  fingers:0.71
+
+Topic 4:
+  time:5.24
+  forum:5.20
+  amen:4.74
+  jigsaw:4.18
+  thing:4.15
+  website:3.91
+  kind:3.91
+  stick:3.91
+  card:3.32
+  people:2.92
+
+K: 5, Log-Likelihood: -5921.348, Alpha: 11.000, Beta: 1.100

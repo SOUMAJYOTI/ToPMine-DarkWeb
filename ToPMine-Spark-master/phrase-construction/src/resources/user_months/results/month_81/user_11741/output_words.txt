@@ -1,0 +1,61 @@
+Topic 0:
+  coins:4.20
+  tumble:4.01
+  blackete:3.49
+  people:3.49
+  current:3.48
+  difficult:2.63
+  account:2.41
+  localbitcoins:2.22
+  november:1.92
+  leads:1.88
+
+Topic 1:
+  helix:2.30
+  quote:1.57
+  grams:1.47
+  service:1.40
+  problems:1.33
+  bitcoin:1.30
+  september:1.29
+  mixer:0.96
+  lot:0.89
+  clearnet:0.85
+
+Topic 2:
+  september:4.30
+  organix:3.66
+  amquote:3.01
+  hella:2.39
+  lot:2.18
+  tackle:2.00
+  sigaint:1.96
+  pm:1.95
+  favorites:1.90
+  good:1.76
+
+Topic 3:
+  quote:1.80
+  helix:1.76
+  september:1.35
+  amquote:1.13
+  lot:1.13
+  grams:1.11
+  service:1.11
+  hella:1.00
+  organix:0.94
+  november:0.92
+
+Topic 4:
+  quote:2.42
+  november:1.23
+  helix:1.09
+  september:0.98
+  link:0.98
+  amquote:0.84
+  account:0.84
+  grams:0.82
+  coins:0.81
+  hella:0.73
+
+K: 5, Log-Likelihood: -1542.060, Alpha: 11.000, Beta: 1.100

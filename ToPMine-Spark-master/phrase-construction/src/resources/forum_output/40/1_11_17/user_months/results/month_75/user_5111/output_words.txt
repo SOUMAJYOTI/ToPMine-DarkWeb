@@ -1,0 +1,61 @@
+Topic 0:
+  caps:0.83
+  people:0.74
+  drugs:0.61
+  time:0.61
+  lsd:0.58
+  paper:0.40
+  notebook:0.40
+  moving:0.40
+  kinda:0.40
+  travel:0.40
+
+Topic 1:
+  people:0.84
+  caps:0.84
+  drugs:0.61
+  time:0.60
+  lsd:0.59
+  kinda:0.40
+  paper:0.40
+  cap:0.40
+  travel:0.40
+  moving:0.40
+
+Topic 2:
+  people:0.79
+  caps:0.76
+  lsd:0.61
+  time:0.58
+  drugs:0.58
+  kinda:0.41
+  dont:0.40
+  travel:0.40
+  moving:0.40
+  move:0.40
+
+Topic 3:
+  people:0.75
+  caps:0.74
+  lsd:0.61
+  time:0.60
+  drugs:0.60
+  dose:0.40
+  notebook:0.40
+  move:0.40
+  moving:0.40
+  travel:0.40
+
+Topic 4:
+  people:0.88
+  caps:0.83
+  time:0.62
+  drugs:0.61
+  lsd:0.60
+  move:0.41
+  dose:0.40
+  dont:0.40
+  cap:0.40
+  notebook:0.40
+
+K: 5, Log-Likelihood: -577.264, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  link:3.34
+  topic:3.34
+  hope:3.34
+  hear:3.34
+  vendors:3.33
+  elephantastic:3.33
+  bit:3.33
+  quote:3.33
+  direct deals:3.33
+  hearing:3.33
+
+Topic 1:
+  dmt:6.93
+  ill:4.44
+  ll:4.29
+  funny yesterday:3.40
+  weekend:3.40
+  ship:3.40
+  suppose:3.40
+  fingers:3.40
+  message:3.40
+  profile:3.40
+
+Topic 2:
+  reply emails:6.99
+  eventually:3.41
+  slthey:3.41
+  psilocybin:3.41
+  onion email:3.41
+  onion email contacting:3.41
+  ime:3.41
+  receiving:3.41
+  service:3.41
+  email anon gmail received:3.41
+
+Topic 3:
+  hey:3.31
+  dead:2.09
+  rn:2.09
+  bitmessage:2.09
+  deal:2.09
+  abraxas:2.09
+  address:2.09
+  downtherabbithole:2.09
+  sorta:2.09
+  direct:2.09
+
+Topic 4:
+  dtrh email:2.81
+  replied onion email contacting:2.78
+  anon gmail received response:2.77
+  sl:2.74
+  therabbithole:1.74
+  sigaint:1.74
+  riseup:1.74
+  net:1.73
+  orgdowntherabbithole:1.73
+  alpha bay starting week:1.57
+
+K: 5, Log-Likelihood: -1410.902, Alpha: 11.000, Beta: 1.100

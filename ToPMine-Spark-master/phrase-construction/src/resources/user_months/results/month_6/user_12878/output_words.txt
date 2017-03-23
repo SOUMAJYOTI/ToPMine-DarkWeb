@@ -1,0 +1,61 @@
+Topic 0:
+  message:0.58
+  intruders:0.40
+  german:0.40
+  board:0.40
+  forum:0.20
+  rsrmhjx:0.20
+  usyckeoc:0.20
+  christ:0.20
+  outlaw:0.20
+  offline:0.20
+
+Topic 1:
+  message:0.62
+  board:0.40
+  intruders:0.40
+  german:0.40
+  lhmqxfhthk:0.20
+  stupidity:0.20
+  angry:0.20
+  cbpp:0.20
+  wb:0.20
+  pgp:0.20
+
+Topic 2:
+  message:0.58
+  board:0.40
+  intruders:0.40
+  german:0.40
+  offline:0.20
+  outlaw:0.20
+  forum:0.20
+  hf:0.20
+  dutknjitlwl:0.20
+  pgp:0.20
+
+Topic 3:
+  message:0.59
+  german:0.40
+  board:0.40
+  intruders:0.40
+  outlaw:0.20
+  forum:0.20
+  offline:0.20
+  ldvaqzg:0.20
+  agutmfsswehn:0.20
+  qvv:0.20
+
+Topic 4:
+  message:0.62
+  german:0.40
+  intruders:0.40
+  board:0.40
+  hh:0.20
+  jp:0.20
+  qyl:0.20
+  rogtdex:0.20
+  ordered:0.20
+  uike:0.20
+
+K: 5, Log-Likelihood: -702.403, Alpha: 11.000, Beta: 1.100

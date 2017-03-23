@@ -1,0 +1,61 @@
+Topic 0:
+  seller:0.83
+  true:0.53
+  markets:0.38
+  claims:0.38
+  feedback:0.38
+  scammed:0.36
+  love:0.36
+  vouch:0.35
+  top:0.35
+  buy:0.35
+
+Topic 1:
+  free:1.13
+  vendor:1.13
+  evo:1.11
+  satisfied:0.46
+  hodgepodge:0.46
+  idk:0.46
+  pretty:0.46
+  full:0.46
+  amhe:0.46
+  familiar:0.46
+
+Topic 2:
+  true:0.55
+  register:0.49
+  wanted:0.49
+  questions:0.49
+  impertinent:0.49
+  pose:0.49
+  seller:0.49
+  amhow:0.40
+  dead:0.40
+  zaphod:0.40
+
+Topic 3:
+  true:0.78
+  seller:0.61
+  impertinent:0.41
+  pose:0.41
+  questions:0.41
+  wanted:0.41
+  register:0.41
+  claims:0.34
+  forum:0.34
+  quote:0.33
+
+Topic 4:
+  evo:0.56
+  vendor:0.55
+  free:0.55
+  true:0.40
+  seller:0.38
+  till:0.38
+  sold:0.38
+  evolution:0.38
+  feedback:0.36
+  markets:0.36
+
+K: 5, Log-Likelihood: -466.621, Alpha: 11.000, Beta: 1.100

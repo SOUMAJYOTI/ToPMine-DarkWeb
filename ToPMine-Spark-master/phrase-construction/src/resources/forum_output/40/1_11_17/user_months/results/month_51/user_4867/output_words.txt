@@ -1,0 +1,61 @@
+Topic 0:
+  people:1.10
+  making:0.86
+  wanted:0.83
+  job:0.81
+  community:0.75
+  drop:0.74
+  don:0.63
+  time:0.61
+  order:0.41
+  difficult:0.40
+
+Topic 1:
+  people:1.05
+  drop:0.89
+  wanted:0.80
+  community:0.80
+  job:0.78
+  making:0.76
+  don:0.62
+  time:0.59
+  decisions:0.40
+  difficult:0.40
+
+Topic 2:
+  people:1.53
+  job:0.84
+  community:0.84
+  wanted:0.81
+  making:0.78
+  drop:0.75
+  don:0.60
+  time:0.58
+  big:0.41
+  reflect:0.41
+
+Topic 3:
+  people:1.18
+  drop:0.85
+  making:0.81
+  job:0.81
+  community:0.80
+  wanted:0.77
+  time:0.59
+  don:0.58
+  registration:0.40
+  spot:0.40
+
+Topic 4:
+  people:1.13
+  community:0.81
+  wanted:0.79
+  making:0.79
+  drop:0.76
+  job:0.76
+  time:0.63
+  don:0.57
+  account:0.40
+  welcoming:0.40
+
+K: 5, Log-Likelihood: -552.168, Alpha: 11.000, Beta: 1.100

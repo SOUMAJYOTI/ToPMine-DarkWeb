@@ -1,0 +1,61 @@
+Topic 0:
+  hansa:1.39
+  market:0.80
+  store:0.44
+  cannabis:0.41
+  nucleus:0.40
+  orders:0.40
+  mail:0.36
+  giantgrill:0.36
+  products:0.36
+  vacation:0.36
+
+Topic 1:
+  hansa:1.10
+  market:0.79
+  mail:0.44
+  dhl:0.43
+  vacation:0.43
+  giantgrill:0.43
+  products:0.43
+  open:0.43
+  cannabis:0.40
+  nucleus:0.39
+
+Topic 2:
+  hansa:1.16
+  market:0.78
+  store:0.41
+  nucleus:0.41
+  cannabis:0.40
+  orders:0.40
+  open:0.40
+  giantgrill:0.40
+  products:0.40
+  dhl:0.39
+
+Topic 3:
+  hansa:1.30
+  market:0.77
+  store:0.44
+  orders:0.41
+  cannabis:0.41
+  nucleus:0.41
+  dhl:0.37
+  giantgrill:0.37
+  open:0.37
+  mail:0.37
+
+Topic 4:
+  hansa:1.04
+  market:0.86
+  open:0.44
+  vacation:0.44
+  products:0.44
+  dhl:0.44
+  giantgrill:0.44
+  mail:0.43
+  orders:0.39
+  nucleus:0.39
+
+K: 5, Log-Likelihood: -364.697, Alpha: 11.000, Beta: 1.100

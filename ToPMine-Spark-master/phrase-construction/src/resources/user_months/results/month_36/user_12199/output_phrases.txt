@@ -1,0 +1,61 @@
+Topic 0:
+  myynnit:1.80
+  project:1.12
+  week:1.11
+  possibility:1.11
+  sources:1.11
+  pain:1.11
+  things:1.11
+  vendors:1.11
+  json:1.11
+  service:1.11
+
+Topic 1:
+  orders:1.05
+  unfair:1.03
+  normal:1.03
+  continue:1.02
+  sounds:0.49
+  silkkitie:0.48
+  cold:0.42
+  screenshotsilkkitie:0.42
+  stupid:0.42
+  working:0.42
+
+Topic 2:
+  happened:1.60
+  moment:0.81
+  understand:0.71
+  people:0.71
+  crashthere:0.71
+  time:0.71
+  worse:0.71
+  happened happened:0.71
+  luck:0.71
+  laugh:0.71
+
+Topic 3:
+  myynnit:0.44
+  hold:0.37
+  silkkitie:0.35
+  visual:0.32
+  customer:0.32
+  service:0.32
+  feel:0.32
+  sources:0.32
+  pain:0.32
+  vendors:0.32
+
+Topic 4:
+  myynnit:0.39
+  hold:0.38
+  silkkitie:0.37
+  continue:0.34
+  unfair:0.33
+  normal:0.33
+  orders:0.30
+  json:0.29
+  customer:0.29
+  feel:0.29
+
+K: 5, Log-Likelihood: -899.683, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  exchange:0.54
+  genesis:0.52
+  trading:0.51
+  profitable:0.45
+  mining:0.42
+  btc:0.38
+  dont:0.38
+  mining btc:0.38
+  mine:0.38
+  cryptocurrencies:0.38
+
+Topic 1:
+  money:2.55
+  market:2.55
+  set:2.55
+  fortune:1.18
+  bet:1.18
+  hunt:1.18
+  scientist:1.18
+  prove:1.18
+  legal:1.18
+  store:1.18
+
+Topic 2:
+  exchange:0.67
+  genesis:0.66
+  trading:0.59
+  day:0.49
+  eth:0.49
+  long:0.49
+  dash:0.49
+  crypto:0.49
+  rate:0.49
+  spitting:0.49
+
+Topic 3:
+  trading:0.58
+  plan:0.53
+  profits:0.53
+  effort:0.53
+  reveals:0.53
+  crossing:0.53
+  fingers:0.53
+  compensate:0.53
+  hike:0.53
+  worth:0.53
+
+Topic 4:
+  cpu:1.74
+  mined:0.74
+  shitloads:0.74
+  yea:0.74
+  software:0.74
+  idea:0.74
+  hardware:0.74
+  maximum:0.74
+  break:0.74
+  cool:0.74
+
+K: 5, Log-Likelihood: -667.740, Alpha: 11.000, Beta: 1.100

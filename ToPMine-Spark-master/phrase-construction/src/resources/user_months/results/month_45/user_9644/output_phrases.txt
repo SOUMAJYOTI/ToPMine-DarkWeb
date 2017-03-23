@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoin wallet:1.55
+  pay shield:1.02
+  pgb:0.69
+  confused:0.68
+  suggestions:0.68
+  acquiring:0.68
+  bitcoin:0.68
+  absolute:0.68
+  newcomer:0.67
+  tumbler tumbler:0.67
+
+Topic 1:
+  pay shield:1.80
+  btc:1.04
+  blond:0.96
+  legal:0.83
+  variability:0.83
+  easiest:0.83
+  daily:0.82
+  tumbler confidentiality:0.82
+  price:0.81
+  privacy:0.81
+
+Topic 2:
+  wallet:5.91
+  send btc:3.75
+  change:1.62
+  nature:1.61
+  public:1.61
+  mixer mixer:1.61
+  reliable:1.61
+  tails btc:1.61
+  traceable:1.60
+  btc:0.81
+
+Topic 3:
+  bitcoin wallet:1.17
+  tails:0.64
+  pay shield:0.62
+  key:0.58
+  tumbler tumbler:0.58
+  transfer electrum:0.58
+  confidentiality:0.58
+  absolute:0.58
+  acquiring:0.58
+  tmg:0.58
+
+Topic 4:
+  bitcoin wallet:1.04
+  pay shield:0.70
+  localbitcoin:0.67
+  drive:0.67
+  wallet pay:0.67
+  notable:0.67
+  untraceable:0.67
+  automatically:0.66
+  reset:0.66
+  transfer wallet:0.66
+
+K: 5, Log-Likelihood: -607.992, Alpha: 11.000, Beta: 1.100

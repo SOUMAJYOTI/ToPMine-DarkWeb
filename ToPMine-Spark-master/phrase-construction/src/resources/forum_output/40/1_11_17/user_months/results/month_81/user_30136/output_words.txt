@@ -1,0 +1,61 @@
+Topic 0:
+  account:3.70
+  btc:2.73
+  address:2.68
+  deposit:2.66
+  market:1.93
+  good:1.92
+  links:1.77
+  click:1.77
+  exact:1.73
+  admin:1.40
+
+Topic 1:
+  granny:5.79
+  buyer:3.89
+  safe:3.84
+  love:3.32
+  kids:2.83
+  resolved:2.83
+  hope:2.46
+  told:2.13
+  hours:2.12
+  stay:1.90
+
+Topic 2:
+  december:6.32
+  tang:3.40
+  pmquote:3.36
+  fatherted:2.72
+  teeth:2.31
+  quote:1.84
+  tooth:1.63
+  dont:1.48
+  drugs:0.82
+  harley:0.78
+
+Topic 3:
+  tooth:8.21
+  gum:3.14
+  drugs:3.02
+  teeth:2.88
+  december:2.56
+  celebrity:2.01
+  cash:2.01
+  london:1.97
+  street:1.97
+  implants:1.97
+
+Topic 4:
+  december:2.50
+  chewits:2.01
+  dr:1.98
+  nice:1.78
+  doesn:1.77
+  scammed:1.76
+  shop:1.74
+  pmquote:1.65
+  tang:1.63
+  hope:1.53
+
+K: 5, Log-Likelihood: -1981.942, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  silkkitie:13.73
+  kun:6.86
+  lk olko huolissaan:6.86
+  sr:5.36
+  forbidden:5.36
+  olisi:4.65
+  ynnist:4.55
+  kurssi:4.55
+  palaa:4.55
+  kun kapteeni:4.55
+
+Topic 1:
+  december:6.82
+  high prices:5.86
+  language german:5.83
+  vanha:5.37
+  backup:5.37
+  posts:5.37
+  hub:4.60
+  low:4.50
+  finish:4.50
+  quality:4.50
+
+Topic 2:
+  ytt:6.73
+  ongelma:5.38
+  jos:5.28
+  ei:5.11
+  vaikka jo:4.56
+  st:4.56
+  fi:4.56
+  tekstiviestin:4.56
+  omistaja:4.56
+  pelk:4.56
+
+Topic 3:
+  hinta:5.39
+  pisteita:5.39
+  fiat:5.39
+  menetti:5.39
+  en:5.33
+  sis:5.02
+  ss:4.53
+  ku:4.51
+  toimia:4.47
+  odotan:4.47
+
+Topic 4:
+  li:8.08
+  ett:6.91
+  asiasta:5.98
+  mik:5.37
+  vihaisia:4.53
+  vinkkin:4.53
+  ettei:4.53
+  tiedotettaisiin:4.53
+  kyselyj:4.53
+  tulis:4.53
+
+K: 5, Log-Likelihood: -8755.113, Alpha: 11.000, Beta: 1.100

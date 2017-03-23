@@ -1,0 +1,61 @@
+Topic 0:
+  good:2.59
+  sig:1.22
+  escrow:1.22
+  whatsoever:1.22
+  people:1.22
+  smartly:1.22
+  ways:1.22
+  boggy:1.22
+  favorite:1.22
+  lot:1.22
+
+Topic 1:
+  team:2.12
+  ticket:1.99
+  ava:1.77
+  order:0.93
+  service:0.93
+  checked:0.92
+  open:0.92
+  great:0.92
+  hansa market:0.92
+  listings hansa:0.92
+
+Topic 2:
+  ticket:1.44
+  ava:0.83
+  support:0.67
+  wow:0.67
+  volume:0.67
+  crazy:0.67
+  days:0.66
+  average:0.66
+  replied:0.66
+  zendym:0.66
+
+Topic 3:
+  ive:0.93
+  site:0.93
+  multisig:0.91
+  scams:0.79
+  check:0.79
+  long:0.79
+  simply:0.79
+  biggest:0.79
+  equally:0.79
+  em:0.79
+
+Topic 4:
+  slowed:0.79
+  orders:0.78
+  side:0.78
+  attention:0.78
+  listings site:0.78
+  nice:0.78
+  finally:0.78
+  experience:0.78
+  frustrating:0.78
+  compares:0.78
+
+K: 5, Log-Likelihood: -843.465, Alpha: 11.000, Beta: 1.100

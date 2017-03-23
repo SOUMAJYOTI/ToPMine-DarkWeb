@@ -1,0 +1,61 @@
+Topic 0:
+  mining:1.64
+  trading:0.75
+  btc:0.59
+  money:0.52
+  genesis:0.43
+  exchange:0.42
+  profitable:0.40
+  cpu:0.40
+  power:0.37
+  market:0.34
+
+Topic 1:
+  mining:1.68
+  trading:0.62
+  btc:0.60
+  money:0.58
+  genesis:0.42
+  exchange:0.42
+  profitable:0.40
+  power:0.38
+  cpu:0.38
+  set:0.37
+
+Topic 2:
+  mining:1.32
+  money:0.58
+  btc:0.58
+  cpu:0.58
+  power:0.48
+  profitable:0.47
+  trading:0.45
+  set:0.37
+  market:0.37
+  exchange:0.36
+
+Topic 3:
+  mining:1.77
+  trading:0.69
+  btc:0.66
+  money:0.55
+  exchange:0.43
+  genesis:0.41
+  profitable:0.39
+  set:0.37
+  market:0.37
+  power:0.36
+
+Topic 4:
+  mining:1.59
+  money:0.77
+  btc:0.57
+  market:0.56
+  set:0.56
+  trading:0.50
+  power:0.41
+  genesis:0.37
+  exchange:0.37
+  profitable:0.34
+
+K: 5, Log-Likelihood: -545.417, Alpha: 11.000, Beta: 1.100

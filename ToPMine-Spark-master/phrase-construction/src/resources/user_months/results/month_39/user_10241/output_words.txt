@@ -1,0 +1,61 @@
+Topic 0:
+  forums:7.31
+  abraxas:4.94
+  check:3.60
+  token:2.52
+  forum:2.40
+  join:2.30
+  account:2.29
+  discussion:2.28
+  referred:2.26
+  march:2.14
+
+Topic 1:
+  market:4.77
+  site:4.51
+  button:3.85
+  collect:3.85
+  disabled:1.85
+  usernames:1.85
+  le:1.85
+  bundle:1.85
+  honeypot:1.85
+  browser:1.85
+
+Topic 2:
+  abraxas:6.67
+  forums:4.26
+  token:3.04
+  check:2.99
+  discussion:2.94
+  forum:2.58
+  account:2.49
+  post:2.41
+  join:2.33
+  march:2.04
+
+Topic 3:
+  market:3.19
+  abraxas:2.86
+  forums:1.94
+  issues:1.62
+  time:1.37
+  abraham:1.27
+  original:1.26
+  good:0.99
+  check:0.99
+  quote:0.83
+
+Topic 4:
+  forums:7.21
+  abraxas:5.44
+  check:3.34
+  token:2.65
+  join:2.55
+  account:2.42
+  forum:2.23
+  march:2.21
+  referred:2.14
+  post:2.07
+
+K: 5, Log-Likelihood: -1486.061, Alpha: 11.000, Beta: 1.100

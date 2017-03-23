@@ -1,0 +1,61 @@
+Topic 0:
+  appreciated:1.33
+  security:1.33
+  mail:1.33
+  problem:1.32
+  secure:1.32
+  find:1.29
+  tor:1.25
+  provider:1.22
+  based:1.19
+  quote:1.05
+
+Topic 1:
+  trust:1.10
+  quote:0.98
+  provider:0.85
+  find:0.84
+  based:0.84
+  appreciated:0.83
+  secure:0.82
+  mail:0.82
+  problem:0.81
+  tor:0.80
+
+Topic 2:
+  secure:1.45
+  security:1.45
+  problem:1.40
+  based:1.38
+  tor:1.36
+  find:1.35
+  mail:1.32
+  provider:1.30
+  appreciated:1.23
+  quote:0.96
+
+Topic 3:
+  appreciated:1.38
+  provider:1.33
+  find:1.32
+  mail:1.28
+  tor:1.25
+  security:1.23
+  based:1.20
+  problem:1.17
+  secure:1.13
+  quote:1.00
+
+Topic 4:
+  based:1.39
+  tor:1.33
+  provider:1.31
+  problem:1.31
+  secure:1.28
+  mail:1.26
+  appreciated:1.22
+  security:1.22
+  find:1.20
+  quote:1.00
+
+K: 5, Log-Likelihood: -395.161, Alpha: 11.000, Beta: 1.100

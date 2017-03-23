@@ -1,0 +1,61 @@
+Topic 0:
+  programming language:0.24
+  programmed php:0.24
+  silk road:0.24
+  website:0.16
+  websites:0.16
+  tor:0.16
+  agra:0.08
+  onion:0.08
+  php programming language:0.08
+  extensive:0.08
+
+Topic 1:
+  silk road:0.24
+  programmed php:0.24
+  programming language:0.24
+  websites:0.16
+  website:0.16
+  tor:0.16
+  yeah:0.08
+  mysql:0.08
+  setting:0.08
+  php:0.08
+
+Topic 2:
+  programmed php:0.24
+  silk road:0.24
+  programming language:0.24
+  tor:0.16
+  website:0.16
+  websites:0.16
+  idea:0.08
+  front:0.08
+  mysql:0.08
+  planning:0.08
+
+Topic 3:
+  silk road:0.24
+  programming language:0.24
+  programmed php:0.24
+  websites:0.16
+  tor:0.16
+  website:0.16
+  computer:0.08
+  agra:0.08
+  onion:0.08
+  extensive:0.08
+
+Topic 4:
+  programmed php:0.24
+  programming language:0.24
+  silk road:0.24
+  tor:0.16
+  websites:0.16
+  website:0.16
+  php:0.08
+  idea:0.08
+  avoid:0.08
+  planning:0.08
+
+K: 5, Log-Likelihood: -76.075, Alpha: 11.000, Beta: 1.100

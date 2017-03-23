@@ -1,0 +1,61 @@
+Topic 0:
+  thousands:0.36
+  people:0.36
+  workers:0.36
+  area:0.36
+  redacted:0.21
+  verified:0.20
+  vendor:0.20
+  insidethewhale:0.19
+  reddit:0.19
+  picture:0.19
+
+Topic 1:
+  area:0.36
+  thousands:0.35
+  workers:0.35
+  people:0.35
+  redacted:0.21
+  vendor:0.21
+  verified:0.21
+  happy:0.19
+  picture:0.19
+  gamesome:0.19
+
+Topic 2:
+  area:0.38
+  people:0.38
+  thousands:0.37
+  workers:0.37
+  vendor:0.20
+  verified:0.20
+  redacted:0.20
+  wonderful:0.18
+  guys:0.18
+  proudly:0.18
+
+Topic 3:
+  workers:0.37
+  thousands:0.37
+  people:0.37
+  area:0.37
+  verified:0.20
+  vendor:0.20
+  redacted:0.20
+  nations:0.18
+  produced:0.18
+  largest:0.18
+
+Topic 4:
+  workers:0.38
+  area:0.38
+  people:0.37
+  thousands:0.37
+  verified:0.20
+  vendor:0.20
+  redacted:0.20
+  drug:0.19
+  harmless:0.19
+  success:0.19
+
+K: 5, Log-Likelihood: -317.620, Alpha: 11.000, Beta: 1.100

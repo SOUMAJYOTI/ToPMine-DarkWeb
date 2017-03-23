@@ -1,0 +1,61 @@
+Topic 0:
+  wrong:14.01
+  february:7.88
+  sprayandwipe:6.30
+  amquote:3.97
+  tor:3.90
+  connected:3.64
+  quote:3.52
+  correct:3.48
+  amplease:3.27
+  tails:2.61
+
+Topic 1:
+  tails:16.30
+  connect:5.54
+  wipe:3.52
+  issues:3.26
+  work:2.55
+  tor:2.37
+  issue:2.36
+  memory:2.29
+  big:2.28
+  pray:2.28
+
+Topic 2:
+  tails:4.67
+  february:3.33
+  quote:3.02
+  iso:2.93
+  instructions:1.96
+  check:1.90
+  time:1.85
+  boot:1.84
+  lila:1.47
+  arcane:1.38
+
+Topic 3:
+  february:7.07
+  quote:4.52
+  tor:3.89
+  lila:3.02
+  wrong:2.84
+  sprayandwipe:2.58
+  tails:2.50
+  correct:1.74
+  connected:1.60
+  amquote:1.60
+
+Topic 4:
+  february:5.23
+  quote:4.28
+  tails:3.92
+  tor:2.48
+  lila:2.39
+  sprayandwipe:1.71
+  instructions:1.64
+  sd:1.41
+  boot:1.33
+  wrong:1.32
+
+K: 5, Log-Likelihood: -2211.493, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  vpon:3.22
+  honestly:1.81
+  ago:1.81
+  topic:1.81
+  thougt:1.81
+  reccomendations:1.81
+  pia:1.81
+  couple:1.81
+  interesting:1.81
+  clarification:1.81
+
+Topic 1:
+  network:4.92
+  tor:4.59
+  branches:2.93
+  government:2.93
+  people:1.94
+  connection:1.37
+  anonymity:1.16
+  including:0.94
+  hide:0.94
+  states:0.94
+
+Topic 2:
+  eyes:9.70
+  countries:9.22
+  set:4.39
+  bittorrent:4.36
+  vpn:3.98
+  bandwidth:3.80
+  server:2.89
+  headquartered:2.08
+  entrynodes:2.07
+  cover:2.07
+
+Topic 3:
+  entry:11.87
+  guard:5.87
+  matter:3.87
+  guards:3.87
+  exit:3.87
+  attacker:3.87
+  nodes:3.87
+  tor:3.27
+  sites:1.95
+  doesnt:1.87
+
+Topic 4:
+  server:12.67
+  country:8.50
+  traffic:6.20
+  europe:5.84
+  vpn:5.51
+  hidden:3.84
+  russian:3.84
+  western:3.84
+  contact:3.84
+  services:3.84
+
+K: 5, Log-Likelihood: -2172.677, Alpha: 11.000, Beta: 1.100

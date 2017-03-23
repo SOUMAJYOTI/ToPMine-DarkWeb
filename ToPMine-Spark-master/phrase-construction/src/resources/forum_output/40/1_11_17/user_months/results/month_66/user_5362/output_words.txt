@@ -1,0 +1,61 @@
+Topic 0:
+  vials:1.54
+  perfectly:0.93
+  calibrated:0.65
+  jor:0.49
+  price:0.49
+  bruv:0.46
+  hits:0.46
+  good:0.45
+  time:0.38
+  fill:0.25
+
+Topic 1:
+  jor:0.79
+  vials:0.65
+  market:0.58
+  fill:0.57
+  time:0.48
+  perfectly:0.29
+  organic:0.27
+  niche:0.27
+  comer:0.27
+  full:0.27
+
+Topic 2:
+  vials:1.55
+  perfectly:0.87
+  calibrated:0.65
+  price:0.56
+  jor:0.51
+  hits:0.45
+  good:0.44
+  bruv:0.44
+  time:0.38
+  worthwhile:0.25
+
+Topic 3:
+  jor:0.88
+  fill:0.77
+  market:0.77
+  vials:0.47
+  time:0.47
+  liquidergot:0.32
+  adding:0.32
+  vein:0.32
+  capable:0.32
+  reselling:0.32
+
+Topic 4:
+  vials:1.79
+  perfectly:1.71
+  calibrated:1.28
+  good:0.73
+  bruv:0.73
+  hits:0.73
+  price:0.47
+  pmsounds:0.33
+  priest:0.33
+  drops:0.33
+
+K: 5, Log-Likelihood: -414.995, Alpha: 11.000, Beta: 1.100

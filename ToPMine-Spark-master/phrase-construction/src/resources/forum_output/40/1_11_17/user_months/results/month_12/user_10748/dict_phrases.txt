@@ -1,0 +1,236 @@
+half,0,1
+functions,1,1
+py,2,1
+password,3,2
+dev,4,1
+protected,5,1
+draft,6,1
+visual,7,1
+released,8,1
+packaged,9,1
+based,10,3
+sh transaction,11,1
+github,12,2
+download windows,13,1
+raw,14,1
+version,15,4
+easy,16,1
+planning,17,1
+input,18,2
+installer,19,5
+redistributables,20,1
+formed,21,1
+keys based,22,1
+deal,23,1
+components,24,1
+discovered,25,1
+automatically,26,3
+deterministic,27,1
+sign transactions,28,1
+utility,29,1
+trusting,30,1
+cheersep,31,1
+long,32,1
+sh,33,3
+supports,34,1
+key,35,4
+number number,36,1
+electrum,37,2
+set,38,1
+address,39,2
+salt,40,1
+installer windows,41,1
+plugin,42,2
+stage,43,1
+bug,44,1
+redistributable,45,1
+owock,46,1
+config,47,1
+installation tails,48,1
+fashion,49,1
+reports,50,1
+tx,51,1
+correct,52,3
+needing,53,1
+tedious,54,1
+windows dont,55,1
+secure,56,2
+good,57,1
+features,58,1
+compile,59,1
+version sh,60,1
+continue,61,1
+leave,62,1
+web version,63,1
+implement,64,1
+generate,65,1
+programming,66,1
+ensure,67,1
+pbkdf,68,1
+test,69,1
+users,70,1
+tails,71,3
+blockchain,72,1
+tails file,73,1
+party,74,1
+full,75,1
+untarring,76,1
+signing correct,77,1
+private,78,1
+rough,79,1
+submit,80,2
+additional,81,1
+untar,82,1
+binary tails,83,1
+capable,84,2
+figured,85,1
+choose,86,1
+paste,87,1
+interface,88,1
+life,89,1
+sig,90,2
+malicious,91,1
+compiled,92,1
+file binary,93,1
+work windows,94,1
+json,95,1
+signing transactions,96,1
+correct key,97,1
+unbarred,98,1
+windows,99,9
+pymultisigtool,100,1
+installer sign,101,1
+modify,102,1
+form,103,1
+fresh,104,1
+prompt,105,1
+bitcoin,106,1
+big,107,1
+software,108,1
+release,109,3
+considered,110,2
+tested,111,1
+bip,112,2
+program,113,1
+fair,114,1
+bit,115,3
+issues,116,2
+signatures,117,1
+multi,118,2
+output,119,1
+number,120,3
+problem,121,1
+installer work,122,1
+tmp,123,1
+sign transaction,124,2
+hex,125,1
+order,126,1
+gtk,127,2
+python,128,2
+issue,129,1
+install installer,130,1
+work,131,4
+testing,132,2
+signed,133,2
+adresses,134,1
+transactions,135,3
+transaction keys,136,1
+push,137,2
+installs,138,1
+knowing,139,1
+install,140,4
+binary,141,5
+invalid,142,1
+gui,143,1
+download release,144,1
+dont windows,145,1
+works,146,2
+signature,147,2
+save,148,1
+local,149,1
+derive,150,1
+valid,151,1
+file,152,4
+top,153,1
+blocked,154,1
+web,155,4
+installation,156,3
+dark,157,1
+tracker,158,1
+download installer,159,1
+copy,160,2
+place,161,1
+penal,162,1
+chain,163,1
+wallet,164,2
+supplied,165,2
+transaction signing,166,1
+pyjamas,167,1
+tarball,168,2
+transactions dont,169,1
+nice,170,1
+nacl,171,1
+site,172,2
+windows binary,173,3
+la,174,1
+machine,175,1
+automatically sign,176,1
+stored,177,1
+windows install,178,1
+tampering,179,1
+complete,180,1
+signing,181,5
+transaction,182,7
+stuff,183,1
+outputs,184,1
+file download,185,1
+data,186,1
+sign,187,4
+download,188,3
+solution,189,1
+find,190,2
+create,191,2
+redeemscripts,192,1
+settings,193,2
+initials,194,2
+ill,195,1
+basin,196,1
+published,197,1
+install work,198,1
+redeemscript,199,1
+core,200,1
+disc,201,1
+dont,202,4
+note,203,1
+key signing,204,1
+code,205,1
+configuration,206,1
+keys,207,7
+storage,208,1
+binary installer,209,2
+platform,210,1
+network,211,1
+total,212,1
+public,213,1
+keys keys,214,1
+securely,215,1
+browser,216,2
+extra,217,1
+pybitcointools,218,2
+working,219,2
+track,220,1
+scripts,221,1
+included,222,2
+designed,223,1
+rest,224,1
+limited,225,1
+release version,226,1
+structure,227,1
+master,228,1
+keys web,229,1
+interested,230,1
+machines,231,1
+user,232,2
+binary install,233,1
+simply,234,1
+account,235,1

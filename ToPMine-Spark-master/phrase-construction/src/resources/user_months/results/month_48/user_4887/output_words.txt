@@ -1,0 +1,61 @@
+Topic 0:
+  key:1.24
+  gpg:0.82
+  save:0.78
+  folowing:0.41
+  details:0.41
+  update:0.41
+  uid:0.41
+  installed:0.41
+  hitting:0.40
+  remove:0.40
+
+Topic 1:
+  key:1.10
+  save:0.86
+  gpg:0.81
+  finalize:0.42
+  edit:0.42
+  exit:0.42
+  cb:0.41
+  deluid:0.41
+  original:0.41
+  execute:0.41
+
+Topic 2:
+  key:1.19
+  save:0.81
+  gpg:0.80
+  scidmt:0.40
+  cb:0.40
+  confusion:0.40
+  adduid:0.40
+  original:0.40
+  finalize:0.40
+  edit:0.40
+
+Topic 3:
+  key:1.34
+  gpg:0.68
+  save:0.67
+  scidmt:0.45
+  confusion:0.45
+  update:0.37
+  execute:0.37
+  hitting:0.37
+  exit:0.37
+  uid:0.37
+
+Topic 4:
+  key:1.13
+  gpg:0.89
+  save:0.88
+  software:0.42
+  deluid:0.42
+  enter:0.42
+  installed:0.42
+  adduid:0.42
+  details:0.42
+  prompted:0.42
+
+K: 5, Log-Likelihood: -291.046, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,36 @@
+Topic 0:
+  avids:0.20
+  link:0.20
+  thought:0.20
+  post:0.20
+  thread:0.20
+
+Topic 1:
+  thought:0.20
+  thread:0.20
+  avids:0.20
+  post:0.20
+  link:0.20
+
+Topic 2:
+  avids:0.20
+  post:0.20
+  thread:0.20
+  thought:0.20
+  link:0.20
+
+Topic 3:
+  post:0.20
+  thread:0.20
+  avids:0.20
+  link:0.20
+  thought:0.20
+
+Topic 4:
+  link:0.20
+  thought:0.20
+  thread:0.20
+  post:0.20
+  avids:0.20
+
+K: 5, Log-Likelihood: -8.047, Alpha: 11.000, Beta: 1.100

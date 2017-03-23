@@ -1,0 +1,12 @@
+remember,0,1
+read,1,1
+revisited,2,1
+subject,3,1
+change,4,1
+things,5,1
+time,6,2
+thread,7,1
+mentioned,8,1
+good,9,1
+email,10,1
+providers,11,1

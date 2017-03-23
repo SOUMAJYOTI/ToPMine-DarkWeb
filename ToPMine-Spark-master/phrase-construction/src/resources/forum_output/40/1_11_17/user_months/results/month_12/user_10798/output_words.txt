@@ -1,0 +1,61 @@
+Topic 0:
+  tor:1.53
+  bug:1.51
+  agora:1.16
+  market:1.16
+  hidden:1.01
+  post:0.96
+  service:0.88
+  message:0.85
+  time:0.81
+  pgp:0.78
+
+Topic 1:
+  service:1.96
+  tor:1.50
+  bug:1.14
+  hidden:1.13
+  agora:1.09
+  market:1.02
+  post:0.98
+  pgp:0.84
+  time:0.84
+  message:0.76
+
+Topic 2:
+  post:1.22
+  message:0.89
+  market:0.88
+  agora:0.87
+  bug:0.70
+  heads:0.69
+  hit:0.67
+  days:0.67
+  refresh:0.66
+  ready:0.66
+
+Topic 3:
+  service:4.44
+  bug:4.32
+  hidden:3.63
+  tor:3.42
+  agora:2.81
+  library:1.22
+  version:1.20
+  vulnerable:1.20
+  big:1.17
+  attacker:1.16
+
+Topic 4:
+  bug:1.33
+  post:1.31
+  service:1.16
+  market:1.07
+  agora:1.06
+  message:0.89
+  tor:0.89
+  pgp:0.78
+  hidden:0.68
+  time:0.67
+
+K: 5, Log-Likelihood: -1943.101, Alpha: 11.000, Beta: 1.100

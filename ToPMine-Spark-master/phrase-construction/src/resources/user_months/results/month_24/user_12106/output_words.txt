@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins:0.61
+  bill:0.59
+  paid:0.39
+  service:0.20
+  silkkitie:0.20
+  market:0.20
+  order:0.20
+  wrong:0.20
+  forum:0.20
+  hope:0.20
+
+Topic 1:
+  bitcoins:0.62
+  bill:0.60
+  paid:0.41
+  cell:0.20
+  account:0.20
+  wait:0.20
+  complaint:0.20
+  today:0.20
+  ago:0.20
+  market:0.20
+
+Topic 2:
+  bitcoins:0.60
+  bill:0.59
+  paid:0.39
+  luck:0.20
+  money:0.20
+  dealt:0.20
+  knowledge:0.20
+  good:0.20
+  hope:0.20
+  respond:0.20
+
+Topic 3:
+  bill:0.59
+  bitcoins:0.58
+  paid:0.40
+  respond:0.20
+  knowledge:0.20
+  luck:0.20
+  lost:0.20
+  members:0.20
+  good:0.20
+  dealer:0.20
+
+Topic 4:
+  bill:0.62
+  bitcoins:0.58
+  paid:0.41
+  ago:0.20
+  complaint:0.20
+  wait:0.20
+  account:0.20
+  cell:0.20
+  today:0.20
+  lost:0.20
+
+K: 5, Log-Likelihood: -99.331, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  onion:4.80
+  drddrddig:4.20
+  session:4.20
+  register:4.20
+  vendor:3.28
+  dnstats:2.99
+  spam:2.06
+  acas:2.06
+  forum:2.06
+  plate:2.06
+
+Topic 1:
+  large market exit scams:9.28
+  market:6.84
+  die liable alternatives development:4.43
+  people happy provided useable:4.43
+  share runs bit:4.43
+  market picks market:4.43
+  registration:4.43
+  support good decentralized market:4.43
+  repeat funny thing:4.42
+  months hit centralized escrow:4.42
+
+Topic 2:
+  markets:2.38
+  referred link:1.66
+  comalways:1.54
+  careful:1.53
+  links:1.53
+  verifed:1.53
+  avoid:1.53
+  attempts:1.52
+  phishing:1.51
+  love avengers:1.50
+
+Topic 3:
+  markets:2.59
+  agora:2.56
+  centralised:2.52
+  supporting:2.52
+  integrity:2.49
+  scamming:2.49
+  exist:2.47
+  vendors market:2.47
+  simply:2.45
+  place:2.43
+
+Topic 4:
+  love avengers:4.10
+  future:3.41
+  scams good:3.38
+  multisig:3.27
+  agreed:2.30
+  grateful:2.29
+  outthanks:2.22
+  referred link:2.21
+  exit:1.95
+  recommend:1.94
+
+K: 5, Log-Likelihood: -2067.833, Alpha: 11.000, Beta: 1.100

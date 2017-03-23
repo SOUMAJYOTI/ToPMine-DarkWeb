@@ -1,0 +1,61 @@
+Topic 0:
+  buy:4.15
+  btc:2.67
+  time:2.00
+  lbc:1.51
+  didnt:1.50
+  sell:1.37
+  method:1.27
+  head:1.07
+  moneypak:1.07
+  seller:1.07
+
+Topic 1:
+  btc:1.43
+  trusted:1.04
+  idea:1.02
+  vendor:0.94
+  deterministic:0.82
+  customers:0.81
+  method:0.77
+  sell:0.70
+  commerce:0.56
+  pgp:0.56
+
+Topic 2:
+  customers:1.68
+  deterministic:1.66
+  addresses:1.10
+  script:1.01
+  signed:1.01
+  onionshop:1.01
+  manually:1.01
+  verify:1.01
+  pgp:1.00
+  commerce:1.00
+
+Topic 3:
+  wallet:4.39
+  key:3.86
+  mpk:3.18
+  electrum:2.86
+  account:2.44
+  crack:1.86
+  private:1.86
+  start:0.87
+  public:0.87
+  child:0.87
+
+Topic 4:
+  btc:5.08
+  vendor:2.14
+  trusted:2.07
+  method:1.68
+  sell:1.43
+  buy:1.01
+  remember:1.00
+  black:0.94
+  individual:0.93
+  friend:0.93
+
+K: 5, Log-Likelihood: -1025.436, Alpha: 11.000, Beta: 1.100

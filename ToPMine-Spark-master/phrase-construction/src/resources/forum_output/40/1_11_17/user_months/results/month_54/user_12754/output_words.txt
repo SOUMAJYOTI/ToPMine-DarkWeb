@@ -1,0 +1,61 @@
+Topic 0:
+  mutta:1.12
+  bitcoin:1.03
+  en:0.79
+  lompakkooni:0.79
+  miten:0.77
+  ett:0.76
+  silkkitien:0.74
+  lompakkoon:0.73
+  esim:0.72
+  ss:0.72
+
+Topic 1:
+  esim:1.88
+  ss:1.88
+  lompakkoon:1.86
+  silkkitien:1.85
+  bitcoin:1.80
+  mutta:1.38
+  kuin:1.12
+  prepaid:1.12
+  siirr:1.11
+  st:1.11
+
+Topic 2:
+  lis:1.07
+  siirretty:0.69
+  saan:0.69
+  miten:0.62
+  en:0.62
+  mutta:0.62
+  ett:0.61
+  lompakkooni:0.61
+  ymm:0.55
+  helposti:0.55
+
+Topic 3:
+  lis:1.27
+  saan:1.10
+  siirretty:1.10
+  ett:0.75
+  mutta:0.74
+  en:0.73
+  lompakkooni:0.73
+  miten:0.72
+  helposti:0.68
+  ymm:0.68
+
+Topic 4:
+  kautta:2.79
+  bitcoin:2.17
+  suoraan:1.80
+  rahan:0.96
+  oman:0.95
+  kyll:0.88
+  easywallet:0.82
+  googlen:0.82
+  kun:0.82
+  monta:0.82
+
+K: 5, Log-Likelihood: -1240.484, Alpha: 11.000, Beta: 1.100

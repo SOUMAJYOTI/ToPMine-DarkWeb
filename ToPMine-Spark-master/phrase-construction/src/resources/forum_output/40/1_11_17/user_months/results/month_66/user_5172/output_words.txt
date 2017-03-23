@@ -1,0 +1,61 @@
+Topic 0:
+  multisig:7.38
+  links:5.14
+  learn:4.46
+  markets:1.75
+  market:1.69
+  protect:1.68
+  highly:1.68
+  darknet:1.68
+  greatest:1.68
+  scammers:1.68
+
+Topic 1:
+  love:41.85
+  avengers:32.56
+  links:12.66
+  register:7.50
+  onion:5.79
+  affiliate:4.61
+  phishers:4.04
+  checking:3.52
+  verify:3.52
+  identified:3.52
+
+Topic 2:
+  market:24.28
+  markets:5.86
+  link:3.44
+  scams:3.35
+  support:3.23
+  exit:2.30
+  good:2.20
+  days:2.02
+  thing:1.74
+  referred:1.63
+
+Topic 3:
+  market:21.37
+  large:10.15
+  exit:6.89
+  support:6.78
+  scams:6.47
+  markets:6.10
+  thing:3.05
+  escrow:3.03
+  add:3.00
+  hit:2.99
+
+Topic 4:
+  markets:6.20
+  vendors:4.72
+  point:3.78
+  trust:3.78
+  market:3.52
+  link:3.23
+  supporting:2.91
+  centralised:1.80
+  place:1.80
+  agora:1.80
+
+K: 5, Log-Likelihood: -2988.182, Alpha: 11.000, Beta: 1.100

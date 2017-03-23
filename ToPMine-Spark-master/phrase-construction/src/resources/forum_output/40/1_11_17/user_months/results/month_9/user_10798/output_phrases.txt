@@ -1,0 +1,61 @@
+Topic 0:
+  time:0.58
+  pgp signed message:0.51
+  post:0.43
+  change:0.42
+  release:0.41
+  confirmed:0.41
+  hand:0.41
+  bugs:0.41
+  forums market:0.41
+  respond:0.41
+
+Topic 1:
+  bug:5.35
+  hidden service:3.62
+  tor:2.53
+  big:1.66
+  attacker:1.61
+  attack:1.04
+  opens:1.02
+  latest:1.02
+  hypothetically:1.02
+  users:1.02
+
+Topic 2:
+  days:1.35
+  ready:1.34
+  refresh:1.34
+  hit:1.34
+  post:1.24
+  heads:1.13
+  april:0.96
+  quote:0.96
+  passed:0.96
+  cousinmolly:0.96
+
+Topic 3:
+  hidden service:1.64
+  bug:1.55
+  tor:0.78
+  attacker:0.67
+  big:0.66
+  time:0.60
+  pgp signed message:0.56
+  week:0.55
+  market:0.54
+  library tor:0.54
+
+Topic 4:
+  hidden service:3.17
+  bug:2.84
+  tor:1.45
+  attacker:1.23
+  big:1.19
+  network:0.80
+  library tor:0.80
+  impersonate:0.80
+  reveal:0.79
+  bundle:0.79
+
+K: 5, Log-Likelihood: -2174.738, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  market:1.10
+  nucleus:0.71
+  retirement:0.43
+  exit:0.43
+  people:0.43
+  bet:0.43
+  month:0.43
+  bag:0.21
+  considered:0.21
+  morrisons:0.21
+
+Topic 1:
+  market:1.30
+  nucleus:0.90
+  people:0.37
+  month:0.37
+  exit:0.37
+  bet:0.37
+  retirement:0.36
+  problems:0.23
+  lot:0.23
+  places:0.23
+
+Topic 2:
+  market:1.08
+  nucleus:0.77
+  bet:0.42
+  people:0.42
+  retirement:0.41
+  exit:0.41
+  month:0.41
+  gut:0.20
+  fell:0.20
+  wrong:0.20
+
+Topic 3:
+  market:1.28
+  nucleus:0.82
+  month:0.40
+  retirement:0.39
+  exit:0.39
+  people:0.39
+  bet:0.39
+  talk:0.20
+  reading:0.20
+  operate:0.20
+
+Topic 4:
+  market:1.25
+  nucleus:0.80
+  bet:0.40
+  retirement:0.40
+  month:0.40
+  exit:0.40
+  people:0.39
+  checked:0.20
+  hear:0.20
+  lot:0.20
+
+K: 5, Log-Likelihood: -426.555, Alpha: 11.000, Beta: 1.100

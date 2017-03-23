@@ -1,0 +1,61 @@
+Topic 0:
+  bug:42.17
+  tor:24.98
+  tails:19.43
+  browser:13.46
+  update:9.93
+  remove:8.80
+  plate:7.99
+  firefox:7.93
+  font:6.96
+  add:6.95
+
+Topic 1:
+  microsoft:44.99
+  key:42.25
+  recovery:32.99
+  encryption:32.96
+  windows:29.58
+  disk:24.99
+  bitlocker:18.99
+  account:16.99
+  computer:14.12
+  device:13.99
+
+Topic 2:
+  alford:54.99
+  ulbricht:21.99
+  road:16.99
+  silk:16.99
+  case:13.89
+  agents:12.99
+  agent:10.99
+  dread:9.99
+  roberts:9.99
+  investigation:9.99
+
+Topic 3:
+  browser:10.52
+  tor:8.99
+  bug:5.81
+  security:4.94
+  release:4.27
+  version:4.22
+  update:4.05
+  tails:3.54
+  january:3.46
+  users:2.99
+
+Topic 4:
+  protonmail:8.95
+  december:7.87
+  quote:7.80
+  israel:6.94
+  cirrus:5.89
+  period:5.81
+  network:4.98
+  firm:4.92
+  start:4.61
+  emmet:3.90
+
+K: 5, Log-Likelihood: -18037.911, Alpha: 11.000, Beta: 1.100

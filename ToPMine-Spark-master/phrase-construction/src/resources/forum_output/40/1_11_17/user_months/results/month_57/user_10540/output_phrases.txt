@@ -1,0 +1,61 @@
+Topic 0:
+  surveillance:5.83
+  privacy:3.08
+  goals:2.45
+  control:1.18
+  forms:1.10
+  privacy surveillance:1.09
+  data:0.98
+  subject:0.89
+  rules:0.88
+  individuals:0.88
+
+Topic 1:
+  surveillance:4.04
+  privacy:2.25
+  goals:1.72
+  control:0.94
+  forms:0.89
+  data:0.74
+  privacy surveillance:0.73
+  individuals:0.71
+  subject:0.69
+  surveillance privacy:0.69
+
+Topic 2:
+  surveillance:2.87
+  privacy:1.50
+  goals:1.11
+  forms:0.69
+  data:0.64
+  control:0.63
+  privacy surveillance:0.62
+  rules:0.56
+  individuals:0.56
+  subject:0.54
+
+Topic 3:
+  surveillance:1.55
+  privacy:0.88
+  goals:0.78
+  data:0.54
+  control:0.54
+  forms:0.53
+  privacy surveillance:0.47
+  surveillance privacy:0.47
+  subject:0.45
+  individuals:0.45
+
+Topic 4:
+  surveillance:3.14
+  goals:1.64
+  privacy:1.62
+  forms:0.84
+  control:0.77
+  data:0.75
+  privacy surveillance:0.74
+  rules:0.69
+  surveillance privacy:0.68
+  subject:0.67
+
+K: 5, Log-Likelihood: -6465.704, Alpha: 11.000, Beta: 1.100

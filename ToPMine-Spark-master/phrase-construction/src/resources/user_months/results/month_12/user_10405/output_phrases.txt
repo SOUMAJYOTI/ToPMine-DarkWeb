@@ -1,0 +1,61 @@
+Topic 0:
+  sort attack:7.76
+  physical isolation:7.76
+  amnesia:5.81
+  virtual isolation:5.81
+  things:5.81
+  technique:5.81
+  requires:5.03
+  address:4.68
+  risk:3.87
+  extensive:3.87
+
+Topic 1:
+  fall:3.80
+  hub:3.80
+  intel:3.78
+  chipset:3.78
+  pi:3.78
+  days:2.96
+  middle box:2.24
+  short:2.10
+  conversational:1.85
+  caspian:1.85
+
+Topic 2:
+  socks proxy:9.70
+  middle box:8.40
+  system:7.77
+  private network:7.76
+  local:5.81
+  ideally:5.81
+  secure box:5.81
+  system configured:5.81
+  provide:3.87
+  rethink:3.87
+
+Topic 3:
+  uri:3.84
+  simply:3.84
+  bar:3.84
+  quote:3.16
+  directly blockchain info block:3.12
+  tor cloudflare:3.10
+  subtle:2.91
+  flashy:2.77
+  create:2.76
+  enable:2.76
+
+Topic 4:
+  log:3.86
+  expecting:3.86
+  tor:3.58
+  certificate:3.56
+  site:3.27
+  strip:2.43
+  relays:2.43
+  evil:1.92
+  targeted:1.92
+  hitting:1.92
+
+K: 5, Log-Likelihood: -6862.644, Alpha: 11.000, Beta: 1.100

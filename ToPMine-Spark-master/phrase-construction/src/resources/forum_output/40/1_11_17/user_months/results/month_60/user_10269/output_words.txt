@@ -1,0 +1,61 @@
+Topic 0:
+  connect:12.39
+  sites:12.26
+  time:10.94
+  november:10.00
+  tor:9.85
+  securely:8.74
+  site:8.68
+  connection:8.61
+  trusted:8.48
+  message:7.87
+
+Topic 1:
+  system:16.48
+  mail:15.28
+  net:9.91
+  safe:9.39
+  users:7.55
+  data:6.67
+  crash:5.18
+  accounts:4.86
+  free:4.37
+  service:3.98
+
+Topic 2:
+  system:27.47
+  safe:20.05
+  mail:17.33
+  users:16.41
+  net:9.43
+  crash:8.78
+  accounts:8.04
+  free:7.59
+  data:7.28
+  premium:6.73
+
+Topic 3:
+  tor:14.38
+  email:5.89
+  connect:5.48
+  site:5.14
+  account:5.10
+  gregory:5.07
+  house:4.59
+  message:4.59
+  safe:4.40
+  mail:4.31
+
+Topic 4:
+  months:4.88
+  warning:4.87
+  november:4.55
+  messages:4.24
+  recover:3.93
+  quote:3.90
+  wondering:3.88
+  drastically:3.88
+  encrypted:3.88
+  signant:3.88
+
+K: 5, Log-Likelihood: -6337.670, Alpha: 11.000, Beta: 1.100

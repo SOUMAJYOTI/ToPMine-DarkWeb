@@ -1,0 +1,61 @@
+Topic 0:
+  admin:7.35
+  scam:4.86
+  quote:2.55
+  exit:2.31
+  activity:2.30
+  purple:2.30
+  january:2.25
+  account:2.05
+  agito:1.72
+  joined:1.55
+
+Topic 1:
+  threads:5.73
+  admin:5.58
+  joined:5.37
+  account:4.89
+  dont:4.63
+  january:4.11
+  cut:3.58
+  coke:3.15
+  selling:2.99
+  cokecut:2.97
+
+Topic 2:
+  markets:4.71
+  wallet:2.08
+  functionality:2.08
+  trust:1.94
+  escrow:1.94
+  coded:1.94
+  payments:1.94
+  hard:1.94
+  hansa:1.94
+  stick:1.82
+
+Topic 3:
+  cut:5.87
+  january:5.64
+  admin:4.82
+  coke:4.35
+  sell:3.65
+  dont:3.40
+  pmquote:3.10
+  account:3.09
+  joined:2.91
+  threads:2.74
+
+Topic 4:
+  market:4.34
+  quote:2.98
+  code:2.95
+  evolution:2.95
+  tutorial:2.95
+  updated:2.13
+  admin:2.03
+  hours:2.02
+  search:1.95
+  system:1.95
+
+K: 5, Log-Likelihood: -2582.244, Alpha: 11.000, Beta: 1.100

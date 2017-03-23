@@ -1,0 +1,61 @@
+Topic 0:
+  years:7.58
+  inside:6.96
+  brute:4.26
+  range:4.04
+  wpa:3.67
+  public:3.65
+  dual:3.65
+  mystery:3.65
+  thereabouts:3.65
+  direct:3.65
+
+Topic 1:
+  bad days:5.46
+  good days:4.65
+  install:4.46
+  tunnel:4.46
+  endpoint:4.46
+  hotspots:4.46
+  server:4.46
+  dens:4.46
+  wpa owned:3.60
+  sigh:3.48
+
+Topic 2:
+  browser:7.17
+  proxy:6.72
+  http:5.22
+  user agent:5.22
+  alter:4.47
+  idea:4.47
+  response:4.47
+  squid:4.47
+  javascript:4.47
+  fingerprint:4.47
+
+Topic 3:
+  whonix:5.65
+  ram:4.45
+  animal:4.45
+  older:4.45
+  bitcoin:4.43
+  kind:2.91
+  gigs:2.62
+  fellow:2.62
+  cut:2.61
+  guess:2.61
+
+Topic 4:
+  laptops:5.13
+  router:5.03
+  laptop:4.96
+  horrible:4.45
+  signal:4.45
+  devices:3.90
+  tor:3.64
+  whonix:3.52
+  dozen:3.48
+  difficult:3.47
+
+K: 5, Log-Likelihood: -5107.482, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  good:2.17
+  growing:0.96
+  laid:0.96
+  minimalistic:0.96
+  ways:0.96
+  frills:0.96
+  escrow:0.96
+  whatsoever:0.96
+  fairly:0.96
+  foolproof:0.96
+
+Topic 1:
+  ticket:1.51
+  ava:0.84
+  high:0.71
+  open:0.71
+  crazy:0.71
+  volume:0.71
+  days:0.70
+  average:0.70
+  support:0.70
+  order:0.70
+
+Topic 2:
+  multisig:1.13
+  long:0.87
+  haul:0.87
+  check:0.87
+  perfect:0.87
+  scams:0.87
+  equally:0.87
+  simply:0.87
+  biggest:0.87
+  em:0.86
+
+Topic 3:
+  team:2.16
+  ticket:1.97
+  ava:1.79
+  month:0.93
+  listings hansa:0.93
+  potent:0.92
+  beautiful:0.92
+  selling:0.92
+  admirably:0.92
+  mention:0.92
+
+Topic 4:
+  number:1.04
+  side:1.03
+  attention:1.03
+  complaints:1.03
+  listings site:1.03
+  lack:1.03
+  orders:1.03
+  handle:1.03
+  nice:1.03
+  compares:1.03
+
+K: 5, Log-Likelihood: -845.171, Alpha: 11.000, Beta: 1.100

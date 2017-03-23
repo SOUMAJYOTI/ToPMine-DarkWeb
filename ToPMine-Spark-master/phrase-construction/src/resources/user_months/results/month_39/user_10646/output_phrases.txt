@@ -1,0 +1,61 @@
+Topic 0:
+  encryption:0.41
+  email:0.29
+  isnt:0.28
+  feature:0.28
+  server:0.28
+  thing:0.28
+  configuring:0.14
+  mail:0.14
+  claws:0.14
+  tor:0.14
+
+Topic 1:
+  encryption:0.42
+  email:0.29
+  feature:0.28
+  thing:0.28
+  server:0.28
+  isnt:0.28
+  leaving:0.14
+  provider:0.14
+  ramdisk:0.14
+  recoverable:0.14
+
+Topic 2:
+  encryption:0.41
+  email:0.29
+  isnt:0.28
+  server:0.28
+  feature:0.28
+  thing:0.28
+  message:0.14
+  error:0.14
+  haveing:0.14
+  time:0.14
+
+Topic 3:
+  encryption:0.42
+  email:0.29
+  isnt:0.28
+  thing:0.28
+  feature:0.28
+  server:0.28
+  starttls:0.14
+  transit:0.14
+  cleartext:0.14
+  ram:0.14
+
+Topic 4:
+  encryption:0.42
+  email:0.29
+  thing:0.28
+  server:0.28
+  isnt:0.28
+  feature:0.28
+  claws:0.14
+  time:0.14
+  hard:0.14
+  configuring:0.14
+
+K: 5, Log-Likelihood: -198.964, Alpha: 11.000, Beta: 1.100

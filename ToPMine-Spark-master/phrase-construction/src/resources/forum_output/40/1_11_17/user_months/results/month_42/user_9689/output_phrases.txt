@@ -1,0 +1,61 @@
+Topic 0:
+  message:0.33
+  vendor:0.28
+  clarification:0.28
+  serves:0.28
+  february:0.28
+  attempt:0.28
+  amdo:0.28
+  confuse:0.28
+  messagehaving:0.28
+  hard:0.28
+
+Topic 1:
+  message:0.31
+  rascal:0.29
+  confuse:0.29
+  hard:0.29
+  quote:0.29
+  attempt:0.29
+  send:0.29
+  things:0.29
+  serves:0.29
+  february:0.29
+
+Topic 2:
+  message:0.32
+  release:0.29
+  drawing:0.29
+  ear:0.29
+  smited:0.29
+  question:0.29
+  making:0.29
+  easyi:0.29
+  board:0.29
+  daft:0.29
+
+Topic 3:
+  message:0.33
+  vendor:0.28
+  send:0.28
+  message read:0.28
+  understanding:0.28
+  things:0.28
+  time:0.28
+  confuse:0.28
+  read:0.28
+  attempt:0.28
+
+Topic 4:
+  message:0.33
+  pip:0.29
+  didnt:0.29
+  pigs:0.29
+  smited:0.29
+  effort:0.29
+  board:0.29
+  noon:0.29
+  question:0.29
+  posts:0.29
+
+K: 5, Log-Likelihood: -268.083, Alpha: 11.000, Beta: 1.100

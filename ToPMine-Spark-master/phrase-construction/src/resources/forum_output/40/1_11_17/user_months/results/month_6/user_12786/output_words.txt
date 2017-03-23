@@ -1,0 +1,61 @@
+Topic 0:
+  withdrawal:0.41
+  long:0.20
+  market:0.20
+  withdrawals:0.20
+  queue:0.20
+  hours:0.20
+  process:0.20
+  normal:0.20
+  alice:0.20
+  theft:0.20
+
+Topic 1:
+  withdrawal:0.41
+  queue:0.20
+  withdrawals:0.20
+  market:0.20
+  process:0.20
+  long:0.20
+  hours:0.20
+  normal:0.20
+  update:0.20
+  pandora:0.20
+
+Topic 2:
+  withdrawal:0.40
+  withdrawals:0.20
+  hours:0.20
+  queue:0.20
+  normal:0.20
+  process:0.20
+  long:0.20
+  market:0.20
+  pandora:0.20
+  alfred:0.20
+
+Topic 3:
+  withdrawal:0.39
+  alice:0.20
+  pandora:0.20
+  posted:0.20
+  check:0.20
+  update:0.20
+  funds:0.20
+  alfred:0.20
+  theft:0.20
+  normal:0.20
+
+Topic 4:
+  withdrawal:0.39
+  theft:0.20
+  posted:0.20
+  alfred:0.20
+  check:0.20
+  funds:0.20
+  update:0.20
+  pandora:0.20
+  alice:0.20
+  market:0.20
+
+K: 5, Log-Likelihood: -46.806, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  bitcoins:2.89
+  users:2.89
+  tumblers:2.89
+  clean:1.39
+  source:1.39
+  helix user:1.39
+  doesnt:1.39
+  coins users:1.39
+  dirty:1.39
+  bitcoins user:1.39
+
+Topic 1:
+  tips:2.23
+  eyes:1.30
+  angel:1.29
+  clarification:1.00
+  apply:1.00
+  telling:1.00
+  possibilities:1.00
+  good extra:1.00
+  bitin:0.65
+  blender:0.65
+
+Topic 2:
+  taint analysis:4.11
+  coins:3.61
+  address:2.89
+  received:2.89
+  coins address:2.89
+  looked:1.77
+  claims:1.76
+  pools:1.40
+  coins mining:1.40
+  post:1.40
+
+Topic 3:
+  techniques:4.44
+  dont:2.94
+  addressesthis:2.94
+  comment:2.94
+  mixing services:2.94
+  worthwhile:1.44
+  title:1.44
+  easily:1.44
+  withdrawing:1.44
+  practice top level anonymity:1.44
+
+Topic 4:
+  points identified transactions:1.94
+  delay withdrawalsif watching blockchain:1.94
+  notice transaction btc:1.94
+  level anonymity:1.94
+  mix coins:1.94
+  deposit multiple addressesbitcoin blender:1.94
+  transaction btc suspect trail:1.94
+  btc:1.94
+  blenders basin features recommend:1.94
+  ability split deposit:1.94
+
+K: 5, Log-Likelihood: -2107.797, Alpha: 11.000, Beta: 1.100

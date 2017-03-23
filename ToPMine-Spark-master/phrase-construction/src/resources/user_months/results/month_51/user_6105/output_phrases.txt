@@ -1,0 +1,61 @@
+Topic 0:
+  company:0.42
+  roadways:0.42
+  smells:0.42
+  special:0.42
+  city:0.42
+  cars:0.42
+  smalls:0.42
+  marijuana:0.42
+  stealth:0.42
+  concern:0.42
+
+Topic 1:
+  seal:1.66
+  gloves:1.65
+  bathrooms:0.68
+  mylar:0.68
+  wiped:0.68
+  including:0.68
+  lowest:0.68
+  alcohol:0.68
+  dont:0.68
+  clothes:0.68
+
+Topic 2:
+  iron:0.69
+  scroat:0.62
+  increase:0.36
+  travel:0.36
+  iron car:0.36
+  store:0.36
+  tips:0.36
+  didnt:0.36
+  production:0.36
+  inside:0.36
+
+Topic 3:
+  scroat:0.80
+  iron:0.79
+  broken:0.38
+  great:0.38
+  hidden:0.38
+  remove:0.38
+  max:0.38
+  piece:0.38
+  iron car:0.38
+  inside:0.38
+
+Topic 4:
+  iron:0.57
+  scroat:0.40
+  mbb:0.31
+  heat seal:0.31
+  foil:0.31
+  production:0.30
+  vacuum:0.30
+  great:0.30
+  remove:0.30
+  intending:0.30
+
+K: 5, Log-Likelihood: -615.305, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  recommended earn:18.00
+  money:11.28
+  commission product bought market:11.25
+  product bought customer:11.25
+  recommendation recommended earn:6.74
+  dealer level earn:6.74
+  product bought customer recommendation:6.74
+  fee benefits earn dr:6.74
+  customers:6.74
+  recommended customer earn commission:6.74
+
+Topic 1:
+  watch guy:4.98
+  time:4.59
+  exit:4.46
+  buy:4.45
+  sell:4.45
+  confirm:4.44
+  quote:4.37
+  working:3.59
+  november:3.55
+  cares:3.55
+
+Topic 2:
+  passport:17.90
+  country:8.04
+  vista free travel:7.15
+  government:5.89
+  bank account:5.67
+  plan:5.40
+  internet:5.26
+  privacy:4.24
+  brazil:3.78
+  residency years:3.72
+
+Topic 3:
+  love avengers:18.89
+  private key:10.63
+  key:7.77
+  seller set public multisig:5.73
+  deepweb security measures source:5.73
+  supposed rest lose:5.73
+  market private key:5.73
+  address generated buyer key:5.73
+  bad enjoy signup:5.73
+  market supports multisig transactions:5.73
+
+Topic 4:
+  country:3.20
+  government:3.11
+  privacy:2.51
+  passport:2.36
+  vista free travel:1.85
+  qualify:1.65
+  hard:1.57
+  singapore:1.51
+  legitimate:1.50
+  records:1.50
+
+K: 5, Log-Likelihood: -12407.656, Alpha: 11.000, Beta: 1.100

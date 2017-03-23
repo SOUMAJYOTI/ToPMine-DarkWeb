@@ -1,0 +1,61 @@
+Topic 0:
+  coins:7.86
+  btcd:7.85
+  developers:6.03
+  bitcoin:5.37
+  project:4.00
+  alpha:3.97
+  decred:3.73
+  decree:3.49
+  btcsuite:3.28
+  airdrop:3.21
+
+Topic 1:
+  price:6.94
+  btc:5.94
+  miner:5.17
+  seller:4.95
+  hardware:3.95
+  energy:2.93
+  pump:2.68
+  dump:2.68
+  mining:2.63
+  pos:2.13
+
+Topic 2:
+  decred:5.56
+  project:2.80
+  development:2.47
+  system:2.36
+  decree:2.24
+  bitcoin:2.16
+  pos:1.97
+  airdrop:1.69
+  proof:1.58
+  wallet:1.56
+
+Topic 3:
+  btcd:12.06
+  coins:10.19
+  bitcoin:6.92
+  system:5.96
+  airdrop:5.61
+  development:5.39
+  alpha:5.24
+  btcwallet:4.79
+  features:4.17
+  decred:3.95
+
+Topic 4:
+  project:6.16
+  development:4.76
+  decred:4.44
+  btcwallet:4.39
+  btcd:4.11
+  transaction:3.86
+  bitcoin:3.53
+  airdrop:3.48
+  btcsuite:3.38
+  wallet:2.96
+
+K: 5, Log-Likelihood: -7427.681, Alpha: 11.000, Beta: 1.100

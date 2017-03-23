@@ -1,0 +1,61 @@
+Topic 0:
+  service:2.68
+  offer:2.68
+  mail:2.68
+  deposit:2.68
+  time:2.08
+  recommend:1.58
+  bitcoin:1.58
+  corresponds:1.29
+  favorite:1.29
+  cash:1.29
+
+Topic 1:
+  markets:1.35
+  limits:1.19
+  buy:1.18
+  personal:1.02
+  convenience:0.64
+  marijuana:0.63
+  boys:0.63
+  depositing:0.63
+  quote:0.63
+  couple:0.63
+
+Topic 2:
+  money:4.07
+  site:4.07
+  yea:2.68
+  charge:2.68
+  print:2.68
+  great:2.68
+  remember:2.68
+  coins:2.68
+  ol:2.68
+  wanted:2.68
+
+Topic 3:
+  personal:2.38
+  limits:2.19
+  markets:1.99
+  buy:1.28
+  edibles:0.99
+  deals:0.99
+  november:0.99
+  dicks:0.98
+  linked:0.98
+  doesn:0.98
+
+Topic 4:
+  easy:1.11
+  fast:1.11
+  buy:1.03
+  problemor:0.80
+  working:0.80
+  hands:0.80
+  anonymous:0.80
+  atmsthat:0.80
+  wellsuper:0.80
+  private:0.80
+
+K: 5, Log-Likelihood: -1492.108, Alpha: 11.000, Beta: 1.100

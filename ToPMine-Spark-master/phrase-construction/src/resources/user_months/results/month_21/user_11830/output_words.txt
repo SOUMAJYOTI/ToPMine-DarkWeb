@@ -1,0 +1,61 @@
+Topic 0:
+  market:2.58
+  tor:1.14
+  dream:0.94
+  markets:0.92
+  biased:0.91
+  traffic:0.90
+  legitimate:0.90
+  time:0.90
+  money:0.88
+  lol:0.87
+
+Topic 1:
+  darkbay:3.74
+  access:2.50
+  andromeda:1.76
+  account:1.76
+  market:0.93
+  sign:0.79
+  accounts:0.79
+  transferred:0.79
+  requesting:0.45
+  message:0.45
+
+Topic 2:
+  market:4.01
+  dream:1.42
+  system:1.30
+  pandora:0.88
+  bmr:0.88
+  vendor:0.75
+  features:0.64
+  faster:0.64
+  mail:0.64
+  vendors:0.64
+
+Topic 3:
+  market:1.54
+  buyers:0.98
+  lol:0.98
+  money:0.97
+  tor:0.97
+  time:0.95
+  legitimate:0.95
+  traffic:0.95
+  biased:0.94
+  markets:0.93
+
+Topic 4:
+  market:3.94
+  system:3.54
+  dream:1.43
+  increase:1.22
+  login:1.22
+  vendors:1.21
+  mail:1.21
+  faster:1.21
+  features:1.21
+  bmr:1.05
+
+K: 5, Log-Likelihood: -1036.589, Alpha: 11.000, Beta: 1.100

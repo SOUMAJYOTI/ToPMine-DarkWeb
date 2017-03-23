@@ -1,0 +1,61 @@
+Topic 0:
+  real:3.74
+  pulled:3.10
+  driver:3.10
+  data:3.10
+  linked:3.10
+  work:3.10
+  fucked:3.10
+  license:3.10
+  warrents:3.10
+  ids people:3.10
+
+Topic 1:
+  jail:6.09
+  people:5.34
+  fake:3.46
+  fake elses:3.42
+  expiration:3.41
+  walk:3.41
+  drivers:3.38
+  threat:3.36
+  stolen:3.32
+  number:3.32
+
+Topic 2:
+  vendor:6.00
+  busting:3.99
+  operate:3.99
+  feds:2.03
+  set:1.97
+  allowing:1.97
+  role:1.97
+  intercept:1.97
+  valuable:1.97
+  random:1.97
+
+Topic 3:
+  pictures:3.90
+  cooked february:3.83
+  pull:3.39
+  misterreplicator:2.94
+  order:2.94
+  waiting:2.94
+  vendors:2.94
+  danzig:2.94
+  move:2.94
+  market:2.94
+
+Topic 4:
+  fake:5.62
+  persons:2.15
+  jail:1.94
+  real:1.33
+  fake ids:1.15
+  police:0.99
+  photo:0.97
+  local:0.94
+  dont:0.88
+  realize:0.80
+
+K: 5, Log-Likelihood: -2732.235, Alpha: 11.000, Beta: 1.100

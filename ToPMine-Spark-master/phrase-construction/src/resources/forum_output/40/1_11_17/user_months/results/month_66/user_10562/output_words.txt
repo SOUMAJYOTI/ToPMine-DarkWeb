@@ -1,0 +1,61 @@
+Topic 0:
+  tor:1.37
+  dash:1.09
+  coins:0.88
+  monero:0.87
+  question:0.82
+  easily:0.81
+  fine:0.81
+  taint:0.81
+  learned:0.81
+  exchange:0.80
+
+Topic 1:
+  dash:1.74
+  monero:1.17
+  tor:1.13
+  coins:0.73
+  darkcoin:0.53
+  exchange:0.48
+  learned:0.47
+  fine:0.47
+  taint:0.47
+  easily:0.47
+
+Topic 2:
+  dash:2.12
+  tor:1.21
+  monero:0.90
+  coins:0.63
+  darkcoin:0.61
+  galaxy:0.56
+  trolls:0.47
+  fall:0.47
+  exchange:0.43
+  learned:0.43
+
+Topic 3:
+  dash:2.36
+  mixing:1.79
+  nodes:1.20
+  network:1.07
+  july:1.05
+  monero:1.02
+  rebrand:0.72
+  darkcoin:0.72
+  centralized:0.71
+  cash:0.71
+
+Topic 4:
+  dash:1.69
+  mixing:1.25
+  july:1.08
+  network:1.05
+  monero:1.04
+  nodes:0.94
+  tor:0.70
+  darkcoin:0.67
+  pmquote:0.64
+  code:0.63
+
+K: 5, Log-Likelihood: -892.896, Alpha: 11.000, Beta: 1.100

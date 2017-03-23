@@ -1,0 +1,61 @@
+Topic 0:
+  forum closed:0.24
+  registration:0.16
+  scarf:0.08
+  reply:0.08
+  nucleus:0.08
+  coins:0.08
+  ticket:0.08
+  voice:0.08
+  controls:0.08
+  word:0.08
+
+Topic 1:
+  forum closed:0.24
+  registration:0.16
+  incident:0.08
+  forum:0.08
+  june:0.08
+  follow:0.08
+  participants:0.08
+  site:0.08
+  happened:0.08
+  voice:0.08
+
+Topic 2:
+  forum closed:0.24
+  registration:0.16
+  ticket:0.08
+  controls:0.08
+  keys:0.08
+  experience:0.08
+  reply:0.08
+  support:0.08
+  nucleus:0.08
+  fish:0.08
+
+Topic 3:
+  forum closed:0.24
+  registration:0.16
+  scarf:0.08
+  missmolly:0.08
+  word:0.08
+  follow:0.08
+  reply:0.08
+  bit:0.08
+  keys:0.08
+  experience:0.08
+
+Topic 4:
+  forum closed:0.24
+  registration:0.16
+  scarf:0.08
+  missmolly:0.08
+  site:0.08
+  support:0.08
+  fish:0.08
+  incident:0.08
+  participants:0.08
+  keys:0.08
+
+K: 5, Log-Likelihood: -38.060, Alpha: 11.000, Beta: 1.100

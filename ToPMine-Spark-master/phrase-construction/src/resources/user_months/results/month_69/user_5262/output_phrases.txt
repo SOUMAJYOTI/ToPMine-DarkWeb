@@ -1,0 +1,61 @@
+Topic 0:
+  quote bonobo january:1.86
+  silk road:1.74
+  pgpwin version portable:1.08
+  tails:1.04
+  leave traces anycase:1.00
+  solution:0.92
+  wet:0.91
+  feds:0.90
+  correctly:0.90
+  encrypted:0.90
+
+Topic 1:
+  quote:2.05
+  pmi:2.04
+  platform:2.04
+  box site losing mind:2.04
+  gpg:2.03
+  matter decode vendor message:2.03
+  purpleturkey:2.03
+  figure:2.02
+  osx:2.02
+  program:2.02
+
+Topic 2:
+  message box site:1.39
+  losing mind figure:1.38
+  set:1.08
+  figure pgp gpg stuff:1.07
+  set pgp key email:1.07
+  email account vfemail net:1.05
+  people encryption send encrusted:1.03
+  direct straightforward plain english:1.02
+  tutorial set communicate vendors:1.01
+  ve:0.92
+
+Topic 3:
+  silk road:2.05
+  quote bonobo january:1.83
+  pmwindows:0.99
+  leave traces anycase:0.97
+  making single large order:0.95
+  plainest:0.95
+  io:0.95
+  ideal:0.95
+  tails:0.94
+  bonanza:0.94
+
+Topic 4:
+  quote bonobo january:1.36
+  silk road:1.25
+  leave traces anycase:0.81
+  tails:0.79
+  pgpwin version portable:0.78
+  compromise:0.69
+  usb:0.69
+  absolutely:0.68
+  servers:0.68
+  pmalways:0.67
+
+K: 5, Log-Likelihood: -940.789, Alpha: 11.000, Beta: 1.100

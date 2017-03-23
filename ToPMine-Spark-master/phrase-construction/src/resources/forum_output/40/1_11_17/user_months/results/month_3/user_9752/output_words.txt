@@ -1,0 +1,61 @@
+Topic 0:
+  site:1.29
+  people:0.91
+  mods:0.86
+  sr:0.83
+  time:0.82
+  hacker:0.77
+  coins:0.72
+  shit:0.68
+  doctorclu:0.59
+  defcon:0.58
+
+Topic 1:
+  mods:2.14
+  shit:1.90
+  site:1.74
+  coins:1.72
+  people:1.29
+  sheep:1.27
+  defcon:1.25
+  doctorclu:1.21
+  sr:1.04
+  time:1.03
+
+Topic 2:
+  money:2.64
+  ripped:1.90
+  escrow:1.90
+  system:1.90
+  vendors:1.90
+  people:1.53
+  site:1.35
+  buyer:0.91
+  true:0.91
+  proven:0.91
+
+Topic 3:
+  mods:1.57
+  site:1.47
+  people:1.31
+  coins:1.17
+  shit:1.03
+  time:0.91
+  sr:0.87
+  doctorclu:0.85
+  sheep:0.85
+  defcon:0.82
+
+Topic 4:
+  site:1.14
+  people:0.96
+  hacker:0.71
+  sr:0.66
+  time:0.64
+  scam:0.63
+  vendors:0.56
+  fuck:0.52
+  hacked:0.52
+  steal:0.52
+
+K: 5, Log-Likelihood: -1591.914, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  agora:1.07
+  problem:0.89
+  file:0.47
+  shit:0.45
+  hours:0.45
+  equal:0.45
+  usual:0.42
+  insert:0.29
+  login:0.29
+  enter:0.29
+
+Topic 1:
+  agora:1.05
+  problem:0.89
+  hours:0.46
+  equal:0.46
+  shit:0.46
+  file:0.44
+  usual:0.43
+  login:0.29
+  check:0.28
+  enter:0.28
+
+Topic 2:
+  agora:1.17
+  problem:0.88
+  file:0.50
+  shit:0.43
+  equal:0.43
+  hours:0.43
+  usual:0.42
+  login:0.31
+  insert:0.30
+  enter:0.30
+
+Topic 3:
+  file:1.98
+  enter:0.78
+  check:0.78
+  insert:0.77
+  login:0.77
+  agora:0.60
+  problem:0.51
+  market:0.32
+  data:0.32
+  push:0.32
+
+Topic 4:
+  agora:1.11
+  problem:0.82
+  file:0.61
+  usual:0.43
+  equal:0.39
+  hours:0.39
+  shit:0.39
+  insert:0.35
+  check:0.35
+  login:0.35
+
+K: 5, Log-Likelihood: -352.042, Alpha: 11.000, Beta: 1.100

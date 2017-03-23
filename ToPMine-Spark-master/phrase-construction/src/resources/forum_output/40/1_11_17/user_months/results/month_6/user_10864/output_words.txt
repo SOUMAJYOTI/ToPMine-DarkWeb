@@ -1,0 +1,61 @@
+Topic 0:
+  password:3.92
+  people:2.98
+  lot:1.98
+  compromised:1.34
+  day:1.13
+  topic:1.08
+  vendor:1.07
+  attack:1.06
+  details:1.00
+  ne:0.96
+
+Topic 1:
+  life:1.67
+  hackers:1.33
+  dpr:1.33
+  time:1.32
+  weeks:1.22
+  place:1.16
+  details:1.15
+  provided:1.15
+  people:1.06
+  posting:0.99
+
+Topic 2:
+  market:21.01
+  agora:18.91
+  time:12.54
+  markets:10.26
+  forum:9.72
+  customers:9.28
+  pocket:9.23
+  money:9.18
+  care:9.01
+  major:8.85
+
+Topic 3:
+  passwords:8.45
+  market:8.03
+  opsec:7.67
+  topic:6.53
+  security:5.79
+  users:5.53
+  vendors:4.99
+  login:4.64
+  quote:4.21
+  password:4.09
+
+Topic 4:
+  rc:6.00
+  ne:5.10
+  march:4.53
+  quote:4.23
+  agora:4.14
+  opsec:3.75
+  point:3.73
+  claim:3.47
+  time:2.95
+  topic:2.75
+
+K: 5, Log-Likelihood: -8504.528, Alpha: 11.000, Beta: 1.100

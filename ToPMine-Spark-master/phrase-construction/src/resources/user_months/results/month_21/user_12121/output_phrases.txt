@@ -1,0 +1,61 @@
+Topic 0:
+  cash:0.16
+  involved:0.08
+  paper:0.08
+  bank:0.08
+  leave:0.08
+  papa:0.08
+  deposit:0.08
+  purchasing:0.08
+  dealer:0.08
+  deal:0.08
+
+Topic 1:
+  cash:0.16
+  trail:0.08
+  deal:0.08
+  banks:0.08
+  simple:0.08
+  localbitcoins:0.08
+  involved:0.08
+  leave:0.08
+  advise:0.08
+  dealer:0.08
+
+Topic 2:
+  cash:0.16
+  virwox:0.08
+  linen:0.08
+  heard:0.08
+  life:0.08
+  bought:0.08
+  paypal:0.08
+  sold:0.08
+  dollars:0.08
+  papa:0.08
+
+Topic 3:
+  cash:0.16
+  trail:0.08
+  bank:0.08
+  local:0.08
+  advise:0.08
+  purchasing:0.08
+  simple:0.08
+  localbitcoins:0.08
+  deposit:0.08
+  paper:0.08
+
+Topic 4:
+  cash:0.16
+  paypal:0.08
+  heard:0.08
+  bought:0.08
+  sold:0.08
+  life:0.08
+  dollars:0.08
+  linen:0.08
+  virwox:0.08
+  local:0.08
+
+K: 5, Log-Likelihood: -32.328, Alpha: 11.000, Beta: 1.100

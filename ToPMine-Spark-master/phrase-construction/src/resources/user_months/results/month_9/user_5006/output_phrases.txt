@@ -1,0 +1,61 @@
+Topic 0:
+  send message marketplace:0.81
+  quote bruce april:0.81
+  alberthoffman:0.79
+  agora:0.73
+  response:0.67
+  amyou:0.67
+  mail:0.66
+  find:0.63
+  couple:0.62
+  messages:0.61
+
+Topic 1:
+  send message marketplace:0.67
+  vendor:0.64
+  clean:0.63
+  recommend:0.62
+  fun:0.62
+  trailsjdsecurity:0.62
+  fresh:0.62
+  happy:0.61
+  friend:0.61
+  order:0.61
+
+Topic 2:
+  option:1.08
+  crystal:1.07
+  chime:1.06
+  ass:1.06
+  verify:1.05
+  life:1.05
+  happy:1.04
+  order:1.04
+  style:1.03
+  recommend:1.03
+
+Topic 3:
+  agora:2.16
+  days:1.07
+  hours:1.07
+  marketplacequote:1.07
+  day:1.06
+  messages:1.06
+  find:1.05
+  couple:1.04
+  amfrom:0.95
+  yeah:0.95
+
+Topic 4:
+  send message marketplace:0.78
+  response:0.67
+  amyou:0.67
+  mail:0.66
+  quote bruce april:0.63
+  alberthoffman:0.56
+  clean:0.52
+  vendor:0.52
+  kick:0.52
+  trailsjdsecurity:0.52
+
+K: 5, Log-Likelihood: -418.087, Alpha: 11.000, Beta: 1.100

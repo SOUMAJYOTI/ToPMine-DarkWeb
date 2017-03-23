@@ -1,0 +1,61 @@
+Topic 0:
+  social media:11.96
+  social:7.17
+  publishing news:7.17
+  system:7.17
+  chinese:7.17
+  dash:5.12
+  russian:4.77
+  english:4.77
+  guides:4.77
+  launched:4.77
+
+Topic 1:
+  black:3.91
+  ldsh:3.91
+  tor:3.91
+  shit:3.91
+  book ads:3.91
+  onion dash:3.91
+  localbitcoins:3.91
+  platform:3.91
+  wild:3.91
+  type system:3.91
+
+Topic 2:
+  pic:7.04
+  onion:4.65
+  quote:3.63
+  ill:2.82
+  dashpay electrum:2.71
+  work tor:2.70
+  teammates:2.33
+  december:2.33
+  plate:2.33
+  running:2.33
+
+Topic 3:
+  speech:4.74
+  dev:4.69
+  booth:4.11
+  time:3.82
+  shifty:3.82
+  friend:3.82
+  wasting:3.82
+  rollin:3.82
+  january:3.29
+  dash wallet:2.89
+
+Topic 4:
+  electrum:11.96
+  wallet:9.57
+  dash:8.38
+  trezor:7.17
+  electric dash:7.13
+  dash users:4.77
+  goal:4.77
+  development:4.77
+  install:4.77
+  team:4.77
+
+K: 5, Log-Likelihood: -5861.339, Alpha: 11.000, Beta: 1.100

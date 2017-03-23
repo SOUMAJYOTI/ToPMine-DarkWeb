@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:3.00
+  search:1.90
+  link:1.27
+  selection:1.25
+  default:1.25
+  changed:1.24
+  onlythis:1.24
+  evenly:1.21
+  priced:1.20
+  fixed:1.20
+
+Topic 1:
+  reviews nucleus:5.04
+  genuine:2.45
+  forward:2.45
+  sales sales:2.45
+  thing:2.45
+  valhalla decided:2.45
+  reviews:2.45
+  minutes:2.45
+  option:2.45
+  nucleus:2.45
+
+Topic 2:
+  buyer:1.30
+  test:1.30
+  love:1.30
+  people:1.30
+  laid:1.30
+  stealth feedback:1.30
+  eyes:1.30
+  easy:1.30
+  seller:1.30
+  regardsgodsgarden:1.30
+
+Topic 3:
+  sale tabs bromo dragonfly:10.16
+  feb:10.16
+  fast delivery:8.45
+  sale:8.45
+  gods cream:5.04
+  sale hits feb:5.04
+  deffo:3.34
+  guy:3.34
+  great product:3.34
+  odd:3.34
+
+Topic 4:
+  dmt:3.71
+  guide:3.27
+  price:2.73
+  product:2.38
+  adjusted:2.38
+  rite:2.38
+  completely:2.38
+  products:2.38
+  price dmt:2.38
+  pleb:2.38
+
+K: 5, Log-Likelihood: -2771.682, Alpha: 11.000, Beta: 1.100

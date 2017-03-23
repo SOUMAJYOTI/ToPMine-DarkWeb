@@ -1,0 +1,61 @@
+Topic 0:
+  truecrypt:1.13
+  clearnet:0.75
+  site:0.59
+  project:0.58
+  veracrypt:0.41
+  download:0.40
+  appears:0.40
+  macos:0.39
+  windows:0.39
+  team:0.39
+
+Topic 1:
+  truecrypt:1.12
+  clearnet:0.75
+  project:0.61
+  site:0.58
+  veracrypt:0.40
+  article:0.40
+  adroit:0.40
+  official:0.40
+  linus:0.39
+  download:0.39
+
+Topic 2:
+  truecrypt:0.97
+  clearnet:0.79
+  site:0.61
+  project:0.61
+  veracrypt:0.40
+  official:0.40
+  linus:0.40
+  article:0.40
+  macos:0.40
+  adroit:0.40
+
+Topic 3:
+  truecrypt:0.90
+  clearnet:0.84
+  site:0.62
+  project:0.59
+  team:0.41
+  french:0.41
+  linus:0.41
+  windows:0.41
+  appears:0.41
+  macos:0.40
+
+Topic 4:
+  truecrypt:0.88
+  clearnet:0.87
+  project:0.61
+  site:0.60
+  windows:0.41
+  adroit:0.41
+  team:0.41
+  article:0.41
+  appears:0.41
+  macos:0.41
+
+K: 5, Log-Likelihood: -216.114, Alpha: 11.000, Beta: 1.100

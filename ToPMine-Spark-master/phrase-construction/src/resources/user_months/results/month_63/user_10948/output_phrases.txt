@@ -1,0 +1,61 @@
+Topic 0:
+  applications:0.29
+  network:0.27
+  build:0.27
+  bit:0.17
+  hold:0.14
+  nutsack:0.14
+  embedded:0.14
+  software:0.14
+  secure:0.14
+  scale:0.14
+
+Topic 1:
+  build:0.28
+  network:0.28
+  applications:0.28
+  bit:0.17
+  heard:0.14
+  assembling:0.14
+  kernal:0.14
+  named:0.14
+  info:0.14
+  work:0.14
+
+Topic 2:
+  build:0.29
+  network:0.28
+  applications:0.27
+  bit:0.17
+  github:0.14
+  developers:0.14
+  looked:0.14
+  missed:0.14
+  kernal:0.14
+  apologize:0.14
+
+Topic 3:
+  applications:0.28
+  network:0.28
+  build:0.27
+  bit:0.17
+  critical:0.14
+  stuff:0.14
+  crash:0.14
+  type:0.14
+  general:0.14
+  architectures:0.14
+
+Topic 4:
+  network:0.28
+  build:0.28
+  applications:0.27
+  bit:0.17
+  remotely:0.14
+  documentation:0.14
+  idea:0.14
+  peoples:0.14
+  opinions:0.14
+  period:0.14
+
+K: 5, Log-Likelihood: -281.709, Alpha: 11.000, Beta: 1.100

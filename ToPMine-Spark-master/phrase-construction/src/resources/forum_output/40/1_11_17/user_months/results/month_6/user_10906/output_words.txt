@@ -1,0 +1,26 @@
+Topic 0:
+  didnt:0.20
+  lube:0.20
+  kissed:0.20
+
+Topic 1:
+  kissed:0.20
+  didnt:0.20
+  lube:0.20
+
+Topic 2:
+  kissed:0.20
+  didnt:0.20
+  lube:0.20
+
+Topic 3:
+  lube:0.20
+  kissed:0.20
+  didnt:0.20
+
+Topic 4:
+  lube:0.20
+  kissed:0.20
+  didnt:0.20
+
+K: 5, Log-Likelihood: -3.296, Alpha: 11.000, Beta: 1.100

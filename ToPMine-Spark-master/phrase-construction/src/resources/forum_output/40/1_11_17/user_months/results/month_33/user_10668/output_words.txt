@@ -1,0 +1,61 @@
+Topic 0:
+  linux:11.90
+  windows:7.93
+  password:2.98
+  secure:2.89
+  antivirus:2.89
+  file:1.96
+  virus:1.96
+  forbidden:1.96
+  systems:1.96
+  permitted:1.96
+
+Topic 1:
+  drive:3.72
+  compromised:3.37
+  local:3.03
+  time:2.94
+  imagine:2.90
+  os:2.90
+  storage:2.90
+  persistent:2.13
+  ways:2.01
+  didnt:2.00
+
+Topic 2:
+  tails:6.80
+  compromised:5.63
+  long:3.42
+  read:3.40
+  attack:2.28
+  router:2.25
+  find:2.24
+  system:2.10
+  real:2.10
+  key:2.09
+
+Topic 3:
+  surveillance:7.90
+  dont:6.66
+  time:3.85
+  compromised:3.76
+  attack:2.69
+  persistent:2.37
+  ways:2.33
+  fuck:1.89
+  clear:1.73
+  pd:1.59
+
+Topic 4:
+  surveillance:7.27
+  pm:6.68
+  december:6.37
+  quote:6.37
+  leapfrog:6.37
+  keylogger:4.95
+  black:3.95
+  bag:3.95
+  job:2.95
+  threat:2.95
+
+K: 5, Log-Likelihood: -3233.668, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  november:0.44
+  contact:0.44
+  email true trading manually:0.37
+  contact trades:0.37
+  tmg:0.37
+  onion site:0.34
+  onion site listing general:0.34
+  pcpedit dont rely volatile:0.34
+  marketplace simplest stuff setup:0.34
+  email annoying frequent buyers:0.34
+
+Topic 1:
+  november:0.51
+  contact:0.50
+  doesnt sale dissociatives:0.34
+  quote:0.34
+  purpose:0.34
+  benzos find place sell:0.34
+  contact trades:0.34
+  vendors:0.34
+  vendor:0.34
+  larson:0.34
+
+Topic 2:
+  contact:0.56
+  november:0.55
+  pmtmg:0.35
+  vendor:0.35
+  post:0.35
+  addresses:0.35
+  larson:0.35
+  note:0.35
+  trade:0.35
+  doesnt sale dissociatives:0.35
+
+Topic 3:
+  november:0.53
+  contact:0.53
+  quote:0.34
+  vendors:0.34
+  purpose:0.34
+  addresses:0.34
+  note:0.34
+  trade:0.34
+  benzos find place sell:0.34
+  larson:0.34
+
+Topic 4:
+  contact:0.52
+  november:0.52
+  post:0.35
+  vendor:0.34
+  pmtmg:0.34
+  addresses:0.34
+  hub:0.34
+  vendors:0.34
+  purpose:0.34
+  note:0.34
+
+K: 5, Log-Likelihood: -380.261, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  vending large shopping:1.63
+  offers:1.63
+  cash:1.63
+  ketaman:1.63
+  burner laptop darknetmarket shopping:1.63
+  basically:1.63
+  browsing:1.63
+  tails usb:1.63
+  worried:1.63
+  recommend good:1.63
+
+Topic 1:
+  good:2.36
+  ass:1.81
+  parts:1.81
+  easily:1.81
+  bios:1.81
+  good burner laptop darknetmarket:1.81
+  man:1.81
+  popular:1.81
+  enterprise:1.81
+  source:1.81
+
+Topic 2:
+  write data sector:1.38
+  wifi:1.25
+  bytes:1.22
+  vm:1.18
+  computer:1.13
+  flags:1.08
+  documents:0.60
+  includes:0.60
+  hard drive:0.60
+  aspect:0.60
+
+Topic 3:
+  wifi:1.01
+  computer:0.98
+  write data sector:0.97
+  bytes:0.97
+  flags:0.95
+  vm:0.90
+  tails:0.55
+  disk:0.53
+  full:0.52
+  mac:0.52
+
+Topic 4:
+  flags:1.70
+  vm:1.65
+  computer:1.62
+  bytes:1.55
+  wifi:1.46
+  write data sector:1.38
+  buy:0.72
+  packet:0.72
+  feel:0.72
+  windows:0.72
+
+K: 5, Log-Likelihood: -1875.359, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  small:0.00
+  play:0.00
+  upload:0.00
+  year:0.00
+  jtrig:0.00
+  secure:0.00
+  rent:0.00
+  ssl:0.00
+  doesnt:0.00
+  reference:0.00
+
+Topic 1:
+  small:0.00
+  play:0.00
+  upload:0.00
+  year:0.00
+  jtrig:0.00
+  secure:0.00
+  rent:0.00
+  ssl:0.00
+  doesnt:0.00
+  reference:0.00
+
+Topic 2:
+  small:0.00
+  play:0.00
+  upload:0.00
+  year:0.00
+  jtrig:0.00
+  secure:0.00
+  rent:0.00
+  ssl:0.00
+  doesnt:0.00
+  reference:0.00
+
+Topic 3:
+  small:0.00
+  play:0.00
+  upload:0.00
+  year:0.00
+  jtrig:0.00
+  secure:0.00
+  rent:0.00
+  ssl:0.00
+  doesnt:0.00
+  reference:0.00
+
+Topic 4:
+  small:0.00
+  play:0.00
+  upload:0.00
+  year:0.00
+  jtrig:0.00
+  secure:0.00
+  rent:0.00
+  ssl:0.00
+  doesnt:0.00
+  reference:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

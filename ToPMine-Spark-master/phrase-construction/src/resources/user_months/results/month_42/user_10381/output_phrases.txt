@@ -1,0 +1,61 @@
+Topic 0:
+  logon:1.30
+  screen:0.72
+  minutes:0.60
+  problem:0.54
+  credentials:0.54
+  quietforest:0.54
+  enter:0.54
+  loading:0.54
+  times:0.54
+  time:0.54
+
+Topic 1:
+  minutes:0.79
+  time:0.63
+  logon:0.62
+  screen:0.58
+  est:0.50
+  degrading:0.43
+  lasted:0.43
+  infrastructure:0.43
+  ddw:0.42
+  hasnt:0.38
+
+Topic 2:
+  est:0.74
+  minutes:0.62
+  bigdogsecurity:0.53
+  hath:0.52
+  working:0.52
+  quote:0.52
+  fuck:0.52
+  march:0.52
+  pmconfirmed:0.51
+  time:0.51
+
+Topic 3:
+  logon:0.85
+  minutes:0.64
+  screen:0.60
+  time:0.56
+  est:0.52
+  times:0.40
+  loading:0.40
+  quietforest:0.40
+  credentials:0.40
+  problem:0.40
+
+Topic 4:
+  minutes:0.65
+  est:0.55
+  time:0.54
+  dont:0.51
+  familiar:0.51
+  problems:0.51
+  maintaining:0.51
+  users:0.51
+  checking:0.51
+  markets:0.51
+
+K: 5, Log-Likelihood: -268.616, Alpha: 11.000, Beta: 1.100

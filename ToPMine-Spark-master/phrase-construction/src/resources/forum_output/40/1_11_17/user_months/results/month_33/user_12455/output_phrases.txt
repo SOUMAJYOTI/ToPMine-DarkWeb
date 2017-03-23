@@ -1,0 +1,61 @@
+Topic 0:
+  ja:0.21
+  pi:0.20
+  myyj:0.20
+  ytt mikseri:0.20
+  tai:0.20
+  jille:0.18
+  automaattisesti:0.18
+  yll:0.18
+  tyv:0.18
+  pit:0.18
+
+Topic 1:
+  ja:0.20
+  myyj:0.20
+  ytt mikseri:0.20
+  tai:0.20
+  pi:0.20
+  huumecoineihin:0.18
+  huumecoinit:0.18
+  suomalaiset:0.18
+  mikseriin:0.18
+  miksataan:0.18
+
+Topic 2:
+  ytt mikseri:0.21
+  tai:0.21
+  pi:0.20
+  myyj:0.20
+  ja:0.20
+  kapteeni:0.18
+  itse:0.18
+  ota:0.18
+  en:0.18
+  bitcoinit:0.18
+
+Topic 3:
+  tai:0.20
+  ytt mikseri:0.20
+  pi:0.20
+  myyj:0.20
+  ja:0.20
+  mikserin:0.18
+  ved:0.18
+  viestiss:0.18
+  riskej:0.18
+  tapauksessa:0.18
+
+Topic 4:
+  pi:0.20
+  tai:0.20
+  ytt mikseri:0.20
+  ja:0.20
+  myyj:0.20
+  mulle:0.18
+  kertoi:0.18
+  ota:0.18
+  bitcoinit:0.18
+  joka:0.18
+
+K: 5, Log-Likelihood: -198.434, Alpha: 11.000, Beta: 1.100

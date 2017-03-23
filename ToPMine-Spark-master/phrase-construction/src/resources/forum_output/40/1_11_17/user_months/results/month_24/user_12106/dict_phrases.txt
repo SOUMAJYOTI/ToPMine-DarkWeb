@@ -1,0 +1,28 @@
+bitcoins bill,0,1
+wait,1,1
+luck,2,1
+ago,3,1
+bill bitcoins,4,1
+cell,5,1
+hope,6,1
+good,7,1
+lost,8,1
+today,9,1
+members,10,1
+silkkitie,11,1
+knowledge,12,1
+order,13,1
+bill,14,3
+bitcoins,15,3
+wrong,16,1
+market,17,1
+forum,18,1
+site,19,1
+money,20,1
+complaint,21,1
+service,22,1
+paid,23,2
+dealer,24,1
+dealt,25,1
+respond,26,1
+account,27,1

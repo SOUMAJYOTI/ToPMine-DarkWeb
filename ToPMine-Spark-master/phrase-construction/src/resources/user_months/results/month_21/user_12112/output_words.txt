@@ -1,0 +1,61 @@
+Topic 0:
+  site:0.40
+  ill:0.20
+  guys:0.20
+  sending:0.20
+  btc:0.20
+  check:0.20
+  info:0.20
+  works:0.20
+  months:0.20
+  joking:0.20
+
+Topic 1:
+  site:0.40
+  scam:0.20
+  positive:0.20
+  amberoad:0.20
+  russian:0.20
+  reports:0.20
+  language:0.20
+  coming:0.20
+  huh:0.20
+  deposited:0.20
+
+Topic 2:
+  site:0.40
+  works:0.20
+  months:0.20
+  check:0.20
+  info:0.20
+  successful:0.20
+  business:0.20
+  year:0.20
+  onion:0.20
+  joking:0.20
+
+Topic 3:
+  site:0.40
+  deposited:0.20
+  login:0.20
+  didn:0.20
+  coming:0.20
+  huh:0.20
+  amberoad:0.20
+  language:0.20
+  reports:0.20
+  positive:0.20
+
+Topic 4:
+  site:0.40
+  russian:0.20
+  year:0.20
+  positive:0.20
+  successful:0.20
+  language:0.20
+  scam:0.20
+  business:0.20
+  amberoad:0.20
+  sending:0.20
+
+K: 5, Log-Likelihood: -83.353, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  dash anonymous:3.17
+  bitcoin:2.95
+  article:2.29
+  foundationwas:2.04
+  anarchic:2.04
+  long:2.04
+  frauds:2.04
+  spirit:2.04
+  exercise:2.04
+  collude:2.04
+
+Topic 1:
+  darkcoin:5.26
+  bitcoin:4.72
+  anonymity:4.46
+  provision anonymity:2.95
+  analysis:2.39
+  number:2.22
+  people:2.13
+  control:2.01
+  users:1.92
+  cryptocurrency:1.88
+
+Topic 2:
+  tor:16.62
+  tor proxy:10.39
+  onion addresses:8.31
+  onion:7.75
+  darkcoin tor:6.43
+  externalip:6.23
+  ssapp tmftyjmjb onion:6.23
+  onion address:6.23
+  listen:6.23
+  hidden service:6.23
+
+Topic 3:
+  onionaddnode:14.49
+  xdsqphkef:2.01
+  xwmit:2.01
+  sf:2.01
+  hgyvmhd:2.01
+  ihasu:2.01
+  ghp:2.01
+  aqmdzilaqayzjb:2.01
+  wwniwxrykmk:2.01
+  px:2.01
+
+Topic 4:
+  users:18.27
+  anonymity:17.86
+  money:16.48
+  provision anonymity:11.27
+  anonymization:10.92
+  transactions:10.60
+  bitcoins:10.45
+  collective transaction:9.15
+  source code:8.86
+  bitcoin:7.87
+
+K: 5, Log-Likelihood: -18843.784, Alpha: 11.000, Beta: 1.100

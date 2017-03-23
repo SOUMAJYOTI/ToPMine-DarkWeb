@@ -1,0 +1,61 @@
+Topic 0:
+  send encrypted:6.37
+  payment:3.08
+  thread:3.08
+  vendors:3.08
+  email:3.08
+  read:3.08
+  standard:3.08
+  messages board:3.08
+  board:3.08
+  anthony:3.08
+
+Topic 1:
+  ass:3.10
+  moto:3.10
+  long:3.10
+  pgp:3.10
+  save:3.10
+  easy:3.10
+  term:3.10
+  learn:2.32
+  june:1.95
+  pmtrust:1.95
+
+Topic 2:
+  advise:3.10
+  create:3.10
+  pm:3.10
+  send:3.10
+  receive:3.10
+  secure:3.10
+  key:3.10
+  bit:3.10
+  alternative:3.10
+  tails:3.10
+
+Topic 3:
+  god:3.07
+  nerd:3.07
+  sake:3.06
+  computer:3.06
+  purchasing:3.06
+  unreliable:3.06
+  start:2.08
+  usual:2.04
+  ain:1.81
+  aint:1.81
+
+Topic 4:
+  quote slarky amthank:3.49
+  tor based mail provider:3.39
+  appreciated:3.34
+  problem security:2.57
+  wasn find secure:2.57
+  sigaint:2.47
+  server:2.44
+  compromised:2.44
+  free:2.26
+  problem security find secure:2.10
+
+K: 5, Log-Likelihood: -1098.198, Alpha: 11.000, Beta: 1.100

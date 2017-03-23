@@ -1,0 +1,61 @@
+Topic 0:
+  election:5.74
+  man:4.76
+  don:4.57
+  long:3.47
+  win:3.41
+  choices:2.65
+  personally:2.65
+  candidates:2.65
+  prediction:2.49
+  hillary:2.31
+
+Topic 1:
+  time:7.46
+  real:7.44
+  donald:7.08
+  president:5.91
+  neurosurgeon:5.91
+  choose:5.91
+  creationism:4.92
+  feeling:4.26
+  focus:3.93
+  talking:3.93
+
+Topic 2:
+  bernie:6.72
+  september:5.71
+  quote:5.65
+  sanders:4.45
+  chance:4.10
+  carson:3.83
+  candidate:3.82
+  republican:3.57
+  hillary:3.55
+  fuck:3.00
+
+Topic 3:
+  word:4.80
+  bush:3.89
+  dr:3.89
+  florida:3.89
+  noelle:3.89
+  republicans:3.67
+  slur:3.06
+  triggering:3.04
+  naughty:3.03
+  affiliation:3.01
+
+Topic 4:
+  word:17.80
+  post:13.08
+  allowed:7.15
+  people:7.05
+  sanders:6.29
+  bernie:5.45
+  forms:5.33
+  tit:5.33
+  america:5.10
+  cnn:4.62
+
+K: 5, Log-Likelihood: -5464.888, Alpha: 11.000, Beta: 1.100

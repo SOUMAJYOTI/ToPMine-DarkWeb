@@ -1,0 +1,61 @@
+Topic 0:
+  people:1.30
+  job:0.82
+  wanted:0.82
+  drop:0.81
+  community:0.79
+  making:0.78
+  don:0.58
+  places:0.40
+  lurk:0.40
+  enjoys:0.40
+
+Topic 1:
+  people:1.21
+  wanted:0.80
+  job:0.80
+  drop:0.80
+  making:0.79
+  community:0.78
+  don:0.61
+  things:0.40
+  pop:0.40
+  decisions:0.40
+
+Topic 2:
+  people:1.29
+  drop:0.85
+  making:0.82
+  job:0.82
+  community:0.76
+  wanted:0.76
+  don:0.59
+  reflect:0.41
+  introducing:0.40
+  deal:0.40
+
+Topic 3:
+  people:1.05
+  wanted:0.83
+  community:0.82
+  making:0.82
+  job:0.78
+  drop:0.74
+  don:0.61
+  hanging:0.40
+  spot:0.40
+  irl:0.40
+
+Topic 4:
+  people:1.15
+  community:0.84
+  drop:0.81
+  wanted:0.79
+  making:0.79
+  job:0.78
+  don:0.60
+  difficult:0.41
+  day:0.40
+  account:0.40
+
+K: 5, Log-Likelihood: -530.140, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  seizure:3.88
+  counts:3.88
+  package:3.38
+  email:3.13
+  tmg:2.33
+  franko:2.03
+  good:1.92
+  seizures:1.88
+  cmadeline:1.13
+  menu:1.12
+
+Topic 1:
+  lucy:2.29
+  email:1.41
+  hear:1.19
+  coins:1.17
+  order:1.16
+  address:1.14
+  wednesday:1.13
+  good:1.11
+  sigaint:1.02
+  quote:0.85
+
+Topic 2:
+  lucy:2.48
+  email:2.02
+  good:1.40
+  wednesday:1.19
+  order:1.17
+  address:1.16
+  coins:1.13
+  sigaint:0.86
+  hear:0.84
+  quote:0.79
+
+Topic 3:
+  cult:4.39
+  lucy:3.06
+  worth:2.73
+  vendor:2.72
+  marked:2.21
+  vendors:2.18
+  issues:1.72
+  ban:1.72
+  implacable:1.72
+  enigma:1.72
+
+Topic 4:
+  lucy:2.16
+  email:1.25
+  banned:1.16
+  good:0.99
+  vendor:0.91
+  sigaint:0.88
+  address:0.87
+  coins:0.86
+  order:0.85
+  wednesday:0.85
+
+K: 5, Log-Likelihood: -1631.968, Alpha: 11.000, Beta: 1.100

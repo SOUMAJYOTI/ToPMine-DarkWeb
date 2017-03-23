@@ -1,0 +1,61 @@
+Topic 0:
+  lsd:1.42
+  seeds:0.89
+  filter:0.67
+  benzene:0.56
+  filtered:0.53
+  clear:0.51
+  point:0.50
+  fine:0.44
+  small:0.44
+  set:0.44
+
+Topic 1:
+  seeds:23.35
+  fluid:11.00
+  filter:8.06
+  dont:7.06
+  place:7.03
+  naptha:7.02
+  lighter:7.01
+  alcohol:6.90
+  pour:5.21
+  glass:3.28
+
+Topic 2:
+  seeds:3.29
+  filter:1.61
+  lsd:1.52
+  benzene:0.95
+  alcohol:0.76
+  fluid:0.68
+  lighter:0.67
+  naptha:0.65
+  place:0.65
+  filtered:0.61
+
+Topic 3:
+  solution:6.87
+  mixture:5.87
+  solids:5.87
+  removed:4.87
+  acid:4.87
+  product:3.88
+  base:3.88
+  dry:3.88
+  white:3.88
+  vacuum:3.88
+
+Topic 4:
+  lsd:1.22
+  point:0.54
+  filtered:0.51
+  easier:0.51
+  issue:0.51
+  thread:0.51
+  discussion:0.51
+  follow:0.51
+  clear:0.49
+  benzene:0.45
+
+K: 5, Log-Likelihood: -3113.065, Alpha: 11.000, Beta: 1.100

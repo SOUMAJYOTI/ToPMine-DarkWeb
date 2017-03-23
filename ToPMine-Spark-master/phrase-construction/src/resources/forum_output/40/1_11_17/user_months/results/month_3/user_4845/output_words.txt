@@ -1,0 +1,61 @@
+Topic 0:
+  fun:5.87
+  info:5.03
+  quote:3.14
+  chat:2.18
+  trolls:1.85
+  vox:1.70
+  newcomers:1.69
+  server:1.66
+  log:1.63
+  ikea:1.62
+
+Topic 1:
+  irc:16.36
+  chat:13.32
+  join:8.33
+  leave:7.93
+  tor:6.43
+  people:5.93
+  pidgin:5.93
+  type:4.13
+  list:3.93
+  nick:3.93
+
+Topic 2:
+  server:9.28
+  drug:6.79
+  cheers:5.43
+  public:5.32
+  channel:5.23
+  market:4.54
+  sourcing:4.54
+  totally:3.92
+  rules:2.80
+  shutting:2.80
+
+Topic 3:
+  fun:10.59
+  info:8.47
+  bot:7.20
+  handles:7.15
+  chez:7.14
+  chatter:7.12
+  money:7.09
+  sarcastic:7.09
+  security:7.00
+  log:6.62
+
+Topic 4:
+  quote:6.72
+  fun:5.03
+  hand:3.88
+  delysid:3.52
+  february:3.01
+  chats:2.78
+  great:2.78
+  ammore:2.68
+  ikea:2.47
+  newcomers:2.44
+
+K: 5, Log-Likelihood: -4963.852, Alpha: 11.000, Beta: 1.100

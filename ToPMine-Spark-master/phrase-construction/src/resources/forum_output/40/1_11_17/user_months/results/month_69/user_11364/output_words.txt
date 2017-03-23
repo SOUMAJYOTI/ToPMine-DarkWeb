@@ -1,0 +1,61 @@
+Topic 0:
+  ago:3.36
+  quote:2.93
+  january:2.87
+  weed:2.77
+  hacked:2.32
+  vendor:2.25
+  post:2.04
+  fatherted:1.27
+  click:1.08
+  link:1.08
+
+Topic 1:
+  account:8.57
+  hacked:7.57
+  problem:7.12
+  hacking:6.89
+  reddit:6.83
+  malware:4.82
+  vending:3.82
+  decrypted:2.81
+  huh:2.81
+  explain:2.81
+
+Topic 2:
+  january:14.40
+  excuses:11.22
+  half:10.33
+  gram:10.30
+  amquote:10.13
+  dodongo:8.61
+  winner:7.65
+  vendor:7.50
+  lol:5.78
+  fatherted:5.44
+
+Topic 3:
+  weed:6.27
+  good:6.03
+  market:3.39
+  dream:1.78
+  day:1.75
+  long:1.72
+  quantity:1.29
+  sell:1.13
+  darknet:1.12
+  stuff:1.12
+
+Topic 4:
+  nucleus:13.49
+  message:13.14
+  account:11.80
+  work:6.32
+  dont:6.11
+  order:6.10
+  markets:5.78
+  receive:5.78
+  mods:5.78
+  peoples:5.78
+
+K: 5, Log-Likelihood: -4043.742, Alpha: 11.000, Beta: 1.100

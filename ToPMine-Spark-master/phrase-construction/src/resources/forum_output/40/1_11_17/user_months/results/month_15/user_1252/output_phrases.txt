@@ -1,0 +1,61 @@
+Topic 0:
+  hours:0.56
+  market:0.53
+  agora:0.46
+  markets response:0.45
+  agra support:0.45
+  fairness:0.45
+  messaged:0.44
+  answered:0.42
+  account:0.41
+  markets:0.41
+
+Topic 1:
+  market:0.93
+  experience:0.59
+  ddos:0.59
+  coming:0.59
+  admins:0.59
+  vacation:0.58
+  attacks:0.58
+  slow:0.58
+  message:0.58
+  times:0.58
+
+Topic 2:
+  answered:0.98
+  hours:0.72
+  agora:0.45
+  time:0.43
+  individual:0.43
+  buyer:0.43
+  quicker:0.43
+  market support:0.43
+  posts:0.43
+  ticket:0.42
+
+Topic 3:
+  answered:0.94
+  hours:0.82
+  identified:0.43
+  logged:0.43
+  pms:0.43
+  anonimity:0.43
+  general:0.43
+  reply agra:0.43
+  forum:0.43
+  question:0.43
+
+Topic 4:
+  market:0.72
+  account:0.50
+  agora:0.50
+  deal:0.48
+  vendor:0.48
+  profile:0.48
+  times:0.48
+  attacks:0.47
+  experience:0.47
+  suspect:0.47
+
+K: 5, Log-Likelihood: -505.502, Alpha: 11.000, Beta: 1.100

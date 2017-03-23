@@ -1,0 +1,61 @@
+Topic 0:
+  persistent:8.80
+  risk:5.93
+  select:4.91
+  amnesia:3.93
+  persistence:3.93
+  browserto:3.93
+  setting:3.70
+  save:3.11
+  file:2.90
+  terminal:2.90
+
+Topic 1:
+  router:16.87
+  vpn:15.75
+  vpon:12.34
+  tails:11.93
+  january:11.49
+  middlebox:9.96
+  set:8.86
+  option:8.00
+  point:6.73
+  amquote:6.58
+
+Topic 2:
+  router:10.01
+  middlebox:8.73
+  tails:7.90
+  vpn:5.53
+  access:4.32
+  tor:4.28
+  connect:4.24
+  january:3.79
+  dedicated:3.50
+  quote:3.48
+
+Topic 3:
+  tor:17.21
+  vpn:11.40
+  tails:8.19
+  security:4.79
+  strong:3.96
+  netsec:3.96
+  serves:3.85
+  approach:3.85
+  time:3.49
+  exit:2.96
+
+Topic 4:
+  tails:5.25
+  tor:4.41
+  client:4.39
+  vpn:4.23
+  airvpn:3.90
+  didnt:3.90
+  devs:3.37
+  access:2.88
+  december:2.53
+  quote:2.49
+
+K: 5, Log-Likelihood: -5141.461, Alpha: 11.000, Beta: 1.100

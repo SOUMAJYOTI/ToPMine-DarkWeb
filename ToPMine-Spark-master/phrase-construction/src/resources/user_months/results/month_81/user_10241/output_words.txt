@@ -1,0 +1,61 @@
+Topic 0:
+  wright:7.96
+  wired:5.96
+  bitcoin:5.45
+  published:5.25
+  nakamoto:4.81
+  launch:3.13
+  january:2.96
+  blog:2.96
+  article:2.96
+  time:2.06
+
+Topic 1:
+  btc:2.74
+  find:1.80
+  created:1.77
+  guy:1.69
+  farm:1.62
+  thing:1.61
+  nym:0.86
+  anon:0.86
+  crash:0.86
+  lea:0.86
+
+Topic 2:
+  exchange:3.96
+  radtke:2.96
+  meta:2.96
+  autumn:2.96
+  ceo:2.96
+  death:2.96
+  bitcoin:2.89
+  year:2.19
+  worked:2.07
+  currency:2.07
+
+Topic 3:
+  tax:4.96
+  incorporate:3.96
+  ato:2.96
+  avoidance:2.96
+  feeling:1.96
+  office:1.96
+  satoshi:1.59
+  door:1.50
+  operation:1.49
+  simple:1.48
+
+Topic 4:
+  bitcoin:14.15
+  nakamoto:12.12
+  newsweek:6.96
+  code:3.96
+  years:3.96
+  man:3.96
+  satoshi:3.39
+  year:3.00
+  government:2.96
+  involved:2.96
+
+K: 5, Log-Likelihood: -4316.371, Alpha: 11.000, Beta: 1.100

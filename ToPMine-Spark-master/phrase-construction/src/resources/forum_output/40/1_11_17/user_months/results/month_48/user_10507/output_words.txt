@@ -1,0 +1,61 @@
+Topic 0:
+  site:37.11
+  file:26.96
+  message:20.31
+  mccoole:17.99
+  secret:14.06
+  administrator:13.95
+  hidden:13.28
+  argos:12.76
+  steghide:12.61
+  children:12.48
+
+Topic 1:
+  irc:32.15
+  people:27.94
+  identity:24.40
+  june:24.30
+  real:22.51
+  amquote:18.16
+  time:17.03
+  nasty:16.94
+  math:14.93
+  secure:14.65
+
+Topic 2:
+  key:46.57
+  keys:36.37
+  party:27.99
+  mac:18.40
+  alice:16.99
+  public:14.79
+  messages:13.55
+  conversation:13.27
+  encryption:12.32
+  otr:11.99
+
+Topic 3:
+  privacy:19.30
+  wallets:9.99
+  top:9.76
+  life:9.49
+  wallet:9.47
+  bridges:8.67
+  good:8.52
+  things:8.21
+  ranvier:7.99
+  obpp:7.99
+
+Topic 4:
+  anonymous:61.80
+  tor:45.97
+  sites:33.83
+  fbi:17.41
+  site:16.76
+  road:16.68
+  dont:16.61
+  silk:15.99
+  members:15.02
+  quote:13.85
+
+K: 5, Log-Likelihood: -48631.671, Alpha: 11.000, Beta: 1.100

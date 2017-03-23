@@ -1,0 +1,61 @@
+Topic 0:
+  fake:0.28
+  server:0.28
+  public:0.28
+  surveillance:0.28
+  vpn:0.28
+  sock:0.28
+  usps:0.28
+  notice:0.28
+  network:0.28
+  addresses:0.28
+
+Topic 1:
+  public:0.29
+  addresses:0.29
+  server:0.29
+  nowadays:0.29
+  requests:0.29
+  fake:0.29
+  notice:0.29
+  vpn:0.29
+  usps:0.29
+  tor exit node:0.29
+
+Topic 2:
+  good proxy:0.28
+  receiving:0.28
+  chances:0.28
+  vpn:0.28
+  worrying:0.28
+  nowadays:0.28
+  requests:0.28
+  sock:0.28
+  usps:0.28
+  notice:0.28
+
+Topic 3:
+  catches:0.29
+  guys:0.29
+  stuff:0.29
+  place:0.29
+  encrypted:0.29
+  link good:0.29
+  time:0.29
+  hosts:0.29
+  catch:0.29
+  fuck:0.29
+
+Topic 4:
+  justme:0.28
+  guys:0.28
+  hosting:0.28
+  packages:0.28
+  mind:0.28
+  link stuff:0.28
+  exit nodes:0.28
+  pm:0.28
+  arrival:0.28
+  quote:0.28
+
+K: 5, Log-Likelihood: -349.384, Alpha: 11.000, Beta: 1.100

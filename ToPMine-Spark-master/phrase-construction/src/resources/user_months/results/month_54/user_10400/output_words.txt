@@ -1,0 +1,61 @@
+Topic 0:
+  money:15.32
+  accounts:6.30
+  multiply:4.83
+  clean:4.73
+  business:3.64
+  method:3.34
+  property:3.24
+  piece:3.16
+  implicit:3.15
+  offshore:3.14
+
+Topic 1:
+  money:21.68
+  accounts:4.90
+  august:4.43
+  clean:4.37
+  business:4.25
+  method:3.89
+  multiply:3.63
+  casino:2.92
+  buy:2.86
+  people:2.84
+
+Topic 2:
+  money:16.38
+  clean:4.73
+  method:4.61
+  accounts:4.09
+  multiply:3.76
+  buy:3.66
+  business:3.65
+  property:3.18
+  offshore:3.01
+  chips:2.96
+
+Topic 3:
+  money:17.57
+  clean:7.09
+  method:4.49
+  august:4.41
+  accounts:4.30
+  multiply:4.17
+  business:3.89
+  buy:2.97
+  piece:2.89
+  mix:2.81
+
+Topic 4:
+  money:19.05
+  accounts:8.41
+  clean:5.08
+  property:4.37
+  offshore:3.83
+  method:3.67
+  multiply:3.63
+  chips:3.18
+  casino:3.16
+  trade:3.05
+
+K: 5, Log-Likelihood: -3530.591, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  silti:2.93
+  nyt:2.93
+  takaisin:2.93
+  tapahtui:2.93
+  mutta:2.74
+  mit:2.74
+  kun:2.23
+  hyv:1.43
+  olla:1.43
+  asiat:1.43
+
+Topic 1:
+  laittanut:1.78
+  vastasi:1.69
+  keen:1.69
+  odota:1.43
+  kyseleen:1.42
+  sit se:1.42
+  muillakin:1.42
+  mutta se:1.42
+  hitautta:1.42
+  ihmetteli:1.42
+
+Topic 2:
+  myyj:1.44
+  olet:1.40
+  jatkaa:1.40
+  luet:1.40
+  pystyss:1.40
+  ono:1.40
+  valmis:1.40
+  virheet:1.40
+  st:1.40
+  haluat:1.40
+
+Topic 3:
+  mut:1.59
+  postittaneensa:1.59
+  viikko:1.59
+  koska:1.59
+  mut mitaan:1.55
+  riitauttaa:1.43
+  escrowia:1.43
+  mites:1.43
+  silkkitie:1.43
+  siirtyy:1.43
+
+Topic 4:
+  mitaan:2.99
+  ois:1.94
+  ei:1.68
+  tulee:1.37
+  enaa:1.29
+  kirjetta:1.29
+  kirje:1.29
+  matkan:1.29
+  kyl:1.29
+  paasta:1.29
+
+K: 5, Log-Likelihood: -1695.945, Alpha: 11.000, Beta: 1.100

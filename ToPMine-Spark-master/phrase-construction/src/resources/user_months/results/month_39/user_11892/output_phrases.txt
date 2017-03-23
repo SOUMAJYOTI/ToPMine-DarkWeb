@@ -1,0 +1,61 @@
+Topic 0:
+  vendor:5.59
+  thing:4.67
+  check:4.67
+  logged:4.67
+  comrade:3.94
+  controls:3.42
+  crypto:3.21
+  buy:2.84
+  reputations:2.32
+  quotegreetings:2.32
+
+Topic 1:
+  pasting pgp key turning:10.43
+  grant market:8.12
+  true appears true:5.22
+  invalid internal algorithm unknown:5.22
+  fa login:5.21
+  fa render unable login:5.21
+  testing setting pgp key:5.17
+  reported thread february quotethey:4.69
+  fixed fa login bug:4.69
+  hours days teething problems:3.79
+
+Topic 2:
+  market:8.29
+  fe:7.66
+  crypto:6.62
+  vendors:5.19
+  bitcoins:4.67
+  ships:4.67
+  sort:4.67
+  products:4.67
+  business:4.67
+  crypts market:4.50
+
+Topic 3:
+  trust:11.45
+  march:5.08
+  market:4.99
+  vendor accounts:4.81
+  free:4.81
+  close:4.79
+  remain strong comrades:3.83
+  high traffic:3.71
+  conditions:3.69
+  oversight:3.69
+
+Topic 4:
+  crypto market:10.36
+  open:5.03
+  vendors:3.62
+  russian:3.45
+  evolution:2.45
+  united:2.32
+  start:2.32
+  allowed:2.32
+  bootstrap:2.32
+  vendor fee:2.32
+
+K: 5, Log-Likelihood: -4920.437, Alpha: 11.000, Beta: 1.100

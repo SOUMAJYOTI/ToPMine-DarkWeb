@@ -1,0 +1,61 @@
+Topic 0:
+  ps:0.00
+  thought:0.00
+  profitably:0.00
+  misdirection:0.00
+  release:0.00
+  happy:0.00
+  cashout guides:0.00
+  originality:0.00
+  commit:0.00
+  fair:0.00
+
+Topic 1:
+  ps:0.00
+  thought:0.00
+  profitably:0.00
+  misdirection:0.00
+  release:0.00
+  happy:0.00
+  cashout guides:0.00
+  originality:0.00
+  commit:0.00
+  fair:0.00
+
+Topic 2:
+  ps:0.00
+  thought:0.00
+  profitably:0.00
+  misdirection:0.00
+  release:0.00
+  happy:0.00
+  cashout guides:0.00
+  originality:0.00
+  commit:0.00
+  fair:0.00
+
+Topic 3:
+  ps:0.00
+  thought:0.00
+  profitably:0.00
+  misdirection:0.00
+  release:0.00
+  happy:0.00
+  cashout guides:0.00
+  originality:0.00
+  commit:0.00
+  fair:0.00
+
+Topic 4:
+  ps:0.00
+  thought:0.00
+  profitably:0.00
+  misdirection:0.00
+  release:0.00
+  happy:0.00
+  cashout guides:0.00
+  originality:0.00
+  commit:0.00
+  fair:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

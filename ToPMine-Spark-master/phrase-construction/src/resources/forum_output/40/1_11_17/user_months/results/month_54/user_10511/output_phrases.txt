@@ -1,0 +1,61 @@
+Topic 0:
+  based:21.65
+  whonix:5.87
+  list:5.40
+  powerpc:5.40
+  machines:5.40
+  architecture:5.40
+  sparc:5.40
+  motherboard:5.40
+  mips:5.40
+  io:5.40
+
+Topic 1:
+  rs:5.41
+  wws:5.41
+  block:5.41
+  key:5.41
+  pgp public:5.41
+  hrf:5.41
+  ne:5.41
+  ax:5.41
+  qlqml:2.70
+  vrxkwzmgwcnbp:2.70
+
+Topic 2:
+  ndiswrapper:9.82
+  tails:7.32
+  camera mid:5.38
+  install:5.37
+  obsf:5.37
+  public wifi:5.37
+  peace mind:5.02
+  computer:4.65
+  darknet:4.51
+  activities:4.51
+
+Topic 3:
+  router:5.37
+  guys:5.34
+  lbc:5.34
+  suitable:4.50
+  answer:4.50
+  knowledge:4.50
+  simple:4.50
+  level:4.50
+  lol:4.46
+  dongle:4.03
+
+Topic 4:
+  good idea:13.76
+  thing:10.03
+  host pc:8.06
+  tor:7.16
+  switching motherboard:6.85
+  wife hotspots:6.85
+  planning booting live installing:6.65
+  tails:6.19
+  hardware:5.81
+  malware:5.39
+
+K: 5, Log-Likelihood: -15415.350, Alpha: 11.000, Beta: 1.100

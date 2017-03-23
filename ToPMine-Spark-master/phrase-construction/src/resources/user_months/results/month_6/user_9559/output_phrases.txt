@@ -1,0 +1,61 @@
+Topic 0:
+  system:0.62
+  account:0.59
+  sound:0.59
+  guess:0.59
+  forums:0.59
+  returning:0.59
+  le dont:0.59
+  pgp:0.54
+  explanation:0.44
+  posting:0.42
+
+Topic 1:
+  supposed:2.52
+  sr:2.51
+  blah:2.51
+  ing:2.51
+  read:1.17
+  dr:1.17
+  theyve:1.17
+  methods:1.17
+  expected:1.17
+  astor:1.17
+
+Topic 2:
+  paranoid:1.95
+  stay:1.11
+  warning:1.10
+  safer:1.10
+  defcon:1.10
+  discrediting:1.10
+  deleted:1.10
+  days:1.09
+  posting:1.09
+  point:1.09
+
+Topic 3:
+  sense:2.57
+  disappeared:1.19
+  worse:1.19
+  infilration:1.19
+  mosey:1.19
+  quick:1.19
+  failure:1.19
+  goblin:1.19
+  encrypted:1.19
+  blank:1.19
+
+Topic 4:
+  word post:4.02
+  message:3.28
+  post:2.64
+  note:1.26
+  strange:1.26
+  writing:1.26
+  times:1.26
+  offers:1.26
+  renders:1.26
+  basin:1.26
+
+K: 5, Log-Likelihood: -957.148, Alpha: 11.000, Beta: 1.100

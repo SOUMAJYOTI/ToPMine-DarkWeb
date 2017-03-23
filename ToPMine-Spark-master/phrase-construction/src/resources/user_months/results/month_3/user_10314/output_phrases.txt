@@ -1,0 +1,61 @@
+Topic 0:
+  message offer free vendor:4.88
+  site open:4.88
+  scam change colours bit:4.08
+  dude:3.87
+  late:3.87
+  party:3.87
+  february ami:3.87
+  psychonaut:3.87
+  stringerbell:3.64
+  pmwtf:3.63
+
+Topic 1:
+  vendor:5.99
+  register vendor:4.82
+  message:3.93
+  apply:3.93
+  positive:3.93
+  feedback:3.93
+  access:3.87
+  transactions:2.38
+  dollars:2.38
+  message bmr:2.38
+
+Topic 2:
+  town:3.92
+  opened:3.92
+  eager:3.92
+  year market:3.92
+  ghost:3.92
+  popping:3.92
+  places:3.92
+  gamesome:3.92
+  year:3.92
+  feel:3.37
+
+Topic 3:
+  market:6.15
+  vendors:4.29
+  sheep:3.78
+  sr community ill:2.47
+  unhealthy idea dedicated invest:2.47
+  wary:2.44
+  smp:2.37
+  marketplace scam:2.37
+  identical:2.37
+  scam site:2.37
+
+Topic 4:
+  markets:7.29
+  bmr:7.04
+  people:4.85
+  bmr mods alive dead:3.60
+  check:3.54
+  link:3.35
+  unhealthy idea dedicated invest:2.53
+  sr community ill:2.53
+  selling:2.41
+  friend:2.41
+
+K: 5, Log-Likelihood: -3112.014, Alpha: 11.000, Beta: 1.100

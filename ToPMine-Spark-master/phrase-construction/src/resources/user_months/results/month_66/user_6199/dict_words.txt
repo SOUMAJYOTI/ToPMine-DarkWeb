@@ -1,0 +1,22 @@
+wait,0,2
+dec,1,4
+unacceptable,2,2
+coins dec,3,2
+coins,4,4
+buy,5,2
+impressed,6,2
+check,7,2
+troubles,8,2
+posting,9,2
+people,10,2
+long,11,2
+wondering,12,2
+tells,13,2
+coinbase,14,2
+gocelery,15,2
+today,16,2
+absolutely,17,2
+things,18,2
+placement,19,2
+order,20,2
+refund,21,2

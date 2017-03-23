@@ -1,0 +1,61 @@
+Topic 0:
+  jos:3.15
+  ei:2.77
+  pystyss:2.16
+  juuri:1.81
+  ja:1.59
+  toivotaan:1.49
+  vaan:1.47
+  btc:1.45
+  ett:1.13
+  silkkitie:0.95
+
+Topic 1:
+  ja:9.03
+  fe:7.73
+  oli:5.43
+  kun:4.64
+  rahat:4.17
+  miten:3.90
+  toki:3.88
+  aiheesta:3.20
+  kaikki:3.04
+  varmaan:2.88
+
+Topic 2:
+  ja:6.03
+  nain:3.46
+  kaikki:3.41
+  ei:3.09
+  tied:2.91
+  mik:2.91
+  itse:2.91
+  kyll:2.52
+  jo:2.46
+  ett:2.40
+
+Topic 3:
+  siell:2.66
+  se:1.87
+  joskus:1.87
+  kapteeni:1.81
+  ll:1.60
+  ett:1.57
+  iv:1.56
+  tulossa:1.56
+  jotain:1.54
+  silkkitien:1.52
+
+Topic 4:
+  ja:9.62
+  kaikki:2.36
+  ll:2.35
+  ei:1.88
+  iv:1.37
+  hyv:1.30
+  kyll:1.00
+  mutta:0.84
+  ett:0.84
+  jo:0.80
+
+K: 5, Log-Likelihood: -3600.081, Alpha: 11.000, Beta: 1.100

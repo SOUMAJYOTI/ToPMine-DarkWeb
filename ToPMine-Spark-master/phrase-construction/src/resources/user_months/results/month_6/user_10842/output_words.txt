@@ -1,0 +1,61 @@
+Topic 0:
+  vendors:0.59
+  ultracoins:0.40
+  takes:0.39
+  coins:0.39
+  subject:0.20
+  aware:0.20
+  thirds:0.20
+  tiny:0.20
+  pool:0.20
+  ultracoin:0.20
+
+Topic 1:
+  vendors:0.61
+  coins:0.43
+  takes:0.41
+  ultracoins:0.40
+  good:0.21
+  seconds:0.21
+  confirmed:0.21
+  fully:0.21
+  reason:0.21
+  fastest:0.21
+
+Topic 2:
+  vendors:0.60
+  ultracoins:0.40
+  takes:0.39
+  coins:0.38
+  earlier:0.21
+  dough:0.21
+  marketplaces:0.21
+  dont:0.21
+  wrong:0.21
+  funds:0.21
+
+Topic 3:
+  vendors:0.59
+  takes:0.40
+  ultracoins:0.40
+  coins:0.40
+  fanatic:0.20
+  occasional:0.20
+  ltc:0.20
+  pool:0.20
+  fluctuations:0.20
+  order:0.20
+
+Topic 4:
+  vendors:0.60
+  coins:0.41
+  takes:0.40
+  ultracoins:0.40
+  accept:0.20
+  fastest:0.20
+  supposed:0.20
+  reason:0.20
+  start:0.20
+  thought:0.20
+
+K: 5, Log-Likelihood: -193.217, Alpha: 11.000, Beta: 1.100

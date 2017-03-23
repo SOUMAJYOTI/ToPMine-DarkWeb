@@ -1,0 +1,61 @@
+Topic 0:
+  tails:5.65
+  pgp:4.83
+  tbb:3.61
+  privnote:2.94
+  dont:2.27
+  javascript:1.66
+  change:1.66
+  enabled:1.66
+  default:1.65
+  compromised:1.50
+
+Topic 1:
+  pgp:6.99
+  dont:2.39
+  compromised:2.31
+  criminal:1.93
+  le:1.87
+  confirmed:1.82
+  jules:1.81
+  winnfield:1.79
+  crime:1.59
+  enforcement:1.59
+
+Topic 2:
+  privnote:13.13
+  telegram:5.50
+  messages:5.30
+  private:5.19
+  secure:4.46
+  secret:4.42
+  mode:3.77
+  ordered:3.33
+  impossible:3.32
+  address:3.27
+
+Topic 3:
+  nsa:4.86
+  tor:4.66
+  dont:4.54
+  pgp:3.68
+  intel:2.94
+  cracked:2.94
+  public:2.94
+  doubt:2.72
+  power:1.94
+  xyz:1.94
+
+Topic 4:
+  nsa:7.63
+  snowden:6.60
+  criminals:5.85
+  games:5.85
+  quote:5.61
+  pgp:5.54
+  software:4.63
+  difficulty:4.51
+  backdoored:4.38
+  march:4.35
+
+K: 5, Log-Likelihood: -3811.850, Alpha: 11.000, Beta: 1.100

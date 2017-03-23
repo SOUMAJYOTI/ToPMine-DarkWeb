@@ -1,0 +1,61 @@
+Topic 0:
+  server:2.41
+  online:1.45
+  servers:1.44
+  bitcoinfog:0.74
+  issues:0.71
+  site:0.69
+  sr:0.58
+  comission:0.58
+  chests:0.58
+  firefox:0.58
+
+Topic 1:
+  file:0.75
+  site:0.69
+  agora:0.66
+  bitcoinfog:0.65
+  error:0.63
+  forums:0.45
+  fog:0.44
+  attempt:0.43
+  plate:0.42
+  didnt:0.42
+
+Topic 2:
+  file:1.03
+  error:0.72
+  bitcoinfog:0.63
+  site:0.58
+  agora:0.56
+  secure:0.51
+  stable:0.49
+  quote:0.49
+  fixed:0.48
+  didnt:0.48
+
+Topic 3:
+  file:0.99
+  agora:0.73
+  error:0.71
+  site:0.54
+  bitcoinfog:0.53
+  stable:0.51
+  secure:0.51
+  quote:0.50
+  attempt:0.49
+  bitcoin:0.49
+
+Topic 4:
+  file:1.00
+  agora:0.87
+  error:0.74
+  fog:0.53
+  bitcoin:0.52
+  site:0.51
+  attempt:0.50
+  forums:0.48
+  quote:0.48
+  stable:0.48
+
+K: 5, Log-Likelihood: -543.254, Alpha: 11.000, Beta: 1.100

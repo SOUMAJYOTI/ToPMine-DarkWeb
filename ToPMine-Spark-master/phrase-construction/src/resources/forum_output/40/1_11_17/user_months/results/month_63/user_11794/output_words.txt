@@ -1,0 +1,61 @@
+Topic 0:
+  scripts:1.37
+  dont:1.34
+  social:1.06
+  media:1.04
+  hear:1.04
+  reddit:0.82
+  js:0.82
+  quote:0.79
+  december:0.78
+  code:0.77
+
+Topic 1:
+  reddit:2.19
+  code:2.04
+  js:2.03
+  hear:1.02
+  dont:1.01
+  scripts:0.99
+  existing:0.86
+  clone:0.85
+  brain:0.85
+  making:0.85
+
+Topic 2:
+  work:1.48
+  improved:1.21
+  hard:1.20
+  teammates:1.20
+  anonymity:1.18
+  financial:1.17
+  quote:1.17
+  providing:1.16
+  respect:1.15
+  humankind:1.14
+
+Topic 3:
+  dash:5.83
+  hidden:1.98
+  tor:1.86
+  wiki:1.57
+  thread:1.57
+  updates:1.56
+  reddit:1.08
+  works:1.07
+  media:1.06
+  social:1.02
+
+Topic 4:
+  work:1.14
+  december:1.14
+  quote:1.07
+  humankind:0.91
+  providing:0.91
+  respect:0.89
+  financial:0.87
+  anonymity:0.87
+  improved:0.85
+  teammates:0.85
+
+K: 5, Log-Likelihood: -1004.593, Alpha: 11.000, Beta: 1.100

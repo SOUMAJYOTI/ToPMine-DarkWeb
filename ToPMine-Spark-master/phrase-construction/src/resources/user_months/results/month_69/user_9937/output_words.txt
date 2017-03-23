@@ -1,0 +1,61 @@
+Topic 0:
+  mix:3.70
+  concentrates:3.65
+  extract:2.87
+  juice:2.74
+  ratio:2.06
+  love:2.04
+  type:2.00
+  thick:1.99
+  needed:1.97
+  thickness:1.26
+
+Topic 1:
+  juice:1.93
+  concentrate:1.79
+  tea:1.63
+  add:1.51
+  orange:1.22
+  simmer:0.99
+  people:0.87
+  making:0.81
+  minutes:0.75
+  lemon:0.73
+
+Topic 2:
+  juice:3.21
+  concentrates:1.08
+  mix:1.04
+  good:0.98
+  extract:0.87
+  needed:0.78
+  thick:0.76
+  type:0.75
+  great:0.73
+  love:0.71
+
+Topic 3:
+  tea:1.52
+  concentrate:1.37
+  juice:1.21
+  orange:1.15
+  simmer:1.15
+  add:1.02
+  people:0.75
+  strain:0.74
+  making:0.71
+  minutes:0.70
+
+Topic 4:
+  juice:1.91
+  concentrate:1.14
+  add:0.78
+  great:0.75
+  tea:0.65
+  making:0.65
+  simmer:0.63
+  lemontek:0.61
+  orange:0.47
+  atomizer:0.43
+
+K: 5, Log-Likelihood: -926.657, Alpha: 11.000, Beta: 1.100

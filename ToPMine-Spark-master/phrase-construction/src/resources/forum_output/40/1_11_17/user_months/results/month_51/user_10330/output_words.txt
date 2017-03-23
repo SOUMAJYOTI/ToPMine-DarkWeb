@@ -1,0 +1,61 @@
+Topic 0:
+  tor:44.95
+  browser:31.92
+  bug:29.98
+  update:18.87
+  notice:14.98
+  tails:14.92
+  network:14.58
+  release:14.09
+  xxx:11.98
+  directory:10.98
+
+Topic 1:
+  zaphod:28.21
+  june:27.22
+  bomb:22.93
+  road:19.97
+  quote:19.09
+  pgp:15.88
+  countries:14.88
+  silk:13.97
+  server:13.51
+  records:13.13
+
+Topic 2:
+  foreign:27.20
+  rcs:15.99
+  access:15.69
+  dea:14.99
+  country:14.89
+  data:14.22
+  based:13.01
+  host:12.38
+  devices:10.51
+  people:7.59
+
+Topic 3:
+  law:45.77
+  enforcement:38.60
+  phone:35.24
+  call:25.64
+  time:24.30
+  location:22.95
+  cellar:22.92
+  base:20.57
+  phones:19.71
+  cdrs:18.00
+
+Topic 4:
+  software:59.12
+  vodafone:28.05
+  phone:23.74
+  network:21.28
+  rogue:20.99
+  system:20.66
+  athens:17.99
+  data:17.64
+  code:17.19
+  greek:16.94
+
+K: 5, Log-Likelihood: -52177.604, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  forums:3.98
+  abraxas:3.56
+  check:2.28
+  forum:1.84
+  account:1.84
+  token:1.75
+  discussion:1.68
+  march:1.55
+  join:1.54
+  post:1.50
+
+Topic 1:
+  forums:3.77
+  abraxas:3.62
+  token:1.85
+  check:1.82
+  account:1.68
+  join:1.65
+  post:1.57
+  discussion:1.56
+  forum:1.55
+  march:1.39
+
+Topic 2:
+  forums:5.14
+  abraxas:3.61
+  check:2.33
+  token:1.54
+  join:1.53
+  referred:1.49
+  account:1.44
+  forum:1.42
+  post:1.42
+  discussion:1.36
+
+Topic 3:
+  abraxas:4.12
+  forums:3.66
+  token:2.07
+  check:2.03
+  discussion:1.77
+  forum:1.64
+  join:1.60
+  account:1.44
+  referred:1.43
+  march:1.31
+
+Topic 4:
+  abraxas:4.09
+  check:2.53
+  forums:2.45
+  token:1.79
+  join:1.68
+  discussion:1.63
+  account:1.59
+  forum:1.54
+  march:1.49
+  market:1.34
+
+K: 5, Log-Likelihood: -868.053, Alpha: 11.000, Beta: 1.100

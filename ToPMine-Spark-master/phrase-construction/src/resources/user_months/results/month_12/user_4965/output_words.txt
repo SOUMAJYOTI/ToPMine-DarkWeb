@@ -1,0 +1,61 @@
+Topic 0:
+  message:3.00
+  long:1.79
+  text:1.37
+  encrypt:1.22
+  odt:0.88
+  write:0.75
+  open:0.69
+  encrusted:0.62
+  post:0.49
+  public:0.49
+
+Topic 1:
+  message:2.23
+  text:1.56
+  long:1.27
+  odt:1.07
+  encrypt:0.94
+  open:0.82
+  write:0.64
+  encrusted:0.59
+  problem:0.43
+  read:0.43
+
+Topic 2:
+  message:2.20
+  text:1.34
+  long:1.20
+  encrypt:1.10
+  odt:0.90
+  open:0.79
+  encrusted:0.65
+  write:0.63
+  grateful:0.42
+  forum:0.42
+
+Topic 3:
+  message:2.36
+  text:1.73
+  long:1.22
+  odt:1.15
+  encrypt:1.06
+  open:0.75
+  write:0.66
+  encrusted:0.58
+  encrypted:0.43
+  key:0.43
+
+Topic 4:
+  message:1.22
+  text:1.00
+  odt:0.99
+  open:0.95
+  hope:0.82
+  included:0.78
+  paste:0.78
+  clipboard:0.78
+  press:0.77
+  copy:0.77
+
+K: 5, Log-Likelihood: -549.432, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  disappeared:3.52
+  dont agra:3.52
+  message forum:3.52
+  days:3.51
+  cp:2.98
+  reason:2.53
+  quote:2.20
+  worried:2.15
+  post:2.15
+  trolling:2.15
+
+Topic 1:
+  message:5.30
+  posted:4.54
+  week:4.54
+  hope:4.10
+  update:3.48
+  posting:3.16
+  additional:2.24
+  message site:2.24
+  sight:2.24
+  single:2.24
+
+Topic 2:
+  thread:2.25
+  opened:2.21
+  trolly:2.21
+  hear:2.21
+  quick:2.21
+  aint:2.21
+  prolly:2.21
+  reddit:2.21
+  clu:2.21
+  mouth:2.21
+
+Topic 3:
+  working:6.96
+  sr:5.06
+  prevents cluster fuck aye:3.43
+  fed:3.34
+  trc:3.27
+  news hours ago agora:3.27
+  running smooth silk management:3.26
+  isnt:3.25
+  amin:3.23
+  style news good news:3.21
+
+Topic 4:
+  reason doubt:5.45
+  business:4.52
+  weeks:4.01
+  fucking:3.90
+  doubt:3.44
+  thing:2.22
+  sig:2.22
+  escrow:2.22
+  markets:2.22
+  fuckers:2.22
+
+K: 5, Log-Likelihood: -1854.626, Alpha: 11.000, Beta: 1.100

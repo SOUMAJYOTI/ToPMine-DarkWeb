@@ -1,0 +1,61 @@
+Topic 0:
+  people:0.65
+  scam:0.60
+  bmr:0.36
+  post:0.33
+  torshops:0.32
+  site:0.32
+  paid:0.32
+  day:0.32
+  vendor:0.30
+  thread:0.30
+
+Topic 1:
+  forum:1.00
+  lost:1.00
+  store:0.75
+  isnt:0.53
+  hosted:0.53
+  free:0.53
+  sucks:0.53
+  snapbbs:0.53
+  setup:0.53
+  tor:0.53
+
+Topic 2:
+  torshops:2.60
+  post:2.59
+  people:1.87
+  includes:1.59
+  accounts:1.57
+  dedicated:1.57
+  massive:1.56
+  scam:1.36
+  spacyschiz:0.64
+  drug:0.64
+
+Topic 3:
+  store:0.64
+  lost:0.52
+  forum:0.51
+  tor:0.37
+  website:0.37
+  snapbbs:0.37
+  freedomhosting:0.37
+  sucks:0.37
+  setup:0.37
+  hosted:0.37
+
+Topic 4:
+  store:0.48
+  people:0.45
+  scam:0.43
+  day:0.33
+  paid:0.33
+  site:0.33
+  bmr:0.32
+  lost:0.28
+  forum:0.28
+  dont:0.28
+
+K: 5, Log-Likelihood: -745.583, Alpha: 11.000, Beta: 1.100

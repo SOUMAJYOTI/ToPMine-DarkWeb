@@ -1,0 +1,61 @@
+Topic 0:
+  february:6.88
+  quote:5.17
+  evolution:5.07
+  scammers:2.72
+  allowed:2.57
+  bit:2.57
+  banned:2.55
+  verto:2.48
+  lol:2.41
+  pissed:2.11
+
+Topic 1:
+  people:14.74
+  feel:6.50
+  mods:5.73
+  site:4.82
+  users:4.71
+  admins:4.01
+  forum:3.68
+  market:3.37
+  acquainted:2.63
+  friends:2.63
+
+Topic 2:
+  tcf:9.77
+  banned:8.32
+  february:8.16
+  scammers:8.16
+  allowed:6.11
+  evolution:5.64
+  quote:5.13
+  people:4.61
+  warnings:3.96
+  cooked:3.93
+
+Topic 3:
+  agora:6.89
+  time:5.61
+  day:5.27
+  sr:5.20
+  vibe:4.95
+  evolution:4.08
+  frustration:3.86
+  remember:3.67
+  happening:3.16
+  support:3.16
+
+Topic 4:
+  marketplace:13.53
+  srf:11.95
+  community:9.63
+  people:9.25
+  vibe:8.56
+  dpr:8.19
+  user:6.68
+  administration:6.64
+  suddenly:5.95
+  result:5.95
+
+K: 5, Log-Likelihood: -6537.092, Alpha: 11.000, Beta: 1.100

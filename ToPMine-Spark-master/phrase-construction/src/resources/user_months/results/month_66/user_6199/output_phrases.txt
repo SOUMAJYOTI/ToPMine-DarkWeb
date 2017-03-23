@@ -1,0 +1,61 @@
+Topic 0:
+  wait:0.00
+  dec:0.00
+  unacceptable:0.00
+  coins dec:0.00
+  coins:0.00
+  buy:0.00
+  impressed:0.00
+  check:0.00
+  troubles:0.00
+  posting:0.00
+
+Topic 1:
+  wait:0.00
+  dec:0.00
+  unacceptable:0.00
+  coins dec:0.00
+  coins:0.00
+  buy:0.00
+  impressed:0.00
+  check:0.00
+  troubles:0.00
+  posting:0.00
+
+Topic 2:
+  wait:0.00
+  dec:0.00
+  unacceptable:0.00
+  coins dec:0.00
+  coins:0.00
+  buy:0.00
+  impressed:0.00
+  check:0.00
+  troubles:0.00
+  posting:0.00
+
+Topic 3:
+  wait:0.00
+  dec:0.00
+  unacceptable:0.00
+  coins dec:0.00
+  coins:0.00
+  buy:0.00
+  impressed:0.00
+  check:0.00
+  troubles:0.00
+  posting:0.00
+
+Topic 4:
+  wait:0.00
+  dec:0.00
+  unacceptable:0.00
+  coins dec:0.00
+  coins:0.00
+  buy:0.00
+  impressed:0.00
+  check:0.00
+  troubles:0.00
+  posting:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

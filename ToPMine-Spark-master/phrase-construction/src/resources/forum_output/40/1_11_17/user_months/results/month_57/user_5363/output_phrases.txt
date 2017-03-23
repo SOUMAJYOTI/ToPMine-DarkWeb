@@ -1,0 +1,61 @@
+Topic 0:
+  werner:1.85
+  replace:1.09
+  releases:1.04
+  version:1.03
+  program:1.01
+  quote brahman july:0.90
+  gnupg:0.71
+  messages:0.70
+  snug:0.69
+  reccommend:0.67
+
+Topic 1:
+  zaphod:1.30
+  quote brahman july:0.78
+  happilly:0.73
+  applet:0.73
+  reassuring:0.73
+  knowledgable:0.73
+  security:0.73
+  top:0.73
+  bit:0.73
+  reccommend program:0.73
+
+Topic 2:
+  version:0.73
+  program:0.70
+  quote brahman july:0.62
+  gnupg:0.51
+  snug:0.50
+  reccommend:0.49
+  messages:0.49
+  gpg usb:0.46
+  tails:0.41
+  latest:0.35
+
+Topic 3:
+  program:1.00
+  version:0.93
+  quote brahman july:0.61
+  reccommend:0.60
+  snug:0.60
+  messages:0.59
+  gnupg:0.58
+  gpg usb:0.52
+  werner:0.44
+  tails:0.44
+
+Topic 4:
+  version:1.23
+  program:1.20
+  reccommend:0.81
+  messages:0.80
+  snug:0.79
+  gnupg:0.78
+  gpg usb:0.61
+  quote brahman july:0.55
+  werner:0.54
+  latest:0.52
+
+K: 5, Log-Likelihood: -907.573, Alpha: 11.000, Beta: 1.100

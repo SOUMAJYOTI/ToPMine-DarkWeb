@@ -1,0 +1,61 @@
+Topic 0:
+  link:1.94
+  market:1.81
+  links:1.42
+  pirate:1.29
+  legitimate:0.91
+  careful:0.83
+  check:0.82
+  hub:0.81
+  learn:0.75
+  paying:0.74
+
+Topic 1:
+  link:2.30
+  market:2.16
+  btc:1.08
+  silkroad:1.04
+  guys:0.72
+  fucked:0.72
+  sr:0.70
+  money:0.62
+  agora:0.61
+  pirate:0.47
+
+Topic 2:
+  btc:3.09
+  link:2.59
+  guys:1.65
+  fucked:1.60
+  silkroad:1.50
+  market:1.17
+  money:0.76
+  hidden:0.69
+  warning:0.69
+  read:0.69
+
+Topic 3:
+  link:1.98
+  market:1.62
+  agora:0.92
+  links:0.91
+  pirate:0.78
+  legitimate:0.63
+  attention:0.62
+  learn:0.61
+  paying:0.61
+  hub:0.59
+
+Topic 4:
+  btc:3.28
+  market:2.25
+  link:2.19
+  silkroad:1.69
+  fucked:1.25
+  guys:1.21
+  sr:0.87
+  money:0.66
+  onion:0.63
+  knew:0.62
+
+K: 5, Log-Likelihood: -922.632, Alpha: 11.000, Beta: 1.100

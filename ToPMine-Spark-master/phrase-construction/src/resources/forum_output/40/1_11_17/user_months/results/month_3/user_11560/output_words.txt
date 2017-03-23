@@ -1,0 +1,61 @@
+Topic 0:
+  pandora:4.13
+  site:1.29
+  btc:1.23
+  vendor:1.14
+  vendors:0.96
+  market:0.73
+  yesterday:0.73
+  problems:0.70
+  order:0.68
+  purchases:0.66
+
+Topic 1:
+  pandora:3.00
+  btc:1.40
+  market:1.38
+  pretty:1.37
+  withdraws:1.33
+  instant:1.33
+  site:1.33
+  vendors:1.18
+  withdraw:1.01
+  vendor:0.93
+
+Topic 2:
+  pandora:3.29
+  markets:1.53
+  site:1.19
+  vendors:0.85
+  quote:0.83
+  vendor:0.82
+  escrow:0.82
+  january:0.81
+  time:0.79
+  bought:0.70
+
+Topic 3:
+  pandora:3.55
+  vendor:1.31
+  vendors:1.17
+  site:1.06
+  btc:1.05
+  market:0.86
+  purchases:0.74
+  markets:0.73
+  yesterday:0.72
+  order:0.71
+
+Topic 4:
+  pandora:3.03
+  markets:1.56
+  site:1.13
+  january:0.94
+  quote:0.92
+  vendors:0.84
+  vendor:0.81
+  escrow:0.80
+  bought:0.79
+  time:0.75
+
+K: 5, Log-Likelihood: -1704.661, Alpha: 11.000, Beta: 1.100

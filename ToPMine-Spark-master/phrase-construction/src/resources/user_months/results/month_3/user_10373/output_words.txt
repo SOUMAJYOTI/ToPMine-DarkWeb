@@ -1,0 +1,61 @@
+Topic 0:
+  agora:3.94
+  hours:2.20
+  list:1.83
+  whyusheep:1.64
+  sheep:1.49
+  dont:1.39
+  vendors:1.31
+  agra:1.19
+  bitcoinfog:0.99
+  ago:0.96
+
+Topic 1:
+  agora:4.24
+  list:1.90
+  whyusheep:1.54
+  dont:1.35
+  agra:1.25
+  hours:1.22
+  quote:1.11
+  vendors:1.03
+  isnt:0.95
+  reddit:0.94
+
+Topic 2:
+  attack:2.15
+  agora:1.80
+  dont:1.62
+  day:1.61
+  traffic:1.10
+  fog:0.86
+  issues:0.86
+  quote:0.84
+  ddos:0.80
+  days:0.78
+
+Topic 3:
+  attack:3.64
+  time:1.70
+  missing:1.70
+  server:1.70
+  dont:1.49
+  issue:1.21
+  day:1.08
+  traffic:0.97
+  agora:0.88
+  existed:0.75
+
+Topic 4:
+  agora:4.15
+  hours:3.28
+  list:1.94
+  sheep:1.60
+  whyusheep:1.46
+  vendors:1.40
+  dont:1.15
+  addresses:1.10
+  agra:1.02
+  ago:0.99
+
+K: 5, Log-Likelihood: -1689.174, Alpha: 11.000, Beta: 1.100

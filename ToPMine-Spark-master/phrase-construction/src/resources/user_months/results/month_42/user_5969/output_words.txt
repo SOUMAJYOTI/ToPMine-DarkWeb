@@ -1,0 +1,61 @@
+Topic 0:
+  dogecoin:0.41
+  peercoin:0.40
+  starting:0.40
+  litecoin:0.40
+  dashcoin:0.40
+  needed:0.40
+  mining:0.40
+  transactions:0.40
+  service:0.40
+  feathercoin:0.40
+
+Topic 1:
+  blackcoin:0.40
+  reddcoin:0.40
+  fees:0.40
+  charging:0.40
+  nubits:0.40
+  peercoin:0.40
+  dashcoin:0.40
+  dogecoin:0.40
+  feathercoin:0.40
+  litecoin:0.40
+
+Topic 2:
+  transactions:0.40
+  starting:0.40
+  transaction:0.40
+  mining:0.40
+  charging:0.40
+  nubits:0.40
+  reddcoin:0.40
+  dogecoin:0.40
+  feathercoin:0.40
+  clean:0.40
+
+Topic 3:
+  service:0.41
+  blackcoin:0.40
+  nubits:0.40
+  transaction:0.40
+  reddcoin:0.40
+  exchanging:0.40
+  feathercoin:0.40
+  clean:0.40
+  peercoin:0.40
+  needed:0.40
+
+Topic 4:
+  fees:0.41
+  clean:0.40
+  transactions:0.40
+  needed:0.40
+  mining:0.40
+  litecoin:0.40
+  exchanging:0.40
+  charging:0.40
+  transaction:0.40
+  dashcoin:0.40
+
+K: 5, Log-Likelihood: -141.664, Alpha: 11.000, Beta: 1.100

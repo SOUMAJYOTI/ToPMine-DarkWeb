@@ -1,0 +1,61 @@
+Topic 0:
+  downtime:2.06
+  vendor:1.52
+  people:1.51
+  great:1.51
+  good market:1.51
+  whatsoever:1.50
+  fuck:1.50
+  big:1.49
+  smooth:1.49
+  alpha:1.49
+
+Topic 1:
+  location:0.93
+  dnm:0.93
+  running:0.93
+  blackbank:0.92
+  shocked:0.92
+  started:0.92
+  quote:0.84
+  market:0.82
+  downtime:0.81
+  eve:0.79
+
+Topic 2:
+  market:2.71
+  marketplace:1.47
+  year:1.47
+  promising:1.47
+  coming:1.47
+  worth:1.47
+  solid:1.47
+  clad:1.47
+  funny:1.47
+  lol:1.47
+
+Topic 3:
+  downtime:2.21
+  marketplace runs:0.99
+  fucking:0.98
+  orders:0.98
+  crew:0.98
+  bay:0.98
+  dont:0.98
+  auto:0.97
+  flocking:0.97
+  agora:0.97
+
+Topic 4:
+  ironclad:1.62
+  iirc:1.61
+  built:1.54
+  middleearth:1.54
+  pandora:1.54
+  middleearth middleearth:1.54
+  ag:1.54
+  nuk:1.54
+  flashy:1.54
+  agree:1.54
+
+K: 5, Log-Likelihood: -1048.669, Alpha: 11.000, Beta: 1.100

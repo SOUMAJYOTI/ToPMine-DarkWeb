@@ -1,0 +1,61 @@
+Topic 0:
+  library:1.77
+  archive:1.25
+  chan:1.18
+  wiki:1.12
+  tor:0.87
+  slavic:0.85
+  sky:0.84
+  mystery:0.84
+  directory:0.84
+  confessions:0.83
+
+Topic 1:
+  library:1.25
+  wiki:1.12
+  archive:1.12
+  chan:1.09
+  dark:1.03
+  torflix:0.80
+  hidden:0.78
+  finish:0.75
+  anonymous:0.75
+  sky:0.74
+
+Topic 2:
+  library:2.07
+  chan:1.38
+  archive:1.22
+  wiki:1.14
+  tor:0.88
+  anonymous:0.87
+  massive:0.87
+  news:0.85
+  mystery:0.84
+  sky:0.84
+
+Topic 3:
+  archive:1.20
+  wiki:1.18
+  library:1.18
+  chan:1.14
+  finish:0.84
+  dark:0.84
+  slavic:0.83
+  mystery:0.83
+  strange:0.83
+  confessions:0.82
+
+Topic 4:
+  library:1.72
+  wiki:1.43
+  archive:1.21
+  chan:1.21
+  news:0.92
+  directory:0.86
+  confessions:0.85
+  finish:0.83
+  strange:0.83
+  hidden:0.82
+
+K: 5, Log-Likelihood: -1314.544, Alpha: 11.000, Beta: 1.100

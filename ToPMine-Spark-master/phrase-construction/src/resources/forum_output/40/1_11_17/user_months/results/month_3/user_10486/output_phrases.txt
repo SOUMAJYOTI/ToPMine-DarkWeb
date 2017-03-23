@@ -1,0 +1,61 @@
+Topic 0:
+  ar:1.72
+  hzr:1.70
+  public key block:1.60
+  eo:1.18
+  ix:0.71
+  fcpj:0.71
+  lmfqipjovsqp:0.71
+  fmzs:0.71
+  lucy:0.71
+  aft:0.71
+
+Topic 1:
+  public key block:0.65
+  hzr:0.61
+  ar:0.59
+  eo:0.50
+  egav:0.37
+  rmcd:0.37
+  jalb:0.37
+  phjhwilx:0.37
+  lcquuy:0.37
+  vjn:0.37
+
+Topic 2:
+  ar:0.72
+  public key block:0.72
+  hzr:0.71
+  eo:0.54
+  mqenbfjncv:0.41
+  qrg:0.41
+  haugaomign:0.41
+  bcacdo:0.41
+  dryxoi:0.41
+  cs:0.41
+
+Topic 3:
+  len:3.61
+  file:3.61
+  gog:1.78
+  txt:1.78
+  list:1.78
+  packets:1.78
+  amnesia:1.78
+  submit:1.78
+  digest digest:1.78
+  sigclass:1.78
+
+Topic 4:
+  public key block:0.68
+  hzr:0.63
+  ar:0.62
+  eo:0.51
+  veqvuua:0.37
+  oksvmh:0.37
+  klshhqzyxnm:0.37
+  kz:0.37
+  jalb:0.37
+  hvqdhmx:0.37
+
+K: 5, Log-Likelihood: -2914.080, Alpha: 11.000, Beta: 1.100

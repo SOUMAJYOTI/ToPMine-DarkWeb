@@ -1,0 +1,61 @@
+Topic 0:
+  weed:0.32
+  oz:0.16
+  lb:0.16
+  qp:0.16
+  money:0.08
+  problemssample:0.08
+  hindu:0.08
+  listings:0.08
+  kush:0.08
+  escrow:0.08
+
+Topic 1:
+  weed:0.32
+  oz:0.16
+  lb:0.16
+  qp:0.16
+  hindu:0.08
+  money:0.08
+  kush:0.08
+  problemssample:0.08
+  escrow:0.08
+  listings:0.08
+
+Topic 2:
+  weed:0.33
+  qp:0.16
+  lb:0.16
+  oz:0.16
+  includedsample:0.08
+  darkmatter:0.08
+  anytime:0.08
+  info:0.08
+  hp:0.08
+  questionsshipping:0.08
+
+Topic 3:
+  weed:0.33
+  lb:0.16
+  qp:0.16
+  oz:0.16
+  aaaa:0.08
+  fast:0.08
+  recommended:0.08
+  amateurs:0.08
+  pagefecontact:0.08
+  lemonshot:0.08
+
+Topic 4:
+  weed:0.32
+  qp:0.16
+  lb:0.16
+  oz:0.16
+  escrow:0.08
+  kush:0.08
+  money:0.08
+  hindu:0.08
+  listings:0.08
+  problemssample:0.08
+
+K: 5, Log-Likelihood: -50.467, Alpha: 11.000, Beta: 1.100

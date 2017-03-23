@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:2.94
+  public:2.50
+  key:1.83
+  import:0.56
+  dr:0.55
+  bn:0.51
+  jo:0.50
+  bj:0.48
+  block:0.47
+  quote:0.46
+
+Topic 1:
+  jo:2.26
+  block:2.20
+  bn:2.10
+  dr:2.06
+  bj:1.98
+  pgp:1.13
+  public:0.97
+  voytwyipa:0.97
+  xf:0.97
+  sfm:0.97
+
+Topic 2:
+  pgp:1.73
+  bj:1.50
+  dr:1.36
+  bn:1.36
+  block:1.30
+  jo:1.20
+  public:1.20
+  qassdoglvrtnmdx:0.72
+  kxg:0.72
+  jfitcgjnntsi:0.72
+
+Topic 3:
+  keys:11.39
+  gpg:11.00
+  copy:7.93
+  november:7.19
+  import:6.78
+  work:6.56
+  usb:6.47
+  paste:5.65
+  pgp:4.82
+  win:4.73
+
+Topic 4:
+  key:19.33
+  import:7.36
+  public:6.52
+  digitaldong:5.72
+  profile:5.47
+  november:5.12
+  quote:5.10
+  issues:5.09
+  hub:4.04
+  post:3.86
+
+K: 5, Log-Likelihood: -5919.226, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  facebook dw:2.27
+  tor secured:1.31
+  amthank:1.31
+  trolly:1.30
+  facebook google hands:1.30
+  wonderful article angel eyes:1.19
+  cool gov workers helping:1.15
+  tor project undermining hope:1.13
+  breakfast:1.06
+  massive corporation:1.06
+
+Topic 1:
+  tor:8.65
+  nsa:4.19
+  flaws:2.73
+  lean:2.73
+  warning:2.72
+  users:2.72
+  amount:1.28
+  dont:1.28
+  suggests:1.28
+  hours:1.28
+
+Topic 2:
+  things:0.60
+  google hands tor secured:0.39
+  massive corporation facebook:0.39
+  inline images cool:0.35
+  head:0.32
+  forums:0.32
+  clearweb:0.32
+  hope:0.32
+  humanity:0.32
+  ta:0.32
+
+Topic 3:
+  suprised:0.86
+  havent:0.85
+  manner:0.84
+  timely:0.84
+  fact:0.83
+  kahoots:0.83
+  proof:0.83
+  sr:0.82
+  aminline:0.82
+  implement:0.82
+
+Topic 4:
+  double dog dare ya:1.02
+  max prove wrong:0.95
+  alfred enable inline images:0.95
+  implement:0.94
+  sr:0.93
+  claimed:0.93
+  hub isnt happen lol:0.93
+  aminline:0.93
+  guess expect messages hour:0.93
+  proof:0.93
+
+K: 5, Log-Likelihood: -1119.753, Alpha: 11.000, Beta: 1.100

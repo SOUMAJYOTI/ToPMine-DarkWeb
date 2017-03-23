@@ -1,0 +1,23 @@
+indica,0,1
+marketplace,1,1
+sativa,2,1
+spamming,3,1
+gram,4,4
+link,5,1
+verified,6,1
+goods,7,1
+captain,8,1
+horrid,9,1
+jack,10,1
+point,11,1
+verge,12,1
+cartridge,13,4
+hub,14,1
+eve,15,1
+vendor,16,1
+busy,17,1
+cartridge gram,18,4
+advertise,19,1
+open,20,2
+autocancellation,21,1
+order,22,1

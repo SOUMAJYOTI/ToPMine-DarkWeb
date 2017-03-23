@@ -1,0 +1,61 @@
+Topic 0:
+  exit:1.15
+  encrypted:1.04
+  proxy:0.99
+  tor:0.98
+  ssl:0.98
+  mac:0.97
+  good:0.86
+  node:0.85
+  network:0.70
+  requests:0.70
+
+Topic 1:
+  exit:1.42
+  encrypted:1.07
+  good:0.84
+  node:0.84
+  stuff:0.74
+  link:0.69
+  nodes:0.62
+  tor:0.57
+  proxy:0.57
+  mac:0.56
+
+Topic 2:
+  exit:1.36
+  encrypted:1.10
+  node:0.85
+  good:0.83
+  mac:0.75
+  ssl:0.74
+  tor:0.74
+  proxy:0.73
+  nodes:0.54
+  stuff:0.52
+
+Topic 3:
+  link:1.69
+  stuff:1.57
+  exit:1.52
+  nodes:0.78
+  encrypted:0.76
+  september:0.69
+  catches:0.69
+  address:0.68
+  time:0.68
+  le:0.68
+
+Topic 4:
+  exit:1.55
+  encrypted:1.03
+  stuff:0.85
+  link:0.80
+  node:0.79
+  good:0.78
+  nodes:0.67
+  ssl:0.49
+  mac:0.49
+  tor:0.48
+
+K: 5, Log-Likelihood: -545.504, Alpha: 11.000, Beta: 1.100

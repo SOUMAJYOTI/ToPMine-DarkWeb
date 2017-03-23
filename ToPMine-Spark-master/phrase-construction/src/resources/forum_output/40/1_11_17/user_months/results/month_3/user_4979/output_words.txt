@@ -1,0 +1,61 @@
+Topic 0:
+  people:1.10
+  charity:1.08
+  quote:0.78
+  march:0.78
+  nice:0.78
+  sarcasm:0.76
+  pmafter:0.53
+  hypotheticalbananas:0.52
+  recognition:0.52
+  job:0.52
+
+Topic 1:
+  people:1.05
+  charity:0.99
+  march:0.81
+  nice:0.80
+  sarcasm:0.80
+  quote:0.79
+  ect:0.52
+  hypotheticalbananas:0.50
+  job:0.50
+  pmafter:0.49
+
+Topic 2:
+  recognition:1.58
+  ect:1.52
+  donate:1.49
+  hey:0.63
+  feel:0.62
+  future:0.62
+  worth:0.62
+  donations:0.62
+  post:0.62
+  chime:0.62
+
+Topic 3:
+  charity:1.10
+  people:1.02
+  sarcasm:0.85
+  quote:0.84
+  nice:0.83
+  march:0.82
+  pmafter:0.53
+  job:0.53
+  hypotheticalbananas:0.52
+  aint:0.51
+
+Topic 4:
+  donate:1.08
+  ect:0.99
+  recognition:0.95
+  charity:0.54
+  people:0.54
+  coins:0.49
+  donated:0.49
+  sending:0.49
+  planned:0.49
+  thought:0.49
+
+K: 5, Log-Likelihood: -405.730, Alpha: 11.000, Beta: 1.100

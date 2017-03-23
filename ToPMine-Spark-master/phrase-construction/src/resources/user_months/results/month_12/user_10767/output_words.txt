@@ -1,0 +1,61 @@
+Topic 0:
+  hidden:6.69
+  services:6.06
+  leo:3.95
+  companies:3.93
+  private:3.13
+  terms:2.96
+  search:2.96
+  disruption:2.96
+  dnm:2.96
+  access:2.93
+
+Topic 1:
+  secure:4.17
+  average:3.87
+  setup:3.78
+  control:2.95
+  hosting:2.92
+  bad:2.92
+  dont:2.54
+  hardware:2.54
+  content:2.24
+  site:2.24
+
+Topic 2:
+  tor:13.46
+  security:5.22
+  microsoft:4.96
+  browser:4.91
+  article:4.34
+  flash:4.19
+  party:3.79
+  version:3.07
+  completely:3.04
+  deepdotweb:2.96
+
+Topic 3:
+  machine:6.61
+  routing:5.31
+  computer:5.30
+  setup:5.14
+  gateway:4.96
+  box:4.88
+  network:4.22
+  protected:3.96
+  xen:3.94
+  guys:3.86
+
+Topic 4:
+  flash:13.15
+  tor:10.72
+  user:10.57
+  disabled:7.59
+  tools:7.54
+  article:7.38
+  enable:7.11
+  average:6.97
+  online:5.93
+  ons:4.97
+
+K: 5, Log-Likelihood: -4981.520, Alpha: 11.000, Beta: 1.100

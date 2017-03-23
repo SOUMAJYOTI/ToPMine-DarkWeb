@@ -1,0 +1,61 @@
+Topic 0:
+  congress:3.30
+  program:2.87
+  security:2.77
+  collection:2.55
+  national:2.27
+  bulk:2.01
+  panel:1.84
+  americans:1.77
+  court:1.71
+  members:1.61
+
+Topic 1:
+  congress:6.70
+  court:5.40
+  program:5.05
+  panel:3.85
+  collection:3.72
+  bulk:3.60
+  national:2.66
+  security:2.58
+  members:2.24
+  americans:2.22
+
+Topic 2:
+  bitchin:4.85
+  bob:3.84
+  agra:1.86
+  pay:1.86
+  prow:1.86
+  bouncing:1.86
+  nice:1.86
+  drugs:1.86
+  check:1.86
+  door:1.86
+
+Topic 3:
+  panel:2.29
+  program:2.04
+  congress:1.97
+  court:1.86
+  collection:1.70
+  security:1.57
+  bulk:1.36
+  members:1.12
+  national:1.04
+  americans:0.98
+
+Topic 4:
+  quote:5.13
+  zaphod:3.59
+  design:2.94
+  ssh:2.91
+  ssl:2.91
+  sigaint:2.91
+  pro:2.79
+  congenial:1.94
+  idiot:1.94
+  real:1.94
+
+K: 5, Log-Likelihood: -3228.271, Alpha: 11.000, Beta: 1.100

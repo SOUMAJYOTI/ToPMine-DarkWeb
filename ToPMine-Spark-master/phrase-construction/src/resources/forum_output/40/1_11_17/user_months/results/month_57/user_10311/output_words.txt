@@ -1,0 +1,61 @@
+Topic 0:
+  electrum:14.82
+  server:4.95
+  watching:3.95
+  addresses:3.95
+  servers:3.89
+  keys:2.98
+  tails:2.86
+  coins:2.86
+  wallet:2.84
+  transaction:2.15
+
+Topic 1:
+  key:8.46
+  quote:6.07
+  august:5.02
+  multisig:4.06
+  bip:3.76
+  big:3.30
+  public:3.29
+  keys:2.61
+  wallet:2.57
+  enigma:2.54
+
+Topic 2:
+  multisig:5.12
+  coins:4.23
+  blockchain:3.43
+  august:3.19
+  hours:2.91
+  quote:2.74
+  oxygen:2.67
+  looked:2.53
+  true:2.11
+  today:2.07
+
+Topic 3:
+  september:11.41
+  enigma:7.73
+  pmquote:6.62
+  quote:4.86
+  guys:4.44
+  advice:4.41
+  bit:4.16
+  minus:3.82
+  richard:3.81
+  spanish:3.81
+
+Topic 4:
+  bitcoin:16.56
+  barclays:13.85
+  banks:6.86
+  accept:5.57
+  bank:3.96
+  major:3.96
+  year:3.75
+  accepting:2.96
+  accounts:2.68
+  read:2.02
+
+K: 5, Log-Likelihood: -3938.932, Alpha: 11.000, Beta: 1.100

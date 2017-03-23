@@ -1,0 +1,61 @@
+Topic 0:
+  jebusite:0.40
+  time:0.20
+  trava:0.20
+  mate:0.20
+  ill:0.20
+  sr:0.20
+  nice:0.20
+  low:0.20
+  order:0.20
+  running:0.20
+
+Topic 1:
+  jebusite:0.40
+  running:0.20
+  sr:0.20
+  time:0.20
+  mate:0.20
+  buy:0.20
+  low:0.20
+  ill:0.20
+  nice:0.20
+  order:0.20
+
+Topic 2:
+  jebusite:0.40
+  onionits:0.20
+  visit:0.20
+  xdhxvnt:0.20
+  revamped:0.20
+  izl:0.20
+  sawq:0.20
+  sir:0.20
+  low:0.20
+  nice:0.20
+
+Topic 3:
+  jebusite:0.40
+  sawq:0.20
+  visit:0.20
+  xdhxvnt:0.20
+  izl:0.20
+  revamped:0.20
+  onionits:0.20
+  buy:0.20
+  trava:0.20
+  ill:0.20
+
+Topic 4:
+  jebusite:0.40
+  izl:0.20
+  xdhxvnt:0.20
+  revamped:0.20
+  sir:0.20
+  order:0.20
+  onionits:0.20
+  visit:0.20
+  sawq:0.20
+  low:0.20
+
+K: 5, Log-Likelihood: -54.586, Alpha: 11.000, Beta: 1.100

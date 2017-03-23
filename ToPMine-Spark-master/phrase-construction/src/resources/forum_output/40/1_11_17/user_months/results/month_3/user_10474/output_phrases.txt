@@ -1,0 +1,61 @@
+Topic 0:
+  password username exist:4.93
+  delete account:4.93
+  cocaine:4.92
+  net:4.92
+  bluest:4.91
+  option:4.91
+  support ticket:4.90
+  ten days:4.89
+  private key:3.30
+  spent:2.35
+
+Topic 1:
+  sr:3.35
+  market:3.35
+  blue:2.04
+  features:1.65
+  bsm:1.65
+  happened:1.65
+  change market:1.65
+  delete:1.65
+  throw:1.65
+  ruin:1.65
+
+Topic 2:
+  account:6.26
+  change password:3.33
+  screen:1.84
+  inactivated:1.63
+  captcha:1.63
+  pip:1.63
+  fine:1.63
+  ability:1.63
+  users:1.63
+  access:1.63
+
+Topic 3:
+  dont:2.26
+  wrong:2.26
+  deleted:1.58
+  apologized:1.58
+  alter:1.58
+  reason:1.58
+  fair:1.58
+  skimming:1.58
+  stayed:1.58
+  forum:1.58
+
+Topic 4:
+  coins support:2.28
+  hours bsm:2.28
+  steal:2.28
+  responsive:2.27
+  worked:2.27
+  ive:2.27
+  markets:2.27
+  support:1.75
+  willowsmom:1.53
+  bsm support:1.53
+
+K: 5, Log-Likelihood: -2488.686, Alpha: 11.000, Beta: 1.100

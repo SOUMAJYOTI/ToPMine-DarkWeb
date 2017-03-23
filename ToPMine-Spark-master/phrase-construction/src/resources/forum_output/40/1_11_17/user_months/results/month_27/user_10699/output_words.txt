@@ -1,0 +1,61 @@
+Topic 0:
+  btc:2.77
+  dont:2.06
+  tab:1.81
+  buying:1.78
+  keys:1.73
+  key:1.20
+  group:1.07
+  ill:0.93
+  switch:0.80
+  sky:0.80
+
+Topic 1:
+  key:4.46
+  keys:1.93
+  dont:1.90
+  version:1.66
+  public:1.50
+  personal:1.09
+  ill:0.99
+  tab:0.89
+  group:0.66
+  copy:0.65
+
+Topic 2:
+  amnesia:9.61
+  code:7.25
+  temp:5.11
+  ctrl:3.96
+  key:3.72
+  message:3.21
+  select:2.58
+  file:2.37
+  gpg:2.05
+  enter:1.98
+
+Topic 3:
+  select:9.29
+  amnesia:7.26
+  temp:5.75
+  code:5.51
+  ctrl:4.91
+  key:3.74
+  message:3.66
+  amelia:3.40
+  gpg:2.82
+  file:2.50
+
+Topic 4:
+  key:4.88
+  paste:1.58
+  copy:1.57
+  public:1.33
+  keys:1.03
+  personal:1.01
+  ill:0.98
+  dont:0.76
+  command:0.75
+  lines:0.75
+
+K: 5, Log-Likelihood: -1522.527, Alpha: 11.000, Beta: 1.100

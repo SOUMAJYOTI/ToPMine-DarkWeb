@@ -1,0 +1,61 @@
+Topic 0:
+  lsd:5.13
+  todays:3.99
+  alive:3.99
+  blotter:3.99
+  tree:3.99
+  experiencing:3.99
+  friend:2.82
+  dot:1.98
+  walking:1.98
+  japan:1.98
+
+Topic 1:
+  feel:4.75
+  hearing:3.98
+  headspace:3.89
+  sounds:3.13
+  fulfilling:3.13
+  triangular:3.13
+  xtals:2.00
+  conversation:1.97
+  started:1.97
+  impression:1.97
+
+Topic 2:
+  ergotamine:9.57
+  grow:3.98
+  ergot:3.98
+  controlled:3.14
+  led:3.14
+  difference understand:3.14
+  easier:3.14
+  produced:3.14
+  asia:3.14
+  chemists:3.14
+
+Topic 3:
+  al lad:3.82
+  felt:3.46
+  lysergamide:3.09
+  faster:3.09
+  shorter:3.09
+  euphoric:3.09
+  visions:3.09
+  trip:3.03
+  sense:2.38
+  hours time:1.97
+
+Topic 4:
+  effects:5.16
+  dose:3.09
+  ct:3.09
+  long:3.09
+  doesnt:3.09
+  mixture:3.09
+  remember:3.09
+  stal:3.09
+  sound:3.09
+  triply:3.09
+
+K: 5, Log-Likelihood: -2987.508, Alpha: 11.000, Beta: 1.100

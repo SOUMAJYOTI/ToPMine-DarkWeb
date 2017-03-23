@@ -1,0 +1,61 @@
+Topic 0:
+  pgp:0.80
+  signature:0.52
+  tk:0.25
+  hkzbxvn:0.25
+  aufnjcvclf:0.25
+  amsnhehscsvmjt:0.25
+  czsyazfe:0.25
+  jhdz:0.25
+  uhqopasx:0.25
+  enrlz:0.25
+
+Topic 1:
+  scallion:2.64
+  create:0.71
+  fee:0.71
+  characters:0.71
+  swissshopfrom:0.71
+  customed:0.71
+  domain:0.71
+  exe:0.71
+  working:0.71
+  great:0.71
+
+Topic 2:
+  pgp:0.56
+  signature:0.41
+  bvysrgnn:0.21
+  iqqh:0.21
+  oa:0.21
+  mx:0.21
+  lfmvnxhs:0.21
+  qqzegby:0.21
+  jsghzkukqmfu:0.21
+  jl:0.21
+
+Topic 3:
+  pgp:0.72
+  signature:0.48
+  nun:0.23
+  cavb:0.23
+  svke:0.23
+  gnhaf:0.23
+  rjudtm:0.23
+  vsq:0.23
+  amsnhehscsvmjt:0.23
+  tfezjhd:0.23
+
+Topic 4:
+  pgp:0.82
+  signature:0.52
+  lweorrdp:0.25
+  myknnmj:0.25
+  mixz:0.25
+  zdt:0.25
+  tsudlluulor:0.25
+  xsk:0.25
+  gnupg:0.25
+  ptbeswhd:0.25
+
+K: 5, Log-Likelihood: -642.508, Alpha: 11.000, Beta: 1.100

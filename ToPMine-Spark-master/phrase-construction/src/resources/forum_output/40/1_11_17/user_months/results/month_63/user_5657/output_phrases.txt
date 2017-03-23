@@ -1,0 +1,61 @@
+Topic 0:
+  november:0.17
+  pack inside things letter:0.14
+  bless:0.14
+  letter send hide vacuum:0.14
+  enigmaticsmiles:0.14
+  amquote:0.14
+  cupinxa:0.12
+  letter:0.12
+  amhi:0.12
+  package:0.12
+
+Topic 1:
+  november:0.17
+  amquote:0.14
+  letter send hide vacuum:0.14
+  pack inside things letter:0.14
+  enigmaticsmiles:0.14
+  bless:0.14
+  letter:0.12
+  dont:0.12
+  shipping:0.12
+  letter send hide:0.12
+
+Topic 2:
+  november:0.17
+  letter send hide vacuum:0.14
+  bless:0.14
+  enigmaticsmiles:0.14
+  pack inside things letter:0.14
+  amquote:0.14
+  discuss:0.12
+  quote:0.12
+  recieved:0.12
+  vacuum pack inside things:0.12
+
+Topic 3:
+  november:0.17
+  amquote:0.14
+  enigmaticsmiles:0.14
+  bless:0.14
+  letter send hide vacuum:0.14
+  pack inside things letter:0.14
+  cupinxa:0.12
+  dont:0.12
+  discuss:0.12
+  package:0.12
+
+Topic 4:
+  november:0.17
+  enigmaticsmiles:0.14
+  amquote:0.14
+  pack inside things letter:0.14
+  bless:0.14
+  letter send hide vacuum:0.14
+  techniques:0.12
+  quote:0.12
+  amhi:0.12
+  recieved:0.12
+
+K: 5, Log-Likelihood: -45.748, Alpha: 11.000, Beta: 1.100

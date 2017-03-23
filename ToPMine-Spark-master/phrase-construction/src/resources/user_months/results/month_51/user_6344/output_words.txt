@@ -1,0 +1,61 @@
+Topic 0:
+  online:2.95
+  vendors:2.89
+  market:2.61
+  years:2.54
+  dutch:2.28
+  road:2.28
+  drug:2.21
+  man:1.89
+  silk:1.89
+  bitcoins:1.78
+
+Topic 1:
+  law:1.83
+  enforcement:1.82
+  running:1.76
+  suspicious:1.76
+  business:1.76
+  users:1.76
+  order:1.76
+  catch:1.76
+  true:1.38
+  sad:1.37
+
+Topic 2:
+  dutch:1.96
+  drug:1.51
+  online:1.34
+  road:1.29
+  market:1.26
+  mdma:1.25
+  trial:1.19
+  article:1.17
+  silk:1.15
+  years:1.14
+
+Topic 3:
+  online:2.67
+  years:2.45
+  drug:2.32
+  vendors:2.05
+  market:2.04
+  dutch:2.03
+  silk:1.93
+  road:1.57
+  international:1.52
+  underground:1.50
+
+Topic 4:
+  market:4.01
+  drug:3.87
+  years:3.78
+  silk:2.95
+  online:2.95
+  road:2.78
+  dutch:2.39
+  marketplaces:2.07
+  united:1.98
+  international:1.97
+
+K: 5, Log-Likelihood: -2158.476, Alpha: 11.000, Beta: 1.100

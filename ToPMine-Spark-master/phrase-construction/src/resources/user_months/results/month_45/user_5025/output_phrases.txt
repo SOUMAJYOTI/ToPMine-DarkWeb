@@ -1,0 +1,61 @@
+Topic 0:
+  guy:0.50
+  javascript:0.40
+  post:0.34
+  bit:0.34
+  wondering:0.34
+  sceptical:0.34
+  good:0.34
+  provide:0.34
+  market:0.34
+  bad:0.34
+
+Topic 1:
+  guy:0.53
+  javascript:0.40
+  post:0.35
+  bad:0.35
+  provide:0.35
+  market:0.35
+  good:0.35
+  sceptical:0.35
+  wondering:0.35
+  bit:0.35
+
+Topic 2:
+  guy:0.47
+  javascript:0.41
+  check:0.35
+  site:0.35
+  reason:0.35
+  connect:0.35
+  disabled:0.35
+  tor:0.35
+  disable:0.35
+  tails:0.35
+
+Topic 3:
+  guy:0.59
+  javascript:0.39
+  wondering:0.33
+  good:0.33
+  sceptical:0.33
+  market:0.33
+  bit:0.33
+  provide:0.33
+  bad:0.33
+  post:0.33
+
+Topic 4:
+  javascript:0.42
+  guy:0.42
+  forget:0.36
+  whonix:0.36
+  disabled:0.36
+  site:0.36
+  check:0.36
+  tails:0.36
+  connect:0.36
+  reason:0.36
+
+K: 5, Log-Likelihood: -220.667, Alpha: 11.000, Beta: 1.100

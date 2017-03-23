@@ -1,0 +1,61 @@
+Topic 0:
+  ja:4.64
+  kaikki:1.63
+  myyj:1.62
+  pit:1.56
+  suomenmaasta:0.65
+  subunmyyj:0.65
+  tk:0.65
+  subua:0.65
+  sitten:0.65
+  mit:0.65
+
+Topic 1:
+  ja:1.07
+  sun:0.64
+  ytt:0.56
+  ett:0.44
+  myyj:0.40
+  se:0.40
+  olla:0.39
+  kaikki:0.39
+  itsekkin:0.24
+  juu:0.24
+
+Topic 2:
+  ytt:0.83
+  sun:0.75
+  olla:0.69
+  ja:0.53
+  ett:0.51
+  ois:0.29
+  mrvantaa:0.29
+  itekki:0.29
+  tilata:0.29
+  uskaltaa:0.29
+
+Topic 3:
+  ytt:0.95
+  sun:0.89
+  ja:0.62
+  ett:0.52
+  olla:0.40
+  kaikki:0.31
+  myyj:0.31
+  se:0.28
+  mielummin:0.28
+  pula:0.28
+
+Topic 4:
+  ja:1.13
+  sun:0.60
+  ytt:0.54
+  ett:0.43
+  olla:0.41
+  myyj:0.40
+  kaikki:0.40
+  se:0.39
+  kusetus:0.23
+  myyjist:0.23
+
+K: 5, Log-Likelihood: -690.026, Alpha: 11.000, Beta: 1.100

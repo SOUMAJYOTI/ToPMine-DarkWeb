@@ -1,0 +1,61 @@
+Topic 0:
+  security stability site:0.54
+  runs lawless time focus:0.54
+  bsm:0.54
+  wallstreetx:0.53
+  forum site:0.53
+  ambsm:0.53
+  site order january:0.41
+  problem technically incredibly slow:0.41
+  shit:0.41
+  point:0.41
+
+Topic 1:
+  simply:2.30
+  disable:0.99
+  slow:0.99
+  period:0.99
+  sr:0.99
+  plate:0.99
+  perfect:0.98
+  sort:0.98
+  pop:0.98
+  withdrawal:0.98
+
+Topic 2:
+  site order january:0.50
+  problem technically incredibly slow:0.50
+  bsm:0.45
+  security stability site:0.45
+  forum site:0.45
+  runs lawless time focus:0.44
+  silkroad drama vibe dont:0.42
+  admin announcements problems site:0.42
+  withdrawals week wrote length:0.41
+  ambsm:0.41
+
+Topic 3:
+  runs lawless time focus:0.52
+  forum site:0.52
+  ambsm:0.52
+  security stability site:0.51
+  bsm:0.51
+  wallstreetx:0.51
+  problem technically incredibly slow:0.46
+  site order january:0.46
+  march:0.38
+  quote:0.38
+
+Topic 4:
+  site order january:0.43
+  problem technically incredibly slow:0.43
+  withdrawals week wrote length:0.43
+  silkroad drama vibe dont:0.43
+  admin announcements problems site:0.43
+  forum site:0.41
+  security stability site:0.41
+  bsm:0.40
+  runs lawless time focus:0.40
+  quote:0.39
+
+K: 5, Log-Likelihood: -677.552, Alpha: 11.000, Beta: 1.100

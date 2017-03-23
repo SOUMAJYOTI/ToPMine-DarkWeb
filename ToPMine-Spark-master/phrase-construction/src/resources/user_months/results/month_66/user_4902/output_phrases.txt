@@ -1,0 +1,61 @@
+Topic 0:
+  package:0.69
+  pay postage:0.62
+  postage:0.61
+  search:0.51
+  fine:0.50
+  house:0.50
+  dropped:0.50
+  sender:0.50
+  signature:0.50
+  left:0.50
+
+Topic 1:
+  postage:0.94
+  package:0.81
+  today:0.61
+  owe:0.61
+  delivered:0.61
+  woke:0.61
+  moneyanyone:0.61
+  drop:0.61
+  mailman:0.60
+  experience:0.60
+
+Topic 2:
+  warrant:1.13
+  sign:1.12
+  affix:1.12
+  unpaid postage:1.12
+  realized:1.12
+  unpaid sender:1.11
+  remaining:1.11
+  box:1.11
+  concerned:1.11
+  validate:1.11
+
+Topic 3:
+  post office:2.81
+  frowned:2.78
+  normal:2.76
+  november:2.73
+  ameverything:1.57
+  vendor:1.57
+  pso:1.57
+  quote:1.57
+  occurence:1.56
+  darcm:1.56
+
+Topic 4:
+  package:0.68
+  postage:0.65
+  pay postage:0.61
+  bit worried moment:0.47
+  sketch:0.45
+  glad:0.45
+  info:0.45
+  worked:0.45
+  pretty:0.45
+  yeah:0.43
+
+K: 5, Log-Likelihood: -695.867, Alpha: 11.000, Beta: 1.100

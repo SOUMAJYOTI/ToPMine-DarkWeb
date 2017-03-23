@@ -1,0 +1,61 @@
+Topic 0:
+  clearnet:1.02
+  tor:0.96
+  browser:0.62
+  sites:0.60
+  circuit:0.40
+  log:0.40
+  close:0.40
+  train:0.40
+  reddit:0.40
+  emails:0.40
+
+Topic 1:
+  clearnet:1.07
+  tor:1.02
+  browser:0.59
+  sites:0.58
+  identity:0.40
+  hit:0.40
+  circuit:0.40
+  review:0.40
+  log:0.40
+  train:0.40
+
+Topic 2:
+  tor:1.01
+  clearnet:0.93
+  sites:0.61
+  browser:0.59
+  review:0.40
+  safe:0.40
+  close:0.40
+  hit:0.40
+  log:0.40
+  circuit:0.40
+
+Topic 3:
+  tor:1.00
+  clearnet:0.96
+  browser:0.61
+  sites:0.60
+  emails:0.41
+  reddit:0.41
+  hit:0.41
+  train:0.41
+  close:0.41
+  identity:0.40
+
+Topic 4:
+  tor:1.02
+  clearnet:1.02
+  sites:0.61
+  browser:0.59
+  safe:0.40
+  review:0.40
+  identity:0.40
+  hit:0.40
+  log:0.40
+  reddit:0.40
+
+K: 5, Log-Likelihood: -150.732, Alpha: 11.000, Beta: 1.100

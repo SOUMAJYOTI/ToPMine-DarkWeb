@@ -1,0 +1,61 @@
+Topic 0:
+  tails:2.53
+  upgrade:1.08
+  clone:0.84
+  version:0.62
+  flashdrive:0.60
+  select:0.59
+  iso:0.58
+  flash:0.41
+  pops:0.41
+  applications:0.41
+
+Topic 1:
+  tails:1.97
+  upgrade:1.56
+  clone:0.76
+  iso:0.65
+  version:0.60
+  flashdrive:0.59
+  select:0.59
+  copy:0.41
+  installerwhen:0.41
+  january:0.41
+
+Topic 2:
+  tails:3.06
+  upgrade:1.20
+  clone:0.83
+  flashdrive:0.61
+  select:0.61
+  version:0.60
+  iso:0.57
+  window:0.40
+  drive:0.40
+  auto:0.40
+
+Topic 3:
+  tails:3.59
+  upgrade:1.19
+  clone:0.79
+  iso:0.61
+  select:0.60
+  flashdrive:0.60
+  version:0.58
+  released:0.40
+  persistence:0.40
+  inthen:0.40
+
+Topic 4:
+  tails:3.86
+  upgrade:0.98
+  clone:0.78
+  select:0.61
+  flashdrive:0.60
+  version:0.60
+  iso:0.58
+  drive:0.40
+  window:0.40
+  copy:0.40
+
+K: 5, Log-Likelihood: -446.399, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  shop:1.52
+  abraxas:1.42
+  albion:1.22
+  funds:0.83
+  trust:0.40
+  wallet:0.40
+  finally:0.40
+  commission:0.40
+  fees:0.40
+  identity:0.40
+
+Topic 1:
+  shop:1.61
+  abraxas:1.46
+  albion:1.30
+  funds:0.79
+  finally:0.40
+  admins:0.40
+  wallet:0.40
+  identity:0.40
+  reasons:0.40
+  working:0.40
+
+Topic 2:
+  shop:1.78
+  abraxas:1.33
+  albion:1.09
+  funds:0.78
+  albions:0.42
+  account:0.40
+  reasons:0.40
+  takes:0.40
+  scenario:0.40
+  directly:0.40
+
+Topic 3:
+  shop:1.79
+  abraxas:1.27
+  albion:1.20
+  funds:0.80
+  escrow:0.40
+  transaction:0.40
+  fees:0.40
+  trustworthy:0.40
+  withdraw:0.40
+  takes:0.40
+
+Topic 4:
+  abraxas:1.53
+  shop:1.29
+  albion:1.20
+  funds:0.80
+  pgp:0.41
+  time:0.41
+  albions:0.41
+  early:0.41
+  directly:0.41
+  withdraw:0.41
+
+K: 5, Log-Likelihood: -289.745, Alpha: 11.000, Beta: 1.100

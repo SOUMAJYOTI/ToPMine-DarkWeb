@@ -1,0 +1,61 @@
+Topic 0:
+  server:0.71
+  files:0.65
+  tails pidgin otr:0.51
+  authenticated:0.47
+  quote tambourine:0.46
+  encryption dont:0.42
+  encrypted:0.41
+  bridge:0.41
+  jabber:0.40
+  private:0.39
+
+Topic 1:
+  program:2.06
+  boards:0.91
+  knowledge:0.91
+  domain:0.91
+  reason:0.91
+  search:0.91
+  observers:0.91
+  dropped:0.91
+  job:0.91
+  broseph:0.90
+
+Topic 2:
+  dont:1.14
+  files:1.12
+  bridge:1.08
+  encrypted:1.04
+  cipher:0.84
+  block:0.84
+  switch:0.81
+  passphrase:0.79
+  diceware:0.78
+  data:0.78
+
+Topic 3:
+  dont:1.68
+  encrypted:1.51
+  bridge:1.48
+  july:1.40
+  pmi:1.38
+  diceware:1.38
+  data:1.38
+  passphrase:1.36
+  switch:1.34
+  block:1.32
+
+Topic 4:
+  server:1.94
+  authenticated:1.54
+  tails pidgin otr:1.48
+  icq:0.86
+  xmpp:0.86
+  guess:0.85
+  sign:0.85
+  inactive:0.85
+  refused:0.85
+  deleted:0.85
+
+K: 5, Log-Likelihood: -1226.862, Alpha: 11.000, Beta: 1.100

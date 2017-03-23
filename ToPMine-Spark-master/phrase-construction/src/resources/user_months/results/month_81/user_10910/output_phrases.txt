@@ -1,0 +1,61 @@
+Topic 0:
+  works:0.00
+  import:0.00
+  keys:0.00
+  program:0.00
+  paste:0.00
+  public:0.00
+  encryption:0.00
+  passwords:0.00
+  vendor:0.00
+  pip:0.00
+
+Topic 1:
+  works:0.00
+  import:0.00
+  keys:0.00
+  program:0.00
+  paste:0.00
+  public:0.00
+  encryption:0.00
+  passwords:0.00
+  vendor:0.00
+  pip:0.00
+
+Topic 2:
+  works:0.00
+  import:0.00
+  keys:0.00
+  program:0.00
+  paste:0.00
+  public:0.00
+  encryption:0.00
+  passwords:0.00
+  vendor:0.00
+  pip:0.00
+
+Topic 3:
+  works:0.00
+  import:0.00
+  keys:0.00
+  program:0.00
+  paste:0.00
+  public:0.00
+  encryption:0.00
+  passwords:0.00
+  vendor:0.00
+  pip:0.00
+
+Topic 4:
+  works:0.00
+  import:0.00
+  keys:0.00
+  program:0.00
+  paste:0.00
+  public:0.00
+  encryption:0.00
+  passwords:0.00
+  vendor:0.00
+  pip:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

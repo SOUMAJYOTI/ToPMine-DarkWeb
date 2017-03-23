@@ -1,0 +1,78 @@
+mins write,0,2
+send key delete,1,3
+putting,2,2
+send key,3,3
+quote mary,4,3
+pmhi,5,2
+program,6,1
+key delete programme,7,3
+delete programme,8,3
+password,9,4
+quote,10,3
+passwords,11,2
+pgp key password decrypt,12,3
+write mins,13,2
+forgotten,14,3
+generate,15,1
+write,16,3
+decrypt msgs send,17,3
+guide,18,1
+forgotten pgp key,19,3
+msgs,20,3
+work,21,2
+profile,22,1
+lose,23,1
+ill,24,2
+interrupted,25,2
+pgp key,26,5
+key delete programme start,27,3
+appreciated,28,2
+start zaphod,29,1
+password decrypt,30,3
+mary february,31,3
+send,32,4
+dont,33,3
+problems,34,1
+key delete,35,3
+msgs send key delete,36,3
+quote mary february,37,3
+zaphod key,38,1
+father,39,2
+update,40,1
+decrypt msgs,41,3
+delete programme start,42,3
+forgotten pgp,43,3
+delete,44,4
+zaphod,45,4
+long,46,1
+ft,47,2
+head,48,2
+dont delete,49,1
+mins,50,4
+forgotten pgp key password,51,3
+today,52,1
+pgp,53,5
+programme,54,3
+key,55,12
+decrypt msgs send key,56,3
+send key delete programme,57,3
+key mins,58,2
+password decrypt msgs,59,3
+february,60,3
+start,61,3
+mary,62,3
+pgp key password,63,3
+key password decrypt,64,3
+programme start,65,3
+store,66,1
+key password decrypt msgs,67,3
+key dont,68,1
+password decrypt msgs send,69,3
+manage,70,1
+key password,71,4
+msgs send,72,3
+encrypted,73,1
+msgs send key,74,3
+decrypt,75,3
+amah,76,1
+delete key,77,1

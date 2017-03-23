@@ -1,0 +1,61 @@
+Topic 0:
+  game:5.80
+  quote:3.31
+  black:3.11
+  games:2.91
+  play:2.88
+  april:2.83
+  format:2.51
+  moreau:2.33
+  orderofthephoenix:2.14
+  lsd:1.29
+
+Topic 1:
+  april:10.35
+  moreau:8.97
+  orderofthephoenix:6.19
+  game:5.26
+  quote:4.85
+  amgame:2.75
+  move:2.48
+  pmquote:2.44
+  black:2.28
+  format:2.08
+
+Topic 2:
+  april:9.98
+  play:6.12
+  torrent:5.87
+  moreau:5.69
+  saved:3.87
+  collection:3.87
+  file:3.87
+  quote:3.29
+  dude:2.55
+  pmquote:2.47
+
+Topic 3:
+  games:7.50
+  game:6.76
+  free:4.73
+  handicap:4.65
+  feel:4.44
+  skill:4.41
+  play:4.05
+  long:3.60
+  years:2.75
+  basics:2.73
+
+Topic 4:
+  room:3.76
+  figure:3.67
+  confused:3.66
+  friend:3.66
+  ago:3.66
+  started:3.66
+  balls:3.66
+  quote:3.55
+  face:3.50
+  april:2.18
+
+K: 5, Log-Likelihood: -2569.478, Alpha: 11.000, Beta: 1.100

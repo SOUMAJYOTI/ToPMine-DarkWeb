@@ -1,0 +1,61 @@
+Topic 0:
+  outlaw:1.54
+  silk:1.12
+  web:1.12
+  road:1.07
+  market:1.04
+  site:0.98
+  escrow:0.76
+  good:0.72
+  markets:0.71
+  software:0.70
+
+Topic 1:
+  market:1.32
+  outlaw:0.87
+  site:0.84
+  escrow:0.67
+  software:0.67
+  markets:0.66
+  road:0.65
+  silk:0.64
+  web:0.64
+  good:0.63
+
+Topic 2:
+  market:2.19
+  vendors:0.82
+  software:0.46
+  built:0.44
+  good:0.43
+  site:0.42
+  markets:0.42
+  escrow:0.42
+  post:0.42
+  security:0.41
+
+Topic 3:
+  market:1.20
+  site:0.81
+  vendors:0.64
+  markets:0.56
+  good:0.55
+  escrow:0.53
+  software:0.53
+  outlaw:0.51
+  backend:0.47
+  security:0.47
+
+Topic 4:
+  market:1.26
+  site:0.95
+  outlaw:0.87
+  road:0.69
+  good:0.67
+  web:0.66
+  silk:0.66
+  markets:0.64
+  software:0.63
+  escrow:0.62
+
+K: 5, Log-Likelihood: -1134.778, Alpha: 11.000, Beta: 1.100

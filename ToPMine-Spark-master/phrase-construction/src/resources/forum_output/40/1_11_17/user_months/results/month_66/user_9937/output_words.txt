@@ -1,0 +1,61 @@
+Topic 0:
+  juice:0.78
+  add:0.61
+  concentrate:0.60
+  lemon:0.41
+  simmering:0.41
+  people:0.39
+  tea:0.39
+  orange:0.39
+  works:0.20
+  great:0.20
+
+Topic 1:
+  juice:0.79
+  concentrate:0.61
+  add:0.59
+  tea:0.41
+  people:0.40
+  orange:0.40
+  lemon:0.40
+  simmering:0.40
+  strain:0.20
+  side:0.20
+
+Topic 2:
+  juice:0.84
+  concentrate:0.60
+  add:0.58
+  orange:0.41
+  people:0.40
+  tea:0.40
+  simmering:0.40
+  lemon:0.39
+  stringer:0.20
+  minute:0.20
+
+Topic 3:
+  juice:0.76
+  concentrate:0.62
+  add:0.61
+  simmering:0.41
+  lemon:0.40
+  orange:0.40
+  tea:0.39
+  people:0.39
+  tastes:0.20
+  filtering:0.20
+
+Topic 4:
+  juice:0.83
+  add:0.60
+  concentrate:0.57
+  tea:0.41
+  people:0.41
+  orange:0.40
+  lemon:0.40
+  simmering:0.40
+  simmer:0.20
+  wondering:0.20
+
+K: 5, Log-Likelihood: -162.552, Alpha: 11.000, Beta: 1.100

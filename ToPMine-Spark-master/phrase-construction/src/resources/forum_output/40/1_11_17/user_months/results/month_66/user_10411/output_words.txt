@@ -1,0 +1,61 @@
+Topic 0:
+  tor:6.74
+  carnegie:2.81
+  mellon:2.77
+  users:2.03
+  network:1.36
+  paid:1.30
+  fbi:1.26
+  law:1.04
+  enforcement:0.99
+  farrell:0.94
+
+Topic 1:
+  tor:13.29
+  mellon:8.35
+  attack:7.63
+  dingledine:5.64
+  carnegie:3.55
+  enforcement:3.50
+  law:3.50
+  fbi:3.40
+  statement:3.03
+  wired:2.98
+
+Topic 2:
+  tor:4.48
+  users:2.80
+  carnegie:2.27
+  mellon:1.81
+  farrell:1.02
+  drug:0.92
+  fbi:0.91
+  network:0.89
+  unmask:0.80
+  secret:0.79
+
+Topic 3:
+  users:4.25
+  amount:3.70
+  goal:3.61
+  november:3.60
+  drug:2.77
+  nice:2.72
+  hours:2.72
+  guy:2.72
+  deanonymise:2.72
+  mkt:2.72
+
+Topic 4:
+  secret:2.15
+  users:1.56
+  brian:1.35
+  farrell:1.27
+  carnegie:1.21
+  tor:1.19
+  stolen:1.14
+  lover:1.13
+  shakes:1.13
+  fist:1.12
+
+K: 5, Log-Likelihood: -2702.225, Alpha: 11.000, Beta: 1.100

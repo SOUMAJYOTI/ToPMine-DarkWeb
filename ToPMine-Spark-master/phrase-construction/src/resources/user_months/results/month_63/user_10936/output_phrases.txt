@@ -1,0 +1,61 @@
+Topic 0:
+  dens:3.99
+  big:2.61
+  parade:2.61
+  log:2.61
+  quote jigsaw puzzle november:2.03
+  routers:1.75
+  isp:1.23
+  privacy:1.23
+  query:1.23
+  servers:1.23
+
+Topic 1:
+  doesnt answer question:1.70
+  routers:1.58
+  quote:1.25
+  firmware:1.18
+  pmquote:1.01
+  ffs lol:1.01
+  doesnt buy router:1.01
+  jigsaw puzzle november:1.01
+  upgrade:1.01
+  certantily:0.80
+
+Topic 2:
+  doesnt answer question:0.79
+  set:0.74
+  pmhave:0.70
+  dd wrt:0.70
+  control current router:0.69
+  heads:0.69
+  nthe user additional features:0.69
+  tomato open wrt:0.69
+  doesnt buy:0.69
+  certantily:0.69
+
+Topic 3:
+  set:1.76
+  depends:0.80
+  isp dns:0.80
+  isp isp:0.80
+  paranoid:0.80
+  setting:0.80
+  trace:0.80
+  ability:0.80
+  route:0.80
+  good:0.80
+
+Topic 4:
+  dns addresses:3.65
+  dns:2.72
+  traffic:1.71
+  personal:1.71
+  simply:1.71
+  ip:1.71
+  port:1.71
+  farewell:1.71
+  default routers:1.71
+  contacting:1.71
+
+K: 5, Log-Likelihood: -1367.123, Alpha: 11.000, Beta: 1.100

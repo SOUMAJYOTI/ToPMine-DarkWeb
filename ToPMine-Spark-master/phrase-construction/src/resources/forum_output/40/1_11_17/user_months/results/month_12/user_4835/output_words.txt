@@ -1,0 +1,61 @@
+Topic 0:
+  prize:6.74
+  number:3.76
+  ticket:3.61
+  prizes:2.85
+  vendors:2.09
+  thread:2.08
+  winners:2.07
+  amount:2.01
+  time:1.70
+  orderofthephoenix:1.29
+
+Topic 1:
+  tickets:2.88
+  prize:1.94
+  raffle:1.76
+  time:1.25
+  ticket:1.11
+  magicblues:1.05
+  number:0.99
+  acid:0.94
+  prizes:0.91
+  happy:0.80
+
+Topic 2:
+  tickets:4.82
+  raffle:2.16
+  bought:0.92
+  garden:0.80
+  magicblues:0.78
+  happy:0.73
+  time:0.72
+  acid:0.61
+  winner:0.59
+  contributed:0.57
+
+Topic 3:
+  tickets:8.75
+  quote:4.26
+  bought:4.04
+  june:3.89
+  confirmed:3.87
+  pay:2.29
+  buying:2.23
+  left:2.18
+  grow:1.76
+  pmjust:1.71
+
+Topic 4:
+  tickets:5.35
+  bought:2.71
+  confirmed:1.65
+  june:1.64
+  left:1.30
+  quote:1.28
+  buying:1.12
+  pay:1.07
+  pmjust:0.88
+  grow:0.78
+
+K: 5, Log-Likelihood: -1397.265, Alpha: 11.000, Beta: 1.100

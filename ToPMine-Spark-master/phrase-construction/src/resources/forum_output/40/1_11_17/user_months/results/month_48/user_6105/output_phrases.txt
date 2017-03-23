@@ -1,0 +1,61 @@
+Topic 0:
+  gloves:0.73
+  seal:0.72
+  iron:0.48
+  year:0.36
+  lingering:0.33
+  clothes:0.33
+  surfaces:0.33
+  residue:0.33
+  air:0.33
+  mechanic:0.33
+
+Topic 1:
+  iron:0.39
+  seal:0.35
+  gloves:0.35
+  bag:0.34
+  cars:0.31
+  marijuana:0.31
+  retain:0.31
+  months:0.31
+  roadways:0.31
+  special:0.31
+
+Topic 2:
+  iron:0.71
+  scroat:0.66
+  vacuum:0.37
+  inside:0.37
+  store:0.37
+  production:0.37
+  hidden:0.37
+  tips:0.37
+  intending:0.37
+  remove:0.37
+
+Topic 3:
+  seal:0.80
+  gloves:0.80
+  iron:0.43
+  year:0.36
+  alcohol:0.35
+  bags:0.35
+  mylar:0.35
+  hold:0.35
+  doesnt:0.35
+  seconds:0.35
+
+Topic 4:
+  scroat:0.83
+  iron:0.77
+  great:0.38
+  max:0.38
+  hidden:0.38
+  increase:0.38
+  piece:0.38
+  travel:0.38
+  iron car:0.38
+  tips:0.38
+
+K: 5, Log-Likelihood: -623.926, Alpha: 11.000, Beta: 1.100

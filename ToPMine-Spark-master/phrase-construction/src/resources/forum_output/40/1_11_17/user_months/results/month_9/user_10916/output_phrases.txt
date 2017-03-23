@@ -1,0 +1,61 @@
+Topic 0:
+  time:0.24
+  market:0.16
+  worth:0.16
+  dumps:0.16
+  pump:0.16
+  provide:0.16
+  gas:0.16
+  free:0.16
+  friend:0.16
+  required:0.08
+
+Topic 1:
+  time:0.24
+  dumps:0.16
+  provide:0.16
+  worth:0.16
+  market:0.16
+  gas:0.16
+  pump:0.16
+  friend:0.16
+  free:0.16
+  food:0.08
+
+Topic 2:
+  time:0.24
+  gas:0.16
+  provide:0.16
+  dumps:0.16
+  market:0.16
+  worth:0.16
+  pump:0.16
+  friend:0.16
+  free:0.16
+  appreciated:0.08
+
+Topic 3:
+  time:0.24
+  free:0.16
+  friend:0.16
+  pump:0.16
+  gas:0.16
+  provide:0.16
+  worth:0.16
+  dumps:0.16
+  market:0.16
+  work:0.08
+
+Topic 4:
+  time:0.24
+  free:0.16
+  friend:0.16
+  pump:0.16
+  market:0.16
+  gas:0.16
+  worth:0.16
+  dumps:0.16
+  provide:0.16
+  setup:0.08
+
+K: 5, Log-Likelihood: -102.646, Alpha: 11.000, Beta: 1.100

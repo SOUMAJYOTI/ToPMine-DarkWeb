@@ -1,0 +1,61 @@
+Topic 0:
+  phoenix workstation:7.39
+  javascript:4.72
+  option javascript:3.67
+  snapshot:3.65
+  whonix:1.88
+  flaws:1.80
+  workstation:1.80
+  iframe:1.80
+  attempting:1.80
+  technology vm:1.80
+
+Topic 1:
+  darknet:2.77
+  man:2.73
+  jollyroger:1.78
+  answered:1.78
+  mate:1.78
+  inbox:1.78
+  firelight firelight:1.78
+  questions:1.78
+  big:1.78
+  fuck:1.78
+
+Topic 2:
+  time:3.64
+  fact:3.64
+  physical isolation:3.32
+  site:3.32
+  threat:2.51
+  models:2.50
+  physical gateway:2.49
+  overkill:2.43
+  unknown:2.43
+  nsa:2.41
+
+Topic 3:
+  forums:3.70
+  users:3.70
+  personally:3.70
+  advice:3.70
+  free:3.48
+  security:3.03
+  topic:1.83
+  community:1.83
+  foxacid:1.83
+  bruce:1.83
+
+Topic 4:
+  gateway:7.44
+  machine:5.56
+  identifying:3.69
+  system:3.69
+  separate:3.69
+  computer:3.69
+  traffic:3.69
+  host:3.69
+  operating:3.69
+  called:3.69
+
+K: 5, Log-Likelihood: -2935.911, Alpha: 11.000, Beta: 1.100

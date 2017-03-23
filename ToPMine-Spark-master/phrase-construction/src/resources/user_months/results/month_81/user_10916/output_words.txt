@@ -1,0 +1,61 @@
+Topic 0:
+  download:2.79
+  trust:2.44
+  february:2.43
+  market:2.37
+  program:2.12
+  march:1.90
+  pmquote:1.83
+  shared:1.72
+  folder:1.70
+  evilgrin:1.67
+
+Topic 1:
+  download:2.68
+  markets:2.21
+  february:2.04
+  generation:1.80
+  designed:1.78
+  precisely:1.68
+  darkent:1.67
+  running:1.62
+  shut:1.56
+  quote:1.53
+
+Topic 2:
+  february:2.32
+  download:2.15
+  markets:2.07
+  generation:1.77
+  darkent:1.75
+  evilgrin:1.73
+  precisely:1.65
+  designed:1.63
+  pmquote:1.54
+  computer:1.54
+
+Topic 3:
+  download:2.68
+  market:2.66
+  february:2.39
+  pmquote:2.27
+  trust:2.21
+  evilgrin:1.99
+  march:1.99
+  program:1.71
+  computer:1.69
+  markets:1.67
+
+Topic 4:
+  download:2.70
+  february:1.82
+  pmthis:1.73
+  market:1.72
+  program:1.66
+  markets:1.53
+  quote:1.46
+  evilgrin:1.45
+  march:1.36
+  pmquote:1.34
+
+K: 5, Log-Likelihood: -1550.491, Alpha: 11.000, Beta: 1.100

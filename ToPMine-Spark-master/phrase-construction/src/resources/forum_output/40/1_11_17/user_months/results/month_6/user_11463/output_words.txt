@@ -1,0 +1,61 @@
+Topic 0:
+  dont:6.83
+  february:5.29
+  turtletime:4.95
+  forums:4.73
+  sales:4.02
+  face:3.85
+  response:3.84
+  quote:3.42
+  pitch:3.40
+  vendors:3.24
+
+Topic 1:
+  blackbank:8.86
+  vendor:8.26
+  buyer:6.44
+  funds:5.52
+  time:4.69
+  escrow:4.31
+  le:4.04
+  key:3.95
+  finalize:3.95
+  pretty:3.03
+
+Topic 2:
+  february:5.04
+  quote:4.35
+  people:2.67
+  pretty:2.19
+  pmi:2.14
+  customers:2.13
+  buying:2.02
+  forum:2.02
+  address:1.93
+  scarey:1.87
+
+Topic 3:
+  quote:3.62
+  calling:3.56
+  february:3.41
+  concerned:2.94
+  tt:2.80
+  grower:2.61
+  community:2.60
+  pmi:2.36
+  expert:2.35
+  pretty:2.10
+
+Topic 4:
+  market:7.51
+  reviews:5.45
+  feedback:4.78
+  negative:4.72
+  budsy:3.91
+  theabsolutefinest:3.91
+  february:3.89
+  free:3.72
+  rest:3.69
+  doxx:3.45
+
+K: 5, Log-Likelihood: -4066.460, Alpha: 11.000, Beta: 1.100

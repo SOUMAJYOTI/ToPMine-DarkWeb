@@ -1,0 +1,61 @@
+Topic 0:
+  cops:3.57
+  hart:2.82
+  police:2.77
+  accused:2.69
+  operation:2.51
+  undercover:2.46
+  big:2.38
+  case:2.28
+  suspect:2.13
+  target:1.92
+
+Topic 1:
+  police:15.32
+  undercover:15.10
+  big:9.32
+  cops:7.65
+  paragraph:7.39
+  case:6.84
+  cop:6.83
+  hart:6.31
+  suspect:6.23
+  murder:5.83
+
+Topic 2:
+  suspect:3.49
+  police:2.79
+  hart:2.74
+  scenarios:2.15
+  operation:1.89
+  accused:1.78
+  case:1.76
+  murder:1.73
+  le:1.67
+  place:1.64
+
+Topic 3:
+  le:2.21
+  notify:2.17
+  people:1.80
+  forums:1.48
+  publicly:1.48
+  mod:1.04
+  pay:0.84
+  parade:0.79
+  fist:0.79
+  ass:0.78
+
+Topic 4:
+  le:21.37
+  forum:18.79
+  august:18.19
+  emmet:11.67
+  pmquote:10.88
+  member:9.39
+  sr:7.88
+  hard:7.67
+  quote:7.62
+  freuent:7.62
+
+K: 5, Log-Likelihood: -7615.350, Alpha: 11.000, Beta: 1.100

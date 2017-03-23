@@ -1,0 +1,61 @@
+Topic 0:
+  quote:0.76
+  june:0.75
+  tmg:0.72
+  resolve:0.58
+  feilds:0.49
+  beautiful:0.48
+  place:0.48
+  subject:0.48
+  selectively:0.48
+  spread:0.48
+
+Topic 1:
+  resolve:1.45
+  preventing:0.61
+  rare:0.61
+  work:0.60
+  long:0.60
+  technical:0.60
+  issues:0.60
+  planned:0.60
+  hours:0.60
+  mod:0.60
+
+Topic 2:
+  forums:0.71
+  bitcoins:0.70
+  accounts:0.69
+  multiply:0.69
+  tmg:0.60
+  june:0.60
+  quote:0.58
+  lots:0.54
+  word:0.41
+  spread:0.40
+
+Topic 3:
+  resolve:1.15
+  problems:0.55
+  finally:0.55
+  mod:0.55
+  planned:0.55
+  normal:0.55
+  response:0.55
+  time:0.55
+  hours:0.55
+  long:0.55
+
+Topic 4:
+  tmg:0.66
+  quote:0.63
+  june:0.63
+  multiply:0.58
+  bitcoins:0.57
+  accounts:0.57
+  forums:0.56
+  lots:0.50
+  feilds:0.46
+  selectively:0.44
+
+K: 5, Log-Likelihood: -520.331, Alpha: 11.000, Beta: 1.100

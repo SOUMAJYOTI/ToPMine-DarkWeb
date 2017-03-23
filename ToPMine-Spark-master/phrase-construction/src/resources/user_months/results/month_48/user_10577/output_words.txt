@@ -1,0 +1,61 @@
+Topic 0:
+  litecoin:10.61
+  bitcoin:5.68
+  spendingtime:4.85
+  pmquote:4.47
+  years:3.45
+  dollars:3.42
+  money:3.37
+  hansmann:3.07
+  bottom:3.03
+  quote:2.99
+
+Topic 1:
+  hansmann:7.23
+  talking:6.52
+  millions:5.62
+  litecoin:5.27
+  quote:4.99
+  note:4.14
+  tickets:3.97
+  yeah:3.91
+  completely:3.15
+  point:3.14
+
+Topic 2:
+  invest:8.29
+  litecoin:7.00
+  lottery:6.57
+  pmquote:5.70
+  sue:5.14
+  refund:5.12
+  hansmann:4.41
+  bought:4.32
+  needed:3.86
+  performance:3.78
+
+Topic 3:
+  day:16.35
+  bitcoin:12.50
+  money:12.31
+  worth:11.86
+  bit:11.68
+  kind:11.55
+  dollars:8.20
+  price:7.03
+  litecoin:6.06
+  cryptocurrencies:5.70
+
+Topic 4:
+  money:10.61
+  litecoin:6.06
+  hansmann:5.43
+  worth:5.19
+  ltc:4.66
+  pmquote:4.49
+  quote:4.10
+  spendingtime:3.57
+  trading:3.48
+  bitcoin:3.45
+
+K: 5, Log-Likelihood: -5203.343, Alpha: 11.000, Beta: 1.100

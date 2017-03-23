@@ -1,0 +1,61 @@
+Topic 0:
+  amnesia:4.25
+  installed:4.00
+  kb:4.00
+  deselected:4.00
+  main:4.00
+  amelia:4.00
+  unpacking:4.00
+  selecting:4.00
+  squeeze:4.00
+  packages:4.00
+
+Topic 1:
+  ports:6.00
+  bind:3.99
+  dns:3.99
+  connect:2.79
+  redirected:1.97
+  ferm:1.97
+  whitelist:1.97
+  output:1.97
+  polipo:1.97
+  included:1.97
+
+Topic 2:
+  sudo apt install:6.33
+  live:3.93
+  conf:3.93
+  user:3.93
+  design repos surprised install:3.73
+  protocol ip address port:3.72
+  add contrib repos youll:3.72
+  proxy order:3.72
+  firelight:3.11
+  oris:3.11
+
+Topic 3:
+  proxy:5.08
+  tails:3.97
+  suds:3.94
+  type:3.93
+  http:3.91
+  setup:3.12
+  windows:3.00
+  install:2.95
+  proxychains:2.21
+  command dont:1.93
+
+Topic 4:
+  apt plate:4.59
+  site:3.98
+  apt apt conf:3.72
+  sources list:3.61
+  proxy set:3.60
+  proxychains:3.26
+  set:3.14
+  proxychains conf:3.14
+  comment:3.14
+  forum:2.21
+
+K: 5, Log-Likelihood: -4057.561, Alpha: 11.000, Beta: 1.100

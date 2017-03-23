@@ -1,0 +1,61 @@
+Topic 0:
+  germinal:0.00
+  wiped:0.00
+  software:0.00
+  moved:0.00
+  obis:0.00
+  mode:0.00
+  download:0.00
+  obfs:0.00
+  download tails:0.00
+  tor:0.00
+
+Topic 1:
+  germinal:0.00
+  wiped:0.00
+  software:0.00
+  moved:0.00
+  obis:0.00
+  mode:0.00
+  download:0.00
+  obfs:0.00
+  download tails:0.00
+  tor:0.00
+
+Topic 2:
+  germinal:0.00
+  wiped:0.00
+  software:0.00
+  moved:0.00
+  obis:0.00
+  mode:0.00
+  download:0.00
+  obfs:0.00
+  download tails:0.00
+  tor:0.00
+
+Topic 3:
+  germinal:0.00
+  wiped:0.00
+  software:0.00
+  moved:0.00
+  obis:0.00
+  mode:0.00
+  download:0.00
+  obfs:0.00
+  download tails:0.00
+  tor:0.00
+
+Topic 4:
+  germinal:0.00
+  wiped:0.00
+  software:0.00
+  moved:0.00
+  obis:0.00
+  mode:0.00
+  download:0.00
+  obfs:0.00
+  download tails:0.00
+  tor:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  jack:0.28
+  link:0.28
+  post:0.28
+  june:0.14
+  harkness:0.14
+  inform:0.14
+  pmthankyou:0.14
+  ill:0.14
+  contact:0.14
+  quote:0.14
+
+Topic 1:
+  link:0.28
+  post:0.28
+  jack:0.28
+  hehe:0.14
+  service:0.14
+  embassy:0.14
+  evo:0.14
+  humble:0.14
+  easy:0.14
+  bud:0.14
+
+Topic 2:
+  post:0.28
+  link:0.28
+  jack:0.28
+  hub:0.14
+  friend:0.14
+  telling:0.14
+  signed:0.14
+  pgp:0.14
+  hehe:0.14
+  questions:0.14
+
+Topic 3:
+  post:0.28
+  link:0.28
+  jack:0.27
+  verified:0.14
+  bud:0.14
+  humble:0.14
+  wanted:0.14
+  friend:0.14
+  telling:0.14
+  aboard:0.14
+
+Topic 4:
+  jack:0.28
+  post:0.27
+  link:0.27
+  quote:0.14
+  ill:0.14
+  contact:0.14
+  market:0.14
+  inform:0.14
+  pmthankyou:0.14
+  worries:0.14
+
+K: 5, Log-Likelihood: -86.928, Alpha: 11.000, Beta: 1.100

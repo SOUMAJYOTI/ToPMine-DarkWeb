@@ -1,0 +1,61 @@
+Topic 0:
+  tor:9.34
+  anonymity:8.15
+  guard:6.29
+  network:4.75
+  internet:4.72
+  government:4.67
+  mass:3.15
+  services:3.13
+  hidden:3.13
+  times:3.13
+
+Topic 1:
+  thing:2.03
+  tor:1.86
+  tor ps strength number:0.69
+  post:0.69
+  users thing ip address:0.69
+  ip:0.57
+  running:0.55
+  guard:0.51
+  good:0.49
+  true:0.49
+
+Topic 2:
+  peer:3.36
+  visible:3.29
+  larger number participants:2.78
+  ps strength number users:2.51
+  thing ip address:2.51
+  thing tor:2.51
+  current predicament lead discussion:2.44
+  point complication security:2.44
+  brought ross ulbricht:2.44
+  wondering experience markets reside:2.44
+
+Topic 3:
+  government:3.95
+  expansion:3.38
+  people:2.65
+  mother:1.68
+  rapid:1.68
+  category:1.68
+  baraka grow:1.68
+  security:1.68
+  monicker:1.68
+  decade:1.68
+
+Topic 4:
+  tails:7.64
+  install:3.76
+  start:3.73
+  quote el presidente january:3.39
+  topic:3.34
+  great:3.34
+  marketplace:3.34
+  minutes:3.34
+  persistence:3.34
+  boot menu:2.58
+
+K: 5, Log-Likelihood: -5153.730, Alpha: 11.000, Beta: 1.100

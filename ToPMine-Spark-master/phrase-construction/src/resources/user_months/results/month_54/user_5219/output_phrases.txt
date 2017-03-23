@@ -1,0 +1,61 @@
+Topic 0:
+  scam:0.20
+  guaranteed:0.20
+  vendor:0.20
+  phishing:0.20
+  pretty:0.20
+  sells:0.20
+  needed:0.18
+  low:0.18
+  kinda:0.18
+  marketplace:0.18
+
+Topic 1:
+  phishing:0.20
+  guaranteed:0.20
+  scam:0.20
+  pretty:0.20
+  sells:0.20
+  vendor:0.20
+  marketplace:0.18
+  drugs:0.18
+  thought:0.18
+  prices:0.18
+
+Topic 2:
+  sells:0.20
+  vendor:0.20
+  pretty:0.20
+  scam:0.20
+  phishing:0.20
+  guaranteed:0.20
+  drugs:0.18
+  yeah:0.18
+  prices:0.18
+  needed:0.18
+
+Topic 3:
+  pretty:0.20
+  sells:0.20
+  guaranteed:0.20
+  phishing:0.20
+  vendor:0.20
+  scam:0.20
+  drugs:0.18
+  bought:0.18
+  low:0.18
+  thought:0.18
+
+Topic 4:
+  vendor:0.20
+  sells:0.20
+  guaranteed:0.20
+  scam:0.20
+  phishing:0.20
+  pretty:0.20
+  drugs:0.18
+  kinda:0.18
+  wondered:0.18
+  yeah:0.18
+
+K: 5, Log-Likelihood: -52.213, Alpha: 11.000, Beta: 1.100

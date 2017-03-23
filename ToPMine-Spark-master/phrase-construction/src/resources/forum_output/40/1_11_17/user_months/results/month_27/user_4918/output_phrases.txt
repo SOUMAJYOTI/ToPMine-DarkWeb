@@ -1,0 +1,61 @@
+Topic 0:
+  private:0.00
+  keys:0.00
+  keynameto:0.00
+  secret:0.00
+  command:0.00
+  keynamespitfire:0.00
+  gpg export:0.00
+  key gpg:0.00
+  asc:0.00
+  extract:0.00
+
+Topic 1:
+  private:0.00
+  keys:0.00
+  keynameto:0.00
+  secret:0.00
+  command:0.00
+  keynamespitfire:0.00
+  gpg export:0.00
+  key gpg:0.00
+  asc:0.00
+  extract:0.00
+
+Topic 2:
+  private:0.00
+  keys:0.00
+  keynameto:0.00
+  secret:0.00
+  command:0.00
+  keynamespitfire:0.00
+  gpg export:0.00
+  key gpg:0.00
+  asc:0.00
+  extract:0.00
+
+Topic 3:
+  private:0.00
+  keys:0.00
+  keynameto:0.00
+  secret:0.00
+  command:0.00
+  keynamespitfire:0.00
+  gpg export:0.00
+  key gpg:0.00
+  asc:0.00
+  extract:0.00
+
+Topic 4:
+  private:0.00
+  keys:0.00
+  keynameto:0.00
+  secret:0.00
+  command:0.00
+  keynamespitfire:0.00
+  gpg export:0.00
+  key gpg:0.00
+  asc:0.00
+  extract:0.00
+
+K: 5, Log-Likelihood: 0.000, Alpha: 11.000, Beta: 1.100

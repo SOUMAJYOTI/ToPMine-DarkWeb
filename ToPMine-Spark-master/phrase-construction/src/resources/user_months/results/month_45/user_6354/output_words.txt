@@ -1,0 +1,61 @@
+Topic 0:
+  public:0.40
+  block:0.40
+  key:0.40
+  zy:0.40
+  marketplace:0.40
+  oihm:0.20
+  hmeqx:0.20
+  kpexptaxabsspswihdxqvznp:0.20
+  fxz:0.20
+  jurvcgcwlno:0.20
+
+Topic 1:
+  block:0.40
+  marketplace:0.40
+  zy:0.40
+  key:0.40
+  public:0.40
+  waooa:0.20
+  hmeqx:0.20
+  fcohzjrwztaqcoxwen:0.20
+  ypuokcm:0.20
+  forward:0.20
+
+Topic 2:
+  zy:0.40
+  marketplace:0.40
+  public:0.40
+  key:0.40
+  block:0.40
+  iqe:0.20
+  ll:0.20
+  maqw:0.20
+  eyznl:0.20
+  fq:0.20
+
+Topic 3:
+  marketplace:0.40
+  public:0.40
+  zy:0.40
+  key:0.40
+  block:0.40
+  wym:0.20
+  nsczfcjkhtjk:0.20
+  wxmtbmzwqpj:0.20
+  npkvwjtrkhm:0.20
+  ypuokcm:0.20
+
+Topic 4:
+  block:0.40
+  key:0.40
+  public:0.40
+  marketplace:0.40
+  zy:0.40
+  vzjbmrekdqp:0.20
+  curls:0.20
+  dx:0.20
+  version:0.20
+  yq:0.20
+
+K: 5, Log-Likelihood: -585.112, Alpha: 11.000, Beta: 1.100

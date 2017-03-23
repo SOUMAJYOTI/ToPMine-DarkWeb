@@ -1,0 +1,61 @@
+Topic 0:
+  age:3.84
+  buy firearm:3.84
+  sites:3.84
+  years:3.84
+  times:3.84
+  buy gun:2.53
+  boogie:2.23
+  sale:1.89
+  dealer:1.89
+  buying firearm:1.89
+
+Topic 1:
+  border:4.38
+  legal:2.67
+  guns:2.53
+  msrps:1.88
+  perfect:1.88
+  hoops:1.88
+  completely:1.88
+  investigation:1.88
+  fact:1.88
+  canadian:1.88
+
+Topic 2:
+  links:3.76
+  site:3.11
+  yeah:2.63
+  paying:2.61
+  gun pieces:2.50
+  ship:2.48
+  problem:1.82
+  phishing:1.82
+  word:1.82
+  fun:1.82
+
+Topic 3:
+  big:2.79
+  hell:2.79
+  tor:2.75
+  guns:2.69
+  markup:2.57
+  vendors:2.56
+  marketing:1.89
+  lack:1.89
+  interested:1.89
+  resource:1.89
+
+Topic 4:
+  gun:4.07
+  ya:3.83
+  find:3.83
+  dont:2.54
+  markets:2.52
+  classifieds:2.17
+  south:1.89
+  sof:1.89
+  harm:1.89
+  trafficking:1.89
+
+K: 5, Log-Likelihood: -2001.170, Alpha: 11.000, Beta: 1.100

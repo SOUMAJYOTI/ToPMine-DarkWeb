@@ -1,0 +1,61 @@
+Topic 0:
+  file:23.80
+  archive:13.60
+  pgp key:13.60
+  card:11.12
+  files:10.20
+  secured:10.20
+  create:10.20
+  remember:10.20
+  data:9.09
+  key:9.09
+
+Topic 1:
+  send pgp signed message:16.20
+  pandora:9.89
+  markets marketplaces scamming accept:9.85
+  proof access:9.85
+  sr tormarket accept source:9.85
+  link profile sheep mirror:9.85
+  sheep mirror link send:9.85
+  january:9.69
+  market:8.25
+  verify:8.08
+
+Topic 2:
+  coin:10.24
+  btc:8.23
+  markets:8.20
+  agora:7.68
+  find:7.05
+  hours:6.79
+  wallet:6.79
+  wallets:6.79
+  screwed:6.79
+  move:6.79
+
+Topic 3:
+  vacation mode:9.87
+  feedback:9.72
+  great:7.97
+  fast:7.26
+  spam:6.73
+  time:6.65
+  scammer:5.96
+  hide:5.96
+  evo good:5.96
+  current:5.96
+
+Topic 4:
+  pgp encrypted address block:13.42
+  import orders:11.25
+  btc:10.56
+  printed materials:9.83
+  small:8.96
+  code hub inside:7.96
+  file volume:6.77
+  felt:6.74
+  comfortable:6.74
+  account:6.20
+
+K: 5, Log-Likelihood: -24901.112, Alpha: 11.000, Beta: 1.100

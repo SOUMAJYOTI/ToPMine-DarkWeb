@@ -1,0 +1,61 @@
+Topic 0:
+  eliminates party wallets pb:3.57
+  works tails:3.56
+  secure:2.94
+  blockchain wallet:2.94
+  considered setting electric wallet:2.94
+  main:2.94
+  pmhave:2.94
+  princessbuttercup:2.94
+  source:2.93
+  march:2.10
+
+Topic 1:
+  day:4.86
+  hours ago:3.18
+  finished:3.18
+  atleast:2.91
+  register:2.40
+  load:2.20
+  confirmations:2.10
+  hours:1.95
+  addresses:1.95
+  wait:1.95
+
+Topic 2:
+  le:4.90
+  wallet:4.85
+  tor worried:4.08
+  tails:3.14
+  works feel:3.12
+  luck:3.12
+  electrum:3.12
+  mind:3.12
+  requires:3.12
+  service:3.12
+
+Topic 3:
+  blockchain:4.63
+  bitcoinfog:4.04
+  coins:3.93
+  support:3.66
+  amstill:2.15
+  posted:2.09
+  days:2.06
+  fault:1.98
+  traded:1.98
+  thedude march:1.98
+
+Topic 4:
+  agora:4.09
+  attack:4.09
+  fog:3.66
+  bitcoin:3.11
+  customers:2.99
+  fog agora:2.01
+  peace:2.01
+  started:2.01
+  web:2.01
+  matters:2.01
+
+K: 5, Log-Likelihood: -2262.406, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  tor:18.47
+  notice:17.94
+  file:7.94
+  log:5.93
+  bootstrapped:4.94
+  read:4.66
+  xx:3.94
+  opening:3.94
+  jun:3.94
+  ip:2.94
+
+Topic 1:
+  stuff:8.69
+  boot:5.69
+  june:3.68
+  find:3.22
+  time:2.97
+  forget:2.86
+  sense:2.77
+  memory:2.72
+  germinal:2.71
+  good:2.71
+
+Topic 2:
+  sense:2.95
+  tab:2.43
+  circuit:2.06
+  lol:1.59
+  site:1.59
+  bit:1.41
+  quote:1.31
+  straight:1.25
+  didnt:1.25
+  closed:1.16
+
+Topic 3:
+  circuit:2.05
+  close:1.31
+  lol:1.00
+  tab:0.94
+  sense:0.85
+  minutes:0.84
+  exit:0.79
+  nodes:0.79
+  bit:0.73
+  connected:0.65
+
+Topic 4:
+  circuit:1.89
+  tab:1.52
+  sense:1.39
+  lol:1.27
+  close:1.10
+  didnt:1.00
+  straight:1.00
+  site:0.82
+  quote:0.82
+  open:0.78
+
+K: 5, Log-Likelihood: -2518.710, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  javascript:0.38
+  tor:0.36
+  wallet:0.20
+  coin:0.20
+  safe:0.20
+  properly:0.20
+  turn:0.19
+  java:0.19
+  browser:0.19
+  filter:0.19
+
+Topic 1:
+  tor:0.37
+  javascript:0.36
+  safe:0.20
+  properly:0.20
+  wallet:0.20
+  coin:0.20
+  time:0.18
+  security:0.18
+  electrum:0.18
+  long:0.18
+
+Topic 2:
+  tor:0.37
+  javascript:0.36
+  wallet:0.20
+  coin:0.20
+  properly:0.20
+  safe:0.20
+  linked:0.18
+  love:0.18
+  improve:0.18
+  time:0.18
+
+Topic 3:
+  tor:0.37
+  javascript:0.36
+  coin:0.20
+  safe:0.20
+  wallet:0.20
+  properly:0.20
+  linked:0.18
+  network:0.18
+  bitcoin:0.18
+  long:0.18
+
+Topic 4:
+  tor:0.37
+  javascript:0.36
+  properly:0.20
+  coin:0.20
+  safe:0.20
+  wallet:0.20
+  love:0.18
+  electric:0.18
+  security:0.18
+  long:0.18
+
+K: 5, Log-Likelihood: -129.960, Alpha: 11.000, Beta: 1.100

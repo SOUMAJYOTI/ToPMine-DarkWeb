@@ -1,0 +1,61 @@
+Topic 0:
+  reddit:0.28
+  forums:0.28
+  deal:0.28
+  nickname:0.14
+  goggle:0.14
+  site:0.14
+  stores:0.14
+  search:0.14
+  scammer:0.14
+  tq:0.14
+
+Topic 1:
+  deal:0.28
+  forums:0.28
+  reddit:0.28
+  surf:0.14
+  green:0.14
+  bad:0.14
+  ideas:0.14
+  scamper:0.14
+  bt:0.14
+  machine:0.14
+
+Topic 2:
+  reddit:0.28
+  deal:0.28
+  forums:0.28
+  search:0.14
+  site:0.14
+  nickname:0.14
+  goggle:0.14
+  stores:0.14
+  wit:0.14
+  english:0.14
+
+Topic 3:
+  reddit:0.28
+  deal:0.28
+  forums:0.28
+  machine:0.14
+  big:0.14
+  scamper:0.14
+  haii:0.14
+  ideas:0.14
+  bt:0.14
+  scammer:0.14
+
+Topic 4:
+  forums:0.28
+  deal:0.28
+  reddit:0.28
+  english:0.14
+  green:0.14
+  ideas:0.14
+  bad:0.14
+  haii:0.14
+  wit:0.14
+  bt:0.14
+
+K: 5, Log-Likelihood: -58.792, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  search:2.16
+  directory:1.39
+  feedback:0.98
+  good:0.79
+  slow:0.76
+  idea:0.68
+  quote:0.61
+  lag:0.59
+  till:0.58
+  updates:0.58
+
+Topic 1:
+  search:1.66
+  directory:1.42
+  feedback:0.93
+  good:0.76
+  slow:0.75
+  idea:0.63
+  site:0.62
+  quote:0.59
+  launched:0.51
+  minutes:0.50
+
+Topic 2:
+  site:1.40
+  search:1.11
+  directory:1.09
+  slow:0.81
+  navigate:0.74
+  feedback:0.73
+  quote:0.64
+  idea:0.55
+  good:0.48
+  people:0.46
+
+Topic 3:
+  site:1.30
+  directory:1.16
+  search:1.13
+  slow:0.86
+  feedback:0.77
+  navigate:0.66
+  idea:0.59
+  quote:0.58
+  good:0.54
+  bit:0.44
+
+Topic 4:
+  site:2.18
+  directory:0.94
+  search:0.94
+  slow:0.82
+  navigate:0.71
+  impressed:0.59
+  feedback:0.59
+  checked:0.59
+  requires:0.59
+  responsive:0.59
+
+K: 5, Log-Likelihood: -670.067, Alpha: 11.000, Beta: 1.100

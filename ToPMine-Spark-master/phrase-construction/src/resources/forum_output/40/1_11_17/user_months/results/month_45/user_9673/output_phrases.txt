@@ -1,0 +1,61 @@
+Topic 0:
+  site:0.59
+  story:0.35
+  hell:0.32
+  miniseries:0.32
+  hahahahahahahaaaaaaahamy:0.32
+  netflixthen:0.32
+  hollywood:0.32
+  movieor:0.32
+  sidesif:0.32
+  ahhhhhhhhhhhhhhhhhhhhh:0.32
+
+Topic 1:
+  site:0.61
+  story:0.35
+  hahahahahahahaaaaaaahamy:0.32
+  sidesif:0.32
+  hollywood:0.32
+  miniseries:0.32
+  lost:0.32
+  hell:0.32
+  netflixthen:0.32
+  plot:0.32
+
+Topic 2:
+  site:0.44
+  feds:0.36
+  doesnt:0.36
+  supposed:0.36
+  bro:0.36
+  ll:0.36
+  ya:0.36
+  arrested silkroad:0.36
+  investigating:0.36
+  ta:0.36
+
+Topic 3:
+  site:0.45
+  ahhhhhhhhhhhhhhhhhhhhh:0.36
+  movieor:0.35
+  lost:0.35
+  miniseries:0.35
+  hollywood:0.35
+  sidesif:0.35
+  hell:0.35
+  netflixthen:0.35
+  plot:0.35
+
+Topic 4:
+  site:0.41
+  thievery:0.37
+  thought:0.37
+  hear:0.37
+  ya:0.37
+  ll:0.37
+  investigating:0.37
+  ta:0.37
+  doesnt:0.37
+  break:0.37
+
+K: 5, Log-Likelihood: -272.978, Alpha: 11.000, Beta: 1.100

@@ -1,0 +1,61 @@
+Topic 0:
+  key set factory retain:3.46
+  factory advise assume:3.46
+  good advice aware ssd:3.16
+  protects key encrypt data:3.15
+  fde devices created equal:3.15
+  distinction risk retaining underlying:3.15
+  ssd supports opal fde:3.14
+  encryption:2.88
+  el presidente april pmsome:2.82
+  key encrypt data changing:2.57
+
+Topic 1:
+  standard disk utility:4.48
+  works:2.90
+  gnu:2.90
+  linux:2.90
+  additionally:2.90
+  drive:2.39
+  safety:1.87
+  sitting:1.87
+  facility:1.87
+  total:1.87
+
+Topic 2:
+  nand:5.79
+  isnt:5.79
+  disk:3.92
+  data:3.92
+  memory:3.84
+  directly:3.84
+  firmware:3.84
+  sectors:3.84
+  accessing:3.84
+  overwriting:3.84
+
+Topic 3:
+  security erase enhanced option:4.54
+  full key:3.00
+  installer:3.00
+  suspicious:3.00
+  simply:3.00
+  material:3.00
+  usb:3.00
+  designed:3.00
+  leveling:3.00
+  ubuntu:3.00
+
+Topic 4:
+  output:3.84
+  password:3.84
+  hdd:3.84
+  ep:3.78
+  hdparm dev:2.29
+  investigate:1.89
+  mentioned:1.89
+  lot:1.89
+  bios:1.89
+  word:1.89
+
+K: 5, Log-Likelihood: -2833.565, Alpha: 11.000, Beta: 1.100

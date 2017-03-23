@@ -1,0 +1,61 @@
+Topic 0:
+  email:17.69
+  metadata:12.56
+  april:11.90
+  mail:11.57
+  safe:9.97
+  provider:7.40
+  amquote:7.12
+  grams:7.02
+  quote:5.94
+  contact:5.82
+
+Topic 1:
+  truecrypt:14.58
+  june:11.09
+  le:9.86
+  privacy:9.77
+  shared:9.72
+  brazilian:7.88
+  coin:7.78
+  users:7.47
+  project:6.93
+  mixing:6.77
+
+Topic 2:
+  bitcoin:14.54
+  quote:13.17
+  safe:13.15
+  tor:11.89
+  mail:11.18
+  coins:9.86
+  email:9.27
+  april:8.31
+  thread:8.13
+  march:7.40
+
+Topic 3:
+  mail:35.80
+  safe:29.44
+  net:17.95
+  israel:12.98
+  government:10.87
+  account:8.02
+  address:7.39
+  services:7.03
+  anonymous:6.65
+  trust:6.13
+
+Topic 4:
+  version:12.13
+  privacy:7.37
+  truecrypt:7.05
+  hush:6.96
+  green:6.70
+  matthew:6.69
+  subpoena:5.96
+  email:5.91
+  verson:5.86
+  developer:5.80
+
+K: 5, Log-Likelihood: -11901.812, Alpha: 11.000, Beta: 1.100

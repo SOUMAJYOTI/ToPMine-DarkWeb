@@ -1,0 +1,61 @@
+Topic 0:
+  btc:3.37
+  change wallet:1.76
+  terms:1.74
+  laban:1.73
+  expecting:1.69
+  cash:1.69
+  egold:1.69
+  crash:1.69
+  jack:1.69
+  nym:1.69
+
+Topic 1:
+  published:8.91
+  wright:8.91
+  nakamoto:7.12
+  bitcoin:5.63
+  launch:5.32
+  wired:5.32
+  cryptocurrency:3.53
+  linked:3.53
+  post:3.53
+  public:3.53
+
+Topic 2:
+  collar:2.41
+  white:2.41
+  tale:2.40
+  swat:2.40
+  criminal:2.40
+  nice:2.38
+  simple:2.01
+  operation:1.91
+  knock door:1.90
+  quote:1.77
+
+Topic 3:
+  referred:3.75
+  wallet:3.65
+  farm:3.45
+  thing:3.45
+  receive funds:2.80
+  connected:2.45
+  coin address:2.45
+  refund:2.44
+  connects:2.44
+  dont:2.44
+
+Topic 4:
+  incorporate:7.12
+  ato:5.33
+  tax avoidance:3.54
+  office:3.54
+  tax:3.54
+  feeling:3.54
+  irregularities:1.75
+  committee:1.75
+  australian tax:1.75
+  billions:1.75
+
+K: 5, Log-Likelihood: -3303.386, Alpha: 11.000, Beta: 1.100

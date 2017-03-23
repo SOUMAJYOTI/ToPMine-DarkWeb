@@ -1,0 +1,61 @@
+Topic 0:
+  tor:9.32
+  safe:8.18
+  dont:7.17
+  security:6.60
+  mail:6.56
+  time:6.34
+  access:6.13
+  google:5.73
+  messages:5.68
+  email:5.56
+
+Topic 1:
+  people:17.29
+  password:10.66
+  lsd:8.01
+  dont:7.98
+  acid:7.64
+  allot:7.45
+  encrypted:5.55
+  bad:5.53
+  crypto:4.60
+  computers:4.41
+
+Topic 2:
+  encryption:19.09
+  encrypt:12.43
+  people:11.06
+  bitmessage:8.16
+  bad:8.09
+  case:6.89
+  double:6.89
+  stay:6.56
+  gibberish:5.88
+  software:5.80
+
+Topic 3:
+  windows:8.94
+  sillywabbit:7.32
+  key:6.37
+  partition:5.94
+  time:5.14
+  diskcryptor:4.94
+  dont:3.41
+  encrypted:3.39
+  working:3.22
+  pgp:3.08
+
+Topic 4:
+  key:13.81
+  messages:9.35
+  people:6.11
+  subkey:5.97
+  set:5.58
+  public:5.54
+  spitfire:5.03
+  bm:4.53
+  pgp:4.05
+  main:3.97
+
+K: 5, Log-Likelihood: -15847.634, Alpha: 11.000, Beta: 1.100
